@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9WnAdvrLF99NEiW4p33qRWfpuvo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66159505/acastro_181130_1777_google_bias_0001.0.0.jpg' width='700px' /><br/>
+Happy Friday to you! I have been reflecting a bit on the controversy du jour: Google's redesigned search results. Google is trying to foreground sourcing and URLs, but in the process it made its results look more like ads, or vice versa. Bottom line: Google's ads just look like search results now.
+<a href='https://www.theverge.com/tech/2020/1/24/21079696/google-serp-design-change-altavisa-ads-trust'> Source <a/>

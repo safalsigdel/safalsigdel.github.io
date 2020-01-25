@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dUyWuxiM5BiMLoGR-b8H126OnI0=/0x0:2000x1499/1200x800/filters:focal(611x615:931x935)/cdn.vox-cdn.com/uploads/chorus_image/image/66158592/PH168671.0.jpg' width='700px' /><br/>
+Two and a half years after Ikea first announced its collaboration with Swedish design collective Teenage Engineering, the products are going on sale. The Frekvens range (which translates to xe2x80x9cfrequencyxe2x80x9d) will be rolling out in US stores from today through February 1st, according to Ikea.
+<a href='https://www.theverge.com/2020/1/23/21079667/ikea-teenage-engineering-frekvens-price-release'> Source <a/>
