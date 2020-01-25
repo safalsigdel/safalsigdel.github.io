@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jkfaF6Jv5OymZ_LVlQrrVP5HhYk=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66159634/1161938926.jpg.0.jpg' width='700px' /><br/>
-Live facial recognition cameras will be deployed across London, with the city's Metropolitan Police announcing today that the technology has moved past the trial stage and is ready to be permanently integrated into everyday policing.
-<a href='https://www.theverge.com/2020/1/24/21079919/facial-recognition-london-cctv-camera-deployment'> Source <a/>

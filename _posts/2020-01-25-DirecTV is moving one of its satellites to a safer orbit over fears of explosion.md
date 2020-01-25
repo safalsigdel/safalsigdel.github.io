@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3S_rT2gQ70CyAOuUeo4UlxGqvB8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66159943/acastro_190809_1777_space_debris_0001.0.jpg' width='700px' /><br/>
-DirecTV fears that one of its satellites in orbit might blow up soon, and it's gearing up to move it to safety. Due to a problem with the satellite's batteries, the satellite might burst apart at the end of February. If it did explode while in its current orbit, there's a chance it could damage active satellites nearby, which is why the company would like to get it out of the way.
-<a href='https://www.theverge.com/2020/1/24/21079490/directv-satellite-att-boeing-battery-explosion-risk-geostationary'> Source <a/>

@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VHt4jvxhS27JceS9wNmfCDHzQYA=/0x0:2100x1400/1200x800/filters:focal(882x532:1218x868)/cdn.vox-cdn.com/uploads/chorus_image/image/66155539/swiss_post_drone.0.jpg' width='700px' /><br/>
-A Switzerland drone delivery service run by the Swiss Post is set to resume on January 27th, following a suspension of the program in August 2019 after two drone crashes, including one where the drone's parachute malfunctioned.
-<a href='https://www.theverge.com/2020/1/23/21078712/switzerland-swiss-air-matternet-hospital-drone-delivery-program-resume'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/VHt4jvxhS27JceS9wNmfCDHzQYA=/0x0:2100x1400/1200x800/filters:focal(882x532:1218x868)/cdn.vox-cdn.com/uploads/chorus_image/image/66155539/swiss_post_drone.0.jpg' width='700px' /><br/>
-A Switzerland drone delivery service run by the Swiss Post is set to resume on January 27th, following a suspension of the program in August 2019 after two drone crashes, including one where the drone's parachute malfunctioned.
-<a href='https://www.theverge.com/2020/1/23/21078712/switzerland-swiss-air-matternet-hospital-drone-delivery-program-resume'> Source <a/>
