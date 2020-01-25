@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cPXkHc4sdRHmUh8jbZ4m5fWPyZw=/0x0:3780x2126/1200x800/filters:focal(1588x761:2192x1365)/cdn.vox-cdn.com/uploads/chorus_image/image/66160042/ButterRoyale_LoadingScreen.0.png' width='700px' /><br/>
+Apple Arcade has so far been a great repository for polished, offbeat indie games that are best explored when you have some quiet time and perhaps no internet connection.
+<a href='https://www.theverge.com/2020/1/24/21078970/butter-royale-apple-arcade-iphone-ios-fortnite-multiplayer-food-fight'> Source <a/>
