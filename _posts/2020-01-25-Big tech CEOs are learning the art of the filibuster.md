@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KlHY5W47VQxAxHzqPnlik7KgyNM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66159315/Google-IO-2016-event-verge_80.0.0.jpeg' width='700px' /><br/>
+You maniacs sold out our second-ever Interface live event, with Uncanny Valley author Anna Wiener, in record time. Thanks to everyone who bought a ticket, and we'll look into finding a bigger venue for the next one. In the meantime, I'm looking forward to seeing a good number of you on February 4th!
+<a href='https://www.theverge.com/interface/2020/1/24/21078749/sundar-pichai-interview-fortune-filibuster-competition-antitrust'> Source <a/>

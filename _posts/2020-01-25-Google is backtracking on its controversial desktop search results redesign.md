@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/LLlrKZrgQV7tKhjPWJzQTPt7ZKU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66162604/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
 Google is backtracking on a controversial search engine redesign, announcing today that it will experiment with some elements of the new look in response to user feedback.
+<a href='https://www.theverge.com/2020/1/24/21080424/google-search-result-ads-desktop-favicon-redesign-backtrack-controversial-experiment'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/LLlrKZrgQV7tKhjPWJzQTPt7ZKU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66162604/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google is backtracking on a controversial search engine redesign, announcing today that it will experiment with some elements of the new look in response to user feedback.
 <a href='https://www.theverge.com/2020/1/24/21080424/google-search-result-ads-desktop-favicon-redesign-backtrack-controversial-experiment'> Source <a/>

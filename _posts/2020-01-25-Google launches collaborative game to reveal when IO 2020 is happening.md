@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7IBMoqtalzFGTk6Xud7Lb9Tp8do=/0x117:1200x808/1200x800/filters:focal(516x365:708x557)/cdn.vox-cdn.com/uploads/chorus_image/image/66155528/Screen_Shot_2020_01_23_at_10.33.19_AM.0.png' width='700px' /><br/>
+Every year, Google launches a game or puzzle that people can play to eventually learn the dates for the company's annual I/O conference, and this year's game is now live (via 9to5Google).
+<a href='https://www.theverge.com/2020/1/23/21078702/google-io-2020-developer-event-teaser-mission-game-puzzle-date'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hnykoUavd7WBB4iAEUmJgPCs8pQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66156824/acastro_180510_1777_cortana_0002.0.jpg' width='700px' /><br/>
+If you use a PC, Xbox, or other Microsoft device, chatting with Cortana can be an easy way to get things done while your hands are occupied.
+<a href='https://www.theverge.com/2020/1/23/21078549/how-to-delete-cortana-microsoft-recordings-privacy'> Source <a/>
