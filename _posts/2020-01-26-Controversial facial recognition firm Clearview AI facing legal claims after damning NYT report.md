@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wvoBKbXgoO8q19tRw7AYag0y71g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg' width='700px' /><br/>
+Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News.
+<a href='https://www.theverge.com/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition'> Source <a/>

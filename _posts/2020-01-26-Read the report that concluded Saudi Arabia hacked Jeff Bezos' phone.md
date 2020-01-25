@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nt5ijaNNxOf-uoRAyfszaRnnsJk=/0x0:4000x2666/1200x800/filters:focal(1640x700:2280x1340)/cdn.vox-cdn.com/uploads/chorus_image/image/66155707/1173086694.jpg.0.jpg' width='700px' /><br/>
+This week, The Guardian posted a huge story reporting that Saudi Arabia hacked Jeff Bezos' phone in May 2018 after he received a message from Saudi Arabia's Crown Prince Mohammed bin Salman. A report published by the security forensics firm FTI Consulting concluded with “medium to high confidence” that was the case.
+<a href='https://www.theverge.com/2020/1/23/21078828/report-saudi-arabia-hack-jeff-bezos-phone-fti-consulting'> Source <a/>

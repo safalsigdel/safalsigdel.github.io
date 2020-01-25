@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FaWM6w9JmuB1Aacv4jUwQ_dYvbg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66163434/akrales_190903_3635_0013.0.jpg' width='700px' /><br/>
+So you're the owner of a brand-new Fitbit Versa or Ionic smartwatch. Congratulations!
+<a href='https://www.theverge.com/2020/1/24/21080050/fitbit-how-to-download-apps-store-versa-ionic-smartphone-smartwatch'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pbJs7VFMerBH-c7XDqrWsR415pw=/0x0:5000x3750/1200x800/filters:focal(2100x1475:2900x2275)/cdn.vox-cdn.com/uploads/chorus_image/image/66156139/1089796154.jpg.0.jpg' width='700px' /><br/>
+Home DNA-testing company 23andMe is laying off 100 employees, which is around 14 percent of its workforce. The layoffs primarily affect the operations team, according to a CNBC report that was published on Thursday.
+<a href='https://www.theverge.com/2020/1/23/21078911/23andme-layoffs-100-employees-ceo-privacy-dna-testing'> Source <a/>
