@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0-W4AvyDZ5BXzRHVaJCrgj8uHPw=/0x0:2870x1400/1200x800/filters:focal(1161x684:1619x1142)/cdn.vox-cdn.com/uploads/chorus_image/image/66165110/Screen_Shot_2020_01_24_at_4.35.56_PM.0.png' width='700px' /><br/>
+Dom Hofmann, the co-creator of Vine who has been quietly working on a successor to the short-form video platform, says the new app, called Byte, is available now on iOS and Android. The app has been available in beta form for quite some time, but its launch late on Friday afternoon came as a complete surprise.
+<a href='https://www.theverge.com/2020/1/24/21081002/byte-vine-successor-available-now-launch-dom-hofmann-ios-android'> Source <a/>

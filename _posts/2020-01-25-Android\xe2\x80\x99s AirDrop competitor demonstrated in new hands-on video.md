@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qNtw3I2DMS_-U3nEUjz8zPzw_ls=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66161077/acastro_180413_1777_android_0001.0.jpg' width='700px' /><br/>
+A new hands-on video from XDA Developers has given us our best look yet at Android's upcoming AirDrop-style sharing feature called Nearby Sharing. The video of the unannounced feature shows a number of photos and a video file being sent between a Pixel 2 XL and a Pixel 4, although XDA notes that the feature has also been seen working on a OnePlus device.
+<a href='https://www.theverge.com/2020/1/24/21080145/android-nearby-sharing-airdrop-competitor-google-hands-on-video'> Source <a/>
