@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Software Engineer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+Knowledge of various technology stack such as LAMP,MERN.
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
