@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uPyugDuDYMGB28nrC_slf0BfwiE=/0x0:2040x1360/1200x800/filters:focal(1041x468:1367x794)/cdn.vox-cdn.com/uploads/chorus_image/image/66159992/awhite_200117_3870_0232.0.jpg' width='700px' /><br/>
-In today's digital age, it sometimes feels like hardware has taken a back seat to the software that drives our devices. Button of the Month will look at what some of those buttons and switches are like on devices old and new to appreciate how we interact with them on a physical, tactile level.
-<a href='https://www.theverge.com/2020/1/24/21078922/xbox-360-transforming-d-pad-button-improvement-evolution-change-microsoft'> Source <a/>

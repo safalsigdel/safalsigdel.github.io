@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/53621321/Good_Deals_v4.0.png' width='700px' /><br/>
-Google's most recent phones, the Pixel 3A and Pixel 4, are discounted and include a free (generous) gift card with purchase at a few retailers. Neither amounts to the lowest price that we've seen, but still, it's another chance to get in on the savings if you missed out on the Black Friday and Cyber Monday deals.
-<a href='https://www.theverge.com/good-deals/2020/1/24/21079994/google-pixel-3a-4-deal-best-buy-bh-photo-free-gift-card-sale'> Source <a/>

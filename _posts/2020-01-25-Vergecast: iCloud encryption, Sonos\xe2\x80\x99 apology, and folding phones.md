@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1sNqtmad2GF_oqZA1jtuJHUlkpY=/0x0:1024x682/1200x800/filters:focal(431x260:593x422)/cdn.vox-cdn.com/uploads/chorus_image/image/66162584/icloud-drive-apple-wwdc-2014-01.0.1410959685.0.jpg' width='700px' /><br/>
-The Vergecast is back in the studio to talk about the location of math. The Verge's Nilay Patel, Dieter Bohn, and Paul Miller are joined by Russell Brandom to dig into the issues surrounding encryption on the iPhone, the Jeff Bezos phone hack, and more.
-<a href='https://www.theverge.com/2020/1/24/21080322/podcast-icloud-encryption-sonos-apology-folding-phones-bezos-hack-vergecast'> Source <a/>

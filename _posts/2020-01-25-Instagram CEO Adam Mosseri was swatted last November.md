@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XdwyW-f0ekl0IyhDnMz-2e0oUKw=/0x0:4848x3232/1200x800/filters:focal(2037x1229:2811x2003)/cdn.vox-cdn.com/uploads/chorus_image/image/66155501/1186420107.jpg.0.jpg' width='700px' /><br/>
-Adam Mosseri, the CEO of Instagram and a longtime Facebook employee, became a target of an anonymous online attacker who called in a fake hostage situation at his San Francisco home last November. The phone calls eventually led a SWAT team to Mosseri's door, according to a new report in The New York Times that was published on Thursday.
-<a href='https://www.theverge.com/2020/1/23/21078847/instagram-ceo-adam-mosseri-swatted-2019-police-online-harassment'> Source <a/>
