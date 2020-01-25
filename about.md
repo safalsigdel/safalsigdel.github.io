@@ -11,4 +11,4 @@ Software Engineer
 Knowledge of various technology stack such as LAMP,MERN.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[safalsigdel@gmail.com](mailto:safalsigdel@gmail.com)
