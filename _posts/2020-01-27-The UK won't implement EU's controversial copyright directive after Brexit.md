@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tbGuNMgCkrplm8CcfXz05_Wvl7A=/0x0:6352x4235/1200x800/filters:focal(2668x1610:3684x2626)/cdn.vox-cdn.com/uploads/chorus_image/image/66172322/1132347375.jpg.0.jpg' width='700px' /><br/>
+The UK government won't adopt the EU's controversial copyright directive after it leaves the bloc on January 31st, though politicians say they still support the legislation's “overall aims.”
+<a href='https://www.theverge.com/2020/1/27/21083295/eu-copyright-directive-uk-brexit-no-implementation'> Source <a/>
