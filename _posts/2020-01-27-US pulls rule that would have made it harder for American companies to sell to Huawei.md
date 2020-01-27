@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LaZUnGksj8ToMcHCcUtAUy6QEf4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66165019/acastro_190521_1777_huawei_0003.0.0.jpg' width='700px' /><br/>
+The US Department of Commerce has pulled a potential regulation would have made it more difficult for US companies to sell to Huawei, according to sources who spoke with the Wall Street Journal, after the Pentagon and Treasury Department protested the rule.
+<a href='https://www.theverge.com/2020/1/24/21080927/huawei-us-pentagon-defense-commerce-treasury-department'> Source <a/>

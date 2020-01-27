@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DXUD7SUqstERyOvP4PGejVW-0AA=/0x0:2040x1360/1200x800/filters:focal(982x499:1308x825)/cdn.vox-cdn.com/uploads/chorus_image/image/66162613/ngarun_190305_3273_0018.0.jpg' width='700px' /><br/>
+Fitbit is probably one of the best-known brands of smartwatches / fitness trackers next to the Apple Watch, and its range of wearables offers something for every kind of health enthusiast. If you want to get started with a fitness band that won't over-extend your budget, Fitbit has a large selection that's especially well-suited for those who are new to wearables.
+<a href='https://www.theverge.com/2020/1/24/21078627/how-to-pick-fitbit-guide-versa-2-ionic-charge-3-inspire-ace-smartwatch-price'> Source <a/>

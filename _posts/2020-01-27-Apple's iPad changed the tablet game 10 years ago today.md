@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NGzBEs1YJMZO2d7_i1dmPwl5AGM=/0x0:3000x2076/1200x675/filters:focal(1260x798:1740x1278)/cdn.vox-cdn.com/uploads/chorus_image/image/66173804/96210943.jpg.0.jpg' width='700px' /><br/>
+Steve Jobs stepped onstage 10 years ago today to introduce the world to the iPad. It was, by his own admission, a third category of device that sits somewhere between a smartphone and a laptop. Jobs unveiled the iPad just days after the annual Consumer Electronics Show ended in Las Vegas and at a time when netbooks were dominating personal computing sales.
+<a href='https://www.theverge.com/2020/1/27/21083369/apple-ipad-10-years-launch-steve-jobs-tablet-market'> Source <a/>
