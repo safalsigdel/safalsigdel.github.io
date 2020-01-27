@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Samsung is developing its own alternative to Apple's AirDrop file sharing service that will launch with the upcoming Galaxy S20, XDA Developers reports. Screenshots of the feature show that it will work similarly to AirDrop, allowing you to “share instantly with people nearby,” so long as their device has Quick Share turned on. You'll also be able to restrict who can send you files to just people in your contacts, or else leave it wide open so that strangers can send you pictures of space sloths.
-<a href='https://www.theverge.com/circuitbreaker/2020/1/24/21079869/samsung-to-debut-airdrop-competitor-alongside-galaxy-s20-report-claims'> Source <a/>
