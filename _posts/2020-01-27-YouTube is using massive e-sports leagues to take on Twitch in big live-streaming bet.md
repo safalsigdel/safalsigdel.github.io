@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VWwoCjvBMI8jRp8rvUFB400EMC8=/0x0:4752x3168/1200x800/filters:focal(1996x1204:2756x1964)/cdn.vox-cdn.com/uploads/chorus_image/image/66173423/DSC02582.0.jpg' width='700px' /><br/>
+Amazon's Twitch, Microsoft's Mixer, and Google's YouTube are all in the middle of individual creator wars, placing million-dollar bets on the biggest gaming streamers in the space. Now, YouTube is trying to corner another market in the space: e-sports.
+<a href='https://www.theverge.com/2020/1/27/21082612/youtube-blizzard-activision-esports-leagues-twitch-live-streaming'> Source <a/>
