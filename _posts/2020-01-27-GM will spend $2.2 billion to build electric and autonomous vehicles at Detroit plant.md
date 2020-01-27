@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sXGGz1Trirmm4VWemA8zeBC-VbU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66172978/vpavic_200121_3874_0010.0.jpg' width='700px' /><br/>
-Last week, GM-subsidiary Cruise unveiled the Origin, its first self-driving car without a steering wheel or pedals. At the time, the company's CEO Dan Ammann promised to reveal production details in the days to come. Well, today's the day, with GM announcing plans to spend $2.2 billion to retrofit its Detroit-Hamtramck plant for the production of autonomous and electric vehicles.
-<a href='https://www.theverge.com/2020/1/27/21083356/gm-cruise-ev-av-production-announcement-detroit-hamtramck-origin'> Source <a/>
