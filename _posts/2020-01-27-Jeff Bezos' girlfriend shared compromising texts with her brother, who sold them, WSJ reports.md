@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i4kByc8HuImFdeZEPrpNE3qi9Sc=/0x0:3900x2598/1200x800/filters:focal(1699x817:2323x1441)/cdn.vox-cdn.com/uploads/chorus_image/image/66165282/1193979016.jpg.0.jpg' width='700px' /><br/>
-New York prosecutors have evidence suggesting that Jeff Bezos' girlfriend, Lauren Sanchez, shared compromising texts about her affair with Bezos to her brother, Michael Sanchez, The Wall Street Journal reports. Michael then reportedly sold those photos to the National Enquirer, which then published a story about Lauren and Bezos' affair last January. The WSJ says its reporters have seen the texts themselves.
-<a href='https://www.theverge.com/2020/1/24/21080968/jeff-bezos-hack-phone-lauren-michael-sanchez-texts-national-enquirer'> Source <a/>
