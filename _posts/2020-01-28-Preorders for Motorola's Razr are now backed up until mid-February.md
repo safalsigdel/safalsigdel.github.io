@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e3Z8fIl-c4mzkdgk45MldFaBOMA=/0x0:2040x1360/1200x800/filters:focal(819x572:1145x898)/cdn.vox-cdn.com/uploads/chorus_image/image/66175184/vpavic_191112_3789_0021.0.jpg' width='700px' /><br/>
+If you place a preorder for Motorola's Razr right now, you won't receive the phone until February 18th — more than 10 days after its launch date. The resurrected Razr, now with a folding screen, will exclusively hit Verizon on February 6th. Preorders opened up yesterday, and delivery dates for the $1,500 device were quickly pushed out by several days.
+<a href='https://www.theverge.com/2020/1/27/21083816/motorola-razer-preorders-now-available-verizon-delayed-delivery'> Source <a/>
