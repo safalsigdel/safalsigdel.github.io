@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xOx29dbAPx2vuMXZmD0uSXpuuzM=/0x0:2009x1340/1200x800/filters:focal(845x510:1165x830)/cdn.vox-cdn.com/uploads/chorus_image/image/66173494/stylus.0.jpg' width='700px' /><br/>
+There's been a lot of excitement around Motorola's revived Razr and its folding screen. But a new image from Evan Blass (as reported by Engadget) suggests that a nostalgia play isn't the only surprise that Motorola has in store for 2020. In the shot, we see a typical-looking Moto phone with a hole-punch selfie camera, but there's a very surprising accessory next to it: a stylus.
+<a href='https://www.theverge.com/2020/1/27/21083482/motorola-stylus-phone-samsung-galaxy-note-photo-leak'> Source <a/>

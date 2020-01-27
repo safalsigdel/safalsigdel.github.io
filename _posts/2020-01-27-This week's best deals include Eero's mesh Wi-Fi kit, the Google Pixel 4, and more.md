@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QCOOSHk_jwaeAs1Qt4FE-H6tBrk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66166505/dseifert_191008_3720_0001.0.jpg' width='700px' /><br/>
+The weekend is a good time to catch up on everything, including deals that you might have missed throughout the week. Below, you'll find a mix of new sales we think are worth pointing out and a few ongoing offers that have already been featured in our coverage.
+<a href='https://www.theverge.com/good-deals/2020/1/25/21080197/tech-deals-best-google-pixel-4-headphones-speakers-games-eeros'> Source <a/>

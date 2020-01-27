@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-Y6rPjXc_rchMNoYFtR8sbnCmxI=/0x0:2040x1360/1200x800/filters:focal(929x580:1255x906)/cdn.vox-cdn.com/uploads/chorus_image/image/66173232/akrales_190903_3635_0219.0.jpg' width='700px' /><br/>
+In the mid-2010s, it seemed like every tech company launched a proprietary payment solution. Everyone from Apple and Google to Samsung, Chase, and CVS had payment apps in which you could load your credit or debit card information and use your phone to buy items from terminals that support near-field communication (NFC).
+<a href='https://www.theverge.com/2020/1/27/21078968/how-to-set-up-fitbit-pay-credit-debit-card-versa-ionic-charge-3'> Source <a/>

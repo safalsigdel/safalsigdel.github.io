@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k5DswT4pWROqcxBtjF_JmrJI6RI=/0x0:3332x2418/1200x800/filters:focal(1405x1052:1937x1584)/cdn.vox-cdn.com/uploads/chorus_image/image/66164477/space_force_logo.0.jpg' width='700px' /><br/>
+President Donald Trump on Friday revealed the official logo for the Space Force, the newest branch of the armed forces and part of the existing United States Air Force department, in a tweet.
+<a href='https://www.theverge.com/2020/1/24/21080812/space-force-new-logo-donald-trump-reveal-design-star-trek'> Source <a/>
