@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j9lJr6syvFA9iCP6NZQEDOeIc2U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66157706/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google has just revealed that its next I/O developer conference will take place from May 12th to May 14th. The company revealed the date after users participated in its annual I/O teaser, which this year was a collaborative online game to restore a fictional satellite network.
+<a href='https://www.theverge.com/2020/1/23/21079392/google-io-2020-date-announcement'> Source <a/>

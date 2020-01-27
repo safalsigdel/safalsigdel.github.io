@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+We first heard last month that Samsung's rumored new foldable, possibly called the Galaxy Z Flip, will apparently fold clamshell-style similar to Motorola's upcoming Razr and might have a glass screen. Today, leaker Max Weinbach of XDA Developers shared a few more rumors about that glass screen on Twitter.
+<a href='https://www.theverge.com/circuitbreaker/2020/1/23/21079140/samsung-galaxy-z-flip-screen-foldable-ultra-thin-glass-display-z-flip'> Source <a/>
