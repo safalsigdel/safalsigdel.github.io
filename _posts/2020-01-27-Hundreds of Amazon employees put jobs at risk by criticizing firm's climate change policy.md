@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Lr18zgEfahNWiBSJDreCcR-bfcg=/0x0:5184x3456/1200x800/filters:focal(2555x1119:3383x1947)/cdn.vox-cdn.com/uploads/chorus_image/image/66172844/1169905671.jpg.0.jpg' width='700px' /><br/>
+Hundreds of Amazon workers are speaking out against their employer's record on climate change, risking being fired to defy a company-wide ban against such public criticism.
+<a href='https://www.theverge.com/2020/1/27/21083330/amazon-employees-criticize-climate-change-oil-gas-work-risk'> Source <a/>
