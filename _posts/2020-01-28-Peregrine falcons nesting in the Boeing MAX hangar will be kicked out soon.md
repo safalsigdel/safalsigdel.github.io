@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L659Ie9sWMjQ_WMNwJNQcNshDfU=/0x0:4256x2832/1200x800/filters:focal(2133x828:2813x1508)/cdn.vox-cdn.com/uploads/chorus_image/image/66201540/601067550.jpg.0.jpg' width='700px' /><br/>
+For Boeing, there have been many consequences to the two fatal 737 Max crashes that left 346 people dead. The company halted production of the 737 Max at its Renton, Washington plant, its CEO was pushed out, and disturbing internal chats among Boeing employees discussing the plane crashes have surfaced. And now a new consequence has come to light: a pair of peregrine falcons will be homeless.
+<a href='https://www.theverge.com/2020/1/27/21092004/peregrine-falcons-boeing-737-max-hangar-renton-washington'> Source <a/>

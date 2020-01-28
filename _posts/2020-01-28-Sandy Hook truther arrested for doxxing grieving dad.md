@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NdhtPURktjPOgoCHoCHJXJ00kK4=/0x0:5472x3648/1200x800/filters:focal(2275x1209:3149x2083)/cdn.vox-cdn.com/uploads/chorus_image/image/66201579/931892588.jpg.0.jpg' width='700px' /><br/>
+A man who spread conspiracy theories about the Sandy Hook shooting and allegedly harassed victims' families was arrested Monday morning in Florida. The hoaxer, Wolfgang Halbig, was charged with “unlawful possession of personal identification of another person” and released after paying a $5,000 bond. The arrest was first reported in The New York Times.
+<a href='https://www.theverge.com/2020/1/27/21110759/wolfgang-halbig-florida-arrest-sandy-hook-hoax-troll'> Source <a/>

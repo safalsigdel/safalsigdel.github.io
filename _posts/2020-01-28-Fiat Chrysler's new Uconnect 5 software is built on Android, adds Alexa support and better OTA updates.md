@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B9rRu0X297WANTvUiEkHtn5DdUQ=/0x0:1049x590/1200x800/filters:focal(442x212:608x378)/cdn.vox-cdn.com/uploads/chorus_image/image/66201494/ET020_002AT3f564vo2jh85qqes40nd729nj5.0.jpg' width='700px' /><br/>
+Fiat Chrysler (FCA) today announced the newest version of its infotainment system for cars, Uconnect 5. The new system adds tons of new features for future Chrysler, Dodge, Jeep, Ram, and Fiat vehicles, including integrated Alexa support, improved over-the-air firmware updates, and support for wireless Apple CarPlay and Android Auto.
+<a href='https://www.theverge.com/2020/1/27/21110772/fiat-chrysler-uconnect-5-infotainment-software-alexa-android-ota-updates-carplay-wireless-jeep'> Source <a/>

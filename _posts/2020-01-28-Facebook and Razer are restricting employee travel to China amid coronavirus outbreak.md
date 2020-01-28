@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-_EkSJTx0x1INmqsCzplS0EhXGg=/0x0:5951x3967/1200x800/filters:focal(2696x2031:3648x2983)/cdn.vox-cdn.com/uploads/chorus_image/image/66202257/1196735784.jpg.0.jpg' width='700px' /><br/>
+Facebook and gaming hardware maker Razer are among the first US technology companies to begin restricting travel to China amid the ongoing coronavirus outbreak.
+<a href='https://www.theverge.com/2020/1/27/21111047/facebook-coronavirus-employee-travel-restricting-virus-outbreak-concern'> Source <a/>
