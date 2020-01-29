@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OTeGunvCU5Pf3LLh4RTWsBxskNc=/0x0:4000x2667/1200x800/filters:focal(1800x895:2440x1535)/cdn.vox-cdn.com/uploads/chorus_image/image/66211791/1199780229.jpg.0.jpg' width='700px' /><br/>
+HBO Max is going to cost AT&T a lot of money — but company executives are mostly fine with a short-term loss if the long-term gain pays off.
+<a href='https://www.theverge.com/2020/1/29/21113234/att-earnings-warnermedia-hbo-max-revenue-loss-netflix-streaming-wars'> Source <a/>

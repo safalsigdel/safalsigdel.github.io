@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SxFWU9MY7j-mlXn2GscimT7_HmM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66211769/acastro_190228_1777_vpn_0002.0.jpg' width='700px' /><br/>
+Wireless carriers are expected to start boosting LTE speeds and augmenting their 5G rollouts later this year with a swath of spectrum that, as of this week, is finally ready for commercial use. Many popular phones — including Apple's iPhone 11, Samsung's Galaxy S10, and Google's Pixel 4 — already support the spectrum, so it's possible people in the US will start benefiting from the new deployments later this year.
+<a href='https://www.theverge.com/2020/1/29/21111463/wireless-speed-boost-spectrum-fcc-cbrs-faster-3-5ghz-phones'> Source <a/>

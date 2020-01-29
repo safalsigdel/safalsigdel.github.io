@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D7lW-asxgBQQBcrZPCbKjjt8sew=/0x0:1437x791/1200x800/filters:focal(605x282:833x510)/cdn.vox-cdn.com/uploads/chorus_image/image/66174866/Bird_Circ.0.png' width='700px' /><br/>
-Bird has announced that it will acquire Circ, a leading electric scooter rental business in Europe and the Middle East. The acquisition is the latest sign of consolidation among e-scooter companies as the quest for a profitable business model intensifies.
-<a href='https://www.theverge.com/2020/1/27/21083751/bird-acquires-circ-electric-scooter-europe-asia'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zxBlphV7457IIfEE2L885HNMnZ4=/0x0:2130x1420/1200x675/filters:focal(895x540:1235x880)/cdn.vox-cdn.com/uploads/chorus_image/image/66172649/VRG_ILLO_1777_AK_body_data.0.0.jpg' width='700px' /><br/>
-These days, it might seem like algorithms are out-diagnosing doctors at every turn, identifying dangerous lesions and dodgy moles with the unerring consistency only a machine can muster. Just this month, Google generated a wave of headlines with a study showing that its AI systems can spot breast cancer in mammograms more accurately than doctors.
-<a href='https://www.theverge.com/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy'> Source <a/>

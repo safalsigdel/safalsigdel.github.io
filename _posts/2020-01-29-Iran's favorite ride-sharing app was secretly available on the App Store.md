@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iv8mmTM0pdaax6bCdSTOEqEYlhw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66209128/acastro_190530_1777_wwdc_2019_0003.0.0.jpg' width='700px' /><br/>
+A popular Iranian ride-sharing app that was kicked off the App Store appeared to return this week under a new name, despite American sanctions.
+<a href='https://www.theverge.com/2020/1/28/21112467/iran-ridesharing-app-us-sanctions-app-store'> Source <a/>

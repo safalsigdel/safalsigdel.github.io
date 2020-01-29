@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lZuZbSYYsKyo8b6mAz76Ty7J0pw=/0x0:2080x1387/1200x800/filters:focal(680x764:1012x1096)/cdn.vox-cdn.com/uploads/chorus_image/image/66173055/amazon_echo_buds_chris_welch_the_verge_1.0.jpg' width='700px' /><br/>
-Amazon's Echo Buds are on sale for $90, in what appears to be their first sale since launching in October. The wireless earbuds normally sell for $130, which is a steep price considering you can get Apple's much-loved AirPods for $159. With this discount, the Echo Buds are competing in a very different price class and look like a far better value.
-<a href='https://www.theverge.com/good-deals/2020/1/27/21083380/echo-bud-deal-sale-amazon-wireless-earbuds-alexa'> Source <a/>

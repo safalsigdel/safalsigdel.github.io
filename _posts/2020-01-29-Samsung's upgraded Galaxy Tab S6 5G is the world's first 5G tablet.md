@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hnKQhLzGLOxnsAFoEQoqQ_zTanI=/0x0:1000x472/1200x800/filters:focal(420x156:580x316)/cdn.vox-cdn.com/uploads/chorus_image/image/66212226/____________________S6_5G4.0.jpg' width='700px' /><br/>
+Samsung has officially announced the Galaxy Tab S6 5G, a 5G variant of 2019's Tab S6 tablet that also takes the crown as the world's first 5G tablet, as spotted by Android Central.
+<a href='https://www.theverge.com/2020/1/29/21113306/samsung-galaxy-tab-s6-5g-tablet-upgraded-south-korea-specs-features'> Source <a/>
