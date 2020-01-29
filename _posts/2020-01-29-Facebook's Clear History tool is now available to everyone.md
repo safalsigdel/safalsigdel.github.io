@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yrgx1WKOEZVmLtYOzWMvyNr3mA8=/0x0:1024x639/1200x800/filters:focal(431x239:593x401)/cdn.vox-cdn.com/uploads/chorus_image/image/66206733/ofa_embedded_en_us.0.jpg' width='700px' /><br/>
-Facebook's Clear History tool is now available in all countries, CEO Mark Zuckerberg announced in a blog post today. It's part of a new section in your settings called “Off-Facebook activity,” and it lets users see which third-parties have shared user interactions with the social network — even when they're not using Facebook directly.
-<a href='https://www.theverge.com/2020/1/28/21111981/facebooks-clear-history-tool-now-available-to-everyone'> Source <a/>
