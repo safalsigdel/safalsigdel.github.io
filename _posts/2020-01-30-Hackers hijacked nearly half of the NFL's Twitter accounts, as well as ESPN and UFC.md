@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LcxtIiACOZX-dynbuH0mGTJt6MI=/0x0:560x420/1200x800/filters:focal(236x166:324x254)/cdn.vox-cdn.com/uploads/chorus_image/image/66207098/nfl-logo.0.jpg' width='700px' /><br/>
-The social media accounts of almost half of the teams in the National Football League, as well as the official NFL account, were hacked, the NFL said in a statement today. Some ESPN social media accounts were also “briefly compromised,” ESPN said today in a statement to The Verge.
-<a href='https://www.theverge.com/2020/1/28/21112015/nfl-ourmine-hack-social-media-twitter-facebook-instagram-accounts'> Source <a/>
