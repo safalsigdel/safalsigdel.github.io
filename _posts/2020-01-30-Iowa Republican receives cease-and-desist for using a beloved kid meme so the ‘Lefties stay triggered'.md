@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e0Z6QaSF8Exvglg7fn1kd6Z6QfY=/0x0:1920x1080/1200x800/filters:focal(391x323:697x629)/cdn.vox-cdn.com/uploads/chorus_image/image/66208405/cute-success-kid-1920x1080.0.0.jpg' width='700px' /><br/>
-The mother of “Success Kid” Sammy Griner has sent a cease-and-desist notice to to Rep. Steve King, who she called a “vile man” for using the viral image of the toddler with a clenched fist as part of fundraising efforts. Laney Griner is threatening to sue the Iowa Republican for copyright infringement. But copyright law around viral memes is a gray area that still has not seen its day in court.
-<a href='https://www.theverge.com/2020/1/28/21111805/iowa-republican-meme-lawsuit-success-kid-mom-steve-king'> Source <a/>
