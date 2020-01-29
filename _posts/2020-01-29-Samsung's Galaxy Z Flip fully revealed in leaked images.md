@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/koomLmPhqrjdIUIu3hHcCj3r7nw=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/66206445/flipz.0.png' width='700px' /><br/>
-Rumors about Samsung's next foldable, the vertically folding Galaxy Z Flip, have been swirling for weeks. But thanks to a new leak, the full details for the upcoming foldable phone have been revealed. WinFuture's leak is the biggest yet for the upcoming device, with official renders from Samsung and a full spec sheet for the Galaxy Z Flip.
-<a href='https://www.theverge.com/2020/1/28/21112051/samsung-galaxy-z-flip-leaked-foldable-display-glass-oled-specs-images-photos-unpacked'> Source <a/>

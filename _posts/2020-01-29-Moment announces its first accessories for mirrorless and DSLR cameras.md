@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_ZvPhsQTg0xpC4zg5ND5U_v8fhA=/0x0:2860x1899/1200x800/filters:focal(1321x460:1777x916)/cdn.vox-cdn.com/uploads/chorus_image/image/66206349/moment_vnd_webready_1758.0.jpg' width='700px' /><br/>
-Moment, a company that's well-known for its smartphone and drone accessories, has announced a first: a lineup of filters for full-blown mirrorless and DSLR camera lenses.
-<a href='https://www.theverge.com/2020/1/28/21099265/moment-variable-nd-filters-dslr-cameras-mavic-drones'> Source <a/>

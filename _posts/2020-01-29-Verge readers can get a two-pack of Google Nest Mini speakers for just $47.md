@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z9-0ldtyOo7UqZGVZbkljKpUKyY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66212905/cwelch_191016_3737_0002.0.jpg' width='700px' /><br/>
+It's not tough to get around paying the full $49.99 price on Google's Nest Mini smart speaker. Right now, Google sells them for $35 each, and during the holiday season last year, they dropped down to $25. Those are good prices, but Daily Steals is offering Verge readers a discount on a two-pack that's considerably better. By using the offer code VERGENEST at checkout, you can get two for $46.99.
+<a href='https://www.theverge.com/good-deals/2020/1/29/21112503/google-nest-mini-smart-speaker-deal-airpods-tcl-roku-4k-tv-sale'> Source <a/>

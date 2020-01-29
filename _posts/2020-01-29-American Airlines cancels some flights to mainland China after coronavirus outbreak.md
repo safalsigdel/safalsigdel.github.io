@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rdqo3eltBqxro6l3RtK92bzxXdM=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66212811/1089842108.jpg.0.jpg' width='700px' /><br/>
+American Airlines will suspend flights between Los Angeles and mainland China from February 9th to March 27th due to a “significant decline in demand” brought on by the coronavirus outbreak, the company announced Wednesday. The airline will continue to operate flights to Beijing and Shanghai from Dallas-Fort Worth and back, as well as between Los Angeles and Hong Kong.
+<a href='https://www.theverge.com/2020/1/29/21113422/coronavirus-outbreak-american-airlines-china-flights-cancelled-dates'> Source <a/>
