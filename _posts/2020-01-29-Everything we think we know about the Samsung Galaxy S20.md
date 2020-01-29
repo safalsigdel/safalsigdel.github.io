@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/prc3XGzWu2EZ_x2yB0kl_ndXT_I=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/66203722/s20.0.png' width='700px' /><br/>
-Samsung is expected to announce the Galaxy S20 — the successor to last year's Galaxy S10, and the company's next flagship — at its upcoming Galaxy Unpacked event on February 11th.
-<a href='https://www.theverge.com/2020/1/28/21078540/samsung-galaxy-s20-s11-plus-ultra-rumors-specs-unpacked-leaks-event-date-time-2020'> Source <a/>
