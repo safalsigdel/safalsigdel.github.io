@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/agbG4gWpuxCRKavD18fHi_C1Tow=/0x0:2040x1360/1200x800/filters:focal(877x498:1203x824)/cdn.vox-cdn.com/uploads/chorus_image/image/66209141/akrales_190914_3628_0060.0.jpg' width='700px' /><br/>
-Apple reported its first quarter results for fiscal year 2020 this afternoon, offering an important look into the company's holiday sales quarter and momentum of Apple's various services. The company posted earnings of $4.99 per share and revenue of $91.8 billion. Both outperformed analyst expectations, which were $4.54 earnings per share and revenue of around $88.43 billion.
-<a href='https://www.theverge.com/2020/1/28/21112397/apple-q1-2020-earnings-iphone-11-sales-airpods-ipad-mac-services'> Source <a/>
