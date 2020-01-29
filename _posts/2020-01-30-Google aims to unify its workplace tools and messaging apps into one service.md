@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NqJCWDMNxrky6LLR_hVQ_UIgyic=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66209746/mdoying_180117_2249_0208stills.0.jpg' width='700px' /><br/>
-Google is working on another communications application, this one for workplaces, that will combine several different platforms it already operates, according to a new report from The Information. This new product is designed to unify different Google services the company sells to businesses, including parts of its G Suite like corporate-grade Gmail and Google Drive.
-<a href='https://www.theverge.com/2020/1/28/21112596/google-messaging-communications-app-hangouts-chat-meet-g-suite'> Source <a/>
