@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VaemdwPcPL20y6e6H6t2hobi7d8=/0x0:1600x1160/1200x800/filters:focal(672x452:928x708)/cdn.vox-cdn.com/uploads/chorus_image/image/66206007/Screen_Shot_2020_01_28_at_9.58.46_AM.0.png' width='700px' /><br/>
-Nomad has released a new AirPods Pro case, and, like the company's previous AirPod cases, it's thoughtfully designed for something that's effectively just a case that you put on top of another case.
-<a href='https://www.theverge.com/2020/1/28/21111850/nomad-leather-airpods-pro-case-rugged-design-apple-accessory'> Source <a/>
