@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zaJCcRQr6KUS6QV_9wVJAyCUTYw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66215316/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
+Google is temporarily shutting down all of its China offices due to the coronavirus outbreak, the company confirmed to The Verge on Wednesday. The shutdown includes all offices in mainland China, as well as Google's offices in Hong Kong and Taiwan.
+<a href='https://www.theverge.com/2020/1/29/21113817/coronavirus-google-china-offices-temporary-closing-virus-outbreak-risk'> Source <a/>
