@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IewBb1QkopxuSSk_p-NRi4FqWyg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66213491/akrales_190903_3635_0139.0.jpg' width='700px' /><br/>
-Earlier this month, Fitbit quietly rolled out blood oxygen monitoring to five of its devices: the Versa, Versa 2, Versa Lite, Ionic, and Charge 3. (Interestingly, this is a feature that Apple said its Apple Watch is capable of doing, but which has yet to be released for that device.)
-<a href='https://www.theverge.com/2020/1/29/21113434/fitbit-blood-oxygen-levels-monitor-sleep-data-how-to'> Source <a/>
