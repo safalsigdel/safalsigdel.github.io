@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OqNyL59erz_d-W2rfUbzTHiuAHA=/0x0:2156x1462/1200x800/filters:focal(906x559:1250x903)/cdn.vox-cdn.com/uploads/chorus_image/image/66211515/scroll.0.png' width='700px' /><br/>
-Welcome back to Processor, a newsletter about computers and also sometimes other things. You are probably expecting me to spend several paragraphs making fun of Google for creating yet another messaging product, as The Information reported yesterday. Not gonna do it: it's enterprise-focused and from what I can tell about Google's cloud business right now, a haphazard message app strategy is the least of their worries.
-<a href='https://www.theverge.com/2020/1/29/21113003/scroll-subscription-service-publisher-web-cookie-hack'> Source <a/>
