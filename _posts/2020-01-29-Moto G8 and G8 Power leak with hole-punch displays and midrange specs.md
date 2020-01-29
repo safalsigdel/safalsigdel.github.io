@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/355jjC6QKVZ_0KT4QxqkI09wwUE=/0x0:1024x538/1200x800/filters:focal(289x186:451x348)/cdn.vox-cdn.com/uploads/chorus_image/image/66206316/Moto_G8_1_1024x538.0.jpg' width='700px' /><br/>
-Motorola's upcoming Moto G8 and G8 Power have been detailed in a pair of leaks from XDA-Developers and 91Mobiles, and they reveal much of the unannounced phones' specs and design. Both phones feature displays with hole-punch cutouts, a first for Motorola's G-series lineup, and are powered by the same Qualcomm Snapdragon 665 that Motorola used in last year's Moto G8 Plus.
-<a href='https://www.theverge.com/2020/1/28/21111988/motorola-moto-g8-power-specs-features-battery-life-news-macro-hole-punch-display'> Source <a/>
