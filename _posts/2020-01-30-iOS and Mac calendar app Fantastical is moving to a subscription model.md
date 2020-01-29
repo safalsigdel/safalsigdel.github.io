@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bjiNrYty6vC917gP9CwiHHoW-2o=/0x0:1182x790/1200x800/filters:focal(497x301:685x489)/cdn.vox-cdn.com/uploads/chorus_image/image/66212366/month.5.png' width='700px' /><br/>
+Calendar app Fantastical is getting a big update simultaneously across all Apple platforms that adds a bunch of new features, but also moves its signature software to a subscription model on iOS and Mac.
+<a href='https://www.theverge.com/2020/1/29/21109700/fantastical-flexibits-subscription-service-premium-price-apple'> Source <a/>

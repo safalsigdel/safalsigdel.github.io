@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RY3s7NaJX_PZHlBI-CqXe4Wx9PM=/0x0:3936x2620/1200x800/filters:focal(1654x996:2282x1624)/cdn.vox-cdn.com/uploads/chorus_image/image/66213408/1197308677.jpg.0.jpg' width='700px' /><br/>
+Electronics giant LG is issuing a blanket employee travel ban to China amid the coronavirus outbreak. The South Korean company says it is also requiring all traveling employees currently in China to return home, while all future travel plans to the country must be approved through a special request.
+<a href='https://www.theverge.com/2020/1/29/21113575/coronavirus-lg-china-employee-travel-ban'> Source <a/>

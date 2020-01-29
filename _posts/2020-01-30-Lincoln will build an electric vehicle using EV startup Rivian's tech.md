@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n2o22Yc1weMP_-3uFIAmWKZQJto=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66213410/rivian_electric_truck_3736.0.jpg' width='700px' /><br/>
+The Lincoln Motor Company has confirmed it's developing an all-electric vehicle that will be powered by tech from EV startup Rivian. It will be Lincoln's first all-electric vehicle, though the company did not say when it is due, nor did it offer any other details about the vehicle, beyond saying it will “feature connected and intuitive technologies designed to create an effortless experience for Lincoln clients.”
+<a href='https://www.theverge.com/2020/1/29/21113578/lincoln-rivian-electric-suv-ford-platform-tech'> Source <a/>
