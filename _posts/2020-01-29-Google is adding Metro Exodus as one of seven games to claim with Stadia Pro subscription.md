@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a_YvS0j0ykCQ1tTIKS3VfjmoLpE=/0x0:2040x1360/1200x800/filters:focal(784x562:1110x888)/cdn.vox-cdn.com/uploads/chorus_image/image/66206747/akrales_191113_3779_0163.0.jpg' width='700px' /><br/>
-Google announced today that two new games are coming to Stadia Pro, the subscription plan that lets customers of its Stadia cloud gaming service play a small selection of titles for one flat monthly fee.
-<a href='https://www.theverge.com/2020/1/28/21109708/google-stadia-pro-free-gylt-metro-exodus-tomb-raider-samurai-shodown'> Source <a/>
