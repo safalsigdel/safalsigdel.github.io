@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gDRfDD911Fhd6ntfii7ZrKfTBHE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66204842/akrales_180305_2350_0160.0.jpg' width='700px' /><br/>
-Almost two full years after they were released in March 2018, the Galaxy S9 and S9 Plus are starting to get updated to Android 10, with the update already rolling out to users in Germany and Xfinity Mobile customers in the US, according to SamMobile.
-<a href='https://www.theverge.com/2020/1/28/21111460/samsung-galaxy-s9-android-10-update-roll-out-germany-xfinity-mobile'> Source <a/>
