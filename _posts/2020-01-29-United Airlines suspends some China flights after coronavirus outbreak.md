@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E8KNmxk-w9OFc2Nti56mjlneVRU=/0x0:5959x3965/1200x800/filters:focal(2504x1507:3456x2459)/cdn.vox-cdn.com/uploads/chorus_image/image/66207938/1171701635.jpg.0.jpg' width='700px' /><br/>
-United Airlines is suspending some flights to and from China because of a “significant decline in demand” brought on by the emerging coronavirus outbreak, the company announced on Tuesday. Flights between major US hubs and Beijing, Shanghai, and Hong Kong will be suspended between February 1st and February 8th, CNBC reports.
-<a href='https://www.theverge.com/2020/1/28/21112204/coronavirus-outbreak-united-airlines-china-flights-canceled'> Source <a/>
