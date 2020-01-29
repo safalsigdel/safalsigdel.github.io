@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ddA9vs2k1BvRIEbK0R3YAJ-J-a8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66207626/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google plans to add a live transcription feature to its Google Translate app for Android at some point in the future. The feature will allow users to record audio in one language and have it rendered in another in real time. It's still in the prototype stage, but Google gave a demonstration of the technology during a series of artificial intelligence demos at its San Francisco office on Tuesday.
-<a href='https://www.theverge.com/2020/1/28/21112214/google-translate-real-time-transcription-ai-android-app-feature-new'> Source <a/>
