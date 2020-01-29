@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UnSezZWaqRf7Q_BSu1pmKJYh6EQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66209872/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
+Apple CEO Tim Cook said on Tuesday that the company began limiting employee travel to China last week amid the coronavirus outbreak, and that Apple has closed one store in mainland China and reduced operating hours for other retail locations.
+<a href='https://www.theverge.com/2020/1/28/21112650/coronavirus-apple-china-travel-limiting-stores-retail-employee-temperature'> Source <a/>

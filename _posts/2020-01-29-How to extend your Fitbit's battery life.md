@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T3_CEuXWc2cQ5al02BQQi-KakUY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66205397/akrales_190328_3319_0056.0.jpg' width='700px' /><br/>
+When your Fitbit dies in the middle of a workout or fails to register an excellent night's sleep, it can be a frustrating experience.
+<a href='https://www.theverge.com/2020/1/28/21080768/fitbit-how-to-extend-battery-life-settings'> Source <a/>

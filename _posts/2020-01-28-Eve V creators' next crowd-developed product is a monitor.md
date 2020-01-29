@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zDD1i9yeXY3cR5FPjaxPPL1xJTU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66173330/EVE_Spectrum_desk.0.jpg' width='700px' /><br/>
-Eve, the Finnish hardware startup that crowdsourced ideas for what turned out to be a pretty great Windows 2-in-1 but then struggled to meet demand, has announced its next product. The Spectrum is a “crowd-developed” monitor that, if the company can deliver, sounds like a compelling option. Of course, as with the Eve V, that is a big if.
-<a href='https://www.theverge.com/2020/1/27/21083260/eve-v-next-product-spectrum-monitor-price-specs'> Source <a/>

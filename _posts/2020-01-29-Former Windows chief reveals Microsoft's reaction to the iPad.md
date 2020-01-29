@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C_k1pq3KppfXcWStgrbUMErhkfw=/0x0:1020x681/1200x800/filters:focal(429x260:591x422)/cdn.vox-cdn.com/uploads/chorus_image/image/66206800/steven-sinofsky-microsoft-stock_1020.0.jpg' width='700px' /><br/>
+Former Windows chief Steven Sinofsky has revealed his perspective of being on the Windows team when Apple unveiled the iPad 10 years ago this week. Microsoft tried to make tablet PCs a thing with Windows XP, but the company didn't get the timing, hardware, and software right in order to succeed. So when Apple unveiled its iPad in 2010, it surprised many people inside Microsoft.
+<a href='https://www.theverge.com/2020/1/28/21112086/microsoft-apple-ipad-response-steven-sinofsky-windows-8-surface-rt-history'> Source <a/>

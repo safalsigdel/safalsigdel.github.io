@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jFYpob7MUviMFmeEry3HzLhScbQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66209551/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
+Barely over a year ago, we pointed out how dystopian it seemed when Chinese schools added “smart uniforms” to track their students' attendance. But US colleges are already testing out a similar tactic with a location tracking app, which students are now apparently expected to install on their phones.
+<a href='https://www.theverge.com/2020/1/28/21112456/spotteredu-degree-analytics-student-location-tracking-app-attendance'> Source <a/>

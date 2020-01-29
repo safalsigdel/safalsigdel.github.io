@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tzCyN2ofrN9WJEA4nWFEPchFTeQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66208415/akrales_170202_1441_A_0124.0.0.jpg' width='700px' /><br/>
+Nintendo has crossed over $1 billion in revenue from its mobile games for Android and iOS according to a new report from SensorTower — largely carried by the popular free-to-play Fire Emblem Heroes, which was released in 2017. It has since gone on to earn $656 million, more than every other Nintendo mobile game combined.
+<a href='https://www.theverge.com/2020/1/28/21112029/nintendo-mobile-games-revenue-fire-emblem-heroes-mario-run-android-ios'> Source <a/>
