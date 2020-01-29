@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6P4tGUjiab8C4sJOGof2udvulkc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66205993/dseifert_181018_3039_1267.0.jpg' width='700px' /><br/>
-Some products are worth buying at full price, but Google's Nest Hub smart display shouldn't be one of them. This device launched for $129, but it's not difficult to find one for around $70. Best Buy's offer today takes the cake, though: you can get two of them for $100.
-<a href='https://www.theverge.com/good-deals/2020/1/28/21111838/google-nest-hub-smart-display-assistant-deal-sale-amazon-echo-buds-ipad'> Source <a/>
