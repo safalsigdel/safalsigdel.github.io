@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jIU6TToUz1PF9XvPlIzShdmOGvk=/0x1166:2412x2998/1200x800/filters:focal(307x1448:991x2132)/cdn.vox-cdn.com/uploads/chorus_image/image/66211274/A_Covariant_robot_at_a_KNAPP_powered_warehouse_Obeta_outside_Berlin_.0.jpg' width='700px' /><br/>
+Right now, in a warehouse not far from Berlin, a bright yellow robot is leaning over a conveyor, picking items out of crates with the assurance of a chicken pecking grain.
+<a href='https://www.theverge.com/2020/1/29/21083313/robot-picking-warehouses-logistics-ai-covariant-stealth'> Source <a/>
