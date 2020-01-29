@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MEirZ9WgDze6cx_pOh3xylQcqTY=/0x0:2040x1360/1200x800/filters:focal(865x732:1191x1058)/cdn.vox-cdn.com/uploads/chorus_image/image/66216369/jbareham_180213_2301_0168.0.jpg' width='700px' /><br/>
+Tesla's record-setting number of sales in 2019 also helped the electric automaker generate more money in one year than ever before, the company announced Wednesday afternoon.  Tesla generated $24.6 billion in revenue in 2019, buoyed by a fourth quarter revenue figure of $7.4 billion.
+<a href='https://www.theverge.com/2020/1/29/21113987/tesla-q4-2019-earnings-results-profit-revenue-model-3'> Source <a/>

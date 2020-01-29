@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SiBJBOvfiySj845Ds2C0UCTNEM0=/0x0:1600x978/1200x800/filters:focal(637x383:893x639)/cdn.vox-cdn.com/uploads/chorus_image/image/66211334/powerbeats4icon.0.jpg' width='700px' /><br/>
-Apple could soon launch a new version of its Powerbeats earbuds if imagery discovered in the latest version of iOS by MacRumors is to be believed. The Powerbeats are Apple's semi-wireless earbuds. The two earbuds are connected together by a single cable but connect wirelessly to a phone over Bluetooth. The last version of these earbuds were the Powerbeats 3, released in 2016.
-<a href='https://www.theverge.com/2020/1/29/21113183/apple-powerbeats-4-ios-icon-leak'> Source <a/>
