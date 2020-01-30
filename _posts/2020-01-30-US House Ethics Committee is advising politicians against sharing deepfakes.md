@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TLeggf9-C4f1wfkmZ935mr80Tkg=/0x0:1024x771/1200x800/filters:focal(431x305:593x467)/cdn.vox-cdn.com/uploads/chorus_image/image/66215828/capitoldome-congress.0.jpg' width='700px' /><br/>
-The US House Ethics Committee informed House members yesterday that posting audio or video that has been altered for misleading effect on social media, also known as deepfakes, might be in violation of House rules.
-<a href='https://www.theverge.com/2020/1/29/21113944/us-house-ethics-committee-deepfakes-social-media-facebook-pelosi'> Source <a/>
