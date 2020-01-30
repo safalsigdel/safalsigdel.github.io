@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2qAjheN217Vq4QoFeCS5uENnY4I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66217151/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook says it has agreed to pay $550 million to settle a class-action lawsuit regarding its use of facial recognition technology. The news, reported first this evening by The New York Times, was part of a disclosure the company made as part of its fourth quarter earnings report today.
-<a href='https://www.theverge.com/2020/1/29/21114358/facebook-550-million-settle-lawsuit-facial-recognition-technology-illinois'> Source <a/>
