@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KS-x0JihTQoq8taw1Uf76CkQpIU=/0x0:2009x1340/1200x800/filters:focal(845x510:1165x830)/cdn.vox-cdn.com/uploads/chorus_image/image/66218939/stylus.0.jpg' width='700px' /><br/>
+The first photographs of Motorala's stylus-equipped Moto have appeared online, just days after the first image of the device was leaked by Evan Blass. The photograph, which comes to us from 91Mobiles, shows the rear of the phone for the first time. 91Mobiles also has some initial details on what the specs of the device are likely to be.
+<a href='https://www.theverge.com/2020/1/30/21114921/moto-g-stylus-leaked-photograph-camera-specs-snapdragon-ram'> Source <a/>

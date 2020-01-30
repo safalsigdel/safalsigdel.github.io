@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9fNOJanumgbtncbMr5oCQ_MhccE=/0x0:733x489/1200x800/filters:focal(309x187:425x303)/cdn.vox-cdn.com/uploads/chorus_image/image/66213832/gimlet.0.jpg' width='700px' /><br/>
-Spotify's going all-in on podcasting, which means it needs more people to make shows. In an effort to demystify the podcasting industry and encourage people to pursue their own, Spotify today released a new five-part series about how Gimlet Media, the maker of shows like Reply All and Heavyweight, creates its programs.
-<a href='https://www.theverge.com/2020/1/29/21113480/spotify-gimlet-media-academy-podcast-release'> Source <a/>
