@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lIJ4cw2LGfoQUv5qYYRsN-pm5aA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66217087/acastro_170731_1777_0002_v2.0.jpg' width='700px' /><br/>
-Nearly four years after the California Institute of Technology sued Apple and Broadcom for allegedly infringing four of the university's patents on Wi-Fi data transmission, a federal jury has agreed that the two companies infringed — and has awarded $1.1 billion in damages to Caltech for the infringement, Law360 reports.
-<a href='https://www.theverge.com/2020/1/29/21114325/apple-broadcom-caltech-lawsuit-jury-award-1-1-billion-damages'> Source <a/>
