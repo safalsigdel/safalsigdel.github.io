@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yRbnJJi6atC1XMfE1vk3JpirUn8=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/66220173/1130169832.jpg.0.jpg' width='700px' /><br/>
+Moscow is the latest major city to introduce live facial recognition cameras to its streets, with Mayor Sergei Sobyanin announcing that the technology is operating “on a mass scale” earlier this month, according to a report from Russian business paper Vedomosti.
+<a href='https://www.theverge.com/2020/1/30/21115119/moscow-live-facial-recognition-roll-out-ntechlab-deployment'> Source <a/>
