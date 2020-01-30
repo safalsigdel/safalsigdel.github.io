@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+This Valentine's Day, let that special someone know your love is as infinite as a GIF that loops forever. Giphy is partnering with “video printing” company Infinite Objects to sell six Valentine's-themed GIFs that are memorialized on a digital display and will sell for $49 each. The original GIFs were created by Giphy Studios, the company's in-house creative agency, and they feature cute animations like cherries, cats, and dinosaurs in love.
+<a href='https://www.theverge.com/2020/1/30/21097049/giphy-infinite-objects-valentines-day-gifs'> Source <a/>

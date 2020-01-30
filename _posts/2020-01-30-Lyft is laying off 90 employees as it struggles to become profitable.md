@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vvop7ECMi1l5ccr-9_dSM90XzQY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66215312/akrales_180614_1777_0061.0.jpg' width='700px' /><br/>
-Lyft announced a round of staff cuts amid questions about the company's ability to stem its enormous losses and show how it can achieve profitability. The company is laying off about 90 employees, or around 1.6 percent of its 5,500-person workforce. The layoffs were first reported by The New York Times — though Lyft denied that it was part of a broader corporate restructuring, as originally reported by the Times.
-<a href='https://www.theverge.com/2020/1/29/21113878/lyft-layoff-employees-profit-ipo-losses-restructuring'> Source <a/>

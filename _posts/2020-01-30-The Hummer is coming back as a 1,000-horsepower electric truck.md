@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1yia2ub5rk1-quFTWJ3XhkzNj-s=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66219660/GMC_HUMMER_EV_Quiet_Revolution_Grille.0.jpg' width='700px' /><br/>
+General Motors has confirmed it's resurrecting the Hummer nameplate for a new all-electric truck that will have 1,000 horsepower on offer and go from 0 to 60 miles per hour in three seconds, according to new teaser images and videos released today. The new electric Hummer truck will break cover during a Super Bowl ad this coming Sunday, and will be treated to a full reveal on May 20th.
+<a href='https://www.theverge.com/2020/1/30/21115040/gm-hummer-ev-truck-gmc-horsepower'> Source <a/>
