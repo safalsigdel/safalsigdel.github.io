@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hfQePR_E6_Qy7TWUR5XK9eaaLt8=/0x0:1720x1147/1200x800/filters:focal(723x437:997x711)/cdn.vox-cdn.com/uploads/chorus_image/image/66217536/cwelch_190806_3577_0010.0.jpg' width='700px' /><br/>
+Samsung Electronics just released fourth-quarter earnings that told much the same story as the rest of 2019. Revenue was more or less flat year-on-year — up 1 percent to 59.9 trillion won ($50.7 billion) — while operating profit slid 34 percent to 7.1 trillion won ($6 billion).
+<a href='https://www.theverge.com/2020/1/29/21114433/samsung-q4-2019-earnings-2020-forecast-5g'> Source <a/>
