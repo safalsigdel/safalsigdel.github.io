@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qjd9XbjCVkXDBUhxetSX2qjmdJ0=/0x0:4365x2910/1200x800/filters:focal(1834x1106:2532x1804)/cdn.vox-cdn.com/uploads/chorus_image/image/66222631/1197464449.jpg.0.jpg' width='700px' /><br/>
+Super Bowl LIV is coming up this Sunday, February 2nd on Fox, between the San Francisco 49ers and the Kansas City Chiefs. As if that matchup wasn't reason enough to watch, this year's Super Bowl will broadcast in 4K HDR. If you want to watch it in 4K HDR, we're going to tell you how. But bear with us — this is more confusing to walk through than it should be.
+<a href='https://www.theverge.com/2020/1/30/21083550/super-bowl-54-nfl-4k-hdr-watch-hlg-amazon-fire-tv-roku-apple-tv'> Source <a/>
