@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Tzt-7x86fPA2YTCxD6Pw1IqLR0k=/224x115:1625x942/1200x800/filters:focal(842x425:1162x745)/cdn.vox-cdn.com/uploads/chorus_image/image/66221300/Screen_Shot_2020_01_30_at_10.24.35_AM.0.png' width='700px' /><br/>
+Apple announced today that redesigned maps in its official Maps app have now rolled out to all users in the US. The company first announced plans to redesign its maps in June 2018, and the redesign was effectively complete and first began rolling out in full to parts of southeastern US last month. Apple also says the new maps will arrive for users across Europe “in the coming months.”
+<a href='https://www.theverge.com/2020/1/30/21115455/apple-redesigned-maps-now-available-us-europe'> Source <a/>

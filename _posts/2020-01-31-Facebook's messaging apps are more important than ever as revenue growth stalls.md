@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qWPr6E4rZ30ZR6wuBRo7FSWOvbc=/0x0:2040x1360/1200x800/filters:focal(895x521:1221x847)/cdn.vox-cdn.com/uploads/chorus_image/image/66216413/akrales_180614_1777_0080.0.jpg' width='700px' /><br/>
-Facebook's global expansion continues unabated as the company now reports that about 2.26 billion people use at least one of the company's family of mobile apps or its website at least once a day, while 2.89 billion do so at least once a month.
-<a href='https://www.theverge.com/2020/1/29/21114130/facebook-q4-2019-earnings-instagram-whatsapp-messenger'> Source <a/>
