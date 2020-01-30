@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NiYXqS8HfQVHttsRQABR6DLe9Sk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66220205/akrales_181011_3012_0184.0.jpg' width='700px' /><br/>
+Fitbit added a female health feature to its app in May 2018, allowing you to manually track menstrual cycles and symptoms to predict upcoming cycles and likely fertility windows. Tracking your female health is also useful overall for monitoring any unusual symptoms that could be related to issues like fibroids, stress, sleep irregularity, or pregnancy.
+<a href='https://www.theverge.com/2020/1/30/21113529/how-to-fitbit-female-health-tracking-tool-app-menstrual-cycle-fertility'> Source <a/>
