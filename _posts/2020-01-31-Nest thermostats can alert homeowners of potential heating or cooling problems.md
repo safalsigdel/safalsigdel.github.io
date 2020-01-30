@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OHU9LTBhtX7ODRjMd0Ku_GvgrB0=/0x0:1400x1400/1200x800/filters:focal(588x588:812x812)/cdn.vox-cdn.com/uploads/chorus_image/image/66216784/436731-original-1376424120-primary.0.0.jpeg' width='700px' /><br/>
+Google is testing a feature that can send Nest owners alerts about their furnaces when “unusual or unexpected patterns” are detected. The HVAC alerts will be automatically sent to subscribers of the Nest Home Report email list, notifying homeowners of any small issue in their heating, cooling, or ventilation system before it potentially becomes a serious problem.
+<a href='https://www.theverge.com/2020/1/29/21114183/google-nest-thermostats-alert-heating-cooling-problems'> Source <a/>
