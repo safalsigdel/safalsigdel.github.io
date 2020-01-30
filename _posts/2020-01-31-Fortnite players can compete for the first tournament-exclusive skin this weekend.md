@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/og_I1nOB8mLCXzNW0Csi7z9PTXU=/0x0:680x383/1200x800/filters:focal(286x138:394x246)/cdn.vox-cdn.com/uploads/chorus_image/image/66217309/EPeX3YVXkAAYMrO.0.jpeg' width='700px' /><br/>
-Epic has announced an in-game Fortnite tournament for this weekend that's timed with the Australian Open, and players who compete will have a shot to earn the game's first-ever competition skin. The in-game item can only be earned by placing well in the tournament.
-<a href='https://www.theverge.com/2020/1/29/21114328/fortnite-tournament-exclusive-skin-australian-open-summer-smash-cup-komplex'> Source <a/>
