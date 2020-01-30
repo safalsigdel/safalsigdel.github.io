@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wexX4YxN1OA-NKFIn5dv1WgY2qk=/0x0:1020x682/1200x800/filters:focal(270x258:432x420)/cdn.vox-cdn.com/uploads/chorus_image/image/66216674/delta-airlines-stock1_1020.0.jpg' width='700px' /><br/>
-Delta announced today that it will be temporarily reducing flights between the US and China due to “significantly reduced customer demand” that has resulted from concerns about the coronavirus. This marks the third US airline to drastically change its operations in response to the outbreak, after United and American announced similar flight cancellations between the US and China earlier this week.
-<a href='https://www.theverge.com/2020/1/29/21114201/delta-coronoavirus-us-china-flights-reducing-outbreak'> Source <a/>

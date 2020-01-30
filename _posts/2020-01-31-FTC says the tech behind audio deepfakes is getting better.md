@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YoQw4qxa9HrMASzqchiKKLpN8y4=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/66216540/phone1_1020.0.jpg' width='700px' /><br/>
-Rapid progress in voice cloning technology is making it harder to tell real voices from synthetic ones. But while audio deepfakes — which can trick people into giving up sensitive information — are a growing problem, there are some good and legitimate uses for the technology as well, a group of experts told an FTC workshop this week.
-<a href='https://www.theverge.com/2020/1/29/21080553/ftc-deepfakes-audio-cloning-joe-rogan-phone-scams'> Source <a/>
