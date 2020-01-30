@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AMjO-uNxlFAD_NgynnQFvEUBXRA=/0x0:640x367/1200x800/filters:focal(269x133:371x235)/cdn.vox-cdn.com/uploads/chorus_image/image/66218852/itunes_app_store_icon_field_640.0.1419347988.0.jpg' width='700px' /><br/>
-It's not every day we get to talk about a good old-fashioned utility app update. I wouldn't go so far as to say they're a dying breed, but the Apple App Store platform dynamics of recent years have made their row much harder to hoe.
-<a href='https://www.theverge.com/2020/1/30/21080313/apple-app-store-subscription-developer-options-rent-seeking'> Source <a/>

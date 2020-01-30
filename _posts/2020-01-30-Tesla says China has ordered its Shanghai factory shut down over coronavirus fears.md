@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iVCE9ttoIyMg-Pnad7sDTMgJ6CM=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/66217155/1192521419.jpg.0.jpg' width='700px' /><br/>
-The Chinese government has ordered the shutdown of Tesla's new factory in Shanghai over coronavirus fears, which will delay the company's production of the Model 3 there, executives announced in a call with investors. The ramp of the Model 3 production will be delayed by a week and a half and the shutdown may “slightly” impact the company's profitability in the first quarter of 2020, Tesla finance chief Zach Kirkhorn said.
-<a href='https://www.theverge.com/2020/1/29/21114377/tesla-coronavirus-delay-production-factory-china'> Source <a/>

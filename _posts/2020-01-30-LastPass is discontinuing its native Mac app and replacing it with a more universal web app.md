@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0xZkp_LWhTFdIpMvCSWxSvtCSlQ=/0x0:2624x1624/1200x800/filters:focal(1103x603:1521x1021)/cdn.vox-cdn.com/uploads/chorus_image/image/66216860/Screen_Shot_2020_01_29_at_4.36.57_PM.0.png' width='700px' /><br/>
-Password management app LastPass has announced it will be discontinuing its native macOS app on February 29th, directing users in an email to switch over to the new web-based version of the app that will replace it.
-<a href='https://www.theverge.com/2020/1/29/21113505/lastpass-native-mac-app-store-replacement-web-safari-extension-update'> Source <a/>
