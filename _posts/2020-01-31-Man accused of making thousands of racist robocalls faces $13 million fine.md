@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6HSdzKI62DZkiidEIZbHtZj0XcM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66225511/DSCF2964.0.jpg' width='700px' /><br/>
+The FCC has proposed an almost $13 million fine for a man it says was behind a series of racist and anti-semitic robocalling campaigns consisting of over 6,000 calls being placed across six states. The man is accused of using anti-semitic and racist tropes to attack political candidates, threaten a newspaper, and stoke racial hatred after the murder of a college student by an undocumented immigrant.
+<a href='https://www.theverge.com/2020/1/31/21116547/fcc-fine-13-million-robocaller-harassment-campaign'> Source <a/>
