@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EQb7HQu5Z2A_BLG_5hFQCxlXzHg=/0x0:1920x1080/1200x800/filters:focal(810x331:1116x637)/cdn.vox-cdn.com/uploads/chorus_image/image/66227573/Screen_Shot_2020_01_31_at_11.42.32_AM__2_.0.png' width='700px' /><br/>
+Deadspin is sort of back, baby — emphasis on the “sort of.” The writers of the beloved sports blog have teamed up for Super Bowl weekend in an abbreviated, un-Deadspin-branded form: Unnamed Temporary Sports Blog Dot Com, courtesy of the password manager Dashlane. Call it an offering to the Big Game.
+<a href='https://www.theverge.com/2020/1/31/21116793/dashlane-deadspin-super-bowl-gawker-sports-blog'> Source <a/>
