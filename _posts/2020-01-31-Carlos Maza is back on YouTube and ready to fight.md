@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hThUK-eEcrXSOMUBhISVlJN0woU=/0x0:2560x1440/1200x800/filters:focal(948x486:1356x894)/cdn.vox-cdn.com/uploads/chorus_image/image/66226807/MANUFCTURESTILL9.0.jpg' width='700px' /><br/>
+Last year, after setting off a firestorm around YouTube's harassment policies that even prompted a response from the company's CEO, Carlos Maza disappeared from YouTube. Now he's back, but this time, he's doing it all on his own.
+<a href='https://www.theverge.com/tech/2020/1/31/21112724/carlos-maza-steven-crowder-vox-youtube-harassment-policies-breadtube'> Source <a/>
