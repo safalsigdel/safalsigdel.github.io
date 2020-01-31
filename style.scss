@@ -285,7 +285,8 @@ footer {
 
 .article-container{
 	display:flex;
-	flex-direction:row
+	flex-direction:row;
+	flex-wrap:wrap
 }
 .article-single{
 	
