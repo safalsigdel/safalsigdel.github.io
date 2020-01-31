@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h3NGAdDxo0GUa6_DvO_UDWVk4M0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66223904/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
+Searching Google for “coronavirus” will now send users to a curated search results page with resources from the World Health Organization, safety tips, and news updates, Google and the WHO announced today. This effort, which is just one of Google's SOS Alerts, is now live.
+<a href='https://www.theverge.com/2020/1/30/21116008/google-coronavirus-outbreak-resources-sos-alert-world-health-organization'> Source <a/>
