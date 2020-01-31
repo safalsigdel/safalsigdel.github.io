@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E_tlP73S8KKr6nOjFDrn875KRTw=/0x0:2040x1360/1200x800/filters:focal(515x258:841x584)/cdn.vox-cdn.com/uploads/chorus_image/image/66228368/cwelch_181128_3103_0677_2.0.jpg' width='700px' /><br/>
+For the first time, Roku has found itself in a heated carriage dispute that's very familiar to cable providers, but less often associated with tech companies. Yesterday, the conflict between Roku and Fox spilled out into the open, with Roku emailing customers to announce that all of Fox's standalone channels would abruptly be going away on January 31st.
+<a href='https://www.theverge.com/2020/1/31/21117090/fox-news-sean-hannity-roku-streaming-blackout-dispute-super-bowl'> Source <a/>
