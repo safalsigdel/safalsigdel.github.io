@@ -3,8 +3,9 @@ layout: default
 ---
 
 <div class="posts">
+  <div class="row">
   {% for post in site.posts %}
-    <article class="post">
+    <article class="post col-md-6">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
@@ -15,4 +16,6 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+  </div>
+  
 </div>
