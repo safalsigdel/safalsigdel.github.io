@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-“What if the Untitled Goose Game was your entire computer?” asked nobody but Sam Chiet until this week. 18-year-old Chiet has created an app for Windows PCs that spawns a virtual goose to cause mayhem on your desktop. Much like the game, this goose is annoying and will spread virtual mud all over your screen while honking profusely. It also drags memes or cartoons above your apps, but don't dare try to close them otherwise this wild fowl will grab hold of your mouse pointer and mess with you.
-<a href='https://www.theverge.com/2020/1/30/21115103/untitled-goose-game-desktop-app-windows-memes-gifs'> Source <a/>
