@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FiJEFPW0Iytc8s_hKfKFD6F1qcs=/0x0:1920x1757/1200x800/filters:focal(807x726:1113x1032)/cdn.vox-cdn.com/uploads/chorus_image/image/66224042/EPkYDYeUcAEhol3.0.jpeg' width='700px' /><br/>
+Nintendo is releasing an Animal Crossing-themed Switch on March 13th, just one week before the launch of Animal Crossing: New Horizons, and it's one of the best-looking Switch models yet. Nintendo says you'll be able to pre-order the themed console at select retailers soon.
+<a href='https://www.theverge.com/2020/1/30/21116081/nintendo-animal-crossing-new-horizons-switch-unique-joy-con-colors'> Source <a/>
