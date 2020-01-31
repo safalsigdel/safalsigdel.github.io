@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kCOARa6Gux2GoSY7lwXnNYzC6PY=/0x0:640x264/1200x0/filters:focal(0x0:640x264):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19568241/proc_newsletter_header.png' width='700px' /><br/>
+Happy Friday — the Super Bowl is this weekend and some of the ads have begun to be released. The two that have struck me the most are from Google and Amazon, each taking a different tack to sell you on their respective intelligent assistants.
+<a href='https://www.theverge.com/2020/1/31/21116243/super-bowl-ads-amazon-alexa-google-assistant-emotional-manipulation'> Source <a/>
