@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UMMJpXcquOlEfH_93c9hqBFtlKo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66222772/akrales_170802_1743_0178.0.jpg' width='700px' /><br/>
-Snap announced today that it's launching Bitmoji TV, which will be a weekly “show” within Snapchat that stars you and your friends' Bitmoji avatars. The show will launch this Saturday, February 1st, and it will have a 10-episode season, with new episodes debuting weekly, reports Variety.
-<a href='https://www.theverge.com/2020/1/30/21115607/snapchat-bitmoji-tv-saturday-morning-cartoon-season-episodes'> Source <a/>
