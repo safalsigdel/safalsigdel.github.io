@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QcN26ojJuPuUTlcybhWjMtm-iOk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66224245/DSCF0238.0.jpg' width='700px' /><br/>
+If you were hoping to watch the Super Bowl on your Roku TV or set-top box, I hope you don't mind paying for streaming services like FuboTV, Sling or Hulu, because your existing cable subscription is no good as of today — Roku is pulling all of its Fox apps off of the platform, effective tomorrow, one day before the Big Game.
+<a href='https://www.theverge.com/2020/1/30/21116163/roku-super-bowl-fox-sports-channels-apps-email'> Source <a/>
