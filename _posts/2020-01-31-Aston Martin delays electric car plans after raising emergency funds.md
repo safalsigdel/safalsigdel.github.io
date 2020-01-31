@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lv1e3FV7i5lAxhLYtXEEQGy-tt4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66226580/Rapide_E__7_.0.jpg' width='700px' /><br/>
+Aston Martin has officially delayed all plans for electric vehicles after taking on a desperately-needed new investment from Formula One billionaire Lawrence Stroll. The company says it has indefinitely suspended its first electric car, the Rapide E, after refusing to confirm rumors about the project earlier this month. And it has pushed the launch of its all-electric Lagonda sub-brand back from 2022 to “no earlier than” 2025.
+<a href='https://www.theverge.com/2020/1/31/21116675/aston-martin-electric-rapide-lagonda-delay-stroll-investment'> Source <a/>
