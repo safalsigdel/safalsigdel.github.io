@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5Q25Yi8E9ZzUKdJF1x2M5CpjmoY=/0x0:3833x2804/1200x800/filters:focal(1526x689:2138x1301)/cdn.vox-cdn.com/uploads/chorus_image/image/66228832/1173078256.jpg.0.jpg' width='700px' /><br/>
+The FBI is investigating the alleged hack into Jeff Bezos' phone by Saudi Arabia, The Guardian reports. The Amazon CEO was interviewed by federal investigators last April as part of a larger probe into Israeli technology firm NSO Group, according to Reuters.
+<a href='https://www.theverge.com/2020/1/31/21117180/fbi-bezos-hack-amazon-saudi-arabia-nso'> Source <a/>

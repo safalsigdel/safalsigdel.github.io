@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ChKj49G4iseI4CIJNTYyj698hDk=/0x0:680x480/1200x800/filters:focal(291x213:399x321)/cdn.vox-cdn.com/uploads/chorus_image/image/66228835/I7PpKtvd.0.jpeg' width='700px' /><br/>
+Vine reboot Byte has shared initial details of its partner program, which will give creators monetization options among other benefits like direct contact with the company, access to experimental features, meet and greets, and Byte apparel.
+<a href='https://www.theverge.com/creators/2020/1/31/21117197/byte-partner-program-monetization-dom-hofmann-vine'> Source <a/>
