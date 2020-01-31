@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LfzpaFd0ekq0cuBKlo0sQ88OH0I=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/66225192/jbareham_171102_2108_0077.0.jpg' width='700px' /><br/>
+Microsoft is launching a new Xbox Bounty Program to reward gamers, security researchers, and anyone else who discovers security vulnerabilities in the Xbox Live network and services. Bounty rewards will range from $500 up to $20,000, and Microsoft notes there could even be higher payouts depending on the quality of the report and the vulnerability impact.
+<a href='https://www.theverge.com/2020/1/31/21114887/microsoft-xbox-bounty-bug-security-rewards'> Source <a/>
