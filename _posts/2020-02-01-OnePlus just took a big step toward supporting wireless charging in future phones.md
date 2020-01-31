@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SVIT1l1Up90LZm2IU5EFsgCEt_U=/0x0:2040x1360/1200x800/filters:focal(942x866:1268x1192)/cdn.vox-cdn.com/uploads/chorus_image/image/66223107/vpavic_190503_3415_0148.0.jpg' width='700px' /><br/>
-OnePlus' smartphones are infamous for lacking support for Qi wireless charging —but the company has been spotted joining the Wireless Power Consortium (WPC), the standards group that handles the Qi wireless charging used by virtually every single smartphone, as reported by MobileScout.
-<a href='https://www.theverge.com/2020/1/30/21115748/oneplus-wireless-charging-future-phones-wpc-qi-8-pro-rumor'> Source <a/>
