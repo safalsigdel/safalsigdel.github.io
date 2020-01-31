@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CZenE4M6aP5hHEdaav2CKd3h_TA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66223023/acastro_190503_1777_samsung_0004.0.0.jpg' width='700px' /><br/>
-Samsung has opened up reservations for its next flagship phones, expected to be the Samsung Galaxy S20, S20 Plus, and S20 Ultra, that the company will unveil at an upcoming event on February 11th.
-<a href='https://www.theverge.com/2020/1/30/21115784/samsung-galaxy-s20-plus-ultra-reserve-pre-order'> Source <a/>
