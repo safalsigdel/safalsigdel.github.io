@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/c50OOa86vRbp5zylNsuKclvqOfQ=/0x0:2040x1360/1200x800/filters:focal(790x679:1116x1005)/cdn.vox-cdn.com/uploads/chorus_image/image/66231965/vpavic_191019_3725_0300.0.jpg' width='700px' /><br/>
+Super Bowl 2020 will broadcast tomorrow on Fox Sports, and kickoff will happen at 6:30PM ET. Whether you like American football or not, the occasion presents a chance to save on Amazon's Fire TV Stick 4K and Fire TV Cube. And if you want to watch the game in 4K HDR, these are the only devices that will get the high-fidelity stream through the Fox Sports app.
+<a href='https://www.theverge.com/good-deals/2020/2/1/21117078/tech-deals-super-bowl-liv-amazon-fire-tv-hdr-google-pixel-4-ring-home'> Source <a/>
