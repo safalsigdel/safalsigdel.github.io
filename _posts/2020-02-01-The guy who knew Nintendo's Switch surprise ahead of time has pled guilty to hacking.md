@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/JUGGzqJyYo8bhWEkIZGWBydam6Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66230463/jbareham_1492_170228_0173.0.0.jpg' width='700px' /><br/>
-A California man has pled guilty to hacking Nintendo's servers to steal confidential files, including taking information about the Nintendo Switch months before it was announced, the US Department of Justice revealed today
+A California man has pled guilty to hacking Nintendo's servers to steal confidential files, including taking information about the Nintendo Switch months before it was announced, the US Department of Justice revealed today.
 <a href='https://www.theverge.com/2020/1/31/21117596/nintendo-switch-surprise-pled-guilty-hacking-department-justice-ryan-hernandez'> Source <a/>
