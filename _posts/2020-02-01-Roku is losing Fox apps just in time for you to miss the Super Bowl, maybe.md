@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QcN26ojJuPuUTlcybhWjMtm-iOk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66224245/DSCF0238.0.jpg' width='700px' /><br/>
-If you were hoping to watch the Super Bowl on your Roku TV or set-top box, I hope you weren't counting on streaming it through Fox's apps — Roku is pulling all its Fox apps off of the platform, effective Friday, two days before the Big Game.
-<a href='https://www.theverge.com/2020/1/30/21116163/roku-super-bowl-fox-sports-channels-apps-email'> Source <a/>
