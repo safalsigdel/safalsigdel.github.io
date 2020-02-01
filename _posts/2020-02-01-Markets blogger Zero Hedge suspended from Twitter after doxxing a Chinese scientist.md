@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NnB_RCFM4jgc0CeJ0QTsds5D180=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66230775/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Twitter says it has permanently suspended markets blog Zero Hedge's Twitter account, @zerohedge, for violating the company's platform manipulation policy. On Wednesday, Zero Hedge posted a blog that doxxed a Chinese scientist and strongly suggested without evidence that the scientist created the strain of coronavirus that's currently spreading around the world.
+<a href='https://www.theverge.com/2020/1/31/21117663/twitter-zero-hedge-suspended-platform-manipulation-policy-doxxing-coronavirus'> Source <a/>
