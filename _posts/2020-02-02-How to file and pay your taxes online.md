@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jt7523ztI5rTMsFtq96Vqkve_7w=/0x0:1100x737/1200x800/filters:focal(462x281:638x457)/cdn.vox-cdn.com/uploads/chorus_image/image/66226660/irs.0.jpg' width='700px' /><br/>
-It's the beginning of 2020, and everyone who works for a living is starting to get in their annual tax forms. Whether you're a full-time worker dealing with a single 1040 or a freelancer / gig worker getting a series of 1099s, the fastest way to pay the piper these days is to do it online.
-<a href='https://www.theverge.com/2020/1/31/21114006/taxes-irs-file-pay-online-how-to-federal-state'> Source <a/>
