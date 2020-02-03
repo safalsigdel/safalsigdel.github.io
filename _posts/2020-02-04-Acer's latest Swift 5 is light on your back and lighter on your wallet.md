@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6sKYf1Q--MuHawbyhoVUqZ9-4s8=/0x0:2040x1360/1200x675/filters:focal(942x667:1268x993)/cdn.vox-cdn.com/uploads/chorus_image/image/66239267/awhite_200129_3886_0025.0.jpg' width='700px' /><br/>
+If you're buying the Acer Swift 5, you're buying it for the size.
+<a href='https://www.theverge.com/2020/2/3/21112598/acer-swift-5-laptop-review-price-spec-features-weight-design'> Source <a/>

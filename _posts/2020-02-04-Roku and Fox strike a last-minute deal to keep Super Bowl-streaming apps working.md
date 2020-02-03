@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f0OHeWGaeJVjGwd8vIZDJ-lAh3w=/193x228:1736x1181/1200x800/filters:focal(804x529:1130x855)/cdn.vox-cdn.com/uploads/chorus_image/image/66231227/DSCF0235.0.jpg' width='700px' /><br/>
+For a moment, it looked Roku owners would be losing the highest-quality way to stream the Super Bowl for free, when the set-top box maker announced Thursday that it would abruptly pull Fox's apps off the platform a day ahead of the game. But that won't actually be happening.
+<a href='https://www.theverge.com/2020/2/1/21117919/roku-fox-apps-carriage-agreement-super-bowl-deal'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6ShClZ-P1qsT9pzx5ryosW6Iq6w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66231289/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
+Apple is no longer just closing one store in China over coronavirus worries — Apple is closing them all. The company is shutting down all its corporate offices, stores, and contact centers in mainland China through February 9th, according to a statement provided to Bloomberg's Mark Gurman.
+<a href='https://www.theverge.com/2020/2/1/21117941/coronavirus-apple-china-close-stores-offices-outbreak'> Source <a/>
