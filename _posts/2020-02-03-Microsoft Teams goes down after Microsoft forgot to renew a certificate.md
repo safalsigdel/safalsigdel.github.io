@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/jlD_oEkwU2f291gwMhqGgbPFjwg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66240410/K1rBCKy.0.png' width='700px' /><br/>
-Microsoft Teams is currently down worldwide after Microsoft forgot to renew a critical security certificate. Users of Microsoft's Slack competitor were met with error messages attempting to sign into the service Monday morning, with the app noting it had failed to establish an HTTPS connection to Microsoft's servers.
+Microsoft Teams went down this morning worldwide after Microsoft forgot to renew a critical security certificate. Users of Microsoft's Slack competitor were met with error messages attempting to sign into the service Monday morning, with the app noting it had failed to establish an HTTPS connection to Microsoft's servers.
 <a href='https://www.theverge.com/2020/2/3/21120248/microsoft-teams-down-outage-certificate-issue-status'> Source <a/>
