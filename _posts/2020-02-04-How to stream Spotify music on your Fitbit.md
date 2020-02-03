@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P2Yo_E8lcr-oLKfWWEbvbN-H6r4=/0x0:1260x660/1200x800/filters:focal(530x230:730x430)/cdn.vox-cdn.com/uploads/chorus_image/image/66241509/Screen_Shot_2019_07_08_at_5.30.40_PM.0.png' width='700px' /><br/>
+While the higher-end Fitbit models allow you to download streaming music apps, until recently, the only available options were for less popular services like Deezer and Pandora. Fitbit has added Spotify to its list of supported music clients, so if you own one of the Fitbit smartwatches that support apps, you can now pair your Spotify account with your smartwatch.
+<a href='https://www.theverge.com/2020/2/3/21115761/spotify-fitbit-music-stream-how-to'> Source <a/>
