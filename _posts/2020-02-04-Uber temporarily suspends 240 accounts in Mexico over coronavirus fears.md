@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3UEN85PGlunBmeS7JhsulZO2IKM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66243364/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
+Uber temporarily deactivated 240 customer accounts in Mexico to prevent the possible spread of the coronavirus, according to Bloomberg.
+<a href='https://www.theverge.com/2020/2/3/21120643/uber-coronavirus-mexico-accounts-suspension'> Source <a/>
