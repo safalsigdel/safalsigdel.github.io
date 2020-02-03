@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8BxzWwTN_CeCVKL5JElxalPEyhk=/0x0:1200x831/1200x800/filters:focal(504x320:696x512)/cdn.vox-cdn.com/uploads/chorus_image/image/66237673/surface_hub_2_3.0.jpg' width='700px' /><br/>
+Microsoft is no longer planning to release its special Surface Hub 2X processor upgrade cartridge this year. The software giant was planning to allow Surface Hub 2S owners to upgrade to this cartridge, improving the processor and GPU inside. It was also part of how Microsoft would enable tiling and rotation support on the Surface Hub 2, a big feature the company originally unveiled last year.
+<a href='https://www.theverge.com/2020/2/3/21119915/microsoft-surface-hub-2x-cancel-major-software-update-features-release-date'> Source <a/>

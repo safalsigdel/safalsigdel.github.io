@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LURRESNorxVRhoIISAU_yxchQgA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66226954/cwelch191009_3721_0001.0.jpg' width='700px' /><br/>
-Super Bowl LIV is happening Sunday, February 2nd. So if you're hunting for a device upgrade that will get you the best picture quality, there isn't much time left to have orders delivered by game day — but you can still make it happen. We've pulled together a few relevant deals, as well as some general deals you should know about.
-<a href='https://www.theverge.com/good-deals/2020/1/31/21116755/amazon-fire-tv-stick-cube-super-bowl-4k-hdr-deal-sale-ipad-echo-buds'> Source <a/>
