@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/blwZ3MIpPvoFE5OrAEagKyr1ras=/0x0:2040x1360/1200x800/filters:focal(796x462:1122x788)/cdn.vox-cdn.com/uploads/chorus_image/image/66230535/dseifert_190620_3500_5173.0.jpg' width='700px' /><br/>
-In our review of the Amazon Echo Show 5 smart display, Dan called it the “smart alarm clock to get.” But I think I might move mine to the kitchen, right next to the garbage can.
-<a href='https://www.theverge.com/2020/1/31/21117569/amazon-echo-show-scan-barcodes-shopping-list'> Source <a/>
