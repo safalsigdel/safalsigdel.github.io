@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1c0-3CZU3voMmy7ZelRQ87VSh6Y=/0x0:3051x2034/1200x800/filters:focal(1207x263:1695x751)/cdn.vox-cdn.com/uploads/chorus_image/image/66226717/1195287444.jpg.0.jpg' width='700px' /><br/>
-The Super Bowl is almost here, and this year — for the first time ever — you'll be able to watch and stream it in 4K and HDR. It's the culmination of the work Fox has been putting in earlier this season, which saw the first 4K broadcasts of NFL games in the US for Thursday Night Football.
-<a href='https://www.theverge.com/2020/1/31/21060342/super-bowl-2020-4k-streaming-fox-hdr-10-hlg-formats-conversion-upscaling-chiefs-49ers-roku-amazon'> Source <a/>
