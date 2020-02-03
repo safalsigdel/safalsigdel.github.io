@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1-yhRfaY_zj0NZy9IS8lP3ZGnjU=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/66241560/EP3ccbPVUAIdM4R.0.jpeg' width='700px' /><br/>
+Lin-Manuel Miranda's Hamilton is one of the most popular Broadway shows ever to hit the stage, and now it's part of the vast Disney cultural empire. Disney reportedly shelled out $75 million for the worldwide rights to the show, which includes a theatrical run followed by a debut on the Disney+ streaming service, Deadline reports.
+<a href='https://www.theverge.com/2020/2/3/21120531/disney-plus-hamilton-streaming-theaters-distribution-broadway'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9pXvtUeAF84GDsshDI4qMfR_SF4=/0x0:2040x1360/1200x800/filters:focal(889x661:1215x987)/cdn.vox-cdn.com/uploads/chorus_image/image/66229543/akrales_170811_1896_0021.0.jpg' width='700px' /><br/>
-App developer Marco Arment has a new update out today for his popular mobile podcast player Overcast. In a detailed blog post, Arment says the new version of Overcast now comes with a totally overhauled volume normalization feature, called Voice Boost 2, that relies on “dramatically more sophisticated methods, leading to more consistent results and much better sound quality.”
-<a href='https://www.theverge.com/2020/1/31/21117380/overcast-podcast-app-new-features-voice-boost-2-intro-skipping'> Source <a/>
