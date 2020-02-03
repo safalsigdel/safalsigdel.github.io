@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N-CqLiAc5i4_P-qUNA5whRQU__8=/0x0:2040x1360/1200x800/filters:focal(994x585:1320x911)/cdn.vox-cdn.com/uploads/chorus_image/image/66239047/akrales_180625_2670_0115.0.jpg' width='700px' /><br/>
-The brand keeping BlackBerry phones alive across most of the globe, TCL Communications, plans to stop selling BlackBerry phones later this year. In a tweet this morning, TCL announced that it “will no longer be selling” BlackBerry-branded phones as of August 31st, 2020, because it will no longer have the rights to design and manufacture them. Existing devices will continue to be supported.
-<a href='https://www.theverge.com/2020/2/3/21120107/tcl-blackberry-ends-phone-global-rights-date-2020'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9LhQ7mmCc2GWSVnmfwxC5EI4QQU=/0x0:3500x2978/1200x800/filters:focal(1470x1209:2030x1769)/cdn.vox-cdn.com/uploads/chorus_image/image/66235305/1202417318.jpg.0.jpg' width='700px' /><br/>
-Super Bowl 2020 is happening on February 2nd.
-<a href='https://www.theverge.com/entertainment/2020/2/2/21084036/super-bowl-2020-how-to-watch-date-online-time-free-streaming-tv'> Source <a/>
