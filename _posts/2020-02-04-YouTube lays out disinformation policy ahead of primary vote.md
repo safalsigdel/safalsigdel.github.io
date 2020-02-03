@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DkzTDkvjqVN7wJcSyy7AFpfcJl0=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/66242910/IMG_0915-2040b.0.0.jpg' width='700px' /><br/>
+As the 2020 election season officially kicks off, and tensions run high, YouTube is laying out its steps to combat disinformation on its platform.
+<a href='https://www.theverge.com/2020/2/3/21120707/youtube-disinformation-election-2020-manipulated-video-channel-policy'> Source <a/>
