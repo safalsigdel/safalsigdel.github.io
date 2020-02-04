@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fGs5cLf6k_ZMzEj2kT03aQVjz0Q=/0x0:2100x1336/1200x800/filters:focal(882x500:1218x836)/cdn.vox-cdn.com/uploads/chorus_image/image/66244793/Apple_TV_App_Now_on_2019_LG_TVs__011.0.jpg' width='700px' /><br/>
-LG has made the Apple TV app available on a variety of its 2019 smart TVs as promised, according to a press release from the company. The app will be on TVs in more than 80 countries and gives users access to Apple's new Apple TV+ video subscription service as well as the ability to rent or buy movies from iTunes.
-<a href='https://www.theverge.com/2020/2/3/21121647/apple-tv-app-lg-2019-tvs-available'> Source <a/>

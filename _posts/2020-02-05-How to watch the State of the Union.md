@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yNHjzpx3fdQ7aiYpE-Sjrg76das=/0x0:2738x1825/1200x800/filters:focal(1695x976:2133x1414)/cdn.vox-cdn.com/uploads/chorus_image/image/66249500/1094520174.jpg.0.jpg' width='700px' /><br/>
+On Tuesday, President Trump will deliver his third State of the Union address to Congress. The annual address by the president to legislators is included in the Constitution, which states that the president “shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such measures as he shall judge necessary and expedient.”
+<a href='https://www.theverge.com/2020/2/4/21122704/how-to-watch-trump-state-of-union-capitol-white-house-date-time-2020'> Source <a/>
