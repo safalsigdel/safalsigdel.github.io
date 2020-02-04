@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LVFP29eA0VAmntvfLyPn8AOkfSI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66250215/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+Instagram isn't the biggest moneymaker for Facebook, but it certainly plays a major role in generating revenue for the social media company. Bloomberg reports today that the app brought in $20 billion in advertising revenue last year, which accounts for more than a quarter of Facebook's overall 2019 revenue.
+<a href='https://www.theverge.com/2020/2/4/21122956/instagram-ad-revenue-earnings-amount-facebook'> Source <a/>
