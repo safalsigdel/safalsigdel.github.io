@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fzuuApvmQHT9AIO2po5YGbPII5g=/0x0:4674x3116/1200x800/filters:focal(1964x1185:2710x1931)/cdn.vox-cdn.com/uploads/chorus_image/image/66243437/1132157225.jpg.0.jpg' width='700px' /><br/>
-All-electric racing series Formula E has canceled an upcoming race in China due to the recent coronavirus outbreak, according to the Fxc3xa9dxc3xa9ration Internationale de l'Automobile (FIA), the series' governing body.
-<a href='https://www.theverge.com/2020/2/3/21120981/formula-e-coronavirus-china-race-canceled'> Source <a/>
