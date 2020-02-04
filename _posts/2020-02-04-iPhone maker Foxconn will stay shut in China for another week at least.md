@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T4cwoA3VbjhmQfCCa4uL7Ze9uS0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66246178/akrales_190914_3666_0245.0.jpg' width='700px' /><br/>
+Foxconn has stopped “almost all” of its production in China until February 10th at the earliest due to the coronavirus outbreak, according to both Reuters and Bloomberg. A lengthy stoppage could substantially disrupt Foxconn clients, the most visible being Apple, from shipping devices to customers.
+<a href='https://www.theverge.com/2020/2/4/21122081/foxconn-coronavirus-close-factories-big-tech'> Source <a/>
