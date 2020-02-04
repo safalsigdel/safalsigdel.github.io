@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a_KS39UZB7_du_OpfgXGz5ylC2o=/0x0:1009x550/1200x800/filters:focal(307x183:467x343)/cdn.vox-cdn.com/uploads/chorus_image/image/66250565/Screen_Shot_2020_02_04_at_12.35.03_PM.0.png' width='700px' /><br/>
+Samsung appears to have accidentally revealed the Galaxy S20 in a set of leaked marketing images posted to its own website, as spotted by WinFuture.
+<a href='https://www.theverge.com/2020/2/4/21122982/samsung-galaxy-s20-leaked-images-led-case-winfuture'> Source <a/>
