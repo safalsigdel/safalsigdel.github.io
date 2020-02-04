@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EBe6ak292-E02v6TrhrKeSM0jF0=/0x0:1100x715/1200x800/filters:focal(462x270:638x446)/cdn.vox-cdn.com/uploads/chorus_image/image/66243835/harvard.0.jpg' width='700px' /><br/>
-Harvard's Shorenstein Center has called off an online harassment training for journalists after it was linked to a prominent spyware vendor. The event had been pitched as a way for female reporters to learn about contemporary cybersecurity threats, led by Juliette Kayyem and Nancy Gibbs, both prominent figures in the digital rights community on staff at Harvard's Kennedy School of Government.
-<a href='https://www.theverge.com/2020/2/3/21121151/nso-spyware-pegasus-backlash-harvard-shorenstein-center-canceled'> Source <a/>
