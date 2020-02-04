@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3tDbpdRCzJdi7KBEKIbQzgDeRzE=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/66248829/1198467705.jpg.0.jpg' width='700px' /><br/>
+Nevada Democrats say they won't use the app that misreported Iowa caucus results and led to delays in declaring a winner. Democrats in Nevada had planned to use the same app to report the results of their caucus at the end of the month, according to CNN. The party now says it will not use the app due to the blunder in Iowa.
+<a href='https://www.theverge.com/2020/2/4/21122643/nevada-democrat-caucus-drops-plans-failed-iowa-app'> Source <a/>

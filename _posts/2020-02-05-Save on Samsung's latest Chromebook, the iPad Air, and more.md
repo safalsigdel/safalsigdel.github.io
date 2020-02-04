@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cMkKOq3xCNIvSNSIoHZ-msp4_zY=/0x0:4500x3000/1200x800/filters:focal(1561x1200:2281x1920)/cdn.vox-cdn.com/uploads/chorus_image/image/66247669/L_Perspective_Platinum_Titan__1_.0.jpg' width='700px' /><br/>
+The 15.6-inch version of Samsung's Chromebook 4 is down to its lowest price on Amazon. Normally $349.99, it's $279.99 right now. This model was introduced in late 2019, and it served as a successor to the woefully outdated Chromebook 3. It's a great value as far as Chromebooks are concerned. You'll be getting a laptop with a sizable 1080p display, a modern design, USB-C charging, and 6GB of RAM.
+<a href='https://www.theverge.com/good-deals/2020/2/4/21122254/samsung-chromebook-4-usb-c-ipad-air-lte-deal-sale'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BgdvWHVsrIb_qBjMSymQuCWjX08=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66246541/acastro_180529_1777_intel_0001.0.5.jpg' width='700px' /><br/>
+Intel is one of the biggest names in the tech world, with chips that quite literally are the brains behind most of the computers and servers that we use every day. But the world of computers is expanding and Intel is changing, too, with a focus on both edge computing that puts processing resources in the cloud and the power that's available directly on the physical device.
+<a href='https://www.theverge.com/2020/2/4/21121162/podcast-intel-future-technology-dr-renduchintala-interview-vergecast'> Source <a/>
