@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m2k1MoZRWV0C3r_emHU_3b9cS8A=/0x0:3833x2804/1200x800/filters:focal(1611x1096:2223x1708)/cdn.vox-cdn.com/uploads/chorus_image/image/66242378/1173078256.jpg.0.jpg' width='700px' /><br/>
-Jeff Bezos paid a small fortune in parking fines as part of the ongoing renovation of his $23 million, Washington, DC mansion. A team of Bezos-employed contractors, who converted his home from a museum into a residence, racked up more $16,840 in parking tickets while working on the property, according to news organization WUSA9.
-<a href='https://www.theverge.com/2020/2/3/21120476/jeff-bezos-washington-dc-renovate-apartment-home-parking-tickets'> Source <a/>
