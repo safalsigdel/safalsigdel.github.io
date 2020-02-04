@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bXcHAuqBSkaldMyGUteQUpSwT-M=/0x0:2524x1682/1200x800/filters:focal(1524x629:1926x1031)/cdn.vox-cdn.com/uploads/chorus_image/image/66245921/EP6arUcUYAEiDrD.0.jpeg' width='700px' /><br/>
+Xiaomi spin-off brand Poco has launched its second phone, the Poco X2. It's another attempt from the company to produce a high-performance, low-cost phone for the extremely competitive Indian market.
+<a href='https://www.theverge.com/2020/2/4/21122022/xiaomi-poco-x2-announced-price-specs-realme-redmi-k30'> Source <a/>

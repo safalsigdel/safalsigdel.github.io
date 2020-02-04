@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zgty9_7-07_FPkXp2BjUJLgP-Ms=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66230331/akrales_180620_1777_0266.0.jpg' width='700px' /><br/>
-Twitter announced a subtle design change to its iOS app today that may go a long way in both making conversations easier to parse and to join. The change, which looks like it's a change on Twitter's end that does not require an update, is to the threading feature in the Twitter timeline, which currently does a poor job of differentiating between standard tweets and replies.
-<a href='https://www.theverge.com/2020/1/31/21117608/twitter-ios-app-replies-design-ui-change-update'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YXxDmoUPbdmXORpjLk2PFo3Up0Y=/0x0:2040x1148/1200x675/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/66246403/3877_Val_Giftguide_Lede.0.jpg' width='700px' /><br/>
+Valentine's Day is a holiday fraught with potential pitfalls for how to appropriately express your affection to your significant other or potential love interest. Do you take a romantic trip? Maybe go to a fancy restaurant? Or get them a thoughtful tech gift? What you end up deciding to do is likely going to depend a lot on your relationship and personalities.
+<a href='https://www.theverge.com/2020/2/4/21080075/valentines-day-gift-guide-tech-gadgets-games-home-ideas-2020'> Source <a/>

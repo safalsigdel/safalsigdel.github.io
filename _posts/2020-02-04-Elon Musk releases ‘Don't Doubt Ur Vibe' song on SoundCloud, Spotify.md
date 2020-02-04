@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ARgLW7OsXJ6YEpY8leiXdvIZfOM=/365x0:1989x932/1200x800/filters:focal(1257x705:1583x1031)/cdn.vox-cdn.com/uploads/chorus_image/image/66225034/EPltySVUUAAxfew.0.jpeg' width='700px' /><br/>
-Elon Musk is on a roll. Tesla stock is on a rocket ship and the Model Y SUV is coming early. Now, to share the good times, he's released a song on SoundCloud titled “Don't Doubt Ur Vibe.” Seriously. The track is also available on Spotify.
-<a href='https://www.theverge.com/2020/1/31/21116427/elon-musk-song-edm-soundcloud'> Source <a/>

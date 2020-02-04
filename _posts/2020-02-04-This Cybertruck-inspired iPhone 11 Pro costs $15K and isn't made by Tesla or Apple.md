@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6Wnx9-wsetywOSuEY9NZALqJXS4=/0x0:1270x774/1200x800/filters:focal(534x286:736x488)/cdn.vox-cdn.com/uploads/chorus_image/image/66230809/iphone_11_tesla_cybertruck_caviar_front_and_back.0.jpg' width='700px' /><br/>
-Phones are rounded rectangles now. Have been for years — ever since the iPhone killed the QWERTY slider dead. They're getting rounder and rounder, in fact, as manufacturers continue to figure out how to bend OLED screens and raw metals to their will. They're far too samey, unless you count an array of sci-fi inspired foldables that are so far basically just recreating the flip phone.
-<a href='https://www.theverge.com/2020/1/31/21117052/caviar-cybertruck-cyberphone-tesla-apple-iphone-11-pro-max'> Source <a/>

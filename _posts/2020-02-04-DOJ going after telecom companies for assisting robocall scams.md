@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P7QbmD0HILOveXFpYKZnPz9CNEQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66230128/DSCF2964.0.jpg' width='700px' /><br/>
-The Department of Justice is taking a new approach to robocalls, seeking approval to hold telecommunications companies responsible for calls on their networks instead of just going after the often-overseas criminals who actually do the dialing.
-<a href='https://www.theverge.com/2020/1/31/21117477/justice-department-telecom-scams-robocalls'> Source <a/>

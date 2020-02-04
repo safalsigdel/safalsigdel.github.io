@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vsXRiy0YSIvyptyl8dl-6kvkHCw=/0x0:4500x3000/1200x675/filters:focal(2791x1115:3511x1835)/cdn.vox-cdn.com/uploads/chorus_image/image/66238969/1197631646.jpg.0.jpg' width='700px' /><br/>
-If you need to get online in Winterset, Iowa (population 5,200), you head to the library. Free Wi-Fi has been in place for a while, but starting this week, the library is lending out ten Sprint mobile hotspots in hardshell cases, prepped for students and residents who can't count on connectivity otherwise.
-<a href='https://www.theverge.com/2020/2/3/21117306/iowa-caucus-rural-broadband-access-election-campaign-sanders-warren'> Source <a/>

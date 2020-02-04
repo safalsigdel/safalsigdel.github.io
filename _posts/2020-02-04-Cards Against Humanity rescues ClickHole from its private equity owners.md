@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3Hc1jV5ZRneFZsNttHWeiaOEGwc=/0x0:640x480/1200x800/filters:focal(269x189:371x291)/cdn.vox-cdn.com/uploads/chorus_image/image/66244151/Untitled-1.0.jpg' width='700px' /><br/>
+Cards Against Humanity has purchased parody website ClickHole from digital media company G/O Media in an all-cash deal with and will make it a majority-employee-owned company, BuzzFeed News reported today.
+<a href='https://www.theverge.com/2020/2/3/21121406/cards-against-humanity-clickhole-acquisition-gawker-g-o-media-the-onion'> Source <a/>

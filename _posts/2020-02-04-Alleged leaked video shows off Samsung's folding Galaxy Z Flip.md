@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-k_wVApBZHdsjRobtmUXtZ_Gjs4=/0x0:2999x2000/1200x800/filters:focal(1261x761:1739x1239)/cdn.vox-cdn.com/uploads/chorus_image/image/66234614/Screen_Shot_2020_02_02_at_21.30.35.0.png' width='700px' /><br/>
-Samsung's next folding phone is likely to be announced this month, and what appears to be the first hands-on video with the device has just appeared online. Leaker Ben Geskin has posted a short clip purportedly showing the phone, said to be called the Galaxy Z Flip, in action on Twitter. It's not clear where the video originated from.
-<a href='https://www.theverge.com/2020/2/2/21118894/samsung-galaxy-z-flip-leaked-video'> Source <a/>

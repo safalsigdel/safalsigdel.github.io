@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wykkwVh0hd93GiYLfXulAX0RZwM=/0x0:4106x2737/1200x800/filters:focal(1696x625:2352x1281)/cdn.vox-cdn.com/uploads/chorus_image/image/66246913/1198467699.jpg.0.jpg' width='700px' /><br/>
+The Iowa Democratic Party said a “coding issue” was responsible for the botched reporting that delayed the results of the inaugural presidential primary contest on Monday night.
+<a href='https://www.theverge.com/2020/2/4/21122252/iowa-democrats-caucus-results-coding-issue-app-data-transmission'> Source <a/>
