@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p3_BXrGM_x_ezH82BYksu5eJKQE=/0x0:1920x1080/1200x800/filters:focal(716x342:1022x648)/cdn.vox-cdn.com/uploads/chorus_image/image/66244475/Screen_Shot_2020_02_03_at_5.04.28_PM.0.png' width='700px' /><br/>
-Short-form video platform Quibi has released new teaser trailers on its YouTube channel that give a first look at some of the new shows coming to the mobile-focused streaming service. The trailers, as well as the company's recent Super Bowl commercial, are part of Quibi's efforts to try and convince people to subscribe to the new service when it launches on April 6th.
-<a href='https://www.theverge.com/2020/2/3/21121385/quibi-new-trailers-for-shows-flipped-elba-vs-block-fugitive'> Source <a/>

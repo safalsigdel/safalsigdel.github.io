@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Vf5B9lzZlvtI_vkzl47m3_Uvs4A=/0x0:1024x686/1200x800/filters:focal(431x262:593x424)/cdn.vox-cdn.com/uploads/chorus_image/image/66246142/Messenger_Kids_header_.0.png' width='700px' /><br/>
-Facebook has updated Messenger Kids with new options for parents to see and control how their children are using the messaging app, the company announced today. These tools can be accessed by parents through the Parent Dashboard in the main Facebook app.
-<a href='https://www.theverge.com/2020/2/4/21122067/facebook-messenger-kids-parental-controls-chat-history-blocked-contacts'> Source <a/>

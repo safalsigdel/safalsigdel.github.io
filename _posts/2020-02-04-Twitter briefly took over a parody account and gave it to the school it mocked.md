@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y779MTb_PqKX-wU4BRLuPjsghD0=/0x0:900x600/1200x800/filters:focal(378x228:522x372)/cdn.vox-cdn.com/uploads/chorus_image/image/66243827/twitter.0.0.png' width='700px' /><br/>
-SUNY Geneseo, a liberal arts college in upstate New York, just wanted the parody Twitter account @SUNYGenseeo deactivated. Instead, Twitter handed over the keys to the unofficial account created by a student, a school representative says, giving the school access to delete most of sophomore Isaiah Kelly's tweets, as first reported by Business Insider.
-<a href='https://www.theverge.com/2020/2/3/21120327/twitter-suny-geneseo-parody-suspension'> Source <a/>
