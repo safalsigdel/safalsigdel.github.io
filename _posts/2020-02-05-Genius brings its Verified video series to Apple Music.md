@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/JKVPDs6ZqSmB3icR-BiZXvcz5E4=/0x0:1178x786/1200x800/filters:focal(495x299:683x487)/cdn.vox-cdn.com/uploads/chorus_image/image/66250047/image.0.jpg' width='700px' /><br/>
-Genius' popular “Verified” video series is coming to Apple Music starting today. The show has artists explain the meaning behind the lyrics of their hit songs, featuring musicians like Billie Eilish and J Balvin.
+Genius' popular Verified video series is coming to Apple Music starting today. The show has artists explain the meaning behind the lyrics of their hit songs, featuring musicians like Billie Eilish and J Balvin.
 <a href='https://www.theverge.com/2020/2/4/21120625/genius-verified-video-series-apple-music-alec-benjamin-yung-baby-tate'> Source <a/>
