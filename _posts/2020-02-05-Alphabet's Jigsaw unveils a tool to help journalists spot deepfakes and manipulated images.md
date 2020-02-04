@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YifMeXvJKHVVGHwWmJO0SLxQVEw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66249885/acastro_180130_1777_0002.0.jpg' width='700px' /><br/>
+Alphabet's Jigsaw subsidiary has revealed a new tool that's intended to help journalists more easily spot deepfakes and manipulated images. The tool, called Assembler, uses “detectors” to analyze an image or deepfake; determine if it's authentic; and if it's not, inform the user where the image may have been manipulated.
+<a href='https://www.theverge.com/2020/2/4/21122778/alphabet-jigsaw-assembler-tool-news-journalists-deepfakes-images'> Source <a/>

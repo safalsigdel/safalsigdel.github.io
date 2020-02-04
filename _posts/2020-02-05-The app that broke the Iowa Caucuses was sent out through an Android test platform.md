@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9sY4mtHv3byDnzDKuPbAKlN5ptU=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/66249974/1203889059.jpg.0.jpg' width='700px' /><br/>
+The mobile software developed to tally votes in the Iowa Democratic caucus yesterday has taken center stage in an ongoing controversy over who exactly created it and why it was deployed in such a sloppy state. Now, thanks to Motherboard, we know what the app looks like, and the error screens that specific precinct leaders encountered as they attempted to call in vote totals last night.
+<a href='https://www.theverge.com/2020/2/4/21122737/iowa-democractic-caucus-voting-app-android-testfairy-screenshots-app-store'> Source <a/>
