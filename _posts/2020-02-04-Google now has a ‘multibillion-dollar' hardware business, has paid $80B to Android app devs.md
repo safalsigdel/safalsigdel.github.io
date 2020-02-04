@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3nLAXy1YZDQz51BzLU1nxZ2lTFk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66244495/akrales_180508_2553_0006.0.jpg' width='700px' /><br/>
+“We have no idea how much money Google makes from hardware,” Marketwatch wrote two years ago. That's no longer entirely true — the company's hardware division is a “multibillion-dollar” business, the company revealed during parent Alphabet's Q4 earnings call (via 9to5Google).
+<a href='https://www.theverge.com/2020/2/3/21121492/google-hardware-multi-billion-dollar-business-q4-2019-earnings'> Source <a/>
