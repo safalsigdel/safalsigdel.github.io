@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Hnpz3akmUE2ceH0HKFs9bjgEmtQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66249637/akrales_180222_2329_0024.0.jpg' width='700px' /><br/>
-Mobile World Congress in Barcelona, Spain, is the world's biggest mobile trade show, but the coronavirus will be making it a little smaller this year. Chinese phone manufacturer and telecom giant ZTE just confirmed that it's canceling its press conference at MWC 2020, citing secondary effects of the virus outbreak.
-<a href='https://www.theverge.com/2020/2/4/21122863/coronavirus-zte-press-conference-canceled-mwc-2020'> Source <a/>
