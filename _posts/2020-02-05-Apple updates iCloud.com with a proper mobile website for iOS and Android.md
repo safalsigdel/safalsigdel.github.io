@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j6d5I_NrNwbzDYi4f79fgzn1DBA=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/66248902/icloud.0.png' width='700px' /><br/>
-Apple has updated its iCloud.com website with proper mobile sites for iOS and Android, making it easier to access Apple services like Notes, Photos, Reminders, and Find My iPhone from a web browser on a mobile phone, as spotted by AppleInsider.
-<a href='https://www.theverge.com/2020/2/4/21122616/apple-icloud-com-website-mobile-update-ui-reminders-notes-photos-find-my-iphone'> Source <a/>
