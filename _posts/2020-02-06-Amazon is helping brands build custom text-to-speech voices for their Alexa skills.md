@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9d0OTZ6l0vAnTyhAoET2kLiUNQg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66251218/acastro_180510_1777_alexa_0001.0.jpg' width='700px' /><br/>
+Amazon announced today that it will now work with brands to help them make custom text-to-speech voices for their Alexa skills. Imagine, for example, that you're ordering KFC using KFC's Alexa skill, but instead of the default Alexa voice replying to you, it's Colonel Sanders himself. That's what Amazon's going for here, and it's something that Amazon and KFC actually developed.
+<a href='https://www.theverge.com/2020/2/4/21123184/amazon-alexa-polly-brands-custom-text-to-speech-voices-kfc'> Source <a/>

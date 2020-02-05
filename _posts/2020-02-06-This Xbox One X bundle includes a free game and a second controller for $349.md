@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p_p8oSHuGFbqTdiKYvhkrzG-SCk=/0x0:2040x1360/1200x800/filters:focal(638x503:964x829)/cdn.vox-cdn.com/uploads/chorus_image/image/66255093/tpina_08082017_1906_0389.0.jpg' width='700px' /><br/>
+It was a big deal when Microsoft slashed $150 off the price of the Xbox One X ahead of Black Friday 2019. You can still find those consoles for the same $349 price, which is a great value, but Dell's deal goes a little further. Right now, $349 can get you an Xbox One X console bundled with the excellent Star Wars Jedi: Fallen Order as well as a second Xbox wireless controller.
+<a href='https://www.theverge.com/good-deals/2020/2/5/21124141/xbox-one-x-microsoft-gaming-sale-bundle-star-wars-jedi-controller-dell-deal'> Source <a/>

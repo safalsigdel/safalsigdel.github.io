@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FRBSuHZw7Pf2IWaONv_3iYfc6Yk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66251024/acastro_191014_1777_google_pixel_0001.0.0.jpg' width='700px' /><br/>
+Google Fiber announced today that it will be dropping its TV package option to focus solely on providing high-speed internet service. It will still provide the service to existing customers who pay for it, but the company says “customers today just don't need traditional TV” anymore when so many options are available online through over-the-top TV services and streaming platforms.
+<a href='https://www.theverge.com/2020/2/4/21123050/google-fiber-tv-package-removed-internet-service-high-speed'> Source <a/>
