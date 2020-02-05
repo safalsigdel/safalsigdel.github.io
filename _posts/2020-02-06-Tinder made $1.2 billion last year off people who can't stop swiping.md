@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y0XxF_AHfwMepyEseC4fUS81LzM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66250614/acastro_180822_1777_tinder_0002.0.jpg' width='700px' /><br/>
-Tinder's making a lot of money off the single people of the world. In its final earnings release for 2019, Match Group disclosed that Tinder brought in $1.2 billion in revenue last year, further cementing its place as the dating app company's most valuable asset.
-<a href='https://www.theverge.com/2020/2/4/21123057/tinder-1-billion-dollars-match-group-revenue-earnings'> Source <a/>
