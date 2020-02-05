@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JW6ySVwSuxqIhiL_y80U0qj15fQ=/0x0:5074x3383/1200x800/filters:focal(2132x1287:2942x2097)/cdn.vox-cdn.com/uploads/chorus_image/image/66245702/1203880819.jpg.0.jpg' width='700px' /><br/>
-Several precincts in Iowa said that workers are having trouble using a new app to report caucus results. People were unable to download or log into the app, Bloomberg News reported earlier today. That meant caucus workers had to call in their results, delaying their reporting as the phone lines jammed. Originally, the Iowa Democratic party said the delay was due to “quality checks.” Results are now expected to be released later on Tuesday.
-<a href='https://www.theverge.com/2020/2/4/21121903/iowa-results-delay-app-reporting'> Source <a/>

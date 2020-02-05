@@ -3,6 +3,11 @@ layout: default
 ---
 
 <div class="posts">
+  {{ Time.now.strftime("%m/%d/%Y") }}
+
+  <p>This website is created by scraping content from <a href='https://theverge.com/tech'>The Verge</a>. </p>
+  <p>The images used in this website belongs to respective owners and I or this website does not claim any right over them.
+Furthermore, this website will have no negative impact on the original work. </p>
   <div class="row article-container">
   {% for post in site.posts %}
     <div class="article-single">

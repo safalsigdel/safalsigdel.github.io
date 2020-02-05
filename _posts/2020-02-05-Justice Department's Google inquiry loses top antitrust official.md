@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P2NNLGj_7QLDfVnj8BvjRR9zcN0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66245975/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-The Justice Department's head of antitrust, Makan Delrahim, has recused himself from the department's investigation into Google over a conflict of interest, The New York Times is reporting. The conflict of interest reportedly stems from Delrahim's previous work as a lawyer, when in 2007 he was contracted to lobby on behalf of the search giant's acquisition of the adtech company DoubleClick.
-<a href='https://www.theverge.com/2020/2/4/21122041/google-inquiry-department-of-justice-makan-delrahim-conflict-of-interest-lobbying'> Source <a/>

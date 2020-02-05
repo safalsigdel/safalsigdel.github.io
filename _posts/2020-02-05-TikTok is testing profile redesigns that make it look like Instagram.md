@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dDxymfKpkdaolEsEOHKZWVOwmHo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66243928/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-TikTok is testing a user profile redesign that's remarkably similar to Instagram. The new profile shifts avatars and follow count to the left, and places more emphasis on user bios. The redesign was first spotted by New York Times reporter Taylor Lorenz.
-<a href='https://www.theverge.com/2020/2/3/21121322/tiktok-bytedance-instagram-profile-redesign'> Source <a/>

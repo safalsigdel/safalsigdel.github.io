@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yVXDIBH1YlnRXPn7TKWARkqHn8M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66246003/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
-Google is alerting some users of its Google Photos service that they've had their private videos sent to strangers by the search giant. Google's Takeout service, that lets people download their data, was affected by a “technical issue” between November 21st and November 25th last year. It resulted in a small number of users receiving private videos that didn't belong to them.
-<a href='https://www.theverge.com/2020/2/4/21122044/google-photos-privacy-breach-takeout-data-video-strangers'> Source <a/>

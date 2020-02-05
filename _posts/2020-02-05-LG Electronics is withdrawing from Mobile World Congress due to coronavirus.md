@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jp9FzGDdKhSfpEZ4f6ndvNTntps=/0x0:2040x1360/1200x800/filters:focal(842x667:1168x993)/cdn.vox-cdn.com/uploads/chorus_image/image/66251002/akrales_190404_3345_0221.0.jpg' width='700px' /><br/>
+LG Electronics, the division of LG Corporation responsible for mobile phones and other consumer tech, says it will be withdrawing from the upcoming Mobile World Congress expo in Barcelona, Spain due to the coronavirus outbreak. LG's decision follows ZTE's cancellation of its MWC press conference earlier today.
+<a href='https://www.theverge.com/2020/2/4/21123169/lg-electronics-mwc-2020-cornavirus-cancel-withdraw-outbreak-concern'> Source <a/>

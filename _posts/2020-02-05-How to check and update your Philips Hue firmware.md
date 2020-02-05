@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4iuM8DOnIXkkv8UYGDQL1SMyIm0=/0x0:2040x1360/1200x800/filters:focal(1035x720:1361x1046)/cdn.vox-cdn.com/uploads/chorus_image/image/66254784/jbareham_160818_1183_0072.0.0.jpg' width='700px' /><br/>
+According to a firm called Check Point Software, a recent vulnerability in Philips Hue smart lightbulbs could allow malware to be installed on the Philips Hue Bridge that lets it access your internet connection and the devices connected to it. (Apparently, this hack doesn't apply to the version of Philips Hues' smart lights that feature Bluetooth.)
+<a href='https://www.theverge.com/2020/2/5/21124023/philips-hue-firmware-how-to-check-updates-network-vulnerability'> Source <a/>
