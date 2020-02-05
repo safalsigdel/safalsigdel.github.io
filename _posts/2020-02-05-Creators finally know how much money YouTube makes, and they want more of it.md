@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TmZX8oMtU8Ii_1-Uz2WrNoPiVdk=/0x0:3000x2491/1200x800/filters:focal(1342x345:1822x825)/cdn.vox-cdn.com/uploads/chorus_image/image/66248764/911853890.jpg.0.jpg' width='700px' /><br/>
-More than a decade after acquiring YouTube, Google is finally giving investors some information on how much revenue the video platform makes: a whopping $15 billion in advertising alone.
-<a href='https://www.theverge.com/2020/2/4/21121370/youtube-advertising-revenue-creators-demonetization-earnings-google'> Source <a/>
