@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fIOw0xd4cB6Uuedwq_ne4vjT4E8=/0x0:897x662/1200x800/filters:focal(378x260:520x402)/cdn.vox-cdn.com/uploads/chorus_image/image/66257491/flywheel_fly_anywhere_bike.0.png' width='700px' /><br/>
+Peloton and Flywheel have agreed to settle their legal disputes over claims that Flywheel copied Peloton's patented technology, according to a Texas court filing dated February 3rd.
+<a href='https://www.theverge.com/2020/2/5/21125153/peloton-flywheel-copy-bike-tech-ip-infringement-settlement-cycling'> Source <a/>
