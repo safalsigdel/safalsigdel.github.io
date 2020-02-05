@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GB4k4Em9LNTDEJx78leYA4pQ_SA=/0x0:1095x832/1200x800/filters:focal(461x329:635x503)/cdn.vox-cdn.com/uploads/chorus_image/image/66257531/bad_video_ad_better_ads_example.0.jpg' width='700px' /><br/>
+The web may soon have fewer crappy, mandatory video ads for you to endure. This August, Google's Chrome web browser will start blocking long, “non-skippable” preroll ads, ads that block a big chunk of your video, and ads that interrupt your videos in the middle, if the video you're watching is under eight minutes long.
+<a href='https://www.theverge.com/2020/2/5/21125105/google-chrome-youtube-ban-video-ad-length-unskippable-preroll-midroll'> Source <a/>
