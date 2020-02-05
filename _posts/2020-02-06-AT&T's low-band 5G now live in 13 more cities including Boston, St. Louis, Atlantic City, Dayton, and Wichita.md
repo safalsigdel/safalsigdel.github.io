@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ysYIo9wbqYVWR7dykrEC3-_OrvE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66257153/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
+AT&T has added 13 more cities to its low-band 5G network, including large metro areas like Boston, St. Louis, and Atlantic City, and smaller cities like Wichita, Kansas and Dayton, Ohio, bringing the total number of cities on the list to 32. The carrier continues to expand its sub-6GHz network, which has broad range but slower speeds than the mmWave version of its 5G, which thus far AT&T has limited to business customers.
+<a href='https://www.theverge.com/2020/2/5/21125068/att-5g-low-band-cities-availablity-network-range-speed'> Source <a/>
