@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f496zDnwXUKmLQoCPWywPoiIlaA=/0x0:1778x1000/1200x800/filters:focal(747x358:1031x642)/cdn.vox-cdn.com/uploads/chorus_image/image/66253310/EQAa1GLUYAIldPz.0.jpg' width='700px' /><br/>
-A gold version of Motorola's upcoming foldable Razr has been leaked by Evan Blass, and the color scheme could be our favorite version yet. The highly anticipated return of the Razr is currently only available in black on Verizon's site for $1,499 and a March 3rd delivery. There's no word on when the gold version might be available, or whether it will carry a price premium.
-<a href='https://www.theverge.com/2020/2/5/21123887/motorala-razr-foldable-gold-color-leaked-handset'> Source <a/>
