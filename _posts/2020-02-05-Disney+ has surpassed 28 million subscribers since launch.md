@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pp_VF_x0gHDGuWaCrRvMHHSQ1MU=/0x0:2700x1152/1200x800/filters:focal(1014x465:1446x897)/cdn.vox-cdn.com/uploads/chorus_image/image/66250471/mandalorian.0.jpg' width='700px' /><br/>
-Disney+ amassed 28.6 million Disney+ subscribers in the first three months since it launched, far exceeding the 20 million estimate that analysts suggested Disney would make by the end of 2020. The company's earnings report stated there were 26.5 million subscribers by the end of December, but CEO Bob Iger announced on the call that Disney+ hit 28.6 million as of Monday.
-<a href='https://www.theverge.com/2020/2/4/21122106/disney-plus-subscriber-numbers-mandalorian-hulu-espn-q1-earnings'> Source <a/>
