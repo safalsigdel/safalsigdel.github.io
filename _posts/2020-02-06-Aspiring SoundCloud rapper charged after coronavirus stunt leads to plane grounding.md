@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QzvnnctFvTeaJQlgrUEshieElGY=/0x0:767x388/1200x800/filters:focal(396x110:518x232)/cdn.vox-cdn.com/uploads/chorus_image/image/66257025/potok.0.png' width='700px' /><br/>
+A Canadian man who describes himself as an “artist” was charged after declaring that he was infected with the pneumonia-like coronavirus while traveling on a WestJet flight.
+<a href='https://www.theverge.com/2020/2/5/21124815/coronavirus-soundcloud-rapper-charged-westjet-flight-james-potok'> Source <a/>
