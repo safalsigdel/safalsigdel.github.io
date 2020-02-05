@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9ta2NQV6VNI9UUGxHqTte2w2NCc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66248788/acastro_180406_1777_facebook_Congress_0002.0.jpg' width='700px' /><br/>
-Iowa state officials and Democratic Party members are fighting online misinformation and conspiracies alongside widespread technical problems, and the resulting chaos is putting platforms' newly released misinformation policies to the test.
-<a href='https://www.theverge.com/2020/2/4/21122273/iowa-caucus-conspiracy-theories-voter-fraud-misinformation-facebook-twitter-moderation'> Source <a/>
