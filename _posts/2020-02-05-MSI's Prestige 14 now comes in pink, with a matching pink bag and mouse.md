@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7hgitOYqVNEWPhGiaOqm_hdAS6w=/0x0:1565x1116/1200x800/filters:focal(658x433:908x683)/cdn.vox-cdn.com/uploads/chorus_image/image/66247470/bundle_only.0.jpg' width='700px' /><br/>
-MSI has announced the availability of its Rose Pink Prestige 14 laptop, which comes with a pink sleeve bag, pink mouse, and pink keychain. It's available now from Newegg and Amazon.
-<a href='https://www.theverge.com/2020/2/4/21122267/msi-prestige-14-rose-pink-creator-laptop-price-specs-features'> Source <a/>

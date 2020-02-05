@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QqQg01XZ7PR3iY0UZPVkaagEZEA=/0x0:1280x868/1200x800/filters:focal(771x158:975x362)/cdn.vox-cdn.com/uploads/chorus_image/image/66251415/The_Mandalorian.0.jpg' width='700px' /><br/>
+The Mandalorian's second season will premiere on Disney+ in October, Disney CEO Bob Iger said today on the company's quarterly earnings call.
+<a href='https://www.theverge.com/2020/2/4/21123262/mandalorian-season-2-october-disney-plus-star-wars'> Source <a/>
