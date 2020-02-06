@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xPA-mvbQo3rY61pwz18YUxHjEMY=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66264015/1177642774.jpg.0.jpg' width='700px' /><br/>
+Boeing has discovered another software problem on the beleaguered 737 Max that will have to be fixed before the airplane returns to the skies, Bloomberg reported on Thursday. It's at least the third different software problem that has been discovered since the plane was grounded in March of last year following a pair of fatal crashes that claimed the lives of 346 people.
+<a href='https://www.theverge.com/2020/2/6/21126364/boeing-737-max-software-glitch-flaw-problem'> Source <a/>

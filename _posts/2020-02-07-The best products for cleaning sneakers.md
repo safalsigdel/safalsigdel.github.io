@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j5kI4qmEKLAJF3XD0Th_ozZwbMA=/0x0:640x356/1200x800/filters:focal(269x127:371x229)/cdn.vox-cdn.com/uploads/chorus_image/image/66261554/18_sneaker_cleaner_lede.0.jpg' width='700px' /><br/>
+Whether it's a $400 pair of Common Projects or a $50 pair of Chuck Taylors, all sneakers have one thing in common: They get dirty. And there's no miracle product to prevent that, says Eduard Shimunov of Cobbler Express in the Financial District. “Unless you put a bag over them, there's nothing really out there. Dirt is dirt. If you walk on the street, you're going to get it onto your shoes.”
+<a href='https://www.theverge.com/2020/2/6/21115518/best-sneaker-cleaners-leather-suede-strategist'> Source <a/>

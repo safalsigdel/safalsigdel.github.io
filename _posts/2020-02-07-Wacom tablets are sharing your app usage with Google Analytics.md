@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PDc-l7PGhcygQ6E2ad3NVvG56jc=/0x0:960x640/1200x800/filters:focal(404x244:556x396)/cdn.vox-cdn.com/uploads/chorus_image/image/66262346/wacom-mobile-stuido-16-gallery-g1.0.0.1476103990.0.jpg' width='700px' /><br/>
+Wacom tablets have been collecting data on what apps users open, and it's not entirely clear what Wacom is doing with the data. Software engineer Robert Heaton writes in a detailed blog post that he discovered the behavior after setting up his tablet on his new laptop.
+<a href='https://www.theverge.com/2020/2/6/21126245/wacom-tablet-app-tracking-google-analytics'> Source <a/>
