@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wTMq9mBTriLe02c6UIn7RdaQki8=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/66260641/brose_190930_3699_0012.0.jpg' width='700px' /><br/>
+Sales of the GoPro Hero 8 series helped the company post Q4 revenue of $528 million, up 40 percent compared to the same holiday quarter last year. It was the third best quarter in terms of revenue ever posted by the company, which founder and CEO Nick Woodman took public in 2015. Those numbers allowed the company to eke out a profit of $102 million for the October to December 2019 period, it's second most profitable quarter ever, according to Woodman.
+<a href='https://www.theverge.com/2020/2/6/21126050/gopro-record-profit-hero-8'> Source <a/>
