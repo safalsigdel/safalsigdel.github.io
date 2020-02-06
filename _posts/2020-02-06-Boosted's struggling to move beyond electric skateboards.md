@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uG-uIt4LcRs4faz8UGvdY_5DowA=/0x0:2040x1360/1200x675/filters:focal(851x697:1177x1023)/cdn.vox-cdn.com/uploads/chorus_image/image/66254620/akrales_180621_2596_0108.0.jpg' width='700px' /><br/>
-Boosted, the California startup synonymous with electric skateboards, appears to be in trouble. The company may be in danger of running out of money, despite raising tens of millions of dollars in late 2018, partially thanks to President Trump's trade war but also because of a delay in shipping Boosted's first electric scooter. Some of the company's vendors have gone unpaid as a result.
-<a href='https://www.theverge.com/2020/2/5/21036805/boosted-board-electric-skateboard-finances-money-cash-trouble-customer-service'> Source <a/>
