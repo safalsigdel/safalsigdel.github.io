@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0JFA6hGBybFM6ZDA4N8PiXNXH_4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66257719/acastro_180213_1777_0003.0.jpg' width='700px' /><br/>
-Spotify continued to prove it's serious about dominating the podcast industry with an announcement today that it acquired The Ringer, a media company known both for its culture website and massive podcast operation headlined by The Bill Simmons Podcast. Now, Simmons' show might instead anchor Spotify's expanding podcast empire.
-<a href='https://www.theverge.com/2020/2/5/21124201/bill-simmons-the-ringer-spotify-acquistion-podcast-purchase'> Source <a/>

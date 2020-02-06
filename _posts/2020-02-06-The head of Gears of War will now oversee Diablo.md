@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4YUL3-6uzZqbFYc35C85r-FDNig=/0x0:5472x3648/1200x800/filters:focal(1711x1037:2585x1911)/cdn.vox-cdn.com/uploads/chorus_image/image/66259011/613061484.jpg.0.jpg' width='700px' /><br/>
-Rod Fergusson announced today that he's leaving his role as the head of The Coalition, Microsoft's Gears of War-focused studio, to join Blizzard and oversee the Diablo franchise.
-<a href='https://www.theverge.com/2020/2/5/21125608/rod-fergusson-gears-of-war-diablo-the-coalition-xbox-blizzard'> Source <a/>

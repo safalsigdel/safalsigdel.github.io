@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gBPzI2h5T1iQngbwSt2tOOvfgxY=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66260258/VRG_ILLO_1777_Huawei_004.0.0.jpg' width='700px' /><br/>
-Huawei has announced that it's suing Verizon for alleged patent violations, marking the latest twist in the Chinese tech giant's adversarial relationship with the US. The lawsuit, filed in the Eastern and Western district courts in Texas, claims that Verizon is using 12 patents owned by Huawei without authorization.
-<a href='https://www.theverge.com/2020/2/6/21125997/huawei-verizon-patent-violation-lawsuit'> Source <a/>

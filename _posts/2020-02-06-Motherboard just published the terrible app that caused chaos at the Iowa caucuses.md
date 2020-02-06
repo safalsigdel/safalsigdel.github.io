@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2jHJXwcl3KJ1fNk2A_PtouetM7g=/0x0:6720x4480/1200x800/filters:focal(2948x1350:4022x2424)/cdn.vox-cdn.com/uploads/chorus_image/image/66258477/1204020836.jpg.0.jpg' width='700px' /><br/>
-The IowaRecorder app, the shoddy mobile software developed to tally votes in the state's Democratic caucuses on Monday that threw the entire event into a tailspin, was just published online by Motherboard. According to editor-in-chief Jason Koebler, “Trust and transparency are core to the US electoral process,” and “that's why Motherboard is publishing the app that malfunctioned in Iowa.”
-<a href='https://www.theverge.com/2020/2/5/21125449/iowa-recorder-app-democractic-caucus-motherboard-published'> Source <a/>
