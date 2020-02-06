@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KpBeGHXjEla6cFjlWxDCybuNRmg=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/66255028/mswindows2_2040.0.0.jpg' width='700px' /><br/>
-Microsoft's built-in Windows search went down for many users for more than three hours today. Windows search is built into Microsoft's latest Windows 10 operating system, and it started presenting blank search results for apps or any other search queries at around 8AM ET today. Windows search uses the Bing backend to search for results across the web, and it appears that this was the source of the issue.
-<a href='https://www.theverge.com/2020/2/5/21124204/windows-search-down-blank-results-issues-microsoft-bing-outage'> Source <a/>

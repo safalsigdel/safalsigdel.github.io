@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QUg2MY_GL7RGZGwlZY4dDtvdgPk=/0x0:1751x1200/1200x800/filters:focal(736x460:1016x740)/cdn.vox-cdn.com/uploads/chorus_image/image/66260585/maps.0.png' width='700px' /><br/>
+Google Maps is turning 15 years old, and to celebrate, Google is rolling out a new icon for the service along with a slightly redesigned app and a couple of new features.
+<a href='https://www.theverge.com/2020/2/6/21125275/google-maps-15th-anniversary-new-icon-tabs-design-transit-information-live-view-update-features'> Source <a/>
