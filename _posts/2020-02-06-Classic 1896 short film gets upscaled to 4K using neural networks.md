@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-One of the most famous short films in cinema is an 1896 silent film about a train pulling into a station. An intrepid Reddit user has upscaled that film to 4K, brought its frame rate up to 60fps, and even added sound. The effect is impressive, turning a movie that's over 120 years old into something that seems like it could have been filmed today (via Digg).
-<a href='https://www.theverge.com/tldr/2020/2/5/21124838/classic-1896-short-film-upscaled-4k-neural-networks-arrival-la-ciotat-station'> Source <a/>
