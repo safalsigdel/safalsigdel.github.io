@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bbIbF65vwfIBOuUviYVC5d-aG2c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66260826/acastro_170726_1777_0010.0.jpg' width='700px' /><br/>
+Twitter had 152 million daily users during the final months of 2019, and it says the latest spike was thanks in part to improved machine learning models that put “more relevant” tweets in people's timelines and notifications. The figure was released in Twitter's Q4 2019 earnings report this morning.
+<a href='https://www.theverge.com/2020/2/6/21125431/twitter-q4-2019-earnings-daily-user-growth-machine-learning'> Source <a/>
