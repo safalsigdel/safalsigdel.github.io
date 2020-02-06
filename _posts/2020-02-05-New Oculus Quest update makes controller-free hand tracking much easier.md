@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CAN8EKstv_By4eL7H4oMXS3acPU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66251740/akrales_190429_3371_0087.0.jpg' width='700px' /><br/>
-Oculus's newest update for its wireless Oculus Quest VR headset should make tracking your hands in virtual reality without a controller much easier (via UploadVR).
-<a href='https://www.theverge.com/2020/2/4/21123311/oculus-quest-v13-update-controller-free-hand-tracking'> Source <a/>

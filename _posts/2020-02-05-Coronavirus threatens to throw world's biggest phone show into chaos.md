@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/466anTagbF8HkvKMoxsJkJAu1-8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66253644/vpavic_180225_2334_0048.0.jpg' width='700px' /><br/>
-In under three weeks, the collective eyes of the tech industry will turn to Barcelona for Mobile World Congress, the biggest and most important trade show in the world of mobile communications. More than 100,000 attendees from nearly 200 countries are expected every year, and unlike CES in recent times, MWC still regularly manages to entice major manufacturers into announcing their most important devices at the show.
-<a href='https://www.theverge.com/2020/2/5/21123846/mobile-world-congress-gsma-coronavirus-lg'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/om5HlrSL8WsYF7FMKtVnlsAQYV4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66257847/akrales_190730_3338_0102.0.jpg' width='700px' /><br/>
+For the first few years of Instagram's existence, it was a pain to hide stories from people. You had to dig into an individual story's settings and select followers to hide it from. Then, if you wanted to let those followers see the next story, you had to go into that story's settings and undo the block.
+<a href='https://www.theverge.com/2020/2/5/21124269/instagram-close-friends-how-to-add-threads-app-stories'> Source <a/>

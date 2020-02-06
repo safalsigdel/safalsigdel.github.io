@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i_tee8v-6n2NEGWpv4AUPwtbXSA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66253470/acastro_180213_1777_0001.0.jpg' width='700px' /><br/>
-Spotify's continued investment in podcasts appears to be paying off, after the company reported that podcast listening has increased by 200 percent year-on-year in its fourth quarter earnings today. The company says it now has over 700,000 podcasts on its platform, and that over 16 percent of its users now listen to podcasts. Spotify says the amount of users paying for its premium tier increased to 124 million.
-<a href='https://www.theverge.com/2020/2/5/21123905/spotify-earnings-q4-2020-podcasting-investment-operating-loss'> Source <a/>
