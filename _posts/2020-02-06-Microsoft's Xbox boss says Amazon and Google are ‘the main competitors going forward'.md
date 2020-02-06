@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RuGbFwiAZRN8SvPQim162vVdxvU=/0x0:3200x2133/1200x800/filters:focal(1344x811:1856x1323)/cdn.vox-cdn.com/uploads/chorus_image/image/66253858/philspencer2.0.0.jpg' width='700px' /><br/>
-Microsoft's head of gaming and Xbox, Phil Spencer, has revealed that the company sees Amazon and Google as its main competition for the future. Speaking in an interview with newly launched technology publication Protocol, Spencer dismisses Sony and Nintendo's ability to create a cloud infrastructure that will challenge Microsoft, Google, or Amazon.
-<a href='https://www.theverge.com/2020/2/5/21123956/microsoft-xbox-competitors-phil-spencer-cloud-gaming-amazon-google'> Source <a/>
