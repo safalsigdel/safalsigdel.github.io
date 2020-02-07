@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3zYFifJHJJUs15S6o2ZVRAARzgc=/0x0:1020x676/1200x800/filters:focal(429x257:591x419)/cdn.vox-cdn.com/uploads/chorus_image/image/66268298/ethernet-internet-cord-stock_1020.1419970910.0.jpg' width='700px' /><br/>
-A new report estimates there are 42.8 million people in the US without broadband access, nearly twice the official estimate reached by the Federal Communication Commission. The report was conducted by BroadbandNow, a company that helps consumers check their area for broadband availability. In its 2019 report, the FCC estimated only 21.3 million Americans lacked broadband access.
-<a href='https://www.theverge.com/2020/2/6/21126744/fcc-broadband-survey-high-speed-internet-access-wireless'> Source <a/>

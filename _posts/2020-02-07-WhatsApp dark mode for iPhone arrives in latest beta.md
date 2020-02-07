@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5UWcdftkp_hUr-pNKRsv7uhNFQA=/0x0:800x561/1200x800/filters:focal(336x217:464x345)/cdn.vox-cdn.com/uploads/chorus_image/image/66270975/dark_mode_whatsapp.0.jpg' width='700px' /><br/>
-WhatsApp is finally getting a dark mode soon on iPhone soon. A new beta version of WhatsApp for iOS has appeared with dark mode enabled, indicating that it will soon be available for all iPhone users. MacRumors reports that the testing notes include a dark mode, although no beta testers have shared what the mode looks like.
-<a href='https://www.theverge.com/2020/2/7/21127745/whatsapp-dark-mode-iphone-ios-release-date-beta-testing'> Source <a/>

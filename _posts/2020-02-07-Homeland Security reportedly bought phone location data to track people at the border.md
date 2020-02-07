@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Mg6e9guUn3IY52Yv2n_wKSRjZn4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66271576/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
-The Department of Homeland Security has been purchasing cellphone location data and using it to track activity near the US-Mexico border, according to The Wall Street Journal. The data has reportedly led to arrests after law enforcement saw where people were crossing the border and traced the data back to specific people.
-<a href='https://www.theverge.com/2020/2/7/21127795/dhs-buying-phone-location-data-marketing-companies-border-immigration'> Source <a/>

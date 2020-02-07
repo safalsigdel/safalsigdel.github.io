@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wjF9OWmSUh6p_4jvPVX9214ntVc=/0x0:5408x3606/1200x800/filters:focal(2851x606:3715x1470)/cdn.vox-cdn.com/uploads/chorus_image/image/66270983/1186106731.jpg.0.jpg' width='700px' /><br/>
-iPhone manufacturer Foxconn has told employees at its Shenzhen HQ not to return to work on February 10th as planned, but to await further instruction, Bloomberg reports. Meanwhile, a Foxconn subsidiary has refitted production lines in Shenzhen to make medical face masks for Foxconn workers, according to Reuters. Both developments are meant to protect Foxconn workers and help prevent the spread of the coronavirus.
-<a href='https://www.theverge.com/2020/2/7/21127731/foxconn-coronavirus-shenzhen-hq-shut-face-mask-manufacture-iphone'> Source <a/>

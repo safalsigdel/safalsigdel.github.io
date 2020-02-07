@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9jKzeet26bsbAJQwLKQdwFd4Rhs=/0x0:4080x2720/1200x800/filters:focal(1714x1034:2366x1686)/cdn.vox-cdn.com/uploads/chorus_image/image/66272678/1193800395.jpg.0.jpg' width='700px' /><br/>
-It's been a wild week with the Iowa caucuses mess, the State of the Union, and impeachment, but we're closing it out with the last Democratic debate ahead of the New Hampshire primary. On Friday, seven familiar faces will take the stage at St. Anselm College in Manchester, New Hampshire, to make their cases to US voters for the eighth time.
-<a href='https://www.theverge.com/2020/2/7/21127876/democratic-debate-watch-live-stream-how-to-start-time-candidates-new-hampshire-primary'> Source <a/>
