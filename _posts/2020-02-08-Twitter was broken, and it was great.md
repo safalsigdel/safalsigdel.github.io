@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/ubnXiOLp1v8werKeCjKSzSE09Zs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66274965/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-For a brief, blissful period of time, Twitter was in the midst of an outage for its most basic function: sending your thoughts into the ether via tweeting. On DownDetector, the service showed a spike in problems over the last hour or so. Tweets sent bounced right back; retweets are also limited.
+For a brief moment of bliss on Friday, you couldn't tweet on Twitter. On DownDetector, the service showed a spike in problems over the last hour or so. Tweets sent bounced right back; retweets are also limited.
 <a href='https://www.theverge.com/2020/2/7/21128588/twitter-outage-down-issues-scheduled-tweets-work'> Source <a/>
