@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tXT9XqFbKljPyF8DY5hgYuYGupo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66267965/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
+Netflix has finally answered the plea of many, many customers and now offers a way to disable autoplaying videos when you're browsing the home screen. If you're tired of trailers for shows or movies starting to play whenever you briefly pause on a selection, this is the option you've been waiting for.
+<a href='https://www.theverge.com/2020/2/6/21126930/netflix-autoplay-turn-off-stop-disable-block-trailers-how-to'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3m6gc0YwARI1AHkiaItTHPMtBTA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66269307/akrales_190914_3666_0259.0.jpg' width='700px' /><br/>
+Last August, Apple announced it would let more indie repair shops buy genuine iPhone parts and tools so they could do common iPhone repairs. It seemed like an exception to Apple's tight restrictions around who it deems worthy of repairing your phone. But it sounds like Apple drew up a contract so draconian that some shops are refusing to sign it, making us wonder whether Apple meant to assist the repair industry at all.
+<a href='https://www.theverge.com/2020/2/6/21126970/apple-iphone-independent-repair-contract-search-audit'> Source <a/>

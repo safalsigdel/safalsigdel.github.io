@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JaHO5sMbAcnVx4JyQsJ9YN0YnXM=/0x0:2040x1360/1200x800/filters:focal(620x416:946x742)/cdn.vox-cdn.com/uploads/chorus_image/image/66272843/vpavic_191112_3789_0024.0.jpg' width='700px' /><br/>
+Yesterday was the official release date for the Motorola Razr on Verizon Wireless. Or was it? By the end of an entire day spent searching for this nostalgia-inducing phone, I was feeling pretty duped.
+<a href='https://www.theverge.com/2020/2/7/21127955/motorola-razr-foldable-phone-buy-verizon-store-hard-to-find'> Source <a/>

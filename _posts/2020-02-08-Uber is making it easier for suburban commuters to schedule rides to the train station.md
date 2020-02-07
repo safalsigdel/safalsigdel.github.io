@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/egJqCo7i59-NM1X6Ts6QO0WW5gI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66270215/akrales_181010_3013_0148.0.jpg' width='700px' /><br/>
+Uber noticed an interesting thing lately: customers were opening the app late at night and  entering a nearby train station as a destination to see if they could game out how long it would take them to get there in the morning. It sounds stressful, so the company's product team got together and designed a new feature to automate much of this planning.
+<a href='https://www.theverge.com/2020/2/7/21126283/uber-commuters-schedule-rides-lirr-train-public-transportation-caltrain'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RAk1KMKMj-ys9Fl1JeI7OAyHLVk=/0x0:2040x1360/1200x800/filters:focal(889x498:1215x824)/cdn.vox-cdn.com/uploads/chorus_image/image/66272445/vpavic_191118_3800_0122.0.jpg' width='700px' /><br/>
+Apple's new 16-inch MacBook Pro is up to $200 off at Best Buy for My Best Buy rewards members. Starting with the most affordable configuration at $2,249 (usually $2,399), it comes stocked with a six-core Intel Core i7 CPU, 16GB of RAM, AMD's Radeon Pro 5300M graphics chip, and a 512GB SSD. This model is available in silver or space gray.
+<a href='https://www.theverge.com/good-deals/2020/2/7/21127886/apple-16-inch-macbook-pro-hp-spectre-x360-alienware-m15-gaming-laptop-deal-sale'> Source <a/>

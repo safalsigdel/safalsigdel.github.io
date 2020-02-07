@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kGTHW45p1JIwMOzWNVc2wZiQovw=/0x0:6000x4000/1200x800/filters:focal(3874x370:4834x1330)/cdn.vox-cdn.com/uploads/chorus_image/image/66267189/1198655751.jpg.0.jpg' width='700px' /><br/>
+Trolls expressing support for President Trump called into the phone line Democrats were supposed to use for reporting precinct tallies during the Iowa caucuses, adding to the chaos Monday night as the election app failed and precinct chairs tried to phone in results instead, Bloomberg reports.
+<a href='https://www.theverge.com/2020/2/6/21126588/iowa-caucus-delays-democrats-phone-hotline-buttigieg-biden-warren-trump'> Source <a/>

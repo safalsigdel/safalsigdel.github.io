@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S_ai5nsK6cej2-9VrwxBOz3h_U8=/0x0:639x430/1200x800/filters:focal(269x164:371x266)/cdn.vox-cdn.com/uploads/chorus_image/image/66267916/vaio.0.jpg' width='700px' /><br/>
+Japanese manufacturer Vaio has released what looks to be the lightest laptop you can buy so far with a hexa-core chip. The new SX12 is just 2.01 pounds — and it packs an Intel Core i7-10710U “Comet Lake” processor, featuring six cores and 12 threads.
+<a href='https://www.theverge.com/2020/2/6/21126718/vaio-sx12-laptop-six-cores-light-ultrabook'> Source <a/>
