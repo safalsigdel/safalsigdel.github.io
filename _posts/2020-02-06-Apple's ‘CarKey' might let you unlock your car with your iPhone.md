@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fRELdrqTUPsI6O0LNbTkxdza0ZA=/0x0:2040x1360/1200x800/filters:focal(609x556:935x882)/cdn.vox-cdn.com/uploads/chorus_image/image/66258739/dseifert_190620_3494_5292.0.jpg' width='700px' /><br/>
-Apple released the first beta of iOS 13.4 today, and it apparently has an unannounced feature that might let you unlock, lock, and start your car with your iPhone or Apple Watch, as spotted by 9to5Mac.
-<a href='https://www.theverge.com/2020/2/5/21125384/apple-carkey-unlock-car-iphone-apple-watch-digital-key-ios-13-4'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qDCJvJ11bCSIab6eVhsuPvnWI9U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66257100/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple released macOS Catalina 10.15.3 last week, and the update apparently patched a bug that could let you read some text from encrypted emails as if they were unencrypted, according to IT specialist Bob Gendler. A longtime Mac fan, Gendler originally found the bug in July and privately disclosed it to Apple months before publicly writing about it last November, only after the company failed to fix the issue.
-<a href='https://www.theverge.com/2020/2/5/21125033/apple-macos-catalina-bug-patch-update-encrypted-emails'> Source <a/>

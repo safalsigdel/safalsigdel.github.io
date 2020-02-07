@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lVtyJEHgptggZRozNvO8NeJUyrs=/0x0:4000x2662/1200x800/filters:focal(1680x1011:2320x1651)/cdn.vox-cdn.com/uploads/chorus_image/image/66264905/1193813382.jpg.0.jpg' width='700px' /><br/>
+Friday, February 7th, marks the eighth Democratic debate, and Disney-owned ABC News has graciously partnered with Disney-owned Hulu to stream the event live for subscribers.
+<a href='https://www.theverge.com/2020/2/6/21126496/democratic-debate-hulu-disney-netflix-livestream-bernie-sanders-new-hampshire-primary'> Source <a/>

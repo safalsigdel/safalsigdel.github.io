@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MOeMFJD9V98AJKOAJ1vn5CKEuRw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66260576/1167464772.jpg.0.jpg' width='700px' /><br/>
-Thanks to everyone who came out for last night's sold-out event with Anna Wiener! We can't wait to meet even more of you at our next Interface Live. Expect details soon!
-<a href='https://www.theverge.com/interface/2020/2/6/21124934/misinformation-policies-youtube-twitter-deepfakes-synthetic-media'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hQZ2y2nxpyUSmWrxP8P3PxLVuLg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66269615/dbush_170530_1759_0098.0.jpg' width='700px' /><br/>
+Tesla has remotely disabled driver assistance features on a used Model S after it was sold to a customer, Jalopnik reports. The company now claims that the owner of the car, who purchased it from a third-party dealer — a dealer who bought it at an auction held by Tesla itself — “did not pay” for the features and therefore is not eligible to use them.
+<a href='https://www.theverge.com/2020/2/6/21127243/tesla-model-s-autopilot-disabled-remotely-used-car-update'> Source <a/>

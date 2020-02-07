@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/294I2yUj5xkpoiZV3AHh73uWcJA=/0x0:4500x2970/1200x800/filters:focal(1890x1125:2610x1845)/cdn.vox-cdn.com/uploads/chorus_image/image/66268659/1177532510.jpg.0.jpg' width='700px' /><br/>
+Amazon CEO Jeff Bezos is refusing to meet with White House adviser Peter Navarro and the trade czar is “fuming,” the Washington Post reported Wednesday. It's the latest feud in the never-ending saga of beef between Bezos and Donald Trump, who has leveled ongoing Twitter tirades against Amazon and the Bezos-owned Washington Post since 2016.
+<a href='https://www.theverge.com/2020/2/6/21127126/jeff-bezos-trump-peter-navarro-meeting-counterfeit-products-jay-carney'> Source <a/>

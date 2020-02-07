@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Wwm8GVwpM6lsEH1q4b4I2JvjCgY=/0x0:1920x1200/1200x800/filters:focal(807x447:1113x753)/cdn.vox-cdn.com/uploads/chorus_image/image/66266366/_assets_Uploads_MetroExodus_SUMMER_WallPaper_1920x1200.0.jpg' width='700px' /><br/>
+Metro Exodus will be available on Steam starting Saturday, February 15th, according to a tweet by the series' official Twitter account. The game launched as an Epic Games Store exclusive last year, also on February 15th.
+<a href='https://www.theverge.com/2020/2/6/21126665/metro-exodus-steam-february-15-epic-games-store-google-stadia'> Source <a/>
