@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t8qLL9QC_yFRGC84V_ijaOhNigI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66260685/acastro_170329_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook has “demanded” that Clearview AI stop using data scraped from its social networks for its controversial facial recognition database, CBSNews reports. “Scraping people's information violates our policies,” a spokesperson for the company said, “Which is why we've demanded that Clearview stop accessing or using information from Facebook or Instagram.”
-<a href='https://www.theverge.com/2020/2/6/21126063/facebook-clearview-ai-image-scraping-facial-recognition-database-terms-of-service-twitter-youtube'> Source <a/>

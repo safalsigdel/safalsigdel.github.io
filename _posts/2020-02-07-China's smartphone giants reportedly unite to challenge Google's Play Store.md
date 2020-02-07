@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iDWpjM8pDrP9YxVlGiOmRGap4yo=/0x0:2040x1147/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/66261321/DSCF7173.0.jpg' width='700px' /><br/>
-Huawei, Xiaomi, and BBK's Oppo and Vivo are working together on a platform that will allow developers outside of China to upload their apps to all of the respective app stores simultaneously, Reuters reports. The manufacturers have joined together under the Global Developer Service Alliance (GDSA) in what appears to be an attempt to challenge the international dominance of Google's Play Store.
-<a href='https://www.theverge.com/2020/2/6/21126118/huawei-xiaomi-vivo-oppo-app-store-platform-google-play-dominance-worldwide'> Source <a/>
