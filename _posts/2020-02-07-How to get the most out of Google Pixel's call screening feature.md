@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BltgpRj6nx5f3qVfMrV54NFCN_w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66261558/jbareham_171013_2050_0214.0.jpg' width='700px' /><br/>
+Getting spam calls is no fun. Screening those unwanted calls with Google's free “Screen Call” feature available for Pixel phones gives you a chance to protect your privacy.
+<a href='https://www.theverge.com/2020/2/6/21122390/google-assistant-screen-call-robocalls-spam-phone-pixel'> Source <a/>

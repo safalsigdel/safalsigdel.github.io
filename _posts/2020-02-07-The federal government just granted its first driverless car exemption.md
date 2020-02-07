@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/beJ0UsP-WXQN6pe5pKChO3Dv1tU=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66261945/nuro_r2_05_original.0.jpg' width='700px' /><br/>
+Nuro, the self-driving startup founded by two ex-Google engineers, has a new delivery robot. The R2 is the company's second-generation vehicle, and while it looks similar to the first-generation R1 — egg-shaped, no room for a human driver, objectively cute — there is one important difference: the R2 has been granted a special exemption from federal safety requirements.
+<a href='https://www.theverge.com/2020/2/6/21125358/nuro-self-driving-delivery-robot-r2-fmvss-exemption'> Source <a/>

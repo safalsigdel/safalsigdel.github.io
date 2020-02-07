@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Nblh-L4HbZHmEtGtXDsJiR52x6E=/0x106:1280x679/1200x800/filters:focal(547x316:751x520)/cdn.vox-cdn.com/uploads/chorus_image/image/66263868/s20.0.png' width='700px' /><br/>
+Samsung's next Unpacked event is scheduled for February 11th at 2PM ET / 11AM PT, and in typical Samsung fashion, we already have a pretty good idea of what it's preparing to announce. At the top of the billing is almost certainly its flagship Samsung Galaxy S20 series of smartphones, but there's also the foldable Galaxy Z Flip and a new pair of true wireless earbuds.
+<a href='https://www.theverge.com/2020/2/6/21126259/samsung-event-galaxy-s20-z-flip-unpacked-date-time-buds-plus'> Source <a/>
