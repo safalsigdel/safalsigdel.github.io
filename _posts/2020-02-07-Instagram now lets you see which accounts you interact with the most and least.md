@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tv0hMtvWq2O82bsum7BlRAyEiXU=/0x0:1280x895/1200x800/filters:focal(538x346:742x550)/cdn.vox-cdn.com/uploads/chorus_image/image/66266305/5QVtfYZg.0.png' width='700px' /><br/>
-Instagram has added a feature which lets you sort through the accounts that you're following by “Most shown in feed” and “Least interacted with.” From there, users can manage their follow status and notifications, or mute an account.
-<a href='https://www.theverge.com/2020/2/6/21126641/instagram-new-feature-following-accounts-most-shown-in-feed-least-interacted'> Source <a/>
