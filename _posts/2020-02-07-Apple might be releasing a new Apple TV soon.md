@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6sv2XGzqaJiSMZqkDY8mIZhJpgM=/0x0:2040x1360/1200x800/filters:focal(837x685:1163x1011)/cdn.vox-cdn.com/uploads/chorus_image/image/66263969/akrales_170919_1976_0018.0.jpg' width='700px' /><br/>
-Apple might be preparing to release a new Apple TV sometime soon, as the tvOS 13.4 beta released yesterday references an unreleased Apple TV model, as spotted by 9to5Mac.
-<a href='https://www.theverge.com/2020/2/6/21126414/apple-tv-new-tvos-13-4-beta-4k-rumor'> Source <a/>
