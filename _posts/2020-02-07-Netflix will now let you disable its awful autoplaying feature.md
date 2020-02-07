@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2AfIshplNBCWt8oJ5itAI8eIMzA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66267176/netflix-stock-1140.0.0.jpg' width='700px' /><br/>
-Netflix customers have complained for years about the frustrating and annoying autoplay preview feature that occurs on its homepage. Today, the company announced that subscribers can finally disable autoplay functionality.
-<a href='https://www.theverge.com/2020/2/6/21126867/netflix-autoplay-feature-disable-homepage-episodes-series'> Source <a/>
