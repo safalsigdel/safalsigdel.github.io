@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/neNbh8C4rl4GdkNDICNyL9M-Vj4=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/66273903/1198674227.jpg.0.jpg' width='700px' /><br/>
+A new video promoted by President Trump is testing the altered media limits put in place at Facebook, Twitter, and YouTube, offering a provocatively edited version of an incident at the end of the recent State of the Union.
+<a href='https://www.theverge.com/2020/2/7/21128317/nancy-pelosi-donald-trump-disinformation-policy-video-state-of-the-untion'> Source <a/>

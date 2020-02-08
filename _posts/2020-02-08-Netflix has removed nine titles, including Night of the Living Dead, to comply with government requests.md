@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/ZwhdGmFLV8ynvMRl9QVkNs4RuCE=/0x0:5760x3840/1200x800/filters:focal(2890x745:3810x1665)/cdn.vox-cdn.com/uploads/chorus_image/image/66272949/1179797608.jpg.0.jpg' width='700px' /><br/>
-Since Netflix was founded almost 25 years ago, the company has removed nine titles from its service around the world in compliance with government requests, including Night of the Living Dead in Germany and Full Metal Jacket in Vietnam.
+Since Netflix was founded almost 25 years ago, the company has removed nine titles from its service around the world in compliance with government demands, including Night of the Living Dead in Germany and Full Metal Jacket in Vietnam.
 <a href='https://www.theverge.com/2020/2/7/21127965/netflix-remove-movies-tv-shows-patriot-act-full-metal-jacket-report'> Source <a/>

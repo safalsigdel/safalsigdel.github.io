@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5IPQF77Y4Ega1M70kT-8HJFxnJk=/0x0:2040x1362/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/66272033/DSC_4918.0.jpg' width='700px' /><br/>
-Ericsson, a Swedish telecom company, announced today that it will no longer attend Mobile World Congress, a major mobile electronics conference, over coronavirus concerns. This makes the company the third exhibitor to drop out of the show, following LG and ZTE. The company says it'll instead focus its efforts on local demos of new technology because it doesn't want to put its employees in danger of catching the virus.
-<a href='https://www.theverge.com/2020/2/7/21127891/ericsson-mobile-world-congress-coronavirus-mwc-conference'> Source <a/>

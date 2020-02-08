@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rff4rWRdqsDIKWUXOAX0Q4Im84c=/0x0:4256x2832/1200x800/filters:focal(1788x1076:2468x1756)/cdn.vox-cdn.com/uploads/chorus_image/image/66275129/471219894.jpg.0.jpg' width='700px' /><br/>
+Royal Caribbean and Norwegian Cruise Lines are banning passengers from their cruise ships who hold passports from China, Hong Kong, or Macao “until further notice” because of the coronavirus outbreak, the companies announced Friday. Norwegian tells The Verge it is also banning crew members who hold any of those passports.
+<a href='https://www.theverge.com/2020/2/7/21128468/ships-coronavirus-ban-royal-caribbean-norwegian-cruise-outbreak-passports'> Source <a/>

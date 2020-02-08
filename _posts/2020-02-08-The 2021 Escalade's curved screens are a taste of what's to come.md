@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SWJqegJh_u9GkkclA9Y3_3wwhqQ=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66273624/cadillac_2021_escalade_0422.0.jpg' width='700px' /><br/>
+Ever since Tesla helped popularize the idea of putting giant touchscreens in the dashboards of cars, digital displays have taken up increased amounts of real estate in modern vehicles. These screens have mutated in size, shape, and location as automakers tried to differentiate their offerings. Perhaps the weirdest result yet is what you'll find on the newly revamped 2021 Cadillac Escalade.
+<a href='https://www.theverge.com/2020/2/7/21126299/escalade-2021-oled-display-touchscreen-curved-glass'> Source <a/>
