@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TsIMiadhcXc9LfjqnvNZV1r0hCY=/0x0:2040x1360/1200x800/filters:focal(585x404:911x730)/cdn.vox-cdn.com/uploads/chorus_image/image/66276022/setienne_180914_2954_0037.0.jpg' width='700px' /><br/>
+The world's biggest mobile trade show just took another blow — graphics giant Nvidia, one of the conference's sponsors, just announced it's not sending employees to Mobile World Congress 2020 in Barcelona due to the “public health risks around the coronavirus” that have been putting off some other exhibitors and attendees too.
+<a href='https://www.theverge.com/2020/2/7/21128857/coronavirus-nvidia-cancel-mobile-world-congress-mwc-2020'> Source <a/>
