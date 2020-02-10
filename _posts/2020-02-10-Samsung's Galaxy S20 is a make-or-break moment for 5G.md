@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JtC0LHMM6SP7t7M0EgJA3qpjTt0=/0x0:2040x1360/1200x800/filters:focal(901x755:1227x1081)/cdn.vox-cdn.com/uploads/chorus_image/image/66283241/jbareham_190213_3183_0137.0.jpg' width='700px' /><br/>
+Samsung is about to launch the Galaxy S20, its newest flagship phone and — if history is anything to go by — what will largely be the standard that the rest of 2020's top phones is measured up against. Millions of people will buy the S20, which will almost certainly be one of the most popular phones sold in the United States this year.
+<a href='https://www.theverge.com/2020/2/10/21128425/samsung-galaxy-s20-snapdragon-865-5g-tmobile-att-verizon-sprint-network'> Source <a/>

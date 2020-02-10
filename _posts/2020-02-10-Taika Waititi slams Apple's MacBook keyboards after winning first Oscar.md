@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nf7OGdpx2BnEf-F5tcQnNFn3UZ8=/0x0:4524x3112/1200x800/filters:focal(2011x768:2733x1490)/cdn.vox-cdn.com/uploads/chorus_image/image/66282188/1205156185.jpg.0.jpg' width='700px' /><br/>
+Speaking with journalists after winning his first Oscar for Best Adapted Screenplay, Jojo Rabbit and Thor: Ragnarok director Taika Waititi had other things on his mind. When asked what he thought writers should be demanding in the next round of discussions with producers, Waititi put Apple's controversial laptop keyboards on blast.
+<a href='https://www.theverge.com/2020/2/9/21130967/oscars-taika-waititi-apple-butterfly-keyboards-jojo-rabbit-academy-award-press-room'> Source <a/>

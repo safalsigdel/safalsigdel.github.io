@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/86J4ytFnhMCaWKyV9n9AmX4zLec=/0x0:1134x756/1200x800/filters:focal(477x288:657x468)/cdn.vox-cdn.com/uploads/chorus_image/image/66271859/axon.0.jpg' width='700px' /><br/>
-Just days before Samsung is set to announce the Galaxy S20 series of phones, ZTE has jumped out ahead of the company and formally unveiled the Axon 10S Pro. Like Samsung's upcoming devices, ZTE's latest includes Qualcomm's Snapdragon 865 chipset. But there's no indication that ZTE will actually ship the Axon 10S Pro before the S20 lineup hits shelves, so which company really deserves the useless designation of “first” is really up to you.
-<a href='https://www.theverge.com/2020/2/7/21127872/zte-axon-10s-pro-first-snapdragon-865-phone-announcement'> Source <a/>
