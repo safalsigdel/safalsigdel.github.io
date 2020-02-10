@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XBeahqWdNM9pLIWaelZ0fU9a3GE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66284265/acastro_170621_1777_0006_v4.0.jpg' width='700px' /><br/>
+On Monday morning, the Department of Justice announced the indictment of four members of China's military in connection with the 2017 hack of credit reporting agency Equifax, which exposed sensitive information for some 150 million Americans in 2017.
+<a href='https://www.theverge.com/2020/2/10/21131362/doj-justice-barr-china-equifax-breach'> Source <a/>
