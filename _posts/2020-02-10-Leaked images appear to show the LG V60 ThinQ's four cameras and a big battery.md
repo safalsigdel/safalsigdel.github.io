@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4MV9GQYmnW151lhk4BP7SbPAZRU=/0x0:2040x1360/1200x800/filters:focal(895x585:1221x911)/cdn.vox-cdn.com/uploads/chorus_image/image/66284002/akrales_191028_3761_0012.0.jpg' width='700px' /><br/>
+Just a few weeks ahead of Mobile World Congress 2020, two marketing images of the LG V60 ThinQ have leaked. Each one appears to show off a prominent hardware feature, and it's good news all around if you like phones with big batteries, lots of cameras, and a headphone jack. Both images come from Evan Blass on Twitter (via GSMArena) who is a leaker with a reliable track record.
+<a href='https://www.theverge.com/2020/2/10/21131247/lg-v60-thinq-leaked-photos-4-cameras-5000mah-battery'> Source <a/>

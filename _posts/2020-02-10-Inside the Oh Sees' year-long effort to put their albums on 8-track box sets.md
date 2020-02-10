@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AvVWEACb54FV8BNdLLGYUFILSKA=/0x0:1000x622/1200x800/filters:focal(459x146:619x306)/cdn.vox-cdn.com/uploads/chorus_image/image/66273636/inside.0.jpeg' width='700px' /><br/>
-The Oh Sees' latest release is a 12-album box set in an unexpected format: 8-track tapes. It's the culmination of a year-long effort by Seattle-based DIY label 5Seven Records, which restored vintage 8-track tapes and transformed them into albums from musician John Dwyer's bands, variously known as Oh Sees, Thee Oh Sees, and OCS.
-<a href='https://www.theverge.com/2020/2/7/21110785/5seven-8-track-tapes-thee-oh-sees-music'> Source <a/>
