@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YvjiUSgBCZPjDicwtunT7Aty5VY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66273746/acastro_200207_3900_firefox_0001.0.5.jpg' width='700px' /><br/>
-Like many of today's browsers, Firefox has been making changes to try to answer its users' call for more online privacy. This includes blocking third-party trackers by default as well as a VPN it calls the Firefox Private Network.
-<a href='https://www.theverge.com/2020/2/7/21121202/firefox-privacy-tools-private-network-browser-settings'> Source <a/>
