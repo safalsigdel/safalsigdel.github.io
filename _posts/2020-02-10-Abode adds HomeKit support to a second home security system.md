@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BYU_SHjx3ewbmc_GU7W_vKhPzbY=/0x0:1500x888/1200x800/filters:focal(630x324:870x564)/cdn.vox-cdn.com/uploads/chorus_image/image/66284066/abode_Smart_Security_Kit___Web_App.0.jpg' width='700px' /><br/>
+Smart home security company Abode has added HomeKit compatibility to its Smart Security kit, the company announced today. This is the second system in the Abode portfolio to receive HomeKit support, integrating its sensors with Apple's smart home system. Its Iota system was the first self-installed home security system to be added to HomeKit back in November.
+<a href='https://www.theverge.com/2020/2/10/21128714/abode-homekit-apple-home-security'> Source <a/>
