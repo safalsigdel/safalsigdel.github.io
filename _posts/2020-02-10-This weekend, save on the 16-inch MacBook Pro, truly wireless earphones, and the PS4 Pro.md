@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/COkPmysJeK-r2r0PVPJPvtZKks0=/0x0:2040x1360/1200x800/filters:focal(825x690:1151x1016)/cdn.vox-cdn.com/uploads/chorus_image/image/66277300/vpavic_191118_3800_0097.0.jpg' width='700px' /><br/>
+Most of the deals that we publish at The Verge come and go before the weekend arrives. That's just the way it works sometimes. However, some deals are still happening and they're just as good as they were earlier this week.
+<a href='https://www.theverge.com/good-deals/2020/2/8/21128650/16-inch-macbook-pro-apple-amazon-anker-truly-wireless-earphones-ps4-pro-deal-sale'> Source <a/>

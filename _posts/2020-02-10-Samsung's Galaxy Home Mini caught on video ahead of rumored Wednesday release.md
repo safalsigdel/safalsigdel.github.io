@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4a2Ni-K11Ow9dEzSf_bci_4e5QQ=/0x0:1920x960/1200x800/filters:focal(1036x362:1342x668)/cdn.vox-cdn.com/uploads/chorus_image/image/66282847/sec_html_feature_beta_kv_pc.0.jpg' width='700px' /><br/>
+A whole host of images, videos, and screenshots of Samsung's Galaxy Home Mini have been posted online by XDA-Developers' Max Weinbach, giving us our most detailed look yet at Samsung's unreleased smart speaker. In a page that was subsequently taken down, Samsung previously said the device will be released on February 12th, one day after its Galaxy S20 launch event.
+<a href='https://www.theverge.com/2020/2/10/21131144/samsung-galaxy-home-mini-leaked-video-screenshots-ir-blaster-functionality'> Source <a/>

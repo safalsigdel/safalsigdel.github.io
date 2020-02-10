@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gY-retvwAayCIFC79GwWlFFCwtQ=/0x0:2040x1360/1200x800/filters:focal(1004x1025:1330x1351)/cdn.vox-cdn.com/uploads/chorus_image/image/66282673/vpavic_190701_3521_0079.0.jpg' width='700px' /><br/>
+Sony and Amazon are the latest companies to cancel their presence at Mobile World Congress 2020 due to the new coronavirus outbreak. LG, ZTE, Nvidia, and Ericsson have already cancelled various events that were set to take place at MWC in Barcelona, which is the biggest mobile technology trade show on the annual calendar.
+<a href='https://www.theverge.com/2020/2/10/21131118/mwc-2020-coronavirus-sony-amazon-cancel'> Source <a/>
