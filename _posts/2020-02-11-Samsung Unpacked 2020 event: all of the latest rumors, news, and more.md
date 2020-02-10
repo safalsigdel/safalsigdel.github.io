@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KK5s35cg0jEkTkB1cILe_SQXw5o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66286967/acastro_190503_1777_samsung_0004.0.0.jpg' width='700px' /><br/>
+It's February, and in the tech world that has come to mean that all eyes are on Samsung. The company will take the stage at its Unpacked 2020 event on Tuesday, February 11th at 2PM ET / 11AM PT to show off the Samsung Galaxy S20, S20 Plus, and S20 Ultra.
+<a href='https://www.theverge.com/2020/2/10/21128268/samsung-galaxy-s20-event-2020-news-announcements-rumors-unpacked'> Source <a/>

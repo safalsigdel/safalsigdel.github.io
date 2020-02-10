@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3d0Vo6_iPRIWY9VBcwBXv3sjH_0=/0x0:5358x3462/1200x800/filters:focal(2251x1303:3107x2159)/cdn.vox-cdn.com/uploads/chorus_image/image/66275570/1164210491.jpg.0.jpg' width='700px' /><br/>
-The Department of Justice has closed an antitrust investigation into Ford, Volkswagen, Honda, and BMW over a vehicle emissions deal with California that reportedly “enraged” President Trump, The New York Times reports. The DOJ ultimately came to the conclusion that no laws were violated, the report states.
-<a href='https://www.theverge.com/2020/2/7/21128684/doj-antitrust-investigation-closed-trump-ford-vw'> Source <a/>
