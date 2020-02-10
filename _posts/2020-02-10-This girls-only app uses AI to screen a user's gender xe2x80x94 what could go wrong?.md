@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/htSTKxiqjnijao6pxCn3dCZg72Q=/0x0:904x683/1200x800/filters:focal(380x270:524x414)/cdn.vox-cdn.com/uploads/chorus_image/image/66274336/giggle_girl_banner_1.0.png' width='700px' /><br/>
-A new social app called Giggle is pitching itself as a girls-only networking platform. To sign up, users have to take a selfie. And while that might not sound too invasive, the app then uses “bio-metric gender verification software” to determine whether that person is a woman. If that wasn't already bad enough, the technology doesn't work if you're trans.
-<a href='https://www.theverge.com/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social'> Source <a/>
