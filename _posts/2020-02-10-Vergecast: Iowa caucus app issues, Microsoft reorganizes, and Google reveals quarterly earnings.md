@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5YOFx4NjSHp99vNTJWX5IH8IUMA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66272302/akrales_191024_3748_0006.0.jpg' width='700px' /><br/>
-This week on The Verge, we saw tech troubles with the Iowa caucuses, the US attorney general said the US should own a controlling stake in Nokia, Microsoft's Surface chief took over both Windows and hardware, and Google revealed its quarterly earnings.
-<a href='https://www.theverge.com/2020/2/7/21127915/iowa-caucus-app-issues-google-earnings-microsoft-reorg-vergecast-podcast'> Source <a/>
