@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Bx9TSRh-MUb0hQvlYWLiMxXmAxA=/0x0:2304x1536/1200x800/filters:focal(968x584:1336x952)/cdn.vox-cdn.com/uploads/chorus_image/image/66291256/lightroom.0.jpg' width='700px' /><br/>
+Adobe has announced a few new updates for Lightroom across every platform it runs on. One of the biggest additions is Split View support for full-on side-by-side multitasking in iPadOS, which is a natural next step now that Lightroom lets you import files directly. That process should also be “smoother” in this latest release, according to Adobe.
+<a href='https://www.theverge.com/2020/2/11/21132637/lightroom-split-view-multitasking-ipad-update-ipados'> Source <a/>
