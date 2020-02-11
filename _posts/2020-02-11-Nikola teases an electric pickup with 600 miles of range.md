@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cAAx7_D3mVr55hzW4eWVk5dzj8Q=/0x0:5000x3000/1200x800/filters:focal(1024x1465:1824x2265)/cdn.vox-cdn.com/uploads/chorus_image/image/66286454/Badger_01.0.jpg' width='700px' /><br/>
-Nikola Corporation, an Arizona-based startup that's working on zero-emission big rigs, just announced that it's following Tesla, Rivian, Ford, and General Motors into the electric pickup market with a truck called the Badger.
-<a href='https://www.theverge.com/2020/2/10/21131754/nikola-badger-hydrogen-electric-pickup-truck-specs-photos-battery-range'> Source <a/>
