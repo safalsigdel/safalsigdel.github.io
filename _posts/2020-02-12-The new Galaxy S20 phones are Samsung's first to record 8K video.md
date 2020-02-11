@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2cgw5TEvfDL2g-A1ZBiPrJZijSw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66294512/vpavic_200206_3899_0127.0.jpg' width='700px' /><br/>
+Samsung's phones are well-known for their outstanding cameras. So when word went around that the Qualcomm Snapdragon 865 processor would be the chip that would power the new Galaxy S20 line, many suspected that one of the new features of the phone would be the ability to record 8K video.
+<a href='https://www.theverge.com/2020/2/11/21122379/samsungs-galaxy-s20-plus-ultra-8k-video-recording-quality-unpacked-2020'> Source <a/>

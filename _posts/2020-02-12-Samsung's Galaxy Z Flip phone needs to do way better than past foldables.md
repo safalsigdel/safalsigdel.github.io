@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F_WrQtooVJjUQxiGo404aZ_iWrI=/215x74:1061x624/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/66290733/galaxy_z_flip.0.png' width='700px' /><br/>
-Later today, Samsung will officially announce a new folding phone, the Galaxy Z Flip. We know this because many, many details have leaked about it. Also because Samsung itself decided to just show off the whole damn phone and several details about its workings during the Academy Awards. It just up and aired a Galaxy Z Flip commercial before it even announced the phone
-<a href='https://www.theverge.com/2020/2/11/21128117/samsung-z-flip-phone-galaxy-fold-foldable-unpacked-event-2020'> Source <a/>
