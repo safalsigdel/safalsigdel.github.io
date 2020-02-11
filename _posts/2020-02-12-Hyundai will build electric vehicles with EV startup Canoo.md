@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zdaUcVPBtUYaeLBNqwweV5xx_qQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66295333/canoo_Design_Exterior_02.0.jpg' width='700px' /><br/>
+Hyundai and Kia will build new electric vehicles based on the technological platform developed by California EV startup Canoo, the companies announced Tuesday. Terms of the deal were not disclosed.
+<a href='https://www.theverge.com/2020/2/11/21133461/hyundai-canoo-electric-cars-partership-kia'> Source <a/>
