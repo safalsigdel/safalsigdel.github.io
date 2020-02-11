@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ka4nxbfvTqIwgjCrtrvCHKJY6Jg=/0x0:1600x800/1200x800/filters:focal(672x272:928x528)/cdn.vox-cdn.com/uploads/chorus_image/image/66292609/International_Patreon_send.0.jpg' width='700px' /><br/>
+Funding platform Patreon is expanding its operations outside of the United States, opening a new office in Berlin and adding payment options for euros and British pounds. The move is designed to support current Patreon creators and patrons in Europe as well as attract new international users.
+<a href='https://www.theverge.com/2020/2/11/21131297/patreon-international-expansion-berlin-office-currencies-pound-euro'> Source <a/>
