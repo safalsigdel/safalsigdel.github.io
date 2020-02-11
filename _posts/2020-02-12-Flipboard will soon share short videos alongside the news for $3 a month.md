@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wyDLOMDWByZbGX_7RTAwvfRVOYc=/0x0:2680x1800/1200x800/filters:focal(1122x677:1550x1105)/cdn.vox-cdn.com/uploads/chorus_image/image/66297450/Flipboard_TV_Premieres_on_Samsung_Galaxy_S20.0.jpg' width='700px' /><br/>
+News aggregator app Flipboard is launching a new ad-free curated video service called Flipboard TV that will come preinstalled on Samsung's new Galaxy S20 phones and cost $3 a month. The service will be exclusive to the S20 for three months, and then roll out to all the other places Flipboard is available.
+<a href='https://www.theverge.com/2020/2/11/21133774/flipboard-tv-subscription-service-short-form-video-samsung-galaxy-s20'> Source <a/>
