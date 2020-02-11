@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/rPXWMMyfOAWSeadU16wxdVsi4GU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66291085/acasatro_180430_1777_sprint_Tmobile_0002.0.jpg' width='700px' /><br/>
-On Tuesday, a federal judge allow the $26 billion merger between T-Mobile and Sprint to proceed, dismissing a challenge brought by a group of state attorneys general.
+On Tuesday, a federal judge allowed the $26 billion merger between T-Mobile and Sprint to proceed, dismissing a challenge brought by a group of state attorneys general.
 <a href='https://www.theverge.com/2020/2/11/21132924/tmobile-sprint-merger-approved-federal-court-antitrust-lawsuit'> Source <a/>
