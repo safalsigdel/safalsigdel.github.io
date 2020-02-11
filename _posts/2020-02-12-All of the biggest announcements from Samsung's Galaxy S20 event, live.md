@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R4o27_NaKe9Y8CM5V0LgN_yNR5w=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19710517/vpavic_200206_3899_0166.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/xBpYAsciHk4gKXu1yf3_T53ahXE=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19710468/nstatt_170101_3899_0273.jpg' width='700px' /><br/>
 Samsung's Unpacked 2020 event is happening now. The company jumped right in with the announcements by unveiling the Galaxy Z Flip foldable phone, and introduced the Samsung Galaxy S20, S20 Plus, and S20 Ultra. That's already plenty of announcements, and there will probably be a few more.
 <a href='https://www.theverge.com/2020/2/11/21125212/samsung-galaxy-s20-event-news-announcements-top-biggest-products-unpacked'> Source <a/>
