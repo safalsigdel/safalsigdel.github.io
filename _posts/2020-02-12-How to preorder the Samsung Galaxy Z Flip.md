@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DCArz7yeYOYSqu62hSsCOg-B7J4=/0x0:800x458/1200x800/filters:focal(336x165:464x293)/cdn.vox-cdn.com/uploads/chorus_image/image/66295251/flip.0.png' width='700px' /><br/>
-Samsung announced the new foldable Galaxy Z Flip during the company's Unpacked 2020 event, and you won't have to wait very long to get your chance at buying one. It will be available for purchase starting this Friday, February 14th — a week before preorders for the Galaxy S20 phones even start. In case you were really striking out on Valentine's Day gift ideas, here's one on the house.
-<a href='https://www.theverge.com/2020/2/11/21124098/samsung-galaxy-z-flip-buy-pre-order-foldable-phone-price-date'> Source <a/>
