@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q7S5i5uMALsAgAtxswSHXuurcUQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66288687/acastro_190412_1777_slack_0002.0.jpg' width='700px' /><br/>
-IBM has picked Slack to power its chat communications companywide for its more than 350,000 employees, according to Business Insider. In what can only be seen as a big win for Slack over rival Microsoft Teams, the report reveals that IBM has been experimenting with Slack and is now rolling it out to all employees.
-<a href='https://www.theverge.com/2020/2/10/21132060/ibm-slack-chat-employee-rollout-microsoft-teams-competition'> Source <a/>
