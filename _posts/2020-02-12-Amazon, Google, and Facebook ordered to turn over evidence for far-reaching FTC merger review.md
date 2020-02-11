@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RpLWA8hKCf6DCahY301Zc6WC1HU=/0x0:4500x3004/1200x800/filters:focal(1890x1142:2610x1862)/cdn.vox-cdn.com/uploads/chorus_image/image/66293925/1165948185.jpg.0.jpg' width='700px' /><br/>
-The Federal Trade Commission announced on Tuesday that it will begin reviewing past acquisitions made by big tech companies, including Alphabet, Amazon, Apple, Facebook, and Microsoft.
-<a href='https://www.theverge.com/policy/2020/2/11/21133268/facebook-microsoft-apple-amazon-google-antitrust-review-joe-simons'> Source <a/>
