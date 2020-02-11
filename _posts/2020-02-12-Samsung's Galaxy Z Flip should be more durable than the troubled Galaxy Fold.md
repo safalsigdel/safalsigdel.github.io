@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3lzL5Cuye55JaJ-lUn_s8F56Fzc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66294732/02_galaxyzflip_design_lifestyle_image.0.jpg' width='700px' /><br/>
+Samsung announced its newest folding phone, the Z Flip, at its annual Galaxy event today, but the company promises it won't be plagued with the same problems as its other folding phone, the Galaxy Fold.
+<a href='https://www.theverge.com/2020/2/11/21131622/samsung-galaxy-z-flip-foldable-phone-break-screen-unpacked-event-2020'> Source <a/>
