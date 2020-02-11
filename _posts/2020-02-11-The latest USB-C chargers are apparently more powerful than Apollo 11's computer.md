@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Over the past decade, it's become commonplace to try to put the progress of technology into perspective by pointing out that most people's smartphones are more powerful than the guidance computer that took Apollo 11 to the Moon in 1969. Now, however, we might have a new milestone to measure ourselves against after Apple developer Forrest Heller has convincingly argued that even a modern USB-C charger has more processing power than the spacecraft's guidance computer.
+<a href='https://www.theverge.com/tldr/2020/2/11/21133119/usb-c-anker-charger-apollo-11-moon-landing-guidance-computer-more-powerful'> Source <a/>
