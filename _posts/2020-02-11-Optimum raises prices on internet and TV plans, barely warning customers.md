@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uoTHHCB9SR73F2hDznkIYruwNOo=/0x0:1218x813/1200x800/filters:focal(512x310:706x504)/cdn.vox-cdn.com/uploads/chorus_image/image/66293849/optimum.0.jpg' width='700px' /><br/>
+Optimum hiked the prices of its internet and TV plans this month, and many customers have been finding out thanks to the arrival of surprisingly high bills.
+<a href='https://www.theverge.com/2020/2/11/21131538/optimum-tv-internet-price-hikes-altice-warning-bill'> Source <a/>
