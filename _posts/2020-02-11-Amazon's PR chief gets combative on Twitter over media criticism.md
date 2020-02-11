@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ofztEtuc4-sC3ce9AeLBH1bis5E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66289930/acastro_181114_1777_amazon_hq2_0007.0.jpg' width='700px' /><br/>
+Amazon PR chief Jay Carney spent his Monday evening engaging in series of escalating and increasingly combative arguments with members of the news media on Twitter. It marks a rare case of one of the e-commerce giant's more notable representatives taking a less measured approach to public relations. As of this article's publication, Carney's tweets are still live.
+<a href='https://www.theverge.com/2020/2/10/21132573/amazon-pr-chief-jay-carney-bernie-sanders-minimum-wage-media-criticism-twitter'> Source <a/>
