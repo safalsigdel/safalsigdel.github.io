@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-rHcgL9-kGTogYtG8OjyA__ifdQ=/0x0:4032x3024/1200x675/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/66295165/Image_from_iOS__5_.0.jpg' width='700px' /><br/>
+Samsung just unveiled the Galaxy Z Flip, its second folding phone. This phone's big improvement over foldables to date is the use of a glass screen, and it definitely feels a whole lot nicer. It feels like glass, and it can't be easily marked up by a fingernail like the plastic screens used to date.
+<a href='https://www.theverge.com/2020/2/11/21132345/samsung-galaxy-z-flip-foldable-phone-photos-videos-specs-price-hands-on'> Source <a/>
