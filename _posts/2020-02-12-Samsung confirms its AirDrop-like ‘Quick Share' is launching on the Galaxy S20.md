@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O9qnDKMQAnEojANOB7CEc6-XhjI=/0x0:1440x810/1200x800/filters:focal(605x290:835x520)/cdn.vox-cdn.com/uploads/chorus_image/image/66297044/QuickShare.0.jpg' width='700px' /><br/>
+AirDrop has long been a handy convenience that comes with using Apple gadgets, but Samsung has finally come up with its own version. And it's debuting on the Galaxy S20, S20 Plus, and S20 Ultra. It's called Quick Share, and Samsung says it lets you “share everything with your friends instantly.” Quick Share is detailed toward the bottom of this page that's about the S20's camera.
+<a href='https://www.theverge.com/2020/2/11/21133825/samsung-galaxy-s20-quick-share-airdrop-easy-sharing-feature'> Source <a/>
