@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S8azyTfTRmuuudSBgaP_Zsk7FMo=/0x0:2040x1360/1200x800/filters:focal(872x550:1198x876)/cdn.vox-cdn.com/uploads/chorus_image/image/66295024/dbohn_200206_3899_0038.0.jpg' width='700px' /><br/>
+Samsung has just announced the Samsung Galaxy S20 lineup, and they look to be good upgrades over last year's Galaxy S10. This year, there are three new models: the Galaxy S20, the bigger Galaxy S20 Plus, and the spec-stuffed Galaxy S20 Ultra.
+<a href='https://www.theverge.com/2020/2/11/21129013/samsung-galaxy-s20-iphone-11-comparison-specs-features-price'> Source <a/>
