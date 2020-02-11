@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dB5azrkJWyE1cPQbkx5C_HM9pHg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66288631/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
+In a letter sent Friday, US senators called on Amazon CEO Jeff Bezos to reform its safety practices and improve its treatment of workers, according to a letter first published by Reveal writer Will Evans and signed by Bernie Sanders, Kamala Harris, Elizabeth Warren, and Cory Booker, among others.
+<a href='https://www.theverge.com/2020/2/10/21132020/us-senators-amazon-jeff-bezos-dismal-safety-reform-records-warren-sanders-harris'> Source <a/>

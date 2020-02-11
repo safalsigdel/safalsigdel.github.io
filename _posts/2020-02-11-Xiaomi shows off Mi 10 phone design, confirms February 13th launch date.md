@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_enbBwVxs8JMpL8UZ1wn5imYgeo=/0x0:450x600/1200x800/filters:focal(188x258:260x330)/cdn.vox-cdn.com/uploads/chorus_image/image/66286088/gsmarena_001.0.jpg' width='700px' /><br/>
-Xiaomi has announced that it will launch its new Mi 10 smartphones on February 13th in China with a global launch to follow on February 23rd, the day before Mobile World Congress kicks off in Barcelona, Spain (via Android Authority).
-<a href='https://www.theverge.com/2020/2/10/21131641/xiaomi-mi-10-design-launch-date-mobile-world-congress'> Source <a/>

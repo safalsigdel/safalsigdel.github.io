@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4jcQKtCrzZhlNAPxpjkY4bBEZ48=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66275732/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Several of Facebook's Twitter and Instagram accounts were hijacked this evening, and the group taking credit is the same one that said it hacked NFL and ESPN social media accounts last week. The hijacked accounts had returned to normal in less than 30 minutes.
-<a href='https://www.theverge.com/2020/2/7/21128779/facebook-twitter-messenger-account-ourmine-hacked-nfl'> Source <a/>

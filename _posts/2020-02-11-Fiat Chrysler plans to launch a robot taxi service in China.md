@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SdE1rTBJwvRv1geiIgCYP3dkVh4=/0x0:4000x2668/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/66285357/1_yYJ2p05XfKnGKMAFeE_37Q.0.jpeg' width='700px' /><br/>
-Fiat Chrysler Automobiles, one of Detroit's “Big Three” automakers, is collaborating with Chinese startup AutoX to deploy robot taxis in China later this year, the companies announced. It's the latest move by FCA to cast a wide net for autonomous vehicle suppliers as it seeks to catch up to its crosstown rivals.
-<a href='https://www.theverge.com/2020/2/10/21131588/fiat-chrysler-autox-self-driving-taxi-china'> Source <a/>

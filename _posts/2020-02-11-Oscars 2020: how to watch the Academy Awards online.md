@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kZz6iV_BAlBO1eacZz6cS_GJKVg=/0x0:2732x1821/1200x800/filters:focal(948x557:1384x993)/cdn.vox-cdn.com/uploads/chorus_image/image/66280402/parasite_Ki_jung_Kim_So_dam_Park_and_Ki_woo_Park_Woo_sik_Choi_in_Parasite_rgb.0.jpg' width='700px' /><br/>
-The 92nd Academy Awards (also known as the Oscars) will broadcast tonight, February 9th. It's a celebration of the industry and a showdown between the year's biggest movies, filmmakers, and all of the people who make them special, including actors, screenwriters, and more.
-<a href='https://www.theverge.com/2020/2/9/21123015/oscars-2020-live-stream-watch-how-to-online-academy-awards-start-time'> Source <a/>

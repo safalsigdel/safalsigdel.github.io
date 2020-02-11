@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xArFztqsCONwBqNEKWSxXk1ZEL0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66290964/jbareham_170417_1617_0001.0.jpg' width='700px' /><br/>
+In this week's Vergecast, former New Jersey Attorney General Anne Milgram stopped by the studio to talk with Verge editor-in-chief Nilay Patel and me, senior reporter Colin Lecher.
+<a href='https://www.theverge.com/2020/2/11/21120372/anne-milgram-ring-cameras-facial-recognition-policing-vergecast-podcast'> Source <a/>

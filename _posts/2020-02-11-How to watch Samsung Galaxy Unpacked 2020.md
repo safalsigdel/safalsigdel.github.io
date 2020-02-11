@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bR8uy87fj7FmiwJ2zJhgjpNOsLU=/0x0:951x634/1200x800/filters:focal(400x241:552x393)/cdn.vox-cdn.com/uploads/chorus_image/image/66290937/Samsung_Galaxy_XCover_Pro_1578439224_0_10.0.jpg' width='700px' /><br/>
+Samsung's big Unpacked event, where the company is introducing its latest (and, it hopes, greatest) products, is today, February 11th. If you're a Samsung fan or you're just interested in the latest tech devices, it should be interesting to watch.
+<a href='https://www.theverge.com/2020/2/11/21121001/samsung-galaxy-s20-event-watch-live-stream-z-flip-unpacked-2020'> Source <a/>

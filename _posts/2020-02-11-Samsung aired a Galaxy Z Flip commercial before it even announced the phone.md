@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-mbrj1rRej2MJjjRx9ORMMW6FVo=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/66281797/galaxy_z_flip.0.png' width='700px' /><br/>
-It's not just leaks that let us know what big tech companies plan to announce at their keynotes, increasingly it's the companies themselves. Since this year's Academy Awards fall ahead of Samsung's February 11th Unpacked keynote, the company decided to go for a huge tease of the Galaxy Z Flip — it basically showed off the whole phone.
-<a href='https://www.theverge.com/2020/2/9/21130777/samsung-oscars-galaxy-z-flip-ad-commercial-tease-2020'> Source <a/>

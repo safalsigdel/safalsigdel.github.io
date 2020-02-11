@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QDh0whDzDxfKry0c0wuUpUTn97s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66291715/acastro_200207_3900_chrome_0001.0.0.jpg' width='700px' /><br/>
+Google's Chrome is, by most measures, the most popular browser in use. That being said, it also has a perception problem as far as security is concerned, causing privacy-concerned users to shake the Chrome habit. If you don't have any intention of moving away from Chrome anytime soon, here are some tips to help you maximize your privacy.
+<a href='https://www.theverge.com/2020/2/11/21126427/google-chrome-privacy-tools-private-network-browser-settings'> Source <a/>
