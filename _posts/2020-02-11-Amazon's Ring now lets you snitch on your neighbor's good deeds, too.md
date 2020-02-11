@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qq9XEG7Ng3SLxhHiFxD0mM_L3fs=/140x0:2040x1315/1200x800/filters:focal(968x523:1294x849)/cdn.vox-cdn.com/uploads/chorus_image/image/66290934/dseifert170808_1901_0001.0.jpg' width='700px' /><br/>
+Amazon's Ring is adding a way for users of its Neighbors app to share good things happening in the neighborhood, instead of just bad things. And if you'd rather only see those good things in your feed, you can do that too.
+<a href='https://www.theverge.com/2020/2/11/21128727/amazon-ring-neighbors-app-neighborly-moments'> Source <a/>
