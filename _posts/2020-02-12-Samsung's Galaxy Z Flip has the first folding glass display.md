@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vOh_SnH_bc00gAShGNMGgZ3WK78=/0x0:800x458/1200x800/filters:focal(336x165:464x293)/cdn.vox-cdn.com/uploads/chorus_image/image/66294571/flip.0.png' width='700px' /><br/>
+Samsung's Galaxy Z Flip has something that's been on no other foldable phone to date: a folding glass screen. So far, every foldable phone and tablet has relied on plastic to cover up the display. It feels worse, dents easily, and likely contributed to their delicate builds. Glass was always hoped to be the future, whenever manufacturers could figure out how to make it.
+<a href='https://www.theverge.com/2020/2/11/21128085/samsung-galaxy-z-flip-folding-glass-display-foldable-phone-unpacked-event'> Source <a/>

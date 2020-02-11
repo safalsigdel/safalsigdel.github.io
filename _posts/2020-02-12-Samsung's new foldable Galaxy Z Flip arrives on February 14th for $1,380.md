@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jD_VDR9q9ut-as7gIFjLMIzJWhs=/0x0:1697x1200/1200x800/filters:focal(714x465:984x735)/cdn.vox-cdn.com/uploads/chorus_image/image/66294548/01_018_galaxyzflip_mainkv_mirror_purple_2p_rgb.5.jpg' width='700px' /><br/>
+Samsung is unveiling its latest foldable Galaxy Z Flip phone today. It looks a lot different than the troubled Galaxy Fold, and it folds up much like the new Motorola Razr. It's clearly designed to be a full phone with a 6.7-inch display that folds and shrinks into a much smaller square when it's closed. Samsung is planning to launch the Galaxy Z Flip on February 14th, priced at $1,380.
+<a href='https://www.theverge.com/2020/2/11/21126318/samsung-galaxy-z-flip-foldable-phone-release-date-price-features'> Source <a/>
