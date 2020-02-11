@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0FCAUNgGkuqR1ORTh7oKfeobCJ8=/0x0:960x640/1200x800/filters:focal(404x244:556x396)/cdn.vox-cdn.com/uploads/chorus_image/image/66293931/Windows10X_01_e1570127842202_960x640.0.jpg' width='700px' /><br/>
+Microsoft is revealing more about its Windows 10X operating system today, which is designed for new dual-screen devices. The software giant has re-engineered this special variant of Windows 10 to install and update the operating system a lot faster. This will allow Windows 10X to download an OS update and simply switch to it at reboot, all within less than 90 seconds.
+<a href='https://www.theverge.com/2020/2/11/21133272/microsoft-windows-10x-windows-updates-fast-speed-details'> Source <a/>

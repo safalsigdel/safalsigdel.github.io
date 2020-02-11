@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d__6ff4SkbcJ71GJYEKvHcC_UfE=/0x0:1500x1290/1200x800/filters:focal(667x400:907x640)/cdn.vox-cdn.com/uploads/chorus_image/image/66288125/WMG_Main_Watch_Image_300ppi.0.png' width='700px' /><br/>
-Sprint is the latest company to introduce a smartwatch for kids, complete with GPS tracking. The WatchMeGo device is designed for children ages four to 12 who may not be quite ready for their own smartphones, the company says. In addition to tracking a child's location, the watches can send and receive voice and text messages to a parent's smartphone app.
-<a href='https://www.theverge.com/2020/2/10/21131668/sprint-smartwatch-watchmego-verizon-tmobile-kids-price-location-tracking'> Source <a/>

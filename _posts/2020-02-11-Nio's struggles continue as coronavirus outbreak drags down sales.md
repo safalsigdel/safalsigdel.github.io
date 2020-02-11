@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w1eyn-_464Gi-QsMM4WPhxhMc-8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66287134/jbareham_180912_2945_0036.0.jpg' width='700px' /><br/>
-Nio, China's top EV startup, said Monday that the coronavirus outbreak contributed to a dip in the company's sales last month. Nio sold just 1,598 vehicles in January, which is nearly half the amount the company sold in December, and down 11.5 percent from January 2019.
-<a href='https://www.theverge.com/2020/2/10/21131326/nio-sales-china-coronavirus-electric-suv-es8-es6'> Source <a/>
