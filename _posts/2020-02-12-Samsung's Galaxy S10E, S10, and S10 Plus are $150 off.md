@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yTQSoD-jSPyknUWBcYlK5BDEsac=/0x0:2040x1360/1200x800/filters:focal(860x498:1186x824)/cdn.vox-cdn.com/uploads/chorus_image/image/66294521/akrales_190228_3255_0409_02.0.jpg' width='700px' /><br/>
-Samsung is knocking $150 off the cost of its entire Galaxy S10 lineup of phones, which includes the S10E, S10, and S10 Plus. These permanent price cuts are effective immediately, and it's happening on the heels of Samsung's Unpacked event where it unveiled its new Galaxy S20 generation of flagship phones.
-<a href='https://www.theverge.com/good-deals/2020/2/11/21127858/samsung-galaxy-s10-s10e-plus-price-buy-cheaper-phones-lineup'> Source <a/>
