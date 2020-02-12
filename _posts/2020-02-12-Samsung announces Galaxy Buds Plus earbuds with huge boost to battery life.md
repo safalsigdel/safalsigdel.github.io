@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VrwcML8k7WySh1bMTaosBo6sKa4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66294513/nstatt_170101_3899_0273.0.jpg' width='700px' /><br/>
-Samsung has just announced its second-generation true wireless earbuds, the Galaxy Buds Plus. They feature a design that's more or less identical to the original Galaxy Buds but offer a number of improvements. The Galaxy Buds Plus are priced at $149 and will come in black, white, and blue color options.
-<a href='https://www.theverge.com/2020/2/11/21128525/samsung-galaxy-buds-plus-earbuds-specs-price-release-date-bluetooth-unpacked'> Source <a/>
