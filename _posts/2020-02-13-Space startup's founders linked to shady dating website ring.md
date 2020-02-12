@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d8XXecr_XJbZvEKtSWZyhCdaD1Q=/173x0:1554x855/1200x800/filters:focal(759x322:1047x610)/cdn.vox-cdn.com/uploads/chorus_image/image/66303756/Screen_Shot_2020_02_12_at_2.39.07_PM.0.png' width='700px' /><br/>
+Two founders and board members of Texas space startup Firefly Aerospace appear to be involved in running a ring of sham dating websites, according to the results of a two-year investigation published by Snopes on Wednesday.
+<a href='https://www.theverge.com/2020/2/12/21134844/firefly-aerospace-founders-max-polyakov-ceo-dating-site-sham'> Source <a/>
