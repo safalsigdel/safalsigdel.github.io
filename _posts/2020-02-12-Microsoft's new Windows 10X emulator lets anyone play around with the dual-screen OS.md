@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VX9FtyRtOz7v2-42mVqmsMr-fe4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66293421/akrales_190930_3649_0115.0.jpg' width='700px' /><br/>
-Microsoft is releasing its first Windows 10X emulator today, designed for dual-screen devices. The operating system is a variant of Windows 10 that has been adapted for new foldable and dual-screen hardware that's arriving in 2020 and beyond. There are also a lot of interface changes and improvements, including a big change to the Start menu with the removal of Live Tiles.
-<a href='https://www.theverge.com/2020/2/11/21132822/microsoft-windows-10x-emulator-dual-screen-os-testing-apps-compatibility-features'> Source <a/>

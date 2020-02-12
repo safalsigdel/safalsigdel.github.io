@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Wcyz2D1GUvnJb6Tmkmb_Z5cYlmM=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/66297075/GeForce_NOW_Platforms_crop_verge.0.jpg' width='700px' /><br/>
+Nvidia's GeForce Now feels like one of the very best ways to get a free taste of cloud gaming, but it's got a gigantic catch — it lets you play PC games you already own only if the game publisher allows it. Today, Nvidia is revealing that Activision Blizzard is no longer playing ball, pulling down its catalog of games including Overwatch, WoW, and the Call of Duty series.
+<a href='https://www.theverge.com/2020/2/11/21133793/nvidia-geforce-now-no-more-activision-blizzard-games-carriage'> Source <a/>

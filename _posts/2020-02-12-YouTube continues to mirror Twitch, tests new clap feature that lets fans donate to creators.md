@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oHHEsjWOwhCsDFIdZxeTJNzI9V4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66300140/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
+YouTube is trying to figure out how to help creators earn more revenue through alternative monetization methods, and its newest attempt reiterates that YouTube is still following in Twitch's footsteps.
+<a href='https://www.theverge.com/2020/2/12/21134512/youtube-viewer-applause-clapping-feature-monetization-creators-twitch-donations'> Source <a/>

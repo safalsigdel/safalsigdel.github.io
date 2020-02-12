@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sGzuNcnwEwyxuhtuLkMyOPUGciE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66293959/jaguar_i_pace_ev_electric_0094.0.jpg' width='700px' /><br/>
-Jaguar Land Rover plans to stop making the I-Pace electric SUV for a week because of a battery shortage at supplier LG Chem, The Times reported on Sunday.
-<a href='https://www.theverge.com/2020/2/11/21133010/jaguar-ipace-production-halt-lg-chem-batteries'> Source <a/>

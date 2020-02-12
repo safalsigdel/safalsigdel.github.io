@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ePii1O_T-87a5vEvngapHjdVH_0=/0x0:2040x1360/1200x800/filters:focal(683x546:1009x872)/cdn.vox-cdn.com/uploads/chorus_image/image/66299458/vpavic_200206_3899_0166.0.jpg' width='700px' /><br/>
+8K footage recorded on the Samsung Galaxy S20 will take up around 600MB per minute, according to Samsung, meaning that storage could quickly become an issue if you want to record video at the highest-possible resolution.
+<a href='https://www.theverge.com/2020/2/12/21134451/samsung-galaxy-s20-8k-footage-recording-600mb-minute-storage-capacity'> Source <a/>

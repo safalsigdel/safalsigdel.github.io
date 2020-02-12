@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2eL6zTlgacD9kpO2nRwiD6j4Qco=/0x0:4500x3000/1200x800/filters:focal(2180x1226:2900x1946)/cdn.vox-cdn.com/uploads/chorus_image/image/66295537/954370424.jpg.0.jpg' width='700px' /><br/>
+YouTube is reportedly mulling over offering third-party subscriptions to users that will take attention away from Amazon and Apple — and keep people in Google's ecosystem.
+<a href='https://www.theverge.com/2020/2/11/21133131/youtube-video-subscriptions-apple-amazon-premium-subscribers-google'> Source <a/>

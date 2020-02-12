@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qbq0b_P6O1LAcC_yZ4ZP3Awgo4U=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66300111/acasatro_180430_1777_sprint_Tmobile_0002.0.jpg' width='700px' /><br/>
+After a lengthy trial, a federal court ruled in favor of allowing T-Mobile and Sprint to merge yesterday, along with a complicated scheme to turn Dish Network into the fourth national wireless carrier over several years.
+<a href='https://www.theverge.com/2020/2/12/21134278/sprint-tmobile-merger-court-ruling-opinion-decision-explainer-carriers-antitrust'> Source <a/>

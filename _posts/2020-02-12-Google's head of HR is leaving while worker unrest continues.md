@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a09FeOA1CBD9UEN--29K63cMCUo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66289687/acastro_170808_1777_google_logo_01.0.jpg' width='700px' /><br/>
-Google human resources chief Eileen Naughton is stepping down later this year, the company confirms to The Verge (via Fortune). Her title was VP of People Operations; according to Google, the team's goal is to be “the champions of Google's culture.”
-<a href='https://www.theverge.com/2020/2/10/21132366/google-eileen-naughton-culture-hr-people-operations-step-down'> Source <a/>

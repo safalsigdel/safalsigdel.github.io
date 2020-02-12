@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WsPMLPnSOLBnzk6cp6zVFRe2t7Y=/0x0:1200x726/1200x800/filters:focal(504x267:696x459)/cdn.vox-cdn.com/uploads/chorus_image/image/66294208/microsoft_search_in_bing.0.png' width='700px' /><br/>
-Microsoft is backtracking on its original plans to force the Chrome default search engine over to Bing using the company's Office 365 installer. Microsoft was planning to include a new Chrome extension with its Office 365 ProPlus installer, used by businesses, that would switch Chrome's default search engine to Bing. The software giant originally announced its plans last month, and IT admins weren't happy.
-<a href='https://www.theverge.com/2020/2/11/21133372/microsoft-search-chrome-extension-bing-default-search-plans-canceled'> Source <a/>

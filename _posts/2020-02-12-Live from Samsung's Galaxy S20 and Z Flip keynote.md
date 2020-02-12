@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h60qNOa6bU1q_PyHFRX6c8vKb3E=/0x0:1020x668/1200x675/filters:focal(413x322:575x484)/cdn.vox-cdn.com/uploads/chorus_image/image/66294124/samsungstock.1419965656.0.jpg' width='700px' /><br/>
-Samsung is back with another Unpacked event in San Francisco. The Verge is here to live blog the keynote, which begins at 11AM PT / 2PM ET. What should you expect? Phones, lots of phones. Specifically, the Galaxy S20, Galaxy S20 Plus, and Galaxy S20 Ultra. Plus, expect Samsung's second attempt at a folding phone, the Galaxy Z Flip, which is rumored to be the first folding phone with glass instead of plastic on the screen.
-<a href='https://www.theverge.com/2020/2/11/21083967/samsung-galaxy-s20-z-flip-keynote-live-blog-unpacked-event'> Source <a/>

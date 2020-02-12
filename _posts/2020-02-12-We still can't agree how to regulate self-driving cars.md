@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pGSbcGJ3jtsvdgxm7Wn_oWMU8Fs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66295443/vpavic_191202_3827_0024.0.jpg' width='700px' /><br/>
+There was a sense of dxc3xa9jxc3xa0 vu on Capitol Hill today as a House panel convened yet another hearing on how to best regulate autonomous vehicles. But it wasn't clear that any of the issues that sunk the previous effort had actually been resolved — which may mean that we're headed for a very similar conclusion.
+<a href='https://www.theverge.com/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020'> Source <a/>

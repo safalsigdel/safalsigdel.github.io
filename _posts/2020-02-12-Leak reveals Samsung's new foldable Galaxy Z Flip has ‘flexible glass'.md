@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uOx78PtoFYRo3KDk5AouWLFQ4uw=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/66293247/galaxyzflip.0.jpg' width='700px' /><br/>
-Samsung looks set to fully detail its new foldable Galaxy Z Flip during a press event in just a few hours, but full details on the handset have just leaked. Evan Blass has posted several screenshots of what appears to be Samsung's marketing site for the Galaxy Z Flip, and it confirms Samsung will use “flexible glass” on the device.
-<a href='https://www.theverge.com/2020/2/11/21133156/samsung-galaxy-z-flip-flexible-glass-display-leak-cover-display-notifications-features'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UIONf37VaOwp8IepW30_chYw3Pc=/0x0:2040x1360/1200x800/filters:focal(901x159:1227x485)/cdn.vox-cdn.com/uploads/chorus_image/image/66294155/dseifert_190905_3634_0006.0.jpg' width='700px' /><br/>
-Google announced today that Nest customers will soon be required to enroll in two-factor authentication. In theory, that should provide a good extra step of security for devices that regularly monitor and help secure your home.
-<a href='https://www.theverge.com/2020/2/11/21133264/google-nest-2fa-force-two-factor-authentication'> Source <a/>
