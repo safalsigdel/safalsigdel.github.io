@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B0JrUn43HtGFUhHoiv7P0pe8Das=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66294503/vpavic_200206_3899_0090.0.jpg' width='700px' /><br/>
-All of Samsung's Galaxy S20 phones — the just-announced S20, S20 Plus, and S20 Ultra — support 5G. But at launch, only the latter two will be compatible with ultra-fast millimeter wave networks, like the one Verizon currently bases its entire 5G experience on. The standard Galaxy S20 only supports “sub-6” 5G used by AT&T, T-Mobile, and Sprint in the United States.
-<a href='https://www.theverge.com/2020/2/11/21133237/samsung-galaxy-s20-5g-ultra-fast-not-supported-carriers-coverage'> Source <a/>

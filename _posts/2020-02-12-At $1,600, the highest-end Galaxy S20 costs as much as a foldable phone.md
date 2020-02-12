@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ot5eonmFJWb9cpOLrQLHThRtPL0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66297825/vpavic_200206_3899_0211.0.jpg' width='700px' /><br/>
+Remember when Apple unveiled the $1,000 iPhone and everyone was shocked? Less than three years later, a $1,000 phone is at the low end of Samsung's Galaxy S20 lineup. It's possible we're seeing a new high for what a “normal” phone should cost, leaving plenty of room for the highest-end prices to keep climbing.
+<a href='https://www.theverge.com/2020/2/11/21133666/samsung-galaxy-flip-motorola-apple-iphone-razr'> Source <a/>
