@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t2vX05Kupv_Z9zDGcVc4r6SGksE=/0x0:1800x900/1200x800/filters:focal(756x306:1044x594)/cdn.vox-cdn.com/uploads/chorus_image/image/66300622/Written_By_Playlists.0.png' width='700px' /><br/>
+Spotify launched a beta program today for clickable songwriter credits called “songwriter pages.” If a songwriter is included in the beta, listeners can click on their name in a track's credits to view a page with all of the songs they've written. Spotify added song credits back in 2018, but this is the first time any of them have been clickable.
+<a href='https://www.theverge.com/2020/2/12/21134557/spotify-search-songwriter-pages-clickable-credits'> Source <a/>

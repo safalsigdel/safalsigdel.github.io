@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nxT_1Tt6NAscGN1PXr312jtZENg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66296437/akrales_190930_3649_0349.0.jpg' width='700px' /><br/>
-Microsoft released its first emulator for Windows 10X today, allowing developers to get a first look at the new operating system variant for dual-screen devices. Microsoft wants to give developers a head start on optimizing apps before devices launch later this year, so this basic emulator provides an early look at Windows 10X before it's finalized.
-<a href='https://www.theverge.com/2020/2/11/21132826/microsoft-windows-10x-features-dual-screen-foldable-hands-on-developers'> Source <a/>
