@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L2BQuTaEopksxO4B8EtdQfz2XDo=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66299277/vpavic_200206_3899_0127.0.jpg' width='700px' /><br/>
+It's true that software and machine learning are more important than hardware when it comes to delivering the best smartphone cameras. But it's also true that hardware plays a part, and that over the past few years Samsung has been unusually conservative with its smartphone camera technology. And it's also true that you absolutely could not level that accusation at the Galaxy S20 Ultra.
+<a href='https://www.theverge.com/2020/2/12/21134366/samsung-108-megapixel-sensor-size-image-quality-noise-vs-iphone-xiaomi'> Source <a/>
