@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W_bHHDv9dstKsP_VcPP8jxs3EiM=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19710522/vpavic_200206_3899_still_0003.jpg' width='700px' /><br/>
-Samsung has announced its latest flagship phones: the Galaxy S20, Galaxy S20 Plus, and Galaxy S20 Ultra. Technically, Samsung is appending “5G” to the names of those phones, as each one will support 5G in the US and other select markets. They'll be available on March 6th with prices ranging from $999.99 to $1,599.99, and preorders begin on February 21st.
-<a href='https://www.theverge.com/2020/2/11/21128230/samsung-galaxy-s20-plus-ultra-price-camera-5g-features-video-hands-on'> Source <a/>
