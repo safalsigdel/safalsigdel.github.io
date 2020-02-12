@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w9dCnGYk_d0QT6HEXOfOwBOdcgc=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19710464/nstatt_170101_3899_0253.jpg' width='700px' /><br/>
-Samsung has announced the new Galaxy S20 lineup of phones, consisting of the Galaxy S20, S20 Plus, S20 Ultra. Unlike previous years, preorders don't start today. They'll begin on Friday, February 21st at 12:01AM ET / 9:01PM PT. Launch day is Friday, March 6th.
-<a href='https://www.theverge.com/2020/2/11/21126784/samsung-galaxy-s20-plus-ultra-preorder-how-to-price-verizon-tmobile-sprint'> Source <a/>
