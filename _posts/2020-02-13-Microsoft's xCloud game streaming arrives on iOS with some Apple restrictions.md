@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CUA9E9O0i_YQORAVS9JhywxyHtY=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/66301372/microsoft_xcloud_e3_2019_1.0.jpg' width='700px' /><br/>
+Microsoft is expanding its Project xCloud service to the iPhone today. The software giant is launching a beta of xCloud through Apple's TestFlight service, allowing xCloud testers to try the service on an iPhone or iPad. It's the first time we've seen a cloud game streaming service appear on iOS since the days of OnLive. Google's Stadia and Nvidia's GeForce Now are still not available on Apple's devices.
+<a href='https://www.theverge.com/2020/2/12/21134952/microsoft-xcloud-game-streaming-ios-beta'> Source <a/>

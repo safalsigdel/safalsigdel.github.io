@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MWdF3K1kfQxif4jc3I9q0UH6Pzk=/0x0:2040x1360/1200x800/filters:focal(867x907:1193x1233)/cdn.vox-cdn.com/uploads/chorus_image/image/66297028/akrales_170802_1743_0178.0.jpg' width='700px' /><br/>
-Snapchat is launching a search tool called Here For You that will surface “safety resources” from mental health experts when users search for sensitive topics like anxiety, depression, suicide, and bullying, the company announced Tuesday.
-<a href='https://www.theverge.com/2020/2/11/21133568/snapchat-mental-health-snap-pinterest-instagram-teens'> Source <a/>
