@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W1zN3fzjR0tpgd62bkEnnsETIeU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66301428/vpavic_170816_1924_0106.0.jpg' width='700px' /><br/>
+Essential is shutting down, less than three years after the startup unveiled its first smartphone. The company's one and only product, the Essential Phone, sold poorly and received mixed reviews. A followup phone was canceled, and a number of other promised devices — like a smart home assistant and operating system — never materialized.
+<a href='https://www.theverge.com/2020/2/12/21134985/essential-phone-shutting-down-andy-rubin-startup'> Source <a/>
