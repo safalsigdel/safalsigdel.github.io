@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qs2-SnJLOPl3rAepeKXtmr2N4nI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66301538/vpavic_180225_2334_0048.0.jpg' width='700px' /><br/>
+The world's biggest phone show, Mobile World Congress, is no longer taking place this year. After coronavirus threatened to throw MWC into chaos, the GSM Association (GSMA), which organizes the show, has now canceled it. It comes after more than a week of exhibitors and companies pulling out of MWC.
+<a href='https://www.theverge.com/2020/2/12/21127754/mwc-2020-canceled-coronavirus-trade-show-phone-mobile-world-congress-gsma-statement'> Source <a/>
