@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/De9hW0TSxSYMR3SBCb_usUzFe7w=/0x0:6720x4480/1200x800/filters:focal(3044x1735:4118x2809)/cdn.vox-cdn.com/uploads/chorus_image/image/66302718/1178141765.jpg.0.jpg' width='700px' /><br/>
-A 2006 journal from Facebook CEO Mark Zuckerberg had lots of ideas about potential concepts for the company, including one that would let users create profiles for people who weren't actually on the social network yet.
-<a href='https://www.theverge.com/2020/2/12/21134868/mark-zuckerberg-facebook-notebook-news-feed-dark-profiles-wired'> Source <a/>

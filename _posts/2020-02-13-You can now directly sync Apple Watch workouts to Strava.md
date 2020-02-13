@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o8LPGk_XEJzi2vff32aJgw5P5V4=/0x0:1919x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66308270/Screen_Shot_2020_02_12_at_6.54.13_PM.0.jpeg' width='700px' /><br/>
+Apple Watch users can now directly sync their workouts automatically to Strava without a third-party workaround thanks to a new HealthKit update released this week. In a note on the latest Strava for iOS update, the company says any activity that is recorded on the Apple Watch or an iPhone can now be imported right to Strava.
+<a href='https://www.theverge.com/2020/2/13/21136425/apple-watch-strava-ios-healthkit-update-sync-workouts-directly'> Source <a/>
