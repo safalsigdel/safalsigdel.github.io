@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jc1GWERgtzNzd5psHxD0vtnqUL0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66302605/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-In a blog post Wednesday, Facebook announced it had taken down dozens of Instagram and Facebook accounts that engaged in foreign interference, including separate campaigns from Russia, Myanmar, Vietnam, and Iran.
-<a href='https://www.theverge.com/2020/2/12/21134957/facebook-fake-trump-iran-russia-elections-foreign-interference'> Source <a/>
