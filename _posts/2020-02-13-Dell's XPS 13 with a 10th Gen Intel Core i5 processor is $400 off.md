@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UJ9pFiCLNifA9XK7jxJYhZ3Inbg=/0x0:2040x1360/1200x800/filters:focal(848x737:1174x1063)/cdn.vox-cdn.com/uploads/chorus_image/image/66300319/akrales_191125_3813_0004.0.jpg' width='700px' /><br/>
-Dell is hosting a Presidents' Day sale ahead of the US holiday on Monday, February 17th. Plenty of laptops, desktops, monitors, and more are discounted. But some of the best deals it offers are available for a short window of time. Dell's XPS 13 with a 10th Gen Intel Core i5 processor is one of those deals.
-<a href='https://www.theverge.com/good-deals/2020/2/12/21134651/dell-xps-13-10th-gen-intel-core-i5-deal-sale-presidents-day'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9258/awhite_200210_3893_0014_squ.jpg' width='700px' /><br/>
+I wish I could tell you exactly where I think the Motorola Razr went wrong, but there are too many options to choose from. It's the first of a new generation of folding devices that open vertically into a regular phone shape instead of horizontally into a mini-tablet like Samsung's Galaxy Fold. That means Motorola had the benefit of learning from earlier missteps from the Fold and a very few other devices, but it still makes too many mistakes of its own.
+<a href='https://www.theverge.com/2020/2/13/21135809/motorola-razr-review-foldable-flip-phone-verizon-price-camera-display-battery'> Source <a/>
