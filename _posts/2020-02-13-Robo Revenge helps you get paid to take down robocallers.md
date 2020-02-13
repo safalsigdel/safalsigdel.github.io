@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8JtL5X1IjH8_ke45IiF80g2WcWc=/0x0:903x594/1200x800/filters:focal(380x225:524x369)/cdn.vox-cdn.com/uploads/chorus_image/image/66305857/EQl1r_FUUAAeAvh.0.jpg' width='700px' /><br/>
+Robolawyer startup DoNotPay is launching a new service called Robo Revenge designed to let you easily sue any US-based company that spams you with robocalls, Vice reports. The service gathers the robocaller's details and then helps you sue them for as much as $3,000. The service is live now on DoNotPay's website and in its app.
+<a href='https://www.theverge.com/2020/2/13/21135940/donotpay-sue-robocallers-do-not-call-registry-telephone-consumer-protection-act'> Source <a/>
