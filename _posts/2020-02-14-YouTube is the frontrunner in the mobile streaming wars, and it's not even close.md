@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o6TWZdIczyZtvzjCKSPXooLqwzE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66308988/acastro_180321_1777_youtube_0003.0.jpg' width='700px' /><br/>
+Here's a fun number to think about: in 2019, YouTube dominated 70 percent of the total time people spent on their phones watching the top five entertainment apps. It's also the only one of those apps (measured among Android phones, which dominate 75 percent of phone usage worldwide) that isn't specific to China — an area where Google doesn't even operate.
+<a href='https://www.theverge.com/2020/2/13/21136335/youtube-streaming-wars-mobile-android-tiktok-netflix-quibi'> Source <a/>
