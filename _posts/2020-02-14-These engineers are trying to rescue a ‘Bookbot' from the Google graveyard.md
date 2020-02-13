@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3SzYgayJtj39ufCETwoi4cazlxg=/0x0:2000x1334/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/66304780/BookBot1_2000.0.jpg' width='700px' /><br/>
-The Bookbot wasn't quite as flashy as other autonomous vehicles in the Google portfolio, but it was popular with patrons of Google's neighborhood library, and its librarians. No one seems to know why the little cube-like, wheeled delivery robot saw its pilot end in June after just four months. So a trio of former Google engineers apparently started a new company called Cartken to revive Bookbot from the Google graveyard, TechCrunch reports.
-<a href='https://www.theverge.com/2020/2/12/21135334/google-bookbot-mountain-view-area120'> Source <a/>
