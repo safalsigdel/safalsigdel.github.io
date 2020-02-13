@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dqVefFxtI6HAoW8Nve8eLf0p3nY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66306747/tesla.0.jpg' width='700px' /><br/>
+The Securities and Exchange Commission has closed its investigation into whether Tesla misled investors with its Model 3 production goals dating back to 2017, according to a new regulatory filing. But another new investigation may be taking its place.
+<a href='https://www.theverge.com/2020/2/13/21136080/tesla-sec-investigation-closed-model-3-production-subpoena'> Source <a/>
