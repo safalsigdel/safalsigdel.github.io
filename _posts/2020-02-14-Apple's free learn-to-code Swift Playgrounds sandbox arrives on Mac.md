@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Nt8FA01ZddRGRS0ZgMCVQ5mza5U=/0x0:2006x1269/1200x800/filters:focal(852x426:1172x746)/cdn.vox-cdn.com/uploads/chorus_image/image/66304601/Switch_Playgrounds_iPad.0.png' width='700px' /><br/>
-Nearly four years after it launched as an iPad-exclusive in 2016, Apple's Swift Playgrounds app is now available for Mac as part of Apple's Catalyst app initiative, designed to help bridge the software gap between its macOS and iOS platforms (via 9to5Mac).
-<a href='https://www.theverge.com/2020/2/12/21135573/apple-swift-playgrounds-coding-app-available-mac'> Source <a/>
