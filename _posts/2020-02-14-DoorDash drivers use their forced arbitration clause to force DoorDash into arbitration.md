@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bxjtfa8Y4_ut2oQOglZ3El0Fhho=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66304738/acastro_190724_1777_doordash_0003.0.0.jpg' width='700px' /><br/>
-DoorDash contractors have turned a forced arbitration clause in their contract against their employer, as a federal judge has ordered DoorDash to arbitrate 5,010 labor disputes, potentially costing the company millions in arbitration fees (via Quartz). And in a rich bit of irony, DoorDash essentially brought this situation onto itself.
-<a href='https://www.theverge.com/2020/2/12/21135474/doordash-workers-forced-arbitration-william-alsup'> Source <a/>
