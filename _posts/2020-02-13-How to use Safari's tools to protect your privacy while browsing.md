@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tzeecwknUbZs56nANZoXhW8B6DE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66302404/acastro_200207_3900_Safari_0001.0.0.jpg' width='700px' /><br/>
-If you're a Mac user, then you have a copy of Safari on your computer — it's the default browser for macOS. If you do use it, you'll be happy to learn that, like other major browsers, Safari has been provided with a number of safeguards to enhance user privacy.
-<a href='https://www.theverge.com/2020/2/12/21124844/apple-mac-safari-privacy-tools-private-network-browser-settings'> Source <a/>
