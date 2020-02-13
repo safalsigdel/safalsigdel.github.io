@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xa1ZiaExQCQwV7IN_9M8i5MJDIQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66306760/xboxjordan.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/Ucte81iXpl0qa70EYgIKzQvYz_w=/0x0:1980x1320/1200x800/filters:focal(832x502:1148x818)/cdn.vox-cdn.com/uploads/chorus_image/image/66306760/xboxjordan.6.jpg' width='700px' /><br/>
 Microsoft loves creating custom Xbox One designs, and this time, it has partnered with Nike to introduce a Jordan-themed console. The Xbox One X includes a custom red finish, with the iconic Jordan elephant print covering the top part of the console. There's even a matching red controller with the Jumpman logo.
 <a href='https://www.theverge.com/2020/2/13/21136138/microsoft-nike-xbox-one-jordan-custom-console-sneakers-marketing'> Source <a/>
