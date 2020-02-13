@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Bp77aC5HkatuTCNVhclnf_5QT3Q=/0x0:2036x1358/1200x800/filters:focal(856x517:1180x841)/cdn.vox-cdn.com/uploads/chorus_image/image/66305851/xiaomi_mi_10.0.jpg' width='700px' /><br/>
-Xiaomi just took the wraps off its latest 5G phones, the flagship Mi 10 series. Both the Mi 10 and Mi 10 Pro feature 6.67-inch 2340 x 1080 OLED displays with a 90Hz refresh rate, Snapdragon 865 processors, dual-mode 5G, Wi-Fi 6, up to 12GB of RAM, wireless charging, and quad-camera configurations with a trendy 108-megapixel main shooter that can record 8K video. Both phones will ship in China first before going international.
-<a href='https://www.theverge.com/2020/2/13/21135980/xiaomi-mi-10-specs-date-price'> Source <a/>
