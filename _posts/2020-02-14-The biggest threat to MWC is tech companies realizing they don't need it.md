@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/spfYPmQAjvLtjoiiUbub8AVJgIA=/0x0:4150x2807/1200x800/filters:focal(1743x1072:2407x1736)/cdn.vox-cdn.com/uploads/chorus_image/image/66305825/1200350923.jpg.0.jpg' width='700px' /><br/>
-The biggest news of the day yesterday is that Mobile World Congress, the world's biggest phone show, has been canceled due to coronavirus concerns. I actually heard it on national news briefings. MWC is usually only noticed by tech obsessed (me) and cell phone industry wonks, so it was weird to hear it discussed on NPR.
-<a href='https://www.theverge.com/tech/2020/2/13/21135777/mobile-world-congress-cancellation-whats-next'> Source <a/>
