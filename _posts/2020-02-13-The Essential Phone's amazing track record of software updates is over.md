@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yTckLi1okwk2s5vJKU0ViL4_K00=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66301759/vpavic_170815_1924_0035.0.jpg' width='700px' /><br/>
-Essential did a truly impressive job delivering fast monthly patches and Android updates for its one and only smartphone, the Essential Phone. But today the company announced it's closing up shop, which means that those software updates won't be coming any longer. Customer support is also being phased out effective immediately.
-<a href='https://www.theverge.com/2020/2/12/21134995/essential-phone-software-updates-security-android-startup'> Source <a/>
