@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LoO7DUFLWYKzYw8mL34M8BRk00U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66299089/dbohn_200206_3899_0050.0.jpg' width='700px' /><br/>
-Well! Yesterday was a day. I live-blogged the Samsung Unpacked keynote, where the Galaxy S20, S20 Plus, and S20 Ultra were announced alongside the Galaxy Z Flip folding phone. If there's one big takeaway from Samsung's presentation, it's that DJ Koh has very much handed the reins of the mobile division to the newly-promoted TM Roh.
-<a href='https://www.theverge.com/2020/2/12/21134164/samsung-galaxy-z-flip-galaxy-s20-keynote-recap'> Source <a/>
