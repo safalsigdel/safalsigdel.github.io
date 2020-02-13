@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lP8lQoqw9bR2F9Iwc9WtGMbkYKA=/0x0:1600x1200/1200x800/filters:focal(672x472:928x728)/cdn.vox-cdn.com/uploads/chorus_image/image/66305785/P6ydTNs3KtnejwSZ.0.jpg' width='700px' /><br/>
+iFixit has posted a detailed teardown of Motorola's foldable Razr, giving us our best look yet at the the inside of the device and its complicated mechanical hinging mechanism. Although iFixit praises the “numerous feats of engineering” that the company pulled off with its design, it says that its complexity made the Razr the “most complicated phone-based contraption” its ever taken apart.
+<a href='https://www.theverge.com/2020/2/13/21135977/motorola-razr-ifixit-teardown-hinge-mechanism-repairability-reliability'> Source <a/>
