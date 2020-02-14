@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1gUDKsq8Jnp85Wi1LBC6i9V1moI=/0x0:738x415/1200x800/filters:focal(310x149:428x267)/cdn.vox-cdn.com/uploads/chorus_image/image/66316839/hq_trivia_app.0.jpg' width='700px' /><br/>
+HQ, which made the once-popular HQ Trivia app, is shutting down and laying off its 25 employees, according to CNN Business.
+<a href='https://www.theverge.com/2020/2/14/21138408/hq-trivia-shutting-down-employee-layoffs-app-game'> Source <a/>

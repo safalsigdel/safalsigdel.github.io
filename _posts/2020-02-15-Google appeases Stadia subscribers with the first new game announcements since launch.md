@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LYX2KXIofBHN8amT2e-zfhXpB3Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66312156/akrales_191113_3779_0284.0.jpg' width='700px' /><br/>
-Following a troubled launch last year, Google has announced that five specific new games will arrive on its cloud gaming service Stadia “in the coming months,” finally giving us some additional titles we can look forward to playing beyond the ones promised at launch.
-<a href='https://www.theverge.com/2020/2/14/21136531/google-stadia-new-games-panzer-dragoon-serious-sam-lost-worlds-splitlings-stacks'> Source <a/>
