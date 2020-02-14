@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5iQtpzzoJgvoSysHXYM3Pbu7iJ8=/0x0:1392x928/1200x800/filters:focal(585x353:807x575)/cdn.vox-cdn.com/uploads/chorus_image/image/66309203/hero_large_2x.0.jpg' width='700px' /><br/>
-Apple is reportedly planning to reopen its five Beijing stores on February 14th, albeit with limited hours, via Reuters. The stores will be the first to reopen in China since Apple closed all of its retail stores on February 1st due to concerns about the coronavirus.
-<a href='https://www.theverge.com/2020/2/13/21136648/apple-beijing-stores-reopen-february-14th-limited-hours-coronavirus'> Source <a/>
