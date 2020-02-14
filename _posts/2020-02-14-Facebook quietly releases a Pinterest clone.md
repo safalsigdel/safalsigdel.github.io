@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uipVF77tOP0f-3cRi7bb82po12E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66310811/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
+A new app from Facebook's new products division looks an awful lot like Pinterest, The Information reports. Hobbi is a photo-sharing app where you can “capture and organize your creative process” like cooking, baking, arts and crafts, fitness or home decor, according to its page in the App Store.
+<a href='https://www.theverge.com/2020/2/13/21136898/facebook-pinterest-photo-sharing-app'> Source <a/>
