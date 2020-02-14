@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nEtdKywI90JD4oq7KjISEwQRiPE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66310263/akrales_170414__1610_0497.0.jpg' width='700px' /><br/>
-Tesla has restored the Autopilot driver assistance features it remotely disabled on a used Model S, just days after Jalopnik published a story about the customer's ordeal.
-<a href='https://www.theverge.com/2020/2/13/21136699/tesla-autopilot-used-model-s-owner-restored-assistance-features'> Source <a/>
