@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1QXjuzjfdgdQYV1hZdpr00hL1tw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66310283/vpavic_191202_3827_0025.0.jpg' width='700px' /><br/>
-A former Waymo contractor was arrested after allegedly forcing one of the company's self-driving cars to crash in Tempe last month, according to AZ Central. Police say 31-year-old Raymond Tang drove his Mazda recklessly around the Waymo vehicle, eventually swerving in front of the self-driving car and slamming his brakes, causing the Waymo vehicle to rear-end him.
-<a href='https://www.theverge.com/2020/2/13/21136878/waymo-disgruntled-employee-self-driving-car-crash-autonomous'> Source <a/>
