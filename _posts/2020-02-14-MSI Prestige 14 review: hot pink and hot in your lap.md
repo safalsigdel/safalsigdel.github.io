@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PUWC5qE-xLPlTfTStIHRf2gMsn4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66308346/awhite_200204_3892_0094.0.jpg' width='700px' /><br/>
-The MSI Prestige 14 isn't a new machine — it's been kicking around since last October — but it's just been released in a new color: a very pink color. I spent a week with one of the first “rose pink” units, and it's an excellent laptop for making a fashion statement — and a so-so laptop for everything else.
-<a href='https://www.theverge.com/2020/2/13/21136283/msi-prestige-14-review-laptop-specs-price-pink-content-creator'> Source <a/>
