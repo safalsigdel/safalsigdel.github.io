@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/066fwORLdYRNZakYU45ue4KVVD4=/0x0:639x426/1200x800/filters:focal(431x251:533x353)/cdn.vox-cdn.com/uploads/chorus_image/image/66312170/MIT_Diaper_RFID_0.0.jpg' width='700px' /><br/>
+Researches at MIT have developed a tiny RFID sensor that can detect diaper moisture, signal a nearby receiver, and send caregivers an alert, reports MIT News. They say that the sensor can be manufactured for less than 2 cents, making it suitable for disposable diapers without adding bulk.
+<a href='https://www.theverge.com/2020/2/14/21137424/mit-smart-diaper-sensor-smartphone-alerts'> Source <a/>

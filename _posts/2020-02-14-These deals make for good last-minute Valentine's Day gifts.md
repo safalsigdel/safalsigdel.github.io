@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v_HRQ9LcS3qIQktFWtmh7WUKr4M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66307010/akrales_171013_2047_0002.0.jpg' width='700px' /><br/>
-Valentine's Day is tomorrow, so time is nearly up for you to think of a nice gift for your significant other, spouse, or close friends. Spending time with them over dinner is always a good bet, but in case you want to buy them something, we've found a few last-minute gifts that should make them happy — at least, once the packages arrive in the mail.
-<a href='https://www.theverge.com/good-deals/2020/2/13/21136095/beats-studio-3-wireless-noise-canceling-headphones-ring-doorbell-valentines-gifts'> Source <a/>
