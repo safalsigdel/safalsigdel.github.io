@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/53H1WQGXIytp_WEnX8XQlblrwN8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66308875/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
-A judge has issued a temporary injunction against the Pentagon's Joint Enterprise Defense Infrastructure (JEDI) cloud contract, preventing the contract from moving forward until a lawsuit from Amazon is resolved.
-<a href='https://www.theverge.com/2020/2/13/21136641/amazon-microsoft-pentagon-contract-jedi-10-billion-paused'> Source <a/>
