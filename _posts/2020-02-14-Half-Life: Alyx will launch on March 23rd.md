@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Kga7qw5HO9fwqDPWoMNJpOBPVGE=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/66308986/GRAVITY_GLOVES_2K.0.png' width='700px' /><br/>
-The long-awaited next Half-Life is coming very soon. Half-Life: Alyx, a VR spinoff that was revealed last year, will launch on March 23rd. Valve previously said that the game would be available sometime in March.
-<a href='https://www.theverge.com/2020/2/13/21136678/half-life-alyx-launching-march-23rd-date-valve-announcement'> Source <a/>
