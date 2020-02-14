@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LPVhWzcbnh1k1vnAR3xMcQ63g3g=/0x0:1430x970/1200x800/filters:focal(601x371:829x599)/cdn.vox-cdn.com/uploads/chorus_image/image/66308180/Screen_Shot_2020_02_13_at_10.51.09_AM.0.png' width='700px' /><br/>
-AR and VR company Massive Technologies has just released an app called AR Pianist which superimposes virtual musicians on pianos to give you “piano concerts from the comfort of your living room.” The app was first teased last December, when a tweet went viral with a video that showed virtual pianists popping up on-screen as the camera scanned across several different pianos.
-<a href='https://www.theverge.com/2020/2/13/21136248/ar-pianist-massive-technologies-virtual-musicians-pianos'> Source <a/>
