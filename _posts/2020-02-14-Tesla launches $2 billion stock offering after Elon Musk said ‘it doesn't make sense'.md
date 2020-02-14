@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PWAuqLny7NnG1sA3UwJ7oX0v4fc=/0x0:3000x2001/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/66307346/1192349155.jpg.0.jpg' width='700px' /><br/>
-Tesla has announced that it will sell $2 billion of common stock in a new public offering, just days after CEO Elon Musk said it wouldn't “make sense” to raise more cash. The company says it plans to use the proceeds from the offering “to further strengthen its balance sheet, as well as for general corporate purposes.”
-<a href='https://www.theverge.com/2020/2/13/21136164/tesla-2-billion-stock-offering-elon-musk-cash-raise'> Source <a/>
