@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-Apple's 16-inch MacBook Pro is now available through the company's refurbished store starting at $2,039. This model from late 2019 has an improved keyboard, lots of power, and what The Verge's Dieter Bohn thinks are the “best speakers on a laptop.” It's usually very expensive, starting at $2,399 for a new machine and moving up from there. But starting today (via MacRumors) you can decide between several refurbished models through Apple's online store.
-<a href='https://www.theverge.com/good-deals/2020/2/13/21136787/apple-16-inch-macbook-pro-laptop-keyboard-deal-refurbished-sale'> Source <a/>
