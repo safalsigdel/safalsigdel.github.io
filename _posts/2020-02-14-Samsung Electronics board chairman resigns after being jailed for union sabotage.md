@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cPxxwnc3WbIqH7iO2XO5n376bgM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66312403/acastro_190503_1777_samsung_0003.0.0.jpg' width='700px' /><br/>
+Lee Sang-hoon, the chairman of Samsung Electronics' board, has resigned from his role just under two months after being found guilty of union sabotage, Reuters reports. Lee was sentenced to 18 months in jail in December after a court ruled that he had violated labor laws by disrupting union activities at Samsung. The company says a new board chairman will be appointed soon.
+<a href='https://www.theverge.com/2020/2/14/21137455/samsung-electronics-board-chairman-resigns-jail-union-sabotage'> Source <a/>
