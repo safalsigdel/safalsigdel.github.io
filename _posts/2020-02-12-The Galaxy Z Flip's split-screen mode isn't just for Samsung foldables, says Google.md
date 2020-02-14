@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KmyXe6CotKif35J9eakWoX7Yfrk=/705x162:3893x2646/1200x800/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/66297787/Image_from_iOS__9_.0.jpg' width='700px' /><br/>
-Samsung's new Galaxy Z Flip clamshell foldable has a cool new feature that can split the phone's enormous vertical real estate into a top half and a bottom half, and Google tells The Verge that other phone makers will soon be able to build that feature into their phones, too.
-<a href='https://www.theverge.com/2020/2/11/21133907/samsung-galaxy-z-flip-google-split-screen-flex-mode-other-foldables'> Source <a/>

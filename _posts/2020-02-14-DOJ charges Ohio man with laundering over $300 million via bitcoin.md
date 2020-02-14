@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BWizMXSxQZNvuZkYKGenzhkAZp4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66310055/acastro_bitcoin_2.0.jpg' width='700px' /><br/>
+Federal authorities arrested an Ohio man for operating a cryptocurrency laundering service that moved some $300 million in bitcoin via a “tumbling” operation. Larry Dean Harmon of Akron ran an operation called Helix, which partnered with now-defunct underground marketplace AlphaBay, known for illegal activity including drug deals, according to the Department of Justice. The feds shut down AlphaBay in 2017.
+<a href='https://www.theverge.com/2020/2/13/21136749/doj-ohio-helix-bitcoin-darknet-cryptocurrency-laundering-crime'> Source <a/>

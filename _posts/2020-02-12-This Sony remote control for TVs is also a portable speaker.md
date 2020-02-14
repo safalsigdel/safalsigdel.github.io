@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/csM9AotwB-Vj_4254athkPt27p8=/0x0:889x470/1200x800/filters:focal(224x179:366x321)/cdn.vox-cdn.com/uploads/chorus_image/image/66298884/SRS_LSR200_hero.0.jpg' width='700px' /><br/>
-Sony's new SRS-LSR200 remote control isn't just elegantly named, it's also a portable speaker with a 13-hour battery. That way you can take your television audio to the kitchen, toilet, or wherever you'd like it without having to blast the TV's volume from across the house.
-<a href='https://www.theverge.com/2020/2/12/21134369/sony-remote-control-speaker-combo-price-date'> Source <a/>

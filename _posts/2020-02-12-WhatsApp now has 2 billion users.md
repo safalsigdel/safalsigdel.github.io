@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ROMsvIFN-CtqEpxgJo8x5M54SEM=/0x0:1092x720/1200x800/filters:focal(459x273:633x447)/cdn.vox-cdn.com/uploads/chorus_image/image/66300279/verge-whatsapp-notification-2040pxl.0.0.jpg' width='700px' /><br/>
-Facebook's WhatsApp messaging service now has 2 billion users worldwide, the company announced in a blog post today, up from 1.5 billion and 1 billion users in 2018 and 2016, respectively. That compares to 2.5 billion users for Facebook itself, according to The Wall Street Journal, and 1 billion Instagram users (although that number is from June 2018).
-<a href='https://www.theverge.com/2020/2/12/21134652/whatsapp-2-billion-monthly-active-users-encryption-facebook'> Source <a/>

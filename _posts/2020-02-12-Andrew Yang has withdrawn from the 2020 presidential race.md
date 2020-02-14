@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2EKMZrOBOASpBPAIBTX6FnOIv5c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66297829/akrales_190411_3346_0152.0.jpg' width='700px' /><br/>
-Andrew Yang, the tech savvy Democratic presidential candidate who ran on a platform warning against the threats of artificial intelligence and automation, is dropping out of the race. Yang is doing so on the night of the New Hampshire primary, after earning just 1 percent of the delegates in the Iowa Caucuses last week.
-<a href='https://www.theverge.com/2020/2/11/21134021/andrew-yang-drops-out-2020-presidential-race-democratic'> Source <a/>

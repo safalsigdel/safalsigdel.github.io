@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_Uu8gFnGfJ87aPQ0LsjjGzkiMLU=/0x0:675x450/1200x800/filters:focal(284x171:392x279)/cdn.vox-cdn.com/uploads/chorus_image/image/66298585/Untitled_3.0.jpg' width='700px' /><br/>
-Last September, Nikon announced its new D6 pro camera but declined to provide any details on it. Today, the details are here: unsurprisingly, it's a speed-focused DSLR that'll likely be picked up by a lot of sports photographers headed to Tokyo for this summer's Olympic games.
-<a href='https://www.theverge.com/2020/2/12/21134272/nikon-d6-specs-price-release-date-announced'> Source <a/>

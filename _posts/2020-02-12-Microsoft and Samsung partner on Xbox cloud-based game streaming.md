@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QpiVoiuF02jNhr88yJS1R42Qzqw=/0x0:1078x604/1200x800/filters:focal(616x193:788x365)/cdn.vox-cdn.com/uploads/chorus_image/image/66298918/Ei2IglM.0.png' width='700px' /><br/>
-Samsung launched its new Galaxy S20 and Galaxy Z Flip smartphones yesterday, but the company also broadened its Microsoft partnership at the same time. Samsung and Microsoft are teaming up on a cloud-based game streaming service, and it's likely this will involve xCloud appearing on Samsung devices in the future.
-<a href='https://www.theverge.com/2020/2/12/21134167/microsoft-samsung-xbox-partnership-xcloud-cloud-game-streaming'> Source <a/>

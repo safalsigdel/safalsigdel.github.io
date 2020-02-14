@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3DlB4eEGGeKMCpQzhvOzLs6BQNw=/0x0:2040x1360/1200x800/filters:focal(796x521:1122x847)/cdn.vox-cdn.com/uploads/chorus_image/image/66313265/cwelch180809_2812_3912.0.jpg' width='700px' /><br/>
+Twice a year, Samsung holds its Galaxy Unpacked launch event. Twice a year, we wonder: will Samsung finally announce its mysterious Bixby-enabled smart speakers, the Galaxy Home and Galaxy Home Mini? And twice a year, the company announces phones, accessories, and partnerships galore — with no Bixby speaker in sight.
+<a href='https://www.theverge.com/2020/2/14/21136224/samsung-galaxy-home-bixby-not-released'> Source <a/>

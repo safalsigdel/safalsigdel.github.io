@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7PmXqjXK3RwhNxwf1Mo8blbVBc0=/0x0:4874x3249/1200x800/filters:focal(2048x1236:2826x2014)/cdn.vox-cdn.com/uploads/chorus_image/image/66313406/1200442407.jpg.0.jpg' width='700px' /><br/>
+Facebook will allow influencers to produce sponsored content for political campaigns so long as the posts are clearly identified as ads, the company announced on Friday.
+<a href='https://www.theverge.com/2020/2/14/21137719/facebook-bloomberg-memes-influencer-campaign-ads-election-2020'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EuGsFckL5wrmqlJ_rQP6eBTbuMw=/0x0:1795x1194/1200x800/filters:focal(755x454:1041x740)/cdn.vox-cdn.com/uploads/chorus_image/image/66312976/2sw6Ldz.0.jpg' width='700px' /><br/>
+Microsoft's Windows 10X operating system isn't even out yet, but it's already been installed on a MacBook and a Surface Go. The software maker released its Windows 10X emulator earlier this week, and people have managed to take this OS image and extract it and tweak it on real hardware.
+<a href='https://www.theverge.com/2020/2/14/21137559/microsoft-windows-10x-install-macbook-surface-go-emulator-operating-system'> Source <a/>
