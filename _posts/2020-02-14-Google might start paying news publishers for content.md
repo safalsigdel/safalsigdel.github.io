@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ppPE6HdHjM6JyqGt2SI5ZeFj9yw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66314369/acastro_180508_1777_google_IO_0001.0.jpg' width='700px' /><br/>
+Google is chatting with publishers about potentially paying to include their content in a news product, according to The Wall Street Journal. Most of the talks are with publishers outside the US, the paper says, including in France and Europe more broadly.
+<a href='https://www.theverge.com/2020/2/14/21137811/google-news-feature-publishers-pay-licensing-product'> Source <a/>
