@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QUM1F9-xDUcZqOjZ_hmxsK3okB8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66309022/acastro_180507_1777_android_privacy_0002.0.jpg' width='700px' /><br/>
-Oracle has filed its response in an upcoming Supreme Court copyright battle. The company accuses Google of stealing code from its Java language, claiming (as it has for many years) that Google “committed an egregious act of plagiarism” by building support for Java into Android without officially licensing the language. The two rivals will argue their case before the Supreme Court on March 24th.
-<a href='https://www.theverge.com/2020/2/13/21136492/oracle-google-supreme-court-copyright-java-response-trial'> Source <a/>
