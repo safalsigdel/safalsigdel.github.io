@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V6q2v3AUhO-J5aCt84j6545QVOE=/0x0:2040x1360/1200x800/filters:focal(743x556:1069x882)/cdn.vox-cdn.com/uploads/chorus_image/image/66310496/akrales_190422_3301_0198.0.jpg' width='700px' /><br/>
-Roku just reported a strong holiday quarter, which doesn't really come as a surprise: there's no time of year when people buy more streaming boxes, sticks, or new TVs that happen to run Roku's software. The company ended 2019 with 36.9 million active accounts, and customers streamed 11.7 billion hours of content in the fourth quarter.
-<a href='https://www.theverge.com/2020/2/13/21136854/roku-us-homes-cord-cutting-content-partners-advertising-fox-nbc'> Source <a/>
