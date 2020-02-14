@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VR9j4s-XdLa9pcseUOpglmBWPrQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66312451/awhite_200210_3893_0023.0.jpg' width='700px' /><br/>
+As more folding phones get released, I'm seeing more people ask an important and honest question: does anybody really need this? There are many different answers but I think the most important one is simply this: not at the prices we've seen so far, no.
+<a href='https://www.theverge.com/tech/2020/2/14/21137184/folding-phone-flip-form-factor-razr-galazy-z-fold'> Source <a/>

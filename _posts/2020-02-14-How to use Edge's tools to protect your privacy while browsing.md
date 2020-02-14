@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8UdIT-f5fnOUfHmt_EAGYSANBoQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66308147/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
-Version 80 of Microsoft's Edge browser, now based on the Chromium source code, launched on January 15th, and with it came an increased focus on privacy.
-<a href='https://www.theverge.com/2020/2/13/21125411/microsoft-edge-pc-privacy-tools-private-network-browser-settings'> Source <a/>
