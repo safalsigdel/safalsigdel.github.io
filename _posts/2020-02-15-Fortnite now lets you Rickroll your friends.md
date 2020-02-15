@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FurTiWN2EZ8H4Z9IU7Myv9BvmJY=/275x0:1650x869/1200x800/filters:focal(796x296:1102x602)/cdn.vox-cdn.com/uploads/chorus_image/image/66317357/Screen_Shot_2020_02_14_at_5.05.34_PM.0.png' width='700px' /><br/>
+In a wonderful Valentine's Day surprise, Fortnite has introduced a new emote inspired by the Rickrolling meme, and it's incredible. It plays part of the actual song by Rick Astley, “Never Gonna Give You Up,” and your in-game character dances just like Astley does in the music video.
+<a href='https://www.theverge.com/2020/2/14/21138550/fortnite-rickroll-new-emote-never-gonna-give-you-up-rick-astley'> Source <a/>
