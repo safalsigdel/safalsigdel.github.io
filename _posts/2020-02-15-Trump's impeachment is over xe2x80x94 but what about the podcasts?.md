@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/psEKso37_zxq5waOOaffIbOOHO8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66312874/acastro_191111_3786_impeachment_podcasts_0001.0.jpg' width='700px' /><br/>
-President Donald Trump's impeachment proceedings ended last week with him being acquitted on all counts, meaning the podcasts that popped up to cover the proceedings found their ending. What happens to the shows now? Some have pivoted, others have shut down, and more haven't made up their minds yet.
-<a href='https://www.theverge.com/2020/2/14/21134825/trump-impeachment-trial-podcast-strategy-rss-feed-wnyc-daily-dc'> Source <a/>

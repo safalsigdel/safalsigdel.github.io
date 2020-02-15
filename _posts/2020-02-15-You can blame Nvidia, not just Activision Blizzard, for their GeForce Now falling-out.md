@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kKrh4UPpyi2xXjCnzrdGQR7TpUw=/0x0:3840x2160/1200x800/filters:focal(1894x1046:2508x1660)/cdn.vox-cdn.com/uploads/chorus_image/image/66317373/NVIDIA_GeForce_RTX_20_Series_Laptop.0.jpg' width='700px' /><br/>
+When we learned that Nvidia's GeForce Now cloud gaming service was losing access to every Activision Blizzard game only one week after leaving beta, I'll admit my first thought was that maybe a short-sighted, money-grubbing corporation had decided to take its ball and go home.
+<a href='https://www.theverge.com/2020/2/14/21138479/nvidia-geforce-now-activision-blizzard-misunderstanding'> Source <a/>
