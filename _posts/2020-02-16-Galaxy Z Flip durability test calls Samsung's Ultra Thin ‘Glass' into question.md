@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yJJije4aqq5gd1HDPvvAXLVRjgc=/0x0:2124x1448/1200x800/filters:focal(893x555:1231x893)/cdn.vox-cdn.com/uploads/chorus_image/image/66321370/Screen_Shot_2020_02_16_at_11.28.05_AM.0.png' width='700px' /><br/>
+Samsung's claim that the new Galaxy Z Flip uses “Ultra Thin Glass” sounded like a true breakthrough when the foldable phone was announced last week. Until now, foldable screens have used plastic displays, which can be easily scratched with even a fingernail. The Z Flip making the switch to glass, however thin it might be, had us hopeful that it would hold up better to long-term use.
+<a href='https://www.theverge.com/2020/2/16/21139897/samsung-galaxy-z-flip-ultra-thin-glass-durability-scratch-test-jerryrigeverything'> Source <a/>
