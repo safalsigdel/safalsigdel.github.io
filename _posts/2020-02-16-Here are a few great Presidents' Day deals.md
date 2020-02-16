@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Lvno1XXbfhDsCJ9PST-hWAqetkQ=/0x0:2040x1360/1200x800/filters:focal(924x620:1250x946)/cdn.vox-cdn.com/uploads/chorus_image/image/66318406/awhite_191210_3831_0014.0.jpg' width='700px' /><br/>
+Presidents' Day is a US holiday that takes place on Monday, February 17th, this year. And like most US holidays, it has been co-opted by retailers as a shopping holiday. We've been tallying up the best deals on a variety of tech products in the lead-up to Presidents' Day; you'll find them below. Most will last through the holiday, and in some cases, will extend past Monday.
+<a href='https://www.theverge.com/good-deals/2020/2/15/21137623/presidents-day-deals-tech-wireless-headphones-gaming-consoles-laptops'> Source <a/>

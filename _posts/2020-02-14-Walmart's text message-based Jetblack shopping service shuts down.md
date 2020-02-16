@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R4qRlXEK4y6b77JW7Ia4BHKgAeY=/0x0:1736x1081/1200x800/filters:focal(730x403:1006x679)/cdn.vox-cdn.com/uploads/chorus_image/image/66309733/jetblack_logo.0.jpg' width='700px' /><br/>
-Walmart's experimental personal shopping service, Jetblack, is shutting down, according to a report from The Wall Street Journal. The service launched in 2018 and allowed customers in Manhattan and Brooklyn to shop at Walmart stores by texting the service. Then employees would receive and fulfill those orders.
-<a href='https://www.theverge.com/2020/2/13/21136752/walmart-jetblack-personal-shopping-service-shutdown-delivery-orders-competition'> Source <a/>

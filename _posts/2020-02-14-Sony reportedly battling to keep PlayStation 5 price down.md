@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/--0GGj0nHh3I6NvPXoW71uBirAA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66312067/IMG_1561.0.jpg' width='700px' /><br/>
-Sony is struggling to land on a price for its upcoming PlayStation 5 console, according to a new report by Bloomberg, with component shortages potentially pushing the MSRP beyond that of the PS4. The bill of materials is said to be at around $450 right now, compared to IHS Markit's estimate of $381 for the PS4, which sold for $399 upon its release in 2013.
-<a href='https://www.theverge.com/2020/2/14/21137392/sony-ps5-price-cost-of-manufacture-psvr-2-report'> Source <a/>
