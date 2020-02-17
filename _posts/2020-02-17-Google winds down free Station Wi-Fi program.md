@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K4hzhCNCeua7aPbOBhsRfoUISh0=/0x0:1206x804/1200x800/filters:focal(507x306:699x498)/cdn.vox-cdn.com/uploads/chorus_image/image/66324078/msedge_N4JBt1uUPK.0.png' width='700px' /><br/>
+Google is shutting down Station, a program that saw the company offer free Wi-Fi across over 400 railway stations in India and other locations worldwide since 2016, TechCrunch reports. Google Station's website says that the service is currently live in Brazil, South Africa, Nigeria, Thailand, the Philippines, Mexico, India, and Indonesia. The Station program will be wound down globally this year.
+<a href='https://www.theverge.com/2020/2/17/21140698/google-station-discontinued-free-wifi-india-south-africa-railway-stations'> Source <a/>
