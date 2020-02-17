@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/g1bmgDH356AFZujyrS25nMvAKp8=/0x0:4600x3067/1200x800/filters:focal(1873x660:2609x1396)/cdn.vox-cdn.com/uploads/chorus_image/image/66323857/1194364504.jpg.0.jpg' width='700px' /><br/>
+A German court has forced Tesla to temporarily halt preparation work for its Gigafactory near Berlin after local activists raised concerns about its impact on wildlife and water supplies, Reuters reports. The electric car company is currently in the process of clearing 92 hectares of forest in Gruenheide, east of Berlin, where it hopes to build its first European Gigafactory.
+<a href='https://www.theverge.com/2020/2/17/21140666/tesla-gigafactory-4-berlin-gruenheide-environmental-protest-pause'> Source <a/>
