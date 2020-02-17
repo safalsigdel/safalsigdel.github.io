@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/enZM5mrReKriJzIenI8vzTbps8c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66314754/akrales_191113_3779_0215.0.jpg' width='700px' /><br/>
-If you were an early adopter of Google Stadia who purchased the Founder's Edition in November 2019 and promptly activated your service, your complimentary three-month trial of Stadia Pro will soon come to an end. And depending on when your Buddy Pass was activated, that might be expiring soon, too.
-<a href='https://www.theverge.com/2020/2/14/21136594/google-stadia-pro-subscription-free-trial-cancel-paid-games'> Source <a/>
