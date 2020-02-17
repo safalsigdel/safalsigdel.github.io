@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7eEEtft9huZm9p-DUkTHaZ_pOKk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66313725/awhite_200210_3893_0008.0.jpg' width='700px' /><br/>
-There are a few things in this episode of The Vergecast that you don't want to miss. In a busy week that included a foldable phone review, a Samsung hardware event, and a huge merger, we've got the perfect people to discuss all of this on our podcast.
-<a href='https://www.theverge.com/2020/2/14/21137704/motorola-razr-review-samsung-galaxy-s20-event-tmobile-sprint-merger-vergecast-podcast'> Source <a/>
