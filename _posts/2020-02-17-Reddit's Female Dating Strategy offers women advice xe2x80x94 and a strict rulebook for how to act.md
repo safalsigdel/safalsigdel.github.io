@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Eapn8M-Cdwuei8ss965YE_H7_j4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66314105/acastro_200213_3908_female_dating_strategy_0002.0.jpg' width='700px' /><br/>
-A woman recently went to Reddit for advice: her fiancxc3xa9 had financially ruined her due to a gambling addiction, and she wasn't sure what to do. Members of Female Dating Strategy, a subreddit offering dating advice exclusively to women, spotted the thread and added their own assessment: her choice to stay with him was another example of “cockholm syndrome.”
-<a href='https://www.theverge.com/2020/2/14/21137852/reddit-female-dating-advice-strategy-women-rulebook-memes'> Source <a/>
