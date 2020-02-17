@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9LJsh9YvNidRhUF1pnThwdKeb9A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66326602/dseifert_190414_3374_3944.0.jpg' width='700px' /><br/>
+Ring's security devices are advertised as a way to have peace of mind about your home, and the company's work with law enforcement to provide additional security is well-documented. But two recent stories about the Amazon-owned company demonstrate how its security cameras can distort your view of how much crime actually takes place near your house and how they may not actually help police solve crimes at all.
+<a href='https://www.theverge.com/2020/2/17/21141336/amazon-ring-cameras-spy-neighbors-police-nbc-news-intelligencer'> Source <a/>
