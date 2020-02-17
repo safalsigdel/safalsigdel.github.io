@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-A newly published patent from Amazon has outlined a new method of launching objects into the air using a miles-long whip attached to a fleet of aerial craft. The patent, which was spotted by GeekWire, was filed back in March 2017 but only became public earlier this week. It muses that the method could offer an energy-efficient way of launching a payload, potentially sending it into low Earth orbit.
-<a href='https://www.theverge.com/tldr/2020/2/14/21137791/amazon-new-patent-whip-payloads-launch-space-aerial-craft'> Source <a/>
