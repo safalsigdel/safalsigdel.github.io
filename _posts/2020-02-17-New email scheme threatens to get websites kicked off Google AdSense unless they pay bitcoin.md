@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LdZZR6CHXexUOyF7jDAHC3otAmo=/0x0:2040x1360/1200x800/filters:focal(872x577:1198x903)/cdn.vox-cdn.com/uploads/chorus_image/image/66325417/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+A new email scam threatens website owners with a flood of bot traffic to get their Google AdSense accounts suspended, Krebs on Security reports.
+<a href='https://www.theverge.com/2020/2/17/21140911/email-scheme-google-adsense-bitcoin'> Source <a/>
