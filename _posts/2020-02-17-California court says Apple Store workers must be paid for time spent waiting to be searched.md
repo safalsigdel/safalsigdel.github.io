@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DyZtRfG8OXwD-DmoaBIYZ2AAfIc=/0x0:2396x1592/1200x800/filters:focal(1011x466:1393x848)/cdn.vox-cdn.com/uploads/chorus_image/image/66313729/Screen_Shot_2019_02_22_at_1.03.52_PM.0.png' width='700px' /><br/>
-The California Supreme Court says state law requires Apple to pay retail store employees for the time they spend waiting for bag searches at the end of a shift, the Los Angeles Times reports.
-<a href='https://www.theverge.com/2020/2/14/21137580/apple-store-retail-employees-search-california-supreme-court'> Source <a/>
