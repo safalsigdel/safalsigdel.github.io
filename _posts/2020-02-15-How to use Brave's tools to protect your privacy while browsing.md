@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kW54VTgBfEy-Z2CaBaP3DrEuPPQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66312953/acastro_200211_3900_Brave_0001.0.0.jpg' width='700px' /><br/>
-Brave, which came out of beta last fall, is a browser with a difference. Aggressively anti-advertising, the Chromium-based browser strips sites of their ads while allowing users to opt in to its own set of anonymized advertising. It is also very open in its promotion of user privacy.
-<a href='https://www.theverge.com/2020/2/14/21128019/brave-privacy-tools-private-network-browser-settings-security'> Source <a/>
