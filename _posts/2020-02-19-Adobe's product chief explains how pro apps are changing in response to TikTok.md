@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vOZ4D5uejb5jRlLemSZbV1yKQWc=/0x0:1200x801/1200x800/filters:focal(504x305:696x497)/cdn.vox-cdn.com/uploads/chorus_image/image/66330888/openpublicdocument.0.jpeg' width='700px' /><br/>
+More people are becoming video editors, but it's increasingly happening inside of apps like TikTok and Instagram where creators and influencers can take advantage of the unique video editing tools and filters without going anywhere else. So how does traditional photo and video editing software like Adobe Photoshop and Premiere fit into this new wave of content creation?
+<a href='https://www.theverge.com/2020/2/18/21137875/adobe-product-chief-scott-belsky-pro-apps-changing-tiktok-vergecast'> Source <a/>
