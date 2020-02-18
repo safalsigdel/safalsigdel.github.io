@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6hshp0hi5jAGP4J-7gWymJyMhfc=/0x0:1798x1198/1200x800/filters:focal(756x456:1042x742)/cdn.vox-cdn.com/uploads/chorus_image/image/66317333/Shopify_iOS_AR_Apple.0.jpg' width='700px' /><br/>
-This week, Apple began rolling out a new update to its Quick Look augmented reality tool, letting iPhone and iPad users check out products in AR and then buy them directly.
-<a href='https://www.theverge.com/2020/2/14/21138536/apple-ios-ipad-os-quick-look-ar-augmented-reality-shopping-apple-pay'> Source <a/>

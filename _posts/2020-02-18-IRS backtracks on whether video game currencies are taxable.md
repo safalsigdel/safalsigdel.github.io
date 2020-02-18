@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LD6FpARuWfDIwaGwkbfJlJlVO94=/0x0:1520x1013/1200x800/filters:focal(639x386:881x628)/cdn.vox-cdn.com/uploads/chorus_image/image/66311611/vbucks.0__1_.0.png' width='700px' /><br/>
-On Wednesday, the IRS quietly changed a provision on its website that said transactions of virtual currency like Fortnite's V-bucks were taxable and may have to be reported on tax returns, as reported by CNN.
-<a href='https://www.theverge.com/2020/2/13/21137045/irs-provision-virtual-currency-tax-returns-fortnite-v-bucks'> Source <a/>

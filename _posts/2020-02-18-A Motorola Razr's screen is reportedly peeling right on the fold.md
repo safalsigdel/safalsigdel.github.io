@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kEGsaQF3KaS0F647TRVR570TWBU=/0x0:2040x1360/1200x800/filters:focal(889x708:1215x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/66326705/awhite_200210_3893_0016.0.jpg' width='700px' /><br/>
+The new Motorola Razr is not a good phone — it's expensive, has a mediocre camera, the hinge is creaky, and a display has odd dips and bumps underneath the screen. But now, there's at least one reported instance of the new foldable's screen actually separating from the plastic laminate above the display, and it's apparently doing so right on that bad hinge.
+<a href='https://www.theverge.com/2020/2/17/21141471/motorola-razr-screen-peeling-right-on-the-fold-input'> Source <a/>

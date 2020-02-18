@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sqWG8qZSLnDMHWezrh_9M7rgQBc=/0x0:2174x1450/1200x800/filters:focal(914x552:1260x898)/cdn.vox-cdn.com/uploads/chorus_image/image/66317170/Redbox_Free_Live_TV.0.png' width='700px' /><br/>
-This week, DVD kiosk company Redbox quietly launched an ad-supported online video streaming service. It's still in a limited release, but you can check it out right now in your web browser or through the Redbox Android and iOS mobile apps.
-<a href='https://www.theverge.com/2020/2/14/21138485/redbox-free-live-tv-ad-supported-streaming-platform-launch-rollout'> Source <a/>

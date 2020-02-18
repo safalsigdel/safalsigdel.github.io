@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DOJfQnoj1qyYWRsfoeGFaWaiRUU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66329765/acastro_190319_1777_kickstarter_0002.0.jpg' width='700px' /><br/>
+Kickstarter employees voted to unionize today with 46 people voting for the union and 37 against. The decision makes Kickstarter employees the first at a major tech company to unionize. The employees are represented by the Office and Professional Employees International Union (OPEIU), and the unit is made up of 85 engineers, directors, analysts, designers, coordinators, and customer support specialists.
+<a href='https://www.theverge.com/2020/2/18/21142308/kickstarter-employee-vote-union-unionize'> Source <a/>

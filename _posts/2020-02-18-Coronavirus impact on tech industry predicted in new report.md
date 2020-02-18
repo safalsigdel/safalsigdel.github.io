@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dL_NFwi8Am_OpJGP1r_QlCneWIk=/0x0:7545x5030/1200x800/filters:focal(3170x1912:4376x3118)/cdn.vox-cdn.com/uploads/chorus_image/image/66328046/1201476902.jpg.0.jpg' width='700px' /><br/>
+Supply-chain analytics provider TrendForce has issued a report assessing the likely impact of the 2019-nCoV outbreak on tech manufacturing. The coronavirus has already caused major disruption throughout the tech industry, with huge trade shows cancelled and companies like Apple expecting to miss their forecasts.
+<a href='https://www.theverge.com/2020/2/18/21141924/coronavirus-tech-industry-impact-report-trendforce'> Source <a/>

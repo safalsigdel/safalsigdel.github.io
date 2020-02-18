@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L0zeLiro7i9NeZes-oRabOEkmDo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66329154/dsadasivan_191021_3784_0008.0.jpg' width='700px' /><br/>
+German aviation startup Volocopter is teaming up with Grab, the predominant ride-hailing app in Southeast Asia, to launch an air taxi experiment. The two companies signed a memorandum of understanding to “look into the most suitable cities and routes to deploy air taxis in Southeast Asian cities; evaluate the best use cases for air taxis; and explore the possibility of joint flight tests, among other things.”
+<a href='https://www.theverge.com/2020/2/18/21142095/volocopter-grab-air-taxi-southeast-asia-cities-electric-aircraft'> Source <a/>

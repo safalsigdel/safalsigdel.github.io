@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QwR6jKmW2y6k41MLheiuTRjakN0=/0x0:2040x1360/1200x800/filters:focal(854x565:1180x891)/cdn.vox-cdn.com/uploads/chorus_image/image/66315432/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-An Australian court has ordered Google to identify an anonymous user who gave a negative review to a Melbourne dental surgeon, the Australian Broadcasting Corporation reports. Dr. Matthew Kabbabe says a reviewer's comment posted about three months ago urged others to “stay away” from his practice, which damaged his business.
-<a href='https://www.theverge.com/2020/2/14/21138043/australia-dentist-google-review-defamation'> Source <a/>

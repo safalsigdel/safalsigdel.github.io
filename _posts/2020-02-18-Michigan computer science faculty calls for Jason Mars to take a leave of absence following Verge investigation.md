@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/smLrfvQTPYGoaSwUF5-PVgNkDzU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66316835/acastro_200212_3905_clinc_follow.0.jpg' width='700px' /><br/>
-The faculty at the University of Michigan's computer science and engineering department wrote a letter calling for professor Jason Mars to take a leave of absence, following an investigation from The Verge into his behavior as CEO of Clinc, an AI startup with ties to the school.
-<a href='https://www.theverge.com/2020/2/14/21138326/university-of-michigan-faculty-clinc-ai-jason-mars-allegations-leave-of-absence'> Source <a/>

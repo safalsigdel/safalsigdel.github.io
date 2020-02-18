@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C1OrdRm0LNmaMpmNx8gXjCXLsak=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66317361/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
-Google has removed the chat app ToTok, which is allegedly an espionage tool for the United Arab Emirates, from the Play Store for a second time. The app was previously pulled from Apple's App Store and the Google Play Store in December, shortly before The New York Times published a report about it. Google quietly reinstated the app in January. The app appears to have remained unavailable on the App Store.
-<a href='https://www.theverge.com/2020/2/14/21138522/google-removes-totok-play-store-spying-app-uae'> Source <a/>
