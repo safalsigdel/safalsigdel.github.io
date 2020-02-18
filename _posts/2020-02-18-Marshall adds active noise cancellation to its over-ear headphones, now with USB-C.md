@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z3zW-rWRzm-p-1Mf5z9eYCWrydk=/0x0:4899x3751/1200x800/filters:focal(2059x1485:2841x2267)/cdn.vox-cdn.com/uploads/chorus_image/image/66328966/marshall_campaign_monitorII_ANC_08_highres.0.jpg' width='700px' /><br/>
+Marshall has added active noise cancellation to its new Monitor II ANC headphones, a feature its other models have had for some time, but a first for the company's over-the-ear model. An ANC button lets users switch between active noise canceling and “monitoring mode” or turn off active noise cancellation altogether.
+<a href='https://www.theverge.com/2020/2/18/21138304/marshall-headphones-monitor-2-usb-c-noise-cancellation-specs-price'> Source <a/>
