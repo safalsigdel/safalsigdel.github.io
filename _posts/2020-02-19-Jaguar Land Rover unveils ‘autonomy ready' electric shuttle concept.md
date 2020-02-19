@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XoWpx3orwJnmZlXIW-JVMk4fcUQ=/0x0:6277x4480/1200x800/filters:focal(2637x1738:3641x2742)/cdn.vox-cdn.com/uploads/chorus_image/image/66330502/DSP__Y7A4621_copy.0.jpg' width='700px' /><br/>
+Jaguar Land Rover is the latest automaker to unveil an electric and “autonomy ready” shuttle pod designed for shared use in urban settings. “Project Vector” is just a concept, but the UK carmaker said it hopes to have some version of the vehicle on the road for testing by 2021.
+<a href='https://www.theverge.com/2020/2/18/21142427/jaguar-land-rover-electric-shuttle-mobility-concept'> Source <a/>

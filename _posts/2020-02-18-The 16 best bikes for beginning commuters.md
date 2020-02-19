@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hIh3IeBBsQjtoN2APbfdtqxdqj4=/0x0:555x370/1200x800/filters:focal(234x141:322x229)/cdn.vox-cdn.com/uploads/chorus_image/image/66320893/lede2.0.jpg' width='700px' /><br/>
-Bike commuting is healthier and more environmentally friendly than driving, faster than walking, and cheaper than a few months' worth of MetroCards. But getting started can be intimidating. If you're interested in riding to work, you may wonder how you'll carry your stuff, where you'll store your bike, what to do if it rains, and, most importantly, what type of bike you should buy.
-<a href='https://www.theverge.com/2020/2/16/21136215/best-bikes-beginner-commuters-strategist'> Source <a/>

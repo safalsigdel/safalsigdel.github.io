@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4xJ9swxNevLWeCF2tsRFVgDr9ho=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66317160/acastro_180522_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook has canceled its upcoming global marketing conference out of caution for the coronavirus outbreak, according to Reuters. The conference was set to take place in March at San Francisco's Moscone Center, and 4,000 people were expected to attend.
-<a href='https://www.theverge.com/2020/2/14/21138480/facebook-global-marketing-conference-canceled-coronavirus'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RgHo3L0-Rl0L46afywDlD8BDZoQ=/0x0:1600x800/1200x800/filters:focal(672x272:928x528)/cdn.vox-cdn.com/uploads/chorus_image/image/66329835/apple_tag.0.png' width='700px' /><br/>
+After months of rumors and speculation, it looks like Apple will produce tens of millions of its ultra-wideband trackers (tentatively called AirTags or Apple Tags) by the end of the year, possibly by the third quarter, Apple analyst Ming-Chi Kuo predicts (via 9to5Mac).
+<a href='https://www.theverge.com/2020/2/18/21142249/apple-tags-iphone-kuo-location-tracking'> Source <a/>
