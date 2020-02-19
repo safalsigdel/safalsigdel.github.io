@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/obxGe49M6pRd57KViIKiKZfIolg=/0x0:4410x3026/1200x800/filters:focal(1853x1161:2557x1865)/cdn.vox-cdn.com/uploads/chorus_image/image/66337482/1201742387.jpg.0.jpg' width='700px' /><br/>
+On Wednesday night, six Democratic presidential candidates will take the stage in Las Vegas, Nevada, to make their case to voters only a few days out from the state's caucuses on Saturday, February 22nd. The stage will be stacked with familiar faces, but former New York City mayor Mike Bloomberg will be debating for the first time this election season.
+<a href='https://www.theverge.com/2020/2/19/21143861/democratic-debate-watch-live-stream-how-to-start-time-candidates-bernie-sanders-bloomberg'> Source <a/>
