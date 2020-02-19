@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k1Han07lNqyToJslrwQxsMD4MJM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66338329/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
+Apple has sent a cease and desist letter attempting to prevent the publication of a book written by a former App Store manager because the company believes the book shares confidential company secrets, according to a report from German publication Focus.
+<a href='https://www.theverge.com/2020/2/19/21144053/apple-publication-book-app-store-confidential-tom-sadowski'> Source <a/>
