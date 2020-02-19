@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/4kgjwdLq40TS6aOb3WPdU1jRwQs=/0x0:1920x1080/1200x800/filters:focal(854x309:1160x615)/cdn.vox-cdn.com/uploads/chorus_image/image/66337258/EQ_XmgFW4AALCw6.0.jpeg' width='700px' /><br/>
 Fortnite's next season kicks off tomorrow, and more than anything else, I really hope it tells a good story.
+<a href='https://www.theverge.com/2020/2/19/21143878/fortnite-chapter-2-next-season-2-good-story'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/4kgjwdLq40TS6aOb3WPdU1jRwQs=/0x0:1920x1080/1200x800/filters:focal(854x309:1160x615)/cdn.vox-cdn.com/uploads/chorus_image/image/66337258/EQ_XmgFW4AALCw6.0.jpeg' width='700px' /><br/>
+Fortnite's next season kicks off tomorrow, and more than anything else, I really hope it tells a good story.
 <a href='https://www.theverge.com/2020/2/19/21143878/fortnite-chapter-2-next-season-2-good-story'> Source <a/>
