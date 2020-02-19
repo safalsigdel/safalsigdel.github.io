@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9J98NDz_HLbOTFo42wX8dSfjx90=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66329667/sokane_191127_3819_5296.0.jpg' width='700px' /><br/>
-An all-electric Porsche Taycan in Florida caught fire on Sunday, the company has confirmed to The Verge. It's the first known case of a Taycan catching fire, and Porsche says the cause is unknown at this time. No one was hurt in the fire, though significant damage was apparently done to both the car and the garage.
-<a href='https://www.theverge.com/2020/2/18/21142123/porsche-taycan-electric-ev-fire-florida'> Source <a/>
