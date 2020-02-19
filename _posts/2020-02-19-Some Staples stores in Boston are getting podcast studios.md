@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jbQcMw-MZb4m-dtvVmiOdKuZ4zU=/0x0:4354x2898/1200x800/filters:focal(1829x1101:2525x1797)/cdn.vox-cdn.com/uploads/chorus_image/image/66337488/shutterstock_204136483.0.0.jpg' width='700px' /><br/>
+Even Staples, the office supply store, can't resist the lure of podcasts. The retailer is teaming up with a company called Spreaker to build podcast studios at six of its stores in the Boston area.
+<a href='https://www.theverge.com/2020/2/19/21143803/staples-connect-spreaker-podcast-studio-rental-boston'> Source <a/>
