@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GExIHFS4-asY38FkdAAiMhG-3Yg=/0x0:2880x1920/1200x800/filters:focal(1214x546:1674x1006)/cdn.vox-cdn.com/uploads/chorus_image/image/66337625/30__KC_2968.0.jpg' width='700px' /><br/>
+If you need to alter a photo, there's a good chance you'll photoshop it. But even though people have been photoshopping images for 30 years as of today, it wasn't until the last decade that it became widely accepted that you can use “photoshop” as a verb. Before then, you were more likely to “edit an image with Photoshop” than you were to “photoshop an image.”
+<a href='https://www.theverge.com/2020/2/19/21143794/photoshop-30th-anniversary-adobe-verb-origin-story'> Source <a/>
