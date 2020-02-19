@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XT9vgtZxBz9xqP9Oy9GGoRrclJ0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66330352/akrales_191113_3779_0215.0.jpg' width='700px' /><br/>
-Google announced today that Stadia will work on some Android phones from Samsung, Asus, and Razer starting on February 20th. Up until this point, Stadia only worked on certain Pixel phones.
-<a href='https://www.theverge.com/2020/2/18/21142463/google-stadia-android-phones-pixel-samsung-razer-asus-rog'> Source <a/>
