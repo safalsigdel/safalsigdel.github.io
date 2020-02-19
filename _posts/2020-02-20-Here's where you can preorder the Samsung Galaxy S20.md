@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w9dCnGYk_d0QT6HEXOfOwBOdcgc=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19710464/nstatt_170101_3899_0253.jpg' width='700px' /><br/>
+If you're hoping to score a Samsung Galaxy S20, S20 Plus, or S20 Ultra on launch day (Friday, March 6th), it's a good idea to preorder one. As for when you'll be able to do that, retailers and carrier stores will accept orders starting Friday, February 21st at 12:01AM ET / 9:01PM PT (on Thursday, February 20th).
+<a href='https://www.theverge.com/2020/2/11/21126784/samsung-galaxy-s20-plus-ultra-preorder-how-to-price-verizon-tmobile-sprint'> Source <a/>
