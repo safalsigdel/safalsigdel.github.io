@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aRrn2HxU1A-oqDbmY1Iso5HObXo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66336195/cwelch_191024_3759_0009.0.jpg' width='700px' /><br/>
+There is a wide variety of products seeing decent price cuts today. Some are new, and others have been happening for a while. One deal that I'm particularly happy to see return is the $50 off deal on Beats' new Solo Pro wireless noise-canceling headphones. Normally $300, they're $250 at Amazon right now.
+<a href='https://www.theverge.com/good-deals/2020/2/19/21143696/beats-bose-headphones-deal-sale-sonos-ipad-amazon'> Source <a/>
