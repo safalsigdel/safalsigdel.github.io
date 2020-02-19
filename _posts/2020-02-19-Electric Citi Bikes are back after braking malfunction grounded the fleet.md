@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iJkVLisgYGogzKv4xw7na3iTIe4=/0x0:1024x512/1200x800/filters:focal(431x175:593x337)/cdn.vox-cdn.com/uploads/chorus_image/image/66334620/Ebike_photo_3.0.jpg' width='700px' /><br/>
+Electric bikes have returned to Citi Bike, after a braking malfunction led to their temporary removal from the nation's largest bike-share system.
+<a href='https://www.theverge.com/2020/2/19/21142346/citi-bike-electric-ebike-nyc-return-brake-malfunction'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gmjPJLoCSqJ33GsAmpc7oaq2WfA=/0x0:2868x1560/1200x800/filters:focal(1205x551:1663x1009)/cdn.vox-cdn.com/uploads/chorus_image/image/66325190/Screen_Shot_2020_02_17_at_11.38.21_AM.0.png' width='700px' /><br/>
-SpaceX successfully launched a new batch of its Starlink satellites on Monday morning, but the first stage of the Falcon 9 rocket that put them in orbit missed its landing on a floating platform at sea. It's the first time that's happened in almost four years; the last time Falcon 9 booster failed to land on one of SpaceX's drone ships was in June 2016.
-<a href='https://www.theverge.com/2020/2/17/21140965/spacex-falcon-9-failure-sea-drone-ship-starlink-success'> Source <a/>

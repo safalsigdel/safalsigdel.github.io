@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qmD6_PVjbAIjfH_KT5wjDERMxys=/0x0:4500x2976/1200x800/filters:focal(1716x801:2436x1521)/cdn.vox-cdn.com/uploads/chorus_image/image/66325682/1177532680.jpg.0.jpg' width='700px' /><br/>
-Today, Amazon CEO Jeff Bezos announced that he would be committing $10 billion to fight climate change through a new fund called the Bezos Earth Fund.
-<a href='https://www.theverge.com/2020/2/17/21141132/jeff-bezos-earth-fund-ten-billion-climate-change'> Source <a/>
