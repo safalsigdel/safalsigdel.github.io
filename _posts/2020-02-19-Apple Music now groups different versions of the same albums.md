@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zihhwy5Gh-qiN8I8AgMVUa7mcys=/0x0:1500x750/1200x800/filters:focal(630x255:870x495)/cdn.vox-cdn.com/uploads/chorus_image/image/66329728/Alternate_album_gets_smarter_in_Apple_Music.0.png' width='700px' /><br/>
-Apple Music has tweaked the way it organizes different versions of the same album, as spotted by Federico Viticci of MacStories. Now, if you tap on an album in Apple Music, any alternate versions will appear below the tracklist in a section called “Other Versions.”
-<a href='https://www.theverge.com/2020/2/18/21142234/apple-music-different-versions-same-albums-remaster-deluxe-editions'> Source <a/>
