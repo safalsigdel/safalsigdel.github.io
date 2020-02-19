@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uTiLzBpexVzt0bM4eXL3E2-Wb2M=/0x0:4000x2670/1200x800/filters:focal(1617x1525:2257x2165)/cdn.vox-cdn.com/uploads/chorus_image/image/66335948/1201532615.jpg.0.jpg' width='700px' /><br/>
+TikTok understands how easy it is to spend hours sitting around and watching videos, so the company is giving parents more control over how long their kids can spend on the app.
+<a href='https://www.theverge.com/2020/2/19/21143673/tiktok-family-safety-mode-screen-time-management-messages-restricted'> Source <a/>
