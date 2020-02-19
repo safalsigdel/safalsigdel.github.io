@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T_UtjsPyELDvGqRHKV3AoA_etgc=/0x0:2685x1790/1200x800/filters:focal(1129x681:1557x1109)/cdn.vox-cdn.com/uploads/chorus_image/image/66338083/NERF_Super_Soaker_XP100___Lifestyle.0.jpg' width='700px' /><br/>
+In 1982, NASA engineer Lonnie Johnson accidentally invented a pressurized water gun that went on to become one of the coolest summer toys for years. Now, Hasbro's bringing back three of the original Super Soakers with that initial air-pressure system — and I'm pretty tempted to buy the one I never got back when parents controlled my cash.
+<a href='https://www.theverge.com/2020/2/19/21144075/super-soaker-100-20-30-hasbro-nerf-announcement'> Source <a/>
