@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yCEdgEd-1ZiklxoUSNu8CoBXWHY=/0x0:900x600/1200x800/filters:focal(378x228:522x372)/cdn.vox-cdn.com/uploads/chorus_image/image/66338661/twitter.0.0.png' width='700px' /><br/>
+While most of us are aware that we can mute conversations or other accounts on Twitter, it wasn't until I saw this wonderful tweet by @nonprofWHIT that I realized you could also mute a specific word. And you can do it straight from a tweet — as long as you're using the iPhone's Twitter app:
+<a href='https://www.theverge.com/2020/2/19/21144097/twitter-mute-tweets-word-name-tag-how-to-settings-phone-desktop'> Source <a/>
