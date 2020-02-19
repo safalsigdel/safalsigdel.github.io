@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4ApYUmR3S3_YMolw2ijEmawj980=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/66337787/tlou.0.jpg' width='700px' /><br/>
+Sony has decided not to attend Pax East next week, despite teasing a prominent presence just weeks ago, following growing concerns over the coronavirus.
+<a href='https://www.theverge.com/2020/2/19/21144121/sony-playstation-pax-east-coronavirus-cancel-last-of-us-part-2-dreams'> Source <a/>
