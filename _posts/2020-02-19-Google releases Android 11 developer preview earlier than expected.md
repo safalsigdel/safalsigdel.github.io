@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pzCUU3IH-D0ToyEq3-ApmoRZh5U=/0x0:2250x1500/1200x800/filters:focal(945x570:1305x930)/cdn.vox-cdn.com/uploads/chorus_image/image/66337527/image2.0.png' width='700px' /><br/>
+Typically, Google releases a preview of the upcoming version of Android sometime in March. This year, it's doing it earlier than ever with the release of the first developer preview of Android 11 for Pixel phones.
+<a href='https://www.theverge.com/2020/2/19/21143789/google-android-11-developer-preview-release-5g-security-early'> Source <a/>
