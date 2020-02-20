@@ -1,7 +1,12 @@
 <img src='https://cdn.vox-cdn.com/thumbor/Gy7MI00pbucoraMMsKPNv_DJQKc=/0x0:4057x2700/1200x800/filters:focal(1385x885:2033x1533)/cdn.vox-cdn.com/uploads/chorus_image/image/66344341/GOT_603_tyrion_HBO.0.0.jpeg' width='700px' /><br/>
 HBO is one of YouTube TV's most notable absences, but a new agreement between Google and WarnerMedia will bring the prestige network to Google's streaming TV subscription service.
+<<<<<<< HEAD
 <a href='https://www.theverge.com/2020/2/20/21145651/youtube-tv-hbo-streaming-max-cinemax-carriage-deal'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/Gy7MI00pbucoraMMsKPNv_DJQKc=/0x0:4057x2700/1200x800/filters:focal(1385x885:2033x1533)/cdn.vox-cdn.com/uploads/chorus_image/image/66344341/GOT_603_tyrion_HBO.0.0.jpeg' width='700px' /><br/>
 HBO is one of YouTube TV's most notable absences, but a new agreement between Google and WarnerMedia will bring the prestige network to Google's streaming TV subscription service.
+<a href='https://www.theverge.com/2020/2/20/21145651/youtube-tv-hbo-streaming-max-cinemax-carriage-deal'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/Gy7MI00pbucoraMMsKPNv_DJQKc=/0x0:4057x2700/1200x800/filters:focal(1385x885:2033x1533)/cdn.vox-cdn.com/uploads/chorus_image/image/66344341/GOT_603_tyrion_HBO.0.0.jpeg' width='700px' /><br/>
+HBO is one of YouTube TV's most notable absences, but a new agreement between Google and WarnerMedia will bring the prestige network to Google's streaming TV subscription service.
+=======
+>>>>>>> origin/master
 <a href='https://www.theverge.com/2020/2/20/21145651/youtube-tv-hbo-streaming-max-cinemax-carriage-deal'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/Gy7MI00pbucoraMMsKPNv_DJQKc=/0x0:4057x2700/1200x800/filters:focal(1385x885:2033x1533)/cdn.vox-cdn.com/uploads/chorus_image/image/66344341/GOT_603_tyrion_HBO.0.0.jpeg' width='700px' /><br/>
 HBO is one of YouTube TV's most notable absences, but a new agreement between Google and WarnerMedia will bring the prestige network to Google's streaming TV subscription service.
 <a href='https://www.theverge.com/2020/2/20/21145651/youtube-tv-hbo-streaming-max-cinemax-carriage-deal'> Source <a/>
