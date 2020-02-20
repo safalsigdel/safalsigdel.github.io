@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gjk7Fs9m648zT9EAixZUylN03HU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66345512/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
+Nearly five years ago, reporter Alison Parker was murdered live on television. That video was clipped, published, and seen all across the internet over the years, including thousands of times on YouTube alone.
+<a href='https://www.theverge.com/2020/2/20/21145959/google-youtube-journalist-death-video-ftc-complaint-parker'> Source <a/>
