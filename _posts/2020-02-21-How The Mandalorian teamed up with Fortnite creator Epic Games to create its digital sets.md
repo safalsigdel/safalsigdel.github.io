@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qYAAO4_iWJrxMoneq1tp53r0_vY=/0x0:1400x788/1200x0/filters:focal(0x0:1400x788):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19734221/Unreal_Engine_blog_forging_new_paths_for_filmmakers_on_the_mandalorian_FEED_THUMB_Mandalorian_V1_1400x788_f1a4d4dfffa85473f042b6c013fd793819e70b38.jpg' width='700px' /><br/>
+One of the most impressive parts of The Mandalorian (other than Baby Yoda) was the production design, with the varied locations, sets, and effects despite the comparatively lower budget for television as opposed to a blockbuster film.
+<a href='https://www.theverge.com/2020/2/20/21145671/mandalorian-sets-stagecraft-epic-games-ilm-fortnite-baby-yoda-digital'> Source <a/>
