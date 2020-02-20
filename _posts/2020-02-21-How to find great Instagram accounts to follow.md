@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zHXCdZS9lbs0TmS1i58BDL4YsjI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66342280/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
-The thing that makes Instagram so engaging is the constant flow of photos — of your cousin's chihuahua or the purple mountain majesties — that show up on your timeline whenever you open the app.
-<a href='https://www.theverge.com/2020/2/20/21142704/instagram-accounts-follow-facebook-contacts-how-to'> Source <a/>
