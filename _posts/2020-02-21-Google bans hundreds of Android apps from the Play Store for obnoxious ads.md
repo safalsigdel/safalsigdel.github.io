@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iuMvo-gjC2klANRf6A-lu1NSx1A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66345085/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
+Google has removed almost 600 “disruptive” Android apps from the Play Store and banned their developers in its latest effort to rein in mobile ad fraud, the company announced on Thursday. Google's policy does not allow ads that display when an app is not in use or that trick users to click on ads by mistake.
+<a href='https://www.theverge.com/2020/2/20/21145595/google-app-ban-ads-play-store-android-user-experience'> Source <a/>
