@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/92OHiI1N9cVqDQkqLRLTtw7qws4=/0x0:688x444/1200x0/filters:focal(0x0:688x444):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19731445/qc_onq_x60_inline_1_r3_0.png' width='700px' /><br/>
-We're just starting to see the first phones with Qualcomm's X55 5G modem (announced last year) hit the market now, with devices like the recently announced Galaxy S20 lineup, but the company isn't standing still. Qualcomm has already announced its next 5G modem, the Snapdragon X60, which promises improvements to speed, battery life, and overall performance.
-<a href='https://www.theverge.com/2020/2/19/21142381/qualcomm-x60-modem-5g-phones-faster-power-efficient-5nm-carrier'> Source <a/>
