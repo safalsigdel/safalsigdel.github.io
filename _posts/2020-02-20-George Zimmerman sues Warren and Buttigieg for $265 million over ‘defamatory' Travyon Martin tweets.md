@@ -1,6 +1,7 @@
 <img src='https://cdn.vox-cdn.com/thumbor/3_tISJQB6O_sFTGniBuvu5NoSG8=/0x0:2000x1203/1200x800/filters:focal(1255x327:1575x647)/cdn.vox-cdn.com/uploads/chorus_image/image/66340402/1138542409.jpg.0.jpg' width='700px' /><br/>
 George Zimmerman, who shot and killed Trayvon Martin in 2012, is suing Democratic presidential candidates Pete Buttigieg and Elizabeth Warren for $265 million, claiming they defamed him in tweets (via Washington Times).
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <a href='https://www.theverge.com/2020/2/19/21144670/george-zimmerman-lawsuit-warren-buttigieg-travyon-martin-defamation-tweets'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/3_tISJQB6O_sFTGniBuvu5NoSG8=/0x0:2000x1203/1200x800/filters:focal(1255x327:1575x647)/cdn.vox-cdn.com/uploads/chorus_image/image/66340402/1138542409.jpg.0.jpg' width='700px' /><br/>
@@ -13,6 +14,10 @@ George Zimmerman, who shot and killed Trayvon Martin in 2012, is suing Democrati
 George Zimmerman, who shot and killed Trayvon Martin in 2012, is suing Democratic presidential candidates Pete Buttigieg and Elizabeth Warren for $265 million, claiming they defamed him in tweets (via Washington Times).
 <a href='https://www.theverge.com/2020/2/19/21144670/george-zimmerman-lawsuit-warren-buttigieg-travyon-martin-defamation-tweets'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/3_tISJQB6O_sFTGniBuvu5NoSG8=/0x0:2000x1203/1200x800/filters:focal(1255x327:1575x647)/cdn.vox-cdn.com/uploads/chorus_image/image/66340402/1138542409.jpg.0.jpg' width='700px' /><br/>
 George Zimmerman, who shot and killed Trayvon Martin in 2012, is suing Democratic presidential candidates Pete Buttigieg and Elizabeth Warren for $265 million, claiming they defamed him in tweets (via Washington Times).
+>>>>>>> origin/master
+<a href='https://www.theverge.com/2020/2/19/21144670/george-zimmerman-lawsuit-warren-buttigieg-travyon-martin-defamation-tweets'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/3_tISJQB6O_sFTGniBuvu5NoSG8=/0x0:2000x1203/1200x800/filters:focal(1255x327:1575x647)/cdn.vox-cdn.com/uploads/chorus_image/image/66340402/1138542409.jpg.0.jpg' width='700px' /><br/>
+George Zimmerman, who shot and killed Trayvon Martin in 2012, is suing Democratic presidential candidates Pete Buttigieg and Elizabeth Warren for $265 million, claiming they defamed him in tweets (via Washington Times).
+=======
 >>>>>>> origin/master
 <a href='https://www.theverge.com/2020/2/19/21144670/george-zimmerman-lawsuit-warren-buttigieg-travyon-martin-defamation-tweets'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/3_tISJQB6O_sFTGniBuvu5NoSG8=/0x0:2000x1203/1200x800/filters:focal(1255x327:1575x647)/cdn.vox-cdn.com/uploads/chorus_image/image/66340402/1138542409.jpg.0.jpg' width='700px' /><br/>
 George Zimmerman, who shot and killed Trayvon Martin in 2012, is suing Democratic presidential candidates Pete Buttigieg and Elizabeth Warren for $265 million, claiming they defamed him in tweets (via Washington Times).

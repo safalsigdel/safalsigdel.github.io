@@ -1,6 +1,7 @@
 <img src='https://cdn.vox-cdn.com/thumbor/6RpjTNr64PxB-dJmq-ZutEwnEf8=/0x0:1031x581/1200x800/filters:focal(499x96:663x260)/cdn.vox-cdn.com/uploads/chorus_image/image/66342999/Proton_AIO_1.0.png' width='700px' /><br/>
 HTC just announced updates to the Vive Cosmos, its lineup of consumer-ready virtual reality headsets. But it's also testing a more streamlined mixed reality device codenamed “Project Proton.” While the Proton is just a prototype, HTC shared concept images of its design, shedding some light on the company's goals.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <a href='https://www.theverge.com/2020/2/20/21145260/htc-project-proton-vr-ar-xr-headset-prototype-cosmos-vive-5g'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/6RpjTNr64PxB-dJmq-ZutEwnEf8=/0x0:1031x581/1200x800/filters:focal(499x96:663x260)/cdn.vox-cdn.com/uploads/chorus_image/image/66342999/Proton_AIO_1.0.png' width='700px' /><br/>
@@ -13,6 +14,10 @@ HTC just announced updates to the Vive Cosmos, its lineup of consumer-ready virt
 HTC just announced updates to the Vive Cosmos, its lineup of consumer-ready virtual reality headsets. But it's also testing a more streamlined mixed reality device codenamed “Project Proton.” While the Proton is just a prototype, HTC shared concept images of its design, shedding some light on the company's goals.
 <a href='https://www.theverge.com/2020/2/20/21145260/htc-project-proton-vr-ar-xr-headset-prototype-cosmos-vive-5g'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/6RpjTNr64PxB-dJmq-ZutEwnEf8=/0x0:1031x581/1200x800/filters:focal(499x96:663x260)/cdn.vox-cdn.com/uploads/chorus_image/image/66342999/Proton_AIO_1.0.png' width='700px' /><br/>
 HTC just announced updates to the Vive Cosmos, its lineup of consumer-ready virtual reality headsets. But it's also testing a more streamlined mixed reality device codenamed “Project Proton.” While the Proton is just a prototype, HTC shared concept images of its design, shedding some light on the company's goals.
+>>>>>>> origin/master
+<a href='https://www.theverge.com/2020/2/20/21145260/htc-project-proton-vr-ar-xr-headset-prototype-cosmos-vive-5g'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/6RpjTNr64PxB-dJmq-ZutEwnEf8=/0x0:1031x581/1200x800/filters:focal(499x96:663x260)/cdn.vox-cdn.com/uploads/chorus_image/image/66342999/Proton_AIO_1.0.png' width='700px' /><br/>
+HTC just announced updates to the Vive Cosmos, its lineup of consumer-ready virtual reality headsets. But it's also testing a more streamlined mixed reality device codenamed “Project Proton.” While the Proton is just a prototype, HTC shared concept images of its design, shedding some light on the company's goals.
+=======
 >>>>>>> origin/master
 <a href='https://www.theverge.com/2020/2/20/21145260/htc-project-proton-vr-ar-xr-headset-prototype-cosmos-vive-5g'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/6RpjTNr64PxB-dJmq-ZutEwnEf8=/0x0:1031x581/1200x800/filters:focal(499x96:663x260)/cdn.vox-cdn.com/uploads/chorus_image/image/66342999/Proton_AIO_1.0.png' width='700px' /><br/>
 HTC just announced updates to the Vive Cosmos, its lineup of consumer-ready virtual reality headsets. But it's also testing a more streamlined mixed reality device codenamed “Project Proton.” While the Proton is just a prototype, HTC shared concept images of its design, shedding some light on the company's goals.
