@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2nS7Nb4mvMysAeF8nEcZOg0JMgk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66337379/akrales_180326_2416_0122.0.jpg' width='700px' /><br/>
-Car subscriptions: they're totally a thing! The latest automaker to test the waters on subscriptions is Nissan, which just launched a new, two-tier service in Houston, Texas. It's called “Nissan Switch,” and it will feature a variety of models, including the all-electric Nissan Leaf Plus, the Titan pickup, and the GT-R sports car.
-<a href='https://www.theverge.com/2020/2/19/21143852/nissan-switch-subscription-service-price-model-vehicle'> Source <a/>
