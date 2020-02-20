@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/586LOrxa5dgPVAChc0yEuFqKitc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66338121/acastro_180508_1777_google_IO_0001.0.jpg' width='700px' /><br/>
-Google's Smart Compose, which includes predictive text, is now widely available in Google Docs. The feature has been in beta since last year, and it aims to help users reduce repetitive writing, spelling errors, and grammatical mistakes. It relies on artificial intelligence to predict what you might want to type next and retroactively correct any mistakes you make.
-<a href='https://www.theverge.com/2020/2/19/21144066/google-docs-smart-compose-ai-microsoft-word-email'> Source <a/>
