@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XqBf5InIBXcSx7cl8l8gJ76eZlE=/0x0:2878x1396/1200x800/filters:focal(1209x468:1669x928)/cdn.vox-cdn.com/uploads/chorus_image/image/66344269/Screen_Shot_2019_06_09_at_4.22.17_PM.0.png' width='700px' /><br/>
+One of the most anticipated titles of 2020, Cyberpunk 2077, is coming to Nvidia's cloud gaming service this year.
+<a href='https://www.theverge.com/2020/2/20/21145328/cyberpunk-2077-nvidia-geforce-now-launch-day'> Source <a/>
