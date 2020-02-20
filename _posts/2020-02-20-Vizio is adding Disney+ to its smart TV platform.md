@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sbKoc5w3N-5tyOzGKsuwq8MGRoE=/0x0:1920x1080/1200x800/filters:focal(777x485:1083x791)/cdn.vox-cdn.com/uploads/chorus_image/image/66344406/disneyplus.0.0.jpg' width='700px' /><br/>
+Since its major update last year, Vizio's SmartCast TV platform has included most of the major streaming services you might need, including Netflix, Amazon, Hulu, and Vudu. But if you wanted to watch Disney+, you had to stream it from another device using Chromecast or AirPlay 2. Good news: Disney fans need cast no longer. Vizio has announced that it's adding Disney+ to its smart TV platform.
+<a href='https://www.theverge.com/2020/2/20/21135161/vizio-disney-plus-parental-controls-smart-tv-smartcast'> Source <a/>
