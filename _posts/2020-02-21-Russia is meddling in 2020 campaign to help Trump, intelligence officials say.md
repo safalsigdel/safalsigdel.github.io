@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QhD2xjJ3iAWIMeWxts4ItgPrsY8=/0x0:4826x3217/1200x800/filters:focal(2493x479:3265x1251)/cdn.vox-cdn.com/uploads/chorus_image/image/66346388/1206900887.jpg.0.jpg' width='700px' /><br/>
+Russia is already interfering in the 2020 campaign to help President Donald Trump toward reelection, according to a briefing given to the bipartisan House Intelligence Committee last week. The briefing, as reported in paired articles from The Washington Post and The New York Times, suggests many of the same tactics used in 2016 could be employed in the months to come, including troll campaigns and targeted hacking attempts.
+<a href='https://www.theverge.com/2020/2/20/21146191/russia-election-meddling-2020-hack-trump-intelligence'> Source <a/>
