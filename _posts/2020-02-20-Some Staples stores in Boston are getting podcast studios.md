@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0DdcMdYtyeIW8WWdGxBu0NsgQz4=/0x0:1280x853/1200x800/filters:focal(538x325:742x529)/cdn.vox-cdn.com/uploads/chorus_image/image/66337488/Needham_exterior_2.5.jpeg' width='700px' /><br/>
-Even Staples, the office supply store, can't resist the lure of podcasts. The retailer is teaming up with iHeartRadio to build podcast studios at six of its stores in the Boston area.
-<a href='https://www.theverge.com/2020/2/19/21143803/staples-connect-spreaker-podcast-studio-rental-boston'> Source <a/>
