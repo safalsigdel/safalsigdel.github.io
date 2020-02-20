@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TQDPdIEpveOwFYyB5n38HjueSR4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66338581/zero_srs_motorcycle_0595.0.jpg' width='700px' /><br/>
-Zero Motorcycles has announced a new all-electric motorcycle with abundant range, spine-bending performance, and a riding experience the California company likened to riding in a Gulfstream jet.
-<a href='https://www.theverge.com/2020/2/19/21144093/zero-srs-electric-motorcycle-bike-speed-mile-range-photos-price'> Source <a/>
