@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t2l31dyfKK10qz0-ZBuBMPdLWJM=/0x0:1200x681/1200x800/filters:focal(470x121:662x313)/cdn.vox-cdn.com/uploads/chorus_image/image/66345378/elirothborderlands.0.jpeg' width='700px' /><br/>
+Director Eli Roth has signed onto a film adaptation of Gearbox's Borderlands games, joining Chernobyl writer Craig Mazin and producers Avi and Ari Arad. Roth offered little detail about the project, which has been in the works since 2015. He celebrated the news by tweeting a picture of his face cropped onto one of Borderlands' shirtless and heavily muscled “psycho” bandits.
+<a href='https://www.theverge.com/2020/2/20/21145855/borderlands-film-eli-roth-gearbox-live-action-adaptation-direct'> Source <a/>
