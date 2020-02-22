@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kJ7hEwmVbHBf291tc_JXdSiABDg=/0x0:1869x1246/1200x800/filters:focal(786x474:1084x772)/cdn.vox-cdn.com/uploads/chorus_image/image/66346508/1207411599.jpg.0.jpg' width='700px' /><br/>
-As platforms prepare for the upcoming 2020 election season, Twitter and Facebook are divided on whether a video posted by the Mike Bloomberg presidential campaign would violate their policies on manipulated media.
-<a href='https://www.theverge.com/2020/2/20/21146227/facebook-twitter-bloomberg-debate-video-manipulated-deepfake'> Source <a/>

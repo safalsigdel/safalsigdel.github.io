@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iOxuBdAwe5mES4h9aRQTjIqlkpc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66346936/Jessica_V_ThreeQuarter.0.jpg' width='700px' /><br/>
-Quibi's apps are now available for preorder on the App Store and Play Store, and they give a look at how the mobile streaming app might actually work when it launches on April 6th (via TechCrunch).
-<a href='https://www.theverge.com/2020/2/20/21146270/quibi-app-screenshots-ios-android-play-store'> Source <a/>

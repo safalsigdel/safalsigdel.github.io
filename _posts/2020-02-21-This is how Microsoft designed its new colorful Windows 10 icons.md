@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eeUfU5TDSfKXsZoq13uIgV4FzAg=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/66345701/windows10newicons.0.jpg' width='700px' /><br/>
-Microsoft has started rolling out new colorful app icons in Windows 10 today that overhaul the look and feel of the operating system. Changes to many of the built-in Windows 10 app icons have started rolling out today, but more are coming in the months ahead. It's part of what the company describes as a “multi-year effort across Microsoft's design teams to redesign our icons.”
-<a href='https://www.theverge.com/2020/2/20/21146028/microsoft-windows-10-new-icons-colorful-design-changes-updates-fluent-design-system'> Source <a/>

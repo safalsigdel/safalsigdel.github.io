@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iFt6HNi1-P_qs3pNm5uDAxm-pB0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66350506/vpavic_190731_3909_0149.0.jpg' width='700px' /><br/>
+The Verge's flagship podcast, The Vergecast, was split up into three parts this week: we cover the Samsung Galaxy Z Flip review, a streaming wars update, and the upcoming Android 11.
+<a href='https://www.theverge.com/2020/2/21/21146982/podcast-galaxy-z-flip-review-vergecast-android-11-preview-streaming'> Source <a/>

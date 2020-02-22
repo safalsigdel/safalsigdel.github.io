@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/daBhai9L_pJ74JDokT8GMRpPpJk=/0x0:2040x1360/1200x800/filters:focal(911x447:1237x773)/cdn.vox-cdn.com/uploads/chorus_image/image/66344477/akrales_190328_3240_0103.0.jpg' width='700px' /><br/>
-The Peloton for iOS app now supports Chromecast so you can stream your workouts from a larger screen. Previously, this feature was only available to Android users while the Peloton bike was only able to cast classes to a supported device via Miracast, which meant that iOS users were left out of the functionality entirely.
-<a href='https://www.theverge.com/2020/2/20/21145727/peloton-ios-app-chromecast-support-update'> Source <a/>

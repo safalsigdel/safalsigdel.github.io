@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9264/vpavic_190731_3909_0149__2_.jpg' width='700px' /><br/>
+Samsung's brand-new Galaxy Z Flip is the third folding screen phone that I've reviewed. It happens to also be the best folding screen phone I've reviewed — but don't let that fool you. As with the Galaxy Fold and the Motorola Razr, the Z Flip is more of an expensive experiment than a real product anybody should buy.
+<a href='https://www.theverge.com/2020/2/21/21146465/samsung-galaxy-z-flip-review-folding-glass-flip-phone-screen-camera-price'> Source <a/>

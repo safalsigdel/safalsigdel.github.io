@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IDg3J3wdEG6MLMd1dce54ceYPIY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66345179/acastro_180522_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook will offer to pay some users for voice recordings that will be used to help improve its speech recognition technology, the company announced Thursday. The move comes after Facebook — as well as Amazon, Apple, Google, and Microsoft — was caught listening to and transcribing voice recordings to improve speech recognition systems without informing customers it was doing so.
-<a href='https://www.theverge.com/2020/2/20/21145584/facebook-pay-record-voice-speech-recognition-viewpoints-proununciations-app'> Source <a/>

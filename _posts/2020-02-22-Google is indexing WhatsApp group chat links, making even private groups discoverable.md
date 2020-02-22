@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LsbCSASte1dy598xaUgp1vYgX1A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66351015/akrales_170512_1743_0006.0.jpg' width='700px' /><br/>
+Invitations to WhatsApp group chats are being indexed by Google, making the invite links —including links to private group chats — discoverable and available to anyone who wants to join, Motherboard reports.
+<a href='https://www.theverge.com/2020/2/21/21147073/whatsapp-google-group-chat-join-indexing-links-search-privacy-facebook'> Source <a/>

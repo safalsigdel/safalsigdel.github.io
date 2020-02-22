@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P9P20jXTjuCVkJRNgQWXfRfR9Y0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66344183/akrales_190418_3382_0143.0.jpg' width='700px' /><br/>
-Buzzy EV startup Rivian has lost its first chief technology officer just nine months after he started the job. Mike Bell, a longtime Apple executive who helped start the iPhone project, left Rivian this month, the company confirmed to The Verge.
-<a href='https://www.theverge.com/2020/2/20/21143374/rivian-cto-mike-bell-left-apple-intel'> Source <a/>

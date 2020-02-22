@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YO9MH5dAzHdsq0eJOKwVa9sUOfg=/0x0:2040x1360/1200x800/filters:focal(883x574:1209x900)/cdn.vox-cdn.com/uploads/chorus_image/image/66344016/vpavic_191019_3725_0312.0.jpg' width='700px' /><br/>
-Verizon says it'll continue to carry Google's Pixel phones throughout 2020, rejecting a rumor that the carrier — and for many years, the Pixel's biggest sales channel — was abandoning Google's smartphone line due to sluggish sales.
-<a href='https://www.theverge.com/2020/2/20/21145538/google-verizon-pixel-phone-support-2020'> Source <a/>

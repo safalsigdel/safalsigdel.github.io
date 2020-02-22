@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I_psKub3I0kzQxiB32Ozy7Z8N_g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66344284/acastro_191014_1777_google_pixel_0001.0.0.jpg' width='700px' /><br/>
-An artificial intelligence tool Google provides to developers won't add gender labels to images anymore, saying a person's gender can't be determined just by how they look in a photo, Business Insider reports.
-<a href='https://www.theverge.com/2020/2/20/21145356/google-ai-images-gender-bias-labels-people'> Source <a/>
