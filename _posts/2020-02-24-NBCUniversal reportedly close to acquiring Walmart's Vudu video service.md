@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VtkC4XU-T0t3R-QfFXdG98gY7HY=/0x0:1980x1319/1200x800/filters:focal(832x502:1148x818)/cdn.vox-cdn.com/uploads/chorus_image/image/66354033/vudu.0.jpg' width='700px' /><br/>
-NBCUniversal is in advanced talks to acquire Vudu, the Walmart-owned video service, according to The Wall Street Journal. Though the talks “may not result in a deal,” it sounds like NBCUniversal — part of Comcast, an investor in The Verge's parent company Vox Media — has a number of ideas for what it would do with Vudu.
-<a href='https://www.theverge.com/2020/2/21/21147837/nbcuniversal-vudu-acquisition-rumor-walmart-peacock-video-streaming'> Source <a/>
