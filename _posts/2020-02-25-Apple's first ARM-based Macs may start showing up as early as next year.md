@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AUEIiXFM7_2Ca3YTmirpM8H5taY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66364856/acastro_190530_1777_wwdc_2019_0001.0.0.png' width='700px' /><br/>
+Apple may release its very first ARM-based laptop without an Intel processor as soon as next year, according to reputable KGI Securities analyst Ming-Chi Kuo (via 9to5Mac). Kuo, who often correctly predicts Apple trends before they take shape, says the new Mac is coming sometime in the next 12 to 18 months and will feature an in-house processor not developed by Intel.
+<a href='https://www.theverge.com/2020/2/24/21151066/apple-mac-arm-chips-custom-intel-processors'> Source <a/>

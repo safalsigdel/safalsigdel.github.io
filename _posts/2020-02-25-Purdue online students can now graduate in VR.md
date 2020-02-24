@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/inlLKU81KZRNDnw4ztrQAbKvT-I=/0x0:2580x1595/1200x800/filters:focal(1469x719:1881x1131)/cdn.vox-cdn.com/uploads/chorus_image/image/66364860/vandenbosch_vr.0.jpg' width='700px' /><br/>
+Purdue University Global will let some graduates join its 2020 commencement ceremony through virtual reality. Around 75 students will get a Google Cardboard-style VR viewer and watch the ceremony through a 360-degree camera feed alongside around 400 other students who will attend the ceremony in Los Angeles later this week.
+<a href='https://www.theverge.com/2020/2/24/21151026/purdue-university-global-online-graduation-vr-google-cardboard-commencementt'> Source <a/>
