@@ -1,3 +1,15 @@
 <img src='https://cdn.vox-cdn.com/thumbor/-GUwcAufuhf_yQkMK39BwEgh2tw=/0x0:3000x1999/1200x800/filters:focal(1178x422:1658x902)/cdn.vox-cdn.com/uploads/chorus_image/image/66364453/669942066.0.jpg' width='700px' /><br/>
 Over the last couple of decades, the US technology industry has become one of the dominant global forces shaping the ways we connect with each other; it's easy to think about how much different and perhaps atomized the world would be if Facebook, for example, didn't exist. Less discussed, however, is the effect the rest of the world has on Silicon Valley.
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<a href='https://www.theverge.com/2020/2/24/21150943/onezero-medium-h-1b-visa-trump-administration-immigration-policy'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/-GUwcAufuhf_yQkMK39BwEgh2tw=/0x0:3000x1999/1200x800/filters:focal(1178x422:1658x902)/cdn.vox-cdn.com/uploads/chorus_image/image/66364453/669942066.0.jpg' width='700px' /><br/>
+Over the last couple of decades, the US technology industry has become one of the dominant global forces shaping the ways we connect with each other; it's easy to think about how much different and perhaps atomized the world would be if Facebook, for example, didn't exist. Less discussed, however, is the effect the rest of the world has on Silicon Valley.
+<a href='https://www.theverge.com/2020/2/24/21150943/onezero-medium-h-1b-visa-trump-administration-immigration-policy'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/-GUwcAufuhf_yQkMK39BwEgh2tw=/0x0:3000x1999/1200x800/filters:focal(1178x422:1658x902)/cdn.vox-cdn.com/uploads/chorus_image/image/66364453/669942066.0.jpg' width='700px' /><br/>
+Over the last couple of decades, the US technology industry has become one of the dominant global forces shaping the ways we connect with each other; it's easy to think about how much different and perhaps atomized the world would be if Facebook, for example, didn't exist. Less discussed, however, is the effect the rest of the world has on Silicon Valley.
+>>>>>>> origin/master
+<a href='https://www.theverge.com/2020/2/24/21150943/onezero-medium-h-1b-visa-trump-administration-immigration-policy'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/-GUwcAufuhf_yQkMK39BwEgh2tw=/0x0:3000x1999/1200x800/filters:focal(1178x422:1658x902)/cdn.vox-cdn.com/uploads/chorus_image/image/66364453/669942066.0.jpg' width='700px' /><br/>
+Over the last couple of decades, the US technology industry has become one of the dominant global forces shaping the ways we connect with each other; it's easy to think about how much different and perhaps atomized the world would be if Facebook, for example, didn't exist. Less discussed, however, is the effect the rest of the world has on Silicon Valley.
+>>>>>>> origin/master
 <a href='https://www.theverge.com/2020/2/24/21150943/onezero-medium-h-1b-visa-trump-administration-immigration-policy'> Source <a/>
