@@ -1,7 +1,12 @@
 <img src='https://cdn.vox-cdn.com/thumbor/EQUd9aA6AHpnzGHtzjJX8pkxbpI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66356982/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
 Twitter announced Friday that it would suspend 70 accounts that posted content in support of Michael Bloomberg's presidential campaign, first reported by the Los Angeles Times.
+<<<<<<< HEAD
 <a href='https://www.theverge.com/2020/2/22/21148516/twitter-suspends-mike-bloomberg-facebook-google-platform-manipulation'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/EQUd9aA6AHpnzGHtzjJX8pkxbpI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66356982/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
 Twitter announced Friday that it would suspend 70 accounts that posted content in support of Michael Bloomberg's presidential campaign, first reported by the Los Angeles Times.
+<a href='https://www.theverge.com/2020/2/22/21148516/twitter-suspends-mike-bloomberg-facebook-google-platform-manipulation'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/EQUd9aA6AHpnzGHtzjJX8pkxbpI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66356982/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
+Twitter announced Friday that it would suspend 70 accounts that posted content in support of Michael Bloomberg's presidential campaign, first reported by the Los Angeles Times.
+=======
+>>>>>>> origin/master
 <a href='https://www.theverge.com/2020/2/22/21148516/twitter-suspends-mike-bloomberg-facebook-google-platform-manipulation'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/EQUd9aA6AHpnzGHtzjJX8pkxbpI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66356982/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
 Twitter announced Friday that it would suspend 70 accounts that posted content in support of Michael Bloomberg's presidential campaign, first reported by the Los Angeles Times.
 <a href='https://www.theverge.com/2020/2/22/21148516/twitter-suspends-mike-bloomberg-facebook-google-platform-manipulation'> Source <a/>
