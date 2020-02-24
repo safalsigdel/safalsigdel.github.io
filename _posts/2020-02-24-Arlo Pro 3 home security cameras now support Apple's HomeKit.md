@@ -1,6 +1,7 @@
 <img src='https://cdn.vox-cdn.com/thumbor/FNfpC1OHYiyIAmHTp_avRv2d4BI=/0x0:2953x1969/1200x800/filters:focal(1241x749:1713x1221)/cdn.vox-cdn.com/uploads/chorus_image/image/66351168/arlopro3.0.jpg' width='700px' /><br/>
 Arlo Pro 3 security cameras now support Apple's HomeKit smart home platform, which lets you manage your gadgets (lights, cameras, etc.) through the Home app on your iOS device. The cameras originally launched last September without support for HomeKit, but it has now arrived.
 <<<<<<< HEAD
+<<<<<<< HEAD
 <a href='https://www.theverge.com/2020/2/21/21147233/arlo-pro-3-home-security-cameras-support-apple-homekit'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/FNfpC1OHYiyIAmHTp_avRv2d4BI=/0x0:2953x1969/1200x800/filters:focal(1241x749:1713x1221)/cdn.vox-cdn.com/uploads/chorus_image/image/66351168/arlopro3.0.jpg' width='700px' /><br/>
 Arlo Pro 3 security cameras now support Apple's HomeKit smart home platform, which lets you manage your gadgets (lights, cameras, etc.) through the Home app on your iOS device. The cameras originally launched last September without support for HomeKit, but it has now arrived.
 <a href='https://www.theverge.com/2020/2/21/21147233/arlo-pro-3-home-security-cameras-support-apple-homekit'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/FNfpC1OHYiyIAmHTp_avRv2d4BI=/0x0:2953x1969/1200x800/filters:focal(1241x749:1713x1221)/cdn.vox-cdn.com/uploads/chorus_image/image/66351168/arlopro3.0.jpg' width='700px' /><br/>
@@ -9,6 +10,10 @@ Arlo Pro 3 security cameras now support Apple's HomeKit smart home platform, whi
 >>>>>>> origin/master
 <a href='https://www.theverge.com/2020/2/21/21147233/arlo-pro-3-home-security-cameras-support-apple-homekit'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/FNfpC1OHYiyIAmHTp_avRv2d4BI=/0x0:2953x1969/1200x800/filters:focal(1241x749:1713x1221)/cdn.vox-cdn.com/uploads/chorus_image/image/66351168/arlopro3.0.jpg' width='700px' /><br/>
 Arlo Pro 3 security cameras now support Apple's HomeKit smart home platform, which lets you manage your gadgets (lights, cameras, etc.) through the Home app on your iOS device. The cameras originally launched last September without support for HomeKit, but it has now arrived.
+<a href='https://www.theverge.com/2020/2/21/21147233/arlo-pro-3-home-security-cameras-support-apple-homekit'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/FNfpC1OHYiyIAmHTp_avRv2d4BI=/0x0:2953x1969/1200x800/filters:focal(1241x749:1713x1221)/cdn.vox-cdn.com/uploads/chorus_image/image/66351168/arlopro3.0.jpg' width='700px' /><br/>
+Arlo Pro 3 security cameras now support Apple's HomeKit smart home platform, which lets you manage your gadgets (lights, cameras, etc.) through the Home app on your iOS device. The cameras originally launched last September without support for HomeKit, but it has now arrived.
+=======
+>>>>>>> origin/master
 <a href='https://www.theverge.com/2020/2/21/21147233/arlo-pro-3-home-security-cameras-support-apple-homekit'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/FNfpC1OHYiyIAmHTp_avRv2d4BI=/0x0:2953x1969/1200x800/filters:focal(1241x749:1713x1221)/cdn.vox-cdn.com/uploads/chorus_image/image/66351168/arlopro3.0.jpg' width='700px' /><br/>
 Arlo Pro 3 security cameras now support Apple's HomeKit smart home platform, which lets you manage your gadgets (lights, cameras, etc.) through the Home app on your iOS device. The cameras originally launched last September without support for HomeKit, but it has now arrived.
 <a href='https://www.theverge.com/2020/2/21/21147233/arlo-pro-3-home-security-cameras-support-apple-homekit'> Source <a/>
