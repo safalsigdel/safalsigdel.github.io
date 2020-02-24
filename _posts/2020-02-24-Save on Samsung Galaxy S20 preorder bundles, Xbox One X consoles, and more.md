@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MQliY9LeWb_gdqo6KrqyhRhT3m4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66349549/vpavic_200206_3899_still_0004.0.jpg' width='700px' /><br/>
-Preorders for Samsung's latest phones, the Galaxy S20 series, went up at 12:01AM ET this morning. There are plenty of ways to secure a preorder, but new preorder bundles are popping up that might catch your eye — specifically, Amazon's offer that includes a complimentary set of Galaxy Buds truly wireless earbuds and a Duo wireless charging pad along with your preorder.
-<a href='https://www.theverge.com/good-deals/2020/2/21/21146956/samsung-galaxy-s20-preorder-bundles-xbox-one-x-consoles-s10-deal-sale'> Source <a/>
