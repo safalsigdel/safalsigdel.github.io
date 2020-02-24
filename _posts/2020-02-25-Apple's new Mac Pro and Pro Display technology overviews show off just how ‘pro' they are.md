@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Apple's Mac Pro and Pro Display XDR have been out in the world for a while now, but Apple is just now publishing its white papers for the two new devices, which go into far greater detail about the high-end hardware.
+<a href='https://www.theverge.com/circuitbreaker/2020/2/24/21151597/apple-new-mac-pro-display-xdr-technology-overview-white-papers-details-new'> Source <a/>
