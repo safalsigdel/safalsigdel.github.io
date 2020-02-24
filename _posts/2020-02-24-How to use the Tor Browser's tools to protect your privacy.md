@@ -16,4 +16,6 @@ If you're concerned about privacy and want one of the most well-protected browse
 >>>>>>> origin/master
 <a href='https://www.theverge.com/2020/2/21/21138403/tor-privacy-tools-private-network-browser-settings-security'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/XdDfcIOaQhg74Q3B8US8EsTrXJ4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66352794/acastro_200207_3900_Tor_0001.0.0.jpg' width='700px' /><br/>
 If you're concerned about privacy and want one of the most well-protected browsers available — and don't mind that it may prevent you from using certain websites — then you should try the Tor Browser.
+<a href='https://www.theverge.com/2020/2/21/21138403/tor-privacy-tools-private-network-browser-settings-security'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/XdDfcIOaQhg74Q3B8US8EsTrXJ4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66352794/acastro_200207_3900_Tor_0001.0.0.jpg' width='700px' /><br/>
+If you're concerned about privacy and want one of the most well-protected browsers available — and don't mind that it may prevent you from using certain websites — then you should try the Tor Browser.
 <a href='https://www.theverge.com/2020/2/21/21138403/tor-privacy-tools-private-network-browser-settings-security'> Source <a/>
