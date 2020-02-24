@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w7lwna7I-vx8EkE-dL3FsshwDT4=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/66348701/1196922265.jpg.0.jpg' width='700px' /><br/>
-Like all things related to popular K-pop boy band BTS, pandemonium broke out online yesterday when the group debuted a clip of their new single on TikTok, only for part of the app to stop working in response.
-<a href='https://www.theverge.com/2020/2/21/21146848/bts-tiktok-on-single-challenge-broken-app-crash-link'> Source <a/>
