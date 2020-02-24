@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wATxmqHnW2lTHAQobejAoerp_b8=/0x0:1544x1030/1200x800/filters:focal(649x392:895x638)/cdn.vox-cdn.com/uploads/chorus_image/image/66348925/elago_aw5_airpods_case.0.jpg' width='700px' /><br/>
+Do you need a case for your AirPods case? Perhaps not, but the accessory accessories are increasingly popular, whether your personal style extends to crocheting or leather. And what if it looked as cute as this Game Boy-inspired design from Elago?
+<a href='https://www.theverge.com/2020/2/21/21146638/game-boy-airpods-case-elago-available-price'> Source <a/>

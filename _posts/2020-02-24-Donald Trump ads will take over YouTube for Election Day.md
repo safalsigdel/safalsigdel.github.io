@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q7dCAY5l10-jHLuCv-R6m0QKr9U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66357070/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
+YouTube's homepage will feature ads in support of Donald Trump's reelection campaign on election day 2020, Bloomberg reported on Thursday.
+<a href='https://www.theverge.com/2020/2/22/21148550/donald-trump-campaign-youtube-campaign-ad-buy-2020-election'> Source <a/>

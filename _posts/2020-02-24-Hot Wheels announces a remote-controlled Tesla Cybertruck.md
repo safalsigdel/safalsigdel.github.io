@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tfMgfbNE9FqdVZkPe553c8DYyh8=/0x0:2048x2048/1200x800/filters:focal(872x1199:1198x1525)/cdn.vox-cdn.com/uploads/chorus_image/image/66349278/10___GXG31_W_20_Cybertruck_Large_059.5.jpg' width='700px' /><br/>
+Mattel has announced a Hot Wheels-branded remote-controlled version of Tesla's Cybertruck. It is available to preorder now and will come in two sizes: there's a 1:64 scale RC Cybertruck that costs $20 and a much bigger 1:10 scale version that runs for $400. Both are expected to ship in December 2020, but they're limited editions and will only be available until they're sold out, Mattel says.
+<a href='https://www.theverge.com/2020/2/21/21147004/hot-wheels-tesla-cybertruck-rc-car-remote-controlled-toy'> Source <a/>

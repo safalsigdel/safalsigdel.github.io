@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RW8a6F29ob0LCBIQAWvfrpQBR-g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66349343/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
+Apple won a temporary restraining order against a man who allegedly stalked and harassed CEO Tim Cook and other company executives.
+<a href='https://www.theverge.com/2020/2/21/21147011/apple-ceo-tim-cook-stalker-aggressive-executives-palo-alto-police-restraining-order'> Source <a/>
