@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/niuMdG6EoZbUtxqNwH1A0WYo2Hk=/0x0:1475x983/1200x800/filters:focal(620x374:856x610)/cdn.vox-cdn.com/uploads/chorus_image/image/66364367/stadia.0.jpg' width='700px' /><br/>
+Google Stadia's cloud gaming service offers wide access to titles, but it still requires players to have access to a controller. Rather than using the traditional Stadia controller, however, Reddit user SmashShock created a workaround that enables touch gaming on an Android phone — no additional app required.
+<a href='https://www.theverge.com/2020/2/24/21150914/google-stadia-touchstadia-android-phone-hack'> Source <a/>
