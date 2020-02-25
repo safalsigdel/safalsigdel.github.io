@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GKv8mMjdBCiM4UhRyCXva_1f4vM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66366771/849880126.jpg.0.jpg' width='700px' /><br/>
+Billionaire Warren Buffett is finally the proud owner of a smartphone. The 89-year-old business magnate, who just so happens to own 5.6 percent of Apple's stock, told CNBC that he recently upgraded from his Samsung Haven flip phone to an iPhone 11.
+<a href='https://www.theverge.com/2020/2/24/21151414/warren-buffet-apple-iphone-flip-phone-upgrade-change-gone'> Source <a/>

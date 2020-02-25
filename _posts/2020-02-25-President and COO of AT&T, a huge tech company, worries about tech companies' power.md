@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GdO-wPgQYb5X7ac3XaqlOMjorKI=/0x0:5142x3428/1200x800/filters:focal(1755x989:2577x1811)/cdn.vox-cdn.com/uploads/chorus_image/image/66364523/610932606.jpg.0.jpg' width='700px' /><br/>
+John Stankey, president and COO of AT&T, a mega-corporation forged from multiple big acquisitions, is worried about tech companies' power. In an interview with Yahoo Finance's Influencers with Andy Serwer, Stankey said he's “really concerned about the concentration of economic power” in big tech companies and how they approach their “platforms' influence on society.”
+<a href='https://www.theverge.com/2020/2/24/21150638/john-stankey-facebook-att-monopoly-media-power'> Source <a/>

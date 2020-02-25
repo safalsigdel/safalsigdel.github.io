@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q6SHf8YcjQSKW84K_iTrDXntb7Q=/0x0:3200x2133/1200x800/filters:focal(1344x811:1856x1323)/cdn.vox-cdn.com/uploads/chorus_image/image/66366727/creditkarma.0.jpg' width='700px' /><br/>
+Intuit has reached a deal to acquire Credit Karma, a company known for offering free credit score checks. The acquisition gives Intuit — which owns TurboTax, Quickbooks, and Mint — another set of consumer-oriented financial products. It also knocks out a potentially serious competitor: Credit Karma has been offering free tax filing services since 2017, possibly taking away customers from TurboTax.
+<a href='https://www.theverge.com/2020/2/24/21150609/turbo-tax-credit-karma-intuit-purchase-competitor-credit-checks'> Source <a/>
