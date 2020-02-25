@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PtVS57BFPVYmcjQAH1KDdjeYVGo=/0x0:680x453/1200x800/filters:focal(286x173:394x281)/cdn.vox-cdn.com/uploads/chorus_image/image/66373386/AirBands_AirPod_Apple_Watch_Band.0.jpg' width='700px' /><br/>
+If you have a habit of misplacing your AirPods, this new Kickstarter campaign might have the answer: stick them on your Apple Watch band.
+<a href='https://www.theverge.com/2020/2/25/21152971/airpod-apple-watch-band-holder-airband-kickstarter'> Source <a/>
