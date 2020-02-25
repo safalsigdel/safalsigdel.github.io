@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HXsyXkb3Mz3_CvnKF4FZLzuamQA=/0x0:1503x1002/1200x800/filters:focal(632x381:872x621)/cdn.vox-cdn.com/uploads/chorus_image/image/66365190/honor_view_30.0.jpg' width='700px' /><br/>
-Honor has announced that its first 5G phone, the Honor View 30 Pro, will be launching worldwide during a live stream earlier today. Powered by a Kirin 990 5G chipset, the phone has a 6.7-inch 1080p display with a hole-punch selfie camera and a 4,100mAh battery.
-<a href='https://www.theverge.com/2020/2/24/21151055/honor-9x-pro-release-date-price-camera-google-apps-service-mwc'> Source <a/>
