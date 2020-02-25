@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JK16GkvdTMY6pOUqX6x66tysF40=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66371166/akrales_190507_3407_0017.0.jpg' width='700px' /><br/>
+Today at Amazon, you can find several gaming accessories for less than they usually cost. There are a few devices that are worth calling out, one of which is Asus' 24-inch G-Sync-compatible monitor. This 1080p monitor (TN panel, model VG248QG) has a 0.5-second response time, and supports up to a 165Hz refresh rate. Normally around $270, it's $190 right now.
+<a href='https://www.theverge.com/good-deals/2020/2/25/21152546/logitech-g502-lightspeed-asus-gsync-compatible-monitor-ring-doorbell-pro-sale-deal-amazon'> Source <a/>
