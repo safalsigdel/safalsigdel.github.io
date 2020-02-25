@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8eEnJrKEAeTlbXGH6u574O9TvG8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66366987/1201955861.jpg.0.jpg' width='700px' /><br/>
-Uber inked a deal to place ads on the roof of some of its vehicles, in a move that will likely generate some new revenue for the notorious cash-burning company and comparisons to Uber's original adversary, the old-school taxi industry.
-<a href='https://www.theverge.com/2020/2/24/21151534/uber-ads-advertising-roof-car-adomni'> Source <a/>

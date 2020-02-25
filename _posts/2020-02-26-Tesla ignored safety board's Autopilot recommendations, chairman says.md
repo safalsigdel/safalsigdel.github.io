@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2CH_bbC9eP6uIhe_n6zdTFiOdxU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66372729/akrales_170414__1610_0497.0.jpg' width='700px' /><br/>
+Tesla ignored safety recommendations made by the National Transportation Safety Board (NTSB) about its Autopilot driver assistance system, the board's chairman Robert Sumwalt said on Tuesday.
+<a href='https://www.theverge.com/2020/2/25/21152984/tesla-autopilot-safety-recommendations-ignored-ntsb-crash-hearing'> Source <a/>
