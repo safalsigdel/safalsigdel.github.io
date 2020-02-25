@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jH89TkX8p_g237CF_wJiFNoKYYU=/0x0:6500x4333/1200x800/filters:focal(2730x1647:3770x2687)/cdn.vox-cdn.com/uploads/chorus_image/image/66370732/1197535098.jpg.0.jpg' width='700px' /><br/>
+Uber and Lyft have weathered criticism about pollution and traffic congestion for years, but it's been difficult to get an exact gauge about how much ride-hailing contributes to daily emissions. A new study released today claims to have a more precise answer to this question.
+<a href='https://www.theverge.com/2020/2/25/21152512/uber-lyft-climate-change-emissions-pollution-ucs-study'> Source <a/>
