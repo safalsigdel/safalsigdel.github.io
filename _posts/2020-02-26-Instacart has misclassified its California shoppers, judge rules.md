@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-7srU8PiI6JGYvWxLJQFTnRjqPM=/0x0:5540x3632/1200x800/filters:focal(2327x1373:3213x2259)/cdn.vox-cdn.com/uploads/chorus_image/image/66372596/1187901685.jpg.0.jpg' width='700px' /><br/>
-A San Diego judge ruled last week that Instacart has been misclassifying its California-based shoppers by calling them independent contractors, reports NBC News. It's an important milestone following the signing of Assembly Bill 5 (AB5), a California law that makes it more difficult for companies to define workers as contractors as a way to avoid providing health insurance and other workplace benefits.
-<a href='https://www.theverge.com/2020/2/25/21152831/instacart-california-shoppers-misclassified-ruling-ab5-gig-workers'> Source <a/>
