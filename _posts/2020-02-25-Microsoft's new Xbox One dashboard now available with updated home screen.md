@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/r9wc6U-EMMFOb0OfhDtdL-lBOZ4=/0x0:2400x1611/1200x800/filters:focal(1008x614:1392x998)/cdn.vox-cdn.com/uploads/chorus_image/image/66369402/twarren_xboxonedashboardupdate.0.jpg' width='700px' /><br/>
+Microsoft is rolling out its new Xbox One dashboard design to all consoles this week. The new design focuses on overhauling the home page of the Xbox One dashboard, with frequently used games and apps available immediately. The new Home design also includes the ability to add or remove rows to customize it further, and quick access to Xbox Game Pass, Mixer, and the Microsoft Store.
+<a href='https://www.theverge.com/2020/2/25/21152327/microsoft-xbox-one-dashboard-update-design-home-screen-features'> Source <a/>
