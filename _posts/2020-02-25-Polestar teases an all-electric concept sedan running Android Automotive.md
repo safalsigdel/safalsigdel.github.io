@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8wGq6Rcr9UoFbTNPA-Hjx8_JNV0=/0x0:2040x1142/1200x800/filters:focal(640x551:966x877)/cdn.vox-cdn.com/uploads/chorus_image/image/66369503/Polestar_Precept_001.0.jpg' width='700px' /><br/>
+Volvo's performance sub-brand Polestar is bringing a striking electric concept car to this year's Geneva Motor Show. Instead of focusing on flashy performance specs, though, the company is talking up two different topics: the use of sustainable materials throughout the car, and a deeper integration with Google's new Android Automotive operating system.
+<a href='https://www.theverge.com/2020/2/25/21151592/polestar-precept-concept-electric-car-2020-geneva-motor-show'> Source <a/>
