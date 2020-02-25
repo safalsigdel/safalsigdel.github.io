@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9xPtSG4fAe27JxykYomzsdxSAhE=/0x0:1300x642/1200x800/filters:focal(540x273:748x481)/cdn.vox-cdn.com/uploads/chorus_image/image/66369784/Bird_Pay.0.png' width='700px' /><br/>
+Bird, the electric scooter company, is testing a new in-app purchase capability. It's a move that's meant to appease local business owners plagued by hoards of scooters dumped in front of their stores. The idea is to somehow coax more Bird riders into shops where they can buy chips and soda at the beginning or end of their rides. According to Bird, 58 percent of Bird rides either start or finish in front of local businesses.
+<a href='https://www.theverge.com/2020/2/25/21152362/bird-pay-cashless-payments-scooter-app'> Source <a/>
