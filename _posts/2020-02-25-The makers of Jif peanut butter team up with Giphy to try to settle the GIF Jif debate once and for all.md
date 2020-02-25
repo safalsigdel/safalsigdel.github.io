@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+In another twist in the long-running debate about how to pronounce “GIF,” Jif peanut butter wants to make the case that it owns the soft “g” pronunciation while GIF should be said with a hard “g.”
+<a href='https://www.theverge.com/tldr/2020/2/25/21147389/jif-peanut-butter-giphy-settle-gif-pronunciation-debate'> Source <a/>
