@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5ZvDVEFh4X1WY7a0bB6mZVehjP0=/0x0:1199x790/1200x800/filters:focal(505x300:695x490)/cdn.vox-cdn.com/uploads/chorus_image/image/66369263/ERml84SX0AAYDs7.0.jpeg' width='700px' /><br/>
-Oppo has announced that its next flagship phone, the Find X2, is coming next week. The company had planned to reveal the device at Mobile World Congress 2020 in Barcelona, but following the conference's cancellation has now decided to conduct the unveiling online next Friday, March 6th.
-<a href='https://www.theverge.com/2020/2/25/21152280/oppo-find-x2-announcement-date-screen-specs'> Source <a/>

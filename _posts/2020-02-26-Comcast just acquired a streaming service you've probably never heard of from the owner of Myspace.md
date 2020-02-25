@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aJhPhRPquWktez49QFs7vPG2rmk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66372828/acastro_180525_1777_comcast_0001.0.jpg' width='700px' /><br/>
+Waging battle in the ongoing streaming wars means spending a lot of money to gain even a slight edge over the competition, sometimes even on services and products most everyday TV watchers have never heard of. For instance, Comcast announced on Tuesday that it's acquired Xumo, an over-the-top streaming service with a paid and ad-supported free tier for both live and on-demand programming.
+<a href='https://www.theverge.com/2020/2/25/21153029/comcast-xumo-acquisition-streaming-wars-tv-film-viant-myspace'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5dYNywydzMxQEZNcUc24-nNm0j4=/0x0:4096x2560/1200x0/filters:focal(0x0:4096x2560):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19744339/HOW_TO_IG_PANO_new_doc.png' width='700px' /><br/>
+It's already been a few years since Instagram allowed you to post multiple photos simultaneously in a single post. This small change enabled a lot of creative options. One of my favorites is creating seamless panoramas by simply slicing your photo in two — like this one.
+<a href='https://www.theverge.com/2020/2/25/21152029/instagram-panorama-how-to-make-feed-photos-dimensions'> Source <a/>
