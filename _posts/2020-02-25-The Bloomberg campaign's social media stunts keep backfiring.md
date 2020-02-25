@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/r7vTlyVmxvca-g0syy8B6y8yYyY=/0x0:5136x3613/1200x800/filters:focal(3719x2755:4539x3575)/cdn.vox-cdn.com/uploads/chorus_image/image/66369470/1201979984.jpg.0.jpg' width='700px' /><br/>
+What I really want to talk about today is Steven Levy's massive Facebook: The Inside Story, which I finished reading over the weekend. But we'll do that tomorrow, when the book comes out — and I'm excited to share that Steven has agreed to answer a few questions for us right here in this space.
+<a href='https://www.theverge.com/interface/2020/2/25/21150988/bloomberg-social-network-stunts-backfiring-twitter-video-paid-influencers'> Source <a/>
