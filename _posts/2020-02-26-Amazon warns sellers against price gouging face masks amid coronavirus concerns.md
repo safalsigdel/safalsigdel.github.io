@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iHPi1Cb9n5K7EVJ48plcay5kCIw=/0x0:6000x4000/1200x800/filters:focal(2425x517:3385x1477)/cdn.vox-cdn.com/uploads/chorus_image/image/66373271/1208574066.jpg.0.jpg' width='700px' /><br/>
+Amazon is warning third-party sellers on its Marketplace platform against exorbitant price hikes to face masks amid the coronavirus outbreak that continues to expand across the globe, Wired reports.
+<a href='https://www.theverge.com/2020/2/25/21153158/amazon-coronavirus-face-masks-price-gouging-increase-third-party-sellers'> Source <a/>
