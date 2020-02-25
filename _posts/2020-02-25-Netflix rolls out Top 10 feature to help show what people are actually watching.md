@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IlEdM0VvKNMVOmliRX6lrfTSo0U=/0x0:6016x4016/1200x800/filters:focal(2527x1527:3489x2489)/cdn.vox-cdn.com/uploads/chorus_image/image/66365589/Witcher_103_Unit_02274_RT.0.jpg' width='700px' /><br/>
-Netflix is trying to make it easier for subscribers to keep up with what people around the country are watching by introducing a Top 10 row to its homepage.
-<a href='https://www.theverge.com/2020/2/24/21151327/netflix-top-10-list-homepage-subscribers-originals-licensed-movies-tv-shows'> Source <a/>
