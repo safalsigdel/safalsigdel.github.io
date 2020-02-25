@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dinCZooUALaDDKAxos8tgO3wkZs=/0x0:4000x2523/1200x800/filters:focal(1680x942:2320x1582)/cdn.vox-cdn.com/uploads/chorus_image/image/66371456/1155294584.jpg.0.jpg' width='700px' /><br/>
+One of the burning questions facing self-driving carmakers is whether it makes sense to go all-electric. Some companies, like GM-owned Cruise, are all in on battery-electric vehicles, seeing both self-driving and all-electric as the future. Others are keeping one foot in the present, like how Waymo is building a fleet that includes both all-electric Jaguar I-Pace SUVs and gas-burning Chrysler Pacifica minivans.
+<a href='https://www.theverge.com/2020/2/25/21147747/argo-ai-ceo-bryan-salesky-self-dring-cars-ev-vergecast-interview'> Source <a/>

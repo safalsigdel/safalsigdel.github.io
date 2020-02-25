@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Tf2RYHVprNwnQdTkioW8_sa_WK4=/0x0:4100x3141/1200x800/filters:focal(1722x1243:2378x1899)/cdn.vox-cdn.com/uploads/chorus_image/image/66371581/1207531968.jpg.0.jpg' width='700px' /><br/>
+Seven candidates qualified for Tuesday's Democratic debate in Charleston, South Carolina ahead of the state's primary on Saturday. It's their last chance to make their case to voters before Super Tuesday, the day where 16 states and territories open their primary polls to choose the Democratic party's nominee for president.
+<a href='https://www.theverge.com/2020/2/25/21152526/democratic-debate-watch-live-stream-how-to-start-time-candidates-super-tuesday'> Source <a/>
