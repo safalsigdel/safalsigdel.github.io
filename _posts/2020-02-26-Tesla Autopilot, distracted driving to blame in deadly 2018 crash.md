@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9G3SaJgx4-pQqrDHs2AR43YsM2U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66373495/acastro_180430_1777_tesla_0002.0.jpg' width='700px' /><br/>
+The National Transportation Safety Board said Tuesday that Tesla's Autopilot driver assistance system was one of the probable causes of a fatal 2018 crash into a concrete barrier. In addition, the safety board said the driver was playing a mobile game while using Autopilot before the crash, and investigators also determined he was overly confident in Autopilot's capabilities.
+<a href='https://www.theverge.com/2020/2/25/21153320/tesla-autopilot-walter-huang-death-ntsb-probable-cause'> Source <a/>
