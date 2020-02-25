@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ik0hjDBB-8KaFOFZrv1puQzlM0I=/0x0:2040x1360/1200x800/filters:focal(930x527:1256x853)/cdn.vox-cdn.com/uploads/chorus_image/image/66369291/cfaulkner_170220_3898_0014.0.jpg' width='700px' /><br/>
+Ultimate Ears' Bluetooth speakers are great in most situations, but not for big parties. Its new HyperBoom promises to be. It's a tall, rectangular, 360-degree speaker that's powerful enough to fill a room with loud, clear sound, and heavy enough to necessitate a handle to carry it around.
+<a href='https://www.theverge.com/2020/2/25/21142365/ultimate-ears-ue-hyperboom-party-bluetooth-speaker-price-features'> Source <a/>
