@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Knives Out and The Last Jedi director Rian Johnson has said that Apple won't let the bad guys in movies use iPhones. “Apple... they let you use iPhones in movies but — and this is very pivotal if you're ever watching a mystery movie — bad guys cannot have iPhones on camera,” the director said in a video interview with Vanity Fair.
+<a href='https://www.theverge.com/tldr/2020/2/26/21154151/apple-bad-guys-movies-iphones-product-placement'> Source <a/>
