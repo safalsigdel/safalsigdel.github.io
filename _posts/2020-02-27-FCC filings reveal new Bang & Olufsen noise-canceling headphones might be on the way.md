@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xs-qfMzB8CiP4EUSSSYgHE5ahWc=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/66378985/jbareham_180109_2237_0002.0.jpg' width='700px' /><br/>
+Recent Federal Communications Commission filings reveal that new over-ear true wireless headphones from Bang & Olufsen's B&O Play might be on the way. The filings are for a model called the Beoplay H95, so perhaps they will be an update to the Beoplay H9 line of over-ear noise-canceling headphones.
+<a href='https://www.theverge.com/2020/2/26/21154546/fcc-filings-reveal-new-bang-olufsen-headphones-beoplay-h95-design'> Source <a/>

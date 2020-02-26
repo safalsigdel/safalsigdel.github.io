@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-m_lp9XtXhZSI9w9FGqxLamcyns=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66378981/acastro_181016_1777_music_0001.0.jpg' width='700px' /><br/>
+The annual year end report from the RIAA (Recording Industry Association of America) has been released, revealing that paid subscriptions to on-demand streaming services jumped a whopping 25 percent over the past year. That's especially noteworthy considering the report also says that streaming consumption increased incrementally in comparison, from 75 percent to 79 percent over the past year.
+<a href='https://www.theverge.com/2020/2/26/21154504/riaa-report-paid-subscriptions-93-percent-streaming-revenue-growth-2019'> Source <a/>

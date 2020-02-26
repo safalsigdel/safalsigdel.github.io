@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wqTsJpP-tZszT4_WujxFZdUeUnU=/0x0:3000x1983/1200x800/filters:focal(1397x769:1877x1249)/cdn.vox-cdn.com/uploads/chorus_image/image/66373912/building_16.0.0.jpg' width='700px' /><br/>
-The Smithsonian Institution is releasing 2.8 million high-res images from its massive collection into the public domain, putting them online for anyone to use and download for free. The open-access online platform will include 2D and 3D images from its 19 museums, nine research centers, archives, libraries, and the National Zoo, Smithsonian Magazine reports.
-<a href='https://www.theverge.com/2020/2/25/21153208/smithsonian-institution-museums-free-images-libraries-dc'> Source <a/>

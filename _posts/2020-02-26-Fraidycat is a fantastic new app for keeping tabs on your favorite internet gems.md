@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Keeping up to speed with the galactic firehouse of daily internet detritus that gets blasted at our eyeballs every minute of every day can be a taxing endeavor. It often involves using RSS readers, Twitter lists, YouTube and Twitch channel notifications, and all-too-frequent email inbox refreshing, among dozens of other methods for staying on top of your favorite internet oddities and sifting through all the junk to find them.
-<a href='https://www.theverge.com/tldr/2020/2/25/21153460/fraidycat-app-extension-internet-reader-rss-news-blogs-youtube'> Source <a/>
