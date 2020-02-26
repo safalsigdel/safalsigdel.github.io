@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qE81afpjliyoePIBiuFNaqc0u74=/0x0:1920x1080/1200x800/filters:focal(1090x89:1396x395)/cdn.vox-cdn.com/uploads/chorus_image/image/66379990/destiny_shadowkeep_3.0.png' width='700px' /><br/>
+Destiny 2 is the latest game to abandon paid loot boxes, with director Luke Smith announcing in a new “Director's Cut” state of the game update that “we want players to know what something costs before they buy it.”
+<a href='https://www.theverge.com/2020/2/26/21154809/destiny-2-paid-cosmetic-loot-boxes-fortnite-style-season-battle-pass-ending'> Source <a/>
