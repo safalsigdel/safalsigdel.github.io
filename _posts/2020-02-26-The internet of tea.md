@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KeIi91i1-ieTGUamFAQ4xqU2rjI=/0x0:1958x1306/1200x800/filters:focal(960x456:1272x768)/cdn.vox-cdn.com/uploads/chorus_image/image/66372824/1200782078.jpg.0.jpg' width='700px' /><br/>
-The internet is a place where everyone meets everyone else. It is the site of a billion different micro- and macro-cultures; it is a space where you can find out anything you want, provided humans have come up with it; it is a weirdly temporary repository of our species's history, which will end when the server lights finally wink off.
-<a href='https://www.theverge.com/2020/2/25/21152743/yorkshire-tea-rishi-sunak-boris-johnson-brexit-twitter-social-media'> Source <a/>
