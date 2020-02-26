@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ja7tgcbAF2lA0YseMZdpZOGguu0=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/66378717/verge-2015-09-29_11-01-54.0.0.jpg' width='700px' /><br/>
+Google has announced its 2020 expansion plans, which will build its footprint in 11 US states. The company has pledged to invest “more than $10 billion” in offices and data centers in California, Colorado, Georgia, Massachusetts, Nebraska, New York, Ohio, Oklahoma, Pennsylvania, Texas, and Washington.
+<a href='https://www.theverge.com/2020/2/26/21154358/google-10-billion-offices-data-centers-investment-sundar-pichai'> Source <a/>
