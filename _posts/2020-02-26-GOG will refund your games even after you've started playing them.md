@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/twd0satfq68LyRvhGu2qRKp_7Vw=/0x0:1600x740/1200x800/filters:focal(672x242:928x498)/cdn.vox-cdn.com/uploads/chorus_image/image/66377773/844bac20026bcb6faf3d308fe9ad38365b3df6d1b5c4b74d0db309b426c997c5.0.jpg' width='700px' /><br/>
+Digital games store Good Old Games has updated its refund policy to offer refunds within 30 days of purchasing a game, regardless of whether you've downloaded and played it within that timeframe. Previously, the store considered your purchase final once you downloaded your game, after which point, you could only get a refund if the game had technical issues.
+<a href='https://www.theverge.com/2020/2/26/21154402/good-old-games-refund-policy-30-days-download-played-blanket-policy'> Source <a/>

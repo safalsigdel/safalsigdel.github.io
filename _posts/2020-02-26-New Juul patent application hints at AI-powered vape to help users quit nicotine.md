@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K-I5pUyjDTqfjv6ZMxSRjJciltU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66372297/acastro_190916_1777_juul_0002.0.0.jpg' width='700px' /><br/>
-Juul has applied for a patent regarding a device, supposedly powered by artificial intelligence, that the company says could help users quit nicotine by restricting daily consumption and gradually weaning them off the product. The e-cigarette company applied for the patent last summer, and the application was recently made public, according to The Logic.
-<a href='https://www.theverge.com/2020/2/25/21152436/juul-patent-e-cigarettes-vaping-ai-smartphone-quit-nicotine'> Source <a/>
