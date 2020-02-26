@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7VEmggIt9tVqbYjqofl-SGrrz3Y=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66373583/acastro_180509_1777_steam_0001.0.0.jpg' width='700px' /><br/>
-Valve is adding new features to its Steam storefront's search system, letting users filter out games they already own, set a maximum price, and avoid seeing VR-only games if they don't have a virtual reality headset. The updates are part of its ongoing Steam Labs experiments, and they're a small but potentially positive tweak to the gaming storefront.
-<a href='https://www.theverge.com/2020/2/25/21153257/steam-labs-new-search-features-tag-filter-price-vr'> Source <a/>
