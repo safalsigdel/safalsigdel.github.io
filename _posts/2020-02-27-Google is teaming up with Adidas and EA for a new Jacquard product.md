@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0-uACftvyhK9HtoT7GkSycqPMvU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66380890/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google, EA Sports' FIFA Mobile brand, and Adidas' soccer arm are teasing some kind of collaboration involving Google's touch-sensitive fabric, which is made under the Jacquard name (via 9to5Google).
+<a href='https://www.theverge.com/2020/2/26/21155100/google-ea-sports-adidas-teasing-collaboration-jacquard-fifa-mobile'> Source <a/>

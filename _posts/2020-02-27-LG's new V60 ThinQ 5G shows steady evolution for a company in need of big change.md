@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SkxgDSb_DbKJq8bhjPmPEUXobHM=/0x0:2040x1360/1200x675/filters:focal(918x520:1244x846)/cdn.vox-cdn.com/uploads/chorus_image/image/66377135/cwelch_200218_3910_0011.0.jpg' width='700px' /><br/>
-As Microsoft's Surface Duo slowly approaches for release later this year, LG is getting out in front with its third dual-screen smartphone. The trick to LG's approach, if you're unfamiliar, is the second display is part of a case that can be separated from the main phone whenever you don't want the added weight or bulk.
-<a href='https://www.theverge.com/2020/2/26/21144177/lg-v60-thinq-5g-announced-camera-price-specs-dual-screen'> Source <a/>
