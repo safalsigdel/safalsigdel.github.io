@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Watches have gotten pretty complicated. Between ultra-fancy mechanical watches and software-laden smartwatches, the things we wear on our wrists have become more intricate than ever. But the Solid State Watch, an art project from design studio CW&T, which is currently looking for funding on Kickstarter, is an ultra-minimalist tribute to simpler days (specifically, the classic Casio F91W-1 digital watch.)
-<a href='https://www.theverge.com/circuitbreaker/2020/2/25/21152419/cwt-solid-state-watch-time-digital-casio-f91w-1-kickstarter-battery'> Source <a/>
