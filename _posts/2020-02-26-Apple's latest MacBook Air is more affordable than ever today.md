@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Apple's 2019 MacBook Air is no stranger to seeing a discount here and there, but today's deal is a rarity. The upgraded model with a 256GB SSD usually costs $1,299, but Amazon has lopped $300 off the cost for a final price of $999.
+<a href='https://www.theverge.com/good-deals/2020/2/26/21154343/apple-macbook-air-2019-256gb-deal-sale-discount-amazon'> Source <a/>

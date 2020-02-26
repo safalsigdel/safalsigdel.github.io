@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mDra9xBEZzJbk92WYtxyMgKF8wI=/0x0:4200x2800/1200x800/filters:focal(1764x1064:2436x1736)/cdn.vox-cdn.com/uploads/chorus_image/image/66377854/1208793994.jpg.0.jpg' width='700px' /><br/>
+Pope Francis has urged Catholics to disconnect from their phones and TVs during Lent, lamenting a modern society “inundated with empty words” where people “insult each other as if they were saying ‘Good Day.'”
+<a href='https://www.theverge.com/2020/2/26/21154340/pope-francis-ash-wednesday-lent-speech-internet-insults-phones'> Source <a/>
