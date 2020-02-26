@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M0U444t0_YqHll8jj7kIuIOoicg=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/66380097/xboxseriesx.0.jpg' width='700px' /><br/>
+Microsoft revealed a number of new specs for its next-gen Xbox Series X game console earlier this week, but the company is dropping fresh hints about features today. In a new podcast, Microsoft's Larry Hryb reveals that the new quick resume for multiple games will also let Xbox Series X owners resume games after the console has rebooted.
+<a href='https://www.theverge.com/2020/2/26/21154897/microsoft-xbox-series-x-resume-games-reboot-features-ray-tracing-audio'> Source <a/>
