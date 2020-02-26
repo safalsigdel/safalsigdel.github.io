@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BtQsuOvB7BqtEaJJevtNcjUiKU0=/0x0:2269x1513/1200x800/filters:focal(954x576:1316x938)/cdn.vox-cdn.com/uploads/chorus_image/image/66370056/Waitlist_Large_Party_and_Seats.0.jpg' width='700px' /><br/>
-Yelp introduced its Waitlist feature four years ago, but the company keeps adding new add functionality to try to make it more appealing. Today, Yelp is announcing that parties of seven or more can now join the waitlist at participating restaurants, and that people can begin their searches with however many people they plan on joining the meal, rather than having to update it after they've already picked a restaurant.
-<a href='https://www.theverge.com/2020/2/25/21151595/yelp-waitlist-feature-support-notification-update'> Source <a/>

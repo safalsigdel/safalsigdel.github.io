@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OyjHPpG9tupHWeZzyIrTTIMuaC0=/0x0:2720x1322/1200x800/filters:focal(1143x444:1577x878)/cdn.vox-cdn.com/uploads/chorus_image/image/66375289/Photo1.0.png' width='700px' /><br/>
+Pony.ai, a self-driving startup based in Silicon Valley and Guangzhou, China, is deepening its ties to Toyota. The two companies announced a pilot program to test self-driving cars on public roads in two Chinese cities, Beijing and Shanghai. The Japanese auto giant plans to invest $400 million in Pony.ai, valuing the startup at $3 billion.
+<a href='https://www.theverge.com/2020/2/25/21152817/toyota-pony-ai-self-driving-car-investment-valuation-china-silicon-valley'> Source <a/>
