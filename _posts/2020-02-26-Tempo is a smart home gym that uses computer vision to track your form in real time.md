@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UsKAgkTNKZEcE-I84iyE3ZdTWXo=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/66377186/02_Tempo_Bedroom.0.png' width='700px' /><br/>
+It's no secret that the Peloton boom is in full effect, with connected fitness equipment ranging from smart bikes to treadmills, rowing machines, boxing bags, and weight training stations. While they all feature some kind of streamable fitness class that you can watch from the device as you work out, one thing they're all missing is the ability to tell you if you're doing the exercise properly.
+<a href='https://www.theverge.com/2020/2/26/21154185/tempo-smart-home-gym-kinect-computer-vision-ai-form-correction'> Source <a/>

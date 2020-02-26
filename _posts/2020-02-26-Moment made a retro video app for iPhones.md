@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Arfo5_v0VgV-UH9e7mQzoj4wevc=/0x0:4096x2296/1200x800/filters:focal(1891x718:2545x1372)/cdn.vox-cdn.com/uploads/chorus_image/image/66371561/RTRO_Image_5.0.jpg' width='700px' /><br/>
-Moment is launching a new iPhone app today that lets you record video, cover it in a retro filter, and send it off to your stories on Instagram, Snapchat, or wherever else, giving it a look that'll theoretically stand out a little bit from the crowd.
-<a href='https://www.theverge.com/2020/2/25/21147761/moment-rtro-video-app-retro-filters-stories-ios-iphone'> Source <a/>
