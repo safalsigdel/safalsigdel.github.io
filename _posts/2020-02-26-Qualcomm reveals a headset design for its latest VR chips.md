@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kJjjcLFlYvgSefT1oHjjsJQ0rFU=/0x0:1800x1125/1200x800/filters:focal(571x482:859x770)/cdn.vox-cdn.com/uploads/chorus_image/image/66372079/Protoype_ID_XR2_5G_Reference_Design.0.jpg' width='700px' /><br/>
-Qualcomm has revealed a reference design for its new virtual and augmented reality platform. The headset offers a rough guide for building with the Snapdragon XR2 — a 5G-enabled chipset designed for VR/AR hardware.
-<a href='https://www.theverge.com/2020/2/25/21147912/qualcomm-snapdragon-xr2-vr-ar-xr-platform-reference-design-announcement'> Source <a/>
