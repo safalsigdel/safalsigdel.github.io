@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p0V6Gvk7sQ4vXemUvX9HQE5LFK8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66371075/akrales_180620_1777_0289.0.jpg' width='700px' /><br/>
-The beauty of Twitter is that every message is constrained to 280 characters and under, but sometimes you simply can't get all your thoughts across in just a single tweet. Or perhaps you're following a live news story and you need to follow the thread to read the news as it develops so there's context for what happened earlier.
-<a href='https://www.theverge.com/2020/2/25/21152579/twitter-thread-easier-full-text-reading-unroll-how-to'> Source <a/>

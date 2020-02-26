@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XQalsyKlOCS15Jc-td-QwlI4RzI=/0x0:2040x1360/1200x800/filters:focal(968x523:1294x849)/cdn.vox-cdn.com/uploads/chorus_image/image/66370768/verge-2017-07-12_13-10-39.0.0.jpg' width='700px' /><br/>
-A “scheduled storage server software update that didn't go as intended” caused a 17-hour outage for Nest cameras, according to parent company Google. The outage affected the Nest Cam, its indoor and outdoor Nest Cam IQ cameras, Nest Hello Doorbell and the Nest Hub Max display, 9to5Google reports.
-<a href='https://www.theverge.com/2020/2/25/21152534/nest-cameras-outage-google-security'> Source <a/>

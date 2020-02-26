@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8w_utsyTsdMf660mxrsbDXCWK3E=/0x0:1460x821/1200x800/filters:focal(614x295:846x527)/cdn.vox-cdn.com/uploads/chorus_image/image/66376265/brave_lCit4VijLK.0.png' width='700px' /><br/>
+The Brave web browser can now automatically detect when a webpage is unavailable and will offer to search the Wayback Machine for a backup, the Internet Archive has announced. Although the 404 error code is the most well known, the announcement notes that the feature also works for 408, 410, 451, 500, 502, 503, 504, 509, 520, 521, 523, 524, 525, and 526 errors.
+<a href='https://www.theverge.com/2020/2/26/21154096/brave-browser-wayback-machine-404-internet-archive-lost-pages'> Source <a/>
