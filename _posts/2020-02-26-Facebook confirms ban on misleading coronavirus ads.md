@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZMAgDppcXfyl7N-CEz_ag4Uwkhc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66376118/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook is banning ads that promise to cure, prevent, or otherwise incite panic around COVID-19, the disease caused by the new coronavirus, the company has confirmed in a statement given to Business Insider. The company added that it has similar policies for its Marketplace platform where Facebook users can buy and sell items.
+<a href='https://www.theverge.com/2020/2/26/21154069/facebook-coronavirus-advertising-ban-misinformation-sense-of-urgency'> Source <a/>
