@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yGppMyeqgMx5YYyNPHOJjG5xVqY=/0x0:5196x3464/1200x800/filters:focal(2183x1317:3013x2147)/cdn.vox-cdn.com/uploads/chorus_image/image/66379893/1179635788.jpg.0.jpg' width='700px' /><br/>
+Every year, companies that operate self-driving cars in California are required to submit data to the state's Department of Motor Vehicles listing the number of miles driven and the frequency at which human safety drivers were forced to take control of their autonomous vehicles (also known as a “disengagement”). And every year, those same companies raise a huge stink about it.
+<a href='https://www.theverge.com/2020/2/26/21142685/california-dmv-self-driving-car-disengagement-report-data'> Source <a/>

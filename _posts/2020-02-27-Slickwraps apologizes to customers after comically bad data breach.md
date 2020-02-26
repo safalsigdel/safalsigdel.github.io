@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BwlWF3axwxMTyw57YlLxX31N66A=/470x126:1933x1101/1200x800/filters:focal(841x425:1161x745)/cdn.vox-cdn.com/uploads/chorus_image/image/66374985/Screen_Shot_2020_02_25_at_3.58.56_PM.0.png' width='700px' /><br/>
-Slickwraps, which makes vinyl skins for phones, tablets, and other electronics, announced last week that it suffered a data breach. The announcement came after many customers received an email from Slickwraps that appeared to be sent by a hacker claiming to have stolen customer data.
-<a href='https://www.theverge.com/2020/2/25/21153434/slickwraps-apologizes-customers-bad-data-breach'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ulooWh0wVUsX06x6KNwU6yrE9eQ=/0x0:2040x1147/1200x675/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/66375783/DSCF5496.0.jpg' width='700px' /><br/>
-This is the camera that Fujifilm fans have been waiting for. Today, the company is announcing the X-T4, its latest flagship mirrorless camera. It looks very similar to the X-T3 introduced in 2018, but Fujifilm has evolved the hardware in a way that will make the fourth-generation camera an irresistible upgrade for some.
-<a href='https://www.theverge.com/2020/2/26/21151718/fujifilm-xt4-announced-specs-pricing-ibis-stabilization-vlogging'> Source <a/>
