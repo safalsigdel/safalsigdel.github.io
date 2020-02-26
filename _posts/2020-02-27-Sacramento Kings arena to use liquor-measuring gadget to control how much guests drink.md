@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1u1WbRLJ77IQjvu0VQ4fffRy5tY=/0x0:1800x1200/1200x800/filters:focal(844x541:1132x829)/cdn.vox-cdn.com/uploads/chorus_image/image/66380429/nina_drink_measurer3.0.jpg' width='700px' /><br/>
+The Sacramento Kings arena will let guests in its suite and loft areas make their own drinks at the Golden 1 Center using an internet-connected gadget affixed to the top of liquor bottles to monitor how much alcohol is being poured.
+<a href='https://www.theverge.com/2020/2/26/21154733/sacramento-kings-drinking-sports-nina-liquor-measuring-limit'> Source <a/>
