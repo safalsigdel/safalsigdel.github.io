@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iaOPeSki7HtZ2pJP_eNxmEmHD_8=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/66378849/1061310952.jpg.0.jpg' width='700px' /><br/>
-The National Highway Traffic Safety Administration (NHTSA) has partially suspended the US operations of France's EasyMile after a passenger in Ohio was injured while riding in one of the company's self-driving shuttles. EasyMile can continue operating its shuttles while NHTSA investigates, but the company can't carry any passengers.
-<a href='https://www.theverge.com/2020/2/26/21154532/easymile-columbus-ohio-nhtsa-suspension-injury'> Source <a/>
