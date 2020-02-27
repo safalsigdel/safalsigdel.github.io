@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h7aK_CWmb19T5gvQooeaPqynqsk=/0x0:3700x2467/1200x800/filters:focal(1554x938:2146x1530)/cdn.vox-cdn.com/uploads/chorus_image/image/66377620/1133268636.jpg.0.jpg' width='700px' /><br/>
-Sen. Ron Wyden (D-OR) and eight other senators wrote to the US Department of Agriculture on Wednesday demanding that the agency extend more funding to rural communities for broadband deployment.
-<a href='https://www.theverge.com/2020/2/26/21153910/rural-broadband-usda-reconnect-grants-wyden-fcc-digital-opportunity-fund'> Source <a/>

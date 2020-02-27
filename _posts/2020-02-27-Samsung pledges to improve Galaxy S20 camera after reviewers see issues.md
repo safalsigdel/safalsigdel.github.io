@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1sOs-1BoOIn9DM_bLzFYREpWTt4=/0x0:2040x1360/1200x800/filters:focal(425x465:751x791)/cdn.vox-cdn.com/uploads/chorus_image/image/66381692/dbohn_200206_3899_0016.0.jpg' width='700px' /><br/>
+Samsung has responded to some issues that early reviewers have found with the camera system on the new Galaxy S20 Ultra. The company says it's working on an update to improve the camera, though it doesn't acknowledge any specific problem or confirm when the fixes will be available.
+<a href='https://www.theverge.com/2020/2/26/21155255/samsung-galaxy-s20-camera-issues-update-promised'> Source <a/>
