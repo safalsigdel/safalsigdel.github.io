@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3pxG_kkgpo2ETfm6RoQBSp62DP4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66380334/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
-If you want to get the most out of Instagram, it pays to improve your pictures with a little bit of technical magic before you post them. Serious photographers do this by using digital tools to adjust everything from color balance to sharpness to saturation.
-<a href='https://www.theverge.com/2020/2/26/21154769/instagram-photo-filters-editing-camera-how-to'> Source <a/>
