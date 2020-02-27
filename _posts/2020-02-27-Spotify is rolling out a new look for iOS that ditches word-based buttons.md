@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LbpHy1yO_W4s6Iv4n9ToOcv1A-4=/0x0:2864x1600/1200x800/filters:focal(1203x571:1661x1029)/cdn.vox-cdn.com/uploads/chorus_image/image/66388300/Screen_Shot_2020_02_27_at_10.12.18_AM.0.png' width='700px' /><br/>
+Starting today, Spotify is rolling out a new look to its iPhone app. The changes prioritize universal icons and visual indicators over written words, which Spotify says makes the app a more accessible experience for users all over the world.
+<a href='https://www.theverge.com/2020/2/27/21155933/spotify-new-look-mobile-ios-universal-icons'> Source <a/>
