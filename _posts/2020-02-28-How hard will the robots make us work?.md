@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-zwBgyvV-tdlGm8WAaKhXdCAf48=/0x0:2040x500/1200x0/filters:focal(0x0:2040x500):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19749741/VRG_Automation_pagebreak_2.0.png' width='700px' /><br/>
-On conference stages and at campaign rallies, tech executives and politicians warn of a looming automation crisis — one where workers are gradually, then all at once, replaced by intelligent machines. But their warnings mask the fact that an automation crisis has already arrived. The robots are here, they're working in management, and they're grinding workers into the ground.
-<a href='https://www.theverge.com/2020/2/27/21155254/automation-robots-unemployment-jobs-vs-human-google-amazon'> Source <a/>

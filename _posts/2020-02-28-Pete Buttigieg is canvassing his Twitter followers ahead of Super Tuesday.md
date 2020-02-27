@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6OGhLGxrh-p0VdBhTUM25TtjqDU=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66391249/1203406128.jpg.0.jpg' width='700px' /><br/>
+The Pete Buttigieg campaign is deploying any army of Twitter volunteers to “digitally door-knock” likely supporters ahead of the important Super Tuesday primaries next week, two members of the Buttigieg campaign told The Verge. It's just one way that 2020 presidential campaigns are leveraging social media in new and aggressive ways ahead of the primary contest.
+<a href='https://www.theverge.com/2020/2/27/21156712/pete-buttigieg-twitter-scrape-followers-sanders-bern-app-canvass-super-tuesday'> Source <a/>
