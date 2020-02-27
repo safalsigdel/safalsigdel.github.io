@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/--sbnEFWHXmu_50VMm7CHhX8qWM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66389417/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
+Facebook has canceled the in-person portion of F8, the company's annual developer conference, due to concerns surrounding the spread of the SARS-CoV-2 coronavirus. F8 was originally scheduled to take place on May 5th and May 6th later this year.
+<a href='https://www.theverge.com/2020/2/27/21156308/facebook-f8-developer-conference-cancelled-coronavirus-concern-covid-19'> Source <a/>
