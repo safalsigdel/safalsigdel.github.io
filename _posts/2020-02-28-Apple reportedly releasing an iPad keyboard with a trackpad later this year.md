@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UHubsxOLnTItZN3rXJBZhI4KFyQ=/0x0:2500x1662/1200x800/filters:focal(1050x631:1450x1031)/cdn.vox-cdn.com/uploads/chorus_image/image/66391119/secondangle.0.jpg' width='700px' /><br/>
+Apple is planning to release a new iPad keyboard with a built-in trackpad later this year, according to The Information. The new accessory is likely going to release alongside the next version of the iPad Pro, said The Information's source.
+<a href='https://www.theverge.com/2020/2/27/21156639/apple-ipad-smart-keyboard-trackpad-pro'> Source <a/>
