@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rMFqB9fLj1GaWu4kqIp3_dvbGOU=/0x0:2040x1360/1200x800/filters:focal(848x392:1174x718)/cdn.vox-cdn.com/uploads/chorus_image/image/66381564/etsy4_2040.0.0.jpg' width='700px' /><br/>
-Etsy is going to start automatically advertising its sellers' products and taking a fee — at least 12 percent — for every sale it refers. The ads will appear on “high-traffic sites” like Google, Facebook, and Pinterest, and they'll be a requirement for shops doing more than $10,000 in sales each year. The change means a potentially big disruption for sellers that could lead to higher prices.
-<a href='https://www.theverge.com/2020/2/26/21155193/etsy-advertising-program-angers-sellers-cut-of-sales'> Source <a/>
