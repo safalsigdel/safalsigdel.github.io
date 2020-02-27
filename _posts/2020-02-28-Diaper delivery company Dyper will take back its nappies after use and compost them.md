@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hCCKw_nWpaiMYW-2Bw-z6Pc4DAc=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/66390958/redyper.0.jpg' width='700px' /><br/>
+Dyper wants you to send in your poop — or more precisely, your baby's poop. For those who subscribe to its diaper delivery service, Dyper will take back its compostable diapers once the baby's done their business and handle the composting in its ReDyper program, a partnership with waste management company TerraCycle.
+<a href='https://www.theverge.com/2020/2/27/21155897/diaper-dyper-compost-environment-babies'> Source <a/>
