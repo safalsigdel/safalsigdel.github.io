@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mLLpveGnIuFKAv56pVCCPacW1E8=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66378677/Merc_AMG_GT_C_Coupe.0.jpg' width='700px' /><br/>
-Mercedes-Benz's subscription service just added a new tier consisting of the automaker's high-performance AMG models. Subscribers to this tier will get access to 11 models, including sedans, coupes, roadsters, and SUVs “powered by AMG's signature handcrafted V8 engines,” the company says. Of course, you'll have to pay a significant amount more for these cars than the rest of Mercedes' lineup.
-<a href='https://www.theverge.com/2020/2/26/21154558/mercedes-benz-subscription-service-amg-model-price'> Source <a/>

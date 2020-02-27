@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_oUC20Vz52cuFeMBD_j434OYckE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66387384/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
+Uber has announced two new features that are meant to improve communication between riders and drivers and make pickups less stressful. If this sounds familiar, it's because Uber is constantly tweaking its app and rolling out new devices in its crusade to perfect those pesky pickups.
+<a href='https://www.theverge.com/2020/2/27/21155866/uber-app-updates-pickup-notifcations-translation-text-message'> Source <a/>
