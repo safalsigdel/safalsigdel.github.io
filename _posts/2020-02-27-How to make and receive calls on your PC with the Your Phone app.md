@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_RX3NuXHw8IBVNtpQh6jQyOI8xU=/0x0:1529x1019/1200x800/filters:focal(899x478:1143x722)/cdn.vox-cdn.com/uploads/chorus_image/image/66386970/microsoftyourphonecalls.0.jpg' width='700px' /><br/>
+Microsoft's Your Phone app for Android can route photos, incoming notifications, and text messages to your Windows 10 PC. Its latest feature update added something even more useful: the ability to make and receive calls on your PC without reaching for your phone. The app can even let you seamlessly transfer calls between your PC and phone in case you need to go mobile.
+<a href='https://www.theverge.com/2020/2/27/21122396/your-phone-app-android-pc-calls-how-to-make-answer-windows-10-microsoft'> Source <a/>
