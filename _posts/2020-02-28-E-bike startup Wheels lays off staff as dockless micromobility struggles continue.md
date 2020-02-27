@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OYh9xX7nvFi_B1fVXQ7V85EA3-Y=/0x0:3300x2200/1200x800/filters:focal(1386x836:1914x1364)/cdn.vox-cdn.com/uploads/chorus_image/image/66391101/Helmet_on_Bikes__1_.0.jpg' width='700px' /><br/>
+Wheels, a Los Angeles-based startup that rents electric bikes in over a dozen cities, is laying off 6 percent of its staff, The Verge has learned. The company is the latest micromobility firm to shed employees in the quest to find a profitable business model.
+<a href='https://www.theverge.com/2020/2/27/21156160/wheels-layoffs-ebike-electric-bike-dockless-micromobility'> Source <a/>

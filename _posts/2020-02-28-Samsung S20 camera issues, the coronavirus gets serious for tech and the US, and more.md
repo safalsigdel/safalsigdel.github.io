@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8fxIUfCzwa0FHxqb9pe5n0tVI_Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66386398/vpavic_200206_3899_0211.0.jpg' width='700px' /><br/>
-Hello to everybody, but especially to new subscribers — one of whom pointed out that I had a typo in my introductory email. Mortifying, but also fitting for my personal brand. You're reading Processor, a newsletter about computers, but “computers” defined very broadly and with a wink. I'm Dieter Bohn, noted typoist and reviewer of Samsung phones since 2006's Samsung Blackjack Windows Mobile smartphone.
-<a href='https://www.theverge.com/tech/2020/2/27/21155445/samsung-s20-camera-issues-coronavirus-tech'> Source <a/>
