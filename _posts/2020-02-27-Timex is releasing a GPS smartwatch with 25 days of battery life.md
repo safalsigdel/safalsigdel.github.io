@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t9dPQrUatDc-E5Xhuu2nU77Io6E=/0x0:2560x2191/1200x800/filters:focal(1076x892:1484x1300)/cdn.vox-cdn.com/uploads/chorus_image/image/66387591/GPSR300.0.jpg' width='700px' /><br/>
+Timex, the company that made those plastic watches you probably wore when you were a kid, has announced a new addition to its lineup of Ironman GPS trackers.
+<a href='https://www.theverge.com/2020/2/27/21155862/timex-smartwatch-gps-fitness-tracker-battery-life'> Source <a/>
