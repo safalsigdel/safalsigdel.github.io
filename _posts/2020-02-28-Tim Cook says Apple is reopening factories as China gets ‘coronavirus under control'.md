@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_6kXvz6XAqce4mYV8cD_caXqSQI=/0x0:1020x676/1200x800/filters:focal(466x165:628x327)/cdn.vox-cdn.com/uploads/chorus_image/image/66390723/d11cook_0020.0.jpg' width='700px' /><br/>
+Apple CEO Tim Cook said today that factories in China that manufacture the company's products are reopening as “China is getting the coronavirus under control.” The comments came from a preview of an upcoming interview with Fox Business.
+<a href='https://www.theverge.com/2020/2/27/21156458/apple-ceo-tim-cook-reopening-factories-china-coronavirus-outbreak'> Source <a/>
