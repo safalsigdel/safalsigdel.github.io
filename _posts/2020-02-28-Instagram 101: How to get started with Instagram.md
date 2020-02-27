@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/foISyIOtQPwXiA22Aq5GXe2s3bY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66391285/vpavic_200224_untitled_0006_2.0.jpg' width='700px' /><br/>
+If you haven't added Instagram to your set of social networking apps, then perhaps you should give it a try. Instagram places the emphasis on visuals — photos, GIFs, videos — but the difference between it and, say, TikTok, is that it doesn't necessarily depend on off-the-cuff, in-the-moment material.
+<a href='https://www.theverge.com/2020/2/27/21156337/instagram-basics-install-account-username-settings-get-started-how-to'> Source <a/>
