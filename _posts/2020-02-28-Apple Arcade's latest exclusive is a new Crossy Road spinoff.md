@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EvMC9bZ_R582k3bP0aYdEZyITgA=/0x0:2048x1039/1200x800/filters:focal(835x524:1161x850)/cdn.vox-cdn.com/uploads/chorus_image/image/66391336/cross_road_1.0.png' width='700px' /><br/>
+The latest entry in Apple's mobile game subscription service, Apple Arcade, is Crossy Road Castle, a brand-new endless runner-style game from developer Hipster Whale.
+<a href='https://www.theverge.com/2020/2/27/21156740/crossy-road-castle-apple-arcade-exclusive-launch-game-release'> Source <a/>
