@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/udIF7r5HaVfIU066fdIZgu3ZYBo=/0x0:3874x2583/1200x800/filters:focal(1922x1023:2540x1641)/cdn.vox-cdn.com/uploads/chorus_image/image/66390065/1158410994.jpg.0.jpg' width='700px' /><br/>
+LinkedIn is a website that's effectively a mixture between an interactive resume and a college job fair, but that hasn't stopped it from aspiring to be a cooler, more social part of the internet. Its latest attempt? Snapchat-style stories, which the company announced it was testing internally to try out “a new conversational format” for business conversations.
+<a href='https://www.theverge.com/2020/2/27/21156247/linkedin-testing-instagram-stories-feature-social-network-resumes-why'> Source <a/>
