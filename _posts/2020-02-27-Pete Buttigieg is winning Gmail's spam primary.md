@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V9asoXw5nehYwZkm2OYqLM0hMV8=/0x0:4366x2873/1200x800/filters:focal(1055x630:1753x1328)/cdn.vox-cdn.com/uploads/chorus_image/image/66378589/1208710391.jpg.0.jpg' width='700px' /><br/>
-He may be trailing Sen. Bernie Sanders in the delegate count, but former South Bend, Indiana Mayor Pete Buttigieg is leading Democrats in at least one category: email — specifically, Gmail. More campaign emails from Buttigieg's campaign landed in the primary tab of Gmail's inbox than other candidates, an analysis by The Markup found. Gmail's primary tab is considered by many to be their main inbox.
-<a href='https://www.theverge.com/2020/2/26/21154193/pete-buttigieg-gmail-primary-dems-2020-candidates'> Source <a/>
