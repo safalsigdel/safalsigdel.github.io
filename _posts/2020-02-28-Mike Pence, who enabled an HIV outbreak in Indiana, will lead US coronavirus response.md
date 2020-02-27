@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JKHtqYSHP5GkcaSKttrzD5vZiLc=/0x0:4667x3112/1200x800/filters:focal(1961x1183:2707x1929)/cdn.vox-cdn.com/uploads/chorus_image/image/66381641/1197631567.jpg.0.jpg' width='700px' /><br/>
-Vice President Mike Pence will take charge of the US response to the new coronavirus, President Donald Trump announced today. “Mike is not a czar,” Trump said. “I don't view Mike as a czar.”
-<a href='https://www.theverge.com/2020/2/26/21155286/mike-pence-coronavirus-response-hiv'> Source <a/>
