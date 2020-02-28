@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D8c7r8-M47Fb5EPN3s6d3K5H4BM=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/66405786/akrales_160224_0948_0144_A.0.0.png' width='700px' /><br/>
+Facebook Messenger is getting even simpler with the removal of the Discover tab, which was an attempt from the social network to inject its ill-fated chatbot platform into its private messaging app. The change was first announced in August of last year, and TechCrunch now reports that the switchover will begin happening starting next week.
+<a href='https://www.theverge.com/2020/2/28/21158115/facebook-messenger-discover-tab-removal-instant-games-chatbots-business'> Source <a/>
