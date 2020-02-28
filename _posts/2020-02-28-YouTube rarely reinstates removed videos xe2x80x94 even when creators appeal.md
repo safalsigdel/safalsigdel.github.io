@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lHp_aN3OWIGHpaf5rt7zf5UYBxI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66398511/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
+In three months, YouTube received nearly 110,000 appeals from creators who were frustrated that their videos were taken down — but less than a quarter were later reinstated.
+<a href='https://www.theverge.com/2020/2/28/21157476/youtube-video-removal-appeal-takedown-community-guidelines-report'> Source <a/>
