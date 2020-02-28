@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4etT14VNSp56HZeEnc099Uc1X7Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66389875/acastro_180822_1777_tinder_0001.0.0.jpg' width='700px' /><br/>
-Tinder has renewed Swipe Night, its in-app Choose Your Own Adventure-style series, for a second season that's expected to premiere this summer, as first reported by Variety. The first season debuted last October.
-<a href='https://www.theverge.com/2020/2/27/21156306/tinder-swipe-night-choose-your-own-adventure-series-second-season'> Source <a/>
