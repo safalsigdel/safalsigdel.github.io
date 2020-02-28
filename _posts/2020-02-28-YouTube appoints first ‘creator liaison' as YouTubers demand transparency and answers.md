@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z-k_YJRHstVfJH0O09K42hTSRY4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66389489/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
-YouTube CEO Susan Wojcicki has repeatedly said that YouTube is trying to be more transparent with creators about changes that will affect their day-to-day lives. The next evolution in that plan is appointing the company's first ever “head creator liaison” to help keep the peace.
-<a href='https://www.theverge.com/2020/2/27/21155851/youtube-creator-liaison-matt-koval-susan-wojcicki-demonetization-policy-changes'> Source <a/>
