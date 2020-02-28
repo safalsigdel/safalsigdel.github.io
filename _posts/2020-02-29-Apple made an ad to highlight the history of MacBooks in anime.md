@@ -1,0 +1,3 @@
+<img src='' width='700px' /><br/>
+Apple has made a new commercial featuring MacBooks (and MacBook-like laptops) from popular anime. The clips come from Mr. Osomatsu, New Game!, Keroro Gunsou, Your Name, Weathering With You, and more, according to Polygon's resident anime expert Julia Lee.
+<a href='https://www.theverge.com/2020/2/28/21157828/new-apple-anime-ad-macbooks-laptops-airpods-earpods'> Source <a/>
