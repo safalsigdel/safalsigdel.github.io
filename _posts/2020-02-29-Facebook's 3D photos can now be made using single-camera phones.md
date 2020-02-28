@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UuUYHhp364FGaUXcZfhtUcRUVRA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66406646/acastro_180522_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook will now let you post 3D photos to your timeline from the Facebook app even if you have a phone with a single camera, the company announced today. In theory, this should make it possible for a lot more phones to take 3D photos — and Facebook says it also means you can use your front-facing camera to take take 3D selfies.
+<a href='https://www.theverge.com/2020/2/28/21158346/facebook-3d-photos-single-camera-phones-neural-network-iphone-android'> Source <a/>
