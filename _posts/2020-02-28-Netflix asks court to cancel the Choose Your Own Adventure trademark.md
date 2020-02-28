@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4ujfXqDuo-y7GctPE9IEwabJBM8=/0x0:2011x1340/1200x800/filters:focal(1358x216:1678x536)/cdn.vox-cdn.com/uploads/chorus_image/image/66399659/BM_Bandersnatch.0.jpg' width='700px' /><br/>
+Netflix has taken an aggressive step in its fight with publishing company Chooseco. It's asking a court to cancel the Choose Your Own Adventure trademark, arguing that it's a generic descriptor rather than a meaningful brand.
+<a href='https://www.theverge.com/2020/2/28/21157576/netflix-chooseco-bandersnatch-choose-your-own-adventure-trademark-lawsuit'> Source <a/>
