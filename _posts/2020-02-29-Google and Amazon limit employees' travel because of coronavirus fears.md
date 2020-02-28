@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8FmKOlvIngZv2Y2XfqcVopOIXCY=/0x0:5315x3543/1200x800/filters:focal(2233x1347:3083x2197)/cdn.vox-cdn.com/uploads/chorus_image/image/66405710/1149449081.jpg.0.jpg' width='700px' /><br/>
+Google is preventing employees from traveling to Italy, Iran, Japan, and South Korea because of outbreaks of the novel coronavirus, Business Insider reported. Amazon is asking employees to defer all nonessential travel, a spokesperson confirmed to The Verge, which includes domestic travel within the US.
+<a href='https://www.theverge.com/2020/2/28/21158029/google-amazon-travel-coronavirus-covid-china-italy-iran-japan-south-korea'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-7xir0zCUx1AmA3qHcnThk0sRyg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66391328/acastro_200227_1777_onlyfans_0001.0.jpg' width='700px' /><br/>
-More than 1.6TB worth of videos and images from OnlyFans has been leaked online. The data dump appears to be primarily comprised of women's accounts, specifically those who use the site to share pornographic images.
-<a href='https://www.theverge.com/2020/2/27/21156445/onlyfans-leak-not-hacked-photos-videos'> Source <a/>
