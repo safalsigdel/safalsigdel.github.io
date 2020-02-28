@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P6DgLxY31hNEEezB52gSMZEyQEE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66394447/acastro_180413_1777_reddit_0002.0.jpg' width='700px' /><br/>
-The popular horror story subreddit r/nosleep has set itself to private until Monday to protest YouTube creators stealing stories and turning them into videos without permission from their original creators (via Tubefilter).
-<a href='https://www.theverge.com/2020/2/27/21156447/reddit-subreddit-nosleep-horror-story-protest-youtubers-stealing-stories'> Source <a/>
