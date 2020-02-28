@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cApFBQDHpsOluVzwNkshzIydGhI=/0x0:4724x2990/1200x800/filters:focal(1938x1329:2692x2083)/cdn.vox-cdn.com/uploads/chorus_image/image/66388540/871654416.jpg.0.jpg' width='700px' /><br/>
-Reddit CEO and co-founder Steve Huffman called TikTok “fundamentally parasitic” due to concerns over privacy during an appearance at the Social 2030 venture capital conference this week (via TechCrunch). Huffman specifically called out TikTok's practice of fingerprinting to track devices as being of particular concern.
-<a href='https://www.theverge.com/2020/2/27/21155845/reddit-ceo-steve-huffman-tiktok-privacy-concerns-spyware-fingerprinting-tracking-users'> Source <a/>
