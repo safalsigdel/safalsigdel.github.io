@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3qF3xau6drBe1hC4ujOMXIgs-ho=/0x0:4500x2999/1200x800/filters:focal(1587x620:2307x1340)/cdn.vox-cdn.com/uploads/chorus_image/image/66405338/1203946427.jpg.0.jpg' width='700px' /><br/>
+Every horror story begins with a pause, a held breath, when nobody is quite sure what to make of the unfolding situation. When's a good time to panic? My favorites put off answering the question for as long as they can.
+<a href='https://www.theverge.com/2020/2/28/21157721/severance-coronavirus-cdc-trump-healthcare-outbreak-crisis-panic-twitter'> Source <a/>
