@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IRtWrI24M-xpl5biQca3fkmstNk=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66398883/vrg_illo_3920_world_without_youtube_0001.0.jpg' width='700px' /><br/>
+Fifteen years ago this month, one of the most important web domains in history was registered: youtube.com. Today's teenagers have never known an internet that couldn't host as much video as they want for free, server costs be damned. YouTube has helped elect politicians, create entire industries, and taught millions of people how to use eyeliner. It's not a stretch to say it shaped the internet as we know it.
+<a href='https://www.theverge.com/2020/2/28/21145506/youtube-without-internet-fiction-alternate-history'> Source <a/>
