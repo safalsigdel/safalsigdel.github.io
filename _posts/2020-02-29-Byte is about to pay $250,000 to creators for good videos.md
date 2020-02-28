@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wWIG-wIssLM4g3jt9IxVP5oV62k=/0x0:680x480/1200x800/filters:focal(285x178:393x286)/cdn.vox-cdn.com/uploads/chorus_image/image/66406329/I7PpKtvd.0.jpeg' width='700px' /><br/>
+Byte plans to start paying creators in April, offering $250,000 in total payouts to the first group of creators in its partner program.
+<a href='https://www.theverge.com/2020/2/28/21158220/byte-creator-payouts-starting-april-partner-program-talent'> Source <a/>

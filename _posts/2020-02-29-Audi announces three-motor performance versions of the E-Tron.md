@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y5QBHjYPoYuAOKuiSPxcLBX0bQc=/0x0:4961x3307/1200x800/filters:focal(2085x1258:2877x2050)/cdn.vox-cdn.com/uploads/chorus_image/image/66406317/A201525_large.0.jpg' width='700px' /><br/>
+Audi will make and sell sportier performance versions of its E-Tron and E-Tron Sportback electric cars powered by a three-motor system, the company announced on Friday. The news comes as parent company Volkswagen says it has tapped Audi to “take the lead for research and development” for the entire Volkswagen Group.
+<a href='https://www.theverge.com/2020/2/28/21158139/audi-etron-s-sportback-triple-motor-performance-electric-geneva-motor-show'> Source <a/>
