@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0sQIL8xXRZ0smHT0gzw-NDNgEv8=/0x0:6016x4016/1200x800/filters:focal(2691x1657:3653x2619)/cdn.vox-cdn.com/uploads/chorus_image/image/66405992/moment_tele58mm_103.0.jpg' width='700px' /><br/>
+Moment has informed users that it will no longer be developing its Moment Pro Camera app for Android (via Android Police). The app isn't required to use Moment's lenses, but it provided additional controls for serious photographers. Moment blames the difficulty of making the app compatible across the many different versions of Android made by phone makers.
+<a href='https://www.theverge.com/2020/2/28/21158102/moment-android-pro-camera-app-play-store-stop-developing'> Source <a/>
