@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MSvq02hwFTuN7a6OCVbBAYpxME4=/0x0:6527x4352/1200x800/filters:focal(3480x899:4524x1943)/cdn.vox-cdn.com/uploads/chorus_image/image/66389135/1203633019.jpg.0.jpg' width='700px' /><br/>
-The popular game Plague Inc., where you create a disease with the goal of spreading it across the world, has been removed from the App Store in China amid the ongoing coronavirus outbreak.
-<a href='https://www.theverge.com/2020/2/27/21156162/plague-inc-pulled-china-ios-app-store-coronavirus'> Source <a/>

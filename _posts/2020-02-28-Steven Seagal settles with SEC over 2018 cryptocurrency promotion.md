@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aXEpy_7Z8Yi8TbLHwhi8kGjetZY=/0x0:4192x2795/1200x800/filters:focal(1761x1063:2431x1733)/cdn.vox-cdn.com/uploads/chorus_image/image/66389104/1128793071.jpg.0.jpg' width='700px' /><br/>
-Steven Seagal, best known for fighting off bad guys with roundhouse kicks in movies like Above the Law, has settled a case with the Securities and Exchange Commission over promoting a cryptocurrency on social media. The action star will pay $314,000, and won't be allowed to promote any security — digital or otherwise — for three years.
-<a href='https://www.theverge.com/2020/2/27/21156024/steven-seagal-sec-cryptocurrency-settles-promotion'> Source <a/>
