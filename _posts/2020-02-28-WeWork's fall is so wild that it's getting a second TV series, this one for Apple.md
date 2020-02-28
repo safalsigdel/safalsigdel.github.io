@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/inqA6KC9--rywDi32ePY_Z3kuJw=/0x0:2040x1360/1200x800/filters:focal(989x690:1315x1016)/cdn.vox-cdn.com/uploads/chorus_image/image/66395139/acastro_190814_1777_wework_ipo_0002.0.jpg' width='700px' /><br/>
+WeWork was 2019's soap opera of a company, and its story was so wild that it will be the focus of a second TV series, Variety reports.
+<a href='https://www.theverge.com/2020/2/27/21156967/wework-apple-tv-plus-second-series-wecrashed-little-america'> Source <a/>
