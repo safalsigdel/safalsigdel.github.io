@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oD2HRUXgmlweUMBGfHqE2B2YkfM=/0x0:4800x2950/1200x800/filters:focal(1808x1612:2576x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/66404140/1203953311.jpg.0.jpg' width='700px' /><br/>
+Four and a half years after the Volkswagen Dieselgate broke, the company is still facing scrutiny on two continents. In its home country Germany on Friday, the Volkswagen Group agreed to pay a settlement of nearly $1 billion to hundreds of thousands of owners who argued their cars lost value after the scandal. The same day, Porsche's offices were raided again by German police in an effort to uncover new evidence about Dieselgate.
+<a href='https://www.theverge.com/2020/2/28/21157551/volkswagen-settlement-porsche-raid-dieselgate-trial'> Source <a/>
