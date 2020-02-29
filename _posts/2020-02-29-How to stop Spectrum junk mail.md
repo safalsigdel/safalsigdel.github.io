@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HOIY_p4yCFy_fQtSArzXffi748I=/0x0:3889x2398/1200x800/filters:focal(1639x625:2261x1247)/cdn.vox-cdn.com/uploads/chorus_image/image/66408845/623991128.jpg.0.jpg' width='700px' /><br/>
+For years, I have been getting inundated with physical junk mail from my internet service provider (ISP), Charter Spectrum (formerly Time Warner Cable). In huge red capital letters, the envelopes are stamped “OPEN UPON RECEIPT” or “NOTICE” or “IMPORTANT ACCOUNT INFORMATION.”
+<a href='https://www.theverge.com/2020/2/29/21157801/stop-spectrum-junk-mail-how-to-spam-calls-online-form'> Source <a/>
