@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fZB9G-w_tXiNIqKxtWIUmDBgoWI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66409070/vpavic_200206_3899_still_0004.0.jpg' width='700px' /><br/>
+Samsung's new Galaxy S20 series of phones will release this coming Friday, March 6th. This leaves you with a whole week to decide whether you want to preorder the S20, S20 Plus, or S20 Ultra.
+<a href='https://www.theverge.com/good-deals/2020/2/29/21158013/samsung-galaxy-s20-preorder-deal-gift-card-trade-in-google-nest-hub'> Source <a/>
