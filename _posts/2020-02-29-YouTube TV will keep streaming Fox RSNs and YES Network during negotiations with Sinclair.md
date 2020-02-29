@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SHR3ED3WAuox3MeKcPK5ve4qRTI=/0x0:2454x1628/1200x800/filters:focal(1027x479:1419x871)/cdn.vox-cdn.com/uploads/chorus_image/image/66409018/YTV.0.jpg' width='700px' /><br/>
+Sports fans don't have to worry about their local teams disappearing from YouTube TV after all. Not yet, anyway. Last night, YouTube tweeted that it has agreed to a temporary extension with Sinclair Broadcast Group, which now owns many Fox-branded regional sports networks (RSNs) and the YES Network, to keep those channels in its lineup as the two sides hammer out a longer-term carriage agreement.
+<a href='https://www.theverge.com/2020/2/29/21159033/youtube-tv-sinclair-fox-regional-sports-networks-yes-network-extension'> Source <a/>
