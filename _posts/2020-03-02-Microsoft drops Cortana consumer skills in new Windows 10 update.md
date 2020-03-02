@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DIzGi4brJ2gaoXtyElVY-AP0Ygo=/0x0:1560x880/1200x800/filters:focal(656x316:904x564)/cdn.vox-cdn.com/uploads/chorus_image/image/66403230/f69360e54e2a53b2505fd65896b03fd1.0.jpg' width='700px' /><br/>
-Cortana on Windows 10 is getting some changes, Microsoft announced today, as the company shifts focus for what it wants its personal assistant to be. The new Cortana will emphasize productivity features, like helping to manage your schedule, adding to-do items, or sending emails.
-<a href='https://www.theverge.com/2020/2/28/21157816/microsoft-cortana-windows-10-productivity-skills-assistant-update'> Source <a/>
