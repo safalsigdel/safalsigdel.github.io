@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fi3aRgu-320jfZmXhChtNABWmYY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66414404/DSCF2813.0.0.jpg' width='700px' /><br/>
+Sharp plans to start making face masks at one of its factories in Japan in response to surging demand sparked by the coronavirus outbreak, The Associated Press reports. The plant, in Kameyama, Mie prefecture, is usually used for mass-producing large LCD panels and assembling TVs.
+<a href='https://www.theverge.com/2020/3/1/21160879/coronavirus-face-masks-sharp-japan-factory-production'> Source <a/>

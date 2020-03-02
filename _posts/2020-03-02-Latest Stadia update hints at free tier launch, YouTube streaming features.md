@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BneGgJtrcE3AdHKOU4Q3z6NLo44=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66398964/akrales_191113_3779_0248.0.jpg' width='700px' /><br/>
-Google Stadia had a rough launch, with plenty of missing features and unfulfilled promises. But the latest update to the Stadia app hints that some of those features might be coming soon, including the highly anticipated free tier, YouTube streaming, family game sharing, and more, as spotted by 9to5Google.
-<a href='https://www.theverge.com/2020/2/28/21157574/google-stadia-update-app-free-tier-youtube-streaming-hints-release'> Source <a/>
