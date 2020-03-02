@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9270/awhite_200121_3873_0005.jpg' width='700px' /><br/>
+It's been a long time since Apple made a standalone display; the Apple Thunderbolt Display was discontinued in 2016. Apple tried to point customers looking for an external display at an LG 5K monitor for a while, but it was fairly buggy, leading the company to promise pro customers a high-end display of its own when it also promised to reboot the Mac Pro in 2017.
+<a href='https://www.theverge.com/2020/3/2/21161487/apple-mac-pro-display-xdr-review-6k-lcd-screen-price-features'> Source <a/>
