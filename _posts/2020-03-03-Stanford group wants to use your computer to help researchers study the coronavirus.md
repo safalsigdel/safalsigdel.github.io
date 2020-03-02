@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6yONdOY2xDZ0eoVE9fFOIPgmw5M=/0x0:5656x3182/1200x800/filters:focal(2376x1139:3280x2043)/cdn.vox-cdn.com/uploads/chorus_image/image/66420387/1203807634.jpg.0.jpg' width='700px' /><br/>
+Stanford University's Folding@home distributed computing project is seeking volunteers to help researchers develop treatment therapies for the novel coronavirus.
+<a href='https://www.theverge.com/2020/3/2/21161131/folding-home-volunteers-researchers-coronavirus'> Source <a/>

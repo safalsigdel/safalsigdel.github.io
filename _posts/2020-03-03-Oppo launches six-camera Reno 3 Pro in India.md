@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4oRyBDJRBCNwN9mMN4YFd6dyYHA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66414818/DSCF7195.0.jpg' width='700px' /><br/>
-Oppo has announced the Reno 3 Pro, the latest entry in the ever-more-convoluted Reno series. It's a mid-range model that's altogether separate from the Reno 3 Pro 5G released in China in December; this model is launching in India first.
-<a href='https://www.theverge.com/2020/3/2/21161002/oppo-reno-3-pro-hands-on-price-specs-india'> Source <a/>
