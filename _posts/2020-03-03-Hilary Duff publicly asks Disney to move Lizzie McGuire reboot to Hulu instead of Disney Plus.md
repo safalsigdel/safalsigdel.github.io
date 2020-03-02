@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hpPt2NtMpN635it90h6qNF1AVVY=/0x0:3000x1996/1200x800/filters:focal(1545x374:2025x854)/cdn.vox-cdn.com/uploads/chorus_image/image/66407488/1182165472.jpg.0.jpg' width='700px' /><br/>
-New Disney CEO Bob Chapek has only been on the job for a few days, and he's already got a controversy to deal with. Hilary Duff, whose career was launched by the Disney Channel series Lizzie McGuire, is asking the company to move the in-the-works reboot off of Disney Plus and onto Hulu instead. The actress and singer posted the request on her Instagram on Friday night.
-<a href='https://www.theverge.com/2020/2/28/21158617/hilary-duff-wants-lizzie-mcguire-on-hulu-not-disney-plus'> Source <a/>
