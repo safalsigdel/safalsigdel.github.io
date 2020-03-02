@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_i0sKaJTmCHS2G9jch_xuhdogAA=/0x0:1280x854/1200x800/filters:focal(538x325:742x529)/cdn.vox-cdn.com/uploads/chorus_image/image/66406016/Rome_Call_For_AI_Ethics.0.jpeg' width='700px' /><br/>
-Vatican officials are calling for stricter ethical standards on the development of artificial intelligence, with tech giants IBM and Microsoft being the first companies to sign its new initiative.
-<a href='https://www.theverge.com/2020/2/28/21157667/catholic-church-ai-regulations-protect-people-ibm-microsoft-sign'> Source <a/>
