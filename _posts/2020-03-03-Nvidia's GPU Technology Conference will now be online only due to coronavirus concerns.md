@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sSBZ3HiYcylgPzx2T1Z_WbFnyoo=/0x0:2040x1360/1200x800/filters:focal(492x457:818x783)/cdn.vox-cdn.com/uploads/chorus_image/image/66417583/setienne_180914_2954_0037.0.jpg' width='700px' /><br/>
+Nvidia has announced it has shifted its GPU Technology Conference (GTC) to be online-only due to concerns from the coronavirus outbreak. People who had registered for the event, which was originally set to be held in San Jose, California, from March 22nd to March 26th, will get a full refund.
+<a href='https://www.theverge.com/2020/3/2/21161635/nvidias-gpu-technology-conference-gtc-online-only-coronavirus'> Source <a/>
