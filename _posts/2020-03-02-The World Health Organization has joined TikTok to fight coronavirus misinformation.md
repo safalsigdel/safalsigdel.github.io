@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vpy4Gay9h_4R1PhdC3UMAM7BeH0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66406231/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-The World Health Organization launched a TikTok account on Friday as part of its efforts to cut through coronavirus misinformation online. A specialized public health agency of the United Nations, WHO is one of the leading organizations working to contain the spread of the virus.
-<a href='https://www.theverge.com/2020/2/28/21158276/coronavirus-covid19-tiktok-who-world-health-organization-protection'> Source <a/>
