@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qJuaJqhi0u0oPgc-y3JZYhkEqls=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66403557/awhite_200226_3918_0206.0.jpg' width='700px' /><br/>
-There are a lot of really light laptops you can buy. You've got the 2.6-pound Asus ZenBook 13, the 2.4-pound ThinkPad X1 Carbon, the two-pound LG Gram 14, the 1.96-pound Acer Swift 7, and countless others competing for dominion of the ultra-light laptop world. But you're always sacrificing something for such a thin build — be it durability, performance, cooling, connectivity, battery life, or (often) many of the above.
-<a href='https://www.theverge.com/2020/2/28/21153098/vaio-sx12-review-display-design-price-specs-features'> Source <a/>
