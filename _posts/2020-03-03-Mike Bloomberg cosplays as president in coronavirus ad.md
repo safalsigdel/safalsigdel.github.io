@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a-rZdusZHiSYpcVvXcfD1GPPUCM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66413990/1209575929.jpg.0.jpg' width='700px' /><br/>
-Billionaire Mike Bloomberg's presidential campaign purchased primetime ad space Sunday night — reportedly worth at least $1 million — so the former New York City mayor could cosplay as the president of the U.S. He addressed the nation, vaguely, about the threat of coronavirus.
-<a href='https://www.theverge.com/2020/3/1/21160735/mike-bloomberg-coronavirus-covid19-cbs-nbc-ad-president-oval-office'> Source <a/>

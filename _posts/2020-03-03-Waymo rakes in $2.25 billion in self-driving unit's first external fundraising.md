@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ysesibpKQ-NJTka0QVgTNKuOiyk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66419541/vpavic_191202_3827_0058.0.jpg' width='700px' /><br/>
+Waymo just announced a significant milestone: its first external fundraising round. The self-driving division of Alphabet raked in $2.25 billion in a funding round led by Silver Lake, Canada Pension Plan Investment Board, and Mubadala Investment Company, the sovereign wealth fund of Abu Dhabi. Additional investors include Magna International, Andreessen Horowitz, and AutoNation, as well as Alphabet.
+<a href='https://www.theverge.com/2020/3/2/21162061/waymo-outside-investment-amount-autonation-magna-silver-lake'> Source <a/>
