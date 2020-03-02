@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KQ2EOLeUp5vaR9lavvXu6o6FMQw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66398899/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
-Amazon has blocked over a million products from being sold after they made misleading claims about being able to cure or prevent COVID-19, the disease caused by the novel coronavirus, Reuters reports. The retailer also says it has removed tens of thousands of deals due to price gouging, as sellers charge much higher prices for items like face masks as concerns about the virus spread.
-<a href='https://www.theverge.com/2020/2/28/21157629/amazon-coronavirus-products-misleading-false-claims-price-gouging-face-masks'> Source <a/>
