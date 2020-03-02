@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uY36zVDlpSJ9LNK1BKLqcsC_9sE=/0x0:3000x1999/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66399185/1203849595.jpg.0.jpg' width='700px' /><br/>
-United Airlines said it would be suspending routes to Japan as the number of novel coronavirus cases in the island nation continue to rise. It is the first US carrier to make broader cuts to service in Asia because of the virus.
-<a href='https://www.theverge.com/2020/2/28/21157604/united-airlines-japan-route-suspended-coronavirus-waiver-asia'> Source <a/>
