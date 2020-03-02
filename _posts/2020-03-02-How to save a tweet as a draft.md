@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PrGkWp95SFV8ajhVWc9uB3jrxI4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66416571/Twitter-app-stock-Dec2015-verge-12.0.0.jpg' width='700px' /><br/>
+Twitter is a fast-paced world — your timeline might feel like it's running at a mile a minute. But your tweets don't have to be that way. It's okay to take your time and refine your tweets later. For that, you can use Twitter drafts.
+<a href='https://www.theverge.com/2020/3/2/21161213/twitter-tweet-draft-save-as-how-to'> Source <a/>
