@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IKkXRnsVz-GN1USx1aVtCPzcVX8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66399401/awhite_200223_3916_0077.0.jpg' width='700px' /><br/>
-Two things that grabbed our attention this week at The Verge was Samsung's Galaxy S20 Ultra and Bob Iger stepping down as Disney CEO. So that's what took up a lot of discussion on The Verge's flagship podcast The Vergecast.
-<a href='https://www.theverge.com/2020/2/28/21157600/podcast-vergecast-disney-samsung-galaxy-s20-camera-bob-iger-ceo'> Source <a/>
