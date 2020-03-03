@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/duS2gnVtz3wCIybv6H9ZJGeCjcY=/146x319:1986x1442/1200x675/filters:focal(953x554:1279x880)/cdn.vox-cdn.com/uploads/chorus_image/image/66422052/P90385006_highRes.0.jpg' width='700px' /><br/>
+After years of teasing, BMW is still not quite ready to show off the final version of its i4 electric sedan, the long-awaited followup to its i3 EV and i8 hybrid that's due out sometime in 2021. But a new concept version revealed at the (now digital-only) 2020 Geneva Motor Show is the best look yet at what the German automaker has in store with the i4.
+<a href='https://www.theverge.com/2020/3/3/21162530/bmw-i4-electric-sedan-concept-geneva-motor-show-2020'> Source <a/>
