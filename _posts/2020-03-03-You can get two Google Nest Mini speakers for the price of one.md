@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8IS1X1zup1i3YTlkbsDsbiY4nX8=/0x0:2040x1360/1200x800/filters:focal(772x579:1098x905)/cdn.vox-cdn.com/uploads/chorus_image/image/66423702/cwelch_191016_3737_0002.0.jpg' width='700px' /><br/>
+Google's Nest Mini smart speaker usually costs $50, but Daily Steals is offering an exclusive deal to Verge readers that bundles two speakers for about the same price. Just put in the offer code VERGENST at checkout. You have a choice of colors, including sky blue, chalk, charcoal, or coral.
+<a href='https://www.theverge.com/good-deals/2020/3/3/21162824/google-nest-mini-speaker-sale-sandisk-microsd-nintendo-switch-daily-steals'> Source <a/>
