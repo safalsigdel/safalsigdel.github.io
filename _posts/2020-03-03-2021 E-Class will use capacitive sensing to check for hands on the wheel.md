@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jtTg6huZPCsxjBV62R_e0awXq2I=/0x0:2985x2085/1200x800/filters:focal(1255x805:1731x1281)/cdn.vox-cdn.com/uploads/chorus_image/image/66422079/19C0924_094_copy.0.jpg' width='700px' /><br/>
+Mercedes-Benz has just unveiled the 2021 E-Class, and like many of its German luxury siblings, it will come equipped with the company's latest driver-assistance features. But the new E-Class also changes how the car registers whether the driver is paying attention while using those features, as Mercedes-Benz is introducing a new wheel with capacitive sensing.
+<a href='https://www.theverge.com/2020/3/3/21162310/2021-mercedes-benz-e-class-capacitive-wheel-geneva-motor-show'> Source <a/>
