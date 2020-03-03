@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f83pYQhp6RC6gtjb5DGsSnPa3H4=/0x0:1600x800/1200x800/filters:focal(672x272:928x528)/cdn.vox-cdn.com/uploads/chorus_image/image/66420710/ESIhoNNW4AMQlOG.0.jpeg' width='700px' /><br/>
-Oppo has given us its best look yet at its upcoming smartwatch on the way — and it looks almost exactly like an Apple Watch.
-<a href='https://www.theverge.com/2020/3/2/21162153/oppo-watch-series-new-smartwatch-looks-just-like-apple'> Source <a/>

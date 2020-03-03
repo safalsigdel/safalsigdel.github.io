@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vMh0ZQAvsPYtEhWhJYNSjT3DMwU=/0x0:2040x1360/1200x800/filters:focal(971x492:1297x818)/cdn.vox-cdn.com/uploads/chorus_image/image/66425444/vpavic_191118_3800_0122.0.jpg' width='700px' /><br/>
+Apple is working on a 14.1-inch MacBook Pro, according to the latest research note from analyst Ming-Chi Kuo seen by MacRumors. That note also reveals that a new 27-inch iMac Pro and 7.9-inch iPad mini may be on the way. Those three products and a new 16-inch MacBook Pro, 12.9-inch iPad Pro, and 10.2-inch iPad will all have Mini-LED displays, according to Kuo.
+<a href='https://www.theverge.com/2020/3/3/21163328/apple-macbook-pro-14-inch-imac-ipad-pro-mini-led-ming-chi-kuo'> Source <a/>
