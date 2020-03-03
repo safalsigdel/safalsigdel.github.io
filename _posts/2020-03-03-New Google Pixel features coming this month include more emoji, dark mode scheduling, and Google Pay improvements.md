@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cl1dYCWwe76V7vbDfkNmo6nHv3k=/0x0:1556x892/1200x0/filters:focal(0x0:1556x892):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19761100/Screen_Shot_2020_03_02_at_1.23.00_PM.png' width='700px' /><br/>
-Near the end of last year, Google outlined a new strategy of bundling together new software tricks for its Pixel phones into “feature drops” instead of trickling those features out individually. Today, the company is announcing its second feature drop, with much of the new stuff available for the Pixel 2 and newer — but some Pixel 4 exclusives in there.
-<a href='https://www.theverge.com/2020/3/2/21161644/pixel-feature-drop-inclusive-emoji-ar-effects-dark-mode-google-pay'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/87Bxhv19jbXiE6JOuCU7QhMFG18=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66420425/acastro_200302_3922_SuperTuesday_encryption.0.5.jpg' width='700px' /><br/>
+This is a living guide to encryption: what it is, what it isn't, why it's controversial, and how it might be changed. This guide will be updated as events warrant.
+<a href='https://www.theverge.com/2020/3/3/21158030/encryption-explainer-guide-law-enforcement-apple-fbi'> Source <a/>

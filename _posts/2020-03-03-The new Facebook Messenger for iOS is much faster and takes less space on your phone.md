@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/70xtQsXBurV5lOY1QnjJ8z3T-Dw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66417384/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook announced today that it's starting to roll out a “faster, smaller, and simpler” version of Messenger on iOS. Facebook says the new version of the app will load twice as fast and be one-fourth the size. The rollout is supposed to happen “over the next few weeks.”
-<a href='https://www.theverge.com/2020/3/2/21161533/facebook-messenger-ios-app-faster-simpler-smaller'> Source <a/>
