@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aADTxO_7wXdh5dlhYdlZSSUCRc4=/0x0:3000x1999/1200x800/filters:focal(1557x473:2037x953)/cdn.vox-cdn.com/uploads/chorus_image/image/66419049/950950068.jpg.0.jpg' width='700px' /><br/>
-The business of business is rarely a pleasure, but sometimes it gets very juicy. Last year, the story of WeWork — its improbable rise and totally predictable downfall — was the juiciest: it had everything from a cult-leader, grifter chief exec to a laundry list of downright wild business practices (like leasing property directly from said grifter CEO). And what timing!
-<a href='https://www.theverge.com/2020/3/2/21161614/wework-rebekah-neumann-co-founder-bustle-profile-recommendation'> Source <a/>

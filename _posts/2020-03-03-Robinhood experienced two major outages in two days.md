@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nG4CL02A_YjpVALeg_v_DnfBXhA=/0x0:5000x3750/1200x800/filters:focal(2394x1864:3194x2664)/cdn.vox-cdn.com/uploads/chorus_image/image/66424311/1144590831.jpg.0.jpg' width='700px' /><br/>
+On Tuesday morning, investing app Robinhood experienced its second major outage in two days. The first outage lasted from around 9:30AM ET on March 2nd until around 2AM ET on March 3rd, according to a Robinhood spokesperson. Robinhood tweeted about the second outage at 10:11AM ET today and said that service had been fully restored at 11:54AM ET.
+<a href='https://www.theverge.com/2020/3/3/21163048/robinhood-outages-major-2-days-leap-year-investing'> Source <a/>
