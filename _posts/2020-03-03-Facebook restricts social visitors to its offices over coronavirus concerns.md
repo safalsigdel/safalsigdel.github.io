@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rnE0Ke_eVh3QqUAU5R05vJEFfVk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66418807/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
-The world's biggest social network is restricting social visits to its physical offices, as Facebook tries to protect its employees from coronavirus exposure, Business Insider reports.
-<a href='https://www.theverge.com/2020/3/2/21161841/coronavirus-facebook-visitor-restriction-job-interview-video'> Source <a/>
