@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Axpomnb3-u73OpAN8GG70vtgar4=/0x0:2040x1360/1200x800/filters:focal(585x480:911x806)/cdn.vox-cdn.com/uploads/chorus_image/image/66430159/VRG_ILLO_3512_001.0.jpg' width='700px' /><br/>
+Facebook is altering its plans for its Libra cryptocurrency project following months of severe regulatory pressure and political pushback, according to a new report from The Information published on Tuesday.
+<a href='https://www.theverge.com/2020/3/3/21163658/facebook-libra-cryptocurrency-token-ditching-plans-calibra-wallet-delay'> Source <a/>
