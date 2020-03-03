@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/MOArmzbGDKCQCIC2em2KAyPvarU=/0x0:3840x2160/1200x675/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/66416392/Spell_Shock.0.jpg' width='700px' /><br/>
 Back in 2016, Frederic Descamps and Jordan Maynard formed a new studio called Manticore Games with the intention of building the kinds of real-time, competitive experiences they loved to play.
-<a href='https://www.theverge.com/2020/3/2/21158189/core-free-game-creation-tool-pc-youtube-twitch'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/MOArmzbGDKCQCIC2em2KAyPvarU=/0x0:3840x2160/1200x675/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/66416392/Spell_Shock.0.jpg' width='700px' /><br/>
-Back in 2016, Frederic Descamps and Jordan Maynard formed a new studio called Manticore Games with the intention of building the kinds of real-time, competitive experiences they loved to play.
 <a href='https://www.theverge.com/2020/3/2/21158189/core-free-game-creation-tool-pc-youtube-twitch'> Source <a/>

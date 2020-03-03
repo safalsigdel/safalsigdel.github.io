@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/S0Xq6U9mhBRVU-zVxsH1MwyrBiU=/0x0:1559x876/1200x800/filters:focal(656x314:904x562)/cdn.vox-cdn.com/uploads/chorus_image/image/66416195/image_qk_product_3.0.jpg' width='700px' /><br/>
 Jeep's powerful new electric bike, which it first teased during its Groundhog Day-themed Super Bowl ad, is now available for preorder. But be forewarned: this one ain't cheap.
-<a href='https://www.theverge.com/2020/3/2/21161230/jeep-ebike-electric-bike-quietkat-manufacturer-preorder-price-specs-date'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/S0Xq6U9mhBRVU-zVxsH1MwyrBiU=/0x0:1559x876/1200x800/filters:focal(656x314:904x562)/cdn.vox-cdn.com/uploads/chorus_image/image/66416195/image_qk_product_3.0.jpg' width='700px' /><br/>
-Jeep's powerful new electric bike, which it first teased during its Groundhog Day-themed Super Bowl ad, is now available for preorder. But be forewarned: this one ain't cheap.
 <a href='https://www.theverge.com/2020/3/2/21161230/jeep-ebike-electric-bike-quietkat-manufacturer-preorder-price-specs-date'> Source <a/>
