@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5SWmEIT_zaYr3r_38Q5MlWsisvE=/0x0:4468x3177/1200x0/filters:focal(0x0:4468x3177):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19763061/English_DarkMode_iPhone.jpg' width='700px' /><br/>
+WhatsApp is finally getting a new dark mode on iOS and Android today. After months of beta testing on both mobile operating systems, the WhatsApp dark mode will be available for all users today. If you already have dark mode enabled at the system level on iOS 13 or Android 10, then WhatsApp will automatically switch over. Android 9 users can simply enable a new dark theme in the WhatsApp settings menu.
+<a href='https://www.theverge.com/2020/3/3/21162387/whatsapp-dark-mode-ios-android-download-features-release-date'> Source <a/>

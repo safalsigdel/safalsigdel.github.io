@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SepUyeh_Sxth-LM-sqAz0GXulXs=/0x0:2040x1360/1200x800/filters:focal(842x644:1168x970)/cdn.vox-cdn.com/uploads/chorus_image/image/66419373/vpavic_181116_3087_0134.0.jpg' width='700px' /><br/>
-One of the best deals from last year's Black Friday shopping holiday was on the Google Pixel Slate tablet. That deal is back, and it's a little better than before. Not only is it hundreds off of its usual $999 price, it's an extra $50 cheaper than the previous best price, totaling $599 instead of $649 for the midrange configuration with an Intel Core i5 CPU.
-<a href='https://www.theverge.com/good-deals/2020/3/2/21161957/google-pixel-slate-tablet-chromebook-keyboard-pen-free-bundle-599'> Source <a/>

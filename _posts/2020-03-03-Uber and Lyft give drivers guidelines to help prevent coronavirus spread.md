@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8vDgNr8ACIUhXTfZPEAzi5V9-_c=/0x0:5077x3509/1200x800/filters:focal(1258x1284:2070x2096)/cdn.vox-cdn.com/uploads/chorus_image/image/66419212/1185995527.jpg.0.jpg' width='700px' /><br/>
-Uber and Lyft are telling their contracted drivers how best to prevent potential spread of the coronavirus, as more than 90,000 infections have been confirmed worldwide in the two months since the outbreak began.
-<a href='https://www.theverge.com/2020/3/2/21161932/uber-lyft-coronavirus-driver-guidance-travel-restrictions'> Source <a/>
