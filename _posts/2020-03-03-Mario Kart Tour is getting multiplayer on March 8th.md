@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a-LnJ6FprXhU4U7JAAeR4JTwjvk=/0x0:1024x1024/1200x800/filters:focal(430x394:592x556)/cdn.vox-cdn.com/uploads/chorus_image/image/66420908/mobile_MarioKartTour_screen_01.0.png' width='700px' /><br/>
+Nintendo announced on Monday that Mario Kart Tour, the mobile iteration of the Mario Kart series, will finally be getting multiplayer this weekend, nearly six months after its late September launch.
+<a href='https://www.theverge.com/2020/3/2/21162314/mario-kart-tour-multiplayer-ios-android-release-date-new-feature'> Source <a/>
