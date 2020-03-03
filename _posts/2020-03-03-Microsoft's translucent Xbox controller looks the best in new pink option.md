@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1ighFLqqIwyejQQW6ujaVtsJURE=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/66415820/xboxcontrollermagenta.0.jpg' width='700px' /><br/>
-Microsoft has already released two translucent Phantom Xbox controllers in white and black, but the company now has the best color yet: magenta. The latest translucent design fades to a dark pink, and like all modern Xbox controllers, includes Bluetooth support and a textured grip. Preorders for the new controller begin today for $69.99, and it will be available on March 17th.
-<a href='https://www.theverge.com/2020/3/2/21161174/microsoft-xbox-phantom-controller-pink-preorder-release-date-price'> Source <a/>
