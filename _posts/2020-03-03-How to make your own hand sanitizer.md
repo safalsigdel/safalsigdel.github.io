@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jzpIyxTUX4P1EFG4sFNegOUvBH4=/0x0:3840x5760/1200x800/filters:focal(1652x2829:2266x3443)/cdn.vox-cdn.com/uploads/chorus_image/image/66418337/1204234931.jpg.0.jpg' width='700px' /><br/>
-Everyone agrees, including the Centers for Disease Control and Prevention (CDC), that if you want to avoid the transmission of disease, including the novel coronavirus, the best way to do that is to wash your hands thoroughly with soap and water, and avoid touching your face. But if you're traveling, or otherwise don't have access to soap and water, the next best thing is a hand sanitizer.
-<a href='https://www.theverge.com/2020/3/2/21161346/hand-sanitizer-diy-how-to-hand-wash-cdc-alcohol-virus-illness'> Source <a/>
