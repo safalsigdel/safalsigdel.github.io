@@ -1,3 +1,0 @@
-<img src='' width='700px' /><br/>
-Death Stranding, Hideo Kojima's latest game, was released on PlayStation 4 last year, and is now coming to PC on June 2nd, published by 505 Games. The PC version of the game gets some new features, including a photo mode, support for high frame rate and ultrawide monitors, and some really cool Half-Life-themed cosmetics.
-<a href='https://www.theverge.com/2020/3/2/21161413/death-stranding-pc-june-2nd-half-life-headcrab-steam-epic-games-store'> Source <a/>

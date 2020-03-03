@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qn3nXndysZSS1Q1rCm_I_riamN0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66422861/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Twitter has announced that it will be “strongly encouraging” all of its employees around the world to work from home “if able,” as the company seeks to prevent the spread of the novel coronavirus causing COVID-19. The company hasn't said how long it will be encouraging employees to stay home.
+<a href='https://www.theverge.com/2020/3/3/21162760/twitter-coronavirus-employee-remote-work-home-prevention'> Source <a/>
