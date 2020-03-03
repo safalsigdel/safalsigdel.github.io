@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aFQ6YESgmVCwn0bJw3Sh-pFLN_I=/0x0:7360x4912/1200x800/filters:focal(2090x2090:3266x3266)/cdn.vox-cdn.com/uploads/chorus_image/image/66419548/Fortnite_WorldCup2019_PressDay_Candids_00011__1_.0.jpg' width='700px' /><br/>
-Epic Games announced today that it won't be hosting any Fortnite tournaments with cash prizes until it addresses performance issues affecting both players and the game's servers. “Our goal is to improve performance before kicking off any cash prized competition,” the company said in a statement.
-<a href='https://www.theverge.com/2020/3/2/21162003/epic-delays-fortnite-tournaments-fixes-performance-issues-world-cup'> Source <a/>
