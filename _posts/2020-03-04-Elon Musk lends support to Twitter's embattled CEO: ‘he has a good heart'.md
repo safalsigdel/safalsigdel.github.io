@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mThpRRkwIltLOHqQOXhrrl6fWZQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66422268/1151694547.jpg.0.jpg' width='700px' /><br/>
-Elon Musk lended public support to Twitter CEO Jack Dorsey who's being pressured to step down by an activist investor. “Just want to say that I support @Jack as Twitter CEO. He has a good heart,” Musk tweeted, using a heart emoji because that's how middle-aged billionaires communicate.
-<a href='https://www.theverge.com/2020/3/3/21162667/elon-musk-jack-dorsey-bromance-good-heart'> Source <a/>
