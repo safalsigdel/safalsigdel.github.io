@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k-LwWR7Gh1GOGKzd2RHUcLt09qo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66431506/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-An Amazon employee in Seattle has tested positive for the COVID-19 coronavirus, as first reported by The New York Times. “We're supporting the affected employee who is in quarantine,” the company tells The Verge in a statement.
-<a href='https://www.theverge.com/2020/3/3/21164026/amazon-employee-coronavirus-positive-seattle-covid-19-quarantine'> Source <a/>
