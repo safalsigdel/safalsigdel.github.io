@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Mq0gCtE75Q7s09cb__f1gLmQxhE=/0x0:2040x1530/1200x800/filters:focal(818x761:1144x1087)/cdn.vox-cdn.com/uploads/chorus_image/image/66436427/aliptak_180919_2960_5232.0.jpg' width='700px' /><br/>
+General Motors just announced a huge new push into electric vehicles, including a new longer-wheelbase version of the Bolt EV that will be the first car outside of the Cadillac brand to get the company's Super Cruise advanced driver assistance system. The new vehicle is expected to launch in mid-2021.
+<a href='https://www.theverge.com/2020/3/4/21164856/chevy-bolt-suv-cadillac-super-cruise-general-motors-battery'> Source <a/>

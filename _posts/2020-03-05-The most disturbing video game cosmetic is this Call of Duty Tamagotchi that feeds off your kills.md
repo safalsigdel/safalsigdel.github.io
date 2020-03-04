@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Players of Activision's Call of Duty: Modern Warfare are getting perhaps the most tonally jarring cosmetic option in the history of shooting games with the introduction of the “Tomogunchi,” a parody of the iconic Japanese digital pet watches launched back in 1996.
-<a href='https://www.theverge.com/tldr/2020/3/3/21163888/call-of-duty-modern-warfare-tamagotchi-tomogunchi-watch-virtual-pet-cosmetic'> Source <a/>
