@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_VDvjrszIzbXqjLOvrqAKPrHXnc=/0x0:1600x1200/1200x800/filters:focal(1041x454:1297x710)/cdn.vox-cdn.com/uploads/chorus_image/image/66439986/noPKZGpShr5I3PkA.huge.0.png' width='700px' /><br/>
+iFixit has posted its teardown of Samsung's new Galaxy S20 Ultra, and it reveals that the 108-megapixel camera sensor is, as you might expect, really big.
+<a href='https://www.theverge.com/2020/3/4/21165187/ifixit-samsung-galaxy-s20-ultra-teardown-108-megapixel-sensor-iphone-11-pro'> Source <a/>
