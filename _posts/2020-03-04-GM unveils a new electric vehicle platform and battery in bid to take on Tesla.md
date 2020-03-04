@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aRxUSLor9dZmVoJPcSjFiqnr6v0=/0x0:3600x2478/1200x800/filters:focal(1512x951:2088x1527)/cdn.vox-cdn.com/uploads/chorus_image/image/66435552/GM_All_Electric_Path_To_Zero_Emissions.0.jpg' width='700px' /><br/>
+General Motors laid out its electric vehicle strategy on Wednesday, showcasing roughly a dozen products as part of a broader attempt to convey to investors how serious it is about embracing its electric future.
+<a href='https://www.theverge.com/2020/3/4/21164513/gm-ev-platform-architecture-battery-ultium-tesla'> Source <a/>

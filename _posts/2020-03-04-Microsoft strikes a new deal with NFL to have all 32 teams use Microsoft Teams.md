@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GpFHX3J-c7pRhVDB1XheIh5x8AQ=/0x0:2560x1707/1200x800/filters:focal(1076x650:1484x1058)/cdn.vox-cdn.com/uploads/chorus_image/image/66429749/NFL_and_Teams_2_scaled.0.jpg' width='700px' /><br/>
-Microsoft and the NFL have renewed and expanded their partnership, making Microsoft Teams the league's official communication platform and keeping Surface products as the official tablet. The expanded partnership is a huge win for the tech giant weeks after IBM chose Slack over Microsoft Teams as the internal communication tool for its employees.
-<a href='https://www.theverge.com/2020/3/3/21163685/microsoft-nfl-partnership-teams-official-communication-app'> Source <a/>
