@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7E20s-xaQZl9nDsL0L5Qsjxxmqw=/0x0:3781x2521/1200x800/filters:focal(1589x959:2193x1563)/cdn.vox-cdn.com/uploads/chorus_image/image/66424818/1204493567.jpg.0.jpg' width='700px' /><br/>
-Amazon isn't shy about its push into sports broadcasting, but a recent deal to give Prime members access to 21 Yankees games this season as part-owner in the team's network is another testament to its growing ambitions.
-<a href='https://www.theverge.com/2020/3/3/21162997/amazon-prime-video-yankees-stream-games-youtube-tv-sinclair-dazn-espn'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/27U8vzYj4TOEt1x83UDDLoT3UXs=/0x0:3000x1997/1200x800/filters:focal(1385x473:1865x953)/cdn.vox-cdn.com/uploads/chorus_image/image/66434084/1209304365.jpg.0.jpg' width='700px' /><br/>
+London's Metropolitan Police force — the UK's largest — deployed its Live Facial Recognition (LFR) technology in Oxford Circus, a very busy area of the city. The system scanned 8,600 faces, and, as Business Insider reports, spit out eight matches — only one of which was a person wanted by the police. That's a false-identification rate of 86 percent.
+<a href='https://www.theverge.com/2020/3/4/21164482/london-metropolitan-police-face-scanning-consent-civil-liberties'> Source <a/>
