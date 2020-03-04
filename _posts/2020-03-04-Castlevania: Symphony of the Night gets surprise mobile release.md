@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ICTMX_-WqGd43Zj2Cns9AXMPW_g=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/66432809/ESPmgPVU4AAWAu7.0.jpeg' width='700px' /><br/>
+“What is an app? A miserable little pile of secrets!” At least, that may well apply to this particular app — Konami just released a mobile version of genre-defining side-scrolling action-RPG classic Castlevania: Symphony of the Night seemingly without announcement or warning.
+<a href='https://www.theverge.com/2020/3/4/21164298/castlevania-symphony-of-the-night-ios-android-version-released-price'> Source <a/>
