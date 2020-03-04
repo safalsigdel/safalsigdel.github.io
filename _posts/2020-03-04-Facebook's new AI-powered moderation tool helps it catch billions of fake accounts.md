@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eaE-j070YN3a9iYj6hUYZDUbKY8=/0x0:2040x1360/1200x800/filters:focal(895x562:1221x888)/cdn.vox-cdn.com/uploads/chorus_image/image/66435255/akrales_180614_1777_0080.0.jpg' width='700px' /><br/>
+Facebook is opening up about the behind-the-scenes tools it uses to combat fake account creation on its platforms, and the company says it has a new artificial intelligence-powered method known as Deep Entity Classification (DEC) that's proved especially effective.
+<a href='https://www.theverge.com/2020/3/4/21164695/facebook-ai-moderation-dec-deep-entity-classification-fake-accounts-spam-scams'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7p8zZv7OYw1IKMqvWMkThCClWJU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66424827/vpavic_191212_3835_0177.0.jpg' width='700px' /><br/>
-On Monday, Google began to roll out a substantial Android update to its Pixel phones — and then it stopped. As 9to5Google reports, Google has pulled the March update for Pixel 4 and Pixel 4 XL phones that use AT&T from its website. The AT&T build is no longer listed in Google's Android API repository.
-<a href='https://www.theverge.com/2020/3/3/21163091/google-android-update-pixel-4-march-pull'> Source <a/>

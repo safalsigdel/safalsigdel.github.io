@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iqQTLFaHwz93cdanaHHNnkB8a4I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66435286/akrales_180508_2553_0064_2.0.jpg' width='700px' /><br/>
+Google is beginning to roll out its article-reading feature on Google Assistant that will read webpages aloud. This was previewed back at CES in January and is becoming available globally starting today.
+<a href='https://www.theverge.com/2020/3/4/21164510/google-assistant-screen-reading-feature-accessibility-translation'> Source <a/>
