@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ixO8rKW9lprax7uMgARihiwrjWA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66438318/akrales_190528_3450_0005.0.jpg' width='700px' /><br/>
+Valve's new Index VR headset has been sold out for weeks, but the company just informed customers that the product will finally be on sale again on Monday, March 9th, starting at 1PM ET. Here's the Index product page if you want to bookmark it for Monday — but you should be aware that stock may be limited.
+<a href='https://www.theverge.com/2020/3/4/21164983/valve-index-vr-headset-monday-price-availability-half-life-alyx'> Source <a/>
