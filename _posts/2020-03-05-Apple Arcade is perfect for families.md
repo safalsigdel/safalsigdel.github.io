@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zLT8o8iEPycY7cutybPdbUxjrGU=/0x0:2732x2048/1200x800/filters:focal(1148x806:1584x1242)/cdn.vox-cdn.com/uploads/chorus_image/image/66434203/Crossy_Road_Castle___2732_x_2048__Landscape____09.0.png' width='700px' /><br/>
-There's often a line to use the iPad Pro in my house, and it's all Apple Arcade's fault.
-<a href='https://www.theverge.com/2020/3/4/21164414/apple-arcade-family-kids-crossy-road-butter-royale-loud-house-netflix'> Source <a/>

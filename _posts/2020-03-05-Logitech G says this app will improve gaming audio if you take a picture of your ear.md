@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XWzrrWWMPWwYyKdDqhAaCONeZMY=/0x0:963x628/1200x800/filters:focal(405x237:559x391)/cdn.vox-cdn.com/uploads/chorus_image/image/66440208/Immerse_for_Logitech_G_Blog_and_Press_1__1_.0.jpg' width='700px' /><br/>
+Logitech G is launching support for a new app that lets you customize your gaming audio for better immersion. The app is supposed to let you hear game sounds like large-scale battles, nearby footsteps, or racing sounds on a race track more clearly.
+<a href='https://www.theverge.com/2020/3/4/21164521/logitech-headset-personalized-sound-app-immerse-embody'> Source <a/>
