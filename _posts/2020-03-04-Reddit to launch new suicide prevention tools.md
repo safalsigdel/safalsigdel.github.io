@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Yk6lREHlbec5BDZpRazvkjxnflw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66436237/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
+Today, Reddit is announcing new tools to help with suicide prevention, offered in partnership with the Crisis Text Line. The feature will let users report others who appear to be at risk so that Reddit can provide them with suicide prevention resources when they might need them most.
+<a href='https://www.theverge.com/2020/3/4/21164687/reddit-new-suicide-prevention-tools-crisis-text-line'> Source <a/>

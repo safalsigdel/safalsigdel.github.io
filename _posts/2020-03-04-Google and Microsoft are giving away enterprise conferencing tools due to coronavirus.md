@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Az60YyDZwT8BVdWZ9yNxx9cc5zM=/0x0:5334x3556/1200x800/filters:focal(1897x1362:2749x2214)/cdn.vox-cdn.com/uploads/chorus_image/image/66430561/1203951968.jpg.0.jpg' width='700px' /><br/>
-The ongoing coronavirus outbreak has pushed more companies and organizations to transition to remote work, and now both Google and Microsoft have said they will grant access to their more robust teleconferencing and collaboration tools that are typically only available to enterprise customers to make it easier for people to work from home. Both companies are only offering free access for a limited time.
-<a href='https://www.theverge.com/2020/3/3/21163744/google-microsoft-free-access-coronavirus-google-hangouts-meet-teams'> Source <a/>
