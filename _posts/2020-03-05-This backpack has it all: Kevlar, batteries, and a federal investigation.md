@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mp3W4tWrXLrd38H_1c882K3rNS8=/0x0:2040x1360/1200x675/filters:focal(854x556:1180x882)/cdn.vox-cdn.com/uploads/chorus_image/image/66433273/acastro_200303_3924_iBackPack_0001.0.jpg' width='700px' /><br/>
-Lots of people want a word with Doug Monahan — government lawyers, crowdfunding backers, people from his past, and me.
-<a href='https://www.theverge.com/2020/3/4/21156136/ibackpack-smart-backpack-kickstarter-indiegogo-crowdfunding-scam-investigation-ftc-doug-monahan'> Source <a/>
