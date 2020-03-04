@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/svJmy9PSWLXZce3BFCufI61-CMY=/0x0:2040x1360/1200x800/filters:focal(1034x557:1360x883)/cdn.vox-cdn.com/uploads/chorus_image/image/66433208/DSC00734.0.jpg' width='700px' /><br/>
-I have to admit that the fact that this watch is called the “Amazfit T-Rex” was a fairly major factor in my deciding to check it out. Who doesn't want to say they have a T-Rex on their wrist? A bigger factor, though, was its manufacturer's claims about the watch's battery life, and I'm surprised to confirm that the T-Rex did not disappoint.
-<a href='https://www.theverge.com/2020/3/4/21155683/amazfit-trex-huami-xiaomi-smartwatch-hands-on-review'> Source <a/>

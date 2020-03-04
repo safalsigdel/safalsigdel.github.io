@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N89EdFHhgIKXJ5ARkZVKeDFV7Wc=/0x0:1024x512/1200x800/filters:focal(431x175:593x337)/cdn.vox-cdn.com/uploads/chorus_image/image/66439957/aDzH7sHpSJ9ivMQhPMiwT5_1024_80.0.jpg' width='700px' /><br/>
+BMW has a new logo, marking the biggest change to the company's branding since the iconic emblem was introduced in 1917. As with many modern redesigns of logos made to chase today's trendy aesthetic of a super flat ultra-minimalist style, the new BMW logo sacrifices the company's well-known identity in favor of presumed modernity.
+<a href='https://www.theverge.com/2020/3/4/21163766/bmw-new-flat-logo-design-bad-transparent-background-cars'> Source <a/>
