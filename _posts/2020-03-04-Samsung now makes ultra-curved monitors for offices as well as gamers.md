@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/csM8wUyyjYLppiMRXwBxiGN27QY=/0x0:1000x667/1200x800/filters:focal(420x254:580x414)/cdn.vox-cdn.com/uploads/chorus_image/image/66432741/1580435340382_b_t55_010_Dynamic_Black.0.jpg' width='700px' /><br/>
+Samsung's big monitor push at CES this year was all about curvature. The 1000R measurement of its Odyssey G9 and G7 gaming monitors is intended to more accurately match the human eye's field of view. I tried out the colossal 49-inch G9 and it did indeed feel like the screen was wrapped around me, even though for some reason Samsung decided to demo it with the 16:9-only Overwatch.
+<a href='https://www.theverge.com/2020/3/4/21164278/samsung-t55-1000r-ultra-curved-monitor-specs'> Source <a/>
