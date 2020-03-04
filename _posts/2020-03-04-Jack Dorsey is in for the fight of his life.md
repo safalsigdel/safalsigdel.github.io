@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T06yfW3LdL8osNP5Fc4ZYAcphG8=/0x0:2592x1728/1200x800/filters:focal(1089x657:1503x1071)/cdn.vox-cdn.com/uploads/chorus_image/image/66433003/REC_ASA_CODE2016-20160601-142009-2355.0.0.jpeg' width='700px' /><br/>
+Were there not a deadly coronavirus spreading across the globe, I suspect more of us might be talking about a different disruption to life as we know it: the potential end of Jack Dorsey's latest tenure as the CEO of Twitter.
+<a href='https://www.theverge.com/interface/2020/3/4/21163146/jack-dorsey-activist-investor-paul-singer-elliott-management'> Source <a/>

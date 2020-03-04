@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CsxEWe7B666AeKqUKaNiH50BQeA=/0x0:2040x1358/1200x675/filters:focal(857x516:1183x842)/cdn.vox-cdn.com/uploads/chorus_image/image/66424238/40363_ProphecyConceptEV.0.jpg' width='700px' /><br/>
-Hyundai has unveiled a new electric concept car called the Prophecy that, frankly, looks like a Porsche 911 and a Model 3 were smashed together and cloaked in obsidian.
-<a href='https://www.theverge.com/2020/3/3/21162967/hyundai-prophecy-electric-concept-photos-geneva-motor-show-2020'> Source <a/>
