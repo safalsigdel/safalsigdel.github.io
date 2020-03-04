@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AC9DG3a2irJ-hIADVMV5-h_nruM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66427618/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google is canceling its I/O developer event this year, amid the ongoing coronavirus outbreak. Google I/O was due to take place between May 12th to 14th this year, and the cancellation comes just days after Google scrapped its Cloud Next event in San Francisco in favor of a “digital-first” event.
-<a href='https://www.theverge.com/2020/3/3/21163553/google-io-2020-cancelled-coronavirus-tech-developer-conference'> Source <a/>
