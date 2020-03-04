@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jht7kNAaMb45ngwzOslt4VMd6Fw=/0x0:3000x2000/1200x675/filters:focal(1250x0:1730x480)/cdn.vox-cdn.com/uploads/chorus_image/image/66419537/gblackmon_election2020_star.0.10.jpg' width='700px' /><br/>
-The 2020 presidential election is going to kick off a firestorm of change for our country and the networks that connect us all.
-<a href='https://www.theverge.com/2020/3/3/21162080/election-2020-big-tech-internet-information-future-change-giants'> Source <a/>

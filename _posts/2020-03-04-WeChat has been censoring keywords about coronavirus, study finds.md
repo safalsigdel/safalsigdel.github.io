@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4fCOno2v0g_ojchJald8fhHIO6k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66431459/acastro_181126_1777_weChat_0003.0.jpg' width='700px' /><br/>
+China's most popular messaging app, Tencent-owned WeChat, has been censoring keywords about coronavirus since as early as January 1st, an analysis found. Popular Chinese livestreaming platform YY has been censoring coronavirus content, too.
+<a href='https://www.theverge.com/2020/3/3/21163844/wechat-yy-censoring-coronavirus-keywords-citizen-lab'> Source <a/>
