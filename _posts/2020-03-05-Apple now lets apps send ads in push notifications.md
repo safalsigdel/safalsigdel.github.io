@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JJofFE6H8e0iAyWPI2jUQ87BcDU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66439274/jbareham_171030_2099_A_0110.0.jpg' width='700px' /><br/>
+Apple will now allow push notifications to be used for advertising, so long as users agree to receive the ads first.
+<a href='https://www.theverge.com/2020/3/4/21165087/ios-apple-push-notification-advertising-marketing-now-allowed-app-store'> Source <a/>

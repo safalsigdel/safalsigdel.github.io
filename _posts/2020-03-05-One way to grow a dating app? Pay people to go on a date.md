@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HPQbfDrQw25ZUTElbjCus89QpNY=/0x0:786x524/1200x800/filters:focal(331x200:455x324)/cdn.vox-cdn.com/uploads/chorus_image/image/66433091/hinge.0.jpg' width='700px' /><br/>
-Hinge is going to give people in the US a $100 Visa online gift card to go on date, a decision that'll presumably encourage them to schedule plans while also helping the company market itself and grow. The dating app previously partnered with bars to give its daters discounts, but this is the first time the company has given people what essentially amounts to cash. The company has $25,000, or enough money for 250 daters, set aside for the promotion.
-<a href='https://www.theverge.com/2020/3/4/21163161/hinge-day-of-unplugging-date-visa-card-promotion'> Source <a/>
