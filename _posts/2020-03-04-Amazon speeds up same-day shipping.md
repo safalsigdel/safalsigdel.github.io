@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N577FB2rsCUCs8rJJcFnh3AcQ-Q=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66423889/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-Amazon is starting to offer even faster same-day shipping in select cities. The company has built out new warehouses in Dallas, Orlando, Philadelphia, and Phoenix that allow it to deliver orders in a matter of hours, whereas it previously couldn't guarantee delivery until the end of the day.
-<a href='https://www.theverge.com/2020/3/3/21162892/amazon-faster-same-day-shipping'> Source <a/>
