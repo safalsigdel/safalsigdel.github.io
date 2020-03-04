@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fb8VUSe5dZVfRCVAPNxFTpev3a8=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/66431417/6E5ECEBF-9FF9-48FD-AD20-CE79E060E2BB.0.0.1433264805.0.jpg' width='700px' /><br/>
+Pinterest is introducing a “custom search experience” when you seek out information about the coronavirus on its platform, as a way to “connect Pinners with facts and myth-bust what's not true with authoritative information from the [World Health Organization],” the company tells The Verge.
+<a href='https://www.theverge.com/2020/3/3/21163972/pinterest-showing-custom-search-results-coronavirus-misinformation'> Source <a/>
