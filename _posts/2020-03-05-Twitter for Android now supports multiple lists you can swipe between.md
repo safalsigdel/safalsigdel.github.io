@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bTTgOOODpQ1OCa-7VuFNv0V7Odg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66432982/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter is updating its Android app this week to support up to five lists as alternative timelines in the main home section of the app. You can use these lists to quickly swipe between different groups of accounts that you've organized into a Twitter list. It's a far more convenient way to access lists which were previously buried inside the menu system.
-<a href='https://www.theverge.com/2020/3/4/21164328/twitter-android-lists-alternative-timeline-swipe-feeds-pinned-follow-people-feature-update'> Source <a/>

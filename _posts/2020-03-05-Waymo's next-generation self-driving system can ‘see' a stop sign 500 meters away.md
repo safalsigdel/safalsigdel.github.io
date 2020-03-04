@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2IOsFhzbwy5Us9YGjtfY3NWMdWQ=/0x0:1180x664/1200x800/filters:focal(496x238:684x426)/cdn.vox-cdn.com/uploads/chorus_image/image/66438946/SF.0.png' width='700px' /><br/>
+Waymo unveiled its fifth-generation self-driving system Wednesday, which the Alphabet-owned company claims can see farther and more accurately than its previous four versions. The system features updated sensors that will improve Waymo's ability to “see” the world around it. And it will be cheaper to produce, enabling the company to get more autonomous vehicles on the road faster and more efficiently.
+<a href='https://www.theverge.com/2020/3/4/21165014/waymo-fifth-generation-self-driving-radar-camera-lidar-jaguar-ipace'> Source <a/>
