@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rtzAD9PVHohZ21GKprXd7nh74Is=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66436195/wkf_phone_notext.0.jpg' width='700px' /><br/>
+The media is full of advice about how to avoid spreading COVID-19, caused by the novel coronavirus. Most of it involves keeping your hands clean and not touching your face. But your hands aren't the only things that touch your face. What about your phone?
+<a href='https://www.theverge.com/2020/3/4/21163613/coronavirus-smartphone-germs-disinfect-apple-google'> Source <a/>

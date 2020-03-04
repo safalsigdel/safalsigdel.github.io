@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lEeH2HPpG9Qo4UwbgHNpfjsIZIw=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66430356/Transit_Cargo1.0.jpg' width='700px' /><br/>
-Ford is making an all-electric version of its popular Transit cargo van for the US and Canadian markets, slated to be released in 2021. The company did not share any specifics about the van's battery pack size, estimated range, or performance characteristics. Ford previously announced an electric Transit for the European market in 2019.
-<a href='https://www.theverge.com/2020/3/3/21163669/ford-all-electric-transit-cargo-van-2021'> Source <a/>
