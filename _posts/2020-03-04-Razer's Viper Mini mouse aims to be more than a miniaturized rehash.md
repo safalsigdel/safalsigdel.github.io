@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6yz-b5EOFEllO8S1mpWCt6F7EDU=/0x0:2966x1978/1200x800/filters:focal(1246x752:1720x1226)/cdn.vox-cdn.com/uploads/chorus_image/image/66434742/razerviperminihero.0.jpg' width='700px' /><br/>
+Last summer, Razer's Viper wired gaming mouse had the distinction of being the company's most lightweight mouse yet. Now Razer has one-upped itself with an even lighter mouse called the Viper Mini, which weighs in at 61 grams (2.15 ounces). This may not be a lot different from the 69-gram (2.43-ounce) Viper, but it's just a little closer to feeling completely weightless, if that's your bag.
+<a href='https://www.theverge.com/2020/3/4/21161433/razer-viper-mini-gaming-mouse-price-wired-features'> Source <a/>
