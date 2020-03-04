@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W4bbGT0E09d72aJCdCWxmSf1AGc=/0x0:2040x1360/1200x800/filters:focal(989x568:1315x894)/cdn.vox-cdn.com/uploads/chorus_image/image/66440535/etsy5_2040.0.0.jpg' width='700px' /><br/>
+Etsy is escalating its response to the ongoing coronavirus outbreak by removing merchandise on the platform that mention the virus or COVID-19, the respiratory illness it causes in human beings, according to a new report from BuzzFeed News. Hundreds of listings have already been removed under the new policy.
+<a href='https://www.theverge.com/2020/3/4/21165404/etsy-coronavirus-ban-removal-items-covid-19-misinformation'> Source <a/>
