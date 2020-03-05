@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+The first wave of foldable devices are here, and honestly they've tended to be a bit... disappointing. But even as hardware companies are still trying to get flexible displays right, TCL is already looking ahead with a pair of foldable and rollable prototypes that imagines what the future of phones could look like.
+<a href='https://www.theverge.com/circuitbreaker/2020/3/5/21165069/tcl-foldable-trifold-phone-hands-on-rollable-concept-prototype-display-tablet'> Source <a/>
