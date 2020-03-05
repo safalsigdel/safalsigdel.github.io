@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bAPG4bihL8ynN30rhv-uaMD5DZQ=/0x0:2040x1360/1200x800/filters:focal(1047x702:1373x1028)/cdn.vox-cdn.com/uploads/chorus_image/image/66440238/akrales_180709_2715_0076.5.jpg' width='700px' /><br/>
-Boosted, the company that basically created the market for electric skateboards, has laid off a “significant portion” of its roughly 130-person team amid a serious cash crunch. Boosted's CEO Jeff Russakow and CTO John Ulmen said in a blog post on the company's website that the “Boosted brand will continue to pursue strategic options under new ownership.”
-<a href='https://www.theverge.com/2020/3/4/21165336/boosted-layoffs-money-funding-problems'> Source <a/>
