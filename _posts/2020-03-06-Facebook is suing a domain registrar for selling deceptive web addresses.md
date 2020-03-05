@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dPMU9mztASwappVtQ5y55HhG7Mk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66449058/acastro_180522_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook is suing Arizona domain name registrar Namecheap and its proxy service Whoisguard for allowing people to register domain names that “deceive people by pretending to be affiliated with Facebook apps,” the company said in a blog post on Thursday.
+<a href='https://www.theverge.com/2020/3/5/21166485/facebook-lawsuit-namecheap-faked-domain-names-phishing'> Source <a/>
