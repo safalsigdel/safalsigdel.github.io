@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z_GtoGuaujsJi4Bw0Jj8OGGufQA=/0x0:7952x5304/1200x675/filters:focal(3340x2016:4612x3288)/cdn.vox-cdn.com/uploads/chorus_image/image/66435712/Microlino_Pressefotos2020-10.0.0.jpg' width='700px' /><br/>
-What you're looking at is the Microlino 2.0 electric microcar and Microletta electric trike from Switzerland's Micro Mobility Systems.
-<a href='https://www.theverge.com/2020/3/4/21164606/microlino-electric-microcar-microletta-motorbike-price-specs'> Source <a/>
