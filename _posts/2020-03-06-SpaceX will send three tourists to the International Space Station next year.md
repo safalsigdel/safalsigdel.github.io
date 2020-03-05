@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/88BDeVvpH4581AplF8JNeyMLW04=/0x0:900x598/1200x800/filters:focal(378x227:522x371)/cdn.vox-cdn.com/uploads/chorus_image/image/66449221/429387main_s130e012141_hi.0.jpeg' width='700px' /><br/>
+SpaceX will send three tourists on a 10-day trip to the International Space Station sometime in late 2021. It'll use its Falcon 9 rocket and its new Crew Dragon spacecraft, the company announced on Thursday. This marks the second big space tourism announcement from the company this year.
+<a href='https://www.theverge.com/2020/3/5/21166657/spacex-tourists-iss-international-space-station-orbit-falcon-9-dragon'> Source <a/>

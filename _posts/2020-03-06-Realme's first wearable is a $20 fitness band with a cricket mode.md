@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U_ihZ8aFxL0aZbJ9xdJwjqnOSM8=/0x0:2000x1336/1200x800/filters:focal(840x508:1160x828)/cdn.vox-cdn.com/uploads/chorus_image/image/66442233/realme_Band_12.0.jpg' width='700px' /><br/>
-Realme started out aping Xiaomi's model of selling ultra-low-cost Redmi phones in India, so why wouldn't it follow the same path when it comes to wearables? Today the company is announcing the Realme Band, which is no doubt intended to compete with Xiaomi's simple and successful Mi Band series.
-<a href='https://www.theverge.com/2020/3/5/21165938/realme-band-announced-price-date-specs-cricket'> Source <a/>

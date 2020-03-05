@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HrVu0B1A4P67evSaD886CWQs6Tg=/0x0:3000x2000/1200x800/filters:focal(874x486:1354x966)/cdn.vox-cdn.com/uploads/chorus_image/image/66442242/Lightning_Orange_4.0.jpg' width='700px' /><br/>
-Realme has followed up last week's X50 Pro 5G flagship with the announcement of its latest mainstream models for India, the Realme 6 and 6 Pro. The phones see Realme continue its drive to offer high-end features at lower prices.
-<a href='https://www.theverge.com/2020/3/5/21165934/realme-6-6-pro-announced-india-price-specs'> Source <a/>
