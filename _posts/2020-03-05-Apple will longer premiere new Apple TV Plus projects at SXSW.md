@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wuRHQu3GTfcC1H_9-Y37kl94Fxs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66441295/acastro_190530_1777_wwdc_2019_0002.0.0.jpg' width='700px' /><br/>
+Apple is pulling out of SXSW due to coronavirus concerns, Bloomberg's Mark Gurman reported on Wednesday. Apple is following in the footsteps of Facebook, Twitter, Amazon Studios, and others in not attending the Austin-based conference due to the ongoing coronavirus outbreak. Variety also confirmed Apple's withdrawal from the event. Apple did not immediately respond to a request for comment.
+<a href='https://www.theverge.com/2020/3/4/21165588/apple-pulling-out-sxsw-coronavirus-apple-tv-plus-austin'> Source <a/>
