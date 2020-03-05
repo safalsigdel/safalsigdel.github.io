@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t2dtmQFdoiM96vPWmq_k1qOp8uA=/0x0:2040x1394/1200x800/filters:focal(857x534:1183x860)/cdn.vox-cdn.com/uploads/chorus_image/image/66447661/41_New_500_Ex.0.jpg' width='700px' /><br/>
+Fiat Chrysler Automobiles has unveiled a new version of its fully electric Fiat 500 with nearly 200 miles of range and a revamped design. But like most small city cars, especially ones that are electric, the new Fiat 500 EV is unlikely to come to the US, which is a total shame.
+<a href='https://www.theverge.com/2020/3/5/21166345/fiat-500e-ev-specs-price-geneva-motor-show-2020'> Source <a/>
