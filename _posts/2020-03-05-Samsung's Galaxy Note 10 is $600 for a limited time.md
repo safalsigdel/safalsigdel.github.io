@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yYK7TKLdjFKMb6g58PKFEYohD_k=/0x0:2040x1360/1200x800/filters:focal(1100x574:1426x900)/cdn.vox-cdn.com/uploads/chorus_image/image/66445095/akrales_190828_3620_0404.0.jpg' width='700px' /><br/>
+The Samsung Galaxy Note 10 with 256GB of storage currently costs $950 at Amazon and from Samsung, but you can get one right now for just $600. This exclusive deal comes from Daily Steals, which has 100 units of the Galaxy Note 10 to sell at this price. Use the offer code VERGENOTE10 to knock $350 off the price at checkout.
+<a href='https://www.theverge.com/good-deals/2020/3/5/21166262/samsung-galaxy-note-10-deal-sale-s10-plus-discount'> Source <a/>
