@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WPxojvlqrAeJLxspnTkjudytnKk=/0x0:2040x1360/1200x800/filters:focal(860x503:1186x829)/cdn.vox-cdn.com/uploads/chorus_image/image/66448958/akrales_170614_1743_0100.0.jpg' width='700px' /><br/>
+LinkedIn is informing job candidates that they have the option to conduct their interviews virtually or delay it until an unspecified date in the future out of caution for the ongoing novel coronavirus outbreak, according to an email sent to one applicant from LinkedIn's staffing team.
+<a href='https://www.theverge.com/2020/3/5/21166528/linkedin-coronavirus-job-interviews-virtual-bluejeans-travel-limit'> Source <a/>
