@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O9iyvNVy2BiAn0s00MDHsNNS-Bg=/0x0:2040x1360/1200x800/filters:focal(831x737:1157x1063)/cdn.vox-cdn.com/uploads/chorus_image/image/66443279/cwelch_191031_3763_0003.0.jpg' width='700px' /><br/>
-Apple's AirPods Pro truly wireless earphones cost $249.99 new, and there's only been a few instances of that price wiggling. If you're looking to save some money, and don't mind if the headphones aren't brand-new, Best Buy is offering $41 off the original price for refurbished units.
-<a href='https://www.theverge.com/good-deals/2020/3/5/21163043/apple-airpods-pro-wireless-earbuds-discount-refurbished-deal-best-buy'> Source <a/>
