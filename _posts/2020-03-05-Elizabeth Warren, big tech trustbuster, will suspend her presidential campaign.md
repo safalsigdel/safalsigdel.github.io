@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uYx4S_zDP6yl5U_bvM-5nUAT_CI=/0x0:5460x3453/1200x800/filters:focal(2294x1291:3166x2163)/cdn.vox-cdn.com/uploads/chorus_image/image/66444470/1204234549.jpg.0.jpg' width='700px' /><br/>
+Sen. Elizabeth Warren will suspend her presidential campaign, The New York Times reported on Thursday. The Massachusetts senator's path to the Democratic nomination narrowed after she failed to win any early state contest, including the Super Tuesday primary in her home state this week.
+<a href='https://www.theverge.com/2020/3/5/21162118/elizabeth-warren-suspends-campaign-big-tech-break-up-election-2020-democratic-primary'> Source <a/>

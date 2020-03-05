@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xodvRXfcDuTVrMhB1_5yOoMPink=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66438334/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T is finally making its faster, mmWave 5G network — which it calls “5G Plus” — available to customers this Friday, alongside the launch of the Samsung Galaxy S20 Plus and S20 Ultra. The launch marks the first time that customers will be able to access both the sub-6GHz and mmWave portions of AT&T's network.
-<a href='https://www.theverge.com/2020/3/4/21164871/att-5g-plus-millimeter-wave-network-date-launch-samsung-galaxy-s20-plus-ultra'> Source <a/>

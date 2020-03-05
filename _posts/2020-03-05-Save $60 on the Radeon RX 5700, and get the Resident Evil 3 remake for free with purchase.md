@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rBlz7DXm3F2IMik-y0XqnbJ2GAk=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/66444444/twarren_190730_3576_0001.0.jpg' width='700px' /><br/>
+MSI's take on the Radeon RX 5700 costs $280 (normally $340) at Newegg after you enter the offer code VGAPCRW456 at checkout and send away for a $30 mail-in rebate (via Slickdeals).
+<a href='https://www.theverge.com/good-deals/2020/3/5/21166102/msi-radeon-rx-5700-graphics-card-deal-resident-evil-3-galaxy-s20-airpods-pro'> Source <a/>
