@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Qs0iLh5tt6Vcs4gn_LNEj9bKD0w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66442662/cwelch_191016_3739_0005.0.jpg' width='700px' /><br/>
-Amazon's Alexa quietly gained a few features in February you might not be aware of, including severe weather alerts and the ability to send information about your commute directly to your phone. These, and other features, were announced in Alexa's Monthly Roundup for February, published yesterday.
-<a href='https://www.theverge.com/2020/3/5/21165985/new-alexa-features-nba-severe-weather-commute-directions'> Source <a/>
