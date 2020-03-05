@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UgpezjnV-SynSWpPLC1tmJgjwkQ=/0x0:4724x3149/1200x800/filters:focal(1985x1198:2739x1952)/cdn.vox-cdn.com/uploads/chorus_image/image/66444323/1205178008.jpg.0.jpg' width='700px' /><br/>
+Local Yankees fans who relied on YouTube TV for their games will officially have to find a new streaming service as the Google-operated virtual TV provider parts ways with the Yankees' YES Network.
+<a href='https://www.theverge.com/2020/3/5/21166022/youtube-tv-yankees-yes-network-removed-sinclair-fox-rsn-hulu-amazon'> Source <a/>
