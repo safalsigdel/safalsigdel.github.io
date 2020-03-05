@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pE_d9B8Wm968Yvmuz6j6tLygmsw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66442745/vrg_illo_3903_drone_boat_0001.0.jpg' width='700px' /><br/>
-It was just past midnight when the Ironton punched a 200-square-foot hole in the side of the Ohio. It was dark, the waters were rough, and the Ohio, a wooden bulk freighter loaded with flour and feed, was no match for the Ironton, a schooner heavy with coal. The Ohio sank within half an hour, and the Ironton soon followed, taking five of its crew down too.
-<a href='https://www.theverge.com/2020/3/5/21157791/drone-autonomous-boat-ben-shipwreck-alley-unh-noaa-great-lakes-thunder-bay'> Source <a/>
