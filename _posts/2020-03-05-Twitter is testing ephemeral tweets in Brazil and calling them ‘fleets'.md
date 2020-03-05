@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZuYUN8sTdTC45L_Nt2GpE3EwR4U=/0x0:892x892/1200x800/filters:focal(363x126:505x268)/cdn.vox-cdn.com/uploads/chorus_image/image/66435281/CB_15796___Fleets_HTL_20200303.0.png' width='700px' /><br/>
-Since it was founded in March 2006, there has been only one type of post possible on Twitter: a tweet. But starting today, the 280-character post is being joined by an ephemeral South American cousin: the fleet.
-<a href='https://www.theverge.com/2020/3/4/21163877/twitter-stories-test-brazil-fleets-ephemeral'> Source <a/>
