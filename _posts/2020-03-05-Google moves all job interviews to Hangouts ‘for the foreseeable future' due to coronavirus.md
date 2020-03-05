@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Eu2-L-wlpFlpuPAHiHbACbuNc6A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66436443/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google has begun informing prospective job candidates that it will be moving all interviews globally to Google Hangouts or BlueJeans due to coronavirus, according to an email sent to one applicant from the Google staffing team.
-<a href='https://www.theverge.com/2020/3/4/21164881/google-coronavirus-job-interviews-hangouts-bluejeans-on-site'> Source <a/>
