@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZRl-gVKN13ci6QxF6SExyPYvNt8=/0x0:4464x3144/1200x800/filters:focal(1875x1215:2589x1929)/cdn.vox-cdn.com/uploads/chorus_image/image/66442484/1187449403.jpg.0.jpg' width='700px' /><br/>
-Anthony Levandowski, the former Google engineer who helped pioneer self-driving cars before joining Uber, was ordered to pay $179 million to Google Wednesday over a contract dispute. The ruling upholds the award Google previously won in arbitration over an agreement that Levandowski would not poach employees.
-<a href='https://www.theverge.com/2020/3/5/21165971/anthony-levandowski-fined-179-million-google-uber-poaching'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qVPpXjwZibsIDYgO4sDEb0l4ojU=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66449641/1195734424.jpg.0.jpg' width='700px' /><br/>
+From toy unboxings to gaming videos, kids spend a lot of time watching YouTube videos. But if two Democratic senators get their way, YouTube and other companies could be forced to completely overhaul their children's content ecosystems.
+<a href='https://www.theverge.com/2020/3/5/21166705/youtube-kids-act-markey-blumenthal-coppa-tiktok-ryans-toy-review'> Source <a/>
