@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RkMUpKKSrbk7tkSWj1UaAeUL1pA=/0x0:4105x2656/1200x800/filters:focal(1725x1000:2381x1656)/cdn.vox-cdn.com/uploads/chorus_image/image/66441029/1149599532.jpg.0.jpg' width='700px' /><br/>
+IBM announced Wednesday that it's halting all domestic travel for internal meetings and cutting down on international travel because of the ongoing coronavirus outbreak. The company is also banning employee participation in external events with more than 1,000 attendees. IBM says those restrictions apply through the end of March.
+<a href='https://www.theverge.com/2020/3/4/21165449/ibm-coronavirus-suspending-domestic-international-travel'> Source <a/>
