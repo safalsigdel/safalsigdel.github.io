@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gn6xPYlVznr681xUpAKLujO8TsY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66442398/akrales_191113_3779_0284.0.jpg' width='700px' /><br/>
+Google is starting to roll out 4K streaming support for Stadia on the web. 9to5Google reports that a number of Reddit users have spotted the new 4K support in games like Assassin's Creed Odyssey, Mortal Kombat 11, and Grid. The option doesn't appear to be available for all Stadia users, though. We've tested three Stadia accounts and none of them have the 4K option just yet.
+<a href='https://www.theverge.com/2020/3/5/21165955/google-stadia-4k-streaming-web-chrome-roll-out-release-date-features'> Source <a/>

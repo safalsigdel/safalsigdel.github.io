@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JcWCD0et0W1Qwiiurlj1kj5PXoA=/0x0:1905x1270/1200x800/filters:focal(765x317:1069x621)/cdn.vox-cdn.com/uploads/chorus_image/image/66435534/deepfake3.0.jpg' width='700px' /><br/>
-The Strokes look like they're 20 years old again in their latest music video. That'd be impressive makeup work on a group of roughly 40-year-olds, but the band doesn't appear in the music video at all: every one of their faces is a deepfake.
-<a href='https://www.theverge.com/2020/3/4/21164607/the-fakening-deepfakes-strokes-diplo-memes-music-industry-elon-musk-jeff-bezos-star-trek'> Source <a/>
