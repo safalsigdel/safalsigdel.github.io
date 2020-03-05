@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8v5OFnJ6oEnfFIAWaOwO4h0xoSQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66450743/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook will remove some of President Donald Trump's reelection campaign ads from its platform, CNN reports. “There are policies in place to prevent confusion around the official US Census and this is an example of those being enforced,” a Facebook spokesperson said in an email to The Verge.
+<a href='https://www.theverge.com/2020/3/5/21166730/facebook-trump-campaign-ads-census-2020'> Source <a/>
