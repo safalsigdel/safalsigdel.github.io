@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/njnEiGRR79MsbT4e16ZJ0lQLaz0=/0x0:5000x3337/1200x800/filters:focal(2100x1269:2900x2069)/cdn.vox-cdn.com/uploads/chorus_image/image/66452205/apple_park_photo_1_building_trees.0.jpg' width='700px' /><br/>
+Companies based in Santa Clara County, California — which includes Cupertino, Mountain View, Palo Alto, and San Jose — should avoid travel and postpone or cancel mass gatherings, the county recommended on Thursday. The recommendations come after six new cases of the novel coronavirus have been identified, bringing the total number of people confirmed to have the disease to 20.
+<a href='https://www.theverge.com/2020/3/5/21167054/santa-clara-county-coronavirus-amazon-apple-google-facebook-microsoft'> Source <a/>
