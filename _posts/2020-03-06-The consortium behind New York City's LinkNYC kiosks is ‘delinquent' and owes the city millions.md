@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bysCjVo-UbfASzCa1yjBaSkPDa8=/0x0:3000x1987/1200x800/filters:focal(1034x1017:1514x1497)/cdn.vox-cdn.com/uploads/chorus_image/image/66444472/link-nyc-wireless-hotspots-6183.0.0.jpg' width='700px' /><br/>
-The consortium behind the LinkNYC program, originally intended to create a free Wi-Fi network across the five boroughs of New York City, owes the city tens of millions of dollars and stopped installing its kiosks in 2018, Politico reports.
-<a href='https://www.theverge.com/2020/3/5/21166057/linknyc-wifi-free-kiosk-google-new-york-sidewalk-labs-payments-revenue'> Source <a/>

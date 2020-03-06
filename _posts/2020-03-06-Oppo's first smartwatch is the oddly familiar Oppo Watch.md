@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OTAC2xIiCVuNWm4uL0nXQjs8FsQ=/0x0:2000x1333/1200x800/filters:focal(645x477:965x797)/cdn.vox-cdn.com/uploads/chorus_image/image/66453382/006.0.jpg' width='700px' /><br/>
+As repeatedly teased by Oppo itself, Oppo is making a watch called the Oppo Watch, and today it got revealed in full. It looks extremely similar to the Apple Watch — not just because of its curved glass and square-ish screen, but also the integrated bands and the black-heavy UI. Its 4.5mm-thick aluminum frame, however, looks considerably thinner.
+<a href='https://www.theverge.com/2020/3/6/21167560/oppo-watch-apple-china-price-release-date-smartwatch'> Source <a/>
