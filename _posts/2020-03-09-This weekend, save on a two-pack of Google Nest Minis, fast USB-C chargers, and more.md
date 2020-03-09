@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iw1FvUKMkebhtmHdi6igHy8iMG4=/0x0:2040x1360/1200x800/filters:focal(778x538:1104x864)/cdn.vox-cdn.com/uploads/chorus_image/image/66460709/cwelch_191016_3737_0004.0.jpg' width='700px' /><br/>
+You've made it to the weekend. Whether you're still working or you finally have some time to kick your feet up, you may want to know about some deals. These are the best offers we've seen all week.
+<a href='https://www.theverge.com/good-deals/2020/3/7/21168243/google-nest-mini-smart-speaker-pixel-4-graphics-card-parks-and-rec-deal-sale-discount'> Source <a/>

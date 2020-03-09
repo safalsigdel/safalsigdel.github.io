@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0QoCiQLO3lZ1pQrnFMrr3SddcW0=/0x0:2040x1360/1200x800/filters:focal(761x492:1087x818)/cdn.vox-cdn.com/uploads/chorus_image/image/66466223/vpavic_181024_3050_0060.0.jpg' width='700px' /><br/>
+Amazon will start selling the technology behind its cashierless Amazon Go stores to other retailers, according to Reuters. Amazon reportedly has “several” retailers already signed up to use the system, which is being marketed as Just Walk Out technology by Amazon. Amazon's website for the service invites other retailers to make inquiries.
+<a href='https://www.theverge.com/2020/3/9/21171230/amazon-just-walk-out-technology-cashierless-go-stores-third-party-retailers'> Source <a/>

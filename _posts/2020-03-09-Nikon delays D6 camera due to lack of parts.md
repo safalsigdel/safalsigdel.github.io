@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uejBZCud-JlRsCn5w26ltmfdGFs=/0x0:675x450/1200x800/filters:focal(284x171:392x279)/cdn.vox-cdn.com/uploads/chorus_image/image/66466293/Untitled_3.0.jpg' width='700px' /><br/>
+Nikon just announced a delay of its D6 camera for professional sports photographers. The company originally planned for a March release, but that's been pushed back to sometime in May due to a shortage of components caused by actions taken to prevent the spread of the new coronavirus. The camera is expected to be a big seller ahead of the summer Olympic games in Tokyo scheduled to begin in July.
+<a href='https://www.theverge.com/2020/3/9/21171242/nikon-d6-delay-coronavirus-new-date'> Source <a/>

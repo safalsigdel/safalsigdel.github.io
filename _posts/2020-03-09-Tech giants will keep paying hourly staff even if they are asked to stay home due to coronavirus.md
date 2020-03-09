@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iE7owgwBk-26Mtnvjem3dnRCGz8=/0x0:4685x3438/1200x800/filters:focal(1693x1573:2441x2321)/cdn.vox-cdn.com/uploads/chorus_image/image/66458243/452292672.jpg.0.jpg' width='700px' /><br/>
+Amazon, Apple, Google, Facebook, Microsoft, and Twitter have all pledged to pay hourly workers their regular rate even if those staffers are asked to remain at home due to the ongoing coronavirus outbreak.
+<a href='https://www.theverge.com/2020/3/6/21168395/coronavirus-tech-hourly-workers-pay-amazon-google-facebook'> Source <a/>

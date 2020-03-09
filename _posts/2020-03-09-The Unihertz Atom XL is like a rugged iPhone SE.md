@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XpdEBhon7ONTClGiTKGce0f715I=/0x0:2040x1360/1200x800/filters:focal(935x515:1261x841)/cdn.vox-cdn.com/uploads/chorus_image/image/66466192/DSCF7198.0.jpg' width='700px' /><br/>
+Either Unihertz is a really fun company to work at, or it decides each new phone concept by pulling random specs out of a hat. Maybe both. How else do you explain the existence of, say, the Titan, its rugged BlackBerry Passport-aping Android phone? Every Unihertz device must have a tiny audience, but I can only assume the people in that audience are overjoyed that the company exists.
+<a href='https://www.theverge.com/2020/3/9/21171215/unihertz-atom-xl-small-android-phone-hands-on-kickstarter'> Source <a/>

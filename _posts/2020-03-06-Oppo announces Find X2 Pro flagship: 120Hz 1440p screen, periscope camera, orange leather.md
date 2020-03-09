@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ylr9nxt9xNX9ljauRH1NZrQ3Xx0=/0x0:2040x1360/1200x800/filters:focal(1048x481:1374x807)/cdn.vox-cdn.com/uploads/chorus_image/image/66453342/DSC00737.0.jpg' width='700px' /><br/>
-Today Oppo is announcing the Find X2 Pro, its first phone to use the Find name since the original Find X in 2018. Unlike that phone, it doesn't use the still-unique motorized sliding mechanism that helped Oppo achieve a notchless display. But like that phone, it does see Oppo turning out the sleekest, fastest, most premium device it possibly can in order to compete with the highest-end models from the likes of Samsung and Huawei.
-<a href='https://www.theverge.com/2020/3/6/21167553/oppo-find-x2-pro-announced-specs-price-release'> Source <a/>

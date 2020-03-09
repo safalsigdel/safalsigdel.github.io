@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0C4EfmppWw9BrZPS6s4dkWuizYg=/0x0:3500x2459/1200x800/filters:focal(2047x753:2607x1313)/cdn.vox-cdn.com/uploads/chorus_image/image/66467232/1060578046.jpg.0.jpg' width='700px' /><br/>
+Jack Dorsey will remain Twitter's CEO as part of a deal the company reached with Elliott Management, an activist investor firm that, for the past two weeks, has been trying to push Dorsey out as part of an overhaul to Twitter's business.
+<a href='https://www.theverge.com/2020/3/9/21171374/twitter-ceo-elliott-management-deal-investor-firm-stock-buyback'> Source <a/>

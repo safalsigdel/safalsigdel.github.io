@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nMtkauaFOB4lpSWqW52TmfCjdfQ=/0x0:864x620/1200x800/filters:focal(363x241:501x379)/cdn.vox-cdn.com/uploads/chorus_image/image/66453505/Imagem1.0.png' width='700px' /><br/>
-These are the first images of Sony's WH-1000XM4 wireless headphones; the hotly anticipated followup to the company's beloved WH-1000XM3 over-ear cans due to their extraordinary noise canceling, comfort, and battery life.
-<a href='https://www.theverge.com/2020/3/6/21167586/sony-wh1000xm4-photos-long-battery'> Source <a/>

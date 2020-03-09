@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yrdLJOta7o6PhyQMEFuigwZmvSk=/0x0:1066x512/1200x800/filters:focal(477x138:647x308)/cdn.vox-cdn.com/uploads/chorus_image/image/66458869/bioshock_hero.0.jpg' width='700px' /><br/>
+Nvidia said today that game publisher 2K Games is pulling its library from the company's GeForce Now cloud gaming service at 2K's request.
+<a href='https://www.theverge.com/2020/3/6/21168645/nvidia-geforce-now-2k-games-titles-bioshock-borderlands'> Source <a/>

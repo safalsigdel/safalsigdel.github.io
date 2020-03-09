@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JkmNHM8C06T1jNy4o7_YGwDZIb0=/0x0:1800x1371/1200x800/filters:focal(756x542:1044x830)/cdn.vox-cdn.com/uploads/chorus_image/image/66463536/playstation3.0.jpg' width='700px' /><br/>
+A prototype of the Nintendo Play Station, a console that never came to market, fetched $360,000 at an auction over the weekend, CNN reports. Greg McLemore, founder of Pets.com and Toys.com had the winning bid, beating out other collectors, including Palmer Luckey, founder of Oculus VR.
+<a href='https://www.theverge.com/2020/3/8/21170206/rare-nintendo-play-station-console-auction-sony'> Source <a/>

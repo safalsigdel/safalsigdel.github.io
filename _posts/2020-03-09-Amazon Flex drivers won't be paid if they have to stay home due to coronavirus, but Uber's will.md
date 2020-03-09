@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_llHZv4Zg3zG7nBihzHFBn6K0t0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66459156/acastro_181114_1777_amazon_hq2_0001.0.jpg' width='700px' /><br/>
+Amazon has told its contract Flex drivers, which deliver the e-commerce company's packages, to stay home if they get sick amid the ongoing coronavirus outbreak, according to a memo obtained by OneZero. But while Amazon's Flex Drivers won't be paid, Uber said late Friday that it will give its drivers up to 14 days of sick pay if they miss work due to coronavirus.
+<a href='https://www.theverge.com/2020/3/6/21168724/amazon-flex-coronavirus-warner-uber-lyft-postmates-grubhub-instacart-doordash'> Source <a/>

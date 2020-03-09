@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cYhFNudC1FfmFYMszZN2VFefMqs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66451526/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter has updated its hate speech policies to cover tweets that make dehumanizing remarks, which are remarks that treat “others as less than human,” on the basis of age, disability, or disease. The changes follow updates to the company's polices made last July that said Twitter would remove tweets that dehumanize religious groups.
-<a href='https://www.theverge.com/2020/3/5/21166940/twitter-hate-speech-ban-age-disability-disease-dehumanize'> Source <a/>

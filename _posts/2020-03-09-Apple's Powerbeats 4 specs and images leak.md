@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iqEDiI82hE2zsnXSalFp4sj7MVI=/0x0:1080x720/1200x800/filters:focal(454x274:626x446)/cdn.vox-cdn.com/uploads/chorus_image/image/66466418/Apple_Powerbeats_4_1583747343_0_10.0.jpg' width='700px' /><br/>
+Images of Apple's unannounced Powerbeats 4 earbuds have appeared online for the first time, along with new details about their specs. WinFuture reports that the earbuds will have up to 15 hours of battery life this time around, up from the 12 hours you'd get from the Powerbeats 3, released in 2016. Five minutes of charging will get you 60 minutes of playback, according to WinFuture.
+<a href='https://www.theverge.com/2020/3/9/21171258/apples-powerbeats-4-leaked-images-specs-15-hours-battery-life-h1-chip'> Source <a/>

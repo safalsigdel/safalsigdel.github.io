@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b81o7WtV9mCmJ-k6LzFMtbP8zZ0=/0x0:2040x1360/1200x800/filters:focal(807x492:1133x818)/cdn.vox-cdn.com/uploads/chorus_image/image/66447679/vpavic_190503_3415_0043.0.jpg' width='700px' /><br/>
-OnePlus has announced a new initiative to let OnePlus customers and fans submit suggestions for new software features. Called IDEAS, the initiative will offer rewards for submissions that get a high number of likes, with the best reserved for those that OnePlus decides to actually implement. Users have until April 30th to submit their proposals.
-<a href='https://www.theverge.com/2020/3/5/21166352/oneplus-ideas-new-software-feature-suggestions-customers-community'> Source <a/>

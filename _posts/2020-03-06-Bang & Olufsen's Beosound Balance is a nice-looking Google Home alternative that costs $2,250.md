@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-High-end audio company Bang & Olufsen is no stranger to expensive speakers, so it's not really a surprise that the company's latest product, the rather nice-looking Beosound Balance, costs $2,250.
-<a href='https://www.theverge.com/circuitbreaker/2020/3/5/21166104/bang-olufsen-beosound-balance-price-google-assistant-design-speaker'> Source <a/>

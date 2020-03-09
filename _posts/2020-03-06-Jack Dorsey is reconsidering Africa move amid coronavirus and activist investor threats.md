@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ST6ux9XvEoljMBrRgJRYgTDqoLk=/0x0:2228x1490/1200x800/filters:focal(856x460:1212x816)/cdn.vox-cdn.com/uploads/chorus_image/image/66448770/1149362482.jpg.0.jpg' width='700px' /><br/>
-Twitter CEO Jack Dorsey is reevaluating his plans to spend part of the year in Africa, telling a crowd at a Morgan Stanley conference on Thursday that he may no longer be traveling to the continent amid on the ongoing coronavirus outbreak and what Dorsey worded as “everything else going on.”
-<a href='https://www.theverge.com/2020/3/5/21166514/twitter-jack-dorsey-africa-cancel-plans-coronavirus-activist-investor-elliott-management'> Source <a/>

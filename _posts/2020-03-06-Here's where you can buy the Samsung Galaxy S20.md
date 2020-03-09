@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w9dCnGYk_d0QT6HEXOfOwBOdcgc=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19710464/nstatt_170101_3899_0253.jpg' width='700px' /><br/>
-The Samsung Galaxy S20, S20 Plus, and S20 Ultra are available, following their announcement in early February. If you didn't preorder, you can get one from numerous retailers and carrier stores around the country.
-<a href='https://www.theverge.com/2020/2/11/21126784/samsung-galaxy-s20-plus-ultra-preorder-how-to-price-verizon-tmobile-sprint'> Source <a/>

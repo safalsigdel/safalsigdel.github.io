@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f5007eMnpR4zbgpqazMnmA5nQBQ=/0x0:960x540/1200x800/filters:focal(404x194:556x346)/cdn.vox-cdn.com/uploads/chorus_image/image/66448714/2013_06_13_LaunchDayPost_960p.0.0.png' width='700px' /><br/>
-HBO is working on adapting The Last of Us into a TV series. In an effort to make sure that the show is actually, well, good (unlike most video game adaptations), Neil Druckmann — the writer and creative director of both The Last of Us and its upcoming sequel — will be involved to help write and executive produce, according to The Hollywood Reporter.
-<a href='https://www.theverge.com/2020/3/5/21166469/hbo-the-last-of-us-tv-series-hbo-naughty-dog-playstation-neil-druckmann-writer-chernobyl'> Source <a/>

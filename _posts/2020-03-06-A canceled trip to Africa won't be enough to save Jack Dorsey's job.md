@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BVGi4XvyluFhhHoq65S72NQb54k=/0x0:6150x4135/1200x800/filters:focal(2583x1576:3567x2560)/cdn.vox-cdn.com/uploads/chorus_image/image/66453440/1060707446.jpg.0.jpg' width='700px' /><br/>
-On Tuesday I laid out Elliott Management's case against Jack Dorsey — or at least, what we know about it so far. The activist investor has acquired a roughly 4 percent stake in Twitter, and has reportedly expressed concerns with Twitter's underperforming stock, its part-time CEO, and Dorsey's stated plans to decamp to Africa for an unspecified period of time this year.
-<a href='https://www.theverge.com/interface/2020/3/6/21166384/twitter-elliott-jack-dorsey-africa-activist-investor'> Source <a/>

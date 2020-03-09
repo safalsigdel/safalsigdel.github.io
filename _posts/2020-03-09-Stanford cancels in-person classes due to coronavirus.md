@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IqRG3PkR9-Bs86VoC4KpxOYVMZU=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/66461226/1179886991.jpg.0.jpg' width='700px' /><br/>
+In-person classes at Stanford University will be canceled beginning March 9th, as a faculty member has tested positive for coronavirus, and two students have self-isolated after “possible exposure.” Neither student has tested positive for the virus yet, according to a statement from the university, but Stanford provost Persis Drell said late Friday that the university will move some classes online “to the extent feasible.”
+<a href='https://www.theverge.com/2020/3/7/21169117/stanford-classes-canceled-coronavirus'> Source <a/>

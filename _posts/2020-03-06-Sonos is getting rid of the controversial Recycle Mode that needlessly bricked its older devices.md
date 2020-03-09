@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-PHUW8FehdPyk2LxTtFQCZ0RS9A=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66450439/acastro_180529_sonos_1777_0001.0.0.jpg' width='700px' /><br/>
-Sonos is doing away with Recycle Mode, a controversial part of the company's trade-up program that rendered old devices inoperable in exchange for a 30 percent discount on a newer Sonos product. The trade-up program still exists, and customers who own eligible legacy products can get the same discount, but they're no longer required to permanently brick devices that might still work just fine.
-<a href='https://www.theverge.com/2020/3/5/21166777/sonos-ending-recycle-mode-trade-up-program-sustainability'> Source <a/>

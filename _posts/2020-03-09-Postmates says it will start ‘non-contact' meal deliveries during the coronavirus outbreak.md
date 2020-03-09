@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B4eClnjzIy5-SsvyGE2AIURGstY=/0x0:3200x1600/1200x800/filters:focal(1339x459:1851x971)/cdn.vox-cdn.com/uploads/chorus_image/image/66458987/1_1MhWTcAuBR_d8o8vr5LufA.0.png' width='700px' /><br/>
+Food delivery platform Postmates is starting what the company is calling a “non-contact delivery” initiative designed to help reduce the spread of the coronavirus when its contract workers are delivering ordered meals and other goods.
+<a href='https://www.theverge.com/2020/3/6/21168699/postmates-coronavirus-no-contact-deliveries'> Source <a/>

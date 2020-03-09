@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wooG9ZYl045ru_SnxQcCJmWPOW0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66448634/Twitter-app-stock-Dec2015-verge-05.0.0.jpg' width='700px' /><br/>
-Many Twitter users follow thousands of other accounts, and seeing all of those accounts in one chaotic timeline can be overwhelming. If you've ever wished you could see a limited Twitter timeline made up of only your family's tweets, the hottest comedians, or fans of your favorite sports team, then Twitter Lists are for you.
-<a href='https://www.theverge.com/2020/3/5/21166148/twitter-lists-accounts-add-iphone-ios-how-to'> Source <a/>
