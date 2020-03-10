@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l7HtxanODEoE5bsKQjXSqhAei0Q=/0x0:440x656/1200x0/filters:focal(0x0:440x656):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19779424/iphone_11_sc_0a5f6918c0ae915e2c2c3e626378c7d7.png' width='700px' /><br/>
-After teasing its connected bike to rival Peloton last summer, SoulCycle today released official details about its own at-home offering. By and large, it looks very similar to Peloton's: the bike will offer on-demand cycling classes that users can stream through a monthly content subscription via a digital platform called Variis.
-<a href='https://www.theverge.com/2020/3/9/21171670/soulcycle-at-home-bike-connected-fitness-equinox-peloton-competitor'> Source <a/>
