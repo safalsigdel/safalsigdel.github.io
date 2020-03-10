@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/wI8jREjQjcHnFlp_SkH9qU5X1mY=/0x0:2400x1600/1200x800/filters:focal(736x544:1120x928)/cdn.vox-cdn.com/uploads/chorus_image/image/66476828/626738486.jpg.0.jpg' width='700px' /><br/>
-Instacart has announced new updates to its sick leave policies that give more of its workers, including part-time employees, access to sick pay amid the ongoing spread of the novel coronavirus.
+Instacart, DoorDash, and Postmates have announced new policies to help their gig workers with potential financial burdens they might incur if they have to miss work due to the ongoing spread of the novel coronavirus.
 <a href='https://www.theverge.com/2020/3/10/21173287/instacart-coronavirus-sick-pay-workers-in-store-shoppers-covid19'> Source <a/>
