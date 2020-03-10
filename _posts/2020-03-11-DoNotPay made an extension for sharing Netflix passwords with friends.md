@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mwhUsErXHtfeWLz1eo0kRcq_VZ8=/0x0:640x400/1200x800/filters:focal(269x149:371x251)/cdn.vox-cdn.com/uploads/chorus_image/image/66471767/DoNotPay.0.jpg' width='700px' /><br/>
-DoNotPay, the company responsible for creating an AI-powered app that provides legal advice, has released a new product that allows you to privately share your login info for Disney Plus, Netflix, and other subscription services with friends and loved ones.
-<a href='https://www.theverge.com/2020/3/9/21171966/donotpay-extension-share-passwords-subscription-services-streaming'> Source <a/>

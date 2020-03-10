@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KE_nirtP98yK4QGwYGSk9SCHEqQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66479312/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google sent a memo to all of its North America-based employees recommending they work from until at least April 10th due to coronavirus, the company confirmed to Business Insider. Google had previously told employees in the San Francisco Bay Area, Dublin, and Seattle to work from home in recent days.
+<a href='https://www.theverge.com/2020/3/10/21173994/google-coronavirus-north-american-employees-work-from-home-sick-leave-fund'> Source <a/>
