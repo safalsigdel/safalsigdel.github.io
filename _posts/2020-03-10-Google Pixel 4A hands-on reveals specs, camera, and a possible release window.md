@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DE4ieBLAcTfDpwsFNyXvZgoIABg=/0x0:1213x809/1200x0/filters:focal(0x0:1213x809):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19781820/pixel4a2.jpg' width='700px' /><br/>
+Following yesterday's leak that allegedly showed the Google Pixel 4A in a fabric case, YouTube channel TechnoLike Plus has shared an extensive hands-on with the purported midrange device, showing what it might offer both inside and out (via 9to5Google).
+<a href='https://www.theverge.com/2020/3/10/21173042/google-pixel-4a-specs-camera-software-launch-rumors'> Source <a/>

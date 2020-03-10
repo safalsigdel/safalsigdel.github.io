@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zc_uB5ctZPSoQFaFGnGnzYmzN8Q=/0x0:2500x1667/1200x800/filters:focal(1204x516:1604x916)/cdn.vox-cdn.com/uploads/chorus_image/image/66468390/stock-apple-watch-emoji-0163.0.0.jpg' width='700px' /><br/>
-Apple is working on a feature that will allow the Apple Watch to detect blood oxygen levels for the first time, according to snippets of iOS 14 code obtained by 9to5Mac.
-<a href='https://www.theverge.com/2020/3/9/21171483/apple-watch-ios-14-code-blood-oxygen-features-update'> Source <a/>
