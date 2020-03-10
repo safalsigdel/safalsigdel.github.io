@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nyzd6c-QImCa9lEMed3PdlR9bCs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66469798/DSC00725.0.jpg' width='700px' /><br/>
+iOS 14 is set to have improved system-wide support for mouse cursors, according to 9to5Mac. iPadOS 13 introduced rudimentary mouse support, but you have to dig into the accessibility menu to turn it on — based on what 9to5Mac found, it seems that mouse support will be getting much richer in iOS / iPadOS 14.
+<a href='https://www.theverge.com/2020/3/9/21171805/ipad-ios-14-improved-mouse-cursor-support-smart-keyboard'> Source <a/>

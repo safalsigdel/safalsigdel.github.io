@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5XcOG3O-NDhBEqLUyi_wDoORwt4=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/66468164/49593059443_7b47d5d832_k.0.jpg' width='700px' /><br/>
+The biggest esports events in the world, whether it's a mid-season Overwatch League match or a major Counter-Strike tournament, almost always take place on a weekend. It's something of a tradition. But today, when League of Legends team Cloud9, fresh off of their first loss of the season, take on the Golden Guardians, it'll be at a somewhat new time slot: Monday evening.
+<a href='https://www.theverge.com/2020/3/9/21171439/league-of-legends-lcs-monday-night-league-mnl-esports-twitch-youtube'> Source <a/>

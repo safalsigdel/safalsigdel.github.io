@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ca38V1rsFMG00QGYOMIeXLR6jUU=/0x0:1134x948/1200x800/filters:focal(41x726:221x906)/cdn.vox-cdn.com/uploads/chorus_image/image/66464911/Screen_Shot_2020_03_08_at_6.07.24_PM.0.png' width='700px' /><br/>
-Twitter has applied a “manipulated media” tag to a doctored video of former Vice President Joe Biden that was shared by White House social media director Dan Scavino and retweeted by President Trump, according to Washington Post reporter Cat Zakrzewski. It's believed to be the first time the platform has used the tag to denote faked media.
-<a href='https://www.theverge.com/2020/3/8/21170714/twitter-manipulated-media-biden-video-retweeted-trump'> Source <a/>

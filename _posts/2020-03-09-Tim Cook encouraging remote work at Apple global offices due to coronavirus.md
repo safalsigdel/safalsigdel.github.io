@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fURbeZYMwbVgyFh6YCKfuoimjkI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66464501/acastro_190530_1777_wwdc_2019_0002.0.0.jpg' width='700px' /><br/>
-Calling the coronavirus outbreak an “unprecedented event,” Apple CEO Tim Cook is encouraging employees at several of its global offices to “please feel free to work remotely if your job allows” from March 9th to 13th, Bloomberg reports.
-<a href='https://www.theverge.com/2020/3/8/21170547/tim-cook-remote-iphone-apple-global-coronavirus'> Source <a/>

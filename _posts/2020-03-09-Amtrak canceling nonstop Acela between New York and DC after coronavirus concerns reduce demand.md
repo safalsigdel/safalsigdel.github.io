@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6cuiNYfwVALl-6p78B555QDM3y0=/0x0:4411x2861/1200x800/filters:focal(1954x325:2658x1029)/cdn.vox-cdn.com/uploads/chorus_image/image/66461176/1204867261.jpg.0.jpg' width='700px' /><br/>
-Amtrak is canceling its Acela nonstop service between Washington DC and New York, because of reduced demand due to the coronavirus outbreak, the Washington Post reports.
-<a href='https://www.theverge.com/2020/3/7/21169393/amtrak-canceling-nonstop-acela-new-york-washington-dc-coronavirus'> Source <a/>

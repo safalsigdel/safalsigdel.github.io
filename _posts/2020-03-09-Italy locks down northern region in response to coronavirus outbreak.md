@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7vz_iJ8SteoW2-QVRStnxsZKgQ0=/0x0:4607x2935/1200x800/filters:focal(1936x1100:2672x1836)/cdn.vox-cdn.com/uploads/chorus_image/image/66461941/1205831131.jpg.5.jpg' width='700px' /><br/>
-A massive region in northern Italy that includes Milan and Venice is under government-ordered lockdown as officials struggle to contain the spread of the coronavirus, the New York Times reports.
-<a href='https://www.theverge.com/2020/3/7/21169637/italy-lockdown-lombardy-coronavirus-outbreak'> Source <a/>

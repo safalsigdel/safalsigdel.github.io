@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lQeb0y3nM4Ftz4FJT9qduq-qCEo=/0x0:2365x1576/1200x800/filters:focal(994x599:1372x977)/cdn.vox-cdn.com/uploads/chorus_image/image/66467820/Screen_Shot_2020_03_09_at_9.11.45_AM.0.png' width='700px' /><br/>
+Spotify recently announced a new look for navigation on its iOS app, and now it's changing things up with the home screen. Starting today, all Spotify users will see a redesigned interface when they open both the mobile and tablet versions of the app.
+<a href='https://www.theverge.com/2020/3/9/21171474/spotify-homepage-redesign-ios-app-mobile-tablet'> Source <a/>

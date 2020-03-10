@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3Zw1X5vNtml9WCGlwFQ19I8bP2I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66469879/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Last week, Facebook announced that it would begin “temporarily” banning the sale of medical face masks on its online marketplace “over the next few days” in light of the public's growing fears over the novel coronavirus. But as of Monday morning, listings for face masks, some going for exorbitant prices, still littered the platform.
+<a href='https://www.theverge.com/2020/3/9/21171654/facebook-ebay-coronavirus-face-mask-listing-ban-evade-amazon-covid19'> Source <a/>

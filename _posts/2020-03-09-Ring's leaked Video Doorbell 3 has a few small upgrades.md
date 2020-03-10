@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zKroS1BqHShKMy_nKxAAg3EPLtQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66464046/dseifert170808_1901_0003.0.jpg' width='700px' /><br/>
-A sneak peek of the product page for the upcoming Ring Video Doorbell 3 shows some upgrades over the Video Doorbell 2. Dave Zatz at Zatz Not Funny discovered the product page (it's since been removed, apparently), which included a “pre-roll” feature for the doorbell's Plus model that captures four seconds of black-and-white video before a motion alert goes off.
-<a href='https://www.theverge.com/2020/3/8/21170289/rings-leaked-video-doorbell-3-upgrades'> Source <a/>

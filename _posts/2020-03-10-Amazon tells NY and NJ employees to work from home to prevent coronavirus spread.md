@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qEtfvk1jeJR0ighhrybhbRMJJmo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66471462/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
+Amazon told employees in New York and New Jersey that they should work from home for the month of March if they can, CNBC reports. The internet giant's Audible audiobook division is located in Newark, New Jersey, and it has thousands of employees in New York City.
+<a href='https://www.theverge.com/2020/3/9/21172119/amazon-new-york-new-jersey-work-from-home-coronavirus'> Source <a/>

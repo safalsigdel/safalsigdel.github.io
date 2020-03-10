@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8_e24sx00R1TYy-YX-AC_k1hwIU=/0x0:640x427/1200x800/filters:focal(288x138:390x240)/cdn.vox-cdn.com/uploads/chorus_image/image/66449675/amazondome640.0.jpg' width='700px' /><br/>
-Numerous tech companies have asked their Seattle-based employees to work from home to help prevent the spread of the novel coronavirus. Both Amazon and Facebook have shut down offices in the area after confirming that their Seattle-based employees have indeed contracted COVID-19, the disease caused by the novel coronavirus.
-<a href='https://www.theverge.com/2020/3/5/21166686/coronavirus-amazon-google-facebook-microsoft-twitter-seattle-staff-remote-work'> Source <a/>
