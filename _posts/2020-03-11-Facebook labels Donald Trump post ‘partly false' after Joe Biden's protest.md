@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yrnHrrusTyEyV9Y3cR2EMdXZ44I=/0x0:2040x1360/1200x800/filters:focal(860x637:1186x963)/cdn.vox-cdn.com/uploads/chorus_image/image/66469357/jbareham_180405_1777_facebook_0003.0.jpg' width='700px' /><br/>
-Facebook has applied a “partly false” label to a video of former Vice President Joe Biden that was edited to make it sound like he was saying President Trump would be reelected. The same video, posted by White House social media director Dan Scavino and retweeted by President Donald Trump, also got Twitter's first “manipulated media” tag on Sunday.
-<a href='https://www.theverge.com/2020/3/9/21171614/facebook-factcheck-biden-video-scavino-trump-partly-false'> Source <a/>
