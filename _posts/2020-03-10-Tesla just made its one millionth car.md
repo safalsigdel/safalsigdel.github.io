@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_8W9-BYpT4-qtFafgdymfFL_BTk=/0x0:2048x1182/1200x800/filters:focal(488x541:814x867)/cdn.vox-cdn.com/uploads/chorus_image/image/66473678/EStvCm0WsAEbMCX.0.jpg' width='700px' /><br/>
+Tesla has produced one million electric cars, the company's CEO Elon Musk announced on Twitter. Musk made the announcement by sharing a picture of the car, a red Model Y, and congratulated the Tesla team on hitting the milestone. It's a significant moment for an automaker that was only founded in 2003.
+<a href='https://www.theverge.com/2020/3/10/21172895/tesla-one-million-cars-production-model-y'> Source <a/>
