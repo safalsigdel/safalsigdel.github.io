@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xko7uze1gbqpKfv1-MmKrGeWKy0=/0x0:1552x1034/1200x800/filters:focal(741x416:989x664)/cdn.vox-cdn.com/uploads/chorus_image/image/66467694/SBX2020306_NextGen_Cup_Recycled.0.jpg' width='700px' /><br/>
-Starbucks is testing a prototype cup with a biodegradable liner in some of its stores. As first reported by The Wall Street Journal, the cup is making its debut at Starbucks locations in London, New York, San Francisco, Seattle, and Vancouver.
-<a href='https://www.theverge.com/2020/3/9/21171364/starbucks-new-cup-biodegradable-liner-recycle-sustainable-test'> Source <a/>

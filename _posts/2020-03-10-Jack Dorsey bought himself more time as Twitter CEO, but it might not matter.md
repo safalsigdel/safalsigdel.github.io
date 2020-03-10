@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/edoeIF5-WYK3uexFgixc0gRo_R8=/0x0:4145x2763/1200x800/filters:focal(1742x1051:2404x1713)/cdn.vox-cdn.com/uploads/chorus_image/image/66473729/1149124857.jpg.0.jpg' width='700px' /><br/>
+On Thursday, after Jack Dorsey's first public comments since he was targeted by activist investor Elliott Management, I suggested that the real drama was just beginning. On some level, for reasons we'll get into, this may be true. But on another level it was dead wrong. The fight some of us expected between Elliott and Twitter did not materialize. Instead, Twitter folded like a card table.
+<a href='https://www.theverge.com/interface/2020/3/10/21171477/jack-dorsey-elliott-silver-lake-deal-ceo-twitter-take-private'> Source <a/>
