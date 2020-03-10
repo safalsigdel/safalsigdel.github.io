@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1aZSLNe5-5HBPp03TpDMTLa8KZQ=/0x0:1470x980/1200x800/filters:focal(618x373:852x607)/cdn.vox-cdn.com/uploads/chorus_image/image/66467714/iottiedashmount.0.jpg' width='700px' /><br/>
-Amazon is highlighting some price cuts on iOttie's suite of car dashboard mounts for your phone, a practical gadget that's worth picking up if you want to keep your phone secure while you drive. It's also handy for giving you easy access to your navigation apps and for controlling your music.
-<a href='https://www.theverge.com/good-deals/2020/3/9/21171399/amazon-deal-car-phone-mount-dji-osmo-dell-gaming-gsync-monitor-sale'> Source <a/>
