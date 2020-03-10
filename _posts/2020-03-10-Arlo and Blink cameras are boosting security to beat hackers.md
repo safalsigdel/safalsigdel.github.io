@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eiiqYKGn_GQnS0rxNjVwhJaO3pg=/0x0:2500x1668/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/66473688/Arlo_Baby_3.0.jpg' width='700px' /><br/>
+Owners of both Arlo and Blink camera systems have been notified recently of required changes to their accounts meant to enhance security. Arlo users will be required to turn on two-factor authentication by the end of the year, while Amazon's Blink is still taking baby steps towards enabling 2FA. The changes follow the much-publicized hacking of Amazon's Ring security cameras in December that allowed strangers to peer into homes and harass occupants.
+<a href='https://www.theverge.com/2020/3/10/21172878/arlo-blink-two-step-verification'> Source <a/>
