@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5SjGLuFRMgTwIPuYov-PKCoucHw=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/66474658/Switch_SMO_ND0913_SCRN07_copy.0.jpg' width='700px' /><br/>
+Discounts on Nintendo Switch games, especially ones published by Nintendo itself, are rare. But they're in full swing today, March 10th (cheekily known as “Mar10” day in celebration of Nintendo's mascot). Several retailers are participating, though with few exceptions, you'll find mostly the same deals across the board.
+<a href='https://www.theverge.com/good-deals/2020/3/10/21171517/mario-day-nintendo-switch-deals-games-digital-best-buy-gamestop-target'> Source <a/>

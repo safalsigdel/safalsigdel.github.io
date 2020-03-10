@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y8g0rIdcsv7SyJpulVbLtFydYq0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66468075/vpavic_190322_3297_0053.0.jpg' width='700px' /><br/>
-Apple has launched a repair program for its third-generation iPad Airs that recently had their screens randomly and permanently turn black. The company acknowledged the bug in a comment to MacRumors and additionally noted that the screen might flicker or flash before going blank.
-<a href='https://www.theverge.com/2020/3/9/21171486/apple-ipad-third-generation-screen-repair-blank'> Source <a/>
