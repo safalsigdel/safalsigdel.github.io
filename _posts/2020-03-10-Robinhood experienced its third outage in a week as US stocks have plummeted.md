@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9bw03jo9v5RF-z2GgJG1jMLKnFA=/0x0:750x422/1200x800/filters:focal(315x151:435x271)/cdn.vox-cdn.com/uploads/chorus_image/image/66468536/RH_Fractional_Shares_2.0.png' width='700px' /><br/>
-Stock trading app Robinhood experienced its third outage in a week as US stocks plummeted on Monday. (The fall was so bad that the stock exchange actually stopped trading for 15 minutes, which is automatically done during significant stock market drops to prevent free fall.) The issues lasted for more than five hours.
-<a href='https://www.theverge.com/2020/3/9/21171584/robinhood-outage-week-us-stocks-third-market'> Source <a/>
