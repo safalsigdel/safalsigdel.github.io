@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vSAEEZckDKnojuHjLbeBkvxcze8=/0x0:2040x1529/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/66470909/P90301493_highRes.0.jpg' width='700px' /><br/>
-The BMW iX3, the company's first long-range electric vehicle, won't be coming to the US after all. While the German automaker had previously left the door open to a US release sometime around 2021, a company spokesperson told Automotive News on Sunday that the iX3 will only be sold in Europe and China, which is where it's being made.
-<a href='https://www.theverge.com/2020/3/9/21171762/bmw-ix3-long-range-electric-suv-us-market-china-europe'> Source <a/>
