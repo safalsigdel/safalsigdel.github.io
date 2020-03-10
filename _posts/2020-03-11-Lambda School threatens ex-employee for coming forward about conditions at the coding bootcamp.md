@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xeD4ZO19Hm6HDmWJCytdBotjAwE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66470865/acastro_200306_1777_Lambda_0001.0.jpg' width='700px' /><br/>
-Lambda School, the controversial coding bootcamp, is threatening a former employee for speaking out about problems at the school.
-<a href='https://www.theverge.com/2020/3/9/21166640/lambda-school-former-employee-threat-coding-bootcamp-nondisclosure'> Source <a/>

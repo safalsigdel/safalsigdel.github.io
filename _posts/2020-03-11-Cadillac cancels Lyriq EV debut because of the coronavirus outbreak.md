@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EEMR2XMU35i4HJIw3c96ZzdAmKY=/0x0:4202x2432/1200x800/filters:focal(1526x691:2438x1603)/cdn.vox-cdn.com/uploads/chorus_image/image/66470223/Cadillac_EV_002.0.jpg' width='700px' /><br/>
-Cadillac has canceled the April 2nd debut of the Lyriq, the first electric SUV being built on parent company General Motors' newly unveiled EV platform, as large public gatherings continue to be discouraged amid the new coronavirus outbreak. No replacement date has been chosen.
-<a href='https://www.theverge.com/2020/3/9/21171912/cadillac-lyriq-electric-suv-debut-canceled-coronavirus-covid-19'> Source <a/>
