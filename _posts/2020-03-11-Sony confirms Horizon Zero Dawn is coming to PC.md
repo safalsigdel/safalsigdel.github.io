@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tSgZfI9qBw4uPoJHgzXnG5bdhOY=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66476013/Herd.0.0.png' width='700px' /><br/>
-It's official: Horizon Zero Dawn is coming to PC. Hermen Hulst, who runs PlayStation Worldwide Studios, confirmed in an interview with Sony's PlayStation blog that a PC version of the open-world RPG will launch this summer. The game was previously exclusive to the PlayStation 4.
-<a href='https://www.theverge.com/2020/3/10/21173240/horizon-zero-dawn-pc-sony-playstation-ps4-exclusive-game-release'> Source <a/>
