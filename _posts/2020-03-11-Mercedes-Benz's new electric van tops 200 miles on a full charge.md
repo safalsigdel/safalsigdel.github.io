@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PgPox5EViNaSUWRdQRC5JAi4XZM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66476735/20C0155_006.0.jpg' width='700px' /><br/>
-Mercedes-Benz parent company Daimler just unveiled the newest version of the company's eVito commercial electric passenger van for the European market, and the company claims it can now travel up to 421 kilometers (about 262 miles) on a full charge.
-<a href='https://www.theverge.com/2020/3/10/21173373/mercedes-benz-evito-electric-van-specs-photos'> Source <a/>

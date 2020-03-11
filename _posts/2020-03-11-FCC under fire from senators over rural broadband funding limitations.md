@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rZ4QK3BBCyLSNfo66c-GXfnBt_8=/0x0:5411x3607/1200x800/filters:focal(2274x1372:3138x2236)/cdn.vox-cdn.com/uploads/chorus_image/image/66477146/1144011214.jpg.0.jpg' width='700px' /><br/>
-The Federal Communications Commission's latest plan to expand high-speed internet access across the country has come under criticism by members of Congress who fear over $20 billion in funding might not make it to the communities that need it most.
-<a href='https://www.theverge.com/2020/3/10/21173534/fcc-broadband-rural-funding-limits-ajit-pai-chuck-schumer-gillibrand'> Source <a/>

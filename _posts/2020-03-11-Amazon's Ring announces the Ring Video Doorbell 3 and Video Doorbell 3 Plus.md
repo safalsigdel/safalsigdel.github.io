@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fI87-aP6nzPAVAg24z1GOv5eSO4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66483748/ring_video_doorbell.0.png' width='700px' /><br/>
+Amazon's Ring announced two new battery-powered doorbell video cameras today: the Ring Video Doorbell 3 and a new “plus” model, the Ring Video Doorbell 3 Plus. The Video Doorbell 3 costs $199.99, while the Video Doorbell 3 Plus costs $229.99, and they'll both ship on April 8th. You can preorder them now.
+<a href='https://www.theverge.com/2020/3/11/21174876/amazon-ring-new-video-doorbell-3-plus-chime-pro-pre-roll'> Source <a/>
