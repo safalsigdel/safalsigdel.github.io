@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9273/bking_200306_3928_0016_squ.jpg' width='700px' /><br/>
+It's very easy to take the Galaxy S20 for granted. Over the past few years, Samsung has accomplished something unique in the world of Android: it consistently produced an excellent flagship phone without huge flaws. Most people who buy a Galaxy S phone know what to expect. So in a very real way, Samsung's most important job with the S20 was to make sure it didn't mess up a good thing.
+<a href='https://www.theverge.com/2020/3/11/21172039/samsung-galaxy-s20-plus-review-camera-5g-screen-android'> Source <a/>

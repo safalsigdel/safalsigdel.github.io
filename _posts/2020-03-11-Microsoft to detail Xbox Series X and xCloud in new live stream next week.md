@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3sl0VwNGDh_UH6jlFtaZDWr2jMk=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/66474889/xboxseriesx.0.jpg' width='700px' /><br/>
-This year's annual Game Developers Conference (GDC) might have been postponed amid the novel coronavirus outbreak, but that's not stopping Microsoft from streaming what it had planned for the show. The Xbox maker has revealed it's planning to live stream a number of developer-focused keynotes, including one specifically about the Xbox Series X and Project xCloud on March 18th.
-<a href='https://www.theverge.com/2020/3/10/21173004/microsoft-xbox-series-x-xcloud-plans-features-details-gdc-2020-live-stream'> Source <a/>
