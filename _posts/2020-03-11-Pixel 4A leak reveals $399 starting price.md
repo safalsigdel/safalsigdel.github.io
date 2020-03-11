@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jN1kLgwbbi5wtjNfwR4D8eJ_AYI=/0x0:1000x1716/1200x800/filters:focal(356x1350:516x1510)/cdn.vox-cdn.com/uploads/chorus_image/image/66481863/image__1_.0.png' width='700px' /><br/>
+Notable phone leaker Evan Blass tweeted images of billboard mockups that claim to show the Google Pixel 4A's starting price: $399. This is the same starting price as the Pixel 3A from last year.
+<a href='https://www.theverge.com/2020/3/11/21174653/google-pixel-4a-leak-price-billboard-photo-blass'> Source <a/>

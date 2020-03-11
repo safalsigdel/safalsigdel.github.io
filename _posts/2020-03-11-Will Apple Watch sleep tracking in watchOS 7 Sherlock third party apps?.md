@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FqIF9u6juQ4MZscBf2itxH2MC3A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66473845/vpavic_190915_3669_0268.0.jpg' width='700px' /><br/>
-Although we have no idea if Apple plans on holding a Spring hardware event or even its annual summer WWDC developer's conference, we are starting to have a clearer idea of what's coming than we did a couple weeks ago. That's because 9to5Mac has been posting a series of stories based on information gleaned from the next version of iOS.
-<a href='https://www.theverge.com/tech/2020/3/10/21172386/apple-watch-sleep-tracking-sherlocking'> Source <a/>
