@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nSGa8kPCPelS2wSnf_Sr2-E2Q_c=/0x0:1800x1198/1200x800/filters:focal(512x405:800x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66481161/LG_OLED_TV_GX_Gallery_02.0.jpg' width='700px' /><br/>
+LG has announced that its 2020 range of TVs will start to become available in the US and South Korea this month. We saw the lineup back at CES in January, and some of the highlights include:
+<a href='https://www.theverge.com/2020/3/11/21174470/lg-2020-oled-tv-lineup-us-price-release-date'> Source <a/>
