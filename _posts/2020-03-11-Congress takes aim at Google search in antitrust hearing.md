@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ih7IGue91p7sSJpq_lPCgCGVGa4=/0x0:4737x3158/1200x800/filters:focal(2778x493:3534x1249)/cdn.vox-cdn.com/uploads/chorus_image/image/66477776/1204210460.jpg.0.jpg' width='700px' /><br/>
-Congress is maintaining a push for more antitrust enforcement — including new legislation and a hearing where members excoriated Google and Amazon. Today, the Senate Judiciary Committee met to discuss tech companies unfairly favoring their own products. And Sen. Amy Klobuchar (D-MN) announced a bill to limit “exclusionary conduct” where a big company locks out smaller competitors, among other changes to antitrust law.
-<a href='https://www.theverge.com/2020/3/10/21173077/congress-antitrust-google-search-klobuchar-bill-letter-monopoly'> Source <a/>
