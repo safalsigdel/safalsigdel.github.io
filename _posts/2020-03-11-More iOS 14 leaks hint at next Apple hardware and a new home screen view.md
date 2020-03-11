@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZJj3BSOVDTmJtvJabho-l9eTxt8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66475294/akrales_170919_1976_0116.0.jpg' width='700px' /><br/>
-More details about Apple's future hardware and software plans are leaking out, thanks to an apparent leaked build of iOS 14 (which, theoretically, doesn't come out until September) that 9to5Mac has been scouring through. The latest details offer hints at new hardware and several software changes on the iPhone.
-<a href='https://www.theverge.com/2020/3/10/21173098/ios-14-leaks-apple-hardware-home-screen-tv-remote-ipad-iphone'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Jo3-NwRMrsx32noUZFVdc7ho82E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66483203/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
+YouTube is reassessing its policies in an effort to let some creators monetize videos they make about the novel coronavirus outbreak.
+<a href='https://www.theverge.com/2020/3/11/21174212/youtube-coronavirus-monetization-ads-susan-wojcicki-sensitive-subject-phil-defranco'> Source <a/>

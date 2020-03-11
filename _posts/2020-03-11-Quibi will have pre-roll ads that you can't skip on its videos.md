@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FeBuHih7BcuQRXztVW8ADYatfTI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66475722/acastro_200306_1777_Quibi_0002.0.0.jpg' width='700px' /><br/>
-The worst part about using YouTube as a free service is the 5- or 15-second non-skippable ads that play before many videos — but at least using YouTube is free. Quibi's ad-supported tier will also run non-skippable pre-roll ads at launch. But unlike YouTube, it'll cost subscribers $4.99 a month.
-<a href='https://www.theverge.com/2020/3/10/21173071/quibi-pre-roll-ads-video-advertising-non-skippable-streaming-youtube'> Source <a/>
