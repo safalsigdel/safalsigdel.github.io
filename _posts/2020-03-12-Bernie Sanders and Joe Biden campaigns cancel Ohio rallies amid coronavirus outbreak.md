@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qQB8t8-vTc17Ym1tpcdzhAk_x54=/0x0:4567x3045/1200x800/filters:focal(1919x1158:2649x1888)/cdn.vox-cdn.com/uploads/chorus_image/image/66478740/1204242684.jpg.0.jpg' width='700px' /><br/>
-The Bernie Sanders and Joe Biden campaigns have canceled events in Cleveland, Ohio Tuesday after three cases of coronavirus were confirmed in the state. Both campaigns said that they are considering whether to cancel future events as well.
-<a href='https://www.theverge.com/2020/3/10/21173878/bernie-sanders-joe-biden-coronavirus-outbreak-cancel-ohio-rally-mike-dewine'> Source <a/>
