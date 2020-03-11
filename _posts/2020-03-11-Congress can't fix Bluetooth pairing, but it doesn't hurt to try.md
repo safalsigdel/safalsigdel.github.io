@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/As6I-kBm_4vNTr0ZhhVuBe6Biyw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66481061/cwelch_191031_3763_0003.0.jpg' width='700px' /><br/>
+The week of iOS 14-based leaks continues, with hints about new Apple hardware and a new home screen view. The rumored list for apps on the home screen view strikes me as particularly interesting and particularly likely. Cracks about it copying Windows Phone aside, it seems likely to me because it also mimics a lot of the minimalist/time-well-spent launchers I've seen for Android.
+<a href='https://www.theverge.com/2020/3/11/21174449/congress-self-preferecing-sherlocking-bluetooth-pairing'> Source <a/>

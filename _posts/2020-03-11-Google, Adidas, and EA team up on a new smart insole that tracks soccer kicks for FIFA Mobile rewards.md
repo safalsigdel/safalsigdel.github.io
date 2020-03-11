@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T24U6jHJsb7j6MXUxBJcinE_VeA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66473648/cfaulkner_170324_3929_0018.0.jpg' width='700px' /><br/>
-Google, Adidas, and EA have teamed up on a smart shoe insole that connects to your phone and can turn your kicks and movement on the soccer field into rewards in FIFA Mobile. The smart insole is powered by Google's Jacquard wearable technology, which was previously only available on two Levi's jackets and on a Yves Saint Laurent backpack.
-<a href='https://www.theverge.com/2020/3/10/21168731/google-adidas-ea-smart-insole-jacquard-wearable-fifa-mobile-gmr-soccer'> Source <a/>
