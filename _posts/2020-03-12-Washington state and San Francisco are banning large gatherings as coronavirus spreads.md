@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PY5qJkdLY9qpmK87W1WLjdhaMKc=/0x0:4395x3078/1200x800/filters:focal(1847x1188:2549x1890)/cdn.vox-cdn.com/uploads/chorus_image/image/66484674/1211670386.jpg.0.jpg' width='700px' /><br/>
+Washington state and San Francisco are banning large gatherings to help reduce the spread of the novel coronavirus. The bans are a way to create social distancing, which may help people avoid coming into contact with others who might be sick.
+<a href='https://www.theverge.com/2020/3/11/21175051/washington-coronavirus-gathering-ban-seattle-areas-san-francisco'> Source <a/>

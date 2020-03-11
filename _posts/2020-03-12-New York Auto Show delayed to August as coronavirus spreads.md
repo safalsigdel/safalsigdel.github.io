@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g8LSDtzVxKDc-m3en9ZI90NitmM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66478464/akrales_180328_2315_0914.0.jpg' width='700px' /><br/>
-The New York International Auto Show is the latest big event to be postponed due to the novel coronavirus outbreak. The show was supposed to open to press on April 8th and 9th and to the public from April 10th to the 19th, but organizers announced on Tuesday that they are now aiming to hold the event in August.
-<a href='https://www.theverge.com/2020/3/10/21173663/new-york-international-auto-show-2020-canceled-coronavirus-covid-19'> Source <a/>
