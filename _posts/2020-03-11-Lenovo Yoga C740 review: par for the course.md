@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kp3fXFc1U3P9KWscawWSVpIN4wI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66484202/awhite_20200304_3921_0110.0.jpg' width='700px' /><br/>
+I'm going to come right out and say it: Lenovo Yogas are boring. The other day, I asked on Twitter if there were any actual Lenovo Yoga fans out there. I got a smattering of responses from members of the large and active ThinkPad fandom who also don't mind Yogas, and a few other folks who admitted that they liked certain aspects of Yogas they've tried. But there was a clear lack of excitement around them.
+<a href='https://www.theverge.com/2020/3/11/21174917/lenovo-yoga-c740-review-laptop-specs-features-price-2-in-1-convertible'> Source <a/>

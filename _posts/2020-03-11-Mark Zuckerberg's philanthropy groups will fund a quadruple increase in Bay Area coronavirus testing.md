@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WF05lViTwy6xa97g69Rshi4cQz0=/0x0:4168x2595/1200x800/filters:focal(1709x431:2375x1097)/cdn.vox-cdn.com/uploads/chorus_image/image/66478181/1206462945.jpg.0.jpg' width='700px' /><br/>
-Facebook CEO Mark Zuckerberg is funding a significant increase in coronavirus testing in the San Francisco Bay Area through two philanthropic groups he manages with his wife Priscilla Chan, the chief executive announced today on his personal Facebook page.
-<a href='https://www.theverge.com/2020/3/10/21173742/mark-zuckerberg-chan-initiative-coronavirus-san-francisco-testing-increase-facebook'> Source <a/>
