@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2Qpl7bUChBy4DUxLgHuC2abSwjM=/0x0:2880x1674/1200x800/filters:focal(1210x607:1670x1067)/cdn.vox-cdn.com/uploads/chorus_image/image/66485801/Chrome_Dev_Tool_Simulates_Vision_Deficiencies.0.png' width='700px' /><br/>
+Google has launched a new Chrome tool that allows developers to mimic visual impairments like color blindness to help them fix accessibility issues on their sites.
+<a href='https://www.theverge.com/2020/3/11/21174735/google-chrome-dev-tools-new-color-blind-friendly'> Source <a/>
