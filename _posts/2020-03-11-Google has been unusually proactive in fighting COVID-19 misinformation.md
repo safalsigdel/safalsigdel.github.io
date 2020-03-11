@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/02z6PSPr7eljrGc8ReDjS1XvpkI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66480938/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Last week, as COVID-19 began its spread around the globe, I noted here that the epidemic had prompted a notable change in the big tech platforms. Where they were once loath to intervene in the affairs of their own algorithms, even when the potential harms to public health were clear, the arrival of a novel coronavirus put them in a newly interventionist mindset.
+<a href='https://www.theverge.com/interface/2020/3/11/21173135/google-coronavirus-misinformation-youtube-covid-19-twitter-manipulated-media-biden'> Source <a/>

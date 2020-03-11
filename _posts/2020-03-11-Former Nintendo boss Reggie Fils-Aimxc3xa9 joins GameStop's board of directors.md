@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sPjkOEAhAuAo7mjyJe5NaqE9OIY=/0x0:3600x2400/1200x800/filters:focal(2115x362:2691x938)/cdn.vox-cdn.com/uploads/chorus_image/image/66471942/631610908.0.jpg' width='700px' /><br/>
-Reggie Fils-Aimxc3xa9 stepped down as Nintendo of America president in February 2019, set on retiring and relaxing after more than a decade in the role. That relaxation period has come to an end, however, with Fils-Aimxc3xa9 set to join GameStop's board of directors at a time when the gaming retail chain could use some much needed guidance.
-<a href='https://www.theverge.com/2020/3/9/21172236/nintendo-reggie-fils-aime-gamestop-board-directors'> Source <a/>

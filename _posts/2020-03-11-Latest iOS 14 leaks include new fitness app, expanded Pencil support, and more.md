@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AQyl-CX0n5o96ujeaHd2HB6BT9k=/0x0:2040x1360/1200x800/filters:focal(425x501:751x827)/cdn.vox-cdn.com/uploads/chorus_image/image/66473338/akrales_181101_3064_0078.0.jpg' width='700px' /><br/>
-Yesterday 9to5Mac posted details of several new features it found in supposed unreleased iOS 14 code, and now MacRumors is adding to the deluge of leaks in a series of posts. It's not clear that every one of these features pertains to iOS 14 specifically, but they do all sound like the sort of thing that could accompany a major software upgrade from Apple.
-<a href='https://www.theverge.com/2020/3/10/21172751/ios-14-leaks-fit-app-apple-pencil-handwriting-rumors'> Source <a/>
