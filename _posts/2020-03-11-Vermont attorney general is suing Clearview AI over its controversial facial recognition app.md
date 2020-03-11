@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L2n_l-Xgx8yO1HqQOXWwcZa53PU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66481590/acastro_180730_1777_facial_recognition_0002.0.jpg' width='700px' /><br/>
+Vermont Attorney General TJ Donovan has filed a lawsuit against Clearview AI and has asked the court to order the company to stop collecting Vermonters' photos and facial recognition data. In a statement, Donovan said he was “disturbed” by the company's business practices, which he said includes collecting and selling children's facial recognition data.
+<a href='https://www.theverge.com/2020/3/11/21174613/clearview-ai-sued-vermont-attorney-general-facial-recognition-app-database'> Source <a/>
