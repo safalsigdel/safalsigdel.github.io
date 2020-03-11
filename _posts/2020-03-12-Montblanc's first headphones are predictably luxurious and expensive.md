@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6l0-fQlI3n-YJ1gFzCZ2LdExthE=/0x0:1493x996/1200x800/filters:focal(497x450:735x688)/cdn.vox-cdn.com/uploads/chorus_image/image/66485638/montblancmb012.0.jpg' width='700px' /><br/>
+Montblanc has unveiled its first set of headphones: the wireless, noise-canceling MB 01 Smart Headphones. They're built for luxury and long flights, and are predictably expensive compared to other popular models, costing $595.
+<a href='https://www.theverge.com/2020/3/11/21175345/montblanc-smart-headphones-mb01-summit-2-plus-wear-os-smartwatch'> Source <a/>

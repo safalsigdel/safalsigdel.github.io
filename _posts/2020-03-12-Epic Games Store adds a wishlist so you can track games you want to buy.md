@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i7yJtbrGvQOHTqmxf0LsseHOwbI=/0x0:1024x386/1200x800/filters:focal(432x89:594x251)/cdn.vox-cdn.com/uploads/chorus_image/image/66478788/Epic_Games_Store_Wishlist_.0.png' width='700px' /><br/>
-The Epic Games Store now allows you to add games to a wishlist, so you can save games you are interested in buying later and eventually get notifications when they're on sale.
-<a href='https://www.theverge.com/2020/3/10/21173708/epic-games-store-wishlist-track-games-buying-later-sale-price'> Source <a/>
