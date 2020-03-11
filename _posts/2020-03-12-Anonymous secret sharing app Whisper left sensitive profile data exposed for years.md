@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KQlcKeUwKZs8hOzqsiwQmolQpB0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66479152/acastro_190228_1777_vpn_0002.0.jpg' width='700px' /><br/>
-Whisper, an anonymous secret-sharing mobile app that rose to prominence more than half a decade ago, has been inadvertently exposing sensitive information about its users for years through a public online database, according to a new report from The Washington Post.
-<a href='https://www.theverge.com/2020/3/10/21173945/whisper-app-database-exposed-leak-private-info-anonymous-secret-sharing'> Source <a/>
