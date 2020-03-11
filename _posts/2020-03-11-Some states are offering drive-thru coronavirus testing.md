@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8hF2Cf_9ZCvfWm3ysoLNaeVpybs=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/66483105/1211693321.jpg.0.jpg' width='700px' /><br/>
+In South Korea, health officials have been testing hundreds of people for the novel coronavirus every day at fast-food-style drive-thrus. Now, that method is coming to the US, with clinics in Colorado, Connecticut, and Washington state setting up similar testing outposts.
+<a href='https://www.theverge.com/2020/3/11/21174880/coronavirus-testing-drive-thru-colorado-connecticut-washington'> Source <a/>
