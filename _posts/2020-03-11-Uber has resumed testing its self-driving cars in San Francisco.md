@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VyjdxWgTjY2xE6q4hB-3iIr_R6s=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/66474385/__CA9908_Edit.0.jpg' width='700px' /><br/>
-Uber's self-driving cars made their first appearance on the streets of San Francisco since the company scaled back its autonomous testing program in the wake of a fatal crash in Arizona. The California DMV reinstated Uber's permit to test self-driving vehicles on public roads last month. But the company says it will take a cautious approach and only operate two vehicles with safety drivers during daylight hours.
-<a href='https://www.theverge.com/2020/3/10/21172213/uber-self-driving-car-resume-testing-san-francisco-crash'> Source <a/>
