@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Technology! There is so much of it. And it's good! Look, if you're a person who likes wireless headphones, or a person who likes colors, I have good news for you courtesy of 9to5Google: Samsung's Galaxy Buds Plus now come in red!
-<a href='https://www.theverge.com/circuitbreaker/2020/3/11/21175043/samsung-galaxy-buds-plus-red-price'> Source <a/>
