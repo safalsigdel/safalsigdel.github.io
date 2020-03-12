@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tR6uqyyIfvug7cRbNKbvvxaPht4=/0x0:4390x2850/1200x800/filters:focal(1844x1074:2546x1776)/cdn.vox-cdn.com/uploads/chorus_image/image/66490450/1206353553.jpg.0.jpg' width='700px' /><br/>
+Carnival Corporation has announced that it's suspending operations of the Princess Cruises line of ships after two of them became hotspots for the spread of the novel coronavirus. The 18 Princess Cruises ships will stop sailing for at least two months. The news comes just a few days after the US State Department warned citizens against traveling on cruise ships in order to mitigate the risk of spreading the virus.
+<a href='https://www.theverge.com/2020/3/12/21176538/carnival-princess-cruise-coronavirus-covid-19-cancel-ships-two-months'> Source <a/>
