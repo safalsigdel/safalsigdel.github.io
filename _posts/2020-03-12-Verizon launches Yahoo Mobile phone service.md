@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JhagtvfL2Yshqmme41L1SGeqFeY=/0x0:3885x2590/1200x800/filters:focal(1633x985:2253x1605)/cdn.vox-cdn.com/uploads/chorus_image/image/66482447/yahoo_mobile.0.jpg' width='700px' /><br/>
-Verizon is launching a Yahoo-branded mobile phone service called Yahoo Mobile in an attempt to use consumers' total apathy toward familiarity with the Yahoo brand to kickstart a new wireless provider.
-<a href='https://www.theverge.com/2020/3/11/21174687/yahoo-mobile-phone-plan-price-service-verizon-visible-announced'> Source <a/>
