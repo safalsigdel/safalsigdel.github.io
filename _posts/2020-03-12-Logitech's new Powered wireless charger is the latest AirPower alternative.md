@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Apple's canceled AirPower charger left a vacancy in the wireless charging market, which plenty of companies have since been trying to fill. The latest is Logitech, which announced its $129.99 Powered 3-in-1 Dock, which can wirelessly charge an iPhone, Apple Watch, and a pair of AirPods all at once.
-<a href='https://www.theverge.com/circuitbreaker/2020/3/11/21172121/logitech-powered-3-in-1-dock-stand-pad-wireless-charger-qi-airpower-alternative'> Source <a/>

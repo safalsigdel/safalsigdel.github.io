@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XZpd8-b2tsXO7Ie1T9-V7MXN8Ew=/0x0:2040x1360/1200x800/filters:focal(965x468:1291x794)/cdn.vox-cdn.com/uploads/chorus_image/image/66488796/bking_200306_3928_0011.0.jpg' width='700px' /><br/>
+The coronavirus is officially a pandemic and it has overshadowed quite a lot of other news. We've got stories on all the big news from yesterday, including the president's speech and the NBA season getting suspended.
+<a href='https://www.theverge.com/2020/3/12/21175869/galaxy-s20-android-phone-software-updates-coronavirus'> Source <a/>
