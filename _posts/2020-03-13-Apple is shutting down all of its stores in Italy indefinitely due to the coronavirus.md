@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oQpStfyMrDxJbfTTy37Xd3mKxwQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66484798/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
-Apple is indefinitely closing all 17 of its Apple Store retail locations in Italy due to the ongoing spread of the coronavirus, according to notices posted on the company's Italian website, as spotted by Bloomberg. The store closings are effectively a formality, though, given that the entire country of Italy has already been put on lockdown as of March 9th.
-<a href='https://www.theverge.com/2020/3/11/21175264/italy-coronavirus-apple-stores-shut-down-support-covid-19'> Source <a/>

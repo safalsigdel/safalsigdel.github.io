@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LBml1zdKfBPxamJFgWOeDco10DI=/0x0:5472x3648/1200x800/filters:focal(2275x1871:3149x2745)/cdn.vox-cdn.com/uploads/chorus_image/image/66492241/1212022895.jpg.0.jpg' width='700px' /><br/>
+After the National Hockey League announced on Thursday that it was pausing its 2019xe2x80x9320 season amid growing concerns over the novel coronavirus pandemic, Major League baseball announced it was suspending spring training games and postponing the start of the 2020 season by at least two weeks, and the National Collegiate Athletic Association canceled March Madness.
+<a href='https://www.theverge.com/2020/3/12/21177092/nhl-season-suspended-coronavirus-nba-pandemic-player-positive-test'> Source <a/>
