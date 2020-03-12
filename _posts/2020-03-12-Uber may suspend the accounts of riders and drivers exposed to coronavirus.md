@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DbD__ZnGYI9NDoQh-YgeNTP2yQk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66482441/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
-Uber is considering suspending the accounts of riders and drivers who have been infected or come in contact with COVID-19, the disease caused by the novel coronavirus, the company says. This follows the company's recent decision to suspend — and then reinstate — hundreds of accounts in Mexico to prevent the spread of the virus.
-<a href='https://www.theverge.com/2020/3/11/21174693/uber-coronavirus-suspend-account-rider-driver-health-covid19'> Source <a/>
