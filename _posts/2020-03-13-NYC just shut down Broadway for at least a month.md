@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ACvcc7fsiR-rJrnzQVVOy1CNHhM=/0x0:6048x3689/1200x800/filters:focal(1960x1181:2926x2147)/cdn.vox-cdn.com/uploads/chorus_image/image/66492433/1150176333.jpg.0.jpg' width='700px' /><br/>
+New York Governor Andrew Cuomo has announced a state ban on most large public gatherings of over 500 people as New York works to limit the spread of the coronavirus. The move will see the entirety of Broadway and most of New York City's concert venues shut down, as well as numerous other businesses, including meeting spaces, museums, sports games, and other locations.
+<a href='https://www.theverge.com/2020/3/12/21177162/new-york-coronavirus-ban-public-gathering-broadway-concerts-museums'> Source <a/>
