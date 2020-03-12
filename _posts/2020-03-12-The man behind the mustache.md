@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1Uy20Q14_CE3y0MPs22fTPm6q9U=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66491286/acastro_200311_3934_DrDisrespect_0001.0.jpg' width='700px' /><br/>
+Violence becomes him. Stalking through the wild grass and brutalist concrete wilderness of Tarkov, he's implacable, the unstoppable force you've always secretly wanted to see come up against an object that claims to be immovable. He sees an enemy unaware. He snarls. The sights come up instinctively. In the pause before the man drops, you can see the Doc smile and his mouse twitch.
+<a href='https://www.theverge.com/2020/3/12/21151223/twitch-dr-disrespect-streaming-contract-personality-mixer-kobe-bryant'> Source <a/>
