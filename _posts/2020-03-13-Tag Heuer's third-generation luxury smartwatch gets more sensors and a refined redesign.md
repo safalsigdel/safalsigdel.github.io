@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Tag Heuer has announced the third generation of its Connected Wear OS smartwatch, with the goal of improving both the “smart” and the “watch” halves of the product. Changes include new sensors that make the third-gen Connected watch more useful for fitness and sport tracking, along with new design updates like a ceramic bezel, screwed caseback, mechanical buttons, and a higher-resolution screen.
+<a href='https://www.theverge.com/circuitbreaker/2020/3/12/21176639/tag-heuer-connected-third-generation-luxury-smartwatch-sensors-design-watch-style'> Source <a/>

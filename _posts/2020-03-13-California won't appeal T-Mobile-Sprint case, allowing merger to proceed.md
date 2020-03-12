@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nQD3UKcnprl6Xg-YpKlDrrFtaSI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66483991/acasatro_180430_1777_sprint_Tmobile_0002.0.jpg' width='700px' /><br/>
-The California attorney general's office announced Wednesday that it would not appeal a federal court decision approving the $26 billion T-Mobile and Sprint merger. In a settlement with California, the companies made a handful of promises like creating new low-cost mobile plans and jobs in the state.
-<a href='https://www.theverge.com/2020/3/11/21174963/california-tmobile-sprint-merger-appeal-settlement-broadband-rural'> Source <a/>
