@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Earlier leaks have already revealed a lot of the bigger changes rumored to be coming to watchOS 7 and the Apple Watch Series 6, including sleep tracking and watchface sharing, but a new report from 9to5Mac has revealed another new feature: a new “International” watchface.
-<a href='https://www.theverge.com/circuitbreaker/2020/3/11/21175336/leaked-watchos-7-code-new-international-watchface-apple-watch-flags'> Source <a/>
