@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Oz-h8KzEcrw7-FVOhXI7J_emk6w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66494493/acastro_180507_1777_microsoft_0001.0.jpg' width='700px' /><br/>
+Microsoft's Build developer conference is the latest tech event to be affected by the ongoing coronavirus pandemic. The software giant was planning on holding its annual developer conference in Seattle from May 19th to May 21st, but Microsoft has decided to make it a “digital event.” A Microsoft spokesperson sent along this statement:
+<a href='https://www.theverge.com/2020/3/12/21163586/microsoft-build-2020-virtual-event-cancel-online-coronavirus'> Source <a/>
