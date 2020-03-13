@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DYO-KDERZl1DlW_3-Lj2-UDTwa0=/0x0:7886x5109/1200x800/filters:focal(3313x1925:4573x3185)/cdn.vox-cdn.com/uploads/chorus_image/image/66495074/1206683675.jpg.0.jpg' width='700px' /><br/>
+Apple has reopened all 42 of its branded retail stores in China as of today, a company spokesperson confirmed to Bloomberg and Reuters. The stores had all shuttered in early February as China restricted travel in an attempt to slow the coronavirus outbreak, but they have been gradually reopening over the past few weeks.
+<a href='https://www.theverge.com/2020/3/13/21177964/apple-stores-china-reopened-coronavirus-covid-19'> Source <a/>
