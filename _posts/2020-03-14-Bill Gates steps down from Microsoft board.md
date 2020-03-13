@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O5YVzntTOJRi8h4cBgN9i3sRqKE=/0x0:4500x3004/1200x800/filters:focal(1890x1142:2610x1862)/cdn.vox-cdn.com/uploads/chorus_image/image/66499672/Gates_Unit_00120_RC.0.jpg' width='700px' /><br/>
+Bill Gates, co-founder and former CEO of Microsoft, is stepping down from the board of the company. Gates previously served as CEO of Microsoft until 2008 when he stepped down from the position in order to spend more time on the Bill and Melinda Gates Foundation.
+<a href='https://www.theverge.com/2020/3/13/21179214/bill-gates-steps-down-microsoft-board-philanthropy'> Source <a/>
