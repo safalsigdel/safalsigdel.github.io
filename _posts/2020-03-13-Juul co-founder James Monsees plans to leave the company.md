@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Estq_difnAxquTQIssjtmJ-VA1A=/0x0:5180x3380/1200x800/filters:focal(1236x839:2064x1667)/cdn.vox-cdn.com/uploads/chorus_image/image/66493494/1072189050.jpg.0.jpg' width='700px' /><br/>
-Juul Labs co-founder James Monsees is planning to step down as adviser and board member of the beleaguered e-cigarette company, Bloomberg reports.
-<a href='https://www.theverge.com/2020/3/12/21177348/juul-co-founder-james-monsees-vaping-leaving'> Source <a/>
