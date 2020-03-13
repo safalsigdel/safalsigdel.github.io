@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SVzIp5mZteUsqIK5Rytch3f2ulo=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19786043/acastro_200311_3936_coronavirus_0002.0.jpg' width='700px' /><br/>
+The new coronavirus is spreading through the US, where several states have made emergency declarations; the World Health Organization has declared it a pandemic. Here are the basics:
+<a href='https://www.theverge.com/2020/3/13/21177024/apple-just-in-time-manufacturing-china-coronavirus-supply-chain'> Source <a/>
