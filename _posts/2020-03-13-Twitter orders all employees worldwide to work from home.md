@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/26YeOYFlI7XdjuXZPT2op81bA6k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66488269/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
-All Twitter employees must work from home until further notice in order to help slow the spread of COVID-19, the company announced today. Twitter had already “strongly encouraged” employees to do so in an announcement early last week, but is now making the directive mandatory across the world.
-<a href='https://www.theverge.com/2020/3/12/21176211/twitter-employees-work-from-home-covid-19-coronavirus'> Source <a/>
