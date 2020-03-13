@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1mQlHrD1WwhQN8j64rj8HF4T5XQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66493881/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T is suspending data caps for broadband internet customers on Thursday, as waves of employees face new work-from-home policies from US companies trying to mitigate the spread of the coronavirus, according to Motherboard.
-<a href='https://www.theverge.com/2020/3/12/21177538/att-broadband-internet-data-cap-coronavirus-suspend'> Source <a/>

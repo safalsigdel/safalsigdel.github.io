@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9xSHRP5Hg2i6i79vLzb1sXAD2HU=/0x0:1020x676/1200x800/filters:focal(518x328:680x490)/cdn.vox-cdn.com/uploads/chorus_image/image/66499188/amc-movie-theater-logo_1020.0.jpg' width='700px' /><br/>
+wAMC has emerged as the first US movie theater chain to respond to the ongoing novel coronavirus pandemic, with plans to reduce auditorium attendance by 50 percent of the standard level to promote social distancing, Deadline reports.
+<a href='https://www.theverge.com/2020/3/13/21179003/amc-theaters-coronavirus-movie-attendance-tickets-new-release-delays'> Source <a/>
