@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d6mJGlkTXCQ07hr8K156YzpWx6c=/0x0:1612x934/1200x800/filters:focal(662x89:918x345)/cdn.vox-cdn.com/uploads/chorus_image/image/66496290/Screen_Shot_2020_03_13_at_10.23.26_AM.0.png' width='700px' /><br/>
+YouTube has officially phased out its Trending tab for a new section called Explore on its iOS and Android apps. Similar to Trending, the Explore page includes videos that are popular at that moment, but it also incorporates broader categories, like gaming, music, beauty, and learning. Trending will retain its own button within the Explore page, so it's not going away entirely.
+<a href='https://www.theverge.com/2020/3/13/21178155/youtube-trending-explore-tab-mobile-ios-android'> Source <a/>

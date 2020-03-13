@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MqlhRadpQV2TegQfUEcfjBb5oG0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66489658/acastro_181026_1777_twitch_0003.0.jpg' width='700px' /><br/>
-Robert Yang has just said the magic number. Twitch chat suddenly has an echo, and it sounds like “nice.” Yang, a developer and New York University Game Center professor, is teaching a course about the sociology of streaming and Twitch by streaming on Twitch, with mixed results. “69 is the weed drug number,” one person helpfully declares. (420 is the weed drug number; 69 is the sex number.)
-<a href='https://www.theverge.com/2020/3/12/21175414/robert-yang-twitch-stream-nyu-classes-coronavirus-games-professor'> Source <a/>
