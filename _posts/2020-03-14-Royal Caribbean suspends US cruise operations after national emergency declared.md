@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8GixDQ7HkWzfXby-6AYOAwxxinc=/0x0:3000x1466/1200x800/filters:focal(1260x493:1740x973)/cdn.vox-cdn.com/uploads/chorus_image/image/66499368/1206290257.jpg.0.jpg' width='700px' /><br/>
+Royal Caribbean will suspend all cruises passing through the United States for at least 30 days as the country declares a national emergency over the novel coronavirus pandemic, the company announced on Friday.
+<a href='https://www.theverge.com/2020/3/13/21179109/royal-caribbean-cruise-suspension-coronavirus-covid-19'> Source <a/>
