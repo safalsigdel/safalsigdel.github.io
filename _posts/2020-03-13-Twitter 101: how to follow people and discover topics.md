@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Nx6LTiNpVpoOYpLD8xNUJHiYpiQ=/0x0:900x417/1200x800/filters:focal(378x137:522x281)/cdn.vox-cdn.com/uploads/chorus_image/image/66490067/Twitter-block.0.0.jpg' width='700px' /><br/>
-You held out until now, but you've finally decided you need to get active on Twitter. You created an account using either the web or via the iOS or Android apps. Now what do you do with it?
-<a href='https://www.theverge.com/2020/3/12/21175491/twitter-basics-tweet-how-to-find-people-topics-trending-profile'> Source <a/>
