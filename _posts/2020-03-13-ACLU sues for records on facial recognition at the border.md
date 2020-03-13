@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K82GuVnrBfYrfCKPhgzZIeL_Ffk=/0x0:5568x3712/1200x800/filters:focal(2228x675:3118x1565)/cdn.vox-cdn.com/uploads/chorus_image/image/66491797/1027974152.jpg.0.jpg' width='700px' /><br/>
-The American Civil Liberties Union has sued for information about the Trump administration's controversial facial recognition programs. The ACLU's suit demands more detail on how border control agents scan travelers' faces at the US border as well as plans to expand face recognition capabilities, which enable “undetectable, persistent government surveillance on a massive scale.”
-<a href='https://www.theverge.com/2020/3/12/21176913/aclu-trump-dhs-cbp-ice-tsa-facial-recognition-surveillance-lawsuit'> Source <a/>
