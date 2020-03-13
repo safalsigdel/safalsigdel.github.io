@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/__dqmjNwWkkwAcQMODDWS9yPzVU=/0x0:1390x926/1200x800/filters:focal(584x352:806x574)/cdn.vox-cdn.com/uploads/chorus_image/image/66493517/brizzly_.0.jpg' width='700px' /><br/>
-Brizzly, a Twitter client that first launched in 2009, is back with a new goal to serve the needs of all the world's Twitter power users. The company is launching its Brizzly Plus service today, a subscription that costs $6 per month, or $60 annually, and gives people access to non-native Twitter features like an undo button and auto-deletion.
-<a href='https://www.theverge.com/2020/3/12/21177247/brizzly-plus-twitter-client-subscription-edit-tweets'> Source <a/>
