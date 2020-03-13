@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TYWsnqry6KNq1xR_I1jRs3mX3eI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66494568/snapChatPattern_BW.0.jpg' width='700px' /><br/>
-Snap CEO Evan Spiegel has asked all employees to work from home and postponed the company's planned partner summit, according to an internal memo seen by The Verge. The April 2nd event for Snapchat developers, advertisers, and creators had already been moved to an online-only presentation amid coronavirus fears, but now the event has been postponed altogether.
-<a href='https://www.theverge.com/2020/3/12/21177806/snap-partner-summit-postponed-work-from-home-coronavirus'> Source <a/>

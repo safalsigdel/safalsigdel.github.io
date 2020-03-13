@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0GxFLsYBMBkBlYkOZ5ndLjf8eYo=/0x0:4936x3408/1200x800/filters:focal(2074x1310:2862x2098)/cdn.vox-cdn.com/uploads/chorus_image/image/66499469/1177050436.jpg.0.jpg' width='700px' /><br/>
+The Transportation Security Administration announced that it was updating its policies concerning liquids in carry-on baggage in response to the novel coronavirus pandemic. Air passengers will now be allowed to bring on board hand sanitizer containers up to 12 ounces (355 milliliters) in size, which is much larger than the standard 3.4 ounces (100 milliliters) previously allowed.
+<a href='https://www.theverge.com/2020/3/13/21179120/tsa-hand-sanitizer-liquid-size-airport-screening-coronavirus-covid-19'> Source <a/>

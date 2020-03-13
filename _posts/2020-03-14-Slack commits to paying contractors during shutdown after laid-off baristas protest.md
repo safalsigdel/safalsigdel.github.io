@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EeLNmO9iU37Q95p70MslT8i3HvU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66494717/acastro_190412_1777_slack_0003.0.jpg' width='700px' /><br/>
-Slack says it will continue to pay contractors while its offices are shut down due to the coronavirus pandemic. The announcement comes after five baristas, who learned last week they were being laid off, wrote a letter to the company that they intended to make public on Friday morning. The letter demanded three months pay and health care.
-<a href='https://www.theverge.com/2020/3/12/21177319/slack-paying-contractors-after-laid-off-baristas-send-letter'> Source <a/>
