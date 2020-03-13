@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u44OlHzeA0U2omWdfk3KgcdECxE=/0x0:1420x795/1200x800/filters:focal(597x285:823x511)/cdn.vox-cdn.com/uploads/chorus_image/image/66486566/mSb1ErP5h2.0.png' width='700px' /><br/>
-Google can apparently revoke the software licenses from Android TV makers if they also make devices running certain forked versions of its operating system, including Amazon Fire TV, according to a new report from Protocol. If they do, Google's licensing terms for Android reportedly dictate that those TV makers would no longer be able to run the Play Store and Google apps on any devices they make, including phones and tablets.
-<a href='https://www.theverge.com/2020/3/11/21175494/google-android-tv-license-amazon-fire-tv-os-roku'> Source <a/>
