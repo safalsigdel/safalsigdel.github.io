@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GoexuH2KX390AldX_dBgsn77blQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66493802/acastro_180525_1777_comcast_0002.0.jpg' width='700px' /><br/>
-Comcast is increasing the speed of its discounted internet service for low-income households to 25Mbps down, an increase from 15Mbps down. Upload speeds will be increased to 3Mbps from 2Mbps. Comcast is also beginning to offer a 60-day free trial of the service, which costs $9.95 per month.
-<a href='https://www.theverge.com/2020/3/12/21177524/comcast-internet-essentials-speed-increase-coronavirus'> Source <a/>

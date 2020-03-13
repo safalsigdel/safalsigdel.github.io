@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XrZFuWG9R9uPmOKOo2IHSGrh490=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66499118/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
+AT&T is the latest enormous company to instruct its employees to start working from home if they haven't already. The work-from-home edict does not apply to AT&T's retail employees, equipment installers, and CNN's TV talent and production staff, according to CNN. But AT&T's massive corporate workforce (including those at WarnerMedia) are being asked to work from home for the time being — as long as their role allows for it.
+<a href='https://www.theverge.com/2020/3/13/21178991/att-warnermedia-cnn-staff-work-from-home-coronaviru'> Source <a/>
