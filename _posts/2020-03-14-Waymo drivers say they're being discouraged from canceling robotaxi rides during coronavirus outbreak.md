@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/wFfQcGGgoWnrY0ZwpFSeGTlckCQ=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66498351/acastro_200313_1777_Waymo_corona_0001.0.jpg' width='700px' /><br/>
-Waymo, the self-driving unit of Alphabet, says it will keep operating its fleet of roughly 600 self-driving taxis in Arizona during the novel coronavirus outbreak. But the safety drivers who monitor the autonomous taxis are concerned that they are being put in harm's way
+Waymo, the self-driving unit of Alphabet, says it will keep operating its fleet of roughly 600 self-driving taxis in Arizona during the novel coronavirus outbreak. But the safety drivers who monitor the autonomous taxis are concerned that they are being put in harm's way.
 <a href='https://www.theverge.com/2020/3/13/21178375/waymo-self-driving-car-coronavirus-covid19-intel-arizona'> Source <a/>
