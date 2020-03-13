@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dfGuSKZSqg6osopGscxdFSr7a4I=/0x0:5030x3353/1200x800/filters:focal(3071x1083:3875x1887)/cdn.vox-cdn.com/uploads/chorus_image/image/66497244/1192121692.jpg.0.jpg' width='700px' /><br/>
+Federal Communications Commission Chairman Ajit Pai introduced a new broadband and telecom industry measure on Friday called the Keep Americans Connected Pledge, which is designed to rein in any potential abuses from US internet service providers during the ongoing novel coronavirus pandemic.
+<a href='https://www.theverge.com/2020/3/13/21178451/fcc-coronavirus-keep-americans-connected-pledge-att-comcast-charter-att'> Source <a/>
