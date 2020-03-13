@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K5xDx4Ee06H7G0OyQUuuDYvZFLo=/0x0:2681x3262/1200x800/filters:focal(1127x1417:1555x1845)/cdn.vox-cdn.com/uploads/chorus_image/image/66490620/17CoverC_Naz.0.jpg' width='700px' /><br/>
-On Sunday, the annual music issue of The New York Times Magazine will feature additional content available via Google Lens, giving print readers a look at multimedia features that are usually reserved for online readers. The on-demand object recognition tool Google first introduced in 2017 lets users point their phones at an object to receive additional information.
-<a href='https://www.theverge.com/2020/3/12/21176511/google-lens-interactive-new-york-times-magazine'> Source <a/>
