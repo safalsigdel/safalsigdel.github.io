@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nuNx65r9j6ggX1AbCCz7879SzOk=/0x0:3599x2581/1200x800/filters:focal(2303x1019:2877x1593)/cdn.vox-cdn.com/uploads/chorus_image/image/66494047/1149599282.jpg.0.jpg' width='700px' /><br/>
-A judge has ordered the release of former US Army analyst Chelsea Manning from a Virginia jail. Manning has been imprisoned since May 2019 for refusing to testify before a grand jury.
-<a href='https://www.theverge.com/2020/3/12/21177562/judge-chelsea-manning-released-jail-wikileaks-assange'> Source <a/>
