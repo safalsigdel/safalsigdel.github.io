@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pZLO0yYgWvELoaFVjG-ePI-Ups4=/0x0:7274x4849/1200x800/filters:focal(3337x1983:4499x3145)/cdn.vox-cdn.com/uploads/chorus_image/image/66495483/1206683709.jpg.0.jpg' width='700px' /><br/>
+It took a global pandemic for big tech companies to protect their hourly workers, support staff, and independent contractors with an economic safety net. But what will happen when the virus passes?
+<a href='https://www.theverge.com/2020/3/13/21177020/tech-companies-sick-pay-benefits-keep-coronavirus-pass'> Source <a/>
