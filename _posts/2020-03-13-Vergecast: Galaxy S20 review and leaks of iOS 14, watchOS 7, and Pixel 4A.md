@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gjyUbcxv5mYmQ5jUOYJZx9hwPrM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66496697/bking_200306_3928_0012.0.jpg' width='700px' /><br/>
+In yet another week dominated by coronavirus news, The Vergecast is offering an audio reprieve for 90 minutes to discuss some lighter topics in the world of consumer tech. It's okay to take a break!
+<a href='https://www.theverge.com/2020/3/13/21178268/samsung-galaxy-s20-review-ios14-watchos7-pixel-4a-leaks-vergecast-podcast'> Source <a/>
