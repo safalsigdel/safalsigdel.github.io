@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ibHKFBudT2JhfiN42deTc3EoQjs=/0x0:1642x1095/1200x800/filters:focal(690x417:952x679)/cdn.vox-cdn.com/uploads/chorus_image/image/66501978/applcardti.0.jpg' width='700px' /><br/>
+Apple Card customers may be able to skip their March payments without interest charges as long as they're enrolled in its Customer Assistance Program according to 9to5Mac. The company sent an email to some cardholders outlining the offer (as first posted to the r/Apple board):
+<a href='https://www.theverge.com/2020/3/14/21179926/apple-card-skip-march-payment-coronavirus'> Source <a/>
