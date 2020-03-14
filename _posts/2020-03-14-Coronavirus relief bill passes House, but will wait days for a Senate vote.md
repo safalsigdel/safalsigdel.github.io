@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fx_Pm5_DaS1ssT7T_s-_GjBveNw=/0x0:6720x4480/1200x800/filters:focal(950x751:2024x1825)/cdn.vox-cdn.com/uploads/chorus_image/image/66501248/1212227020.jpg.0.jpg' width='700px' /><br/>
+A coronavirus relief package passed the House 363-40-1 early Saturday, after hours of negotiations between Speaker Nancy Pelosi and Treasury Secretary Stephen Mnuchin. The bill drew unanimous support from Democratic legislators and mixed support from Republicans. Rep. Justin Amash (I-MI), an independent, cast the lone abstaining vote.
+<a href='https://www.theverge.com/2020/3/14/21179621/coronavirus-relief-house-pelosi-trump-mcconnell-senate'> Source <a/>
