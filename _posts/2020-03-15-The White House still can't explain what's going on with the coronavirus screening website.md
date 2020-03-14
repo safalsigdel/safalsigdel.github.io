@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/37OMW-2Vh8eg2XfyuE3Upe3_oEk=/0x0:4655x3104/1200x800/filters:focal(1956x1180:2700x1924)/cdn.vox-cdn.com/uploads/chorus_image/image/66501703/1212392001.jpg.0.jpg' width='700px' /><br/>
+The White House continued to give conflicting information Saturday about a website Google is supposedly building to help people determine whether and how to get a novel coronavirus test.
+<a href='https://www.theverge.com/2020/3/14/21179776/president-trump-coronavirus-test-white-house-pence-travel'> Source <a/>
