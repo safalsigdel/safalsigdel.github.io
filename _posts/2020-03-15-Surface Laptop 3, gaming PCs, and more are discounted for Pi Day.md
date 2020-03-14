@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VMS4dqFsI7bcKM4ki7g8adUqPUQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66496646/akrales_191017_3723_0044.0.jpg' width='700px' /><br/>
-The Microsoft Store is offering discounts on gaming laptops, some of its own Surface lineup of PCs, and more in celebration of Pi Day tomorrow (3/14). Whether or not you're someone who believes that Tau Day is actually better than Pi Day, it nevertheless gives you an excuse to check out a few deals that otherwise wouldn't be happening. Microsoft's deals last through Sunday, March 15th.
-<a href='https://www.theverge.com/good-deals/2020/3/13/21178123/microsoft-surface-laptop-3-gaming-pc-pi-day-deal-sale'> Source <a/>

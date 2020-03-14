@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ef5liKm7N4s2s71SDJaOZbNZpTU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66502078/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
+In an effort to ensure the “credibility” of health and safety information in its App Store, Apple is tightening requirements for all coronavirus-focused apps, TechCrunch reports. The company posted a note on its developer blog Saturday that outlines the review process for apps related to the virus.
+<a href='https://www.theverge.com/2020/3/14/21179993/apple-restrictions-coronavirus-app-store'> Source <a/>
