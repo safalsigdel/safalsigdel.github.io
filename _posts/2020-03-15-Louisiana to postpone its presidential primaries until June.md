@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5DlUwUtFMKBhuQToJYXkTfHaNZE=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/66497139/1206416962.jpg.0.jpg' width='700px' /><br/>
-Louisiana will postpone its April presidential primaries, becoming the first state to do so in response to the novel coronavirus pandemic, CNBC reports. Originally scheduled for April 4th, the state will instead hold its primaries on June 20th, with municipal elections coming on July 25th, Louisiana Secretary of State Kyle Ardoin said during a press conference on Friday.
-<a href='https://www.theverge.com/2020/3/13/21178433/louisiana-presidential-primaries-postpone-biden-sanders-coronavirus'> Source <a/>
