@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UNZEijxuUq_h9aM4z2Mu5bzfgRw=/0x0:1632x918/1200x800/filters:focal(686x329:946x589)/cdn.vox-cdn.com/uploads/chorus_image/image/66496804/Apple_wwdc2020_03132020_big.jpg.large_2x.0.jpg' width='700px' /><br/>
-Apple has announced that this year's Worldwide Developers Conference will be held online due to the ongoing spread of the novel coronavirus. Apple says the event, to start on an unspecified date in June, will feature a “completely new online experience” that includes both Apple's traditional announcement keynote and developer sessions.
-<a href='https://www.theverge.com/2020/3/13/21175785/wwdc-2020-online-only-apple-keynote-announced-coronavirus'> Source <a/>

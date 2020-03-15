@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LkqEvh5CCPCFzrm7mofPcYUDsvk=/0x0:1080x720/1200x800/filters:focal(454x274:626x446)/cdn.vox-cdn.com/uploads/chorus_image/image/66503202/Apple_Powerbeats_4_1583747343_0_10.0.jpg' width='700px' /><br/>
+Apple's still-unannounced Powerbeats 4 earbuds were spotted at a Walmart in Rochester, New York over the weekend, confirming some specs that previously leaked including 15 hours of battery life, 9to5Mac reports. A photo posted to Twitter showed the earbuds in red, white, and black, with a price tag of $149, which is $50 less than the price of the Powerbeats 3.
+<a href='https://www.theverge.com/2020/3/15/21180379/apple-powerbeats-4-earbuds-leaked-walmart'> Source <a/>
