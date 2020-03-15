@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ELi0Jolr4WtAXlONvbuUPHeaiuM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66504186/acastro_181114_1777_amazon_hq2_0006.0.jpg' width='700px' /><br/>
+Amazon says its Prime delivery service is experiencing delays, and it's running out of stock on some household staples due to the coronavirus outbreak, CNBC reports.
+<a href='https://www.theverge.com/2020/3/15/21180737/amazon-deliveries-delayed-coronavirus'> Source <a/>
