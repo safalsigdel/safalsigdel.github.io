@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i6cnOfQrE0tP2hIAA0JV6-KQgrk=/0x0:1125x1481/1200x800/filters:focal(371x521:551x701)/cdn.vox-cdn.com/uploads/chorus_image/image/66503049/ohare.0.jpeg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/kjnHes59vlQerkQUzogFZf-DK9s=/0x0:3000x2000/1200x800/filters:focal(902x362:1382x842)/cdn.vox-cdn.com/uploads/chorus_image/image/66503049/1212254684.jpg.5.jpg' width='700px' /><br/>
 Travelers entering the US from Europe waited for hours in long lines Saturday as new coronavirus screenings led to bottlenecks at major airports, the Washington Post reports. The Trump administration unveiled its new “enhanced entry screenings” on Friday, which route passengers on flights from 26 European countries through 13 US airports, including Chicago's O'Hare and Dallas-Fort Worth.
 <a href='https://www.theverge.com/2020/3/15/21180331/coronavirus-screening-airports-dfw-ohare'> Source <a/>
