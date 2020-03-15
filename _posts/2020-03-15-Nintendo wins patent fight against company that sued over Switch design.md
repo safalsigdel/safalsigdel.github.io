@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WIatdVMpPvzdYojQ4l-Gz27i66U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66496657/jbareham_180301_2346_nintendo_switch_0082.0.jpg' width='700px' /><br/>
-Nintendo has come out triumphant in a patent dispute with hardware developer Gamevice, which initially sued Nintendo for allegedly infringing on a patent for its gaming device, the Wikipad.
-<a href='https://www.theverge.com/2020/3/13/21177309/nintendo-switch-patent-gamevice-win'> Source <a/>
