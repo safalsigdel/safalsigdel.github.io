@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EbIfEnZFxi_FrSSNr1liY_5y3Pg=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/66505284/1207242626.jpg.0.jpg' width='700px' /><br/>
+Google's sister company Verily has launched a screening website for people who want to get tested for COVID-19. However, Verily's website is very limited in scope: it's only available to people in the Bay Area of California and it's more of a pilot program than a public health utility.
+<a href='https://www.theverge.com/2020/3/16/21181214/verily-coronavirus-screening-pilot-website-launches-limited-access'> Source <a/>
