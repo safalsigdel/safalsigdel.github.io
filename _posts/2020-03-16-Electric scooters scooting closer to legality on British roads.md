@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Pf71o-GernQtWiIATl57f5-Y7Lk=/0x0:3714x2787/1200x800/filters:focal(522x1150:1116x1744)/cdn.vox-cdn.com/uploads/chorus_image/image/66504696/scooter_sxsw_2019_6.0.jpg' width='700px' /><br/>
+The British government is opening a public consultation into the use of electric scooters in what is likely to be the first step toward legalizing them in the country. The consultation, news of which leaked in January, is an attempt to work out what rules should be placed on scooter riders and manufacturers to make sure they're safe on the UK's roads.
+<a href='https://www.theverge.com/2020/3/15/21178424/uk-electric-scooters-legalization-consultation-future-transport-review'> Source <a/>
