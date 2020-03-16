@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/23Tdjwyz_2pR6BWMzkJXQRlkUa0=/0x0:966x572/1200x800/filters:focal(406x209:560x363)/cdn.vox-cdn.com/uploads/chorus_image/image/66499280/msqrd_app.0.0.1457543856.0.jpg' width='700px' /><br/>
-Facebook will shut down MSQRD, its AR face-filtering app, this April, the company announced today.
-<a href='https://www.theverge.com/2020/3/13/21178982/msqrd-ar-selfie-app-shutting-down-mobile-app-april-facebook'> Source <a/>
