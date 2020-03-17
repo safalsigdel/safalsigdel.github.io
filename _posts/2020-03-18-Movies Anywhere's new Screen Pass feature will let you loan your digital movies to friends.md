@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C5ve1Chl860fKeBa2aBuKaXJytY=/0x0:3840x2161/1200x800/filters:focal(1613x774:2227x1388)/cdn.vox-cdn.com/uploads/chorus_image/image/66511792/Screen_Pass_PR_Screen_Shot_1.0.png' width='700px' /><br/>
-Movies Anywhere — the Disney-led digital movie locker service that syncs up your purchased films across platforms like iTunes, Amazon Video, Google Play, and Vudu — is launching a new feature called Screen Pass, which will let you temporarily share your purchased movies with friends or family members.
-<a href='https://www.theverge.com/2020/3/17/21182425/movies-anywhere-screen-pass-feature-share-loan-digital-movies-friends'> Source <a/>

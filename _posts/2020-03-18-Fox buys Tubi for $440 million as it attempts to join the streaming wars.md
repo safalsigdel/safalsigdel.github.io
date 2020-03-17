@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CN5a2QP8h8-bAENUryiQasK3X2Q=/0x0:1000x563/1200x800/filters:focal(420x202:580x362)/cdn.vox-cdn.com/uploads/chorus_image/image/66515566/tubi.0.png' width='700px' /><br/>
+Fox Corporation has acquired ad-supported streaming platform Tubi for $440 million, bringing more than 20,000 movies and shows to the platform.
+<a href='https://www.theverge.com/2020/3/17/21184294/fox-tubi-acquisition-streaming-wars-news-sports-xumi-comcast-pluto-viacomcbs'> Source <a/>
