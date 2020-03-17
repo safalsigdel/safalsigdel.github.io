@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nXtstyVW9Mydy7Oeeat6EZyysEI=/0x0:3410x2276/1200x800/filters:focal(1433x866:1977x1410)/cdn.vox-cdn.com/uploads/chorus_image/image/66513144/mark-zuckerberg-facebook-512.0.0.jpg' width='700px' /><br/>
+Facebook is planning to give a $1,000 bonus to every employee to help them amid the ongoing novel coronavirus pandemic, according to The Information. The move was reportedly announced by CEO Mark Zuckerberg in an internal company memo on Tuesday. It's unclear when the bonuses will be distributed.
+<a href='https://www.theverge.com/2020/3/17/21183513/facebook-giving-1000-dollar-bonuses-every-employee-coronavirus-mark-zuckerberg'> Source <a/>
