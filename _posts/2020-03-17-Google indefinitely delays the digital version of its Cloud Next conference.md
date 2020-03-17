@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fk1nnFtST8x7qBAH6Ly5NKu2FEw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66513664/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google has decided to delay even the digital version of its largest conference of the year, the enterprise-focused Cloud Next conference, as the severity of the coronavirus crisis deepens.
+<a href='https://www.theverge.com/2020/3/17/21183701/google-cloud-next-delay-indefinitely-coronavirus-digital-event-postponed'> Source <a/>

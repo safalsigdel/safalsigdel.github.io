@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OuxPkxoAsMle9jNk82lxah7ebIg=/0x0:1755x1208/1200x800/filters:focal(738x464:1018x744)/cdn.vox-cdn.com/uploads/chorus_image/image/66509125/Peloton_Digital___Lifestyle_04.5.jpg' width='700px' /><br/>
-Peloton knows people are stuck at home, so it's now offering new subscribers a 90-day trial, rather than 30 days, to its app. The app doesn't require people to own a Peloton-branded treadmill or bike to participate. People can try yoga, HIIT, stretching, strength training, and other classes.
-<a href='https://www.theverge.com/2020/3/16/21182267/peloton-workout-app-trial-at-home-subscription'> Source <a/>
