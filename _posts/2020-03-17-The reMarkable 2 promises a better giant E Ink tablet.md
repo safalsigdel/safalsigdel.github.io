@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+reMarkable's original oversized E Ink tablet was an interesting idea from 2017: it's a 10.3-inch tablet that had the ambitious idea to try to replace paper entirely with a digital tablet. It wasn't quite successful. But now, the company is back with the reMarkable 2, a thinner, faster, cheaper, and generally nicer-looking attempt at realizing that goal.
+<a href='https://www.theverge.com/circuitbreaker/2020/3/17/21182361/remarkable-2-giant-e-ink-tablet-digital-paper-reading-writing-features-price'> Source <a/>
