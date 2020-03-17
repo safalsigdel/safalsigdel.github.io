@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qdfzedEMBZ7NdMIsvQJg0p216-I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66512979/sokane_181116_3101_fremont_0049.0.jpg' width='700px' /><br/>
+Tesla is keeping its Fremont, California, car factory open following a new order from the Alameda County government ordering nonessential businesses to close down to help slow the spread of the novel coronavirus, according to Bloomberg and the Los Angeles Times. This comes just days after CEO Elon Musk underplayed the pandemic in an email to employees of his other company, SpaceX.
+<a href='https://www.theverge.com/2020/3/17/21183281/tesla-fremont-factory-open-after-coronavirus-shelter-in-place-order'> Source <a/>
