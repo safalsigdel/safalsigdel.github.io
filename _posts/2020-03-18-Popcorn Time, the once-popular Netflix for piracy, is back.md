@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SRX7ODjFKjRt8ucr_iN1d63q7pA=/0x0:1280x781/1200x800/filters:focal(316x254:520x458)/cdn.vox-cdn.com/uploads/chorus_image/image/66514176/popcorn.0.0.png' width='700px' /><br/>
+Popcorn Time disappeared a few years ago, forcing people who used the extremely easy “Netflix, but for piracy” app to search elsewhere for movies and TV shows. Today, as more people are forced to self-quarantine in an effort to curb the spread of the novel coronavirus, Popcorn Time has returned, Motherboard reports.
+<a href='https://www.theverge.com/2020/3/17/21183546/popcorn-time-piracy-streaming-netflix-bit-torrent-update'> Source <a/>

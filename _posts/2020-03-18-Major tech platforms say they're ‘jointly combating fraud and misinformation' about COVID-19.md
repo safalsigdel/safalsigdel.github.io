@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F0HhHhXJ1uQMC90w_OrH_tJ2c44=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66510311/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-A group of the biggest technology companies in the US say they have banded together in a commitment to fight coronavirus-related fraud and misinformation. The group includes Facebook, Google, LinkedIn, Microsoft, Reddit, Twitter, and YouTube. All seven companies sent out a joint statement Monday evening announcing the effort.
-<a href='https://www.theverge.com/2020/3/16/21182726/coronavirus-covid-19-facebook-google-twitter-youtube-joint-effort-misinformation-fraud'> Source <a/>
