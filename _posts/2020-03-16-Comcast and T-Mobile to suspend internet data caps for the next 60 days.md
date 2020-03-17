@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DbvGxQ2aXY6uXxZqC5rdyUIa1I8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66500171/acastro_180525_1777_comcast_0002.0.jpg' width='700px' /><br/>
-Comcast and T-Mobile have announced suspensions of their internet data cap policies in response to the coronavirus pandemic. Comcast says it will no longer charge overage fees for home internet customers that go over its broadband data caps, while T-Mobile says it's removing all data caps for its mobile customers. AT&T and Verizon have taken similar measures.
-<a href='https://www.theverge.com/2020/3/13/21179330/comcast-t-mobile-coronavirus-data-caps-hotspots-fcc'> Source <a/>

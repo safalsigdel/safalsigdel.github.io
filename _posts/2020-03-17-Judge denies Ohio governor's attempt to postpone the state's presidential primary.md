@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UVHzLs4F5KGu5X9LcWsRpjYlXy0=/0x0:4928x3280/1200x800/filters:focal(3327x1493:4115x2281)/cdn.vox-cdn.com/uploads/chorus_image/image/66509434/1058592348.jpg.0.jpg' width='700px' /><br/>
+An attempt by Ohio Gov. Mike DeWine to delay Tuesday's presidential primary until June 2nd has been denied by a Franklin County judge, according to the Columbus Dispatch.
+<a href='https://www.theverge.com/2020/3/16/21182254/ohio-governor-postpone-presidential-primary-june-coronavirus'> Source <a/>

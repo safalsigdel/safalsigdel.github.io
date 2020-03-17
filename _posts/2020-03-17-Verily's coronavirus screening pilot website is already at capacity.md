@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/394Yq6ghqEouQKdhRbZZnkRmESk=/0x0:2106x1228/1200x800/filters:focal(885x446:1221x782)/cdn.vox-cdn.com/uploads/chorus_image/image/66508334/Screen_Shot_2020_03_16_at_10.41.07_AM.0.png' width='700px' /><br/>
+After less than 24 hours, the website Google's sister company Verily launched to help people find coronavirus tests isn't able to schedule more appointments. It was positioned as a small pilot for California's Bay Area to begin with, instead of the expansive site the White House characterized it as, and that positioning has turned out to be very true.
+<a href='https://www.theverge.com/2020/3/16/21182004/verily-coronavirus-screening-pilot-website-capacity'> Source <a/>

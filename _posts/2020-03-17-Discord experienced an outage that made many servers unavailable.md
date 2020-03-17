@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KYfcNYxGanZFKXdQMrGn4I3b4_s=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/66509572/discord.0.jpg' width='700px' /><br/>
+Popular chat service Discord experienced widespread server outages on Monday, taking many communities offline. During the outage, Discord said it was “investigating an issue where a number of Discord servers are completely unavailable.” Many reported that the app was failing to load due to “server outages and increased API errors.” The service's status page now says that all systems are operational.
+<a href='https://www.theverge.com/2020/3/16/21182489/discord-down-outage-server-issues-chat-api-errors-details'> Source <a/>

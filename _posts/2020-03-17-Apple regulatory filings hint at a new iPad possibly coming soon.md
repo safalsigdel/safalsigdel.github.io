@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QYvNttdQf3tTD2AeISvAZYDYdDM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66508278/vpavic_190829_3709_1165.0.jpg' width='700px' /><br/>
+Apple might have a new iPad in the works, going off documents found this week in the Eurasian Economic Commission database, which contains filings required for devices sold in Russia and other countries. MacRumors reports that the filing doesn't contain much info apart from the fact that the iPad will run iOS 13. We don't know what model it'll be or what features it'll include.
+<a href='https://www.theverge.com/2020/3/16/21181856/apple-ipad-filing-release-eurasian-economic-commission'> Source <a/>

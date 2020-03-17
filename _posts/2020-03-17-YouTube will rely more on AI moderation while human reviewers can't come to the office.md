@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mzz-26de3608N_FWdXIoTYNARxQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66508634/acastro_180403_1777_youtube_0002.0.0.jpg' width='700px' /><br/>
+YouTube will rely more on AI to moderate videos during the coronavirus pandemic, since many of its human reviewers are being sent home to limit the spread of the virus. This means videos may be taken down from the site purely because they're flagged by AI as potentially violating a policy, whereas the videos might normally get routed to a human reviewer to confirm that they should be taken down.
+<a href='https://www.theverge.com/2020/3/16/21182011/youtube-ai-moderation-coronavirus-video-removal-increase-warning'> Source <a/>

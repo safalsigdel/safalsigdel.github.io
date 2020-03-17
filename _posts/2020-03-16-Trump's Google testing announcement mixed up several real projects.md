@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r2LLG-Jo-A6lB7ZxJUfhoTcT2Gs=/0x0:4091x2728/1200x800/filters:focal(1719x1037:2373x1691)/cdn.vox-cdn.com/uploads/chorus_image/image/66503490/1212392002.jpg.0.jpg' width='700px' /><br/>
-Saturday night, Google laid out everything it's doing in response to the coronavirus outbreak in its own words — after days of confusion over exactly how the search giant is collaborating with the White House in the face of a growing public health crisis.
-<a href='https://www.theverge.com/2020/3/15/21180370/google-testing-website-coronavirus-trump-covid-19-confusion'> Source <a/>

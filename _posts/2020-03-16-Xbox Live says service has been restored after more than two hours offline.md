@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NQNlbjuwu8QbND2D4I6U1xgbTWY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66504358/acastro_190530_1777_xbox_0001.0.0.jpg' width='700px' /><br/>
-Microsoft's Xbox Live service was experiencing issues today, meaning a lot of homebound people who are practicing social distancing weren't able to log into Xbox consoles. The issues appear to have started around 5PM ET today, with many Xbox users reporting that they were unable to sign in to Xbox One consoles.
-<a href='https://www.theverge.com/2020/3/15/21180841/xbox-live-is-down'> Source <a/>

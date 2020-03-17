@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Kw2TWyX4tOZnsGx0fr26YrHsc_I=/0x0:4032x3024/1200x800/filters:focal(2439x1203:3083x1847)/cdn.vox-cdn.com/uploads/chorus_image/image/66502988/001.0.jpeg' width='700px' /><br/>
-My husband and I have flown with our twin sons since they were infants. I've breastfed them next to a couple of middle-aged men who were on their way to a golf vacation. They've slept cradled in our arms, across our laps, and against our chests, La-Z-Boy style, as we've crisscrossed the country. Whatever the position, I'm not sure any of us were ever really comfortable — especially those two golfers.
-<a href='https://www.theverge.com/2020/3/15/21177337/kids-carry-on-bags-bed-travel-airplane-strategist'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YT-toCGF-zIkReu-NnJp1b7wumk=/0x0:5472x3648/1200x800/filters:focal(2495x1006:3369x1880)/cdn.vox-cdn.com/uploads/chorus_image/image/66500127/1211442310.jpg.0.jpg' width='700px' /><br/>
-Elon Musk sent a memo to SpaceX employees on Friday underplaying the dangers of COVID-19, the illness caused by the novel coronavirus, which is now considered a pandemic, according to a report from BuzzFeed News.
-<a href='https://www.theverge.com/2020/3/13/21179291/elon-musk-coronavirus-tesla-memo-car-accident-deaths-comparison'> Source <a/>

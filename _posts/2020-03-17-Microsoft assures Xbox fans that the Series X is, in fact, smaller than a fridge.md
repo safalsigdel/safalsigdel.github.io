@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+When Microsoft first revealed the Xbox Series X, a lot of people started comparing the console's design to a fridge. Microsoft seems to understand the comparison, and today it's assuring fans that although Series X may look like a fridge, it's not nearly as big as one.
+<a href='https://www.theverge.com/tldr/2020/3/16/21181399/microsoft-xbox-series-x-size-fridge-comparison-measurements'> Source <a/>

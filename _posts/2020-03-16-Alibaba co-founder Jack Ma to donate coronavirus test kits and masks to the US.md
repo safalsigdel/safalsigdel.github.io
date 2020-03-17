@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VomZYl37zS5jteuXXunfnMV4ZzI=/0x0:3301x2201/1200x800/filters:focal(1387x837:1915x1365)/cdn.vox-cdn.com/uploads/chorus_image/image/66501046/1192058124.jpg.0.jpg' width='700px' /><br/>
-Alibaba co-founder Jack Ma says he is donating 500,000 coronavirus testing kits and one million protective face masks to the United States, Reuters reports. The Chinese billionaire already has pledged 2 million protective masks to European countries. A first shipment of test kits, medical supplies and 500,000 masks intended for Italy, which has been hard-hit by the virus, arriving at Liege Airport in Belgium late Friday.
-<a href='https://www.theverge.com/2020/3/14/21179624/alibaba-co-founder-jack-ma-coronavirus-test-kits-masks-us'> Source <a/>

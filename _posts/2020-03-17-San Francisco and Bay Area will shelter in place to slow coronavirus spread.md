@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WWM1EZpmOrvZ6p4KCNP4OheSX5w=/0x0:4908x3408/1200x800/filters:focal(2504x2214:3288x2998)/cdn.vox-cdn.com/uploads/chorus_image/image/66508975/1212762721.jpg.0.jpg' width='700px' /><br/>
+Six counties in the San Francisco Bay Area  — about 6.7 million people — are under a “shelter in place” order to try to stem the spread of the novel coronavirus, the Los Angeles Times reports.
+<a href='https://www.theverge.com/2020/3/16/21182191/san-francisco-bay-area-shelter-coronavirus-order-stay-home'> Source <a/>

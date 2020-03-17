@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a4IU1iNOmiI0aoijDamdqlZ4MUQ=/0x0:1937x1291/1200x800/filters:focal(778x679:1086x987)/cdn.vox-cdn.com/uploads/chorus_image/image/66505756/Lifestyle_PowerBeats_Red_02835_R2.0.jpg' width='700px' /><br/>
-They've already leaked plenty and Walmart even put them on shelves before an official announcement, but now Apple's Beats brand is launching the new Powerbeats 4 earbuds. Like past versions, these use a neckband design, though the cable now runs behind the ear.
-<a href='https://www.theverge.com/2020/3/16/21181279/apple-beats-powerbeats-4-wireless-earbuds-announced-features'> Source <a/>

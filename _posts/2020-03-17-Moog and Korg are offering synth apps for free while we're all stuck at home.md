@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2xcmLVVcsx-QBClyOXlMGjIhhDA=/0x0:640x365/1200x800/filters:focal(269x132:371x234)/cdn.vox-cdn.com/uploads/chorus_image/image/66508573/dims.0.jpg' width='700px' /><br/>
+As the coronavirus pandemic has shut down clubs, parties, and festivals around the world, there are heaps of musicians (and music lovers) now sitting at home trying to find ways to fill their time. In response, Moog and Korg have both made certain synth apps free for a limited time.
+<a href='https://www.theverge.com/2020/3/16/21181915/synth-apps-free-moog-korg-kaossilator-minimoog-model-d-coronavirus'> Source <a/>

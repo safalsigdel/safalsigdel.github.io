@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n8QKBn_OTasK_S9CpC_R-LEC9SA=/0x0:600x449/1200x800/filters:focal(252x177:348x273)/cdn.vox-cdn.com/uploads/chorus_image/image/66507182/Andriod_Auto_Harley_Davidson.0.jpg' width='700px' /><br/>
+Android Auto is finally making it to the world of motorcycles a little over two years after Apple's CarPlay started showing up on two-wheelers. Harley-Davidson recently announced Android Auto support on any of its bikes with the Boom Box GTS operating system, meaning basically all of the company's bigger touring motorcycles.
+<a href='https://www.theverge.com/2020/3/16/21178175/harley-davidson-android-auto-motorcycles-boom-box'> Source <a/>

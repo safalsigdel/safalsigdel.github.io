@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MA9VHdGSaXHuCJcJ-UbcXkfxDD0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66500660/akrales_190919_3670_0301.0.jpg' width='700px' /><br/>
-Apple is temporary closing all of its retail stores “outside of Greater China” until March 27th, CEO Tim Cook announced in a letter posted on the company's website late Friday night. “The most effective way to minimize risk of the virus's transmission is to reduce density and maximize social distance,” Cook wrote. “We are committed to providing exceptional service to our customers.”
-<a href='https://www.theverge.com/2020/3/14/21179542/apple-closing-retail-stores-march-27-coronavirus'> Source <a/>

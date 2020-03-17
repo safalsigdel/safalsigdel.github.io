@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WpHYy7caonHyfQg7acaI18jjBQg=/0x0:2040x1147/1200x675/filters:focal(655x346:981x672)/cdn.vox-cdn.com/uploads/chorus_image/image/66508219/DSCF5783_2.0.jpg' width='700px' /><br/>
+Before Beats introduced its first true wireless earbuds last year, the Powerbeats Pro, the Apple-owned company's regular Powerbeats had been a popular go-to for runners and gym-goers. But they got left behind as Beats put its focus on the long-awaited Pros, which trounced the AirPods in audio quality and battery life and were better cut out for fitness activities.
+<a href='https://www.theverge.com/2020/3/16/21181088/beats-powerbeats-4-2020-review-wireless-earbuds-fitness-specs-price'> Source <a/>

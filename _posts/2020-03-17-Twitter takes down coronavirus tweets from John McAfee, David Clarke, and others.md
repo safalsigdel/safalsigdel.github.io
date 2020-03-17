@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pdSta_qfn2c8w0TKMjiyoijvCWg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66508146/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
+Twitter has removed several tweets by prominent accounts that made misleading claims about the novel coronavirus pandemic, as the company says it's following a “zero-tolerance approach to platform manipulation and any other attempts to abuse our service at this critical juncture.”
+<a href='https://www.theverge.com/2020/3/16/21181617/twitter-coronavirus-misinformation-tweets-removed-accounts-covid19'> Source <a/>

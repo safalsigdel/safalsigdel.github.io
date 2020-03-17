@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/H76KqGVr2PzLe5QoabNe9n-5nyk=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/66508565/headspace.0.png' width='700px' /><br/>
+The premium offering of Headspace, the mindfulness and guided meditation app, is now free for any health care provider who works in public health in the US through the end of the year. The reasoning? The novel coronavirus pandemic that has swept across the world has resulted in an overburdening of many health systems.
+<a href='https://www.theverge.com/2020/3/16/21181773/headspace-free-health-care-provider-public-health'> Source <a/>
