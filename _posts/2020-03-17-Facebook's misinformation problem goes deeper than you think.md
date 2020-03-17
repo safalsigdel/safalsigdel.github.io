@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/c3ApT6HZJand5rYUXEZH1-a_nsc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66513510/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
+In the face of the coronavirus outbreak, Facebook's misinformation problem has taken on new urgency. On Monday, Facebook joined seven other platforms in announcing a hard line on virus-related misinformation, which they treated as a direct threat to public welfare.
+<a href='https://www.theverge.com/2020/3/17/21183341/new-america-report-facebook-misinformation-nathalie-marechal'> Source <a/>
