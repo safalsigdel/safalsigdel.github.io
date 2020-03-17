@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KALamGga1euSVQlQ-42NN7rfZ0M=/0x0:2025x1350/1200x800/filters:focal(851x513:1175x837)/cdn.vox-cdn.com/uploads/chorus_image/image/66514044/nails.0.jpg' width='700px' /><br/>
+Nail artist Mei Kawajiri's nails are her canvasses, statement pieces, and sources of joy. Now they're also potential sources of infection, not compliant with the daily restraints a pandemic introduces. But she's found a workaround: nail gloves.
+<a href='https://www.theverge.com/2020/3/17/21181799/nail-artist-instagram-covid-19-coronavirus-mei-kawajiri-surgical-gloves'> Source <a/>

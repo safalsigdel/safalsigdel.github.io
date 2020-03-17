@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Nfd-T-C43BBKdTALEpr5NVj2A68=/0x0:6174x3887/1200x800/filters:focal(2594x1451:3580x2437)/cdn.vox-cdn.com/uploads/chorus_image/image/66514036/1149496122.jpg.0.jpg' width='700px' /><br/>
+The big three automakers in the United States are facing increasing pressure to close their domestic factories as the federal government, states, and other local governments issue new guidelines to help slow the spread of the novel coronavirus.
+<a href='https://www.theverge.com/2020/3/17/21183740/car-factories-coronavirus-shutdown-union-ford-gm-fiat-chrysler-uaw'> Source <a/>

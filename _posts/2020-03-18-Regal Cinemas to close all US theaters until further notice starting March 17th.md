@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VSKx0X7xJD-5dRsdyDUg1u8LaWQ=/0x0:4000x2659/1200x800/filters:focal(2121x1204:2761x1844)/cdn.vox-cdn.com/uploads/chorus_image/image/66509767/1207241787.jpg.0.jpg' width='700px' /><br/>
-Regal Cinemas, the second-largest theater chain in the country, will close all of its theaters in the US starting tomorrow, March 17th, out of caution for the ongoing spread of coronavirus, according to Deadline and The Hollywood Reporter. The theaters will remain closed until further notice.
-<a href='https://www.theverge.com/2020/3/16/21182499/regal-cinemas-close-all-us-theaters-march-17th-coronavirus'> Source <a/>
