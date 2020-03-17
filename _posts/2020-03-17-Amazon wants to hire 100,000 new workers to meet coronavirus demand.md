@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2u3WA29pMM7pmMGsIu4_e5SiK8I=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66509339/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-Amazon is looking to hire 100,000 new warehouse and delivery workers to meet increased demands for shipments as a result of the novel coronavirus pandemic, the company announced on Monday. It will also increase the hourly pay of workers employed in these positions by an additional $2 in the United States through April.
-<a href='https://www.theverge.com/2020/3/16/21182411/amazon-hires-employees-warehouse-delivery-pay-raise-coronavirus'> Source <a/>
