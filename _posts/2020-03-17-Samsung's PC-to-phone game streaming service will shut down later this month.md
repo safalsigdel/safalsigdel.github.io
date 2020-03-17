@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m4uGzktS02ZxctNYPW5N_5TUaWs=/0x0:1191x670/1200x800/filters:focal(501x240:691x430)/cdn.vox-cdn.com/uploads/chorus_image/image/66513115/msedge_1O2WJCp3gL.0.png' width='700px' /><br/>
+Samsung's PlayGalaxy Link service, which allowed you to stream games from your PC to select Galaxy smartphones, is shutting down on March 27th, the company has announced. Technically, Samsung made the announcement at the end of February, but the closure didn't come to our attention until Gamasutra spotted the announcement earlier this week.
+<a href='https://www.theverge.com/2020/3/17/21183560/samsung-playgalaxy-link-pc-to-mobile-smartphone-game-streaming-service-shutting-down'> Source <a/>
