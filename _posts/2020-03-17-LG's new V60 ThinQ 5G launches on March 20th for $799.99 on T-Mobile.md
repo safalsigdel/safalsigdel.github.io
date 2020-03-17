@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qekdT0VZe5wRDuiecmUGQj1tIzY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66507425/cwelch_200218_3910_0019.0.jpg' width='700px' /><br/>
-Today, T-Mobile and Verizon shared pricing and availability for LG's newest flagship, the LG V60 ThinQ 5G. LG first showed off the phone at the end of February, but only said at the time that the phone would be releasing in spring and that specific pricing and availability would be announced “soon.”
-<a href='https://www.theverge.com/2020/3/16/21181690/lg-v60-thinq-5g-uw-price-release-date-t-mobile-verizon'> Source <a/>

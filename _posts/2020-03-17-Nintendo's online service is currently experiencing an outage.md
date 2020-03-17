@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2ksJdA1jxAVWLd-3H5aLENii2VI=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/66511504/verge-switch-down-us-2040pxl.0.0.jpg' width='700px' /><br/>
-Nintendo's online service is experiencing outages, the company confirmed today. We've verified that the Nintendo eShop appears to be down in both the US and UK, and Mario Kart 8 Deluxe's online functionality was failing to load in the UK. Nintendo's network status page noted that the outage was ongoing as of 1:56am PT, but did not give any detail on when service might be restored.
-<a href='https://www.theverge.com/2020/3/17/21183155/nintendo-online-service-down-eshop-online-gaming'> Source <a/>
