@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FvtVGIHolhG9cC5qLwN2-rqZtrE=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/66515493/slack-imgs.com.0.0.png' width='700px' /><br/>
+Since the outbreak of the novel coronavirus, we've been advised to stay inside and to minimize human contact. One of the biggest challenges that creates is getting food. Many states and cities have restricted restaurants to takeout since dining out is no longer considered safe or responsible. However, ordering delivery is still a viable option.
+<a href='https://www.theverge.com/2020/3/17/21183919/food-take-out-delivery-order-safe-restaurants-coronavirus'> Source <a/>
