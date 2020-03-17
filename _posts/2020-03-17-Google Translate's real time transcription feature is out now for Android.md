@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vsnmo1rUsjQQW3TaO4SDhYfR0aM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66513218/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google Translate's new transcription feature, first demoed back in January, is out now for Android users as part of an update to the artificial intelligence-powered mobile app. The feature will allow you to record spoken words in one language and transform them into translated text on your phone, all in real time and without any delay for processing.
+<a href='https://www.theverge.com/2020/3/17/21182640/google-translate-transcription-android-feature-real-time-ai'> Source <a/>

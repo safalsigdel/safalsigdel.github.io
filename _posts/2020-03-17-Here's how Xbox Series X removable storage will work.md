@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/klvwoLl9cMYY4F83QzJjDwQ0Izg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66508935/storage.0.jpg' width='700px' /><br/>
-Microsoft revealed some key details about the next-gen Xbox Series X console today. Along with clock speeds, new technologies, and much more, the biggest news is that the next Xbox will support removable storage, thanks to 1TB expansion cards. Microsoft is using a special proprietary expansion card, and it has teamed up with Seagate to launch 1TB expansion cards for the Xbox Series X.
-<a href='https://www.theverge.com/2020/3/16/21181854/microsoft-xbox-series-x-expansion-cards-removable-storage-support-features'> Source <a/>
