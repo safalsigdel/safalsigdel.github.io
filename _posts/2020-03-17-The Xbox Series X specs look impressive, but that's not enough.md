@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kCOARa6Gux2GoSY7lwXnNYzC6PY=/0x0:640x264/1200x0/filters:focal(0x0:640x264):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19568241/proc_newsletter_header.png' width='700px' /><br/>
+It has been about twenty years since I sent my last newsletter, which I sent way back on Friday, March 13th. Since then, the coronavirus pandemic and various governmental responses to it got very real and this week it's likely going to get more intense. As always, you can find our coverage on this page.
+<a href='https://www.theverge.com/2020/3/17/21182602/xbox-series-x-specs-services-processor'> Source <a/>
