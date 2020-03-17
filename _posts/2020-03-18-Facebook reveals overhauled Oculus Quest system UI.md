@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-KUiWHMWGzWk8J-9B4U4TrB-dKQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66510976/akrales_190429_3371_0104.0.jpg' width='700px' /><br/>
-With the Game Developers Conference not taking place as planned, Facebook is instead making a series of Oculus-related announcements this week through what it's calling the Game Developers Showcase. The first big news, however, is mostly about Facebook's own software: the Oculus Quest is getting a major UI overhaul that the company says represents “a step toward VR becoming the next computing platform.”
-<a href='https://www.theverge.com/2020/3/17/21182993/oculus-quest-new-ui-multi-window-sales'> Source <a/>
