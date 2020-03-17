@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Diud_67tg5rNwPELwIpDK1byKHk=/0x0:2040x1360/1200x800/filters:focal(977x620:1303x946)/cdn.vox-cdn.com/uploads/chorus_image/image/66506405/jbareham_180823_2895_0075.0.jpg' width='700px' /><br/>
-Update 10:18AM ET, March 16th: Unfortunately, these went out of stock right as we published this post. We'll keep an eye on Woot to see if more stock becomes available.
-<a href='https://www.theverge.com/good-deals/2020/3/16/21181478/sony-wh-1000xm3-noise-canceling-headphones-sale-deal-discount-woot'> Source <a/>
