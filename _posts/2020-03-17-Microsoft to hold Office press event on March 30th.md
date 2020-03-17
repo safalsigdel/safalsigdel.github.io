@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4uXX3QL_Lr6qxp2-b6oQH-nwAqM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66507584/acastro_180507_1777_microsoft_0002.0.jpg' width='700px' /><br/>
-Microsoft is planning to hold a digital press event on March 30th. While the software giant typically holds press events in the spring in New York City, the ongoing novel coronavirus pandemic means the company will hold this even entirely online. Microsoft's digital event will start at 8AM PT / 11 AM ET on Monday, March 30th.xe2x80x8b
-<a href='https://www.theverge.com/2020/3/16/21181887/microsoft-office-event-march-30th-details-online'> Source <a/>
