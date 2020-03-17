@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h9jmeIf-tgqm0-NZnsL2Jh5vRYc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66511978/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
+Uber is suspending its Uber Pool service in the US and Canada in response to the novel coronavirus pandemic. The move comes after the company expanded its paid sick leave policy for drivers.
+<a href='https://www.theverge.com/2020/3/17/21183276/uber-uberpool-suspension-coronavirus-us-canada-carpool-pandemic'> Source <a/>

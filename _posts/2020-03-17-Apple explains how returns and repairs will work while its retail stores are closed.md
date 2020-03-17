@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AVHOUdwubXIMMHKsseHfjoQQ5p0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66508314/akrales_190919_3670_0074.0.jpg' width='700px' /><br/>
-Apple announced on Friday that all its retail stores outside China are closed until March 27th to help prevent the spread of the novel coronavirus. Now, the company has posted a new FAQ with information about updated return policies, repair instructions, and more (via 9to5Mac).
-<a href='https://www.theverge.com/2020/3/16/21182016/apple-returns-repairs-retail-stores-closed-coronavirus-faq'> Source <a/>
