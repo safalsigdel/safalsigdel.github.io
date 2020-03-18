@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/roB-o6oKYX_g1Dpt4KxwNFXndSE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66516165/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
-A group of Google employees has sent a memo to company leadership demanding stronger commitments to protect the more vulnerable members of Google's workforce, primarily its contract workers, during the ongoing coronavirus crisis, according to a report from Business Insider.
-<a href='https://www.theverge.com/2020/3/17/21184495/google-employees-memo-contract-workers-coronavirus-covid-19'> Source <a/>
