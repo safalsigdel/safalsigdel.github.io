@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2Le8UVDJGfaZ9ayRByPEPa2jpqk=/0x0:1373x915/1200x800/filters:focal(578x349:796x567)/cdn.vox-cdn.com/uploads/chorus_image/image/66517587/ipadkeyboard.0.jpg' width='700px' /><br/>
+Apple just announced a new generation of iPad Pros, and along with them, a brand-new style of keyboard that looks like the closest equivalent to a laptop keyboard yet.
+<a href='https://www.theverge.com/2020/3/18/21184929/apple-magic-keyboard-ipad-pro-trackpad-hinge-price-release-date'> Source <a/>
