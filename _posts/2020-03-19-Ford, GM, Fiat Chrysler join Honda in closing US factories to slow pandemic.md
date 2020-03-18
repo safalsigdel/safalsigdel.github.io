@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/CYGCvEzzzp5voMxyVRmqrbzQ07c=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66518030/1158050978.jpg.5.jpg' width='700px' /><br/>
-Ford, General Motors, and Fiat Chrysler are joining Honda in closing down all of their US factories in an effort to help fight the spread of the novel coronavirus, according to The Associated Press and The Detroit News.
+Ford, General Motors, and Fiat Chrysler are joining Honda in closing down all of their US factories in an effort to help fight the spread of the novel coronavirus.
 <a href='https://www.theverge.com/2020/3/18/21185015/honda-coronavirus-factory-shut-down-fiat-chrysler-ford-gm'> Source <a/>
