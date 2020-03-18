@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qy-11zOL0kXMxAFgIjtsdfu9RCo=/0x0:1960x1102/1200x800/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/66522324/Apple_new_iPad_Pro_AR_screen_2_03182020.0.jpg' width='700px' /><br/>
+The new iPad Pro's LIDAR scanner can turn a living room into an augmented reality version of Hot Lava, a video game based on the childhood pastime where you jump on furniture to avoid imaginary lava on the floor. The announcement was included as part of today's iPad Pro announcement.
+<a href='https://www.theverge.com/2020/3/18/21185959/ipad-pro-lidar-scaner-augmented-reality-demo-hot-lava-game'> Source <a/>
