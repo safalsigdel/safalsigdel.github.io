@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RR2jLyG753hGmeQ9g0Ik466cMYM=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66516972/G_SYNC_OLED_Line_up.0.0.jpg' width='700px' /><br/>
-Last week LG said its 2020 lineup of TVs will start rolling out in the US this month, but didn't give precise dates or pricing information. Now, via CNET, we know a little more. In fact, only one model will be available in March — the $1,800 55-inch CX, LG's mainstream 4K OLED set.
-<a href='https://www.theverge.com/2020/3/18/21184799/lg-2020-tv-lineup-release-date-price-48-inch-oled'> Source <a/>
