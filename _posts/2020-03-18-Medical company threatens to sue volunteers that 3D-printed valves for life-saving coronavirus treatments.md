@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fB5Hx18jqmSOBelUmXoQMVVOR-U=/0x0:843x1124/1200x800/filters:focal(286x559:420x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66515802/89913286_10219726497046716_5798405037298286592_o.0.jpg' width='700px' /><br/>
-A medical device manufacturer has threatened to sue a group of volunteers in Italy that 3D printed a valve used for life-saving coronavirus treatments. The valve typically costs about $11,000 from the medical device manufacturer, but the volunteers were able to print replicas for about $1 (via Techdirt).
-<a href='https://www.theverge.com/2020/3/17/21184308/coronavirus-italy-medical-company-threatens-sue-3d-print-valves-treatments'> Source <a/>
