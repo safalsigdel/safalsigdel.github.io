@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Apple made it official: trackpad and mouse support is coming to the iPad. You can get it on an iPad Pro by spending $299 or $349 on Apple's new Magic Keyboard, get it on a regular iPad with Logitech's $150 keyboard case, use your existing Bluetooth mouse or trackpad, or presumably use any number of forthcoming accessories.
+<a href='https://www.theverge.com/2020/3/18/21185188/ipad-trackpad-how-to-support-mouse-cursor'> Source <a/>

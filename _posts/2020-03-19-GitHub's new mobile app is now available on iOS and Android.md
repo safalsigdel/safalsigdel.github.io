@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r9p8SvzOWwIRThZyBYxaXMAK6i8=/0x0:1024x537/1200x800/filters:focal(431x188:593x350)/cdn.vox-cdn.com/uploads/chorus_image/image/66516168/github_mobile_1200_630.0.png' width='700px' /><br/>
-Microsoft-owned GitHub released its new mobile app today as a free download for iOS and Android. The app for the popular code repository service is primarily designed to help developers manage projects while away from their PC, letting them organize tasks, give feedback on issues, respond to comments, and review and merge pull requests.
-<a href='https://www.theverge.com/2020/3/17/21184254/github-mobile-app-now-available-download-ios-android-microsoft'> Source <a/>
