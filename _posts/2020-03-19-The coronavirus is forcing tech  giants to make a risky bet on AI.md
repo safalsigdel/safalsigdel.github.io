@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3TUqRqNP7eSXIFqnWUfY6ED12wc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66517166/acastro_170726_1777_0008_v6.0.jpg' width='700px' /><br/>
-Today, let's talk about some of the front-line workers at Facebook and Google working on the pandemic: the content moderators who keep the site running day in and day out. Like most stories about content moderators, it's a tale about difficult tradeoffs. And actions taken over the past few days by Facebook and YouTube will have significant implications for the future of the business.
-<a href='https://www.theverge.com/interface/2020/3/18/21183549/coronavirus-content-moderators-facebook-google-twitter'> Source <a/>
