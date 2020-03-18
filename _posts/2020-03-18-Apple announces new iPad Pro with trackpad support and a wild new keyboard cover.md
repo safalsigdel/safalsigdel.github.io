@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7rCX8dmaBeUAFzpv5MRitaydZEo=/0x0:1960x1104/1200x800/filters:focal(824x396:1136x708)/cdn.vox-cdn.com/uploads/chorus_image/image/66517483/Apple_new_iPad_Pro_03182020_SCREEN.0.jpg' width='700px' /><br/>
+Apple is announcing a new iPad Pro, available online for either $799 or $949, depending on which size. Apple's headline feature is that it has a LiDAR scanner to go along with its camera for depth sensing and AR, but what most people are going to notice is that very new keyboard that you can get with it.
+<a href='https://www.theverge.com/2020/3/18/21184719/apple-announces-new-ipad-pro-price-release-date-availability'> Source <a/>
