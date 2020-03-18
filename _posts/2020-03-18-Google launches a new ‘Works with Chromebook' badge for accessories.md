@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4HJCw8wYzTw7snfQjr_6HPhsUOY=/0x0:614x614/1200x800/filters:focal(303x136:401x234)/cdn.vox-cdn.com/uploads/chorus_image/image/66514781/WWCB_Recharge_Charger.0.jpg' width='700px' /><br/>
-Google has launched a new “Works with Chromebook” badge for accessories that are certified to be compatible with Chromebooks (via 9to5Google). The certification will be given to chargers, mice, keyboards, power adapters, and more.
-<a href='https://www.theverge.com/2020/3/17/21183975/google-works-with-chromebook-badge-accessories-chargers-keyboards-mice'> Source <a/>

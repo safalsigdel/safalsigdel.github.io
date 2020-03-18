@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WDSO2kJeT2SW--hlQvvfhWhk9tU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66519586/akrales_191002_3704_0431.0.jpg' width='700px' /><br/>
+Almost exactly a month after it released the first Developer Preview for Android 11, Google is releasing the second one. As it's a developer preview, it's not designed to be a public beta, nor does it include all of the features we're expecting in Android 11, but there are a few new things to talk about.
+<a href='https://www.theverge.com/2020/3/18/21185336/android-11-developer-preview-2-release-shaken-stir-call-screening-hinge-angle-detection'> Source <a/>
