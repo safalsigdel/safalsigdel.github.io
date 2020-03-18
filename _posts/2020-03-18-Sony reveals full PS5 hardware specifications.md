@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WVvxSyNgrbXkuaT2sW5HsbFIQTI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66519103/acastro_200318_1777_ps5_0001.0.jpg' width='700px' /><br/>
+After months of anticipation and drips of details, Sony has finally revealed the specifications and hardware details for the PlayStation 5, its next-generation home console that's planned for release this holiday season.
+<a href='https://www.theverge.com/2020/3/18/21183181/sony-ps5-playstation-5-specs-details-hardware-processor-8k-ray-tracing'> Source <a/>
