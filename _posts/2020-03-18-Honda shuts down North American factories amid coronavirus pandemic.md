@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hROFIoEco8JABqfG1FoE8d6fnvg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66518030/akrales_180329_2351_1416.0.jpg' width='700px' /><br/>
+Honda has become the first automaker to kick off an extended shutdown of its US manufacturing operations in response to the novel coronavirus pandemic. The company announced on Wednesday morning that it's closing all of its automotive production plants in North America for six days due to an “anticipated” drop in demand.
+<a href='https://www.theverge.com/2020/3/18/21185015/honda-coronavirus-factory-shut-down-fiat-chrysler-ford-gm'> Source <a/>
