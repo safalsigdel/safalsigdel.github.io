@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kBRdFHbXRM3WVP7GgmmUNDWMQdk=/0x0:2312x1302/1200x800/filters:focal(972x467:1340x835)/cdn.vox-cdn.com/uploads/chorus_image/image/66521774/ipad_smart_keyboard.0.png' width='700px' /><br/>
+Apple announced a new iPad Pro today, introducing a slew of much-needed features to the tablet, including support for the next generation of Wi-Fi, a feature that has not previously been available on either iPads or MacBooks.
+<a href='https://www.theverge.com/2020/3/18/21185950/apple-ipad-pro-wifi-6-support-before-macbooks'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AzzsagAze2XgOWC8WO3GcKB3fPI=/0x0:1387x712/1200x800/filters:focal(584x246:804x466)/cdn.vox-cdn.com/uploads/chorus_image/image/66517230/sony_ps5_logo.0.jpg' width='700px' /><br/>
-As we settle in to the new reality of a locked-down, socially distant world, big tech is getting ready to start talking — and maybe even releasing — new consumer tech products. We've got rumors of the new flagship Motorola phone, a new speaker operating system from Sonos, and more. Sony's also going to try to one-up Microsoft's recent Xbox Series X specs reveal with a “deep dive” today.
-<a href='https://www.theverge.com/tech/2020/3/18/21184729/sony-ps5-sonos-new-app-motorola-rumors'> Source <a/>
