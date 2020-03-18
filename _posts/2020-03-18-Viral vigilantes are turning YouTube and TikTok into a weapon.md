@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u0dWOhaMTpS2tYoA9QJMRXYOWqQ=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66517393/acastro_200317_3939_tikTok_predators_0001.0.jpg' width='700px' /><br/>
+The video begins with an accidental, amateurish lens flare against the window of a car, before the teen's phone camera settles on a supposedly 35-year-old man who has clearly been caught off guard. His face is clearly visible.
+<a href='https://www.theverge.com/2020/3/18/21183662/pedo-hunting-vigilante-youtube-tik-tok-anti-lgbt-viral'> Source <a/>
