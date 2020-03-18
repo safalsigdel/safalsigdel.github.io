@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vZC3z10tujX7TOoz4MCE4Az8QBg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66517561/vpavic_181115_3086_0042.0.jpg' width='700px' /><br/>
+Apple has announced that the standard configurations of its Mac mini will now come with double the amount of storage. The computer's $799 base configuration now comes with 256GB of storage, while the $1,099 configuration has 512GB. Apple announced the change alongside its new MacBook Air and iPad Pro.
+<a href='https://www.theverge.com/2020/3/18/21184914/apple-mac-mini-storage-256gb-512gb-standard-configuration-price'> Source <a/>
