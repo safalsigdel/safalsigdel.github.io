@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/4PSsjd9teTBVNICvSyCSNtZCwSs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66515970/jbareham_180405_1777_facebook_0003.0.jpg' width='700px' /><br/>
-Facebook appears to be marking some posts linking to information and articles about the coronavirus and COVID-19 as spam, as observed by one Verge reporter and many users on Twitter on Tuesday evening. It's unclear what's causing the issue. Facebook tells The Verge it is looking into the matter.
+Facebook appears to be marking some posts linking to information and articles about the coronavirus and COVID-19 as spam, as observed by one Verge reporter and many users on Twitter on Tuesday evening.
 <a href='https://www.theverge.com/2020/3/17/21184445/facebook-marking-coronavirus-posts-spam-misinformation-covid-19'> Source <a/>
