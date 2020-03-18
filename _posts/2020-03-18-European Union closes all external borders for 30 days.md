@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6e-EmvuNQcTmITcvhFyYAZtDzqU=/0x0:4830x3220/1200x800/filters:focal(2029x1224:2801x1996)/cdn.vox-cdn.com/uploads/chorus_image/image/66514747/1212779686.jpg.0.jpg' width='700px' /><br/>
-The European Union is locking down its borders with all other nations. German Chancellor Angela Merkel announced today that all external borders for countries within the group will close for 30 days for nonessential travel. People within the EU's 27 member nations can still travel between those countries, although there will be some restrictions, and Europeans stranded abroad will be repatriated.
-<a href='https://www.theverge.com/2020/3/17/21184043/european-union-eu-travel-ban-coronavirus-covid-19-restrictions-merkel'> Source <a/>
