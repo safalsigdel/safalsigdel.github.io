@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RPIR1Cs8ti9uJFjIwO-zn3XN6GA=/0x0:5663x3775/1200x800/filters:focal(2379x1435:3285x2341)/cdn.vox-cdn.com/uploads/chorus_image/image/66518078/1207531342.jpg.0.jpg' width='700px' /><br/>
+The US-Canada border has closed to non-essential traffic, President Trump announced Wednesday morning, bringing ongoing coronavirus containment efforts to a new level.
+<a href='https://www.theverge.com/2020/3/18/21185034/us-canada-border-closed-coronavirus-non-essential-traffic'> Source <a/>

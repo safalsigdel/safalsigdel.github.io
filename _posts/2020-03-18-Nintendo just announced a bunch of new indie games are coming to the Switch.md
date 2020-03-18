@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aPiaTV9mv66X5tjJJs3WTuZyRVY=/0x0:1908x1004/1200x0/filters:focal(0x0:1908x1004):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19813871/Screen_Shot_2020_03_17_at_10.26.02_AM.png' width='700px' /><br/>
-Nintendo just gave us a good look at a bunch of new indie games coming to the Nintendo Switch in its latest Indie World Showcase video broadcast. We've rounded up some of the highlights from the event.
-<a href='https://www.theverge.com/2020/3/17/21182632/nintendo-switch-indie-world-showcase-march-2020-games'> Source <a/>
