@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aV9Ow2l2ZsSKPTbY4h__Mq4SUXM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66520002/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
+As millions of people adapt to working from home in response to the COVID-19 pandemic, Google has decided to pause on adding new features to Chrome and Chrome OS in an effort to keep the essential software running as smoothly as possible. In a tweet today, the Chrome development team acknowledged that “adjusted work schedules” have led the company to hit pause on “upcoming Chrome and Chrome OS releases.”
+<a href='https://www.theverge.com/2020/3/18/21185471/google-pausing-chrome-os-releases-coronavirus-work-schedules'> Source <a/>
