@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TENG2nKLVO8umy61pE_Podfn7W8=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/66513855/1204973773.jpg.0.jpg' width='700px' /><br/>
-Benjamin Netanyahu has authorized the Shin Bet, Israel's internal security agency, to use cellphone location data to help combat the coronavirus. According to a New York Times report, the data will be used to retrace the movements of individuals who test positive for the virus, and identify others who should be quarantined.
-<a href='https://www.theverge.com/2020/3/17/21183716/coronavirus-covid-19-israel-natanyahu-cellphone-data-tracking'> Source <a/>
