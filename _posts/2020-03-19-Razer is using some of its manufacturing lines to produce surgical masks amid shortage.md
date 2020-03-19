@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xB9yMXm2ziuhjoK-53A3IDWRueQ=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/66525260/1207653131.jpg.0.jpg' width='700px' /><br/>
+Razer has devoted some of its manufacturing lines to produce surgical masks, according to a Twitter thread from CEO Min-Liang Tan. The company will donate up to 1 million masks around the world as countries continue working to slow the spread of COVID-19, the disease caused by the novel coronavirus.
+<a href='https://www.theverge.com/2020/3/19/21186692/razer-coronavirus-covid19-medical-surgical-masks-hospital-shortages'> Source <a/>
