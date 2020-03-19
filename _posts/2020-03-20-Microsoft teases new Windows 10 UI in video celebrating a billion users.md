@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V0yTcQiaLoLlb4WyRx0oSsggtv4=/0x0:2560x1440/1200x0/filters:focal(0x0:2560x1440):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19819624/XLYugzq.png' width='700px' /><br/>
+Microsoft's Windows 10 operating system passed a billion active users earlier this week, and the company is now marking the occasion with a video that teases new features and UI changes. In an Instagram video from Windows and Devices chief Panos Panay, Microsoft has revealed it's pushing ahead with changes to the Windows 10 Start menu that will see the company deemphasize its Live Tiles.
+<a href='https://www.theverge.com/2020/3/19/21187384/microsoft-windows-10-new-file-explorer-start-menu-context-menu-teaser-video-changes'> Source <a/>
