@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wxlGIWffhJRpaqtCRuALFACZGDg=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/66525053/1206290114.jpg.0.jpg' width='700px' /><br/>
+Billionaire entrepreneur Elon Musk tweeted on Wednesday night that he's willing to have his companies, Tesla and SpaceX, make crucial ventilators to help patients with severe symptoms of COVID-19, the disease caused by the novel coronavirus. New York City Mayor Bill de Blasio wants to take him up on that offer.
+<a href='https://www.theverge.com/2020/3/19/21186634/bill-de-blasio-elon-musk-ventilator-shortage-coronavirus-pandemic-covid-19'> Source <a/>
