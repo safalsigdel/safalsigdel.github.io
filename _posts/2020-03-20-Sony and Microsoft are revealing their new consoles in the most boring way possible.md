@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hUDG-z4dbT8b7hAnjUVraJst0B4=/0x0:4800x2700/1200x800/filters:focal(2016x966:2784x1734)/cdn.vox-cdn.com/uploads/chorus_image/image/66524160/Xbox_Series_X.0.jpg' width='700px' /><br/>
-After months of anticipation, Sony and Microsoft have started releasing concrete details for their upcoming flagship next-gen consoles, the PlayStation 5 and the Xbox Series X. After days of press releases, blog posts, and presentations... I am mostly just tired of hearing the word “teraflop.”
-<a href='https://www.theverge.com/2020/3/19/21185477/sony-microsoft-xbox-series-x-playstation-5-ps5-specs-games-announcements'> Source <a/>
