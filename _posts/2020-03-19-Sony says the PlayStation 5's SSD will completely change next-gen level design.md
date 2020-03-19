@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ymF3A5kmBDqWtRei5c_BjWeC3Ds=/0x0:1387x712/1200x800/filters:focal(584x246:804x466)/cdn.vox-cdn.com/uploads/chorus_image/image/66519722/sony_ps5_logo.0.jpg' width='700px' /><br/>
-Sony's “Road to PS5” live stream featuring system architect Mark Cerny kicked off today, and we're learning a great deal about the technical jump the upcoming PlayStation 5 will allow for game developers.
-<a href='https://www.theverge.com/2020/3/18/21185356/sony-ps5-playstation-5-ssd-load-times-mark-cerny-developer-gdc'> Source <a/>
