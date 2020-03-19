@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tlyd3YvpWW1s9bKiSDy3YXWbGuc=/0x0:1298x865/1200x800/filters:focal(546x330:752x536)/cdn.vox-cdn.com/uploads/chorus_image/image/66517948/ezgif.com_webp_to_jpg__2_.0.jpg' width='700px' /><br/>
-Samsung has announced the Galaxy M21, a new handset for the Indian market, which will cost 12,999 rupees (around $175), GSMArena reports. It's the successor to last year's Galaxy M20, and it's another attempt by Samsung to win back buyers from Chinese rivals whose phones have stolen market share from the world's largest handset maker.
-<a href='https://www.theverge.com/2020/3/18/21184895/samsung-galaxy-m21-release-date-news-feature-specs-camera-india'> Source <a/>
