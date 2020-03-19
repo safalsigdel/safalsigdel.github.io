@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4nSNF5UnCjVhdToy6mVEqyThZP4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66528238/acastro_180522_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook has begun rolling out the overhauled version of its desktop site. Starting today, users have the option to opt in to the new design, which places a heavier emphasis on two of Facebook's most critical features: events and groups. The redesign was previously exclusive to the Facebook mobile app and was first announced at the company's F8 developer conference last year.
+<a href='https://www.theverge.com/2020/3/19/21187118/facebook-desktop-redesign-more-available-starting-today'> Source <a/>
