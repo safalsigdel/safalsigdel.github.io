@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mEpj9QcfcSDmKJzswLSSVguJV50=/0x0:4739x3160/1200x800/filters:focal(1991x1201:2749x1959)/cdn.vox-cdn.com/uploads/chorus_image/image/66521878/1192126971.jpg.0.jpg' width='700px' /><br/>
-On Wednesday, the Federal Communications Commission temporarily waived rules in a move to foster internet access for hospitals and schools stuck in the broadband gap as the coronavirus pandemic continues to disrupt everyday life.
-<a href='https://www.theverge.com/2020/3/18/21185984/fcc-jessica-rosenworcel-ajit-pai-erate-broadband-homework-gap-connectivity'> Source <a/>
