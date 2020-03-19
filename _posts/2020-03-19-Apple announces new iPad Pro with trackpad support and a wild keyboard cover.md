@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PgoXGP1QNthLx205KqPTmydya58=/0x0:1040x1016/1200x0/filters:focal(0x0:1040x1016):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19815547/Screen_Shot_2020_03_18_at_5.26.31_AM.png' width='700px' /><br/>
-Apple is announcing a new iPad Pro, available online for either $799 or $949 for 128GB Wi-Fi configurations, depending on the size. They're available to order online now, and Apple says they will ship on March 25th.
-<a href='https://www.theverge.com/2020/3/18/21184719/apple-announces-new-ipad-pro-price-release-date-availability'> Source <a/>
