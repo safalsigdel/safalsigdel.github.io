@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/grFOPoP63kOK5nzzP--0qZ3cqLE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66525995/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
+Uber took stock of the effect the coronavirus outbreak has had on its business in a call with investors on March 19th, and the early numbers are pretty grim. The company's ride volume in Seattle, a city hit hard by the novel coronavirus, is down by 60-70 percent, the company's CEO Dara Khosrowshahi said.
+<a href='https://www.theverge.com/2020/3/19/21186865/uber-rides-decline-coronavirus-seattle-sf-la-nyc'> Source <a/>
