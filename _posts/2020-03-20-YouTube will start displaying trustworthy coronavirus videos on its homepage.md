@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vNBV7uOMLVOAB-j8ROU4XCZKsOk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66528092/acastro_180403_1777_youtube_0001.0.jpg' width='700px' /><br/>
+YouTube will introduce a new row of verified videos to its homepage for anyone trying to find authoritative news on the ongoing coronavirus story.
+<a href='https://www.theverge.com/2020/3/19/21187413/youtube-coronavirus-covid-19-shelf-homepage-news-authority-misinformation'> Source <a/>
