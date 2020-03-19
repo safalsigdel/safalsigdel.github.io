@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AQSWvdio_qFZVaOqDvrF7nN3Z0w=/0x0:5196x3464/1200x800/filters:focal(2369x1342:3199x2172)/cdn.vox-cdn.com/uploads/chorus_image/image/66523569/1212067257.jpg.0.jpg' width='700px' /><br/>
-Digital rights advocacy group Access Now has published an open letter to Zoom calling on the video conferencing company to release a transparency report.
-<a href='https://www.theverge.com/2020/3/19/21186152/zoom-transparency-report-access-now-advocacy-group'> Source <a/>
