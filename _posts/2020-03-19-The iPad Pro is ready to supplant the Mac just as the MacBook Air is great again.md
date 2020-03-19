@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_os1MFlG-U_uhjEYV0GHOBKMXKI=/0x0:2312x1302/1200x800/filters:focal(972x467:1340x835)/cdn.vox-cdn.com/uploads/chorus_image/image/66523666/ipad_smart_keyboard.0.png' width='700px' /><br/>
+I felt personally attacked by Apple yesterday, specifically by the marketing copy it used to promote the new iPad Pro: “Your next computer is not a computer.” This newsletter, Processor, is also (and originally) the name for the tech-focused video essays that I sometimes make. The very first one kicked off by asking the same question Apple did with an iPad Pro back in 2018: “What's a computer?”
+<a href='https://www.theverge.com/2020/3/19/21186312/ipad-pro-vs-macbook-air-future-computers'> Source <a/>
