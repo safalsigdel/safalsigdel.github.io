@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XZYSDWN6QvgNekuaS4j64xeQMM0=/0x0:1800x1013/1200x800/filters:focal(308x174:596x462)/cdn.vox-cdn.com/uploads/chorus_image/image/66526027/magicleap1.0.jpg' width='700px' /><br/>
+Mixed reality startup Magic Leap has been fairly quiet for the past few months, but the company is trying to tempt potential buyers with a package for people stuck working from home. The “Collaboration Package” is a 45-day trial of four Magic Leap headsets, plus access to Spatial, a virtual collaboration program. It costs $5,000, with the option to extend the license or send the headsets back afterward.
+<a href='https://www.theverge.com/2020/3/19/21186857/magic-leap-spatial-collaboration-headset-package-ar-work'> Source <a/>

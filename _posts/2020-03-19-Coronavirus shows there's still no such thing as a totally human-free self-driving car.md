@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V0wy8Bl41ENWTEhpzNAuGDKY024=/0x0:3620x2343/1200x675/filters:focal(1521x883:2099x1461)/cdn.vox-cdn.com/uploads/chorus_image/image/66520135/1142125645.jpg.0.jpg' width='700px' /><br/>
-Autonomous vehicles were supposed to make human drivers obsolete. But the coronavirus pandemic is exposing how a technology designed to be human-free still relies on a large workforce of contract laborers at almost every level.
-<a href='https://www.theverge.com/2020/3/18/21183421/self-driving-cars-coronavirus-covid19-human-drivers-waymo-cruise-zoox'> Source <a/>
