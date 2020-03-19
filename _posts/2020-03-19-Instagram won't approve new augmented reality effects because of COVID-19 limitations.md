@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9WotGukk6--P-BBKTHC1cGiYscs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66525744/akrales_190218_3236_0015.0.jpg' width='700px' /><br/>
+Instagram and Facebook won't feature any new augmented reality effects in the immediate future. In an update posted to its Facebook Group for people who make filters, the company said it's sending its reviewers home because of COVID-19 infection concerns. When home, they won't be able to approve or publish new effects.
+<a href='https://www.theverge.com/2020/3/19/21186824/instagram-facebook-spark-ar-augmented-reality-effects-coronavirus-limitations'> Source <a/>
