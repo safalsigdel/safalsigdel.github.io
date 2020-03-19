@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1UwwZjL_Cjddrl1LvtJTAzNMHe4=/0x0:2040x1360/1200x800/filters:focal(784x480:1110x806)/cdn.vox-cdn.com/uploads/chorus_image/image/66518026/akrales_190716_3546_0060.0.jpg' width='700px' /><br/>
-Bose's Noise Cancelling Headphones 700 are $100 off right now at Nordstrom, a store usually known for deals on clothing, not gadgets. This model usually sells for $400, but Wirecutter Deals pointed out that you can snag them for $300 in black or silver. The 700s have seen a minor price drop here and there but nothing more than $50 since they released in mid-2019.
-<a href='https://www.theverge.com/good-deals/2020/3/18/21183866/bose-headphones-deal-noise-cancelling-700-wireless-sale-discount'> Source <a/>
