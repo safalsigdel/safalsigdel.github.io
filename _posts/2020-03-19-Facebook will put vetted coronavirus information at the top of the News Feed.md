@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XIwU916Ia56CgX4WkUfE28poIEM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66520496/akrales_180614_1777_0110.0.jpg' width='700px' /><br/>
-Facebook will put a coronavirus information center at the top of the News Feed in the United States and other countries around the world, CEO Mark Zuckerberg said today. In a call with reporters, Zuckerberg said that a collection of information from the World Health Organization and Centers for Disease Control would begin appearing on top of the feed over the next day.
-<a href='https://www.theverge.com/2020/3/18/21185538/facebook-coronavirus-news-feed-information-center-covid-19'> Source <a/>
