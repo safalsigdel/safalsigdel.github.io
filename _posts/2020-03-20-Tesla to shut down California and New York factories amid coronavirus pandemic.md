@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X5PCo8_IIel-sggh5ywgdMP__Y0=/0x0:2040x1529/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/66527846/bfarsace_181116_3101_gigafactory_0037.0.jpg' width='700px' /><br/>
+Tesla will temporarily shut down its car manufacturing plant in Fremont, California, starting on Monday, March 23rd, after days of back-and-forth with the local authorities about whether the company was exempt from a recent shelter-in-place order. The company will also suspend most operations at its solar panel factory in Buffalo, New York.
+<a href='https://www.theverge.com/2020/3/19/21187419/tesla-factory-shutdown-fremont-new-york-gigafactory-coronavirus-pandemic'> Source <a/>
