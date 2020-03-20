@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-You know that feeling you get one minute before hopping on a video call when you realize you have no idea how you actually look? A handy new Mac app, Hand Mirror, helps with that by turning on your webcam with just one click so you can quickly make sure you don't have spinach in your teeth. The app is made by designer and developer Rafael Conde.
-<a href='https://www.theverge.com/tldr/2020/3/19/21186782/hand-mirror-mac-app-check-video-call'> Source <a/>

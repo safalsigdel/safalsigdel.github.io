@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RupP0AxfFGCbS026ggUZc46CNcY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66529889/wjoel_1777_180403_youtube_001.0.jpg' width='700px' /><br/>
+YouTube is reducing the quality of its videos in Europe, as an increase in home usage strains the continent's internet during the novel coronavirus outbreak, Reuters reports. “We are making a commitment to temporarily switch all traffic in the EU to standard definition by default,” the company said in a statement.
+<a href='https://www.theverge.com/2020/3/20/21187930/youtube-reduces-streaming-quality-european-union-coronavirus-bandwidth-internet-traffic'> Source <a/>
