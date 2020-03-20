@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z2HWyYJm9T2aUDQuZO_k4rIYdGc=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/66529558/1175368040.jpg.0.jpg' width='700px' /><br/>
+Twitter will not take down a tweet from billionaire entrepreneur Elon Musk where he said children are “essentially immune” to COVID-19, the disease caused by the novel coronavirus, despite early evidence that they can be infected and become seriously ill.
+<a href='https://www.theverge.com/2020/3/20/21187760/twitter-elon-musk-tweet-coronavirus-misinformation'> Source <a/>
