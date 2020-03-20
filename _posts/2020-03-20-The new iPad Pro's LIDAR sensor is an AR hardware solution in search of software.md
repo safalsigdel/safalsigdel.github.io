@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EzFhL7C__-u2lbnCLJxPBg-oKEk=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/66525539/ipad.0.png' width='700px' /><br/>
-Apple announced a new iPad Pro yesterday, and one of the biggest additions was a new LIDAR system on the rear camera, which Apple argued was the missing piece for revolutionary augmented reality applications.
-<a href='https://www.theverge.com/2020/3/19/21185200/apple-ipad-pro-lidar-sensor-ar-hardware-solution-software-apps-augmented-reality'> Source <a/>

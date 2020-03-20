@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iYqxxoR3bwGdikIP1KXV4N4iu6w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66525977/acastro__171016_1777_0001_v5.0.jpg' width='700px' /><br/>
-If you're now working at home due to the COVID-19 outbreak, you may have a moment when you realize that your Wi-Fi just isn't cutting it anymore — it could be a frozen video feed, a rainbow spinner on your screen, or a cry from your kids when their favorite game doesn't load. Here are a few things you can do to get the most out of your bandwidth.
-<a href='https://www.theverge.com/2020/3/19/21185759/wi-fi-work-at-home-how-to-router-mesh'> Source <a/>
