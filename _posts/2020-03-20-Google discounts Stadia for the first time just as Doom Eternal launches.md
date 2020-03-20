@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VJqBxwCQTe8IzdoUhGUqMspckzs=/0x0:2178x1452/1200x800/filters:focal(915x552:1263x900)/cdn.vox-cdn.com/uploads/chorus_image/image/66529880/googlestadia.0.jpg' width='700px' /><br/>
+Google is discounting its Stadia cloud gaming service for the first time since its November launch. The Stadia Premiere Edition, which includes a Stadia controller, Chromecast Ultra, and three months of Stadia Pro, is dropping from $129 to $99 for a one day sale until 11:59PM PT tonight (2:59AM ET on March 21st).
+<a href='https://www.theverge.com/2020/3/20/21187919/google-stadia-discount-sale-doom-eternal-launch-pricing'> Source <a/>
