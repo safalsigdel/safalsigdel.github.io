@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2OvwEJ8vVzT6YpJj39yTgnWGhuU=/0x0:2688x1792/1200x800/filters:focal(1129x681:1559x1111)/cdn.vox-cdn.com/uploads/chorus_image/image/66530707/tinderpassport.5.jpg' width='700px' /><br/>
+Tinder's team recognizes that daters might want to connect with people abroad during the COVID-19 pandemic, so starting next week, the company is making its Passport feature free for all users through April 30th. Passport allows people to pay to swipe abroad wherever they want. It usually costs money to access through either Tinder Gold or Tinder Plus.
+<a href='https://www.theverge.com/2020/3/20/21188029/tinder-passport-subscription-free-covid-19-coronavirus-quarantine'> Source <a/>

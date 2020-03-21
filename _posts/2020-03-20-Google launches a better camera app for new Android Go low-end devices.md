@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FeCw3GKQYIHA9C1Sy8TP4Ce5TUA=/0x0:2000x1400/1200x0/filters:focal(0x0:2000x1400):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19818695/Camera_Go_inline_V2.jpg' width='700px' /><br/>
-Google is introducing a new Camera Go app for its Android Go range of entry-level devices. Android Go originally debuted two years ago as a more stripped-down version of Android designed to run on inexpensive low-end devices, and it's now running on 100 million active devices. Google created Go versions of Gmail, YouTube, and other key services, but a better camera app was always missing.
-<a href='https://www.theverge.com/2020/3/19/21186489/google-android-go-camera-new-app-portrait-mode-nokia-1-3'> Source <a/>

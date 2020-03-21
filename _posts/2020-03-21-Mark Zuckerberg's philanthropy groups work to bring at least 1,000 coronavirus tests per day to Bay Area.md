@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f1wlv9F88gkcqHGcdsxOMPXPIkA=/0x0:6219x4146/1200x800/filters:focal(2613x1576:3607x2570)/cdn.vox-cdn.com/uploads/chorus_image/image/66533581/1178141588.jpg.0.jpg' width='700px' /><br/>
+Facebook CEO Mark Zuckerberg's philanthropic groups are working to help increase the number of tests for the novel coronavirus in the Bay Area by at least 1,000 tests per day in “the coming days,” he said in a Facebook post on Thursday. Zuckerberg's Chan Zuckerberg Initiative (CZI) tells The Verge that the goal is to be able to support at least 1,000 tests in less than 30 days.
+<a href='https://www.theverge.com/2020/3/20/21187521/mark-zuckerberg-chan-initiative-biohub-ucsf-covid-19-testing-coronavirus'> Source <a/>

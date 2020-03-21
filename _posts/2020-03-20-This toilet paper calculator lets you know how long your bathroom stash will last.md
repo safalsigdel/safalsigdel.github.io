@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Unprecedented times call for unprecedented measures, and that's precisely how we as a society end up with something like How Much Toilet Paper?!, a new website that calculates the dwindling amount of our most prized bathroom supply.
-<a href='https://www.theverge.com/tldr/2020/3/19/21186029/toilet-paper-calculator-coronavirus-self-isolation-how-long-it-lasts'> Source <a/>

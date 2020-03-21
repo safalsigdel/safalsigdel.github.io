@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nXVxpr2AmTJNztRet1eJwdymwro=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66527830/snapChatPattern_BW.0.jpg' width='700px' /><br/>
-Snap is rolling out its Here For You search tool a bit earlier than planned to help users who may be feeling anxious or stressed over the coronavirus pandemic, the company says. The Here For You tool was first announced in February, and it's designed to surface “safety resources” from mental health experts when users search for topics like anxiety, depression, suicide, or bullying.
-<a href='https://www.theverge.com/2020/3/19/21187176/snap-mental-health-coronavirus-anxiety-stress'> Source <a/>

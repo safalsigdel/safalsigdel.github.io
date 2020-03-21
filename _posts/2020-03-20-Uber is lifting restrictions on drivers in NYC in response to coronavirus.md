@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wp_vkQtsS2o5m7M8HExr0ypYPUE=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66527580/1007905088.jpg.0.jpg' width='700px' /><br/>
-Uber will stop blocking drivers in New York City from signing on to its app, which it has been doing since fall 2019. The company says it wants to give drivers one less thing to worry about amid the novel coronavirus pandemic.
-<a href='https://www.theverge.com/2020/3/19/21187261/uber-lift-restrictions-driver-app-nyc-coronavirus'> Source <a/>

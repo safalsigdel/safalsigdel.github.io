@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eVxigbJI3GJfVhDYtbgHVFSDEzM=/0x0:2000x1008/1200x800/filters:focal(682x419:1002x739)/cdn.vox-cdn.com/uploads/chorus_image/image/66526918/66.0.0.0.jpg' width='700px' /><br/>
-Netflix will take new actions to reduce bit rates of streams in Europe following a conversation between the European Union Commissioner Thierry Breton and CEO Reed Hastings, the company announced on Thursday.
-<a href='https://www.theverge.com/2020/3/19/21187078/netflix-europe-streaming-european-union-bit-rate-broadband-coronavirus'> Source <a/>

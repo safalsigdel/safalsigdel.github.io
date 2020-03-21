@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vf5H61uony5zORzX66r3nkT2Ehw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66526426/EA0D9A24_4E62_44A1_9AD2_DE3D6ED2CC15_2659_000000BCD875A85A.0.jpg' width='700px' /><br/>
-Yesterday, Apple announced a new iPad Pro along with an updated keyboard case — now with a trackpad. The company also confirmed that it's bringing laptop-like trackpad and mouse functionality to iPadOS, and it's doing so sooner than some anticipated. The new context-aware cursor and other trackpad / mouse features are coming next week as part of the iPadOS 13.4 update.
-<a href='https://www.theverge.com/2020/3/19/21185401/apple-ipados-13-4-trackpad-mouse-support-beta'> Source <a/>

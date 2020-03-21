@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n7_1lfq1P8UsqFhfjtTFgx9gaDc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66533613/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google has completely canceled Google I/O 2020, its biggest event of the year, due to the ongoing spread of the novel coronavirus. The company announced on March 3rd that it canceled the physical I/O event, but now the whole thing is off.
+<a href='https://www.theverge.com/2020/3/20/21188669/google-i-o-canceled-2020-coronavirus-pandemic'> Source <a/>

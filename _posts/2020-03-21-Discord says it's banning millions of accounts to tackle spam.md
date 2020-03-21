@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_zD4whXCQvkHlBWbWhyFgSkhaaU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66532729/acastro_200318_1777_discord_0003.0.0.jpg' width='700px' /><br/>
+Discord banned 5.2 million accounts between April and December last year, the company revealed today in its second transparency report. The most common reasons for account bans were spam and exploitative content, which includes nonconsensual pornography (so-called “revenge porn”) as well as sexual content related to minors.
+<a href='https://www.theverge.com/2020/3/20/21188273/discord-transparency-report-moderation-q2-q3-q4-2019-spam-exploitative-content'> Source <a/>

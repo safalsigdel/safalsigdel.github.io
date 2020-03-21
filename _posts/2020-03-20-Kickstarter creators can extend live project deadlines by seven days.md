@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2Kve5p3D3dnURQxio7oEo-gk_Ds=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66527986/acastro_190319_1777_kickstarter_0002.0.jpg' width='700px' /><br/>
-Kickstarter is giving creators extra time to meet their crowdfunding goals. On Thursday, the company said any creator with a campaign live now can request a seven-day extension. To ask for extra time, they just have to email extensions@kickstarter.com from the email address associated with their project along with a link to the campaign.
-<a href='https://www.theverge.com/2020/3/19/21187412/kickstarter-crowdfunding-campaing-coronavirus-extension-time'> Source <a/>
