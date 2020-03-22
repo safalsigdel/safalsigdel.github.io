@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L9NnlJKax0o2RQrAR0LWrcTyCRI=/0x0:3000x2168/1200x800/filters:focal(1260x844:1740x1324)/cdn.vox-cdn.com/uploads/chorus_image/image/66535858/692961544.jpg.0.jpg' width='700px' /><br/>
+General Motors is partnering with Ventec Life Systems to help increase production of ventilators that are needed in hospitals dealing with patients who have the novel coronavirus, the companies announced Friday. In the most severe cases of COVID-19 infection, patients need the assistance of ventilators to breathe, and there are widespread concerns that the US does not have enough ventilators to meet the coming demand.
+<a href='https://www.theverge.com/2020/3/21/21189184/gm-ventec-ventilators-tesla-musk-coronavirus'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZYRa0bwl-nu85RqKThXMJjV8klA=/0x0:3840x2160/1200x800/filters:focal(1167x826:1781x1440)/cdn.vox-cdn.com/uploads/chorus_image/image/66530385/half_life_alyx_vr_004.0.jpg' width='700px' /><br/>
-It's 2020, and the selection of VR headsets has never been more varied — or more sold out. If you haven't been keeping up with the onslaught of news, most virtual reality headsets that will be compatible with the game from the likes of Oculus, Valve, HTC, and Samsung have been in extremely high demand but with low supply.
-<a href='https://www.theverge.com/2020/3/20/21177442/half-life-alyx-vr-headset-compatible-valve-oculus-rift-quest-htc-steamvr-available'> Source <a/>

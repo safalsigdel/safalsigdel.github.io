@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uI2OelX3mzlibjgIWVeGdw2FHOw=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66530372/vrg_illo_3871_armslist_0001.0.jpg' width='700px' /><br/>
-A new report published by Yelp shows the changing interests of US consumers during the novel coronavirus pandemic. It paints a rather bleak portrait of local economies being driven by fear and restlessness, and a society in withdrawal.
-<a href='https://www.theverge.com/2020/3/20/21187916/gun-interest-fitness-trend-us-coronavirus-yelp-trend'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NxyzcwftLh7A09ZGRz0w2TIc1aM=/0x0:1000x664/1200x800/filters:focal(420x252:580x412)/cdn.vox-cdn.com/uploads/chorus_image/image/66537241/gamestop-photo.0.jpg' width='700px' /><br/>
+GameStop is temporarily closing all its US-based retail locations and moving to “delivery only” starting on March 22nd, the company announced today. It's an abrupt reversal for the company, which just a few days ago was defending its decision to keep its stores open, as an “essential” business, and was instructing staff to ignore coronavirus-related lockdowns.
+<a href='https://www.theverge.com/2020/3/21/21189663/gamestop-will-temporarily-close-all-storefronts-to-customers'> Source <a/>
