@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Nt8QNk3Zu3CbRalNY7bjUZtjE9Y=/0x0:1024x678/1200x800/filters:focal(369x266:531x428)/cdn.vox-cdn.com/uploads/chorus_image/image/66537874/bestBUY.0.jpg' width='700px' /><br/>
+Starting today, Best Buy is limiting its US stores to “contactless” curbside service, allowing only employees into its stores, according to a statement from the company. Orders placed on the Best Buy website or via its app will be delivered to customers' cars outside its stores by employees.
+<a href='https://www.theverge.com/2020/3/22/21189846/best-buy-curbside-pickup-home-office-coronavirus'> Source <a/>
