@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oDYdk4C84wpcKYwKEhJYapgYX5o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66533092/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T sent a notice to its authorized retailer companies in California with instructions for how to handle potential questions, including from law enforcement, about why they were remaining open during the COVID-19 pandemic. Describing it as “best practice only,” the guidance sent Thursday “is to be used in the event that any officials, individuals or groups inquire about why the AT&T store is open.”
-<a href='https://www.theverge.com/2020/3/20/21188164/att-retail-stores-coronavirus-leaked-memo-essential-business-services'> Source <a/>

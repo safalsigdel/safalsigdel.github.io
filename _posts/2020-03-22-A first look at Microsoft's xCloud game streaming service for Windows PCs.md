@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7N24yJDXRo-BaDnOpw8ziYuZhyQ=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/66534147/xcloud.0.jpg' width='700px' /><br/>
-Microsoft has started testing its Project xCloud game streaming service for Windows 10 PCs this week. The software giant is making the preview version, which lets you stream Xbox games to a PC, available to all Microsoft employees. The Verge has been able to obtain exclusive screenshots of how xCloud will work on PCs.
-<a href='https://www.theverge.com/2020/3/20/21188787/microsoft-xcloud-windows-10-pc-app-game-streaming-service-preview'> Source <a/>

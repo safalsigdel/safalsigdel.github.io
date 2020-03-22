@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2aSXkfuhKUaGLM_J5HqKBmNXY4s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66532679/acastro_200306_1777_Quibi_0002.0.0.jpg' width='700px' /><br/>
-Much like T-Mobile's “Netflix on Us” promotion, customers who want free access to shortform video streaming service Quibi will have to meet a specific requirement: they must have a multiple-line plan with the carrier.
-<a href='https://www.theverge.com/2020/3/20/21188385/quibi-tmobile-launch-free-subscribers-netflix-disney-hbo-max-peacock'> Source <a/>
