@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q5O9y5TNpPyKef63Yrp3y2rqr0U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66532367/acastro_200319_1777_amazonCorona_0001.0.jpg' width='700px' /><br/>
+Last night, speaking from the state's emergency operations center in Sacramento, California Gov. Gavin Newsom ordered everyone in the state to stay home to slow the spread of COVID-19, the disease caused by the novel coronavirus. Malls, retail stores, and other businesses not considered critical infrastructure were to close in the most sweeping lockdown so far in the US.
+<a href='https://www.theverge.com/2020/3/20/21188292/amazon-workers-coronavirus-essential-service-risk'> Source <a/>

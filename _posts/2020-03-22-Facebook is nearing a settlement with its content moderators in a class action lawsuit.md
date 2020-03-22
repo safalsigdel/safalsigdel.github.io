@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/st4afoBSUPFzhPeJVLdPYL0GInk=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/66532577/jchou_190222_3252_facebook_0022.0.jpg' width='700px' /><br/>
+Facebook is close to reaching a settlement with a group of content moderators who developed post-traumatic stress disorder (PTSD) and suffered other harms while working to remove disturbing content from the social network. In a court filing this week, lawyers for the plaintiffs said the parties had reached a tentative agreement with Facebook on February 7th.
+<a href='https://www.theverge.com/2020/3/20/21188356/facebook-content-moderator-lawsuit-class-action-settlement'> Source <a/>
