@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UIhCXC-SpV4VlJ0-1d_8oHb61zQ=/154x0:907x435/1200x800/filters:focal(442x134:610x302)/cdn.vox-cdn.com/uploads/chorus_image/image/66533148/Screen_Shot_2020_03_20_at_11.13.26_AM.0.png' width='700px' /><br/>
-Google and YouTube have launched new resource pages to help teachers and families continue to educate students while they're home from school due to the novel coronavirus.
-<a href='https://www.theverge.com/2020/3/20/21188489/google-youtube-remote-education-resources-teach-from-home-students-coronavirus'> Source <a/>
