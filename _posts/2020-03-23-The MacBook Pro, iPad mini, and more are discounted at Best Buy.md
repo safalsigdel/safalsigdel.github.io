@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8JXwRRPrB1B4wUS93kENIKgSDLc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66532375/vpavic_191118_3800_0201.0.jpg' width='700px' /><br/>
-Best Buy is currently offering discounts on products from Apple, Samsung, and more. The retailer is holding a three-day sale that starts today and ends on March 22nd at 9:59PM PT / 12:59AM ET. If you're looking to upgrade your home office or just looking for more gadgets to occupy your quarantined days, check out some of these discounts.
-<a href='https://www.theverge.com/2020/3/20/21188142/apple-macbook-pro-ipad-mini-best-buy-deal-sale'> Source <a/>

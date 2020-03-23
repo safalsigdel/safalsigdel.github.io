@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4LXrdrJxfxYuyV4AuwHrQqX-lzI=/0x0:2040x1356/1200x800/filters:focal(857x515:1183x841)/cdn.vox-cdn.com/uploads/chorus_image/image/66541286/john-legere-t-mobile-stock6_2040.0.jpg' width='700px' /><br/>
+T-Mobile will launch its budget Connect plan on Wednesday, March 25th. The prepaid package will deliver unlimited talk and text as well as 2GB of data for $15 per month (or 5GB for $25). The carrier is launching the deal early; it was originally intended to launch after its pending merger with Sprint finalized.
+<a href='https://www.theverge.com/2020/3/23/21190796/t-mobile-connect-sprint-merger-coronavirus-prepaid-plan'> Source <a/>
