@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-The Fitbit Charge 4 — the upcoming replacement for the 2018-era Charge 3 fitness tracker — has been revealed in a series of leaks this week, including the latest from 9to5Google that reveals the design. In short: it looks virtually identical to the Fitbit Charge 3.
-<a href='https://www.theverge.com/circuitbreaker/2020/3/20/21188244/fitbit-charge-4-leaks-design-3-nfc-rumors-fitness-tracker'> Source <a/>
