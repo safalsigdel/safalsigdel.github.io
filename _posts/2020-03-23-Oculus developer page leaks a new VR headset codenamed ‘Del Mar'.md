@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0Iv4hloJFXaVgucQgmGJ45aVxu4=/0x0:2040x1360/1200x800/filters:focal(811x434:1137x760)/cdn.vox-cdn.com/uploads/chorus_image/image/66531714/akrales_190429_3371_0015.0.jpg' width='700px' /><br/>
-A leak on Oculus' website suggests it's making a new virtual reality headset codenamed “Del Mar.” Recently, some Oculus developers noticed a new infobox for “Oculus Del Mar Development.” It references a developer program called “Del Mar First Access” that may already exist or be nearing launch. And some now-removed documentation refers to a “Jedi Controller” designed for Del Mar.
-<a href='https://www.theverge.com/2020/3/20/21188147/oculus-del-mar-prototype-vr-headset-codename-developer-page-leak-screenshots'> Source <a/>
