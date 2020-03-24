@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wzF2CzUMId_nmm7h8WIl-Uu_jvg=/0x254:1080x1080/1200x800/filters:focal(471x641:643x813)/cdn.vox-cdn.com/uploads/chorus_image/image/66543610/Lifestyle_Image_4.0.jpg' width='700px' /><br/>
+A new study will evaluate a smart ring that takes people's temperatures in an attempt to identify people who have the new coronavirus early, the San Francisco Chronicle reports.
+<a href='https://www.theverge.com/2020/3/23/21191225/coronavirus-smart-ring-oura-ucsf-san-francisco-general-hospital-tempredict'> Source <a/>

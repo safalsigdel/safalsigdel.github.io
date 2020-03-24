@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Dmg_XBePe_k1MJCBN89D2ier5C4=/0x0:6000x4000/1200x800/filters:focal(1927x2653:2887x3613)/cdn.vox-cdn.com/uploads/chorus_image/image/66536874/1211971925.jpg.0.jpg' width='700px' /><br/>
-Amazon says it has temporarily stopped taking orders on some non-essential products on its sites in Italy (amazon.it) and France (amazon.fr) as part of its efforts to contain the spread of the novel coronavirus.
-<a href='https://www.theverge.com/2020/3/21/21189557/amazon-stop-shipping-non-essential-italy-france-coronavirus'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-LF4b8ihjTH8zK__IAl6SKpomDI=/0x0:3456x2304/1200x800/filters:focal(1452x876:2004x1428)/cdn.vox-cdn.com/uploads/chorus_image/image/66544505/1207568887.jpg.0.jpg' width='700px' /><br/>
+Amazon will assist its hometown city of Seattle with at-home COVID-19 testing, according to a report from CNBC on Monday.
+<a href='https://www.theverge.com/2020/3/23/21191735/amazon-seattle-coronavirus-covid-19-testing-kits-flu-study-bill-gates-foundation'> Source <a/>

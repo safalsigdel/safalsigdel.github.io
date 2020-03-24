@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xzNn4f22vs9VABKkAwEYIL2ivN0=/0x0:2722x1684/1200x800/filters:focal(1144x625:1578x1059)/cdn.vox-cdn.com/uploads/chorus_image/image/66536576/1207242467.jpg.0.jpg' width='700px' /><br/>
-The Federal Aviation Administration briefly halted departures from New York and Philadelphia airports after a trainee at the New York Air Route Traffic Control Center in Long Island tested positive for COVID-19 today. The person had not been at the facility since March 17th, and the FAA is sanitizing affected areas.
-<a href='https://www.theverge.com/2020/3/21/21189441/faa-new-york-philadelphia-coronavirus-related-staffing'> Source <a/>

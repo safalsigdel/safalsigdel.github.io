@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CcWvBrCVHcoVy07jau8W3AEQ9A4=/0x0:1200x1104/1200x800/filters:focal(504x456:696x648)/cdn.vox-cdn.com/uploads/chorus_image/image/66544267/Screen_Shot_2020_03_23_at_2.17.08_PM.0.png' width='700px' /><br/>
+Kristin Childers went to a dance party on Saturday in her pajamas. The clothes didn't matter, because she never left her living room. The party took place entirely on Instagram.
+<a href='https://www.theverge.com/2020/3/23/21191546/dance-parties-instagram-live-zoom-coronavirus-pandemic'> Source <a/>

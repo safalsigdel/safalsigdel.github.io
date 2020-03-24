@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_b8xXeBNhzf1mYCdImLFBuoGtA4=/0x0:5800x3859/1200x800/filters:focal(2992x1144:3920x2072)/cdn.vox-cdn.com/uploads/chorus_image/image/66536278/1177531241.jpg.0.jpg' width='700px' /><br/>
-Amazon said Saturday it will raise overtime pay for workers in its US warehouses between March 15th and May 9th, Reuters reports. Instead of the standard time-and-a-half they receive now for overtime, Amazon warehouse workers in the US will receive double their hourly rate for every overtime hour worked in a given workweek, the company said.
-<a href='https://www.theverge.com/2020/3/21/21189333/amazon-pay-warehouse-workers-double-time-coronavirus'> Source <a/>

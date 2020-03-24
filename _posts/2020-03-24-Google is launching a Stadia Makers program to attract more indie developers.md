@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q7GdaMEqoka1K4Nh1qeMGwiZdPc=/0x0:1664x836/1200x800/filters:focal(699x285:965x551)/cdn.vox-cdn.com/uploads/chorus_image/image/66543213/Screen_Shot_2020_03_23_at_3.28.41_PM.0.png' width='700px' /><br/>
+It's no secret that Google is looking to boost the number of games it has to offer on Stadia, and today, at the Google for Games Developer Summit, the company announced a new Stadia Makers program to expand self-publishing opportunities for independent developers on the game streaming platform.
+<a href='https://www.theverge.com/2020/3/23/21191361/google-stadia-makers-indie-developers-release-games-funding-dev-kits'> Source <a/>

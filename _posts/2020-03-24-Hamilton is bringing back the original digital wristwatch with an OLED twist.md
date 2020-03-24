@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Hamilton is bringing back the original digital watch with the PSR, a 50th anniversary tribute to the company's legendary Pulsar Time Computer — the first commercially sold digital watch, which was released to massive hype in 1972. (The watch was first announced in 1970, hence the anniversary release this year.)
+<a href='https://www.theverge.com/circuitbreaker/2020/3/23/21191283/hamilton-psr-pulsar-digital-watch-price-50th-anniversary-remake-oled-lcd'> Source <a/>

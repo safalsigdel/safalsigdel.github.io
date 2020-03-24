@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7GCH9IAIEpelNePB100Xz93jTuo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66543889/B88A0099.0.jpeg' width='700px' /><br/>
+One of the next iPhone models could introduce sensor-shift image stabilization, potentially bringing image stabilization to the ultrawide camera, according to a new research note from tech analyst Ming-Chi Kuo that was seen by MacRumors.
+<a href='https://www.theverge.com/2020/3/23/21190887/apple-iphone-sensor-shift-image-stabilization-camera-upgrade'> Source <a/>

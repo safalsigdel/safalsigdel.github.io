@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yxo5axhjjH-Cir3VpWQQJWOwPR0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66530878/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
-Following in the footsteps of Netflix and YouTube, Amazon has announced that it will also reduce streaming quality in Europe in order to lessen the strain being put on broadband networks. Apple tells The Verge it too is reducing streaming quality in Europe for its TV Plus platform.
-<a href='https://www.theverge.com/2020/3/20/21188072/amazon-prime-video-reduce-stream-quality-broadband-netflix-youtube-coronavirus'> Source <a/>
