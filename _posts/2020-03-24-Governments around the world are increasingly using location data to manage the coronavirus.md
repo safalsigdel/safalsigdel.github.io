@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WtyNI2YjDLFbl9c4sGR_Ia0OXKU=/0x0:5000x3378/1200x800/filters:focal(2100x1289:2900x2089)/cdn.vox-cdn.com/uploads/chorus_image/image/66542703/1207961156.jpg.0.jpg' width='700px' /><br/>
-As the novel coronavirus continues to spread around the world, more governments are relying on mobile carrier data to track everything from patients who should be isolated to how well people are following limited-movement edicts.
-<a href='https://www.theverge.com/2020/3/23/21190700/eu-mobile-carriers-customer-data-coronavirus-south-korea-taiwan-privacy'> Source <a/>
