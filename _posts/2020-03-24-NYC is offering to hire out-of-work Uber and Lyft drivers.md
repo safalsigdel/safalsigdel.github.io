@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rFzUibvMMQSCjt4vSExdEbQiJ3c=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66546281/1007905088.jpg.0.jpg' width='700px' /><br/>
+New York City is offering to hire out-of-work Uber and Lyft drivers, and it's even promising to reimburse them for their driving expenses. The appeal comes at a time when many drivers are seeing their earnings dry up amid the novel coronavirus pandemic.
+<a href='https://www.theverge.com/2020/3/24/21192258/nyc-tlc-uber-lyft-drivers-hire-work-delivery-pay'> Source <a/>
