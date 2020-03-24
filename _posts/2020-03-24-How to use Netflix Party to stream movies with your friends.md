@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RPEBeLAC3Bxwnbq2deFNaMSmCQY=/0x0:1440x900/1200x800/filters:focal(605x335:835x565)/cdn.vox-cdn.com/uploads/chorus_image/image/66547272/Screen_Shot_2020_03_24_at_11.16.42_AM.0.png' width='700px' /><br/>
+Social distancing has made many people miss all of the group activities we're used to, like watching movies with friends, but there is a way to do it online. Netflix Party, a Chrome extension, lets you watch videos with your friends and chat together at the same time.
+<a href='https://www.theverge.com/2020/3/24/21191503/netflix-party-stream-movies-tv-chat-watch-friends-social-distance'> Source <a/>
