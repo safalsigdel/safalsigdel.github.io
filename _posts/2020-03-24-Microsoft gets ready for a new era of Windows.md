@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YNnpq8ccasVkvwGVXEz8ADWiTlc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66542096/mswindows1_2040.0.0.jpg' width='700px' /><br/>
-Microsoft reorganized its Windows + Devices team last month, placing Surface chief Panos Panay in charge of both Windows and hardware. While it's still early days for Panay, we're starting to get an idea of how things might change with Windows. That starts with a new Windows Insider leader, Microsoft's beta program that sees millions of people testing Windows 10.
-<a href='https://www.theverge.com/2020/3/23/21191087/microsoft-windows-panos-panay-amanda-langowski-windows-insider-feedback'> Source <a/>
