@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uFoR68o-AM5Yd9N5EK_3aITJjk0=/0x0:1800x1013/1200x675/filters:focal(792x105:1080x393)/cdn.vox-cdn.com/uploads/chorus_image/image/66542152/CITADEL_2K.0.jpg' width='700px' /><br/>
-Half-Life: Alyx is definitely not Half-Life 3. It is a full-fledged game that expands the Half-Life universe. And City 17's exploding barrel industry is still going strong.
-<a href='https://www.theverge.com/2020/3/23/21188291/half-life-alyx-review-valve-index-oculus-quest-vr-shooter'> Source <a/>

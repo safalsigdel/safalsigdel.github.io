@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KUOHoprrc4S4x766FYjsVtUf7TU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66546787/dseifert_191008_3720_0004.0.jpg' width='700px' /><br/>
+If you're working from home during the novel coronavirus pandemic, getting a mesh Wi-Fi system might help make the best of your home internet situation. Because you can place them around your home, they eliminate signal drop-outs as well as the need to stay close to your Wi-Fi router. Thus, you can get work done anywhere you see fit within your home.
+<a href='https://www.theverge.com/good-deals/2020/3/24/21192287/eero-mesh-wi-fi-arlo-pro-3-home-security-samsung-galaxy-s20-deal-sale-discount'> Source <a/>
