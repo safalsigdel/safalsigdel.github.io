@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-It's a rule that phones eventually become cheaper after they release, but few drop in price as quickly as Samsung phones. Samsung's Galaxy S20 and S20 Plus launched in early March and are already $200 off at Amazon and Best Buy. This brings the price down to $800 for the S20 and $1,000 for the S20 Plus.
-<a href='https://www.theverge.com/good-deals/2020/3/23/21191274/samsung-galaxy-s20-plus-deal-amazon-best-buy-discount-android-unlocked'> Source <a/>
