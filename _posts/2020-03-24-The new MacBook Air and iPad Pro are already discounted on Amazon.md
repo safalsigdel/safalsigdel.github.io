@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wd4rVbbhX7VnO-mCqr2LvMbP4Mw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66546811/macbookair2020.0.jpg' width='700px' /><br/>
+The 2020 versions of the MacBook Air and the iPad Pro don't release until tomorrow, March 25th, but you save $50 on either device right now at Amazon (via 9to5Toys). It's not common to get a deal on unreleased tech, especially Apple products, so it's possible that this discount will get yanked once they launch tomorrow.
+<a href='https://www.theverge.com/good-deals/2020/3/24/21192353/macbook-air-ipad-pro-new-2020-discount-deal-sale-amazon'> Source <a/>
