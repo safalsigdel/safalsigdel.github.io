@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wj_vUvRLWfQrXbvMY6oTGnKyK6s=/0x0:806x342/1200x800/filters:focal(502x88:630x216)/cdn.vox-cdn.com/uploads/chorus_image/image/66541747/Desktop_Screenshot_2020.03.23___08.57.54.53__2_.0.png' width='700px' /><br/>
-File this one under “Kickstarter products we can't easily explain”: a fabricated cybernetic lynx skull that doubles as a Bluetooth speaker. The Kranio X, as it's called, is currently raising money on the crowdfunding platform for what seems like a very limited run of the product — just $1,288 was the funding goal, and it's already surpassed that with just 19 backers.
-<a href='https://www.theverge.com/2020/3/23/21190963/kranio-x-bluetooth-speaker-kickstarter-cybernetic-lynx-skull'> Source <a/>

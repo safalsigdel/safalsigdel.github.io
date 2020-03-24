@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rsdZ6xl-FsdKQqPaPzsvBowkdeU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66546587/vpavic_191127_untitled_0044_Edit.0.jpg' width='700px' /><br/>
+Sony will slow down PlayStation game downloads in Europe to help preserve overall internet speeds. The change won't materially affect multiplayer, according to a blog post, with the company saying that gamers “will still enjoy robust gameplay.” Downloads of games may be “somewhat slower or delayed” during this period.
+<a href='https://www.theverge.com/2020/3/24/21192370/playstation-coronavirus-download-speeds-slowed-europe-multiplayer'> Source <a/>
