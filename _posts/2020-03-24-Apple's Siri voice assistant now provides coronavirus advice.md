@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y1xCVrCdgGw8sFCTATWfEzO1_8s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66539853/acastro_180510_1777_siri_0002.0.jpg' width='700px' /><br/>
-Apple has updated Siri to provide information to people who are concerned they have COVID-19, the disease caused by the novel coronavirus, CNBC reports. Users can ask the voice assistant questions like “How do I know if I have coronavirus” or “Do I have coronavirus?” and it will offer advice based on their symptoms. Users started noticing the new functionality on Saturday.
-<a href='https://www.theverge.com/2020/3/23/21190600/apple-siri-coronavirus-covid-19-symptoms-healthcare-advice-information'> Source <a/>

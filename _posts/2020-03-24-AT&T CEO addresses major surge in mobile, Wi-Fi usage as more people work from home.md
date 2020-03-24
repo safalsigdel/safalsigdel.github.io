@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0e8WfNRtPJ3xYg_kWRpv1eZLpdw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66538481/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T's networks have seen a surge of usage since companies around the United States have asked employees to work from home and schools have moved online following the COVID-19 outbreak.
-<a href='https://www.theverge.com/2020/3/22/21190018/att-wifi-broadband-mobile-coronavirus-ceo-randal-stephenson-data-cap-surge'> Source <a/>

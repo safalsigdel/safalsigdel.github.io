@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vAJSWvse6ZdRvg6Z3Yu1iy0bYI4=/0x0:6000x4000/1200x800/filters:focal(3388x1497:4348x2457)/cdn.vox-cdn.com/uploads/chorus_image/image/66545468/Revolut_app_min.0.jpg' width='700px' /><br/>
+Mobile banking app Revolut, which has more than 10 million customers in Europe, is launching today in the US, the company announced.
+<a href='https://www.theverge.com/2020/3/24/21188412/banking-app-revolut-us-launch-mobile-bank'> Source <a/>
