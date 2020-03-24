@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/94pNryJ9RT2OikLevXuZ304dySw=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/66541504/1207939715.jpg.0.jpg' width='700px' /><br/>
-Uber is urging the White House and congressional leaders to include financial assistance for drivers and delivery workers in the economic stimulus package that is currently under debate. The company is also advocating for legislation that would require it to provide drivers with certain financial benefits while still classifying them as independent contractors.
-<a href='https://www.theverge.com/2020/3/23/21190806/uber-coronavirus-driver-protections-economic-stimulus'> Source <a/>
