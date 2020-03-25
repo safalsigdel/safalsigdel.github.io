@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yxxAdCsT4-q0TgTRAQcK1lmcnD0=/0x0:3147x2099/1200x800/filters:focal(1323x799:1825x1301)/cdn.vox-cdn.com/uploads/chorus_image/image/66547134/wyzeband.0.jpg' width='700px' /><br/>
-Wyze announced that both its Wyze Band fitness tracker featuring Alexa functionality and its Wyze Scale, its new connected weight scale, are available starting today. These fitness-focused devices are a departure for the company, which has focused on smart home tech like cameras, locks, and security sensors. Though, as you might have hoped, they both stick to Wyze's tack for making tech that doesn't cost much.
-<a href='https://www.theverge.com/2020/3/24/21190980/wyze-band-wearable-fitness-tracker-alexa-scale-connected-price'> Source <a/>
