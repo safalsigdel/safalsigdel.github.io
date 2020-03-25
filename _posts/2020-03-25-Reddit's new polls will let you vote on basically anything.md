@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ilcgsqLVrDzT6z4MB6XTuKT8iPo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66547104/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
-Reddit has rolled out a new post type, polls, which lets you ask questions and vote on pretty much anything. Polls can offer up to six answers, be kept open for up to a week, and subreddit moderators can turn them off if desired. You create them like you would any other post type.
-<a href='https://www.theverge.com/2020/3/24/21191119/reddit-poll-post-type-nfl-super-bowl-survey'> Source <a/>
