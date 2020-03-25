@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gR062OHmd5K1BFI9VCZwbAitz4s=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19828427/bking_200321_3945_0006_squ.jpg' width='700px' /><br/>
-Apple's tagline for the new 2020 iPad Pro models is “Your next computer is not a computer.” It's a cheeky way of addressing the tension that's at the heart of most iPad Pro purchases: they cost as much or more than many laptops but may not be able to replace your laptop.
-<a href='https://www.theverge.com/2020/3/24/21192146/apple-ipad-pro-review-2020-lidar-a12z-processor-speed-camera-trackpad-keyboard'> Source <a/>
