@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ry5i_e2mi2aYeESF3sC1kNWfono=/0x0:2624x1362/1200x800/filters:focal(1103x472:1521x890)/cdn.vox-cdn.com/uploads/chorus_image/image/66543622/Screen_Shot_2020_03_23_at_4.24.09_PM.0.png' width='700px' /><br/>
-Apple is expanding the App Store to 20 new countries this year, the company announced on its developer portal, marking the latest expansion of Apple's app marketplace around the globe.
-<a href='https://www.theverge.com/2020/3/23/21191471/apple-app-store-20-new-countries-2020-expansion-developers'> Source <a/>

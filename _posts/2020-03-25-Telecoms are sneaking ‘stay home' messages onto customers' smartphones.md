@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YazbM0njkpZQjUl5WuFy1-bId1w=/0x0:2040x1360/1200x800/filters:focal(895x123:1221x449)/cdn.vox-cdn.com/uploads/chorus_image/image/66550197/akrales_190913_3628_0412.0.jpg' width='700px' /><br/>
+Some mobile phone operators, including Vodafone and Orange S.A., have started inserting coronavirus-related public health suggestions to stay indoors onto customers' smartphones in recent days, using the small snippet of text that typically accompanies the connection signal symbols in the top left of a phone screen.
+<a href='https://www.theverge.com/2020/3/24/21193308/telecoms-coronavirus-stay-home-message-sneaking-smartphones'> Source <a/>

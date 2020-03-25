@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N097vI7PfEwwIZF6U52lYaeKmHk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66550174/acastro_180403_1777_youtube_0001.0.jpg' width='700px' /><br/>
+YouTube Music users can now read lyrics while listening to a song on the service's iOS and Android apps, the company announced today. To see lyrics, when you've got a song open in the app, just tap the “i” button on the left side of the screen. The lyrics will then show up under the tracking bar for the song.
+<a href='https://www.theverge.com/2020/3/24/21193255/youtube-music-lyrics-ios-android-app'> Source <a/>

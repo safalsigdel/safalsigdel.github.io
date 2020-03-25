@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yWBFcNWc4qR3vTetbfLEWmtecxc=/0x0:1728x1152/1200x800/filters:focal(726x438:1002x714)/cdn.vox-cdn.com/uploads/chorus_image/image/66549906/Bandsintown_Logo_Blue_Square.0.jpg' width='700px' /><br/>
+Concert notification service Bandsintown has partnered with Twitch to help out artists who are unable to tour because of the novel coronavirus pandemic. The partnership lets qualified Bandsintown artists bypass the normal qualifications needed to become a Twitch Affiliate and get fast access to the live streaming platform's monetization tools.
+<a href='https://www.theverge.com/2020/3/24/21193190/twitch-bandsintown-artists-affiliate-program-coronavirus-pandemic'> Source <a/>

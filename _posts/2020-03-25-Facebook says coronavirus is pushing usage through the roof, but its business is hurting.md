@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2UVwhk-dDgrPUc-DdWe9jlRgbgw=/0x0:2040x1360/1200x800/filters:focal(877x538:1203x864)/cdn.vox-cdn.com/uploads/chorus_image/image/66549560/akrales_180614_1777_0080.0.jpg' width='700px' /><br/>
+Facebook is seeing an extreme spike in usage across the globe due to the ongoing coronavirus pandemic, the company outlined in a blog post on Tuesday. But most usage is concentrated among private messaging and video calling, products the company does not monetize. As a result, the social media giant says it's business is suffering while it struggles to keep its communication tools online and stable.
+<a href='https://www.theverge.com/2020/3/24/21193094/facebook-coronavirus-covid-19-messaging-service-reliable-strain-outages'> Source <a/>

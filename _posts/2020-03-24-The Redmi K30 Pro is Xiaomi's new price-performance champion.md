@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N5dYiOQd8OC5txKKQQWAy4yE2U0=/0x0:999x666/1200x800/filters:focal(421x254:579x412)/cdn.vox-cdn.com/uploads/chorus_image/image/66545346/Screen_Shot_2020_03_24_at_16.48.37.0.png' width='700px' /><br/>
-Xiaomi has announced the Redmi K30 Pro, its latest high-spec-low-price contender. It's the sequel to the K20 Pro (in Asia) / Mi 9T Pro (in Europe), one of last year's most buzzed-about phones — at least in the regions where Xiaomi actually sells phones.
-<a href='https://www.theverge.com/2020/3/24/21192116/redmi-k30-pro-announced-specs-price-china-india-xiaomi'> Source <a/>
