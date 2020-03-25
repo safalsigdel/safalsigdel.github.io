@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pnazb0R3giRsl1dqlR3wjryucBo=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/66545542/surrfaceprovsipadpro.0.jpg' width='700px' /><br/>
-Last week, Tom Warren argued that Apple finally admits Microsoft was right about tablets by adding trackpad support to the iPad. I knew he was working on this piece when I wrote last Thursday's newsletter, so I didn't want to step on his spot, but now that it's out it has me thinking about the right shape for portable, big-screened computers.
-<a href='https://www.theverge.com/2020/3/24/21192072/ipad-surface-macbook-touchscreen-processor'> Source <a/>
