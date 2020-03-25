@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kIMHGue8iw03Q113cUkG3FPU3TY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66546655/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
-YouTube has announced that it will reduce streaming quality for users around the world, according to Bloomberg. The decision comes just one week after YouTube announced it was reducing streaming quality for users in Europe to help lessen broadband strain as more people stay home to help curb the spread of the novel coronavirus.
-<a href='https://www.theverge.com/2020/3/24/21192384/youtube-video-quality-reduced-hd-broadband-europe-streaming'> Source <a/>
