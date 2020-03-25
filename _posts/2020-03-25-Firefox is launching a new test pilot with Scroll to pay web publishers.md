@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L0q-Kl8G9y-zXyX6FFRFh_hteUg=/0x0:2156x1462/1200x800/filters:focal(906x559:1250x903)/cdn.vox-cdn.com/uploads/chorus_image/image/66545970/scroll.0.png' width='700px' /><br/>
-Mozilla and Scroll have made an earlier-announced partnership slightly more official today with the wider release of a browser extension called “Firefox Better Web.” It's part of Firefox's ongoing effort to combat tracking on the web, but with the small twist that it includes the option to sign up for Scroll.
-<a href='https://www.theverge.com/2020/3/24/21192048/firefox-better-web-scroll-subscription-ad-tracker-blocker-publisher-payment'> Source <a/>
