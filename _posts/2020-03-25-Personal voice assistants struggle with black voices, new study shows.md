@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Oa0hrMLyBxZ5o0kVe_Cnmh18Ih8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66547041/dseifert_191123_3810_0011.0.jpg' width='700px' /><br/>
-Speech recognition systems have more trouble understanding black users' voices than those of white users, according to a new Stanford study.
-<a href='https://www.theverge.com/2020/3/24/21192333/speech-recognition-amazon-microsoft-google-ibm-apple-siri-alexa-cortana-voice-assistant'> Source <a/>
