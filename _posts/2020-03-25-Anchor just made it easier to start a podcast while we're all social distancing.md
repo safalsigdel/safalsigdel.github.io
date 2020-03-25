@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cL8N-z_eZ2Pt2QxO56Ds2ZHrOC8=/0x0:4167x2788/1200x800/filters:focal(1751x1061:2417x1727)/cdn.vox-cdn.com/uploads/chorus_image/image/66546923/anchor.0.jpg' width='700px' /><br/>
-Anchor, the podcast-making app now owned by Spotify, is launching a feature today that'll make it easier for friends to record shows together from afar. The feature, called Record With Friends 2.0, allows people to record a podcast from their browser, even if they don't have an account with Anchor. Up to five people can record at once, although the host still has to use the Anchor app.
-<a href='https://www.theverge.com/2020/3/24/21192322/anchor-podcast-record-with-friends'> Source <a/>
