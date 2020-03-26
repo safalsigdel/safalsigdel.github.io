@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2FMej0XGJL0fh2PLVGxVZ5-iV_c=/0x0:2040x1148/1200x675/filters:focal(963x318:1289x644)/cdn.vox-cdn.com/uploads/chorus_image/image/66551200/DSC00748.0.jpg' width='700px' /><br/>
-Tomorrow Huawei will launch its latest flagship phones, the P40 series, at an event to be streamed online. There won't be any people in the audience, of course, but even if there were, the atmosphere would be pretty weird. That's because it's impossible to separate Huawei's consumer products from the political onslaught it's faced in the past couple of years.
-<a href='https://www.theverge.com/2020/3/25/21193639/huawei-mate-30-google-apps-services-appgallery-p40-preview'> Source <a/>
