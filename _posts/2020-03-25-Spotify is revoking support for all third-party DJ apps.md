@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/71gVWfHOheLvvFfhUNpYEYurd_g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66547782/acastro_180213_1777_0001.0.jpg' width='700px' /><br/>
-Spotify will no longer work with third-party DJ apps starting on July 1st, 2020. The news was posted by Algoriddim, the developer behind a popular DJ software for iOS called Djay. A Spotify representative confirmed the news to The Verge.
-<a href='https://www.theverge.com/2020/3/24/21192473/spotify-revoking-support-developer-api-third-party-dj-apps-algoriddim-djay'> Source <a/>

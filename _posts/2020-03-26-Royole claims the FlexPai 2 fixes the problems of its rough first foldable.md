@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LZFYPhZ-FQVcLNAZObj-Hkgmep8=/0x0:1994x1220/1200x800/filters:focal(812x521:1130x839)/cdn.vox-cdn.com/uploads/chorus_image/image/66552758/Screen_Shot_2020_03_25_at_11.28.26_AM.0.png' width='700px' /><br/>
+Royole beat the Samsungs, Huaweis, and Motorolas of the world to producing a smartphone with a folding screen. I suppose the company gets some credit for being first, but the resulting product wasn't a very good one and felt more prototype than consumer device — both in terms of hardware and software. Now, Royole has returned with the FlexPai 2 and claims it has corrected some of the design flaws of the original.
+<a href='https://www.theverge.com/2020/3/25/21193813/royole-flexpai-2-foldable-phone-announcement'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IMSrjXW3Sp-Dst9R09A8jAHS0yQ=/0x0:2667x4000/1200x800/filters:focal(1121x1787:1547x2213)/cdn.vox-cdn.com/uploads/chorus_image/image/66554452/1214094439.jpg.0.jpg' width='700px' /><br/>
+Most people are currently relying on videoconferencing to keep in touch with work colleagues, family, and friends — and if they're facing financial difficulties, free is best. While Zoom seems currently to be the most popular videoconferencing app, there are several applications out there that will allow people to meet online for free.
+<a href='https://www.theverge.com/2020/3/25/21188571/free-videoconference-app-how-to-choose-zoom-skype-slack'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nDRCdGmG43jkgjpReZtr70cw1qk=/0x0:1000x667/1200x800/filters:focal(420x254:580x414)/cdn.vox-cdn.com/uploads/chorus_image/image/66553388/image.0.png' width='700px' /><br/>
+Nomad, typically known for making smartphone accessories, has reprioritized operations to make medical supplies like face masks amid the ongoing spread of the novel coronavirus, the company has announced.
+<a href='https://www.theverge.com/2020/3/25/21194057/nomad-coronavirus-phone-accessories-company-face-masks'> Source <a/>

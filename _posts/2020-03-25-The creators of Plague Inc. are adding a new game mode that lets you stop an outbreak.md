@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/evZkijLN9z-F8N2BRK9ywYCLkiM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66547376/1_Disease_Selection.0.jpg' width='700px' /><br/>
-The video game Plague Inc. allows you to play as a disease, with the goal being to wipe out humanity. Ndemic Creations, the game's makers, however, are very pro-human: they've just donated $250,000 to help fund COVID-19 relief and are now adding a mode to Plague Inc. that lets players stop an outbreak.
-<a href='https://www.theverge.com/2020/3/24/21192420/plague-inc-who-donation-coronavirus'> Source <a/>

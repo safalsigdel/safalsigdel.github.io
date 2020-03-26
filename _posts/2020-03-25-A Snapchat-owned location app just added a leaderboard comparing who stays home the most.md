@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1J7pu2rgS1Gp4qIahS3XdE8yTh0=/0x0:1122x1992/1200x800/filters:focal(474x310:652x488)/cdn.vox-cdn.com/uploads/chorus_image/image/66548552/ET5AHYJXsAcemwY.0.png' width='700px' /><br/>
-A Snapchat-owned location-sharing app has created a way to gamify social distancing with a leaderboard comparing who among you and your friends spends the most time at home (via TechCrunch).
-<a href='https://www.theverge.com/2020/3/24/21192741/snapchat-zenly-app-stay-at-home-leaderboard-coronavirus-social-distancing'> Source <a/>

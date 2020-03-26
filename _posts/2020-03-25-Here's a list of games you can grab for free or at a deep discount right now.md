@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/40mfNaxiFTF95Ne9NL_qsHv5gZQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66515476/GOD_Promo_6.5.jpg' width='700px' /><br/>
-With all of the chaos going on in the world, now is a great time to spend some time relaxing with new games. Maybe you need a list of games to play during the next few weeks. Maybe you are looking to purchase some new games, but you're tight on cash. Look no further! I've compiled a list of games that are either free or extremely cheap at the moment.
-<a href='https://www.theverge.com/2020/3/17/21184104/cheap-free-games-ps4-xbox-one-pc-switch-ios-android'> Source <a/>

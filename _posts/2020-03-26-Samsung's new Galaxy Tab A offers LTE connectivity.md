@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vh_cNPxfsv6Wk7_nnumuKK3rOoQ=/0x0:236x152/1200x800/filters:focal(100x58:136x94)/cdn.vox-cdn.com/uploads/chorus_image/image/66553646/thumbnail.0.jpg' width='700px' /><br/>
+Samsung has just refreshed the Galaxy Tab A , and the new model costs just $279.. It features an 8.4-inch screen, a 5,000mAh battery, and LTE connectivity.
+<a href='https://www.theverge.com/2020/3/25/21194078/samsung-galaxy-tab-1-lte-connectivity-battery-life-price'> Source <a/>

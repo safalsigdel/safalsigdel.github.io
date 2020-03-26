@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hqNK7S29zx1sVM7Nyy_xPItOXMU=/0x0:8256x5504/1200x800/filters:focal(3468x2092:4788x3412)/cdn.vox-cdn.com/uploads/chorus_image/image/66547579/1186506869.jpg.0.jpg' width='700px' /><br/>
-As gyms across the United States close due to the novel coronavirus pandemic, streaming fitness companies like Tonal, FightCamp, and Mirror have temporarily halted filming new content due to executive orders by California and New York to shut down nonessential businesses. Peloton, however, is continuing to push on with production, hosting up to four live sessions daily filmed in an empty studio.
-<a href='https://www.theverge.com/2020/3/24/21188479/peloton-connected-fitness-live-classes-production-coronavirus-covid-19-pandemic'> Source <a/>
