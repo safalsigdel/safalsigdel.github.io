@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JMlZUIZstsaVFFJTw-tcjMr7t04=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66556969/acastro_190412_1777_slack_0003.0.jpg' width='700px' /><br/>
+Microsoft Teams isn't the only business-focused chat and communications app that's seeing a spike in demand. Slack is revealing today that it has hit new user records for simultaneously connected users, thanks to a surge in demand for remote working amid the ongoing coronavirus pandemic.
+<a href='https://www.theverge.com/2020/3/26/21195092/slack-new-user-records-coronavirus-pandemic-remote-working-growth-concurrent-users'> Source <a/>

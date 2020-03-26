@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0KskGGNdSc3BfYmQwLLr4knhxlI=/0x0:2040x1360/1200x800/filters:focal(837x538:1163x864)/cdn.vox-cdn.com/uploads/chorus_image/image/66551053/cfaulkner_200324_3947_0001.0.jpg' width='700px' /><br/>
-HyperX has added a new color variant to its lineup of Cloud Alpha S gaming headsets. It's called “blackout” and, as you'd probably expect, every single detail around the headset is pure black. A new color option usually isn't too big of a deal, but the result here is a headset ideally suited for a minimalist, of which there aren't many on the market. It doesn't really stand out at all, and that's what makes it look so good.
-<a href='https://www.theverge.com/2020/3/25/21191577/hyperx-cloud-alpha-s-gaming-headset-black-pc'> Source <a/>
