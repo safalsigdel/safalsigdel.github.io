@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G4F2B8-yQFVsCXrAXJyYrFvrnuQ=/0x0:2686x1326/1200x800/filters:focal(1129x449:1557x877)/cdn.vox-cdn.com/uploads/chorus_image/image/66551539/letter.0.png' width='700px' /><br/>
-DoNotPay is ready to help you out if you need to delay your rent, credit card, or utility bill payments as a result of the coronavirus pandemic. The company, known for its legal aid chatbot, is launching a new service that requests waivers and payment extensions from companies and landlords.
-<a href='https://www.theverge.com/2020/3/25/21192765/donotpay-rent-bill-delay-chatbot-coronavirus-extension-laws-pandemic'> Source <a/>

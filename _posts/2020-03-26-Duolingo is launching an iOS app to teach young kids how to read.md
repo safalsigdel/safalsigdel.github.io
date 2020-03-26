@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uljzKT_DXpcGymORFU4pHxQ4X0s=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66557864/duolingo_abc.0.png' width='700px' /><br/>
+Duolingo is launching a new iOS app on Thursday that is designed to teach young children how to read English. The app, called Duolingo ABC, uses short lessons made to help teach the alphabet, phonics, and sight words to kids ages three through six.
+<a href='https://www.theverge.com/2020/3/26/21194763/duolingo-abc-ios-app-teach-kids-read-english-free-download'> Source <a/>

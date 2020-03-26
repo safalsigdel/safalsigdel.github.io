@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rOZ4t3iZYw9So7YOeaP6D5NELNE=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/66551524/podcasts.0.png' width='700px' /><br/>
-Google is starting to take its Podcasts app a bit more seriously today: the company is reportedly rolling out a more advanced design to Android users and launching the app on iOS for the first time (also featuring the new design), via Engadget. It's a move that sets Google Podcasts up to better compete with more established podcast providers like Apple, Overcast, or Spotify.
-<a href='https://www.theverge.com/2020/3/25/21192325/google-podcasts-update-design-android-ios-recommendations'> Source <a/>
