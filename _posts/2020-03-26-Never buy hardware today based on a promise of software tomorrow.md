@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p-0IESBa7dxvd4ED9KFYYgAQE1o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66551124/bking_200322_3945_0019.0.jpg' width='700px' /><br/>
-The headline on this story — never buy hardware today based on a promise of software tomorrow — doesn't really apply to the new iPad Pro, which I reviewed yesterday. But I've been thinking about it ever since I hit the publish button.
-<a href='https://www.theverge.com/2020/3/25/21193076/ipad-pro-lidar-software-upates-promises-augmented-reality'> Source <a/>
