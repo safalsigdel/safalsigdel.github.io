@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JNYbApirRnsvChWQUWkP6ATwks4=/0x0:1280x800/1200x0/filters:focal(0x0:1280x800):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19834532/Untitled.png' width='700px' /><br/>
+Nintendo released a surprise Nintendo Direct Mini presentation today, announcing a variety of new games, rereleases, and DLC coming to the Nintendo Switch in 2020, including classics like XCOM 2, BioShock, and Borderlands; a first look at the next Smash Bros. DLC character; more Star Wars ports; and more.
+<a href='https://www.theverge.com/2020/3/26/21195303/nintendo-switch-games-direct-bioshock-borderlands-burnout-paradise-remastered-star-wars-xcom'> Source <a/>
