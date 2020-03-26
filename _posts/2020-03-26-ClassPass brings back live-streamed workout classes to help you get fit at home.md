@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w7R0qBe8ph9yeGnYXKt26Yy2MSQ=/0x0:1200x780/1200x800/filters:focal(504x294:696x486)/cdn.vox-cdn.com/uploads/chorus_image/image/66552080/DguG94oWkAMz_JG.0.jpg' width='700px' /><br/>
-ClassPass is bringing back its previously discontinued ClassPass Live offering to allow fitness studios to stream workouts and other wellness sessions to members through Facebook Live, Twitch, Instagram Live, and YouTube, reports TechCrunch. The service initially launched back in March 2018, but it shut down late last year.
-<a href='https://www.theverge.com/2020/3/25/21193799/classpass-live-resumes-classes-at-home-workout-fitness-social-distancing'> Source <a/>
