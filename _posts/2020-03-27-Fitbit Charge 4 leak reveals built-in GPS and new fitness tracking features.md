@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Fitbit's upcoming Charge 4 fitness tracker broke cover earlier in March, revealing a design that was virtually identical to the 2018 Charge 3 model, but a newly leaked promotional video posted by Roland Quandt has revealed what makes the Charge 4 different — including the addition of built-in GPS, one of the biggest missing features from the old model.
+<a href='https://www.theverge.com/circuitbreaker/2020/3/27/21196783/fitbit-charge-4-leak-built-in-gps-new-fitness-tracking-features'> Source <a/>

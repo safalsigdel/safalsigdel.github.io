@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q_4DlXpcXXwwomKz_t0b9lcejEc=/0x0:1704x874/1200x800/filters:focal(716x301:988x573)/cdn.vox-cdn.com/uploads/chorus_image/image/66558575/Screen_Shot_2020_03_26_at_10.05.25_AM.0.png' width='700px' /><br/>
-On Scotty Sire's YouTube channel, it doesn't look like anything has changed. He does Q&As with friends, pranks his pals, and jokes around with them in his backyard — just about the same things he did before California required him to stay indoors since Sire and his co-stars live and are quarantining together.
-<a href='https://www.theverge.com/2020/3/26/21189266/youtube-creators-coronavirus-pandemic-vlog-upload-content'> Source <a/>
