@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ch3m2_OjnUBlUojMIKucwm_5G28=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66563298/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
+Google says it's now ready to resume work on Chrome, after briefly halting upcoming releases of the browser in response to the coronavirus pandemic. Daily canary builds of the browser, dev, and beta versions “have or will resume this week,” according to Google. The next stable channel update that rolls out broadly to Chrome users will arrive the week of April 7th, with the release of Chrome 81.
+<a href='https://www.theverge.com/2020/3/27/21196720/google-chrome-release-cornonavirus-pandemic-response-roadmap'> Source <a/>
