@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/c4eYuIZY1Kim2XM_ziGq8-jp4-g=/0x0:4634x3146/1200x800/filters:focal(1947x1203:2687x1943)/cdn.vox-cdn.com/uploads/chorus_image/image/66563424/1206462942.jpg.0.jpg' width='700px' /><br/>
+The Chan Zuckerberg Initiative (CZI), Facebook CEO Mark Zuckerberg's philanthropic arm, has committed $25 million to a research fund designed to help identify and develop treatments for the disease caused by the novel coronavirus, it announced today.
+<a href='https://www.theverge.com/2020/3/27/21196335/chan-zuckerberg-initiative-commits-25-million-covid-19-therapeutics-accelerator'> Source <a/>
