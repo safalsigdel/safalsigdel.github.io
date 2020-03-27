@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-5jecCRLhFlhKQ6o6-WrFn783U8=/0x0:4730x2969/1200x800/filters:focal(1987x1107:2743x1863)/cdn.vox-cdn.com/uploads/chorus_image/image/66555621/1214782977.jpg.0.jpg' width='700px' /><br/>
-On Wednesday, Twitter briefly locked conservative site The Federalist's account for suggesting people deliberately expose themselves to the novel coronavirus. The Federalist promoted the medically unsound idea of “medical ‘chickenpox parties'” to infect young, healthy people with the virus under controlled quarantine.
-<a href='https://www.theverge.com/2020/3/25/21190928/twitter-locks-account-encouraging-coronavirus-chickenpox-parties'> Source <a/>

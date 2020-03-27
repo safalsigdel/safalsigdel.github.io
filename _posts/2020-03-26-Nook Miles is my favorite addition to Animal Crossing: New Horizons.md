@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wo2i7q5CsMz1Z4rYMj-9LHbSoys=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/66552544/90866938_10219143468470348_306752426910679040_o__1_.0.jpg' width='700px' /><br/>
-In my first weekend playing Animal Crossing: New Horizons, I had grand designs to pay off my initial mortgage and plant a robust orchard of fruit — but I didn't expect my proudest accomplishment to be picking more than 6,250 weeds. I was driven to complete that herculean feat because I was rewarded with Nook Miles, a new currency in the series that I've become obsessed with collecting.
-<a href='https://www.theverge.com/2020/3/25/21192570/animal-crossing-new-horizons-nook-miles-addition'> Source <a/>

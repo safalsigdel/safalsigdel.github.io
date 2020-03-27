@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/29Rt7wai8bRoDQ--k6ZQN_PjINw=/0x0:2040x1360/1200x800/filters:focal(971x574:1297x900)/cdn.vox-cdn.com/uploads/chorus_image/image/66555853/akrales_190919_3670_0421.0.jpg' width='700px' /><br/>
-Apple customers who didn't pick up devices dropped off for repairs within two days of the company closing all of its retail stores will have to wait to pick them up until the stores reopen, an Apple spokesperson confirmed to Business Insider.
-<a href='https://www.theverge.com/2020/3/25/21194712/apple-coronavirus-retail-store-repair-pick-up'> Source <a/>

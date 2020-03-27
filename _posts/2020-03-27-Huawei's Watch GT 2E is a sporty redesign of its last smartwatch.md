@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fuwwQTttAqOEvToS3yJqDd1VwqE=/0x0:1278x718/1200x800/filters:focal(187x469:391x673)/cdn.vox-cdn.com/uploads/chorus_image/image/66558947/y9NX9OHdnM.0.png' width='700px' /><br/>
+Huawei has a new sporty smartwatch it's announcing alongside its flagship P40 smartphone series. The Huawei Watch GT 2E includes 100 workout modes, like rock climbing, skateboarding, and parkour, and has storage for up to 500 songs, Huawei says. The red and green versions of the device feature a similar design to the Nike Editions of Apple's smartwatches, with a rubber watchband covered in small holes.
+<a href='https://www.theverge.com/2020/3/26/21195104/huawei-watch-gt-2e-release-date-news-specs-features-price-lite-os-sports-smartwatch'> Source <a/>

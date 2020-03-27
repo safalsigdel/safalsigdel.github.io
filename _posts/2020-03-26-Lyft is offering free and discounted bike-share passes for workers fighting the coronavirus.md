@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ii8URFUNPlgh1l3JMmRsJtZTkHY=/0x0:5097x3414/1200x800/filters:focal(2142x1300:2956x2114)/cdn.vox-cdn.com/uploads/chorus_image/image/66554533/1204321210.jpg.0.jpg' width='700px' /><br/>
-Lyft is offering free or discounted bike-share trips to workers fighting the coronavirus. The ride-hail company is inviting certain workers in New York City, Boston, and Chicago to sign up for free, one-month memberships or discounted trips. Lyft says it's also stepping up its cleaning procedures to ensure its bikes are appropriately sanitized between trips.
-<a href='https://www.theverge.com/2020/3/25/21194184/lyft-bike-share-coronavirus-discount-free-nyc-chicago-boston'> Source <a/>

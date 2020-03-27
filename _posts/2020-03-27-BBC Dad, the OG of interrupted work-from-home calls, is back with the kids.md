@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jQGbTxO6qU7tq77kf9UoG3b4ZLM=/0x0:771x514/1200x800/filters:focal(325x196:447x318)/cdn.vox-cdn.com/uploads/chorus_image/image/66559209/personal_space_bbc_dad_kids_1.0.jpg' width='700px' /><br/>
+Marion Kelly is back and still stealing her dad's thunder in live BBC interviews. The OG of “interrupting a work-from-home parent's video call,” Marion and her family appeared on BBC today to share tips for dealing with cooped-up kids while working from home during the pandemic.
+<a href='https://www.theverge.com/2020/3/26/21195340/bbc-dad-work-from-home-calls-south-korea'> Source <a/>

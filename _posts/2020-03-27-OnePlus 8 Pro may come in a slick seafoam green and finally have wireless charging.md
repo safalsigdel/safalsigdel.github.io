@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F8YfMXvt_dbIgcPQDnai2Mkn424=/0x0:680x420/1200x800/filters:focal(286x156:394x264)/cdn.vox-cdn.com/uploads/chorus_image/image/66559328/EUBXzIsWAAAG5Aq__1_.0.jpeg' width='700px' /><br/>
+New leaked information about OnePlus' next flagship phone reveals it may come in a really slick seafoam green shade and that it might be the first OnePlus phone to have wireless charging (via Android Police).
+<a href='https://www.theverge.com/2020/3/26/21195464/oneplus-8-pro-leak-green-color-wireless-charging-5g-120-hz'> Source <a/>

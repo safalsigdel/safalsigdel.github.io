@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/byZHDsKa4pYkS1LNCNDnSZsR25o=/0x0:2239x1524/1200x800/filters:focal(995x379:1353x737)/cdn.vox-cdn.com/uploads/chorus_image/image/66559013/zoomyoga2.0.jpg' width='700px' /><br/>
+Yoga looks different this week. Studios are empty, music is off, and instructors are often demonstrating forms with a couch on one side of them, a TV on another, and a laptop pointed at them from across the room.
+<a href='https://www.theverge.com/2020/3/26/21195288/zoom-yoga-online-classes-coronavirus'> Source <a/>

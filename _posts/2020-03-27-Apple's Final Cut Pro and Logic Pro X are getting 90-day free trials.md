@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QrZE5Fq0JhVLk4T1s92owXHLTzY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66562189/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+Apple's creative professional apps — video editing software Final Cut Pro X and music production suite Logic Pro X  — are both getting free 90-day trials for a limited time. The 90-day trial is available now for Final Cut Pro X and will arrive “in the coming days” for Logic Pro X.
+<a href='https://www.theverge.com/2020/3/26/21196321/apple-final-cut-pro-logic-pro-x-90-day-free-trial-coronavirus'> Source <a/>

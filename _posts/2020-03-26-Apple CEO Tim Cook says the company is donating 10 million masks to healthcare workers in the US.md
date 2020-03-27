@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DT7ax_akNC1FZ3I9BVZUawkMNFc=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66538312/1206664154.jpg.0.jpg' width='700px' /><br/>
-Apple CEO Tim Cook tweeted Saturday that the company was donating “millions of masks for health professionals in the US and Europe,” to help combat the spread of the novel coronavirus. Cook's tweet appears to confirm a statement earlier in the day by Vice President Mike Pence.
-<a href='https://www.theverge.com/2020/3/22/21189881/apple-donating-masks-amazon-bezos-cook-coronavirus'> Source <a/>

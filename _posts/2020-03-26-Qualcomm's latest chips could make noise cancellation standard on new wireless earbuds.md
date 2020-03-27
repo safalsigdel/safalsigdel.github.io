@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Qualcomm is announcing a pair of new Bluetooth chips designed for wireless earbuds, the Qualcomm QCC514x and QCC304x SoCs. Both chipsets will support Qualcomm's TrueWireless Mirroring technology for more reliable connections, along with integrated, dedicated hardware for Qualcomm's hybrid active noise cancellation and onboard support for digital assistants.
-<a href='https://www.theverge.com/circuitbreaker/2020/3/25/21194602/qualcomm-qcc514x-qcc304x-noise-cancellation-wireless-earbuds-anc-voice-assistants-bluetooth-soc'> Source <a/>

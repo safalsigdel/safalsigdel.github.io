@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1zXdwVU4YQry1EblubpHC-HS5ig=/0x0:1920x762/1200x800/filters:focal(1112x78:1418x384)/cdn.vox-cdn.com/uploads/chorus_image/image/66554525/Screen_Shot_2019_07_20_at_4.18.01_PM.0.png' width='700px' /><br/>
-The first season of Star Trek: Picard is coming to an end on March 26th, and to celebrate, CBS is offering a free month-long trial (instead of the usual seven days) of CBS All Access to allow viewers to watch the whole season.
-<a href='https://www.theverge.com/2020/3/25/21194378/cbs-all-access-free-one-month-trial-binge-star-trek-picard'> Source <a/>

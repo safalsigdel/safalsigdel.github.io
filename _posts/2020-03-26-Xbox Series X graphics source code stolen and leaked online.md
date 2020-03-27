@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pxJjfbW1aSUdhjI4w5QtQAdyIi4=/0x0:1536x864/1200x800/filters:focal(646x310:890x554)/cdn.vox-cdn.com/uploads/chorus_image/image/66556939/XboxSeriesXGlossary_HERO.0.jpg' width='700px' /><br/>
-AMD says that a hacker has obtained source files for some of its current and future GPUs, including details about the Xbox Series X. “In December 2019, we were contacted by someone who claimed to have test files related to a subset of our current and future graphics products, some of which were recently posted online, but have since been taken down,” says an AMD spokesperson.
-<a href='https://www.theverge.com/2020/3/26/21195086/amd-hack-gpu-navi-information-xbox-series-x-source-code-theft'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y80Q6k2d_4MxzVUynOfwkNNj1WQ=/0x0:2846x1564/1200x800/filters:focal(730x525:1184x979)/cdn.vox-cdn.com/uploads/chorus_image/image/66553723/Screen_Shot_2020_03_25_at_1.33.33_PM.0.png' width='700px' /><br/>
-Fox and its sibling channel, FS1, are going to broadcast a “season” of virtual races that pit current, past, and the rising stars of NASCAR against each other on the sim racing platform iRacing. The races will air on Sundays at 1PM ET, pretty much the same time slot that NASCAR ran its real-world races before the novel coronavirus pandemic hit. They'll also be available to watch in the Fox Sports app.
-<a href='https://www.theverge.com/2020/3/25/21194033/fox-nascar-iracing-pro-series-broadcast-dale-earnhardt-jr'> Source <a/>

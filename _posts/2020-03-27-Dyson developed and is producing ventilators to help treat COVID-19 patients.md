@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9NF7POHIQDSHXg9h6uyhhvKShxU=/0x0:780x438/1200x800/filters:focal(328x157:452x281)/cdn.vox-cdn.com/uploads/chorus_image/image/66559003/200326111901_01_dyson_covent_ventilator_exlarge_169.0.jpg' width='700px' /><br/>
+Dyson — the British technology company best known for its high-powered vacuum cleaners, hair dryers, and fans — has designed a new ventilator, the “CoVent,” in the past several days, which it will be producing in order to help treat coronavirus patients, via CNN.
+<a href='https://www.theverge.com/2020/3/26/21195433/dyson-ventilators-covent-coronavirus-develop-produce-uk-nhs-donate-vacuum-motor'> Source <a/>

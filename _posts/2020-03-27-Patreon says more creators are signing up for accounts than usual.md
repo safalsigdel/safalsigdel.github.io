@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xbk_XiV6G8PfMe1j68-zQyq11Mk=/0x0:1600x800/1200x800/filters:focal(672x272:928x528)/cdn.vox-cdn.com/uploads/chorus_image/image/66559445/International_Patreon_send.0.jpg' width='700px' /><br/>
+Patreon says the effects of the COVID-19 pandemic have reached its platform. In a blog post today, the company said more than 30,000 creators signed up for an account in the first few weeks of March. These creators are likely independent artists who have been particularly impacted by government restrictions of large gatherings, as well as restaurant and business closings.
+<a href='https://www.theverge.com/2020/3/26/21195412/patreon-covid-19-coronavirus-update-support'> Source <a/>
