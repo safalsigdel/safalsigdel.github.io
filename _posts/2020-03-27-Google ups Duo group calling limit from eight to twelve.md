@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x1EDhOUl5gKYxV_IxkpF-IYQkvA=/0x0:800x600/1200x800/filters:focal(336x236:464x364)/cdn.vox-cdn.com/uploads/chorus_image/image/66563718/google_duo_logo_icon.0.png' width='700px' /><br/>
+Google is increasing the maximum number of people who can participate in a Duo call from eight to twelve, the company's senior director of product management announced on Twitter. “We recognize group calling is particularly critical right now,” Sanaz Ahari Lemelson wrote. “We have increased group calling from 8 participants to 12 effective today.” The announcement did not mention whether the increase was permanent.
+<a href='https://www.theverge.com/2020/3/27/21196780/google-duo-group-video-call-limit-increase-coronavirus-covid-19'> Source <a/>
