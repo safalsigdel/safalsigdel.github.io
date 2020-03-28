@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4V8bmJhaQ65DoQo04Oro1BnEUQ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66560652/DSCF8007.0.jpg' width='700px' /><br/>
-Google's second-generation Pixel Buds may have just appeared in Federal Communications Commission (FCC) filings, indicating that the company's new true wireless earbuds could hit their spring release window (via 9to5Google).
-<a href='https://www.theverge.com/2020/3/26/21195788/google-new-pixel-buds-2-fcc-spring-release-window'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SVtSWLLIuzH0NQvSX_tZScAAUZw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66563227/ngarun_181114_1777_amazon_0002.0.jpg' width='700px' /><br/>
-As of Thursday, the United States now has 81,578 cases of COVID-19 — more than than any other country in the world. The disaster is unfolding. New Jersey has formed a panel to make decisions about which patients will be granted one of the nation's insufficient supply of ventilators, and which will be left to a likely death.
-<a href='https://www.theverge.com/interface/2020/3/27/21195547/amazon-shipping-delays-covid-19-coronavirus-workers'> Source <a/>

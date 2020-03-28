@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G3isLvluiKcty4KshLuumoqfLXU=/0x0:1143x700/1200x800/filters:focal(293x225:517x449)/cdn.vox-cdn.com/uploads/chorus_image/image/66567816/1_NWBKIAP9Q6ehKd7kgHZ8ww.0.png' width='700px' /><br/>
+New York's Court of Appeals has reinstated a 2015 decision determining that couriers for on-demand delivery app Postmates should be classified as employees, making them eligible for unemployment insurance at a time when the US is seeing record job losses due to the coronavirus pandemic.
+<a href='https://www.theverge.com/2020/3/27/21197540/postmates-couriers-unemployment-benefits-new-york-appeals-court'> Source <a/>

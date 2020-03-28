@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6l2Bp72V8FP15CYxhQ2LySsutGo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66568004/acastro_180927_1777_lyft_0002.0.jpg' width='700px' /><br/>
+Lyft is now referring drivers on its platform to jobs at Amazon in a partnership between the two companies designed to alleviate financial hardships from a massive drop in ride-hailing usage.
+<a href='https://www.theverge.com/2020/3/27/21197699/lyft-amazon-coronavirus-ridership-decline-job-referral-warehouse-grocery-delivery'> Source <a/>

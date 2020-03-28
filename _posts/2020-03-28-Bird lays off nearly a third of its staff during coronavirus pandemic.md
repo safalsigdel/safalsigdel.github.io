@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OQI4IGEErGV3v9bM8L5Ik_Aqeno=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66566731/akrales_190321_3312_0002.0.jpg' width='700px' /><br/>
+Bird is laying off about 30 percent of its staff in response to the financial uncertainty of the coronavirus pandemic. The layoffs, which were first reported by TechCrunch, are the first major staff cuts by a scooter startup since the pandemic first hit — but they are likely not to be the last.
+<a href='https://www.theverge.com/2020/3/27/21197377/bird-scooter-layoff-staff-coronavirus-shutdown-sales-drop'> Source <a/>

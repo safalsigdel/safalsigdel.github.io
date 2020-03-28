@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MaiYZO3B96_xhvihwg6lsZAGN2w=/0x0:6057x4038/1200x800/filters:focal(3161x2258:4129x3226)/cdn.vox-cdn.com/uploads/chorus_image/image/66568047/1027117798.jpg.0.jpg' width='700px' /><br/>
+Google has banned the Infowars Android app from the Google Play store, the company confirmed to Wired on Friday. Google also confirmed the app's removal to The Verge, and we couldn't find the Infowars app in a search on the Play Store this evening.
+<a href='https://www.theverge.com/2020/3/27/21197701/google-banned-infowars-android-app-play-store-coronavirus'> Source <a/>

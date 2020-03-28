@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xl3Ib6rJEuBQlM68sdjwfZPMmtk=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/66563371/awhite_200319_3944_4.0.0.jpg' width='700px' /><br/>
-Nilay Patel published his 2020 MacBook Air review yesterday. He calls it “the best Mac for most people” and I agree. After three iterations in its modern incarnation, the MacBook Air has finally been restored to its place as the default MacBook.
-<a href='https://www.theverge.com/2020/3/27/21196425/apple-macbook-air-restore-default-laptop-recommendation-best-mac'> Source <a/>

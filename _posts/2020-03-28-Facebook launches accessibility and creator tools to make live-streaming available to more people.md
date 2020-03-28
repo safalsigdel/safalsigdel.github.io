@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CpvRURNi59n55aSO9cra5kop-uc=/0x0:1688x1056/1200x800/filters:focal(709x393:979x663)/cdn.vox-cdn.com/uploads/chorus_image/image/66566049/Screen_Shot_2020_03_27_at_2.01.05_PM.0.png' width='700px' /><br/>
+COVID-19 and its resulting social distancing measures have inspired lots of people to live stream, so Facebook says it's going to launch various features over the next couple weeks to make Facebook Live more accessible and easy to use, particularly for people who might not have a lot of mobile data. The updates will be global.
+<a href='https://www.theverge.com/2020/3/27/21197193/facebook-live-video-streaming-update-covid-19-captioning-audio'> Source <a/>

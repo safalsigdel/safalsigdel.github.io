@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PtTfU5YdOtqN_IVxLOwo3PxTObU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66566075/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
+April Fools' Day is one of the most annoying internet traditions, but this year Google — infamous for its numerous elaborate pranks that typically touch on nearly every major product the company makes — won't be participating due to the serious threat of the coronavirus that continues to impact the entire world.
+<a href='https://www.theverge.com/2020/3/27/21197260/google-cancels-april-fools-jokes-2020-coronavirus-covid19-pranks'> Source <a/>

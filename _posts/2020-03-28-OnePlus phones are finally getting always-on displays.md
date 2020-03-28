@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gjqb1d-Tnp0FETXi8chxvDx1raM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66564891/dbohn_ces2020_oneplus_3.0.jpg' width='700px' /><br/>
+OnePlus fans have been demanding always-on displays for years, and the manufacturer has finally caved in. OnePlus announced on Twitter today that the feature is “on our roadmap.”
+<a href='https://www.theverge.com/2020/3/27/21196974/oneplus-always-on-display-oxygen-os-ideas'> Source <a/>

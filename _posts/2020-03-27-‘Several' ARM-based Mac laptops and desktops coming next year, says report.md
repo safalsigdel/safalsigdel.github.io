@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9o4qKZUWDwXZcA-LQTVjYcQu9ew=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66562891/awhite_200319_3944_2.0.0.jpg' width='700px' /><br/>
-The Mac's long-rumored transition from Intel processors to Apple's own ARM designs could be swifter and more extensive than you might have expected. According to a new research note from analyst Ming-chi Kuo, reported on by MacRumors, Apple is planning to release “several” ARM-based Macs in 2021 in both laptop and desktop form factors.
-<a href='https://www.theverge.com/2020/3/27/21196611/arm-macbook-desktop-apple-2021-release-date'> Source <a/>

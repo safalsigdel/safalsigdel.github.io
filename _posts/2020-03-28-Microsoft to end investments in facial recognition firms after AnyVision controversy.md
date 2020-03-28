@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PaVmI67sKJxy0JqFMdBQZxRhApg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66567547/acastro_180507_1777_microsoft_0003.0.jpg' width='700px' /><br/>
+Microsoft says it will no longer invest in third-party facial recognition companies following a controversy around its funding of Israeli startup AnyVision, which critics and human rights activists say powered a surveillance program in the West Bank following an NBC News report about the company's relationship with the Israeli government.
+<a href='https://www.theverge.com/2020/3/27/21197577/microsoft-facial-recognition-investing-divest-anyvision-controversy'> Source <a/>

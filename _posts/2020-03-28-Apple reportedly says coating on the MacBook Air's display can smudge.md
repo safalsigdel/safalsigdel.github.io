@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8QJvFgolJsOXj0S9t8C8HHQbaWY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66566200/awhite_200319_3944_3.0.0.jpg' width='700px' /><br/>
+MacBook Air models with Retina displays may have issues with their anti-reflective coating, causing the laptop's screen to look blotchy, according to MacRumors, which obtained an internal memo sent by Apple to its Authorized Service Providers.
+<a href='https://www.theverge.com/2020/3/27/21196794/apple-macbook-air-screen-smudging-anti-glare-coating'> Source <a/>

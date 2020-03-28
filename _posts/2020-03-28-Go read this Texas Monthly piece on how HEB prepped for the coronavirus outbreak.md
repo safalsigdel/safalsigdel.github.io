@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5g3w-lgRIVFshrFanxPhg5EXHms=/0x0:3573x4711/1200x800/filters:focal(1918x1602:2488x2172)/cdn.vox-cdn.com/uploads/chorus_image/image/66565816/HEB.0.jpg' width='700px' /><br/>
+In February, while the US government was still dithering and downplaying the potential impact that the novel coronavirus and COVID-19 might have, San Antonio-based grocery chain HEB was already running pandemic simulations and adapting the plans that helped it respond to the H1N1 outbreak in 2009.
+<a href='https://www.theverge.com/2020/3/27/21196919/heb-prepared-coronavirus-outbreak-covid-19-texas-monthly-reading-recommendation'> Source <a/>

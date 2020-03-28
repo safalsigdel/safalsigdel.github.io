@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/am4XhnMYa17fHUX3HswINZ5Y_rM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66559917/dseifert_190620_3494_5292.0.jpg' width='700px' /><br/>
-CarPlay, Apple's in-car interface, just got better thanks to an update that lets you use third-party map apps on its dashboard.
-<a href='https://www.theverge.com/2020/3/26/21194115/carplay-dashboard-third-party-map-support-ios-apple'> Source <a/>
