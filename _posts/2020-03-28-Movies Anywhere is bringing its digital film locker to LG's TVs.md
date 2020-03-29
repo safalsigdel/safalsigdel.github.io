@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lSqGs3W1BBFTl_S6Tloys_oyP1M=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66563505/G_SYNC_OLED_Line_up.0.0.jpg' width='700px' /><br/>
-Movies Anywhere — the Disney-owned movie locker service that combines your purchased films across digital stores including Apple TV, Amazon Prime Video, Vudu, and Google Play — is launching a native app for LG's smart TVs. The app will be available for LG TVs running webOS manufactured from 2017 onwards, including its excellent OLED models.
-<a href='https://www.theverge.com/2020/3/27/21196710/lg-tvs-movies-anywhere-digital-film-locker-service'> Source <a/>

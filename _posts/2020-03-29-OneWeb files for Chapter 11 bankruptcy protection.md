@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0ESX8G84tmi0b7wVujyKJQT2S3U=/0x0:1027x687/1200x800/filters:focal(432x262:596x426)/cdn.vox-cdn.com/uploads/chorus_image/image/66568934/oneweb.0.jpg' width='700px' /><br/>
+Space exploration firm OneWeb has filed for Chapter 11 bankruptcy protection, GeekWire reports, leaving uncertainty about the 74 satellites it has in orbit and its plans to provide high-speed internet from space.
+<a href='https://www.theverge.com/2020/3/28/21189404/oneweb-chapter-11-bankruptcy-space'> Source <a/>

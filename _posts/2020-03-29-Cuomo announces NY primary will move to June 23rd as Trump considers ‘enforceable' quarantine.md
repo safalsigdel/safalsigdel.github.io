@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-6-Y6zQCi5Ym8lzTH0bPaYoZ3QI=/0x0:3549x2571/1200x800/filters:focal(1492x1003:2058x1569)/cdn.vox-cdn.com/uploads/chorus_image/image/66569460/1208407373.jpg.0.jpg' width='700px' /><br/>
+Gov. Andrew Cuomo said New York will postpone its April 28th presidential primary election until June 23rd, as the Empire State deals with the largest coronavirus outbreak in the US, the New York Times reports.
+<a href='https://www.theverge.com/2020/3/28/21198085/cuomo-ny-primary-trump-quarantine-coronavirus'> Source <a/>
