@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ER0vbI8a6L8BwgaRUN59QVUr7Ts=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66570819/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
+US government officials are using cellphone location data from the mobile ad industry —not data from the carriers themselves— to track Americans' movements during the coronavirus outbreak, the Wall Street Journal reports. The Centers for Disease Control and Prevention, along with state and local governments have received cell phone data about people in areas of “geographic interest,” the WSJ reports.
+<a href='https://www.theverge.com/2020/3/29/21198158/us-government-mobile-ad-location-data-coronavirus'> Source <a/>

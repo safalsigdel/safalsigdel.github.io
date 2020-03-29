@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pwdVCvFikjb2pM1aKl-c51r6SjY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66571048/detroit_auto_show_2017_4191.0.jpg' width='700px' /><br/>
+The 2020 North American International Auto Show (NAIAS) in Detroit has been canceled as FEMA officials prepare to use its venue, the TCF Center, as a temporary field hospital for COVID-19, CNBC reports.
+<a href='https://www.theverge.com/2020/3/29/21198617/detroit-auto-show-canceled-fema-covid-19'> Source <a/>

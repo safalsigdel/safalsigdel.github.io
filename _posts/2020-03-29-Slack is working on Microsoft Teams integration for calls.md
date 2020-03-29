@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eTuyVqi5IJssT9PMlTxoJp7tOFU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66565281/acastro_190412_1777_slack_0002.0.jpg' width='700px' /><br/>
-Slack is working on integrating Microsoft Teams calling features into its chat app. The integration would allow users of both rival services to call each other, bridging an important gap between the communications apps. “We're working on Teams integrations for calling feature,” said Slack CEO Stewart Butterfield on an analyst call, reports CNBC.
-<a href='https://www.theverge.com/2020/3/27/21197091/slack-microsoft-teams-integration-calling-features'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/79CIOcbbP5Xm7ZmWQhHOfuI7GMM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66564933/awhite_200319_3944_3.0.0.jpg' width='700px' /><br/>
-Two new Apple product reviews published on our site and our YouTube channel this week: the 2020 versions of the MacBook Air and the iPad Pro, reviewed by Verge editor-in-chief Nilay Patel and executive editor Dieter Bohn, respectively.
-<a href='https://www.theverge.com/2020/3/27/21196874/macbook-air-ipad-pro-2020-review-coronavirus-vergecast-podcast-398'> Source <a/>
