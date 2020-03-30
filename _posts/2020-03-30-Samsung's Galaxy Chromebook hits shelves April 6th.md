@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D7Ovz_3fwChCeLlTtvvTHNRMnvA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66572878/dbohn_ces2020__07.0.jpg' width='700px' /><br/>
+Samsung's upcoming Galaxy Chromebook finally has an official release date. You'll be able to buy it at Samsung and Best Buy next Monday, April 6th, starting at $999.
+<a href='https://www.theverge.com/2020/3/30/21197611/samsung-galaxy-chromebook-google-release-date-april'> Source <a/>
