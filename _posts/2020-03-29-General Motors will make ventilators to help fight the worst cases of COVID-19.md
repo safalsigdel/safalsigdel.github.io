@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lVMTgvlllFT2mCd8Xx7ryQKMFr0=/0x0:3000x2088/1200x800/filters:focal(1260x804:1740x1284)/cdn.vox-cdn.com/uploads/chorus_image/image/66565617/450105236.jpg.0.jpg' width='700px' /><br/>
-General Motors will manufacture ventilators that are crucial to fighting the worst symptoms of COVID-19, the disease caused by the novel coronavirus. One thousand members of the automaker's unionized workforce will build the equipment for ventilator company Ventec Life Systems at GM's factory in Kokomo, Indiana, which has been shut down during the pandemic.
-<a href='https://www.theverge.com/2020/3/27/21197015/general-motors-ventilators-ventec-coronavirus-covid-19-trump-defense-production-act'> Source <a/>

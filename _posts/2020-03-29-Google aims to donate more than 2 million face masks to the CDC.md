@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hsDh5gjdwaKTHNsBOSCvkGknoCI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66565418/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google CEO Sundar Pichai says that Google will work with a partner company, Magid Glove & Safety, to produce and donate “2-3 million face masks in the coming weeks,” according to a blog post. Once produced, Google will donate them to the CDC Foundation.
-<a href='https://www.theverge.com/2020/3/27/21197085/google-covid-19-coronavirus-ad-grants-loans-face-masks-cdc'> Source <a/>

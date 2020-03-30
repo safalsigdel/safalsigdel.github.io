@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YEqJlIdbDRYW8jtfxHW_fvCkGq4=/0x0:5194x3465/1200x800/filters:focal(2182x1318:3012x2148)/cdn.vox-cdn.com/uploads/chorus_image/image/66572186/1147794851.jpg.0.jpg' width='700px' /><br/>
+On the eve of a planned work stoppage by its shoppers, Instacart said today it would distribute independently-developed hand sanitizer to its shoppers.
+<a href='https://www.theverge.com/2020/3/29/21198986/instacart-hand-sanitizer-shoppers-strike-coronavirus'> Source <a/>
