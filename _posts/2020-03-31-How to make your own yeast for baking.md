@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NtQ00xmFtBh8W0TKOYdVML-cvt8=/0x0:5360x3573/1200x800/filters:focal(2252x1359:3108x2215)/cdn.vox-cdn.com/uploads/chorus_image/image/66579508/1173967076.jpg.0.jpg' width='700px' /><br/>
+As more people bake their blues away while stuck at home during the COVID-19 pandemic, yeast is reportedly becoming harder to find on grocery store shelves. There's no shame in turning to carbohydrates for comfort in times like these. But what's one to do when a key ingredient for satisfying that craving is becoming as elusive as a roll of toilet paper?
+<a href='https://www.theverge.com/2020/3/31/21199708/yeast-diy-baking-covid-19-shortage-make-it-yourself-bread'> Source <a/>
