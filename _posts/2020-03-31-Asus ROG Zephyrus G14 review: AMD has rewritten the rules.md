@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SOiFg5V6Z3KQuKpChr62WToNuHo=/0x0:1939x1293/1200x675/filters:focal(767x812:1077x1122)/cdn.vox-cdn.com/uploads/chorus_image/image/66573709/awhite_200319_3954_6.0.jpg' width='700px' /><br/>
-In their early years, gaming laptops were meant to be desktop replacements. The first Razer Blade, released in 2011, was almost seven pounds; the 2012 Blade was 6.6. Battery life was a laughing matter. (The 2017 Zephyrus had just over two hours.) Gaming laptops were bulky and garish. They were designed for gaming on a budget, not for gaming on the go.
-<a href='https://www.theverge.com/2020/3/30/21197761/asus-rog-zephyrus-g14-review-gaming-laptop-specs-features-price'> Source <a/>
