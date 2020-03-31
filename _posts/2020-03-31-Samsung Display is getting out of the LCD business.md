@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dbnrDUqzWr_sTdSJ_fggzs_g5PQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66579240/DSCF3004.0.jpg' width='700px' /><br/>
+Samsung Display will stop producing LCD panels by the end of the year. The display maker currently runs two LCD production lines in South Korea and two in China, according to Reuters. Samsung tells The Verge that the decision will accelerate the company's move towards quantum dot displays, while ZDNet reports that its future quantum dot TVs will use OLED rather than LCD panels.
+<a href='https://www.theverge.com/2020/3/31/21200859/samsung-display-ending-lcd-panel-production-quantum-dot-oled-south-korea-china-factories'> Source <a/>

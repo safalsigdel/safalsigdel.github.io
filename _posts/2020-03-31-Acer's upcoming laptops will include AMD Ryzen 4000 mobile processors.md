@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fOE5vJeDCl1OqV3I1CeUWPp39bc=/0x0:7291x4800/1200x800/filters:focal(3063x1817:4229x2983)/cdn.vox-cdn.com/uploads/chorus_image/image/66573732/Acer_Aspire_5_A515_44_44G_front_right_angle_view.0.jpg' width='700px' /><br/>
-Acer has announced that it will release a new version of its Aspire 5 laptop this year, powered by AMD's Ryzen 5 4500U mobile chip. The company has also revealed the release date for its Ryzen-powered Swift 3.
-<a href='https://www.theverge.com/2020/3/30/21198734/acer-swift-3-aspire-5-amd-ryzen-4000-mobile-processors'> Source <a/>
