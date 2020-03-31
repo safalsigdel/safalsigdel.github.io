@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RA1v6EU4vMT1O3kGeLNiy3JDCTM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66580394/acastro_190412_1777_slack_0002.0.jpg' width='700px' /><br/>
+Slack is a popular workplace instant-messaging tool. But that doesn't mean it only has to be for work. You can use Slack for whatever you'd like — keeping up with friends, sharing recipes, organizing activities, and so on. Although Slack is largely intended for group collaboration, it also has tools if you just want to chat one-on-one with people.
+<a href='https://www.theverge.com/2020/3/31/21196905/slack-call-private-message-how-to-tools-steps'> Source <a/>

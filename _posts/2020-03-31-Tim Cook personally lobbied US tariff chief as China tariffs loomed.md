@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s1EDjFZCyVQVvgMuPfiLFvpLqgY=/0x0:5101x3502/1200x800/filters:focal(2143x1343:2959x2159)/cdn.vox-cdn.com/uploads/chorus_image/image/66580414/697922910.jpg.0.jpg' width='700px' /><br/>
+As the tech industry braced for another round of China tariffs last summer, Tim Cook was making the case directly to the agency involved. On July 8th, the Apple CEO spoke directly with US Trade Representative Robert Lighthizer as part of a broader effort to make the US's china tariffs less damaging to Apple, according to emails obtained by The Verge through a Freedom of Information Act request.
+<a href='https://www.theverge.com/2020/3/31/21200068/tim-cook-white-house-tariff-trump-lighthizer-lobby-apple-china'> Source <a/>

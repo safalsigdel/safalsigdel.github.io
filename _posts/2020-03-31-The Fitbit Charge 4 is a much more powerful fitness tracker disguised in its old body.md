@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/rAtibNsYnBaAYKC85Uw5aw2Qtr0=/0x0:2000x1126/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/66579626/Fitbit_Charge_4_Iconic_Inbox_Black_Open_Screen_Crop_2.0.jpeg' width='700px' /><br/>
-The first Fitbit after Google announced it intends to buy the company last fall looks... well, like every other Fitbit that came before it. And it's apparently intentional, as the company wants to expand on one of its most popular fitness trackers that's long due for an update.
+The first Fitbit after Google announced it intends to buy the company last fall looks... well, like every other Fitbit that came before it. And it's apparently intentional, as the company wants to expand on one of its most popular fitness trackers that's long due for an update
 <a href='https://www.theverge.com/2020/3/31/21199567/fitbit-charge-4-tracker-gps-nfc-spotify-sp02-announcement-price'> Source <a/>
