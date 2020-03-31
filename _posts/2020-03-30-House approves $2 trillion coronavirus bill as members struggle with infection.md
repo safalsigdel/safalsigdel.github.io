@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d0g49n3EUyse-M3W5r1-XQGJ5fk=/0x0:6048x3904/1200x800/filters:focal(2541x1469:3507x2435)/cdn.vox-cdn.com/uploads/chorus_image/image/66567142/1208428963.jpg.0.jpg' width='700px' /><br/>
-After weeks of negotiations, Congress approved its $2 trillion coronavirus relief package on Friday. But that measure's final approval was threatened by the same virus that made it necessary.
-<a href='https://www.theverge.com/2020/3/27/21197513/house-stimulus-coronavirus-relief-package-bill-approved-rand-paul'> Source <a/>

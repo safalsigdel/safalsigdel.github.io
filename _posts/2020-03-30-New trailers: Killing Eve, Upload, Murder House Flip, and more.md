@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DMcdDDn65Ap7yFIkCyBK5Q_2F-U=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/66569002/upload_UPLO_S1_SG_103_00010_rgb.0.jpg' width='700px' /><br/>
-I'd completely expected to be writing a note this week about how the COVID-19 pandemic has largely shut down trailer production, but it turns out, my assumption was wrong. While things have certainly slowed down, streaming services are almost singlehandedly keeping up the new releases. If anything, this is a great moment for them to debut a new show or series since everyone is stuck indoors.
-<a href='https://www.theverge.com/2020/3/28/21197623/new-trailers-killing-eve-upload-blackaf-tigertail-more'> Source <a/>

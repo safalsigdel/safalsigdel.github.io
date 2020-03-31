@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N4LFrQhmrYu1W3irYqvzVZb-uWU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66577215/acastro_180509_1777_steam_0002.0.jpg' width='700px' /><br/>
+Valve announced today that it won't automatically update games in customers' libraries as regularly as before to help preserve bandwidth during the novel coronavirus pandemic.
+<a href='https://www.theverge.com/2020/3/30/21200235/valve-delay-steam-auto-updates-preserve-bandwidth-coronavirus'> Source <a/>

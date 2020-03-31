@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CXx7m7aQlr-VOrbP6tAOzRuHCsw=/0x0:4800x2896/1200x800/filters:focal(2618x1060:3386x1828)/cdn.vox-cdn.com/uploads/chorus_image/image/66566293/1207671956.jpg.0.jpg' width='700px' /><br/>
-Instacart shoppers are organizing a work stoppage Monday because they say the grocery delivery company has not done enough to ensure their safety during the coronavirus outbreak, as first reported by Vice.
-<a href='https://www.theverge.com/2020/3/27/21197078/instacart-workers-protest-coronavirus-protections-date-sick-leave'> Source <a/>

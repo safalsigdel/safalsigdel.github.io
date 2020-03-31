@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EzM6NlE73N1kooIlTGaH1Ex4faI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66576601/apple_logic.0.jpg' width='700px' /><br/>
+It looks like big updates are coming to Apple's professional music software, Logic Pro X. Yesterday, a Reddit user noticed that Apple's education products webpage showed a version of Logic with ported functions from Logic Pro X's little software brother, GarageBand. The image has since been replaced on Apple's website, but a cache of the page on Wayback Machine confirms it's real.
+<a href='https://www.theverge.com/2020/3/30/21199822/apple-logic-pro-x-leaked-image-garageband-ios-features-live-loops'> Source <a/>

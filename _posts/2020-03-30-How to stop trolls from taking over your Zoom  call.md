@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lZWBg-QVZBiHaqx2yOEfcz81zUA=/0x0:2753x2772/1200x800/filters:focal(1157x1166:1597x1606)/cdn.vox-cdn.com/uploads/chorus_image/image/66566645/1212262073.jpg.0.jpg' width='700px' /><br/>
-Zoom is an easy-to-use videoconferencing tool with a generous free tier. With people around the world isolating indoors to protect themselves against the spread of the coronavirus, it has never been more popular.
-<a href='https://www.theverge.com/2020/3/27/21197090/zoombombing-zoom-stop-how-to-porn-trolls-video-chat-screen-sharing'> Source <a/>

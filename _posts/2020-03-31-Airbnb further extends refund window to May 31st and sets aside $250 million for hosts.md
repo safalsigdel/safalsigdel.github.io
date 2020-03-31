@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hReIy2zPyzOUYUa70c9qS_WG9z8=/0x0:2040x1360/1200x800/filters:focal(737x515:1063x841)/cdn.vox-cdn.com/uploads/chorus_image/image/66577844/Airbnb-stock-Dec2015-verge-04.0.0.jpg' width='700px' /><br/>
+Airbnb has further extended its full cancellation policy due to the ongoing coronavirus pandemic and has set aside $250 million to help pay hosts for missed or canceled bookings, according to a letter sent to Airbnb hosts on Monday, which the company shared with The Verge. CNBC was first to report the news earlier today.
+<a href='https://www.theverge.com/2020/3/30/21200430/airbnb-cancellation-policy-coronavirus-covid-may-31-pay-hosts'> Source <a/>

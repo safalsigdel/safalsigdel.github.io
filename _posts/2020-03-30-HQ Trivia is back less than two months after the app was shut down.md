@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Rv2XDz70BGWfrrWBVo2OAmFkyF8=/0x0:5443x3629/1200x800/filters:focal(2287x1380:3157x2250)/cdn.vox-cdn.com/uploads/chorus_image/image/66572370/hq_trivia_stock_app_1.0.jpeg' width='700px' /><br/>
-HQ Trivia is being resurrected just a little over one month after co-founder Rus Yusupov announced that the app was shutting down.
-<a href='https://www.theverge.com/2020/3/29/21199070/hq-trivia-game-app-shut-down-return-acquired-gaming'> Source <a/>

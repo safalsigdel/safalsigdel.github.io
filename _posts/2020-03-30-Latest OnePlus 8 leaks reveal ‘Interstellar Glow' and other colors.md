@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4HYSJzyyvKi_-iNOd294hRVXaww=/0x0:1257x1200/1200x800/filters:focal(529x500:729x700)/cdn.vox-cdn.com/uploads/chorus_image/image/66571710/oneplus_interstellar_glow.0.png' width='700px' /><br/>
-A pair of leaks shows renders for the upcoming OnePlus 8 series that include a slate of new colors, including a purplish-red one called Interstellar Glow. WinFuture and Ishan Agarwal both posted images of the new colors, which also include a Glacial Green and Onyx Black, according to Agarwal.
-<a href='https://www.theverge.com/2020/3/29/21198701/latest-oneplus-8-leaks-reveal-interstellar-glow-and-other-colors'> Source <a/>

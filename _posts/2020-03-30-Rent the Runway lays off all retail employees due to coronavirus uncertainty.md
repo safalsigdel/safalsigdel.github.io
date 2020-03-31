@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pVnmU5f7xyx8JNEd3YdOb6qqZnY=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66569538/1147850630.jpg.0.jpg' width='700px' /><br/>
-Rent the Runway, a popular clothing rental brand, laid off its entire retail staff via Zoom yesterday. The company, which primarily operates online, has brick and mortar locations in California, New York, Chicago, and Washington DC. All stores are currently closed due to the coronavirus pandemic, and the company is not sure when or if they will be able to reopen.
-<a href='https://www.theverge.com/2020/3/28/21198042/rent-the-runway-lays-off-all-retail-employees-due-to-coronavirus-uncertainty'> Source <a/>

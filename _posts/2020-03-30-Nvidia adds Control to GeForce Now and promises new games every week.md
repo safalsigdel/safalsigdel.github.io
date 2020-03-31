@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UUst5nB7cVYXz6jCio4LK3Uwem0=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/66566741/GeForce_NOW_Platforms_crop_verge.0.jpg' width='700px' /><br/>
-Nvidia says its GeForce Now cloud gaming service will start getting new games every Thursday, starting with Remedy Entertainment's sci-fi action title Control.
-<a href='https://www.theverge.com/2020/3/27/21197361/nvidia-geforce-now-cloud-gaming-control-new-games-weekly'> Source <a/>

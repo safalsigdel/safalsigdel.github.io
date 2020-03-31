@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HBT8NRRbuI60xGrB910mrJnzxfk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66567337/acastro_200319_1777_amazonCorona_0001.0.jpg' width='700px' /><br/>
-As a growing list of states order “nonessential” businesses closed to slow the spread of COVID-19, Amazon is giving warehouse and delivery workers letters to carry saying that they are engaged in essential work.
-<a href='https://www.theverge.com/2020/3/27/21197454/amazon-coronavirus-covid-19-warehouse-delivery-essential-letter'> Source <a/>
