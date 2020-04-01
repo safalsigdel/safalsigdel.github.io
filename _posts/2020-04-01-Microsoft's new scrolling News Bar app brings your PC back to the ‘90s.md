@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I0Y0TTxS-D-Dm2Ka-SxPTFPIbsk=/0x0:1400x875/1200x0/filters:focal(0x0:1400x875):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19860923/newsbar.jpg' width='700px' /><br/>
-Microsoft has created a scrolling news bar app for Windows 10. It sits above the Windows taskbar and provides scrolling 24/7 news from more than 4,500 publications alongside customizable stock information. It's very similar to scrolling news apps we used to see in the ‘90s for Windows PCs, and it was developed by Microsoft's internal News team (formerly MSN News).
-<a href='https://www.theverge.com/2020/3/31/21199788/microsoft-news-bar-app-windows-scrolling-news-features'> Source <a/>
