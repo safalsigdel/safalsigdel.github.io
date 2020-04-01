@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eT_xEUx3xto2ANFDb2U0qlaFHZI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66580433/mac_launch_editor_dark_text2_1920x1080.0.png' width='700px' /><br/>
-Streaming is bigger than ever now that staying inside is a requirement; you've probably noticed friends start posting links to their newly created Twitch and YouTube channels, and maybe thought to yourself hm, looks fun. If you're a Mac user and you happen to be interested in livestreaming, I have some good news for you: Streamlabs OBS is launching today (in beta) on macOS.
-<a href='https://www.theverge.com/2020/3/31/21201043/streamlabs-obs-mac-streaming-twitch-mixer-facebook-youtube'> Source <a/>
