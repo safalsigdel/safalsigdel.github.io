@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9_tGKZ_hnn2UgBq4HIo_TwOeHeo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66579598/jbareham_181011_2989_0486.0.jpg' width='700px' /><br/>
-Google has officially stopped selling its Pixel 3 and Pixel 3 XL smartphones, as spotted by Android Police. The product page for the phones now simply redirects to the Google Store's homepage, with Google confirming that it has sold through its inventory (although the phone do remain available, for now, at third-party retailers like Best Buy or Walmart.)
-<a href='https://www.theverge.com/2020/3/31/21200925/google-pixel-3-xl-discontinued-store-sales-phone-camera'> Source <a/>
