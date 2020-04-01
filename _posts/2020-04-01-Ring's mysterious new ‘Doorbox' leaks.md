@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_dJZgw0tJZOayfOOqBYz8Ekf4TA=/0x0:1136x639/1200x800/filters:focal(478x230:658x410)/cdn.vox-cdn.com/uploads/chorus_image/image/66586834/ring_doorbox.0.jpg' width='700px' /><br/>
+Amazon-owned smart home company Ring appears to have a new product on the way called the “Ring Doorbox,” according to an image discovered by Dave Zatz over at Zatz Not Funny. However, it's not immediately obvious what exactly the Doorbox is. It doesn't appear to have a camera, so it's probably not another video doorbell, and there are no obvious motion sensors for a security system. It's all a bit of a mystery.
+<a href='https://www.theverge.com/2020/4/1/21202784/ring-doorbox-intercom-lockable-box-smartphone-unlock-smart-lock'> Source <a/>

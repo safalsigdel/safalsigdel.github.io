@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3zUzes3lQ6BgSLLBoKdRP2dfqwI=/0x0:1920x1001/1200x675/filters:focal(807x348:1113x654)/cdn.vox-cdn.com/uploads/chorus_image/image/66580593/2020_03_26_13.52.26.0.png' width='700px' /><br/>
-The day before University of Pennsylvania students were told that their college commencement would be held online, junior Andrew Guo thought of an alternative to holding the address over Zoom. Students could have a “Hey Day” and graduation inside Minecraft, just as a Japanese elementary school had organized days earlier.
-<a href='https://www.theverge.com/2020/3/31/21200972/college-students-graduation-minecraft-coronavirus-school-closures'> Source <a/>
