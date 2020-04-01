@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j1asfNEWyFqerjblHsEhrOUuqTI=/0x0:1200x1200/1200x800/filters:focal(504x504:696x696)/cdn.vox-cdn.com/uploads/chorus_image/image/66587379/ytmnd.0.jpg' width='700px' /><br/>
+YTMND has returned. Nearly a year after being brought down by a server failure, YTMND is back online and somewhat modernized, removing the need for Flash to view its archive of looping GIFs and synchronized music.
+<a href='https://www.theverge.com/2020/4/1/21202658/ytmnd-return-shut-down-youre-the-man-now-dog-website'> Source <a/>

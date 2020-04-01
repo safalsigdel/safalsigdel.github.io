@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aBSX0yWrVkZiZShMDy-ZHJLRC6A=/0x0:5006x2558/1200x800/filters:focal(1651x791:2451x1591)/cdn.vox-cdn.com/uploads/chorus_image/image/66581906/20018588571_b5737dcc26_5k.0.jpg' width='700px' /><br/>
-QuakeCon, the annual fan convention and tournament dedicated to the legendary first-person shooter game, has been canceled due to the ongoing coronavirus pandemic. The convention has been held every year for the past 24 years in Dallas, Texas, making the official 25th anniversary celebration the first QuakeCon to be canceled in the event's history. It was to be held in August.
-<a href='https://www.theverge.com/2020/3/31/21201501/quakecon-quake-canceled-bethesda-id-software-25th-anniversary'> Source <a/>
