@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OGHMw-rZIx_daVLP_88HVbcI2Ow=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66581548/DSCF2964.0.jpg' width='700px' /><br/>
+Phone providers will be required to implement call verification technology by the end of June 2021 under rules approved today by the Federal Communications Commission. The technology, known as STIR/SHAKEN, allows phone providers to verify that a call is coming from a real number, letting people know they should pick up the phone rather than ignore a spoofed robocall.
+<a href='https://www.theverge.com/2020/3/31/21201140/fcc-stir-shaken-approved-june-2021-deadline-robocalls'> Source <a/>

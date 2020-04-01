@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FRb-Z_FeRvvNjnieTOLlRFDOHzo=/0x0:2318x970/1200x800/filters:focal(974x300:1344x670)/cdn.vox-cdn.com/uploads/chorus_image/image/66578413/morbius.0.png' width='700px' /><br/>
-Sony is the latest movie studio to announce major changes to its release slate due to the COVID-19 pandemic, as reported by Variety. Tentpole movies like Uncharted, Ghostbusters: Afterlife, and Peter Rabbit 2 are all seeing big delays, leaving Kevin Hart's Fatherhood as one of the only major titles on Sony's 2020 schedule — and that was itself brought forward to October from January.
-<a href='https://www.theverge.com/2020/3/30/21200663/sony-movies-coronavirus-release-date-delays'> Source <a/>

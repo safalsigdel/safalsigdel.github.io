@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2IbKF-pvn8fNCLc667O6k9z_CuM=/0x0:5906x3819/1200x800/filters:focal(2481x1438:3425x2382)/cdn.vox-cdn.com/uploads/chorus_image/image/66582714/1215173559.jpg.0.jpg' width='700px' /><br/>
+Uber is ramping up its response to the COVID-19 pandemic, pledging 10 million free rides and food deliveries for health care workers, senior citizens, and others affected by the outbreak.
+<a href='https://www.theverge.com/2020/3/31/21201805/uber-free-rides-deliveries-workers-coronavirus-pledge'> Source <a/>

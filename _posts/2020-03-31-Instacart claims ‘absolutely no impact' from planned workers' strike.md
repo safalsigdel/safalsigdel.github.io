@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5jDZQiPPecRdM2u8jY4bWALRpxU=/0x0:4723x3336/1200x800/filters:focal(1985x1291:2739x2045)/cdn.vox-cdn.com/uploads/chorus_image/image/66577570/1207535082.jpg.0.jpg' width='700px' /><br/>
-Grocery delivery company Instacart said today that a planned work stoppage by its shoppers had “absolutely no impact on Instacart's operations” and claims it sold more groceries over the past 72 hours “than ever before.”
-<a href='https://www.theverge.com/2020/3/30/21200348/instacart-strike-coronavirus-no-impact'> Source <a/>

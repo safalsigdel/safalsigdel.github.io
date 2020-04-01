@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5_p_BspQPiODCu81UzCHAxvUGuw=/0x0:1520x1005/1200x800/filters:focal(639x382:881x624)/cdn.vox-cdn.com/uploads/chorus_image/image/66577029/Groceries___PMM___Steakmans___iPhoneXS__1_.0.png' width='700px' /><br/>
-OpenTable wants to let you reserve shopping times at supermarkets to help decrease overcrowding and make stores safer for shoppers.
-<a href='https://www.theverge.com/2020/3/30/21199658/opentable-reserve-shopping-times-supermarkets'> Source <a/>

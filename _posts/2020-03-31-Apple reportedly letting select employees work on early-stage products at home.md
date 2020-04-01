@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g_6RyNQGJ87DvVoEHowpUpHaewE=/0x0:2040x1360/1200x800/filters:focal(860x556:1186x882)/cdn.vox-cdn.com/uploads/chorus_image/image/66577153/acastro_180319_1777_0007.0.jpg' width='700px' /><br/>
-With all the uncertainty over when “shelter in place” orders will be lifted, Apple has recently been more willing to let early-stage products leave its campus for further development at the homes of its employees. This is according to Bloomberg's Mark Gurman, who today reported about how Apple has been adapting to the work-from-home culture that's now the norm across Big Tech and countless other companies around the world.
-<a href='https://www.theverge.com/2020/3/30/21200098/apple-secrecy-future-products-employees-work-from-home'> Source <a/>

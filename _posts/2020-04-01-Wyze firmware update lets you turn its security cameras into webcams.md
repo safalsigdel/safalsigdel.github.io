@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Jzmr47DgEgN2WNrkIOJTJNwUY_A=/0x0:1599x1066/1200x800/filters:focal(895x313:1149x567)/cdn.vox-cdn.com/uploads/chorus_image/image/66583956/Wyze_Labs_Inc_WyzeCam.0.jpg' width='700px' /><br/>
+Smart home gadget maker Wyze has released a firmware update and set of instructions for turning its low-cost security camera into a working webcam at a time when proper webcams from brands like Logitech are increasingly hard to find.
+<a href='https://www.theverge.com/2020/3/31/21202022/wyze-firmware-update-webcam-security-camera-transform-solution-guide'> Source <a/>

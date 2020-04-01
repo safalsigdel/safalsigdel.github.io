@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zfvlk5jVzaPD3oOysLCM3KzHuqs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66584028/acastro_200331_1777_zoom_0003.0.0.jpg' width='700px' /><br/>
+Zoom is apparently leaking some email addresses, user photos, and allowing some users to initiate a video call with strangers because of an issue with how the app handles contacts that it perceives work for the same organization, according to a report by Vice.
+<a href='https://www.theverge.com/2020/3/31/21201956/zoom-leak-user-information-email-addresses-photos-contacts-directory'> Source <a/>

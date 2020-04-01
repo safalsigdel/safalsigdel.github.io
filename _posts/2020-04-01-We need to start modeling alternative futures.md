@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bAz3wiiPaWRH45ui1obYRA_TbMs=/0x0:1650x1275/1200x800/filters:focal(693x506:957x770)/cdn.vox-cdn.com/uploads/chorus_image/image/66583129/FTI_Trends_2020.0.jpg' width='700px' /><br/>
+We're continuing our Vergecast interview series remotely during the COVID-19 pandemic and this week, Verge editor-in-chief Nilay Patel sits down via Skype with Amy Webb, the founder and CEO of The Future Today Institute.
+<a href='https://www.theverge.com/2020/3/31/21201103/amy-webb-futurist-predictions-interview-vergecast-podcast'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GvD8ts71gRPjKRrI_xW5bS9C4Jc=/0x0:2068x1379/1200x800/filters:focal(869x525:1199x855)/cdn.vox-cdn.com/uploads/chorus_image/image/66579215/awhite_200319_3954_9.0.jpg' width='700px' /><br/>
-Even if you would never see yourself buying a gaming laptop, you should take the time to read Monica Chin's review of the Asus ROG Zephyrus G14. There are a lot — I mean a LOT — of remarkable things about this laptop.
-<a href='https://www.theverge.com/2020/3/31/21200719/intel-vs-amd-vs-arm-laptops-2020'> Source <a/>
