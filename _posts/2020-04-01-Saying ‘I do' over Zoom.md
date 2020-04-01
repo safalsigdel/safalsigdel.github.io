@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jI9iy3XWXu4Usp-jjkyjqzz_AtM=/0x0:3000x2000/1200x800/filters:focal(1256x817:1736x1297)/cdn.vox-cdn.com/uploads/chorus_image/image/66587326/VRG_3955_zoomweddings.0.0.jpg' width='700px' /><br/>
+The day — her day — was finally here. As Lisa Kabouridis walked down the aisle with her two sons, accompanied by a 19th century waltz played on bagpipes, she was grateful the wedding had miraculously worked out. Despite the social isolation of the COVID-19 pandemic, her fiancxc3xa9, Graeme Blackett, stood smiling at the altar in a kilt.
+<a href='https://www.theverge.com/2020/4/1/21202466/zoom-wedding-coronavirus-covid-19-social-distance'> Source <a/>

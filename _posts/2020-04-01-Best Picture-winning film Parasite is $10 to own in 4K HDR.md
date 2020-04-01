@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KW8-2kxnicotJNwo98s-D-rhwCY=/0x0:2048x1365/1200x800/filters:focal(664x447:990x773)/cdn.vox-cdn.com/uploads/chorus_image/image/66587316/parasite.0.jpg' width='700px' /><br/>
+If you are looking for a great film to watch, Parasite from director Bong Joon-ho is $9.99 to own in 4K HDR through iTunes. This movie swept the 2020 Academy Awards, picking up big awards in several categories, including Best Picture (it's the first non-English film to do so), Best Director, Best Original Screenplay, and Best International Feature Film.
+<a href='https://www.theverge.com/good-deals/2020/4/1/21202766/bong-joon-ho-parasite-4k-hdr-deal-movies-anywhere-wyze-cam-humble-bundle-gaming'> Source <a/>
