@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QpYjnXqZ6UiatCkZFUXldVnOZfQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66585931/acastro_200331_1777_zoom_0002.0.0.jpg' width='700px' /><br/>
+Zoom has exploded in popularity as people turn to video calling software amid the ongoing coronavirus pandemic. The moment of huge growth has seen Zoom rocket to the top of iOS and Android app stores as people gather around it for yoga classes, school lessons, and virtual nights out. Even the UK government has been holding daily cabinet meetings over Zoom.
+<a href='https://www.theverge.com/2020/4/1/21202584/zoom-security-privacy-issues-video-conferencing-software-coronavirus-demand-response'> Source <a/>
