@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4yaA-Iwdt049H0FHFXxt0EKK_mg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66592699/vpavic_180607_2652_0081.0.jpg' width='700px' /><br/>
+Epic Games has mostly prevailed in a lawsuit over its “Phone It In” Fortnite emote, although saxophonist Leo Pellegrino can continue with a claim of false endorsement. A Pennsylvania judge ruled on the case earlier this week, offering a rare legal exploration of whether you can own a signature dance move — and the results look good for Epic.
+<a href='https://www.theverge.com/2020/4/2/21204111/epic-fortnite-pellegrino-lawsuit-phone-it-in-saxophone-emote-ruling'> Source <a/>
