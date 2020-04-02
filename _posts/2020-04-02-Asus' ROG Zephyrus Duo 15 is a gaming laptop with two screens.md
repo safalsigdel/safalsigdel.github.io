@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x9vRajkwRwEObA7s6kHTZBO98os=/0x0:5000x5000/1200x800/filters:focal(2100x2100:2900x2900)/cdn.vox-cdn.com/uploads/chorus_image/image/66591602/GX550_C04_v6_Light.0.png' width='700px' /><br/>
+It's a big day in the mobile-computing world. Intel has unveiled its new H-series chips, Nvidia has announced its RTX Super GPU lineup for mobile devices, and just about every major laptop manufacturer is introducing new laptops incorporating that hardware. But Asus is releasing something unlike anything else that's hitting shelves today: the Zephyrus Duo 15.
+<a href='https://www.theverge.com/2020/4/2/21202192/asuss-zephyrus-duo-15-release-price-gaming-dual-screen'> Source <a/>

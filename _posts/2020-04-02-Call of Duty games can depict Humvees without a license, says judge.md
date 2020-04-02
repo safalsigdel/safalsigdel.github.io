@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/l__ppQBxspG81kHVkzzRnvudCS8=/0x0:3840x2160/1200x800/filters:focal(1284x125:1898x739)/cdn.vox-cdn.com/uploads/chorus_image/image/66590416/MW_Reveal_05_wm.0.png' width='700px' /><br/>
+A New York judge has ruled that publisher Activision isn't infringing trademark by featuring Humvees in its Call of Duty series. The decision, handed down yesterday, is a mark in favor of game developers depicting actual military equipment to create a sense of realism.
+<a href='https://www.theverge.com/2020/4/1/21203414/activision-wins-humvee-call-of-duty-trademark-infringement-lawsuit'> Source <a/>
