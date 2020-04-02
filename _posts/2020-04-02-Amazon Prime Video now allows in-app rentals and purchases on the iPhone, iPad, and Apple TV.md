@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4JpXBDV_qJmE_EQsW6AYDQoc_vU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66589276/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-Amazon's Prime Video iOS and Apple TV apps now let customers make in-app purchases, including renting and buying films and TV shows. The change marks a huge shift in Amazon's approach to the App Store, which mandates a 30 percent cut on all in-app purchases.
-<a href='https://www.theverge.com/2020/4/1/21203294/amazon-prime-video-ios-in-app-purchases-iphone-ipad-apple-tv-change'> Source <a/>
