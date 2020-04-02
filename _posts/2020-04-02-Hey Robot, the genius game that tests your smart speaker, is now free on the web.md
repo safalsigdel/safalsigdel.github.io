@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IGQHJ1-jnFTABXytPQqOU4PUthg=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/66590237/630f4e673baedb9c934aaad97782c597_original.0.png' width='700px' /><br/>
+Hey Robot, the immensely clever board game from designer Frank Lantz's Everybody House Games, now has a free digital version on the web for anyone to play. Lantz says he and his collaborators, which include his wife Hilary and his son and daughter-in-law, threw together a “quick & dirty online version of Hey Robot for people to play during quarantine.” It's available here.
+<a href='https://www.theverge.com/2020/4/1/21203463/hey-robot-smart-speaker-alexa-siri-google-assistant-web-free-quarantine'> Source <a/>

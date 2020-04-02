@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WodkW1P7m3YYPOmK8Vazp5rwEiY=/0x0:2416x1358/1200x800/filters:focal(1046x430:1432x816)/cdn.vox-cdn.com/uploads/chorus_image/image/66590009/Screen_Shot_2019_03_26_at_1.46.09_PM.0.png' width='700px' /><br/>
+Apple and Goldman Sachs have allowed Apple Card users to defer their March 2020 credit payments due to the financial impact that the coronavirus is having on many people. According to Bloomberg, Apple has extended the grace period through April, letting its cardholders defer the payment this month.
+<a href='https://www.theverge.com/2020/4/1/21203429/apple-card-defer-april-payment-interest-free-goldman-sachs'> Source <a/>
