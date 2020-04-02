@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T7SAGC0KuOLLmH3s0dN5Jb8r6_0=/0x0:4782x2690/1200x800/filters:focal(2009x963:2773x1727)/cdn.vox-cdn.com/uploads/chorus_image/image/66592290/Peloton_App_3.0.jpg' width='700px' /><br/>
+Riding on the uptick of people seeking home workout solutions during the pandemic, Peloton has launched an app for Android TV so you no longer have to stream from a mobile app to a Chromecast if you've got a TV that runs on the platform. The app is available today on your Android TV's Google Play Store for access to the company's live and on-demand fitness classes.
+<a href='https://www.theverge.com/2020/4/2/21202979/peloton-android-tv-app-launch-social-distancing'> Source <a/>
