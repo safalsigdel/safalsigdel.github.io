@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TamE3avMKwZcBCMrjIXjv-Uidow=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66590623/acastro_190916_1777_juul_0001.0.0.jpg' width='700px' /><br/>
+The Federal Trade Commission is suing to unwind Altria's $12.8 billion investment in Juul Labs, alleging that the two companies worked together to eliminate competition in the e-cigarette market.
+<a href='https://www.theverge.com/2020/4/1/21203670/ftc-sues-to-unwind-altrias-12-8-billion-investment-in-juul'> Source <a/>

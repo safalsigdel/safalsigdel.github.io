@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WolDR6KkoeiyHptzdM6kWfXkAt4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66591597/razerblade15shot.0.jpg' width='700px' /><br/>
+Razer's new Blade 15 gaming laptop is a refresh both inside and out, with powerful new specs from Intel and Nvidia, as well as a few small and long-awaited adjustments to the chassis design.
+<a href='https://www.theverge.com/2020/4/2/21199978/razer-blade-15-2020-intel-10th-gen-i7-10875h-nvidia-rtx-2080-super-keyboard'> Source <a/>
