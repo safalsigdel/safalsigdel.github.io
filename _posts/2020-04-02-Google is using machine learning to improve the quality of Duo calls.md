@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2muCR12uih2sEV6ph0wo8S9xgSg=/0x0:800x600/1200x800/filters:focal(336x236:464x364)/cdn.vox-cdn.com/uploads/chorus_image/image/66593465/google_duo_logo_icon.0.png' width='700px' /><br/>
+Google has rolled out a new technology to improve audio quality in Duo calls when the service can't maintain a steady connection called WaveNetEQ. It's based on technology from Google's DeepMind division that aims to replace audio jitter with artificial noise that sounds just like human speech, generated using machine learning.
+<a href='https://www.theverge.com/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind'> Source <a/>
