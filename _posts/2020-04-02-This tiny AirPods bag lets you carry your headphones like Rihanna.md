@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xzXrJdg2jOJzd_s4-qXp4wEpp-0=/0x0:1566x1638/1200x800/filters:focal(905x1226:1155x1476)/cdn.vox-cdn.com/uploads/chorus_image/image/66588041/Screenshot_2020_04_01_at_11.51.04_AM.0.png' width='700px' /><br/>
-Y'all, I can't even. Just look at this thing:
-<a href='https://www.theverge.com/2020/4/1/21202919/airpods-apple-airbag-bag-twelve-south-price-rihanna'> Source <a/>
