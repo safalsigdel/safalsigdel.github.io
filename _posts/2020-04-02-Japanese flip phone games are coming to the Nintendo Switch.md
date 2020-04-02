@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dJP0FkPT0gZ8Du5STdzPCN0dTkA=/0x0:1440x960/1200x800/filters:focal(605x365:835x595)/cdn.vox-cdn.com/uploads/chorus_image/image/66591515/gmode.0.jpg' width='700px' /><br/>
-G-Mode, a company that churned out countless Java-based games for Japanese feature phones in the 2000s and beyond, has announced that it will be releasing some of those games on the Nintendo Switch as well. The first game in the new G-Mode Archives series, the 16-bit-ish JRPG Flyhight Cloudia, will come out on April 16th in Japan.
-<a href='https://www.theverge.com/2020/4/2/21203977/g-mode-archives-nintendo-switch-flip-phone-games-japan'> Source <a/>
