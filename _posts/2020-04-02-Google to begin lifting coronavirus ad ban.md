@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K-97wUWLrIuX2M8ok8da6A6BiYw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66593295/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
+Google will start to lift its ban on coronavirus-related advertising this week after its policy caught fire from Democratic lawmakers who feared it may bolster misinformation from the White House.
+<a href='https://www.theverge.com/2020/4/2/21204413/google-coronavirus-ad-ban-democrats-political-advertising-white-house-donald-trump'> Source <a/>
