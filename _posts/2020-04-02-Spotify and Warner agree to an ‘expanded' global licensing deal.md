@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DsijzR0K7UtgkdyGGh2NZ3GSqH4=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66590229/acastro_180213_1777_0004.0.jpg' width='700px' /><br/>
+Today, Spotify and Warner Music Group announced in a short statement that the two entities have renewed their global licensing agreement. This news comes about two months after Spotify ended its “global food fight” with Warner / Chappell Music (Warner Music Group's publishing arm), and the two entities inked a multi-territory licensing agreement.
+<a href='https://www.theverge.com/2020/4/1/21203324/spotify-warner-agree-expanded-global-licensing-deal'> Source <a/>

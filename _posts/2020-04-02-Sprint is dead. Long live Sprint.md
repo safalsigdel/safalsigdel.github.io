@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sITNZL98X3V8cgszSr7sWDdeLMo=/0x0:1024x678/1200x800/filters:focal(431x258:593x420)/cdn.vox-cdn.com/uploads/chorus_image/image/66591960/20120224-DSC_1448-VERGE.0.0.jpg' width='700px' /><br/>
+It's done. We now have just three major cell phone carriers in the US: Verizon, AT&T, and T-Mobile, which just completed its merger with Sprint. It's been such a long time coming and has seemed so inevitable that the news — on April Fools' Day, no less — felt like little more than a blip in the tech world.
+<a href='https://www.theverge.com/2020/4/2/21203930/sprint-eulogy-t-mobile-acquisition'> Source <a/>
