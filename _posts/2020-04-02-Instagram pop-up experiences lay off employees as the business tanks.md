@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GTszqQqJdeNyPo4o9MZkh1GxpIc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66589326/akrales_191010_3617_0746.0.jpg' width='700px' /><br/>
-Color Factory CEO Jeff Lind knew his Instagram pop-up experience had to close when the NBA canceled the remainder of its season. He was watching the Utah Jazz game when the announcers confirmed the match's postponement, followed by the league halting all future games.
-<a href='https://www.theverge.com/2020/4/1/21202081/instagram-museum-pop-up-color-factory-museum-ice-cream-lay-offs'> Source <a/>

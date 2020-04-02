@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4_8LF3F2vuwYOgl0Q6vu9-2lnCA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66591826/acastro_200331_1777_zoom_0003.0.0.jpg' width='700px' /><br/>
-[Ed. note: Today's newsletter and column was written and distributed before Zoom CEO Eric S. Yuan published his 1,300-word plan to address the security and privacy issues related to the company's unprecedented consumer growth. What follows is unedited because email is forever.]
-<a href='https://www.theverge.com/interface/2020/4/2/21202984/zoom-backlash-zoombombing-encryption-exploits-consumerization-of-it'> Source <a/>
