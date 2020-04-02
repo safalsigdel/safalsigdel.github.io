@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lrx7_hdqCYEsu_7A5dAT6t_IoZo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66590269/wjoel_1777_180403_youtube_004.0.jpg' width='700px' /><br/>
-YouTube used to be the cool kid on the block, but then TikTok showed up and everything changed. Now, YouTube is looking to compete directly with the short-form, user-generated content app by reportedly launching its own version called “Shorts.”
-<a href='https://www.theverge.com/2020/4/1/21203451/youtube-tiktok-competitor-shorts-music-google-report'> Source <a/>
