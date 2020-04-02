@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nlcCMzbr6LH9LCkEk1gjBUlwUaQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66585566/bking_200306_3928_0015.0.jpg' width='700px' /><br/>
-Samsung phones are notorious for dropping in price quickly — the S20, for example, went on sale for $200 below its MSRP within weeks of its first release. Perhaps as a way to mitigate that reality, Samsung has introduced an unusual buy-back program for its own store (via Droid Life) that gives customers 50 percent of the value of an S20-series phone if it's returned within two years.
-<a href='https://www.theverge.com/2020/4/1/21202566/samsung-buy-back-guarantee-deal-50-percent-galaxy-s20-price'> Source <a/>

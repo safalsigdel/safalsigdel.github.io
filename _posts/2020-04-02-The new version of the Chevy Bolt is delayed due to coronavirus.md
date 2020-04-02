@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vPnWG0JVzHUJX-5hGWZtsZuTgr0=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/66588313/aliptak_180919_2960_5223.0.jpg' width='700px' /><br/>
+The refreshed version of the Chevy Bolt has become one of the first electric vehicles to be delayed by the novel coronavirus pandemic, according to Automotive News and Electrek. It now won't arrive until 2021.
+<a href='https://www.theverge.com/2020/4/1/21203020/refreshed-chevy-bolt-delay-coronavirus-covid-19'> Source <a/>

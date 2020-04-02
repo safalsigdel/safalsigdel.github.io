@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EDo3WSyPm80YdpxmanSqcumowSI=/0x0:3000x2250/1200x800/filters:focal(1260x885:1740x1365)/cdn.vox-cdn.com/uploads/chorus_image/image/66588052/1215923322.jpg.0.jpg' width='700px' /><br/>
+If you're a weather geek, you must already know that Dark Sky, one of the most popular weather apps around, has been acquired by Apple — and that, as a result, anyone who uses an Android device is going to lose access to that app. In addition, a variety of other apps (some not even weather-related) will lose access to the Dark Sky API.
+<a href='https://www.theverge.com/2020/4/1/21201740/apple-dark-sky-alternatives-android-weather-1weather-carrot-accuweather-apps'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PNdCdyEpbnQOI-oySezIpEC7UJ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66586463/acasatro_180430_1777_sprint_Tmobile_0003.0.jpg' width='700px' /><br/>
-T-Mobile officially owns Sprint. The merger was formally completed today after clearing a number of legal hurdles over the last year, including a Department of Justice review and lawsuits from a number of states. The combination turns the United States' third and fourth largest wireless carriers into a far more substantial third place competitor to Verizon and AT&T.
-<a href='https://www.theverge.com/2020/4/1/21202726/tmobile-sprint-acquisition-ceo-finished-john-legere-steps-down'> Source <a/>

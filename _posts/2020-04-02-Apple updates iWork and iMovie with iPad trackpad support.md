@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qUpnU1o0q56O3D5Ci4QoS8XB-UM=/0x0:2312x1302/1200x800/filters:focal(412x770:780x1138)/cdn.vox-cdn.com/uploads/chorus_image/image/66588500/ipad_smart_keyboard.0.png' width='700px' /><br/>
+Apple recently released iPadOS 13.4 with a big new feature: full trackpad support for iPads. And now, it's started updating its major productivity apps, including Pages, Numbers, Keynote, and iMovie, to support mouse and trackpad integration.
+<a href='https://www.theverge.com/2020/4/1/21203091/apple-update-iwork-imovie-pages-keynote-numbers-ipad-trackpad-support-apps'> Source <a/>

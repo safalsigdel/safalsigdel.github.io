@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xeOCC7FLCzT_qimYoYNv4Ss0Az8=/0x0:1024x513/1200x800/filters:focal(431x176:593x338)/cdn.vox-cdn.com/uploads/chorus_image/image/66588231/cloudflare.0.png' width='700px' /><br/>
+Cloudflare's WARP VPN service began its life last year as a free add-on to the company's 1.1.1.1 app — which itself is a DNS resolver application that promises faster internet — and was immediately popular. (There were, at one point in time, approximately 2 million people on its waiting list.) Today, the company announced in a blog post that it's bringing WARP to macOS and Windows in beta.
+<a href='https://www.theverge.com/2020/4/1/21203050/cloudflare-warp-vpn-macos-windows'> Source <a/>

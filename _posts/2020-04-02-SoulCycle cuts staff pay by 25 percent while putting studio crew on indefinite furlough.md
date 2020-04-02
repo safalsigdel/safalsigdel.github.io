@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TiOu_jIbf-CXu8hEbeR2BHC4gSQ=/0x0:5196x3464/1200x800/filters:focal(2183x1317:3013x2147)/cdn.vox-cdn.com/uploads/chorus_image/image/66588066/1194499063.jpg.0.jpg' width='700px' /><br/>
+SoulCycle is cutting employee pay by 25 percent in response to studio closures across the United States, United Kingdom, and Canada due to the novel coronavirus pandemic. In an internal memo to full- and part-time staffers this week, SoulCycle said it will also furlough select employees without pay to allow them to seek potential unemployment benefits, with adjustments expected to take place over the next 30 days.
+<a href='https://www.theverge.com/2020/4/1/21203012/soulcycle-staff-pay-cut-furlough-coronavirus-pandemic'> Source <a/>

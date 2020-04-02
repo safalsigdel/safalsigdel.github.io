@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FAgNKs0RBdq0e1_QFyG2g7UzNkQ=/0x0:3124x2083/1200x800/filters:focal(1313x793:1811x1291)/cdn.vox-cdn.com/uploads/chorus_image/image/66584596/endlesss_3xproduct_black_1600x1200_2x.0.png' width='700px' /><br/>
-Collaborative music-making app Endlesss is now available for iOS. The app's been in beta for quite a long time, so newcomers will find that there's already a community using Endlesss and sharing and discussing projects on the software's dedicated Discord server.
-<a href='https://www.theverge.com/2020/3/31/21201913/endlesss-app-music-remotely-jam-out-loops-real-time'> Source <a/>

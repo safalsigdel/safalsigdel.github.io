@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HI9lzFucHLKlhqrQXxCN3XwEbuc=/0x0:660x371/1200x800/filters:focal(278x134:382x238)/cdn.vox-cdn.com/uploads/chorus_image/image/66588068/34898.0.jpg' width='700px' /><br/>
+New leaks for the OnePlus 8 Pro reveal that the phone may come in a good-looking deep blue color that might be exclusive to the Pro model of the OnePlus 8, reports WinFuture.
+<a href='https://www.theverge.com/2020/4/1/21202960/oneplus-8-pro-leaked-renders-ultramarine-blue-finish-cameras'> Source <a/>

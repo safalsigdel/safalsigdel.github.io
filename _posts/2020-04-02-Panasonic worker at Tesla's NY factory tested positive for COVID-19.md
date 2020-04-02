@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ds6Jac3nlu1JYQ7nUj6hOo3bRmY=/0x0:2736x1824/1200x800/filters:focal(1667x152:2103x588)/cdn.vox-cdn.com/uploads/chorus_image/image/66590576/gigafactory_2.0.jpg' width='700px' /><br/>
+A Panasonic employee at Tesla's solar panel factory in Buffalo, New York tested positive in March for COVID-19, the disease caused by the novel coronavirus, according to internal emails obtained by The Verge. It's the fourth known employee at Tesla's US facilities to test positive for COVID-19, following one at the Gigafactory in Nevada, and two office workers in California.
+<a href='https://www.theverge.com/2020/4/1/21202389/panasonic-worker-tesla-buffalo-gigafactory-coronavirus-covid-19'> Source <a/>

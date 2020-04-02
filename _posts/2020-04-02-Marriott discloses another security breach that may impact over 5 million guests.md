@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oAyCHZ1sYzgyvBLVh1uOgEEHs2w=/0x0:4902x3268/1200x800/filters:focal(2059x1242:2843x2026)/cdn.vox-cdn.com/uploads/chorus_image/image/66590351/1215219836.jpg.0.jpg' width='700px' /><br/>
+Marriott says a security breach may have exposed the personal information of 5.2 million guests. This marks Marriott's second data breach in recent years, following a breach in 2018.
+<a href='https://www.theverge.com/2020/4/1/21203313/marriott-database-security-breach-5-million-guests'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3laD0_sgpt26uv-068L_ycnKgMA=/0x0:5800x3258/1200x800/filters:focal(2436x1165:3364x2093)/cdn.vox-cdn.com/uploads/chorus_image/image/66582108/1215398452.jpg.0.jpg' width='700px' /><br/>
-Zoom states on its website and in its security white paper that it supports end-to-end encryption for its meetings. But new research from The Intercept reveals that's not exactly true.
-<a href='https://www.theverge.com/2020/3/31/21201234/zoom-end-to-end-encryption-video-chats-meetings'> Source <a/>

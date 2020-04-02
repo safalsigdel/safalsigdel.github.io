@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xoREVQibXJnexecQwPjvU-VM3a8=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19702736/bfarsace_120612_3896_0004.jpg' width='700px' /><br/>
-Motorola announced that presale has begun for the Moto G Stylus and Moto G Power, and both phones will be available on Monday, April 16th. These are the latest entries to Motorola's budget-friendly lineup of phones, and if you need a breakdown, my colleague Chaim Gartenberg spent time with both devices in February when they were announced, resulting in the hands-on video above.
-<a href='https://www.theverge.com/2020/4/1/21201926/moto-g-stylus-g-power-release-date-price-april-16-carrier-unlocked-price'> Source <a/>

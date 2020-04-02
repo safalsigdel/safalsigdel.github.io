@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UCUw0oXRav90PoslclMNzeHra-E=/0x0:1340x705/1200x800/filters:focal(563x246:777x460)/cdn.vox-cdn.com/uploads/chorus_image/image/66581925/Screen_Shot_2018_08_20_at_1.25.56_PM.0.png' width='700px' /><br/>
-Apple has acquired popular weather app Dark Sky and will be shutting down the Dark Sky Android and Wear OS apps in July, Dark Sky announced in a blog post today.
-<a href='https://www.theverge.com/2020/3/31/21201666/apple-acquires-weather-app-dark-sky-shut-down-android-wear-os-ios'> Source <a/>

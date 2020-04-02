@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g3puqPckEia6aZXsbtPtoFG0zSk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66582823/acastro_180308_2371_0002.0.jpg' width='700px' /><br/>
-With schools closed and governments issuing orders for people to stay at home, a lot of kids have no choice but to turn to their screens for school and any kind of socializing. The debate over how much screentime is healthy is nothing new, but our devices have arguably never played as big a role in our lives as they do now when it comes to staying connected amid a global pandemic.
-<a href='https://www.theverge.com/2020/3/31/21201807/children-adolescents-screentime-coronavirus-how-to-psychiatrist'> Source <a/>

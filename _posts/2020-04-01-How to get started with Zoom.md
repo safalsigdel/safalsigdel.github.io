@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7bYOJQ2vm5rMu1N01CuwHVuQPAI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66582408/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
-While many companies are already using the videoconferencing app Zoom for business meetings, interviews, and other purposes, individuals who are facing long days without contact with friends and family are moving to Zoom for face-to-face and group get-togethers.
-<a href='https://www.theverge.com/2020/3/31/21197215/how-to-zoom-free-account-get-started-register-sign-up-log-in-invite'> Source <a/>
