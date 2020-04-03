@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7f6f2G6K3uQt9IANEuQ25PKLJlA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66593211/acastro_200306_1777_Quibi_0001.0.0.jpg' width='700px' /><br/>
-Quibi, a mobile streaming service that is set to launch next week, and T-Mobile are partnering to give the telecom's customers free access to Quibi content. The specifics of the deal had been rumored since last month, but T-Mobile confirmed it today.
-<a href='https://www.theverge.com/2020/4/2/21204260/t-mobile-quibi-subscription-free-access'> Source <a/>
