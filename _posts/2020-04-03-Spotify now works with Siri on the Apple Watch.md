@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tIoDb8xPwAMwYW1d_jfqf6qxPIw=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66593500/acastro_180213_1777_0004.0.jpg' width='700px' /><br/>
-Apple Watch users can now ask Siri to play music through Spotify. With an update to Spotify's app today, spotted by 9to5Mac, you can now ask Siri to play music through Spotify by ending a music request with “on Spotify.” The example Spotify gives is something as simple as “Hey Siri, play music on Spotify.”
-<a href='https://www.theverge.com/2020/4/2/21204421/spotify-siri-apple-watch-voice-support-update'> Source <a/>

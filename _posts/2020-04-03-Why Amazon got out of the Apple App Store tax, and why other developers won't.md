@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/is1lZ29X0XXoibnp27fQ8jbP7JA=/0x0:640x367/1200x675/filters:focal(269x133:371x235)/cdn.vox-cdn.com/uploads/chorus_image/image/66597860/itunes_app_store_icon_field_640.0.jpg' width='700px' /><br/>
+Apple and Amazon very, very quietly unveiled a monumental app deal this week, without fanfare or, sadly, much in the way of transparency. Out of nowhere, buttons to buy or rent movies appeared in the Amazon Prime Video app. It's difficult to express how strange this is: for over a decade, Apple has stuck to the rule that all digital goods sold in iOS apps must use Apple's payment methods, including Apple's 30 percent cut.
+<a href='https://www.theverge.com/2020/4/3/21206400/apple-tax-amazon-tv-prime-30-percent-developers'> Source <a/>
