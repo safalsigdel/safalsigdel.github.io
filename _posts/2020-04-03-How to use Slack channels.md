@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F-Zf35l521R1_dQPz298wv_APNc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66593712/acastro_190412_1777_slack_0001.0.jpg' width='700px' /><br/>
-Slack, the instant messaging app of choice for many companies, has probably become an even bigger part of your life if you're working from home. And while Slack is usually used for work, it's also very useful for conversing with friends and family. Slack offers paid plans, but anyone can sign up for the free version and create a workspace, a virtual space where you can set up different conversations and projects.
-<a href='https://www.theverge.com/2020/4/2/21195572/slack-channels-workspace-work-from-home-remotely'> Source <a/>
