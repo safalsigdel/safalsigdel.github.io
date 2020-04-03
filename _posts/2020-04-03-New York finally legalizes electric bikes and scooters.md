@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wz2hiPvDE6rNANGn_oqLw2QrWx0=/0x0:4880x3376/1200x800/filters:focal(2050x1298:2830x2078)/cdn.vox-cdn.com/uploads/chorus_image/image/66593271/1208040894.jpg.0.jpg' width='700px' /><br/>
-New York's status as a stubborn holdout against electric bikes and scooters appears to finally be over. Included in the state's tentative budget agreement reached on April 1st is a provision that would legalize throttle-based bikes and scooters, which would effectively end the City of New York's unfair and frustratingly long-running crackdown on immigrant delivery workers.
-<a href='https://www.theverge.com/2020/4/2/21204232/new-york-legalizes-electric-bikes-scooters'> Source <a/>

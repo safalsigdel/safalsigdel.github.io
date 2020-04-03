@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v-DtHUjKjzLIACbb_3ojGTGrDHA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66597652/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
+Sometimes it takes years of criticism to get a company to do the right thing. Every once in a while, it can happen overnight.
+<a href='https://www.theverge.com/interface/2020/4/3/21203720/zoom-backlash-apology-zoom-bombings-eric-yuan'> Source <a/>
