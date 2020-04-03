@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K2fdwmVBmuA11Qo1PwiRBdXItzA=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/66594554/1208644622.jpg.0.jpg' width='700px' /><br/>
+Amazon has stopped selling N95 respirators, paper surgical masks, face shields, surgical gowns and gloves, and large-volume containers of sanitizer to general consumers, according to Recode. The company will instead prioritize the sale of these products to hospitals and governments, which can sign up to make purchases through a new portal on Amazon's business site.
+<a href='https://www.theverge.com/2020/4/2/21204625/amazon-sales-ban-n95-public-surgical-hospitals-governments'> Source <a/>

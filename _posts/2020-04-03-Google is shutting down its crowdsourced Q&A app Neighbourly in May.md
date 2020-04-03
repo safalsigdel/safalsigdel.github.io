@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XI2tKc3tU_IaBAhYnUfdrqKcBeY=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/66594842/neighboorly.0.png' width='700px' /><br/>
+Google has added another entry to its long list of discontinued products on Thursday with the planned shutdown of Neighbourly, its short-lived crowdsourced Q&A platform. The service will go dark on May 12th.
+<a href='https://www.theverge.com/2020/4/2/21205823/google-neighbourly-shut-down-crowdsource-local-questions'> Source <a/>

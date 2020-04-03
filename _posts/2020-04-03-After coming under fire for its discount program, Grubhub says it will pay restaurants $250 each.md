@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yWbxz1Pe8FXEYMaPkNhglm20FpI=/0x0:5000x3750/1200x800/filters:focal(2100x1475:2900x2275)/cdn.vox-cdn.com/uploads/chorus_image/image/66596123/1181258994.jpg.0.jpg' width='700px' /><br/>
+After it initially made restaurants participating in a discount program foot the bill, Grubhub on Thursday said it would be changing the program to cover the discount — for up to 25 orders per restaurant.
+<a href='https://www.theverge.com/2020/4/2/21206019/grubhub-restaurants-250-discounts-coronavirus'> Source <a/>

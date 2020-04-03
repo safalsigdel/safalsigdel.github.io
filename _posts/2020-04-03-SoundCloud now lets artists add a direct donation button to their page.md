@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qh0P2IpHWC4rdtnlqJ0FVEaYqGU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66596059/akrales_170802_1743_0094.0.jpg' width='700px' /><br/>
+SoundCloud has introduced a new donation button artists can add to their profile to help offset the financial repercussions of the COVID-19 pandemic. The initiative provides an additional way for fans to directly support acts on SoundCloud as live concerts and festivals are indefinitely postponed in many portions of the world.
+<a href='https://www.theverge.com/2020/4/2/21206133/soundcloud-artists-direct-donation-button-paypal-repost-coronavirus'> Source <a/>

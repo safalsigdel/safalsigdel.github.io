@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lP8jALQeTNJN_3gmGH4-T2S6NUw=/0x0:1600x800/1200x800/filters:focal(672x272:928x528)/cdn.vox-cdn.com/uploads/chorus_image/image/66595266/apple_tag.0.png' width='700px' /><br/>
+We've known that Apple has been working on a Tile-like tracking tag system for months, but the biggest confirmation of the upcoming product yet has come in a since-deleted support video posted by Apple today. The video straight-up confirms both the existence of the tracking tags and the “AirTag” name, as spotted by Appleosophy.
+<a href='https://www.theverge.com/2020/4/2/21205994/apple-airtags-name-confirmed-tile-tracker-rumor-leak'> Source <a/>

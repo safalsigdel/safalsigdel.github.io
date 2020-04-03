@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ja_NhxxZ1SC2Mx4hDJjBiuFIG7s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66590794/akrales_181105_3069_0030.0.jpg' width='700px' /><br/>
-Facebook and Fox News will be hosting a virtual town hall tomorrow at 7PM ET about the coronavirus pandemic using Facebook's Portal video-calling devices, the two companies announced today.
-<a href='https://www.theverge.com/2020/4/1/21203634/facebook-fox-news-host-virtual-town-hall-portal-coronavirus'> Source <a/>

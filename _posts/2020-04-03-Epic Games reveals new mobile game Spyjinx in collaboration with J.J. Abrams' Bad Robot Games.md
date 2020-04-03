@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M5u07Au948Liu_w92ecZC_7wi_A=/0x0:847x597/1200x800/filters:focal(357x232:491x366)/cdn.vox-cdn.com/uploads/chorus_image/image/66596741/Desktop_Screenshot_2020.04.02___16.26.54.11__2_.0.png' width='700px' /><br/>
+Fortnite creator Epic has revealed a new mobile game developed in collaboration with J.J. Abrams' game development company Bad Robot Games, a spinoff of his production studio Bad Robot that was formed back in 2018 with funding from Epic investor Tencent. Abrams previously collaborated with Epic to debut a trailer of Star Wars: The Rise of Skywalker within Fortnite.
+<a href='https://www.theverge.com/2020/4/2/21206332/epic-games-spyjinx-bad-robot-games-reveal-ios-android-beta-release'> Source <a/>

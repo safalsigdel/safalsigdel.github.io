@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V9wasJeztib6ZRJL9XRH525BPVU=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/66594622/TLOUPII_DEMO_SCREEN_03.0.jpg' width='700px' /><br/>
+Sony announced on Thursday that it has delayed Naughty Dog's The Last of Us Part II “until further notice” because of the COVID-19 pandemic. The game had been previously scheduled to launch on May 29th.
+<a href='https://www.theverge.com/2020/4/2/21205819/sony-the-last-of-us-part-ii-delayed-indefinitely-coronavirus-iron-man-vr'> Source <a/>

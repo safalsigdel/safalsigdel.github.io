@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ceIQwJWQJBoVmxvAj33lkaCHaG0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66596710/acastro_200331_1777_zoom_0003.0.0.jpg' width='700px' /><br/>
+An automated tool developed by security researchers is able to find around 100 Zoom meeting IDs in an hour and information for nearly 2,400 Zoom meetings in a single day of scans, according to a new report from security expert Brian Krebs.
+<a href='https://www.theverge.com/2020/4/2/21206061/zoom-meeting-id-zwardial-automated-tool'> Source <a/>

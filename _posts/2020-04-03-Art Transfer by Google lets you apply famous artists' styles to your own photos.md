@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vOHA7wxlJ-RPOe0DfzTSEXjqiN8=/0x0:768x768/1200x800/filters:focal(428x202:550x324)/cdn.vox-cdn.com/uploads/chorus_image/image/66594763/zelda1.0.jpg' width='700px' /><br/>
+A new feature in Google's Arts & Culture app allows you to turn your boring old photos into works of art — or at least, reasonable approximations — the company announced in a blog post. Instead of creating an overlay on your original image or blending it with an image of an artwork, Art Transfer “kicks off a unique algorithmic recreation of your photo inspired by the specific art style you have chosen,” according to Google.
+<a href='https://www.theverge.com/2020/4/2/21204498/art-transfer-google-artists-style-photos'> Source <a/>
