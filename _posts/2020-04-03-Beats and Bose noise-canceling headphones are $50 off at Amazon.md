@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cECjM1jDnEGVQsc2yMEQnlziQqw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66599270/cwelch_191024_3759_0009.0.jpg' width='700px' /><br/>
+A few popular noise-canceling headphones are discounted today, including the new Beats Solo Pro over-ear wireless headphones. These usually cost $300, and they're $50 off today at Amazon. Each color is discounted, so whether standard black, red, or sky blue is your favorite hue, the choice is yours.
+<a href='https://www.theverge.com/good-deals/2020/4/3/21206786/beats-solo-pro-bose-700-noise-canceling-headphones-keysmart-pro-steelseries-arctis'> Source <a/>

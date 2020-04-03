@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O-udtMnxAHHbLYU-LRRk_z4dCr4=/0x0:1020x681/1200x800/filters:focal(429x260:591x422)/cdn.vox-cdn.com/uploads/chorus_image/image/66594719/ebay-logo-stock_1020.0.1459433791.0.jpg' width='700px' /><br/>
-eBay is launching a new “Up & Running” program today that aims to help physical retailers move some of their business online if they've been shutdown or are struggling due to the COVID-19 pandemic. As part of that program, eBay is waiving seller fees for new businesses to the platform starting today, April 2nd, through June 30th.
-<a href='https://www.theverge.com/2020/4/2/21205800/ebay-up-and-running-waive-seller-fees-new-businesses-digital-sales-benefits'> Source <a/>
