@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zNPgkqpWDH3aM1EpHUEaJc4ae_o=/0x0:2040x1148/1200x675/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/66597891/DSC00765.0.jpg' width='700px' /><br/>
+The Brydge Pro Plus has both great and terrible timing. Originally conceived as a niche product to leverage iPadOS' janky-but-somewhat-useful pointer support, the Pro Plus' trackpad suddenly looked a lot more practical once Apple vastly improved the feature with this month's unexpected release of iPadOS 13.4. Now, the iPad-plus-Brydge-keyboard combination can be more laptop-like than ever.
+<a href='https://www.theverge.com/2020/4/3/21206568/brydge-pro-plus-review-ipad-pro-keyboard-trackpad'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C52uTWgEqd7LBGYwXnHalKdwPts=/0x0:4958x3306/1200x800/filters:focal(2083x1257:2875x2049)/cdn.vox-cdn.com/uploads/chorus_image/image/66593532/1149297478.jpg.0.jpg' width='700px' /><br/>
-Last week, Everlane's consumer experience team was gutted by layoffs in the middle of its union drive, a huge blow to the nascent organizing effort. Now, the former employees are fighting back, accusing the CEO of retaliation and threatening a legal challenge if the employees aren't reinstated.
-<a href='https://www.theverge.com/2020/4/2/21069279/everlane-customer-experience-union-majority-illegal'> Source <a/>
