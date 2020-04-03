@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IOHxKtsAUUIe98zFdZnb6wwPoSg=/0x0:1961x1308/1200x800/filters:focal(1043x729:1355x1041)/cdn.vox-cdn.com/uploads/chorus_image/image/66593072/blinkmini.0.jpg' width='700px' /><br/>
-The latest addition to Amazon's Blink lineup of home security cams is the Blink Mini, a compact indoor camera that supports two-way audio. It's available for preorder through Amazon now for $35 (two of them cost $65, saving you $5), and it will release in a few weeks. Considering the low cost, it seems to hit all of the fundamentals that you might expect from a home security camera, plus some.
-<a href='https://www.theverge.com/2020/4/2/21204318/amazon-blink-mini-small-indoor-security-camera-two-way-audio-1080p'> Source <a/>
