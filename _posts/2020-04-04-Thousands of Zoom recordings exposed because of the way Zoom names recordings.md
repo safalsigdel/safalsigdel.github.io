@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vTv70RyoeVffU_g9N90zbzmBZ08=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66600999/acastro_200331_1777_zoom_0003.0.5.jpg' width='700px' /><br/>
+Thousands of Zoom cloud recordings have been exposed on the web because of the way Zoom names its recordings, according to a report by The Washington Post. The recordings are apparently named in “an identical way” and many have been posted onto unprotected Amazon Web Services (AWS) buckets, making it possible to find them through an online search.
+<a href='https://www.theverge.com/2020/4/3/21207134/zoom-recordings-exposed-thousands-identical-naming-search'> Source <a/>

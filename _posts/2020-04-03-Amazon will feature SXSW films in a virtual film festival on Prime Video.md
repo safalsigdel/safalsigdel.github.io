@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9ItNbd4s3o_iUYsWsrabMW_OJAw=/0x0:3000x1752/1200x800/filters:focal(1260x636:1740x1116)/cdn.vox-cdn.com/uploads/chorus_image/image/66595104/1206292285.jpg.0.jpg' width='700px' /><br/>
-Amazon Prime Video is partnering with South by Southwest to launch what it's calling a film festival collection, which will include works from filmmakers who had been scheduled to screen at the 2020 event in Austin. Originally scheduled for mid-March, the 34-year-old tech, music, and film fest was canceled by Austin Mayor Steve Adler on March 6th due to public health concerns related to the COVID-19 pandemic.
-<a href='https://www.theverge.com/2020/4/2/21205834/amazon-prime-video-sxsw-2020-films-virtual-film-festival'> Source <a/>

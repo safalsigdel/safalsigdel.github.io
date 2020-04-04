@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mHJ0sdOE6p1DtAj0u1L1HGp7Usk=/0x0:3000x1994/1200x800/filters:focal(1260x757:1740x1237)/cdn.vox-cdn.com/uploads/chorus_image/image/66595807/GMEVDay02__1_.0.jpeg' width='700px' /><br/>
-General Motors and Honda are joining forces to develop two new electric vehicles, the companies announced on Thursday. They'll have Honda nameplates but will be built using GM's newly announced flexible EV platform with its Ultium-branded improved battery packs.
-<a href='https://www.theverge.com/2020/4/2/21206074/gm-honda-ev-electric-vehicle-deal-battery-year-release'> Source <a/>

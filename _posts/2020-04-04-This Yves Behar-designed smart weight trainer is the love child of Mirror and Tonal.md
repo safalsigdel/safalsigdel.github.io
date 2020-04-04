@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NLyQsveE3cUJcePJYuxDent5aSU=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/66601192/forme_connected_training_machine.0.jpg' width='700px' /><br/>
+As more people seek solutions for working out at home during the global measures to self-quarantine and social distance, another connected fitness equipment enters an increasingly crowded category. Forme, a smart mirror with a weight training system built in, combines the look of the reflective Mirror and the pulleys of Tonal, with a few other touches by industrial designer Yves Behar.
+<a href='https://www.theverge.com/2020/4/3/21207396/forme-connected-fitness-equipment-mirror-tonal-yves-behar'> Source <a/>

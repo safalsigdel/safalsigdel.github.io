@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/owxpXOrybRkz1wFZU1Wg52t9GWU=/0x0:2040x1360/1200x800/filters:focal(876x574:1202x900)/cdn.vox-cdn.com/uploads/chorus_image/image/61841687/akrales_180813_2827_0020.0.jpg' width='700px' /><br/>
-If you've used Android for quite some time, it's likely you've mistakenly swiped away a notification or two for one reason or another. Maybe you're swiping in a hurry, or you accidentally cleared everything in the notification drawer without meaning to, or maybe you just wonder where all your notifications go and if there's a historical list of them after you've dismissed them.
-<a href='https://www.theverge.com/2018/10/19/18001608/android-notification-history-how-to-view'> Source <a/>

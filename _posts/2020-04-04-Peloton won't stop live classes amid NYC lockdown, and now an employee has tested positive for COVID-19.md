@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qzSQl8yUr-GqsSdlOAW2wiyi22k=/0x0:7878x5252/1200x800/filters:focal(3309x1996:4569x3256)/cdn.vox-cdn.com/uploads/chorus_image/image/66602392/1186506982.jpg.0.jpg' width='700px' /><br/>
+An employee at Peloton's New York City-based production studio has tested positive for COVID-19, the company said in a Facebook message to members late Friday night. The studio will be temporarily closed for a cleaning, though the message says production will pick back up on Tuesday, April 7th with “a skeleton crew.”
+<a href='https://www.theverge.com/2020/4/3/21207751/peloton-live-classes-employee-tested-positive-covid-19'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/coljguzkB-ncTyionwqStn94CD0=/0x0:5929x4047/1200x800/filters:focal(2532x783:3480x1731)/cdn.vox-cdn.com/uploads/chorus_image/image/66595693/1205021542.jpg.0.jpg' width='700px' /><br/>
-As COVID-19 forces schools, offices, and social groups to move their daily operations online, video calling service Zoom has become the new centerpiece of many people's daily life. But the increased use has brought heightened scrutiny to the company's data practices. Every day, it seems, new vulnerabilities in the platform are coming to light.
-<a href='https://www.theverge.com/2020/4/2/21205853/zoom-linkedin-feature-disabled-privacy-security-video-calling'> Source <a/>
