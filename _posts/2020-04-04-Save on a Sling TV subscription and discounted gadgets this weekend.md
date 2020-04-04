@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ls6m0bvJkaiG1AR9-RfX-0Pj5kI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66603317/sling10_2040.0.0.jpg' width='700px' /><br/>
+Welcome to the weekend. The best deals you can currently get on tech are a mix of new offers and ones that we've collected during the past week. All of them should hopefully make your self-isolation time a little more enjoyable.
+<a href='https://www.theverge.com/good-deals/2020/4/4/21206886/sling-tv-blue-tv-streaming-discount-beats-noise-canceling-headphones-wireless-deal'> Source <a/>
