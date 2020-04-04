@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/Xn3lRh_TpKZM5bMM9h_9gBhPE2k=/0x0:5600x3597/1200x800/filters:focal(2352x1351:3248x2247)/cdn.vox-cdn.com/uploads/chorus_image/image/66603789/1176353209.jpg.0.jpg' width='700px' /><br/>
-5G phone masts are being set alight in the UK, after online conspiracy theories have misleadingly linked the cell towers to the coronavirus pandemic. The BBC reports that at least three 5G towers were set alight last week, and police and fire services were called to extinguish the flames.
+5G phone masts are being set alight in the UK, after online conspiracy theories have misleadingly linked the cell towers to the coronavirus pandemic. The BBC reports that at least three 5G towers were set alight within the last week, and police and fire services were called to extinguish the flames.
 <a href='https://www.theverge.com/2020/4/4/21207927/5g-towers-burning-uk-coronavirus-conspiracy-theory-link'> Source <a/>
