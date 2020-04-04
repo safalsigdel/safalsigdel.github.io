@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1wD0p4d-9D_hGgFc2ICL0RTUrhQ=/0x0:1100x731/1200x800/filters:focal(462x278:638x454)/cdn.vox-cdn.com/uploads/chorus_image/image/66603637/motorolatexas-14.0.jpg' width='700px' /><br/>
+Last week, we made the case that tech manufacturing was uniquely vulnerable to pandemic problems, from a combination of just-in-time manufacturing practices and a far-flung network of suppliers. But just a week later, the news is even worse.
+<a href='https://www.theverge.com/2020/4/4/21207276/tech-manufacturing-china-supply-chain-lithium-benchmark'> Source <a/>
