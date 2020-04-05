@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/97AuyI_W63hkumIt9zlYsycGwGQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66605517/etsy16_2040.0.0.jpg' width='700px' /><br/>
+Etsy sellers have sold hundreds of thousands of cloth face masks in the past few days, the company says, and demand is likely to outstrip supply soon now that the Centers for Disease Control and Prevention (CDC) has shifted its guidance on wearing such masks in public.
+<a href='https://www.theverge.com/2020/4/5/21207986/etsy-cloth-face-masks-covid19'> Source <a/>

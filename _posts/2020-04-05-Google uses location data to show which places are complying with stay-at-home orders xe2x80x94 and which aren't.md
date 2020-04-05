@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rz0XusnvK3C_deLPj9DUz3WiKBY=/0x0:1900x1300/1200x800/filters:focal(842x432:1146x736)/cdn.vox-cdn.com/uploads/chorus_image/image/66597426/googe_covid.5.jpg' width='700px' /><br/>
-Google is using location data gathered from smartphones to help public health officials understand how people's movements have changed in response to the global COVID-19 pandemic. In a blog post early Friday morning, Google announced the release of its COVID-19 Community Mobility Reports.
-<a href='https://www.theverge.com/2020/4/3/21206318/google-location-data-mobility-reports-covid-19-privacy'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sM-ZYVDbUxc7VbK6hb07XgR29ag=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66605435/acastro_190531_1777_e3_lede.0.jpg' width='700px' /><br/>
+The Entertainment Software Association has notified partners that E3 2021 will be held June 15th to 17th, 2021, according to GamesIndustry.biz. The ESA canceled E3 2020 last month due to concerns about the COVID-19 outbreak but is reportedly working on a  “reimagined” event for 2021.
+<a href='https://www.theverge.com/2020/4/5/21208583/e3-2021-june-coronavirus'> Source <a/>
