@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z5gBi7_t--BDcDunpWJ5QzECWU0=/0x0:2048x1440/1200x800/filters:focal(861x557:1187x883)/cdn.vox-cdn.com/uploads/chorus_image/image/66600266/04_03_20_11_21_26_AM.0.png' width='700px' /><br/>
-My family never really had many traditions. Before moving to New York from Bangkok, we didn't celebrate Thanksgiving or Christmas, and after my father passed away a few days after my seventh birthday, it was hard to fully celebrate knowing that the week bookends itself with life and death.
-<a href='https://www.theverge.com/2020/4/3/21207202/sims-4-birthday-party-quarantine-social-distance'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cbmbwWGCloP2oomW11Xu-jj50x0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66608469/acastro_200403_3960_quibi_0001.0.0.jpg' width='700px' /><br/>
+Not much is going as planned for Meg Whitman. For instance, there's a pandemic on.
+<a href='https://www.theverge.com/2020/4/6/21208973/quibi-meg-whitman-ceo-app-video-streaming-short-form-app'> Source <a/>
