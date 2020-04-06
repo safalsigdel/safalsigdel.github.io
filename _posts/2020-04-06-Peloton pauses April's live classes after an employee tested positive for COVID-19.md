@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fAJJIP_Rgu0qB_IwKjtrI0Hu43k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66608906/akrales_170407_1569_0683.0.0.jpg' width='700px' /><br/>
+Peloton has announced that it will stop producing and airing live cycling and running classes until April 30th after an employee tested positive for COVID-19 late last week. The company originally planned to reopen its studios on Tuesday, April 7th, taking the weekend to deep clean its facilities.
+<a href='https://www.theverge.com/2020/4/6/21209562/peloton-stop-live-classes-coronavirus-covid-19-pandemic-employee'> Source <a/>

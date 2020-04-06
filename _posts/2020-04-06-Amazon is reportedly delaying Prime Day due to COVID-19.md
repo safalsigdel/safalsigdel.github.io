@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AccGpuDrYWlehXg6lpt_V5lMMLo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66600744/acastro_180329_1777_amazon_0001.0.jpg' width='700px' /><br/>
-Amazon is planning to delay Prime Day until at least August due to the ongoing pandemic, according to internal meeting notes viewed by Reuters. Amazon expects it could lose $100 million “from excess devices it may now have to sell at a discount” because of the delay, according to Reuters. Amazon declined to comment.
-<a href='https://www.theverge.com/2020/4/3/21207271/amazon-prime-day-delay-covid-19-coronavirus-august'> Source <a/>
