@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xP-D_KtqYwjm61H7upLw-gCUFnw=/0x0:2706x1763/1200x800/filters:focal(1137x666:1569x1098)/cdn.vox-cdn.com/uploads/chorus_image/image/66606243/1137874464.jpg.0.jpg' width='700px' /><br/>
+Appearing before a background that said “we care” over an image of a heart-shaped planet Earth, Zoom CEO Eric S. Yuan said Sunday on CNN that despite the company's recent security problems, its “intentions are good.”
+<a href='https://www.theverge.com/2020/4/5/21208636/zoom-ceo-yuan-security-privacy-concerns'> Source <a/>
