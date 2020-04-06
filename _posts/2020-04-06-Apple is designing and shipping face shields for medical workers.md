@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9116vXPfXHdmHtpiV9sYoqkTtA0=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/66607658/cook.0.jpg' width='700px' /><br/>
+Apple CEO Tim Cook has provided an update on the company's response to the COVID-19 crisis. In a video posted to Twitter, Cook says Apple has sourced more than 20 million masks through its global supply chain and is working with governments to donate them where they're needed.
+<a href='https://www.theverge.com/2020/4/5/21209270/apple-face-shields-masks-covid-19-coronavirus'> Source <a/>
