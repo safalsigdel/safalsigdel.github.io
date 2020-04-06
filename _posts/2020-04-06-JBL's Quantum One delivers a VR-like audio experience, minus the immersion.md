@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pQwxyX0-hoNOWGTEkiPoIEJQ3LQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66608242/cfaulkner_200324_3948_0002.0.jpg' width='700px' /><br/>
+The JBL Quantum One wired PC gaming headset has one really interesting trick that unfortunately isn't worth the hype — or the $300 price. It uses a gyroscope to track your head movements while you play games in order to enhance the surround-sound effect. Compared to most headsets that use only software-based surround sound, JBL's hardware can make you feel like you're in the game itself.
+<a href='https://www.theverge.com/2020/4/6/21207459/jbl-quantum-one-headset-vr-binaural-audio-pc'> Source <a/>
