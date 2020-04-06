@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CTAW25mIYrd6k-jtglmo4-LnlmY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66601093/acastro_200207_3900_chrome_0001.0.0.jpg' width='700px' /><br/>
-With the launch of Chrome 80 in February, Google began gradually rolling out an update that changes how third-party cookies work on websites, called “SameSite.” Today, it announced that it is temporarily rolling back this SameSite requirements in light of the COVID-19 outbreak.
-<a href='https://www.theverge.com/2020/4/3/21207248/chrome-samesite-cookie-roll-back-update-privacy-settings'> Source <a/>

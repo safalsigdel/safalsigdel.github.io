@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L34XHp0vePVAnfZuyVJNx1fCJM8=/0x0:3317x2137/1200x800/filters:focal(1394x804:1924x1334)/cdn.vox-cdn.com/uploads/chorus_image/image/66609199/Chromebook_Flip_C436_2A_Transparent_Silver_7.0.jpg' width='700px' /><br/>
+Asus has released its Chromebook Flip C436, a lightweight, premium laptop it previewed at CES in January. As expected, the new 13-inch Flip has a similar magnesium alloy body as its predecessor, the C434, and it weighs in at just 2.58 pounds, according to Asus.
+<a href='https://www.theverge.com/2020/4/6/21209524/asus-flip-c436-chromebook-release-project-athena-price'> Source <a/>
