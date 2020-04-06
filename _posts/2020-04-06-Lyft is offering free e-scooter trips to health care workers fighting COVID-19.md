@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ll5oyMIEM9fDn__grhaFe_Ni0YQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66598160/akrales_190321_3312_0010.0.jpg' width='700px' /><br/>
-Lyft will provide free electric scooter rides to essential workers in response to the COVID-19 pandemic. While most scooter-sharing programs in the US have temporarily ceased operations in response to the pandemic, Lyft is still operating scooters in a handful of cities, and the company wants to support the transportation needs of health care workers and others on the frontlines of the crisis.
-<a href='https://www.theverge.com/2020/4/3/21206656/lyft-scooter-free-essential-workers-coronavirus-health-care'> Source <a/>
