@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oIbLSmFpZ3lOo5P2NS_T6MB1e9c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66600801/acastro_200331_1777_zoom_0002.0.0.jpg' width='700px' /><br/>
-Federal prosecutors are now warning pranksters and hackers of the potential legal implications of “Zoombombing,” wherein someone successfully invades a public or sometimes even private meeting over the videoconferencing platform to broadcast shock videos, pornography, or other disruptive content.
-<a href='https://www.theverge.com/2020/4/3/21207260/zoombombing-crime-zoom-video-conference-hacking-pranks-doj-fbi'> Source <a/>
