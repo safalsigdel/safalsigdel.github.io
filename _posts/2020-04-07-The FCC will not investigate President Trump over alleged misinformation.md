@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DQYvAUim0fxuZsGcFPp-91kgDk8=/0x0:3294x2196/1200x800/filters:focal(715x567:1241x1093)/cdn.vox-cdn.com/uploads/chorus_image/image/66610261/1209192334.jpg.0.jpg' width='700px' /><br/>
+The Federal Communications Commission will not pursue misinformation complaints against broadcasters who air President Trump's daily press conferences, the commission announced today.
+<a href='https://www.theverge.com/2020/4/6/21209818/fcc-misinformation-trump-coronavirus-free-speech-covid19'> Source <a/>

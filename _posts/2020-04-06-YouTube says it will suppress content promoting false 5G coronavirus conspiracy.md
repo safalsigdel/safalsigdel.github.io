@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sy7XRLRyVb_Hq2W4KqPHV55zLsE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66606665/acastro_180806_1777_youtube_cancel_0001.0.jpg' width='700px' /><br/>
-YouTube said it would reduce the number of videos it recommends to users on its platform which spread false claims that 5G technology is linked to the coronavirus, The Guardian reported.
-<a href='https://www.theverge.com/2020/4/5/21208956/youtube-suppress-false-5g-coronavirus-conspiracy'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1qK1MQm6-MfPLh06DQgAmTRRLTM=/0x0:2250x1627/1200x800/filters:focal(945x634:1305x994)/cdn.vox-cdn.com/uploads/chorus_image/image/66611180/ALL_RISE.0.jpg' width='700px' /><br/>
+CBS drama series All Rise will produce a “virtual” episode themed on the COVID-19 pandemic, shooting footage in the actors' homes and using VFX to create backgrounds. It's the first episode of a primetime scripted series to be produced while practicing social distancing by using remote programs like FaceTime, WebEx, and Zoom.
+<a href='https://www.theverge.com/2020/4/6/21210080/cbs-all-rise-coronavirus-episode-social-distancing-zoom-facetime'> Source <a/>

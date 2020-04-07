@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UAjUAn1qJPYSo1SXnr7ucysXh7I=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66611152/image.0.0.jpg' width='700px' /><br/>
+A number of bands and artists are coming together to put on a virtual benefit concert in Minecraft to raise money for coronavirus research.
+<a href='https://www.theverge.com/2020/4/6/21210026/american-football-anamanaguchi-minecraft-concert-coronavirus-digital-festival'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pq1-3u0sACHvRfUMeLrYWoe2toU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66611044/acastro_200403_3960_quibi_0004.0.0.jpg' width='700px' /><br/>
+Mobile video app Quibi, which just launched today, experienced a one-hour outage this afternoon, the company confirmed. Quibi first announced on Twitter that there were problems at 2:07PM ET and said it was fixed at 3:07PM ET.
+<a href='https://www.theverge.com/2020/4/6/21210050/quibi-outage-launch-day-service-down-app'> Source <a/>

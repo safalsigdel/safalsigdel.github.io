@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/g9rzYVw7qH59UpZBMeZToUXXdLM=/0x0:2242x1472/1200x800/filters:focal(942x557:1300x915)/cdn.vox-cdn.com/uploads/chorus_image/image/66610644/1189070720.jpg.0.jpg' width='700px' /><br/>
+Zoox, the ambitious self-driving startup said to be worth over $3 billion, laid off almost all of its contract workers last week, including its backup drivers who ride around in the company's autonomous vehicles. Around 120 people are said to be out of work.
+<a href='https://www.theverge.com/2020/4/6/21210000/zoox-layoff-coronavirus-self-driving-car-safety-drivers'> Source <a/>

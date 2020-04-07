@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vB7jhpjbz_bHVrTaegDGPyCHyNc=/0x0:1440x810/1200x800/filters:focal(605x290:835x520)/cdn.vox-cdn.com/uploads/chorus_image/image/66611419/miekii.0.png' width='700px' /><br/>
+New York City is empty these days. The streets have quieted; the normal pedestrian bustle is nonexistent, and the noise of traffic has turned mostly into near-constant ambulance sirens. Most of us are hunkered down, hibernating until this season of plague shifts into something new. One person who's not is Miekii, a New York City bike messenger who's still out and about delivering food to people across Manhattan for Uber Eats.
+<a href='https://www.theverge.com/2020/4/6/21209986/twitch-bike-messenger-nyc-manhattan-uber-eats'> Source <a/>

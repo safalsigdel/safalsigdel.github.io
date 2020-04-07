@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IdBajWiCi-PO9OeHdStAFsAz6zI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66613441/akrales_191017_3725_0115.0.jpg' width='700px' /><br/>
+Google released an update for the Pixel 4 today requiring users to have their eyes open when using face unlock to open the phone.
+<a href='https://www.theverge.com/2020/4/6/21211230/google-update-pixel-4-eyes-open-fix-face-unlock'> Source <a/>
