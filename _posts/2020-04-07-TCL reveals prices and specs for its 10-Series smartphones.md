@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-TCL — best known for its well-received and wallet-friendly TVs — announced at CES earlier this year that it would be entering the mobile phone business. And now, we've finally got the full details on its first three phones — the TCL 10 Pro, 10L, and 10 5G — which will all cost under $500 when they're released in Q2 this year.
-<a href='https://www.theverge.com/circuitbreaker/2020/4/6/21207245/tcl-10-pro-5g-10l-price-release-date-budget-phones-specs-features'> Source <a/>
