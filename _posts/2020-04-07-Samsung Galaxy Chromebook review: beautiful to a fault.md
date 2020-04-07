@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YjM6-VZbl26fxZ_-2U1P1ewnjZQ=/0x0:2040x1360/1200x675/filters:focal(883x585:1209x911)/cdn.vox-cdn.com/uploads/chorus_image/image/66608249/mchin_200402_3957_0003.0.jpg' width='700px' /><br/>
-Who is buying a $1,000 Chromebook? That's the question people debated across the internet when Google unveiled the Pixelbook in 2017, and it's a debate that will continue as the 2-in-1 Samsung Galaxy Chromebook makes its way onto shelves.
-<a href='https://www.theverge.com/2020/4/6/21206151/samsung-galaxy-chromebook-review-android-laptop'> Source <a/>
