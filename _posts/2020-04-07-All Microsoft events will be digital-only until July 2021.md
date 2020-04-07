@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2fvxPCUJvnt9yPfk6DUwoWtJNGQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66614849/acastro_180507_1777_microsoft_0001.0.jpg' width='700px' /><br/>
+Microsoft is planning to make all of its internal and external events digital-only until July 2021 due to the ongoing coronavirus pandemic. The software maker had already revealed Build 2020, due to be held in Seattle in May, would transform into a digital event. This digital-only focus is now extending to far more events over the next year.
+<a href='https://www.theverge.com/2020/4/7/21211721/microsoft-events-build-2021-digital-only-coronavirus-plans'> Source <a/>
