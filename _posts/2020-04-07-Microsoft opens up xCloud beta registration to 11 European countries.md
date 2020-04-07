@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dkJRhDdAD2nuF8WsqRWhXXk8H0Q=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/66614818/xcloudpreview.0.jpg' width='700px' /><br/>
+Microsoft is starting to open up its xCloud game streaming beta to countries across Europe. The software giant originally launched the xCloud preview in the US, UK, and Korea back in September, and it's expanding to Belgium, Denmark, Finland, France, Germany, Ireland, Italy, Netherlands, Norway, Spain, and Sweden.
+<a href='https://www.theverge.com/2020/4/7/21211714/microsoft-xcloud-preview-europe-beta-registration-game-streaming-xbox'> Source <a/>
