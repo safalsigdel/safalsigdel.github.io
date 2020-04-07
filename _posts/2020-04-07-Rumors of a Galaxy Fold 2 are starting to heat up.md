@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/959D3m3mrblbC2mlFFXeW5lGMLQ=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/66615232/akrales_190418_3377_0391.0.jpg' width='700px' /><br/>
+Samsung's successor to its ill-fated Galaxy Fold could be available with less storage at a cheaper price, according to a new report from SamMobile. The cheaper model will reportedly have 256GB of internal storage and will be offered alongside a 512GB model. In contrast, the original Galaxy Fold was only available with 512GB of storage for an eye-watering $1,980.
+<a href='https://www.theverge.com/2020/4/7/21211780/samsung-galaxy-fold-2-foldable-under-display-camera-screen-size-price'> Source <a/>

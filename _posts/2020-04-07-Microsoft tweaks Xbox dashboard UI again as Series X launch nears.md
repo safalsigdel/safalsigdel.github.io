@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oG-tKGGkV3gMjAO7iI0UHUmtcCE=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/66615766/xboxonedashboard.0.jpg' width='700px' /><br/>
+Microsoft is making further tweaks to its Xbox One dashboard, just months ahead of the Xbox Series X launch. The software maker is now improving the Guide part of the Xbox One dashboard, which provides quick access to content, friends, and even settings when you tap the Xbox button on a controller. A new default order now means you navigate through the tabs in a left-to-right order and even fully customize how they're ordered.
+<a href='https://www.theverge.com/2020/4/7/21211740/microsoft-xbox-one-guide-dashboard-update-ui'> Source <a/>

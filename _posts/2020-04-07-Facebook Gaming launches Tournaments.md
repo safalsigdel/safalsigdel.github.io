@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KjmlIbzzNUbbuU-auXRgD63YP1Y=/0x0:2701x2161/1200x800/filters:focal(1340x860:1772x1292)/cdn.vox-cdn.com/uploads/chorus_image/image/66616014/FB_Gaming_Tournaments_Brackets.0.jpg' width='700px' /><br/>
+Facebook Gaming is launching a feature today meant to bring people together virtually while they can't be in the same place physically. It's called Tournaments, and it does exactly what it says on the tin.
+<a href='https://www.theverge.com/2020/4/7/21211898/facebook-gaming-tournaments-early-access-brackets'> Source <a/>

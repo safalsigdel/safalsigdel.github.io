@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7HIcV9q4PHwaMjwUWsFeFRbPMJA=/0x0:2214x1144/1200x800/filters:focal(775x790:1129x1144)/cdn.vox-cdn.com/uploads/chorus_image/image/66609742/Screen_Shot_2020_04_06_at_12.30.38_PM.0.png' width='700px' /><br/>
-Headspace is giving people free access to some of its mindfulness exercises, meditations, and sleep experiences. The company launched a new landing page today designed with New Yorkers, who are experiencing the brunt of the COVID-19 pandemic in the US, in mind. Headspace says the free offerings are the result of a partnership with New York Gov. Andrew Cuomo.
-<a href='https://www.theverge.com/2020/4/6/21209831/headspace-app-new-york-free-content-covid-19-pandemic'> Source <a/>
