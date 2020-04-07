@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kpM6p3gBUqbWUDDnZX4f8zzFxqE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66617199/mchin_200402_3957_0009.5.jpg' width='700px' /><br/>
+Chrome OS hasn't always been the best fit for tablets, despite the uptick in 2-in-1 Chrome OS devices out there that can work in tablet-style configurations. But Google's latest update to its Chromebook operating system is looking to change that with new tablet mode gestures for Chromebooks — ones that look almost identical to those Apple uses on its iPads with iPadOS.
+<a href='https://www.theverge.com/2020/4/7/21212228/chrome-os-tablet-mode-gestures-google-chromebooks-ipad'> Source <a/>
