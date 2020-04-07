@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TstmC5s88iNFy2cFG8iosEsFONk=/0x0:2016x1361/1200x800/filters:focal(847x520:1169x842)/cdn.vox-cdn.com/uploads/chorus_image/image/66614831/Hinge_User_Experience_1.0.png' width='700px' /><br/>
+A pandemic has taken over the world, but people are still dating. Today, Hinge is launching a new feature, called Date from Home, that the team thinks will make it easier to transition the texting chat into a video call.
+<a href='https://www.theverge.com/2020/4/7/21209801/hinge-video-call-chat-date-from-home-feature-launch'> Source <a/>
