@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Apple published support guidelines and a fitting video for health care workers who may eventually use the company's new face shields. The simple plastic devices are designed to be an added layer of protection for health care workers on the frontlines of the COVID-19 pandemic.
+<a href='https://www.theverge.com/2020/4/7/21212245/apple-instructions-face-shields-ppe-fitting'> Source <a/>
