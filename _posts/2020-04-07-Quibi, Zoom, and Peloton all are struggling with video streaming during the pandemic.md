@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8NxaqQ6oJ97RL0p7sh2PM6dUB-o=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66614998/gblackmon_200403_3960_quibi_0005.0.0.jpg' width='700px' /><br/>
+Today is Tuesday. Yesterday was Monday. It has gotten confusing. My colleague Chaim Gartenberg made a Twitter account that can help. Otherwise, if you live in Cleveland, just watch your local news.
+<a href='https://www.theverge.com/tech/2020/4/7/21211597/quibi-zoom-peloton-video-streaming-struggles'> Source <a/>

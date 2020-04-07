@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MJlu3tyItzmx06g5CDc6UI9_KIk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66608446/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
-Demand for ride-hailing in cities is down severely due to the coronavirus pandemic, and as such, drivers are struggling to find work. Uber is rolling out a new feature for drivers that is designed to help them find work during this crisis — even if that work is for a different company.
-<a href='https://www.theverge.com/2020/4/6/21209396/uber-work-hub-drivers-eats-freight-jobs-coronavirus-gigs'> Source <a/>
