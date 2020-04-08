@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4i3GymjjuHaacMhAQbLNtif-hHQ=/0x0:1954x1152/1200x800/filters:focal(821x420:1133x732)/cdn.vox-cdn.com/uploads/chorus_image/image/66614985/Screen_Shot_2020_04_06_at_4.03.25_PM.0.png' width='700px' /><br/>
-After Lego and Nintendo's surprise announcement in March that the two companies were working on interactive Super Mario Lego play sets, we're finally getting details on the actual sets and how the interactive video-game-in-real-life elements will work. Lego and Nintendo also announced the prices and release dates for the sets, which will be out on August 1st.
-<a href='https://www.theverge.com/2020/4/7/21210039/lego-super-mario-sets-august-1st-release-date-preorders-bluetooth-game-toy-interactive'> Source <a/>
