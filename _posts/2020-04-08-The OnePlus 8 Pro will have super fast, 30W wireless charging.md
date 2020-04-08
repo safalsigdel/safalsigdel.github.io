@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XbGNOjo-OEDgOV6-8hsAaQ0xoWA=/0x0:660x510/1200x800/filters:focal(285x152:389x256)/cdn.vox-cdn.com/uploads/chorus_image/image/66615078/OnePlus_8_Pro_1585743369_0_12.0.png' width='700px' /><br/>
-In an interview last week, OnePlus CEO Pete Lau told me that his next so-called “ultraflagship” phone — which we all know will be the OnePlus 8 Pro — will indeed support wireless charging. It will be a first for a OnePlus phone and it sounds like it will be impressive, able to charge up a phone by 50 percent in just thirty minutes.
-<a href='https://www.theverge.com/2020/4/7/21211422/oneplus-8-pro-wireless-charging-30w-fast-pete-lau'> Source <a/>
