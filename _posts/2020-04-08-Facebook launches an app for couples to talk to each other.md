@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xnpCqdt8FAZC0Ntumel2elcJgh8=/0x0:2094x1396/1200x800/filters:focal(880x531:1214x865)/cdn.vox-cdn.com/uploads/chorus_image/image/66617136/facebooktuned.0.jpg' width='700px' /><br/>
-First, Facebook launched a dating feature, and now, a small group within the company has launched an app designed for couples. The New Product Experimentation team's app, called Tuned, encourages couples to create an intimate social network between just each other. From the iOS-only app, they can share their mood, exchange music, and create a digital scrapbook. It's billed as a “private space” for both people to connect.
-<a href='https://www.theverge.com/2020/4/7/21212139/facebook-tuned-app-relationship-couples-launch'> Source <a/>
