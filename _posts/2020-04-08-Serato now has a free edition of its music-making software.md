@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/13w4nFjLUafhCEj_MWTCl1ShVvE=/0x0:945x630/1200x800/filters:focal(398x240:548x390)/cdn.vox-cdn.com/uploads/chorus_image/image/66617834/serato_studio_og.0.jpg' width='700px' /><br/>
-Popular DJ and music production software company Serato has released an update to its Serato Studio DAW, and it comes with a big change: there's now a free edition. This free edition is feature-limited, but it does let you make, save, and export tracks.
-<a href='https://www.theverge.com/2020/4/7/21206130/serato-studio-free-edition-music-making-software-digital-audio-workstation'> Source <a/>
