@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s9Avo-CGiM-BLzJQacb77QlqNwM=/0x0:4086x2814/1200x800/filters:focal(1717x1081:2369x1733)/cdn.vox-cdn.com/uploads/chorus_image/image/66624117/1082236932.jpg.0.jpg' width='700px' /><br/>
+Fiat Chrysler is recalling more than 365,000 vehicles in North America after discovering that the video feed from their backup cameras can sometimes stay on for more than 10 seconds after the driver shifts out of reverse. The company says it's unaware of any injuries or crashes related to the issue.
+<a href='https://www.theverge.com/2020/4/8/21213848/fiat-chrysler-recall-backup-rear-view-camera-staying-on-update-dealers'> Source <a/>
