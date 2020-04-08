@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-Gp7mcJSAn8adqMUJm2rsOKKSbw=/0x0:1314x739/1200x800/filters:focal(558x160:768x370)/cdn.vox-cdn.com/uploads/chorus_image/image/66617290/y648_1.0.jpg' width='700px' /><br/>
-This week for our Vergecast interview series, Verge editor-in-chief Nilay Patel chats with Microsoft chief technology officer Kevin Scott about his new book Reprogramming the American Dream: From Rural America to Silicon Valleyxe2x80x95Making AI Serve Us All.
-<a href='https://www.theverge.com/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care'> Source <a/>
