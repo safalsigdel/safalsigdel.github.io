@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/uOijnO6Wx8X8Uip7lPRBUKjSa5U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66620585/tesla.0.jpg' width='700px' /><br/>
-Starting April 13th, Tesla is cutting pay for all salaried employees in the US, and placing hourly workers who can't work at home during the novel coronavirus pandemic on unpaid leave, according to an internal email that was viewed by The Verge.
+Starting April 13th, Tesla is cutting pay for all salaried employees in the US and placing hourly workers who can't work at home during the coronavirus pandemic on unpaid leave, according to an internal email that was viewed by The Verge.
 <a href='https://www.theverge.com/2020/4/7/21213159/tesla-salary-cuts-furloughs-coronavirus-covid-19-pandemic'> Source <a/>
