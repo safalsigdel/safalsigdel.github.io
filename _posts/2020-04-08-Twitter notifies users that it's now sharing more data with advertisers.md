@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3s6i3HnmRl71LU55Q4uCtjUGxOU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66623092/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
+Twitter has removed a privacy feature that allowed all users to stop sharing some private information with advertisers. The setting prevented Twitter from sharing information like the ads you saw or interacted with and the tracking identifier for your phone. For most users, that information will now be shared by default and can't be turned off.
+<a href='https://www.theverge.com/2020/4/8/21213593/twitter-data-sharing-pop-up-mobile-app-advertising-settings'> Source <a/>
