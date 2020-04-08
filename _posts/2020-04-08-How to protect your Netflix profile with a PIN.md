@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aXv5Zmt7AQN1botxK4juq5UNb1E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66623554/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+Netflix now lets you protect your profile with a PIN, keeping other people on your account from accessing your home screen and personalized experiences. This new feature was announced as part of the service's updated parental controls and should prevent young viewers from finding their way into a parent's profile where mature content is accessible.
+<a href='https://www.theverge.com/2020/4/8/21213397/netflix-profile-lock-pin-protection-how-to-set-up'> Source <a/>
