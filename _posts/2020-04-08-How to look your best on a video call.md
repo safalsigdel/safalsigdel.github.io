@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O7hP_PZz7MdIMPGANVsL6ALg8zM=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19880369/bfarsace_200407_3962_0002.jpg' width='700px' /><br/>
+I've been on enough video calls this week to know that everyone could use a little help looking their best. From virtual weddings to work meetings, we all suddenly have to be on camera in our homes, and as a Verge video director and host, I'm no stranger to having to be camera-ready at all times and in imperfect spaces.
+<a href='https://www.theverge.com/2020/4/8/21202907/zoom-tips-video-call-lighting-audio-look-your-best'> Source <a/>

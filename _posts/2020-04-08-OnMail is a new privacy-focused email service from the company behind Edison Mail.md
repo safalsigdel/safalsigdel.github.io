@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n6w6yT1zTicVERLj082_RuJjjzs=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/66615403/onmail.0.png' width='700px' /><br/>
-OnMail is a new email service from Edison (the company behind Edison Mail, one of the better email apps around). It's described as “first permission-based email service” that's designed to solve modern email problems, like endless spam and annoying emails from brands, and it's Edison's most ambitious attempt at fixing email yet.
-<a href='https://www.theverge.com/2020/4/7/21211802/onmail-edison-mail-email-service-app-privacy-tracking-read-reciepts'> Source <a/>

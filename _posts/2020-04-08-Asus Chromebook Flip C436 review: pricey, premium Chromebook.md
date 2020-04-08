@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cBe-226Xb3cgiI8KC6oUx5u9kDY=/0x0:2040x1367/1200x675/filters:focal(887x609:1213x935)/cdn.vox-cdn.com/uploads/chorus_image/image/66621571/mchin_200402_3958_0005.0.jpg' width='700px' /><br/>
+The Chromebook Flip C436 has big shoes to fill. Asus is known for producing solid Chromebooks, but last year's C434 was the top of its class. It had a thin-bezeled, slim and light chassis, excellent performance, and a 360-degree hinge with a starting price of just $569. We called it the best Chromebook you could buy in 2019.
+<a href='https://www.theverge.com/2020/4/8/21206912/asus-chromebook-flip-c436-review-chromeos-android'> Source <a/>

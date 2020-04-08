@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/22fIDLYmxdh_q2E_Jc96zvQU2EI=/0x0:3840x1951/1200x800/filters:focal(1613x669:2227x1283)/cdn.vox-cdn.com/uploads/chorus_image/image/66615376/screenpass.0.png' width='700px' /><br/>
-Movies Anywhere is bumping up the open beta for its new Screen Pass movie lending feature from May to today. You'll still need an invite to use the feature, but unlike the closed beta that's been running so far, users will be able to sign up here to request to get access to the feature.
-<a href='https://www.theverge.com/2020/4/7/21210040/movies-anywheres-screen-pass-lending-feature-open-beta-sign-ups-today'> Source <a/>

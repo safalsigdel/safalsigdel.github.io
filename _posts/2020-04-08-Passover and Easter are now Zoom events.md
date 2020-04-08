@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iDRO4x16ik4nV5wyGJr_j3ebpbE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66622036/acastro_200407_3963_ZoomPassover_0001.0.jpg' width='700px' /><br/>
+Easter for college student Kayley Ng usually means a big family gathering. Her mom's five siblings come up to the Chicago area with their kids and spouses for a huge special get-together that happens only once annually. This year, that tradition's being challenged, along with the holiday plans of millions of others as the COVID-19 pandemic continues to disrupt daily life.
+<a href='https://www.theverge.com/2020/4/8/21209540/passover-easter-seder-zoom-holiday-celebration-coronavirus-pandemic'> Source <a/>

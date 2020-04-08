@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+If an Apple Watch Series 5 has been on your tech wishlist, Amazon and Best Buy are offering the best deals yet on both the 40mm and 44mm sizes of Apple's latest smartwatch. Mind you, these are technically the lowest prices we've seen, but it's only a hair more affordable than the stellar Black Friday deals we saw a few months ago.
+<a href='https://www.theverge.com/good-deals/2020/4/8/21213388/apple-watch-series-5-gps-40mm-44mm-sale-deal-amazon-best-buy'> Source <a/>
