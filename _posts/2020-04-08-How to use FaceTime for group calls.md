@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XlBpAyl-W2GSDYgiQsj0RPossTY=/0x0:571x461/1200x800/filters:focal(241x186:331x276)/cdn.vox-cdn.com/uploads/chorus_image/image/66618481/ipad_pro_group_facetime_10302018_inline.jpg.large.0.jpg' width='700px' /><br/>
+If you have an iPhone or MacBook, then you have probably used FaceTime, Apple's built-in video and voice-calling app. While FaceTime has always been useful for keeping in touch, it's become even more important for staying connected with friends and family while observing social distancing measures.
+<a href='https://www.theverge.com/2020/4/7/21200313/group-facetime-how-to-call-video-chat-apple-iphone-messages'> Source <a/>

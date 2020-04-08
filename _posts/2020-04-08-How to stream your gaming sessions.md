@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T-xecN58qfMbIpR0-IsM3awvrMs=/0x0:2040x1351/1200x800/filters:focal(845x479:1171x805)/cdn.vox-cdn.com/uploads/chorus_image/image/60421745/setienne_180717_2745_0005.0.jpg' width='700px' /><br/>
-Update 3:45PM ET, April 6th: Added a link to Streamlabs' new OBS software for macOS, which recently launched. Also, this post has been updated to reflect that Windows Game Bar no longer allows broadcasting.
-<a href='https://www.theverge.com/2018/7/19/17581510/how-to-stream-gaming-twitch-youtube-mixer'> Source <a/>

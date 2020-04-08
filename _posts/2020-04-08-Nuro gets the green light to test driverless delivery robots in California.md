@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gF3aKFYnkJFYYc9TfT6DRZUQPeo=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66619180/nuro_r2_05_original.0.jpg' width='700px' /><br/>
+Nuro, the self-driving startup founded by two ex-Google engineers, was approved to test its driverless delivery robots on public roads in California. The company is the second to receive a driverless permit in the state.
+<a href='https://www.theverge.com/2020/4/7/21212719/nuro-driverless-car-test-california-dmv-delivery'> Source <a/>

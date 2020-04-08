@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pfA8TcOaE2lB2NHv8czKjp3cMpo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66618116/acastro_200109_1777_verizon_0004.0.0.jpg' width='700px' /><br/>
+Verizon is canceling scheduled appointments for internet installation and repairs, according to some customers and two Verge reporters with persistent internet issues. The decision potentially leaves Fios subscribers without wired internet at a time when they're likely relying on it for work and to see friends and family during the COVID-19 pandemic.
+<a href='https://www.theverge.com/2020/4/7/21212196/verizon-internet-installation-repair-in-person-critical-needs-appointment-cancel'> Source <a/>

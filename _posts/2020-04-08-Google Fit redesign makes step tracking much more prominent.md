@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Mys_e4GsCVrjTxVUIseBuS6nUUo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66619965/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google is rolling out a refreshed user interface for its Google Fit apps for iOS, Android, and Wear OS that puts a bigger focus on step tracking. The app will now show your step count as one of the two main metrics in the two circles at the top of the app in place of the Move Minutes measurement.
+<a href='https://www.theverge.com/2020/4/7/21212914/google-fit-new-ui-step-tracking-move-minutes-heart-points'> Source <a/>

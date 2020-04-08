@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ez-E6No3Uz6WhAYvpfx5waHiF0w=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/66619514/HERO_Win_G.0.jpg' width='700px' /><br/>
+Microsoft is unveiling some significant changes to its Xbox Game Bar on Windows today, including new custom widgets that any developer can build. We've seen Microsoft gradually improve the Game Bar with widgets, but it's now opening it up fully today with a beta SDK to enable any developer to create custom widgets.
+<a href='https://www.theverge.com/2020/4/7/21212114/microsoft-xbox-game-bar-custom-widgets-windows-10-beta-sdk'> Source <a/>
