@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d6hs6wpTiZVDnrkvM4uXpbPRgpk=/0x0:1916x1080/1200x800/filters:focal(805x387:1111x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66617836/256b98bb_9570173.0.png' width='700px' /><br/>
-The excellent indie roguelike hit Dead Cells is coming to Android on June 3rd, according porting company Playdigious. Original developer Motion Twin first announced an Android version of Dead Cells was being developed back in May 2019, when the French studio gave its iOS version a summer release date. (The iOS version of Dead Cells released in August of last year.)
-<a href='https://www.theverge.com/2020/4/7/21212412/dead-cells-android-release-date-june-2020-motion-twin'> Source <a/>
