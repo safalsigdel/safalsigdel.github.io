@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L1mxY5ltXVUNuLuHYc5V-Kcc9A4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66624645/acastro_200331_1777_zoom_0003.0.0.jpg' width='700px' /><br/>
-Google is issuing a ban on the use of the Zoom teleconferencing platform for employees. The company is citing security concerns with the app that have arisen since Zoom became one of the most popular services for free video chatting during the COVID-19 pandemic. The news was first reported by BuzzFeed News earlier today.
-<a href='https://www.theverge.com/2020/4/8/21213978/google-zoom-ban-security-risks-hangouts-meet'> Source <a/>

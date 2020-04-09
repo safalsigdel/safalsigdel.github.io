@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R6v5LEDyUDOjWoe8x1F_TR8fh5A=/0x0:7360x4912/1200x800/filters:focal(3092x1868:4268x3044)/cdn.vox-cdn.com/uploads/chorus_image/image/66629842/1209548586.jpg.0.jpg' width='700px' /><br/>
+Uber will start distributing face masks to drivers and delivery workers, focusing first on the cities hardest hit by the coronavirus pandemic. The company will begin urging riders to wear face masks as well, in accordance with guidance from the Centers for Disease Control and Prevention.
+<a href='https://www.theverge.com/2020/4/9/21215186/uber-face-mask-drivers-delivery-workers-shipping-coronavirus'> Source <a/>
