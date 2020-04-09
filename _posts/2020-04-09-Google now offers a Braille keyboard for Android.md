@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Eu-73v98IHdmlD5bgmZfPaOH0mM=/0x0:1000x445/1200x800/filters:focal(420x143:580x303)/cdn.vox-cdn.com/uploads/chorus_image/image/66629672/UI__shell.max_1000x1000.0.png' width='700px' /><br/>
+Google announced on Thursday that it now offers a Braille keyboard integrated directly into Android. The company says the new feature will make its operating system more accessible for people who are visually impaired, without requiring extra hardware.
+<a href='https://www.theverge.com/2020/4/9/21215135/google-android-braille-keyboard-talkback-more-accessible'> Source <a/>
