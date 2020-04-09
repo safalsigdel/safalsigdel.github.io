@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1Ta7em2YgQHVkpiEfWy6TwrBbH4=/0x0:5000x3750/1200x800/filters:focal(1176x1806:1976x2606)/cdn.vox-cdn.com/uploads/chorus_image/image/66621588/1084202690.jpg.0.jpg' width='700px' /><br/>
-Instacart is introducing a pair of new delivery options in an attempt to deal with the increased demand the grocery shopping service is seeing as a result of the COVID-19 pandemic. Fast & Flexible and Order Ahead are both designed to increase the number of available delivery windows, depending on whether customers are willing to be flexible with delivery times or if they want to plan further ahead.
-<a href='https://www.theverge.com/2020/4/8/21213303/instacart-fast-flexible-order-ahead-delivery-options-crisis'> Source <a/>
