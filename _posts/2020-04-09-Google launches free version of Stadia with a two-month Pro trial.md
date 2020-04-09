@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CAmtvRm-cO06QpJM0RRZq3kQy-4=/0x0:1475x983/1200x800/filters:focal(620x374:856x610)/cdn.vox-cdn.com/uploads/chorus_image/image/66622983/stadia.0.jpg' width='700px' /><br/>
-Google is launching the free version of its Stadia game streaming service today. Anyone with a Gmail address can sign up, and Google is even providing a free two-month trial of Stadia Pro as part of the launch. It comes just two months after Google promised a free tier was imminent, and it will mean anyone can get access to nine titles, including GRID, Destiny 2: The Collection, and Thumper, free of charge.
-<a href='https://www.theverge.com/2020/4/8/21213679/google-stadia-free-pro-trial-launch-price-features'> Source <a/>
