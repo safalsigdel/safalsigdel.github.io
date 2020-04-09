@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lOuxDqa0hPmuIk4aKumNlI7r1kc=/0x0:2267x1511/1200x800/filters:focal(953x575:1315x937)/cdn.vox-cdn.com/uploads/chorus_image/image/66620808/Untitled_2.0.jpg' width='700px' /><br/>
-Lockdown has disrupted everyone's lives to varying degrees, and wedding photographers are some of the unluckier ones in terms of the impact on their careers — there aren't any weddings happening, and even if there were it'd be unwise or impractical to attend. Yorkshire-based photographer Tim Dunk, however, has found a way to keep on taking portraits in self-isolation: FaceTime.
-<a href='https://www.theverge.com/2020/4/8/21213184/tim-dunk-facetime-photoshoots-wedding-photography-lockdown'> Source <a/>

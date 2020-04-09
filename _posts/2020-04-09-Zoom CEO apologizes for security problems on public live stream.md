@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nJ3Brgwm6wPfj-EtZpAeR4KSCfQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66624828/acastro_200331_1777_zoom_0002.0.0.jpg' width='700px' /><br/>
+On a live YouTube stream on Wednesday, Zoom CEO Eric Yuan apologized to users for a string of security lapses that have rocked the app in recent weeks. Speaking to viewers for more than two hours, Yuan touted the company's recent privacy updates and pledged to take any lapses seriously.
+<a href='https://www.theverge.com/2020/4/8/21213847/zoom-ceo-security-privacy-apology-fix-china-videoconference'> Source <a/>

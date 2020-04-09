@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x4bIBX84IPIry-Edz2nzjXGdSTE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66621102/akrales_180215_2310_0081.0.jpg' width='700px' /><br/>
-We always have at least some reason to worry about the spread of misinformation, but we worry more about misinformation during a public health crisis. We are generally not well informed on public health issues even in good times, and so the emergence of new disease to which the human race has no natural immunity presents an incredible target for bad actors.
-<a href='https://www.theverge.com/interface/2020/4/8/21212110/whatsapp-forward-limit-encryption-apple-imessage-signal'> Source <a/>

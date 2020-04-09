@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZUxgavdM5P2FJ0bcXnAFQNEunO8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66625548/disneyplus.0.0.jpg' width='700px' /><br/>
+Disney Plus has surpassed 50 million subscribers — up more than 22 million since the last time Disney disclosed numbers two months ago.
+<a href='https://www.theverge.com/2020/4/8/21214236/disney-plus-50-million-subscribers-international-europe-india-netflix'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nfdq0Dq_iGZBJYlKGaFMkzlwhGE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66625540/acastro_200123_3880_Youtube_NDA_0001.0.0.jpg' width='700px' /><br/>
+There's a lot of music — and storytelling and news — on YouTube, and so it stands to reason that you'd want to be able to play it in the background on your mobile device while reading, texting, or doing other things. Unfortunately, unless you're a subscriber to YouTube Premium ($11.99 a month) or YouTube Music ($9.99 a month), your ability to listen to a YouTube video in the background is limited — doable, but limited.
+<a href='https://www.theverge.com/2020/4/8/21210101/youtube-android-phones-ios-iphones-how-to-pip'> Source <a/>

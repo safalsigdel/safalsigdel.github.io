@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xjg-Jq_YkkoT59MU-vX1Et6z_NQ=/0x0:1620x974/1200x800/filters:focal(681x358:939x616)/cdn.vox-cdn.com/uploads/chorus_image/image/66619337/dims.0.jpeg' width='700px' /><br/>
-When it comes to Windows laptops, Dell's XPS 13 is the laptop to beat. But the XPS 15 and XPS 17 are exciting upcoming releases as well, and I wouldn't be surprised if we see them officially announced in the coming weeks. That's because — if a new leak from a Reddit user is to be believed — Dell has accidentally leaked an image of the upcoming XPS 15 and XPS 17 on the Precision laptops section of its website.
-<a href='https://www.theverge.com/2020/4/7/21212589/dell-xps-13-17-precision-2020-specs-photo-leak'> Source <a/>

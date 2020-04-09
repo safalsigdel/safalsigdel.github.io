@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Sony still hasn't shown off what the PlayStation 5 will look like, but it just unveiled the controller for its next-gen console: the DualSense, which marks the biggest departure for Sony's controller design in its over 25-year history of PlayStation consoles.
-<a href='https://www.theverge.com/circuitbreaker/2020/4/7/21212722/sony-dualsense-controller-playstation-5-ps5-announcement-hardware'> Source <a/>

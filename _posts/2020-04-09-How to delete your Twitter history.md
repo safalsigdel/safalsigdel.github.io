@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aA0sVl4da2Q6YedIr3hEOYfy1Jk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/58625629/twitter-stock-0936.0.0.jpg' width='700px' /><br/>
+Twitter is the social media world's most reliable doubled-edged sword. One minute, you're retweeting a funny meme account and enjoying some wholesome discussion around your current TV binge fixation, and the next, you're being buried by a harassment campaign or finding your job in jeopardy over something dumb (or even harmless) you tweeted out in 2011.
+<a href='https://www.theverge.com/2018/2/8/16991396/how-to-delete-twitter-history-tweetdelete'> Source <a/>
