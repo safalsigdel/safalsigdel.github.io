@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w5EXDtwWvGPbJPs6Jxv3u2xibl0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66627228/acastro_190723_1777_tiktok_0003.0.0.jpg' width='700px' /><br/>
+TikTok has announced a series of relief funds and initiatives to support those fighting the COVID-19 pandemic, and to help other individuals and organizations struggling with its impact. In total, the company is pledging $375 million; including $250 million in funds, $100 million in ad credits, and $25 million in ad space for public health information.
+<a href='https://www.theverge.com/2020/4/9/21214684/tiktok-coronavirus-relief-fund-ad-credits-375-million-medical-workers-health-information'> Source <a/>
