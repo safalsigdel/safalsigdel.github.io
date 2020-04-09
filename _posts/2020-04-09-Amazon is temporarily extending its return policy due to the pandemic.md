@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oIG3V9Oj9qFmb5dHkPoKUWGMRF4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66623478/acastro_190920_1777_amazon_0003.0.0.jpg' width='700px' /><br/>
-Amazon is temporarily extending return windows due to the COVID-19 pandemic, the company announced today. If you live in the US or Canada, most items ordered on Amazon between March 1st and April 30th can be returned until May 31st, 2020.
-<a href='https://www.theverge.com/2020/4/8/21213742/amazon-temporarily-extending-return-policy-covid-19-pandemic'> Source <a/>
