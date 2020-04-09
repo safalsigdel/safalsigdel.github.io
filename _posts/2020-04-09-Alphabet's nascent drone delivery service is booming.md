@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GX0DptSVgZBFis9K6UcoRd59HJA=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66627136/10_18_Service_Launch_Walgreens_1.0.jpg' width='700px' /><br/>
+Alphabet's drone delivery company Wing has seen a “significant” increase in demand in recent weeks as people adhere to social distancing rules during the COVID-19 pandemic. Business Insider reports that in the last two weeks the company's drones have made over 1,000 deliveries, while Bloomberg reports a doubling of deliveries in the US and Australia.
+<a href='https://www.theverge.com/2020/4/9/21214709/alphabet-wing-drone-delivery-coronavirus-covid-19-demand-increase-toilet-paper-baby-food'> Source <a/>

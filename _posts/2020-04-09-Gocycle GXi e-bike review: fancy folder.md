@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B0WCVQR6oZqknaMiWZCTZuchiWo=/0x0:2040x1351/1200x675/filters:focal(876x456:1202x782)/cdn.vox-cdn.com/uploads/chorus_image/image/66627123/verge_DSC_7027_2040pxl.0.jpg' width='700px' /><br/>
+London-based Gocycle is your regular reminder that not all electric bikes are equal.
+<a href='https://www.theverge.com/2020/4/9/21211827/gocycle-gxi-review-price-foldable-electric-bike'> Source <a/>
