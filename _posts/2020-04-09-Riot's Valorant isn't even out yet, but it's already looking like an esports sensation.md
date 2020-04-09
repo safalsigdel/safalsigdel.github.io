@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fBcyl8XFtCA1Xu5dEL4f_rtz3I0=/0x0:3840x2160/1200x800/filters:focal(1112x276:1726x890)/cdn.vox-cdn.com/uploads/chorus_image/image/66624425/VALORANT_Jett_Red_1_1.0.jpg' width='700px' /><br/>
-Riot's new video game, Valorant, is both a breath of fresh air and completely unoriginal at the same time. The first-person shooter opened its closed beta on Tuesday to gargantuan Twitch viewership, thanks in part to Riot's deal with the platform that let popular streamers gift access keys to its beta while they played the game live.
-<a href='https://www.theverge.com/2020/4/8/21213924/riot-games-valorant-hands-on-beta-esports-competitive-twitch-streamers'> Source <a/>
