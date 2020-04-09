@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-The next-gen console rollouts from Sony and Microsoft this year have been, for lack of a better word, soporific. But after weeks of spec comparisons and hardware boasts, Sony finally gave things a shot in the arm with the reveal of its new DualSense controller. It's the most interesting announcement surrounding a next-gen console yet, and for Sony, in particular — which has barely updated its controller design in over two decades — the most exciting controller yet.
-<a href='https://www.theverge.com/circuitbreaker/2020/4/8/21213458/sony-playstation-5-ps5-dualsense-controller-design-changes-dualshock'> Source <a/>
