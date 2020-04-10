@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i1mks6DhhLDlZrzMSYMI9vuxAIo=/0x0:2040x1360/1200x800/filters:focal(877x544:1203x870)/cdn.vox-cdn.com/uploads/chorus_image/image/66629443/akrales_190918_3645_0017.0.jpg' width='700px' /><br/>
-Apple may let you try out parts of third-party iOS apps without installing them on your iPhone by scanning a QR code, according to code in an early build of iOS 14 reviewed by 9to5Mac. The functionality is apparently part of a new API referred to in iOS 14 as “Clips.”
-<a href='https://www.theverge.com/2020/4/9/21215079/apple-ios-14-try-third-party-apps-downloading-qr-code-opentable-youtube'> Source <a/>

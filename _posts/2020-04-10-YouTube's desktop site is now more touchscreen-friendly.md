@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tWRlq2tcRGELsMAE2KjMcsqU-0w=/0x0:2275x1438/1200x800/filters:focal(956x537:1320x901)/cdn.vox-cdn.com/uploads/chorus_image/image/66636031/YouTube_2020_April_Update.0.jpg' width='700px' /><br/>
+YouTube has updated its desktop site to make it more touchscreen-friendly. The updated site makes tweaks to the three-dot menu and enlarges icons to make it easier to use the site from a touchscreen.
+<a href='https://www.theverge.com/2020/4/10/21216245/youtube-desktop-version-touchscreen-update-playlists-history'> Source <a/>
