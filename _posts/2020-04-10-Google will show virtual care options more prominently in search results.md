@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IwJb3laGgRu9AFLIsyVzfZnYJ9I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66636091/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google is making changes to search results to make it easier for people to find virtual health care options, the company said in a blog post published today. The changes, which will be rolling out “over the coming week,” appear to make it easier to find telehealth services, which have seen a surge in demand due to the COVID-19 pandemic.
+<a href='https://www.theverge.com/2020/4/10/21216424/google-virtual-care-options-search-results-google-maps-telehealth'> Source <a/>

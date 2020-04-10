@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G4dIZOk-vrZPSwCSB0uhtmZLx4k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66636105/acastro_200318_1777_discord_0001.0.0.jpg' width='700px' /><br/>
+Chat service Discord is adding a new noise suppression feature in beta as part of a partnership with Krisp.ai, according to a company blog post.
+<a href='https://www.theverge.com/2020/4/10/21216534/discord-background-noise-suppression-krisp-beta-feature'> Source <a/>
