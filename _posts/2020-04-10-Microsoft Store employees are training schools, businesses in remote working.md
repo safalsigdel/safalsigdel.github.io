@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NiRYYXclXUhs2I314rDZ4GlkQ8c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66635408/microsoft1_2040.0.0.jpg' width='700px' /><br/>
+Like many other retailers, Microsoft shut down its physical stores around the world on March 16th. As much of the workforce has shifted suddenly to remote work amid the coronavirus pandemic, so too have some 2,000 Microsoft Store employees who have transitioned to serving customers remotely as part of the company's Emergency Remote Operations plan, according to a company blog post.
+<a href='https://www.theverge.com/2020/4/10/21216278/microsoft-store-school-training-businesses-remote-work-coronavirus'> Source <a/>

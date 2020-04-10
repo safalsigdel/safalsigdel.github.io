@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ziBzXOO4l9aEaWGuyu-sGS3e2Dg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66627214/acastro_200327_3953_boeing_computer_0001.0.jpg' width='700px' /><br/>
-A brand-new Boeing 737 Max gets built in just nine days. In that time, a team of 12,000 people turns a loose assemblage of parts into a finished $120 million airplane with some truly cutting-edge technology: winglets based on ones designed by NASA, engines that feature the world's first one-piece carbon-fiber fan blades, and computers with the same processing power as, uh, the Super Nintendo.
-<a href='https://www.theverge.com/2020/4/9/21197162/boeing-737-max-software-hardware-computer-fcc-crash'> Source <a/>

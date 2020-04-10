@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a0et96dE2xapAj_oPwSWj1MdLi8=/0x0:2888x1967/1200x800/filters:focal(1213x753:1675x1215)/cdn.vox-cdn.com/uploads/chorus_image/image/66628325/6a00d83452b44469e2019b010ae7fb970d.0.jpg' width='700px' /><br/>
-Yelp laid off 1,000 employees and furloughed an additional 1,100 workers today as it struggles with reduced spending from restaurants.
-<a href='https://www.theverge.com/2020/4/9/21214938/yelp-lay-offs-furloughs-staff-reduced-hours-announced-pay-cut'> Source <a/>

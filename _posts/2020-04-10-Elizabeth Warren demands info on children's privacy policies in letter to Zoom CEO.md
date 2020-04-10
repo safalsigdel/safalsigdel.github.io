@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_I5iitoT94yam_lMgceqNbS4vgc=/0x0:3000x1996/1200x800/filters:focal(1260x758:1740x1238)/cdn.vox-cdn.com/uploads/chorus_image/image/66627515/1205320684.jpg.0.jpg' width='700px' /><br/>
-In a letter to Zoom CEO Eric Yuan today, Sens. Elizabeth Warren (D-MA) and Ed Markey (D-MA) raised new concerns about the service's safety and privacy policies amid unprecedented consumer usage of the product in education and elsewhere. The letter pays particular attention to users under the age of 13 who are subject to special privacy protections under the Children's Online Privacy Protection Act (COPPA).
-<a href='https://www.theverge.com/2020/4/9/21214766/zoom-privacy-children-education-elizabeth-warren-ed-markey'> Source <a/>

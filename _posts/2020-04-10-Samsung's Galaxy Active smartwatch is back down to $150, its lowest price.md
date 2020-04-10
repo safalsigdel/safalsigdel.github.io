@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FHQBfbEBDmhRSXwjzv22sxB63ec=/0x0:2040x1360/1200x800/filters:focal(831x422:1157x748)/cdn.vox-cdn.com/uploads/chorus_image/image/66634707/DSCF1373.0.jpg' width='700px' /><br/>
+The Samsung Galaxy Active smartwatch is $150 at Best Buy, matching the lowest price we've seen just a few times, usually around big shopping holidays like Black Friday and Cyber Monday. Today's deal is actually better since Best Buy is throwing in a free $25 gift card with your purchase. Amazon is offering the same price, though it doesn't come with a gift card.
+<a href='https://www.theverge.com/good-deals/2020/4/10/21216197/samsung-galaxy-active-smartwatch-deal-le-creuset-xbox-game-pass-ultimate'> Source <a/>
