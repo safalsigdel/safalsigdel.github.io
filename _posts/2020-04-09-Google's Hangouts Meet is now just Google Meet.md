@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jnWZdZwAvju30v-SAjVQZELec9A=/0x0:640x380/1200x800/filters:focal(269x139:371x241)/cdn.vox-cdn.com/uploads/chorus_image/image/66625409/hangouts.0.jpg' width='700px' /><br/>
-Remote workers, meeters, streamers, and hangers-out, take note: Google's Hangouts Meet is no longer called Hangouts Meet; it's now called Google Meet.
-<a href='https://www.theverge.com/2020/4/8/21214059/google-hangouts-meet-rebrand-video-chat-conferencing'> Source <a/>

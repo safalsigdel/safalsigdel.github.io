@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/POVArzLIhI_JGql8QtC-pJtXNdg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66626945/acastro_200311_3936_coronavirus_0001.0.0.jpg' width='700px' /><br/>
-As of Friday, I'll have been self-isolating at home for 30 days. Thanks to quick action on the part of city officials to lock the city down, San Francisco is seeing great success in containing the spread of COVID-19. Within weeks, talk will turn to how we go about re-opening cities to public life — and what role, if any, technology companies should play in the response.
-<a href='https://www.theverge.com/interface/2020/4/9/21213677/coronavirus-lockdown-end-milestones-eu-china-technology'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f4IBy7ldnKdUzNs0vAU8RIZo1XU=/0x0:2040x1360/1200x800/filters:focal(878x1034:1204x1360)/cdn.vox-cdn.com/uploads/chorus_image/image/66626737/akrales_190930_3649_0349.0.jpg' width='700px' /><br/>
-The Surface Neo, Microsoft's dual-screen PC that runs a new operating system called Windows 10X, will miss its planned release date of holiday 2020, according to reports from ZDNet and CNBC. The company is said to have shifted its focus to get Windows 10X to run well on single-screen devices like laptops and 2-in-1s.
-<a href='https://www.theverge.com/2020/4/9/21214637/microsoft-surface-neo-windows-10x-release-date-delay'> Source <a/>

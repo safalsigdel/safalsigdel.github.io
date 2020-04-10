@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZQ5eavpjHxzr1T2MwJGrBHEljDk=/0x0:956x666/1200x800/filters:focal(402x257:554x409)/cdn.vox-cdn.com/uploads/chorus_image/image/66630682/Screen_Shot_2020_04_09_at_3.07.24_PM.0.png' width='700px' /><br/>
+A prototype smart toilet that can identify you by your “analprint” and monitor your trip to the loo has been created by researchers at Stanford University. It's equipped with cameras and sensors that collect information on your bodily waste, and it uses that data to look for any health issues you might have.
+<a href='https://www.theverge.com/2020/4/9/21215425/smart-toilet-disease-detection-analprint'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xw_8bGQqVeQSwHffYxLJefKvI9s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66631495/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
+Google has officially removed the Hangouts brand from its enterprise G Suite offering with the rebranding of Hangouts Chat as Google Chat, the company confirmed to The Verge on Thursday. The rebranding follows a similar name change, confirmed yesterday, from the companion videoconferencing app Hangouts Meet to Google Meet.
+<a href='https://www.theverge.com/2020/4/9/21215588/google-chat-hangouts-meet-g-suite-name-change-rebranding'> Source <a/>
