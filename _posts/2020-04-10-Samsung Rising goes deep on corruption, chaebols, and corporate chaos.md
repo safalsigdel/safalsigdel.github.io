@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DdKfuxGx6pV0uTsM2iHZKIgHcf0=/0x0:2040x1148/1200x675/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/66633770/DSCF7216.0.jpg' width='700px' /><br/>
+Samsung Rising is a new book from journalist and author Geoffrey Cain, and it's the best account of the colossal Korean conglomerate's ascent to power I've read. Deeply researched and reported, Cain's book details how Samsung turned from vegetable seller to global tech titan, with plenty of colorful anecdotes along the way.
+<a href='https://www.theverge.com/2020/4/10/21216092/samsung-rising-book-interview-geoffrey-cain'> Source <a/>
