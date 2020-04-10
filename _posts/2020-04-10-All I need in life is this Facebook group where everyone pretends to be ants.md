@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j9tUTCSocpN-kuGovTRGxW0PTkA=/0x0:1632x1224/1200x800/filters:focal(686x482:946x742)/cdn.vox-cdn.com/uploads/chorus_image/image/66635839/ants7.1405939348.0.jpg' width='700px' /><br/>
+“I am tired of bringing food to the Queen to justify my existence,” a poster writes. “When does it end? When can I have some of the food I bring home? When will I see the value of my labor?”
+<a href='https://www.theverge.com/2020/4/10/21216246/facebook-group-ants-ant-colony-pretend-members'> Source <a/>

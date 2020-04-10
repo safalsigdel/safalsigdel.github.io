@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uvOpcBIZ6vkfI2aAp62r7r8qDko=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/66629388/1153701812.jpg.0.jpg' width='700px' /><br/>
-The American Civil Liberties Union has sued to stop Baltimore police from launching a sweeping “eye in the sky” surveillance program. The initiative, operated by a company called Persistent Surveillance Systems (PSS), would send planes flying over Baltimore at least 40 hours a week as they almost continuously collect wide-angle photos of the city. If not blocked, a pilot program is expected to begin later this year.
-<a href='https://www.theverge.com/2020/4/9/21215090/aclu-aerial-surveillance-baltimore-police-department-pss-lawsuit'> Source <a/>
