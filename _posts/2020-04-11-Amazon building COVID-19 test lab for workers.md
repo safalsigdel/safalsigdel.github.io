@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J1wFndMqCqiYhlqX-jtPagnhDak=/0x0:1624x1260/1200x800/filters:focal(919x734:1177x992)/cdn.vox-cdn.com/uploads/chorus_image/image/66633421/90.0.jpeg' width='700px' /><br/>
-Amazon is building a lab to test its workers for COVID-19, the disease caused by the new coronavirus. It's the latest effort by the company to protect workers who are growing increasingly panicked as the virus spreads through Amazon warehouses.
-<a href='https://www.theverge.com/2020/4/10/21216076/amazon-test-lab-covid-19-coronavirus-pandemic'> Source <a/>

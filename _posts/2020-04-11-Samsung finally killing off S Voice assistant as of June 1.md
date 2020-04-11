@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yKNsCu57VrWeoAF3vz0simVwhjY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66639891/acastro_190503_1777_samsung_0004.0.0.jpg' width='700px' /><br/>
+Later this year Samsung will finally kill off its S Voice assistant, which never really caught up to Apple's Siri. A note on Samsung's support page says S Voice will no longer be available from June 1, as first reported by SamMobile.
+<a href='https://www.theverge.com/2020/4/11/21217617/samsung-s-voice-assistant-wearables-bixby'> Source <a/>
