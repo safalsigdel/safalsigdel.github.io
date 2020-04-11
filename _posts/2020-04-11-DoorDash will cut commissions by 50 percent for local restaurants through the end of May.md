@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lKcp4qh79Aphr7XZo4NwlxchOmA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66632150/acastro_190724_1777_doordash_0001.0.0.jpg' width='700px' /><br/>
-DoorDash will be reducing commission fees by 50 percent for orders placed on DoorDash and DoorDash-owned Caviar for all of its local restaurant partners, the company announced on Thursday. The commission relief program will begin on Monday, April 13th and run through the end of May.
-<a href='https://www.theverge.com/2020/4/9/21215646/doordash-caviar-commissions-50-percent-local-restaurants-covid-19'> Source <a/>

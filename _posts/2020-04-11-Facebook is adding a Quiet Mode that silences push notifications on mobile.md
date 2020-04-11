@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0lAHJP76eP99_W4k8HdOGv-Xb7A=/0x0:2040x1360/1200x800/filters:focal(907x538:1233x864)/cdn.vox-cdn.com/uploads/chorus_image/image/66631828/akrales_180614_1777_0080.0.jpg' width='700px' /><br/>
-Facebook announced an all-new “Quiet Mode” for its main mobile app on Thursday, which will pause “most” push notifications and remind you that it's turned on when you try to open the software on your phone while the mode is still active.
-<a href='https://www.theverge.com/2020/4/9/21215638/facebook-quiet-mode-silence-push-mobile-notifications'> Source <a/>
