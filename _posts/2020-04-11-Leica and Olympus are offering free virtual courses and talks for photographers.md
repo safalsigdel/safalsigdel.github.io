@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fXtd2CJ4XBdtfvnH5i04MXscr2Q=/0x0:1080x720/1200x800/filters:focal(454x274:626x446)/cdn.vox-cdn.com/uploads/chorus_image/image/66638258/Webinars_Bespoke_teaser_2632x1756.0.jpg' width='700px' /><br/>
+Camera makers Leica and Olympus have announced initiatives to offer free courses and talks for photographers amid the COVID-19 pandemic. Many companies that cater to creative fields have opened up resources for those currently stuck at home, and last week Nikon made its entire curriculum of online photography classes free until the end of April.
+<a href='https://www.theverge.com/2020/4/10/21216983/leica-olympus-free-virtual-courses-photography-coronavirus-covid'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JnajHfk_E5vfinjtbEIZ4yjc3PA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66636916/acastro_190530_1777_xbox_0002.0.0.jpg' width='700px' /><br/>
+Microsoft's Xbox Live service experienced issues affecting online multiplayer earlier today. “We're aware that some users may have trouble joining parties or playing online multiplayer & our teams are investigating,” Microsoft said in a 2:38PM ET tweet about the issues. Down Detector indicated a spike in user-reported problems shortly before 2PM ET. Microsoft said the issues should be resolved in a 4:53PM ET tweet.
+<a href='https://www.theverge.com/2020/4/10/21216766/xbox-live-outage-down-multiplayer-join-parties'> Source <a/>

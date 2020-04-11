@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VwVclySKEGP8eib-UY8sthXsQ34=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66631023/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google announced today that it's extending free access to some advanced features in its teleconferencing service Google Meet until September 30th. Google had previously announced on March 3rd that it would offer free access to those features until July 1st.
-<a href='https://www.theverge.com/2020/4/9/21215420/google-free-access-advanced-meet-features-extension-teleconference'> Source <a/>

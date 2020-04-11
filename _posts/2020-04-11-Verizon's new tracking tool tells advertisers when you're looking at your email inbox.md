@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lXX-asXKuwU3cT_cQESlkOWZY2g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66637596/acastro_200109_1777_verizon_0002.0.0.jpg' width='700px' /><br/>
+Verizon quietly introduced a new email marketing feature yesterday that it ominously calls “View Time Optimization,” which is a fancy euphemism for a tracking tool that alerts advertisers to the moment you're looking at your email inbox. Why? So they can send you an ad, of course.
+<a href='https://www.theverge.com/2020/4/10/21216932/verizon-email-ads-view-time-optimization-marketing-privacy'> Source <a/>
