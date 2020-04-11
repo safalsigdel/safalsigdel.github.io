@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Even though I've worked from home for more than three years, it can still get lonely at times. My apartment is usually very quiet and almost all of my conversations with my colleagues happen silently over Slack, save for the clatter of my mechanical keyboard. I worked in an office for the first part of my career, and at times, I get nostalgic for the white noise of an office — the idle chatter, the whirring of a too-cold air conditioning system, and other people clattering away at their keyboards.
-<a href='https://www.theverge.com/tldr/2020/4/9/21215801/i-miss-the-office-sounds-white-noise'> Source <a/>
