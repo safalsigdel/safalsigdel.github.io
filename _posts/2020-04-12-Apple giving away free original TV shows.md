@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SGdRFlPM34MW9ohK5L82GU7WBQE=/0x0:2160x1272/1200x800/filters:focal(908x464:1252x808)/cdn.vox-cdn.com/uploads/chorus_image/image/66633461/Free_for_copy.0.png' width='700px' /><br/>
-Apple is making a selection of its Apple TV Plus original shows available for free to help make staying at home just a little bit easier. The free collection is available now via this link in the US, or from the Apple TV app everywhere else starting on Friday.
-<a href='https://www.theverge.com/2020/4/10/21216090/apple-tv-plus-free-tv-shows-original'> Source <a/>
