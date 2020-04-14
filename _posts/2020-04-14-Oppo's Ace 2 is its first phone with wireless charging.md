@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/biIXpU6H8s_ioac0wVDMAGHzkts=/0x0:1680x1120/1200x800/filters:focal(706x426:974x694)/cdn.vox-cdn.com/uploads/chorus_image/image/66643695/ace2.0.jpg' width='700px' /><br/>
-Oppo has announced its first ever phone with wireless charging. The Ace 2 is the follow-up to last year's Reno Ace, which still holds the record for the world's fastest wired charging system in a shipping phone, but drops the “Reno” brand name. (Which is probably for the best, because that lineup was getting impossible to keep track of.)
-<a href='https://www.theverge.com/2020/4/13/21218741/oppo-ace-2-wireless-charging-airvooc-announced-china-price'> Source <a/>
