@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G4wo38QXR1prPMVRZOSCLGQNwoQ=/0x0:2040x1360/1200x800/filters:focal(784x632:1110x958)/cdn.vox-cdn.com/uploads/chorus_image/image/66634465/akrales_191113_3779_0284.0.jpg' width='700px' /><br/>
-The free tier of Google Stadia's cloud gaming service recently launched, allowing those who didn't purchase the Premiere Edition to finally get in on some of the action. If you're wanting to try it out yourself but don't have an official Stadia Controller, you thankfully don't need to let that stop you.
-<a href='https://www.theverge.com/2020/4/10/21215395/google-stadia-controller-how-to-pair-bluetooth-support-ps4-xbox-consoles'> Source <a/>

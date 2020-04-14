@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/niH8SFQLCmSfAKcf3y-W0VlrV7Q=/0x0:1037x691/1200x800/filters:focal(437x264:601x428)/cdn.vox-cdn.com/uploads/chorus_image/image/66635617/appletv.0.jpg' width='700px' /><br/>
-HBO has decided to continue supporting second- and third-generation Apple TV set-top boxes after initially saying that HBO Go and HBO Now would no longer work on them as of April 30th. The news comes from AppleInsider, which confirmed the change with an HBO spokesperson.
-<a href='https://www.theverge.com/2020/4/10/21216451/hbo-go-max-apple-tv-third-gen-support-extended-april'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WAOMMUMTd7wKhVSXdKfCgea6KSc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66635517/DSCF5875.0.jpg' width='700px' /><br/>
-Consistent topics The Vergecast has covered in the past couple of months have been laptops and Quibi. This week is no different; however, this is finally the week when the mobile-only streaming service Quibi was released to the public and the first time we welcome The Verge's new laptop reviewer Monica Chin on the show.
-<a href='https://www.theverge.com/2020/4/10/21216243/quibi-launch-asus-zephyrus-laptop-review-sony-ps5-controller-vergecast'> Source <a/>

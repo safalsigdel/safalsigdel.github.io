@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DjBYMMYRrFX9oEhSUYmwCUhp8WE=/0x380:790x937/1200x800/filters:focal(415x686:541x812)/cdn.vox-cdn.com/uploads/chorus_image/image/66646724/O1CN01CE8d821tuBXZxkB5f_1085315961.0.jpg' width='700px' /><br/>
+Razer is selling wireless earbuds perfect for Pokxc3xa9mon fans. In addition to Pikachu-stamped yellow buds, the set comes with a charging case shaped like a pokxc3xa9ball. They'll be launching in China for roughly $120 on April 16th.
+<a href='https://www.theverge.com/2020/4/13/21219560/razer-pikachu-earbuds-pokeball-case-charger'> Source <a/>

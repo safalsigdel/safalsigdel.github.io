@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aM35DaAnHJ4E58N_b8v0Ihmgh98=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66638055/akrales_190918_3645_0017.0.jpg' width='700px' /><br/>
-Earlier today, Apple and Google announced a Bluetooth-based COVID-19 contact tracing platform that could alert people if they've been exposed to the novel coronavirus. Contact tracing is a huge component in ending mass pandemic “stay-at-home” orders, and while phone tracking can't replace traditional methods like interviews, it can supplement them.
-<a href='https://www.theverge.com/2020/4/10/21216715/apple-google-coronavirus-covid-19-contact-tracing-app-details-use'> Source <a/>

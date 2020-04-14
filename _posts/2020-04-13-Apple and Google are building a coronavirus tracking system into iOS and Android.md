@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DfJsGIBCGNlBoldWO5-7yuPqNNQ=/0x0:2040x1360/1200x800/filters:focal(807x480:1133x806)/cdn.vox-cdn.com/uploads/chorus_image/image/66635754/jbareham_181012_2989_0577.10.jpg' width='700px' /><br/>
-On Friday, Apple and Google announced a system for tracking the spread of the new coronavirus, allowing users to share data through Bluetooth Low Energy (BLE) transmissions and approved apps from health organizations.
-<a href='https://www.theverge.com/2020/4/10/21216484/google-apple-coronavirus-contract-tracing-bluetooth-location-tracking-data-app'> Source <a/>

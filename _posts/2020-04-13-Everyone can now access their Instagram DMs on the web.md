@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m4lvthxpqf9pRyE8qGnYO6RDWsY=/0x0:2560x1706/1200x800/filters:focal(1076x649:1484x1057)/cdn.vox-cdn.com/uploads/chorus_image/image/66634341/ig_direct.0.jpg' width='700px' /><br/>
-Instagram's making it easier for people to send direct messages from their browser. The company announced on Friday that it's rolling out access to DMs on the web to everyone globally. The rollout starts today at 10AM ET.
-<a href='https://www.theverge.com/2020/4/10/21215449/instagram-dm-web-browser-update-direct-message'> Source <a/>

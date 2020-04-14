@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/foQiSw5c7ElPHjowf-Dw6BWSEIM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66636165/wwdc2019DSC_4114.0.jpg' width='700px' /><br/>
-Apple's 2019 Mac Pro, the world's most expensive cheese grater — if you were going to use it for that, which you shouldn't — is now available on Apple's online refurb store, MacRumors reports. That means savings of around 15 percent, which is a ton when you consider the base price of a new Pro is $5,999.
-<a href='https://www.theverge.com/2020/4/10/21216568/apple-mac-pro-2019-refurbished-sale-price'> Source <a/>

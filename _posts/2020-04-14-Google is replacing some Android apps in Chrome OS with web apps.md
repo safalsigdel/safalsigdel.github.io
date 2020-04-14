@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-67S3diZLroX55w9zGLyXoH6Axk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66644936/mchin_200402_3957_0011.0.jpg' width='700px' /><br/>
+Google is replacing some Android apps for Chromebooks with Progressive Web Apps (PWAs). A PWA is essentially a webpage that looks and feels like a traditional app.
+<a href='https://www.theverge.com/2020/4/13/21219075/google-chrome-os-android-apps-webs-chromebook-replacing-progressive-twitter-youtube-tv'> Source <a/>

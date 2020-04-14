@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MyCQ7eL9LQbCm0mm2-Q8VBR3VSk=/0x0:5184x3456/1200x800/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/66647496/1201242795.jpg.0.jpg' width='700px' /><br/>
+NASCAR driver Kyle Larson has been indefinitely suspended by the series after he said the n-word during a sim racing stream over the weekend.
+<a href='https://www.theverge.com/2020/4/13/21219793/nascar-kyle-larson-slur-iracing-suspended-sim-racing'> Source <a/>

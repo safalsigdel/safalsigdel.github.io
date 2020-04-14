@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3-VMV8ifkXlkYVW8V2jJjMYFT4Q=/0x0:1440x960/1200x800/filters:focal(605x365:835x595)/cdn.vox-cdn.com/uploads/chorus_image/image/66637928/Screen_Shot_2020_04_10_at_4.09.09_PM.0.png' width='700px' /><br/>
-WhatsApp is a popular phone app that sends messages over the internet instead of through SMS. It's available for both Android and iPhone, and you can also download WhatsApp's desktop app or access WhatsApp from your browser.
-<a href='https://www.theverge.com/tech/2020/4/10/21216959/whatsapp-desktop-messaging-mobile-how-to-android-iphone'> Source <a/>

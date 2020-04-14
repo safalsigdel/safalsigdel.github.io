@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xcrmyqmoiWbAS8Gq4nyt4-fHyRI=/0x0:2040x1361/1200x800/filters:focal(924x427:1250x753)/cdn.vox-cdn.com/uploads/chorus_image/image/66644259/brose_190930_3699_0012.0.jpg' width='700px' /><br/>
+Whether you're looking for a capable action cam for outdoor use or want to upgrade your vlog setup, GoPro's Hero 8 Black is a recommended option. It's especially worth considering today as its cost has been cut to $299, which is the lowest price we've seen for this model by a wide margin. It's usually $399 for the camera, and both B&H Photo and Adorama are honoring this deal.
+<a href='https://www.theverge.com/good-deals/2020/4/13/21218920/gopro-hero-8-camera-deal-adorama-bh-apple-itunes-tv-the-office'> Source <a/>
