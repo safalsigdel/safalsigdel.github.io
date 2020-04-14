@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Nintendo's Labo is a fun DIY project that lets you build things, and then play with them in the Labo game for the Nintendo Switch that is included with each kit. There are four kits in total, each filled with materials to build cardboard projects. These kits usually aren't cheap, costing up to $70 each, but right now, Best Buy has marked them down by up to 70 percent off. Each kit is just $20, so you can load up on the entire collection for under $100.
+<a href='https://www.theverge.com/good-deals/2020/4/14/21220457/nintendo-labo-cardboard-variety-vehicle-robot-vr-kit-deal-sale-best-buy'> Source <a/>
