@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cpUUzoFBMd196EL-xM4eQEnFwmc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66644075/acastro_200109_1777_verizon_0003.0.0.jpg' width='700px' /><br/>
+Verizon is launching a new tool to help customers troubleshoot issues remotely, the company announced today. The tool should allow Verizon to support customers without requiring a field technician to step inside their home. Verizon told The Verge it was piloting a “virtual assistant tech tool” last week, and now it's sharing more information about it.
+<a href='https://www.theverge.com/2020/4/13/21216968/verizon-tool-diagnose-fix-tech-issues-remotely-virtual-techsee'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iz9VVx1nitTeFnZzdawEdGrtmxo=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/66644327/ETSiCJ1XQAAztEe.0.jpg' width='700px' /><br/>
+Motorola's planning to make its biggest flagship phone announcement in years on April 22nd, the company announced today. The event will, of course, take place virtually. The company confirmed the date and time with a tweet today, and it will presumably follow up with details as the event nears. The company is expected to announce two devices under new Edge branding.
+<a href='https://www.theverge.com/2020/4/13/21218999/motorola-event-edge-plus-announcement-virtual-date'> Source <a/>
