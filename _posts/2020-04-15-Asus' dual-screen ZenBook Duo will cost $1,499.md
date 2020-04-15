@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u9tA3qHPZsqQHXgRDwomfqrxiFs=/0x0:6447x4436/1200x800/filters:focal(2709x1703:3739x2733)/cdn.vox-cdn.com/uploads/chorus_image/image/66651022/ZenBook_Duo_UX481_Scenario_Photo_05.0.jpg' width='700px' /><br/>
-Asus has officially launched its ZenBook Duo, a portable laptop with two screens. The device will MSRP for $1,499. The product is listed on Amazon, but it's currently out of stock; Asus says you should be able to buy it soon.
-<a href='https://www.theverge.com/2020/4/14/21220562/asus-zenbook-duo-amazon-release-date-price'> Source <a/>
