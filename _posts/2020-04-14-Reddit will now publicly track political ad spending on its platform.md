@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7bKSvYDRAb0zaaGKiqzaYfZTE30=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66647916/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
-Reddit is launching a new subreddit that will list all political ad campaigns that have run on the site since January 1st, 2019, the company announced today. The new subreddit can be found at r/RedditPoliticalAds.
-<a href='https://www.theverge.com/2020/4/13/21219990/reddit-political-ad-campaigns-subreddit-advertising-policies'> Source <a/>

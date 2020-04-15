@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SUQQbVWBfpPtNVLpQ6LZ5VLiZJ4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66648028/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
-Google has confirmed that it will use the Google Play Services infrastructure to update Android phones with the upcoming COVID-19 contact tracing system it is building in collaboration with Apple. It should ensure that more Android phones will actually get the updates, and also ensure that they become available on phones running Android 6.0 Marshmallow or above.
-<a href='https://www.theverge.com/2020/4/13/21220033/android-covid-19-tracking-updates-google-play-contact-tracing'> Source <a/>

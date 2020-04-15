@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m7iExqzc6I-LbsFZ70Wn9vaVMhs=/0x0:1500x840/1200x800/filters:focal(416x311:656x551)/cdn.vox-cdn.com/uploads/chorus_image/image/66649706/2x_s3_light_mobile_0.0.jpg' width='700px' /><br/>
-Images and details of VanMoof's new S3 and X3 e-bikes have leaked ahead of the April 21st announcement. The company's third-generation electric bikes have been overhauled with new brakes, a new saddle, improved electronic shifting, and an updated front-hub motor. But the biggest news might be the price: $1,998 / xe2x82xac1,998 for either the full-sized S3 or compact X3.
-<a href='https://www.theverge.com/2020/4/14/21220464/vanmoof-ebike-x3-s3-leak-specs-price-launch-date'> Source <a/>

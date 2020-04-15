@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-4mTLSmFu3X_dudLcdJBH7MGUjw=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19895624/vpavic_042008_3967_0089_square.jpg' width='700px' /><br/>
+Now that OnePlus has established itself as one of the major players in the smartphone world, there are certain things you can take for granted about its devices. They'll likely have great screens, performance, and battery life. At the same time, they'll falter a little with their cameras, and they'll exclude increasingly common features like IP water-resistance ratings and wireless charging.
+<a href='https://www.theverge.com/2020/4/14/21219278/oneplus-8-review-specs-features-camera-battery-screen-price-photos-video'> Source <a/>

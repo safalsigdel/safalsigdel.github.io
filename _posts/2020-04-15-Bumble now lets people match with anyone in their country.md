@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W5UB4t98VcteVRTBx1Eatbra9-Q=/0x0:4233x2822/1200x800/filters:focal(1779x1073:2455x1749)/cdn.vox-cdn.com/uploads/chorus_image/image/66650633/bumble.0.jpg' width='700px' /><br/>
+Bumble is launching two new features today to make it easier for people to date while social distancing. The company announced that people can now expand their distance filters to match with anyone in their country. The app previously only allowed people to connect with someone within a 100-mile range. To change this, look for “nationwide” in your app settings.
+<a href='https://www.theverge.com/2020/4/14/21220574/bumble-location-virtual-dating-update-video-voice-call-donation'> Source <a/>

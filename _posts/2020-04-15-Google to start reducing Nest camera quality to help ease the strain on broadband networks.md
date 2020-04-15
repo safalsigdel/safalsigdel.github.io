@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d8rrM3DRBARMowkqq-pk4UZcHXM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66653697/vpavic_170518_1705_0127.0.0.jpg' width='700px' /><br/>
+Google may start adjusting the quality of video captured by your Nest security camera to help ease the strain put on broadband networks. The company is making the changes at a time when more people than ever are using internet-connected devices at home during the COVID-19 pandemic.
+<a href='https://www.theverge.com/2020/4/14/21221423/google-nest-camera-reduce-video-quality-bandwidth-covid-19-pandemic'> Source <a/>

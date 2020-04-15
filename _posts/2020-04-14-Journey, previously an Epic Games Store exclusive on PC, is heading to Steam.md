@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ESPGHhOo8E3J5I76Vz5ObAGH16A=/0x0:600x337/1200x800/filters:focal(252x121:348x217)/cdn.vox-cdn.com/uploads/chorus_image/image/66645864/ss_678009919bc0a5876ec7f4e60e8ec3070c090b58.600x338.0.jpg' width='700px' /><br/>
-Journey, thatgamecompany's classic game that first released on PlayStation 3 in 2012, will be available on Steam on June 11th. Journey was previously only available on PC via the Epic Games Store, where it launched last June.
-<a href='https://www.theverge.com/2020/4/13/21219475/journey-game-steam-date-thatgamecompany-epic-games-store'> Source <a/>

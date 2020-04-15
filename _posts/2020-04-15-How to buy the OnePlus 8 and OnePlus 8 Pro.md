@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oZibhz6wavJYmjfwsfj0qRRj4pk=/0x0:2040x1360/1200x800/filters:focal(831x521:1157x847)/cdn.vox-cdn.com/uploads/chorus_image/image/66652099/vpavic_042007_3966_0025.0.jpg' width='700px' /><br/>
+OnePlus has announced two new phones, the OnePlus 8 and OnePlus 8 Pro. They both have fast refreshing displays, and in the case of the OnePlus 8 Pro, you'll be getting the first OnePlus phone that supports wireless charging. Both Verizon and T-Mobile will also sell the OnePlus 8 in stores and online. You'll be able to purchase this model and the OnePlus 8 Pro through Amazon (links are not live just yet) and OnePlus.com.
+<a href='https://www.theverge.com/2020/4/14/21219152/oneplus-8-pro-buy-order-how-to-price-release-date-carriers'> Source <a/>

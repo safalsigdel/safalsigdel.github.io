@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZNumzkrRt6qkFwkaslG3o0fXPBI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66651553/acastro_190717_1777_bluetooh_0001.0.jpg' width='700px' /><br/>
+Apple and Google have announced a hugely ambitious — and potentially controversial —contact tracing system designed to help users prevent spreading the novel coronavirus by figuring out who has had contact with infected patients.
+<a href='https://www.theverge.com/2020/4/14/21220644/apple-googles-bluetooth-low-energy-le-coronavirus-tracking-contact-tracing'> Source <a/>

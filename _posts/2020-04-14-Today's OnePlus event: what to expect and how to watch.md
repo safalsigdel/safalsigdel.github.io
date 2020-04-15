@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oHE7e9Nc5A2z3IoZ1aCVjS6VgFM=/0x0:1962x1184/1200x800/filters:focal(825x436:1137x748)/cdn.vox-cdn.com/uploads/chorus_image/image/66649021/OnePlus_screenshot.0.png' width='700px' /><br/>
-While tech companies have had to stop showing their new devices in front of live, cheering audiences, that doesn't mean they're not going to introduce their products with as much fanfare as possible. Today, OnePlus will introduce its new line of phones (according to reports, the OnePlus 8 and OnePlus 8 Pro). But what can we expect? The rumor mill has, as you might have guessed, been working overtime.
-<a href='https://www.theverge.com/2020/4/14/21219181/oneplus-8-event-watch-live-stream-online-time-products'> Source <a/>

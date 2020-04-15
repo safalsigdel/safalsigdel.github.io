@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hMmhTJOkKz_Yg7UaHRjTvVnIJBU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66652732/akrales_180709_2715_0036.0.jpg' width='700px' /><br/>
+The passionate customers who helped lift up electric skateboard company Boosted are now rallying to help each other in the wake of the startup's collapse.
+<a href='https://www.theverge.com/2020/4/14/21175343/boosted-board-sale-crowdsource-reddit-repairs-fix-manual'> Source <a/>

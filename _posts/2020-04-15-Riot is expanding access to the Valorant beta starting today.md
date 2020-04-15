@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rBYEFU3kgBZVE2FGj72oPaMRbXk=/0x0:5600x3150/1200x800/filters:focal(2264x499:3160x1395)/cdn.vox-cdn.com/uploads/chorus_image/image/66653777/LogoVersion_Beta_Key_Art_VALORANT.0.jpg' width='700px' /><br/>
+Riot will make it easier to gain access to the closed beta of its popular new tactical shooter Valorant, the game developer announced late Tuesday. Now, not just select Twitch streamers, but all Twitch streamers who have access to the game can now drop the coveted beta access keys, so long as those streamers playing are actively live streaming the game and turn on the in-game drops feature.
+<a href='https://www.theverge.com/2020/4/14/21221483/riot-valorant-beta-access-expanded-twitch-keys-server-capacity'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/khCDL69K43ML-5kmhQE8DAfuVkg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66653137/akrales_191024_3753_0060.0.jpg' width='700px' /><br/>
+Wear OS, Google's operating system for smartwatches and wearables, now sends periodic reminders to wash your hands, one of the best ways to prevent the spread of the novel coronavirus.
+<a href='https://www.theverge.com/2020/4/14/21221294/google-wear-os-smartwatches-reminders-wash-your-hands'> Source <a/>

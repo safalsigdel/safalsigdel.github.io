@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zT_civDOfA8RJzQ3qv8cNEAceQ8=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/66652174/peacock_channels.0.jpg' width='700px' /><br/>
+With much of the United States forced to stay inside and looking for any kind of entertainment to make the days go by faster, NBCUniversal couldn't have picked a better time to launch its new Peacock streaming service — assuming you're a Comcast customer, that is.
+<a href='https://www.theverge.com/2020/4/14/21220728/peacock-streaming-service-launch-date-price-comcast-xfinity-flex'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zTP52AGVy9UjeoJHLUyav0lwuAg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66651054/gblackmon_VRG_3969_Medium_Corona3.0.0.jpg' width='700px' /><br/>
+On March 20th, an article about the novel coronavirus started to spread. “Evidence over hysteria — COVID-19” crystallized a viewpoint conservatives had been hawking for some time: the hysteria over the virus was overhyped. The United States needed to reopen the economy.
+<a href='https://www.theverge.com/2020/4/14/21219907/medium-coronavirus-covid-19-news-misinformation-conspiracy-theories-best-worst'> Source <a/>

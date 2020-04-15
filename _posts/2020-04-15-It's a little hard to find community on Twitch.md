@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZLAjipjE7zcxA1vriae4Uc3EloQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66652311/ACASTRO_190926_1777_TWITCH_0001.0.jpg' width='700px' /><br/>
+One of the weirdest things to me about Twitch is how it's a social site that doesn't incentivize much community-building. Part of this is obviously because it's a place for broadcasting, which is a one-to-many application. The other half of it is that the social functions that do exist on the site feel mostly geared toward growing communities around broadcasters instead of between them, which is a little strange!
+<a href='https://www.theverge.com/2020/4/14/21216416/twitch-community-building-raids-hosts-streamers'> Source <a/>

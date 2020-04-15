@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jB6XDe_PI_PE39nR7AtwZEDsm8o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66648927/jbareham_1492_170228_0216.0.0.jpg' width='700px' /><br/>
-The Nintendo Switch's 10.0.0 firmware update, which is available now, adds the ability for you to transfer your downloaded games directly from system memory to an SD card, or vice versa, to free up storage. The update also allows you to remap buttons on your controller and illustrate your user profile from a new collection of new Animal Crossing: New Horizons icons.
-<a href='https://www.theverge.com/2020/4/14/21220325/nintendo-switch-firmware-10-0-0-button-remapping-transfer-games-to-sd-card-animal-crossing-icons'> Source <a/>

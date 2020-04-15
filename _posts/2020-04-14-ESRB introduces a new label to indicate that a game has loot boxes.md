@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JrtDoRsXiWPvzMGEkXevL7j9gSI=/0x0:1024x750/1200x800/filters:focal(431x294:593x456)/cdn.vox-cdn.com/uploads/chorus_image/image/66645083/IGP_IRI2_1024x750.0.jpg' width='700px' /><br/>
-The Entertainment Software Rating Board (ESRB), which is the organization that rates the content of video games, announced a new label today to indicate that a game will offer in-game purchases of loot boxes or similar types of items that provide a player with randomized rewards.
-<a href='https://www.theverge.com/2020/4/13/21219192/esrb-new-label-loot-boxes-gacha-game'> Source <a/>

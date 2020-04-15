@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i9SHyKUKQvozZbe5J-TQlVTlv1w=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66647676/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
-Zoom will let paying customers pick which data centers calls can be routed through starting April 18th, the company announced in a blog post today. The changes come after a report from the University of Toronto's Citizen Lab found that Zoom generated encryption keys for some calls from servers in China, even if none of the people on the call were physically located in the country.
-<a href='https://www.theverge.com/2020/4/13/21219835/zoom-data-center-call-routing-china-security-privacy-encryption'> Source <a/>

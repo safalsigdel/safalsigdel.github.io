@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GrJZuS2ny9UHYDdmeOyOXMbb3x0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66648921/DSC00768.0.jpg' width='700px' /><br/>
-You can't claim to be a flagship phone in 2020 without having a high-refresh-rate display, and a new benchmark has now been set. RedMagic, a sub-brand of ZTE sub-brand Nubia, is putting its latest gaming phone up for global pre-order today, making the RedMagic 5G the first phone you'll be able to buy with a 144Hz screen. That's the standard refresh rate for high-end PC gaming monitors.
-<a href='https://www.theverge.com/2020/4/14/21220322/nubia-redmagic-5g-hands-on-144hz-price-865'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6HPFUwSGdkdHP9Yu5XeaCESf8gQ=/0x0:986x325/1200x0/filters:focal(0x0:986x325):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19897943/zRyMJFQ.png' width='700px' /><br/>
+After months of teasers and leaks, OnePlus is launching the OnePlus 8 and OnePlus 8 Pro today. Both are powered by Qualcomm's latest Snapdragon 865 chipset, but it's the larger OnePlus 8 Pro that comes with the big display and camera improvements. OnePlus worked a 90Hz display into the OnePlus 7 Pro last year, and that's jumping up to 120Hz for 2020.
+<a href='https://www.theverge.com/2020/4/14/21220394/oneplus-8-pro-announcement-specs-features-price-release-date'> Source <a/>
