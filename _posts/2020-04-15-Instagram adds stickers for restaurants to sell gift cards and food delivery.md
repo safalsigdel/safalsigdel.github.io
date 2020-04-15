@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QqKHDOcY50GUQzewCEiqQQU7-LQ=/0x0:1795x1197/1200x800/filters:focal(755x456:1041x742)/cdn.vox-cdn.com/uploads/chorus_image/image/66655959/Instagram_stickers.0.jpg' width='700px' /><br/>
+Instagram is trying to make it easier for small businesses to spread the word about how people can support them during the COVID-19 pandemic. Today, the company announced that business and creator accounts can now include stickers in their stories that direct people to a website where they can order food delivery or buy gift cards.
+<a href='https://www.theverge.com/2020/4/15/21222038/instagram-small-business-sticker-stories-gift-cards-delivery'> Source <a/>
