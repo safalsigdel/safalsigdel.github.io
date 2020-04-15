@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pF6xVZLbpYlaiAXYoVh8lCfSxNA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66655481/akrales_190913_3628_0277.0.jpg' width='700px' /><br/>
+Recording your iPhone screen can be super helpful, whether you want to save a clip of the game you're playing, record part of a live stream on Instagram, or create a how-to video for your friends. You can send the video clip you record to a relative or friend, upload it to Twitter, or post it to your Instagram story. Here are the steps on how to record your screen, whether you have a newer or older iPhone.
+<a href='https://www.theverge.com/2020/4/15/21219299/record-screen-how-to-video-iphone-apple-instagram-tiktok'> Source <a/>

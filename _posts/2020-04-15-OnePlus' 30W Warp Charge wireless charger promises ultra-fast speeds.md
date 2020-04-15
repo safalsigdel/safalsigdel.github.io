@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G8yLof2KhhUBzguv3zldc3Du0UE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66650812/vpavic_042008_3966_0046.0.jpg' width='700px' /><br/>
-The newly announced OnePlus 8 Pro is OnePlus' first phone with wireless charging, and the company is adding the feature in a big way, with up to 30W speeds that can charge up 50 percent of the battery in 30 minutes. But those kinds of speeds come at a big cost: you'll have to use OnePlus' special Warp Charge 30 chargers, which cost $69.95 and $79.95 for the pad and stand versions, respectively.
-<a href='https://www.theverge.com/2020/4/14/21219525/oneplus-8-wireless-charger-warp-price-specs-release-date'> Source <a/>

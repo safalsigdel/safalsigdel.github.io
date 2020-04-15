@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F-dB5jgdZLjW6ljPVBr3vQFVR2s=/0x0:2040x1360/1200x675/filters:focal(872x632:1198x958)/cdn.vox-cdn.com/uploads/chorus_image/image/66655227/mchin_200413_3971_0007.0.jpg' width='700px' /><br/>
+Every time a new XPS 13 comes out, the question is always the same: is it still the best Windows thin-and-light laptop? I'll spare you the suspense here: the answer is yes.
+<a href='https://www.theverge.com/2020/4/15/21221003/dell-xps-13-2020-review-core-i7-specs-features-price'> Source <a/>

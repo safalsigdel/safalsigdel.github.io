@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hDvw5CV_mRwnQ5qgWSlQiQ1yX6Q=/0x0:1235x1700/1200x800/filters:focal(511x564:707x760)/cdn.vox-cdn.com/uploads/chorus_image/image/66650790/EVky_U2XgAMdEv0.6.jpeg' width='700px' /><br/>
-OnePlus announced the OnePlus Bullets Wireless Z wireless headphones at its OnePlus launch event today. They're the latest model in OnePlus' Bullets line of headphones, which last saw an update with the Bullets Wireless 2 in May 2019. The OnePlus Bullets Wireless Z will cost $49.95 and are “coming soon,” according to OnePlus' store page for the new headphones.
-<a href='https://www.theverge.com/2020/4/14/21219689/oneplus-bullets-wireless-z-earbuds-headphones-price'> Source <a/>

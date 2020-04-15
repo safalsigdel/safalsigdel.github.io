@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9300/oneplus.jpg' width='700px' /><br/>
-The OnePlus 8 Pro is the result of a relentless spec battle with Samsung. It's an Android phone that spares almost no expense in the quest to include the most powerful, best hardware components. The result is the fastest Android phone experience money can buy — starting at $899.
-<a href='https://www.theverge.com/2020/4/14/21219861/oneplus-8-pro-review-specs-features-price-camera-battery-photos-video'> Source <a/>
