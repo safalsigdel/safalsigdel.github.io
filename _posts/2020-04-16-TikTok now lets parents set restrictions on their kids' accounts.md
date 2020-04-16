@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FGbwVXHyP_zblBqjHrjjn6IiprM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66661383/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+TikTok is amping up its parental controls today with a feature that lets parents remotely set restrictions on their kids' accounts. The new feature, called Family Pairing, allows parents to link their kids' accounts to their own, where they'll be able to disable direct messages, turn on restricted content mode, and set screen time limits.
+<a href='https://www.theverge.com/2020/4/16/21222817/tiktok-family-pairing-linked-accounts'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ytPyJJu0aT52Py5WQCIipssHdz8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66655576/acastro_200410_1777_OBS_0001.0.jpg' width='700px' /><br/>
-I keep writing about live-streaming like it's accessible and easy to do — which it's not. It's actually quite difficult to get started. Sorry! My bad. I didn't mean to lead you astray. If you're still Twitch-curious, I have a gift for you: a guide for how to get started.
-<a href='https://www.theverge.com/2020/4/15/21213548/live-stream-obs-how-to-streamlabsobs-windows-mac-hardware'> Source <a/>
