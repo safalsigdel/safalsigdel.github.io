@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bOBoWch0nxO05_hmBuoEfaQsUrk=/0x0:823x535/1200x800/filters:focal(347x203:477x333)/cdn.vox-cdn.com/uploads/chorus_image/image/66656169/Screen_Shot_2020_04_15_at_10.23.47_AM.0.png' width='700px' /><br/>
-Neon Genesis Evangelion, Hideaki Anno's seminal anime about traumatized child pilots, is branching into friendlier offshoots with a Tamagotchi crossover. In Japan, they'll launch on June 13th for 2,530 yen (roughly $23). Finally, your very own lil murder tyke, safely contained in a plastic egg.
-<a href='https://www.theverge.com/2020/4/15/21222047/neon-genesis-evangelion-tamagotchi-asuka-shinji-rei-date-characters'> Source <a/>
