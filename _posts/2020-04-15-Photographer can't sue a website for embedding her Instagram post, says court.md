@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_XjJRpA3B77qPaq6p4GkFcaTwE8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66652563/acastro_190919_1777_instagram_0003.0.0.jpg' width='700px' /><br/>
-A court ruled yesterday that Mashable can embed a professional photographer's photo without breaking copyright law, thanks to Instagram's terms of service. The New York district court determined that Stephanie Sinclair offered a “valid sublicense” to use the photograph when she posted it publicly on Instagram.
-<a href='https://www.theverge.com/2020/4/14/21221078/stephanie-sinclair-mashable-instagram-embed-copyright-lawsuit-dismissed'> Source <a/>

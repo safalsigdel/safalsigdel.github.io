@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u3mubOGjaFt98RU3w2H_L7WTAeQ=/0x0:2176x1451/1200x800/filters:focal(914x552:1262x900)/cdn.vox-cdn.com/uploads/chorus_image/image/66656061/magickeyboard.0.jpg' width='700px' /><br/>
+Apple is shipping its new keyboard case for the iPad Pro ahead of schedule. The company just announced that the Magic Keyboard is now available for preorder and will start arriving to customers next week. Apple had originally said it would launch in May. The Magic Keyboard costs $299 for the 11-inch iPad Pro and $349 for the 12.9-inch model. It supports both this year's iPad Pro and the 2018 models.
+<a href='https://www.theverge.com/2020/4/15/21222158/apple-ipad-pro-magic-keyboard-now-available-preorder-price'> Source <a/>

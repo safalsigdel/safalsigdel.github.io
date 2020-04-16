@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-h_iAI9uZhV3fTxIFb66SjZw2nw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66659659/cwelch_191031_3763_0003.0.jpg' width='700px' /><br/>
+Apple's AirPods Pro came with a set of replacements for the newly removable ear tips that come in one three different sizes. But in the event you lost those replacements, and perhaps have lost or damaged the current pair, you can now buy the silicone tips for Apple's wireless earbuds from its online store (via 9to5Mac).
+<a href='https://www.theverge.com/2020/4/15/21222930/apple-airpods-tip-replacements-for-sale-online'> Source <a/>

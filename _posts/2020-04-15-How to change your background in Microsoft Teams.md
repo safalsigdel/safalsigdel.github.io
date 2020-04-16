@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eFzaSK-byYu6jwBb8aeBKcR-PRg=/0x0:2502x1668/1200x800/filters:focal(1051x634:1451x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/66651938/microsoftteamsstock.0.0.jpg' width='700px' /><br/>
-While Zoom has had its problems — quite a few problems, actually — the videoconferencing app remains popular for its ease of use and features such as the ability to pop in different backgrounds. Now, Microsoft has added that ability to its own Teams office communications app.
-<a href='https://www.theverge.com/2020/4/14/21220559/microsoft-teams-how-to-background-change-image-home-office'> Source <a/>

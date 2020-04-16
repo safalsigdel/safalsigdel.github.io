@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1C4IAu6KeRxECasYfDEcCHSwau0=/0x173:2160x1263/1200x800/filters:focal(917x515:1261x859)/cdn.vox-cdn.com/uploads/chorus_image/image/66657435/TeacherApprovedScrolly.0.jpg' width='700px' /><br/>
+Google is launching a new Kids section for the Google Play Store, which will offer a selection of so-called “Teacher Approved” apps. The search giant says these are apps that meet its quality standards and are highly rated by teachers. Each approved app includes a list of reasons why teachers like it, including age-appropriateness, and what it's trying to teach children.
+<a href='https://www.theverge.com/2020/4/15/21221830/google-play-kids-section-teacher-approved-educational-apps'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KqbMWGnUsFojNKvDOesn1xIv_XE=/0x0:2524x1432/1200x800/filters:focal(1061x515:1463x917)/cdn.vox-cdn.com/uploads/chorus_image/image/66658764/Screen_Shot_2020_04_15_at_4.13.10_PM.0.png' width='700px' /><br/>
+Apple will donate a portion of sales from Product Red products to a COVID-19 relief fund, the company announced today. Product Red donations normally go toward fighting HIV/AIDS, but the organization has started directing money toward COVID-19 responses in light of the pandemic.
+<a href='https://www.theverge.com/2020/4/15/21222717/apple-product-red-coronavirus-donations-announced'> Source <a/>

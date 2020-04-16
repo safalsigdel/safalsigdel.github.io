@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wtKTp8Ppps7_tTA0F14yWCC3lgk=/0x0:2040x1360/1200x800/filters:focal(883x603:1209x929)/cdn.vox-cdn.com/uploads/chorus_image/image/66652433/akrales_180508_2553_0063.0.jpg' width='700px' /><br/>
-Google may be developing its own processor that could power the company's Pixel phones as early as next year, while later versions of the processor could be used in Google's Chromebooks, according to a report by Axios. Apple has long used its own processors in many of its devices, and it seems Google could be looking to do something similar for its own hardware.
-<a href='https://www.theverge.com/2020/4/14/21221062/google-processor-pixels-chromebooks-whitechapel-samsung-qualcomm'> Source <a/>

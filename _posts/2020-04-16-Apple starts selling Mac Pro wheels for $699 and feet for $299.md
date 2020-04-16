@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EwM5eO5EyKBPvadp3tM_O--7BQI=/0x0:1000x1000/1200x800/filters:focal(420x420:580x580)/cdn.vox-cdn.com/uploads/chorus_image/image/66657034/MX572.0.png' width='700px' /><br/>
+Apple is now selling the wheels and feet separately from the 2019 Mac Pro via individual kits, but like the Mac Pro itself, both kits are pretty expensive (via 9to5Mac).
+<a href='https://www.theverge.com/2020/4/15/21222310/apple-mac-pro-feet-wheels-kits-stainless-steel-price-delivery'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/guCEsacEN_1uSUbkn4q-j0nGuaI=/0x0:2162x1441/1200x800/filters:focal(909x549:1253x893)/cdn.vox-cdn.com/uploads/chorus_image/image/66655191/glitchboost.0.jpg' width='700px' /><br/>
-The coding platform Glitch is formally launching its first paid product today: a subscription that lets you pay to upgrade the bite-sized apps you can run on its platform.
-<a href='https://www.theverge.com/2020/4/15/21220438/glitch-boosted-apps-subscriptions-coding-platform-anil-dash'> Source <a/>

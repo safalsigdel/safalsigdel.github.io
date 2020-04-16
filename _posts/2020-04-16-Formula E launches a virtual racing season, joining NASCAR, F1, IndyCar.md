@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6ONeG8-rF6tSuvH7R0sggr8OQlg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66656533/formula_e_7045.0.jpg' width='700px' /><br/>
+All-electric racing series Formula E is launching a nine-week sim racing competition after having to put its sixth season on pause due to the novel coronavirus pandemic. The series joins the likes of NASCAR, Formula One, and IndyCar, all of which are already leaning on the robust software and community of online sim racing to keep fans and drivers entertained and occupied in the absence of real-world racing.
+<a href='https://www.theverge.com/2020/4/15/21221999/formula-e-sim-virtual-racing-series-f1-nascar-pandemic'> Source <a/>

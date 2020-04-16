@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oV9TyDUrNCQGKiYum6npzRvCvpo=/0x0:1100x729/1200x800/filters:focal(462x277:638x453)/cdn.vox-cdn.com/uploads/chorus_image/image/66656361/hacker-stock1_2040.0.jpg' width='700px' /><br/>
+As the novel coronavirus pandemic has swept across the world over the last few weeks, a pro-Iranian influence operation has spread disinformation over social media suggesting that the US government created the disease, according to a new report from Graphika.
+<a href='https://www.theverge.com/2020/4/15/21222133/iran-disinformation-campaign-iuvm-facebook-twitter-graphika-china'> Source <a/>

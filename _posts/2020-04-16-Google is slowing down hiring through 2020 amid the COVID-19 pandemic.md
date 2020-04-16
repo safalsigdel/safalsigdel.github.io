@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ju9HGx7kMJDcV2JsoeNLRTwH9Lo=/0x0:2040x1360/1200x800/filters:focal(877x603:1203x929)/cdn.vox-cdn.com/uploads/chorus_image/image/66659671/akrales_180508_2553_0006.0.jpg' width='700px' /><br/>
+Google says it will slow hiring for the remainder of 2020 and adjust its investments in areas like data centers and marketing amid the COVID-19 pandemic, according to an email from CEO Sundar Pichai sent to Google employees that was obtained by Bloomberg. Google confirmed the authenticity of the email to The Verge.
+<a href='https://www.theverge.com/2020/4/15/21222942/google-slowing-down-hiring-through-2020-covid-19-pandemic'> Source <a/>

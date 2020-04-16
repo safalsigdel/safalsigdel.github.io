@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NNyycmUye3C1M5xfHW-fY6xiBCM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66652203/theverge1_2040.0.0.jpg' width='700px' /><br/>
-Sling is providing free TV from 5PM to midnight each night, as part of a new initiative to encourage Americans to stay home. Starting today, new Sling TV customers can register for the service, which the company is calling “Happy Hour Across America.” Don't worry — Sling isn't asking for a credit card, so you won't have to worry about canceling later on.
-<a href='https://www.theverge.com/2020/4/14/21221065/sling-tv-blue-tier-free-home-channels-time-happy-hour'> Source <a/>

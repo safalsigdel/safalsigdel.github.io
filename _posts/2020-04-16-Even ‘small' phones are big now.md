@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rDZYUdOvOaVGtGsd2stNGvLVlos=/0x0:2894x1790/1200x800/filters:focal(1216x664:1678x1126)/cdn.vox-cdn.com/uploads/chorus_image/image/66658587/Screen_Shot_2020_04_15_at_10.08.32_AM.0.png' width='700px' /><br/>
+It's been a bad year for small phone lovers. It's no secret that the average size of new smartphones has increased dramatically over the past few years. But this year it feels like the idea of a small phone you'd actually want to use as a primary device (read: not whatever that Palm phone was trying to be a couple years back) is truly dead and gone.
+<a href='https://www.theverge.com/2020/4/15/21222642/iphone-se-2-size-comparison-small-phone-trend-galaxy-oneplus'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kCOARa6Gux2GoSY7lwXnNYzC6PY=/0x0:640x264/1200x0/filters:focal(0x0:640x264):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19568241/proc_newsletter_header.png' width='700px' /><br/>
-We got both the announcement and the embargo lift for OnePlus' new top-tier smartphones yesterday. Here's my review of the OnePlus 8 Pro and here is Jon Porter's review of the OnePlus 8 — both with video.
-<a href='https://www.theverge.com/2020/4/15/21221638/oneplus-8-pro-vs-samsung-galaxy-s20-verizon-carriers-features-specs'> Source <a/>

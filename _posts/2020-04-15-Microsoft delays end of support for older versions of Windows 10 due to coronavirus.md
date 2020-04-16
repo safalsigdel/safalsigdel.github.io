@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/alEMYHMjuMsdimfeMdOs65O3BCc=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/66651742/mswindows2_2040.0.0.jpg' width='700px' /><br/>
-Microsoft is providing IT admins with an extra six months of support for some older versions of Windows. The software giant has been working with businesses impacted by the coronavirus pandemic and delay the end of support dates that mostly impact Windows 10 versions.
-<a href='https://www.theverge.com/2020/4/14/21220938/microsoft-windows-10-end-of-support-delay-coronavirus'> Source <a/>

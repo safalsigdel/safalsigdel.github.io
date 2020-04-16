@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AJjW5K_qnb3srtljKLckZd2uv5M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66656569/wjoel_180319_2394_facebook_006.0.0.jpg' width='700px' /><br/>
+Facebook wants to stop people from abusing its system, so it's making a world of bots that can imitate them. Company researchers have released a paper on a “Web Enabled Simulation” (WES) for testing the platform — basically a shadow Facebook where nonexistent users can like, share, and friend (or harass, abuse, and scam) away from human eyes.
+<a href='https://www.theverge.com/2020/4/15/21221992/facebook-wes-simulation-research-paper-bots-scammers-new-feature'> Source <a/>
