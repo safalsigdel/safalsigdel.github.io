@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DQsIu7zWNmGXJai2M2tRnOQzZ2E=/0x0:2040x1360/1200x675/filters:focal(1053x568:1379x894)/cdn.vox-cdn.com/uploads/chorus_image/image/66661595/cfaulkner_200414_3976_0009.0.jpg' width='700px' /><br/>
+The $300 Moto G Stylus and $250 G Power can take excellent photos. That's not a sentence I thought I would write when I started testing Motorola's latest budget phones. They're both capable of shooting some of the most detailed, color-balanced photos that I've seen from a device at these prices, while undercutting Google's midrange Pixel 3A by $100.
+<a href='https://www.theverge.com/2020/4/16/21222512/moto-g-stylus-power-review-price-features-specs-android-10-camera'> Source <a/>
