@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CsUP166vYjcjTTRG6pDL-lX37lQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66664718/acastro_200109_1777_verizon_0001.0.0.jpg' width='700px' /><br/>
+Verizon CEO Hans Vestberg said that conspiracy theories linking the rollout of 5G to the spread of COVID-19 are false in an interview with CNBC today.
+<a href='https://www.theverge.com/2020/4/16/21224097/verizon-ceo-hans-vestberg-5g-conspiracy-theories-evidence'> Source <a/>
