@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/waP4TceUNi7DgxA-ZfBx14yQc0s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66661169/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
-Apple's unannounced high-end over-ear headphones will reportedly come with interchangeable parts. Bloomberg reports that Apple is developing new high-end headphones that include swappable ear pads and headbands that magnetically attach. The modular design, similar to some other high-end headphone brands, is reportedly designed for owners to switch out parts during exercise sessions.
-<a href='https://www.theverge.com/2020/4/16/21223366/apple-headphones-over-ear-swappable-headband-ear-pads-noise-cancellation-rumors'> Source <a/>
