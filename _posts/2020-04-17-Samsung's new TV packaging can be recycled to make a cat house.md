@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/44pkJnwMur7_2lPTNkO0uCj_fdU=/0x0:2160x1440/1200x800/filters:focal(908x548:1252x892)/cdn.vox-cdn.com/uploads/chorus_image/image/66668409/Eco_Packaging_for_Lifestyle_TV_Lineup_4.0.jpg' width='700px' /><br/>
+TVs are large items, and they come with a heck of a lot of packaging. Wouldn't it be nice if you could use that packaging for something such as, I don't know, a cat house? Also, I suppose, bins for books or DVDs or whatever. But mostly a cat house. Look at that cat house!
+<a href='https://www.theverge.com/2020/4/17/21225013/samsung-cardboard-box-cat-house-serif-frame-sero-tv-packaging'> Source <a/>
