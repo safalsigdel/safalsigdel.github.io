@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/60rMiScCGeMZEr8l1SGfY-ZD4rU=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/66665069/windows2_2040.0.0.jpg' width='700px' /><br/>
+Microsoft is releasing the final version of its Windows 10 May 2020 Update today. While the update won't roll out automatically to machines until next month, Windows 10 testers can get it early today by opting into the Release Preview ring of testing to get the final build. Like the previous November 2019 Update, this new update is a relatively small one that includes some improvements to Cortana and Windows search.
+<a href='https://www.theverge.com/2020/4/16/21224257/microsoft-windows-10-may-update-release-preview-download'> Source <a/>
