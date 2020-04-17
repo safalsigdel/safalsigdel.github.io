@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8QUT6OPh023UK_uiTHwgDZ049-w=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/66665515/One_World_Together_At_Home.0.jpg' width='700px' /><br/>
-One World: Together At Home, the unprecedented all-remote benefit concert airing this Saturday to show support for healthcare workers worldwide during the COVID-19 pandemic, will air inside the virtual multiplayer game Roblox. That's in addition to the standard television broadcast channels carrying the event and the slew of streaming services and tech platforms also airing it on Saturday.
-<a href='https://www.theverge.com/2020/4/16/21224386/one-world-together-at-home-roblox-benefit-concert'> Source <a/>

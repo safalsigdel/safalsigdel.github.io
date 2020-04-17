@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z6WOnal2IptjWLGpgBaawHwS2nY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66661060/acastro_200311_3936_coronavirus_0001.0.0.jpg' width='700px' /><br/>
-Most days in this column I try to bring you one big story about the intersection of tech and democracy, but reading the news today I find I can't draw any real lessons for you. Instead I see a few clusters of stories that feel worth reading and thinking about. Let's take a look.
-<a href='https://www.theverge.com/interface/2020/4/16/21222335/pandemic-response-federal-government-big-tech-apple-google-amazon-zoom'> Source <a/>

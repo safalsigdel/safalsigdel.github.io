@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-eVheTPgDNXNhdOuOAKCDcaMxwc=/0x0:1777x1168/1200x800/filters:focal(747x442:1031x726)/cdn.vox-cdn.com/uploads/chorus_image/image/66663808/microsoftnba.0.jpg' width='700px' /><br/>
-Microsoft has signed a multiyear deal with National Basketball Association (NBA) to become the official AI, cloud, and laptop provider for the league. The deal will see the NBA using Microsoft's Azure platform to broadcast live and on-demand basketball games, with personalized content.
-<a href='https://www.theverge.com/2020/4/16/21223932/microsoft-nba-partnership-deal-azure-surface-details'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y19GCVqjN8kiIzRIFcfX4zcsoGM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66663687/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
-Google plans to add a Zoom-like gallery view to its business- and education-focused Meet videoconferencing service and let users start calls and join meetings right from Gmail, Google's GM and VP of G Suite Javier Soltero told Reuters in an interview. The additions come amid huge growth for Meet as families, students, and workers use the service while at home due to the COVID-19 pandemic.
-<a href='https://www.theverge.com/2020/4/16/21223778/google-meet-gallery-view-calls-gmail-javier-soltero'> Source <a/>

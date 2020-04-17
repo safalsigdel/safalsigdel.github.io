@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iDo1dM-x64obwsjxatq0yLB-Wdo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66664147/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google's wireless network, Google Fi, can now be activated on an iPhone via eSIM, as spotted by 9to5Google. That means you can use a Google Fi number on your iPhone in addition to your phone number that's hooked up to the physical SIM card that sits in the SIM tray in your iPhone. It also means you can get a Google Fi number without having a SIM card mailed to you or having to buy one at a retail store like Best Buy.
-<a href='https://www.theverge.com/2020/4/16/21223943/iphone-google-fi-activate-esim-dual-sim-ios'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PPmACQGgzVPqtTvCmFXywZA-gi8=/0x0:704x600/1200x800/filters:focal(296x244:408x356)/cdn.vox-cdn.com/uploads/chorus_image/image/66665580/mavicair2_01_704x600.0.jpg' width='700px' /><br/>
-Drone company DJI released the compact $799 Mavic Air in January 2018, and The Verge's Vjeran Pavic thought it was a great drone, though not the best option for serious photo and video work. More than two years on from the Mavic Air's release, it seems as if DJI is close to releasing a proper sequel in the form of the Mavic Air 2.
-<a href='https://www.theverge.com/2020/4/16/21224301/dji-mavic-air-2-leaks-rumors-flight-time-battery-anatel'> Source <a/>
