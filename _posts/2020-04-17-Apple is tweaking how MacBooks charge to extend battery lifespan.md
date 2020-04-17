@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ch_EInhoXycdrH9Vy8jS1PcgHlo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66663321/vpavic_191118_3800_0162.0.jpg' width='700px' /><br/>
+Apple is introducing a new feature in most modern MacBooks called “Battery health management.” It's going to be available today for developers and will roll into the future macOS Catalina 10.15.5 update.
+<a href='https://www.theverge.com/2020/4/16/21223607/macbook-battery-health-management-charge-percentage'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/paEAZFYGpB-4u4UARXTq9uhlDxM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66656636/acastro_180927_1777_lyft_0001.0.jpg' width='700px' /><br/>
-Lyft is launching a new delivery service aimed at helping drivers earn money during the novel coronavirus pandemic. As demand for ride-hailing collapses, Lyft's new pilot program will tap drivers to deliver “essential” items like groceries, medical supplies, and home goods.
-<a href='https://www.theverge.com/2020/4/15/21222008/lyft-food-delivery-drivers-service-coronavirus-pandemic'> Source <a/>

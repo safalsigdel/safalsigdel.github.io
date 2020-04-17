@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0ur8MEG9WMithCNa948f70vas1E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66659227/sokane_181116_3101_fremont_0064.0.jpg' width='700px' /><br/>
-Self-driving startup Zoox has admitted that four of its employees took confidential documents from their previous employer Tesla, according to a statement issued after the company settled a lawsuit this week over the matter.
-<a href='https://www.theverge.com/2020/4/15/21222763/tesla-zoox-startup-lawsuit-settlement-autonomous-driving'> Source <a/>

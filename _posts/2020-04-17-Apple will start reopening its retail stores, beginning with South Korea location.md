@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oO4JpvyOBMz08m5pQPVMSBAhmC4=/0x0:2040x1360/1200x800/filters:focal(848x702:1174x1028)/cdn.vox-cdn.com/uploads/chorus_image/image/66663274/akrales_190919_3670_0085.0.jpg' width='700px' /><br/>
+Apple said on Thursday that it would reopen its retail store in Seoul, South Korea, this week as part of a broader push to resume physical retail operations amid the COVID-19 pandemic, according to Bloomberg. There are no concrete plans yet to reopen stores elsewhere, although Apple has said in the past that it could start reopening stores in the US sometime in May.
+<a href='https://www.theverge.com/2020/4/16/21223779/apple-store-reopen-south-korea-seoul-coronavirus-covid-19'> Source <a/>

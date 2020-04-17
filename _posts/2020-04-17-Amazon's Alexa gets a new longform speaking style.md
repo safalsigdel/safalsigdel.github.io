@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zFuMMALbNsdMamddWKPCi8MaNRQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66665055/acastro_180510_1777_alexa_0002.0.jpg' width='700px' /><br/>
+Amazon is introducing a new speaking style for Alexa and adding some speaking styles for other AI voices, the company said today. The longform speaking style is available for US developers who want a reading voice that sounds more natural when reading long pieces of content, like articles or podcasts.
+<a href='https://www.theverge.com/2020/4/16/21224141/amazon-alexa-long-form-speaking-polly-ai-voice'> Source <a/>

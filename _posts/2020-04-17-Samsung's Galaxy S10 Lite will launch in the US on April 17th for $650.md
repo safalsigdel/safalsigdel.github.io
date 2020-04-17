@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bwWqkE13dkA57i5J51mO42LWwfk=/528x297:3279x1848/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/66662935/galaxy_s10_lite_front_and_back.5.png' width='700px' /><br/>
+Samsung's Galaxy S10 Lite will be available in the US starting tomorrow, April 17th, and it will cost $650, the company announced today. You'll be able to buy it unlocked in one color, Prism Black, from Samsung's online store, Amazon, and Best Buy's website.
+<a href='https://www.theverge.com/2020/4/16/21223674/samsung-galaxy-s10-lite-release-date-price-tab-s6-lite'> Source <a/>

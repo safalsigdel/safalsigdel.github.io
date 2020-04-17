@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/07xfYUslW21J72QdQsx8ou7OwzE=/0x0:1808x1196/1200x800/filters:focal(814x498:1102x786)/cdn.vox-cdn.com/uploads/chorus_image/image/66658277/Screen_Shot_2020_04_15_at_3.35.15_PM.0.png' width='700px' /><br/>
-Customers who currently subscribe to HBO through Charter, including those who pay for Charter's Silver and Gold video packages, will get access to WarnerMedia's new HBO Max streaming service when it launches next month.
-<a href='https://www.theverge.com/2020/4/15/21222618/hbo-max-charter-free-customers-subscribers-warnermedia-comcast-peacock'> Source <a/>
