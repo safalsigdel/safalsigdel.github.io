@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PENUjQ8TxnCU2DU2bpqaWfE5G0g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66668137/bfarsace_200407_3962_0003.0.jpg' width='700px' /><br/>
+Is it safe to use the videoconferencing app Zoom? Yes — if you know how to set it up properly.
+<a href='https://www.theverge.com/2020/4/17/21196104/how-to-keep-your-zoom-meetings-safe-security-privacy'> Source <a/>

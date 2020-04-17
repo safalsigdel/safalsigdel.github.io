@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dNYb8i0Zq8yyyLZJPUysClG5rlY=/0x0:2894x1790/1200x800/filters:focal(1216x664:1678x1126)/cdn.vox-cdn.com/uploads/chorus_image/image/66668248/Screen_Shot_2020_04_15_at_10.08.32_AM.0.png' width='700px' /><br/>
+Apple had a few surprises for us this week: a new version of the fan-favorite iPhone SE and the early availability of its Magic Keyboard for the iPad Pro.
+<a href='https://www.theverge.com/2020/4/17/21224915/apple-iphone-se-first-look-one-plus-8-review-vergecast-podcast'> Source <a/>

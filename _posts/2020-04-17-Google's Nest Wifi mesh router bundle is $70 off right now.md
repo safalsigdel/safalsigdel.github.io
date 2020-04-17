@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BPc_Q8lVPJGjjrVB4IIAX6trKjA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66667882/vpavic_191010_3722_0001.0.jpg' width='700px' /><br/>
+Google's Nest Wifi mesh routers and extenders have been discounted plenty of times since they launched last year, but Bed Bath & Beyond (originally via Slickdeals) might have the best deal yet. It's offering a deal on a bundle that contains one Nest Wifi router and one Nest Wifi point. This kit usually costs $269, but you can get it right now for $199.
+<a href='https://www.theverge.com/good-deals/2020/4/17/21224847/google-nest-wifi-mesh-router-iphone-se-2-smart-speaker-deal-sale-discount'> Source <a/>
