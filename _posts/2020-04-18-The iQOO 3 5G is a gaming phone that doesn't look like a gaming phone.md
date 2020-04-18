@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_qs-wihQawBRChMRGOaOcMiyFZE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66666483/DSCF7217.0.jpg' width='700px' /><br/>
-When someone says “gaming phone,” you probably know what to expect. Aggressive design. LED effects. Maybe a vent or two. The prescribed gamer aesthetic is unsubtle and, despite the widespread popularity of video games, very much not for everyone.
-<a href='https://www.theverge.com/2020/4/17/21224697/iqoo-3-5g-gaming-phone-specs-price-india'> Source <a/>
