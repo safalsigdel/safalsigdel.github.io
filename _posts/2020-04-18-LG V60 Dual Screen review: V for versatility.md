@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DDvTEqE6nKI1mTgPfG-8-qmm--k=/0x0:2040x1148/1200x675/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/66669539/DSCF5826.0.jpg' width='700px' /><br/>
+LG is planning a major refresh for its next mainstream smartphone, but before getting there, the company decided to release another entry in its spec-heavy V-series, the V60 ThinQ. With advanced manual camera controls, a hi-fi headphone jack, and top-end specs, these phones have always been geared toward tech enthusiasts.
+<a href='https://www.theverge.com/2020/4/17/21225118/lg-v60-thinq-5g-review-dual-screen-specs-features-price'> Source <a/>

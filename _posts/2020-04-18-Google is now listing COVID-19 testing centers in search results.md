@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fgxfk4fzFgBd_F7dbIYI2TFRDEw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66671083/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google searches for terms related to COVID-19 will now display information for more than 2,000 COVID-19 testing centers across 43 states in the US, the company tells The Verge.
+<a href='https://www.theverge.com/2020/4/17/21225828/google-showing-covid-19-testing-centers-search-results'> Source <a/>

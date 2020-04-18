@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ft1upIwtjaBuidY6dgEgdZz53-U=/0x223:713x703/1200x800/filters:focal(300x455:414x569)/cdn.vox-cdn.com/uploads/chorus_image/image/66668800/Poster_HandWash_01_713x1024.0.png' width='700px' /><br/>
+Samsung has added a hand-washing app to its Galaxy smartwatches that can send you reminders to wash your hands and time you while you do so (via SamMoblie). Google added similar features to Wear OS on April 14th.
+<a href='https://www.theverge.com/2020/4/17/21225205/samsung-smartwatch-galaxy-active-hand-washing-timer-reminder-app'> Source <a/>

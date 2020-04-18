@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BBvgk1-7pYi_MmvtyLVIdwjZ7v0=/0x0:2040x1360/1200x800/filters:focal(825x620:1151x946)/cdn.vox-cdn.com/uploads/chorus_image/image/66672064/jbareham_171102_2108_0017.0.jpg' width='700px' /><br/>
+Welcome to the weekend. GameStop is hosting a one-day deal on video games, consoles, accessories, and more. If you've had a few titles, a spare controller, or anything else on your wishlist, it's worth checking out some of the deals.
+<a href='https://www.theverge.com/good-deals/2020/4/18/21225687/gamestop-xbox-one-ps4-nintendo-switch-video-games-iphone-se2-sale-discount'> Source <a/>

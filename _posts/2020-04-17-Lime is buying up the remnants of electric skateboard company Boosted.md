@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E1h19M5IQKgtb31e9Yj0KJm4WaU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66665859/akrales_180709_2715_0013.0.jpg' width='700px' /><br/>
-Scooter sharing company Lime is scooping up the assets of defunct electric skateboard startup Boosted, The Verge has learned. At least five of Boosted's core patents were assigned to Lime's holding company on April 15th in the government's database, and two former employees say Lime has been working on acquiring Boosted's intellectual property dating back to the end of 2019.
-<a href='https://www.theverge.com/2020/4/16/21224164/lime-buys-boosted-electric-skateboard-scooter-acquistion-bankrupt'> Source <a/>
