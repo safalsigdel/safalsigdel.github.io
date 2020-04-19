@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UJ_Tk3JEUG4RQWzlhrDyzou4cjk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66674578/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
+Amazon will extend the closures of its fulfillment centers in France until at least April 22nd, Reuters reports. The e-commerce company closed six of the centers in France April 15th, after a French court ruled Amazon could be fined xe2x82xac1 million per item if it ships anything not directly related to medical supplies, hygiene products, and food items.
+<a href='https://www.theverge.com/2020/4/19/21227016/amazon-france-closed-april-22nd-coronavirus'> Source <a/>
