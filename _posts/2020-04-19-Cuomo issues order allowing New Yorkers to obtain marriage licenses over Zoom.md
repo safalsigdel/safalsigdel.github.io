@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BerxCi19fapoKLBY2jbNArwHkx4=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66673085/VRG_3955_zoomweddings.0.0.jpg' width='700px' /><br/>
+With New York's marriage bureaus closed because of the coronavirus pandemic, Gov. Andrew Cuomo said Saturday that the state will begin allowing marriage licenses to be granted remotely, and, for clerks to conduct ceremonies over video.
+<a href='https://www.theverge.com/2020/4/18/21226544/cuomo-new-yorkers-marriage-licenses-zoom-coronavirus'> Source <a/>
