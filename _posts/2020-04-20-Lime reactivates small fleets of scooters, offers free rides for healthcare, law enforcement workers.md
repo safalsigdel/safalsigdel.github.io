@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nnPqQ7683pmsdEGYKcuKYChZSro=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66674907/akrales_190321_3312_0028.0.jpg' width='700px' /><br/>
+E-scooter-sharing company Lime is reactivating small fleets of scooters in about a dozen cities and will offer free 30-minute rides for health care workers and law enforcement officers, the company announced. Its Lime Aid initiative is meant to address essential workers' need for transportation while social distancing amid the coronavirus pandemic.
+<a href='https://www.theverge.com/2020/4/19/21227108/lime-reactivates-scooters-free-rides-essential-workers-pandemic'> Source <a/>

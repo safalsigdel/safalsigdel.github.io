@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cEJ77X1FzCAatG_BpIJentptII4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66676074/vpavic_042009_3966_0020.0.jpg' width='700px' /><br/>
+OnePlus announced the 8 and 8 Pro phones early last week, but didn't share pricing information for India, one of its most important markets. Now we have the numbers, and the new phones could be a lot more competitive than you might have thought based on the US prices, which pushed the brand into flagship territory.
+<a href='https://www.theverge.com/2020/4/19/21227535/oneplus-8-pro-india-price-us-comparison'> Source <a/>

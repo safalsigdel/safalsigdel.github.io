@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZGa3LTqiWgq-l7shdkD21qcGkBA=/0x0:2060x1373/1200x800/filters:focal(866x523:1194x851)/cdn.vox-cdn.com/uploads/chorus_image/image/66656079/iPhone_SE_AllColors_34BR_Screen.5.jpg' width='700px' /><br/>
-Preorders have begun for the iPhone SE 2, and the phone will be available on Friday, April 24th. Since Apple Stores around the US are closed, your only option at the moment to purchase directly through Apple is to order it online and have it delivered to you. However, other retailers are offering delivery and in-store or curbside pickup.
-<a href='https://www.theverge.com/2020/4/15/21221308/iphone-se-buy-how-to-carriers-price-2020-apple'> Source <a/>
