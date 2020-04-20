@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9GiWJDGfk1C_Vh7xANP5h3_iOxg=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/66667928/windows10launcherpowertoy.0.jpg' width='700px' /><br/>
-Microsoft is currently building a new Spotlight-like launcher app for Windows 10. Designed to replace the existing Win + R shortcut, the new launcher will include options to quickly search apps and files across Windows and support for plugins like calculators, dictionaries, and search engines.
-<a href='https://www.theverge.com/2020/4/17/21224904/microsoft-windows-10-launcher-powertoy-spotlight-alfred-details'> Source <a/>
