@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/beLXH8bd6m1mdAzYs0G4JM-O5ig=/0x0:4096x2304/1200x800/filters:focal(1721x825:2375x1479)/cdn.vox-cdn.com/uploads/chorus_image/image/66667838/EVyzftTX0AE_4Pr.0.jpeg' width='700px' /><br/>
-Facebook is expanding its like reactions with a “care” reaction to help people show support. Facebook says it hopes the reaction, which shows a face hugging a heart, helps people feel “a bit more connected” with their friends and family during the pandemic.
-<a href='https://www.theverge.com/2020/4/17/21224805/facebook-care-reaction-like-button-messenger-app'> Source <a/>
