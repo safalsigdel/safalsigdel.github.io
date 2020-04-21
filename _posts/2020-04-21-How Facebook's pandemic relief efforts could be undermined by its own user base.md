@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vMtQzu-16SnnT4ma2drtx8M6nT4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66682103/acastro_180828_1777_facebook_0002.0.jpg' width='700px' /><br/>
+Thanks to the Morning Brew for recommending us as an “Essential” read. Here's hoping all of you who signed up over the weekend find The Interface a useful guide to tech, democracy, and the pandemic.
+<a href='https://www.theverge.com/interface/2020/4/21/21228223/facebook-pandemic-covid-relief-symptom-tracker-mark-zuckerberg-stay-at-home-protests'> Source <a/>
