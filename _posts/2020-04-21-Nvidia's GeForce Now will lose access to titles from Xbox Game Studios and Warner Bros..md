@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oqSP8i8w7AikAGisTMCyTaguMX8=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/66681029/GeForce_NOW_Platforms_crop_verge.0.jpg' width='700px' /><br/>
+Nvidia's GeForce Now cloud gaming service is losing access to more titles later this month, the company announced on Monday. Starting April 24th, GeForce Now will no longer be able to play titles from Microsoft's Xbox Game Studios, Warner Bros. Interactive Entertainment, Codemasters, and Klei Entertainment.
+<a href='https://www.theverge.com/2020/4/20/21228792/nvidia-geforce-now-microsoft-xbox-game-studios-warner-bros-remove-games'> Source <a/>

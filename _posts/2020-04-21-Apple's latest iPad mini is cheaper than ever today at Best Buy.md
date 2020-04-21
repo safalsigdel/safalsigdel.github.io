@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+The 2019 iPad mini is $70 off today at Best Buy, marking the lowest price that we've seen yet for the 64GB model. It usually retails for $400, and the price to beat was $350. The gold, space gray, and silver color options are all currently available for delivery or via curbside pickup at one of Best Buy's participating locations. If you want to quadruple the amount of space to 256GB, you can do so at Best Buy for $450. This is $100 of the usual price, and just $50 more than the 64GB tablet usually costs.
+<a href='https://www.theverge.com/good-deals/2020/4/20/21228330/apple-2019-ipad-mini-64gb-sale-discount-best-buy'> Source <a/>

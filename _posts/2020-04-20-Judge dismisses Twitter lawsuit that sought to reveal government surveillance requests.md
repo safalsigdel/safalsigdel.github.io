@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_ImMHMFF-V6XU36tYZPbo-uAUXU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66672039/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
-A federal judge has ruled that Twitter can't reveal surveillance requests it received from the US government, putting an end to legal battle that lasted six years, Reuters reported. Judge Yvonne Gonzalez Rogers wrote in her order that Twitter's request to reveal part of its Draft Transparency Report “would be likely to lead to grave or imminent harm to the national security.”
-<a href='https://www.theverge.com/2020/4/18/21226247/judge-dismisses-twitter-lawsuit-surveillance'> Source <a/>

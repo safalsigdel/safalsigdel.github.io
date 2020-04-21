@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CpYTFe0BJ2_Qn8Pkzbde93wF0oU=/0x0:4905x3265/1200x800/filters:focal(2061x1241:2845x2025)/cdn.vox-cdn.com/uploads/chorus_image/image/66668792/1218868144.jpg.0.jpg' width='700px' /><br/>
-Amazon will provisionally be allowed to invest in UK-based food delivery startup Deliveroo, the UK's Competition and Markets Authority (CMA) announced today. Deliveroo originally announced the $575 million funding round lead by Amazon last May, but the CMA was initially worried that the deal could be bad for competition. Now, however, the authority thinks the investment will be better for competition overall.
-<a href='https://www.theverge.com/2020/4/17/21225099/amazon-deliveroo-investment-funding-food-delivery-restaurant-industry'> Source <a/>

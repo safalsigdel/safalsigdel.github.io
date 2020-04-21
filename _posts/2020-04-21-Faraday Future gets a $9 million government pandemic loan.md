@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/whDmS6JTIrbbgCOlkY2J6NC89mo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66680000/faraday_future_ff91_5232.0.jpg' width='700px' /><br/>
+Electric vehicle startup Faraday Future has obtained a $9,167,800 loan from the Small Business Association's Paycheck Protection Program (PPP), which was recently launched to help small businesses keep people employed during the COVID-19 pandemic, the company tells The Verge.
+<a href='https://www.theverge.com/2020/4/20/21228241/faraday-future-loan-ev-startup-sba-ppp-workhorse-lucid-motors-rivian'> Source <a/>

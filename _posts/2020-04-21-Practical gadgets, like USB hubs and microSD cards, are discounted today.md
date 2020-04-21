@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-9lnbfZuqQPoV1htiuY8YFdP7hw=/0x0:2040x1360/1200x800/filters:focal(1152x603:1478x929)/cdn.vox-cdn.com/uploads/chorus_image/image/66678022/ankerhub.0.jpg' width='700px' /><br/>
+The gadget discounts you need to know about today range from Vizio's P-Series Quantum X TV and handy USB hubs to microSD cards. For the most part, we're leaning on practicality for the deals today, but these can help you have some fun, too.
+<a href='https://www.theverge.com/good-deals/2020/4/20/21227884/usb-3-hub-anker-microsd-sandisk-switch-vizio-quantum-x-4k-hdr-tv-deal-sale-discount'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D2UJVnDfT8dtCI3FbqGO4NvLHI8=/0x0:2040x1360/1200x800/filters:focal(1024x392:1350x718)/cdn.vox-cdn.com/uploads/chorus_image/image/66679681/akrales_170619_1786_0041.0.jpg' width='700px' /><br/>
+Whole Foods, which is owned by Amazon, is using a heat map to track stores that may be at risk of unionization, according to report from Business Insider.
+<a href='https://www.theverge.com/2020/4/20/21228324/amazon-whole-foods-unionization-heat-map-union'> Source <a/>

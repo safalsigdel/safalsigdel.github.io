@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gvjnX0L-S9tsEquMC6i6ZcaFFY8=/0x0:2516x1678/1200x800/filters:focal(1057x638:1459x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/66678771/steelseriesxbox.0.jpg' width='700px' /><br/>
+SteelSeries has unveiled a fleet of Cyberpunk 2077-inspired gaming headsets as well as a lineup of themed accessories made for its Arctis Pro wired and wireless headsets. First up, though, is a headset that is actually brand-new to the company's lineup. It's the Arctis 1 Wireless for Xbox, and it follows a similar design and feature set as last year's excellent Arctis 1 Wireless.
+<a href='https://www.theverge.com/2020/4/20/21228019/steelseries-arctis-1-pro-wireless-xbox-one-series-x-cyberpunk-2077'> Source <a/>

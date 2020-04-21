@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+I never knew I wanted online co-op in a crossword app, but The New Yorker has added the feature to its online puzzles. Turns out, it's a really great way to solve a puzzle with a partner.
+<a href='https://www.theverge.com/tldr/2020/4/20/21228737/new-yorker-partner-mode-crossword-puzzle-co-op'> Source <a/>

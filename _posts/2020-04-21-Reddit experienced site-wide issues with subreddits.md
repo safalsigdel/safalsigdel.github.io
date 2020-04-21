@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vMu56Hp3XghsKiqKy2-71B-5PQI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66680050/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
+Reddit experienced an outage on Monday, and while the site was experiencing issues, it would return an error page when you tried to access subreddits. I was able to access the front page during the outage, but clicking on a link to a subreddit took me to an error page.
+<a href='https://www.theverge.com/2020/4/20/21228513/reddit-subreddit-down-issues-outage-fix-error'> Source <a/>

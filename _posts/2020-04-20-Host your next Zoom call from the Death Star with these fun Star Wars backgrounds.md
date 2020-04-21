@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Being stuck in an endless Zoom or Skype call can often feel like you're trapped in an Imperial holding cell, but thanks to the official Star Wars website, you can make your next conference call actually look like you're traveling to a galaxy far, far away.
-<a href='https://www.theverge.com/tldr/2020/4/17/21225754/star-wars-zoom-backgrounds-fun-video-call-skype'> Source <a/>

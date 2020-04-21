@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MNSzM2kCtXWfU2InAz7WDuIah9I=/0x0:5190x3460/1200x800/filters:focal(2180x1315:3010x2145)/cdn.vox-cdn.com/uploads/chorus_image/image/66668371/200111_LLK_03594.0.jpg' width='700px' /><br/>
-Games Done Quick (GDQ), an organization that raises money for charity with speedrunning events, is hosting an online-only speedrunning marathon all weekend in support of COVID-19 relief. The event, titled Corona Relief Done Quick (CRDQ), is scheduled to run through Sunday. You can watch the event on Twitch.
-<a href='https://www.theverge.com/2020/4/17/21225065/games-done-quick-corona-direct-relief-crdq-covid-19'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PoDi2s72gvMNt4k4e1YZzK2pHBU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66672604/acastro_200319_1777_amazonCorona_0001.0.jpg' width='700px' /><br/>
-Amazon is now using thermal cameras at its warehouses to help screen workers for fevers, Reuters reports. The thermal imaging cameras are faster to use than the standard forehead thermometers Amazon had been using to test workers for fevers, which are a primary symptom of the coronavirus.
-<a href='https://www.theverge.com/2020/4/18/21226356/amazon-thermal-cameras-warehouses-fevers-coronavirus'> Source <a/>
