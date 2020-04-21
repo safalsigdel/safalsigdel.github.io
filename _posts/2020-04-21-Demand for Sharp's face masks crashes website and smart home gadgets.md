@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yp_4sxXaJt1CBFGi2fQr5uXB1C0=/0x0:1800x1200/1200x800/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/66681902/Untitled_2.0.jpg' width='700px' /><br/>
+Sharp announced last month that it would begin making face masks at its TV factory in Japan, and this morning they became available to order — at least, that was the plan. Demand for the masks has overwhelmed Sharp's servers to the point that not only is it near-impossible to access the online store, internet services for the company's smart home gadgets have apparently been taken down too.
+<a href='https://www.theverge.com/2020/4/21/21229163/sharp-face-mask-demand-server-crash-iot-smart-devices'> Source <a/>
