@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J6l0vIFa1wmcug9MIgWGxvmzAlA=/0x0:5656x3182/1200x800/filters:focal(2376x1139:3280x2043)/cdn.vox-cdn.com/uploads/chorus_image/image/66672912/1203807625.jpg.0.jpg' width='700px' /><br/>
-Using data from the Covid Tracking Project, the cofounders of Instagram created a website to track the state-by-state spread of COVID-19 in the US, Bloomberg News reported.
-<a href='https://www.theverge.com/2020/4/18/21226483/instagram-cofounders-covid-19-systrom-krieger'> Source <a/>
