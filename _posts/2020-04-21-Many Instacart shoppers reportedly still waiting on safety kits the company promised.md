@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6HeHvU9oSqQ_1DR2wrJnOJ0t7B0=/0x0:4944x3456/1200x800/filters:focal(2356x874:3146x1664)/cdn.vox-cdn.com/uploads/chorus_image/image/66673166/1209513899.jpg.0.jpg' width='700px' /><br/>
-Some workers for grocery delivery platform Instacart are still waiting on the safety kits the company promised two weeks ago, according to a new report in Wired. And, according to shoppers Wired spoke with, the process to receive the kits was confusing and cumbersome.
-<a href='https://www.theverge.com/2020/4/18/21226481/instacart-shoppers-safety-kits-coronavirus-masks'> Source <a/>
