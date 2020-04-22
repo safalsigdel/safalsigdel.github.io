@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J4f6pr7pHT5pP0LniY9_iY5Eu-E=/0x0:2196x1116/1200x800/filters:focal(923x383:1273x733)/cdn.vox-cdn.com/uploads/chorus_image/image/66687834/messenger_kids.0.0.png' width='700px' /><br/>
+Facebook is launching its Messenger Kids app in over 70 new countries today, the company has announced. A help page on Facebook's website lists Brazil, India, Japan, and New Zealand among the countries where the kid-focused messaging service is now available. Facebook also announced a number of tweaks it's making to how the app works.
+<a href='https://www.theverge.com/2020/4/22/21230822/facebook-messenger-kids-international-expansion-group-settings-friend-requests-supervised-friending'> Source <a/>

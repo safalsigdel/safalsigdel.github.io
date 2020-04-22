@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ncr_Y7VP1c5sDON0vmMOswPrH8c=/0x0:1400x776/1200x800/filters:focal(588x276:812x500)/cdn.vox-cdn.com/uploads/chorus_image/image/66683871/hbo_max_1.0.jpeg' width='700px' /><br/>
-AT&T is giving tens of millions of eligible customers who are already using its various internet, mobile, and video plans free versions of HBO Max when it launches on May 27th.
-<a href='https://www.theverge.com/2020/4/21/21229474/hbo-max-att-free-wireless-internet-cable-video-trial-price-launch-date'> Source <a/>
