@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J9buyezuTbdumXUpDYKWLuxahtM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66687668/acastro_200207_3900_vivaldi_0001.0.0.jpg' width='700px' /><br/>
+Vivaldi is launching the 3.0 version of its browser, and it includes an integrated tracker blocker made in partnership with DuckDuckGo. The company's Android version of its browser is also leaving beta.
+<a href='https://www.theverge.com/2020/4/22/21228849/vivaldi-update-integrated-tracker-blocker-duckduckgo-android-app'> Source <a/>

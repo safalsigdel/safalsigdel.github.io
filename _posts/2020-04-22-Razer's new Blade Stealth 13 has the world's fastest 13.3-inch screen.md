@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oE52OfsU-ZzNu-aZ9tu6bbPhOwU=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66683466/Blade_Stealth_Studio_Image__3_.0.jpg' width='700px' /><br/>
-Razer has announced the early 2020 edition of its Blade Stealth 13. The new model replaces last year's GTX model and starts at $1,799. It will be available in the second quarter of 2020.
-<a href='https://www.theverge.com/2020/4/21/21228530/razer-blade-stealth-13-gaming-laptop-price-release-date'> Source <a/>
