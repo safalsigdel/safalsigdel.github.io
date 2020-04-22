@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SDLplDOOgi6Zu7huMd-S9OGYRjc=/0x0:2319x1298/1200x800/filters:focal(1071x413:1441x783)/cdn.vox-cdn.com/uploads/chorus_image/image/66683366/vl1.0.png' width='700px' /><br/>
-Theo Gove-Humphries and Bee Roper had their next two years planned out. They would fly — with their van, naturally — from the UK to Canada. They'd make their way across North America, dipping down into the Midwest US before cutting over to Alaska, and eventually ending upxe2x80xa6 well, somewhere that would let them ship off to Australia.
-<a href='https://www.theverge.com/2020/4/21/21228400/vanlife-influencers-instagram-youtube-coronavirus-pandemic-impact-space-food-income'> Source <a/>
