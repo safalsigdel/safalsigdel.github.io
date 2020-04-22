@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-zgNWg-c2pfv1qr_HP_Coe4FWc8=/0x0:3738x3738/1200x800/filters:focal(1570x1570:2168x2168)/cdn.vox-cdn.com/uploads/chorus_image/image/66685979/1173258059.jpg.0.jpg' width='700px' /><br/>
+In-flight internet provider Gogo is placing more than 600 workers on unpaid leave, or about 60 percent of its workforce, the company announced on Tuesday. The Illinois-based company says sales of its in-flight internet service are expected to drop as much as 70 percent in April on commercial airlines, as passenger air travel falls to historic lows during the coronavirus pandemic.
+<a href='https://www.theverge.com/2020/4/21/21230133/gogo-furloughs-60-percent-workforce-passenger-air-travel-collapse'> Source <a/>

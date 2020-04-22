@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XhjI8-OLqYzLMgsaC8Tgdk2Kp3E=/0x0:5568x3712/1200x800/filters:focal(3209x1262:4099x2152)/cdn.vox-cdn.com/uploads/chorus_image/image/66685471/948027480.jpg.0.jpg' width='700px' /><br/>
+Netflix is one of the rare companies benefiting from the global pandemic, which has kept billions of people at home with nothing to do but stream. But the question is how long can it last?
+<a href='https://www.theverge.com/2020/4/21/21229587/netflix-earnings-coronavirus-pandemic-streaming-entertainment'> Source <a/>

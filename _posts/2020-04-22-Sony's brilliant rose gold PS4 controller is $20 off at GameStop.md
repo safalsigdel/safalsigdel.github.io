@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sIEqy89OryUCfLfYDd7ACtkOhpg=/0x0:2040x1360/1200x800/filters:focal(1409x515:1735x841)/cdn.vox-cdn.com/uploads/chorus_image/image/66684366/dualshock4.0.jpg' width='700px' /><br/>
+If you're in the market for an extra PS4 controller, the rose gold DualShock 4 is $45 at GameStop today only. Sony makes a lot of different color options of its controllers, and this is certainly one of the most unique, if not eye-catching, options. It usually costs $65 at GameStop, so you're getting $20 off.
+<a href='https://www.theverge.com/good-deals/2020/4/21/21229449/sony-rose-gold-ps4-dualshock4-controller-gamestop-deal-sale-ipad-mini'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qhPPMUUC95NUQ3vrBuT0TtoDdO0=/0x0:1020x677/1200x800/filters:focal(429x258:591x420)/cdn.vox-cdn.com/uploads/chorus_image/image/66686049/earth-nasa-1020.0.jpg' width='700px' /><br/>
+April 22nd, 2020, marks the 50th anniversary of Earth Day, the annual celebration of the environmental movement. In 1970, according to EarthDay.org, about 20 million Americans assembled to demand greater attention to the protection of the planet. Since then, activists around the world have gathered each year to mark the day.
+<a href='https://www.theverge.com/2020/4/21/21229817/earth-day-2020-ecology-celebration-online'> Source <a/>

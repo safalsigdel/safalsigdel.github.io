@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D8l8__RK1pHrnjunSbAdYe0NCJU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66679546/akrales_190328_3325_0507.0.jpg' width='700px' /><br/>
-Kickstarter announced in an internal memo today that it's likely going to lay off employees. CEO Aziz Hasan writes that the crowdfunding company has already seen a significant drop in crowdfunding projects being listed on the site, which is how Kickstarter makes its money. Projects are down by about 35 percent, the memo states, with “no clear sign of rebound.”
-<a href='https://www.theverge.com/2020/4/20/21228412/kickstarter-layoffs-planned-coronavirus-project-declines-crowdfunding-union'> Source <a/>

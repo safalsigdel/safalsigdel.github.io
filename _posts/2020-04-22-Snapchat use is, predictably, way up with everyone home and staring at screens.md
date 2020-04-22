@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rBlwKcPwf9jV8cLEkYghW2trUe0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66685782/snapchatNYSE.0.jpg' width='700px' /><br/>
+Snap has been building a product optimized for the pandemic. It features more original content than ever before, as well as games and augmented reality lenses for people to play with, keeping people glued to their screens and in the app longer than usual.
+<a href='https://www.theverge.com/2020/4/21/21230128/snapchat-earnings-growth-q1-2020-update-pandemic'> Source <a/>

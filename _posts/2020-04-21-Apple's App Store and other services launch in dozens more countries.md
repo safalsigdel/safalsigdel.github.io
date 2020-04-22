@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hDCIJhfUboVzMobs1_-saYCAxBs=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/66682004/Apple_iphone_11_pro_app_store_screen_04212020.0.jpg' width='700px' /><br/>
-Apple is launching its major services, including the App Store, iCloud, Apple Podcasts, and Apple Arcade, in 20 new countries today. In addition, Apple Music is expanding to 52 new countries. The expansion means that the App Store in particular is now available in a total of 175 countries and regions.
-<a href='https://www.theverge.com/2020/4/21/21229187/apple-services-app-store-icloud-podcasts-arcade-music-africa-asia-pacific-europe-middle-east-oceana'> Source <a/>

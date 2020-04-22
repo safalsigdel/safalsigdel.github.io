@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_aIglqensLBROKDdR7SY3PkAKLA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66685336/akrales_190914_3666_0048.0.jpg' width='700px' /><br/>
+Some of Apple's iPhones rumored to launch in the fall and a larger iPhone SE model apparently slated for 2021 could be delayed, according to Apple analyst Ming-Chi Kuo (via MacRumors).
+<a href='https://www.theverge.com/2020/4/21/21229885/apple-iphone-5g-se-model-delay-size-ming-chi-kuo'> Source <a/>

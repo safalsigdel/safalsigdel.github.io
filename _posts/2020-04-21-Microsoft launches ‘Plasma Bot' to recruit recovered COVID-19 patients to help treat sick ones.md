@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CLsxrCzWCwCiklREfeo_irVxDBU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66679265/acastro_180507_1777_microsoft_0002.0.jpg' width='700px' /><br/>
-Microsoft is launching a self-screening tool for people to check whether they qualify to donate their plasma in the hopes of creating a treatment for those with COVID-19, according to a company blog post. The tool is part of the company's work with a group called the CoVig-19 Plasma Alliance.
-<a href='https://www.theverge.com/2020/4/20/21226967/microsoft-plasmabot-recovered-coronavirus-patients-antibodies-blood'> Source <a/>

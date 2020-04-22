@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RSM3LM7EoRdBPdg_UfywQxq5t70=/0x0:1198x666/1200x800/filters:focal(633x132:823x322)/cdn.vox-cdn.com/uploads/chorus_image/image/66677708/Screen_Shot_2020_04_20_at_10.16.38_AM.0.png' width='700px' /><br/>
-YouTube's lo-fi hip-hop community has for years offered a place to virtually gather, do homework, and find comfort in the random messages of strangers that populate in live chats. Now, as we're all stuck inside due to the pandemic, those streams have become more popular than ever — not just as background music, but as ways to find community in a difficult time.
-<a href='https://www.theverge.com/2020/4/20/21222294/lofi-chillhop-youtube-productivity-community-views-subscribers'> Source <a/>

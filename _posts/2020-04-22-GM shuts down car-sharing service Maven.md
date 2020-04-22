@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PsO6jH-xdbSfNAEjFuTu4byo3hA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66684741/acastro_200406_1777_gm_0001.0.0.jpg' width='700px' /><br/>
+General Motors is shutting down Maven, the car-sharing service it launched in 2016, the company tells The Verge. It joins a small but growing list of car-sharing services from automakers and other companies that have struggled or otherwise fully shut down in North America.
+<a href='https://www.theverge.com/2020/4/21/21229838/gm-maven-shut-down-car-sharing-service'> Source <a/>

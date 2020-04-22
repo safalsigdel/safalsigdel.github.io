@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fRMZPtvfoNE6q0C4UPi4oiaFnZI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66685267/Google_Home_lead.0.0.jpg' width='700px' /><br/>
+Google is starting to “roll out gradually” a feature allowing you to customize voice detection sensitivity on Google Assistant devices, a spokesperson confirmed to The Verge.
+<a href='https://www.theverge.com/2020/4/21/21229996/hey-google-sensitivity-feature-smart-devices-voice-detection'> Source <a/>

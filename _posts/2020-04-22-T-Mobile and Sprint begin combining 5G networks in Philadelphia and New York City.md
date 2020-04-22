@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ub768eoINyio-tkZ5oXeB1xZjCU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66683750/acasatro_180430_1777_sprint_Tmobile_0002.0.jpg' width='700px' /><br/>
+T-Mobile and Sprint are taking the first steps toward combining their networks after the two companies completed their landmark merger earlier in April. T-Mobile customers in Philadelphia and New York City are set to be the first to get access to Sprint's 2.5GHz mid-band 5G network in addition to the existing 600MHz low-band and mmWave high-band 5G networks T-Mobile has already launched.
+<a href='https://www.theverge.com/2020/4/21/21229407/tmobile-sprint-5g-networks-philadelphia-new-york-mid-band-merger'> Source <a/>

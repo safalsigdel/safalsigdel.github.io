@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jbw4APFtZGLmCHx7Pk6wGBZ5ohs=/0x0:2040x1351/1200x675/filters:focal(852x491:1178x817)/cdn.vox-cdn.com/uploads/chorus_image/image/66682391/verge_DSC_7476_2040pxl.0.jpg' width='700px' /><br/>
-Electric bikes, like cars, come in tiers of quality and prestige. Dependable commuter bikes start at around $1,000. At $1,500, they start to look nice, with batteries and motors integrated into the overall aesthetic. Above $2,000 you start seeing sleek designs, advanced electronics, and a preponderance of high-end or original components. On that scale, VanMoof's premium prices have made it the BMW of e-bikes (or Tesla, if you prefer).
-<a href='https://www.theverge.com/2020/4/21/21227976/vanmoof-s3-electric-bike-review-price-specs'> Source <a/>

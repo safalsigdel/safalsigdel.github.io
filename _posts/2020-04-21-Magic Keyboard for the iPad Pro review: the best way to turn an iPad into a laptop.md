@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9306/SQ_vpavic_042018_3979_0072_copy.jpeg' width='700px' /><br/>
-At first glance, Apple's new Magic Keyboard for the iPad Pro looks like it's exactly what so many people have been asking for: a well-made keyboard case with a trackpad that finally lets you use the iPad as a kind of laptop.
-<a href='https://www.theverge.com/2020/4/20/21227345/magic-keyboard-ipad-pro-tablet-laptop-review-price-specs-features'> Source <a/>

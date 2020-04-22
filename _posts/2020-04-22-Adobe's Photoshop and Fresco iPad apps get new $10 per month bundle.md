@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3Ej8bST7l26_PcfQoKsw_fdro94=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66685989/photoshop.0.jpg' width='700px' /><br/>
+Adobe is now bundling Photoshop for iPad and Fresco Premium into one package. The bundle allows iPad owners to gain access to both for just $9.99 a month, instead of paying that same price for each of them.
+<a href='https://www.theverge.com/2020/4/21/21230212/adobe-photoshop-fresco-ipad-app-bundle-announced'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X5jotf99klTPj8PTQ5DHvvxsjzA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66681025/Screenshot_20200420_170917.0.png' width='700px' /><br/>
-It can be frustrating to accidentally tap a button and mess up playback when watching Netflix on your phone. Thankfully, Netflix is rolling out a new feature for Android devices that tries to prevent that.
-<a href='https://www.theverge.com/2020/4/20/21228761/netflix-screen-lock-feature-android-devices'> Source <a/>

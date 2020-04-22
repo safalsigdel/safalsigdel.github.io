@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CZA4DJBjtQEBLiLitieXjfC6hdA=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/66685737/ETSiCJ1XQAAztEe.0.jpg' width='700px' /><br/>
+Motorola is hosting an online event tomorrow, April 22nd, at 12PM ET, and it appears the company will be announcing a new flagship called the Edge Plus at the event, according to a now-pulled blog post spotted by Droid Life. The information Droid Life grabbed from the post seemingly confirms many of the rumored specs about the phone.
+<a href='https://www.theverge.com/2020/4/21/21230095/motorola-edge-plus-leak-price-specs-flagship'> Source <a/>
