@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MhiVpoc5oJAlrP1pjYyzIBxxp1o=/0x0:1598x826/1200x800/filters:focal(672x286:926x540)/cdn.vox-cdn.com/uploads/chorus_image/image/66683840/Screen_Shot_2020_04_21_at_11.49.14_AM.0.png' width='700px' /><br/>
-Peloton today announced that it will resume live workout classes after finally closing its studios on April 3rd when an employee tested positive for COVID-19. Classes will now be streaming from the instructors' homes — a format that many Peloton members had requested shortly after cities across the United States began shutting down nonessential businesses.
-<a href='https://www.theverge.com/2020/4/21/21229559/peloton-live-classes-from-home-instructors-coronavirus-pandemic-covid-19'> Source <a/>
