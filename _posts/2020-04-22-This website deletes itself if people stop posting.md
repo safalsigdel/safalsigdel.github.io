@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vGXrwAm4n-9utHflBYrjmSgG_Co=/0x0:1832x1432/1200x800/filters:focal(770x570:1062x862)/cdn.vox-cdn.com/uploads/chorus_image/image/66684388/Screen_Shot_2020_04_21_at_10.58.52_AM.0.png' width='700px' /><br/>
-The internet is littered with zombie websites: forums that most users have long abandoned, novelty pages whose cultural moments have passed. This Website Will Self-Destruct will not have that fate. If nobody posts on the site for 24 hours, it will permanently delete itself, leaving only an error message behind.
-<a href='https://www.theverge.com/2020/4/21/21229499/this-website-will-self-destruct-femmeandroid-ludum-dare'> Source <a/>
