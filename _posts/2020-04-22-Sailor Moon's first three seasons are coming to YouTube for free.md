@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zsjKrvfXdMuGWxH73Us6XBHC69s=/0x0:970x545/1200x800/filters:focal(408x196:562x350)/cdn.vox-cdn.com/uploads/chorus_image/image/66688106/smc-feat-970x545.0.jpg' width='700px' /><br/>
+The first three seasons of Sailor Moon, the landmark anime series which originally aired between 1992 and 1995, are releasing for free on the franchise's official YouTube channel, CrunchyRoll reports. 10 episodes will be released each week starting on Friday, April 24th, until all 127 episodes are made available before the end of July.
+<a href='https://www.theverge.com/2020/4/22/21230858/sailor-moon-tv-shows-free-youtube-season-1-2-3-japanese-movie-release'> Source <a/>
