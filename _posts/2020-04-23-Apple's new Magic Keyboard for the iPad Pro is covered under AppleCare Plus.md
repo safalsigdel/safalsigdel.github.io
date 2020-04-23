@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uqEOGlN58YJdyzhTXnwNRlmpzPE=/0x0:2040x1360/1200x800/filters:focal(685x509:1011x835)/cdn.vox-cdn.com/uploads/chorus_image/image/66696574/vpavic_042018_3979_0072.0.jpg' width='700px' /><br/>
+Apple's new Magic Keyboard for the iPad Pro is a pretty expensive accessory — the 11-inch version costs $299, while the 12.9-inch version costs $349 — but if you have AppleCare Plus coverage for your iPad Pro, that coverage extends to the Magic Keyboard (via 9to5Mac).
+<a href='https://www.theverge.com/2020/4/23/21232811/apple-magic-keyboard-ipad-pro-applecare-plus-covered'> Source <a/>
