@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cTgKFRwureRXbQy-nWqsPNj-rLo=/0x0:2000x1333/1200x800/filters:focal(774x64:1094x384)/cdn.vox-cdn.com/uploads/chorus_image/image/66690637/1_1l_WbBHJ07LZLxU9JOTIjA.0.jpeg' width='700px' /><br/>
-Westworld has been renewed for a fourth season, HBO announced today, meaning that the sometimes infuriatingly complicated science-fiction / Western series will continue to enthrall viewers with its violent delights for another season, via Variety.
-<a href='https://www.theverge.com/2020/4/22/21231327/westworld-season-4-hbo-renewal-robots-tv-show'> Source <a/>

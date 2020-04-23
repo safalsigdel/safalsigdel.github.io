@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JLNMo5Ovu31H7LUJstBT54IgcSI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66691329/akrales_190913_3628_0412.0.jpg' width='700px' /><br/>
-Security researchers say the iPhone has a severe flaw in the native iOS Mail app that makes it vulnerable to hackers, according to a report published on Wednesday by San Francisco-based firm ZecOps.
-<a href='https://www.theverge.com/2020/4/22/21231454/apple-iphone-zero-day-exploit-security-flaw-mail-app-ios-zec-ops'> Source <a/>

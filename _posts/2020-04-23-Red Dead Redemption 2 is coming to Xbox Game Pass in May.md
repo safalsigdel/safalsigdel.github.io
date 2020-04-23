@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w8Volrj3Vx5Ax-KOYup4F2K1yjo=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/66694861/RDR2_Screenshot_080_copy.0.jpg' width='700px' /><br/>
+Microsoft is bringing Red Dead Redemption 2 to its Xbox Game Pass subscription for Xbox One consoles. It's a big addition that will see subscribers gain access to the action-adventure game on May 7th. While Red Dead Redemption 2 is arriving on Xbox Game Pass, Grand Theft Auto V will be disappearing at the same time, so fans have until May 7th to play Rockstar Games' other hugely popular game.
+<a href='https://www.theverge.com/2020/4/23/21232543/red-dead-redemption-2-xbox-game-pass-subscription-gta-5'> Source <a/>

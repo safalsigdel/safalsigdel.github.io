@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mqRMzAREWhpOmEvHG1Tz8blcwNc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66691357/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T is nearly doubling the number of markets in which it offers its 5G network, with coverage in 90 new areas starting today. The new additions bring AT&T's total number up to over 190 markets covering more than 120 million people.
-<a href='https://www.theverge.com/2020/4/22/21231573/att-5g-new-markets-double-coverage-cities-network'> Source <a/>
