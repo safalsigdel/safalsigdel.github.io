@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h2Ss1FwVu-cTmMysjfVKZ0TiB9w=/0x0:2040x1360/1200x675/filters:focal(807x550:1133x876)/cdn.vox-cdn.com/uploads/chorus_image/image/66694374/pesposito_200420_3983_0004.0.0.jpg' width='700px' /><br/>
+The $149 Logitech Combo Touch is the case I've spent years waiting for — well, not this exact case, but the idea of a combination keyboard and touchpad that might turn my iPad into a laptop replacement. If you've been intrigued by Apple's new Magic Keyboard for the 2018 and 2020 iPad Pro but own a different iPad model, Logitech is here for you.
+<a href='https://www.theverge.com/2020/4/23/21231088/logitech-combo-touch-ipad-keyboard-trackpad-case-review-price-specs-features'> Source <a/>
