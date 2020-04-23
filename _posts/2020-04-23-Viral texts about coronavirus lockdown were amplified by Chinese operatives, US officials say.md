@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kb3AvWjU3Di0midTeepDJgXTM9c=/0x0:5418x3612/1200x800/filters:focal(2276x1373:3142x2239)/cdn.vox-cdn.com/uploads/chorus_image/image/66692129/1210617476.jpg.0.jpg' width='700px' /><br/>
-Chinese operatives helped amplify a viral text message that falsely claimed President Trump was going to instate a nationwide lockdown due to COVID-19, reports The New York Times. US officials said the operatives were engaging in disinformation tactics similar to the ones Russia used in 2016.
-<a href='https://www.theverge.com/2020/4/22/21231497/coronavirus-lockdown-viral-text-messages-chinese-operatives-disinformation'> Source <a/>
