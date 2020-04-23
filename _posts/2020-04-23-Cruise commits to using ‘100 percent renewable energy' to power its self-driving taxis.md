@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mPJDxqhgD_qRvJw5Nd9n-UyHCrY=/0x0:2559x1664/1200x800/filters:focal(1076x628:1484x1036)/cdn.vox-cdn.com/uploads/chorus_image/image/66690209/1189070708.jpg.0.jpg' width='700px' /><br/>
-Cruise, the self-driving subsidiary of General Motors, prides itself on being one of the few autonomous vehicle companies to use only electric cars in its fleet. Now, the company is going a step further by committing to using only “100 percent renewable energy” to power its EVs.
-<a href='https://www.theverge.com/2020/4/22/21231168/cruise-gm-av-ev-renewable-energy-solar-taxis'> Source <a/>

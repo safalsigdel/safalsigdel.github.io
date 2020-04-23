@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SBzWRrpwD_en3IcbiqSrnTJIn5o=/0x0:2160x1440/1200x800/filters:focal(908x548:1252x892)/cdn.vox-cdn.com/uploads/chorus_image/image/66694597/otter_hero_screens_2.0.jpg' width='700px' /><br/>
+Automated transcription service Otter.ai now integrates directly into Zoom calls to transcribe meetings on the fly. During a meeting, anyone on the call can click the “Otter.ai Live Transcript” button within their Zoom window to open up the Live Video Meeting Notes on Otter.ai's site, and participants can then annotate them on the fly. Otter.ai quietly announced the new feature in a blog post earlier this month.
+<a href='https://www.theverge.com/2020/4/23/21232385/otter-ai-live-video-meeting-notes-zoom-transcription-annotation-teams'> Source <a/>
