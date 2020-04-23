@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gl2w_ytjbNT8mI3_vaKlduKep40=/0x0:2670x1502/1200x800/filters:focal(1122x538:1548x964)/cdn.vox-cdn.com/uploads/chorus_image/image/66691739/Location_Banner.0.jpg' width='700px' /><br/>
+Facebook says today, it's going to display the location of “high-reach” Facebook pages and Instagram accounts on every post the owners share in order to give people “more information to help them gauge the reliability and authenticity of the content they see in their feeds.” The company didn't say what it considers a high-reach page or account.
+<a href='https://www.theverge.com/2020/4/22/21231632/facebook-instagram-account-page-location-post-update'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O4Xdek5e_kCKf8HfjMwaqRIdYbc=/0x0:2040x1360/1200x800/filters:focal(852x230:1178x556)/cdn.vox-cdn.com/uploads/chorus_image/image/66690313/jbareham_180717_2744_0453.0.jpg' width='700px' /><br/>
+Mixed reality company Magic Leap is reportedly laying off around 1,000 employees and abandoning its focus on consumer headsets. Bloomberg reported the news earlier today, citing anonymous sources, and Magic Leap confirmed an unstated number of layoffs were happening on its site. “These changes will occur at every level of our company, from my direct reports to our factory employees,” writes CEO Rony Abovitz.
+<a href='https://www.theverge.com/2020/4/22/21231236/magic-leap-ar-headset-layoffs-coronavirus-enterprise-business-shift'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gzUgyfu_VedhogkJt9xw0H_6-j4=/0x0:2040x1360/1200x800/filters:focal(936x690:1262x1016)/cdn.vox-cdn.com/uploads/chorus_image/image/66689960/jporter_200420_3981_0002.0.jpg' width='700px' /><br/>
+It's not often that I have to refer to a manual while I'm reviewing something, but that's exactly what I found myself doing while reviewing the $300 Sennheiser Momentum True Wireless 2 (MTW2).
+<a href='https://www.theverge.com/2020/4/22/21230931/sennheiser-momentum-true-wireless-2-review-earbuds-headphones-sound-specs-battery-life-price'> Source <a/>

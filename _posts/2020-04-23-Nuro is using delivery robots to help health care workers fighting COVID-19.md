@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GcY3AqIgtP_d-fctlIXA5ceZhXs=/0x0:4916x3277/1200x800/filters:focal(2065x1246:2851x2032)/cdn.vox-cdn.com/uploads/chorus_image/image/66691169/1photo.0.jpg' width='700px' /><br/>
+Nuro, the autonomous vehicle startup founded by two ex-Google engineers, is using its small fleet of road-legal delivery robots to transport medical supplies around two California stadiums that have been converted into treatment facilities for people stricken with COVID-19.
+<a href='https://www.theverge.com/2020/4/22/21231466/nuro-delivery-robot-health-care-workers-food-supplies-california'> Source <a/>

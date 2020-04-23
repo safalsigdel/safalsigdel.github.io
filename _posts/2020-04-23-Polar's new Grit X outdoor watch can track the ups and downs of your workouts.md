@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UnXQhGEGhwnB1Sol25jSlB18icM=/0x0:6875x4583/1200x800/filters:focal(2888x1742:3988x2842)/cdn.vox-cdn.com/uploads/chorus_image/image/66688784/polargritx.0.jpg' width='700px' /><br/>
+Polar has announced its latest fitness watch, called the Grit X, and it's made for the outdoors. The company claims that this is the ultimate outdoor watch, taking every feature (along with a few design cues) from its 2018 Vantage lineup of watches and adding even more utility to help athletes get more out of their workouts.
+<a href='https://www.theverge.com/2020/4/22/21229632/polar-grit-x-outdoor-watch-hike-multisport-wearable-fitness'> Source <a/>

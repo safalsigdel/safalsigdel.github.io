@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7BRHIO3z72LkJGq6GAFdNh2m0WQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66687239/akrales_180215_2310_0013.0.jpg' width='700px' /><br/>
-Facebook has made a huge bet on India by investing $5.7 billion into Jio Platforms, the tech subsidiary of multinational conglomerate Reliance Industries. Jio variously operates broadband, mobile services, and online commerce platforms, and Facebook's investment gives it around a 10 percent stake in the company, making it the largest minority shareholder.
-<a href='https://www.theverge.com/2020/4/21/21230643/facebook-reliance-jio-investment-stake-whatsapp'> Source <a/>

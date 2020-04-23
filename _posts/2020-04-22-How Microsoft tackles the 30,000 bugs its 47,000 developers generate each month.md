@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JOymxjWn9JtjbM6M2nD_mlztQwc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66687897/acastro_180507_1777_microsoft_0001.0.jpg' width='700px' /><br/>
-Microsoft is detailing how it handles bugs in its software and services using machine learning models. “47,000 developers generate nearly 30,000 bugs a month,” explains Scott Christiansen, a senior security program manager at Microsoft. The software maker tracks these bugs across GitHub and AzureDevOps repositories, but it's a lot of issues to track with just traditional labeling and prioritization.
-<a href='https://www.theverge.com/2020/4/22/21230816/microsoft-developers-bugs-machine-learning-numbers-statistics'> Source <a/>

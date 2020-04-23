@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f5KZ-hIHkL7XIiVpp2ULKJ8AIw0=/0x0:2000x1250/1200x800/filters:focal(840x465:1160x785)/cdn.vox-cdn.com/uploads/chorus_image/image/66690396/Google_Meet_1.max_2000x2000.0.png' width='700px' /><br/>
+Google Meet's new Zoom-like gallery view is rolling out across the globe “gradually” starting today, the company said in a blog post, and it should be available to everyone by end of week, Google tells The Verge. Previously, you were only able to see four people on-screen at a time, but with Meet's new tiled layout, you'll be able to see 16 call participants at once. Google announced the feature was on the way last week.
+<a href='https://www.theverge.com/2020/4/22/21231294/google-meet-gallery-tiled-view-roll-out-globally-zoom'> Source <a/>

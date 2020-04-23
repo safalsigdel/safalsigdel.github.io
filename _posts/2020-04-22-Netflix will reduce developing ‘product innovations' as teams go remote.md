@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BGZVoEpire1oS_Kus2oIJ060rKA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66686044/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
-Despite employees adapting fairly well to working from home during the global pandemic, Netflix is reducing the number of product features it experiments with as a precaution.
-<a href='https://www.theverge.com/2020/4/21/21230222/netflix-product-features-development-reduce-coronavirus-pandemic-earnings'> Source <a/>

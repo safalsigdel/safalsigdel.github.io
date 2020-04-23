@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hsaPSKlm6frh4t91gvjCTedGgnQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66690651/byton_m_byte_0293.0.jpg' width='700px' /><br/>
+Chinese EV startup Byton is furloughing more than 200 workers at its North American headquarters in Santa Clara, California due to the coronavirus pandemic, and is reevaluating its plans to launch its first vehicle later this year.
+<a href='https://www.theverge.com/2020/4/22/21231344/chinese-ev-startup-byton-furloughs-us-employees'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SSO2uOQmot4r5D_0piZGERJDuGU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66690392/1186226242.jpg.0.jpg' width='700px' /><br/>
+Punk acts like Pussy Riot and Idles will be logging into Minecraft on Saturday to play sets for the Block by Blockwest online music festival to raise money for novel coronavirus relief efforts.
+<a href='https://www.theverge.com/2020/4/22/21231359/pussy-riot-idles-minecraft-festival-block-by-blockwest'> Source <a/>

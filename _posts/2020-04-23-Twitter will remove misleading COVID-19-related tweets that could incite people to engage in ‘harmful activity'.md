@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MYAtgjZW7-Q0sWe2QVPZ-tsGUts=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66693069/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+Twitter has updated its COVID-19 policies to require users remove tweets making unverified claims that “incite people to action and cause widespread panic, social unrest or large-scale disorder.”
+<a href='https://www.theverge.com/2020/4/22/21231956/twitter-remove-covid-19-tweets-call-to-action-harm-5g'> Source <a/>

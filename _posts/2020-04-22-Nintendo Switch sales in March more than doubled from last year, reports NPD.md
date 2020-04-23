@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TE2PpRaPVlvcCeRY_aHHMViM9m4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66684699/Nintendo_Switch.0.jpg' width='700px' /><br/>
-The Nintendo Switch sold more than double the number of consoles in March 2020 in the US than in March 2019, according to data from The NPD Group, showing that the Switch continues to be a hit more than three years after its 2017 launch (via VentureBeat). PlayStation 4 and Xbox One sales in the US were up as well, growing 25 percent year over year, reports NPD.
-<a href='https://www.theverge.com/2020/4/21/21229666/nintendo-switch-march-npd-sales-playstation-4-xbox-one-animal-crossing'> Source <a/>

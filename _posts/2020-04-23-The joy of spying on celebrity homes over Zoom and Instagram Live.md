@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XrO7TY108GDMuRehhuvCqmF-65k=/0x0:794x708/1200x800/filters:focal(205x171:331x297)/cdn.vox-cdn.com/uploads/chorus_image/image/66689976/Screen_Shot_2020_04_22_at_11.56.49_AM.0.png' width='700px' /><br/>
+In my sixth week of self-isolation, my favorite pastime has become judging the homes of celebrities over grainy Zoom calls and low-quality Instagram live streams.
+<a href='https://www.theverge.com/2020/4/22/21224980/zoom-celebrities-homes-instagram-live-quarantine-kimmel-fallon-miley-cyrus-colin-jost'> Source <a/>

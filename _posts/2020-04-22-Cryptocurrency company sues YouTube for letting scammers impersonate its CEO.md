@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E4frqFovh0ygQJBjIORXCTVzFpo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66685446/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
-Cryptocurrency company Ripple is suing YouTube for its “inexplicable failure” at stopping scammers from impersonating its CEO. In a complaint filed today, Ripple accused the video platform of selling ads and verifying accounts that promote fake cryptocurrency giveaways, then ignoring complaints about them.
-<a href='https://www.theverge.com/2020/4/21/21229762/ripple-xrp-lawsuit-youtube-trademark-brad-garlinghouse-impersonation-crypto-giveaway-scam'> Source <a/>

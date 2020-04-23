@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kTQawqnNFifvp9ITZNE2KsLh3RU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66684619/vpavic_190327_3324_0139.0.jpg' width='700px' /><br/>
-It's good to be aware of what graphics card you have in your computer for several reasons. First, it will help you know if your machine meets the recommended specification required to play a game or run an application. Also, it's useful if you want to keep your driver up to date, or even if you want to upgrade.
-<a href='https://www.theverge.com/2020/4/21/21228261/graphics-card-how-to-find-windows-10-macos-integrated-dedicated-gpu'> Source <a/>

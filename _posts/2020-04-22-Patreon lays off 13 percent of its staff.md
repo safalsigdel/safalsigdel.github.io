@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VdbdGFLX9hQ6vg-Wn88bHBoAsFo=/0x0:1600x800/1200x800/filters:focal(672x272:928x528)/cdn.vox-cdn.com/uploads/chorus_image/image/66686434/International_Patreon_send.0.jpg' width='700px' /><br/>
-Patreon has laid off 30 employees, or 13 percent of the company's staff, due to economic difficulties created by the COVID-19 pandemic, as first reported by TechCrunch on Tuesday.
-<a href='https://www.theverge.com/2020/4/21/21230290/patreon-laid-off-layoffs-13-percent-staff-workforce'> Source <a/>

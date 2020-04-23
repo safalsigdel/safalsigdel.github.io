@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-The Verge's Nilay Patel deemed the 2020 Apple MacBook Air “the best Mac for most people” in his review. And if you need or want to upgrade, you can grab this particular model for the lowest price that we've seen yet at B&H Photo. Both the silver and space gray color options are $900, which is $100 off of their usual price.
-<a href='https://www.theverge.com/good-deals/2020/4/21/21229979/apple-2020-macbook-air-keyboard-10th-gen-intel-bh-photo-sale'> Source <a/>

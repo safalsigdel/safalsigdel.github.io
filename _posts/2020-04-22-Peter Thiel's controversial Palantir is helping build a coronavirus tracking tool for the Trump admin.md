@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kbuIic7ACdC6yh_j2Efo3VlpAj8=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66686799/1167010559.jpg.0.jpg' width='700px' /><br/>
-Palantir, an analytics company co-founded by Trump ally Peter Thiel, is supporting the US Department of Health and Human Services (HHS) in building a tool to track the spread of the coronavirus, according to a new report from The Daily Beast.
-<a href='https://www.theverge.com/2020/4/21/21230453/palantir-coronavirus-trump-contract-peter-thiel-tracking-hhs-protect-now'> Source <a/>

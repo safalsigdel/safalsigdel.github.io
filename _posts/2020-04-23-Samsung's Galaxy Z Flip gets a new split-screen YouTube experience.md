@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iQVm-0LIE9gZGSVDo-meiSZftEY=/0x0:1000x563/1200x800/filters:focal(420x202:580x362)/cdn.vox-cdn.com/uploads/chorus_image/image/66691723/Google_Partnership_YT_Flex_Mode_main_1.0.jpg' width='700px' /><br/>
+YouTube has released a new update to take advantage of the Galaxy Z Flip's “Flex Mode,” allowing the app to split the screen in two.
+<a href='https://www.theverge.com/2020/4/22/21231132/galaxy-z-flip-flex-mode-youtube-update-split-screen'> Source <a/>
