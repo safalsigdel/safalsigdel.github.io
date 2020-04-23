@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q2Ggt2yPGAX26R47CKvmbEPN1C8=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19896233/bfarsace_120612_3970_0002.jpg' width='700px' /><br/>
-Motorola is making flagship phones again. The company's new Edge Plus (along with the slightly less powerful Edge) marks Motorola's reentry into the top tier of mobile phones, a space that it hasn't really competed in since the first-generation Moto Z was released in 2016.
-<a href='https://www.theverge.com/2020/4/22/21229740/motorola-edge-plus-android-phone-display-features-camera-specs-hands-on'> Source <a/>
