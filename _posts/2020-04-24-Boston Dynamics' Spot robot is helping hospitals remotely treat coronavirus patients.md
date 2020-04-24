@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8g1K_nfBoT4-SBiKRyqrPiXk1PE=/0x0:4608x2592/1200x800/filters:focal(1936x928:2672x1664)/cdn.vox-cdn.com/uploads/chorus_image/image/66694639/20200410_drspot_v1_pitch.0.jpg' width='700px' /><br/>
-Robot maker Boston Dynamics announced on Thursday that its quadruped Spot robot is already in use at one Boston hospital to help with coronavirus treatment. The company now has ambitious plans to expand use of its robots to assist healthcare workers during the pandemic, and it's also open sourcing the hardware and software it's using so other hospitals and robot makers may be able to do follow its lead.
-<a href='https://www.theverge.com/2020/4/23/21231855/boston-dynamics-spot-robot-covid-19-coronavirus-telemedicine'> Source <a/>
