@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E5-a65Qi7RHSi8cRzPfJ-H7gNbE=/0x0:600x400/1200x800/filters:focal(252x152:348x248)/cdn.vox-cdn.com/uploads/chorus_image/image/66694805/A_DQEsgCUAAlhZ2.0.jpg' width='700px' /><br/>
-IMDb TV — the Amazon-owned free streaming service that's part of the popular online movie database — is getting its first major original TV series: a reboot of the 2008 TNT crime show Leverage, via Deadline. The show follows a Robin Hood-esque group of thieves who steal from the rich to help those in need.
-<a href='https://www.theverge.com/2020/4/23/21232510/leverage-reboot-imdb-tv-original-series-amazon-free-streaming-service'> Source <a/>
