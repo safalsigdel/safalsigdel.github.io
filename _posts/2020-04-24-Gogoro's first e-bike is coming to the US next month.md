@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AUf3IYjnFSn3Bj_dMla5DfqzuWY=/0x0:1300x1016/1200x800/filters:focal(546x404:754x612)/cdn.vox-cdn.com/uploads/chorus_image/image/66694014/gogoro_eeyo.0.jpg' width='700px' /><br/>
-Electric scooter company Gogoro, founded by two former senior HTC designers and technologists, is about to launch its first electric bike under the new Eeyo sub-brand. It's coming first to the US in May, before heading to Europe and the company's home country of Taiwan sometime in the summer.
-<a href='https://www.theverge.com/2020/4/23/21232387/gogoro-electric-bike-eeyo-date-us-europe'> Source <a/>

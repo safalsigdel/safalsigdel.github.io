@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3NDyQfYHVnUEd11eN4dIX2Q4pG0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66700995/akrales_190913_3628_0277.0.jpg' width='700px' /><br/>
+A new iOS text bug has been discovered that causes iPhones to crash. The flaw involves several characters from the Sindhi language that cause iOS to lock up and an iPhone to crash. The character string has been circulating this week on Discord servers and Telegram, and The Verge has tested and confirmed that it will crash an iPhone running Apple's latest iOS 13.4.1 release.
+<a href='https://www.theverge.com/2020/4/24/21234191/apple-iphone-crash-text-bug-ios-13-problem'> Source <a/>
