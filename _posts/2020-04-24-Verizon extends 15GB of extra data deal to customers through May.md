@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IZqvXqfG1Cg47r0INItliU2vxkU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66692449/acastro_200109_1777_verizon_0001.0.0.jpg' width='700px' /><br/>
-Verizon announced today that it's extending its pledge to provide an additional 15GB of high-speed data to customers with a wireless plan through May 31st due to the coronavirus pandemic.
-<a href='https://www.theverge.com/2020/4/22/21231803/verizon-extends-15gb-of-extra-data-deal-to-customers-through-may'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Enforcing social distancing during the ongoing novel coronavirus pandemic is a tough thing to do, but the suburban town of Westport, Connecticut, had what might most over-the-top solution yet: deploying specialized police drones to yell at people who aren't standing six feet apart, as spotted by Gizmodo.
+<a href='https://www.theverge.com/2020/4/23/21232592/connecticut-suburb-westport-pandemic-drones-draganfly-social-distancing'> Source <a/>

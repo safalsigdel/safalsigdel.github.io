@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W2iXtXWrU6R91P_0lKonR3qZFcs=/0x0:5173x3442/1200x800/filters:focal(2174x1308:3000x2134)/cdn.vox-cdn.com/uploads/chorus_image/image/66697486/1206913323.jpg.0.jpg' width='700px' /><br/>
+Over the last few days, a fake Joe Biden campaign ad has gone viral across Twitter, boosted in part by current and former Trump campaign staffers. After The Verge's report on the image, Twitter said that it was in violation of its elections rules.
+<a href='https://www.theverge.com/2020/4/23/21233006/joe-biden-trump-fake-ad-campaign-hillary-clinton-twitter-tumblr-reddit'> Source <a/>

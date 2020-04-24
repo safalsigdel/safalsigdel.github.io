@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xsWAUmR_fpp9kuYjeKnSM3Rx8DA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66698357/acastro_181114_1777_amazon_hq2_0005.0.jpg' width='700px' /><br/>
+Amazon employees have accessed sales data from independent Marketplace sellers to help the company develop competing private-label products, according to a report from The Wall Street Journal.
+<a href='https://www.theverge.com/2020/4/23/21233121/amazon-employees-seller-data-private-label-products'> Source <a/>
