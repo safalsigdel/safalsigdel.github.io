@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0aZzU12mYJYC_BLg-eQeyNx6C_A=/0x0:2000x1400/1200x800/filters:focal(840x540:1160x860)/cdn.vox-cdn.com/uploads/chorus_image/image/66694604/keyword_in_device_2000x1400__1_.0.jpg' width='700px' /><br/>
-Google is adding a new feature to search today that will let you know when it thinks the search results it's offering aren't that good.
-<a href='https://www.theverge.com/2020/4/23/21231876/google-search-results-matches-notification-message'> Source <a/>
