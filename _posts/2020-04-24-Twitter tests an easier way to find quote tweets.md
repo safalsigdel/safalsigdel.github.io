@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XuU0tJmwKsudtz7_XVzrEYSu6w8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66694160/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter is testing a new option that shows you all the times a post has been retweeted with a comment, the company has confirmed to The Verge. In screenshots posted by users with the feature enabled, a new “Retweet with comments” counter can be seen alongside the existing “Likes” and “Retweets” numbers. Twitter said it's currently testing the feature with a small group of iOS Twitter users.
-<a href='https://www.theverge.com/2020/4/23/21232408/twitter-quote-retweets-counter-retweet-with-comment-test'> Source <a/>
