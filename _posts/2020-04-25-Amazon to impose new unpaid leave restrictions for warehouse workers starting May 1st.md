@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iTC1iZKn_4yshaXPMYcSivraihg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66705746/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
+Amazon is changing its unpaid leave policies starting next month, according to a report from Bloomberg. On May 1st, hourly employees — a vast majority of which are among the company's 250,000 or so warehouse workers who cannot work from home — must request an unpaid leave of absence to continue staying home if they do not want to work out of fear for their safety during the COVID-19 pandemic.
+<a href='https://www.theverge.com/2020/4/24/21235415/amazon-unpaid-leave-warehouse-workers-covid-19-coronavirus-policy-change'> Source <a/>

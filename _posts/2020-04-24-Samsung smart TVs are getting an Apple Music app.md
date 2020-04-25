@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R3YFRlRrb76tJSFieN6jvdmhfsA=/0x0:4137x2596/1200x800/filters:focal(1739x968:2399x1628)/cdn.vox-cdn.com/uploads/chorus_image/image/66695010/Samsung_Smart_TV_Apple_Music_Recommended_for_You_4.23.20.0.png' width='700px' /><br/>
-Apple Music is getting an app on Samsung's most recent smart TVs, the two companies announced today. It's the latest expansion of the bizarre partnership between Apple and Samsung for smart TV services. The announcement marks the first time Apple has offered an Apple Music app for any smart TV platform (other than its own Apple TV set-top box, of course).
-<a href='https://www.theverge.com/2020/4/23/21231790/samsung-smart-tv-apple-music-app-available'> Source <a/>

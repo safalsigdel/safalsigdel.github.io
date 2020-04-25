@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BBxnAPMhba8QFbYwVwKqGXMmkfg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66704637/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
+Amazon is extending its increase in the hourly pay rate of warehouse workers through May 16th, according to a report from CNBC. The company originally announced in March that, as part of its hiring increase to contend with the huge surge in demand due to the coronavirus pandemic, it would raise warehouse worker pay by $2 an hour.
+<a href='https://www.theverge.com/2020/4/24/21234936/amazon-wage-increase-warehouse-worker-coronavirus-covid'> Source <a/>

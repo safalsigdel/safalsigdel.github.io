@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sIdqAdUZ1mh1jnm4dTo4A1dLDkA=/0x0:8984x5053/1200x800/filters:focal(3774x1809:5210x3245)/cdn.vox-cdn.com/uploads/chorus_image/image/66696465/img_1.0.jpg' width='700px' /><br/>
-Porsche is introducing new head units that combine vintage design with more modern conveniences, like high-resolution touchscreens, Bluetooth, DAB+, and Apple CarPlay.
-<a href='https://www.theverge.com/2020/4/23/21232713/porsche-apple-carplay-head-unit-retro-classic'> Source <a/>

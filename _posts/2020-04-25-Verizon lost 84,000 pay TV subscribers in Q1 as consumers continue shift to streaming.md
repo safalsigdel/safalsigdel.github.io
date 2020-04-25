@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5XFjw3JO8AZKtQ8LdfgPSz2w2LA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66702718/acastro_200109_1777_verizon_0004.0.0.jpg' width='700px' /><br/>
+Verizon lost 84,000 Fios TV subscribers and 68,000 postpaid mobile phone subscribers during the first quarter of 2020 as the telecom company continued seeing the effects of the COVID-19 pandemic. In its earnings report this morning, Verizon said it's seeing an “ongoing shift from traditional linear video to over-the-top offerings.” That trend isn't new, but widespread quarantines are only helping to push it along.
+<a href='https://www.theverge.com/2020/4/24/21234237/verizon-pay-tv-subscribers-over-the-top-streaming'> Source <a/>

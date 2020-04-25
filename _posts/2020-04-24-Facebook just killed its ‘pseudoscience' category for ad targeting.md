@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MNybm5xwGWo1GOSi_oRaE0UIbeE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66695952/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook has removed “pseudoscience” from the list of categories advertisers can use to target people, following an investigation from The Markup. While no longer available as of Wednesday, the social media platform's ad portal showed more than 78 million Facebook users were interested in pseudoscience, The Markup reports.
-<a href='https://www.theverge.com/2020/4/23/21232547/facebook-pseudoscience-ad-targeting-coronavirus'> Source <a/>

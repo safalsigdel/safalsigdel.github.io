@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6yFKsuhwe0iXJBJ9Mairw5589X0=/0x0:1024x679/1200x800/filters:focal(431x259:593x421)/cdn.vox-cdn.com/uploads/chorus_image/image/66704929/carnival.0.0.jpg' width='700px' /><br/>
+Many industries have been negatively impacted by the novel coronavirus, including the cruise industry, with cruise ships deemed some of the most dangerous places due to the limited airflow and confined spaces. With no global organization or agency keeping track of cases from cruise ships, the Miami Herald, a Florida-based newspaper, decided to track outbreaks on oceangoing cruise ships.
+<a href='https://www.theverge.com/2020/4/24/21234771/miami-herald-how-coronavirus-took-over-cruise-ships-covid-19'> Source <a/>
