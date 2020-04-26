@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CW7VQvVT-25nPhZCZ0gbTE9w2Vk=/0x0:780x438/1200x800/filters:focal(328x157:452x281)/cdn.vox-cdn.com/uploads/chorus_image/image/66708336/200326111901_01_dyson_covent_ventilator_exlarge_169.0.jpg' width='700px' /><br/>
+After spending about $25 million on the project, British technology company Dyson says the UK government doesn't need the ventilator it developed to help treat COVID-19 patients, Reuters reported. The company, best known for its vacuum cleaners, said last month it had an order from the UK government for 10,000 of the breathing machines and developed one it called the CoVent.
+<a href='https://www.theverge.com/2020/4/25/21236141/dyson-ventilator-25-million-covid-19-coronavirus-ford-tesla-gm'> Source <a/>

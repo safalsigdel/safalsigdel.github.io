@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E7ULde8rLzm2mdULokekWRPnbug=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66701100/jbareham_180301_2346_nintendo_switch_0034_mario.0.jpg' width='700px' /><br/>
-Nintendo is disabling the ability to log into a Nintendo Account through a Nintendo Network ID (NNID), after 160,000 accounts have been affected by hacking attempts. Nintendo says login IDs and passwords “obtained illegally by some means other than our service,” have been used since the beginning of April to gain access to the accounts.
-<a href='https://www.theverge.com/2020/4/24/21234205/nintendo-account-hack-nnid-breach-security-hacking-attempt'> Source <a/>
