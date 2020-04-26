@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-t7kXj5W1s5tl81QRedWIMv2g9Q=/0x0:2040x1530/1200x800/filters:focal(1105x550:1431x876)/cdn.vox-cdn.com/uploads/chorus_image/image/66707603/fion_180428_2519_8644.0.jpg' width='700px' /><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a href='https://www.theverge.com/good-deals/2020/4/25/21234844/google-nest-hello-video-doorbell-macbook-pro-cyberpunk-2077-deal-sale-preorder'> Source <a/>

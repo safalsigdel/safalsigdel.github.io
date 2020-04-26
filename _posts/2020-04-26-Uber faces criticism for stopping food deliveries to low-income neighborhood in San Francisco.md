@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Som6MJuJKIi_gni4VDsbgS56qTA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66705968/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a href='https://www.theverge.com/2020/4/24/21235426/uber-eats-san-francisco-supervisor-deliveries-treasure-island'> Source <a/>

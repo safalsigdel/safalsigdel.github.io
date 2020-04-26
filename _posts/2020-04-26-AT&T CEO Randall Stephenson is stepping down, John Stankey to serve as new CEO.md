@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4Ary-IYqBv8n5_I5qEnOqIh92as=/0x0:2040x1360/1200x800/filters:focal(790x229:1116x555)/cdn.vox-cdn.com/uploads/chorus_image/image/66701981/att_randall_stevenson_ceo_1.0.jpg' width='700px' /><br/>
-<br/><br/><br/><br/><br/><br/><br/>
-<a href='https://www.theverge.com/2020/4/24/21234433/att-ceo-randall-stephenson-retire-replacement-john-stankey-coo'> Source <a/>

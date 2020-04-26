@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VcZnuvyvwh7hjekWkZnnqM0K2zw=/0x0:6001x3784/1200x800/filters:focal(2521x1412:3481x2372)/cdn.vox-cdn.com/uploads/chorus_image/image/66703771/2._Messenger_Rooms_MAIN_Desktop.0.jpg' width='700px' /><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a href='https://www.theverge.com/2020/4/24/21233468/facebook-messenger-rooms-live-instagram-live-igtv-video-chat'> Source <a/>

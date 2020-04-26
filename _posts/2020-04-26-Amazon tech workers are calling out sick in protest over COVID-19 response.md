@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W23_F0E4M2jqIURkJUdAtp4GefQ=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66701461/1215765218.jpg.0.jpg' width='700px' /><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a href='https://www.theverge.com/2020/4/24/21233891/amazon-coronavirus-protest-sick-out-tech-workers-climate-justice'> Source <a/>

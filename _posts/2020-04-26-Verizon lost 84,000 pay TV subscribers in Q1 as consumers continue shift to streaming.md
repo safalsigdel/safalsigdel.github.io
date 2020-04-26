@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5XFjw3JO8AZKtQ8LdfgPSz2w2LA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66702718/acastro_200109_1777_verizon_0004.0.0.jpg' width='700px' /><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a href='https://www.theverge.com/2020/4/24/21234237/verizon-pay-tv-subscribers-over-the-top-streaming'> Source <a/>

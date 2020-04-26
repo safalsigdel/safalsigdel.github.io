@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qlVm-dEwX-RNmf5P0Zne7ChZMBs=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66702688/acastro_180329_1777_amazon_0001.0.jpg' width='700px' /><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a href='https://www.theverge.com/2020/4/24/21234522/democrats-david-cicilline-jerry-nadler-amazon-bezos'> Source <a/>

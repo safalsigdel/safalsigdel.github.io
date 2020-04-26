@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IDyYSG-bXnJKP8hwu2QNAV0QH1A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66703359/bking_200306_3928_0015.0.jpg' width='700px' /><br/>
-<br/><br/><br/><br/>
-<a href='https://www.theverge.com/2020/4/24/21234668/samsung-google-ubreakifix-free-phone-repairs-healthcare-first-responder-galaxy-pixel'> Source <a/>

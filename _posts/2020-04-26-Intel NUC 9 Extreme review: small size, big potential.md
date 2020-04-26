@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/55hqY5u0VObAH839gDYR7NoIu20=/0x0:2500x1406/1200x675/filters:focal(1050x503:1450x903)/cdn.vox-cdn.com/uploads/chorus_image/image/66702359/dseifert_intel_nuc9_extreme_6.0.jpg' width='700px' /><br/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<a href='https://www.theverge.com/2020/4/24/21234333/intel-nuc-9-extreme-mini-pc-ghost-canyon-gaming-review-price-specs-features'> Source <a/>
