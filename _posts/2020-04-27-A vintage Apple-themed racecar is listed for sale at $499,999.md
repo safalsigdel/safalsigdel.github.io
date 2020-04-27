@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qNs-CgkHhluksRMFcDq4geIBhxk=/0x0:1800x1196/1200x800/filters:focal(756x454:1044x742)/cdn.vox-cdn.com/uploads/chorus_image/image/66714478/applecar2_resized.0.jpg' width='700px' /><br/>
+If you really want an Apple car and have half a million bucks to spend, there's a 1979 Porsche 935 K3 Apple-themed racecar up for sale, according to Apple Insider. Apple sponsored the car — which is now listed for sale on the DuPont Registry — during the 1980 racing season. Along with the “Apple Computer” name, the car also bears the retro rainbow logo and a sticker on its rear bumper that reads “Don't upset the Apple Car.”
+<a href='https://www.theverge.com/2020/4/27/21237393/apple-car-sale-vintage-race-porsche-price'> Source <a/>
