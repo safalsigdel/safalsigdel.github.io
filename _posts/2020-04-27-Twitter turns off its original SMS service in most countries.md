@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_KnEHykNdY7e0VhM-_ryuy7ZH9s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66714721/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
+For the most part, you can no longer use Twitter as it was originally built to be used: over text message.
+<a href='https://www.theverge.com/2020/4/27/21238131/twitter-sms-notifications-disabled-jack-dorsey-hack'> Source <a/>
