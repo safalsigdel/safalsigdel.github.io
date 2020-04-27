@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7sluYq_uTf150FHoDF_ivk8RkZ0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66711264/acastro_180430_1777_tesla_0004.0.jpg' width='700px' /><br/>
+Tesla plans to call some workers back to its assembly plant in Fremont, California staring April 29th, despite a shelter-in-place order in the San Francisco Bay Area in effect through May 3rd, Bloomberg News reported.
+<a href='https://www.theverge.com/2020/4/26/21237251/tesla-recall-workers-fremont-california-coronavirus'> Source <a/>
