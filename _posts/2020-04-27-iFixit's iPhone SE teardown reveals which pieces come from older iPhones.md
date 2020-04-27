@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L-uNf9YLBG_kV-T2kpaSzhIznw8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66714790/vpavic_042020_3980_0091.0.jpg' width='700px' /><br/>
+Reviews of the new 2020 iPhone SE are here and so is iFixit's teardown of the device. While the $400 handset has a design similar to that of an iPhone 8, the teardown reveals that it's surprisingly modern on the inside.
+<a href='https://www.theverge.com/2020/4/27/21238172/iphone-se-teardown-ifixit-8-xr'> Source <a/>
