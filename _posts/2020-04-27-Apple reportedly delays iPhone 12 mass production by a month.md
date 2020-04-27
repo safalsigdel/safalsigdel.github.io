@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qIZjkb-fY8s2kQF05juGHmM46B4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66714038/akrales_190913_3666_0391.0.jpg' width='700px' /><br/>
+Apple is reportedly delaying mass production of its upcoming iPhone 12 handsets by around a month. The Wall Street Journal reports that the impact of the coronavirus pandemic across supply chains and manufacturing has disrupted Apple's iPhone 12 mass production plans. Rumors suggest Apple will introduce four new iPhone models later this year, all with 5.4-, 6.1-, or 6.7-inch OLED screens.
+<a href='https://www.theverge.com/2020/4/27/21238081/apple-iphone-12-mass-production-delay-rumors-coronavirus-impact'> Source <a/>
