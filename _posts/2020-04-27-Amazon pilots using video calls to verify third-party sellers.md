@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q79-m1ewa_4_Zb3_l_wpMfn9IHw=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66713761/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
+Amazon is testing using video calls to verify third-party sellers as it attempts to minimize the amount of fraudulent accounts and listings on its platform, the company has announced. The live verification initiative initially used in-person meetings when it began earlier this year, but pivoted to video conferencing as the COVID-19 pandemic made social distancing measures necessary.
+<a href='https://www.theverge.com/2020/4/27/21238026/amazon-seller-verification-video-calling-fraud-third-party-sellers'> Source <a/>
