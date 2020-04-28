@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ukouOsATIw4jFVl_l0QWHczHRyw=/0x0:2040x1367/1200x800/filters:focal(857x521:1183x847)/cdn.vox-cdn.com/uploads/chorus_image/image/66719937/cfaulkner_200424_3991_0011.0.0.jpg' width='700px' /><br/>
+It's tough not to love a good, super affordable home security camera. The Blink Mini is one of those, like the popular Wyze Cam and entry-level Ring Indoor Cam. It's a $35 tiny plug-in camera that's capable enough to meet most people's needs when it comes to keeping an eye on their home.
+<a href='https://www.theverge.com/2020/4/28/21231112/blink-mini-smart-home-camera-security-cam-review'> Source <a/>
