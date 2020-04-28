@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RaAYuwOYYKM2ozbos6k5OjW_-rU=/0x0:6511x4341/1200x800/filters:focal(2736x1651:3776x2691)/cdn.vox-cdn.com/uploads/chorus_image/image/66720352/FaZe_Clan_Press_Photo_1.0.jpeg' width='700px' /><br/>
+Faze Clan is expanding beyond platforms like Twitch and YouTube. Today the esports and lifestyle company announced the launch of Faze Studios, alongside producer Michael Sugar's Sugar23 platform, with the goal of producing original film and TV projects. No specific shows or movies were announced, but Faze says that “the original content will align with Faze Clan's brand ethos as a powerful lifestyle and cultural driver.”
+<a href='https://www.theverge.com/2020/4/28/21239034/faze-clan-studios-film-tv-projects'> Source <a/>
