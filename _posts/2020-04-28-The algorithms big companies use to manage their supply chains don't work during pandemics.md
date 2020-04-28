@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Gso9lvOQh2Yqmqpjve5rhlDnvX4=/0x0:4311x2874/1200x800/filters:focal(1812x1093:2500x1781)/cdn.vox-cdn.com/uploads/chorus_image/image/66715461/1207648332.jpg.0.jpg' width='700px' /><br/>
+Even during a pandemic, Walmart's supply chain managers have to make sure stores and warehouses are stocked with the things customers want and need. COVID-19, though, has thrown off the digital program that helps them predict how many diapers and garden hoses they need to keep on the shelves.
+<a href='https://www.theverge.com/2020/4/27/21238229/algorithms-supply-chain-model-pandemic-disruption-amazon-walmart'> Source <a/>

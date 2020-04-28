@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-MNnHJ-iQnd8ko5lx4vzPk-eB7I=/0x0:4960x3508/1200x800/filters:focal(2084x1358:2876x2150)/cdn.vox-cdn.com/uploads/chorus_image/image/66718291/zS9hn8Tg_2.0.jpeg' width='700px' /><br/>
+Two and a half years after introducing the first Mavic Air, DJI is announcing its successor: the Mavic Air 2. It comes with a bigger image sensor, ditches Wi-Fi in favor of DJI's own OccuSync transmission technology, has up to 34 minutes of flight time, and is packaged with a completely redesigned controller.
+<a href='https://www.theverge.com/2020/4/27/21239003/dji-mavic-air-2-drone-camera-price-specs-features-release-date'> Source <a/>

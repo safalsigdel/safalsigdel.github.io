@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a4H9SdLbQm6Q-D3lByGNgxbvsaM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66716695/tesla_model_3_0638.0.jpg' width='700px' /><br/>
+Tesla is rolling out a software update to some of its newest cars that will allow them to see and respond to traffic lights and stop signs, a feature that CEO Elon Musk has teased for years.
+<a href='https://www.theverge.com/2020/4/27/21238637/tesla-cars-traffic-light-stop-sign-control-feature-self-driving'> Source <a/>

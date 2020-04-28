@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6Fm0cKd2rI4yZbj5sfUjKLg10x4=/0x0:968x645/1200x800/filters:focal(407x246:561x400)/cdn.vox-cdn.com/uploads/chorus_image/image/66714977/curzon_food_delivery_2704.0.jpg' width='700px' /><br/>
+British cinema chain Curzon is partnering with Uber Eats to offer a selection of snacks from its concessions stand for your home movie night. The limited edition home cinema bundle consists of Curzon's sweet popcorn, a gourmet hot dog, and selection of other movie snacks, like a salt-and-pepper nut mix and a Negroni slushie, according to The Evening Standard.
+<a href='https://www.theverge.com/2020/4/27/21238297/curzon-cinemas-uber-eats-food-hot-dog-popcorn-delivery'> Source <a/>

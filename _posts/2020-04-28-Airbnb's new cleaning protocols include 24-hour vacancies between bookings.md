@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-aRubmM9aIeVrV5Jf1vJQhY82WQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66716710/akrales_161202_1327_A_0122_v2.0.0.jpg' width='700px' /><br/>
+Short-term home rental platform Airbnb is introducing a new “enhanced cleaning initiative” that will take effect in May and include a 24-hour vacancy period between bookings, according to a company blog post. The new cleaning protocol is not required for property hosts, but guests will be able to see which hosts are participating in the cleaning initiative in search results on the platform.
+<a href='https://www.theverge.com/2020/4/27/21238142/airbnb-cleaning-protocols-24-hours-coronavirus-hosts-guest-bookings'> Source <a/>

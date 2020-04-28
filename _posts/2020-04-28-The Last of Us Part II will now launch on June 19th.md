@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/52NGzUF2ZnUy6hkGcazmtDa1r7w=/0x0:991x558/1200x800/filters:focal(540x171:698x329)/cdn.vox-cdn.com/uploads/chorus_image/image/66715364/the_last_of_us_state_of_play_screen_01_ps4_us_24sep19.0.jpeg' width='700px' /><br/>
+Sony announced today that Naughty Dog's The Last of Us Part II will now be released on June 19th. Earlier this month, Sony had said that the PlayStation 4 exclusive would be delayed “until further notice” because of the COVID-19 pandemic. Before that, the game had been scheduled to release on May 29th (which was also a delayed release date).
+<a href='https://www.theverge.com/2020/4/27/21238450/sony-playstation-4-the-last-of-us-part-2-ghost-of-tsushima-launch-date'> Source <a/>
