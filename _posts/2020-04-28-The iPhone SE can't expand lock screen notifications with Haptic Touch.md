@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R7OyufP6Irtgl-xuWN9JcHY7B7I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66718600/vpavic_042020_3980_0055.0.jpg' width='700px' /><br/>
+It's emerged that the new iPhone SE, which started shipping last Friday, has a curious feature missing: unlike every other modern iPhone, you're unable to bring up rich content on the lock screen or notification shade with a “Haptic Touch” long press. MacRumors noted the omission, and The Verge has confirmed it on a device of our own.
+<a href='https://www.theverge.com/2020/4/28/21239413/iphone-se-2-2020-haptic-touch-notifications-dont-work'> Source <a/>
