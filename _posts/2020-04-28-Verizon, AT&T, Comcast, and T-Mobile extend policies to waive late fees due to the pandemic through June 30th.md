@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4Cfw9YZAZ5Q_2Dk-UkhTGXvLmNw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66716919/acastro_200109_1777_verizon_0003.0.0.jpg' width='700px' /><br/>
+AT&T, Comcast, Cox, Verizon, and T-Mobile have all extended their policies to not charge late fees or cancel service for customers and small businesses affected by the COVID-19 pandemic through June 30th. Virtually every major US broadband and telecom company had committed to waiving late fees and not canceling service for 60 days in mid-March, and now some of those policies are being extended.
+<a href='https://www.theverge.com/2020/4/27/21238841/verizon-policy-waive-late-fees-no-cancelation-covid-19-pandemic-june-30th'> Source <a/>
