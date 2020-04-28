@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IOt8jd1nYvpjxF9WkVlF4hqu5SM=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66714770/UPSDrone_1.0.jpg' width='700px' /><br/>
-UPS and CVS are teaming up to deliver prescription medicine via drone to residents of The Villages retirement community in Florida. The service, which will use Matternet's M2 drones, is being conducted with authorization from the Federal Aviation Administration.
-<a href='https://www.theverge.com/2020/4/27/21238196/ups-cvs-drone-delivery-medicine-florida-coronavirus'> Source <a/>
