@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T1fLbYFaRmXvpzF9EDl7YUFlwvg=/1526x0:3888x1366/1200x800/filters:focal(2579x322:3397x1140)/cdn.vox-cdn.com/uploads/chorus_image/image/66721165/exodus_cryptophone_with_zion_wallet_d.0.png' width='700px' /><br/>
+HTC's Exodus blockchain smartphones will soon receive their own mining app, letting them mine Monero cryptocurrency when plugged in and idle, The Block reported earlier this month. The DeMiner app, which is being developed by Midas Labs, is scheduled to launch in Q2 2020.
+<a href='https://www.theverge.com/2020/4/28/21239866/htc-exoudus-1s-monero-mining-cryptocurrency-blockchain-phone'> Source <a/>
