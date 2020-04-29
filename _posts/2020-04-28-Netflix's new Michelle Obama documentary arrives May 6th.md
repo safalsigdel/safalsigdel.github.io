@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qea_hkGGv3y4XYJXCDchmfaMumo=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/66715905/PHI_9638_R.0.jpg' width='700px' /><br/>
-Netflix announced today that a new documentary about former first lady Michelle Obama will be available on the streaming service starting Wednesday, May 6th. The documentary is called Becoming, which is the same title as her memoir released in 2018. Becoming will cover some history of Obama's life from the memoir, according to The Hollywood Reporter, and give a behind-the-scenes look at experiences from her 34-city book tour.
-<a href='https://www.theverge.com/2020/4/27/21238647/netflix-new-michelle-obama-documentary-becoming-release-date'> Source <a/>

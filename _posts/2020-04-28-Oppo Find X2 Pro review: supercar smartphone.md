@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IQMP2I83ID3YJwS7G0w9osMZ9R8=/0x0:2040x1148/1200x675/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/66718889/DSC00737_2.0.jpg' width='700px' /><br/>
-If you want a quick way to illustrate just how good Chinese phones have gotten in the past couple of years, try comparing the Oppo Find X2 Pro to its predecessor. 2018's Find X was a technically ambitious device that paired a still-unique motorized sliding design with a still-uncommon 3D face unlock system and wonky software.
-<a href='https://www.theverge.com/2020/4/28/21238029/oppo-find-x2-pro-review-specs-price-camera'> Source <a/>

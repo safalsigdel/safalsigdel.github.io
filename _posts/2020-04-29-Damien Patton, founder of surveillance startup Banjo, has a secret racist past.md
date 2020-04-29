@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hH3Et3ys4r0o1sIG8RiiZExcZXA=/0x0:2400x1526/1200x800/filters:focal(950x83:1334x467)/cdn.vox-cdn.com/uploads/chorus_image/image/66722286/481430228.jpg.0.jpg' width='700px' /><br/>
+On June 9th, 1990, a young Damien Patton took part in a drive-by shooting against the West End Synagogue in Nashville, Tennessee, alongside a leading member of the Klu Klux Klan. Nobody was injured, but the event sent Patton on the run from the authorities. A year later he enlisted in the Navy, later becoming a NASCAR mechanic, a crime scene investigator, and finally, a Silicon Valley founder.
+<a href='https://www.theverge.com/2020/4/28/21239957/banjo-founder-damien-patton-kkk-racism-anti-semitic-apology-surveillance'> Source <a/>

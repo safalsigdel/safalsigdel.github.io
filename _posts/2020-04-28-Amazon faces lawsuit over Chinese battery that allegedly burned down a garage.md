@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2Zw6S4qwYlpJA1XSP7z0WH7_Plo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66717535/acastro_181114_1777_amazon_hq2_0005.0.jpg' width='700px' /><br/>
-A mislabeled battery that allegedly caused a fire in a Minnesota man's garage last year is the subject of a new lawsuit against Amazon. Farm Bureau Property & Casualty Insurance Company claims the e-commerce giant sold the battery to its client, Dane Meyer of Cottonwood, Minnesota, last April and should be responsible for the $75,000 in damages caused by the fire.
-<a href='https://www.theverge.com/2020/4/27/21238919/amazon-lawsuit-battery-fire-choice'> Source <a/>

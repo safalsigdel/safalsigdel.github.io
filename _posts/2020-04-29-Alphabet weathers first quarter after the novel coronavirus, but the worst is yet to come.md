@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G2k8umYK7sDUmiR2fD8MXdIq-w4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66722746/acastro_180130_1777_0002.0.jpg' width='700px' /><br/>
+Google parent company Alphabet managed to weather the storm caused by COVID-19 in its first quarterly earnings that take into account the society-altering shifts of the global pandemic.
+<a href='https://www.theverge.com/2020/4/28/21240339/alphabet-google-q1-2020-earnings-revenue-profit-ad-business'> Source <a/>

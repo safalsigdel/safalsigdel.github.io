@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uLZrfddiiO3tr7yR65QNTr4TWEo=/0x0:1262x710/1200x800/filters:focal(531x255:731x455)/cdn.vox-cdn.com/uploads/chorus_image/image/66716263/hbo_max.0.png' width='700px' /><br/>
-WarnerMedia and Apple have reached a deal that will give free HBO Max access to existing HBO customers who subscribe to the service through Apple. Free access begins when the new streaming service launches on May 27th, via Deadline.
-<a href='https://www.theverge.com/2020/4/27/21238601/hbo-max-apple-subscribers-free-now-in-app-purchase-tv-channel'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7h52heeaE3IscUTp3AZI3Mv7LO4=/0x0:2040x1360/1200x800/filters:focal(755x579:1081x905)/cdn.vox-cdn.com/uploads/chorus_image/image/66718093/vpavic_042020_3980_0037.0.jpg' width='700px' /><br/>
-Unlike most phones released these days, Apple's new iPhone SE has just one 12-megapixel rear camera lens. But it turns out that one camera is still pretty good, at least in well-lit situations, my colleague Dieter Bohn found in his iPhone SE review.
-<a href='https://www.theverge.com/2020/4/27/21239195/apple-iphone-se-2-machine-learning-depth-camera-system-halide'> Source <a/>
