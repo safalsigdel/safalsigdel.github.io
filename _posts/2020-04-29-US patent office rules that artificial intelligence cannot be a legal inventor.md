@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-vvnO7i0rwTF9_oHoj22J7g8-7Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66726960/jbareham_170215_1460_0001_v2_3.0.jpg' width='700px' /><br/>
+The US Patent and Trademark Office (USPTO) has ruled that artificial intelligence systems cannot be credited as an inventor in a patent, the agency announced earlier this week. The decision came in response to two patents — one for a food container and the other for a flashing light — that were created by an AI system called DABUS.
+<a href='https://www.theverge.com/2020/4/29/21241251/artificial-intelligence-inventor-united-states-patent-trademark-office-intellectual-property'> Source <a/>
