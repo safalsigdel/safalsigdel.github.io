@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lStyxgtwEqB0l2yJsddS9QmpwXo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66721087/acastro_200124_3882_Amazon_liability_0001.0.jpg' width='700px' /><br/>
-When people were ordered to stay home during the pandemic, online shopping became a vital resource for basic goods like toilet paper, groceries, and cleaning supplies. People need those products fast, and Amazon provides that service.
-<a href='https://www.theverge.com/2020/4/28/21234925/vergecast-podcast-interview-stacy-mitchell-institute-for-local-self-reliance-amazon-monopoly'> Source <a/>
