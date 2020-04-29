@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NW2jxZvvJyN0tLKjnsnvoIgbgVc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66719397/akrales_180215_2310_0008.0.jpg' width='700px' /><br/>
-WhatsApp video calls can now include up to eight people instead of just four. In order to reach the new upper limit, everyone on the call will need to be running the updated version of the app. To start a group video call, you can either initiate the call directly from a group chat or add extra people manually after starting a one-on-one call. WhatsApp's site notes that its video calls are end-to-end encrypted.
-<a href='https://www.theverge.com/2020/4/28/21239549/whatsapp-eight-person-video-calls-encryption'> Source <a/>
