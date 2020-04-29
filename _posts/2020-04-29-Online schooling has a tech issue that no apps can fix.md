@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_BLIKebLjRBOoJkWciRCU5QJzmg=/0x0:1236x962/1200x675/filters:focal(520x383:716x579)/cdn.vox-cdn.com/uploads/chorus_image/image/66725363/Sklar_8th_Mar_Flickinger_Project_1_How_I_Feel_at_this_Time_4_1_2020.0.png' width='700px' /><br/>
+In a photo, Josh Sanders stands behind a pane of glass as he looks out onto his deck where a skateboard and bicycle have been flipped over, seemingly untouched for weeks. From his mildly furrowed expression, Josh's longing for the outside world is painfully apparent.
+<a href='https://www.theverge.com/2020/4/29/21239567/remote-school-distance-learning-digital-internet-tech-gap-devices-access'> Source <a/>
