@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3rYrHwaxslsYJiyIpDmwP5QPUHg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66721364/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-As more businesses, creators, and artists turn to internet live-streaming tools during the pandemic, Facebook has announced that it'll be adding the option for people to charge for access to events with Facebook Live streams.
-<a href='https://www.theverge.com/2020/4/28/21239863/facebook-live-paid-video-charge-stream-access-events'> Source <a/>

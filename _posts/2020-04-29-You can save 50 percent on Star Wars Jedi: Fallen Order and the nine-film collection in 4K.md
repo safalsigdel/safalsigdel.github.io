@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P7wuR5hK_0yL63uXkHnnMtv3h9o=/0x0:3840x2160/1200x800/filters:focal(1090x782:1704x1396)/cdn.vox-cdn.com/uploads/chorus_image/image/66726840/JFO_LaunchScreens_Cal_CU_v09.0.png' width='700px' /><br/>
+May 4th is the annual Star Wars-themed holiday, and several sales have already begun to celebrate the franchise. One of the most notable so far is the PC version of Star Wars Jedi: Fallen Order, Respawn's excellent (and surprisingly challenging) third-person adventure. The digital code (redeemable on Origin) costs $30 instead of $60 at Amazon.
+<a href='https://www.theverge.com/good-deals/2020/4/29/21241163/may-4th-star-wars-deals-jedi-fallen-order-the-skywalker-saga-films-4k-sales'> Source <a/>
