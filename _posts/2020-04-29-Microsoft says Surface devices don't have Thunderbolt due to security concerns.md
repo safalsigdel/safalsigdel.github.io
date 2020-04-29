@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xbMuLGAum2bD6mHC_GEFkSqIsWc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66719227/akrales_190930_3689_0253.0.jpg' width='700px' /><br/>
-Microsoft has explained why its range of Surface laptops and tablets don't have Thunderbolt ports or removable RAM: security concerns. That detail was revealed in a Surface engineering webinar leaked on Twitter by WalkingCat, wherein a Microsoft employee lays out all the engineering involved in the company's latest devices.
-<a href='https://www.theverge.com/2020/4/28/21239517/microsoft-surface-laptops-tablets-thunderbolt-support-security-concerns-comment'> Source <a/>
