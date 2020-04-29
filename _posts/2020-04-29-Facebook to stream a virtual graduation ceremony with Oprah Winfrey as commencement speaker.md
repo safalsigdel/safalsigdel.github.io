@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oHB7CB5CIga2drQ8W_yveEcIOdo=/0x0:6000x3999/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66719327/957485788.jpg.0.jpg' width='700px' /><br/>
-Students around the world are going to miss their opportunity to have an in-person graduation ceremony, so Facebook has decided to host its own version.
-<a href='https://www.theverge.com/2020/4/28/21239143/facebook-instagram-graduation-ceremony-oprah-winfrey-live-stream'> Source <a/>
