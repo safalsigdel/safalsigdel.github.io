@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Jy0eoMJjTRB35uAgTWCRxzBZDJE=/0x0:5184x3456/1200x800/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/66725878/Photo_4.0.0.jpg' width='700px' /><br/>
+Houseparty is a video chatting app designed for spontaneous communication — less for setting up meetings than for those moments when you're bored and you want to chat with a friend. That's why it was initially favored by young people. But it's shot up in popularity across all age groups as people stay home in order to practice social distancing.
+<a href='https://www.theverge.com/2020/4/29/21229590/houseparty-how-to-video-chat-call-games-talk-friends-app-ios-android'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mdyC_u84d0jtOTiqH3CXvN_HxGs=/0x0:1475x983/1200x800/filters:focal(620x374:856x610)/cdn.vox-cdn.com/uploads/chorus_image/image/66720630/stadia.0.jpg' width='700px' /><br/>
-Google is bringing PlayerUnknown's Battlegrounds (PUBG) to Stadia today, and it's promising to launch several EA games later this year. PUBG will be free for Stadia Pro members and will include the new Cold Front season pass. Stadia Free members will be able to purchase the base game for $29.99 or bundled with the season pass for $39.99.
-<a href='https://www.theverge.com/2020/4/28/21239809/google-stadia-pubg-launch-ea-games-fifa-star-wars-madden-nfl-release-date'> Source <a/>
