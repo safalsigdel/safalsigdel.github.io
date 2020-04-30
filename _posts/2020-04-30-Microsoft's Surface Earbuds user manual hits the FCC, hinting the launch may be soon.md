@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/niumNeGPflVhfbXmctRYr9cYcZ0=/0x0:2500x1618/1200x800/filters:focal(1050x609:1450x1009)/cdn.vox-cdn.com/uploads/chorus_image/image/66735280/dcseifert_microsoft_surface_earbuds_6.0.jpg' width='700px' /><br/>
+Microsoft delayed its new Surface Earbuds from a 2019 release to spring 2020 in November, and although we're still waiting to hear exactly when they'll finally come out, the user manual for the earbuds has hit the FCC. That indicates the wireless earbuds could be coming out soon.
+<a href='https://www.theverge.com/2020/4/30/21242957/microsoft-surface-earbuds-user-manual-fcc-wireless-headphones'> Source <a/>
