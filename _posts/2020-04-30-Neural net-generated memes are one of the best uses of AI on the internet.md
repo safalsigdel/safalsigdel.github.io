@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-I've spent a good chunk of my workday so far creating memes thanks to this amazing website from Imgflip that automatically generates captions for memes using a neural network. I'm addicted because the site A) takes the pressure off trying to be clever by auto-filling the captions; B) actually, somehow, regularly generates clever captions; and C) sometimes creates captions that make no sense, which are hilarious anyway.
-<a href='https://www.theverge.com/tldr/2020/4/29/21241301/meme-generator-imgflip-neural-network-ai'> Source <a/>
