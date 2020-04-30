@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RMon6FA0MmK_gP_pCB6lka4-Wv0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66729642/acastro_180507_1777_microsoft_0001.0.jpg' width='700px' /><br/>
-Microsoft posted the third quarter of its 2020 financial results today, and all eyes are on the early impact of the ongoing coronavirus pandemic. The company is reporting revenue of $35 billion and net income of $10.8 billion. Revenue is up 15 percent, net income jumped 22 percent, and Microsoft says “COVID-19 had minimal net impact on the total company revenue.”
-<a href='https://www.theverge.com/2020/4/29/21241681/microsoft-q3-2020-earnings-surface-windows-xbox-revenue-profit'> Source <a/>

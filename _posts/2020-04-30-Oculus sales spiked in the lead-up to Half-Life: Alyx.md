@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S-c6ntFa5wIOltkTfdFYkIKR2mM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66733867/akrales_190429_3371_0238.0.jpg' width='700px' /><br/>
+Despite pandemic-related hardware shortages, Facebook's virtual reality business exploded at the start of 2020. The company revealed yesterday that it made $297 million in non-advertising revenue during the first quarter of 2020. That was “driven largely by sales of Oculus products,” rather than other products like Portal.
+<a href='https://www.theverge.com/2020/4/30/21241995/facebook-q1-2020-earnings-oculus-rift-quest-sales-half-life-alyx-pandemic'> Source <a/>
