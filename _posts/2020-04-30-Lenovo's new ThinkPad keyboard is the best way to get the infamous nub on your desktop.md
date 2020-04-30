@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-The ThinkPad mouse nub — i.e., the TrackPoint — is a controversial piece of technology. People tend to either despise the red dot-shaped substitute for a real mouse, or adore it as the single best mouse solution around. For those in the second camp is Lenovo's new $99 ThinkPad TrackPoint Keyboard II, an updated version of its old wireless keyboard that lets you use that good TrackPoint nub UI with your desktop computer.
-<a href='https://www.theverge.com/circuitbreaker/2020/4/29/21241751/lenovo-thinkpad-mouse-nub-desktop-trackpoint-bluetooth-keyboard'> Source <a/>
