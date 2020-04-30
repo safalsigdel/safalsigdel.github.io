@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rxrI77Ubp53K5eQgNymPUkhrS5E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66729782/acastro_180522_facebook_0001.5.jpg' width='700px' /><br/>
+Facebook's business is booming, thanks to worldwide shelter-in-place and quarantine orders due to the COVID-19 pandemic that have everyone using social networks and staring at screens far more than average.
+<a href='https://www.theverge.com/2020/4/29/21241845/facebook-q1-2020-earnings-coronavirus-covid-19-daily-users-engagement-up'> Source <a/>

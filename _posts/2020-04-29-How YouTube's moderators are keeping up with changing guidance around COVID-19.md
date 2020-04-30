@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3VAvc-lrj22wqqr9PGHjCbmMYqs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66724822/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
-Oh hey, today is our 500th issue! Thanks to everyone who has been with us from the beginning, and each of you who has joined along the way. We can't imagine a better use of our time during this weird era than bringing you news and analysis of the day's big moments in tech, democracy, and the pandemic.
-<a href='https://www.theverge.com/interface/2020/4/29/21239928/youtube-fact-check-neal-mohan-interview-misinformation-covid-19'> Source <a/>

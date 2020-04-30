@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0jKPZCxUM09MHKPh1GKntNoDvwc=/0x0:2502x1668/1200x800/filters:focal(1051x634:1451x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/66730252/microsoftteamsstock.0.0.jpg' width='700px' /><br/>
+Microsoft said last month that Teams usage had grown to 44 million daily active users during the coronavirus pandemic, and it's now jumped another 70 percent. During an investor call today, Microsoft CEO Satya Nadella revealed that Teams usage has increased to more than 75 million daily active users.
+<a href='https://www.theverge.com/2020/4/29/21241972/microsoft-teams-75-million-daily-active-users-stats'> Source <a/>

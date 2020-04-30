@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xrsCc7FNoFwrE37k_vpj71BbokA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66729664/sokane_181116_3101_fremont_0062.0.jpg' width='700px' /><br/>
+Tesla turned a surprise profit in the first quarter of 2020 of $16 million, despite factory shutdowns in China and the US, the company announced on Wednesday. It said it may still hit its goal of delivering 500,000 vehicles worldwide this year even in the face of the pandemic. It's the first time in Tesla's history that the company has turned in three consecutive profitable quarters.
+<a href='https://www.theverge.com/2020/4/29/21241728/tesla-q1-earnings-financial-results-elon-musk-coronavirus-profit'> Source <a/>

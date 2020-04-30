@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lNFGd-47mA-8F_dUA_7CUKBTG7c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66724786/acastro_190503_1777_samsung_0004.0.0.jpg' width='700px' /><br/>
-Samsung and LG just reported their first quarter results for the three-month period ending in March, with earnings largely unaffected by the COVID-19 pandemic. However, both companies warn that the impact will be felt over the current quarter ending in June. Namely, Samsung and LG expect customers to cut back significantly on TV and smartphone purchases.
-<a href='https://www.theverge.com/2020/4/29/21240925/samsung-lg-earnings-q2-2020-coronavirus-earnings-down-tv-smartphones-memory-chips'> Source <a/>

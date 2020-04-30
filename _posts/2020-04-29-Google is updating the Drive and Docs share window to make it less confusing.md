@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/phGKhi4doz8OwqoDX214cWfs6Mk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66722116/acastro_190318_1777_google_drive_0001.0.jpg' width='700px' /><br/>
-Google on Tuesday announced a planned update to the permissions window for its Docs, Drive, and Sheets apps that is designed to make sharing files less confusing. Now, when you click the share button, the box that pops up has a clear distinction between who the file is being shared with through a searchable directory of your contacts or co-workers and the permissions the link has.
-<a href='https://www.theverge.com/2020/4/28/21240158/google-docs-share-interface-design-update-sheets-drive-g-suite'> Source <a/>

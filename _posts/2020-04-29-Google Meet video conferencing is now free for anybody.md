@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S12OsZOXj-4uWsUVzefqldDefzA=/0x0:2000x1250/1200x800/filters:focal(840x465:1160x785)/cdn.vox-cdn.com/uploads/chorus_image/image/66724828/Google_Meet_1.max_2000x2000.0.png' width='700px' /><br/>
-Google is opening up its Google Meet videoconferencing service to anybody who wants to use it, instead of just offering it to enterprise and education customers via G Suite. The company says anybody with a Google account will now be able to create free meetings of up to 100 people that can last any amount of time — though after September 30th it may restrict meeting length to 60 minutes.
-<a href='https://www.theverge.com/2020/4/29/21240509/google-meet-video-conferencing-free-gmail'> Source <a/>

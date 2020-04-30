@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sNQ7YDIul5BJ9G0iVnvOZTqAGc4=/0x0:2040x1360/1200x800/filters:focal(895x603:1221x929)/cdn.vox-cdn.com/uploads/chorus_image/image/66728038/akrales_190913_3666_0063.0.jpg' width='700px' /><br/>
+Apple's latest beta version of iOS 13 comes with a much-needed improvement to lock screen authentication for those who now spend a majority of their time at work or outside wearing a face mask.
+<a href='https://www.theverge.com/2020/4/29/21241497/apple-ios-13-beta-faceid-face-mask-unlock-passcode-facetime-group-calls'> Source <a/>

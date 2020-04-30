@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UkOpUm5CSvtHAwE5le_CRbNmMqI=/0x0:4800x2895/1200x800/filters:focal(2105x483:2873x1251)/cdn.vox-cdn.com/uploads/chorus_image/image/66730995/1183851342.jpg.5.jpg' width='700px' /><br/>
+Elon Musk called the shelter-in-place orders in the San Francisco Bay Area and throughout the US “fascist” actions that are stripping people of their freedom on a Tesla earnings call on Wednesday. Musk's comments come after a torrent of criticism for remarks he made late Tuesday night on Twitter, in which the billionaire CEO echoed President Trump by writing in all caps, “Free America Now.”
+<a href='https://www.theverge.com/2020/4/29/21242102/elon-musk-coronavirus-fascist-shelter-in-place-tesla-covid-19-safety-science'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ae-hxMf1CnYwsN9mDIbi7L4Qre8=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/66722659/oitnb_ps3_013_h.0.0.jpg' width='700px' /><br/>
-Netflix has announced that the creative team behind Orange Is The New Black has created a new series centered around social distancing.
-<a href='https://www.theverge.com/2020/4/28/21240282/netflix-social-distance-new-series-creators-orange-is-the-new-black'> Source <a/>

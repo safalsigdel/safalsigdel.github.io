@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VC5PuC3knG17YatU2TM95v_S8J4=/0x0:2158x1216/1200x800/filters:focal(907x436:1251x780)/cdn.vox-cdn.com/uploads/chorus_image/image/66722822/Screen_Shot_2020_04_28_at_4.38.37_PM.0.png' width='700px' /><br/>
-Epic Games will occasionally require users to enable two-factor authentication before redeeming free games on its digital storefront between now and May 21st.
-<a href='https://www.theverge.com/2020/4/28/21240382/epic-games-store-2fa-two-factor-authentication-free-date-security'> Source <a/>

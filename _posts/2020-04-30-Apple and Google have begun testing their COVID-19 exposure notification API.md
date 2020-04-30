@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5bxGVJYfTOEgfKjiUrt42uzTqxA=/0x0:1300x850/1200x800/filters:focal(546x321:754x529)/cdn.vox-cdn.com/uploads/chorus_image/image/66727211/apple_google.0.jpg' width='700px' /><br/>
+Apple and Google's joint effort to help public health authorities track the spread of COVID-19 will begin testing today, the companies said. The companies will deliver an initial version of their exposure notification API to a small number of developers working on apps for public health organizations and test it over the next several weeks. The API is expected to be released more broadly in mid-May.
+<a href='https://www.theverge.com/2020/4/29/21241375/apple-google-covid-19-exposure-notification-contact-tracing-api-beta-release'> Source <a/>

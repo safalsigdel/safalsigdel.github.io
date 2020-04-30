@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QcoI3M1dm0-CQZ2HQ-88SjfbZpc=/0x0:4000x2897/1200x800/filters:focal(1680x1129:2320x1769)/cdn.vox-cdn.com/uploads/chorus_image/image/66723582/1202006380.jpg.0.jpg' width='700px' /><br/>
-Hip-hop mogul Jay-Z has become an unlikely source of inspiration within the budding community of artificial intelligence-powered impersonation, known colloquially as deepfakes, and the rap icon's record label has taken notice and issued copyright strikes to shut some of it down.
-<a href='https://www.theverge.com/2020/4/28/21240488/jay-z-deepfakes-roc-nation-youtube-removed-ai-copyright-impersonation'> Source <a/>

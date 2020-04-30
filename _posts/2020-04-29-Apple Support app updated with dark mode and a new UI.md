@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QSpYVTheJ39uQOmBxXgBN4cLMjg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66721868/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-The Apple Support app has been updated to version 4.0 and now has dark mode, an updated user interface, and offers support for Apple services and subscriptions (via 9to5Mac).
-<a href='https://www.theverge.com/2020/4/28/21240092/apple-support-app-dark-mode-new-ui-subscriptions-version-4'> Source <a/>

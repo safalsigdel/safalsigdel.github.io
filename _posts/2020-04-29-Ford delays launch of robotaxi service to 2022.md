@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b9T-FHIV80Uoq8wUfc7eoU6Cjj4=/0x0:5540x3693/1200x800/filters:focal(2327x1404:3213x2290)/cdn.vox-cdn.com/uploads/chorus_image/image/66722712/0075_XT3F1422.0.jpg' width='700px' /><br/>
-Ford is pushing back the launch of its forthcoming robotaxi and autonomous delivery services from 2021 to 2022, the company announced today, due to the economic impact of the novel coronavirus pandemic.
-<a href='https://www.theverge.com/2020/4/28/21240354/ford-robotaxi-delay-commercial-delivery-service-self-driving-2022'> Source <a/>

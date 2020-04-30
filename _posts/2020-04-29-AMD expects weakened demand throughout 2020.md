@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6oOqGWtfbpV8-jnNATMMhDfHPPY=/0x0:5120x2880/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/66723028/Screen_Shot_2020_01_21_at_10.15.41_AM.0.png' width='700px' /><br/>
-AMD expects weakened consumer demand in the second half of 2020 as a result of the ongoing COVID-19 pandemic. During an investor call discussing the company's quarterly earnings, AMD CEO Dr. Lisa Su said that reduced supply chains and a downturn of retail in China were already issues during the first quarter. Despite that, AMD still expects its annual revenue to grow by 25 percent.
-<a href='https://www.theverge.com/2020/4/28/21238431/amd-q1-2020-quarterly-profit-results-demand-ryzen-radeon'> Source <a/>

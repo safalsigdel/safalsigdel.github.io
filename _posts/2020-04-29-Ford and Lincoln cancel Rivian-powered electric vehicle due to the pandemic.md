@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7wbZdSBsWotaXsHm9FTDIWhoe90=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66722186/akrales_190418_3382_0149.0.jpg' width='700px' /><br/>
-Ford and its luxury brand Lincoln have canceled an all-electric SUV that was going to be powered by technology provided by EV startup Rivian, the companies told Automotive News on Tuesday.
-<a href='https://www.theverge.com/2020/4/28/21240212/ford-lincoln-cancel-rivian-suv-ev-coronavirus-pandemic-investment'> Source <a/>
