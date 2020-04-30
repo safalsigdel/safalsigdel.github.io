@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gamamdhyBnAKhgh3jIa_TkrWxek=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66734077/acastro_180525_1777_comcast_0002.0.jpg' width='700px' /><br/>
+With theme parks and movie theaters closed and major sports events canceled, there were few parts of Comcast's business that didn't feel the impact of the novel coronavirus pandemic in the first quarter of 2020. And company executives said on Thursday that they don't expect to see a whole lot of improvement for the second quarter.
+<a href='https://www.theverge.com/2020/4/30/21242508/comcast-loses-cable-subscribers-coronavirus'> Source <a/>
