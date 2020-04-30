@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/os0n6RCiCRb_aNhmp29ETMxdhC4=/0x0:878x658/1200x0/filters:focal(0x0:878x658):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19934967/stupid3.jpg' width='700px' /><br/>
+The Raspberry Pi Foundation has announced a new camera board that should dramatically improve the photographic capabilities available to the popular DIY computer's enthusiasts and hobbyists. It's called the High Quality Camera, and it's built around a 12.3-megapixel backside-illuminated Sony IMX477 sensor with 1.55-micron pixels.
+<a href='https://www.theverge.com/2020/4/30/21242454/raspberry-pi-high-quality-camera-announced-specs-price'> Source <a/>
