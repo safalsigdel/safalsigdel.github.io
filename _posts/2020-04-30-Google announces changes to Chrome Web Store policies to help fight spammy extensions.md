@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-y_x4ucxW7heCSyOaIbqE-A2BZk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66733182/acastro_200207_3900_chrome_0001.0.0.jpg' width='700px' /><br/>
+Google's Chrome Web Store is the biggest catalog of browser extensions around, but as with any successful chunk of the internet, more things on offer to install means more scammers and spammers trying to sneak their trash into the mix or looking to abuse the system for their own gain.
+<a href='https://www.theverge.com/2020/4/30/21242597/google-chrome-web-store-new-spam-policy-extensions'> Source <a/>
