@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Intel has rolled out its 10th Gen chips to almost all of its laptop lineup at this point, and now, it's time for desktops to get a turn. The company has announced its latest Comet Lake-S processors across its Core i9, i7, i5, and i3 lineups. Leading the range is the new Core i9-10900K, which offers 10 cores, 20 threads, a 125W TDP, boosted speeds up to 5.3GHz, and, according to Intel, it's “the world's fastest gaming processor.”
+<a href='https://www.theverge.com/circuitbreaker/2020/4/30/21242512/intel-10th-gen-desktop-lineup-offers-gaming-processor-speed'> Source <a/>
