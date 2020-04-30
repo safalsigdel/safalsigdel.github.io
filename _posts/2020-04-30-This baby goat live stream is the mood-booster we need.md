@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Every once in a while, I hear a cascade of “bleeeeats” from my laptop speakers. For the past several weeks, I've been leaving a live stream of goats running while I work. It's not really something you tune into for 30 seconds and then peace out of: this is a stream you keep on in the background, do some work, and then revisit for a soothing break in your day. And don't worry, the goats will let you know when it's time to tune back in. Bleeeat!
+<a href='https://www.theverge.com/2020/4/30/21241455/baby-goat-youtube-live-stream-animals-farm-indiana'> Source <a/>

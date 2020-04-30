@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4oKwFvvQH03aGMhOUcui-oaUEBA=/0x0:2032x1062/1200x800/filters:focal(854x369:1178x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66729711/Screen_Shot_2020_04_29_at_4.07.56_PM.0.png' width='700px' /><br/>
-Ubisoft has officially announced the next game in its long-running Assassin's Creed series: Assassin's Creed Valhalla, which adds vikings to the world's preeminent historical murder simulator.
-<a href='https://www.theverge.com/2020/4/29/21241823/assassins-creed-valhalla-vikings-norse-teaser-announcement-ubisoft'> Source <a/>
