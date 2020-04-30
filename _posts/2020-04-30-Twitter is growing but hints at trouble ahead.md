@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V9ljavdBzvhGyg_ejcvY8oxGC84=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66732396/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Twitter usage spiked to 166 million daily users in the first quarter of 2020, as more people flocked to the site to keep up with news on the coronavirus pandemic. The usage growth is the largest Twitter has ever reported year-over-year, up from 134 million during this same quarter last year (and up from 152 million daily users at the end of 2019).
+<a href='https://www.theverge.com/2020/4/30/21241974/twitter-q1-2020-earnings-coronavirus-mdau-growth-ad-revenue'> Source <a/>
