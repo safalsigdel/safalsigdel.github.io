@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O_27YMEHOI3kYF04CyGA1m9VFk8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66726763/GMC_HUMMER_EV_Quiet_Revolution_Grille.0.jpg' width='700px' /><br/>
-General Motors is delaying the upcoming reveal of the new all-electric Hummer truck, which was originally scheduled for May 20th because of the COVID-19 pandemic. The automaker isn't yet offering a replacement date for the launch of the new electric vehicle, but it says that the production schedule isn't currently affected. The new Hummer is due out in late 2021.
-<a href='https://www.theverge.com/2020/4/29/21241285/hummer-ev-launch-event-delayed-covid-19-coronavirus-pandemic'> Source <a/>
