@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cXYuOzZ6uU89ivgRsz8FKCOwMP8=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/66736467/stock-reddit-0203.0.0.jpg' width='700px' /><br/>
+Remember how Reddit announced just yesterday that it was introducing built-in subreddit chat rooms? Yeah, never mind on that.
+<a href='https://www.theverge.com/2020/4/30/21243249/reddit-chat-room-feature-start-chatting-subreddit-rollback'> Source <a/>

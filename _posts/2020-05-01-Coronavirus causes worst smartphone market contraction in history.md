@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NpLaREKEeb5Jqi1NIc_qSb1IWww=/0x0:2040x1360/1200x800/filters:focal(593x543:919x869)/cdn.vox-cdn.com/uploads/chorus_image/image/66737726/bfarsace_120612_3970_0005.0.jpg' width='700px' /><br/>
+The coronavirus pandemic has caused the smartphone market to suffer its fastest ever first-quarter year-on-year decline, according to new data from analyst firms. Counterpoint Research and Canalys both put the overall drop in global shipments at 13 percent, though Counterpoint says the drop in China alone was 27 percent while Canalys calculates it at 18 percent.
+<a href='https://www.theverge.com/2020/4/30/21243685/coronavirus-smartphone-market-impact-q1-2020-covid-19'> Source <a/>

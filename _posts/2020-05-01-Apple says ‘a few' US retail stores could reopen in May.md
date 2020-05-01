@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S9xxx0lUAZXQwL_LUH_JjRitKAY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66736949/akrales_190919_3670_0375.0.jpg' width='700px' /><br/>
+Apple expects to start reopening more of its stores in May, after shutting down locations outside of China due to the coronavirus pandemic. Stores in Australia and Austria could reopen in the next two weeks, Apple CEO Tim Cook told Bloomberg. “A few” stores could reopen in the US in the first half of May as well, Cook added, but “not a large number.”
+<a href='https://www.theverge.com/2020/4/30/21243142/apple-store-reopening-coronavirus-pandemic-q2-2020-earnings'> Source <a/>

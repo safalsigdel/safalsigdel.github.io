@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Nb3XTugY3kRs9lUWxU0DucomqEs=/0x0:1320x874/1200x800/filters:focal(555x332:765x542)/cdn.vox-cdn.com/uploads/chorus_image/image/66731174/Apple-lightning-2014-09-23-verge-1020.0.0.jpg' width='700px' /><br/>
-AT&T, T-Mobile, and Verizon have all partnered with iHeartMedia to deliver thousands of phone chargers to hospitals so that COVID-19 patients can charge their phones. The companies will donate nearly 40,000 phone chargers, according to T-Mobile's press release.
-<a href='https://www.theverge.com/2020/4/29/21242130/att-t-mobile-verizon-iheartmedia-phone-chargers-hospitals-covid-19'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uiMnqy14KDGr2GewF-ta7p-hIo8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66736537/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
+Amazon expects to spend $4 billion or more — the predicted operating profit for the company's entire coming quarter — just on COVID-19-related expenses. In a quarterly earnings release today, Amazon CEO Jeff Bezos said the expenses will come from spending on personal protective equipment (PPE), cleaning for facilities, “higher wages for hourly teams,” and expanding its own COVID-19 testing capabilities.
+<a href='https://www.theverge.com/2020/4/30/21243112/amazon-q1-2020-earnings-covid-19-coronavirus-jeff-bezos'> Source <a/>

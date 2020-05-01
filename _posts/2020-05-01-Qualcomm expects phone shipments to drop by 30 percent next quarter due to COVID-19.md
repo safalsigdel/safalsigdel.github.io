@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YuG-giD3vwFtesQQpztvmOzgkUU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66730847/acastro_180529_1777_qualcomm_0002.0.0.jpg' width='700px' /><br/>
-Qualcomm expects smartphone shipments to fall 30 percent in the comings months due to the coronavirus pandemic, the company said today, cutting its previous projections for the next quarter.
-<a href='https://www.theverge.com/2020/4/29/21241911/qualcomm-earnings-q2-phone-shipments-drop-30-percent-covid-19'> Source <a/>

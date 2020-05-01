@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VNyqGDsQfJxK3N85kk0O-qKNAPk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66732091/acastro_200428_1777_coronavirus_0003.0.0.jpg' width='700px' /><br/>
-Programming note: The Interface will be off on Thursday.
-<a href='https://www.theverge.com/interface/2020/4/30/21241344/apple-google-contact-tracing-survey-maryland-washington-post-exposure-notification-surveillance'> Source <a/>

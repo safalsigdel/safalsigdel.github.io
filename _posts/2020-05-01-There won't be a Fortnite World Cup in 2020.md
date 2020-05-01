@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZkQ5vjZO9SP2gHMtVI5vSDtxQgM=/0x0:2943x1962/1200x800/filters:focal(1237x746:1707x1216)/cdn.vox-cdn.com/uploads/chorus_image/image/66735846/1164791737.jpg.0.jpg' width='700px' /><br/>
+The Fortnite World Cup is the latest event to be canceled because of the ongoing COVID-19 pandemic. Today, Epic Games revealed the upcoming roadmap for competitive Fortnite, and unfortunately, that included news that all events will be held online for the foreseeable future. “Due to the limitations of cross-region online competition, there will not be a Fortnite World Cup in 2020,” the developer wrote in a tweet.
+<a href='https://www.theverge.com/2020/4/30/21243190/fortnite-world-cup-2020-canceled'> Source <a/>
