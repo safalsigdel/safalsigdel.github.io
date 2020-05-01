@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nzhs8QWrBjFTBa-QKiSRtOszMRw=/0x0:640x500/1200x800/filters:focal(269x199:371x301)/cdn.vox-cdn.com/uploads/chorus_image/image/66739812/SM_A515_GalaxyA51_Black_Front.0.jpg' width='700px' /><br/>
+AT&T and Comcast's Xfinity Mobile are bringing Samsung's $399 Galaxy A51 to their networks this month. The phone, which is the successor to the incredibly popular Galaxy A50, launched on Verizon and Sprint in April. Although Samsung plans to release a 5G version of the handset in the US later this summer, for now only the LTE-variant is available.
+<a href='https://www.theverge.com/2020/5/1/21243820/samsung-galaxy-a51-comcast-xfinity-mobile-att-6-5-inch-oled-display-quad-rear-cameras-hole-punch'> Source <a/>

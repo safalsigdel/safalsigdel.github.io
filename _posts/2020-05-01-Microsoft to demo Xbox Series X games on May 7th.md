@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V8nzeMnShVperPfdeKq63BdjBrk=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/66734405/xboxseriesxgames.5.jpg' width='700px' /><br/>
-Microsoft is planning to show off some Xbox Series X gameplay next month. The software maker will hold a special Inside Xbox stream on May 7th, with the focus squarely on games for the Xbox Series X. Microsoft's event will include next-gen gameplay from Microsoft's “global developers partners,” but Xbox Game Studios games titles will be showcased at a later date.
-<a href='https://www.theverge.com/2020/4/30/21242869/microsoft-xbox-series-x-games-demo-date'> Source <a/>
