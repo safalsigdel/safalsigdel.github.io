@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1n-NTiUv0FxXiWo-Gl9pS-l0c9E=/0x0:2040x1360/1200x675/filters:focal(831x562:1157x888)/cdn.vox-cdn.com/uploads/chorus_image/image/66732589/bfarsace_120612_3970_0001.0.jpg' width='700px' /><br/>
-After years mainly spent in the midrange phone market, Motorola burst back into the spotlight with the foldable Razr: it was bold, it was exciting, it was expensive, and it ultimately flopped. As interesting as it was, it simply wasn't a very good phone.
-<a href='https://www.theverge.com/2020/4/30/21241919/motorola-edge-plus-review-android-phone-screen-camera-specs-price'> Source <a/>
