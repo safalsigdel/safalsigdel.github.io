@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lP4K7sR3OdYN0ib1lEkYGAMuiaM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66733773/jbareham_181114_3083_0072.0.jpg' width='700px' /><br/>
-Microsoft appears to be getting ready to launch Surface Headphones 2. A new Bluetooth SIG listing, spotted by 91 Mobiles, reveals an updated version of Microsoft's Surface Headphones. The listing says this new model includes 20 hours of battery life (up from 18 hours on the original), Bluetooth 5.0 support, and support for Qualcomm's aptX codec that delivers high-definition audio.
-<a href='https://www.theverge.com/2020/4/30/21242666/microsoft-surface-headphones-2-battery-life-dial-buttons-rumor'> Source <a/>
