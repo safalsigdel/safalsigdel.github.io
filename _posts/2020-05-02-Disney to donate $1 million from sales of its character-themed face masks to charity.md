@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ibU0DiWXoIkCq697ixZzZeM5xzA=/0x0:1800x1800/1200x800/filters:focal(756x756:1044x1044)/cdn.vox-cdn.com/uploads/chorus_image/image/66743785/star_wars_masks.0.jpg' width='700px' /><br/>
+Disney is selling non-medical face masks in the US featuring characters from across its multiverse, including Pixar, Marvel, and Star Wars, the company announced. Disney will donate one million masks to to underserved communities via humanitarian aid organization MedShare, and all profits from the mask sales in the US through September 30th, up to $1 million, also will go to MedShare.
+<a href='https://www.theverge.com/2020/5/2/21245133/disney-sales-yoda-marvel-starwars-avengers-pixar-coronavirus'> Source <a/>

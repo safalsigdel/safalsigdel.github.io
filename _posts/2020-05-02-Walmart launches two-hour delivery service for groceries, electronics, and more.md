@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c_HMZHK0PLiHhMDOhSW1GaXGELo=/0x0:1000x751/1200x800/filters:focal(487x258:647x418)/cdn.vox-cdn.com/uploads/chorus_image/image/66737349/Walmart_Store.1419979890.0.jpg' width='700px' /><br/>
-Walmart is launching a new delivery service, called Express Delivery, that will get purchased items to a customers' home in less than two hours, the company announced on Thursday. The new service could be helpful if you need to get items in a hurry while respecting shelter-in-place orders during the COVID-19 pandemic.
-<a href='https://www.theverge.com/2020/4/30/21243557/walmart-express-delivery-two-hour-groceries-electronics'> Source <a/>

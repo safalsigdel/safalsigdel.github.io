@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/tgTFlQZ4WQjbVLsapLXw6GlAMHw=/0x0:1080x1350/1200x800/filters:focal(480x660:652x832)/cdn.vox-cdn.com/uploads/chorus_image/image/66742768/EW_KjcQU0AE3_FE.0.jpeg' width='700px' /><br/>
-Fortnite's new no-guns “party royale” mode just launched on Wednesday, and the new map will play host to its first live concert tonight at 9PM ET. DJ and producer Diplo will be performing a live Major Lazer set, and actor and performer Jordan Fisher will also be part of the show, according to a tweet by Epic Games.
+Fortnite's new no-guns “party royale” mode just launched on Wednesday, and the new map played host to its first live concert Friday evening. DJ and producer Diplo performed a live Major Lazer set, and actor and performer Jordan Fisher also made appearances before and after the show.
 <a href='https://www.theverge.com/2020/5/1/21244874/fortnite-diplo-concert-jordan-fisher-party-royale'> Source <a/>
