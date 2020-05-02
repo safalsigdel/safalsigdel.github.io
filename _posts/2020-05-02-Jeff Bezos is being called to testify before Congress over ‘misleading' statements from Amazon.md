@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/iktfwqXkFcrn4YK9C0csIMUrVEg=/0x0:4500x2998/1200x800/filters:focal(1890x1139:2610x1859)/cdn.vox-cdn.com/uploads/chorus_image/image/66739755/1177532676.jpg.0.jpg' width='700px' /><br/>
-The House Judiciary Committee called on Amazon CEO Jeff Bezos Friday to testify before the body after Democratic leader accused company officials of allegedly lying before Congress last week.
+The House Judiciary Committee called on Amazon CEO Jeff Bezos Friday to testify before the body after a Democratic leader accused company officials of allegedly lying before Congress last week.
 <a href='https://www.theverge.com/2020/5/1/21244106/amazon-jeff-bezos-house-judiciary-committee-david-cicilline-antitrust-private-label'> Source <a/>

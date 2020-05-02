@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VXO-TZhXUqHyz-UdXRuX33QPn94=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66741247/acastro_180509_1777_steam_0001.0.0.jpg' width='700px' /><br/>
+Steam will no longer support SteamVR on macOS. RIP! It is the end of a very short era. Steam introduced SteamVR for Apple computers way back in the mists of time — 2017's Worldwide Developers Conference. As The Verge wrote then: “Valve has been working with Apple on this since last summer, which shows a high level of technical and business confidence in Apple's VR efforts.”
+<a href='https://www.theverge.com/2020/5/1/21244468/steam-mac-support-end-steamvr-windows-linux'> Source <a/>

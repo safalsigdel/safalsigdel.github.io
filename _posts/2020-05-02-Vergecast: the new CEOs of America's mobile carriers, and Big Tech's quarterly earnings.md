@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dhKXwV5rEU7zVOA_WcBLA4TqAjo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66740453/akrales_191024_3748_0006.0.jpg' width='700px' /><br/>
+It's earnings season and The Verge has been paying close attention to the impact of COVID-19 on the tech world. This week on The Vergecast, co-hosts Nilay, Dieter, and Paul discuss the takeaways from earnings reports by Twitter, Tesla, Facebook, and other big tech companies.
+<a href='https://www.theverge.com/2020/5/1/21244011/twitter-tesla-zoom-users-ceo-att-t-mobile-verizon-earnings-2020-vergecast-podcast-403'> Source <a/>

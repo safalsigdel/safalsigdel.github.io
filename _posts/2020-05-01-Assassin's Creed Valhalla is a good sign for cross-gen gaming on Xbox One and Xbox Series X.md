@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EuVBq149Y-GmpOfdm8LCYwe07ck=/0x0:1352x746/1200x800/filters:focal(568x265:784x481)/cdn.vox-cdn.com/uploads/chorus_image/image/66736531/Screen_Shot_2020_04_30_at_12.39.23_PM.0.png' width='700px' /><br/>
-Assassin's Creed Valhalla — the new viking-based iteration of the popular franchise — will support Microsoft's upcoming Smart Delivery program for cross-generation games between the Xbox Series X and Xbox One, in one of the most encouraging signs of cross-generation gaming yet for the upcoming console.
-<a href='https://www.theverge.com/2020/4/30/21242852/assassins-creed-valhalla-ubisoft-cross-gen-gaming-xbox-one-series-x-smart-delivery'> Source <a/>

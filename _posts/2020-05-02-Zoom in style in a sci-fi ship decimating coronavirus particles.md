@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19137362/mdoying_190403_3360_0005_our_font_5_oneline_LR_tight.0.png' width='700px' /><br/>
+It's been more than a few weeks now that many of us have been forced to use Zoom for communication. In that time, really creative backgrounds for Zoomers have popped up. There are lots of options out there right now, and lots of people are getting in on the game. But yesterday Mike Winkelmann, also known as Beeple, dropped what might be the coolest (at least IMHO) so far.
+<a href='https://www.theverge.com/2020/5/1/21243435/zoom-background-mike-winkelmann-beeples-ci-fi-ship-decimating-coronavirus-particles'> Source <a/>

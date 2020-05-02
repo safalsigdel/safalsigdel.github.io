@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7v_rVT597jYfIAnL1Rqxxw0gLdo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66741449/elon_musk_tesla_3036.0.jpg' width='700px' /><br/>
+The Environmental Protection Agency denied Tesla CEO Elon Musk's claim that the agency made a mistake in its test of the Model S sedan, which resulted in a lower range than Musk thought was deserved.
+<a href='https://www.theverge.com/2020/5/1/21244556/elon-musk-lie-epa-tesla-model-s-range-miles-mistake-door'> Source <a/>

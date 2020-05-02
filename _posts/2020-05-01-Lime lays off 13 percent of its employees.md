@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zP1fkEof6jc6oqNpJFkppzAYfjo=/0x0:2040x1360/1200x800/filters:focal(1053x538:1379x864)/cdn.vox-cdn.com/uploads/chorus_image/image/66730993/akrales_190321_3312_0040.0.jpg' width='700px' /><br/>
-Lime has laid off 13 percent of its workforce due to financial difficulties presented by the COVID-19 pandemic, the scooter startup announced today. The layoff affects about 80 employees across “all teams and all regions around the globe,” CEO Brad Bao said in an email sent to employees.
-<a href='https://www.theverge.com/2020/4/29/21242041/lime-layoff-80-100-employees'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-Samsung's Galaxy Note 10 Plus with 256GB of internal storage is $740 for readers of The Verge. We've teamed up with Daily Steals to bring you this discount, which is nearly $400 off the current sale price through Samsung directly. Just enter the offer code VERGESGLXY within the order summary section at the checkout page to see the price drop. You can choose between three colors at their site: aura glow, aura black, or aura white.
-<a href='https://www.theverge.com/good-deals/2020/4/30/21242756/samsung-galaxy-note-10-plus-256gb-unlocked-new-deal-sale-coupon-android-phone'> Source <a/>

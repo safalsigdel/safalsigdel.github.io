@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uR_8gaAGfyg2czGQvSLKcW17X7I=/0x0:1280x853/1200x800/filters:focal(538x325:742x529)/cdn.vox-cdn.com/uploads/chorus_image/image/66736732/microsoftbuild2020.5.jpg' width='700px' /><br/>
-Microsoft is opening up free registrations for its Build 2020 developer event. It's typically one of Microsoft's biggest events of the year, but the software maker is doing things differently this time around. The ongoing coronavirus pandemic has forced Microsoft to entirely rethink the event, but instead of canceling, it's bringing it online free for anyone to register.
-<a href='https://www.theverge.com/2020/4/30/21243306/microsoft-build-2020-registration-virtual-event-online'> Source <a/>

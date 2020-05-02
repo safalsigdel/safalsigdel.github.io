@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/34QID-wnpyPJIInRp6sVLlXae2Y=/0x0:1020x680/1200x800/filters:focal(357x252:519x414)/cdn.vox-cdn.com/uploads/chorus_image/image/66740061/musk7.0.jpg' width='700px' /><br/>
+Tesla CEO Elon Musk tweeted Friday that Tesla's stock price is “too high imo,” and the stock fell immediately after. Tesla's stock is down more than 10 percent.
+<a href='https://www.theverge.com/2020/5/1/21244136/elon-musk-tesla-stock-price-too-high-fall-tweet'> Source <a/>
