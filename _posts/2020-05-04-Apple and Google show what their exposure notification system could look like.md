@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qOiFp-uK9N1rNESQs5mMnvHnMJo=/0x0:1920x1080/1200x800/filters:focal(369x433:675x739)/cdn.vox-cdn.com/uploads/chorus_image/image/66748603/03_COVID_19_Exposure_Notifications_Sample_Public_Health_Authority_App_Exposure_Notifications_Android.0.png' width='700px' /><br/>
+Today, Apple and Google shared more information on their automatic exposure notification system, including sample interface designs for potential apps and restrictions on how the system will ultimately be used.
+<a href='https://www.theverge.com/2020/5/4/21246512/apple-google-code-sample-ui-ios-android-contact-tracing-exposure-notification'> Source <a/>
