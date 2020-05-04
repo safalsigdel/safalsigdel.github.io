@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LrVnYDUUwq4fxk8RG1JMq0fjxJU=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/66738464/xboxseriesx.0.jpg' width='700px' /><br/>
-Microsoft's Xbox chief, Phil Spencer, says the company's next-gen Xbox Series X console is still on schedule for later this year, but game production is a little more of an unknown. In an interview with CNBC, Spencer notes that there could be “some impact” to Xbox Series X schedules, but that “the teams are doing a very good job with keeping our hardware on track” and “overall we're in line with where we thought we would be.”
-<a href='https://www.theverge.com/2020/5/1/21243860/xbox-series-x-launch-release-date-timing-coronavirus-games-schedule'> Source <a/>

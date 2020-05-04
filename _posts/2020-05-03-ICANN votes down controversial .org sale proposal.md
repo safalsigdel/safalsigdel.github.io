@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t_qpgXjje_RCMVAEtMVqkRxswUo=/0x0:4684x3356/1200x800/filters:focal(1996x327:2744x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/66737836/1206109521.jpg.0.jpg' width='700px' /><br/>
-The organization that oversees internet domain names has rejected a proposal to transfer management of the .org top-level domain from a nonprofit to a private equity group. ICANN said it wouldn't approve the sale of .org operator Public Interest Registry because it would create “unacceptable uncertainty” for the domain, citing concerns about debt and the intentions of the for-profit firm Ethos Capital.
-<a href='https://www.theverge.com/2020/4/30/21241946/icann-dot-org-isoc-ethos-capital-sale-rejected'> Source <a/>
