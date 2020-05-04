@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E3e4WYVXsuvMTU5HPbKV8ahmJkw=/0x0:1558x1039/1200x800/filters:focal(655x396:903x644)/cdn.vox-cdn.com/uploads/chorus_image/image/66740591/automaticpro.0.0.jpg' width='700px' /><br/>
-Automatic has announced that it'll be abruptly shutting down on May 28th because “the COVID-19 pandemic has adversely impacted our business.” As such, the company is discontinuing its Automatic service and recommending that customers remove the connected car adapters from their vehicles and recycle them.
-<a href='https://www.theverge.com/2020/5/1/21244295/automatic-labs-vehicle-tracking-service-covid-19-pandemic-rebate-may-28th'> Source <a/>
