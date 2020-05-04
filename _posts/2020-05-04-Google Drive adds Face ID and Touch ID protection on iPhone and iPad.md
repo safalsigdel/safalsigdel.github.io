@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GkjGDxKfk0VZ-5w2z3ECNLqCuVQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66748393/driveprivacy.0.jpg' width='700px' /><br/>
+Google today rolled out the new Privacy Screen feature for Google Drive on iOS and iPadOS, which allows you to require Face ID or Touch ID authentication whenever anyone tries to open the app on your device. That way, your important work documents or sensitive personal files will be kept away from snooping eyes.
+<a href='https://www.theverge.com/2020/5/4/21246465/google-drive-privacy-screen-face-touch-id-apple-now-available'> Source <a/>
