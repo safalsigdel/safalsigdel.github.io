@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V3AIkbT1ZQGlWeyqMOlrsvu_wTs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66741415/DSCF8146.0.jpg' width='700px' /><br/>
-If you've been working from home for the past few weeks, you've probably had to join more than a few video conference calls. Or perhaps you've been using video chat apps to keep in touch with friends and family while social distancing. Either way, you've probably noticed that the webcam on your laptop is, well, crap. It leads to blurry, pixelated video calls, and unflattering viewing angles.
-<a href='https://www.theverge.com/21244380/webcam-camera-how-to-dslr-mirrorless-capture-card-usb-hdmi'> Source <a/>
