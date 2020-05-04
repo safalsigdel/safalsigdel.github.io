@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9316/vpavic_042029_4003_0162_SQUARE.jpg' width='700px' /><br/>
-If you're looking for an intermediate drone that's easy to fly but still capable of capturing compelling photos and video, DJI's Mavic Air has long been the go-to model. It's small, light, and has enough technology on board to make both flying and shooting with it a joy. It also costs less than a thousand dollars.
-<a href='https://www.theverge.com/21243887/dji-mavic-air-2-2020-drone-flight-photography-video-review-price-specs-features'> Source <a/>

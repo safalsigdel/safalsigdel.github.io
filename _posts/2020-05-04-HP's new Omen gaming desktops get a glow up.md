@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5nIN30tpDx64vluaHzF9q-YNoMo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66747243/omenhero.0.jpg' width='700px' /><br/>
+HP has debuted a fresh lineup of Omen desktops, the 25L and 30L, with improved specs and a clean new design that ditches the edgy gamer aesthetic for something a little more refined. Compared to HP's older Omen desktop designs — particularly, one we'll refer to as the Death Cube — the new design is far less divisive and a lot more elegant.
+<a href='https://www.theverge.com/2020/5/4/21242885/hp-omen-25l-30l-gaming-desktop-pc-games-intel-amd-nvidia-2020'> Source <a/>
