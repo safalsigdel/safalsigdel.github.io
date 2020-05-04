@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/K58bgAFnnT0BuoCVG-U99bs8wRQ=/0x0:1612x788/1200x800/filters:focal(678x266:934x522)/cdn.vox-cdn.com/uploads/chorus_image/image/66748774/Screen_Shot_2018_12_17_at_12.42.20_PM.0.png' width='700px' /><br/>
-Felix Kjellberg, the YouTuber better known as PewDiePie, has signed an exclusive livestreaming deal with YouTube. The move comes almost exactly one year after Kjellberg announced that he was streaming exclusively on DLive, a small blockchain-based livestreaming site.
+Felix Kjellberg, the YouTuber better known as PewDiePie, has signed an exclusive live-streaming deal with YouTube. The move comes almost exactly one year after Kjellberg announced that he was streaming exclusively on DLive, a small blockchain-based live-streaming site.
 <a href='https://www.theverge.com/2020/5/4/21246658/pewdiepie-youtube-deal-exclusive-streaming-dlive'> Source <a/>
