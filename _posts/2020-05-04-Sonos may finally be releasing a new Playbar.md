@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1NccTbodQchraOldh_Ee7tuijU4=/0x0:1200x535/1200x800/filters:focal(504x172:696x364)/cdn.vox-cdn.com/uploads/chorus_image/image/66743943/new_sonos_playbar.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/GuRw5TU79o-NwsrMwiV_ro7Es04=/0x0:1600x1100/1200x800/filters:focal(475x382:731x638)/cdn.vox-cdn.com/uploads/chorus_image/image/66743943/new_sonos_playbar.5.jpg' width='700px' /><br/>
 The Sonos Playbar may finally, at long last, be getting an upgrade, according to an image discovered by Dave Zatz over at Zatz Not Funny. The renders don't show a power outlet or HDMI ports, which Zatz speculates may mean ports and any buttons are either recessed within the ledge or elsewhere along the sound bar (although it may also mean the renders are just not fully illustrated). Zatz's images show both black and white versions.
 <a href='https://www.theverge.com/2020/5/2/21245203/sonos-upgrade-playbar-new'> Source <a/>
