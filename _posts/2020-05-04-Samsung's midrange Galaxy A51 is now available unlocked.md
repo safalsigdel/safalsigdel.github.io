@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FumD6T-Ze7FWSBNiACIKbQDzSIc=/0x0:640x500/1200x800/filters:focal(269x199:371x301)/cdn.vox-cdn.com/uploads/chorus_image/image/66747441/SM_A515_GalaxyA51_Black_Front.0.jpg' width='700px' /><br/>
+Samsung's Galaxy A51 is now available as an unlocked device in the US following its release via Verizon, Sprint, AT&T, and Xfinity Mobile. The unlocked 4G handset can be bought from Amazon or Samsung.com, where its price is listed as $399.99. If you've been waiting for a version of the phone without all the bloatware that tends to come with carrier devices, then this is the one to get.
+<a href='https://www.theverge.com/2020/5/4/21246194/samsung-galaxy-a51-unlocked-usa-price-specs-features-free-buds-amazon'> Source <a/>

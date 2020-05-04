@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bYaeT2Ta8_i2reZovO5wl5yRwDE=/0x0:1896x1264/1200x800/filters:focal(797x481:1099x783)/cdn.vox-cdn.com/uploads/chorus_image/image/66747688/2020mbp13.0.jpg' width='700px' /><br/>
+Apple announced a new version of its popular 13-inch MacBook Pro, replacing the much-maligned butterfly switch keyboard with its new “Magic Keyboard” that's used on the 16-inch MacBook Pro and the new MacBook Air. With today's release, all of Apple's current lineup of laptops have the improved keyboard.
+<a href='https://www.theverge.com/2020/5/4/21244349/apple-new-13-inch-macbook-pro-vs-air-dell-xps-surface-2020-comparison'> Source <a/>

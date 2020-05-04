@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J4NqbO35JcHo_NDCEL2CEcQ-AV8=/0x0:2000x1250/1200x800/filters:focal(840x465:1160x785)/cdn.vox-cdn.com/uploads/chorus_image/image/66739733/Google_Meet_1.max_2000x2000.0.png' width='700px' /><br/>
-Consumer Reports has analyzed the privacy policies of Google Meet, Microsoft Teams, and WebEx and discovered that they may be collecting more data than many people realize.
-<a href='https://www.theverge.com/2020/5/1/21244058/google-meet-microsoft-teams-webex-personal-data-collection-privacy-policy-concerns'> Source <a/>

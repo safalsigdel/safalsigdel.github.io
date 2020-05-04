@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dGGXPaQXsaKvMi2tViHsoyQxIrA=/0x0:5456x3638/1200x800/filters:focal(1612x1534:2484x2406)/cdn.vox-cdn.com/uploads/chorus_image/image/66747904/1185673388.jpg.0.jpg' width='700px' /><br/>
+Eric Schmidt, who was Google's CEO between 2001 and 2011 and served on its board until last year, has reinvented himself as a technology adviser and investor in the US defense community. The New York Times has published a new profile on Schmidt's work since leaving the company where he made his name, and it's well worth a read if you're curious about how the ex-CEO now spends his time.
+<a href='https://www.theverge.com/2020/5/4/21246304/google-eric-schmidt-military-technology-ai-drone-analysis-ceo'> Source <a/>

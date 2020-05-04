@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eKBxlrnl9s33T4DnL2ioX9PnnQ0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66747749/akrales_170802_1743_0094.0.jpg' width='700px' /><br/>
+SoundCloud is joining Twitch. The popular music streaming service is set to launch a slate of original live programming on Wednesday, May 6th, that includes shows about the industry populated by insiders, execs, and influencers. SoundCloud is the latest music service to join Twitch since concerts and tours across the globe have been canceled due to the pandemic.
+<a href='https://www.theverge.com/2020/5/4/21246321/soundcloud-twitch-weekly-shows-date-studio-sessions-new-music'> Source <a/>

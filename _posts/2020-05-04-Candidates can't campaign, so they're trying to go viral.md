@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2wwolUx8NF3Q1kXNj7VyaUdS678=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66747573/acastro_200503_4006_politicalInfluencers_0001.0.jpg' width='700px' /><br/>
+On Wednesday, the field director for Mel Gagarin's congressional campaign sat shirtless — illuminated by candlelight — in his bathtub reading a scary story over Instagram Live.
+<a href='https://www.theverge.com/2020/5/4/21244667/election-candidates-zoom-campaign-social-media-politicians-rally'> Source <a/>

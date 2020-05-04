@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-Best Buy is hosting the best deal we've seen on the Apple Watch Series 5, and the savings extend across the entire lineup. The 40mm GPS version is the most affordable Series 5 watch at $299, which is $100 off its original price. Notably, that's $50 cheaper than the last time we covered a price drop on this model. Best Buy currently has a few color options in stock, though it may sell out as the day carries on. In addition to standard colorways, it is selling Nike-styled watches for the same price.
-<a href='https://www.theverge.com/good-deals/2020/5/1/21243975/apple-watch-series-5-deal-smartwatch-gps-40mm-44mm-sale-best-buy'> Source <a/>
