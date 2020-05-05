@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IJFMj5cIfxb5Zkd0IP6COWer5Yg=/0x0:1024x681/1200x800/filters:focal(431x260:593x422)/cdn.vox-cdn.com/uploads/chorus_image/image/66754009/1325679740_14399d8c18_b.1419979217.0.jpg' width='700px' /><br/>
+If you've already streamed your favorite series for the third time, and you've hit a wall with your latest game, what should you do while you're sheltering at home? Well, maybe pick up a new skill or hobby by taking a class.
+<a href='https://www.theverge.com/21227892/online-classes-free-college-skill-coursera-udemy-edx-harvard-skillshare'> Source <a/>
