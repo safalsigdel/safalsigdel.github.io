@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Microsoft is revealing the Xbox Series X boot screen animation today and is promising to focus on first-party Xbox Game Studios games during a July event. In a teaser video for Thursday, May 7th's, Xbox Series X gameplay event, Microsoft subtly reveals the Series X boot animation and sound with a “boot up a new episode of Inside Xbox this Thursday” caption.
+<a href='https://www.theverge.com/2020/5/5/21247812/microsoft-xbox-series-x-boot-screen-halo-infinite-gameplay-events'> Source <a/>
