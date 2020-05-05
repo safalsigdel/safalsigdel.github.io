@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/99UnPi00dTuVkuwns53DzWxy2mM=/0x0:800x534/1200x800/filters:focal(336x203:464x331)/cdn.vox-cdn.com/uploads/chorus_image/image/66752690/EXPuWPiXYAAgJuT.0.jpg' width='700px' /><br/>
+Images of what appear to be a new Sonos speaker and subwoofer have leaked online, showcasing a familiar look for the two revamped devices. Leaker Roland Quandit posted the images on Twitter, referring to the products as the Sonos Five (2020) and Sonos Sub (3rd Gen).
+<a href='https://www.theverge.com/2020/5/5/21247719/sonos-five-2020-sub-3rd-gen-leaked-images-speaker'> Source <a/>
