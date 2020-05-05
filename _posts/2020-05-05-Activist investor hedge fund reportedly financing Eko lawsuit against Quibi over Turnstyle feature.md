@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CaNYuVXYmEYTRWMF2AqwtKayRkw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66746184/acastro_200306_1777_Quibi_0003.0.0.jpg' width='700px' /><br/>
-Hedge fund Elliott Management Corp. is financing Eko's patent lawsuit against streaming service Quibi, The Wall Street Journal reports. Eko's suit claims that Quibi stole trade secrets and that its “Turnstyle” feature violates Eko's patents. Turnstyle allows Quibi videos to play differently depending on the orientation —vertical or horizontal— of the viewer's phone, switching in real time.
-<a href='https://www.theverge.com/2020/5/3/21245864/activist-hedge-fund-eko-lawsuit-quibi-turnstyle-elliott'> Source <a/>

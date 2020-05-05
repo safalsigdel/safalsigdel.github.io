@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7h8aW7A57Fcl84cb4UzejbHPpKk=/0x0:2057x1080/1200x800/filters:focal(865x376:1193x704)/cdn.vox-cdn.com/uploads/chorus_image/image/66749744/Intel_Moovit_App_1.0.jpg' width='700px' /><br/>
+Intel moved deeper into the world of smart mobility and autonomous driving by announcing Monday its plan to acquire Israel-based urban transit data startup Moovit for $900 million.
+<a href='https://www.theverge.com/2020/5/4/21246672/intel-moovit-acquisition-self-driving-mobility-robotaxi'> Source <a/>

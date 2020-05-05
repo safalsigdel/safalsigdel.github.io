@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-As The Verge's weekend editor, I endeavor to find a good mix of stories for our Saturday and Sunday site visitors, balancing news about tech and policy with the latest about the coronavirus and its impact, along with other news of the day. Some days the news is upbeat and interesting and then other days the writers of the script for 2020: The Horror Show throw in a murder hornet plot twist because a pandemic is apparently not terrifying enough without two-inch hornets that rip the heads off of honeybees.
-<a href='https://www.theverge.com/2020/5/3/21245617/tldr-murder-hornet-2020'> Source <a/>

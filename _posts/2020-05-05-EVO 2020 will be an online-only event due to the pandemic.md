@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XWahIw1wS96Z6_598ti6koEG5IQ=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/66741794/EBLrHwDUIAEXVoe.0.jpeg' width='700px' /><br/>
-The annual Evolution Championship Series (EVO) fighting game tournament will be held as an online event this summer due to the COVID-19 pandemic, the event's organizers announced today. EVO had been scheduled to take place from July 31st to August 2nd at Mandalay Bay in Las Vegas. All tickets and hotel reservations will be refunded automatically.
-<a href='https://www.theverge.com/2020/5/1/21244580/evo-2020-fighting-game-tournament-online-only-covid-19-coronavirus-pandemic'> Source <a/>

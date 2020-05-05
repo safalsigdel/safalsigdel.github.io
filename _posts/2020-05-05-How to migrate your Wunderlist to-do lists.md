@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q8Gt7CcOpDIE5NLtHmVXHx_oxUs=/0x0:1980x1320/1200x800/filters:focal(832x502:1148x818)/cdn.vox-cdn.com/uploads/chorus_image/image/66751016/wunderlisttodo.0.jpg' width='700px' /><br/>
+Wunderlist, the task and to-do management app that Microsoft acquired more than four years ago, is shutting down on May 6th. The company is no longer accepting signups, and as of Wednesday, May 6th, your Wunderlist tasks will no longer sync across devices.
+<a href='https://www.theverge.com/21246838/wunderlist-migrate-import-export-data-tasks-todoist-ticktick-microsoft-to-do-app'> Source <a/>

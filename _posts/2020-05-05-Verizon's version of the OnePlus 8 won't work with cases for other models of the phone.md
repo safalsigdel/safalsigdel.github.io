@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Verizon has its own exclusive version of the OnePlus 8, the “OnePlus 8 5G UW,” designed specifically for its network with additional mmWave radio features to support Verizon's 5G network (which only operates in the mmWave band). But as discovered by Reddit user /u/bud-dho, the changes to the phone to fit the additional radio technology mean that the Verizon version has its volume buttons moved lower than the unlocked and T-Mobile models, so standard OnePlus 8 cases won't fit (via 9to5Google).
+<a href='https://www.theverge.com/circuitbreaker/2020/5/4/21247013/verizon-oneplus-8-5g-uw-cases-exclusive-mmwave-antenna-volume-buttons'> Source <a/>

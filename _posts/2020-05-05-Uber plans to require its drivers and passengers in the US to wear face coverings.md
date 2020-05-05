@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R_y1vr-QwR1uYN7Di-KzeY0DUco=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66745594/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
-Uber is planning to implement a new policy in the coming weeks requiring drivers and riders in the US and certain other countries to wear face masks or coverings, a company spokesperson confirmed on Sunday. As first reported by CNN Business, the ride-hailing company also is developing technology to detect whether its drivers are wearing face coverings before they begin accepting passenger trips.
-<a href='https://www.theverge.com/2020/5/3/21245712/uber-face-coverings-coronavirus'> Source <a/>

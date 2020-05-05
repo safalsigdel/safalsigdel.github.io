@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1bRN2H81cZYtbHG_7tbnknBjSZ0=/0x0:1702x1010/1200x800/filters:focal(715x369:987x641)/cdn.vox-cdn.com/uploads/chorus_image/image/66749978/keys_trackpad_hw__cxk879lntgmu_medium_2x.0.png' width='700px' /><br/>
+With today's announcement of a new 13-inch MacBook Pro, Apple has finally stopped trying to fix one of the most controversial and problematic hardware designs in its history: the butterfly switch mechanism on its laptop keyboards. After five years of applying bandages to the butterfly keyboard, Apple has switched over its entire laptop line to the scissor-switch-based Magic Keyboard in the span of six months.
+<a href='https://www.theverge.com/2020/5/4/21246223/macbook-keyboard-butterfly-magic-pro-apple-design'> Source <a/>
