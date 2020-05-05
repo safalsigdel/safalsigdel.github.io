@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_Ytk6kDiESA4F6y_p_tLDEpENPI=/0x0:4210x2807/1200x800/filters:focal(1769x1068:2441x1740)/cdn.vox-cdn.com/uploads/chorus_image/image/66748119/1215216501.jpg.0.jpg' width='700px' /><br/>
-Carnival has announced that it will resume some of its cruises on August 1st. Trips will resume on eight ships leaving from Miami and Port Canaveral, Florida, and Galveston, Texas, according to Reuters.
-<a href='https://www.theverge.com/2020/5/4/21246378/carnival-cruises-resume-date-trips-city-ports-cancellation-offers'> Source <a/>
