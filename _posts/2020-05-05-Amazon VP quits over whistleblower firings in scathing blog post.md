@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fl3I4neS7qjAQXMyPNYFTZ3kmmE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66747862/acastro_200319_1777_amazonCorona_0001.0.jpg' width='700px' /><br/>
-Tim Bray, a senior engineer and vice president at Amazon Web Services, has quit his job because he was “dismayed” that the company fired whistleblowers who were trying to draw attention to the dire straits of Amazon warehouse workers, he wrote in a blog post.
-<a href='https://www.theverge.com/2020/5/4/21246284/amazon-vp-resign-whistleblower-firings-warehouse-workers'> Source <a/>
