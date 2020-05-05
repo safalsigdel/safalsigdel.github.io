@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rlYW_TOuPrxvRYQ0Ne8ba-p06wc=/0x0:3000x1988/1200x800/filters:focal(1260x754:1740x1234)/cdn.vox-cdn.com/uploads/chorus_image/image/66752532/89775835.jpg.0.jpg' width='700px' /><br/>
+Billy Mitchell, who rose to fame hunting high-scores in classic video games, is suing internet game scoreboard Twin Galaxies over its decision to strip him of his records and ban him from its leaderboards, according to court documents seen by Ars Technica. Mitchell is arguing that Twin Galaxies' statement was libelous, and implied that he was a cheater. A court hearing is currently scheduled for July 6th.
+<a href='https://www.theverge.com/2020/5/5/21247687/billy-mitchell-donkey-kong-twin-galaxies-world-record-sued-defamation-court'> Source <a/>

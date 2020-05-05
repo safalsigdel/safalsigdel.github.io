@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SHrfdS2wJJgKzcelOpNkEXgzCLE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66747235/27ihero.0.jpg' width='700px' /><br/>
-There isn't much about the new HP Omen 27i that I haven't seen before in a gaming monitor, but it's packed full of specs that HP hasn't offered until now. The 27-inch QHD (2560 x 1440) nano IPS display offers far better color accuracy and contrast than the TN panels used in many of HP's previous gaming monitors.
-<a href='https://www.theverge.com/2020/5/4/21242888/hp-omen-27i-gaming-monitor-nano-ips-g-sync'> Source <a/>
