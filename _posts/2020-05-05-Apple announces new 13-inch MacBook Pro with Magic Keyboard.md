@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/33Yk5arxTZktPgFDAvHRg4xEB8E=/0x0:1982x1320/1200x800/filters:focal(833x502:1149x818)/cdn.vox-cdn.com/uploads/chorus_image/image/66747372/macbookpro.5.jpg' width='700px' /><br/>
-Sooner than expected, Apple has announced a new 13-inch MacBook Pro with a Magic Keyboard. It features optional Intel 10th Gen processors and starts at $1,299. In one sense, it is a minor spec-bump upgrade for the existing lineup of 13-inch MacBook Pros. But it also represents the end of an era: Apple no longer sells any new laptops with the much-maligned butterfly keyboard mechanism.
-<a href='https://www.theverge.com/2020/5/4/21245940/macbook-pro-13-inch-apple-new-magic-keyboard-price-release-date'> Source <a/>
