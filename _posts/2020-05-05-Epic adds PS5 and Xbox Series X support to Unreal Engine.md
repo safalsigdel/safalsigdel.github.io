@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dGKA604_kY-S4hBFSviWVmoOYCs=/0x0:800x400/1200x800/filters:focal(336x136:464x264)/cdn.vox-cdn.com/uploads/chorus_image/image/66753795/4.25_next_gen.0.jpg' width='700px' /><br/>
+Epic Games' Unreal Engine game development platform now supports Microsoft's Xbox Series X and Sony's PlayStation 5, Epic announced today. The support comes as part of the newest Unreal Engine release, version 4.25, and it should benefit developers as they prepare to launch games for the next generation of consoles, both of which are scheduled to come out this holiday season.
+<a href='https://www.theverge.com/2020/5/5/21247249/epic-ps5-xbox-series-x-unreal-engine-support-release-developer'> Source <a/>
