@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r6K6WOUrgA-yDepoBXNWMVXsheQ=/0x0:1216x776/1200x800/filters:focal(767x416:961x610)/cdn.vox-cdn.com/uploads/chorus_image/image/66748746/google_meet_poup.0.jpg' width='700px' /><br/>
-Google has wasted no time integrating its Meet videoconferencing into Gmail, with some users already seeing a link to launch Meet in the left sidebar of the Gmail interface. Formerly available only to its enterprise and education customers via G Suite, the company said last week that it was making Meet free to anyone with a Google account and allow meetings of up to 100 people with no time limits.
-<a href='https://www.theverge.com/2020/5/4/21246277/google-meet-gmail-zoom-hangouts'> Source <a/>
