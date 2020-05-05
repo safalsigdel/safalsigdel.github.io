@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uJ7l3TeeaiK5HbqyXkNibQTYDE8=/0x0:2040x1415/1200x675/filters:focal(755x819:1081x1145)/cdn.vox-cdn.com/uploads/chorus_image/image/66752985/soundbar.0.jpg' width='700px' /><br/>
+William Wang, the CEO of Vizio, doesn't give a lot of interviews. Earlier this month, he gave one to me. But he didn't want to discuss the affordable, high-value smart TVs for which his company is best known. He wanted to discuss soundbars. That's because Vizio is trying, harder than ever, to convince its customers to care about audio.
+<a href='https://www.theverge.com/2020/5/5/21233344/vizio-elevate-interview-william-wang-ceo-soundbar-audio'> Source <a/>
