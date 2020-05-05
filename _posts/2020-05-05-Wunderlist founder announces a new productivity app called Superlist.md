@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nmWHVP-L-xDtMugIUMkTZYkKhtw=/0x0:1100x717/1200x800/filters:focal(462x271:638x447)/cdn.vox-cdn.com/uploads/chorus_image/image/66754490/wunderlist-chrome.1419979730.0.jpg' width='700px' /><br/>
+Christian Reber, founder of the beloved productivity application Wunderlist, announced today that he's got a new company called Superlist in the works. Its goal, as stated by its very pretty landing page, is to enable “supercharged productivity for teams of the future.”
+<a href='https://www.theverge.com/2020/5/5/21248121/wunderlist-microsoft-to-do-office365-superlist'> Source <a/>
