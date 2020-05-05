@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PmHSJ-8rP-R5SA9vQzDccGGWGZ0=/0x0:1858x1025/1200x800/filters:focal(781x365:1077x661)/cdn.vox-cdn.com/uploads/chorus_image/image/66748218/ar_cut_and_paste.0.jpg' width='700px' /><br/>
-Apart from burning through VC money and educating the public on how frighteningly large emperor penguins are, what is augmented reality actually good for? Here's one answer: real-life copy and paste.
-<a href='https://www.theverge.com/2020/5/4/21246386/augmented-reality-ar-copy-cut-paste-real-world-photoshop-demo'> Source <a/>
