@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LfUR5WDElXBKBMqjq23NZ7-hUTM=/0x0:990x684/1200x800/filters:focal(491x276:649x434)/cdn.vox-cdn.com/uploads/chorus_image/image/66758226/Surface_Headphones_2___Context_2.0.jpg' width='700px' /><br/>
+Microsoft's second-generation Surface Headphones were announced today alongside the new Surface Book 3 and Surface Go — and these come in black. Like the original model, the $249 Surface Headphones 2 feature active noise cancellation, and you can adjust the level of ANC up or down to your liking using the dial on the ear cup.
+<a href='https://www.theverge.com/2020/5/6/21248364/surface-headphones-2-price-specs-release-date-battery'> Source <a/>

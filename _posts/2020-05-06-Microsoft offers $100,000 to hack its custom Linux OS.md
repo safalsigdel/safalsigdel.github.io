@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K7n5voiQF9gvUW7cu9tE2Yfy6e4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66758018/acastro_180507_1777_microsoft_0002.0.jpg' width='700px' /><br/>
+Microsoft is offering hackers up to $100,000 if they can break the security of the company's custom Linux OS. The software giant built a compact and custom version of Linux last year for its Azure Sphere OS, which is designed to run on specialized chips for its Internet of Things (IoT) platform. The OS is purpose-built for this platform, ensuring basic services and apps run isolated in a sandbox for security purposes.
+<a href='https://www.theverge.com/2020/5/6/21249038/microsoft-azure-sphere-bug-bounty-security-hacking'> Source <a/>
