@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/yPK-YBn6Nm4qjFbNIjPfCqObDwI=/0x0:1100x825/1200x800/filters:focal(462x325:638x501)/cdn.vox-cdn.com/uploads/chorus_image/image/66755612/408082main_fd10_full.0.jpg' width='700px' /><br/>
 NASA is working with Tom Cruise to film the first movie shot in space, according to NASA administrator Jim Bridenstine. The details of the project aren't clear, but Bridenstine says the film will take place aboard the International Space Station.
-<a href='https://www.theverge.com/2020/5/5/21248460/nasa-tom-cruise-movie-international-space-station'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/yPK-YBn6Nm4qjFbNIjPfCqObDwI=/0x0:1100x825/1200x800/filters:focal(462x325:638x501)/cdn.vox-cdn.com/uploads/chorus_image/image/66755612/408082main_fd10_full.0.jpg' width='700px' /><br/>
-NASA is working with Tom Cruise to film the first movie shot in space, according to NASA administrator Jim Bridenstine. The details of the project aren't clear, but Bridenstine says the film will take place aboard the International Space Station.
 <a href='https://www.theverge.com/2020/5/5/21248460/nasa-tom-cruise-movie-international-space-station'> Source <a/>
