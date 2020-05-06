@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zk6ecSLAW9gQ8sLZFPiQDd4TiAY=/0x0:1407x790/1200x800/filters:focal(775x243:999x467)/cdn.vox-cdn.com/uploads/chorus_image/image/66754973/header_image1_xxl.eda76a.0.png' width='700px' /><br/>
-ESPN will air live NBA 2K League matches on ESPN2 on three Tuesdays in May, the sports network announced today. It's the first time that the NBA 2K League, which is operated by the NBA, will have matches aired live on TV in the US, according to ESPN. Some league matches will also be shown on the ESPN app and ESPN.com, depending on the day of the week and when in the season you're watching.
-<a href='https://www.theverge.com/2020/5/5/21248075/espn-espn2-live-nba-2k-league-games-esports-matches'> Source <a/>
