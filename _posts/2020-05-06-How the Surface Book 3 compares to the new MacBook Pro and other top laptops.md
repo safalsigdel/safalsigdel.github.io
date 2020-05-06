@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4f8GXvL-sH63o5vME8tfYLYZg6U=/0x0:1080x720/1200x800/filters:focal(454x274:626x446)/cdn.vox-cdn.com/uploads/chorus_image/image/66758352/Surface_Book_3___Context_3.0.jpg' width='700px' /><br/>
+Microsoft's new Surface Book 3 is here, with an update that keeps the design largely the same as the previous model but overhauls the internal specs up to the top standards of what you'd expect from a 2020 laptop.
+<a href='https://www.theverge.com/21248784/surface-book-3-vs-macbook-pro-13-inch-specs-comparison'> Source <a/>
