@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jLxXve-KUCZd_WOFQ5RJxdTUkcg=/0x0:5919x3946/1200x800/filters:focal(2487x1500:3433x2446)/cdn.vox-cdn.com/uploads/chorus_image/image/66755686/1215765250.jpg.5.jpg' width='700px' /><br/>
-A worker at Amazon's Staten Island, New York, fulfillment center has died of COVID-19, the company confirmed. Workers at the facility, called JFK8, have been calling for greater safety precautions since early March. While Amazon has made changes, the number of workers diagnosed with the virus continues to climb. According to alerts viewed by The Verge, at least 29 workers have fallen ill.
-<a href='https://www.theverge.com/2020/5/5/21248427/amazon-warehouse-worker-coronavirus-death-new-york-covid-19'> Source <a/>
