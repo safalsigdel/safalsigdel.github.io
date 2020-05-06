@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/A4Qs8reXBdM-c_sxaXlLIFVeaSk=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/66758243/dcseifert_microsoft_surface_earbuds_16.0.jpg' width='700px' /><br/>
 Microsoft's delayed Surface Earbuds have an official May 12th release date and a lower $199 price tag, the company announced today.
-<a href='https://www.theverge.com/2020/5/6/21247775/surface-earbuds-price-release-date-features-bluetooth'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/A4Qs8reXBdM-c_sxaXlLIFVeaSk=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/66758243/dcseifert_microsoft_surface_earbuds_16.0.jpg' width='700px' /><br/>
-Microsoft's delayed Surface Earbuds have an official May 12th release date and a lower $199 price tag, the company announced today.
 <a href='https://www.theverge.com/2020/5/6/21247775/surface-earbuds-price-release-date-features-bluetooth'> Source <a/>

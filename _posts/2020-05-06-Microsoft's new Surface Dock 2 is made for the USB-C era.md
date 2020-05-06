@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/xN5uaXuEGtXnt7SwFjjJBdNpLss=/0x0:4952x3301/1200x800/filters:focal(2080x1255:2872x2047)/cdn.vox-cdn.com/uploads/chorus_image/image/66758279/surfacedock2hero.0.jpg' width='700px' /><br/>
 Along with the slew of other Surface-related announcements Microsoft made today — including the Surface Book 3, Surface Go 2, and more — the company is also introducing a new Surface Dock 2 docking station and a standalone USB-C travel hub.
-<a href='https://www.theverge.com/2020/5/6/21247234/microsoft-surface-dock-2-usb-c-hub-keyboard-mouse-price'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/xN5uaXuEGtXnt7SwFjjJBdNpLss=/0x0:4952x3301/1200x800/filters:focal(2080x1255:2872x2047)/cdn.vox-cdn.com/uploads/chorus_image/image/66758279/surfacedock2hero.0.jpg' width='700px' /><br/>
-Along with the slew of other Surface-related announcements Microsoft made today — including the Surface Book 3, Surface Go 2, and more — the company is also introducing a new Surface Dock 2 docking station and a standalone USB-C travel hub.
 <a href='https://www.theverge.com/2020/5/6/21247234/microsoft-surface-dock-2-usb-c-hub-keyboard-mouse-price'> Source <a/>
