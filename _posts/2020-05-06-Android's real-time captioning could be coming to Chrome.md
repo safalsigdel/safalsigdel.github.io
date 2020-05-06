@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qDR7ersZCXeeKokhmi4phKclRYs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66759610/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
+Android's real-time captioning feature, Live Caption, could be coming to Google's Chrome browser on computers and to Chrome OS, as spotted by TechDows (via 9to5Google). In the latest Canary release of Chrome, there's a way to access a new “Live Caption” toggle in the browser's accessibility settings.
+<a href='https://www.theverge.com/2020/5/6/21249383/google-android-chrome-canary-live-caption-real-time-captioning'> Source <a/>

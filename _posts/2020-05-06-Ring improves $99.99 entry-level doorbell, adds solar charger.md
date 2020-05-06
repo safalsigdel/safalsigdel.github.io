@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eR6nADk_vQYk3xM6-V4Sqopd8P4=/0x0:7000x4320/1200x800/filters:focal(2940x1600:4060x2720)/cdn.vox-cdn.com/uploads/chorus_image/image/66758426/Ring_video_doorbell_gen_2_with_solar.0.0.jpg' width='700px' /><br/>
+Ring is relaunching its original Video Doorbell, first introduced in 2014, with features found in its more expensive doorbells without raising the price. That includes 1080p video, improved night vision, and motion zones for $99.99. It's also introducing a new $49 solar charger that frames and powers the doorbell.
+<a href='https://www.theverge.com/2020/5/6/21249028/ring-video-doorbell-specs-price-date'> Source <a/>

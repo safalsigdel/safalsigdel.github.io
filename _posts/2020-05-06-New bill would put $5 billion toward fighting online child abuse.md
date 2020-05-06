@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v8DYrHQEkkmtskjdhgEd6r6l0Ec=/0x0:6000x4000/1200x800/filters:focal(3243x967:4203x1927)/cdn.vox-cdn.com/uploads/chorus_image/image/66758755/1200330253.jpg.0.jpg' width='700px' /><br/>
+Lawmakers have introduced a multibillion-dollar plan to fight child sexual abuse, particularly on the internet.
+<a href='https://www.theverge.com/2020/5/6/21249079/online-abuse-invest-child-safety-act-fbi-investigations-bill-wyden-eshoo'> Source <a/>
