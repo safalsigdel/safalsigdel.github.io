@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2YIodEYzYU2t2tuhGQlMYNtKmCg=/0x0:900x600/1200x800/filters:focal(378x228:522x372)/cdn.vox-cdn.com/uploads/chorus_image/image/66755423/facebook-reactions.0.0.jpg' width='700px' /><br/>
+Facebook removed a small cluster of groups and pages promoting the QAnon conspiracy in April, calling it part of a “coordinated inauthentic behavior” campaign around the 2020 US elections. It appears to be one of Facebook's first announcements about cracking down on QAnon-related content, and it suggests Facebook views at least a few corners of QAnon as deliberate manipulation — not just false information.
+<a href='https://www.theverge.com/2020/5/5/21248268/facebook-qanon-group-removal-conspiracy-theory-2020-election'> Source <a/>

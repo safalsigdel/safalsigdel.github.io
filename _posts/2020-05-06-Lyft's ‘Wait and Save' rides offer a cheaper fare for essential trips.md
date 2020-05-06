@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/haWZsgDiXmwSr0LpOZ8IRb8-V_s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66756563/acastro_180927_1777_lyft_0001.0.jpg' width='700px' /><br/>
+If your region is under stay-at-home guidelines, it's best to avoid using ride-share apps like Uber and Lyft. But not everyone has that option. And with both companies having suspended shared rides and carpooling during the pandemic as a safety precaution, some people who need rides are finding themselves left without more affordable, reduced-fare ways of getting to their destination.
+<a href='https://www.theverge.com/2020/5/5/21248493/lyft-wait-and-save-discounted-rides-coronavirus-covid-19'> Source <a/>

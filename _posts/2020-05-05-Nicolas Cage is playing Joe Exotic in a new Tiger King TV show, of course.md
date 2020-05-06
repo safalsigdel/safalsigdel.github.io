@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kffAampmqpDK0LSKghKCmOz8RKI=/0x0:4326x2884/1200x800/filters:focal(1848x782:2540x1474)/cdn.vox-cdn.com/uploads/chorus_image/image/66749980/1199567618.jpg.0.jpg' width='700px' /><br/>
-In a move that seems utterly obvious as soon as it was announced, Nicholas Cage will be playing the eccentric zookeeper Joe Exotic in a new TV series, via Variety. Look, this was bound to happen.
-<a href='https://www.theverge.com/2020/5/4/21246869/nicolas-cage-joe-exotic-new-tiger-king-scripted-tv-show'> Source <a/>

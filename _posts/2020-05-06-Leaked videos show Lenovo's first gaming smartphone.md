@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RBvwle_JpF6pkT-AraLYLzxYS3o=/0x0:1200x677/1200x800/filters:focal(504x243:696x435)/cdn.vox-cdn.com/uploads/chorus_image/image/66756420/Lenovo_Legion_Gaming_Phone_Watermarked_1.0.jpg' width='700px' /><br/>
+Lenovo's first gaming phone, the Lenovo Legion, has leaked in a series of promotional videos showing off the device. A “trusted” anonymous source provided the unreleased material, in addition to some new specs, to XDA Developers. There's no guarantee that these videos will reflect the product's final design, but they offer an interesting look at some features we may have to look forward to.
+<a href='https://www.theverge.com/2020/5/5/21248599/lenovo-legion-gaming-phone-leaked-images-smartphone-android'> Source <a/>

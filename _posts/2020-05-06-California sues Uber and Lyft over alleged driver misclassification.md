@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C4ZllRaKaD7jdQvs9dMKMKgihXM=/0x0:5304x3474/1200x800/filters:focal(2228x1313:3076x2161)/cdn.vox-cdn.com/uploads/chorus_image/image/66755330/1133886434.jpg.0.jpg' width='700px' /><br/>
+California's attorney general and a group of city attorneys sued Uber and Lyft Tuesday, alleging that the companies misclassified drivers as independent contractors in violation of a recent law that classifies them as employees.
+<a href='https://www.theverge.com/2020/5/5/21248347/california-uber-lyft-attorney-general-independent-employees'> Source <a/>

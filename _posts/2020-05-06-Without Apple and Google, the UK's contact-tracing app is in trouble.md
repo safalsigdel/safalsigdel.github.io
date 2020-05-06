@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2TDSfYzAPBgxsmB7RniNWz-l2g0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66755272/acastro_200428_1777_coronavirus_0003.0.0.jpg' width='700px' /><br/>
+Countries around the world are scrambling to create contact-tracing apps that will help track the spread of COVID-19. But a beta app launched by the UK this week shows the huge challenges they face and, crucially, the difficulty in designing an effective app without the help of the tech giants that make our phones.
+<a href='https://www.theverge.com/2020/5/5/21248288/uk-covid-19-contact-tracing-app-bluetooth-restrictions-apple-google'> Source <a/>

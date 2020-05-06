@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aNt81VHPzdZq5i4GY2XzoNZtL48=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/66752704/windows10xlaptop.5.jpg' width='700px' /><br/>
-Microsoft confirmed yesterday that it's reprioritizing its Windows 10X development to focus on regular single-screen devices. The Windows variant was originally intended to run on new dual-screen hardware, but sources familiar with Microsoft's plans say the company wants to shift the operating system to launch first on secure and portable laptop-shaped devices.
-<a href='https://www.theverge.com/2020/5/5/21247701/microsoft-windows-10x-laptops-single-screen-chrome-os-competition'> Source <a/>
