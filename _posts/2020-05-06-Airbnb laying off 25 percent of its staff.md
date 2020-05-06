@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vXC1GpgcB6qpR5v7ud_3iinBaRs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66755729/akrales_161202_1327_A_0122.0.0.jpeg' width='700px' /><br/>
-Airbnb is laying off around a quarter of its employees today, or about 1,900 people. The company has been struggling over the last couple months as stay-home orders led to mass cancellations of bookings and as future bookings look likely to return very slowly as the United States and other countries carefully lift restrictions. Airbnb currently has 7,500 employees.
-<a href='https://www.theverge.com/2020/5/5/21248472/airbnb-layoffs-coronavirus-booking-cancellations-revenue'> Source <a/>
