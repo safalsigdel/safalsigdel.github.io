@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cWrYq-PZMSrF7YESeL4TC1WWPw4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66759665/acastro_180828_1777_facebook_0002.0.jpg' width='700px' /><br/>
+On Wednesday, Facebook's oversight board announced the names of its first 20 members, who will independently oversee moderation disputes on the platform. Chosen in part for a diversity of viewpoints and backgrounds, the members include a former prime minister, Nobel Peace Prize winner, and the Guardian editor who oversaw the publication of the Snowden leaks.
+<a href='https://www.theverge.com/2020/5/6/21249427/facebook-oversight-board-nobel-peace-prize-instagram-snowden'> Source <a/>
