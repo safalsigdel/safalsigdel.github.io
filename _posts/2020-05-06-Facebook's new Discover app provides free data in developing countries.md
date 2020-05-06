@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JU4J8F1W5ZxuB9zyUPL7LP5iJM0=/0x0:2040x1360/1200x800/filters:focal(1006x480:1332x806)/cdn.vox-cdn.com/uploads/chorus_image/image/66759120/FB_Discover_image.0.jpg' width='700px' /><br/>
+Facebook is testing a new app to expand internet access in developing countries. The app, called Discover, provides users with a balance of free browsing data provided by several mobile partners. Facebook is running the first trial in Peru, but it plans to launch in a number of other countries in the future, including Thailand, the Philippines, and Iraq.
+<a href='https://www.theverge.com/2020/5/6/21249198/facebooks-discover-app-android-test-date'> Source <a/>
