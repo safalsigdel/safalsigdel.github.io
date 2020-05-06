@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9LHtYBY6Wrw68EJEKl6mc6mGpwU=/0x0:680x470/1200x800/filters:focal(286x181:394x289)/cdn.vox-cdn.com/uploads/chorus_image/image/66759540/88f7550c163cdf061368e448ecc95bb7_original.0.jpg' width='700px' /><br/>
+There's nothing new about 1,000-piece jigsaw puzzles, so when a jigsaw puzzle goes on Kickstarter, creators have to think outside of the box. Now, the co-founder of Cards Against Humanity has done just that, launching a project that takes a new approach to the classic pastime.
+<a href='https://www.theverge.com/2020/5/6/21247932/magic-puzzle-jigsaw-kickstarter-project-max-temkin'> Source <a/>
