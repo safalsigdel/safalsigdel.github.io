@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JNS0iSQcyTLDEN_XmgUkhtexjNM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66753358/cgartenberg_200424_3990_0005.0.jpg' width='700px' /><br/>
-Ever since the sudden cancellation of Apple's AirPower wireless charger, tons of companies have tried to fill the gap in the market by offering their own takes on the failed product. But with the Liberty wireless charger, Zens has succeeded where Apple failed: it built a multiple-coil wireless charger that actually delivers on its promise.
-<a href='https://www.theverge.com/21242641/zens-liberty-review-wireless-charger-apple-airpower-coils-qi-charging-price'> Source <a/>
