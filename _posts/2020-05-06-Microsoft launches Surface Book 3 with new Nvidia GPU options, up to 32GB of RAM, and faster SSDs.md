@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1a4sNpeIX9lyG3cF2I3Ptg47zss=/0x0:1080x720/1200x800/filters:focal(454x274:626x446)/cdn.vox-cdn.com/uploads/chorus_image/image/66758228/Surface_Book_3___Context_2.0.jpg' width='700px' /><br/>
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
 Microsoft is launching its Surface Book 3 today, with a big promise of 50 percent more performance than its predecessor from more than two years ago. There are no big design changes this time around, and there will still be two size options: a 13.5-inch model or the larger 15-inch version. It's disappointing to not see any design tweaks, but there are some important changes under the hood that should improve performance all around.
 <a href='https://www.theverge.com/2020/5/6/21247907/microsoft-surface-book-3-specs-price-release-date'> Source <a/>
