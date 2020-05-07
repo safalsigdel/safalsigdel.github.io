@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XPyOhhCM9KagspyHnW-CQIA9H6c=/0x0:2040x1380/1200x800/filters:focal(857x527:1183x853)/cdn.vox-cdn.com/uploads/chorus_image/image/66758466/pcheung180509_2560_0014.0.jpg' width='700px' /><br/>
-Uber will lay off 3,700 full-time employees, or around 14 percent of its global workforce, the company said in filings with the US Securities and Exchange Commission. In addition, Uber CEO Dara Khosrowshahi will forgo his salary for the rest of the year as the company continues to struggle in response to the COVID-19 pandemic.
-<a href='https://www.theverge.com/2020/5/6/21249131/uber-layoffs-coronavirus-pandemic-cost-cutting-ceo-salary'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YRR9CWjhqdeqvVAZ0gvdpViz8Mk=/0x0:3236x2154/1200x800/filters:focal(780x1142:1296x1658)/cdn.vox-cdn.com/uploads/chorus_image/image/66763061/486019814.jpg.0.jpg' width='700px' /><br/>
+When Viacom and CBS closed their merger in December 2019, the latter company gained access to a plethora of networks — networks the newly merged company, ViacomCBS, is now bringing to distribution partner Google in a new deal with YouTube TV.
+<a href='https://www.theverge.com/2020/5/7/21249931/viacomcbs-youtubetv-nickelodeon-mtv-comedy-central-streaming'> Source <a/>
