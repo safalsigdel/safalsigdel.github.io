@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5-x8hYbTvpcraAIuWper5lVcXfw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66762932/acastro_180828_1777_facebook_0002.0.jpg' width='700px' /><br/>
+Today let's talk about Facebook's independent Oversight Board, which just announced its co-chairs and initial membership. The board will allow Facebook and Instagram users to appeal when they believe that their posts have been removed in error, and upon request will issue advisory opinions to the company on emerging policy questions.
+<a href='https://www.theverge.com/interface/2020/5/7/21249154/facebook-oversight-board-membership-announcement-history-challenges'> Source <a/>
