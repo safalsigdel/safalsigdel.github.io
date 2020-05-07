@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qCtiEeryJt7HUue9ASIaYdIi758=/0x0:2078x1420/1200x800/filters:focal(873x544:1205x876)/cdn.vox-cdn.com/uploads/chorus_image/image/66760858/Screen_Shot_2020_05_06_at_2.47.16_PM.0.png' width='700px' /><br/>
+The new app that Sonos announced in March will be released on June 8th, and with it will come the launch of the S2 platform that exclusively powers the new Sonos Arc, Five, and Sub. That new underlying operating system will soon make its way to other Sonos products — pretty much everything except for those very old legacy devices that we keep writing about.
+<a href='https://www.theverge.com/2020/5/6/21249668/sonos-s2-app-release-date-new-features-s1'> Source <a/>

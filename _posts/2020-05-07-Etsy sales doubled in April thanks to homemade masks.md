@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3L19qsyaePjrRtS1LqjbOeu8vBc=/0x0:2850x1638/1200x800/filters:focal(548x148:1004x604)/cdn.vox-cdn.com/uploads/chorus_image/image/66761590/etsy_masks.0.png' width='700px' /><br/>
+Etsy began pushing homemade masks in early April, and the results panned out in a big way: total sales on the platform doubled last month, by and large thanks to a surge in face mask sales. For comparison, Etsy's marketplace sales figures between January and March were up only 16 percent.
+<a href='https://www.theverge.com/2020/5/6/21249870/etsy-mask-sales-earnings-doubled-april-q1-2020-results'> Source <a/>
