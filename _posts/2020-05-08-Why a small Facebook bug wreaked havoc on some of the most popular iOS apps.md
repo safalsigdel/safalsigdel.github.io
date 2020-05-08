@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BlttSvZAjcpIKYFk9TfzIGKWK80=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66764948/wjoel_180319_2394_facebook_006.0.0.jpg' width='700px' /><br/>
+Sometime around 6:30PM ET on May 6th, popular iOS apps from major companies like DoorDash, Spotify, TikTok, and Venmo suddenly starting crashing. The culprit didn't remain a mystery for long.
+<a href='https://www.theverge.com/2020/5/7/21250689/facebook-sdk-bug-ios-app-crash-apple-spotify-venmo-tiktok-tinder'> Source <a/>

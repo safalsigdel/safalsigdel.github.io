@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9eikDC-SUE8zPaFZxwEWoMnAwwM=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66766187/bfarsace_190826_3621_0003.0.jpg' width='700px' /><br/>
+This week we saw Sonos announce several new products, most significantly the Arc, which is the company's first soundbar to support Dolby Atmos. Other new devices include the Sonos Five speaker and a refreshed Sub, and all three will only work with Sonos' new S2 app that launches next month.
+<a href='https://www.theverge.com/2020/5/7/21249926/vergecast-podcast-interview-sonos-ceo-patrick-spence-s2-arc-atmo-soundbar'> Source <a/>

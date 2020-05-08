@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E-ux-ZkSDSQJaJ24uhJK3_e0kso=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66765230/acastro_200319_1777_amazonCorona_0001.0.jpg' width='700px' /><br/>
+Nine Democratic senators are calling on Amazon CEO Jeff Bezos to provide information on the firing of workers who called for greater protections from COVID-19. In a letter, the senators cite four workers who were fired after raising concerns about safety conditions at the company's warehouses. Amazon has disputed that the firings were retaliatory, citing other policy violations.
+<a href='https://www.theverge.com/2020/5/7/21250734/amazon-whistleblower-coronavirus-covid-19-elizabeth-warren-bernie-sanders-bezos-letter'> Source <a/>

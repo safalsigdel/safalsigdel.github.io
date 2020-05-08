@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WcL9kJkbXLNm5r19kMatoxWpSdU=/0x0:1800x1266/1200x800/filters:focal(756x489:1044x777)/cdn.vox-cdn.com/uploads/chorus_image/image/66764586/Carnegie_Robotics_UV_scrubber_at_PIT.0.jpg' width='700px' /><br/>
+Pittsburgh International Airport has put UVC fixtures on its floor-cleaning robots, making it the first airport in the US to test the use of the ultraviolet rays to scrub the coronavirus from surfaces. If effective, the UV-cleaning robots could be a model for other airports as they plan to reopen and try to persuade people to travel again.
+<a href='https://www.theverge.com/2020/5/7/21249319/pittsburgh-airport-uv-robots-coronavirus-cleaning-disinfecting'> Source <a/>

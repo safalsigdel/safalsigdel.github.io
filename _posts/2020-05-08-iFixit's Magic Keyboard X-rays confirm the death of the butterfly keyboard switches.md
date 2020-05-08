@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+iFixit hasn't been able to do its traditional teardown of Apple's new Magic Keyboard yet (citing “social distancing and teardown schedules”), but the company has done the next best thing for anyone looking to see what makes the new $350 keyboard accessory tick: provided X-rays of the insides of the Magic Keyboard, produced by Creative Electron.
+<a href='https://www.theverge.com/circuitbreaker/2020/5/7/21250856/ifixit-magic-keyboard-x-rays-apple-ipad-inside-parts-switches'> Source <a/>
