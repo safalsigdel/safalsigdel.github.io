@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4YTKleJ1aQ29h5Hm10CGu8zKbzE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66766666/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
-Uber lost $2.9 billion in the first quarter of 2020, its biggest loss in three quarters. The company also reported $3.54 billion in revenue. Gross bookings in its ride-hailing business fell 3 percent, while bookings in its Uber Eats division were up more than 54 percent year over year, thanks to increased demand for food deliveries.
-<a href='https://www.theverge.com/2020/5/7/21251111/uber-q1-earnings-rides-loss-eats-delivery-coronavirus'> Source <a/>
