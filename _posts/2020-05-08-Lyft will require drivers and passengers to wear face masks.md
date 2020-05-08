@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q2vnMifqoCkmrpa5fC9pCSRmalQ=/0x0:1008x756/1200x800/filters:focal(424x298:584x458)/cdn.vox-cdn.com/uploads/chorus_image/image/66766482/Lyft_Driver.0.jpg' width='700px' /><br/>
+Lyft is making face masks mandatory for drivers and passengers, the company announced Thursday. Using the app, drivers and passengers will be required to confirm that they are wearing a mask and are symptom-free. Those who don't agree to the new policy will be barred from the platform.
+<a href='https://www.theverge.com/2020/5/7/21250999/lyft-face-mask-require-driver-passenger-coronavirus'> Source <a/>
