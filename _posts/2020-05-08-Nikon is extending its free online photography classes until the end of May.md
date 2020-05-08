@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kInl_9eZa0ldr7qFt_T33Y6jekQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66593046/cwelch_180808_2891_3797.0.jpg' width='700px' /><br/>
+Nikon has made its entire curriculum of online photography classes free until the end of May. The classes were originally made free throughout April, but Nikon has now extended access for another month.
+<a href='https://www.theverge.com/2020/4/2/21204243/nikon-free-photography-classes-april'> Source <a/>

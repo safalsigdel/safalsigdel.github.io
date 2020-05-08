@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RC5vUYpBjZSjwyxTSQN3YLTuahM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66766161/jbareham_180405_1777_facebook_0003.0.jpg' width='700px' /><br/>
+Facebook will allow most of its employees to continue working from home through the end of 2020, and the company doesn't expect to reopen most offices before July 6th, a Facebook spokesperson confirmed to The Verge. CNBC first reported the news and said CEO Mark Zuckerberg would be making a formal announcement today.
+<a href='https://www.theverge.com/2020/5/7/21250885/facebook-remote-work-home-2020-office-reopening-mark-zuckerberg'> Source <a/>

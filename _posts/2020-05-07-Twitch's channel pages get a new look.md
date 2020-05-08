@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m4ubRyLxS3mv5HHZ--VUCqJsARo=/0x0:1280x680/1200x800/filters:focal(41x0:245x204)/cdn.vox-cdn.com/uploads/chorus_image/image/66759660/channel_page_redesign_schedule.0.jpg' width='700px' /><br/>
-Twitch is getting a new look — sort of. Starting today you'll see the site's channel pages slip into something more comfortable, to borrow a phrase; streamers will now have way more control over what their channel looks like when it's offline, with a more customizable home page, channel trailers, and more. The changes were first announced at last year's Twitchcon in San Diego, and they're finally rolling out today.
-<a href='https://www.theverge.com/2020/5/6/21249209/twitch-channel-pages-revamp-schedule'> Source <a/>

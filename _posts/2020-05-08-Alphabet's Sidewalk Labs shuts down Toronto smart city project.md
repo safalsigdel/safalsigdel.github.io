@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vkmuX8z0p7K6hBNRIItPghaVFh8=/0x0:5847x2260/1200x800/filters:focal(2457x663:3391x1597)/cdn.vox-cdn.com/uploads/chorus_image/image/66764449/ParliamentSlip_Summer_SidewalkLabs.0.jpg' width='700px' /><br/>
+Sidewalk Labs, Alphabet's smart city subsidiary, is walking away from its ambitious plan to transform a slice of Toronto's waterfront into a high-tech utopia.
+<a href='https://www.theverge.com/2020/5/7/21250594/alphabet-sidewalk-labs-toronto-quayside-shutting-down'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LYU12eAq1ybzxclNLIKGlV9-0ac=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66767987/acastro_180730_1777_facial_recognition_0001.0.jpg' width='700px' /><br/>
+Controversial facial recognition provider Clearview AI says it will no longer sell its app to private companies and non-law enforcement entities, according to a legal filing first reported on Thursday by BuzzFeed News. It will also be terminating all contracts, regardless of whether the contracts are for law enforcement purposes or not, in the state of Illinois.
+<a href='https://www.theverge.com/2020/5/7/21251387/clearview-ai-law-enforcement-police-facial-recognition-illinois-privacy-law'> Source <a/>

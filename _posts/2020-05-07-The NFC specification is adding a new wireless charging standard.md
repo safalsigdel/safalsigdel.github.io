@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-The NFC Forum has announced an update for the short-range wireless technology that adds a form of wireless charging to the standard. Future NFC devices could offer wireless charging functionality, albeit in a way that's far more limited than the popular Qi standard used by almost every other device (via 9to5Google).
-<a href='https://www.theverge.com/circuitbreaker/2020/5/6/21249555/nfc-forum-wlc-wireless-charging-specification-qi-mobile-battery'> Source <a/>

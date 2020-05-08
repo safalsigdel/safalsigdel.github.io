@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mmAwx-cf_VqEk87yEbmwX8nLC6M=/0x0:2040x1364/1200x0/filters:focal(0x0:2040x1364):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19947837/SonosArcWithSubandRears.jpg' width='700px' /><br/>
-Sonos is finally making its long-awaited push into Dolby Atmos home theater audio. That effort starts with the new $799 Arc, a premium soundbar that replaces the Playbar in Sonos' product lineup. The oddball Playbase speaker, designed to fit underneath some TVs, is also being discontinued today as Sonos simplifies your options to just the Arc and Beam.
-<a href='https://www.theverge.com/2020/5/6/21248430/sonos-arc-dolby-atmos-soundbar-announced-features-price-date'> Source <a/>

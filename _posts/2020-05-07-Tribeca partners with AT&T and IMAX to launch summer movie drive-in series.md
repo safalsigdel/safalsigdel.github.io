@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZPVQsaTdcBGPqi2u_U1scAlZ9T8=/0x0:4200x2657/1200x800/filters:focal(843x543:1515x1215)/cdn.vox-cdn.com/uploads/chorus_image/image/66761594/1211132546.jpg.0.jpg' width='700px' /><br/>
-Movie theaters across the country are closed, but some drive-ins are seeing a resurgence in the wake of social distancing practices. Now, Tribeca Enterprises (the company behind the Tribeca Film Festival), IMAX, and AT&T are partnering to bring a summer movie series to as many drive-in theaters as possible in the US.
-<a href='https://www.theverge.com/2020/5/6/21249821/drive-in-theaters-movies-coronavirus-tribeca-att-imax-social-distancing-summer-series'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CzWKwRx23OBzFGnSKnGW7rFnRVA=/0x0:3350x2233/1200x800/filters:focal(1407x849:1943x1385)/cdn.vox-cdn.com/uploads/chorus_image/image/66768140/78258248.jpg.0.jpg' width='700px' /><br/>
+A National Treasure TV series for Disney Plus is now in development, producer Jerry Bruckheimer told Collider in an interview today. Bruckheimer also reiterated that a new National Treasure film was in the works, though that was first reported in January.
+<a href='https://www.theverge.com/2020/5/7/21251444/national-treasure-disney-plus-series-development-theatrical-movie-3'> Source <a/>

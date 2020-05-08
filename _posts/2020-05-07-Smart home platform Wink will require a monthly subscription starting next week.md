@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ThLXTK1KX8XzDq7iQOPU2mVX-44=/0x0:700x468/1200x800/filters:focal(297x213:409x325)/cdn.vox-cdn.com/uploads/chorus_image/image/66762213/image_asset.0.png' width='700px' /><br/>
-Smart home platform Wink will require customers to pay a $4.99 per month subscription fee starting May 13th, the company announced today. That gives Wink users just seven days to decide if they want to pay a monthly fee for a service that was previously offered for free as part of owning a Wink product.
-<a href='https://www.theverge.com/2020/5/6/21249950/smart-home-platform-wink-monthly-subscription'> Source <a/>

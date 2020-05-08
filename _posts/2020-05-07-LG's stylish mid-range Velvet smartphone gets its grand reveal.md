@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mRT3ipjrRrz9K-j1HRyip_AAJ8Q=/0x0:1495x996/1200x800/filters:focal(629x379:867x617)/cdn.vox-cdn.com/uploads/chorus_image/image/66762858/49827723421_3ec90d0e7a_o.0.jpg' width='700px' /><br/>
-The LG Velvet has finally officially launched in South Korea, following weeks of teases and announcements. As expected, the phone features a “raindrop” triple rear camera array, is powered by a Snapdragon 765, and has a 6.8-inch OLED display with a small central notch. Details about its global launch are expected to come later this month.
-<a href='https://www.theverge.com/2020/5/7/21250294/lg-velvet-5g-smartphone-release-date-news-features-specs-raindrop-triple-camera-snapdragon-765'> Source <a/>
