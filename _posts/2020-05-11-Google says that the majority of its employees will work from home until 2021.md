@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TzbKZzmPA_G1Kv1Xa8x6x9ecAv8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66771805/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google has extended its work-from-home policy for the remainder of 2020. After previously telling employees that they would be working remotely until June 1st, CEO Sundar Pichai has told employees that they'll likely work from home until the end of the year, via The Information.
+<a href='https://www.theverge.com/2020/5/8/21252240/google-employees-essential-staff-remote-work-from-home-2021'> Source <a/>

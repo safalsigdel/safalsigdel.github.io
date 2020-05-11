@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SWs4p46ccA4Isc5EUmCmWxIvIWk=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/66766635/fullmetal_alchemist.0.jpg' width='700px' /><br/>
-Netflix is trying to become a dominant presence in the anime streaming space, but AT&T-owned WarnerMedia is leveraging its dedicated anime streaming service Crunchyroll to help sway subscribers over to HBO Max.
-<a href='https://www.theverge.com/2020/5/7/21250936/hbo-max-crunchyroll-anime-netflix-amazon-funimation-fullmetal-alchemist-death-note-kill-la-kill'> Source <a/>

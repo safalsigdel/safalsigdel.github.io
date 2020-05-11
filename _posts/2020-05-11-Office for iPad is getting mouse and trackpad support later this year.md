@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MqDpXSFVuyB2KAfU9iCvkWMmruc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66769429/vpavic_042018_3979_0075.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/dT2zHc6JbxtaVMudCnFE-YPMP74=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66769429/vpavic_042018_3979_0075.5.jpg' width='700px' /><br/>
 Microsoft is planning to update Office for iPad with support for Apple's latest iPadOS trackpad and mouse support. The software maker has always been quick to update its range of iOS apps with Apple's latest software features, and work is already underway to update Word, Excel, PowerPoint, and more.
 <a href='https://www.theverge.com/2020/5/8/21251764/microsoft-office-ipad-mouse-trackpad-support-fall-2020-support'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hmsFxGaRHPoIT4PrvJabbw7B1J4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66771819/acastro_180130_1777_0003.0.jpg' width='700px' /><br/>
+Google's Duo video chat app will soon let you make group video calls on the web, the search company announced today. That could be a handy way to catch up with your friends and family while social distancing during the COVID-19 pandemic, though group call participants will need a Google account to join, Google says. The feature is rolling out as a preview in Chrome in the coming weeks.
+<a href='https://www.theverge.com/2020/5/8/21252128/google-duo-group-calls-chrome-family-mode-masks-filters-android-ios'> Source <a/>

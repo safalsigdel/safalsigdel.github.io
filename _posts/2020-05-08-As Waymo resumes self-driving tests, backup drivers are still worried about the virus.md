@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zxxu4y-JC5OAqS9ysYdvtjnHgOo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66767191/vpavic_181127_3122_0042.0.jpg' width='700px' /><br/>
-Waymo is planning to resume testing its autonomous vehicles in Arizona on May 11th, nearly two months after pausing its robotaxi service as a result of the COVID-19 pandemic. But some of the company's backup drivers are worried that Waymo may be rushing back into service too quickly.
-<a href='https://www.theverge.com/2020/5/7/21250830/waymo-self-driving-resume-testing-coronavirus-arizona-drivers-concerns'> Source <a/>

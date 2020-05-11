@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G39AyV6VRr4ZRBVEhhMr7sT3TLE=/0x0:2048x1166/1200x800/filters:focal(861x420:1187x746)/cdn.vox-cdn.com/uploads/chorus_image/image/66767948/16631867219_a56f8eeec9_o.0.0.jpg' width='700px' /><br/>
-Much of the cast of Community will reunite for a virtual table read to support COVID-19 relief, according to Variety. The table read and a fan Q&A will be live streamed on the Community YouTube channel on May 18th at 5PM ET.
-<a href='https://www.theverge.com/2020/5/7/21251388/community-cast-reuniting-virtual-table-read-charity-youtube'> Source <a/>

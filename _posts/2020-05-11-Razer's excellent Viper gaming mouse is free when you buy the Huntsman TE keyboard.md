@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/atIuEROA6ufj4MNqAOtqvvsd41Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66774369/akrales_190730_3573_0010.0.jpg' width='700px' /><br/>
+Starting Sunday May 10th, Razer will host a promotion at Best Buy that bundles its Huntsman Tournament Edition wired gaming keyboard with the Razer Viper mouse. The keyboard alone costs $130, and that price will include the Viper (usually $80 by itself) for free with purchase. Just add the keyboard to your cart and the mouse will be added automatically.
+<a href='https://www.theverge.com/good-deals/2020/5/9/21252512/razer-huntsman-tournament-edition-keyboard-viper-mouse-free-deal-gaming-bundle-best-buy'> Source <a/>

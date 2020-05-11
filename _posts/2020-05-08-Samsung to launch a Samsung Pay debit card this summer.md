@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PAyhEI8au6zkj-WKi5aU0dm6BZM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66767567/acastro_190503_1777_samsung_0001.0.0.jpg' width='700px' /><br/>
-Samsung plans to launch a Samsung Pay debit card this summer, the company announced today in a blog post by Sang Ahn, vice president and general manager of Samsung Pay in North America (via Android Central). Samsung will launch the card, which will be backed by a cash management account, in partnership with personal finance company SoFi, Ahn said.
-<a href='https://www.theverge.com/2020/5/7/21251293/samsung-pay-debit-card-sofi-this-summer'> Source <a/>

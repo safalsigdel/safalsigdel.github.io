@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8pymW-SLJwvhINGwvVLhGYUW-Rw=/0x0:2316x1306/1200x800/filters:focal(973x468:1343x838)/cdn.vox-cdn.com/uploads/chorus_image/image/66770473/Screen_Shot_2020_05_08_at_10.25.52_AM.0.png' width='700px' /><br/>
+Taylor Walker worked hard during her time at Salem State University. She was her class's homecoming queen, she sang in the university's Grammy award-winning choir, and she completed a double degree in communication and speech. Graduation was her chance to reflect on all those accomplishments. To celebrate, she planned to host a party with her family, who she hasn't seen much because she's been so busy.
+<a href='https://www.theverge.com/2020/5/8/21246487/college-high-school-graudation-virtual-ceremony-online-school'> Source <a/>

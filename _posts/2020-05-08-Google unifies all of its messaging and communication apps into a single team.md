@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c0GEizAjMy-G3keipHc7iWkZXuc=/0x0:1530x1020/1200x800/filters:focal(643x388:887x632)/cdn.vox-cdn.com/uploads/chorus_image/image/66765661/duooneplus2.0.jpg' width='700px' /><br/>
-In October of last year, Google hired Javier Soltero to be the VP and GM of G Suite, its set of office apps and — importantly for today's news — Google Meet and Google Chat. Now, the company is putting him in charge of yet another set of products: Messages, Duo, and the phone app on Android.
-<a href='https://www.theverge.com/2020/5/7/21250790/google-android-messaging-duo-phone-g-suite-javier-soltero-hangouts-chat'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H-bmvSFIUXCuUM_LAk-q0OudWeo=/0x0:2340x1100/1200x800/filters:focal(983x363:1357x737)/cdn.vox-cdn.com/uploads/chorus_image/image/66765684/madden_21.0.png' width='700px' /><br/>
-EA's upcoming Madden NFL 21 is coming to the Xbox Series X, and owners of the game for the current-gen Xbox One will be able to upgrade to the Series X version for free, the company announced today at Microsoft's gameplay reveal showcase. But there's a catch: instead of using Microsoft's Smart Delivery program to offer the free upgrade, EA will be running its own — far more limited — upgrade offer.
-<a href='https://www.theverge.com/2020/5/7/21250686/ea-madden-nfl-21-cross-gen-gaming-xbox-series-x-upgrade-one-ps5'> Source <a/>

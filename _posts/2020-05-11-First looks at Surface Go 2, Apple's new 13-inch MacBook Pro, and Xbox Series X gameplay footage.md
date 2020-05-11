@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8MtfjOQ4QsQ6hqpIfatY9YMbID4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66770691/microsoft_surface_go_2_DSC00140_dbohn.0.jpg' width='700px' /><br/>
+There were a lot of announcements in the consumer tech world this week, with new hardware from both Microsoft and Apple, plus some promising early gameplay videos for the Xbox Series X console.
+<a href='https://www.theverge.com/2020/5/8/21251923/surface-go-2-macbook-pro-13-inch-first-look-xbox-series-x-first-gameplay-vergecast-404'> Source <a/>

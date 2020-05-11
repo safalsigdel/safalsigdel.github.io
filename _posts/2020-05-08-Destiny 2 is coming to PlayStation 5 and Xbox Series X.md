@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/esL9w0YuCbvgFdZ0kouiVdCgnLo=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66765721/Shadowkeep_01.0.jpg' width='700px' /><br/>
-Destiny 2 will be coming to the PlayStation 5 and Xbox Series X, developer Bungie announced on Thursday. Exactly when those next-gen versions will be released, or if they will have any changes from the PlayStation 4 and Xbox One versions, is unclear at this time.
-<a href='https://www.theverge.com/2020/5/7/21250836/destiny-2-bungie-next-generation-consoles-playstation-5-ps5-xbox-series-x'> Source <a/>

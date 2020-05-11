@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2ylLwBXddZP8pcH9EZjF-kjHJ04=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66773174/1206292069.jpg.0.jpg' width='700px' /><br/>
+In one of a series of wild tweets posted last week, Elon Musk stated he would be “selling almost all physical possessions” and that he would “own no house.” He appears to be actually following through with that promise, as chronicled in a great story in The Wall Street Journal about Musk's personal finances that you should go read.t
+<a href='https://www.theverge.com/2020/5/8/21252487/elon-musk-personal-finances-billionaire-wall-street-journal-go-read-this'> Source <a/>

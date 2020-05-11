@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HvRnuCk-O1XwHXprmgzjHtBC-oI=/0x0:2040x1360/1200x675/filters:focal(585x492:911x818)/cdn.vox-cdn.com/uploads/chorus_image/image/66776435/VRG_ILLO_4015_Kids_Gadgets.0.jpg' width='700px' /><br/>
+School's out for the foreseeable future, nannies are isolating at home, daycare centers have shut down, and play dates have been canceled. Your children now depend on you for 24-hour care, education, and amusement. So what can you do to make your days — and theirs — better?
+<a href='https://www.theverge.com/21249132/kid-best-favorite-gadgets-tech-baby-infants-nest-cam-alexa-echo'> Source <a/>

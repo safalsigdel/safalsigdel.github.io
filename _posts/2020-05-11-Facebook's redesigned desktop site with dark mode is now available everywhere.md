@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/08Pq_9DCFcsHXQNNyHT8tV2gn4I=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66771929/NRP_the_new_facebook.com_final_1.0.jpg' width='700px' /><br/>
+Facebook's redesigned desktop site is now available globally, the company announced on Friday. Prior to this change, the new version of Facebook was available only if you opted into it starting in March and only in some markets, although the company said at the time that a majority of people would get access that month.
+<a href='https://www.theverge.com/21252289/facebook-desktop-redesign-web-dark-mode-how-to-available'> Source <a/>
