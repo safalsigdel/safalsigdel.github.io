@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0YRtDA418ef1Bwijj3Frf2QOdSc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66769247/acastro_200428_1777_coronavirus_0001.0.0.jpg' width='700px' /><br/>
-Last month, after Apple and Google announced some changes to their forthcoming attempt to track the spread of COVID-19, I noted the surprising degree to which tech giants are setting the terms of the pandemic response. They own the hardware, they own the software, and national governments who would use it to find new cases of COVID-19 have to do it on the companies' terms.
-<a href='https://www.theverge.com/interface/2020/5/8/21250744/apple-google-contact-tracing-england-germany-exposure-notification-india-privacy'> Source <a/>
