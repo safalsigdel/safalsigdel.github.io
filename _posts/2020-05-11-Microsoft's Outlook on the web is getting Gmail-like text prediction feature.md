@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6XcygIc1gDBJGYnWZshlUCr3tRs=/0x0:1020x598/1200x800/filters:focal(429x218:591x380)/cdn.vox-cdn.com/uploads/chorus_image/image/66778973/hotmailhednew.0.jpg' width='700px' /><br/>
+Microsoft is working on a new text prediction feature for Outlook that's similar to Gmail's Smart Compose. The text predictions will allow Outlook.com and Outlook on the web to write emails for people using predictive tech that offers up suggestions while you type.  A support document reveals that Outlook users will be able to accept suggestions with tab or right arrow on a keyboard, or just keep typing to ignore them.
+<a href='https://www.theverge.com/2020/5/11/21254298/microsoft-outlook-web-text-predictions-gmail-smart-compose-feature'> Source <a/>

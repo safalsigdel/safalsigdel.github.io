@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wUHCqloVs2ku6EU_QJ1fitn1p8g=/0x0:2040x1360/1200x800/filters:focal(1168x650:1494x976)/cdn.vox-cdn.com/uploads/chorus_image/image/66769418/sokane_181116_3101_fremont_0053.0.jpg' width='700px' /><br/>
-Tesla plans to resume “limited operations” at its Fremont car plant on Friday, bringing back about 30 percent of its workforce, according to emails sent to employees Thursday night. Fremont is located in Alameda County, however, which said in a statement that it's still under shelter-in-place. Bloomberg was first to report on the emails sent from CEO Elon Musk and Tesla HR boss Valerie Capers Workman.
-<a href='https://www.theverge.com/2020/5/8/21251762/elon-musk-reopening-freemont-factory-coronavirus'> Source <a/>
