@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-The first phones with Qualcomm's Snapdragon 765 processor are just starting to trickle out, but that isn't stopping the company from announcing an upgraded version today called the Snapdragon 768G, which offers better CPU and GPU performance than its predecessor.
-<a href='https://www.theverge.com/circuitbreaker/2020/5/11/21252114/qualcomm-snapdragon-768g-5g-processor-765g-improvements-cpu-gpu-update'> Source <a/>
