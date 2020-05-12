@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O40udHpyeoJZIzzYNy-Laa3xp1w=/0x0:1100x729/1200x800/filters:focal(462x277:638x453)/cdn.vox-cdn.com/uploads/chorus_image/image/66778959/Thunderbolt-1020.0.jpg' width='700px' /><br/>
-Vulnerabilities discovered in the Thunderbolt connection standard could allow hackers to access the contents of a locked laptop's hard drive within minutes, a security researcher from the Eindhoven University of Technology has announced. Wired reports that the vulnerabilities affect all Thunderbolt-enabled PCs manufactured before 2019.
-<a href='https://www.theverge.com/2020/5/11/21254290/thunderbolt-security-vulnerability-thunderspy-encryption-access-intel-laptops'> Source <a/>
