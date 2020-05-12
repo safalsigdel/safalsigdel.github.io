@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/97HMaaWbHYV-_sHtygS7i4MSlCY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66775083/acastro_200428_1777_coronavirus_0002.0.0.jpg' width='700px' /><br/>
-The Food and Drug Administration has granted the first emergency use authorization to diagnostic healthcare company Quidel Corp. for the first COVID-19 antigen test, the agency announced. Antigen tests can quickly detect the coronavirus, but are generally considered less accurate than other types of tests that search out the virus.
-<a href='https://www.theverge.com/2020/5/9/21253105/fda-covid-19-antigen-test-coronavirus'> Source <a/>

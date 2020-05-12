@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nG5s9qa5_sDQC-LdL0mrHRV7DtI=/0x0:2000x1250/1200x800/filters:focal(840x465:1160x785)/cdn.vox-cdn.com/uploads/chorus_image/image/66784331/Google_Meet_1.max_2000x2000.0.png' width='700px' /><br/>
+In a likely effort to stop the videoconferencing powerhouse that is Zoom, Google has expanded its Meet communications app to be available to anyone with a Gmail account (previously, it had only been open to those with for-pay G Suite or education accounts). You will be able to meet with up to 100 people and there is currently no time limit; after September 30th, meetings will be limited to 60 minutes.
+<a href='https://www.theverge.com/21254432/google-meet-gmail-videoconferencing-how-to-zoom'> Source <a/>
