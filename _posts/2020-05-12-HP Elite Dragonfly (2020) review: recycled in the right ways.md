@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lCIUUrVQIQdfhuRD_e6APHfdOlE=/0x0:2040x1360/1200x675/filters:focal(930x714:1256x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/66774410/akrales_200507_4005_0133.0.jpg' width='700px' /><br/>
-Last year's HP Elite Dragonfly was perhaps the nicest business laptop we've ever tested. This year's Elite Dragonfly is almost identical to that machine, which is fine because, again, the HP Elite Dragonfly was exceptional in just about every way.
-<a href='https://www.theverge.com/2020/5/9/21247274/hp-elite-dragonfly-2020-review-tile-test-specs-price-features'> Source <a/>
