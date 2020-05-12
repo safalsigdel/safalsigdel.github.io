@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j28sZWKzlwI4dtpXBg0oIyFx3k8=/0x0:3840x1896/1200x800/filters:focal(1613x641:2227x1255)/cdn.vox-cdn.com/uploads/chorus_image/image/66780283/Chrometab_3.0.png' width='700px' /><br/>
+Lenovo has released the Duet Chromebook, a 10-inch 2-in-1 that runs Chrome OS. The base model, which has 4GB of RAM, 64GB of storage, and a MediaTek processor, costs $279, but only the $299 model, which has 128GB of storage, appears to be listed at Best Buy right now.
+<a href='https://www.theverge.com/2020/5/11/21254584/lenovo-duet-chromebook-laptop-convertible-release-date-price'> Source <a/>

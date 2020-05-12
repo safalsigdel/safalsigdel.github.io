@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AMIY4WIKVFufX7XNxAPrtwzbFXQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66772895/1210996295.jpg.0.jpg' width='700px' /><br/>
-Food and beverage delivery services like DoorDash, Postmates, and Uber Eats aided in a surge of alcohol deliveries to underage minors in California last month, the state's Department of Alcoholic Beverage Control (ABC) found in a new investigation. And because of relaxed restrictions around alcohol takeout and delivery during COVID-19, the issue is getting worse, regulators say.
-<a href='https://www.theverge.com/2020/5/8/21252468/uber-eats-doordash-postmates-alcohol-delivery-coronavirus-underage-minors'> Source <a/>

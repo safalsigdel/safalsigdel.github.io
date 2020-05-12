@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9318/vpavic_052004_4007_0022.jpg' width='700px' /><br/>
-Last year, three of the top five bestselling phones worldwide were Samsung phones, according to Counterpoint Research, holding the number three, four, and five spots after the iPhone XR and 11. If you live in the US, when you think of Samsung, you probably think of the Galaxy S or Note — but the Samsung phones that sold so well were midrange Galaxy A-series phones.
-<a href='https://www.theverge.com/21251569/samsung-galaxy-a51-review-price-screen-camera-battery-life'> Source <a/>

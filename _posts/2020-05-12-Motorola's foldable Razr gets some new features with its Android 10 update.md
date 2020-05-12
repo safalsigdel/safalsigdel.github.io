@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oqIGc3gFiAQUTSLsXDyoBqquT_k=/0x0:2452x1284/1200x0/filters:focal(0x0:2452x1284):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19961439/Screen_Shot_2020_05_11_at_4.34.37_PM.png' width='700px' /><br/>
+Motorola is rolling out the Android 10 update for the foldable Razr and adding a host of new features for the external “Quick View” display and some new visual customization options for icons.
+<a href='https://www.theverge.com/2020/5/11/21255018/motorola-razr-foldable-external-display-android-10-update-new-features'> Source <a/>

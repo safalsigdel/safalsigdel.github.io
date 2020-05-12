@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MQ2ZUw26x-0Lzq3ZoS-Jl5MrhXI=/0x0:1280x686/1200x800/filters:focal(538x241:742x445)/cdn.vox-cdn.com/uploads/chorus_image/image/66782876/1306x700_blog_header_v3_1.0.jpg' width='700px' /><br/>
+Twitch is now selling official gift cards you can use to buy items on the popular streaming platform, the company announced today. Despite being a free service, Twitch offers a number of ways you can spend money, including buying subscriptions to channels and paying for Twitch's “Bits” virtual currency, and the new gift cards can be put towards those purchases.
+<a href='https://www.theverge.com/2020/5/11/21255306/twitch-selling-digital-gift-cards-subscriptions-bits'> Source <a/>

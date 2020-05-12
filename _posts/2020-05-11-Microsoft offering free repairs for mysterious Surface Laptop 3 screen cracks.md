@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HRDdD4TnGThACZ9fRNW3G9q0dqo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66773456/akrales_190930_3689_0135.0.jpg' width='700px' /><br/>
-In the months since the Surface Laptop 3's October 2019 launch, some users have reported cracks appearing on their laptop's screen for no discernible reason. Microsoft first said it was investigating the issue in February, and today, the company explained a potential cause of the problem and offered free repairs to those affected (via ZDNet).
-<a href='https://www.theverge.com/2020/5/8/21252634/microsoft-surface-laptop-3-screen-crack-free-repair'> Source <a/>

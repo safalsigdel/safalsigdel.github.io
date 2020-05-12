@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S95YzU52C6jQ07lfN2Ktt7wqtCE=/0x0:3000x2001/1200x800/filters:focal(989x439:1469x919)/cdn.vox-cdn.com/uploads/chorus_image/image/66781093/1211906338.jpg.0.jpg' width='700px' /><br/>
+PepsiCo, the insanely big multinational food and beverage giant, wants in on the direct-to-consumer action: they've bought the (incredibly good) domain Snacks.com and the (fine) domain PantryShop.com to sell you things faster.
+<a href='https://www.theverge.com/2020/5/11/21254767/pepsico-delivery-snacks-frito-lay-direct-to-consumer-pantryshop'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z4sCiWBd377osfdt1VJRsYqFr8A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66782388/elon_musk_tesla_3036.0.jpg' width='700px' /><br/>
+Tesla CEO Elon Musk has confirmed that he's reopening his company's car factory in California in violation of a local shelter-in-place order, as The Verge previously reported. Musk said he'll be on the company's production line this week. “If anyone is arrested, I ask that it only be me,” he wrote.
+<a href='https://www.theverge.com/2020/5/11/21255149/elon-musk-tesla-fremont-factory-reopen-order-arrest-alameda'> Source <a/>
