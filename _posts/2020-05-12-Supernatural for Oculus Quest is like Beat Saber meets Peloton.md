@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MbS4SkOtJdfZvHBIhO6lbb7prLQ=/0x0:1800x1200/1200x675/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/66780239/sn2.0.jpg' width='700px' /><br/>
-For obvious reasons, the interest in working out at home has never been higher. Whether you're doing yoga with Adriene, working your way through Ring Fit Adventure, or scouring Amazon for a spin bike that's in stock, you've probably been looking for ways to keep active without leaving the house. Me? I've been using VR. And a new product called Supernatural is one of the more compelling at-home workouts I've tried so far.
-<a href='https://www.theverge.com/2020/5/11/21254483/supernatural-oculus-quest-review-vr-fitness-within-interview'> Source <a/>

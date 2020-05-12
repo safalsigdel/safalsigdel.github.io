@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VRz018g0FFfOZBh2Ig3TLJ1R9nM=/0x0:1960x1306/1200x800/filters:focal(824x497:1136x809)/cdn.vox-cdn.com/uploads/chorus_image/image/66785487/logicprox105.0.jpg' width='700px' /><br/>
+Apple released a big update to Logic Pro X today, adding Live Loops, a beat sequencer, a revamped sampling tool, and more. Apple calls it the app's “biggest update” since the music production software launched under its current name, Logic Pro X, in 2013. The new tools are particularly focused on electronic music, hip-hop, and beat making.
+<a href='https://www.theverge.com/2020/5/12/21255731/logic-pro-x-apple-live-loops-step-sequencer-sampler-exs24-update'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oSgcoR2WY0laFofeqXOTYKOYAOg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66779760/akrales_180620_1777_0175.0.jpg' width='700px' /><br/>
-Spotify is giving Premium users a new feature that'll allow them to share DJ duties with anyone in their immediate vicinity. Group Sessions, as Spotify is calling the feature, is rolling out in beta today and only works between Premium users.
-<a href='https://www.theverge.com/2020/5/11/21254426/spotify-group-sessions-feature-update-beta-premium-subscription'> Source <a/>
