@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bCD9lWEDv-P8oTOu3jpQ8YIXJrk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66777620/VGS01017.0.0.jpg' width='700px' /><br/>
-The Trump administration is reportedly in talks with major processor manufacturers to build factories in the US, according to a report from The Wall Street Journal. While the Journal's sources reference various “talks” between the administration and manufacturers, Intel reportedly has a more specific plan to run a plant that manufactures chips “securely” — playing on US fears of reliance on processor plants based overseas.
-<a href='https://www.theverge.com/2020/5/10/21253922/trump-intel-tsmc-us-processor-factories'> Source <a/>

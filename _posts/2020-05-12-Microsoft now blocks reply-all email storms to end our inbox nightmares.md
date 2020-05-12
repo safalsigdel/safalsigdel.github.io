@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IOTmIaZX5Q8E6s-5TUtcwwjghDs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66776571/acastro_190703_1777_pixel_tracking_0001.0.jpg' width='700px' /><br/>
-Microsoft is rolling out a new reply-all protection feature for Office 365 and Exchange Online. It's designed to prevent email storms (reply allpocalypse), when hundreds or thousands of people start replying to an email thread after someone forgot to BCC everyone or a distribution list was misconfigured.
-<a href='https://www.theverge.com/2020/5/10/21253627/microsoft-reply-all-email-block-reply-allpocalypse-storm'> Source <a/>
