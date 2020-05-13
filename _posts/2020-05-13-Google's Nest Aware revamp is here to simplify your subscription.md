@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nHeYa93Ai6FZ1jzf5WGt5kCpNt8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66788171/vpavic_170518_1705_0070.0.0.jpg' width='700px' /><br/>
+Google's new Nest Aware pricing model is rolling out starting this week, the company announced today. The new model means that a single subscription now covers all of your Nest devices, rather than asking you to pay on a per-device basis. It's available in each of the 19 markets where Nest Aware is available, including the US, UK, Australia, France, and Germany.
+<a href='https://www.theverge.com/2020/5/12/21255962/google-nest-aware-subscription-model-change-single-fee-all-devices-event-recording'> Source <a/>

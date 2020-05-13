@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vL8S3GN7f13Bp8q6TmsRqT9Sg84=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66786783/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
+Twitter will now let its employees work from home indefinitely, which was first reported by BuzzFeed News. CEO Jack Dorsey reportedly informed employees of the new policy in an email sent on Tuesday.
+<a href='https://www.theverge.com/2020/5/12/21256060/twitter-employees-work-from-home-covid-19-pandemic'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fPbpVY_94plDNCG9zQj2Zzu18GU=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/66784339/windows2_2040.0.0.jpg' width='700px' /><br/>
-I'm reviewing two very different computers right now: the new 2020 13-inch MacBook Pro and the new 2020 Surface Go 2. You can click the links in the previous sentences for some first impressions and if you've got specific questions for the review, feel free to email me and I'll do my best to address as many as I can later this week.
-<a href='https://www.theverge.com/2020/5/12/21255036/windows-macos-catalina-10x-power-user-startup-apps-battery-life'> Source <a/>

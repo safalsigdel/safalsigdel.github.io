@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7CvvHMvAhbwFFA6EfXqlwxT8Z3g=/0x0:1921x1280/1200x800/filters:focal(808x487:1114x793)/cdn.vox-cdn.com/uploads/chorus_image/image/66784768/spotify.0.jpg' width='700px' /><br/>
-Spotify first released its Spotify Kids app in October last year, and now it's introducing two new features to give parents more control over what their kids consume. Starting today, parents can access their child's listening history and also block specific content. The app is also expanding its rollout to Japan and Germany today, officially making it available in 14 markets.
-<a href='https://www.theverge.com/2020/5/12/21255107/spotify-kids-update-app-block-track-listening-history-parental-controls'> Source <a/>

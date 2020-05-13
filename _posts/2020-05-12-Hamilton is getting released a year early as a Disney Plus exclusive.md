@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Cxv39Nw-8fZ5PJbzUaIw7rVFKhk=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/66784618/EP3ccbPVUAIdM4R.0.jpeg' width='700px' /><br/>
-Disney is bumping up the release of its recording of the hit stage musical Hamilton by over a year. Instead of the planned theatrical release set for October 15th, 2021, it'll be out on July 3rd, 2020, as a Disney Plus exclusive.
-<a href='https://www.theverge.com/2020/5/12/21255693/hamilton-musical-disney-plus-early-release-date-streaming-broadway-miranda'> Source <a/>

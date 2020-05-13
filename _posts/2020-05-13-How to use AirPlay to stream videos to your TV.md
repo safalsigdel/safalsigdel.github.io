@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Fj4L8W04Ygz62Y78sif893lsp0s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66787501/akrales_190913_3666_0126.0.jpg' width='700px' /><br/>
+If you want to cast a video from your iPhone to your TV, or if you want to watch YouTube on a larger screen, AirPlay, Apple's casting feature, will help you do that. AirPlay allows you to wirelessly cast audio or video from your iPhone, iPad, or Mac to an Apple TV or an AirPlay 2-compatible smart TV, as long as your device is connected to the same Wi-Fi as the TV.
+<a href='https://www.theverge.com/21248047/airplay-apple-tv-how-to-stream-iphone-macbook-watch-video'> Source <a/>

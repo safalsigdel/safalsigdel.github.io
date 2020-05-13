@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bxRgCcLaOX43tjwx4ByAgoREFLk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66786471/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+On our Vergecast interview series, Verge editor-in-chief Nilay Patel and Silicon Valley editor Casey Newton spoke with Alex Stamos, former chief security officer for Facebook and director of the Stanford Internet Observatory.
+<a href='https://www.theverge.com/2020/5/12/21255823/alex-stamos-interview-election-2020-security-tik-tok-zoom-vergecast'> Source <a/>

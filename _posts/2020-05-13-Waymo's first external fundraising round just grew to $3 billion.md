@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vjwhtMeKc7c9iRTLtqCnii19nQ0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66786747/vpavic_191202_3827_0064.0.jpg' width='700px' /><br/>
+Waymo's first external fundraising round, initially expected to bring in $2.25 billion for the self-driving company, just grew to $3 billion, thanks to the addition of some new investors.
+<a href='https://www.theverge.com/2020/5/12/21256082/waymo-external-investment-extension-3-billion-self-driving'> Source <a/>

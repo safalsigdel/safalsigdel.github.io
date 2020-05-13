@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zMtMYWEJDfFD1nV9KCXxUQ4-5zM=/0x0:1000x1000/1200x800/filters:focal(420x420:580x580)/cdn.vox-cdn.com/uploads/chorus_image/image/66787685/webdam.web.1000.1000.0.jpeg' width='700px' /><br/>
+Computer and phone accessory maker Belkin is developing an emergency ventilator in partnership with the University of Illinois to be used to treat COVID-19 patients, the two organizations announced today. Called the FlexVent, the gas-operated ventilator is a “single-use, emergency ventilator that can provide constant-flow, pressure-cycled ventilation automatically to patients in respiratory distress.”
+<a href='https://www.theverge.com/2020/5/12/21256265/belkin-ventilator-partnership-fda-university-of-illinois-flexvent'> Source <a/>

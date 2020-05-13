@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b4g9zTESDDmKsotKTqK5HNc6R38=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66782995/acastro_190412_1777_slack_0002.0.jpg' width='700px' /><br/>
-Slack announced a redesigned iPhone app with a new navigation bar at the bottom of the app in update notes today. However, it seems the redesign is still rolling out, even if you've updated to the latest version of the app — myself and another Verge colleague don't have it yet, for example.
-<a href='https://www.theverge.com/2020/5/11/21255213/slack-iphone-app-redesign-bottom-navigation-bar-android'> Source <a/>

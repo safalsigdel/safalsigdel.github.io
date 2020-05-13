@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6cvVaG0c86RH7QPtqqc_ggjePL0=/0x0:3200x2400/1200x800/filters:focal(1344x944:1856x1456)/cdn.vox-cdn.com/uploads/chorus_image/image/66786616/web3___Cross_Platform.0.png' width='700px' /><br/>
+Twobird is a new email application from Ginger Labs, the company behind popular note-taking application Notability, that wants to make email simpler and more powerful. Today, it's launching fully after an early access beta that began in September last year.
+<a href='https://www.theverge.com/2020/5/12/21255231/twobird-collaborative-email-app-ginger-labs-notability-windows-mac-ios-android-notes'> Source <a/>

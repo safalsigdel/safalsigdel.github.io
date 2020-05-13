@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4XcK_vVSv5vQO-0-Vct5a3DuJCQ=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/66788062/twarren_telegramblockrussia.0.jpg' width='700px' /><br/>
+After years of drama with the SEC, Telegram is calling it quits on its crypto-focused subsidiary, Telegram Open Network (TON).
+<a href='https://www.theverge.com/2020/5/12/21256407/telegram-cryptocurrency-shutdown-sec-gram'> Source <a/>

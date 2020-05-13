@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YY6UT19w2YeapL_dTo6tpWAx8JM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66780744/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter is introducing new labels to mark tweets with COVID-19-related misinformation, the company announced today. The labels should make it easier tell if a tweet has a misleading or unverified claim and point you toward resources about COVID-19.
-<a href='https://www.theverge.com/2020/5/11/21254733/twitter-covid-19-misleading-information-label-warnings-misinformation'> Source <a/>

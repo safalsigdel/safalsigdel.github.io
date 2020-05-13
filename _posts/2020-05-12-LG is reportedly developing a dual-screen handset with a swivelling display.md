@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9jDJB5ezT8SKFouV7ZuTMguPhn4=/0x0:1050x700/1200x800/filters:focal(441x266:609x434)/cdn.vox-cdn.com/uploads/chorus_image/image/66784293/1299339_20200511165947_947_0003.0.jpg' width='700px' /><br/>
-LG has a new dual-screen phone on the way, with a main display that swivels sideways to reveal a secondary screen underneath, the Korean Herald reports. The phone, which  ETNews reports is codenamed “Wing,” will reportedly have a main 6.8-inch display alongside a smaller 4-inch screen with a 1:1 aspect ratio. It's expected to cost a bit more than the new Velvet phone when it arrives later this year.
-<a href='https://www.theverge.com/2020/5/12/21255641/lg-wing-swivel-phone-dual-touchscreen-5g-snapdragon-7-series'> Source <a/>
