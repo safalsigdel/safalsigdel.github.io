@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uHvYML39QYfwTm72L_4SsTMBBnw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66785505/acastro_200511_1777_youtubeMusic_0001.0.jpg' width='700px' /><br/>
-Google Play Music is going away at the end of the year, leaving YouTube Music as Google's only streaming music service. But before that happens, you've got the chance to transfer over your music library, recommendations, purchased songs, and personal uploads to YouTube Music with just a few taps. This will ensure that you won't lose any content when Google Play Music is eventually shut down.
-<a href='https://www.theverge.com/21254766/google-play-how-to-transfer-music-youtube-playlists-uploads-library'> Source <a/>

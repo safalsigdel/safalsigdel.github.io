@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OL7s1Tpb6vDZZOqD6hOSPbvTTkc=/0x0:700x468/1200x800/filters:focal(294x178:406x290)/cdn.vox-cdn.com/uploads/chorus_image/image/66790016/image_asset.0.png' width='700px' /><br/>
+Users of the Wink smart home platform now have until May 20th before they'll have to start paying a $4.99 a month for functionality that was previously free, the company has announced in an amended blog post. The company originally announced a May 13th deadline for the introduction of the subscriptions.
+<a href='https://www.theverge.com/2020/5/13/21256986/wink-paid-subscription-delayed-may-20-smart-home-platform'> Source <a/>
