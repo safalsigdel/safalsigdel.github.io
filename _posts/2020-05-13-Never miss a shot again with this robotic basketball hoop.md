@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Robotics and AI are supposed to make people's lives better, so why don't they help me suck less at sport? Engineer and YouTuber Shane Wighton has tackled this incredibly pressing issue with one of the cleverest mechanical creations I've seen on the internet: a basketball hoop that ensures that you never miss a shot.
+<a href='https://www.theverge.com/tldr/2020/5/13/21256983/robotic-basketball-hoop-never-miss-stuff-made-here-shane-wighton'> Source <a/>
