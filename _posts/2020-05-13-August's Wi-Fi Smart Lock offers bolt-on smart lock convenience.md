@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/De54IDNr-oVsUYEvy2ajZTlpRq8=/0x0:2000x1500/1200x800/filters:focal(808x808:1128x1128)/cdn.vox-cdn.com/uploads/chorus_image/image/66785098/August_Wi_Fi_Smart_Lock_Silver_trex5914_RGB.0.jpg' width='700px' /><br/>
-There is no shortage of app-connected smart locks on the market right now. But if you aren't interested in completely replacing the lock you already own, keys and all, you can turn your existing deadbolt into a smart lock with one of August's devices. The latest version of this smart deadbolt is the Wi-Fi Smart Lock, which sells for $249.99 and is available for purchase now.
-<a href='https://www.theverge.com/21255026/august-wifi-smart-lock-review-test-price-specs-features'> Source <a/>

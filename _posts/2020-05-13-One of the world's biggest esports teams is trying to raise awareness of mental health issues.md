@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wSAz2vZPUVvdGsZRuCxlaaShGOk=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/66789629/49646048641_47b0dfb1be_k.0.jpg' width='700px' /><br/>
+Esports organization Cloud9 and health care company Kaiser Permanente have announced a new initiative focused on increasing awareness about mental health. This initiative will aim to help Cloud9's players work on their own mental health and leverage Cloud9's large fan base to shed light on ways to address mental health and reduce stigma about the topic.
+<a href='https://www.theverge.com/2020/5/13/21255292/kaiser-permanente-cloud9-mental-health-jack-etienne-don-mordecai'> Source <a/>

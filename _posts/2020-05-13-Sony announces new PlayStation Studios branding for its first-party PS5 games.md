@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H5i62BcoGTAPV7aNx9a7O70UhuE=/0x0:1280x800/1200x0/filters:focal(0x0:1280x800):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19962360/Untitled.png' width='700px' /><br/>
-Sony has announced a new PlayStation Studios brand that it'll be using for its first-party exclusives going forward as a way to let customers know that a game comes from one of Sony's in-house development teams.
-<a href='https://www.theverge.com/2020/5/12/21255745/sony-playstation-studios-ps5-first-party-games-brand-roll-out-titles'> Source <a/>
