@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/r_uHTHq-cO8MZwQBaeWMV40IHDo=/0x1309:1080x2160/1200x800/filters:focal(454x1223:626x1395)/cdn.vox-cdn.com/uploads/chorus_image/image/66789959/KKVZTwF.0.png' width='700px' /><br/>
+Google is testing a new feature in its Messages app that lets you react to messages using emoji. First spotted by Reddit users in a thread that was picked up by Android Police, the feature reportedly lets you react to a message by long-pressing on it. Then, you can select from emoji including thumbs up, thumbs down, anger, and crying with laughter. The feature appears to only work over RCS, and is not available in SMS-only conversations.
+<a href='https://www.theverge.com/2020/5/13/21256975/google-android-messages-rcs-emoji-reactions-test'> Source <a/>
