@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/14-Z-rZEt_nckOvRL_r_kjqb8wU=/0x0:1136x639/1200x800/filters:focal(478x230:658x410)/cdn.vox-cdn.com/uploads/chorus_image/image/66785669/asset_030.0.jpg' width='700px' /><br/>
-Uber has made an offer to buy Grubhub, with the potential for a deal to be reached as early as this month, according to a report from Bloomberg. The offer is said to be an all-stock takeover that would see Grubhub — currently valued at $4.5 billion — be absorbed into Uber's larger operation.
-<a href='https://www.theverge.com/2020/5/12/21255936/uber-grubhub-offer-buying-all-stock-delivery-service-eats-meals-merger'> Source <a/>
