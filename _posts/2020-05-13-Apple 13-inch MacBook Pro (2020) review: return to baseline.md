@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aYJ5Bmhj69xf6PVVOTa8UKSI10U=/0x0:2040x1360/1200x675/filters:focal(860x723:1186x1049)/cdn.vox-cdn.com/uploads/chorus_image/image/66790314/dbohn_200506_4012_0031.0.jpg' width='700px' /><br/>
+The most interesting — and most common — questions I've received about this new 13-inch MacBook Pro aren't about the laptop itself, at least not directly. They're about comparison shopping it up against other MacBooks and even other Windows laptops. For Apple, that's actually good news because, up until recently, most of the questions would have been “is the keyboard going to break?”
+<a href='https://www.theverge.com/21256520/apple-13-inch-macbook-pro-2020-review-keyboard-specs-price-features'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fjYdpTuYbxuLb8sRTge6r5kcVT4=/0x0:3280x2190/1200x800/filters:focal(1378x833:1902x1357)/cdn.vox-cdn.com/uploads/chorus_image/image/66785943/Moment_camera_sling_webres_29.0.jpg' width='700px' /><br/>
-Moment built its brand on making photographic accessories for smartphones, but over the past couple of years, the company has expanded its product line to include lenses and filters for drones and larger mirrorless or DSLR cameras. Today, the company is announcing its first bags designed specifically for interchangeable lens cameras: the new 6-liter (6L) and 10-liter (10L) Rugged Camera Sling.
-<a href='https://www.theverge.com/21254358/moment-rugged-camera-sling-bag-dslr-mirrorless-drone-price-specs-features'> Source <a/>
