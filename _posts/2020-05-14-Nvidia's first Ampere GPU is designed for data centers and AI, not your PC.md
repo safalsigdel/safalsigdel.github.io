@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cfRTM3FDDm70qbfahgfIXybIFqk=/0x0:1980x1320/1200x800/filters:focal(832x502:1148x818)/cdn.vox-cdn.com/uploads/chorus_image/image/66796434/2555435ebae590030837.15346566_NVIDIA_A100_GPU.0.jpg' width='700px' /><br/>
+Nvidia is unveiling its next-generation Ampere GPU architecture today. The first GPU to use Ampere will be Nvidia's new A100, built for scientific computing, cloud graphics, and data analytics. While there have been plenty of rumors around Nvidia's Ampere plans for GeForce “RTX 3080” cards, the A100 will primarily be used in data centers.
+<a href='https://www.theverge.com/2020/5/14/21258419/nvidia-ampere-gpu-ai-data-centers-specs-a100-dgx-supercomputer'> Source <a/>

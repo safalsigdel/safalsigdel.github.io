@@ -1,3 +1,0 @@
-<img src='' width='700px' /><br/>
-Epic Games today announced the next iteration of its game engine, the Unreal Engine 5 (UE5), with a stunning demo running on the PlayStation 5. Epic says the demo shows off what next-generation game consoles will truly be capable of once developers have full access to creative tools like UE5 and the capability to squeeze the maximum out of new hardware and software baked into Sony's PS5 and Microsoft's Xbox Series X.
-<a href='https://www.theverge.com/2020/5/13/21256079/epic-unreal-engine-5-playstation-5-demo-next-gen-graphics-release-date'> Source <a/>
