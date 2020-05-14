@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jwpd7vBDzw9KU6A0OMmB-jT2pwE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66791294/acastro_200318_1777_ps5_0001.0.jpg' width='700px' /><br/>
-Epic CEO Tim Sweeney says next-generation gaming consoles, in particular Sony's PlayStation 5, will bring about changes in game development that go far beyond a jump in graphics quality. During a press briefing for the company's newly announced Unreal Engine 5, which is optimized to work with next-gen consoles, Sweeney says the PS5 is a “remarkably balanced device.”
-<a href='https://www.theverge.com/21256299/epic-ceo-tim-sweeney-sony-ps5-ssd-impressive-pc-gaming-future-next-gen'> Source <a/>
