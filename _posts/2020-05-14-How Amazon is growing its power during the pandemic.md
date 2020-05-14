@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3eI2FWJQ3ZhtIAmy7RxqLaxqceI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66795925/acastro_190920_1777_amazon_0003.0.0.jpg' width='700px' /><br/>
+There's a lot of discussion going on right now about what will be forever changed by the pandemic. Over at Amazon, though, the company is promising that things are going back to normal.
+<a href='https://www.theverge.com/interface/2020/5/14/21257313/amazon-delivery-times-worker-raises-price-gouging-liability-pandemic'> Source <a/>

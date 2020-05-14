@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cKgTHd0bnS4FbzbUNlA4CKqNe0s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66795902/akrales_180816_2793_0073.0.jpg' width='700px' /><br/>
+Sony has announced the world's first image sensor with integrated AI smarts. The new IMX500 sensor incorporates both processing power and memory, allowing it to perform machine learning-powered computer vision tasks without extra hardware. The result, says Sony, will be faster, cheaper, and more secure AI cameras.
+<a href='https://www.theverge.com/2020/5/14/21258403/sony-image-sensor-integrated-ai-chip-imx500-specs-price'> Source <a/>
