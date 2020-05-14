@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Alienware has announced the second generation of its flagship Area-51m gaming laptop, the Area-51m R2. It's largely similar on the outside to the original Area-51m, but the specs are almost completely overhauled on the inside, with 10th Gen Intel processors, new Nvidia GPUs, faster RAM, and better display options. All of those upgrades will be limited to the new R2 model, though. Despite Alienware's goals for future-proofed upgradable parts, the Area-51m has failed to live up to its potential.
-<a href='https://www.theverge.com/circuitbreaker/2020/5/13/21256845/alienware-area-51m-r1-r2-specs-upgradable-parts-gpu-dgff-limited'> Source <a/>
