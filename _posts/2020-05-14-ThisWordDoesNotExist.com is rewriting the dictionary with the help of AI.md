@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wk9LnHszFVJ4eTDB6d32ZExqWXk=/0x0:5779x3858/1200x800/filters:focal(2428x1467:3352x2391)/cdn.vox-cdn.com/uploads/chorus_image/image/66796416/1178585196.jpg.0.jpg' width='700px' /><br/>
+Want to impress friends and family with your amazing vocabulary? Don't care if the words you spew are actually at all meaningful? If so, I have just the site for you: ThisWordDoesNotExist.com, a one-shot webpage that uses AI to generate an endless stream of plausible babble. Just click the link and hit refresh to learn sweet nothings.
+<a href='https://www.theverge.com/2020/5/14/21258465/thisworddoesnotexist-dictionary-ai-generated-words'> Source <a/>

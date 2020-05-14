@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PNHWoli93rRS4YPns__lVw2Rj0s=/0x0:1173x660/1200x800/filters:focal(494x237:680x423)/cdn.vox-cdn.com/uploads/chorus_image/image/66791303/Screen_Shot_2019_10_15_at_6.23.15_PM.0.png' width='700px' /><br/>
-Epic Games today said its massive battle royale hit Fortnite would be available on Microsoft's Xbox Series X and Sony's PlayStation 5 consoles at launch later this year. Epic made the announcement alongside its reveal of Unreal Engine 5, its new game engine and developer toolkit designed for creating next-generation titles.
-<a href='https://www.theverge.com/2020/5/13/21256140/fortnite-epic-sony-ps5-microsoft-xbox-series-x-next-gen-console-launch-optimize'> Source <a/>
