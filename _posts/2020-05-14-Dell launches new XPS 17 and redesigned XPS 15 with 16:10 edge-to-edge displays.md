@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g8zOR4sNsLo-8hDg5RQE1T59lYg=/0x0:3960x2640/1200x800/filters:focal(1664x1004:2296x1636)/cdn.vox-cdn.com/uploads/chorus_image/image/66790885/dellxps1715.0.jpg' width='700px' /><br/>
-Dell is making some big changes to its XPS lineup today, with a redesigned XPS 15 and a new XPS 17. The design updates see Dell ditching legacy ports in favor of USB-C and 16:10 displays across its main XPS laptops.
-<a href='https://www.theverge.com/2020/5/13/21257006/dell-xps-17-15-redesign-specs-features-update-2020'> Source <a/>

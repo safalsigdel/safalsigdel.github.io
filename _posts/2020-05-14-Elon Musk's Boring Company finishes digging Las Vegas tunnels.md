@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ybNSKIDeRZrgkZpUB5R2yer3GHg=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66795650/Boring_tunnel__2.0.jpg' width='700px' /><br/>
+Elon Musk's Boring Company has completed digging a second tunnel underneath the Las Vegas Convention Center, marking the end of the first phase of the $52.5 million project to build a “people-mover” system to shuttle visitors from one side of the venue to the other. The first of the two tunnels was finished in February.
+<a href='https://www.theverge.com/2020/5/14/21257849/elon-musk-boring-company-las-vegas-tunnel-finished-digging'> Source <a/>
