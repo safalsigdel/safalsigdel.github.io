@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MJyCfm17XViRdNZjugmUQlH8sWw=/0x0:1387x712/1200x800/filters:focal(584x246:804x466)/cdn.vox-cdn.com/uploads/chorus_image/image/66790717/sony_ps5_logo.0.jpg' width='700px' /><br/>
-Sony says PlayStation 5 sales will prove whether its quiet promotion of its next-gen console will beat rival Microsoft. Sony has remained relatively quiet about its PlayStation 5 plans, revealing some specs, a logo, and a controller but no full console reveal or potential games just yet.
-<a href='https://www.theverge.com/2020/5/13/21257068/sony-ps5-sales-xbox-series-x-comparison-next-gen-promotion'> Source <a/>

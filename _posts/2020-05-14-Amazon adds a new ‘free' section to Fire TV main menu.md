@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wwr4JZU6eW6QnhKQo53Tnj0-W68=/0x0:1400x787/1200x800/filters:focal(588x282:812x506)/cdn.vox-cdn.com/uploads/chorus_image/image/66793462/freefiretv.0.png' width='700px' /><br/>
+Finding TV shows and movies that you can stream on Amazon's Fire TV devices for free without any subscriptions is about to get much simpler. The company is adding a new “free” tab to the main Fire TV navigation bar. In this section, you'll be able to browse content that can be viewed at no charge — aside from dealing with ads — from apps like Pluto TV, Tubi, Crackle, IMDb TV, the CW, and Amazon's News app.
+<a href='https://www.theverge.com/2020/5/13/21257293/amazon-fire-tv-free-menu-streaming-movies-tv-shows'> Source <a/>

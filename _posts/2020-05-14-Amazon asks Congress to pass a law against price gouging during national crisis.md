@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xh0a9pFBGIKwrFPG_ILTkgi_K7s=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66794145/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
+Amazon has requested that Congress pass a law that would make price gouging illegal during times of national crisis, in light of inflated prices on crucial goods like hand sanitizer and N95 masks that have hounded the online retailer during the COVID-19 pandemic.
+<a href='https://www.theverge.com/2020/5/13/21257780/amazon-open-letter-congress-pass-law-price-gouging-masks-hand-sanitizer-covid-19'> Source <a/>

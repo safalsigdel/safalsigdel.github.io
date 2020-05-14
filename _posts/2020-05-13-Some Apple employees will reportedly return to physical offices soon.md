@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rRz42hhpo_YBbAo1ODvWpXrf9bg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66788898/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Some Apple employees will return to the company's global offices soon, according to Bloomberg. Apple's decision to bring employees back to its offices — including its Apple Park headquarters in Cupertino, California — contrasts with some other large tech companies, many of which have extended work from home polices due to the ongoing COVID-19 pandemic.
-<a href='https://www.theverge.com/2020/5/12/21256640/apple-employees-return-offices-covid-19-coronavirus'> Source <a/>

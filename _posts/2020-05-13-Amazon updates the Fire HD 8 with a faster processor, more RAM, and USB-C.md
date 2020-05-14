@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Amazon has announced a new update for its Fire HD 8 tablet, adding a faster processor, more RAM, and USB-C charging. These are all welcome updates for the 8-inch tablet, which hasn't seen a meaningful update in years. There's also a new Fire HD 8 Plus model, which offers even more RAM and Qi wireless charging, in a first for any of Amazon's hardware.
-<a href='https://www.theverge.com/circuitbreaker/2020/5/13/21256674/amazon-fire-hd-8-plus-kids-edition-usb-c-wireless-specs'> Source <a/>

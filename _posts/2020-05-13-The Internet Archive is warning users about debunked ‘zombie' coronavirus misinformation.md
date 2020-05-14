@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uEOdzTHq1OQxMKdOltu__FCW03Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66787005/acastro_200428_1777_coronavirus_0001.0.0.jpg' width='700px' /><br/>
-The Internet Archive is alerting users when they've clicked on some stories that were debunked or taken down on the live web, following reports that people were spreading false coronavirus information through its Wayback Machine.
-<a href='https://www.theverge.com/2020/5/12/21256095/internet-archive-warning-flag-coronavirus-misinformation-hoax-videos-zombie'> Source <a/>

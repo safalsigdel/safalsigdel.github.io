@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KJvKAnx352r-nwB51dxAy-3JFBs=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66793433/VRG_ILLO_1777_Huawei_004.0.0.jpg' width='700px' /><br/>
+President Donald Trump has extended his executive order banning US companies from working with or buying telecommunications equipment from companies deemed a national security risk until May 2021, via Reuters.
+<a href='https://www.theverge.com/2020/5/13/21257675/trump-extends-huawei-ban-may-2021-china-us-android-google-telecom'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bw1IDQrRpvyIILc0R2_LYbaHSIs=/0x0:2006x1336/1200x800/filters:focal(875x202:1195x522)/cdn.vox-cdn.com/uploads/chorus_image/image/66792407/Screen_Shot_2020_05_13_at_12.33.40_PM.0.png' width='700px' /><br/>
+Multiple people say Chris Hemsworth's workout app, Centr, charged them up to a $99 or more subscription fee without warning, even after they attempted to cancel a free trial. The app has been flooded with complaints across Instagram, Facebook, and app stores, with users calling the company “sneaky” and a “scam” and demanding refunds.
+<a href='https://www.theverge.com/2020/5/13/21256365/centr-fitness-app-subscription-charge-refund-free-trial-chris-hemsworth'> Source <a/>

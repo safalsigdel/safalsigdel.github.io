@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pdJ-0T2o1o69sIEKH8oupEdWDzY=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/66794456/flashstock_pr_opening_door.0.jpg' width='700px' /><br/>
+Car sharing service Zipcar will now allow people in the US to access a car within minutes of signing up, which Zipcar is calling Instant Access, the company announced today. Previously, it could take days after you first signed up until you'd actually be able to rent one of Zipcar's vehicles.
+<a href='https://www.theverge.com/2020/5/13/21257995/zipcar-instant-access-car-within-minutes-smartphone'> Source <a/>

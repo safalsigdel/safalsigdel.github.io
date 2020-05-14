@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PHSXj7YSJU6AP0jrinQM3CVpuf8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66792335/akrales_170606_1750_0101.0.jpg' width='700px' /><br/>
+Amazon's Eero announced today that its routers are now for sale on Apple's website. The full product line, including the Eero and Eero Pro Mesh Wi-Fi Routers, are available to customers in the US, Canada, UK, Germany, France, Italy, and Spain. Eero did not specify whether its products will be available in Apple's retail stores as they reopen.
+<a href='https://www.theverge.com/2020/5/13/21257391/eero-amazon-routers-apple-store-mesh-wifi-available-now-release'> Source <a/>

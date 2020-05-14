@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q7Mvaym450rwqZntlxJnZEwlTvM=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/66788132/1212814183.jpg.0.jpg' width='700px' /><br/>
-On Tuesday, House Democrats unveiled their latest coronavirus response bill, including a number of measures to keep families and businesses online through the duration of the pandemic.
-<a href='https://www.theverge.com/2020/5/12/21256466/house-democrats-nancy-pelosi-broadband-infrastructure-heroes-act-trillion-billion'> Source <a/>

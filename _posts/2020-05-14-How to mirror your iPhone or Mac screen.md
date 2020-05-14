@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Wa4XJJ5vOWOkqKyJnW-0TiWuHQk=/0x0:1519x887/1200x800/filters:focal(639x323:881x565)/cdn.vox-cdn.com/uploads/chorus_image/image/66791017/airplay2.0.jpg' width='700px' /><br/>
+If you use an iPhone or Mac and you want to cast a video from a specific app on your iPhone or Mac to your TV, you can use AirPlay. However, if you want to cast your whole screen — with all of the windows or applications you may have open — then you'll want to use mirroring.
+<a href='https://www.theverge.com/21252589/tv-mirror-screen-iphone-mac-how-to-apple-airplay-2-cast'> Source <a/>

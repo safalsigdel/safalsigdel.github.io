@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KWqJaUEpPthY072m890kE1ca7PI=/0x0:685x480/1200x800/filters:focal(289x186:397x294)/cdn.vox-cdn.com/uploads/chorus_image/image/66787683/copertina.0.jpg' width='700px' /><br/>
-There's a new iPad-related case in town from Pad & Quill: a case for Apple's newly released Magic Keyboard, which is itself a $350 case for your iPad Pro. It's called the Copertina, and it retails for $99.95. It looks a little bit like the hard cover of a book; it is made, apparently, from archival-quality buckram linen, which is also used in bookbinding. It is undeniably beautiful.
-<a href='https://www.theverge.com/2020/5/12/21256313/pad-quill-ipad-pro-magic-keyboard-case-price-design'> Source <a/>

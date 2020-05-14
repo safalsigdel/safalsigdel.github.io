@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/naD7xbUzstdLY6jtBW7j08SnHzc=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66792112/1197517109.jpg.0.jpg' width='700px' /><br/>
+On Wednesday, Democrats escalated efforts to ban major corporate mergers during the coronavirus pandemic, penning a letter to the Treasury Department calling for a ban on any mergers by companies that received pandemic relief.
+<a href='https://www.theverge.com/2020/5/13/21257396/democrats-corporate-mergers-elizabeth-warren-cicilline-klobuchar-delrahim-jordan-antitrust'> Source <a/>

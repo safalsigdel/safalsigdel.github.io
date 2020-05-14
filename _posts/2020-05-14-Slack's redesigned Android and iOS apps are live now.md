@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IMYc_1ZZ_EisfXhX86akq9tYgSk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66791936/acastro_190412_1777_slack_0001.0.jpg' width='700px' /><br/>
+Slack is making its big mobile redesign official today by pushing the changes live on the public versions of both its Android and iOS apps. The redesign's standout feature is a new navigation bar at the bottom that lets you more easily get to critical parts of the app, such as your direct messages and your mentions, without having to use swipes or tapping through tiny, hard-to-see menus.
+<a href='https://www.theverge.com/2020/5/13/21256702/slack-mobile-redesign-android-ios-apps-available-now-update-release'> Source <a/>

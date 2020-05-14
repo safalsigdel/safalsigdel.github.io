@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sNYfi8j7oDvIfMfciXO_EdPmjCI=/0x0:1120x747/1200x800/filters:focal(471x285:649x463)/cdn.vox-cdn.com/uploads/chorus_image/image/66792132/vpavic_191016_3730_0090.0.jpg' width='700px' /><br/>
+Two key Pixel execs, including the computer researcher who led the team that developed the computational photography powering the Pixel's camera, have left Google in recent months, according to a new report from The Information. The executives who left are distinguished engineer Marc Levoy and former Pixel general manager Mario Queiroz.
+<a href='https://www.theverge.com/2020/5/13/21257297/google-pixel-4-camera-marc-levoy-mario-queiroz-leaving'> Source <a/>

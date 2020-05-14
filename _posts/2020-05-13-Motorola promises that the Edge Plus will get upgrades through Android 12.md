@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yNSZ8rFUyL20T_zGZ9Ydqv7EPwc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66788140/bfarsace_120612_3970_0003_crop.0.jpg' width='700px' /><br/>
-Hot on the heels of updating the foldable Razr to Android 10, Motorola has announced that the soon-to-be-released Edge Plus will also get at least two future Android OS updates, ensuring that the new flagship will run both the pending Android 11 and next year's Android 12 (assuming Google sticks with its naming scheme).
-<a href='https://www.theverge.com/2020/5/12/21256460/motorola-edge-plus-android-updates-11-12-operating-system-os-google'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-A new high-resolution scan of The Night Watch lets you zoom in close enough to see all its small details: brushstrokes, small cracks around the eyes and noses, and even the facial expressions of every character.
-<a href='https://www.theverge.com/tldr/2020/5/12/21255917/rembrandts-night-watch-high-res-painting-scan-released-rijksmuseum'> Source <a/>

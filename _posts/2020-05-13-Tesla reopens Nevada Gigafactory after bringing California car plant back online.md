@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SLTF3uJfhXCJF7sat1XOENUVoB4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66789556/sokane_181114_3101_gigafactory_0014.0.jpg' width='700px' /><br/>
-Tesla is fully reopening the Gigafactory in Nevada, where it makes batteries for its electric cars and energy storage products, as well as parts for the Model 3, according to an internal email viewed by The Verge.
-<a href='https://www.theverge.com/2020/5/12/21256665/tesla-reopens-nevada-gigafactory-after-california-factory'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FuOH-KgljTnAwZ1BJA7oMIQXrJQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66790025/mdoying_180411_2400_0045still.0.jpg' width='700px' /><br/>
-In November 2018 I received a message that changed my life. A person working as a moderator for Facebook in Phoenix through a company called Cognizant asked to get on the phone and talk about some of what he was seeing there. His experiences shocked me, and after I wrote about what he and his colleagues were going through in The Verge, they would go on to shock a lot more people.
-<a href='https://www.theverge.com/interface/2020/5/13/21255994/facebook-content-moderator-lawsuit-settlement-mental-health-issues'> Source <a/>
