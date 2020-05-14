@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gtOKjDVEvSAPekV5qOGWM-JhyE4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66795819/vpavic_052004_4007_0022.0.jpg' width='700px' /><br/>
+People are increasingly buying midrange Android devices over their more premium alternatives, data from research firms suggests. Strategy Analytics reports that Samsung's midrange Galaxy A51 was the bestselling Android phone in the first three months of the year, followed by Xiaomi's Redmi 8. The Galaxy S20 Plus was the only flagship phone in the firm's top-six ranking, where it came in third.
+<a href='https://www.theverge.com/2020/5/14/21258414/best-selling-android-phones-q1-2020-samsung-galaxy-a51-xiaomi-redmi-note-8'> Source <a/>
