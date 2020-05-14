@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XD-Gwi6YAg506CUcTDHOB4N7FLM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66792166/acastro_180109_1777_0001.0.jpg' width='700px' /><br/>
-The FBI alongside the Department of Homeland Security's Cybersecurity and Infrastructure Security Agency (CISA) have formally accused China of funding and operating hacking cells dedicated to stealing coronavirus vaccine research from the US and its allies.
-<a href='https://www.theverge.com/2020/5/13/21257341/us-government-coronavirus-vaccine-china-theft-spy-accuses-fbi-cisa'> Source <a/>
