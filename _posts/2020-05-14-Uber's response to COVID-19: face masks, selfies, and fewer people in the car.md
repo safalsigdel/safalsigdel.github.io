@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5nFge8aiDODYteB-V9MTmW7k37o=/0x0:5352x3463/1200x800/filters:focal(2248x1304:3104x2160)/cdn.vox-cdn.com/uploads/chorus_image/image/66792901/1219233550.jpg.0.jpg' width='700px' /><br/>
-Uber outlined a series of measures it is taking Wednesday to adapt its ride-hailing and delivery businesses to a world changed by COVID-19. Chief among them is a new rule limiting the maximum number of people allowed in each vehicle.
-<a href='https://www.theverge.com/2020/5/13/21257432/uber-face-mask-driver-rider-require-selfies-maximum-passengers'> Source <a/>

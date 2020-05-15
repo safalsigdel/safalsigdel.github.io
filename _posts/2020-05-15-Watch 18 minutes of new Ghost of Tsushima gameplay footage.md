@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zV4x3J-8yi7tN6VDcbO4XJx13yQ=/0x0:1636x882/1200x0/filters:focal(0x0:1636x882):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19978744/Screen_Shot_2020_05_14_at_4.20.14_PM.png' width='700px' /><br/>
+Sucker Punch Productions has released a new 18-minute gameplay trailer for its upcoming open-world samurai game Ghost of Tsushima, showcasing exploration, combat, and customization elements of the game.
+<a href='https://www.theverge.com/2020/5/14/21257728/ghost-of-tsushima-gameplay-footage-trailer-watch-ps4-playstation-sony'> Source <a/>

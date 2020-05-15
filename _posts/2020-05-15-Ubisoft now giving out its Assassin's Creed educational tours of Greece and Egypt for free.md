@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eMl5Tcx9Rrjgk9JVBMiYXS2QLg0=/0x0:1920x1080/1200x800/filters:focal(1008x425:1314x731)/cdn.vox-cdn.com/uploads/chorus_image/image/66800286/Assassin_s_Creed__Origins_20180220132232.0.jpg' width='700px' /><br/>
+Ubisoft is offering free downloads of its educational tours of ancient Greece and ancient Egypt, which are based on the studio's recreations of those worlds in Assassin's Creed Origins and Assassin's Creed Odyssey, the studio announced today. The tours will be free to claim until May 21st.
+<a href='https://www.theverge.com/2020/5/14/21259446/ubisoft-assassins-creed-odyssey-origins-greece-egypt-free-discovery-tours'> Source <a/>

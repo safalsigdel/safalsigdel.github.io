@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xY7MrI0q_H14a9z27A9Fd1-sjvM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66798375/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
+Google's Chrome browser will begin blocking resource-heavy ads starting in late August, the company announced today (via VentureBeat). By not displaying those resource-heavy ads, Chrome could ease the strain on your phone's battery or your home network capacity.
+<a href='https://www.theverge.com/2020/5/14/21258899/google-chrome-block-resource-heavy-ads-loading-august'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/njFL7TjrtTklTw6GTYeKlbFkXcA=/0x0:3341x2549/1200x800/filters:focal(2394x623:2928x1157)/cdn.vox-cdn.com/uploads/chorus_image/image/66795999/831320200.jpg.0.jpg' width='700px' /><br/>
-When he was just 22, Marcus Hutchins rose to fame by single-handedly stopping the spread of WannaCry, a ransomware attack that hit hundreds of thousands of computers worldwide and effectively shut down over a dozen UK hospitals. But within months of stopping it, Hutchins was in police custody. His extraordinary story is the subject of a lengthy new feature in Wired, and it's absolutely worth a read in its entirety.
-<a href='https://www.theverge.com/2020/5/14/21258438/marcus-hutchins-wannacry-profile-wired-go-read-this-malware-kronos'> Source <a/>

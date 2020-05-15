@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XE_olMGyZm-9RWO-BI0sIfV9L4U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66792427/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google is adding a new tab grouping feature to Chrome, the company announced today. I, for one, am extremely excited for it. I can already see how it could help me better organize the dozens of tabs I typically have open at any given time. If you want to try the feature now, Google says it's available in the latest Chrome Beta and will be rolling out more broadly to the desktop versions of Chrome next week.
-<a href='https://www.theverge.com/2020/5/13/21257446/google-chome-tab-grouping-feature'> Source <a/>

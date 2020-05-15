@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ir5G281vm_Ex7OZNJ2pV6lEU8lg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66799982/vpavic_190322_3297_0034.0.jpg' width='700px' /><br/>
+Apple is planning to launch a new 10.8-inch iPad and a new iPad mini with a screen that could be as large as 9 inches, according to a new investor note from Apple analyst Ming-Chi Kuo obtained by MacRumors. The note also mentions a potential 2022 release date for Apple's rumored augmented reality glasses.
+<a href='https://www.theverge.com/2020/5/14/21259365/apple-10-8-9-inch-ipad-mini-ming-chi-kuo-ar-glasses-headset'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7iStMnoXhtpGKw53WeXGlpckVVA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66797550/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+A group of child privacy advocates has filed a complaint against TikTok with the Federal Trade Commission, claiming the video app violated an agreement to protect children on its platform, The New York Times reported.
+<a href='https://www.theverge.com/2020/5/14/21258502/tiktok-complaint-child-privacy-ftc'> Source <a/>

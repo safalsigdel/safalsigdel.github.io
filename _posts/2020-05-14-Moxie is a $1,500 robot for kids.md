@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y2KtFPeqHN4R4U11joYhRJG9_I8=/0x0:810x456/1200x800/filters:focal(341x164:469x292)/cdn.vox-cdn.com/uploads/chorus_image/image/66794095/MOX01169.0.jpg' width='700px' /><br/>
-The latest educational tech comes in the form of a seven-pound robot that looks like something ripped out of a Pixar movie. Moxie, an adorable educational robot, is designed for teaching kids at home. But it's expensive: the robot itself is $1,500, and it requires a $60 monthly subscription after the first year.
-<a href='https://www.theverge.com/2020/5/13/21257821/moxie-robot-kids-educational-tech-embodied-price'> Source <a/>

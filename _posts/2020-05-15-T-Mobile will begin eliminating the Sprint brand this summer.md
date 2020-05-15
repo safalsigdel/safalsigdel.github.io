@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ehjEOTZZwmE8imX5SnAYKvF4wJc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66797746/acasatro_180430_1777_sprint_Tmobile_0003.0.jpg' width='700px' /><br/>
+T-Mobile and Sprint are preparing to take the next step in merging their wireless companies, with the two brands reportedly planning to merge their customers and retail stores under a single T-Mobile banner this summer, via Fierce Wireless. In other words: the end of Sprint is near.
+<a href='https://www.theverge.com/2020/5/14/21258670/tmobile-eliminating-sprint-brand-summer-merger-customers-retail-stores'> Source <a/>

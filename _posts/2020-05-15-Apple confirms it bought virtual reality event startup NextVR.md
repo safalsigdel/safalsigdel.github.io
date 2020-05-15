@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A56SNmsxq8pg_GwbQxOw5KwmAk4=/0x0:840x485/1200x800/filters:focal(263x195:397x329)/cdn.vox-cdn.com/uploads/chorus_image/image/66798781/nextvr.0.0.jpeg' width='700px' /><br/>
+Apple has confirmed it did indeed purchase virtual reality company NextVR, which specializes in recording live events like concerts and sports matches to be experienced in VR, according to Bloomberg. The company's confirmation arrives after 9to5Mac first reported the acquisition in early April.
+<a href='https://www.theverge.com/2020/5/14/21211254/apple-confirms-nextvr-acquisition-purchase-vr-virtual-reality-company'> Source <a/>

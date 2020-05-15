@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5axnnqgIh1HlVCK_edKKpGhWBUE=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/66794227/razer_face_masks.0.jpg' width='700px' /><br/>
-Gaming accessory maker Razer says it will place 20 face mask vending machines in Singapore by June 1st to help the city-state, where the company's global operations are based, in its COVID-19 relief efforts, Reuters reports.
-<a href='https://www.theverge.com/2020/5/13/21257909/razer-singapore-face-mask-vending-machine-manufacturing-line'> Source <a/>
