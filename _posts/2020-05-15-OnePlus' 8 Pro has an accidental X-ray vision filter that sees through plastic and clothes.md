@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0wUlL7UJ2SjzJxdvw_3RHFWovHQ=/0x0:1355x900/1200x800/filters:focal(570x342:786x558)/cdn.vox-cdn.com/uploads/chorus_image/image/66801056/xray_oneplus_ben_geskine.0.png' width='700px' /><br/>
+Well, here's a camera trick we've not seen in a smartphone before: X-ray vision. Or, at least, something that looks very much like it. It's a feature of the new OnePlus 8 Pro, which seems to use the phone's infrared sensors to see through a small subset of black materials.
+<a href='https://www.theverge.com/2020/5/15/21259723/oneplus-8-pro-x-ray-vision-infrared-filter-see-through-plastic'> Source <a/>
