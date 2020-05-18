@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LpiHwc2H0RSSw2xMyepPtAWppzs=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66802622/VRG_ILLO_1777_Huawei_004.0.0.jpg' width='700px' /><br/>
-The US Commerce Department has taken another step toward cutting off Chinese telco Huawei from the overseas companies that make its semiconductors. An amended export rule would block shipments of semiconductors to Huawei to “strategically target Huawei's acquisition of semiconductors that are the direct product of certain US software and technology,” the agency announced on Friday.
-<a href='https://www.theverge.com/2020/5/15/21259814/us-commerce-huawei-chip-manufacturers-5g'> Source <a/>

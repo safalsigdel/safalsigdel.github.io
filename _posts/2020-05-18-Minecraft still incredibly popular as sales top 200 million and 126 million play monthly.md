@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/knQ8JkrNCLHYs4OxBpZoAeEEHpQ=/0x0:1100x774/1200x800/filters:focal(462x299:638x475)/cdn.vox-cdn.com/uploads/chorus_image/image/66810361/Minecraft-360.0.jpg' width='700px' /><br/>
+Minecraft sales have officially topped 200 million, with 126 million people playing the game monthly. Microsoft is detailing the latest sales figures just as Mojang Studios celebrates 11 years since the first Minecraft alpha build was originally released.
+<a href='https://www.theverge.com/2020/5/18/21262045/minecraft-sales-monthly-players-statistics-youtube'> Source <a/>
