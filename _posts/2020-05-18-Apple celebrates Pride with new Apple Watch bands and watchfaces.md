@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DI7W7BslXrKR6RcK0QagEfe4icU=/0x0:1959x1306/1200x800/filters:focal(824x497:1136x809)/cdn.vox-cdn.com/uploads/chorus_image/image/66811208/pridewatch2020.0.jpg' width='700px' /><br/>
+Apple has released two new colorful watch bands and faces to commemorate Pride month, which begins in June.
+<a href='https://www.theverge.com/2020/5/18/21262137/apple-watch-2020-pride-bands-watchfaces'> Source <a/>
