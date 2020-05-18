@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0mvQiinRL8RvtHe4E-B4nHq766o=/0x0:1920x1279/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/66810307/microsoftloveslinux.0.0.jpg' width='700px' /><br/>
+Microsoft has admitted it was wrong about open source, after the company battled it and Linux for years at the height of its desktop domination. Former Microsoft CEO Steve Ballmer famously branded Linux “a cancer that attaches itself in an intellectual property sense to everything it touches” back in 2001.
+<a href='https://www.theverge.com/2020/5/18/21262103/microsoft-open-source-linux-history-wrong-statement'> Source <a/>

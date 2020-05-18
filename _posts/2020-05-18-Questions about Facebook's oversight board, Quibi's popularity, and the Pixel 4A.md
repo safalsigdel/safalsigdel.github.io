@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/130UY61h1GFCbYiQUU2MP1-P_Ao=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66802620/wjoel_180319_2394_facebook_006.0_1.0.jpg' width='700px' /><br/>
-On this episode of The Vergecast, hosts Nilay Patel and Dieter Bohn welcome on a few of our colleagues to discuss the week's important stories.
-<a href='https://www.theverge.com/2020/5/15/21259854/facebook-oversight-board-pixel-4a-streaming-wars-quibi-hbo-max-vergecast-405'> Source <a/>
