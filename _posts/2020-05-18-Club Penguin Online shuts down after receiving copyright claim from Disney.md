@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DPssYbrcRhouEUwbyk_pnxR1f-0=/0x7:2176x1362/1200x800/filters:focal(1912x301:2274x663)/cdn.vox-cdn.com/uploads/chorus_image/image/66803022/Screen_Shot_2020_05_15_at_9.59.00_AM.0.png' width='700px' /><br/>
+Club Penguin Online, one of the largest Club Penguin fan servers, shut down Friday after The Walt Disney Company issued a Digital Millennium Copyright Act (DMCA) takedown notice earlier this week. According to BBC, a London man involved with the server was arrested on suspicion of child pornography.
+<a href='https://www.theverge.com/2020/5/15/21260122/club-penguin-dmca-disney-takedown-cponline-online'> Source <a/>

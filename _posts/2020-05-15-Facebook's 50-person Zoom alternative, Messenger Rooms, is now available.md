@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7ElZPeBeHneMLXRo85Y98evfv5U=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66799125/Messenger_Rooms_Desktop_1.0.jpg' width='700px' /><br/>
-Facebook's new video chat product, Messenger Rooms, is now available to everyone on both mobile and desktop, the company announced on Thursday. The product is a more feature-rich and expanded version of the existing Facebook Messenger's video calling function, and it allows up to 50 people to chat on video with no time limit through either the main Facebook app or through the dedicated Messenger one.
-<a href='https://www.theverge.com/2020/5/14/21259115/facebook-messenger-rooms-zoom-video-chat-available-now-release'> Source <a/>

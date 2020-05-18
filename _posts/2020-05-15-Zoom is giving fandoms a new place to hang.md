@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r_SFCOT_OmFzCSxg7_DbwWTCdzg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66796989/acastro_200513_4021_zoomFandom_0001.0.jpg' width='700px' /><br/>
-A slow song comes on, and phone flashlights light up across a series of Zoom tiles, swaying like they would at a concert.
-<a href='https://www.theverge.com/21252160/fan-meetups-zoom-fandom-tumblr-twitter-internet-friends-5sos-harry-styles-crafting'> Source <a/>

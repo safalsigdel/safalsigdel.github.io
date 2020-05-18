@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tL6ZIQjDv5VSFDa9aO5YkcLdWko=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66808820/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
+The US Secret Service says it is investigating a Nigerian crime ring that has been using Americans' stolen identities to file fraudulently for unemployment benefits, according to Krebs on Security. Authorities say members of the ring were able to exploit weak security measures within many states' unemployment systems at a time when millions of Americans are applying for benefits.
+<a href='https://www.theverge.com/2020/5/17/21261697/secret-service-crime-unemployment-fraud-coronavirus'> Source <a/>

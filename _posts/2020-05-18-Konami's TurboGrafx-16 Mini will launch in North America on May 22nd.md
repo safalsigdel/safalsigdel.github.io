@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iQrbhSXQALYyp1ofhpcw6OfgD6k=/0x0:1280x827/1200x800/filters:focal(538x312:742x516)/cdn.vox-cdn.com/uploads/chorus_image/image/66803731/1280px-TurboGrafx16-Console-Set.0.0.jpg' width='700px' /><br/>
+The TurboGrafx-16 Mini will launch in North America on May 22nd.
+<a href='https://www.theverge.com/2020/5/15/21260270/turbografx-16-north-america-release-date-konami-minature-console'> Source <a/>

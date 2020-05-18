@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EhcDVXbqn32pZgJSEevCAQA8bsA=/0x0:3840x2160/1200x800/filters:focal(1619x309:2233x923)/cdn.vox-cdn.com/uploads/chorus_image/image/66797421/448_3840.0.jpg' width='700px' /><br/>
-After a more than eight-hour outage, the Epic Games Store appears to finally be back online, meaning you should finally be able to claim Rockstar's smash hit Grand Theft Auto V for free until May 21st.
-<a href='https://www.theverge.com/2020/5/14/21258043/epic-games-store-down-gta-5-grand-theft-auto-free-pc'> Source <a/>

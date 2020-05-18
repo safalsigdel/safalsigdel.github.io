@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PskenSCWlEA0vTKAygD57WRV3Jk=/0x0:5568x3712/1200x800/filters:focal(1723x655:2613x1545)/cdn.vox-cdn.com/uploads/chorus_image/image/66808137/1051890164.jpg.0.jpg' width='700px' /><br/>
+Dyson's canceled electric vehicle was known internally as the N526, would have had a 600-mile range per charge and could go from zero to 62 mph in 4.8 seconds, company founder James Dyson said in an interview with the (London) Sunday Times. James Dyson says he even drove the prototype of the SUV-style vehicle, meant to rival Tesla's electric vehicles, “secretly in a screened-off compound.”
+<a href='https://www.theverge.com/2020/5/17/21261473/james-dyson-electric-vehicle-tesla'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F3Vuc0JqfGwkfri1dl1D2QdHW_0=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66805225/1197634661.jpg.0.jpg' width='700px' /><br/>
+A bipartisan group of senators are sounding the antitrust enforcement alarm Friday over Facebook's newly announced acquisition of Giphy, a GIF-making and sharing website.
+<a href='https://www.theverge.com/2020/5/15/21260653/facebook-giphy-acquisition-merger-elizabeth-warren-amy-klobuchar-josh-hawley-senate-antitrust'> Source <a/>

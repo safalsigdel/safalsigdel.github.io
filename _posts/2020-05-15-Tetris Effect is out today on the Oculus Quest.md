@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uMv2ExOXN7BjVoV4NeoSsRPqv8U=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/66798051/deepsea.0.jpg' width='700px' /><br/>
-Tetris Effect, the trippy musical VR take on Tetris that won plaudits in 2018 from people like... me, is now available on the Oculus Quest headset. The game was originally released for the PlayStation 4 and came to the Epic Games Store on PC last year. Tetris Effect is one of the most beloved VR games out there and the Oculus Quest is my favorite VR headset, so I would describe this as good news.
-<a href='https://www.theverge.com/2020/5/14/21258435/tetris-effect-oculus-quest-release-review'> Source <a/>

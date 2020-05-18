@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m21r-VykR3QK67M5HZM0gAgucsQ=/0x0:2880x1490/1200x675/filters:focal(1210x515:1670x975)/cdn.vox-cdn.com/uploads/chorus_image/image/66796457/Sidewalk_Labs___Housing_Vision.0.png' width='700px' /><br/>
-Last week, Google's parent company abandoned plans for an experimental “city-within-a-city” in Toronto. Sidewalk Labs had spent years designing a futuristic overhaul of the Quayside neighborhood, complete with modular buildings, self-driving cars, and streets that could be adapted quickly to the district's changing needs.
-<a href='https://www.theverge.com/21257195/alphabet-sidewalk-labs-minnesota-experimental-city-technoutopian-city-failures'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TvxqFjYJITvTeCyKhU-E1BkM2Do=/0x0:1800x1013/1200x800/filters:focal(756x363:1044x651)/cdn.vox-cdn.com/uploads/chorus_image/image/66803267/BL3_FL4K_Skag.0.jpg' width='700px' /><br/>
+Epic Games has launched a month-long Mega Sale for its online store.
+<a href='https://www.theverge.com/2020/5/15/21260139/epic-games-store-sale-deals-discounts-gta-borderlands'> Source <a/>

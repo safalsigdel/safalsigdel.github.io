@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qoQUeVE-ezA7LlJAmxZ5XutUhPs=/0x0:1000x428/1200x0/filters:focal(0x0:1000x428):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19974314/ai_song_contest_winners.jpg' width='700px' /><br/>
-A team of programmers and songwriters from Australia have won the inaugural (and unofficial) AI ‘Eurovision Song Contest', using a neural network trained on noises made by koalas, kookaburras, and Tasmanian devils to help score their winning entry.
-<a href='https://www.theverge.com/2020/5/14/21258493/ai-eurovision-song-contest-australia-winning-entry-uncanny-valley'> Source <a/>

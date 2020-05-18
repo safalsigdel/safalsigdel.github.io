@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_V1xEWOuK4Pw342_3Mz0FwbEEJc=/0x0:3200x1600/1200x800/filters:focal(1275x523:1787x1035)/cdn.vox-cdn.com/uploads/chorus_image/image/66802652/curbside_customer_2x.0.png' width='700px' /><br/>
+Postmates is launching new feature for its on-demand delivery platform called curbside pickup, which the company says is an industry first that could help more restaurants safely operate takeout businesses during the COVID-19 pandemic.
+<a href='https://www.theverge.com/2020/5/15/21259321/postmates-curbside-pickup-restaurants-on-demand-food-delivery-covid-19-safety'> Source <a/>

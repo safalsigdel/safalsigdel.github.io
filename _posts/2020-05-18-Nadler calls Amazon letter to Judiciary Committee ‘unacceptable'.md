@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iGZtXud23XIo6MRN2kewEyG_tE8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66806717/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
+A Friday letter from Amazon to members of Congress looking into the company's third-party seller practices was “unacceptable,” House Judiciary Committee Chairman Jerry Nadler (D-NY) tweeted Saturday.
+<a href='https://www.theverge.com/2020/5/16/21260981/nadler-amazon-bezos-seller-judiciary'> Source <a/>

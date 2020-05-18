@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/00w3E69cTzHPbqsWtcoH2xSOv5I=/0x0:1600x1241/1200x800/filters:focal(672x493:928x749)/cdn.vox-cdn.com/uploads/chorus_image/image/66798575/face_shield_bigger.0.png' width='700px' /><br/>
-A team of Amazon engineers from its drone delivery unit worked with a group of 3D printing volunteers to develop reusable face shields for frontline workers, the company announced in a blog post Thursday.
-<a href='https://www.theverge.com/2020/5/14/21258868/amazon-engineers-face-shields-frontline-workers-coronavirus'> Source <a/>

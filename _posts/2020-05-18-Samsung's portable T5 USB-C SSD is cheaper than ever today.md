@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QDmU3YX0YwKqISUOEEOgK7quPC8=/0x0:2040x1360/1200x800/filters:focal(942x562:1268x888)/cdn.vox-cdn.com/uploads/chorus_image/image/66802594/akrales_190430_3393_0036.0.jpg' width='700px' /><br/>
+Samsung's T5 USB-C solid-state drive is one of the most compact portable drives that you can buy, and it's even more affordable than usual today. The 500GB model usually costs around $100, but today, you can get it for $80 at Amazon and Best Buy. The 1TB model that normally costs $200 is down to $150 at Best Buy. The T5 includes a USB-C to USB-C cable as well as a USB-C to USB Type-A cable.
+<a href='https://www.theverge.com/good-deals/2020/5/15/21259897/samsung-portable-t5-ssd-apple-ipad-microsoft-surface-laptop-3-deal-sale'> Source <a/>

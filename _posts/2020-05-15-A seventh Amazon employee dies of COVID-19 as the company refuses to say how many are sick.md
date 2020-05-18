@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bs0Ovzp6qqM2PKvRrSX2SaoB6uw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66800238/acastro_200319_1777_amazonCorona_0001.0.jpg' width='700px' /><br/>
-An Amazon warehouse worker in Indianapolis, Indiana, has died of COVID-19, the company confirmed.
-<a href='https://www.theverge.com/2020/5/14/21259474/amazon-warehouse-worker-death-indiana'> Source <a/>

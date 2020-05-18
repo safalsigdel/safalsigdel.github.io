@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZXo1S9HKPSdM07jamfgA6QPzo8I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66803622/akrales_190424_3301_0426.0.jpg' width='700px' /><br/>
+Buying a refurbished tech product will save you money compared to buying it new. It also gives a device a second life instead of sending it off to be recycled. And especially during these times when demand is high for all kinds of tech, buying refurbished is sometimes the only way to get your hands on a product when retail channels are strained or just completely out of new merchandise.
+<a href='https://www.theverge.com/21258681/refurbished-tech-products-gadgets-how-to-buy-used-repair-e-waste'> Source <a/>

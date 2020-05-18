@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vcXI58omnLVoFZF3KPt80Wtb59s=/0x0:4608x3456/1200x800/filters:focal(1936x1360:2672x2096)/cdn.vox-cdn.com/uploads/chorus_image/image/66799488/1068225110.jpg.0.jpg' width='700px' /><br/>
-Taiwan Semiconductor Manufacturing Co. (TSMC), which makes Apple's A-series chips, plans to build an advanced chip factory in Arizona. The news was first reported yesterday by The Wall Street Journal and confirmed by TSMC today.
-<a href='https://www.theverge.com/2020/5/14/21259094/apple-tsmc-factory-chips-arizona-a-series'> Source <a/>

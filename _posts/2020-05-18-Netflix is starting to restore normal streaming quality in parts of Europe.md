@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WmNDvkdKyADO13SkLT0gCVzP554=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66802778/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+Netflix is working to restore streaming quality in various European countries following government requests for the company to reduce bandwidth usage out of fear that it was putting too much stress on broadband connections.
+<a href='https://www.theverge.com/2020/5/15/21259954/netflix-streaming-quality-europe-bitrate-pandemic'> Source <a/>

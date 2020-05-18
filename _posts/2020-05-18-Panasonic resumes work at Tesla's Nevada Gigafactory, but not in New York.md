@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VuFBQ0JnYpioodxduo6Og-B1IJg=/0x0:2764x1424/1200x800/filters:focal(1161x491:1603x933)/cdn.vox-cdn.com/uploads/chorus_image/image/66805080/Screen_Shot_2020_05_15_at_5.41.06_PM.0.png' width='700px' /><br/>
+Panasonic has resumed its work making battery cells at Tesla's Gigafactory outside Reno, Nevada, the company tells The Verge. But Panasonic will not return to work at Tesla's Buffalo, New York solar panel factory this weekend as planned.
+<a href='https://www.theverge.com/2020/5/15/21260536/panasonic-reopens-tesla-nevada-gigafactory-buffalo-new-york'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CnZ9r-hahsEmrqMIDzGCI-zVl6c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66809428/akrales_190919_3670_0213.0.jpg' width='700px' /><br/>
+Apple's head of retail Deidre O'Brien has posted a letter on the company's website detailing how it plans to safely restart operations at its retail stores. Apple shut all of its stores outside Greater China in March as COVID-19 spread worldwide; all the Greater China stores reopened that same month, while Apple is still in the process of taking careful steps elsewhere.
+<a href='https://www.theverge.com/2020/5/17/21261921/apple-stores-reopening-plans-us-locations'> Source <a/>

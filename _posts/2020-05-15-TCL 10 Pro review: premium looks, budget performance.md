@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9323/D3680101-05A3-49AE-A68F-1C85647E8841.jpeg' width='700px' /><br/>
-You've probably already heard of TCL thanks to their surprisingly good Roku-powered TVs, but you're much less likely to think of them as a phone manufacturer. That's because while TCL has certainly made its fair share of phones over the years, it's tended to put other brands' names on them, like the BlackBerry Key2.
-<a href='https://www.theverge.com/21257398/tcl-10-pro-review-release-date-specs-features-camera-screen'> Source <a/>

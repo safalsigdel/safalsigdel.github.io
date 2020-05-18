@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h5u2Ufh-Pr-1ngZGDm-Yxw_H5o4=/0x0:3200x2129/1200x800/filters:focal(1344x809:1856x1321)/cdn.vox-cdn.com/uploads/chorus_image/image/66796448/1208499003.jpg.0.jpg' width='700px' /><br/>
-Intel unveiled its environmental goals for 2030 today, committing to cut down its greenhouse gas emissions and waste. By the end of the decade, the company aims to rely on renewable energy for all of its global electricity use and eliminate the trash it's sending to landfills.
-<a href='https://www.theverge.com/2020/5/14/21257746/intel-climate-change-environment-goals-2030'> Source <a/>
