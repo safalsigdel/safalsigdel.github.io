@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/16Z6Y18_UptxsOmGoA_EpKRB1iw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66809826/acastro_190521_1777_huawei_0001.0.0.jpg' width='700px' /><br/>
+Huawei rotating chairman Guo Ping has hit back at the US government's stricter export controls intended to stop the Chinese tech giant from obtaining essential chips, following reports that its biggest supplier has already cut it off. “We still haven't figured it out,” Guo said on stage at Huawei's annual analyst summit. “The US government still persists in attacking Huawei, but what will that bring to the world?”
+<a href='https://www.theverge.com/2020/5/18/21262042/huawei-us-export-tsmc-chip-manufacture'> Source <a/>

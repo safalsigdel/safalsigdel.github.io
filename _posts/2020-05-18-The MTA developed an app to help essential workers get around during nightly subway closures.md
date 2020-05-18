@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GMGMn4aHsp9-kVxe_o5VGrxXP3Q=/0x0:5599x3733/1200x800/filters:focal(2353x1420:3247x2314)/cdn.vox-cdn.com/uploads/chorus_image/image/66802341/1223290511.jpg.0.jpg' width='700px' /><br/>
-New York City's subway system has a new app to help essential workers get around during nightly subway closures.
-<a href='https://www.theverge.com/2020/5/15/21259761/mta-subway-shutdown-night-app-essential-workers'> Source <a/>
