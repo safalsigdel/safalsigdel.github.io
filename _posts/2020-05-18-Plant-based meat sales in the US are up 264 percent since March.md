@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zqXFHDmBK36ejs3E3cOLkXhtgn4=/0x0:5762x4024/1200x800/filters:focal(2022x1818:2942x2738)/cdn.vox-cdn.com/uploads/chorus_image/image/66803294/1183778274.jpg.0.jpg' width='700px' /><br/>
-While treats like chips, popcorn, and ice cream (and for some reason, oat milk) topped grocery purchases during the first few weeks of COVID-19 lockdowns, more Americans continue to turn to a different comfort food: plant-based meat alternatives.
-<a href='https://www.theverge.com/2020/5/15/21259997/plant-based-meat-coronavirus-impossible-beyond'> Source <a/>
