@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N0T71qSRVzgyHCnqkFtk03Ovpmc=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/66810951/BubbleHands.0.jpg' width='700px' /><br/>
+Oculus is bringing the Quest's experimental hand tracking system out of beta, making it an official feature of the VR headset. The Quest got hand tracking options late last year but only for the main Oculus menu and a few built-in applications. Now, it's going to be appearing in third-party games and apps starting later this month.
+<a href='https://www.theverge.com/2020/5/18/21260554/oculus-quest-anniversary-hand-tracking-third-party-games-beat-saber-tracks'> Source <a/>
