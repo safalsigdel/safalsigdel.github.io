@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LJyy7a6F37AV5RmA_vm9mFv-Q4I=/0x0:843x563/1200x800/filters:focal(355x215:489x349)/cdn.vox-cdn.com/uploads/chorus_image/image/66814314/ISOCELL_GN1_main1.0.jpg' width='700px' /><br/>
+Samsung has announced a new 50-megapixel camera sensor called the ISOCELL GN1. It's Samsung's first sensor to include both dual-pixel autofocus and Tetracell pixel-binning, which the company says should offer a combination of fast performance and good low-light image quality.
+<a href='https://www.theverge.com/2020/5/18/21263245/samsung-isocell-gn1-sensor-faster-autofocus-tetracell-50mp'> Source <a/>

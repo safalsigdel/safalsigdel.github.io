@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qlZV5nV7w1n7QQ8GACkE5rhNn7g=/0x0:1600x1112/1200x800/filters:focal(672x428:928x684)/cdn.vox-cdn.com/uploads/chorus_image/image/66810016/CLAB_Spinoff_SunnyFive1_dl8.0.jpg' width='700px' /><br/>
-The latest crop of startups backed by Samsung's in-house incubator C-Labs includes SunnyFive, makers of an artificial window that supposedly delivers all the benefits of natural sunlight.
-<a href='https://www.theverge.com/2020/5/18/21262050/samsung-startup-artificial-window-sunlight-sunnyfive-c-labs'> Source <a/>
