@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-I didn't go into today thinking that I would be awed by a sudoku puzzle. But after a tweet popped up on my timeline promising that I would not only watch a man spend nearly half an hour solving a puzzle, but that it would be “the highlight of my day,” I was intrigued. The result is one of the most incredibly satisfying videos I've ever seen.
-<a href='https://www.theverge.com/tldr/2020/5/18/21262771/sudoku-puzzle-cracking-the-cryptic-watch-this-video-simon-anthony'> Source <a/>

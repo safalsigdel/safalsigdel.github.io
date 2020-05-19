@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TihaZ_SeqfGY1oZjMDgpnXZ3Jfo=/0x0:1800x1200/1200x800/filters:focal(893x434:1181x722)/cdn.vox-cdn.com/uploads/chorus_image/image/66813647/BBCTogether_4.0.jpg' width='700px' /><br/>
-BBC is launching a new experimental tool, BBC Together, that will let you watch or listen to BBC programming with others over the internet, with everyone seeing the same thing on-screen at the same time. It sounds a lot like Netflix Party but for BBC content.
-<a href='https://www.theverge.com/2020/5/18/21262847/bbc-together-netflix-party-iplayer-sounds-bitesize-news-sport-taster'> Source <a/>

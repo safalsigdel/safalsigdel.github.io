@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/909bM6boOGOCUXhm0ruBXV0NmvY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66814379/vpavic_191202_3827_0009.0.jpg' width='700px' /><br/>
-Self-driving cars are having a really rough time gaining our trust.
-<a href='https://www.theverge.com/2020/5/19/21262576/self-driving-cars-poll-av-perception-trust-skepticism-pave'> Source <a/>

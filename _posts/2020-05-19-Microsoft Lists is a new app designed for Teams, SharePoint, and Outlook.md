@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qf_f_945jPEuTtBuWoFFVvG-XrE=/0x0:1569x1043/1200x0/filters:focal(0x0:1569x1043):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19986189/yPHPTBb.png' width='700px' /><br/>
+Microsoft is creating a new lists app for businesses that use its Microsoft 365 services. Not to be confused with To Do, Microsoft's consumer lists app, Microsoft Lists is designed to be the next evolution of SharePoint Lists. SharePoint users have been using lists for years to track issues and organize information, and Microsoft Lists will work across Microsoft Teams, SharePoint, and Outlook.
+<a href='https://www.theverge.com/2020/5/19/21263400/microsoft-lists-app-sharepoint-teams-outlook-integration-web-app-build'> Source <a/>

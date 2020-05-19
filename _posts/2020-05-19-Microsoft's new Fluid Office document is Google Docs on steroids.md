@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nbOobBcKmqnMYfWqwEOAGcnVBb0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66816015/acastro_200514_4022_microsoftFluid_0001.0.jpg' width='700px' /><br/>
+Microsoft is creating a new kind of Office document. Instead of Word, Excel, or PowerPoint, the company has created Lego blocks of Office content that live on the web. The tables, graphs, and lists that you typically find in Office documents are transforming into living, collaborative modules that exist outside of traditional documents.
+<a href='https://www.theverge.com/2020/5/19/21260005/microsoft-office-fluid-web-document-features-build'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kNnPhL9rLlTNAieeMklrpPMiVag=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/66815980/mswindows2_2040.0.0.jpg' width='700px' /><br/>
+Microsoft has been working to bring win32 desktop apps and its Universal Windows Platform (UWP) apps closer together in recent years. That work has an official name now: Project Reunion. It's the latest twist in Microsoft's promise of universal apps that run across multiple Windows 10 devices, and Microsoft is now referring to traditional desktop apps and UWP ones as simply “Windows apps.”
+<a href='https://www.theverge.com/2020/5/19/21258697/microsoft-windows-project-reunion-win32-uwp-apps-apis-build'> Source <a/>

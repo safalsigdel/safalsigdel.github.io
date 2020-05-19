@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wJean0YBPkb9W80Um3QFg0Q7EHk=/0x0:2060x1266/1200x800/filters:focal(866x469:1194x797)/cdn.vox-cdn.com/uploads/chorus_image/image/66812588/Screen_Shot_2020_05_18_at_3.21.50_PM.0.png' width='700px' /><br/>
-Instagram is launching a new Guides feature today that lets creators curate content together in a single location, with the first ones set to focus on wellness content in light of the ongoing COVID-19 pandemic.
-<a href='https://www.theverge.com/2020/5/18/21262617/instagram-guides-recommendations-wellness-covid-19-coronavirus-mental-health'> Source <a/>

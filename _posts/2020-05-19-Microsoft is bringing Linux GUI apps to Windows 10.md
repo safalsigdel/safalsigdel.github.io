@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S-lIasdHRrQoohKiDZP07_cVD00=/0x0:1219x852/1200x800/filters:focal(513x329:707x523)/cdn.vox-cdn.com/uploads/chorus_image/image/66816079/windowslinux.0.jpg' width='700px' /><br/>
+Microsoft is promising to dramatically improve its Windows Subsystem for Linux (WSL) with GUI app support and GPU hardware acceleration. The software giant is adding a full Linux kernel to Windows 10 with WSL version 2 later this month, and it's now planning to support Linux GUI apps that will run alongside regular Windows apps.
+<a href='https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features'> Source <a/>

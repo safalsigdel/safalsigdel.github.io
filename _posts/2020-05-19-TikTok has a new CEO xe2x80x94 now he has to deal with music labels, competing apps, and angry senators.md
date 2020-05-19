@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FDLY6YXqJsH64pbZ87-m0P66PFE=/0x0:4992x3328/1200x800/filters:focal(1933x559:2731x1357)/cdn.vox-cdn.com/uploads/chorus_image/image/66816187/1169854529.jpg.0.jpg' width='700px' /><br/>
+Kevin Mayer, once heir apparent to the Disney throne, is leaving the House of Mouse to run a different kind of entertainment company: TikTok.
+<a href='https://www.theverge.com/2020/5/19/21263009/kevin-mayer-tiktok-ceo-disney-plus-creators-ip-regulation-politics-google-facebook'> Source <a/>
