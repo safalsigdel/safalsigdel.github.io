@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZTtAS3PS5jeQnezu8Q5bihaMXJk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66814767/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-On Friday, Facebook made its fifth-largest known acquisition ever. The company bought Giphy, a database and search engine for the short looping videos known as GIFs, for $400 million. Today let's talk about some of the reasons, stated and unstated, that Facebook bought Giphy, and then consider what might come next.
-<a href='https://www.theverge.com/interface/2020/5/19/21262451/facebook-giphy-acquisition-gif-instagram-whatsapp'> Source <a/>

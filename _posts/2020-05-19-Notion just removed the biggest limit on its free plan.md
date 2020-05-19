@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9akEJBKGAknKZwiKNI3I_NFCDCs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66816350/akrales_180824_2908_0071.0.jpg' width='700px' /><br/>
+Notion, the workspace and note-taking app, just became much more appealing to individual users. The company said today that people on its free plan will now be able to create unlimited notes, making it a top contender for anyone in the market for a sophisticated note-taking app or collaboration software.
+<a href='https://www.theverge.com/2020/5/19/21261811/note-taking-app-notion-free-plan-personal-use-unlimited-blocks'> Source <a/>

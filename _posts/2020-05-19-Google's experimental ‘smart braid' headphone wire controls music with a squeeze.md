@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-From touch-sensitive jean jackets to radar controls in smartphones, Google has always had a penchant for weird and wonderful user interfaces. Its latest is the “I/O braid” — a textile UI that lets users control electronics by pinching, patting, squeezing, or swiping a fabric cord.
-<a href='https://www.theverge.com/2020/5/19/21263386/google-io-braid-experimental-fabric-user-interface-controls'> Source <a/>
