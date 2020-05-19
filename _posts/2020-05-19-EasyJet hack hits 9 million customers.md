@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ztLdQhe9NwLQfjsB1Z2FFJQT-XM=/0x0:5809x3516/1200x800/filters:focal(2441x1294:3369x2222)/cdn.vox-cdn.com/uploads/chorus_image/image/66815160/1211262535.jpg.0.jpg' width='700px' /><br/>
+British airline EasyJet says that it has been the victim of a cyberattack that exposed the email addresses and travel details of around 9 million of its customers, Bloomberg News reports. In a statement, the company said that, of these customers, 2,208 had their credit card details accessed by what the company describes as a “highly sophisticated” attack.
+<a href='https://www.theverge.com/2020/5/19/21263431/easyjet-hack-customer-details-email-addresses-credit-cards'> Source <a/>
