@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HozOj6B4ZeyiR1BSuu-zvAk2J44=/0x0:2040x1534/1200x800/filters:focal(882x646:1208x972)/cdn.vox-cdn.com/uploads/chorus_image/image/66815114/mchin_200512_4018_0003.0.jpg' width='700px' /><br/>
+Lenovo's Chromebook Duet is far from flawless. But when you're evaluating a device that starts at $279, the question isn't “Is this a perfect device?” The question is: “Is this better than other stuff you can get for that price?”
+<a href='https://www.theverge.com/21262694/lenovo-chromebook-duet-review-tablet-chromebook-chrome-os-price'> Source <a/>

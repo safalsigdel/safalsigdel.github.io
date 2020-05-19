@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z45UYB_xZkPttJHTLuGD8QDx2VM=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66815116/vpavic_191018_3725_0231.0.jpg' width='700px' /><br/>
+Last week, I wrote about Google's somewhat confounding hardware strategy in the wake of a report about internal conflict from The Information. But I did something else right after that: I interviewed Google and Alphabet CEO Sundar Pichai on The Vergecast with Nilay Patel.
+<a href='https://www.theverge.com/2020/5/19/21263015/google-alphabet-ceo-sundar-pichai-hardware-future-commitment-pixel'> Source <a/>

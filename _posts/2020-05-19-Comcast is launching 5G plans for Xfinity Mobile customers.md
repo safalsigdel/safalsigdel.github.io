@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1K-3YodPMZbqVo9mH0pBE0b5e8c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66811328/acastro_180525_1777_comcast_0002.0.jpg' width='700px' /><br/>
-Comcast is introducing new data plans for its Xfinity Mobile customers that add free 5G service, the company announced on Monday. 5G access will be included on Xfinity's new unlimited and gig-based plans, and existing customers will have the option to opt in to a 5G plan.
-<a href='https://www.theverge.com/2020/5/18/21262142/comcast-5g-xfinity-mobile-plans'> Source <a/>

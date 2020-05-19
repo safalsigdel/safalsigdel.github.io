@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yUa3ffZgjdRCq31AwmtVVjcoqkE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66811125/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
-Uber is laying off 3,000 employees in the latest round of COVID-19-inspired cost-cutting, CEO Dara Khosrowshahi said in an email to staff. The news, which was first reported over the weekend by The Wall Street Journal, comes as the ride-hailing company has seen an 80 percent drop in its ride-hailing business as a result of the coronavirus pandemic.
-<a href='https://www.theverge.com/2020/5/18/21262337/uber-layoff-3000-employees-covid-19-coronavirus'> Source <a/>

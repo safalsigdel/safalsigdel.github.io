@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IOr-ahY2yPJpAVA_xXpaWc9pNWo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66815051/acastro_170711_1777_0001.0.jpg' width='700px' /><br/>
+A group of senators, led by Sen. Ron Wyden (D-OR), is demanding that all calls between the Senate and the House of Representatives be encrypted, according to a new letter obtained by The Verge.
+<a href='https://www.theverge.com/2020/5/19/21262751/senate-house-ron-wyden-encryption-voip-calls-capitol-hill'> Source <a/>
