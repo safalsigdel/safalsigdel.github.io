@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4U8GBJoQPQWG-fDlJA1t80HDPnM=/0x0:4608x3264/1200x800/filters:focal(1890x1956:2626x2692)/cdn.vox-cdn.com/uploads/chorus_image/image/66805127/1052333072.jpg.0.jpg' width='700px' /><br/>
-GrubHub has come under intense scrutiny of late for what critics and some restaurant owners say are exploitative fees made only worse during the coronavirus pandemic. Now, a revealing BuzzFeed News story has shed light on another controversial yet longtime practice around phone ordering.
-<a href='https://www.theverge.com/2020/5/15/21260609/grubhub-phone-call-fees-controversial-pandemic-covid-19-criticism'> Source <a/>

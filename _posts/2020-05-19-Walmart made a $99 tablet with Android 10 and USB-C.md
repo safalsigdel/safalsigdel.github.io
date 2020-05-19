@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Walmart has released new versions of its Onn tablets, starting at $99 and including some uncommon features for Android tablets in that price range, as spotted by 9to5Google.
+<a href='https://www.theverge.com/circuitbreaker/2020/5/18/21262442/walmart-tablet-android-10-price-specs-usb-c-onn-pro-tablet'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O79HmZrzpNXejmsOb_U98S8Fzn4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66813412/jbareham_180405_1777_facebook_0003.0.jpg' width='700px' /><br/>
+Facebook CEO Mark Zuckerberg said Monday he is “worried” that other countries may be trying to imitate China's approach to regulating the internet.
+<a href='https://www.theverge.com/2020/5/18/21262707/zuckerberg-china-regulation-privacy-facebook'> Source <a/>

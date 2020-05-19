@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cYURTkUVDlkPJnszUkEdYd9ZmYs=/0x0:3244x2162/1200x800/filters:focal(1423x503:1941x1021)/cdn.vox-cdn.com/uploads/chorus_image/image/66813046/1169854269.jpg.0.jpg' width='700px' /><br/>
+Kevin Mayer is leaving his post as the head of Disney's streaming efforts to become the CEO of the shortform video app TikTok, Disney announced today. He will also become the COO of TikTok's owner, ByteDance.
+<a href='https://www.theverge.com/2020/5/18/21262872/disney-plus-streaming-kevin-mayer-tiktok-ceo-bytedance-coo'> Source <a/>

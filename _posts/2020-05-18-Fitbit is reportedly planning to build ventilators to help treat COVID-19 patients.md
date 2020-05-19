@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R-4uX3x8YXcCAsXmMYgUm8yOVqA=/0x0:900x506/1200x800/filters:focal(378x181:522x325)/cdn.vox-cdn.com/uploads/chorus_image/image/66805249/106539621_1589565980491stand.0.jpg' width='700px' /><br/>
-Fitbit, which makes fitness-tracking wearables, will be shifting supply chain resources to make emergency ventilators, Fitbit CEO James Park said to CNBC. The ventilators will be used to help treat COVID-19 patients and could help bolster the national supply of the medical devices, which have been in need during the pandemic.
-<a href='https://www.theverge.com/2020/5/15/21260593/fitbit-emergency-ventilators-covid-19-james-park'> Source <a/>

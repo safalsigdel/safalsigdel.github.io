@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wG1GOU2mMsxZ_Db-nQqrWXY4Ekk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66804039/Nintendo_Switch.0.jpg' width='700px' /><br/>
-American consumers spent more this past quarter on video games than they ever have before, to the tune of $10.9 billion — up 9 percent from the year before, according to industry analyst NPD Group (via Bloomberg). The period covers only January to March, meaning spending in the current quarter ending June 30th might end up being just as high, if not higher.
-<a href='https://www.theverge.com/2020/5/15/21260364/american-gaming-spending-new-quarterly-record'> Source <a/>

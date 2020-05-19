@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qJlDq5HvFp-WVVoWq-78E3Smv-4=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/66811902/49645032148_2b7285bfd1_k.0.jpg' width='700px' /><br/>
+Riot Games will host a 48-hour League of Legends charity stream to raise money for COVID-19 relief, the studio announced today. The stream, called the Mid-Season Streamathon, will feature competitive and exhibition matches from all over the world, and it'll kick off on May 29th at 8PM ET.
+<a href='https://www.theverge.com/2020/5/18/21262389/league-of-legends-riot-games-mid-season-streamathon-charity-stream-covid-19'> Source <a/>
