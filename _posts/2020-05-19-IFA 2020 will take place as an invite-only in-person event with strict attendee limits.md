@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YOo9_oJ-mk2m-8q1eOXs_nW8_6M=/0x0:3987x2990/1200x800/filters:focal(1676x1177:2312x1813)/cdn.vox-cdn.com/uploads/chorus_image/image/66815255/ifa_vladsavov.0.jpg' width='700px' /><br/>
+IFA 2020 will be taking place as an in-person event in Berlin this fall, conference organizers announced. However, it'll look very different than previous years due to the ongoing COVID-19 pandemic that has seen almost every other major technology conference canceled or moved online this year.
+<a href='https://www.theverge.com/2020/5/19/21263432/ifa-2020-invite-only-in-person-event-limits-conference'> Source <a/>
