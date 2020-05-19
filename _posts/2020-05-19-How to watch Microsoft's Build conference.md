@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hDKiXYaBOze7_0G_KqJ_xBrFFfk=/0x0:3000x1984/1200x800/filters:focal(1260x752:1740x1232)/cdn.vox-cdn.com/uploads/chorus_image/image/66814907/518216764.jpg.0.jpg' width='700px' /><br/>
-Microsoft's annual Build developer conference kicks off today, where the company will focus on Windows, Office, and cloud announcements. Microsoft usually hosts Build in Seattle to around 5,000 developers who pay around $2,000 to attend, but the pandemic means Build is going fully online this year, and free for anyone to watch.
-<a href='https://www.theverge.com/2020/5/19/21263383/microsoft-build-live-stream-watch-how-to-event-announcements'> Source <a/>
