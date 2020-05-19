@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/prAFNi0zs75ABVazoQ-5DsNaIwY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66812131/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
-A court in Texas is holding the first jury trial on Zoom. The news comes as court systems across the country face a choice between postponing trials until the pandemic ends or holding remote proceedings.
-<a href='https://www.theverge.com/2020/5/18/21262506/texas-court-jury-trial-zoom-remote-virtual-verdict'> Source <a/>
