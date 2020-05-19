@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1fG9d8rTm6qZ2R8mbuR4BxoYCL0=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/66812403/520557826.jpg.0.jpg' width='700px' /><br/>
-Square employees will be able to work from home even after the COVID-19 shelter-in-place orders end, Jack Dorsey told workers. The indefinite extension of the company's remote work policy echoes a similar announcement from Twitter last week. Dorsey is CEO of both companies.
-<a href='https://www.theverge.com/2020/5/18/21261798/square-employees-work-from-home-remote-premanent-policy-ceo'> Source <a/>
