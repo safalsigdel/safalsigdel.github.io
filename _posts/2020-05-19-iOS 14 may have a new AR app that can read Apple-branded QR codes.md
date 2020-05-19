@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ERyyzOcgmz4j2cGEltasjxZc1LY=/0x0:1456x1128/1200x0/filters:focal(0x0:1456x1128):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19984597/https___bucketeer_e05bbc84_baa3_437e_9518_adb32be77984.s3.amazonaws.com_public_images_8940c4f9_3060_400e_aa5e_b40ab6c88934_2264x1754.png' width='700px' /><br/>
-Apple's upcoming iOS 14 could have a new augmented reality app that can read Apple-branded QR codes and might have new features baked into the Find My app, according iOS 14 files obtained by former TechCrunch reporter Josh Constine.
-<a href='https://www.theverge.com/2020/5/18/21262573/apple-ios-14-gobi-ar-augmented-reality-qr-codes-starbucks-find-my'> Source <a/>
