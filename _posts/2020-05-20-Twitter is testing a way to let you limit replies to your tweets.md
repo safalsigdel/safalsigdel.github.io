@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2vJd9mrhHq5i--ZDPExCWw0UFBs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66821926/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+Twitter is testing a way to let you limit how many people can reply to your tweets. If you're part of the test, when you compose a tweet, you'll be able to select if you'll allow replies from everyone, people you follow, or only people you @ mention. Twitter said in January that this feature would be coming to the platform sometime this year.
+<a href='https://www.theverge.com/2020/5/20/21265090/twitter-testing-limited-replies-tweets-conversations'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/siPbwFPomouOTNH1urkDt-xwh4g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66817004/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook is launching what it's calling a “universal product recognition model” that uses artificial intelligence to identify consumer goods, from furniture to fast fashion to fast cars.
-<a href='https://www.theverge.com/2020/5/19/21263523/facebook-marketplace-ai-object-recognition-shopping-groknet'> Source <a/>
