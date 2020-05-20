@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fdDA7_33OBnW2ladidhneYvm04s=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66817895/1920_midseason_2.0.jpg' width='700px' /><br/>
+The Call of Duty League (CDL) announced on Tuesday that you'll soon be able to earn in-game rewards, or “drops,” for watching CDL broadcasts, and the Overwatch League has detailed its plans for drops as well. The announcements follow Activision Blizzard and YouTube's multiyear deal announced in January that made the Google-owned video platform the exclusive streaming partner for Activision's esports leagues.
+<a href='https://www.theverge.com/2020/5/19/21263945/youtube-activision-blizzard-partnership-call-of-duty-overwatch-league-drops'> Source <a/>
