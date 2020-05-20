@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xJIgDZh84IW-7QwE5NdgtKmYMZA=/0x0:2482x1508/1200x800/filters:focal(1043x556:1439x952)/cdn.vox-cdn.com/uploads/chorus_image/image/66818493/tesla_buffalo_gigafactory.0.png' width='700px' /><br/>
-Panasonic is restarting production at Tesla's Buffalo, New York solar panel factory this week after some businesses in the Western New York region have been given the green light to reopen, The Verge has learned. The factory has been idle for roughly two months.
-<a href='https://www.theverge.com/2020/5/19/21263926/tesla-panasonic-reopening-new-york-gigafactory-elon-musk'> Source <a/>

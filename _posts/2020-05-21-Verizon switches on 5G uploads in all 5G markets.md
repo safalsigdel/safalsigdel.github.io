@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8Ah3Ma9w88nsDHQHh5HVU5K-X7s=/0x0:2040x1360/1200x800/filters:focal(603x614:929x940)/cdn.vox-cdn.com/uploads/chorus_image/image/66822635/vzw-042.0.0.jpg' width='700px' /><br/>
+In the majority of Verizon's 5G markets, uploads have so far remained on LTE and been unable to match the blistering download speeds of millimeter-wave. But that's changing today. Verizon says that 5G uploads are now available in all 5G markets, so if you're an early adopter and already have a 5G smartphone, you should notice this speed bump.
+<a href='https://www.theverge.com/2020/5/20/21265098/verizon-5g-uploads-cities-lte-now-available'> Source <a/>
