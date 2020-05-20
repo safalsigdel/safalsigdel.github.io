@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oYrQFWqSwK9TBZFLxuNmEfcSot0=/0x0:793x793/1200x800/filters:focal(337x196:463x322)/cdn.vox-cdn.com/uploads/chorus_image/image/66816474/0.0.jpg' width='700px' /><br/>
-Like many YouTube creators, Faze Apex goes through periods where his productivity can waver. He might spend six months making videos regularly, and then he needs to take a break before picking it back up again. “When it comes to being active on my own channels, it's been an up-and-down roller coaster,” he tells The Verge. “It takes a toll when you do it every day.”
-<a href='https://www.theverge.com/2020/5/19/21263438/faze-clan-apex-youtube-pandemic-interview'> Source <a/>

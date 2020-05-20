@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d8ErtvsFqAPFfOnMTJKgIsW_KvA=/0x0:2800x1855/1200x800/filters:focal(1116x618:1564x1066)/cdn.vox-cdn.com/uploads/chorus_image/image/66821508/telegramsignal.0.jpg' width='700px' /><br/>
+Signal has added PINs to its secure messaging service. It's a move that's intended to make the company less reliant on phone numbers as its users' primary identification.
+<a href='https://www.theverge.com/2020/5/20/21264971/signal-pins-security-privacy-profile-devices'> Source <a/>
