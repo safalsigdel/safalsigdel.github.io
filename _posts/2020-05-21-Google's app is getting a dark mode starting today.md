@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G1KfzHMXX5ha5nhmC8UThwYVL_4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66818776/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-The Google mobile app is getting a dark mode, with Android and iOS users gaining the option to enable the feature by the end of the week.
-<a href='https://www.theverge.com/2020/5/19/21264056/google-app-dark-mode-android-ios'> Source <a/>
