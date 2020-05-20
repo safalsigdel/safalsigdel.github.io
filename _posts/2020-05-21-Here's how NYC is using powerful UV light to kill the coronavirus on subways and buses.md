@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XrtDtrCIOnaMPhDnAOoISY7Abis=/0x0:4874x3499/1200x800/filters:focal(2048x1361:2826x2139)/cdn.vox-cdn.com/uploads/chorus_image/image/66822576/49913415526_a35d4946a3_o.0.jpg' width='700px' /><br/>
+The Metropolitan Transportation Authority launched its pilot to use powerful ultraviolet lamps to disinfect New York City's subways and buses.
+<a href='https://www.theverge.com/2020/5/20/21265221/nyc-mta-ultraviolet-light-uvc-coronavirus-disinfect-puro-pictures'> Source <a/>
