@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nDq9EnSK2B7tV8e6H3C7DzgY-Eg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66816848/IZWiVbqA.0.jpg' width='700px' /><br/>
+Facebook is making a major new push into e-commerce. The company today announced the launch of Shops, a way for businesses to set up free storefronts on Facebook and Instagram. The shops, which will be powered by third-party services, including Shopify, BigCommerce, and Woo, are designed to turn the social network into a top-tier shopping destination.
+<a href='https://www.theverge.com/2020/5/19/21263567/facebook-shops-instagram-shopping-e-commerce-small-business-loyalty-program'> Source <a/>

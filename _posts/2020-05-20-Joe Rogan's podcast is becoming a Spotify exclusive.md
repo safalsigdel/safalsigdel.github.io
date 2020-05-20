@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GNUbWZg_7gHvTwqmVio1-nEFBYM=/0x0:3000x2400/1200x800/filters:focal(1221x388:1701x868)/cdn.vox-cdn.com/uploads/chorus_image/image/66817527/1166802146.jpg.0.jpg' width='700px' /><br/>
+Joe Rogan, comedian and host of one of the most popular podcasts in the world, is taking his show to Spotify. The Joe Rogan Experience will soon become a Spotify exclusive, meaning episodes' full audio and video will only be available through the platform starting later this year. Up until now, Rogan's show has never been available on Spotify, let alone exclusive to any platform.
+<a href='https://www.theverge.com/2020/5/19/21263927/joe-rogan-spotify-experience-exclusive-content-episodes-youtube'> Source <a/>

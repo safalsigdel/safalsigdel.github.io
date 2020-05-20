@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CFvciRCd9TcHidsy47ug0H3vEIA=/0x0:1069x553/1200x800/filters:focal(450x192:620x362)/cdn.vox-cdn.com/uploads/chorus_image/image/66816725/Screen_Shot_2018_09_13_at_12.05.54_PM.0.png' width='700px' /><br/>
+Walmart is shutting down Jet.com, the online shopping site it bought in 2016 for $3 billion as part of its attempts to better compete with rival Amazon online, an area that Amazon excels at compared to Walmart, via TechCrunch.
+<a href='https://www.theverge.com/2020/5/19/21263584/walmart-jet-shutdown-amazon-online-shopping-3-billion-2016'> Source <a/>

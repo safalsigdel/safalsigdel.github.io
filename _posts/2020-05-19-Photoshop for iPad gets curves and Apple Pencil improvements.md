@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IVV2h12KKldV3BJ3YP8-3tnF25c=/0x0:2388x1668/1200x800/filters:focal(1547x555:1929x937)/cdn.vox-cdn.com/uploads/chorus_image/image/66815313/Ps_on_iPad_2.0.png' width='700px' /><br/>
-Adobe is updating Photoshop for iPad with two key features today: more flexibility for the Pencil stylus and the addition of curves.
-<a href='https://www.theverge.com/2020/5/19/21262169/photoshop-ipad-curves-apple-pencil-pressure-sensitivity-update-adobe'> Source <a/>

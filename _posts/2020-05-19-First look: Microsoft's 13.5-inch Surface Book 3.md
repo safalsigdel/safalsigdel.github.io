@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PW5KxW1HcOrJ0iftcewqmvwaKDg=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19984299/dbohn_200516_4026_0012.jpg' width='700px' /><br/>
-Microsoft's new 13.5-inch Surface Book 3 looks exactly like the 2017 model — all the changes are on the inside. The big updates include 10th Gen Intel processors and new graphics options. Both are welcome updates, but they don't fundamentally change the value proposition of the Surface Book.
-<a href='https://www.theverge.com/2020/5/19/21262704/microsofts-surface-book-3-13-5-inch-impressions-video-photo'> Source <a/>

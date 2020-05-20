@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/beT95hg2muUM0ySpvjU0_-kjdN4=/0x0:4000x2667/1200x800/filters:focal(1812x1147:2452x1787)/cdn.vox-cdn.com/uploads/chorus_image/image/66816924/1211903434.jpg.0.jpg' width='700px' /><br/>
+Teardown and repair website iFixit has just posted what its CEO Kyle Wiens says is “the most comprehensive online resource for medical repair professionals.” The new database contains dedicated sections for clinical, laboratory, and medical support equipment, in addition to numerous other categories of devices. It also provides more than 13,000 manuals from hundreds of medical device manufacturers.
+<a href='https://www.theverge.com/2020/5/19/21263762/ifixit-medical-device-repair-database-launch'> Source <a/>

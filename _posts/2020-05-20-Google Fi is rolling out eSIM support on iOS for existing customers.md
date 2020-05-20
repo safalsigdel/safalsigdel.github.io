@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/arKsLhYyc1EtY7Nx8e7GL5KeFR8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66818332/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google is rolling out the ability to use Google Fi via eSIM for existing customers of the cellular service on iOS, assuming their iPhone supports it (via 9to5Google). You'll need the latest version of the Google Fi iOS app and an iPhone XR, XS, XS Max, 11 series, or 2020 SE, as those phones offer Dual SIM functionality. Google added eSIM support for new Google Fi customers last month.
+<a href='https://www.theverge.com/2020/5/19/21264122/google-fi-esim-support-ios-current-existing-customers'> Source <a/>
