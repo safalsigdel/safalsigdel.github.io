@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MkCJ-spsF6PqP11FE8wFmsgh17s=/0x0:967x532/1200x800/filters:focal(407x189:561x343)/cdn.vox-cdn.com/uploads/chorus_image/image/66815976/zV54Lfn.0.png' width='700px' /><br/>
-Microsoft is releasing a new Spotlight-like launcher app for Windows 10 today. Designed to replace and modernize the existing Win + R shortcut, the new PowerToys Run launcher includes quick search for apps and files across Windows, plugins like a calculator, and the ability to find running processes.
-<a href='https://www.theverge.com/2020/5/19/21262060/microsoft-windows-10-launcher-powertoy-spotlight-alfred-download-build'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PkrYUNkFZYq2Thz1AutJsqs6tOA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66820852/akrales_200421_3975_0049.0.jpg' width='700px' /><br/>
+When you buy a new Windows 10 computer, out of the box, it will default to having you enter your Outlook or Microsoft account password every time you sign in. This can be a hassle, especially if you have a long, secure, and complicated password.
+<a href='https://www.theverge.com/21251230/windows-10-sign-in-settings-how-to-password-pin-fingerprint-picture-lock'> Source <a/>

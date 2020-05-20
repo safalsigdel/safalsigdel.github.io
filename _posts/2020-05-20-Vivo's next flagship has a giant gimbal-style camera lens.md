@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HJc9X7Ie--mrXtXbjJSx3KYp4KQ=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/66819755/Screen_Shot_2020_05_20_at_14.46.09.0.png' width='700px' /><br/>
+Vivo has started teasing its next flagship phone, the X50. A video posted to Weibo shows off the camera module, which includes a periscope telephoto, two normal-looking lenses, and one much larger module that is presumably for the primary camera. The lens rotates as the module is manipulated by a robotic gimbal, suggesting the key feature here is image stabilization.
+<a href='https://www.theverge.com/2020/5/20/21264651/vivo-x50-camera-tease-event-date'> Source <a/>

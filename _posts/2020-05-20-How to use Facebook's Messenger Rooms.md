@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k3zW4UbIt6JljvuTBt-s-II6t1c=/0x0:6001x3784/1200x800/filters:focal(2521x1412:3481x2372)/cdn.vox-cdn.com/uploads/chorus_image/image/66815954/2._Messenger_Rooms_MAIN_Desktop.0.jpg' width='700px' /><br/>
-Facebook has launched its latest videoconferencing feature, Messenger Rooms, which allows up to 50 people to video chat at a time. There's no limit to how long you can talk, and you don't even need a Facebook account to join a room.
-<a href='https://www.theverge.com/21259983/facebook-messenger-rooms-how-to-video-chat-conference-call-group'> Source <a/>

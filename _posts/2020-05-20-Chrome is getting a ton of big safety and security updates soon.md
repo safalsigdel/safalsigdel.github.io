@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CJ5vtEUzYmDXUkcUejxSl00NNQ0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66816357/acastro_200207_3900_chrome_0001.0.0.jpg' width='700px' /><br/>
-The next version of Chrome for desktops is shaping up to be a much bigger update than usual. In addition to tab grouping and automatically blocking battery-killing ads, the browser is also getting a big set of improvements for security, safety, and privacy.
-<a href='https://www.theverge.com/2020/5/19/21262923/google-chrome-privacy-security-safe-browsing-cookies-dns-https-extensions'> Source <a/>

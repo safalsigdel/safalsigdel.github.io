@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Microsoft is revealing some new features for its Edge browser today. The first is a new sidebar search option that's designed to let you search the web without having to leave a tab. You can highlight text on a page and right-click to “search in sidebar” and see the results to the side of the page you're currently viewing.
-<a href='https://www.theverge.com/2020/5/19/21262098/microsoft-edge-sidebar-search-pinterest-integration-features'> Source <a/>

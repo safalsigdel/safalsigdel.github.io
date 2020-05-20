@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x5g_1y2WSYoLBTwIlHC4LQBGVH8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66819966/twarren_180507_2536_0001.5.jpg' width='700px' /><br/>
+Microsoft's annual developer conference has officially kicked off, the first yearly developer conference in the consumer tech world we've experienced online. The others are Google I/O and Apple's WWDC. All three have obviously changed during the pandemic and watching what each company has chosen (or will choose) to do has been instructive.
+<a href='https://www.theverge.com/2020/5/20/21264363/microsoft-build-2020-top-news-annoucements-fluid-office-windows-reunion-edge'> Source <a/>

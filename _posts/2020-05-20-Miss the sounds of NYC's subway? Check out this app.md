@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Fu3rXLsPvx3Hn4TI3JVGek9I3Fs=/0x0:4923x3282/1200x800/filters:focal(2069x1248:2855x2034)/cdn.vox-cdn.com/uploads/chorus_image/image/66815778/1223290559.jpg.0.jpg' width='700px' /><br/>
-A month into quarantine in New York City, software developer Evan Lewis found himself missing the subway — maybe not so much the smells, but certainly the sounds. The screech of the brakes, the clack-clack of the train rolling over the tracks, the stern reminder to “Stand clear of the closing doors please.”
-<a href='https://www.theverge.com/2020/5/19/21263468/mta-nyc-subway-sounds-app-sound-board'> Source <a/>
