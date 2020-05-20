@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Dl5YZqGFw-ovVa0VoVxisUbz-S4=/0x0:3000x2067/1200x800/filters:focal(1260x794:1740x1274)/cdn.vox-cdn.com/uploads/chorus_image/image/66817149/959523874.jpg.0.jpg' width='700px' /><br/>
-The Federal Communications Commission has received over 2,000 complaints related to the novel coronavirus pandemic, FCC chairman Ajit Pai said in a statement to the House Energy and Commerce Committee on Tuesday.
-<a href='https://www.theverge.com/2020/5/19/21263843/fcc-ajit-pai-coronavirus-pandemic-keep-americans-connected-verizon-att-comcast'> Source <a/>
