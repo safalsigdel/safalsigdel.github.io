@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/co51OSVALrM3J2d6haKuXsAhCkE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66825500/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+As students around the world continue to study from home as a result of the pandemic, Google's Classroom software has fast become an invaluable remote learning tool. But as many are discovering, Google's software is far from perfect. Adobe Principal Designer Khoi Vinh has used his blog to weigh in on where he thinks Google's software goes wrong. It's fascinating and well worth a read.
+<a href='https://www.theverge.com/2020/5/21/21266004/google-classroom-joyless-adobe-designer-breakdown-slack-workplace-education-comparison'> Source <a/>
