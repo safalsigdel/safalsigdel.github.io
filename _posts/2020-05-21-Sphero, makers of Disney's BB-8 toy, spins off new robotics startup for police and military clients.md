@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ARdona--nBXBdgLL87xUxGpmcbo=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/66821231/sphero-bb-8-7172.0.0.0.jpg' width='700px' /><br/>
-Consumer robotics firm Sphero, best known for making remote-controlled BB-8 and R2-D2 toys for Disney, announced today that it's spun off a new company catering to the robotic needs of first responders, law enforcement, and military clients.
-<a href='https://www.theverge.com/2020/5/20/21264878/sphero-company-six-robotics-spin-off-military-law-enforcement-clients'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-hsbwiiGZh64WcveA1K_gsX2qJg=/0x0:2436x1624/1200x800/filters:focal(1024x618:1412x1006)/cdn.vox-cdn.com/uploads/chorus_image/image/66826258/Global_Test2.0.jpg' width='700px' /><br/>
+Tinder no longer sees physical closeness as a necessity for dating. The company announced today that it'll soon be testing Global Mode, a new option for daters to opt in to that'll allow their profiles to show up around the world, regardless of where they live. They'll also be able to view and match with people who live in other countries.
+<a href='https://www.theverge.com/2020/5/21/21265643/tinder-geography-global-mode-rollout-update-test-passport'> Source <a/>
