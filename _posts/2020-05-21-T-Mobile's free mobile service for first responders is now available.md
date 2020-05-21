@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J4b99jeqVN4uqvqUcv0I2yudljE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66827130/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
+T-Mobile's offer of free mobile service for first responders for 10 years is now available, CEO Mike Sievert announced today. The program, officially called “Connecting Heroes,” provides free access to the company's network over the next decade for members of state and local public and nonprofit law enforcement, fire, and EMS agencies.
+<a href='https://www.theverge.com/2020/5/21/21266302/tmobile-connecting-heroes-free-service-first-responders-ten-years-5g-sprint-deal'> Source <a/>
