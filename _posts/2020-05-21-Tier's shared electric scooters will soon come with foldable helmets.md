@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xmf-Bz-FeYieCHK0NyaC4V08yjY=/0x0:990x659/1200x800/filters:focal(416x251:574x409)/cdn.vox-cdn.com/uploads/chorus_image/image/66819818/smart_box_6.0.jpg' width='700px' /><br/>
-Micromobility rental company Tier is introducing new electric scooters which come with a helmet to protect their riders, the company announced today. 200 of the helmet-equipped scooters will be deployed to Paris and Berlin this month, followed by 5,000 more over the course of the summer. Tier says it's the first e-scooter company to introduce integrated helmets like this.
-<a href='https://www.theverge.com/2020/5/20/21264672/tier-electric-scooters-sharing-helmet-compartments-built-in'> Source <a/>

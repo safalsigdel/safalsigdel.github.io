@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/GjAcMs57J3KNO0_L99SAgQyIK5U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66822693/akrales_190913_3666_0303.0.jpg' width='700px' /><br/>
-Nick Bryner, a high school senior in Los Angeles, spent hours completing his AP English Literature and Composition test last week. But when he snapped a photo of a written answer with his iPhone and attempted to upload it to the testing portal, it stopped responding.
+Nick Bryner, a high school senior in Los Angeles, had just completed his AP English Literature and Composition test last week. But when he snapped a photo of a written answer with his iPhone and attempted to upload it to the testing portal, it stopped responding.
 <a href='https://www.theverge.com/2020/5/20/21262302/ap-test-fail-iphone-photos-glitch-email-college-board-jpeg-heic'> Source <a/>

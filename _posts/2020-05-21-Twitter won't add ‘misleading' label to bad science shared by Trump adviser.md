@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9ZnZg7sgDhxbPBKlDtWg9D52BNM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66820231/acastro_200512_1777_faceMask_0002.0.0.jpg' width='700px' /><br/>
-Twitter's misinformation policy doesn't cover a widely shared article claiming without evidence that the antimalarial drug hydroxychloroquine has a “90 percent chance of helping” COVID-19 patients. No treatment, including hydroxychloroquine, has been proven to effectively treat COVID-19.
-<a href='https://www.theverge.com/2020/5/20/21264096/twitter-facebook-misleading-aaps-hydroxychloroquine-brad-parscale-moderation-rules'> Source <a/>

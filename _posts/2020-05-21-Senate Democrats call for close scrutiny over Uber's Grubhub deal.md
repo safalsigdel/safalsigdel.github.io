@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y6adAOgDAdam2DcEyMD9Ia3ws4U=/0x0:5282x3521/1200x800/filters:focal(2219x1339:3063x2183)/cdn.vox-cdn.com/uploads/chorus_image/image/66823028/1204210466.jpg.0.jpg' width='700px' /><br/>
+A group of Senate Democrats, led by Sen. Amy Klobuchar (D-MN), is calling on the Trump administration Wednesday to launch an antitrust investigation into Uber and Grubhub if the two companies decide to merge.
+<a href='https://www.theverge.com/2020/5/20/21265308/amy-klobuchar-uber-grubhub-justice-department-ftc-antitrust-cory-booker'> Source <a/>

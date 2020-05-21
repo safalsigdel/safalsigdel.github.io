@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oOMqI-Bm8SogZOpjXBRPQhHrsGo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66823385/sokane_181116_3101_fremont_0063.0.jpg' width='700px' /><br/>
+Tesla voluntarily dismissed its lawsuit against Alameda County “without prejudice,” according to documents filed in a California court Wednesday — but the company did not provide any reasoning for why it was dropping the suit.
+<a href='https://www.theverge.com/2020/5/20/21265358/tesla-drops-lawsuit-alameda-county-coroanvirus-lockdown'> Source <a/>
