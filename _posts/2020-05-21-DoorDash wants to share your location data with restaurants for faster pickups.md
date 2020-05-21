@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zadfj2cEBtiEKu1DBIbd2fFsC34=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66820762/acastro_190724_1777_doordash_0001.0.0.jpg' width='700px' /><br/>
-DoorDash is launching a new feature to let customers share their location so restaurants can better know when to have an order ready for pickup.
-<a href='https://www.theverge.com/2020/5/20/21263922/doordash-share-location-data-restaurants-faster-pickups'> Source <a/>
