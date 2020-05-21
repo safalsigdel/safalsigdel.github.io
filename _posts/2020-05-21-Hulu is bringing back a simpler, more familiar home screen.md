@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RYQsUkM68u5WFAMgVfAHRI771r0=/0x0:1724x1078/1200x0/filters:focal(0x0:1724x1078):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19989184/Screen_Shot_2020_05_20_at_9.37.38_AM.png' width='700px' /><br/>
-Hulu's grand experiment to reinvent the user experience of a streaming app is coming to an end. Today, starting on Apple TV and Roku, the company is rolling out a revamped home screen that's much closer in line with Netflix, Amazon Prime Video, and other streaming services. The new look will make its way to other platforms by the end of July.
-<a href='https://www.theverge.com/2020/5/20/21264441/hulu-home-screen-redesign-familiar-simple'> Source <a/>
