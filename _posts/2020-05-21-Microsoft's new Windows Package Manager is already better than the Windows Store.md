@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FQ917UySDOg1wk8jTOyNtEoiBs8=/0x0:1216x812/1200x800/filters:focal(511x309:705x503)/cdn.vox-cdn.com/uploads/chorus_image/image/66820400/winget01.0.png' width='700px' /><br/>
-Microsoft surprised Windows users with a new package manager yesterday. It's a command line tool that allows developers, power users, and really any Windows user to install their favorite apps from a simple command. If you've ever had to wipe a Windows machine clean or set up a new device, you'll know the pain of having to reinstall apps, find download links, and get a PC ready again.
-<a href='https://www.theverge.com/2020/5/20/21264739/microsoft-windows-package-manager-preview-download'> Source <a/>
