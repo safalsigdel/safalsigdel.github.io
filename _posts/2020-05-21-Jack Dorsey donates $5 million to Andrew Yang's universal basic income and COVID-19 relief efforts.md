@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dk7D17owxnHbO9zpdgsah98WcaQ=/0x0:4526x3109/1200x800/filters:focal(1901x1193:2625x1917)/cdn.vox-cdn.com/uploads/chorus_image/image/66826541/1204289485.jpg.0.jpg' width='700px' /><br/>
+Twitter and Square CEO Jack Dorsey is donating $5 million to Andrew Yang's Humanity Forward nonprofit, the former presidential candidate announced on Thursday, to provide 20,000 microgrants of $250 through the nonprofit's direct cash assistance program.
+<a href='https://www.theverge.com/2020/5/21/21266096/twitter-jack-dorsey-andrew-yang-universal-basic-income-cornavirus-donation'> Source <a/>
