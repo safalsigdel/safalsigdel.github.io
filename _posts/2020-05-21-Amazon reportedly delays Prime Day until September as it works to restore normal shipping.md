@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EEYv73YHowIgZ54hUJ0--fzXcjE=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66826933/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
+Amazon may delay its Prime Day promotional event until September as it tries to regain its footing amid a surge in demand caused by the coronavirus pandemic, The Wall Street Journal reported. Usually held over the summer, Prime Day has become a cash cow for Amazon; the 2019 event brought in an estimated $7 billion.
+<a href='https://www.theverge.com/2020/5/21/21266249/amazon-prime-day-2020-delayed-september-coronavirus-pandemic-shipping'> Source <a/>

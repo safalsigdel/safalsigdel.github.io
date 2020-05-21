@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L93cWcSpnNtWNOWoFJ9d90wPMkk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66821568/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
-YouTube on Wednesday announced a new bedtime reminders feature to help even the most dedicated of extremely online types log off late at night. The new feature joins the platform's existing “take a break” reminders, and both are among a broader set of YouTube wellness and screen time tools released in 2018 as part of Google's Digital Wellbeing initiative.
-<a href='https://www.theverge.com/2020/5/20/21264396/youtube-bedtime-reminders-new-feature-digital-wellbeing-wellness-screen-time'> Source <a/>
