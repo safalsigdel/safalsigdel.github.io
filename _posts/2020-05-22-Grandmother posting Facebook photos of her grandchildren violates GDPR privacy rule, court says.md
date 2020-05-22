@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ynmMhK5uwqI5hLgdcK0nrSnirb0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66831535/acastro_180806_1777_facebook_0001.0.jpg' width='700px' /><br/>
+A grandmother in the Netherlands has until this weekend to remove photos of her grandchildren from her Facebook page, or she'll face daily fines, after a judge found she was violating the European Union's strict online privacy rules, the BBC reported.
+<a href='https://www.theverge.com/2020/5/22/21267348/facebook-gdpr-privacy-photos-fine-grandmother-grandchildren'> Source <a/>
