@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OAdTrCW8U0zEhHwRRKKpVltabG4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66831168/mdoying_180411_2400_0089still.0.jpg' width='700px' /><br/>
+Researchers based out of Australia's Monash, Swinburne, and RMIT universities say they've set a new internet speed record of 44.2 Tbps, according to a paper published in the open-access journal Nature Communications. That's theoretically enough speed to download the contents of more than 50 100GB Ultra HD Blu-ray discs in a single second.
+<a href='https://www.theverge.com/2020/5/22/21267321/broadband-internet-speed-record-australia-researchers-micro-comb-fiber'> Source <a/>

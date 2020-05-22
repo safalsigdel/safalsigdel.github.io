@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U6k_FKjdLaAz0VyLe4Vo74jZsCY=/0x0:5568x3712/1200x800/filters:focal(1485x1310:2375x2200)/cdn.vox-cdn.com/uploads/chorus_image/image/66826221/1132806365.jpg.0.jpg' width='700px' /><br/>
-With a $6 billion content budget, Hollywood's biggest names, and hundreds of millions of potential customers, Apple TV Plus launched in November 2019 with an ambitious goal: create Apple's own HBO. But a little over six months later, Apple TV Plus is barely a part of the streaming conversation.
-<a href='https://www.theverge.com/2020/5/21/21262291/apple-tv-plus-morning-show-licensed-movies-netflix-disney-plus-quibi'> Source <a/>
