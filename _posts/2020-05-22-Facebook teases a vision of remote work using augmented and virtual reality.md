@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dX1KVdH-wIw4uasM4d1RzmWZ-Ak=/0x0:2040x1360/1200x800/filters:focal(872x679:1198x1005)/cdn.vox-cdn.com/uploads/chorus_image/image/66829647/akrales_190429_3371_0134.0.jpg' width='700px' /><br/>
+Facebook has long believed in the promise of virtual and augmented reality extending well beyond entertainment, and we're now getting a clearer glimpse at what that future might look like now that the current pandemic is reshaping how companies everywhere think about remote work.
+<a href='https://www.theverge.com/2020/5/21/21266945/facebook-ar-vr-remote-work-oculus-passthrough-future-tech'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S3zVcKB8gBPKwTAZ3X3Yq8HoB_Y=/0x0:1563x879/1200x800/filters:focal(657x315:907x565)/cdn.vox-cdn.com/uploads/chorus_image/image/66822179/npQBW2L.0.jpg' width='700px' /><br/>
-If you tuned into Microsoft's Build developer keynote yesterday, one of the things you may have seen was a mysterious “RGV2cw” 3D-printed object on the shelf behind CEO Satya Nadella. It was part of many Easter eggs hidden throughout Microsoft's Build stream, spelling out “devs” in Base64 format.
-<a href='https://www.theverge.com/2020/5/20/21264755/microsoft-build-2020-keynote-easter-eggs-secret-messages-scott-hanselman'> Source <a/>

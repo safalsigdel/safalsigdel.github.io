@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Samsung has announced yet another version of the Galaxy S20: the Galaxy S20 Tactical Edition, which promises a “mission-ready military smartphone.” It's designed for a slightly different customer-base than the already-released S20, S20 Plus, S20 Ultra, or even the Verizon-only mmWave S20.
-<a href='https://www.theverge.com/circuitbreaker/2020/5/20/21265433/samsung-galaxy-s20-tactical-edition-military-stealth-mode-case-security'> Source <a/>
