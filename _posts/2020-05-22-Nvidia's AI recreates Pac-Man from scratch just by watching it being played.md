@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CUOUPGDcx5BggfCBwwa29fdRUTE=/0x0:2896x2088/1200x800/filters:focal(1217x813:1679x1275)/cdn.vox-cdn.com/uploads/chorus_image/image/66831231/162915406.jpg.0.jpg' width='700px' /><br/>
+Nvidia is best known for its graphics cards, but the company conducts some serious research into artificial intelligence, too. For its latest project, Nvidia researchers taught an AI system to recreate the game of Pac-Man simply by watching it being played.
+<a href='https://www.theverge.com/2020/5/22/21266251/nvidia-ai-gamegan-recreate-pac-man-virutal-environment'> Source <a/>
