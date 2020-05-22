@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/juB0fjp6CknNMvzoFxJxU6LIz2A=/0x0:8256x5504/1200x800/filters:focal(3468x2092:4788x3412)/cdn.vox-cdn.com/uploads/chorus_image/image/66826652/Blade_Pro_17__2020__Key_Visual.0.png' width='700px' /><br/>
-Razer has announced the 2020 version of its Blade Pro 17. Like last year's model, there is a 4K 120Hz touch display option for creative professionals. But Razer has upgraded the gaming-focused display option to a 300Hz 1080p panel. Razer says the 4K screen will cover 100 percent of the Adobe RGB space, and the 1080p display comes with a glare-reducing matte finish.
-<a href='https://www.theverge.com/2020/5/21/21265191/razer-blade-pro-17-release-features-price-specs'> Source <a/>
