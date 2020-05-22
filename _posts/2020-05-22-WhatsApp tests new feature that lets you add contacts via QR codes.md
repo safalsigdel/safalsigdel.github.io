@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3b1rybo8aAlvKIGcOYyg5Eq7mj8=/0x0:1092x720/1200x800/filters:focal(459x273:633x447)/cdn.vox-cdn.com/uploads/chorus_image/image/66830710/verge-whatsapp-notification-2040pxl.0.0.jpg' width='700px' /><br/>
+WhatsApp's latest beta version lets you add contacts by scanning their QR codes, WABetaInfo reports. The feature, which is available in beta on both iOS and Android, can be found in the app's settings menu, where there are options to display your own code, as well as to scan other people's. A QR code can also be revoked if it gets shared with someone who you don't want to have your number.
+<a href='https://www.theverge.com/2020/5/22/21267292/whatsapp-qr-codes-adding-contacts-beta-ios-android'> Source <a/>
