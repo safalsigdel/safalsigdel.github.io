@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1L9_iQqJsWFOlPOD0uy9-ykSXKc=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/66832185/twarren_outlookforwindows_1.0.jpg' width='700px' /><br/>
+Microsoft is finally bringing cloud support to Outlook for Windows email signatures. It's a feature that Outlook users have been requesting for more than a decade, and it has remained at the top of Microsoft's most-requested feature list for Outlook for Windows for nearly three years.
+<a href='https://www.theverge.com/2020/5/22/21267531/microsoft-outlook-windows-email-signature-sync-cloud-devices'> Source <a/>
