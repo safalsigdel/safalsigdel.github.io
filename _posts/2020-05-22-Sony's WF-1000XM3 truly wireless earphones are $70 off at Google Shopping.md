@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-If you've been looking for a deal on Sony's latest high-end truly wireless earphones, the WF-1000XM3, today's your day. They usually cost $230, but at Google Shopping today, you can get them for $160 (via Slickdeals). To get this price, you'll need to use the offer code MQHDWZ that the seller Nationwide Distributors is offering. With that applied, you'll see the price drop further, and you'll get free shipping.
-<a href='https://www.theverge.com/good-deals/2020/5/21/21266142/sony-wireless-earphones-deal-ipad-keyboard-google-nest-wifi-best-buy-amazon'> Source <a/>
