@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Hg-eQh6lUNicRgNGJvCH7d_0O60=/0x0:1117x609/1200x800/filters:focal(42x190:220x368)/cdn.vox-cdn.com/uploads/chorus_image/image/66832187/Screen_Shot_2020_05_22_at_3.08.46_PM.0.png' width='700px' /><br/>
+It's certainly an arresting image: a four-legged robot trots across a grassy hillside, steering a herd of sheep without a human in sight. The apparently seamless fusion of the futuristic and the agrarian feels refreshing — even hopeful — at a time when so much progress relies upon the destruction of the natural world.
+<a href='https://www.theverge.com/2020/5/22/21267379/robot-dog-rocos-boston-dynamics-video-spot-shepherd-reaction'> Source <a/>
