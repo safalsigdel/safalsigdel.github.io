@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W2Wmov5_eg0B2XTYIGtKh6nxjtI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66830979/1_Pac_Man_EndlessMode.0.jpg' width='700px' /><br/>
+Pac-Man will be a playable game on Twitch starting this June, Bandai Namco and Amazon Games announced today. To play the Twitch version of the game, called Pac-Man Live Studio, you'll just need to navigate to the dedicated Twitch channel for the game when it goes live, though you'll only be able to play it on a web browser.
+<a href='https://www.theverge.com/2020/5/22/21266881/pac-man-live-studio-playable-on-twitch-june'> Source <a/>
