@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YAMDcHoqk-a6FLhvBQ_ZHun5VWA=/0x0:1020x676/1200x800/filters:focal(665x160:827x322)/cdn.vox-cdn.com/uploads/chorus_image/image/66829275/thomson-reuters-logo-stock_1020.0.jpg' width='700px' /><br/>
-A group of Thomson Reuters shareholders says the company's technology databases are being used by Immigration and Customs Enforcement to “track and arrest immigrants on a massive scale,” potentially causing reputational damage to the company.
-<a href='https://www.theverge.com/2020/5/21/21266431/thomson-reuters-ice-clear-software'> Source <a/>
