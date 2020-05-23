@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O-YbWztrwyv1xwB-DrHxeiUJ0C8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66833640/akrales_180328_2315_0942.0.jpg' width='700px' /><br/>
+They're pulling the plug on the New York Auto Show.
+<a href='https://www.theverge.com/2020/5/22/21267785/new-york-international-auto-show-nyais-2020-canceled-coronavirus'> Source <a/>

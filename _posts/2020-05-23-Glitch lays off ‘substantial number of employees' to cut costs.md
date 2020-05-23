@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yN2J74gB7O3nSDMAxVg2rCqS51w=/0x0:2466x1796/1200x800/filters:focal(948x326:1342x720)/cdn.vox-cdn.com/uploads/chorus_image/image/66834648/glitch.5.0.jpg' width='700px' /><br/>
+Glitch laid off “a substantial number of employees” on Thursday in an effort to cut costs and ensure “long term viability,” the company confirmed in an email to The Verge. Glitch said it had to “significantly cut operating costs” due to market conditions.
+<a href='https://www.theverge.com/2020/5/22/21268007/glitch-layoffs-substantial-number-coding-platform-union'> Source <a/>

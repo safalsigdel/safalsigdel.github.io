@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WwNAt634yPdw6RuOQdM3iF4EIf0=/0x0:2040x1360/1200x675/filters:focal(930x468:1256x794)/cdn.vox-cdn.com/uploads/chorus_image/image/66827582/VRG_ILLO_4033_007.0.jpg' width='700px' /><br/>
-In January, as reports about the spread of a novel coronavirus emerged from China, Mark Zuckerberg began to prepare for a potential pandemic. He began turning his teams to projects that would be useful during the long stay-at-home orders that would follow around the world — and would also highlight some of the more positive aspects of Facebook's vast size and reach.
-<a href='https://www.theverge.com/2020/5/21/21265780/facebook-remote-work-mark-zuckerberg-interview-wfh'> Source <a/>

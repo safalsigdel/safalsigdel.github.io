@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qG_J0006l9b-ayqwApyz9X1qnAc=/0x0:2699x1799/1200x800/filters:focal(1135x685:1565x1115)/cdn.vox-cdn.com/uploads/chorus_image/image/66834857/168295229.jpg.0.jpg' width='700px' /><br/>
+Seven months after he filed for Chapter 11 bankruptcy to deal with $3.6 billion in personal debt, the reorganization plan laid out by Jia Yueting — the tycoon founder of troubled EV startup Faraday Future — has been approved by a judge.
+<a href='https://www.theverge.com/2020/5/22/21268043/court-jia-yueting-faraday-future-bankruptcy-plan'> Source <a/>

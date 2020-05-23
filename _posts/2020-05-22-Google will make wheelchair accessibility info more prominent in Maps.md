@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/akMaxl13RBr7aVpVLm3GmH8uCJI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66827244/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Starting today, Google Maps will feature a new mode called Accessible Places that, when toggled on, will more prominently show wheelchair accessibility info, the company announced on Thursday. It will be rolling out gradually, the company says, for both Android and iOS.
-<a href='https://www.theverge.com/2020/5/21/21266371/google-maps-wheelchair-accessibility-accessible-places-feature-release'> Source <a/>

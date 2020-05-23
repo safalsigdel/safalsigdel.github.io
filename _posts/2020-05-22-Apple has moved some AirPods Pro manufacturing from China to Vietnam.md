@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JFQG9IzoRf064kIyzF7IwFMvaOg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66828541/cwelch_191031_3763_0002.0.jpg' width='700px' /><br/>
-Some Apple AirPods Pro cases now say the headphones are assembled in Vietnam, according to a Twitter user, multiple reports on the MacRumors forums, and one Verge staffer who recently purchased a pair, indicating the company may be reducing its reliance on Chinese manufacturing (via MacRumors). Typically, AirPods Pro units contain a message on the back of the case that says the device was assembled in China.
-<a href='https://www.theverge.com/2020/5/21/21266574/apple-airpods-pro-vietnam-china-chinese-manufacturing'> Source <a/>

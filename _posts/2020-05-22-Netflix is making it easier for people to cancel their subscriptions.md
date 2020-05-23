@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/voASCNG0S2rR_uJ4N8bEXoVElus=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66827474/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
-Netflix is trying to make it easier for people to cancel their service with a new automated prompt that will ask subscribers if they want to continue paying after a lengthy period of inactivity.
-<a href='https://www.theverge.com/2020/5/21/21266318/netflix-cancel-subscription-1-2-years-members-global'> Source <a/>

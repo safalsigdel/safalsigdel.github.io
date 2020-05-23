@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8rqlcJ3O195_6lIC7U6WLier4WA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66832569/acastro_200514_4022_microsoftFluid_0001.0.jpg' width='700px' /><br/>
+It's Friday, which means there's a new episode of The Vergecast to fill you in on all of the news from this week. Join Nilay, Dieter, and a rotation of other editors for everything that you need to know. The three topics covered this week are:
+<a href='https://www.theverge.com/21267420/podcast-microsoft-build-2020-musk-factory-rogan-spotify-vergecast-406'> Source <a/>

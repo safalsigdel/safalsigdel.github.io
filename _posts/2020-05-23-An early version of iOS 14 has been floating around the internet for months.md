@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wRXXWrcPafWsRv3m3vHtxj8ZHbQ=/0x0:2040x1360/1200x800/filters:focal(907x579:1233x905)/cdn.vox-cdn.com/uploads/chorus_image/image/66833226/akrales_190918_3645_0017.0.jpg' width='700px' /><br/>
+Security researchers, hackers, and bloggers have had access to an early version of iOS 14 since “at least February,” according to Vice. There have already been many iOS 14 leaks over the past few months, and it seems possible the information came from this early version of the operating system.
+<a href='https://www.theverge.com/2020/5/22/21267590/ios-14-leaked-early-version-internet-months-vice'> Source <a/>

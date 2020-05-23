@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jQx37a9j7sqBUHkTCu6mF6xLGoo=/0x0:5760x3840/1200x675/filters:focal(2353x2265:3273x3185)/cdn.vox-cdn.com/uploads/chorus_image/image/66833513/Precautions_8.0.jpg' width='700px' /><br/>
+In the last week, factory employees have returned to work across the United States to make cars for the country's four main auto manufacturers: Ford, General Motors, Fiat Chrysler Automobiles, and Tesla. And each of those companies has published a plan showing how it will try to keep those workers from contracting or spreading COVID-19.
+<a href='https://www.theverge.com/2020/5/22/21266240/ford-general-motors-fiat-tesla-reopen-playbook-testing-covid-19-coronavirus'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dzo9PKr9D-n-bIBlvQJGUx1JqtE=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/66828582/windows.0.png' width='700px' /><br/>
-Microsoft is making some improvements to its Windows 10 accessibility features, specifically centered around making the text cursor easier to see and follow using the built-in Magnifier feature. There's also new text-to-speech functionality being integrated into the Magnifier tool, as well as improvements to Narrator (the built-in Windows screen reader), all set to roll out in the May 2020 Update.
-<a href='https://www.theverge.com/2020/5/21/21266469/windows-10-accessibility-improvements-cursor-screen-reader-may-2020-update'> Source <a/>

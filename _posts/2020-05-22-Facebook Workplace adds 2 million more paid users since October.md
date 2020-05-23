@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H3XdrIo7pDWpniZHRm9E72rj3SM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66827790/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook's Workplace, its Slack-like collaboration and chat tool targeted at businesses, now has more than 5 million paid users, up from 3 million in October, Facebook announced today. That growth in users is due in large part to the COVID-19 pandemic, which has required many people to rely more on software tools while working from home.
-<a href='https://www.theverge.com/2020/5/21/21266481/facebook-workplace-paid-users-rooms-portal-tv-live-video-conferencing'> Source <a/>
