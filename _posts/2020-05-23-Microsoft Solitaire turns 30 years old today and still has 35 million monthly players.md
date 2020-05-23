@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0dB3LJxklGaClI-47vQkveqU31Q=/0x0:1155x745/1200x800/filters:focal(486x281:670x465)/cdn.vox-cdn.com/uploads/chorus_image/image/66830628/Solitaire__gray_.0.jpg' width='700px' /><br/>
-Microsoft's Solitaire game is turning 30 years old today. Microsoft is celebrating the occasion with a world record attempt of the most games of Microsoft Solitaire completed in one day. 35 million people still play Solitaire monthly, according to Microsoft, with more than 100 million hands played daily around the world.
-<a href='https://www.theverge.com/2020/5/22/21266718/microsoft-solitaire-30-years-old-history-birthday-record-attempt'> Source <a/>

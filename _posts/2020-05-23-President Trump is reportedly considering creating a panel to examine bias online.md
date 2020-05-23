@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cKC7UsRGwgEULNwhBwGXeLDxvOQ=/0x0:4428x2952/1200x800/filters:focal(1860x1122:2568x1830)/cdn.vox-cdn.com/uploads/chorus_image/image/66836153/1155189847.jpg.0.jpg' width='700px' /><br/>
+President Trump wants to create a panel that would look into complaints of bias against conservatives on social media and other online platforms, The Wall Street Journal reported.
+<a href='https://www.theverge.com/2020/5/23/21268433/president-trump-conservative-bias-social-media-twitter-facebook-google'> Source <a/>
