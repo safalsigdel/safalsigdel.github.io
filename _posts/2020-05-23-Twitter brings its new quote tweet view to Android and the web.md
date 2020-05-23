@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1NEBU8mPnavgKZAxY4frIPXc9jA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66829841/acastro_170726_1777_0010.0.jpg' width='700px' /><br/>
-Twitter made it easier to see quote tweets on iOS on May 12th, and that new functionality is now available on Twitter for Android and for the web, the company announced today.
-<a href='https://www.theverge.com/2020/5/21/21266986/twitter-quote-tweets-android-web'> Source <a/>
