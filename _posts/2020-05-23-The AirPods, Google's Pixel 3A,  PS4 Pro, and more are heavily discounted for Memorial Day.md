@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0zFEJhmoKeqVbJVV5iA6qLuX1vs=/0x0:2040x1360/1200x800/filters:focal(761x462:1087x788)/cdn.vox-cdn.com/uploads/chorus_image/image/66835882/Apple_Airpods.0.jpg' width='700px' /><br/>
+It's Memorial Day weekend in the US. Several retailers are offering some of the best deals that we've seen in months, spanning several categories of tech. There's quite a lot to look at today, so we've included a selection of promotions below.
+<a href='https://www.theverge.com/good-deals/2020/5/23/21267475/apple-airpods-google-pixel-3a-ps4-pro-memorial-day-sale-deals'> Source <a/>
