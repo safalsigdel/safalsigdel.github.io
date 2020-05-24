@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DcuVa2CPO16EgJTajVIr0YB7OKU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66830662/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
-The latest stable version of Microsoft's Edge browser finally adds support for extension syncing, meaning you won't have to manually re-install extensions individually with each new device. Microsoft teased the feature as part of its Build announcement earlier this week, but the update log for the browser's latest version (83.0.478.37, to be exact) confirms that it's rolling out now.
-<a href='https://www.theverge.com/2020/5/22/21267281/microsoft-edge-extension-sync-stable-release-cookie-clear-exemption-profile-switch'> Source <a/>
