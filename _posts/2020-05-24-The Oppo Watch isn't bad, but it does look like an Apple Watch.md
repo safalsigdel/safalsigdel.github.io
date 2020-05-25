@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tQNWGXaZqvAzYZJHLcfjQBa_kig=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66830811/DSCF7222.0.jpg' width='700px' /><br/>
-After I recently wrote about Oppo's “oddly familiar” new smartwatch, Oppo got in touch with me to ask whether I'd be interested in checking it out for myself, even though it'll only be available in China until later this year. The company representative suggested that I might find it less familiar in person, so I was interested to try it.
-<a href='https://www.theverge.com/2020/5/22/21267264/oppo-watch-hands-on-preview-smartwatch-china-apple'> Source <a/>
