@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6kioDcBsj8ZdN_D-5wOVT6sYsmw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66839423/akrales_190914_3666_0109.0.jpg' width='700px' /><br/>
+If your iPhone or iPad has dozens of apps needing unexpected updates, don't worry: you're not alone. For some reason, Apple appears to be reissuing recently-published app updates, resulting in users having to reinstall the latest version of some apps.
+<a href='https://www.theverge.com/2020/5/25/21269437/apple-ios-unxepected-app-updates-13-5-bug-error'> Source <a/>
