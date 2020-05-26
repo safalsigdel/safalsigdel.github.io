@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BI368mWdSxH_6AMbkXVusuiCvG8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66843361/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
+YouTube is automatically deleting comments that contain certain Chinese-language phrases related to criticism of the country's ruling Communist Party (CCP).
+<a href='https://www.theverge.com/2020/5/26/21270290/youtube-deleting-comments-censorship-chinese-communist-party-ccp'> Source <a/>
