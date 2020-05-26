@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-Google's midrange Pixel 3A and Pixel 3A XL are more affordable than ever today. Amazon, Best Buy, and B&H Photo have discounted the 3A with 64GB of storage to $279 ($120 off). The larger Pixel 3A XL is seeing an even bigger $160 price cut at those stores, which brings the cost of the 64GB model down to $319. We've seen a lower price on the Pixel 3A around the holidays, though if you like big screens, there's never been a better deal for the Pixel 3A XL.
-<a href='https://www.theverge.com/good-deals/2020/5/22/21267376/google-pixel-3a-xl-deal-best-buy-bh-photo-amazon-gamestop-games-ipad'> Source <a/>

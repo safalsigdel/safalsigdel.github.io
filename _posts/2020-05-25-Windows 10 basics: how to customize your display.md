@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hCNgw5WUBN9zjBQtSq-EW73eJt8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66831739/awhite_20200304_3921_0048.0.jpg' width='700px' /><br/>
-If you've just bought a new laptop, one of the first things you're probably going to want to do is personalize how it looks. Windows has plenty of options for customizing what you see when you open up your device. You can choose a lock screen, use a photo or other image as your wallpaper, and pick a theme.
-<a href='https://www.theverge.com/2020/5/22/21259273/windows-10-how-to-customize-display-wallpaper-lock-screen-background'> Source <a/>

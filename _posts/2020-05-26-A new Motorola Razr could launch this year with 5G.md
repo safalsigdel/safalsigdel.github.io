@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tUlwH8f5mHP4lD2GtULJaNLmm18=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66840943/awhite_200210_3893_0009.0.jpg' width='700px' /><br/>
+A new version of the Motorola Razr foldable could launch this year, and it might have 5G, a bigger battery, and improved cameras (via 9to5Google). Those could address some of the many criticisms of the original model, which came out in February.
+<a href='https://www.theverge.com/2020/5/25/21269731/new-motorola-razr-launch-this-year-september-5g-bigger-battery-better-camera-foldable'> Source <a/>
