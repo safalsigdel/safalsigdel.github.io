@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E_j390TjeTC_V8yPGNmB5yOW-r4=/0x0:1152x768/1200x800/filters:focal(484x292:668x476)/cdn.vox-cdn.com/uploads/chorus_image/image/66843506/oneplus_fortnite.0.jpg' width='700px' /><br/>
+The OnePlus 8 series can now run Fortnite at 90fps, thanks to a collaboration between OnePlus and Epic Games. The update makes these devices the first phones to run Fortnite at a smooth 90 frames per second.
+<a href='https://www.theverge.com/2020/5/26/21270320/fortnite-oneplus-8-frame-rate-epic-games-partnership-90-fps'> Source <a/>
