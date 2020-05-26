@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JpH9Sge6Dv8N-V5xwHr2xFiYoJY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66835971/acastro_190521_1777_huawei_0004.0.0.jpg' width='700px' /><br/>
-After resisting pressure from the US for months, Prime Minister Boris Johnson is apparently preparing to phase out the use of Huawei equipment from the UK's 5G networks, the Financial Times reported. Citing national security concerns, members of the UK's Conservative party have pushed for Huawei technology to be removed from the UK's 5G infrastructure and the rest of its telecom network by 2023.
-<a href='https://www.theverge.com/2020/5/23/21268397/uk-phase-out-huawei-boris-johnson-trump-5g'> Source <a/>
