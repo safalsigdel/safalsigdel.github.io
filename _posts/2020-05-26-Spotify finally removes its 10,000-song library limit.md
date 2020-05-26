@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Wi1VeXgkd9u7rZ8LOgxwARRKdWU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66843474/DSCF1711.0.jpg' width='700px' /><br/>
+Spotify has finally removed its 10,000-song cap on library sizes, allowing users to add as much music as they'd like to their personal libraries without any limits at all, fixing a problem that has plagued music-lovers on the service for years.
+<a href='https://www.theverge.com/2020/5/26/21270409/spotify-song-library-limit-removed-music-downloads-playlists-feature'> Source <a/>
