@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1qZOjVDyEBkqtiTj0OqpZY9uecs=/0x0:800x600/1200x800/filters:focal(336x236:464x364)/cdn.vox-cdn.com/uploads/chorus_image/image/66843132/EYdiaJMUwAE81TT.0.jpg' width='700px' /><br/>
+Sony has officially announced the ZV-1, a compact camera designed specifically for shooting video. Even more specifically than that, it's designed for vlogging. It's based on essentially the same core as the popular RX100 point-and-shoot camera line, but optimized for video with a few features that will appeal to people who regularly need to shoot footage of themselves.
+<a href='https://www.theverge.com/2020/5/26/21270193/sony-zv-1-camera-vlogging-rx100'> Source <a/>
