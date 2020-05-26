@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CqyJmAStQToxPAmdrhQyslSOolQ=/0x0:1536x865/1200x800/filters:focal(646x311:890x555)/cdn.vox-cdn.com/uploads/chorus_image/image/66843774/NoviWordmark.0.png' width='700px' /><br/>
+Facebook is renaming Calibra, the digital wallet it hopes will one day be used to access the Libra digital currencies, Novi. In a blog post the company said that the new name was inspired by the Latin words “novus” and “via,” which mean “new” and “way,” respectively. Novi Financial is the new name of the Facebook subsidiary that will develop the company's digital wallet.
+<a href='https://www.theverge.com/2020/5/26/21270437/facebook-calibra-novi-rename-digital-wallet'> Source <a/>

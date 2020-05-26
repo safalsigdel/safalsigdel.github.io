@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V9b4AHr67ShWRARjRM0kjqjIUnU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66835793/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter is testing a new feature that lets users decide who can reply to their tweets, the company announced on Wednesday, and some accounts are already using it in some interesting new ways.
-<a href='https://www.theverge.com/2020/5/23/21266969/twitter-new-reply-limiting-feature-how-using-changing-talk'> Source <a/>
