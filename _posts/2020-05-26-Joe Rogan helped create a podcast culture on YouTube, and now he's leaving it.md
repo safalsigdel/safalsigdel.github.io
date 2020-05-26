@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AIsb3wfz2AahBcEZRTjstp7PZjA=/0x0:1440x825/1200x800/filters:focal(605x298:835x528)/cdn.vox-cdn.com/uploads/chorus_image/image/66832490/rogan_musk.0.jpg' width='700px' /><br/>
-Joe Rogan is largely moving on from YouTube, a site that helped transform his podcast into a viral video-making factory, earning him nearly 10 million subscribers in the process. It's the latest sign that creators who found success on YouTube see other platforms as the next step, but it doesn't mean that YouTube is anywhere close to being cut out of the podcast game.
-<a href='https://www.theverge.com/21264838/joe-rogan-youtube-podcast-spotify-video-future-creators'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EBOoMz52JHjNWnwJKOybhUe_cgU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66842267/DSCF7230.0.jpg' width='700px' /><br/>
+Realme has a new high-end phone, and for the first time ever the brand is bringing it to Europe before its usual stomping ground of India. The Realme X3 Superzoom is launching in Spain and the UK first, as are more of the company's new products including the Realme Watch and the Realme Band.
+<a href='https://www.theverge.com/2020/5/26/21270219/realme-x3-superzoom-uk-spain-launch-price-specs'> Source <a/>
