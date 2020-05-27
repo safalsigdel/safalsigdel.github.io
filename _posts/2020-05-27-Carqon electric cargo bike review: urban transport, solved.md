@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PzI2vwfDyPyWFrIZAKkG8AM1JKo=/0x0:2040x1385/1200x675/filters:focal(857x530:1183x856)/cdn.vox-cdn.com/uploads/chorus_image/image/66842481/verge_DSC_8548_2040pxl.0.jpg' width='700px' /><br/>
-If you still think cars, even electric cars, are the future of urban transportation, the Carqon electric cargo bike is here to convince you otherwise.
-<a href='https://www.theverge.com/2020/5/26/21269590/carqon-cargo-bike-review-price-specs'> Source <a/>
