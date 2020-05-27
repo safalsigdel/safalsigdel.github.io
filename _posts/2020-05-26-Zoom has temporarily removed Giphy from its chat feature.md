@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YO6afG5tnIpxtuYCv8LJ9DkVRZI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66840170/acastro_200331_1777_zoom_0003.0.0.jpg' width='700px' /><br/>
-Zoom has temporarily disabled the integration of GIF platform Giphy in its chat feature, the company said in a blog post. “Once additional technical and security measures have been deployed, we will re-enable the feature.” Zoom didn't offer any specifics beyond that on Giphy's removal.
-<a href='https://www.theverge.com/2020/5/25/21269506/zoom-disables-giphy-gifs-chat-security-facebook'> Source <a/>

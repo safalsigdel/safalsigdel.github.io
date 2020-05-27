@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VR-7mbpx1JlFG_YKUG3cNQ4zEYE=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/66844957/__Michael_Moore_with_Jeff_Gibbs_and_Ozzie_Zehner_2019_08_04_Traverse_City_Film_Festival_Planet_of_the_Humans_JGanter__MG_9830.0.jpg' width='700px' /><br/>
+The controversial film Planet of the Humans, produced by Michael Moore, was taken down from YouTube on Monday because of a copyright infringement claim. The complaint was filed by photographer Toby Smith, who was alarmed that his work was used in a film that he doesn't support, The Guardian reports.
+<a href='https://www.theverge.com/2020/5/26/21270549/youtube-michael-moore-film-renewable-energy-climate-change-removed'> Source <a/>

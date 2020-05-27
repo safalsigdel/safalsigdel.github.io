@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rMkdDfuCBeX4f9HbK9lKuwhHrXU=/0x0:4096x3000/1200x800/filters:focal(1721x1173:2375x1827)/cdn.vox-cdn.com/uploads/chorus_image/image/66838910/Untitled.0.png' width='700px' /><br/>
-Sony's new flagship smartphone, the Xperia 1 II (pronounced “mark two”), will ship in the US starting July 24th for $1,199, the company announced. Pre-orders start on June 1st. And if you pre-order by June 28th, you'll get a free pair of Sony WF-1000XM3 noise canceling earbuds.
-<a href='https://www.theverge.com/2020/5/24/21268097/sonys-xperia-1-ii-ships-july-24th-1199-us-united-states'> Source <a/>

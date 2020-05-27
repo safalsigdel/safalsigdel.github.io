@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-gClzhi0Y5giT-Z1kAkMWnOVvHk=/0x0:3000x1993/1200x800/filters:focal(1260x757:1740x1237)/cdn.vox-cdn.com/uploads/chorus_image/image/66839395/VXOZUGGg.0.jpeg' width='700px' /><br/>
-Realme's explosive performance in India has made it one of the fastest growing smartphone brands in the world, and today the company is expanding into the nebulous “lifestyle tech” market with products in new categories.
-<a href='https://www.theverge.com/2020/5/25/21269421/realme-watch-tv-announced-india-price-release-date'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SU9tfZ2I_BLHNUYx_503lc8_qFo=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66839958/VRG_ILLO_4032_001.0.jpg' width='700px' /><br/>
-On March 20th, as the coronavirus situation in New York City hurtled toward full-blown crisis, Madiha Choksi was packing a taxi with two Flashforge 3D printers and as much filament as she could fit.
-<a href='https://www.theverge.com/2020/5/25/21264243/face-shields-diy-ppe-3d-printing-coronavirus-covid-maker-response'> Source <a/>

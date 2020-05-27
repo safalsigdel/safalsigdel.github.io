@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/co_s_wZkxOCc1ahfmJ2hN3cHEKc=/0x0:2048x1985/1200x800/filters:focal(861x830:1187x1156)/cdn.vox-cdn.com/uploads/chorus_image/image/66839511/Galaxy_Note20_Plus_4K4_2048x2048.0.jpg' width='700px' /><br/>
-Last year's Galaxy Note 10 Plus was truly a thing of beauty, with an amazing screen and superlative industrial design. And, judging by some high-quality (and completely unofficial) renders of the Galaxy Note 20 Plus, it looks like Samsung won't be changing too much in 2020. The only major difference is a new, bulkier camera module on the rear of the device.
-<a href='https://www.theverge.com/2020/5/25/21269444/samsung-galaxy-note-20-plus-cad-renders-leak-design-specs'> Source <a/>

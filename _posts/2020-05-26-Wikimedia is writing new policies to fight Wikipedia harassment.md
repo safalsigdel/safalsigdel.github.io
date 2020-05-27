@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YPOyS0U62fskovIEVEDdpq-7uqU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66840012/acastro_190228_1777_vpn_0003.0.jpg' width='700px' /><br/>
-Wikipedia plans to crack down on harassment and other “toxic” behavior with a new code of conduct. The Wikimedia Foundation Board of Trustees, which oversees Wikipedia among other projects, voted on Friday to adopt a more formal moderation process. The foundation will draft the details of that process by the end of 2020, and until then, it's tasked with enforcing stopgap anti-harassment policies.
-<a href='https://www.theverge.com/2020/5/25/21269482/wikimedia-foundation-anti-harassment-code-of-conduct-vote'> Source <a/>

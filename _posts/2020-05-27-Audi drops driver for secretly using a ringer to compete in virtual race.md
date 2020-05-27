@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qy0BS5u6sX2vwnFjUDyuXmRbIbg=/0x0:6376x4251/1200x800/filters:focal(2678x1616:3698x2636)/cdn.vox-cdn.com/uploads/chorus_image/image/66844802/1176353663.jpg.0.jpg' width='700px' /><br/>
+Audi has dropped driver Daniel Abt in the all-electric racing series Formula E after he had a pro sim driver surreptitiously race for him during a virtual competition over the weekend. He has also been told to pay xe2x82xac10,000 to charity as a result.
+<a href='https://www.theverge.com/2020/5/26/21270503/audi-drops-formula-e-daniel-abt-esports-racing-ringer-scandal'> Source <a/>
