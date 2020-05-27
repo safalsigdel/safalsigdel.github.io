@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-ARM has announced its latest high-end mobile designs, the Cortex-A78 CPU and the Mali-G78 GPU, which will be used to power the next flagship smartphones of 2021 and beyond.
-<a href='https://www.theverge.com/circuitbreaker/2020/5/26/21267893/arm-cortex-a78-mali-g78-cpu-gpu-designs-smartphones-2021-samsung-qualcomm-apple'> Source <a/>

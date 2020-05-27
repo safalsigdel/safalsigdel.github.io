@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qv-587a7OAe7_N3bGfJorXbJCRM=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66847834/DSCF8146.0.0.jpg' width='700px' /><br/>
+Fujifilm has released new software that lets you use certain X-series and GFX-series mirrorless cameras as ultra-high-quality webcams. The app is called Fujifilm X Webcam and works over USB, letting you benefit from much sharper lenses and larger image sensors than the potato camera in your laptop. You're even able to use Fujifilm's renowned film simulation modes.
+<a href='https://www.theverge.com/2020/5/27/21271565/fujifilm-x-webcam-app-mirrorless-camera'> Source <a/>
