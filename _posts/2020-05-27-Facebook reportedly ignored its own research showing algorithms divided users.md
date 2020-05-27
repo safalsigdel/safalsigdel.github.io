@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O6_NiyHCPC2IQd5UJl7xO8Vdw1Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66844531/acasto_180123_1777_0003_v8.0.jpg' width='700px' /><br/>
-An internal Facebook report presented to executives in 2018 found that the company was well aware that its product, specifically its recommendation engine, stoked divisiveness and polarization, according to a new report from The Wall Street Journal.
-<a href='https://www.theverge.com/2020/5/26/21270659/facebook-division-news-feed-algorithms'> Source <a/>

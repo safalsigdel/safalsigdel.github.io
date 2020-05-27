@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/H_DCceAM5Il71PLcCZv9yNd2bEg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66848440/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
+YouTube Kids, Google's video streaming service aimed at children, can now be viewed on Apple TV streaming boxes, the company announced. The YouTube Kids app is available to download now in the App Store in the UK, US, and dozens of other countries. It can be used with or without a Google login.
+<a href='https://www.theverge.com/21271670/youtube-kids-apple-tv-4k-child-friendly-streaming-service-parental-controls'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FtRVs1yw28KuAwk8eMrlGM2gujM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66844091/acastro_191108_1777_t-mobile_0001.0.0.jpg' width='700px' /><br/>
-T-Mobile subscribers can now send RCS messages to people on other phone networks, so long as everyone involved has an Android phone and support for the new messaging standard.
-<a href='https://www.theverge.com/2020/5/26/21270386/tmobile-rcs-cross-carrier-universal-profile-google-messages'> Source <a/>

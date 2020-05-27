@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kCT-FD-Ya7hm0JLjx8CKOWDhRVY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66843664/acastro_190412_1777_slack_0002.0.jpg' width='700px' /><br/>
-Slack is exploring a wide variety of new features that could be making their way to the popular messaging platform, including scheduled messages, Instagram-style stories, and short video and audio messages.
-<a href='https://www.theverge.com/2020/5/26/21270464/slack-scheduled-messages-notification-control-stories-curate-new-features-stewart-butterfield'> Source <a/>

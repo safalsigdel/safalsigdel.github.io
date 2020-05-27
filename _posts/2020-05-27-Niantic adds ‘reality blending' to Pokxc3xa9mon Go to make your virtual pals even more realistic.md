@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SXEueAqAB0pDvR6exrqAoY-tnwE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66843555/DSCF5354.0.jpg' width='700px' /><br/>
-Niantic Labs is adding a new augmented reality feature to Pokxc3xa9mon Go next month that will make the virtual creatures look even more realistic. The new feature will let real-world objects obscure parts of the pocket monsters or let them hide entirely behind environmental fixtures like trees or furniture.
-<a href='https://www.theverge.com/2020/5/26/21269862/niantic-pokemon-go-reality-blending-ar-features-release-update'> Source <a/>

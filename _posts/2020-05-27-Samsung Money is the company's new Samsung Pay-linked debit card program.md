@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GzXMzENrs0vskGkMygLAVJQKReg=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/66848812/samsung_money.0.png' width='700px' /><br/>
+Samsung has announced further details for its upcoming debit card program: it's called Samsung Money by SoFi (which, as previously announced, is partnering with Samsung on the program), and it'll tie in directly with the existing Samsung Pay app.
+<a href='https://www.theverge.com/2020/5/27/21271684/samsung-money-pay-debit-card-program-sofi-mastercard-tracking-finance'> Source <a/>

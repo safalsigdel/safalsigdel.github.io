@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DTE64LNs9zUQM4vcAbq0n33ycP8=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/66843742/stock-slack-iphone-6-0157.0.0.jpg' width='700px' /><br/>
-Slack CEO Stewart Butterfield claimed earlier this month that Microsoft Teams isn't a competitor to Slack. In an interview with The Verge, Butterfield has revealed that, inside Slack, the company feels that “Microsoft is perhaps unhealthily preoccupied with killing us, and Teams is the vehicle to do that.”
-<a href='https://www.theverge.com/2020/5/26/21270421/slack-ceo-stewart-butterfield-microsoft-teams-competition'> Source <a/>
