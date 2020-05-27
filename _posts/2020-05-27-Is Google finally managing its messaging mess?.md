@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kCOARa6Gux2GoSY7lwXnNYzC6PY=/0x0:640x264/1200x0/filters:focal(0x0:640x264):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19568241/proc_newsletter_header.png' width='700px' /><br/>
+Sadly, the time has come for me to write about Rich Communication Services again. There have been a few pieces of news about it in the past week or so and I find myself vaguely optimistic that by this time next year Google will be offering properly encrypted messaging to Android users with a relatively simple, seamless experience that's well on its way to being universally available.
+<a href='https://www.theverge.com/2020/5/27/21271186/google-rcs-t-mobile-encryption-ccmi-universal-profile'> Source <a/>
