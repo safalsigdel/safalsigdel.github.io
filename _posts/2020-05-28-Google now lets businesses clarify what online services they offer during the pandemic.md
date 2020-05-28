@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R2iQWZpyLtUGZbNen4q17wH891s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66848862/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google will soon let businesses add additional descriptors to their listings that appear in Google Search and Maps results to better help potential customers understand what online services they offer. The company is adding these new descriptors and announcing a number of other features today to help businesses better surface important information for customers during the COVID-19 pandemic.
-<a href='https://www.theverge.com/2020/5/27/21271258/google-merchants-business-listings-pandemic-attributes-restaurants'> Source <a/>

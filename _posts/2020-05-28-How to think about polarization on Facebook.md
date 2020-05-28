@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UyMXtvN7C7in_M3umwLw9HE8qDo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66858370/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
+I.
+<a href='https://www.theverge.com/interface/2020/5/28/21272001/facebook-polarization-wall-street-journal-guy-rosen-platform-integrity-twitter-trump'> Source <a/>
