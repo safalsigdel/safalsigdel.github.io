@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wo5cmZgdLGpbcMV2ci4R0_Qmq88=/0x0:2040x1360/1200x800/filters:focal(837x538:1163x864)/cdn.vox-cdn.com/uploads/chorus_image/image/66851170/nstatt_180611_2668_0020.0.jpg' width='700px' /><br/>
-Microsoft's Mixer streaming platform is making a bigger splash in the live event game with a new tournament series starting this week featuring Fortnite player Tyler “Ninja” Blevins. Called Ninja Battles Featuring Fortnite, the weekly tournament series will take place starting this week on May 28th and lasting every Thursday through July, reports Deadline.
-<a href='https://www.theverge.com/2020/5/27/21272134/ninja-battles-fortnite-tournament-mixer-microsoft-live-event-series-launch'> Source <a/>
