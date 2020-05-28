@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S8JL33Z7oWsMVncAssdDHEJ16jo=/0x0:1024x665/1200x800/filters:focal(431x252:593x414)/cdn.vox-cdn.com/uploads/chorus_image/image/66852291/jump_seattle_stored_4.0.jpg' width='700px' /><br/>
-Uber is sending tens of thousands of its electric Jump bikes to the scrap yard, weeks after offloading the money-losing bike-share division on Lime. The news of the scrapped bikes has incensed bike enthusiasts on social media, one of whom decried the act as “unconscionable.”
-<a href='https://www.theverge.com/2020/5/27/21271927/uber-jump-bike-scooter-scrap-photos-video-lime-junkyard'> Source <a/>

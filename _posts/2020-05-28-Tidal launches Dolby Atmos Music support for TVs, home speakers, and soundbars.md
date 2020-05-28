@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bqfs80_GUdSGN1ltPFTeK3OUPD4=/0x0:2470x1666/1200x800/filters:focal(1038x636:1432x1030)/cdn.vox-cdn.com/uploads/chorus_image/image/66863173/Screen_Shot_2020_05_28_at_9.34.07_AM.0.png' width='700px' /><br/>
+Tidal is vastly expanding its support for Dolby Atmos Music today to include living room set-top boxes, TVs, and speaker systems for subscribers to its $19.99-per-month Tidal HiFi service. Or, depending on how you feel about the mobile version of Atmos, Tidal is launching its first “real” implementation of Dolby Atmos Music today.
+<a href='https://www.theverge.com/2020/5/28/21273103/tidal-dolby-atmos-music-support-tv-home-speakers-sound-bars-hifi'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A2imuLYMBj3bbMbdVFHRmmSdZxY=/0x0:681x383/1200x800/filters:focal(282x79:390x187)/cdn.vox-cdn.com/uploads/chorus_image/image/66853016/fraggle_rock_1.0.jpg' width='700px' /><br/>
-Apple is acquiring Fraggle Rock's past TV seasons ahead of a new reboot set to land on Apple TV Plus, signaling a potential strategy shift for a service that has thus far relied entirely on original content.
-<a href='https://www.theverge.com/21271931/fraggle-rock-apple-tv-plus-new-series-licensed-strategy'> Source <a/>
