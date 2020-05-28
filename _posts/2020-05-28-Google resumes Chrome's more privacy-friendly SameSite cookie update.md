@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KxOkOBifnrXBYtTo_XCL7R7P-B0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66863950/acastro_200207_3900_chrome_0001.0.0.jpg' width='700px' /><br/>
+Google announced on Thursday that it will bring its SameSite cookie update back starting July 14th, alongside the launch of Chrome 84. The update will roll out gradually to Chrome 80 and later versions.
+<a href='https://www.theverge.com/2020/5/28/21273293/google-chrome-samesite-cookie-third-party-update'> Source <a/>
