@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fnwJysaIv12n6f0z6-uuCpdzYNU=/0x0:2569x1722/1200x800/filters:focal(1080x656:1490x1066)/cdn.vox-cdn.com/uploads/chorus_image/image/66858183/hue_play_sync.0.jpg' width='700px' /><br/>
-The box that syncs Philips Hue lights with whatever's on your TV is getting a big update today: it now supports two major HDR standards: HDR10+ and Dolby Vision.
-<a href='https://www.theverge.com/21272142/philips-hue-tv-sync-box-now-hdr10-dolby-vision-support-infrared-remote-harmony'> Source <a/>
