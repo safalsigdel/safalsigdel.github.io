@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YhlFW2ZGHcJERVrmyDDRi2ShaaY=/0x0:1296x730/1200x800/filters:focal(409x164:615x370)/cdn.vox-cdn.com/uploads/chorus_image/image/66863757/the_simpsons_couch_a_l.0.0.jpg' width='700px' /><br/>
+Earlier seasons of The Simpsons are finally available to stream in its proper 4:3 aspect ratio, a task Disney Plus' product team had to spend some time figuring out.
+<a href='https://www.theverge.com/2020/5/28/21273425/simpsons-disney-plus-aspect-ratio-tech-platform-content-package-169-43'> Source <a/>
