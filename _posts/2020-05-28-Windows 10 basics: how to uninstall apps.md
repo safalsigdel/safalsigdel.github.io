@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nVFIEt5Quik3YRrJLknI3zUXtZg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66853236/akrales_200507_4005_0212.0.jpg' width='700px' /><br/>
-There are several reasons you might want to uninstall applications and / or programs from your Windows 10 PC. You may be trying to free up space, or you no longer use that application, or the program came with your PC and you don't really need it.
-<a href='https://www.theverge.com/21267761/windows-10-uninstall-apps-programs-remove-delete'> Source <a/>
