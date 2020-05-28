@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SG61Np1IBDtO6bl8Ff3BHwG2q6M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66854053/acastro_180130_1777_0003.0.jpg' width='700px' /><br/>
-Arizona Attorney General Mark Brnovich has filed a lawsuit against Google over allegations the company illegally tracked Android users' location without their consent and even when the location tracking features had been manually disabled, according to a report from The Washington Post.
-<a href='https://www.theverge.com/2020/5/27/21272625/arizona-ag-sues-google-location-tracking-android-allegations'> Source <a/>

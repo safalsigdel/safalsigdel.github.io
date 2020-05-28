@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SDGyr6arz9Zy6TnbpiDyVUONT-0=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/66853822/GeForce_NOW_Platforms_crop_verge.0.jpg' width='700px' /><br/>
-Nvidia announced a new policy for its GeForce Now cloud gaming service on Wednesday that means publishers and developers will have to opt into the platform to have titles remotely playable via Nvidia servers.
-<a href='https://www.theverge.com/2020/5/27/21272558/nvidia-geforce-now-opt-in-agreement-game-developers-publishers-licensing-cloud-gaming'> Source <a/>
