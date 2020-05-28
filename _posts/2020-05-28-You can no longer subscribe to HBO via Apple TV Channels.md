@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qIWb7YDL2bwnnKEAGM8DkxUTCPg=/0x0:2000x1333/1200x800/filters:focal(900x516:1220x836)/cdn.vox-cdn.com/uploads/chorus_image/image/66854274/download__1_.0.jpeg' width='700px' /><br/>
-HBO is no longer available as an Apple TV Channel for people who want to subscribe to it though the Apple TV app, according to 9to5Mac). The change follows today's launch of the new streaming service HBO Max.
-<a href='https://www.theverge.com/2020/5/27/21272613/hbo-no-longer-available-new-subscribers-apple-tv-channels-max'> Source <a/>
