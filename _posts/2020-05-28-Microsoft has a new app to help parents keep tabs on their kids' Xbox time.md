@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KLh7aHXZqMeYg99PFah8B3xPNxk=/0x0:940x528/1200x800/filters:focal(625x173:775x323)/cdn.vox-cdn.com/uploads/chorus_image/image/66849990/Hero_001.0.jpg' width='700px' /><br/>
-Microsoft's Xbox Family Settings App is a new way for parents and guardians to manage how their children spend their gaming time. Available in preview today on Android and iOS, the app lets parents keep tabs and set limits on how their children use Xbox One consoles and, to a lesser extent, Windows 10 PCs.
-<a href='https://www.theverge.com/2020/5/27/21271922/xbox-family-settings-app-screen-time-limits-windows-10'> Source <a/>

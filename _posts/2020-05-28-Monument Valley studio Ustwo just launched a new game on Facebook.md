@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PEPw1z5b4odqei6FWDrnXxTRe58=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66862687/GoGoBots_Key_Art.0.png' width='700px' /><br/>
+While we're waiting for the eventual release of Monument Valley 3, developer Ustwo has just launched another surprise: a cyberpunk climbing game called Go Go Bots. Perhaps the biggest surprise, though, is that the new game is exclusive to Facebook.
+<a href='https://www.theverge.com/2020/5/28/21271720/go-go-bots-facebook-game-ustwo-monument-valley'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dkV0IhLAaSpdBwJOdiGKIA0D_6A=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66859913/nuro_r2_05_original.0.jpg' width='700px' /><br/>
+Nuro, the autonomous vehicle startup founded by two ex-Google engineers, will use its small fleet of road-legal delivery robots to transport pharmaceuticals to CVS customers in Houston, Texas, the companies announced on Thursday.
+<a href='https://www.theverge.com/2020/5/28/21272966/nuro-cvs-autonomous-medicine-delivery-robot-houston'> Source <a/>

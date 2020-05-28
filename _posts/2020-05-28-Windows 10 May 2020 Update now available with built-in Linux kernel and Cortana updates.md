@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/76lUlWTip9D92N_eAai8LYIi88M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66850744/VRG_ILLO_4030_Windows_10_Guide_002.0.0.jpg' width='700px' /><br/>
-Microsoft is releasing its Windows 10 May 2020 Update today. It's the latest “major” update to Windows 10, and its big features include the Windows Subsystem for Linux 2 and Cortana updates. Microsoft released a final version of the update to testers last month, and everyone on Windows 10 can get access to the May 2020 Update through Windows Update today.
-<a href='https://www.theverge.com/2020/5/27/21271655/microsoft-windows-10-may-2020-update-download-available'> Source <a/>

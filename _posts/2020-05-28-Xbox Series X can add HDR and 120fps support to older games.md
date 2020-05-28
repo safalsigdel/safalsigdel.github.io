@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8v2IvIs8kRbRs1fh6HxGfGPDuSI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66859883/XboxSeriesXTech_Inline1.0.jpg' width='700px' /><br/>
+Microsoft is planning to automatically add HDR support to games played on its upcoming Xbox Series X console. While existing games will automatically play better on the Xbox Series X, Microsoft is also doing some work to add HDR support and even improve some games from a 30fps locked framerate to 60fps, or 60fps to 120fps.
+<a href='https://www.theverge.com/2020/5/28/21272937/microsoft-xbox-series-x-automatic-hdr-support-framerates'> Source <a/>

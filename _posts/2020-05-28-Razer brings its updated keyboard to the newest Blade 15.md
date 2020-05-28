@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/I3VP33eWhZMpbBhlMU7p7R8qaTs=/0x0:7945x5955/1200x800/filters:focal(3338x2343:4608x3613)/cdn.vox-cdn.com/uploads/chorus_image/image/66862724/Razer_Blade_15_Studio_Edition___2020___Top_shot.0.jpg' width='700px' /><br/>
+Razer has announced its new Blade 15 Studio Edition, a high-powered, high-priced laptop for creative professionals. Razer calls it “a mobile workstation tailored to meet the needs of every type of creator from audio engineer to VFX artist.”
+<a href='https://www.theverge.com/21272538/razer-blade-15-studio-announced-keyboard-intel-nvidia-quadro'> Source <a/>

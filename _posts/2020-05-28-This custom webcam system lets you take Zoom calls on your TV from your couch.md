@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/neqoX4VhGQJOwKBMEK6cipUZxZ4=/0x0:6879x4481/1200x800/filters:focal(2890x1691:3990x2791)/cdn.vox-cdn.com/uploads/chorus_image/image/66859932/Crestron_Home___HomeTime___Lifestyle.0.jpg' width='700px' /><br/>
+Crestron, which offers services to help people customize their smart homes, has teamed up with Logitech and Zoom to make an at-home video conferencing setup using technology you'd typically find in an office conference room.
+<a href='https://www.theverge.com/2020/5/28/21271849/crestron-in-home-video-conferencing-logitech-meetup-camera-zoom-rooms-hometime'> Source <a/>

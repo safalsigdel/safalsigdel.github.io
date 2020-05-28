@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wi-6g4J3_O7sXGWK0pq1j3TJS4k=/0x0:1364x948/1200x800/filters:focal(573x365:791x583)/cdn.vox-cdn.com/uploads/chorus_image/image/66850716/Screen_Shot_2020_05_27_at_9.10.00_AM.0.png' width='700px' /><br/>
-Microsoft is adding new abilities to Outlook's “Play My Emails” feature, allowing you to use voice control to organize your emails and day-to-day schedule. The company originally released Play My Emails for Outlook last November, letting Microsoft's AI assistant Cortana read emails out loud to users.
-<a href='https://www.theverge.com/2020/5/27/21271857/microsoft-outlook-play-my-emails-cortana-meetings-features-voice-control'> Source <a/>
