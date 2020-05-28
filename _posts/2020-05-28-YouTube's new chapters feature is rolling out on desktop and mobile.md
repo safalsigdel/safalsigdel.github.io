@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_X7b9KamRkP8pewriz3HYghZoPQ=/0x0:2040x1530/1200x800/filters:focal(883x462:1209x788)/cdn.vox-cdn.com/uploads/chorus_image/image/66863574/cfaulkner_200527_4039_0005.0.0.jpg' width='700px' /><br/>
+YouTube is releasing its new video chapters feature today to all users on desktop, phones, and tablets. The chapters, which soft-launched in early April, make it easy to skip to precisely where you want to go in a video, like a book. It's not rocket science. It helps me get exactly where I want to go, then it gets out of the way.
+<a href='https://www.theverge.com/2020/5/28/21272095/youtube-chapters-feature-video-google-android-ios-desktop-mobile'> Source <a/>
