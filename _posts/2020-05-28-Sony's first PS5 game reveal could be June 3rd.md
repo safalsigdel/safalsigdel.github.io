@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RZfViFuJVLtBVRE31X_Po3BgKus=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66849851/acastro_200318_1777_ps5_0001.5.jpg' width='700px' /><br/>
-Sony is reportedly planning a PlayStation 5 game event for June 3rd. Bloomberg reports that Sony's virtual event is tentatively planned for next week but that “plans have been in flux and that the day may change.” Sony is said to be focusing on games for this PS5 event and is not expected to “reveal every essential detail” on the console during the first event.
-<a href='https://www.theverge.com/2020/5/27/21271908/sony-ps5-game-reveal-event-june-3rd-rumors'> Source <a/>
