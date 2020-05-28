@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/shKlfKd7dCuWRPD2SWdoHkKFl1E=/0x0:3200x2133/1200x800/filters:focal(1344x811:1856x1323)/cdn.vox-cdn.com/uploads/chorus_image/image/66853566/1161514492.jpg.0.jpg' width='700px' /><br/>
-Boeing said it would resume manufacturing the troubled 737 Max airplane after a nearly five-month hiatus. The aerospace company said it would restart production “at a low rate as it implements more than a dozen initiatives focused on enhancing workplace safety and product quality.”
-<a href='https://www.theverge.com/2020/5/27/21272478/boeing-737-max-resumes-production'> Source <a/>
