@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cLsfv13jYtII22le7GCM_fHj0Hg=/0x0:1804x1796/1200x800/filters:focal(761x766:1049x1054)/cdn.vox-cdn.com/uploads/chorus_image/image/66849595/Screen_Shot_2020_05_27_at_8.02.39_AM.0.png' width='700px' /><br/>
-For the first time in its history, Instagram will start sharing revenue with creators through ads in IGTV and badges that viewers can purchase on Instagram Live. The company has hinted that ads would come to IGTV for more than a year, often saying the long-form video offering would be the most likely place it'd first pay creators.
-<a href='https://www.theverge.com/2020/5/27/21271009/instagram-ads-igtv-live-badges-test-update-creators'> Source <a/>
