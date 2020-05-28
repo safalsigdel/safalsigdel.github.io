@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5EaQztOxJ1l7V8CHNRDFfpDgF98=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66858447/2._Eeyo_1_orange_lobster_carry_up_stairs.0.jpg' width='700px' /><br/>
-Five years after Taiwanese startup Gogoro debuted with a slick electric scooter at the 2015 Consumer Electronics Show, the company has now unveiled the Eeyo 1 and Eeyo 1S, its first forays into the booming e-bike market.
-<a href='https://www.theverge.com/2020/5/28/21272003/gogoro-eeyo-1-spec-price-e-bike-release-us-europe'> Source <a/>
