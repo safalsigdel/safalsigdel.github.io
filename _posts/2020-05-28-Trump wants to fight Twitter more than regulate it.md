@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sXL2JuU09-8iwDtWxkreTn783eI=/0x0:5352x3738/1200x800/filters:focal(2248x1441:3104x2297)/cdn.vox-cdn.com/uploads/chorus_image/image/66852909/1214735331.jpg.0.jpg' width='700px' /><br/>
+For years, Donald Trump's fight against social media companies has been a one-man boxing match. He calls them out over bias, and they rewrite policies making him the one exception to their rules, taking care never to punch back. But on Tuesday, Twitter slapped back for the first time ever, labeling two tweets as making false and misleading claims about mail-in voting.
+<a href='https://www.theverge.com/2020/5/27/21272257/twitter-donald-trump-regulate-conservative-bias-white-house-mail-voting'> Source <a/>

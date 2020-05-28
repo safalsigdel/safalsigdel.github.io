@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jL6253p524UK61F8BFQdJxWW4FI=/0x0:2200x1165/1200x800/filters:focal(924x407:1276x759)/cdn.vox-cdn.com/uploads/chorus_image/image/66846062/1142022633.jpg.0.jpg' width='700px' /><br/>
-Google will begin reopening offices starting on July 6th for a limited number of employees. In a blog post published on Tuesday, CEO Sundar Pichai said that, while returning to work will be optional for the rest of the year, those who need to come in will be able to on a rotating basis — one day every couple weeks. The company is also giving workers a $1,000 stipend for home office equipment to make remote work easier.
-<a href='https://www.theverge.com/2020/5/26/21271100/google-employees-work-from-home-option-office-reopen-covid-19'> Source <a/>

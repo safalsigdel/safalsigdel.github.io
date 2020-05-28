@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FwBmxDAjqsjf9e3qDn4M05N3eD4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66850073/ACASTRO_190926_1777_TWITCH_0001.0.0.jpg' width='700px' /><br/>
+Today, Twitch has a new home for gaming news: the channel Twitch Gaming, which will showcase everything from new game reveals to Twitch drops. In a blog post, Twitch says the channel will be led by streamers, and it already promises to break big news — like, for example, the first competitive Valorant events, which will be held on Twitch on the game's opening weekend.
+<a href='https://www.theverge.com/2020/5/27/21271803/twitch-gaming-channel-exclusives-news'> Source <a/>

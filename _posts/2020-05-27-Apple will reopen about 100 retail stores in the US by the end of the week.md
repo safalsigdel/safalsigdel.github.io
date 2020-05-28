@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Tgr_sZ1xiPEhaiQ8eIJEA8QWbEk=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/66845035/apple_store_reopen.0.jpg' width='700px' /><br/>
-Apple will reopen around 100 retail stores in the US by the end of the week, the company confirmed to The Verge. That will put Apple's active retail locations in the country at roughly 130 out of 271 stores spread out across 21 states. The company is reopening each location in phases, so some stores will support only curbside pickup, while others will allow in-store service and sales.
-<a href='https://www.theverge.com/2020/5/26/21270799/apple-stores-retail-reopening-locations-service-sales-pickup'> Source <a/>

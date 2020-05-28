@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Qttz07cXFh3WZH2KhXyi-G4IrJY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66847169/acastro_200403_3960_quibi_0002.0.0.jpg' width='700px' /><br/>
-Short-form mobile video service Quibi now supports Apple's AirPlay protocol, which means you'll be able to stream content from Quibi on your phone to AirPlay-enabled TVs and devices.
-<a href='https://www.theverge.com/2020/5/26/21271346/quibi-apple-ios-airplay-google-chromecast-june-tv'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ul14h8Fin6o_SqBC3Ik9pQoDhyA=/0x0:4928x3285/1200x800/filters:focal(2070x1249:2858x2037)/cdn.vox-cdn.com/uploads/chorus_image/image/66846520/1226470599.jpg.0.jpg' width='700px' /><br/>
-On Tuesday, Twitter labeled two tweets from President Donald Trump making false statements about mail-in voting as “potentially misleading.” It's the first time the platform has fact-checked the president.
-<a href='https://www.theverge.com/2020/5/26/21271207/twitter-donald-trump-fact-check-mail-in-voting-coronavirus-pandemic-california'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hg_kV9v1NqNAvViLj5fSmaS6SfA=/0x0:1400x933/1200x800/filters:focal(588x355:812x579)/cdn.vox-cdn.com/uploads/chorus_image/image/66848231/ti-84-plus-ce-gold-metal.0.jpg' width='700px' /><br/>
-Texas Instruments has removed the ability for some of its most popular calculators to run programs written in assembly or C, Cemetech reports. Hobbyists are not happy with the changes. In addition to being used as educational tools, TI calculators are also relatively simple and cheap programming devices.
-<a href='https://www.theverge.com/2020/5/27/21271625/texas-instruments-programming-support-assembly-ti-84-plus-ce-t-premium'> Source <a/>

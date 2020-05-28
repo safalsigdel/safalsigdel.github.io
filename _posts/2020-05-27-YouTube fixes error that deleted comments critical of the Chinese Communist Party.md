@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fR1fz_m241B1_irjZaxeqwL-sUQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66848117/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
-YouTube says it's begun fixing an error in its moderation system that caused comments containing certain Chinese-language phrases critical of China's Communist Party (CCP) to be automatically deleted.
-<a href='https://www.theverge.com/2020/5/27/21271611/youtube-deletes-comments-critical-china-communist-party-fixed'> Source <a/>

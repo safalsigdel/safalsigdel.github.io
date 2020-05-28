@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Lenovo is adding two new devices to its Windows 10 lineup — the Yoga Duet 7i and the IdeaPad Duet 3i — both of which are detachable 2-in-1 devices that support LTE. They both feature a design similar to Microsoft's Surface tablets but have the bonus of coming bundled with the keyboard, which, this time around, supports Bluetooth for use while detached.
-<a href='https://www.theverge.com/circuitbreaker/2020/5/26/21270506/lenovo-tablets-yoga-duet-7i-ideapad-duet-3i-features-specs-price'> Source <a/>

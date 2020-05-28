@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bHrrVZp23rNJ_i239NLxbvLbdI8=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20005526/Screen_Shot_2020_05_27_at_1.17.35_PM.png' width='700px' /><br/>
+Sony and Naughty Dog showed off nearly 24 minutes of new footage for the highly anticipated The Last of Us Part II in a State of Play video today.
+<a href='https://www.theverge.com/2020/5/27/21269804/the-last-of-us-part-2-watch-gameplay-footage-ps4-state-of-play-playstation-sony'> Source <a/>

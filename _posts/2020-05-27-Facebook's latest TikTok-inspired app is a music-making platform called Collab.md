@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/scs-1DNp6LmrACmU6XNHiHbWkr0=/0x0:5121x3048/1200x800/filters:focal(2152x1115:2970x1933)/cdn.vox-cdn.com/uploads/chorus_image/image/66848887/Hero_Image.0.png' width='700px' /><br/>
-Facebook's experimental app division has a new product out today called Collab that promises to deliver a new approach to collaborative music making. The app, launching as an invite-only beta on iOS, is from Facebook's NPE division (short for new product experimentation). If it already in that brief description sounds like another swing at the cultural and creative juggernaut that is TikTok, that's because it is.
-<a href='https://www.theverge.com/2020/5/27/21270640/facebook-collab-npe-invite-only-beta-release-music-making-app'> Source <a/>

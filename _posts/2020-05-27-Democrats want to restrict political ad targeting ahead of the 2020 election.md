@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nk5AEPOIPVi2PUpN6v0is6kfnQ0=/0x0:4919x3280/1200x800/filters:focal(2067x1247:2853x2033)/cdn.vox-cdn.com/uploads/chorus_image/image/66845750/1133157949.jpg.0.jpg' width='700px' /><br/>
-On Tuesday, Rep. Anna Eshoo (D-CA) introduced a bill that would upend political advertising on platforms like Facebook and Google.
-<a href='https://www.theverge.com/2020/5/26/21271074/facebook-google-microtargeting-political-ads-ban-anna-eshoo'> Source <a/>

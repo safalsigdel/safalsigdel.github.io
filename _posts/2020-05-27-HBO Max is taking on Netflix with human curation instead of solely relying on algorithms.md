@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qcSghySxjr1ar2zvOEnQ7i0rV6o=/0x0:1440x813/1200x800/filters:focal(605x292:835x522)/cdn.vox-cdn.com/uploads/chorus_image/image/66848821/01_Homepage___tvOS.0.png' width='700px' /><br/>
-Just like nearly everything else on the internet, streaming services are ruled by recommendation algorithms that are designed to predetermine what people want before they ask for it.
-<a href='https://www.theverge.com/21268972/hbo-max-design-recommendation-human-curation-friends-kids-profiles'> Source <a/>
