@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6_FueR3N7pRK-Of5fLGjHut_vbs=/0x0:2040x1360/1200x800/filters:focal(480x650:806x976)/cdn.vox-cdn.com/uploads/chorus_image/image/66864274/cwelch_200114_3847_0001.0.jpg' width='700px' /><br/>
+Owners of the excellent Jabra Elite 75t (and Elite Active 75t) earbuds can now customize controls for the physical buttons on each earbud. With a new update to the company's Sound Plus smartphone app available today, you can pick what you want a single, double, or triple press to do for each earbud.
+<a href='https://www.theverge.com/21273578/jabra-elite-75t-customizable-controls-mysound-hearing-test-now-available'> Source <a/>

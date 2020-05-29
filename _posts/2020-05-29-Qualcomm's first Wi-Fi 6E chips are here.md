@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mC-fmCbIq66C3RGTfuDjlQIpbSs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66863156/acastro_180529_1777_qualcomm_0001.0.0.jpg' width='700px' /><br/>
-Qualcomm is announcing its first chips with support for Wi-Fi 6E, the brand-new version of Wi-Fi that should be faster and more reliable thanks to its access to an expansive additional range of airwaves over which to broadcast.
-<a href='https://www.theverge.com/2020/5/28/21271814/qualcomm-wifi-6e-6ghz-chips-phones-routers-announced-fastconnect'> Source <a/>

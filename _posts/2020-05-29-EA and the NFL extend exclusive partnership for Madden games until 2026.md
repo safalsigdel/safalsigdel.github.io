@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KUHGxSben9SeW8CB-cnVM1kJq-M=/0x0:900x506/1200x800/filters:focal(378x181:522x325)/cdn.vox-cdn.com/uploads/chorus_image/image/66865829/apps.49387.63970390157963956.0e1003c0_4484_4721_a5a2_8d282e06ef88.0.jpg' width='700px' /><br/>
+Electronic Arts and the National Football League have renewed the exclusivity contract that gives the game publisher exclusive rights to make so-called simulation football games, which is the classification used for photorealistic football games featuring licensed team names and real players.
+<a href='https://www.theverge.com/2020/5/28/21273960/ea-nfl-madden-games-extend-renew-license-2026'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b1h3thE8J7EppCvJ1WxFF4NZnDI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66865365/acastro_190724_1777_doordash_0002.0.0.jpg' width='700px' /><br/>
+DoorDash on Thursday launched a new initiative called Storefront to help restaurants create websites and directly manage online pickup and delivery orders.
+<a href='https://www.theverge.com/2020/5/28/21273696/doordash-main-street-strong-storefront-online-delivery'> Source <a/>

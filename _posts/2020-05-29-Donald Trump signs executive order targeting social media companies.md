@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TzfMRZ6j7C8YvxAwFnQIa9Xszwg=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66865091/1227623212.jpg.0.jpg' width='700px' /><br/>
+President Donald Trump signed an executive order on Thursday targeting tech companies like Facebook, Twitter, and Google and the pivotal internet law that provides them broad legal immunity over content posted by their users.
+<a href='https://www.theverge.com/2020/5/28/21273822/trump-signs-executive-order-facebook-twitter-section-230-social-media-companies'> Source <a/>
