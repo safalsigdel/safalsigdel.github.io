@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I2M4nccZ72Jhw0ReHntsUg-VQ8Q=/0x0:600x400/1200x800/filters:focal(252x152:348x248)/cdn.vox-cdn.com/uploads/chorus_image/image/66863163/Plus_Codes_Locations_Animation_Short__1_.0.jpg' width='700px' /><br/>
-Google Maps is launching a new feature that generates a unique six-digit code based on your location. This code can be given to others and used when you're located away from a traditional street address. It's called a “Plus Code,” and it's available with a tap of the blue circle icon that represents your location in the app.
-<a href='https://www.theverge.com/2020/5/28/21272954/google-maps-plus-code-geolocation-digital-address-six-digit'> Source <a/>
