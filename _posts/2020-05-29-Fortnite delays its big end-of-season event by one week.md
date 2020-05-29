@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-Sz2Haep_1tLb5fsFWuYK4jCg80=/66x41:1674x855/1200x800/filters:focal(609x359:893x643)/cdn.vox-cdn.com/uploads/chorus_image/image/66863387/Fortnite_chapter2s2_Surprise_1776x889_a38858fdcbd0be32a7a4e0e8510241ea4e19c5db.0.png' width='700px' /><br/>
-Fortnite's upcoming end-of-season live event has been delayed by one week, Epic Games announced today. It will now take place on June 6th at 2PM ET.
-<a href='https://www.theverge.com/2020/5/28/21273276/fortnite-delay-end-season-event-device-chapter-2-season-3'> Source <a/>
