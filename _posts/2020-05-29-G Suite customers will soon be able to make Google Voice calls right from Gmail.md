@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hVptcuPgOIAi3qLitXh2dPYKPLM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66865223/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google will soon let G Suite customers with Google Voice licenses make Google Voice calls right from their Gmail inbox. The new feature seems like a handy way to make a Google Voice call without needing to jump to a second tab to do so.
-<a href='https://www.theverge.com/2020/5/28/21273674/gmail-google-voice-calls-inbox-call-transfer-g-suite'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KvazEB5w0AG0eGzRSQ2O-xvsaSQ=/0x0:2453x1634/1200x800/filters:focal(957x683:1349x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/66863900/ipadsimpsons.0.jpg' width='700px' /><br/>
-As promised, Disney now gives subscribers of Disney Plus the option to watch over 19 seasons of The Simpsons in the show's original 4:3 aspect ratio. When the subscription streaming service first launched, it only presented The Simpsons in a remastered, 16:9 aspect ratio — and this resulted in audiences missing out on some visual gags that were near the top or bottom of the frame.
-<a href='https://www.theverge.com/21273476/simpsons-original-4-3-aspect-ratio-disney-plus-stream-how-to'> Source <a/>

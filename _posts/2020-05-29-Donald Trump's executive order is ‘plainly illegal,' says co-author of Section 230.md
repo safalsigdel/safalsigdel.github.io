@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8ArE4f2ZnZvtyapFcZEBAu6he90=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66863855/eschaff_180718_2748_0020.0.jpg' width='700px' /><br/>
-Sen. Ron Wyden (D-OR) is calling Donald Trump's proposed executive order “plainly illegal” in a new statement on Thursday. The draft executive order would pare back platform liability protections under Section 230 of the Communications Decency Act, a bill Wyden coauthored in 1996 with Sen. Chris Cox (R-CA).
-<a href='https://www.theverge.com/2020/5/28/21273495/donald-trump-section-230-ron-wyden-author-bill-twitter-facebook-law-speech'> Source <a/>

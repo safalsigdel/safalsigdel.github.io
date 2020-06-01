@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OGsVHrM5iCk1iv5pqiLa-pEa4p0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66875561/acastro_200331_1777_zoom_0002.0.0.jpg' width='700px' /><br/>
+Zoom will add stronger encryption to its paid customers' video calls, but isn't planning to offer the enhanced security to all accounts, Reuters reported. A security consultant with the company told Reuters that it still wasn't clear whether some accounts, such as nonprofit users, might qualify for the more secure calls.
+<a href='https://www.theverge.com/2020/5/30/21275460/zoom-paying-customers-encryption-security'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OZAyILxjvfDTy2S395slyl_bNBk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66870132/acastro_190319_1777_kickstarter_0002.0.jpg' width='700px' /><br/>
+The pandemic has been a strange time for Kickstarter. Over the past month, the company laid off nearly 40 percent of its workforce as projects on the platform dropped off, causing a “sharp” decline in revenue. But now, only weeks later, Kickstarter says it reached a massive milestone: $5 billion in pledges after 11 years of existence.
+<a href='https://www.theverge.com/2020/5/29/21272287/kickstarter-aziz-hasan-layoffs-update-pledge-project-crowdfunding'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2gWk2Lcn9cG4dXvfJnHmWa34rZg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66863794/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
-YouTube sparked widespread speculation about its moderation policies this week after it admitted to accidentally deleting comments that contained phrases critical of the Chinese Communist Party (CCP). Today, the company told The Verge that the issue was not the result of outside interference — an explanation for the error floated by many.
-<a href='https://www.theverge.com/2020/5/28/21272983/youtube-deleting-comments-chinese-communist-censorship-explanation'> Source <a/>

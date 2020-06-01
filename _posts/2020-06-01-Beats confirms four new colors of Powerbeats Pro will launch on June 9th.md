@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/71jFL_k1Wv_niMSl89SyBQHXJ_g=/0x0:7500x5500/1200x800/filters:focal(3150x2150:4350x3350)/cdn.vox-cdn.com/uploads/chorus_image/image/66872910/MXY82_PowerBeats_Pro_RGB_profile_fam_2.0.jpg' width='700px' /><br/>
+Beats today announced four new colors of its Powerbeats Pro true wireless earbuds. The new hues are much brighter and more vibrant than the original lineup and include yellow, pink, red, and blue. They'll be available from Apple's website, stores, and other retailers on June 9th for the standard $249.95 price point.
+<a href='https://www.theverge.com/2020/5/29/21274814/beats-powerbeats-pro-new-colors-price-release-date'> Source <a/>

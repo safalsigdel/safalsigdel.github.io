@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/189iHWaPA03aj9V6F6YAZN3ySYA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66865932/acastro_170726_1777_0012.0.jpg' width='700px' /><br/>
-Twitter says you can now schedule tweets right from the main web app. When composing a tweet, you should see a little calendar icon on the bottom row of icons at the bottom of the compose window. Click that and you can specify when you want your tweet to be sent.
-<a href='https://www.theverge.com/2020/5/28/21273940/twitter-schedule-draft-tweets-web-app'> Source <a/>

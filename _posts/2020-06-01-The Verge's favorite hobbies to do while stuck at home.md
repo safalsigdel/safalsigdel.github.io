@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/chCgEHLO0iILBHLYbHxuvPsr48w=/0x0:2040x1352/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/66875621/containers_result.0.jpg' width='700px' /><br/>
+If you're anything like us, over the past couple of months you've probably finished every “must watch” TV series on Netflix, cleaned your apartment from top to bottom, and completed every video game in your backlog. We get it: social distancing can get pretty boring.
+<a href='https://www.theverge.com/21270393/hobbies-stuck-at-home-bicycle-maintenance-terrarium-knitting-karaoke'> Source <a/>

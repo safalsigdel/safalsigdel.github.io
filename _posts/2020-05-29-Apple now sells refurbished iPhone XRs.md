@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7DLtyKda5nE8G07TA2QX_hA3ZQk=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/66867940/akrales_181019_3014_0307.0.jpg' width='700px' /><br/>
-You can now buy a refurbished iPhone XR from the Apple Store, MacRumors reports. It's a cheaper way of getting the bestselling phone of last year, and Apple's refurbishing process means that it should perform almost identically to a brand new model.
-<a href='https://www.theverge.com/2020/5/29/21274343/apple-iphone-xr-refurbished-499-64gb-539-128gb-629-256gb'> Source <a/>

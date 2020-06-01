@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NeYMEWWuu3C9ijBp0XPjsVaLffE=/0x0:1200x1168/1200x800/filters:focal(368x446:560x638)/cdn.vox-cdn.com/uploads/chorus_image/image/66878506/royal_palace_renesee_insta.0.jpg' width='700px' /><br/>
+A restaurant in the Netherlands has introduced new robot waiters as a way to reduce human-to-human contact in the midst of the coronavirus pandemic. The red-and-white robots (which are giving me serious Rosey the robot vibes) will greet customers, serve food and pick up used dishes from diners' tables at the Royal Palace restaurant in the town of Renesse, according to the Associated Press.
+<a href='https://www.theverge.com/2020/5/31/21276318/restaurant-netherlands-robot-waiters-social-distancing-pandemic'> Source <a/>

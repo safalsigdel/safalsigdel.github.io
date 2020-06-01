@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HGV0ngvkjy5nzPQR8FvFoMcXSBI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66877538/acastro_181114_1777_amazon_hq2_0001.0.jpg' width='700px' /><br/>
+Amazon says it has removed images with racist language from some listings for headphones on its UK site, The Financial Times reported. Users posted screenshots to Twitter of search results for “AirPods” and “bluetooth headphones” that appeared on the e-commerce site. Instead of photos of headphones, the search results showed images that contained the N-word.
+<a href='https://www.theverge.com/2020/5/31/21276003/amazon-racist-images-headphones-bluetooth-airpods'> Source <a/>

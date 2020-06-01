@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Lq0r1WZaoPjyWq3TU8TednCuHes=/0x0:5328x3552/1200x800/filters:focal(1224x171:2076x1023)/cdn.vox-cdn.com/uploads/chorus_image/image/66878548/1216441579.jpg.0.jpg' width='700px' /><br/>
+Amazon, Target, and Apple all made modifications to their business operations over the weekend in light of demonstrations in cities across the US, Bloomberg reported.
+<a href='https://www.theverge.com/2020/5/31/21276344/apple-amazon-operations-demonstrations-floyd'> Source <a/>

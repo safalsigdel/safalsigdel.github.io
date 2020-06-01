@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HcRQ2V7Z_cEQuQQ51s9OCHGGJXA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66875145/acastro_200219_1777_android_11_0001.0.jpg' width='700px' /><br/>
+Google had been planning to unveil new features coming in Android 11 on June 3rd, but it has decided to delay the unveiling. In a tweet on Friday evening, Android's developer account said that “We are excited to tell you more about Android 11, but now is not the time to celebrate.” Google says that it will “be back with more on Android 11, soon,” but did not say when that might be.
+<a href='https://www.theverge.com/2020/5/30/21275399/google-delays-android-11-beta-announcement-protests-george-floyd'> Source <a/>

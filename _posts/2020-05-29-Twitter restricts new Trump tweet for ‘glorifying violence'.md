@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ov5eklo0HcYxSA2FViGfMUvTff0=/0x0:1520x1013/1200x800/filters:focal(152x355:394x597)/cdn.vox-cdn.com/uploads/chorus_image/image/66867828/trump_tweet_centered.0.jpg' width='700px' /><br/>
-Twitter has placed a public interest notice on a tweet from President Trump for breaking the platform's rules about the “glorification of violence.” However, Twitter has not chosen to remove the tweet from its platform entirely, because it believes it to be in the public interest. Twitter announced the notice in a tweet thread from its official comms account.
-<a href='https://www.theverge.com/2020/5/29/21274323/trump-twitter-glorifying-violence-minneapolis-shooting-looting-notice-restriction'> Source <a/>

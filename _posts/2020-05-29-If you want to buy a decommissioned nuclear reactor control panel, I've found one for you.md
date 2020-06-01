@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-The internet is a magical place, somewhere where you can, for the right price, get anything you want. And if that something is a decommissioned nuclear reactor control panel — well, have I got some good news for you!
-<a href='https://www.theverge.com/tldr/2020/5/28/21273482/decommisioned-nuclear-reactor-control-panel-auction'> Source <a/>

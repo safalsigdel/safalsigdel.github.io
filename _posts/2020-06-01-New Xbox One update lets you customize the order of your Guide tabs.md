@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YecXuo41w2NywdF5y2vkfX40BpQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66871089/acastro_190530_1777_xbox_0002.0.0.jpg' width='700px' /><br/>
+Microsoft has released a new Xbox One update that brings a number of changes to the Guide menu, which gives you quick access to things like your friends list, messaging, and achievements. The biggest change is that you can now reorder your Guide tabs, which should make it easier to customize your Guide in a way that's best for you. Microsoft first previewed the new Guide in April.
+<a href='https://www.theverge.com/2020/5/29/21274689/xbox-one-new-may-update-customize-guide-tabs-live-thumbnails-mixer'> Source <a/>

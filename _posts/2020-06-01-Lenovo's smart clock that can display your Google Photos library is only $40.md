@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a_BK_JhnawDZXYCsO6TjWaStkg4=/0x0:830x552/1200x800/filters:focal(349x210:481x342)/cdn.vox-cdn.com/uploads/chorus_image/image/66875501/Screen_Shot_2019_08_22_at_3.09.01_PM.0.png' width='700px' /><br/>
+Memorial Day deals are a tough act to follow, and we've definitely seen the frequency of sales this week slow down a bit. Nevertheless, there are plenty of places where you can save on tech, video games, and more. We've put those below, and we'll be back next week with more deals.
+<a href='https://www.theverge.com/good-deals/2020/5/30/21274578/lenovo-smart-clock-google-assistant-iphone-xr-samsung-galaxy-note-10-deal-sale'> Source <a/>

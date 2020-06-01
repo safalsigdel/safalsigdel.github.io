@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eV6b2I9BUqBgSAAyrw4sNspoDe8=/0x0:1355x900/1200x800/filters:focal(570x342:786x558)/cdn.vox-cdn.com/uploads/chorus_image/image/66874785/one_plus_xray_ben_geskin_fixed.0.png' width='700px' /><br/>
+OnePlus accidentally pushed an over-the-air update that disables a filter that can see through some thin black plastics and, in certain cases, clothes.
+<a href='https://www.theverge.com/2020/5/29/21275171/oneplus-disable-x-ray-filter-ota-update'> Source <a/>

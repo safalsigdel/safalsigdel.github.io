@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J7fC1iKGeOf3ATFden0IZuL61mg=/0x0:571x461/1200x800/filters:focal(241x186:331x276)/cdn.vox-cdn.com/uploads/chorus_image/image/66865245/ipad_pro_group_facetime_10302018_inline.jpg.large.0.jpg' width='700px' /><br/>
-During a group call, FaceTime automatically enlarges the window of whoever's speaking. This means when you have four or more people on a call, the windows will resize, float, and bounce around during a group call. It can be distracting and confusing.
-<a href='https://www.theverge.com/21271103/facetime-resizing-windows-iphone-ipad-mac-video-group-call'> Source <a/>
