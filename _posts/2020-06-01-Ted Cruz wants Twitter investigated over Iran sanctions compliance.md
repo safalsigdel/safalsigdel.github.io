@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-Mqixr6PaRDziQeekB7b7ZKXwGQ=/0x0:5599x3733/1200x800/filters:focal(2353x1420:3247x2314)/cdn.vox-cdn.com/uploads/chorus_image/image/66870894/1205126057.jpg.0.jpg' width='700px' /><br/>
-As President Donald Trump rages against Twitter for moderating his tweets, Sen. Ted Cruz (R-TX) is calling for a federal investigation into the company on unrelated grounds. The senator has sent a letter to the Justice Department calling for Twitter to be investigated for violating ongoing sanctions against the nation of Iran, as first reported by Axios.
-<a href='https://www.theverge.com/2020/5/29/21274619/ted-cruz-twitter-iran-sanctions-investigation-trump'> Source <a/>
