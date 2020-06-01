@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w7HNW6c8DULKDemeKMqwQjZmV20=/0x0:6048x4032/1200x800/filters:focal(2541x1533:3507x2499)/cdn.vox-cdn.com/uploads/chorus_image/image/66879397/DSCF5984_1_2.0.jpg' width='700px' /><br/>
+Owners of Google's new Pixel Buds are reporting a variety of connection issues with the true wireless earbuds. 9to5Google reports that issues have been raised on Google's support forums as well as in a number of Reddit threads, and the problems have been replicated on review devices held by DroidLife, 9to5Google, and our own pair here at The Verge.
+<a href='https://www.theverge.com/2020/6/1/21276640/google-pixel-buds-2020-connection-problems-bluetooth-connectivity-issues'> Source <a/>
