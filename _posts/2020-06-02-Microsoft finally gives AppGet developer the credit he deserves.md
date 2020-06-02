@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/88_8nwkknGR_IwNJl4QmhJ7YZbU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66883994/acastro_180507_1777_microsoft_0001.0.jpg' width='700px' /><br/>
+Microsoft is crediting a developer after he accused the company of copying the core mechanics of its new Windows Package Manager. AppGet developer Keivan Beigi provided a detailed account of Microsoft reaching out with interest about his app, inviting him for interviews, and then ghosting him for months before unveiling an app that he felt was inspired by his own work.
+<a href='https://www.theverge.com/2020/6/2/21277863/microsoft-winget-windows-package-manager-appget-response-credit-comment'> Source <a/>
