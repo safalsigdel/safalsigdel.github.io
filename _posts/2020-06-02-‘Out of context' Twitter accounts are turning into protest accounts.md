@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UF4P-cIqWMbx2E3EpsNbm054ax4=/0x111:1431x954/1200x800/filters:focal(602x363:830x591)/cdn.vox-cdn.com/uploads/chorus_image/image/66885513/oocbojack.0.jpg' width='700px' /><br/>
+The “out of context bojack horseman” account usually tweets memes and screenshots to its nearly 180,000 Twitter followers. But recently, the account's feed has looked a lot different: it's listed bail funds for people to donate to, posted advice on safely protesting, and amplified black voices fighting against police brutality.
+<a href='https://www.theverge.com/2020/6/2/21277584/twitter-protests-out-of-context-accounts-police-brutality-platform'> Source <a/>
