@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k-EEJBE4l0laiFWayMgaDnoFwFo=/0x0:1471x823/1200x800/filters:focal(619x295:853x529)/cdn.vox-cdn.com/uploads/chorus_image/image/66882645/wwzfake.0.jpeg' width='700px' /><br/>
+An apparent Twitter joke got out of control this weekend, falsely convincing some users — and possibly even the leader of the QAnon conspiracy theory — that MSNBC ran a broadcast with World War Z shots instead of real protest footage.
+<a href='https://www.theverge.com/2020/6/1/21277297/msnbc-world-war-z-qanon-misinformation-fake-twitter'> Source <a/>

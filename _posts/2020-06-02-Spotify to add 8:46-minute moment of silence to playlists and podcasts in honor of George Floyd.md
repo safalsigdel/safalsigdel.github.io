@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CAkumPapYsw0gohKvxBd_dTj3FY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66883044/acastro_180213_1777_0004.0.jpg' width='700px' /><br/>
+Spotify will add an 8 minute and 46-second moment of silence to select playlists and podcasts on the platform to honor George Floyd. The length of the moment of silence is equal to the amount of time former Minneapolis police officer Derek Chauvin pinned Floyd down by the neck with his knee, resulting in Floyd's death and sparking universal outcry and demonstrations in US cities and around the world.
+<a href='https://www.theverge.com/2020/6/1/21277501/spotify-blackout-tuesday-george-floyd-racism-police-brutality-violence-protest'> Source <a/>

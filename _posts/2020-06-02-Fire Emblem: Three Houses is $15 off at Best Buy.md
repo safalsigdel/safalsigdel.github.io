@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CxQmAV82DpzmV2sgnI8mgN9_9-A=/0x0:933x622/1200x800/filters:focal(295x220:443x368)/cdn.vox-cdn.com/uploads/chorus_image/image/66880346/fethreehouses.0.jpg' width='700px' /><br/>
+One of today's best deals is on one of last year's best games. Fire Emblem: Three Houses for the Nintendo Switch is $45 at Best Buy. This is about as affordable as Nintendo's own titles usually get. This is also the first time that I've personally seen a discount on this game.
+<a href='https://www.theverge.com/good-deals/2020/6/1/21276787/fire-emblem-three-houses-nintendo-switch-deal-sale-apple-ipad-sennheiser-best-buy'> Source <a/>

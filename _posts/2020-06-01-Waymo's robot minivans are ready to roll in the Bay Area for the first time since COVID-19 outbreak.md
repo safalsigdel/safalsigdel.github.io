@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k4IGOBKAx_qix2RicGFXGyJaf_g=/0x0:3620x2343/1200x800/filters:focal(1521x883:2099x1461)/cdn.vox-cdn.com/uploads/chorus_image/image/66875642/1142125645.jpg.0.jpg' width='700px' /><br/>
-Waymo's self-driving cars are returning to Bay Area roads for the first time since the company halted its public testing in early March because of the coronavirus outbreak. The Alphabet-owned company plans to return its fleet of autonomous minivans to service starting June 8th, according to an email obtained by The Verge.
-<a href='https://www.theverge.com/2020/5/30/21275441/waymo-self-driving-car-delivery-bay-area-resume-covid'> Source <a/>

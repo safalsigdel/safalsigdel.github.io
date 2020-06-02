@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N4_RPDyb_sbzgBs4BW8_bJIAoaU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66874025/VRG_ILLO_4047_Zynn_001.0.jpg' width='700px' /><br/>
-TikTok has a new competitor: Zynn, a nearly button-for-button clone of TikTok that differentiates itself with one key twist — it pays users to sign up, watch videos, and convince others to follow suit. The app launched at the beginning of May, and as Mashable noticed, it's now the number one free app in Apple's App Store and in the top 10 on Google's Play Store, too.
-<a href='https://www.theverge.com/2020/5/29/21274994/zynn-tiktok-clone-pay-watch-videos-kuaishou-bytedance-rival'> Source <a/>

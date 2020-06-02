@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JLJS1_O2buLCuw72ztoPjoBx5-k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66881161/vpavic_170518_1705_0127.0.0.jpg' width='700px' /><br/>
+Google is adding its Advanced Protection Program to Nest devices, the company announced in a blog post Monday, giving added security to its smart home devices. Previously, a user could use their Google account for either the Advanced Protection Program or for Nest, but now they can use both with the same Google account at the same time.
+<a href='https://www.theverge.com/2020/6/1/21276983/google-advanced-protection-nest-smart-home'> Source <a/>

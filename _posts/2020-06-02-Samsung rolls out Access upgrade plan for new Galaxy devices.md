@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G1dBPt0x8sbgP8utEqhq2IGiGv4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66880391/acastro_190503_1777_samsung_0003.0.0.jpg' width='700px' /><br/>
+Samsung is rolling out Samsung Access, a monthly premium upgrade program in the US for users who purchase new Galaxy S20, Galaxy S20 Plus, or Galaxy S20 Ultra phones, the company announced in a blog post.
+<a href='https://www.theverge.com/2020/6/1/21276741/samsung-access-upgrade-galaxy-microsoft-365'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Vh-SNS9oWsZqRiyrBHvorcHQC8s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66882687/acastro_200428_1777_coronavirus_0003.0.0.jpg' width='700px' /><br/>
+At this moment, more than 104,000 Americans have died of the coronavirus and more than 1.8 million have been infected. It can be hard to wrap your head around the devastation the coronavirus has wreaked on families across the US, especially as some states try to gradually reopen and return to whatever normal looks like now.
+<a href='https://www.theverge.com/2020/6/1/21277099/go-read-this-coronavirus-spreads-mother-daughter'> Source <a/>

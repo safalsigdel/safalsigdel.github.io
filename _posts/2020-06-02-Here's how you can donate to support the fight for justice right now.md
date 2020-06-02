@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fm6QvOCmNfdBJJFMvMO_Hl8vyn8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66882726/1216825895.jpg.5.jpg' width='700px' /><br/>
+If you've been participating in the recent protests and want to do more, or if you're unable to participate and want to do something, one way to help is to donate your money or your time. There are a range of organizations that are providing activists with bail bonds and legal help, or that are helping small businesses and other community resources that have been adversely affected.
+<a href='https://www.theverge.com/21277358/protests-donate-police-bail-demonstrations-minneapolis-nyc'> Source <a/>

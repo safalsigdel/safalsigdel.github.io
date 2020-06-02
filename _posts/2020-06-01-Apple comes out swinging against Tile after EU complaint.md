@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YoDRbwcVq2qvsu7uR1wj7BfMa-0=/0x0:2040x1360/1200x800/filters:focal(813x918:1139x1244)/cdn.vox-cdn.com/uploads/chorus_image/image/66872839/vpavic_042020_3980_0061.0.jpg' width='700px' /><br/>
-On Tuesday, Tile sent a letter to European competition Commissioner Margrethe Vestager, accusing Apple of anticompetitive behavior.
-<a href='https://www.theverge.com/2020/5/29/21274709/apple-tile-european-commission-eu-complaint-app-store-iphone-response'> Source <a/>

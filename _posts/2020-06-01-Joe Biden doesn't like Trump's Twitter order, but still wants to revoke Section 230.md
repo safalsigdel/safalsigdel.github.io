@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ar8EvmGRcBL2KCEHrhUs4yOxLJo=/0x0:4813x3209/1200x800/filters:focal(2022x1220:2792x1990)/cdn.vox-cdn.com/uploads/chorus_image/image/66872387/1206811764.jpg.0.jpg' width='700px' /><br/>
-Former Vice President Joe Biden still wants to repeal the pivotal internet law that provides social media companies like Facebook and Twitter with broad legal immunity over content posted by their users, a campaign spokesperson told The Verge Friday. Still, the campaign emphasized key disagreements with the executive order signed by the president earlier this week.
-<a href='https://www.theverge.com/2020/5/29/21274812/joe-biden-donald-trump-twitter-facebook-section-230-moderation-revoke'> Source <a/>

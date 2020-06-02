@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bi23L1OQofWmtTu7myTH7cVTXPE=/0x0:3914x2609/1200x800/filters:focal(1644x992:2270x1618)/cdn.vox-cdn.com/uploads/chorus_image/image/66880746/Era_Pro_Device_Controls.0.jpg' width='700px' /><br/>
+Pax is launching a web app today capable of controlling its lineup of connected weed vapes. The launch comes six months after Pax's app was banned from the Apple App Store, when Apple decided to crack down on vaping apps amid nationwide concerns over vaping-related lung injuries. The app remained available on Android, but the ban meant iOS users were stuck without a way to control many of the settings on their fancy vapes.
+<a href='https://www.theverge.com/2020/6/1/21274431/pax-web-app-era-controls-apple-store-ban'> Source <a/>

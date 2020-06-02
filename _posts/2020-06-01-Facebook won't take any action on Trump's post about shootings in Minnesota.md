@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/no3UhNgap_F_bSRQASIjPDYMTKE=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/66874623/1178141765.jpg.0.jpg' width='700px' /><br/>
-Facebook will not remove or take any other action on a President Trump post that Twitter removed for “glorifying violence,” CEO Mark Zuckerberg said Friday. “I know many people are upset that we've left the President's posts up, but our position is that we should enable as much expression as possible unless it will cause imminent risk of specific harms or dangers spelled out in clear policies,” Zuckerberg said.
-<a href='https://www.theverge.com/facebook/2020/5/29/21274729/facebook-trump-post-shooting-mark-zuckerberg-rationale'> Source <a/>

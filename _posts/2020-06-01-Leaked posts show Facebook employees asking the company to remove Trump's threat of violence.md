@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MAOiEgU5kcsxaSvZ_6v0HztKohQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66873929/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook's decision not to take action against recent posts about mail-in ballots and the Minnesota protests by President Trump is roiling employees, some of whom are calling on executives to reconsider their stance. In response to an internal post explaining the company's rationale, some employees criticized the company's neutral posture.
-<a href='https://www.theverge.com/2020/5/29/21275044/facebook-trump-tweets-employee-reaction-criticism'> Source <a/>

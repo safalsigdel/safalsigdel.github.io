@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cU6HrNtEPUNTgTZhDhXyXdkQ_WM=/0x0:2040x1360/1200x800/filters:focal(872x632:1198x958)/cdn.vox-cdn.com/uploads/chorus_image/image/66881082/vpavic_191016_3730_0085.0.jpg' width='700px' /><br/>
+Google is today announcing the next batch of new software features coming to its Pixel smartphones. After adding car-crash detection last year, the company is expanding upon its personal safety features with a new “safety check” tool that's designed to make sure you're okay if you're out somewhere alone — for a walk or run, perhaps.
+<a href='https://www.theverge.com/2020/6/1/21276908/google-pixel-feature-drop-june-2020-safety-check-bedtime'> Source <a/>

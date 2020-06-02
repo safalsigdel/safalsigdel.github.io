@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kdZ1HXt8zHAenjuadwJoDoT0xvU=/0x0:2703x2064/1200x800/filters:focal(1136x816:1568x1248)/cdn.vox-cdn.com/uploads/chorus_image/image/66882918/1193745259.jpg.0.jpg' width='700px' /><br/>
+Twitter has restricted a tweet from Rep. Matt Gaetz (R-FL) for violating its policies against glorifying violence, following a similar action taken against President Donald Trump last week.
+<a href='https://www.theverge.com/2020/6/1/21277537/twitter-matt-gaetz-glorifying-violence-antifa-tweet-donald-trump'> Source <a/>

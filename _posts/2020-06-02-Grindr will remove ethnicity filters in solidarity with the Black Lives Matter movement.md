@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Cwl4C21vF-avCcV9FShJmI2KU1A=/0x0:2078x936/1200x800/filters:focal(840x179:1172x511)/cdn.vox-cdn.com/uploads/chorus_image/image/66882369/Screen_Shot_2020_06_01_at_4.18.09_PM.0.png' width='700px' /><br/>
+Grindr, a popular gay dating app, will remove ethnicity filters from its app, the company tweeted today. The decision is meant to show solidarity with protests in the US over police brutality against black women and men. The filters, which allow people to pay to avoid seeing people of certain ethnicities, will be removed in the next app update.
+<a href='https://www.theverge.com/2020/6/1/21277315/grindr-ethnicity-filter-update-black-lives-matter-movement-protest'> Source <a/>

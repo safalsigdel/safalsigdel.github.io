@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QHSTOq9N0hYkmjRWITTiJhfGt74=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66881927/dbohn_200506_4012_0031.0.jpg' width='700px' /><br/>
+Apple has doubled the price to upgrade the RAM on the entry-level 13-inch MacBook Pro, as spotted by MacRumors. The upgrade now costs $200 to move from 8GB to 16GB of RAM; previously, you could upgrade the RAM for $100.
+<a href='https://www.theverge.com/2020/6/1/21277236/macbook-pro-entry-level-price-apple-ram-upgrade'> Source <a/>
