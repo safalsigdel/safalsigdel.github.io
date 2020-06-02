@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LuuAwpVz27A7v5kaOS2IZ8tN_r0=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/66879884/IMG_7408_32.0.jpg' width='700px' /><br/>
-Vivo has officially announced its first flagship phones of 2020, the X50 series. As previously teased, the key feature is the primary camera's heavy-duty stabilization system, which Vivo variously compares to professional gimbals and chameleons' eyes. It previously showed up on Vivo's Apex 2020 concept phone, but the company wasn't able to show it off in person due to the COVID-19 pandemic; now it'll be shipping on commercial devices.
-<a href='https://www.theverge.com/2020/6/1/21276646/vivo-x50-pro-plus-flagship-phone-announced-gimbal-camera'> Source <a/>

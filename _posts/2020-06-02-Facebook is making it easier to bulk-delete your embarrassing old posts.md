@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KOy98AVJblqVSf7rnRvGyJB1jAg=/0x0:1180x787/1200x800/filters:focal(496x300:684x488)/cdn.vox-cdn.com/uploads/chorus_image/image/66884548/Manage_Activity_Screenshots.0.jpg' width='700px' /><br/>
+Facebook is launching a new feature called Manage Activity that lets users delete their old posts. It can be used to delete individual posts or in bulk, and Facebook says it will offer filtering options to help find posts with specific people in them or in a certain time range. The feature will come to Facebook's mobile apps first.
+<a href='https://www.theverge.com/21277905/facebook-manage-activity-delete-bulk-old-posts-activity-log'> Source <a/>
