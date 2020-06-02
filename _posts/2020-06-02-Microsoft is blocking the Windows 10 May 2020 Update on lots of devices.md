@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H93nQt1St2qKeqsBRLnpKX_taFo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66879499/wjoel_200601_1777_windows10_0001.5.jpg' width='700px' /><br/>
-Microsoft is preventing a large number of devices from updating to the Windows 10 May 2020 Update. While the software company released the update last week, Microsoft has quietly acknowledged that there are a number of known issues preventing the update from being installed on a variety of PCs.
-<a href='https://www.theverge.com/2020/6/1/21276653/microsoft-windows-10-may-2020-update-block-known-issues-list'> Source <a/>

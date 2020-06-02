@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wRpSA1WTXlm88BBjLgIy3Z1OBlU=/0x0:4221x2814/1200x800/filters:focal(1774x1070:2448x1744)/cdn.vox-cdn.com/uploads/chorus_image/image/66884175/OMEN_15_Lifesyle___4.0.jpg' width='700px' /><br/>
+HP has released the newest version of the Omen 15, its powerful entry-level gaming laptop. You can choose an AMD or Intel system — both will be available June 2nd starting at $999.
+<a href='https://www.theverge.com/2020/6/2/21277266/hp-omen-15-laptop-gaming-design-pavilion-price-release'> Source <a/>

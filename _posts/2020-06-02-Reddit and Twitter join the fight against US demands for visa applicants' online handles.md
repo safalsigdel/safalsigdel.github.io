@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KwN0hs0ZdCspJ_6vFKRD46gghNY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66879430/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
-Reddit and Twitter have filed supporting evidence in a lawsuit against the US government, which challenges the requirement that nearly all visa applicants submit their social media handles for scrutiny.
-<a href='https://www.theverge.com/2020/6/1/21276642/reddit-twitter-us-visa-applications-social-media-handles-lawsuit'> Source <a/>
