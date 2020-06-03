@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y4hpLNRfQVvVttikO3dqCW3CYpc=/0x0:2040x1360/1200x800/filters:focal(556x579:882x905)/cdn.vox-cdn.com/uploads/chorus_image/image/66890209/bking_200321_3945_0007.0.jpg' width='700px' /><br/>
+Apple's 2021 iPad Pros could have 5G, thanks to Qualcomm's Snapdragon X55 5G modem, according to Apple leaker L0vetodream on Twitter. If Apple does use that modem, the new iPad Pros could take advantage of both sub-6GHz 5G and the faster mmWave 5G.
+<a href='https://www.theverge.com/2020/6/3/21279247/apple-ipad-pro-2021-5g-qualcomm-mini-led-a14x'> Source <a/>

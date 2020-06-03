@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XLbDa247zDyLv9-IHdAISx56ugU=/0x0:2500x1250/1200x800/filters:focal(1050x425:1450x825)/cdn.vox-cdn.com/uploads/chorus_image/image/66885009/Apple_News_Plus_Audio_9to5Mac.0.jpg' width='700px' /><br/>
-The latest iOS 13.5.5 beta has revealed a new audio feature for the company's Apple News Plus service that adds podcast-style recordings of longform articles to the app, as discovered by 9to5Mac. Apple was reportedly working on the feature earlier this year, but the newly revealed section of the News app marks the first real look at the audio endeavor.
-<a href='https://www.theverge.com/2020/6/2/21278103/apple-news-plus-audio-stories-ios-13-5-5-beta-podcasts'> Source <a/>
