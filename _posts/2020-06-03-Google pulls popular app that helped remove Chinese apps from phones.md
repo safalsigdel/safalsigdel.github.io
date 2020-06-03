@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HCQ5DZayH_QU-IYPYrkXQ7OLgTk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66887931/wjoel_180413_1777_android_001.0.jpg' width='700px' /><br/>
+Google has removed a popular Indian-developed app from its Play Store that promised to find and remove Chinese apps from smartphones. The search giant confirmed to Gadgets 360 that the app, which was called “Remove Chinese Apps,” was removed for violating its Deceptive Behavior Policy, which prohibits software from encouraging or misleading users into “removing or disabling third-party apps.”
+<a href='https://www.theverge.com/2020/6/3/21278951/google-play-store-indian-remove-chinese-apps-pulled-border-dispute'> Source <a/>
