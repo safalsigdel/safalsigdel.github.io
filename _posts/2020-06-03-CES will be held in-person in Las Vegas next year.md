@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L4gigGArAi42WeVhJt6QWlm_cXs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66889431/CES-2016-stock-verge-02.0.0.jpg' width='700px' /><br/>
+The group behind CES plans to hold the enormous tech convention in person in Las Vegas next January, despite concerns that the coronavirus pandemic may still be a threat. The Consumer Technology Association announced today that it intends to give exhibitors a way to showcase their products “both physically in Las Vegas and digitally.”
+<a href='https://www.theverge.com/2020/6/3/21279157/ces-2021-physical-event-planned-las-vegas-cta-coronavirus'> Source <a/>

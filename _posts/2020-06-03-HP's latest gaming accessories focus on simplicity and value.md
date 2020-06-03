@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8BBk51754NpW2kEF8Or6oYhJQTs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66884120/newvectorhero.0.jpg' width='700px' /><br/>
-HP has announced a fleet of new gaming accessories, including new gaming mice and HP's very first wireless 2.4GHz gaming headset. Even though all of today's announcements have features that are geared primarily toward gamers, there's a strange split between the products with HP's refreshed Omen branding, like the mice, and the simply HP-branded headset.
-<a href='https://www.theverge.com/2020/6/2/21274815/hp-omen-gaming-mice-vector-essential-x1000-wireless-pc-ps4-headset'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pQpdbxo2raldurCUXce06eg48II=/0x0:2040x1148/1200x675/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/66888901/DSC00784.0.jpg' width='700px' /><br/>
+In a different 2020, I could be telling you that the Huawei P40 Pro is one of the best phones you could buy. After all, it sees the Chinese telecoms giant at the height of its hardware powers, delivering a device that performs extremely well and leaves little off its spec sheet.
+<a href='https://www.theverge.com/21278958/huawei-p40-pro-review-camera-price-specs-features'> Source <a/>
