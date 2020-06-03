@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pnvdVSjURRd6i_zp43bdCsbrudA=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/66881395/kindle_ibooks.0.jpg' width='700px' /><br/>
-Four major book publishers have filed suit against the Internet Archive for copyright violations relating to the Open Library project, setting the stage for a major legal fight over one of the internet's longest-running ebook archives.
-<a href='https://www.theverge.com/2020/6/1/21277036/internet-archive-publishers-lawsuit-open-library-ebook-lending'> Source <a/>

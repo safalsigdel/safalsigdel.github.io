@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1LXmIZUsLoDE-73P7FntHyfPnV4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66881983/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple has released iOS 13.5.1 today, which the company says “provides important security updates and is recommended for all users,” albeit without much detail in the change log. But as noted by Twitter account Apple Software Updates, the update is meant to patch out the kernel vulnerability used by the recent Unc0ver jailbreak.
-<a href='https://www.theverge.com/2020/6/1/21277281/apple-ios-13-5-1-patch-unc0ver-jailbreak-update-software-install'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i7VliW12MBctIY2xIckx61kW1VA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66881720/acastro_200318_1777_ps5_0001.0.jpg' width='700px' /><br/>
-Sony is postponing its PlayStation 5 event that was scheduled for June 4th due to ongoing protests. “While we understand gamers worldwide are excited to see PS5 games, we do not feel that right now is a time for celebration,” says Sony in a Twitter message. “And for now, we want to stand back and allow more important voices to be heard.”
-<a href='https://www.theverge.com/2020/6/1/21277238/sony-ps5-playstation5-event-postponed-protests'> Source <a/>

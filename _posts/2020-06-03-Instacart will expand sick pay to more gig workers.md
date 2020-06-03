@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dH4qx5WCVP_DeZEGPXOM-ML03gQ=/0x0:2100x1500/1200x800/filters:focal(882x582:1218x918)/cdn.vox-cdn.com/uploads/chorus_image/image/66886110/instacart-whole-foods-stock-image.0.0.jpg' width='700px' /><br/>
+Instacart will expand its COVID-19 sick pay to include more gig workers as part of an agreement with the attorney general for Washington, DC. Under the agreement, the company is also launching a telemedicine pilot in the DC area to remotely diagnose shoppers who believe they may have contracted the disease, and provide childcare assistance pay to eligible workers while schools are closed.
+<a href='https://www.theverge.com/2020/6/2/21278359/instacart-sick-pay-gig-workers-dc-ag-telemedicine-childcare'> Source <a/>

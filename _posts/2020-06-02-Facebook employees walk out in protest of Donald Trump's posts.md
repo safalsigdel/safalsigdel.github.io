@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BaDtTpI8JLkbIjT0vJVFwns1nuc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66881354/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-Dozens of Facebook employees staged a virtual walkout on Monday in protest of the company's decision not to take action against incendiary posts by President Donald Trump last week, according to The New York Times.
-<a href='https://www.theverge.com/2020/6/1/21277135/facebook-walkout-protest-virtual-president-donald-trump-posts'> Source <a/>
