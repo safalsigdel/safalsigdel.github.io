@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/glzi2dEDBvbtJln4JaW2Vuutky0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66882876/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-TikTok on Monday laid out a series of actions it plans to take to address criticisms that its recommendation algorithm suppresses black creators.
-<a href='https://www.theverge.com/2020/6/1/21277505/tiktok-black-creators-censorship-algorithm-donation-diversity-council'> Source <a/>

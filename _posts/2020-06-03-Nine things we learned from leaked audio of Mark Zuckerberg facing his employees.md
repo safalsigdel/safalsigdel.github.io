@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YnkOgxSDULpEVtRM6sLOT-bGrx4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66888002/jbareham_180405_1777_facebook_0002.0.jpg' width='700px' /><br/>
+On Tuesday morning, Mark Zuckerberg held a meeting with employees over video chat to address concerns related to the company's decision not to take action on some recent posts by President Trump. As I reported on Thursday, the decision sparked an unusual amount of internal dissent among employees, and on Monday it spilled over into public with a virtual walkout of a few hundred employees.
+<a href='https://www.theverge.com/interface/2020/6/3/21278233/mark-zuckerberg-facebook-walkout-employee-meeting-leaked-audio'> Source <a/>

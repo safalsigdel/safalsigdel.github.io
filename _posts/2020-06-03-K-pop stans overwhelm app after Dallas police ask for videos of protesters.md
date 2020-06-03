@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E1Cte52BikH22ql0JKll6BDMuW8=/0x0:3000x2002/1200x800/filters:focal(1316x396:1796x876)/cdn.vox-cdn.com/uploads/chorus_image/image/66882734/1207764822.jpg.0.jpg' width='700px' /><br/>
-After the Dallas Police Department asked people to send videos of “illegal activity from the protests” happening in the city over the weekend using a special app called iWatch Dallas, K-pop fans flooded the software with content from their favorite artists and seemingly overloaded the reporting system in the process.
-<a href='https://www.theverge.com/2020/6/1/21277423/k-pop-dallas-pd-iwatch-app-flood-review-bomb-surveillance-protests-george-floyd'> Source <a/>
