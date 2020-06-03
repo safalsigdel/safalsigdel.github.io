@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tKXuu1xdXVAEVP-1woVFvrDQwMc=/0x0:1000x800/1200x800/filters:focal(367x126:527x286)/cdn.vox-cdn.com/uploads/chorus_image/image/66889933/ezgif_6_262a56ab941e.0.jpg' width='700px' /><br/>
+One of Honor's newly announced smartphones, the Honor Play 4 Pro, is available with an infrared temperature sensor, XDA-Developers reports. A video shared by the company's official Weibo account shows the handset displaying temperature readings after being held up to people's faces and wrists. The phones were announced in China, and there's currently no word of an international release.
+<a href='https://www.theverge.com/2020/6/3/21279217/honor-play-4-pro-temperature-sensor-covid-19-china-launch'> Source <a/>

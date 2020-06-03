@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cAycFK2MB2h4A98x7BfKruI3QJs=/0x0:640x427/1200x800/filters:focal(269x163:371x265)/cdn.vox-cdn.com/uploads/chorus_image/image/66884543/Living_Room_TV_Interaction_Womens_128_4_apple_strength.0.jpeg' width='700px' /><br/>
-Peloton is making its app available on one more device: Apple TVs. The company announced the news today, which will bring the workout streaming app to Apple TV 4K and Apple TV HD devices. New members can access the app on their TV for a free 30-day trial, too. The app is already available on iOS devices and the Apple Watch but is missing a desktop app. (The company does offer streaming through users' browsers.)
-<a href='https://www.theverge.com/21277087/peloton-apple-tv-app-ios-update-stream'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vNdzNhr3yjDdpyo09bckdz_AO1c=/0x0:3000x2000/1200x675/filters:focal(1256x1:1736x481)/cdn.vox-cdn.com/uploads/chorus_image/image/66889888/VRG_4049_ByteFlight.0.0.jpg' width='700px' /><br/>
+The tech workers in Silicon Valley know you want them gone. They knew it when you protested their buses. They knew it when you trashed their scooters. They definitely knew it when you scrawled “die techie scum” on the sidewalk. But guess what? They don't even want to be here! In fact, they're already packing their bags.
+<a href='https://www.theverge.com/2020/6/3/21277254/tech-silicon-valley-remote-work-exodus-facebook-google-coronavirus-future'> Source <a/>
