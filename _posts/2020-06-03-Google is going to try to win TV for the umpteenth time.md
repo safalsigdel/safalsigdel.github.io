@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lHeQJMLWR7weBX_3D1yLOP176CY=/0x0:1200x675/1200x675/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/66888109/Google_Android_TV_Sabrina_Watermarked_3.0.jpg' width='700px' /><br/>
+Pop quiz: what's the biggest video website on the internet? It's YouTube, duh. Second question: what's the biggest and most important video app on your smart TV or your set-top box? Everybody's answer is different, but I bet most people's first answer isn't YouTube.
+<a href='https://www.theverge.com/2020/6/3/21278534/google-tv-rumor-sabrina-chromecast-android-cable-milkshake'> Source <a/>
