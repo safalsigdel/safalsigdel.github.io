@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NiMK7xrYOiU-0CqGm-9cPbvVh_M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66893650/dbohn_200516_4026_0019.0.jpg' width='700px' /><br/>
+The new 13-inch MacBook Pro hit shelves on May 4th. Kate Kozuch, a journalist, ordered one to replace her old, broken 2015 model. She was confused by the different add-ons and configuration options — “The numbers hurt my brain,” she told The Verge. But after much research, she finally settled on one.
+<a href='https://www.theverge.com/2020/6/4/21279633/laptop-pc-shortages-supply-chain-coronavirus-covid-19-pandemic'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/756ssD6BvX4B8XWbO76I21tIjZs=/0x0:640x360/1200x800/filters:focal(269x129:371x231)/cdn.vox-cdn.com/uploads/chorus_image/image/66888135/p08fvdp0.0.jpg' width='700px' /><br/>
-The BBC's in-house voice assistant, ‘Beeb,' has been released in beta, allowing Windows Insiders in the UK to test the software on Windows 10, the UK broadcaster announced today. The corporation boasts that Beeb is “the first public service voice assistant.” If you're signed up as a Windows beta tester, you can download and install the software from the Microsoft Store.
-<a href='https://www.theverge.com/2020/6/3/21278976/bbc-voice-assistant-beeb-sounds-app-podcasts-radio-weather-news'> Source <a/>
