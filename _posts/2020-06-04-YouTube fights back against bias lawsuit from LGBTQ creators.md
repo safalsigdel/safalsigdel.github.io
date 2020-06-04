@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a2I_dxzrspho-DRiQCA93AWqYKA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66889016/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
-The fight between a group of LGBTQ YouTube creators and the video platform's parent company, Google, over censorship faced its first real test on Tuesday as a California court heard arguments from both groups to determine whether the case should be dismissed.
-<a href='https://www.theverge.com/2020/6/3/21278050/youtube-lawsuit-lgbtq-google-doj-section-230-trump-executive-order'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fk0OmscYjP8I3wK60PSuJoW3IWg=/0x0:2040x1351/1200x675/filters:focal(817x800:1143x1126)/cdn.vox-cdn.com/uploads/chorus_image/image/66888693/verge_DSC_9065_2040pxl.0.jpg' width='700px' /><br/>
-A solar table that charges an internal battery to power an integrated Bluetooth speaker while wirelessly charging your phone has limited appeal — especially when it costs $349. But as ridiculous as it sounds, the Suntable is convergence done right. It's for anyone with means looking to improve their outdoor living situation on a patio or balcony, for example, without having to run an extension cord.
-<a href='https://www.theverge.com/21278972/shadecraft-suntable-review-specs-price-date'> Source <a/>
