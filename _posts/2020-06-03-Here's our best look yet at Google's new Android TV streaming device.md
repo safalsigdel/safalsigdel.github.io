@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fxp12q2i3IJPPiqYX1rrtoS7MeU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66885546/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
-Google may be close to launching its next streaming TV device, and now XDA Developers has got its hands on marketing material that gives us our first real glimpse at what that device might look like.
-<a href='https://www.theverge.com/2020/6/2/21278232/google-android-tv-streaming-device-new-leak-images-video-remote'> Source <a/>

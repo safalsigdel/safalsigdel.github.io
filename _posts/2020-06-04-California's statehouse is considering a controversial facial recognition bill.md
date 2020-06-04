@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9G3l0nnSSd1OnDbNbrXtHaG6t00=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66891489/acastro_180730_1777_facial_recognition_0001.0.jpg' width='700px' /><br/>
+As protestors square off against police across the country, California is readying a bill that could expand the state's use of facial recognition, including for law enforcement purposes.
+<a href='https://www.theverge.com/2020/6/3/21279539/california-facial-recognition-ab2261-law-privacy-regulation'> Source <a/>

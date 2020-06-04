@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7e1TzXH22hfxjEfn5-8mgvlysHA=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/66886291/1216300266.jpg.0.jpg' width='700px' /><br/>
-President Donald Trump's executive order targeting social media companies faced its first legal challenge Tuesday, claiming that Trump violated the companies' rights to free speech.
-<a href='https://www.theverge.com/2020/6/2/21278517/donald-trump-twitter-executive-order-lawsuit-challenge'> Source <a/>

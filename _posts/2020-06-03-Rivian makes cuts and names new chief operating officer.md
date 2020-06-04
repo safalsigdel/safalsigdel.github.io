@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B1tm99sIGzV6WQPIr0U7E6DBQ3k=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/66886846/N._Rivian_R1T_Grass.0.jpg' width='700px' /><br/>
-Amazon-backed EV startup Rivian has laid off about 40 employees at its engineering and design center in Plymouth, Michigan, The Verge has learned. The cuts, which the company has confirmed to The Verge, were made across departments and included engineers, recruiters, and others, according to two former employees. The company has also made a number of new executive hires, and has replaced its first chief operating officer.
-<a href='https://www.theverge.com/2020/6/2/21278019/rivian-layoffs-new-chief-operating-officer-harley-davidson'> Source <a/>

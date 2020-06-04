@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/muiXf_C10Qi8olyn79MNNB406h4=/0x0:7576x4872/1200x800/filters:focal(3182x1830:4394x3042)/cdn.vox-cdn.com/uploads/chorus_image/image/66891600/1200875983.jpg.0.jpg' width='700px' /><br/>
+Pressure is mounting from all directions on Facebook CEO Mark Zuckerberg for his refusal to take action against posts from President Donald Trump. The latest salvo comes from 33 former employees who worked at the company during its early stages, including some who helped create Facebook's original community guidelines. The open letter was first published by The New York Times; we have republished the letter in full below.
+<a href='https://www.theverge.com/2020/6/3/21279671/facebook-former-employees-mark-zuckerberg-letter-trump'> Source <a/>

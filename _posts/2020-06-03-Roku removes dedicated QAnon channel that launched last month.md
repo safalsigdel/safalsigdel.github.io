@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/awMG49lib7sUQZPmvSBRTpUozmw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66885952/cwelch_200205_3895_0002.0.jpg' width='700px' /><br/>
-Streaming platform Roku has removed a channel dedicated to the QAnon conspiracy theory movement after facing criticism for letting it slip through its review and moderation processes last month. The show, called “Q Channel - QAnon Channel,” was hosted by popular QAnon supporter Dave Hayes and advertised as a “opinion based shows for getting the truth out, as we know it, about the Qanon movement.”
-<a href='https://www.theverge.com/2020/6/2/21278342/roku-qanon-channel-ban-david-hayes-conspiracy-theories-misinformation'> Source <a/>

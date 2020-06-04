@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KwyyRDZH90d0VUslhnFwcx6lH5I=/0x0:2040x1037/1200x800/filters:focal(409x358:735x684)/cdn.vox-cdn.com/uploads/chorus_image/image/66891739/N526Workshop.0.jpg' width='700px' /><br/>
+Luxury vacuum magnate James Dyson has revealed new photos and a little more information about his company's failed electric vehicle — a project into which he recently revealed he poured more than half a billion dollars of his own money.
+<a href='https://www.theverge.com/2020/6/3/21279684/james-dyson-ev-photos-videos-suv-project-canceled'> Source <a/>
