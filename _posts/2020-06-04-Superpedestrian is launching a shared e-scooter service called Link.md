@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CFArP-y2k3HU3tNNLzzyJdm6hDQ=/0x0:1987x1326/1200x800/filters:focal(382x492:698x808)/cdn.vox-cdn.com/uploads/chorus_image/image/66895031/link_studio_photo_01_403x.0.jpg' width='700px' /><br/>
+Boston-based micromobility startup Superpedestrian is launching a shared electric scooter-sharing service called Link, which is built around the super durable and smart e-scooters the company announced in late 2018.
+<a href='https://www.theverge.com/2020/6/4/21275087/zagster-acquisition-bike-share-superpedestrian-copenhagen-wheel'> Source <a/>
