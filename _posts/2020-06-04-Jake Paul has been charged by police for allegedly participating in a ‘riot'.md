@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R0md31OQsBJ2-4h7SLiwgqXOnYU=/0x0:5568x3712/1200x800/filters:focal(2395x672:3285x1562)/cdn.vox-cdn.com/uploads/chorus_image/image/66895279/1197371964.jpg.0.jpg' width='700px' /><br/>
+Police in Scottsdale, Arizona have charged popular YouTuber Jake Paul for his alleged participation in a mall riot over the weekend. Paul was charged with two misdemeanor crimes — criminal trespassing and unlawful assembly. He was “issued a summons to appear in court in a month,” according to a statement from Scottsdale Police Department sent to The Verge. The charges were first reported by ABC15 Arizona.
+<a href='https://www.theverge.com/2020/6/4/21280476/jake-paul-arizona-protests-riots-youtube-filming-scottsdale'> Source <a/>
