@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tbG2kcEUthwbH9hSsO-ZIPVWb50=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66890745/5ci_plugged_iphone.0.jpg' width='700px' /><br/>
-Google account owners can finally take advantage of the recently added built-in support for physical security keys on iOS. It allows customers to use their USB-C, NFC, or Lightning security keys for an extra layer of security when signing into a Google account or using Google's Advanced Protection program.
-<a href='https://www.theverge.com/21279454/google-accounts-nfc-usb-c-lightning-security-keys-ios-apple-log-in'> Source <a/>
