@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K9p3Kax74Q13b1uJbXdabZKxKko=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66893331/acastro_190926_1777_twitch_0004.0.0.jpg' width='700px' /><br/>
-Live-streaming platform Twitch has removed an emote from its platform called “TwitchCop.” The emote shows a cartoon character in a nondescript police uniform blowing a whistle. A spokesperson for Twitch confirmed to The Verge that they'd removed the emote “to prevent misuse” but did not offer more detail.
-<a href='https://www.theverge.com/2020/6/4/21280121/twitch-removes-twitchcop-emote-to-prevent-misuse'> Source <a/>

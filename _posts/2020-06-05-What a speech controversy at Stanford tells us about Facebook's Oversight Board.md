@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1_d0cIDJHT3lyCXG6--jhGIYeh4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66898344/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
+Let's conclude what turned out to be Free Speech Week on The Interface with a look at a case involving the co-chairman of Facebook's new Oversight Board, a Zoom recording of his law school class, and the N-word.
+<a href='https://www.theverge.com/interface/2020/6/5/21280505/michael-mcconnell-stanford-facebook-oversight-board-controversy-n-word'> Source <a/>
