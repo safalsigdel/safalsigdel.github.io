@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Google has tweaked the appearance of the compose button in Gmail's Android app. First spotted by 9to5Google, the old button, a small “floating action button” with a plus in it, is now an oblong button containing a pen icon along with the word “Compose.” It minimizes into its old circle shape when you scroll down your list of emails. Ultimately, though, I'd still argue that the bottom-right of the screen is a bad place for the app's most important button.
+<a href='https://www.theverge.com/tldr/2020/6/5/21281353/gmail-compose-button-user-interface-change-floating-action'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7X7rveGArtDRLiXQcV-EZWL6dO0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66893317/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google is trying to make it easier to find the information you're looking for on external websites by highlighting relevant sections in yellow, SearchEngineLand reports. The functionality works with Google's Featured Snippets — the standalone boxes that appear at the top of search results that attempt to give you answers without having to visit a website beyond Google.
-<a href='https://www.theverge.com/2020/6/4/21280115/google-search-engine-yellow-highlight-featured-snippet-anchor-text'> Source <a/>
