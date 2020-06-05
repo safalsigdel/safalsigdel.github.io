@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1if9BqTOm2SWmrxI5LsiWC-yKQU=/0x0:1920x1080/1200x800/filters:focal(507x359:813x665)/cdn.vox-cdn.com/uploads/chorus_image/image/66894279/RE3_Jill_RaccoonCity1.0.jpg' width='700px' /><br/>
-Capcom's remake of Resident Evil 3 landed on the PS4 and Xbox One in April, and it's already $20 off at Best Buy. Instead of paying $60, you'll just pay $40 for the disc version of the game. This is the first price drop that we've seen for RE3, and based on the takeaway from my colleague Sam Byford's review, this seems like the right price for the game.
-<a href='https://www.theverge.com/good-deals/2020/6/4/21279129/resident-evil-3-ps4-xbox-one-ipad-nintendo-deal-sale-best-buy-walmart'> Source <a/>
