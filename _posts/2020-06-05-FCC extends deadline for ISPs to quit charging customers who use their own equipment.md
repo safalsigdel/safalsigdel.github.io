@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a2iRZmSz4UcQnZMmnXhuvjWNFhE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66894235/acastro_180608_1777_net_neutrality_0002.0.jpg' width='700px' /><br/>
-US internet service providers can continue to charge customers a device rental fee — even if they have their own equipment — at least until December 20th. A law barring the practice was set to go into effect on June 20th, but the Federal Communications Commission has extended the deadline for ISPs to comply due to the pandemic (via Ars Technica).
-<a href='https://www.theverge.com/2020/6/4/21280188/fcc-deadline-isps-charge-customer-equipment-date'> Source <a/>
