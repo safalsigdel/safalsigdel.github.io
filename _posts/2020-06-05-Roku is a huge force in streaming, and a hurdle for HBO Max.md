@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5Jye7tDAx_03rlgx5Y9WapSecFs=/0x0:1200x893/1200x800/filters:focal(504x351:696x543)/cdn.vox-cdn.com/uploads/chorus_image/image/66896634/roku_verge.0.jpeg' width='700px' /><br/>
+HBO Max launched last week without any Roku support and integration, and new numbers from multiple research firms show just how much of a problem that might be for the new streaming service.
+<a href='https://www.theverge.com/2020/6/4/21280279/roku-hbo-max-dispute-streaming-connected-tvs-amazon-fire-apple-channels-warnermedia'> Source <a/>

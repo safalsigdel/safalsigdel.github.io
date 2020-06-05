@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4RIp3knlYHsgwSaFBNQe_WO-Ht4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66891396/acastro_180413_1777_reddit_0002.0.jpg' width='700px' /><br/>
-Some of Reddit's most frequented and active subreddit communities are participating in a collective action this week to protest the platform's hate speech policies and the current police brutality and racism crisis gripping the US.
-<a href='https://www.theverge.com/2020/6/3/21279601/reddit-dark-subreddits-protest-police-violence-racism-hate-speech-policies'> Source <a/>

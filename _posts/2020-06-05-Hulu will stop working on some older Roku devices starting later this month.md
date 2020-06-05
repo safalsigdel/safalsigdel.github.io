@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RuhnrZGbpJE0rMWRPsshaB8keiw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66896498/acastro_200320_1777_huluStock_0003.0.0.jpg' width='700px' /><br/>
+Hulu will no longer be supported on some older Roku devices as of June 24th, according to a Hulu support page (via Ars Technica). The affected models were released in 2012 or earlier, and include Roku players with a model number between 2400 to 3100 and Roku Streaming Sticks with a model number of 3420 or earlier.
+<a href='https://www.theverge.com/2020/6/4/21280617/hulu-support-older-roku-devices'> Source <a/>

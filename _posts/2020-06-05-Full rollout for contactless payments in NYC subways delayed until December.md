@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AIerJ1-4XCpsrZfY7e0VAe15G5E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66891056/akrales_190528_3453_0028.0.jpg' width='700px' /><br/>
-New York commuters will have to wait just a bit longer before they can use their smartphone or contactless credit card to pay for bus and subway trips throughout the city, The Wall Street Journal reports. The OMNY payment system is now expected to be completed for both subways and busses by December, instead of October.
-<a href='https://www.theverge.com/2020/6/3/21279362/contactless-payment-nyc-subway-full-rollout-delayed-omny'> Source <a/>
