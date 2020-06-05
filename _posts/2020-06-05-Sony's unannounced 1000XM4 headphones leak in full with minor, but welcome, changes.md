@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Sony's unannounced WH-1000XM4 noise-canceling headphones have leaked in full thanks to a new listing on Walmart's website that reveals basically everything else there is to know about the refreshed headphones. This includes new AI features to enhance compressed music, the ability to connect to multiple devices at once, and a $348 price tag, via Android Police.
-<a href='https://www.theverge.com/circuitbreaker/2020/6/4/21280429/sony-wh1000x-m4-noise-cancelling-headphones-leak-walmart'> Source <a/>
