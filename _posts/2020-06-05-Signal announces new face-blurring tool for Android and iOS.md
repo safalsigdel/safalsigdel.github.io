@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KW7G6Q-FZwdr9uGyNLRl1rkDJzM=/0x0:2600x1800/1200x800/filters:focal(1092x692:1508x1108)/cdn.vox-cdn.com/uploads/chorus_image/image/66893297/signal_blur_wider.0.jpg' width='700px' /><br/>
-Encrypted messaging app Signal has announced a new face-blurring tool that will be incorporated into the latest Android and iOS versions of the software.
-<a href='https://www.theverge.com/2020/6/4/21280112/signal-face-blurring-tool-ios-android-update'> Source <a/>
