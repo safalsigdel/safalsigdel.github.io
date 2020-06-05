@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yN8L1p3p4kaNbd-nA7hnaSJOVzU=/0x0:3463x2309/1200x800/filters:focal(1455x878:2009x1432)/cdn.vox-cdn.com/uploads/chorus_image/image/66898528/1211180751.jpg.0.jpg' width='700px' /><br/>
+Dropbox has quietly launched a new password manager named Dropbox Passwords. The app is only available in a private beta on Android, and although you can download it, you won't be able to use it unless you've got an invite. The app's Play Store listing notes that the app is currently “in development” and therefore may be unstable.
+<a href='https://www.theverge.com/2020/6/5/21281392/dropbox-passwords-manager-app-private-beta-android-play-store'> Source <a/>
