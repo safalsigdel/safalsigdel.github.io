@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/uYin1KI-7yRtn5vm0y2UjfNqlmk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66898029/acastro_190724_1777_doordash_0002.0.0.jpg' width='700px' /><br/>
-A pair of alarming videos captured two separate Caviar delivery workers being arrested by New York City police on Thursday, allegedly for violating the city's curfew imposed this week in response to demonstrations protesting the death of George Floyd and systemic police brutality.
+A pair of alarming videos appeared to show at least one Caviar delivery worker being arrested by New York City police on Thursday, allegedly for violating the city's curfew imposed this week in response to demonstrations protesting the death of George Floyd and systemic police brutality.
 <a href='https://www.theverge.com/2020/6/5/21281272/doordash-caviar-nyc-workers-arrested-response-curfew-protests-police-brutality'> Source <a/>
