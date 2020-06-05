@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Motorola has a pair of new budget smartphones: the entry-level $149.99 Motorola E, and the $199.99 Moto G Fast. The two new phones help solidify Motorola's lineup across the budget and mid-range space, with the Moto E and the Moto G Fast joining the already released Moto G Power ($249.99) and G Stylus ($299.99).
+Motorola has a pair of new budget smartphones: the entry-level $149.99 Motorola E and the $199.99 Moto G Fast. The two new phones help solidify Motorola's lineup across the budget and midrange space, with the Moto E and the Moto G Fast joining the already released Moto G Power ($249.99) and G Stylus ($299.99).
 <a href='https://www.theverge.com/circuitbreaker/2020/6/5/21280823/motorola-moto-e-g-fast-budget-smartphones-android-149-199-cheap'> Source <a/>
