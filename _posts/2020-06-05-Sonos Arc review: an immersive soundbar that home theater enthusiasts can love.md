@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o05G7vLUisZqlirYgauGDU4cOHY=/0x0:2040x1360/1200x675/filters:focal(901x626:1227x952)/cdn.vox-cdn.com/uploads/chorus_image/image/66893910/DSCF0849.0.jpg' width='700px' /><br/>
-The new Sonos Arc soundbar is perhaps the biggest flex of the company's design, engineering, and technology advancements that we've seen yet.
-<a href='https://www.theverge.com/21279703/sonos-arc-review-dolby-atmos-soundbar-price-specs-features'> Source <a/>
