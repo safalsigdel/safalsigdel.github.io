@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3WRYWtssdG1Aefcacz14EuHHaWk=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66894151/VRG_ILLO_4041_001.0.jpg' width='700px' /><br/>
-When David Velasquez went home to California for a week in April, he found out that his parents didn't have internet access anymore. Velasquez, a medical student at Harvard, needs Wi-Fi for work. However, his parents don't own a computer. “They don't shop online, they don't watch Netflix,” he says. So when the connection got too expensive, they stopped paying for it.
-<a href='https://www.theverge.com/21277936/telehealth-english-systems-disparities-interpreters-online-doctor-appointments'> Source <a/>
