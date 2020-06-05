@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZT43FGRGRsmgIHXwru8f82hJdmE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66900213/acastro_180413_1777_reddit_0002.0.jpg' width='700px' /><br/>
+Serena Williams' husband Alexis Ohanian — the co-founder of Reddit — resigned from Reddit's board of directors today. He announced the move in a tweet, urging the company to hire a black candidate in his stead and promising his future gains on Reddit stock to serve the black community.
+<a href='https://www.theverge.com/2020/6/5/21281744/reddit-co-founder-alexis-ohanian-resigns-board'> Source <a/>
