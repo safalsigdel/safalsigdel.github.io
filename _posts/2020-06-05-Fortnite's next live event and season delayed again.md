@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jA_iLKRjqVR4ZqJDsNsWTzRBuWs=/0x0:1173x660/1200x800/filters:focal(465x243:651x429)/cdn.vox-cdn.com/uploads/chorus_image/image/66892328/Screen_Shot_2019_10_15_at_6.23.15_PM.0.png' width='700px' /><br/>
-Epic Games has delayed Fortnite's next in-game live event and the start of the game's next season due to widespread outrage over the death of George Floyd and ongoing police brutality in response to protests around the country. The in-game live event, titled “The Device,” will now take place on June 15th. The next season, called Chapter 2 Season 3, will begin on June 17th.
-<a href='https://www.theverge.com/2020/6/3/21279829/fortnite-epic-games-device-live-event-chapter-2-season-3-delayed-protests'> Source <a/>
