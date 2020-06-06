@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E-rtjKQwKLwaOT2nNCUbqF7yGak=/0x0:979x621/1200x800/filters:focal(412x233:568x389)/cdn.vox-cdn.com/uploads/chorus_image/image/66900548/lenovo_1.0.jpg' width='700px' /><br/>
+Lenovo has announced a new 11-inch Chromebook 3, which is now available on the company's website for $229. The device joins a sizable lineup of budget Chrome OS products from Lenovo, including its $279 Chromebook Duet and its $359 Flex 5.
+<a href='https://www.theverge.com/2020/6/5/21281659/lenovo-11-inch-chromebook-3-budget-laptop-chrome-os-intel-processor-price'> Source <a/>

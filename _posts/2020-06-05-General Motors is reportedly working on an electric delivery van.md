@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ds_Zo7fHuOYgXBlshLeQir1Dp5o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66896852/acastro_200406_1777_gm_0002.0.0.jpg' width='700px' /><br/>
-General Motors is working on an all-electric delivery van, according to Reuters. If true, GM would the latest automaker to hone in on what's expected to be a successful slice of the nascent electric vehicle market. It's also a segment that is in desperate need of electrification, especially with the rise of Amazon and home deliveries in general.
-<a href='https://www.theverge.com/2020/6/4/21280862/gm-bv1-electric-van-delivery-ultium-amazon-ford-transit'> Source <a/>

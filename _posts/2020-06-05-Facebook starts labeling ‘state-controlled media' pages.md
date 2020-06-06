@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LJxLoao-EnIJvOk4zNb6B28DRLU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66895640/NRP_Labeling_State_Controlled_Media_on_Facebook_inline_ad_library.0.png' width='700px' /><br/>
-Facebook has begun labeling media outlets that are “wholly or partially under the editorial control of their government,” following an announcement of the policy in 2019. It will start labeling ads from these outlets later this year, as well as banning state-controlled media from advertising inside the US.
-<a href='https://www.theverge.com/2020/6/4/21280542/facebook-state-controlled-media-account-post-label-election-interference-ads-rt'> Source <a/>

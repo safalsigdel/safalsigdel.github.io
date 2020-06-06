@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8nRRJqXFl6EGkvzmpEguYcUgmW4=/0x0:6144x3160/1200x800/filters:focal(3995x1588:4977x2570)/cdn.vox-cdn.com/uploads/chorus_image/image/66896413/Press___Flyer_Flare.0.jpg' width='700px' /><br/>
-Secretive Larry Page-backed “flying car” startup Kitty Hawk has pulled the plug on its Flyer electric vertical takeoff and landing (eVTOL) aircraft, and will lay off most of the 70-person team that was working on it, as TechCrunch first reported.
-<a href='https://www.theverge.com/2020/6/4/21280676/kitty-hawk-cancels-flyer-evtol-drone-aircraft-hoverboke-layoffs'> Source <a/>

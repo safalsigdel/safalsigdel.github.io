@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CVzyr2bF4Mf9S9rc9fQcSL9MM90=/0x0:3000x2000/1200x800/filters:focal(1196x207:1676x687)/cdn.vox-cdn.com/uploads/chorus_image/image/66901452/1211206334.jpg.0.jpg' width='700px' /><br/>
+The English Premier league is set to restart in the coming weeks, and Sky Sports is working with EA Sports' FIFA division to create simulated chants and crowd noises designed for specific teams.
+<a href='https://www.theverge.com/2020/6/5/21281978/premier-league-games-sky-ea-sports-fifa-division-crowd-noises-aston-villa-manchester-city'> Source <a/>

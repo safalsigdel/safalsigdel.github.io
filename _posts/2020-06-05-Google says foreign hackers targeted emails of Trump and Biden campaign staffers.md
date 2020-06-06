@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WZPAD38Ad88k7hpTv15N3iBy1v0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66896594/acastro_170621_1777_0006_v4.0.jpg' width='700px' /><br/>
-Foreign hackers targeted the personal email accounts of staffers on the presidential campaigns of Democratic primary candidate Joe Biden and President Donald Trump, Reuters reported. It appears that state-backed hackers from China tried to target staffers on the Biden campaign, while Iranian hackers targeted the email accounts of Trump campaign staff.
-<a href='https://www.theverge.com/2020/6/4/21280629/google-security-hackers-emails-trump-biden-campaign'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aIV07scMbg9dYZlq9Q084nOKDVY=/0x0:5127x3270/1200x800/filters:focal(2154x1225:2974x2045)/cdn.vox-cdn.com/uploads/chorus_image/image/66900849/1209573000.jpg.0.jpg' width='700px' /><br/>
+Instacart is adjusting how it handles customer tips following the announcement last week of a congressional inquiry into the practice of tip-baiting, in which Instacart allows customers to promise big tips for shoppers only for those customers to later rescind the tip after the order is dropped off.
+<a href='https://www.theverge.com/2020/6/5/21281910/instacart-tip-baiting-changes-congress-inquiry-exploitation-covid-19'> Source <a/>
