@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/quVMGl1N2VvWagPA3CIomKj2FYc=/0x0:2040x1360/1200x800/filters:focal(687x1034:1013x1360)/cdn.vox-cdn.com/uploads/chorus_image/image/66898188/vpavic_042017_3979_0054.0.jpg' width='700px' /><br/>
-Apple is working on a way to make it easier to change iPad keyboard brightness, according to new code analyzed by 9to5Mac. A beta version of iPadOS 13.5.5 reportedly contains references to keyboard shortcuts that could change the brightness of the keyboard backlighting as well as the iPad's screen.
-<a href='https://www.theverge.com/2020/6/5/21281334/apple-ipad-keyboard-brightness-shortcut'> Source <a/>
