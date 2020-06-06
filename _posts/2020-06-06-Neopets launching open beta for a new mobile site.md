@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DjTWjLXpEaANt0UlkLiwZS_JQLA=/0x0:1800x1014/1200x800/filters:focal(756x363:1044x651)/cdn.vox-cdn.com/uploads/chorus_image/image/66903424/neopets_beta_big.0.jpg' width='700px' /><br/>
+The beloved online game Neopets is launching an open beta for a new mobile site, the company announced on Twitter Friday. “The Neopets Mobile Beta has arrived! Now you can explore the breathtaking land of Neopia from the palm of your hand!” the very excited company tweeted.
+<a href='https://www.theverge.com/2020/6/6/21282531/neopets-beta-mobile-site'> Source <a/>
