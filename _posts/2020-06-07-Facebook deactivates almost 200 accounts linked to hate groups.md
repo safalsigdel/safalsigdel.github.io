@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mF45kydfUTqfDdb4EgyUp5dq9DI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66904643/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook has removed almost 200 accounts connected to white supremacist groups that were trying to rally supporters to attend protests over police violence against black people, the Associated Press reported. The accounts in question were linked to two hate groups Facebook had already banned, the Proud Boys and the American Guard.
+<a href='https://www.theverge.com/2020/6/7/21283011/facebook-deactivates-accounts-hate-groups'> Source <a/>
