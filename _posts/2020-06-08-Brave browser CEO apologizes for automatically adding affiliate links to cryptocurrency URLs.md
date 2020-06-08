@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kY2ElAgtWDd1ofsPOFnULyuP6WY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66907080/acastro_200211_3900_Brave_0001.0.0.jpg' width='700px' /><br/>
+Brave, the open-source browser designed to prioritize privacy by blocking third-party ads and trackers, is facing criticism from users for redirecting URLs from cryptocurrency companies to affiliate links that Brave profits from, Decrypt reported.
+<a href='https://www.theverge.com/2020/6/8/21283769/brave-browser-affiliate-links-crypto-privacy-ceo-apology'> Source <a/>
