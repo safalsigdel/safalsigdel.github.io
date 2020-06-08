@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zFYNXMOyee_SKkMGVzD0dSW1T8I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66898886/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
-Google will be making Currents, its Google Plus replacement, generally available to G Suite users beginning July 6th, the company announced in an email to G Suite administrators on Friday. Google describes Currents as a tool that will allow companies to engage employees and have meaningful discussions.
-<a href='https://www.theverge.com/2020/6/5/21281409/google-plus-currents-gsuite-july'> Source <a/>
