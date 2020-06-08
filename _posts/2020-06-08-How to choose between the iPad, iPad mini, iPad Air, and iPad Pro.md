@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iU7QPt7zj_6ySsZtdXhPN-n9VqA=/0x0:2040x1360/1200x800/filters:focal(965x591:1291x917)/cdn.vox-cdn.com/uploads/chorus_image/image/66899456/akrales_190319_3298_0022.0.jpg' width='700px' /><br/>
-Whether you're shopping for your first iPad or upgrading from a previous generation, figuring out which Apple-made tablet is best for you can be confusing. There are a bunch of models out there, which makes it hard, and a new version usually comes out each year. And since most of them look similar, it becomes even more difficult to shop with confidence.
-<a href='https://www.theverge.com/21280856/apple-ipad-mini-air-pro-comparison-how-to-choose'> Source <a/>
