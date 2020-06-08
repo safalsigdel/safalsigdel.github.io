@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3QDl4UbcdYgTPeXcf3GztS7b7Ws=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66907601/cwelch_190703_3528_0013.0.jpg' width='700px' /><br/>
+Sony's popular noise-canceling true wireless earbuds, the WF-1000XM3, are on sale for $178 today on Amazon. That's $51.99 off the typical $229.99 retail price. This is close to the lowest we've seen these earbuds sell for, which was a few weeks ago at Google Shopping for $70 off.
+<a href='https://www.theverge.com/2020/6/8/21283971/sony-wf-1000xm3-earbuds-amazon-sale-deal-discount'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KuIWmFRGbrUpX1EcNYIPMw1Rh0w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66900239/akrales_180924_2972_0001.0.jpg' width='700px' /><br/>
-Instagram says its terms of service don't grant websites a sublicense to embed other people's posts. Ars Technica reported yesterday that Instagram's policies “require third parties to have the necessary rights from applicable rights holders,” according to a company spokesperson. “This includes ensuring they have a license to share this content, if a license is required by law.”
-<a href='https://www.theverge.com/2020/6/5/21281618/instagram-photo-embed-sublicense-copyright-lawsuit-newsweek-mashable'> Source <a/>
