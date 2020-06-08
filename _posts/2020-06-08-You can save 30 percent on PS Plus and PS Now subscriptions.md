@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S1ktkwDM-oVIcVeUpkwbxpzu5Ug=/0x0:2040x1360/1200x800/filters:focal(1053x731:1379x1057)/cdn.vox-cdn.com/uploads/chorus_image/image/66899282/akrales_161108_1261_A_0076.0.0.jpg' width='700px' /><br/>
-Sony is discounting the cost of its PS Plus online subscription and PS Now cloud game streaming service at Amazon, so now is the time to top off your account. Subscribing to one of these services usually costs $60 for a one-year subscription, but right now each one costs $42.
-<a href='https://www.theverge.com/good-deals/2020/6/5/21281451/playstation-ps-plus-now-subscriptions-ps4-service-one-year-sale-deal-8bitdo-sn30-switch-controller'> Source <a/>
