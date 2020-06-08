@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x9ZRVDBRXKFu_ut1qvgM4UKdVS8=/0x0:4000x2666/1200x800/filters:focal(1680x453:2320x1093)/cdn.vox-cdn.com/uploads/chorus_image/image/66906174/1218336056.jpg.0.jpg' width='700px' /><br/>
+Lee Jae-yong, Samsung Electronics vice chairman and the de facto leader of the Samsung Group conglomerate, may soon find himself back in jail. Prosecutors are seeking an arrest warrant against Lee, known as Jay Y. Lee in the West, arguing that he should be detained while they investigate new allegations against him.
+<a href='https://www.theverge.com/2020/6/8/21283685/samsung-lee-jae-yong-new-charges-arrest-decision'> Source <a/>
