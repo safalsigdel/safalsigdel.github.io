@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ggNn5afWzgJqol3D3xeMYhFqMlI=/0x0:2004x1376/1200x800/filters:focal(855x123:1175x443)/cdn.vox-cdn.com/uploads/chorus_image/image/66906523/apple_maps_blm.0.jpg' width='700px' /><br/>
-Apple has updated the satellite imagery in its maps app to include Washington DC's new Black Lives Matter mural. The mural takes over two blocks of 16th Street near the White House, since renamed Black Lives Matter Plaza by DC mayor Muriel Bowser.
-<a href='https://www.theverge.com/2020/6/8/21283744/black-lives-matter-satelliite-apple-maps'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XoG20n2vb0Ctst9pnePJlW76TCg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66906319/akrales_161202_1327_A_0122.0.0.jpeg' width='700px' /><br/>
-More people are booking local holidays in the wake of the COVID-19 pandemic, Bloomberg reports. According to Airbnb's CEO, the number of nights booked at US listings between May 17th and June 3rd was greater than the same weeks from the previous year, and similar increases in domestic holidays are being seen in other countries including Germany, Portugal, South Korea, and New Zealand.
-<a href='https://www.theverge.com/2020/6/8/21283706/airbnb-coronavirus-covid-19-local-holidays-global-trend-vacation-homes-hotels'> Source <a/>
