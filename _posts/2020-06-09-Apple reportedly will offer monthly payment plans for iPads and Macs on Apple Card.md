@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LJAQcrWmMYE_yJz1ex1FL1PzThk=/0x0:1642x1095/1200x800/filters:focal(690x417:952x679)/cdn.vox-cdn.com/uploads/chorus_image/image/66903626/applcardti.0.jpg' width='700px' /><br/>
-Apple will allow customers to buy products including iPads, Macs, and AirPods, via monthly installment payments on the Apple Card, Bloomberg reported. Payments will be managed through the Apple Card section in the iPhone Wallet app and added to customers' monthly Apple Card bills, according to Bloomberg.
-<a href='https://www.theverge.com/2020/6/6/21282667/apple-monthly-plans-ipads-macs-apple-card'> Source <a/>
