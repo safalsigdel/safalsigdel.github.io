@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-We've always had a soft spot for supernumerary robotic limbs here at The Verge, but this latest example of the genre is one of the most impressive we've seen to date. Designed by researchers at the Universitxc3xa9 de Sherbrooke in Canada, it's a hydraulic arm that sits on the wearer's hip and uses a three-fingered manipulator to carry out a range of tasks.
-<a href='https://www.theverge.com/21283724/wearable-robotic-arm-supernumerary-research-sherbrooke'> Source <a/>
