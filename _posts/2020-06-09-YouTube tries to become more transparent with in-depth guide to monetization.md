@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p4Ki_DcLbKklEH7tfDw7oKRHNJ4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66907914/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
-YouTube offered more transparency into which videos can run ads and which can't, including pranks and videos that fall under hateful content, in a breakdown of its monetization guidelines published in May.
-<a href='https://www.theverge.com/2020/6/8/21283843/youtube-advertising-guidelines-monetization-content-rules-hateful-content-sensitive-subjects-pranks'> Source <a/>
