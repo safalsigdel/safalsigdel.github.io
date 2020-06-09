@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/EOV7Dsbr6D2lhVp5-GgrgTGjLJo=/0x0:2486x2880/1200x800/filters:focal(1045x1242:1441x1638)/cdn.vox-cdn.com/uploads/chorus_image/image/66908258/onleaks_oneplus_8_lite.0.jpg' width='700px' /><br/>
-OnePlus will release a midpriced phone called the OnePlus Z in India in July, Android Police reports.
+OnePlus will release a midpriced phone called the OnePlus Z in India in July, Android Central reports.
 <a href='https://www.theverge.com/2020/6/8/21283967/oneplus-mid-range-z-phone-india-july-release-report'> Source <a/>
