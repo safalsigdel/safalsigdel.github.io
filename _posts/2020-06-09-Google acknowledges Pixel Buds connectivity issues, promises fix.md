@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IboWoZ-lSbvSZ3P453lZ7us56YE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66912119/bfarsace_200424_3992_0006.0.0.jpg' width='700px' /><br/>
+A Google employee has acknowledged the issues some users are having with their Pixel Buds, 9to5Google reports. “I just wanted to let all of you know that we've heard you,” the Googler wrote on the company's support forums, “our team will be rolling out software updates in the coming weeks to improve Bluetooth stability and connectivity.”
+<a href='https://www.theverge.com/2020/6/9/21285224/google-pixel-buds-connection-issues-fix-promise-coming-weeks-bluetooth'> Source <a/>
