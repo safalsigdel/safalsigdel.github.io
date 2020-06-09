@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EU6W0XLVsxmaedscQRzzRorQjlQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66905151/acastro_170731_1777_0006_v1.0.jpg' width='700px' /><br/>
-Apple has just been granted a patent for software that would generate “synthetic group selfies,” which as Protocol points out, could be a way to take group selfies for social media even if you're trying to stay socially distant from your friends.
-<a href='https://www.theverge.com/2020/6/7/21283143/apple-patent-software-social-distant-group-selfies'> Source <a/>
