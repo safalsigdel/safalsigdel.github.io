@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/puHSV7yCge0mm2hoDbsxOmRwg2g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66901897/acastro_180828_1777_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook is limiting the spread of pages and groups linked with the word “boogaloo,” an internet slang term used in some far-right extremist circles to refer to the idea of an impending second American Civil War, as first reported by Reuters. The boogaloo term has more recently evolved into a disjointed anti-government movement with various and at times conflicting views.
-<a href='https://www.theverge.com/2020/6/5/21282062/facebook-limit-spread-boogaloo-groups-extremist-anti-government-violence'> Source <a/>

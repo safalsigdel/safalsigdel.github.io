@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GjvTosn_R6VU3AH8WfxelBLf13g=/0x0:4519x3067/1200x800/filters:focal(1899x1173:2621x1895)/cdn.vox-cdn.com/uploads/chorus_image/image/66909350/1185534566.jpg.0.jpg' width='700px' /><br/>
+The American Civil Liberties Union sued Los Angeles Monday over the city's requirement that electric scooter rental companies provide anonymized real-time location data.
+<a href='https://www.theverge.com/2020/6/8/21284490/aclu-ladot-mds-lawsuit-scooter-tracking-uber'> Source <a/>

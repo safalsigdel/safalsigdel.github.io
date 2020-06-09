@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pZCNN3mCvR5p8g5rIAx5wYxA2wk=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66902728/VRG_Kitchen_Gadgets_4046_Lede.0.0.jpg' width='700px' /><br/>
-When you're stuck at home because of pandemics, bad weather, or just because you don't feel like going out, there's nothing more satisfying than cooking something really fantastic. Even if you're not an experienced or enthusiastic cook, sometimes it's really satisfying to create a new and tasty dish for you, your friends, and / or family.
-<a href='https://www.theverge.com/21271772/kitchen-gadgets-tech-favorite-cooking-blender-food-processor'> Source <a/>

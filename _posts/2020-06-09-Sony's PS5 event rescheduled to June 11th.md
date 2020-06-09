@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hOEYwsx_-fnv03oRIMQQuamnUnE=/0x0:680x383/1200x800/filters:focal(286x138:394x246)/cdn.vox-cdn.com/uploads/chorus_image/image/66908246/EaAf9y1VAAAorkp.0.jpeg' width='700px' /><br/>
+Sony announced today that its upcoming PlayStation 5 event has been rescheduled to Thursday, June 11th at 4PM ET. The event was originally scheduled for June 4th but was postponed following the death of George Floyd and protests against racism and police brutality happening around the world.
+<a href='https://www.theverge.com/2020/6/8/21284066/sony-ps5-playstation-5-event-rescheduled-date-time-information'> Source <a/>

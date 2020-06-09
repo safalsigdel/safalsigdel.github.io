@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0VdU-bwPL1r2k3GLRgNfdHyRxRQ=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66901388/VRG_ILLO_4055_001.0.jpg' width='700px' /><br/>
-In the days since the death of George Floyd, technology's biggest companies and their leaders have made public statements expressing solidarity with Black communities. The communications — which, really, are press releases — condemn racism and call for unity. Some at least name George Floyd, Breonna Taylor, and Ahmaud Arbery. Some have said “Black Lives Matter” outright.
-<a href='https://www.theverge.com/2020/6/5/21281017/amazon-apple-facebook-response-george-floyd-michael-brown-tech-companies-google'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vTeMhxNVQh9Ov6OVHJV2G7988HM=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/66907686/ezgif_6_f17ba08a3fed.0.jpg' width='700px' /><br/>
+Motorola has announced the One Fusion Plus, its second phone with a pop-up selfie camera, just six months after first including one on last year's Motorola One Hyper. Like its predecessor, it has a 6.5-inch 1080p display with no notch or hole-punch cutout, but the new phone features a number of internal and external improvements over the One Hyper.
+<a href='https://www.theverge.com/2020/6/8/21284032/motorola-one-fusion-plus-release-date-news-features-price-europe-pop-up-selfie-quad-rear-cameras'> Source <a/>

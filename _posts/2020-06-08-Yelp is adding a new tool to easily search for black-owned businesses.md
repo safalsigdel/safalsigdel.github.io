@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9On4ukYAPFf1332_EPOssAwqwvA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66901329/akrales_180411_2467_0070.0.jpg' width='700px' /><br/>
-Yelp is launching a new tool to allow businesses on the platform to identify themselves as black-owned, CEO Jeremy Stoppelman announced in a blog post Thursday. Customers will be able to search the Yelp app for black-owned businesses they want to support. Over the last week, Yelp says it saw a huge increase in the searches on the app for black-owned companies across various industries.
-<a href='https://www.theverge.com/2020/6/5/21281887/yelp-new-search-tool-black-owned-businesses-app-donation-matching'> Source <a/>

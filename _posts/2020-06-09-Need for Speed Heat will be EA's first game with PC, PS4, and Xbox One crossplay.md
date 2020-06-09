@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YULDckYRdL1_0SXu0o36KwnnjFo=/0x0:1023x575/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/66907710/nfs_1920x1080_reveal_week_11_musicisnfsdna_01_nologo.jpg.adapt.crop16x9.575p.0.jpg' width='700px' /><br/>
+Need for Speed Heat will become EA's first title with cross-platform multiplayer, thanks to an update that will be available tomorrow, EA announced in a blog today. The new crossplay feature will let you play with friends on PC via Origin and Steam, PS4, and Xbox One.
+<a href='https://www.theverge.com/2020/6/8/21283963/need-for-speed-heat-ea-first-game-pc-ps4-xbox-one-crossplay-multiplayer'> Source <a/>

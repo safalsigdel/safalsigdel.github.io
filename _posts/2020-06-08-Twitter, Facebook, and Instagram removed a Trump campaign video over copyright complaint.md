@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/enR19h-tcywmxFrQ7recAbwZJD4=/0x0:3197x2520/1200x800/filters:focal(1263x584:1773x1094)/cdn.vox-cdn.com/uploads/chorus_image/image/66902817/1246309269.jpg.0.jpg' width='700px' /><br/>
-Twitter, Facebook, and Instagram have all removed a Trump campaign video from their platforms after receiving copyright complaints, Reuters reported. The nearly four-minute video featured images of the late George Floyd of Minneapolis, who died May 25th after a police officer kneeled on his neck for more than eight minutes. A video of the incident has prompted nationwide protests of police violence.
-<a href='https://www.theverge.com/2020/6/6/21282421/twitter-facebook-instagram-remove-trump-campaign-video'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xb7YR7zQ9mhvE3fVyXpEgx3rQlE=/0x0:4198x2888/1200x800/filters:focal(1493x904:2163x1574)/cdn.vox-cdn.com/uploads/chorus_image/image/66901872/1173096114.jpg.0.jpg' width='700px' /><br/>
-Amazon CEO Jeff Bezos issued a public pledge of support to the Black Lives Matter movement on Friday. The chief executive did so in reply to a customer email criticizing his company's response to the death of George Floyd and ongoing protests around the country against racism and systemic police brutality. Bezos posted his reply publicly on Instagram.
-<a href='https://www.theverge.com/2020/6/5/21282145/jeff-bezos-black-lives-matter-customer-email-instagram-amazon-ceo'> Source <a/>
