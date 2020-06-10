@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fLwwhB5JzgHkK5aPc0ueILGe6CI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66918294/vpavic_200206_3899_0094.0.jpg' width='700px' /><br/>
+Samsung released a new model of the Galaxy S20 with support for Verizon's Ultra Wideband millimeter-wave 5G network last week, but it turns out the device includes some compromises over the standard model.
+<a href='https://www.theverge.com/2020/6/10/21286402/samsung-galaxy-s20-5g-uw-mmwave-ram-verizon'> Source <a/>
