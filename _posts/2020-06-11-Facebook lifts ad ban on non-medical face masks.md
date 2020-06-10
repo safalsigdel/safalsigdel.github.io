@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZqUrLMQdXWOuJZh9GnczxxSkixA=/0x0:2040x1360/1200x800/filters:focal(842x626:1168x952)/cdn.vox-cdn.com/uploads/chorus_image/image/66917906/jbareham_180405_1777_facebook_0003.0.jpg' width='700px' /><br/>
+Facebook is partially lifting its advertising ban on face masks and will now allow third-party businesses to advertise cloth masks and other non-medical face coverings like bandanas, the company announced on Wednesday.
+<a href='https://www.theverge.com/2020/6/10/21286724/facebook-cloth-face-mask-ad-ban-lifted-supply-workers'> Source <a/>

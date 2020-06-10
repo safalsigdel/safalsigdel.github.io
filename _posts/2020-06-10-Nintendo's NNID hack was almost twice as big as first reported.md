@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZTK1bmMJhWyXAdRWk3LHoiVscyg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66912381/jbareham_180301_2346_nintendo_switch_0082.0.jpg' width='700px' /><br/>
-Nintendo said 300,000 Nintendo Network ID (NNID) accounts were broken into as part of a hacking attempt in April, which is nearly twice as many as initially stated. Nintendo previously said that 160,000 accounts were broken into.
-<a href='https://www.theverge.com/2020/6/9/21285084/nintendo-nnid-switch-hack-accounts-affected-exposed'> Source <a/>
