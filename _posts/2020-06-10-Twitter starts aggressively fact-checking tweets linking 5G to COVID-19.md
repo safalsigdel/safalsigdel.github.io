@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P9qnEWyUuO46G-KF35lqPYO8dnM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66910792/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter is now fact-checking tweets that link 5G and the COVID-19 pandemic by adding a label that promises to get users “the facts about COVID-19,” Business Insider reports. Clicking the label takes you to a Twitter page titled “No, 5G isn't causing coronavirus” that includes links to news reports, fact-checking organizations, and government agencies debunking the conspiracy theory.
-<a href='https://www.theverge.com/2020/6/9/21284940/twitter-5g-coronavirus-covid-19-fact-check-disinformation-conspiracy-theories-label'> Source <a/>

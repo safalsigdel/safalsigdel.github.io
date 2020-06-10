@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E3PPaJrO3oZJ4FtHQYbAGXJu7l4=/0x0:5828x3885/1200x800/filters:focal(2448x1477:3380x2409)/cdn.vox-cdn.com/uploads/chorus_image/image/66916062/Healthcheck.0.jpg' width='700px' /><br/>
+Babylon Health, one of the biggest players in the growing telehealth market, has admitted that a data breach in its app allowed a small number of users in the UK to view recordings of other patients' video consultations with doctors. The firm says that only three users in the UK were affected and that the underlying software error has now been fixed.
+<a href='https://www.theverge.com/2020/6/10/21286223/babylon-health-app-data-breach-users-shown-private-video-consultations'> Source <a/>
