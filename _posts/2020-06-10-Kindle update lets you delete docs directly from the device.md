@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-BOafBiw0ZdQ53M_z75IeHp37Ro=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/66911384/verge_IMG_3077_2040pxl.0.jpg' width='700px' /><br/>
-Amazon now supports permanent document and book deletion from personal libraries directly from newer Kindle e-readers. The feature, first spotted by The eBook Reader, is available in software update version 5.12.5, although it's not mentioned in the release notes.
-<a href='https://www.theverge.com/2020/6/9/21285037/kindle-library-management-delete-doc-book-update'> Source <a/>

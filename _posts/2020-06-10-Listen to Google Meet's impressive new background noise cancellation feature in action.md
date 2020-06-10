@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oMAQwTpQb70CU2uGYzL5pdevqsE=/0x0:2000x1250/1200x800/filters:focal(840x465:1160x785)/cdn.vox-cdn.com/uploads/chorus_image/image/66911374/Google_Meet_1.max_2000x2000.0.png' width='700px' /><br/>
-Google Meet's new AI-powered background noise cancellation has started rolling out, VentureBeat reports. Google announced the feature back in April for its G Suite Enterprise and G Suite Enterprise for Education customers. It's coming to the web first, with iOS and Android following later.
-<a href='https://www.theverge.com/2020/6/9/21285011/google-meet-background-noise-artificial-intelligence-machine-learning'> Source <a/>

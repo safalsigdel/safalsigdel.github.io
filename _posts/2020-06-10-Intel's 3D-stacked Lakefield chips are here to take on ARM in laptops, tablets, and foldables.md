@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Intel's 3D-stacked Lakefield processors are finally getting an official debut after months of previews, promising to bring a smaller, more versatile chipset option to hardware manufacturers for new ultraportable, foldable, and dual-screen devices in what might be Intel's best answer yet to ARM.
+<a href='https://www.theverge.com/circuitbreaker/21285821/intel-3d-stacked-lakefield-chips-hybrid-core-atom-arm-processor'> Source <a/>
