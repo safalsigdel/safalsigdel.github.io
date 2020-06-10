@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jVTl7xtfFnCv8dwBijiRw3fwax8=/0x0:3776x2399/1200x800/filters:focal(1586x898:2190x1502)/cdn.vox-cdn.com/uploads/chorus_image/image/66910798/little_mix_pinnock_thirlwall.0.jpg' width='700px' /><br/>
-Microsoft's decision to replace human journalists with AI to run its news and search site MSN.com has been criticized after the automated system confused two mixed-race members of British pop group Little Mix.
-<a href='https://www.theverge.com/2020/6/9/21284934/microsoft-ai-news-editors-msn-homepage-little-mix-singers'> Source <a/>

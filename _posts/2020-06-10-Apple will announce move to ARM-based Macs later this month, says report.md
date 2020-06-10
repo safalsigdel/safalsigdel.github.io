@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VsVBfCYvrm6HI2eYR9O6GkQ3hMU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66910942/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
-Apple will announce that it's shifting from using Intel processors to its own ARM-based chips this month at WWDC 2020, Bloomberg reports. The developer conference is due to take place starting on June 22nd with an online-only format due to the COVID-19 pandemic. Bloomberg notes that the timing of the announcement could change due to the health crisis.
-<a href='https://www.theverge.com/2020/6/9/21284960/apple-arm-based-macs-wwdc-2020-report-intel-laptops-desktops-power-efficiency'> Source <a/>
