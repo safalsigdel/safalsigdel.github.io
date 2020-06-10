@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0ynDA0SPSWLWHcT8oWha9gJ9vrU=/0x0:1000x563/1200x800/filters:focal(420x202:580x362)/cdn.vox-cdn.com/uploads/chorus_image/image/66917674/Ad_hoc_and_scheduled_voice_and_video_meetings_right_from_within_Microsoft_Teams_1000x563.0.jpg' width='700px' /><br/>
+If you're looking for yet another app to use to meet with your friends or co-workers online, Microsoft has just made it possible to hold meetings on its free version of Teams.
+<a href='https://www.theverge.com/21285118/meeting-microsoft-teams-schedule-video-call-group'> Source <a/>
