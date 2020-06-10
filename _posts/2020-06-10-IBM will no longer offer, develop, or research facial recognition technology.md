@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HxXFamLdZYoE_SKNDQxJ64Oqz5k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66910133/acastro_180730_1777_facial_recognition_0001.0.jpg' width='700px' /><br/>
-IBM will no longer offer general purpose facial recognition or analysis software, IBM CEO Arvind Krishna said in a letter to Congress today. The company will also no longer develop or research the technology, IBM tells The Verge. Krishna addressed the letter to Sens. Cory Booker (D-NJ) and Kamala Harris (D-CA) and Reps. Karen Bass (D-CA), Hakeem Jeffries (D-NY), and Jerrold Nadler (D-NY).
-<a href='https://www.theverge.com/2020/6/8/21284683/ibm-no-longer-general-purpose-facial-recognition-analysis-software'> Source <a/>
