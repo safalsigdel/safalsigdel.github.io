@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gcLW6gZ9QX5H4f061dhIPnQYMB0=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20026473/dbohn_200608_4059_0006.jpg' width='700px' /><br/>
+Today, Google is releasing the Android 11 beta for Pixel phones. It features a revamped notification system, a new power menu, and dozens of smaller tweaks. I've been using an early version of it provided to me by Google on my Pixel 4 XL for about a week now, and I'm already depending on some of its new features.
+<a href='https://www.theverge.com/21285299/android-11-beta-features-notifications-bubbles-permissions-smart-home-video-google'> Source <a/>
