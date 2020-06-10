@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LGWtfgsmCO9pQpEw-oJI7lYW6RQ=/0x0:8256x5504/1200x800/filters:focal(3468x2092:4788x3412)/cdn.vox-cdn.com/uploads/chorus_image/image/66912396/FaZe_Clan_Press_Photo_5.5.jpeg' width='700px' /><br/>
-Faze Clan is taking a page out of Marvel's playbook. Today, the organization announced that it will release a feature-length film later this year, starring Faze talent, which will kick off what it describes as “an immersive cinematic universe.”
-<a href='https://www.theverge.com/2020/6/9/21284520/faze-clan-cinematic-universe-twitch-youtube-stars'> Source <a/>

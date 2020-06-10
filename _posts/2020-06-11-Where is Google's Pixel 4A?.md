@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8s6QLhgAhn-4PkPfJjhqwFpM2gA=/0x0:2202x1216/1200x800/filters:focal(925x432:1277x784)/cdn.vox-cdn.com/uploads/chorus_image/image/66918051/Screen_Shot_2020_06_10_at_1.27.12_PM.0.png' width='700px' /><br/>
+Under normal circumstances, Google would have introduced its Pixel 4A smartphone by now. Last year's Pixel 3A and 3A XL upended what consumers could expect from a $400 phone — especially in terms of camera performance. The company aggressively advertised that strength by comparing its midrange device to Apple's pricey iPhones, which (at the time) couldn't compare to Pixels when it came to low-light photography.
+<a href='https://www.theverge.com/21286570/google-pixel-4a-price-release-date-rumors-specs'> Source <a/>
