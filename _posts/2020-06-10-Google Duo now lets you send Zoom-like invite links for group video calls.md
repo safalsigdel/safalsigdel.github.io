@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LjK1UNFlDLtJ4nf9Ec1DodKRo-I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66909919/acastro_191014_1777_google_pixel_0001.0.0.jpg' width='700px' /><br/>
-Google's Duo video calling platform now has invite links on mobile, making it even more of a viable competitor to Zoom and other videoconferencing apps, according to Android Police.
-<a href='https://www.theverge.com/2020/6/8/21284676/google-duo-invite-link-zoom-competitor-group-video-calling-new-feature'> Source <a/>
