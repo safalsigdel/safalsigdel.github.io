@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NJLe__aNs80BkxIF0WJvBv0-g-Y=/0x0:2234x1489/1200x800/filters:focal(1141x378:1497x734)/cdn.vox-cdn.com/uploads/chorus_image/image/66910528/1218461288.jpg.0.jpg' width='700px' /><br/>
-Samsung heir Lee Jae-yong has escaped arrest after a court in Seoul denied prosecutors' request to detain him while they conduct an investigation into alleged accounting fraud. Lee, who goes by Jay Y. Lee in the West and is the vice chairman of Samsung Electronics, spent almost a year in jail until February 2018 for his role in a separate scandal.
-<a href='https://www.theverge.com/2020/6/9/21284867/jay-y-lee-samsung-arrest-warrant-denied'> Source <a/>
