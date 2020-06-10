@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jeKnlqliGToNXCiCp4nzRciSdsw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66914376/akrales_170531_1687_0478.0.jpg' width='700px' /><br/>
+Honda's global operations have been hit with a ransomware attack and the Japanese automaker is still working to get everything back online. The company said Tuesday that it had to temporarily shut down some production facilities, and its customer and financial services operations are closed.
+<a href='https://www.theverge.com/2020/6/9/21285758/honda-ransomware-virus-attack-production-halt-offices-workers'> Source <a/>

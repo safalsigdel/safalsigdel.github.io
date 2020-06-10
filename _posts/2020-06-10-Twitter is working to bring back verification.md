@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EbEtVgojrTBSS7kYz051ZzebI0g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66909427/acastro_170726_1777_0012.0.jpg' width='700px' /><br/>
-Twitter is working on a new system for verifying users, according to a tweet by reverse engineer and online sleuth Jane Manchun Wong. She discovered a “request verification” field in the Twitter app in the “personal information” section of the app's settings.
-<a href='https://www.theverge.com/2020/6/8/21284406/twitter-verified-back-badges-blue-check'> Source <a/>

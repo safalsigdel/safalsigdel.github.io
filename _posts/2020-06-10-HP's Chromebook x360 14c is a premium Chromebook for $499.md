@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Mg8aga04i3jHEwq4erBEybzPTY4=/0x0:4344x2896/1200x800/filters:focal(1825x1101:2519x1795)/cdn.vox-cdn.com/uploads/chorus_image/image/66908306/HP_Chromebook_x360_14c_MineralSilver_hero.0.jpg' width='700px' /><br/>
-HP has announced its Chromebook x360 14c, which it says is its most premium Chrome OS product yet. It starts at $499 and will be available in June.
-<a href='https://www.theverge.com/21284034/hp-chromebook-x360-14c-11a-price-specs'> Source <a/>
