@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-Samsung's midrange Galaxy A51 is $110 off at Amazon, bringing the price down to just $289. For context, this phone released just a few months ago, and it's worth checking out if you want an affordable phone with a big OLED screen, good build quality, a headphone jack, and compatibility with all US carriers.
-<a href='https://www.theverge.com/good-deals/2020/6/9/21285108/samsung-galaxy-a51-unlocked-phone-deal-logitech-g502-lightspeed-segway-electric-scooter-sale'> Source <a/>
