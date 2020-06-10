@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z49SQLWeIWKT408cx1knJYcGafE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66912697/EN_2.0.png' width='700px' /><br/>
-Destiny 2 is coming to the Xbox Series X and PlayStation 5, and today Bungie has given additional details on just what that transition will look like when the ports release this holiday season.
-<a href='https://www.theverge.com/2020/6/9/21285343/bungie-destiny-2-next-gen-future-free-ps5-xbox-series-x-upgrades-4k-60fps'> Source <a/>
