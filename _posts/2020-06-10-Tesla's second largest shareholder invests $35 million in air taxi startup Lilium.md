@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q1tr6kqSOkDKZNgvndX3UN2xXMg=/0x0:3508x2480/1200x800/filters:focal(1474x960:2034x1520)/cdn.vox-cdn.com/uploads/chorus_image/image/66909800/Lilium_J014_engineers_working_on_the_jet_top_view_print.0.jpg' width='700px' /><br/>
-German air taxi startup Lilium said on Monday it has raised an additional $35 million to fuel its goal of launching an electric vertical takeoff and landing (eVTOL) vehicle by 2025. That's in addition to $240 million raised by the company in early March, when much of the globe began to feel the effects of the COVID-19 pandemic.
-<a href='https://www.theverge.com/2020/6/8/21284140/lilium-flying-car-evtol-funding-investor-baillie-gifford'> Source <a/>
