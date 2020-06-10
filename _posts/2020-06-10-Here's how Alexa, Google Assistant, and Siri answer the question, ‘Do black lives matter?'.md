@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PrGaxOFFhp4scFsf6os2QB1tWNg=/0x0:2040x1360/1200x800/filters:focal(883x392:1209x718)/cdn.vox-cdn.com/uploads/chorus_image/image/66909778/jbareham_180202_2266_0026.0.jpg' width='700px' /><br/>
-Digital assistants from Amazon, Apple, and Google state their support for the Black Lives Matter movement when prompted (via Business Insider).
-<a href='https://www.theverge.com/2020/6/8/21284546/apple-siri-amazon-alexa-google-assisant-black-lives-matter-ai-response'> Source <a/>
