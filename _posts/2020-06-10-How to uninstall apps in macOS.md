@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vO_RpcNOKtEIzqWC_dDaEllPdlE=/0x0:2040x1360/1200x800/filters:focal(1696x503:2022x829)/cdn.vox-cdn.com/uploads/chorus_image/image/66917511/dbohn_200506_4012_0017.0.jpg' width='700px' /><br/>
+We've all been there: you downloaded Evernote or Gimp or Microsoft Office because you thought it might be fun — useful, even — but you didn't end up using it, something better came out, or you've just gotten bored and it's time for it to go. Never fear — uninstalling an app from macOS is a simple process that takes just a few seconds.
+<a href='https://www.theverge.com/21286492/macos-uninstall-apps-how-to-macbook-apple'> Source <a/>
