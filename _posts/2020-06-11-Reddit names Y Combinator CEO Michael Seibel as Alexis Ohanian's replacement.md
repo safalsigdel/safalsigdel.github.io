@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/upP16Wonk3GQqirOerfm3j_A7JE=/0x0:6720x4480/1200x800/filters:focal(2775x1831:3849x2905)/cdn.vox-cdn.com/uploads/chorus_image/image/66915577/1178654987.jpg.0.jpg' width='700px' /><br/>
-Reddit has named Y Combinator CEO Michael Seibel to its board of directors. In addition to running the well-known accelerator, Seibel also co-founded the live streaming company Justin.tv before it transformed into Twitch. Justin.tv was an early recipient of Y Combinator seed money through the accelerator's startup fund, as was Reddit. (Seibel also co-founded Socialcam and sold it to Autodesk in 2012.)
-<a href='https://www.theverge.com/2020/6/10/21285835/reddit-board-replacement-alexis-ohanian-michael-seibel-y-combinator'> Source <a/>
