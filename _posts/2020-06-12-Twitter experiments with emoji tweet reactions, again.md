@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ua12DwiQ1Oh8U6H2unF0YbFfdV8=/0x33:614x366/1200x800/filters:focal(258x156:356x254)/cdn.vox-cdn.com/uploads/chorus_image/image/66920703/face_with_open_mouth_1f62e.0.jpg' width='700px' /><br/>
-Twitter is developing a new feature that would let users react to tweets with emoji, according to app researcher Jane Manchun Wong. This isn't the first time Twitter has experimented with emoji reactions as SocialMediaToday reports, having played around with the idea back in 2015 when Facebook was developing its own take.
-<a href='https://www.theverge.com/2020/6/11/21287596/twitter-tweet-emoji-reactions-leak-internal-test-experiment'> Source <a/>
