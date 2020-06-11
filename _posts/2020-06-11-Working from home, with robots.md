@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8kBnzdmIlp2aX9JCop-oN3qzuxQ=/0x0:2040x1360/1200x675/filters:focal(807x433:1133x759)/cdn.vox-cdn.com/uploads/chorus_image/image/66921575/VRG_ILLO_4062_WFH_with_SPOT_2040.0.0.jpg' width='700px' /><br/>
+When the pandemic stopped Sam Seifert from going into the office, he, like millions of other Americans, was forced to bring his work home with him. His work, though, wasn't exactly suited to the domestic environment. It was big and loud. It stomped about his apartment and upset the neighbors. But that's robots for you — never the most socially graceful of creatures.
+<a href='https://www.theverge.com/21285010/boston-dynamics-spot-engineers-2-0-upgrade-working-from-home'> Source <a/>

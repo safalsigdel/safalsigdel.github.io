@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e-DGMPK7tZ13xTUuUt38UvJdYqE=/0x0:1936x1291/1200x800/filters:focal(814x492:1122x800)/cdn.vox-cdn.com/uploads/chorus_image/image/66916702/bwpx5.0.jpg' width='700px' /><br/>
-Bowers & Wilkins' PX5 on-ear wireless headphones with noise cancellation are $80 off at both Best Buy (available for delivery or curbside pickup) and Amazon. You can pick them up for $220 instead of $300. Most of the noise-canceling headphones we've mentioned in deal posts have been on the more expensive end, but these are getting down there in price, though they don't skimp on build quality or features.
-<a href='https://www.theverge.com/good-deals/2020/6/10/21286312/bowers-wilkins-px5-headphones-deal-xbox-game-pass-ultimate-razer-blade-steam'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9F-Uunu-3jho2MpKOUMcfV4MA-c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66921362/cgartenberg_200609_4060_0002.0.jpg' width='700px' /><br/>
+Despite a recent run of high-end phones, Motorola's ambition for the past few years has been to own the budget and midrange phone space. And the newly announced Moto G Fast and Moto E (no numbers anymore) are the final pieces of that puzzle for this year's lineup, joining the previously released Moto G Power and G Stylus at even lower price points.
+<a href='https://www.theverge.com/21286687/motorola-moto-e-2020-g-fast-review-price-specs-features'> Source <a/>

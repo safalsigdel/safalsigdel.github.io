@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t1L_1pfEGMqXCI-DCU4oefpUaIA=/0x0:2190x1468/1200x800/filters:focal(920x559:1270x909)/cdn.vox-cdn.com/uploads/chorus_image/image/66916562/1189070702.jpg.0.jpg' width='700px' /><br/>
-Cruise's self-driving cars are back on the road in San Francisco, but the company may be skirting the city's shelter-in-place rules in its rush to get there, some of the company's backup drivers say.
-<a href='https://www.theverge.com/2020/6/10/21286301/cruise-self-driving-car-testing-san-francisco-stay-home-order'> Source <a/>

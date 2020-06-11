@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PSsAPj5R2Ee4XVWhIgiRurLOapE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66916536/VRG_ILLO_4047_Zynn_001.0.jpg' width='700px' /><br/>
-Chinese video app Zynn, a clone of the hugely popular Chinese video app TikTok, has been removed from Google's Play Store following accusations of plagiarism.
-<a href='https://www.theverge.com/2020/6/10/21286256/zynn-tiktok-clone-play-store-google-apple-removed-plagiarism'> Source <a/>

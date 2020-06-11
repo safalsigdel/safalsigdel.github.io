@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rm9TE9LwCCZ4moPprQO-IS0Bgas=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66921384/acastro_181114_1777_amazon_hq2_0005.0.jpg' width='700px' /><br/>
+The European Union is set to file formal antitrust charges against Amazon over its use of third-party seller data, The Wall Street Journal reports. The charges, which could be filed as soon as next week, will reportedly accuse Amazon of using data gathered from sellers on its marketplace to compete against them.
+<a href='https://www.theverge.com/2020/6/11/21287672/amazon-european-union-antitrust-charges-third-party-seller-data'> Source <a/>
