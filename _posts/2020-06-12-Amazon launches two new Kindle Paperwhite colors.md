@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TIjZn5naQFgJ4pmHX5aLLiD-To4=/869x407:3136x1760/1200x800/filters:focal(1700x815:2314x1429)/cdn.vox-cdn.com/uploads/chorus_image/image/66919906/kindle_plum_and_sage_2.0.png' width='700px' /><br/>
-Amazon's Kindle Paperwhite now comes in two new colors, plum and and sage (via The Digital Reader). That means the Paperwhite is now available in four different colors — when Amazon revised the Paperwhite in November 2018, you could only get it in black, and Amazon introduced “twilight blue” last July.
-<a href='https://www.theverge.com/2020/6/10/21287296/amazon-two-new-kindle-paperwhite-colors-plum-sage'> Source <a/>
