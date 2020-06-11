@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/l7xGni_e6q8M5U1zirYWaQbf2MM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66920745/acastro_200428_1777_coronavirus_0002.0.0.jpg' width='700px' /><br/>
+The EU is stepping up efforts to combat online disinformation about the coronavirus pandemic, requesting that US tech giants produce monthly reports containing “detailed data” on how they are combatting fake news about COVID-19 on their platforms.
+<a href='https://www.theverge.com/2020/6/11/21287598/coronavirus-disinformation-reports-google-facebook-twitter-eu-monthly'> Source <a/>

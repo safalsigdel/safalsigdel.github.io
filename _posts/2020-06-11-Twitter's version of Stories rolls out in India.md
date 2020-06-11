@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2OTKb5GnMdNlxg9C92l_1O0gOSg=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66915563/CB_15796___Fleets_HTL_20200303.0.png.0.jpeg' width='700px' /><br/>
-“Fleets,” Twitter's take on Snapchat/Instagram-style stories, just became available in India. The feature is gradually rolling out around the world; after initially launching in Brazil, fleets came to Italy last month.
-<a href='https://www.theverge.com/2020/6/10/21286166/twitter-stories-fleets-launch-india'> Source <a/>
