@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E5HgkElRUH5xYYO8gJRM3Fp4H10=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66919136/acastro_180730_1777_facial_recognition_0002.0.jpg' width='700px' /><br/>
-Amazon is announcing a one-year moratorium on allowing law enforcement to use its controversial Rekognition facial recognition platform, the e-commerce giant said on Wednesday.
-<a href='https://www.theverge.com/2020/6/10/21287101/amazon-rekognition-facial-recognition-police-ban-one-year-ai-racial-bias'> Source <a/>
