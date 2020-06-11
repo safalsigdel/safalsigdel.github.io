@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l7FvD74p9lsSTNRsW_qvK2nDYQU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66920649/DSCF7239.0.jpg' width='700px' /><br/>
-Apple has removed Pocket Casts, the popular iOS and Android podcast client, from the App Store in China. The Cyberspace Administration of China has determined that it can be used to access content deemed illegal in the country, and has demanded that Apple remove the app as a result. It's the second major podcast app to be removed from China's App Store this month.
-<a href='https://www.theverge.com/2020/6/11/21287436/pocket-casts-castro-china-apple-government-pressure'> Source <a/>
