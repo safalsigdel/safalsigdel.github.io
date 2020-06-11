@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gBtLjaSKq91YHJWx8pj4hLOwZ_g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66915728/vpavic_191101_3747_0024.0.jpg' width='700px' /><br/>
-We knew ARM-based Mac processors were coming, but Mark Gurman is reporting at Bloomberg that Apple will announce the transition at its online-only WWDC later this month. Back in April, I called on Apple to announce as early as possible and to provide as much detail as possible to both developers and users.
-<a href='https://www.theverge.com/2020/6/10/21285866/mac-arm-processors-windows-lessons-transition-coexist'> Source <a/>
