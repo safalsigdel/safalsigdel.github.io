@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XC34gDcHijcW9vEPiAz6wHdn4Y8=/0x0:8772x4352/1200x800/filters:focal(3685x1475:5087x2877)/cdn.vox-cdn.com/uploads/chorus_image/image/66922880/Headspace_Mini_Asset.0.jpg' width='700px' /><br/>
+Snap today announced Minis, a suite of miniature applications made by third-party developers that run inside of Snapchat. Minis are built using HTML and enable a range of experiences from meditating alone to buying movie tickets with friends. Minis, which are integrated into the chat window on Snapchat, were one of several new features announced today at Snap's virtual Partner Summit.
+<a href='https://www.theverge.com/2020/6/11/21286537/snap-minis-snapchat-partner-summit-2020-announcements'> Source <a/>

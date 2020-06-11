@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MrvzxoTwryCGI6mKqVFRxBKUesg=/0x0:1600x1066/1200x800/filters:focal(672x405:928x661)/cdn.vox-cdn.com/uploads/chorus_image/image/66922848/1217458354.jpg.0.jpg' width='700px' /><br/>
+In an open letter to Facebook CEO Mark Zuckerberg, former Vice President Joe Biden's presidential campaign is urging the social media giant to stop “amplifying untrustworthy content,” saying it allows President Donald Trump to spread fear and misleading information.
+<a href='https://www.theverge.com/2020/6/11/21288020/biden-campaign-facebook-misinformation-trump-ad-policies'> Source <a/>

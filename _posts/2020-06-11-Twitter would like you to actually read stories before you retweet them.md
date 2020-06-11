@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sEfxrTQJXM9pWl0tYdewrWC326o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66918328/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-On Wednesday, Twitter announced that it will begin testing a new feature that will prompt users to think before they tweet articles they haven't read.
-<a href='https://www.theverge.com/21286855/twitter-articles-prompt-unread-feature-conversations'> Source <a/>
