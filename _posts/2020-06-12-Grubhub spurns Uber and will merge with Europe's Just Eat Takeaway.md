@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mjpUc3r9muLfLwLhTLZMYk6nSQ4=/0x0:1200x630/1200x800/filters:focal(504x219:696x411)/cdn.vox-cdn.com/uploads/chorus_image/image/66919452/opengraph_image_gh.0.jpg' width='700px' /><br/>
-After nearly a month of back-and-forth, Grubhub has walked away from a potential acquisition from Uber and will instead merge with European company Just Eat Takeaway. The all-stock deal is expected to close in the first quarter of 2021.
-<a href='https://www.theverge.com/2020/6/10/21287128/grubhub-just-eat-takeaway-merger-uber-deal-antitrust'> Source <a/>

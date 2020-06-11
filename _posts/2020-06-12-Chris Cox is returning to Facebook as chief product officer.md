@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LZ9EsRmIc9_TSjqXPbBG0ZItsks=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/66923126/DSC02086.0.0.jpg' width='700px' /><br/>
+A year after quitting the company over differences with CEO Mark Zuckerberg over the company's direction, Chris Cox is returning to Facebook as its chief product officer. The company said today that Cox would resume in his duties, which include overseeing the core Facebook app, Messenger, Instagram, and WhatsApp, along with marketing.
+<a href='https://www.theverge.com/2020/6/11/21288127/facebook-chief-product-officer-chris-cox-return-ceo'> Source <a/>
