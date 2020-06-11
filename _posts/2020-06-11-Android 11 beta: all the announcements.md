@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1qh-WItX2TZ-sJp-4RcvvPTidmE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66918787/acastro_200219_1777_android_11_0001.0.jpg' width='700px' /><br/>
-Android 11 is on the way, bringing a bunch of new changes and features for phones and tablets. Google originally planned to release the beta during a reveal event on June 3rd, but the company delayed and ultimately canceled the event in favor of a quieter announcement. The public beta was released a week later, following a developer preview that was launched in February.
-<a href='https://www.theverge.com/21280252/android-11-google-2020-rumors-news-updates'> Source <a/>
