@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O2NJ4woyQJGiAyFyYO2WcidszU8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66922549/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/WvXWYcOK7guTsqycSUlfP8L0pIc=/0x0:1960x1102/1200x800/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/66922549/Apple_details_for_WWDC2020_06022020_big.jpg.large_2x.5.jpg' width='700px' /><br/>
 Apple's virtual Worldwide Developers Conference keynote will take place on Monday, June 22nd at 1PM ET, the company announced today. Apple has also shared more details about the schedule for the conference, which will run from June 22nd to June 26th.
 <a href='https://www.theverge.com/2020/6/11/21287961/apple-wwdc-virtual-online-keynote-date-time'> Source <a/>
