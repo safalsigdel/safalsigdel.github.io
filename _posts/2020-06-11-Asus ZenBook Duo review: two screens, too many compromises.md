@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EnSDnhHzQGOVLujr7GjCEyb-D8w=/0x0:2040x1360/1200x675/filters:focal(901x593:1227x919)/cdn.vox-cdn.com/uploads/chorus_image/image/66912890/akrales_200519_3984_0100.0.jpg' width='700px' /><br/>
-There is one — and only one — reason to buy the Asus ZenBook Duo. If you've seen a picture, you know what that reason is: there are two screens.
-<a href='https://www.theverge.com/2020/6/9/21285164/asus-zenbook-duo-review-screenpad-plus-dual-screen-laptop-specs-freatures-price'> Source <a/>

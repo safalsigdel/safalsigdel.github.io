@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0TWRF8GgMyS3HvI0XzMRzCI-eyc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66913829/cwelch_190123_3204_0024.0.jpg' width='700px' /><br/>
-Panasonic is making it easier to use its mirrorless cameras as webcams via a USB cable, thanks to a new beta version of its Lumix Tether app (via Engadget). Using a mirrorless camera should make you look significantly sharper on video calls, especially compared to the typical picture quality from a laptop's built-in webcam.
-<a href='https://www.theverge.com/2020/6/9/21285486/panasonic-mirrorless-cameras-webcam-lumix-tether-beta-app-windows'> Source <a/>

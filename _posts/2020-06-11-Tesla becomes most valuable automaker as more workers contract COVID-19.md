@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XowdkqE8mdvP2WcPOq-jAShtBRc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66919050/tesla.0.jpg' width='700px' /><br/>
+Tesla's stock price hit $1,000 for the first time on Wednesday, meaning the Silicon Valley company has now passed Toyota in market capitalization and is the most valuable automaker in the world by that metric.
+<a href='https://www.theverge.com/2020/6/10/21286562/tesla-stock-most-valuable-automaker-slot-as-more-workers-contract-covid-19'> Source <a/>
