@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HHdyX1DR5jHGDTOL1IWVbIV6XOs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66923966/dbohn_200506_4012_0007.0.jpg' width='700px' /><br/>
-Notifications that pop up on the corner of your Mac's screen can be really helpful, like when they remind you about a meeting you have coming up. But when you've got a deadline or are in the middle of something, notifications for every message or email can be distracting or even annoying.
-<a href='https://www.theverge.com/21284515/apple-macos-notifications-manage-alert-on-off-how-to'> Source <a/>
