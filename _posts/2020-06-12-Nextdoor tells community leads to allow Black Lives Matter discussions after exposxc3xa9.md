@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A-GU9T0niANP0mmrPciYlNznQRI=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/66923587/971911556.jpg.0.jpg' width='700px' /><br/>
-After widespread outcry over racist moderation systems, Nextdoor is reshaping its policies on how its communities deal with discussions of racial justice.
-<a href='https://www.theverge.com/2020/6/11/21288286/nextdoor-racism-black-lives-matter-community-leads-moderation-response'> Source <a/>
