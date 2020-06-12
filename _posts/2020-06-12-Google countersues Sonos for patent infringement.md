@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/keKpFMrykMStbOn_acN0Zw4KMl4=/0x0:5653x4268/1200x800/filters:focal(2375x1682:3279x2586)/cdn.vox-cdn.com/uploads/chorus_image/image/66923780/1192545024.jpg.0.jpg' width='700px' /><br/>
-Google has countersued Sonos for patent infringement, following Sonos originally filing a patent lawsuit against Google in January. The lawsuit alleges that Sonos is infringing five Google patents covering mesh networking, echo cancellation, DRM, content notifications, and personalized search.
-<a href='https://www.theverge.com/2020/6/11/21288161/google-countersues-sonos-patents-infringement'> Source <a/>
