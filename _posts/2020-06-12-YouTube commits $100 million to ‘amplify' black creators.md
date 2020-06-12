@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3L6PKwUIwee2b_60aqsw-m-bD2k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66922964/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
-YouTube is launching a $100 million fund to “amplify” the voices of black creators on its platform by developing talent and funding new shows.
-<a href='https://www.theverge.com/21288066/youtube-black-creator-amplify-fund-initiative-ceo'> Source <a/>
