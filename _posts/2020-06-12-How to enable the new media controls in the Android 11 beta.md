@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zKxUk_YN7TyCeJy2jz5GDnQ1a2E=/0x0:2040x1360/1200x800/filters:focal(538x632:864x958)/cdn.vox-cdn.com/uploads/chorus_image/image/66923165/dbohn_200608_4059_0003.0.jpg' width='700px' /><br/>
-One of the Android 11 beta features that I was most looking forward to was accessing the media controls in the quick menu. But after my Pixel 3 updated, I was surprised to find that it wasn't switched on by default. Currently, this feature needs to be enabled manually, and it's buried deep within the settings.
-<a href='https://www.theverge.com/21287991/new-media-controls-android-11-beta-how-to-enable-turn-on'> Source <a/>
