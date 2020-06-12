@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yiZLtgX3jEeLvI1O5cMa1wYlsnY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66927766/vpavic_191118_3800_0127.0.jpg' width='700px' /><br/>
+System updates are vital for your Mac because they are meant to improve the security and general health of your computer. But sometimes you may want to hold off on installing a new update until you can be sure that it won't cause any major problems. You also don't want your machine updating while you're in the middle of something.
+<a href='https://www.theverge.com/21287898/apple-macos-updates-automatic-manage-software-catalina-apple-macbook'> Source <a/>
