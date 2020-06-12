@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lTp9ZVZYb9nkxrGuhotnDkqCwjs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66927484/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
+Facebook has announced the results of its first Deepfake Detection Challenge, an open competition to find algorithms that can spot AI-manipulated videos. The results, while promising, show there's still lots of work to be done before automated systems can reliably spot deepfake content, with researchers describing the issue as an “unsolved problem.”
+<a href='https://www.theverge.com/21289164/facebook-deepfake-detection-challenge-unsolved-problem-ai'> Source <a/>

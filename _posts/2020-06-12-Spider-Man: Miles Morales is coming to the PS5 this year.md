@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MPctaU6tOPW3QajqD0lLhoML1ds=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20030869/MilesMorales_Stealth_PS5_Legal.png' width='700px' /><br/>
-Spider-Man: Miles Morales, the sequel to 2018's PS4-exclusive Spider-Man, is officially heading to the PS5, Sony announced today at its PlayStation 5 gameplay event. A teaser trailer showed off a first look at the upcoming sequel.
-<a href='https://www.theverge.com/21277237/spider-man-2-ps5-playstation-5-teaser-trailer-sony-gameplay'> Source <a/>
