@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IRedFptU1ZvsvQNqkp_VnGrx4Vo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66922685/acastro_200406_1777_ford_0001.0.0.jpg' width='700px' /><br/>
-Ford has spent the last few years promising it will make an all-electric version of its extremely popular pickup truck, the F-150. Now the company is saying it will go on sale by the middle of 2022 — what's expected to be the biggest year for new vehicle launches in decades, according to a new study from Bank of America Merrill Lynch.
-<a href='https://www.theverge.com/21288000/ford-electric-f-150-2022-sale-launch-jim-farley'> Source <a/>

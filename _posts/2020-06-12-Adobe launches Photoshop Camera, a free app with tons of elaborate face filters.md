@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-a84JzDZ57KQDBpeAbv_ov4CM8Q=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66921270/photoshopcamera.0.jpg' width='700px' /><br/>
-Adobe is launching a new app today called Photoshop Camera that's filled with a bunch of very elaborate filters that can change your face and the world around you. Some of the filters are really impressive: several identify the sky behind you and replace it with perfect clouds or a magical moon; another puts you inside a Black Mirror-esque glitchy world; and another makes you look like you're in a comic book.
-<a href='https://www.theverge.com/2020/6/11/21276924/photoshop-camera-adobe-launch-free-face-filter-app'> Source <a/>

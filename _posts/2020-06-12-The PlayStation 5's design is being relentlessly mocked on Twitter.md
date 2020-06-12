@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Sony finally unveiled the design of the PlayStation 5 today and it certainly... stands out. You won't be able to miss it next to your TV or your on your desk. Whether or not that's a good thing or a bad thing is up to you. (At least there's no way that people will get the PS5 confused with a fridge.)
+<a href='https://www.theverge.com/tldr/2020/6/11/21288541/playstation-5-ps5-sony-design-memes-roast-twitter-router-face-building'> Source <a/>

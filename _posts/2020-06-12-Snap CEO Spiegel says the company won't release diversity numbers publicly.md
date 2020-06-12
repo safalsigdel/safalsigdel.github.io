@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ziJJ49OwLy4TxeZk20jxEyc_cnE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66924693/snapChatPattern_BW.0.jpg' width='700px' /><br/>
+Snap CEO Evan Spiegel told employees that it would keep its diversity numbers private because they might perpetuate the belief that Silicon Valley companies aren't diverse, Business Insider reported. Spiegel made the comments at a company all-hands meeting earlier this week, where he said Snap's diversity is close to other tech firms, which skew largely white and male, according to BI.
+<a href='https://www.theverge.com/2020/6/11/21288491/snap-ceo-spiegel-diversity-report-numbers-release-publicly'> Source <a/>

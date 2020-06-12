@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_sCuyd24Y09Xv1PnUqGj-Cs2wMQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66922676/acastro_190530_1777_wwdc_2019_0003.0.0.jpg' width='700px' /><br/>
-Apple is launching a $100 million initiative to promote racial equality for people of color with a focus on “education, economic equality, and criminal justice reform.” The program, named Apple's Racial Equity and Justice Initiative, will be led by Apple VP Lisa Jackson.
-<a href='https://www.theverge.com/2020/6/11/21287999/apple-racial-equity-justice-initiative-amount-cook-lisa-jackson'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WDqPobbcDzaEvf0ZdgozEJu8HVQ=/0x0:2442x1292/1200x0/filters:focal(0x0:2442x1292):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20030776/Screen_Shot_2020_06_11_at_5.28.58_PM.png' width='700px' /><br/>
+Sony officially revealed what the PlayStation 5 console will look like. Alongside it, the company also announced a range of accessories for the new console, including a wireless headset, a camera, a media remote, and a charging dock for the DualSense controller. Details on the new accessories are slim, although Sony has given a bit of information as to what to expect.
+<a href='https://www.theverge.com/2020/6/11/21288494/sony-ps5-playstation-5-hd-camera-dualsense-charging-dock-pulse-accessories'> Source <a/>

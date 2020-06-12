@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Grado is no stranger to building headphones out of weird and wonderful materials. Alongside its regular excellent-sounding pairs, it's made limited editions out of whiskey barrels (with design help from Elijah Wood no less), wood from a yoghurt mill, and even the pistons of a Harley-Davidson motorcycle. Now, it's turning its attention to hemp, using it to produce a pair of Hemp Headphone Limited Edition cans costing, wait for it, $420.
-<a href='https://www.theverge.com/tldr/2020/6/11/21287614/grado-hemp-headphone-limited-edition-420-wood-maple-price-features'> Source <a/>

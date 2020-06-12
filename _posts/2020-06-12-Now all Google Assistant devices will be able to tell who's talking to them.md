@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5AEVz-dXJFuKxAOFdEKSpbrbmdY=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66924038/acastro_180510_1777_google_assistant_0001.0.0.jpg' width='700px' /><br/>
+Google is adding its Voice Match and default speaker selection features to all Google Assistant-compatible devices, the company announced Thursday. Google product manager Praveen Chandran wrote in a blog post that the additions are part of the company's efforts “to support an open ecosystem and bring Google Assistant features to everyone globally.”
+<a href='https://www.theverge.com/2020/6/11/21288359/google-voice-match-assistant-devices'> Source <a/>

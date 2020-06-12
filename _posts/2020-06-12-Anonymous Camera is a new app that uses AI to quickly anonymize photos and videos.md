@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MIScTY-l2lnZm_n1hsasAMUZtJI=/0x0:3800x2400/1200x800/filters:focal(1596x896:2204x1504)/cdn.vox-cdn.com/uploads/chorus_image/image/66920874/anonymous_camera_3_tile_bigger.0.jpg' width='700px' /><br/>
-Our faces have never been more vulnerable. Facial recognition algorithms make it easy to identify individuals from a single snap — a fact that's particularly relevant at a time of protest. But with the help of advances in machine learning, it's also easier than ever to anonymize photos and videos, removing information that would otherwise identify people.
-<a href='https://www.theverge.com/2020/6/11/21280293/anonymize-blur-faces-photos-videos-camera-app-ios'> Source <a/>
