@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4lcbR_R8oFSVRsJ35WRpUHxYK90=/134x258:1811x1263/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66922918/acastro_180612_2664_0001.0.jpg' width='700px' /><br/>
-Research lab OpenAI, which started as a nonprofit with the goal of mitigating the potential harms of artificial intelligence, has announced its first commercial product: an AI text-generation system that the outfit previously warned was too dangerous to share.
-<a href='https://www.theverge.com/2020/6/11/21287966/openai-commercial-product-text-generation-gpt-3-api-customers'> Source <a/>
