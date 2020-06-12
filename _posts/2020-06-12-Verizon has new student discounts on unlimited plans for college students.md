@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/txAn6xwC8-nRh-IMpZbm19rcinY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66927343/acastro_200109_1777_verizon_0004.0.0.jpg' width='700px' /><br/>
+Verizon has a new student discount offer for college students, offering a $10-per-month discount on a single line or $25-per-month discount on two lines for subscribers to its various unlimited plans. The new offer will be available starting on July 2nd.
+<a href='https://www.theverge.com/21289144/verizon-student-discount-college-unlimited-plans-lines'> Source <a/>
