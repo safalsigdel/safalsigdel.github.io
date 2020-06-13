@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rKNraBX_JMretPrAkfEL_XKh4Co=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66931672/acastro_180507_1777_microsoft_0001.0.jpg' width='700px' /><br/>
+It might not necessarily make that early Monday morning video call more fun, but Microsoft Teams will now let users upload their own photos for custom backgrounds, the company announced in a blog post. Custom images and other background effects are only available for scheduled Teams meetings, Microsoft says.
+<a href='https://www.theverge.com/2020/6/13/21290167/microsoft-custom-background-teams-zoom'> Source <a/>
