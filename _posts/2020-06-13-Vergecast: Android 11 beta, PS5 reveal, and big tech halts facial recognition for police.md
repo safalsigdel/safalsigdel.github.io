@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eXjWcOD6l97Q33DBCsheg-EvrQs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66929738/dbohn_200608_4059_0003.0.jpg' width='700px' /><br/>
+There's a new episode of The Vergecast to fill you in on all of the news from this week. Join Nilay Patel, Dieter Bohn, and a rotation of other reporters and editors for everything that you need to know. The three topics covered this week are:
+<a href='https://www.theverge.com/2020/6/12/21289681/android-11-beta-first-look-ps5-reveal-amazon-microsoft-ibm-facial-recogntion-vergecast-409'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZIpJTh8wONeCDVZZHmqaZ-4_Wfw=/0x0:1200x678/1200x0/filters:focal(0x0:1200x678):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20030749/image.png' width='700px' /><br/>
-Sony is finally revealing what the PlayStation 5 looks like. After nearly an hour of PS5 game announcements, Sony revealed the hardware design after teasing it for the duration of its PS5 live event today. The PS5 console includes a white-and-black design to match the new controller that will be included in the box.
-<a href='https://www.theverge.com/2020/6/11/21212989/ps5-playstation-5-console-announcement-design-hardware-specs-sony'> Source <a/>

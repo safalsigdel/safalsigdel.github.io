@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4dvnvFn317rvxulIadWbs5eOZhE=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20030872/Horizon_Forbidden_West_Dive_Logo_TM_LegalLine.png' width='700px' /><br/>
-A Horizon Zero Dawn sequel, titled Horizon Forbidden West, is coming exclusively to PlayStation 5. Guerrilla Games is working on a follow-up, announced today, to the 2017 action roleplaying game. No release window was announced at the event.
-<a href='https://www.theverge.com/2020/6/11/21285673/horizon-forbidden-west-2-ps5-trailer-teaser-zero-dawn-sequel'> Source <a/>
