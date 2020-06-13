@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H6o83qNfmJAv2dfx62yDXI3rwko=/0x0:1072x601/1200x0/filters:focal(0x0:1072x601):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20030733/aEvbXGU.png' width='700px' /><br/>
-Sony had one big surprise it snuck into the final minutes of its PlayStation 5 reveal event: a digital-only version of the upcoming next-gen console.
-<a href='https://www.theverge.com/2020/6/11/21288493/ps5-playstation-5-digital-edition-no-disc-drive-hardware-specs-price-sony'> Source <a/>

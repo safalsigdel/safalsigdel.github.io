@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uxKW2RQY5Os0VTez4NGoq2kYC6c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66924561/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
-Over on Reddit (and as highlighted by Android Police and 9to5Google), someone has posted a simple way of watching YouTube videos in a web browser without any ads. In the URL for whatever video you want to view, you just need to add an extra period after the dot com in the YouTube link.
-<a href='https://www.theverge.com/2020/6/11/21288291/youtube-remove-ads-add-extra-period-url'> Source <a/>
