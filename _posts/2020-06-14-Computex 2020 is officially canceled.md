@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qxbb5Kbt8XR24-qiRl5pHpLpZYc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66933283/computex_taipei2018.0.jpg' width='700px' /><br/>
+After initially postponing it from June to September, organizers have now canceled Computex 2020 due to the ongoing impact of the coronavirus pandemic. The show will miss a year, like many other tech conferences that were planned for 2020. The next Computex event is slated for June 1st through 5th, 2021.
+<a href='https://www.theverge.com/2020/6/14/21290803/computex-2020-canceled-coronavirus'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PLzCZ5bkvd-AWkpRiXjQNte8G4M=/0x0:5000x3439/1200x800/filters:focal(2336x1018:3136x1818)/cdn.vox-cdn.com/uploads/chorus_image/image/66925392/1192559863.jpg.0.jpg' width='700px' /><br/>
-T-Mobile's new CEO tweeted “Bye-bye Tucker Carlson” multiple times this week and said his company will no longer sponsor Carlson's Fox News show after Carlson made racist comments Monday evening. Sievert's tone in these tweets appears to be an attempt to emulate the famously-brash tone of John Legere, his predecessor.
-<a href='https://www.theverge.com/2020/6/11/21288661/t-mobile-ceo-tweets-tucker-carlson-advertising'> Source <a/>
