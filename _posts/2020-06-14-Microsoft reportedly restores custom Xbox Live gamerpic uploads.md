@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vZBnVfExQWCGnXvhQrpYC8qIzss=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66932759/acastro_190530_1777_xbox_0002.0.0.jpg' width='700px' /><br/>
+Microsoft has restored custom Xbox Live gamerpics, Windows Central reported. The software giant turned off the ability to upload gamerpics, club pics, and club backgrounds near the end of March amid a surge in demand.
+<a href='https://www.theverge.com/2020/6/14/21290654/microsoft-custom-xbox-live-gamerpics'> Source <a/>

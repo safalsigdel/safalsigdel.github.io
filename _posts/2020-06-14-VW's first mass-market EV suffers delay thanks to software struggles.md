@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ki7aqUzNAhnOWf1Fj2c5WDKYAHA=/0x0:6118x3543/1200x800/filters:focal(2570x1283:3548x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/66924765/Volkswagen_ID.3__Large_10145.0.jpg' width='700px' /><br/>
-Volkswagen is delaying the release of certain versions of the all-electric ID 3 because the car's software isn't ready, confirming months of reports from German outlets like Sueddeutsche Zeitung and Manager Magazine about the company's struggle to bring its first mass-produced electric vehicle to market.
-<a href='https://www.theverge.com/2020/6/11/21288572/volkswagen-id3-ev-delay-software-vw-herbert-diess'> Source <a/>
