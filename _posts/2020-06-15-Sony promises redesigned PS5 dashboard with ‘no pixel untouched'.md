@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UjU-Gxu21JDeEHZeUDgQiRRfqjM=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/66934585/ishMfuW.0.png' width='700px' /><br/>
+Sony showed off its PlayStation 5 console design last week and briefly teased the OS, now Sony's VP of UX design at PlayStation, Matt MacLaurin, is promising an overhauled user interface for the PS5. Describing the new software interface as a “very interesting evolution of the OS,” MacLaurin says it's a “100 percent overhaul of the PS4 UI and some very different new concepts” in a LinkedIn thread.
+<a href='https://www.theverge.com/2020/6/15/21291288/sony-ps5-software-user-interface-ui-design-dashboard-teaser-video'> Source <a/>

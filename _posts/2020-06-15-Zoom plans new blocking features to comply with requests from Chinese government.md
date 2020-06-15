@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QxzyR7h__YeaQSKBkFMazOELMKw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66926639/acastro_200331_1777_zoom_0002.0.0.jpg' width='700px' /><br/>
-Zoom says it's working on new features that will allow it to block users based on their geographical location after admitting it recently suspended three user accounts based in Hong Kong and the US at the request of the Chinese government.
-<a href='https://www.theverge.com/2020/6/12/21288995/zoom-blocking-feature-chinese-government-censorship'> Source <a/>
