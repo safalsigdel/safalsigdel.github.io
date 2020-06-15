@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sSMGIwN-wxI50NtDztxWoCLakt8=/0x0:7299x4866/1200x800/filters:focal(3067x1850:4233x3016)/cdn.vox-cdn.com/uploads/chorus_image/image/66935169/GalaxyA71_5G_6.0.jpg' width='700px' /><br/>
+Samsung's Galaxy A71 5G, which sits at the top of its midrange A-series lineup, will launch in the US starting on June 19th, the company announced today. Initially, the handset will be available from T-Mobile, Sprint, and Samsung.com, but Samsung says that the phone will be coming to AT&T, Verizon, and other carriers later this summer along with an Unlocked by Samsung model.
+<a href='https://www.theverge.com/2020/6/15/21291295/samsung-galaxy-a71-5g-usa-release-date-news-price-details'> Source <a/>

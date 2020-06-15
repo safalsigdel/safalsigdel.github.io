@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/00Hdxoq_zHsB4oo16J3zGBntVgo=/0x0:3662x2501/1200x800/filters:focal(2342x1303:2926x1887)/cdn.vox-cdn.com/uploads/chorus_image/image/66927586/1217247342.jpg.0.jpg' width='700px' /><br/>
-Peloton enjoyed huge demand for its high-end exercise bikes in the first quarter of 2020 due to the coronavirus pandemic, which kept gyms closed and antsy homebound people seeking exercise. The company continued streaming live classes from its New York City set well after competitors had halted live classes, but it finally closed its studios on April 3rd after an employee tested positive for COVID-19.
-<a href='https://www.theverge.com/21289034/peloton-workers-health-safety-bike-delivery-buzzfeed'> Source <a/>

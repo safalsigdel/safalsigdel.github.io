@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6_8OdakyZrgNtQvqSNAS5-4L2VQ=/0x0:1600x1137/1200x800/filters:focal(672x441:928x697)/cdn.vox-cdn.com/uploads/chorus_image/image/66935594/whatsapp_payments.0.png' width='700px' /><br/>
+After testing a beta version in India, WhatsApp has launched in-app payments in Brazil, the company announced in a blog post on Monday (via TechCrunch). The payments are enabled through Facebook Pay, which parent company Facebook said last year it would be rolling out to Instagram, Messenger, Facebook, and eventually WhatsApp.
+<a href='https://www.theverge.com/2020/6/15/21291382/whatsapp-digital-payments-brazil-facebook-pay'> Source <a/>
