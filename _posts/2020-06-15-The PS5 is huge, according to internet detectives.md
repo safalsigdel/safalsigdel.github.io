@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Sony has finally shown off what the PlayStation 5 will look like, but there's one very big question about the design that's still unclear: just how big is the PlayStation 5?
-<a href='https://www.theverge.com/tldr/2020/6/12/21289471/playstation-5-sony-estimate-size-internet-massive-console-tv-stand'> Source <a/>
