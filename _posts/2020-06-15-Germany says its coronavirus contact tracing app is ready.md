@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dilSJWdVfvX8gLweaMLHuceVTG0=/0x0:3727x2485/1200x800/filters:focal(1252x1230:1848x1826)/cdn.vox-cdn.com/uploads/chorus_image/image/66933518/1211180747.jpg.0.jpg' width='700px' /><br/>
+Germany's health minister said Sunday that its contact tracing smartphone app will be launched this week, Reuters reported. The app uses short-range Bluetooth to contact people who may have been exposed to someone who contracts the coronavirus, and doesn't rely on a centralized database, according to Reuters.
+<a href='https://www.theverge.com/2020/6/14/21290874/germany-contact-tracing-coronavirus'> Source <a/>

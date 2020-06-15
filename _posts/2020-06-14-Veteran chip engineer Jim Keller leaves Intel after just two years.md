@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D7Ur25YM1-UoIa4TpBQVXpIuKdE=/0x0:1371x1371/1200x800/filters:focal(590x433:808x651)/cdn.vox-cdn.com/uploads/chorus_image/image/66926141/JimKeller2.0.jpg' width='700px' /><br/>
-Veteran chip designer Jim Keller has left Intel after just two years at the firm. Intel said Keller was resigning his position effective immediately due to unspecified “personal reasons.” Keller will serve as a consultant to the company for six months to smooth the transition period, said Intel. AnandTech's Ian Cutress reports that Keller will be consulting exclusively for Intel during that time.
-<a href='https://www.theverge.com/2020/6/12/21288938/jim-keller-leaves-intel-chip-designer-executive-silicon-amd-tesla-apple'> Source <a/>

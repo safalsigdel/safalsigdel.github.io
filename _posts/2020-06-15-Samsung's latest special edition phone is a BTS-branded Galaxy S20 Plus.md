@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Samsung is no stranger to themed special-edition smartphones, having offered Galaxy phones emblazoned with Batman logos and Star Wars themes in the past. The latest collaboration is a Galaxy S20 Plus BTS Edition, with a matching set of Galaxy Buds Plus to go with it.
+<a href='https://www.theverge.com/circuitbreaker/2020/6/14/21289705/samsung-galaxy-s20-plus-5g-bts-edition-buds-k-pop-purple-heart'> Source <a/>
