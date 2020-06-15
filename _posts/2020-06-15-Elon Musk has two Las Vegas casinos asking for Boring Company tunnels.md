@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-_vVlOJlE0FFC6NUwBo0W4UaD80=/0x0:5290x3659/1200x800/filters:focal(2222x1407:3068x2253)/cdn.vox-cdn.com/uploads/chorus_image/image/66929283/1226346466.jpg.0.jpg' width='700px' /><br/>
-Elon Musk's Boring Company is already looking to dig more tunnels in Las Vegas, Nevada, after it finished excavating the first two under the city's convention center last month.
-<a href='https://www.theverge.com/2020/6/12/21285741/elon-musk-boring-company-las-vegas-wynn-encore-resorts-world-casinos'> Source <a/>
