@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gbme9OBcRxc_VkGhOFVswRfqz0w=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/66926793/PS5_Group_01.0.jpg' width='700px' /><br/>
-Ahead of the long-awaited arrival of the next generation of video game consoles, Microsoft had clearly grabbed the initiative. Its reveal of the Xbox Series X at the Game Awards came out of nowhere, and Sony's weak response at CES a few weeks later was to show off the PS5 logo. (It's a PS4 logo with a 5 in it.)
-<a href='https://www.theverge.com/21288970/sony-ps5-playstation-5-announcement-analysis-graphics-games'> Source <a/>
