@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dz9eL-b5fiRxsUTt7Esqe7JqNUk=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20034919/SCRN_REVEAL_STARFIGHTERS.jpg' width='700px' /><br/>
-EA has announced a new Star Wars game, Star Wars: Squadrons, a first-person space combat game that will have players flying the series's famous starfighters in head-to-head single-player and multiplayer battles.
-<a href='https://www.theverge.com/21289266/star-wars-squadrons-game-trailer-multiplayer-team-x-wing'> Source <a/>
