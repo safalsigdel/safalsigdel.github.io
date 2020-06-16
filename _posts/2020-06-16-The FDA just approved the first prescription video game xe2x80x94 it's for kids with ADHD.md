@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jCQ_n4ANdK4VuM_y4orQvTmyVTU=/0x0:1792x828/1200x800/filters:focal(753x271:1039x557)/cdn.vox-cdn.com/uploads/chorus_image/image/66938936/Endeavor_Soup.0.jpg' width='700px' /><br/>
-It might not look like much of a video game, but Akili Interactive's EndeavorRX, formerly Project EVO, may go down in history: it's the first video game that can legally be marketed and prescribed as medicine in the US.
-<a href='https://www.theverge.com/2020/6/15/21292267/fda-adhd-video-game-prescription-endeavor-rx-akl-t01-project-evo'> Source <a/>
