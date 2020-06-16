@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-In season 7 episode 11 of The Simpsons, everyone's going mad for Bonestorm, the hot new ultra-violent video game loosely based on the Mortal Kombat franchise. Bart wants Bonestorm, but eventually receives a much less thrilling alternative, the golfing — nay, the putting — simulator, Lee Carvello's Putting Challenge. Now, finally, almost a quarter of a century (!) after the episode originally aired, the game is available to play online in fan-made form.
-<a href='https://www.theverge.com/tldr/2020/6/15/21291331/lee-carvellos-putting-challenge-the-simpsons-putting-golfing-game-bonestorm'> Source <a/>

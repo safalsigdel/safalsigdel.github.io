@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_niIASwZl7STWph6JfE2_zj3WEM=/0x0:1800x1350/1200x800/filters:focal(756x531:1044x819)/cdn.vox-cdn.com/uploads/chorus_image/image/66939756/71360_alt2.0.jpeg' width='700px' /><br/>
+Mario is making the jump from the digital worlds of the Mushroom Kingdom to a new — but fitting — collaboration with Lego that lets players build their own IRL Super Mario levels. I've had the chance to try out the first sets, which are a fun spin on both the classic Mario and Lego formulas, that play out almost like a Super Mario Maker level come to life.
+<a href='https://www.theverge.com/21292132/lego-super-mario-sets-hands-on-nintendo-interview-play-toys'> Source <a/>
