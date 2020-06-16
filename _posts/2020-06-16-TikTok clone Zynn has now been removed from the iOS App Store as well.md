@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BQ1hu9h00i7vQTt4R07kIJa83dc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66939754/VRG_ILLO_4047_Zynn_001.0.jpg' width='700px' /><br/>
-Zynn, the Chinese video sharing app that's a near button-for-button clone of TikTok, has been removed from Apple's App Store. The app was previously taken down from Google's Play Store last week after reports of plagiarism on the platform, and had attracted controversy for a reward scheme that paid users to watch videos and sign up friends.
-<a href='https://www.theverge.com/2020/6/16/21292623/zynn-tiktok-clone-removed-ios-app-store-plagiarism-payments'> Source <a/>
