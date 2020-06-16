@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lQU6NrLCK-5BuV1QoGszawpHXJ0=/0x0:2040x1360/1200x800/filters:focal(1328x609:1654x935)/cdn.vox-cdn.com/uploads/chorus_image/image/66939774/dbush_170530_1759_0098.0.jpg' width='700px' /><br/>
-The Tesla Model S Long Range Plus now has an EPA-rated range of 402 miles, making it the first electric vehicle to receive a rating of over 400 miles from the agency. The new rating applies to all North American Model S vehicles with the “Long Range Plus” name, which Tesla introduced back in February to replace the “Long Range” version of the car.
-<a href='https://www.theverge.com/2020/6/16/21292629/tesla-model-3-long-range-plus-epa-rating-aerodynamic-wheels-mass-reduction-efficiency'> Source <a/>
