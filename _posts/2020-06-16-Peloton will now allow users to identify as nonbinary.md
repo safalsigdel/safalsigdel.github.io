@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UEd0RqOfj0DBW7KjzLGLekreylI=/0x0:2040x1360/1200x800/filters:focal(1100x650:1426x976)/cdn.vox-cdn.com/uploads/chorus_image/image/66938217/akrales_190328_3240_0139.6.jpg' width='700px' /><br/>
-Peloton announced today that users now have the option to select nonbinary as their gender, as part of the company's broader commitment to Pride Month. Nonbinary users will appear as “NB” on the leaderboard, where they compete against other people using the app, bike, or treadmill. Users will still be able to filter the leaderboard by age and gender.
-<a href='https://www.theverge.com/2020/6/15/21292099/peloton-non-binary-gender-option-app-update'> Source <a/>

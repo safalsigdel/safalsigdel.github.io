@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qtot0zg9jXhFsoCWZnettxLqaYY=/0x0:2316x1302/1200x675/filters:focal(973x466:1343x836)/cdn.vox-cdn.com/uploads/chorus_image/image/66940959/sm.0.jpg' width='700px' /><br/>
+Seth Meyers has taken on some new jobs over the past few months. Since he started hosting Late Night at home during the coronavirus pandemic, he's also been in charge of recording his own video and audio, running a teleprompter, and uploading the files to his production staff to make the show look, feel, and sound enough like the one he's been making in 30 Rockefeller Plaza for the past six years.
+<a href='https://www.theverge.com/21288117/late-night-seth-meyers-tech-gadgets-show-home-ipad-microphone'> Source <a/>
