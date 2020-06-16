@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0r7Hli25JRHU3Ylm6FceBRfGyuw=/0x0:6545x4363/1200x800/filters:focal(2750x1659:3796x2705)/cdn.vox-cdn.com/uploads/chorus_image/image/66936049/51515_Lifestyle_06.0.jpg' width='700px' /><br/>
-Lego's Mindstorms Robot Inventor kit is a new set that lets kids build and design robots. You get 949 pieces as part of the kit, which includes a color sensor, distance sensor, four motors, and Lego's Bluetooth-enabled “Intelligent Hub.” It's designed as a way to teach children basic STEM skills, including programming, and it's the first new entry in the Mindstorms lineup in seven years.
-<a href='https://www.theverge.com/2020/6/15/21291596/lego-mindstorms-robot-inventor-kit-bluetooth-educational-programming-scratch-python'> Source <a/>

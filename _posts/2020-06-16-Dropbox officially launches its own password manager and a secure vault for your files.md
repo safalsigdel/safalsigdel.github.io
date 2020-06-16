@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rmJrd4837X_Tcgohbv9voz6lxsE=/86x10:1111x605/1200x800/filters:focal(513x235:705x427)/cdn.vox-cdn.com/uploads/chorus_image/image/66940299/Passwords.0.png' width='700px' /><br/>
+Dropbox is launching a bunch of new features today, many of which are security-focused, including the password manager that was first spotted earlier this month; a “vault” within your files intended for storing documents like birth certificates; and a new way to backup your computer to your Dropbox account.
+<a href='https://www.theverge.com/2020/6/16/21290101/dropbox-passwords-manager-vault-computer-backup-hellosign-app-center'> Source <a/>

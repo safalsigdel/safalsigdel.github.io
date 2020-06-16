@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-I don't think of streaming services as heroes, mostly because streaming services are not real people, and most of them are owned by multibillion-dollar conglomerates with no interest in saving the world. But AT&T and WarnerMedia want to change that by fashioning their new platform HBO Max as a superhero team.
-<a href='https://www.theverge.com/tldr/21291792/hbo-max-comic-book-dc-comics-easter-eggs-streaming'> Source <a/>
