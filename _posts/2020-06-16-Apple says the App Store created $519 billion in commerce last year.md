@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ToL3zFwLCAS_Y3CjUYI_agYlVh4=/0x0:2040x1360/1200x800/filters:focal(848x638:1174x964)/cdn.vox-cdn.com/uploads/chorus_image/image/66938561/akrales_190918_3645_0166.0.jpg' width='700px' /><br/>
-Apple on Monday touted the findings of a new study from economic consulting firm Analysis Group that says the App Store was responsible for $519 billion in estimated total billings and sales of both physical products and services and digital goods in 2019.
-<a href='https://www.theverge.com/2020/6/15/21292203/apple-app-store-ios-apps-billings-revenue-517-billion-2019-antitrust-regulation'> Source <a/>
