@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aNpM1xFmpP1WC2TODwxsOQs2oZo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66939824/acastro_200428_1777_coronavirus_0002.0.0.jpg' width='700px' /><br/>
+Last week I wrote about a set of predictions that I got spectacularly wrong. Today, to soothe my fragile ego, let's talk about a case where I was a  closer to the mark.
+<a href='https://www.theverge.com/interface/2020/6/16/21291656/apple-google-exposure-notification-covid-19-early-results-human-contact-tracing'> Source <a/>

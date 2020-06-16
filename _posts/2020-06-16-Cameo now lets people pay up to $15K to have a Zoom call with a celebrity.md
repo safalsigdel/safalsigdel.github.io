@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s7HxKiYDtoIuhsp-l-l9f258Vyo=/0x0:1926x1284/1200x800/filters:focal(809x488:1117x796)/cdn.vox-cdn.com/uploads/chorus_image/image/66935407/cameolive.0.jpg' width='700px' /><br/>
-Cameo has a new way for fans to interact with celebrities: Zoom calls. The company launched a video call option over the weekend, called Cameo Live, where people can, instead of a prerecorded shout-out, book a 10-minute Zoom call with their favorite talent.
-<a href='https://www.theverge.com/2020/6/15/21291381/cameo-zoom-call-live-launch-celebrity'> Source <a/>
