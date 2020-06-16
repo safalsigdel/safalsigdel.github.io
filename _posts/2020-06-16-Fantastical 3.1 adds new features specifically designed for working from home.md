@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tjPnMH7QJAnxrh7OjwsTSGjfk6U=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20037053/Untitled_1.png' width='700px' /><br/>
+Calendar app Fantastical is getting its first major update since developer Flexibits rebooted the app with a new subscription model back in January, and it's focused on adding a variety of new features designed for customers who are working from home that make it easier to integrate conference calls and better manage your work / life balance.
+<a href='https://www.theverge.com/2020/6/16/21292709/fantastical-3-1-update-features-work-from-home-calendar-app-zoom'> Source <a/>
