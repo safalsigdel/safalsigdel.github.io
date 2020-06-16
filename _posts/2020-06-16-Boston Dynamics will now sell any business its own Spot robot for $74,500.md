@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sqF69D7607OwYJtfZy41sQLGSIM=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66940639/SPOT_3.0.jpg' width='700px' /><br/>
+Robotmaker Boston Dynamics has finally put its four-legged robot Spot on general sale. After years of development, the company began leasing the machine to businesses last year, and, as of today, is now letting any US firm buy their very own Spot for $74,500.
+<a href='https://www.theverge.com/21292684/boston-dynamics-spot-robot-on-sale-price'> Source <a/>
