@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WnM2Wtli1rcZV1xTthiy1ye4iJY=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/66939812/moneyinexcel.0.jpg' width='700px' /><br/>
+Microsoft is launching a new Money in Excel feature that's designed to help the millions of people who use Excel to track budgets and personal finances. Money in Excel is a template and add-in for Excel that allows Microsoft 365 subscribers to securely connect to bank, credit card, investment, or loan accounts and import transactions and account information directly into a spreadsheet.
+<a href='https://www.theverge.com/2020/6/16/21292642/microsoft-money-in-excel-template-addin-feature-personal-finance-microsoft-365'> Source <a/>
