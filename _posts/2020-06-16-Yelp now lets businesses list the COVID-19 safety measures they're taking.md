@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FM3kFbd7QSnpCuAXMDQZ3bZyhL0=/0x0:1940x1229/1200x0/filters:focal(0x0:1940x1229):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20036312/_Main_Image_COVID_19_Business_Updates_Section.jpg' width='700px' /><br/>
+As restaurants across the US begin to reopen, Yelp is rolling out new tools to allow business owners to share the safety measures they're taking to keep both customers and staff safe.
+<a href='https://www.theverge.com/2020/6/16/21291496/yelp-new-coronavirus-safety-tools-business-owners'> Source <a/>
