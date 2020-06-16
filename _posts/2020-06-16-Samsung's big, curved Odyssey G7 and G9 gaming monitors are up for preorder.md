@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cWdYhwJCtQwydw9JOtqbl01-6d0=/0x0:6240x4160/1200x800/filters:focal(2621x1581:3619x2579)/cdn.vox-cdn.com/uploads/chorus_image/image/66934883/DSCF4877_2.0.jpg' width='700px' /><br/>
-Samsung has opened up preorders for both of the new, curved QHD gaming monitors that debuted at CES 2020. The first, the Odyssey G7, comes in two sizes, 27 and 32 inches, which are priced at $699.99 and $799.99, respectively. The bigger 49-inch Odyssey G9 with a 32:9 aspect ratio costs $1,699.99.
-<a href='https://www.theverge.com/2020/6/15/21289300/samsung-curved-odyssey-g7-g9-gaming-monitors-preorder-release-date-price-gsync-freesync'> Source <a/>
