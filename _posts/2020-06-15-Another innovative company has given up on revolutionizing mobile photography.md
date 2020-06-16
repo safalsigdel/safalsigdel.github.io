@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BiDtYv5m7wAeVdkH6KJ3qxkVH5k=/0x0:2040x1148/1200x800/filters:focal(1322x340:1648x666)/cdn.vox-cdn.com/uploads/chorus_image/image/66929378/bfarsace_190213_3229_0067.0.jpg' width='700px' /><br/>
-Light, the company behind the Nokia 9's unique array of five rear cameras, has given up on its unconventional effort to revolutionize the cameras in our pockets. In a statement to Android Authority, Light said it's “no longer operating in the smartphone industry.”
-<a href='https://www.theverge.com/2020/6/12/21289574/light-camera-company-exits-smartphone-business'> Source <a/>

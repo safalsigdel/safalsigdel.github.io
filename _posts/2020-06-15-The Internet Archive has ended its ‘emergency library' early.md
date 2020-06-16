@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RUmsi5LlqO43Ecie7Cuk1yrgUgo=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/66933643/1206918203.jpg.0.jpg' width='700px' /><br/>
-After four commercial publishers filed a lawsuit earlier this month, the Internet Archive ended its National Emergency Library program earlier than planned, the organization said in a blog post (via ArsTechnica). It opened the “emergency” program in March, providing free access to 1.4 million books for people unable to get to classrooms or libraries during the coronavirus pandemic.
-<a href='https://www.theverge.com/2020/6/14/21290902/internet-archive-emergency-library-lawsuit'> Source <a/>

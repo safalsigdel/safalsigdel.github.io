@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/82WEsrGabBRr7Iyw8x7EfGaTOWA=/0x0:2040x1360/1200x800/filters:focal(758x685:1084x1011)/cdn.vox-cdn.com/uploads/chorus_image/image/66931883/jbareham_180213_2301_0058.0.jpg' width='700px' /><br/>
-Tesla has started adding a wireless phone charger and USB-C ports to Model 3 vehicles built at its Fremont, Calif. factory, Elektrek reported. As first reported by Drive Tesla Canada, the features were already available in Tesla's Model Y, and the carmaker began adding them last month to its Chinese-made Model 3 vehicles.
-<a href='https://www.theverge.com/2020/6/13/21290356/tesla-usb-wireless-model-3'> Source <a/>

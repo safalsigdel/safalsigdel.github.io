@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j4Fjm6qZvA-K6u_D0kLwQr0yxAc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66931196/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
-Twitter has reinstated the account for markets blogging site Zero Hedge, and says its decision to suspend the account for “platform manipulation” earlier this year was a mistake, Bloomberg reported. The January suspension of its Twitter account followed a report from Zero Hedge suggesting that a Chinese scientist had created the coronavirus in a lab, a theory that has since been widely debunked.
-<a href='https://www.theverge.com/2020/6/13/21290118/twitter-reinstates-zerohedge-coronavirus'> Source <a/>

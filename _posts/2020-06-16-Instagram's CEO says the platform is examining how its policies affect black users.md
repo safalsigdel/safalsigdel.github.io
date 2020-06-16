@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D-68L8l0iVIsHiep2DwsdnIBNB8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66938271/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
+Instagram CEO Adam Mosseri said Monday that the platform is taking steps to “better support the black community” and will review how it recommends content and deals with harassment and verification. Mosseri didn't provide specifics about what the Facebook-owned photo sharing app will do, but he laid out some key areas where Instagram has heard complaints from black users about bias.
+<a href='https://www.theverge.com/2020/6/15/21292054/instagram-adam-mosseri-ceo-bias-black-harassment-content'> Source <a/>

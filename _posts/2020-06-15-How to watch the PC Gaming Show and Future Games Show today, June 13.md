@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3PI6PmnS062Ke8WTDbhLc6f59JI=/0x0:600x600/1200x800/filters:focal(252x252:348x348)/cdn.vox-cdn.com/uploads/chorus_image/image/66931386/sjXM9tgQ.0.jpeg' width='700px' /><br/>
-Even if the world's biggest video game expos have been canceled this year, we're being treated to an unprecedented array of virtual events in their place — and today, what's been dubbed the Summer Game Fest will continue with the PC Gaming Show and the Future Games Show, starting at 11AM PT / 2PM ET.
-<a href='https://www.theverge.com/2020/6/13/21290209/pc-games-show-future-games-show-june-13-watch-stream-online'> Source <a/>

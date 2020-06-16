@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2WD4ykj0CNHT70vjQWT1tE7urV0=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/66929364/HBO_logo_stock.0.jpg' width='700px' /><br/>
-Just weeks after the launch of HBO Max, which added to the already confusing HBO product lineup of HBO, HBO Go, and HBO Now, WarnerMedia is making some changes in an attempt to reduce some of the confusion about which app is for which purpose.
-<a href='https://www.theverge.com/2020/6/12/21289536/hbo-go-app-now-max-warnermedia-att'> Source <a/>

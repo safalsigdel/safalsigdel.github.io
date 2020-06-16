@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HT2LEuoc1fLaZNpKjE2PimPTJSk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66938010/vpavic_191202_3827_0004.0.jpg' width='700px' /><br/>
+The US Department of Transportation launched a new voluntary program to collect and share data from autonomous vehicle operators. Companies testing AVs on public roads are invited to submit information to the government, which will then publicize it online. But given the voluntary nature of the program, safety advocates say the effort is likely to fall short of providing useful data to the public.
+<a href='https://www.theverge.com/2020/6/15/21292014/dot-nhtsa-self-driving-car-test-data-voluntary'> Source <a/>

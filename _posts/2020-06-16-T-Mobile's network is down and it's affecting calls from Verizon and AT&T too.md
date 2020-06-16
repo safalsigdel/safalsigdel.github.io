@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Uo0tyxrm8isgaQyKb71_ZkUsgis=/0x0:2040x1360/1200x800/filters:focal(948x538:1274x864)/cdn.vox-cdn.com/uploads/chorus_image/image/66937579/akrales_190914_3628_0074.0.jpg' width='700px' /><br/>
+T-Mobile, Verizon and AT&T customers are experiencing issues placing calls across the US, according to user reports on Downdetector and on social media, with reports spiking around 2:20 PM ET.
+<a href='https://www.theverge.com/2020/6/15/21292024/t-mobile-verizon-att-calls-failing-down-phone-networks-us-carriers'> Source <a/>

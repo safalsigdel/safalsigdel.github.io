@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cB9XcxQQvj67Zx3MGDvs2RhRvPc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66930888/vpavic_180822_2913_0117.0.jpg' width='700px' /><br/>
-Father's Day in the US is coming up on Sunday, June 21st. That's next week, so you still have time to do some shopping. Given that the COVID-19 pandemic still has many retail stores shuttered, we recommend doing most of your shopping for dad online. Though, if you're running short on time to buy a gift, you might be able to arrange a curbside pickup depending on the store.
-<a href='https://www.theverge.com/good-deals/2020/6/13/21287011/fathers-day-tech-drones-gift-ideas-games-holiday-deals-sales'> Source <a/>

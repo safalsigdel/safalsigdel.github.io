@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1oHJbc7xfgVurXgRMEwrKOL6g4w=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66931065/spacex.0.jpg' width='700px' /><br/>
-SpaceX launched 58 new Starlink satellites on its Falcon 9 rocket on Saturday morning, and three satellites from Planet tagged along for the ride. The SpaceX satellites are part of its growing Starlink constellation, which it's building to provide internet connectivity on Earth. The company has permission to launch some 12,000 satellites as part of the project.
-<a href='https://www.theverge.com/2020/6/13/21290081/spacex-starlink-satellite-launch'> Source <a/>
