@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uUrOH3FE8q8HvGYLtAZ4t_DA_7g=/0x0:2040x1360/1200x800/filters:focal(655x538:981x864)/cdn.vox-cdn.com/uploads/chorus_image/image/66940883/cwelch_200114_3847_0001.0.jpg' width='700px' /><br/>
+A few weeks ago, I highlighted a $100 deal on a refurbished set of Jabra Elite 75t headphones. That price remains unbeatable, though if you aren't wanting to go down the refurbished route, a brand-new set is more affordable than ever at Amazon and Best Buy. These normally cost $180, but you can get them now for $150.
+<a href='https://www.theverge.com/good-deals/2020/6/16/21292786/jabra-elite-75t-earbuds-persona-4-golden-pc-steam-amazon-echo-deal-sale'> Source <a/>

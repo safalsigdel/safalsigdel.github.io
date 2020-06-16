@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UMjy5L-Iank_pXNwmb4OAYDUfEQ=/0x0:1754x1094/1200x800/filters:focal(737x407:1017x687)/cdn.vox-cdn.com/uploads/chorus_image/image/66938044/Screen_Shot_2020_06_15_at_4.35.19_PM.0.png' width='700px' /><br/>
-Apple has released a Mac version of its Apple Developer app, a week before its Worldwide Developers Conference kicks off. Apple initially launched the app in late 2019, but it was only available to iPhone, iPad, and Apple TV users.
-<a href='https://www.theverge.com/2020/6/15/21291954/apple-developer-app-mac-support-released'> Source <a/>
