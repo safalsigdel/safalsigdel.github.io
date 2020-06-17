@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6u25UWfAOhGVKSe8DeJwPGuwkC4=/0x0:2040x1360/1200x800/filters:focal(907x813:1233x1139)/cdn.vox-cdn.com/uploads/chorus_image/image/66945695/amazon-echo-verge-9682.0.0.jpg' width='700px' /><br/>
+Game developer Zynga is launching a revised version of its once-popular Scrabble-like web game Words with Friends exclusively for Amazon Alexa today. The new game, called Word Pop, is a voice-based version of the word game that asks players to spell as many unique words as they can from a given six-letter bank across one-minute sessions. Players are scored based on the length of words and the total number of words.
+<a href='https://www.theverge.com/2020/6/17/21292285/zynga-words-with-friends-amazon-alexa-voice-assistant-game'> Source <a/>

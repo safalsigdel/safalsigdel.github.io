@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Since time machines are still not a thing, there's a new archive that lets you slip into the past to review what was happening at different streets and intersections throughout New York City over the course of a given day.
-<a href='https://www.theverge.com/tldr/2020/6/16/21292810/new-york-streets-throughout-the-day-archived-images'> Source <a/>

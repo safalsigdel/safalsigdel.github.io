@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HyDq1QDFzzpJAnhE3GzRP0NycEM=/0x0:2400x1606/1200x800/filters:focal(1008x611:1392x995)/cdn.vox-cdn.com/uploads/chorus_image/image/66942129/Hey_image_2.0.png' width='700px' /><br/>
-Hey, the newly announced email service, has a unique product on its slate of offerings: a rare, exclusive two- or three-letter email address, like ok@hey.com or fun@hey.com for example (or perhaps just your initials). But it's going to cost you.
-<a href='https://www.theverge.com/2020/6/16/21293156/hey-email-service-2-letter-addresses-premium-price-features'> Source <a/>
