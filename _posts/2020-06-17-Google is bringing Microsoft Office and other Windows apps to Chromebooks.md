@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ENZkEoZ6lx2HgOpaz_7hC1j1CuU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66942637/vpavic_191023_3755_0099.5.jpg' width='700px' /><br/>
+Google is partnering with Parallels to bring native Microsoft Office applications and other legacy enterprise Windows applications to Chromebooks. Google revealed the new partnership in a blog post looking at the future of Chrome OS for enterprises.
+<a href='https://www.theverge.com/2020/6/16/21293180/google-chrome-os-microsoft-office-windows-desktop-apps-support-parallels'> Source <a/>

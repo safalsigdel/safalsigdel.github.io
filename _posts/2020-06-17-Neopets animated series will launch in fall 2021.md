@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DJrnHzLp0f1_gqOknrh3VBklhbY=/0x0:3000x2400/1200x800/filters:focal(1260x960:1740x1440)/cdn.vox-cdn.com/uploads/chorus_image/image/66942581/neopets_tv_show.0.jpeg' width='700px' /><br/>
+The first Neopets animated series will launch in fall 2021, according to JumpStart CEO Jim Czulewicz.
+<a href='https://www.theverge.com/21293330/neopets-animated-series-launch-fall-2021-merch-plush-mobile-site'> Source <a/>

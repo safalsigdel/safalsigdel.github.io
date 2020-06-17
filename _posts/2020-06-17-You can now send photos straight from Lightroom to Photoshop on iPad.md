@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zFFtuMDO3jZfsJmJ66J7Du5ahkE=/0x0:1200x863/1200x800/filters:focal(504x336:696x528)/cdn.vox-cdn.com/uploads/chorus_image/image/66940348/lr_to_ps_edit.0.png' width='700px' /><br/>
-Adobe is making it easier to move images between its two biggest iPad apps. After an update today, Lightroom on iPad will have an “Edit in Photoshop” button that will send a photo straight to Photoshop on iPad. Once you're in Photoshop, you can either tap the “Send to Lightroom” button to head back or keep the photo within Photoshop by saving it as a Cloud PSD.
-<a href='https://www.theverge.com/21292731/lightroom-photoshop-ipad-send-photo-update-adobe'> Source <a/>

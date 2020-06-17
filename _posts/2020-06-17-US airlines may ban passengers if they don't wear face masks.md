@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oSXkenDNjJA0NQKFIUQZ7VDe51E=/0x0:5310x3485/1200x800/filters:focal(2231x1319:3079x2167)/cdn.vox-cdn.com/uploads/chorus_image/image/66943419/1224249447.jpg.0.jpg' width='700px' /><br/>
+United and American Airlines said Monday that they will temporarily ban passengers who don't comply with a new industry-wide mandatory mask policy that goes into effect this week.
+<a href='https://www.theverge.com/2020/6/16/21293432/united-american-airlines-passenger-ban-face-coverings-masks'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9EZ_JRIyXffbvF3_zJl25pO7cxM=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/66939909/Switch_JumpRopeChallenge_01.0.jpg' width='700px' /><br/>
-Jump Rope Challenge is a charming new free game from Nintendo that uses a pair of Joy-Cons to jump a virtual rope. You hold the Joy-Cons as though they're jump-rope handles, and swing them around as you jump. Jumping bunny rabbits show your progress on-screen. The initial aim is to do one hundred jumps a day, although this goal can be increased.
-<a href='https://www.theverge.com/2020/6/16/21292655/nintendo-jump-rope-challenge-free-exercise-game-no-equipment-switch-eshop'> Source <a/>

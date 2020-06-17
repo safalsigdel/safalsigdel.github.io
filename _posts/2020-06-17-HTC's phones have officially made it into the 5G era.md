@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F70bpORTt5Z2i20ppFluOn-AfU8=/0x0:1200x715/1200x800/filters:focal(502x255:694x447)/cdn.vox-cdn.com/uploads/chorus_image/image/66940406/EanKxBgUcAATz64.0.jpg' width='700px' /><br/>
-HTC's ailing smartphone division has unveiled a pair of new handsets, including the company's first 5G phone. The HTC U20 5G and HTC Desire 20 Pro are coming to the Taiwanese market. In a recent tweet, HTC claimed that “other markets” will follow. On paper, they look like a pair of generic midrange handsets from a company that's struggling to set itself apart from the competition.
-<a href='https://www.theverge.com/21292720/htc-u20-5g-desire-20-pro-release-date-price-features'> Source <a/>

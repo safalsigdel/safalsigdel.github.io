@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Forget 5G phones: Lenovo is officially kicking off the 5G laptop race with the Flex 5G, which will be released on June 18th for $1,399.99 as a Verizon exclusive (at least in the United States) as the world's first 5G laptop.
-<a href='https://www.theverge.com/circuitbreaker/21292067/lenovo-flex-5g-laptop-date-price-verizon-exclusive'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ai8oDC9mSsdMwSF4EL07teri_qA=/0x0:1528x798/1200x800/filters:focal(642x277:886x521)/cdn.vox-cdn.com/uploads/chorus_image/image/66943407/doordash_delivery_worker.0.png' width='700px' /><br/>
+DoorDash, the high-flying food delivery startup, was sued by San Francisco's district attorney Tuesday for alleged unfair business practices and worker misclassification. It was the latest legal challenge targeting a gig economy company in California since the passage of the state's first-in-the-nation worker misclassification law.
+<a href='https://www.theverge.com/2020/6/16/21293474/doordash-sf-district-attorney-lawsuit-worker-misclassification'> Source <a/>

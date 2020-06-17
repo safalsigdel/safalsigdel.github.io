@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cEOfLbQMzE58pSoGPGLPdA_bEb0=/737x462:2982x1727/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/66940326/paste_screenshot.0.png' width='700px' /><br/>
-WeTransfer is launching the next version of its Paste slideshow app today with new tools intended to make it easier to quickly build good-looking slide decks.
-<a href='https://www.theverge.com/2020/6/16/21290359/wetransfer-slideshow-app-paste-layout-engine-bento'> Source <a/>
