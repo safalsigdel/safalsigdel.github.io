@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/gIbEcZ5S-hqdWqjKhO5T1Y-6zKY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66944369/acastro_180406_1777_facebook_Congress_0001.0.jpg' width='700px' /><br/>
-Facebook aims to improve the resources it providers American voters and will attempt to help more people register to vote ahead of the 2020 US election, according to a new op-ed by CEO Mark Zuckerberg published in USA Today on Tuesday evening.
+Facebook aims to improve the resources it provides American voters and will attempt to help more people register to vote ahead of the 2020 US election, according to a new op-ed by CEO Mark Zuckerberg published in USA Today on Tuesday evening.
 <a href='https://www.theverge.com/2020/6/16/21293674/facebook-2020-us-election-register-voters-information-center-election-integrity'> Source <a/>
