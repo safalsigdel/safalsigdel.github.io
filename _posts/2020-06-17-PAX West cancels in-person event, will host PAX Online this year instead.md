@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NEzJyARIlbpMK3RnsGmj0PIRwrw=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/66942291/west2019d1__3_of_15_.0.jpg' width='700px' /><br/>
-Seattle gaming convention PAX West will not be happening this Labor Day weekend. Instead, it will shift into a nine-day online conference that takes place in the middle of September, the conference's organizers announced today.
-<a href='https://www.theverge.com/21293169/pax-west-online-australia-canceled-date-seattle-gaming-convention'> Source <a/>
