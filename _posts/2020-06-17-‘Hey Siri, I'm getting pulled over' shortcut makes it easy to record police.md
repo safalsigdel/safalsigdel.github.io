@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FT9EIAlxb6dI7umh-mulbib6nf8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66945395/1186479349.jpg.0.jpg' width='700px' /><br/>
+As protests against racial police violence have spread across the US, we've seen how video captured on mobile devices can help identify misconduct by law enforcement. But such evidence isn't just useful at a protest, but during all sorts of routine interactions with the police, including traffic stops. That's why the Siri shortcut “I'm getting pulled over” exists.
+<a href='https://www.theverge.com/2020/6/17/21293996/siri-iphone-shortcut-pulled-over-police-starts-recording-video'> Source <a/>
