@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SnNq9GYTCVbfvKsWMyt9r91bg9M=/286x99:3554x2080/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/66943339/tab_s7_plus.0.png' width='700px' /><br/>
-Renders for an unannounced Samsung tablet, the Galaxy Tab S7 Plus, show that the device could have a big 12.4-inch screen (via 9to5Google). That screen size would make the Tab S7 Plus quite large compared to most Android tablets, though it would be a bit smaller than Apple's 12.9-inch iPad Pro.
-<a href='https://www.theverge.com/2020/6/16/21293369/galaxy-tab-s7-plus-renders-12-4-11-inch-display'> Source <a/>
