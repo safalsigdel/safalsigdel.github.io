@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WiYWlj5FK_KGMOyvJEr3axdonVY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66946920/akrales_170324_1554_A_0028.0.0.jpg' width='700px' /><br/>
+Lucid Motors has announced that it will reveal the production version of its first all-electric luxury sedan, the Air, in an online event on September 9th. The California startup says it will show off the Air's final exterior and interior designs, and offer new details on the car's specs, configurations, and pricing.
+<a href='https://www.theverge.com/2020/6/17/21294182/lucid-motors-air-ev-sedan-event-date-online-streaming'> Source <a/>
