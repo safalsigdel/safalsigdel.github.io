@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XwfB2Y3jgBOkww7zBm6P6l5s474=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66942328/akrales_191113_3779_0317.0.jpg' width='700px' /><br/>
-You don't need Google's own gamepad or dongle to try its Stadia cloud gaming service, particularly now that it works on practically any Android phone — but if you want to fire up Stadia on your 4K TV with a wireless gamepad, you can do that for cheaper now.
-<a href='https://www.theverge.com/2020/6/16/21293209/google-stadia-price-cut-premiere-edition-chromecast-ultra-controller'> Source <a/>
