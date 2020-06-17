@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5ujZMchuYv-PLEfOIlfb7C66DOY=/0x0:640x367/1200x800/filters:focal(269x133:371x235)/cdn.vox-cdn.com/uploads/chorus_image/image/66945302/itunes_app_store_icon_field_640.0.jpg' width='700px' /><br/>
+I started this morning all riled up and ready to write a newsletter about how Google is using its market power in one segment — Gmail — to give itself a potentially unfair advantage in another segment: video conferencing.
+<a href='https://www.theverge.com/2020/6/17/21293813/apple-app-store-policies-hey-30-percent-developers-the-trial-by-franz-kafka'> Source <a/>

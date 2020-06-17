@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wkypBs-1Soe4emjhaWl_N-oWqcQ=/0x0:5747x4037/1200x800/filters:focal(2415x1560:3333x2478)/cdn.vox-cdn.com/uploads/chorus_image/image/66945337/526956316.jpg.0.jpg' width='700px' /><br/>
+GE announced today that it's developing skyscraper-sized wind turbines with massive 3D-printed bases. The conglomerate plans to work with partners in the construction industry to produce both a printer and materials that could eventually be deployed around the world.
+<a href='https://www.theverge.com/2020/6/17/21293456/ge-200-meter-onshore-taller-wind-turbines-3d-printing'> Source <a/>
