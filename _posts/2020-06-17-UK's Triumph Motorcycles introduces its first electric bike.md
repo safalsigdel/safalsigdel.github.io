@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rHwxvAh3sHhyvHXDOn3_iHDogYY=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66941222/1920x1080_005_gallery.0.jpg' width='700px' /><br/>
-Triumph, the premium British motorcycle brand most preferred by James Bond, is out with a new two-wheeler of a different sort. The Trekker GT is the world-famous motorcycle maker's first electric bicycle, and, at first glance, it appears to be a highly capable commuter model. It won't be cheap, though: the bike will be going on sale in Europe, the UK, and the US for xc2xa32,950 ($3,318).
-<a href='https://www.theverge.com/2020/6/16/21292853/triumph-motorcycle-ebike-trekker-gt-specs-price'> Source <a/>
