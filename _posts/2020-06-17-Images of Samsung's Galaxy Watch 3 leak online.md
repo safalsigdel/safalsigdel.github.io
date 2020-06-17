@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xb8M0IPwJGbIeQu3SQyebWWux9g=/0x0:2040x1360/1200x800/filters:focal(813x766:1139x1092)/cdn.vox-cdn.com/uploads/chorus_image/image/66945039/jbareham_180828_2902_0017.0.jpg' width='700px' /><br/>
+Images of Samsung's unannounced Galaxy Watch 3 have leaked online, giving us our first look at the company's upcoming wearable. The images appeared on South Korea's NRRA certification website, where they were spotted by MySmartPrice. In them, you can see what appears to be a physical rotating bezel (a feature missing from last year's Galaxy Watch Active 2), and two buttons on the right of the device.
+<a href='https://www.theverge.com/2020/6/17/21293981/samsung-galaxy-watch-3-specs-bezel-buttons-smart-watch-rumors-photo-leak'> Source <a/>
