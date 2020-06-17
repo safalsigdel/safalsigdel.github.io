@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Sonos has announced a new color option for its portable $399 Move speaker: it now comes in a “lunar white” design in addition to the grayish-black color the company already offers.
-<a href='https://www.theverge.com/circuitbreaker/21292779/sonos-move-lunar-white-software-update-battery-life-price'> Source <a/>
