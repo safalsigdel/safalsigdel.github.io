@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BqHrTl4BaadwgDkpskeY1PFz-5s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66943205/acastro_200428_1777_coronavirus_0001.0.5.jpg' width='700px' /><br/>
-A new study analyzing COVID-19 contact tracing apps conducted by Amnesty International has found that Bahrain and Kuwait are using their public health apps as mass surveillance tools.
-<a href='https://www.theverge.com/2020/6/16/21293363/covid-19-contact-tracing-bahrain-kuwait-mass-surveillance-tools-privacy-invasion'> Source <a/>

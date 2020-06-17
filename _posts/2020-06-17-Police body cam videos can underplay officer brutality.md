@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8k4EVhzaSX6Bd4Tbr7dWg5co7OA=/0x0:4928x3280/1200x800/filters:focal(2070x1246:2858x2034)/cdn.vox-cdn.com/uploads/chorus_image/image/66947301/1216621070.jpg.0.jpg' width='700px' /><br/>
+Over the last several weeks, social media has been filled with videos of police officers pepper-spraying, bludgeoning, and shooting protestors. They were captured by civilians, recording on smartphones — not by police body cameras. That changes how people understand the events on the video, helping protestors rather than police shape the narrative.
+<a href='https://www.theverge.com/21293502/police-violence-protests-camera-bias-body-cam'> Source <a/>
