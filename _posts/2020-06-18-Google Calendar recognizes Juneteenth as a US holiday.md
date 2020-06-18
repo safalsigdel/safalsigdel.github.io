@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Oz6QNrUklbvhh8ojMHCBaAxWmyo=/0x0:1624x1068/1200x800/filters:focal(683x405:941x663)/cdn.vox-cdn.com/uploads/chorus_image/image/66946770/Screen_Shot_2020_06_17_at_8.46.39_AM.0.png' width='700px' /><br/>
-Google Calendar has added Juneteenth as a holiday in the United States.
-<a href='https://www.theverge.com/2020/6/17/21294067/google-calendar-juneteenth-us-holiday'> Source <a/>

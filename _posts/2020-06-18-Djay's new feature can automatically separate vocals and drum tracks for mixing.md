@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FByeb_j_bo7n8c7TiPupnRDGlPU=/0x0:5184x3456/1200x800/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/66951112/Photo_2.0.jpg' width='700px' /><br/>
+Algoriddim is adding an impressive new feature to its Djay app for iOS: a set of sliders that let you instantly fade out certain portions of whatever track you're playing, letting you highlight just the drums, the vocal track, or all the instruments in between. Algoriddim says the feature works well with just about any genre of music you throw at it.
+<a href='https://www.theverge.com/2020/6/18/21294138/djay-neuralmix-ai-vocal-drum-harmonic-separation-ios-app'> Source <a/>

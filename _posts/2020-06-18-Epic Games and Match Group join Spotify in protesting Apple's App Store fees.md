@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7SSHDUrckfpXCgWMEovGU03_vpk=/0x0:2600x1722/1200x800/filters:focal(1092x653:1508x1069)/cdn.vox-cdn.com/uploads/chorus_image/image/66946709/fortniteiphonex.0.jpeg' width='700px' /><br/>
-More companies are vocalizing their support for an antitrust case against Apple filed in the EU yesterday. Both Match Group, the owner of dating apps like Tinder and Hinge, as well as Epic Games, which created Fortnite, issued statements last night in support.
-<a href='https://www.theverge.com/2020/6/17/21294230/epic-games-match-group-spotify-eu-apple-app-store'> Source <a/>
