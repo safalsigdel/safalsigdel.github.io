@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x1nLW46hY0KUUDwjKtSaQj1TXOE=/0x0:2040x1360/1200x800/filters:focal(1053x474:1379x800)/cdn.vox-cdn.com/uploads/chorus_image/image/66947325/dseifert_181018_3039_1192.0.jpg' width='700px' /><br/>
-Google Assistant Smart Displays will be able to access AMP web articles starting later this summer, Google says. Alongside the AMP news, Google has also announced a number of improvements for its voice assistant, which it says will make interactions with it faster and more seamless and yield more accurate responses to queries.
-<a href='https://www.theverge.com/2020/6/17/21294003/google-smart-displays-amp-articles-voice-assistant-news-developer-tools'> Source <a/>
