@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k-0oFRZCzfwlY9rexz2naw-9f00=/0x0:2450x1366/1200x800/filters:focal(1029x487:1421x879)/cdn.vox-cdn.com/uploads/chorus_image/image/66945872/Screen_Shot_2020_06_17_at_9.07.42_AM.0.png' width='700px' /><br/>
-There's a new Pokxc3xa9mon game out today. No, not the Isle of Armor expansion for Pokxc3xa9mon Sword and Shield (although that's also available today). It's called Pokxc3xa9mon Smile, and it's an augmented reality toothbrushing game designed to encourage kids to brush their teeth better.
-<a href='https://www.theverge.com/2020/6/17/21294072/pokemon-smile-brushing-teeth-ar-augmented-reality-adventure'> Source <a/>
