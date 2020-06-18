@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ET5_iertYWDbgBMDl-oXxCgkqQM=/0x0:2668x1394/1200x800/filters:focal(1121x484:1547x910)/cdn.vox-cdn.com/uploads/chorus_image/image/66952560/Screen_Shot_2020_06_18_at_11.48.02_AM.0.png' width='700px' /><br/>
+There are too many streaming services, and all of them are fighting over content that feels like it's bouncing back and forth between streaming sites on a daily basis. This has made sites like JustWatch — a streaming search engine and recommendation site — an essential tool as more and more of these services continue to launch.
+<a href='https://www.theverge.com/2020/6/18/21291519/justwatch-streaming-search-engine-filter-app-impressions-hbo-max-disney-plus-netflix-hulu'> Source <a/>
