@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CY8BxzI0F8SaerTvbGyKtD4k_jE=/0x0:1185x789/1200x800/filters:focal(470x246:658x434)/cdn.vox-cdn.com/uploads/chorus_image/image/66950470/msedge_WZaXmwhnSH.0.png' width='700px' /><br/>
+Link to Text Fragment is a new Chrome Extension from Google that lets you generate URLs to specific text on a webpage, regardless of the page's formatting.
+<a href='https://www.theverge.com/2020/6/18/21295300/google-link-to-text-fragment-chrome-extension-chromium-highlight-scroll-down'> Source <a/>
