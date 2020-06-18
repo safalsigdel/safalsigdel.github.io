@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l0_Zn02f-WlcAOl8jnc2svQuNB4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66947154/bkappel_180212_2336_0032.0.jpg' width='700px' /><br/>
-Lyft announced a plan on Wednesday to transition to “100 percent” electric or zero-emission vehicles by 2030. By working with automakers and rental car companies, as well as the millions of independent contractors who drive for Lyft every day, the ride-hailing company believes it can prevent “tens of millions of metric tons” of pollutants from entering the atmosphere.
-<a href='https://www.theverge.com/2020/6/17/21294040/lyft-electric-vehicle-ev-100-percent-2030'> Source <a/>
