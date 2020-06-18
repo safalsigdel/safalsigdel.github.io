@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lMaDSaNICQ9CVqeeEhBD4nFxgcQ=/0x0:4128x2752/1200x800/filters:focal(1734x1046:2394x1706)/cdn.vox-cdn.com/uploads/chorus_image/image/66950536/Active_Drive_Assist.0.jpg' width='700px' /><br/>
+Ford announced late last year that the Mustang Mach-E will be the company's first car to allow hands-free driving in certain situations. Today, the company is opening up about how exactly that technology will work, but it's also saying that the feature won't be available until the second half of 2021.
+<a href='https://www.theverge.com/2020/6/18/21294866/fords-copilot-360-active-drive-assist-hands-free-driving-release'> Source <a/>
