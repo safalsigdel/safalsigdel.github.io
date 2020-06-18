@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Qualcomm is launching its next 5G chipset today, the Snapdragon 690, the first product in its 6-series chips to get support for the next-generation networking standard — although it'll only support the slower sub-6GHz versions of 5G, not the faster mmWave standard.
-<a href='https://www.theverge.com/circuitbreaker/2020/6/16/21286692/qualcomm-snapdragon-690-processor-5g-budget-phones-120-hz-4k-hdr-video'> Source <a/>

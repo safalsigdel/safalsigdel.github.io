@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0IAIBx1JNEOfUUPirGFHendgRo8=/0x0:802x454/1200x800/filters:focal(337x163:465x291)/cdn.vox-cdn.com/uploads/chorus_image/image/66943656/witcher3_4.1370889898.0.png' width='700px' /><br/>
-PS4 and Xbox One owners now have the chance to play the PC version of The Witcher 3 at no extra cost.
-<a href='https://www.theverge.com/2020/6/16/21293300/the-witcher-3-free-pc-ps4-xbox-steam-epic-cd-projekt-red'> Source <a/>

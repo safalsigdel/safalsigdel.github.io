@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PxHecPxZWwmc3ymBv7BvWmhjVes=/0x0:2129x1555/1200x800/filters:focal(895x608:1235x948)/cdn.vox-cdn.com/uploads/chorus_image/image/66945107/facebook_political_information_center.0.jpg' width='700px' /><br/>
-Critics say Facebook is actively enabling the spread of political misinformation online, but the social network has now come up with its own idiosyncratic solution: shift responsibility to the public at large by letting users “turn off” political ads they don't like.
-<a href='https://www.theverge.com/2020/6/17/21293980/facebook-turn-off-political-ads-2020-election-voting-information-registration'> Source <a/>

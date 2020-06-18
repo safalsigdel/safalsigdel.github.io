@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E9b6_nV8qe8tOgQ3365yD95r1AQ=/0x0:4000x2249/1200x800/filters:focal(1680x805:2320x1445)/cdn.vox-cdn.com/uploads/chorus_image/image/66944982/200601_C02.161.0.jpg' width='700px' /><br/>
-Logitech announced today that it plans to put labels communicating the carbon impact of products on all product packaging and on its website. The company says it expects labels will appear first on its gaming products later this year. The goal is to include labels across its full product portfolio by 2025, Logitech tells The Verge.
-<a href='https://www.theverge.com/2020/6/17/21284528/logitech-carbon-impact-labels-products-packaging'> Source <a/>

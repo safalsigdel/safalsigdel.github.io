@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X8HZo6MH2Zh8cG5kEdNPZSmukwA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66948186/VRG_ILLO_4047_Zynn_001.0.jpg' width='700px' /><br/>
+Zynn is no longer paying users to watch videos and refer friends to the app, a practice that quickly rocketed the TikTok clone to the top of both Apple and Google's app stores.
+<a href='https://www.theverge.com/21294567/zynn-pay-feature-removed-zynncheers-new-rewards-system'> Source <a/>

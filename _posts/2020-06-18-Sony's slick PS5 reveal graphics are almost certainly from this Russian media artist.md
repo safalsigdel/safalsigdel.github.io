@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_kE8ZaiIZQVNqd8C11bA_nSyAgU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66949598/Screen_Shot_2020_06_17_at_8.55.43_AM.0.png' width='700px' /><br/>
+In the image above, a field of pulsating blue spheres rearranges itself into geometric patterns. If that looks familiar, that means you probably watched Sony's PlayStation 5 reveal last week. The ultra-modern vibe of the graphics and their white, black, and blue color scheme set the stage perfectly for the reveal of the actual PS5 console.
+<a href='https://www.theverge.com/2020/6/17/21294195/sony-ps5-reveal-graphics-russian-media-artist-maxim-zhestkov'> Source <a/>
