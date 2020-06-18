@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zpJzqw0RqhFUX9aOxXF4Oym8xMQ=/180x149:1400x932/1200x800/filters:focal(588x354:812x578)/cdn.vox-cdn.com/uploads/chorus_image/image/66950761/philadelphia_arson_protest.0.jpg' width='700px' /><br/>
+It took an Etsy review, a LinkedIn profile, a handful of Instagram videos, and a few Google searches for FBI agents to identify a masked woman accused of setting two police cars on fire during recent protests in Philadelphia. The protests took place on May 30 in response to the police killing of George Floyd.
+<a href='https://www.theverge.com/2020/6/18/21295301/philadelphia-protester-arson-identified-social-media-etsy-instagram-linkedin'> Source <a/>
