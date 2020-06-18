@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q_Qc9JQPv2RBWQ6N3BEJkgyfVXg=/0x0:1000x666/1200x800/filters:focal(420x253:580x413)/cdn.vox-cdn.com/uploads/chorus_image/image/66950315/Samsung_Health_Monitor_App_Blood_Pressure_EN__283_29.0.jpg' width='700px' /><br/>
+Samsung has released its Health Monitor app in South Korea, enabling blood pressure tracking for the Galaxy Watch Active 2 smartwatch. The rollout is slightly ahead of schedule; Samsung previously said the app would be released in the third quarter of this year after getting approval from South Korea's Ministry of Food and Drug Safety in April.
+<a href='https://www.theverge.com/2020/6/18/21295264/samsung-galaxy-watch-active-2-blood-pressure-tracking-ecg-korea'> Source <a/>
