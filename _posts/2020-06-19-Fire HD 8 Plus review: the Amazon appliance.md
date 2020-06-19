@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9344/vpavic_200616_4067_0010_square.jpg' width='700px' /><br/>
-If you think of Amazon's Fire HD tablets in the same way you approach other tablets, you're going to be disappointed. They're technically tablets, but the technology in them can't keep up with the kinds of things you normally associate with tablet computers. Attempting to do all the things you might do on an iPad, high-end Samsung tablet, or a Surface is a recipe for frustration.
-<a href='https://www.theverge.com/21294989/fire-hd-8-plus-review-amazon-prime-android-tablet-fireos-price'> Source <a/>
