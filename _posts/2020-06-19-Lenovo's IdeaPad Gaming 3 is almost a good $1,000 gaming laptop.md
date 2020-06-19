@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/veYFoYDfr-zTqVo7Cu_bwxyxWeo=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/66957285/cfaulkner_200617_4065_0015.0.jpg' width='700px' /><br/>
+If you're shopping for a gaming laptop, you'll find good specs like Intel's powerful 10th Gen six-core i7 H-series processor, a fast PCIe-based SSD, and a 120Hz refresh rate display in many of the costly, high-end models currently available. But you'll also find all of that in Lenovo's new IdeaPad Gaming 3, a machine that costs a bit less than $1,000 even at its most expensive configuration.
+<a href='https://www.theverge.com/21295596/lenovo-ideapad-gaming-3-review-laptop-budget-friendly-intel-10th-gen-nvidia-geforce-gtx'> Source <a/>

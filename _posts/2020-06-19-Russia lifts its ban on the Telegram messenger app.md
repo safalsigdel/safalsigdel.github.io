@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j7DpfbwKAtN4F3RawaSQ4mOB820=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66952626/acastro_180417_1777_telegram_0004.0.jpg' width='700px' /><br/>
-Russia will lift its nearly two-year ban on messenger app Telegram, Reuters reported. The country's telecom watchdog Roskomnadzor said the company had shown “willingness” to help with counterterrorism efforts.
-<a href='https://www.theverge.com/2020/6/18/21295535/russia-telegram-ban-lifted-security'> Source <a/>
