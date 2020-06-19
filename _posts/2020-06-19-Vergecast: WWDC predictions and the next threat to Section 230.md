@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mknR4UhhJUa374iwAb-i4pd6Ss4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66957769/akrales_180620_1777_0239.0.jpg' width='700px' /><br/>
+The Verge's flagship podcast The Vergecast is split into two parts this week: WWDC predictions and a discussion on tech policy.
+<a href='https://www.theverge.com/2020/6/19/21296700/wwdc-predictions-section-230-google-ads-policy-vergecast'> Source <a/>
