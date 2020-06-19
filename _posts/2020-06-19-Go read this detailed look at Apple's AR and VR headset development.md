@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/glnc99Yo4I6-a66CFU1LYQ6tRXg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66956891/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+Apple has been working on a combination of AR and VR wearables for at least the last five years, and it's this development process that's been extensively detailed in a new report from Bloomberg. The report covers some of the internal conflicts shaping product design, and provides more details about what form the final devices could take.
+<a href='https://www.theverge.com/2020/6/19/21296674/apple-vr-ar-headset-glasses-external-hub-jony-ive-bloomberg-go-read-this'> Source <a/>
