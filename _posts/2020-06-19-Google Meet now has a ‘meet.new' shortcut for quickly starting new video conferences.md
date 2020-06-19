@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lhbGSTRPKtG2Qm0Fcr9DZ6d1UAA=/0x0:2000x1250/1200x800/filters:focal(840x465:1160x785)/cdn.vox-cdn.com/uploads/chorus_image/image/66958327/Google_Meet_1.max_2000x2000.0.png' width='700px' /><br/>
+Google is expanding its .new browser shortcuts to Google Meet, its video conferencing service that the company has heavily expanded in recent months due to a huge influx of users looking to stay connected in COVID-19 quarantines, via 9to5Google.
+<a href='https://www.theverge.com/2020/6/19/21296965/google-meet-dot-new-shortcut-quick-start-new-video-conferences-g-suite'> Source <a/>
