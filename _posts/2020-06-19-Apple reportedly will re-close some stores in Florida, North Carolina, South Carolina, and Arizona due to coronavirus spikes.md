@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TP1_1UI0BlPey9l4X7QiNo-XMuU=/0x0:1100x733/1200x800/filters:focal(462x279:638x455)/cdn.vox-cdn.com/uploads/chorus_image/image/66958411/apple-store-beijing.0.jpg' width='700px' /><br/>
+Apple is closing several recently reopened retail stores in four US states after a resurgence in COVID-19 cases, Bloomberg reported. A total of 11 stores in Florida, Arizona, North Carolina, and South Carolina will be temporarily shuttered.
+<a href='https://www.theverge.com/2020/6/19/21296975/apple-close-stores-again-florida-arizona-north-carolina-south-carolina-coronavirus-spike'> Source <a/>
