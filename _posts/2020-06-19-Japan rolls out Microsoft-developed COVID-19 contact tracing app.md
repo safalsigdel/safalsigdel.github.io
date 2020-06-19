@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zWPcAatQlenl_ierBMNx0lBEpYY=/0x0:2026x1038/1200x0/filters:focal(0x0:2026x1038):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20043254/Screen_Shot_2020_06_19_at_15.41.12.png' width='700px' /><br/>
+Japan's government today released its coronavirus contact tracing app for iOS and Android. The apps rely on Apple and Google's co-developed exposure notification platform, using Bluetooth to help determine whether users have come into close contact with others who have tested positive for COVID-19.
+<a href='https://www.theverge.com/2020/6/19/21296603/japan-covid-19-contact-tracking-app-cocoa-released'> Source <a/>
