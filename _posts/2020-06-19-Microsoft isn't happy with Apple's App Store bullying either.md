@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pbwCbu_mcrgNxKcAkwHVzxZs08E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66957000/acastro_180507_1777_microsoft_0001.0.jpg' width='700px' /><br/>
+Microsoft believes it's time for antitrust regulators to fully investigate Apple's App Store. Speaking during a Politico interview this week, Microsoft's chief legal officer Brad Smith outlined Apple's walled garden approach to its App Store, and how it's affecting competition.
+<a href='https://www.theverge.com/2020/6/19/21296657/microsoft-apple-app-store-antitrust-comments'> Source <a/>
