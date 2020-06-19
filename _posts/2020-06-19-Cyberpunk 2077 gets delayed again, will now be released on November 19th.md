@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SZ8Dv7HZL7NIFRmlk3B7aVIvSsA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66952689/screen_a_mercenary_on_the_rise_en.0.jpg' width='700px' /><br/>
-Cyperpunk 2077 — the highly anticipated open-world RPG — has been delayed again and is moving from its planned September 17th release date to November 19th, developer CD Projekt Red announced today on Twitter.
-<a href='https://www.theverge.com/2020/6/18/21295705/cyberpunk-2077-delayed-again-release-date-november-19th-bug-fixes-balance-cd-projekt-red'> Source <a/>
