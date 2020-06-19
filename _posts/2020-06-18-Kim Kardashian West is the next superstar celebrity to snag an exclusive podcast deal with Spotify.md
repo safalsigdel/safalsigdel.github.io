@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KmT-HSLYjHz6jVELK93iPcFZhCg=/0x0:1020x675/1200x800/filters:focal(398x89:560x251)/cdn.vox-cdn.com/uploads/chorus_image/image/66948958/Kim_Kardashian_3.0.0.jpg' width='700px' /><br/>
-Kim Kardashian West has entered into a deal with Spotify to produce and host a new exclusive podcast. The deal follows Spotify's landmark contract last month with podcast juggernaut Joe Rogan, who is moving his podcast The Joe Rogan Experience to the music streaming platform this later this year. The Wall Street Journal first reported Kardashian West's deal on Wednesday.
-<a href='https://www.theverge.com/2020/6/17/21294863/kim-kardashian-west-spotify-exclusive-podcast-innocence-project-deal-announced'> Source <a/>

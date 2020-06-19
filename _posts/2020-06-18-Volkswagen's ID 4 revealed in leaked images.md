@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5Ddr70WKLvtGGwwfNpyy8l10ttc=/0x0:1080x809/1200x800/filters:focal(454x319:626x491)/cdn.vox-cdn.com/uploads/chorus_image/image/66948480/VW_ID4_Uncovered_2_copy.0.jpg' width='700px' /><br/>
-Volkswagen's first all-electric SUV, the ID 4, has broken cover thanks to leaked images from China's Ministry of Industry and Information Technology that were picked up by a VW fan forum.
-<a href='https://www.theverge.com/2020/6/17/21294705/vw-volkswagen-id-4-crozz-leaked-images-electric-suv'> Source <a/>

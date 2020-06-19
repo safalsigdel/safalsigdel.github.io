@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KX9-TsoAndD9RGeBg2UKKVsGjvg=/0x0:1400x800/1200x800/filters:focal(588x288:812x512)/cdn.vox-cdn.com/uploads/chorus_image/image/66954490/healthy_at_work.0.jpg' width='700px' /><br/>
+Verily Life Sciences has announced an app-based health screening service for businesses and schools trying to reopen amid the coronavirus pandemic. The product, called Healthy at Work, will provide COVID-19 diagnostic testing for employees.
+<a href='https://www.theverge.com/2020/6/18/21295798/verily-healthy-at-work-testing-reopen-coronavirus'> Source <a/>

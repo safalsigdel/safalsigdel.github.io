@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oJCI0WhuhfLWdb5-8Ya1m285l8Q=/0x0:1020x676/1200x800/filters:focal(429x257:591x419)/cdn.vox-cdn.com/uploads/chorus_image/image/66944915/t-mobile-logo-stock-store_1020.0.jpg' width='700px' /><br/>
+If you've been wondering what could knock out one of the United States' three big cellular carriers' ability to deliver calls and text messages — and keep it that way for most of an entire day — T-Mobile now has a partial answer that pertains to its extensive nationwide outage Monday.
+<a href='https://www.theverge.com/2020/6/17/21293950/t-mobile-outage-june-explainer'> Source <a/>

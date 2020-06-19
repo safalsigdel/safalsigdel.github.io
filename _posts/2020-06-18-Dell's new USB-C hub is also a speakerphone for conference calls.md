@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-With a huge chunk of the working world now working remotely, conference calls in Zoom or Skype have become a central part of day-to-day life. So Dell is adapting with a new Mobile Adapter Speakerphone, which combines a USB-C hub that adds HDMI or USB-A ports with a conference call-style speakerphone for better audio quality.
-<a href='https://www.theverge.com/circuitbreaker/2020/6/17/21294891/dell-usb-c-hub-speakerphone-conference-calls-zoom-skype'> Source <a/>

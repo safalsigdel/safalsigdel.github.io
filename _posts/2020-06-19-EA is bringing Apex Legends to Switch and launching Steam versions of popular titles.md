@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n1QS3GxPUpu5hlNtao45Wq56i5E=/0x0:1454x818/1200x800/filters:focal(376x284:608x516)/cdn.vox-cdn.com/uploads/chorus_image/image/66955501/apex_screenshot_bloodhound_raven.jpg.adapt.crop16x9.818p.0.jpg' width='700px' /><br/>
+EA announced today that popular battle royale shooter Apex Legends will be coming to the Nintendo Switch and Steam this fall. The game has only been available on PC via Origin, Xbox One, and PlayStation 4 since it launched in February 2019. Apex Legends developer Respawn said the game would be getting crossplay this fall as well.
+<a href='https://www.theverge.com/2020/6/18/21296353/ea-apex-legends-switch-steam-crossplay-titanfall-2-sims-4-way-out'> Source <a/>

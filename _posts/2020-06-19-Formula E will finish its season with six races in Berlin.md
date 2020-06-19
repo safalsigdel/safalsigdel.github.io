@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aOoV7IMX8QSp_HtW4k7JQxWlZa8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66953196/formula_e_8415.0.jpg' width='700px' /><br/>
+All-electric racing series Formula E has announced plans to resume and conclude its pandemic-interrupted sixth season in August. The series will put on six races in nine days at Tempelhof Airport, a familiar location for Formula E. As a result, races scheduled in cities like New York and London won't be held.
+<a href='https://www.theverge.com/2020/6/18/21295739/formula-e-finish-season-6-resume-berlin-tempelhof-covid-19'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oPnBF0Ez7ctTBrVRtY8YNqkwwyY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66948745/acastro_191014_1777_google_pixel_0004.0.0.jpg' width='700px' /><br/>
-Google is committing to spending more than $175 million on racial equity initiatives with a focus on financing black-owned businesses and supporting black entrepreneurs. The funding was announced by Google CEO Sundar Pichai on Wednesday alongside a number of other commitments and changes meant to fight anti-black racism and support black Google employees and their families.
-<a href='https://www.theverge.com/2020/6/17/21294692/google-175-million-racial-equity-black-businesses-entrepreneurs-commitment'> Source <a/>

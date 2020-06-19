@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YFLd_tNg8ikjErdiQpkH3iyG9yc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66955640/acastro_180608_1777_EA_0002.0.jpg' width='700px' /><br/>
+This year, Electronic Arts, like many of the giant video game publishers, switched from what would normally have been a massive E3 press conference in Los Angeles to a virtual-only event called EA Play Live.
+<a href='https://www.theverge.com/2020/6/18/21296325/ea-play-live-5-biggest-news-star-wars-squadrons-apex-legends-switch-steam-crossplay'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ruzrCEisF13KLFgr1uOhrsCyWQQ=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66953955/VRG_ILLO_4069_Vergecast__Cicilline_DHH_2.0.jpg' width='700px' /><br/>
+Apple is acting like a monopolist and a bully, according to the chairman of the House antitrust subcommittee.
+<a href='https://www.theverge.com/2020/6/18/21295778/apple-app-store-hey-email-fees-policies-antitrust-wwdc-2020'> Source <a/>

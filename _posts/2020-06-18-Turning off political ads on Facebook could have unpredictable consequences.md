@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Aoi7vQ_BGP01jugyqrNRbPNRKPU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66950515/akrales_180614_1777_0110.0.jpg' width='700px' /><br/>
-Programming note: The Interface is off on Thursday. Back on Monday.
-<a href='https://www.theverge.com/interface/2020/6/18/21294232/facebook-political-ads-toggle-off-effects-voter-registration-information-module'> Source <a/>
