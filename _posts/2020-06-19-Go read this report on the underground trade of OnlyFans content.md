@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CFwM4zjmq4S4g3_SaOOG6GYLX6o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66953448/acastro_200227_1777_onlyfans_0001.0.jpg' width='700px' /><br/>
-OnlyFans allows social media influencers, including sex workers and adult content creators, to sell photos and videos to their audience through a subscription model. But there are a number of tools that allow internet crooks to download and reshare photos and videos from OnlyFans profiles without their creators' knowledge or consent.
-<a href='https://www.theverge.com/2020/6/18/21295727/onlyfans-scrapers-sex-workers-videos-piracy-vice-motherboard'> Source <a/>
