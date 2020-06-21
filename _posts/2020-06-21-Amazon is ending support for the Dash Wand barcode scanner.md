@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zpg51b0davfLWDbCddd4H4pBvu0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66962916/akrales_170620_1791_0015.0.jpg' width='700px' /><br/>
+Amazon is ending support for its Dash Wand, an Alexa-enabled device that let shoppers scan grocery barcodes and order household essentials from their homes. In an email to users, the company said the devices will no longer be supported as of July 21st. Shoppers can still use other Alexa-enabled devices to add items to a shopping list, the company noted.
+<a href='https://www.theverge.com/2020/6/21/21298198/amazon-alexa-support-dash-wand-shopping'> Source <a/>

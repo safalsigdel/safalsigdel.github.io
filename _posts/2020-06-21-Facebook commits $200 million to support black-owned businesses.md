@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F9P4zl_sLlCN8cUEpeuPoKe5dxE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66955386/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook will spend $200 million to support black-owned businesses and organizations in the US, COO Sheryl Sandberg said in a blog post. It is one of several Facebook initiatives announced today to support black communities.
-<a href='https://www.theverge.com/2020/6/18/21296110/facebook-200-million-lift-black-voices-businesses-creators-diversity'> Source <a/>

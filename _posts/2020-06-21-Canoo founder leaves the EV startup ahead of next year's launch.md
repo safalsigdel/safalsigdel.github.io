@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_JbDx-KY9u1vdamppocNqtGBf58=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66955132/canoo_Design_Exterior_02.0.jpg' width='700px' /><br/>
-The founder and first CEO of EV startup Canoo is leaving, the company has confirmed to The Verge. Stefan Krause, the former chief financial officer at both BMW and Deutsche Bank, is stepping down as chairman after shifting away from the CEO role last year. Krause is leaving ahead of the anticipated launch of his EV startup's first vehicle, which is slated to happen in 2021.
-<a href='https://www.theverge.com/2020/6/18/21277248/canoo-ev-startup-stefan-krause-leaving-evelozcity'> Source <a/>
