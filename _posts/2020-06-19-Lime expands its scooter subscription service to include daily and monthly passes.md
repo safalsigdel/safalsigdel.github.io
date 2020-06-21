@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xLUX01MdjLWCBx0sfYZ03NOVYmQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66954399/akrales_190321_3312_0028.0.jpg' width='700px' /><br/>
-Lime is expanding its subscription service LimePass to include daily and monthly passes. It's an attempt by the scooter company to lock in consumers over time in a market with nearly identical products and pricing schemes.
-<a href='https://www.theverge.com/2020/6/18/21295903/lime-pass-subscription-daily-monthly-scooter'> Source <a/>

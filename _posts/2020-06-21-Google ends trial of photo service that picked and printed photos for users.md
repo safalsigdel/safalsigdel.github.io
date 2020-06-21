@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JiI9ph8NHPLIbQVLQN3kleL8S3Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66960985/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
+Google is ending the trial program of a service that sent users algorithm-selected prints from their Google Photos libraries, Droid Life reported. The subscription-based service launched in the US in February with a monthly fee of $7.99 that got you 10 4x6 prints from the previous 30 days.
+<a href='https://www.theverge.com/2020/6/20/21297644/google-photos-algorithm-prints-subscription'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K37RPieazvkc3DoHeJQiiTWlNv0=/0x0:5739x3826/1200x800/filters:focal(2131x591:3049x1509)/cdn.vox-cdn.com/uploads/chorus_image/image/66961728/1208432853.jpg.0.jpg' width='700px' /><br/>
+Neighborhood social networking app Nextdoor says it is discontinuing its Forward to Police feature which let users send message board posts directly to local police, Bloomberg CityLab reported. The site has been under increasing scrutiny for how it handles communications with law enforcement, and for how it handles racism among members on its app.
+<a href='https://www.theverge.com/2020/6/20/21297876/nextdoor-forward-police-racism-messages'> Source <a/>

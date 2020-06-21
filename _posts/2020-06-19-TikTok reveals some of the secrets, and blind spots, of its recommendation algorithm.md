@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q_9lWqwonpoEfqKVmfw0Elbn2NY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66954562/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-Like many social media platforms and apps, TikTok feeds are built using a recommendation algorithm that uses a number of tools and factors to personalize it for each person. Now, TikTok has published a new blog post explaining how its recommendation feed works, and it includes tips for personalizing the feed to avoid being served random videos you might not be interested in.
-<a href='https://www.theverge.com/2020/6/18/21296044/tiktok-for-you-page-algorithm-sides-engagement-data-creators-trends-sounds'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q8CCClUjok-JinQtp61k05iTILw=/0x0:1632x918/1200x800/filters:focal(686x329:946x589)/cdn.vox-cdn.com/uploads/chorus_image/image/66960653/Apple_wwdc2020_03132020_big.jpg.large_2x.0.jpg' width='700px' /><br/>
+Apple's annual Worldwide Developers Conference (WWDC) keynote is happening on Monday, June 22nd, but in a very different form than usual, due to the COVID-19 pandemic.
+<a href='https://www.theverge.com/2020/6/20/21295380/apple-wwdc-2020-ios-14-ipados-watchos-7-arm-mac-rumors'> Source <a/>

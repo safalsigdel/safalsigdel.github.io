@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YSaEj_i3AdHR-gVbehUH8LPvw_U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66953495/acastro_190923_twitch_0003.0.0.jpg' width='700px' /><br/>
-TwitchCon San Diego, the streaming platform's big annual conference in the US, has been canceled due to the pandemic.
-<a href='https://www.theverge.com/2020/6/18/21175839/twitchcon-2020-san-diego-coronavirus-event-canceled'> Source <a/>
