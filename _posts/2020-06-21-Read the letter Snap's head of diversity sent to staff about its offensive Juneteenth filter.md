@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Gdu5jyXgazmVObheewmeGFqwoxs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66963087/snapEyes.0.jpg' width='700px' /><br/>
+Snap's vice president of diversity and inclusion apologized this weekend for the distribution of a Juneteeth filter that many people found offensive and offered new details about the how it was created. In an email distributed to the company, Oona King said the filter released Friday was a collaboration between black and white employees — and pushed back against criticism that the company had been culturally insensitive.
+<a href='https://www.theverge.com/2020/6/21/21298251/snap-juneteenth-filter-lens-oona-king-statement-snapchat'> Source <a/>

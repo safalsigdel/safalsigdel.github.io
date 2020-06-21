@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3V2M5wLTCq6PG8preB2XHLBBQvg=/0x0:2162x1244/1200x0/filters:focal(0x0:2162x1244):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20042683/Screen_Shot_2020_06_18_at_7.39.28_PM.png' width='700px' /><br/>
-After a teaser trailer earlier this week, EA has finally shown off some actual gameplay footage for Star Wars: Squadrons, its new starfighter dogfighting game. As promised, the new title is a first-person space shooter focused around five-on-five team battles, as players group up into their own squadron (made up, of course, of classic Star Wars ships).
-<a href='https://www.theverge.com/2020/6/18/21296363/star-wars-squadrons-first-gameplay-footage-ea-play-live-2020'> Source <a/>
