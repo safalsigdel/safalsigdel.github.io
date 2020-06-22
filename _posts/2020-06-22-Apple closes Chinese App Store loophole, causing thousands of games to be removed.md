@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/npO928ZTb60aNMol9nQWOXB4ES8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66964888/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
+Apple will start removing thousands of games from its Chinese App Store in July as a result of a policy that requires all paid games or games with in-app purchases to be licensed by Chinese regulators, Bloomberg reports. The action marks the end of a loophole that allowed developers to sell games on the platform while they were awaiting approval.
+<a href='https://www.theverge.com/2020/6/22/21298811/apple-chinese-app-store-loophole-unapproved-regulators-censor'> Source <a/>
