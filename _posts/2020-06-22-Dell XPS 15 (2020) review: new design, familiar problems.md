@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TBNMWP4Cm9NeRKt59Kk5eLRWotc=/0x0:2040x1360/1200x675/filters:focal(801x584:1127x910)/cdn.vox-cdn.com/uploads/chorus_image/image/66965284/mchin_180905_4061_0009.0.jpg' width='700px' /><br/>
+After several years of the same stale, hefty chassis, the Dell XPS 15 finally has a new look. It's a similar redesign to the one the XPS 13 got earlier this year, and the same caveats apply. Listed out here, the tweaks Dell has made may seem insignificant, but they add up to a machine that looks and feels like an upgrade.
+<a href='https://www.theverge.com/21296277/dell-xps-15-2020-review-design-specs-price-features'> Source <a/>
