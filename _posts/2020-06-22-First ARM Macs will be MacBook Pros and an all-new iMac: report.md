@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5JqMLre27bm25rwE_GT5TObWZg8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66964152/dbohn_200506_4012_0007.0.jpg' width='700px' /><br/>
+Apple is set to unveil its long-awaited Mac transition from Intel to ARM processors today at its online WWDC 2020 keynote, and analyst Ming-chi Kuo has issued his predictions for the first Macs that will use the new Apple-designed processors. His research note was reported on by MacRumors, 9to5Mac, and AppleInsider.
+<a href='https://www.theverge.com/2020/6/21/21298607/first-arm-mac-macbook-pro-imac-ming-chi-kuo-wwdc-2020'> Source <a/>

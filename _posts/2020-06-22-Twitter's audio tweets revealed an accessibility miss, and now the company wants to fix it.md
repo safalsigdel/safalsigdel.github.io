@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bif1N4zRc232rcC1XCmlhWPHKfg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66955722/acastro_180827_1777_0002.5.jpg' width='700px' /><br/>
-Twitter doesn't have a team dedicated to accessibility, instead relying on employees who volunteer their time above and beyond their usual duties, and the company may have already realized that's a mistake — after taking flak for the lack of captions in Twitter's brand-new audio tweet feature, the company tells The Verge that it's exploring how to build a “more dedicated group” to focus on accessibility problems.
-<a href='https://www.theverge.com/2020/6/18/21296032/twitter-audio-tweets-accessibility-volunteers'> Source <a/>
