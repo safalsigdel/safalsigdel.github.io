@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D57TI0Fo8MPkRJniGoAJ19SguV0=/0x0:3673x2255/1200x800/filters:focal(1544x835:2130x1421)/cdn.vox-cdn.com/uploads/chorus_image/image/66958032/1212814327.jpg.0.jpg' width='700px' /><br/>
-In an abrupt about-face, the movie theater chain AMC said Friday it would require guests to wear face masks when its theaters reopen, after CEO Adam Aron earlier said it would not.
-<a href='https://www.theverge.com/2020/6/19/21296698/amc-theaters-ceo-masks-coronavirus-covid-19-adam-aron-reopening'> Source <a/>
