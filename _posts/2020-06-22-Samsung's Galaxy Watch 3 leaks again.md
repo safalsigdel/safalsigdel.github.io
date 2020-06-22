@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Crf00L3_eAW4LK2QSH73vI54pMo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66964564/jbareham_180828_2902_0017.0.jpg' width='700px' /><br/>
+Less than a week after getting a glimpse at Samsung's Galaxy Watch 3, more photos of the wearable have apparently leaked from TechTalkTV. This time the smart watch's screen is turned on, showing us a familiar looking interface that strongly suggests we're looking at another Tizen-powered smartwatch from Samsung.
+<a href='https://www.theverge.com/2020/6/22/21298773/samsungs-galaxy-watch-3-leaked-images-tizen-os-app-icons-screen'> Source <a/>
