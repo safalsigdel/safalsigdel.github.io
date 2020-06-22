@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8q8fY1AxyWGhiqw7P3_qCBaStlg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66964601/vrg_vup_213_what_to_expect_from_wwdc_2015_still.0.0.0.0.jpg' width='700px' /><br/>
-Apple's Worldwide Developers Conference (WWDC) is going to be entirely virtual this year, but that doesn't mean there won't be some really interesting stuff to see. The keynote will start at 10AM PT / 1PM ET on Monday, June 22nd.
-<a href='https://www.theverge.com/2020/6/22/21292837/apple-wwdc-2020-event-watch-live-stream-start-time-keynote'> Source <a/>
