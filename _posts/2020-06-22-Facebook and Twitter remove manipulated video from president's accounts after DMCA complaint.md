@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZUkPUNtK6jVh4UszggWAKx-pYFw=/0x0:5351x3819/1200x800/filters:focal(1719x1903:2575x2759)/cdn.vox-cdn.com/uploads/chorus_image/image/66959397/1250535989.jpg.0.jpg' width='700px' /><br/>
-Facebook has removed a manipulated video posted on President Trump's account after receiving a copyright complaint from the rights owners.
-<a href='https://www.theverge.com/2020/6/19/21297209/facebook-removes-manipulated-toddler-video-president-trump-copyright-claim-dmca-jukin'> Source <a/>
