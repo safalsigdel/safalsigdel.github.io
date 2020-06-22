@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RCkz345UVfMOTXDm_4T8yC5Z_5I=/0x0:1960x1104/1200x800/filters:focal(824x396:1136x708)/cdn.vox-cdn.com/uploads/chorus_image/image/66965157/Apple_details_for_WWDC2020_06022020.0.jpg' width='700px' /><br/>
+Apple's Worldwide Developers Conference kicks off on June 22nd, with the event keynote set for 1PM ET. But this year's conference is much different than previous years: instead of a packed in-person conference, the show will be all-virtual due to the pandemic.
+<a href='https://www.theverge.com/2020/6/22/21295032/apple-wwdc-2020-developers-conference-updates-news-keynote-ios-14-macos'> Source <a/>
