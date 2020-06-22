@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o_rN-z56q2xALd4cahXliI6Ez90=/1054x0:2000x988/1200x800/filters:focal(894x344:1214x664)/cdn.vox-cdn.com/uploads/chorus_image/image/66965529/Screen_Shot_2020_06_22_at_8.10.31_AM.0.png' width='700px' /><br/>
+After making a name for himself on YouTube by giving away lumps of cash to his friends, family, and unsuspecting strangers around the country, Jimmy “MrBeast” Donaldson is opening his latest game to anyone.
+<a href='https://www.theverge.com/2020/6/22/21297151/mrbeast-mschf-finger-app-game-youtube-cash-prize-pool-date-time'> Source <a/>

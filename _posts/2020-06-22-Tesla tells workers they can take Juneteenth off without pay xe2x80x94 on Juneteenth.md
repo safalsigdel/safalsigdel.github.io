@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fslFfDfCkKAPbH-Td5iTSObxz1I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66958475/sokane_181116_3101_fremont_0056.0.jpg' width='700px' /><br/>
-Tesla has told its workers they are allowed to take Juneteenth off as an “excused absence” after some had already showed up for work on the holiday that recognizes the end of slavery in the United States, according to internal emails first reported by BuzzFeed and CNBC. The company also told employees that they would not be paid if they don't show up.
-<a href='https://www.theverge.com/2020/6/19/21296973/tesla-employees-juneteenth-emails-unpaid-day-off-protest'> Source <a/>
