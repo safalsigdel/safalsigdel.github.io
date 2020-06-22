@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/snEo7BFBVh6kEmP1pNIG55KduDI=/0x0:1960x1102/1200x675/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/66965870/Apple_details_for_WWDC2020_06022020_big.jpg.large_2x.0.jpg' width='700px' /><br/>
+Apple's annual Worldwide Developers Conference kicks off today. Apple has chosen to make it an entirely online affair, with the keynote beginning a week of sessions for developers. For the rest of us, the main show will be the expected updates to iOS, iPadOS, macOS, tvOS, and watchOS.
+<a href='https://www.theverge.com/2020/6/22/21294309/wwdc-2020-apple-live-blog-ios-14-ipados-watchos-7'> Source <a/>

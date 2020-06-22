@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Rr6k2HAHSvVV5J1RJB0PppZWGOA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66957478/snapChatPattern_BW.0.jpg' width='700px' /><br/>
-Snapchat is apologizing for a controversial Juneteenth filter that allowed users to “smile and break the chains,” saying the filter had not gone through its usual review protocols. The filter was panned by critics on Friday morning shortly after its release for its tone deafness, and was disabled by about 11AM ET.
-<a href='https://www.theverge.com/2020/6/19/21296713/snapchat-juneteenth-filter-smile-chains-controversial'> Source <a/>
