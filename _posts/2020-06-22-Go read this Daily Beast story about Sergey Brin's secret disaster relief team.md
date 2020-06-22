@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OcQJBqkTxwCYNoYzcpfGb6QgUro=/0x0:3936x2952/1200x800/filters:focal(1311x986:1939x1614)/cdn.vox-cdn.com/uploads/chorus_image/image/66963221/1172241528.jpg.0.jpg' width='700px' /><br/>
+[extreme Stefon voice]: This story has everything: A high-speed super-yacht, a secret disaster strike force, a Google co-founder, and strawberry ice cream.
+<a href='https://www.theverge.com/2020/6/21/21298289/go-read-this-sergey-brin-disaster-yacht-google'> Source <a/>
