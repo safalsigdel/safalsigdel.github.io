@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CsDxG7c0Ao0xcNlR0UIF57FubOg=/0x0:1000x502/1200x800/filters:focal(420x171:580x331)/cdn.vox-cdn.com/uploads/chorus_image/image/66956670/keen.0.png' width='700px' /><br/>
-Google's Area 120 team, an internal incubator that creates experimental apps and services, has launched Keen: a would-be Pinterest rival that draws on the search giant's machine learning expertise to curate topics. Available today on the web and Android, co-founder CJ Adams says Keen aims to be an alternative to “mindlessly” browsing online feeds.
-<a href='https://www.theverge.com/2020/6/19/21296636/google-keen-pinterest-rival-ai-machine-learning'> Source <a/>
