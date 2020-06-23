@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R8sKDgwTuJHXKvALOqsKA7f9Y0k=/0x0:2048x946/1200x800/filters:focal(861x310:1187x636)/cdn.vox-cdn.com/uploads/chorus_image/image/66966537/EbIhPRkUcAAAVu8.0.jpg' width='700px' /><br/>
-Apple has announced at this year's WWDC that the company's adding a long-awaited feature to its default Maps app when iOS 14 drops: cycling directions. But Apple is only launching in New York, Los Angeles, San Francisco, Shanghai, and Beijing, and it didn't immediately say when it will expand into other parts of the world.
-<a href='https://www.theverge.com/2020/6/22/21299325/apple-ios14-maps-updates-cycling-directions-electric-charging-wwdc-2020'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TDBU3tPUIP7Q4TMX8UhNPUDMWlU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66968969/acastro__171016_1777_0001_v5.0.jpg' width='700px' /><br/>
+Happy Worldwide Developer Conference to those who celebrate. I spent the weekend watching three stories unfold at the intersection of social networks and politics. Let's take them in turn.
+<a href='https://www.theverge.com/interface/2020/6/23/21299152/trump-facebook-post-removed-tiktok-teens-tulsa-trump-rally-snapchat-filter-apology'> Source <a/>
