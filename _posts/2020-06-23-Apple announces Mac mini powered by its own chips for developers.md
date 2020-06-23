@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_i-AqSsXkmr6yaRD4CiozRfmTCE=/0x0:2128x1494/1200x800/filters:focal(894x577:1234x917)/cdn.vox-cdn.com/uploads/chorus_image/image/66967005/Screen_Shot_2020_06_22_at_2.48.50_PM.0.png' width='700px' /><br/>
-After it confirmed that future Macs will be powered by Apple Silicon, the company also announced that developers will soon have access to a Developer Transition Kit that will take the form of a Mac mini.
-<a href='https://www.theverge.com/2020/6/22/21299275/apple-mac-mini-developer-transition-kit-silicon-chip-wwdc-2020'> Source <a/>

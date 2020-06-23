@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mSCnZ_UzSHsb1EaG01OtN7mnObA=/0x0:2218x1248/1200x0/filters:focal(0x0:2218x1248):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20047021/JGcnD9G.jpg' width='700px' /><br/>
-Apple's WWDC 2020 was unique before it even began. It's the first time Apple's developer conference has been streamed exclusively online with no in-person event. Regardless, there were some big announcements, including some you might have been expecting and others that might catch you by surprise.
-<a href='https://www.theverge.com/2020/6/22/21299042/apple-wwdc-2020-recap-biggest-announcements-ios-ipados-macos-silicon-chips-mac'> Source <a/>
