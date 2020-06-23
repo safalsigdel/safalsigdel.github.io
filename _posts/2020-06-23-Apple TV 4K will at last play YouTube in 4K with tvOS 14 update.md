@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lVRNegRIi3Tbj5RZba8EZz1OAMg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66967574/cwelch_200205_3895_0001.0.jpg' width='700px' /><br/>
-One of the biggest upgrades coming to tvOS 14 is one that Apple didn't mention during today's WWDC presentation. Buried on the preview page for the update (coming this fall) is news that YouTube content will finally be able to be viewed in 4K starting with tvOS 14.
-<a href='https://www.theverge.com/2020/6/22/21299637/apple-tv-youtube-4k-tvos-14'> Source <a/>

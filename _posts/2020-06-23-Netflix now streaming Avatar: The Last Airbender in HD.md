@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hUvcBA_tTYT51cX37kyob67SXoY=/0x0:1445x1078/1200x800/filters:focal(614x175:844x405)/cdn.vox-cdn.com/uploads/chorus_image/image/66967458/avatar_hd.0.jpeg' width='700px' /><br/>
-Based on my Twitter, Instagram, and TikTok feeds, practically everyone is streaming Avatar: The Last Airbender on Netflix — and based on those feeds, practically everyone is putting up with low-resolution quality. Thankfully on Sunday, Netflix announced that Avatar: The Last Airbender is now streaming in HD.
-<a href='https://www.theverge.com/21299546/avatar-the-last-airbender-hd-stream-netflix-upgrade-nickelodeon'> Source <a/>
