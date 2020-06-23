@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bYy_As3SJKmWHb3y6nf6UykrCCQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66969280/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
+“Passwords are one of the worst things on the internet,” Mark Risher, Google's senior director for account security, identity, and abuse told The Verge. Though they're essential for security and to help people log in to many apps and websites, “they're one of the primary, if not the primary, ways that people actually end up getting compromised.”
+<a href='https://www.theverge.com/2020/6/23/21299007/google-password-checkup-security'> Source <a/>
