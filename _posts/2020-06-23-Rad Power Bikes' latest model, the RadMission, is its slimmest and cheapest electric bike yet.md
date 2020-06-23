@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/emiBB4mZkLXVa8lHQIiqL45x0D0=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/66968384/RadMission_8.0.jpg' width='700px' /><br/>
-Rad Power Bikes, one of the top electric bike manufacturers in the US, is out with a new slimmed- and stripped-down city commuter called the RadMission Electric Metro Bike. This bike is no frills, with a single-speed drivetrain, a torquey 500W geared hub motor, and a battery that's somehow smaller than Rad Power Bikes' regular packs but just as powerful.
-<a href='https://www.theverge.com/21299601/rad-power-bike-radmission-electric-bike-ebike-price-specs'> Source <a/>
