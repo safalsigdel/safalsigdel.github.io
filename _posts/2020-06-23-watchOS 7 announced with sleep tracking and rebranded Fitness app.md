@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gQ64ix4yi3_jhfJB4sKF2Om-Nqg=/0x0:692x389/1200x800/filters:focal(291x140:401x250)/cdn.vox-cdn.com/uploads/chorus_image/image/66966607/Apple_watch_watchos7_06222020_big.jpg.medium.5.jpg' width='700px' /><br/>
-Apple today announced the latest version of its smartwatch operating system, watchOS 7, during its digital-only WWDC keynote. The update comes with some major new additions like a rebranded Activity app, now called Fitness, and sleep tracking.
-<a href='https://www.theverge.com/2020/6/22/21294434/apple-watchos-7-features-sleep-tracking-face-sharing-fitness-apps-2020'> Source <a/>

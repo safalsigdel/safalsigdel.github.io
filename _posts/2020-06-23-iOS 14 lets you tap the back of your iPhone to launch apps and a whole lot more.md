@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7-BbIMp2TezXUB6uZ_9AwE1cI7w=/0x0:1994x1136/1200x800/filters:focal(838x409:1156x727)/cdn.vox-cdn.com/uploads/chorus_image/image/66969165/back_tap.0.jpg' width='700px' /><br/>
+Yesterday at WWDC, Apple announced iOS 14, the latest version of its iPhone operating system. But, as is often the case with Apple, there were many features that didn't get mentioned on stage. One of these is “Back Tap” — a new accessibility feature that lets you double tap or triple tap the back of your iPhone to perform a custom task.
+<a href='https://www.theverge.com/2020/6/23/21300157/ios-14-hidden-feature-back-tap-accessibility-custom-commands'> Source <a/>
