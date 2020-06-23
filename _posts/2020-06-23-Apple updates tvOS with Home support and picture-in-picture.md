@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gRMloHxSuNKzM1GxN5KjuvQ3I7M=/0x0:1920x1080/1200x800/filters:focal(1453x320:1759x626)/cdn.vox-cdn.com/uploads/chorus_image/image/66966845/lcimg_b3e8f42f_606a_42f8_8985_948de155c61a.0.jpg' width='700px' /><br/>
-Apple has announced a variety of new features for its tvOS platform, adding better support for Apple's HomeKit accessories, a new picture-in-picture mode, and Microsoft's Elite 2 and Adaptive Xbox One controllers.
-<a href='https://www.theverge.com/2020/6/22/21299403/apple-tvos-update-home-support-picture-in-picture-wwdc-2020'> Source <a/>

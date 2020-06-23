@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4yKq1I45Y2FD_qtjj6KuiKNT4Y8=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66969510/acastro_190920_1777_mixer_0001.0.0.jpg' width='700px' /><br/>
+Microsoft's surprise closure of Mixer sees the company working with Facebook Gaming to transition streaming partners over to Facebook. It sounds like an easy win for Facebook Gaming, letting it obtain streamers who will help boost its streaming service, but it's difficult to find many Mixer streamers who are willing to move to Facebook instead of Amazon-owned Twitch.
+<a href='https://www.theverge.com/21300136/microsoft-mixer-closure-streamers-partners-move-twitch-facebook-gaming'> Source <a/>
