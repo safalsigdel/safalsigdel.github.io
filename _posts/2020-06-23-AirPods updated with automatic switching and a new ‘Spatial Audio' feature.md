@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GMKq2x99Ck6SR_3iFvId6bnU7pU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66966551/cwelch_191031_3763_0004.0.jpg' width='700px' /><br/>
-Apple has announced new features coming to its AirPods earbuds at WWDC: automatic switching between devices and a new “Spatial Audio” feature for 3D sound on its AirPods Pro earbuds.
-<a href='https://www.theverge.com/2020/6/22/21299362/apple-airpods-pro-update-automatic-switching-spatial-audio-wwdc-2020'> Source <a/>
