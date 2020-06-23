@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ksUMMfEcwX-yXE0iq5_FDaVZS_g=/0x0:2000x1335/1200x800/filters:focal(840x508:1160x828)/cdn.vox-cdn.com/uploads/chorus_image/image/66970604/Acer-Enduro-N3-EN314-51W-High_06.0.0.jpg' width='700px' /><br/>
+Acer has released Enduro, a new line of laptops and tablets designed to be used outdoors. The company claims the products can survive drops, extreme temperatures, and water exposure, while remaining portable enough to cart around.
+<a href='https://www.theverge.com/2020/6/23/21300283/acer-enduro-n3-n7-laptop-tablets-design-outdoor-price-specs'> Source <a/>
