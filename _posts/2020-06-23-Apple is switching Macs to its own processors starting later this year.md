@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m84De3en04vMHrP8CmqbCWAH4kc=/0x0:1829x1175/1200x800/filters:focal(769x442:1061x734)/cdn.vox-cdn.com/uploads/chorus_image/image/66966869/cX3afz7.0.png' width='700px' /><br/>
-Apple is officially moving to its own silicon chips for some of its Mac hardware. Calling it a “historic day for the Mac,” Apple CEO Tim Cook detailed the transitions to PowerPC, Mac OS X, and the move to Intel chips before unveiling its plans to use Apple's own ARM-powered silicon in Macs in the future. It's a big move that means macOS will support native iOS apps and macOS apps side by side on these new machines in the future.
-<a href='https://www.theverge.com/2020/6/22/21295475/apple-mac-processors-arm-silicon-chips-wwdc-2020'> Source <a/>

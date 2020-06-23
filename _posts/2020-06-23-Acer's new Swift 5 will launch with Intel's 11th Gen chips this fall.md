@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NLdwIFx3ygkDv4zNYjMyaADadKg=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/66969790/Acer_Swift_5_SF514_55_High_08.0.jpg' width='700px' /><br/>
+Acer has a new version of its Swift 5 laptop, and it appears to be the first announced laptop powered by one of Intel's upcoming 11th Gen processors, featuring the chipmaker's new integrated Xe graphics.
+<a href='https://www.theverge.com/2020/6/23/21298935/acer-swift-5-intel-11th-gen-chips-xe-graphics-integrated-bezels-update'> Source <a/>
