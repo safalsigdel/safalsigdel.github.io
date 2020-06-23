@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gDsj4sWaOqlyOyFmg5Z9epSYajM=/0x0:1080x607/1200x800/filters:focal(454x218:626x390)/cdn.vox-cdn.com/uploads/chorus_image/image/66967003/moX5OVW.0.png' width='700px' /><br/>
-At the Worldwide Developers Conference on Monday, Apple announced a range of new privacy features that will be bundled into iOS 14, including new protections against user tracking on apps and websites, as well as incremental updates to a range of pre-existing systems.
-<a href='https://www.theverge.com/2020/6/22/21299407/apple-ios-14-new-privacy-features-data-location-tracking-premissions-wwdc-2020'> Source <a/>

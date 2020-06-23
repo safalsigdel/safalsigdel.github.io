@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aIFLK2-sut95o6EYORfK6WiVaxE=/0x0:2160x1314/1200x800/filters:focal(908x485:1252x829)/cdn.vox-cdn.com/uploads/chorus_image/image/65977456/Screen_Shot_2019_12_27_at_2.12.43_PM.0.png' width='700px' /><br/>
+If you like to work with a music video playing in the background or watch your favorite sports team while perusing social media or maybe if you simply like doing two things at once, picture-in-picture (PiP) can be really useful. It lets you pin a small window showing a video within a larger window on your computer or TV screen.
+<a href='https://www.theverge.com/2019/12/27/21039447/pip-picture-in-picture-mac-safari-youtube-video-how-to-watch'> Source <a/>
