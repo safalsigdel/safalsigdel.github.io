@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AKBFGcnB6C06k3pPfnZuzPj9A7M=/0x0:1108x552/1200x800/filters:focal(466x188:642x364)/cdn.vox-cdn.com/uploads/chorus_image/image/66971363/Android_public_preview2.0.png' width='700px' /><br/>
+Microsoft is launching a preview version of its antivirus software for Android today. The software giant revealed that Windows Defender was making its way to both iOS and Android earlier this year, but didn't fully detail what to expect. We're now getting a good idea of exactly why Microsoft thinks Android needs antivirus protection.
+<a href='https://www.theverge.com/2020/6/23/21300596/microsoft-defender-android-atp-download-app-preview-features'> Source <a/>
