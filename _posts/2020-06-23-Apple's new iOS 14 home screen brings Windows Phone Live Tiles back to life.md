@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HH8AhbAKHKfcEhvWvhlx5gOVsoA=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/66970431/twarren_ios14livetileswindowsphone_1.0.jpg' width='700px' /><br/>
+Microsoft showed off the future of mobile home screens a decade ago with Windows Phone. The key to the vibrant interface was Live Tiles, animated widgets that felt alive. Nothing has lived up to it ever since.
+<a href='https://www.theverge.com/21299727/apple-ios-14-home-screen-widgets-windows-phone-live-tiles'> Source <a/>
