@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HvHXFacKRtpPOdpYxP382nvFdMk=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66966857/acastro_190920_1777_mixer_0002.0.0.jpg' width='700px' /><br/>
+Microsoft is closing its Mixer service on July 22nd and plans to move existing partners over to Facebook Gaming. The surprise announcement means Mixer partners and streamers will be transitioned to Facebook Gaming starting today, and Microsoft will no longer operate Mixer as a service in a month's time.
+<a href='https://www.theverge.com/2020/6/22/21299032/microsoft-mixer-closing-facebook-gaming-partnership-xcloud-features'> Source <a/>

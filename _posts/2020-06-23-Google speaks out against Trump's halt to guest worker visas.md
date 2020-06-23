@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-ywXLxnLLpJF2kSxexSqO-D9N-s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66968220/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
+On Monday, President Trump issued a proclamation suspending a range of visa programs — including the guest worker visas, like the H-1B, commonly used by tech companies to attract overseas talent. The new restrictions apply primarily to new visa applicants or H1-B holders who are currently out of the country.
+<a href='https://www.theverge.com/2020/6/22/21299812/trump-guest-worker-h1-b-visa-google-tech-itic-internet-association'> Source <a/>

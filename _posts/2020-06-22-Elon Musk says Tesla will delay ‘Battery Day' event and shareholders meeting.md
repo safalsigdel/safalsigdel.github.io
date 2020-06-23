@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Sh1PJrDM6A13Bdv9KzvGP1EG0x8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66961203/tesla.0.jpg' width='700px' /><br/>
-Tesla CEO Elon Musk said Friday that the company's “Battery Day” event and its shareholders meeting, which was slated for July 7th,  will both be delayed until sometime after July 4th. The Battery Day event, where Tesla is expected to reveal details about its “million mile” battery, was originally planned for April but was bumped back to July due to the coronavirus pandemic.
-<a href='https://www.theverge.com/2020/6/20/21297685/elon-musk-tesla-battery-shareholders'> Source <a/>

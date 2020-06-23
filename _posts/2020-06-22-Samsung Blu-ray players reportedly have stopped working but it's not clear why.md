@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NO5M_wqdHKaeExw3oB4Qnpyp5-k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66961634/acastro_190503_1777_samsung_0001.0.0.jpg' width='700px' /><br/>
-Samsung Blu-ray players appear to be malfunctioning for hundreds of users, and no one is sure what the issue is, ZDNet reported. Some users report their Blu-ray players get stuck in an endless reboot loop when they're switched on, others reported hearing a buzzing noise as if the device is trying to read a disk, but in many cases there's no disk in the machine.
-<a href='https://www.theverge.com/2020/6/20/21297854/samsung-blu-ray-problems-ssl-firmware'> Source <a/>

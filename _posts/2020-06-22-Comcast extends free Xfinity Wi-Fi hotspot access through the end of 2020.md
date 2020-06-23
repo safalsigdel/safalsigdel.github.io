@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ff0GzobEIc2apS4JNPFbGT8QWIo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66960647/acastro_180525_1777_comcast_0002.0.jpg' width='700px' /><br/>
-Comcast will continue to offer free access to its 1.5 million public Xfinity Wi-Fi hotspots through the end of 2020, the company announced. “We saw a huge jump in usage after we opened up our public hotspots, and we're excited to keep them open through the end of the year as the nation begins taking steps to reopen,” the company said in a statement.
-<a href='https://www.theverge.com/2020/6/20/21296913/comcast-free-wifi-hotspot'> Source <a/>

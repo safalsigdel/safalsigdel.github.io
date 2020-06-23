@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qM32bDvGLKHtleD-H5948ld9fpo=/0x0:1080x607/1200x800/filters:focal(454x218:626x390)/cdn.vox-cdn.com/uploads/chorus_image/image/66966817/big_sur.0.jpeg' width='700px' /><br/>
+It's been a big day for Apple so far, with the announcements of iOS 14, iPadOS 14, watchOS 7, and tvOS 14. But for MacBook users, the exciting part of the day is just beginning. Apple has unveiled the next version of macOS: Big Sur.
+<a href='https://www.theverge.com/2020/6/22/21295489/apple-macos-big-sur-update-redesign-apps-features-catalyst-wwdc-2020'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D0I0QiYHNu6y9pw3thFD3TsHtSU=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/66968096/1251049818.jpg.0.jpg' width='700px' /><br/>
+Over 1,650 Google employees have signed an open letter to CEO Sundar Pichai demanding the company stop selling its technology to police forces across the US. The letter comes as protests against police brutality, spurred by the killing of George Floyd, continue to spread for the fifth straight week.
+<a href='https://www.theverge.com/2020/6/22/21299736/google-employees-cut-ties-police-law-enforcement-black-lives-matter'> Source <a/>

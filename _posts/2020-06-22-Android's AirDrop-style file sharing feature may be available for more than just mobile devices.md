@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qL_BBNku60XvrVntDOMk_kB9P28=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66963887/acastro_180413_1777_android_0001.0.jpg' width='700px' /><br/>
-Android's upcoming AirDrop-style sharing feature, called Nearby Share (and referred to also as Nearby Sharing), may also come to Chrome on numerous other platforms, 9to5Google reports. The feature will allow Android users to directly share photos, links, and other files with other devices, similar to how AirDrop works across macOS and iOS.
-<a href='https://www.theverge.com/2020/6/21/21298412/androids-airdrop-file-sharing-chrome-chromebooks-google'> Source <a/>

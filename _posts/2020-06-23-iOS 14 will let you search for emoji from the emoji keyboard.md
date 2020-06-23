@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Bey19bm8NCVWQLg0hsGEyrR-myY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66967382/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+iOS 14 will finally let you search for emoji right from the emoji keyboard, according to Apple's site listing all of the new iOS 14 features.
+<a href='https://www.theverge.com/2020/6/22/21299556/apple-ios-14-emoji-search-keyboard-wwdc-2020'> Source <a/>

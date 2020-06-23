@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZLidA33qHgiT_OcePmU4OK0euYI=/0x0:1080x607/1200x800/filters:focal(454x218:626x390)/cdn.vox-cdn.com/uploads/chorus_image/image/66966569/DgA2HK4.0.png' width='700px' /><br/>
+Apple is finally allowing iPhone and iPad owners to alter default email and browser apps in iOS 14 and iPadOS 14. The company briefly revealed the major change during a slide in the WWDC keynote today, noting that the updates allow users to “set default email and browser apps.”
+<a href='https://www.theverge.com/2020/6/22/21299342/apple-ipados14-default-apps-email-browser-choice-features-wwdc-2020'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/g-8AvvvhPsQPsFxh7F9W5cuxw7s=/0x0:2630x1456/1200x800/filters:focal(1105x518:1525x938)/cdn.vox-cdn.com/uploads/chorus_image/image/66967907/Screen_Shot_2020_06_22_at_5.42.50_PM.0.png' width='700px' /><br/>
+At WWDC, Apple announced its latest software for all its devices: iOS 14, iPadOS 14, watchOS 7, and macOS Big Sur. But that new software won't be coming to all of Apple's currently supported hardware — as is the case every year, a few older devices didn't make the cut. Here's what will — and won't — be getting software updates this year.
+<a href='https://www.theverge.com/2020/6/22/21299686/apple-ios-14-ipados-macos-big-sur-watchos-7-compatibility-update-new-software-wwdc-2020'> Source <a/>

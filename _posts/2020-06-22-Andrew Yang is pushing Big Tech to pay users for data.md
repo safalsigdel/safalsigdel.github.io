@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fkKRErIgQ1bq_CSKUCD3MgwoVmQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66965199/akrales_190411_3346_0075.0.jpg' width='700px' /><br/>
-Andrew Yang wants people to get paid for the data they create on big tech platforms like Facebook and Google, and with a new project launching on Monday, he believes he can make it happen.
-<a href='https://www.theverge.com/2020/6/22/21298919/andrew-yang-big-tech-data-dividend-project-facebook-google-ubi'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CmepROuamf-M8jLhpg-h3kQuA84=/0x0:3000x2029/1200x800/filters:focal(1307x1307:1787x1787)/cdn.vox-cdn.com/uploads/chorus_image/image/66965236/692666038.jpg.0.jpg' width='700px' /><br/>
-After rejecting an update last week, Apple has approved a new version of the subscription email app Hey.
-<a href='https://www.theverge.com/2020/6/22/21298552/apple-hey-email-app-approval-rules-basecamp-launch'> Source <a/>

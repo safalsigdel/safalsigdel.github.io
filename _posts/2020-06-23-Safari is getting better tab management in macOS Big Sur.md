@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xa7xogV2F6LDZGrh33xc13buIiw=/0x0:4260x2840/1200x800/filters:focal(2773x1247:3453x1927)/cdn.vox-cdn.com/uploads/chorus_image/image/66966896/safarinew.0.jpg' width='700px' /><br/>
+Apple unveiled macOS Big Sur, its next major desktop software update, and its Safari browser is getting a long-awaited, much-needed improvement: tab management. When things get crowded, as they usually do whether you're a power user or just got a little carried away, you'll be able to hover over a tab in the new Safari and it will show a live preview of that tab so you don't have to click into it.
+<a href='https://www.theverge.com/2020/6/22/21294068/apple-macos-10-16-big-sur-safari-update-features-redesign-wwdc-2020'> Source <a/>

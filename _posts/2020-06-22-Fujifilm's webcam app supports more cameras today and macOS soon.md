@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w47q0jQlIvQXrGsbKzNYCbTckvg=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/66964402/DSCF8146.0.0.jpg' width='700px' /><br/>
-Fujifilm recently joined Canon and Panasonic in developing an app to let you use its high-end cameras as high-quality webcams, but Mac users have been left out — Fujifilm X Webcam has so far been Windows-only. That's changing next month, though, as the company has confirmed that the tool will get Mac support in mid-July.
-<a href='https://www.theverge.com/2020/6/22/21298747/fujifilm-x-webcam-mac-support-more-cameras'> Source <a/>

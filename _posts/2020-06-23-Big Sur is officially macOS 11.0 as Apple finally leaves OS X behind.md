@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/klMmXpeL6-S8aefWHkH2TYTUFvE=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/66968185/mac_os_x.0.jpg' width='700px' /><br/>
+Mac OS X is finally finished, with Apple confirming that it's officially moving to macOS 11 with the newly announced Big Sur update after almost 20 years of OS X (or macOS 10.) That means that this fall, users will finally be upgrading from the 10.X versions that Apple has been using for nearly two decades to version 11.0.
+<a href='https://www.theverge.com/2020/6/22/21299799/macos-11-big-sur-os-x-apple-verison-number-end-era'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t49ijytcoii_ngShAe2dNsplJEA=/0x0:5378x3585/1200x800/filters:focal(2220x541:3080x1401)/cdn.vox-cdn.com/uploads/chorus_image/image/66966859/1204333022.jpg.0.jpg' width='700px' /><br/>
+Microsoft is shutting down Mixer and moving most of its streamers to Facebook Gaming as part of a strategic partnership it's entering with the social media giant. The major streamers locked into exclusivity deals with Mixer — including stars like Tyler “Ninja” Blevins, Cory “King Gothalion” Michael, and Michael “Shroud” Grzesiek — will be released from their contracts, and Microsoft says it's up to them where they decide to go.
+<a href='https://www.theverge.com/2020/6/22/21298963/ninja-shroud-mixer-facebook-gaming-twitch'> Source <a/>

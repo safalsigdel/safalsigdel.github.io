@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H6sonpj9QjNrBnG-tLe_J9LEB0M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66962880/acastro_180321_1777_apple_edu_0004.0.jpg' width='700px' /><br/>
-On Monday, Apple will kick off its annual developer conference in the strangest and most contentious climate it has faced in many years. Not only does Apple have to hold all of its presentations online, it's doing so to a developer audience that has become aware of a collective, unspoken discontent.
-<a href='https://www.theverge.com/2020/6/21/21297964/apple-wwdc-2020-ios-ipados-features-home-screen-app-store-rcs-imessage-multi-user'> Source <a/>

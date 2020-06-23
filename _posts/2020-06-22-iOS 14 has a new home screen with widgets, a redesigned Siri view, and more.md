@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GGvsrryrUglZgo_lRADN_ToaKcM=/0x0:1674x942/1200x800/filters:focal(704x338:970x604)/cdn.vox-cdn.com/uploads/chorus_image/image/66966365/aHZgFHwgrN.0.png' width='700px' /><br/>
-Apple has announced iOS 14 onstage at WWDC 2020, giving the first (official) look at the latest version of its software for the iPhone, and it's bringing the biggest change to the iOS home screen in years: widgets.
-<a href='https://www.theverge.com/2020/6/22/21291695/apple-ios-14-updates-home-screen-redesign-features-release-date-wwdc-2020'> Source <a/>
