@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PCRHtiOfxTg0Ra49rS0paOEow38=/0x0:640x346/1200x800/filters:focal(252x151:354x253)/cdn.vox-cdn.com/uploads/chorus_image/image/66967842/spongebob.0.jpg' width='700px' /><br/>
-Following in the footsteps of Trolls World Tour and Scoob!, The SpongeBob Movie: Sponge on the Run will skip its theatrical release and head straight to video-on-demand marketplaces before landing on CBS All Access.
-<a href='https://www.theverge.com/2020/6/22/21299640/spongebob-squarepants-digital-release-delay-streaming-cbs-all-access-amc-warner-bros-tenet'> Source <a/>
