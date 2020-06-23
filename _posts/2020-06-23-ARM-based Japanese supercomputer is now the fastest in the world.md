@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YCo38SLPvblZ_O7KJAoNHnov6z0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66968762/1221922159.jpg.5.jpg' width='700px' /><br/>
-A Japanese supercomputer has taken the top spot in the biannual Top500 supercomputer speed ranking. Fugaku, a computer in Kobe co-developed by Riken and Fujitsu, makes use of Fujitsu's 48-core A64FX system-on-chip. It's the first time a computer based on ARM processors has topped the list.
-<a href='https://www.theverge.com/2020/6/23/21300097/fugaku-supercomputer-worlds-fastest-top500-riken-fujitsu-arm'> Source <a/>
