@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AX-n_3FcVQZQuNF7cnO6R10crCw=/0x0:1652x942/1200x800/filters:focal(694x339:958x603)/cdn.vox-cdn.com/uploads/chorus_image/image/66966943/Screen_Shot_2020_06_22_at_2.42.51_PM.0.png' width='700px' /><br/>
-Apple has announced that its new Macs that are powered by the company's newly-announced Apple-built chips will be able to natively run iPhone and iPad apps, thanks to the shared architecture. Apps demoed during the keynote include Monument Valley 2, Calm, and the Fender Play app.
-<a href='https://www.theverge.com/2020/6/22/21299485/apple-mac-new-silicon-chips-iphone-ipad-apps-shared-architecture-wwdc-2020'> Source <a/>
