@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xyeK_RmzJ7wYrjQk2AbroRYlPZY=/0x0:5184x3456/1200x800/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/66970874/1175733547.jpg.0.jpg' width='700px' /><br/>
-Amazon launched a $2 billion fund today to advance technologies that will cut down greenhouse gases. The fund will help Amazon and other companies adhere to The Climate Pledge initiative it started in September 2019. That pledge committed the company, and others that sign onto it, to becoming carbon neutral by 2040.
-<a href='https://www.theverge.com/2020/6/23/21300427/amazon-climate-change-commitments-greenhouse-gas-emissions-jeff-bezos'> Source <a/>
