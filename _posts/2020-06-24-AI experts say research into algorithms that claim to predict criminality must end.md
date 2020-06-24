@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9ZfKfwtSY4SpGcya25rSV4i2D38=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66974326/acastro_180730_1777_facial_recognition_0003.0.jpg' width='700px' /><br/>
+A coalition of AI researchers, data scientists, and sociologists has called on the academic world to stop publishing studies that claim to predict an individual's criminality using algorithms trained on data like facial scans and criminal statistics.
+<a href='https://www.theverge.com/2020/6/24/21301465/ai-machine-learning-racist-crime-prediction-coalition-critical-technology-springer-study'> Source <a/>
