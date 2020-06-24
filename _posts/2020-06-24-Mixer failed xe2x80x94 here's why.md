@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BHFtpKE66CJJM0DjV6a2_TK0B74=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66971006/acastro_190920_1777_mixer_0001.0.0.jpg' width='700px' /><br/>
-This was a long time coming. For years now, Mixer has struggled, lagging far behind the live-streaming platforms it was meant to compete with — Facebook, YouTube, and Twitch — and by the end of July it will be dead. Even the director of Xbox admitted that Mixer started “pretty far behind,” which is to say too far behind to ever catch up to its ostensible peers. But what happened, exactly?
-<a href='https://www.theverge.com/21300245/mixer-failed-microsoft-social-media-instagram-streaming'> Source <a/>
