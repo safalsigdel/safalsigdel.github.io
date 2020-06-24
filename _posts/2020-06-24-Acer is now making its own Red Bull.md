@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wn1s0tbUn7UK-q5zMs1Fv2rwir8=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/66970046/predatorshot2.0.jpg' width='700px' /><br/>
-Acer debuted several new laptops, desktops, and monitors at its press conference today, but it took a break from those announcements to unveil something in an entirely new product category: energy drinks. As if it was destined to fulfill its own gamer stereotype, Acer now makes energy drinks.
-<a href='https://www.theverge.com/21300309/acer-gaming-engery-drink-predator-shot-chair-massage'> Source <a/>
