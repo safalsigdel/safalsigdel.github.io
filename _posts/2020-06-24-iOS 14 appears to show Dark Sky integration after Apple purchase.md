@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NGHX9H-I3Qe1haM3EkvMEkzMrPk=/0x0:1340x705/1200x800/filters:focal(563x246:777x460)/cdn.vox-cdn.com/uploads/chorus_image/image/66970179/Screen_Shot_2018_08_20_at_1.25.56_PM.0.png' width='700px' /><br/>
-Apple purchased popular weather application Dark Sky earlier this year, and with iOS 14, the company already seems to be integrating features from Dark Sky directly into its own native weather app, according to the company's iOS 14 preview page.
-<a href='https://www.theverge.com/2020/6/23/21300202/ios-14-dark-sky-integration-apple-purchase-new-feature-weather-forecasts'> Source <a/>
