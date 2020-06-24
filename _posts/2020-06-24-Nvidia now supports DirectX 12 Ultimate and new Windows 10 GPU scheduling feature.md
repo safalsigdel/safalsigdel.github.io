@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Yy79jvn0J12-WQH6QigncsUWpDg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66974962/nstatt_190612_3506_0126.0.jpg' width='700px' /><br/>
+Nvidia is releasing a new driver update today that will support Microsoft's DirectX 12 Ultimate and the latest GPU scheduling feature of the Windows 10 May 2020 Update. Nvidia's DirectX 12 Ultimate support means its latest RTX cards support Microsoft's latest set of gaming and multimedia APIs, which promise to better unify the feature set and capabilities of Windows gaming with the Xbox platform.
+<a href='https://www.theverge.com/2020/6/24/21301617/nvidia-windows-10-gpu-scheduling-driver-support-directx-12-ultimate'> Source <a/>
