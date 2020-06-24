@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4lNv5FwiPV-zkvMjh-03V_ZiOuI=/0x0:1600x1304/1200x800/filters:focal(647x358:903x614)/cdn.vox-cdn.com/uploads/chorus_image/image/66970334/dg7700nt_cnb_05000ff090_bk.0.png' width='700px' /><br/>
-Dell announced a number of new gaming PCs and peripherals today, including an RGB keyboard, a curved monitor, and even a desktop. But the highlight is the G7, Dell's newest midrange gaming laptop. The G7 will come in two sizes: 15 inches and 17 inches.
-<a href='https://www.theverge.com/2020/6/23/21300382/dell-g7-size-gaming-laptop-windows-pc-price-design'> Source <a/>

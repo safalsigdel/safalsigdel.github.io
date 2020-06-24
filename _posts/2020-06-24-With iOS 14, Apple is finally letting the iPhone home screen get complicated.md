@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kCOARa6Gux2GoSY7lwXnNYzC6PY=/0x0:640x264/1200x0/filters:focal(0x0:640x264):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19568241/proc_newsletter_header.png' width='700px' /><br/>
+Eight years ago, I wrote a piece bemoaning the fact that the iPhone's home screen was too restrictive and boring. It only allowed a single grid of apps or folders, they had to flow in from the top left, there were no widgets, and even the icons themselves never changed.
+<a href='https://www.theverge.com/2020/6/24/21299924/ios-14-iphone-wwdc-2020-apple-home-screen-widgets-app-library-clips-pages-complexity'> Source <a/>
