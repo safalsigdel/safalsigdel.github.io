@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K8ICW_XV6RI6EioRxKRiBBQPFek=/55x85:768x536/1200x800/filters:focal(336x236:464x364)/cdn.vox-cdn.com/uploads/chorus_image/image/66972412/face_depixelizer_obama.0.jpg' width='700px' /><br/>
+It's a startling image that illustrates the deep-rooted biases of AI research. Input a low-resolution picture of Barack Obama, the first black president of the United States, into an algorithm designed to generate depixelated faces, and the output is a white man.
+<a href='https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias'> Source <a/>

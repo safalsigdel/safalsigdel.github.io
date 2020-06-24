@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A3tK6EMwIxBN8WryMXoRj-YWJvM=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66969912/1164808026.jpg.0.jpg' width='700px' /><br/>
-Mixer, the soon-to-be-shuttered streaming platform from Microsoft, always had a tough road ahead of it. In a space already dominated by Twitch, and with YouTube using its unparalleled audience scale to carve out its own slice of the market, Microsoft's offering was a hard sell.
-<a href='https://www.theverge.com/2020/6/23/21299479/mixer-closure-streaming-talent-war-ninja-shroud-twitch'> Source <a/>

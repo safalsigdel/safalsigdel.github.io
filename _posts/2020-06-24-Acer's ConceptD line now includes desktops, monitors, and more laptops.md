@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OpddJJaDGr57DRj5Ajy71txR8qs=/111x69:1245x760/1200x800/filters:focal(544x352:758x566)/cdn.vox-cdn.com/uploads/chorus_image/image/66969785/conceptD_family.0.png' width='700px' /><br/>
-Acer is expanding its line of creator-targeted ConceptD computers to now include desktop PCs, monitors, and more standard laptop designs. The ConceptD line first started a year ago with the unique ConceptD 9, which had a large easel design and powerful components repurposed from Acer's gaming laptops. The company followed that up with the slightly smaller but similar-looking ConceptD 7 Ezel earlier this year.
-<a href='https://www.theverge.com/2020/6/23/21300192/acer-conceptd-3-ezel-100-convertible-laptop-monitors-price-specs'> Source <a/>
