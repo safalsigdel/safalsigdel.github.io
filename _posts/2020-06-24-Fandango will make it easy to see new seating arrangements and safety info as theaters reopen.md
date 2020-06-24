@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d6OswgEToIVUgILOb5fzcyc8XEQ=/0x14:374x306/1200x800/filters:focal(153x145:211x203)/cdn.vox-cdn.com/uploads/chorus_image/image/66970696/image002__2_.0.png' width='700px' /><br/>
-Several movie theater chains are preparing to open their doors to the public over the next few weeks, and Fandango is launching a new feature to make it easier for people to find proper health and safety information as they decide whether they're ready to go back.
-<a href='https://www.theverge.com/2020/6/23/21300275/fandango-health-safety-policy-theater-reopening-tenet-mulan-covid19-app'> Source <a/>
