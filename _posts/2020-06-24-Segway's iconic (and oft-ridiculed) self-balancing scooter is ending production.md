@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s7L9qC7YoNsxL824bOVH8pPKbwY=/0x0:3741x2993/1200x800/filters:focal(1341x291:1939x889)/cdn.vox-cdn.com/uploads/chorus_image/image/66971042/469727056.jpg.0.jpg' width='700px' /><br/>
-Segway announced Tuesday that it is ending production of its signature self-balancing scooter, the Segway Personal Transporter (PT). Manufacturing at the company's Bedford, New Hampshire, factory will end on July 15th, and 21 employees will be laid off. The news was first reported by Fast Company.
-<a href='https://www.theverge.com/2020/6/23/21300365/segway-self-balancing-scooter-end-production-layoffs'> Source <a/>
