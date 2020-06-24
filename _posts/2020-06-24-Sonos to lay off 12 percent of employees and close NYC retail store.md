@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S_42T8wlP2gqOXd3EDpyik1xADA=/0x0:2040x1360/1200x800/filters:focal(466x626:792x952)/cdn.vox-cdn.com/uploads/chorus_image/image/66975766/bfarsace_190826_3621_0023.0.jpg' width='700px' /><br/>
+According to a filing with the SEC, Sonos plans to eliminate 12 percent of its global workforce. The company says the layoffs are meant to “reduce operating expenses and preserve liquidity in the face of the [COVID-19] pandemic.” Sonos will also close its retail stores in Manhattan along with six satellite offices.
+<a href='https://www.theverge.com/2020/6/24/21301787/sonos-layoffs-nyc-store-closed-coronavirus-covid-19'> Source <a/>
