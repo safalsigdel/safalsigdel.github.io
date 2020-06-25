@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+If you want to add a Wild West aesthetic to the extremely pricey yet powerful Mac Pro, there's now a leather saddle you can buy for $399 to give it that cowboy vibe, as spotted by Gizmodo.
+<a href='https://www.theverge.com/tldr/2020/6/25/21303137/apple-mac-pro-leather-saddlebag-accessory'> Source <a/>

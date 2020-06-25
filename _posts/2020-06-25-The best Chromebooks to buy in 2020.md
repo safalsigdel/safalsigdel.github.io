@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Qi0LaTEAIrQl0Fryy538uFZcsvg=/0x0:2040x1360/1200x675/filters:focal(851x821:1177x1147)/cdn.vox-cdn.com/uploads/chorus_image/image/66976145/vpavic_190731_3630_0088_result.0.jpg' width='700px' /><br/>
-The best Chromebooks aren't just laptops that run a few Android apps anymore. Chromebooks can cover a wide variety of computing needs now, and a good Chromebook can be more useful than a mediocre Windows laptop.
-<a href='https://www.theverge.com/21296102/best-chromebooks'> Source <a/>
