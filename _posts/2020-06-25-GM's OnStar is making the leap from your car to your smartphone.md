@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Bc4NojdXBtXhTZGDfKwU9OFjP08=/0x0:1618x1079/1200x800/filters:focal(680x411:938x669)/cdn.vox-cdn.com/uploads/chorus_image/image/66974990/Guardian_Hero.0.jpg' width='700px' /><br/>
-General Motors' OnStar is branching out beyond the car. The automaker is launching a new smartphone app called Guardian for customers who want to access OnStar's remote assistance service capabilities when they aren't physically inside their car.
-<a href='https://www.theverge.com/2020/6/24/21300886/gm-onstar-guardian-phone-app-location-sharing-price'> Source <a/>
