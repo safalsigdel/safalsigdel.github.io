@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qjzQMA0MBPaCDuCcQZ1tiyUnwb4=/0x0:3600x1508/1200x800/filters:focal(1605x116:2181x692)/cdn.vox-cdn.com/uploads/chorus_image/image/66981629/EbW13aZXkAImms8.0.jpeg' width='700px' /><br/>
+The estate of Sir Arthur Conan Doyle has sued Netflix over its upcoming film Enola Holmes, arguing that the movie's depiction of public domain character Sherlock Holmes having emotions and respecting women violates Doyle's copyright.
+<a href='https://www.theverge.com/2020/6/25/21302942/netflix-enola-holmes-sherlock-arthur-conan-doyle-estate-lawsuit-copyright-infringement'> Source <a/>
