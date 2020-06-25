@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/feB4I_nfFt5nVFRQlVWE2p_cS_0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66975798/akrales_170414__1610_0149.0.jpg' width='700px' /><br/>
-The National Highway Traffic Safety Administration (NHTSA) has launched an investigation into touchscreen failures on older Tesla Model S vehicles, after receiving 11 complaints in the last 13 months about the issue.
-<a href='https://www.theverge.com/2020/6/24/21301676/tesla-nhtsa-touchscreen-failure-investigation-model-s'> Source <a/>
