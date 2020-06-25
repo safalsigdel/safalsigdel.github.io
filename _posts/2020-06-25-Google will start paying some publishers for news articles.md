@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AhzLMCmMaPG2N6Rv0uXg9wVczrQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66979404/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google will pay for news content from select publishers as part of a new licensing program announced today. It says the content will form part of a “new news experience” coming later this year, launching first on its Google News and Discover services. In some cases, Google says it could offer free access to paywalled articles by paying content owners on the user's behalf.
+<a href='https://www.theverge.com/2020/6/25/21302791/google-news-publishers-pay-content-australia-germany-brazil'> Source <a/>
