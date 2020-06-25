@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sqLhPlfaxs929QE5EZVojtjKbGg=/0x0:592x589/1200x800/filters:focal(249x248:343x342)/cdn.vox-cdn.com/uploads/chorus_image/image/66980073/VRG_Family_N99_2.0.0.jpg' width='700px' /><br/>
+Many people are faithfully wearing masks in order to prevent others from being infected with COVID-19. But while mask-wearing is important for public health, it's also a big adjustment for a lot of Americans who are adapting to a new garment and sweaty faces. Those of us with glasses have to deal with another problem: fogged-up lenses. When you wear a mask and your warm breath hits the relatively cool surface of your glasses, the result will be fog.
+<a href='https://www.theverge.com/21301830/face-mask-glasses-fogging-how-to-stop-clear'> Source <a/>
