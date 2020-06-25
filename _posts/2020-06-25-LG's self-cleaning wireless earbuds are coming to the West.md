@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xcTOvW-fmq0dwOjvjarxeiijPuA=/0x0:669x446/1200x800/filters:focal(282x170:388x276)/cdn.vox-cdn.com/uploads/chorus_image/image/66979352/Untitled_2.0.jpg' width='700px' /><br/>
+LG has announced a new pair of wireless earbuds that makes use of the company's “UVnano” cleaning technology. The company previously debuted the concept last year with its Tone+ Free earbuds in South Korea; the new HBS-FN6 Tone Free model will get a release in European and American markets next month.
+<a href='https://www.theverge.com/2020/6/25/21302783/lg-tone-free-anti-bacterial-uv-earbuds'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gc4tzBRYNFx8Ion70aZgiGNnYGA=/0x0:2040x1360/1200x800/filters:focal(949x515:1275x841)/cdn.vox-cdn.com/uploads/chorus_image/image/66974186/akrales_161214_1326_A_0329_v1.0.0.jpeg' width='700px' /><br/>
-Olympus has announced plans to get out of the camera business entirely, selling off its imaging division to an investment fund. Japan Industrial Partners, the company that bought the VAIO computer business from Sony, has signed a memorandum of understanding that will see Olympus spin out the division and transfer all of its shares.
-<a href='https://www.theverge.com/2020/6/24/21301460/olympus-selling-camera-division-jip-vaio'> Source <a/>
