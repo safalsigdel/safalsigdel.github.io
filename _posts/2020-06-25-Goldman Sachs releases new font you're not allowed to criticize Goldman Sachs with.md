@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Investment bank Goldman Sachs has released its very own typeface: an inoffensive set of sans-serif fonts dubbed Goldman Sans. But in the spirit of bankers everywhere, these fonts come with a catch in the contract. As their license states, you're free to use Goldman Sans for just about anything you like so long as you don't use it to criticize Goldman Sachs.
+<a href='https://www.theverge.com/tldr/2020/6/25/21302831/goldman-sachs-font-sans-criticize-disparage-license'> Source <a/>
