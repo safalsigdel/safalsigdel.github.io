@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n_pD0gmk5O4iHDzMQEAHeYLnhGU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66979500/jbareham_180213_2301_0058.0.jpg' width='700px' /><br/>
+JD Power scored Tesla vehicles the worst among 32 major brands in its annual quality study. It's the first time that Tesla's cars have been ranked by the influential customer survey now in its 34th year.
+<a href='https://www.theverge.com/2020/6/25/21302804/tesla-ranks-last-on-influential-jd-power-quality-survey'> Source <a/>
