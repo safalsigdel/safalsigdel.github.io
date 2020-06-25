@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ajO24bigKxwfbQOMK_c50yvnC-w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66975909/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-On Wednesday, Google announced broad changes in its default data practices for new users, including a significant expansion in the company's willingness to automatically delete data.
-<a href='https://www.theverge.com/2020/6/24/21301718/google-auto-delete-location-search-history-default-myactivity'> Source <a/>
