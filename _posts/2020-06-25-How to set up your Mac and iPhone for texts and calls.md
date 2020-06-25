@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9vOfWjFNmtAgSSYOs_IIK6rkyGg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66976056/akrales_190918_3645_0017.0.jpg' width='700px' /><br/>
-If you, like me, prefer typing on your laptop's keyboard rather than the tiny iPhone keypad, or you just don't want to switch devices to answer a text or call, you can set up your Mac to receive calls and texts from your iPhone. With an Apple ID, you can also send texts and make calls over the internet using the Messages and FaceTime apps on your Mac.
-<a href='https://www.theverge.com/21294413/apple-mac-iphone-messages-imessage-connect-receive-send-calls-facetime-text'> Source <a/>
