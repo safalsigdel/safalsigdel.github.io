@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aiOKW-WjaFSABzF6TY5-VNg92xs=/0x0:5616x3744/1200x800/filters:focal(1015x1450:1913x2348)/cdn.vox-cdn.com/uploads/chorus_image/image/66978260/966572360.jpg.0.jpg' width='700px' /><br/>
+Cults prey on lonely and desperate people looking to belong to something, and as people migrate a bigger portion of their lives online, sometimes all it takes is a small showing of support to net someone's full trust.
+<a href='https://www.theverge.com/2020/6/24/21302287/tumple-daylife-army-ozm-feature-go-read-this-facebook-twitter-cult'> Source <a/>

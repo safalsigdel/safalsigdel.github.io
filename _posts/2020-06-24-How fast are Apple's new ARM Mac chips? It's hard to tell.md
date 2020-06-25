@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_NPGlZWFvsIP4Aw7ISi34EOcl98=/0x0:1414x877/1200x800/filters:focal(594x326:820x552)/cdn.vox-cdn.com/uploads/chorus_image/image/66971700/apple_arm_mac.0.jpg' width='700px' /><br/>
-For years, Apple has steadily revealed how the ARM-based chips in its mobile phones were catching up in performance to the beefier silicon you'd find inside a laptop or desktop — in 2018, the company claimed its new iPad Pro was faster than 92 percent of portable PCs. At some point, it seemed inevitable that Apple would turn the more efficient chips into the primary processors for its Mac computers, too.
-<a href='https://www.theverge.com/2020/6/23/21296365/apple-mac-arm-processor-silicon-chips-performance-power-speed-wwdc-2020'> Source <a/>

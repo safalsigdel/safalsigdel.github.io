@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6LKx04OGIaKK6Q1_H268DXlpNS8=/0x0:1984x1244/1200x0/filters:focal(0x0:1984x1244):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20049279/Screen_Shot_2020_06_23_at_2.07.48_PM.png' width='700px' /><br/>
-iOS 14 is here, and it brings a bunch of big new features to Apple's operating system — including a few that should look pretty familiar to Android users who have had similar functionality for some time.
-<a href='https://www.theverge.com/21299641/apple-ios-14-vs-android-11-features-beta-iphone-google'> Source <a/>

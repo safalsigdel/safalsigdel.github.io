@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PrIMyzlsm_9sf4AGBcspb7h_lMU=/0x0:2040x1360/1200x800/filters:focal(889x556:1215x882)/cdn.vox-cdn.com/uploads/chorus_image/image/66976341/vpavic_191018_3725_0178.0.jpg' width='700px' /><br/>
+Google is rolling out the ability to have different Voice and Fi numbers on the same Google account. That could be handy if you want to use one service for a personal number and the other for a business number, for example.
+<a href='https://www.theverge.com/2020/6/24/21301893/google-fi-voice-number-same-account'> Source <a/>

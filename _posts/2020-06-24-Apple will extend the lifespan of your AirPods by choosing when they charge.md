@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-9Sb6XAJZ5dliqO8Xzj6yTjFr60=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66972749/akrales_190327_3315_0012.0.jpg' width='700px' /><br/>
-Apple is adding a new feature as part of its newly announced iOS 14 that will extend the lifespan of your AirPods.
-<a href='https://www.theverge.com/2020/6/23/21300942/apple-airpods-battery-life-cycles-ios-14-optimized-charging'> Source <a/>

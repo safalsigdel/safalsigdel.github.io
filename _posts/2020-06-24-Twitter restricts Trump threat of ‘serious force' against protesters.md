@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xp5F5DXzpsIFhIX8bjKlspJ4wPk=/0x0:4985x3323/1200x800/filters:focal(2095x1264:2891x2060)/cdn.vox-cdn.com/uploads/chorus_image/image/66972458/1219989083.jpg.0.jpg' width='700px' /><br/>
-Twitter has continued its policy of labeling — but not removing — rule-breaking tweets from President Donald Trump. The company restricted a Trump post promising “serious force” against a potential Washington, DC equivalent to Seattle's Capitol Hill Occupied Protest zone.
-<a href='https://www.theverge.com/2020/6/23/21300810/twitter-restrict-trump-serious-force-dc-autonomous-zone-policy'> Source <a/>

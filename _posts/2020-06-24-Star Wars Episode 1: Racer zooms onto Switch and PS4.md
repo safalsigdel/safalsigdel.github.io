@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t1bueIkFJOLryeDf8ZXFsrKwG4Q=/0x0:1280x720/1200x0/filters:focal(0x0:1280x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20050427/star_wars_episode_i_racer_switch_screenshot03.jpg' width='700px' /><br/>
-Star Wars Episode 1: Racer, the unwieldily titled podracing video game that was maybe the second best thing to come out of the prequel trilogy after “Duel of the Fates,” has been released for the PlayStation 4 and the Nintendo Switch. The game was initially supposed to come out in May, but the release got pushed back indefinitely. Now it's here for $14.99.
-<a href='https://www.theverge.com/2020/6/24/21301436/star-wars-episode-1-racer-ps4-switch-release-price'> Source <a/>

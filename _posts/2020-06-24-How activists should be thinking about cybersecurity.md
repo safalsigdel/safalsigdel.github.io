@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Mx5vxMVggE8KUQ6fpDprofMU5l4=/0x0:2600x1800/1200x800/filters:focal(1092x692:1508x1108)/cdn.vox-cdn.com/uploads/chorus_image/image/66971044/signal_blur_wider.0.jpg' width='700px' /><br/>
-In this week's edition of our Vergecast interview series, Verge editor-in-chief Nilay Patel and policy editor Russell Brandom talk with cybersecurity expert and founder of CryptoHarlem  Matt Mitchell.
-<a href='https://www.theverge.com/21298915/cybersecuirty-activism-tech-matt-mitchell-interview-vergecast'> Source <a/>

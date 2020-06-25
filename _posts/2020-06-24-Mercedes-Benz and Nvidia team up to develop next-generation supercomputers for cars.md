@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ycssQQob4827BTLD7p_--E02Cl4=/0x0:3508x2480/1200x800/filters:focal(1474x960:2034x1520)/cdn.vox-cdn.com/uploads/chorus_image/image/66971993/20C0302_02.0.jpg' width='700px' /><br/>
-Mercedes-Benz is teaming up with Nvidia to develop a next-generation computing platform for vehicles that will support everything from over-the-air software updates to automated driving. The German automaker said it plans to begin rolling out the new technology across its fleet starting in 2024.
-<a href='https://www.theverge.com/2020/6/23/21300614/mercedes-benz-nvidia-computer-orin-self-driving-adas-ota'> Source <a/>

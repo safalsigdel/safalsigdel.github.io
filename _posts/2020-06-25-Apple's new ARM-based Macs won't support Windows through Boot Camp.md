@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7uI2DNrLB1oy88df3i0OyuPeW8c=/0x0:1662x930/1200x800/filters:focal(699x333:963x597)/cdn.vox-cdn.com/uploads/chorus_image/image/66977517/RjVYpen.0.jpg' width='700px' /><br/>
+Apple will start switching its Macs to its own ARM-based processors later this year, but you won't be able to run Windows in Boot Camp mode on them. Microsoft only licenses Windows 10 on ARM to PC makers to preinstall on new hardware, and the company hasn't made copies of the operating system available for anyone to license or freely install.
+<a href='https://www.theverge.com/2020/6/24/21302213/apple-silicon-mac-arm-windows-support-boot-camp'> Source <a/>

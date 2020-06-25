@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C_Q3-AMFCKx6xYC7sOoFk_olFkA=/0x0:5192x3397/1200x800/filters:focal(2181x1284:3011x2114)/cdn.vox-cdn.com/uploads/chorus_image/image/66977511/1219232629.jpg.0.jpg' width='700px' /><br/>
+California is seeking to force Uber and Lyft to reclassify their drivers as employees, in a dramatic escalation of the state's months-long war with the gig economy companies.
+<a href='https://www.theverge.com/2020/6/24/21302140/california-ag-uber-lyft-drivers-classify-employees-preliminary-injunction'> Source <a/>
