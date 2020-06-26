@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8lnGHGyZ8iRQc0cvOC2YShIvH74=/0x0:3800x2533/1200x800/filters:focal(349x502:957x1110)/cdn.vox-cdn.com/uploads/chorus_image/image/66986020/1084721272.jpg.0.jpg' width='700px' /><br/>
+Microsoft is about to (mostly) give up on retail. Today the company announced plans to permanently close all Microsoft Store locations in the United States and around the world, except for four locations that will remain open.
+<a href='https://www.theverge.com/2020/6/26/21297400/microsoft-retail-stores-closing-cities-open'> Source <a/>
