@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7gNm-5DBhOxsYbt_4oHs5VQrQdM=/0x0:1920x1080/1200x800/filters:focal(810x0:1116x306)/cdn.vox-cdn.com/uploads/chorus_image/image/66980551/Hey_Email_social.0.jpg' width='700px' /><br/>
-Hey — the new email service from Basecamp that's been the subject of the latest fight over Apple's App Store policies — has announced that starting today, it'll be open for anyone to join, no invite code required.
-<a href='https://www.theverge.com/2020/6/25/21302931/hey-email-service-public-launch-apple-approves-app-fight-policy-price'> Source <a/>
