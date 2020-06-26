@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kpWzMUGx5UUeoIoTglTNu-iKp-g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66980575/akrales_190913_3666_0391.0.jpg' width='700px' /><br/>
-Apple's new operating systems — like iOS 14 and tvOS 14, which are due to be released later this year — include numerous features that should make them easier to use by people with disabilities. Apple announced the new features as part of its Worldwide Developers Conference this week, and Forbes and CNET have rounded many of them up.
-<a href='https://www.theverge.com/21302891/ios-14-accessibility-improvements-disabilities-hearing-blindness-motor-control'> Source <a/>
