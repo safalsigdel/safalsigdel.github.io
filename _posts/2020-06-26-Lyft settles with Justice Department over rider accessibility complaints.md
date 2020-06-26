@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GLuXB_QkL-OXWQQQZX2Mrju0Lf4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66980646/acastro_180927_1777_lyft_0002.0.jpg' width='700px' /><br/>
-Lyft has reached a settlement agreement with the US Department of Justice over allegations that the ride-hailing platform discriminated against people who use foldable walkers and wheelchairs, in violation of the Americans with Disabilities Act.
-<a href='https://www.theverge.com/2020/6/25/21302866/lyft-settles-wheelchair-accessibility-complaints-justice-department'> Source <a/>
