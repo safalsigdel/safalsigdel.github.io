@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kyDXWFl4o3ocXzztAoiSHUW6Rrg=/0x0:2202x1216/1200x800/filters:focal(925x432:1277x784)/cdn.vox-cdn.com/uploads/chorus_image/image/66984272/Screen_Shot_2020_06_10_at_1.27.12_PM.0.png' width='700px' /><br/>
+“Where is Google's Pixel 4A?” That's the question we asked two weeks ago, bringing you up to speed on how Google had seemingly missed the typical window to release its thoroughly-leaked followup to the company's impressive but short-battery-lived Pixel 4 flagship.
+<a href='https://www.theverge.com/2020/6/25/21303809/google-pixel-4a-fcc-soli-radar-motion-sense-missing'> Source <a/>

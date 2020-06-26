@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u4qBNfzgkHAKdO1otGbGElSTN1Q=/0x0:2880x1619/1200x800/filters:focal(1210x580:1670x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/66981991/Google_Duo_Group_Call_Nest_Hub_Max.0.png' width='700px' /><br/>
+Google is expanding the ways you can make video calls on smart displays powered by Google Assistant with new support for group calling in Google Meet and Duo. The new video group calling abilities will be available on the Nest Hub Max and other Assistant smart displays with cameras starting today.
+<a href='https://www.theverge.com/2020/6/25/21302923/google-meet-duo-group-call-assistant-smart-display'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NJHqdVxsZyTjzIXUSCeoD1dBxTg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66982678/acastro_190923_twitch_0004.0.0.jpg' width='700px' /><br/>
+When streamer Samantha Wong told Twitch that she had been sexually harassed by another streamer, the report went all the way to the top. A Twitch VP who has since left the company, Justin Wong, says he escalated her allegations to Twitch's CEO, the head of Twitch HR, and a VP who managed Twitch's relationship with the accused streamer. “All assured me it would be handled,” he wrote on Twitter.
+<a href='https://www.theverge.com/2020/6/25/21303185/twitch-sexual-harassment-assault-permanent-bans-streamers'> Source <a/>

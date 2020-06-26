@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4_Hb2fWuBezB8-ZLelixR1byu6k=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/66979492/HSKROZv.0.jpg' width='700px' /><br/>
-Apple is greatly improving its gaming support in iOS 14, iPadOS 14, and tvOS. The biggest additions are support for controller button remapping, haptics, rumble, motion, and even the ability to properly use a keyboard and mouse for iPad gaming.
-<a href='https://www.theverge.com/2020/6/25/21302796/apple-ipad-gaming-controller-keyboard-mouse-support-ipados-14-tvos-ios-14'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fERwmLnuAHXpySCQ3VufPyiw2o4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66982504/vpavic_191202_3827_0054.0.jpg' width='700px' /><br/>
+Waymo is the “exclusive global L4 partner” for Volvo Car Group, the two companies announced Thursday.
+<a href='https://www.theverge.com/2020/6/25/21303324/volvo-waymo-l4-deal-electric-self-driving-robot-taxi'> Source <a/>

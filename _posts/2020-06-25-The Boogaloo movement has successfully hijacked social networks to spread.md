@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PDuLplMoS2Cf3mX1niKS_Mu1pFg=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/66979452/1216297285.jpg.0.jpg' width='700px' /><br/>
-Lately a question I have been asking myself is: how worried do we need to be about the Boogaloo groups?
-<a href='https://www.theverge.com/interface/2020/6/25/21301797/boogaloo-movement-facebook-groups-pages-recommendations-account-bans'> Source <a/>

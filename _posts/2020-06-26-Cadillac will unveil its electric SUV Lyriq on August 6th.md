@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tdlpS0cN2Nn3iWU1n9d_msJjr0s=/0x0:1081x603/1200x800/filters:focal(455x216:627x388)/cdn.vox-cdn.com/uploads/chorus_image/image/66982970/Cadillac-Organization.0.0.jpg' width='700px' /><br/>
+Cadillac will reveal its first electric vehicle, the Lyriq SUV, during a virtual event on August 6th. The vehicle's original April 2nd debut was canceled due to the coronavirus pandemic.
+<a href='https://www.theverge.com/2020/6/25/21303485/cadillac-unveil-electric-suv-lyriq-date-gm'> Source <a/>

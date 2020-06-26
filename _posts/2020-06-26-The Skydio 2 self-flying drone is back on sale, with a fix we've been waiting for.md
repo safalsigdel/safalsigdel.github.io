@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+The $999 Skydio 2 self-flying drone is one of the most incredible gadgets I've ever touched, but it's got its fair share of limitations. Two of them: It's been practically impossible to buy, and we found the nearly crash-proof drone could crash during some landings.
+<a href='https://www.theverge.com/2020/6/25/21303316/skydio-2-self-flying-drone-update-on-sale-covid'> Source <a/>

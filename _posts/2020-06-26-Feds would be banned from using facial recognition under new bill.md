@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dir3bM9XSrcDLvQhqrSSXyKdpXI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66982255/acastro_180730_1777_facial_recognition_0003.0.jpg' width='700px' /><br/>
+On Thursday, Democrats introduced a new bill that would ban federal law enforcement from using facial recognition technology and make it more difficult for state and local police departments to use the tech.
+<a href='https://www.theverge.com/2020/6/25/21303355/facial-recognition-ed-markey-ayanna-pressley-ban-federal-agencies-fed-law-enforcement'> Source <a/>

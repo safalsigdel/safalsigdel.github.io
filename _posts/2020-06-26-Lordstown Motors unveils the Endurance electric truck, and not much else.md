@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2Q2Gj9s5vSs6pWwX4Ee4WlD7iPE=/0x0:5164x3437/1200x800/filters:focal(2169x1306:2995x2132)/cdn.vox-cdn.com/uploads/chorus_image/image/66982267/EnduranceMain01.0.jpg' width='700px' /><br/>
+Ohio EV startup Lordstown Motors revealed its first electric pickup truck, the Endurance, for the first time today at an event that featured Vice President Mike Pence.
+<a href='https://www.theverge.com/2020/6/25/21302966/lordstown-motors-electric-pickup-truck-ev-endurance-unveiling-pence'> Source <a/>

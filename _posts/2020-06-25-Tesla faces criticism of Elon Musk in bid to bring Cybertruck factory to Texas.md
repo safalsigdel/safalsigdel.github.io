@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i5AHUSHCeLvlTuV8WbK97wnHob4=/0x0:2040x1530/1200x800/filters:focal(845x726:1171x1052)/cdn.vox-cdn.com/uploads/chorus_image/image/66978244/tesla_austin_land_1983.0.jpg' width='700px' /><br/>
-As Tesla made its first public pitch to bring its Cybertruck factory to Austin, Texas on Tuesday, the company faced concerns from citizens about its treatment of workers, the proposal's impact on the local housing crisis, the need to give the automaker tax breaks, and most of all, CEO Elon Musk.
-<a href='https://www.theverge.com/2020/6/24/21300909/tesla-austin-cybertruck-gigafactory-elon-musk-tax-breaks'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l0WFJ7rdwdOtIwBoVTh8XBq8yo0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66976095/acastro_180730_1777_facial_recognition_0003.0.jpg' width='700px' /><br/>
-The American Civil Liberties Union (ACLU) has filed a formal complaint against Detroit police over what it says is the first known example of a wrongful arrest caused by faulty facial recognition technology.
-<a href='https://www.theverge.com/2020/6/24/21301759/facial-recognition-detroit-police-wrongful-arrest-robert-williams-artificial-intelligence'> Source <a/>

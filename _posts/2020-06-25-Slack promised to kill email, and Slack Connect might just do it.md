@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hskTeJmTQsnF8zML9No_W0tdu9c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66977012/acastro_190412_1777_slack_0001.0.jpg' width='700px' /><br/>
-When you think of Slack, you probably think of a chat app that's growing in popularity for businesses large and small. Originally designed by accident as something that could potentially replace email, Slack hasn't quite killed off email just yet. But over the past four years, Slack has quietly been building a major platform change for its communications app that might help replace your work email in the future.
-<a href='https://www.theverge.com/2020/6/24/21302050/slack-connect-work-emails-shared-channels-future'> Source <a/>

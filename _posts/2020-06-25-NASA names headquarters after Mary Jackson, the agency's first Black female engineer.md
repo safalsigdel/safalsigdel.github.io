@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vjVYp0agh-dnrX3JQTfK3UK2qPM=/0x0:3000x2429/1200x800/filters:focal(1260x975:1740x1455)/cdn.vox-cdn.com/uploads/chorus_image/image/66979394/lrc_1980_b701_p_00042.0.jpg' width='700px' /><br/>
-NASA has announced it will name its headquarters in Washington DC after the agency's first Black female engineer, Mary Jackson.
-<a href='https://www.theverge.com/2020/6/25/21302786/nasa-names-headquarters-after-mary-jackson-the-agencys-first-black-female-engineer'> Source <a/>

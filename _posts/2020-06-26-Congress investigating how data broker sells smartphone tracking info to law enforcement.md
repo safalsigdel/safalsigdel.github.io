@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mh3N88pM1f7OqE2YRo7yYjrp2ts=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66982628/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
+The US House Committee on Oversight and Reform has opened an investigation into how data broker Venntel collects and sells data from Americans' mobile phones to government agencies for warrantless tracking, The Wall Street Journal reported on Wednesday.
+<a href='https://www.theverge.com/2020/6/25/21303190/congress-data-smartphone-tracking-fbi-security-privacy'> Source <a/>

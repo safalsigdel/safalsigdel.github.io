@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/of8iO5hC_koypgsZZbT_1T4C2yw=/0x0:2556x1634/1200x800/filters:focal(1074x613:1482x1021)/cdn.vox-cdn.com/uploads/chorus_image/image/66979576/Screen_Shot_2020_06_22_at_6.54.32_PM.0.png' width='700px' /><br/>
-AI has become an integral part of every tech company's pitch to consumers. Fail to hype up machine learning or neural networks when unveiling a new product, and you might as well be hawking hand-cranked calculators. This can lead to overpromising. But judging by its recent WWDC performance, Apple has adopted a smarter and quieter approach.
-<a href='https://www.theverge.com/2020/6/25/21301511/apple-ai-machine-learning-features-wwdc-2020-convenience'> Source <a/>
