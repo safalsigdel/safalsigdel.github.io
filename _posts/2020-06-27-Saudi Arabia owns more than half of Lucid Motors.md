@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QU9HIdf6osqwkUt66jSw0QffIwQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66982872/lucid_motors_air_ces_2017_1191.0.jpg' width='700px' /><br/>
-California EV startup Lucid Motors gave up majority ownership to Saudi Arabia's sovereign wealth fund in exchange for the $1.3 billion investment it closed last year, according to an email from the company's lawyers that was included in a lawsuit filed on Wednesday.
-<a href='https://www.theverge.com/2020/6/25/21302524/lucid-motors-saudi-arabia-pif-investment-majority-shareholder'> Source <a/>
