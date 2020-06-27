@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4Ew_qDT0SfvfdYA_ILGfyhCyCz0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66988944/acastro_200311_3934_DrDisrespect_0001.0.jpg' width='700px' /><br/>
+Dr Disrespect disappeared from Twitch this afternoon, with his account vanishing from the site, leading to rumors that he had been banned. The disappearance comes two days after Twitch said it would begin issuing permanent suspensions for streamers as it cracked down on accusations of harassment and sexual misconduct.
+<a href='https://www.theverge.com/2020/6/26/21304907/dr-disrespect-twitch-ban-no-reason-given'> Source <a/>

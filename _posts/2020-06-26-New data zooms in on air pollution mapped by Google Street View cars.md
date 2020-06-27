@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Nx6w3G8VxpAwyrlOTz1dV74g3Is=/0x0:3861x2574/1200x800/filters:focal(1623x979:2239x1595)/cdn.vox-cdn.com/uploads/chorus_image/image/66982770/Aclima_Street_View_car_CA.0.jpg' width='700px' /><br/>
-Google and Aclima, a company that maps hyperlocal air pollution, announced today that researchers can now access a treasure trove of new data that can bolster efforts to both combat climate change and clean up the air. It's the result of four years of measurements taken by Google Street View vehicles in California outfitted with Aclima sensors.
-<a href='https://www.theverge.com/2020/6/25/21303326/data-air-pollution-mapped-google-street-view-aclima'> Source <a/>

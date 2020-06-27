@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N1D4JV9hfmtt3Ovw6Nlq5AiUpOM=/0x0:4960x3307/1200x800/filters:focal(2304x1253:3096x2045)/cdn.vox-cdn.com/uploads/chorus_image/image/66988682/1222925299.jpg.0.jpg' width='700px' /><br/>
+The Trump administration has sent letters to social media companies requesting they take action on posts calling for people to take down statues, commit acts of violence, and break curfews, as first reported by The Washington Post. The acting secretary of the Department of Homeland Security, Chad Wolf, sent letters to the CEOs of Facebook, Twitter, Apple, Snap, and Google's parent company Alphabet.
+<a href='https://www.theverge.com/2020/6/26/21304724/trump-administration-social-media-platforms-police-protesters'> Source <a/>

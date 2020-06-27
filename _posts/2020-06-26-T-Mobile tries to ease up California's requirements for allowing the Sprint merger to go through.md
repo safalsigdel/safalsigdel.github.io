@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZW4KEq4IufimP34ktS4zQIEPzkY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66982453/acasatro_180430_1777_sprint_Tmobile_0004.0.jpg' width='700px' /><br/>
-T-Mobile has filed a petition asking California's Public Utilities Commission (CPUC) to par back some of the conditions that CPUC insisted on when it agreed to approve the merger of T-Mobile and Sprint earlier this year. It's requesting changes to its 5G rollout timing, requirements of new jobs, and testing requirements for its 5G network, via Engadget.
-<a href='https://www.theverge.com/2020/6/25/21302889/tmobile-california-requirements-sprint-merger-jobs-creation-5g-rollout'> Source <a/>
