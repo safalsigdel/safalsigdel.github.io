@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E8vVlVDcpwgrA_yaOXBYeUYHcTo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66984147/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-Facebook has a fringe conspiracy theory problem, and it's getting worse by the day. According to a new investigation from The Guardian, the far-right QAnon movement continues to flourish on the social network, despite its attempts last month to begin removing accounts and pages promoting it.
-<a href='https://www.theverge.com/2020/6/25/21303812/facebook-q-anon-conspiracy-theory-fringe-alt-right-guardian-investigation-go-read-this'> Source <a/>
