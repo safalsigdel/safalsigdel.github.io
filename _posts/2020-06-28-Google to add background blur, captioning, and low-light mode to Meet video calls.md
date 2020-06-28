@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qb778NLSbnip2q6SUOQNZscOUEY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66991049/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
+Google Meet is working on several new features that will match its competitors, including allowing users to add images or a blur effect to backgrounds on video calls, 9to5 Google reported. As they can on rival videoconferencing platforms Zoom and Microsoft Teams, users will be able to either choose their own image or pick from several default options.
+<a href='https://www.theverge.com/2020/6/27/21305434/google-meet-background-blur-captioning-video-microsoft-teams-zoom'> Source <a/>

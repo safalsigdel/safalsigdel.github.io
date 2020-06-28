@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1KIkZ4sAl1C4WgcZDZ556A4emzA=/0x0:1200x687/1200x800/filters:focal(504x248:696x440)/cdn.vox-cdn.com/uploads/chorus_image/image/66991654/eyemoutheye.0.jpg' width='700px' /><br/>
+An inside joke about a TikTok meme among a group of friends on Twitter grew into a minor social media mystery before morphing into a fundraiser for anti-racism causes. Yes, that might be the most 2020 sentence I've written to date.
+<a href='https://www.theverge.com/2020/6/27/21305646/it-is-what-it-is-fake-app-twitter-tiktok-meme'> Source <a/>

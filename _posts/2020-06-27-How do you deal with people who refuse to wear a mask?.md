@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vW-UkRG7FfokCQ4K_LsQJkjJ0x4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66983652/acastro_200512_1777_faceMask_0001.0.0.jpg' width='700px' /><br/>
-You'd think that months of reading about overflowing hospitals and mounting death statistics would scare almost anyone into following the current Centers for Disease Control (CDC) recommendations: wear a mask in public spaces to protect others from possible infection, especially since there is no current way to be sure who may be an asymptomatic transmitter — particularly in relatively crowded urban areas.
-<a href='https://www.theverge.com/21303553/face-mask-coronavirus-cdc-etiquette-public'> Source <a/>

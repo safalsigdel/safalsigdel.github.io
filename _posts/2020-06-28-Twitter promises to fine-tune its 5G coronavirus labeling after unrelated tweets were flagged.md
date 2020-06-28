@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nhP1ZPaVyPynftzSnNIxxbRlF-w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66991392/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+Twitter says it's working on improving how it labels tweets with problematic 5G or coronavirus content, after users reported their tweets were being mislabeled with a COVID-19 fact-check.
+<a href='https://www.theverge.com/2020/6/27/21305503/twitter-labels-5g-conspiracy-coronavirus'> Source <a/>

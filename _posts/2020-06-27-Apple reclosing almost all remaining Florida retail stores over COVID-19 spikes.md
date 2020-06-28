@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e66GybaMNwgJWI6vrYCr8iVnIPE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66983490/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
-Apple is reclosing 14 more of its retail locations in Florida due to a resurgence of COVID-19 cases. Of the 18 Apple Store locations in Florida, only two currently remain open, one in Jacksonville and another in Sarasota, according to Bloomberg. The tally of closed US Apple stores is currently at 32, which represents 10 percent of the company's total number of 272 stores in the country.
-<a href='https://www.theverge.com/2020/6/25/21303592/apple-reclosing-florida-us-retail-stores-coronavirus-covid-19-spikes'> Source <a/>

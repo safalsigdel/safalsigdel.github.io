@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Eo4seXHOu2rylFxKtb6yaQsN7No=/0x0:1624x1260/1200x800/filters:focal(683x501:941x759)/cdn.vox-cdn.com/uploads/chorus_image/image/66983605/climate_pledge_center_ice.0.jpeg' width='700px' /><br/>
-Seattle's NHL team doesn't have a name yet, but its arena does, after Amazon secured the naming rights to the former Key Arena. But if you guessed the new name would be Amazon Arena, surprise! It will officially be known as the Climate Pledge Arena, a nod to the $2 billion initiative CEO Jeff Bezos announced last year, which sets goals for Amazon to become net carbon neutral by 2040.
-<a href='https://www.theverge.com/2020/6/25/21303532/amazon-seattle-nhl-climate-pledge-arena-environment'> Source <a/>

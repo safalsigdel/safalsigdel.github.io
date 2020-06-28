@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-2UYsKXQmhh3gHxkjdSTOVz_oQM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66992032/BobbyQuillard_200311_3934_DrDisrespect_0002.0.jpg' width='700px' /><br/>
+What you've probably heard: three months after he signed an exclusive two-year contract with Twitch for a “life-changing” amount of money, Twitch has nonetheless “permanently banned” Guy Beahm, aka Dr Disrespect, for something he did in violation of the company's rules.
+<a href='https://www.theverge.com/2020/6/28/21305822/twitch-dr-disrespect-alleged-ban-statement-guy-beahm'> Source <a/>
