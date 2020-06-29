@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S5PXQcmsbf12qMJxBRw3E4PsRYg=/0x0:6000x4000/1200x800/filters:focal(4051x971:5011x1931)/cdn.vox-cdn.com/uploads/chorus_image/image/66992827/1253016777.jpg.0.jpg' width='700px' /><br/>
+Starbucks will join the growing list of corporate entities pausing advertising on social media platforms, the company said in a blog post Sunday. The coffee giant says that it stands “against hate speech” and believes “both business leaders and policy makers need to come together to affect real change.”
+<a href='https://www.theverge.com/2020/6/28/21306065/starbucks-advertising-social-media-july-facebook-twitter'> Source <a/>

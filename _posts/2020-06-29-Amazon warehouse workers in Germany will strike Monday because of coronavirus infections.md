@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QfVe4D2Pq-qQaTf3rw4dr6ZB98w=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66993334/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
+Amazon workers at six sites across Germany plan to strike Monday because dozens of staff members at its logistics centers have been infected with the coronavirus, union officials told Reuters. The union says the company is prioritizing profits over workers' safety.
+<a href='https://www.theverge.com/2020/6/28/21306256/amazon-warehouse-germany-strike-safety-coronavirus'> Source <a/>
