@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ERMZ0Jq2CjCoCivvHOMRjgqf6gM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66987525/94156112.jpg.0.jpg' width='700px' /><br/>
-California's Air Resources Board (CARB) has passed a new rule that says all commercial trucks and vans sold in the state in 2045 must be zero-emission, in a bid to move the industry away from the dirty and harmful diesel engines that currently power most of these vehicles.
-<a href='https://www.theverge.com/2020/6/26/21304367/california-electric-trucks-vans-clean-air-pollution-mandatory-rule'> Source <a/>
