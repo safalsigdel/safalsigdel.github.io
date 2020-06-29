@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jyFECJfb0MdWsOpdNq9d3tV9fDA=/0x0:1466x683/1200x800/filters:focal(616x225:850x459)/cdn.vox-cdn.com/uploads/chorus_image/image/66994495/qX8LTd3.0.jpg' width='700px' /><br/>
-GitHub is down for thousands of software developers this morning. The Microsoft-owned service, which provides version control via Git and hosting for software development, has been down for more than an hour. GitHub users have experienced errors logging into the service, and some are even unable to use their integrated development environment (IDE) due to how closely linked software development is to the service.
-<a href='https://www.theverge.com/2020/6/29/21306674/github-down-errors-outage-june-2020'> Source <a/>
