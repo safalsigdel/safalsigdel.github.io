@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5ZeKKJslQCKHnfGMGcVhKpyCc4U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66985293/acastro_180604_1777_xbox_0001.0.jpg' width='700px' /><br/>
-Microsoft has been planning a second, cheaper and less power next-gen Xbox console. Codenamed Lockhart, it's designed to take most of the key next-gen improvements found in the Xbox Series X and provide them at a lower price point for gaming at 1080p or 1440p. A newly leaked Microsoft document, posted on Twitter, includes references to this Lockhart console and multiple “Project Scarlett consoles.”
-<a href='https://www.theverge.com/2020/6/26/21304112/microsoft-xbox-series-x-lockhart-leaked-document-specs-rumors'> Source <a/>

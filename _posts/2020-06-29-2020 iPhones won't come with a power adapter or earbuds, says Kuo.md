@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UcOIw5yC_nl-TiwJI2S5EVh3xFA=/0x0:2040x1360/1200x800/filters:focal(1063x458:1389x784)/cdn.vox-cdn.com/uploads/chorus_image/image/66994126/akrales_190913_3666_0101.0.jpg' width='700px' /><br/>
+This year's new iPhones might not have as much in the box as you're used to. According to well-connected analyst Ming-chi Kuo, Apple is planning to stop including a power adapter and EarPods in the box with 2020 models, and will even remove the power adapter from the new iPhone SE's packaging later this year. Kuo's research note was reported on by AppleInsider, MacRumors, and 9to5Mac.
+<a href='https://www.theverge.com/2020/6/28/21306499/2020-iphones-no-power-adapter-earpods-new-ipads-20w-charger'> Source <a/>
