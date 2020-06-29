@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e8XHKXSWg_dI6A6aWExmyz7j45k=/0x0:800x569/1200x800/filters:focal(336x221:464x349)/cdn.vox-cdn.com/uploads/chorus_image/image/66996043/super_nintendo_world_usj_e1574679134657.0.jpeg' width='700px' /><br/>
+Universal Studios Japan is delaying the opening of Super Nintendo World, the new Mario-themed expansion of its Osaka amusement park, NHK reports. Universal said the delay was due to concerns about the coronavirus. A new opening date has yet to be announced.
+<a href='https://www.theverge.com/2020/6/29/21306781/super-nintendo-world-opening-delayed-indefinitely-coronavirus'> Source <a/>

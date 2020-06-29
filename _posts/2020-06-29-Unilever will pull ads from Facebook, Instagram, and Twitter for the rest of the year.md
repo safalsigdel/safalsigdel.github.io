@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WrsJNzZAO9fYAqC-TMwqkPlwL3o=/0x0:3200x2129/1200x800/filters:focal(1344x809:1856x1321)/cdn.vox-cdn.com/uploads/chorus_image/image/66987584/1208198314.jpg.0.jpg' width='700px' /><br/>
-Consumer goods giant Unilever said Friday that it would halt all ad spending on Facebook, Instagram, and Twitter through the end of the year, as first reported by The Wall Street Journal. Unilever owns dozens of popular household brands like Hellmann's mayonnaise and Dove soap, and typically spends more than $1 billion each year promoting them through various ad channels.
-<a href='https://www.theverge.com/2020/6/26/21304619/unilever-facebook-instagram-twitter-ad-boycott-spending-dove-hellmans'> Source <a/>
