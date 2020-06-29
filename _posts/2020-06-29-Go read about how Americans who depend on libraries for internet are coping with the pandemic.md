@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dcei1xBT1rg2V1NsJml-mBaD0v8=/0x0:8256x5504/1200x800/filters:focal(3468x2092:4788x3412)/cdn.vox-cdn.com/uploads/chorus_image/image/66995726/1223321845.jpg.0.jpg' width='700px' /><br/>
+COVID-19 has caused libraries around the US to stay closed since mid-March. Less than two-thirds of Americans in rural areas have broadband internet connections at their homes. The Markup has written about the ways in which libraries are attempting to keep their patrons online. It's well worth a read.
+<a href='https://www.theverge.com/2020/6/29/21306813/coronavirus-pandemic-libraries-internet-access-the-markup'> Source <a/>
