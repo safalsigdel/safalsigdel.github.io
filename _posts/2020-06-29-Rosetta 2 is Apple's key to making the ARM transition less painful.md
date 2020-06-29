@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oAv3zmIXMUvJKSnPwu3NU0BHDGU=/0x0:1414x877/1200x800/filters:focal(594x326:820x552)/cdn.vox-cdn.com/uploads/chorus_image/image/66985987/apple_arm_mac.0.jpg' width='700px' /><br/>
-Earlier this week, on what Tim Cook called a “historic day,” Apple announced that it's moving Macs away from Intel processors to its own silicon chips. The first Mac with Apple silicon is coming by the end of 2020, but Apple expects the full transition process to take two years.
-<a href='https://www.theverge.com/21304182/apple-arm-mac-rosetta-2-emulation-app-converter-explainer'> Source <a/>
