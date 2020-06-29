@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M6_gG09WKvJMkiE5Gx477X0EaYs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66986416/acastro_190530_1777_wwdc_2019_0001.0.0.png' width='700px' /><br/>
-The Vergecast's annual WWDC episode is here. Apple's Worldwide Developers Conference started on Monday, and The Verge's Nilay Patel and Dieter Bohn run through the important announcements from the event as well as the updates you may have missed.
-<a href='https://www.theverge.com/2020/6/26/21304226/vergecast-podcast-apple-ios14-macos-wwdc-2020'> Source <a/>
