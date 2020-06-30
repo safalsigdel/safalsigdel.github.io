@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TOpP7m6zK-drbyMjupaeyiYskl4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67000612/akrales_191113_3779_0163.0.jpg' width='700px' /><br/>
+It has taken more than six months, but Google's Stadia controller now finally works wirelessly with Android devices. Google originally launched its Stadia service back in November as a subscription to stream games to TVs, Android phones, and the web. Wireless controller support was strangely missing at launch for Android devices, which meant you had to awkwardly connect the Stadia controller using USB.
+<a href='https://www.theverge.com/2020/6/30/21308374/google-stadia-controller-wireless-android-mobile-support'> Source <a/>
