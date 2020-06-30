@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HJyS2Gu0T_xbnwWX0cWY2QV1EuU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66998874/akrales_180614_1777_0110.0.jpg' width='700px' /><br/>
+It was a big news day for bans: Twitch temporarily banned Donald Trump, Reddit banned The_Donald, YouTube banned a group of far-right creators, and India banned TikTok. But I still haven't written about the Facebook ad boycott, which accelerated since last I wrote — so let's talk about that today, and we'll get to the rest later this week.
+<a href='https://www.theverge.com/interface/2020/6/30/21307039/facebook-ad-boycott-analysis-unilever-verizon-coca-cola'> Source <a/>
