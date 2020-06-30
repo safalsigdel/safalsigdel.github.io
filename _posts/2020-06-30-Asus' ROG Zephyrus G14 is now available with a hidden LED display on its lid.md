@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c_ivFRbD_RWkfz34RltQ7J91Dm4=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19571839/bfarsace_191212_3852_0006.jpg' width='700px' /><br/>
-The Asus ROG Zephyrus G14 can now be configured with a LED dot-matrix display hidden in its lid, with a new model costing $1,999.99, Asus announced today. This “AniMe Matrix” display consists of 1,215 Mini-LEDs that support 256 levels of brightness each and can be used to show anything from the time to music visualizers, GIFs, or an animated logo from your favorite technology website (see above).
-<a href='https://www.theverge.com/2020/6/29/21306808/asus-zephyrus-g14-dot-matrix-display-release-date-price-specs-features'> Source <a/>
