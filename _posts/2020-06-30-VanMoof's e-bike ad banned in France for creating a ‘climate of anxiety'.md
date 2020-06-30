@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/taDuYoz3HMwGCIUwjCxbdvnv6nE=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/67000205/verge_DSC_7277_2040pxl.0.jpg' width='700px' /><br/>
+VanMoof, the Dutch electric bicycle brand, is officially too hot for (French) television.
+<a href='https://www.theverge.com/2020/6/30/21308117/vanmoof-ebike-ad-banned-france-cars-climate-change'> Source <a/>

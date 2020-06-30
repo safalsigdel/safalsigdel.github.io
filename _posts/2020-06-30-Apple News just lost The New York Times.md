@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BLRX7WOO7ZwXx6d18xh-8asne0Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66996715/vpavic_190329_3332_0048.5.jpg' width='700px' /><br/>
-The New York Times has announced that, as of today, it will no longer be distributing articles in the Apple News app, making it one of the largest publishers to end its association with Apple's publishing platform.
-<a href='https://www.theverge.com/2020/6/29/21307242/apple-news-new-york-times-app-not-available-free-articles-subscription'> Source <a/>
