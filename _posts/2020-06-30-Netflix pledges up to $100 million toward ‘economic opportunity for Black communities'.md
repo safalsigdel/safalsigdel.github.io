@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8T2KOsV-hFdflYYPYp-op3E5fSU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67000472/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
+Netflix is pledging 2 percent of its cash holdings to provide “economic opportunity for Black communities.” The company plans to initially commit up to $100 million, but the quantity could grow alongside its cash holdings over time.
+<a href='https://www.theverge.com/2020/6/30/21308101/netflix-economic-opportunity-black-communities-pledge'> Source <a/>
