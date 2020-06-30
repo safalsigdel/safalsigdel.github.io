@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PpI16DS1nHZDHBQ5OBwhAq8mb2I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67000729/akrales_180117_2255_0029.0.jpg' width='700px' /><br/>
+Discord on Tuesday announced it's making a number of changes to expand its service beyond the gaming community. The company says the change is one its users have requested as Discord has become more of a tool for “day-to-day communication.”
+<a href='https://www.theverge.com/2020/6/30/21308194/discord-gaming-users-safety-center-video-voice-chat'> Source <a/>
