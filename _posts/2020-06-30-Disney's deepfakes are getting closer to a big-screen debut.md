@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NnNW5TWIk4IkwZQ8VdhPOpGEpaQ=/0x0:835x629/1200x0/filters:focal(0x0:835x629):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20058553/Screen_Shot_2020_06_29_at_4.22.40_PM.png' width='700px' /><br/>
-How close are deepfakes to being used in big-budget films and TV shows? Pretty damn close, if a new demo from Disney is anything to go by. In a video and paper being presented at a computer graphics conference this week, researchers from the House of Mouse show off what they say is the first photo-realistic deepfake at a megapixel resolution.
-<a href='https://www.theverge.com/2020/6/29/21306889/disney-deepfake-face-swapping-research-megapixel-resolution-film-tv'> Source <a/>

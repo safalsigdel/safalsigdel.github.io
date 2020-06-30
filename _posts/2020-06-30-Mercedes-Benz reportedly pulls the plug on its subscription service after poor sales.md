@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dPnaXvhCNN6EWaESm64oqXBSJII=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66995518/akrales_180329_2351_1495.0.jpg' width='700px' /><br/>
-Mercedes-Benz is suspending its two-year-old subscription service after mediocre sales, Automotive News reports.
-<a href='https://www.theverge.com/2020/6/29/21306823/mercedes-benz-collection-subscription-service-cancel-sales'> Source <a/>

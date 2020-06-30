@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Motorola has announced that the regular Edge — the cheaper sibling to its recently released flagship Edge Plus — will cost $699.99, which puts it at $300 less than the $999.99 Edge Plus. There's still no release date, though, outside of the previously announced “summer” window.
+<a href='https://www.theverge.com/circuitbreaker/2020/6/30/21307601/motorola-edge-unlocked-price-specs-ram-release-date-summer-5g'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9L1WTXm8zY8QOIZIW7zN-HhTKf0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/66999389/NIA_Punchdrunk_Op2_1920x1080.0.jpg' width='700px' /><br/>
+Pokxc3xa9mon Go creator Niantic Labs is partnering with Punchdrunk, the New York City-based production company behind seminal immersive theater piece Sleep No More. The partnership will see both companies work toward “developing multiple projects that will reinvent storytelling for a 21st century audience and further expand the horizon of interactive entertainment.”
+<a href='https://www.theverge.com/2020/6/30/21307285/niantic-punchdrunk-ar-immersive-theater-sleep-no-more-pokemon-go'> Source <a/>
