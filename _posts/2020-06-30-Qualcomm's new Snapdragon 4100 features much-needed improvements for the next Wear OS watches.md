@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OBTkQJYbXORw4piX7z2b4dh0POU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67000038/akrales_190822_3612_0135.0.jpg' width='700px' /><br/>
+Qualcomm is announcing two new Wear OS processors today, the Snapdragon Wear 4100 Plus and the Snapdragon Wear 4100, the first major updates to its smartwatch platform since 2018. Qualcomm claims the new chips will have vastly improved speed, with a “significantly faster new processor,” and big jumps in performance for the GPU, memory, camera, and overall battery life.
+<a href='https://www.theverge.com/2020/6/30/21307368/qualcomm-snapdragon-4100-google-wear-os-smartwatch-wearables-faster-battery-life'> Source <a/>

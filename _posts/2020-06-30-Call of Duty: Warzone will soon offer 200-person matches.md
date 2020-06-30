@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TD_ktN7VCOWYrjRi6Mj-eKNokIM=/0x0:1920x1080/1200x800/filters:focal(1002x326:1308x632)/cdn.vox-cdn.com/uploads/chorus_image/image/66996645/AGB_MW_S4_Reloaded_002_Download.0.jpg' width='700px' /><br/>
-Popular battle royale shooter Call of Duty: Warzone is upping its already large 150-person lobbies to let 200 people compete in Quad mode contests, publisher Activision announced today. The new lobby size will arrive with an update releasing at 2AM ET tomorrow, June 30th.
-<a href='https://www.theverge.com/2020/6/29/21307195/call-of-duty-warzone-200-person-matches-quads-lobby-update'> Source <a/>
