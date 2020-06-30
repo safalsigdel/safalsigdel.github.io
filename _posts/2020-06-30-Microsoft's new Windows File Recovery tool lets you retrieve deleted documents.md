@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q0JtdBBXbtlP8HR9CqV3IPtFXpw=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/66994601/windows2_2040.0.0.jpg' width='700px' /><br/>
-Microsoft is releasing its own Windows File Recovery tool, designed to retrieve files you've mistakenly deleted. Windows File Recovery is a command line app that will recover a variety of files and documents from local hard drives, USB drives, and even SD cards from cameras. Recovery of files on cloud storage or network file shares is not supported, though.
-<a href='https://www.theverge.com/21306670/microsoft-windows-file-recovery-tool-app-download-features'> Source <a/>
