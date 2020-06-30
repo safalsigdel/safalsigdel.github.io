@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rcKzlpCUfIVeIjAL39UF3kDbdbQ=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/66999445/nord.0.jpg' width='700px' /><br/>
+OnePlus has announced a new product line of cheaper phones called OnePlus Nord, with the goal of making the “premium OnePlus experience accessible to more users.”
+<a href='https://www.theverge.com/2020/6/30/21308054/oneplus-nord-new-line-cheaper-phones-name-europe-india-launch'> Source <a/>
