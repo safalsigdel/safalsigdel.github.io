@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Qw6-_gH22ALflWie0KubuGTwGDg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66998089/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
-Watching 4K Netflix video on a Mac seems like it's about to get much easier, as the forthcoming macOS Big Sur includes a Safari update that reportedly lets you watch Netflix in 4K, along with Dolby Vision HDR, according to a tweet from Ishan Agarwal (via 9to5Mac).
-<a href='https://www.theverge.com/2020/6/29/21307620/apple-mac-netflix-4k-hdr-macos-big-sur-dolby-vision-safari'> Source <a/>
