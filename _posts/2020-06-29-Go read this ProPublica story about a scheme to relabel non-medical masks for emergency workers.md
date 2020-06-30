@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cer6MoK8xlN07zTcQCsa-lSTpEo=/0x0:4497x2963/1200x800/filters:focal(1790x782:2508x1500)/cdn.vox-cdn.com/uploads/chorus_image/image/66990913/1221090139.jpg.0.jpg' width='700px' /><br/>
-As the coronavirus spread across the US this spring, authorities warned people not to purchase N95 respirator masks, lest they contribute to a shortage of the masks for medical personnel. The N95 respirators are considered the most effective masks to filter out droplets in the air that may transmit the virus. Sites like Amazon suspended sales of N95 masks to the general public and cracked down on sellers who tried to sell counterfeit versions.
-<a href='https://www.theverge.com/2020/6/27/21305390/go-read-this-propublica-masks-coronavirus'> Source <a/>

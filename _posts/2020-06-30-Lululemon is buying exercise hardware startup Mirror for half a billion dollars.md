@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2SR1EtdJMbucJDMkK-2nVXwhrN0=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/66997553/M696_CSH_181129_PS_Mirror_5406_1200pix_Fnl.0.jpg' width='700px' /><br/>
+Lululemon, the company behind trendy fitness apparel, is getting into the hardware business with Mirror. The fitness lifestyle company announced on Monday it would spend  $500 million to acquire the startup, which sells a $1,495 reflective display so subscribers can exercise while simultaneously streaming workouts and watching themselves.
+<a href='https://www.theverge.com/2020/6/29/21307484/lululemon-mirror-startup-acquire-purchase'> Source <a/>

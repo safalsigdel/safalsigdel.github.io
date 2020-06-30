@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xSo1eUJ9ymNQBKj3NECt5ZLBcHY=/0x0:2070x1380/1200x800/filters:focal(1111x165:1441x495)/cdn.vox-cdn.com/uploads/chorus_image/image/66992697/hamilton.0.jpg' width='700px' /><br/>
-As I put together this latest list of what's new on streaming this week, I realized a theme running through the selections: bad-ass women. There's a documentary about crime-solving writer Michelle McNamara, a series based on a manga comic about a warrior nun (yes, really!), and of course the Schuyler sisters, Angelica and Eliza, from Hamilton.
-<a href='https://www.theverge.com/2020/6/28/21305956/streaming-hamilton-disney-hbo-netflix-amazon'> Source <a/>

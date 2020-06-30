@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pc-BTHYMTn6xRT7dkaZStfrOV6I=/0x0:935x518/1200x800/filters:focal(510x84:658x232)/cdn.vox-cdn.com/uploads/chorus_image/image/66997801/image012.0.png' width='700px' /><br/>
+Amazon is giving its Prime members the ability to watch TV shows and movies on Prime Video with friends using its new Watch Party feature.
+<a href='https://www.theverge.com/2020/6/29/21307519/amazon-watch-party-prime-video-virtual-parties-streaming-netflix-disney-hbo-scener-twitch'> Source <a/>

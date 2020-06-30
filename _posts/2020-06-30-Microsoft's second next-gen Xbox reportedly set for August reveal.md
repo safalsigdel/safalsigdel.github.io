@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yLcWCN9pKmRhsymoZyQ6-DS3aVc=/0x0:1980x1320/1200x800/filters:focal(832x502:1148x818)/cdn.vox-cdn.com/uploads/chorus_image/image/66996996/xboxseriessconcept.0.jpg' width='700px' /><br/>
+A leaked Microsoft document recently hinted at the company's second next-gen Xbox, and now rumors suggest it will be fully revealed in August. Eurogamer reports that Microsoft had originally planned to unveil the console, codenamed “Lockhart,” in June. Microsoft has now reportedly moved these plans to August, and Eurogamer claims the console will be named the Xbox Series S.
+<a href='https://www.theverge.com/2020/6/29/21307365/microsoft-xbox-series-s-lockhart-console-launch-august-rumors'> Source <a/>

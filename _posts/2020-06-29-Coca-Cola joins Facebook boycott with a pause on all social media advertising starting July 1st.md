@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G_iRqg1TL_P19VgohRxhOwaOGyA=/0x0:5669x3772/1200x800/filters:focal(2601x1399:3507x2305)/cdn.vox-cdn.com/uploads/chorus_image/image/66989452/1251624067.jpg.0.jpg' width='700px' /><br/>
-The Coca-Cola Company is pausing all digital advertising on social media platforms globally for at least 30 days starting July 1st, the soda giant announced on Friday evening.
-<a href='https://www.theverge.com/2020/6/26/21305065/coca-cola-pause-ads-facebook-social-platforms-july-boycott'> Source <a/>

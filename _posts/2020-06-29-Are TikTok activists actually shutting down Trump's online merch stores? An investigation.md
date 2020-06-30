@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TvbhK4M5DVXXgDhzNAvlH74Y8GQ=/0x0:4800x3442/1200x800/filters:focal(1700x1350:2468x2118)/cdn.vox-cdn.com/uploads/chorus_image/image/66988685/1251029983.jpg.0.jpg' width='700px' /><br/>
-Some critics of President Donald Trump have spent the last few days trying to lock up Trump-branded merchandise by leaving thousands of products from his online stores in shopping carts. But while the attack has become a kind of resistance meme, reminiscent of recent pranks on the president's Tulsa rally, it's far less clear whether the hoax actually prevented Trump's stores from selling merchandise.
-<a href='https://www.theverge.com/2020/6/26/21304264/tiktok-twitter-activists-trump-online-store-sold-out-prank-hoax'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kFLLDeM4jgcPCIsP-VlWWRhxESk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66996426/acastro_190723_1777_tiktok_0003.0.0.jpg' width='700px' /><br/>
+India's Ministry of Electronics and Information Technology has banned TikTok, WeChat, and several dozen other China-based apps it views as “engaged in activities ... prejudicial to sovereignty and integrity of India,” according to a press release. A total of 59 apps are on the banned list.
+<a href='https://www.theverge.com/2020/6/29/21307014/india-ban-tiktok-wechat-china-apps'> Source <a/>

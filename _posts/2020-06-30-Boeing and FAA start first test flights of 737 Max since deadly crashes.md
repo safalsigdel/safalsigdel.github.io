@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W76VpWBRuANJ-C9gjEvnhiwzOp4=/0x0:3448x2109/1200x800/filters:focal(1449x780:1999x1330)/cdn.vox-cdn.com/uploads/chorus_image/image/66997432/507435454.jpg.0.jpg' width='700px' /><br/>
+Boeing and the Federal Aviation Administration (FAA) began a series of test flights on Monday to determine whether the 737 Max should be allowed back in the air, after it was involved in two deadly crashes that killed 346 people in 2018 and 2019. The tests are expected to last around three days.
+<a href='https://www.theverge.com/2020/6/29/21307388/boeing-737-max-test-flights-federal-aviation-administration'> Source <a/>

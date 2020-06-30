@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/-9CuKnTL1pDFXsiMqBazqeVVs18=/0x0:4298x2865/1200x800/filters:focal(2145x1036:2831x1722)/cdn.vox-cdn.com/uploads/chorus_image/image/66996254/1222991419.jpg.0.jpg' width='700px' /><br/>
-Twitch has temporarily banned President Donald Trump, in the latest surprise and high-profile suspension from the streaming service. Trump's account was banned for “hateful conduct” that was aired on stream, and Twitch says the offending content has been removed.
+Twitch has temporarily banned President Donald Trump, in the latest surprise and high-profile suspension from the streaming service. Trump's account was banned for “hateful conduct” that was aired on stream, and Twitch says the offending content has now been removed.
 <a href='https://www.theverge.com/2020/6/29/21307145/twitch-donald-trump-ban-campaign-account'> Source <a/>
