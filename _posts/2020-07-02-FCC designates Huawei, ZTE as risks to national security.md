@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v3NWVPG0qWZVkJFx4b85KONkECQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67000748/acastro_190521_1777_huawei_0004.0.0.jpg' width='700px' /><br/>
-On Tuesday, the Federal Communications Commission officially designated telecommunications companies Huawei and ZTE as threats to national security.
-<a href='https://www.theverge.com/2020/6/30/21308477/fcc-huawei-zte-ban-universal-service-fund-national-security-threat-risk'> Source <a/>
