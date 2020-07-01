@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ygq_jE87BcptsvDliMSyp6lV5mE=/0x0:2040x1360/1200x800/filters:focal(854x748:1180x1074)/cdn.vox-cdn.com/uploads/chorus_image/image/67001570/jkastrenakes_08242017_1960_0019.5.jpg' width='700px' /><br/>
+Google is making it easy for people to conserve energy this summer by rolling out a free version of Seasonal Savings for all Nest thermostat owners. Previously, the feature was only available for customers of utilities with Seasonal Savings programs, according to a Google blog post.
+<a href='https://www.theverge.com/2020/6/30/21308606/google-nest-seasonal-savings-free-thermostat-owners'> Source <a/>

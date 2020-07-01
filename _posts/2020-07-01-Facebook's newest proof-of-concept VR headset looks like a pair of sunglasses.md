@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mp11NFD-Z_ESObsG0pVhfJ_litY=/0x0:1200x672/1200x800/filters:focal(509x231:701x423)/cdn.vox-cdn.com/uploads/chorus_image/image/67002921/Holographic_optics_hero.0.png' width='700px' /><br/>
+Facebook has shown off a new proof-of-concept virtual reality headset, and it has a completely different design than most other VR devices on the market today. Instead of a bulky contraption that covers up the top half of your face and has to be strapped to your head, this proof-of-concept headset looks kind of like a pair of large sunglasses that can sit comfortably on your ears.
+<a href='https://www.theverge.com/2020/6/30/21308813/facebook-vr-sunglasses-research-proof-of-concept'> Source <a/>

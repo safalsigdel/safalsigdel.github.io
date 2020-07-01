@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MSjuzjnq-9287Wqb3JsrrXYe9EU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66998289/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T's low-band 5G network is expanding to 28 new regions today, including Austin, Miami, Dallas, and Salt Lake City. If you've been waiting for a slight speed boost over your current LTE connection and have a 5G-compatible phone, you might want to check if your neighborhood is part of this latest expansion.
-<a href='https://www.theverge.com/2020/6/29/21307403/att-5g-coverage-new-cities-austin-miami-salt-lake-city'> Source <a/>

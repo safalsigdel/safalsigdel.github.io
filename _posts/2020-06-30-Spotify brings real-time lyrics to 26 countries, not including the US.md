@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JfNU-lDVi7l3V-JZnV8zyUmgBNw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66998901/acastro_180213_1777_0001.0.jpg' width='700px' /><br/>
-Spotify is launching a new real-time lyrics feature in 26 markets today, including India and countries in Southeast Asia and Latin America, TechCrunch reports. Where available, users can access them by tapping the “lyrics” card at the bottom of the service's “Now Playing” screen. The new feature uses lyrics provided by Musixmatch, and will be shown in the song's language.
-<a href='https://www.theverge.com/2020/6/30/21307984/spotify-real-time-lyrics-26-markets-musixmatch-genius-apple-music-karaoke'> Source <a/>

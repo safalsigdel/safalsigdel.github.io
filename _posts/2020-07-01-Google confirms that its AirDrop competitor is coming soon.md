@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZeFigEetEV7Lbil19_32VQAudWs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67001202/dbohn_200608_4059_0008.0.jpg' width='700px' /><br/>
+After months of rumors, Google has finally confirmed that its “Nearby Share” feature is on the way. Some Android users are already testing a beta version.
+<a href='https://www.theverge.com/2020/6/30/21308500/google-airdrop-competitor-share-android-phones-beta-file-samsung-apple'> Source <a/>

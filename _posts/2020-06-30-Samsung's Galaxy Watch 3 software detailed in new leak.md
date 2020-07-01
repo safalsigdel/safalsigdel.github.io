@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/coP_lhvii2rM2jAIPryBFgzZioQ=/0x0:1812x1208/1200x800/filters:focal(762x460:1050x748)/cdn.vox-cdn.com/uploads/chorus_image/image/66999327/EbZC9zWXQAIZ5Fs.0.jpg' width='700px' /><br/>
-Several software features from Samsung's unannounced Galaxy Watch 3 have leaked, after the smartwatch's firmware was downloaded early by XDA-Developers' Max Weinbach. According to Weinbach's sleuthing, Samsung's unannounced smartwatch could include more customizable watchfaces, alongside updates to its music, email, and calendar apps.
-<a href='https://www.theverge.com/2020/6/30/21308013/samsung-galaxy-watch-3-software-leak-apps-watchfaces-features'> Source <a/>

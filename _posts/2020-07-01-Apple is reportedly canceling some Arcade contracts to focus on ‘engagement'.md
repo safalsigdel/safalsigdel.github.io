@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rz6AlzejxOVmXvhEFH_0r1a-K3A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67001826/akrales_190918_3645_0056.0.jpg' width='700px' /><br/>
+Earlier this year, Apple reportedly canceled several contracts for games that were set to launch on Arcade, the company's game subscription service known for its library of high-quality titles that don't have ads or in-app purchases. It allegedly canceled each of them for the same reason: Apple wants new games that will keep players coming back to the service.
+<a href='https://www.theverge.com/2020/6/30/21308657/apple-arcade-canceling-games-subscription-service-engagement'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qOOj0GIdQCe_b29N0XBIEjG77Bw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66998966/akrales_181019_3014_0676.0.jpg' width='700px' /><br/>
-Over the weekend, lots of sites reported that Apple analyst Ming-chi Kuo is claiming that the iPhones due to be released later this year won't have chargers or EarPods in the box. If you want to know what most tech bloggers thought of the rumor, you can head over here to see all the tweets, almost all of which amount to “that sounds like a bad, user-hostile thing to do.”
-<a href='https://www.theverge.com/2020/6/30/21307463/apple-iphone-12-power-adapter-charger-rumor-usb-c'> Source <a/>
