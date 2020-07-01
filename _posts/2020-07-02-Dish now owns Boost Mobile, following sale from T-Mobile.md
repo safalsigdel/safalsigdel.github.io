@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y0nE1_Hc7Ct5L6cqR2A2ZuGNvKU=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/67005483/boost_dish.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/dmIZvokQfIgTbyz7XxEDJu3mkSE=/0x0:1020x680/1200x800/filters:focal(524x246:686x408)/cdn.vox-cdn.com/uploads/chorus_image/image/67005483/20130110-625A1539VERGE.1419979333.5.jpg' width='700px' /><br/>
 Dish now owns Boost Mobile, bringing Dish — after years of speculation — into the consumer wireless market where it can start to compete with Verizon, AT&T, and T-Mobile.
 <a href='https://www.theverge.com/2020/7/1/21309968/dish-boost-sprint-tmobile-acquisition-spinoff-closes-prepaid'> Source <a/>
