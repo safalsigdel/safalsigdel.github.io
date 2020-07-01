@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7aHIJCCVDyvacwjnPR_taM0c_Xw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67000745/akrales_181010_2991_0038.0.jpg' width='700px' /><br/>
-YouTube TV has announced that it'll be raising its monthly price from $50 per month to $64.99 as the company starts to offer eight of ViacomCBS's channels, which are available today: BET, CMT, Comedy Central, MTV, Nickelodeon, Paramount Network, TV Land, and VH1.
-<a href='https://www.theverge.com/2020/6/30/21308449/youtube-tv-price-increase-64-99-viacom-hbo-new-channels'> Source <a/>

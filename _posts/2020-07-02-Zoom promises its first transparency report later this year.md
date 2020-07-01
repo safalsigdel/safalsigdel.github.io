@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q1sfrbsMY7F8Wj_PQ2SMxzbi1lI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67006754/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
+Zoom committed to sharing its first transparency report later this year in a blog by CEO Eric Yuan tracking the progress of its 90-day feature freeze to address privacy and security issues. The freeze, which was announced on April 1st, was put in place after Zoom usage went up dramatically during the COVID-19 pandemic, which revealed numerous privacy and security flaws in the videoconferencing software.
+<a href='https://www.theverge.com/2020/7/1/21310130/zoom-transparency-report-update-ceo-security-program'> Source <a/>
