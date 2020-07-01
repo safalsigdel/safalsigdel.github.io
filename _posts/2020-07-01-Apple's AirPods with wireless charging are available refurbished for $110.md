@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-Apple's second-generation AirPods that include a wireless charging case cost $170 if you buy them new, but Best Buy is offering a very good deal on refurbished models if you want to save another $60. This refurbished set of second-generation AirPods is $110, the best price we've seen yet, and they come with all of the original accessories. If you want to charge them wirelessly, you'll need to use a wireless charger you already own or pick one up for less than $20.
-<a href='https://www.theverge.com/good-deals/2020/6/30/21308113/apple-airpods-wireless-case-headphones-refurbished-sale-deal-best-buy'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iagu9awNU6nhs4Uez7OGKN2gOWA=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20060489/bfarsace_200624_4078_0001.0.jpg' width='700px' /><br/>
+It's always been a dream of mine to put my vintage camera lenses to work again, so when the Raspberry Pi Foundation put out a camera system that supported C- and CS-mount lenses, I knew I had to get one and turn it into a custom digital camera. There was only one thing standing in the way: my total and complete lack of coding knowledge.
+<a href='https://www.theverge.com/21306907/diy-camera-raspberry-pi-high-quality-how-to-build-video-c-cs-mount-lenses'> Source <a/>
