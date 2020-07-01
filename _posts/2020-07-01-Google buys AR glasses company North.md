@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f4wRGb39B_j9f0BoCbQ0q0f_A1E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67000488/akrales_181019_3038_1076.0.jpg' width='700px' /><br/>
-Google has bought North, a company focused on building augmented reality glasses. The companies announced the news earlier today, saying that North's “technical expertise” will help Google invest in its “hardware efforts and ambient computing future.”
-<a href='https://www.theverge.com/2020/6/30/21308281/google-north-focals-glasses-purchase-acquire'> Source <a/>
