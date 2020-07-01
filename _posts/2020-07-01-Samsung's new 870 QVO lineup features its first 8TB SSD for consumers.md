@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/snIayOiNIyuddoSrGxtClZkwnMU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66999717/samsungqvo.0.jpg' width='700px' /><br/>
-Samsung has introduced the next generation of its QVO lineup of high-capacity consumer solid-state drives: the 870 QVO. It will be available starting on June 30th from Samsung and other retailers, and you'll be able to choose from a few different storage configurations.
-<a href='https://www.theverge.com/2020/6/30/21306860/samsung-new-870-qvo-ssd-sata-8tb-drive'> Source <a/>
