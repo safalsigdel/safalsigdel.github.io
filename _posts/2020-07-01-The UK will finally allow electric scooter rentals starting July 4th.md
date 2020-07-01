@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F_OTC9jV2vdSyRoJA-bSLBQEyV4=/0x0:5846x3897/1200x800/filters:focal(2456x1482:3390x2416)/cdn.vox-cdn.com/uploads/chorus_image/image/67000016/1210874090.jpg.6.jpg' width='700px' /><br/>
+Rented electric scooters will be legal to ride on some British roads starting this Saturday, July 4th, as part of trials to be held in cities around the country. Around 50 councils are reportedly interested in hosting trials. The government said the first trials are expected to commence next week. Privately owned electric scooters will continue to remain illegal to use on public roads.
+<a href='https://www.theverge.com/2020/6/30/21307974/uk-electric-scooter-rentals-legal-public-roads-micro-mobility'> Source <a/>
