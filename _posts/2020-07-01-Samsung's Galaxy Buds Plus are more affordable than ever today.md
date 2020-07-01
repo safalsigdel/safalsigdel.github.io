@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Samsung's Galaxy Buds Plus truly wireless earbuds that have excellent battery life and come with a wireless charging case are more affordable than ever today, and we have two special deals to tell you about. Daily Steals has the best price on a new set of Galaxy Buds Plus, down to $130 ($20 off). If you want to check that out, head over to its site and enter VERGESBUDS at checkout to get the discount. These have a one-year warranty through Samsung.
+<a href='https://www.theverge.com/good-deals/2020/7/1/21309222/samsung-galaxy-buds-plus-earbuds-860-qvo-ssd-1tb-persona-5-royal-deal-sale'> Source <a/>
