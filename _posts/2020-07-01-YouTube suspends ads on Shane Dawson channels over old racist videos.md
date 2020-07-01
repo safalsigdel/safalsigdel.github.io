@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l_-IuGt_mfHhgTqiGjt-lzxP9_g=/0x0:1429x762/1200x800/filters:focal(601x267:829x495)/cdn.vox-cdn.com/uploads/chorus_image/image/67000319/Screen_Shot_2018_10_16_at_1.27.24_PM.0.png' width='700px' /><br/>
-All three of Shane Dawson's popular YouTube channels will not be able to earn advertising revenue for an indefinite period of time.
-<a href='https://www.theverge.com/2020/6/30/21308288/shane-dawson-youtube-suspends-monetization-channels-blackface-older-videos'> Source <a/>
