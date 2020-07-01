@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-y5Cjf9l8EXUag6PP5Y-Ea_ECYM=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/67004119/1219481214.jpg.0.jpg' width='700px' /><br/>
+Rarely do we see so many ban hammers drop over a 48-hour period as we have seen this week. The big social platforms, who were once loath to intervene in matters of political speech, are getting much more comfortable with the idea. Today let's look at what happened and why — and, for the sake of variety, let's try to rank them in order of their long-term importance.
+<a href='https://www.theverge.com/interface/2020/7/1/21308297/reddit-facebook-youtube-tiktok-twitch-bans-trump-thedonald-india'> Source <a/>

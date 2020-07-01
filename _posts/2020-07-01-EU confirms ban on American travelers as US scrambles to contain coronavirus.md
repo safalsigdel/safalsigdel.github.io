@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/83J1qda33IoAuXeRcFxZome_AhE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66999678/acastro_1800724_1777_EU_0001.0.jpg' width='700px' /><br/>
-The European Union has confirmed that American citizens will not be allowed to enter its borders as the bloc begins to ease travel restrictions imposed earlier this year in response to the pandemic. Travelers from America, as well as Brazil and Russia, have been barred from entry because of their countries' inability to contain the spread of the coronavirus.
-<a href='https://www.theverge.com/2020/6/30/21308023/eu-ban-american-travelers-tourists-coronavirus-pandemic-response'> Source <a/>
