@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FASsRKbewGaMt1l7VPPa4qTFMXc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67006738/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
-Apple is reclosing even more of its US retail network in response to COVID-19 spikes in states throughout the country, CNBC reports. On Wednesday, the iPhone maker said it would reclose an additional 30 locations across seven states, bringing the total number of closed stores to 77, or more than 25 percent of its US operation.
-<a href='https://www.theverge.com/2020/7/1/21310345/apple-retail-stores-closing-again-us'> Source <a/>
