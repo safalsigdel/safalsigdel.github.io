@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Uchh3r9TksGXpJe2_cLMzKmRqAA=/0x0:5961x3974/1200x800/filters:focal(2505x1511:3457x2463)/cdn.vox-cdn.com/uploads/chorus_image/image/67005153/1252943007.jpg.0.jpg' width='700px' /><br/>
-There's now a Peloton channel available on the Roku platform. Anyone with a Roku device can sign up to access Peloton's instructor-led workouts from their TV.
-<a href='https://www.theverge.com/2020/7/1/21309887/peloton-roku-app-tv-release-date-price-free-trial'> Source <a/>
