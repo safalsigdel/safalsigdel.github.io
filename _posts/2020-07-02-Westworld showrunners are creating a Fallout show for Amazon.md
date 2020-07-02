@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dEQrYSQePcW7d66RcXu2hHs7HMw=/0x0:2094x1400/1200x800/filters:focal(880x533:1214x867)/cdn.vox-cdn.com/uploads/chorus_image/image/67010704/Screen_Shot_2020_07_02_at_12.58.51_PM.0.png' width='700px' /><br/>
+Amazon is making a new Fallout TV series based on the popular post-apocalyptic RPG games from Bethesda.
+<a href='https://www.theverge.com/21311513/amazon-fallout-tv-show-prime-video-westworld-creators-bethesda'> Source <a/>

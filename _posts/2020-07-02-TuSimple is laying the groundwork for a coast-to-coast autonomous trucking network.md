@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NYNoAIr71xNSIDHU4L6WZmpWLos=/0x0:2560x1920/1200x800/filters:focal(1076x756:1484x1164)/cdn.vox-cdn.com/uploads/chorus_image/image/67007070/P1133242_scaled.0.jpg' width='700px' /><br/>
-Autonomous trucking startup TuSimple is joining forces with big logistics providers as it seeks to bolster its delivery capabilities. The company announced it will be working with UPS, Xpress Enterprises, Penske Truck Leasing, and Berkshire Hathaway-owned grocery and food-service distributor McLane to lay the foundation for a coast-to-coast autonomous trucking network.
-<a href='https://www.theverge.com/2020/7/1/21310209/tusimple-self-driving-truck-network-ups-xpress-penske'> Source <a/>
