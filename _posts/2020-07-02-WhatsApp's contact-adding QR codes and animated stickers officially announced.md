@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BvSIjBCkvo_n341wScMrDL82OBY=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20062333/106496347_909571136208530_6309920133970692626_n.jpg' width='700px' /><br/>
-WhatsApp has announced a collection of new features that are coming to the Facebook-owned messaging service in the coming weeks. We've already heard about a few of them, like QR codes, that can be used to quickly add new contacts or animated stickers, thanks to their appearance in beta versions of WhatsApp. But now their existence is official, and we know they'll be out of beta soon.
-<a href='https://www.theverge.com/2020/7/1/21309982/whatsapp-contact-qr-codes-animated-stickers-video-call-improvements'> Source <a/>
