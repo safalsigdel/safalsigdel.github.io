@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Hk4Ti3PRQ-jeq2Dude3bhhfZcFs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67009341/acastro_180524_1777_tesla_0001.0.jpg' width='700px' /><br/>
+Tesla said on Thursday that it was able to deliver 90,650 vehicles during the last quarter, despite its Fremont, California factory being partially shut down due to the coronavirus pandemic. Wall Street analysts had expected the electric automaker to only deliver about 72,000 vehicles during the last three months, according to CNBC.
+<a href='https://www.theverge.com/2020/7/2/21311128/tesla-q2-2020-vehicle-delivery-numbers-factory-shutdown'> Source <a/>

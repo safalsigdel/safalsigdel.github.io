@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0r7gT3rVl40jUaFtC4ApY2dtwIs=/0x0:942x628/1200x800/filters:focal(389x82:539x232)/cdn.vox-cdn.com/uploads/chorus_image/image/67003850/fubo.0.jpg' width='700px' /><br/>
-FuboTV is the latest virtual TV service to introduce a sharp subscription fee hike, not long after YouTube TV announced that it was drastically increasing its subscription fees to $65 a month.
-<a href='https://www.theverge.com/2020/7/1/21309678/fubo-tv-subscription-price-increase-cost-family-plan-standard-youtube-disney-warnermedia'> Source <a/>
