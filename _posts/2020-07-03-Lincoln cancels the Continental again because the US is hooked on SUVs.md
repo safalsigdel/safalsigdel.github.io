@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bV-zkZ6A96eiIXANAvkzd-KX2X8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67007531/lincoln-continental-0479.0.0.0.0.jpg' width='700px' /><br/>
-Lincoln is ending production of the famed Continental sedan at the end of 2020, just four years after reintroducing the vehicle following a 14-year hiatus. Why? Because Americans have fallen irretrievably in love with SUVs and trucks over the last few years.
-<a href='https://www.theverge.com/2020/7/1/21310521/lincoln-continental-canceled-sales-production-sedans-suvs'> Source <a/>

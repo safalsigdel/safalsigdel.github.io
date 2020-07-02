@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vYFIuR-L6Pw9qecDkX81zJSmlLI=/0x0:1100x737/1200x800/filters:focal(462x281:638x457)/cdn.vox-cdn.com/uploads/chorus_image/image/67011232/irs.0.jpg' width='700px' /><br/>
+Back in March, when it was recognized that the COVID-19 pandemic was taking hold in the US, the IRS extended the filing deadline and the deadline for federal tax payments so that those of us who suddenly had to figure out how to work at home or handle homeschooling would get a break from dealing with taxes.
+<a href='https://www.theverge.com/21311416/taxes-online-file-how-to-irs-deadline-date'> Source <a/>
