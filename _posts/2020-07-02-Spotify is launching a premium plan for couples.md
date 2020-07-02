@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MuU_ICBT3TpcrWZvi-_MYt6JOaY=/0x0:2304x1536/1200x800/filters:focal(968x584:1336x952)/cdn.vox-cdn.com/uploads/chorus_image/image/67004080/spotify_premium_duo.0.jpg' width='700px' /><br/>
-Spotify is making it easier for couples who live together to split the cost of a premium membership while also merging their music taste. The company is debuting its newest subscription offering, Premium Duo, which costs $12.99 a month and allows two people who live at the same place to share one plan while maintaining their own accounts.
-<a href='https://www.theverge.com/2020/7/1/21308599/spotify-duo-premium-account-update-launch'> Source <a/>

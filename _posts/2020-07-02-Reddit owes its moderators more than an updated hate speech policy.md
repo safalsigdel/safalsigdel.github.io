@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mP2mPKopxh643G2DA91Ax4Po4sw=/0x0:3200x2129/1200x800/filters:focal(1344x809:1856x1321)/cdn.vox-cdn.com/uploads/chorus_image/image/67008981/1220230363.jpg.0.jpg' width='700px' /><br/>
+Programming note: The Interface is off Thursday. Back on Monday.
+<a href='https://www.theverge.com/interface/2020/7/2/21310135/reddit-should-pay-moderators-hate-speech-death-threats-content-policy-facebook-ad-boycott'> Source <a/>
