@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cd1yj_rBOIs1JACb_62fISK84M4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67008747/jbareham_171102_2108_0077.0.jpg' width='700px' /><br/>
+With traditional trade shows like E3 and Gamescom cancelled in the wake of the coronavirus pandemic, Microsoft is planning to bring a slice of the show floor experience to your living room. As part of Geoff Keighley's Summer Game Fest, Microsoft will make dozens of demos for upcoming Xbox One games available to download for a week.
+<a href='https://www.theverge.com/2020/7/2/21311010/xbox-summer-game-fest-event-demo-downloads'> Source <a/>
