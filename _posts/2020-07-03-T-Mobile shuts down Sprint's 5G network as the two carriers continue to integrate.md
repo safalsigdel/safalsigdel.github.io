@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6puDhYGgVmX6C4C2EbW383W0Rjs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67011510/acasatro_180430_1777_sprint_Tmobile_0006.0.jpg' width='700px' /><br/>
+T-Mobile has completely shut down Sprint's 2.5GHz midband 5G network as the company continues its efforts to merge Sprint's network with its own following the landmark merger of the two companies earlier this year, via Fierce Wireless.
+<a href='https://www.theverge.com/2020/7/2/21311184/tmobile-sprint-5g-shut-down-network-integration-mobile-internet-devices'> Source <a/>

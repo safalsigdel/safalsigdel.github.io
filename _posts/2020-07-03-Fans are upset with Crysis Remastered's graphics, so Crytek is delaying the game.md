@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5MFLYgz-rHfqaQ52v8MjYHKCgdw=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/67007918/maxresdefault_2_18.0.jpg' width='700px' /><br/>
-When Crytek announced that a remaster for the original Crysis would launch this year, fans were excited to see how much the game's legendary graphics would improve — but a leaked trailer has left so many fans disappointed with the graphical changes that Crytek has now pushed the game's release by several weeks.
-<a href='https://www.theverge.com/2020/7/1/21310742/crysis-remastered-delayed-leaked-trailer-backlash'> Source <a/>
