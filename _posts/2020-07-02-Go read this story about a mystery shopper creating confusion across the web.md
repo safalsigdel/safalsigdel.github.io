@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TWkiXhr8RuVmbxun-Brtr5d7AJw=/0x0:6433x4289/1200x800/filters:focal(2703x1631:3731x2659)/cdn.vox-cdn.com/uploads/chorus_image/image/67009370/1191303750.jpg.0.jpg' width='700px' /><br/>
+For over a year, a mystery shopper known only as “John Smith” has been creating confusion across the web. He's repeatedly visited numerous online stores, ranging from auto supply shops to home goods merchants, placed single items in multiple shopping baskets, and then left without buying anything. The Wall Street Journal has the story of the mysterious shopper, and it's well worth reading to get to the bottom of what's been happening.
+<a href='https://www.theverge.com/21311121/john-smith-mystery-shopper-wsj-abandoned-shopping-carts'> Source <a/>
