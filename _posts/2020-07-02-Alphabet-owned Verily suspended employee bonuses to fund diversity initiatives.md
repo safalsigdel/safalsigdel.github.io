@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k1qBqkxHP62OdEcdUEBTzpnMU54=/0x0:704x413/1200x800/filters:focal(296x151:408x263)/cdn.vox-cdn.com/uploads/chorus_image/image/67002891/Screen_Shot_2015-12-07_at_5.32.39_PM.0.0.png' width='700px' /><br/>
-Verily Life Sciences, the Alphabet-owned healthcare company, is suspending employee spot bonuses, as reported by Business Insider. The money will be funneled instead to fund diversity and inclusion initiatives. The move frustrated workers, many of whom have been working grueling hours on the company's COVID-19 testing projects.
-<a href='https://www.theverge.com/2020/6/30/21309306/alphabet-verily-suspended-employee-bonuses-diversity-initiatives-project-baseline'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sC_WFa-5ehm2Q2h5ywBYKgNqmsA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67008146/vpavic_190503_3404_0035.0.jpg' width='700px' /><br/>
+Google has discontinued its mid-range Pixel 3A and 3A XL smartphones, the company announced today (via Android Police). “Google Store has sold through its inventory and completed sales of Pixel 3A,” Google said in a statement to The Verge. “For people who are still interested in buying Pixel 3A, the product is available from some partners while supplies last.”
+<a href='https://www.theverge.com/2020/7/1/21310786/google-discontinues-pixel-3a-xl-4a-android-mid-range-budget'> Source <a/>
