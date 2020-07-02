@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eWkh6_3SPUgKMgwfURfYOM080Jg=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/67010582/1253694981.jpg.0.jpg' width='700px' /><br/>
+On Thursday, the Senate Judiciary Committee voted to approve a bill that would weaken Section 230 protections to ensure social media companies remove child abuse imagery from their platforms.
+<a href='https://www.theverge.com/2020/7/2/21311464/earn-it-act-section-230-child-abuse-imagery-facebook-youtube-lindsey-graham'> Source <a/>

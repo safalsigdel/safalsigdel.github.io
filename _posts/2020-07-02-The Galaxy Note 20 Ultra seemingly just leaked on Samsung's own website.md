@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Samsung may have just leaked its next flagship phone, the Galaxy Note 20 Ultra, with renders of an unreleased Galaxy Note device appearing on the company's official Russian website, via Ishan Agarwal on Twitter.
-<a href='https://www.theverge.com/circuitbreaker/2020/7/1/21310225/samsung-galaxy-note-20-ultra-leaked-pictures-photos-renders'> Source <a/>
