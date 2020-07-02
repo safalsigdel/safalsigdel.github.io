@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EBcGdZcsP392S__qDy80Mitg1f8=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67005649/VRG_4081_002.0.jpg' width='700px' /><br/>
-It's a good time to buy a pair of true wireless earbuds. Whether your top priority is sound quality, comfort, battery life, voice call quality, or noise cancellation, the current field of products is full of great options. I've spent a lot of time testing dozens of wireless earbuds from Apple, Samsung, Jabra, Sony, Anker, Microsoft, Amazon, Google, and the best wireless earbuds for you will depend on what you hope to get from them.
-<a href='https://www.theverge.com/21309820/best-wireless-earbuds'> Source <a/>
