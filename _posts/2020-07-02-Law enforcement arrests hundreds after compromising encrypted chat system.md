@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6uexdGrzDhbd2sooeQeOsOMKxig=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/67010878/1224197500.jpg.0.jpg' width='700px' /><br/>
+The UK's National Crime Agency (NCA) has made 746 arrests and dismantled dozens of organized crime groups after intercepting millions of encrypted text messages, BBC reports. The messages were sent through EncroChat, a subscription-based phone system popular among career criminals. The NCA said in a press conference on Thursday that the operation has had “the biggest impact on organized crime gangs it has ever seen.”
+<a href='https://www.theverge.com/2020/7/2/21311306/encrochat-arrests-criminals-police-hacking-uk-europe-encrypted-chat'> Source <a/>
