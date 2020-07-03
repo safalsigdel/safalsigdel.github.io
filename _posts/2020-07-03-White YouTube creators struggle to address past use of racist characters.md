@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vnv5qU5UkO0y0BYDVk4RJab0LGA=/0x0:1696x872/1200x800/filters:focal(715x327:985x597)/cdn.vox-cdn.com/uploads/chorus_image/image/67009911/Screen_Shot_2020_07_02_at_9.36.27_AM.0.png' width='700px' /><br/>
-Shane Dawson has apologized for his use of blackface, anti-Semitic and racist language, and disturbing comments about children and animals on several occasions in the past — and audiences have largely given him a pass. But after posting a new apology video on Friday that didn't go over well with some high-profile viewers, that's suddenly started to change.
-<a href='https://www.theverge.com/2020/7/2/21306858/shane-dawson-jenna-marbles-youtube-blackface-racism-content'> Source <a/>
