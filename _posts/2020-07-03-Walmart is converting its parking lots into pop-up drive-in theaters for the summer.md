@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zkTP7MchceGqWw1NmYLUwCrKuFw=/0x0:4800x2700/1200x800/filters:focal(2016x966:2784x1734)/cdn.vox-cdn.com/uploads/chorus_image/image/67010502/walmart_drive_in_movie_theater_graphic.0.png' width='700px' /><br/>
-Walmart is converting some of its parking lots into drive-in theaters for the summer as the movie industry struggles amid the coronavirus pandemic.
-<a href='https://www.theverge.com/2020/7/2/21311229/walmart-parking-lot-drive-in-movie-theaters'> Source <a/>

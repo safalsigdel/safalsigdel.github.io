@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7w96t-7f5ohvA6q9PEek8h3us-4=/0x0:2040x1360/1200x800/filters:focal(860x562:1186x888)/cdn.vox-cdn.com/uploads/chorus_image/image/67013864/mchin_200701_4082_0001.0.0.jpg' width='700px' /><br/>
+Seventeen! This laptop has a 17-inch screen. It also weighs 2.98 pounds.
+<a href='https://www.theverge.com/21310392/lg-gram-17-review-display-weight-specs-price-features'> Source <a/>
