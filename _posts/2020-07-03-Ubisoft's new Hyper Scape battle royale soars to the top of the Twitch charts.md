@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BFfREHsrS1YyJtTGrau3f0fmBf8=/0x0:1500x500/1200x800/filters:focal(508x164:748x404)/cdn.vox-cdn.com/uploads/chorus_image/image/67010578/1500x500.0.jpeg' width='700px' /><br/>
-Ubisoft's new battle royale, Hyper Scape, was officially announced today in unconventional fashion: by rising to the top of the Twitch charts.
-<a href='https://www.theverge.com/2020/7/2/21311443/ubisoft-hyper-scape-battle-royale-twitch-reveal-streamers'> Source <a/>
