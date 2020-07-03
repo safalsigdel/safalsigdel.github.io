@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/--QbO_1sEkgWvxfrmZoQ-zzTDOA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67012375/akrales_191206_3828_0016.0.0.jpg' width='700px' /><br/>
+Steph Korey, the co-CEO of luggage company Away, will be stepping down from her role within the year, co-founder Jen Rubio and co-CEO Stuart Haselden told staff today, after employees voiced concern over Korey's recent social media behavior.
+<a href='https://www.theverge.com/2020/7/2/21312005/away-employees-steph-korey-instagram'> Source <a/>

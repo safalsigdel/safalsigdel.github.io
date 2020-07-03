@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z-ENGawUO9rHvGIqMH-NUFv7jBM=/529x0:4500x2321/1200x800/filters:focal(2116x839:2836x1559)/cdn.vox-cdn.com/uploads/chorus_image/image/67009072/lasso.0.jpg' width='700px' /><br/>
-Facebook is shutting down Lasso, the heavily TikTok-inspired video app it launched back in 2018. CNN's Kerry Flynn spotted the notifications being sent to users, telling them that the app won't be usable after July 10th, and advising them to download any videos they want to keep.
-<a href='https://www.theverge.com/2020/7/2/21311077/facebook-lasso-shutting-down-tiktok-short-form-video-hobbi'> Source <a/>

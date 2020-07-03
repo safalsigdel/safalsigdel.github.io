@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Uk9VJ973jGeg3n6ST1QtXAmOrbs=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67011860/Screen_Shot_2020_07_02_at_12.09.27_PM.0.png' width='700px' /><br/>
+We may have just gotten our best look yet at Super Nintendo World, Nintendo and Universal's upcoming Mario-themed area for Universal Studios Japan — and it looks like a level plucked straight out of a Mario game and dropped into the real world (via Input).
+<a href='https://www.theverge.com/2020/7/2/21311592/super-nintendo-world-japan-mario-level-real-world-universal-studios'> Source <a/>

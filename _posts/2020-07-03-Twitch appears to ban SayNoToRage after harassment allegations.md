@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WtsSux07G_MztGiw3TIzH80MFsI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67012405/acastro_190926_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
+Twitch appears to have banned SayNoToRage, a popular Destiny streamer, after several women said that he harassed them or touched them without consent.
+<a href='https://www.theverge.com/2020/7/2/21312031/saynotorage-twitch-ban-sexual-harassment-allegations'> Source <a/>

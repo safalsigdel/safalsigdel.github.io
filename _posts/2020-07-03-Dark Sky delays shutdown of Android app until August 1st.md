@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/27OK4CP_P0FmdVPU0e7ltKqjnhc=/0x0:982x517/1200x800/filters:focal(413x181:569x337)/cdn.vox-cdn.com/uploads/chorus_image/image/67008134/Screen_Shot_2018_08_20_at_1.25.27_PM.0.png' width='700px' /><br/>
-Popular weather app Dark Sky, now owned by Apple, is keeping its doors open on Android for a little longer.
-<a href='https://www.theverge.com/2020/7/1/21310801/dark-sky-android-app-delay-shutdown-august-1st'> Source <a/>

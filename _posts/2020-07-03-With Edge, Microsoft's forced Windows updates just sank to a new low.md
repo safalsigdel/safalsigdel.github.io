@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R0qiSAgr5D46xD_2eMtQu5gOGVg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67011754/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
+If I told you that my entire computer screen just got taken over by a new app that I'd never installed or asked for — it just magically appeared on my desktop, my taskbar, and preempted my next website launch — you'd probably tell me to run a virus scanner and stay away from shady websites, no?
+<a href='https://www.theverge.com/21310611/microsoft-edge-browser-forced-update-chromium-editorial'> Source <a/>

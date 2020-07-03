@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/36JGHcq9unI4XTLonbxpoWtKpL4=/0x0:1880x879/1200x800/filters:focal(790x290:1090x590)/cdn.vox-cdn.com/uploads/chorus_image/image/67011926/amazon_prime_video_windows.0.jpg' width='700px' /><br/>
+Amazon Prime Video's dedicated app for Windows 10 is now live in the Microsoft Store, the company announced Thursday. It allows you to stream videos and download them for offline viewing. While it's always been possible to stream Prime Video content through a browser like Chrome, there was no way to download videos on a Windows device to view offline until now.
+<a href='https://www.theverge.com/2020/7/2/21311538/amazon-prime-video-windows-10-app-desktop'> Source <a/>

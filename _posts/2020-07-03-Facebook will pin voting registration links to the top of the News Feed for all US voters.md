@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q9a-toWfqW9lM2TbMRH5pDTdCUU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67009090/acastro_180406_1777_facebook_Congress_0001.0.jpg' width='700px' /><br/>
-Facebook will pin a box with information about voter registration on the top of the News Feed for every US user who is of voting age starting tomorrow, July 3rd, the company announced today.
-<a href='https://www.theverge.com/2020/7/2/21310690/facebook-voter-registration-information-box-top-news-feeds'> Source <a/>

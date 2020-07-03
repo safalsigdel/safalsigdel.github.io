@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fP9tC2nwXpvdFfLMfLqIStNOx4g=/0x0:1600x1200/1200x800/filters:focal(326x69:582x325)/cdn.vox-cdn.com/uploads/chorus_image/image/67011963/ted40041_hdr_copy.0.jpg' width='700px' /><br/>
+Olympus is becoming the latest camera company to release an app that allows customers to use its mirrorless cameras as high-quality webcams with a new OM-D Webcam Beta app, via PetaPixel.
+<a href='https://www.theverge.com/2020/7/2/21311925/olympus-om-d-webcam-beta-app-windows-mirrorless-camera-webcam-video-conferencing'> Source <a/>
