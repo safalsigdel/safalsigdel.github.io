@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ni0j2R3X2WzspQpfqXYwxCVkRjk=/0x0:1461x1165/1200x800/filters:focal(615x467:847x699)/cdn.vox-cdn.com/uploads/chorus_image/image/67010016/2k21.0.png' width='700px' /><br/>
-2K Games has announced that it'll sell the next-gen PS5 and Xbox Series X versions of the upcoming NBA 2K21 for $69.99, a $10 increase to the current-gen Xbox One and PS4 versions of the game. And it's the first indication that the Xbox Series X and PlayStation 5 may be bringing a price increase from the standard $60 that major video games have been sold at for years when they arrive this fall.
-<a href='https://www.theverge.com/2020/7/2/21311250/nba-2k21-playstation-5-xbox-series-x-versions-70-dollars-next-gen-price-increase-games'> Source <a/>
