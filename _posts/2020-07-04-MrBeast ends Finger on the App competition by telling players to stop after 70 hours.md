@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/H7tFNUItQMKX8muptvPt6FwzS9k=/0x0:1796x1226/1200x800/filters:focal(755x470:1041x756)/cdn.vox-cdn.com/uploads/chorus_image/image/67015209/Screen_Shot_2020_07_03_at_2.31.09_PM.0.png' width='700px' /><br/>
+After watching contestants keep their fingers attached to a phone screen for more than 70 hours, YouTube creator Jimmy “MrBeast” Donaldson called an early end to a massive competition originally designed with one winner and a $25,000 prize in mind. The result? Four winners, each walking away with $20,000 in hand.
+<a href='https://www.theverge.com/2020/7/3/21312701/mrbeast-finger-app-competition-stream-winner-final-four-prize-youtube-mschf'> Source <a/>
