@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IA6472l-lCuwLVWY9l8RKGPEw68=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67010698/masks.0.jpg' width='700px' /><br/>
-Facebook will add messaging to its News Feed and Instagram's feed to encourage people to wear face masks, the company said on Thursday. An alert will appear at the top of News Feeds on Facebook that directs users to the COVID-19 Information Center, and they will have links to the Centers for Disease Control and Prevention for more information. Instagram will include a similar prompt with CDC links.
-<a href='https://www.theverge.com/2020/7/2/21311436/facebook-instagram-face-masks-message-feed-cdc'> Source <a/>
