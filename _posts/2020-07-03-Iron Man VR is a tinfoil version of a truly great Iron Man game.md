@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bk4qXHzYburDXEF2wYgGy5WG93s=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67009793/Suit_Station.0.png' width='700px' /><br/>
-“I am not Iron Man,” I mutter to myself after crashing into a wall for the umpteenth time while waving my arms around. But it's not for a lack of effort.
-<a href='https://www.theverge.com/21311143/iron-man-vr-review-tony-stark-virtual-reality-playstation-marvel-flight-psvr'> Source <a/>

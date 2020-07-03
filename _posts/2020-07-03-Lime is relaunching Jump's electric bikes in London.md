@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kX1IenMf9TW4Dxsjim19zywWXto=/0x0:4309x2873/1200x800/filters:focal(1811x1093:2499x1781)/cdn.vox-cdn.com/uploads/chorus_image/image/67013473/1157810212.jpg.0.jpg' width='700px' /><br/>
+Lime is relaunching Jump's electric bike-share service in London in its first move since acquiring the struggling bike brand from Uber.
+<a href='https://www.theverge.com/2020/7/3/21312011/lime-relaunches-jump-electric-bikes-london-scooters'> Source <a/>
