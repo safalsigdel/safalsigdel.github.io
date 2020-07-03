@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_ozwVbez1J775Le76VmQf50DFPQ=/0x0:1027x687/1200x800/filters:focal(432x262:596x426)/cdn.vox-cdn.com/uploads/chorus_image/image/67014244/oneweb.0.jpg' width='700px' /><br/>
+As part of a consortium that includes Indian telecom Bharti Global, the UK government will invest $500 million and take a “significant equity share” in space exploration firm OneWeb, it announced Friday. OneWeb, which has its headquarters in the UK, filed for Chapter 11 bankruptcy protection in the US in March, after it was unable to secure financing. Bharti Global also will invest $500 million as part of the deal.
+<a href='https://www.theverge.com/2020/7/3/21312456/uk-oneweb-500-million-space'> Source <a/>

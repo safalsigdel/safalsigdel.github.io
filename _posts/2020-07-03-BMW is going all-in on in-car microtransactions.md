@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/udhDXGcPFmY-GecybvxlvQ0XvVk=/0x0:5410x3413/1200x800/filters:focal(2273x1275:3137x2139)/cdn.vox-cdn.com/uploads/chorus_image/image/67010680/1219290711.jpg.0.jpg' width='700px' /><br/>
-BMW has detailed an overhaul to the digital systems that power its luxury vehicles, including a new map and navigation system, a revamped digital assistant, a “digital key” (first shown off at Apple's annual developer conference last week), and wireless Android Auto. But the most interesting thing BMW shared about the changes is that the company is going all-in on in-car microtransactions.
-<a href='https://www.theverge.com/2020/7/2/21311332/bmw-in-car-purchase-heated-seats-software-over-the-air-updates'> Source <a/>
