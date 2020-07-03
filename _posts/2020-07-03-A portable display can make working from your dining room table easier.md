@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mR-k3henJNxjSgb_4d8wvOmY9-M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67014076/dseifert_200701_4083_0009.0.0.jpg' width='700px' /><br/>
+Working from home (which many of us have been forced to do for the past few months, whether we want to or not) can be more productive than being in an office — provided you have a comfortable and functional place to work within your home. Unfortunately, for many who have been suddenly thrown into this situation, the best space they have to work is on a small laptop at a dining room table.
+<a href='https://www.theverge.com/21311820/ananta-usb-c-portable-touchscreen-display-review-price-specs-features'> Source <a/>
