@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kQ8CPqSf4mko0rov9hx7mQMluF4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67010760/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter engineers have been working since January on an internal effort to replace problematic yet commonplace programming language like “master” and “slave,” CNET reported. It's part of a larger effort among open-source developers who have been working to remove references to slavery from the programming community.
-<a href='https://www.theverge.com/2020/7/2/21311330/twitter-engineers-master-slave-github-programming-racism'> Source <a/>
