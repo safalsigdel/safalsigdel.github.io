@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4SovOwNGXJONCUYtiwvJaWEsrJ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67011436/acastro_200109_1777_verizon_0002.0.0.jpg' width='700px' /><br/>
-Verizon Fios already offers new customers a free year of Disney Plus service, and now it's looking to sweeten the deal further by adding free Hulu subscriptions, too, for its two more expensive plans.
-<a href='https://www.theverge.com/2020/7/2/21311790/verizon-fios-free-hulu-offer-new-customers-disney-plus-internet'> Source <a/>
