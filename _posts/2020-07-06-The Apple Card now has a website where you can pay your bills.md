@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q1c_bxHnXiKFaTZSAvGRXrdHnRA=/0x0:2724x1570/1200x800/filters:focal(1145x568:1579x1002)/cdn.vox-cdn.com/uploads/chorus_image/image/67011800/Screen_Shot_2020_07_02_at_3.32.28_PM.0.png' width='700px' /><br/>
-Apple has introduced a new web portal for managing its Apple Card credit card (including paying bills, viewing the current balance, and seeing past bill statements), which makes the experience as a whole less reliant on an iPhone or iPad, via AppleInsider.
-<a href='https://www.theverge.com/2020/7/2/21311831/apple-card-web-interface-pay-your-bills-credit-manage-iphone-reliant'> Source <a/>
