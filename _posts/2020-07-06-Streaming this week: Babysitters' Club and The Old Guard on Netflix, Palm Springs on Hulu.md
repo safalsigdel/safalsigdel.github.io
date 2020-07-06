@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eXM6WfRogDZ1zmB4c5UzK8hJuGo=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/67018799/pasted_image_0.0.png' width='700px' /><br/>
+If you have spent the holiday weekend watching the Hamilton movie on repeat, let's just say I'm not judging you. At all. Polygon has an interesting analysis about how different the musical is on film.
+<a href='https://www.theverge.com/2020/7/5/21313792/streaming-babysitters-club-netflix-palm-springs-hulu'> Source <a/>
