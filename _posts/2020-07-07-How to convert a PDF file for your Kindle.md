@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7DmHT_fd56yjwYxCcWOI8ImRbWI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67021610/akrales_181101_3056_0518.0.jpg' width='700px' /><br/>
-Recently, a friend sent me a preview of a book that she was about to have published and asked me to read it. I was delighted — but unfortunately, the copy she sent was formatted as a PDF file. And as many of us know, reading a PDF on a smartphone or even on an ebook reader is a recipe for eyestrain.
-<a href='https://www.theverge.com/21314512/pdf-file-amazon-kindle-convert-how-to-read'> Source <a/>
