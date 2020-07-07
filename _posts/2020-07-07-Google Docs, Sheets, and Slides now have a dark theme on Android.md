@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/aLztCj0HKY2g2uXrmR7EzpF5dvI=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/67023072/Google_Dark_Mode_Android.0.png' width='700px' /><br/>
 Google is rolling out a dark mode for its Docs, Sheets, and Slides apps on Android starting today.
-<a href='https://www.theverge.com/2020/7/6/21314913/google-docs-sheets-apps-slides-dark-mode-android'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/aLztCj0HKY2g2uXrmR7EzpF5dvI=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/67023072/Google_Dark_Mode_Android.0.png' width='700px' /><br/>
-Google is rolling out a dark mode for its Docs, Sheets, and Slides apps on Android starting today.
 <a href='https://www.theverge.com/2020/7/6/21314913/google-docs-sheets-apps-slides-dark-mode-android'> Source <a/>
