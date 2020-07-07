@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EX6iSYJymDv-559o1eDtyysqn80=/0x0:1557x809/1200x800/filters:focal(655x281:903x529)/cdn.vox-cdn.com/uploads/chorus_image/image/67026000/Capture.0.jpg' width='700px' /><br/>
+Amazon Prime Video is rolling out user profiles for family members and friends who share Prime accounts, the company announced today.
+<a href='https://www.theverge.com/2020/7/7/21315370/amazon-prime-video-user-profiles-kids-household-wallet-sharing'> Source <a/>
