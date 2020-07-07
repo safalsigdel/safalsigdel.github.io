@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O9b1mhI_GcjYjKnSC29Kho0tjD8=/0x0:1639x1085/1200x800/filters:focal(689x412:951x674)/cdn.vox-cdn.com/uploads/chorus_image/image/67017775/RocketLab_F9_SimonMoffatt_SamToms_LowRes4.0.jpg' width='700px' /><br/>
-Rocket Lab's 13th mission ended in failure on Saturday, after the company's rocket experienced “an anomaly” after launching to space. As a result, Rocket Lab lost its rocket, as well as all the satellites it carried on board.
-<a href='https://www.theverge.com/2020/7/4/21313502/rocket-lab-electron-launch-failure-pics-or-it-didnt-happen'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BRwtfOPuAlwuBxWk3HS5znhOBf4=/0x0:1035x567/1200x800/filters:focal(446x135:610x299)/cdn.vox-cdn.com/uploads/chorus_image/image/67017351/duckduckgo.0.png' width='700px' /><br/>
-Privacy-focused search engine DuckDuckGo has been restored in India after being unreachable for many users there since July 1st, Android Police reported. Reports about what was causing the outage have varied. Some users reported the Indian government appeared to be behind the block, and others said they were getting what appeared to be DNS lookup errors, according to Android Police.
-<a href='https://www.theverge.com/2020/7/4/21313393/duckduckgo-india-privacy-apps-banned'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kZ6cEogDMKHgEMfm4MdAoJ3w2LY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67020316/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
-Facebook is testing Instagram's Reels feature in India, Business Insider reports. Reels is a video editing tool designed to let people create TikTok-style 15 second videos that can be shared on their Instagram Stories, sent via DM, or posted to a section of the Explore tab called Top Reels.
-<a href='https://www.theverge.com/2020/7/6/21314370/instagram-reels-india-tiktok-video-editing-15-seconds-brazil-france-germany-lasso'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jVAZHJUKF3-umsiBRMA7W8acLKg=/0x0:2048x1152/1200x800/filters:focal(629x301:955x627)/cdn.vox-cdn.com/uploads/chorus_image/image/67024981/EcSD7UqXkAAQIzy.0.jpg' width='700px' /><br/>
+Photos allegedly showing Samsung's unannounced Galaxy Note 20 Ultra have been shared by YouTuber Jimmy Is Promo. The pictures could be the first real-life glimpse we've seen of the new Note series. Samsung tends to announce new Galaxy Note phones in August each year.
+<a href='https://www.theverge.com/2020/7/7/21315765/samsung-galaxy-note-20-ultra-leaked-photographs-camera-bump-hole-punch-notch'> Source <a/>

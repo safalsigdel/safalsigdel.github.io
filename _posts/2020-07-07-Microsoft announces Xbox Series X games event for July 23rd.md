@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W7vVNN1K05-dDCeAML-hxsA9ZO0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67021130/XboxSeriesXTech_Inline1.0.jpg' width='700px' /><br/>
-Microsoft will hold its Xbox Series X games event on July 23rd at 9AM PT / 12PM ET. The company is planning on showing games made by its Xbox Game Studios, including Halo Infinite. 343 industries briefly teased Halo Infinite in a trailer a couple of weeks ago, revealing that The Banished antagonists are returning for the next big installment in the Halo franchise.
-<a href='https://www.theverge.com/2020/7/6/21302523/microsoft-xbox-series-x-games-event-stream-date'> Source <a/>

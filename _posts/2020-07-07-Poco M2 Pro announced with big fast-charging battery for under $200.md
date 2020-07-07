@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G9ojEX_hu2fOe1BJH0EzLThtix8=/0x0:2177x1451/1200x800/filters:focal(915x552:1263x900)/cdn.vox-cdn.com/uploads/chorus_image/image/67024653/pm21.0.jpg' width='700px' /><br/>
+Newly independent Xiaomi spin-off Poco has announced its latest smartphone, further broadening the brand beyond the Poco F1's initial pitch of high specs for low prices. Like the X2, the M2 Pro is more of a mid-range affair: it's basically a tweaked version of Xiaomi's global Redmi Note 9 Pro that's aimed at the Indian market.
+<a href='https://www.theverge.com/2020/7/7/21315701/poco-m2-pro-india-announced-price-specs-release-date'> Source <a/>
