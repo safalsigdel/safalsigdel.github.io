@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/06RXPiXeHLM0o5dNBEy6XJE5FT8=/0x0:1200x659/1200x800/filters:focal(504x234:696x426)/cdn.vox-cdn.com/uploads/chorus_image/image/67021365/unnamed.0.jpg' width='700px' /><br/>
-HyperJuice's 100W gallium nitride (GaN) USB-C charger — which the company says is the first of its kind — is now available to buy for $99.99, following a successful Kickstarter campaign last fall.
-<a href='https://www.theverge.com/2020/7/6/21311978/hyper-hyperjuice-charger-available-price-kickstarter-specs'> Source <a/>
