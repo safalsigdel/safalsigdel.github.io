@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bApeFIBf_6UeIW8sMFRKs5MHr-k=/0x0:2560x1708/1200x800/filters:focal(1076x650:1484x1058)/cdn.vox-cdn.com/uploads/chorus_image/image/67021381/8bitdoxboxcontroller.0.jpeg' width='700px' /><br/>
-Microsoft is planning to launch its xCloud game streaming service later this year as part of Xbox Game Pass, and accessory makers are getting ready. 8BitDo, a company that specializes in retro and modern alternative gamepads, has adapted its retro NES controller for Microsoft's Project xCloud service.
-<a href='https://www.theverge.com/2020/7/6/21314393/microsoft-xcloud-xbox-controller-8bitdo-sn30-pro-service'> Source <a/>
