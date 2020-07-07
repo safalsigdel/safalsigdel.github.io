@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G4zayqzKMaudpCCkWQfojMbazKM=/0x0:4490x2993/1200x800/filters:focal(1404x1236:2122x1954)/cdn.vox-cdn.com/uploads/chorus_image/image/67015541/1212189035.jpg.0.jpg' width='700px' /><br/>
-LinkedIn plans to stop its app from repeatedly copying the contents of an iOS device's clipboard, after a user highlighted the seemingly privacy-invasive practice earlier this week. ZDNet reports that LinkedIn called the behavior a bug.
-<a href='https://www.theverge.com/2020/7/3/21312821/linkedin-app-ios-14-clipboard-copying-fix'> Source <a/>

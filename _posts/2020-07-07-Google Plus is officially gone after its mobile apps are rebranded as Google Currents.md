@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/auw2frfqlr1F9hsgYVI8y6sPg-8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67023081/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google Plus, the company's failed social network, is officially gone as of today. After Google Plus personal accounts were shut down last year, Google announced that it would be replacing the social network for enterprise users with Google Currents. Currents is generally available starting today, and the Google Plus Android and iOS apps have been rebranded to Google Currents to reflect the change (via 9to5Google).
+<a href='https://www.theverge.com/2020/7/6/21314912/google-plus-gone-mobile-apps-currents-rebranded'> Source <a/>

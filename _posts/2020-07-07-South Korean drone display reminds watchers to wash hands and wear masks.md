@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+South Korea has done a remarkably good job of combating the COVID-19 pandemic. But as experts warn of a second wave of infections, the government has organized an unusual way to both thank its frontline medical staff for their hard work and remind citizens to abide by preventative measures: a drone light show over the Han River in the capital of Seoul.
+<a href='https://www.theverge.com/tldr/2020/7/6/21314574/drone-display-south-korea-wear-masks-wash-hands-thank-healthcare-workers-coronavirus'> Source <a/>

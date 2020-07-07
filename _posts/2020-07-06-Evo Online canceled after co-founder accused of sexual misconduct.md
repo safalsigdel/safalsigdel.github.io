@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9dGOA9LWjU4IhuOuK1mIQQzvpxE=/0x0:600x337/1200x800/filters:focal(261x124:357x220)/cdn.vox-cdn.com/uploads/chorus_image/image/67013546/EVO_Online_2020_Cancelled_07_03_20.0.jpg' width='700px' /><br/>
-Fighting game tournament organizer Evo has canceled Evo Online and removed its co-founder and president from the company after serious allegations surfaced about his past behavior. The long-running esports event had previously been scheduled to take place in a new online-only format starting July 4th due to the coronavirus pandemic.
-<a href='https://www.theverge.com/2020/7/3/21312385/evo-online-cancelled-sexual-misconduct-allegations'> Source <a/>

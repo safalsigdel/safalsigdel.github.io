@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z7UswMgWjimn79DFWP8R074Lsno=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67016735/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
-Reddit says it's releasing a fix for a piece of code that copied contents from users' clipboards. Users in a beta version of iOS 14, which sends an alert when an app tries to copy clipboard information, reported receiving the alerts with each keystroke in Reddit's iOS app.
-<a href='https://www.theverge.com/2020/7/4/21313214/reddit-code-clipboard-privacy-copy-ios'> Source <a/>

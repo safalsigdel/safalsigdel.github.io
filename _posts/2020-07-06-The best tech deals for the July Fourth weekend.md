@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LIVOxSflJ8RinNiIo6LQDjA8h3Q=/0x0:2040x1360/1200x800/filters:focal(579x509:905x835)/cdn.vox-cdn.com/uploads/chorus_image/image/67013960/dseifert_190905_3634_0001.0.jpg' width='700px' /><br/>
-Tomorrow is July Fourth, or Independence Day if you live in the US. Like all major US holidays, there are some good sales happening on tech that are worth mentioning. We've listed the best ones we know about below, broken up by category. Many of them are happening through tomorrow night, so it's best to hurry if you want to get your shopping on. Though, some of them last for a few more days.
-<a href='https://www.theverge.com/good-deals/2020/7/3/21311185/july-4th-weekend-tech-deals-best-sales-discounts'> Source <a/>

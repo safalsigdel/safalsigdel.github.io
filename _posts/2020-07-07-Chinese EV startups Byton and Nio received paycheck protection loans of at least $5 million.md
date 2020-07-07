@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C2UJC1wJtjqT2SRZVi8yNM0mYEU=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/67021820/ces_2018_byton_concept_suv_3409.0.jpg' width='700px' /><br/>
+Chinese EV startups Byton, Nio, and Karma Automotive were among the companies that received the largest loans from the government's COVID-19-related Paycheck Protection Program (PPP) in April, with each receiving loans of between $5 million and $10 million, according to new data released by the Treasury Department and the Small Business Administration (SBA).
+<a href='https://www.theverge.com/2020/7/6/21314730/byton-lordstown-karma-ppp-loans-coronavirus-bailout-layoffs'> Source <a/>

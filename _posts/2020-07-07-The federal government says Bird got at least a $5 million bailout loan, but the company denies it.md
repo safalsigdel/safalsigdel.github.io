@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3bIExmjLBcRWYC5SIsV4kuzBWik=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67022213/akrales_190321_3312_0044.5.jpg' width='700px' /><br/>
+Bird, the beleaguered e-scooter company, received a loan worth between $5 million and $10 million from the federal government's Paycheck Protection Program (PPP) in late April. The company said in its application to the Treasury Department and the Small Business Association that the loan would help it retain 341 jobs. But less than a month before, Bird laid off over 400 employees, or about 30 percent of its staff.
+<a href='https://www.theverge.com/2020/7/6/21314829/bird-covid-ppp-loan-names-av-lidar-scooter-mobility-layoffs'> Source <a/>
