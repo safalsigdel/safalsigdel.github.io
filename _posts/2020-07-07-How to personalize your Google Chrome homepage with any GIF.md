@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/eQuiuAzcYqRD6o7UJh2NKgrVwQ0=/0x0:2420x1244/1200x800/filters:focal(743x341:1129x727)/cdn.vox-cdn.com/uploads/chorus_image/image/67021568/Screen_Shot_2020_07_06_at_10.21.34_AM.0.png' width='700px' /><br/>
 I spend a lot of time trying to personalize every aspect of my laptop: pasting stickers on the top, separating all of my icons into folders on my desktop, and, thanks to a little trick I learned on TikTok, using my favorite GIFs as backgrounds on Google Chrome.
-<a href='https://www.theverge.com/21314675/googe-chrome-gif-background-image-make-create-how-to-new-tab'> Source <a/>
+<a href='https://www.theverge.com/2020/7/6/21314548/googe-chrome-gif-background-image-make-create-how-to-new-tab'> Source <a/>
