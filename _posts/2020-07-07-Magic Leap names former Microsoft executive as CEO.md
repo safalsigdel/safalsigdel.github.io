@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/voQhM6XV9Iw5wlNEuqUZ6bm9QiM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67025698/jbareham_180717_2744_0052.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/UuJ1LCwSGvHn2imc8hL3J_hePgU=/0x0:4645x3116/1200x800/filters:focal(1952x1187:2694x1929)/cdn.vox-cdn.com/uploads/chorus_image/image/67025698/1145341930.jpg.5.jpg' width='700px' /><br/>
 Magic Leap has appointed Peggy Johnson, a former Microsoft executive, as its new CEO. Johnson will begin leading the company on August 1st, replacing current CEO and company co-founder Rony Abovitz. Her appointment is part of the struggling mixed reality company's move toward business customers and away from consumer entertainment and personal computing.
 <a href='https://www.theverge.com/2020/7/7/21315864/magic-leap-new-ceo-microsoft-business-vp-rony-abovitz-step-down'> Source <a/>
