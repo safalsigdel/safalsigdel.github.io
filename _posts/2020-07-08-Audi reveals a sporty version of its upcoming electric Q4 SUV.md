@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RZ4fmWKCfWYpuU2a3zjGWpg-Qsw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67028362/audi_q4_sportback_0040.0.jpg' width='700px' /><br/>
+Audi has unveiled concept renderings of a new “Sportback” version of the Q4 E-Tron electric SUV that it debuted last year. Meant to serve as a smaller and more affordable option to the flagship E-Tron, the Q4s are expected to go on sale in 2021 and will start at around $45,000.
+<a href='https://www.theverge.com/2020/7/7/21316580/audi-q4-etron-sportback-suv-2021-volkswagen-meb'> Source <a/>

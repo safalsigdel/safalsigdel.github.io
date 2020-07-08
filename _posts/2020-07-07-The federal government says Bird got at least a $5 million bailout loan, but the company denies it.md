@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3bIExmjLBcRWYC5SIsV4kuzBWik=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67022213/akrales_190321_3312_0044.5.jpg' width='700px' /><br/>
-There's a dispute over which companies received federal bailout money.
-<a href='https://www.theverge.com/2020/7/6/21314829/bird-covid-ppp-loan-names-av-lidar-scooter-mobility-layoffs'> Source <a/>

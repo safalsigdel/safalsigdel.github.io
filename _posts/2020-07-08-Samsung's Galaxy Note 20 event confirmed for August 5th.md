@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fOZu5qIoOktV4Rykd9ewtYNG-1g=/0x0:1280x800/1200x0/filters:focal(0x0:1280x800):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20062658/s20.jpg' width='700px' /><br/>
+Samsung has announced that its next Galaxy Unpacked event will take place on Wednesday, August 5th, at 10AM ET. The company is expected to reveal its new lineup of Galaxy Note 20 devices, along with a successor to its first foldable, the Galaxy Fold.
+<a href='https://www.theverge.com/2020/7/7/21316609/samsung-galaxy-unpacked-note-20-ultra-fold-2-event-date-august-5-announcement'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VU8nyYNqxkC_DLwBV5fOqILVKcs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67026860/VRG_ILLO_4088_001.0.jpg' width='700px' /><br/>
+Employees at Away are calling for founder and co-CEO Steph Korey to immediately resign, after a photo of her dressed as a Native American surfaced on Twitter last Friday.
+<a href='https://www.theverge.com/2020/7/7/21314972/away-employees-ceo-steph-korey-resign-native-american-costume'> Source <a/>

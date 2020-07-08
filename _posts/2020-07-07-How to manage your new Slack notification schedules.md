@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YlIFQhFxgWhFf9h7wj_5Q0j3JK8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67023850/acastro_190412_1777_slack_0001.0.jpg' width='700px' /><br/>
-Slack is now letting you choose when you get notifications on a per-day basis, meaning you can finally stop getting Slack pings over the weekend.
-<a href='https://www.theverge.com/21315295/slack-pause-notifications-per-day-basis-weekends-custom-schedule'> Source <a/>

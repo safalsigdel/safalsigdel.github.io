@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XVUHIymGSwMubE03IgYS-ufC07E=/0x0:2700x1570/1200x800/filters:focal(1134x569:1566x1001)/cdn.vox-cdn.com/uploads/chorus_image/image/67027056/Screen_Shot_2020_07_07_at_11.46.03_AM.0.png' width='700px' /><br/>
+A group of Formula One and Formula E drivers is starting a new racing series that will pit competitors against each other on ultra-fast custom-built electric scooters. The series — dubbed “Electric Scooter Championship,” or “eSkootr” — is set to launch in 2021, and the launch video shows riders whizzing through city streets on Tron-style vehicles and wearing matching neon-accented gear.
+<a href='https://www.theverge.com/2020/7/7/21316179/eskootr-electric-scooter-racing-series-formula-e-f1-escooter'> Source <a/>

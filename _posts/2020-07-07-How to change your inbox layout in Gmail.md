@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Yr94AWaIBkBdQZ7jGwJmoF92U4A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67023359/acastro_190703_1777_pixel_tracking_0001.0.jpg' width='700px' /><br/>
-Gmail offers you several customizable formats — so many that you can have multiple Gmail accounts and they can all look completely different. For example, you can have all of your emails in one long list, you can separate your messages into multiple tabs, or you can have your inbox split into unread and read messages.
-<a href='https://www.theverge.com/21310155/gmail-inbox-layout-email-customize-tabs-priority-messages-google'> Source <a/>

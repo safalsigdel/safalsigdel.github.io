@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q-T-tHQe2kkbO4lAZwOc5a3lYX0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67022033/akrales_171113_2084_0021.0.jpg' width='700px' /><br/>
-Audio company Sennheiser received between $2 million and $5 million as part of the Paycheck Protection Program (PPP), according to newly released US Department of Treasury data. It's one of many privately held tech companies to receive support through the program, which offers small businesses forgivable loans that can be spent on payroll, rent, or utility costs.
-<a href='https://www.theverge.com/2020/7/6/21314768/sennheiser-ppp-paycheck-protection-coronavirus-pandemic-loan'> Source <a/>
