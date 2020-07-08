@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Qualcomm has announced a refreshed version of its flagship Snapdragon 865 processor called the Snapdragon 865 Plus, which is designed to boost performance by almost 10 percent for gaming and AI applications.
+<a href='https://www.theverge.com/circuitbreaker/2020/7/8/21312035/qualcomm-new-snapdragon-865-plus-gaming-performance-faster-cpu-gpu-wifi'> Source <a/>
