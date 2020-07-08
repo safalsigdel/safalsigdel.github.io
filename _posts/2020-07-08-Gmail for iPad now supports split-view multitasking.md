@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8QxGSqeJIrVBKQBwZmVaaziQf3g=/0x0:1584x1051/1200x800/filters:focal(666x400:918x652)/cdn.vox-cdn.com/uploads/chorus_image/image/67026510/gmail_split_view.0.jpg' width='700px' /><br/>
-Gmail for iPad's latest update brings long-awaited support for split-view multitasking, meaning you no longer have to open a full Gmail screen to check or send new emails.
-<a href='https://www.theverge.com/2020/7/7/21315876/google-gmail-for-ipad-split-view-multitasking-support'> Source <a/>

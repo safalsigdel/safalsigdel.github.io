@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Exa6bja56hXNDGY5X9wcNh6ql-4=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/67031235/Yamaha_Civante_Action_VV906564.0.jpg' width='700px' /><br/>
+Yamaha, the Japanese brand known mostly for its pianos and motorcycles, has been selling electric bicycles in the US for a little less than two years. Now, the company is expanding its lineup with the addition of a new, fitness-focused e-bike called the Civante.
+<a href='https://www.theverge.com/2020/7/8/21316271/yamaha-ebike-civante-class-3-price-specs'> Source <a/>
