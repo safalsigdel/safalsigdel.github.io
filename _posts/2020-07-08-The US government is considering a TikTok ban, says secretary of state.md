@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Sdw2DIeDCmssENdvcMwZKRjcTEM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67026173/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-The US is considering a ban on Chinese social media apps like the popular video-sharing platform TikTok, Secretary of State Mike Pompeo told Fox News on Monday.
-<a href='https://www.theverge.com/2020/7/7/21316062/tiktok-ban-app-mike-pompeo-government-china-bytedance-communist-party'> Source <a/>
