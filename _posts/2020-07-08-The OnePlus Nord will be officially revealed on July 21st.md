@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x6Qh_R-XfDDOrsQNYUazEwp-s8Y=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20068544/msedge_RkfJyPG0el.png' width='700px' /><br/>
-The midrange OnePlus Nord is due to be officially announced with an augmented reality event on July 21st, the company announced today. OnePlus said the Nord will be a “more affordable” device compared to its recent flagships, and it's initially due for release in Europe and India. Along with the news of the launch, the company has also released the second part of its documentary series about the phone today.
-<a href='https://www.theverge.com/2020/7/7/21314416/oneplus-nord-ar-launch-event-date-price-smartphone-lineup'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rGonqJniulH-kj3xV_m4Btc4IgQ=/0x0:935x527/1200x800/filters:focal(394x190:542x338)/cdn.vox-cdn.com/uploads/chorus_image/image/67029748/Untitled.0.png' width='700px' /><br/>
+The last big tech event I attended in person was Samsung's launch of the Galaxy S20 line of smartphones. Now Samsung will join everybody else in tech by trying to capture some semblance of that experience and hype in a purely online event with the upcoming Unpacked event scheduled for August 5th.
+<a href='https://www.theverge.com/2020/7/8/21316677/samsung-unpacked-2020-note-fold-flip-earbeans'> Source <a/>
