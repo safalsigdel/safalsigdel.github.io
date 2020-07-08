@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zOy52MLy_KhnVH8QwWfltx5kqe4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67031319/bking_200303_3928_0004.0.jpg' width='700px' /><br/>
+Samsung may not include chargers in the boxes of some of its smartphones starting in 2021, according to a report from Korean news site ETNews. The company is taking them out because many people already have chargers and to help reduce costs, the report says.
+<a href='https://www.theverge.com/2020/7/8/21317304/samsung-smartphone-chargers-2021-cost-environment'> Source <a/>
