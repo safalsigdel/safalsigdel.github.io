@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UrFKTbsxMa9JdUFJKSYgrlu4Ias=/0x0:1576x1051/1200x800/filters:focal(662x400:914x652)/cdn.vox-cdn.com/uploads/chorus_image/image/67026141/A71.0.jpg' width='700px' /><br/>
-Samsung's new Galaxy A71 5G UW is launching on July 16th. At $649, it will be the most affordable way to access Verizon's 5G millimeter-wave network. Preorders for Verizon's edition of the phone, which was announced last month, will begin on July 9th.
-<a href='https://www.theverge.com/2020/7/7/21315936/samsung-galaxy-a71-5g-uw-release-date-specs-price-verizon'> Source <a/>

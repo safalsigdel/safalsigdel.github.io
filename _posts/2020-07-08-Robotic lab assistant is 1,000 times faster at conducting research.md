@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QHt97HUDvxlxXEu1lVFJFPWO5fc=/0x0:5184x3456/1200x800/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/67030837/IMG_4937.0.jpg' width='700px' /><br/>
+Researchers have developed what they say is a breakthrough robotic lab assistant, able to move around a laboratory and conduct scientific experiments just like a human.
+<a href='https://www.theverge.com/21317052/mobile-autonomous-robot-lab-assistant-research-speed'> Source <a/>
