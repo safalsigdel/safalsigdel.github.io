@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kyjojjIY1ruw1zphtHuDsK1X2eg=/0x0:830x600/1200x800/filters:focal(349x234:481x366)/cdn.vox-cdn.com/uploads/chorus_image/image/67029584/linkedin_name_pronunciation_feature.0.jpg' width='700px' /><br/>
+LinkedIn has added a new feature to its user profiles: the option to record 10-second audio clips to let others know how to pronounce your name.
+<a href='https://www.theverge.com/2020/7/8/21317032/linkedin-name-pronunciation-record-audio-feature'> Source <a/>
