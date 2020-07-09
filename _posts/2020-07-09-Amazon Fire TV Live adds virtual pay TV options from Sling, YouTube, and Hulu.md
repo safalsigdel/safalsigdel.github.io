@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YG8V_Yrb931rkVM6iIOygVIlvT0=/0x0:1920x1080/1200x800/filters:focal(557x188:863x494)/cdn.vox-cdn.com/uploads/chorus_image/image/67029742/WG067_staticAsset_LiveHomeScreen_200306_1537.0.png' width='700px' /><br/>
-Amazon's Fire TV platform is expanding its live TV integration to include several key new services: YouTube TV, Sling TV, and Hulu's live TV offering. The new services join previously available services, including Pluto TV and Prime Video Channels.
-<a href='https://www.theverge.com/2020/7/8/21316127/amazon-fire-tv-slig-youtube-hulu-live-streaming-connected'> Source <a/>
