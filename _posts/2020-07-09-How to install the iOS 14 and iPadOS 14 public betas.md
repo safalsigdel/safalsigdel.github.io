@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mSCnZ_UzSHsb1EaG01OtN7mnObA=/0x0:2218x1248/1200x0/filters:focal(0x0:2218x1248):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20047021/JGcnD9G.jpg' width='700px' /><br/>
+iOS 14 and iPadOS 14 are now available in public beta, and you can download and install them. The process for installing each is similar. We'll walk through what's new and how to get the betas onto your devices.
+<a href='https://www.theverge.com/21308213/ios-14-ipados-public-beta-download-iphone-ipad-how-to'> Source <a/>

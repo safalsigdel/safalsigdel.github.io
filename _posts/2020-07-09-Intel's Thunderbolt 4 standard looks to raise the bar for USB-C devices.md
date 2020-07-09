@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Intel has announced the details for its upcoming Thunderbolt 4 connection standard, which will be built on top of the also forthcoming USB4 specification.
-<a href='https://www.theverge.com/circuitbreaker/2020/7/8/21317513/intel-thunderbolt-4-standard-docks-cables-usb4-accessories-port-usbc'> Source <a/>
