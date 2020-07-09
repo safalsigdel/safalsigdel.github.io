@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XS9EMv4y9UXxPhEtS3LqDTncRTw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67035083/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/FyvgODwO3UrhTAZuVIvaxoXH4d8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67035083/acastro_190402_3308_Guide_TikTok_0001.5.jpg' width='700px' /><br/>
 TikTok took down more than 49 million videos from users across the globe during the second half of 2019, the company revealed in a transparency report released this morning.
 <a href='https://www.theverge.com/2020/7/9/21317832/tiktok-content-violations-videos-removed-49-million-2h2019-transparency-report'> Source <a/>
