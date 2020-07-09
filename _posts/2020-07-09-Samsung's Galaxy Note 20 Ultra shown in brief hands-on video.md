@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bWlc5YEdY3BWGVLziOtYokxOYBc=/0x0:2456x1376/1200x800/filters:focal(1032x492:1424x884)/cdn.vox-cdn.com/uploads/chorus_image/image/67031285/Screen_Shot_2020_07_08_at_11.51.54_AM.0.png' width='700px' /><br/>
-As is usually the case with leaked gadgets, first there were photos... and now there's a video. One day after Samsung officially announced the August 5th Unpacked event where it's expected to launch the Galaxy Note 20, Note 20 Ultra, and Galaxy Fold successor, the flagship Note has been given the hands-on treatment on YouTube.
-<a href='https://www.theverge.com/2020/7/8/21317339/samsung-galaxy-note-20-ultra-leak-video-hands-on'> Source <a/>
