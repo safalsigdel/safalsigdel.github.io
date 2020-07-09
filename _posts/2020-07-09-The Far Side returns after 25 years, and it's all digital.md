@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IFRSj9xZfFPFsLips4ZdB_jbN6M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67032121/FARSIDE_LEDE.0.jpg' width='700px' /><br/>
-Gary Larson just released new comics for The Far Side, the first strips since January 1995. While Larson cautions that this is “not a resurrection of The Far Side daily cartoons,” after 25 years of rereading our favorites, we're so excited for new work that we'll take anything he wants to share. Larson started to bring his comics online late last year.
-<a href='https://www.theverge.com/21317458/far-side-new-comics-creator-gary-larson-25-years-digital-tablet'> Source <a/>
