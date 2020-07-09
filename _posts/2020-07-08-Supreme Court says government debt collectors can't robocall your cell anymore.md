@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AAJwxPPqj0pnZHtcPkCjVVzec-s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67028358/bfarsace_120612_3970_0005.0.jpg' width='700px' /><br/>
-The US Supreme Court has upheld a federal ban on robocalls to cellphones from 1991, and it struck down a provision that exempted government-debt collectors.
-<a href='https://www.theverge.com/2020/7/7/21316518/supreme-court-robocalls-ruling-us-government-debt-collectors'> Source <a/>

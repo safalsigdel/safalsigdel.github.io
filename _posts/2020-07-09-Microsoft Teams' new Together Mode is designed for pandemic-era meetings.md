@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Microsoft is introducing some big updates to Microsoft Teams today. The software giant has been working on a new “Together Mode” for Teams ever since the COVID-19 pandemic began, and it's designed to create a virtual live avatar of yourself that's supposed to help you better engage with meetings. Microsoft is using AI to segment your face and shoulders and place you and your co-workers together in a virtual space.
+<a href='https://www.theverge.com/2020/7/8/21317526/microsoft-teams-together-mode-dynamic-view-new-features'> Source <a/>

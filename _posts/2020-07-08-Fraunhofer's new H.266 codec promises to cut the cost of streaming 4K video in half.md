@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z5gtmB2q_z_6kNlhTOtvPjP0VXE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67028235/acastro_180831_1777_cloud_storage_0001.0.jpg' width='700px' /><br/>
-The Fraunhofer Heinrich Hertz Institute, the electrical engineering and computer science division of the esteemed German research organization, on Tuesday announced VVC, a new video codec standard that promises to bring around 50 percent efficiency gains in streaming video compression.
-<a href='https://www.theverge.com/2020/7/7/21316525/fraunhofer-vvc-video-codec-streaming-4k-video-cost-file-size-standards'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rTS4T2btM_Q979fgwbaQps8kStA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67028687/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-Apple's upcoming iOS 14 update might let you pay for items by scanning QR codes that activate Apple Pay, giving you another way to use the company's digital payment platform. 9to5Mac found references to the as-yet unannounced feature in the newest iOS 14 developer beta released earlier today.
-<a href='https://www.theverge.com/2020/7/7/21316667/apple-ios-14-pay-qr-codes-barcodes'> Source <a/>
