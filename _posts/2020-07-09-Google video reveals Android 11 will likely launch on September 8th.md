@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_MrchZs6hLTTJwB8EDCJRgvHvnI=/0x0:3822x2148/1200x0/filters:focal(0x0:3822x2148):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20072779/Screen_Shot_2020_07_08_at_11.06.04_AM.png' width='700px' /><br/>
-Android 11, the next major update to Google's mobile operating system, is likely to begin rolling out on September 8th. As noted by the sharp eyes at Android Police, the date was shown in a slide during a video for the company's “Hey Google” Smart Home Summit.
-<a href='https://www.theverge.com/2020/7/8/21317290/google-android-11-release-date-september-8-rumor'> Source <a/>

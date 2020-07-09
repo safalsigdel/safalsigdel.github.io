@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aUcN1imh08-Jf3zRIj0ID2AJry0=/0x0:2298x1638/1200x800/filters:focal(910x653:1276x1019)/cdn.vox-cdn.com/uploads/chorus_image/image/67035551/Screen_Shot_2020_07_09_at_8.42.01_AM.0.png' width='700px' /><br/>
+A new smart speaker from Google has been spotted as part of a regulatory filing in Japan. Android Police believes this device to be the long-coming sequel to the original Google Home speaker, which hasn't gotten a follow-up since its original release in 2016.
+<a href='https://www.theverge.com/2020/7/9/21318489/google-nest-home-smart-speaker-leak-photos'> Source <a/>

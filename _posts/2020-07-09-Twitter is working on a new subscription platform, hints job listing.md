@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Bg1x738si9179KpmpedPoaObr6g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67030786/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter appears to be working on a subscription platform for its social networking service. A new job listing reveals that Twitter has a new internal team, codenamed “Gryphon,” that is “building a subscription platform.” Twitter is currently recruiting engineers to join this subscription team, with employees collaborating closely with the company's payments team.
-<a href='https://www.theverge.com/2020/7/8/21317266/twitter-subscription-platform-codename-gryphon-job-listing'> Source <a/>
