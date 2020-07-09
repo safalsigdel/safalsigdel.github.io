@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MqmJhj92EdwG-nzAYd8qnvoJj8g=/0x0:1440x1850/1200x800/filters:focal(442x17:672x247)/cdn.vox-cdn.com/uploads/chorus_image/image/67029856/SYW_Image_11.0.jpg' width='700px' /><br/>
-Spotify knows people are changing up their workout routines during the pandemic, so it's making it easier for them to create playlists to soundtrack their regimens. The company is launching an interactive webpage called Soundtrack Your Workout that'll let listeners define their workouts and preferences and then will design a playlist for them.
-<a href='https://www.theverge.com/2020/7/8/21315952/spotify-workout-playlist-customize-launch'> Source <a/>
