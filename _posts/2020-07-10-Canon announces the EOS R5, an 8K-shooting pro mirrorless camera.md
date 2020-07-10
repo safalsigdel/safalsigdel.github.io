@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VJ-Bvfxz4LHjG8tq7ZlJzNeE3qc=/0x0:1750x1165/1200x800/filters:focal(735x443:1015x723)/cdn.vox-cdn.com/uploads/chorus_image/image/67035058/HR_EOS_R5_3.0.jpg' width='700px' /><br/>
-Canon has announced the EOS R5, by far the highest-end mirrorless camera it's ever made. Following Canon's solid entry into full-frame mirrorless with 2018's EOS R and last year's cheaper EOS RP, the R5 is a serious pro-level flagship with a price tag to match. At $3,899 without a lens, this is now Canon's second most expensive camera behind the new 1D X Mark III DSLR.
-<a href='https://www.theverge.com/2020/7/9/21318398/canon-eos-r5-announced-8k-price-specs-release-date'> Source <a/>
