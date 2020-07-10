@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UX4CD7B_N8PTRjQr3ooG07fcqG4=/0x0:1031x1099/1200x0/filters:focal(0x0:1031x1099):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20073837/crash_bandicoot_on_the_run_pano.jpg' width='700px' /><br/>
-Candy Crush Saga creator King has revealed a new free-to-play mobile game for Android and iOS featuring the goofy orange marsupial Crash Bandicoot.
-<a href='https://www.theverge.com/2020/7/9/21317994/crash-bandicoot-mobile-ios-android-candy-crush-saga-temple-run'> Source <a/>
