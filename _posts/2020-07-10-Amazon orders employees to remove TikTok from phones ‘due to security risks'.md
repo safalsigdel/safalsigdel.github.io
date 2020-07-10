@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j830uITXI3D5z5bVU-bHNuCnpV4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67042105/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+Amazon asked employees to remove the popular social video-sharing app TikTok from their mobile devices on Friday, as first reported by The New York Times.
+<a href='https://www.theverge.com/2020/7/10/21320196/amazon-employees-tiktok-uninstall-email-trump-administration-pompeo-ban'> Source <a/>
