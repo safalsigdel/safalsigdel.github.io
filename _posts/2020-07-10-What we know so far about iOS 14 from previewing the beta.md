@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lHE6zllFU8PIbKX07qzIHAKKqlU=/0x0:1306x866/1200x800/filters:focal(549x329:757x537)/cdn.vox-cdn.com/uploads/chorus_image/image/67041566/ios14stock.0.jpg' width='700px' /><br/>
+Apple's beta versions of iOS 14 and iPadOS 14 were released to the public this week, and The Verge's Dieter Bohn was able to preview the new features, which you can now try for yourself.
+<a href='https://www.theverge.com/2020/7/10/21319878/ios-14-public-beta-google-pixel-3a-samsung-note-20-event-rumors-vergecast-412'> Source <a/>
