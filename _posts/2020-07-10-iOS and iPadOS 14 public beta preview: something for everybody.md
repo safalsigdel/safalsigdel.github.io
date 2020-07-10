@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TmHB8h9ErcEyAcTlF000PSxBZEA=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20074077/ios_14_ipados_14_dbohn_190.jpg' width='700px' /><br/>
-In anticipation of today's release of the public betas of iOS 14 for the iPhone and iPadOS 14 for the iPad, I've been using the developer betas and facing a curious mix of feeling both comfortable and overwhelmed.
-<a href='https://www.theverge.com/21317904/ios-ipados-14-public-beta-preview-scribble-home-screen-widgets-apple-maps'> Source <a/>
