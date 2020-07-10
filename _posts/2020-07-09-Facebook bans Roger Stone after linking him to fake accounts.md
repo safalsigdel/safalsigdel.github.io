@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5xbODYojxiDHdazQiEJcXMqPk7g=/0x0:5621x3493/1200x800/filters:focal(2362x1298:3260x2196)/cdn.vox-cdn.com/uploads/chorus_image/image/67033275/1202175777.jpg.0.jpg' width='700px' /><br/>
-On Wednesday, Facebook announced that it had removed accounts belonging to Roger Stone, a friend and confidant of President Donald Trump, after having linked them to fake accounts and pages that were active throughout the 2016 election.
-<a href='https://www.theverge.com/2020/7/8/21317905/facebook-roger-stone-instagram-removed-proud-boys-far-right-manipulation'> Source <a/>

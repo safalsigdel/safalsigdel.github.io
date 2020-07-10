@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Apple is moving away from Intel's chipsets in favor of its new, custom-designed ARM chips — but the company is promising that it'll still support Intel's Thunderbolt USB-C connectivity standard on new Apple silicon computers, despite the lack of Intel processors.
-<a href='https://www.theverge.com/circuitbreaker/2020/7/8/21317980/apple-silicon-intel-thunderbolt-arm-macs-support-usb-c'> Source <a/>

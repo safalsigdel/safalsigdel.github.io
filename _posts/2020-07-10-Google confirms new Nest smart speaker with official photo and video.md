@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i4vU9vAj25Me9QKQEDPrr07Ukt4=/0x0:1601x900/1200x800/filters:focal(673x322:929x578)/cdn.vox-cdn.com/uploads/chorus_image/image/67039387/Nest_image.0.png' width='700px' /><br/>
+Google has responded to the inadvertent reveal of a new Nest smart speaker through regulatory filings by, well, confirming its existence. The company just sent The Verge an official photo of the device, referring to it only as “what the Nest team is working on from home.”
+<a href='https://www.theverge.com/2020/7/9/21319541/new-google-nest-smart-speaker-confirmed-photo'> Source <a/>

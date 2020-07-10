@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z7dz1A_hpSvIzFjQRhJVadcLu0E=/0x0:2600x1722/1200x800/filters:focal(1092x653:1508x1069)/cdn.vox-cdn.com/uploads/chorus_image/image/67037248/fortniteiphonex.5.jpeg' width='700px' /><br/>
+Sony has made a $250 million investment in Epic Games, the two companies announced on Thursday. The deal means Sony gets a 1.4 percent interest in the game development studio and publisher and gives Epic a valuation of $17.86 billion, reports VentureBeat.
+<a href='https://www.theverge.com/2020/7/9/21318978/sony-epic-games-fortnite-investment-250-million-game-development'> Source <a/>

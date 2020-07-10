@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5yMdj-Zt5avYFz2g3dCuGZyhqhg=/0x0:1280x853/1200x800/filters:focal(538x325:742x529)/cdn.vox-cdn.com/uploads/chorus_image/image/67033670/506A3677.0.jpg' width='700px' /><br/>
-Employees inside Ford have asked the company's leadership to stop making and selling police vehicles, according to Jalopnik. In response, Ford CEO Jim Hackett has told employees in a letter that he doesn't think it's “controversial that the Ford Police Interceptor helps officers do their job” and that Ford will continue the business.
-<a href='https://www.theverge.com/2020/7/8/21317894/ford-employees-black-police-vehicles-law-enforcement-george-floyd'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M9o4TbkhL9CbaVWssHyA2j35qGc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67032430/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
-Amazon will start publicly listing the names and addresses of US-based third-party sellers on its Marketplace platform as a measure to fight counterfeiters, according to a report from Business Insider. The change was announced in a note sent to sellers on Wednesday, and the change goes into effect on September 1st.
-<a href='https://www.theverge.com/2020/7/8/21317617/amazon-counterfeit-products-marketplace-sellers-names-addresses-transparency'> Source <a/>

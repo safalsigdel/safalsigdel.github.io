@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0zF1Wa6nUEp1FHkJ10Gt6OItWtY=/0x0:2040x1560/1200x800/filters:focal(857x617:1183x943)/cdn.vox-cdn.com/uploads/chorus_image/image/67038443/Android_logo_stacked__RGB_.0.jpg' width='700px' /><br/>
+Google has long struggled with getting device manufacturers to update older devices to the latest version of Android, but the company announced today that it's starting to see some success, with Android 10 seeing the fastest adoption rates of any version of Android.
+<a href='https://www.theverge.com/2020/7/9/21319238/android-10-fastest-adoption-rate-google-software-update'> Source <a/>

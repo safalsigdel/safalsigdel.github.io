@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oLy6z-7Rt7TlWgk9O0_MxVAyal0=/0x0:2880x1920/1200x800/filters:focal(1210x730:1670x1190)/cdn.vox-cdn.com/uploads/chorus_image/image/67038883/Fisker_Ocean_Unveil_CES_and_Los_Angeles.0.jpg' width='700px' /><br/>
+Fisker Inc. and Karma Automotive, two electric vehicle startups with a long shared history, each announced this week that they've raised millions of dollars. Fisker has taken in $50 million of fresh capital from “hedge fund king” Louis Bacon and Karma Automotive has raised $100 million from undisclosed “outside investors.”
+<a href='https://www.theverge.com/2020/7/9/21319273/fisker-inc-karma-automotive-fundraising-public-evs-tesla-nikola'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6I4jz-GErTCqMtO8yY20WXooTQs=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/67034654/DSCF8146.0.0.jpg' width='700px' /><br/>
-Fujifilm has released its software that lets you use X-series mirrorless cameras as a webcam for your Mac. The Fujifilm X Webcam tool was initially released for Windows computers in May; Fujifilm later said a Mac version would follow in mid-July.
-<a href='https://www.theverge.com/2020/7/9/21318375/fujifilm-x-webcam-mac-version-available'> Source <a/>
