@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gPR3x0ABmdWr7ji0sWVsfcPxP6A=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67034956/acastro_200707_4090_robots_hospitals_0001.0.jpg' width='700px' /><br/>
-The robot arrived just a few days after Christine Kiernan, an orthopedic surgeon at Tullamore Hospital in Ireland, was diagnosed with COVID-19. She'd arranged for Violet, an autonomous ultraviolet cleaning machine, to start trials at Tullamore to help the hospital adapt to staff shortages caused by the pandemic. But on Violet's first day of work, Kiernan was already laid up in bed.
-<a href='https://www.theverge.com/21317055/robot-coronavirus-hospital-pandemic-help-automation'> Source <a/>
