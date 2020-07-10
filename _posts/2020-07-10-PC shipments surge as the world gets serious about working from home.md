@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IUfWx7pVPuHZyixxfBkHfDbmxMM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67040168/akrales_190930_3689_0056.0.jpg' width='700px' /><br/>
+The ongoing coronavirus pandemic has made it more difficult to buy a new laptop recently, and we're now starting to see how PC shipments have been affected. While PC shipments declined sharply during the impact to manufacturing in Q1, both IDC and Gartner report that shipments have now grown in Q2 despite an economic slowdown.
+<a href='https://www.theverge.com/2020/7/10/21319750/pc-shipments-coronavirus-pandemic-idc-gartner-q2-2020'> Source <a/>
