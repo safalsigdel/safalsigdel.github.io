@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/spfuEOctgvE-kK7P39mNHxvwVOE=/0x0:720x520/1200x800/filters:focal(284x328:398x442)/cdn.vox-cdn.com/uploads/chorus_image/image/67035467/img_story_slide_2_1.0.jpg' width='700px' /><br/>
-A Japanese chain of sushi restaurants is using an AI-powered app to assess the quality of tuna — a key step in the preparation of sushi that traditionally requires years of training from experienced human buyers. But can it really replace a human's fish sense?
-<a href='https://www.theverge.com/21318402/japanese-app-ai-grade-fish-quality-tuna-scope-sushi'> Source <a/>
