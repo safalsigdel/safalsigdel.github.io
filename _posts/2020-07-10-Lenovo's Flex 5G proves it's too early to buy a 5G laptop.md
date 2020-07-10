@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PFcJpRuUdjOfIrr7-kuIXv_OVHo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67040706/cfaulkner_200708_4091_0004.0.0.jpg' width='700px' /><br/>
-Lenovo's Flex 5G has a lot to live up to as the world's first 5G-enabled Windows 10 2-in-1 laptop. Not just that, it also needs to convince people that putting ARM-based processors in a Windows laptop is a perk, not a liability that spells incompatibility doom for those who rely on a lot of apps. No pressure.
-<a href='https://www.theverge.com/21318761/lenovo-flex-5g-laptop-verizon-mmwave-sub6ghz-band-review'> Source <a/>

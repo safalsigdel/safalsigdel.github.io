@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1dEY9_s5mTv2eOztmZ7ng4HEHXM=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/67036885/brose_190930_3699_0012.0.jpg' width='700px' /><br/>
-You might not be getting much use out of GoPro's outdoor action cameras during the coronavirus pandemic, so GoPro is making it a lot easier for you to repurpose its flagship Hero 8 camera for use indoors as a macOS webcam. GoPro says support for Windows is currently in development.
-<a href='https://www.theverge.com/2020/7/9/21318832/gopro-hero8-webcam-macos-software'> Source <a/>

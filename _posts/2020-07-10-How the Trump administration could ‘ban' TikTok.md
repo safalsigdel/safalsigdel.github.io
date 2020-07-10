@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EpjO3PeLfg3BgqaPe_CAfOYyCZY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67035802/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-The Trump administration is apparently considering a ban on Chinese social media apps, including the popular video app TikTok. Secretary of State Mike Pompeo mentioned the possibility on Tuesday, saying it was “something we're looking at” in a Fox News interview with Laura Ingraham.
-<a href='https://www.theverge.com/2020/7/9/21315983/trump-pompeo-ban-tiktok-bytedance-chinese-social-media-national-security-censorship-methods'> Source <a/>

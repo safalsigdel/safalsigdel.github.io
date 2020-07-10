@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hu8jYwIVneuLFFwKLTdo11msxK0=/154x61:1744x1018/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67036589/samsung_device.0.png' width='700px' /><br/>
-A mysterious new Samsung wearable device has been revealed in FCC filings made public today. You can see a diagram of what the wearable is expected to look like at the top of this post, taken from the filings.
-<a href='https://www.theverge.com/2020/7/9/21318704/samsung-wearable-fitness-device-fcc-filings'> Source <a/>
