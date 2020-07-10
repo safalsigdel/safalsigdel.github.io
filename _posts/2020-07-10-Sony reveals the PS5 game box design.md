@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wIl_YoYQyYZKfM5GF_DuP2_CMkk=/0x0:2539x1682/1200x800/filters:focal(1067x638:1473x1044)/cdn.vox-cdn.com/uploads/chorus_image/image/67036969/spiderman_ps5.0.png' width='700px' /><br/>
+Sony revealed what the physical boxes for PlayStation 5 games will look like in a blog post on Thursday, using the upcoming Spider-Man: Miles Morales as an example. While they look a lot like, well, game boxes, there are still a few interesting design details to note.
+<a href='https://www.theverge.com/2020/7/9/21318869/sony-ps5-game-caes-box-design'> Source <a/>

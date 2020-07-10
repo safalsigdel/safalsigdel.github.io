@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gvm9ExR-RGDN-eu-K0SMVRYOXWE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67037725/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
+For a few hours on Thursday afternoon, videos that appeared on TikTok user pages, following feeds, and the For You Page all displayed broken Like totals for some users across the globe. TikTok showed that these videos had zero likes.
+<a href='https://www.theverge.com/2020/7/9/21319081/tiktok-likes-break-glitch-trump-pompeo-ban-totals-for-you-page-fyp'> Source <a/>
