@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/LftF3XdcV0deyI_1TjOVsQHEqm4=/0x0:2040x1360/1200x800/filters:focal(748x613:1074x939)/cdn.vox-cdn.com/uploads/chorus_image/image/67044995/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
-Wells Fargo has reportedly instructed employees who installed TikTok on company devices to remove the app, The Information reported. The company said it had “concerns about TikTok's privacy and security controls and practices” in a statement to The Information.
+Wells Fargo has instructed employees who installed TikTok on company devices to remove the app over privacy concerns, as first reported by The Information.
 <a href='https://www.theverge.com/2020/7/11/21320935/wells-fargo-bans-tiktok-devices-amazon-pompeo'> Source <a/>
