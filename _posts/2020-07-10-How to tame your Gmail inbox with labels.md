@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QN3vAvW2dUIDmNVy0UZA5SXw-cc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67038285/acastro_180424_1777_gmail_0001.0.0.jpg' width='700px' /><br/>
-Let's face it — if you're using your Gmail account for more than occasionally contacting friends and relatives, it's likely that it's spinning out of control. Between work-related emails, online events, invitations, advertising from your favorite retailers, and just plain spam, you're going to find it difficult to keep track.
-<a href='https://www.theverge.com/21315894/gmail-labels-inbox-organize-how-to-google'> Source <a/>
