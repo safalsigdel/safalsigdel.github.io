@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EsUxEYvpCSECwX2Ot-83I81dqDw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67040328/akrales_190918_3645_0179merged.0.jpg' width='700px' /><br/>
-A number of popular apps and services including Spotify, Pinterest, and Tinder were inaccessible today on iOS devices due to a now-resolved issue involving Facebook log-ins.
-<a href='https://www.theverge.com/2020/7/10/21319784/ios-apps-crashing-spotify-tiktok-pinterest-tinder-facebook-sdk-certification-issue'> Source <a/>
