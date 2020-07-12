@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/ZgNTztF3wxgIyocYasQpxBKrkrw=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/67041862/1211906120.jpg.0.jpg' width='700px' /><br/>
 Staying on top of your email can be overwhelming, time-consuming, and tedious. It's not hard to rack up a large number of unread emails. And for that reason, it's easy to keep checking your constant influx of messages — at the expense of other tasks.
+<a href='https://www.theverge.com/21317638/email-inbox-tips-organize-messages-manage-gmail'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/ZgNTztF3wxgIyocYasQpxBKrkrw=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/67041862/1211906120.jpg.0.jpg' width='700px' /><br/>
+Staying on top of your email can be overwhelming, time-consuming, and tedious. It's not hard to rack up a large number of unread emails. And for that reason, it's easy to keep checking your constant influx of messages — at the expense of other tasks.
 <a href='https://www.theverge.com/21317638/email-inbox-tips-organize-messages-manage-gmail'> Source <a/>
