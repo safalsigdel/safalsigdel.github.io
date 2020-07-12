@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6lp5F3juPHXpu0VbJ-kNz4enYkQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67042839/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
-Instagram on Thursday announced a new ban on all forms of content, including posts and videos, promoting the widely discredited practice known as conversion therapy, which attempts to forcefully change an individual's sexual orientation. The news was first reported earlier today by CNN.
-<a href='https://www.theverge.com/2020/7/10/21320341/facebook-instagram-ban-conversion-therapy-ads-posts-content-hate-speech-policy'> Source <a/>
