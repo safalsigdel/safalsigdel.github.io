@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/42UcecHgE4KMTgSjG_9glsZIQrU=/0x0:1186x778/1200x800/filters:focal(499x295:687x483)/cdn.vox-cdn.com/uploads/chorus_image/image/67041211/Screen_Shot_2020_07_10_at_8.29.13_AM.0.png' width='700px' /><br/>
-EV startup Rivian has raised $2.5 billion, bringing its total funding to date to around $6 billion ahead of the launch of its all-electric pickup truck and SUV in early 2021. $5.35 billion of that has come in the last year and a half alone, with Rivian scooping up big investments from Ford, Amazon, and Cox Automotive in 2019.
-<a href='https://www.theverge.com/2020/7/10/21319899/rivian-2-5-billion-funding-round-amazon-soros-r1t-r1s-truck-suv-ford'> Source <a/>
