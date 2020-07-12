@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/xFLa476A8wnTMMwdskEVoB06ZQA=/0x0:2298x1532/1200x800/filters:focal(966x583:1332x949)/cdn.vox-cdn.com/uploads/chorus_image/image/67041001/mesh_masks.0.jpg' width='700px' /><br/>
 Etsy sellers have been a top source for stylish masks since the start of the pandemic — but some of them, it turns out, are barely masks at all.
-<a href='https://www.theverge.com/2020/7/10/21318991/etsy-mesh-masks-coronavirus-poor-protection'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/xFLa476A8wnTMMwdskEVoB06ZQA=/0x0:2298x1532/1200x800/filters:focal(966x583:1332x949)/cdn.vox-cdn.com/uploads/chorus_image/image/67041001/mesh_masks.0.jpg' width='700px' /><br/>
-Etsy sellers have been a top source for stylish masks since the start of the pandemic — but some of them, it turns out, are barely masks at all.
 <a href='https://www.theverge.com/2020/7/10/21318991/etsy-mesh-masks-coronavirus-poor-protection'> Source <a/>

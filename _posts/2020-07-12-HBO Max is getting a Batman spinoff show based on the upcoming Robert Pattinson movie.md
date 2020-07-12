@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/5sn8usq6Q6Q23nqO0kMDjzSjHW4=/0x0:1367x793/1200x800/filters:focal(575x288:793x506)/cdn.vox-cdn.com/uploads/chorus_image/image/67042089/batman.0.png' width='700px' /><br/>
 HBO Max has announced a new TV series focused on the Gotham City Police Department, which will be a spinoff of Matt Reeves' upcoming The Batman film (which is set to star Robert Pattinson at Bruce Wayne / Batman).
-<a href='https://www.theverge.com/2020/7/10/21320115/hbo-max-the-batman-spinoff-tv-show-robert-pattinson-movie-matt-reeves-dc'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/5sn8usq6Q6Q23nqO0kMDjzSjHW4=/0x0:1367x793/1200x800/filters:focal(575x288:793x506)/cdn.vox-cdn.com/uploads/chorus_image/image/67042089/batman.0.png' width='700px' /><br/>
-HBO Max has announced a new TV series focused on the Gotham City Police Department, which will be a spinoff of Matt Reeves' upcoming The Batman film (which is set to star Robert Pattinson at Bruce Wayne / Batman).
 <a href='https://www.theverge.com/2020/7/10/21320115/hbo-max-the-batman-spinoff-tv-show-robert-pattinson-movie-matt-reeves-dc'> Source <a/>
