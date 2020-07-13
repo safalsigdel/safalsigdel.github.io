@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0yqTKnKwj_-LBjhx09dlJedEAnU=/0x0:800x538/1200x800/filters:focal(467x49:595x177)/cdn.vox-cdn.com/uploads/chorus_image/image/67047766/hanks_greyhound.0.jpg' width='700px' /><br/>
+This week's list of original streaming shows has a little something for everyone, I think: Tom Hanks as a heroic Navy captain fleeing Nazis, a new series from the creator of Regular Show, a twist on the King Arthur legend that focuses on the Lady of the Lake, and Zac Efron who is traveling the world for some reason.
+<a href='https://www.theverge.com/2020/7/12/21321683/streaming-greyhound-apple-cursed-netflix-hbo-max-hanks-efron'> Source <a/>
