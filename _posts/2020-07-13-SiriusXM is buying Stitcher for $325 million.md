@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XPxfbRbDy17pZp3pdqFNUQ1T7UM=/0x0:535x356/1200x800/filters:focal(226x136:310x220)/cdn.vox-cdn.com/uploads/chorus_image/image/67049471/siriusxm.0.jpg' width='700px' /><br/>
+SiriusXM, a company most well-known for its satellite radio channels, is buying the podcasting company Stitcher from E.W. Scripps in a deal worth $325 million. The company confirmed the deal today after The Wall Street Journal first reported it last week. The move sets Sirius to compete even more seriously against Spotify, iHeartMedia, and Apple for dominance of the podcasting space.
+<a href='https://www.theverge.com/2020/7/13/21315911/siriusxm-stitcher-podcast-deal-buy-midroll-earwolf'> Source <a/>
