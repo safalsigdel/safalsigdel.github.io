@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W_UTrrZmNlDca7k-XBXorj1C2r4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67042837/akrales_180614_1777_0121.0.jpg' width='700px' /><br/>
-Facebook is reportedly considering a ban on political ads before the US elections this year. Bloomberg reported the news this afternoon, saying that the idea is being discussed internally but is not yet a firm policy. Sources also confirmed the discussion to The New York Times. The step would drastically escalate Facebook's current plans for preventing misinformation or meddling in the 2020 elections.
-<a href='https://www.theverge.com/2020/7/10/21320394/facebook-political-ad-ban-blackout-us-election-day-rumor-report'> Source <a/>
