@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/j830uITXI3D5z5bVU-bHNuCnpV4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67042105/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
 Amazon says that it will not ask employees to remove popular social video-sharing app TikTok from their mobile devices, despite sending an email calling for workers to delete the app earlier on Friday.
-<a href='https://www.theverge.com/2020/7/10/21320196/amazon-employees-tiktok-uninstall-email-trump-administration-pompeo-ban'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/j830uITXI3D5z5bVU-bHNuCnpV4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67042105/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-Amazon says that it will not ask employees to remove popular social video-sharing app TikTok from their mobile devices, despite sending an email calling for workers to delete the app earlier on Friday.
 <a href='https://www.theverge.com/2020/7/10/21320196/amazon-employees-tiktok-uninstall-email-trump-administration-pompeo-ban'> Source <a/>
