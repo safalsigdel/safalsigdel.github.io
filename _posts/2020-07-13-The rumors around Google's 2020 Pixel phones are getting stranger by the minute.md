@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r-678YYlIVyGoyuzD3PwDJeTVik=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67041968/vpavic_191010_3730_0058.0.jpg' width='700px' /><br/>
-Google's 2020 Pixel lineup may look a bit different than usual if the latest product names found in the company's Google search app are any indication. Instead of the expected Pixel 5 and Pixel 5 XL monikers, Google is apparently working on a “Pixel 4a (5G)” and a “Pixel 5,” via 9to5Google.
-<a href='https://www.theverge.com/2020/7/10/21320005/google-leaks-pixel-4a-5g-5-product-names-hardware-android-rumor'> Source <a/>
