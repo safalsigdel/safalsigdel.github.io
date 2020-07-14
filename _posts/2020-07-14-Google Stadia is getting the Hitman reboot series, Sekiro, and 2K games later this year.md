@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/FjZZrT75kSWm5bZT8LQR9xIhFjE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67055886/akrales_191113_3779_0163.0.jpg' width='700px' /><br/>
-Google Stadia is adding more than a dozen new games to its cloud service over the next few months, in addition to five exclusives announced this morning as part of its Stadia Connect live stream.
+Google Stadia is adding more than a dozen new games to its cloud service over the next few months, in addition to five exclusives detailed this morning as part of its Stadia Connect  announcement.
 <a href='https://www.theverge.com/2020/7/14/21324277/google-stadia-new-games-hitman-reboot-sekiro-shadows-die-twice'> Source <a/>
