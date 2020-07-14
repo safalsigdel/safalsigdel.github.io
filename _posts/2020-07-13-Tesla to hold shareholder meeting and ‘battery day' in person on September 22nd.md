@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fsvBX0o8LxNwf3ToUa4qi15QRv0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67043522/sokane_181116_3101_fremont_0063.0.jpg' width='700px' /><br/>
-Tesla has finally settled on a date for its delayed annual shareholder meeting and “battery day” for investors: September 22nd. The meeting will be held in person at the company's vehicle factory in Fremont, California, though it will presumably also be live-streamed. Only people who are shareholders of the company's stock can attend.
-<a href='https://www.theverge.com/2020/7/10/21320505/tesla-shareholder-meeting-battery-day-september-22-fremont-million-mile'> Source <a/>

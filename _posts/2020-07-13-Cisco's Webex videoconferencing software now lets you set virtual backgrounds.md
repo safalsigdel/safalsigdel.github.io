@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1qnGVLOVzhKUPuKwfuAKRYCJCRY=/0x0:955x796/1200x800/filters:focal(402x322:554x474)/cdn.vox-cdn.com/uploads/chorus_image/image/67045989/webex.0.jpg' width='700px' /><br/>
-As it tries to catch up with the popular features offered by some of its younger competitors, Cisco's Webex has unveiled virtual backgrounds for its videoconferences. Users can either apply a “blur” effect to mask their background or replace with one of Webex's preset background images.
-<a href='https://www.theverge.com/2020/7/11/21321226/cisco-webex-virtual-backgrounds-zoom-teams-meet-google-microsoft'> Source <a/>

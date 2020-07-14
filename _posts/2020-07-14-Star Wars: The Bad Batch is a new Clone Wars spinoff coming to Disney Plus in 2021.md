@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tURwKn5OssYnqDoqy1UpsXuzJp0=/0x0:700x301/1200x800/filters:focal(201x78:313x190)/cdn.vox-cdn.com/uploads/chorus_image/image/67051053/The_Bad_Batch_Breakdown_700x301.0.jpg' width='700px' /><br/>
+Disney Plus is getting a new animated Star Wars series called Star Wars: The Bad Batch, which is set to debut on the streaming service in 2021. The new show is a spinoff of the recently concluded The Clone Wars animated series, which finished its run on Disney Plus earlier this year.
+<a href='https://www.theverge.com/2020/7/13/21322822/star-wars-the-bad-batch-clone-wars-spinoff-disney-plus-2021'> Source <a/>

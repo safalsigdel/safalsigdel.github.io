@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Esxu45VZ-bWlFMro_AwsfPt-5E8=/0x0:4032x2820/1200x800/filters:focal(1694x1088:2338x1732)/cdn.vox-cdn.com/uploads/chorus_image/image/67047400/1130614771.jpg.0.jpg' width='700px' /><br/>
-Tesla has lowered the purchase price of its Model Y by $3,000, so its Long Range AWD will now cost $49,990, Electrek reported. The Model Y just began shipping in March, and earlier this month Tesla reported better-than-expected delivery numbers for all its vehicles in the second quarter, so the reason for the price cut isn't totally clear. But it's likely to help boost sales at a time when all carmakers are feeling the pinch of the economic downturn.
-<a href='https://www.theverge.com/2020/7/12/21321743/tesla-model-y-price-cut'> Source <a/>

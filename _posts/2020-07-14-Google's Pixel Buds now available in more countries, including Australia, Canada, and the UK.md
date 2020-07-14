@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/paUjfXRtDPWSqlnZ3Bk3WsmgZbQ=/0x0:6048x4032/1200x800/filters:focal(2541x1533:3507x2499)/cdn.vox-cdn.com/uploads/chorus_image/image/67050834/DSCF5984_1_2.0.jpg' width='700px' /><br/>
+Google announced on Monday that its second-generation Pixel Buds are now available in more countries, including Australia, Canada, France, Germany, Ireland, Italy, Singapore, Spain, and the UK. The true wireless headphones have only been available in the US since their April 27th release date.
+<a href='https://www.theverge.com/2020/7/13/21322739/google-pixel-buds-now-available-more-countries-australia-canada-uk'> Source <a/>

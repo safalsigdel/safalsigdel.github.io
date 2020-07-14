@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yyepNOpRvsjSl8fzYzKwil-BKE0=/0x0:2000x1126/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/67046063/Fitbit_Charge_4_Iconic_Inbox_Black_Open_Screen_Crop_2.0.jpeg' width='700px' /><br/>
-The latest software update to the Fitbit Charge 4 gives two big upgrades including dynamic GPS, and a “smart wake” option. First reported by 9to5Google, the new features are now rolling out to all users.
-<a href='https://www.theverge.com/2020/7/11/21321298/fitbit-charge-4-smart-wake-dynamic-gps'> Source <a/>

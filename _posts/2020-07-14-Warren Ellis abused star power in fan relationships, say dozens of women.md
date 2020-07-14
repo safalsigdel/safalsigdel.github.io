@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s6dDYreT_uFoqttwEeo0t4r6Ba4=/0x0:1596x2244/1200x800/filters:focal(615x933:869x1187)/cdn.vox-cdn.com/uploads/chorus_image/image/67052235/125462319.jpg.0.jpg' width='700px' /><br/>
+Over 60 women and nonbinary people have accused influential comics author Warren Ellis of manipulative and predatory behavior toward female fans and creatives. An open letter and dozens of statements were collected on a site created by some of his alleged targets, and have also been shared with The Guardian, which published a story on the allegations today.
+<a href='https://www.theverge.com/2020/7/13/21322558/warren-ellis-allegations-forums-emotional-abuse-open-letter'> Source <a/>

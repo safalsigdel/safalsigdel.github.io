@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cPv9OyddPMiyaWrEWejzpRcV_4E=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/67052400/1224326069.jpg.0.jpg' width='700px' /><br/>
+Employees at the Centers for Disease Control and Prevention are calling for the federal agency to address what they say are “ongoing and recurring acts of racism and discrimination” against its Black employees, NPR reported. More than 1,000 CDC employees signed a letter to director Robert Redfield describing a “pervasive and toxic culture of racial aggressions.”
+<a href='https://www.theverge.com/2020/7/13/21322887/cdc-racial-discrimination-redfield-coronavirus-black-americans'> Source <a/>
