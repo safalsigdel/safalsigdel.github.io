@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Uscn6aD0lVS6x4gX8zod4nle2Dw=/0x0:4168x2345/1200x800/filters:focal(1751x840:2417x1506)/cdn.vox-cdn.com/uploads/chorus_image/image/67054654/spotifycharts_medium_trendingpodcasts.0.png' width='700px' /><br/>
+Spotify is revamping its podcast charts today to help listeners find new shows and keep up with what people are enjoying in their area. This brings a well-known, and controversial, feature in the podcasting industry to Spotify, making the app more on par with other popular players, like Apple Podcasts.
+<a href='https://www.theverge.com/2020/7/14/21323202/spotify-podcast-chart-trending-top-update-feature'> Source <a/>
