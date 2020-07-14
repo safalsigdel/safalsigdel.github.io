@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5xcg4DJJgKzl5FVscMWuuEOcAG0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67056113/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google Play Pass, Google's subscription service that gives you access to hundreds of Android games and apps with no ads or in-app purchases, is rolling out to nine new countries this week, the company announced today. The service has only been available in the US since it launched in September, but it will soon be available to Android users in Australia, Canada, France, Germany, Ireland, Italy, New Zealand, Spain, and the UK.
+<a href='https://www.theverge.com/2020/7/14/21324285/google-play-pass-new-countries-annual-subscription'> Source <a/>
