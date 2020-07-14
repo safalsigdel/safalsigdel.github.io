@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9355/sq_vpavic_200707_4092_0010.jpg' width='700px' /><br/>
-Sony's new Xperia 1 II smartphone is purpose-built for one very specific thing: to make your phone work a little bit more like a standalone Sony Alpha camera. It's a long time coming: Sony has made dozens of Xperia phones since its first one in 2008, but until now, none of them have had an identity this clear or compelling.
-<a href='https://www.theverge.com/21322518/sony-xperia-1-ii-review-smartphone-new-camera-photo-pro'> Source <a/>

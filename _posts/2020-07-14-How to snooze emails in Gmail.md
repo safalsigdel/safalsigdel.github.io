@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NR8_QvoPfi1CEvRSl4GZfZSO8ug=/0x0:2748x1702/1200x800/filters:focal(1155x632:1593x1070)/cdn.vox-cdn.com/uploads/chorus_image/image/67055282/1193598790.jpg.0.jpg' width='700px' /><br/>
+Emails come in throughout the day — sometimes at really inconvenient moments. If you don't have the time to deal with an email when it appears or if you want to get back to it later and you're afraid you'll forget about it, you can use Gmail's snooze feature.
+<a href='https://www.theverge.com/21323049/snooze-emails-inbox-reminder-messages-how-to-later-time'> Source <a/>

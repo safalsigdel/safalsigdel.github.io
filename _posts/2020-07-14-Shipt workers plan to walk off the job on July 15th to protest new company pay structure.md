@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-eCom8RSkAuNhsPvacY1tAoro0k=/0x0:2000x1333/1200x800/filters:focal(861x819:1181x1139)/cdn.vox-cdn.com/uploads/chorus_image/image/67050091/shipt_1.0.jpg' width='700px' /><br/>
-Workers for grocery delivery platform Shipt are planning to walk off the job and not accept new orders on Wednesday, July 15th, saying the company's move toward an algorithm-based pay structure will reduce their pay by at least 30 percent.
-<a href='https://www.theverge.com/2020/7/13/21322454/shipt-boycott-july-15-pay-algorithm-instacart-grocery-delivery-target'> Source <a/>
