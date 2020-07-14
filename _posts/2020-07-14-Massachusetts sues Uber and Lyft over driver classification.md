@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8pwhotChQKNVp-NGLE4cxAJ2bWw=/0x0:2100x1400/1200x800/filters:focal(882x532:1218x868)/cdn.vox-cdn.com/uploads/chorus_image/image/67055854/1183778358.jpg.0.jpg' width='700px' /><br/>
+Massachusetts filed a lawsuit against Uber and Lyft on Tuesday claiming the app-based companies are misclassifying drivers as independent contractors rather than employees. The state is the latest to challenge the way the multibillion-dollar ride-hailing industry treats its workers.
+<a href='https://www.theverge.com/2020/7/14/21324199/uber-lyft-driver-misclassification-massachusetts-lawsuit'> Source <a/>

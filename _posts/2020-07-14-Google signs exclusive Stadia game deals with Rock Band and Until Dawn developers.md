@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UJAfnZTEYNQh-4CxjD1QHALjvHw=/0x0:2040x1360/1200x800/filters:focal(860x638:1186x964)/cdn.vox-cdn.com/uploads/chorus_image/image/67055885/akrales_191113_3779_0319.0.jpg' width='700px' /><br/>
+Google has signed on five new developers to make exclusive titles for its Stadia cloud gaming service. Two of those five already have fully realized projects, with one ready for release.
+<a href='https://www.theverge.com/2020/7/14/21323326/google-stadia-exclusive-game-deals-harmonix-rock-band-supermassive-until-dawn'> Source <a/>

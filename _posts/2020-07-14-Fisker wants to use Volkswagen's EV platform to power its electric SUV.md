@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3YGcuerDNO3vOwW9vaYO9LG6yCI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67051137/SUV9.9.0.jpg' width='700px' /><br/>
-EV startup Fisker Inc. wants to power its first SUV with Volkswagen's mass-manufactured modular electric vehicle platform, or “MEB,” and it says it is in talks with the German automaker to do just that. In fact, the prototype SUV that Fisker Inc. revealed at the 2020 Consumer Electronics Show was built on the MEB platform.
-<a href='https://www.theverge.com/2020/7/13/21322573/fisker-vw-meb-modular-platform-architecture-ocean-suv-apollo'> Source <a/>
