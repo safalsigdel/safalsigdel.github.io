@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ea5lo33Ynvl1f5X4eLAIyZsD00A=/0x0:1738x974/1200x0/filters:focal(0x0:1738x974):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20081955/Screen_Shot_2020_07_13_at_5.50.37_PM.png' width='700px' /><br/>
+<img src='' width='700px' /><br/>
 Lego and Nintendo are teaming up for a new Lego set that assembles into a blocky model of Nintendo's 8-bit gaming console, the Nintendo Entertainment System, along with an interactive TV displaying Super Mario Bros. The two companies collaborated earlier this year to create interactive Super Mario-themed sets.
 <a href='https://www.theverge.com/2020/7/14/21322481/lego-nintendo-nes-super-mario-interactive-set-replica'> Source <a/>
