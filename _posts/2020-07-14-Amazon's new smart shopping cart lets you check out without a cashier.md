@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4CmuQJymp7S1XD7ZQRaJdj-KaO8=/0x0:8510x5674/1200x800/filters:focal(3575x2157:4935x3517)/cdn.vox-cdn.com/uploads/chorus_image/image/67053964/DashLane.0.jpg' width='700px' /><br/>
+Amazon is expanding its real-world footprint with another unconventional physical product: a shopping cart. While it certainly looks like an aesthetic upgrade to your standard grocery store cart, the Dash Cart, as it's called, is in fact a smart version of the tried-and-true food transport vehicle.
+<a href='https://www.theverge.com/2020/7/14/21323421/amazon-dash-cart-smart-grocery-shopping-woodland-hills-store-cashierless'> Source <a/>
