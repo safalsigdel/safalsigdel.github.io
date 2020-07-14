@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SumtZy-bZ2GJfI8XrI2b6EN0EG0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67054824/microsoftcitrix.0.png' width='700px' /><br/>
+Microsoft and Citrix have been working together closely for decades, but that partnership is going a step further today. Microsoft is partnering with Citrix to use the company's Citrix Workspace portal as its “preferred digital workspace solution,” and Citrix is using Microsoft Azure as its preferred cloud platform. It's a deal designed to speed up Citrix customers to move to the cloud and virtual desktops.
+<a href='https://www.theverge.com/2020/7/14/21323982/microsoft-citrix-workspace-virtual-desktops-deal-partnership'> Source <a/>
