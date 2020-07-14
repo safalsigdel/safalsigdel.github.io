@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zlO0qTqiclxsLbmlQkQvNEOkzNY=/135x44:1815x1154/1200x800/filters:focal(1515x279:2115x879)/cdn.vox-cdn.com/uploads/chorus_image/image/67054764/Hello_Robot_Stretch_Quad.0.png' width='700px' /><br/>
+It looks like a telescoping grabber tool attached to a hat stand, but it could be the future of home robotics. Meet Stretch, the first device from Hello Robot, a startup founded by former Google director of robotics Aaron Edsinger and Georgia Tech robotics professor Charlie Kemp, that came out of stealth today after three years in development.
+<a href='https://www.theverge.com/2020/7/14/21323835/home-robotic-automation-hello-robot-stretch'> Source <a/>
