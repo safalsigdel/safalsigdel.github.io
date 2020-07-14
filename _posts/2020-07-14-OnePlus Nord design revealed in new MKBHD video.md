@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ymqQAFD84eaApZZtmJButoWH88k=/0x0:1948x1299/1200x800/filters:focal(819x495:1129x805)/cdn.vox-cdn.com/uploads/chorus_image/image/67055421/oneplus_nord.0.png' width='700px' /><br/>
+OnePlus has revealed a first look at the OnePlus Nord, giving a quick preview to Marques Brownlee during an interview about the phone's design process. The Nord, which is supposed to be OnePlus' return to midrange phones, is set to be formally announced next week — though, per usual, OnePlus has been teasing out details ahead of the launch.
+<a href='https://www.theverge.com/2020/7/14/21324086/oneplus-nord-design-revealed-mkbhd-video'> Source <a/>
