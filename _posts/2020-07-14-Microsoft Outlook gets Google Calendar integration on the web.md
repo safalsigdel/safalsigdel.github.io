@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Wfy7hiuiR2VhEfkFwdbEp6I4c9k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67055568/acastro_180507_1777_microsoft_0003.0.jpg' width='700px' /><br/>
+Microsoft has been testing deeper Gmail and Google Calendar integrations in Outlook on the web for months, and part of that is arriving for Outlook business users today. Outlook on the web users will be able to add their personal Outlook.com or Google Calendar accounts to an Outlook work account so that you see a better view of your availability when scheduling work appointments.
+<a href='https://www.theverge.com/2020/7/14/21324171/microsoft-outlook-google-calendar-integration-web-microsoft-365-feature'> Source <a/>
