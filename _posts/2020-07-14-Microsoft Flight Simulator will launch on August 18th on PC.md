@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7SQzOH0uFVt0D8G1KTyuiZZysBo=/0x0:1200x2134/1200x0/filters:focal(0x0:1200x2134):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20080615/Airports_Flight_Sim.jpg' width='700px' /><br/>
-Microsoft Flight Simulator will launch on August 18th for PC. Microsoft has been holding private alpha testing of the new game in recent months, and it's ready for preorder and preinstall today. Microsoft Flight Simulator is the latest installment in the hyper-detailed series that has been running since the 1980s. It follows the release of Microsoft Flight Simulator X: Steam Edition in 2014.
-<a href='https://www.theverge.com/2020/7/13/21322499/microsoft-flight-simulator-pc-launch-august-18th-pricing'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xgWrusqce9QWXBeRoW-sDOrKIz0=/0x0:2120x1302/1200x800/filters:focal(891x482:1229x820)/cdn.vox-cdn.com/uploads/chorus_image/image/67054677/Screen_Shot_2020_07_14_at_8.55.21_AM.0.png' width='700px' /><br/>
+Panasonic is updating its Lumix Tether application for Mac to make it easier to use some models of its mirrorless Lumix cameras as a webcam — but it'll take a bit more effort than some other solutions, at least for now, via DPReview.
+<a href='https://www.theverge.com/2020/7/14/21323917/panasonic-lumix-mirrorless-camera-webcam-streaming-mac-software'> Source <a/>
