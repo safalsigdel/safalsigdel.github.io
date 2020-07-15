@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Kano is releasing a second-generation model of its buildable Windows 10 PC, which keeps the $299.99 price point and DIY touchscreen form factor, but offers a faster new processor and a slightly updated design (including the addition of USB-C).
-<a href='https://www.theverge.com/circuitbreaker/2020/7/14/21318948/kano-pc-windows-10-pc-specs-education-learning-buildable-modular-code'> Source <a/>

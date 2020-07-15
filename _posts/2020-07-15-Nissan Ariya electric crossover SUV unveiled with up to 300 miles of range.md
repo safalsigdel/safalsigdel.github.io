@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fUlrqebDnBXbSyf5iTFpyd6lNp4=/0x0:755x470/1200x675/filters:focal(318x175:438x295)/cdn.vox-cdn.com/uploads/chorus_image/image/67059305/200701_ARIYA_World_Premiere_Banner_Global_Newsroom.0.png' width='700px' /><br/>
+Nissan has long been a leader in electric vehicle sales, despite really only having one EV — the functional-if-uninspiring Nissan Leaf hatchback — on the market. That changed today with the introduction of a new mid-sized SUV with up to 300 miles of range called the Ariya.
+<a href='https://www.theverge.com/2020/7/15/21324125/nissan-ariya-electric-suv-crossover-specs-price'> Source <a/>
