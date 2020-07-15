@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CaJVzBQeoOSH-ZC2_dS0yh7tr6I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67057051/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-This week on the Vergecast interview series, Verge editor-in-chief Nilay Patel talks to Rashad Robinson, president of Color of Change, about the Facebook ad boycott and Facebook's civil rights audit that was released to the public.
-<a href='https://www.theverge.com/2020/7/14/21323988/vergecast-podcast-interview-rashad-robinson-color-of-change-facebook-ad-boycott'> Source <a/>
