@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_mdyPHxQ-DN3jOflIAiZp0ST8ZU=/0x0:7497x4998/1200x800/filters:focal(2937x1893:4135x3091)/cdn.vox-cdn.com/uploads/chorus_image/image/67055260/huntsmanmini1.0.jpg' width='700px' /><br/>
-Razer has announced its first 60 percent keyboard, the Huntsman Mini. It's made for people who need just the bare minimum of dedicated keys. There's no number pad, arrow keys, or function keys. What's left is a more simple, travel-ready option that's great for those who want to maximize their desk space for a big mouse pad or just to have something that can more easily be tucked away.
-<a href='https://www.theverge.com/2020/7/14/21318516/razer-huntsman-mini-60-percent-keyboard-mechanical-clicky-linear-price-release-date'> Source <a/>
