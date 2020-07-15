@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LpdTwH8nJ8h1eVAOrEApkz4PaAc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67056353/P90392966_highRes_the_first_ever_bmw_i.0.jpg' width='700px' /><br/>
-BMW has finally revealed the iX3 SUV, the company's first all-electric vehicle to top 200 miles of range, and the brand's first since the i3 launched back in 2014. The iX3 will be built in China and sold both there and in Europe, but it won't be coming to the United States. Deliveries will start at the end of this year, and it will sell for around xe2x82xac68,000 (about $77,500).
-<a href='https://www.theverge.com/2020/7/14/21324114/bmw-ix3-electric-suv-range-specs-price-china-europe'> Source <a/>

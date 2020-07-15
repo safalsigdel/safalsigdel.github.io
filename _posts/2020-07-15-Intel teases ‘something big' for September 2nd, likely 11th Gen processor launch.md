@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FqIdLRTpv6IDJkhn0d1EaqIfnBQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67061039/acastro_180529_1777_intel_0001.0.0.jpg' width='700px' /><br/>
+Intel is promising “something big” at an event on September 2nd, where it's likely to launch its 11th Gen CPUs. Intel mailed out hold the date messages to members of the press today, teasing a virtual event to show “how Intel is pushing the boundaries of how we work and keep connected.”
+<a href='https://www.theverge.com/2020/7/15/21325633/intel-11th-gen-tiger-lake-processors-launch-event-date-teaser'> Source <a/>
