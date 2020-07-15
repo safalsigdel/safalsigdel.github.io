@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YaQ273P3HtbHvfeA8jFKvlirKwA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67057321/akrales_180215_2310_0008.0.jpg' width='700px' /><br/>
+WhatsApp went down for its 2 billion users earlier today, but service has now been restored. The issues started at around 4PM ET and prevented WhatsApp users from sending or receiving messages on the service for nearly an hour. The WhatsApp application would still open, but a connecting loop was displayed while the service experienced issues.
+<a href='https://www.theverge.com/2020/7/14/21324718/whatsapp-down-outage-issues'> Source <a/>

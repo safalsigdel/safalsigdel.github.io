@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mbDMfbPE2cBDKP4lwJFprm9t7EA=/0x0:2000x1000/1200x800/filters:focal(840x340:1160x660)/cdn.vox-cdn.com/uploads/chorus_image/image/67053178/Skydio_X2_commercial_drone.0.jpg' width='700px' /><br/>
-If you've been eagerly awaiting the day when self-flying drone startup Skydio becomes a true competitor to DJI, you might taken today's announcement poorly. You might have assumed that after two impressive drones that didn't quite fulfill their full potential, Skydio's decision to build its next flying flagship camera exclusively for the enterprise and military markets meant it was done with consumers entirely.
-<a href='https://www.theverge.com/2020/7/13/21323448/skydio-x2-consumer-military-enterprise-ceo-adam-bry'> Source <a/>

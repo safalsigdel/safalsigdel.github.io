@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PjPZoJP3RRUGGzka1sCDpmZcfSY=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/67057152/1225946642.jpg.0.jpg' width='700px' /><br/>
+The US Immigration and Customs Enforcement (ICE) and Department of Homeland Security (DHS) have agreed to rescind a policy that would require international students to take in-person classes in order to remain in the US.
+<a href='https://www.theverge.com/2020/7/14/21324617/international-student-online-classes-ice-dhs-harvard-mit-visa-lawsuits-us'> Source <a/>

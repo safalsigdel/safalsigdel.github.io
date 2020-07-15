@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F3yqDK5At2NkMkDQQuzX7-a2arI=/0x0:4035x2615/1200x800/filters:focal(1696x986:2340x1630)/cdn.vox-cdn.com/uploads/chorus_image/image/67051514/1135364093.jpg.0.jpg' width='700px' /><br/>
-Seventeen states and Washington, DC have filed a lawsuit against the Trump administration's policy that would prevent international students who are taking online courses from remaining in the US.
-<a href='https://www.theverge.com/2020/7/13/21322780/ice-lawsuit-states-universities-international-students-visa-pandemic-trump'> Source <a/>

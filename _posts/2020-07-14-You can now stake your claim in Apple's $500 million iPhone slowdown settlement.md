@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yh4W1JmRhPRnZaotODhLrnbnx84=/0x0:1400x934/1200x800/filters:focal(588x355:812x579)/cdn.vox-cdn.com/uploads/chorus_image/image/67051240/iphone-6s-2-29.0.0.0.jpg' width='700px' /><br/>
-The iPhone “batterygate” saga was one of the bigger controversies that Apple has ever faced. Apple's throttling of iPhones with aging batteries prompted a class action lawsuit, and now you can register to get your chunk of the settlement that was reached earlier this year. Per MacRumors, there's now a website where US consumers who owned an affected iPhone can go to file a claim.
-<a href='https://www.theverge.com/2020/7/13/21322867/apple-iphone-batterygate-throttling-slowdown-settlement-claims'> Source <a/>
