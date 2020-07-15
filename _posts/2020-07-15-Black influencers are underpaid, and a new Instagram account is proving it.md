@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oCpX1Wm7TTdR_MnjjO98ablZnlA=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67056306/acastro_200714_4097_influencerPayGap_0001.0.jpg' width='700px' /><br/>
-Mikai McDermott first realized how underpaid she was while at her first photoshoot. McDermott, then a 19-year-old influencer and the only Black model on set, asked for xc2xa3100 for the day, not knowing what she should have been asking for. During a break, she turned to a white model and asked how much she was making. The answer shocked her. The woman said she was making xc2xa31,000 total for the day — 10 times more.
-<a href='https://www.theverge.com/21324116/instagram-influencer-pay-gap-account-expose'> Source <a/>
