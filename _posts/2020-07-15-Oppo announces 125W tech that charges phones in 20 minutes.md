@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-p6VQkEHs3WBPEhgyurXKPhNl7g=/0x0:2481x1402/1200x800/filters:focal(1043x503:1439x899)/cdn.vox-cdn.com/uploads/chorus_image/image/67059426/Screen_Shot_2020_07_15_at_16.22.09.0.png' width='700px' /><br/>
+Oppo has long been a leader in engineering fast-charging solutions — it developed the tech behind the Dash Charge system used in OnePlus phones, for example, and has achieved even faster results in many of its own devices. Today, the company is taking a further step forward with the announcement of a 125W system that it claims is the most advanced in the industry.
+<a href='https://www.theverge.com/2020/7/15/21325289/oppo-125w-fast-charging-65w-airvooc-wireless-charger'> Source <a/>
