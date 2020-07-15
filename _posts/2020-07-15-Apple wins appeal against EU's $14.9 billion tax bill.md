@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W7g6FD5_sVv4Q2icF2StulZRB-A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67059513/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+The EU's second-highest court has overturned a ruling that ordered Apple to pay a record xe2x82xac13 billion ($14.9 billion) in back taxes to the Irish government.
+<a href='https://www.theverge.com/2020/7/15/21325325/apple-eu-ireland-back-taxes-13-billion-overturned-appealed'> Source <a/>
