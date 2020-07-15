@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sGMoNGVhg_BXlTj5M0eZuywAOmY=/0x0:1100x737/1200x800/filters:focal(462x281:638x457)/cdn.vox-cdn.com/uploads/chorus_image/image/67057199/irs.1419979791.0.jpg' width='700px' /><br/>
-When the IRS pushed the due date for federal income taxes from April 15th to July 15th because of the upheaval brought about by COVID-19, a lot of taxpayers must have breathed a sigh of relief. Depending on where we lived, many of us were dealing with product shortages, layoffs, sudden isolation, and trying to figure out how to cope with the new normal.
-<a href='https://www.theverge.com/21324583/taxes-2020-file-extension-deadline-irs-how-to'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oSbhetrnALwSzMJ4ge5BFOUJVHE=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/67061915/outlook.0.jpg' width='700px' /><br/>
+Microsoft's Outlook email app for Windows is crashing at launch for a large number of users around the world. Office 365 business users are reporting that Outlook launches and then crashes immediately, seemingly after a recent update. “We're investigating whether a recently deployed update could be the source of this issue,” explains Microsoft in a Twitter status update. “As a workaround, users can utilize Outlook on the web or their mobile clients.”
+<a href='https://www.theverge.com/2020/7/15/21325902/microsoft-outlook-crash-launch-issues'> Source <a/>
