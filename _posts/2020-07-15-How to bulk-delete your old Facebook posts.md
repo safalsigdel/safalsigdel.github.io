@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_Ltd0YFNCTWGowNDyXt2h_meq8Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67061764/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
+If you've been on Facebook for any amount of time, it's likely that you've accumulated a lot of posts, some of which you may wish you hadn't, well, posted. You may want to hide your past entries from a potential employer or a college admissions board — or you may just want to enhance your personal security by eliminating identifiable information.
+<a href='https://www.theverge.com/21278293/facebook-posts-delete-bulk-how-to-manage-activity'> Source <a/>
