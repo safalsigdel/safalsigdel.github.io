@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jfzasxsspXT2x5M26Q9tXlz8ifM=/0x44:1920x1029/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67061750/gmail_redesign.0.png' width='700px' /><br/>
-Update: Google has officially announced the changes. Original story follows:
-<a href='https://www.theverge.com/2020/7/15/21325646/google-gmail-redesign-leak-integrates-chat-meet-document-collaboration'> Source <a/>
