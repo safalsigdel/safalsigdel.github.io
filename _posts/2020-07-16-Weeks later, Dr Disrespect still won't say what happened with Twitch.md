@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_mEOA93IyD_nUVW_nTOi-Rt6UI0=/0x0:2040x1360/1200x800/filters:focal(913x369:1239x695)/cdn.vox-cdn.com/uploads/chorus_image/image/67066418/BobbyQuillard_200311_3934_DrDisrespect_0004.0.jpg' width='700px' /><br/>
+Dr Disrespect has spoken up for the first time in over two weeks in conversations with multiple news outlets, but the streamer declined to comment on why he might have been banned from Twitch and provided only vague details about what might come next.
+<a href='https://www.theverge.com/2020/7/16/21326873/dr-disrespect-interviews-twitch-disappearance-stream'> Source <a/>

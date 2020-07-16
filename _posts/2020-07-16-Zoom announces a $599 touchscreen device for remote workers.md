@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ejnItZjF67a6azC7WirGEmXfk_E=/0x0:1536x1007/1200x800/filters:focal(646x382:890x626)/cdn.vox-cdn.com/uploads/chorus_image/image/67061101/ZfH_DTEN_ME__HomeOffice_3.0.jpg' width='700px' /><br/>
-Zoom, whose user base exploded with the onset of COVID-19, is expanding into hardware. The company has announced a new touchscreen device designed to help with remote work. The appliance, called Zoom For Home — DTEN ME, will cost $599 and will ship in August.
-<a href='https://www.theverge.com/2020/7/15/21325542/zoom-dten-me-tablet-video-calls-webcam-home-remote-work'> Source <a/>
