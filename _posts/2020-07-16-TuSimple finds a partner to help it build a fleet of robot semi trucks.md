@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9Yni50Bt5i-Tafy_kTwOFQL70qs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67059793/tusimple_truck_ces_2019_1914.0.jpg' width='700px' /><br/>
-US truck maker Navistar is joining forces with TuSimple, a leading autonomous vehicle startup, to build a self-driving semi truck that can operate without a human driver on highways and local roads. As part of the deal, Navistar is taking a minority stake in TuSimple — though neither company would disclose the size of Navistar's investment.
-<a href='https://www.theverge.com/2020/7/15/21324029/tusimple-navistar-self-driving-truck-deal-investment'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C6whq6DhqkdteNY6qADPLCh2QZ4=/0x0:1280x1280/1200x800/filters:focal(532x202:736x406)/cdn.vox-cdn.com/uploads/chorus_image/image/67065610/Project_Renaissance_2MB_PR_only_jpg.0.jpg' width='700px' /><br/>
+Former first lady Michelle Obama is the host of Spotify's newest exclusive podcast: The Michelle Obama Podcast. The company announced the show today, making it the first podcast to come out of Spotify's deal with the Obamas' production company, Higher Ground Productions. The show premieres on July 29th, and new episodes will come out weekly for nine weeks.
+<a href='https://www.theverge.com/2020/7/16/21326360/michelle-obama-podcast-spotify-release-date'> Source <a/>
