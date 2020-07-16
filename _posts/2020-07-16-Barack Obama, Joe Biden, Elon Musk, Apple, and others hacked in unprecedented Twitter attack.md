@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/hDKTrpOn5d2-I2V5hIl7uAt2Rio=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67063178/acastro_200715_1777_twitter_0001.0.10.jpg' width='700px' /><br/>
-The Twitter accounts of major companies and individuals have been compromised in one of the most widespread and confounding hacks the platform has ever seen, all in service of promoting a bitcoin scam that appears to be earning its creator quite a bit of money.
+The Twitter accounts of major companies and individuals have been compromised in one of the most widespread and confounding hacks the platform has ever seen, all in service of promoting a bitcoin scam that appears to be earning its creators quite a bit of money.
 <a href='https://www.theverge.com/2020/7/15/21326200/elon-musk-bill-gates-twitter-hack-bitcoin-scam-compromised'> Source <a/>
