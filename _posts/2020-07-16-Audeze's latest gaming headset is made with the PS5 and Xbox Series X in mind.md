@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/juGm43cqUN28bLsGZHLNl26rCjM=/0x0:4540x3027/1200x800/filters:focal(1907x1151:2633x1877)/cdn.vox-cdn.com/uploads/chorus_image/image/67060951/penrosehere.0.jpg' width='700px' /><br/>
-Audeze has a new gaming headset called the Penrose, which will cost $299.99 when it is released in September, but the company is knocking $50 off if you preorder it before then.
-<a href='https://www.theverge.com/2020/7/15/21325485/audeze-gaming-headset-ps5-xbox-series-x-penrose-planar-magnetic-drivers'> Source <a/>
