@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7HV4wxBVp31DxHWSojydjuKUys8=/0x0:1458x1008/1200x800/filters:focal(613x388:845x620)/cdn.vox-cdn.com/uploads/chorus_image/image/67062579/Mobile_Nav_3x.0.png' width='700px' /><br/>
-True to Google's penchant for just announcing things right after they've leaked, the company has unveiled a grand redesign of Gmail for G Suite business users ahead of next week's Google Cloud conference. The app isn't so much “Gmail” anymore as it is a unified app for all of Google's communication platforms: Gmail, Chat, Rooms, and Meet.
-<a href='https://www.theverge.com/2020/7/15/21325966/google-gmail-g-suite-chat-rooms-meet-integration-redesign'> Source <a/>
