@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VON-KjKEjZH60QhrW4X0XCn2XGI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67067398/acastro_200715_1777_twitter_0003.0.0.jpg' width='700px' /><br/>
+Lawmakers on both sides of the aisle are demanding more details on Twitter's massive hacking attack yesterday. Sen. Ed Markey (D-MA) said in a statement Thursday that “Twitter must fully disclose what happened and what it is doing to ensure this never happens again.”
+<a href='https://www.theverge.com/2020/7/16/21327249/twitter-bitcoin-scam-congress-action-ed-markey-josh-hawley'> Source <a/>

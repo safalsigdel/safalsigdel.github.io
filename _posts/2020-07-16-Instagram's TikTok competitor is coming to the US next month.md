@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h2jiUW6linLNXUlXwrSdIHA6KSg=/0x0:2040x1360/1200x800/filters:focal(1041x398:1367x724)/cdn.vox-cdn.com/uploads/chorus_image/image/67067430/akrales_200423_3988_0002.0.0.jpg' width='700px' /><br/>
+Instagram plans to launch its TikTok clone in the US and more than 50 other countries within weeks, NBC News reported this morning. Instagram later confirmed to TechCrunch that the feature will launch in “early August” in the US and more.
+<a href='https://www.theverge.com/2020/7/16/21327227/instagram-reels-us-launch-august-tiktok-competitor'> Source <a/>
