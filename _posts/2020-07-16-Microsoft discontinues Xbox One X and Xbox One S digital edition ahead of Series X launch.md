@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Sx0wEQYNtbQabvY1ZftkKgMmcbE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67067625/xboxonex.0.jpg' width='700px' /><br/>
+Microsoft is officially halting production of its Xbox One X and Xbox One S All-Digital Edition consoles. “As we ramp into the future with Xbox Series X, we're taking the natural step of stopping production on Xbox One X and Xbox One S All-Digital Edition,” says a Microsoft spokesperson in a statement to The Verge. “Xbox One S will continue to be manufactured and sold globally.”
+<a href='https://www.theverge.com/2020/7/16/21327330/microsoft-xbox-one-x-s-digital-edition-discontinued'> Source <a/>
