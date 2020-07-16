@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yqeMI2sBjcxzvZ3Gsujs20-hNNY=/0x0:2000x2000/1200x675/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/67060913/VRG_ILLO_4096_GoogleEscapeRooms_SQ.0.0.jpg' width='700px' /><br/>
-On the day the Peters Township Public Library in McMurray, Pennsylvania, was supposed to unveil a superhero-themed escape room, the library had to close its doors due to the coronavirus pandemic. With no physical location to work with, librarian Sydney Krawiec started to devise an alternative: a digital escape room created in Google Forms.
-<a href='https://www.theverge.com/2020/7/15/21324558/google-forms-virtual-escape-rooms-librarians-games-puzzles-homeschooling'> Source <a/>

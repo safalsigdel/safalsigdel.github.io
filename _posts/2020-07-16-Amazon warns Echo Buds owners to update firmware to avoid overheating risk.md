@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xot6dErV-7pg5UfgudDdBp7IePQ=/0x0:2080x1387/1200x800/filters:focal(710x722:1042x1054)/cdn.vox-cdn.com/uploads/chorus_image/image/67060774/IMG_0336.0.jpg' width='700px' /><br/>
-Amazon has begun sending emails out to owners of its Echo Buds true wireless earbuds, cautioning those customers to update the device firmware as soon as possible to avoid a “potential safety risk.”
-<a href='https://www.theverge.com/2020/7/15/21325531/amazon-echo-buds-overheating-software-update-how-to'> Source <a/>
