@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KQx6Pz4c20jMNaD90bESx8cadXk=/0x0:1040x585/1200x0/filters:focal(0x0:1040x585):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20087152/procedurally_generated_interiors_4_1040w.jpg' width='700px' /><br/>
+No Man's Sky is getting yet another genre-bending refresh: the new “Desolation” update turns the usually upbeat space exploration adventure into a horror game that looks a whole lot more like Alien.
+<a href='https://www.theverge.com/2020/7/16/21326924/no-mans-sky-desolation-update-horror-game-alien'> Source <a/>
