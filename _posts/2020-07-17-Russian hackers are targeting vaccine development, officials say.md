@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Mg0QI7w5A2B4NuQPc1b2REV7aPI=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/67067827/1223424881.jpg.0.jpg' width='700px' /><br/>
+Hackers from Russian intelligence services are targeting organizations that are involved in COVID-19 vaccine development, according to US, UK, and Canadian authorities.
+<a href='https://www.theverge.com/2020/7/16/21327021/russia-hackers-covid19-coronavirus-vaccine-attacks-uk-us-canada'> Source <a/>
