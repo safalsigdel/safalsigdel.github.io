@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HJgM50ZeMxxUokY9Ar6ZHEKqlK8=/0x0:1627x1067/1200x800/filters:focal(684x404:944x664)/cdn.vox-cdn.com/uploads/chorus_image/image/67061638/reddit_galleries_example.0.jpg' width='700px' /><br/>
-Until now, if you wanted to include more than one image in a single post on Reddit, it's been a chore. Most users, especially on mobile, had to drop links to external photo-sharing sites like Imgur into a post or reply. But today, Reddit is adding a new feature called Image Gallery, which lets you combine multiple images or GIFs into a single post, even if you're on mobile.
-<a href='https://www.theverge.com/2020/7/15/21324962/reddit-image-gallery-feature-announced-gifs-imgur'> Source <a/>
