@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OmVPhycy-4TqO-7D8I9XFY-o3Yk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67058147/sokane_191112_3807_8354.0.jpg' width='700px' /><br/>
-Officials in Austin have approved a total of at least $60 million in property tax rebates in an effort to bring Tesla's next electric car factory to the Texas city. Austin is one of the two leading candidates for the factory, which is where Tesla will build the Cybertruck, along with Tulsa, Oklahoma.
-<a href='https://www.theverge.com/2020/7/14/21323977/austin-tesla-tax-breaks-travis-county-cybertruck-factory-incentives'> Source <a/>

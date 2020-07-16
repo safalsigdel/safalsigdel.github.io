@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rmWgwiE-lE2LVdEFsXT9JEvbZZI=/0x0:3840x2880/1200x800/filters:focal(1613x1133:2227x1747)/cdn.vox-cdn.com/uploads/chorus_image/image/67059397/GC010_IPU2_009_W4K.0.jpg' width='700px' /><br/>
-Graphcore, a well-funded and ambitious British chip designer that focuses solely on AI applications, has unveiled what it says is the world's most complex chip: the Colossus MK2 or GC200 IPU.
-<a href='https://www.theverge.com/2020/7/15/21324103/ai-chips-nvidia-graphcore-colossus-mk2-gc200-ipu'> Source <a/>

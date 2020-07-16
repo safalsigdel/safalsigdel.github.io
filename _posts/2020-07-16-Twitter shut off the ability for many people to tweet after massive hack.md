@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YY84LKDI4Ae5pLlvzlqgHihOXVY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67063684/VRG_ILLO_1777_twitter_scam_02.0.10.jpg' width='700px' /><br/>
+Twitter completely disabled the ability for many accounts to send new tweets following a massive hack on the social media website on Wednesday afternoon, which has seen numerous popular accounts — including Barack Obama, Bill Gates, Elon Musk, Joe Biden, and others — tweet out a bitcoin scam.
+<a href='https://www.theverge.com/2020/7/15/21326372/twitter-hack-bitcoin-scam-new-tweets-shut-off-verified-accounts'> Source <a/>

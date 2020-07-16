@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PJpa4Nv9rahj8cC_ymE637s_700=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/67059350/horizontal.0.jpg' width='700px' /><br/>
-Sony is ordering at least 50 percent more PlayStation 5 consoles than it had originally planned to ship this year, according to reports in the Japanese press. While the company was expecting to produce around six million consoles in 2020, Nikkei says that the figure is now at about nine million, while Bloomberg says it could reach 10 million.
-<a href='https://www.theverge.com/2020/7/15/21325260/sony-ps5-oculus-stock-orders-manufacturing-increase'> Source <a/>
