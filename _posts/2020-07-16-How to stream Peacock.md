@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xlmlJUjik6zP9BUF1R2j7GiIO7I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67060118/acastro_200714_1777_peacock_0001.0.jpg' width='700px' /><br/>
-Peacock is here. The last of the major 2020 streaming services to launch, Peacock looks to unite NBC's shows, Universal's films, and original content into a single service that will put a much bigger emphasis on live, curated content than nearly any other competing service.
-<a href='https://www.theverge.com/21324215/peacock-nbc-universal-comcast-app-how-to-watch-download-price-subscription-stream-shows'> Source <a/>
