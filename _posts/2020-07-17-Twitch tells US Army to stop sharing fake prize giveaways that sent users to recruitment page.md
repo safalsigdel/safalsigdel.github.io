@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5QgxsLvmLnPIcIKG7OrmoEbxKrk=/0x0:960x640/1200x800/filters:focal(404x244:556x396)/cdn.vox-cdn.com/uploads/chorus_image/image/67070298/76603164_1384608288385847_8930596477202333696_o.0.jpg' width='700px' /><br/>
+Twitch has intervened to stop the US Army using fake prize giveaways on its esports channel to redirect viewers to army recruitment pages.
+<a href='https://www.theverge.com/2020/7/17/21328130/us-army-twitch-esports-gaming-recruitment-fake-prize-giveaway'> Source <a/>
