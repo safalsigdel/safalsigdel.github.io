@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b5fJQ0_pl37O0anBWvmh3fb4AF4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67067468/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
-T-Mobile said Thursday it is once again moving to tackle robocalls by scammers, repackaging several features it's had in place for a while as a program it's calling Scam Shield. It includes free caller ID and call blocking, free enhanced caller ID to let people know when a number calling is verified, and a free second “proxy” number to filter out scam calls from coming to personal phone lines.
-<a href='https://www.theverge.com/2020/7/16/21327126/t-mobile-robocalls-scammers-security-free'> Source <a/>
