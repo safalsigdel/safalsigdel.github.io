@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CtrnZmEtq6C0bj0ucGgFirCl_3U=/0x0:1152x1024/1200x800/filters:focal(477x97:661x281)/cdn.vox-cdn.com/uploads/chorus_image/image/67070397/microsoft_android_launcher_dark_mode.0.jpg' width='700px' /><br/>
+Microsoft has updated its Launcher app for Android to version 6, giving the software a big visual overhaul and a performance upgrade on top of its existing functionality.
+<a href='https://www.theverge.com/2020/7/17/21328150/microsoft-android-launcher-version-6-update-dark-mode-custom-icons-bing-wallpaper'> Source <a/>

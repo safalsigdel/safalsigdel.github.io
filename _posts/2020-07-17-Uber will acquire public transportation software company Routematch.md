@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qQjGSOIxKtUc_JTvt8d4GsGMFH4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67065915/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
-Uber announced that it will acquire Routematch, an Atlanta-based company that develops software for public transportation agencies. The news comes amid the ride-hail company's broader push into public transit.
-<a href='https://www.theverge.com/2020/7/16/21326823/uber-routematch-acquire-public-transportation-software'> Source <a/>
