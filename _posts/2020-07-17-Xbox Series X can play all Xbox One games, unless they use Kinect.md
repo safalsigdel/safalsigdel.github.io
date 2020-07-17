@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QSuEx06HW5nmXjD8oX_gwOKVbII=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/67066057/juWC76cndqo77CnWBCEJVn.0.png' width='700px' /><br/>
-Microsoft is confirming today that its Xbox Series X console won't support the existing Kinect accessory or the Xbox One games that are built specifically for Kinect. In a blog post laying out Microsoft's commitments for its upcoming Xbox Series X console, Xbox chief Phil Spencer reveals Kinect games won't be supported.
-<a href='https://www.theverge.com/2020/7/16/21326805/xbox-series-x-xbox-one-game-support-backward-compatible-feature-kinect'> Source <a/>
