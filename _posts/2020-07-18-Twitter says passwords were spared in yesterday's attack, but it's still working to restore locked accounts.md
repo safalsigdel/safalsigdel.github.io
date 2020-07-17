@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7w4OUA53wFEHHqn6wVTXdftlffQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67068573/acastro_200715_1777_twitter_0004.0.0.jpg' width='700px' /><br/>
-Twitter says it has “no evidence” user passwords were accessed as part of yesterday's massive attack targeting the company's internal tools, but it is still working to restore access to locked accounts. The updates were shared as part of a series of tweets posted Thursday afternoon.
-<a href='https://www.theverge.com/2020/7/16/21327521/twitter-hack-passwords-locked-accounts-restore-access'> Source <a/>

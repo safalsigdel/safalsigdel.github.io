@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6NalDZq34oA_mauiwwLRjQZMSjk=/0x0:3909x2745/1200x800/filters:focal(1643x1061:2267x1685)/cdn.vox-cdn.com/uploads/chorus_image/image/67073553/1212813163.jpg.0.jpg' width='700px' /><br/>
+American Airlines announced on Friday that it is making the check-in process completely touchless, even for passengers who have to check bags. But the company continues to book passengers into middle seats, so it's ultimately a small gesture that only slightly reduces the chance of exposure to the novel coronavirus.
+<a href='https://www.theverge.com/2020/7/17/21328925/american-airlines-touchless-check-in-middle-seats-coronavirus'> Source <a/>
