@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oOSis1LzMCIwEfBZPPTopy4_FNg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67072890/VRG_ILLO_1777_twitter_scam_02.0.0.jpg' width='700px' /><br/>
+This week on The Vergecast, Nilay Patel, Dieter Bohn, Russell Brandom, and Julia Alexander discuss the unprecedented Twitter hack that occurred this week — who was affected, how this attack could have happened, and why this is so important for the future of regulating tech companies.
+<a href='https://www.theverge.com/21328729/vergecast-podcast-413-twitter-hack-nbcs-peacock-threat-tiktok-ban'> Source <a/>

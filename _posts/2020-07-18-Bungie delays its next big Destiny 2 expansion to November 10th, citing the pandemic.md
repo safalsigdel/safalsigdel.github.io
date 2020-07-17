@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wjJDAufrI-28_S_cuHs7pO9YOzQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67068027/bungie_net_metadata_beyondlight_1920x1080.0.jpg' width='700px' /><br/>
-Bungie has announced that it's delaying its next major Destiny 2 expansion, Beyond Light, to November 10th due to the difficulties of development during the ongoing COVID-19 pandemic. The expansion was originally set to release on September 22nd.
-<a href='https://www.theverge.com/2020/7/16/21327370/bungie-destiny-2-expansion-beyond-light-delay-release-date'> Source <a/>
