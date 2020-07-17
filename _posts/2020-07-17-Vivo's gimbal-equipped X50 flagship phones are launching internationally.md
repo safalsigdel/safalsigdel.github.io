@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gcHUgDVPNx2T8zhFfWk0revXybM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67065611/DSCF7248.0.jpg' width='700px' /><br/>
-Vivo has announced the international launch of its new X50 series of flagship smartphones, including the X50, the X50 Pro, and the X50 Pro Plus. The headline feature is the gimbal-style camera on the two higher-end models, which Vivo says represents a breakthrough improvement on traditional optical image stabilization systems for both photos and videos.
-<a href='https://www.theverge.com/2020/7/16/21326786/vivo-x50-pro-plus-gimbal-camera-global-india-release-price'> Source <a/>

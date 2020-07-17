@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5v_YhYKD5UNTq_U8UmAseZmoQwY=/0x191:2667x1567/1200x800/filters:focal(1155x467:1581x893)/cdn.vox-cdn.com/uploads/chorus_image/image/67068369/1205163475.jpg.0.jpg' width='700px' /><br/>
+Longtime Netflix executive Ted Sarandos has been named co-chief executive officer alongside co-founder Reed Hastings, the company announced today as part of its second quarter earnings release on Thursday.
+<a href='https://www.theverge.com/2020/7/16/21327550/netflix-ted-sarandos-ceo-netflix-reed-hastings-board-member-originals-tv-movies'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/un00wldfeg_8f8BRuyW3KoQ16Yo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67064431/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-The White House has hinted at a timeframe for taking action against TikTok, the popular social video app owned by Chinese internet company ByteDance. Last week Secretary of State Mike Pompeo said the Trump administration was “certainly looking at” banning the app, and now Trump's chief of staff Mark Meadows says a move could come within weeks.
-<a href='https://www.theverge.com/2020/7/15/21326573/tiktok-us-ban-timeframe-mark-meadows-wechat-action'> Source <a/>

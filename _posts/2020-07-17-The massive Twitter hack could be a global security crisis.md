@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/URXFyrtejMXDOeghKDdlLy__7PM=/0x0:2048x1367/1200x800/filters:focal(861x521:1187x847)/cdn.vox-cdn.com/uploads/chorus_image/image/67064211/VRG_ILLO_1777_twitter_bitcoin_verified.0.0.jpg' width='700px' /><br/>
-You can't say you didn't see it coming.
-<a href='https://www.theverge.com/interface/2020/7/15/21325708/twitter-hack-global-security-crisis-nuclear-war-bitcoin-scam'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SWZj0sbdO3gMoD5zVB58BisgN-4=/0x0:1600x1062/1200x800/filters:focal(672x403:928x659)/cdn.vox-cdn.com/uploads/chorus_image/image/67065612/zoom_05.0.jpg' width='700px' /><br/>
-LG's latest true wireless earbuds, whose case has a UV light to kill bacteria on the headphones, are now available in the US for $149.99. The Tone Free HBS-FN6 earbuds' case has a UV light that kills 99.9 percent of the bacteria on the earbuds' speaker mesh, LG says. The company debuted the technology with last year's Tone Plus Free earbuds, which were released in South Korea.
-<a href='https://www.theverge.com/2020/7/16/21326782/lg-tone-free-hbs-fn6-true-wireless-earbuds-uv-light-self-cleaning-sterilize'> Source <a/>

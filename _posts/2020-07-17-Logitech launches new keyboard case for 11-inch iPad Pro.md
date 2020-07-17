@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CdEeBWYMG61W3bBxiZRPoASfN34=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/67068771/Copy_of_Folio_Touch_03.0.png' width='700px' /><br/>
+Logitech announced the Folio Touch, a new keyboard case for the 11-inch iPad Pro model (both the 2018 and 2020 versions). It's a more affordable alternative to Apple's Magic Keyboard and is similar to the Logitech Combo Touch for earlier iPad models.
+<a href='https://www.theverge.com/2020/7/16/21327569/logitech-folio-touch-ipad-pro-keyboard-apple-release-price'> Source <a/>
