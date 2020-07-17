@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mx0SnOpmlbk0rO8OxIJnqZJTsSs=/0x0:2560x1440/1200x0/filters:focal(0x0:2560x1440):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20087705/WindowSwap_10.0.jpg' width='700px' /><br/>
-Some of us are fortunate enough to have a window with a view to help us cope with being inside so much. For those who aren't so lucky, a new site called WindowSwap can help by letting you cycle through other people's picturesque views from all over the world.
-<a href='https://www.theverge.com/21327310/windowswap-windows-world-views-project-travel'> Source <a/>
