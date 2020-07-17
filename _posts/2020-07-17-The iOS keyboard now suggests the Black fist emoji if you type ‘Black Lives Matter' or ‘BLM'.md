@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K4-P_AJvv-qDn4Df_uNzfKPaeQ8=/0x1189:1125x2053/1200x800/filters:focal(635x1274:815x1454)/cdn.vox-cdn.com/uploads/chorus_image/image/67067543/IMG_2251_2.0.jpg' width='700px' /><br/>
-The iOS keyboard will autosuggest all three Black fist emoji when you type the phrase “Black Lives Matter” or the acronym “BLM” if you're on Apple's newly released iOS 13.6 software update or the latest iOS 14 beta. The feature was spotted last week in a beta of iOS 13.6 by a user on Reddit.
-<a href='https://www.theverge.com/2020/7/16/21327157/apple-ios-keyboard-black-lives-matter-blm-raised-fist-emoji'> Source <a/>
