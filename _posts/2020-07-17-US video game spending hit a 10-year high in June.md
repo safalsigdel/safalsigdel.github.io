@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/szA5eTVRiW81BCCBEo29vNbmHCM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67071369/vpavic_181016_3033_0080.0.jpg' width='700px' /><br/>
+Video game spending in the US reached its highest point since 2010, according to a new NPD Group report, with sales through June reaching $6.6 billion on hardware, software, and accessories. It's the highest total for the first six months of the year since spending hit $7 billion a decade ago.
+<a href='https://www.theverge.com/2020/7/17/21328298/us-video-game-spending-high-npd-group-amount'> Source <a/>
