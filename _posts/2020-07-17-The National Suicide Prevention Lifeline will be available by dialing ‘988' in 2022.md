@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lft9jV6Z2PQsvlrYonrcoVst9AU=/0x0:5305x3537/1200x800/filters:focal(2229x1345:3077x2193)/cdn.vox-cdn.com/uploads/chorus_image/image/67072329/1192124206.jpg.0.jpg' width='700px' /><br/>
+The National Suicide Prevention Lifeline will be available for people in suicidal crisis under a new easier-to-remember phone number in two years.
+<a href='https://www.theverge.com/2020/7/17/21328600/national-suicide-prevention-lifeline-number-dial-988-fcc'> Source <a/>
