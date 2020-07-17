@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Henry Cavill knows exactly how you imagine him: bulging muscles, epic chin, movie star grin, sitting alone in his man-cave playing PC games all day because that's what he told GQ he likes to do best.
-<a href='https://www.theverge.com/tldr/21327260/henry-cavill-gaming-pc-instagram-witcher-superman'> Source <a/>

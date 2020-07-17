@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1zDarRGuO4svdxGw8IchVir6dWw=/0x0:2068x1336/1200x800/filters:focal(869x503:1199x833)/cdn.vox-cdn.com/uploads/chorus_image/image/67072464/Screen_Shot_2020_07_17_at_12.05.06_PM.0.png' width='700px' /><br/>
+Samsung has announced that its latest Galaxy Book S is now available to purchase. It's the first device to offer Intel's new “Core processors with Intel Hybrid Technology.” Previous Galaxy Book S models have run on Qualcomm's Snapdragon platform.
+<a href='https://www.theverge.com/2020/7/17/21328470/samsung-galaxy-book-s-intel-hybrid-lakefield-announced-price-release-date'> Source <a/>
