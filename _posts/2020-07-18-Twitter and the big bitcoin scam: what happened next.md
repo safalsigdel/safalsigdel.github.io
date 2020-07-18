@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TMZW-1tsDGyhI7W5n3FjvYd_gCE=/0x0:2048x1367/1200x800/filters:focal(861x521:1187x847)/cdn.vox-cdn.com/uploads/chorus_image/image/67069327/VRG_ILLO_1777_twitter_bitcoin.0.0.jpg' width='700px' /><br/>
-On July 15th, multiple verified Twitter accounts associated with public figures and companies were hijacked and tweeted out a bitcoin scam. Several accounts impacted by the breach include Apple, President Barack Obama, former Vice President Joe Biden, Tesla and SpaceX CEO Elon Musk, rapper Kanye West, Microsoft co-founder Bill Gates, and Uber.
-<a href='https://www.theverge.com/2020/7/16/21327769/twitter-bitcoin-scam-news-updates'> Source <a/>
