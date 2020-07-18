@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AcN6W3uIhdlGlaqVA9nLgAM2LmE=/0x0:4686x3124/1200x800/filters:focal(2056x848:2804x1596)/cdn.vox-cdn.com/uploads/chorus_image/image/67074223/1201942197.jpg.0.jpg' width='700px' /><br/>
+Fortnite's newest in-game emote is a collaborative one. Epic Games this evening announced the launch of “The Renegade,” the viral TikTok dance created by Atlanta teenager Jalaiah Harmon. The Twitter account for Fortnite openly cites Harmon, writing, “Go, go, go, go, let's go and bust out some [fire] moves by @jalaiah.”
+<a href='https://www.theverge.com/2020/7/17/21329157/fortnite-renegade-dance-emote-jalaiah-harmon-for-sale-now'> Source <a/>

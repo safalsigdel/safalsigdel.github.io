@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6q4yBH7ir9BZwI0s6128e_Kiugo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67069051/acastro_200715_1777_twitter_0002.0.0.jpg' width='700px' /><br/>
-The US Federal Bureau of Investigation has opened an investigation into Wednesday's unprecedented Twitter attack that resulted in numerous takeovers of high-profile accounts belonging to politicians, business leaders, and corporations, according to a report from The Wall Street Journal.
-<a href='https://www.theverge.com/2020/7/16/21327701/fbi-twitter-hack-attack-investigation-national-security-risk-cybersecurity'> Source <a/>
