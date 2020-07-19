@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wZLzSuOeEl4U_FkzAaUe6aDoz1Q=/0x0:2039x1359/1200x800/filters:focal(620x468:946x794)/cdn.vox-cdn.com/uploads/chorus_image/image/67069387/1256557194.jpg.0.jpg' width='700px' /><br/>
-In yesterday's massive attack on Twitter, some of the highest-profile accounts on the service, including President Barack Obama, Joe Biden, Elon Musk, and Bill Gates had their accounts hijacked to peddle bitcoin scams. Notably, however, Donald Trump, perhaps the most famous Twitter user of all, was untouched by the attack, and it could be because Twitter has implemented extra protections for his account.
-<a href='https://www.theverge.com/2020/7/16/21327782/trump-twitter-hacked-massive-attack-bitcoin-scam'> Source <a/>

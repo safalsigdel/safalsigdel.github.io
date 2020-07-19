@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p7bJEypKKLs2lcmQRjythzU93-A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67076518/acastro_190411_1777_Disney_Streaming_0003.0.0.jpg' width='700px' /><br/>
+Disney has significantly reduced its spending on Facebook and Instagram ads amid concerns about the social media platform's enforcement of its content policies, The Wall Street Journal reported. It joins a list of large companies that have cut back on Facebook ads as part of an effort to compel Facebook to change how it handles hate speech and misinformation on its platforms.
+<a href='https://www.theverge.com/2020/7/18/21329810/disney-facebook-ad-spending-instagram-hulu-boycott-hate-speech'> Source <a/>
