@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/si_VL3QD0aZ1kL0dfjQf0Hkpu-0=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/67070242/Blackmagic_URSA_Mini_Pro_12K.0.jpg' width='700px' /><br/>
-Blackmagic Design has announced its first 12K video camera, the Ursa Mini Pro 12K. It's a higher resolution version of the existing Ursa Mini Pro, which shoots at 4.6K; the new model has a 12288 x 6480 Super 35 sensor capable of capturing 12K footage at 60 frames per second, 8K at 110 fps, and cropped 4K Super 16 at 220 fps.
-<a href='https://www.theverge.com/2020/7/17/21328096/blackmagic-ursa-mini-pro-12k-announced-price-release-date'> Source <a/>
