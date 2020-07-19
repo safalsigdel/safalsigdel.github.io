@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Cz918T2o_vBg4HPRjLvmKkEhL_U=/0x0:2400x1200/1200x800/filters:focal(1008x408:1392x792)/cdn.vox-cdn.com/uploads/chorus_image/image/67070304/final_Android_11_emoji.0.jpeg' width='700px' /><br/>
-To mark World Emoji Day today, we're getting our first official look at some of the new emoji that are coming to smartphones later this year. Emojipedia has compiled some of the emoji designs coming to iOS and Android, and 9to5Google has some additional details on the designs coming to Android specifically.
-<a href='https://www.theverge.com/2020/7/17/21327722/emoji-unicode-13-ios-14-android-11-turtle-bubble-tea-dodo-designs'> Source <a/>
