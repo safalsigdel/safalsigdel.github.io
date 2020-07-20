@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5dINlCBgE0Vn6aGfkZWL6JkQg3g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67070332/acastro_200715_1777_twitter_0004.0.0.jpg' width='700px' /><br/>
-It's been such a newsy week that we're ending it with two columns — enough to last you the whole weekend. First, we have what we hope is the ultimate Twitter hack FAQ, in response to this week's catastrophic security breach. Yesterday's issue was the most-read in Interface history, and we wanted to make sure you had all the latest developments.
-<a href='https://www.theverge.com/interface/2020/7/17/21327171/twitter-hack-faq-direct-messages-sim-swappers-facebook-maxine-williams-diversity-report-interview'> Source <a/>
