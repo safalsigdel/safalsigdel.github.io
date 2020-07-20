@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/852fAzGRG2Bd4b-4ExX2X2qZdZs=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/67070713/NRP_Use_Cases.0.jpg' width='700px' /><br/>
-Facebook has enabled its screen-sharing feature for Messenger on mobile devices, allowing you to share your phone or tablet screen when calling a friend one on one, in a group chat, or while taking part in even larger conversations via Messenger Rooms.
-<a href='https://www.theverge.com/2020/7/17/21328179/facebook-messenger-screen-sharing-android-ios-web-how-to'> Source <a/>
