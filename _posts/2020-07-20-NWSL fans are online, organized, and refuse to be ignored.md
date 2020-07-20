@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4ADahrPOVbRxkjwFw58atQ_4Lyo=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67071179/VRG_ILLO_4095_001.0.jpg' width='700px' /><br/>
-In mid-June, a sports business reporter tweeted that ESPN was planning to run a two-hour special with commissioners of the National Basketball Association, National Football League, National Hockey League, Major League Soccer, and the Women's National Basketball Association about the return of sports during the pandemic. Within the hour, his mentions were full of angry fans:
-<a href='https://www.theverge.com/21325419/nwsl-womens-soccer-fandom-twitter-uswnt'> Source <a/>
