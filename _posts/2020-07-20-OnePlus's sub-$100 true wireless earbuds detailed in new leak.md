@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Cn1FMND0udtTVi8MCCifDLJRmmw=/0x0:1274x768/1200x800/filters:focal(536x283:738x485)/cdn.vox-cdn.com/uploads/chorus_image/image/67080181/oneplus_buds.0.jpg' width='700px' /><br/>
+A new leak has given us the best look yet at the soon to be launched true wireless earbuds from OnePlus. Several images were extracted from the OnePlus Buds APK by both 9to5Google and Max Weinbach of XDA Developers. While we don't have a price yet, OnePlus did tease the buds on Instagram for “$XX.XX” suggesting they'll retail for less than $100.
+<a href='https://www.theverge.com/2020/7/20/21330910/oneplus-buds-leak-price-specs-images'> Source <a/>
