@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O2qbiD3rz7Id0IoO-KT3pFuxOf4=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/67070848/50034616673_67694d8b5a_h.0.jpg' width='700px' /><br/>
-Ghost of Tsushima is a game with many facets: a gorgeous open-world adventure, a Kurosawa-inspired samurai tale, and so many side quests where you hear people talk to you while you walk toward an objective. But while Ghost of Tsushima has its pros and cons, it does nail one thing: samurai warrior Jin Sakai's katana. It's the best video game sword in recent memory.
-<a href='https://www.theverge.com/21327396/ghost-of-tsushima-katana-weapon-gameplay-impressions-ps4'> Source <a/>
