@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pLTxQypOaLBX0V3_6NbbcAhxwZE=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/67070540/twarren_skypebackgroundblur_1.0.jpg' width='700px' /><br/>
-Microsoft is adding a background blur feature to its Skype for iOS app. The feature is identical to what exists in the company's Teams app, allowing iPhone and iPad users to blur what's in the background of a video call. Microsoft also added this automatic background blurring to Skype's desktop app last year.
-<a href='https://www.theverge.com/2020/7/17/21328182/skype-background-blur-ios-iphone-ipad-app-feature'> Source <a/>
