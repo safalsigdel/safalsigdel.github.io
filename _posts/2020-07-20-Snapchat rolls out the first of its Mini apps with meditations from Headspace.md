@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0Cie8C5-nCr5O3Ar3OYlxwODWqg=/0x0:2200x1091/1200x800/filters:focal(924x370:1276x722)/cdn.vox-cdn.com/uploads/chorus_image/image/67082017/Headspace_Mini_Asset_small.0.jpg' width='700px' /><br/>
+The first of Snap's new Mini applications rolled out Monday, with tools from meditation app Headspace, part of an initiative “to help support the mental health and emotional wellbeing of Snapchatters,” a Snap spokesperson said in a statement.
+<a href='https://www.theverge.com/2020/7/20/21331037/snapchat-headspace-meditation-mini-apps-mental-health'> Source <a/>

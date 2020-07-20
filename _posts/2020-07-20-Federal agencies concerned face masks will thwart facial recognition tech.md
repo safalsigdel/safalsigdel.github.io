@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dSYIyCH5NJG8yjc4dSG4t3vmHhY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67071413/acastro_170621_1777_0006_v2.0.jpg' width='700px' /><br/>
-The US Department of Homeland Security has raised concerns internally that face masks meant to protect against the spread of COVID-19 may interfere with facial recognition technology, The Intercept reported. It also appears worried about the use of face masks to evade law enforcement even after the COVID-19 pandemic is over.
-<a href='https://www.theverge.com/2020/7/17/21328287/face-masks-facial-recognition-privacy-security-protests'> Source <a/>
