@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wSverXCznuN5ekITutO3aHbHXPs=/0x0:2320x1546/1200x800/filters:focal(975x588:1345x958)/cdn.vox-cdn.com/uploads/chorus_image/image/67079880/msedge_PhEeNC8DQQ.0.jpg' width='700px' /><br/>
-Samsung's Galaxy Note 20, the step-down model from the top-of-the-line Note 20 Ultra, has leaked in a new 360-degree render thanks to tipster Evan Blass. The render shows off a handset with a much flatter screen than what we're expecting from the Ultra, and the rear camera module also appears to lack the Ultra's fourth sensor, which is speculated to be either a 3D ToF sensor or a laser autofocus.
-<a href='https://www.theverge.com/2020/7/20/21330883/samsung-galaxy-note-20-360-render-evan-blass-flat-display'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+AMD is beginning to bring its latest 7nm Ryzen 4000 chips based on its Zen 2 architecture to desktops today, following a successful rollout of the laptop version of those processors earlier this year.
+<a href='https://www.theverge.com/circuitbreaker/2020/7/21/21331824/amd-7nm-ryzen-4000-desktop-chips-apu-processor-prebuilt-systems-intel'> Source <a/>
