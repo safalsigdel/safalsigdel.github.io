@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9eNnrRcHmUIJHMX__DsI8jaeBAE=/0x0:1920x1080/1200x800/filters:focal(705x298:1011x604)/cdn.vox-cdn.com/uploads/chorus_image/image/67082389/Screen_Shot_2020_07_20_at_9.36.43_AM.0.png' width='700px' /><br/>
-Marc Levoy, the researcher who used software to turn Google's Pixel camera into a powerhouse, has joined Adobe to build a universal camera app, Adobe announced today.
-<a href='https://www.theverge.com/2020/7/20/21331331/google-pixel-camera-app-lead-adobe-marc-levoy'> Source <a/>
