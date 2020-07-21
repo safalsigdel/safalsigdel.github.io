@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9_-Cre2aCbj61Wxe7xfTseqZEnU=/0x0:5815x3869/1200x800/filters:focal(2443x1470:3373x2400)/cdn.vox-cdn.com/uploads/chorus_image/image/67087206/Founder_team_02.0.jpg' width='700px' /><br/>
+Dance is a new electric bike subscription service launched by the co-founders of SoundCloud. The invite-only program, which includes delivery, maintenance, and theft protection, launches this month in Berlin. It's the latest service to try to capitalize on the e-bike boom by shifting toward a Netflix or Spotify model for transportation.
+<a href='https://www.theverge.com/2020/7/21/21332640/dance-ebike-subscription-berlin-soundcloud-price'> Source <a/>
