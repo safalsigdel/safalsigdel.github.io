@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lacKcgkoX5CVudHadHueQEqVxzU=/0x0:2880x1620/1200x800/filters:focal(1210x580:1670x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/67086122/Apple_commits_100_percent_carbon_neutrality_for_supply_chain_and_products_by_2030_07212020.0.jpg' width='700px' /><br/>
+Apple plans to eliminate its contributions to climate change this decade, the company announced today. To reach its goal of becoming carbon neutral by 2030, it will slash its greenhouse gas pollution by 75 percent and then find ways to draw down the remaining 25 percent of its heat-trapping emissions.
+<a href='https://www.theverge.com/2020/7/21/21332461/apple-carbon-neutral-2030-climate-change'> Source <a/>
