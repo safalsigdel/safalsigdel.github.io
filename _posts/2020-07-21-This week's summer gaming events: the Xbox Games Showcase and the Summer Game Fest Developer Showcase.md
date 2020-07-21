@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UxXxwcjHWtDEjtHbJxflS8h_o9Y=/0x0:600x600/1200x800/filters:focal(252x252:348x348)/cdn.vox-cdn.com/uploads/chorus_image/image/66796149/sjXM9tgQ.0.jpeg' width='700px' /><br/>
+Even though E3, Gamescom, and other summer gaming events have become online-only or outright canceled due to the COVID-19 pandemic, there has already been a lot of gaming news this summer.
+<a href='https://www.theverge.com/21254666/gaming-events-summer-game-fest-2020-e3-gamescom-digital-announcements'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9m6CrqcXIv4HLLmY_Uee9PjRzcU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67077739/acastro_200715_1777_twitter_0003.0.0.jpg' width='700px' /><br/>
+Twitter confirmed that it removed a campaign video President Trump had retweeted Saturday over a copyright complaint. The Linkin Park song “In the End” was featured in the background of the video, which included images of President Trump and excerpts from his inauguration speech.
+<a href='https://www.theverge.com/2020/7/19/21330154/twitter-disables-video-trump-retweet-linkin-park-takedown-copyright'> Source <a/>

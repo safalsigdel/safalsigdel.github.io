@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n2o6unFD5vYklfoLC3GjPRtM4zk=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/67080905/windows10xlaptop.0.jpg' width='700px' /><br/>
+Microsoft's Windows 10X operating system, originally planned for dual-screen devices, might not appear until 2021. The software giant revealed earlier this year that Windows 10X is being reworked for single-screen devices, rather than hardware like the Surface Neo. These changes mean Microsoft won't be releasing Windows 10X like it had planned to do so later this year.
+<a href='https://www.theverge.com/2020/7/20/21331063/microsoft-windows-10x-2021-spring-release-date-rumors'> Source <a/>

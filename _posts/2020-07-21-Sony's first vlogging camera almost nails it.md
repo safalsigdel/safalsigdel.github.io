@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bLwkSb6W4gBDzUbNVYl29W2g7RI=/0x0:2040x1360/1200x675/filters:focal(895x562:1221x888)/cdn.vox-cdn.com/uploads/chorus_image/image/67081964/sony_zv_1_camera_vlog_dbohn_4092_offset.0.jpg' width='700px' /><br/>
+In 2020, I hope I don't have to convince you that vlogging is not a frivolous activity, but a real genre of video that can range from hobby to full-time job to full-blown media company. That is why it's so strange to me that so few cameras are custom-designed for it.
+<a href='https://www.theverge.com/21328971/sony-zv-1-review-vlogging-4k-camera-price-specs-features'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KBrJhn2sszuQKHtnZufLtH7E90Q=/0x0:2500x1666/1200x800/filters:focal(1050x633:1450x1033)/cdn.vox-cdn.com/uploads/chorus_image/image/67078472/EbHUYNdUcAAFZ9f.0.jpg' width='700px' /><br/>
+Ahead of its debut on July 21st OnePlus released an Instagram video indicating its Nord phone will come with Google's Messages and Phone apps installed instead of its own SMS and dialer, 9to5Google reported. The device also will have Google's Duo video chat app pre-installed, according to the video.
+<a href='https://www.theverge.com/2020/7/19/21330390/oneplus-nord-google-messages-phone-duo'> Source <a/>
