@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q3eonAa-EAUPTy6mEEIBVVanKuM=/0x0:2000x1053/1200x800/filters:focal(840x367:1160x687)/cdn.vox-cdn.com/uploads/chorus_image/image/67078200/Venita_Smith_Female___Black___Signs_POWER_.0.png' width='700px' /><br/>
-Filmmaker Emmai Alaquiva of Pittsburgh wanted to talk to his 8-year-old daughter about the racial climate in the US, but was  concerned that at her age, she might not be able to fully grasp the issues.
-<a href='https://www.theverge.com/2020/7/19/21329573/unspeakable-psa-deaf-black-lives-matter-protests'> Source <a/>
