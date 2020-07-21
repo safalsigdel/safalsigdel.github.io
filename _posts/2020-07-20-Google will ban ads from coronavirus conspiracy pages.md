@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rPD8LYy-Hi5aQIfzEbDvFdOxsUo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67072420/acastro_200512_1777_faceMask_0001.0.0.jpg' width='700px' /><br/>
-Google will ban ads promoting coronavirus conspiracy theories, remove ads from pages that promote these theories, and demonetize entire sites that frequently violate the policy starting on August 18th. CNBC reported the news earlier today, noting that it supplements an existing ban on monetizing harmful medical misinformation.
-<a href='https://www.theverge.com/2020/7/17/21328526/google-coronavirus-conspiracy-page-ad-ban-new-rule'> Source <a/>

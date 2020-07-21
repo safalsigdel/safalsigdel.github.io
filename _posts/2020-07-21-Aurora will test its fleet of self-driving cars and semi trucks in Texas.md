@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NFRQHtJaIkPZKHKaQivUYyguYcA=/0x0:4032x2268/1200x800/filters:focal(1694x812:2338x1456)/cdn.vox-cdn.com/uploads/chorus_image/image/67082226/Texas_Pacifica.0.jpg' width='700px' /><br/>
+Aurora, the startup founded by former lead engineer for Google's self-driving project Chris Urmson, is bringing its fleet of test vehicles to Texas. It's the latest company to shift resources to the Lone Star State, which has quickly become a hotbed of autonomous vehicle testing.
+<a href='https://www.theverge.com/2020/7/20/21331418/aurora-self-driving-cars-semi-truck-av-texas-robotaxi'> Source <a/>

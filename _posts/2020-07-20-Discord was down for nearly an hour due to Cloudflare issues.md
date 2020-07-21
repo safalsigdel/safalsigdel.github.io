@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qttTyt7I4QKeNpKTuv0nWjHWnPo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67073551/acastro_200318_1777_discord_0003.0.0.jpg' width='700px' /><br/>
-Popular chat service Discord experienced widespread server outages today. The issues started at around 5PM ET, and lasted nearly an hour. Patreon, Deliveroo, GitLab, Zendesk, Medium, and many other sites were also down, and Cloudflare acknowledged issues with its network affected various apps and sites.
-<a href='https://www.theverge.com/2020/7/17/21328993/discord-down-server-outage-issues'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oElDxVZt4heGQgRpHWkdgL4h-Lg=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/67083197/smartplug.0.jpg' width='700px' /><br/>
+Wemo's new miniaturized WiFi Smart Plug — which the company announced at CES earlier this year — is now available to actually buy.
+<a href='https://www.theverge.com/2020/7/20/21331409/wemo-wifi-smart-plug-price-size-home-alexa-google'> Source <a/>

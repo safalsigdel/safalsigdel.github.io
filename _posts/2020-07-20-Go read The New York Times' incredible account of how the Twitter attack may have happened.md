@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fEnFM0L1D2zRU5-vus-8q6gaJrU=/0x0:2048x1367/1200x800/filters:focal(861x521:1187x847)/cdn.vox-cdn.com/uploads/chorus_image/image/67074157/VRG_ILLO_1777_twitter_bitcoin_verified.0.0.jpg' width='700px' /><br/>
-Reporters are starting to piece together the behind-the-scenes events of the unprecedented Twitter attack on Wednesday almost as fast as the official investigators themselves. And the clearest idea of what may have happened two days ago — when roughly 130 accounts were compromised using internal company tools — comes courtesy of The New York Times this afternoon.
-<a href='https://www.theverge.com/2020/7/17/21329147/twitter-hack-attack-bitcoin-scam-how-it-happened-new-york-times-go-read-this'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xn-o6Ts_jT3kAswNZpmOzCME-A8=/0x0:4941x3294/1200x800/filters:focal(2076x1252:2866x2042)/cdn.vox-cdn.com/uploads/chorus_image/image/67082266/1200875985.jpg.0.jpg' width='700px' /><br/>
+Has Facebook CEO Mark Zuckerberg cut a secret deal with President Donald Trump, turning a blind eye to his lies and incendiary posts in the hope that the social media giant won't become the president's next target? Rumors of this sort have been swirling for months, but Zuckerberg himself has now denied it, telling Axios that no such deal exists.
+<a href='https://www.theverge.com/2020/7/20/21331067/facebook-mark-zuckerberg-donald-trump-denies-deal-political-ads-lies'> Source <a/>

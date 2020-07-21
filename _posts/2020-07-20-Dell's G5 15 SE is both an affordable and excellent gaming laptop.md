@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9WztzlWKpbrQ02IPQ9nP0X2RbTM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67072307/cfaulkner_200714_4098_0010.0.0.jpg' width='700px' /><br/>
-Dell's G5 15 SE is focused. It's not the best-looking gaming laptop or the fastest out there, but starting at $879.99, its AMD Ryzen processor and RX 5600M graphics chip make for a great tag team. Along with other speedy components like fast RAM, an NVMe SSD, and a 144Hz refresh rate display, this Dell gaming laptop undercuts and outruns the competition in its price range.
-<a href='https://www.theverge.com/21328344/dell-g5-15-se-review-2020-gaming-laptop-amd-ryzen'> Source <a/>
