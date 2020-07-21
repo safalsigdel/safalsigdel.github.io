@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lNuYPVWOrweJS979drqe1e_BQdc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67085115/VRG_ILLO_4047_Zynn_001.0.jpg' width='700px' /><br/>
+Controversial Chinese video app Zynn has returned to iOS and Android after being booted from both platforms following reports of plagiarism and complaints about a pay-to-watch system that one media watchdog described as a “pyramid scheme.”
+<a href='https://www.theverge.com/2020/7/21/21332354/tiktok-clone-zynn-return-ios-android-zyncheers-points-cash-payouts'> Source <a/>
