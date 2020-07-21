@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YjU5uRMIC9YEcDDBx6bjK5TjA_I=/0x0:4177x2774/1200x800/filters:focal(1988x157:2656x825)/cdn.vox-cdn.com/uploads/chorus_image/image/67083508/693907654.jpg.0.jpg' width='700px' /><br/>
-Former intelligence contractor and whistleblower Reality Winner has reportedly tested positive for COVID-19. Winner's sister, Brittany Winner, tweeted her diagnosis earlier today. Winner is currently incarcerated in a federal medical prison in Fort Worth, Texas, where an outbreak has sickened hundreds of inmates and killed at least two.
-<a href='https://www.theverge.com/2020/7/20/21331782/reality-winner-covid-19-coronavirus-positive-diagnosis-fmc-carswell-prison'> Source <a/>

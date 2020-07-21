@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R47S53NaPM7QmcMwSr4d0oEmmxU=/0x0:4500x3125/1200x800/filters:focal(1890x1203:2610x1923)/cdn.vox-cdn.com/uploads/chorus_image/image/67075507/1181460045.jpg.0.jpg' width='700px' /><br/>
-KFC is trying to create the world's first laboratory-produced chicken nuggets, part of its “restaurant of the future” concept, the company announced. The chicken restaurant chain will work with Russian company 3D Bioprinting Solutions to develop bioprinting technology that will “print” chicken meat, using chicken cells and plant material.
-<a href='https://www.theverge.com/2020/7/18/21329453/kfc-russia-bioprinting-lab-chicken-nuggets-sustainable'> Source <a/>

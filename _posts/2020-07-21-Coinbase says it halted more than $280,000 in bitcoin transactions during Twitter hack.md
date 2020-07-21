@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eIvhl1CBsV-7-ZR1fhZj1lcAooU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67082238/acastro_200715_1777_twitter_0002.0.0.jpg' width='700px' /><br/>
-The cryptocurrency exchange Coinbase said that it stopped around 1,100 customers from sending bitcoin to hackers who gained access to high-profile Twitter accounts last week.
-<a href='https://www.theverge.com/2020/7/20/21331499/coinbase-twitter-hack-elon-musk-bill-gates-joe-biden-bitcoin-scam'> Source <a/>
