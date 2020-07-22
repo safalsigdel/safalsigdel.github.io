@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VVKaaNWSD-rj-2ATpxk-Ltd-6JQ=/0x0:712x474/1200x800/filters:focal(300x181:412x293)/cdn.vox-cdn.com/uploads/chorus_image/image/67090450/Capture.0.png' width='700px' /><br/>
+Samsung is hosting an “immersive virtual experience” on September 2nd, following its decision not to exhibit at Europe's major IFA tech show this year. The 45-minute event, which Samsung is calling “Life Unstoppable,” will include new mobile, TV, and home appliance product launches, as well as wearable and audio announcements.
+<a href='https://www.theverge.com/2020/7/22/21333840/samsung-life-unstoppable-september-virtual-event'> Source <a/>
