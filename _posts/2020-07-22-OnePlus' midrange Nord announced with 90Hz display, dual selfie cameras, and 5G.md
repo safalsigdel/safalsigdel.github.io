@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l6St-Cm9eVcD9YI5EsHxDMK1tGc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67086163/jporter_200720_4101_0007.0.0.jpg' width='700px' /><br/>
-OnePlus has officially announced the Nord, its first serious attempt at a midrange handset since 2015's ill-fated OnePlus X. Yet, despite the fact that it starts at just xc2xa3379 (around $480), the phone shares a lot of the DNA of the $699 OnePlus 8 released just a few short months ago, which, along with the OnePlus 8 Pro, was the company's flagship handset for this year.
-<a href='https://www.theverge.com/2020/7/21/21331537/oneplus-nord-release-date-specs-features-cameras-quad-sensors-90hz'> Source <a/>
