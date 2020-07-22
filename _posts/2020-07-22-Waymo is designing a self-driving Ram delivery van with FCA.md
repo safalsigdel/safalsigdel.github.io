@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/doHLi2Ylj4rrP0Yn7A1h_QJG3-w=/0x0:3000x2001/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/67091393/BU020_072EVc8dtsqcs1810sfm5akjefc94r8.0.jpg' width='700px' /><br/>
+Waymo and Fiat Chrysler Automotive are extending their four-year-old partnership to include commercial vans. On Wednesday, the companies announced a plan to jointly develop an autonomous delivery van based on FCA's Ram ProMaster.
+<a href='https://www.theverge.com/2020/7/22/21334012/waymo-fca-ram-delivery-self-driving-van'> Source <a/>
