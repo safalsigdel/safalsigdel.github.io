@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ygxBXpLeX4Vry5rADomI4LlmeCg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67090484/DSC00778.0.jpg' width='700px' /><br/>
+Apple is planning to introduce periscope telephoto cameras into the iPhone lineup in 2022, according to a research note by TF Securities analyst Ming-chi Kuo that was reported on by 9to5Mac, AppleInsider, and MacRumors. Semco, a South Korean company that will reportedly contribute autofocus motors to this year's new iPhone models, is said to be in line to provide about half of the supply of the periscope optics.
+<a href='https://www.theverge.com/2020/7/22/21333848/iphone-periscope-telephoto-zoom-camera-2022-ming-chi-kuo-report'> Source <a/>
