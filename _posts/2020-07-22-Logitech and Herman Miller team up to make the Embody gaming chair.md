@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RJcsyI6-pDpndCJqdBsGBWK4lAg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67090957/hmlogi1.0.jpg' width='700px' /><br/>
+Shopping for a chair to go with your gaming desk is really difficult. According to an informal poll I recently ran on Twitter, finding the right chair to buy came just behind figuring out which PC components to buy for a DIY desktop build in terms of complexity.
+<a href='https://www.theverge.com/21331603/logitech-herman-miller-embody-gaming-pc-chair-comfort-price-design'> Source <a/>
