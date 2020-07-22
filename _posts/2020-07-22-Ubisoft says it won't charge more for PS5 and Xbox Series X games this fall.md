@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IUv9_bKqxEeBbXuy-mwf0e3Fp0o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67092511/acastro_190528_1777_ubisoft_0002.0.0.jpg' width='700px' /><br/>
+Ubisoft has publicly committed to keeping prices for new games released on next-gen consoles this fall at $60, the company said in an earnings call on Wednesday. That diverges from the strategy of fellow video game publisher Take-Two Interactive and its subsidiary 2K Games, which are planning to charge an extra $10 for next-gen PlayStation 5 and Xbox Series X versions of the upcoming NBA 2K21.
+<a href='https://www.theverge.com/2020/7/22/21334338/ubisoft-next-gen-game-prices-ps5-xbox-series-x-stay-the-same'> Source <a/>
