@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/H1VAd2HEnqqU5oYFJ1UR3uVMNOY=/0x0:4899x3266/1200x800/filters:focal(2059x1242:2841x2024)/cdn.vox-cdn.com/uploads/chorus_image/image/67091276/app_lock.0.jpg' width='700px' /><br/>
+Facebook now lets you add an extra layer of security when opening Messenger on an iPhone or iPad. The app itself can now be locked upon or shortly after closing, requiring you to use an authentication method like Face ID or Touch ID to open it back up. That means you could unlock your phone and let a friend borrow it, and that person still wouldn't be able to access your Messenger chats.
+<a href='https://www.theverge.com/2020/7/22/21333945/facebook-messenger-app-lock-security-iphone-ipad-face-id'> Source <a/>
