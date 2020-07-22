@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yX639h7wKQNoEeBZs5o6Z_258iE=/0x0:800x832/1200x800/filters:focal(303x113:431x241)/cdn.vox-cdn.com/uploads/chorus_image/image/67087483/713_July_2020_Morphe_2_Sign_Up_Form_D_800x.0.jpg' width='700px' /><br/>
-Three of TikTok's biggest stars announced deals outside of TikTok yesterday, giving the creators another way to make money off their immense popularity on the shortform video app.
-<a href='https://www.theverge.com/2020/7/21/21332820/tiktok-deals-charli-dixie-damelio-morphe-addison-rae-spotify'> Source <a/>

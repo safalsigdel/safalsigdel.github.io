@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O1SHcALXw4_uMiSrwgmJIB93z-g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67092261/acastro_190719_3527_plex_piracy_0001.0.jpg' width='700px' /><br/>
+It looks like many of us are going to be pretty much stuck at home for the foreseeable future, and it's possible that you've already binged all of the series that your friends and family have recommended. Don't despair! If you're still looking for series to lose yourself in, there are still plenty out there.
+<a href='https://www.theverge.com/21327626/tv-series-binge-stream-online-recommendations-battlestar-galactica-avatar-queen-sugar'> Source <a/>
