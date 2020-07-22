@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fofl6kV-7PbLyDMqfDW6HzeOh4k=/0x0:1300x866/1200x800/filters:focal(546x329:754x537)/cdn.vox-cdn.com/uploads/chorus_image/image/67086950/ezgif_6_4dc1f816e77e.0.jpg' width='700px' /><br/>
-1More's ColorBuds True Wireless Headphones are a new pair of earbuds that focus on design and affordability over top-of-the-line specs. At just $99, they're half the price of 1More's recent pair of noise-canceling earbuds, the 1More True Wireless ANC, and they're also a lot lighter at just 4.1g per earbud compared to 7.9g with the previous model.
-<a href='https://www.theverge.com/2020/7/21/21332776/1more-colorbuds-true-wireless-headphones-earbuds-release-date-news-specs-features'> Source <a/>
