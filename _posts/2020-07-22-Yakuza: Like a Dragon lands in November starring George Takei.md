@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WyLjoJ9kz-xhxlRxIpWCjFZojpQ=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20105573/Ichiban_2.png' width='700px' /><br/>
+Yakuza: Like a Dragon, which came out as Yakuza 7 in Japan early this year, is getting a Western release in November. While every core game in the series since Yakuza 2 had Japanese voice acting and English subtitles for its Western release, Yakuza 7 is getting a full English dub like last year's spin-off title Judgment. The cast is headed by George Takei, who plays yakuza patriarch Masumi Arakawa.
+<a href='https://www.theverge.com/2020/7/22/21333672/yakuza-7-like-a-dragon-western-release-ps5-english-dub'> Source <a/>
