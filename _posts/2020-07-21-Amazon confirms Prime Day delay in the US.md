@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/keyiOfSFhcfXBPBa2mh50tSkeHo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67085043/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
-Amazon Prime Day has been delayed in the US, the company announced today. The annual shopping event, which promises discounts for Amazon Prime members, is usually held in mid-July, but Amazon has now confirmed that it intends to hold the event “later than usual” this year. The company did not set a new date, but said it would be “sharing more details soon.”
-<a href='https://www.theverge.com/2020/7/21/21332350/amazon-prime-day-delayed-us-india-august-coronavirus'> Source <a/>

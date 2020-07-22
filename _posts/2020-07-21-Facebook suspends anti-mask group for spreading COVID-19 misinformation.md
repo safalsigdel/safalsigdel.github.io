@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dOSM5Ol6qKBtDyvAxY0SdhEP_14=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67083859/acastro_200512_1777_faceMask_0002.0.0.jpg' width='700px' /><br/>
-Facebook has removed one of the largest anti-mask groups on its platform for violating its policies against spreading misinformation about COVID-19.
-<a href='https://www.theverge.com/2020/7/20/21331060/anti-mask-groups-facebook-misinformation'> Source <a/>

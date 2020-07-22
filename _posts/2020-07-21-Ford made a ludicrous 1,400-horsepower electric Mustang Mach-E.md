@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZtFYHpgn4bc5Okfsuv2ZxnBMGrY=/235x357:1748x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67085145/Mach_E_1400_APG_selects_3.0.jpg' width='700px' /><br/>
-About a year ago, before the Mustang Mach-E broke cover, Ford's motorsports division quietly started work on something outrageous: a one-off version of the electric vehicle that makes 1,400 horsepower. Now, the company is showing it off for the first time. Dubbed the Mustang Mach-E 1400, it's a wicked-looking three-seater demonstration car that screams like a banshee and smokes tires like they're kindling.
-<a href='https://www.theverge.com/2020/7/21/21331808/ford-mustang-mach-e-1400-horsepower-performance-drift-donuts'> Source <a/>

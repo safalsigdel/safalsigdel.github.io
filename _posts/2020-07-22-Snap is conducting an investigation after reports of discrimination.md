@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q_UxqHhH5Iy62zjYakuJjJidusU=/0x0:3200x2129/1200x800/filters:focal(1344x809:1856x1321)/cdn.vox-cdn.com/uploads/chorus_image/image/67088683/1220230376.jpg.0.jpg' width='700px' /><br/>
+Snap has launched an investigation into accusations of racism and sexism within the company, anonymous sources have told Business Insider.
+<a href='https://www.theverge.com/2020/7/21/21333151/snap-snapchat-investigation-evan-spiegel-racism-sexism-discrimination-reports'> Source <a/>

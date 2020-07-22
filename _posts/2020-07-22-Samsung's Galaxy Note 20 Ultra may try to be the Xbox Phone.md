@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lucH6v9yh1eZ8_5ucR1X2-gAH7E=/341x143:1656x968/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67089544/Untitled.0.png' width='700px' /><br/>
+Samsung's Note 20 Ultra, which is expected to launch on August 5th at the next Samsung Unpacked event, may be highly optimized to stream Xbox games over xCloud, according to a new report from WinFuture.
+<a href='https://www.theverge.com/2020/7/21/21333538/samsung-galaxy-note-20-ultra-microsoft-xbox-phone-specs'> Source <a/>

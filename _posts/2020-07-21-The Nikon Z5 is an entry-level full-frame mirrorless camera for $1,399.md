@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/udWWOPC1E8pGvhgTjEHgtX3UUyI=/0x0:900x600/1200x800/filters:focal(378x228:522x372)/cdn.vox-cdn.com/uploads/chorus_image/image/67084796/Untitled_2.0.jpg' width='700px' /><br/>
-Last year Nikon released its first full-frame mirrorless cameras, the Z7 and Z6, and now the range is expanding to a lower price with the announcement of the Z5. Unlike the Z50, which used the same Z mount but had a smaller APS-C sensor, the Z5 uses a 24-megapixel full-frame sensor.
-<a href='https://www.theverge.com/2020/7/21/21332300/nikon-z5-full-frame-mirrorless-camera-price-release-date-specs'> Source <a/>

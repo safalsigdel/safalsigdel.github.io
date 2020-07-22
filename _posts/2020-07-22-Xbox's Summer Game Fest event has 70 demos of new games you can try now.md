@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Tyrn8IA2_kJQy7-fH5Yd79dYs8M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67087725/tpina_160731_1175_0015.0.0.jpg' width='700px' /><br/>
+More than 70 demos of unreleased Xbox One games are now available to play as part of Microsoft's Summer Game Fest Demo Event. You'll be able to check them out until July 27th.
+<a href='https://www.theverge.com/21332911/xbox-one-demos-microsoft-summer-game-fest-event'> Source <a/>
