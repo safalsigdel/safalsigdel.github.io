@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3jLo-jOD0w_w2XzSLxuX2eSYpBA=/0x0:2000x1333/1200x800/filters:focal(863x1013:1183x1333)/cdn.vox-cdn.com/uploads/chorus_image/image/67085228/amazon_scout_atlanta_image_62520.0.jpg' width='700px' /><br/>
-Amazon unveiled its six-wheel delivery robot, Scout, in January 2019, but has only been slowly expanding its field tests. After launching in a single neighborhood in Snohomish County, Washington and then adding a larger site in Irvine, California last August, Scout is now undergoing trials in Atlanta, Georgia and Franklin, Tennessee, Amazon announced today.
-<a href='https://www.theverge.com/2020/7/21/21332374/amazon-autonomous-robot-delivery-scout-expands-trials-atlanta-georgia-franklin-tennessee'> Source <a/>
