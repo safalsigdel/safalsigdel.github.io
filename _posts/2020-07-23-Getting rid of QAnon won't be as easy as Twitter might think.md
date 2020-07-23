@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7VCEJmfhfvaKc3EvG9jlpnR2gIo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67095954/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Every tech platform has two policies about what they will allow: the policy that's written, and the policy that's enforced. Ideally there would be no gap between these, but in practice it almost can't be helped.
+<a href='https://www.theverge.com/interface/2020/7/23/21334255/twitter-qanon-ban-facebook-policy-enforcement-political-candidates'> Source <a/>
