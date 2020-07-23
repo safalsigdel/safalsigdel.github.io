@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n6zu7-qdFB5KmhtWjCqCJfT-3co=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67092731/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-If AT&T sent you an email telling you to upgrade your phone — or else — would you write it off as a scam? Well, that's just what the company did this week, as reported by Android Police.
-<a href='https://www.theverge.com/2020/7/22/21334221/att-customer-upgrade-email-3g-shutdown-2022'> Source <a/>

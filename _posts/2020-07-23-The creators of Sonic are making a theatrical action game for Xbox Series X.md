@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w5SPu39wHIQqMnZmwwdDv-vNjz8=/0x0:2048x1152/1200x0/filters:focal(0x0:2048x1152):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20108691/BALAN_WONDERWORLD_screenshot_6.jpg' width='700px' /><br/>
+Two of the original creators of Sonic the Hedgehog — lead programmer Yuji Naka and character designer Naoto Oshima — are reuniting to create a new “theatrical” action platformer called Balan Wonderworld, set to release on the Xbox Series X and Xbox One in spring 2021.
+<a href='https://www.theverge.com/21335755/balan-wonderworld-xbox-series-x-sonic-creators-gameplay-trailer'> Source <a/>
