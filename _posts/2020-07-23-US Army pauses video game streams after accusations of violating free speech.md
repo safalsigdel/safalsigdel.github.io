@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MsCE1lYQzaTFH2X_SFrCQcDPZlY=/0x0:2048x1365/1200x800/filters:focal(908x858:1234x1184)/cdn.vox-cdn.com/uploads/chorus_image/image/67096162/74568181_1384607471719262_5619074059447828480_o.0.jpg' width='700px' /><br/>
+The US Army has paused streaming video games on Twitch as an outreach and recruitment tool after facing criticism for banning viewers who asked its streamers about US war crimes.
+<a href='https://www.theverge.com/2020/7/23/21335347/us-army-military-pauses-esports-twitch-streaming-war-crimes-criticism'> Source <a/>
