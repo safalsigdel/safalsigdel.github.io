@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wInze8dTaoaUWu7eoG53Brbh500=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/67090928/motorola_edge.0.png' width='700px' /><br/>
-Motorola's unlocked Edge smartphone is now available for preorder ahead of a July 31st release, the company announced today. Additionally, the company announced that for a “limited time,” it'll be offering the Edge for $499.99, instead of the originally announced $699.99 price tag.
-<a href='https://www.theverge.com/2020/7/22/21332525/motorola-edge-preorder-price-500-july-31st-limited-time-discount'> Source <a/>
