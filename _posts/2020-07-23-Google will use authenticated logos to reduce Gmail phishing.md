@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k3f69698Y1NIIOO4_9mYFXaVupc=/0x0:1300x812/1200x800/filters:focal(4x164:212x372)/cdn.vox-cdn.com/uploads/chorus_image/image/67090688/gmail_logo_display.max_1300x1300.0.png' width='700px' /><br/>
-Google will trial a new security feature in Gmail that shows a brand's logo as an avatar to help you know an email is genuine, the company has announced. The functionality uses the Brand Indicators for Message Identification (BIMI) standard, whose working group Google joined last year, and will be tested with a limited number of senders in the coming weeks.
-<a href='https://www.theverge.com/2020/7/22/21333886/google-gmail-bimi-logo-authentication-trial-brand-indicators-for-message-identification'> Source <a/>

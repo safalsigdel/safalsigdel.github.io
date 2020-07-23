@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O3s-f-WGumLyoraJpFHmO_Hdrws=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67095759/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook's engineers have developed a new method to help them identify and prevent harmful behavior like users spreading spam, scamming others, or buying and selling weapons and drugs. They can now simulate the actions of bad actors using AI-powered bots by letting them loose on a parallel version of Facebook. Researchers can then study the bots' behavior in simulation and experiment with new ways to stop them.
+<a href='https://www.theverge.com/2020/7/23/21333854/facebook-ai-simulation-bad-behavior-ww-web-base-simulator'> Source <a/>
