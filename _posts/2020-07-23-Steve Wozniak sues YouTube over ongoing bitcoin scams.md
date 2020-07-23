@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6iojYPLjR08P0w1d1upSGVfYQCw=/0x0:5184x3456/1200x800/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/67097860/968739580.jpg.0.jpg' width='700px' /><br/>
+Steve Wozniak is suing YouTube for allowing scammers to use his name and likeness in phony bitcoin giveaways.
+<a href='https://www.theverge.com/2020/7/23/21335554/steve-wozniak-youtube-lawsuit-bitcoin-scam-cryptocurrency-apple'> Source <a/>

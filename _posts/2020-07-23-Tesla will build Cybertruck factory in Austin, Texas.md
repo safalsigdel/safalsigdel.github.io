@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oLLImSTD6plXBO6zxAQRAIpsq1w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67094169/sokane_191112_3807_8349.0.jpg' width='700px' /><br/>
-Tesla will build its next US factory in Austin, Texas, CEO Elon Musk announced today, wrapping up a months-long search for a location to build the upcoming Cybertruck. Construction work is “already underway,” Musk said. “It started this weekend.”
-<a href='https://www.theverge.com/2020/7/22/21334860/tesla-cybertruck-factory-austin-texas-location-model-y'> Source <a/>
