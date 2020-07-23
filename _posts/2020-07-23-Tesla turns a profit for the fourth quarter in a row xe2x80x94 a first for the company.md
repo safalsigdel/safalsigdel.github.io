@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RJ0zcJgHDwCpImjf0rKMRFaF9vo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67093694/tesla.0.jpg' width='700px' /><br/>
-Tesla turned a profit of $104 million in the second quarter of 2020 despite shutting down its electric vehicle factory in Fremont, California, for roughly seven weeks because of the COVID-19 pandemic. As a result, Tesla has now been profitable for four straight quarters for the first time in company history — an elusive benchmark the company has long sought.
-<a href='https://www.theverge.com/2020/7/22/21333954/tesla-q2-earnings-profit-model-y-revenue-elon-musk-covid-19'> Source <a/>
