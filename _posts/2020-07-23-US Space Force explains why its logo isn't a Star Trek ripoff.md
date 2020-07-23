@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hF5zZV_QaYn0HHF4eK-eBo2KOmU=/0x0:4200x2978/1200x800/filters:focal(1764x1153:2436x1825)/cdn.vox-cdn.com/uploads/chorus_image/image/67095832/200722_F_GO452_0001.0.jpg' width='700px' /><br/>
+An official logo and motto for the United States Space Force have been revealed, following the announcement of its official seal back in January, and flag in May. The organization's motto is “Semper Supra,” which is Latin for “Always Above,” while the logo itself is based around a delta shape that's been the focus of some mockery thanks to its similarity to Starfleet's logo from Star Trek.
+<a href='https://www.theverge.com/2020/7/23/21335338/united-states-space-force-star-trek-delta-symbol-air-force-space-command'> Source <a/>
