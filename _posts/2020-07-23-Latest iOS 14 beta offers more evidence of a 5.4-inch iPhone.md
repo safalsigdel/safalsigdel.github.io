@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OuemzgeCxT-ZxFnU6tt6WhvuCGU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67096030/akrales_190913_3666_0391.0.jpg' width='700px' /><br/>
+iOS 14's third beta contains more evidence that Apple has an iPhone with a 5.4-inch display on the way, 9to5Mac reports.
+<a href='https://www.theverge.com/2020/7/23/21335351/iphone-12-2020-screen-size-5-4-inch-ios-14-beta-3-display-zoom'> Source <a/>
