@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5QONNj4WfGlIHfEZLUbs36U03vM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67092163/Edh_nC6VcAEwdmo.0.png' width='700px' /><br/>
-A picture of a new Oculus Quest virtual reality headset has seemingly leaked online. The image was posted by Twitter user WalkingCat, who has produced credible leaks in the past. It shows a headset very similar to the existing Oculus Quest, but with a black-and-white color scheme, a potentially slimmer design, and a possibly controversial feature tweak.
-<a href='https://www.theverge.com/2020/7/22/21334214/new-oculus-quest-refresh-image-leaked-twitter-walkingcat-vr-headset'> Source <a/>

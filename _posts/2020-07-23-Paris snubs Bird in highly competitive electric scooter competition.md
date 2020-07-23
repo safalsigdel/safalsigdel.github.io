@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1mRYLeqhg8LAVqYbQQHaTNOYW24=/0x0:5936x3957/1200x800/filters:focal(2494x1505:3442x2453)/cdn.vox-cdn.com/uploads/chorus_image/image/67097480/1223311459.jpg.0.jpg' width='700px' /><br/>
+Paris has chosen its electric scooter operators. The city, which has quickly become a haven for biking, walking, and scootering thanks to the forward-thinking leadership of Mayor Anne Hidalgo, has selected Lime, Tier, and Dott as its scooter companies. Each company will be awarded a two-year contract which allows it to deploy 5,000 electric scooters throughout the city, for a total of 15,000 scooters.
+<a href='https://www.theverge.com/2020/7/23/21335611/paris-electric-scooter-competition-lime-tier-dott-bird'> Source <a/>
