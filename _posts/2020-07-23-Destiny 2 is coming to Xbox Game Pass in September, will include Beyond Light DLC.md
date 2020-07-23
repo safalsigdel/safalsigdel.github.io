@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vnbbkcpzSP5GNojEYW6cHi3rwlU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67097920/bungie_net_metadata_beyondlight_1920x1080.0.jpg' width='700px' /><br/>
+Microsoft and Bungie are partnering to bring Destiny 2 to Xbox Game Pass. The original Halo developer will launch Destiny 2 at no additional cost to Xbox Game Pass subscribers in September, and it will include access to previous expansions and the upcoming Destiny 2: Beyond Light DLC.
+<a href='https://www.theverge.com/2020/7/23/21335483/destiny-2-xbox-game-pass-release-date-microsoft-bungie'> Source <a/>
