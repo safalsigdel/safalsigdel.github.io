@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e_0MhMQCvKxw7rSLK4YiuP7d6dM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67097774/Tell_Me_Why_Image_11_1920x1080.0.png' width='700px' /><br/>
+Dontnod's latest narrative-driven game, Tell Me Why, will launch on August 27th. Microsoft announced the news today during its July showcase, alongside several game premieres and updates.
+<a href='https://www.theverge.com/2020/7/23/21335659/tell-me-why-xbox-one-pc-release-date-dontnod'> Source <a/>
