@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7QP8yDvW9MRNvKN2S0KlCGf_9ns=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67097563/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
+As TikTok continues to grow in popularity and its personalities become mainstream celebrities in their own right, the company is trying to keep talent with a new $200 million creators fund.
+<a href='https://www.theverge.com/2020/7/23/21335404/tiktok-creators-monetization-fund-followers-youtube-content-videos'> Source <a/>
