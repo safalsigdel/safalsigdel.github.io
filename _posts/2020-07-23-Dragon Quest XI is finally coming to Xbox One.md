@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PHKk7OtqG7WiS8rIQaieXUFgLTk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67097284/DQXI___E3___13_bmp_jpgcopy.0.jpg' width='700px' /><br/>
+Ever since its debut in 2018, Dragon Quest XI has slowly been spreading to other platforms. It's playable on the PC, PS4, and Switch — and now it's finally coming to the Xbox One. During its Xbox Series X showcase today, Microsoft revealed that the “definitive edition” of the role-playing game is launching on its console on December 4th. It'll also be available through Game Pass.
+<a href='https://www.theverge.com/2020/7/23/21335514/dragon-quest-11-xi-xbox-one-release-date-square-enix'> Source <a/>
