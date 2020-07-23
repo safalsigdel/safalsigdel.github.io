@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OKenXXoSd0Q6-dycgxsY9sEntRY=/0x0:2160x1202/1200x800/filters:focal(908x429:1252x773)/cdn.vox-cdn.com/uploads/chorus_image/image/67098034/G5_GC19_Kait_Del_Jack.0.png' width='700px' /><br/>
+Microsoft isn't just announcing new games for the upcoming Xbox Series X; the company also announced that several recent Xbox One games will be getting upgraded for the next-gen console with new features and better graphics.
+<a href='https://www.theverge.com/2020/7/23/21332881/xbox-studios-games-series-x-optimized-forza-gears'> Source <a/>
