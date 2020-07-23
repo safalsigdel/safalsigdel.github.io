@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WkSL4EqGk_JOXgGlyCGAowpDHl8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67094197/vpavic_191101_3747_0024.0.jpg' width='700px' /><br/>
+Microsoft's AI-powered “eye contact” feature for the Surface Pro X is finally starting to roll out, months after it was originally announced for the ARM-powered Surface laptop last year.
+<a href='https://www.theverge.com/2020/7/22/21334622/microsoft-eye-contact-surface-pro-x-video-chat-ai-correction-feature-rolling-out'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vtcLGm1n_Li8tutBrC9dNFln90U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67089524/acastro_200715_1777_twitter_0003.0.0.jpg' width='700px' /><br/>
-Twitter just announced an crackdown on QAnon, the far-right wing conspiracy theory movement, by banning 7,000 accounts and taking several specific actions that could prevent the spread of their propaganda from as many as 150,000 more, reports NBC News. The company confirmed the numbers to The Verge.
-<a href='https://www.theverge.com/2020/7/21/21333570/twitter-crackdown-qanon-conspiracy-ban-search-trending'> Source <a/>

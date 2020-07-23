@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+You know that chumbox of weird garbage that appears at the bottom of most news sites, including this one? You know the one! It's labeled “Promoted stories” or “Around the web.” It's got headlines like: “1 Weird Trick to Lose Weight,” “You Won't Believe What [STAR NAME HERE] Looks Like Today!,” and “Throw this vegetable out!” There are two major players in the field — Taboola and Outbrain — and the Justice Department has approved their merger.
+<a href='https://www.theverge.com/tldr/2020/7/22/21334672/taboola-outbrain-merger-doj-approves-chumbox-clickbait'> Source <a/>

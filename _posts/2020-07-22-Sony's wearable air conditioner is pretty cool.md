@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ED7ehkBgcZyJsg9kxNtAoPNuD6w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67090584/DSCF7273.0.jpg' width='700px' /><br/>
-I've lived in Japan for nearly twelve years, and I'm still not used to the awful summers. Between the high temperatures and suffocating humidity, stepping outside in July and August feels like being slowly cooked in a sous vide pot. As a seemingly interminable rainy season comes to an end, I'm not going to need much encouragement to stay home.
-<a href='https://www.theverge.com/2020/7/22/21333837/sony-reon-pocket-hands-on-wearable-air-conditioner-japan'> Source <a/>
