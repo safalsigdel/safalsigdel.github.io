@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-EzloCYaxDKqv2Rp76M4tHM2MVU=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20108017/Knoop_Scratch_Test_1.jpg' width='700px' /><br/>
-Your next Samsung Galaxy or iPhone may soon include the toughest gadget glass Corning has ever created. Today, the company's announcing Gorilla Glass Victus — a glass that can not only resist a six-foot drop, but also the first in six years to meaningfully improve your phone's ability to shrug off nasty scratches.
-<a href='https://www.theverge.com/2020/7/23/21335252/corning-gorilla-glass-victus-drop-scratch-resistant-apple-samsung'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OkvriaGx4g6Iz0XnQJ3OMlisHLI=/0x0:5098x3398/1200x800/filters:focal(2142x1292:2956x2106)/cdn.vox-cdn.com/uploads/chorus_image/image/67100151/1227745654.jpg.0.jpg' width='700px' /><br/>
+The Department of Homeland Security says US authorities have banned drones from flying near federal buildings in Portland because they believe drones are surveilling federal officers at protests there, Reuters reports. The order comes a few weeks after federal agencies were discovered using surveillance drones themselves, over peaceful protests in Minneapolis and other US cities.
+<a href='https://www.theverge.com/2020/7/23/21336057/federal-ban-drones-portland-protests'> Source <a/>

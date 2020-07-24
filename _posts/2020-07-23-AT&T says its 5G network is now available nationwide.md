@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7p_vCFKmxGmiXoNam0es79YrNq4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67097024/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T said on Thursday that its 5G network is now available nationwide. The company says its 5G is now available to more than 205 million consumers in 395 coverage markets across the US.
-<a href='https://www.theverge.com/2020/7/23/21335456/att-5g-network-nationwide-verizon-hbomax-warner-date'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bLaoRv1rsfpYNI-4oTVjljxYEsU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67099415/dbohn_200506_4012_0017.0.jpg' width='700px' /><br/>
+Screenshots can be really handy. You can use them to show your grandparent how to use a new app. You can use them to send a shot of that strange error message to your company's IT department. You can use them to capture tweets before they disappear down the deletion black hole. So in case you need to capture a screenshot or two, here's a quick and simple guide to taking screenshots on your Mac.
+<a href='https://www.theverge.com/21335753/mac-macbook-apple-screenshot-how-to'> Source <a/>

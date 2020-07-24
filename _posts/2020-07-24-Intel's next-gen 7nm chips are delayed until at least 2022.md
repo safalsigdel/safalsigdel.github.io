@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Intel finally got its 10nm chips on the market after years of delays, but now the company has announced that it's encountered issues with its upcoming 7nm process that will result in delays for the next generation of chips, too.
+<a href='https://www.theverge.com/circuitbreaker/2020/7/23/21336356/intel-7nm-chips-next-gen-delay-q2-2020-earnings-amd-10nm-tiger-lake-desktop-laptop-cpu'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M0avotDF1jKRCxfYXWfHN5vQiWw=/0x0:4032x3024/1200x800/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/67095886/VRG_4031_IMG_8003.0.0.jpeg' width='700px' /><br/>
-The personal data of hundreds of thousands of Instacart users is being sold on the dark web for around $2 per person, according to a report from BuzzFeed.
-<a href='https://www.theverge.com/2020/7/23/21335343/instacart-user-data-order-history-sold-dark-web-denies-breach'> Source <a/>

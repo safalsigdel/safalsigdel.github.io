@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R7QHJilzokihEnZ9mM_XvwkPxgs=/0x0:936x900/1200x800/filters:focal(621x564:769x712)/cdn.vox-cdn.com/uploads/chorus_image/image/67099710/screenshot_quibi.0.png' width='700px' /><br/>
+One of the biggest complaints Quibi received upon its initial launch was subscribers being unable to screenshot what they were watching and share it with the world. For a mobile-first streaming service, it seemed like a bit of an oversight. Now, Quibi has introduced screenshot capabilities, but it's not as easy as holding down the right buttons on your iPhone.
+<a href='https://www.theverge.com/2020/7/23/21336241/quibi-screenshot-share-streaming-ios-android-mobile-drm-copyright'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4sOXVkIaSaDFjP7UZvOQltfQTWY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67099589/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google is adding a number of new features to its Messages app for Android, including the ability to reply to messages with emoji reactions, something that's long been available in other messaging apps like Facebook Messenger and iOS's built-in Messages app. The feature was first spotted in testing in May, but Google has now officially rolled it out as part of the latest version of its Messages app.
+<a href='https://www.theverge.com/2020/7/23/21336079/google-messages-reply-emoji-reactions-smart-reply-sticker'> Source <a/>

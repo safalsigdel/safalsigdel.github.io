@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ROIhUW1XahsQZpgZxtpKeiIB0Lk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67100864/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
+Remember when AT&T told customers their phones would stop working and encouraged them to buy new ones during a pandemic? T-Mobile is reportedly going to be sending out some messages like that too, but it seems like the company could be going about it a little differently (and hopefully less aggressively) than AT&T, according to an apparent internal document from T-Mobile shared by Android Police.
+<a href='https://www.theverge.com/2020/7/23/21336397/t-mobile-require-support-volte-2021-5g-lte'> Source <a/>

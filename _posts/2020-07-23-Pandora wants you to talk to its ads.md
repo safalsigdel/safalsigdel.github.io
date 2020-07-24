@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gJN31O521VOYkVqEq8a_4cw73-Y=/0x0:1704x1136/1200x800/filters:focal(716x432:988x704)/cdn.vox-cdn.com/uploads/chorus_image/image/67096533/pandoraad.0.jpg' width='700px' /><br/>
-Pandora wants you to talk to its ads. The company is expanding on its voice control features today with a beta launch of voice-activated ads, after initially testing the feature last year. Only listeners who already hear ads will be offered the voice-activated ones, which ask the listener to agree to hear additional brand content. They have to say “yes” to initiate.
-<a href='https://www.theverge.com/2020/7/23/21334484/pandora-interactive-voice-ads-voice-mode'> Source <a/>
