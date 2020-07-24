@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/zI1HIBmgHPkNlc76pyUaTg5rNnk=/0x0:2208x1272/1200x800/filters:focal(994x469:1346x821)/cdn.vox-cdn.com/uploads/chorus_image/image/67099041/Screen_Shot_2020_07_23_at_12.17.05_PM.0.png' width='700px' /><br/>
-Did Microsoft convince you that you wouldn't need to next-gen hardware to play Xbox Series X games? Think again: fully half of the next-gen games that Microsoft showcased at its Xbox Series X showcase today, including Forza, probably aren't coming to Xbox One.
+Did Microsoft convince you that you wouldn't need next-gen hardware to play Xbox Series X games? Think again: fully half of the next-gen games that Microsoft showcased at its Xbox Series X showcase today, including Forza, probably aren't coming to Xbox One.
 <a href='https://www.theverge.com/2020/7/23/21335984/microsoft-xbox-series-x-exclusive-next-gen-promise'> Source <a/>
