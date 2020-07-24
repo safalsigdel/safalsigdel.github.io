@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FE2adoX96LkoMsitUPdKuzxD7BE=/0x0:902x591/1200x800/filters:focal(437x83:581x227)/cdn.vox-cdn.com/uploads/chorus_image/image/67101892/LG_Electronics_USA_LG_OLED_Canyon_2.0.jpg' width='700px' /><br/>
+LG Display has started mass-production at its second OLED panel production plant, the company announced Thursday. The new plant, located in Guangzhou, China, has the capacity to initially produce 60,000 OLED sheets a month, which combined with LG's existing plant in Paju, South Korea means that LG Display's total OLED production capacity has almost doubled to 130,000 sheets monthly.
+<a href='https://www.theverge.com/2020/7/24/21336883/lg-display-oled-panel-manufacturing-plant-tv-china-lcd'> Source <a/>
