@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/plpVqG8cu-7dkYTrcAA0MmaHgRA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67101843/vpavic_280317_1571_0056.0.0.jpg' width='700px' /><br/>
+Garmin fitness devices have been left disconnected for nearly a day after the company suffered a major outage, possibly caused by a ransomware attack. The outage first reported by Garmin over 20 hours ago, as of this writing, affects Garmin wearables and apps, as well as Garmin call centers.
+<a href='https://www.theverge.com/2020/7/24/21336881/garmin-ransomware-attack-outage-cause'> Source <a/>
