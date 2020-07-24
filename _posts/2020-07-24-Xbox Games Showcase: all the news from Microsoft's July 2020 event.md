@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g-mC64Gl0p1_if6Ih6QFaXIBod0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67097916/acastro_190530_1777_xbox_0002.0.0.jpg' width='700px' /><br/>
-Microsoft is set to give us our best look yet at upcoming Xbox Series X games during the Xbox Games Showcase on July 23rd. Microsoft promises the show will be about an hour long and will only feature games, so there should be a lot of exciting reveals to look forward to.
-<a href='https://www.theverge.com/2020/7/23/21331829/xbox-series-x-games-showcase-news-microsoft'> Source <a/>

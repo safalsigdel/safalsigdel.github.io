@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uF65Q5_pUu6GsW_Ge2KgX85xVzo=/0x0:2208x1272/1200x0/filters:focal(0x0:2208x1272):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20108703/Screen_Shot_2020_07_23_at_12.17.05_PM.png' width='700px' /><br/>
-The Forza series is coming to the Xbox Series X, with Microsoft officially announcing the next title in its mainline Forza Motorsport simulation series of racing titles developed by Turn 10 studios for the upcoming console at its Xbox game preview event.
-<a href='https://www.theverge.com/21332876/forza-motorsport-xbox-series-x-trailer-4k-60fps-ray-tracing'> Source <a/>

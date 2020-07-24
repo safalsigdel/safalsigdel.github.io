@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9359/Image_from_iOS__1_.jpg' width='700px' /><br/>
+OnePlus has been making excellent earbuds for years now, and today, the company is introducing its first true wireless pair. The aggressively priced $79 OnePlus Buds have an AirPod-like rigid design that's all hard plastic — marking a shift away from the Bullets, Bullets Wireless 2, and other OnePlus earbuds that used silicone tips for a sealed-off, in-ear fit.
+<a href='https://www.theverge.com/21331910/oneplus-buds-wireless-earbuds-review-price-design-sound'> Source <a/>

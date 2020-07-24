@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NGjeKAW5zSZ8QAo_zYC2RjGercU=/0x0:1662x935/1200x0/filters:focal(0x0:1662x935):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20108699/tcHkqel.jpg' width='700px' /><br/>
-Microsoft is finally giving us a better look at Halo Infinite today. After promising and teasing Halo Infinite gameplay for the past few weeks, the game certainly looks like an ambitious bet from 343 Industries. Halo Infinite is a “spiritual reboot” of Halo, designed so that players new to the franchise can jump into the story.
-<a href='https://www.theverge.com/21335520/halo-infinite-gameplay-xbox-series-x-trailer-demo'> Source <a/>
