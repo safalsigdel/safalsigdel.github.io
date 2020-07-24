@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ezV3EQSW70ShLmKvtX-f5ebsf50=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67103565/bking_200304_3928_0009.0.jpg' width='700px' /><br/>
+If you're in the market for a new smartphone and prefer Android over Apple, look no further; you can purchase Samsung's Galaxy S20 Plus for $950 again today on Amazon; $50 less than its smaller-screen sibling, the S20 5G.
+<a href='https://www.theverge.com/2020/7/24/21336976/samsung-galaxy-s20-amazon-sale-deal-discount'> Source <a/>
