@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-In 2020, everything is cake — including Android 11. Android VP of engineering Dave Burke revealed the internal codename “Red Velvet Cake” in an interview with All About Android, via Droid Life.
-<a href='https://www.theverge.com/tldr/2020/7/23/21336209/android-11-r-red-velvet-cake-internal-code-name-dessert-google'> Source <a/>
