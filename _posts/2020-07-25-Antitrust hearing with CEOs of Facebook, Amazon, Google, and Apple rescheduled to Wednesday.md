@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2hnIe_77nQmmaYMPr06OEqvfa3k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67107574/acastro_200302_3922_SuperTuesday_capitol.0.0.jpg' width='700px' /><br/>
+A congressional hearing with the chief executives of Facebook, Google, Amazon, and Apple has been rescheduled for noon Eastern time on Wednesday. Originally scheduled for Monday, the hearing was bumped back a few days to allow members of Congress to pay respects  to the late Rep. John Lewis, who died July 17th. Lewis will lie in state at the US Capitol next week.
+<a href='https://www.theverge.com/2020/7/25/21338238/antitrust-hearing-ceos-facebook-amazon-google-apple-rescheduled'> Source <a/>
