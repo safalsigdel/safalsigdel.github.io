@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_lC3NrFgoL9sXS7woBaSBaf305A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67107701/acastro_190503_1777_samsung_0001.0.0.jpg' width='700px' /><br/>
+The Samsung Galaxy Watch 3 app has arrived in the Play Store, and a look at its features shows new gestures to silence alarms, take a picture, or answer an incoming call, 9to5Google reported (via XDA Developers)
+<a href='https://www.theverge.com/2020/7/25/21338203/samsung-galaxy-watch-3-gestures-muting-photos'> Source <a/>
