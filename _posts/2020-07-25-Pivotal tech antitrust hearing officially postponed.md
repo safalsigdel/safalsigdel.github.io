@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/ln2HthULVnuJNmQwXkmttTCvwuw=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/67102602/1177753294.jpg.0.jpg' width='700px' /><br/>
-Monday's congressional hearing with the chief executives of Facebook, Google, Amazon, and Apple will “likely” be postponed as the late Rep. John Lewis will lie in state at the US Capitol next week.
+Monday's congressional hearing with the chief executives of Facebook, Google, Amazon, and Apple has officially been delayed as the late Rep. John Lewis will lie in state at the US Capitol next week.
 <a href='https://www.theverge.com/2020/7/24/21337052/tech-ceo-hearing-postpone-john-lewis-facebook-google-apple-amazon'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZTTSCm-Ow9M3qVX3TJNpAo_VrnI=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67098805/akrales_190423_3384_0344.0.jpg' width='700px' /><br/>
-Jibo was supposed to die over a year ago, yet somehow, it's still alive. The social, lovable robot went viral on Twitter last March when it performed a jaunty dance after telling owners, “The servers out there that let me do what I do will be turned off soon.” That meant its ability to perform many social interactions would wind down on an undefined date, effectively killing Jibo.
-<a href='https://www.theverge.com/2020/7/23/21325644/jibo-social-robot-ntt-disruptionfunding'> Source <a/>

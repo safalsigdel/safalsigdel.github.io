@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3BJcih7QAC1BLPfpTvVmpBVg6vs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67102401/cfaulkner_200714_4099_0012.0.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/IHclNgVxU9t9nF6-oY3kT25p5fc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67102401/cfaulkner_200714_4099_0012.0.0.jpg' width='700px' /><br/>
 Many companies use Intel or AMD's yearly leap in processor generations as an opportunity to completely reinvent their laptops or desktops. Lenovo hasn't gone that far with its 15-inch Legion 5i, but I'm not complaining too much. It's still an attractive, yet plainly designed gaming laptop that I think could attract a broader audience than just gamers.
 <a href='https://www.theverge.com/21335740/lenovo-legion-5i-gaming-laptop-review-intel-nvidia'> Source <a/>

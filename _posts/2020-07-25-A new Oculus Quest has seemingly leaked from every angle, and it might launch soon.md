@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0xipSPWq2WcNDVwPswvMeFGBtkY=/0x0:1080x608/1200x800/filters:focal(454x218:626x390)/cdn.vox-cdn.com/uploads/chorus_image/image/67106139/EdsflTsU0AAsxJ5.0.jpeg' width='700px' /><br/>
+Earlier this week, we got our first look at what appeared to be a new Oculus Quest virtual reality headset thanks to an apparent marketing image shared on Twitter. Since then, more images — including ones of the device in the wild, and a rumored release date — have appeared online, indicating the headset could launch soon.
+<a href='https://www.theverge.com/2020/7/24/21337827/new-oculus-quest-leaked-images-every-angle-launch-date'> Source <a/>

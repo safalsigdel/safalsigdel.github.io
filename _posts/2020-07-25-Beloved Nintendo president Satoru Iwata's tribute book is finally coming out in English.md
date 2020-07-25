@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MbUyVbksWja1vr6EQfZamL77IDM=/0x0:3000x2000/1200x800/filters:focal(1574x817:2054x1297)/cdn.vox-cdn.com/uploads/chorus_image/image/67104939/88157332.jpg.0.jpg' width='700px' /><br/>
+A tribute book for Satoru Iwata, the beloved president and CEO of Nintendo who died in 2015, is getting an English release this spring, publisher VIZ Media announced today. The book, Ask Iwata, is a translation of Iwata-San, which was first published in Japan last year.
+<a href='https://www.theverge.com/2020/7/24/21337380/nintendo-satoru-iwata-asks-interviews-tribute-book-miyamoto-itoi'> Source <a/>

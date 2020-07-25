@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KuUU-R8tYhU1cBktbDy0CPpkMpc=/0x0:2040x1359/1200x800/filters:focal(831x334:1157x660)/cdn.vox-cdn.com/uploads/chorus_image/image/67105667/dbohn_200506_4012_0040.0.jpg' width='700px' /><br/>
+Many iPhone and iPad models let you unlock your device with your face using Face ID, but on a Mac, you still need to type in your password, set up your Apple Watch to auto unlock your Mac, or, depending on what model of Mac you have, use your fingerprint with Touch ID. But code reportedly discovered in the latest beta of macOS Big Sur by 9to5Mac suggests that Face ID could be coming to Macs at some point in the future, too.
+<a href='https://www.theverge.com/2020/7/24/21337635/apple-mac-face-id-code-macos-big-sur-truedepth-camera'> Source <a/>

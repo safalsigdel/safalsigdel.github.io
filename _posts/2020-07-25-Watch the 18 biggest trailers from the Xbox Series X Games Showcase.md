@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oYFwcUMBdq5daoZxwakLmhbCEjs=/0x0:1920x1080/1200x800/filters:focal(870x403:1176x709)/cdn.vox-cdn.com/uploads/chorus_image/image/67098507/Screen_Shot_2020_07_23_at_10.03.36_AM.0.png' width='700px' /><br/>
-Microsoft showed off a lot of games coming to the Xbox Series X, including exclusives and brand-new titles, at its July showcase event. We now have a much better idea of what's in store for Microsoft's upcoming console.
-<a href='https://www.theverge.com/2020/7/23/21331849/xbox-series-x-games-event-trailers-gameplay-announcements-microsoft'> Source <a/>
