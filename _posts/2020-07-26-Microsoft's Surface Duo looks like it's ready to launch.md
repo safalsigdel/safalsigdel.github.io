@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d2bSrggqgL8PI9GBwJTLRdvxHXc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67101890/akrales_191002_3704_0376.0.jpg' width='700px' /><br/>
-Microsoft has spent the past few weeks teasing the Surface Duo on Twitter, and it now looks like the dual-screen device is ready to launch. Microsoft's new Android-powered device first appeared at the FCC earlier this week, and today it has shown up on the Bluetooth SIG certification page. Devices typically appear in FCC and Bluetooth listings just a few weeks away from launch.
-<a href='https://www.theverge.com/2020/7/24/21336882/microsoft-surface-duo-launch-date-fcc-certifications-rumors'> Source <a/>
