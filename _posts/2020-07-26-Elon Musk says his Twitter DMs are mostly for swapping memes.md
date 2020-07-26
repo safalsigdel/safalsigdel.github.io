@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4rDBWtnZ7FDBL4fHNL-sLTAV8_k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67108186/elon_musk_tesla_3036.0.jpg' width='700px' /><br/>
+In a free-wheeling interview with New York Times columnist Maureen Dowd, Tesla CEO Elon Musk said his Twitter direct messages are mostly made up of memes, and he isn't overly worried about them being hacked.
+<a href='https://www.theverge.com/2020/7/25/21338456/tesla-elon-musk-twitter-memes-spacex'> Source <a/>
