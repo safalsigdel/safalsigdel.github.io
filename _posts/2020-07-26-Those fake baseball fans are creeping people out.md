@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jq93vdHzahnVrQugChm4t6LKYFs=/0x0:5252x3501/1200x800/filters:focal(2206x1331:3046x2171)/cdn.vox-cdn.com/uploads/chorus_image/image/67109897/1227768644.jpg.0.jpg' width='700px' /><br/>
+As part of an attempt to make Major League Baseball games in this weird, coronavirus-shortened season seem as close to normal as possible, Fox Sports decided to create virtual fans, digital versions of cheering people who would react to the games broadcast on Fox the way real fans do.
+<a href='https://www.theverge.com/2020/7/26/21339029/virtual-baseball-mlb-nba-fox-sports-coronavirus'> Source <a/>
