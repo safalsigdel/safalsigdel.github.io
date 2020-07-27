@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fNxBsa91ObXhukdGFtSByTkdyiQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67102885/acastro_200109_1777_verizon_0003.0.0.jpg' width='700px' /><br/>
-Verizon added 173,000 postpaid phone customers and 287,000 postpaid smartphone customers in the second quarter, even as it lost 81,000 consumer Fios TV subscribers, the company reported Friday. But it saw a net gain of 10,000 consumer Fios broadband subscribers, even though it had to suspend many in-home installations because of pandemic restrictions.
-<a href='https://www.theverge.com/2020/7/24/21336979/verizon-broadband-device-revenue-fios-wireless-sales'> Source <a/>
