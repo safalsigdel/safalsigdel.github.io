@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WVnHxWlrRtqse-6k_9kCKP4xrhk=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/67110475/mask_6ft_highres_resized.0.png' width='700px' /><br/>
+At the start of the coronavirus pandemic, fashion designer Chelsea Klukas of Lumen Couture was planning to make some standard cloth face masks for friends. The Centers for Disease Control and Prevention recommends wearing homemade face coverings to prevent the spread of the virus.
+<a href='https://www.theverge.com/2020/7/26/21339176/led-mask-coronavirus-tech-fashion'> Source <a/>
