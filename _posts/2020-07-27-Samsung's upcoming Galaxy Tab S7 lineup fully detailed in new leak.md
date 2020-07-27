@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ctKOflPvw1SM_nkDMl7MmRRrlX0=/0x0:900x600/1200x800/filters:focal(289x232:433x376)/cdn.vox-cdn.com/uploads/chorus_image/image/67112463/Samsung_Galaxy_Tab_S7_1595762193_0_10.0.jpg' width='700px' /><br/>
+Specs for Samsung's unannounced Tab S7 and Tab S7 Plus have leaked online, giving us an almost complete impression of what to expect from the company's upcoming tablets.
+<a href='https://www.theverge.com/2020/7/27/21339912/samsung-galaxy-tab-s7-plus-news-specs-features-leak-screen-oled-lcd-camera-battery'> Source <a/>
