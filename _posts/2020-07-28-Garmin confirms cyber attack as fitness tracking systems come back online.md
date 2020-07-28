@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q8q6LI4yO1KRgVstwX6ieAnvpSM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67112434/vpavic_280317_1571_0118.0.0.jpg' width='700px' /><br/>
-Garmin on Monday confirmed that it was the victim of a cyber attack on July 23rd that led to a significant outage for the company's popular fitness tracking services. After downtime that lasted several days, Garmin Connect cloud syncing capabilities and other features began late Sunday into Monday morning.
-<a href='https://www.theverge.com/2020/7/27/21339910/garmin-back-online-recovery-ransomeware'> Source <a/>

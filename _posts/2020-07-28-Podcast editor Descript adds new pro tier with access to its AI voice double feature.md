@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7fZheJGf_0gJtgxR0Kxjqf42ayI=/0x0:2196x1620/1200x800/filters:focal(923x635:1273x985)/cdn.vox-cdn.com/uploads/chorus_image/image/67121420/descript_2.0.png' width='700px' /><br/>
+Descript, the maker of artificial intelligence-powered audio editing software, is launching a new tier of subscription today called Descript Pro that features access to its Overdub feature.
+<a href='https://www.theverge.com/2020/7/28/21345063/descript-pro-ai-overdub-podcast-editor-subscription-service-features-pricing'> Source <a/>

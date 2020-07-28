@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SRHiglqWrWjitxeGs-4GmnoetLo=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/67121393/7uVir4Q.0.jpg' width='700px' /><br/>
+Microsoft is launching a new Family Safety app for iOS and Android today. The software giant has been testing the app in recent months, and it's designed to allow families to manage screentime and app usage. Parents can use the Family Safety app to receive reports on app usage and overall screentime and even set app time limits with the ability for children to request extensions.
+<a href='https://www.theverge.com/2020/7/28/21344757/microsoft-family-safety-app-ios-android-download-features'> Source <a/>
