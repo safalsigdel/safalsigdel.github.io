@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HKLQ4sgm497t7znYV4dRIiexIW8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67113458/mchin_181005_4093_0020.0.0.jpg' width='700px' /><br/>
-Screenshots can be really handy. You can use them to show your grandparent how to use a new app. You can use them to send a shot of that strange error message to your company's IT department. You can use them to capture tweets before they disappear down the deletion black hole. So in case you need to capture a screenshot or two, here's a quick and simple guide to taking screenshots on your PC.
-<a href='https://www.theverge.com/21336197/screenshot-windows-pc-microsoft-tool-how-to'> Source <a/>
