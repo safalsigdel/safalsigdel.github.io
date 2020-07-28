@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/uPQvxXLQSMS4FvBNNQvmwcDNyPs=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67114667/acastro_20200727_1777_facebookGroups_0001.0.jpg' width='700px' /><br/>
 A Facebook group for mothers in the tech industry is disintegrating after members say they were blocked or silenced for posting about anti-racism and white fragility.
+<a href='https://www.theverge.com/21339756/moms-in-tech-facebook-group-racism-white-fragility-community-members'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/uPQvxXLQSMS4FvBNNQvmwcDNyPs=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67114667/acastro_20200727_1777_facebookGroups_0001.0.jpg' width='700px' /><br/>
+A Facebook group for mothers in the tech industry is disintegrating after members say they were blocked or silenced for posting about anti-racism and white fragility.
 <a href='https://www.theverge.com/21339756/moms-in-tech-facebook-group-racism-white-fragility-community-members'> Source <a/>

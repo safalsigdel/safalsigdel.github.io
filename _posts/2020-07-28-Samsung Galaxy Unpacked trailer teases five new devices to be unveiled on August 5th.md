@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/gXH_2LxE8GpuJZefmhGot_LAMeI=/0x0:951x537/1200x800/filters:focal(400x193:552x345)/cdn.vox-cdn.com/uploads/chorus_image/image/67112913/Screen_Shot_2020_07_27_at_1.22.53_PM.0.png' width='700px' /><br/>
 Samsung's next big hardware event, Galaxy Unpacked, is confirmed for August 5th, and a new trailer from the phone maker suggests we can expect to see five hardware devices unveiled on the day.
+<a href='https://www.theverge.com/2020/7/27/21339989/samsung-galaxy-unpacked-trailer-five-devices-note-20-fold-2-watch-buds'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/gXH_2LxE8GpuJZefmhGot_LAMeI=/0x0:951x537/1200x800/filters:focal(400x193:552x345)/cdn.vox-cdn.com/uploads/chorus_image/image/67112913/Screen_Shot_2020_07_27_at_1.22.53_PM.0.png' width='700px' /><br/>
+Samsung's next big hardware event, Galaxy Unpacked, is confirmed for August 5th, and a new trailer from the phone maker suggests we can expect to see five hardware devices unveiled on the day.
 <a href='https://www.theverge.com/2020/7/27/21339989/samsung-galaxy-unpacked-trailer-five-devices-note-20-fold-2-watch-buds'> Source <a/>
