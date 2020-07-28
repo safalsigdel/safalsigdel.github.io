@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ajjCXOUHM3pUHJpgMkmm6RCAYlM=/0x0:858x572/1200x800/filters:focal(361x218:497x354)/cdn.vox-cdn.com/uploads/chorus_image/image/67112297/tb3.0.jpg' width='700px' /><br/>
-Apple has released a new high-end Thunderbolt 3 cable in its online store. The $129 Thunderbolt 3 Pro cable is 2 meters long, has a black braided design, and supports both DisplayPort output and USB 3.1 Gen 2 10Gbps data transfer — though of course data speeds can be up to Thunderbolt 3's standard 40Gbps between compatible devices.
-<a href='https://www.theverge.com/2020/7/27/21339861/apple-thunderbolt-3-pro-cable-specs-price-available'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YpLdRkMkHetkyRS2oqpBaYoVzao=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67107285/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
-In the latest instance of iOS 14's beta mode tattling on unexpected app behavior, some users reported that they were seeing the green “camera on” indicator while using Instagram when they were just scrolling through their feeds, not taking a photo or video.
-<a href='https://www.theverge.com/2020/7/25/21338151/instagram-bug-camera-privacy-ios14-apple'> Source <a/>

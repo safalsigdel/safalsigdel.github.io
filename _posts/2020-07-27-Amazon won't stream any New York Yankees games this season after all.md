@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VtafU1z1UKCr8_CaTNSVQtUzudE=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67107815/1257853265.jpg.0.jpg' width='700px' /><br/>
-With Major League Baseball's season shortened to just 60 games this year, Amazon won't be broadcasting any New York Yankees games this season, Bloomberg reported.
-<a href='https://www.theverge.com/2020/7/25/21338314/amazon-stream-new-york-yankees-games-baseball-coronavirus'> Source <a/>

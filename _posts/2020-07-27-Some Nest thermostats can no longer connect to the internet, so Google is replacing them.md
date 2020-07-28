@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yEOgck9wCpg6e9XFLDHCd4OD1N4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67105466/jkastrenakes_08242017_1960_0019.0.jpg' width='700px' /><br/>
-Some users of Nest thermostats can no longer control the devices remotely, and the issue is forcing Google to replace the devices entirely if otherwise standard troubleshooting fails. The issue, which began popping up on Nest forums as early as last November and racking up more than 200 responses, is known as the “w5 error,” and it disables remote control of the company's thermostats.
-<a href='https://www.theverge.com/2020/7/24/21337669/google-nest-thermostat-w5-wifi-issue-remote-control-disable-replacement'> Source <a/>

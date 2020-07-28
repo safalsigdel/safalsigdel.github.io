@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GWWrLGN1c9Dkz-r3_rWbpzJe1lk=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/67102562/D22A6F77_68BA_4737_9753_7BE0B13DD46D.0.png' width='700px' /><br/>
-We've seen plenty of pictures of Samsung's new bean-shaped earbuds, but an early update to Samsung's Galaxy Buds companion app has confirmed nearly all the details about the upcoming headphones, including the official Galaxy Buds Live name and support for active noise cancellation.
-<a href='https://www.theverge.com/2020/7/24/21337036/samsung-galaxy-buds-live-bean-earbuds-leak-name-noise-cancellation-app'> Source <a/>

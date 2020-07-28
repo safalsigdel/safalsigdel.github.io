@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uN7vJh98-wbpqoKq96Y_zvKGy14=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67108378/akrales_190914_3628_0099.0.jpg' width='700px' /><br/>
-Apple manufacturer Foxconn has started building iPhone 11 units in a facility near Chennai in India, TechCrunch reported, the first time Apple has made one of its top-tier phones in that country.
-<a href='https://www.theverge.com/2020/7/25/21338436/apple-iphone11-india-foxconn-china'> Source <a/>

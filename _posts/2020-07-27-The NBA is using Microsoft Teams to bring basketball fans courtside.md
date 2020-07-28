@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ph8mez0ax0fHa5ZlVQOn9ZuceXE=/0x0:2640x1757/1200x800/filters:focal(1109x668:1531x1090)/cdn.vox-cdn.com/uploads/chorus_image/image/67104222/microsoftteamsnba.0.jpg' width='700px' /><br/>
-The National Basketball Association (NBA) is using Microsoft Teams' new Together Mode to place basketball fans courtside in a virtual experience during live games. Microsoft only just revealed Together Mode for Teams earlier this month, and it uses AI to segment your face and shoulders and place you together with other people in a virtual space.
-<a href='https://www.theverge.com/2020/7/24/21337326/nba-microsoft-teams-together-mode-basketball-virtual-experience-fans'> Source <a/>

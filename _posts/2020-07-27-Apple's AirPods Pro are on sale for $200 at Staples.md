@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rzZaiTIvL2HwAEnXR-42OCHo0yA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67109449/cwelch_191031_3763_0002.0.jpg' width='700px' /><br/>
-Staples is running an incredible sale on Apple's AirPods Pro earbuds, bringing the retail price down to $200, or $50 off its usual $250 price tag. This the best deal we have seen yet for Apple's flagship true wireless earbuds.
-<a href='https://www.theverge.com/2020/7/26/21337598/apple-airpods-pro-staples-sale-deal-discount'> Source <a/>

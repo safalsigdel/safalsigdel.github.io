@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dgmweecctDDw1EQ1ZOqfpDPJEAA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67108615/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-TikTok has blocked several hashtags related to the QAnon conspiracy theory, but won't be removing the videos using the hashtags from its platform, the BBC reported. The video sharing app has blocked the terms “QAnon,” “QAnonTruth” and the related phrase “Out of Shadows,” which are used by QAnon believers.
-<a href='https://www.theverge.com/2020/7/25/21338615/tiktok-qanon-hashtags-videos-twitter-facebook-reddit'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-If you've ever wanted to build a real and working Windows 95 PC inside Minecraft, now is the time. A new VM Computers mod has been created for Minecraft that allows players to order computer parts from a satellite orbiting around a Minecraft world and build a computer that actually boots Windows 95 and a variety of other operating systems.
-<a href='https://www.theverge.com/2020/7/25/21338092/minecraft-windows-95-pc-doom-vm-computers-mod'> Source <a/>
