@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L3yDSvfIAsVu9Ilsc4lQAhhlxnI=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67120899/VRG_ILLO_4109_001.0.jpg' width='700px' /><br/>
+For decades, the tech industry has skirted scrutiny over mergers, acquisitions, and potential anti-competitive behavior as antitrust crusaders argued their case from the sidelines. But this week, the industry's biggest companies will be forced to confront that evidence head-on.
+<a href='https://www.theverge.com/2020/7/28/21344920/big-tech-ceo-antitrust-hearing-apple-facebook-amazon-google-facebook'> Source <a/>
