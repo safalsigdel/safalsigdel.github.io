@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V98eRGywDVu__cQFBwoX27mL4UE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67119693/acastro_180510_1777_alexa_0003.0.jpg' width='700px' /><br/>
+Amazon's Alexa app on iOS, Android, and Fire OS is being redesigned to focus on Alexa's core functionality rather than its third-party “skills” or weather forecasts, TechCrunch reports.
+<a href='https://www.theverge.com/2020/7/28/21344777/amazon-alexa-app-redesign-ios-android-fire-os-skills-routines-weather-reminders'> Source <a/>
