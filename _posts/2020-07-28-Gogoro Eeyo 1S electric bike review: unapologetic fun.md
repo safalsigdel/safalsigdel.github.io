@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/64F3Kcy1vBitCZ4ZrKmp8anFbuo=/0x0:2040x1351/1200x675/filters:focal(258x749:584x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/67120259/2020_07_27_verge_2040_6.0.jpg' width='700px' /><br/>
+Never has an electric bike caused more commotion as I rode it through Amsterdam, the world's bicycling capital, and home to a culture known more for practicality than flash.
+<a href='https://www.theverge.com/2020/7/28/21344679/gogoro-eeyo-1s-e-bike-review-score-price-date'> Source <a/>
