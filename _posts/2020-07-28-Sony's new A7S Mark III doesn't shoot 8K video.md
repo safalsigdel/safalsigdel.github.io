@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/82imQQziHEWIAoRMbmSWTEUyrRo=/0x0:2079x1387/1200x800/filters:focal(835x519:1167x851)/cdn.vox-cdn.com/uploads/chorus_image/image/67120692/sony1.5.jpg' width='700px' /><br/>
+It's been five long years since Sony's last video-focused mirrorless camera, the A7S Mark II, came out. The competition has not stood still since then, and Canon's latest R5 boasts some seriously impressive video recording chops. So today, Sony is announcing the A7S Mark III, a familiar but refreshed version of its best mirrorless camera for video recording.
+<a href='https://www.theverge.com/21341095/sony-a7s-mark-iii-camera-video-price-specs-features'> Source <a/>
