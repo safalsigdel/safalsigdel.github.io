@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DGqCm2kaVQYIsUqGldqO46AqeN4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66899977/vpavic_190829_3709_1164.0.jpg' width='700px' /><br/>
-iPad deals are more common than you might think. Whether you're after the most affordable iPad, the high-end iPad Pro, or something in between like the iPad Air or iPad mini, there's usually some sort of price cut happening somewhere. Of course, it's difficult to know exactly where you can find those deals unless you're looking around at all of the major retailers. But that's what we're doing each day when we hunt for deals, so let us help you out.
-<a href='https://www.theverge.com/21280354/best-ipad-deals-apple'> Source <a/>
