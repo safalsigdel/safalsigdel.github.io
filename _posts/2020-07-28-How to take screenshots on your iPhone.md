@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1AYASB4wgXTm5vpTSnufZ19uWFI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67113893/vpavic_042020_3980_0091.0.jpg' width='700px' /><br/>
-Screenshots are handy. You can use them to show your grandparent how to use a new app. You can use them to send a shot of that strange error message to your company's IT department. You can use them to capture tweets — yours or someone else's — before they disappear down the deletion black hole.
-<a href='https://www.theverge.com/21340137/apple-iphone-screenshots-ios-how-to-take'> Source <a/>

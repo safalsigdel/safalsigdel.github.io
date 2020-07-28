@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MD1vTL4jy9QYXKeST012Uu2gT4I=/0x0:4200x3176/1200x800/filters:focal(1192x543:1864x1215)/cdn.vox-cdn.com/uploads/chorus_image/image/67120936/1175318124.jpg.0.jpg' width='700px' /><br/>
+Twitter has forced Donald Trump Jr. — the outspoken son of President Trump — to remove a tweet from his timeline linking to a recent viral video spreading misinformation about COVID-19 that had been posted by right-wing news outlet Breitbart, as first reported by Vice.
+<a href='https://www.theverge.com/2020/7/28/21344967/twitter-donald-trump-jr-delete-tweet-misinformation-masks-hydroxychloroquine'> Source <a/>
