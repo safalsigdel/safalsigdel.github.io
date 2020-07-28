@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/XhdGBnQ5VBN0d9y9rxO_LerDajU=/0x0:3000x2000/1200x800/filters:focal(1221x293:1701x773)/cdn.vox-cdn.com/uploads/chorus_image/image/67114575/453062254.jpg.0.jpg' width='700px' /><br/>
 Lollapalooza will happen this year — on YouTube. The set will stream from July 30th to August 2nd, beginning at 6PM ET. It is free.
-<a href='https://www.theverge.com/2020/7/27/21340337/lollapalooza-streaming-youtube-lineup-artists-live-past-sets-lorde-arcade-fire-chance-yungblud'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/XhdGBnQ5VBN0d9y9rxO_LerDajU=/0x0:3000x2000/1200x800/filters:focal(1221x293:1701x773)/cdn.vox-cdn.com/uploads/chorus_image/image/67114575/453062254.jpg.0.jpg' width='700px' /><br/>
-Lollapalooza will happen this year — on YouTube. The set will stream from July 30th to August 2nd, beginning at 6PM ET. It is free.
 <a href='https://www.theverge.com/2020/7/27/21340337/lollapalooza-streaming-youtube-lineup-artists-live-past-sets-lorde-arcade-fire-chance-yungblud'> Source <a/>

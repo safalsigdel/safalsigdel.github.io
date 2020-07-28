@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/JIgNeDFkya0soE7f2_C7Cox9sMc=/0x0:2388x1668/1200x800/filters:focal(1003x643:1385x1025)/cdn.vox-cdn.com/uploads/chorus_image/image/67113008/Selection_Bunnies.0.jpg' width='700px' /><br/>
 Photoshop is getting a couple of important new features on the iPad today: the refine edge brush and the rotate canvas tool.
-<a href='https://www.theverge.com/2020/7/27/21336315/photoshop-ipad-refine-edge-brush-rotate-canvas-update'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/JIgNeDFkya0soE7f2_C7Cox9sMc=/0x0:2388x1668/1200x800/filters:focal(1003x643:1385x1025)/cdn.vox-cdn.com/uploads/chorus_image/image/67113008/Selection_Bunnies.0.jpg' width='700px' /><br/>
-Photoshop is getting a couple of important new features on the iPad today: the refine edge brush and the rotate canvas tool.
 <a href='https://www.theverge.com/2020/7/27/21336315/photoshop-ipad-refine-edge-brush-rotate-canvas-update'> Source <a/>

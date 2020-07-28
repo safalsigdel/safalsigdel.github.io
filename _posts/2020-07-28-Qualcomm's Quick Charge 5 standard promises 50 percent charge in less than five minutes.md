@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
 Qualcomm has introduced Quick Charge 5, the company's latest fast-charging standard, and it's bringing some big promises: more than 100W charging speeds on a smartphone, with the ability to charge a device from 0 to 50 percent in five minutes or fully charge a phone in 15 minutes.
-<a href='https://www.theverge.com/circuitbreaker/2020/7/27/21340587/qualcomm-quick-charge-5-standard-usb-c-pd-pps-battery-fast-phones'> Source <a/><img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Qualcomm has introduced Quick Charge 5, the company's latest fast-charging standard, and it's bringing some big promises: more than 100W charging speeds on a smartphone, with the ability to charge a device from 0 to 50 percent in five minutes or fully charge a phone in 15 minutes.
 <a href='https://www.theverge.com/circuitbreaker/2020/7/27/21340587/qualcomm-quick-charge-5-standard-usb-c-pd-pps-battery-fast-phones'> Source <a/>
