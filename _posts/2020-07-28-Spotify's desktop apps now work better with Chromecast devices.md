@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4l0HMls9a01zjpIy8Z9sAE5WnOg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67119497/acastro_180213_1777_0003.0.jpg' width='700px' /><br/>
+Spotify's Mac and Windows apps can now start streaming to Chromecast devices, 9to5Google reports. Previously these apps have been able to control pre-existing Chromecast streams, but they couldn't start them directly. Instead, you had to start a Chromecast stream on iOS or Android, before it could be controlled through the desktop app using Spotify Connect.
+<a href='https://www.theverge.com/2020/7/28/21344747/spotify-desktop-chromecast-windows-mac-google-cast-stream'> Source <a/>
