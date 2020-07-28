@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kH8xrZKAnFXZMLgMZ6x55YInBr0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67121195/sokane_190604_3485_0151.0.jpg' width='700px' /><br/>
+Revel is suspending its service in New York City after a man was killed riding one of the shared electric mopeds in Queens, making him the second customer to die while using the service in recent weeks.
+<a href='https://www.theverge.com/2020/7/28/21344993/revel-suspends-electric-moped-nyc-people-killed'> Source <a/>
