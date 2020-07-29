@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/KCDrY3yEzv3zCY9OIwat-TsnEHI=/0x0:5035x3356/1200x800/filters:focal(2116x1276:2920x2080)/cdn.vox-cdn.com/uploads/chorus_image/image/67125837/1182969931.jpg.0.jpg' width='700px' /><br/>
-Update 12:10PM ET: Congressional officials say the hearing will be delayed by 30 to 45 minutes because of a logistical issue.
+Update 12:16PM ET: Congressional officials say the hearing will be delayed until 1pm ET because of a logistical issue.
 <a href='https://www.theverge.com/2020/7/29/21336216/antitrust-hearing-live-stream-time-date-apple-amazon-facebook-google-congress'> Source <a/>
