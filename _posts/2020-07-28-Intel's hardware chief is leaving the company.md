@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5_weX1PBN3oWj9Ii0DUSD3cEJe0=/0x0:3169x4748/1200x800/filters:focal(1300x1282:1806x1788)/cdn.vox-cdn.com/uploads/chorus_image/image/67116474/Murthy_Renduchintala_print_02.0.jpg' width='700px' /><br/>
-The executive in charge of almost all of Intel's hardware, chief engineering officer Dr. Venkata (Murthy) Renduchintala, is leaving the company on August 3rd, Intel announced on Monday.
-<a href='https://www.theverge.com/2020/7/27/21340993/intel-hardware-chief-venkata-murthy-renduchintala-leaving'> Source <a/>

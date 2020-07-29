@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kWbsW0WtoxPg6EX5hyG81bid8qk=/0x0:2040x1360/1200x675/filters:focal(807x702:1133x1028)/cdn.vox-cdn.com/uploads/chorus_image/image/67120280/mchin_181015_4105_0001.0.0.jpg' width='700px' /><br/>
-The biggest question about the Blade Stealth 13 isn't actually about the Blade Stealth 13. It's about the Asus ROG Zephyrus G14, the best ultraportable gaming laptop ever made.
-<a href='https://www.theverge.com/21340554/razer-blade-stealth-13-review-keyboard-specs-price-features'> Source <a/>

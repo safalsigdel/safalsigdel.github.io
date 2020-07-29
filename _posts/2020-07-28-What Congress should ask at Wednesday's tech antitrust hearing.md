@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xIvBPPquvExXPUAwJkD8FmmH3Fg=/0x0:1100x825/1200x800/filters:focal(462x325:638x501)/cdn.vox-cdn.com/uploads/chorus_image/image/67119622/Congress.0.jpeg' width='700px' /><br/>
-A few minutes after I sent out Thursday's newsletter previewing this week's antitrust hearing, news came that the event would be postponed to accommodate the memorial for Rep. John Lewis. Indeed it was, but only for two days: the hearing will now take place on Wednesday, and you can stream it here.
-<a href='https://www.theverge.com/interface/2020/7/28/21340359/tech-antitrust-hearing-questions-answers-apple-amazon-facebook-google'> Source <a/>

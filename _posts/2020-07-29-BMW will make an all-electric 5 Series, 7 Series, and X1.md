@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xf2_oymnmvLSuCn-s45KK5K1VO4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67123416/akrales_170313_1480_A_0117.0.0.jpg' width='700px' /><br/>
+BMW is developing an all-electric version of its 5 Series and 7 Series sedans as well as its entry-level X1 SUV, the company announced Monday as it detailed a renewed effort to reduce its overall emissions.
+<a href='https://www.theverge.com/2020/7/28/21345464/bmw-5-7-series-x1-electric-car-ev-plug-in'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ToCayDGHnOyN1TlYihAVBuu11AY=/0x0:1024x512/1200x800/filters:focal(431x175:593x337)/cdn.vox-cdn.com/uploads/chorus_image/image/67119379/pokemongofest2020_recap.0.png' width='700px' /><br/>
-This year's online-only Pokxc3xa9mon Go Fest took place over the weekend, and since it was the first one open to all players regardless of their physical location, it's perhaps not surprising to hear that it was the biggest one yet. Niantic says “a record number of millions of trainers” took part from 124 countries and regions around the world, catching nearly a billion pokxc3xa9mon in total.
-<a href='https://www.theverge.com/2020/7/28/21344717/pokemon-go-fest-2020-stats-numbers-niantic'> Source <a/>

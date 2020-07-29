@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d1nCghhPjUPW8JpMz9zsMnUi2sM=/0x0:2587x1890/1200x800/filters:focal(1088x739:1500x1151)/cdn.vox-cdn.com/uploads/chorus_image/image/67123746/fast9.0.png' width='700px' /><br/>
+AMC Theaters and Universal have reached a new agreement that dramatically shortens the theatrical exclusivity window — the amount of time that films have to play in theaters before they're allowed to be sold or rented in other places, like iTunes, Amazon, or AMC's own On Demand service — down to just 17 days (ensuring that the films will hit at least three weekends in theaters).
+<a href='https://www.theverge.com/2020/7/28/21345713/amc-universal-movies-theaters-digital-rentals-pvod-streaming-agreement'> Source <a/>

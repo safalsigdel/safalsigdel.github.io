@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ju6dcGwkwEkpXaQHeeTUViTCqXE=/0x0:4563x3042/1200x800/filters:focal(1917x1156:2647x1886)/cdn.vox-cdn.com/uploads/chorus_image/image/67117675/1227722497.jpg.0.jpg' width='700px' /><br/>
-Staffers from Democrat Joe Biden's presidential campaign must remove TikTok from personal and work phones, a campaign official told The Verge. That's because of security concerns around the popular app.
-<a href='https://www.theverge.com/2020/7/27/21341062/biden-staff-delete-tiktok-personal-work-phones'> Source <a/>

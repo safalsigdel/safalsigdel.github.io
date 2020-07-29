@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n4MqepyN_9vhRy597sR1F7ImCPo=/0x0:4552x3070/1200x800/filters:focal(1912x1171:2640x1899)/cdn.vox-cdn.com/uploads/chorus_image/image/67116050/1218459150.jpg.0.jpg' width='700px' /><br/>
-On the list of the Metropolitan Transportation Authority's most-pressing problems right now, porn is nowhere near the top. But that doesn't mean the agency, which operates New York City's subway and bus systems as well as its commuter rail systems, isn't irked that obscene language keeps showing up in its search results on Google.
-<a href='https://www.theverge.com/2020/7/27/21340711/mta-porn-google-search-results-metro-north-stations'> Source <a/>
