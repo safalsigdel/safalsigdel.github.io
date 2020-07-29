@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JQludzuoyjkkLdjOZIDla0x1ljU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67125667/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+In May, we saw the arrival of the first viral hoax of the COVID-19 era: “Plandemic,” a meandering 26-minute video which falsely asserted that vaccines “weaken” people's immune systems and that wearing a mask would “activate” the coronavirus. Despite the best efforts of Facebook and YouTube, a single upload of “Plandemic” got 7.1 million views before it was removed.
+<a href='https://www.theverge.com/interface/2020/7/29/21345138/facebook-viral-hydroxychloroquine-video-removal-trump-junior-stella-immanuel'> Source <a/>
