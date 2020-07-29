@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CaWQETaG_bqbLefErb0BlJn56Uw=/0x0:1599x1066/1200x800/filters:focal(673x406:927x660)/cdn.vox-cdn.com/uploads/chorus_image/image/67120746/groupsession.0.jpg' width='700px' /><br/>
-Spotify is now allowing its paying users to listen to music and podcasts with friends and family at the same time, even if they aren't in the same location. Through its beta feature called Group Session, any premium user can generate a shareable link with up to five friends, who also have Spotify Premium, that'll allow them to simultaneously stream content.
-<a href='https://www.theverge.com/2020/7/28/21344926/spotify-premium-group-session-stream-together'> Source <a/>
