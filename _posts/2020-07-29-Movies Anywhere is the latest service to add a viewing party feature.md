@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NSLbMVGp9ZB8R5AnTV1Me65_ggM=/0x0:3041x1917/1200x0/filters:focal(0x0:3041x1917):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20635644/PR_Watch_Together_Screenshot_White.png' width='700px' /><br/>
-Movies Anywhere is rolling out a new “Watch Together” viewing party feature for its movie locker apps, allowing multiple users to sync up and enjoy a film together.
-<a href='https://www.theverge.com/2020/7/28/21345413/movies-anywhere-viewing-party-feature-watch-together-screen-pass-lending-app'> Source <a/>
