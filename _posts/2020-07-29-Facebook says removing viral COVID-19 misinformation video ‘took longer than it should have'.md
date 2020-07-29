@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A5NczMXGHFMnoen0ssXKEBYSPeE=/0x0:3000x2000/1200x800/filters:focal(1264x826:1744x1306)/cdn.vox-cdn.com/uploads/chorus_image/image/67123428/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
-Facebook has prided itself on thorough moderation and removal of COVID-19 misinformation posted to its social network since March, but the company is now under fire for having failed to take action for several hours against a fast-moving viral Breitbart News video promoting dangerous coronavirus conspiracy theories and treatments over the weekend.
-<a href='https://www.theverge.com/2020/7/28/21345674/facebook-covid-19-misinformation-breitbart-news-video-removal-response'> Source <a/>
