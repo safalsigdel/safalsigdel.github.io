@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4UZZubfsHK1qf7H5v-lwByJcT0U=/0x0:2842x1576/1200x800/filters:focal(1183x808:1637x1262)/cdn.vox-cdn.com/uploads/chorus_image/image/67127894/Screen_Shot_2020_07_29_at_11.01.21_AM.0.png' width='700px' /><br/>
+General Motors is now set to unveil the all-electric Hummer truck sometime in the fourth quarter of this year, after scratching the original May 20th reveal due to the COVID-19 pandemic. But in the meantime, the company (and the GMC brand, under which the resurrected Hummer will be sold) is teasing a side profile of the truck — along with a more traditional SUV version without a pickup bed.
+<a href='https://www.theverge.com/2020/7/29/21346706/general-motors-gmc-teases-hummer-ev-truck-suv-fall-2020-event'> Source <a/>
