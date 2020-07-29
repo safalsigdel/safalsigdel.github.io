@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Konami, the Japanese company that's best known in the West for developing the Metal Gear Solid, Silent Hill, and Castlevania franchises, has apparently gotten into the gaming PC business. Japanese outlet PC Watch reports that its lineup of Arespear gaming PCs is open for preorder now starting at 184,800 yen (around $1,760), and they are reportedly due to ship in September.
+<a href='https://www.theverge.com/tldr/2020/7/29/21346537/konami-arespear-gaming-pcs-c300-c700-specs-intel-nvidia-release-date-news-features'> Source <a/>

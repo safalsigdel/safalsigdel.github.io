@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6SvpYjdkaKL5sd8naoa2KOc-w1E=/0x0:2700x1152/1200x800/filters:focal(1134x360:1566x792)/cdn.vox-cdn.com/uploads/chorus_image/image/67121875/mandalorian.0.jpg' width='700px' /><br/>
-The nominations for the 72nd Primetime Emmy Awards are in, and once again, streaming services dominated the nominees. Netflix led the pack with 160 nominations, with Amazon and Hulu making waves, too. But there are also some big new names on the list this year, with Apple TV Plus, Disney Plus, and even Quibi picking up their first nominations for the coveted TV awards.
-<a href='https://www.theverge.com/2020/7/28/21345182/disney-plus-apple-tv-emmy-nominations-mandalorian-the-morning-show-baby-yoda'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dzC-mOPgf19V6fslTMQU5uq5XCo=/0x0:2040x1360/1200x800/filters:focal(889x813:1215x1139)/cdn.vox-cdn.com/uploads/chorus_image/image/67126437/akrales_200714_4027_0041.0.0.jpg' width='700px' /><br/>
+Google's Chromecast is the epitome of a software-first device. Nearly all of its capabilities are defined by software, and usually not even software that's on the Chromecast itself.
+<a href='https://www.theverge.com/2020/7/29/21324768/google-chromecast-reset-button-hardware-reliable'> Source <a/>

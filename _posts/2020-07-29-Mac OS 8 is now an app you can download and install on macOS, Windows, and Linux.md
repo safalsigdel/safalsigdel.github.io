@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bzaBueqs3oMOjcb547z1hFS6qV8=/0x0:2024x1556/1200x800/filters:focal(851x617:1173x939)/cdn.vox-cdn.com/uploads/chorus_image/image/67126142/88612692_a1d81a00_d040_11ea_85c9_c64142c503d5.0.jpg' width='700px' /><br/>
+Slack developer Felix Rieseberg has transformed Mac OS 8 into an app you can install on your Mac or PC. After transforming Windows 95 into an app back in 2018, Rieseberg decided to turn an entire 1991 Macintosh Quadra with Mac OS 8.1 into a single Electron app. It even includes a number of apps and games, thanks to an old MacWorld demo CD from 1997. The app can be installed on macOS, Windows, and Linux.
+<a href='https://www.theverge.com/2020/7/29/21346392/mac-os-8-electron-app-download-windows-linux-features'> Source <a/>
