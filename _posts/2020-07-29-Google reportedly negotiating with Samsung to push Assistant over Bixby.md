@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oC9JUpPqfnh8Nu77B7hDxkOP8nI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67125335/bking_200304_3928_0009.0.jpg' width='700px' /><br/>
+Google and Samsung are in discussions for a deal that would give the US tech giant's services more prominence on Samsung phones at the expense of those from the Korean manufacturer, according to a report by Bloomberg. The deal would reportedly involve promoting the Google Assistant and the Play Store over Samsung's own alternatives.
+<a href='https://www.theverge.com/2020/7/29/21346242/google-samsung-deal-android-touchwiz-bixby-play-store'> Source <a/>
