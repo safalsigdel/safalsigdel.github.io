@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E2x07n2yKtkvA_UFDLzHsL2pnQM=/0x0:6636x2690/1200x800/filters:focal(2788x815:3848x1875)/cdn.vox-cdn.com/uploads/chorus_image/image/67120646/Facetune_Video_Image.0.jpg' width='700px' /><br/>
-You might be familiar with Facetune, the hugely popular selfie editing app, but now the makers of that app, Lightricks, are releasing Facetune Video, which is designed to help you touch up selfie videos.
-<a href='https://www.theverge.com/2020/7/28/21340279/facetune-video-touch-up-edit-video-selfies-lightricks'> Source <a/>
