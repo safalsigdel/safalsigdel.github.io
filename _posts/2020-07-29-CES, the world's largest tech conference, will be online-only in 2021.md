@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zYqjQatrwX3V3o3cHJb5mvAkG-8=/0x0:5000x3327/1200x800/filters:focal(2100x1264:2900x2064)/cdn.vox-cdn.com/uploads/chorus_image/image/67121045/1192992530.jpg.0.jpg' width='700px' /><br/>
-The Consumer Electronics Show (CES), long the world's largest tech trade show, will be all-digital in January 2021, the Consumer Technology Association (CTA) announced on Monday. The CTA cited the COVID-19 pandemic and concerns about the spread of the virus as its reasoning for canceling the in-person event
-<a href='https://www.theverge.com/2020/7/28/21344977/ces-2021-online-cta-las-vegas-conference-coronavirus-pandemic-covid-19'> Source <a/>
