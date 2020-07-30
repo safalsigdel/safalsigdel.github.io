@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k4zolsa14GK2E2z1lXBNmhA5_K8=/0x0:1722x1148/1200x800/filters:focal(724x437:998x711)/cdn.vox-cdn.com/uploads/chorus_image/image/67131787/cgartenberg_200728_4115_0003.0.0.jpg' width='700px' /><br/>
+Earlier this year, Motorola burst back into the flagship phone world with the Motorola Edge Plus, a $999 smartphone designed to go toe to toe with top-tier phones like the Galaxy S20 Ultra or OnePlus 8 Pro. And now it's following that up with the Motorola Edge, a less expensive, less powerful version that promises sub-flagship features at a sub-flagship $699 price.
+<a href='https://www.theverge.com/21347201/motorola-edge-review-android-phone-screen-camera-specs-price'> Source <a/>
