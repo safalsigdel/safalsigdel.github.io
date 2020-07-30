@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-In 2014, Mellow, Inc. released the Mellow for $399, billing it as “the world's first smart sous-vide machine” — one that promised to automatically weigh and then heat and cool your specified foods for a perfect slow-cooked result, even adjusting that timing mid-cook to match your changing schedule. But now, the company is taking away those smarts from existing owners unless they pay $6 a month, or $48 for an annual subscription.
-<a href='https://www.theverge.com/circuitbreaker/2020/7/29/21345644/mellow-smart-sous-vide-machine-monthly-subscription-premium-free'> Source <a/>

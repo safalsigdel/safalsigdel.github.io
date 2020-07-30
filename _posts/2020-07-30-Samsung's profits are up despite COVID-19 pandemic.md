@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BrGDyMyXUQYSxb6Gwd4aFQAUZZo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67130646/vpavic_190731_z_flip_0247_1.0.jpg' width='700px' /><br/>
+Samsung posted better than expected earnings for the second quarter of 2020, with operating profit up 23 percent year-on-year to 8.15 trillion won ($6.84 billion) despite a 6-percent fall in revenue. The Korean conglomerate says it experienced a greater recovery from the impact of COVID-19 than it had initially forecast and managed to optimize its expenditure, even though sales of devices like smartphones were down from last year.
+<a href='https://www.theverge.com/2020/7/29/21347663/samsung-q2-earnings-covid-19-coronavirus'> Source <a/>
