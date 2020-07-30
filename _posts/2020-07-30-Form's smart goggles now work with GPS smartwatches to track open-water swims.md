@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Form is releasing an update today for its smart augmented reality swim goggles that enable them to pair over Bluetooth to selected GPS smartwatches, allowing users to track their swims in real time in open water, not just in swimming pools.
-<a href='https://www.theverge.com/circuitbreaker/2020/7/29/21340853/form-smart-goggles-firmware-update-gps-smartwatch-open-water-swim-heart-rate'> Source <a/>
