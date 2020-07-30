@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ddhgL9JRN1cBpvcFsnYh8-1iw90=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67132538/acastro_181026_1777_twitch_0002.0.jpg' width='700px' /><br/>
+Twitch is partnering with Cxmmunity, a nonprofit organization aimed at increasing minority youth participation in esports and gaming, to create an esports league for historically Black colleges and universities (HBCUs), the company announced Thursday. Students at HBCUs will receive scholarship and educational support through its Twitch Student program, and Twitch will help the schools expand esports programs.
+<a href='https://www.theverge.com/2020/7/30/21347966/twitch-hbcu-esports-league-representation'> Source <a/>
