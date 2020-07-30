@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lKmQoRxgqF6GAIUeol2k5c-e5qs=/0x0:4500x2838/1200x800/filters:focal(1890x1059:2610x1779)/cdn.vox-cdn.com/uploads/chorus_image/image/67128518/1227829262.jpg.0.jpg' width='700px' /><br/>
+During Wednesday's tech antitrust hearing, Rep. David Cicilline (D-RI) tore into Google CEO Sundar Pichai over the company's dominance in search and its use of data to monitor would-be competitors.
+<a href='https://www.theverge.com/2020/7/29/21346999/google-sundar-pichai-antitrust-hearing-business-model-david-cicilline-questioning'> Source <a/>

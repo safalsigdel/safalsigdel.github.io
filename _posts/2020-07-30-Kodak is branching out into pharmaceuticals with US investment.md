@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ee4ECBaGIWIMeg412wrQ-ahAj4g=/0x0:5194x3464/1200x800/filters:focal(2264x1252:3094x2082)/cdn.vox-cdn.com/uploads/chorus_image/image/67123927/1253533688.jpg.0.jpg' width='700px' /><br/>
-Kodak, once a powerful force in photography, is branching out into pharmaceuticals and the US government plans to give the company a $765 million loan to support its efforts. Kodak will create a new business arm, Kodak Pharmaceuticals, to produce ingredients needed for drug manufacturing.
-<a href='https://www.theverge.com/2020/7/28/21345648/kodak-pharmaceuticals-us-investment-defense-production-act-hydroxychloroquine'> Source <a/>

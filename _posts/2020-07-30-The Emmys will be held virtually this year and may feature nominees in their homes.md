@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DRrilfg0EOml3XFk98W4y2ZAMdE=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/67130216/1211127075.jpg.0.jpg' width='700px' /><br/>
+The 72nd Primetime Emmy Awards will be an all-virtual event due to the COVID-19 pandemic, a representative confirmed to The Verge, and it sounds like the new format could lead to peeks inside the lives of some of your favorite television stars, according to a letter from the executive producers (and host Jimmy Kimmel) that was published by Variety. USA Today also obtained a copy of the letter.
+<a href='https://www.theverge.com/2020/7/29/21347345/emmys-virtual-nominees-homes-jimmy-kimmel'> Source <a/>

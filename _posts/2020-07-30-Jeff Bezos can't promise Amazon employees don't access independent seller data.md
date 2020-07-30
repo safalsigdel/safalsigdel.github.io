@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mNYlEbQmEkn8ow4zR8JMWqdgU9o=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/67128801/1227830557.jpg.0.jpg' width='700px' /><br/>
+During Wednesday's antitrust hearing, Amazon and its CEO Jeff Bezos came under fire by lawmakers over the company's alleged use of third-party seller data in developing its own products.
+<a href='https://www.theverge.com/2020/7/29/21347083/jeff-bezos-amazon-tech-antitrust-hearing-jayapal-questioning'> Source <a/>
