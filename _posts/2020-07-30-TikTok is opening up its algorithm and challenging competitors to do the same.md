@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hzjtrhPKbq6bwbUE9omqNJ9xvkE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67126365/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-TikTok wants to be transparent. The company has announced that it's taking new measures to give outsiders access to the algorithms it uses to sort and share users' videos, and it will be letting experts “observe our moderation policies in real-time.”
-<a href='https://www.theverge.com/2020/7/29/21346390/tiktok-algorithm-moderation-policy-transparency-china'> Source <a/>
