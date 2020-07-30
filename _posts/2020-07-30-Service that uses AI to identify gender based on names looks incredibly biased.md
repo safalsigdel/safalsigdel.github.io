@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_l_NNohJr9KIZf-4SKndY059qPY=/0x0:1200x680/1200x800/filters:focal(172x207:364x399)/cdn.vox-cdn.com/uploads/chorus_image/image/67125757/Ec0GHZ0XYAQ_zau.0.jpeg' width='700px' /><br/>
-Some tech companies make a splash when they launch, others seem to bellyflop.
-<a href='https://www.theverge.com/2020/7/29/21346310/ai-service-gender-verification-identification-genderify'> Source <a/>
