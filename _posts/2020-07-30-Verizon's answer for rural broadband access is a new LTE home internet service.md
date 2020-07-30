@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sz6aexAkWpnT5gqHn63I_2oypyY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67133216/aurora.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/A4C-OuC1wz3fVehB1HQDrl2Cnf4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67133216/acastro_200109_1777_verizon_0001.0.5.jpg' width='700px' /><br/>
 Verizon has announced a new home internet service that uses its 4G LTE wireless network. The service will target rural communities that aren't currently served by Verizon's Fios or 5G Home options.
 <a href='https://www.theverge.com/2020/7/30/21347968/verizons-4g-lte-internet-broadband-rural-areas-news'> Source <a/>
