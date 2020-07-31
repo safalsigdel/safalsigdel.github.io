@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jaGRr3srdGEHV3nb6rsoTKXg1b8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67135128/akrales_190914_3666_0259.0.jpg' width='700px' /><br/>
-Apple has confirmed it's planning to launch its new iPhones a little later this year. “Last year we started selling new iPhones in late September, this year we expect supply to be available a few weeks later,” said Apple CFO Luca Maestri in an earnings call with investors today.
-<a href='https://www.theverge.com/2020/7/30/21348738/apple-iphone-12-launch-delay-october'> Source <a/>
