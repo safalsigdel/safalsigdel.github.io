@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oMV2Ob-HPt_HtUHTZNznjUU6c64=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67134109/acastro_170731_1777_0006_v5.0.jpg' width='700px' /><br/>
-Apple hasn't always known what public position to take on right-to-repair policies and legislation, according to recently published internal emails. The 2019 discussion, provided to Congress for its antitrust investigation, highlights the Apple PR team's struggle to keep public messaging cohesive amid stories covering internal repair developments that seemingly open up Apple's repair ecosystem.
-<a href='https://www.theverge.com/2020/7/30/21348240/apple-right-to-repair-legislation-antitrust-investigation-policy'> Source <a/>
