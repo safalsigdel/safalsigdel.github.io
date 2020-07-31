@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CPMX0jYR_mtrotcun-Dv8bFxX1g=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67138644/Side_By_Side_View___IOS.0.png' width='700px' /><br/>
+Facebook is adding official music videos to its service in the US after partnering with major music companies including Sony Music, Universal Music Group, and Warner Music Group, the company announced today. The videos can be found through Facebook Watch and via individual artists' pages. They can be shared, reacted to, or commented on like any other video on Facebook.
+<a href='https://www.theverge.com/2020/7/31/21349302/facebook-music-videos-exclusives-official-sony-universal-group-warner'> Source <a/>

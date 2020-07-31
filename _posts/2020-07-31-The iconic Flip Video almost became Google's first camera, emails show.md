@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Before Android, before the iPhone, and before GoPro became a known brand, the Flip Video camcorder took the world by storm, allowing millions to shoot digital home videos one-handed and easily save, share, and upload them to a nascent YouTube, thanks to an iconic flip-out USB port.
-<a href='https://www.theverge.com/circuitbreaker/2020/7/30/21348492/google-flip-video-pure-digital-deal-antitrust-hearing-documents'> Source <a/>
