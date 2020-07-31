@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5RwEt7jBJrvebLx-uCUgll-Jv8I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67134783/acastro_180130_1777_0001.0.jpg' width='700px' /><br/>
-Google parent company Alphabet warned in last quarter that it was expecting to see the impact of coronavirus in the second quarter results, and it did: the company saw its first revenue decline in its history. But it managed to beat Wall Street's revenue expectations.
-<a href='https://www.theverge.com/2020/7/30/21345014/google-youtube-alphabet-revenue-decline-q2'> Source <a/>
