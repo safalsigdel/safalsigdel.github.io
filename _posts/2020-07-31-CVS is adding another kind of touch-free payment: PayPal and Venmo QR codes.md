@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kZzcsrwlpsOIQsnOIqfaxlfCSGY=/0x0:1396x872/1200x800/filters:focal(587x325:809x547)/cdn.vox-cdn.com/uploads/chorus_image/image/67135663/Screen_Shot_2020_07_30_at_6.40.16_PM.0.png' width='700px' /><br/>
-CVS is expanding its payment options by teaming up with PayPal to use its QR codes as another touch-free form of payment at the retail pharmacy chain. PayPal and Venmo users can pay with money that's already in their account instead of having to pay with a credit card, and Venmo users can also use Venmo Rewards to pay for items, all “without needing to touch a keypad or sign a receipt.”
-<a href='https://www.theverge.com/2020/7/30/21348802/paypal-venmo-qr-codes-cvs-store-payment'> Source <a/>
