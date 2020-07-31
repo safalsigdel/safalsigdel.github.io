@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zERFclTr3VxfNl2mbcLcvkcLGPg=/0x0:2820x1740/1200x800/filters:focal(1185x645:1635x1095)/cdn.vox-cdn.com/uploads/chorus_image/image/67133885/Screen_Shot_2020_07_30_at_2.09.16_PM.0.png' width='700px' /><br/>
-Google's next budget phone, the Pixel 4A, is likely just days away from going on sale. The company has posted a teaser on its online store, saying that “the Google just what you've been waiting for phone” will be revealed on August 3rd. 9to5Google spotted the page. To unlock the full message, you need to tap the various boxes until the colors match Google's logo: blue, red, yellow, blue, green, and red.
-<a href='https://www.theverge.com/2020/7/30/21348360/google-pixel-4a-release-date-teaser-announcement'> Source <a/>
