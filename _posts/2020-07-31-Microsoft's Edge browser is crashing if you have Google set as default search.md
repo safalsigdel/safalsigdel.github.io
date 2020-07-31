@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/gO2GLqW5YYDtYrMmgIsmc2vReeg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67135868/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
-Microsoft's new Edge browser is randomly crashing when users type into the address bar tonight. The issues appear to be affecting Edge users who have selected Google as the default search engine. Microsoft says it's aware of the problems and the company's Edge team is investigating.
+Microsoft's new Edge browser started randomly crashing when users typed into the address bar tonight. The issues appear to have affected Edge users who have selected Google as the default search engine. Microsoft investigated the problem and now says it's believed to have been resolved.
 <a href='https://www.theverge.com/2020/7/30/21348923/microsoft-edge-crash-address-bar-google-search-browser-issues'> Source <a/>
