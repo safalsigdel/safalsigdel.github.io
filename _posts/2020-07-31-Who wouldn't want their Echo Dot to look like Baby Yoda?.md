@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+There are plenty of things I could tell you about Otterbox's new stand for the third-generation Amazon Echo Dot smart speaker. I could tell you about its “durable materials” or how it's designed to “securely” hold on to your Echo device. The Amazon listing even claims its “precision-fit, non-slip base” is “engineered for optimal audio output.”
+<a href='https://www.theverge.com/tldr/2020/7/31/21349229/baby-yoda-the-child-mandalorian-otterbox-amazon-echo-dot-stand'> Source <a/>
