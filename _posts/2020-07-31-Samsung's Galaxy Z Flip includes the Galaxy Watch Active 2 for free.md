@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Samsung is hosting a few discounted bundles at Amazon and Best Buy, one of which includes its Galaxy Z Flip foldable phone and a Galaxy Watch Active 2 44mm smartwatch for $1,380. That's the normal price for the phone, but the savings come in the form of getting the watch, which costs around $249 right now, for free. Given that there have been very few deals on the unlocked version of the Z Flip, this is a decent value if you were thinking of investing now.
+<a href='https://www.theverge.com/good-deals/2020/7/31/21349383/samsung-galaxy-z-flip-s20-watch-active-2-smartwatch-bundle-deal-amazon-best-buy'> Source <a/>
