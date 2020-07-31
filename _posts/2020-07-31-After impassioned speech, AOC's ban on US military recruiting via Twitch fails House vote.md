@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S2DAmsJabOGrGqqGclSCjKEFbdo=/0x0:960x640/1200x800/filters:focal(404x244:556x396)/cdn.vox-cdn.com/uploads/chorus_image/image/67134577/76603164_1384608288385847_8930596477202333696_o.0.jpg' width='700px' /><br/>
-An amendment proposed by Rep. Alexandria Ocasio-Cortez (D-NY) that would ban the US military from recruiting on Twitch failed a House vote Thursday evening. Had it passed, it would have been an amendment to the House Committee on Appropriations bill, which is part of the process in how the Pentagon's annual budget is set.
-<a href='https://www.theverge.com/2020/7/30/21348451/military-recruiting-twitch-ban-block-amendment-ocasio-cortez'> Source <a/>
