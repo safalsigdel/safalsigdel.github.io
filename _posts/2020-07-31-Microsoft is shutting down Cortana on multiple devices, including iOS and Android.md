@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kkEkK_xiNBHW2u13t97SfBC9wNQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67139414/acastro_180510_1777_cortana_0002.0.jpg' width='700px' /><br/>
+Microsoft is rethinking its Cortana assistant, and has announced that it'll be shutting down the current iOS and Android apps, ending Cortana support for the Harman Kardon Invoke smart speaker, and removing the original Cortana functionality from the first-generation Surface Headphones starting in 2021.
+<a href='https://www.theverge.com/2020/7/31/21349827/microsoft-cortana-shutdown-devices-ios-android'> Source <a/>
