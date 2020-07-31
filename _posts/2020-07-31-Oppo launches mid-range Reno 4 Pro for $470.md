@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/59jv3bFelzra4ppXm2cfUDgN5ug=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67136969/DSCF7293.0.jpg' width='700px' /><br/>
+Oppo has announced the Reno 4 Pro for international release. It's a mid-range phone that isn't a million miles away from sister company OnePlus' new Nord in specs, design, and pricing.
+<a href='https://www.theverge.com/2020/7/31/21349224/oppo-reno-4-pro-india-specs-price-release-date'> Source <a/>
