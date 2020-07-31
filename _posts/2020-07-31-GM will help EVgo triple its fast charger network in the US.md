@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3Nr-1eRa4aOYR_0uxVk2qfa3EPg=/0x0:1382x922/1200x800/filters:focal(581x351:801x571)/cdn.vox-cdn.com/uploads/chorus_image/image/67138839/GM_and_EVgo4.0.jpg' width='700px' /><br/>
+General Motors is working with electric vehicle charging network EVgo to build more than 2,700 new fast chargers in cities and suburbs across the US over the next five years. That is more than triple the 800 fast chargers that EVgo currently has on its network, which is in 34 states and serves “more than 200,000 customers.”
+<a href='https://www.theverge.com/2020/7/31/21349614/general-motors-evgo-fast-charging-network-investment'> Source <a/>
