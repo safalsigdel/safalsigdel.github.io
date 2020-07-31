@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BKd83uaQ7mFJ9zkGepZODHm1X5Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67133324/VRG_ILLO_4033_007.0.jpg' width='700px' /><br/>
+Newly released emails from April 2012 show Facebook CEO Mark Zuckerberg and other executives were frustrated by slow internal prototyping and weighed the benefits of quickly copying and iterating on smaller apps like Pinterest instead.
+<a href='https://www.theverge.com/2020/7/30/21348082/zuckerberg-facebook-house-committee-emails-app-development-speed-copying-innovation'> Source <a/>

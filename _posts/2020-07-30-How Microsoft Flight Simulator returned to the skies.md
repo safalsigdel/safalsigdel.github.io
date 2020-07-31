@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e5m8cBZEqFJYFNkhdhT6dVNAyAQ=/0x0:3840x2160/1200x675/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/67131996/A320Montpelier.0.png' width='700px' /><br/>
-Let's play a quick game of word association: Microsoft — Windows? Excel? Xbox? All solid answers. But for me, for a while in the ‘90s at least, I would have immediately answered “Flight Simulator.” Microsoft Flight Simulator is the very first thing I can remember ever doing on a computer, sat on my granddad's lap as we soared across blocky landscapes together with a Sidewinder joystick. It is one of Microsoft's all-time iconic brands.
-<a href='https://www.theverge.com/21347809/microsoft-flight-simulator-2020-preview-interview-hands-on'> Source <a/>

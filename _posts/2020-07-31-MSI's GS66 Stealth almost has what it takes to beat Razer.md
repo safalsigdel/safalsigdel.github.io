@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5-wNHS2c0hNUqXYMQqDQ0yQEdK0=/0x0:2040x1360/1200x675/filters:focal(831x574:1157x900)/cdn.vox-cdn.com/uploads/chorus_image/image/67133333/cfaulkner_200728_4116_0011.0.0.jpg' width='700px' /><br/>
+For years, Razer has set the standard for making gaming laptops that are compact, slim, and feel great to use. MSI wants to end that streak, and its new GS66 Stealth is actually a viable alternative, at least in terms of performance. It still has a little work to do on nailing the small design details.
+<a href='https://www.theverge.com/21348101/msi-gs66-stealth-gaming-laptop-review-rtx-2070-super-300hz'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tmpWbaO3mowQOfRlQK3B6NK63YA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67135546/acastro_190201_1777_satellite_0001.0.jpg' width='700px' /><br/>
+The Federal Communications Commission has approved Amazon's plans for its ambitious Kuiper constellation, which entails sending 3,236 satellites into orbit to beam internet coverage down to Earth. The decision is a crucial regulatory step that paves the way for Amazon to start launching the satellites when they're ready.
+<a href='https://www.theverge.com/2020/7/30/21348768/fcc-amazon-kuiper-satellite-constellation-approval'> Source <a/>

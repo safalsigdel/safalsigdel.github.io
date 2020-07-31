@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gcjw0YYpPEjbhq0SdCR0dEwQbQQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67129099/cwelch_191016_3739_0004.0.jpg' width='700px' /><br/>
-Amazon has long been accused of undercutting its rivals with its Echo smart speakers, allegedly keeping competitors like Sonos from getting a foothold in the market — but Amazon CEO Jeff Bezos says that at their full retail price, the company isn't taking a loss on these products.
-<a href='https://www.theverge.com/2020/7/29/21347121/amazon-echo-speaker-price-undercut-rivals-loss-sale-antitrust-hearing'> Source <a/>

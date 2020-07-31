@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tHaMLCQUnicENBHHMd7CQdWlbU8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67129395/akrales_190914_3666_0245.0.jpg' width='700px' /><br/>
-Qualcomm's Q3 earnings report might indicate a delay for Apple's upcoming 5G iPhones, with the company highlighting a “partial impact from the delay of a global 5G flagship phone launch” for its fourth quarter projections (which covers July, August, and September earnings).
-<a href='https://www.theverge.com/2020/7/29/21347232/qualcomm-iphone-delay-hint-rumor-q3-2020-earnings-5g'> Source <a/>

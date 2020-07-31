@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FHvZvF2ixsXsGxOj_F6cECWFGyg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67130748/DSC00779.0.jpg' width='700px' /><br/>
-For the first time ever, Huawei has shipped more smartphones worldwide over a quarter than any other company, according to a new report from analyst firm Canalys. Huawei has long harbored ambitions to overtake Samsung as the world's biggest smartphone seller, and going by the numbers from Canalys, that's just what happened during the April-June period this year.
-<a href='https://www.theverge.com/2020/7/30/21347685/worlds-biggest-smartphone-company-huawei-overtakes-samsung-canalys'> Source <a/>

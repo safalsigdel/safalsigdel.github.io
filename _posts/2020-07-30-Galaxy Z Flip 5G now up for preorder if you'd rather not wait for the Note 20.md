@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ku9durHthhAGePq6QPV82t7x5A0=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/67131029/Galaxy_Z_Flip_5G_Mystic_Bronze_Front.0.jpg' width='700px' /><br/>
-Samsung's Galaxy Z Flip 5G, the 5G version of the foldable phone it released earlier this year, is now available for preorder as an unlocked device on Samsung.com. Prices start at $1,499.99, a $70 premium over the previous LTE version. Along with 5G connectivity, that price gets you a slightly upgraded Snapdragon 865 Plus processor. Otherwise, the two phones are almost identical.
-<a href='https://www.theverge.com/2020/7/30/21347746/galaxy-z-flip-5g-preorders-open-samsung-unpacked-z-fold-2'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JB810Nr1Ms_Dzz90VpwdiZsFhSw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67133293/VRG_AntiTrust_Textless_Line.0.jpg' width='700px' /><br/>
+Well, we had an antitrust hearing.
+<a href='https://www.theverge.com/interface/2020/7/30/21346575/tech-antitrust-hearing-recap-bezos-zuckerberg-cook-pichai'> Source <a/>

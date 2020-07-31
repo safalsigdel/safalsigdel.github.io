@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OxhpVZr84oLMDEcC_Yr97auCYXE=/0x0:3000x2113/1200x800/filters:focal(1367x336:1847x816)/cdn.vox-cdn.com/uploads/chorus_image/image/67133707/98328574.jpg.0.jpg' width='700px' /><br/>
+The House Judiciary Committee's antitrust subcommittee has just released a huge trove of internal documents from Amazon, Apple, Facebook, and Google as part of its vast investigation into the tech industry. The documents reveal the internal machinations of companies that are typically highly secretive — and they even include a few buried emails from Apple co-founder Steve Jobs, which we've shared below.
+<a href='https://www.theverge.com/2020/7/30/21348130/apple-documents-steve-jobs-email-books-amazon-apps-antitrust-investigation-schiller'> Source <a/>

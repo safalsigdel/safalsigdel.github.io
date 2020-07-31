@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Samsung's upcoming Galaxy Z Fold 2 has just gotten its biggest leak yet, showing off the revamped design for the company's flagship foldable successor, which it's expected to announce at the upcoming Galaxy Unpacked event on August 5th alongside the Galaxy Note 20, via MySmartPrice.
-<a href='https://www.theverge.com/circuitbreaker/2020/7/29/21346801/samsung-galaxy-z-fold-2-leak-cameras-external-display-size'> Source <a/>

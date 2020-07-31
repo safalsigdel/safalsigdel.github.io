@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ebcgHtseSbm8ziDSMZim5X8P-sA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67123085/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-If you've recently spotted a little secondary box underneath a Google News story that gives you a big-picture understanding of the news, you're not alone: Google confirms it's launching a new “for context” feature in Google News, one which links to a second, broader story on the same topic.
-<a href='https://www.theverge.com/2020/7/28/21345533/google-for-context-news-box-top-stories-links'> Source <a/>
