@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ONwLkW0ZFMG6_lSsujeOtDoeURU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67138424/DSCF7299.0.jpg' width='700px' /><br/>
+Oppo has announced international release plans for its first smartwatch, the Oppo Watch. The device was launched in China earlier this year with a customized version of Android, but Oppo is shipping the global model with Google's Wear OS on board.
+<a href='https://www.theverge.com/2020/7/31/21349246/oppo-watch-global-release-wear-os-india-uk-price-date'> Source <a/>
