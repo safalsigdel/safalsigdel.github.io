@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-uw2k4yR9vTBCYi9VxRGi9HDpBU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67140886/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google said earlier this year it would join other web browser companies to block third-party cookies in Chrome, and today, developers have their first chance to test a proposed alternative to tracking users across the web: trust tokens.
+<a href='https://www.theverge.com/2020/7/31/21349538/google-changes-ads-data-cookies-privacy'> Source <a/>

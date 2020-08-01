@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5zyYU9WEh3iqvxHNuiRSwYY0y98=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67137087/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-Programming note: It's time for our summer vacation! The stretch between January and today is the longest uninterrupted period we have ever written The Interface, and so we're taking a break to recharge. We return August 17th.
-<a href='https://www.theverge.com/interface/2020/7/31/21348172/tiktok-algorithms-transparency-accountability-review-lawmakers-michael-beckerman-interview'> Source <a/>

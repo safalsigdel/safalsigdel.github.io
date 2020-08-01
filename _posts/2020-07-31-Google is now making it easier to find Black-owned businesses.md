@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/di5nCz0JfUYkt2j78fBNfhu31H4=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/67136872/Google_Black_Owned_Image.0.png' width='700px' /><br/>
-Google is launching a new tool that allows businesses to identify themselves as Black-owned through the company's Maps and Search listings. The new feature is part of the company's pledge announced last month to support the Black community with “initiatives and product ideas that support long-term solutions.”
-<a href='https://www.theverge.com/2020/7/31/21348990/google-black-owned-businesses-maps-search'> Source <a/>

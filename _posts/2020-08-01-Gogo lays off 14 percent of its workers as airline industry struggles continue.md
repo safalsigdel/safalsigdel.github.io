@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ct3IzOUVCyLF827pMQMzY--GH1o=/0x0:6403x4269/1200x800/filters:focal(2690x1623:3714x2647)/cdn.vox-cdn.com/uploads/chorus_image/image/67141109/1039789256.jpg.0.jpg' width='700px' /><br/>
+In-flight Wi-Fi provider Gogo is laying off 143 people, or about 14 percent of its workforce, as people continue to avoid air travel during the COVID-19 pandemic. The company previously furloughed 600 workers and cut executive pay in April, and said Thursday that it will “continue certain furloughs and maintain the salary reductions that were previously implemented.”
+<a href='https://www.theverge.com/2020/7/31/21350251/gogo-layoffs-furloughs-airlines-covid-19-pandemic'> Source <a/>

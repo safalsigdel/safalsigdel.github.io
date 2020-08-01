@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fxrC6nMstLg7klG5eQQor-r3kmg=/0x0:1813x1197/1200x800/filters:focal(762x454:1052x744)/cdn.vox-cdn.com/uploads/chorus_image/image/67137007/haloinfinite.0.jpg' width='700px' /><br/>
+Halo Infinite's multiplayer mode will be free-to-play and support up to 120fps, Microsoft has announced. The news comes after a leak from Smyths Toys Superstores, which briefly posted details (Google Cache) about Halo Infinite multiplayer on a promotional page this week before quickly removing them once the internet discovered the references.
+<a href='https://www.theverge.com/2020/7/31/21349236/halo-infinite-multiplayer-free-to-play-120fps-rumors'> Source <a/>

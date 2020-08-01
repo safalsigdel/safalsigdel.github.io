@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RywXGYODVuhMtOYVIwCZc1dgE9k=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66752813/VRG_3998_GG_Lede.0.0.jpg' width='700px' /><br/>
-Back-to-school season is here, and with it comes the need to stock up on the essential things that high school, college, or post-grads will need for the upcoming year. True, many students will be studying remotely this year as colleges make the difficult decision to close their physical doors in order to avoid spreading COVID-19. But students will still need stuff to make their studies easier and their off-time more fun.
-<a href='https://www.theverge.com/21228353/graduation-gift-ideas-grads-college-dorm-high-school-tech-gadgets'> Source <a/>
