@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m4sWMGZLXRPu6fR2R25SuGdJq9A=/0x0:2040x1360/1200x800/filters:focal(813x603:1139x929)/cdn.vox-cdn.com/uploads/chorus_image/image/67142328/cfaulkner_200728_4117_0004.0.0.jpg' width='700px' /><br/>
+The Genki Covert Dock doesn't look like a dock. It looks more like a wall brick that replicates the functionality of Nintendo's much larger Switch Dock, but it's small enough to stick into a pocket. It's a great Switch accessory to have if you travel a lot and want to connect your console to a TV wherever you go.
+<a href='https://www.theverge.com/21349885/genki-covert-dock-review-price-portable-nintendo-switch-usbc-hdmi-adapter'> Source <a/>

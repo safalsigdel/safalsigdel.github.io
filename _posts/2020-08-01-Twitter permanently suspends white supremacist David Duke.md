@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zg2kh27a1V6okDOY84B2C_a-F_0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67137893/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
-Twitter has suspended the account of former Ku Klux Klan leader David Duke for “repeated violations of the Twitter Rules on hateful conduct,” a spokesperson confirmed to The Verge on Friday. “This enforcement action is in line with our recently-updated guidance on harmful links.”
-<a href='https://www.theverge.com/2020/7/31/21349323/twitter-suspends-david-duke-white-supremacist-hate-speech'> Source <a/>
