@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dr92NcuBPummG9GkeDHKgTSE2AA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67142790/acastro_180509_1777_steam_0002.0.jpg' width='700px' /><br/>
+GeForce Now users can sync their Steam libraries to their accounts with Nvidia's new Game Sync feature. Compatible games will appear in the My Library section of Game Sync, Nvidia announced.
+<a href='https://www.theverge.com/2020/8/1/21350765/geforce-now-steam-nvidia-games'> Source <a/>

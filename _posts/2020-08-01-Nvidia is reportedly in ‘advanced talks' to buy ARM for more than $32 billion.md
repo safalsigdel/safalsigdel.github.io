@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-SoftBank has been rumored to be exploring a sale of ARM — the British chip designer that powers nearly every major mobile processor from companies like Qualcomm, Apple, Samsung, and Huawei — and now, it might have found a buyer. Nvidia is reportedly in “advanced talks” to buy ARM in a deal worth over $32 billion, according to Bloomberg.
-<a href='https://www.theverge.com/circuitbreaker/2020/7/31/21349332/nvidia-talks-buy-arm-processor-mobile-deal-32-billion-softbank-purchase-rumor'> Source <a/>
