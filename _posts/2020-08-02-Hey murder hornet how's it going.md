@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AKCmEwSUWcNt1oiahv1tVRpN12k=/0x0:2606x1642/1200x800/filters:focal(361x522:777x938)/cdn.vox-cdn.com/uploads/chorus_image/image/67145361/AGHTrappedJuly14BirchBaySideView1.0.jpg' width='700px' /><br/>
+Hello it is I, your intrepid murder hornet correspondent. What's a murder hornet, you ask? I wish I did not know. But as I wrote back in May, the Asian giant hornet (its official name) can grow up to two inches long, rips the heads off of honeybees, and has a stinger that can jam right through standard beekeeping suits. Oh and they can fly up to 20 miles per hour and their stings can kill you. Nature is the best.
+<a href='https://www.theverge.com/2020/8/2/21350034/murder-hornet-asian-washington-state-trap'> Source <a/>
