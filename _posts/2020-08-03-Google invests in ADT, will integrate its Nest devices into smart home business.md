@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dD_dcFToApFLuyNwLx6etuow4v0=/0x0:999x666/1200x800/filters:focal(421x254:579x412)/cdn.vox-cdn.com/uploads/chorus_image/image/67147884/Kokomo_Cobrand.max_1000x1000.0.jpg' width='700px' /><br/>
+Google has invested $450 million for a 6.6 percent stake in security company ADT, the companies announced today. The deal, which is expected to close in the third quarter of this year, will see ADT's technicians selling and installing Google's Nest smart home devices, such as cameras and smart displays, as early as this year. Homes and small businesses are said to be the two target markets.
+<a href='https://www.theverge.com/2020/8/3/21352360/google-adt-investment-nest-smart-home-security-alarms-machine-learning-alerts'> Source <a/>
