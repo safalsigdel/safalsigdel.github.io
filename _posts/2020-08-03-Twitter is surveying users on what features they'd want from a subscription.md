@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QIYt9mTurp3OQI0o6BgQhZmvtyg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67138938/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter has officially confirmed that it's exploring the idea of a paid subscription model, and now the company has started to survey users about potential features that might be added as part of a prospective paid service, via reporter Andrew Roth on Twitter.
-<a href='https://www.theverge.com/2020/7/31/21349644/twitter-subscription-service-survey-undo-sent-analytics-feature-ideas'> Source <a/>

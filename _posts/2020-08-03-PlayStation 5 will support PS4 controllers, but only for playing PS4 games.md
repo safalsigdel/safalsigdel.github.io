@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UsQxcUcLqVKUfwSctcSU_mdB9KI=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/67147820/EVBr3e7UwAAFMRN.0.0.jpeg' width='700px' /><br/>
+Sony is confirming today that its existing PS4 controller will not work with PS5 games. “We believe that PS5 games should take advantage of the new capabilities and features we're bringing to the platform, including the features of DualSense wireless controller,” says Sony in a statement confirming the company's plans.
+<a href='https://www.theverge.com/2020/8/3/21352382/sony-ps5-playstation-4-controllers-new-ps4-support-games'> Source <a/>
