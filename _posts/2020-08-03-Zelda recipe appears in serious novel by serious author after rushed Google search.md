@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+If you were writing a book and needed to find out how red clothes dye is traditionally made, you'd probably start with a simple Google search. At least, that's what John Boyne, the author behind The Boy in the Striped Pyjamas says he “must have” done when it emerged that several fantasy ingredients from The Legend of Zelda have appeared in his most recent book, A Traveler at the Gates of Wisdom.
+<a href='https://www.theverge.com/tldr/2020/8/3/21352299/zelda-breath-of-the-wild-red-clothes-dye-traveler-gates-of-wisdom-john-boyne-google-search-results'> Source <a/>
