@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v0wTCHz93NOMkZVGMcxJdWnhp5I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67146582/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+In a blog post Sunday, Microsoft said it was “prepared to continue discussions to explore a purchase of TikTok in the United States,” following a conversation between its CEO Satya Nadella and President Trump. It's the first time the company has confirmed reports it was in talks to acquire the video sharing platform.
+<a href='https://www.theverge.com/2020/8/2/21352004/microsoft-tiktok-acquisition-trump-bytedance'> Source <a/>

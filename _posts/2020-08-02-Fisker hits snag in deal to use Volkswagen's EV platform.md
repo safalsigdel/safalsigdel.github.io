@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9C1zOy_KYzSxapi3a--uP-CuZhQ=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/67138474/10_Fisker_Track_2370_FOR_WEB.0.jpg' width='700px' /><br/>
-Fisker Inc. has hit a snag in the plan to power its electric vehicles with Volkswagen's modular EV platform, as negotiations over a “cornerstone agreement” that were supposed to end this month are now delayed until at least September.
-<a href='https://www.theverge.com/2020/7/31/21349464/fisker-volkswagen-vw-ev-platform-deal-spaq-spac-spartan'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Tq-6_kra79EYZKdREq0GBS0fLdg=/0x0:2913x1942/1200x800/filters:focal(1224x738:1690x1204)/cdn.vox-cdn.com/uploads/chorus_image/image/67146347/1227849806.jpg.0.jpg' width='700px' /><br/>
+Facebook has blocked the accounts of a dozen allies of President Jair Bolsonaro of Brazil, BBC News reported. Brazil's Supreme Court ordered the 12 accounts blocked back in May, as they are under investigation for allegedly spreading false news about judges in the country. A Supreme Court judge said Friday that Facebook had not fully complied with that earlier order.
+<a href='https://www.theverge.com/2020/8/2/21351892/brazil-supreme-court-facebook-block-bolsonaro-twitter'> Source <a/>
