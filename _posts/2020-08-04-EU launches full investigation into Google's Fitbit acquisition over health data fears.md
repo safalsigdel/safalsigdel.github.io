@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ti_2hMyZwLcVSjmj4obh6EBNLAo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67153377/outside1_2040.0.0.jpg' width='700px' /><br/>
+The European Commission is launching a full investigation into Google's acquisition of Fitbit. EU regulators are worried that the deal will entrench Google's position as a market leader in online advertising by giving the search giant access to data collected from Fitbit's health tracking hardware that can be used for personalized advertisements.
+<a href='https://www.theverge.com/2020/8/4/21353947/google-fitbit-acquisition-eu-investigation-antitrust-health-tracking-data'> Source <a/>

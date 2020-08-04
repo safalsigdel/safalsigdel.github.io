@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/I7-EnJNejHkviQDtJAemAq1lnoM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67153374/sokane_191117_3793_5957.0.jpg' width='700px' /><br/>
+Ford CEO Jim Hackett is retiring, the company announced on Tuesday, and he will be replaced by current chief operating officer Jim Farley. Hackett will stay with Ford until October to help with the transition and remain a “special advisor” through March 2021.
+<a href='https://www.theverge.com/2020/8/4/21353950/ford-ceo-jim-hackett-retiring-replaced-restructuring'> Source <a/>

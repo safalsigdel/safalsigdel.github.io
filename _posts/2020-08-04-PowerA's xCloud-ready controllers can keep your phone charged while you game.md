@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dF6pn9H_gFW5fv5X7U-wULUqrKY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67153176/moga.0.jpg' width='700px' /><br/>
+Gaming peripheral maker PowerA has debuted a few controllers designed with Microsoft's new xCloud cloud gaming service in mind. The first is the MOGA XP5-X, a $69.99 wireless controller that will launch in September alongside the service's integration into Game Pass Ultimate.
+<a href='https://www.theverge.com/2020/8/4/21353043/powera-xcloud-wireless-controller-xbox-price-phone-clip-moga-xp5x'> Source <a/>
