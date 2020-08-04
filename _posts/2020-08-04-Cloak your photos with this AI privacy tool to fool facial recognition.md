@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sTmPVlJVLmuOZrnzSEaYquvo7VM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67152844/acastro_180730_1777_facial_recognition_0002.0.jpg' width='700px' /><br/>
+Ubiquitous facial recognition is a serious threat to privacy. The idea that the photos we share are being collected by companies to train algorithms that are sold commercially is worrying. Anyone can buy these tools, snap a photo of a stranger, and find out who they are in seconds. But researchers have come up with a clever way to help combat this problem.
+<a href='https://www.theverge.com/2020/8/4/21353810/facial-recognition-block-ai-selfie-cloaking-fawkes'> Source <a/>
