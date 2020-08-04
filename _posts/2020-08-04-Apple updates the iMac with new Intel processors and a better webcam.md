@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kaMWn9PV_v46oCBH7NXl6qwFtIE=/0x0:1960x1540/1200x800/filters:focal(804x759:1116x1071)/cdn.vox-cdn.com/uploads/chorus_image/image/67153762/iMac_2020.0.jpg' width='700px' /><br/>
+Apple is announcing updates for both the 27-inch and 21.5-inch iMacs. It's updating the processors inside to Intel's 10th Gen Comet Lake processors and also switching out the webcam to a higher-resolution 1080p HD sensor instead of the low-res 720p found in other Macs. SSDs are now standard across the line, and there will be a bunch of new configuration options — including a “nano-texture” version with less reflective matte glass.
+<a href='https://www.theverge.com/2020/8/4/21353899/apple-imac-2020-webcam-price-specs-release-date-announcement'> Source <a/>
