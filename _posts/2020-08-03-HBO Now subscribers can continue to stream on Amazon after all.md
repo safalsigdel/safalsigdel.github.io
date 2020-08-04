@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ELrx94UH5EdDGDs6-Pmi9xzlTa0=/0x0:1296x730/1200x800/filters:focal(435x198:641x404)/cdn.vox-cdn.com/uploads/chorus_image/image/67139245/perry_mason.0.jpg' width='700px' /><br/>
-Amazon and WarnerMedia have struck a new temporary agreement that will allow HBO Now  customers to continue streaming on Fire TV while the companies continue negotiations over HBO Max.
-<a href='https://www.theverge.com/2020/7/31/21349487/hbo-now-amazon-fire-tv-stream-august-max-go-roku-negotiation'> Source <a/>

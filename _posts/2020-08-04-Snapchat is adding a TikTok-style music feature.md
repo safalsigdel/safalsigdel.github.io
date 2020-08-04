@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PkQDJ91oQ0FsLwWq2L5VaCzHZFg=/0x0:4026x2684/1200x800/filters:focal(1691x1020:2335x1664)/cdn.vox-cdn.com/uploads/chorus_image/image/67149200/snap_music.0.jpg' width='700px' /><br/>
+Snapchat will soon let you add music to the videos you record, making it the latest social app to take on TikTok by offering the ability to embed popular songs. The announcement comes as President Trump threatens to crack down on TikTok and Instagram plans to unveil its own TikTok competitor in the coming weeks.
+<a href='https://www.theverge.com/2020/8/3/21352680/snapchat-music-embed-tiktok-competitor'> Source <a/>

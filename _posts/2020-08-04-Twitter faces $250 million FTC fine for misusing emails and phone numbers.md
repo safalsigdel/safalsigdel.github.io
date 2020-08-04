@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PjVdj65wcpwYvYwU5xyz_7ivlNU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67150777/acastro_200715_1777_twitter_0004.0.0.jpg' width='700px' /><br/>
+Twitter said that the Federal Trade Commission may soon fine it up to $250 million for improper use of users' phone numbers and email addresses. The potential fines would come for violations of Twitter's 2011 agreement with the FTC to no longer mislead consumers about how it protects their personal information.
+<a href='https://www.theverge.com/2020/8/3/21353232/twitter-ftc-fine-misused-email-phone-advertising-2011-settlement'> Source <a/>

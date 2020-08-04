@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K4Ac5Lu0RbRbVhrDhJg3JAa3Zns=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/67150092/Eegt_q3XkAkF7bZ.0.jpeg' width='700px' /><br/>
+Square Enix's Avengers game will arrive this fall, and it'll bring back console-exclusive content in a big way: the company announced that PlayStation players will get exclusive access to a playable Spider-Man character sometime in 2021.
+<a href='https://www.theverge.com/2020/8/3/21352836/square-enix-avengers-playstation-ps4-ps5-exclusive-spider-man-character'> Source <a/>

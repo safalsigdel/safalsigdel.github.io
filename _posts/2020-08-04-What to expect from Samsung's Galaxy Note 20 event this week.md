@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zM8THOGkfFt-Bm4FyKCytTeBRmc=/0x0:720x473/1200x800/filters:focal(303x180:417x294)/cdn.vox-cdn.com/uploads/chorus_image/image/67056399/s20__1_.5.jpg' width='700px' /><br/>
+Samsung's next big product launch is right around the corner, taking place on August 5th at 10AM ET, though it'll be a virtual event as a result of the ongoing COVID-19 pandemic. The main product reveal is almost certainly going to be the next phone in Samsung's Galaxy Note series, its top-of-the-range smartphone lineup that pairs some of the most powerful phone hardware around with a big, beautiful screen and its signature S Pen stylus.
+<a href='https://www.theverge.com/21323952/samsung-galaxy-note-20-unpacked-z-flip-rumors-leaks-news'> Source <a/>

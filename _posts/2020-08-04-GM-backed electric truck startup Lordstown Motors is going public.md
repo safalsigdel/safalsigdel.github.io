@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nnGalG2GzUKbR0u8epUI21bIflA=/0x0:5907x3938/1200x800/filters:focal(2482x1497:3426x2441)/cdn.vox-cdn.com/uploads/chorus_image/image/67149086/EnduranceMain08.0.jpg' width='700px' /><br/>
+One-year-old Lordstown Motors will become a publicly traded company in an effort to bring its commercial electric pickup truck, the Endurance, to market. And it will do this with more support from General Motors than was previously known, according to financial filings.
+<a href='https://www.theverge.com/2020/8/3/21352433/gm-lordstown-motors-electric-truck-startup-public-merger-spac'> Source <a/>

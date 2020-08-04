@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9369/vpavic_4113_20200721_0041.jpg' width='700px' /><br/>
+As you read this review of Google's new budget Android phone, the Pixel 4A, know that as I wrote it, I wanted to put the following line after nearly every sentence: “I should remind you that the Pixel 4A costs $349.”
+<a href='https://www.theverge.com/21351770/google-pixel-4a-review-camera-specs-price'> Source <a/>

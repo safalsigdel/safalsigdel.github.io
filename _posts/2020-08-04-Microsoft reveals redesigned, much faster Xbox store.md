@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OK02QttYcGOQC4v7JtcrpqSGxxU=/0x0:1280x717/1200x800/filters:focal(309x239:513x443)/cdn.vox-cdn.com/uploads/chorus_image/image/67149249/mainnav.0.png' width='700px' /><br/>
+Microsoft has announced a significant overhaul of its digital store for Xbox, and the end result is a much faster browsing experience and more straightforward navigation. “Far more than a typical app update, we've rebuilt the experience from the ground up to be faster, safer and easier to use than ever before,” wrote the Xbox team's Cody Bird in a blog post.
+<a href='https://www.theverge.com/2020/8/3/21352695/xbox-microsoft-store-redesign-faster-better-navigation'> Source <a/>

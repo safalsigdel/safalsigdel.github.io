@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zhaDl3Dvr_GqGfKDSa48D5zazMk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67142578/acastro_190402_3308_Guide_TikTok_0001.0.jpg' width='700px' /><br/>
-Talks between Microsoft and TikTok parent company ByteDance were paused after President Trump voiced his opposition to the deal, The Wall Street Journal reported Saturday. And while the deal does not appear to be dead, both parties are reportedly trying to get a handle on where the Trump administration stands, and if it plans any future action against the Chinese-based video sharing app.
-<a href='https://www.theverge.com/2020/8/1/21350687/trump-tiktok-order-ban-us-app'> Source <a/>

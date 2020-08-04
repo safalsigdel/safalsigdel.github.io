@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pCH6JEocsVM0O33vAO6tLvrtouM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67148728/akrales_190327_3315_0012.0.jpg' width='700px' /><br/>
+Apple's second-generation AirPods that come with a wireless charging case are down to their cheapest price ever at Amazon. Normally $199, they're just $140 right now. The previous best price was holding steady at $169, so this is a great time to invest. Interestingly, these are the same price as the model that doesn't include a charging case that supports Qi chargers.
+<a href='https://www.theverge.com/good-deals/2020/8/3/21352453/apple-airpods-case-google-nest-wifi-misfit-smartwatch-deal-sale-amazon-target'> Source <a/>

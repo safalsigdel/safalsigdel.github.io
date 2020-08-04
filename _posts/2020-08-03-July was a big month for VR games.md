@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XbcxO159ewk42IgJZUCss5KM-As=/0x0:2040x1360/1200x800/filters:focal(969x532:1295x858)/cdn.vox-cdn.com/uploads/chorus_image/image/67147550/akrales_190429_3371_0074.0.jpg' width='700px' /><br/>
-2020 has seen renewed interest in VR, and it's not just because of the pandemic. There have been tentpole releases like Half-Life: Alyx, and the Oculus Quest continues to grow in popularity with a rumored new version on the horizon. July in particular had a lot of new games and releases.
-<a href='https://www.theverge.com/2020/8/3/21352323/july-2020-vr-game-releases-roundup-onward-in-death-psvr-oculus-quest'> Source <a/>

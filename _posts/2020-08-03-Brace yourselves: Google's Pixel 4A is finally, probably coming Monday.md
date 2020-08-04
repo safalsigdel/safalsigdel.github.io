@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6BoPI5amPWJIHtiskhVPJO-6Olc=/0x0:1706x1142/1200x800/filters:focal(717x435:989x707)/cdn.vox-cdn.com/uploads/chorus_image/image/67143707/Screen_Shot_2020_07_13_at_10.52.32_AM.0.png' width='700px' /><br/>
-With a rumored $349 price, OLED screen, Google's great camera, and a good-enough processor, the upcoming Pixel 4A sounds like it'll be a tough deal to beat for those who don't need a premium phone. And it looks like the phone will finally be launching on August 3rd.
-<a href='https://www.theverge.com/2020/8/1/21350893/google-pixel-4a-launch-iphone-se'> Source <a/>

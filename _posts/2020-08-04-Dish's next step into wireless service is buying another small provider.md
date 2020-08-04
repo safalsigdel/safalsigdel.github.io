@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mQtI2lb4tpR3iE9-3PCa_dv8K74=/0x0:800x533/1200x800/filters:focal(336x203:464x331)/cdn.vox-cdn.com/uploads/chorus_image/image/67148767/dish.0.jpg' width='700px' /><br/>
+Dish has acquired Ting Mobile, a small cell service provider, in its latest step toward becoming a major nationwide carrier. Ting launched in 2012 and had 286,000 subscribers as of July 2018, making it downright tiny. Since Ting relied on other carriers' wireless networks, the acquisition really only gives Dish the branding and customers.
+<a href='https://www.theverge.com/2020/8/3/21352496/dish-ting-mobile-acquisition-tucows-network-tech'> Source <a/>

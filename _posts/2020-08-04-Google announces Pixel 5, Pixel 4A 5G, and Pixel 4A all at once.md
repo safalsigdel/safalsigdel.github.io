@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GOUgY4Ae3F5URLK8z3BpzuG9QX8=/0x0:5902x4529/1200x675/filters:focal(2479x1793:3423x2737)/cdn.vox-cdn.com/uploads/chorus_image/image/67148666/5G_pre_announce__1_.0.jpg' width='700px' /><br/>
+Google is officially announcing three Pixel phones today. First is the $349 Pixel 4A, which is available for preorder now and will ship on August 20th. Next is the Pixel 5, which will have 5G and is shipping sometime this fall. Finally, there's the Pixel 4A 5G, which will cost $499 and also ship sometime this fall.
+<a href='https://www.theverge.com/2020/8/3/21352032/google-pixel-5-4a-5g-price-release-date-specs'> Source <a/>

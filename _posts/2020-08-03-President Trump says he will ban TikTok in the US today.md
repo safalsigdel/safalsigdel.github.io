@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YEOlj22UEVoSO4AkVlQuL_rW7OI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67141915/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
-President Trump has told reporters he's planning to ban TikTok from operating in the US. “As far as TikTok is concerned, we're banning them from the United States,” Trump told reporters aboard Air Force One on Friday night. Bloomberg reports that Trump indicated he's ready to sign a document to order the ban as early as today, either via an executive order or emergency economic powers.
-<a href='https://www.theverge.com/2020/8/1/21350578/tiktok-ban-president-trump-comments-order'> Source <a/>
