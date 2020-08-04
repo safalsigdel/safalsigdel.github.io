@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_Q6DslWCuOtpyvLHykAhpMFQeIU=/0x0:1020x595/1200x800/filters:focal(429x217:591x379)/cdn.vox-cdn.com/uploads/chorus_image/image/67152463/microsoftstock.0.0.1426547672.0.jpg' width='700px' /><br/>
+Microsoft plans to stop generating trash from its operations by 2030, the company announced today. It also pledged to stop using single-use plastics in its packaging by 2025.
+<a href='https://www.theverge.com/2020/8/4/21353385/microsoft-operations-zero-waste-2030'> Source <a/>
