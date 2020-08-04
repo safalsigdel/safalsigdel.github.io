@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-Ow9Zap6WVVydc-nDJyLgVjDW9o=/0x0:6572x4320/1200x800/filters:focal(2761x1635:3811x2685)/cdn.vox-cdn.com/uploads/chorus_image/image/67148670/Glitchpop_Frenzy_SideView.0.png' width='700px' /><br/>
-Riot's shooter Valorant hasn't been out long, but it's already becoming known for its excellent character designs and weapon skins. Recently, that's included a stylish German hacker with adorable robots, and guns that transform into dragons. Now the developer has revealed its “glitchpop” skin line, which basically turns your weapons into cyberpunk sticker books.
-<a href='https://www.theverge.com/2020/8/3/21348606/valorant-glitchpop-weapon-skins-release-date'> Source <a/>
