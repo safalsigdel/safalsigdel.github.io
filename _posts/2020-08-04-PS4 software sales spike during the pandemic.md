@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Wbm5Askg7cvxIPYR0YFdvYKH4fA=/0x0:2040x1360/1200x800/filters:focal(1294x512:1620x838)/cdn.vox-cdn.com/uploads/chorus_image/image/67152481/akrales_161108_1261_A_0092.0.0.jpg' width='700px' /><br/>
+The PlayStation 4 era may be winding down, but people are playing their consoles more than ever at home. Sony just announced as part of its first-quarter earnings that despite a 22 percent decrease in sales of hardware and packaged games, digital software sales are up 83 percent year-on-year, bringing in revenue of 395 trillion yen ($3.72 billion).
+<a href='https://www.theverge.com/2020/8/4/21353786/sony-ps4-sales-q1-earnings-2020'> Source <a/>
