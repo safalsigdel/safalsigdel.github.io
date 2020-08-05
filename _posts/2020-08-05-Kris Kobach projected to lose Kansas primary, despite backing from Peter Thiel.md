@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vYPEpdLfY_g8Ygp85nzurlwKVCM=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/67157465/1173249296.jpg.0.jpg' width='700px' /><br/>
-Decision Desk is projecting that Rep. Roger Marshall will win the Republican primary for Senate in Kansas, a huge blow to contender Kris Kobach. It's also a blow to the political ambitions of billionaire tech investor Peter Thiel, who had enthusiastically supported Kobach, offering public support and significant PAC funding to the candidate's primary bid.
-<a href='https://www.theverge.com/2020/8/4/21352787/kris-kobach-loss-kansas-primary-peter-thiel-backing-roger-marshall-immigration'> Source <a/>
