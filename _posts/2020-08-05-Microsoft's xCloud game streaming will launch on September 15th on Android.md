@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aaKPKzLeQaIVZYZj2S1qnleE-Uk=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/67153196/xcloudpreview.0.jpg' width='700px' /><br/>
-Microsoft will launch its game streaming service, known as Project xCloud, on September 15th exclusively on Android devices. Project xCloud will be bundled as part of the Xbox Game Pass Ultimate subscription, priced at $14.99 per month, with a promise of more than 100 games available on Android tablets and phones. Game streaming will be limited initially to Android; iPhone and iPad users will have to wait.
-<a href='https://www.theverge.com/2020/8/4/21353814/microsoft-xcloud-date-launch-android-xbox-game-pass-ultimate'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/obvFxBCKPiB5TPLPhsd5dUkynFk=/0x0:1600x1066/1200x800/filters:focal(672x405:928x661)/cdn.vox-cdn.com/uploads/chorus_image/image/67158204/Jump_lime.0.jpeg' width='700px' /><br/>
+Lime is adding Jump e-bikes to its app for the first time since the the company acquired the former Uber division in May, the company tells The Verge. The Jump e-bikes will be exclusively available in the Lime app while the company irons out any software kinks, at which point Jump e-bikes will continue to appear inside Uber's app as well.
+<a href='https://www.theverge.com/2020/8/5/21355020/lime-jump-ebikes-app-share-rent-uber-scrapped'> Source <a/>
