@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/BoDeWOc8rE-5wIOR8o_k1WoafVY=/0x0:3206x2032/1200x675/filters:focal(1857x699:2369x1211)/cdn.vox-cdn.com/uploads/chorus_image/image/67158779/Reels_IOSX_3.0.png' width='700px' /><br/>
-With TikTok's future uncertain, Instagram is hoping to lure some creators away with the rollout of a direct competitor, Reels, which is launching in more than 50 countries today, including the US, UK, Japan, and Australia.
+With TikTok's future uncertain, Instagram is hoping to lure some creators away with the rollout of a direct competitor, Reels, which is launching in more than 50 countries today, including the US, UK, Japan, and Australia, on both iOS and Android.
 <a href='https://www.theverge.com/2020/8/5/21354117/instagram-reels-tiktok-vine-short-videos-stories-explore-music-effects-filters'> Source <a/>
