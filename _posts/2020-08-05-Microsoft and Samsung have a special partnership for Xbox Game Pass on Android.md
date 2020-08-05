@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/r36dFAaxqkDHeNuEEseFBiblutc=/0x0:1980x1320/1200x800/filters:focal(832x502:1148x818)/cdn.vox-cdn.com/uploads/chorus_image/image/67159313/samsunggamepass.0.jpg' width='700px' /><br/>
+Samsung is unveiling its new Galaxy Note 20 handset today, and with it, a unique Xbox Game Pass partnership. Microsoft is partnering with Samsung to include a special version of the Xbox Game Pass app in Samsung's Galaxy Store. This version will allow Xbox players to redeem tokens and make in-app purchases like buying skins or DLC items in the Xbox Store.
+<a href='https://www.theverge.com/2020/8/5/21354079/microsoft-samsung-xbox-game-pass-partnership-android-galaxy-note-20'> Source <a/>
