@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-j64eXJ44Kjf0O5Kg2UxxAhGNAo=/0x0:4779x3186/1200x800/filters:focal(2008x1211:2772x1975)/cdn.vox-cdn.com/uploads/chorus_image/image/67155759/1225343469.jpg.0.jpg' width='700px' /><br/>
-Virgin Atlantic Airways has filed for bankruptcy protection for its United States business, as it tries to nail down a xc2xa31.2 billion ($1.6 billion) rescue plan announced last month. It's the second of Richard Branson's airlines to do so during the COVID-19 pandemic, after Virgin Australia filed for “administration” — a form of bankruptcy in countries like Australia and England — earlier this year.
-<a href='https://www.theverge.com/2020/8/4/21354575/virgin-atlantic-airline-bankrupt-us-branson-chapter-15'> Source <a/>
