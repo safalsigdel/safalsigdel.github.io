@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zXCBDQAZRBWlp3qaANtYI2s8bq4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67157985/dseifert_200802_4123_0004.0.0.jpg' width='700px' /><br/>
+Logitech is announcing its first new racing wheel in five years: the G923 for the PlayStation 4, Xbox, and PC. The G923 succeeds the G29 and G920 and will be available in August for $399.99.
+<a href='https://www.theverge.com/21351833/logitech-g923-racing-wheel-ps4-xbox-pc-trueforce-price-specs-features'> Source <a/>
