@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d-gZS0jRsypsDXnzub0ECcglCcA=/0x0:2040x1360/1200x800/filters:focal(865x866:1191x1192)/cdn.vox-cdn.com/uploads/chorus_image/image/67155190/akrales_170531_1687_0283.0.jpg' width='700px' /><br/>
-Honda is recalling 608,000 vans and SUVs because of faulty software that can, among other things, cause the backup camera to fail and the driver display to malfunction or reboot. The recalls will begin on September 23rd.
-<a href='https://www.theverge.com/2020/8/4/21354314/honda-recall-software-odyssey-pilot-passport-backup-camera-reboot'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-gB4UKAweA3I4GN3tuf-K1q0cSA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67159147/bfarsace_200803_4124_0011.0.jpg' width='700px' /><br/>
+Samsung has just announced the Galaxy Note 20 and Note 20 Ultra, the two latest phones in its stylus-equipped lineup. The specs of Samsung's Note phones are always top-of-the line, with big high-resolution screens, fast processors, and big batteries. So how do they compare to Samsung's previous flagship phones, as well as the best its competitors currently have to offer?
+<a href='https://www.theverge.com/2020/8/5/21355427/samsung-galaxy-note-20-vs-comparison-google-pixel-apple-iphone-oneplus'> Source <a/>
