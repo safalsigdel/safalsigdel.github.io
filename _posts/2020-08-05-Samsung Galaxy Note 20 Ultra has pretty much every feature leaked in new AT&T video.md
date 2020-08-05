@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9ZAnoXMi7gdYET_CbkttYBtfbvo=/0x0:720x473/1200x800/filters:focal(403x184:517x298)/cdn.vox-cdn.com/uploads/chorus_image/image/67155890/s20__1_.0.jpg' width='700px' /><br/>
-Samsung's Unpacked event tomorrow will be the official showcase for the heavily rumored and much-leaked Galaxy Note 20. For those who wanted yet another look at the phone in full before it's unveiling, an AT&T promotional video pretty much shows off every inch of the device and even details its most important specs and new features.
-<a href='https://www.theverge.com/2020/8/4/21354595/samsung-galaxy-note-20-ultra-5g-leak-att-video-specs-new-features'> Source <a/>
