@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7Trhcpg-0U5AS6WjRxbTI3kFK_8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67155074/Overwatch_Switch_008_png_jpgcopy.0.jpg' width='700px' /><br/>
+Game developers are in a nonstop battle with cheaters, and now some developers are getting an extra hand from an anti-cheat vigilante frustrated with people who give themselves an unfair advantage.
+<a href='https://www.theverge.com/2020/8/4/21352579/motherboard-gamerdoc-profile-anti-cheat-gaming-hunter-overwatch-valorant'> Source <a/>

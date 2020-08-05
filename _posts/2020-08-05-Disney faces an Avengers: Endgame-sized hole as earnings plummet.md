@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kFW-Lgp0cWJqlQjb2jDqXriwlcQ=/0x0:2048x1080/1200x800/filters:focal(535x395:861x721)/cdn.vox-cdn.com/uploads/chorus_image/image/67155886/AvengersEndgame5c9a7b9646625.0.jpg' width='700px' /><br/>
+Disney continues to face financial woes in just about every part of its business, but one year after Avengers: Endgame came out, it's clear just how much the pandemic has affected its studios division.
+<a href='https://www.theverge.com/2020/8/4/21352781/disney-earnings-third-quarter-studios-marvel-streaming-hamilton-parks-cruise-espn'> Source <a/>

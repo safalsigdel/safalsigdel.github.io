@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RPDMpLODW7GGKaSHVw7d8goZpp0=/0x294:1125x1136/1200x800/filters:focal(473x531:653x711)/cdn.vox-cdn.com/uploads/chorus_image/image/67152878/garmin_connect_down.5.jpg' width='700px' /><br/>
-Fitness brand Garmin paid millions of dollars in ransom after an attack took many of its products and services offline last month, Sky News reports. The payment was reportedly made through a ransomware negotiation company called Arete IR, in order for Garmin to recover data held hostage as a result of the attack.
-<a href='https://www.theverge.com/2020/8/4/21353842/garmin-ransomware-attack-wearables-wastedlocker-evil-corp'> Source <a/>

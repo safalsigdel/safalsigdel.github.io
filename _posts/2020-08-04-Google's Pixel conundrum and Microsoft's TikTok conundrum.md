@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c6JFHuM_ofOwVszTxvLmYstNyW4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67152803/vpavic_200728_4113_0133.0.jpg' width='700px' /><br/>
-Hi everybody. I'm back to writing this newsletter after some time off and somehow, magically, still somewhat refreshed by my week off in the woods of northern California. If you're a new subscriber, welcome! This is a newsletter about computers and consumer tech.
-<a href='https://www.theverge.com/processor-newsletter-dieter-bohn-show-video/2020/8/4/21353638/processor-conundrums-google-pixel-microsoft-tiktok'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pkoXKrUGUhww297BpW4epGWcEsQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67154264/DSC01480.0.jpg' width='700px' /><br/>
+It will finally be slightly easier to share files, images, links, and other content between Android devices. Google is launching a new Android feature called “Nearby Share” that enables direct sharing between any device running Android 6 and up. Nearby Share is already available on some Pixel and Samsung phones, and Google says it'll arrive on other devices “over the next few weeks.”
+<a href='https://www.theverge.com/2020/8/4/21353020/android-nearby-share-file-sharing-feature-launch-airdrop'> Source <a/>

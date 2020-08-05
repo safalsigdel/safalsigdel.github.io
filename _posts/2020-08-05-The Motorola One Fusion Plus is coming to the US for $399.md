@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s7pMeV51iloRmbGanJ1fU3pDnYI=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67154359/ezgif_6_f17ba08a3fed.0.jpg' width='700px' /><br/>
+Motorola announced today that it's bringing the previously international-only One Fusion Plus to the US, where the pop-up camera smartphone will cost $399 starting on August 5th.
+<a href='https://www.theverge.com/2020/8/4/21354050/motorola-one-fusion-plus-us-price-release-date-pop-up-camera'> Source <a/>

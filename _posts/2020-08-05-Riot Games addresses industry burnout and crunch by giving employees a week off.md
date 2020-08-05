@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1QJItLrblwCbdfvTN2f4zrmptpI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67156344/acastro_190522_1777_riot_games_0001.0.0.jpg' width='700px' /><br/>
+Riot Games, the developer of League of Legends and Valorant, will be giving employees the week of August 10th off to “disconnect, recharge, and reboot,” the studio announced in a blog post published Tuesday.
+<a href='https://www.theverge.com/2020/8/4/21354553/riot-games-burnout-crunch-employees-week-time-off'> Source <a/>

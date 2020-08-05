@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R3F_GkkzxcG34Z8tiMLUz86Uwk0=/0x0:1666x937/1200x0/filters:focal(0x0:1666x937):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21694148/tlsWnoo.jpg' width='700px' /><br/>
-Microsoft is preparing to launch its xCloud game streaming service as part of Xbox Game Pass Ultimate next month, and we're now starting to get some more details on how touch controls will work with the service. Microsoft initially detailed touch controls last year, but the company has now been working with Xbox Game Studios developers like The Coalition and Ninja Theory to bring these controls to Xbox games.
-<a href='https://www.theverge.com/2020/8/3/21353061/microsoft-xcloud-touch-controls-game-streaming-gyro-support'> Source <a/>

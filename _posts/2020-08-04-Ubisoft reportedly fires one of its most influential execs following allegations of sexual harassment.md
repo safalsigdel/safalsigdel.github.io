@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7aM50VzHbE2DdvpXq12A18QV1js=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67150898/acastro_190528_1777_ubisoft_0002.0.0.jpg' width='700px' /><br/>
-One of Ubisoft's most influential executives has been fired after an investigation into allegations of sexual harassment made against him, reports Business Insider. Ubisoft confirmed to The Verge that the executive, Tommy Franxc3xa7ois, departed the company, but declined to comment on the nature of his departure.
-<a href='https://www.theverge.com/2020/8/3/21353197/ubisoft-fires-tommy-francois-allegations-sexual-harassment'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iF2QjYGm0AtcUI4uyL6JHl0id10=/0x0:951x537/1200x800/filters:focal(400x193:552x345)/cdn.vox-cdn.com/uploads/chorus_image/image/67154183/Screen_Shot_2020_07_27_at_1.22.53_PM.0.png' width='700px' /><br/>
+On August 5th, Samsung is expected to unveil its latest Galaxy Note smartphone at a new Unpacked event. But alongside its new flagship phone, the company says it plans to launch four additional devices, and rumors suggest we're in for a mix of foldables, wearables, tablets, and headphones.
+<a href='https://www.theverge.com/2020/8/4/21344812/samsung-galaxy-note-20-event-news-announcements-rumors-leaks'> Source <a/>

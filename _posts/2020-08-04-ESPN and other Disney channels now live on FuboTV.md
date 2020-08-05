@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XkG_BdJSjwoB3WrA56XBgMLxsTM=/0x0:1300x715/1200x800/filters:focal(546x254:754x462)/cdn.vox-cdn.com/uploads/chorus_image/image/67149377/fuboTV_Platform_Image1_July_2020.5.jpg' width='700px' /><br/>
-ESPN and many other Disney channels are now live on FuboTV, according to a FuboTV support document. You should now be able to watch ESPN, ESPN 2, ESPN 3, ABC, ABC News Live, FX, FXX, Disney Channel, Disney Junior, Disney XD, Freeform, National Geographic, and more on the over-the-top live TV streaming service following a deal struck with Disney on June 24th.
-<a href='https://www.theverge.com/2020/8/3/21352697/fubotv-espn-disney-channels-now-live-available'> Source <a/>

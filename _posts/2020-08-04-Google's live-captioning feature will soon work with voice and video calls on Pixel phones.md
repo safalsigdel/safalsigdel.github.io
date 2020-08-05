@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MCJ4l25FZ2Na3FdDK20-LZRu__k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67150223/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Android's real-time captions feature, Live Caption, is gaining the ability to work with voice and video calls, Google announced on Monday. Previously, Live Caption only worked with media that played on your phone, like a YouTube video, but this new functionality means you'll soon be able to have a phone call with someone and get captions of what they're saying as they say it.
-<a href='https://www.theverge.com/2020/8/3/21352903/google-live-caption-phone-video-calls-new-languages-assistant'> Source <a/>
