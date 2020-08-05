@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cYQhviy_uEn6QUCqrfVFHqEHMXo=/315x378:3984x2812/1200x800/filters:focal(1848x1348:2552x2052)/cdn.vox-cdn.com/uploads/chorus_image/image/67153803/008.0.png' width='700px' /><br/>
-Google is expanding the capabilities of its Assistant on smart displays and speakers today to make it easier for families that are homeschooling their children during the pandemic.
-<a href='https://www.theverge.com/2020/8/4/21353207/google-assistant-smart-display-speakers-family-new-features-homeschool'> Source <a/>
