@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AJW-iDNKLz7QCVh71pYQTTgUZB8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67153812/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple says it's not interested in acquiring TikTok, despite an Axios report that named the company as a potential buyer for the embattled social network. The company tells The Verge that there are no talks at present to acquire TikTok, and it has no plans to pursue such a deal.
-<a href='https://www.theverge.com/2020/8/4/21354082/apple-tiktok-acquisition-denial-targeted-ads-bytedance'> Source <a/>
