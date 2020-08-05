@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZT57PxHq4yRF25ftUCQwoBWfURs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67154467/vpavic_191016_3730_0087.0.jpg' width='700px' /><br/>
-If you've ever seen an ad and thought “Why the heck am I seeing this?” you're not alone. Google personalizes the ads you see based on your Google account's activity — and sometimes, that can lead to weird results.
-<a href='https://www.theverge.com/21354028/google-advertising-settings-ads-how-to'> Source <a/>

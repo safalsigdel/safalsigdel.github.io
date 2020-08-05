@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LYYDZQOIoDdoie3mNdYRNyqOf00=/0x0:1864x1492/1200x800/filters:focal(775x374:1073x672)/cdn.vox-cdn.com/uploads/chorus_image/image/67158894/Screen_Shot_2020_08_05_at_9.20.57_AM.0.png' width='700px' /><br/>
+Ninja is back on Twitch — for the moment, at least. Tyler “Ninja” Blevins started streaming Fortnite on his Twitch account Wednesday morning, nearly a year to the day after he left the service for an exclusivity deal with Mixer. It's the first time that Blevins has streamed on Twitch since leaving.
+<a href='https://www.theverge.com/2020/8/5/21355404/ninja-twitch-stream-mixer-contract'> Source <a/>
