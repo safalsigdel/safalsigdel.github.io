@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nhNr4Ht1UR2M7uTV1yG6AJTHXRI=/0x0:983x655/1200x800/filters:focal(387x237:543x393)/cdn.vox-cdn.com/uploads/chorus_image/image/67153164/kishixbox.0.jpg' width='700px' /><br/>
-Razer has made a variant of its shape-shifting Nintendo Switch-esque Kishi controller that's ready for xCloud, Microsoft's cloud gaming service that will let you play Xbox games on demand with a Game Pass Ultimate subscription. The cloud service launches on September 15th, but this controller releases today for $99.99.
-<a href='https://www.theverge.com/2020/8/4/21352979/razer-kishi-xbox-xcloud-microsoft-cloud-game-streaming-android-controller'> Source <a/>

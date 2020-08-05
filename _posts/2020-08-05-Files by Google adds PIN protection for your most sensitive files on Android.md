@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qElZcIxB1a6CvkLSn0YHMg5JZMY=/0x0:1000x416/1200x800/filters:focal(420x128:580x288)/cdn.vox-cdn.com/uploads/chorus_image/image/67158085/Keyword_Alt.max_1000x1000.0.png' width='700px' /><br/>
+The Files by Google app, which primarily gives Android users an easy way to manage files and free up space on their phone, is getting a new PIN-protected “Safe Folder” feature. After setting up a four-digit PIN, you can store any of your sensitive files in this encrypted folder. The folder is locked the moment you switch away to another app, and its contents are only accessible through Files by Google.
+<a href='https://www.theverge.com/2020/8/5/21355278/files-by-google-secure-folder-pin-protected-encrypted-safe'> Source <a/>
