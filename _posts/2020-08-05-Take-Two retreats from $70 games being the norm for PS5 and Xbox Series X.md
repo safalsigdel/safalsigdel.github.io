@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E_tKk2fxtfgJ_egIYuW4UYvzm9w=/0x0:1461x1165/1200x800/filters:focal(562x219:794x451)/cdn.vox-cdn.com/uploads/chorus_image/image/67155107/2k21.0.png' width='700px' /><br/>
-The companies that sell video games are all staying relatively quiet about whether they plan to universally hike game prices from $60 to $70 with the launch of next-gen consoles later this year. But of the more vocal ones, massive publisher Take-Two Interactive has flip-flopped in its public statements of late, causing a bit of confusion in the process.
-<a href='https://www.theverge.com/2020/8/4/21354306/take-two-interactive-ps5-xbox-series-x-game-prices-70-dollars-norm'> Source <a/>

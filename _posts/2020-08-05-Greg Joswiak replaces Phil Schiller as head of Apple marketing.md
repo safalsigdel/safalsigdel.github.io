@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nBumoQ-wSI-x8raXfb1RLijsRP8=/0x0:3846x2634/1200x800/filters:focal(1522x971:2136x1585)/cdn.vox-cdn.com/uploads/chorus_image/image/67154831/1173625879.jpg.5.jpg' width='700px' /><br/>
-Apple's longtime marketing chief, Phil Schiller, is stepping into a somewhat smaller role after decades with the company. Schiller is dropping his role as senior vice president of worldwide marketing, but he'll remain in charge of the App Store and Apple Events. Greg Joswiak, previously the head of product marketing, will take over Schiller's former position as Apple's overall marketing leader.
-<a href='https://www.theverge.com/2020/8/4/21354367/apple-phil-schiller-fellow-greg-joswiak-head-marketing-store-events'> Source <a/>

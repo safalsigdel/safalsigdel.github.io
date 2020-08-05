@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-HvImA3QHNXoXxhIlYng0KZDzjU=/0x0:2040x1360/1200x800/filters:focal(842x694:1168x1020)/cdn.vox-cdn.com/uploads/chorus_image/image/67159076/bfarsace_200803_4124_0015.0.jpg' width='700px' /><br/>
+Android tablets may not be nearly as popular as Apple's iPad, but that hasn't stopped Samsung from continuing to dish out new models on a fairly regular basis. Today, the company is announcing its latest high-end Android tablets: the Galaxy Tab S7 and Tab S7 Plus. Both models will be available in silver, black, or bronze this fall for $649.99 and $849.99, respectively.
+<a href='https://www.theverge.com/2020/8/5/21354933/samsung-galaxy-tab-s7-plus-tablets-120hz-oled-price-specs-features'> Source <a/>

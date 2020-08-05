@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lL3KcvomVloTcNW8jkcZ9Om245I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67159063/bfarsace_200803_4124_0009.0.jpg' width='700px' /><br/>
+Samsung has just announced the latest model in its long line of smartwatches, the Galaxy Watch 3. The Watch 3 succeeds the Galaxy Watch that was first released in 2018 and joins the Galaxy Watch Active and Watch Active 2 in Samsung's current lineup. It will be available for purchase starting on August 6th for $399.99 and up.
+<a href='https://www.theverge.com/2020/8/5/21354420/samsung-galaxy-watch-3-price-specs-release-date-battery-life'> Source <a/>
