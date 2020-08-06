@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zDQ11HBACO1vzvxXllktnNOUdMY=/0x0:2040x1360/1200x800/filters:focal(874x224:1200x550)/cdn.vox-cdn.com/uploads/chorus_image/image/67164841/dseifert_200803_4125_0006.0.0.jpg' width='700px' /><br/>
+Yesterday, Samsung announced a boatload of new products, including the latest version of its popular Note smartphone and the next folding phone in its portfolio. Also in the mix was the new Galaxy Tab S7 and S7 Plus, the company's latest high-end Android tablets designed to go blow-for-blow with the iPad Pro.
+<a href='https://www.theverge.com/21356094/samsung-galaxy-tab-s7-plus-test-tablet-features'> Source <a/>
