@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c0keuuwwoDGHctrt4vHeEShPzWc=/0x0:4793x3180/1200x800/filters:focal(2014x1207:2780x1973)/cdn.vox-cdn.com/uploads/chorus_image/image/67161923/1219237710.jpg.0.jpg' width='700px' /><br/>
-Uber and Lyft are committing wage theft by misclassifying drivers as independent contractors, California's labor commissioner alleges in separate lawsuits against the companies. The classification of drivers as freelance workers has deprived them of “a host of legal protections in violation of California labor law,” the lawsuits say.
-<a href='https://www.theverge.com/2020/8/5/21356096/uber-lyft-california-labor-commissioner-lawsuit-driver-classification'> Source <a/>
