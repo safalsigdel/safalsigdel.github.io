@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m38XDipZXUWJKLG9rMSKXw2WthQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67159855/acastro_200428_1777_coronavirus_0002.0.0.jpg' width='700px' /><br/>
-This week, Virginia plans to release a COVID-19 exposure notification app based on the specifications published by Apple and Google in April. The app, called COVIDWISE, is the first fully deployed implementation of Apple and Google's system in the US and was beta tested by the state department of health.
-<a href='https://www.theverge.com/2020/8/5/21355500/virginia-apple-google-contact-tracing-app-covid-alabama'> Source <a/>

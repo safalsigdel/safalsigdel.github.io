@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VGKAQ5e44DSt2LmKHdgc1kSVwLA=/0x0:1500x983/1200x800/filters:focal(630x372:870x612)/cdn.vox-cdn.com/uploads/chorus_image/image/67163984/microsoft_tiktok.0.jpg' width='700px' /><br/>
+Why, exactly, is Microsoft — purveyor of office software, cloud services, and high-end laptops — so well positioned to buy viral video app TikTok? We've previously looked at how the acquisition fits Microsoft's future ambitions, but a new report from The Financial Times explains how the US tech giant has been preparing for this sort of deal for decades by nurturing connections with China's tech elite.
+<a href='https://www.theverge.com/2020/8/6/21356787/go-read-this-microsoft-chinese-tech-roots-tik-tok-acquisition-financial-times'> Source <a/>

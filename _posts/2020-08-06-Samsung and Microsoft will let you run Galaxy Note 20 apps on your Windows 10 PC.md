@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i-Dz51rpJ4HPUlUGPT4qQ9GqqCY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67160053/acastro_190503_1777_samsung_0001.0.0.jpg' width='700px' /><br/>
-Samsung and Microsoft announced at last year's Galaxy Unpacked that they would be forming a closer partnership to help Android and Windows work better together. At today's Galaxy Unpacked, the two companies revealed new integrations between their two ecosystems — including a way to run apps from your Galaxy Note 20 on your Windows 10 PC.
-<a href='https://www.theverge.com/2020/8/5/21355628/samsung-microsoft-integrations-partnership-app-notes-onenote-galaxy-note-20'> Source <a/>
