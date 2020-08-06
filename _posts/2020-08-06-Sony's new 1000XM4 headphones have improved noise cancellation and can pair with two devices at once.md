@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nmqfKV6_CYEeMwFVG6ZGWUPJP-M=/0x0:1968x1311/1200x800/filters:focal(827x499:1141x813)/cdn.vox-cdn.com/uploads/chorus_image/image/67165313/1000XM4.0.jpg' width='700px' /><br/>
+Sony has just announced the long-awaited followup to its popular WH-1000XM3 noise-canceling headphones. The brand new WH-1000XM4 headphones look exactly the same, but feature improved noise cancellation and, finally, the option to simultaneously pair with two devices at once over Bluetooth. They go up for preorder today for $349.99 and will start shipping in mid-August.
+<a href='https://www.theverge.com/2020/8/6/21356733/sony-wh1000xm4-noise-canceling-headphones-announced-features-price'> Source <a/>
