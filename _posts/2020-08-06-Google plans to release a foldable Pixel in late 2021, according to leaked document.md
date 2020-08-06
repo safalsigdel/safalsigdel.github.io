@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1Gf_9l3cNPRXKdezssj25lrpinc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67163775/vpavic_191016_3730_0085.0.jpg' width='700px' /><br/>
+A leaked internal Google document suggests that the company has earmarked the fourth quarter of next year for the release of a foldable Google Pixel phone, 9to5Google reports. The device, codenamed “Passport,” is said to be explicitly referred to as being “foldable,” and is included alongside a list of all Pixel devices going back to 2017's Pixel 2.
+<a href='https://www.theverge.com/2020/8/6/21356760/foldable-google-pixel-q4-2021-leaked-internal-document-5-5a-4a-5g'> Source <a/>
