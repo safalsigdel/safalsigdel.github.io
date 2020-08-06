@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0m0spJAzjfY81fT0sjNOD3wTBB8=/0x0:2040x1360/1200x800/filters:focal(806x999:1132x1325)/cdn.vox-cdn.com/uploads/chorus_image/image/67163701/vpavic_191019_3725_0300.0.jpg' width='700px' /><br/>
+Google has discontinued the Pixel 4 and Pixel 4 XL, its flagship phones that were released in October of last year. Both devices are out of stock in Google's store in the US, though some variants are still available in other regions for the time being.
+<a href='https://www.theverge.com/2020/8/6/21356745/google-pixel-4-xl-discontinued-out-of-stock'> Source <a/>
