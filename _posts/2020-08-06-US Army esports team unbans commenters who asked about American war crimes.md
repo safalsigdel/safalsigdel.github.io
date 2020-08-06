@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D0Jp-ntMtEGSLzmXF6IKZjFDtTo=/0x0:960x640/1200x800/filters:focal(404x244:556x396)/cdn.vox-cdn.com/uploads/chorus_image/image/67163898/76603164_1384608288385847_8930596477202333696_o.0.jpg' width='700px' /><br/>
+The US Army's esports team is unbanning Twitch users it blocked from its streams for asking about American war crimes, and says it will be returning to Twitch soon.
+<a href='https://www.theverge.com/2020/8/6/21356771/us-army-esports-stream-unbans-resinstates-commenters-asking-questions-war-crimes'> Source <a/>
