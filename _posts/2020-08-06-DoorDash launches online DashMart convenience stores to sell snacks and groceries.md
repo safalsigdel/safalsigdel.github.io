@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TLu_TLyhOjlxRi168jHNWpAguwk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67160132/acastro_190724_1777_doordash_0002.0.0.jpg' width='700px' /><br/>
-DoorDash on Wednesday announced the launch of a chain of virtual convenience stores the company is calling DashMart, which will sell snacks, groceries, and other food-related products from partner restaurants. These stores don't have brick-and-mortar locations. Instead, they exist solely on the DoorDash app, kind of like a ghost kitchen if it were a CVS or 7-Eleven instead.
-<a href='https://www.theverge.com/2020/8/5/21355625/doordash-dashmart-convenience-store-launch-snacks-groceries'> Source <a/>
