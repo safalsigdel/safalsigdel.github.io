@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wa58lLKnZuiwxs6CgM2RUh_e43Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67161520/acastro_180529_1777_intel_0002.0.0.jpg' width='700px' /><br/>
-A few weeks ago, Intel teased that “something big”  is happening on September 2nd. Now, thanks to the event calendar on the company's own investor relations site (and eagle-eyed Twitter user @SteakisGood for spotting it), we have confirmation that this is when Intel plans to talk more about its 10nm 11th Gen Tiger Lake CPUs, the ones featuring its anticipated Xe graphics.
-<a href='https://www.theverge.com/2020/8/5/21356084/intel-tiger-lake-cpu-processor-event-leak-dg1-gpu-september'> Source <a/>
