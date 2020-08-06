@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WiFyDyqmvLTIpN7oEXil1V4kRfU=/0x0:1500x999/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/67162508/Small_2021_Audi_e_tron_7534.0.jpg' width='700px' /><br/>
+The 2021 Audi E-Tron, the company's first all-electric car, will start at nearly $9,000 less than the current version and will get a range bump of 18 miles — bringing its total EPA-estimated range to 222 miles on a full battery pack.
+<a href='https://www.theverge.com/2020/8/5/21356342/2021-audi-e-tron-price-drop-range-bump-epa-electric-suv'> Source <a/>

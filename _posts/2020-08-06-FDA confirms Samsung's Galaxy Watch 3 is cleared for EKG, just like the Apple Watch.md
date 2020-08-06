@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HBs25GW39y-BZMOjk2eGB0Btg-k=/0x0:1363x766/1200x800/filters:focal(573x274:791x492)/cdn.vox-cdn.com/uploads/chorus_image/image/67160136/ecg.0.jpeg' width='700px' /><br/>
+The Samsung Galaxy Watch 3 includes a heart-monitoring electrocardiogram (EKG or ECG) app, which has been cleared by the US Food and Drug Administration (FDA). It's the second smartwatch in the US with this feature; the Apple Watch received clearance for a similar app in 2018.
+<a href='https://www.theverge.com/2020/8/5/21355646/samsung-galaxy-watch-3-heart-monitoring-ecg-fda-clearance'> Source <a/>

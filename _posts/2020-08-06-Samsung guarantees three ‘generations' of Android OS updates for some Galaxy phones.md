@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p1tz5aMF3Q7syDzJrB2X5Y-pw9A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67160634/bfarsace_200803_4124_0016.0.jpg' width='700px' /><br/>
+Samsung is promising to “support three generations of Android updates” for Galaxy phones, but that won't apply to all the phones it makes. Samsung says it will happen for phones from the Galaxy S10 and newer, but that some of its lower A-series phones may not be up to it. In a statement to The Verge, Samsung clarifies that the guarantee “applies to S, N and Z Series. A Series will support until hardware allows.”
+<a href='https://www.theverge.com/2020/8/5/21355777/samsung-android-os-update-promise-galaxy-phones-3-generations'> Source <a/>

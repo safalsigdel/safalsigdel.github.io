@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/txOgqwzN9qUMpkYdsj4Do2PjwEo=/0x0:4312x2976/1200x800/filters:focal(1812x1144:2500x1832)/cdn.vox-cdn.com/uploads/chorus_image/image/67159008/614802178.jpg.0.jpg' width='700px' /><br/>
-GE plans to harness the power of one of the world's fastest supercomputers to propel offshore wind power development in the US. IBM's Summit supercomputer at the US Department of Energy's Oak Ridge National Laboratory will allow GE to simulate air currents in a way the company's never been able to before.
-<a href='https://www.theverge.com/2020/8/5/21355371/ge-offshore-wind-energy-supercomputer-summit-doe'> Source <a/>

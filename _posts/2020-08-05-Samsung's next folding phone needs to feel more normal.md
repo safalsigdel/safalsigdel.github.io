@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Gd1IxC6cf6nB3W9B2Yittl0jpmk=/0x0:4096x3000/1200x800/filters:focal(1721x1173:2375x1827)/cdn.vox-cdn.com/uploads/chorus_image/image/67158385/fold2.0.png' width='700px' /><br/>
-Today, Samsung is going to announce a giant pile of new gadgets. Here's what to expect: Two Note 20 phones, a couple of Tab S7 Android tablets, a new Galaxy Watch, and Galaxy Ear Buds Live. I am on record that Samsung should have the guts to call those earbuds Ear Beans because tech needs to have a little more fun but also look at them.
-<a href='https://www.theverge.com/2020/8/5/21355018/samsung-galaxy-z-fold-2-foldable-phones-normal-mainstream'> Source <a/>

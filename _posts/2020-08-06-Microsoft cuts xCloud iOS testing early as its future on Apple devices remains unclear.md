@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FF93xljqic_-vs_bsZjKLn3BhKU=/0x0:1527x763/1200x800/filters:focal(642x260:886x504)/cdn.vox-cdn.com/uploads/chorus_image/image/67162200/rward_with_global_preview.0.jpg' width='700px' /><br/>
+Microsoft has ended its xCloud game streaming test for iOS devices today. The software giant had been testing xCloud on iOS in a very limited way over the past few months, but made it clear the service would only be launching on Android earlier this week. Microsoft had informed xCloud testers that the preview would end on September 11th, but only the Android preview will continue until next month.
+<a href='https://www.theverge.com/2020/8/5/21356274/microsoft-xcloud-ios-apple-iphone-ipad-testing-ends-apple-app-store-policies'> Source <a/>

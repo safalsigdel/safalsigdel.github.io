@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/do5srlh28mRxAkdXlAO80mEIr6I=/0x0:4134x2885/1200x800/filters:focal(1737x1113:2397x1773)/cdn.vox-cdn.com/uploads/chorus_image/image/67159211/Untitled.0.png' width='700px' /><br/>
-Samsung officially announced the Galaxy Z Fold 2 at its Unpacked event. It's the successor to last year's Galaxy Fold, with a new camera system, larger external display, and hole-punch cameras that give the new model a far more elegant and cohesive look than the original.
-<a href='https://www.theverge.com/2020/8/5/21349537/samsung-galaxy-z-fold-2-specs-camera-screen-design'> Source <a/>

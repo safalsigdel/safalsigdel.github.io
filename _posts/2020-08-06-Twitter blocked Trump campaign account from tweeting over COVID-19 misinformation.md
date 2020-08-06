@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1gR57-wUNmM0yJjzuPpzum92nXo=/0x0:5423x4022/1200x800/filters:focal(2279x1578:3145x2444)/cdn.vox-cdn.com/uploads/chorus_image/image/67162966/1264167552.jpg.0.jpg' width='700px' /><br/>
+Twitter said it would prevent President Trump's @TeamTrump campaign account from tweeting until it removed a tweet that violates Twitter's rules on COVID-19 misinformation, the company confirmed to The Verge Wednesday evening. However, it appears that @TeamTrump has removed the tweet in violation of the rules, as it has tweeted again several times this evening.
+<a href='https://www.theverge.com/2020/8/5/21356510/twitter-trump-campaign-teamtrump-tweeting-tweet-covid-19-misinformation'> Source <a/>

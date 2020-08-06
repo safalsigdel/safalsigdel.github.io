@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2Y8V2QkyN6BElxOV7-eJIKlF7TI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67160145/acastro_180604_1777_xbox_0001.0.jpg' width='700px' /><br/>
+Microsoft isn't planning to rename Xbox Live or discontinue Xbox Live Gold. Rumors of an Xbox Live rename appeared this week, after Microsoft announced changes to its services agreement. The software giant started referring to Xbox Live as the “Xbox online service,” prompting some to assume Xbox Live was going away.
+<a href='https://www.theverge.com/2020/8/5/21355756/microsoft-xbox-live-rename-gold-free-rumors'> Source <a/>

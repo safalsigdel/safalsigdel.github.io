@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j0UYKNSaAeFtjNU2A23GeufNZyA=/0x0:5072x2650/1200x675/filters:focal(2131x920:2941x1730)/cdn.vox-cdn.com/uploads/chorus_image/image/67158924/Screen_Shot_2020_08_03_at_8.23.58_PM.0.png' width='700px' /><br/>
-Samsung is holding an online-only “Unpacked” event to announce its latest products. We're expecting the Note 20, Note 20 Ultra, Galaxy Buds Live, Galaxy Watch 3, Tab S7 and S7 Plus tablets, and maybe even a new Galaxy Z Fold foldable. It's going to be a lot.
-<a href='https://www.theverge.com/2020/8/5/21353695/samsung-galaxy-note-20-event-watch-live-stream-time'> Source <a/>

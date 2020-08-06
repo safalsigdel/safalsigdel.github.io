@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1JVEGuK6XVDYlUMfmvt7y_jMOn0=/0x0:4277x2851/1200x800/filters:focal(1594x810:2278x1494)/cdn.vox-cdn.com/uploads/chorus_image/image/67161378/1203119970.jpg.0.jpg' width='700px' /><br/>
+The Federal Bureau of Investigation raided the California home of YouTube star Jake Paul this morning, according to TMZ and CBSLA. Agents removed several objects that looked like firearms from Paul's home, ABC7 reported. The bureau is investigating “allegations of criminal acts” surrounding an incident at an Arizona mall in May, a spokesperson for the FBI's Phoenix office told The Verge.
+<a href='https://www.theverge.com/2020/8/5/21356047/jake-paul-fbi-federal-search-warrant-house-raided-guns'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XnFDFbWOQW4TaRlaRpYN8jCGVQA=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21696153/bfarsace_200803_4124_0016.jpg' width='700px' /><br/>
-Samsung has officially announced 2020's Galaxy Note lineup. There are two models this year: the regular Galaxy Note 20 and the high-end Galaxy Note 20 Ultra. Both feature the main thing that differentiates the Note line — an included S Pen stylus — but the new Notes are more different from each other than you might expect.
-<a href='https://www.theverge.com/2020/8/5/21353196/samsung-galaxy-note-20-ultra-price-release-date-camera-stylus-specs'> Source <a/>

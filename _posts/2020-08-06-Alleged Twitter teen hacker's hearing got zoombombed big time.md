@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ff3PhCCaOBug7scqxKdd2FujW08=/0x0:2048x1367/1200x800/filters:focal(861x521:1187x847)/cdn.vox-cdn.com/uploads/chorus_image/image/67160886/VRG_ILLO_1777_twitter_bitcoin.0.0.jpg' width='700px' /><br/>
+Last Friday, a 17-year-old Florida high school graduate, Graham Ivan Clark, was arrested and charged as the “mastermind” behind the massive bitcoin scam that ensnared the accounts of Barack Obama, Joe Biden, Bill Gates, Jeff Bezos, Apple, and more — after he allegedly posed as a member of Twitter's IT department and used Twitter's own admin tools to break into those accounts.
+<a href='https://www.theverge.com/2020/8/5/21355746/twitter-hack-teen-hearing-zoombombed-zoom-call-judge'> Source <a/>
