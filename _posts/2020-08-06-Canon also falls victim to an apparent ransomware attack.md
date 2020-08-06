@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jZWqUvRocwD3NKesNfzr34FUekQ=/0x0:1400x894/1200x800/filters:focal(561x442:785x666)/cdn.vox-cdn.com/uploads/chorus_image/image/67163767/sorry_the_site_is_temporarily.0.png' width='700px' /><br/>
+Just one week after Garmin recovered from a ransomware attack, data and systems belonging to Japanese tech firm Canon are reportedly now being held hostage. BleepingComputer reports that 10TB of company data has been stolen as Canon suffers widespread ongoing system outages.
+<a href='https://www.theverge.com/2020/8/6/21356757/canon-ransomware-attack-usa'> Source <a/>
