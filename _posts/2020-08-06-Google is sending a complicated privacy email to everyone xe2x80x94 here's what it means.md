@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JKkw_SUonlMSCkgsHTyOSVfXLjI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67159363/dseifert_171008_2042_4560_02.0.jpg' width='700px' /><br/>
-Google is returning to having humans analyze and rate anonymized audio snippets from its users. However, it's also taken the major step of automatically opting every single user out of the setting that allows Google to store their audio. That's why you might be getting an email today: Google would like you to opt back in to the program, and it's trying to provide clearer information detailing what it's all about.
-<a href='https://www.theverge.com/2020/8/5/21354805/google-email-audio-privacy-opt-in-human-reviewers-assistant'> Source <a/>
