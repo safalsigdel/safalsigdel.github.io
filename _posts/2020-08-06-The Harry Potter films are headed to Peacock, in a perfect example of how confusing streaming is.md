@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UitGeRtWIgvJwlXDl_aj0ts_Tvs=/0x0:1000x667/1200x800/filters:focal(420x254:580x414)/cdn.vox-cdn.com/uploads/chorus_image/image/67160992/harry-potter-wand-face.0.png' width='700px' /><br/>
-The tangled journey of the streaming rights for the Harry Potter films just got even more confusing, as Peacock has announced that it'll be offering the series starting in October. The Potter films are currently streaming on HBO Max but are set to leave the service on August 25th.
-<a href='https://www.theverge.com/2020/8/5/21355900/harry-potter-films-peacock-hbo-max-streaming-nbc-universal-rights'> Source <a/>
