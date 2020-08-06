@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Hv9awB2558vGn_gWumWM4UITwpE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67161245/acastro_190919_1777_instagram_0003.0.0.jpg' width='700px' /><br/>
-Instagram has disabled its “related hashtags” feature after a bug restricted the feature for select phrases across the platform. Related hashtags did not appear on the tens of thousands of hashtag pages affected by the bug, potentially restricting available information to any user who tapped on one as it appeared in photo or video captions or sought it out via search.
-<a href='https://www.theverge.com/2020/8/5/21355976/instagram-related-hashtags-disabled-feature-bug-trump-biden'> Source <a/>

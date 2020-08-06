@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KETyHm8K-QNi-ym-MaEO_astX7A=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67165435/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
+On Wednesday, the US Justice Department asked a federal judge to block California's pivotal net neutrality law, according to Reuters.
+<a href='https://www.theverge.com/2020/8/6/21357013/justice-department-net-neutrality-fcc-law-throttling-isps'> Source <a/>
