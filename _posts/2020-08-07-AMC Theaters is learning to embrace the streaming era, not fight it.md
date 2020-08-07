@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Za3ZWrmD-4xbiUvIe4EKTCn0oWI=/0x0:7461x4983/1200x800/filters:focal(3209x879:4401x2071)/cdn.vox-cdn.com/uploads/chorus_image/image/67168607/1208555617.jpg.0.jpg' width='700px' /><br/>
-AMC Theaters faced its “most challenging quarter in the company's 100-year history,” but CEO Adam Aron is trying to look forward, using the company's second quarter earnings call today to address how AMC is going to compete in a streaming-focused world.
-<a href='https://www.theverge.com/2020/8/6/21357883/amc-universal-disney-streaming-warner-bros-mulan-tenet-theaters-movies'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0S-4xGEvBG2qSoB6DE6v9njxwck=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67167962/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-Facebook reportedly cleared misinformation “strikes” against several posts by conservatives in an apparent attempt to prevent them from being banned, BuzzFeed News reported.
-<a href='https://www.theverge.com/2020/8/6/21357663/facebook-removed-strikes-conservative-fact-checking-banned-breitbart'> Source <a/>
