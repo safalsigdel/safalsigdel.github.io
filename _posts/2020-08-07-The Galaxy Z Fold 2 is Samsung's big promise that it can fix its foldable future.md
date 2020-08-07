@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gO7xE1ttc0O_UZ6rLi9CwVLPEYo=/0x0:3360x1818/1200x800/filters:focal(1412x641:1948x1177)/cdn.vox-cdn.com/uploads/chorus_image/image/67166003/Screen_Shot_2020_08_05_at_10.25.49_AM.0.png' width='700px' /><br/>
-Samsung's first look at the upcoming Galaxy Z Fold 2 during its Unpacked event seemed to spend more time focusing on how the new model fixes the flaws of the original rather than emphasizing whatever will make the foldable flagship great. In putting so much effort into convincing customers that this time it got things right, Samsung revealed just how badly it needs foldable phones to work.
-<a href='https://www.theverge.com/21357158/samsung-galaxy-z-fold-2-foldable-phone-5g-future-emphasis-fix-problems-strategy'> Source <a/>
