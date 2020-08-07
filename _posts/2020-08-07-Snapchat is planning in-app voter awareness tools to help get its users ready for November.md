@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uUmorCPToeJSs04UKBWwAs6Cnk0=/0x0:1709x961/1200x800/filters:focal(719x345:991x617)/cdn.vox-cdn.com/uploads/chorus_image/image/67166209/Before_You_Vote_Mini.0.png' width='700px' /><br/>
+Snapchat is preparing to launch new features next month to encourage users to register to vote in the upcoming US election and provide information and resources aimed at voter participation. It's bringing back the voter checklist card — with information on where and how to register — that it debuted ahead of the 2018 midterms, which Snap says helped more than 450,000 users with voter registration for that election.
+<a href='https://www.theverge.com/2020/8/6/21357023/snapchat-voter-tools-election-app-registration'> Source <a/>

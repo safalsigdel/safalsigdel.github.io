@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6MWXyx3RZMLK2Uu5sDd-SWgH648=/0x0:2282x1392/1200x800/filters:focal(959x514:1323x878)/cdn.vox-cdn.com/uploads/chorus_image/image/67165263/Screen_Shot_2020_08_06_at_10.23.55_AM.0.png' width='700px' /><br/>
-Amazon is expanding its lineup of Echo Flex accessories with a new Smart Clock attachment, which plugs into the USB port on the bottom of the smart speaker, adding a display to view the current time or how much time is left on a timer.
-<a href='https://www.theverge.com/2020/8/6/21356994/amazon-echo-flex-smart-clock-accessory-new-alexa-price'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rWpPxqX8dwPfmjE51A3mInkCFlA=/0x0:2850x1638/1200x800/filters:focal(1197x591:1653x1047)/cdn.vox-cdn.com/uploads/chorus_image/image/67162217/etsy_masks.0.png' width='700px' /><br/>
-It's starting to seem like Etsy only sells two kinds of products: masks, and everything else.
-<a href='https://www.theverge.com/2020/8/5/21356208/etsy-mask-sales-q2-earnings-covid-19-coronavirus-2020'> Source <a/>

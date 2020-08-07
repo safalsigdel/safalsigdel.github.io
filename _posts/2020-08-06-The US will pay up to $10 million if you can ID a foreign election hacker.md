@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Up2pQqJ0xQG29RYkXHezes3k3yg=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/67162593/ElectionInterference.0.jpg' width='700px' /><br/>
-The 2020 US presidential election is less than 100 days away, and in an effort to prevent the foreign election interference that played a role in the 2016 election, the US Department of State announced today that it's offering up to $10 million for any information that can identify someone who's been meddling in a US election.
-<a href='https://www.theverge.com/2020/8/5/21356325/us-10-million-reward-foreign-election-interference-hacker'> Source <a/>

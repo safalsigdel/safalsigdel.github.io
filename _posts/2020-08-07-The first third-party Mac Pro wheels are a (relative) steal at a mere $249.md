@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+When Apple first announced its refreshed Mac Pro, one of the most mocked aspects was the optional $400 wheels, which only became more absurd when Apple started selling the wheels as a standalone upgrade for a whopping $700. Fortunately, Mac accessory company OWC is finally stepping in with the first set of third-party wheels, which are a (relative) steal compared to Apple's official ones: they only cost $249 (via Kif Leswing on Twitter).
+<a href='https://www.theverge.com/tldr/2020/8/6/21357512/owc-mac-pro-wheels-price-accessory-third-party'> Source <a/>

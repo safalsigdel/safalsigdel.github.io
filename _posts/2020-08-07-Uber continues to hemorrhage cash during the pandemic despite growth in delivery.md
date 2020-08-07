@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ovn-PcU5Tu0f7nvvNv8vv7VkanM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67167651/akrales_181010_3013_0007.0.jpg' width='700px' /><br/>
+Uber is continuing to bleed cash during the coronavirus pandemic. The chronically unprofitable company lost $1.8 billion over the last three months, with its adjusted net revenues down 29 percent compared to Q2 of 2019. Even Uber's successful delivery business, which saw revenues grow 162 percent year over year, wasn't enough to buoy the company's finances.
+<a href='https://www.theverge.com/2020/8/6/21357745/uber-q2-2020-earnings-ride-eats-loss-coronavirus'> Source <a/>

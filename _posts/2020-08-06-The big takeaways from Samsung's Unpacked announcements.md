@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kCOARa6Gux2GoSY7lwXnNYzC6PY=/0x0:640x264/1200x0/filters:focal(0x0:640x264):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19568241/proc_newsletter_header.png' width='700px' /><br/>
-Samsung's big Unpacked event went off with just a few hitches. It's nice to know that even when an event is online some kind of logistical issue can cause AV problems and delay the beginning of a keynote. Makes everything feel a little more normal.
-<a href='https://www.theverge.com/processor-newsletter-dieter-bohn-show-video/2020/8/6/21356650/samsung-unpacked-note-20-ultra-takeaway'> Source <a/>

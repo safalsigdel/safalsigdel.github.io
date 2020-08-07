@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dzHmf4-KybGYgPQlCrwmMURUMVE=/0x0:1920x1080/1200x800/filters:focal(920x375:1226x681)/cdn.vox-cdn.com/uploads/chorus_image/image/67166301/Screen_Shot_2020_08_06_at_8.44.06_AM.0.png' width='700px' /><br/>
+The public beta of macOS Big Sur, the next major release of Apple's Mac operating system, is now available. The new update brings a big visual overhaul to macOS while also adding a number of brand-new enhancements.
+<a href='https://www.theverge.com/2020/8/6/21356413/apple-macos-big-sur-public-beta-now-available'> Source <a/>

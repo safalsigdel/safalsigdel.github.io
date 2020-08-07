@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EMV0K0Ar-KE4TZ1QPqrV5bh5uLU=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67166719/acastro_200806_4134_0001.0.jpg' width='700px' /><br/>
+A New Jersey police department is pursuing cyber harassment charges against five people in connection with a protest photo uploaded to Twitter in June. Complaints were served against the original tweeter and four other people who retweeted the message, alleging that they caused the officer to fear for the safety of his family.
+<a href='https://www.theverge.com/2020/8/6/21355999/twitter-cyber-harassment-felony-charges-police-protests-retweet'> Source <a/>

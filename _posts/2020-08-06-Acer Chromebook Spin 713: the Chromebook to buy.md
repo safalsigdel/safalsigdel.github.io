@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SUFIEQvEjDAwpVtV32s0ssOzs5Q=/0x0:2040x1360/1200x675/filters:focal(812x692:1138x1018)/cdn.vox-cdn.com/uploads/chorus_image/image/67164165/mchin_181029_4126_0002.0.0.jpg' width='700px' /><br/>
-Several Chromebooks came out this year vying to become the best “premium” Chromebook of 2020. Two big factors set Acer's Chromebook Spin 713 apart from the rest.
-<a href='https://www.theverge.com/21355769/acer-chromebook-spin-713-review-best-chromebook-to-buy'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hJLAenkpRkRjC9IvYM5R36eZ7i0=/0x0:679x467/1200x800/filters:focal(286x180:394x288)/cdn.vox-cdn.com/uploads/chorus_image/image/67163805/pixel_5.0.png' width='700px' /><br/>
-A now-deleted sentence from a Google France blog post suggests that the Pixel 5 and Pixel 4A 5G will be available to preorder on October 8th. The two phones were announced this week alongside the Pixel 4A (which is available to preorder now) but Google has yet to share official preorder dates for the handsets, only saying they're “coming this fall.”
-<a href='https://www.theverge.com/2020/8/6/21356758/google-pixel-5-4a-5g-launch-pre-order-date-leak-october-8'> Source <a/>

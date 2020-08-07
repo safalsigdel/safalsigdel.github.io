@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qd-dgHMQslYiHpEDxi5oMqshorc=/0x0:3092x4578/1200x800/filters:focal(1250x471:1744x965)/cdn.vox-cdn.com/uploads/chorus_image/image/67162663/1132397467.jpg.0.jpg' width='700px' /><br/>
-Alan and Alex Stokes, 23-year-old twin brothers known best for posting prank videos to YouTube under their channel Stokes Twins, have each been charged with a felony related to a fake bank robbery, the aftermath of which the brothers recorded and posted to YouTube last October, according to the Orange County district attorney's office (via The Hollywood Reporter.)
-<a href='https://www.theverge.com/2020/8/5/21356403/stokes-twins-youtube-felony-charge-bank-robbery-prank-video'> Source <a/>

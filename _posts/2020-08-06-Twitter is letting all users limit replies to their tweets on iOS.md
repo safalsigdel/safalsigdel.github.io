@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Fi4rmflWXijy0JLWvOCmAv_-Lho=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67164079/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
-An update to Twitter's iOS app lets all users limit who can reply to their tweets. Twitter has been experimenting with this feature since May, but now seems to be rolling out it more widely.
-<a href='https://www.theverge.com/2020/8/6/21356811/twitter-is-letting-all-users-limit-replies-to-their-tweets-on-ios'> Source <a/>

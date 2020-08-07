@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mhRSw2ke4UboqxWpbBm1fkqrTzI=/0x0:1080x607/1200x800/filters:focal(454x218:626x390)/cdn.vox-cdn.com/uploads/chorus_image/image/67166325/big_sur.0.jpeg' width='700px' /><br/>
+Following the release of the iOS 14 and iPadOS 14 public betas, Apple is now following through with public access to the macOS Big Sur beta. This next big update for macOS is the jump to 11.0, and with it comes several big changes. The most noticeable difference, though not necessarily the most notable, is the revised design. Everything looks a little cleaner, with a look that's really starting to resemble iOS.
+<a href='https://www.theverge.com/21314621/macos-11-big-sur-public-beta-how-to-install'> Source <a/>

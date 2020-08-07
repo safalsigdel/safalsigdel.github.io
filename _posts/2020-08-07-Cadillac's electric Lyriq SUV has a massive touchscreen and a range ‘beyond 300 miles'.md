@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YxqvH8UsX8LCmba-8XsdQJ1W4J4=/0x0:8664x5728/1200x675/filters:focal(3639x2171:5025x3557)/cdn.vox-cdn.com/uploads/chorus_image/image/67168330/MY23_L233_AP1_9536.0.jpg' width='700px' /><br/>
+It's been three years since General Motors first announced its plan to release 20 new electric vehicles by 2023 as part of its commitment to “an all-electric future.” The first vehicle would be an SUV from Cadillac, a brand that has been trying — and failing — for years to elevate its image despite being positioned by GM to lead the automaker's march into this high-tech future.
+<a href='https://www.theverge.com/2020/8/6/21357717/cadillac-lyriq-gm-ev-suv-touchscreen-size-specs-release-date'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8EY4TnYJN_3a2FrAxtZZp5hptKk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67163727/jbareham_1492_170228_0132.0.0.jpg' width='700px' /><br/>
-Nintendo has posted extraordinarily high earnings for its normally quiet April-June quarter, as Animal Crossing: New Horizons continues to be a sales juggernaut that drives Switch hardware purchases.
-<a href='https://www.theverge.com/2020/8/6/21356750/nintendo-earnings-q1-2020-switch-animal-crossing-sales'> Source <a/>
