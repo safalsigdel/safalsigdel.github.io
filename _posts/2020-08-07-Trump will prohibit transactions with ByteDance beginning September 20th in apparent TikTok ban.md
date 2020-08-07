@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zuhl6_C_xjQ0nT1YAr87WloC5iw=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67168793/1264358225.jpg.0.jpg' width='700px' /><br/>
+President Trump has signed a new executive order, which will block all transactions with ByteDance, TikTok's parent corporation, in an effort to “address the national emergency with respect to the information and communication technology supply chain.” It isn't effective immediately; it has a 45-day deadline.
+<a href='https://www.theverge.com/2020/8/6/21358093/trump-tik-tok-ban-bytedance-transactions-executive-order'> Source <a/>

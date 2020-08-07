@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gRakmj-4ipCUc6tDV1gml2ECiT4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67167989/akrales_191113_3779_0215.0.jpg' width='700px' /><br/>
+Cloud gaming is shaping up to have a big moment on mobile starting next month with the launch of Microsoft's xCloud service, but iOS users are getting left out. And now we know exactly why: Apple won't allow those products, because of strict App Store guidelines that make cloud services like xCloud and its competitor, Google Stadia, effectively impossible to operate on the iPhone.
+<a href='https://www.theverge.com/2020/8/6/21357771/apple-cloud-gaming-microsoft-xcloud-google-stadia-ios-app-store-guidelines-violations'> Source <a/>

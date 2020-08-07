@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WdbfE5tlGNakc5a8NFJ-ql861F0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67166638/acastro_180504_1777_microsoft_0001.0.jpg' width='700px' /><br/>
+Microsoft's President Trump-fueled negotiations to acquire TikTok continue to become more complicated — and conflicting information keeps leaking out.
+<a href='https://www.theverge.com/2020/8/6/21357231/microsoft-tiktok-global-operations-deal-report'> Source <a/>

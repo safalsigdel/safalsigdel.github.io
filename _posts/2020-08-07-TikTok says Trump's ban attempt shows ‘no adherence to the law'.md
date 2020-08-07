@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wapDM1REplax4Qf9l6gSZH6vpH4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67169767/acastro_190723_1777_tiktok_0003.0.0.jpg' width='700px' /><br/>
+TikTok has hit back at President Trump's executive order to ban all transactions with its parent company ByteDance from September 20th, saying it shows “no adherence to the law.” The Chinese firm says the executive order was issued “without any due process” after a year in which it claims it has tried to address the US government's concerns over its app.
+<a href='https://www.theverge.com/2020/8/7/21358366/tiktok-trump-ban-rule-of-law-microsoft-national-security-concerns'> Source <a/>
