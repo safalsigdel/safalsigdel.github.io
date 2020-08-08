@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V_gntwO6EA8uVDmitVL6DpAncTI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67173018/acastro_170629_1777_0008.0.jpg' width='700px' /><br/>
+These days, we almost take it as a given that piss-poor security will inevitably expose some of your usernames and passwords to the world — that's why 2FA is so important, and why you might want a password checkup tool like the ones now built into every modern browser (well, Safari is coming soon) so you can quickly replace the ones that were stolen.
+<a href='https://www.theverge.com/2020/8/7/21359191/password-breach-have-i-been-pwned-open-source-troy-hunt'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hLaY76_QZFk7tJST6qNrsgV9NeM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67166385/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
-Twitter will label the accounts of government officials and state-affiliated media outlets, following similar policies from Facebook and YouTube. The new labels are already being applied but will roll out gradually, with government labels being applied to officials from China, France, Russia, the United Kingdom, and the United States. Twitter will also stop recommending tweets from state-affiliated media.
-<a href='https://www.theverge.com/2020/8/6/21357287/twitter-government-officials-state-affiliated-media-labels-algorithm'> Source <a/>
