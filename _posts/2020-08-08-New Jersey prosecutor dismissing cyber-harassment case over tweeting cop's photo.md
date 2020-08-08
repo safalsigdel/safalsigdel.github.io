@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tEcWB6K9Nxz7xaO3pKzQWu0CuZ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67175190/acastro_200806_4134_0001.0.jpg' width='700px' /><br/>
+New Jersey's Essex County Prosecutor's Office is moving to dismiss the harassment charges against five people who tweeted or retweeted a police officer's photo. Asbury Park Press reported the news on Friday afternoon, quoting spokesperson Katherine Carter saying that “after reviewing the cases, we concluded there was insufficient evidence to sustain our burden of proof.”
+<a href='https://www.theverge.com/2020/8/8/21359840/charges-dropped-nutley-police-new-jersey-protest-retweet-harassment-kevin-alfaro-georgana-sziszak'> Source <a/>
