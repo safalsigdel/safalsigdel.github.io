@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fAqvE-kdQHSS3yvG7G_lIurdid4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67166781/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-TikTok is launching its first TV app, called “More on TikTok,” on Amazon Fire TV devices today (via Business Insider). The app will have curated video playlists and compilations from the mobile TikTok app, Amazon spokesperson Delaney Simmons confirmed in an email to The Verge. It will also include interviews with creators, along with other content that runs over the one-minute limit of TikTok's mobile app.
-<a href='https://www.theverge.com/2020/8/6/21357300/tiktok-amazon-fire-tv-app-launch-free-tv-mobile'> Source <a/>
