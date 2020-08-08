@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/Pi1qy1klQruVMjt8U36L7YKTxa4=/0x0:1020x681/1200x800/filters:focal(429x260:591x422)/cdn.vox-cdn.com/uploads/chorus_image/image/67169556/windowslogo_1.0.jpg' width='700px' /><br/>
 Microsoft is making some significant changes to the way it runs its Windows organization this week, signaling a renewed focus on the operating system that made its name.
-<a href='https://www.theverge.com/2020/8/7/21358339/microsoft-windows-reorg-2020-panos-panay-windows-development'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/Pi1qy1klQruVMjt8U36L7YKTxa4=/0x0:1020x681/1200x800/filters:focal(429x260:591x422)/cdn.vox-cdn.com/uploads/chorus_image/image/67169556/windowslogo_1.0.jpg' width='700px' /><br/>
-Microsoft is making some significant changes to the way it runs its Windows organization this week, signaling a renewed focus on the operating system that made its name.
 <a href='https://www.theverge.com/2020/8/7/21358339/microsoft-windows-reorg-2020-panos-panay-windows-development'> Source <a/>
