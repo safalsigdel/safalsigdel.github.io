@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YIonRm0rADewlodt4vlIBTb_W78=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67176009/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+In a move that may forever change what it means to be ratio'd, Twitter is testing some new language on tweet metrics, making quotes (also known as retweets with comments) visible on each tweet, the company confirmed Saturday.
+<a href='https://www.theverge.com/2020/8/8/21360019/twitter-testing-quote-tweet-counts-retweets'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0OL7Fw13AEQD5RlJ_Wunp0UzWX0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67176248/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
+Twitter has had preliminary discussions about a “combination” with TikTok, the Wall Street Journal reported, making the social media platform the latest possible suitor for the popular video-sharing app. As the WSJ notes, it's not clear whether Twitter would pursue a possible acquisition of TikTok, and any such deal would have big obstacles.
+<a href='https://www.theverge.com/2020/8/8/21360259/twitter-and-tiktok-acquisition-trump-microsoft'> Source <a/>
