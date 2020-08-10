@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gO8hJD83x1xyHH7yUMfFa-LpnI0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67178376/acastro_200428_1777_coronavirus_0003.0.0.jpg' width='700px' /><br/>
+As school districts across the country struggle to figure out how — or if— to safely reopen schools to teachers and students, the number of coronavirus cases in the US passed 5 million on Sunday, according to the Coronavirus Research Center at Johns Hopkins University. And according to a Washington Post analysis, the US hit the 5 million mark just 17 days after passing 4 million cases.
+<a href='https://www.theverge.com/2020/8/9/21360916/us-5-million-coronavirus-cases'> Source <a/>
