@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R2z8PxI4Qmh72d6L9WXxDBPDhmU=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/67178895/xboxleak1.0.jpg' width='700px' /><br/>
-Microsoft is rumored to be unveiling its second, cheaper next-gen Xbox console this month, and it looks like it will definitely be called Xbox Series S. The Verge has obtained photos of Microsoft's new next-gen Xbox controller in white, complete with packaging that mentions the Xbox Series S. Twitter user Zak S was able to purchase the controller today, and we've confirmed it's genuine.
-<a href='https://www.theverge.com/2020/8/9/21361157/microsoft-xbox-series-s-console-leak-controller-packaging'> Source <a/>
