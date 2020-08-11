@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6AvwSb6BvJVGp7uoLpt44HcnQp4=/0x0:1020x573/1200x800/filters:focal(429x206:591x368)/cdn.vox-cdn.com/uploads/chorus_image/image/67178715/vs04-30_16-11-37x.0.jpg' width='700px' /><br/>
-Toshiba quietly exited the laptop business once and for all last week, ending a 35-year run by transferring its remaining minority stake in its PC business to Sharp. Two years ago, Toshiba sold an 80.1 percent stake of its PC business to Sharp for $36 million, and Sharp renamed the division Dynabook. Sharp exercised its right to buy the remaining 19.1 percent of shares back in June, and Toshiba released a statement August 4th that the deal was completed
-<a href='https://www.theverge.com/2020/8/9/21361081/toshiba-laptop-sharp-pc-computer'> Source <a/>
