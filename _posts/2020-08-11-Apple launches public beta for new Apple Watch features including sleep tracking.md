@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8lLKonUQJeTIrWonIPmaGMyjc-A=/0x0:2040x1360/1200x800/filters:focal(1088x299:1414x625)/cdn.vox-cdn.com/uploads/chorus_image/image/67182367/vpavic_190913_3669_0159.0.jpg' width='700px' /><br/>
+Apple has already launched beta releases for its next big updates to iOS, iPadOS, macOS, and tvOS. And today, it's adding watchOS to the public beta mix for the first time.
+<a href='https://www.theverge.com/2020/8/10/21361793/apple-watchos-7-public-beta-now-available-new-features-sleep-tracking'> Source <a/>

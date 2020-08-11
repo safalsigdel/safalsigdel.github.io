@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JEfdzcAYtee_9IkOqWGsWZnDbN8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67174698/DSC00712.0.jpg' width='700px' /><br/>
-If you're shopping around for a deal this weekend, there are a few that we want to tell you about. As is usually the case, some of them have been happening for the past few days, but others are new ones that more recently popped up.
-<a href='https://www.theverge.com/good-deals/2020/8/8/21358524/brydge-wireless-bluetooth-keyboard-ipad-pro-sale-deal-video-games-amazon-best-buy-walmart'> Source <a/>

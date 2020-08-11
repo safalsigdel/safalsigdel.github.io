@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0J6Wz0UFMv0MMLuAzZ-GXtXmzSY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67176145/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-TikTok plans to sue the Trump administration over the president's executive order banning the app in the US, and the company may file the lawsuit as early as Tuesday, NPR reported.
-<a href='https://www.theverge.com/2020/8/8/21360101/tiktok-lawsuit-trump-ban-executive-order'> Source <a/>

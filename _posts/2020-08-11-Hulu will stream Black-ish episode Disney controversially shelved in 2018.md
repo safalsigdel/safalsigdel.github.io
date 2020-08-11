@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dphT3FOVaELMNh2XYpf6EtsRUSQ=/0x0:1000x562/1200x800/filters:focal(420x201:580x361)/cdn.vox-cdn.com/uploads/chorus_image/image/67184110/blackish_pbp.0.jpg' width='700px' /><br/>
+In November 2017, Black-ish creator Kenya Barris wrote an episode of his Emmy-award winning ABC comedy titled “Please, Baby, Please” that tackled racism in America, ranging from the Charlottesville protests to kneeling in the NFL. Just a week before it was set to air in 2018, Disney shelved it. Now, the episode will finally see the light of day on Disney's general entertainment streaming service, Hulu.
+<a href='https://www.theverge.com/2020/8/10/21362492/blackish-episode-2018-trump-racism-kneeling-nfl-kenya-barris-abc-disney'> Source <a/>

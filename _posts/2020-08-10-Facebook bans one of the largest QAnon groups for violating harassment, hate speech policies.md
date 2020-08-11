@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bGz52x_i3-FryawzxJM6fSr2N40=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67174773/jbareham_180405_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook has removed one of the largest public QAnon groups for violating the company's policies on misinformation, bullying, hate speech, and harassment, Reuters reported. The group, called Official Q/Qanon had almost 200,000 members, was deleted after numerous posts were taken down. A Facebook spokesperson told Reuters that the company was monitoring other QAnon groups as well.
-<a href='https://www.theverge.com/2020/8/8/21359723/facebook-bans-qanon-twitter-roku-tiktok-reddit'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2mH4rofSSjYDy0AEvbYREtScYLg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67181992/DSC00697.0.jpg' width='700px' /><br/>
+Nvidia is teasing a mysterious announcement for August 31st. The graphics card maker is hinting a potential event on Twitter today, with a post that simply says “#UltimateCountdown,” accompanied by a video of a star going supernova. Nvidia has also updated its GeForce Twitter account header image with another teaser that mentions “21 days. 21 years.”
+<a href='https://www.theverge.com/2020/8/10/21362020/nvidia-rtx-3080-event-august-31-teaser-rumors'> Source <a/>

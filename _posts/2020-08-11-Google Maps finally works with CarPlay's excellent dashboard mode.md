@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xxTr0Pw7z7iEACAAuj_WDFsCUXw=/0x0:1000x563/1200x800/filters:focal(420x202:580x362)/cdn.vox-cdn.com/uploads/chorus_image/image/67181704/maps.0.jpg' width='700px' /><br/>
+Google Maps has finally been updated to work with Apple's CarPlay dashboard mode, which allows users to display their current mapping directions side by side with music controls.
+<a href='https://www.theverge.com/2020/8/10/21358978/google-maps-carplay-dashboard-mode-update-support-directions'> Source <a/>

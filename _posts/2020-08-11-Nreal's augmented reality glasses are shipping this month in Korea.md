@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AyxlpOnwxDVmqccH2SznA_OyYNE=/0x0:1920x1280/1200x800/filters:focal(671x287:977x593)/cdn.vox-cdn.com/uploads/chorus_image/image/67184906/Nreal_with_U_5G_3.0.jpg' width='700px' /><br/>
+The Nreal Light mixed reality glasses are shipping in Korea alongside Samsung's newly announced Galaxy Note 20. LG Uplus will sell the glasses as a standalone device for 699,000KRW (around $586), and it's bundling them with the Galaxy Note 20 or LG Velvet and a 5G data plan for 349,500KRW (around $295). Preorders open on August 11th, and the headsets will be available in stores on August 21st.
+<a href='https://www.theverge.com/2020/8/10/21362407/nreal-light-ar-glasses-lg-uplus-samsung-galaxy-note-retail-launch-availability-price'> Source <a/>

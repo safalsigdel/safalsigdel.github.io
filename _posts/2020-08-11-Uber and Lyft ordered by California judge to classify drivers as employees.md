@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cPiuZv6gNf-gwskPjM8dVjO2jd8=/0x0:5568x3712/1200x800/filters:focal(2347x1565:3237x2455)/cdn.vox-cdn.com/uploads/chorus_image/image/67183696/1227939563.jpg.0.jpg' width='700px' /><br/>
+A California judge ruled that Uber and Lyft must classify their drivers as employees in a stunning preliminary injunction issued Monday afternoon. The injunction is stayed for 10 days, however, giving Uber and Lyft an opportunity to appeal the decision. Uber said it planned to file an immediate emergency appeal to block the ruling from going into effect.
+<a href='https://www.theverge.com/2020/8/10/21362460/uber-lyft-drivers-employees-california-court-ruling'> Source <a/>

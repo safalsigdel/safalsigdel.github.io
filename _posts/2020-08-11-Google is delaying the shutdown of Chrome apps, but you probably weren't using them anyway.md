@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AHEHTjsUbC7dqbS9lMj4veq8kM8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67184415/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
+Google is going to let you use Chrome apps for a little while longer, as the company on Monday announced an extension to its planned timeline to end support for the software (via 9to5Google).
+<a href='https://www.theverge.com/2020/8/10/21362688/google-chrome-apps-delay-shutdown-timeline-support-2021-2022'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EA4K5_CveuocBN_CUp8E2JazAKs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67175200/acastro_180227_1777_0001.0.jpg' width='700px' /><br/>
-President Trump's executive order banning WeChat could have far-reaching consequences for almost the entire technology industry, thanks to the app's parent company, Tencent, having investments in companies like Riot Games and other US-based brands. But the ban could also have a big impact on Apple, which is deeply entrenched in China.
-<a href='https://www.theverge.com/2020/8/8/21358941/wechat-ban-apple-china-business-trump-tariffs-trade-manufacturing-impact'> Source <a/>

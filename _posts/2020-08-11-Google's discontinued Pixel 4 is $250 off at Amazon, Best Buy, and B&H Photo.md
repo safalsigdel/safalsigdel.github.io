@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+The Google Pixel 4 is discontinued, but Amazon, Best Buy, and B&H Photo each apparently had enough stock left to launch a coordinated sale, bringing the 64GB and 128GB models each down $250 off their original prices. Both Best Buy and B&H Photo have the unlocked Pixel 4 with 64GB of storage in “just black” and “clearly white” for $549. Amazon is currently offering the deal for the black phone only. For $100 more, you can get the 128GB model. Sadly, the larger Pixel 4 XL isn't looped in here.
+<a href='https://www.theverge.com/good-deals/2020/8/10/21362281/google-pixel-4-sale-deal-64gb-128gb-amazon-best-buy-bh-photo'> Source <a/>

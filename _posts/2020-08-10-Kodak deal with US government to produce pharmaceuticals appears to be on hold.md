@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xk9pehp5lUUH4fo5oqaB4lPms7s=/0x0:5194x3464/1200x800/filters:focal(2182x1317:3012x2147)/cdn.vox-cdn.com/uploads/chorus_image/image/67175799/1253533688.jpg.0.jpg' width='700px' /><br/>
-An agreement between the US government and Kodak to develop generic drug ingredients appears to be on hold, after the US International Development Finance Corporation tweeted that “recent allegations of wrongdoing raise serious concerns.”
-<a href='https://www.theverge.com/2020/8/8/21360020/kodak-deal-government-pharmaceuticals-coronavirus-hydroxychloroquine'> Source <a/>

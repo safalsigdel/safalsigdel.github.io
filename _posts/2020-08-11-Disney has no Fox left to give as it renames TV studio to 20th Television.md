@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3ohKNMc2wSoqIoOXjip5fKmgm1U=/0x0:2286x1196/1200x800/filters:focal(961x416:1325x780)/cdn.vox-cdn.com/uploads/chorus_image/image/67183216/Screen_Shot_2020_08_10_at_2.48.42_PM.0.png' width='700px' /><br/>
+Disney's recently acquired 20th Century Fox TV studio is the latest to have the “Fox” name dropped, with the company announcing today that it'll be rebranding the studio to just 20th Television, as part of a larger rebrand for all of Disney's TV studios.
+<a href='https://www.theverge.com/2020/8/10/21362271/disney-20th-century-fox-television-tv-studio-name-rebrand'> Source <a/>

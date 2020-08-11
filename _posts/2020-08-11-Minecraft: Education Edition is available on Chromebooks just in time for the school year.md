@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JPZlZOXBNofR8PeZ5dtINQpS4kQ=/0x0:1536x1023/1200x800/filters:focal(646x390:890x634)/cdn.vox-cdn.com/uploads/chorus_image/image/67184260/Hero_Chromebook_photo_1536x1023.0.png' width='700px' /><br/>
+Microsoft is adding Chromebook support to Minecraft: Education Edition, offering another way for schools to teach virtually this upcoming school year.
+<a href='https://www.theverge.com/2020/8/10/21362450/minecraft-education-edition-chromebook-version-now-available'> Source <a/>

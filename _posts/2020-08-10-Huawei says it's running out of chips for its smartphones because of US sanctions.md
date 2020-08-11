@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S7W04XNDKtL_Gk6NxiNKpdOh4UM=/0x0:2040x1350/1200x800/filters:focal(857x512:1183x838)/cdn.vox-cdn.com/uploads/chorus_image/image/67177337/VRG_ILLO_1777_Huawei_004.0.jpg' width='700px' /><br/>
-Huawei, the world's biggest smartphone vendor, says it's running out of processor chips because of US sanctions against the company, The Associated Press reported. And according to Richard Yu, CEO of Huawei's consumer business unit, as of next month the Chinese phone manufacturer will no longer be able to make its own Kirin chipsets due to the ongoing economic pressure from the US.
-<a href='https://www.theverge.com/2020/8/9/21360598/huawei-chips-us-sanctions-trump-china-privacy-smartphone'> Source <a/>

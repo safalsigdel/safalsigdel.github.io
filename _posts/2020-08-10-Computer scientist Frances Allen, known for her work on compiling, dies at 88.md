@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7-as1S9Q9odNouHRzt6UMCdy5OQ=/0x0:1890x1242/1200x800/filters:focal(794x470:1096x772)/cdn.vox-cdn.com/uploads/chorus_image/image/67178070/Frances_Allen.0.jpg' width='700px' /><br/>
-Frances Allen, whose work on computer compiling helped establish a foundation for much of modern computer programming, died on August 4th, her 88th birthday. She was the first woman to win the Turing Award, and the first female IBM fellow. Allen was determined to make the tedious compiling process — converting software programs into ones and zeroes— more efficient. The work became a hallmark of her career.
-<a href='https://www.theverge.com/2020/8/9/21360722/frances-allen-computer-scientist-compiling-ibm'> Source <a/>

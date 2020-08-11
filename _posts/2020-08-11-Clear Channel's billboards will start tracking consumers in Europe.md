@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KtWCakctGUyqsPgmc172xdT115Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67181497/acastro_190204_1777_privacy_0002.0.jpg' width='700px' /><br/>
+Clear Channel Outdoor Holdings' Radar tracking technology, which gives advertisers access to anonymized mobile phone data about people who pass by billboards, is launching in Europe next month, the Financial Times reported. The outdoor ad-tracking program has been in the US for four years, but Clear Channel waited to launch in Europe so it could meet the EU's stricter privacy regulations.
+<a href='https://www.theverge.com/2020/8/10/21361734/clear-channel-billboards-privacy-ad-tracking-europe'> Source <a/>

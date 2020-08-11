@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AOi9mSOkhpi1v1BTF5Lds2gZlKs=/0x0:1020x676/1200x800/filters:focal(411x361:573x523)/cdn.vox-cdn.com/uploads/chorus_image/image/67183641/gogo-inflight-wi-fi-logo_1020.0.jpg' width='700px' /><br/>
+In-flight internet provider Gogo is trying to sell its commercial airline business as it continues to lose money during the COVID-19 pandemic, the company announced on Monday. CEO Oakleigh Thorne said on a conference call that the company has had “extensive discussions with multiple parties” and that he “feel[s] optimistic that a deal may happen.”
+<a href='https://www.theverge.com/2020/8/10/21362385/gogo-covid-19-sell-business-earnings-loss-pandemic'> Source <a/>

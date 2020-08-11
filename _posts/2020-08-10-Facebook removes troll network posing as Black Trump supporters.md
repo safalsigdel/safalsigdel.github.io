@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XBxiJTaoUxCTansGY99clnmGNhQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67175586/acastro_171002_1777_0004_v5.0.jpg' width='700px' /><br/>
-Facebook removed dozens of accounts it says were part of a troll farm pretending to be African-Americans in support of President Donald Trump and QAnon supporters, the company said, for violating its policies against coordinated inauthentic behavior.
-<a href='https://www.theverge.com/2020/8/8/21359823/facebook-trolls-black-trump-supporters-fake-accounts-instagram'> Source <a/>
