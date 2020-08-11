@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tFm8QoHCCWr8XZT6p5MMOSWpWpE=/0x0:4890x3260/1200x800/filters:focal(2054x1239:2836x2021)/cdn.vox-cdn.com/uploads/chorus_image/image/67179548/wtouchhero.0.jpg' width='700px' /><br/>
-On August 17th, Brydge will begin selling a new lineup of Surface accessories that have the “Designed for Surface” badge, meaning that they were made in collaboration with Microsoft. The lineup includes keyboards for the Surface Pro and Surface Go, but the most intriguing product in the group is the $99.99 W-Touch standalone trackpad. It's apparently the first standalone wireless trackpad made for Windows 10.
-<a href='https://www.theverge.com/2020/8/10/21356081/brydge-w-touch-type-wireless-trackpad-keyboard-surface-windows-10-microsoft'> Source <a/>
