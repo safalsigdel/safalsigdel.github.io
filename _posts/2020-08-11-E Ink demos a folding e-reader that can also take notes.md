@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Folding smartphones are slowly making their way into the mainstream. Could foldable e-readers be next? The E Ink Corporation, the company behind the digital paper tech found in the majority of e-readers, is trying to make it happen. The firm's R&D lab has been developing foldable e-ink screens for a while, and its latest prototype clearly demonstrates the idea's potential.
-<a href='https://www.theverge.com/2020/8/10/21361545/folding-e-ink-reader-prototype-note-taking'> Source <a/>

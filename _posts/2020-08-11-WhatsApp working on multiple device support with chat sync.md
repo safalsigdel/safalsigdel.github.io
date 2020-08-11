@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GplduNkK9gPzNoRmBeQkxzRQj2A=/0x0:1020x676/1200x800/filters:focal(429x257:591x419)/cdn.vox-cdn.com/uploads/chorus_image/image/67179965/WhatsApp1_1020.0.jpg' width='700px' /><br/>
-Facebook-owned WhatsApp appears to be working on new multiple device support with synchronized chat history. WABetaInfo reports that WhatsApp is testing the ability to use an account on multiple devices, including a separate iPad app. WhatsApp currently supports multiple devices through WhatsApp Web, which connects back to a phone account.
-<a href='https://www.theverge.com/2020/8/10/21361542/whatsapp-multiple-devices-support-ipad-app-chat-sync-rumors'> Source <a/>

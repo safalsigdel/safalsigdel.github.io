@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VAWxRlaAhXPLBF0E6eODDJ0F1oc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67186145/bking_200304_3928_0009.0.jpg' width='700px' /><br/>
+Google is creating a worldwide, Android phone-powered earthquake alert system. The first part of that system is rolling out today. If you opt in, the accelerometer in your Android phone will become one data point for an algorithm designed to detect earthquakes. Eventually, that system will automatically send warnings to people who could be impacted.
+<a href='https://www.theverge.com/2020/8/11/21362370/android-earthquake-detection-seismometer-epicenter-shakealert-google'> Source <a/>
