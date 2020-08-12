@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SjLqSse2ytRQLEyrwXTMOar6eZc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67189965/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+TikTok's Android app collected users' MAC addresses for 18 months in violation of the platform rules, as discovered by a Wall Street Journal investigation on Tuesday. The addresses would have served as a unique identifier for each user's device, making them valuable for both advertising and potentially more invasive forms of tracking.
+<a href='https://www.theverge.com/2020/8/11/21364017/tiktok-mac-address-collected-identifier-android-violation'> Source <a/>

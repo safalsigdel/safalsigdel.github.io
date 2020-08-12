@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A_lNBnXETJKCsvwj-s4paYhM5sc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67189002/acastro_190926_1777_twitch_0004.0.0.jpg' width='700px' /><br/>
+Michael “Shroud” Grzesiek — one of the most influential live-streamers on the internet — has today announced his triumphant, exclusive return to Twitch, the platform that made him famous, after a detour to Mixer that possibly netted him a cool $10 million when the site went dark and his contract got paid out.
+<a href='https://www.theverge.com/2020/8/11/21363758/shroud-twitch-exclusive-deal-michael-grzesiek-mixer'> Source <a/>

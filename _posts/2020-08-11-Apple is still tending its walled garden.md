@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/434ePI8XuWGY3hTiypGNT_a-P28=/0x0:4589x2955/1200x800/filters:focal(2320x1754:3054x2488)/cdn.vox-cdn.com/uploads/chorus_image/image/67185736/847049558.jpg.0.jpg' width='700px' /><br/>
-Apple has released public betas for the next big Apple Watch and Mac software updates. On the Mac, Big Sur (as the OS is called) has a ton of visual differences that I think will grow on you — they make macOS look just a little more like iOS. It also does a weird new thing with links — which also makes the Mac feel just a little more like iOS, too.
-<a href='https://www.theverge.com/2020/8/11/21362820/apples-big-sur-news-xcloud-walled-garden'> Source <a/>

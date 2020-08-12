@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/87hMuLl7RKN5EjN_SBEg_fX6gkQ=/0x0:1182x790/1200x800/filters:focal(497x301:685x489)/cdn.vox-cdn.com/uploads/chorus_image/image/67186157/month.0.png' width='700px' /><br/>
-Apple-focused calendar app Fantastical has announced a new family plan for its Fantastical Premium subscription service, which lets up to five family members share a paid subscription at a cheaper cost.
-<a href='https://www.theverge.com/2020/8/11/21362397/fantastical-family-plan-calendar-mac-ios-apps-premium-subscription-service'> Source <a/>

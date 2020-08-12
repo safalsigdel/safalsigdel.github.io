@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Sh0TV4ilMkuHsi8BzeAQ1rFSBO8=/0x0:1920x1920/1200x800/filters:focal(807x807:1113x1113)/cdn.vox-cdn.com/uploads/chorus_image/image/67186135/Currency_Mode.0.png' width='700px' /><br/>
-Google's Lookout app on Android, which helps people who are blind or visually impaired identify their surroundings, is getting some new features to make it easier to read text on labels and signs, identify packaged foods by more than just their bar codes, and better identify currency notes. The app will also now run on any Android device with at least 2G of RAM running Android 6.0 or later.
-<a href='https://www.theverge.com/2020/8/11/21357444/google-lookout-app-android-accessible-languages-design'> Source <a/>

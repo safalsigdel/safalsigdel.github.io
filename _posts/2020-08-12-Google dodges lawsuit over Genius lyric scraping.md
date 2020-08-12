@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F64Krc01g04F-7evaHOdNL4Xal8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67189214/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+On Tuesday, Google beat back a lawsuit over alleged scraping of song lyrics from Genius, a lyrics and commentary site. A federal judge in the Eastern District of New York found that while the claims of scraping were credible, the scraping did not constitute a copyright violation, and the lawsuit was dismissed as a result.
+<a href='https://www.theverge.com/2020/8/11/21363692/google-genius-lyrics-lawsuit-scraping-copyright-yelp-antitrust-competition'> Source <a/>

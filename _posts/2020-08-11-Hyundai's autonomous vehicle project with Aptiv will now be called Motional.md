@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eNPLjxPuyzZku2aN261PpbquNl4=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/67185887/Motional_Announcement_Image_2.0.jpg' width='700px' /><br/>
-Hyundai's autonomous vehicle joint venture with Aptiv has a new name: Motional. The company, which plans to test fully driverless vehicles for ride-hailing services later this year, said the new name is meant to evoke the “motion” of transportation as well as the “emotion” of the decision to get somewhere safely.
-<a href='https://www.theverge.com/2020/8/11/21362322/hyundai-aptiv-motional-autonomous-vehicle-joint-venture'> Source <a/>

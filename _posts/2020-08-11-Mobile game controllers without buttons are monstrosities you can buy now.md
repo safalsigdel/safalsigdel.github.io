@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Ask almost anyone you know and they'll probably agree: all good controllers have at least one button. Who might disagree with that? No one you should trust — plus the several manufacturers, including well-known brands like Anker and HyperX, that have started making controllers for your phone that don't have any buttons at all.
-<a href='https://www.theverge.com/tldr/2020/8/10/21362399/mobile-game-controllers-power-bank-fan-no-buttons'> Source <a/>

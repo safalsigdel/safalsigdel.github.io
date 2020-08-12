@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SQJwhcCh_e1I9qKaiuDdO3wYVcE=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/67182593/617179158.jpg.0.jpg' width='700px' /><br/>
-Some of the US's largest tech companies, including Apple, Facebook, Twitter, and Microsoft, are speaking out against Trump's suspension of guest worker visas. In an amicus brief filed Monday, the companies argue the new restrictions could dramatically affect how the country's economy recovers from the coronavirus pandemic.
-<a href='https://www.theverge.com/2020/8/10/21362198/trump-immigrant-worker-ban-tech-companies-economy'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k5kpzKf5mOohXD0GMwd7ItZCq6E=/0x0:1298x710/1200x800/filters:focal(546x252:752x458)/cdn.vox-cdn.com/uploads/chorus_image/image/67182375/Screen_Shot_2020_08_10_at_12.57.50_PM.0.png' width='700px' /><br/>
-TikTok announced the first wave of recipients for its new Creators Fund, a $200 million venture that will pay popular personalities for their content.
-<a href='https://www.theverge.com/2020/8/10/21362060/tiktok-creators-fund-recipients-david-dobrik-brittany-tomlinson-youtube-adsense'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vb-ZxAlnsBk88l7Sksfzigd02PE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67186138/akrales_170324_1554_A_0057.0.0.jpg' width='700px' /><br/>
-Lucid Motors may have a “range anxiety” killer on its hands.
-<a href='https://www.theverge.com/2020/8/11/21358613/lucid-motor-air-electric-vehicle-ev-range-517-miles'> Source <a/>

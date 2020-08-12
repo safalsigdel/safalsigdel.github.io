@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ksn9c3_nf21LPy5YUMgAM9o9M6c=/0x0:1080x685/1200x800/filters:focal(454x257:626x429)/cdn.vox-cdn.com/uploads/chorus_image/image/67186428/image1.0.png' width='700px' /><br/>
+Google is testing a new user-created public profile system called “people cards,” which will let users create their own profile (including their job, links to their social media platforms, a brief bio, and more) that will appear directly in Google search results. It's similar to how celebrities and businesses already appear. The new cards are only being tested in India in English to start.
+<a href='https://www.theverge.com/2020/8/11/21363229/google-profile-people-cards-search-results-user-generated-public'> Source <a/>

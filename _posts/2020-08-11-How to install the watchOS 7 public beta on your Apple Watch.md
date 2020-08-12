@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rBaJ-ZRvfKfFZDWpuKXy3P5t6fs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67182364/vpavic_190913_3669_0258.0.jpg' width='700px' /><br/>
-Apple is making watchOS 7 available via public beta starting today. It's the first time that Apple has released a public beta for its smartwatches that you can try out before the final release. It joins a couple other operating systems that Apple currently has in public preview, including iOS 14, iPadOS 14, and macOS Big Sur.
-<a href='https://www.theverge.com/21361788/new-watchos-7-public-beta-software-apple-watch-series-3-4-5-install'> Source <a/>

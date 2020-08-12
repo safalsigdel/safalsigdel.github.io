@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oA9jCzSZmAZzar38-f0zYgl8vvQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67181552/acastro_180329_1777_amazon_0001.5.jpg' width='700px' /><br/>
-Amazon is rebranding Twitch Prime, which gives Amazon Prime subscribers perks on the company's live streaming platform, by dropping the Twitch name and emphasizing the Prime part of the brand. The service will now be known as Prime Gaming.
-<a href='https://www.theverge.com/2020/8/10/21358463/amazon-twitch-prime-gaming-rebrand'> Source <a/>

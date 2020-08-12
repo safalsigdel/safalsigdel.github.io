@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FKAF7Z9MwJssK2VAj_G0ZsVukO8=/0x0:2000x1443/1200x800/filters:focal(793x809:1113x1129)/cdn.vox-cdn.com/uploads/chorus_image/image/67188111/nio.0.jpg' width='700px' /><br/>
+Chinese EV startup Nio has rebounded from the early months of the COVID-19 pandemic, setting a company record for deliveries and revenue during the second quarter of 2020. Buoyed by a return to strong automotive sales in China, a successful rollout of the updated version of its first electric SUV, and a recent $1 billion investment from local government entities, the startup now appears to be on its most solid footing since late 2018.
+<a href='https://www.theverge.com/2020/8/11/21363307/nio-sales-record-q2-revenue-finances-es8-es6-china'> Source <a/>
