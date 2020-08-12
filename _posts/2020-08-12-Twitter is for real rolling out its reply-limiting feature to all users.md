@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h9CYBLHBn12fkqzdpE17gLCExvs=/0x0:1600x1600/1200x800/filters:focal(672x672:928x928)/cdn.vox-cdn.com/uploads/chorus_image/image/67188442/whocanreply.0.png' width='700px' /><br/>
-Twitter is making its reply-limiting feature available to all users starting today, and it's for real this time: You can finally say goodbye to the reply guys. The company's director of product management, Suzanne Xie, writes in a blog post published Tuesday that the feature is part of the platform's efforts to give people more control over their conversations on the platform.
-<a href='https://www.theverge.com/2020/8/11/21362514/twitter-reply-limiting-features-all-users-harassment-rollout-available-now'> Source <a/>
