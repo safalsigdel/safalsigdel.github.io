@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Vq5bSNInz053O7B8Rg_UvgJpmHI=/0x0:3014x1959/1200x800/filters:focal(1266x739:1748x1221)/cdn.vox-cdn.com/uploads/chorus_image/image/67187518/1263139741.jpg.0.jpg' width='700px' /><br/>
-Rumors about Xiaomi's Mi 10 Ultra have been swirling this week, and the company has now formally announced the product. Xiaomi revealed key features of its anticipated handset in a press release and a series of tweets. “Whatever you can imagine, #Mi10Ultra has it,” the company said.
-<a href='https://www.theverge.com/2020/8/11/21363317/xiaomi-mi-10-ultra-announcement-twitter-fast-charging'> Source <a/>

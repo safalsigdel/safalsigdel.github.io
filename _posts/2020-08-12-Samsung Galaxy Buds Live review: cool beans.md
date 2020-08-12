@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9372/cwelch_200804_4129_0006sq.0.jpg' width='700px' /><br/>
+Samsung should've called these things the Galaxy Beans. What a missed opportunity. With that out of the way, let's talk about the new Galaxy Buds Live. The company's latest true wireless earbuds and their unconventional design have leaked extensively over the last few months, and I've had many questions along the way. How do you achieve noise cancellation with earbuds that don't seal in your ears? Can this bean shape possibly feel comfortable?
+<a href='https://www.theverge.com/21356260/samsung-galaxy-buds-live-review-wireless-earbuds-beans-design-specs-price'> Source <a/>
