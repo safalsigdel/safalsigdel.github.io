@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iCg0iSLF_tVXYUJSN7hyLJktU4I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67192689/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
+It's easy to forget about Instagram Reels.
+<a href='https://www.theverge.com/21362382/tiktok-reels-for-you-page-algorithm-instagram-paradox-choice-streaming'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zHi9Xmozcyhm7OzTVIFgDEQxDBY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67187919/acastro_200207_3900_firefox_0001.0.0.jpg' width='700px' /><br/>
-Mozilla is laying off 250 people, about a quarter of its workforce, and plans to refocus some teams on projects designed to make money. The company will have roughly 750 employees going forward, a spokesperson confirmed.
-<a href='https://www.theverge.com/2020/8/11/21363424/mozilla-layoffs-quarter-staff-250-people-new-revenue-focus'> Source <a/>
