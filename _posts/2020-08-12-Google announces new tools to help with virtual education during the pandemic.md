@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/bP1ai067D-q9hdF99Yw4ObAGjnA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67189499/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
 Google announced on Tuesday a number of new features on the way to help make virtual education easier, including updates to its Google Meet conferencing service and a new homework helper tool that just requires a photo from a phone.
-<a href='https://www.theverge.com/2020/8/11/21363556/google-meet-gallery-view-education-virtual-classroom-date'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/bP1ai067D-q9hdF99Yw4ObAGjnA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67189499/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google announced on Tuesday a number of new features on the way to help make virtual education easier, including updates to its Google Meet conferencing service and a new homework helper tool that just requires a photo from a phone.
 <a href='https://www.theverge.com/2020/8/11/21363556/google-meet-gallery-view-education-virtual-classroom-date'> Source <a/>

@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/wHJ_FTUWwRUFRAlRcOJKZaACaAI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67188072/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
 On Tuesday, Facebook announced that it would start banning US news publishers with connections to political groups from using its news exemption within the platform's political ads authorization system.
-<a href='https://www.theverge.com/2020/8/11/21363480/facebook-restricts-news-outlets-political-groups-ties-connections'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/wHJ_FTUWwRUFRAlRcOJKZaACaAI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67188072/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-On Tuesday, Facebook announced that it would start banning US news publishers with connections to political groups from using its news exemption within the platform's political ads authorization system.
 <a href='https://www.theverge.com/2020/8/11/21363480/facebook-restricts-news-outlets-political-groups-ties-connections'> Source <a/>
