@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kYSfd7DK_CSaZyH0G8JTGsVQn-4=/0x0:5123x3441/1200x800/filters:focal(2153x1312:2971x2130)/cdn.vox-cdn.com/uploads/chorus_image/image/67193100/1217662280.jpg.0.jpg' width='700px' /><br/>
+Airbnb plans to file for an IPO in August, according to a Wall Street Journal report. That means we could see a listing sometime this year, though the exact timeline will depend on the Security and Exchange Commission's review process and how the market looks. Per the Journal, the company has tapped Morgan Stanley to lead the offering, with Goldman Sachs “playing a key role.”
+<a href='https://www.theverge.com/2020/8/12/21364874/airbnb-public-ipo-2020-date-rumor-coronavirus-covid19-pandemic'> Source <a/>
