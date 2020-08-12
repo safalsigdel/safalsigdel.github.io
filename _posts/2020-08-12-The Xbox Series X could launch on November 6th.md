@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ijrW3VUq2x0iLT3Je8TK8fJwlKo=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/67191737/juWC76cndqo77CnWBCEJVn.0.png' width='700px' /><br/>
+Microsoft confirmed this week that the Xbox Series X will launch in November, but the company could be targeting a very specific date: November 6th. While the ongoing coronavirus pandemic may affect Microsoft's exact launch date for the Xbox Series X, distributors seem to be getting ready for November 6th specifically.
+<a href='https://www.theverge.com/2020/8/12/21364657/microsoft-xbox-series-x-release-date-november-6th-rumor'> Source <a/>
