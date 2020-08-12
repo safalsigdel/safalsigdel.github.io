@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b0GLiM7okVLmpGcAshqB_6FbTv8=/0x0:850x593/1200x800/filters:focal(357x229:493x365)/cdn.vox-cdn.com/uploads/chorus_image/image/67192125/2020_04_28_blog.0.jpg' width='700px' /><br/>
+Google-owned navigation app Waze is rolling out a global safety feature that alerts users about upcoming railroad crossings.
+<a href='https://www.theverge.com/2020/8/12/21363126/waze-railroad-crossing-alerts-safety-feature-global-roll-out'> Source <a/>
