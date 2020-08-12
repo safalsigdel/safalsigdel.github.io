@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+The Apple AirPods Pro usually cost $250 new, but Best Buy has taken $55 off the cost for its refurbished units. You can snag a set for $195, and it includes the original accessories, like the Lightning to USB-C cable, a wireless charging case, and two sets of silicone ear tips. Apple originally included three sets of ear tips, but some reviewers note that Best Buy doesn't include the medium-sized ones.
+<a href='https://www.theverge.com/good-deals/2020/8/12/21364793/apple-refurbished-airpods-pro-best-buy-amazon-sale-deal-discount-google-nest-mesh-wifi-fire-tablet'> Source <a/>
