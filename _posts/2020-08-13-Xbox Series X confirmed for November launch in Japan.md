@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/DrbrbY7FJS5oA09Gz_VE5uh8aCc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67197017/acastro_180604_1777_xbox_0001.0.jpg' width='700px' /><br/>
 Unlike the Xbox One, the Xbox Series X will launch in Japan at the same time as other major markets, meaning it'll see release this November. Microsoft confirmed the news in response to an inquiry from Japanese site Game Watch.
+<a href='https://www.theverge.com/2020/8/13/21366122/xbox-series-x-japan-release-date-november-confirmed'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/DrbrbY7FJS5oA09Gz_VE5uh8aCc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67197017/acastro_180604_1777_xbox_0001.0.jpg' width='700px' /><br/>
+Unlike the Xbox One, the Xbox Series X will launch in Japan at the same time as other major markets, meaning it'll see release this November. Microsoft confirmed the news in response to an inquiry from Japanese site Game Watch.
 <a href='https://www.theverge.com/2020/8/13/21366122/xbox-series-x-japan-release-date-november-confirmed'> Source <a/>
