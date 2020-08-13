@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TUdF5fUhmeBsjHIaSokcg-qckkA=/0x0:580x380/1200x0/filters:focal(0x0:580x380):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21757234/alwaysshow.png' width='700px' /><br/>
+Google is experimenting with showing domain names only in Chrome's address bar instead of full URLs. The feature will be tested in the upcoming Chrome 86 release, with Google hoping the change could protect users against scams and phishing attacks using misleading URLs.
+<a href='https://www.theverge.com/2020/8/13/21366162/google-chrome-domain-name-only-url-experiment-scams-hacks-86'> Source <a/>
