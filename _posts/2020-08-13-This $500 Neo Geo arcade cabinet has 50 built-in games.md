@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i7eY0raznxIfCyjTGKm7uOZxS-E=/0x0:700x467/1200x800/filters:focal(294x178:406x290)/cdn.vox-cdn.com/uploads/chorus_image/image/67192855/figure_1_b.0.png' width='700px' /><br/>
-There's no shortage of ways to play classic Neo Geo games in 2020. There's a mini arcade machine, an arcade stick with built-in games, and all kinds of bundles on traditional platforms. But titles like Samurai Shodown and King of Fighters are best enjoyed at a proper arcade cabinet — and now you can buy one for your house that features 50 classic games.
-<a href='https://www.theverge.com/2020/8/12/21364862/neo-geo-mvsx-arcade-cabinet-price-release-date'> Source <a/>
