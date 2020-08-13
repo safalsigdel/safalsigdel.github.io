@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NzMv1bhnlBgkalVQC40BaLqKhcA=/0x0:2040x1360/1200x800/filters:focal(658x461:984x787)/cdn.vox-cdn.com/uploads/chorus_image/image/67197309/DSCF7300.0.jpg' width='700px' /><br/>
+Several major US companies have expressed their concern over the effects of the Trump administration's executive order targeting WeChat, according to a report in The Wall Street Journal. “More than a dozen” companies including Apple, Ford, Walmart, and Disney are all said to have taken part in a call with White House officials on Tuesday where the companies detailed the adverse consequences that a ban on WeChat could have on their own businesses.
+<a href='https://www.theverge.com/2020/8/13/21366171/apple-wechat-ban-ford-disney-push-back-report'> Source <a/>
