@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yHPqi5jobSpEKJ-XhBZOs_Mfk_g=/0x0:3463x2309/1200x800/filters:focal(1340x973:1894x1527)/cdn.vox-cdn.com/uploads/chorus_image/image/67192142/1211180751.jpg.0.jpg' width='700px' /><br/>
-Dropbox's new password manager, secure vault for sensitive files, and computer backup features will be available to all users globally on Wednesday, the company announced. But you won't have access to the password manager or secure vault unless you're on a certain paid Dropbox tier. The features were first revealed on June 16th, but launched in beta at the time.
-<a href='https://www.theverge.com/2020/8/12/21363360/dropbox-password-manager-computer-backup-vault-branded-links-available-today'> Source <a/>
