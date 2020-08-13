@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xnnj1Cy2kLix0a3n6_W9VTSAkB4=/0x0:2040x1380/1200x800/filters:focal(857x527:1183x853)/cdn.vox-cdn.com/uploads/chorus_image/image/67192895/pcheung180509_2560_0014.0.jpg' width='700px' /><br/>
-Uber may shut down its operations in California, one of its largest markets in the US, if it is forced to classify drivers as employees, the company's CEO Dara Khosrowshahi said on MSNBC Wednesday.
-<a href='https://www.theverge.com/2020/8/12/21364929/uber-california-shutdown-appeal-court-ruling-drivers'> Source <a/>
