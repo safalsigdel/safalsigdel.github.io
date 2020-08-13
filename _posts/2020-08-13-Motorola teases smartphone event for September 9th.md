@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SLeD8B3_8kbXZtkH5Op1afULm0g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67194219/awhite_200210_3893_0023.0.jpg' width='700px' /><br/>
+Motorola has sent out teasers for its next major smartphone — likely the 5G-upgraded second-gen version of its foldable Razr flagship — which the company will announce on September 9th and promises will “flip the smartphone experience once again.”
+<a href='https://www.theverge.com/2020/8/12/21365326/motorola-5g-razr-event-rumor-invite-date-september-9'> Source <a/>

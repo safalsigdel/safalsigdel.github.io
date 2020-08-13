@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/At0pDMSatFlRK6j4aKlcc_Nhp2E=/0x0:890x501/1200x800/filters:focal(374x180:516x322)/cdn.vox-cdn.com/uploads/chorus_image/image/67194207/117592988_613376329317475_1014520698677157145_n.0.jpg' width='700px' /><br/>
+Facebook's latest attempt to help combat the spread of potentially harmful COVID-19 misinformation involves a new notification screen that will provide more context about an article or other link, like when it was first shared and its source.
+<a href='https://www.theverge.com/2020/8/12/21365305/facebook-covid-19-warning-notification-post-misinformation'> Source <a/>

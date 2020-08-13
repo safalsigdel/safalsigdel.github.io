@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YiE-oedtT_SdYcvHxnHTsf_K9-U=/0x0:6693x4462/1200x800/filters:focal(2812x1696:3882x2766)/cdn.vox-cdn.com/uploads/chorus_image/image/67190442/1143514663.jpg.0.jpg' width='700px' /><br/>
-The former COO of Pinterest is suing the company for gender discrimination. Franxc3xa7oise Brougher says she was paid less than her male peers, repeatedly left out of important meetings, and given gendered feedback, according to her legal complaint. She was fired after speaking out about these concerns, the lawsuit says.
-<a href='https://www.theverge.com/2020/8/11/21364219/pinterest-coo-gender-discrimination-retaliation-lawsuit'> Source <a/>

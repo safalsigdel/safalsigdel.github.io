@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o5-ZyfViP-WL_OcUJblLMOq2mIw=/0x0:8000x6000/1200x675/filters:focal(3360x2360:4640x3640)/cdn.vox-cdn.com/uploads/chorus_image/image/67191595/Hero_01.0.jpg' width='700px' /><br/>
-Microsoft is launching its Surface Duo dual-screen Android phone on September 10th, priced from $1,399. After months of Microsoft executives teasing the device on Twitter, the company is now allowing anyone to preorder the Surface Duo today in the US. Preorders will be available at AT&T, Microsoft's online store, and Best Buy.
-<a href='https://www.theverge.com/2020/8/12/21364633/microsoft-surface-duo-release-date-pricing-features-specs'> Source <a/>

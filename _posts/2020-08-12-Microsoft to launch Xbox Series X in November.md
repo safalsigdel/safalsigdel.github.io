@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oP7P6l8QzG7Z6hBlc3mRD3MzEac=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67189059/XboxSeriesXTech_Inline1.0.jpg' width='700px' /><br/>
-Microsoft is committing to launching its next-generation Xbox Series X console in November. The company had previously only confirmed a vague “holiday 2020” release date for the Xbox Series X, but at least we know the month now.
-<a href='https://www.theverge.com/2020/8/11/21363787/microsoft-xbox-series-x-launch-release-date-month'> Source <a/>
