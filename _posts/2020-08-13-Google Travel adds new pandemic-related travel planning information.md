@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YtVtVTm40KMxNq0XLw3hG9ptbTc=/0x0:1494x1002/1200x800/filters:focal(628x382:866x620)/cdn.vox-cdn.com/uploads/chorus_image/image/67198155/Screen_Shot_2020_08_12_at_4.33.35_PM.0.png' width='700px' /><br/>
+The COVID-19 pandemic has upended the travel industry, but Google is trying to help by adding new tools to its travel tools that flag pandemic-related information for users, like local COVID-19 case counts and whether the hotel offers free cancellations.
+<a href='https://www.theverge.com/2020/8/13/21365374/google-travel-new-pandemic-planning-information-hotel-flights-booking'> Source <a/>
