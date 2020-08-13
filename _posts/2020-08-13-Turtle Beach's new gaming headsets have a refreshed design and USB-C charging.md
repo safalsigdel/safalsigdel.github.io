@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CYPBWF-9w2cyXRAF_7okRi25dOw=/0x0:1194x797/1200x800/filters:focal(502x304:692x494)/cdn.vox-cdn.com/uploads/chorus_image/image/67197072/TBhero.0.jpg' width='700px' /><br/>
+Turtle Beach is releasing new versions of its Stealth 600 and 700 gaming headsets, improving on the 2017 models with a refined design that moves its buttons to a more convenient location while swapping out Micro USB charging for much-needed USB-C across the entire lineup.
+<a href='https://www.theverge.com/2020/8/13/21358560/turtle-beach-stealth-gen-2-600-700-gaming-headset-usb-c-charging-2020'> Source <a/>
