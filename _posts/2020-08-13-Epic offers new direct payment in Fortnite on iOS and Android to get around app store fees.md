@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SmFiIrDZwRete7eXju5v127pGPM=/0x0:4563x3265/1200x800/filters:focal(1917x1268:2647x1998)/cdn.vox-cdn.com/uploads/chorus_image/image/67197952/1220667834.jpg.0.jpg' width='700px' /><br/>
+Today, Epic announced the Fortnite “mega drop,” a permanent discount on V-bucks and other cash purchases in the game of up to 20 percent. The developer is quick to point out that it's not a sale: these are new prices for the in-app currency in both the PC and console versions of the game. On mobile, however, things are a bit more complicated.
+<a href='https://www.theverge.com/2020/8/13/21366259/epic-fortnite-vbucks-mega-drop-discount-iphone-android'> Source <a/>

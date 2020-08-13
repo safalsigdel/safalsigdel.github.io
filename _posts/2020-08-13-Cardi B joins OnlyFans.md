@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tz_JBlbkw31g8TqK1iW8M5A4fzI=/0x0:1438x766/1200x800/filters:focal(544x149:774x379)/cdn.vox-cdn.com/uploads/chorus_image/image/67192857/Screen_Shot_2020_08_12_at_10.43.22_AM.0.png' width='700px' /><br/>
-Cardi B has a new OnlyFans for people interested in a more intimate look at her life. In a video posted to her Instagram, Cardi says she'll be putting behind-the-scenes content for her recently released video with Megan Thee Stallion, “WAP,” on the site, including rehearsals and lead-up to the shoot itself.
-<a href='https://www.theverge.com/2020/8/12/21364910/cardi-b-onlyfans-wap-behind-the-scenes'> Source <a/>
