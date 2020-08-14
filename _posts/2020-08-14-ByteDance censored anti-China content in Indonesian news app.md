@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sLDcErYQosAcj-phfrBIV4Id7EE=/0x0:3648x2736/1200x800/filters:focal(1533x1077:2115x1659)/cdn.vox-cdn.com/uploads/chorus_image/image/67198970/1265012634.jpg.0.jpg' width='700px' /><br/>
-Chinese tech company ByteDance censored media criticizing the Chinese government on news aggregation apps in Indonesia up until the middle of 2020, Reuters reported Thursday.
-<a href='https://www.theverge.com/2020/8/13/21366488/bytedance-censor-anti-china-content-babe-tiananmen-square-mao-zedong'> Source <a/>
