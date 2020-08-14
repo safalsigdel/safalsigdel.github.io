@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7cv_zP5fs4gyORAhkOMPZJhWlJw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67199837/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Today, Facebook launched its long-promised voter information center, meant as an authoritative guide to help Americans cast their votes in the upcoming election.
+<a href='https://www.theverge.com/2020/8/13/21366582/facebook-voter-information-center-2020-election-president'> Source <a/>

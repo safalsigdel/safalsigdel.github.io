@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BMh5GVNhuHAy2yYUs9xURXcoznU=/0x0:4500x3004/1200x800/filters:focal(1890x1142:2610x1862)/cdn.vox-cdn.com/uploads/chorus_image/image/67201787/1227912831.jpg.0.jpg' width='700px' /><br/>
+Facebook says its third-party fact-checking partners “do review and rate climate misinformation, and there has never been a prohibition against them doing so,” in a response to criticism from Democratic senators. Facebook will continue its policy of exempting “clear opinion content” from fact-checking, the letter says. The senators are unsatisfied.
+<a href='https://www.theverge.com/2020/8/13/21368136/facebook-climate-change-fact-check-senators-warren'> Source <a/>

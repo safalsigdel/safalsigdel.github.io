@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YiauKalB-pQusOf8A_vvk-xGY_g=/0x0:2040x1360/1200x800/filters:focal(883x825:1209x1151)/cdn.vox-cdn.com/uploads/chorus_image/image/67200569/vpavic_180607_2652_0045.5.jpg' width='700px' /><br/>
+Game developer and publisher Epic Games has filed a lawsuit against Apple following the removal of the iOS version of its battle royale game Fortnite from the App Store earlier today.
+<a href='https://www.theverge.com/2020/8/13/21367963/epic-fortnite-legal-complaint-apple-ios-app-store-removal-injunctive-relief'> Source <a/>

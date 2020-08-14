@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SUjhiA4OiNACH-Wrh2f369OXjRs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67201836/acastro_180508_1777_google_IO_0001.0.jpg' width='700px' /><br/>
+Epic Games has filed suit against Google over alleged antitrust violations, just hours after seeing Fortnite dropped from the both the Google Play Store and iOS App store and filing a similar lawsuit against Apple. Epic's complaint alleges that Google's payment restrictions on the Play Store constitute a monopoly, and thus a violation of both the Sherman Act and California's Cartwright Act.
+<a href='https://www.theverge.com/2020/8/13/21368363/epic-google-fortnite-lawsuit-antitrust-app-play-store-apple-removal'> Source <a/>

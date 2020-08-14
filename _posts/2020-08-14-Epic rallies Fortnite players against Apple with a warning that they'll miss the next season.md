@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tUSVA3Qy0KLiwahHc9zR5RC4XV4=/402x209:1518x880/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67201105/Screen_Shot_2020_08_13_at_2.32.31_PM.0.png' width='700px' /><br/>
+Apple has banned Fortnite from the App Store for violating store policies, and Epic is rallying players against the iPhone maker in part by telling them they could miss the game's upcoming season if Apple doesn't change its rules.
+<a href='https://www.theverge.com/2020/8/13/21368065/epic-fortnite-players-apple-block-updates-next-season-warning'> Source <a/>

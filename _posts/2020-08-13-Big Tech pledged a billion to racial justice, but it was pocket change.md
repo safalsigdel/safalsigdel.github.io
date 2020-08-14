@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c1-tUKtzIb0Xo3l6YNS85eLw8EI=/0x0:3000x2000/1200x675/filters:focal(1286x1145:1766x1625)/cdn.vox-cdn.com/uploads/chorus_image/image/67198219/VRG_4132_BigTechs_Commitment_Lede_FR.0.0.jpg' width='700px' /><br/>
-Big Tech responded to George Floyd's death on May 25th in Minnesota by committing more than a billion dollars toward racial justice within a single month. That's a lot of money. And yet, Big Tech's contributions barely register against the immense, nigh-unimaginable piles of profit these companies make every year.
-<a href='https://www.theverge.com/21362540/racial-justice-tech-companies-donations-apple-amazon-facebook-google-microsoft'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Intel's Architecture Day 2020 brought a first look at the company's upcoming Tiger Lake processors, along with a more detailed preview of Intel's foray into building its own GPUs with its upcoming Xe graphics — both of which promise to offer higher performance and lower power consumption than ever before.
-<a href='https://www.theverge.com/circuitbreaker/2020/8/13/21365544/intel-tiger-lake-11th-gen-xe-graphics-gpu-preview-first-look-architecture-day-2020'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kxgpOYd8Z8dOlestMgBDXyIZZUE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67195697/akrales_180614_1777_0061.0.jpg' width='700px' /><br/>
-Lyft said it would shut down operations in California if forced to classify drivers as employees, the company's executives said in an earnings call with investors on Wednesday. Lyft joins Uber in threatening to pull out of one of its most important US markets over the question of drivers' employment status.
-<a href='https://www.theverge.com/2020/8/12/21365518/lyft-threatens-shut-down-california-q2-2020'> Source <a/>

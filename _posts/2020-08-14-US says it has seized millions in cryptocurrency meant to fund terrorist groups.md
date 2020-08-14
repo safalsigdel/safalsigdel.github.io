@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3zRv7qsBH26PBI5-3Y58pkTk3tI=/0x0:5300x3533/1200x800/filters:focal(2226x1343:3074x2191)/cdn.vox-cdn.com/uploads/chorus_image/image/67199758/1227965353.jpg.0.jpg' width='700px' /><br/>
+The US Department of Justice says it has dismantled three online fundraising campaigns involving terrorist organizations, including Al Qaeda, ISIS, and the al-Qassam Brigades (Hamas' military wing). In doing so, the DOJ seized millions of dollars in cryptocurrency that was meant to fund the groups. It's “the government's largest-ever seizure of cryptocurrency in the terrorism context,” per the department.
+<a href='https://www.theverge.com/2020/8/13/21366535/bitcoin-cryptocurrency-seizure-doj-announcement-isis-hamas-facebook'> Source <a/>

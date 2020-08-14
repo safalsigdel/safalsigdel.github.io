@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yb25_le0h5u11u9luP6RXfxDZ-s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67194650/ACASTRO_190926_1777_TWITCH_0001.0.jpg' width='700px' /><br/>
-Michael “Shroud” Grzesiek's first stream back on Twitch after his departure for Mixer was, by any measure, a massive success. He came back with more than 500,000 concurrents, a tide of subscriptions, and a new goatee. Grzesiek's stream was the most popular on Twitch for the time he was live — a full nine times bigger than top-five streamer Nick “Nickmercs” Kolcheff's channel, which had around 55,000 live viewers.
-<a href='https://www.theverge.com/21365378/shroud-comeback-twitch-mixer-ninja-drdisrespect'> Source <a/>

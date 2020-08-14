@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p0DTF-ZPrsAvgDdPSFvV_55nKhE=/0x0:2040x1360/1200x800/filters:focal(807x410:1133x736)/cdn.vox-cdn.com/uploads/chorus_image/image/67201371/setienne_180906_2930_00294.9.jpg' width='700px' /><br/>
+Following its removal from the Apple App Store, Fortnite has also been kicked off of the Google Play Store for Android. Earlier today, Epic Games snuck in an update for both the iPhone and Android versions of the game that allowed users to pay Epic directly for in-app purchases instead of using the officially sanctioned system for both platforms.
+<a href='https://www.theverge.com/2020/8/13/21368079/fortnite-epic-android-banned-google-play-app-store-rule-violation'> Source <a/>

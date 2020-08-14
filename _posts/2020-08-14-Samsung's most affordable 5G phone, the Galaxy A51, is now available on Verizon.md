@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TiKs5gABtNtb4FX3a_cgRNldqOU=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/67201950/Samsung_Galaxy_A51_5G.0.png' width='700px' /><br/>
+Samsung's affordable midrange 5G phone, the Galaxy A51, is finally available at Verizon. Compared to other phones released within the past year, the $550 Galaxy A51 5G UW is one of the more affordable 5G phones right now: $900 cheaper than the (discontinued) Samsung's Galaxy Z Flip originally cost, $250 less than the OnePlus 8 5G UW, and $100 cheaper than the Galaxy A71 5G UW.
+<a href='https://www.theverge.com/2020/8/13/21368177/samsung-galazy-a51-5g-uw-cheap-5g-phone-verizon'> Source <a/>

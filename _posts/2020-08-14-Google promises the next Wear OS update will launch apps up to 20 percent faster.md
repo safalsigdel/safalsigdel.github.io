@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4YWVtPcQcJ0tHXgrcJYY8mEMxvQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67200479/awhite_20200305__3923_0035.0.jpg' width='700px' /><br/>
+Wear OS will get its next substantial update this fall, and while it's not as flashy as, say, the upcoming Android 11, it's proof that Google hasn't completely abandoned its wearable operating system yet. The new update promises to bring several new improvements to the platform, including speed improvements, easier pairing, and a new weather app.
+<a href='https://www.theverge.com/2020/8/13/21366514/google-wear-os-fall-update-smartwatch-faster-apps-weather-pairing'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j-S7LeF2A0xkcjK3oQ3bnR_jFFk=/0x0:1152x768/1200x800/filters:focal(446x390:630x574)/cdn.vox-cdn.com/uploads/chorus_image/image/67202003/oneplus_fortnite.0.jpg' width='700px' /><br/>
+Epic Games sued Google over pulling Fortnite from the Google Play Store Thursday evening, following a similar lawsuit against Apple.
+<a href='https://www.theverge.com/2020/8/13/21368395/fortnite-epic-games-oneplus-deal-google-play-store-lawsuit-lg'> Source <a/>
