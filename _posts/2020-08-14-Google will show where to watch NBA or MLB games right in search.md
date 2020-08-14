@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2xiHUO736CMyrOQowGvJZCm9bYk=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/67199141/google1.0.jpg' width='700px' /><br/>
-Google may finally end the internet tradition of traffic-grabbing how-to-watch posts with a new search feature that will display local TV and streaming options for NBA and MLB games when you search phrases like “how to watch the Lakers games.”
-<a href='https://www.theverge.com/2020/8/13/21366250/google-nba-mlb-how-to-watch-channels-search-results'> Source <a/>

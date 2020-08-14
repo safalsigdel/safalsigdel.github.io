@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t-kzFqIK_5VrmMICJ0pnA7syUOA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67199716/akrales_191002_3704_0376.0.jpg' width='700px' /><br/>
-Microsoft is committing to support its new Surface Duo Android phone with updates for three years. “Surface Duo will be supported with OS and security updates for 3 years,” says a Microsoft spokesperson in a statement to The Verge.
-<a href='https://www.theverge.com/2020/8/13/21366636/microsoft-surface-duo-android-updates-three-years-support-security'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UuMnSFWrpMkHMHI7wOyWJt9Gz34=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67203916/acastro_200331_1777_zoom_0002.0.0.jpg' width='700px' /><br/>
+If you've been using Zoom to work from home over these last few months, it's possible that the name you're being identified by in the lower left corner is not what you'd prefer. Perhaps it's your email instead of your name, or it's all in lower case, or it includes that middle name that you've always hated. Whatever the case, it is easy to change your Zoom name — and to add a profile photo, if you want.
+<a href='https://www.theverge.com/21367945/zoom-photo-name-change-how-to-videoconferencing-wfh'> Source <a/>

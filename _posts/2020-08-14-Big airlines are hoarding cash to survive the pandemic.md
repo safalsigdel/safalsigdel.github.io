@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eZZGSv6ULE_s6PRv-cW7Lun0DLc=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67199503/VRG_ILLO_4141_001.0.jpg' width='700px' /><br/>
-The COVID-19 pandemic has cratered demand for air travel, tens of thousands of people are already out of work, and a recovery — whatever that may look like — is expected to take years. But while smaller suppliers are crashing and burning, the biggest corporations that operate and orchestrate the air travel industry are surviving, thanks to their size and their access to a crucial resource: cash.
-<a href='https://www.theverge.com/21363675/delta-america-united-airlines-layoffs-cash-covid-19-losses-loans-cares-act'> Source <a/>
