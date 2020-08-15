@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mmoWXLGO24NZUVQrTgikXcjh6vk=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/67201131/Untitled_design.0.png' width='700px' /><br/>
-Election Day in the US — November 3rd — is almost here. Now, if you type “how to vote” or “how to register to vote” into Google's search box, it will automatically detect which state you live in and give you voting dates, ways to register to vote online, and more.
-<a href='https://www.theverge.com/2020/8/13/21366601/how-to-vote-google-search-state-instructions-us-elections-ballot'> Source <a/>

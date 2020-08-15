@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9I56WSGMtAdbIK2tCaPRyDmvPBA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67208405/acastro_200207_3900_firefox_0001.0.0.jpg' width='700px' /><br/>
+Mozilla and Google have extended their arrangement to keep Google the default search engine within the Firefox browser until at least 2023, ZDNet reported. The companies have not formally announced the deal, which ZDNet estimates is worth between $400 and $450 million per year, but are expected to announce it later this fall. The current arrangement was due to expire at the end of 2020.
+<a href='https://www.theverge.com/2020/8/15/21370020/mozilla-google-firefox-search-engine-browser'> Source <a/>
