@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cs_6ltBoj-pE9DrygdzcVYlJt9I=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67201179/1266150739.jpg.0.jpg' width='700px' /><br/>
-Postmaster general Louis DeJoy is under fire over a new CNN report that shows he holds stock options in Amazon, an apparent conflict of interest.
-<a href='https://www.theverge.com/2020/8/13/21367736/postmaster-general-amazon-post-office-conflict'> Source <a/>
