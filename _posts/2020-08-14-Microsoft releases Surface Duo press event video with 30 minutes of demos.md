@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/16UQoXxXafC0PPgGcJ10ekcI3UY=/0x0:1662x935/1200x0/filters:focal(0x0:1662x935):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21758392/M8mkZkk.png' width='700px' /><br/>
-Microsoft has published a full 35-minute Surface Duo press briefing video that it held with journalists earlier this week. Microsoft typically holds in-person events for its Surface products, and this year's press briefing was essentially a virtual version of a Surface event.
-<a href='https://www.theverge.com/2020/8/13/21367929/microsoft-surface-duo-android-demo-video-press-event-design-specs'> Source <a/>

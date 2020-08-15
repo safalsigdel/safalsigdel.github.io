@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9bzRjuoalQtKmZ7aEq5wRnhrT8w=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/67205163/1143514686.jpg.0.jpg' width='700px' /><br/>
+Pinterest employees are staging a virtual walkout today to protest discrimination and retaliation at the company. In a petition posted on the anonymous networking app Blind on August 13th, employees called for solidarity with three high-profile women who've recently accused the company of racial and gender inequity.
+<a href='https://www.theverge.com/2020/8/14/21369035/pinterest-virtual-walkout-protest-discrimination-slack-blind'> Source <a/>

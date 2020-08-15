@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2bgC2lsu0DS349xi84jt3ha4a9Y=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/67200581/1227939197.jpg.0.jpg' width='700px' /><br/>
-Uber and Lyft are still obligated to classify drivers as employees after a California superior court judge denied the companies' attempt to delay a preliminary injunction from going into effect. The two companies have threatened to leave the state if they are forced to change the status of their drivers from independent contractors to employees.
-<a href='https://www.theverge.com/2020/8/13/21367906/uber-lyft-california-appeal-denied-driver-classify-employee'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z9RQrNQVDgUcKcpR3bFSWXIHtYA=/0x0:1902x1078/1200x0/filters:focal(0x0:1902x1078):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21758520/Screen_Shot_2020_08_13_at_1.19.54_PM.png' width='700px' /><br/>
-Epic just premiered a new short mocking Apple shortly after the iPhone-maker kicked Fortnite from the App Store for violating its guidelines on Thursday. The short, titled “Nineteen Eighty-Fortnite,” directly mocks Apple's iconic “1984” ad, taking famous imagery from the ad and giving it a cartoony Fortnite twist.
-<a href='https://www.theverge.com/2020/8/13/21367924/watch-epic-nineteen-eighty-fortnite-short-apple-app-store-ban'> Source <a/>

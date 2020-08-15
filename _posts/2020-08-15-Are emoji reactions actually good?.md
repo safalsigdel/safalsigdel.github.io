@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KWri4ykfS-RiobdjCPi7A9oeA6E=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67205415/VRG_ILLO_4148_003.0.jpg' width='700px' /><br/>
+Many of us are online a lot more than usual these days, and much more of our communication is entirely virtual as well. As we enter month six of pandemic life, that means once-small annoyances in virtual communication that you maybe used to let slide may have started to feel like all-consuming social indiscretions.
+<a href='https://www.theverge.com/21368287/emoji-reactions-discussion-conversation-instagram-imessage'> Source <a/>

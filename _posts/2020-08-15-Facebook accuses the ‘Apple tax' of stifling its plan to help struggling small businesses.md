@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7FItyFW0VuIrHmsCyGJeES3mfUw=/0x0:2040x1360/1200x800/filters:focal(889x544:1215x870)/cdn.vox-cdn.com/uploads/chorus_image/image/67205729/akrales_180614_1777_0080.0.jpg' width='700px' /><br/>
+Facebook is launching a new events feature that will let page owners and event organizers create paid online events to try to fill the gap created by the COVID-19 pandemic, the social media giant announced on Friday.
+<a href='https://www.theverge.com/2020/8/14/21369169/facebook-paid-live-events-ios-android-apple-app-store-fees-fortnite-epic'> Source <a/>

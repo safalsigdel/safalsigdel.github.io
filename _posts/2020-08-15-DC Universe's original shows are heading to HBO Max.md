@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/59wFTD4LX7huBrAAasx_nSREoKY=/0x0:1920x778/1200x800/filters:focal(807x236:1113x542)/cdn.vox-cdn.com/uploads/chorus_image/image/67206043/Screen_Shot_2018_12_21_at_11.21.55_AM.0.png' width='700px' /><br/>
+DC Universe's original content — a list that includes Titans, Swamp Thing, Stargirl, and Young Justice — is heading to HBO Max, according to DC chief creative officer and publisher Jim Lee in an interview with The Hollywood Reporter. The news comes as WarnerMedia is in the process of a larger reorganization at DC Comics, which was also hit by a wave of layoffs this week.
+<a href='https://www.theverge.com/2020/8/14/21369285/dc-universe-original-shows-hbo-max-changes-streaming-lineup'> Source <a/>

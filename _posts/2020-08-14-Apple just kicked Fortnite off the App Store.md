@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G8KqwKoZwrJ6Sj2DPrvFxoSHmX8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67200325/vpavic_180607_2652_0075.9.jpg' width='700px' /><br/>
-Apple has removed Epic Games' battle royale game Fortnite from the App Store after the developer on Thursday implemented its own in-app payment system that bypassed Apple's standard 30 percent fee
-<a href='https://www.theverge.com/2020/8/13/21366438/apple-fortnite-ios-app-store-violations-epic-payments'> Source <a/>

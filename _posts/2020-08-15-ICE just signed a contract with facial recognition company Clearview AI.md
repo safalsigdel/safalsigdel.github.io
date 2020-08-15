@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ixsyX7AV6gN_GvUdv02fVlTVaXo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67205073/acastro_190204_1777_privacy_0002.0.jpg' width='700px' /><br/>
+Immigration and Customs Enforcement (ICE) signed a contract with facial recognition company Clearview AI this week for “mission support,” government contracting records show (as first spotted by the tech accountability nonprofit Tech Inquiry). The purchase order for $224,000 describes “clearview licenses” and lists “ICE mission support dallas” as the contracting office.
+<a href='https://www.theverge.com/2020/8/14/21368930/clearview-ai-ice-contract-privacy-immigration'> Source <a/>

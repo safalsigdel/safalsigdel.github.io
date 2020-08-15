@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lHwcWUA-cFxYrTGH7gPJ5s6loIY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67200271/akrales_180329_2351_1492.0.jpg' width='700px' /><br/>
-Daimler, the parent company of Mercedes-Benz, is paying over $2 billion to make its own diesel emissions cheating scandal go away in the United States.
-<a href='https://www.theverge.com/2020/8/13/21367768/daimler-diesel-emissions-cheating-scandal-settlement-us-amount'> Source <a/>
