@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tnNXoPfuD_YE_n3X0vJuCwa1-J4=/0x0:6057x4697/1200x800/filters:focal(2436x838:3404x1806)/cdn.vox-cdn.com/uploads/chorus_image/image/67209469/1266320710.jpg.0.jpg' width='700px' /><br/>
+President Donald Trump has joined Triller, a rival to the video sharing app TikTok that he wants ban in the US. First noted by New York Times reporter Taylor Lorenz, Trump's Triller account (@donaldjtrump) has about 3,500 followers, and his introductory video has more than 590,000 views.
+<a href='https://www.theverge.com/2020/8/15/21370376/president-trump-tiktok-triller-ban-bytedance'> Source <a/>
