@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kHq39Z0Z1aEIwLIu0cYij0mrUW0=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/67203182/200108_AAC_07586.0.jpg' width='700px' /><br/>
-Games Done Quick's (GDQ) next big speedrunning marathon for charity will kick off on August 16th at 11:30AM ET / 7:30AM PT on Twitch. This year's summer GDQ will be a bit different than past years due to the pandemic: instead of taking place in a giant room filled with people, it will be entirely virtual.
-<a href='https://www.theverge.com/2020/8/14/21366548/summer-games-done-quick-2020-gdq-online-virtual-speedrun-marathon-charity'> Source <a/>
