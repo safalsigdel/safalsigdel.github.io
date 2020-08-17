@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IebxprNsuXWawCJP8wz_etLUp4I=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/67215017/1228043947.jpg.0.jpg' width='700px' /><br/>
+The UK has said that students in England and Wales will no longer receive exam results based on a controversial algorithm after accusations that the system was biased against students from poorer backgrounds, Reuters and BBC News report. The announcement followed a weekend of demonstrations at which protesters chanted “fuck the algorithm” outside the country's Department for Education.
+<a href='https://www.theverge.com/2020/8/17/21372045/uk-a-level-results-algorithm-biased-coronavirus-covid-19-pandemic-university-applications'> Source <a/>
