@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YE2QfPLQpUfw-pTrE9ucA8TYrIo=/0x0:5963x3354/1200x675/filters:focal(2505x1200:3459x2154)/cdn.vox-cdn.com/uploads/chorus_image/image/67204834/dseifert_200811_4139_0001.0.0.jpg' width='700px' /><br/>
-Five years since the first Apple Watch and a full seven years on from Samsung's Galaxy Gear, we know what a smartwatch is. We know that it's not going to replace your smartphone anytime soon, that it will need to be charged every day or two, and that its best functions are for fitness tracking and seeing notifications when your phone isn't in your hand.
-<a href='https://www.theverge.com/21368752/samsung-galaxy-watch-3-review-price-specs-features'> Source <a/>
