@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i06-Pkg95h0UbOAEG0zxJxrKUdU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67202784/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
-When you delete something from Instagram you expect it to be gone for good. But when security researcher Saugat Pokharel requested a copy of photos and direct messages from the photo-sharing app, he was sent data he'd deleted more than a year ago, showing that the information had never been entirely removed from Instagram's servers.
-<a href='https://www.theverge.com/2020/8/14/21368602/instagram-kept-deleted-photos-messages-on-servers-year-bug-fixed'> Source <a/>

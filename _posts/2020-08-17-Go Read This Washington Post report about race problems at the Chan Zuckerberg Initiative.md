@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rOBEkcsPqvPYPlcGpD4Ma3lsgWM=/0x0:3000x1962/1200x800/filters:focal(1260x741:1740x1221)/cdn.vox-cdn.com/uploads/chorus_image/image/67212218/512267506.jpg.0.jpg' width='700px' /><br/>
+Facebook has come under heavy criticism over the past year for how the social media behemoth has fumbled its approach to civil rights issues on the platform. A recent audit found that despite recent steps to expand its policies and prohibit discrimination, Facebook continues to undermine its own progress.
+<a href='https://www.theverge.com/2020/8/16/21371291/zuckerberg-chan-facebook-bias-go-read-this-washington-post'> Source <a/>
