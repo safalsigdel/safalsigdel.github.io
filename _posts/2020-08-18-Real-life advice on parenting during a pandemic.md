@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GvFp6gyNpo_H9QYCXGiDUqfNRYg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67213810/VRG_ILLO_4145_001.0.jpg' width='700px' /><br/>
-Being a parent is not easy at the best of times — and these are definitely not the best of times. It was hard enough trying to keep kids happy, healthy, and busy during a summer where they might be stuck at home, isolated from their friends and grandparents, and missing experiences like camp or family trips. Now school is starting, and kids (and parents) have to deal with going to school during a pandemic or trying to learn remotely.
-<a href='https://www.theverge.com/21364817/kids-school-covid-19-pandemic-parenting-advice'> Source <a/>
