@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4Ew-IhGE9wO1pV-ewPZPVTVP5Ys=/0x0:3280x2443/1200x800/filters:focal(1378x960:1902x1484)/cdn.vox-cdn.com/uploads/chorus_image/image/67220576/Moment_MTW_008.0.jpg' width='700px' /><br/>
+Moment is announcing an expansion of its softgoods line with the new Moment Travelwear bags. The new bags, which include a backpack, a tote bag, gadget organizers, and other accessories, are available through a Kickstarter campaign that starts today. Moment expects to start shipping the bags by November of this year.
+<a href='https://www.theverge.com/21372954/moment-travelwear-backpack-tote-organizer-bag-line-price-specs-features'> Source <a/>

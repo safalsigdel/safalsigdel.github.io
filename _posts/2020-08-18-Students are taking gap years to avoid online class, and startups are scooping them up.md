@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mf17Cc0-23o8xS9cHkKyClJHNRg=/0x0:2800x1943/1200x800/filters:focal(1176x748:1624x1196)/cdn.vox-cdn.com/uploads/chorus_image/image/67215200/1228009805.jpg.0.jpg' width='700px' /><br/>
-Only 2.5 percent of colleges are planning a fully in-person semester this upcoming year. Rather than spend a year staring at Zoom, some students are considering taking the semester off. Startups see this as an opportunity to recruit these students into virtual fall internships, Bloomberg reports.
-<a href='https://www.theverge.com/2020/8/17/21371999/college-startups-pandemic-coronavirus-covid19-internships-fall'> Source <a/>
