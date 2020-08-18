@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M57bTZfkmnU-V46HYyJU7OuoqPk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67216108/apple_fortnite_1984_parody.0.png' width='700px' /><br/>
-Epic says that Apple has threatened to cut off its access to all iOS and Mac developer tools as retaliation for sneaking a new payment option into Fortnite last week — a stunt that ended in the app being banned from the App Store and Epic filing a blockbuster antitrust lawsuit against Apple, claiming it places illegal restrictions on the distribution of iOS apps.
-<a href='https://www.theverge.com/2020/8/17/21372480/apple-epic-threat-developer-tools-agreement-unreal-engine-fortnite'> Source <a/>
