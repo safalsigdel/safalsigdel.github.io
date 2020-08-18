@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Gd0rIcQ3ZZuON44uP_HaqbHVh-Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67215294/jbareham_180515_2574_0006.0.jpg' width='700px' /><br/>
-If you want to purchase a phone with an under-display front camera right now, you're out of luck. While several companies have tested the feature, none have yet to ship one to consumers. But that should change soon, as ZTE aims to become the first company to mass-produce and ship a phone with an under-display camera next month.
-<a href='https://www.theverge.com/2020/8/17/21372053/zte-axon-20-5g-first-mass-produced-under-display-5g-smartphone'> Source <a/>
