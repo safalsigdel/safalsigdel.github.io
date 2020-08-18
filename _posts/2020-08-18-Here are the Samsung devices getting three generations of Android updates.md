@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hfLTgD1Yz7NoqX5cqLnhtcy7hlA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67218702/bfarsace_200803_4124_0016.0.jpg' width='700px' /><br/>
+Samsung has confirmed exactly which of its devices will be receiving “three generations” of Android updates, after announcing the initiative at its Note 20 launch event earlier this month. As expected, the list includes flagship phones going back to last year's Galaxy S10, but there are also a couple of new inclusions from Samsung's foldable and tablet ranges.
+<a href='https://www.theverge.com/2020/8/18/21373308/samsung-three-generations-android-updates-upgrades-11-12-13-os'> Source <a/>
