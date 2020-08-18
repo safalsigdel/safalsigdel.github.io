@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mfc2f0IZc3TCQ0GvJZLuu--KkwQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67216829/acastro_200207_3900_chrome_0001.0.0.jpg' width='700px' /><br/>
+Chrome for Android will begin adding “fast page” labels to the context menus of pages it considers high-quality, Google announced Monday. The company says the labels will be based on signals from its Core Web Vitals metrics, which keep track of user experience, including page load time, responsiveness, and how stable content is while it loads.
+<a href='https://www.theverge.com/2020/8/17/21372335/chrome-android-search-labels-google'> Source <a/>

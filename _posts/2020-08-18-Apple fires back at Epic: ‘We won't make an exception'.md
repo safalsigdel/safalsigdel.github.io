@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JU_ZjE7DaEIEPj4RwryNQ2WGa80=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67218124/acastro_200813_4147_gatedGardens_0001.0.0.jpg' width='700px' /><br/>
+Apple has responded to Epic Games' latest salvo in the ongoing dispute between the two companies. Epic had said that Apple is threatening to revoke its access to iOS and Mac developer tools by removing it from the Apple Developer Program unless it cuts a rule-violating payment processing option that it snuck into Fortnite.
+<a href='https://www.theverge.com/2020/8/17/21373108/apple-response-epic-app-store-fortnite-lawsuit'> Source <a/>

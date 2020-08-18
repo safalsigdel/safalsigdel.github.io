@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BfzXobfuSGeFHEJg7KhvM8f9XzA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67209648/acastro_180417_1777_telegram_0004.0.jpg' width='700px' /><br/>
-Secure messaging app Telegram has launched an alpha version of one-on-one video calls on both its Android and iOS apps, the company announced, saying 2020 had “highlighted the need for face-to-face communication.”
-<a href='https://www.theverge.com/2020/8/15/21370420/telegram-video-calls-os-android'> Source <a/>

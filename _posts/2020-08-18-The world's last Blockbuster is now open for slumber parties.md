@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ckjanTD04vcPQhH5sMeECj8Tkbk=/0x0:1800x1200/1200x800/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/67216311/bfarsace_180828_2907_0006.0.jpg' width='700px' /><br/>
+If you're a resident of Deschutes County, Oregon, you could host a slumber party in the world's last remaining Blockbuster video store.
+<a href='https://www.theverge.com/2020/8/17/21372440/blockbuster-video-store-airbnb-location-price-movies-booking'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CdomC75o_qb7c2xoNlH6UuTQ9WA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67206114/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-If you're in an important videoconferencing session and you are getting an infodump that you know you won't remember, it can be very useful to have a transcription of that session. Video and audio recordings are all well and good, but a text version of your meeting can be a lot easier to search if you're looking for that one specific bit of data inside of an hour's worth of conversation.
-<a href='https://www.theverge.com/21368867/transcription-google-docs-live-transcribe-how-to-zoom'> Source <a/>

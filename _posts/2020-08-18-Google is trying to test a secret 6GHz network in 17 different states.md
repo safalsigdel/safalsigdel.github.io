@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sWDgp4n6fJpCey22k_PSsP56PZc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67217882/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google is trying to secretly test a 6GHz network in 17 different states, according to a batch of FCC filings spotted by Business Insider. But exactly what Google is trying to test is unclear.
+<a href='https://www.theverge.com/2020/8/17/21372797/google-fcc-test-6ghz-network-17-states'> Source <a/>

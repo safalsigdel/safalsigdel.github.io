@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SR8x-miyLTCFW0jg2K-FO7wpzLQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67208806/acastro_180430_1777_tesla_0001.0.jpg' width='700px' /><br/>
-Tesla CEO Elon Musk tweeted Friday that two-factor authentication for its app is “embarrassingly late” but apparently is now on the way. Musk didn't provide a timeline, but said on Twitter that two-factor authentication — which adds an additional step to verify a user's identity at sign-in— is in “final validation.”
-<a href='https://www.theverge.com/2020/8/15/21370140/musk-tesla-2fa-security-cars'> Source <a/>

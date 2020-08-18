@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yKWTpfbnARwGADj9cK_tQBCWoNg=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/67211064/1183851779.jpg.0.jpg' width='700px' /><br/>
-A bald eagle beat the crap out of a government drone mapping the shoreline of Lake Michigan, ripping off its propeller and sending it plunging to the lake's bottom, according to the Michigan Department of Environment, Great Lakes, and Energy.
-<a href='https://www.theverge.com/2020/8/16/21370357/bald-eagle-drone-egle-michigan'> Source <a/>

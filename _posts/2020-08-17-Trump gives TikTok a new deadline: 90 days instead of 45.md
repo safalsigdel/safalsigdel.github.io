@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cqZ6VlsULQnAw1FOzlAk6kany5U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67207346/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
-President Trump issued an executive order Friday giving ByteDance 90 days to either sell or spin off its TikTok business in the US.
-<a href='https://www.theverge.com/2020/8/14/21369753/bytedance-tiktok-trump-china-app-privacy-90-days'> Source <a/>

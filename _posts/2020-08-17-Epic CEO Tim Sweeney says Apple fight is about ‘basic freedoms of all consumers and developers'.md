@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qWgc7fUt3ZWR09UZg5ZP5AkQxXg=/0x0:4268x3000/1200x800/filters:focal(1285x429:1967x1111)/cdn.vox-cdn.com/uploads/chorus_image/image/67206907/1155583303.jpg.0.jpg' width='700px' /><br/>
-Epic Games CEO Tim Sweeney has issued a series of public comments on his personal Twitter account regarding the legal fight the Fortnite creator initiated with Apple yesterday, following the iPhone maker's removal of the game from the App Store. In the four-part thread, Sweeney says the fight isn't about money. Rather, he says Epic is fighting for “the basic freedoms of all consumers and developers.”
-<a href='https://www.theverge.com/2020/8/14/21369622/epic-ceo-tim-sweeney-apple-fortnite-lawsuit-ban-basic-freedoms-developers'> Source <a/>

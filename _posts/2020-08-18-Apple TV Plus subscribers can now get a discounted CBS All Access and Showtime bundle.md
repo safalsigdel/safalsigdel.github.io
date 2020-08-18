@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/22-x7eBX7sRJS30dZQlt_RpWLqU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67215244/acastro_191028_1777_appleTV_plus_0002.0.0.jpg' width='700px' /><br/>
+Apple TV Plus subscribers can now get a subscription to both CBS All Access and Showtime for $9.99 per month, making it the first video bundle available for subscribers to Apple's premium streaming service (via 9to5Mac).
+<a href='https://www.theverge.com/2020/8/17/21372128/apple-tv-plus-cbs-all-access-showtime-subscription-deal'> Source <a/>
