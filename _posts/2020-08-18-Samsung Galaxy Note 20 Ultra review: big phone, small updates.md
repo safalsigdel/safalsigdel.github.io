@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9377/SQ_vpavic_200807_4133_0107.jpeg' width='700px' /><br/>
+Samsung has settled into a new routine for its Galaxy Note line of smartphones: take some of the major new features from the flagship Galaxy S updates from earlier in the year, improve on them slightly, and add a stylus. Instead of being the first with new technology, the Note has become the phone that refines it.
+<a href='https://www.theverge.com/21372109/samsung-galaxy-note-20-ultra-review-camera-price-photos-s-pen-notes'> Source <a/>

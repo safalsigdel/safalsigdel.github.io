@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qYIRQHu0tcDrgKKGwEkH57_vAWA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67214826/bfarsace_120612_3970_0005.0.jpg' width='700px' /><br/>
-The US Secret Service (USSS) signed a contract to access Locate X, a service that lets law enforcement track phone users' locations. Motherboard published apparent confirmation of the deal this morning, following a Protocol report in March. The contract indicates that the USSS paid Virginia company Babel Street around $36,000 to add Locate X to a $2 million social media monitoring package.
-<a href='https://www.theverge.com/2020/8/17/21371886/secret-service-usss-locate-x-babel-street-foia-contract-report'> Source <a/>

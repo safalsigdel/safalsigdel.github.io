@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zEUZjzWkYLwVk8cQt9Kyx-Do_RY=/0x0:2418x1360/1200x800/filters:focal(1016x487:1402x873)/cdn.vox-cdn.com/uploads/chorus_image/image/67214856/bfarsace_200302_3873_0004.0.jpg' width='700px' /><br/>
-Independent Apple repair stores will now be able to fix more than just iPhones with authorized parts. Apple announced today that it's expanding its independent repair program to cover Macs, meaning stores will receive training and real Apple parts to fix Macs. It isn't clear what kind of repairs stores will be able to conduct on Macs or what parts they'll be able to buy.
-<a href='https://www.theverge.com/2020/8/17/21372022/apple-independent-repair-program-mac-fix'> Source <a/>

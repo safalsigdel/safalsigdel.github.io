@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g8BYBpewuQ44laMKncg2rEU1m1M=/0x0:2040x1350/1200x800/filters:focal(857x512:1183x838)/cdn.vox-cdn.com/uploads/chorus_image/image/67214508/VRG_ILLO_1777_Huawei_004.0.jpg' width='700px' /><br/>
-The Trump administration is further tightening restrictions on Chinese phone manufacturer Huawei, making it more difficult for the company to get chips for its devices. And a temporary general license that offered a reprieve for Huawei customers has now expired and won't be extended, making it harder for older Huawei devices to receive Android updates from Google.
-<a href='https://www.theverge.com/2020/8/17/21371850/trump-huawei-restrictions-china-android-updates'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+The modern office cubicle is almost synonymous with the drudgery of a soul-crushing office job. But if for some reason you've found yourself missing the not-quite-solid not-quite-walls of your regular office, Panasonic is working to bring the magic of cubicles to your work-from-home life with its new 88,000 yen (around $835) Komoru home cubicle.
+<a href='https://www.theverge.com/tldr/2020/8/18/21373455/panasonic-komoru-home-cubicle-work-from-home-office-design'> Source <a/>
