@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Yesterday was a three and I felt that. The day before was an eight and unmistakably so. It just had that eight feeling, you know? Where you're looking out the window, and everything pauses, just for a second, and you've got a mug of coffee in one hand and a glazed donut in the other, and you stand there and you think to yourself ... eight. Right?
+<a href='https://www.theverge.com/tldr/2020/8/19/21374929/what-is-todays-number-david-lynch-1-2-3-4-5-6-7-8-9-10-good-seo'> Source <a/>
