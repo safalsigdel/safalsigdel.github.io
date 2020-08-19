@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jbw4ZjEcbsqdtyGi-WukLftXIOk=/0x0:5343x3648/1200x800/filters:focal(2245x1397:3099x2251)/cdn.vox-cdn.com/uploads/chorus_image/image/67219462/1207979921.jpg.0.jpg' width='700px' /><br/>
-So you're dealing with a pandemic, a full-time job that has gone remote, and / or kids who are heading back to school (or not, as the case may be). With all that, and more, who has time to clean?
-<a href='https://www.theverge.com/21356067/zoom-background-video-conferencing-skype-teams-jitsi-how-to'> Source <a/>

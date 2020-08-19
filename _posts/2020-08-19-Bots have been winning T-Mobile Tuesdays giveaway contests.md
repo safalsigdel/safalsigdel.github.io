@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Iqq0AuDgdNyH75nsIHSq227Q0NA=/0x0:4200x2803/1200x800/filters:focal(1764x1066:2436x1738)/cdn.vox-cdn.com/uploads/chorus_image/image/67222272/1220260462.jpg.0.jpg' width='700px' /><br/>
+In July, astute Reddit users noticed an odd pattern among the recent winners of T-Mobile's “T-Mobile Tuesdays” sweepstakes. A disproportionate number of the public winners were located in the tiny township of Chadds Ford, Pennsylvania.
+<a href='https://www.theverge.com/2020/8/18/21374045/tmobile-tuesdays-giveaway-bots-scam-pennsylvania-sweepstakes-contest'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BqoEd7kjKpahLOU53gR0Tn-we6g=/0x0:1290x1112/1200x800/filters:focal(542x453:748x659)/cdn.vox-cdn.com/uploads/chorus_image/image/67222056/Screen_Shot_2020_08_18_at_2.31.33_PM.0.png' width='700px' /><br/>
+The first look at Fitbit's new smartwatches, the Versa 3 and Sense, have leaked, courtesy of WinFuture, showing off the upcoming fitness tracking-focused devices.
+<a href='https://www.theverge.com/2020/8/18/21374022/fitbit-versa-3-sense-inspire-2-leak-render-smartwatch'> Source <a/>

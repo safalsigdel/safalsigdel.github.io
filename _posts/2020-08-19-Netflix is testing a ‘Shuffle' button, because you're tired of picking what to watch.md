@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dMmJIpqdxjQ4pf2jFeBNQ-U8OVo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67223340/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
+Does your Netflix home screen — you know, the one with your user profiles — now have a “Shuffle Play” button?
+<a href='https://www.theverge.com/2020/8/18/21374543/netflix-shuffle-play-test-random-tv-movies'> Source <a/>

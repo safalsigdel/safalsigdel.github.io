@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tqmhzapAcRDrV0RY4fgmoW99EfE=/0x0:2434x1360/1200x800/filters:focal(1023x486:1411x874)/cdn.vox-cdn.com/uploads/chorus_image/image/67216251/Screen_Shot_2020_08_17_at_3.09.15_PM.0.png' width='700px' /><br/>
-Samsung's $500 Galaxy A51 5G will arrive on AT&T on August 21st, joining T-Mobile (which got the device on August 7th) and Verizon (which got a mmWave-equipped A51 5G UW variant on August 13th).
-<a href='https://www.theverge.com/2020/8/17/21372394/samsung-galaxy-a51-5g-att-sub-6ghz-smartphone-date'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W6rq1fCkQ2PJHKS0fU5KMNZB52k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67218819/acastro_200713_1777_tikTok_0001.0.5.jpg' width='700px' /><br/>
-Well, you know how it is. Head out the door for a long-planned vacation, pray nothing major erupts before you get back, and before you can so much as pack a suitcase the president announces that ByteDance must sell TikTok — or else TikTok will be banned in the United States.
-<a href='https://www.theverge.com/interface/2020/8/18/21372087/tiktok-sale-ramifications-splinternet-china-trump'> Source <a/>

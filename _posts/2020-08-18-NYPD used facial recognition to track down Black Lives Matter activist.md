@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yNKRxwpNidBPQ3mh-MyTIVN0VNo=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/67218774/1264758330.jpg.0.jpg' width='700px' /><br/>
-The New York City Police Department used facial recognition software to track down a Black Lives Matter activist accused of assault after allegedly shouting into a police officer's ear with a bullhorn. The mayor's office says it will “reassess” standards for using facial recognition after criticism that the case shows the technology being used indiscriminately.
-<a href='https://www.theverge.com/2020/8/18/21373316/nypd-facial-recognition-black-lives-matter-activist-derrick-ingram'> Source <a/>

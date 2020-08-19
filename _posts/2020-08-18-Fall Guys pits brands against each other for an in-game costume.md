@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ug55eKvVG-16aKHcozGc4k1NIUU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67216285/ss_b2b6b170330b8af1f50d0e90efad984adafeb281.1920x1080.0.jpg' width='700px' /><br/>
-Fall Guys: Ultimate Knockout developer Mediatonic is forcing The Brands to fight in the name of charity. The game's official account tweeted today that because “the thirst from brands has been unreal,” it will create a special costume to the highest bidder. All proceeds will go to Special Effect, a UK-based charity for gamers with physical disabilities.
-<a href='https://www.theverge.com/2020/8/17/21372445/fall-guys-brand-costume-charity-special-effect'> Source <a/>

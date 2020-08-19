@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sKJcTMKOgaDQss6HMQ1JaYeknKE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67223522/akrales_180817_2578_0107.0.jpg' width='700px' /><br/>
+For a period of time starting in 2005, Apple allowed two US government contractors to work in its offices to develop a custom version of the iPod — but exactly what that iPod would do was a mystery, and remains so today, as shared in this fascinating story by former iPod engineer David Shayer that you should go read.
+<a href='https://www.theverge.com/2020/8/18/21374491/go-read-this-apple-us-government-secret-custom-ipod-david-shayer'> Source <a/>

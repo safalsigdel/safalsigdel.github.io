@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F3Y9mevqWmkISRaXurHx7JIYbUA=/0x0:1804x1686/1200x675/filters:focal(668x140:956x428)/cdn.vox-cdn.com/uploads/chorus_image/image/67222262/Screen_Shot_2020_08_18_at_3.45.12_PM.0.png' width='700px' /><br/>
+The anti-Trump Lincoln Project has a reputation for goofy memes attacking the Trump administration online, so when they posted a whimsical fancam in support of the United States Postal Service on Twitter over the weekend, it seemed par for the course.
+<a href='https://www.theverge.com/2020/8/18/21374210/lincoln-project-meme-theft-markey-usps-content-fuckjerry-fatjewish'> Source <a/>

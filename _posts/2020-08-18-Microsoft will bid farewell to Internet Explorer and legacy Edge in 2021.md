@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s_MQV_pQ9Ck9baEiO1PAaJqzbJ0=/0x0:640x427/1200x800/filters:focal(269x163:371x265)/cdn.vox-cdn.com/uploads/chorus_image/image/67216186/internetexplorer.0.png' width='700px' /><br/>
-Microsoft will end support for Internet Explorer 11 across its Microsoft 365 apps and services next year. In exactly a year, on August 17th, 2021, Internet Explorer 11 will no longer be supported for Microsoft's online services like Office 365, OneDrive, Outlook, and more. Microsoft is also ending support for Internet Explorer 11 with the Microsoft Teams web app later this year, with support ending on November 30th.
-<a href='https://www.theverge.com/2020/8/17/21372487/microsoft-internet-explorer-11-support-end-365-legacy-edge'> Source <a/>

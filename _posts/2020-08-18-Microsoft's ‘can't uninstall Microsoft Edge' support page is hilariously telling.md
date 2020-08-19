@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jmhgicu6EHDMzk9SE3QS9Tfhg0A=/0x0:2040x1351/1200x800/filters:focal(936x439:1262x765)/cdn.vox-cdn.com/uploads/chorus_image/image/67217513/chromiumedgestoryhed.0.jpg' width='700px' /><br/>
-Look, I'm sure that the new Microsoft Edge is a fantastic web browser. I'm looking forward to trying it someday.
-<a href='https://www.theverge.com/2020/8/17/21372846/microsoft-cant-uninstall-microsoft-edge-web-browser-editorial'> Source <a/>
