@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-Cxhg1TlyPRQ41NotiW7C6QlAIo=/0x0:2040x1360/1200x800/filters:focal(953x533:1279x859)/cdn.vox-cdn.com/uploads/chorus_image/image/67225849/pesposito_200420_3983_0004.0.0.jpg' width='700px' /><br/>
+As the coronavirus pandemic has unfortunately carried on into the beginning of a new school year, many are having to turn their homes into classrooms. Whether conducting class sessions from home is new for you or not, these accessories can make schooling from home easier and, hopefully, a less frustrating experience.
+<a href='https://www.theverge.com/21375190/best-home-school-virtual-learning-zoom-gadgets-accessories-tech'> Source <a/>

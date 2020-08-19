@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kVcKvm1Y1H8vt1FT4u3mpqZIai8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67225883/akrales_181102_3064_0024.0.jpg' width='700px' /><br/>
+If you're looking to upgrade your iPad but don't necessarily need the latest or most powerful version of the iPad Pro, you can save a lot of money on the previous generation of the iPad Pro from 2018 for a limited time. It's steeply discounted, and what's better, this model includes support for 4G LTE in addition to Wi-Fi, which is handy if you're on the go and want to stick a SIM card into it.
+<a href='https://www.theverge.com/good-deals/2020/8/19/21374369/apple-2018-ipad-pro-4g-lte-deal-sale-applecare-flcl-bh-photo'> Source <a/>

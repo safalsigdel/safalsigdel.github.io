@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JMHjUiEI-j72IyhPrFBj4DHcXrA=/0x0:2346x1563/1200x800/filters:focal(986x595:1360x969)/cdn.vox-cdn.com/uploads/chorus_image/image/67220569/Untitled_1.0.jpg' width='700px' /><br/>
-Google Maps is being redesigned to make it easier to distinguish between natural features in the environment, whether they're mountainous ice caps, deserts, beaches, or dense forests. Google says the new maps will be available in the 220 countries and territories currently supported by Google Maps, “from the biggest metropolitan areas to small, rural towns.” Google says that street maps are also getting more detailed in select cities.
-<a href='https://www.theverge.com/2020/8/18/21373363/google-maps-redesign-detail-natural-features-environment'> Source <a/>

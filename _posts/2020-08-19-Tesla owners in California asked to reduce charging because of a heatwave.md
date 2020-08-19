@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XpdGDV4el2NZrtIOJOjEl4Q9vkg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67221759/acastro_180430_1777_tesla_0001.0.jpg' width='700px' /><br/>
-Some Tesla owners in California are being asked to charge their cars less — both at home and with the company's Superchargers — to help conserve energy during an extreme heatwave. Pictures of the in-car notice surfaced on Reddit yesterday, and The Verge confirmed multiple Tesla owners in California received it.
-<a href='https://www.theverge.com/2020/8/18/21373871/tesla-owners-california-reduce-charging-supercharging-heat-wave'> Source <a/>

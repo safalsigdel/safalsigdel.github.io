@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8DVxXMZeo4HpC6hhy1fUVestIkU=/0x0:1200x1200/1200x800/filters:focal(705x183:897x375)/cdn.vox-cdn.com/uploads/chorus_image/image/67221204/VRG_PrimeSlime_Mimeoplasm.0.0.jpg' width='700px' /><br/>
-Magic: The Gathering has been around a long time and has experimented with a ton of art styles in the past — some serious, some silly, some realistic, some cartoon-y. But yesterday's Secret Lair surprise drop, “Prime Slime,” takes the cake in my opinion with its extremely punk aesthetic and lighthearted chaos. It's been a long time since I've seen such unabashedly fun art in the game.
-<a href='https://www.theverge.com/2020/8/18/21373538/magic-prime-slime-secret-lair-amazing-punk-art'> Source <a/>

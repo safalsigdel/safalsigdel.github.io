@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hpohzBMINcu-zwZjCapnMORMD3w=/0x0:627x414/1200x800/filters:focal(264x157:364x257)/cdn.vox-cdn.com/uploads/chorus_image/image/67225613/zoom.0.png' width='700px' /><br/>
+Zoom is expanding to a variety of new devices later this year, with the company announcing that the Amazon Echo Show, Facebook Portal, and Google Nest Hub Max will support the widely used videoconferencing app later this year.
+<a href='https://www.theverge.com/2020/8/19/21373661/zoom-smart-displays-facebook-portal-google-nest-amazon-echo-show'> Source <a/>

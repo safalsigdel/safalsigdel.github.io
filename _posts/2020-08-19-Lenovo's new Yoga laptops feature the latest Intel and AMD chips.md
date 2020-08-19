@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/613v-FmUBPc14AA4md4LbNZZ1uU=/0x0:2000x1500/1200x800/filters:focal(840x590:1160x910)/cdn.vox-cdn.com/uploads/chorus_image/image/67221247/07_Yoga_7i_15.0.jpg' width='700px' /><br/>
-When you're writing about laptops, “spec bump” is often code for “boring.” But here's a spec bump I'm actually very excited about. Behold: Lenovo has rebranded its Yoga C740 and Yoga C640 as the Yoga 7i and Yoga 6, respectively.
-<a href='https://www.theverge.com/2020/8/18/21373719/lenovo-yoga-7i-6-convertible-laptops-intel-amd-processors-windows'> Source <a/>

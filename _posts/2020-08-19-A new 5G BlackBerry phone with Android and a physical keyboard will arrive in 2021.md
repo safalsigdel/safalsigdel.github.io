@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f9S1lzh4RDHCuOKjry80_z2NLkE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67225397/verge-2015-11-06_15-38-09.0.0.jpg' width='700px' /><br/>
+The once-respected BlackBerry brand has been licensed yet again by a company hoping to use a familiar name to make a dent in the competitive Android phone market. This time, it's a new Texas startup named OnwardMobility that's taking the reins, promising to release a 5G BlackBerry device with Android and a physical QWERTY keyboard in 2021.
+<a href='https://www.theverge.com/2020/8/19/21375026/5g-blackberry-phone-android-physical-keyboard-2021-release-date'> Source <a/>

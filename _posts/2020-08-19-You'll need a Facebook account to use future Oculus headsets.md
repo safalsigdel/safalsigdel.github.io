@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vI4yq_ShG59lakWks8rOZk7r-vw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67221009/akrales_190429_3371_0087.0.jpg' width='700px' /><br/>
-Oculus will soon require all of its virtual reality headset users to sign up with a Facebook account. The Facebook-owned company says it will start removing support for separate Oculus accounts in October, although users can maintain an existing account until January 1st, 2023. All users can maintain a distinct “VR profile” with a separate friends list.
-<a href='https://www.theverge.com/2020/8/18/21372435/oculus-facebook-login-change-separate-account-support-end-quest-october'> Source <a/>

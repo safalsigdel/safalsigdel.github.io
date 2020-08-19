@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Pp-JsWmtZjr-_NlMyM-8JyMIQHs=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/67221477/acastro_180509_1777_steam_0001.0.0.jpg' width='700px' /><br/>
-EA's subscription service is coming to Steam very soon. Today, the publisher announced that the recently renamed EA Play will launch on Steam on August 31st. This marks the fourth platform on which the service will be available, following the PS4, Xbox One, and EA's own Origin storefront on PC.
-<a href='https://www.theverge.com/2020/8/18/21373983/ea-play-subscription-service-steam-release-date'> Source <a/>
