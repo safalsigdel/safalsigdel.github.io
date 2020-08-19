@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v8Lc8CWGhs-2smLDscm0XUwsVTo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67227490/akrales_170324_1554_A_0048.0.0.jpg' width='700px' /><br/>
+Lucid Motors announced that its forthcoming all-electric sedan, the Lucid Air, will be the “fastest charging electric vehicle ever offered.” The company claims the Air will have the capability to charge at rates of up to 20 miles per minute — which translates to 300 miles in about 20 minutes.
+<a href='https://www.theverge.com/2020/8/19/21375308/lucid-motors-air-ev-charging-time-miles-minutes'> Source <a/>
