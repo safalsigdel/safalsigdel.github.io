@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/48Tatm5E5vQomOPE6qj69JpHaSs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67228544/pcheung180509_2560_0001.0.jpg' width='700px' /><br/>
-In a podcast interview Wednesday, Uber CEO Dara Khosrowshahi rejected the notion his company is capable of employing all of its drivers in California, as a state judge has ordered it to do.
-<a href='https://www.theverge.com/2020/8/19/21376009/uber-ceo-interivew-california-ab5-drivers-khosrowshahi'> Source <a/>
