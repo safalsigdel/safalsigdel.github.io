@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zPzyFztUNMLx14tbqNtW_3Juu4A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67225199/acastro_180213_1777_0001.0.jpg' width='700px' /><br/>
-Spotify experienced a widespread outage affecting song playback today. The problems first started around 8AM ET and prevented a large number of Spotify users from playing songs properly for more than an hour. Songs only played only for a few seconds before they paused and the Spotify client displayed the error “can't play the current song.” Spotify said it was “aware of some issues right now and are checking them out.”
-<a href='https://www.theverge.com/2020/8/19/21375032/spotify-down-songs-loading-issues-outage'> Source <a/>
