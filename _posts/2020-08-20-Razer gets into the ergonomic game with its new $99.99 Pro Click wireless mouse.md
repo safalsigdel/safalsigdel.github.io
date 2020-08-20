@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OphgfoUxY8w4t7u3Ij1PICVMkq4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67232757/cfaulkner_200818_4155_0007.0.0.jpg' width='700px' /><br/>
+Razer is best known for its all-black, LED-filled gaming accessories that are built to keep you gaming at your peak. But its latest lineup, consisting of a wireless mouse, a wireless mechanical keyboard, and a mousepad to match, is far simpler in function and design.
+<a href='https://www.theverge.com/2020/8/20/21375181/razer-pro-click-type-ergonomic-wireless-mouse-mechanical-keyboard-humanscale'> Source <a/>
