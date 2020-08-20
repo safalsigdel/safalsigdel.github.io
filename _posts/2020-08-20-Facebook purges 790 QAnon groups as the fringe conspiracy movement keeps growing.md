@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3RPcQfNXOW6FiXuLA1-AC2Vd0Kk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67228658/acastro_180806_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook has conducted its biggest purge yet of the pro-Trump QAnon conspiracy movement, announcing on Wednesday that it has removed nearly 800 groups related to the topic in its latest moderation sweep.
-<a href='https://www.theverge.com/2020/8/19/21376157/facebook-qanon-purge-removal-groups-pages-conspiracy-theory-misinformation'> Source <a/>
