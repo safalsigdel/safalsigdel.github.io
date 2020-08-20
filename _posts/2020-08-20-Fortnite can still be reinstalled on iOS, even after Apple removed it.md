@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/34ghmByKINoGYpCGT1N1JMY2R-4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67229440/vpavic_180607_2652_0081.0.jpg' width='700px' /><br/>
+Fortnite disappeared from the App Store last week as part of developer Epic Games' big legal and regulatory showdown with Apple, but the battle royale hit is not gone entirely.
+<a href='https://www.theverge.com/2020/8/19/21376364/fortnite-ios-how-to-reinstall-redownload-app-store-apple-removal-my-purchases'> Source <a/>

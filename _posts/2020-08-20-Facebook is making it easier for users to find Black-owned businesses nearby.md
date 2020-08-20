@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9Lxw18DkUNss0mB46C6UiLBpHag=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67228416/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
+Facebook is making it easier for users to find Black-owned businesses on its platform. The new feature is part of the company's ongoing initiative, announced in June, that aims to aid Black communities.
+<a href='https://www.theverge.com/2020/8/19/21375938/facebook-black-owned-businesses-nearby-feature-subsection'> Source <a/>

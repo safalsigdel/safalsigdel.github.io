@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/19G6QP22aiO8rtxk-2TUUz5qUgc=/0x0:1920x1082/1200x800/filters:focal(807x388:1113x694)/cdn.vox-cdn.com/uploads/chorus_image/image/67222608/canoo_Design_Exterior_07.0.jpg' width='700px' /><br/>
-EV startup Canoo is going public at a valuation of $2.4 billion in an effort to raise enough money to help bring its first vehicle, a VW microbus-style van that was first revealed last year, to market.
-<a href='https://www.theverge.com/2020/8/18/21374272/canoo-ev-startup-spac-ipo-reverse-merger'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NVRqDt9CHAgGJbFxplSvl9EXhkc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67228870/akrales_190822_3612_0135.0.jpg' width='700px' /><br/>
+Fossil has released a new update for its Gen 5 Wear OS smartwatches that add a variety of features to the watches that aren't part of standard Wear OS, including sleep and VO2 max tracking.
+<a href='https://www.theverge.com/2020/8/19/21376185/fossil-gen-5-smartwatches-update-sleep-tracking-vo2-max-activity-battery'> Source <a/>

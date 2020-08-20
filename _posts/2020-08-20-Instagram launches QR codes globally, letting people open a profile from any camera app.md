@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ujaDDxJt7fx3jTvNN3o6pp4f3I8=/0x0:1280x827/1200x800/filters:focal(538x312:742x516)/cdn.vox-cdn.com/uploads/chorus_image/image/67223516/QR_Code_Launch_Image_New.0.png' width='700px' /><br/>
-Instagram is bringing QR codes to the app. Users can now generate QR codes that'll be scannable from any supporting, third-party camera apps. It first launched the product in Japan last year. The idea is that businesses can print their QR code and have customers scan it to open their Instagram account easily. From there, people can see store hours, buy items, or just follow the account.
-<a href='https://www.theverge.com/2020/8/18/21372322/instagram-qr-code-launch-global-nametag'> Source <a/>
