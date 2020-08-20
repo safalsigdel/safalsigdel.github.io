@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/RNtggvlGi23Lx53F7OcejN-5od8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67225799/cfaulkner_200818_4154_0007.0.0.jpg' width='700px' /><br/>
 HP's 2020 Pavilion x360 isn't as powerful or good-looking as its Envy x360. That sounds like huge dings against the Pavilion, but as HP's bottom rung 2-in-1 machine, that's exactly what it's designed to be. And while it doesn't have the same kind of appeal or nearly as much get-up, the particular model that I reviewed has LTE support, a feature that's rarely seen at this price point.
-<a href='https://www.theverge.com/2020/8/19/21374218/hp-pavilion-x360-lte-2020-laptop-review'> Source <a/>
+<a href='https://www.theverge.com/21375183/hp-pavilion-x360-lte-2020-laptop-review'> Source <a/>
