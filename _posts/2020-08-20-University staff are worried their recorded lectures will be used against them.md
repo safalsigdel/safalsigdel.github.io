@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Cva0MAS8Z5BpAn3u97s57MTJQFg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67231976/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
+After American University in Washington, DC made the decision to move classes online this semester in response to the pandemic, it sent teaching staff guidance about how their work would change. When Aram Sinnreich, a media professor at AU specializing in intellectual property, received the documents, he naturally decided to check out the copyright provisions. What he found was strange.
+<a href='https://www.theverge.com/21373669/recorded-lecture-capture-copyright-universities-coronavirus-fears'> Source <a/>

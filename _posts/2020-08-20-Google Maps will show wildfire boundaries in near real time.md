@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/547aLOYCNKaKhUfwJgx3LvHCe9k=/0x0:1921x1081/1200x800/filters:focal(808x388:1114x694)/cdn.vox-cdn.com/uploads/chorus_image/image/67231973/Wildfire_Mockup_Desktop_mobile_V2.0.png' width='700px' /><br/>
+Type in the name of an ongoing wildfire into Google search, and the site will now bring up a map featuring a near-real-time boundary of the fire. Google revealed the feature today, which was piloted in California last year and will now be available across the US.
+<a href='https://www.theverge.com/2020/8/20/21376343/google-maps-search-wildfire-boundaries-california'> Source <a/>

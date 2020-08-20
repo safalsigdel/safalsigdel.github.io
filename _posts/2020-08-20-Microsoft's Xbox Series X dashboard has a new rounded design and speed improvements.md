@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Microsoft is revealing the dashboard and software UI that it plans to use on the Xbox Series X. The software giant is mostly sticking to the same guide and interface that exists on the Xbox One today, with big promises of speed improvements and some new rounded UI elements.
-<a href='https://www.theverge.com/2020/8/19/21375164/microsoft-xbox-series-x-dashboard-design-ui-speed-updates'> Source <a/>
