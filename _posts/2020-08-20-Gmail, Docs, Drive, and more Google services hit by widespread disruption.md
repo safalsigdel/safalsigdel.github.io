@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/yZ8Ny0MZaBIsR_dR152FnkCuFLQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67231314/acastro_180424_1777_gmail_0001.0.0.jpg' width='700px' /><br/>
-A number of Google services including Gmail, Drive, Docs, Meet, Groups, Chat, Keep and Voice are experiencing service disruptions, the company is reporting on its G Suite Status Dashboard.
+A number of Google services including Gmail, Drive, Docs, Meet, Groups, Chat, Keep and Voice experienced service disruptions on Thursday morning, according to the company's G Suite Status Dashboard. As of 7:10AM ET Google says that the Gmail issues have been resolved, and its dashboard has been updated to show that none of its services are experiencing problems.
 <a href='https://www.theverge.com/2020/8/20/21376940/gmail-google-docs-drive-meet-disruption-google-down'> Source <a/>
