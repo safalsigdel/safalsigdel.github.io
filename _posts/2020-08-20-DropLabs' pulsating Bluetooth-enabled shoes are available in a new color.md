@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xaNUIaNdicJiMlJ0dwlaBLwPGVQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67227367/droplabs1.0.jpg' width='700px' /><br/>
-DropLabs has a new upgraded version of its Bluetooth shoes that rumble your feet with bass, which is not only a product that exists, but they're apparently popular enough to warrant a second-generation model.
-<a href='https://www.theverge.com/2020/8/19/21375225/droplabs-ep01-triple-black-bluetooth-bass-smart-shoes'> Source <a/>

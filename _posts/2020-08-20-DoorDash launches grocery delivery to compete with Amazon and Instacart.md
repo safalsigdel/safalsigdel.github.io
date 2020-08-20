@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/H4Dtqsxg06tDpssR1sNJjuK0jJE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67232298/acastro_190724_1777_doordash_0002.0.0.jpg' width='700px' /><br/>
+DoorDash is ramping up its on-demand delivery efforts with the launch of grocery delivery, starting with select chains in markets throughout California and parts of the Midwest. The move follows DoorDash's push into convenience stores earlier this year and its recently announced DashMart virtual store for selling snacks and other food items and over-the-counter goods.
+<a href='https://www.theverge.com/2020/8/20/21376552/doordash-grocery-delivery-amazon-instacart-compete-launch-california-midwest'> Source <a/>

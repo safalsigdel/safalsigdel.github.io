@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PVcFzt8YNk8el05lFWhZVDgPDfo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67226157/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-Apple has become the first US company to hit a market cap of $2 trillion. It's an arbitrary milestone but a significant one all the same, testimony to the pandemic-defying performance of the iPhone maker. It's also been just two years since Apple hit a $1 trillion market cap, meaning the company has essentially doubled in value in just over 24 months.
-<a href='https://www.theverge.com/2020/8/19/21375223/apple-2-trillion-market-cap-first-us-company-stock-price'> Source <a/>
