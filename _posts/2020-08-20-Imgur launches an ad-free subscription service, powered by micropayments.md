@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ccZMGgSusD9KQv0Re1TUpF_h8AA=/0x0:1840x1226/1200x800/filters:focal(773x466:1067x760)/cdn.vox-cdn.com/uploads/chorus_image/image/67225612/img_imgur_emerald.0.png' width='700px' /><br/>
-Imgur is launching a subscription service that offers an ad-free browsing experience and new community features, like profile flair and the ability to mute tags across the site. The subscription service, called Emerald, quietly launched on the web in May, and today, it's being more publicly announced as it comes to Imgur's Android app. The service will eventually launch on iOS, too.
-<a href='https://www.theverge.com/2020/8/19/21373988/imgur-emerald-subscription-service-announced-coil-micropayments'> Source <a/>
