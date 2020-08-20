@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3NtkqgKUmPjgyUuPN7PPp5CGVMM=/0x0:4096x2645/1200x800/filters:focal(1721x996:2375x1650)/cdn.vox-cdn.com/uploads/chorus_image/image/67225990/Suggested_Posts_in_Feed.0.png' width='700px' /><br/>
-Instagram is expanding its feed today with the launch of “suggested posts.” These posts, from accounts you don't follow, will show up after you've reached the end of your feed and give you the option to keep scrolling with Instagram's suggestions. Up until now, the feed has been entirely determined by users' preferences and the people they follow.
-<a href='https://www.theverge.com/2020/8/19/21373809/instagram-suggested-posts-update-end-feed'> Source <a/>

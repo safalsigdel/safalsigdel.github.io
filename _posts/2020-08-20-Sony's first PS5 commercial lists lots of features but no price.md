@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NJbxHSWVdTnml1N2jJhc4V2t-T4=/0x0:1600x1067/1200x0/filters:focal(0x0:1600x1067):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19883083/49747503557_fa12f113db_h.jpg' width='700px' /><br/>
+Sony is ready to start marketing its next-generation PlayStation 5 console with commercials, but the new minute-long spot doesn't include any PS5 games or the all-important price tag. Instead, Sony has opted to focus on the 3D audio support and the PS5's DualSense controller's support for haptic feedback and adaptive triggers.
+<a href='https://www.theverge.com/2020/8/20/21377149/sony-ps5-commercial-3d-audio-haptic-feedback'> Source <a/>
