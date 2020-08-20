@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YNjwPygkVO865LKkSDmSAtEoHzI=/0x0:2560x1440/1200x800/filters:focal(312x532:720x940)/cdn.vox-cdn.com/uploads/chorus_image/image/67231653/xs5DI13.0.jpg' width='700px' /><br/>
+Microsoft Flight Simulator produces some stunning realism most of the time, but there's the odd occasion where things go hilariously wrong. PC players inside simulated airplanes have been scouring the globe this week and have discovered some rather amusing glitches.
+<a href='https://www.theverge.com/2020/8/20/21376978/microsoft-flight-simulator-glitches-maps-bugs'> Source <a/>
