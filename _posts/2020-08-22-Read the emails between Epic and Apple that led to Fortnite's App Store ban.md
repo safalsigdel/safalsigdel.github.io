@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5DZGpGyxC8c-MriD04mh_LKxAis=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67276437/acastro_20200818_1777_epicApple_0002.0.0.jpg' width='700px' /><br/>
+It's been just over a week since Fortnite developer Epic Games initiated an unprecedented antitrust legal fight with Apple over its App Store rules, and now we're already seeing a trove of legal documents surface and shed light on how exactly the whole showdown began.
+<a href='https://www.theverge.com/2020/8/21/21396313/apple-fortnite-lawsuit-emails-app-store-ban-epic'> Source <a/>
