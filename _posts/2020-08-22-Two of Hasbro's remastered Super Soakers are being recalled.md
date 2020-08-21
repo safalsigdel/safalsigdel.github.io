@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vriCQ8YQ25ulKbhoLAxUJe_Tu5E=/0x0:2200x1786/1200x800/filters:focal(924x717:1276x1069)/cdn.vox-cdn.com/uploads/chorus_image/image/67277085/NERF_Super_Soaker_XP30___oop.0.jpg' width='700px' /><br/>
+When Hasbro brought back three classic Super Soakers this spring, I was pretty pumped — but now, two of them are being recalled. The US Consumer Product Safety Commission (CPSC) has announced that the Super Soaker XP20 and XP30 used too much lead in the ink when the manufacturer printed their labels, and should be immediately be returned to Hasbro for a full refund.
+<a href='https://www.theverge.com/2020/8/21/21396486/hasbro-super-soaker-xp30-xp20-cpsc-safety-recall-lead-nerf'> Source <a/>
