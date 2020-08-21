@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mqkf4s2fs4ptg-J94miMLfKR1t8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67274713/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
+Jeff Wilke, CEO of Amazon's worldwide consumer division, is planning to retire in the first quarter of 2021, the company announced in a regulatory filing on Friday.
+<a href='https://www.theverge.com/2020/8/21/21395776/amazon-executive-wilke-retire-logistics-consumer-division'> Source <a/>
