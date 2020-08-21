@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Io_trGWXro7A4A1TmLc0WsPJeXk=/0x0:1000x2006/1200x800/filters:focal(396x451:556x611)/cdn.vox-cdn.com/uploads/chorus_image/image/67273913/hires_andy_profile_iphone2.0.png' width='700px' /><br/>
+Despite several news articles that seem to suggest otherwise, a dating app just for Tesla owners isn't real — at least not yet.
+<a href='https://www.theverge.com/2020/8/21/21395166/tesla-dating-app-hoax-privacy-musk'> Source <a/>

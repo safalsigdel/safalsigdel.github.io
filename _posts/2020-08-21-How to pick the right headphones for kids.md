@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iTaaaNNCh1hF3WehIKf9KpkZaZk=/0x0:5184x3456/1200x800/filters:focal(2646x1086:3474x1914)/cdn.vox-cdn.com/uploads/chorus_image/image/67274070/586117178.jpg.0.jpg' width='700px' /><br/>
+As many schools enter the new academic year with continued remote learning, there will be parents wondering how they can best equip their kids for success at home. There's the laptop situation to figure out, of course, but headphones are also important — both to make sure students are getting the most from class without distractions and (sometimes) to preserve your own sanity with so much going on at home every day.
+<a href='https://www.theverge.com/21375958/best-kids-headphones-back-to-school-remote-learning'> Source <a/>

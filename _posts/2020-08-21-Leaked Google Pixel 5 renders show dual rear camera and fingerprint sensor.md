@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LGMriND3lX869Kk7Fpu3MK8fdLg=/0x0:3731x2650/1200x800/filters:focal(1568x1027:2164x1623)/cdn.vox-cdn.com/uploads/chorus_image/image/67273714/PIXEL_5_5K3.0.jpg' width='700px' /><br/>
+Google launched the Pixel 4A in August but told us we'd have to wait to see the Pixel 5 and Pixel 4A 5G. They're due to arrive sometime this fall (probably in early October), but new renders purportedly showing the Pixel 5 give us some idea what to expect.
+<a href='https://www.theverge.com/2020/8/21/21395173/leaked-google-pixel-5-renders-specs-october-launch'> Source <a/>
