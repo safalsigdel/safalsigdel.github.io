@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0dNUcGVO75a_WBoYfySLO8m73eI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67271744/akrales_190914_3628_0074.0.jpg' width='700px' /><br/>
+Facing higher production costs due to the inclusion of 5G hardware in this year's “iPhone 12” series, Apple is attempting to use less expensive components in other areas, according to analyst Ming-chi Kuo (via MacRumors and AppleInsider). One of the biggest cost reductions is believed to come from battery technology; Kuo says Apple is reducing the number of layers in the battery board and placing cell components in a smaller area.
+<a href='https://www.theverge.com/2020/8/21/21394985/apple-iphone-12-battery-cost-5g-kuo'> Source <a/>
