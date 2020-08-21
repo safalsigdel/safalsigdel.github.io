@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9wqeGkPHCXQjpE5Ydm9vZaiRTU4=/0x0:1919x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67229162/fall_guys.0.jpeg' width='700px' /><br/>
-While the world writhes in the clutches of a seemingly never-ending wave of chaos, one Twitch streamer's heartwarming struggle to win a game of the new battle royale sensation Fall Guys is a story we can all happily rally around.
-<a href='https://www.theverge.com/2020/8/19/21376298/timthetatman-fall-guys-victory-win-finally-twitch-live'> Source <a/>

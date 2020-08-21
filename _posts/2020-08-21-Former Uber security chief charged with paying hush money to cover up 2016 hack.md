@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d580mRPnvV4KBmS3iMJwG7eLz9w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67237111/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
+Uber's former security chief has been charged with obstruction of justice for trying to hide a data breach from the Federal Trade Commission and Uber management, according to a statement from the Department of Justice.
+<a href='https://www.theverge.com/2020/8/20/21377849/uber-hack-2016-data-breach-former-security-chief-hush-money-doj-ftc'> Source <a/>

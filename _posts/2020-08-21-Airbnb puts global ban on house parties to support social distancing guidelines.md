@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/H3KJC14Udcc3C77rmmQXUZZMPBY=/0x0:4000x2670/1200x800/filters:focal(1792x1367:2432x2007)/cdn.vox-cdn.com/uploads/chorus_image/image/67233833/1208943691.jpg.0.jpg' width='700px' /><br/>
+Airbnb is cracking down on house parties and events in properties listed on its platform to try to better follow local health departments' social distancing requirements for large gatherings, the company said in a blog post Thursday. It's imposing an occupancy cap of 16 people, and hosts or renters on the platform who try to evade the new rules risk being banned from the platform or even the possibility of legal action.
+<a href='https://www.theverge.com/2020/8/20/21377408/airbnb-global-ban-house-parties-coronavirus'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rgzCmlLlt-tdGVj89Sht51iF6pQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67230107/Toad_Shamboad.0.png' width='700px' /><br/>
-You probably know the feeling: you set out to find something new on Netflix, but end up spending more time browsing than actually watching. There's just so much there that it can be hard to make a choice. Recently I've been having the same issue every time I turn on my Xbox.
-<a href='https://www.theverge.com/2020/8/19/21376137/xbox-game-pass-battletoads-grounded-netflix-streaming'> Source <a/>

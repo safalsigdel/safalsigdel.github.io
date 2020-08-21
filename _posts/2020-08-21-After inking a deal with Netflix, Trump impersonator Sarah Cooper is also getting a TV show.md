@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VwKDW2kcofWXNWabWEY-g0ZgkuY=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/67266125/Sarah_Cooper.0.jpg' width='700px' /><br/>
+We already knew that Sarah Cooper, the comedian that has gone viral for her impersonations of Trump, is getting a comedy special on Netflix. And today, Cooper has inked a deal with CBS to adapt one of her books into a TV series, according to Deadline and Variety.
+<a href='https://www.theverge.com/2020/8/20/21378132/sarah-cooper-trump-impersonator-tiktok-twitter-cbs-tv-show'> Source <a/>

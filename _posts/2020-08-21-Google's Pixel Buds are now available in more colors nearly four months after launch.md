@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rHxrogpMymF7HqwceibBe8FuRhk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67233912/DSCF7977.0.jpg' width='700px' /><br/>
+Google has finally launched more colors for its second-generation Pixel Buds, nearly four months since the true wireless headphones launched. In addition to “clearly white,” you can now buy the Pixel Buds in “oh so orange,” “quite mint,” and “almost black.”
+<a href='https://www.theverge.com/2020/8/20/21377451/google-pixel-buds-new-colors-orange-mint-black-white-now-available'> Source <a/>

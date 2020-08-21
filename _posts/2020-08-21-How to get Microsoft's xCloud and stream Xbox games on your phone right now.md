@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aX9Gt4jjDY6Xj-wbK7VyMtzKFOY=/0x0:2560x1708/1200x800/filters:focal(1076x650:1484x1058)/cdn.vox-cdn.com/uploads/chorus_image/image/67237261/8bitdoxboxcontroller.0.jpeg' width='700px' /><br/>
+Microsoft's xCloud game streaming abilities will be officially integrated into the Xbox Game Pass Ultimate subscription starting on September 15th, with support for more than 100 games. However, you don't need to wait to try out the cloud gaming service, and it's possible that you might already have all the necessary components to make it happen.
+<a href='https://www.theverge.com/21377313/microsoft-xcloud-install-download-android-game-pass-ultimate-gamepad-xbox'> Source <a/>

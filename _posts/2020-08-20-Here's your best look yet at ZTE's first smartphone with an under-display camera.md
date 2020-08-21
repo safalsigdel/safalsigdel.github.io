@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x_NH5SEO5eiA1u568pouz18dIXc=/0x0:690x388/1200x800/filters:focal(290x139:400x249)/cdn.vox-cdn.com/uploads/chorus_image/image/67230284/ac80b11ely1ghw5lxuiajj21z4140e81__1_.0.jpg' width='700px' /><br/>
-ZTE has already announced that it plans to launch the first mass-produced 5G-enabled smartphone with an under-display camera in China next month, and now the company has shared new images that give us a better understanding of what that phone's screen might actually look like (via Dutch website Tweakers).
-<a href='https://www.theverge.com/2020/8/19/21376546/zte-smartphone-under-display-camera-axon-20-5g-renders-images'> Source <a/>

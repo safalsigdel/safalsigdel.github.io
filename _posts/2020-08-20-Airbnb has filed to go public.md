@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9_p4z2mqLC2fAx3vlOElRtvag7w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67229233/Airbnb-stock-Dec2015-verge-05.0.0.jpg' width='700px' /><br/>
-Airbnb has filed documents to begin its initial public offering, the company said on Wednesday. Airbnb's securities registration filing remains confidential, but it has been submitted to the Securities and Exchange Commission, beginning the process that will ultimately allow everyday investors to purchase shares in the company for the first time.
-<a href='https://www.theverge.com/2020/8/19/21376338/airbnb-ipo-s1-filing-going-public-confidential'> Source <a/>

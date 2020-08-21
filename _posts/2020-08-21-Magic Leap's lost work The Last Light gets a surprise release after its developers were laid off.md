@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WfASxWlhg_HEStnELqXnuBD1yto=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/67263747/08efbde7_813f_4898_8869_832275201069.0.png' width='700px' /><br/>
+The Last Light, Magic Leap's in-house mixed reality experience thought to be lost after nearly everyone who made it was laid off, got a surprise — and official — release this week. (We spotted the release thanks to a tweet from former Magic Leap employee Alexandria Heston.)
+<a href='https://www.theverge.com/2020/8/20/21378202/magic-leap-mixed-reality-game-the-last-light-now-available'> Source <a/>

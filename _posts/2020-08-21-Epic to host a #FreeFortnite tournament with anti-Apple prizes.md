@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E-FGdXonGJgXfp3utpRTTm0wqPY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67271296/acastro_20200818_1777_epicApple_0001.0.0.jpg' width='700px' /><br/>
+Fortnite-maker Epic Games and Apple are currently embroiled in a public battle over Apple's App Store policies, and in the latest move in the dispute, Epic has announced a Fortnite tournament taking place August 23rd where players can compete to win anti-Apple prizes.
+<a href='https://www.theverge.com/2020/8/20/21394834/epic-fortnite-apple-freefortnite-tournament-prizes'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4HNsVixkZ3Umv8HDHM6tkNbojQg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67236971/vpavic_4113_20200721_0058.0.jpg' width='700px' /><br/>
+Google is making a change in Android 11 that will force apps that want to take photos or video to use the phone's built-in camera app — even if you've made a different camera app, like OpenCamera, your default choice for photos.
+<a href='https://www.theverge.com/2020/8/20/21376391/google-android-11-third-party-camera-picker-intents'> Source <a/>

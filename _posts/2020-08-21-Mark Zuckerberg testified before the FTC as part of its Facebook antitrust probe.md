@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MuhBX_Mlq5vnuksvIf71IS1_4ug=/0x0:4500x3026/1200x800/filters:focal(1890x1153:2610x1873)/cdn.vox-cdn.com/uploads/chorus_image/image/67237449/1227832477.jpg.0.jpg' width='700px' /><br/>
+Facebook CEO Mark Zuckerberg testified before the Federal Trade Commission this week as part of the regulator's ongoing antitrust investigation into the company, according to a new report from Politico Thursday.
+<a href='https://www.theverge.com/2020/8/20/21378015/mark-zuckerberg-facebook-interview-ftc-antitrust-instagram-kevin-systrom'> Source <a/>

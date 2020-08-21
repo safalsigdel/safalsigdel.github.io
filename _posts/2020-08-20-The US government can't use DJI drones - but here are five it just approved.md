@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iRtVZK3IcTl2Yi_Uq292Uc7KEe4=/0x0:1200x628/1200x800/filters:focal(504x218:696x410)/cdn.vox-cdn.com/uploads/chorus_image/image/67231539/hadron_cscphoto_07851jpg.0.jpg' width='700px' /><br/>
-DJI may be synonymous with “drone,” but after the US Armed Forces, the Pentagon, and the Department of the Interior started banning and grounding Chinese models over spying fears, it created a vacuum in the market for a drone the United States government could trust.
-<a href='https://www.theverge.com/2020/8/20/21376917/drone-us-government-approved-dod-diu-uas-blue-china'> Source <a/>

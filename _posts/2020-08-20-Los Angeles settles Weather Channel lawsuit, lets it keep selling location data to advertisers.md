@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/86y_KGoX1x0Cw4P5Y053YsOXD4o=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/67229998/iPhone_TWC_app.0.jpg' width='700px' /><br/>
-Los Angeles has settled its lawsuit against the operator of The Weather Channel app. The city filed litigation against the company in 2019, alleging that the app misled millions of people into granting access to their personal location data and sold that data to third parties.
-<a href='https://www.theverge.com/2020/8/19/21376217/los-angeles-the-weather-channel-app-lawsuit-settlement-location-data-selling'> Source <a/>
