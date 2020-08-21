@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-3xk9mv7CPD7tlpQTqHfqumDA-0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67233097/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
-In June this year, Reddit began a huge campaign to remove hateful content from its site, blocking communities that engaged in hate speech and harassment. In an update on its progress today, the company says it's banned nearly 7,000 subreddits (including repeat offenders) resulting in an 18 percent drop in users posting hateful content.
-<a href='https://www.theverge.com/2020/8/20/21376957/reddit-hate-speech-content-policies-subreddit-bans-reduction'> Source <a/>
