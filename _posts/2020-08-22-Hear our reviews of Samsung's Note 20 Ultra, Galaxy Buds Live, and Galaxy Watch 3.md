@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xqlBfXm41ehZHWHrm9vEysd9Ce0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67275829/vpavic_200807_4133_0099.0.0.jpg' width='700px' /><br/>
+This week on The Verge's flagship podcast, The Vergecast, Dieter Bohn, Becca Farsace, and Dan Seifert log into a Zoom meeting to discuss their reviews of the next line of Samsung hardware on the market: the Galaxy Note 20 Ultra, the Galaxy Buds Live, and the Galaxy Watch 3.
+<a href='https://www.theverge.com/21395620/vergecast-podcast-samsung-galaxy-note-20-ultra-review-418'> Source <a/>
