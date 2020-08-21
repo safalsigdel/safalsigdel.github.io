@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xR4t-SjdEMKcIjFPcVQgBLOYVk0=/0x0:1080x809/1200x800/filters:focal(454x319:626x491)/cdn.vox-cdn.com/uploads/chorus_image/image/67274209/VW_ID4_Uncovered_2_copy.0.jpg' width='700px' /><br/>
+Volkswagen's ID 4, the automaker's first electric SUV, has entered into series production in Saxony, Germany, the company announced this week.
+<a href='https://www.theverge.com/2020/8/21/21395629/volkswagen-id4-electric-suv-production-germany'> Source <a/>

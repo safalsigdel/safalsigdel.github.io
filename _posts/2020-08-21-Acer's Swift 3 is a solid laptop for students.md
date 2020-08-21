@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SEV2P6BwJVq856kcJ5f4a23CuyI=/0x0:2040x1360/1200x675/filters:focal(942x574:1268x900)/cdn.vox-cdn.com/uploads/chorus_image/image/67274229/mchin_181113_4146_0009.0.0.jpg' width='700px' /><br/>
+I recently surveyed a bunch of students about the most important aspects of a high school or college laptop. They were almost entirely in agreement on their top priorities: battery life and portability.
+<a href='https://www.theverge.com/21377208/acer-swift-3-review-2020-14-inch-laptop-specs-features-price'> Source <a/>
