@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EvVZMzB5vEGkD_-Z-AxI3W8AF0c=/0x0:2560x1440/1200x800/filters:focal(1719x657:2127x1065)/cdn.vox-cdn.com/uploads/chorus_image/image/67272178/kjbJabx.0.jpg' width='700px' /><br/>
+Microsoft Flight Simulator players spotted a giant mountain-high obelisk in Australia this week. While Flight Simulator has done a great job at recreating the real world, this unusually huge structure doesn't exist in real life. Players have now discovered that its existence stems from a simple typo.
+<a href='https://www.theverge.com/2020/8/21/21395084/microsoft-flight-simulator-melbourne-obelish-openstreetmap-bing-maps-data-glitch'> Source <a/>

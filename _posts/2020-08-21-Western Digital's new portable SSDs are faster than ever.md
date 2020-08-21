@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Western Digital has along since a mainstay for portable hard drives with its popular My Passport line, but its recently started to shift its focus to solid-state drives — and now the company is launching its second-generation My Passport SSD lineup, which brings even faster speeds than the original.
-<a href='https://www.theverge.com/circuitbreaker/2020/8/20/21376091/western-digital-my-passport-ssd-portable-storage-backup-second-gen-faster'> Source <a/>
