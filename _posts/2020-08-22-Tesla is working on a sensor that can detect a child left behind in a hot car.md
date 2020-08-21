@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i2UwaCwFeJxKpk49ELZDfrBVkuk=/0x0:6690x4460/1200x800/filters:focal(2810x1695:3880x2765)/cdn.vox-cdn.com/uploads/chorus_image/image/67237767/991296020.jpg.0.jpg' width='700px' /><br/>
-Tesla is working on a new motion-detection sensor that could detect a child left behind in a hot car. According to Reuters, the company is seeking approval from the Federal Communications Commission (FCC) to market the technology, which would use unlicensed millimeter-wave radar sensors designed to operate at higher power levels than allowed under existing rules.
-<a href='https://www.theverge.com/2020/8/20/21377981/tesla-radar-sensor-child-hot-car-fcc'> Source <a/>
