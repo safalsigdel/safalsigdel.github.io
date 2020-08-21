@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FJ4vx3gwleKBTVVGUbmmBFKcCNk=/0x0:4682x3230/1200x800/filters:focal(1967x1241:2715x1989)/cdn.vox-cdn.com/uploads/chorus_image/image/67236647/1219237832.jpg.15.jpg' width='700px' /><br/>
-A California appeals court judge blocked an order requiring Uber and Lyft to classify drivers as employees, averting an expected shutdown of the ride-sharing services in California at midnight tonight. The court granted Uber and Lyft a temporary stay while their appeals process play out.
-<a href='https://www.theverge.com/2020/8/20/21377841/uber-lyft-california-judge-block-emergency-stay-employees'> Source <a/>
