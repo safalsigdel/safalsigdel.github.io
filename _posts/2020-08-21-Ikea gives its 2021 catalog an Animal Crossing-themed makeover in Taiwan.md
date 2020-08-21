@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+After the latest Animal Crossing became a worldwide phenomenon with its compelling combination of fishing, hunting, and interior design, it was only a matter of time before a major outlet tried to capitalize on its success. Now, Ikea Taiwan has done exactly that by recreating a number of pages from its iconic catalog using characters and in-game items from the Nintendo title. It posted the results on its official Facebook page.
+<a href='https://www.theverge.com/tldr/2020/8/21/21395096/ikea-tawain-animal-crossing-catalog'> Source <a/>
