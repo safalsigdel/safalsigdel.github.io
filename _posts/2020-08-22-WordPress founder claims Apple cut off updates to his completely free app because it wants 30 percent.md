@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/XSDY-bqNjt5uD9s6Z-37DNWvoLI=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/67276563/1149746687.jpg.0.jpg' width='700px' /><br/>
-WordPress, the iOS app, lets you build and manage a website right from your iPhone or iPad.
+WordPress, the iOS app, lets you build and manage a website right from your iPhone or iPad, for free.
 <a href='https://www.theverge.com/2020/8/21/21396316/apple-wordpress-in-app-purchase-tax-update-store'> Source <a/>
