@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wyBo4oGYo80ai8m7GMZPXsU2Duo=/0x0:5100x3400/1200x800/filters:focal(1810x540:2626x1356)/cdn.vox-cdn.com/uploads/chorus_image/image/67279154/1225590107.jpg.0.jpg' width='700px' /><br/>
+AT&T-owned Cricket Wireless is enabling 5G support on some of its plans, the company announced. But oddly, even though the appeal to most customers of prepaid plans like Cricket is a lower price, the company's only 5G compatible device so far is the $1,199 Samsung Galaxy S20 Plus. And getting access to 5G on Cricket requires subscribing to one of its Unlimited plans, which start at $60 per month.
+<a href='https://www.theverge.com/2020/8/22/21397001/cricket-wireless-5g-samsung-att'> Source <a/>

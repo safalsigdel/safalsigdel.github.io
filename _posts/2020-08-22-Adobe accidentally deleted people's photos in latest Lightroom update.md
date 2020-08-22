@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FGYaOzi0g8y60bLzje_3F4GEPSY=/0x0:3200x2129/1200x800/filters:focal(1344x809:1856x1321)/cdn.vox-cdn.com/uploads/chorus_image/image/67233878/1208999496.jpg.0.jpg' width='700px' /><br/>
-For the past two days, photographers have been posting in a panic across Twitter, Reddit, and the Photoshop feedback forums. They'd downloaded Adobe's latest update for Lightroom's iOS app, and suddenly their photos and presets were gone. Adobe has now confirmed the issue, and it's also said that the data is gone for good.
-<a href='https://www.theverge.com/2020/8/20/21377411/adobe-lightroom-ios-ipados-app-update-pictures-photos-presets-deleted'> Source <a/>
