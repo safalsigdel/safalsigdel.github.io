@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S6a-P_QIeoKrlM9DC8UyacEzdg0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67281912/acastro_181126_1777_weChat_0003.0.jpg' width='700px' /><br/>
+A group of WeChat users is suing the Trump administration over the president's executive order banning transactions with the app, The Wall Street Journal reported. The group isn't affiliated with WeChat or its owner Tencent, but seeks to block the president's August 6th order which the group says is unconstitutional because it violates users' due process and free speech rights, according to the Journal.
+<a href='https://www.theverge.com/2020/8/23/21397858/wechat-users-lawsuit-trump-china-ban-tiktok'> Source <a/>
