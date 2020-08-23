@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_G8EGjJobkPrrY-aa7_i_3inLLk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67280347/ss_a0758d69b45b016a386761e1415f2227542c27be.0.jpg' width='700px' /><br/>
+The wildly popular game Fall Guys: Ultimate Knockout is reportedly coming to mobile. Games analyst Daniel Ahmad tweeted that Chinese entertainment company Bilibili has secured the rights to publish a mobile version of the game, but in China only.
+<a href='https://www.theverge.com/2020/8/22/21397170/fall-guys-mobile-china-game-developer'> Source <a/>

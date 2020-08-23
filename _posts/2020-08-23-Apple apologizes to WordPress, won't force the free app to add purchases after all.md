@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zULm8imVPlmpjLInfdSjE5ozCSs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67280426/acastro_180130_1777_0005_v2.0.jpg' width='700px' /><br/>
+On Friday, the internet erupted in a small way to learn that Apple had successfully forced WordPress to monetize its free app — forcing it to sell premium plans and custom domain names seemingly just so that Apple could get its traditional 30 percent cut.
+<a href='https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app'> Source <a/>
