@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y_YT0e311hsFLBzVVc4fe9hVUds=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67282262/acastro_170731_1777_0005_v3.0.jpg' width='700px' /><br/>
+Apple is threatening an entire ecosystem of game developers in response to the Fortnite lawsuit, Epic alleged in a new filing on Sunday.
+<a href='https://www.theverge.com/2020/8/23/21397369/epic-apple-fortnite-lawsuit-ios-microsoft-developer-tax'> Source <a/>
