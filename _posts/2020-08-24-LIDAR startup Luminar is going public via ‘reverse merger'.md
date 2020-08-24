@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K6i35fYRqSHut_PlEqET74oTbtM=/0x0:4096x2160/1200x800/filters:focal(1721x753:2375x1407)/cdn.vox-cdn.com/uploads/chorus_image/image/67286103/Volvo_SPA2_Luminar_Roofline_Integration.0.png' width='700px' /><br/>
+Luminar, a Florida-based startup that makes LIDAR sensors and other components essential for autonomous driving technology, is the latest transportation company to go public via a “reverse merger” with a special acquisition company, or SPAC.
+<a href='https://www.theverge.com/2020/8/24/21398974/luminar-lidar-startup-spac-ipo-reverse-merge-blank-check'> Source <a/>
