@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7v55e-zd4GdaxpbbDE8Tik2ETzY=/0x0:730x659/1200x800/filters:focal(307x272:423x388)/cdn.vox-cdn.com/uploads/chorus_image/image/67283133/pixel_4a_5g_and_pixel_5.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/IHV2qtHce2Hb8mPJ_Qx-rYrNy9I=/0x0:730x659/1200x800/filters:focal(295x176:411x292)/cdn.vox-cdn.com/uploads/chorus_image/image/67283133/pixel_4a_5g_and_pixel_5.0.jpg' width='700px' /><br/>
 New leaked images may have the first look at the Google Pixel 5 and the Pixel 4A 5G. The image showing what could be the Pixel 5 in black and the Pixel 4A 5G in white came from a since-deleted post on Reddit. They also include details about the phones' specs which seem to match up with previously leaked information, according to XDA Developers.
 <a href='https://www.theverge.com/2020/8/23/21398008/pixel-5-google-leak-rumor-specs'> Source <a/>
