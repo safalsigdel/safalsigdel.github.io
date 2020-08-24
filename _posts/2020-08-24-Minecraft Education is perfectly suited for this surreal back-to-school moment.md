@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZcCFA3BUaHY3h4SGsQ7nZIG2_Qg=/0x0:1900x1116/1200x800/filters:focal(798x406:1102x710)/cdn.vox-cdn.com/uploads/chorus_image/image/67273592/2020_06_17_15_25_59_Minecraft__Education_Edition.0.png' width='700px' /><br/>
-When the pandemic hit this spring, a lot of teachers turned to Minecraft during their mad scramble for tools that could make remote learning work. Earlier this year, Microsoft added an “education” section to the Minecraft marketplace, and since March, 63 million pieces of content have been downloaded.
-<a href='https://www.theverge.com/21377192/minecraft-education-edition-back-to-school-pandemic'> Source <a/>
