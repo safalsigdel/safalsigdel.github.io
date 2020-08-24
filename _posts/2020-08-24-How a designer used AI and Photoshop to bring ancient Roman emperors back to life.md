@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2QvdOhcMi4BgDTsvHLcyCMIhGo4=/0x0:938x528/1200x800/filters:focal(394x189:544x339)/cdn.vox-cdn.com/uploads/chorus_image/image/67274650/1_N0Jv3LyLM5yFf4tK0Bh7AQ.0.jpeg' width='700px' /><br/>
-Machine learning is a fantastic tool for renovating old photos and videos. So much so that it can even bring ancient statues to life, transforming the chipped stone busts of long-dead Roman emperors into photorealistic faces you could imagine walking past on the street.
-<a href='https://www.theverge.com/2020/8/21/21395115/roman-emperors-photorealistic-portraits-ai-artbreeder-dan-voshart'> Source <a/>
