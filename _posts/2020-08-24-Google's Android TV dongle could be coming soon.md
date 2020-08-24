@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sVQ0wtSxsXuyeNQJdlqKimgOUSA=/0x0:800x533/1200x800/filters:focal(336x203:464x331)/cdn.vox-cdn.com/uploads/chorus_image/image/67284281/sabrina.0.jpg' width='700px' /><br/>
+Two new Google hardware devices have shown up in FCC filings, and as 9to5Google notes, it seems likely that they're related to the new Android TV product that's reportedly been in the works for a while. If so, the filings could suggest that Google is finally gearing up to release it soon.
+<a href='https://www.theverge.com/2020/8/24/21398689/google-android-tv-streaming-device-sabrina-fcc-filing'> Source <a/>
