@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ovh-QZ_KnbxnttDqmGk_Sn3KnD4=/0x0:2040x1358/1200x800/filters:focal(857x516:1183x842)/cdn.vox-cdn.com/uploads/chorus_image/image/67284485/DSC_0213.0.jpg' width='700px' /><br/>
+The recently-released Microsoft Flight Simulator is a game best enjoyed with a dedicated flight stick, but actually finding one of these controllers is a challenge. None of Amazon.com's best-selling PC flight sticks are available to buy new as of Monday August 24th — they're either listed as unavailable, only available used, or scheduled to be back in stock in the coming months.
+<a href='https://www.theverge.com/2020/8/24/21398774/flight-stick-controllers-sold-out-microsoft-simulator'> Source <a/>
