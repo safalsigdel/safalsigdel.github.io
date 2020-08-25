@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/g_zJwRdKnvRgmPb_YhJ_RtN80ks=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67290595/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
+On August 2nd of last year, TikTok celebrated its first birthday. To mark the occasion, I wrote about the four biggest risks facing the company. One was finding new customers. Two was continuing to develop compelling new features. Three was attracting top influencers. And four was managing its relationship with regulators.
+<a href='https://www.theverge.com/interface/2020/8/25/21399509/tiktok-sues-trump-lawsuit-facebook-zuckerberg-lobbying-thailand'> Source <a/>

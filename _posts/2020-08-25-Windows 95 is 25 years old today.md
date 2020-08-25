@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GA6z08XOpm6BsK9G8o6bVHZSGrM=/0x0:1170x743/1200x675/filters:focal(492x278:678x464)/cdn.vox-cdn.com/uploads/chorus_image/image/67285298/billgateswindows95.0.0.1440424953.0.jpg' width='700px' /><br/>
-Update August 24th, 2020: Today marks Windows 95's 25th anniversary. Check out our retrospective originally from its 20th anniversary below and updated slightly to reflect the new anniversary date.
-<a href='https://www.theverge.com/21398999/windows-95-anniversary-release-date-history'> Source <a/>
