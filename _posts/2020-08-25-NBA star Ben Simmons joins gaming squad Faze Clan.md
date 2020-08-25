@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W0nVAAo98KyaiDKTF73LQH1MrYE=/0x0:1242x1407/1200x800/filters:focal(510x196:708x394)/cdn.vox-cdn.com/uploads/chorus_image/image/67292198/FaZe_Simmo_aka_Ben_Simmons___3.0.jpg' width='700px' /><br/>
+Faze Clan has added yet another celebrity to its ranks. Today the gaming team / lifestyle brand announced that NBA star Ben Simmons has joined Faze as a member under the moniker “Faze Simmo.” Simmons is part of a long list of celebrity investors in Faze, including the likes of Pitbull, Offset, pro skateboarder Nyjah Huston, and fellow NBA players Jamal Murray and Meyers Leonard. Terms of Simmons' investment were not disclosed.
+<a href='https://www.theverge.com/2020/8/25/21400919/ben-simmons-faze-clan'> Source <a/>

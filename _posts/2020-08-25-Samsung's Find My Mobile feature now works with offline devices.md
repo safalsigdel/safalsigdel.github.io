@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pgrIDX62gbEwQAGatwmZyBOYdgc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67287917/bking_200306_3928_0012.0.jpg' width='700px' /><br/>
-Samsung's Find My Mobile feature is a handy tool to help you find a lost phone. With the latest app update, Find My Mobile will now work for Galaxy devices that aren't connected to Wi-Fi or cellular. Max Weinbach of XDA Developers spotted the feature on Saturday.
-<a href='https://www.theverge.com/2020/8/24/21399627/samsung-find-my-mobile-offline-feature'> Source <a/>
