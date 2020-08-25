@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/04YHbYoccMjBRH5NPJwpPm7Us-s=/0x0:2040x1360/1200x800/filters:focal(837x673:1163x999)/cdn.vox-cdn.com/uploads/chorus_image/image/67288504/jbareham_180405_1777_facebook_0003.0.jpg' width='700px' /><br/>
+In this week's episode of “should the social network leave it up or take it down?” we have Facebook wading into another thorny moderation situation, this time in Thailand. According to a report from The Guardian, the company has removed a Facebook group with more than 1 million members after it was threatened by the Thai government for violating local laws around defaming the ruling monarch.
+<a href='https://www.theverge.com/2020/8/24/21399940/facebook-thailand-group-remove-king-criticism-threat-defamatory-free-speech'> Source <a/>

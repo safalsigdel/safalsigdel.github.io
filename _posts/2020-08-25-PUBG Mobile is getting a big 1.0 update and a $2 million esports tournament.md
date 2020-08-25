@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2ObRCM9ljGJ4FEQZAOEO2TIRbXo=/0x0:5000x3333/1200x800/filters:focal(2121x990:2921x1790)/cdn.vox-cdn.com/uploads/chorus_image/image/67287211/1227837859.jpg.0.jpg' width='700px' /><br/>
+Playerunknown's Battlegrounds may have been eclipsed on console and PC by the flashier battle royale games it inspired, but the mobile version of the seminal shooter continues to be one of the largest and most successful games on the planet. And now it's getting a 1.0 update that promises huge boosts to performance and other benefits just in time for a planned $2 million esports tournament set to kick off in November.
+<a href='https://www.theverge.com/2020/8/24/21399585/pubg-mobile-update-esports-tournament-2-million'> Source <a/>

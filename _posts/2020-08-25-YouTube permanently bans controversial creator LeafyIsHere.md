@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eGsF68rTHvzWprMjDvNayUrdhlc=/0x0:1400x700/1200x800/filters:focal(588x238:812x462)/cdn.vox-cdn.com/uploads/chorus_image/image/67287869/leafy.0.jpg' width='700px' /><br/>
+YouTube has banned the controversial creator Calvin Lee Vail, better known as LeafyIsHere, for repeatedly violating the company's harassment policies. The ban follows big changes to YouTube's harassment policy meant to deter behavior that in part helped creators in the commentary community like Leafy develop a following.
+<a href='https://www.theverge.com/tech/2020/8/24/21397058/leafy-ban-youtube-permanent-harassment-bullying-policies'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gj5qUdCy1p3Qmn5Mfr4ALB9-zFc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67286853/akrales_190914_3628_0099.0.jpg' width='700px' /><br/>
+A number of major Asian manufacturers such as Foxconn, Pegatron, and Luxshare are considering opening new factories in Mexico, Reuters reports, responding to the coronavirus pandemic and ongoing US-China trade war. Foxconn reportedly has plans to produce iPhones at the new factory, according to two Reuters sources, although Apple isn't thought to be directly involved at this time.
+<a href='https://www.theverge.com/2020/8/24/21399494/foxconn-pegatron-luxshare-mexico-factory-manufacturing-us-china-tariff-trade-war'> Source <a/>

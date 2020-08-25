@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/au-WzeN4KHgrfd_TIjKX5C9WtnM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67285119/acastro_200331_1777_zoom_0003.0.0.jpg' width='700px' /><br/>
-Videoconferencing giant Zoom is experiencing widespread outages, with users in the US and UK reporting problems joining video calls.
+Videoconferencing giant Zoom experienced widespread outages this morning, with users in the US and UK reporting problems joining video calls, but service has now been restored.
 <a href='https://www.theverge.com/2020/8/24/21398900/zoom-down-outages-us-uk-meetings-webinars'> Source <a/>

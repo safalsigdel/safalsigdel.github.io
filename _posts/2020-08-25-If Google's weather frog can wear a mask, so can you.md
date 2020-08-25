@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+If you check in on Google's cute frog mascot that accompanies search results for weather in the Google app on Android, you might see that the froggy is wearing a mask, as first observed by some Reddit users over the weekend (via 9to5Google).
+<a href='https://www.theverge.com/tldr/2020/8/24/21399517/google-weather-frog-mascot-mask-android-covid-19'> Source <a/>

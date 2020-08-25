@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/noGG2mR1eq07myU8Dx9pa-pUBzs=/0x0:6000x4000/1200x800/filters:focal(2058x1467:3018x2427)/cdn.vox-cdn.com/uploads/chorus_image/image/67276629/598748900.jpg.0.jpg' width='700px' /><br/>
-Palantir, the controversial analytics and data mining firm, still relies heavily on its US government contracts for revenue despite its public statements that it was branching out into more corporate clients, according to screenshots of the company's S-1 filing acquired by TechCrunch. The financials, which the New York Times also has viewed, show Palantir has not once turned a profit since its founding in 2003.
-<a href='https://www.theverge.com/2020/8/21/21396043/palantir-government-contracts-trump-thiel'> Source <a/>

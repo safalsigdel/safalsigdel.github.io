@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GbSX06VzhcP0sfLoQ8j8PEOdq3g=/0x0:8688x5792/1200x800/filters:focal(3652x2204:5036x3588)/cdn.vox-cdn.com/uploads/chorus_image/image/67287727/1228184766.jpg.0.jpg' width='700px' /><br/>
+The Republican National Convention officially kicked off Monday at the Charlotte Convention Center in Charlotte, North Carolina. It's the third location of the event after it was moved twice due to restrictions resulting from the coronavirus pandemic. The convention is set to feature a mix of online and in-person events.
+<a href='https://www.theverge.com/2020/8/24/21399761/republican-national-convention-rnc-watch-live-stream-start-time-donald-trump'> Source <a/>

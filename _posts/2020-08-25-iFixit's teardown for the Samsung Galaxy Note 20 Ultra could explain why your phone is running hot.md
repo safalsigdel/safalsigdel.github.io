@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Tech teardown specialist iFixit has published a new article taking apart the Samsung Galaxy Note 20 and Note 20 Ultra, providing us a better look at what's underneath the giant camera bump of Samsung's $1,300 stylus-equipped smartphone and its cheaper sibling. Surprisingly, iFixit found that both phones are missing the vapor chamber and copper heat pipes Samsung had been using on previous phones to cool their processor during extended gaming sessions.
+<a href='https://www.theverge.com/circuitbreaker/2020/8/24/21399727/samsung-note-20-ultra-ifixit-teardowns-cooling-graphite-copper'> Source <a/>

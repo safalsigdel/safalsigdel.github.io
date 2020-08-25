@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DJ_5h6Q6zR1qwKINuLQxis8fBmg=/0x0:1897x1002/1200x0/filters:focal(0x0:1897x1002):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21813384/Screen_Shot_2020_08_24_at_5.12.10_PM.png' width='700px' /><br/>
+Samsung finally announced the follow-up to the beleaguered first generation Galaxy Fold, the Galaxy Z Fold 2, earlier this month, but the phone still isn't out yet — Samsung promised to reveal more on September 1st. Ahead of then, though, it seems at least one Z Fold 2 has made it into the wild, as a Chinese YouTube channel has already posted a review of the upcoming foldable (via SamMobile).
+<a href='https://www.theverge.com/2020/8/24/21400174/samsung-galaxy-z-fold-2-early-hands-on-review-youtube'> Source <a/>

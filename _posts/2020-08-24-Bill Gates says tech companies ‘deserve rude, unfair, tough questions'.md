@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PFp_TvbKiEcyErT_rIoxW9d_s_w=/0x0:4500x3004/1200x800/filters:focal(1890x1142:2610x1862)/cdn.vox-cdn.com/uploads/chorus_image/image/67279643/Gates_Unit_00120_RC.0.jpg' width='700px' /><br/>
-Bill Gates believes tech firms “deserve” the kind of scrutiny they got during Congressional hearings last month, and that the late Steve Jobs was a “genius,” he told the Armchair Expert podcast.
-<a href='https://www.theverge.com/2020/8/22/21397105/bill-gates-tech-companies-questions-microsoft-apple-steve-jobs'> Source <a/>

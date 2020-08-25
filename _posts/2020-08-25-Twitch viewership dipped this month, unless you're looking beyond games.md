@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kTGy2QyYdkEF21At_79s-222THE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67286773/acastro_190926_1777_twitch_0004.0.0.jpg' width='700px' /><br/>
+Overall Twitch viewership shrank slightly in July, and streams of top games like League of Legends and Fortnite fell with it. But in other corners of Twitch, viewership is still growing: the platform's “Just Chatting” category saw millions more hours watched, and there were increases in Twitch's “Creative” and “Music & Performing Arts” categories, too.
+<a href='https://www.theverge.com/2020/8/24/21395821/twitch-just-chatting-music-creative-streams-growth'> Source <a/>

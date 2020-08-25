@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yUnKzLchT5FSNf9fhk9HkEZXRrQ=/0x0:2342x1290/1200x800/filters:focal(984x458:1358x832)/cdn.vox-cdn.com/uploads/chorus_image/image/67288587/Screen_Shot_2020_08_24_at_2.54.50_PM.0.png' width='700px' /><br/>
+So it looks like Disney Plus has revived a Mouseketeers special from the 1970s (via Gizmodo) because Gen X deserves to wallow in nostalgia once in a while. But! Not only is the 60-minute promotional show The Mouseketeers at Walt Disney World available to stream, but all the commercials that aired during the original 1977 broadcast are in there as well.
+<a href='https://www.theverge.com/2020/8/24/21399861/disney-plus-ads-1970s-genx-streaming'> Source <a/>

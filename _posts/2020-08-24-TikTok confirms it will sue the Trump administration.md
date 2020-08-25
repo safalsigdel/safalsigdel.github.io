@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GFx1cpwAdGI1JHgh4JHPMqrhbMA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67280211/acastro_200713_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-TikTok confirmed Saturday that it will file a lawsuit against the Trump administration over an executive order demanding parent company ByteDance divest its TikTok operations in the US. It's the first time the company has confirmed it will pursue legal action, a move that has been rumored for several weeks. Reports began surfacing Friday that a lawsuit was likely imminent.
-<a href='https://www.theverge.com/2020/8/22/21397131/tiktok-lawsuit-president-trump-china-ban-executive-order'> Source <a/>

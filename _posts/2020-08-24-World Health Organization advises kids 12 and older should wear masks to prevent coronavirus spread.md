@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0YbwYE8en2VLLbeylnzHzIYMQfc=/0x0:5280x3719/1200x800/filters:focal(2232x575:3076x1419)/cdn.vox-cdn.com/uploads/chorus_image/image/67282669/1266672260.jpg.0.jpg' width='700px' /><br/>
-The World Health Organization has released its guidance on face masks for children, as students— in some parts of the country at least— return to their classrooms to start the new school year. Children age 5 and younger shouldn't be required to wear masks, the WHO says, since most are not able to put them on without help.
-<a href='https://www.theverge.com/2020/8/23/21397929/who-health-kids-masks-coronavirus'> Source <a/>

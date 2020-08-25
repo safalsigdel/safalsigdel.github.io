@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mbbw4EGgw611_LVWUtF3VhKD9_Q=/0x0:1200x630/1200x800/filters:focal(504x219:696x411)/cdn.vox-cdn.com/uploads/chorus_image/image/67287973/Unity_1200X630.0.png' width='700px' /><br/>
+Unity, maker of the popular Unity Game Engine, has filed to go public at an incredible moment in time. Its chief rival, Epic Games, is currently busy arguing that Apple is holding the Unreal Engine hostage, and Epic will appear in court this very afternoon to demand a restraining order so Apple can't cut off access to developers.
+<a href='https://www.theverge.com/2020/8/24/21399611/unity-ipo-game-engine-unreal-competitor-epic-app-store-revenue-profit'> Source <a/>
