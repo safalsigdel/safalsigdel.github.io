@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FCOp5mSloUDqAC79Wa5L--LZ1DM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67290246/acastro_20200818_1777_epicApple_0001.0.0.jpg' width='700px' /><br/>
+Epic Games just won a temporary restraining order against Apple — at least in part. Effective immediately, Apple can't retaliate against Epic Games by terminating the company's Apple developer accounts or restricting use of Epic's Unreal Engine by developers on Apple platforms.
+<a href='https://www.theverge.com/2020/8/25/21400240/epic-apple-ruling-unreal-engine-fortnite-temporary-restraining-order'> Source <a/>
