@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9GkltCUHpSK64w_IZ4DOTC0nwss=/0x0:1000x700/1200x800/filters:focal(476x333:636x493)/cdn.vox-cdn.com/uploads/chorus_image/image/67290377/download.0.jpeg' width='700px' /><br/>
+When Razer went on a building and buying spree that saw it morph from a PC peripherals company to a publicly traded do-it-all gaming hardware manufacturer, Corsair was clearly paying attention — on Monday, it took the penultimate step in a similar journey by filing its own IPO paperwork.
+<a href='https://www.theverge.com/2020/8/25/21398656/corsair-ipo-billion-dollar-revenue-profit-coronavirus-shelter'> Source <a/>
