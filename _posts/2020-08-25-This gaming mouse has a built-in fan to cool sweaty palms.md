@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MVbfpTWWYURllyq9kK5InX1PdxA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67290712/DSCF7370.0.jpg' width='700px' /><br/>
+I'll just come right out and say that I don't really think I've ever had a problem with sweaty palms in the 25 years or so that I've been regularly using a mouse. But my weather app is telling me it feels like 100xc2xb0F in Tokyo today, and I am not looking forward to my electricity bill this month, so if I can shift even one percent of the cooling burden from my air conditioner to my PC's USB port, why not?
+<a href='https://www.theverge.com/2020/8/25/21400620/zephyr-gaming-mouse-built-in-cooling-fan'> Source <a/>
