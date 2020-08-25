@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PocoSfNbwin2bILLe36RsfVyBpk=/27x36:2048x1479/1200x800/filters:focal(879x354:1205x680)/cdn.vox-cdn.com/uploads/chorus_image/image/67290083/s9_Photo_In_situ_Precision_Clean_Zone_Alexa.0.jpg' width='700px' /><br/>
+iRobot is announcing what it's calling the biggest software upgrade to its robot vacuum cleaners since the company's inception 30 years ago: a new AI-powered platform known as iRobot Genius Home Intelligence. Or, as iRobot CEO Colin Angle describes it: “It's a lobotomy and replacement of the intelligence systems in all of our robots.”
+<a href='https://www.theverge.com/2020/8/25/21377585/irobot-ai-software-update-home-intelligence-genius-app'> Source <a/>
