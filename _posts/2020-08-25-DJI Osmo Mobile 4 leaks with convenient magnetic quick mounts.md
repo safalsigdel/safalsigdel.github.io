@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fi3k58K3TbyV6tN23Gvfz5LLFmE=/0x0:420x280/1200x0/filters:focal(0x0:420x280):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21813991/DJI_Osmo_Mobile_4_1598353222_0_11.jpg' width='700px' /><br/>
+DJI could be about to announce a new smartphone gimbal called the Osmo Mobile 4 — now abbreviated “OM 4” — according to a new report from WinFuture. A video short posted to Twitter by WinFuture's Roland Quandt shows two new magnetic mounting mechanisms that let you quickly snap your smartphone into the mount, a big improvement over the previous model.
+<a href='https://www.theverge.com/2020/8/25/21400627/dji-osmo-mobile-4-trailer-leak-magnetic-mount-dynamic-zoom'> Source <a/>
