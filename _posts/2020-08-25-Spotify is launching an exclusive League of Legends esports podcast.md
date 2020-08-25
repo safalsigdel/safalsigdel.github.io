@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WPRSc0pwMOe3Bwvulygi_jhzfLg=/0x0:1200x630/1200x800/filters:focal(504x219:696x411)/cdn.vox-cdn.com/uploads/chorus_image/image/67284512/Spotify_x_League_of_Legends_Image.0.png' width='700px' /><br/>
-Spotify keeps adding to its exclusive podcast arsenal, and today, it's getting into the esports space. The company announced a multiyear partnership with Riot Games that'll make Spotify the hub for all League of Legends audio content, including exclusive podcast series.
-<a href='https://www.theverge.com/2020/8/24/21395974/spotify-riot-games-league-of-legends-podcast-music'> Source <a/>
