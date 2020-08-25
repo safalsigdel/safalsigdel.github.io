@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f7G0P9RSUeZ9Rqcr7cMA-dOKv5g=/0x0:2280x1520/1200x800/filters:focal(958x578:1322x942)/cdn.vox-cdn.com/uploads/chorus_image/image/67291797/facebookshop.0.jpg' width='700px' /><br/>
+Facebook is doubling-down on its e-commerce business and attempting to make shopping a destination in its main app, similarly to how it's already done inside Instagram. As a test in the US today, the company is launching Facebook Shop, a tab within the main Facebook app where people will be able to find products to buy and then purchase within the app.
+<a href='https://www.theverge.com/2020/8/25/21399858/facebook-shop-app-update-sell-product-instagram'> Source <a/>

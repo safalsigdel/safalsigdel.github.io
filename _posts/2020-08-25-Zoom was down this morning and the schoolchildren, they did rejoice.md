@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-With schools across the country beginning virtual classes this week, videoconferencing platform Zoom had an unexpected gift for all the schoolchildren in the form of a lengthy outage that affected the ability to conduct meetings and webinars. The outage affected North America and some parts of Europe.
-<a href='https://www.theverge.com/tldr/2020/8/24/21399515/zoom-down-outage-virtual-school'> Source <a/>

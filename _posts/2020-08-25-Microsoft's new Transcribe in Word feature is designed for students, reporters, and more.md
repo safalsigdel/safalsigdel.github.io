@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M6nLqoUCLQjADzLZoHYYLGFfW8I=/0x0:1745x1376/1200x0/filters:focal(0x0:1745x1376):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21814002/65iHmqJ.png' width='700px' /><br/>
+Microsoft is adding an audio transcription feature into Word for the web today. Transcribe in Word will appear in the online version of Word for Microsoft 365 subscribers, providing an easy way to automatically transcribe audio. Microsoft is supporting existing audio files, or even the ability to record conversations directly within Word for the web and have them automatically transcribed.
+<a href='https://www.theverge.com/2020/8/25/21400623/microsoft-transcribe-in-word-transcription-audio-microsoft-365'> Source <a/>

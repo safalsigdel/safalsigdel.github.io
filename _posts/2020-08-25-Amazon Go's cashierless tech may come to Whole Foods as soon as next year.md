@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YLlhi-x5qVEchCbPbCQnyNrT5CM=/0x0:640x480/1200x800/filters:focal(269x189:371x291)/cdn.vox-cdn.com/uploads/chorus_image/image/67287334/wholefoods.0.jpg' width='700px' /><br/>
-Amazon may be looking to bring the cashierless tech found at its Go convenience stores to Whole Foods supermarkets as early as next year, the New York Post reports.
-<a href='https://www.theverge.com/2020/8/24/21399607/amazon-cashierless-go-technology-whole-foods-2021-rumor'> Source <a/>
