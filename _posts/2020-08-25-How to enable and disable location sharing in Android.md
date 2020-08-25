@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/16l-d-7_zeVjuXasZ7G6F73FncY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67285109/vpavic_4113_20200724_0090.0.jpg' width='700px' /><br/>
-Revealing your location to somebody else could be a privacy violation — or it could be useful. If you want to make sure a friend knows you're on your way, or that your spouse knows that you're stuck in traffic (and you don't want to call them while you're driving), then an active location tracker could be a real help.
-<a href='https://www.theverge.com/21372603/google-android-location-sharing-maps-how-to-enable-disable'> Source <a/>
