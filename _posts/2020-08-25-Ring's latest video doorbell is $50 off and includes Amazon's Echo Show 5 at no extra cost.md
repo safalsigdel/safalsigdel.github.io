@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MqJ6z9Jh7k9CP1_7lYuAwETaX_4=/0x0:2048x1366/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/67291621/ringvideodoorbell3plus.0.jpg' width='700px' /><br/>
+To make up for the last few days of no deal coverage, I'm making up for it with today's roundup. It'll be larger than usual, comprised of a few deals that have been happening recently. There haven't been any true show-stopping deals as of late, but I still think these are worth telling you about.
+<a href='https://www.theverge.com/good-deals/2020/8/25/21377759/ring-video-doorbell-amazon-echo-nintendo-playstation-razer-deals'> Source <a/>

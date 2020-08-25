@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nrN2Pc7CTT4bMPQ9Gg76ibGxBmY=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67291710/VRG_ILLO_4159_Vergecast__Jeremy_Stoppelman.0.jpg' width='700px' /><br/>
+Antitrust criticism of big tech companies like Amazon, Apple, and Google are louder than ever — from the mouths of consumers to the tech companies that compete with them. Yelp CEO Jeremy Stoppelman has been vocal for years about the problem with Google's dominant market share in maps, local search, and reviews.
+<a href='https://www.theverge.com/2020/8/25/21399416/vergecast-podcast-interview-yelp-ceo-jeremy-stoppelman'> Source <a/>

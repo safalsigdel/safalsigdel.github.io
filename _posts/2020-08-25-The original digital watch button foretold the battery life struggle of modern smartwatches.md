@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e36jWJ4Pp3f8yVsidlJIIpaV6i4=/0x0:2040x1360/1200x800/filters:focal(948x562:1274x888)/cdn.vox-cdn.com/uploads/chorus_image/image/67290940/akrales_200811_4130_0016.0.0.jpg' width='700px' /><br/>
+In hindsight, it sounds almost ridiculous. An expensive watch with technology that's never been put on your wrist before that costs hundreds of dollars more than a traditional timepiece. And get this: this fancy, futuristic gadget can't even continuously show the time.
+<a href='https://www.theverge.com/21363967/hamilton-psr-pulsar-first-digital-watch-button-smartwatch-apple-battery-life'> Source <a/>
