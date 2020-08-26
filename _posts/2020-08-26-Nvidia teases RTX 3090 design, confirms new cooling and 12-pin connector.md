@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Nvidia is getting ready for its big GeForce event next week by teasing the design for its next-generation graphics cards. In a newly published video, Nvidia engineers and designers discuss the changes being made to its next Ampere-based GeForce cards. Recent leaks have suggested Nvidia will announce RTX 3000 Series cards on September 1st, including an RTX 3080 and a flagship RTX 3090 card.
+<a href='https://www.theverge.com/2020/8/26/21402321/nvidia-rtx-3090-design-12-pin-connector-cooling'> Source <a/>

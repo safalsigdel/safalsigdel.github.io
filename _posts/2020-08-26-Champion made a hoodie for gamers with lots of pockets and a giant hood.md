@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yWK_dkkqE6Rzj-v0qmHgQCpH2aE=/0x0:5326x7102/1200x800/filters:focal(2199x1848:3051x2700)/cdn.vox-cdn.com/uploads/chorus_image/image/67296706/Gamer_Hoodie_Layflat_Image.0.jpg' width='700px' /><br/>
+For as long as esports have existed, fans have debated whether the video game-based competitions have counted as a “real” sport. But Champion is here to settle that debate with its new Gamer Collection, which will bring esports players into the sport and activewear fold with specially designed hoodies and sweatpants for gamers.
+<a href='https://www.theverge.com/2020/8/26/21401805/champion-athletics-gaming-hoodie-gamers-pockets-hood-headphones-sweatpants'> Source <a/>
