@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cehAuEopasdT14EnCqpKkfbQ5UM=/0x0:7689x5128/1200x800/filters:focal(3230x1949:4460x3179)/cdn.vox-cdn.com/uploads/chorus_image/image/67295989/_DSC1334.0.jpg' width='700px' /><br/>
+Just over a year after Asus charmed us with the flipping cameras on the Zenfone 6, the company is back with the Zenfone 7 and 7 Pro. Both devices still have rotating camera arrays like last year's model, as well as the same massive 5,000mAh batteries. But this year, there are a bunch of new features including an extra zoom lens in the camera array and a new OLED display with a 90Hz refresh rate.
+<a href='https://www.theverge.com/2020/8/26/21400709/asus-zenfone-7-flipping-triple-camera-zoom-ultrawide-battery-90hz-oled-display'> Source <a/>
