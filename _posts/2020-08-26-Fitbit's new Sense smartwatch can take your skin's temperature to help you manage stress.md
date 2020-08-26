@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d_6eAc-qkIWP1mTYHs4ftGub1ic=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67291055/sense2.0.jpg' width='700px' /><br/>
-Fitbit has debuted two new smartwatches, the Sense and the Versa 3. The $329 Sense is the flagship option and is the most capable Fitbit wearable yet. The Versa 3 succeeds the Versa 2 and will cost $229. Preorders for both watches begin today through Fitbit's site, and they'll release in the US in late September.
-<a href='https://www.theverge.com/2020/8/25/21399307/fitbit-sense-versa-3-smartwatch-inspire-2-fitness-tracker-ecg-eda-stress'> Source <a/>
