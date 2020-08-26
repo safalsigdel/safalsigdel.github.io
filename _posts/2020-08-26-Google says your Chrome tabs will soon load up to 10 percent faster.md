@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/txXZBkIT2mHmxmSZ36Q3pD4vK_o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67292203/acastro_200207_3900_chrome_0001.0.0.jpg' width='700px' /><br/>
-Google is improving the performance of tabs in Chrome, according to a new blog post, and the changes could lead to speed gains of up to 10 percent. “When you're checking off one task after another from your to-do list, waiting even a few seconds while your tabs load can slow you down,” Google's Alex Ainslie wrote.
-<a href='https://www.theverge.com/2020/8/25/21400897/google-chrome-tabs-10-percent-faster-loading'> Source <a/>
