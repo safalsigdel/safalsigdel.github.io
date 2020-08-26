@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Newegg is hosting a great deal on Apple's AirPods Pro wireless earbuds. They're down to $199, which matches the best price that we've seen once before in early August. This model usually costs $250, and compared to the less expensive second-generation AirPods, these have better sound quality and noise cancellation.
+<a href='https://www.theverge.com/good-deals/2020/8/26/21402418/apple-airpods-pro-sale-deal-low-price-newegg'> Source <a/>
