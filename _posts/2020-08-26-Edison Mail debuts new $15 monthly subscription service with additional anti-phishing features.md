@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/10vNyjqluuOq0dh9EwsME3ea-FA=/0x0:2000x1000/1200x800/filters:focal(840x340:1160x660)/cdn.vox-cdn.com/uploads/chorus_image/image/67291929/edison_plus_banner.0.jpg' width='700px' /><br/>
-Edison Mail has announced a new paid subscription service, Edison Mail Plus, which adds a variety of anti-phishing and security-focused features to the email app for either $14.99 per month or $99.99 per year.
-<a href='https://www.theverge.com/2020/8/25/21400670/edison-mail-plus-subscription-price-anti-phishing-features-contact-validation'> Source <a/>
