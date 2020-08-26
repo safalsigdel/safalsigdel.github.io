@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5SRLvBbNY86zvBHg24pIHANIdog=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67296160/acastro_200713_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+Over at the New York Times, Andrew Ross Sorkin and Mike Isaac spoke to “more than a dozen people” familiar with Microsoft's plans to buy TikTok in order to tell the full “political soap opera:”
+<a href='https://www.theverge.com/2020/8/26/21402280/microsoft-buying-tiktok-new-york-times-report-go-read-this'> Source <a/>
