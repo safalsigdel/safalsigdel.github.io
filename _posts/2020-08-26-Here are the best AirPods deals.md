@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LmLuCdznDNHUwd2GEBbdSfamXy8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67012059/cwelch_191031_3763_0002.0.jpg' width='700px' /><br/>
+Apple's AirPods Pro are $50 off at Newegg for all of August 26th, or until supply runs out. This brings the price down to $199, which matches the best deal we've seen yet. If you're visiting this page after 12AM ET August 27th, there's a good chance this deal will no longer be active.
+<a href='https://www.theverge.com/21302051/best-apple-airpods-deals'> Source <a/>
