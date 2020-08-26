@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E8-_AKmAwa0hvQ_EYOhBp_2zYFw=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/67294738/598748900.jpg.0.jpg' width='700px' /><br/>
+Data-mining firm Palantir has filed its prospectus to take the company public, and its S-1 confirms leaked information that showed the company has not turned a profit since its founding in 2003.
+<a href='https://www.theverge.com/2020/8/25/21401669/palantir-public-thiel-trump-profit-privacy-s-1-filing'> Source <a/>

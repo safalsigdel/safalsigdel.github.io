@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zyUgnexr7VivNqoIGI27YJRCArA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67292538/akrales_190429_3371_0039.0.jpg' width='700px' /><br/>
+Facebook's annual Oculus Connect conference will be held online-only on September 16th — and it's being rebranded as Facebook Connect, part of the social giant's gradual assimilation of its virtual reality subsidiary.
+<a href='https://www.theverge.com/2020/8/25/21399752/oculus-connect-7-date-renamed-facebook-reality-labs-new-quest'> Source <a/>
