@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1Cic16gnZw_jadXEOBLdVDEBlx0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67300307/akrales_170111_1386_A_0164_v1.0.0.jpg' width='700px' /><br/>
-More than 2,400 police agencies have entered contracts with Clearview AI, a controversial facial recognition firm, according to comments made by Clearview AI CEO Hoan Ton-That in an interview with Jason Calacanis on YouTube.
-<a href='https://www.theverge.com/2020/8/26/21402978/clearview-ai-ceo-interview-2400-police-agencies-facial-recognition'> Source <a/>
