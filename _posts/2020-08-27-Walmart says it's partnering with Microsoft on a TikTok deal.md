@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NJQVSGZfc3pJ5geoq_DQrF3o5u4=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/67303704/1268140229.jpg.0.jpg' width='700px' /><br/>
+Walmart says it's interested in partnering with Microsoft on a potential TikTok deal. The retailer is pitching the partnership as a way for it to expand its advertising business and grow its third-party marketplace. It comes as reports suggest Microsoft is close to finalizing a deal with TikTok, that could be announced in the coming days.
+<a href='https://www.theverge.com/2020/8/27/21404142/walmart-microsoft-tiktok-deal'> Source <a/>
