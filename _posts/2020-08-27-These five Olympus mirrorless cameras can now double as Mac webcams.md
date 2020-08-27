@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n8rHQ_4UbyABG12NM_0MnhWtV3A=/0x0:1600x1200/1200x800/filters:focal(672x472:928x728)/cdn.vox-cdn.com/uploads/chorus_image/image/67299005/ted40041_hdr_copy.0.jpg' width='700px' /><br/>
-Olympus may be getting out of the photography business, but it may sell a few more mirrorless cameras to Mac owners first — today, it extended the previously Windows-only beta of its webcam software to Mac OS, letting you hook up five specific models to your MacBook, iMac or Mac Pro for what should be a far sharper webcam experience than you've probably had so far during the pandemic.
-<a href='https://www.theverge.com/2020/8/26/21402985/apple-mac-webcam-olympus-om-d-software-mirrorless-camera'> Source <a/>

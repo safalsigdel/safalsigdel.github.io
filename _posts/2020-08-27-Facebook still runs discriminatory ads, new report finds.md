@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tI3gV9qnRaPjwln83NdISsKUaDk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67300101/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-Over at The Markup, reporter Jeremy B. Merrill discovered that discriminatory advertisements still turn up on Facebook, despite the company agreeing to end some targeting options for housing, job, and credit ads last year.
-<a href='https://www.theverge.com/2020/8/26/21403025/facebook-discriminatory-ads-housing-job-credit-hud'> Source <a/>

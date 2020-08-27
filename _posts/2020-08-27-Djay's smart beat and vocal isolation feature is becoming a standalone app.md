@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GGMweufr04oaWOcHsf-Z7iFwm6g=/0x0:2667x1778/1200x0/filters:focal(0x0:2667x1778):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21820633/6.jpg' width='700px' /><br/>
+Algoriddim is launching a spinoff of its popular Djay app today. The new Mac app, called Neural Mix Pro, lets you isolate and extract different parts of a song, like its drum beat or vocals. You can then export those segments and use them for DJing or remixing with the app or device or your choice.
+<a href='https://www.theverge.com/2020/8/27/21402366/neural-mix-pro-announced-djay-isolation-app-algoriddim'> Source <a/>

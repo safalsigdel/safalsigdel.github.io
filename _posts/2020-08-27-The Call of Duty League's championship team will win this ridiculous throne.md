@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-Qo9pJ8ho0m0xxl2bsNn2bO-VLg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67303236/Untitled_1.0.jpg' width='700px' /><br/>
+The winner of this weekend's Call of Duty League championship will get the normal assortment of goodies, including a trophy, a ring, and a hefty chunk of a $4.6 million prize pool. But the league is also offering something different to crown the winning team: a literal throne.
+<a href='https://www.theverge.com/2020/8/27/21401584/call-of-duty-league-cdl-championship-throne'> Source <a/>
