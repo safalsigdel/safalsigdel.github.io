@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/CeTZTmlTKrK5IFCj2qmiNsFJiAo=/0x0:4992x3328/1200x800/filters:focal(1990x660:2788x1458)/cdn.vox-cdn.com/uploads/chorus_image/image/67302202/1169854529.jpg.0.jpg' width='700px' /><br/>
-TikTok CEO Kevin Mayer has reportedly left the company amid ongoing disputes with the Trump administration and sale talks, according to the Financial Times.
+TikTok CEO Kevin Mayer has left the company amid ongoing disputes with the Trump administration and sale talks. The news was first reported by the Financial Times.
 <a href='https://www.theverge.com/2020/8/27/21403698/tiktok-ceo-kevin-mayer-resigns-trump-administration-ban-microsoft-disney'> Source <a/>
