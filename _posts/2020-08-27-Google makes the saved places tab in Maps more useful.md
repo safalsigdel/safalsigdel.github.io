@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U3Zpz1SmTXZzsEXSVvR_ngKAOac=/0x0:1722x1126/1200x800/filters:focal(724x426:998x700)/cdn.vox-cdn.com/uploads/chorus_image/image/67302532/google_maps_saved_places_tab.0.jpg' width='700px' /><br/>
+Google is rolling out some small but useful updates to Google Maps focusing on the app's Saved tab. If you've not used it before, this lets you bookmark favorite locations, be they parks or pubs, and sort them by “favorites,” “want to go,” “starred places,” or custom lists.
+<a href='https://www.theverge.com/2020/8/27/21403773/google-maps-saved-places-tab-update-sort-find'> Source <a/>
