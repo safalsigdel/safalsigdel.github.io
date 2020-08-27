@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/czf8Zm6avha16Tp3Wk91YGp-sbk=/0x0:3840x2160/1200x675/filters:focal(1541x925:2155x1539)/cdn.vox-cdn.com/uploads/chorus_image/image/67297358/Unreal_Engine_5_18.0.jpg' width='700px' /><br/>
-Epic's legal fight with Apple over the future of Fortnite has quickly evolved into an existential battle for one of the game studio's most lucrative and important assets: the Unreal Engine platform.
-<a href='https://www.theverge.com/2020/8/26/21402443/epic-fortnite-apple-unreal-engine-ios-game-developers-lawsuit'> Source <a/>
