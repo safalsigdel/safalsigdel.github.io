@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dj3kB31sjx4kI9AqnR7TPwi_nww=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67298902/acastro_200503_4006_politicalInfluencers_0001.0.jpg' width='700px' /><br/>
+The Presidential elections are nearly upon us. Amidst all the crises that we are now experiencing — the COVID-19 pandemic, environmental emergencies, protests against racism, and an extraordinarily divided electorate — it is vital that, if you are a US citizen and 18 years of age or older, you make use of your vote.
+<a href='https://www.theverge.com/21401540/absentee-vote-mail-presidential-elections-ballots-how-to'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UnlsAPJotJBwx19tWlmxFIhxDPQ=/0x0:4096x2731/1200x800/filters:focal(1721x1039:2375x1693)/cdn.vox-cdn.com/uploads/chorus_image/image/67301242/EgYaiGtXcAMSyIs.0.jpeg' width='700px' /><br/>
+A COVID-19 test that takes 15 minutes and can be run without lab equipment was just granted emergency use authorization by the Food and Drug Administration. It will cost $5, and runs on a simple card that uses the same technology as a pregnancy test.
+<a href='https://www.theverge.com/2020/8/26/21403432/fda-authorizes-binaxnow-covid-19-test-abbott-cheap-fast'> Source <a/>

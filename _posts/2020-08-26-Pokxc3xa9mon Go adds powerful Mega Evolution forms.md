@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5feyo8gHnlDc6rDSat9nkgLFhbk=/0x0:2706x1802/1200x800/filters:focal(1137x685:1569x1117)/cdn.vox-cdn.com/uploads/chorus_image/image/67296659/evo.0.jpg' width='700px' /><br/>
-Niantic is releasing a new Mega Evolution feature for Pokxc3xa9mon Go, bringing more powerful evolved forms of certain pokxc3xa9mon to the game. Mega Evolution was introduced to the mainline Pokxc3xa9mon series in Pokxc3xa9mon X and Y and continued in Sun and Moon, but it doesn't appear in the most recent games Sword and Shield, which have a similar feature called Dynamax.
-<a href='https://www.theverge.com/2020/8/26/21402282/pokemon-go-mega-evolution-feature-details-release'> Source <a/>

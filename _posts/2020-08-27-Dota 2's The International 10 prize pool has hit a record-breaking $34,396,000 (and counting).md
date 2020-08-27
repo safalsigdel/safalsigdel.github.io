@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YbQdT2A6h3GsIB_5ekHGhp_RrcA=/0x0:1107x781/1200x800/filters:focal(473x328:649x504)/cdn.vox-cdn.com/uploads/chorus_image/image/67301214/Screen_Shot_2020_08_26_at_4.57.19_PM.0.png' width='700px' /><br/>
+Dota 2's The International, one of the biggest esports tournaments in the world, has broken its own record as the most lucrative esports event, with this year's prize pool already totaling more than $34,396,000. The previous record was a prize pool of $34.3 million from last year's event.
+<a href='https://www.theverge.com/2020/8/26/21402956/dota-2-the-international-10-prize-pool-record-breaking-prize-pool-34-million-dollars-valve'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UyGFtBNJ8Y2OcrwNPUOIzyzTHGE=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/67296366/aliptak_180919_2960_5232.0.jpg' width='700px' /><br/>
-General Motors is offering a sneak peek of the two new versions of the Chevy Bolt, the automaker's mass-market electric car that has been on sale since 2017. A refreshed Bolt and a larger Bolt Electric Utility Vehicle were first announced at the automaker's “EV Day” earlier this year and are expected to enter production in summer 2021.
-<a href='https://www.theverge.com/2020/8/26/21401302/gm-chevy-bolt-tease-image-electric-ev'> Source <a/>

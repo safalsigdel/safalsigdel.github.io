@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rPyBIM0C2dLtBTg8xIRLS6RuMkc=/0x0:704x413/1200x800/filters:focal(296x151:408x263)/cdn.vox-cdn.com/uploads/chorus_image/image/67293635/Screen_Shot_2015-12-07_at_5.32.39_PM.0.0.png' width='700px' /><br/>
-Verily Life Sciences, the health care company owned by Alphabet, is getting into insurance, the company announced today. Verily is launching a new subsidiary for the effort called Coefficient Insurance Company, which will be backed by the commercial insurance unit of Swiss Re Group.
-<a href='https://www.theverge.com/2020/8/25/21401124/alphabet-verily-insurance-coefficient-stop-loss'> Source <a/>

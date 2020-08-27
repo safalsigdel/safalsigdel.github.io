@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eFUC9z7_wSEw2ATmTKjxQYg_99U=/0x0:1727x1023/1200x800/filters:focal(688x654:964x930)/cdn.vox-cdn.com/uploads/chorus_image/image/67293567/vue_glasses_lite_smart_2020.0.jpg' width='700px' /><br/>
-In October 2016, a startup named Vue promised Kickstarter backers a pair of prescription eyeglasses that could double as wireless earbuds, a fitness tracker, and a smartwatch all at once, plus bone conduction speakers so nobody can eavesdrop on your music and calls. By 2018, $3 million later, the company hadn't shipped a single pair.
-<a href='https://www.theverge.com/2020/8/25/21401332/vue-smart-glasses-lite-price-shipping'> Source <a/>

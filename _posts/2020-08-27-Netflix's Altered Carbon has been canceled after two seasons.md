@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XQwCxmIH27nQs6lWdXSer979x5A=/0x0:2000x1333/1200x800/filters:focal(1089x298:1409x618)/cdn.vox-cdn.com/uploads/chorus_image/image/67300682/alteredcarbonstill3.0.jpg' width='700px' /><br/>
+Netflix has canceled its adaptation of Altered Carbon after two seasons, according to Variety, marking the end of yet another big-budget adaptation for the streaming service.
+<a href='https://www.theverge.com/2020/8/26/21403209/netflix-altered-carbon-canceled-two-seasons-streaming'> Source <a/>

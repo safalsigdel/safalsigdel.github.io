@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KCw51oh3X405Kx-Mi6kZysbMiNA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67300147/akrales_190117_3163_0194.0.jpg' width='700px' /><br/>
+Google are making it easier to move images from your camera to Google Photos. Owners of recent Canon cameras can now automatically upload photos and videos to the popular photo management platform by wirelessly slinging them via your phone.
+<a href='https://www.theverge.com/2020/8/26/21402997/canon-camera-google-photo-wifi-upload-cloud-storage'> Source <a/>

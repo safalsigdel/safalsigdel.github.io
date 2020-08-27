@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Pm7cixfIWe1z4uIY3BFPkzS_aZ4=/0x0:3000x2250/1200x800/filters:focal(1092x886:1572x1366)/cdn.vox-cdn.com/uploads/chorus_image/image/67300412/NZXT_starter.0.jpg' width='700px' /><br/>
+For those interested in dipping their toes into the waters of PC gaming, but aren't quite ready to take the full plunge, NZXT has a pretty solid offer as part of its new update to its Starter series of prebuilt machines first introduced last year. For $699, you can buy a solidly capable entry-level gaming PC with one of NZXT's pretty sleek-looking tower cases, in either white or black.
+<a href='https://www.theverge.com/2020/8/26/21403085/nzxt-prebuilt-gaming-pc-starter-series-affordable-windows-pricing'> Source <a/>

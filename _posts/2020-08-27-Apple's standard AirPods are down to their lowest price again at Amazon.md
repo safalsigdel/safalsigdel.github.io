@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+If you use an iPhone and are looking for a reliable set of wireless earbuds that connect quickly, Apple's second-generation AirPods are back down to their lowest price at Amazon. Normally $159, they cost $129 right now. This model includes a wired charging case. Other retailers like Best Buy and Walmart are selling them for $139. $10 isn't a huge discount, but we thought you'd like to know that now is a good time to invest.
+<a href='https://www.theverge.com/good-deals/2020/8/26/21402418/apple-airpods-pro-sale-deal-low-price-newegg'> Source <a/>

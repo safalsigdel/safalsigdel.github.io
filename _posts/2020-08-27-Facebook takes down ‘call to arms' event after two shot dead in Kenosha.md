@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b0XYnnl5ix3FyujA2gEq5-gElPQ=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/67297683/1228205929.jpg.0.jpg' width='700px' /><br/>
+The killing of two protestors in Kenosha, Wisconsin on Tuesday night may have emerged in response to a Facebook event posted by a self-described militia, which referred to the event as a “call to arms.”
+<a href='https://www.theverge.com/2020/8/26/21402571/kenosha-guard-shooting-facebook-deplatforming-militia-violence'> Source <a/>

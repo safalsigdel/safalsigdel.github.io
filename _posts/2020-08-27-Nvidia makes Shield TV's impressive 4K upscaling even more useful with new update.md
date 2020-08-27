@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6XibJ-0RFGA8SribW9YvmPx0IiA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67300362/DSCF4393.0.jpg' width='700px' /><br/>
+Nvidia is delivering a number of new features to the tube-shaped Shield TV and Shield TV Pro streaming devices it released last year, and older models are also getting improvements. The company patted itself on the back with a blog post celebrating the 25th software update for Shield TV. It's fair to say that Nvidia knows its audience, and this latest round of upgrades is targeted at home theater enthusiasts and streaming power users.
+<a href='https://www.theverge.com/2020/8/26/21402819/nvidia-shield-tv-update-4k-upscaling-remote-customize'> Source <a/>

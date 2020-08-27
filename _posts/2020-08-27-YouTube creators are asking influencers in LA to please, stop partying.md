@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4JlVG7YTVT_uMYgnzcP9m1dJtjk=/0x106:880x648/1200x800/filters:focal(412x268:552x408)/cdn.vox-cdn.com/uploads/chorus_image/image/67298924/Screen_Shot_2020_08_26_at_2.27.31_PM.0.png' width='700px' /><br/>
+After a series of high profile parties in some of the wealthiest parts of Los Angeles hosted by a number of popular TikTok and YouTube creators, Los Angeles Mayor Eric Garcetti made the executive decision to shut off power at one offender's private residence last week.
+<a href='https://www.theverge.com/2020/8/26/21395929/youtube-tiktok-influencer-parties-los-angeles-bryce-hall-sway-house-government'> Source <a/>

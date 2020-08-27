@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/puE6RhCKy_1-Lt-o5MYXjsXPAic=/0x0:1200x676/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/67297818/Galaxy.0.jpg' width='700px' /><br/>
+Amazon has canceled its planned adaptation of Iain M. Banks' Consider Phlebas, the first novel in the author's acclaimed sci-fi Culture series. Amazon Studios acquired rights to the book in 2018 as part of an effort to create shows with “global appeal” for Amazon Prime Video, but multiple sources say development is no longer happening.
+<a href='https://www.theverge.com/2020/8/26/21402585/amazon-cancels-tv-adaptation-culture-series-iain-m-banks-consider-phlebas'> Source <a/>

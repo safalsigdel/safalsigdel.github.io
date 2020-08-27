@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iXGUAZkP-2sWkxOQvvrRle43BEU=/0x0:4800x2931/1200x800/filters:focal(2016x1082:2784x1850)/cdn.vox-cdn.com/uploads/chorus_image/image/67292495/1207671806.jpg.0.jpg' width='700px' /><br/>
-Shared bike and scooter companies in California are urging state legislators to oppose a bill that would “threaten the very existence of micromobility” in the state. The bill, AB 1286, would prohibit companies from including language in their terms of service asking riders to waive liability for injuries — a provision shared mobility companies claim would essentially force them to shut down if enacted.
-<a href='https://www.theverge.com/2020/8/25/21400842/bike-scooter-california-bill-ab1286-liability-waiver'> Source <a/>
