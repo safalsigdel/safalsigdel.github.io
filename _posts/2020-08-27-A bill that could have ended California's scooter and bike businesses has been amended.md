@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1paufDWiwbw_TNGZrMRBJPFiksg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67297601/amartyn_190425_3550_0001.0.jpg' width='700px' /><br/>
-A bill in the California state legislature that shared bike and scooter companies feared would have ended their businesses has been amended.
-<a href='https://www.theverge.com/2020/8/26/21402557/scooter-bike-california-bill-liability-waiver-amended'> Source <a/>
