@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/joBnq_lFHEi17g3Xg54kaKNgq4w=/0x0:3840x2160/1200x800/filters:focal(1775x599:2389x1213)/cdn.vox-cdn.com/uploads/chorus_image/image/67302159/Halo_Infinite_2020_Ascension_Demo_Campaign_07_4k.0.png' width='700px' /><br/>
+Joseph Staten, a veteran of the Halo series, has returned to the franchise and will work on the campaign for the upcoming Halo Infinite. The news was first reported by Bloomberg, and Staten confirmed the move on Twitter.
+<a href='https://www.theverge.com/2020/8/27/21403687/halo-infinite-bungie-joe-staten-returns-campaign'> Source <a/>
