@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/svVeKltu_B8oY8ZEi0AFb4Z5Fvg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67302471/acastro_180130_1777_0005_v2.0.jpg' width='700px' /><br/>
+Apple and Facebook are fighting again, and how you feel about it says something about who you trust to represent your interests in the strange tech landscape of 2020.
+<a href='https://www.theverge.com/interface/2020/8/27/21402744/apple-idfa-facebook-fight-ads-advertising'> Source <a/>
