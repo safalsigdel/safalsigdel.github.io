@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Apple's iMacs are pretty beautiful products, but engineer and designer Michael Pick managed to make Apple's iMac absolutely adorable by shrinking it.
-<a href='https://www.theverge.com/tldr/2020/8/26/21402693/imac-tiny-build-youtube-engineer-3d-printing-raspberry-pi-diy'> Source <a/>
