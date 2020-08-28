@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bXO-uoRhn6xglSlygKCFOTeur-I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67307754/acasto_180123_1777_0003_v8.0.jpg' width='700px' /><br/>
+Apple blocked Facebook from informing users that Apple would collect 30 percent of in-app purchases made through a planned new feature, Facebook tells Reuters. Apple said the update violated an App Store rule that doesn't let developers show “irrelevant” information to users.
+<a href='https://www.theverge.com/2020/8/28/21405140/apple-rejects-facebook-update-30-percent-cut'> Source <a/>
