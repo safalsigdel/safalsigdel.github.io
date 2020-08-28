@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fmdRzBJsz0X1pDVP3nTx3M0Zqi8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67308168/acastro_200713_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+TikTok is in trouble. Over the course of less than a day, the company lost its CEO and gained a surprising new suitor. The breakout social app could be within days of making a deal to sell itself to an American company — but the turmoil surrounding the sale threatens to leave the company permanently damaged.
+<a href='https://www.theverge.com/interface/2020/8/28/21404215/tiktok-sale-microsoft-walmart-oracle-challenges-bytedance-china-algorithm'> Source <a/>
