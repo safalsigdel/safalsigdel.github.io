@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9382/dseifert_200826_4163_0002.0.jpg' width='700px' /><br/>
-When it comes to smart home gadgets, there are the simple, basic things that most people start with, such as smart light bulbs, smart outlets, or a smart lock. Any of those can be purchased for a relatively low price and installed in just a few minutes. Then there are the advanced smart home gadgets: things like smart sprinkler systems or extensive surveillance systems. Those are more expensive and more challenging to install.
-<a href='https://www.theverge.com/21402661/lutron-serena-smart-wood-blinds-test-review-specs-price-features'> Source <a/>
