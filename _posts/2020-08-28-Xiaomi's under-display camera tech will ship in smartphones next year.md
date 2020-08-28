@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aJXKMrPyKakJY4VCJ--3JRafjfE=/0x0:4200x2835/1200x800/filters:focal(1764x1082:2436x1754)/cdn.vox-cdn.com/uploads/chorus_image/image/67308129/1267070459.jpg.0.jpg' width='700px' /><br/>
+Xiaomi intends to start mass-producing smartphones equipped with its under-display camera technology next year, the company announced today. This is technically the third generation of the technology Xiaomi has developed, the company says, although the first and second versions it produced have yet to find their way into a mass-market consumer device.
+<a href='https://www.theverge.com/2020/8/28/21405241/xiaomi-under-display-selfie-camera-no-notch-hole-punch-2021-mass-production'> Source <a/>

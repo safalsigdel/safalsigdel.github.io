@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ba8AC4L7SBNVg6YQlmUZGs5YST8=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21820035/gamescomtimetable.jpg' width='700px' /><br/>
-The opening keynote for Gamescom, the biggest gaming convention on Earth, is happening today, August 27th. But instead of passionate fans and media roaming through the event in person, it's all happening online due to the coronavirus pandemic. If you want to tune into that, we've provided all the info below that you'll need. The gaming news will continue to pour until the event ends on Sunday, August 30th.
-<a href='https://www.theverge.com/2020/8/27/21401581/gamescom-opening-keynote-show-date-start-time-watch-live-stream'> Source <a/>
