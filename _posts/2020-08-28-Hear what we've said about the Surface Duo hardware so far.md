@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B3b_yr8mb5Ysg--R0DZXEeLNrBc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67309023/akrales_191002_3704_0282.0.jpg' width='700px' /><br/>
+This week on The Verge's Friday episode of The Vergecast, Wired senior writer and Verge alum Lauren Goode stops by to discuss her new podcast Get Wired and stays to talk tech and gadgets with her Verge colleagues Nilay Patel and Dieter Bohn.
+<a href='https://www.theverge.com/2020/8/28/21405360/vergecast-419-podcast-surface-duo-hands-on-amazon-halo-epic-vs-apple'> Source <a/>
