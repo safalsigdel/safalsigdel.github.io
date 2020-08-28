@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/87ia6TZOalpCowqk9i7_vcszHsc=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67304334/snapshot.0.jpg' width='700px' /><br/>
+Google is expanding its “Snapshot” feature in Assistant, adding new reminders and more proactive suggestions for new activities you may want to try.
+<a href='https://www.theverge.com/2020/8/27/21404244/google-assistant-snapshot-feature-birthday-reminders-recipe-recommendations'> Source <a/>

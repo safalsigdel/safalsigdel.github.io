@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dAZkE5JH6HSS-m8JrGauesWjFSk=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/67304881/brose_190930_3699_0008.0.jpg' width='700px' /><br/>
+GoPro will now let people on Windows PCs use its Hero 8 action camera as a webcam — though the experience is only in beta for now. The compatibility with Windows follows the introduction of the webcam functionality for macOS users in July.
+<a href='https://www.theverge.com/2020/8/27/21404301/gopro-hero-8-webcam-windows-beta-mac-macos'> Source <a/>

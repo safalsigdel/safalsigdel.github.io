@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a286LULnuEaqLgOK0iFYDurt58g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67301178/acastro_170621_1777_0004_fin.0.jpg' width='700px' /><br/>
-Empire Market, one of the biggest dark web marketplaces, has been offline for three days, Bloomberg reports. It's unclear what has happened to the site's administrators, whose identities remain unknown.
-<a href='https://www.theverge.com/2020/8/26/21403362/empire-market-dark-web-drug-marketplace-police-shutdown-silk-road-alphabay'> Source <a/>

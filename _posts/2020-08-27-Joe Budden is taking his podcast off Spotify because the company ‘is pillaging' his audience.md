@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zXp2upE-owo6a9ogO3ILjBTI8cs=/0x0:2304x1536/1200x800/filters:focal(958x265:1326x633)/cdn.vox-cdn.com/uploads/chorus_image/image/67301054/joebudden.0.jpg' width='700px' /><br/>
-Joe Budden, one of Spotify's biggest exclusive podcasters, is leaving the platform. He and his show will no longer be exclusive to Spotify after September 23rd, he says in his most recent episode while also seemingly suggesting it might not be available on Spotify at all.
-<a href='https://www.theverge.com/2020/8/26/21403282/joe-budden-spotify-exclusive-leaving-host-podcast'> Source <a/>

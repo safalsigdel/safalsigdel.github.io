@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iJowxVJ8tx6GNPV6txD7do5TXsc=/0x0:2448x1624/1200x800/filters:focal(1029x617:1419x1007)/cdn.vox-cdn.com/uploads/chorus_image/image/67300634/Screen_Shot_2020_08_26_at_5.29.22_PM.0.png' width='700px' /><br/>
-Sony has announced the latest step in its dragged out PlayStation 5 reveal, with the company opening online registration to possibly receive an invitation to be one of the first to pre-order the console directly from PlayStation.
-<a href='https://www.theverge.com/2020/8/26/21403245/sony-playstation-5-preorders-invite-only-registration-dualsense-accessories'> Source <a/>

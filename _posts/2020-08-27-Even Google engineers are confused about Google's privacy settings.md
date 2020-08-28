@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OPIpXX0LRYo0HCoY-pBVwIOxl0c=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/67300861/googlemaps.0.png' width='700px' /><br/>
-Google's privacy settings don't just confuse its users — they confuse its employees too, according to internal documents unsealed in a lawsuit over Google's data collection.
-<a href='https://www.theverge.com/2020/8/26/21403202/google-engineers-privacy-settings-lawsuit-arizona-doubleclick'> Source <a/>

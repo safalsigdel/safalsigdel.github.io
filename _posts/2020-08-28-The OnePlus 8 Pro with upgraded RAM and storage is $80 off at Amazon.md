@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+The OnePlus 8 Pro in the onyx black or ultramarine blue color variant is $80 off at Amazon right now. This discount brings the total down to $920. In case you missed it, some OnePlus phones aren't so cheap — even with a sizable discount like this one applied to it. Nevertheless, if you've been waiting for even a slight price drop on the unlocked model that features the Snapdragon 865 processor, 12GB of RAM, and 256GB of fast UFS 3.0 storage, this is your opportunity to save.
+<a href='https://www.theverge.com/good-deals/2020/8/27/21404315/oneplus-8-pro-discount-sale-deal-amazon'> Source <a/>

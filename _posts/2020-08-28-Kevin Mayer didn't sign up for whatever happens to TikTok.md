@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EbYYxzQmA3cTdlOfs_N8oY6C_Lo=/0x0:2050x1367/1200x800/filters:focal(817x371:1145x699)/cdn.vox-cdn.com/uploads/chorus_image/image/67306597/wjoel_200827_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
+Kevin Mayer is out as TikTok's CEO less than four months after taking the job. While his resignation comes in the middle of ongoing political turmoil brought on by the Trump administration, his decision to leave likely has less to do with politics and more to do with his own autonomy as an acquisition looms.
+<a href='https://www.theverge.com/2020/8/27/21404005/tiktok-kevin-mayer-ceo-vanessa-pappas-trump-microsoft-oracle-walmart-sale'> Source <a/>

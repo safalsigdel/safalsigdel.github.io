@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KYRTROZGtNGyIwFN33uoepumxWQ=/0x0:1600x900/1200x800/filters:focal(940x285:1196x541)/cdn.vox-cdn.com/uploads/chorus_image/image/67300478/tfue.0.jpg' width='700px' /><br/>
-Turner “Tfue” Tenney and gaming organization Faze Clan have settled an ongoing lawsuit started by the former Faze member more than a year ago.
-<a href='https://www.theverge.com/2020/8/26/21403052/tfue-faze-clan-lawsuit-settled-streaming-events-competition-esports'> Source <a/>

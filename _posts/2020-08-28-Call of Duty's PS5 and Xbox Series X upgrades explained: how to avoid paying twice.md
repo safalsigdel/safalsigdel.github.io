@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gv0ujT-Y9DNcmUImXlAVPAcovKk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67305167/BO_Cold_War_Reveal_Tout.0.jpg' width='700px' /><br/>
+Activision has finally unveiled this year's Call of Duty title — Black Ops Cold War. It will launch on November 13th, and Activision is making a big deal about how it's a cross-gen title for both PS5 and PS4, and Xbox One and Xbox Series X, in addition to PC.
+<a href='https://www.theverge.com/2020/8/27/21403145/call-of-duty-black-ops-cold-war-next-gen-price-playstation-xbox'> Source <a/>

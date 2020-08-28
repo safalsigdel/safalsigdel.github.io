@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eVpc3gDZtzjyQl6eSVOYlO-kL2c=/0x0:2706x1174/1200x0/filters:focal(0x0:2706x1174):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21822922/Screen_Shot_2020_08_27_at_2.14.16_PM.png' width='700px' /><br/>
+Sony'x upcoming Xperia 5 II — the successor to last year's Xperia 5 — has leaked almost in full thanks to a leaked promotional video obtained by Android Headlines, which has revealed almost all the information on Sony's smaller flagship ahead of its planned September 17th release.
+<a href='https://www.theverge.com/2020/8/27/21404391/sony-xperia-5-ii-leak-120hz-display-headphone-jack'> Source <a/>
