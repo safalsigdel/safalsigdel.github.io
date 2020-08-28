@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_sLm-55i5ZbH1ia7epRl5IFEirk=/0x0:2040x2040/1200x675/filters:focal(857x857:1183x1183)/cdn.vox-cdn.com/uploads/chorus_image/image/67308227/DSC_0087.0.jpg' width='700px' /><br/>
+The only live music I've managed to see all year came from an unexpected place. I recently found myself on a Friday night after hours at teamLab Planets, a popular tourist spot in Tokyo, watching rock star Miyavi working on his latest “Miyavi Virtual” project. Miyavi Virtual 3.0 will be available to buy and stream later today — it's a live performance mixing drone footage with dazzling digital art.
+<a href='https://www.theverge.com/2020/8/28/21405253/miyavi-virtual-live-performance-teamlab-planets-interview'> Source <a/>
