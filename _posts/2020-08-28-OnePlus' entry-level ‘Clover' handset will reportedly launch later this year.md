@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/946BfBsb5jwBGzi-UZS-wt8miV0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67308123/vpavic_4112_20200721_0052.0.jpg' width='700px' /><br/>
+OnePlus is planning to release an entry-level handset codenamed Clover for around $200 later this year, according to a detailed but unconfirmed report from Android Central.
+<a href='https://www.theverge.com/2020/8/28/21405235/oneplus-clover-handset-leak-specs-entry-level-launch-price'> Source <a/>
