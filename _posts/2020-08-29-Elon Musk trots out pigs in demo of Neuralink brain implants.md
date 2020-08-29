@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7PHib0sWvkBzJEiV-Y-9Pi_Rua0=/0x0:1909x1069/1200x800/filters:focal(803x383:1107x687)/cdn.vox-cdn.com/uploads/chorus_image/image/67312016/bandicam_2020_08_28_18_53_29_496.0.jpg' width='700px' /><br/>
+Elon Musk's brain-machine interface company Neuralink showcased a pig outfitted with the company's device, at an event livestreamed on YouTube. One pig, Gertrude, had a device recording signals from an area of the brain linked to her snout. She'd had the implant for two months at the time of the demonstration.
+<a href='https://www.theverge.com/2020/8/28/21406143/elon-musk-neuralink-ai-pigs-demo-brain-computer-interface'> Source <a/>

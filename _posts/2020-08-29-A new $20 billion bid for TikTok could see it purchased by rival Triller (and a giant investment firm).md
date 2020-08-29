@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mCikqB60K03sHgqpkx7L1RJ7IuM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67311475/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
+Bloomberg is reporting that TikTok-rival Triller and Centricus (a London-based global investment firm) are the latest suitors looking to buy TikTok's US business with a $20 billion bid, joining Oracle and a recently combined Microsoft / Walmart effort to acquire the popular short-form video application.
+<a href='https://www.theverge.com/2020/8/28/21406094/triller-centricus-tiktok-us-business-acquisition-trump-bytedance'> Source <a/>
