@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gmEgilzl7rttnvMUq_1APulBlBM=/0x0:2040x1360/1200x675/filters:focal(901x720:1227x1046)/cdn.vox-cdn.com/uploads/chorus_image/image/67313081/mchin_181119_4158_0015.0.0.jpg' width='700px' /><br/>
+The Razer Blade Pro 17 is far from an Ultrabook. It's just over six pounds and boasts a 17-inch screen, an H-series processor, and a top-end RTX GPU.
+<a href='https://www.theverge.com/21405760/razer-blade-pro-17-2020-review'> Source <a/>

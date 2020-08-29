@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M_XKVNNMlHkOvRL3DfUlLsftSXQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67305251/1228174631.jpg.0.jpg' width='700px' /><br/>
-A handful of voter advocacy groups filed a lawsuit against President Donald Trump's social media executive order on Thursday, according to Protocol. The order was signed after Twitter fact-checked false tweets by Trump on mail-in voting earlier this year, and Thursday's lawsuit seeks to ensure platforms can counter voting misinformation online.
-<a href='https://www.theverge.com/2020/8/27/21404554/trump-social-media-order-section-230-rock-the-vote-free-press'> Source <a/>
