@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O2mSZxiBDPIi88YMZ2Wckn9q-jI=/0x0:3360x1818/1200x800/filters:focal(1412x641:1948x1177)/cdn.vox-cdn.com/uploads/chorus_image/image/67306968/Screen_Shot_2020_08_05_at_10.25.49_AM.0.png' width='700px' /><br/>
-Samsung announced the Galaxy Z Fold 2 on August 5th, but didn't give a release date or price at the time, only promising to share more about the foldable on September 1st. But if you check Samsung's UK retail website right now, it seems you can already pre-order the Z Fold 2 for xc2xa31,799, and it's set to ship by September 17th (via Max Weinbach).
-<a href='https://www.theverge.com/2020/8/27/21404908/galaxy-z-fold-2-uk-ship-pre-order-september-17th'> Source <a/>
