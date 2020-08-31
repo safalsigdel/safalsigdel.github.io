@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OPd5uan6d6upmd1mOuFJQkR55fQ=/0x0:2000x1500/1200x800/filters:focal(840x590:1160x910)/cdn.vox-cdn.com/uploads/chorus_image/image/67319247/04_Legion_Slim_7i_Hero_Right_Profile.0.jpg' width='700px' /><br/>
+The words “slim” and “lightweight” usually don't apply to gaming laptops, but Lenovo is trying it out with the new Legion Slim 7i. At 3.9 pounds and 18mm thick, Lenovo says it's the lightest 15.6-inch model available that can be configured with Nvidia's GeForce RTX 2060 Max-Q graphics chip. This machine will release in time for the holidays starting at $1,329.
+<a href='https://www.theverge.com/2020/8/31/21400989/lenovo-legion-slim-7i-lightweight-ray-tracing-nvidia-rtx-gaming-laptop'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kLjcmeyAq4e8HHwmurrwUWCkTbk=/0x0:2000x1500/1200x800/filters:focal(840x590:1160x910)/cdn.vox-cdn.com/uploads/chorus_image/image/67319250/02_Yoga_9_Hero_Portability_Design.0.jpg' width='700px' /><br/>
+Lenovo has announced a new flagship consumer laptop line, the Yoga 9 series. The line includes the convertible Yoga 9i, which comes in both 14- and 15-inch sizes, as well as a 14-inch, non-convertible Yoga Slim 9i (which will be called the IdeaPad Slim 9i in North America). The Yoga 9i replaces last year's Yoga C940, which many reviewers praised as one of the best convertible laptops on the market.
+<a href='https://www.theverge.com/2020/8/31/21404835/lenovo-yoga-9i-ideapad-slim-laptops-new-convertible'> Source <a/>

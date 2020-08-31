@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fmoX047IsBXQ8QDF8Tqp_DPJ-KU=/0x0:2880x1200/1200x800/filters:focal(1210x370:1670x830)/cdn.vox-cdn.com/uploads/chorus_image/image/67319254/Image_1__Google_Kids_Space_Blog.0.png' width='700px' /><br/>
+Google has announced Kids Space, a new mode for Android tablets that includes kid-friendly features and content, and parental controls. It's making its debut on Lenovo's new Tab M10 HD Gen 2, also unveiled today. Google says it's coming to more devices in the future.
+<a href='https://www.theverge.com/2020/8/31/21406896/google-kids-space-lenovo-android-tablets-parental-controls'> Source <a/>

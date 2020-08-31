@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GKt0RH-vQ_QNEaef2IyCirCumoc=/0x0:570x413/1200x800/filters:focal(240x162:330x252)/cdn.vox-cdn.com/uploads/chorus_image/image/67309907/Screen_Shot_2020_08_28_at_8.08.05_AM.0.png' width='700px' /><br/>
-A new set of Bose sunglasses with built-in speakers could be on the way, as revealed by new filings published by the FCC. You might be looking at the next version of the company's Frames line of audio sunglasses.
-<a href='https://www.theverge.com/2020/8/28/21405504/bose-sunglasses-audio-fcc-filings-frames'> Source <a/>

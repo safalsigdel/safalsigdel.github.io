@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pvyxN8uZ2wA_H0WEXwJLclxnfRU=/0x0:4800x2700/1200x800/filters:focal(2016x966:2784x1734)/cdn.vox-cdn.com/uploads/chorus_image/image/67309307/Bollinger_Motors_DELIVER_E_Front_3.4.0.jpg' width='700px' /><br/>
-Michigan-based electric truck startup Bollinger Motors hasn't started production on its rugged electric trucks, the Jeep-like B1 and the B2 pickup, but it's already rolling out a new vehicle type. This week, the company unveiled the Deliver-E, its all-electric delivery van concept that is slated for production in 2022.
-<a href='https://www.theverge.com/2020/8/28/21405451/bollinger-electric-delivery-van-production-price-specs'> Source <a/>

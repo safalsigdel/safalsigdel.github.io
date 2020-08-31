@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/49DovJ09GO_IeUiCcTsNJS-5nG4=/0x0:5908x3938/1200x800/filters:focal(3303x1339:4247x2283)/cdn.vox-cdn.com/uploads/chorus_image/image/67319313/tabp11pro2.0.jpg' width='700px' /><br/>
+Lenovo has launched the new Tab P11 Pro, a midrange Android 10 tablet with an 11.5-inch OLED display that seems like a fantastic option if you watch a lot of movies. It starts at $499 and will be available during the holiday season.
+<a href='https://www.theverge.com/2020/8/31/21400859/lenovo-tab-p11-pro-android-10-tablet-oled-screen-snapdragon-730g'> Source <a/>
