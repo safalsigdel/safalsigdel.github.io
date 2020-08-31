@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2stq51vHIxgwkC0ifbAedDynlDQ=/0x0:2040x1148/1200x675/filters:focal(842x451:1168x777)/cdn.vox-cdn.com/uploads/chorus_image/image/67310269/IMG_0430_2.0.jpg' width='700px' /><br/>
-Buying a capable streaming player for your TV is easier and cheaper in 2020 than it's ever been. So long as you're willing to spend at least $50, you can buy something that'll deliver 4K resolution and HDR color from apps like Netflix, Amazon Prime Video, and Disney+. With universal search that spans all of the big services, streaming players make it easy to find something to watch when you finally make it to the couch after a long day.
-<a href='https://www.theverge.com/21375098/best-streaming-device'> Source <a/>

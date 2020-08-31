@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fW4yoNWorf2wlCb1inAT3afQtbg=/0x0:475x251/1200x0/filters:focal(0x0:475x251):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21828752/Capturing_Small_Stacked_Gray_2.png' width='700px' /><br/>
+When police become involved in violence or brutality, they're watched and recorded more than ever before. Dashboard footage, body-worn cameras, and bystander-filmed cellphone clips can all offer glimpses into what happens when police get violent. But according to some recent research, each video's perspective can influence our understanding of these encounters in subtle but important ways.
+<a href='https://www.theverge.com/21378159/police-brutality-protests-body-cameras-video-surveillance-black-lives-matter'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6DToAcS20azjabH8Wid-TH2vPbo=/0x0:1614x910/1200x800/filters:focal(678x326:936x584)/cdn.vox-cdn.com/uploads/chorus_image/image/67311038/Screen_Shot_2020_08_28_at_2.53.17_PM.0.png' width='700px' /><br/>
-In a companywide meeting on Thursday, Mark Zuckerberg addressed the recent shooting in Kenosha, Wisconsin, both in a seven-minute public address and in a heated series of questions from employees that was subsequently reported by Buzzfeed News.
-<a href='https://www.theverge.com/2020/8/28/21405790/zuckerberg-kenosha-guard-killing-kyle-rittenhouse-facebook-moderation'> Source <a/>

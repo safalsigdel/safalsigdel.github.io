@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6MPfPM30q2IUqZq6DwuW8aCI9Hs=/0x0:2182x1222/1200x800/filters:focal(917x437:1265x785)/cdn.vox-cdn.com/uploads/chorus_image/image/67310950/Screen_Shot_2020_08_28_at_2.15.51_PM.0.png' width='700px' /><br/>
-Google Assistant is getting a new feature that makes it easier to donate money to important humanitarian and nonprofit organizations, starting with the Center for Policing Equity, an organization that works to promote police transparency and accountability.
-<a href='https://www.theverge.com/2020/8/28/21405770/google-assistant-feature-donation-center-of-policing-equity-racial-inequality'> Source <a/>

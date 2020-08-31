@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Sy6YlmWZiY52w_N6HTn7nMKlduk=/0x0:2040x1407/1200x675/filters:focal(857x541:1183x867)/cdn.vox-cdn.com/uploads/chorus_image/image/67319378/GettyImages_1216617696.0.jpg' width='700px' /><br/>
+Filming the police is a dangerous business. It is also necessary: in recent years, widespread videos of police brutality have managed to shift the tide of public opinion. Which is to say it's now commonplace to hear mainstream calls for the abolition of the police entirely.
+<a href='https://www.theverge.com/21396100/police-brutality-videos-list-collection-archive-t-greg-doucette'> Source <a/>

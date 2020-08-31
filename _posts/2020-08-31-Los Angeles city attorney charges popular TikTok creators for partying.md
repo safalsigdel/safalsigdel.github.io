@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Tz2MNyx3OYGjrjjtH-hfaGfe4wU=/0x111:880x640/1200x800/filters:focal(427x265:567x405)/cdn.vox-cdn.com/uploads/chorus_image/image/67310073/Screen_Shot_2020_08_26_at_2.27.31_PM.0.png' width='700px' /><br/>
-Los Angeles city attorney Mike Feuer has charged four people, including TikTok creators Bryce Hall and Blake Gray, for allegedly throwing a series of parties in the Hollywood Hills area in violation of public health restrictions in place to prevent the spread of COVID-19.
-<a href='https://www.theverge.com/2020/8/28/21405427/tiktok-parties-los-angeles-criminal-charges-bryce-hall-blake-gray'> Source <a/>
