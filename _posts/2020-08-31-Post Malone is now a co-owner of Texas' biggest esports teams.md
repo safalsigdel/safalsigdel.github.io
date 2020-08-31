@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_VUvxVHML9OMBQEv70Gk7zWDa68=/0x0:4200x2795/1200x800/filters:focal(1764x1062:2436x1734)/cdn.vox-cdn.com/uploads/chorus_image/image/67311239/1048795732.jpg.0.jpg' width='700px' /><br/>
-Post Malone is the latest celebrity to jump into the world of competitive gaming. Today, Envy Gaming announced that the pop star had joined as a co-owner, acquiring “an undisclosed equity stake” in the company. Envy operates teams in multiple games, and it  owns the Dallas Empire of the Call of Duty League and Overwatch League team Dallas Fuel, which hosted OWL's first home game in 2019.
-<a href='https://www.theverge.com/2020/8/28/21406041/post-malone-envy-gaming-dallas-empire-fuel'> Source <a/>
