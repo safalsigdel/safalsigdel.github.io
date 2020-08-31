@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-CUHNA27G-tMSGBOH7lFf43_mS0=/0x0:2000x1500/1200x800/filters:focal(212x889:532x1209)/cdn.vox-cdn.com/uploads/chorus_image/image/67319252/10B_Smart_Clock_Essential_Hero_L2.0.jpg' width='700px' /><br/>
+Lenovo announced a new Google Assistant-powered alarm clock, the Smart Clock Essential. It's an update to the Lenovo Smart Clock, which the company released last year.
+<a href='https://www.theverge.com/2020/8/31/21406416/lenovo-smart-clock-essential-launch-price-specs'> Source <a/>

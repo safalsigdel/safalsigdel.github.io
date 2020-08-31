@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/CI_mqqcvr78Iw9NlbibWQIZ8Nbk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67313329/acastro_200828_4169_instagramScams_0001.0.jpg' width='700px' /><br/>
 I moved to LA mid-pandemic and furnished my apartment almost exclusively from Facebook Marketplace, a luxurious garden of budget goods that exploits all my weak points: deals, online shopping, haggling with strangers on the internet.
+<a href='https://www.theverge.com/21405625/instagram-scams-facebook-marketplace-fraud'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/CI_mqqcvr78Iw9NlbibWQIZ8Nbk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67313329/acastro_200828_4169_instagramScams_0001.0.jpg' width='700px' /><br/>
+I moved to LA mid-pandemic and furnished my apartment almost exclusively from Facebook Marketplace, a luxurious garden of budget goods that exploits all my weak points: deals, online shopping, haggling with strangers on the internet.
 <a href='https://www.theverge.com/21405625/instagram-scams-facebook-marketplace-fraud'> Source <a/>
