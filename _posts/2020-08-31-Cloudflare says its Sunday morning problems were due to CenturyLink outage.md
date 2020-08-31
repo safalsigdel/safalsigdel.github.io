@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/f__vv3cnHnPg8meFGF3A_t0vDCY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67316094/acastro_170629_1777_0008.0.jpg' width='700px' /><br/>
 Cloudflare said its Sunday morning outage affecting numerous websites was due to an IP outage by internet service provider CenturyLink. According to a tweet from CenturyLink, all affected services have been restored as of 11:15AM ET.
-<a href='https://www.theverge.com/2020/8/30/21407429/cloudflare-down-websites-hulu-feedly-discord'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/f__vv3cnHnPg8meFGF3A_t0vDCY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67316094/acastro_170629_1777_0008.0.jpg' width='700px' /><br/>
-Cloudflare said its Sunday morning outage affecting numerous websites was due to an IP outage by internet service provider CenturyLink. According to a tweet from CenturyLink, all affected services have been restored as of 11:15AM ET.
 <a href='https://www.theverge.com/2020/8/30/21407429/cloudflare-down-websites-hulu-feedly-discord'> Source <a/>

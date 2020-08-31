@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fW4yoNWorf2wlCb1inAT3afQtbg=/0x0:475x251/1200x0/filters:focal(0x0:475x251):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21828752/Capturing_Small_Stacked_Gray_2.png' width='700px' /><br/>
+As Black Lives Matter protests have spread across America, more and more people have begun sharing clips of police violence online. It's not just happening at protests, either: sometimes police violence is captured in everyday life, which is what happened to Isaiah Benavides on June 2nd, outside a convenience store in Baytown, Texas.
+<a href='https://www.theverge.com/21378157/police-brutality-violence-recording-videos-black-lives-matter-consequences'> Source <a/>

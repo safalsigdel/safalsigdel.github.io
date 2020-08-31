@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
 Transforming classic video game consoles into on-the-go gadget gaming goodness is practically a time-honored tradition — I remember writing about Bacteria's bulbous portable Nintendo 64 a decade ago.
-<a href='https://www.theverge.com/circuitbreaker/2020/8/29/21406254/nintendo-modder-custom-wii-game-cube-game-boy'> Source <a/><img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Transforming classic video game consoles into on-the-go gadget gaming goodness is practically a time-honored tradition — I remember writing about Bacteria's bulbous portable Nintendo 64 a decade ago.
 <a href='https://www.theverge.com/circuitbreaker/2020/8/29/21406254/nintendo-modder-custom-wii-game-cube-game-boy'> Source <a/>
