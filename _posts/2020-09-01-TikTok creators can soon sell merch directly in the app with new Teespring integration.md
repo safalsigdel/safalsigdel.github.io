@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u994Ffq3k9GNokk69wC_G1sLRp8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67320940/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-TikTok creators will soon be able to sell merchandise they design and create directly to fans via the app itself.
-<a href='https://www.theverge.com/2020/8/31/21408539/tiktok-teespring-merchandise-apparel-commerce-monetization'> Source <a/>
