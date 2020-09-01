@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aip9_Mvi3zNCqwRuYoFWuhJZ_i4=/0x0:2048x1366/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/67321494/ringvideodoorbell3plus.0.jpg' width='700px' /><br/>
-Federal Bureau of Investigation documents warned that owners of Amazon's Ring and similar video doorbells can use the systems — which collect video footage sometimes used to investigate crimes — in order to watch police instead.
-<a href='https://www.theverge.com/2020/8/31/21408861/fbi-doorbell-camera-police-search-surveillance-warning-document'> Source <a/>

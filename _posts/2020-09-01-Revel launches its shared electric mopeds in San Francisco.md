@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IoiZ55pf-h0TsQ-0_HtS5OqtO3I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67321216/sokane_190604_3485_0151.0.jpg' width='700px' /><br/>
-Revel's shared electric mopeds are now available in San Francisco, with over 430 mopeds scattered across in the city, the company says. Revel has been expanding into new cities across the US this year even as it faces questions about its safety protocols.
-<a href='https://www.theverge.com/2020/8/31/21408769/revel-launch-san-francisco-electric-moped-price'> Source <a/>
