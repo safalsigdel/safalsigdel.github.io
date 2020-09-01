@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FgpzLCldo8mTgraDSbzrQ2nq7Po=/0x0:6187x4125/1200x800/filters:focal(2600x1569:3588x2557)/cdn.vox-cdn.com/uploads/chorus_image/image/67324620/Aquarius_Blue_Desk_Stage_2_0058.0.jpg' width='700px' /><br/>
-Astro's latest wireless gaming headset, the A20 Gen 2, is an upgraded version of the 2017 model. It will ship in October for $119, which is considerably down from the $149 that the previous-generation A20 was priced at. Despite the price cut, Astro says it has increased the wireless range from the 30 feet offered by the first-gen model to 50 feet, and it charges via a convenient USB-C port.
-<a href='https://www.theverge.com/2020/9/1/21404415/astro-a20-gen-2-next-gen-pc-ps5-xbox-series-x-wireless-headset'> Source <a/>
