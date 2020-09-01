@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KoPBibhCKp2hmhXZhC_Ag3xdHMg=/0x0:1704x1110/1200x800/filters:focal(850x489:1122x761)/cdn.vox-cdn.com/uploads/chorus_image/image/67324506/CX_400BT_True_Wireless_Product_Shot_In_Use_Black.0.jpg' width='700px' /><br/>
+Sennheiser is today introducing a lower-cost set of true wireless earbuds that slot in below the company's flagship Momentum True Wireless 2. At $199.95, the new “CX 400BT True Wireless” — so much for simple names, eh Sennheiser? — aim to retain the strong sound quality of the pricier set, though you're losing out on active noise cancellation.
+<a href='https://www.theverge.com/2020/9/1/21409705/sennheiser-cx-400bt-true-wireless-earbuds-announced-price-features'> Source <a/>

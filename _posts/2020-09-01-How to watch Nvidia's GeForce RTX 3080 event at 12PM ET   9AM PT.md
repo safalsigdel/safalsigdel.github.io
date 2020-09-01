@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PHjhvDG4yRZ-DlM2FCWatfLgQ3s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67324924/acastro_180529_1777_nvidia_0002.0.0.jpg' width='700px' /><br/>
+Nvidia is promising “the biggest breakthough in PC gaming since 1999” today with its GeForce event. The graphics card maker looks set to launch a new range of GPUs for PC gaming, based on the company's new Ampere architecture. Rumors suggest we'll see the RTX 3000 Series, with an RTX 3080 card and possibly even a Titan-style RTX 3090 flagship GPU.
+<a href='https://www.theverge.com/2020/9/1/21409943/nvidia-geforce-rtx-3080-event-live-stream-watch-start-time'> Source <a/>

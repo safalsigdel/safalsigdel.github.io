@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NEhLFFySSVe0or2SKKpfYwvbb4w=/0x0:5976x3732/1200x800/filters:focal(2510x1388:3466x2344)/cdn.vox-cdn.com/uploads/chorus_image/image/67324757/1227438451.jpg.0.jpg' width='700px' /><br/>
+Walmart is trying yet again to take on Amazon Prime with its own delivery subscription service. The new service, which launches September 15th, is named Walmart+ and costs $12.95 a month or $98 a year, compared to $119 for Amazon Prime.
+<a href='https://www.theverge.com/2020/9/1/21409944/walmart-free-delivery-subscription-service-walmart-compete-amazon-prime'> Source <a/>

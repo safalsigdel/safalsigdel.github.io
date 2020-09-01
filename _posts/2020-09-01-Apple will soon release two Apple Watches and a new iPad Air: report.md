@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yQkmglu9ojhM6Ri4DArY5nbjn6I=/0x0:2040x1360/1200x800/filters:focal(905x532:1231x858)/cdn.vox-cdn.com/uploads/chorus_image/image/67324494/vpavic_190913_3669_0258.0.jpg' width='700px' /><br/>
+Apple is planning to ship between 75 and 80 million 5G iPhones this year, according to a new Bloomberg report. The figure is in line with or slightly higher than iPhone launch shipments for the last couple of years, suggesting that Apple doesn't expect the coronavirus pandemic to dampen demand — even though the company has already said the phones will be delayed into October.
+<a href='https://www.theverge.com/2020/9/1/21409882/apple-fall-hardware-lineup-iphone-ipad-air-apple-watch'> Source <a/>
