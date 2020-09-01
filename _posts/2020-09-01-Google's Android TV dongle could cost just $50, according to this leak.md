@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0_YYqxwhP163Tz6P1IUa79wNfi0=/0x0:800x533/1200x800/filters:focal(336x203:464x331)/cdn.vox-cdn.com/uploads/chorus_image/image/67323744/sabrina.0.jpg' width='700px' /><br/>
+Google's Chromecast is a fantastic way to fling streaming video from phone to TV — but these days, you can often get a Roku Streaming Stick or Amazon Fire Stick with a dedicated remote control for the same money. But what if Google launched an Android TV dongle with its own remote control for the same $50 you'd pay for a high-end Roku or Fire stick?
+<a href='https://www.theverge.com/2020/8/31/21409621/google-android-tv-sabrina-hdmi-dongle-price-home-depot-leak'> Source <a/>

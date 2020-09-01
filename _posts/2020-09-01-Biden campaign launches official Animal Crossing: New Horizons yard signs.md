@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PEbCaNEeUMajFgF0bETSNphuSzs=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/67325808/IMG_0083.0.png' width='700px' /><br/>
+Starting today, September 1st, Animal Crossing: New Horizons players will be able to deck out their island homes with official Joe Biden yard signs as part of the campaign's broader initiative to organize voters online this fall.
+<a href='https://www.theverge.com/2020/9/1/21409727/biden-harris-animal-crossing-campaign-new-horizons-yard-signs-election'> Source <a/>
