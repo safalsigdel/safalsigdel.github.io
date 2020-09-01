@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/mLbqhwg1q7X_yPkLT8X_EcE0i3s=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67323004/photos_video_editor.0.jpg' width='700px' /><br/>
 The Google Photos app for iOS is getting an updated video editor that adds several useful new features, including the ability to trim video clips, add filters, crop, and make adjustments like exposure, contrast, and saturation.
-<a href='https://www.theverge.com/2020/8/31/21409339/google-photos-ios-update-crop-trim-add-filters-video-editor'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/mLbqhwg1q7X_yPkLT8X_EcE0i3s=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67323004/photos_video_editor.0.jpg' width='700px' /><br/>
-The Google Photos app for iOS is getting an updated video editor that adds several useful new features, including the ability to trim video clips, add filters, crop, and make adjustments like exposure, contrast, and saturation.
 <a href='https://www.theverge.com/2020/8/31/21409339/google-photos-ios-update-crop-trim-add-filters-video-editor'> Source <a/>
