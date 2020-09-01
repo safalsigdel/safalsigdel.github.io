@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZfzEOIO8XW9qfjA9cWbwfHkQohU=/0x0:2560x1708/1200x800/filters:focal(1076x650:1484x1058)/cdn.vox-cdn.com/uploads/chorus_image/image/67320074/3_Details.0.jpg' width='700px' /><br/>
-If you're serious about fighting games, 8BitDo has announced a mod-friendly, wireless arcade stick that may interest you. It's designed to work with PC and Nintendo Switch, and you can easily toggle between two sets of controls depending on the platform you're using. It costs $89.99 and ships October 20th, but preorders are open now from the company's site and Amazon.
-<a href='https://www.theverge.com/2020/8/31/21402897/8bitdo-wireless-arcade-stick-nintendo-switch-pc-price'> Source <a/>
