@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8U6YOD3_s3LvipoaMSPjnhWw8SA=/0x0:2000x1100/1200x800/filters:focal(917x407:1237x727)/cdn.vox-cdn.com/uploads/chorus_image/image/67325711/AmazonMusic_Twitch_Image.0.jpg' width='700px' /><br/>
-Musicians can now link their Twitch profiles to Amazon Music to let fans watch their live streams without leaving the music streaming app. The integration offers musicians a way to potentially reach even more people with their live streams, which — on Twitch, in particular — have become a go-to way to connect with audiences and earn money as the coronavirus pandemic limits their ability to tour.
-<a href='https://www.theverge.com/2020/9/1/21410089/amazon-music-twitch-integration-live-stream-notifications'> Source <a/>

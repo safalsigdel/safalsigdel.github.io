@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4BEyDnNF263nZW-B0Tk4CURlYyM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67323905/jbareham_180405_1777_facebook_0003.0.jpg' width='700px' /><br/>
-Facebook plans to block the sharing of local and international news stories on its platforms if legislation requiring tech platforms to pay publishers for content becomes law, the company said in a blog post Monday.
-<a href='https://www.theverge.com/2020/8/31/21409644/facebook-block-news-australia-legislation-google-publishers'> Source <a/>

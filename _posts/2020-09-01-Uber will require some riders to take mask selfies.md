@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BbZqclWIEPCLef878ELWoYh2epU=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/67325737/1228125520.jpg.0.jpg' width='700px' /><br/>
-As its ride-sharing business continues to struggle during the COVID-19 pandemic, Uber announced that it will begin to require some riders to take selfies to prove they are wearing masks.
-<a href='https://www.theverge.com/2020/9/1/21410134/uber-mask-selfie-riders-drivers-covid-pandemic'> Source <a/>
