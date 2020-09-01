@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Frgj5Ny1FLwAs5r4De_djTfPgTQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67320419/acastro_20200818_1777_epicApple_0004.0.0.jpg' width='700px' /><br/>
-Apple on Monday announced that its new App Store appeals process, first revealed at WWDC in June, is now live, meaning developers can challenge Apple over whether their app is in fact violating one of its guidelines. In addition to that, Apple says developers can also suggest changes to the App Store guidelines through a form submission on its online developer portal.
-<a href='https://www.theverge.com/2020/8/31/21406112/apple-app-store-appeals-process-live-guidelines-challenge-antitrust-fortnite'> Source <a/>
