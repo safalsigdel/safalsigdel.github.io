@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k4IJhLXwlHy9duE4S-JruXC8TvE=/0x0:2700x1800/1200x800/filters:focal(1134x684:1566x1116)/cdn.vox-cdn.com/uploads/chorus_image/image/67320528/goim.0.jpg' width='700px' /><br/>
-Google is rolling out an update to Google Images designed to make it easier to license photographs or pictures that are covered by copyright. The change could help publishers, photographers, and artists get in front of their audience, while also helping users find images that they have a right to use.
-<a href='https://www.theverge.com/2020/8/31/21408305/google-images-photo-licensing-search-results'> Source <a/>
