@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QJBuwDGmaheqgxSkAxUog_sOauo=/0x0:2040x1362/1200x675/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/67319365/GettyImages_1227718507.0.jpg' width='700px' /><br/>
-For this piece, Verge contributor Sarah Jeong spoke to a 35-year-old white man who regularly attends protests in Portland, OR, to find out what it's like there for him. Here's his experience, in his own words. This interview has been edited for length and clarity.
-<a href='https://www.theverge.com/21396046/police-brutality-protest-treatment-white-age-man-dad-difference-black-lives-matter'> Source <a/>

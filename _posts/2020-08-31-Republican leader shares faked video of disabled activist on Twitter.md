@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LXLuQ5neIEVP-Sv5ng0DMEHplF8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67316875/acastro_200715_1777_twitter_0004.0.0.jpg' width='700px' /><br/>
-A Sunday tweet from Rep. Steve Scalise (R-LA) showing a video of activist Ady Barkan got a “manipulated media” label from Twitter. Barkan has ALS and speaks through voice assistance.
-<a href='https://www.theverge.com/2020/8/30/21407613/twitter-labels-tweet-scalise-video-ady-barkan-manipulated'> Source <a/>

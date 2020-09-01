@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lc33FsvhTWQolzNIpMIuRwQIqOM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67314310/acastro_200713_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-Plans for a TikTok sale may have a new obstacle, with China implementing new rules on AI technology exports, The New York Times reported. The new export control rules, which focus on technology the Chinese government considers sensitive, could mean that TikTok's parent company, Beijing-based ByteDance, might need a license before it can sell TikTok to an American company.
-<a href='https://www.theverge.com/2020/8/29/21406884/tiktok-china-tech-export-sale-microsoft-trump'> Source <a/>

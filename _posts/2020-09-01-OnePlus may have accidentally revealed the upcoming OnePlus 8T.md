@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f9QQlWHwbAmsU1BxUyNJlXbiO1g=/0x0:2036x1364/1200x800/filters:focal(856x520:1180x844)/cdn.vox-cdn.com/uploads/chorus_image/image/67322447/Screen_Shot_2020_08_31_at_3.43.16_PM.0.png' width='700px' /><br/>
+OnePlus may have accidentally revealed a first look at the OnePlus 8T, thanks to an image found in the latest Android 11 developer preview for OnePlus 8-series devices by OxygenUpdater.
+<a href='https://www.theverge.com/2020/8/31/21409166/oneplus-8t-image-reveal-first-look-leak-firmware-update-developer-preview'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RDCKLFkT1k6y3CysA1_PkxlVzbw=/0x0:1920x1080/1200x800/filters:focal(463x370:769x676)/cdn.vox-cdn.com/uploads/chorus_image/image/67321594/ss_a0758d69b45b016a386761e1415f2227542c27be.0.jpg' width='700px' /><br/>
+Brands and influencers have locked in a Twitter bidding war for the chance to get a branded costume added to Fall Guys since August 17th, and that bidding war came to an end today. G2 Esports, Tyler “Ninja” Blevins, Aim Lab, and Jimmy “MrBeast” Donaldson, have emerged victorious as a team effort, pledging to donate $1 million to charity.
+<a href='https://www.theverge.com/2020/8/31/21404149/fall-guys-twitter-bidding-war-in-game-costume-charity'> Source <a/>

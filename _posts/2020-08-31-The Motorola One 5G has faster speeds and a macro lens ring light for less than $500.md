@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GgtIy2Frepa24aVE9wUdYalK5kQ=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/67319261/motorola_one_5g.0.png' width='700px' /><br/>
-Motorola is bringing a midrange 5G phone to the US (as it had promised earlier this year) with the announcement of the Motorola One 5G, which will cost under $500.
-<a href='https://www.theverge.com/2020/8/31/21405357/motorola-one-5g-verizon-att-macro-camera-ring-light-specs-price'> Source <a/>
