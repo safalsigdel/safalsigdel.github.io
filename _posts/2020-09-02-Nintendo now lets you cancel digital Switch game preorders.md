@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PFkpwx1yZxjpJApw5bVqHHw4ToQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67327519/jbareham_180301_2346_nintendo_switch_0034_mario.0.jpg' width='700px' /><br/>
-Nintendo is changing how it handles digital game preorders for the Switch's eShop, and it's starting by giving customers the chance to cancel preordered games instead of getting billed upfront.
-<a href='https://www.theverge.com/2020/9/1/21410139/nintendo-switch-eshop-cancel-preorders-change-policy-games-digital'> Source <a/>
