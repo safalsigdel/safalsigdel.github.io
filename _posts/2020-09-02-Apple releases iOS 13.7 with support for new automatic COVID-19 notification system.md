@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AUlATFEkSETvJP-e8u_uJUh_m8Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67337837/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple on Tuesday released iOS 13.7, adding support for a new exposure notification system for powering COVID-19 tracking. The system is an extension of the existing coronavirus contact tracing efforts, but it removes the burden on states of having to build a dedicated app. News of the new software framework was first announced earlier today in a joint statement from Apple and Google.
-<a href='https://www.theverge.com/2020/9/1/21402837/apple-ios-13-7-release-notification-system-contact-tracing-app'> Source <a/>
