@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bkz1ANBB4L2cKPQ3u4uGerDJHic=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/67324985/1267764809.jpg.0.jpg' width='700px' /><br/>
-Last year, the US Interior Department, which is responsible for maintaining federal land, grounded its fleet of more than 800 drones over fears they could be compromised by Chinese spies. Now, an internal memo from the department leaked to The Financial Times says the decision is hampering the federal government's ability to fight wildfires.
-<a href='https://www.theverge.com/2020/9/1/21409967/trump-ban-drones-interior-department-wildfires-controlled-burn'> Source <a/>
