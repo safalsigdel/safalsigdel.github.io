@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KJ9equBAolTRiYJiA_lqHycb4Og=/0x0:2040x1528/1200x0/filters:focal(0x0:2040x1528):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21829980/Product_image_14.jpg' width='700px' /><br/>
-Samsung is announcing new details for its next foldable Android phone, the Galaxy Z Fold 2. The main pieces of news are the price and release date: $1,999.99 in the US, with preorders starting today and shipping on September 18th. Samsung has also secured support for the Z Fold 2 from all three major US carriers: Verizon, AT&T, and T-Mobile. It will also be available unlocked at Samsung's website.
-<a href='https://www.theverge.com/2020/9/1/21407750/samsungs-galaxy-z-fold-2-price-release-date-hinge-screen-durability'> Source <a/>

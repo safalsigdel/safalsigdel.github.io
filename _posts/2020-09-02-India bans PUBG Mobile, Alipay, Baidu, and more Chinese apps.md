@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7_i35jbbE6WmCbnAR9X8rerSFcw=/0x0:1200x830/1200x800/filters:focal(471x251:663x443)/cdn.vox-cdn.com/uploads/chorus_image/image/67341350/PUBG_Mobile.0.jpg' width='700px' /><br/>
+India is banning another 118 apps said to be either based in or linked to China. PUBG Mobile, Alipay, and Baidu are among the biggest names on the list. India banned TikTok, WeChat, and more than 50 other China-based apps in June, suggesting they were a security issue.
+<a href='https://www.theverge.com/2020/9/2/21418120/pubg-mobile-india-ban-118-apps-china-alipay-baidu'> Source <a/>
