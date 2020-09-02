@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3i75CYkNp75oMC4I1iINbB0RQSs=/0x0:3900x2647/1200x800/filters:focal(1638x1012:2262x1636)/cdn.vox-cdn.com/uploads/chorus_image/image/67337246/1228283754.jpg.0.jpg' width='700px' /><br/>
-Google says its flood prediction service, which uses machine learning to identify areas of land prone to flooding and alert users before the waters arrive, now covers all of India and has expanded to parts of Bangladesh as well.
-<a href='https://www.theverge.com/2020/9/1/21410252/google-ai-flood-warnings-india-bangladesh-coverage-prediction'> Source <a/>
