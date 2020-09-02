@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h0iF_6S42aS2CrD_KxQ-omPNtYI=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/67341487/S5_S_R2060_slant_K_4.0.jpg' width='700px' /><br/>
+Panasonic went in at the high end when it released its first L-mount full-frame mirrorless cameras last year, but today it's announcing a more mainstream and versatile model. Like the $2,499 Lumix S1, the new S5 is built around a 24.2-megapixel full-frame sensor and is designed for both photo and video work.
+<a href='https://www.theverge.com/2020/9/2/21418061/panasonic-lumix-s5-announced-price-specs-release-date'> Source <a/>
