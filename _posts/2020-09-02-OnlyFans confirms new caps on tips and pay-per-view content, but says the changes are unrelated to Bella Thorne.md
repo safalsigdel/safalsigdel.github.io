@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ADRnBC-WkZgHpSH89YsSkLXTQbY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67338065/acastro_200227_1777_onlyfans_0001.0.jpg' width='700px' /><br/>
+OnlyFans confirmed new rule changes to The Verge today that could impact how much money creators make on the platform, as well as how quickly they get paid. The new rules include a $100 cap on paid private messages, compared to $200 before, and a $50 cap on pay-per-view posts for creators who don't charge a subscription, compared to $200 previously.
+<a href='https://www.theverge.com/2020/9/1/21405540/onlyfans-rule-change-tips-pay-update-bella-thorne'> Source <a/>

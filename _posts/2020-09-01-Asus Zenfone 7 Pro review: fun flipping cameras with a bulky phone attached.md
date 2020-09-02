@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FJ2hh1XQx0bF8pTe-poV-0L-UhA=/0x0:2040x1360/1200x675/filters:focal(854x211:1180x537)/cdn.vox-cdn.com/uploads/chorus_image/image/67324616/jporter_200827_4166_0004.0.0.jpg' width='700px' /><br/>
-It's not often I receive a phone I immediately want to show off to everyone around me, but the Asus Zenfone 7 Pro is exactly that. The second I got the device set up, I ran into each of my flatmates' rooms in turn and happily flipped and un-flipped its three rear cameras, swinging them around the top edge of the phone to turn them into selfie cameras.
-<a href='https://www.theverge.com/21408307/asus-zenfone-7-pro-review'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XO_3jnSs59aE_pjM2QveNSXBprQ=/0x0:1020x681/1200x800/filters:focal(429x260:591x422)/cdn.vox-cdn.com/uploads/chorus_image/image/67337712/gogo-internet-logo-stock1_1020.0.jpg' width='700px' /><br/>
+Gogo, the in-flight internet provider, has found a buyer for its commercial airline business. Intelsat, the world's second largest satellite operator by revenue, has agreed to purchase Gogo's Wi-Fi business for $400 million in cash, the companies announced Tuesday. It's an unlikely pairing, mostly because Intelsat filed for Chapter 11 bankruptcy in May.
+<a href='https://www.theverge.com/2020/9/1/21410368/gogo-sells-inflight-internet-business-intelsat-bankrupt'> Source <a/>
