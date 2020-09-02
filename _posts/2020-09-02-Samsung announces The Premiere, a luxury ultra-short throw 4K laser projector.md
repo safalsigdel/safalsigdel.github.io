@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3kzL8pdc61HupsZHgC-IYX6_838=/0x0:2064x1353/1200x800/filters:focal(867x512:1197x842)/cdn.vox-cdn.com/uploads/chorus_image/image/67340585/_Image__The_Premiere__1_.0.jpg' width='700px' /><br/>
+Samsung has announced its latest high-end home entertainment device: The Premiere, a new 4K short-throw laser projector that's meant to be a viable alternative to the QLED TVs that Samsung usually focuses on.
+<a href='https://www.theverge.com/2020/9/2/21417758/samsung-the-premiere-luxury-lifestyle-laser-projector-short-throw-4k-ifa-2020'> Source <a/>
