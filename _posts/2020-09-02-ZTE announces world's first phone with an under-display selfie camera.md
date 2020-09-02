@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vUrMqlkxV94Rw3Zjs2BW-0zRmMs=/0x0:864x575/1200x800/filters:focal(363x219:501x357)/cdn.vox-cdn.com/uploads/chorus_image/image/67340261/zteaxon.0.jpg' width='700px' /><br/>
+After teasing for a while, ZTE has followed through on its promise to launch the world's first commercial smartphone with a selfie camera embedded in the display. The Axon 20 5G turns out to be a fairly mid-range device, aside from its headline feature.
+<a href='https://www.theverge.com/2020/9/1/21417941/zte-axon-20-5g-under-display-selfie-camera'> Source <a/>
