@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/31f1cOcSilFJts21CMC3mCrn9os=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67342568/acer.0.jpg' width='700px' /><br/>
+Acer has announced new Swift 3 and Swift 5 laptops, which include Intel's 11th Gen “Tiger Lake” processors. Both models will launch in November. The Swift 5 starts at $999.99 and the Swift 3 starts at $699.99.
+<a href='https://www.theverge.com/2020/9/2/21418247/acer-swifft-3-5-laptops-intel-evo-project-athena-tiger-lake-price'> Source <a/>

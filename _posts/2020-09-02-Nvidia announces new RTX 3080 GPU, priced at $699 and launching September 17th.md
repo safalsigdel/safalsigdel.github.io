@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CyL7jKCp1FMNzxEm-vvL9OiCKlc=/0x0:1058x601/1200x0/filters:focal(0x0:1058x601):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21845077/JunpNve.png' width='700px' /><br/>
-Nvidia is unveiling its new GeForce RTX 3000 series graphics cards today. Nvidia has been teasing these new cards for weeks, and there have also been plenty of leaks before the RTX 3080 was made official today. Based on Nvidia's new Ampere architecture, the RTX 3080 is designed to succeed the RTX 2080 and 2080 Ti cards with improved performance and ray-tracing support.
-<a href='https://www.theverge.com/2020/9/1/21409953/nvidia-geforce-rtx-3080-specs-price-release-date-features'> Source <a/>
