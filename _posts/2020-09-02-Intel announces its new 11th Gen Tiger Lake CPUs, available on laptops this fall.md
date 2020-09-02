@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fHOdv3_24wX32WW--pJiOJlZET4=/0x0:1746x1016/1200x800/filters:focal(734x369:1012x647)/cdn.vox-cdn.com/uploads/chorus_image/image/67342338/Untitled.0.png' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/W6QFPqYoQjKDleXiqdXbZrvf--k=/0x0:690x350/1200x0/filters:focal(0x0:690x350):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21847406/core.png' width='700px' /><br/>
 Intel has officially announced its first 11th Gen Tiger Lake processors for laptops, which will feature the company's new integrated Xe graphics, Thunderbolt 4 support, Wi-Fi 6, and a big leap in performance and battery life over the previous Ice Lake chips. The company claims that the new 11th Gen lineup offers the “best processor for thin-&-light” laptops.
 <a href='https://www.theverge.com/2020/9/2/21408718/intel-11th-gen-tiger-lake-cpu-processor-announcement-laptops-fall'> Source <a/>
