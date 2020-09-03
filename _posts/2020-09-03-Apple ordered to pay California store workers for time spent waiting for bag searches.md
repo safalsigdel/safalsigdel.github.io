@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/elnKs1W9NJc3tzpCOXbwIKJE6zw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67348057/acastro_170731_1777_0003_v2.0.jpg' width='700px' /><br/>
+Apple has to pay store employees in California for the time they spend waiting for their bags to be checked by security officers, an appeals court ruled this week.
+<a href='https://www.theverge.com/2020/9/3/21419729/apple-california-pay-workers-class-action-bag-searches'> Source <a/>
