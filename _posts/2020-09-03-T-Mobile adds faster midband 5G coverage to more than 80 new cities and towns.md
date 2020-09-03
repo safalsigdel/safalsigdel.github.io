@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2DRACq3MdlRc0bgCkozEEweMGmQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67342062/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
-T-Mobile on Wednesday announced a much wider rollout of its 2.5GHz midband 5G coverage, adding 81 new cities and towns to a total list of 90 markets throughout the US.
-<a href='https://www.theverge.com/2020/9/2/21418289/t-mobile-mid-band-5g-81-new-cities-towns-coverage-gigabit-speeds'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/2DRACq3MdlRc0bgCkozEEweMGmQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67342062/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
-T-Mobile on Wednesday announced a much wider rollout of its 2.5GHz midband 5G coverage, adding 81 new cities and towns to a total list of 90 markets throughout the US.
-<a href='https://www.theverge.com/2020/9/2/21418289/t-mobile-mid-band-5g-81-new-cities-towns-coverage-gigabit-speeds'> Source <a/>

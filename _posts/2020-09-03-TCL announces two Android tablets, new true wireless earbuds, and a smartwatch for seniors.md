@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bmv3gZbxApOeCYVLP7NLwyIlQoA=/0x0:2097x1523/1200x800/filters:focal(882x595:1216x929)/cdn.vox-cdn.com/uploads/chorus_image/image/67346333/TCL_10_TAB_MAX_02.0.jpg' width='700px' /><br/>
+As part of its IFA 2020 announcements, TCL is today launching a slew of new gadgets including a pair of tablets, new true wireless earbuds, and a smartwatch for seniors.
+<a href='https://www.theverge.com/2020/9/3/21419659/tcl-10-tab-max-mid-move-audio-s200-family-watch-announced'> Source <a/>
