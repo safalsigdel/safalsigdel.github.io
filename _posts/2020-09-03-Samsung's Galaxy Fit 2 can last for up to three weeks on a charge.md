@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/HGjiveo8iIGrCEtGEoEO0mf_R9E=/0x0:1888x1054/1200x800/filters:focal(793x376:1095x678)/cdn.vox-cdn.com/uploads/chorus_image/image/67343519/Screen_Shot_2020_09_02_at_2.25.40_PM.0.png' width='700px' /><br/>
 Samsung has a new fitness tracker on the way called the Galaxy Fit 2. It's an updated version of the original Galaxy Fit band that offers a larger display and more battery life — much more battery life, in fact.
-<a href='https://www.theverge.com/2020/9/2/21418673/samsung-galaxy-fit-2-fitness-tracker-battery-life-ifa-2020'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/HGjiveo8iIGrCEtGEoEO0mf_R9E=/0x0:1888x1054/1200x800/filters:focal(793x376:1095x678)/cdn.vox-cdn.com/uploads/chorus_image/image/67343519/Screen_Shot_2020_09_02_at_2.25.40_PM.0.png' width='700px' /><br/>
-Samsung has a new fitness tracker on the way called the Galaxy Fit 2. It's an updated version of the original Galaxy Fit band that offers a larger display and more battery life — much more battery life, in fact.
 <a href='https://www.theverge.com/2020/9/2/21418673/samsung-galaxy-fit-2-fitness-tracker-battery-life-ifa-2020'> Source <a/>
