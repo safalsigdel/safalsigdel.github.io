@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m8GPvu4w-f8qXcrOeJ6Bd0LLJOE=/0x0:1092x728/1200x800/filters:focal(459x277:633x451)/cdn.vox-cdn.com/uploads/chorus_image/image/67340635/samsung_wireless_charger_trio.0.jpg' width='700px' /><br/>
-Samsung has announced a host of new devices at its Life Unstoppable virtual event today, including the Galaxy A42 5G, which the company said during its presentation would be its most affordable 5G device yet. Alongside it, Samsung also announced a new wireless charger that can charge multiple devices at once, as well as a new Android tablet, the Galaxy Tab A7.
-<a href='https://www.theverge.com/2020/9/2/21418056/samsung-life-unstoppable-galaxy-a42-5g-smartphone-tab-a7-tablet-trio-wireless-charger'> Source <a/>

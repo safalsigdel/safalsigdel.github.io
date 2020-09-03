@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VPZrKe5m5FP4qIZGtAyooxwBUEA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67338830/acastro_190920_1777_amazon_0003.0.0.jpg' width='700px' /><br/>
-Amazon has deleted two job listings posted to its corporate employment website detailing “intelligence analyst” roles that involved, among other duties, monitoring “labor organizing threats” within the company. The listings, which were posted days ago, first began circulating on Twitter earlier today, before Amazon removed them in response to widespread outcry on social media.
-<a href='https://www.theverge.com/2020/9/1/21417401/amazon-job-listing-delete-labor-organizing-threat-union'> Source <a/>

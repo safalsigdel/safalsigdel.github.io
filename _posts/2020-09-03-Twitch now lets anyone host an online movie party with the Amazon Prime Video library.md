@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K2OGeKjZbwsb_Sk140cVu0ttJWI=/0x0:1502x927/1200x800/filters:focal(556x151:796x391)/cdn.vox-cdn.com/uploads/chorus_image/image/67343631/twitch_parties.0.png' width='700px' /><br/>
+Twitch's Watch Parties function is rolling out to everyone today, giving streamers and their subscribers around the world the ability to watch Amazon's library of movies and TV shows together. It's not just for families; as long as everyone has an Amazon Prime account, a streamer can now host a “public” movie viewing with all of their fans.
+<a href='https://www.theverge.com/2020/9/2/21418599/twitch-watch-party-rollout-global-amazon-prime-video-streaming'> Source <a/>

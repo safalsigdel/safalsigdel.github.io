@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9NrWbGYR6gfV1ON-g2LDea5R6fI=/0x0:600x400/1200x800/filters:focal(252x152:348x248)/cdn.vox-cdn.com/uploads/chorus_image/image/67342787/parcastunion.0.jpg' width='700px' /><br/>
+Parcast, the podcast production company Spotify acquired last year, is unionizing. The Writers Guild of America, East announced the news today, along with a letter about why Parcast, which specializes in true crime and mystery shows, decided to organize.
+<a href='https://www.theverge.com/2020/9/2/21417146/parcast-spotify-union-writers-guild-america-east'> Source <a/>

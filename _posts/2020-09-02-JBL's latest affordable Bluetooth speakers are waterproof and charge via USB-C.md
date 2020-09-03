@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BWs7KaD51h-H2L7fkxrhNh-V0zE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67341084/jblbluetoothspeakers.0.jpg' width='700px' /><br/>
-JBL has announced new Clip 4 and Go 3 miniature Bluetooth speakers. Both have gotten a visual makeover from their predecessors, with a streamlined design and a few new colors available. The Go 3 will launch first in October for $39.95. The Clip 4 will follow in December for $69.95.
-<a href='https://www.theverge.com/2020/9/2/21408955/jbl-clip-4-go-3-xtreme-bluetooth-speakers-waterproof-usb-c-price'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4GH2wPQw_KF6eC6XQxL5sB2Suxw=/0x0:2040x1364/1200x800/filters:focal(857x519:1183x845)/cdn.vox-cdn.com/uploads/chorus_image/image/67345411/pesposito_200420_3983_0009.0.0.jpg' width='700px' /><br/>
+On Monday, Dana Simmons came downstairs to find her 12-year-old son, Lazare, in tears. He'd completed the first assignment for his seventh-grade history class on Edgenuity, an online platform for virtual learning. He'd received a 50 out of 100. That wasn't on a practice test — it was his real grade.
+<a href='https://www.theverge.com/2020/9/2/21419012/edgenuity-online-class-ai-grading-keyword-mashing-students-school-cheating-algorithm-glitch'> Source <a/>
