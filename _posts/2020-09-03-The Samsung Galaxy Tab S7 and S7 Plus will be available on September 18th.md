@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/738iYo26yNo0YP5rJ-khkvROxwo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67325622/bfarsace_200803_4124_0015.0.jpg' width='700px' /><br/>
 Samsung announced a release date for its new Galaxy Tab S7 and Tab S7 Plus tablets. They'll launch on Friday, September 18th, and preorders are now open.
+<a href='https://www.theverge.com/2020/9/1/21408972/samsung-galaxy-tab-s7-plus-android-wifi-5g-preorder-release-date-price'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/738iYo26yNo0YP5rJ-khkvROxwo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67325622/bfarsace_200803_4124_0015.0.jpg' width='700px' /><br/>
+Samsung announced a release date for its new Galaxy Tab S7 and Tab S7 Plus tablets. They'll launch on Friday, September 18th, and preorders are now open.
 <a href='https://www.theverge.com/2020/9/1/21408972/samsung-galaxy-tab-s7-plus-android-wifi-5g-preorder-release-date-price'> Source <a/>
