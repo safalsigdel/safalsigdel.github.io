@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FWquo59BQjb5oSM97BAoFM8p1E0=/0x0:1732x1154/1200x800/filters:focal(728x439:1004x715)/cdn.vox-cdn.com/uploads/chorus_image/image/67342577/ZenBook_14_UX435EA_EG_Scenario_photo_Pine_Grey_ScreenPad.0.jpg' width='700px' /><br/>
-Asus announced its next wave of Zenbook laptops for release later this fall that will run on Intel's 11th Gen processors — only days after it announced similar versions that run on Intel's 10th Gen processors. In addition, most of the upcoming laptops will feature Thunderbolt 4 ports rather than Thunderbolt 3 ports. It didn't share pricing for any of the models.
-<a href='https://www.theverge.com/2020/9/2/21403990/asus-zenbook-s-flip-14-pro-laptops-intel-11th-gen-thunderbolt-4'> Source <a/>

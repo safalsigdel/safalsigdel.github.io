@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VUOx-vKMtTVs-A9SmuR9DdoO7zY=/0x0:2286x1276/1200x0/filters:focal(0x0:2286x1276):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21847730/Screen_Shot_2020_09_02_at_2.41.28_PM.png' width='700px' /><br/>
-Intel has just announced its new 11th Gen processors, and alongside the launch, the company is also rolling out a new minimalist logo — the third logo that the company has ever used. The fresh design replaces the previous branding with the Intel wordmark enclosed in a circle that has been used by the company in various forms since 2006.
-<a href='https://www.theverge.com/2020/9/2/21418540/intel-new-logo-2020-redesign-minimalist-branding'> Source <a/>
