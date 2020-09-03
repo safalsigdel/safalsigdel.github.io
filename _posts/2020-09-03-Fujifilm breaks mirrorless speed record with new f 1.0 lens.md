@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VdBIwlCApxDr6gJS1SjYkE8taNY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67345952/fuji50.0.jpg' width='700px' /><br/>
+Fujifilm has announced a new 50mm X-series lens with an unprecedented f/1.0 aperture. The XF 50mmF1.0 R WR is the world's first f/1 autofocus lens for mirrorless cameras, according to Fujifilm, and marks the 35th X-series lens the company has produced. Its field of view is about 75mm-equivalent on Fujifilm's APS-C sensors.
+<a href='https://www.theverge.com/2020/9/3/21419563/fujifilm-50mm-f1-lens-announced-price-release-date'> Source <a/>

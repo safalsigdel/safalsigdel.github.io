@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q6rjXcPcxAqfX-z91Qjm7VAJwa4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67341188/akrales_170324_1554_A_0021.0.0.jpg' width='700px' /><br/>
-Lucid Motors has been making a lot of bold claims in the lead-up to the September 9th unveiling of its first all-electric sedan, the Lucid Air: longest range, fastest charge, biggest battery. But today, the Newark, California-based company is truly laying its cards on the table with its claim to have built one of the quickest production cars ever made.
-<a href='https://www.theverge.com/2020/9/2/21418065/lucid-motors-air-fastest-electric-car-quarter-mile-time-record'> Source <a/>
