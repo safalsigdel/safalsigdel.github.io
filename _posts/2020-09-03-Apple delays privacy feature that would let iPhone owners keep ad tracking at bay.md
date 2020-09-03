@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/I1AcsSpJXGm9-A-PD4xd-mLSr9I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67348478/acastro_170731_1777_0001_v1.0.jpg' width='700px' /><br/>
+Apple is delaying a controversial new privacy rule it's implementing with iOS 14 that will require developers to ask users for permission to gather data and track them across mobile apps and websites on the iPhone and iPad, the company announced in a developer update posted Thursday.
+<a href='https://www.theverge.com/2020/9/3/21420176/apple-ios-14-tracking-permission-rule-developers-delay'> Source <a/>
