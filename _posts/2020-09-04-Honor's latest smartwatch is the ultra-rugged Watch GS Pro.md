@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_wRRtcpKI2JQt1NIhzzyTFpeu74=/0x0:1080x520/1200x800/filters:focal(573x143:745x315)/cdn.vox-cdn.com/uploads/chorus_image/image/67353993/Set_1__Durable_Armor_1080x600.0.jpg' width='700px' /><br/>
+Huawei sub-brand Honor has announced its first rugged smartwatch, the Watch GS Pro, at this year's scaled-back IFA trade show in Berlin. Alongside the new Watch GS Pro is a new fashion-focused smartwatch called the Watch ES. The Pad 6 and Pad X6 Android tablets are also getting released outside of China, as is a trio of Honor laptops featuring AMD's latest generation of Ryzen processors.
+<a href='https://www.theverge.com/2020/9/4/21411348/honor-watch-gs-pro-es-smartwatch-magicbook-14-15-pro-pad-6-x6-ifa-2020'> Source <a/>

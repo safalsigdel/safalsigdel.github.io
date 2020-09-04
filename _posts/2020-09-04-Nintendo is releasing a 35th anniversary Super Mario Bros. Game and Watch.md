@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s44__aP0oT56oL7-vi41zRuq8P8=/0x0:1024x769/1200x800/filters:focal(431x304:593x466)/cdn.vox-cdn.com/uploads/chorus_image/image/67346790/Eg_tgAfWAAE5yM9.5.jpeg' width='700px' /><br/>
-Nintendo is going back to the beginning with a modern version of its original Game & Watch handheld that's been revamped with a full-color LCD. It can play Super Mario Bros. in honor of the franchise's 35th anniversary. The new handled was announced during a surprise Nintendo Direct showcase.
-<a href='https://www.theverge.com/2020/9/3/21418989/nintendo-35th-anniversary-super-mario-brothers-game-and-watch-handheld'> Source <a/>
