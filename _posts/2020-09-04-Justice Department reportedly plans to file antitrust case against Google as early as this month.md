@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N6p11-2I64AlhcU6WfgDLNgvLVw=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67352010/acastro_181130_1777_google_bias_0001.0.0.jpg' width='700px' /><br/>
+The Department of Justice is preparing to file antitrust charges against Google's parent company Alphabet possibly as early as this month, The New York Times reported. Attorney General William Barr is moving forward with the case despite the objections of Justice Department lawyers who say they need more time to prepare their case and worry that pushing to file charges this month could weaken the case, according to the Times.
+<a href='https://www.theverge.com/2020/9/3/21421314/justice-antitrust-google-barr-tech'> Source <a/>

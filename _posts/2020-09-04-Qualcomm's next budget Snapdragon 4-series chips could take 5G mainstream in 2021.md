@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/68tK1aTsPvhx2SFcHWkSOjlJQvo=/0x0:7952x5304/1200x800/filters:focal(3340x2016:4612x3288)/cdn.vox-cdn.com/uploads/chorus_image/image/67346041/QRD_for_5G_in_4_series___in_hand.0.jpg' width='700px' /><br/>
-Qualcomm is expanding its 5G portfolio to its budget Snapdragon 4-series chipsets in 2021, which will bring the faster networking standard to the cheapest range of smartphones yet.
-<a href='https://www.theverge.com/2020/9/3/21409504/qualcomm-snapdragon-4-series-budget-4-phones-ifa-2020'> Source <a/>

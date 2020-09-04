@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8DEof1-cVZm7FpV_MHa4KtIil5Q=/0x0:681x447/1200x800/filters:focal(287x170:395x278)/cdn.vox-cdn.com/uploads/chorus_image/image/67352946/aorus.0.png' width='700px' /><br/>
+Gigabyte has announced the Aorus 15P, a portable laptop tailored to professional gaming. It's available now on Gigabyte's online store, starting at $1,599.99.
+<a href='https://www.theverge.com/2020/9/3/21419930/gigabyte-aorus-15p-gaming-laptop-professional-esports-intel-nvidia'> Source <a/>

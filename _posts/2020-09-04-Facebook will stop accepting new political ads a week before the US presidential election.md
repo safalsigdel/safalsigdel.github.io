@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LAAmsBF9G6q3KSfkd4-1-5HWOGU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67346293/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook will stop taking new political advertising in the United States in the seven days leading up to the election, CEO Mark Zuckerberg said today as part of a series of steps the company is taking to protect against election interference.
-<a href='https://www.theverge.com/2020/9/3/21419258/facebook-political-ads-deadline-announcements-voter-registration-mark-zuckerberg'> Source <a/>

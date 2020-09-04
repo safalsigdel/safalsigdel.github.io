@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/deCTv_LCynaMkLp1XDbv9ieKmS4=/0x0:3000x2250/1200x800/filters:focal(1260x885:1740x1365)/cdn.vox-cdn.com/uploads/chorus_image/image/67346036/Acer_Spin7_SP714_61_tablet_mode_with_stylus.0.jpg' width='700px' /><br/>
-Acer has announced the newest iteration of its Spin 7 lineup at IFA 2020, and there's a twist: instead of the usual Intel processor, the new model will be the first laptop with Qualcomm's Snapdragon 8cx Gen 2 5G chip. It's also Acer's first 5G laptop.
-<a href='https://www.theverge.com/2020/9/3/21409502/acer-spin-7-qualcomm-snapdragon-8cx-gen-2-5g-chip-ifa-2020'> Source <a/>
