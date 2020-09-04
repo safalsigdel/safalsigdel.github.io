@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/buv1bGeqOb2Vz2p4RHhjKGih_gM=/0x0:2480x1382/1200x800/filters:focal(1042x493:1438x889)/cdn.vox-cdn.com/uploads/chorus_image/image/67346857/Screen_Shot_2020_09_03_at_9.10.20_AM.0.png' width='700px' /><br/>
-Nintendo is turning the original Super Mario Bros. into a 35-player battle royale game called Super Mario Bros. 35, available on October 1st exclusively to Nintendo Switch Online subscribers.
-<a href='https://www.theverge.com/2020/9/3/21419784/super-mario-bros-35-nintendo-switch-battle-royale-game-announcement'> Source <a/>
