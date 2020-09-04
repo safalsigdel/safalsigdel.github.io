@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3Jp4Kf3Uq7VwIhz89bt7NhPSgC8=/0x0:4182x2788/1200x800/filters:focal(1757x1060:2425x1728)/cdn.vox-cdn.com/uploads/chorus_image/image/67347655/Summit__22_.0.jpg' width='700px' /><br/>
-MSI is best known for its gaming laptops, but today, it's announcing a new business line for remote professionals. The line includes the Summit E series and the Summit B series, each with 14- and 15-inch models, along with the 13-inch convertible E13 Flip.
-<a href='https://www.theverge.com/2020/9/3/21418451/msi-summit-series-prestige-modern-announced-specs'> Source <a/>

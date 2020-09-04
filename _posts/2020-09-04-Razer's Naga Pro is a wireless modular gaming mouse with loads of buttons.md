@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zBY10W_ZDBSNvCc1tjtm1aZmCYU=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/67347412/nagaprohero.0.jpg' width='700px' /><br/>
-Most gaming mice claim to work great for any type of game, regardless of their design and feature set. Razer's new Naga Pro wireless mouse proves how well-suited it is for a variety of games with its modular, magnetically attached side button plates that make it a practical option for different genres, especially those that require multiple commands, such as MOBAs, MMOs, RTSs, and battle royale titles like Fortnite.
-<a href='https://www.theverge.com/2020/9/3/21418172/razer-naga-pro-wireless-gaming-mouse-mmo-moba-battle-royale'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/66LC367IumLMXcD457i4cqIvLOU=/0x0:920x613/1200x800/filters:focal(387x234:533x380)/cdn.vox-cdn.com/uploads/chorus_image/image/67354658/peloton_tread_lifestyle_01_1571874451.0.jpg' width='700px' /><br/>
+There are no two ways about it: the pandemic has been good for Peloton. Demand for the company's high-end exercise equipment and at-home workouts has boomed as COVID-19 has shut gyms and kept customers indoors. Now, in a move likely intended to capitalize on this growth, Bloomberg reports that Peloton is planning to launch a new, cheaper treadmill.
+<a href='https://www.theverge.com/2020/9/4/21422718/peloton-cheaper-treadmill-bike-pandemic-workout-demand'> Source <a/>

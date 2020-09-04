@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/27CbOrC5NOngHwXWRxxLz22YDYU=/0x0:1654x936/1200x0/filters:focal(0x0:1654x936):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21849274/7VFWgUG.jpg' width='700px' /><br/>
-Nvidia unveiled its latest GeForce RTX 3080 graphics card earlier this week, and now the company is giving us a closer look at its 4K gaming performance. In a new gameplay video, Nvidia demonstrates Doom Eternal running on both the RTX 3080 and 2080 Ti side by side. The results show the RTX 3080 beating the 2080 Ti by around 50 percent in fps, and averaging at around 120fps at 4K with max settings enabled.
-<a href='https://www.theverge.com/2020/9/3/21419810/nvidia-geforce-rtx-3080-4k-gameplay-rtx-2080-ti-comparison'> Source <a/>
