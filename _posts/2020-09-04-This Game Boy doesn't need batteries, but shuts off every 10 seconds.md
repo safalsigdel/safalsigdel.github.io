@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+The original Game Boy from 1989 was an iconic handheld console but, as anyone who owned one will tell you, it required a steady stream of batteries to keep running. Now, a team of researchers at Northwestern University and Delft University of Technology have developed a new take on the classic console, replacing its array of four AA batteries with a set of five rows of solar panels and buttons that harvest power as you play.
+<a href='https://www.theverge.com/tldr/2020/9/4/21422605/engage-battery-free-game-boy-button-mashing-solar-panels-research-environmental-sustainability'> Source <a/>
