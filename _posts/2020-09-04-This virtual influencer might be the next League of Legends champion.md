@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jquAragsr1W9FlZEaX0RRkRBlpk=/0x0:1440x1080/1200x800/filters:focal(605x425:835x655)/cdn.vox-cdn.com/uploads/chorus_image/image/67355741/Egg1ZhEUYAAPasN.0.jpg' width='700px' /><br/>
+For the past few weeks, a new influencer has steadily grown in popularity. She has long pink hair, posts about her cat Bao and her clueless dad, has lots of fan art, and frequently retweets pieces of music that she loves. Her Instagram bio reads: “aspiring songwriter, professional feeling catcher.” Oh, and she also isn't real.
+<a href='https://www.theverge.com/2020/9/4/21409058/seraphine-league-of-legends-riot-games-virtual-influencer'> Source <a/>
