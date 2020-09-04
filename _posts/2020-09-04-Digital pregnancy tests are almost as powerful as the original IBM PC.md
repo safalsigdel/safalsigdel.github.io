@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Pregnancy tests used to be fairly simple sticks you peed on, but the move to digital versions has transformed them into tiny computers almost as powerful as the original IBM PC. Fascinated by the digital era of pregnancy tests, Twitter users foone and xtoff recently pulled apart examples from Walmart and Clearblue to reveal what's really going on inside.
+<a href='https://www.theverge.com/tldr/2020/9/4/21422628/digital-pregnancy-test-teardown-processor-ram-ibm-pc'> Source <a/>
