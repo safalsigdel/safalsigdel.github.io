@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ldACxr8TJi8AoA6xo7jsYI08oGI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67347735/acastro_180510_1777_alexa_0002.0.jpg' width='700px' /><br/>
-Amazon on Thursday announced Alexa for Residential, a new program designed to make it easier for landlords and property managers to add Alexa devices to rental units to create smart apartments (smarpartments? smartments?). The company is billing it as a service “that makes having an Alexa-enabled home accessible for anyone, regardless of whether they rent or own their home.”
-<a href='https://www.theverge.com/2020/9/3/21419812/amazon-alexa-residential-apartment-privacy'> Source <a/>
