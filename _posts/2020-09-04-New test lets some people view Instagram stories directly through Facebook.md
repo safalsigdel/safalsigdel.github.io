@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w6J2FYclgGNI78KnOs5l5UbQ17U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67355961/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+Some Facebook users have recently noticed that they can now watch their Instagram stories right from within the main social network app. Facebook has long allowed (and encouraged) cross-posting of Instagram stories to Facebook to help build momentum for its own version of the format — but a new test brings Instagram stories right into Facebook for direct viewing.
+<a href='https://www.theverge.com/2020/9/4/21423002/instagram-stories-new-test-views-from-facebook'> Source <a/>
