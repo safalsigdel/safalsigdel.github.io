@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ny2h6jUA0ptZOCar7yLtbkCCIXs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67352876/DSCF7244.0.jpg' width='700px' /><br/>
-We weren't huge fans of the LG Velvet, the design-first, specs-second flagship smartphone the company released this summer. The sleek phone felt stuttery in our review. But what if I told you the T-Mobile variant comes with a different chip?
-<a href='https://www.theverge.com/2020/9/3/21295764/t-mobile-lg-velvet-mediatek-dimensity-1000-soc-processor-5g'> Source <a/>
