@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XxLDeA6LPMejrWpeOWL-Wftl9xY=/0x0:2048x1367/1200x800/filters:focal(861x521:1187x847)/cdn.vox-cdn.com/uploads/chorus_image/image/67352066/VRG_ILLO_1777_twitter_bitcoin.0.0.jpg' width='700px' /><br/>
-If you're curious what kind of data Twitter stores on you — and what those hackers could have stolen during their big bitcoin scam — you can now find out once again. Twitter has reenabled the ability to download archives of “Your Twitter Data,” nearly two months after shutting off the feature as a precaution against further hacking.
-<a href='https://www.theverge.com/2020/9/3/21421528/twitter-data-archive-download-after-hack'> Source <a/>
