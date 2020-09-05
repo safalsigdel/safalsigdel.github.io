@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x3sYXkB-X7yOpwaUpg8o0-0Fi8U=/0x0:1600x898/1200x800/filters:focal(672x321:928x577)/cdn.vox-cdn.com/uploads/chorus_image/image/67352225/PLAYMASTER.0.png' width='700px' /><br/>
-Logitech G has announced a new esports training program for Counter-Strike: Global Offensive called Playmaster, which is designed to help assess your skills and help you practice specific techniques, like tracking players, moving, and (of course) shooting.
-<a href='https://www.theverge.com/2020/9/3/21421224/logitech-g-playmaster-software-assessment-training-esports-counter-strike-global-offensive'> Source <a/>
