@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7PXOxRbNxEJvtK_wakI8w9Na_Yg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67357870/acastro_181114_1777_amazon_hq2_0007.0.jpg' width='700px' /><br/>
+Amazon's top reviewers in the UK appear to have engaged in fraud, leaving thousands of five-star ratings in exchange for money or free products. The company took down 20,000 product reviews following an investigation by the Financial Times.
+<a href='https://www.theverge.com/2020/9/4/21423429/amazon-top-reviewers-uk-fraud'> Source <a/>

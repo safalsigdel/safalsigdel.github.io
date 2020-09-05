@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8VT00dCgTg4VWr6p6OkoZnjaa1A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67357328/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+On Friday, Apple published a new human rights policy committing to “freedom of information and expression” after facing years of criticism over the company's willingness to follow mainland China's censorship laws.
+<a href='https://www.theverge.com/2020/9/4/21423347/apple-freedom-speech-expression-information-china-censorship-policy'> Source <a/>

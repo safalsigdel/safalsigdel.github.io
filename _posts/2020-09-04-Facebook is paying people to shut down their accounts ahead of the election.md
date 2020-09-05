@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ipsrzPHwfuh36ydwrmig_HuvgeY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67351265/acastro_180501_1777_facebook_dating_0001.0.jpg' width='700px' /><br/>
-As part of Facebook's latest study on how social media impacts democracy, the company appears to be paying users to log off of its products ahead of the 2020 US presidential election, according to new screenshots posted by Washington Post reporter Elizabeth Dwoskin on Thursday.
-<a href='https://www.theverge.com/2020/9/3/21421275/facebook-paying-shut-down-accounts-election-instagram-misinformation-interference'> Source <a/>
