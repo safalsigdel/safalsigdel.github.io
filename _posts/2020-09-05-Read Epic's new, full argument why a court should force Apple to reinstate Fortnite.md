@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PrWlqfsuNMBqlecDEolkSky-oMk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67358967/acastro_20200818_1777_epicApple_0001.0.0.jpg' width='700px' /><br/>
-Shortly before midnight on the Friday before Labor Day weekend, Epic Games pushed the button on its next legal action against Apple's ban on the immensely popular Fortnite.
-<a href='https://www.theverge.com/2020/9/5/21423889/fortnite-epic-apple-preliminary-injunction-filing-ios-mac'> Source <a/>
