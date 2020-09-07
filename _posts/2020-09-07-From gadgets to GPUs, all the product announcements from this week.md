@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OCl3ZSN1Pned0-wKod7y1ilSvm4=/0x0:1071x602/1200x800/filters:focal(451x216:621x386)/cdn.vox-cdn.com/uploads/chorus_image/image/67354781/kNmhDjg.0.png' width='700px' /><br/>
-We've got a gadget-heavy episode of The Vergecast this week, with the announcements of Intel's new 11th Gen Tiger Lake CPU's, Nvidia's Geoforce RTX 3080 and 3090, and a whole bunch of stuff coming out of the virtual version of IFA's 2020 showcase.
-<a href='https://www.theverge.com/2020/9/4/21417058/420-ifa-2020-gadgets-intel-11th-gen-tiger-lake-cpu-nvidia-rtx-3080-3090-vergecast'> Source <a/>
