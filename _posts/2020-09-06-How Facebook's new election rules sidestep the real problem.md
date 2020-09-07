@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5pWtXgDHKW1SyxZY-kQLC953hQ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67354009/acastro_180522_facebook_0001.0.jpg' width='700px' /><br/>
-Programming note: The Interface will be off Monday for Labor Day.
-<a href='https://www.theverge.com/interface/2020/9/4/21420096/facebook-election-ad-limits-labels-limits-view-from-nowhere-jay-rosen'> Source <a/>

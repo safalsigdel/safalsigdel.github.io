@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/92Dutjr1EQOmxXxPEDMhdgg6oQI=/0x0:1870x1013/1200x800/filters:focal(786x358:1084x656)/cdn.vox-cdn.com/uploads/chorus_image/image/67363188/ea_sports_the_boys.0.jpg' width='700px' /><br/>
+EA has apologized for putting a full-screen, in-game ad into its UFC 4 game, after angry fans protested on Reddit. First reported by Eurogamer, the commercial break, which featured a spot for Amazon's show The Boys, was added to the $60 game about a month after its initial release.
+<a href='https://www.theverge.com/2020/9/6/21425170/ea-apologizes-ads-ufc-4-gaming'> Source <a/>
