@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WG-M8yD_eUfgkn7r9U_7vCifVQo=/0x0:1920x1200/1200x800/filters:focal(807x447:1113x753)/cdn.vox-cdn.com/uploads/chorus_image/image/67354456/baw-2.0.0.jpg' width='700px' /><br/>
-The Witcher 3: Wild Hunt is getting a graphical upgrade for next-generation hardware, and current owners of the game on PC, Playstation, and Xbox will get the update for free.
-<a href='https://www.theverge.com/2020/9/4/21422690/witcher-3-next-gen-free-upgrade-console-xbox-ps5-pc-ray-tracing'> Source <a/>
