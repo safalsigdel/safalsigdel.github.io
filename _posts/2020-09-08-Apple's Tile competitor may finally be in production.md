@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1Z2BGeeoLrdFh-YgiictSEgFogc=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/67371396/B389.0.png' width='700px' /><br/>
+Apple's Tile-like location tracking product has finally entered production, according to a report from Nikkei, meaning you might be able to buy them sometime soon. Rumors about the trackers, which will apparently help you wirelessly locate items they're attached to like a bag or wallet, have been swirling since last year. They may be called “AirTags,” are apparently designed to work with Apple's Find My app, and are expected to be small circular discs.
+<a href='https://www.theverge.com/2020/9/8/21427380/apple-airtags-tile-competitor-production'> Source <a/>
