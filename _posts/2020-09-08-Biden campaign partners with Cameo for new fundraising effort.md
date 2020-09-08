@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8wAYomAJkchN4N9tbTXDWVE4GhA=/0x0:2562x1708/1200x800/filters:focal(1077x650:1485x1058)/cdn.vox-cdn.com/uploads/chorus_image/image/67355528/1270293658.jpg.0.jpg' width='700px' /><br/>
-The Joe Biden campaign is partnering up with the celebrity video platform Cameo in a new fundraising effort ahead of the November election.
-<a href='https://www.theverge.com/2020/9/4/21422966/biden-campaign-cameo-fundraising-andy-cohen-mandy-moore-melissa-etheridge'> Source <a/>
