@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZHObDmOj04ZhKHGXvUAVQAuoTJ8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67362215/pEHoutKU.0.jpeg' width='700px' /><br/>
-Twitch Sings, the streaming platform's live karaoke game, is shutting down, the company announced. The company says it decided to close down the game effective January 1st, 2021 in order to “invest in broader tools and services that will help support and grow the entire music community on Twitch.”
-<a href='https://www.theverge.com/2020/9/6/21424924/karaoke-game-twitch-sings-music'> Source <a/>
