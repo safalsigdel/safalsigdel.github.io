@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k3vjhBEinXfLoyxQUzJ2Fyp3wPI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67365944/bfarsace_200803_4124_0008.0.jpg' width='700px' /><br/>
-Last month, Samsung unveiled the Galaxy Watch 3 as part of its current lineup, and compared to its predecessors, it came with an expensive starting price of $400. Fortunately, the watch is now down to its lowest price yet. You can buy the 45mm size in black for only $365 on Amazon — this version of the watch usually retails for $430.
-<a href='https://www.theverge.com/2020/9/7/21425922/samsung-galaxy-watch-3-galaxy-watch-active-2-anker-thunderbolt-3-dock-amazon-deals'> Source <a/>
