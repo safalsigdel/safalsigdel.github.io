@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Is this an actual prototype Apple Watch in one of those covert “security cases” that companies sometimes use when they're testing gadgets in broad daylight? We can't say.
-<a href='https://www.theverge.com/circuitbreaker/2020/9/4/20975197/apple-watch-prototype-tiny-ipod-security-case-rumor'> Source <a/>
