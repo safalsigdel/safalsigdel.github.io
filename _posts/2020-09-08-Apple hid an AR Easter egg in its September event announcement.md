@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Apple has officially announced its upcoming “Time Flies” event for September 15th, and the company hid a neat augmented reality Easter egg in the event announcement that uses Apple's ARKit to turn the swirling Apple logo into a floating image of the “9.15” event date.
-<a href='https://www.theverge.com/2020/9/8/21427378/apple-ar-easter-egg-september-event-announcement-time-flies'> Source <a/>
