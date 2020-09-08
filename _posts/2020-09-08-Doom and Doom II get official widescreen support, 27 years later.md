@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/l1xG_FJYdgOXjupW5irovpLrRV8=/0x0:560x400/1200x800/filters:focal(236x156:324x244)/cdn.vox-cdn.com/uploads/chorus_image/image/67358031/doom-560.0.png' width='700px' /><br/>
+Doom is the game that just won't die, no matter how many times you blast those demons away — and owner Bethesda has seen fit to give the 27-year-old original quite a number of upgrades this year. After adding 60fps support and community-made add-ons in January, the re-released Doom and Doom II are now getting official 16:9 widescreen support as well.
+<a href='https://www.theverge.com/2020/9/4/21423585/doom-doom-ii-official-widescreen-support-16-9'> Source <a/>

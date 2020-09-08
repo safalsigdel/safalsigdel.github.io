@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HJuhH5Aj61Re1Zdu7x4WCGCRY9c=/0x0:1920x1080/1200x800/filters:focal(546x320:852x626)/cdn.vox-cdn.com/uploads/chorus_image/image/67358313/36584935231_ddf86e086b_o.0.jpg' width='700px' /><br/>
+I've often heard that Shenmue set the standard for a living, breathing open world in video games when it was released on Sega Dreamcast in 1999. It was followed by some of the most highly anticipated video game sequels ever made, and Shenmue III set a record for the most-funded Kickstarter game in 2015.
+<a href='https://www.theverge.com/2020/9/4/21293203/sega-dreamcast-shenmue-anime-crunchyroll-adult-swim'> Source <a/>

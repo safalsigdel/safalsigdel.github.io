@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kRG8qo7q8IHJxU0nUROm6pcDq20=/0x0:3269x2626/1200x800/filters:focal(1374x1052:1896x1574)/cdn.vox-cdn.com/uploads/chorus_image/image/67366241/1177532382.jpg.0.jpg' width='700px' /><br/>
+The Joe Biden campaign is taking over a popular Instagram account from a teen supporter, who built a huge following over their summer break. Formerly a fan account, @VoteJoe account will now serve as the campaign's primary point of grassroots outreach on Instagram, supplementing Biden's personal account.
+<a href='https://www.theverge.com/2020/9/7/21426090/joe-biden-campaign-instagram-votejoe-teen-animal-crossing-stories-memes'> Source <a/>

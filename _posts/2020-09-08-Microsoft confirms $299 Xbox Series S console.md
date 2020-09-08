@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z4F0bwSpJZeO2f5tmV9lL1rVtMM=/0x0:2700x1800/1200x800/filters:focal(1134x684:1566x1116)/cdn.vox-cdn.com/uploads/chorus_image/image/67368722/xbox.5.jpg' width='700px' /><br/>
+Hours after Microsoft's Xbox Series S console widely leaked, the company has gone on the record to confirm its existence. In a tweet, Microsoft describes the Series S as offering “next-gen performance in the smallest Xbox ever” and lists the price as the previously leaked figure of $299. In the UK it'll cost xc2xa3249.99.
+<a href='https://www.theverge.com/2020/9/8/21426934/microsoft-xbox-series-x-announcement-price'> Source <a/>
