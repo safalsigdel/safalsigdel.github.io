@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C49RbjOPZCE6sMki4v0qvNUriGE=/0x0:3000x2000/1200x800/filters:focal(2081x761:2561x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/67368722/EhX82n1UYAATqsI_1.0.jpeg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/z4F0bwSpJZeO2f5tmV9lL1rVtMM=/0x0:2700x1800/1200x800/filters:focal(1134x684:1566x1116)/cdn.vox-cdn.com/uploads/chorus_image/image/67368722/xbox.5.jpg' width='700px' /><br/>
 Hours after Microsoft's Xbox Series S console widely leaked, the company has gone on the record to confirm its existence. In a tweet, Microsoft describes the Series S as offering “next-gen performance in the smallest Xbox ever” and lists the price as the previously leaked figure of $299.
 <a href='https://www.theverge.com/2020/9/8/21426934/microsoft-xbox-series-x-announcement-price'> Source <a/>
