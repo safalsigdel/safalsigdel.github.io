@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6H4KnZPq65SW7LxgO3RopkHKAvQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67357346/acastro_180507_1777_microsoft_0003.0.jpg' width='700px' /><br/>
-Following an investigation by the Pentagon, the Department of Defense says it is standing by its decision to award a $10 billion cloud computing contract to Microsoft, not Amazon, the latest in an ongoing legal battle over the lucrative infrastructure project.
-<a href='https://www.theverge.com/2020/9/4/21423312/pentagon-microsoft-jedi-amazon-trump-defense-contract-cloud-bezos'> Source <a/>
