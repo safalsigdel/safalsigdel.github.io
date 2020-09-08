@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W5Yk31ykvhAGRXVGl_smxP-GtNM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67370992/dbohn_200608_4059_0008.0.jpg' width='700px' /><br/>
-Android 11 is officially launching today after months of betas — and it's getting a wider release than expected, with the latest version of the operating coming today not only to Pixel devices but to phones from OnePlus, Xiaomi, Oppo, and Realme, too.
-<a href='https://www.theverge.com/2020/9/8/21427153/android-11-official-launch-google-pixel-oneplus-8-xiaomi-oppo-realme-update'> Source <a/>
