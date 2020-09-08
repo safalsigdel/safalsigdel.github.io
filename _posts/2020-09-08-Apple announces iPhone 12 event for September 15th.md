@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aW_nm5JaUjDkeKjiPC2PnR_sv1I=/0x0:2198x1116/1200x800/filters:focal(924x383:1274x733)/cdn.vox-cdn.com/uploads/chorus_image/image/67370336/Screen_Shot_2020_09_08_at_11.11.38_AM.0.png' width='700px' /><br/>
+Apple has announced its annual iPhone announcement event for September 15th at 1pm ET / 10am PT, where the company is expected to announce its latest slate of iPhones, a new Apple Watch, and a release date for iOS 14.
+<a href='https://www.theverge.com/2020/9/8/21405307/apple-iphone-event-2020-date-time-rumors-watch-ipad-ios14'> Source <a/>
