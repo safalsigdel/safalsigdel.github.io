@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p5JhKjW_s4jrKPfHwC6oIxvr88w=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/67368811/oRl5eYz.0.png' width='700px' /><br/>
-Microsoft's next-gen Xbox Series S console leaked earlier today, just before the company officially confirmed its $299 pricing. Now a new leak is providing more details on exactly what's inside the smaller Xbox Series S. Twitter leaker WalkingCat has posted a promotional video for the Series S, confirming that the console is targeting 120fps gaming at up to 1440p resolution and offering 512GB of storage.
-<a href='https://www.theverge.com/2020/9/8/21426947/microsoft-xbox-series-s-specs-pricing-release-date-trailer-leak'> Source <a/>

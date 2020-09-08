@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MXfMIZC-S3UDSOpJkKgzswd3tws=/0x0:1050x700/1200x800/filters:focal(441x266:609x434)/cdn.vox-cdn.com/uploads/chorus_image/image/67362419/1299339_20200511165947_947_0003.0.jpg' width='700px' /><br/>
-LG has confirmed its upcoming phone will be called Wing (the Wing?) and will be revealed at its announcement event on September 14th. The device is believed to have two screens in a swiveling form factor, with a recent teaser video showing what looks like a sliding mechanism that can rotate into a T shape.
-<a href='https://www.theverge.com/2020/9/6/21424973/lg-confirms-wing-new-smartphone'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hkPzmgBg8JiD336Ey7sKLEjOSxM=/0x0:2416x1538/1200x800/filters:focal(1015x576:1401x962)/cdn.vox-cdn.com/uploads/chorus_image/image/67359480/ring_doorbell_2.0.jpg' width='700px' /><br/>
-Ring cameras and doorbells will soon be able to connect with Lutron's smart lighting systems, so you can set lights to turn on automatically when your Ring device detects movement. It's a useful feature to either welcome home a family member arriving late at night, or scare off a would-be intruder at the door.
-<a href='https://www.theverge.com/2020/9/5/21423965/ring-doorbells-cameras-lutron-smart-lighting'> Source <a/>

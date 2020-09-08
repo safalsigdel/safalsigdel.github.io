@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y2tXZPbl2k6ujZm0dXknxu9tJxU=/0x0:1100x774/1200x800/filters:focal(462x299:638x475)/cdn.vox-cdn.com/uploads/chorus_image/image/67365740/Minecraft-360.0.jpg' width='700px' /><br/>
-Minecraft is getting a free upgrade making the game playable in PlayStation VR later this month, developer Mojang Studios announced in a blog post today.
-<a href='https://www.theverge.com/2020/9/7/21426005/minecraft-ps-vr-playstation-virtual-reality-upgrade-free-update'> Source <a/>

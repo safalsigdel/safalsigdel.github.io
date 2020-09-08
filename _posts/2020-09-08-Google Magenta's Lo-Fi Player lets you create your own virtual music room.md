@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/btlTPS1SWhdK1YR8_uS9OeCjaIo=/0x0:1961x1044/1200x800/filters:focal(825x366:1137x678)/cdn.vox-cdn.com/uploads/chorus_image/image/67360224/lo_fi_player.0.png' width='700px' /><br/>
-A new Google Magenta project (created by an intern!) lets you mix lo-fi, hip-hop music tracks to build a custom music room in your browser, with no musical ability required. Magenta is designed to use Google's machine learning systems for the creation of art and music, and the Lo-Fi Player is a fun example of what it can do.
-<a href='https://www.theverge.com/2020/9/5/21424092/google-magenta-lo-fi-player-virtual-music-room-ai'> Source <a/>
