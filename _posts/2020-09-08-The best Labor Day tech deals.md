@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LLLuQRxyoTw5DbXWEtCQLD-wcR0=/0x0:2500x2500/1200x800/filters:focal(1097x767:1497x1167)/cdn.vox-cdn.com/uploads/chorus_image/image/67359413/xiNUvlcQ.0.jpeg' width='700px' /><br/>
-Welcome to Labor Day weekend. Whether you're working during the US holiday on Monday, September 7th, or you have off, retailers have cut prices on several tech products. For the discounts that are more limited in duration, I've made sure to note when those deals will end. It's safe to assume that any deal that doesn't list an end date will continue to be available well after Labor Day has passed.
-<a href='https://www.theverge.com/good-deals/21422910/best-labor-day-tech-deals-apple-samsung-vizio-best-buy-amazon-gamestop'> Source <a/>
