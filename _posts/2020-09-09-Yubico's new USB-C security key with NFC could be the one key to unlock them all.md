@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K9OD-sj1qMVImbr54lW49fVLYtA=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/67374812/5CNFC_lifestyle2__2_.0.jpg' width='700px' /><br/>
+Yubico is announcing a new version of its USB-C equipped YubiKey 5 security key with NFC built in, which should theoretically be a convenient combo and compatible with many future devices moving forward.
+<a href='https://www.theverge.com/2020/9/9/21428090/yubico-yubikey-5c-nfc-newest-usb-c-security-key'> Source <a/>
