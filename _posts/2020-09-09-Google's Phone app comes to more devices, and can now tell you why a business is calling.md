@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7bJaQ8aBx34Z7OViVTJmlJLkVCI=/0x0:5000x3334/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/67369796/_1_Banking_Global_2x.0.jpg' width='700px' /><br/>
-Google has officially announced a new “Verified Calls” feature for its phone app, which is designed to give more information when a business is calling you. Compatible calls will show a company's name, branding, a small badge to show that it's verified, and a reason for its call.
-<a href='https://www.theverge.com/2020/9/8/21425986/google-phone-app-verified-calls-lg-samsung-context-fraud-spam-reduction'> Source <a/>
