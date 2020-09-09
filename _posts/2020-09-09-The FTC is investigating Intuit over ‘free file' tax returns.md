@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k7sb0pwl6iyIvaeSOOJtEXbydac=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67371621/507814526.jpg.0.jpg' width='700px' /><br/>
-The Federal Trade Commission is actively investigating Intuit, maker of the popular TurboTax tax preparation software, according to a new report by ProPublica. The case was revealed in a public court filing, in which Intuit sought to limit the scope of the investigation.
-<a href='https://www.theverge.com/2020/9/8/21427518/ftc-investigation-free-file-tax-return-turbotax-consumer-protection'> Source <a/>
