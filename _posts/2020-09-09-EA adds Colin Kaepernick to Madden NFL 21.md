@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U8ucFSLRPkLkkbAs-oYSDz2o3Qk=/0x0:1920x1080/1200x800/filters:focal(859x370:1165x676)/cdn.vox-cdn.com/uploads/chorus_image/image/67371320/EhaGgbhXgAAWFaW.0.jpg' width='700px' /><br/>
-EA is bringing Colin Kaepernick back to Madden. Starting today, Kaepernick will be available as a QB who can be added to any team in Franchise mode in Madden NFL 21, which was released in late August. He can also be selected in the game's Play Now mode. Kaepernick hasn't been playable in a Madden game since 2016, according to The Undefeated.
-<a href='https://www.theverge.com/2020/9/8/21427590/colin-kaepernick-madden-nfl-21-ea-sports-added-qb'> Source <a/>
