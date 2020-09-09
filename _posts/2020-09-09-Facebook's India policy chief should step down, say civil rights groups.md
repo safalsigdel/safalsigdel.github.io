@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SG-M_WAhuSNbC_601FEmDEqVVGM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67376316/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
+A coalition of civil rights groups are calling for Ankhi Das, Facebook's public policy chief in India, to step down in the face of growing sectarian conflict in India. The 41 groups sent an open letter expressing their objections to Mark Zuckerberg on Wednesday, citing an escalating potential for Facebook-fueled violence in the country.
+<a href='https://www.theverge.com/2020/9/9/21428940/facebooks-india-ankhi-das-mob-violence-hindu-muslim-genocide'> Source <a/>
