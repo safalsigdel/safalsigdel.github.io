@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ifwIqQjtzFFMhXlDY9hK7rFBs8Y=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/67374677/stock-reddit-0201.0.0.jpg' width='700px' /><br/>
+One aspect of the 2020 presidential campaign that isn't much discussed is the fact that both candidates want to end the internet as we know it. Both President Trump and Joe Biden have called for the end of Section 230 of the Communications Decency Act, which protects tech companies in most cases when their users post something illegal on their platforms.
+<a href='https://www.theverge.com/interface/2020/9/9/21427485/trump-biden-section-230-reform-free-speech-nyu-stern-barrett'> Source <a/>
