@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yVH4t_QffJmeZSRdGIdDKaunO7Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67374949/mchin_181126_4172_0001.0.0.jpg' width='700px' /><br/>
+AMD has started a laptop revolution. For evidence, just look to The Verge's Instagram account. “No Ryzen no buy,” reads the most-liked comment on a recent photo of the Intel-powered Lenovo Legion 5i. “If it's INTEL no point of purchasing it,” reads the second comment down. There's no doubt about it: the Ryzen 4000 series has brought exceptional performance to midrange ultraportable laptops — performance that previously cost an arm and a leg.
+<a href='https://www.theverge.com/21423498/lenovo-ideapad-slim-7-2020-amd-review'> Source <a/>
