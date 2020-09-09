@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ivwVIkkma4HE0csNAO2ecGubIQc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67371751/vpavic_200903_android_11_4026.0.jpg' width='700px' /><br/>
-Google has officially announced Android 11, and the new operating system is already rolling out to Pixel phones. In honor of the release, Google has created a statue that you can view in augmented reality on any Android phone. Dave Burke, Android's VP of engineering, tweeted a picture of the virtual statue earlier this afternoon.
-<a href='https://www.theverge.com/21427638/google-ar-android-11-statue-how-to-pixel-link'> Source <a/>
