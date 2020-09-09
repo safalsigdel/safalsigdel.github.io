@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vqM07fkDDqSCqZCGzzjB0Bi2aYY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67370399/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
-Uber announced Tuesday that “100 percent” of rides will take place in electric vehicles by 2030 in the US, Canada, and Europe, and by 2040 for the rest of the world. But rather than pay drivers directly to trade their gas-burning vehicles for electric ones, the company will impose an extra fee on trips completed in an electric vehicle to incentivize drivers to make the switch.
-<a href='https://www.theverge.com/2020/9/8/21427196/uber-promise-100-percent-electric-vehicle-ev-2030'> Source <a/>
