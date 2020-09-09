@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-The Samsung Galaxy Note 20 and Note 20 Ultra are both $200 off at Amazon, B&H Photo, and Best Buy. This brings the price for the smaller device down to $800, and $1,100 for the Note 20 Ultra. The Note 20 series released less than a month ago, and this price cut is far more appealing than Samsung's preorder incentives that granted up to $150 in e-gift card credit.
-<a href='https://www.theverge.com/good-deals/2020/9/8/21427618/samsung-galaxy-note-20-ultra-unlocked-phone-android-200-off-20-percent-sale-discount-deal-amazon'> Source <a/>
