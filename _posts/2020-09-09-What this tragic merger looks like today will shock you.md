@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-b1YbRe96UYYPDCr5keem9k83kk=/0x0:653x435/1200x800/filters:focal(275x166:379x270)/cdn.vox-cdn.com/uploads/chorus_image/image/67373012/Screen_Shot_2015-02-04_at_9.47.52_AM.0.0.1423061718.0.png' width='700px' /><br/>
+Taboola and Outbrain, best known as the rival chumbox providers who fill space on your favorite websites with garbage like “You Won't Believe What [NAME] Looks Like Today!” and the ever-popular “1 Weird Trick,” will apparently not be merging into the ultimate source of low-quality web filler we'd feared ever since the Department of Justice saw fit to put its stamp of approval on the deal.
+<a href='https://www.theverge.com/2020/9/8/21428116/taboola-outbrain-merger-reportedly-called-off'> Source <a/>

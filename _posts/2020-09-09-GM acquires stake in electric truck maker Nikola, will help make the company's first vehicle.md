@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9Z_FA1KeZ4ni2Atd5iDeO-CoSRc=/0x0:2750x1440/1200x800/filters:focal(1155x500:1595x940)/cdn.vox-cdn.com/uploads/chorus_image/image/67369332/nikola_badger2_cf395e4f22cda43fbd88058f8e08471af0f23467f0431422dbaff5542aac900c.0.jpg' width='700px' /><br/>
-General Motors is taking an 11 percent stake in electric truck startup Nikola, the companies announced on Tuesday. As part of the deal, GM will help Nikola engineer and manufacture its battery-electric and hydrogen fuel cell vehicles, including the Badger pickup truck.
-<a href='https://www.theverge.com/2020/9/8/21427009/gm-nikola-acquisition-electric-hydrogen-truck'> Source <a/>

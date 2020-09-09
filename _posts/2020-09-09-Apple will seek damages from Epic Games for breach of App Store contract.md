@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZL2aYeH5r6Rn3poiRPXM_eJ2nCA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67371879/acastro_20200818_1777_epicApple_0004.0.0.jpg' width='700px' /><br/>
+Apple will seek damages against Epic Games for allegedly breaching its contract with the iOS App Store, in a new escalation of the two companies' ongoing legal fight. The move came in a filing entered on Tuesday, alongside counterclaims for unjust enrichment and tortious interference with Apple's relationship with its customers.
+<a href='https://www.theverge.com/2020/9/8/21427779/apple-epic-games-breach-of-contract-lawsuit-fortnite-app-store'> Source <a/>

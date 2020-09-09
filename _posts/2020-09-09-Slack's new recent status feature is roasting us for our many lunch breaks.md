@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Need to tell your co-workers you're taking lunch? Slack will now let you pick from your last five custom statuses so you don't have to type them (and find the right emoji) over and over again.
+<a href='https://www.theverge.com/tldr/2020/9/8/20754403/slack-recent-set-status-no-repeat-typing-again'> Source <a/>

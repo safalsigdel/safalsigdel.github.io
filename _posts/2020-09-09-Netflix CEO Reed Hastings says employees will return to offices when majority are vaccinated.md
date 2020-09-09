@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VnP_6SRg4zIHNYdvOPdsayn31eA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67368940/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
-Netflix CEO Reed Hastings says he doesn't expect his company's employees to return to the office until the “majority” are vaccinated — a shifting deadline that will probably see staff working from home into 2021 given current time frames for vaccine development.
-<a href='https://www.theverge.com/2020/9/8/21426956/netflix-ceo-reed-hastings-return-to-office-vaccine-working-from-home-negative'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vrkhaVFx--X-T3DnfhP8xuZbS5A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67372090/jporter_200218_3911_0001.0.jpg' width='700px' /><br/>
+Samsung and SK Hynix will reportedly stop selling components to Huawei as the Trump administration tightens sanctions on the Chinese phone maker. According to Chosun Ilbo and other Korean news outlets, the companies will suspend trade on September 15th, the day a new set of rules limits dealing with Huawei.
+<a href='https://www.theverge.com/2020/9/8/21427769/samsung-huawei-trump-us-sanctions-end-trade-chip-semiconductors'> Source <a/>

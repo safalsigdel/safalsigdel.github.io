@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I1u2RG8yo5O6Qf-TgY_9rxR0As4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67368630/DSCF7373.0.jpg' width='700px' /><br/>
-Xiaomi's Poco sub-brand has announced its latest phone, the Poco X3 NFC. As you might have guessed from the inclusion of “NFC” in the name of the phone itself, this is not a device targeting a typical flagship audience. But like other recent Poco phones, the X3 NFC looks to be a strong proposition from a price-performance standpoint.
-<a href='https://www.theverge.com/2020/9/8/21426866/xiaomi-poco-x3-nfc-hands-on-price-specs-release'> Source <a/>

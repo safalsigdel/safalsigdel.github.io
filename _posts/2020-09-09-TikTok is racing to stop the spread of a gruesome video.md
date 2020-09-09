@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m6w0irvJPRZgK-x0YJ1OgCwx-l8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67366308/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
-TikTok is trying to remove graphic videos circulating the app that show a man shooting himself with a gun, and banning accounts from people who are re-uploading the clip.
-<a href='https://www.theverge.com/2020/9/7/21426176/tiktok-suicide-video-remove-ban-community-warnings-creators'> Source <a/>
