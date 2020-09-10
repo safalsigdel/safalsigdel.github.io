@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kxJUENuzaYJDReOziqFw8MH6tPw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67374459/akrales_190820_3597_0191.0.jpg' width='700px' /><br/>
-Nintendo is said to be increasing its Switch production again, with a new Bloomberg report saying the company is asking its partners to manufacture as many as 30 million consoles this fiscal year. While Nintendo's official forecast remains a conservative 19 million shipments, Bloomberg has reported hikes in production targets to 22 million, 25 million, and now 30 million throughout the year.
-<a href='https://www.theverge.com/2020/9/9/21428580/nintendo-switch-production-new-model-4k'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YcrtWHXbA8LRlUEMutoM9ckO9Qc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67372816/1217471500.jpg.0.jpg' width='700px' /><br/>
-A group of Senate Republicans introduced a new bill Tuesday aimed at chipping away some of the protections provided to social media companies through Section 230 of the Communications Decency Act.
-<a href='https://www.theverge.com/2020/9/8/21428079/republicans-pressure-platforms-230-bill-liability-protection-blackburn-lindsey-graham-wicker'> Source <a/>

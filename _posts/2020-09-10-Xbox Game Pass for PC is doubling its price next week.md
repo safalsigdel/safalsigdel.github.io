@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6CHXufDDlThaSI6iK7AEsBndjAM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67379878/acastro_190530_1777_xbox_0003.0.0.jpg' width='700px' /><br/>
+Alongside an influx of next-gen console news, Microsoft also confirmed today that it will raise its pricing for Xbox Game Pass for PC from $4.99 per month to $9.99 a month starting on September 17th.
+<a href='https://www.theverge.com/2020/9/9/21429922/xbox-game-pass-for-pc-price-increase-september-17'> Source <a/>

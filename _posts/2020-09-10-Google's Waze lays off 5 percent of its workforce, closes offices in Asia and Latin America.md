@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NVsCPZUhomMZbKyVVPKb3P896AU=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/67379045/akrales_160517_1059_A_0113.0.0.jpg' width='700px' /><br/>
+Waze, the Google-owned navigation and mapping service, will lay off 5 percent of its global workforce, or about 30 people out of 555 total employees, the company's CEO said in an email to employees. Waze will also close several of its offices in the Asia-Pacific and Latin America regions as it seeks to refocus its business on certain markets.
+<a href='https://www.theverge.com/2020/9/9/21428907/waze-layoff-pandemic-google-navigation-driving'> Source <a/>

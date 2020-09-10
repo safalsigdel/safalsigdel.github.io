@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n7upN6rnBiO7EUMA-JAOF4aR1oU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67372418/Screen_Shot_2020_09_08_at_3.36.05_PM.5.png' width='700px' /><br/>
-LG's upcoming “Wing” smartphone is expected to be a dual-screen device with a swiveling mechanism, and the screen that flips around could be surprisingly thin, as shown in new leaks of the phone.
-<a href='https://www.theverge.com/2020/9/8/21427818/lg-wing-thin-flip-around-swivel-screen-leaks-video-image'> Source <a/>

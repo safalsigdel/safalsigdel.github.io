@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WIQD94Y2VEuhkCbi41FbNWgL4rk=/0x0:1976x1315/1200x800/filters:focal(830x500:1146x816)/cdn.vox-cdn.com/uploads/chorus_image/image/67378483/1227688825.jpg.0.jpg' width='700px' /><br/>
+China's embassy in the United Kingdom is calling on Twitter to open an investigation after its ambassador's official account liked a pornographic clip on the platform earlier this week.
+<a href='https://www.theverge.com/2020/9/9/21429556/china-embassy-uk-twitter-porn-ambassador-tweet-like'> Source <a/>

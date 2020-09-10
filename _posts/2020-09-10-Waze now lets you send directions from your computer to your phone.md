@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aE-f5LCmtReQaYv9YdGfw9RPs_k=/0x0:1500x1000/1200x800/filters:focal(520x357:760x597)/cdn.vox-cdn.com/uploads/chorus_image/image/67372718/akrales_160517_1059_A_0113.0.0.jpg' width='700px' /><br/>
-Google-owned mapping app Waze will now let you send directions from your computer to your phone.
-<a href='https://www.theverge.com/2020/9/8/21427973/waze-send-directions-from-computer-web-browser-phone-ios-android-google'> Source <a/>
