@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aTJ2DfdA01E79sqV-NwT8RQIkg8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67378681/acastro_200901_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
-Twitch and esports go together like a dusting of salt on top of a chocolate chip cookie: the sweetness of victory etc., tempered by the saltiness of defeat. Today, Twitch launches Versus — a suite of competitive tools that will let creators on the site organize and manage their own tournaments — which promises to bring those agonies and ecstasies to any streamer who feels like pubstomping their community.
-<a href='https://www.theverge.com/2020/9/9/21428816/twitch-esports-tools-closed-beta-versus'> Source <a/>
