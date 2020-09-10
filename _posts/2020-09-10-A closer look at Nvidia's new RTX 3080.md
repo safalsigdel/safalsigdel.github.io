@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fYDzyVBZUzQb-a1nIO0QTytVkBM=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/67381706/twarren_rtx3080.0.jpg' width='700px' /><br/>
+Nvidia is promising big things with the GeForce RTX 3080 graphics card. “Twice the performance” of the RTX 2080 is perhaps the biggest claim of them all, with pledges of a PC gaming breakthrough. While we're still putting the RTX 3080 through its paces, here's a closer look at what the actual hardware looks like.
+<a href='https://www.theverge.com/21430286/nvidia-geforce-rtx-3080-hands-on-pictures-specs-price'> Source <a/>

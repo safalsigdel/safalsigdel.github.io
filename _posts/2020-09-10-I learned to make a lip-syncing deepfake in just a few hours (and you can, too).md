@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TwQ4fU7mCoP6ODfYI96jl7y0zHM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67375816/VRG_ILLO_2727_002.0.jpg' width='700px' /><br/>
-How easy is it to make a deepfake, really? Over the past few years, there's been a steady stream of new methods and algorithms that deliver more and more convincing AI-generated fakes. You can even now do basic face-swaps in a handful of apps. But what does it take to turn random code you found online into a genuine deepfake? I can now say from personal experience, you really need just two things: time and patience.
-<a href='https://www.theverge.com/21428653/lip-sync-ai-deepfake-wav2lip-code-how-to'> Source <a/>
