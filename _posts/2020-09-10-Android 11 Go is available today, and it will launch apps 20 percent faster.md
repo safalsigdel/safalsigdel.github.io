@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/en6Ug7jip6d8tf_zx644yTTrS84=/1081x0:2880x1200/1200x800/filters:focal(1799x389:2259x849)/cdn.vox-cdn.com/uploads/chorus_image/image/67383272/android_11_go_edition_v2.0.png' width='700px' /><br/>
+Android 11 just launched this week for Pixel devices and phones from OnePlus, Xiaomi, Oppo, and Realme, and now Google has detailed its counterpart designed for low-powered devices: Android 11 (Go edition).
+<a href='https://www.theverge.com/2020/9/10/21429838/google-android-11-go-edition-devices-2gb-ram-20-percent'> Source <a/>

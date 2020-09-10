@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7asUdmH8_8yHdCaAk9elqHYC6Yg=/0x0:3769x2513/1200x800/filters:focal(1675x693:2277x1295)/cdn.vox-cdn.com/uploads/chorus_image/image/67378904/1271566245.jpg.0.jpg' width='700px' /><br/>
-The 2020 NFL season kicks off tomorrow, despite the ominous threat of COVID-19 lurking around just about every corner. (It remains to be seen whether the precautions the league has been taking will be effective.) For fans who have been practicing social distancing, the season's beginning might feel bittersweet: it's great that football is back, but it does suck to not be able to safely watch games with your pals in person.
-<a href='https://www.theverge.com/2020/9/9/21428986/verizon-yahoo-sports-nfl-games-watch-together-free'> Source <a/>
