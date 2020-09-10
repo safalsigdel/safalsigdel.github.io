@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nI21iTEz9H5iY0m8I51uXDkhq8A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67380961/DSC00754.0.jpg' width='700px' /><br/>
+Huawei has announced the second version of its HarmonyOS operating system and detailed plans to bring it to a wider range of devices, including smartphones. Consumer business CEO Richard Yu made the announcement today at Huawei's developer conference in Shenzhen, China.
+<a href='https://www.theverge.com/2020/9/10/21430275/huawei-harmonyos-smartphones-release-date'> Source <a/>

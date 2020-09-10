@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mu8ASWLwuyPh9eRq7hXCuOsJKUE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67375206/cwelch_191016_3739_0001.0.jpg' width='700px' /><br/>
-Amazon is rolling out a new partnership with AT&T today that will let customers link their phone numbers to their Alexa account, allowing them to both make and receive phone calls via their Alexa devices.
-<a href='https://www.theverge.com/2020/9/9/21428700/amazon-att-phone-number-calls-alexa-link-feature-smart-home-echo'> Source <a/>
