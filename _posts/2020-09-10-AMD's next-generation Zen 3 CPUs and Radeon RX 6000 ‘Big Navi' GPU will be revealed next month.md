@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xc0tNqyLaDa8K28gajZZTgDGtNA=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/67378710/twarren_190730_3576_0003.0.jpg' width='700px' /><br/>
-Last week, Nvidia unveiled the $699 RTX 3080, which promises double the performance of the RTX 2080 for the same price when it releases next Thursday. Perhaps you're already sold on that upgrade, but there is one reason you might want to wait: AMD will likely answer with its own competitor to the RTX 3000 series on October 28th.
-<a href='https://www.theverge.com/2020/9/9/21429127/amd-zen-3-cpu-big-navi-gpu-events-october'> Source <a/>
