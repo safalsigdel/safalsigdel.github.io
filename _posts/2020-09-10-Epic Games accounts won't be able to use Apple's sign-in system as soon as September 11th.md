@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5sBT-qNWUFyASYRmTpJ6cZIDQx8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67376946/acastro_20200818_1777_epicApple_0004.0.0.jpg' width='700px' /><br/>
-Apple's “Sign In with Apple” login system will no longer work with Epic Games accounts as soon as September 11th, Epic said today. The new restriction is another casualty of Apple and Epic's ongoing spat.
-<a href='https://www.theverge.com/2020/9/9/21429029/epic-games-accounts-apple-sign-in-system-date-september-11'> Source <a/>
