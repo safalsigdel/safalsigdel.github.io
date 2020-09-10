@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ts9e8txT2Zv820mhPudxCtLtz7s=/0x0:1080x850/1200x800/filters:focal(454x339:626x511)/cdn.vox-cdn.com/uploads/chorus_image/image/67380868/xbox_series_s_x_back_to_back.0.jpg' width='700px' /><br/>
+It was a long game of price-war chicken, but it's finally come to a close.
+<a href='https://www.theverge.com/2020/9/10/21430240/how-much-will-sony-ps5-cost-xbox-series-x-s-editorial'> Source <a/>
