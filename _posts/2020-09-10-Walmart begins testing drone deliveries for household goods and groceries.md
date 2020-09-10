@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4WbfcM8USzQjxjYbD3kGYgBk7Kg=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/67381034/flytrex_go.0.jpg' width='700px' /><br/>
+Walmart has started making its first deliveries by drone, launching a small pilot program this week in Fayetteville, North Carolina. The retailer will be delivering “select grocery and household essential items” using automated drones operated by Israeli startup Flytrex.
+<a href='https://www.theverge.com/2020/9/10/21430280/walmart-drone-delivery-pilot-program-north-carolina-flytrex'> Source <a/>

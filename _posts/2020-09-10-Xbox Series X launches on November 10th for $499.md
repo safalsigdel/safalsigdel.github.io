@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bhlVXMI8F6KwquynM2o_OGCr17E=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/67375268/juWC76cndqo77CnWBCEJVn.0.png' width='700px' /><br/>
-Microsoft is launching its Xbox Series X console on November 10th for $499. Preorders for the new console will begin on September 22nd, with the company also offering the Xbox Series X through its Xbox All Access program. Xbox All Access is a bundle that splits the cost of an Xbox console, Xbox Game Pass Ultimate, and Xbox Live into monthly payments across 24 months.
-<a href='https://www.theverge.com/2020/9/9/21428714/xbox-series-x-price-release-date-preorder-all-access'> Source <a/>
