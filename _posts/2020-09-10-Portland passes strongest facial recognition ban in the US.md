@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JkFQlOxNrXi7cotI0rgQeVU3LfM=/1485x0:5632x2880/1200x800/filters:focal(3024x864:4176x2016)/cdn.vox-cdn.com/uploads/chorus_image/image/67380178/1177459891.jpg.0.jpg' width='700px' /><br/>
+The Portland City Council has passed the toughest facial recognition ban in the US, blocking both public and private use of the technology. Other cities such as Boston, San Francisco, and Oakland have passed laws barring public institutions from using facial recognition, but Portland is the first to prohibit private use. The ban passed unanimously, according to CNET, CNN, and OneZero.
+<a href='https://www.theverge.com/2020/9/9/21429960/portland-passes-strongest-facial-recognition-ban-us-public-private-technology'> Source <a/>
