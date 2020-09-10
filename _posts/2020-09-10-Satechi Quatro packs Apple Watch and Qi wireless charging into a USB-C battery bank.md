@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J2f925VrJs3Bo1rqKlB7TozZz44=/0x0:2200x1100/1200x0/filters:focal(0x0:2200x1100):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21865103/satechi_quattro_power_bank.jpg' width='700px' /><br/>
-You could already buy a battery bank with a built-in Apple Watch charger. You could buy one with a wireless charging pad, too — they even sell one with a built-in kickstand.
-<a href='https://www.theverge.com/2020/9/9/21428181/satechi-quatro-external-battery-qi-apple-watch-usb-c-pd'> Source <a/>
