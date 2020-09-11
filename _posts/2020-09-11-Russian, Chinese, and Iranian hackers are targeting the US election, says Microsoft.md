@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MBgz5Eu9aiOyqUYS3xljsJSRKvM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67388975/acastro_190204_1777_privacy_0002.0.jpg' width='700px' /><br/>
+Hackers from Russia, China, and Iran are targeting individuals and organizations involved in both Donald Trump and Joe Biden's presidential campaigns, according to a new security report from Microsoft. The tech giant says the “majority” of the attacks it's detected have been unsuccessful, but it's working with targets who have been compromised.
+<a href='https://www.theverge.com/2020/9/11/21431990/russian-chinese-iranian-hackers-target-us-2020-elections-trump-biden-campaigns'> Source <a/>
