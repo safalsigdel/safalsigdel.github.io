@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aQWXOGJJW5vwOVvK5NoKJNSfs2Y=/0x0:2100x1400/1200x800/filters:focal(882x532:1218x868)/cdn.vox-cdn.com/uploads/chorus_image/image/67381010/hacs_001_imagepl01_fnyb2_1.original.0.jpg' width='700px' /><br/>
-Nintendo is releasing a new Fortnite-themed special edition Switch next month, via NintendoLife. The bundle includes yellow and blue Joy-Cons — the latter with the Battle Bus etched around the home button — and a dock that features various well-known Fortnite skins. The Switch tablet itself also has characters on the back.
-<a href='https://www.theverge.com/2020/9/10/21430290/fortnite-special-edition-nintendo-switch-announced-release-date'> Source <a/>

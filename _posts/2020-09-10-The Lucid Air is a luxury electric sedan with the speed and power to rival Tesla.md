@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P0-DUGhukp--ujYDs2tpWyMa6aw=/0x0:5000x3333/1200x675/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/67379387/8.0.jpg' width='700px' /><br/>
-Lucid Motors unveiled its first vehicle, the Lucid Air electric sedan, at a virtual event from the company's Silicon Valley headquarters. The sedan will get up to 517 miles of range, can hit a quarter-mile in under 10 seconds, packs over 1,000 horsepower, and will have a base price of “under $80,000” (as long as the federal government sees fit to continue to give out tax credits to EV buyers).
-<a href='https://www.theverge.com/2020/9/9/21429319/lucid-motors-air-electric-sedan-price-specs-range-reveal'> Source <a/>

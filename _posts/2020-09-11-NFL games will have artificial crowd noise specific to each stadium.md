@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bx-R9l2kVVj4x_OKiesltcJE6D4=/0x0:3383x2255/1200x800/filters:focal(1422x858:1962x1398)/cdn.vox-cdn.com/uploads/chorus_image/image/67384619/1195287468.jpg.0.jpg' width='700px' /><br/>
+The NFL season kicks off Thursday night with the Houston Texans visiting the defending Super Bowl champions Kansas City Chiefs. But due to the COVID-19 pandemic, there will be a significantly reduced number of fans at Kansas City's Arrowhead Stadium, while many other stadiums aren't allowing fans to attend at all just yet.
+<a href='https://www.theverge.com/2020/9/10/21430974/nfl-games-artificial-crowd-noise-stadium-specific'> Source <a/>

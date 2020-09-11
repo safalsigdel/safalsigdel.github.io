@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yhXUkg4zATPRRxC8tl8WITMjCdg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67385450/PoP_SoT_SCRN_6.0.png' width='700px' /><br/>
+Ubisoft just debuted another one of its Forward events, where the company previewed more upcoming titles and details on its fall lineup, including a better look at Immortals Fenyx Rising, the return of Scott Pilgrim vs. The World: The Game, and the announcement of new games like Prince of Persia: The Sands of Time Remake and the massively multiplayer Riders Republic.
+<a href='https://www.theverge.com/2020/9/10/21431247/ubisoft-forward-event-recap-announcements-prince-of-persia-remake-scott-pilgrim-news'> Source <a/>

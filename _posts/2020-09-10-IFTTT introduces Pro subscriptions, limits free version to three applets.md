@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/erohqEZE2mF_GIi6cnWitSRt6SQ=/0x0:1440x720/1200x800/filters:focal(605x245:835x475)/cdn.vox-cdn.com/uploads/chorus_image/image/67380889/Large_Pattern_Dark01_Pro_IFTTT_Pro_2020_Header.0.png' width='700px' /><br/>
-IFTTT, a perennial favorite of smart home tinkerers everywhere, is going Pro. That means paid subscriptions for faster and more sophisticated IFTTT applets that can query more data sources to trigger multiple actions in the home. The free version will stick around but is now limited to just three applets — only Pro subscribers will be able to create unlimited personal applets.
-<a href='https://www.theverge.com/2020/9/10/21430265/ifttt-pro-subscriptions-free-controversy'> Source <a/>

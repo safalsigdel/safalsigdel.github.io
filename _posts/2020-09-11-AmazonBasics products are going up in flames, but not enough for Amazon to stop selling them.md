@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yJU7fD3D-UbbT2r47lhXWbUlDVs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67385948/acastro_181114_1777_amazon_hq2_0005.0.jpg' width='700px' /><br/>
+Many AmazonBasics products that have been reported as fire hazards are still for sale on Amazon, according to an extensive investigation by CNN.
+<a href='https://www.theverge.com/2020/9/10/21431085/amazon-basics-amazonbasics-dangerous-flammable-products'> Source <a/>

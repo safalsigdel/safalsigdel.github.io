@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BZ3kxbltIIZYN2294ZpzOeqxuCM=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21870146/PoP_SoT_SCRN_1.png' width='700px' /><br/>
+Ubisoft is bringing back one of its most legendary games with Prince of Persia: The Sands of Time Remake, a modern version of the classic action-adventure game set for release on the Xbox One, PlayStation 4, and PC on January 21st, 2021.
+<a href='https://www.theverge.com/2020/9/10/21429389/prince-of-persia-the-sands-of-time-remake-xbox-one-ps4-announcement-ubisoft'> Source <a/>

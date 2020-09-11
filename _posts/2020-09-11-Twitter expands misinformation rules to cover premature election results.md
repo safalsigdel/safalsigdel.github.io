@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/l3J_izHyubG3a_fmHxn8x8tUgPw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67384464/acastro_200715_1777_twitter_0004.0.0.jpg' width='700px' /><br/>
+On Thursday, Twitter announced a more detailed set of rules to combat misinformation ahead of the US election in November. Starting September 17th, the platform will label or remove tweets involving election rigging or premature election results, treating those categories as particularly likely to cause immediate harm.
+<a href='https://www.theverge.com/2020/9/10/21431027/twitter-misinformation-election-president-donald-trump-policy-rules'> Source <a/>
