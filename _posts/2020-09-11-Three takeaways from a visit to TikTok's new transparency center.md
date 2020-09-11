@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M5F50sbLQTQt6u7-YVO6ZMNeHaY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67388077/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+In July, amid increasing scrutiny from the Trump administration, TikTok announced a novel effort to build trust with regulators: a physical office known as the Transparency and Accountability Center. The center would allow visitors to learn about the company's data storage and content moderation practices, and even to inspect the algorithms that power its core recommendation engine.
+<a href='https://www.theverge.com/interface/2020/9/11/21430822/tiktok-transparency-visit-tour-algorithms-for-you-page'> Source <a/>

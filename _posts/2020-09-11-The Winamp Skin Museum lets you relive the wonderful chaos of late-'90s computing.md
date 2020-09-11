@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Every now and again, individuals of a certain generation (my generation) have a tendency to  fall into a catatonic state whenever we remember Winamp skins. There's just something about them that instantly transports one back to the late ‘90s / early ‘00s, when user interfaces were truly customizable, and your music collection was an endless and engrossing battle against garbled filenames like LINKIN_PORK-IN%THE%END(HQ).mp3.
-<a href='https://www.theverge.com/tldr/21430347/winamp-skin-museum-nostalgia-90s-00s-internet-art-history-ui'> Source <a/>
