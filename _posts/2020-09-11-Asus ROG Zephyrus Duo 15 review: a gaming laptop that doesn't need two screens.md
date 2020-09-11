@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vUPdu9_4Exx81RLfJD9JCUi--2E=/0x0:2040x1360/1200x675/filters:focal(866x563:1192x889)/cdn.vox-cdn.com/uploads/chorus_image/image/67389254/mchin_181204_4182_0003.0.0.jpg' width='700px' /><br/>
+Most of the time, if you're reading a review of a dual-screen laptop, you probably only care about one feature: the two screens. Asus' previous Duo models, the ZenBook Duo and the ZenBook Pro Duo, were decent devices, but the extra screen was the main attraction and the main justification for their premium price.
+<a href='https://www.theverge.com/21431381/asus-rog-zephyrus-duo-15-review'> Source <a/>

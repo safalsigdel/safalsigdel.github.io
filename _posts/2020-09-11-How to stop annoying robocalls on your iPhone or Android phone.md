@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EkTYGv4KtGQqcKZqv4K9F3WuOtY=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10355789/akrales_180305_2355_0012.jpg' width='700px' /><br/>
-Mobile spam calls have been a nuisance for years. I get between four and six robocalls daily, and a quick survey of friends shows that I'm not alone. Every waking day brings with it a new barrage.
-<a href='https://www.theverge.com/21327304/spam-calls-how-to-stop-block-robocalls-robots-scam-iphone-android'> Source <a/>
