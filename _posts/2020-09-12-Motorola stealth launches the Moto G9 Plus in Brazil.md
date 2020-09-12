@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/urqnkX8ZTXYBUQnbtzW8IIsLAIs=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/67391231/Moto_G9_Plus.0.png' width='700px' /><br/>
+Motorola has quietly released its new budget phone, the Moto G9 Plus, in Brazil. As leaks previously mentioned, the new smartphone includes a 6.81-inch display screen, a quad-camera setup on the phone's back, plus a 5,000mAh battery.
+<a href='https://www.theverge.com/2020/9/11/21432283/motorola-moto-g9-plus-phone-available-now-brazil'> Source <a/>

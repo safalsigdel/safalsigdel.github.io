@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qXy7MwG9V0y_ElKRaNbdaCgvGjU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67384121/acastro_180130_1777_0005.0.jpg' width='700px' /><br/>
-The latest beta version of Apple Music for Android contains strings of code that directly mention the rumored bundle of the company's services, according to 9to5Google, and even the name “Apple One” is in there. “Subscription bundle” is also part of the new text, as are prompts about how customers can manage their Apple One subscription from an iPhone, iPad, Mac, or Apple TV.
-<a href='https://www.theverge.com/2020/9/10/21430886/apple-music-android-subscription-bundle-leak-rumor'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/frpaP5cBsN4AcA0l53_T-IR_DL0=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67390922/slack_hero.0.jpg' width='700px' /><br/>
+Thanks to this tweet, I learned today how to change what font you see in Slack. And to be honest, I am more than happy to have discovered this on a Friday because I have spent the last hour trying out ridiculous fonts only to realize I didn't know how to reset it.
+<a href='https://www.theverge.com/21432669/slack-font-change-how-to'> Source <a/>

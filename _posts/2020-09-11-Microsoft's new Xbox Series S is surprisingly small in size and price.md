@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d9G8yuwlSTKKS2cME5JXZGtKdNc=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/67382598/twarren_200909_4177_0032.0.0.jpg' width='700px' /><br/>
-The new Xbox Series S is surprisingly small, both in terms of its $299 price and its dimensions. I've been playing around with a nonfunctional Xbox Series S this week, and I'm genuinely surprised Microsoft has managed to fit the same Xbox Series X CPU and lots of other next-gen technology into something that uses space and wealth so economically.
-<a href='https://www.theverge.com/2020/9/10/21430298/microsoft-xbox-series-s-hands-on-photos-price'> Source <a/>

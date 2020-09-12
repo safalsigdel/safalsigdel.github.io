@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q34N1oSnzxe_DtK8xj68mXT7C1o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67390566/acastro_200902_1777_pinterest_0001.0.jpg' width='700px' /><br/>
+When McKenna Rogers landed a job on Pinterest's finance team in 2018, she felt like she'd arrived. She loved the platform — so much that she'd used it to help plan her wedding. “Working there felt like a dream come true,” she says. The year before, Forbes included Pinterest in a list of companies where women most like to work.
+<a href='https://www.theverge.com/2020/9/11/21429619/pinterest-workplace-discrimination-finance-team-unequal-culture-bias'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tukmxdawPMErCYe9mDu07Lxj6HA=/0x0:943x628/1200x800/filters:focal(397x239:547x389)/cdn.vox-cdn.com/uploads/chorus_image/image/67382518/sonyoled.0.jpg' width='700px' /><br/>
-Sony's 55-inch A8H Bravia OLED TV is $1,500 at Amazon and Best Buy. This model that usually costs $1,900 hasn't seen many discounts, and today's sale represents the biggest price drop yet. In addition to having sterling picture quality and contrast with its OLED panel, it runs on Android TV software. With it, you'll be able to easily install entertainment apps on the TV itself.
-<a href='https://www.theverge.com/good-deals/2020/9/10/21430482/sony-55-inch-a8h-oled-tv-ghost-in-the-shell-game-pass-ultimate-xbox'> Source <a/>

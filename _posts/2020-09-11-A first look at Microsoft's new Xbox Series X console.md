@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pLG86fdhaWdrCewmvZ4Dt9odQv0=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/67382601/twarren_200909_4177_0029.0.0.jpg' width='700px' /><br/>
-Microsoft's Xbox Series X console demands to stand upright, loud and proud. At least that's my immediate impression after getting an early look at a nonfunctional Xbox Series X unit, supplied by Microsoft. It's not as big as I expected from the Series X photos, but the dimensions could make positioning it in your living room a challenge.
-<a href='https://www.theverge.com/2020/9/10/21430297/microsoft-xbox-series-x-hands-on-photos-price-specs'> Source <a/>

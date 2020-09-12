@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sKLktga1DqD_Lwvo_OyvGv8dqvw=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/67392321/xcloud.0.jpg' width='700px' /><br/>
+Apple issued new App Store rules earlier today, permitting game streaming services like xCloud or Stadia to exist on iOS or iPadOS with a big catch. Apple wants companies like Microsoft to individually submit their games as separate apps using its streaming tech. Microsoft and Google are free to create a “catalog”-style app that collects and links out to all of these individual apps as well.
+<a href='https://www.theverge.com/2020/9/11/21433071/microsoft-apple-app-store-rules-xcloud-game-streaming-xbox-game-pass'> Source <a/>

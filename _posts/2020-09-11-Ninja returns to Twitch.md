@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JGJ5K_bL4GOD2BSyAlq2ZBo9HjM=/0x0:3000x2216/1200x800/filters:focal(1260x868:1740x1348)/cdn.vox-cdn.com/uploads/chorus_image/image/67383234/1181658744.jpg.0.jpg' width='700px' /><br/>
-Ninja's back on Twitch, exclusively, in a multiyear deal with the site. It's another big move for Tyler “Ninja” Blevins, who's had quite a year even aside from the ongoing pandemic.
-<a href='https://www.theverge.com/2020/9/10/21430767/ninja-twitch-homecoming-return-mixer-shroud'> Source <a/>

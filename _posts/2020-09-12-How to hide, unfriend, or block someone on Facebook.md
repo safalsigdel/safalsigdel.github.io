@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kdfiLKvX-BN--acCXx2mgjvm3GE=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67390050/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
+These days, it's no longer surprising when a friend or acquaintance suddenly breaks into a rant on your Facebook feed. It can be triggered by anything from a politician's tweet to a movie spoiler to the type of mask someone's wearing (or whether they're wearing one at all).
+<a href='https://www.theverge.com/21431074/facebook-how-to-hide-unfriend-block-posts'> Source <a/>
