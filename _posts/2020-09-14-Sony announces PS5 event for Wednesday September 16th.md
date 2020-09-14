@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FR3VjajaGQkhu6dp9TR9og1V2Yk=/0x0:1632x918/1200x800/filters:focal(686x329:946x589)/cdn.vox-cdn.com/uploads/chorus_image/image/67394933/SIE_Project_Nimble_LOCALIZATION_003_EN_01.0.jpg' width='700px' /><br/>
-Sony is holding a special PlayStation 5 event next week. The company will broadcast a 40-minute “digital showcase” on Wednesday, September 16th that will include updates from first-party Sony game studios and third-party partners. Sony is pitching the event as “one more look at some of the great games coming to PS5 at launch (and beyond!)” before the console launches.
-<a href='https://www.theverge.com/2020/9/12/21433743/sony-playstation-5-event-september-16th'> Source <a/>
