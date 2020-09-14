@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l3Jo67H4fAYZVj6dLk0IpnavzsM=/0x0:2938x3600/1200x800/filters:focal(1095x733:1565x1203)/cdn.vox-cdn.com/uploads/chorus_image/image/67392918/1208515622.jpg.0.jpg' width='700px' /><br/>
-TikTok star Addison Rae Easterling has been cast as the lead role in a new, gender-swapped version of 1999 teen romantic comedy She's All That, called He's All That. Easterling, with over 60 million followers, is the second most popular TikTok user in the world (after Charli D'Amelio), but He's All That will mark her film debut.
-<a href='https://www.theverge.com/2020/9/11/21433195/tiktok-influencer-addison-rae-miramax-gender-swapped-shes-all-that-remake'> Source <a/>
