@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kEVjMyCd6h9WIjUm0KYK0bkK-gE=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/67402304/xcloudpreview.0.jpg' width='700px' /><br/>
+Microsoft is revealing today that the company will have more than 150 games to stream through its Xbox Game Pass Ultimate subscription service tomorrow. Known previously as xCloud, the game streaming feature launches on September 15th for Android tablets and phones.
+<a href='https://www.theverge.com/2020/9/14/21436006/microsoft-xbox-xcloud-game-list-pass-ultimate-streaming'> Source <a/>

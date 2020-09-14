@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1bXeudSUembcxaEAuazam4woHGY=/0x0:2515x1296/1200x800/filters:focal(1456x311:1858x713)/cdn.vox-cdn.com/uploads/chorus_image/image/67393093/6FNhXEM.0.jpeg' width='700px' /><br/>
-The Xbox Series S might have leaked earlier this week before being officially unveiled, but Microsoft was hiding it in plain sight months ago. Xbox chief Phil Spencer appeared in multiple interviews in July, ahead of Microsoft's Xbox games showcase, and he hid an Xbox Series S on the shelves behind him.
-<a href='https://www.theverge.com/2020/9/11/21433228/microsoft-xbox-series-x-hidden-video-phil-spencer-july-2020'> Source <a/>
