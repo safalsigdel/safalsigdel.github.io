@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uVPLbkAoKVVzDF6zf5u743zW-A8=/0x0:2134x1200/1200x800/filters:focal(918x264:1258x604)/cdn.vox-cdn.com/uploads/chorus_image/image/67401565/eero_pro6_scaled_169.0.jpg' width='700px' /><br/>
+Amazon's home networking company Eero could be about to launch its first routers with support for Wi-Fi 6, according to a pair of leaks. ZatzNotFunny reports that two devices — a Eero 6 Gateway and Eero 6 Extender — have hit the FCC, and has also posted an image of a third device's box, the Eero Pro 6.
+<a href='https://www.theverge.com/2020/9/14/21435872/amazon-eero-wi-fi-6-router-gateway-extender'> Source <a/>

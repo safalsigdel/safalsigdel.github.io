@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lhokyB4NO58Ym4fgDJAu6cRPDSc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67391764/jkastrenakes_08242017_1960_0019.0.jpg' width='700px' /><br/>
-Google appears to have a new Nest Thermostat in the works, according to new FCC documentation. It could be equipped with Google's Project Soli radar motion controls, in what would be a first for the company's home products, as spotted by Droid Life.
-<a href='https://www.theverge.com/2020/9/11/21432849/google-nest-thermostat-fcc-60ghz-pixel-4-project-soli-motion-sense-gestures'> Source <a/>
