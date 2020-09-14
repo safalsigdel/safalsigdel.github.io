@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TNlLzrP5lTqQgtcNXnKX-5CBdSc=/0x0:1785x1186/1200x800/filters:focal(751x451:1035x735)/cdn.vox-cdn.com/uploads/chorus_image/image/67403580/1124597225.jpg.0.jpg' width='700px' /><br/>
+Nvidia's $40 billion acquisition of Arm is a hugely significant deal for the tech world, with implications that will take years to unravel spanning many areas of the sector. But if you listened to the press babble coming from the two companies over the last 24 hours, you'd think there was only one factor driving the purchase: artificial intelligence.
+<a href='https://www.theverge.com/2020/9/14/21435890/nvidia-arm-acquisition-40-billion-ai-cloud-edge-why'> Source <a/>

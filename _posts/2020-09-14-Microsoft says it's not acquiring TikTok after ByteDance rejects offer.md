@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/brh_mwpHl-u5GR1YD68luh5y8M8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67400423/acastro_20081_tiktokMicrosoft_0001.0.0.jpg' width='700px' /><br/>
-Microsoft says it's not acquiring parts of TikTok's operations, after its bid was rejected by TikTok owner ByteDance. After weeks of talks and very public back and forths involving the Trump administration, Microsoft ultimately failed in its attempts to acquire TikTok.
-<a href='https://www.theverge.com/2020/9/13/21360130/microsoft-tiktok-acquisition-bid-rejection-bytedance'> Source <a/>
