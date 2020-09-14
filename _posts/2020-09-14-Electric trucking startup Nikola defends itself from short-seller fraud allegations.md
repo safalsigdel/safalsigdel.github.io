@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d8sz-trxEKmWTM8YrsS-0MRjGOw=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/67403069/nikola_tre1.0.jpg' width='700px' /><br/>
+Nikola Corp., the buzzy electric trucking company, is defending itself against charges of fraud that were made by short-selling firm Hindenburg Research. The allegations came just days after GM announced it was taking an 11 percent stake in the startup.
+<a href='https://www.theverge.com/2020/9/14/21436126/nikola-fraud-allegation-hindenburg-short-seller-electric-truck'> Source <a/>

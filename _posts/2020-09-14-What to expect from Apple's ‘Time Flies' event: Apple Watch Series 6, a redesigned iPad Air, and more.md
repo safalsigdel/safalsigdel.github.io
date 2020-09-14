@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/gadrWMUFu6IsesC8vqC6kR6S0e0=/0x0:2040x1360/1200x800/filters:focal(731x515:1057x841)/cdn.vox-cdn.com/uploads/chorus_image/image/67398417/vpavic_190913_3669_0246.0.jpg' width='700px' /><br/>
 Apple's first big fall event is happening on Tuesday, September 15th, but it may be much different than previous September events.
+<a href='https://www.theverge.com/2020/9/13/21430669/apple-time-flies-event-watch-series-6-ipad-air-rumors'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/gadrWMUFu6IsesC8vqC6kR6S0e0=/0x0:2040x1360/1200x800/filters:focal(731x515:1057x841)/cdn.vox-cdn.com/uploads/chorus_image/image/67398417/vpavic_190913_3669_0246.0.jpg' width='700px' /><br/>
+Apple's first big fall event is happening on Tuesday, September 15th, but it may be much different than previous September events.
 <a href='https://www.theverge.com/2020/9/13/21430669/apple-time-flies-event-watch-series-6-ipad-air-rumors'> Source <a/>
