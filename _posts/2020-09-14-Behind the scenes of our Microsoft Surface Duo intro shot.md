@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Here we are again: it's that time of year when every company starts announcing and releasing their amaze-o flagship phones, and we like to go just as big when we review them. For our iPhone 11 Pro review last September, we made one of our most ambitious and artistic opening shots ever. So unfortunately, that means we have a brand-new baseline of production quality. Tough for us, good for you!
-<a href='https://www.theverge.com/21432621/microsoft-surface-duo-verge-video-intro-behind-the-scenes-3d'> Source <a/>

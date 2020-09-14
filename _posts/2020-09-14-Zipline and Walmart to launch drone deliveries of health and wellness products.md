@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-jAPhL5V1vEuA3KMAaUo2z-Hi-s=/0x0:1800x1199/1200x800/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/67401166/Drone_Delivery_Shot_1.0.jpeg' width='700px' /><br/>
+Zipline is partnering with Walmart for a new drone delivery operation in the US, the companies announced. The program is for on-demand deliveries of health and wellness products and will begin in a trial early next year near Walmart's headquarters in Bentonville, Arkansas. Zipline's launch and release system allows for on-demand delivery in less than an hour, and operating from a Walmart store, can service a 50-mile radius.
+<a href='https://www.theverge.com/2020/9/14/21435019/zipline-walmart-drone-deliveries-healthcare-amazon'> Source <a/>
