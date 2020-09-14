@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zx2s7mcQFdCjKYgxeZ182tPefxQ=/0x0:5902x4529/1200x800/filters:focal(2479x1793:3423x2737)/cdn.vox-cdn.com/uploads/chorus_image/image/67403488/5G_pre_announce__1_.0.jpg' width='700px' /><br/>
+Google is planning to launch its Pixel 5 smartphone, a new Chromecast, and a new smart speaker later this month. Google has started inviting members of the media to a special event on September 30th, promising new hardware. “We invite you to learn all about our new Chromecast, our latest smart speaker, and our new Pixel phones,” reads the invite.
+<a href='https://www.theverge.com/2020/9/14/21436388/google-pixel-5-chromecast-speaker-launch-september-30th'> Source <a/>
