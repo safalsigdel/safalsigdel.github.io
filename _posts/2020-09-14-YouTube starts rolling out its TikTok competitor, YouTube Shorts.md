@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gZp7whptx0jOXos_TF7bLhKWUYM=/0x0:1080x866/1200x800/filters:focal(454x780:626x952)/cdn.vox-cdn.com/uploads/chorus_image/image/67403091/youtube_shorts_photo.0.png' width='700px' /><br/>
+Just like Instagram did with Reels, YouTube is rolling out a new short-form video creator called YouTube Shorts that the company hopes will take some attention away from TikTok.
+<a href='https://www.theverge.com/2020/9/14/21436158/youtube-starts-tiktok-competitor-short-form-video-instagram-reels-beta-test'> Source <a/>
