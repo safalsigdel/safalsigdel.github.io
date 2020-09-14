@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3eoHryzxJojiv6QnQ0bdLe1y1q0=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/67401451/twarren_200908_4177_0026.0.0.jpg' width='700px' /><br/>
+Microsoft's new Xbox Series S should offer impressive next-gen performance for its $299 price, but where does that leave the Xbox One X? According to Microsoft, the 4K-targeting Xbox from 2017 will still hold some advantages over the Series S — at least when it comes to running Xbox One X-enhanced current-gen games.
+<a href='https://www.theverge.com/2020/9/14/21435831/xbox-series-s-backward-compatibility-one-x-enhanced-mode'> Source <a/>

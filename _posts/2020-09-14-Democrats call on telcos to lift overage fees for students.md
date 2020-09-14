@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jlc3nfRAyHQBcLl_EKPeaISuwmE=/0x0:4821x3231/1200x800/filters:focal(2026x1231:2796x2001)/cdn.vox-cdn.com/uploads/chorus_image/image/67391626/464308128.jpg.0.jpg' width='700px' /><br/>
-A group of Democratic senators is calling on the telecom industry to lift their limits and fees associated with heightened broadband use for students in light of the ongoing coronavirus pandemic.
-<a href='https://www.theverge.com/2020/9/11/21432866/elizabeth-warren-mark-warner-att-tmobile-verizon-overage-fees-students-pandemic'> Source <a/>
