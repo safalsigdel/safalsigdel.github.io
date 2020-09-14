@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VBB6Ggd103oNqdBIr2RjRLwGUXc=/0x0:1600x1200/1200x800/filters:focal(672x472:928x728)/cdn.vox-cdn.com/uploads/chorus_image/image/67392357/71634E70_80BA_40BE_AA84_AA8E5755D97C.0.jpeg' width='700px' /><br/>
-I don't think anyone expected an impressively thin gadget with two displays to be more repairable than single-screen smartphones, and iFixit's teardown of Microsoft's new Surface Duo confirms this is the case. The takeaway is that while the displays and rear glass can be swapped without too much stress, replacing anything else will be a tedious, risky process.
-<a href='https://www.theverge.com/21433060/microsoft-duo-teardown-pictures-displays-battery-hinge'> Source <a/>
