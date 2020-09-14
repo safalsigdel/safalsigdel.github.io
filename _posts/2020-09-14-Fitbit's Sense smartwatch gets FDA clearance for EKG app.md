@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hKCaijyrZdphndnvCbDuMUKCxG4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67403200/sense1.0.jpg' width='700px' /><br/>
+The heart-monitoring electrocardiogram (EKG) app on Fitbit's new Sense smartwatch has been cleared by the US Food and Drug Administration (FDA). The feature can track heart rhythms and look for signs of atrial fibrillation, the most common type of irregular heartbeat.
+<a href='https://www.theverge.com/2020/9/14/21436090/fitbit-sense-ekg-heart-fda-clearance-apple-samsung-withings'> Source <a/>
