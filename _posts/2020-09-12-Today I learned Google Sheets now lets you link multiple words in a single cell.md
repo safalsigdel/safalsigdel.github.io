@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P89kVGJCEhrOcxlZiUCwxraqPi8=/0x0:744x465/1200x800/filters:focal(313x174:431x292)/cdn.vox-cdn.com/uploads/chorus_image/image/67386760/Screen_Shot_2020_09_10_at_5.13.07_PM.0.png' width='700px' /><br/>
-I find that Google Sheets can be an incredible tool for organizing projects — the endless rows and columns let me track and categorize things to my heart's content. (You should see my byzantine spreadsheet for my family's personal finances.)
-<a href='https://www.theverge.com/21431536/google-sheets-hyperlink-individual-many-multiple-words-cell'> Source <a/>

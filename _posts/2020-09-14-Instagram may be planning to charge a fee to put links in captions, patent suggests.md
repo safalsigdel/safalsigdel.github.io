@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SYL3iai6rnmBFRDHR3ZeUvi0jh4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67399113/acastro_190919_1777_instagram_0003.0.0.jpg' width='700px' /><br/>
+Influencers, brace yourselves: Instagram may be considering charging a fee to add links to photo captions, a patent application suggests. Mike Murphy discovered it as part of his (fascinating!) weekly roundup of tech patents over at Protocol.
+<a href='https://www.theverge.com/2020/9/13/21434814/instagram-facebook-caption-links-patent'> Source <a/>

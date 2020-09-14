@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hSj9Z7Z0p4xNZT5Ysf-uD3vZefM=/0x74:1366x768/1200x800/filters:focal(560x318:778x536)/cdn.vox-cdn.com/uploads/chorus_image/image/67390580/groupwatch.0.png' width='700px' /><br/>
-Disney is currently testing a new feature that will allow Disney Plus subscribers to create tiny private watch parties.
-<a href='https://www.theverge.com/2020/9/11/21432411/disney-plus-watch-party-feature-test-canada-scener-netflix-amazon-prime-video'> Source <a/>

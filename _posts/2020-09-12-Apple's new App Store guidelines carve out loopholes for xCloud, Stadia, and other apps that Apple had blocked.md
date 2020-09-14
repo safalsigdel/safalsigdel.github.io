@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sqOe0b3a47SyxACcNKS7znlkc6M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67391069/acastro_170731_1777_0002_v2.0.jpg' width='700px' /><br/>
-Apple has issued new rules for its App Store in an attempt to address many of the issues that have come up over Apple's governance of its digital storefront for iPhone devices, with updates for game streaming services, new rules for online classes, and fewer restrictions for in-app purchases on free email apps, which was the focus of Apple's previous controversy with Hey.
-<a href='https://www.theverge.com/2020/9/11/21432695/apple-new-app-store-guidelines-streaming-game-services-email-purchases'> Source <a/>

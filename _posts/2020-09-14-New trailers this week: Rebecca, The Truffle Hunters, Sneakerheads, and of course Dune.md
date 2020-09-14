@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yVqV7IQD8Tjq-M0UkiEawyYg6ek=/0x0:1195x812/1200x800/filters:focal(503x311:693x501)/cdn.vox-cdn.com/uploads/chorus_image/image/67398879/rebecca2.0.jpg' width='700px' /><br/>
+OK so I got out of my rerun rut and binged Away on Netflix over Labor Day and... I really wanted to like it! The acting was so good, and it looked beautiful, but the script just strained credibility at every turn.
+<a href='https://www.theverge.com/2020/9/13/21434007/new-trailers-rebecca-truffle-hunters-sneakerheads-dune-netflix'> Source <a/>

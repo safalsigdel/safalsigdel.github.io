@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_SROBOXPG5UyouooY6baJTeczx4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67396442/EhvOKmxU8AEvHfa.0.jpg' width='700px' /><br/>
+Borderlands 3 is the latest game to adopt an encouraging trend — giving gamers a next-gen upgrade without making them pay for it — and in this case, it's one that'll be extremely welcome to console gamers who have 4K TV sets.
+<a href='https://www.theverge.com/2020/9/12/21434185/borderlands-3-ps5-xbox-series-x-next-gen-upgrade-4k-60-splitscreen'> Source <a/>

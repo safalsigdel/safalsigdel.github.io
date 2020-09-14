@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lWAxoUG46ts1-f2eVea1gdLmzWY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67389213/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
-Zoom is adding support for two-factor authentication (2FA) to its desktop and mobile applications, giving users the option of adding an extra layer of security to their account beyond a standard password, the company has confirmed to The Verge. Writing in a blog post, the company said users can turn on the extra security via the Zoom Dashboard.
-<a href='https://www.theverge.com/2020/9/11/21432132/zoom-two-factor-authentication-2fa-mobile-desktop-web-security'> Source <a/>

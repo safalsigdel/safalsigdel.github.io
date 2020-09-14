@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i0C3qiQdnEMAa7yFs_A-1K5Mygk=/0x0:3463x2304/1200x800/filters:focal(1455x875:2009x1429)/cdn.vox-cdn.com/uploads/chorus_image/image/67400635/1128855474.jpg.0.jpg' width='700px' /><br/>
+Oracle has reportedly won a deal to manage TikTok's US cloud operations. Oracle had been rumored to be part of the bidding process to acquire TikTok, but The Wall Street Journal reports that the company has been selected as a “trusted tech partner” instead. This is different from an outright sale, and appears to suggest Oracle will be helping run TikTok's US operations with its own cloud technologies.
+<a href='https://www.theverge.com/2020/9/13/21435530/oracle-tiktok-deal-trusted-tech-partner'> Source <a/>

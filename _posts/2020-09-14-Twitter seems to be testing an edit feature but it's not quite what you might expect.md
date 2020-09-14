@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q3zbjFW3jKTZUJFMlhAdvfE7ItI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67400417/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+It looks like Twitter may finally, at long last, be allowing users to edit their tweets. Users began noticing it Sunday afternoon: If you delete a tweet reply, then try to reply again, the “deleted” text reappears, allowing you to fix any mistakes and re-send it. The Verge's Tom Warren demonstrated how it works:
+<a href='https://www.theverge.com/2020/9/13/21435468/twitter-edit-testing-replies-tweets'> Source <a/>

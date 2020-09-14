@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bTfUC9WgQWMsBMnNI0g98eEWxZM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67396394/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
+A Google Groups Material Design revamp that's been in beta for several months will become the default for all users starting next week, the company announced in a blog post. The new interface, which has several “highly requested features,” according to Google, includes a new mobile design, updated collaborative inboxes, and replaces tags and categories in groups with labels.
+<a href='https://www.theverge.com/2020/9/12/21434002/google-groups-redesign-material-theme-mobile'> Source <a/>

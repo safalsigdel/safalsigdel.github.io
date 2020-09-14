@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3vsIutYvoS19vc1WfbVau9RiInc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67400136/scorpion_chair.0.jpg' width='700px' /><br/>
+Since I am The Verge's resident “weird animal stories” expert (see: murder hornets and the story of eagle vs. drone) of course my colleague suggested I would want to look into this gaming chair that is made to look like a giant scorpion.
+<a href='https://www.theverge.com/2020/9/13/21435361/scorpion-chair-gaming-cockpit-office-wfh'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VbNeTQbgWFBQCwNu7Dgg0Z3U1BM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67396472/DSC00697.0.jpg' width='700px' /><br/>
+SoftBank is reportedly is preparing to sell chipmaker ARM to Nvidia as early as next week in a deal worth more than $40 billion, The Wall Street Journal reported.
+<a href='https://www.theverge.com/2020/9/12/21434110/softbank-may-sell-arm-to-nvidia'> Source <a/>

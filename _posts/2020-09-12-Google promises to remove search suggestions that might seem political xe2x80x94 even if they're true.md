@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/awZj6Ly26k5DL99sM1Zsui8Mgao=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67386081/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google has sometimes gotten in trouble for the phrases that automatically appear when you're trying to type in a new search. Even if some of them make for amusing celebrity interviews, others have sometimes steered users toward problematic concepts and fake news in addition to harmless things like movie and video game spoilers. The suggestions are based on what other people are searching for, after all.
-<a href='https://www.theverge.com/2020/9/10/21431214/google-search-autocomplete-suggestion-policy-change-2020-election'> Source <a/>

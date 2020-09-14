@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5NO38ks7rF2GogQxeJD3ba2jzlI=/0x0:3000x2000/1200x800/filters:focal(884x680:1364x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/67395517/wink_logo.0.0.jpg' width='700px' /><br/>
+Smart home platform Wink is having a widespread outage, just over a month after it implemented a paid subscription plan for most of its previously free features. First reported by Android Police, the outage appears to have started Thursday. Users started getting email notices from the company on Friday apologizing for the outage, and Wink tweeted Friday afternoon that it was aware of an issue, and not under any kind of attack.
+<a href='https://www.theverge.com/2020/9/12/21433871/smart-home-wink-outage'> Source <a/>
