@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-At Woot, Amazon Prime members can pick up a set of Samsung's very good Galaxy Buds Plus wireless earbuds for $95. This is the lowest price yet. If you don't have Prime, your checkout price will be $100, so it's not too harsh of a penalty. This sale is happening for one day only, so don't expect it to be available if you're checking this out on Sunday or beyond.
-<a href='https://www.theverge.com/good-deals/2020/9/12/21432824/headphone-earbuds-sale-galaxy-airpods-beats-nintendo-switch-games-deal'> Source <a/>
