@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eXMeLSL87LFbfbw-WsLkVrq-JVA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67410205/lcimg_1237cb91_a6c2_4bbe_a650_ca290265c2a2.0.jpg' width='700px' /><br/>
+Apple has announced the Apple Watch Series 6, the latest in its line of popular smartwatches. The Series 6 model maintains the same overall design introduced with the Apple Watch Series 4 and continued with the Series 5, but it adds a variety of new sensors to allow for things like blood oxygen monitoring and better sleep tracking.
+<a href='https://www.theverge.com/2020/9/15/21431365/apple-watch-series-6-price-features-specs-release-date'> Source <a/>
