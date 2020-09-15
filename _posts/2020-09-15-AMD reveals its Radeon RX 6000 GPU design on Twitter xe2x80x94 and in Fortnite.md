@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-AMD's last batch of new graphics cards, the midrange Radeon RX 5700 series, didn't wow with their designs or high-end performance — but the new Radeon RX 6000 looks like it could actually be the long-awaited answer to Nvidia's flagship graphics cards.
-<a href='https://www.theverge.com/circuitbreaker/2020/9/14/21436996/amd-radeon-rx-6000-gpu-design-teaser-fortnite'> Source <a/>

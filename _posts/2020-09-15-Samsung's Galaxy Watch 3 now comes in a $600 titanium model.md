@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tq4rAM1LGM82ywhFoY9z24Uj9w0=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/67409394/Galaxy_Watch3_Titanium_L_Perspective.0.jpg' width='700px' /><br/>
+Samsung's titanium Galaxy Watch 3 now has a price and a release date: it'll start at $599.99 and be released on October 2nd.
+<a href='https://www.theverge.com/2020/9/15/21437952/samsung-galaxy-watch-3-600-dollar-titanium-model-october-2nd'> Source <a/>
