@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LKMe5Oyr_tgAhsVuZotxNm3noEI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67407893/hpomenvectowireless.0.jpg' width='700px' /><br/>
+HP debuted a value-priced Omen Vector wired gaming mice earlier this summer, but the new Vector Wireless is the company's high-end option. It's $99.99 and is available starting today in the US. What stands out about the Vector Wireless is its USB-C charging port that, beyond being convenient, allows for very fast charging speeds.
+<a href='https://www.theverge.com/2020/9/15/21436166/hp-omen-vector-wireless-mouse-usb-c-charging'> Source <a/>

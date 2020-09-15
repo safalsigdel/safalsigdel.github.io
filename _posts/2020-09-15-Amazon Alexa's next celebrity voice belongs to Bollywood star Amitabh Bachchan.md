@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/igdDzNbAF4F35SSVBj0HQkeGJ-o=/0x0:6000x4000/1200x800/filters:focal(2374x1566:3334x2526)/cdn.vox-cdn.com/uploads/chorus_image/image/67403486/1155508442.jpg.0.jpg' width='700px' /><br/>
-Amazon is adding its next high-profile celebrity voice option for its Alexa digital assistant, this time an exclusive for the India market. Starting next year, Alexa users can augment the voice assistant to sound like Bollywood star Amitabh Bachchan, one of the most prolific actors in Indian cinema and a household name in the country of more than 1.3 billion people.
-<a href='https://www.theverge.com/2020/9/14/21436292/amazon-alexa-amitabh-bachchan-celebrity-voice-india-bollywood-star-pricing-release-date'> Source <a/>

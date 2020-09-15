@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v4520YTNDxf2qKCmd33q00GpJQ0=/0x0:680x383/1200x800/filters:focal(286x138:394x246)/cdn.vox-cdn.com/uploads/chorus_image/image/67403452/Eh4ZXcMXkAAdKgU.0.jpeg' width='700px' /><br/>
-You can now buy an X-Wing glider in Fortnite, Epic Games announced Monday. The new glider has become available the same day EA released a new animated short introducing the story of Star Wars: Squadrons. The glider costs 1,200 V-Bucks.
-<a href='https://www.theverge.com/2020/9/14/21436283/fortnite-star-wars-x-wing-glider-epic-games-crossover'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rit2ByZUPUNxzGdWHApXhjQMK_k=/0x0:1898x1094/1200x800/filters:focal(798x396:1100x698)/cdn.vox-cdn.com/uploads/chorus_image/image/67407909/Screen_Shot_2020_09_09_at_9.32.13_AM.0.png' width='700px' /><br/>
+No, Apple's latest event isn't about iPhones or even Macs. However, it is likely about iPads and Apple Watches, and if those are things that interest you — or if you want to know what else Apple may have up its sleeve — then you'll want to watch the live stream of today's events.
+<a href='https://www.theverge.com/2020/9/15/21428800/apple-event-watch-live-stream-time-date-time-flies'> Source <a/>
