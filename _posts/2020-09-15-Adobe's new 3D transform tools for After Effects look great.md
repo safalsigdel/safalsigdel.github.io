@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/goc8Bu47zp2Robh5EUyFoOszkeE=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67407616/VRG_Adobe_Update_Sept_2020.0.0.jpg' width='700px' /><br/>
+Adobe is updating both Premiere Pro and After Effects today with some pretty nice quality-of-life features, but the most exciting are the new 3D transform tools for After Effects.
+<a href='https://www.theverge.com/2020/9/15/21436871/adobe-after-effects-3d-transform-gizmos-better-ui'> Source <a/>
