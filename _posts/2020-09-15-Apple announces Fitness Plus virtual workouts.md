@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s2H4XxBaw5hv3rtqP9H5XTxd1fQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67410341/lcimg_7cf3f427_3176_442c_b36b_6c46b7025343.0.jpg' width='700px' /><br/>
+Apple is launching a new subscription service for virtual fitness classes called Fitness Plus, the company announced during its presentation today. It's the first fitness service built for Apple Watch, the company says.
+<a href='https://www.theverge.com/2020/9/15/21437578/apple-fitness-plus-classes-subscription-health'> Source <a/>

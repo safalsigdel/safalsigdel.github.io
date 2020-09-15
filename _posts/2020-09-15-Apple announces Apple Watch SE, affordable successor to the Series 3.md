@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/aORnNvOx_nnoiHzrgAK-VFXH71E=/0x0:1073x605/1200x800/filters:focal(452x218:622x388)/cdn.vox-cdn.com/uploads/chorus_image/image/67410318/download__1_.0.png' width='700px' /><br/>
-Apple has announced the Apple Watch SE, a successor to the three-year-old Apple Watch Series 3. The device starts at $279.
+Apple has announced the Apple Watch SE, a successor to the three-year-old Apple Watch Series 3. The device starts at $279. It's available this Friday, but you can order it today.
 <a href='https://www.theverge.com/2020/9/15/21432363/apple-watch-se-price-features-specs-series-3-successor'> Source <a/>
