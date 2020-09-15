@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bpg4MMD7yZXaLDZ_eHnI5osUl2c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67405406/acastro_180130_1777_0007.0.jpg' width='700px' /><br/>
-A fired Facebook data scientist has written a 6,600-word memo condemning the company for ignoring evidence the platform was wielded to sway public opinion and manipulate elections around the world, according to a report from BuzzFeed News, which obtained a copy of the memo. The data scientist, Sophie Zhang, was fired earlier this month and posted the memo on her final day, the report reads.
-<a href='https://www.theverge.com/2020/9/14/21436852/facebook-data-scientist-memo-political-manipulation'> Source <a/>
