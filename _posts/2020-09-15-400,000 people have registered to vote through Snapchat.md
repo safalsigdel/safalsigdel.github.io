@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tX1pmqLyTZ6KJKua1h5y-Hnxifw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67409141/snapchat-stock-0963.0.0.jpg' width='700px' /><br/>
+More than 400,000 people have registered to vote on Snapchat as of Monday, Axios reported on Tuesday.
+<a href='https://www.theverge.com/2020/9/15/21437935/snapchat-voter-voting-registration-barack-obama-app-facebook'> Source <a/>
