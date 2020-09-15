@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W7naheXvnNY5RyVEqe9BSUCF9pk=/0x0:2172x1256/1200x0/filters:focal(0x0:2172x1256):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21880890/Screen_Shot_2020_09_14_at_4.54.21_PM.png' width='700px' /><br/>
-LG's official reveal of its twisting Wing smartphone had a Marvel-esque post-credit scene: a teaser of the next phone in its new “Explorer Project” range, which appears to have an expandable, slide-out display.
-<a href='https://www.theverge.com/2020/9/14/21436954/lg-extendable-sliding-phone-teaser-explorer-project-wing-mobile'> Source <a/>
