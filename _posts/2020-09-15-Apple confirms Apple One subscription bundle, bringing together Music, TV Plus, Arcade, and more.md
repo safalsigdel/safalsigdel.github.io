@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/kTpNKnajZAvc2QRYost_owNwtWc=/0x0:1668x930/1200x800/filters:focal(701x332:967x598)/cdn.vox-cdn.com/uploads/chorus_image/image/67410377/Screen_Shot_2020_09_15_at_1.37.26_PM.0.png' width='700px' /><br/>
-The long-rumored bundle bringing together Apple Music, Apple TV Plus, Apple Arcade, Apple News Plus, and  iCloud storage is here. Apple will give customers different options to combine its streaming services in a new Apple One bundle.
+The long-rumored bundle bringing together Apple Music, Apple TV Plus, Apple Arcade, Apple News Plus, and iCloud storage is here. Apple will give customers different options to combine its streaming services in a new Apple One bundle.
 <a href='https://www.theverge.com/2020/9/15/21433205/apple-one-subscription-bundle-price-music-tv-plus-arcade-icloud'> Source <a/>
