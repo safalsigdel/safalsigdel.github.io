@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ybrv72hXSd8TbdrtnTIKeZYTy34=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67407289/VRG_ILLO_4033_007.0.jpg' width='700px' /><br/>
-Facebook today pledged to slash greenhouse gases and purchase enough renewable energy and offsets to cancel out carbon dioxide emissions from its global operations this year. Facebook is, however, still pumping out greenhouse gases.
-<a href='https://www.theverge.com/2020/9/15/21437208/facebook-climate-change-misinformation-greenhouse-gas-pledge'> Source <a/>

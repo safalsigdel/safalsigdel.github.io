@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Fxq7s7OJrvMlM9rfLElqhifpIL0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67410124/X019_XboxGamePass_GamesMontage_Thumbnail.0.jpg' width='700px' /><br/>
+Microsoft is officially launching its xCloud gaming service today on Android phones and tablets, allowing you to play more than 150 genuine Xbox games on devices that could never run those games themselves — because they'll be streaming from remote servers much like a YouTube video.
+<a href='https://www.theverge.com/2020/9/15/21437529/xbox-game-pass-versions-tier-ultimate-pc-console-explainer'> Source <a/>

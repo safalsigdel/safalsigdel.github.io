@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TQkhGA-QgOWFnBOtrLhwPhSnLSg=/0x0:800x533/1200x800/filters:focal(336x203:464x331)/cdn.vox-cdn.com/uploads/chorus_image/image/67406793/sony.0.jpg' width='700px' /><br/>
-Sony has announced the A7C, a new camera that is by far the smallest model yet in its Alpha range of full-frame mirrorless cameras. The A7C looks more like one of Sony's APS-C models like the A6400 than an A7, adopting a more compact body with the electronic viewfinder on the top left corner of the camera's back panel, rangefinder-style.
-<a href='https://www.theverge.com/2020/9/14/21437339/sony-a7c-camera-announcement-specs-price-release-date'> Source <a/>

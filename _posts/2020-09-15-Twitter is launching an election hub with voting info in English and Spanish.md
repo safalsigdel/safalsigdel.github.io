@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qC6R_f2JVOSfvcNYc4RcLDyPty8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67410086/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
+As mail-in ballot deadlines approach and with the presidential election less than two months away, Twitter is introducing an election hub. It will provide real-time voting and election information as well as breaking election-related news, the company announced today.
+<a href='https://www.theverge.com/2020/9/15/21437017/twitter-election-hub-resources-information-voting'> Source <a/>
