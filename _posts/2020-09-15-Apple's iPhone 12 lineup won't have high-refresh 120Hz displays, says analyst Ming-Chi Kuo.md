@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zSn8Z4lowMNkJd5r1nczSAM6eH4=/0x0:2040x1360/1200x800/filters:focal(848x515:1174x841)/cdn.vox-cdn.com/uploads/chorus_image/image/67403649/akrales_190914_3666_0048.0.jpg' width='700px' /><br/>
-Ming-Chi Kuo has a new research note out, obtained by MacRumors, that says none of Apple's upcoming iPhone 12 phones will include a high-refresh ProMotion display — and that includes the pricier Pro models. Kuo anticipates that Apple will move to the smoother 120Hz refresh rate with next year's 2021 iPhone lineup.
-<a href='https://www.theverge.com/2020/9/14/21436341/apple-iphone-12-pro-no-high-refresh-120hz-promotion-display'> Source <a/>

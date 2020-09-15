@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Azvu0Dsa_I7mnc3XJb91bqTd_jM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67403602/akrales_181030_3044_0044.0.jpg' width='700px' /><br/>
-Razer accidentally exposed over 100,000 gamers' personal information for close to a month, according to a new report.
-<a href='https://www.theverge.com/2020/9/14/21436160/razer-data-leak-elasticsearch-sever-misconfiguration'> Source <a/>

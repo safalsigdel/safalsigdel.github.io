@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WpIEjDj67l3Me2OAv9Y-cBzG6OY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67403735/acastro_180522_facebook_0002.5.jpg' width='700px' /><br/>
-Today, Facebook Gaming is set to allow its partnered streamers to play copyrighted, popular music in the background of their live streams — which means they've seemingly solved the copyright problem that's plagued live-streaming (and basically the entire internet) since the beginning. In a press release, a spokesperson for Facebook Gaming put it like this:
-<a href='https://www.theverge.com/2020/9/14/21436136/facebook-gaming-partnered-streamer-copyright-music-riaa-twitch-youtube'> Source <a/>
