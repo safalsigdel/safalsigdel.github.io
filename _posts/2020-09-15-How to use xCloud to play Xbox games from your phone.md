@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aX9Gt4jjDY6Xj-wbK7VyMtzKFOY=/0x0:2560x1708/1200x800/filters:focal(1076x650:1484x1058)/cdn.vox-cdn.com/uploads/chorus_image/image/67237261/8bitdoxboxcontroller.0.jpeg' width='700px' /><br/>
+If you subscribe to Xbox Game Pass Ultimate, you likely now have access to Microsoft's xCloud game streaming abilities, and can immediately jump into one of more than 150 games — today is the official launch of Microsoft's xCloud service. Many more games will come later this quarter, when the EA Play catalog of games gets added.
+<a href='https://www.theverge.com/21377313/microsoft-xcloud-install-download-android-game-pass-ultimate-gamepad-xbox'> Source <a/>
