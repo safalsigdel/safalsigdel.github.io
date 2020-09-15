@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/31RY3HX3ceu5k_A_4NtP557sxhw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67409196/acastro_200901_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
+Twitch has started automatically running ads in the middle of streams for some viewers. It's been very careful to frame the move as an experiment, probably because the company knows backlash from the community is coming.
+<a href='https://www.theverge.com/2020/9/15/21437787/twitch-midroll-ad-affiliate-partner-cpm'> Source <a/>
