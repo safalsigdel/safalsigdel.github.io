@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ajPMqGpZd_cYlOjfRL30lPsMwfU=/0x0:1668x930/1200x800/filters:focal(701x332:967x598)/cdn.vox-cdn.com/uploads/chorus_image/image/67410393/Screen_Shot_2020_09_15_at_1.41.21_PM.0.png' width='700px' /><br/>
-Apple has announced the eighth-generation version of its basic iPad: an update of its entry-level 10.2-inch tablet that upgrades the processor to a faster A12 chipset (which previously appeared in the 2018 iPad Pro lineup).
+<img src='https://cdn.vox-cdn.com/thumbor/2_C0wMtpyj_7gN1JYSsW-x7cV6k=/0x0:1074x600/1200x800/filters:focal(452x215:622x385)/cdn.vox-cdn.com/uploads/chorus_image/image/67410393/yxv1A3H.5.png' width='700px' /><br/>
+Apple has announced the eighth-generation version of its basic iPad: an update of its entry-level 10.2-inch tablet that upgrades the processor to a faster A12 chipset (last seen in the 2019 iPad Air and iPad mini models.)
 <a href='https://www.theverge.com/2020/9/15/21438102/apple-8th-generation-10-2-inch-entry-level-ipad-price-release-date-features'> Source <a/>
