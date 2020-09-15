@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9-4S0A-NuLHJYxxNFxcRRUAgtIA=/0x0:1068x600/1200x800/filters:focal(449x215:619x385)/cdn.vox-cdn.com/uploads/chorus_image/image/67410425/8GodRHT.0.png' width='700px' /><br/>
-Apple is unveiling a new iPad Air today that looks very similar to the company's iPad Pro. It's a significant design change from the current Air, which was brought back to life last year to its in between the iPad and iPad Pro. Last year's Air has thick top and bottom bezels and a button for Touch ID, but this new iPad Air has much thinner bezels all around the display.
-<a href='https://www.theverge.com/2020/9/15/21436500/apple-ipad-air-new-design-features-colors-release-date-price'> Source <a/>

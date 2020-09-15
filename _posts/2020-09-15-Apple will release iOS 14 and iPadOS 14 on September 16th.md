@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kA_Vd6gjNWXKGUNoBoucXS_J_9E=/0x0:2270x1504/1200x800/filters:focal(954x571:1316x933)/cdn.vox-cdn.com/uploads/chorus_image/image/67410530/Screen_Shot_2020_09_15_at_1.49.33_PM.0.png' width='700px' /><br/>
+Apple's next major software upgrades for the iPhone, iPad, Apple Watch, and Apple TV are almost ready. At today's “Time Flies” event, the company announced that iOS 14 and iPadOS 14, along with the latest watchOS and tvOS updates will start rolling out on Friday, September 16th.
+<a href='https://www.theverge.com/2020/9/15/21436979/apple-ios-ipados-14-release-date-september-16'> Source <a/>
