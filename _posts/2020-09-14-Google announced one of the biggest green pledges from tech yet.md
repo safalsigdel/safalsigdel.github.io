@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CgwefrWU1lLokfN6pMxFmFzxJ1s=/0x0:4968x3384/1200x800/filters:focal(2087x1295:2881x2089)/cdn.vox-cdn.com/uploads/chorus_image/image/67403236/1147600063.jpg.0.jpg' width='700px' /><br/>
-Google just made one of Big Tech's most ambitious environmental commitments: it will work to run its operations purely on renewable energy by 2030. It also announced that as of today, it has purchased enough carbon offsets to essentially cancel out all the planet-heating carbon dioxide emissions the company has released since it was founded in 1998.
-<a href='https://www.theverge.com/2020/9/14/21436228/google-climate-change-pledge-2030-renewable-energy'> Source <a/>

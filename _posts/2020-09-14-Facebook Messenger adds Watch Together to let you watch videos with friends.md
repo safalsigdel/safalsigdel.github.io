@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P9E1XuGhNmmx6k1dZN4GGt6YIXM=/0x0:1600x900/1200x800/filters:focal(294x303:550x559)/cdn.vox-cdn.com/uploads/chorus_image/image/67401936/unnamed.0.jpg' width='700px' /><br/>
-The latest app to add joint video viewing is Facebook Messenger. The company today announced Watch Together, a new feature inside the messaging app that lets you view videos from Facebook Watch while also seeing live video of your friends. It's rolling out globally starting today on iOS and Android.
-<a href='https://www.theverge.com/2020/9/14/21433086/facebook-messenger-watch-together-video-messaging'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-Both Amazon and Staples are offering the best price yet on Apple's AirPods Pro wireless earbuds. They're normally $250, but you can get $50 off right now. I've said in the past that this kind of discount is rare, but that might be changing since two retailers are currently offering the deal. For those who might be unaware, these are Apple's earbuds that have a noise cancellation feature, along with better sound quality than the less expensive AirPods offer.
-<a href='https://www.theverge.com/good-deals/2020/9/14/21436032/apple-airpods-pro-lenovo-smart-google-clock-nintendo-switch-games-deal-sale'> Source <a/>

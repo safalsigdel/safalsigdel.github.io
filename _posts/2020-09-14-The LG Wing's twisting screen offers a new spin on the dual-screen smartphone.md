@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v6WLtZJ9AbcjCgDaFhrml0FxexQ=/0x0:4500x3143/1200x800/filters:focal(1890x1212:2610x1932)/cdn.vox-cdn.com/uploads/chorus_image/image/67402599/Wing_Hero_Generic.0.jpg' width='700px' /><br/>
-LG is no stranger to two-screen smartphones in recent years, but the company has just officially announced its boldest foray into a dual-screen device in recent memory: the LG Wing. It's a wild-looking, swiveling-display smartphone that looks to — quite literally — offer a new spin on what a phone can do.
-<a href='https://www.theverge.com/2020/9/14/21433087/lg-wing-5g-twisting-dual-screen-smartphone-android-announcement-carriers'> Source <a/>

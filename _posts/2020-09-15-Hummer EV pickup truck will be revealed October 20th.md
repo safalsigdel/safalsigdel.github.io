@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zpw38Z6Z4EN-X1jvStmhxIq_m-E=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67403675/GMC_HUMMER_EV_Quiet_Revolution_Grille.0.jpg' width='700px' /><br/>
+General Motors will reveal the all-electric Hummer truck on October 20th, and to help whet your appetite until then, the automaker is confirming a rumored standout feature.
+<a href='https://www.theverge.com/2020/9/14/21436401/gm-hummer-electric-reveal-date-picup-truck-crab-mode'> Source <a/>

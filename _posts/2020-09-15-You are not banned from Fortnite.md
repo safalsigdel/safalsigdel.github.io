@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KttlRrePU1qRRn7MgrOJfOYyy-o=/0x0:1437x763/1200x800/filters:focal(605x268:833x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67405228/Screen_Shot_2020_09_14_at_4.28.50_PM.0.png' width='700px' /><br/>
+Fortnite experienced game-wide problems with logins earlier on Monday, keeping some players from accessing their accounts. The company instituted downtime while it investigated the issues, but said that things were fixed at 6:09PM ET.
+<a href='https://www.theverge.com/2020/9/14/21436885/fortnite-server-outage-banned-kicks-logins-issues-epic'> Source <a/>

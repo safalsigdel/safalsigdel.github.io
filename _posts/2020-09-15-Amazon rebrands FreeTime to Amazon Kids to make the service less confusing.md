@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_qKv30rhG_RS-OtSWFnC67qdt58=/0x0:1390x779/1200x800/filters:focal(584x279:806x501)/cdn.vox-cdn.com/uploads/chorus_image/image/67405800/amazon_kids_feature_image.0.jpg' width='700px' /><br/>
+Amazon debuted FreeTime back in 2012 as a way for kids to enjoy and experience tech and for parents to easily monitor their kids' usage. Yet, the name (at least to me) sounds more like a service to help people spend less time on their electronic devices. To fix this, Amazon is renaming FreeTime to “Amazon Kids” and FreeTime Unlimited to “Amazon Kids Plus.”
+<a href='https://www.theverge.com/2020/9/14/21436457/amazon-kids-rebranding-freetime'> Source <a/>

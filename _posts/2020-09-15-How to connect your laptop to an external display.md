@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B_KbDv5FCWgRImh1rgl0zx_fOHw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67404572/dseifert_200701_4083_0009.0.0.jpg' width='700px' /><br/>
+It doesn't matter how big your laptop's screen is — if you're going to be doing any serious multitasking for work or school, connecting a monitor can be a big help. Any modern laptop should be able to connect to whatever external monitor you have, but you may need to get creative.
+<a href='https://www.theverge.com/21436346/laptop-monitor-external-display-how-to-connect'> Source <a/>

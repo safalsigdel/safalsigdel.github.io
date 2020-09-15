@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VqQs569pmOR0qrh9cwk6f5TgMDY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67401777/vpavic_180917_2949_0203.0.jpg' width='700px' /><br/>
-Apple is set to unveil the new Apple Watch Series 6 this week. It's also rumored to be creating a new, lower-cost version of the Apple Watch instead of just dropping the price on an older model. The new Series 6 is rumored to add other health features like blood oxygen monitoring, while watchOS 7 will bring sleep tracking and yet more fitness options.
-<a href='https://www.theverge.com/2020/9/14/21435659/apple-watch-6-health-siri'> Source <a/>
