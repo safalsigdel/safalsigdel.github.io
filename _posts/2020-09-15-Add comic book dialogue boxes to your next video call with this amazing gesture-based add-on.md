@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+The social etiquette surrounding video calls and meetings is still an evolving phenomenon, but a new gesture-activated add-on that works with Zoom, Slack, Skype, and more could certainly alleviate some problems. In short, it saves you from unmuting your mic to make small contributions by using gestures to activate comic book-style dialogue boxes.
+<a href='https://www.theverge.com/tldr/21437836/comic-book-dialogue-boxes-video-call-gesture-add-on-zoom-snap-camera-hangouts-google-meet'> Source <a/>

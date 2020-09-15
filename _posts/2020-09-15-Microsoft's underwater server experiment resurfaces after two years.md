@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NXvCcPY5QKCUh7A2pPJeT2RPEsE=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/67405296/6_390Microsoft_0374_1920x1280_1.0.jpg' width='700px' /><br/>
-Back in 2018, Microsoft sunk an entire data center to the bottom of the Scottish sea, plunging 864 servers and 27.6 petabytes of storage 117 feet deep in the ocean. Today, the company has reported that its latest experiment was a success, revealing findings that show that the idea of an underwater data center is actually a pretty good one.
-<a href='https://www.theverge.com/2020/9/14/21436746/microsoft-project-natick-data-center-server-underwater-cooling-reliability'> Source <a/>
