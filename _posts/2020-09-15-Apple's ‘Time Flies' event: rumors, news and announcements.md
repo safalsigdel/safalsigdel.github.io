@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/If-yX8gqLJKBx2dxe9EOWVIcLjw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67408612/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
+Apple, like every other company with products to release, has taken to virtual spaces to showcase its biggest tech announcements. Following a virtual WWDC in June, it's going to kick off its annual hardware season starting Tuesday, September 15th with an event called “Time Flies.” We'll be covering the event with our live blog.
+<a href='https://www.theverge.com/2020/9/15/21429143/apple-event-watch-ipad-air-event-announcements-news-time-flies'> Source <a/>
