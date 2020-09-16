@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KhqX6Lw5Y0kXFfmnGMal-hsjBVs=/0x0:3156x1898/1200x800/filters:focal(1326x697:1830x1201)/cdn.vox-cdn.com/uploads/chorus_image/image/67416843/Screen_Shot_2020_09_16_at_1.29.11_PM.5.png' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/2IqjFCf6f092CNpZVyturuoAojk=/0x0:890x501/1200x800/filters:focal(374x180:516x322)/cdn.vox-cdn.com/uploads/chorus_image/image/67416843/B0005907_logos_V5_close_cropped_4K.10.jpg' width='700px' /><br/>
 Facebook says its first pair of consumer augmented reality glasses will be releasing next year, CEO Mark Zuckerberg announced during the opening keynote of its all-virtual Facebook Connect conference.
 <a href='https://www.theverge.com/2020/9/16/21439929/facebook-ar-smart-glasses-ray-ban-announcement'> Source <a/>
