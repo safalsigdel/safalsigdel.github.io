@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YzIGyTYHAouoxSBA0yugDpfFlcE=/0x0:6048x4024/1200x800/filters:focal(2541x1529:3507x2495)/cdn.vox-cdn.com/uploads/chorus_image/image/67412353/1269610733.jpg.0.jpg' width='700px' /><br/>
-A viral phishing scheme is targeting people across the country with scammy text messages claiming to be from the United States Postal Service (USPS). Now, QAnon conspiracy theorists have jumped into the fray, falsely claiming the scheme is tied to human trafficking, as reported by Insider.
-<a href='https://www.theverge.com/2020/9/15/21438661/qanon-usps-phishing-scam'> Source <a/>
