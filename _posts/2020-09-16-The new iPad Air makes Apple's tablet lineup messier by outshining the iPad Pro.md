@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wwBeSlvRsAgD5JHxl_ox77w_RlI=/0x0:1750x1167/1200x800/filters:focal(735x444:1015x724)/cdn.vox-cdn.com/uploads/chorus_image/image/67412012/ipadair3.0.jpg' width='700px' /><br/>
-Apple favors simplicity, and nowhere is that more apparent — other than product design — than in the company's product lineups. But the newly announced iPad Air, which now features a screen designed like that of the pricier Pro with the added benefit of being the only device so far to carry the new A14 Bionic processor, is further complicating what was once the company's most elegant product lineup.
-<a href='https://www.theverge.com/2020/9/15/21438523/apple-new-ipad-air-pro-more-affordable-price-specs-tablet-comparison'> Source <a/>

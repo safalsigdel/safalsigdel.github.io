@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QJLR-yXCRzf2sRSlLniYEdeEKS0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67411581/applewatchsefamily.0.jpg' width='700px' /><br/>
-Apple has announced two new smartwatches: the Apple Watch Series 6 and Apple Watch SE. Usually, each new Apple Watch slots in at the top of the company's lineup, making the older ones a little less expensive as a result, but this year's cadence is different. The new Apple Watch SE looks very similar to the new $399 Series 6, but it lacks a few of its highlight features to reach a lower $279 price.
-<a href='https://www.theverge.com/21438413/apple-watch-series-6-se-5-3-comparison-smartwatch-models-versus'> Source <a/>

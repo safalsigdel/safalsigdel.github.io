@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9394/bfarsace_200914_4190_0006sq.0.jpg' width='700px' /><br/>
+GoPro has been the industry standard for action cameras for over 15 years. It wasn't until a few years ago that brands such as DJI and Insta360 began making action cameras with more features that challenged GoPro's lead. This year, though, GoPro has created by far its most powerful action camera to date.
+<a href='https://www.theverge.com/21437419/gopro-hero-9-review'> Source <a/>
