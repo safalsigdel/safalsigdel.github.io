@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VlKAm3EKoP-f_jWAzdujYgvrXX4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67417032/akrales_200904_4160_0265.0.0.jpg' width='700px' /><br/>
+Oculus announced the Quest 2, its next standalone VR headset that doesn't require a PC. My colleague Adi Robertson wrote everything you need to know about the new Quest 2, and she even spent enough time with it to write a full review. The headset is available for preorder starting now at Oculus' site, and it will be available for purchase starting on October 13th.
+<a href='https://www.theverge.com/21438735/oculus-quest-2-price-preorder-how-to'> Source <a/>
