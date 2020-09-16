@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IW8ZLyxKHGhG4VH3lICHx-cUIUA=/0x0:692x597/1200x0/filters:focal(0x0:692x597):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21883248/Apple_delivers_apple_watch_series_6_09152020_big.jpg.medium.jpg' width='700px' /><br/>
+Apple just finished its “Time Flies” event, its first fall event this year, and although we're still waiting on new iPhones, the company took the wraps off new Apple Watches and iPads. And like this year's WWDC, we got all of the news through a video streamed online; there was no in-person event to accompany the arrival of new products.
+<a href='https://www.theverge.com/2020/9/15/21430844/apple-event-recap-biggest-announcements-watch-series-6-se-ipad-air'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-qYMSODWlkRoygWgCBOOJNR826I=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/67409433/akrales_160517_1059_A_0113.0.0.jpg' width='700px' /><br/>
-Waze is finally adding one of the handiest features from Google Maps and Apple Maps: lane guidance. The feature, now out of beta on the Google-owned navigation app, recommends what lane you should be in when you're entering or exiting a freeway, for instance. It's also helpful when navigating complicated intersections or highway mergers.
-<a href='https://www.theverge.com/2020/9/15/21437960/waze-lane-guidance-traffic-notifications-google-maps-features-amazon-music'> Source <a/>

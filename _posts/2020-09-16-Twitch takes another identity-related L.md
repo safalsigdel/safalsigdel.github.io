@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hPJ90JXtVnSYhsdIV8SY5tlZXI4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67411954/acastro_200901_1777_twitch_0002.0.0.jpg' width='700px' /><br/>
+Today, Twitch announced a set of emote modifiers in honor of Hispanic Heritage Month — and then it ended up pulling them before the day's end because they were incredibly insensitive.
+<a href='https://www.theverge.com/2020/9/15/21438659/twitch-hispanic-heritage-month-black-lives-matter-lgbt-pride-month'> Source <a/>

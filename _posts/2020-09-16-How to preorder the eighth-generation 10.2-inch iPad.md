@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dua5VDZFkV6vkSfyxBFbq_7pItw=/0x0:1960x1460/1200x800/filters:focal(824x574:1136x886)/cdn.vox-cdn.com/uploads/chorus_image/image/67410701/apple_ipad_8th_gen_scribble2_09152020.0.jpg' width='700px' /><br/>
+Apple announced a new iteration of its popular baseline iPad, now in its eighth generation. It's $329 and ships with the A12 Bionic processor. You can preorder that model today, and it will ship this Friday, September 18th.
+<a href='https://www.theverge.com/21429356/apple-ipad-8th-generation-new-preorder-price-date-how-to'> Source <a/>

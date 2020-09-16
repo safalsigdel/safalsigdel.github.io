@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ci4Vp9YLeDuGiQXK_rxLy5KEhYA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67412064/lcimg_3a46351f_2ba5_4d82_b82a_27f16ac84385.0.jpg' width='700px' /><br/>
+If you were thinking of adding a new Apple Watch (or any other LTE-ready smartwatch with a dedicated phone number) to your Verizon account, you'll probably like to hear that the carrier just cut the monthly cost of doing that by half. Normally $20, it now costs $10 per month for all plan types.
+<a href='https://www.theverge.com/2020/9/15/21438693/verizon-apple-watch-carrier-plan-lower-monthly-cost-price'> Source <a/>

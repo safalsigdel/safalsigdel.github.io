@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ysrEDblkpq8bdv9yOqN-iXseWnM=/0x0:1600x800/1200x800/filters:focal(672x272:928x528)/cdn.vox-cdn.com/uploads/chorus_image/image/67408924/pf_10b2edbd__ALM1D.0.jpg' width='700px' /><br/>
-Tivoli has announced updated versions of its Model One Digital and Music System Home speakers, with the company taking the retro-inspired designs and adding Chromecast and AirPlay 2 support. This will make the previously standalone speakers easier to integrate into your home audio system.
-<a href='https://www.theverge.com/2020/9/15/21437862/tivoli-model-one-digital-gen-2-speaker-airplay-chromecast-support'> Source <a/>

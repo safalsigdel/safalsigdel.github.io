@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pCKotPpLhmP4NnjVXL3Ntz__y6c=/0x0:1220x813/1200x800/filters:focal(513x310:707x504)/cdn.vox-cdn.com/uploads/chorus_image/image/67407297/image.0.png.0.jpeg' width='700px' /><br/>
+Sony is denying a report that on Tuesday said the company has cut its expectations for PlayStation 5 production by 4 million units and now expects to manufacture about 11 million units by the end of March.
+<a href='https://www.theverge.com/2020/9/15/21437517/sony-ps5-manufacturing-yields-problems-report'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Cl1KC05nB5BTls03D7-Pno5RWvk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67408736/cfaulkner_200514_4023_005.0.0.jpg' width='700px' /><br/>
-Razer's Opus wireless, over-ear headphones with active noise cancellation are 10 percent off their usual price. Normally $199.99, this brings them down to $180. It's the first time we're seeing these headphones discounted, and Verge readers can get this exclusive deal over at Razer by adding the Opus to your cart, then putting the offer code VOXOPUS10 in at checkout.
-<a href='https://www.theverge.com/good-deals/2020/9/15/21436249/razer-opus-headphones-oneplus-7t-apple-macbook-pro-16-deal-sale-discount'> Source <a/>

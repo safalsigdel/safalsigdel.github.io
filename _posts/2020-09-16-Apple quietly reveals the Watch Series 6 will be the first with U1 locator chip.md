@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+In September 2019, Apple added a new feature to the iPhone 11 and iPhone 11 Pro without saying a single word onstage — and it did it again today with the Apple Watch Series 6.
+<a href='https://www.theverge.com/circuitbreaker/2020/9/15/21438497/apple-watch-series-6-u1-locator-ultra-wideband-location'> Source <a/>

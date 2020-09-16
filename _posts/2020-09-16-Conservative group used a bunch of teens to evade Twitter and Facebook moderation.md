@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zh_KjVyLndfyTbCjKn8vfzLPN8Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67412962/acastro_181128_3109_apple_podcast_charts_0001.0.png' width='700px' /><br/>
+One way to avoid having your repetitive pro-Trump posts tagged as belonging to a bot is to hire teenagers in Arizona to behave like bots — and that's exactly what The Washington Post reports conservative group Turning Point Action did.
+<a href='https://www.theverge.com/2020/9/15/21438897/troll-farm-turning-point-teenagers-moderation'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f8M7umFHLR_ws7IOVxLfsWfRiNI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67410697/lcimg_420c1784_eccf_44ac_9793_8392453fe67b.0.jpg' width='700px' /><br/>
+Apple announced two new Apple Watch models at its “Time Flies” online event today: the high-end $399 Series 6 and the more affordable $279 Apple Watch SE, which serves a step up from the $199 Series 3. Both will release this Friday, September 18th, and if you're interested in buying one of them, you can place a preorder starting today.
+<a href='https://www.theverge.com/21429345/apple-watch-series-6-se-preorder-price-date-how-to'> Source <a/>

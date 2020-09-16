@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lnJhOziO8q27viZHu5vGDhWqkRc=/0x0:1461x1165/1200x800/filters:focal(615x467:847x699)/cdn.vox-cdn.com/uploads/chorus_image/image/67408642/2k21.0.png' width='700px' /><br/>
-The next generation of game consoles is on the way, but the PlayStation 5 and Xbox Series X / S might not just be bringing better graphics and more advanced technology. The new consoles could also usher in a higher price for games themselves, with the $60 norm that's been a standard since 2005 potentially going away.
-<a href='https://www.theverge.com/2020/9/15/21437796/take-two-interactive-ceo-xbox-series-x-playstation-5-titles-price'> Source <a/>

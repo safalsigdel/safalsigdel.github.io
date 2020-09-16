@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SgGOA5cyfzqNDXD-wGiHUzkv9GM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67412761/acastro_190322_1777_apple_streaming_0003.0.jpg' width='700px' /><br/>
+Apple, the world's most valuable company, is currently under assault by Fortnite developer Epic Games in an incredible legal and cultural fight, but Epic was hardly the first to accuse Apple of abusing monopolistic power.
+<a href='https://www.theverge.com/2020/9/15/21438867/apple-one-spotify-antitrust-monopoly-criticism'> Source <a/>

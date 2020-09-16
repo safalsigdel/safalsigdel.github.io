@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iM11V2XoCPuiBducrqbQlvyGm70=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67408376/bking_200303_3928_0004.0.jpg' width='700px' /><br/>
-Android 11 has arrived, which means Samsung's custom One UI skin is also due for an update to incorporate Google's latest software, One UI 3.0, which the company has started rolling out to selected developers in the US and South Korea in a “pre-beta” ahead of a larger public beta test.
-<a href='https://www.theverge.com/2020/9/15/21437681/samsung-android-11-one-ui-3-0-update-first-look-screenshots-improvements'> Source <a/>

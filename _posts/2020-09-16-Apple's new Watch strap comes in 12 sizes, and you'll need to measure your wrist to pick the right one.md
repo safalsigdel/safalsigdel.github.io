@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k2eRgJTMUvywe8g5UoV3hLH-id0=/154x106:1144x623/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/67412333/apple_watch_solo_loop.0.png' width='700px' /><br/>
+Apple launched new Apple Watch bands today that have no buckles or clasps, called the Solo Loop and the Braided Solo Loop. They look nice, but because you won't be able to adjust the length of the band, you'll have to measure your wrist in some way when you're buying one to make sure you're picking the right size. And that problem becomes trickier due to the fact that there are 12 total Loop sizes to pick from.
+<a href='https://www.theverge.com/2020/9/15/21438702/apple-watch-solo-braided-loop-new-band-strap-measure-wrist'> Source <a/>

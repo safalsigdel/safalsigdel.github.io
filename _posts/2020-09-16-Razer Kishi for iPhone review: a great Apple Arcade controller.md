@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2BApIOTaw4pqygc-T3HoIOGt8Qo=/0x0:2040x1358/1200x800/filters:focal(857x516:1183x842)/cdn.vox-cdn.com/uploads/chorus_image/image/67402332/DSC_0304.0.jpg' width='700px' /><br/>
+Earlier this year, my colleague Cameron Faulkner reviewed the Razer Kishi, a smartly designed game controller for Android phones created in collaboration with Gamevice. Now a version for iPhones is here, and it's essentially the same story — the biggest difference is what it can do.
+<a href='https://www.theverge.com/21431952/razer-kishi-controller-iphone-ios-review'> Source <a/>

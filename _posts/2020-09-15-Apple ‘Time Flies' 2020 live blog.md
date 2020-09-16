@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nOgWiuVRSgQJjUqAI7HzY1Hq9Jw=/0x0:2198x1116/1200x675/filters:focal(924x383:1274x733)/cdn.vox-cdn.com/uploads/chorus_image/image/67409836/Screen_Shot_2020_09_08_at_11.11.38_AM.0.png' width='700px' /><br/>
-Apple has announced one of its usual fall events, but this event is unusual for Apple. Instead of leading with iPhones in September, all expectations are that they'll arrive in October.
-<a href='https://www.theverge.com/2020/9/15/21436111/apple-event-live-blog-watch-ipad-air-time-flies'> Source <a/>

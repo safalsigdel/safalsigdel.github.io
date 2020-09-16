@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lwV1gYQQcNZPzJYUR8tsqojiFxA=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/67409557/Google_Series_One_Medium_Room_Kit.0.png' width='700px' /><br/>
-Google has rapidly updated its videoconferencing Google Meet software, as the COVID-19 pandemic has meant more people rely on it now than ever before. But today, the company is announcing new Google Meet videoconferencing hardware — though the hardware is designed for conference rooms, not for your home.
-<a href='https://www.theverge.com/2020/9/15/21437114/google-meet-series-one-videoconferencing-hardware-conference-rooms-lenovo'> Source <a/>

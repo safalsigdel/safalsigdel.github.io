@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZRcfNozVvnnz1Crrahc_1U7Fh38=/0x0:2390x1440/1200x800/filters:focal(1004x529:1386x911)/cdn.vox-cdn.com/uploads/chorus_image/image/67412193/Screen_Shot_2020_09_15_at_4.58.10_PM.0.png' width='700px' /><br/>
+During today's “Time Flies” event, Apple explained why it has decided to stop including a power adapter in the box with the latest Apple Watch Series 6 and Apple Watch SE, portraying the move as a big step toward meeting the company's environmental goals. But it turns out this change doesn't apply to every new Apple Watch; the most expensive models will still come with a 5-watt charger.
+<a href='https://www.theverge.com/2020/9/15/21438719/apple-watch-series-6-se-power-adapter-bundle-hermes'> Source <a/>
