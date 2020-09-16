@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2TIsXjHeWEouKuSfklV31eEVrhM=/0x0:3924x2616/1200x800/filters:focal(1649x995:2275x1621)/cdn.vox-cdn.com/uploads/chorus_image/image/67414675/1214798796.jpg.0.jpg' width='700px' /><br/>
+Drones have been a problem for prisons for years now, where they're often used to smuggle contraband behind bars. But could they also get inmates out of prison by airlifting them over the walls? That's one worry expressed by federal prison officers in a new report on the topic from the Department of Justice (DOJ).
+<a href='https://www.theverge.com/2020/9/16/21439372/drones-prisons-doj-bop-report-smuggling-contraband'> Source <a/>

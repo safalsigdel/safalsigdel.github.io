@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xu1QQrWolELXRcJfXpTbJi1IUKM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67410552/ipad_500_million.0.jpg' width='700px' /><br/>
-Apple revealed that it has sold more than 500 million iPads over the last 10 years. The announcement was made by CEO Tim Cook during Apple's “Time Flies” live stream event, in which the company revealed a pair of new Apple Watch devices and an updated base model iPad and new iPad Air.
-<a href='https://www.theverge.com/2020/9/15/21438305/apple-ipad-sales-500-million-units-10-year-anniversary'> Source <a/>
