@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/owyPAozPebeSFwJe_w3Yhqiri9U=/0x0:1073x605/1200x800/filters:focal(452x218:622x388)/cdn.vox-cdn.com/uploads/chorus_image/image/67414430/download__1_.0.png' width='700px' /><br/>
+Even though Apple didn't announce new iPhones yesterday, the event was a jam-packed hour. Apple announced four new hardware products, a major new service, and a new bundle. By any objective standard, that's a big day. As I'll note below, the most important products might not be the hardware, but Fitness Plus and the ability to make an Apple Watch a kid tracker.
+<a href='https://www.theverge.com/2020/9/16/21438928/apple-watch-se-ipad-air-product-line-up-strategy-better-better'> Source <a/>
