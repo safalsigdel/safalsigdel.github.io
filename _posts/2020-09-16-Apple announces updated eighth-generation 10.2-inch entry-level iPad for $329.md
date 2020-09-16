@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JBSpBZD68hLi725zDtMjI9jBUms=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/67410393/ipad.10.png' width='700px' /><br/>
-Apple has announced the eighth-generation version of its basic iPad: an update of its entry-level 10.2-inch tablet that upgrades the processor to a faster A12 chipset (last seen in the 2019 iPad Air and iPad mini models), while still maintaining the same $329 price point. Education customers will also be able to get the new iPad for a discounted $299.
-<a href='https://www.theverge.com/2020/9/15/21438102/apple-8th-generation-10-2-inch-entry-level-ipad-price-release-date-features'> Source <a/>
