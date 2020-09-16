@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FO1UBzBff6vegUjQbLtjUjcvU84=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67414583/acastro_200406_1777_gm_0001.0.0.jpg' width='700px' /><br/>
+General Motors revealed new details about its Ultium battery platform for its upcoming lineup of electric vehicles. The automaker said the battery will power “a family of five interchangeable drive units and three motors” collectively known as “Ultium Drive,” which will aid GM in its transition to an “all-electric future.”
+<a href='https://www.theverge.com/2020/9/16/21439374/gm-unveils-ultium-drive-family-of-electric-motors'> Source <a/>
