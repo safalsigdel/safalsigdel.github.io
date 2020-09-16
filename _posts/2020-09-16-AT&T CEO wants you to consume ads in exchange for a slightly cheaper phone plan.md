@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4s1xwAMvTnSFFa-xqIPiAKGOFYU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67413118/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T is mulling offering wireless phone plans that would be subsidized in part by ads, CEO John Stankey said in an interview with Reuters.
-<a href='https://www.theverge.com/2020/9/15/21438987/att-phone-plan-ads-ceo-john-stankey'> Source <a/>
