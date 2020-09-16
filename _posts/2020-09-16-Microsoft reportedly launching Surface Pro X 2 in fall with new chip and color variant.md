@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NMojbVVjMpoQoQpWoXykbgTmnx8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67415606/akrales_190930_3688_0325.0.jpg' width='700px' /><br/>
+Microsoft is reportedly planning to refresh its ARM-powered Surface Pro X this fall. Windows Central reports that the Surface Pro X will be updated to include Microsoft's SQ2 processor, which will likely be based on Qualcomm's Snapdragon 8cx Gen 2 5G. It's not clear if this refreshed Surface Pro X will include 5G support, but Qualcomm's latest chip supports the option for Microsoft to include it.
+<a href='https://www.theverge.com/2020/9/16/21439555/microsoft-surface-pro-x-2-sq2-processor-platinum-color-rumors'> Source <a/>
