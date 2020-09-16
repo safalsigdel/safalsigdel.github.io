@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/znNAdAls7ymImS06j9KrW4Nt5gI=/0x0:4096x2304/1200x800/filters:focal(1721x825:2375x1479)/cdn.vox-cdn.com/uploads/chorus_image/image/67416960/Quest_2_with_Elite_Strap_accessory.0.jpg' width='700px' /><br/>
+Facebook's Oculus Quest 2 virtual reality headset is being released alongside several optional accessories, including two head strap variants, Logitech earbuds and headphones, a “fit pack” for different head sizes, and the Link USB-C cable. As Facebook announced today, the Quest 2's base model costs $299, but getting the absolute best experience on it will cost quite a bit more.
+<a href='https://www.theverge.com/2020/9/16/21432628/oculus-quest-2-accessories-headstrap-usbc-fit-pack-price'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/07rTyQG20RQ_ftUTAd3v_f4Mf5E=/0x0:5505x3670/1200x800/filters:focal(2305x159:3185x1039)/cdn.vox-cdn.com/uploads/chorus_image/image/67413318/1223057458.jpg.0.jpg' width='700px' /><br/>
-President Donald Trump has nominated longtime telecom lawyer Nathan Simington to be the Federal Communications Commission's next commissioner, as reported by Law360.
-<a href='https://www.theverge.com/2020/9/15/21438820/fcc-donald-trump-nominate-nathan-simington-commissioner-social-media-section-230-order'> Source <a/>

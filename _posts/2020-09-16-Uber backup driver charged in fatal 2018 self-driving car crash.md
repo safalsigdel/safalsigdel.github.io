@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NBkOu10LCN6TRwdEI35k9nGJeBM=/0x0:1434x790/1200x800/filters:focal(603x281:831x509)/cdn.vox-cdn.com/uploads/chorus_image/image/67414250/uber_tempe_2.0.png' width='700px' /><br/>
-The backup safety driver who was behind the wheel when one of Uber's self-driving cars struck and killed a pedestrian in 2018 has been charged with negligent homicide, the New York Times reports. Rafaela Vasquez, who investigators say was watching an episode of The Voice at the time of the crash, has pleaded not guilty.
-<a href='https://www.theverge.com/2020/9/16/21439354/uber-backup-driver-charged-autonomous-self-driving-car-crash-negligent-homicide'> Source <a/>
