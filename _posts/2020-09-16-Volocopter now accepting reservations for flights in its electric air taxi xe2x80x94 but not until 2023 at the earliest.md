@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DkXpkJvyf8zufKyC65eIUe1536s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67415208/ces_2018_intel_volocopter_2387.0.jpg' width='700px' /><br/>
+Volocopter, the German aviation startup, is now accepting reservations for flights on its 18-rotor electric aircraft. This is the first time members of the public are being invited to fly in the company's battery-powered vertical takeoff and landing (VTOL) vehicle.
+<a href='https://www.theverge.com/2020/9/16/21439393/volocopter-air-taxi-flight-ticket-reservation-price'> Source <a/>
