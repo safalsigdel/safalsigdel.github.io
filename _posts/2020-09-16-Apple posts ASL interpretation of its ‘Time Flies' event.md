@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o7eA4WW_JYOEOg_3WB0e_1gp6DU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67413184/Screen_Shot_2020_09_15_at_4.06.12_PM.0.png' width='700px' /><br/>
-Apple made an American Sign Language interpretation of its “Time Flies” event available on its website on Tuesday (via AppleInsider). There are two screens in the ASL-interpreted event replay — the left one shows the event video, while the one on the right shows someone interpreted what's being said in ASL.
-<a href='https://www.theverge.com/2020/9/15/21438844/apple-american-sign-language-asl-interpretation-time-flies-event-video'> Source <a/>

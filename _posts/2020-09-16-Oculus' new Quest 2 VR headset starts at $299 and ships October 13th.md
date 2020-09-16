@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OtW0BzX2QmoTClajWwB7nLPgdAM=/0x0:10000x5625/1200x800/filters:focal(5934x1893:7534x3493)/cdn.vox-cdn.com/uploads/chorus_image/image/67416889/Oculus_Quest_2_with_controllers.0.jpg' width='700px' /><br/>
+A second-generation Oculus Quest virtual reality headset, the Quest 2, is shipping next month starting at $299. Facebook opened preorders for the Quest 2 today, and it's launching the headset on October 13th in 22 countries. The Quest 2 will replace both the original Quest and the PC-tethered Rift S, thanks to the Link feature that lets it play PC VR games.
+<a href='https://www.theverge.com/2020/9/16/21427947/oculus-quest-2-facebook-vr-headset-price-release-date-preorder-connect'> Source <a/>
