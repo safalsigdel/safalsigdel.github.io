@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pEArtyffU2e-A0HixxkpYJszhIE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67416447/akrales_190914_3628_0258.0.jpg' width='700px' /><br/>
+Apple angered many in the iPhone and iPad developer community yesterday when it announced that iOS 14 and iPadOS 14 would be available to consumers today. A single day's notice is a big departure from the company's usual approach, where developers are given about a week's notice to put the finishing touches on their apps ahead of the major operating system release.
+<a href='https://www.theverge.com/2020/9/16/21439674/ios-14-developers-iphone-surprise-release-golden-master-beta-development'> Source <a/>
