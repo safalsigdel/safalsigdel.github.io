@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gMmV84antR4l5_Io-34I108H8iA=/0x0:1000x667/1200x800/filters:focal(420x254:580x414)/cdn.vox-cdn.com/uploads/chorus_image/image/67426154/hospital-bed-1.0.png' width='700px' /><br/>
+A woman in Germany died during a ransomware attack on the Duesseldorf University Hospital, in what may be the first death directly linked to a cyberattack on a hospital. The hospital couldn't accept emergency patients because of the attack, and the woman was sent to a health care facility around 20 miles away, the Associated Press reported.
+<a href='https://www.theverge.com/2020/9/17/21443851/death-ransomware-attack-hospital-germany-cybersecurity'> Source <a/>

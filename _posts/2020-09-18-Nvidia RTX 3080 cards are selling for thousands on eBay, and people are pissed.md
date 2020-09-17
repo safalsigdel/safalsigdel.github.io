@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZJv2jH9VK52w0ZUhQiEVrF2QeUQ=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/67426156/twarren_rtx3080.0.jpg' width='700px' /><br/>
+The Nvidia RTX 3080 graphics card was released at 9AM ET, and disappointment began only seconds later. All major online stores in the US are sold out, and there have been reports of brick-and-mortar stores each having as few as 10 units for sale. The end result: eBay scalpers are now trying to cash in, and very few people who want to enjoy the graphics card seem to have actually gotten their hands on a confirmed order.
+<a href='https://www.theverge.com/2020/9/17/21443901/nvidia-rtx-3080-ebay-reselling-sold-out-shortages'> Source <a/>
