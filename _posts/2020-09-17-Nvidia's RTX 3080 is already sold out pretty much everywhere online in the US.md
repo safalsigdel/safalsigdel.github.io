@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Yxij6yIeeblQFoOOlgVpo2jK-XE=/0x0:2040x1530/1200x800/filters:focal(1421x1204:1747x1530)/cdn.vox-cdn.com/uploads/chorus_image/image/67423012/Image_from_iOS_result.5.jpg' width='700px' /><br/>
+Nvidia's new RTX 3080 graphics card went on sale earlier today, but it seems the new $699 GPU is already sold out pretty much everywhere. In the US, Amazon, Newegg, Best Buy, and Nvidia's own website are either listing the card as being out of stock or only with an option to be notified when a card is in stock. Even stock checking sites like NowInStock.net are coming up empty-handed.
+<a href='https://www.theverge.com/2020/9/17/21441391/nvidia-rtx-3080-sold-out-online-instore-stock-shortages-graphics-card-gpu'> Source <a/>
