@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_yHLAmIhKRcerbKgKAJUbPL7XqE=/336x312:1837x1080/1200x800/filters:focal(931x545:1257x871)/cdn.vox-cdn.com/uploads/chorus_image/image/67420895/i3_i3__Photo_InSitu_EdgeSweeping.0.jpg' width='700px' /><br/>
+iRobot has announced a pair of new midrange vacuum cleaners that have some of the perks of its top-range models but a few compromises, too. They are the $599 i3 Plus, which comes with the company's automatic bin-emptying station, capable of holding 60 days' worth of dirt, and the plain old $399 i3, which has no emptying station but is otherwise identical.
+<a href='https://www.theverge.com/2020/9/17/21439631/irobot-i3-plus-roomba-specs-price-automatic-cleaning-maps'> Source <a/>
