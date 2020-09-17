@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4-xcXPGoB2hm3czHnNbeVla09js=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/67424797/zelda3ds.0.0.jpg' width='700px' /><br/>
+Nintendo has always been a strange company. The Kyoto-based game maker turned an Italian plumber into one of pop culture's biggest icons, and the company has experimented with everything from DIY cardboard game accessories to three-pronged controllers. This unpredictable nature is what makes Nintendo so exciting (and occasionally infuriating).
+<a href='https://www.theverge.com/21441254/nintendo-ds-3ds-discontinued-eulogy'> Source <a/>
