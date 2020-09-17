@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/58-WgVyklRrPSylNXMqDoFQuYmM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67422271/acastro_190318_1777_google_drive_0001.0.jpg' width='700px' /><br/>
+Google is changing how Google Drive handles trashed files and documents. Starting on October 13th, files in the trash will automatically delete after 30 days. The change means that Drive's trash will work the same way as other Google products, like Gmail, for more consistent behavior across all of Google's products.
+<a href='https://www.theverge.com/2020/9/17/21441226/google-drive-delete-trash-empty-files-documents-30-days-date'> Source <a/>

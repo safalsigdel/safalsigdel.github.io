@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iXB3Sz6sOlcabgYxYLxuzYM1a7w=/0x0:1088x612/1200x800/filters:focal(457x219:631x393)/cdn.vox-cdn.com/uploads/chorus_image/image/67418575/podcast367_featured.5.png' width='700px' /><br/>
-Sony's PlayStation 5 Digital Edition, its next-generation game console without a Blu-ray disc drive, will cost $399.99, the company announced Wednesday as part of its PS5 price reveal live stream event.
-<a href='https://www.theverge.com/2020/9/16/21436287/sony-ps5-digital-edition-price-release-date'> Source <a/>
