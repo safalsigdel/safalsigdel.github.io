@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ye7GdTJYxLoR2Ogc2RHm3IeplpI=/0x0:2048x1152/1200x800/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/67418837/50350257182_f99bbea1b9_k.0.jpg' width='700px' /><br/>
+A week after Microsoft detailed the price and release date for both the Xbox Series X and the Series S, Sony has followed suit with a major PS5 showcase event. On Wednesday, Sony revealed not only how much the PS5 will cost and when it will launch, but also more details on the games coming to the next-gen platform.
+<a href='https://www.theverge.com/2020/9/16/21437770/ps5-price-release-date-event-news-trailers-announcements'> Source <a/>

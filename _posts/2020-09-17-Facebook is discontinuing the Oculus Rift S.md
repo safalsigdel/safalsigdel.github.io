@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X5LX1xYADHmgEfieoL3YDvlXG5Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67416958/akrales_190429_3371_0030.0.jpg' width='700px' /><br/>
-Facebook-owned virtual reality company Oculus is ending sales of the Rift S headset next spring. It's retiring the PC-based VR device to focus on the standalone Oculus Quest 2, which can also be tethered to a computer through Oculus' Link feature.
-<a href='https://www.theverge.com/2020/9/16/21422717/facebook-oculus-rift-s-discontinued-quest-2-vr-connect'> Source <a/>

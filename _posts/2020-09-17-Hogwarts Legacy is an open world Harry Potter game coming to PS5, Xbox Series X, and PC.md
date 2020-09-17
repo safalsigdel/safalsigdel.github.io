@@ -1,0 +1,3 @@
+<img src='' width='700px' /><br/>
+Hogwarts Legacy is a new Harry Potter open world game releasing next year across all major platforms, Warner Bros. announced on Wednesday as part of Sony's PlayStation 5 price reveal live stream event. The game, developed by Disney Infinity developer Avalanche Software, is set in the 1800s at the iconic Hogwarts from the book series, but given its time period it will not involve playing as the series' titular character. Instead, the trailer gives the impression that players will create their own character and engage in all manner of wizard and witch-related activities.
+<a href='https://www.theverge.com/21440330/harry-potter-hogwarts-legacy-ps5-playstation-5-trailer-open-world-sony'> Source <a/>

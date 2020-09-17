@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LwN7oB72zDGypK1N67npNvmPjbU=/0x0:1077x601/1200x800/filters:focal(453x215:625x387)/cdn.vox-cdn.com/uploads/chorus_image/image/67419011/Screen_Shot_2020_09_16_at_5.41.11_PM.0.png' width='700px' /><br/>
+Sony revealed the release date and price for its next-gen console, the PlayStation 5, alongside news of its launch titles and upcoming games. According to a post on the PlayStation Blog, games from “our own Worldwide Studios titles will be priced from US$49.99 to US$69.99.”
+<a href='https://www.theverge.com/2020/9/16/21440542/ps5-games-price-69-playstation-5-sony'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_cUpzNsH1GHNnu3qF6rK-Gppoac=/0x0:10000x5625/1200x800/filters:focal(4200x2013:5800x3613)/cdn.vox-cdn.com/uploads/chorus_image/image/67417040/Oculus_Quest_2.0.jpg' width='700px' /><br/>
-The seventh annual Facebook Connect — formerly Oculus Connect — covers virtual and augmented reality news from the social media giant. Held virtually due to the coronavirus pandemic, the company announced the Oculus Quest 2, a $299 successor to its standalone Quest VR headset, as well as a slate of new games and the retirement of its Oculus Rift S tethered headset.
-<a href='https://www.theverge.com/21437098/facebook-oculus-connect-7-event-vr-ar-news-announcements'> Source <a/>

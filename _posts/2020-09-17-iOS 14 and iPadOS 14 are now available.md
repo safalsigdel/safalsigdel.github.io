@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QSt9l-WgpUQTCcpLIwFZPZohoa0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67418193/ios_14_ipados_14_dbohn_245.0.jpg' width='700px' /><br/>
+Apple's iOS 14, the latest major software update for iPhones, is now available to download. Some of the key new features include widgets on the home screen, an “App Library” that organizes all of your apps in one place, a Translate app that works with 11 different languages, and picture-in-picture video (something that was already available for iPad users).
+<a href='https://www.theverge.com/2020/9/16/21438939/ios-ipados-14-download-rollout-availability'> Source <a/>

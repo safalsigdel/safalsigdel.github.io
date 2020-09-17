@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tXs7CvvxMfMOWXjWcpj41FWr2TU=/0x0:2450x1628/1200x800/filters:focal(1029x618:1421x1010)/cdn.vox-cdn.com/uploads/chorus_image/image/67419440/ps5.0.png' width='700px' /><br/>
+When internet detectives revealed the PlayStation 5 was going to be huge, we were extremely amused — but even their fancy Photoshops couldn't completely prepare us for how enormous the PS5 truly is.
+<a href='https://www.theverge.com/2020/9/16/21438782/sony-ps5-size-specs-dimensions-console-huge-large-big'> Source <a/>

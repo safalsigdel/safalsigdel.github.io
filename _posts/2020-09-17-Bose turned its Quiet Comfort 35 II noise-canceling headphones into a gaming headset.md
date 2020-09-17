@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QNYFMxY9kHTxVi05z3pDK_LJ-04=/0x0:1440x960/1200x800/filters:focal(605x365:835x595)/cdn.vox-cdn.com/uploads/chorus_image/image/67416527/boseqc35iigame.0.jpg' width='700px' /><br/>
-Bose's Quiet Comfort 35 II aren't its latest set of noise-canceling headphones (those are the $400 Noise Cancelling Headphones 700), but they're in the news again today because the company has turned them into a wired gaming headset.
-<a href='https://www.theverge.com/2020/9/16/21439699/bose-quiet-comfort-35-ii-noise-canceling-gaming-headset-pc-bluetooth-price'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IYBnQynh8rFT3di5d0RkKjLlSw8=/0x0:1600x1067/1200x800/filters:focal(672x406:928x662)/cdn.vox-cdn.com/uploads/chorus_image/image/67419239/49747503557_fa12f113db_h.0.jpg' width='700px' /><br/>
+Alongside the reveal of the PlayStation 5's $399 and $499 price tags and November 12th release date, Sony also announced how much the various accessories for the upcoming console will cost.
+<a href='https://www.theverge.com/2020/9/16/21440540/sony-ps5-accessory-pricing-70-dollar-dualsense-5-controller-camera-remote-headphones'> Source <a/>

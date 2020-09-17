@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4qsU56ehayUQOIop7iv9UCIOg-k=/0x0:2040x1351/1200x800/filters:focal(989x562:1315x888)/cdn.vox-cdn.com/uploads/chorus_image/image/67420496/twarren_200909_4184_0008.0.0.jpg' width='700px' /><br/>
+Sony's PlayStation 5 opened pre-orders today, and it's an utter fiasco so far — there was no communication about when, where, or how to get one without competing with scalpers. But perhaps we can help you get your hands on Nvidia's new RTX 3080 graphics card, a GPU that finally powers 4K 60fps gaming or better for $700?
+<a href='https://www.theverge.com/2020/9/16/21440889/where-how-to-buy-nvidia-rtx-3080-gpu'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vKMesg-8lUKCezFD11C13Dp0_ec=/0x0:2000x1200/1200x800/filters:focal(840x440:1160x760)/cdn.vox-cdn.com/uploads/chorus_image/image/67416119/07JylsWs9N3zfQNJRYkmXbO_2.fit_lim.size_768x99999.0.jpg' width='700px' /><br/>
-Gateway, the major PC brand of the 1990s with the iconic cow-spotted logo, is back — well, kind of. Acer now owns the company and has decided to start selling Gateway-branded laptops again, exclusively at Walmart.
-<a href='https://www.theverge.com/2020/9/16/21439568/gateway-walmart-acer-budget-laptops-amd-intel-colors-price-release-date'> Source <a/>

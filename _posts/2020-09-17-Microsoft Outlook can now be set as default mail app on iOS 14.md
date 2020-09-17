@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m9oPOAyM_3-yYHw5d3bjLiuA_iQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67418068/akrales_180927_2985_0064.0.jpg' width='700px' /><br/>
+Apple has released iOS 14 today, and Microsoft is one of the first to support the new default mail app option in Apple's latest update. Apple is introducing the ability to switch default apps for both mail and the browser, and Outlook has been updated today to include the support.
+<a href='https://www.theverge.com/2020/9/16/21440252/microsoft-outlook-ios-14-default-mail-app-update-release'> Source <a/>

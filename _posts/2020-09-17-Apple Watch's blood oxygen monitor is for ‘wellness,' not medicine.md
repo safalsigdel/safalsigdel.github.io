@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kyjpR-i7Phb5qClAYOYuTbejxJk=/0x0:1158x843/1200x800/filters:focal(487x330:671x514)/cdn.vox-cdn.com/uploads/chorus_image/image/67415047/lcimg_25fea456_08ef_45e8_9b0e_bab9eb7f8b13.0.jpg' width='700px' /><br/>
-The new Apple Watch Series 6 includes a sensor that allows the watch to measure blood oxygen levels. The device is a long-awaited addition to Apple's suite of health tools, but it tracks oxygen levels at the wrist, which can be less accurate than measurements typically gathered at the fingertip.
-<a href='https://www.theverge.com/21438576/blood-oxygen-apple-watch-series-6-reliability'> Source <a/>

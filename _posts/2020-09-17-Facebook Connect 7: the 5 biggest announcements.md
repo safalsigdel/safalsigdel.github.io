@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Pth68ydHNw-xvFbYWpExcs9YSlU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67419029/akrales_200904_4160_0158.0.0.jpg' width='700px' /><br/>
+Facebook packed its Connect virtual and augmented reality conference into a single day this year, and it announced a lot of news during its two-hour keynote. That included a new VR headset, the retirement of an old headset, and a long list of upcoming games and apps.
+<a href='https://www.theverge.com/2020/9/16/21440086/facebook-oculus-connect-recap-biggest-announcements-quest-rift-games'> Source <a/>

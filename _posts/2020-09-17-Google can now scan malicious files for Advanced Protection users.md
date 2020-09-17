@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nZOaZ-Ht7qCUjevOk9EBFRNd7jo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67416722/acastro_200207_3900_chrome_0001.0.0.jpg' width='700px' /><br/>
-Google's Advanced Protection program aims to protect high-profile people who are especially at risk of being targeted by online attacks with extra security features in Chrome, and it's adding a new feature today. Those enrolled will be able to send files that Advanced Protection suspects are malicious to be scanned in full by Google's Safe Browsing malware-detection technology.
-<a href='https://www.theverge.com/2020/9/16/21439599/google-chrome-scan-malicious-files-safe-browsing-advanced-protection'> Source <a/>
