@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2JeYdmkXmi_QrCrLNFFNooW-dYI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67418245/image.0.png' width='700px' /><br/>
-Final Fantasy is heading to the PlayStation 5 with a new entry, Final Fantaxy XVI. The news was announced today during Sony's console event with a brief teaser.
-<a href='https://www.theverge.com/2020/9/16/21438708/final-fantasy-xvi-trailer-ps5-playstation-5-sony'> Source <a/>
