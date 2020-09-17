@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Mu8yy8wC8WYsa6Lo7uzFMNPCgfA=/0x0:2440x1288/1200x800/filters:focal(1025x449:1415x839)/cdn.vox-cdn.com/uploads/chorus_image/image/67418658/Screen_Shot_2020_09_16_at_4.48.39_PM.0.png' width='700px' /><br/>
-God of War is coming to the PlayStation 5 in 2021, Sony teased today, with the company announcing a next-gen sequel that's due out next year.
-<a href='https://www.theverge.com/2020/9/16/21440393/sony-god-of-war-ragnarok-sequel-ps5-playstation-5-2021-teaser'> Source <a/>
