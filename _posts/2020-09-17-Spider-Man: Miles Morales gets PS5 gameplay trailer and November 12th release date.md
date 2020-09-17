@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u4Uw77JiVfMQEp4VWvWd4i_uFN4=/0x0:1928x1078/1200x0/filters:focal(0x0:1928x1078):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21886271/Screen_Shot_2020_09_16_at_4.27.58_PM.png' width='700px' /><br/>
-Sony has shown off its first gameplay demo for the upcoming Spider-Man: Miles Morales, along with a release date: it'll launch alongside the PlayStation 5 on November 12th.
-<a href='https://www.theverge.com/2020/9/16/21440314/spider-man-miles-morales-ps5-playstation-5-gameplay-trailer-sony'> Source <a/>
