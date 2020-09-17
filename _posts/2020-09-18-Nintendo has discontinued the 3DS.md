@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0qzg-fkO7-GUtIGk0wclTg0ZAjI=/0x0:1120x747/1200x800/filters:focal(471x285:649x463)/cdn.vox-cdn.com/uploads/chorus_image/image/67421192/DSCF5293.0.jpg' width='700px' /><br/>
-Nintendo has discontinued every model of the 3DS, according to its Japanese website. The page listings for the New 3DS LL, New 2DS LL, and 2DS are still live, but each product lists “out of production” under its name, and a message on the main page says that the entire series has ended production. It's not clear when the change was made; several Japanese Twitter users noticed it this afternoon.
-<a href='https://www.theverge.com/2020/9/17/21441096/nintendo-3ds-production-discontinued-total-sales'> Source <a/>
