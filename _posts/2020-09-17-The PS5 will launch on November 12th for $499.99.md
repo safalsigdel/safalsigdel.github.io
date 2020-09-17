@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ELyFhxMVvv79MKqj2wjXsmCKclQ=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/67418543/PS5DigitalEdition_02.0.jpg' width='700px' /><br/>
-Sony has announced that the PlayStation 5 will cost $499.99 when it launches on November 12th, alongside the $399.99 Digital Edition. Preorders will begin on September 17th at “select retailers.”
-<a href='https://www.theverge.com/2020/9/16/21277234/ps5-playstation-5-price-release-date-sony'> Source <a/>

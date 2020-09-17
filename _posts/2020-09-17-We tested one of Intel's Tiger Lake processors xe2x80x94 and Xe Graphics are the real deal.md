@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Bgrwt60xll6OwW3Aba_yCd-XMRo=/0x0:2040x1360/1200x800/filters:focal(877x585:1203x911)/cdn.vox-cdn.com/uploads/chorus_image/image/67422081/mchin_181210_4191_0002.0.0.jpg' width='700px' /><br/>
+Earlier this month, Intel announced its 11th-Gen “Tiger Lake” laptop CPUs. The company proclaimed them the new best processor for thin-and-light laptops — but thanks to AMD's 7nm Ryzen 400 chips, competition for that title is fierce. This week, we finally got a chance to try one out.
+<a href='https://www.theverge.com/21440302/intel-tiger-lake-hands-on-tests-core-i7-1185g7-processor-release'> Source <a/>

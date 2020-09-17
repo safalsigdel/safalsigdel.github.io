@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Fr8wE6-kxTd4Py3rslw0m4gLNoU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67418406/acastro_200318_1777_ps5_0001.0.jpg' width='700px' /><br/>
-At an event on September 16th, Sony finally announced some long-awaited details of the PlayStation 5 with a number of notable new game announcements and trailers, giving a better idea of what fans can expect when the PS5 finally launches. That includes games like Final Fantasy XVI and Hogwarts Legacy. Keep up with all of the announcements right here.
-<a href='https://www.theverge.com/2020/9/16/21437740/ps5-event-playstation-5-news-price-release-date-trailers'> Source <a/>
