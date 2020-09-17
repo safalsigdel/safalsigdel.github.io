@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pv2N7oU_lyqGjIp12Xl5wqdJp4I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67426269/acastro_200715_1777_twitter_0001.0.0.jpg' width='700px' /><br/>
+Twitter will start prompting high-profile political accounts to take heightened security measures ahead of the 2020 US election, the company announced Thursday.
+<a href='https://www.theverge.com/2020/9/17/21443741/twitter-security-election-chaos-election-accounts-prompt-notification-password-two-factor'> Source <a/>
