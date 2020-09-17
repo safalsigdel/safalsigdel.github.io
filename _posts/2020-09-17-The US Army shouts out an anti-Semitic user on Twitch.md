@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Rm-WkGZyUR_LBX0Ewe0h9XwW5II=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67417293/acastro_200901_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
-Today, the Army has found itself in a new pot of hot water after a member of the Army National Guard, Axel “ZexsOG” Torres, shouted out an anti-Semitic username live, as first reported by Motherboard. “Yo, six million wasn't enough, thank you so much for the follow, I appreciate you,” he said.
-<a href='https://www.theverge.com/2020/9/16/21439911/us-army-axel-torres-esports-navy-anti-semitic-slur-twitch'> Source <a/>
