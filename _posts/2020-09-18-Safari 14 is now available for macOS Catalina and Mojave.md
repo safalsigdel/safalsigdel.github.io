@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-quhWW9ECPSUwxqsZDK_SYttYlI=/0x0:4260x2840/1200x800/filters:focal(1790x1080:2470x1760)/cdn.vox-cdn.com/uploads/chorus_image/image/67421286/safarinew.0.jpg' width='700px' /><br/>
-Apple has released the latest version of its Safari browser for macOS Catalina and High Sierra, ahead of the release of Big Sur later this year. Safari 14 improves the browser's tabs, adds a new privacy report feature, and offers new customization options for your start page. You can download it by heading to System Preferences app and clicking “Software Update.”
-<a href='https://www.theverge.com/2020/9/17/21441116/safari-14-macos-catalina-mojave-big-sur-browser-features-improvements-tabs-start-screen'> Source <a/>

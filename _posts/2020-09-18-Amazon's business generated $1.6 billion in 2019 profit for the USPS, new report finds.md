@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lnMaKfSsQd2Cm1fXIM1Z05xqXa4=/0x0:6000x3880/1200x800/filters:focal(614x2210:1574x3170)/cdn.vox-cdn.com/uploads/chorus_image/image/67426569/1048321206.jpg.0.jpg' width='700px' /><br/>
+A bombshell report in The Washington Post today details the ongoing feud between the Trump administration and the US Postal Service, and it provides insight into just how lucrative Amazon's business is for the agency.
+<a href='https://www.theverge.com/2020/9/17/21443933/amazon-post-office-revenue-delivery-trump'> Source <a/>
