@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/61EBw7SY5qdbsOAT92Rflc7J7f4=/0x0:3000x1688/1200x800/filters:focal(1995x817:2475x1297)/cdn.vox-cdn.com/uploads/chorus_image/image/67421205/Xperia_5_II_generic_cut_audio_black_16.9_Large__1_.0.jpg' width='700px' /><br/>
+Sony is continuing its refresh of its smartphone line to focus on photography and video with the new Xperia 5 II. It's the smaller sibling of the very tall and weirdly expensive Xperia 1 II, and this newer phone betters it in several regards. It's cheaper, for one thing, going on sale on September 29th for $949. The other major improvement is that Sony has put in a high-refresh-rate 120Hz panel.
+<a href='https://www.theverge.com/2020/9/17/21440834/sony-xperia-5-ii-price-release-date-features'> Source <a/>

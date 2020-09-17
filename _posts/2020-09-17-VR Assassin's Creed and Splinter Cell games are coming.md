@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gNYF2UekmVVDnMcKKqrxCiq77Gk=/0x0:780x439/1200x800/filters:focal(376x77:500x201)/cdn.vox-cdn.com/uploads/chorus_image/image/67417311/119594310_348190689696513_6039533427015122057_n.0.png' width='700px' /><br/>
-Ubisoft has announced new Assassin's Creed and Splinter Cell games built entirely for virtual reality. The games, announced during the Facebook Connect (previously called Oculus Connect) virtual keynote on Wednesday, mark a long-rumored but still potentially exciting addition to VR.
-<a href='https://www.theverge.com/2020/9/16/21437979/oculus-assassins-creed-splinter-cell-vr-game-announcement'> Source <a/>
