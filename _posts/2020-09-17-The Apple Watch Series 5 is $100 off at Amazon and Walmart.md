@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Pw6M0ymOSrUdth53mkv4MfYYFWI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67422770/vpavic_190916_3669_0305.0.jpg' width='700px' /><br/>
+The Apple Watch Series 6 releases tomorrow, starting at $399 for the 40mm size and $429 for the 44mm size. If you don't think you need the latest model, you can save $100 on the now-previous version of Apple's smartwatch, the Series 5. Both Amazon and Walmart have the larger 44mm size with the gold aluminum case and pink sport band for $329.
+<a href='https://www.theverge.com/good-deals/2020/9/17/21441308/apple-watch-series-5-amazon-walmart-sale-deal-beats-solo-pro'> Source <a/>
