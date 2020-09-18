@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pEpxACOoAdWju09IXza4xWj5cXU=/0x0:2048x1081/1200x800/filters:focal(861x378:1187x704)/cdn.vox-cdn.com/uploads/chorus_image/image/67422702/Ford_Rouge_Electric_Vehicle_Center_Rendering.0.png' width='700px' /><br/>
-Ford broke ground on a new manufacturing plant outside of Dearborn, Michigan, where it will build an electric version of its extremely popular pickup truck, the F-150. The new facility, located within the automaker's historic Rouge Complex, will be completed in time to start production on the new electric truck, slated for mid-2022.
-<a href='https://www.theverge.com/2020/9/17/21441276/ford-electric-f150-truck-factory-break-ground-michigan'> Source <a/>
