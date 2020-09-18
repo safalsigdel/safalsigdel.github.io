@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9ZTVFInDC2WD1lv_-DI7dxp83Fk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67429220/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google is correcting a “typo” in its Play Store “stalkerware” policy that currently suggests that apps can be used to track spouses. Stalkerware and other tracking software is dangerous, campaigners say, because it can facilitate domestic abuse and harassment of partners. As it's written, the policy also mistakenly says parents cannot track their children.
+<a href='https://www.theverge.com/2020/9/18/21441154/google-play-store-stalkerware-ban-parent-children-tracking'> Source <a/>
