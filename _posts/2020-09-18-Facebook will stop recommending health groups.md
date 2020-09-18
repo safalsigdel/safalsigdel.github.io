@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TmQEYBlvudOO0LMN-Q75DBe3REE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67425410/acastro_180806_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook is adding new rules intended to slow the spread of misinformation and other harmful content on its Groups feature. From now on, if a group is removed for violating Facebook's policies, its members and administrators will be temporarily unable to create any new groups. If a group has no administrators, it will be archived. And Facebook won't include any health-related groups in its recommendations.
-<a href='https://www.theverge.com/2020/9/17/21443742/facebook-health-groups-recommendations-new-admin-rules'> Source <a/>
