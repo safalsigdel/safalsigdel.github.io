@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p6rvTBtfzJd6T1RQTcrq_PVfo4w=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/67424202/BALAN_WONDERWORLD_screenshot_1.0.jpg' width='700px' /><br/>
-Nintendo recently revealed a huge slate of Mario games coming to the Switch (and one Zelda spinoff), but today, the company put the focus on some of the third-party titles that will help fill out the console's lineup. The event included some big-name publishers like Capcom and Square Enix, though many of the games won't hit the Switch until next year.
-<a href='https://www.theverge.com/21441352/nintendo-direct-mini-switch-ori-long-dark-monster-hunter'> Source <a/>
