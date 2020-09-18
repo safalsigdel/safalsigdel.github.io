@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GyPNIoMGZ5fgLoIXUrKwWw_lXtw=/0x0:1160x677/1200x800/filters:focal(488x247:672x431)/cdn.vox-cdn.com/uploads/chorus_image/image/67427978/f62842fd_263f_46d4_8954_9fbe1a25d636.fefa1d11a99643573cf756f2ce835c05.0.png' width='700px' /><br/>
+The PS5 pre-order situation has so far been a bit of a mess, and Walmart's fresh batch of consoles at 6PM PT / 9PM ET on Thursday night did nothing to change that. They were gone in about a minute.
+<a href='https://www.theverge.com/2020/9/17/21444628/psa-walmart-ps5-playstation-5-preorders-again'> Source <a/>

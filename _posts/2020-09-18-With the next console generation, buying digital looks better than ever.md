@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aVLaIExY9cBzO7IIPGJ6Li3jXIw=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/67421677/PS5DigitalEdition_01_sRGB_WITHNOTICE.5.jpg' width='700px' /><br/>
-I'm generally a person who appreciates physical media. I collect vinyl records, buy print books, and like to watch 4K Blu-ray movies. But for a variety of reasons, I switched entirely to buying digital games on each platform as soon as the option became available. Now that Sony and Microsoft have revealed their next-generation consoles in full, a lot more people may well choose to do the same.
-<a href='https://www.theverge.com/21441153/ps5-xbox-series-s-physical-vs-digital-next-gen'> Source <a/>

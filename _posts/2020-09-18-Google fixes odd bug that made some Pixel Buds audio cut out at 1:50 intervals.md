@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8VzeJ4YcA5lKFErAEullz2Bywho=/0x0:2040x1360/1200x800/filters:focal(866x485:1192x811)/cdn.vox-cdn.com/uploads/chorus_image/image/67427219/bfarsace_200424_3992_0006.0.0.jpg' width='700px' /><br/>
+Google is still trying to iron out connectivity issues with its Pixel Buds. The company has confirmed that it has identified the cause of a strange, frustrating bug that caused audio to drop out for some users every one minute and 50 seconds — on the dot. I've gotten numerous emails about this issue from Pixel Buds owners, so it's good to see that Google has managed to resolve it.
+<a href='https://www.theverge.com/2020/9/17/21444306/google-fixes-pixel-buds-1-50-audio-dropout-bug'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5ls0XMAhfNi_2d7lB42XsjzLzcQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67421498/vpavic_4112_20200721_0015.0.jpg' width='700px' /><br/>
-We were pretty pleased with the OnePlus Nord — a well-balanced, mid-ranger that made some compromises but generally delivered for its price. But the Nord wasn't available in the US, which is why we're excited to see reports that OnePlus is readying a new Nord model that apparently will be coming to the United States: the Nord N10 5G.
-<a href='https://www.theverge.com/2020/9/17/21441136/oneplus-nord-us-n10-5g-specs-release-report'> Source <a/>

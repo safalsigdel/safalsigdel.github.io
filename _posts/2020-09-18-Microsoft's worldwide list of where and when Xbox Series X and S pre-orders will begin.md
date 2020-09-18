@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/qCLI3qtAN0B9K46rdGrsa11OH0Y=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/67426105/twarren_200909_4177_0030.0.0.jpg' width='700px' /><br/>
-Microsoft is revealing today the exact time you'll be able to preorder an Xbox Series X or Series S console on September 22nd. Preorders will start at 11AM ET / 8AM PT on September 22nd at Amazon, Target, Walmart, Best Buy, Costco, Sam's Club, Gamestop, Newegg, and Army and Airforce Exchange Service.
+Microsoft is revealing today the exact time you'll be able to preorder an Xbox Series X or Series S console on September 22nd — and in the hours since we initially wrote this post, it's now expanded the list to include those details for many other countries as well.
 <a href='https://www.theverge.com/2020/9/17/21444044/xbox-series-x-s-preorder-time-date-microsoft-retailers'> Source <a/>
