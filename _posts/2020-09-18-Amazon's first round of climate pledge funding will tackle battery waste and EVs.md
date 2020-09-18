@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V2ZccVbDv2PJrnWaRWWEd_onN30=/0x0:5000x3327/1200x800/filters:focal(2100x1264:2900x2064)/cdn.vox-cdn.com/uploads/chorus_image/image/67425971/1228287227.jpg.0.jpg' width='700px' /><br/>
-In its first round of funding from its $2 billion Climate Pledge Fund, Amazon is investing in the battery and e-waste recycling company led by former Tesla executive JB Straubel, along with four other companies. It's not clear how much money each company will receive.
-<a href='https://www.theverge.com/2020/9/17/21443923/amazon-climate-pledge-fund-battery-waste-electric-vehicles'> Source <a/>
