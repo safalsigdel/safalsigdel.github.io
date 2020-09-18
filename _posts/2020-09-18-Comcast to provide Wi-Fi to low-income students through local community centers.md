@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-xGlVIVWtcW7zzjiQvs8EDccrAw=/0x0:640x427/1200x800/filters:focal(269x163:371x265)/cdn.vox-cdn.com/uploads/chorus_image/image/67422443/comcast_lift_zones_image_2.0.jpeg' width='700px' /><br/>
-Comcast is launching a program to provide free Wi-Fi in community centers as part of an effort to improve internet access for students in low-income areas, the company said Thursday. The so-called “lift zones” will provide free internet connectivity as well as “access to hundreds of hours of educational and digital skills content to help families and site coordinators navigate online learning.”
-<a href='https://www.theverge.com/2020/9/17/21441222/comcast-wifi-community-centers-low-income-students'> Source <a/>
