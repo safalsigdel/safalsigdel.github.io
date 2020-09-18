@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HDAYlWOWXtXZNXjcrdS6PjWwLgw=/0x0:2040x1360/1200x800/filters:focal(842x392:1168x718)/cdn.vox-cdn.com/uploads/chorus_image/image/67426188/akrales_190913_3666_0169.0.jpg' width='700px' /><br/>
-Apple gives you the option of picking new default browser and email apps in iOS 14 and iPadOS 14. But it's been discovered that, at least in the 14.0 software release, this freedom of choice is only temporary: after a reboot of your device, Safari and Mail will be restored as their respective defaults until you change the setting again. 9to5Mac reported on the issue earlier today.
-<a href='https://www.theverge.com/2020/9/17/21444035/ios-14-default-apps-setting-switches-back-safari-mail-bug'> Source <a/>

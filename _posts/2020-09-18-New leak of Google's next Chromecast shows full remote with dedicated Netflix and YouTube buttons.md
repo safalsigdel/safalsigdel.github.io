@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zM4_6E7aMOxxNDNBbjbsCL43xWs=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/67431220/Untitled.0.png' width='700px' /><br/>
+We might have just gotten our best look yet at the long-rumored new Chromecast and its dedicated remote, thanks to what appear to be leaked marketing renders posted by WinFuture. We already know Google plans to launch hardware, including a new Chromecast, at its September 30th event, so these renders could be showing off a product Google is very close to revealing.
+<a href='https://www.theverge.com/2020/9/18/21445336/google-chromecast-leak-remote-youtube-netflix-buttons'> Source <a/>
