@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TtA602nIRIo-H4bL0cWk-5RHx98=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21886861/apple_watch_series_6_dbohn_852.jpg' width='700px' /><br/>
-I've had just under 24 hours with the new Apple Watch Series 6, which is just enough time to gather a handful of impressions. My main impression is this: it's an iterative update over the Series 5, for sure. The upgrades are real, but they're also subtle.
-<a href='https://www.theverge.com/2020/9/17/21440604/apple-watch-series-6-impressions-photos-video-blood-oxygen'> Source <a/>

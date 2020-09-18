@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bnaAIEQiPL10j6Kp_6gfJKhSih8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67429351/acastro_190402_3308_Guide_TikTok_0001.0.jpg' width='700px' /><br/>
+This week was the deadline for ByteDance to divorce itself of TikTok over security concerns, but at press time no deal has been struck. Instead, we have the strangest of corporate entities now taking shape. And, thanks to journalists at the New York Times, we have perhaps the most delicious morsel of reporting to ever emerge from TikTok deal talks.
+<a href='https://www.theverge.com/interface/2020/9/18/21442020/kevin-systrom-tiktok-ceo-bytedance-oracle-trump-deal-talks'> Source <a/>
