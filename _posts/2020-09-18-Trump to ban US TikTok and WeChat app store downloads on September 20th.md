@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/9D8YMEuyjzZFpW-bOGd5GH-hS2U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67429809/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-The US Commerce Department intends to issue a new order on Friday that will ban people in the US from downloading the popular video-sharing app TikTok from app stores as early as Sunday, September 20th, Reuters first reported Friday.
+The US Commerce Department has issued a new order to block people in the US from downloading the popular video-sharing app TikTok as of September 20th, Reuters first reported Friday.
 <a href='https://www.theverge.com/2020/9/18/21445060/trump-tiktok-wechat-ban-us-apple-app-store-google-play-commerce-department'> Source <a/>
