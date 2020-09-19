@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VfHwdBLdPlIMVDViZq7XM74ZzOw=/0x0:1051x634/1200x800/filters:focal(442x233:610x401)/cdn.vox-cdn.com/uploads/chorus_image/image/67434974/qhtyfG0.0.png' width='700px' /><br/>
+Sony's upcoming PS5 hardware has appeared at the FCC, providing us with the first close up photos of the next-gen console. The FCC has published a variety of images, showing the standard PS5 laying horizontally, the included cables, and the removable base that holds the console in both vertical and horizontal positions.
+<a href='https://www.theverge.com/2020/9/19/21446500/sony-ps5-first-photos-fcc-filing-images'> Source <a/>

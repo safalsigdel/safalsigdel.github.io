@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_GXyU2WZwlpotPJvVET0VxcuCDc=/0x0:2040x1360/1200x800/filters:focal(854x690:1180x1016)/cdn.vox-cdn.com/uploads/chorus_image/image/67429469/akrales_181019_3014_0106_update.0.jpg' width='700px' /><br/>
-Apple has changed the rules.
-<a href='https://www.theverge.com/2020/9/18/20912689/apple-cloud-gaming-streaming-xcloud-stadia-app-store-guidelines-rules'> Source <a/>
