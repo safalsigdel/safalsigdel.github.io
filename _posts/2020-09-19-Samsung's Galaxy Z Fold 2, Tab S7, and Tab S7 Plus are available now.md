@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C--cggdhUhke7vX7_G1-LLuAl_c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67431543/vpavic_200907_4181_0017.0.jpg' width='700px' /><br/>
+Samsung's latest foldable, the Galaxy Z Fold 2, and its newest tablets, the Galaxy Tab S7 and S7 Plus, are now available to purchase. The Galaxy Z Fold 2 costs $1,999, the Galaxy Tab S7 starts at $649.99, and the Galaxy Tab S7 Plus starts at $849.99.
+<a href='https://www.theverge.com/2020/9/18/21445420/samsung-galaxy-z-fold-2-tab-s7-plus-price-available-now'> Source <a/>

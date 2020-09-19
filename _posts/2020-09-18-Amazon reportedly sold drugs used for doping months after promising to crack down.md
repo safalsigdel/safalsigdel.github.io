@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dVO4hPGJzabX39DEN37_OsmHFU0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67427285/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
-Amazon has removed dozens of listings for peptides, drugs that can be used for doping, after an investigation from The Markup found 66 examples of such products on the site. Peptides are made naturally in the body, but synthetic versions, which can be sold in vials and then reconstituted and injected, are often used as performance-enhancing drugs since they can speed recovery from injuries.
-<a href='https://www.theverge.com/2020/9/17/21444201/amazon-removes-drugs-peptides-doping-listings'> Source <a/>

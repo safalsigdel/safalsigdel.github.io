@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m7-AknAl7rFpKNnDw3yuu-u7Ke8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67433060/Procreate5X_Lockup_01.0.jpeg' width='700px' /><br/>
+Procreate's next big update, Procreate 5X, adds new filters and adjustments that'll be really helpful for those who are trying to do more in Procreate and less in Photoshop. The update will be available starting September 21st.
+<a href='https://www.theverge.com/2020/9/18/21445944/procreate-5x-update-ipad-released-filters-reference-companion'> Source <a/>

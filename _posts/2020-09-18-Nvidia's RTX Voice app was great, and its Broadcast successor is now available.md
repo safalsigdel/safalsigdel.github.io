@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zDL9V9QCawIUTEboL1E0_TySvnU=/0x0:1911x1078/1200x0/filters:focal(0x0:1911x1078):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21890443/Screenshot__19_.png' width='700px' /><br/>
-Earlier this year, Nvidia released RTX Voice, a beta software to process audio and suppress almost all background noise, and it worked amazingly well. My colleague Jon Porter made the sound of his clacking mechanical keyboard completely disappear. Today, Nvidia has released a successor app called Broadcast, and it's available to download now.
-<a href='https://www.theverge.com/2020/9/17/21444508/nvidia-broadcast-download-rtx-voice-noise-app'> Source <a/>

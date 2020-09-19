@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sw2D3w2aHYCAsOaACqQ6o-7YKg4=/0x0:2040x1360/1200x800/filters:focal(860x538:1186x864)/cdn.vox-cdn.com/uploads/chorus_image/image/67429338/DSCF2331_result.0.jpg' width='700px' /><br/>
-With iOS 14, Apple finally lets you choose which browser you want to use as your default, letting you switch away from Safari if you'd rather use a third-party alternative like Chrome or Edge. Apple is also letting iPhone users change their default email app in the updated OS.
-<a href='https://www.theverge.com/21444995/ios-14-default-browsers-chrome-edge-firefox-duckduckgo-safari'> Source <a/>

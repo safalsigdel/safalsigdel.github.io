@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X_1Ph93Sm2RNPw9cJvHsZq1fOGM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67427670/akrales_190914_3628_0060.0.jpg' width='700px' /><br/>
-Apple bought music recognition app Shazam in 2018, and now it's integrating it into iOS in another big way — a new Music Recognition feature can identify songs playing around you as well as in apps on your phone. And it even works when you're listening to music on your headphones.
-<a href='https://www.theverge.com/2020/9/17/21444506/apple-ios-14-2-beta-shazam-identify-music-phone-apps-headphones'> Source <a/>
