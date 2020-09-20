@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IiFsREkl0ONw1L1RrWMbObHqmHE=/0x0:1958x1300/1200x800/filters:focal(823x494:1135x806)/cdn.vox-cdn.com/uploads/chorus_image/image/67430225/Screen_Shot_2020_09_18_at_9.08.11_AM.0.png' width='700px' /><br/>
-Roku is slamming Comcast's decision to pull NBC's TV Everywhere channels from the streaming service as negotiations over distribution for NBCUniversal's Peacock streaming service continue.
-<a href='https://www.theverge.com/2020/9/18/21445118/roku-nbc-tv-everywhere-channels-peacock-streaming-distribution-comcast'> Source <a/>

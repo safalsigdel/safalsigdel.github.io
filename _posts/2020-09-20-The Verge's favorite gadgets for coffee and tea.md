@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N8BFqymwk5HepZ6aMja2F7z7eaY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67438247/acastro_200917_4200_coffeeTea_0001.0.jpg' width='700px' /><br/>
+I'm not sure about you, but one of the things that has been keeping many of us sane during these weird, not-so-wonderful times, is coffee and tea. Besides the caffeine energy lift (for those of us who take it with caffeine), the imbibing of hot liquids can be relaxing, while iced coffee or tea can be very refreshing.
+<a href='https://www.theverge.com/21437846/coffee-tea-gadgets-tech-gear-accessories'> Source <a/>
