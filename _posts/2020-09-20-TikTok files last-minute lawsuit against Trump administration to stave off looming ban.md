@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EWNLSAA1zz2pM91YeMYPpuPdUV8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67436716/acastro_200713_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+TikTok and parent company ByteDance filed a lawsuit late Friday against the Trump administration to try to fend off a ban on new downloads of the app set to take effect Sunday, The Wall Street Journal reported.
+<a href='https://www.theverge.com/2020/9/19/21447014/tiktok-lawsuit-trump-administration-ban-security-china'> Source <a/>

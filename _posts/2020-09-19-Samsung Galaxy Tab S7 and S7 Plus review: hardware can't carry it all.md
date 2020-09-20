@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rh9CYH4BheZas8bV9W2IkLtklYo=/0x0:2040x1360/1200x675/filters:focal(877x380:1203x706)/cdn.vox-cdn.com/uploads/chorus_image/image/67430025/dseifert_200916_4197_0001.0.0.jpg' width='700px' /><br/>
-If you want to buy a tablet that can possibly replace your laptop, there are two options most people go for: Apple's iPad Pro or Microsoft's Surface Pro.
-<a href='https://www.theverge.com/21444688/samsung-galaxy-tab-s7-plus-review'> Source <a/>

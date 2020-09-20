@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gtN-TZlDD1aRycvmCu0pskvN2I8=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21890119/adiaconis_200917_4199_0021.0.jpg' width='700px' /><br/>
-LG's Wing might be the most wild-looking smartphone in 2020 — which is saying something, given the wide array of phones released this year. But despite that unique design, after spending some time with the actual hardware and software, I suspect that LG might actually be onto something with its approach to the Wing.
-<a href='https://www.theverge.com/21444746/lg-wing-dual-screen-phone-hands-on-impressions'> Source <a/>
