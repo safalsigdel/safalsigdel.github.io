@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RQlh4wtZUiaIhTQKrFydQMmHaEs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67438418/acastro_181126_1777_weChat_0003.0.jpg' width='700px' /><br/>
+A judge in California has blocked the Commerce Department's ban on new downloads of China-based messaging app WeChat, Reuters reported Sunday. US Magistrate Judge Laurel Beeler said in her order that WeChat users showed “serious questions going to the merits of the First Amendment claim, the balance of hardships tips in the plaintiffs' favor.”
+<a href='https://www.theverge.com/2020/9/20/21447540/judge-blocks-ban-wechat-tiktok-trump'> Source <a/>
