@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZhCP2T11unLOuNlpb7TAHvAHaRY=/0x0:861x479/1200x800/filters:focal(363x172:499x308)/cdn.vox-cdn.com/uploads/chorus_image/image/67430552/tesla_mr_image.0.jpg' width='700px' /><br/>
-A Tesla Model S owner in Alberta, Canada, was charged with dangerous driving after being pulled over for sleeping while traveling at speeds of 150 km/h (93 mph). The case raises questions about Tesla's partially automated driving system, Autopilot, and driver complacency.
-<a href='https://www.theverge.com/2020/9/18/21445168/tesla-driver-sleeping-police-charged-canada-autopilot'> Source <a/>

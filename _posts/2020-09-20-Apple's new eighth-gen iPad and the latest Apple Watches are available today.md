@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4J9X7FWBmF5_KROb-B4dim9R2Ek=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67430664/applewatchsefamily.0.jpg' width='700px' /><br/>
-Apple has launched three new products today, following their announcement just a few days ago at the company's “Time Flies” event. You can now order the $329 eighth-generation iPad, the $399 Apple Watch Series 6, and the $279 Apple Watch SE from its online store. The redesigned iPad Air with USB-C charging won't arrive until October.
-<a href='https://www.theverge.com/2020/9/18/21445231/apple-new-eighth-generation-ipad-watch-series-6-se-available-now-order'> Source <a/>
