@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/lDxEz8ZiOvTngOzEtL_IanQ9j4w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67449278/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple's status page indicates several of the company's services are experiencing issues, including the App Store, Apple Music, and Apple TV Plus. People are also reporting issues with Apple Music on DownDetector.
+Apple's status page indicated that several of the company's services were experiencing issues on Tuesday, September 22nd, including the App Store, Apple Music, and Apple TV Plus. People also that Apple Music was experiencing issues for over an hour on DownDetector.
 <a href='https://www.theverge.com/2020/9/22/21450882/apple-app-store-music-tv-plus-services-issues-down-outage'> Source <a/>
