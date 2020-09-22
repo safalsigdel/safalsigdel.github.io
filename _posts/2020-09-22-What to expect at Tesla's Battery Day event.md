@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/05qWKxpMHWhLsM_RSrmZF9HS8rg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67442427/acastro_200918_4202_elonMuskBattery_0002.0.jpg' width='700px' /><br/>
-Tesla's Battery Day is upon us. The September 22nd event in Palo Alto, California, “will blow your mind,” CEO Elon Musk promised in a recent earnings call. “It blows my mind, and I know it!” Musk also hinted that we should expect “many exciting things” at the event.
-<a href='https://www.theverge.com/2020/9/21/21443806/tesla-battery-day-rumors-specs-what-to-expect-elon-musk'> Source <a/>
