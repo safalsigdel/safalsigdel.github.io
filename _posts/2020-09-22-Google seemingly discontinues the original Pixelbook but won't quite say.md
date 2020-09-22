@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/okcMODdt_xRf0ADw4cY9ftKuG-Q=/0x0:2040x1360/1200x800/filters:focal(842x585:1168x911)/cdn.vox-cdn.com/uploads/chorus_image/image/67445122/jbareham_171017_2065_0164.0.jpg' width='700px' /><br/>
+Since 2017, the Google Pixelbook has maintained a spot on our list of the very best Chromebooks you can buy, with tasteful design and processing headroom that keep it competitive three years later. Yet you can't buy it from Google anymore — it's out of stock, and the company is strongly suggesting it's been discontinued for good.
+<a href='https://www.theverge.com/2020/9/21/21449640/google-pixelbook-discontinue-chromebook-laptop'> Source <a/>

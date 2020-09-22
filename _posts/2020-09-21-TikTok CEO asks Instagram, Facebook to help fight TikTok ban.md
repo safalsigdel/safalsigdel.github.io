@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jItqBlPAtTXmHdtFRJ013sottBU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67431067/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
-TikTok's interim CEO, Vanessa Pappas, is asking Facebook and Instagram to “publicly join our challenge and support our litigation,” as TikTok faces a new executive order from the Trump administration that will block people from downloading the app beginning September 20th.
-<a href='https://www.theverge.com/2020/9/18/21445321/tiktok-trump-ban-instagram-facebook-adam-mosseri-app-store-google-play'> Source <a/>

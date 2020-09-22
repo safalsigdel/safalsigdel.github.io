@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DVWFGp7mc9HLhMWdht43LeHQrao=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67432055/akrales_190913_3666_0126.0.jpg' width='700px' /><br/>
-If you're an organization junkie and an iPhone user, then iOS 14 has provided you with a new tool: the App Library, which organizes your apps in labeled groups to make them easier to find. In fact, all your current apps can now be found there, and any apps you download in the future will be placed there as well. (You can decide whether you want the apps to also be visible on your home screen; we'll tell you how later in this article.)
-<a href='https://www.theverge.com/21443994/ios-14-app-library-iphone-organize-how-to'> Source <a/>

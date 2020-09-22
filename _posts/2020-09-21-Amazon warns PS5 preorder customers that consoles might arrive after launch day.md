@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wrtrXurDXOqnTx3aFMJ5flhIWT4=/0x0:2398x1578/1200x800/filters:focal(1008x598:1390x980)/cdn.vox-cdn.com/uploads/chorus_image/image/67432443/Screen_Shot_2020_09_18_at_2.54.01_PM.0.png' width='700px' /><br/>
-It seemed a little too good to be true the other night when Amazon successfully processed a bunch of PlayStation 5 preorders after other retailers dropped the ball spectacularly. And, well, maybe it was.
-<a href='https://www.theverge.com/2020/9/18/21445789/amazon-playstation-5-ps5-preorders-delayed-email'> Source <a/>

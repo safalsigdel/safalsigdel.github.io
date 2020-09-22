@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cMVv97ctd_gbI9573iNeT92Ibns=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67433415/acastro_200714_1777_peacock_0001.0.jpg' width='700px' /><br/>
-Comcast and Roku have come to an agreement months after NBCUniversal's Peacock streaming service launched. Peacock will be available to stream on Roku in the coming weeks.
-<a href='https://www.theverge.com/2020/9/18/21445982/peacock-roku-streaming-comcast-nbcuniversal-negotiations-apps'> Source <a/>

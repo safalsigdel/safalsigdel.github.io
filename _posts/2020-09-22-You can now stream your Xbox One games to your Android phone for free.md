@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J9sds7eGIM-Y0ZnWa7OaBFD-1cE=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/67442534/xboxmobileapp.0.jpg' width='700px' /><br/>
+Microsoft is releasing a new Xbox app for Android today that includes an overhauled design and the ability to remotely play Xbox games streamed directly from your console. The Xbox remote play feature, known previously as Console Streaming, lets you remotely connect to an Xbox One console and play games you've already downloaded to it.
+<a href='https://www.theverge.com/2020/9/21/21448979/microsoft-new-xbox-app-mobile-android-remote-play-beta'> Source <a/>

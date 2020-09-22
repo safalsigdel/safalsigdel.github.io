@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IRok8VkraY5HR-yvLdobtz_CZwg=/0x0:1300x780/1200x800/filters:focal(546x286:754x494)/cdn.vox-cdn.com/uploads/chorus_image/image/67443281/por_que_o_minecarft_faz_tanto_sucesso.0.jpg' width='700px' /><br/>
+Minecraft's PlayStation VR update is available now to download. Developer Mojang Studios announced the update earlier this month but hadn't previously said when it would be playable. If you own Minecraft on PlayStation, then the update is completely free.
+<a href='https://www.theverge.com/2020/9/21/21449203/minecraft-playstation-vr-virtual-reality-available-now-free-update'> Source <a/>

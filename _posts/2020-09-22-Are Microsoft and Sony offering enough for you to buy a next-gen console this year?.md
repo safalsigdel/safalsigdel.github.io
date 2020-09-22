@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/71NCjhTixpaK-D3pYzC24QazV-8=/0x0:2040x1351/1200x675/filters:focal(1006x533:1332x859)/cdn.vox-cdn.com/uploads/chorus_image/image/67446551/twarren_200908_4177_0008.0.5.jpg' width='700px' /><br/>
+After months of waiting, we finally know when the Xbox Series X, Series S and PlayStation 5 will launch, and some games that will be available on day one.
+<a href='https://www.theverge.com/2020/9/21/21449985/xbox-series-x-s-playstation-5-ps5-next-generation-console-upgrade-preorder'> Source <a/>

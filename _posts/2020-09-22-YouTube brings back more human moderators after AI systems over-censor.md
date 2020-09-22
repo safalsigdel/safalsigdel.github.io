@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wV63-EAPpPGELXlWYKoJRD866no=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67442639/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
+YouTube says it's bringing back human moderators who were “put offline” during the pandemic after the company's AI filters failed to match their accuracy.
+<a href='https://www.theverge.com/2020/9/21/21448916/youtube-automated-moderation-ai-machine-learning-increased-errors-takedowns'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FcKohig8-Tqvp-9oeIjN_7q839Q=/0x0:1780x794/1200x800/filters:focal(748x255:1032x539)/cdn.vox-cdn.com/uploads/chorus_image/image/67444899/Screen_Shot_2020_09_21_at_2.36.06_PM.0.png' width='700px' /><br/>
+Blizzard Entertainment was forced to cancel its annual BlizzCon fan convention earlier this year due to the ongoing COVID-19 pandemic, but the company has announced new plans for an online-only version of the show. BlizzConline will take place on February 19thxe2x80x9320th, 2021.
+<a href='https://www.theverge.com/2020/9/21/21449517/blizzconline-blizzcon-blizzard-entertainment-event-convention-19-20-date'> Source <a/>

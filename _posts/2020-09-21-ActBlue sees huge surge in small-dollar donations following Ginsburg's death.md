@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J79-BExVunWjcFlvPinf-pB1xcY=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/67439330/Supreme_Court_1.1419968930.0.jpg' width='700px' /><br/>
-ActBlue, the FEC-certified Democratic fundraising site, says its fundraising following the Friday death of Supreme Court Justice Ruth Bader Ginsburg has topped $100 million. The tally broke ActBlue's previous records for single-day donations, dollars raised in one hour, and dollars raised in one day, the organization said.
-<a href='https://www.theverge.com/2020/9/20/21447684/actblue-surge-donations-ginsburg-death'> Source <a/>

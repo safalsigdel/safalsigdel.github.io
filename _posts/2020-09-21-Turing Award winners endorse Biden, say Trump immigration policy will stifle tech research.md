@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ia2SU1dfvT-t0NPL9VbW8p7ziM4=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/67436602/Alan_Turing.0.jpg' width='700px' /><br/>
-Twenty-four winners of the Turing Award are endorsing former Vice President Joe Biden in the upcoming presidential election, The New York Times reported, explaining they're concerned the Trump administration's immigration policies could be detrimental to both computer research and the technology industry over the long term.
-<a href='https://www.theverge.com/2020/9/19/21446691/turing-award-endorse-biden-trump-immigration-technology'> Source <a/>

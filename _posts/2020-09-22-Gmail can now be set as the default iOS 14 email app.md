@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1M3_BUbZIELQ-Q4rDUFmj8lFyLI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67444244/acastro_180424_1777_gmail_0001.0.0.jpg' width='700px' /><br/>
+Google just released the official update to Gmail, allowing it to be set as the default email application for iOS 14 devices.
+<a href='https://www.theverge.com/2020/9/21/21449535/gmail-default-ios-14-email-app-update-google-apple'> Source <a/>

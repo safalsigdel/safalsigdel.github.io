@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lQpmi7OeAMJrKUI5dQ9V9WT78CY=/0x0:5775x3850/1200x800/filters:focal(2426x1463:3350x2387)/cdn.vox-cdn.com/uploads/chorus_image/image/67432353/DSCF1528_1.0.jpg' width='700px' /><br/>
-OnePlus released the OnePlus Buds, its $79 true wireless earbuds, back in July. While they have great battery and an affordable price, if you used them with a non-OnePlus phone, you weren't able to manage some settings or get firmware updates. That should change in the future, though, as a OnePlus Buds app will be coming to other Android devices, according to a Q&A on OnePlus' Chinese website (via 9to5Google).
-<a href='https://www.theverge.com/2020/9/18/21445641/oneplus-buds-standalone-app-android-phones'> Source <a/>

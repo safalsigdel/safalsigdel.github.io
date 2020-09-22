@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cEbX5dPSXPO-Mw6Iig42gHiC3eY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67435288/acastro_181114_1777_amazon_hq2_0002.0.jpg' width='700px' /><br/>
-Six people have been indicted by a grand jury in Washington state on charges they bribed Amazon employees to manipulate third-party seller listings on the e-commerce site, including listings for defective or dangerous products, authorities said.
-<a href='https://www.theverge.com/2020/9/19/21446549/six-people-indicted-amazon-bribery-marketplace-third-party-sellers'> Source <a/>

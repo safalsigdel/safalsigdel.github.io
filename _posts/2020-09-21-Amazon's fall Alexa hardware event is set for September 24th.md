@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a-V1pB5IOvIQYSlNGqnUWxglPXk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67431731/cwelch_191016_3739_0005.0.jpg' width='700px' /><br/>
-Amazon's fall Alexa hardware event is scheduled for September 24th at 1PM ET. It's not clear exactly what might be revealed at the event — an invite sent to The Verge only said that Amazon's Devices and Services team would be sharing “some news.” An Amazon spokesperson specified that the event is invite-only, however, which suggests it won't be live streamed for the public.
-<a href='https://www.theverge.com/2020/9/18/21445597/amazon-fall-alexa-hardware-event-date-devices'> Source <a/>

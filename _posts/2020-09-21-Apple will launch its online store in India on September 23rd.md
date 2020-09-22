@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RsUhtPHITM_9uo1IZ348SDqwMl8=/0x0:692x404/1200x800/filters:focal(291x147:401x257)/cdn.vox-cdn.com/uploads/chorus_image/image/67433473/apple_new_india_online_duckworth_09172020_big.jpg.medium.0.jpg' width='700px' /><br/>
-Apple will launch its online store in India on September 23rd, giving customers in India a way to buy Apple products directly from the company for the first time.
-<a href='https://www.theverge.com/2020/9/18/21446056/apple-india-launch-online-store-september-23rd'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qCF4pkO8biwJAe76wBqS4Ih2MDg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67442735/1266759350.jpg.0.jpg' width='700px' /><br/>
+Microsoft plans to address dwindling water resources in its latest environmental pledge. Microsoft made a new commitment to replenish even more water than it uses for its global operations by 2030, making the company “water positive.”
+<a href='https://www.theverge.com/2020/9/21/21448896/microsoft-environmental-pledge-water-scarcity-data-centers'> Source <a/>

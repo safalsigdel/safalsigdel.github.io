@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8JwcVzcJdYSaIsi1oh-5LWZ3rxw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67431208/apple_watch_series_6_dbohn_821.0.jpg' width='700px' /><br/>
-The fall tech season is in full swing, with Apple announcing new Watches and iPads, Sony announcing pricing for the PlayStation 5, and Facebook revealing a sequel to its standalone Oculus headset.
-<a href='https://www.theverge.com/21445203/vergecast-podcast-422-apple-watch-6-ps5-price-oculus'> Source <a/>

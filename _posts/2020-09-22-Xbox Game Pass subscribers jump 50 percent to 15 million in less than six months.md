@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/c5kGq2kTVs94AYdIXQD4XHoAH9M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67443365/acastro_180604_1777_xbox_0001.0.jpg' width='700px' /><br/>
+Microsoft is revealing today that it now has 15 million Xbox Game Pass subscribers. That's up 50 percent from the 10 million the company previously disclosed back in April. Xbox Game Pass is a subscription service that offers access to a growing selection of more than 100 Xbox games for $9.99 per month.
+<a href='https://www.theverge.com/2020/9/21/21449219/xbox-game-pass-15-million-subscribers-microsoft-growth'> Source <a/>

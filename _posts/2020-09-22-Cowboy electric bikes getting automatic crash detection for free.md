@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qxnSRpSXm7JbLY92EQ-JvTNUd00=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/67442679/verge-DSC_4815__1_-2040pxl.0.0.jpg' width='700px' /><br/>
+Owners of older Cowboy 2 and brand-new Cowboy 3 e-bikes will receive a free software update that adds crash detection by the end of September. It's an industry-first safety feature, according to the Belgian startup that recently took in xe2x82xac23 million for expansion.
+<a href='https://www.theverge.com/2020/9/21/21448990/cowboy-crash-detection-free-electric-bike-emergency'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oIsG6gaVRnFTt63dwukfSlRCV60=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67431652/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
-Amazon postponed its annual Prime Day from July to a date TBD, but new rumors — with a hint of evidence — suggest it may be happening in mid-October. The latest rumor mill was set off after tech site T3 discovered a promotional poster from Braun, titled “Braun x Prime Day,” which reads, “In mid-October Braun will be taking part in Amazon Prime Day.” The T3 post has since been removed.
-<a href='https://www.theverge.com/2020/9/18/21445446/amazon-prime-day-date-rumors-october'> Source <a/>

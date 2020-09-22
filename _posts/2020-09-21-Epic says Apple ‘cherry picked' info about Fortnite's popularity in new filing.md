@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AQy49ISkVeAXmbLO1iezp0CM_mM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67435887/acastro_20200818_1777_epicApple_0004.0.0.jpg' width='700px' /><br/>
-In the ongoing Epic Games vs. Apple saga, Epic says in a new legal filing that Apple made incorrect statements in its own legal filing earlier this week, asserting that Apple “cherry picked” Google search results about the popularity of Epic's Fortnite game.
-<a href='https://www.theverge.com/2020/9/19/21446701/epic-apple-fortnite-lawsuit-app-store'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zKF2H5lQ2nnovGAyhVvMtwnJka0=/0x0:2878x1396/1200x800/filters:focal(1209x468:1669x928)/cdn.vox-cdn.com/uploads/chorus_image/image/67432010/Screen_Shot_2019_06_09_at_4.22.17_PM.0.png' width='700px' /><br/>
-Cyberpunk 2077 will be released in a few months, but ahead of its mid-November launch, developer CD Projekt Red unveiled the system requirements needed to run the PC version of the game, and shockingly, you don't need to upgrade your computer to play the game.
-<a href='https://www.theverge.com/21445518/cyberpunk-2077-pc-hardware-requirements'> Source <a/>
