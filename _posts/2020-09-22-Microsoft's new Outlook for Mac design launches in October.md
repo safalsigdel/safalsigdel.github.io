@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lNjGWjo7O4fJWD-xMA4Vf5VAtC4=/0x0:3300x2200/1200x800/filters:focal(1386x836:1914x1364)/cdn.vox-cdn.com/uploads/chorus_image/image/67448863/outlookformacdesign.0.jpg' width='700px' /><br/>
+Microsoft has been testing a new Outlook for Mac design over the past year, and it's now ready to roll out to all users next month. The new design includes Microsoft's Fluent icons, rounded corners, and changes to make the email app ready for macOS Big Sur.
+<a href='https://www.theverge.com/2020/9/22/21448985/microsoft-outlook-for-mac-new-design-october-release'> Source <a/>

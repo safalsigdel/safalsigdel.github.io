@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ydmaoq6vtejvZIKtzvU_IkQWZfA=/0x0:1920x1085/1200x800/filters:focal(914x419:1220x725)/cdn.vox-cdn.com/uploads/chorus_image/image/67447124/flexpai_2_render.0.jpg' width='700px' /><br/>
-The world's first commercially available folding-screen phone wasn't made by Samsung, Huawei or Motorola — it was the Royole Flexpai, a device that we called “charmingly awful.” But in March, Royole promised to refine the idea with the new FlexPai 2, and the company is formally launching that phone in China today starting at 9,988 yuan, or roughly US $1,471.
-<a href='https://www.theverge.com/2020/9/22/21450343/royole-flexpai-2-folding-phone-price-specs-release-date-china'> Source <a/>

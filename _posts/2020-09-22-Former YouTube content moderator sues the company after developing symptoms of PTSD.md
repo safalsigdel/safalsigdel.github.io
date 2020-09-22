@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sxoq_NpJ7-lfjYbXiHA-Hr-agZI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67447659/acastro_200123_3880_Youtube_NDA_0001.0.0.jpg' width='700px' /><br/>
-A former YouTube content moderator is suing the Google-owned company for failing to properly protect her and her co-workers from the mental harms caused by reviewing hours and hours of graphic footage every day.
-<a href='https://www.theverge.com/2020/9/22/21450477/youtube-content-moderator-sues-lawsuit-ptsd-graphic-content-exposure'> Source <a/>

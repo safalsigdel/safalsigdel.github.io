@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OAuJ1rzk-8Ck9p0X3SchouWL2sA=/0x0:2382x1340/1200x800/filters:focal(1001x480:1381x860)/cdn.vox-cdn.com/uploads/chorus_image/image/67449357/vfxflying.0.png' width='700px' /><br/>
+Earlier this year, Manticore Games launched Core, a development tool that aimed to make game creation more accessible. Now, the company is getting an injection of $15 million, thanks to a funding round led by Fortnite creator Epic Games, in order to expand even more.
+<a href='https://www.theverge.com/2020/9/22/21449772/epic-games-fortnite-core-game-development-tool'> Source <a/>

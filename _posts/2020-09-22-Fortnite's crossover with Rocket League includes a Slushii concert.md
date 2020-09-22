@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZWVlOkS4J6D-7R0ZLE53A2ieZLk=/0x0:3000x2366/1200x800/filters:focal(1260x943:1740x1423)/cdn.vox-cdn.com/uploads/chorus_image/image/67448661/1176513292.jpg.0.jpg' width='700px' /><br/>
+Rocket League goes free-to-play tomorrow, and to celebrate, there's going to be a handful of crossover events with Fortnite. (Fortnite developer Epic purchased Rocket League maker Psyonix last year.)
+<a href='https://www.theverge.com/2020/9/22/21450694/fortnite-rocket-league-crossover-event-slushii-concert-date'> Source <a/>

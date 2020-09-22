@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RQaAUNPwN0Rs7qjisGWHsaOw3iA=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/67444181/twarren_rtx3080.0.jpg' width='700px' /><br/>
-Nvidia has apologized for the RTX 3080 GPU preorder fiasco, which saw the highly desirable graphics card sold out pretty much everywhere. “We were not prepared for this level, nor were our partners,” Nvidia writes in a new FAQ. “We apologize for this.”
-<a href='https://www.theverge.com/2020/9/21/21449353/nvidia-apology-rtx-3080-gpu-preorder-shortage-issues'> Source <a/>

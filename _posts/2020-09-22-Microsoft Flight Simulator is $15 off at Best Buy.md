@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5S2Ua6LfLwhn-QVnX7UzRft4a9A=/0x0:3840x2160/1200x800/filters:focal(1167x738:1781x1352)/cdn.vox-cdn.com/uploads/chorus_image/image/67448619/A320Montpelier.0.png' width='700px' /><br/>
+Microsoft's ever-popular Flight Simulator for Windows 10 PCs is $45 at Best Buy, down from its usual $60 price. It's possible to get the game for just the monthly cost of Game Pass on PC ($10 per month after an introductory $1 deal), but this deal is for people who just want to own the game without being tied down to another subscription.
+<a href='https://www.theverge.com/good-deals/2020/9/22/21450611/microsoft-flight-simulator-pc-windows-xbox-nintendo-gift-card-sale-deal-best-buy-amazon'> Source <a/>

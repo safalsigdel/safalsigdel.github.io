@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/abEq8nHz7ta8dPBw8tb34mcGqHY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67445300/ios_14_ipados_14_dbohn_190.0.jpg' width='700px' /><br/>
-One of the more prominent changes introduced in iOS 14, and one that is generating a lot of interest, is the addition of widgets that can be added to any page. There are all sorts of weird and useful things you can do with them (especially if you're willing to play around with apps such as Shortcuts and Widgetsmith). To begin, here's how to add an existing widget to your home screen:
-<a href='https://www.theverge.com/21448881/ios-14-add-widget-home-screen-iphone-how-to'> Source <a/>

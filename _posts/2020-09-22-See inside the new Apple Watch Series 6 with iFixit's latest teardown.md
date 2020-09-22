@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-iFixit took apart the Apple Watch Series 6 today, getting an inside look at the new sensors added to enable blood oxygen tracking. There's also one major piece of hardware that's disappeared from the Watch: the tech used to enable Force Touch.
-<a href='https://www.theverge.com/circuitbreaker/2020/9/21/21449553/apple-watch-series-6-teardown-ifixit'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xc0Y7yhIhvvMb8_3GdwfQgY14iY=/0x0:1928x1078/1200x800/filters:focal(810x385:1118x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67446348/Screen_Shot_2020_09_16_at_4.27.58_PM.0.png' width='700px' /><br/>
-Insomniac Games' hugely-successful 2018 hit Spider-Man is being remastered for PlayStation 5 with ray-tracing, faster loading, and support for the DualSense controller's new haptic feedback. And better yet, it'll be available on the PS5's launch day as a pack-in with Spider-Man: Miles Morales Ultimate Edition.
-<a href='https://www.theverge.com/2020/9/21/21450029/ps5-playstation-5-spider-man-remastered-bring-over-saves-ps4'> Source <a/>

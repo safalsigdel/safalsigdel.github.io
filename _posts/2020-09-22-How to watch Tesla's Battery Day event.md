@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y8SPnHnX7KvDis04G7GWaAlncl0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67448848/acastro_180524_1777_tesla_0002.0.jpg' width='700px' /><br/>
+It's Tesla's Battery Day, and unless you're one of the precious few who scored tickets to the event, you're probably going to be tuning in to the live stream like the rest of us. And honestly, isn't this really the safest way to watch the big event?
+<a href='https://www.theverge.com/2020/9/22/21449156/tesla-battery-day-event-watch-how-to-live-stream-start-time'> Source <a/>

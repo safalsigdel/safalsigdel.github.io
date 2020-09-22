@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Microsoft is expanding its new Together Mode for Microsoft Teams soon, allowing co-workers to pretend they're holding meetings in coffee shops, break out into smaller meeting rooms, or use custom layouts to overlay presenters directly onto slide decks.
+<a href='https://www.theverge.com/2020/9/22/21450502/microsoft-teams-together-mode-breakout-rooms-custom-layouts-features'> Source <a/>

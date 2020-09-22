@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W6USppCKcnAt4sZC-LCR-x60uiQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67447572/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-Mark Twain is credited with first saying that if you don't like the weather in New England, just wait five minutes. The TikTok deal has followed a similar schedule.
-<a href='https://www.theverge.com/interface/2020/9/22/21449229/tiktok-deal-trump-oracle-walmart-cynicism'> Source <a/>

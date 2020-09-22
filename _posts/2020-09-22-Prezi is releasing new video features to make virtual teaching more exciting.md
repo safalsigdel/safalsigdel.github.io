@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y_zPsFWgSpnq26FJEFWyePP6Rbg=/0x0:959x572/1200x800/filters:focal(404x210:556x362)/cdn.vox-cdn.com/uploads/chorus_image/image/67444449/Jamie_Ewing___Prezi_Video_.0.png' width='700px' /><br/>
-You may know Prezi as an innovative PowerPoint-esque software that lays information out as an animated map rather than sequential slides. But the company has expanded in the past year, with a new focus on incorporating both live and recorded video into presentations. This month, as many schools attempt to utilize online instruction for the first time, Prezi is rolling out two new tools tailored to distance learning.
-<a href='https://www.theverge.com/2020/9/21/21448964/prezi-screenshare-video-new-features-distance-learning'> Source <a/>

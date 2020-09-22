@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bIVQKlDkzXZ3oIqT3SLb_hVjXO0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67443556/acastro_190530_1777_xbox_0003.0.0.jpg' width='700px' /><br/>
-Microsoft's priciest video game acquisition, a $7.5 billion purchase of Bethesda Softworks parent company ZeniMax Media, shocked the industry on Monday. The deal puts Bethesda, one of the industry's biggest publishers and owners of some of the most successful gaming series, under the Xbox brand. It also raises a simple but powerful question: how does buying Bethesda fit into Microsoft's overall Xbox strategy?
-<a href='https://www.theverge.com/21449178/microsoft-xbox-bethesda-zenimax-media-acquisition-xbox-game-pass'> Source <a/>

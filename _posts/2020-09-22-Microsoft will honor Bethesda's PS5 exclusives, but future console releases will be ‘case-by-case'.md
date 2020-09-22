@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eAWAxTs4E26L1tIOXqHgcW0ZO-4=/0x0:1425x879/1200x800/filters:focal(599x326:827x554)/cdn.vox-cdn.com/uploads/chorus_image/image/67443130/deathloop_screen.0.jpg' width='700px' /><br/>
-Following the announcement of Microsoft's $7.5 billion acquisition of Bethesda Softworks parent company ZeniMax — owner of Doom, Fallout, and more — some of the biggest questions I saw bouncing around the internet were whether future Bethesda games would become Microsoft exclusives and whether previously announced PlayStation 5 exclusives Deathloop and GhostWire: Tokyo would remain so.
-<a href='https://www.theverge.com/2020/9/21/21449121/microsoft-bethesda-ps5-playstation-5-xbox-series-x-s-consoles-exclusives'> Source <a/>

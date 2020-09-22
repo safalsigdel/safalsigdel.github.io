@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ecUJiuOoidCToAs1578n_QhjK-g=/0x0:1155x739/1200x800/filters:focal(486x278:670x462)/cdn.vox-cdn.com/uploads/chorus_image/image/67448322/Screen_Shot_2020_09_22_at_1.37.45_PM.0.png' width='700px' /><br/>
+Last week, Apple launched the new Apple Watch Series 6 and a pair of new Watch straps to go with it: the Solo Loop and Braided Solo Loop. Both are made of stretchy, unbroken material without a clasp or buckle, which makes choosing the right size extremely important.
+<a href='https://www.theverge.com/2020/9/22/21450503/apple-watch-band-fit-sizing-return-braided-solo-loop-problems'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0XdMqcqLpAJSy9t_B0xCwq_5dpY=/0x0:1200x800/1200x0/filters:focal(0x0:1200x800):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21822035/microsoft_flight_simulator_daher_socata_tbm_930_h.jpg' width='700px' /><br/>
+Microsoft kicked off its virtual Ignite conference today with a look back at how Microsoft Flight Simulator has changed since its introduction in 1982. The nearly 40-year history shows just how much PC gaming has changed, to the point where Microsoft Flight Simulator can now accurately (most of the time!) map out the real world into a virtual one.
+<a href='https://www.theverge.com/2020/9/22/21450859/microsoft-flight-simulator-history-40-years-microsoft-ignite-video'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y8qBkezgyIHvxIQ4dZoKo87jiZI=/0x0:2627x1760/1200x800/filters:focal(1104x670:1524x1090)/cdn.vox-cdn.com/uploads/chorus_image/image/67448856/twarren_outlookios_1.0.jpg' width='700px' /><br/>
+Microsoft is announcing a number of new features that are coming to Outlook mobile soon. These include emoji email reactions, voice commands, and the expansion of Cortana support.
+<a href='https://www.theverge.com/2020/9/22/21450492/microsoft-outlook-ios-android-emoji-email-reactions-voice-commands-ios-14-widgets-features'> Source <a/>

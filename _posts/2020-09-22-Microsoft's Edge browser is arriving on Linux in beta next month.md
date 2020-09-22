@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0q55AjCMzCSno2hT1QzCu3c8K7E=/0x0:1558x874/1200x800/filters:focal(655x313:903x561)/cdn.vox-cdn.com/uploads/chorus_image/image/67448909/3EPTdvX.0.png' width='700px' /><br/>
+Microsoft is planning to launch a preview version of its Edge browser for Linux next month. After officially confirming plans for Edge on Linux earlier this year, Linux users will be able to download a preview of the browser in October.
+<a href='https://www.theverge.com/2020/9/22/21449062/microsoft-edge-linux-preview-october-release'> Source <a/>

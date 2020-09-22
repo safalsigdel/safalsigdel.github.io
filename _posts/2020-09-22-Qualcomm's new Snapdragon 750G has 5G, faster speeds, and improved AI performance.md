@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kohMUBhcHREXdx28MKgTuOhirss=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/67448284/Snapdragon_750G_5G_QRD___In_Hand.0.png' width='700px' /><br/>
+Qualcomm has announced its latest 7-series Snapdragon processor, the Snapdragon 750G, which features an integrated X52 5G modem with support for both mmWave and sub-6GHz 5G and improved CPU and graphics performance compared to the Snapdragon 730G.
+<a href='https://www.theverge.com/2020/9/22/21449747/qualcomm-snapdragon-750g-5g-faster-cpu-gpu-ai-engine-smartphone-processor'> Source <a/>

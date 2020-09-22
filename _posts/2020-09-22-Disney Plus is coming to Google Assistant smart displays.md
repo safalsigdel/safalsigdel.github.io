@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JQW3jM_chfmTh23IZfLqBgMAYH8=/223x0:2137x1200/1200x800/filters:focal(983x438:1443x898)/cdn.vox-cdn.com/uploads/chorus_image/image/67448872/Disney___Nest_Hub_Max.0.jpg' width='700px' /><br/>
+Starting today, Disney Plus' library of TV shows and movies is available to stream on smart displays like the Nest Hub and the Nest Hub Max, Google has announced. Google says all “Google Assistant-enabled” smart displays will support the feature, which should include similar devices from JBL and Lenovo. Content can be started with a voice command, such as “Hey Google, play The Mandalorian on Disney Plus.”
+<a href='https://www.theverge.com/2020/9/22/21450491/disney-plus-google-assistant-smart-displays-nest-hub-max-voice-controls'> Source <a/>

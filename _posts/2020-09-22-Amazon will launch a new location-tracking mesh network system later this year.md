@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w0FbWOEeZkzA924KQbMfkCtoOQA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67443427/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
-Amazon is preparing to launch an ambitious networking and location system later this year under the name Amazon Sidewalk. Sidewalk will link smart home devices and other Amazon products using Bluetooth Low Energy (BLE), connecting beyond the range of a standard Wi-Fi network.
-<a href='https://www.theverge.com/2020/9/21/21448926/amazon-sidewalk-ring-echo-tile-wifi-mesh-ble-location-tracking'> Source <a/>

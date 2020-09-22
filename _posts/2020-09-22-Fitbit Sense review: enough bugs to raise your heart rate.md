@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JeMcVYlMTWZb0VXYVZiga4t0EM0=/0x0:4000x2668/1200x675/filters:focal(1777x1329:2417x1969)/cdn.vox-cdn.com/uploads/chorus_image/image/67448169/20200919FitbitSense5.0.0.jpg' width='700px' /><br/>
+When Fitbit announced the $329.95 Sense last month, it was being hyped as the company's most-thorough health tracking device yet. With new features in the form of stress management (with electrodermal activity monitoring), skin temperature, oxygen saturation while you sleep, and an upcoming Food and Drug Administration-approved ECG-app, it seemed poised to give us the most holistic look at our health of any consumer-facing wearable yet.
+<a href='https://www.theverge.com/21450123/fitbit-sense-review'> Source <a/>
