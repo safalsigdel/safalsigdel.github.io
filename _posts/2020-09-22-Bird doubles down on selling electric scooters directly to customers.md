@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-yR-lgVHAJ1dkFwjpuvFt-YT1Es=/0x0:663x442/1200x800/filters:focal(279x168:385x274)/cdn.vox-cdn.com/uploads/chorus_image/image/67442816/hqwYzlFrzUv4ZdCI1jayHykBPtUxPda_qLdb5j1kwJQtT3iOCfKW7nFhTzJJsGFR2EmY7M5Al6x0yVaqB3Ra0YEZw4Z_XfYTvsMYonH2FRK8l_4nQTHZTl8KcIuoZj9MyPeS1KBl.0.jpeg' width='700px' /><br/>
-Bird, the electric scooter startup that helped kick off the shared micromobility boom, is doubling down on personal ownership. Over the weekend, the company unveiled its new, foldable electric scooter, the Bird Air, which can be purchased for $599.
-<a href='https://www.theverge.com/2020/9/21/21448941/bird-air-electric-scooter-announce-price-specs'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dJj5oMlv1zX8olTbjpUPVM0yoTk=/0x0:2051x1367/1200x800/filters:focal(862x520:1190x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67447815/VRG_4203_Linktree_001.0.0.jpg' width='700px' /><br/>
+If you want to learn more about an influencer, there's one place you always know to look: that link in bio.
+<a href='https://www.theverge.com/21443811/social-media-bio-links-business-tiktok-instagram-influencers'> Source <a/>
