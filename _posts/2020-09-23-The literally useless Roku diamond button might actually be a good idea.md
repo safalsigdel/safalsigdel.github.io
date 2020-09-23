@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/98PeHPGr8ObdQ15QpLEFAR1i7b8=/0x0:2040x1360/1200x800/filters:focal(737x533:1063x859)/cdn.vox-cdn.com/uploads/chorus_image/image/67454394/cwelch_200814_4185_0001.0.0.jpg' width='700px' /><br/>
+On the corner of the Roku Touch remote is a strange, unlabeled button marked only with a mysterious glyph of two overlapping diamonds. Press it, and a voice will ring out: “This feature is not yet available.”
+<a href='https://www.theverge.com/2020/9/23/21436977/roku-touch-remote-button-useless-design-purpose-feature-software-update'> Source <a/>
