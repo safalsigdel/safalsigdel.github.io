@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r9ExuutJAcbOeB_KerU6jttucoo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67449112/acastro_200503_4006_politicalInfluencers_0001.0.jpg' width='700px' /><br/>
-Facebook says it could aggressively restrict content if the US presidential election sparks violent unrest, according to the Financial Times. Global affairs head Nick Clegg told FT that Facebook was looking at “some break-glass options available to us if there really is an extremely chaotic and, worse still, violent set of circumstances.”
-<a href='https://www.theverge.com/2020/9/22/21450738/facebook-nick-clegg-election-content-restriction-violence-chaos'> Source <a/>
