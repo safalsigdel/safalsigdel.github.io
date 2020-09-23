@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y0WFf5hEzHoEt2B-Gwx4M5QSgWo=/0x0:4620x3080/1200x800/filters:focal(1941x1171:2679x1909)/cdn.vox-cdn.com/uploads/chorus_image/image/67448893/surfacehub2s.0.jpg' width='700px' /><br/>
-Microsoft is starting to take preorders for its 85-inch Surface Hub 2S today. The large screen device, originally unveiled in April 2019, will now go on sale in January 2021, just missing Microsoft's initial target of releasing the hardware at some point in 2020. Microsoft is pricing the 85-inch model starting at $21,999.99.
-<a href='https://www.theverge.com/2020/9/22/21449515/microsoft-surface-hub-2s-85-inch-release-date-preorder-software-update'> Source <a/>
