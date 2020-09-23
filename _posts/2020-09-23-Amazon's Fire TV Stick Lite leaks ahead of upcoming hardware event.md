@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Uj9HkqxoOstbVGxII6yPIm6kr-E=/0x0:1153x741/1200x800/filters:focal(485x279:669x463)/cdn.vox-cdn.com/uploads/chorus_image/image/67453850/Screen_Shot_2020_09_23_at_11.17.20_AM.0.png' width='700px' /><br/>
+Images of what appear to be a new Amazon Fire TV Stick have leaked ahead of the company's hardware event this Thursday. WinFuture.de, which shared the pictures, says they show the upcoming “Amazon Fire TV Stick Lite” — a likely successor to the discontinued $35 second-generation Fire TV Stick.
+<a href='https://www.theverge.com/2020/9/23/21452156/amazon-fire-tv-stick-lite-leak-button-layout-new-remote'> Source <a/>
