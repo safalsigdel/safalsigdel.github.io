@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9EAWXooabJdqg-dQioFt15UwM2M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67449797/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
-YouTube is rolling out more artificial intelligence-powered technology to catch more videos that may require age restrictions, meaning more viewers will be asked to sign into their accounts to verify their age before watching.
-<a href='https://www.theverge.com/2020/9/22/21449717/youtube-age-restriction-machine-learning-rollout-kids-content-monetization-creators'> Source <a/>
