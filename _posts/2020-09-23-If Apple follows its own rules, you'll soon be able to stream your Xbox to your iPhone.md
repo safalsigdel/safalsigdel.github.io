@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h4z0dV4JCBF5AdbQpYX3wIAzm68=/0x0:1094x696/1200x800/filters:focal(460x261:634x435)/cdn.vox-cdn.com/uploads/chorus_image/image/67453665/xbox_remote_play_2.0.jpg' width='700px' /><br/>
+Last week, I showed you why Apple's App Store guidelines will never permit Microsoft's xCloud or Google's Stadia cloud gaming services in their current forms.
+<a href='https://www.theverge.com/2020/9/23/21452029/apple-microsoft-xbox-console-streaming-xcloud-app-store-guidelines'> Source <a/>
