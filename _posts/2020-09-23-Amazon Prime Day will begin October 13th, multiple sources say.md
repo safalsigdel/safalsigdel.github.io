@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nl5WNiJuKaAGX_5WXkISBafkd3Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67450006/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
-An internal Amazon email seen by The Verge confirms that its Prime Day shopping event will take place October 13th and 14th, and that the company will make an official announcement September 27th.
-<a href='https://www.theverge.com/2020/9/22/21450957/amazon-prime-day-october-13-internal-email'> Source <a/>
