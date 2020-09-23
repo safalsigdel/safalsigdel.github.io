@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lMRRNijJVjHsX4NEWBWpMuqj4AI=/0x0:790x593/1200x800/filters:focal(332x234:458x360)/cdn.vox-cdn.com/uploads/chorus_image/image/67454222/sony_xperia_play_2_prototype_4.0.jpg' width='700px' /><br/>
+Cast your mind back, if you can, to the tender world of gadgets circa 2011. Apple had just launched Siri on the iPhone, Google was making its biggest push into social networking with Google Plus, and Sony had decided it was time to release a true gaming smartphone: the much-anticipated “PlayStation Phone,” officially dubbed the Xperia Play.
+<a href='https://www.theverge.com/2020/9/23/21452167/sony-xperia-play-2-playstation-phone-prototype-concept-leaked-images'> Source <a/>
