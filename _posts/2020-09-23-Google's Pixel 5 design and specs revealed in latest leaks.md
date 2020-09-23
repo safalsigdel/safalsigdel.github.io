@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LVWm5F1iftXFXwGYQHvAytyXbMQ=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/67449248/pixel5_2.0.png' width='700px' /><br/>
-Google has already announced an event for its upcoming Pixel 5 and Pixel 4A 5G smartphones on September 30th, and it has even teased the phones themselves. But a new leak from WinFuture has revealed the best look yet at Google's new flagship Pixel 5, along with nearly all of its specs.
-<a href='https://www.theverge.com/2020/9/22/21450764/google-pixel-5-design-specs-leak-hardware-software-camera'> Source <a/>
