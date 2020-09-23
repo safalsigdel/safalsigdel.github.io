@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9NQ9fUgftMcrrOWWnzvIrxUD6KY=/0x0:2040x1352/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/67452114/twarren_ios14widgets.0.jpg' width='700px' /><br/>
+iOS 14 has a lot of iPhones looking pretty different these days — some with classy monochrome color schemes, others with pastel styles ripped right off of Pinterest, and some that look like they're straight out of Animal Crossing or emulating Windows Mobile.
+<a href='https://www.theverge.com/21451649/apple-ios-14-widgets-custom-app-icons-shortcuts-design-jailbreaking-wallpaper'> Source <a/>

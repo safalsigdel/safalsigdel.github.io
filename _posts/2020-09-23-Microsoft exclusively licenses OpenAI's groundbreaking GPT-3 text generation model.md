@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AGKI3dyXFRHdSRCHfhtgMkj8MqY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67451151/acastro_180226_0001.0.jpg' width='700px' /><br/>
+Microsoft has expanded its ongoing partnership with San Francisco-based artificial intelligence research company OpenAI with a new exclusive license on the AI firm's groundbreaking GPT-3 language model, an auto-generating text program that's emerged as the most sophisticated of its kind in the industry.
+<a href='https://www.theverge.com/2020/9/22/21451283/microsoft-openai-gpt-3-exclusive-license-ai-language-research'> Source <a/>

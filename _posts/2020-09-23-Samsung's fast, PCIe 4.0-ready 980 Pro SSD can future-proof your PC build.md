@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mBBH8yiHK6UlxMp-oSfOUWMikb8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67448459/980pro.0.jpg' width='700px' /><br/>
-Samsung has unveiled its next high-performance NVMe 2280-sized M.2 drive, the 980 Pro. So far, it comes in three capacities shipping this month: 250GB for $89.99, 500GB for $149.99, and 1TB for $229.99. A 2TB model will arrive later this year, but Samsung didn't share a price.
-<a href='https://www.theverge.com/2020/9/22/21444428/samsung-pc-980-pro-ssd-solid-state-drive-storage-price'> Source <a/>

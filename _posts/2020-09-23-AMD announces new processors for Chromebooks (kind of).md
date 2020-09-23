@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fYZi1ZnDkh5O8AZp1netYGRVrUA=/0x0:5120x2880/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/67448235/Athlon_3.0.jpg' width='700px' /><br/>
-AMD has announced two new lines of processor: the Athlon 3000 C-Series and the Ryzen 3000 C-series. The two are meant to power Chromebooks, and AMD says they'll be shipping in over 14 designs this year.
-<a href='https://www.theverge.com/2020/9/22/21449826/amd-athlon-ryzen-3000-c-series-processors-chromebooks'> Source <a/>

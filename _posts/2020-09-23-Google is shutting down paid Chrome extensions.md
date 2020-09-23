@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gbd8KcSpRVizskYw7ahApfqeXic=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67450511/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google is shutting down paid Chrome extensions offered on the Chrome Web Store, the company announced today. That means that developers who are trying to monetize their extensions will have to do so with other payment-handling systems.
+<a href='https://www.theverge.com/2020/9/22/21451111/google-paid-chrome-extension-monetize-shut-down-end'> Source <a/>

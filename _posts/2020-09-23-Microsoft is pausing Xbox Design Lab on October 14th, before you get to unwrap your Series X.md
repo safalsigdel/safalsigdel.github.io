@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F4bArvoTZiITRjqz6fEeP7xxESs=/0x0:893x539/1200x800/filters:focal(376x199:518x341)/cdn.vox-cdn.com/uploads/chorus_image/image/67452709/xbox_lab_design.0.jpg' width='700px' /><br/>
+If you are planning to design your very own Xbox controller ahead of the Xbox Series X and S launch on November 10th, you might want to act fast. Microsoft is temporarily shutting down its Xbox Design Lab on October 14th.
+<a href='https://www.theverge.com/2020/9/22/21451767/xbox-design-lab-temporarily-shutting-down-october-14-microsoft'> Source <a/>

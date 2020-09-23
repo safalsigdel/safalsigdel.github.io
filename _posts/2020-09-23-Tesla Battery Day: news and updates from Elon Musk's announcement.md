@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0rPe8hqnPsv1soXqGslNq_2pakk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67452286/acastro_200918_4202_elonMuskBattery_0003.0.jpg' width='700px' /><br/>
+Tesla's “Battery Day” event, held on September 22nd, 2020, was a showcase for Elon Musk to show off his company's latest battery improvements.
+<a href='https://www.theverge.com/2020/9/22/21451469/tesla-battery-day-news-announcement-elon-musk-updates-highlights'> Source <a/>

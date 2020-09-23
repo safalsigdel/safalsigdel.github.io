@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XN3UwdxTPkuuvb4ZBxyK3uATRP8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67452008/acastro_200918_4202_elonMuskBattery_0003.0.jpg' width='700px' /><br/>
+Tesla unveiled plans Tuesday to develop a “tabless” battery that could improve an electric car's range and power. The company will produce its new batteries in-house, which Tesla CEO Elon Musk predicts will help dramatically reduce costs and allow the company to eventually sell electric vehicles for the same price as gasoline-powered ones.
+<a href='https://www.theverge.com/2020/9/22/21449238/tesla-electric-car-battery-tabless-cells-day-elon-musk'> Source <a/>

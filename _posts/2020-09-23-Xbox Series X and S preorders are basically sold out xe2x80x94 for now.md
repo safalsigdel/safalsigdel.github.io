@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6_Iy0d5ZqJ-tuIsfpq5bZvZ3pWM=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/67451624/twarren_200908_4177_0013.0.0.jpg' width='700px' /><br/>
+The initial wave of preorders for the Xbox Series X and S have sold out at all major retailers. Of course, there's still a chance that you'll find one in stock if you click through one of the many links on our preorder guide, but this morning's rush of orders seems to have scooped most of the consoles up.
+<a href='https://www.theverge.com/2020/9/22/21451464/xbox-series-x-s-preorders-sold-out-restock-amazon-best-buy-newegg-walmart-microsoft-store'> Source <a/>
