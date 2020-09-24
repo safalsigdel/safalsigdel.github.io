@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BVB4x73FonVqhSSHjUPHRByC9GM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67463025/acastro_180406_1777_facebook_Congress_0002.0.jpg' width='700px' /><br/>
+The Senate Commerce Committee has asked the CEOs of Google, Facebook, and Twitter to appear for testimony on October 1, according to a new report from Politico. It's an unusually tight timeline for such a high-profile panel, but members have indicated they may issue subpoenas if CEOs do not agree to appear by the end of the day on Thursday.
+<a href='https://www.theverge.com/2020/9/24/21454503/google-facebook-twitter-ceo-senate-commerce-panel-subpoena-date'> Source <a/>

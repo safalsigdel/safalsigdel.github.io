@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IXtCSB87q4u-KK3YDXeCI9d2-TI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67463013/msedge_X9RFhS71eu.0.jpg' width='700px' /><br/>
+Amazon has announced the fourth-generation version of its main Echo smart speaker, bringing a new spherical design and better sound performance. But the biggest change is a new, on-device speech recognition module that will locally process your audio on the Echo itself, making your requests faster than ever before.
+<a href='https://www.theverge.com/2020/9/24/21452347/amazon-echo-4th-generation-features-price-release-date-alexa'> Source <a/>
