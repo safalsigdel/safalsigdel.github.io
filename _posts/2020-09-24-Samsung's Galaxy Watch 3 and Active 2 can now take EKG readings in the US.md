@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xvvZsVTcfgjHqk8Rb9JhIePeGEQ=/0x0:5417x3611/1200x800/filters:focal(2276x1373:3142x2239)/cdn.vox-cdn.com/uploads/chorus_image/image/67455976/dseifert_200811_4139_0019.0.0.jpg' width='700px' /><br/>
-Samsung got US FDA clearance for its electrocardiogram (EKG) monitoring app in August, but today the functionality is finally rolling out to the company's latest smartwatch, the Galaxy Watch 3, as well as the Galaxy Active 2 from late 2019.
-<a href='https://www.theverge.com/2020/9/23/21452541/samsung-galaxy-watch-3-active-2-ekg-ecg-electrocardiogram-update'> Source <a/>

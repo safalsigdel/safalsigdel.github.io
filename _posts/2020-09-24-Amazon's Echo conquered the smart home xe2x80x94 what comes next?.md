@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bZKQ96i57MPZ8LKgreOjdNwwwac=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67461111/dseifert_181011_3006_1133_2.0.jpg' width='700px' /><br/>
+Amazon is gearing up for its latest hardware event where it's expected to announce its latest smart home gear. Based on prior years, we could see new Echo speakers, Alexa updates, Eero routers, Ring cameras, and more.
+<a href='https://www.theverge.com/21453169/amazon-echo-smart-home-alexa-future-what-next'> Source <a/>
