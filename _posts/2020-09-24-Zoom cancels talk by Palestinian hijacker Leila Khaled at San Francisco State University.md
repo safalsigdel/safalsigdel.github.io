@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dWNVtceAqB5_X1ISIvKDs4xop9I=/0x0:4252x2835/1200x800/filters:focal(1786x1078:2466x1758)/cdn.vox-cdn.com/uploads/chorus_image/image/67460621/463331026.jpg.0.jpg' width='700px' /><br/>
-Zoom has canceled a webinar due to be held at San Francisco State University (SFSU) this Wednesday featuring Leila Khaled, a member of the Popular Front for the Liberation of Palestine (PFLP) who took part in two plane hijackings in 1969 and 1970. YouTube and Facebook also intervened to stop the talk.
-<a href='https://www.theverge.com/2020/9/24/21453935/zoom-facebook-youtube-cancel-talk-leila-khaled-san-francisco-state-university'> Source <a/>
