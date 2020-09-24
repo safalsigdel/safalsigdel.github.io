@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MiDZAHbax2JS5-8qutp6W_18IbM=/0x0:3872x2592/1200x800/filters:focal(1627x987:2245x1605)/cdn.vox-cdn.com/uploads/chorus_image/image/67454646/524087690.jpg.0.jpg' width='700px' /><br/>
-Two years after stepping down as CEO at Blizzard, the game company he co-founded in 1991, Mike Morhaime is back with his next venture. It's called Dreamhaven, and it's a combination of a publisher and developer, with “a common goal to empower creators, help bring their ideas to life, and create original gaming experiences that foster meaningful connections between players.”
-<a href='https://www.theverge.com/2020/9/23/21452256/former-blizzard-ceo-new-game-company-dreamhaven-morhaime'> Source <a/>

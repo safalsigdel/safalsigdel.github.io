@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t7NykexRsmk8RWjHfU-Qu4msml4=/0x0:3106x1898/1200x800/filters:focal(1305x701:1801x1197)/cdn.vox-cdn.com/uploads/chorus_image/image/67457666/1228660723.jpg.0.jpg' width='700px' /><br/>
+Facebook will reject ads from Donald Trump and Joe Biden claiming victory before the winner of the US election is declared.
+<a href='https://www.theverge.com/2020/9/23/21453041/facebook-early-victory-reject-election-ads-president-trump-joe-biden'> Source <a/>

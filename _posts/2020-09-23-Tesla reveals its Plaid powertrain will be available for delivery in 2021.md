@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QmnG7efwpYK1GZLwKgha-Mmsfhs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67452320/twarren_08202017_1939_0003.0.jpg' width='700px' /><br/>
-As part of its Battery Day presentation, Tesla CEO Elon Musk showed off video of the new “Plaid” version of its Model S sedan, a step up from its “Ludicrous” model. According to the specs on Tesla's website, the long-awaited Plaid powertrain will have a range between charges of 520 miles, get from zero-to-60 in under two seconds, and a top speed of 200mph. The price is listed on Tesla's website at $139,990.
-<a href='https://www.theverge.com/2020/9/22/21451723/tesla-plaid-model-s-available-2021-specs-price-battery-day'> Source <a/>

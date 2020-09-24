@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-QkJcjO-aR94DS19tnvXOs0FVPQ=/0x0:600x450/1200x800/filters:focal(244x119:340x215)/cdn.vox-cdn.com/uploads/chorus_image/image/67459130/releaseWeek_promos3.0.jpg' width='700px' /><br/>
+The developers of the hit social deduction game Among Us just announced that they have canceled a planned sequel because of the popularity of the first game.
+<a href='https://www.theverge.com/2020/9/23/21453499/among-us-2-sequel-popular-canceled-developers-innersloth'> Source <a/>

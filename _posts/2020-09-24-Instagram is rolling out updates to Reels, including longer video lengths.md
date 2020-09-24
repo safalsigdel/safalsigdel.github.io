@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4r8vnsMnw0TIIKTx45zQsBrOjoQ=/0x0:3206x2032/1200x800/filters:focal(1347x760:1859x1272)/cdn.vox-cdn.com/uploads/chorus_image/image/67455628/Reels_IOSX_3.0.png' width='700px' /><br/>
+Instagram Reels is doubling the length of videos in a new update, allowing users to make 30-second videos instead of 15 seconds.
+<a href='https://www.theverge.com/2020/9/23/21452278/instagram-reels-update-longer-videos-length-trim-edit'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XTAlQFzkrbo0PzRZPEQAaXEjl2M=/0x0:1920x1080/1200x800/filters:focal(518x353:824x659)/cdn.vox-cdn.com/uploads/chorus_image/image/67454317/1.0.jpg' width='700px' /><br/>
-Popular video chatting app Houseparty is partnering with Michelle Obama's nonprofit, When We All Vote, to launch a new in-app game to get out the vote ahead of the November election.
-<a href='https://www.theverge.com/2020/9/23/21452219/houseparty-michelle-obama-partnership-vote-registration-nonprofit-game'> Source <a/>

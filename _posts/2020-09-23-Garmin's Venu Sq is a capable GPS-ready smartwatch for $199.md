@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ezamC9UP8vP7OjbhNHYA7EfSNuM=/0x0:2040x1360/1200x800/filters:focal(831x544:1157x870)/cdn.vox-cdn.com/uploads/chorus_image/image/67453880/venusq4.0.jpg' width='700px' /><br/>
-Garmin has announced the $199 Venu Sq and $249 Venu Sq Music Edition, two square-shaped watches with 1.3-inch (240 x 240) color LCD touchscreens protected by Gorilla Glass 3. These wearables offer many of the same features as Garmin's more expensive Venu smartwatch — for less. Both new models are available now through Garmin.com.
-<a href='https://www.theverge.com/2020/9/23/21451145/garmin-venu-sq-music-edition-smartwatch-gps-spotify-nfc-wearable-blood-oxygen'> Source <a/>

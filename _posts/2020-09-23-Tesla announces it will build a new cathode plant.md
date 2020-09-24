@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y68NywEptGfsz4buuJ0L6QQRUS0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67452212/acastro_180430_1777_tesla_0001.0.jpg' width='700px' /><br/>
-Tesla plans to build in a new cathode plant for its batteries in North America, to help reduce supply chain costs and simplify cathode production, CEO Elon Musk said today at the company's battery event.
-<a href='https://www.theverge.com/2020/9/22/21451678/tesla-new-cathode-plant-north-america-battery-day'> Source <a/>

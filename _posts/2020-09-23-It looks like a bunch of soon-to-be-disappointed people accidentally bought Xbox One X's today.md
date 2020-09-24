@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NzSUDzH5JzAs1WT8ucqZG2ME5lI=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/67452288/jbareham_171102_2108_0077.0.jpg' width='700px' /><br/>
-Today, Microsoft launched pre-orders for its upcoming next generation console, the Xbox One X. Sorry, I meant the Xbox Series X. Can you blame me? There's only one word of difference between the two names, and it's the one in the middle. There are also three X's.
-<a href='https://www.theverge.com/2020/9/22/21451624/xbox-one-x-amazon-series-x-preorder-accident'> Source <a/>

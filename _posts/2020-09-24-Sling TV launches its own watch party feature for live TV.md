@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QthyYk3nbw508Zsm33sl1lzjyR8=/0x0:1045x636/1200x800/filters:focal(440x235:606x401)/cdn.vox-cdn.com/uploads/chorus_image/image/67456289/Sling_WatchParty.0.jpg' width='700px' /><br/>
+Sling TV is joining the quarantine-era watch party bandwagon with a unique edge over the streaming services that got there first: live TV. The new feature, called Sling Watch Party,  makes Sling the first pay-TV provider to add a co-watching feature to its platform, doing so to infuse some much-needed social interaction to the now-solemn act of watching TV alone in your house or apartment during COVID-19.
+<a href='https://www.theverge.com/2020/9/23/21452744/sling-tv-watch-party-live-tv-beta-chrome-available-now'> Source <a/>

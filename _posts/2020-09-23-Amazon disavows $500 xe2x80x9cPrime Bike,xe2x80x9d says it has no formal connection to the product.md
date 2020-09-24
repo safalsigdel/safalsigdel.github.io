@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c-UNeEYhOEc-2yGy16k0Qq9WBpU=/0x0:2700x1801/1200x800/filters:focal(1134x685:1566x1117)/cdn.vox-cdn.com/uploads/chorus_image/image/67453711/1.0.jpeg' width='700px' /><br/>
-Yesterday, exercise company Echelon Fitness announced the “EX-Prime Smart Connect Bike,” or “Prime Bike” — a $500 exercise bike developed “in collaboration with Amazon.” News of the bike's launch sent the share price of smart bike maker Peloton tumbling, as traders anticipated Amazon's entry into the growing home exercise market.
-<a href='https://www.theverge.com/2020/9/23/21452145/amazon-prime-bike-500-disavow-echelon-fitness-peleton-competitor'> Source <a/>

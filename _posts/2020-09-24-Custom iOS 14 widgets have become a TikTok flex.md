@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/g8fycgNGt7NM_Q3JwjL6eMelWEA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67456424/acastro_200923_4207_tikTokHomeScreens_0002.0.jpg' width='700px' /><br/>
+The most exciting part of iOS 14 isn't picture-in-picture video display or the app library — it's widgets.
+<a href='https://www.theverge.com/2020/9/23/21452647/ios-14-widgets-tiktok-widgetsmith-home-screen-design-selling-packets-etsy'> Source <a/>

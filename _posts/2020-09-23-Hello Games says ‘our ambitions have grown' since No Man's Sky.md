@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nEkziL8_g4uAhQFeh0RYanMI56o=/0x0:3840x2160/1200x800/filters:focal(1024x826:1638x1440)/cdn.vox-cdn.com/uploads/chorus_image/image/67454378/NMS_Origins_4.0.png' width='700px' /><br/>
-It's been a long road for No Man's Sky. The game quickly went from heavily hyped to heavily criticized, after launching without many promised features. After several years of updates, however, the sci-fi game is in a good place, and it's set to change once again with today's huge Origins expansion, which doubles the amount of variety in the game and adds new features like volcanoes and a greater breadth of plant and animal life.
-<a href='https://www.theverge.com/2020/9/23/21450919/hello-games-no-mans-sky-next-game-sean-murray-interview'> Source <a/>

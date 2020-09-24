@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YNNe8FNa_IwVhormUig_pthWMd0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67452484/acastro_200918_4202_elonMuskBattery_0002.0.jpg' width='700px' /><br/>
-At Tesla's Battery Day event, CEO Elon Musk made some big announcements: the company's moves toward eliminating cobalt in its batteries, a new Plaid powertrain for the Model S that could get to speeds of 200 mph, and a new cathode plant to streamline its battery production. And, with the new battery technology, Musk has said Tesla will make a $25,000 car.
-<a href='https://www.theverge.com/2020/9/22/21450840/tesla-battery-day-production-elon-musk-tabless-range-cathode-cobalt-plaid'> Source <a/>

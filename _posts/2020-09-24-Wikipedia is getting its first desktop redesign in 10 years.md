@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Wikipedia has been an integral part of web culture for nearly twenty years, letting users browse its millions of text-heavy, crowd-sourced encyclopedia entries from their computer, tablet, or phone. Now, the overall look of Wikipedia on desktop is getting a makeover for the first time in a decade to make the site more approachable for new users.
+<a href='https://www.theverge.com/2020/9/23/21453300/wikipedia-desktop-redesign-2021'> Source <a/>

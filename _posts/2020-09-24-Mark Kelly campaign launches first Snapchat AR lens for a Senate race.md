@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/owpVjEmw8VSx5IiqEjmt-OSaZFI=/0x0:502x223/1200x800/filters:focal(203x75:283x155)/cdn.vox-cdn.com/uploads/chorus_image/image/67458210/Screen_Shot_2020_09_23_at_5.03.54_PM.0.png' width='700px' /><br/>
+As the Arizona Senate election heats up ahead of November, Democratic candidate Mark Kelly's team launched its own Snapchat account on Wednesday, including the first custom Snapchat AR lens from a Senate campaign.
+<a href='https://www.theverge.com/2020/9/23/21453234/mark-kelly-nasa-astronaut-snapchat-ar-lens-arizona-senate-race'> Source <a/>

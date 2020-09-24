@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oQIJmvjMNte4ISCGuNFRBJ57rWI=/0x0:2048x1365/1200x675/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/67453897/49996480982_870d841ea6_k.0.jpg' width='700px' /><br/>
-The next generation of PlayStation is nearly here. After more than a year of drip-feeding information about the PlayStation 5, Sony has finally laid out the price, release date, and some of the games we can expect to play at launch.
-<a href='https://www.theverge.com/21450334/playstation-5-ps5-sony-news-price-features-specs-hardware-games'> Source <a/>

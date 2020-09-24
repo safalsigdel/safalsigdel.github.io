@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xpzM5E42d1Y_14uqM37-JQsUQEY=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/67456404/1271647516.jpg.0.jpg' width='700px' /><br/>
+California Governor Gavin Newsom signed an ambitious executive order Wednesday that would ban the sale of new combustion-engine vehicles in the state starting in 2035, the Desert Sun reports. The order is part of a package of policy changes aimed at reducing greenhouse gas emissions as California deals with a rash of deadly wildfires.
+<a href='https://www.theverge.com/2020/9/23/21452825/california-ban-combustion-gas-vehicles-cars-2035'> Source <a/>

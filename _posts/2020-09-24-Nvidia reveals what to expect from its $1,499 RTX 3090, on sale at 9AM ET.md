@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ymi5NnzQrw6guJsu7TaJh1Dahvc=/0x0:1071x602/1200x800/filters:focal(451x216:621x386)/cdn.vox-cdn.com/uploads/chorus_image/image/67459227/kNmhDjg.0.png' width='700px' /><br/>
+Nvidia's RTX 3080 graphics card seemed to be the 4K gaming champ we'd been waiting for  at $699 — except most of us are still waiting a week after launch. The card was practically impossible to buy, Nvidia made some mistakes and had to fight off bots, and scalpers wound up selling them for thousands on eBay.
+<a href='https://www.theverge.com/2020/9/23/21453568/nvidia-rtx-3090-launch-release-date-performance'> Source <a/>

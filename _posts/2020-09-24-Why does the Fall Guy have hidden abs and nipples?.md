@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+I hate to bring you this news, but underneath a Fall Guy's playful, gelatinous exterior, the very being that comprises it is deeply disturbing. It has hidden abs, nipples, a human skull, and long taffy-like optic nerves, among other horrific anatomical anomalies, according to a tweet from the game's developer.
+<a href='https://www.theverge.com/tldr/2020/9/23/21453116/fall-guy-anatomy-nipples-abs-eyes-skeleton'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E8nit3wB8b76xGqokfbGdShUsX4=/0x0:1460x1198/1200x800/filters:focal(614x483:846x715)/cdn.vox-cdn.com/uploads/chorus_image/image/67456152/Screen_Shot_2020_09_23_at_1.11.10_PM.0.png' width='700px' /><br/>
+Google Maps will soon include information on COVID-19 spread in states, counties, and some cities. Toggling on the “COVID” layer in the app will show the seven-day average number of confirmed cases in each area per 100,000 people. Areas of the map will be color-coded based on case rate, and a label shows if cases are going up or down. The feature will roll out on Android and iOS this week.
+<a href='https://www.theverge.com/2020/9/23/21452661/google-maps-overlay-covid-transmission-risk-trends'> Source <a/>
