@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Sega Akihabara 2nd, the multifloor haven filled with arcade cabinets and gacha games, closed in late August after being open for 17 years. The building served as perhaps the most recognizable landmark in Tokyo's vibrant, gadget-filled Akihabara hub that attracts plenty of tourists. If you've played one of the great Yakuza games, you've probably spent time playing Sega arcade games in a virtual version of Sega's Akihabara 2nd, or something reminiscent of it.
-<a href='https://www.theverge.com/2020/9/23/21452970/sega-akihabara-tokyo-japan-closing-building-2nd-arcade-gacha'> Source <a/>
