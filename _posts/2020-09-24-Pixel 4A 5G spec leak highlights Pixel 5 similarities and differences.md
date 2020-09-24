@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RK0DLxyJAmd36RIDEK7FGHelJXM=/0x0:5902x4529/1200x800/filters:focal(2479x1793:3423x2737)/cdn.vox-cdn.com/uploads/chorus_image/image/67456427/5G_pre_announce__1_.0.jpg' width='700px' /><br/>
-Just yesterday, WinFuture shared leaked specs for the Pixel 5, which reportedly has a a Snapdragon 765G CPU, a six-inch 2340 x 1080 OLED screen with a 90Hz refresh rate, 8GB of RAM, 128GB of storage, a 4,080mAh battery, and more. Today, WinFuture is back with another set of leaks, this time revealing potential specs for the upcoming Pixel 4A 5G, and there will apparently be a lot of similarities between the two devices.
-<a href='https://www.theverge.com/2020/9/23/21452607/pixel-4a-5g-spec-leak-similar-pixel-5'> Source <a/>
