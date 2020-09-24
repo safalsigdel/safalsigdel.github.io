@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a0Vd1TuItU2db2oPszqcjqoElMg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67463239/image.0.png' width='700px' /><br/>
+At its 2020 hardware event today, Amazon announced a cloud gaming platform called Luna. The news isn't too surprising: the service has been rumored since last year, previously codenamed “Tempo,” while an Amazon-made game controller leaked out just ahead of today's event.
+<a href='https://www.theverge.com/2020/9/24/21451371/amazon-luna-cloud-gaming-service-twitch-alexa-controller'> Source <a/>
