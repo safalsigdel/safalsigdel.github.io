@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kQwWX3D3WfqiCcbqmTCRNrCSPvc=/0x0:5492x3661/1200x800/filters:focal(2307x1392:3185x2270)/cdn.vox-cdn.com/uploads/chorus_image/image/67461681/TWP3___Side.0.jpg' width='700px' /><br/>
+The TicWatch Pro 3 is the latest smartwatch from Mobvoi and the first Wear OS smartwatch to use Qualcomm's new Snapdragon Wear 4100, which promises faster performance and better battery life. The new smartwatch also adds the ability to track blood oxygen levels, features apps like TicZen stress monitoring, and has a slimmer design. It's available starting today for $299.99 (xc2xa3289.99 / xe2x82xac299.99).
+<a href='https://www.theverge.com/2020/9/24/21453945/mobvoi-ticwatch-pro-3-release-date-features-announcement'> Source <a/>
