@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2-amjBzt7et_ApOc4GTUc9THz0Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67463095/dseifert_200429_4002_0001.0.0.jpg' width='700px' /><br/>
+Ring has announced that it will soon offer the option to enable end-to-end encryption for the video feeds from its smart doorbells and connected home security cameras. This new higher level of security will be an optional feature and builds upon Ring's existing encryption features. The company says it will be available for free to all Ring customers and plans to offer the feature by the end of this year.
+<a href='https://www.theverge.com/2020/9/24/21453581/ring-end-to-end-encryption-video-neighbors-app-amazon'> Source <a/>

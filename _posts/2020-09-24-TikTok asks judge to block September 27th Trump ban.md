@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YuLj3cKlnQW8BK3nSD9kGMIO0SU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67458564/acastro_200713_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-TikTok has requested an injunction against a looming ban on its app in the United States. The company — a US subsidiary of Chinese corporation ByteDance — claims a Trump administration executive order violates its right to due process and freedom of speech. It's asking a District of Columbia judge to block a rule that would require Apple and Google to remove the app from their stores on September 27th.
-<a href='https://www.theverge.com/2020/9/23/21453301/tiktok-lawsuit-trump-ban-injunction-request-expedited-hearing'> Source <a/>
