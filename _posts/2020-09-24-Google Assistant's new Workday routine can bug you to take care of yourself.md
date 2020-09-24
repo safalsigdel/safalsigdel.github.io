@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/54pZnWCx4s85hUaPZBftcLvlc00=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/13299559/dseifert_181018_3039_1286.jpg' width='700px' /><br/>
-Google is introducing a new Workday routine that makes Google Assistant audibly remind you of calendar events and, notably, to take moments for self-care throughout the day.
-<a href='https://www.theverge.com/2020/9/23/21452404/google-assistant-workday-routine-events-self-care-breaks-reminders'> Source <a/>

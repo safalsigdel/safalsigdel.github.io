@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QbRDTI7gtxxAVaLpq_jpBz_H9sU=/0x0:2640x1748/1200x800/filters:focal(1109x663:1531x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/67460404/twarren_xboxseriesxcontroller_VLS_3596_2_1.0.jpg' width='700px' /><br/>
+Microsoft's first 1TB expandable storage drive for the Xbox Series X / S will be priced at $219.99. Best Buy has started taking preorders for the accessory, revealing a final price that had leaked recently. These expandable storage cards slot into the rear of both the Xbox Series X / S to match the internal SSD speed and provide 1TB of extra storage.
+<a href='https://www.theverge.com/2020/9/24/21453904/microsoft-xbox-series-x-1tb-expandable-storage-price-219-99'> Source <a/>
