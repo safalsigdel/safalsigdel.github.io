@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/PIwRTSBsT_3ZnP0jw4pf2dYdRvQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67463210/download.0.jpg' width='700px' /><br/>
-Amazon has unveiled a new Alexa-powered security service called Alexa Guard. The announcement came during Amazon's annual devices event on Thursday afternoon. The service will cost $4.99 per month, or $49 per year.
+Amazon has unveiled a new Alexa-powered security service called Guard Plus. The announcement came during Amazon's annual devices event on Thursday afternoon. The service will cost $4.99 per month, or $49 per year.
 <a href='https://www.theverge.com/2020/9/24/21454582/amazon-alexa-guard-plus-subscription-service-security-price-release-date'> Source <a/>
