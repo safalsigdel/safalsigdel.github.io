@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kgyG_PnikyAxKYlciU2jEq6SvMI=/0x0:4520x3271/1200x800/filters:focal(1899x1275:2621x1997)/cdn.vox-cdn.com/uploads/chorus_image/image/67461243/1200370332.jpg.0.jpg' width='700px' /><br/>
+Ava Max is holding an album launch party in an unexpected place: the virtual realm of Roblox. The pop star will be part of what's described as “a first-of-its-kind immersive album launch party and virtual fan meetup” to celebrate the release of her new album Heaven & Hell.
+<a href='https://www.theverge.com/2020/9/24/21453061/ava-max-roblox-album-launch-party'> Source <a/>

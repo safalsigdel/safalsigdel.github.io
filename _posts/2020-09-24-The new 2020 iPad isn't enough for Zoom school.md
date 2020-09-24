@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9400/DSC01948.jpg' width='700px' /><br/>
-The new 2020 edition of the iPad, now in its eighth generation, continues to be an iPad. It is very good at iPad things: watching movies, reading, browsing the web, editing photos, and so on. Starting at $329 for a 32GB version, it is a remarkable deal.
-<a href='https://www.theverge.com/21451699/apple-ipad-2020-review-eighth-generation-bionic-processor-zoom'> Source <a/>
