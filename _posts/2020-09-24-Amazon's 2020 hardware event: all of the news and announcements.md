@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/10-90lOfnkjE2vK0aLOGCtpx7n0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67462834/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
+Amazon is hosting its annual hardware event on Thursday, September 24th, at 1PM ET / 10AM PT, where we expect it to announce a bunch of gadgets. It won't be live-streamed, so, unfortunately, we can't all watch together. But The Verge's Dieter Bohn will be handling the live blog to cover the minute-to-minute announcements. We'll be adding all of the latest announcements and news to this post.
+<a href='https://www.theverge.com/2020/9/24/21453193/amazon-hardware-event-announcements-devices-news'> Source <a/>
