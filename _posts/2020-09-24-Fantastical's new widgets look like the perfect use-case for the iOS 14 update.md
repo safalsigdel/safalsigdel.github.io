@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Evb4u9EtmUoF2EkhpcSFcbofs1U=/0x0:1909x1019/1200x800/filters:focal(803x358:1107x662)/cdn.vox-cdn.com/uploads/chorus_image/image/67460756/Screen_Shot_2020_09_24_at_11.39.55_AM.0.png' width='700px' /><br/>
+Mac and iOS calendar app Fantastical has updated its software with 12 new customizable widgets. They look like the perfect use-case for iOS 14's widget support, giving users access to their calendar, events, and weather forecasts straight from the home screen.
+<a href='https://www.theverge.com/2020/9/24/21453960/fantastical-widgets-update-ios-14-calendar-events-weather'> Source <a/>

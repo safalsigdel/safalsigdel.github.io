@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3_Vl_CkLipAx6hcGJfqKwqRU0WE=/0x0:950x534/1200x800/filters:focal(399x191:551x343)/cdn.vox-cdn.com/uploads/chorus_image/image/67455760/zoom_accessibility.0.jpg' width='700px' /><br/>
-Zoom has added new accessibility features that should make the videoconference app easier to use for individuals who are deaf, hard of hearing, or who have visual impairments.
-<a href='https://www.theverge.com/2020/9/23/21452400/zoom-accessibility-features-pin-spotlight-multiple-videos-during-call'> Source <a/>

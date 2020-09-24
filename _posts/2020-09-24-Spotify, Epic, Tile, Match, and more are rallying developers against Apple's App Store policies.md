@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AgJ3Cu3xvHSTVnYEleM4iDFlYtU=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67460704/coalition.0.jpg' width='700px' /><br/>
+Several of Apple's biggest critics — including Epic Games, Spotify, Basecamp, Match Group, Tile, Blix, and Deezer — have banded together to create the Coalition for App Fairness, a new group aiming to “create a level playing field for app businesses and give people freedom of choice on their devices.”
+<a href='https://www.theverge.com/2020/9/24/21453745/spotify-epic-tile-match-coalition-for-app-fairness-apple-app-store-policies-protest'> Source <a/>
