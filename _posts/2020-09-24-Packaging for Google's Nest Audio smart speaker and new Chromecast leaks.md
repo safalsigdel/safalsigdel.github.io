@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A9xIDtFpNSfgyCtQqKOiQpBRwUs=/0x0:1526x1017/1200x800/filters:focal(641x387:885x631)/cdn.vox-cdn.com/uploads/chorus_image/image/67461027/EipLkjaU0AA5afy.0.jpg' width='700px' /><br/>
-Two of Google's products that will almost certainly be announced next week have seen their packaging leak. There's an upcoming Nest Audio smart speaker, spotted on Walmart's shelves and online at Lowe's. Meanwhile, someone else got their hands on a new TV dongle called the Chromecast with Google TV.
-<a href='https://www.theverge.com/2020/9/24/21454010/google-nest-audio-chromecast-tv-leak-packaging-walmart-price'> Source <a/>
