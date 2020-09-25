@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5nAoMgTOSulA8kGptJsrfQBQ6_Q=/0x0:2464x1378/1200x0/filters:focal(0x0:2464x1378):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21907305/Screen_Shot_2020_09_24_at_12.29.32_PM.png' width='700px' /><br/>
-LG's Wing — with its rotating dual-display system — is one of 2020's most interesting-looking smartphones. And thanks to YouTuber JerryRigEverything's teardown of the device, we now know just how LG managed to make that swiveling screen a reality.
-<a href='https://www.theverge.com/2020/9/24/21454384/lg-wing-teardown-hinge-circuit-board-display-springs-hydraulic-damper'> Source <a/>
