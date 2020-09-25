@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lECLHwMvmF4S5OibpGEaeOKJ5RA=/0x0:6000x4096/1200x800/filters:focal(2520x1568:3480x2528)/cdn.vox-cdn.com/uploads/chorus_image/image/67467172/twitter_rt_read.0.jpg' width='700px' /><br/>
+Twitter says it's working on bringing its “read the article before you retweet it” prompt to all users “soon.” The company began testing the prompt in June, which shows up when people go to retweet a story they haven't clicked through to actually read.
+<a href='https://www.theverge.com/2020/9/25/21455635/twitter-read-before-you-tweet-article-prompt-rolling-out-globally-soon'> Source <a/>
