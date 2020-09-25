@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hjFdnD0deMWOA0Kxvg-EvIkU5go=/0x0:1185x840/1200x800/filters:focal(499x326:687x514)/cdn.vox-cdn.com/uploads/chorus_image/image/67463247/image__3_.10.png' width='700px' /><br/>
-Fans of Amazon's Echo Show smart speakers will be glad to know that the company is finally adding Netflix capabilities to the device. Although Echo Show users were previously able to watch networks such as Hulu and Prime Video, the absence of the popular Netflix service could be frustrating for movie enthusiasts. Now, with the new Echo Show 10, that particular problem has been solved.
-<a href='https://www.theverge.com/2020/9/24/21454420/amazon-echo-show-10-netflix-smart-speaker'> Source <a/>

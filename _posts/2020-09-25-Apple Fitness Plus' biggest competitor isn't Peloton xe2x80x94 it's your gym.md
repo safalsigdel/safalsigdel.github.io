@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Gg1ije26YpAm07eZ8np3-VBzr18=/0x0:1960x1230/1200x800/filters:focal(824x459:1136x771)/cdn.vox-cdn.com/uploads/chorus_image/image/67467999/Apple_fitness_plus_screens_appletv_ipadpro_applewatch_iphone11_09152020.0.jpg' width='700px' /><br/>
+On September 15th, Apple announced its new at-home workout platform, Fitness Plus. That same day, Peloton tweeted, “Friendly competition is in our DNA. Welcome to the world of digital fitness, @Apple.”
+<a href='https://www.theverge.com/21454265/apple-fitness-plus-competitors-gyms-exercise-fitness-workouts-watch-bikes'> Source <a/>

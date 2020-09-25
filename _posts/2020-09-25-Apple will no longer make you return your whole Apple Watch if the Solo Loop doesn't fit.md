@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WM9Q2TpfD8p8hVK0x3jBxzzqR5s=/202x99:1089x631/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/67463634/apple_watch_solo_loop.0.png' width='700px' /><br/>
-Apple announced a new Solo Loop band with no clasps or buckles last week, but some customers found that if the watch band they ordered didn't fit, Apple would ask them to return the entire Apple Watch. At the time, that felt like a confusing request — Apple Watch bands are designed to be interchangeable, so, in theory, it should be easy to return one watch band for another without too much hassle.
-<a href='https://www.theverge.com/2020/9/24/21454693/apple-watch-solo-loop-band-fit-return'> Source <a/>

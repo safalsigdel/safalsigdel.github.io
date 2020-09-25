@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+OnePlus has axed the price of its OnePlus 8 at its own site and on Amazon, and each configuration is available now for $100 less than before. The most affordable option, with 8GB of RAM and 128GB of storage, is $599 instead of $699. Currently, you can only get this price at OnePlus.com on the “glacial green” color. The upgraded version with 12GB of RAM and 256GB of storage in the “interstellar glow” color is $699 instead of $799.
+<a href='https://www.theverge.com/good-deals/2020/9/25/21455775/oneplus-8-sale-deal-unlocked-airpods-pro-headphones'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tn2ul59guyqv0-bnI9x3ZWCHQsU=/0x0:5760x4320/1200x675/filters:focal(2420x1700:3340x2620)/cdn.vox-cdn.com/uploads/chorus_image/image/67463187/Echo_Show_10__Glacier_White__Kitchen.0.jpg' width='700px' /><br/>
-Amazon has just announced the latest iteration of its flagship smart display, the new Echo Show 10. The new model has a number of new changes and updates from the prior generation, but the one that matters the most is this: it moves.
-<a href='https://www.theverge.com/2020/9/24/21454117/amazon-new-echo-show-10-alexa-smart-display-moving-screen-price-specs-features'> Source <a/>
