@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ifl4I1cPZt1_kYEie4VtT-VVifk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67465465/dseifert_181011_3006_1135.0.jpg' width='700px' /><br/>
+Amazon unveiled a radically redesigned $49.99 fourth-generation Echo Dot smart speaker today that doesn't look like a dot at all — instead, the new Dot is shaped like a ball, or maybe an orb. The new design is a notable departure from the look of previous Echo Dots, which were short, puck-like cylinders that could be said to resemble, well, dots.
+<a href='https://www.theverge.com/2020/9/24/21455159/amazon-third-generation-echo-dot-shape-not-ball'> Source <a/>

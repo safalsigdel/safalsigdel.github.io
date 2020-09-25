@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L9Hsgxc_rtuHHNRBFl7ydzTchu4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67464331/DSCF2331_result.0.jpg' width='700px' /><br/>
+One of the nice new features of iOS 14 was the ability to set your own default mail and browser apps. However, users who tried this out were finding that, after they restarted their device, the default would reset to Mail or Safari. Today, Apple has taken care of that with its first updates for the iPhone and iPad, bringing them up to 14.0.1. The Apple Watch will also update to 7.0.1.
+<a href='https://www.theverge.com/2020/9/24/21454861/apple-ios14-iphone-ipad-fix-default-mail-browser'> Source <a/>

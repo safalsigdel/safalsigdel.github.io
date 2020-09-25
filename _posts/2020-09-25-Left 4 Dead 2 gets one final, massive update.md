@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ox4U5tomiD8l7Jr0DRjL93lh4ew=/0x0:1568x1200/1200x800/filters:focal(659x475:909x725)/cdn.vox-cdn.com/uploads/chorus_image/image/67463960/laststand_embed.0.jpg' width='700px' /><br/>
+Left 4 Dead 2, Valve's iconic zombie shooter, turns 11 next month. Today, the game gets a final, massive update — The Last Stand, created by the Left 4 Dead community update team and endorsed by Valve itself. It's also the first new content added to the game since 2012, according to Polygon. (That was the community-made DLC Cold Stream.)
+<a href='https://www.theverge.com/2020/9/24/21454718/left-4-dead-2-last-stand-update-dlc-new-content'> Source <a/>

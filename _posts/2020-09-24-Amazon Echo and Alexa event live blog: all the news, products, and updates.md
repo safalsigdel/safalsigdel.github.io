@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HoF13S6SATo8JMv9FgEczLKlzRM=/0x0:4032x3024/1200x675/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/67462790/Image_from_iOS.0.jpg' width='700px' /><br/>
-It's September, and that means it's hardware season. Amazon makes a lot of it: Echo speakers, Ring doorbells, Eero routers, and weird stuff like smart rings and boxes that are streaming DVR add-ons for the Fire TV. We're expecting updates for many of those things and maybe some weird new gadgets to boot.
-<a href='https://www.theverge.com/2020/9/24/21451702/amazon-hardware-event-live-blog-news-announcements-products'> Source <a/>

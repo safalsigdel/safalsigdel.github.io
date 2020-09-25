@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jPXAY-ktqUteadY7AhIXvvwU_60=/0x0:1248x703/1200x800/filters:focal(44x255:242x453)/cdn.vox-cdn.com/uploads/chorus_image/image/67461789/image001.0.jpg' width='700px' /><br/>
-The upcoming OnePlus 8T will support 65W fast charging via the company's new Warp Charge 65 standard, OnePlus confirmed today. The company is advertising that you'll be able to get “a day's power in 15 minutes” using the new technology, and it specifically says a 15-minute charge will restore 58 percent of the battery's power, with a full charge of the phone's 4,500mAh battery taking just 39 minutes.
-<a href='https://www.theverge.com/2020/9/24/21454145/oneplus-8t-warp-charge-65-fast-charging-65w-specs-4500-mah-battery'> Source <a/>

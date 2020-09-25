@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f3TtX-xjXoQAS0s7yjgsuQAPbxc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67464733/image__3_.0.png' width='700px' /><br/>
+Amazon revealed its new cloud gaming service, officially called Luna, at its annual Alexa hardware event today. That makes it an immediate competitor to Google's Stadia, Microsoft's xCloud, Sony's PlayStation Now, and a number of other services from major game publishers all eager to try the code on how to stream video games over the internet.
+<a href='https://www.theverge.com/2020/9/24/21454901/amazon-luna-cloud-gaming-streaming-service-cable-video-games'> Source <a/>
