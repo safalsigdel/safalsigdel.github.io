@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Jh3Oj4LQfhKMNn9QNZaQRw0Y99o=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67469201/image__11_.0.png' width='700px' /><br/>
+On Thursday, Ring, the home security subsidiary of Amazon, released a new dashcam embedded with a novel feature called “Traffic Stop” that could help bring more accountability to policing. That could be a powerful thing, especially as tens of millions of people have poured onto the streets in cities across the country to demonstrate against systemic racism, white supremacy, and police brutality. It could also be a privacy nightmare.
+<a href='https://www.theverge.com/2020/9/25/21454772/amazon-ring-car-cam-traffic-stop-police-accountability'> Source <a/>
