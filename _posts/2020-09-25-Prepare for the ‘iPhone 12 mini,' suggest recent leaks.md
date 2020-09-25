@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kiRBztYlNArqqPLxI342XM7qWNI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67467076/vpavic_042020_3980_0037.0.jpg' width='700px' /><br/>
+We're expecting Apple to announce four new iPhones later this year, and signs and portents increasingly suggest that the smallest will be named the iPhone 12 mini — a title new to the iPhone range but with a solid Apple heritage. Past and present mini Apple products include the iPod mini, iPad mini, and Mac mini. So it might be time for a mini iPhone, too.
+<a href='https://www.theverge.com/2020/9/25/21455617/iphone-12-2020-rumors-lineup-mini-max-pro-specs'> Source <a/>
