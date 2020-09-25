@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KN8AyI-5jDS7u0t4b_q1SJiipbM=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/67469690/twarren_xboxiosapp_VLS_3710_4.0.jpg' width='700px' /><br/>
+Microsoft is about to release a big Xbox app update for iOS that includes the ability to stream Xbox One games to an iPhone. A new Xbox app will arrive in the App Store soon that includes a remote play feature, which lets Xbox One console owners stream their games to an iPhone.
+<a href='https://www.theverge.com/2020/9/25/21456260/xbox-one-games-iphone-streaming-xbox-app-microsoft-features'> Source <a/>
