@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aUVbrKfMkVxaTxd8q6CTuByBeLY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67463117/acastro_180510_1777_alexa_0003.0.jpg' width='700px' /><br/>
-During Amazon's event today, the company announced a range of improvements that are coming to Alexa. The company says the voice assistant will be better at responding to multiple people, and that in other cases, it will be smarter about asking and remembering the answers to clarifying questions. Alexa is also being updated to change its tone in response to a conversation.
-<a href='https://www.theverge.com/2020/9/24/21452313/alexa-voice-assistant-ai-upgrade-amazon-echo-smart-speaker-multiple-people-tone-questions'> Source <a/>
