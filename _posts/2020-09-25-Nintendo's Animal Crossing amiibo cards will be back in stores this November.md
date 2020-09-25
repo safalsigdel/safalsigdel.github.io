@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/igHhocsFbWqscjUQVF4X-M-lb_E=/0x0:2971x2000/1200x800/filters:focal(1249x763:1723x1237)/cdn.vox-cdn.com/uploads/chorus_image/image/67469151/Eiw3qNOX0AEDnjT.0.jpeg' width='700px' /><br/>
+Nintendo is reprinting its Animal Crossing amiibo cards, and they'll be available in “select retailers” this November, the company announced today. The cards are worth collecting not just because they're cute representations of the many adorable creatures in the series — they're also one of the most efficient ways to fill your Animal Crossing: New Horizons island with your favorite neighbors.
+<a href='https://www.theverge.com/2020/9/25/21456077/nintendo-animal-crossing-amiibo-cards-series-price'> Source <a/>

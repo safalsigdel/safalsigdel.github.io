@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pyZVp-oaFFxKCYLEK9Dpv9PpQpY=/0x0:3000x1997/1200x800/filters:focal(1260x759:1740x1239)/cdn.vox-cdn.com/uploads/chorus_image/image/67463799/1209691933.jpg.0.jpg' width='700px' /><br/>
-Facebook suspended the accounts of more than 200 people on September 19th who were connected to an event protesting the construction of the contested Coastal GasLink pipeline. The suspension shows how vulnerable activists are to the actions of social media platforms in the midst of a pandemic, when protesting in person comes with more risk than usual.
-<a href='https://www.theverge.com/2020/9/24/21454554/facebook-acitivists-suspended-accounts-coastal-gaslink-pipeline'> Source <a/>
