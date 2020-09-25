@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-Samsung's Galaxy Z Flip usually costs $1,380 if you buy it new, but Back Market is selling refurbished units for $799. If you've wanted to own one of these but couldn't justify spending the equivalent of two Xbox Series X consoles and a PS5 digital edition on a phone, now's your chance to jump in.
-<a href='https://www.theverge.com/good-deals/2020/9/24/21454970/samsung-galaxy-z-flip-deal-sale-refurbished-back-market-mint-foldable-phone'> Source <a/>
