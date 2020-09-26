@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lJZ3p-QfvGwIOmf5T6pp3ye0c1s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67473950/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
+The US Commerce Department has added China's largest chipmaker, Semiconductor Manufacturing International Corporation (SMIC), to its entity list, after it determined there an “unacceptable risk” that equipment SMIC received could be used for military purposes, Reuters reported.
+<a href='https://www.theverge.com/2020/9/26/21457350/us-tightens-trade-restrictions-china-chipmaker-smic'> Source <a/>
