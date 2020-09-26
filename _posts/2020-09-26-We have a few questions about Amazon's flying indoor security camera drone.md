@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Should we invite Amazon's internet-connected cameras and voice assistants into our homes? That's been a contentious topic for years — but today, Amazon effectively said “screw it” and announced an entire automated flying indoor robot security system.
-<a href='https://www.theverge.com/tldr/2020/9/24/21454943/amazon-ring-always-home-cam-drone-security-biggest-questions'> Source <a/>

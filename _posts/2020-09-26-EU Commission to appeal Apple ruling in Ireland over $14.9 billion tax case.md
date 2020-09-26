@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mUVVkMM-CGGmWGO2YPdkzqkln3s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67470722/acastro_170731_1777_0006_v1.0.jpg' width='700px' /><br/>
+The European Commission is appealing a July court judgment in the ongoing saga of Apple's taxes in Ireland. Buckle in, this one gets a bit complicated. And it's likely to drag on for some time.
+<a href='https://www.theverge.com/2020/9/25/21456383/eu-commission-appeal-taxes-ireland'> Source <a/>

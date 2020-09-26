@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IWJdDl67wCneRde5uGpcE0SgCao=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67466607/image__3_.0.png' width='700px' /><br/>
-You might be wondering: “Did Amazon just break Apple's App Store guidelines by bringing a cloud gaming service to iPhone?” And I can understand why, given that I told you just last week how Apple doesn't permit Google Stadia in anything close to its current form, and Amazon's just-announced Luna is a lot like Stadia. Wouldn't the same rules apply?
-<a href='https://www.theverge.com/2020/9/25/21455343/amazon-luna-apple-app-store-rules-cloud-gaming-streaming-google-nvidia'> Source <a/>

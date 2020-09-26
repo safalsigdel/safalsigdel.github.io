@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0GvFgraJvkDzOauOAs0UiraBIzs=/0x0:3000x2002/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/67470239/1204248281.jpg.0.jpg' width='700px' /><br/>
+Saturday Night Live's complete library will be available to stream on NBCUniversal's streaming platform, Peacock, beginning October 1st, according to Variety and Deadline.
+<a href='https://www.theverge.com/2020/9/25/21456331/peacock-snl-saturday-night-live-seasons-streaming-premiere-hulu'> Source <a/>

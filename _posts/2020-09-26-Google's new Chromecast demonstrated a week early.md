@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jCq2rxcl0J98x-E-g1vyAAVZKkE=/0x0:6000x4000/1200x800/filters:focal(2443x620:3403x1580)/cdn.vox-cdn.com/uploads/chorus_image/image/67466905/4Fg7AOC.0.jpg' width='700px' /><br/>
-Google's new Chromecast device has leaked once again, giving us a detailed look at the TV dongle's hardware and user interface. The leak comes after Redditor u/fuzztub07 was able to buy the unannounced “Chromecast with Google TV” dongle early from a local Walmart. They've since published a series of photographs of the included hardware and its manual, as well as a video of its user interface.
-<a href='https://www.theverge.com/2020/9/25/21455606/chromecast-with-google-tv-images-hands-on-leak-user-interface-impressions-features'> Source <a/>

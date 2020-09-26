@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LP5g6hkoTayu9VSmmXbG6WXTGdE=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/67471577/msedge_X9RFhS71eu.0.jpg' width='700px' /><br/>
+Amazon announced so many gadgets at one event we had to move our Vergecast recording from Thursday to Friday. That's what the bulk of this week's show is about.
+<a href='https://www.theverge.com/2020/9/25/21456336/vergecast-podcast-423-amazon-fall-hardware-event-2020'> Source <a/>

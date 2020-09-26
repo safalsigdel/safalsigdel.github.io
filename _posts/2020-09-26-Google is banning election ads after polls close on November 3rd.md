@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/23b2bzb2Ibnht1yHXi45Y_qDiVI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67469926/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google is banning advertisers from running ads related to the election after Election Day. In an email to advertisers, the company said the change is due to the “unprecedented” number of votes that will be counted after November 3rd, as reported by Axios.
+<a href='https://www.theverge.com/2020/9/25/21456323/google-election-ad-ban-donald-trump-early-victory'> Source <a/>

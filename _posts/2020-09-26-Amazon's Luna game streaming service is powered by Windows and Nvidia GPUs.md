@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rr40j66SGuQxusZOwKzzpaRdg1k=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/67466947/N0H8PCW.0.jpeg' width='700px' /><br/>
-Amazon's new Luna cloud gaming platform is powered by Windows servers and Nvidia GPUs. Luna supports more than 100 games thanks to this Windows support, allowing developers to quickly move their existing Windows games over to an AWS instance and provide cloud streaming access to subscribers. This backend Windows support also allows publishers like Ubisoft to host their own digital services (Uplay) on Amazon's Luna platform.
-<a href='https://www.theverge.com/2020/9/25/21455610/amazon-luna-game-streaming-windows-nvidia-gpu-servers'> Source <a/>

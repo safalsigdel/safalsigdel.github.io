@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zXzVjEsFpYzbBsD_Hp3E-5Juhjg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67472087/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
+The Justice Department filed its opposition Friday to TikTok's request for an injunction against the Trump administration's looming ban of the app, and the agency pulled no punches. The DOJ says blocking the the ban would “infringe on the President's authority to block business-to-business economic transactions with a foreign entity in the midst of a declared national-security emergency.”
+<a href='https://www.theverge.com/2020/9/25/21456911/justice-department-opposes-tiktok-injunction-ban-trump-china-app'> Source <a/>
