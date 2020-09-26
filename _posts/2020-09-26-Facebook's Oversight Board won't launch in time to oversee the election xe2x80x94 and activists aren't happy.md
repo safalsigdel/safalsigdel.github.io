@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mUWWECyRaRn72cBurJk9CKc01-w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67467456/wjoel_180319_2394_facebook_006.0.0.jpg' width='700px' /><br/>
-It's been more than a year since Facebook pledged to launch its independent Oversight Board — but with the US election approaching fast, tech critics are getting antsy.
-<a href='https://www.theverge.com/2020/9/25/21454094/facebook-oversight-board-election-criticism-activists'> Source <a/>
