@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Samsung's fantastic Galaxy Buds Live, lovingly referred to as “Galaxy Beans” due to their shape, are $35 off at Woot if you're an Amazon Prime member. This brings the cost from $170 down to $135 (just make sure you're signed in with your Prime account on Woot). If you aren't a Prime member, you can still get a great deal. It's $25 off, so $145 at checkout. These sale prices will last until later tonight, unless it sells out before then.
+<a href='https://www.theverge.com/good-deals/2020/9/26/21456586/samsung-galaxy-buds-live-beans-wireless-earbuds-apple-watch-se-deal-sale'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9GTJKiIueT6s2avy-cm-JHFKTCI=/0x0:3500x2556/1200x800/filters:focal(1470x998:2030x1558)/cdn.vox-cdn.com/uploads/chorus_image/image/67473042/Polestar_Precept_034.0.jpg' width='700px' /><br/>
+In February, Chinese electric vehicle company Polestar revealed a gorgeous sedan concept called the Precept that featured a stunning design along with an interior chock-full of sustainable material. But as with most concepts, it wasn't clear whether the Precept would ever be a real car. Today, Polestar sweeps away that uncertainty by announcing that the seductive sedan will indeed be going into production.
+<a href='https://www.theverge.com/2020/9/26/21455850/polestar-precept-electric-car-concept-android-production'> Source <a/>

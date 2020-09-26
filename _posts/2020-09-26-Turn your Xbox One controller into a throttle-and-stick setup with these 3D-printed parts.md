@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Microsoft Flight Simulator has got a lot of people hankering to take to the virtual skies. But for many the experience isn't complete without a flight stick of some sort. With lots of these now sold out that can be tough. But here's a solution: 3D-printed parts that snap onto an Xbox One controller for a DIY conversion into a hands on throttle-and-stick or HOTAS.
-<a href='https://www.theverge.com/tldr/2020/9/25/21455657/xbox-one-controller-hotas-throttle-flight-stick-3d-printed-conversion-mod-microsoft-flight-simulator'> Source <a/>

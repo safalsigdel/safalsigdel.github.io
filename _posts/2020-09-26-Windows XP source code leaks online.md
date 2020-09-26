@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PY_e9m8QkWgc_ZAqluHoLtmoXwg=/0x0:3000x1851/1200x800/filters:focal(1260x686:1740x1166)/cdn.vox-cdn.com/uploads/chorus_image/image/67467268/1169550.jpg.0.jpg' width='700px' /><br/>
-Microsoft's source code for Windows XP and Windows Server 2003 has leaked online. Torrent files for both operating systems' source code have been published on various file sharing sites this week. It's the first time source code for Windows XP has leaked publicly, although the leaked files claim this code has been shared privately for years.
-<a href='https://www.theverge.com/2020/9/25/21455655/microsoft-windows-xp-source-code-leak'> Source <a/>
