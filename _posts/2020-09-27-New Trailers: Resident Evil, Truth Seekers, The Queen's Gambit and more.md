@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fEDLnKqRcP91gavZSsoa23_1EGI=/0x0:1465x926/1200x800/filters:focal(616x346:850x580)/cdn.vox-cdn.com/uploads/chorus_image/image/67477396/resident_evil.0.jpg' width='700px' /><br/>
+No spoilers, but I started Enola Holmes and I absolutely love Millie Bobby Brown in it, she's so charming. The looking-right-at-the-camera bit which I usually dislike (except for Fleabag!) actually works really well to give us her inner thoughts. Will report back once I've finished, but so far, it's a refreshing reboot of the sometimes-stodgy Sherlock Holmes universe.
+<a href='https://www.theverge.com/2020/9/27/21458335/new-trailers-resident-evil-truth-seekers-queens-gambit-netflix-amazon'> Source <a/>
