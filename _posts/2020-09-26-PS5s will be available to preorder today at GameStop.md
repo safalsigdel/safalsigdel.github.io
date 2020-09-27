@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M6MUUInPTpLilXclTvPD_c5Ue6o=/0x0:2450x1628/1200x800/filters:focal(1029x618:1421x1010)/cdn.vox-cdn.com/uploads/chorus_image/image/67464109/ps5.0.png' width='700px' /><br/>
-Let's be honest: trying to preorder a PS5 has been anything but easy. That said, if you want to try to secure Sony's next-gen console ahead of its November 12th launch, you'll have another shot at nabbing one at GameStop. Both models of the PS5 will be in stock on GameStop's website, though the retailer has yet to mention what time it will open preorders online.
-<a href='https://www.theverge.com/2020/9/24/21454637/ps5-playstation5-preorder-restock-gamestop-date'> Source <a/>

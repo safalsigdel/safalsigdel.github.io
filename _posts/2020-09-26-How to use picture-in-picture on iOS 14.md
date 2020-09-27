@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NykvBkdINvmUTV7N-SgU044T1XE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67467720/acastro_190218_1777_apple_streaming_0003.0.jpg' width='700px' /><br/>
-Even when you're using a phone, with its relatively small screen, being able to watch a video using Picture-in-Picture (PiP) can be very handy. You can have a music video playing while you're checking your Twitter feed, or chat with a friend while watching a favorite movie. In iOS 14, Apple has now made it possible to use PiP on your iPhone or iPad. And using it is extremely simple.
-<a href='https://www.theverge.com/21451195/apple-iphone-ipad-pip-picture-in-picture-how-to-use-youtube'> Source <a/>

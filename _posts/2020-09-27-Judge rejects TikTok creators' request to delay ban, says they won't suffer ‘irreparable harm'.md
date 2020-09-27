@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a_WV3SXi56vc4W6WjN7SJ_FO-i8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67476552/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+A judge in Pennsylvania has rejected a request from three TikTok content creators to temporarily block a ban on the app set to go into effect Sunday night, which would bar new downloads from Google and Apple's app stores in the US.
+<a href='https://www.theverge.com/2020/9/27/21458242/judge-rejects-tiktok-creators-request-ban-says-they-wont-suffer-irreparable-harm'> Source <a/>

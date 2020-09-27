@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hnjh6TGLJsmiDffmPjEudxGkh3I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67474113/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
+Google said in April it would allow unlimited-length meetings in its Google Meet video chat platform for all users until September 30th, and it looks like the company is sticking with that timeline. After September 30th, free versions of Meet will be limited to meetings no longer than 60 minutes.
+<a href='https://www.theverge.com/2020/9/26/21457293/google-meet-limit-meeting-free-plans-september-zoom'> Source <a/>
