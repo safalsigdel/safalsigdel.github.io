@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8KYfpvNRl7szqlUfywha1CFlkIA=/0x0:2051x1367/1200x675/filters:focal(888x424:1216x752)/cdn.vox-cdn.com/uploads/chorus_image/image/67468043/VRG_4203_Oculus_001.0.jpg' width='700px' /><br/>
-Facebook's Connect conference is one of the biggest days of the year for virtual reality. But in 2020, developer Guy Godin was nervous.
-<a href='https://www.theverge.com/21455665/facebook-oculus-vr-indie-developers-power-monopoly-concerns'> Source <a/>
