@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q-dcm3aUwbFEMOc5sPyW3XrdH_w=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67480944/akrales_200916_4186_0149.0.0.jpg' width='700px' /><br/>
+I've never been interested in buying a smartwatch. I'm fine getting notifications on my phone, and I don't want to obsessively monitor my step count. I stick with my normal, analog watch, where I can check the time without seeing email notifications or getting sucked into Instagram.
+<a href='https://www.theverge.com/21455863/withings-scanwatch-review-health-sleep-features-price'> Source <a/>
