@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b8cIXDDggPWWm_YzXsR-2XRhw6E=/0x0:1000x666/1200x800/filters:focal(420x253:580x413)/cdn.vox-cdn.com/uploads/chorus_image/image/67480207/Samsung_Tab_Active3_PR_main1F.0.jpg' width='700px' /><br/>
+Samsung's Galaxy Tab Active 3 is a new rugged tablet designed for tough environments, the company announced today. Alongside more typical features like an IP68 rating for dust and water resistance, the tablet can survive drops of up to 1.5 meters. It's also backed by Samsung's promise to support “up to three generations of Android OS upgrades.”
+<a href='https://www.theverge.com/2020/9/28/21459565/samsung-galaxy-tab-active-3-rugged-android-tablet-gloves-lte-wifi-6'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TZ2EA62Yo69aw8YmnNgvFmyJQ58=/0x0:2638x1490/1200x800/filters:focal(1108x534:1530x956)/cdn.vox-cdn.com/uploads/chorus_image/image/67468714/Screen_Shot_2020_09_25_at_9.17.35_AM.0.png' width='700px' /><br/>
-Apple has quietly removed the 5W USB charging brick that it had been previously including with its pricier Apple Watch Edition and Apple Watch Hermxc3xa8s models, bringing the luxury models in line with the remainder of the company's lineup, as spotted by MacRumors.
-<a href='https://www.theverge.com/2020/9/25/21455726/apple-removes-charging-brick-watch-edition-hermes-model-environment'> Source <a/>
