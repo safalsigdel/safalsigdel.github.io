@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hSdxQW_lUdAh4p_HsvYA71_rtKY=/0x0:1870x818/1200x800/filters:focal(786x260:1084x558)/cdn.vox-cdn.com/uploads/chorus_image/image/67480796/farmville.0.jpg' width='700px' /><br/>
+If you want to harvest those apples, you better get on it soon: Zynga is shutting down its original FarmVille web game on Facebook at the end of the year, the company announced. It's not entirely unexpected news; Facebook said in July it would no longer support Flash games as of December 31st, the same date Adobe is killing the Flash player altogether.
+<a href='https://www.theverge.com/2020/9/28/21459607/original-farmville-facebook-shut-down-flash-zynga'> Source <a/>
