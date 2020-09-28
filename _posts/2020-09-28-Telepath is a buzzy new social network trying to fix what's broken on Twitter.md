@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8oGLPkmi7E29DstcNvnq6FlZOis=/0x0:4320x3072/1200x800/filters:focal(1815x1191:2505x1881)/cdn.vox-cdn.com/uploads/chorus_image/image/67468724/Telepath.0.png' width='700px' /><br/>
-In July, amid the rise of the buzzy audio-only social network Clubhouse, some users reported being harassed by other members. This seemed obviously bad, but at the time the company had no guidelines about how users should behave on the site. Moderation duties were left to the two co-founders, then the company's only employees, and it's fair to say that enforcement was not their full-time focus.
-<a href='https://www.theverge.com/interface/2020/9/25/21454441/telepath-app-beta-richard-henry-marc-bodnick-quora-content-moderation-kindness'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/stMO_12qEC_EzmuddIdN9oMYhFc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67468790/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
-Earlier this year, Facebook launched a new feature that let small businesses create paid online events. The company framed it as a way of helping organizations struggling with lost revenue during the pandemic, and said that because of the exceptional circumstances, it would not collect any fees on purchases for these events until August 2021.
-<a href='https://www.theverge.com/2020/9/25/21455598/facebook-paid-events-apple-ios-30-percent-fees-waived'> Source <a/>
