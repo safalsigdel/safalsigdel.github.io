@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wiIAQx1BRdHqnIrI_UMvClf2Ass=/0x0:1280x1270/1200x800/filters:focal(538x533:742x737)/cdn.vox-cdn.com/uploads/chorus_image/image/67480788/shutterstock_1017758101_with_xs9300nt_1280x1280.0.jpeg' width='700px' /><br/>
+Dell has announced new refreshes to its XPS 13 and XPS 13 2-in-1. Both are powered by Intel's 11th Gen Tiger Lake processors and will be available in the US and Canada on September 30th (and more countries in the coming weeks). The XPS 13 starts at $999; the 2-in-1 starts at $1,249. The new XPS was first teased onstage at Intel's Tiger Lake launch earlier this month.
+<a href='https://www.theverge.com/2020/9/28/21456034/dell-xps-13-2in1-2020-features-price-release-date'> Source <a/>
