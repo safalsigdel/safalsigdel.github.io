@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kCOARa6Gux2GoSY7lwXnNYzC6PY=/0x0:640x264/1200x0/filters:focal(0x0:640x264):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19568241/proc_newsletter_header.png' width='700px' /><br/>
-“I'd be more worried about the camera on your phone than I would be about a drone,” Amazon devices SVP Dave Limp told me in an interview a few hours after yesterday's big Echo event. The drone in question is the Ring Always Home Cam, an autonomous indoor drone that can use a map of your home to independently fly around to check out strange noises or run a patrol when you're not home.
-<a href='https://www.theverge.com/2020/9/25/21455197/amazon-ring-drone-home-security-surveillance-sidewalk-halo-privacy'> Source <a/>
