@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Grx0Tm-cwZOczNTMoqqtdiS6GN4=/0x0:5902x4529/1200x800/filters:focal(2479x1793:3423x2737)/cdn.vox-cdn.com/uploads/chorus_image/image/67551433/5G_pre_announce__1_.0.jpg' width='700px' /><br/>
+Fall hardware season is in full swing, and tomorrow, Google will be showing off some new products at its “Launch Night In” event. The company has already officially announced some of what we'll see: Google will be telling us more about new Pixel smartphones (the Pixel 5 and Pixel 4A 5G), as well as a new Chromecast and a new Nest smart speaker.
+<a href='https://www.theverge.com/2020/9/29/21455547/google-pixel-5-event-4a-5g-chromecast-nest-rumors'> Source <a/>
