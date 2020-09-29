@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PJcTOOCsAEa1Va5ZncILMBU2Z70=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67549191/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
+If you're with any major US phone carrier other than Verizon, you'll know you couldn't mix and match phone plans between different lines on your account. Starting today, AT&T is finally allowing customers to mix and match which unlimited plan they choose and potentially save some money on their phone bill each month, with a program it's calling Unlimited Your Way.
+<a href='https://www.theverge.com/2020/9/28/21471022/att-unlimited-plans-mix-and-match'> Source <a/>

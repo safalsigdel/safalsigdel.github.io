@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rb4NF8oQuVKYhKDyopwM-fxXrn4=/0x0:720x643/1200x800/filters:focal(270x249:384x363)/cdn.vox-cdn.com/uploads/chorus_image/image/67549268/Halo_with_display_on.0.jpg' width='700px' /><br/>
+Bang & Olufsen's Beoremote Halo is beautiful & expensive, but it's not totally clear why it's necessary, or what it actually... is. Here's what we do know: It costs $900, and is a round device with a rectangular touch screen that lets you control the Bang & Olufsen music system you obviously have in your home. And of course it looks sexy as hell because B&O doesn't do ugly.
+<a href='https://www.theverge.com/2020/9/28/21492336/bang-olufson-beoremote-halo-expensive'> Source <a/>

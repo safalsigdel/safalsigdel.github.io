@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wsrKS5I6ZBXyqoVLt41WDY9SxQA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67509696/acastro_200318_1777_discord_0002.0.0.jpg' width='700px' /><br/>
+The surprise success of InnerSloth's game Among Us was one of the bigger Twitch stories that happened this summer: over the last month, the game shot up a full 650 percent in hours watched on the site. (It has gotten so popular so suddenly that the developers at InnerSloth have canceled Among Us 2 to focus more on the first game.)
+<a href='https://www.theverge.com/2020/9/28/21473602/among-us-downloads-discord-app-record'> Source <a/>

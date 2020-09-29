@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zI3m253JFm1-t0WcIV23PilXHiU=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/67471918/twarren_200909_4177_0029.0.0.jpg' width='700px' /><br/>
-Last week, Amazon informed customers who had pre-ordered the PS5 that they might not actually get their consoles on launch day, and now, Amazon has started to tell people that pre-ordered the Xbox Series X that they might not get that console right when it's out, either, according to reports shared on Twitter Friday evening.
-<a href='https://www.theverge.com/2020/9/25/21456840/amazon-xbox-series-x-preorder-customers-consoles-launch-day-delay'> Source <a/>

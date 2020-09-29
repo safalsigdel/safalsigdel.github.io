@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YM1Bkssvjv7Ku8ZGZbkqQ4ZIVfE=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/67471847/twarren_windowsxpsqualeak.0.jpg' width='700px' /><br/>
-Microsoft created a secret Windows XP theme that made the operating system look more like a Mac. A recent Windows XP source code leak has revealed Microsoft's early work on the operating system and some unreleased themes the company created during its early XP development back in 2000.
-<a href='https://www.theverge.com/2020/9/25/21456525/microsoft-windows-xp-theme-mac-aqua'> Source <a/>

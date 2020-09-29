@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/at1F5Pn-uPDzht8i3kZuoDdyn_I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67548103/acastro_180109_1777_0001_v2.0.jpg' width='700px' /><br/>
+Health care provider Universal Health Services, one of the largest chains in the US, has been hit by an apparent ransomware attack, TechCrunch reported. UHS facilities in California, Florida, North Dakota, Arizona, and other locations began noticing problems early Sunday, with some locations reporting locked computers and phone systems.
+<a href='https://www.theverge.com/2020/9/28/21482304/ransomware-outage-hospital-chain-cybersecurity'> Source <a/>

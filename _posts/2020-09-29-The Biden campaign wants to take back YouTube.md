@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s-jyyuKKWU9HQ8Wkje_d4WhljLA=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67548087/VRG_ILLO_4211_001.0.jpg' width='700px' /><br/>
+On Tuesday night, Joe Biden and Donald Trump will face off in the first presidential debate of the 2020 cycle, and cable channels will be lit up with analyses of which candidate beat expectations and which lines landed best with audiences at home.
+<a href='https://www.theverge.com/21489979/biden-trump-presidential-dabate-election-youtube-ben-shapiro-dave-rubin'> Source <a/>

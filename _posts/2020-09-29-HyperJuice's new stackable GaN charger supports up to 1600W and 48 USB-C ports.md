@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Hyper, a gadget maker known best for its small and ultra-fast gallium nitride (GaN) chargers under the HyperJuice brand, is back on Kickstarter with a new plug that's even more impressive than its last: a stackable GaN charger that can support an eye-popping 1600W of passthrough power. This follows Hyper's first 100W GaN charger released via Kickstarter last fall and made available for purchase back in July.
+<a href='https://www.theverge.com/2020/9/28/21492491/hyperjuice-stackable-gan-charger-100-watts-kickstarter-available-now-pricing-release-date'> Source <a/>
