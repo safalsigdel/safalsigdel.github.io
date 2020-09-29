@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-ObDhgdNKGPvbQ21UxS4mI6YyH8=/0x0:2380x930/1200x800/filters:focal(1113x233:1493x613)/cdn.vox-cdn.com/uploads/chorus_image/image/67550931/pasted_image_0.0.png' width='700px' /><br/>
+On Tuesday, Biden for President's Florida Digital Organizing team will be activating thousands of supporters and volunteers ahead of the first presidential debate. The team will be hosting virtual livestreams and reaching out to voters on Twitter through their specialized social canvassing app, part of a specialized digital effort to organize in one of the most important battleground states this election.
+<a href='https://www.theverge.com/2020/9/29/21492578/biden-florida-presidential-debate-battleground-state-digital-doorknocking'> Source <a/>
