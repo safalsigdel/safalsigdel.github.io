@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IfeBmtdtkTu4r7jrGfcCR3c6iSQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67480040/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
-Uber has won its appeal aftertlosing its license to operate in London, Bloomberg reports. A judge ruled that the service is “fit and proper” and should be allowed to operate in the capital. The company has been granted a license to operate for 18 months. Uber had been allowed to continue operating in London throughout the appeals process.
-<a href='https://www.theverge.com/2020/9/28/21459546/uber-london-appeal-ban-fit-and-proper-transport-for-london-tfl'> Source <a/>
