@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b0khYoTOZw2Nlb3iPlFekqkCNUI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67509365/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
-Google is outlining new changes to its developer policies and promising to make using third-party app stores easier on Android 12. The announcement addresses recent concerns around Android app development, including a fight over alternate in-app payment systems and difficulties for businesses moving online because of COVID-19.
-<a href='https://www.theverge.com/2020/9/28/21472139/google-android-12-app-store-installation-payment-fees'> Source <a/>
