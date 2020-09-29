@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/szbHmvrqHwuC_xM_RE1IV9XVpWs=/0x0:1400x786/1200x800/filters:focal(401x265:625x489)/cdn.vox-cdn.com/uploads/chorus_image/image/67553487/hbo_max.0.jpeg' width='700px' /><br/>
+HBO Max hasn't been available on Roku devices since the new streaming service launched at the end of May, but with Roku soon adding support for Apple AirPlay 2 to many of its 4K devices and TVs, there will be a workaround.
+<a href='https://www.theverge.com/2020/9/29/21493758/roku-hbo-max-airplay-streaming-warnermedia-peacock-apple'> Source <a/>
