@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MGxUbMTplUfOjSAe6yX5ZZQc5Fs=/0x0:1695x1130/1200x0/filters:focal(0x0:1695x1130):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21920365/Screen_Shot_2020_09_29_at_15.13.53.png' width='700px' /><br/>
-Adobe is adding a new advanced color grading feature to Lightroom, Lightroom Classic, and Camera Raw, bringing a tool more commonly associated with video and cinema editing to its pro photography apps.
-<a href='https://www.theverge.com/2020/9/29/21493045/adobe-lightroom-advanced-color-grading-announced'> Source <a/>
