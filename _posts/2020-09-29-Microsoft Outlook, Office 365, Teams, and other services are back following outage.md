@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u6yQrh738LQ_1UQLVboF0uzrhh8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67549545/acastro_180507_1777_microsoft_0003.0.jpg' width='700px' /><br/>
-Some Microsoft services, including Outlook, Office 365, and Microsoft Teams, experienced a multi-hour outage on Monday, but the issues have been resolved, according to the company.
-<a href='https://www.theverge.com/2020/9/28/21492688/microsoft-outlook-office-teams-azure-outage-down'> Source <a/>

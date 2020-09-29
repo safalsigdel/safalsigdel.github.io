@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tgm9G-PUT2jG4ZvzCQQDuzxBHsk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67549519/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google is rolling out its impressive noise cancelation in Google Meet to Android and iOS, but unfortunately, it won't be available to everybody — you have to be a G Suite Enterprise or G Suite Enterprise for Education customer to take advantage of the handy feature, Google says. Google rolled this out first for the web in June.
-<a href='https://www.theverge.com/2020/9/28/21492648/google-meet-noise-cancelation-ios-android'> Source <a/>
