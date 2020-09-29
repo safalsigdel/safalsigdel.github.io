@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DrXa314LHoBCdIVj8e-Q7PvF7Oo=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/67550650/EjEBNYNUYAAuYVB.0.jpeg' width='700px' /><br/>
+Xiaomi has announced a wide range of new products for India under the tagline “smarter living,” further pushing the devices in its ecosystem beyond smartphones. Some of them have already gone on sale in China in altered form, but they're all new for India.
+<a href='https://www.theverge.com/2020/9/29/21493070/xiaomi-mi-watch-revolve-smart-band-5-speaker-shoes-soap-india'> Source <a/>
