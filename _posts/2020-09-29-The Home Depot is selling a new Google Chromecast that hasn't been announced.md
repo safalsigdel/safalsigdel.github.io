@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FCTPjztU3scuey6Y6hw22xtX7g0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67483489/Image_from_iOS.0.jpg' width='700px' /><br/>
-Google's Pixel 5 event is scheduled for this Wednesday, but some of the company's other new gadgets are already appearing on store shelves. That includes its all-new Chromecast, which some savvy buyers have been able to purchase directly in-store from retailers like Walmart and The Home Depot over the course of the last week.
-<a href='https://www.theverge.com/2020/9/28/21459849/google-chromecast-new-remote-home-depot-early-sale-pre-release-leak'> Source <a/>
