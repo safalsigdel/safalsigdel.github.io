@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v-Qx2GK8l3YJ6myBl0G_afGJOy4=/0x0:1520x600/1200x800/filters:focal(639x179:881x421)/cdn.vox-cdn.com/uploads/chorus_image/image/67552762/duracell_child_safety_initiative_hero_002.0.jpg' width='700px' /><br/>
+Duracell is trying to make its coin cell batteries a little less enticing to eat: the company is adding a new bitter coating to its 2032, 2025, and 2016 size lithium coin batteries, with the aim of discouraging young children from accidentally eating the otherwise (apparently) irresistible-looking batteries.
+<a href='https://www.theverge.com/2020/9/29/21493443/duracell-new-coin-batteries-bitter-coating-taste-terrible-child-protection'> Source <a/>
