@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FQyHW9ZRwQiPjpVgOeOrXHIF7zM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67551754/XGP_EAPlay_HERO.0.jpg' width='700px' /><br/>
+Xbox Game Pass Ultimate subscribers will get access to EA Play just in time for Microsoft's next-gen console launch. EA Play is arriving on Xbox Game Pass Ultimate on November 10th, the same day that Microsoft launches both the Xbox Series X and Xbox Series S consoles. Only Xbox Game Pass Ultimate subscribers ($14.99 per month) will get access to EA Play, alongside the xCloud and bundled Xbox Live Gold benefits.
+<a href='https://www.theverge.com/2020/9/29/21493265/ea-play-xbox-game-pass-release-date-subscription'> Source <a/>
