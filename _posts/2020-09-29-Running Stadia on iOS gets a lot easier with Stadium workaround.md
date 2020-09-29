@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XYihcX5qwFBFFJZp-0pkwki417U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67550751/akrales_181019_3014_0106_update.0.jpg' width='700px' /><br/>
+A new browser app which you can download directly from the App Store provides a relatively simple way to play Google Stadia on iPhones and iPads, Engadget reports. Apple's rules currently mean that game streaming services like Stadia, xCloud, and GeForce Now are not yet officially available on iOS or iPadOS.
+<a href='https://www.theverge.com/2020/9/29/21493098/stadia-ios-browser-hack-reddit-stadium-app-store-apple-ipad-iphone-ipados'> Source <a/>
