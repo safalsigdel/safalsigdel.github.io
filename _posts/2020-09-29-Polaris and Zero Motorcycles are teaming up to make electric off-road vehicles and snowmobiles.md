@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KVW9nrt6tzFaqLtJijt0seZv080=/0x0:4000x2642/1200x800/filters:focal(1680x1001:2320x1641)/cdn.vox-cdn.com/uploads/chorus_image/image/67550737/1178638806.jpg.0.jpg' width='700px' /><br/>
+Minnesota-based power sports outfit Polaris is teaming up with Zero Motorcycles to co-develop electric vehicles, including ATVs and snowmobiles. The two companies have signed an “exclusive, 10-year agreement,” which Polaris said will help kick off an effort to have an electric version of every vehicle type the company offers by 2025.
+<a href='https://www.theverge.com/2020/9/29/21473587/polaris-zero-motorcycles-electric-ev-off-road-vehicle-snowmobiles'> Source <a/>
