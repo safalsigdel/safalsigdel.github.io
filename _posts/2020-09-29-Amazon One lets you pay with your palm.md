@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mbGYrSL4fUlr14wgVz6f7yPjpCc=/0x0:1440x650/1200x800/filters:focal(613x27:843x257)/cdn.vox-cdn.com/uploads/chorus_image/image/67550709/90.0.jpeg' width='700px' /><br/>
-Amazon is unveiling its own palm recognition technology today that will be used initially to turn your hand into a personal credit card inside the company's physical retail stores. Amazon One uses the palm of your hand to identify you, using a combination of surface-area details like lines and ridges, alongside vein patterns to create a “palm signature.”
-<a href='https://www.theverge.com/2020/9/29/21493094/amazon-one-palm-recognition-hand-payments-amazon-go-store'> Source <a/>

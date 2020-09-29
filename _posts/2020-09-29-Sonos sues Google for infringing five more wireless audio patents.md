@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HjxblRrBChzTpqqSchEI-MDojzY=/0x0:2040x1360/1200x800/filters:focal(696x503:1022x829)/cdn.vox-cdn.com/uploads/chorus_image/image/67553331/bfarsace_190826_3621_0021.0.jpg' width='700px' /><br/>
+Sonos has filed another patent lawsuit against Google, alleging that the search giant is infringing five wireless audio patents across the entire line of Nest and Chromecast products. The move comes on the eve of Google's fall hardware event on September 30th, where it is expected to announce a new Chromecast and Nest smart speaker alongside new Pixel phones.
+<a href='https://www.theverge.com/2020/9/29/21492671/sonos-google-patents-infringement-lawsuit-wireless-audio'> Source <a/>
