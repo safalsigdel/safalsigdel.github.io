@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cLMCa3f-bL6akl3KieMcKvil8Pw=/0x0:5021x3351/1200x800/filters:focal(2110x1275:2912x2077)/cdn.vox-cdn.com/uploads/chorus_image/image/67550832/20_TP_X1_Fold.0.jpg' width='700px' /><br/>
+Lenovo has announced a ThinkPad like no ThinkPad you've ever seen before: the ThinkPad X1 Fold. Think Samsung's Galaxy Fold, but a 13-inch OLED laptop screen. It's available for preorder now, starting at $2,499.
+<a href='https://www.theverge.com/2020/9/29/21473735/lenovo-thinkpad-x1-fold-foldable-pc-nano-thinkbook-5g-tiger-lake-intel-evo'> Source <a/>
