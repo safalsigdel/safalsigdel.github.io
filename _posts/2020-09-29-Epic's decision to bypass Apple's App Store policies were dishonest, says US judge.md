@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ymVMrsNX1Z9azlvW0FU-137W62k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67550874/vpavic_180607_2652_0089.0.jpg' width='700px' /><br/>
+A US judge hearing arguments in Epic's antitrust lawsuit against Apple has criticized the game developer's decision to breach its contract with the iPhone maker by pushing a version of Fortnite with a custom payment system onto the App Store. The decision resulted in Apple removing Fortnite from the App Store.
+<a href='https://www.theverge.com/2020/9/29/21493096/epic-apple-antitrust-lawsuit-fortnite-app-store-court-hearing'> Source <a/>

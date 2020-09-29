@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/94FnX8HFAOqVbjt8yXBcI5a9BKE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67479742/acastro_181114_1777_amazon_hq2_0002.0.jpg' width='700px' /><br/>
-Prime Day, Amazon's annual deals extravaganza, will run from October 13th-14th, the company announced today. Amazon says the two-day shopping event will feature “over one million deals across every category,” including brands like Panasonic, Roborock, Keurig, Under Armour, Coleman, Adidas, Lacoste, Marvel, Ticwatch, and more.
-<a href='https://www.theverge.com/2020/9/28/21453363/amazon-prime-day-kicks-off-start-date-october-13th-deals'> Source <a/>
