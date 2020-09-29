@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nzjeBoapvc9m9V_vNi3CuxvtYxw=/0x0:5037x3358/1200x800/filters:focal(2117x1277:2921x2081)/cdn.vox-cdn.com/uploads/chorus_image/image/67553240/fbaccountcenter.0.jpg' width='700px' /><br/>
+Facebook is making it easier for people to post across Facebook properties and pay for purchases they make on all its platforms. The company's new Accounts Center, which it announced as a test today, will let people cross-post content across Facebook, Instagram, and Messenger.
+<a href='https://www.theverge.com/2020/9/29/21493760/facebook-accounts-center-instagram-messenger-pay'> Source <a/>
