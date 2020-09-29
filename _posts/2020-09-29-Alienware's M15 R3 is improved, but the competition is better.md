@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kWS5ghzt0ALR8WRnrzt9L1OBydw=/0x0:2040x1360/1200x800/filters:focal(983x480:1309x806)/cdn.vox-cdn.com/uploads/chorus_image/image/67551876/cfaulkner_200826_4165_0005.0.0.jpg' width='700px' /><br/>
+Alienware's M15 R3 is a solid gaming laptop to introduce, or reintroduce, yourself to what the Dell-owned company is capable of these days. It's a big improvement over the design of the original M15 released a few years ago, brushing away some of the try-hard LEDs and angular design for a thinner and more sophisticated look.
+<a href='https://www.theverge.com/21459895/alienware-m15-r3-gaming-laptop-review-intel-rtx-nvidia-15-inch'> Source <a/>
