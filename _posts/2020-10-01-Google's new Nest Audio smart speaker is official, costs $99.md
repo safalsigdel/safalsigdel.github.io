@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/90xmGuUg4DlRUp23xGl4Rf822K0=/0x0:924x744/1200x800/filters:focal(425x356:571x502)/cdn.vox-cdn.com/uploads/chorus_image/image/67560094/lcimg_02bce13e_6488_4c34_ab2b_f01dc1c23986.0.jpg' width='700px' /><br/>
-Google has officially announced the new Nest Audio smart speaker, the latest in its line of smart speakers powered by the Google Assistant. The Nest Audio replaces the original Google Home from 2016 as Google's midrange smart speaker, slotting above the Nest Mini and below the Nest Max in the lineup. It costs $99.
-<a href='https://www.theverge.com/2020/9/30/21492407/google-nest-audio-smart-speaker-assistant-price-specs-features-release-date'> Source <a/>
