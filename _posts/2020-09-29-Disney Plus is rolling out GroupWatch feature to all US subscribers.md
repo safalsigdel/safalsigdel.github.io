@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6pqoDAwpCs5f0th3Z2jP-LLv9wQ=/0x0:934x536/1200x800/filters:focal(393x194:541x342)/cdn.vox-cdn.com/uploads/chorus_image/image/67551342/Screen_Shot_2020_09_28_at_2.56.31_PM.0.png' width='700px' /><br/>
-Disney Plus is rolling out its party watch feature, GroupWatch, to subscribers in the US after previous testing in other countries this month.
-<a href='https://www.theverge.com/2020/9/29/21492148/disney-plus-groupwatch-friends-family-us-subscribers-scener-netflix'> Source <a/>

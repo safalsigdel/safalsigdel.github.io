@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mh9FtWzpMiq-fQHY7ybjhIqpU5U=/0x0:1920x1080/1200x800/filters:focal(370x260:676x566)/cdn.vox-cdn.com/uploads/chorus_image/image/67555396/screencap.0.png' width='700px' /><br/>
+All indications point to Google announcing its latest Chromecast during tomorrow's hardware event. And I managed to buy one yesterday even before the “official” unveiling. So I can now confirm that, as the rumors and leaks have made clear over the last few weeks, this isn't the Chromecast that most consumers are familiar with.
+<a href='https://www.theverge.com/2020/9/29/21494298/chromecast-google-tv-preview-android-features'> Source <a/>

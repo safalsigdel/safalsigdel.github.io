@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b4tBwEA0U178eLWxKXeJsVbem9E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67551825/dseifert_200927_4212_0002.0.0.jpg' width='700px' /><br/>
-Yale's Smart Delivery Box, which was first announced at CES earlier this year, is now available for purchase. The box, which is designed to sit on your porch as a safe place for packages to wait for you until you retrieve them, is available in two different designs ranging in price from $229.99 to $329.99, depending on whether you want Yale's smart keypad.
-<a href='https://www.theverge.com/21492740/yale-delivery-box-review-smart-lock-packages-price-specs-features'> Source <a/>

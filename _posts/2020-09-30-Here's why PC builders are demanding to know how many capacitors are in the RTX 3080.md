@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a55S1XA1NEtH-wzDKUTot2-jiss=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/67555302/twarren_rtx3080_3_2.0.jpg' width='700px' /><br/>
+Following multiple reports of third-party Nvidia RTX 3080 cards crashing, PC builders are now trying to figure out how many capacitors are in their new GPU.
+<a href='https://www.theverge.com/2020/9/29/21493946/nvidia-rtx-3080-capacitors-crashing-issues'> Source <a/>

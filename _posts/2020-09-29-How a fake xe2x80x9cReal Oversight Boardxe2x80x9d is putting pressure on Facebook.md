@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9-R99ELIznz3Q3VMX61fb50qD6A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67550833/jbareham_180405_1777_facebook_0003.0.jpg' width='700px' /><br/>
-Today let's talk about Facebook's Oversight Board, the “real” Oversight Board, and what it means for the 2020 election.
-<a href='https://www.theverge.com/interface/2020/9/29/21472092/real-facebook-oversight-board-stunt-activism-limitations'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rMpIf7RhAoA3uxevENvn1Q2EQ4c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67554745/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google is extending its policy that lets free Google Meet users host calls for longer than 60 minutes. The policy was set to expire after September 30th, but now free users can host those longer calls through March 2021.
+<a href='https://www.theverge.com/2020/9/29/21494189/google-meet-limit-calls-minutes-march-2021'> Source <a/>

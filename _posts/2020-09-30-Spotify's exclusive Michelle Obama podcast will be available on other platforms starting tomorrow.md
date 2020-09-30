@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WfdVPVIpsNsU6JMZ9gmqqnLoPHU=/0x0:3653x2496/1200x800/filters:focal(1979x462:2563x1046)/cdn.vox-cdn.com/uploads/chorus_image/image/67555382/Renaissance_BTS_final.0.jpg' width='700px' /><br/>
+Spotify made major headlines last year when it announced an exclusive podcast deal with the Obamas' production studio Higher Ground. Today, the company made a perplexing about-face. The company says it'll be releasing the first season of The Michelle Obama Podcast on “a number” of other podcast listening platforms starting tomorrow, September 30th — two weeks after the show's season 1 finale.
+<a href='https://www.theverge.com/2020/9/29/21494284/spotify-michelle-obama-podcast-release-exclusive'> Source <a/>

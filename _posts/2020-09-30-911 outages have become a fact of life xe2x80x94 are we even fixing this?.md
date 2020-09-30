@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6lVVFmjZBzbkSTsLMcU3AWfKN1U=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/67556346/911-phone-2.0.0.png' width='700px' /><br/>
+In 2014, after what we described as “frequent failures,” a previous administration's FCC attempted to change how the United States' emergency 911 system works, including making it clear who's responsible when multiple states inexplicably lose the ability to dial 911 at once.
+<a href='https://www.theverge.com/2020/9/29/21494652/911-outage-centurylink-lumen-intrado'> Source <a/>

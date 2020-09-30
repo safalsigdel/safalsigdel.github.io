@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Hm4Y0OagOcyyhAaU5A5FoyFMJEE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67554296/acastro_181114_1777_amazon_hq2_0003.0.jpg' width='700px' /><br/>
+Amazon's warehouses with robots, which the company has claimed would help reduce worker injuries, actually have higher injury rates than warehouses without automation, according to internal Amazon records obtained by Reveal from the Center for Investigative Reporting. The stunning fact comes as part of a broader report investigating rising injury rates at Amazon warehouses across the country.
+<a href='https://www.theverge.com/2020/9/29/21493752/amazon-warehouses-robots-higher-injury-rates-report-reveal'> Source <a/>
