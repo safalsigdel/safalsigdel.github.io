@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NMQ4FZgdOxW60hZpYphXeW3H9sw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67560174/Google_TV_Mobile_UI__2_.0.jpg' width='700px' /><br/>
+Along with the launch of the new Chromecast with Google TV, which we've just reviewed, Google is changing the name of the Google Play Movies & TV app to Google TV. The rename is happening on Android phones to start, though you can expect it to change on other platforms eventually as well.
+<a href='https://www.theverge.com/2020/9/30/21492549/google-tv-app-play-movies-name-change-chromecast'> Source <a/>

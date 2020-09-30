@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3XK_9PdwSqnzFtClDTaNryqAsIc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67557304/msedge_Gno5l7zHky.0.jpg' width='700px' /><br/>
-Amazon has launched Explore, a new platform which it promises will let you “explore anything from lessons to landmarks.” It works via a video stream, with tour guides, instructors, and personal shoppers providing one-on-one sessions. Amazon says the video is one-way, meaning only the host is on camera during the virtual experience, but the audio is two-way so you can ask questions and make requests.
-<a href='https://www.theverge.com/2020/9/30/21494995/amazon-explore-virtual-classes-sightseeing-shopping-online-experiences'> Source <a/>

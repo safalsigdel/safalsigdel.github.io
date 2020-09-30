@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X72JRbQscVwX22e4WMbtlmQ7CFc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67556204/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter has just expanded its voice tweets feature, which lets you record a snippet of audio to include with a tweet, to more users on iOS. But perhaps more significantly, Twitter is now saying it plans to add transcriptions to voice tweets to improve accessibility, which could help address criticisms from the feature's June 17th launch.
-<a href='https://www.theverge.com/2020/9/29/21494603/twitter-voice-tweets-more-ios-users-accessible-transcription-features'> Source <a/>

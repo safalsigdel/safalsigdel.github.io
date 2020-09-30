@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jxc9yl0FD_ZIkWiYwyFpxOA6xC8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67560172/ChromecastwithGoogleTV_Sky.0.jpg' width='700px' /><br/>
+After seven years on the market, Google is finally giving the Chromecast its most-requested feature: a remote control. Today, the company is announcing the launch of a new Chromecast that also runs new software. And its official name is the somewhat awkward “Chromecast with Google TV.” The company is resurrecting the Google TV as an interface layer that runs on top of the actual OS powering the new Chromecast, Android TV.
+<a href='https://www.theverge.com/2020/9/30/21466954/google-chromecast-new-price-features-tv-interface'> Source <a/>

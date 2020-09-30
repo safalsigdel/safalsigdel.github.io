@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NGjEcQVwdlxxSMc92r9YALdKHM8=/0x0:2040x1360/1200x675/filters:focal(889x638:1215x964)/cdn.vox-cdn.com/uploads/chorus_image/image/67560180/DSCF2108.0.jpg' width='700px' /><br/>
+The new Chromecast is a much different product than the original $35 streaming stick that proved to be an unexpected hardware hit for Google way back in 2013. Instead of a barebones interface that requires you to play and control content using your smartphone or PC, the 2020 Chromecast has evolved to offer a richer, full-featured streaming experience much more akin to a Roku, Amazon Fire TV, or Apple TV.
+<a href='https://www.theverge.com/21495609/google-chromecast-2020-review-streaming-remote-control'> Source <a/>
