@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8IStMtfQKmrnci2jc6HenK_50-I=/0x0:5902x4529/1200x675/filters:focal(2479x1793:3423x2737)/cdn.vox-cdn.com/uploads/chorus_image/image/67559751/5G_pre_announce__1_.0.jpg' width='700px' /><br/>
+It's time for Google to formally announce the products it's already teased and that have, honestly, leaked a ton. We are expecting the new Pixel 5, Pixel 4A 5G, a new Chromecast, and a new Nest speaker. Google is calling it “Launch Night In” even though in the US it will be happening in the middle of the day, as a kind of light joke.
+<a href='https://www.theverge.com/2020/9/30/21469018/google-pixel-5-event-live-blog-news-announcements'> Source <a/>
