@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gRvhHkFd3dvcZ2wpmqegGLjZKKk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67558364/DSCF7380.0.jpg' width='700px' /><br/>
+Xiaomi has announced the Mi 10T Pro, its latest flagship phone. The device follows the strategy seen last year, where the sleek Mi 9 was followed by a largely unrelated Mi 9T Pro with a heavier emphasis on specs. The Mi 9T Pro was one of the best phone bargains of 2019 in markets where it was available, so expectations should be high for the 10T Pro.
+<a href='https://www.theverge.com/2020/9/30/21495001/xiaomi-mi-10t-pro-announced-specs-display-camera-battery'> Source <a/>

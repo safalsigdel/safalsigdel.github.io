@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yWzdP16SQbyj8DgT-6Qz5BNLWDc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67552877/apple_watch_series_6_dbohn_821.0.jpg' width='700px' /><br/>
-The Apple Watch Series 6 is officially out, with the latest entry to Apple's smartwatch lineup adding new features like a blood oxygen sensor and a brighter display. But the company has once again punted on a long-overdue addition to the Apple Watch: support for the universal Qi wireless charging standard.
-<a href='https://www.theverge.com/2020/9/29/21441290/apple-watch-qi-wireless-charging-standard-environment-cable-proprietary-standard'> Source <a/>

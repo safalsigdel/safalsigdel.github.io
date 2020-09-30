@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h9eNS6FNHf6zpzkB1afydz6A610=/0x0:4519x3012/1200x800/filters:focal(1899x1145:2621x1867)/cdn.vox-cdn.com/uploads/chorus_image/image/67558394/marshall_majorIV_0165__1_.0.jpg' width='700px' /><br/>
+Zound Industries has announced its latest pair of Marshall-branded headphones, the Major IV. Like previous Marshall headphones, the Major IVs have a formidable battery life, which extends up to 80 hours on a single charge this time around. When it comes time to recharge, you can either plug in a typical USB-C cable or charge them wirelessly using a Qi-compatible charger.
+<a href='https://www.theverge.com/2020/9/30/21493178/marshall-major-iv-headphones-battery-life-qi-wireless-charging'> Source <a/>
