@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ucete5ONfO8Kc0YboDwmgeiXRu4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67552619/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-On Tuesday, TikTok plans to launch an in-app guide to the 2020 US election as part of its ongoing efforts to protect the platform from misinformation.
-<a href='https://www.theverge.com/2020/9/29/21493509/tiktok-election-guide-misinformation-2020-election-voting'> Source <a/>
