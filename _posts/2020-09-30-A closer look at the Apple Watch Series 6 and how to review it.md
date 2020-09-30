@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TMbzIl5zL9qc1TDSpM0VQBNJC-g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67553037/apple_watch_series_6_dbohn_834.0.jpg' width='700px' /><br/>
-Vergecast co-host Dieter Bohn has been hosting a series of discussions diving deep into tech review season each Tuesday, with every episode focusing on a specific product announced this fall.
-<a href='https://www.theverge.com/2020/9/29/21493297/apple-watch-series-6-joanna-stern-interview-vergecast'> Source <a/>

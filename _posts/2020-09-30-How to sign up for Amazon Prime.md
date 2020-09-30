@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MzY_W9eg5US-wmqrSCPDbNhRx3o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67558535/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
+This year, Amazon's Prime Day sales will be coming on October 13th and 14th — three months later than usual, due to the coronavirus pandemic. (And yes, Prime Day is actually two days.) If you're attracted by the goodies being offered, but you haven't signed up for Amazon Prime, don't worry — Amazon makes it very easy. (As you'd expect, it's the sorry vendor who makes it difficult for people to become new customers.)
+<a href='https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free'> Source <a/>
