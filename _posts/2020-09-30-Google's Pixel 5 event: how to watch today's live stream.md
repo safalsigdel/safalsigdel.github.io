@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CDPZryqUF_hwUcjT9Z48T7eBBbE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67557664/pixel5green2.0.jpg' width='700px' /><br/>
-Google isn't known for keeping secrets, especially about the phones they plan to introduce. In the case of Google's upcoming Launch Night In event, we're looking forward to two new Pixel phones: the Pixel 5 and the Pixel 4A 5G. But who knows? It's possible that Google may be keeping some surprises up its corporate sleeve.
-<a href='https://www.theverge.com/2020/9/30/21455779/google-pixel-5-event-watch-live-stream-date-time'> Source <a/>
