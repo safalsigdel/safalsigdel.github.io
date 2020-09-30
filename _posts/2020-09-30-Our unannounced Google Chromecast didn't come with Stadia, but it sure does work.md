@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hv8ZDvO6C72zzhBxC4MJFcrSgi4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67554604/stadia_verge_new_chromecast.0.jpg' width='700px' /><br/>
-Yesterday, we bought the new Google Chromecast, even though it hasn't yet been announced. Weirdly, it didn't come with Google Stadia — of the 12 streaming services prominently pictured on the front of the box, Google's own cloud gaming service wasn't one of them. We didn't find it pre-installed on the device, either.
-<a href='https://www.theverge.com/2020/9/29/21494161/google-chromecast-stadia-cloud-gaming-streaming-support'> Source <a/>
