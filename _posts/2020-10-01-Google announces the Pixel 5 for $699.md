@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y6cImdHi4iyyFWbyzk_XkjUqYlA=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67560128/pixel5.0.jpg' width='700px' /><br/>
+Google has officially taken the wraps off of the $699 Pixel 5, its latest Android flagship. Compared to last year's Pixel 4, Google is focusing less on dramatic new technology — like the much-hyped Motion Sense gestures on last year's model — and emphasizing instead the unique features that already help set the Pixel apart, like its stand-out camera software.
+<a href='https://www.theverge.com/2020/9/30/21456181/google-pixel-5-features-price-release-date-announcement'> Source <a/>

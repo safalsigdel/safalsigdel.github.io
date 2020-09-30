@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0b4VLiXvu4t4NCyl9nk_MbhTZQM=/0x0:1278x718/1200x800/filters:focal(537x257:741x461)/cdn.vox-cdn.com/uploads/chorus_image/image/67560138/VRcYzDxU1m.0.png' width='700px' /><br/>
+Google today announced the Pixel 4A with 5G, a variant of the budget phone it released back in August that supports 5G networks, during its “Launch Night In” fall hardware event. The device costs $499, a $150 jump over the standard 4A, but the 5G variant comes with a few notable hardware differences beyond its upgraded cellular modem.
+<a href='https://www.theverge.com/2020/9/30/21459661/google-pixel-4a-5g-price-features-release-date-announcement'> Source <a/>
