@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aT0NeSNtT6ctzq_908SLuObVjW0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67558641/vpavic_200728_4113_0127.0.jpg' width='700px' /><br/>
+Google is hosting a virtual event on September 30th at 2PM ET / 11AM PT, where we expect it to unveil a bunch of new hardware. Based on how many leaks have been in the news cycle, there's a decent chance that you're already abreast of what Google might have coming.
+<a href='https://www.theverge.com/2020/9/30/21492422/google-pixel-5-event-products-announcements'> Source <a/>
