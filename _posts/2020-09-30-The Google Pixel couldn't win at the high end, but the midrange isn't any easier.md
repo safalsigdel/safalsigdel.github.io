@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dyS8w4XsrhjZ_0EZ2MbORg1QDGk=/0x0:3731x2650/1200x800/filters:focal(1568x1027:2164x1623)/cdn.vox-cdn.com/uploads/chorus_image/image/67557486/PIXEL_5_5K3.0.jpg' width='700px' /><br/>
+Today, Google will announce the Pixel 5 and 4A 5G. Well, not so much “announce” as launch, since the company already told us these phones were coming when it announced the Pixel 4A in early August. We know what to expect because these phones have leaked every which way but Sunday. And Google has already told us what the Pixel 4A 5G will cost, too: $499.
+<a href='https://www.theverge.com/2020/9/30/21494586/google-pixel-5-launch-midrange-flagship'> Source <a/>

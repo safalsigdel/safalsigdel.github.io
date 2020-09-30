@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KA0BUCJiEU-S57LotdIK_uW8BNg=/0x0:1920x1080/1200x800/filters:focal(337x463:643x769)/cdn.vox-cdn.com/uploads/chorus_image/image/67551954/msedge_X9RFhS71eu.0.jpg' width='700px' /><br/>
-Yesterday, Amazon announced that Prime Day 2020 is locked for October 13th and 14th. It's usually in July, but the coronavirus pushed it back, now next-door neighbors to other shopping holidays like Black Friday and Cyber Monday. Some early deals have already been released ahead of the big day, and even more are likely to trickle out before then, as they have today.
-<a href='https://www.theverge.com/good-deals/2020/9/29/21493252/amazon-echo-dot-deals-smart-speaker-alexa-prime-day'> Source <a/>
