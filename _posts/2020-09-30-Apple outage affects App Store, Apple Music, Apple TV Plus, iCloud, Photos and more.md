@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bJC0pVv6P_zSpKN7BxCOLFgu6Ng=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67556334/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Many Apple services were hit by outages Tuesday evening, including the App Store, Apple Music, Apple TV Plus, and Apple Arcade, according to Apple's system status page. For all of the affected services, Apple vaguely says that “some users are affected.” However, as we were writing this article, some of the services were upgraded from being affected by an “issue” to having a full-on “outage.”
-<a href='https://www.theverge.com/2020/9/29/21494731/apple-services-outage-down-app-store-music-tv-plus-icloud-arcade-find-my'> Source <a/>
