@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PpdGCni-_V_hBxmF0llHbHHJFEI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67559516/ss_9a5c4d45543113ad9de9d9b928f6fadf1fa17d25.0.jpg' width='700px' /><br/>
+Valve and tabletop company Auroch Digital will host an online festival next month for “games that cross between physical and digital.” Called the Steam Digital Tabletop Fest, the event will be streamed live from October 21st to the 26th.
+<a href='https://www.theverge.com/2020/9/30/21495392/steam-digital-tabletop-fest-october-event-steve-jackson-sandy-petersen-plague-inc'> Source <a/>
