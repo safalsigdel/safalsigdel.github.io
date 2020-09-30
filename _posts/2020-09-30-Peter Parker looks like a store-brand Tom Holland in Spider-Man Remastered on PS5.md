@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4oP9rmBpheHXN5oqmJPZ9QYp6-k=/0x0:3005x4507/1200x0/filters:focal(0x0:3005x4507):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21924567/1208211130.jpg.jpg' width='700px' /><br/>
+Sony has revealed that Spider-Man Remastered will have one major change from the original: the character model for Peter Parker looks completely different. He now closely resembles Tom Holland, who currently portrays movie Spider-Man.
+<a href='https://www.theverge.com/2020/9/30/21495611/spider-man-remastered-peter-parker-tom-holland-ps5-playstation-5'> Source <a/>
