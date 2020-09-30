@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cPcB_rgstCJkhtccH7EhgtteOyk=/0x0:1536x864/1200x800/filters:focal(646x310:890x554)/cdn.vox-cdn.com/uploads/chorus_image/image/67558258/NRP_XAC_Privacy_Matters_Instagram_and_Messenger_banner.0.jpg' width='700px' /><br/>
+Facebook has taken its biggest step yet in integrating its various messaging platforms, allowing select users on Messenger and Instagram to message one another app to app. In addition to the launch of cross-platform messaging, Instagram is also getting a major overhaul of its DM system, which will be expanded with features taken from Messenger.
+<a href='https://www.theverge.com/2020/9/30/21495068/facebook-messenger-instagram-cross-platform-messaging-integration'> Source <a/>
