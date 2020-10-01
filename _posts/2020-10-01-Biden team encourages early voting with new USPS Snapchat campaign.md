@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZuDk2MU_I46hcx7Sst8g1D75yGY=/0x0:861x1600/1200x800/filters:focal(337x475:473x611)/cdn.vox-cdn.com/uploads/chorus_image/image/67560002/Face_Biden_Option2.0.jpg' width='700px' /><br/>
-On Wednesday, the Biden for President team will release a new Snapchat lens encouraging supporters to vote early in key swing states ahead of the US presidential election.
-<a href='https://www.theverge.com/2020/9/30/21495336/biden-harris-campaign-snapchat-logo-usps-early-voting'> Source <a/>

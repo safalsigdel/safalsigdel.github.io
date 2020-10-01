@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9AWYyzMaOEwLlDoY2vBLWHIMjHA=/0x0:8000x4500/1200x0/filters:focal(0x0:8000x4500):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21926412/Feature_01_A.jpg' width='700px' /><br/>
+Microsoft is introducing a new Surface Laptop Go today, designed to be a more affordable alternative to the company's more premium devices. It's one of the lowest-cost Surface devices yet, at just $549. It's only beaten in Microsoft's lineup by the $399 Surface Go 2, and is clearly designed to target potential Chromebook buyers. But just like the Surface Go 2, the new Surface Laptop Go compromises on some specs to get to a lower price point.
+<a href='https://www.theverge.com/21496684/microsoft-surface-laptop-go-price-release-date-specs'> Source <a/>

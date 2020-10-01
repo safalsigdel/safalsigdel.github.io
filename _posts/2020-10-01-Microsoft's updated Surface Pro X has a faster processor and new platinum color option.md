@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Microsoft is updating its $1,499 ARM-based Surface Pro X device today. The big new additions are an updated SQ2 processor, and a classic platinum color option found on Microsoft's other Surface devices. The updated processor should improve performance across a variety of apps, and Microsoft is also promising up to 15 hours of battery life.
+<a href='https://www.theverge.com/2020/10/1/21496677/microsoft-surface-pro-x-refresh-sq2-processor-new-platinum-color-option'> Source <a/>
