@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/scysY714yFvpeAQKOUBsYc2CqyA=/0x0:1278x718/1200x800/filters:focal(537x257:741x461)/cdn.vox-cdn.com/uploads/chorus_image/image/67561181/VRcYzDxU1m.0.png' width='700px' /><br/>
-Google's fall hardware event ended this afternoon after a breezy 30 minutes of rapid-fire product announcements, with the stars of the show being the new Pixel 5 and Pixel 4A with 5G. Google now has three primary smartphones; two midrange ones (one with 5G and one without) and one flagship. That's a refreshingly simple lineup, compared with some of the messier, more bloated offerings from competitors.
-<a href='https://www.theverge.com/21495864/google-pixel-5-4a-5g-comparison-specs-features'> Source <a/>
