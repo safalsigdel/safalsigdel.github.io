@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NzJcPvzNlKPpHlmmS3MnLOfwTp8=/0x0:1000x416/1200x800/filters:focal(420x128:580x288)/cdn.vox-cdn.com/uploads/chorus_image/image/67560274/Photos_Editor_Hero_Portrait_light2x.max_1000x1000.0.png' width='700px' /><br/>
-Google is starting to roll out a new editing mode for Google Photos on Android, which adds machine learning-powered automatic suggestions, and improved tools for more granular manual controls to help make your photos look even better.
-<a href='https://www.theverge.com/2020/9/30/21495793/google-photos-editing-tools-app-update-machine-learning-suggestions-android'> Source <a/>
