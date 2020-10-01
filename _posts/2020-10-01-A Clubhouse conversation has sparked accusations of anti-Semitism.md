@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IB5UBGyCWZcZovLTBHZFrzMUTCE=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67559164/acastro_170726_1777_0008_v2.0.jpg' width='700px' /><br/>
-Jewish users on the invite-only social network Clubhouse say they no longer feel safe on the app after a heated conversation Monday night, which many participants felt perpetuated racist stereotypes. Intended to discuss anti-Semitism in Black communities, the event had 369 participants and lasted roughly three hours.
-<a href='https://www.theverge.com/2020/9/30/21495419/clubhouse-conversation-antisemitism-content-moderation'> Source <a/>
