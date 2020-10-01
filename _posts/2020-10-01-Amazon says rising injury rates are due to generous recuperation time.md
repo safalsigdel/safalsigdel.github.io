@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O05MY1CVac17IelcOWUtr7Wtnxw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67559489/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
-On Tuesday, Reveal published a major report about rising injury rates at Amazon's fulfillment warehouses, sourced from leaked internal data and interviews with numerous sources, claiming that Amazon has misled the public about those rates. However, Amazon says it hasn't “misled anyone” and that Reveal is misinterpreting Amazon's data.
-<a href='https://www.theverge.com/2020/9/30/21494381/amazon-rising-injury-rates-reveal-report'> Source <a/>
