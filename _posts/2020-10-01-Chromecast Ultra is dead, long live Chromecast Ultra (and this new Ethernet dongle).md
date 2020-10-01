@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Google's new $50 “Chromecast with Google TV” has supplanted the Chromecast Ultra in practically every way — so you probably won't be surprised to hear Google is getting rid of its original 4K streaming device. The Chromecast Ultra is now out of stock at every major US retailer, including the Google Store, where its product page redirects to the new Chromecast.
-<a href='https://www.theverge.com/circuitbreaker/2020/9/30/21495890/google-chromecast-ultra-discontinued-stadia-streaming-ethernet'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p80rILu0gQXRLXtA1zmdjOjw7U4=/0x0:750x408/1200x800/filters:focal(315x144:435x264)/cdn.vox-cdn.com/uploads/chorus_image/image/67564825/medium_Surgeon_bossa_labs_key_art_d54615b5a5.0.png' width='700px' /><br/>
+Bossa Studios, the developer behind the cult classic Surgeon Simulator and the recently released Surgeon Simulator 2, has taken the bold step of making Surgeon Simulator 2 free for doctors, nurses, and surgeons working in Britain's National Health Service. To get your copy, all you need is a working NHS email address, a PC, and this link.
+<a href='https://www.theverge.com/2020/10/1/21497004/surgeon-simulator-2-free-nhs-surgeons'> Source <a/>
