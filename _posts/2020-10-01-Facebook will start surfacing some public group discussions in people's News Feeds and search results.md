@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wkkZYFRdGMNRg48lqWdgYt1c_XQ=/0x0:2625x1750/1200x800/filters:focal(1103x665:1523x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/67565163/fb_groups.0.jpg' width='700px' /><br/>
+Facebook is expanding the reach of public groups today with new features that could lead to more people engaging in group discussions, but also potentially more visibility for dangerous or nefarious communities. The company announced multiple updates today for Groups that include automating moderation and covering people's News Feeds with group discussions.
+<a href='https://www.theverge.com/2020/10/1/21495497/facebook-groups-public-search-relevant-discussion-moderation-update'> Source <a/>
