@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9407/Screen_Shot_2020-09-30_at_2.50.22_PM.png' width='700px' /><br/>
+Weirdly, the fact that the Apple Watch Series 6 is the very best smartwatch by a huge margin feels anticlimactic. That's probably because the same was true of the Series 5, the Series 4, and even the Series 3. At this point, the company would have to massively screw something up with the Apple Watch for it to be knocked out of the lead spot.
+<a href='https://www.theverge.com/21496141/apple-watch-series-6-review-blood-oxygen-monitor-watchos-7'> Source <a/>
