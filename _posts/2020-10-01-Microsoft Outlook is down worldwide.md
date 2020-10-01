@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1b2kMwfKz5Yf_pfQt97mY7P55oY=/0x0:1020x598/1200x800/filters:focal(429x218:591x380)/cdn.vox-cdn.com/uploads/chorus_image/image/67563129/hotmailhednew.0.jpg' width='700px' /><br/>
+Microsoft's Outlook service is down worldwide, affecting Outlook on the web, Outlook.com, and Outlook on desktop and mobile. The outage started at around 2AM ET, and Microsoft has confirmed it's affecting users worldwide. Outlook users are currently unable to access their email, and Outlook.com is failing to load.
+<a href='https://www.theverge.com/2020/10/1/21496667/microsoft-outlook-down-outage-service-issues'> Source <a/>

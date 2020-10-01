@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Dpi7qZRrbcsufqRqUUlLzuu2Fnw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67559312/akrales_190930_3688_0325.0.jpg' width='700px' /><br/>
-Microsoft is officially revealing it's working on x64 app emulation support for Windows on ARM today. Currently, Windows on ARM devices like the Surface Pro X can only run native 32- and 64-bit ARM apps, alongside 32-bit x86 apps. The vast majority of desktop apps, including Adobe's Creative Suite, have moved to 64-bit x86 and many have stopped supporting their 32-bit variants.
-<a href='https://www.theverge.com/2020/9/30/21495510/microsoft-windows-on-arm-x64-app-emulation'> Source <a/>
