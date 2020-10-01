@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y86qgqH4o8ECuupfS_mLAcbPF_M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67560419/wjoel_1777_180403_youtube_004.0.jpg' width='700px' /><br/>
-A number of Fox regional sports networks (RSNs) will no longer be available for YouTube TV subscribers beginning October 1st, the company announced.
-<a href='https://www.theverge.com/2020/9/30/21495642/youtube-tv-fox-regional-sports-networks-streaming-sinclair-mlb-nhl-nba'> Source <a/>

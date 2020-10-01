@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ztu09DRfUpEHAt5hR5D4X64hf2I=/0x0:1142x761/1200x800/filters:focal(472x24:654x206)/cdn.vox-cdn.com/uploads/chorus_image/image/67564709/msedge_0oNnrrkCUO.0.png' width='700px' /><br/>
+This year's Pixel 5 includes two rear-facing cameras; a 12.2-megapixel main sensor, and a 16-megapixel ultrawide with a 107-degree field of view. Google chose a configuration that's similar to recent Samsung and Apple devices, which have prioritized ultrawide over telephoto cameras on dual-camera handsets like the Galaxy A51 and iPhone 11. Fine.
+<a href='https://www.theverge.com/2020/10/1/21496779/google-pixel-5-ultrawide-telephoto-camera-headphone-jack-direction-change'> Source <a/>

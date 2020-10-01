@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vKcHEE3eqg1zVPR4-SYmkbr3rQ0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67564729/apex_concept_art_wallpaper_crypto.0.jpg' width='700px' /><br/>
+Respawn's battle royale Apex Legends is getting its long-awaited crossplay feature next week, the developer announced on Thursday. Crossplay will arrive on October 6th alongside the new limited-time “Aftermarket Collection” event.
+<a href='https://www.theverge.com/2020/10/1/21496885/apex-legends-cross-play-beta-launch-ps4-xbox-pc-compete'> Source <a/>
