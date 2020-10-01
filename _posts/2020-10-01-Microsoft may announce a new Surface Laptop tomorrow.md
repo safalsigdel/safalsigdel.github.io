@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2F6O5cr8nAnhGB4TFO2tSSrE8tY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67559644/akrales_191017_3723_0044.0.jpg' width='700px' /><br/>
-Earlier this month, we caught wind that Microsoft was preparing a new, smaller Surface Laptop for later this year, reportedly with a 12.5-inch display. And now, two typically reliable sources are suggesting Microsoft will announce it tomorrow, October 1st.
-<a href='https://www.theverge.com/2020/9/30/21495513/microsoft-surface-laptop-go-rumor-leak-october-1'> Source <a/>

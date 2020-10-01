@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cY2q9nI06T2DLKxugYW9plOfmuA=/0x0:1278x718/1200x800/filters:focal(537x257:741x461)/cdn.vox-cdn.com/uploads/chorus_image/image/67563364/VRcYzDxU1m.0.png' width='700px' /><br/>
+Google's fall hardware presentation was a slickly-produced 30-minute affair with four products, as expected. You can experience it with our liveblog here or catch up on the biggest announcements here. Outside of some very neat software tricks, there were no big surprises.
+<a href='https://www.theverge.com/2020/10/1/21496547/google-pixel-5-4a-5g-play-it-safe'> Source <a/>
