@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RZNngkgTEgSIPKD5VYGjHEN1rvc=/0x0:2132x1432/1200x800/filters:focal(896x546:1236x886)/cdn.vox-cdn.com/uploads/chorus_image/image/67560417/Screen_Shot_2020_09_30_at_2.41.31_PM.0.png' width='700px' /><br/>
+Google announced a bunch of products at its big hardware event. As expected, we saw the Google Pixel 5, its new $699 flagship 5G-ready phone. We also saw a more affordable Pixel 4A with 5G support that costs $499.
+<a href='https://www.theverge.com/21473653/google-pixel-5-4a-5g-preorder-chromecast-nest-audio-buy'> Source <a/>

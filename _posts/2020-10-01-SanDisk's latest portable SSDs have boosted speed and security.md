@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Sra9t6MnVs3HeqgE5htJLeNYU8o=/0x0:1472x982/1200x800/filters:focal(619x374:853x608)/cdn.vox-cdn.com/uploads/chorus_image/image/67558915/SanDisk_Extreme_Portable_SSD_4LR.0.jpg' width='700px' /><br/>
-The SanDisk Extreme and the Sandisk Extreme Pro are a pair of speedy external SSDs that also have the hardware to keep your data safe and secure. The more expensive SanDisk Extreme Pro claims speeds of up to 2000MB/s for both read and write, while the regular SanDisk Extreme offers transfer speeds of up to 1050MB/s read and 1000MB/s write.
-<a href='https://www.theverge.com/2020/9/30/21495322/western-digital-sandisk-extreme-pro-external-portable-ssd-usb-256-bit-hardware-encryption'> Source <a/>

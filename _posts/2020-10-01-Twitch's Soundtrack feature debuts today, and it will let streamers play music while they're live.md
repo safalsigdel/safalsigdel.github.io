@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fcllOJyWVY35mujFcaS1f4NtwR8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67559102/acastro_200901_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
-Today, Twitch releases Soundtrack, a new product that allows streamers to play music while they're live — or, at least, that's the simplest way to explain it. If the product works the way Twitch says it does, Soundtrack will be much more than just a way to play rights-cleared music while you're broadcasting. It might change how you think about using music on Twitch entirely.
-<a href='https://www.theverge.com/2020/9/30/21495243/twitch-soundtrack-streaming-music-soundcloud-distrokid-facebook-gaming'> Source <a/>

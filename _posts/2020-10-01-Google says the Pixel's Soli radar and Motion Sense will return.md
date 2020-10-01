@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Google's $799 Pixel 4 had built-in radar. The new $699 Pixel 5 does not — it ditches the sensor-laden forehead of its predecessor entirely in favor of thinner bezels and a hole-punch camera, like the $349 Pixel 4a before it. The result is more screen, but Google's “Motion Sense” gestures and its answer to Apple's Face ID are totally gone.
+<a href='https://www.theverge.com/circuitbreaker/2020/9/30/21496318/google-soli-radar-motion-sense-rick-osterloh-pixel-5'> Source <a/>

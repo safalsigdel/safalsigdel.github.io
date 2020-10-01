@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6btNIUyvZ0XmnGkboj2KMfRf0wM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67561920/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook will ban ads that wrongly claim victory in the US presidential race.  The news comes a week after the company announced it would reject ads from Donald Trump or Joe Biden claiming a premature win on November 3rd.
+<a href='https://www.theverge.com/2020/9/30/21496255/facebook-ban-ads-delegitimize-2020-election'> Source <a/>

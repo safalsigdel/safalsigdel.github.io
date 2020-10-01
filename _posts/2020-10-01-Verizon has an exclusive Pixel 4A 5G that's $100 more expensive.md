@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jIb3UjbRQCOvX5IiuD59P7BXTwo=/0x0:700x394/1200x800/filters:focal(294x141:406x253)/cdn.vox-cdn.com/uploads/chorus_image/image/67560899/Pixel4a.0.png' width='700px' /><br/>
+Verizon is getting an exclusive model of the Pixel 4A 5G: it comes in white, it supports Verizon-specific 5G bands, and it's $100 more expensive. Verizon has dubbed this model the “Google Pixel 4A 5G UW” to highlight its support for the carrier's “ultra wideband” 5G network.
+<a href='https://www.theverge.com/2020/9/30/21495895/verizon-pixel-4a-5g-uw-exclusive-model-white-price'> Source <a/>

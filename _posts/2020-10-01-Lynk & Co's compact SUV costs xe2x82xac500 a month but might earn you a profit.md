@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N2IqG1qdP-ZtWuHcjVAJJw4_qSY=/0x0:768x878/1200x800/filters:focal(124x432:246x554)/cdn.vox-cdn.com/uploads/chorus_image/image/67557726/damn_good_car.0.jpg' width='700px' /><br/>
-Car company Lynk & Co has finally revealed the details of its hybrid ownership model, which lets people subscribe to its Lynk & Co 01 compact SUV for xe2x82xac500 per month, with the option of renting the vehicle to other Lynk & Co members to begin earning that fee back.
-<a href='https://www.theverge.com/2020/9/30/21495028/lynk-and-co-01-subscription-price-date-cities'> Source <a/>
