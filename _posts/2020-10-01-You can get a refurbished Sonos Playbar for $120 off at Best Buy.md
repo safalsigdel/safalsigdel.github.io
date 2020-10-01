@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N4NpTHvB0Xx5O3imO4j-OwEh7Pc=/0x0:875x583/1200x800/filters:focal(368x222:508x362)/cdn.vox-cdn.com/uploads/chorus_image/image/67564010/IMG_5551.0.jpg' width='700px' /><br/>
+The Sonos Playbar soundbar isn't as new as the Beam (by a long shot, it was released in 2013), but it's a more powerful option. If you want to pick one up, Best Buy has refurbished models for $379, which is drastically cheaper than Sonos' own $499 refurbished price. The soundbar debuted for $699 and Sonos products don't usually drop in price this much.
+<a href='https://www.theverge.com/good-deals/2020/10/1/21496777/sonos-playbar-refurbished-logitech-mouse-borderlands-3-ps5-xbox-deal'> Source <a/>
