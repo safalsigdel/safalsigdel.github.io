@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nXZo54KeTj9WdTuTF7PNKxXWa-c=/0x0:3301x1813/1200x800/filters:focal(1387x643:1915x1171)/cdn.vox-cdn.com/uploads/chorus_image/image/67570806/pixel5.0.png' width='700px' /><br/>
+Another week, another fall hardware event. On Wednesday, through a 30-minute infomercial, Google officially announced its new product lineup: the Pixel 5, the Pixel 4a 5G, Chromecast with Google TV, and Nest Audio.
+<a href='https://www.theverge.com/2020/10/2/21498583/vergecast-podcast-424-google-fall-hardware-event-2020'> Source <a/>
