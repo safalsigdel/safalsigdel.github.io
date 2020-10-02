@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x-OpsFegcwnQwggIS4aC5LeFD_U=/0x0:1574x692/1200x800/filters:focal(669x303:919x553)/cdn.vox-cdn.com/uploads/chorus_image/image/67564447/Screen_Shot_2020_10_01_at_9.00.32_AM.0.png' width='700px' /><br/>
-The newest Tamagotchi model from Bandai will let Tamagotchi owners use Hello Kitty to help them take care of their tiny pet.
-<a href='https://www.theverge.com/2020/10/1/21496880/tamagotchi-hello-kitty-sanrio-bandai-preorder-toy'> Source <a/>
