@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/on7yJCEnrzyBlKSDEcxzmos92wo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67572363/acastro_180329_1777_amazon_0001.0.jpg' width='700px' /><br/>
+The halloween cat collar (three pack, adjustable strap, ghost pendant and bell) has conspicuously rave reviews on Amazon. “Three for $10 is a steal!” reads one. “They seem to be made of quality material and the clasps don't break away as easily as some other ones.”
+<a href='https://www.theverge.com/2020/10/2/21497416/amazon-crack-down-fraudulent-reviews-facebook-wechat-groups'> Source <a/>
