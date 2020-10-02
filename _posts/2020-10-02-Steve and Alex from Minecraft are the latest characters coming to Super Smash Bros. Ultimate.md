@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Icdtn8Q2I3-09uSV9Nf4ljdlMI8=/0x0:1056x566/1200x800/filters:focal(444x199:612x367)/cdn.vox-cdn.com/uploads/chorus_image/image/67564251/Screen_Shot_2020_10_01_at_10.01.13_AM.0.png' width='700px' /><br/>
-Nintendo unveiled this morning that Steve and Alex from Minecraft will be added to the character roster in Super Smash Bros. Ultimate for the Nintendo Switch. This is the second character announcement in the Fighter Pass Vol. 2 DLC that's available for $29.99, following Min Min from Arms. There are four new fighters yet to be announced for the DLC.
-<a href='https://www.theverge.com/2020/10/1/21495481/steve-minecraft-super-smash-bros-ultimate-nintendo-switch-fighter-pass-vol-2'> Source <a/>
