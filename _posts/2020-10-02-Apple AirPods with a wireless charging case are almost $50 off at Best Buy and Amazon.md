@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zMWd-Y_HAtGCpqZqUFXCag_EntU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67570230/akrales_190327_3315_0012.0.jpg' width='700px' /><br/>
+At Best Buy and Amazon, Apple's second-gen AirPods that come with a wireless charging case are $151 (usually $200) for the rest of the day. This isn't quite as good a deal as one in August that saw them discounted by $60, but this is currently the best price you'll find.
+<a href='https://www.theverge.com/good-deals/2020/10/2/21497687/apple-airpods-wireless-charging-case-best-buy-amazon-deal-sale-ring-video-doorbell-3'> Source <a/>
