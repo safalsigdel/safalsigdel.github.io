@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5O8-98hk6jvgxehQOmmAhOtsTkY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67564720/dbohn_200608_4059_0008.0.jpg' width='700px' /><br/>
-In Android 11, Google has added new functionality to its multitasking pane or recent apps view — that handy flow of thumbnails that lets you view all your active apps and choose which one you want to use.
-<a href='https://www.theverge.com/21495830/android-11-multitasking-pane-recent-apps-screenshots-google-how-to'> Source <a/>
