@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VaCJ-HYOL7oFZQE_7of8USzNxIY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67570763/dseifert_200930_4218_0002.0.0.jpg' width='700px' /><br/>
+Apple's smartwatch lineup has gone from straightforward to surprisingly complex seemingly overnight. Where we used to have this year's model or last year's model at a lower price to choose from, now Apple is selling three distinct Apple Watch models at varying price tiers and with varying options.
+<a href='https://www.theverge.com/21496928/apple-watch-se-review-smartwatch-wearos-price-specs-features'> Source <a/>
