@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MUuyH9RqKtMA_AeM1zMREnHF3ow=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67566077/akrales_171113_2119_0074.0.jpg' width='700px' /><br/>
+The heart monitoring feature on the Apple Watch may lead to unnecessary health care visits, according to a new study published this week. Only around 10 percent of people who saw a doctor at the Mayo Clinic after noticing an abnormal pulse reading on their watch were eventually diagnosed with a cardiac condition.
+<a href='https://www.theverge.com/2020/10/1/21496813/apple-watch-heart-monitor-ekg-false-positive'> Source <a/>

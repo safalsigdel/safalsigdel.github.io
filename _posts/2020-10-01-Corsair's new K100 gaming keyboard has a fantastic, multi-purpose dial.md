@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9Z9KA9jDqeLDvflWpwk2dW6jQvQ=/0x0:1707x1138/1200x800/filters:focal(718x433:990x705)/cdn.vox-cdn.com/uploads/chorus_image/image/67563792/K100_RGB_45.0.jpg' width='700px' /><br/>
-Corsair's new $229.99 K100 is currently the company's most expensive mechanical gaming keyboard. What lends to the high cost, in part, is the handy iCue control dial at its top left, which is so fun to use.
-<a href='https://www.theverge.com/2020/10/1/21494314/corsair-k100-gaming-mechanical-keyboard-optical-switches-opx'> Source <a/>

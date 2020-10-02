@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zg8DGdypSH7RTB5xPekyRE-ULWc=/0x0:1548x866/1200x800/filters:focal(651x310:897x556)/cdn.vox-cdn.com/uploads/chorus_image/image/67561339/Screen_Shot_2020_09_30_at_4.59.53_PM.0.png' width='700px' /><br/>
-For many of us, calling a doctor's office, an insurance carrier, customer support, or indeed any kind of administrative office has become an exercise in frustration — especially these days, when increased demand and cuts in staffing have made phone waits interminable. Yes, you can simply use speakerphone to monitor the line, but do you really want to listen to that awful music for over an hour?
-<a href='https://www.theverge.com/2020/9/30/21496025/google-hold-for-me-assistant-phone-android-pixel'> Source <a/>

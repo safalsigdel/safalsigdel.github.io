@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aYgzmwu8DDCq4Uvj6tAXwcl-4UM=/0x0:2040x1360/1200x800/filters:focal(813x509:1139x835)/cdn.vox-cdn.com/uploads/chorus_image/image/67563157/ChromecastwithGoogleTV_Sky.0.jpg' width='700px' /><br/>
-Google's new Chromecast can run Microsoft's xCloud if you're prepared to sideload the game streaming service, The Verge can confirm. The functionality was previously demonstrated over on Reddit by u/kiddj55, and we've since been able to install the Xbox Game Pass app on our own hardware and access cloud streaming to play Gears of War 5.
-<a href='https://www.theverge.com/2020/10/1/21496666/xcloud-microsoft-xbox-games-pass-chromecast-with-google-tv-stadia-streaming'> Source <a/>

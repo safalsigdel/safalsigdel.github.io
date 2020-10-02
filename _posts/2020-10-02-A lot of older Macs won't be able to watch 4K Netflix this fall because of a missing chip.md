@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T_nuiGp8V3gNoBMbcd5D7QvBWFA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67566433/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+macOS Big Sur, Apple's upcoming release of its Mac operating system, will finally let you watch 4K HDR Netflix content, but it turns out it'll only work on 2018 or later Macs with Apple's T2 security chip, according to a new Netflix support document (via Apple Terminal).
+<a href='https://www.theverge.com/2020/10/1/21497093/netflix-4k-apple-macos-big-sur-t2-security-chip'> Source <a/>

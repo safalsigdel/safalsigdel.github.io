@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/idbpXOqlWZNyERdTUhCxOzma86o=/0x0:3000x2000/1200x800/filters:focal(1273x310:1753x790)/cdn.vox-cdn.com/uploads/chorus_image/image/67566573/675266312.jpg.0.jpg' width='700px' /><br/>
+Jeffree Star, one of YouTube's most prominent figures and the owner of a multimillion-dollar cosmetics company, is being accused of sexual misconduct and other bouts of physical violence, according to a new report from Insider.
+<a href='https://www.theverge.com/2020/10/1/21497302/jeffree-star-accusations-sexual-misconduct-violence-insider-history-myspace'> Source <a/>

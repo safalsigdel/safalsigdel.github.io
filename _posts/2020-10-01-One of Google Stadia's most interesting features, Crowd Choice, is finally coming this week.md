@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j5o0sPhKHrz5Z9u4adLdUk6WdK4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67561672/akrales_191113_3779_0163.0.jpg' width='700px' /><br/>
-Google has always wanted its cloud game-streaming service, Stadia, to change how YouTube streamers interact with their fans. Nearly ten months after release, Google is finally bringing its “Crowd Choice” feature to its first two games.
-<a href='https://www.theverge.com/2020/9/30/21495804/google-stadia-crowd-choice-feature-baldurs-gate-3'> Source <a/>

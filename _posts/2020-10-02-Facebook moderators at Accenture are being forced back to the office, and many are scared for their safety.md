@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UBtP593sYPEmi82QuK9D67i9EBE=/0x0:2040x1360/1200x800/filters:focal(936x585:1262x911)/cdn.vox-cdn.com/uploads/chorus_image/image/67567767/mdoying_180411_2400_0102still.0.jpg' width='700px' /><br/>
+Facebook moderators employed by third-party contracting firm Accenture and based in Austin, Texas are being forced to return to the office on October 12th, The Verge has learned.
+<a href='https://www.theverge.com/2020/10/1/21497789/facebook-content-moderators-accenture-return-office-coronavirus'> Source <a/>

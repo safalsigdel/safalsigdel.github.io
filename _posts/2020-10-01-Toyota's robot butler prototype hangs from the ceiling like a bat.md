@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I3XbpA3LyZcRUqCQbl4BeOBRxIo=/373x214:3469x1857/1200x800/filters:focal(1640x786:2264x1410)/cdn.vox-cdn.com/uploads/chorus_image/image/67563737/gmk.0.jpeg' width='700px' /><br/>
-The Earth's population is rapidly aging, with people aged 65 and over constituting the world's fastest-growing age group. This is going to create problems for lots of countries as they struggle to find resources to look after seniors. And it's why Toyota's robotics division is focused on developing mechanical helpers for the home, keeping older generations healthy and happy as they age.
-<a href='https://www.theverge.com/2020/10/1/21496692/toyota-robots-tri-research-institute-home-helping-gantry-ceiling-machine'> Source <a/>

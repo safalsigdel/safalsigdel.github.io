@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IWDyA2TJkmWs5zA84h3zpzmt3Z8=/139x14:818x416/1200x800/filters:focal(387x145:545x303)/cdn.vox-cdn.com/uploads/chorus_image/image/67566543/gmail_redesign.0.png' width='700px' /><br/>
+If you're not the inbox zero type — and I'm definitely not — you might sometimes rely on Gmail's “Select all conversations that match this search” option to read, archive, or delete hundreds or thousands of messages at once.
+<a href='https://www.theverge.com/2020/10/1/21497488/google-gmail-email-select-all-conversations-button-missing'> Source <a/>
