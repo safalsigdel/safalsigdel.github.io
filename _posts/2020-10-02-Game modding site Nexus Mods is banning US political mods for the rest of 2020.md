@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mycYzqCBFBPODv9uXMydUrxZmWg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67565789/Fallout_76_20181127174050.0.jpg' width='700px' /><br/>
-Popular game modding hub Nexus Mods has banned any mods related to “sociopolitical issues in the United States” until at least next year's presidential inauguration. Site owner Robin Scott explained that he'd seen “a spate of provocative and troll mods” designed to provoke site users, and as a result, the site will take down any US politics mods that were uploaded on or after September 28th.
-<a href='https://www.theverge.com/2020/10/1/21497067/nexus-mods-bans-us-political-troll-content-moderation-policy-change'> Source <a/>

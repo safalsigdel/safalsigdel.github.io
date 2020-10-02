@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nLp90LsPBarUpA9uESR0X2c6PY0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67570777/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+Twitter this week announced it would be changing how image cropping works on its website after concerns that the machine learning-based algorithm the company was using was racially biased in how it cropped images, in particular by favoring white faces over Black ones.
+<a href='https://www.theverge.com/2020/10/2/21498619/twitter-image-cropping-update-racial-bias-machine-learning'> Source <a/>
