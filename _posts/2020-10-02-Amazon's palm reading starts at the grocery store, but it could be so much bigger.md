@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kndCyC9xV23ZXlCfLHMeXrKzx3w=/0x0:1076x646/1200x800/filters:focal(452x237:624x409)/cdn.vox-cdn.com/uploads/chorus_image/image/67565491/Screen_Shot_2020_10_01_at_4.56.37_PM.0.png' width='700px' /><br/>
-Earlier this week, Amazon unveiled Amazon One: new technology for its Amazon Go stores that lets shoppers pay for their groceries by scanning the palm of their hand. By analyzing the shape of your hand and the unique configuration of veins under your skin, Amazon says its technology can verify your identity the same way facial recognition does.
-<a href='https://www.theverge.com/2020/10/1/21496673/amazon-one-palm-reading-vein-recognition-payments-identity-verification'> Source <a/>

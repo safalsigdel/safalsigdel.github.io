@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f-Xi5IONFjrkrElF-kmp-mY7Kz4=/0x0:2482x1508/1200x800/filters:focal(1043x556:1439x952)/cdn.vox-cdn.com/uploads/chorus_image/image/67570558/tesla_buffalo_gigafactory.0.png' width='700px' /><br/>
+Tesla said Friday it was able to deliver 139,300 vehicles during the last quarter, smashing its previous record for deliveries, of 112,000 cars. It was also slightly better than Wall Street expectations of 137,000 vehicles for the quarter. The company said it produced a total of 145,036 vehicles over the same period.
+<a href='https://www.theverge.com/2020/10/2/21498558/tesla-q3-2020-vehicle-delivery-numbers-record-breaking'> Source <a/>
