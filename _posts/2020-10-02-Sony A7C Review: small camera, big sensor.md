@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9409/bfarsace_200930_4220_0012sq.0.jpg' width='700px' /><br/>
+When I first heard about Sony's new A7C, I thought it was just a parts-bin camera — taking a lot of good things about the Alpha line and putting it into a new design. On paper, that's exactly what the $1,800 A7C is: it's the sensor, processor, and autofocus system of 2018's A7 III in a body that's closer in size to the A6600.
+<a href='https://www.theverge.com/21497207/sony-a7c-review-camera-price-specs-features'> Source <a/>

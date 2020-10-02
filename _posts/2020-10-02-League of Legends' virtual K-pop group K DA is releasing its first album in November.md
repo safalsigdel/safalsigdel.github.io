@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u0tVF9nYZ8hgGjOnJh_6JEWyzkY=/0x0:3648x2052/1200x800/filters:focal(1533x735:2115x1317)/cdn.vox-cdn.com/uploads/chorus_image/image/67570044/MBAR_015_KDA_SeraConfirmation_Post_16x9_Twtr_FINAL_v2_2020_09_03.0.jpg' width='700px' /><br/>
+As promised, K/DA — the virtual K-pop group that's part of the ever-expanding League of Legends universe — has its very first album on the way. Today, developer Riot revealed that the band's first EP, titled All/Out, will be out on November 6th. K/DA released its first single following a two-year hiatus back in August.
+<a href='https://www.theverge.com/2020/10/2/21496800/kda-league-of-legends-k-pop-album-release-date'> Source <a/>
