@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_JlhkkFmrL9yQtbqpLS24n--qk8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67575713/mchin_181225_4219_0007.0.0.jpg' width='700px' /><br/>
+There's one really strong argument in favor of buying the ZenBook Flip S: the screen. This $1,449 2-in-1 has a 4K OLED panel, and it's one of the best displays you can get on a 13-inch notebook.
+<a href='https://www.theverge.com/reviews/21498769/asus-zenbook-flip-s-2020-laptop-convertible-2in1-review-price-specs-features'> Source <a/>

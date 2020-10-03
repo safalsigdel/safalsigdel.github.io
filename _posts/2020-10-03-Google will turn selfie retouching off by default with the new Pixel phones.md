@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vIt0KMMBjy9oT5Zy3KYY8hYAyNI=/0x0:2040x1360/1200x800/filters:focal(439x913:765x1239)/cdn.vox-cdn.com/uploads/chorus_image/image/67566962/vpavic_4113_20200724_0090.0.jpg' width='700px' /><br/>
-Google says retouched selfies can make people feel bad about how they actually look, so it's changing how it handles these photos with its newest phones. For the Pixel 4A, 4A 5G, and 5, it'll turn face retouching off by default from the Camera app.
-<a href='https://www.theverge.com/2020/10/1/21497587/google-pixel-phone-selfie-beauty-filter-retouching-camera'> Source <a/>

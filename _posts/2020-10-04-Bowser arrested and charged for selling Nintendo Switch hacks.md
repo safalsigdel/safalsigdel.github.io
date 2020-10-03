@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w1y4NfnUH_WjFnlzTzDEEp7zmKE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67573589/jbareham_180301_2346_nintendo_switch_0132.0.jpg' width='700px' /><br/>
+Two members of a console hacking and piracy organization known as Team Xecuter have been arrested and charged with fraud, one of whom is named Gary Bowser. French national Max Louarn and Bowser, originally from Canada but arrested in the Dominican Republic, allegedly led the group, which makes a line of tools for cracking locked-down gaming hardware.
+<a href='https://www.theverge.com/2020/10/2/21499297/team-xecuter-selling-nintendo-hacks-arrested-charged-fraud'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bytXODUJGNVkIxVmFtGLHcj3F8A=/0x0:600x400/1200x800/filters:focal(252x152:348x248)/cdn.vox-cdn.com/uploads/chorus_image/image/67576302/masked_emoji_apple.0.jpg' width='700px' /><br/>
+In a move that, I'm sure, has absolutely no relation to anything going on in the world today, Apple has quietly updated its “Face with Medical Mask” emoji with friendlier eyes, eyebrows, and rosy cheeks. Before, it looked a little lethargic. Now, it's almost happy? You can practically imagine a smile underneath.
+<a href='https://www.theverge.com/2020/10/3/21500163/apple-emoji-mask-medical-face-2020'> Source <a/>

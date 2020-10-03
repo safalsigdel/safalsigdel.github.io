@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E3b6nKbKgc8Hq3qoVUfUxgybcZ4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67567841/Image_from_iOS.0.jpg' width='700px' /><br/>
-Google just announced a new Chromecast yesterday, and the company is already offering a good deal on one — all you have to do is sign up for YouTube TV and pay for one month of the service. If you want to take advantage of the deal, you should be able to access it here.
-<a href='https://www.theverge.com/2020/10/1/21497841/google-new-chromecast-youtube-tv-free'> Source <a/>

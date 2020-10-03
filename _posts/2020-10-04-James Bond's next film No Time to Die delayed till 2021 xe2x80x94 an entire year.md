@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8_8pFCO_-XuHE59cyBRvJLoSGLY=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/67573480/bond_25_B25_31842_RC2_rgb.0.jpg' width='700px' /><br/>
+No Time to Die, the 25th James Bond film, has been pushed back an entire year. It will now arrive on April 2nd, 2021, the film's producers confirmed today.
+<a href='https://www.theverge.com/2020/10/2/21499362/james-bond-no-time-to-die-delay-april-2021'> Source <a/>

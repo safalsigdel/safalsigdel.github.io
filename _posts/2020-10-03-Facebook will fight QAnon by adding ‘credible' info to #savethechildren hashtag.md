@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hOAwzc3rR8t2uY8QLq2mwY03-VA=/0x0:4761x3169/1200x800/filters:focal(2001x1205:2761x1965)/cdn.vox-cdn.com/uploads/chorus_image/image/67567296/1228596320.jpg.0.jpg' width='700px' /><br/>
-Facebook is taking additional steps to restrict militia movements and the QAnon conspiracy theory movement. The company will reject ads that “praise, support or represent militarized social movements,” including militias and anarchist groups as well as QAnon.
-<a href='https://www.theverge.com/2020/10/1/21497609/facebook-qanon-militia-ad-ban-content-derank-save-the-children-label'> Source <a/>

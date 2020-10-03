@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ETtaeLsmDrUgt6N9qwNJdapF7Xc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67568223/akrales_191113_3779_0319.0.jpg' width='700px' /><br/>
-Google's Stadia controller now has support for USB-C audio devices when playing on a Chromecast or via a web browser. That gives you an easy way to add headphones and a microphone, since you can simply plug in a set of wired USB-C earbuds like the Google's Pixel USB-C earbuds, gaming headset, the Asus ROG Delta, or even the wireless SteelSeries Arctis 1 gaming headset with its wireless USB-C adapter (It works, a Redditor confirms.)
-<a href='https://www.theverge.com/2020/10/1/21497850/google-stadia-controller-usb-c-support'> Source <a/>

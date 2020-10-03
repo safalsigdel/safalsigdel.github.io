@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EiyMyZYw4ypWdhQbUsQDBGyvZIs=/0x0:5919x3946/1200x800/filters:focal(2487x1500:3433x2446)/cdn.vox-cdn.com/uploads/chorus_image/image/67568566/1215765250.jpg.0.jpg' width='700px' /><br/>
-1.44 percent of Amazon's front-line employees, or 19,816 workers, have tested positive or been “presumed positive for COVID-19,” Amazon said in a blog post published Thursday. The company says it employs 1,372,000 front-line employees across both Amazon and Whole Foods.
-<a href='https://www.theverge.com/2020/10/1/21497941/amazon-disclose-workers-contract-covid-19'> Source <a/>

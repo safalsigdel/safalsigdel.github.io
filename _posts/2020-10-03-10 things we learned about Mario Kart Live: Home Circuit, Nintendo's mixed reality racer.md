@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yY_RXVvhbAEQ2uPMHs9ZVMujOLA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67568523/Switch_MKLHC_Media_SCRN05.0.png' width='700px' /><br/>
-One of Nintendo's more intriguing upcoming games is Mario Kart Live: Home Circuit. Developed by Velan Studios, it's a title that follows the likes of Labo and Pokxc3xa9mon Go, attempting to take Nintendo's playful experiences and translate them into the real world. In this case, Home Circuit is both a game you play on a Switch and a remote control racer that will take over your living room.
-<a href='https://www.theverge.com/21495625/mario-kart-live-home-circuit-nintendo-switch-mixed-reality-racer-preview'> Source <a/>
