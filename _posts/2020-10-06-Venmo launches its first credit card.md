@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8pt2K8ikTwTPxbwSbrJbl5ayvpQ=/0x0:1000x576/1200x800/filters:focal(420x208:580x368)/cdn.vox-cdn.com/uploads/chorus_image/image/67584667/venmo.0.png' width='700px' /><br/>
+Venmo has launched its first credit card (the aptly named Venmo Credit Card). It's rolling out today to “select customers,” according to the company, but it will be available to everyone in the coming months. You can apply through the Venmo app, provided that you're at least 18, live in the US, and have a Venmo account in good standing that's been open for at least 30 days.
+<a href='https://www.theverge.com/2020/10/5/21502516/venmo-credit-card-spending-cash-back-visa-mastercard-app-payments-mobile'> Source <a/>
