@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YGMUxqMN92YaiD-4o193Ch0xWrg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67584375/cfaulkner_200929_4215_0005.0.0.jpg' width='700px' /><br/>
+Samsonite has debuted two new Konnect-i backpacks, one standard-sized for $230 and one slim-sized option for $200, each equipped with Google's Jacquard technology that can make fabric respond to your touch.
+<a href='https://www.theverge.com/2020/10/5/21497032/samsonite-konnect-i-google-jacquard-touch-fabric-backpack-price'> Source <a/>
