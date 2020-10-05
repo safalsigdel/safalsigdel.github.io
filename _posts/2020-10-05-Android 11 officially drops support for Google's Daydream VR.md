@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0cq6c0Qo1UZ5DsKEmIdSm1RHFG0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67572734/vpavic_161024_1252_0066.0.0.jpeg' width='700px' /><br/>
-Google officially dropped Daydream virtual reality support from Android 11 — a final step in its retirement of the system. As Android Police notes, Google posted an announcement saying its latest version of Android doesn't support the VR platform's app. “Daydream VR app is no longer supported by Google and may not work properly on some devices running Android 11 or later,” it reads.
-<a href='https://www.theverge.com/2020/10/2/21499133/google-daydream-vr-android-11-drops-support'> Source <a/>

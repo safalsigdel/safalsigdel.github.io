@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d4c9MNrkgj3yFXUUp0Jbv3mu3Kc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67582634/acastro_200428_1777_coronavirus_0003.0.0.jpg' width='700px' /><br/>
+The UK failed to add nearly 16,000 confirmed cases of coronavirus to its national track and trace system due to an unspecified “technical issue.” According to a report in The Daily Mail, the mistake occurred when a Microsoft Excel spreadsheet used to track confirmed cases of the virus reached its maximum file size and failed to update.
+<a href='https://www.theverge.com/2020/10/5/21502141/uk-missing-coronavirus-cases-excel-spreadsheet-error'> Source <a/>

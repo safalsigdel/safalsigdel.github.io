@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iLjhNDHeYb3q3fuHrWh2qZ2odis=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/67572720/iPhoneXs_SpaceGray_SquareTerminal_RightHand_PR_SCREEN.0.png' width='700px' /><br/>
-Some Apple Card users have reported seeing mysterious charges on their credit card statements from “Waters Hardy & Co.,” a 10-person Dallas-based tax preparation and consulting firm. It's a real company. But strangely, it seems those charges were actually mislabeled transactions from AT&T.
-<a href='https://www.theverge.com/2020/10/2/21498824/apple-credit-card-mislabeling-at-t-charges-transactions-waters-hardy-co'> Source <a/>
