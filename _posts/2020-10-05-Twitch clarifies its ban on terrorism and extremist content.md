@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2gePLxz-HOvtwGJad7FQMPxIsjw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67584466/acastro_190926_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
+Twitch has updated its community guidelines, the rules that govern the site, to clarify its ban of terrorist and extremist content. The move appears to be in order to strengthen its language around that sort of material.
+<a href='https://www.theverge.com/2020/10/5/21502677/twitch-clarifies-its-ban-on-terrorism-extremist-content'> Source <a/>
