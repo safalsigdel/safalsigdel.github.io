@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zoi-3YNEIAUUkcZT0W0HE_8tGRc=/0x0:1020x678/1200x800/filters:focal(460x264:622x426)/cdn.vox-cdn.com/uploads/chorus_image/image/67577206/Grindr.0.jpg' width='700px' /><br/>
+You would think a dating app that knows your sexuality and HIV status would take thorough precautions to keep that info protected, but Grindr has disappointed the world once again — this time, with a gobsmackingly egregious security vulnerability that could have let literally anyone who could guess your email address into your user account.
+<a href='https://www.theverge.com/2020/10/3/21500447/grindr-copy-paste-security-flaw-user-account'> Source <a/>

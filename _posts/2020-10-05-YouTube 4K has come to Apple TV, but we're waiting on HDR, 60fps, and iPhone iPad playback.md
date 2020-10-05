@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8wDzLJs1FR-NJu_zdadQSA__dGM=/0x0:2040x1360/1200x800/filters:focal(784x591:1110x917)/cdn.vox-cdn.com/uploads/chorus_image/image/67576994/akrales_170919_1976_0018.0.jpg' width='700px' /><br/>
+“A big frustration with the Apple TV 4K is about to be history,” my colleague Chris Welch wrote, when we learned that Apple's premiere set-top box would finally be able play 4K YouTube videos at their native resolution instead of being stuck at 1080p. These days, even a $40 dongle can do better than that.
+<a href='https://www.theverge.com/2020/10/3/21500399/apple-tv-youtube-4k-iphone-ipad-hdr-30-fps'> Source <a/>
