@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Utq7tgKTVHgMiOmmFqOrfi18_yU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67572843/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
-Would-be TikTok competitor Triller has allegedly inflated its monthly active user numbers, according to a report published in Business Insider.
-<a href='https://www.theverge.com/2020/10/2/21499177/tiktok-competitor-triller-monthly-active-users'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PeeHf5xJR0j0DfRkoGOcGTAHBfc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67582794/wdeasystore5tb.0.jpg' width='700px' /><br/>
+Best Buy's deal of the day is on Western Digital's Easystore USB 3.0 portable hard drive with a whopping 5TB of storage. Usually priced at $180, it's down to $100 today only. This hard drive is perfect for people who have just an absolutely massive amount of data that they want to back up or transfer to another device. It would also make for a solid Time Machine drive if you're a macOS user.
+<a href='https://www.theverge.com/good-deals/2020/10/5/21502168/western-digital-hard-drive-samsung-t7-ssd-usbc-nintendo-switch-games-deal'> Source <a/>
