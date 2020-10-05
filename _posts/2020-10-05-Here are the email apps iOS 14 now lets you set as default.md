@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zJx14u4Ap1VaLvcNSwTrUzJ14lc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67431401/ios_14_dbohn.0.jpg' width='700px' /><br/>
-Apple's iOS 14 and iPadOS 14 launched this week, introducing a ton of new features to the company's smartphones and tablets — including the option to change your default browser and default email apps to services like Chrome or Outlook to handle links by default instead of Apple's native Safari and Mail apps. Here's a running list of available third-party browsers on iOS 14.
-<a href='https://www.theverge.com/21445442/apple-ios-14-default-email-apps-how-to'> Source <a/>
