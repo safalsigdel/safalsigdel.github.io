@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/c88sBdeHGmiisRwQ3QMeXTXBzTk=/0x0:500x500/1200x0/filters:focal(0x0:500x500):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21936906/1538582207_IMG_1069307.jpg' width='700px' /><br/>
+The Zeiss ZX1, a unique camera that was announced more than two years ago before the company essentially stopped talking about it, may actually be in customers' hands at some point in the near future. As noted by DPReview, B&H Photo has sent out emails saying that it's coming soon and is now available to preorder for $6,000. It was originally supposed to be released in early 2019.
+<a href='https://www.theverge.com/2020/10/5/21501940/zeiss-zx1-camera-preorder-price-date'> Source <a/>
