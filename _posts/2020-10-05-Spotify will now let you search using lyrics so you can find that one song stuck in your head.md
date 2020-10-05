@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yTHvaIwuYbBB9ZMVjZgm23HsaHY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67584083/acastro_180213_1777_0003.0.jpg' width='700px' /><br/>
+For those times when you're constantly singing a line of a song but just can't remember what song those lyrics came from, Spotify can now help you with that. You can now search for songs by their lyrics on iOS and Android (via 9to5Mac).
+<a href='https://www.theverge.com/2020/10/5/21502455/spotify-lyrics-search-feature-ios-android'> Source <a/>

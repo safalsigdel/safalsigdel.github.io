@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fR02_vV3rOF2lu6OujwMJ4N9dL8=/0x0:3840x2160/1200x800/filters:focal(1277x727:1891x1341)/cdn.vox-cdn.com/uploads/chorus_image/image/67573972/DynamicWeather.0.jpg' width='700px' /><br/>
-The new Microsoft Flight Simulator is an immersive beast of a PC game, and we can only imagine how immersive it might get in VR — but you might not have to imagine much longer, because Microsoft has just opened signups (via Eurogamer) for a closed beta of the virtual reality experience.
-<a href='https://www.theverge.com/2020/10/2/21499518/microsoft-flight-simulator-vr-closed-open-beta-test-sign-up'> Source <a/>

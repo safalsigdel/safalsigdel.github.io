@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xdl0ogE5uEF7FmiB2BFII6LrLpQ=/0x0:660x440/1200x800/filters:focal(278x168:382x272)/cdn.vox-cdn.com/uploads/chorus_image/image/67583196/binglogo.0.jpg' width='700px' /><br/>
+Microsoft is rebranding its Bing search engine to Microsoft Bing today as part of a rebranding effort. While the vast majority of people are likely to still just call it Bing, Microsoft unveiled its shift toward Microsoft Bing in a blog post today. Microsoft doesn't go into detail about why it added the company's name to the Bing brand, other than it reflecting “the continued integration of our search experiences across the Microsoft family.”
+<a href='https://www.theverge.com/2020/10/5/21502315/microsoft-bing-rebrand-search-engine-logo'> Source <a/>

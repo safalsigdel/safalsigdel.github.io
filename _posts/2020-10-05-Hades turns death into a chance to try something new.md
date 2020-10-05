@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WV5MwXh-9MKm8yOoO-ejID_C-f4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67583516/Hades_Aug19_03.0.png' width='700px' /><br/>
+In most games, death feels like a waste of time. That's true whether I die because I fail to react quickly enough, don't have the right gear, or am just outmatched by the challenge before me. But in Hades, a new roguelike from Bastion maker Supergiant Games, losing against a horde of enemies or a challenging boss in my attempts to escape the Underworld rarely feels like a waste of time.
+<a href='https://www.theverge.com/2020/10/5/21502405/hades-death-try-something-new-supergiant-games'> Source <a/>

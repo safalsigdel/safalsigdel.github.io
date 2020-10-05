@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-An Apple patent application published yesterday reveals an idea for a foldable smartphone that would include a “self-healing” display cover, allowing the device to repair dents or scratches covering the screen. The application, spotted by Patently Apple, was originally filed by Apple in January.
-<a href='https://www.theverge.com/circuitbreaker/2020/10/2/21498857/apple-foldable-self-healing-display-patent-application'> Source <a/>

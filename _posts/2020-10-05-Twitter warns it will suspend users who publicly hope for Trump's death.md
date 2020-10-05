@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/citNbp9o3Aic_ccavbhd0yl3Qhc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67573823/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
-President Trump reportedly has COVID-19, and while some are wishing for his speedy recovery, others have publicly tweeted a hope that he'll die of the disease. As you might imagine, that's expressly against Twitter's rules — and the company tells Motherboard that it will enforce them.
-<a href='https://www.theverge.com/2020/10/2/21499478/twitter-suspend-tweet-trump-death-covid-19-rules'> Source <a/>

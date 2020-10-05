@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qBhg1TImq6WRUFP7JqIkiosDa_8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67583228/kraARVgM.0.jpeg' width='700px' /><br/>
+A remaster of Criterion's hit Need for Speed: Hot Pursuit is on the way, and it's coming soon. You'll be able to play Need for Speed: Hot Pursuit Remastered on PC, PlayStation 4, and Xbox One on November 6th and on the Nintendo Switch on November 13th.
+<a href='https://www.theverge.com/2020/10/5/21498226/need-for-speed-hot-pursuit-remastered-pc-ps4-xbox-one-nintendo-switch'> Source <a/>
