@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aihWoMOjnoWahLuxWFtQEIxYjUk=/0x0:1800x1200/1200x675/filters:focal(1282x58:1570x346)/cdn.vox-cdn.com/uploads/chorus_image/image/67585220/G6qsc5bn__1_.10.jpg' width='700px' /><br/>
-A Ugandan environmental activist was suspended from Twitter in the midst of a high-profile campaign — a suspension he believes is connected to his opponents in the country's government and industries linked to deforestation. Twitter won't say what caused the account to be frozen, but environmental groups worry it's part of a broader trend of powerful stakeholders exploiting Twitter's moderation system to silence climate activists.
-<a href='https://www.theverge.com/2020/10/5/21502827/climate-change-activist-twitter-account-suspended'> Source <a/>

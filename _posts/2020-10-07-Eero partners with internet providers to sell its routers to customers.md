@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FWr3p3DOq-oFL3cQ3ZNWMPP_JnA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67589910/akrales_170606_1750_0101.0.jpg' width='700px' /><br/>
+Eero is moving beyond consumers and partnering with internet service providers. The Amazon-owned router company has announced Eero for Service Providers, an offering that includes hardware and software tools for ISPs. It will be available in the US and Canada starting in November, with more features coming in December and throughout 2021. Eero says it's offering the tools at “attractive price points.”
+<a href='https://www.theverge.com/2020/10/6/21504317/eero-for-service-providers-launch-isps-partnership-routers'> Source <a/>

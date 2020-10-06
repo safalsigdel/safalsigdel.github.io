@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DpNtIiQbNyBtJwv4TgacMpm5RlU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67585602/acastro_190412_1777_slack_0002.0.jpg' width='700px' /><br/>
-You're weren't imagining it: Slack was acting up for much of the day on Monday. Per an official statement that was posted to Slack's status site while the issues were happening: “Users are experiencing degraded performance across devices and may be unable to connect.” The outage seemed to be affecting all services across the platform through various parts of the day.
-<a href='https://www.theverge.com/2020/10/5/21503082/slack-down-issues-slow-loading-threads-messages'> Source <a/>

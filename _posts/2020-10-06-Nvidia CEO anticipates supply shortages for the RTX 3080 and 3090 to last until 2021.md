@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J1XbBI1uRCKKu3DYKPDJpdVKJYo=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/67585673/twarren_rtx3080.0.jpg' width='700px' /><br/>
-If you are looking to get your hands on an Nvidia RTX 3080 or 3090 graphics card, you're probably going to have to wait until 2021. Nvidia CEO Jensen Huang announced today that the company expects shortages for both graphics cards will continue to for the remainder of the year, Tom's Hardware and Wccftech reports.
-<a href='https://www.theverge.com/2020/10/5/21503001/nvidia-rtx-3080-and-3090-supply-issues-2021'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WSC9BmeBiHZwokpwbRvn7UUEXYc=/0x0:2040x1360/1200x800/filters:focal(889x626:1215x952)/cdn.vox-cdn.com/uploads/chorus_image/image/67584801/vpavic_200728_4113_0127.0.jpg' width='700px' /><br/>
-The $349 Pixel 4A is such a good phone for the money, but there's one thing that's bugged me from the start: my new phone is really, really bad at figuring out when its screen should be bright and when it needs to be dim. I'm constantly fidgeting with the brightness slider just to see the screen properly when I move from dark to light environments, even though I keep auto-brightness turned on.
-<a href='https://www.theverge.com/2020/10/5/21502794/google-pixel-4a-security-patch-2-xl-october-update-brightness-fix'> Source <a/>

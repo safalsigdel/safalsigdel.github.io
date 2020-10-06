@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Gaming peripheral company Razer is known for making a lot of... interesting products that go well beyond its core PC hardware market. But nothing prepared me for today's news of Razer's latest venture: a light-up prepaid credit card.
+<a href='https://www.theverge.com/tldr/2020/10/6/21504004/razer-light-up-prepaid-card-rgb-lighting-rewards'> Source <a/>

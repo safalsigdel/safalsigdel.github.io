@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Kb_9Rwyafvmni-sKrVxeBQMnKrU=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/67584846/en_US___App_Menu__New___Popular___1_.0.png' width='700px' /><br/>
-Netflix is trying to surface more new shows in one place. The company announced that it's going to group some of its content rows together into a tab called New & Popular. This section will only show up on TV devices and is rolling out widely after first being tested in April.
-<a href='https://www.theverge.com/2020/10/5/21502772/netflix-new-popular-row-tab-tv-update'> Source <a/>

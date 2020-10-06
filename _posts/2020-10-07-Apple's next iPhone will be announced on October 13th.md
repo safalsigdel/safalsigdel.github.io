@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h56VVnVXNh0nArEQiMtBnEjX7Wk=/0x0:1266x949/1200x800/filters:focal(532x374:734x576)/cdn.vox-cdn.com/uploads/chorus_image/image/67589366/Untitled.0.png' width='700px' /><br/>
+It's finally here: Apple has announced that its iPhone event will take place on October 13th, with the invitation teasing the announcement with the phrase “Hi, Speed.”
+<a href='https://www.theverge.com/2020/10/6/21498218/apple-fall-iphone-12-event-october-13th'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4IkK9pUP5muQtGZzqweUCeydxPE=/0x0:1100x825/1200x800/filters:focal(462x325:638x501)/cdn.vox-cdn.com/uploads/chorus_image/image/67589393/IMG_2642.0.jpeg' width='700px' /><br/>
+Every Tuesday this month, Vergecast co-host Dieter Bohn is hosting a series of discussions diving deep into tech review season, each focusing on a specific product.
+<a href='https://www.theverge.com/2020/10/6/21504052/google-nexus-pixel-5-uravgconsumer-intervew-vergecast-podcast'> Source <a/>

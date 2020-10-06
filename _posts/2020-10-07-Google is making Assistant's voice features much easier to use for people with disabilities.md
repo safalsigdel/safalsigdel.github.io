@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ip78HY7RG_i2025COKpa-MZHoYU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67589320/Tobii_Dynavox_device_with_Google_Assistant.0.jpg' width='700px' /><br/>
+Google has partnered with leading accessibility firm Tobii Dynavox, best known for creating speech synthesis and eye-tracking devices, to integrate Google Assistant into the company's Snap Core First line of dedicated tablets and mobile apps. That way, people who have trouble speaking can now use Assistant to control home appliances and other smart home products.
+<a href='https://www.theverge.com/2020/10/6/21503030/google-assistant-tobii-dynavox-snap-core-first-eye-tracking-accessibility'> Source <a/>
