@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-eZ3nB8iI0r8md7-IRFrCZvDIqg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67587868/akrales_180319_2395_0032.0.jpg' width='700px' /><br/>
+Samsung is discontinuing a handful of Bixby's augmented reality features starting at the end of October, according to a notice being shown to users in its camera app. A screenshot published by Android Police says the Places, Makeup, Home Decor, and Styling features will soon no longer be supported in Bixby Vision.
+<a href='https://www.theverge.com/2020/10/6/21503895/bixby-vision-ar-augmented-reality-discontinued-samsung'> Source <a/>

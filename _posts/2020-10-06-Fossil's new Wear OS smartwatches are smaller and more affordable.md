@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/INhfszZBCKE-IsCjIte2R4v4tVw=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/67582755/fossil_gen_5e_42mm.0.jpg' width='700px' /><br/>
-Fossil's new Gen 5E smartwatches are paired-down versions of last year's Gen 5 series, but they come in more sizes and at a more affordable price. As well as three new 44mm styles, the new Gen 5E is available in a new 42mm size, which features smaller bezels to maintain the same 1.19-inch OLED display. Both sizes of the Gen 5E will retail for $249, compared to the $295 starting price of the Gen 5.
-<a href='https://www.theverge.com/2020/10/5/21501984/fossil-gen-5e-smartwatch-price-features-wear-os-tethered-gps-crown-size'> Source <a/>
