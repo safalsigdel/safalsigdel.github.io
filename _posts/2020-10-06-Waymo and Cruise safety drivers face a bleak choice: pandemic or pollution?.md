@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mQZOdthnBY04bjdW3Cnrzt8TC3Y=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67582144/acastro_201001_4222_seldrivingCOVID_0001.0.jpg' width='700px' /><br/>
-Leo* stepped out of his house in Oakland recently to start his day as a backup driver for Waymo, the self-driving car company owned by Alphabet, and couldn't believe what he saw.
-<a href='https://www.theverge.com/2020/10/5/21473719/waymo-cruise-self-driving-car-backup-safety-driver-pandemic-wildfires-california'> Source <a/>
