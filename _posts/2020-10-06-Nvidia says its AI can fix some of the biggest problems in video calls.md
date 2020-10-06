@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OslDlPs2T6AmvFB2tXSSB_jxpZ4=/0x0:1653x1243/1200x800/filters:focal(695x490:959x754)/cdn.vox-cdn.com/uploads/chorus_image/image/67582351/nvidia_maxine_features_3.0.jpg' width='700px' /><br/>
-Nvidia has announced a new videoconferencing platform for developers named Nvidia Maxine that it claims can fix some of the most common problems in video calls.
-<a href='https://www.theverge.com/2020/10/5/21502003/nvidia-ai-videoconferencing-maxine-platform-face-gaze-alignment-gans-compression-resolution'> Source <a/>

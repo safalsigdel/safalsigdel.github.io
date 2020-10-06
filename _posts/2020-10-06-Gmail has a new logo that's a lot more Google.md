@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K-q2WRPRyxxzzPLjxHGt26swMfM=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/67587450/newgmaillogo.0.jpg' width='700px' /><br/>
+Google is replacing its iconic Gmail envelope logo with a design that's a lot more in keeping with other Google products. The new Gmail logo is now an M made out of Google's core blue, red, yellow, and green brand colors. It more closely matches similar logos for Google itself, Google Maps, Google Photos, Chrome, and many more Google products. The envelope is no more.
+<a href='https://www.theverge.com/2020/10/6/21503835/gmail-new-logo-design-google-workspace-features'> Source <a/>
