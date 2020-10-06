@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SAaiFVPlkF-V6Z7gaOKbpdL7QMM=/0x0:6240x4160/1200x800/filters:focal(2621x1581:3619x2579)/cdn.vox-cdn.com/uploads/chorus_image/image/67581705/1264342387.jpg.5.jpg' width='700px' /><br/>
-The second largest cinema chain in the US is temporarily closing its doors nationwide. Cineworld, parent company of Regal, announced that it will be suspending operations of its 536 Regal theaters as of Thursday, October 8. The suspension also affects 127 Cineworld and Picturehouse cinemas in the UK.
-<a href='https://www.theverge.com/2020/10/5/21501986/regal-cineworld-picturehouse-closing-theaters-october-8'> Source <a/>

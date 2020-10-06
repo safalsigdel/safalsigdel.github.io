@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NHxXGGbx1dYyK3Hlyg1kh506pFg=/0x0:3308x2206/1200x800/filters:focal(1390x839:1918x1367)/cdn.vox-cdn.com/uploads/chorus_image/image/67585398/rogphone3heroo.0.jpg' width='700px' /><br/>
+Asus' latest gaming phone, the ROG Phone 3, is now available in the US. The ROG Phone 3 has some of the highest specs out there for a smartphone along with a bunch of features and accessories meant to enhance the mobile gaming experience.
+<a href='https://www.theverge.com/2020/10/5/21502186/asus-rog-phone-3-release-date-price'> Source <a/>

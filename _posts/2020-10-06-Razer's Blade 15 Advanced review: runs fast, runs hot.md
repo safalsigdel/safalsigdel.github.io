@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p6tEHzH5miTZ8G9bd-pdxPRazIA=/0x0:2040x1360/1200x800/filters:focal(901x457:1227x783)/cdn.vox-cdn.com/uploads/chorus_image/image/67578516/cfaulkner_200929_4214_0004.0.0.jpg' width='700px' /><br/>
-If you've seen one Razer Blade laptop in the past few years, you've essentially seen them all. The new Blade 15 Advanced is another one of those monochromatic, monolithic machines milled out of aluminum. But this one is a beast on the inside, with enough year-to-year improvements elsewhere to be worthy of your attention.
-<a href='https://www.theverge.com/21499199/razer-blade-15-advanced-edition-gaming-laptop-2020-review'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FaQNTUZY40oAGPkP4KIJJOuEaVM=/0x0:4105x2735/1200x0/filters:focal(0x0:4105x2735):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21934334/monster_hunter_movie_promo_image.jpg' width='700px' /><br/>
-James Bond may not avert his next death until 2021, but apparently Paul W.S. Anderson's Monster Hunter movie will still hit the big screen this year: the just-posted official teaser trailer for the movie confirms that it'll arrive this December, “only in theaters.”
-<a href='https://www.theverge.com/2020/10/3/21500225/monster-hunter-movie-first-teaser-trailer-footage-milla-jovovich-black-diablos'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E9TNK63BIgxPVZX_AIUZNXeOM2E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67579365/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter has confirmed it's working on a new feature, currently dubbed “Birdwatch,” that could let the Twitter community warn one another about misleading tweets that could cause harm.
-<a href='https://www.theverge.com/2020/10/4/21500687/twitter-birdwatch-misinfo-tool-propaganda'> Source <a/>

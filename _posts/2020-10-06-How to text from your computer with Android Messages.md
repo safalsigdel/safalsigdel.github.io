@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gQGEtapM9OOu7paOJY5S-rhbK-c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67585563/jbareham_171017_2065_0164.0.jpg' width='700px' /><br/>
+Google has the ability to text from the web with Android Messages. The feature gives users a lot more flexibility in choosing how and where they can carry on conversations. As long as your Android smartphone is powered on, you can text from a desktop computer or even other mobile devices — including iOS products like an iPad if you just open up Safari. Aside from text, you can also send emoji, stickers, and images over the web.
+<a href='https://www.theverge.com/21502831/android-messages-how-to-text-from-web-feature'> Source <a/>

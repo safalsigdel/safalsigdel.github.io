@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rqG8RccKrlEBpDbC0lv5G0VHxvs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67586132/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
+If you've decided against paying for YouTube Music but have still found yourself using the service as a cloud locker for your uploaded tracks, you can now cast that content to devices and speakers around your home. Initially, only premium subscribers were able to cast — a restriction that angered some people after they made the switch from Google Play Music to YouTube Music.
+<a href='https://www.theverge.com/2020/10/5/21503250/youtube-music-free-accounts-cast-music-feature'> Source <a/>

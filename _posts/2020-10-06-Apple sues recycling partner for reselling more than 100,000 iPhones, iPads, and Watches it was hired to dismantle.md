@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wqM_idoRPm0xgqY5tjtayJv1ONo=/0x0:640x381/1200x800/filters:focal(269x140:371x242)/cdn.vox-cdn.com/uploads/chorus_image/image/67578288/apple_graphic_1.0.jpg' width='700px' /><br/>
-Apple is suing former recycling partner GEEP Canada — now a part of Quantum Lifecycle Partners — for allegedly stealing and reselling at least 103,845 iPhones, iPads, and Watches it was hired to disassemble. “At least 11,766 pounds of Apple devices left GEEP's premises without being destroyed - a fact that GEEP itself confirmed,” reads a portion of Apple's complaint, as reported by The Logic (via AppleInsider).
-<a href='https://www.theverge.com/apple/2020/10/4/21499422/apple-sues-recycling-company-reselling-ipods-ipads-watches'> Source <a/>
