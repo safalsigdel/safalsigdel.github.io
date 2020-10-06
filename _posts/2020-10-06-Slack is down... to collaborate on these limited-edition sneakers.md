@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Shoemaker Cole Haan is collaborating with Slack, everyone's favorite occasionally offline workplace messaging service on a new pair of limited-edition sneakers. The Slack-branded shoes are expected to be properly unveiled Wednesday when they're set to “drop” (am I saying that right?). But for now Cole Haan has teased the designs in a dimly lit image posted to its social media channels. t
+<a href='https://www.theverge.com/tldr/2020/10/6/21503852/slack-cole-haan-sneaker-drop-shoemaker-limited-edition'> Source <a/>
