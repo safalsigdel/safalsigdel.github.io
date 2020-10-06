@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/S_P-2SLyNN11Q61wRgeyopFt38o=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/67587674/1228752934.jpg.0.jpg' width='700px' /><br/>
-Etsy is the latest e-commerce site to remove merchandise related to the far-right Proud Boys organization, telling The Verge that selling such items violates the company's policies prohibiting “among other things, hate against protected identities [and] attempting to incite violence against individuals or groups.”
+Etsy has removed a range of items related to the far-right Proud Boys organization, telling The Verge that selling such items violates the company's policies prohibiting “among other things, hate against protected identities [and] attempting to incite violence against individuals or groups.”
 <a href='https://www.theverge.com/2020/10/6/21503847/proud-boy-merchandise-stand-back-stand-by-removed-etsy-amazon-teespring'> Source <a/>
