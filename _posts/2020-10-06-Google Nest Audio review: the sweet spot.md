@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nPQoFCqV5xWUFEXBaH3oJRArFno=/0x0:5248x3499/1200x675/filters:focal(2273x2014:3111x2852)/cdn.vox-cdn.com/uploads/chorus_image/image/67582183/dseifert-nest-audio-4225-1.0.0.jpeg' width='700px' /><br/>
-Four years is an eternity in the modern tech product world, but that's exactly how long it's been since Google's first smart speaker, the Google Home, was released. Since then, Google has expanded the range both above and below it, with the compact and ubiquitous Nest Mini and the powerful and gargantuan Home Max.
-<a href='https://www.theverge.com/21501300/google-nest-audio-assistant-smart-speaker-review-price-specs-features'> Source <a/>
