@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Fk21yvYTORL9PvRlWKsP56KTGbM=/0x0:1593x893/1200x0/filters:focal(0x0:1593x893):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21942755/aviKoxO.png' width='700px' /><br/>
+Sony has published a seven-minute teardown video of the PS5. The teardown gives us the best look at the PS5 so far, including all of its internal parts and how the sides are removable. Yasuhiro Ootori, head of Sony's mechanical design for the PS5, leads the teardown in Japanese, noting that the entire rear of the PS5 is designed to exhaust air out of the console.
+<a href='https://www.theverge.com/2020/10/7/21505598/sony-ps5-playstation-5-tear-down-hardware'> Source <a/>
