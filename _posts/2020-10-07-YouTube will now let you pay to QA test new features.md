@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/2j2TuJEqb89EKrLl6d2wUf9urtk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67591210/acastro_200123_3880_Youtube_NDA_0001.0.0.jpg' width='700px' /><br/>
-YouTube has changed the way it tests new features: it's now allowing its Premium subscribers access to experimental products in the development pipeline, according to XDA-Developers. Previously, those features were tested by Google users picked at random to beta test.
+YouTube has changed the way it tests new features: it's now allowing its Premium subscribers access to experimental products in the development pipeline, as first spotted by Android Central. Previously, those features were tested by Google users picked at random to beta test.
 <a href='https://www.theverge.com/2020/10/6/21504817/youtube-premium-beta-test-labs-new-features'> Source <a/>
