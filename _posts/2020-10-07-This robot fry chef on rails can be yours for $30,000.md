@@ -1,3 +1,0 @@
-<img src='' width='700px' /><br/>
-Miso Robotics is one of the many firms trying to automate food preparation, and today, it announced that its latest machine — which places its burger-flipping bot Flippy on rails to move it about the kitchen more easily — is now on sale globally.
-<a href='https://www.theverge.com/2020/10/6/21503892/miso-robotics-flippy-roar-robotic-fry-chef-on-sale-price'> Source <a/>
