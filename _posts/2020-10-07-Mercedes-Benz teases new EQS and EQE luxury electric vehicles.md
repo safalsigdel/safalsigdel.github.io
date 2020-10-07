@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/etYHTT9Yu8GcjjO34HM-H_5dgoM=/0x0:6631x4421/1200x800/filters:focal(2786x1681:3846x2741)/cdn.vox-cdn.com/uploads/chorus_image/image/67589205/20C0569_094.0.jpg' width='700px' /><br/>
-Mercedes-Benz unveiled a lineup of new electric vehicles built on a scalable architecture that will enable the automaker to tailor its production to a variety of vehicle types and shapes.
-<a href='https://www.theverge.com/2020/10/6/21504049/mercedes-benz-eqs-electric-sedan-eqe-suv'> Source <a/>

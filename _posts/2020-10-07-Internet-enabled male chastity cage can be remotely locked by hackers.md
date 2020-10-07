@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YVaID4-yDl5FRXtzGRJb1SFQu1Q=/0x0:1003x664/1200x800/filters:focal(422x252:582x412)/cdn.vox-cdn.com/uploads/chorus_image/image/67589118/qiui_cellmate.0.jpg' width='700px' /><br/>
-A security flaw in an internet-enabled male chastity device allows hackers to remotely control the gadget and permanently lock in wearers, researchers disclosed today.
-<a href='https://www.theverge.com/2020/10/6/21504019/internet-enabled-male-chastity-cage-cellmate-qiui-security-flaw-remotely-locked'> Source <a/>
