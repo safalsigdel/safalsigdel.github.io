@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-NWDFWL0kyPAnC1OiQQRPPMXvfM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67359718/akrales_190914_3666_0259.0.jpg' width='700px' /><br/>
-Apple is likely taking the wraps off its 2020 iPhones at an event on October 13th, and the rumor mill is in full swing, hinting at some major changes coming to Apple's smartphones this year. And since we first published this post in September, there have been a few more rumors about the new phones.
-<a href='https://www.theverge.com/21423811/apple-iphone-12-max-pro-leaks-rumors-specs-design-2020'> Source <a/>
