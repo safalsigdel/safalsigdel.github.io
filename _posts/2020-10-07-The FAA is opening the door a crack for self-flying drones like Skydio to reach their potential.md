@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TEwRfZgM2KVWq7K2VA8HVMN2gSA=/205x199:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67592335/vpavic_191205_3829_0046.0.jpg' width='700px' /><br/>
+You can't fly a drone at night. You can't fly a drone over people. You need to be able to see it with your naked eye at all times — or have a dedicated observer who can. These rules exist to keep dumb drones (and reckless pilots) from crashing into people, property, and other aircraft in the skies.
+<a href='https://www.theverge.com/2020/10/6/21505064/faa-visual-line-of-sight-skydio-2-waiver-ncdot-chula-vista'> Source <a/>

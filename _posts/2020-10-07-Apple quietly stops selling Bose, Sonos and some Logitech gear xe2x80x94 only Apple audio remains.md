@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R9GpYUd1klFyr8nmht_2Tj3589M=/0x0:2040x1360/1200x800/filters:focal(860x673:1186x999)/cdn.vox-cdn.com/uploads/chorus_image/image/67586672/akrales_190908_3650_0049.0.jpg' width='700px' /><br/>
-Apple just made its rivals disappear — in its own retail store, anyhow. As Bloomberg reports, the company has abruptly stopped selling Bose, Logitech, and Sonos audio products, including the popular Bose noise-canceling headphones that would almost certainly be a direct competitor to the headphones that Apple has repeatedly been rumored to be ready to announce sometime this year.
-<a href='https://www.theverge.com/2020/10/5/21503421/apple-stop-selling-bose-sonos-logitech-headphones-speakers'> Source <a/>

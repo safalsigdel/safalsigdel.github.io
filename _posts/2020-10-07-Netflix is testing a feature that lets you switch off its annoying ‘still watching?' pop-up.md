@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fneXPuYUdmIK9drYlRM92vT_3WY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67591036/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+Netflix is testing a feature that I am referring to as a “sick day function” — an option to turn off that pesky pop-up that appears after watching three episodes in a row of something to ask if you're still watching.
+<a href='https://www.theverge.com/2020/10/6/21504783/netflix-still-watching-feature-skip-streaming-test-binge'> Source <a/>

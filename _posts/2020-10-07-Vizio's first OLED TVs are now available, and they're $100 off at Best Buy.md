@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iLEq3F2WhdW8GvXk0VGlT9bzvds=/0x0:2529x1797/1200x800/filters:focal(972x747:1376x1151)/cdn.vox-cdn.com/uploads/chorus_image/image/67590990/VizioOLED.0.jpg' width='700px' /><br/>
+At the start of 2020, Vizio announced it would be joining LG and Sony in the OLED TV ranks, and now the company's first models have begun shipping. Available in 55- and 65-inch sizes, Vizio's 4K OLED TVs support Dolby Vision HDR and include both Chromecast and Apple AirPlay functionality built in.
+<a href='https://www.theverge.com/2020/10/6/21504781/vizio-oled-smartcast-4k-hdr-tv-now-available'> Source <a/>

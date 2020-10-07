@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6ZNSq7_ec4zeGO_sfvreFsjhv3g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67587328/DSCF7382.0.jpg' width='700px' /><br/>
-Instagram launched ten years ago today: the photo-sharing app first hit the App Store on October 6th, 2010, a few months after the release of the iPhone 4. To celebrate, Instagram has added an easter egg to the app that lets you change its home screen icon.
-<a href='https://www.theverge.com/2020/10/6/21503781/instagram-change-icons-birthday-celebration'> Source <a/>

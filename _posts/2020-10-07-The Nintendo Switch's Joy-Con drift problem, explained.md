@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0DIdEKROPITg29w3QsOoEaVpgYU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67590809/jbareham_180301_2346_nintendo_switch_0126.0.jpg' width='700px' /><br/>
+Nintendo Switch owners have been experiencing problems with the console's removable Joy-Con controllers for years now, with users reporting weird joystick drifting problems that cause false inputs and have been steadily growing over time as original Switch machines grow older.
+<a href='https://www.theverge.com/21504741/nintendo-switch-joy-con-drift-problem-explained'> Source <a/>

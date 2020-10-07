@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aExLJemVKRN4pgT7h5VK5WFmG-o=/0x0:1020x676/1200x800/filters:focal(445x375:607x537)/cdn.vox-cdn.com/uploads/chorus_image/image/67591576/amc-movie-theater-logo_1020.0.jpg' width='700px' /><br/>
+James Bond may have been the last straw for Regal and Cineworld, but analysts I spoke to agree: the only thing that will truly save movie theaters in the United States is a COVID-19 vaccine.
+<a href='https://www.theverge.com/21504536/movie-theaters-close-regal-cineworld-amc-cinemark'> Source <a/>

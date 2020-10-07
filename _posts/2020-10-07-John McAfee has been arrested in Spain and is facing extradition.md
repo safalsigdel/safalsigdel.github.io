@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R07SdvzHIi-kIRpRTE-pVlK4uLo=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/67586680/McAfee-GettyImages-589995820.0.0.jpg' width='700px' /><br/>
-John McAfee, who built a fortune selling cybersecurity software and has in recent years become a cryptocurrency evangelist, has been indicted on charges of tax evasion by the Department of Justice (DOJ). He has been arrested in Spain and is awaiting extradition, the DOJ said.
-<a href='https://www.theverge.com/2020/10/5/21503324/john-mcafee-indicted-tax-evasion-sued-doj-sec'> Source <a/>
