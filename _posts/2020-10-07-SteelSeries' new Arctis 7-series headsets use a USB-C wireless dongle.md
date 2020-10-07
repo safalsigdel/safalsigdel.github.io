@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hI3n4Gg3sj_H8woYQPerxnwMDS4=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/67588041/7X_P_couple_shot_001.0.jpg' width='700px' /><br/>
-SteelSeries has announced two new versions of its Arctis 7 wireless gaming headset, releasing in time for the Xbox Series X / S and the PS5 to launch. The Arctis 7X has a black and green design catered toward the Xbox Series X / S and Xbox One. The other is called the Arctis 7P, and it's an all-white headset that will look better paired with the PlayStation 5.
-<a href='https://www.theverge.com/2020/10/6/21502286/steelseries-arctis-7p-7x-xbox-series-x-s-ps5-usbc-wireless-gaming-headset'> Source <a/>
