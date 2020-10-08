@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AZ0M9ifHXM2miiwl66DcymTlMPw=/0x0:8081x5257/1200x800/filters:focal(3395x1983:4687x3275)/cdn.vox-cdn.com/uploads/chorus_image/image/67594713/xb_1_reveal_front_right_2.0.jpg' width='700px' /><br/>
-Boom Supersonic, an aviation startup, unveiled today a full-scale demonstrator of a supersonic passenger jet that aims to be the next-generation Concorde. The XB-1 demonstrator won't take flight until 2021, but Boom unveiled the prototype to a group of aviation and aerospace executives at Centennial Airport in Denver.
-<a href='https://www.theverge.com/2020/10/7/21505653/boom-supersonic-reveal-xb1-demonstrator-speed'> Source <a/>

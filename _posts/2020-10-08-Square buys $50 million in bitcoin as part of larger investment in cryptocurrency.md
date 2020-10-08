@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m1aI4fCPiLE5IcCiBqglsy71mq8=/0x0:2040x1360/1200x800/filters:focal(844x523:1170x849)/cdn.vox-cdn.com/uploads/chorus_image/image/67601594/acastro_bitcoin_2.0.jpg' width='700px' /><br/>
+Payments platform Square has purchased $50 million in bitcoin, part of its larger investment in cryptocurrency, the company announced on Thursday. Square bought a total of 4,709 bitcoins, which the company says represents about 1 percent of its total assets as of the end of the second quarter.
+<a href='https://www.theverge.com/2020/10/8/21507533/square-50-million-bitcoin-dorsey-cryptocurrency'> Source <a/>
