@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cJsy8ODOQiBnuNnHWhON7bD48OA=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67594069/acastro_201006_4230_001.0.jpg' width='700px' /><br/>
-“SPAC” stands for special-purpose acquisition company, which is kind of an obtuse way of saying “a mountain of cash that exists for a merger”; it is also sometimes called a “blank-check” company, usually in articles like this one that explain what SPACs are. You're hearing about them because there were 112 SPAC IPOs. The Wall Street Journal has dubbed 2020 a record year for SPACs.
-<a href='https://www.theverge.com/21502700/spac-explained-meaning-special-purpose-acquisition-company'> Source <a/>
