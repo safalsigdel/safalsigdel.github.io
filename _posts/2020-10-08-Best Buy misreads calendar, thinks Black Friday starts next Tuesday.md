@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WPWebYrx3sa9wmfH-GZ8i631b10=/0x0:1552x1035/1200x800/filters:focal(623x312:871x560)/cdn.vox-cdn.com/uploads/chorus_image/image/67600190/bestbuybutbigger.0.jpg' width='700px' /><br/>
+Best Buy has announced that it will be kicking off its Black Friday deals not on the Friday following Thanksgiving in the US, but next Tuesday, October 13th. This two-day deal fest will last through October 14th.
+<a href='https://www.theverge.com/2020/10/8/21506652/best-buy-early-black-friday-sale-deals-starts-october-13-amazon-prime-day'> Source <a/>
