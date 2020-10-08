@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KwtcH_CFQ206ye_yQJ0HjiGBnCc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67595229/etsy17_2040.0.0.jpg' width='700px' /><br/>
-Etsy has pulled merchandise related to radical conspiracy group QAnon from its platform. Insider reported the news today. An Etsy spokesperson told the publication that seller policies prohibit items “that promote hate, incite violence, or promote or endorse harmful misinformation. In accordance with these policies, we are removing items related to ‘QAnon' from our marketplace.”
-<a href='https://www.theverge.com/2020/10/7/21505911/etsy-qanon-merch-ban'> Source <a/>

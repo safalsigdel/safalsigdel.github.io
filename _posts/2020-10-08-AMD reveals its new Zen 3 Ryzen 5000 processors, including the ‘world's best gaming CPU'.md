@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-SI9ARP_dm_30_fsm33WYaZO7ME=/0x0:5120x2879/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/67602014/AMD_Ryzen_5000_Series_Lidded_5.0.png' width='700px' /><br/>
+AMD just announced its new lineup of Ryzen 5000 series processors for desktops, which are also the first chips from the company set to feature its next-gen Zen 3 architecture and represent the biggest jump for AMD's desktop chips yet.
+<a href='https://www.theverge.com/2020/10/8/21506447/amd-zen-3-ryzen-5000-processors-gaming-cpu-price-release-date'> Source <a/>
