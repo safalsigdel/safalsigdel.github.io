@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZKsZTLHe88l4MYfElDYdTeSAbY4=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/67591296/Pro_4_Image_B_.0.jpg' width='700px' /><br/>
-Arlo has announced two new security cameras: the Pro 4 Wire-Free Spotlight Camera and the Ultra 2 Wire-Free Spotlight Camera System. You can preorder both cameras now; the Pro 4 starts at $199.99 and the Ultra 2 starts at $299.99.
-<a href='https://www.theverge.com/2020/10/6/21504755/arlo-pro-4-wire-free-spotlight-camera-ultra-2'> Source <a/>

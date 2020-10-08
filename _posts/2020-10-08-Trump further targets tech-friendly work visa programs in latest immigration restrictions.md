@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6RR9Fyuq_WjcKYuM4FybMhgBdZ8=/0x0:4772x3117/1200x800/filters:focal(1834x193:2596x955)/cdn.vox-cdn.com/uploads/chorus_image/image/67595137/1278690383.jpg.0.jpg' width='700px' /><br/>
+The Trump administration on Tuesday outlined new rules tightening restrictions placed on guest worker visa programs, including the H-1B program favored by tech industry firms.
+<a href='https://www.theverge.com/2020/10/7/21505839/trump-h-1b-visa-guest-worker-restrictions-new-rules-white-house-ban'> Source <a/>

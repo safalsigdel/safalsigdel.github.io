@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RMG2Aaxzc1aOwKsZmDzAbC6MO18=/0x0:468x261/1200x800/filters:focal(192x137:266x211)/cdn.vox-cdn.com/uploads/chorus_image/image/67589436/image001.0.png' width='700px' /><br/>
-Facebook's Portal TV, its screen-less camera device you plug into a big screen, is getting Netflix. The company announced the update today, further rounding out what streaming apps are available through its family of video chat devices and making the Portal platform even more of a streaming stick competitor. (The Portal TV already supports Amazon Prime Video, Showtime, and Sling TV.)
-<a href='https://www.theverge.com/2020/10/6/21504264/facebook-portal-tv-netflix-app-update'> Source <a/>

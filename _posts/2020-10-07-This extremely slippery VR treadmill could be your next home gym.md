@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Virtual reality startup Virtuix is building a VR treadmill for your home. The Omni One is an elaborate full-body controller that lets you physically run, jump, and crouch in place. Following an earlier business- and arcade-focused device, it's supposed to ship in mid-2021 for $1,995, and Virtuix is announcing the product with a crowdfunding investment campaign.
-<a href='https://www.theverge.com/2020/10/7/21504797/virtuix-omni-one-vr-treadmill-announce-crowdfunding'> Source <a/>

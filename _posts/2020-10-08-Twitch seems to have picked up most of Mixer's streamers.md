@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gcCgrlU5vN6HAVTYZs3ekgsFCvA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67597896/acastro_200901_1777_twitch_0002.0.0.jpg' width='700px' /><br/>
+Streamers seem to have flocked to Twitch from Mixer after the Microsoft-owned live-streaming service announced plans to shut down in June. A new report shows that Twitch's share of hours broadcast on major live-streaming platforms jumped up by over 14 percentage points this quarter, taking away the nearly identical just over 14 percent market share that Mixer previously held.
+<a href='https://www.theverge.com/2020/10/7/21506668/twitch-mixer-streamers-facebook-gaming-hours-streamed'> Source <a/>

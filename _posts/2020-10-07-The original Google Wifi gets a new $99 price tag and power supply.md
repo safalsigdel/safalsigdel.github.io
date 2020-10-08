@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Brr9lt8rbuwOC0Y3GHW_lRJM2d8=/0x0:2346x1394/1200x800/filters:focal(986x510:1360x884)/cdn.vox-cdn.com/uploads/chorus_image/image/67589611/Screen_Shot_2020_10_06_at_12.30.46_PM.0.png' width='700px' /><br/>
-Google has quietly refreshed its original Google Wifi router as a $99 entry-level option for the company's wireless networking setup.
-<a href='https://www.theverge.com/2020/10/6/21504114/google-wifi-price-cut-hardware-update-usb-c-internet-nest-router'> Source <a/>

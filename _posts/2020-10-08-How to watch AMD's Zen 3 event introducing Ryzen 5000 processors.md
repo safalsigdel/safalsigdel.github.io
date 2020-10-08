@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/685rGwH_aatC5WkQqKDSpaI6yFc=/0x0:1280x720/1200x800/filters:focal(497x217:701x421)/cdn.vox-cdn.com/uploads/chorus_image/image/67597776/3rd_Gen_Ryzen__1_.5.jpg' width='700px' /><br/>
+With the proclamation that “a new journey begins,” AMD is announcing its new lineup of Ryzen 5000 processors for desktops, featuring its new Zen 3 architecture. The new chips are, if you go by AMD's website, going to be focused specifically on gaming and content creation and could be a powerful new competitor to Intel's 10th gen desktop lineup. (Intel's 11th gen desktop chips won't arrive till 2021.)
+<a href='https://www.theverge.com/2020/10/7/21506653/amd-ryzen-5000-processors-zen-3-how-to-watch'> Source <a/>
