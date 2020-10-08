@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0KVw8Qzy9nr6jtn0lNvuf6P_JCU=/0x0:1242x698/1200x0/filters:focal(0x0:1242x698):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21942700/IBBtKZ7.png' width='700px' /><br/>
-Slack will soon let anyone DM each other. A new Slack Connect direct messages feature will launch for businesses in early 2021 that expands on the idea of shared channels, and allows employees to directly connect with people from other organizations. If you're a Slack Connect user, you'll be able to share a private link with other Slack users to direct message you.
-<a href='https://www.theverge.com/2020/10/7/21505548/slack-direct-messaging-dm-company-feature'> Source <a/>

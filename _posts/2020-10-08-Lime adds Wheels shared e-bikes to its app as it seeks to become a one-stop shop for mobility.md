@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v7EIUkolTMiy9CKXGhFgzJQ8QGA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67600944/akrales_190321_3312_0040.0.jpg' width='700px' /><br/>
+The next time you open Lime's smartphone app, you may see a new type of vehicle that isn't an electric scooter. The San Francisco-based company announced today that it is integrating Wheels, a shared electric bike startup, into its app so customers can rent an e-bike from Wheels as easily as they would a scooter from Lime.
+<a href='https://www.theverge.com/2020/10/8/21506805/lime-wheels-app-integrate-scooter-bike-mobility'> Source <a/>
