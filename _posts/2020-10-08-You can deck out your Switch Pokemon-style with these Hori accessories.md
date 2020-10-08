@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/caoByZnG4GgY1Lu0rKjxInNW5vg=/0x0:2250x2250/1200x800/filters:focal(945x945:1305x1305)/cdn.vox-cdn.com/uploads/chorus_image/image/67598693/EjwMB_yX0AcOsC_.0.jpeg' width='700px' /><br/>
-If you've got pokxc3xa9mon on the brain with the imminent release of Pokxc3xa9mon Sword and Shield's next expansion, Hori's got lots of good-looking accessories on the way to help you deck out your Nintendo Switch with the beloved pocket monsters, including carrying cases, skins for your Switch Lite, and even themed versions of Hori's Split Pad Pro grip controller.
-<a href='https://www.theverge.com/2020/10/7/21506957/hori-pokemon-themed-nintendo-switch-accessories-gear'> Source <a/>
