@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EFHxrkxM85yVSmHjZnos792bBOU=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67600900/download.0.jpeg' width='700px' /><br/>
+Airborne cell towers have a number of advantages over their terrestrial brethren. They can cover a greater geographic area and be moved to where they're needed. But while the concept is years old, the technology is still under development.
+<a href='https://www.theverge.com/2020/10/8/21507397/alphabet-softabank-solar-power-autonomous-drone-lte-connection'> Source <a/>

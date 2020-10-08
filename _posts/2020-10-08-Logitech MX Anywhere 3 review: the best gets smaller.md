@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Te0etr4HhwpUEr-qGAyX0cf-7XI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67594075/cgartenberg_200915_4204_0003.0.0.jpg' width='700px' /><br/>
-Logitech's MX Anywhere 3 is the recently released successor to the MX Anywhere 2S from 2017, and the little brother to the MX Master 3, one of the best mice around. It's smaller, designed for travel, and serves as a nearly perfect compact mouse for anyone looking to be a little more productive, whether at home or on the go.
-<a href='https://www.theverge.com/21453387/logitech-mx-anywhere-3-review-compact-mouse'> Source <a/>
