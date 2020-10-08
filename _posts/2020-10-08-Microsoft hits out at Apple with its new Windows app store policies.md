@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zYn7hw9wL43tYjHPyb9_nio-A0c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67601796/acastro_180226_0001.0.jpg' width='700px' /><br/>
+Microsoft is making some firm commitments to the future of app stores on Windows today. The software giant has published 10 principles it's adopting as promises to app developers, including that it won't block competing stores on the platform or block specific business models an app may use to make money.
+<a href='https://www.theverge.com/2020/10/8/21507682/microsoft-apple-app-store-policies-principles-list'> Source <a/>
