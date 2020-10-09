@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BP0rcWh2iQ2knChsTcG7XnV3pss=/0x0:3000x1800/1200x800/filters:focal(1135x869:1615x1349)/cdn.vox-cdn.com/uploads/chorus_image/image/67608118/SKYE_KEYART.0.jpg' width='700px' /><br/>
+Riot's tactical shooter Valorant is entering its third season, which the developer is calling Act 3, on October 13th, and we've just seen the last of the update's new additions: an Australian agent named Skye joining the roster and bringing with her some pretty nifty supernatural powers.
+<a href='https://www.theverge.com/2020/10/9/21509294/valorant-act-3-skye-new-agent-icebox-map-features-release-date'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9414/dbohn_201004_4226_0002sq.0.jpg' width='700px' /><br/>
-The Samsung Galaxy Note 20 is a good phone, but don't buy it at its advertised retail price of $999.99. It's a fine phone if you can find it for less, and hopefully you can because the only other phone with a stylus that matters is the very expensive Galaxy Note 20 Ultra.
-<a href='https://www.theverge.com/21506471/samsung-galaxy-note-20-review-price-stylus'> Source <a/>
