@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ufH-fQtH7WexqakDibOlVjwD4V8=/0x0:1280x1280/1200x800/filters:focal(538x538:742x742)/cdn.vox-cdn.com/uploads/chorus_image/image/67602501/wd_black_sn850_nvme_ssd_family.png.thumb.1280.1280.0.png' width='700px' /><br/>
-Western Digital has announced its first PCIe 4.0 M.2 NVMe SSDs, the WD Black SN850s, and they'll offer fast read / write speeds of up to 7,000MB/s and 5,300MB/s that should help reduce load times on your PC and in games.
-<a href='https://www.theverge.com/2020/10/8/21507807/western-digital-wd-first-pcie-4-0-nvme-ssds-sn850'> Source <a/>

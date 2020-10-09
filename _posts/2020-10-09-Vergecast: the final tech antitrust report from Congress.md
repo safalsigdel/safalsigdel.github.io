@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mX1C37xgHIY3LF7CNyzPVY3sBSU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67607585/acastro_200302_3922_SuperTuesday_capitol.0.0.jpg' width='700px' /><br/>
+This week, the House Judiciary Committee released its final report on tech antitrust, concluding that Amazon, Apple, Google, and Facebook are exerting monopoly power and that legislative action should be taken against them.
+<a href='https://www.theverge.com/2020/10/9/21509115/tech-antitrust-report-house-judiciary-committee-vergecast-podcast'> Source <a/>
