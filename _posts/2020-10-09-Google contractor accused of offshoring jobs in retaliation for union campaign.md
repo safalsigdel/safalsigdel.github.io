@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/grCGk2yoHwDEDy4U49jSFLYwqWw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67608294/acastro_170808_1777_google_logo_03.0.jpg' width='700px' /><br/>
+Google contractors who recently unionized say their jobs are being slowly shipped to Poland. On Thursday, the National Labor Relations Board (NLRB) filed a complaint laying out the allegations against HCL America, an engineering and IT contractor that works with Google in Pittsburgh.
+<a href='https://www.theverge.com/2020/10/9/21509201/google-union-nlrb-hcl-america-offshoring-pittsburgh-organizing'> Source <a/>
