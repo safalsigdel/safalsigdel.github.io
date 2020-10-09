@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aVuJm4QcWFRlvd8OKe4cMIXWpFY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67601760/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
-Microsoft is adding a price comparison feature to its Edge browser just in time for the holidays, alongside a really useful screenshot tool that will let you easily capture an entire webpage. Both features are part of a broader update for Edge this month that includes a number of minor additions that improve the Chromium-powered browser.
-<a href='https://www.theverge.com/2020/10/8/21507374/microsoft-edge-price-comparisons-screenshot-tool-features'> Source <a/>
