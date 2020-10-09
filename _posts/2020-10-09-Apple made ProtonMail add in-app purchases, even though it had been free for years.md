@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/elkp1mUNDYIH9vylO4TboJniE7g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67602566/acastro_170731_1777_0005_v4.0.jpg' width='700px' /><br/>
-On Tuesday, Congress revealed whether it thinks Amazon, Apple, Facebook, and Google are sitting on monopolies. In some cases, the answer was yes.
-<a href='https://www.theverge.com/2020/10/8/21506995/apple-forced-in-app-purchase-protonmail-ceo-wordpress-iap'> Source <a/>
