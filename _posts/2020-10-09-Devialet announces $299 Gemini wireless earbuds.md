@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F4gzWKkdLmtgO_Y2ZFSa2obZiuU=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/67605762/DEVIALET_BEAUTYSHOTS_P7_1_IMAGE3.0.jpg' width='700px' /><br/>
+French audio tech company Devialet is known for its outlandish speakers, and now it's getting into portable audio for the first time with a new pair of wireless earbuds. The company says its Gemini earbuds have been designed with “pressure balance architecture” for optimum sound quality.
+<a href='https://www.theverge.com/2020/10/9/21508888/devialet-gemini-wireless-earbuds-price-specs'> Source <a/>
