@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cbFUFTqx2N8j50Y3iUfkhkOfBtU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67602142/vpavic_181127_3122_0042.0.jpg' width='700px' /><br/>
-Waymo, the self-driving unit of Alphabet, announced it will be opening up its fully driverless vehicles to all customers of its ride-hailing service in Phoenix, Arizona. Previously, the company only allowed a select few people. Now, over a thousand people will get to ride in a Waymo vehicle without a human safety driver in the front seat.
-<a href='https://www.theverge.com/2020/10/8/21507814/waymo-driverless-cars-allow-more-customers-phoenix'> Source <a/>
