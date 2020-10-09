@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7FOHk3Y2x0e59Bq_u4HwFHhOGSU=/0x0:1280x853/1200x800/filters:focal(538x325:742x529)/cdn.vox-cdn.com/uploads/chorus_image/image/67605860/8t.0.jpg' width='700px' /><br/>
+Following an earlier leak of the OnePlus 8T from the front, we now have a pretty good idea of what the phone will look like around the back as well. CEO Pete Lau has posted an official picture of the Aquamarine Green colorway to the OnePlus forums, while leaker Ishan Agarwal has followed up with more renders including the Lunar Silver variant.
+<a href='https://www.theverge.com/2020/10/9/21508949/oneplus-8t-specs-design-photos-video-launch-date'> Source <a/>

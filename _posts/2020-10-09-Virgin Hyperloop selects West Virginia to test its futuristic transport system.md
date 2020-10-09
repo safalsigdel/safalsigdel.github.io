@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TN4jeVNTeTR9PiggmWVGMo6OY-s=/0x0:4000x2668/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/67601164/VH_DevLoop_TestSite_7.0.jpg' width='700px' /><br/>
-Virgin Hyperloop One announced its plan to build a $500 million certification center to advance its vision of the future of high-speed transportation in West Virginia. The state will serve as a locus for testing, developing, and validating the technology that underpins the still-theoretical hyperloop system.
-<a href='https://www.theverge.com/2020/10/8/21507532/virgin-hyperloop-one-certification-center-west-virginia'> Source <a/>
