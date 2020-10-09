@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1uwAq1po-ftfkWOQpFYI5CkzTMI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67598324/acastro_190826_3618_IG_threads_0001.0.jpg' width='700px' /><br/>
-Instagram has rolled out an update to the Threads app, and it's a pretty big change. While Threads previously only allowed you to message close friends (that is, accounts you'd added to your “Close Friends” list on Instagram), you can now use it to message any Instagram user. As planet Earth's only user of Threads, I am sad.
-<a href='https://www.theverge.com/2020/10/7/21506712/instagram-threads-app-update-close-friends-direct-messaging'> Source <a/>

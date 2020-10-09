@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JIamEz7vdGY1LZv0cdKJPEkxxdM=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/67604805/fVqGMEj8Yvvajhj6SqHF9HKKIraBP_VI.0.jpg' width='700px' /><br/>
+Google is planning to build a gigantic new “Downtown West” campus in San Jose, and the company has shared renderings that give an idea of what that space could look like (via CNBC). Google intends to make the approximately 79-acre area feel less like a traditional corporate campus by creating a mixed-use development with office space, housing, parks, retail space, and more.
+<a href='https://www.theverge.com/2020/10/8/21508416/google-gigantic-san-jose-campus-downtown-west'> Source <a/>

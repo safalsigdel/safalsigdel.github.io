@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NbLe3CafztPTch94-fmtx7XETtQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67603289/bking_200304_3928_0010.0.jpg' width='700px' /><br/>
+Google is expanding the phones that it sells directly to use with its Google Fi network, with the company now offering six of Samsung's latest 5G phones: the Galaxy Note 20, the Galaxy Note 20 Ultra, the Galaxy S20, the Galaxy S20 Plus, the Galaxy S20 Ultra, and the Galaxy A71 5G.
+<a href='https://www.theverge.com/2020/10/8/21508169/google-fi-samsung-galaxy-note-20-s20-5g-map-tmobile'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f4AuTz4T9xjIIfJ8ZuY4DHmpV5k=/0x0:1000x500/1200x800/filters:focal(420x170:580x330)/cdn.vox-cdn.com/uploads/chorus_image/image/67595298/intel_logo_2x1_1.0.jpg' width='700px' /><br/>
-Intel has confirmed that its 11th Gen Rocket Lake desktop processors will be out sometime in the first quarter of 2021, with PCIe 4.0 support on board.
-<a href='https://www.theverge.com/2020/10/7/21505926/intel-11th-gen-rocket-lake-desktop-processors-q1-2021-amd'> Source <a/>

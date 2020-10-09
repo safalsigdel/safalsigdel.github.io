@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1gFjVv-Of2UbTN2J_BsxkxSgDdE=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/67602198/acastro_180510_1777_google_assistant_0001.0.0.jpg' width='700px' /><br/>
+Google Assistant is getting much more integrated with third-party apps on Android phones. Google is rolling out the ability to search apps and even use voice commands for popular tasks like sending messages, starting runs, or browsing your shopping cart.
+<a href='https://www.theverge.com/2020/10/8/21506301/google-assistant-custom-shortcuts-third-party-apps-android'> Source <a/>

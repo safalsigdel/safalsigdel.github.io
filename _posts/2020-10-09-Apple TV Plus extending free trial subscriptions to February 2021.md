@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wRcg2vFAYtaUYu5lJ-HV1eTNMPE=/0x0:1632x918/1200x800/filters:focal(686x329:946x589)/cdn.vox-cdn.com/uploads/chorus_image/image/67603179/Apple_introduces_apple_tv_plus_03252019_big.jpg.large_2x.0.jpg' width='700px' /><br/>
+Apple is extending Apple TV Plus subscribers' free period to February 2021, Apple confirmed to The Verge. TechCrunch first reported the story.
+<a href='https://www.theverge.com/2020/10/8/21508148/apple-tv-plus-free-period-extended-february-2021-streaming'> Source <a/>

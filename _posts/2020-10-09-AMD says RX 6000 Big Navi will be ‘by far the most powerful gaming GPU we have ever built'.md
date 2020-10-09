@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3BPRBAzTSJh6M2m81W8U5GOv12A=/0x0:2208x1146/1200x800/filters:focal(928x397:1280x749)/cdn.vox-cdn.com/uploads/chorus_image/image/67602475/Screen_Shot_2020_10_08_at_1.05.17_PM.0.png' width='700px' /><br/>
+AMD just announced its new Zen 3-powered Ryzen 5000 series CPUs, but CEO Lisa Su didn't stop there, ending her presentation with a preview of AMD's other big PC announcement: the company's upcoming RX 6000 “Big Navi” GPUs, which it's set to announce on October 28th.
+<a href='https://www.theverge.com/2020/10/8/21507911/amd-teases-rx-6000-gpu-big-navi-4k-gaming-60fps-benchmarks-hardware-rdna-2'> Source <a/>

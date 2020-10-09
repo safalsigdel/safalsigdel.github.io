@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w0Tkj3WPgJQCevchaOXhfe6tUr8=/0x67:810x525/1200x800/filters:focal(341x461:469x589)/cdn.vox-cdn.com/uploads/chorus_image/image/67596735/cuties_french_poster.0.jpg' width='700px' /><br/>
-Netflix has been indicted in Texas on charges that the film Cuties contains lewd depictions of children. The indictment follows controversial backlash from conservative groups over certain scenes in the film where young girls dance provocatively.
-<a href='https://www.theverge.com/2020/10/7/21505964/netflix-cuties-texas-indictment-lewd-depiction-movie-grand-jury'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/snN2QqsGHmNsuIEiMwOTNzvFKSI=/0x0:2040x1148/1200x675/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/67600377/DSCF7384.0.jpg' width='700px' /><br/>
-I've been looking at color e-reader prototypes as long as I've been a tech journalist. Back in the early days of The Verge, we'd often cover display technology like Qualcomm's Mirasol or various E Ink prototypes and come away thinking that while it wasn't quite ready, it was just a matter of time. That's how technology is meant to work, right? We see it in unfinished form at a trade show and it turns up in mainstream products a few years later.
-<a href='https://www.theverge.com/21507390/pocketbook-color-review-e-ink-kaleido-e-reader'> Source <a/>

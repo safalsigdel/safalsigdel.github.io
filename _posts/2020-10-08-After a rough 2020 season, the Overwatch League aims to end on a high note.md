@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EcgC0KKVDBPvdQ6GK23ZSq02e7M=/0x0:4870x3174/1200x800/filters:focal(2046x1198:2824x1976)/cdn.vox-cdn.com/uploads/chorus_image/image/67595841/1184730255.jpg.0.jpg' width='700px' /><br/>
-This year has been a tumultuous one for the Overwatch League. It wasn't supposed to be this way: the 2020 season was slated to be a breakout year, a chance to finally realize the ambition of having a truly global league with teams traveling all over the world to compete against one another.
-<a href='https://www.theverge.com/2020/10/7/21505843/overwatch-league-owl-grand-finals-2020-schedule-youtube'> Source <a/>

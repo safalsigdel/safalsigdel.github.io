@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gP4kctz9JkDw73UR0jvmt5Cwg08=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67595510/apple_watch_series_6_dbohn_834.0.jpg' width='700px' /><br/>
-During the announcement of the Apple Watch Series 6, the company heralded the newest element — a blood oxygen monitor — as an addition to its existing slate of health features.
-<a href='https://www.theverge.com/2020/10/7/21504023/apple-watch-ekg-blood-oxygen-fda-clearance'> Source <a/>

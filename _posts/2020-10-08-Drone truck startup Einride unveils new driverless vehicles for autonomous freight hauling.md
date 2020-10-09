@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TRqDsr4GJ8F-fLPMTDnIY-aMyDw=/0x0:5616x3744/1200x800/filters:focal(2359x1423:3257x2321)/cdn.vox-cdn.com/uploads/chorus_image/image/67599851/einride_next_gen_pod_environment.0.jpg' width='700px' /><br/>
-Einride, the Swedish autonomous trucking startup, unveiled a new vehicle type that the company hopes to have on the road delivering freight starting in 2021. The vehicles, dubbed Autonomous Electric Transport (AET), came in four different variations. And much like Einride's previous prototypes, they come without steering wheels, pedals, windshields, and, in general, no cab at all.
-<a href='https://www.theverge.com/2020/10/8/21506125/einride-self-driving-truck-pod-aet-reveal'> Source <a/>

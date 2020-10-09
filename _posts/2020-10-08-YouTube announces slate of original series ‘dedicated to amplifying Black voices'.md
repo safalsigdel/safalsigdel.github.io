@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m5iYMYop5JoUaNTlv2d5XgNwPuY=/0x0:1242x829/1200x800/filters:focal(522x316:720x514)/cdn.vox-cdn.com/uploads/chorus_image/image/67595563/youtubeblackvoicesfund.0.png' width='700px' /><br/>
-YouTube is unveiling the first slate of shows to come out of its $100 million fund dedicated to amplifying the voices of Black creators, newly named the #YouTubeBlack Voices Fund.
-<a href='https://www.theverge.com/2020/10/7/21505891/youtube-black-voices-fund-first-originals-slate-announced'> Source <a/>

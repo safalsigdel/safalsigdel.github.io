@@ -1,3 +1,0 @@
-<img src='' width='700px' /><br/>
-Amazon unveiled its first all-electric delivery van on Thursday. The vehicle, built by EV startup Rivian, will come with state-of-the-art technology, like sensing equipment and an advanced driver-assist system. The e-commerce giant says it expects to have 10,000 vans on the road making deliveries “as early as 2022,” with a total fleet of 100,000 vehicles expected by 2030.
-<a href='https://www.theverge.com/2020/10/8/21507495/amazon-electric-delivery-van-rivian-date-specs'> Source <a/>

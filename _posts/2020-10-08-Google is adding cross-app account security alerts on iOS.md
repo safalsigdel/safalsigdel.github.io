@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bubo3tyZpzWxtmk2VJAFttGxm_U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67595823/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google is announcing a few security-related updates today, including new cross-app alerts that will tell you when there's a security issue with your Google account. The idea is that you'll be notified when Google detects a potentially serious security issue with your account no matter what Google app you're using at the time.
-<a href='https://www.theverge.com/2020/10/7/21505036/google-security-alert-cross-app-guest-mode-assistant-safety-center'> Source <a/>

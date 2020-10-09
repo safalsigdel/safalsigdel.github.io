@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Three years after the computer industry promised to double the speed of the world's computer memory with the DDR5 spec, it's finally nearly almost here. SK Hynix has officially announced the world's first DDR5 memory modules. The company tells The Verge it expected to start selling them in Q3 2021, but they're ready whenever systems can support them.
-<a href='https://www.theverge.com/circuitbreaker/2020/10/7/21506883/ddr5-ram-memory-first-modules-sk-hynix'> Source <a/>

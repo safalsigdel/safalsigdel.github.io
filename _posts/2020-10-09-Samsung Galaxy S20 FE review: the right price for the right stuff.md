@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9415/dbohn_201004_4227_0009sq.0.jpg' width='700px' /><br/>
+The new Samsung Galaxy S20 FE is the fourth phone in the S line this year. That's a lot of variants, and it doesn't include the two Note 20 phones and seemingly innumerable A-series phones Samsung also released this year. Trying to figure out which one has the right mix of features and price for you can feel like you need a spreadsheet, an accountant, and an actuary standing by.
+<a href='https://www.theverge.com/21506470/samsung-galaxy-s20-fe-review-camera-processor-price'> Source <a/>

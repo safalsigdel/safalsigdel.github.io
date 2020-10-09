@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fMV4J-M5O-42e0eQ2pgExabftgA=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/67605057/xcloud.0.jpg' width='700px' /><br/>
+Microsoft is working on a “direct browser-based solution” to bring xCloud to iOS early next year. Sources familiar with Microsoft's plans tell The Verge that the company has been developing a web version of xCloud to run on iOS and iPadOS devices, alongside continuing its work on an app that it hopes will also eventually run on Apple's platform.
+<a href='https://www.theverge.com/2020/10/8/21508706/microsoft-xcloud-ios-web-browser-2021'> Source <a/>
