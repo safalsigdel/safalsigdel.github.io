@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P2XLZDdXCNKJzEEkAy_k7Cd6PNY=/0x0:6711x3239/1200x800/filters:focal(2820x1084:3892x2156)/cdn.vox-cdn.com/uploads/chorus_image/image/67606093/1254279163.jpg.0.jpg' width='700px' /><br/>
+IBM is splitting into two public companies, with a spin-off handling the firm's legacy IT infrastructure work, allowing IBM to focus on new high-margin businesses, particularly cloud services and AI.
+<a href='https://www.theverge.com/2020/10/9/21508974/ibm-split-into-two-companies-newco-hybrid-cloud-legacy-it'> Source <a/>
