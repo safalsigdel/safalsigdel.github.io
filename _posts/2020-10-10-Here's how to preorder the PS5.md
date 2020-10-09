@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1VZgNOeBjpctzd8OpZWylMqLtLA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67425531/image__5_.0.png' width='700px' /><br/>
-Sony's PlayStation 5 will launch on November 12th in the US starting at $399.99. That price will get you the digital edition of the console that doesn't have a Blu-ray disc drive. If you want a disc drive for playing disc-based PS5 games, 4K Blu-ray movies, and PS4 games that may end up being compatible, there's a larger version of the console that has that for $499.
-<a href='https://www.theverge.com/2020/9/17/21440300/ps5-playstation-5-preorder-price-release-date-buy'> Source <a/>
