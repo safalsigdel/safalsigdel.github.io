@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+After delighting us with his 3D-printed joystick and throttle, which turned an Xbox One controller into a DIY HOTAS (hands on throttle-and-stick) setup, YouTuber Akaki Kuumeri has returned with a new version that works with the PS4's Dualshock 4 controller. This time, there's the option of having two joysticks and no throttle, plus thumbsticks and triggers to press the controller's shoulder buttons and triggers.
+<a href='https://www.theverge.com/tldr/2020/10/9/21508985/3d-printed-dualshock-4-ps4-flight-stick-triggers-star-wars-squadrons'> Source <a/>
