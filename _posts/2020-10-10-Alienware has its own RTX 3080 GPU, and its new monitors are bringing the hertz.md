@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UYPL0TrMB9QVnnEdNqHi-Hdk6Fc=/0x0:1193x851/1200x800/filters:focal(502x331:692x521)/cdn.vox-cdn.com/uploads/chorus_image/image/67604969/desktop_aw_aurora_r11_wh_pdp.0.jpg' width='700px' /><br/>
-When it comes to pre-built desktops, I've nearly bought an Alienware Aurora several times over the years, because the company's toolless upgradable chassis and bang-for-the-buck has been pretty hard to beat. Now, the Alienware Aurora R11 and R10 Ryzen Edition have also become a way to get Nvidia's extremely hard to find RTX 3080 and 3090 GPUs — and they're like no RTX 3080 or 3090 you've seen.
-<a href='https://www.theverge.com/2020/10/8/21508481/alienware-rtx-3080-3090-aurora-r11-r10-area-51-monitor-360hz'> Source <a/>
