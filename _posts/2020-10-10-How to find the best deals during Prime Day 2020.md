@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3Zdp5-SO-8mBtzbcI5blFJbniu8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67612034/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
+Aside from Black Friday and Cyber Monday, Prime Day has become one of the biggest shopping moments of the year. It's a two-day stretch wherein Amazon Prime members will likely find some of the best prices yet on popular tech products like games, gaming consoles, laptops, 4K TVs, phones, PC accessories, and more. And with Prime Day 2020 happening so close to the year's end, this week could be a good time to snag some gifts.
+<a href='https://www.theverge.com/21502865/amazon-prime-day-best-deals-how-to-find'> Source <a/>
