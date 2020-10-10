@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gqMikvNejfchxwheKH9bAgPgylM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67609962/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
+Google's Meet videoconferencing service is getting breakout rooms, but they'll only be available to G Suite Enterprise for Education customers at first, according to a Google blog post (via 9to5Google). With the feature, teachers and educators will be able to break their classes into smaller groups for things like projects or focused discussions.
+<a href='https://www.theverge.com/2020/10/9/21509922/google-meet-breakout-rooms-enterprise-education-workspace-customers'> Source <a/>

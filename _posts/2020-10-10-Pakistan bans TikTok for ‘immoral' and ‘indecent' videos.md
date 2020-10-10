@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zuruVJPnj2NgVUHJl5Pc8ObQ7WE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67609507/acastro_190402_3308_Guide_TikTok_0001.0.jpg' width='700px' /><br/>
+Pakistan's telecom regulator has banned TikTok, claiming the app failed to remove “immoral” and “indecent” content. The ban comes just over a month after the regulator, the Pakistan Telecommunication Authority, banned dating apps, including Tinder and Grindr, for the same reason.
+<a href='https://www.theverge.com/2020/10/9/21509817/tiktok-pakistan-ban-immoral-indecent-content'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mzed_418KimRDSlpfkMEAY6zF3w=/0x0:1200x628/1200x800/filters:focal(504x218:696x410)/cdn.vox-cdn.com/uploads/chorus_image/image/67604630/roku_channel.0.jpg' width='700px' /><br/>
-The Roku Channel, Roku's free streaming service that offers more than 100,000 ad-supported titles and 115 live TV channels, is now available to Amazon Fire TV users, the company announced today. And while it may seem odd that The Roku Channel would live on Fire TV devices — Amazon and Roku are direct competitors in set-top-box hardware — it might actually make a lot of sense.
-<a href='https://www.theverge.com/2020/10/8/21508345/roku-channel-amazon-fire-tv-streaming-free-live-tv-advertising-revenue'> Source <a/>

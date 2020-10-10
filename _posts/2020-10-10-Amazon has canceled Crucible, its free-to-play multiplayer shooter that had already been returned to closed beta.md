@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OL54Sgk-rsDbdZIfgbfZ-YPBfUM=/0x0:8000x4501/1200x800/filters:focal(3360x1611:4640x2891)/cdn.vox-cdn.com/uploads/chorus_image/image/67610753/amazon_crucible_key_art.0.jpeg' width='700px' /><br/>
+Amazon has officially canceled Crucible, its free-to-play multiplayer shooter. It's the end of a rocky journey for the game, which was first launched in May after years in development before being put back into closed beta in July.
+<a href='https://www.theverge.com/2020/10/9/21510190/amazon-crucible-canceled-game-studios-closed-beta'> Source <a/>

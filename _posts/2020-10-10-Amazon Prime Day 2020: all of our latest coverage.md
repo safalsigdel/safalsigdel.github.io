@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YdWTq-ovlwB9ORw08u3ZA-7OFy0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67603606/acastro_180329_1777_amazon_0001.0.jpg' width='700px' /><br/>
-Amazon Prime Day 2020 is upon us, beginning at 12AM PT / 3AM ET Tuesday, October 13th, and lasting through 12AM PT / 3AM ET Wednesday, October 14th. You know the drill: Amazon is discounting a bunch of products, including tech, for its annual Prime Day that's exclusive to people who are signed up for Amazon Prime. It usually takes place in July, but the global pandemic is the likely culprit as to why it was pushed to October.
-<a href='https://www.theverge.com/21508139/amazon-prime-day-tech-news-deals'> Source <a/>

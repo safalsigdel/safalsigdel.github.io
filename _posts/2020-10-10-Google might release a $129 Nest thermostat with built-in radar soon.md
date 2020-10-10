@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/itWG1IUOPMsjOf88o24X1XY9oyk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67603539/jkastrenakes_08242017_1960_0022.0.jpg' width='700px' /><br/>
-Google is getting ready to release a new $129 Nest thermostat that will apparently switch out some of the touch-based controls found on other Nest thermostats for hand gestures, according to a new Bloomberg report. Bloomberg gave the example of a user swiping their hand up and down near the thermostat to adjust the temperature.
-<a href='https://www.theverge.com/2020/10/8/21508232/google-nest-thermostat-project-soli-radar-sensor-motion-controls'> Source <a/>

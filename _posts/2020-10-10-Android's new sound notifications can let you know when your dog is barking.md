@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m20CzNdsv3R1Ajl5u4Msh1kJgFA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67603612/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Android phones can now notify you when they detect certain sounds, which could notify people who are deaf or hard of hearing about important sounds nearby.
-<a href='https://www.theverge.com/2020/10/8/21508136/google-android-sound-notifications-wear-os'> Source <a/>
