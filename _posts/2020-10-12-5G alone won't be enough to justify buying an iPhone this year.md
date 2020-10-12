@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/44-lggZYqnlVnDUsWmqnbw-wfmc=/0x0:1266x949/1200x800/filters:focal(532x374:734x576)/cdn.vox-cdn.com/uploads/chorus_image/image/67617737/Untitled.0.png' width='700px' /><br/>
+This week, Apple will announce this year's new iPhones. We're expecting there to be four of them: the iPhone 12 Pro, iPhone 12 Pro Max, iPhone 12, and a smaller one that might be called the iPhone 12 mini. Apple's invitation for its Tuesday event included the catchphrase “Hi, Speed.” Weird capitalization decisions aside, the “speed” hint embedded in the tagline lines up with the rumors: these will be the first 5G-enabled iPhones.
+<a href='https://www.theverge.com/2020/10/12/21511946/5g-iphone-12-upgrade-speed-network-mmwave-hype'> Source <a/>
