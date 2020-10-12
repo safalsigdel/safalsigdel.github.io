@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cYc9wRFUEOXSaMxARuCdosdAqJc=/0x0:2672x1390/1200x800/filters:focal(1123x482:1549x908)/cdn.vox-cdn.com/uploads/chorus_image/image/67608630/Screen_Shot_2020_10_09_at_12.36.02_PM.0.png' width='700px' /><br/>
-The PlayStation 5 offers backwards compatibility for the existing PlayStation 4 lineup of games, meaning you'll be able to play almost any PS4 game you already own on the new console. Some games will also offer the option to upgrade to a proper PS5-optimized next-gen title, like Cyberpunk 2077 or Spider-Man: Miles Morales.
-<a href='https://www.theverge.com/21509390/playstation-5-ps4-games-backwards-compatible-how-to-play'> Source <a/>
