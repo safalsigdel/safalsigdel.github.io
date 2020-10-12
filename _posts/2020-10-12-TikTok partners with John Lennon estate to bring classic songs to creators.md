@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QSGbNeYCJZRl54d4mA-fBZzg0xM=/0x0:1080x518/1200x800/filters:focal(454x173:626x345)/cdn.vox-cdn.com/uploads/chorus_image/image/67607857/pasted_image_0__2_.0.png' width='700px' /><br/>
-TikTok and the John Lennon estate (alongside Universal Music) are marking the late singer's 80th birthday by partnering to give creators access to several of his most popular songs.
-<a href='https://www.theverge.com/2020/10/9/21509372/tiktok-john-lennon-songs-birthday-estate-creators-prince'> Source <a/>
