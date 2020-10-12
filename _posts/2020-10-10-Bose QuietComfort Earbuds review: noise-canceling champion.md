@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aykdVC1nKCcB1ozV0dowPFMYloU=/0x0:2040x1360/1200x675/filters:focal(895x609:1221x935)/cdn.vox-cdn.com/uploads/chorus_image/image/67606462/IMG_0720-1.0.0.jpeg' width='700px' /><br/>
-Bose's original true wireless earbuds, the SoundSport Free, sounded fantastic but were foiled by connectivity problems and audio / video sync issues that the company never fully resolved. They also lacked active noise cancellation, which is the feature that Bose built its entire brand around. This allowed Apple, Sony, and others to seize the market with products like the AirPods Pro and WF-1000XM3 earbuds.
-<a href='https://www.theverge.com/21507552/bose-quietcomfort-earbuds-review-best-noise-cancellation'> Source <a/>

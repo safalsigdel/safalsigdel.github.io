@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Microsoft is launching its marketing campaign for its next-gen Xbox Series X and Series S consoles today. The theme of the first TV commercial expands on the “power your dreams” tagline that Microsoft originally used to unveil the Xbox Series X onstage at the Game Awards back in December.
-<a href='https://www.theverge.com/2020/10/9/21508979/microsoft-xbox-series-x-tv-commercial-ad-marketing-campaign-power-your-dreams'> Source <a/>

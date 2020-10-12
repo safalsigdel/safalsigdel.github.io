@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9VVFWPSwZ27e4z96OVAkyl0QkUk=/0x0:1351x934/1200x800/filters:focal(568x359:784x575)/cdn.vox-cdn.com/uploads/chorus_image/image/67607173/original.0.jpg' width='700px' /><br/>
-The US Army is trialing a new technology that could “fundamentally change how military canines are deployed in the future” — a pair of augmented reality goggles for dogs.
-<a href='https://www.theverge.com/2020/10/9/21509181/us-army-augmented-reality-ar-goggles-dogs-military'> Source <a/>

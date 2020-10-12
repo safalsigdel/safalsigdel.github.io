@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j2p5C5bYhMALSgs-sVitz2RU4oE=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/67612621/huawei_mate_40_date.0.jpg' width='700px' /><br/>
+Huawei has tweeted that it will reveal its Mate 40 series on October 22nd, likely the last of its phones to have Kirin chips— at least for the foreseeable future— due to the ongoing economic pressure from the US.
+<a href='https://www.theverge.com/2020/10/10/21510684/huawei-october-22-date-mate-40-phone'> Source <a/>

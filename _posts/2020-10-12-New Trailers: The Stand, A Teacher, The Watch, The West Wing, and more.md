@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LoFoP3yZTw6PwJiMn1FxyDPaWm8=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/67615456/martin_sheen_bartlet.0.jpeg' width='700px' /><br/>
+I know I am very late to the party (by like five years) but just started watching Grace and Frankie on Netflix and can I just say how wonderful it is to see amazing actresses like Jane Fonda and Lily Tomlin at the height of their powers? Goals, I tell you.
+<a href='https://www.theverge.com/2020/10/11/21508418/new-trailers-the-stand-a-teacher-west-wing-hulu-hbo-cbs-amazon-streaming'> Source <a/>
