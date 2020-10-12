@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/suWlKeEcAlqmxZNEFIUd14GhYY0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67618387/akrales_190914_3666_0109.0.jpg' width='700px' /><br/>
+Apple's next fall event kicks off tomorrow at 1PM ET, when the company is widely expected to reveal its new iPhone 12 lineup of smartphones. Rumors have given us a pretty good picture of what we can expect to see with these new phones, and Apple's official “Hi, Speed” tagline for the event suggests that one of the iPhone 12's main features could be support for fast 5G cellular speeds.
+<a href='https://www.theverge.com/2020/10/12/21508779/apple-iphone-12-october-event-what-to-expect-hi-speed-rumors'> Source <a/>
