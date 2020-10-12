@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jNRVBnjyzYFACFYphyHIsWk40_k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67607553/acastro_200318_1777_ps5_0001.0.jpg' width='700px' /><br/>
-Sony is detailing its PS5 backward compatibility support for playing older PS4 games today. The next-gen PS5 will support more than 4,000 PS4 games on the new PS5 console, a number Sony says is the “overwhelming majority.” While most PS4 games will play, Sony does warn that “some PS4 games may exhibit errors or unexpected behavior when played on PS5 consoles.” Some functions in PS4 games may also not be available on the PS5.
-<a href='https://www.theverge.com/21509379/sony-ps5-backward-compatibility-ps4-games-support-features'> Source <a/>
