@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cCtQlkkXfONWLMXHfA25rXaVmrI=/0x0:8256x5504/1200x800/filters:focal(3468x2092:4788x3412)/cdn.vox-cdn.com/uploads/chorus_image/image/67612568/Razer_Blade_Stealth_13__Late_2020__Studio_1.0.png' width='700px' /><br/>
-Razer's Blade Stealth 13 is one of the best portable gaming laptops you can buy. Today, the company is giving it a refresh: it just announced a “late 2020” model of its 13-inch rig.
-<a href='https://www.theverge.com/2020/10/10/21509821/razer-blade-stealth-13-gaming-laptop-late-2020-price-specs'> Source <a/>

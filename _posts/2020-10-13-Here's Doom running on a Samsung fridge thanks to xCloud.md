@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8qW079Yl2_s4D3Tzb5YJj6Elj98=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/67622295/GwxwSQo.0.jpg' width='700px' /><br/>
+I'm fairly sure cars were supposed to be flying by now, but instead we've managed something else that would have felt like science fiction a decade ago: playing Xbox games on your fridge. That's right, someone has managed to get Microsoft's xCloud service running on a Samsung smart fridge.
+<a href='https://www.theverge.com/2020/10/13/21514030/microsoft-xcloud-samsung-smart-fridge-doom-enternal-xbox-games-android'> Source <a/>
