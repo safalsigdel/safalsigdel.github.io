@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Nd3VzGGFTPCEJmiBsO0eTwYMrSQ=/0x0:4102x2735/1200x800/filters:focal(1723x1040:2379x1696)/cdn.vox-cdn.com/uploads/chorus_image/image/67612519/iskur_2.0.jpg' width='700px' /><br/>
-For its very first gaming chair, it looks like Razer decided to largely copy one of today's oft-cited favorites: the new $499 Razer Iskur is a dead ringer for the similarly-priced Secretlab Omega and Titan.
-<a href='https://www.theverge.com/2020/10/10/21510427/razer-iskur-first-gaming-chair-secretlab-omega-titan-similarity'> Source <a/>
