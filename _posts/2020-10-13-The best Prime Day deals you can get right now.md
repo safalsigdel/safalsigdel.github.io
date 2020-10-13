@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TPPWc99Eh0FGSFE8xdYyB_oRUmI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67618031/cwelch_200804_4129_0001.0.5.jpg' width='700px' /><br/>
-Amazon Prime Day 2020 begins in the early hours of Tuesday, October 13th, lasting through Wednesday night. That's when you'll see some of the year's best deals go live, but there are plenty of worthwhile sales happening already. If you want to see what Amazon and other retailers have available right now, check out the deals below.
-<a href='https://www.theverge.com/good-deals/21506562/amazon-prime-day-best-deals-tech-gadgets'> Source <a/>
