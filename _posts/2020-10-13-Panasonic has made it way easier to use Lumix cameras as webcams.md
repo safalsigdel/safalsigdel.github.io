@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E_Z-SraXRvJjP3lpibTZ9YbPum0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67620006/cwelch_190123_3204_0016.0.jpg' width='700px' /><br/>
+Panasonic has released an official Lumix webcam app, as first spotted by PetaPixel. The software, still in beta since its quiet release late last month, lets you plug your camera into your Mac or Windows machine and have it recognized as a video source in apps like Google Meet and Zoom. Panasonic's official software replaces the workaround hack the company introduced back in June.
+<a href='https://www.theverge.com/2020/10/12/21513188/panasonic-lumix-camera-webcam-official-software-how-to-release'> Source <a/>

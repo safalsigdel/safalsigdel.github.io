@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-NWDFWL0kyPAnC1OiQQRPPMXvfM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67359718/akrales_190914_3666_0259.0.jpg' width='700px' /><br/>
-Apple is likely taking the wraps off its 2020 iPhones at an event on October 13th, and with just days to go until the big reveal, we might now know nearly everything about them — including when you might be able to buy them for yourself.
-<a href='https://www.theverge.com/21423811/apple-iphone-12-max-pro-leaks-rumors-specs-design-2020'> Source <a/>

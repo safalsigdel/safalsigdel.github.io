@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Gfikm2HkiCMCD8DDBcxbqEyyDUE=/0x0:560x378/1200x800/filters:focal(231x99:319x187)/cdn.vox-cdn.com/uploads/chorus_image/image/67620629/blind-justice3-1-inline.0.jpg' width='700px' /><br/>
+On Monday, the US Department of Justice signed on to a new international statement warning of the dangers of encryption and calling for an industry-wide effort to enable law enforcement agencies to access encrypted data once a warrant has been obtained. The US was joined in the effort by officials representing the UK, Australia, New Zealand, Canada, India, and Japan.
+<a href='https://www.theverge.com/2020/10/12/21513212/backdoor-encryption-access-us-canada-australia-new-zealand-uk-india-japan'> Source <a/>

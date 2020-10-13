@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hdL5kuxjdV4zif9Rmw7rP_iWToQ=/0x0:3970x2647/1200x800/filters:focal(1668x1007:2302x1641)/cdn.vox-cdn.com/uploads/chorus_image/image/67619181/galaxy_a42_5g.0.jpg' width='700px' /><br/>
+Samsung has announced the Galaxy A42 5G, the latest in its lineup of more reasonably priced and lower-specced A-series phones. The A42 is now Samsung's cheapest phone with 5G, selling for xc2xa3349 (about $455 USD). That puts it xc2xa380 below the Galaxy A51 5G, which was previously the cheapest way to buy into Samsung's 5G lineup at xc2xa3429 (or priced at $500 USD in the US).
+<a href='https://www.theverge.com/2020/10/12/21512636/samsung-galaxy-a42-5g-announced-specs-price-release-date'> Source <a/>

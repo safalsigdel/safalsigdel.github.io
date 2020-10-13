@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/exIQMx7T2nY8At_fM-BhK4nkZOs=/0x0:2048x1089/1200x800/filters:focal(861x382:1187x708)/cdn.vox-cdn.com/uploads/chorus_image/image/67621127/832270112.jpg.0.jpg' width='700px' /><br/>
+Facebook is donating xc2xa31 million ($1.3 million) to Bletchley Park, the UK center for Allied code-breaking during World War II that now operates as a museum.
+<a href='https://www.theverge.com/2020/10/12/21512883/facebook-donates-1-million-uk-bletchley-park-museum-revenue'> Source <a/>

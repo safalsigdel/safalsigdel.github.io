@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EwlHrQmEZ8dpz6IdcDNJ9xmOCVc=/0x0:1100x733/1200x800/filters:focal(462x279:638x455)/cdn.vox-cdn.com/uploads/chorus_image/image/67610061/applestore_5thave3.0.1424782809.0.png' width='700px' /><br/>
-Apple is shifting how it ships devices to consumers: instead of sending out all of its hardware products directly from China or from local warehouses, the company is now going to use its network of Apple Stores as de-facto fulfillment centers, shipping products directly from the stores to get to customers faster.
-<a href='https://www.theverge.com/2020/10/9/21509992/apple-store-ship-devices-directly-faster-iphone'> Source <a/>
