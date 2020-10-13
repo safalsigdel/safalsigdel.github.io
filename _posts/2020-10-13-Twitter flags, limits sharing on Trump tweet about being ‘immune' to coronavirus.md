@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gNsXm_rYpPmF8iB3U4t6dbwGmNg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67615808/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
-Twitter disabled some sharing options on a tweet from President Trump on Sunday, and labeled it for violating its rules against spreading coronavirus misinformation. In the tweet, the president said he had “A total and complete sign off from White House Doctors yesterday. That means I can't get it (immune) and can't give it. Very nice to know!!”
-<a href='https://www.theverge.com/2020/10/11/21511682/twitter-disables-sharing-trump-tweet-coronavirus-misinformation'> Source <a/>

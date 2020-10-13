@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D4ySuoT_KZvSGD8pLepcC6zGItI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67623059/00_Header.0.jpg' width='700px' /><br/>
+The newest character to join the fantasy strategy game League of Legends is a pop star who started out as a social media influencer. League developer Riot has officially unveiled Seraphine, a mage described as “the starry-eyed songstress.” You can get a full run-down of her in-game abilities right here.
+<a href='https://www.theverge.com/2020/10/13/21514149/league-of-legend-seraphine-pop-star-character-reveal-kda'> Source <a/>

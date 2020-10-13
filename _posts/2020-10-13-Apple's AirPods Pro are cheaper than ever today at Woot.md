@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fi1M7UhPLh25Isdu4I7PsLrYeLM=/0x0:2040x1360/1200x800/filters:focal(831x714:1157x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/67617353/akrales_191030_3763_0147.0.jpg' width='700px' /><br/>
-Woot's excellent pre-Prime Day 2020 deal on the Apple AirPods Pro wireless earbuds is over. All of the stock is sold out, apparently. They were $190, which was the best price we've seen yet. This model usually costs $250, and Woot says this discount will last all day, or until it sells out. Perhaps we'll see this deal come back for Prime Day 2020.
-<a href='https://www.theverge.com/good-deals/2020/10/12/21511788/apple-airpods-pro-wireless-headphones-earbuds-woot-prime-day-2020-deal-sale'> Source <a/>

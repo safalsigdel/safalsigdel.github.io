@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nzgdb-u13b2lROuqUW1aH2febQk=/0x0:1904x1178/1200x800/filters:focal(759x442:1063x746)/cdn.vox-cdn.com/uploads/chorus_image/image/67622906/Screen_Shot_2020_10_13_at_8.50.09_AM.0.png' width='700px' /><br/>
+Photos of Apple's next smart speaker, the HomePod mini, have leaked hours ahead of the company's big product event happening today. The images, published by Evan Blass, reveal a smaller device than the original HomePod — though it's still covered in the familiar mesh fabric and has a small display at the top.
+<a href='https://www.theverge.com/2020/10/13/21514145/apple-homepod-mini-pictures-leak'> Source <a/>

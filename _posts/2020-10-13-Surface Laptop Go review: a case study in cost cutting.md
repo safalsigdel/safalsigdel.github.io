@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1-Rn2-XkL1DllzGBbW3x_iZ0xRA=/0x0:2640x1749/1200x675/filters:focal(1279x772:1701x1194)/cdn.vox-cdn.com/uploads/chorus_image/image/67622834/twarren-surfacelaptopgo-25.0.0.jpg' width='700px' /><br/>
+I don't hate using the Surface Laptop Go. It didn't give me any problems. But I do have an issue with it, philosophically.
+<a href='https://www.theverge.com/21512680/microsoft-surface-laptop-go-review-price-specs-features'> Source <a/>
