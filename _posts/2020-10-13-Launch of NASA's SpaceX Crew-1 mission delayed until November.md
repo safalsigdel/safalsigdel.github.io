@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UpvGgwsBt8UZb8Wh17nQDzZtm9Q=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67613090/49934682271_fd6a31becc_o.0.jpg' width='700px' /><br/>
-NASA has delayed the launch of the SpaceX Crew-1 mission until early- to mid-November, the agency announced Saturday. The mission eventually will bring three NASA astronauts and an astronaut from Japan's JAXA space agency to the International Space Station.
-<a href='https://www.theverge.com/2020/10/10/21510861/nasa-spacex-crew-1-mission-delayed-november-iss'> Source <a/>
