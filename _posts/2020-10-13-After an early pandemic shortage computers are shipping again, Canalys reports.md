@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JHrEc4HCYam0Ed8g5Sj7srzVjPM=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/67614832/mchin_200512_4018_0001.0.jpg' width='700px' /><br/>
-Computer manufacturers shipped 79 million personal computers in the third quarter of 2020, an uptick of 13 percent year-over-year with Lenovo leading the pack, technology analyst firm Canalys reported.
-<a href='https://www.theverge.com/2020/10/11/21511425/laptops-desktops-shipping-pandemic-apple-dell-lenovo-hp-acer'> Source <a/>
