@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SJoUX1fhSSiJJ9DBrOpg7K-xm38=/0x0:920x613/1200x800/filters:focal(387x234:533x380)/cdn.vox-cdn.com/uploads/chorus_image/image/67612099/peloton_tread_lifestyle_01_1571874451.0.jpg' width='700px' /><br/>
-Peloton has removed several hashtags related to the QAnon conspiracy theory from its virtual exercise platform, Business Insider reported. The move followed a tweet from a Washington Post editor earlier in the week that showed several hashtags— which allow people taking the same online fitness classes to connect with each other— using variants of QAnon's “where we go 1 we go all” hashtag.
-<a href='https://www.theverge.com/2020/10/10/21510509/peloton-removed-qanon-hashtags'> Source <a/>
