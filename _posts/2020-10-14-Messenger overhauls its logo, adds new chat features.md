@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aodL5zkCtGDQu-TUYc4weyxSfsk=/0x0:1024x819/1200x800/filters:focal(431x329:593x491)/cdn.vox-cdn.com/uploads/chorus_image/image/67624130/Lifestyle_IG.0.png' width='700px' /><br/>
-Facebook Messenger is overhauling its logo and adding some new features. The company is rolling out new chat themes, in addition to selfie stickers and a vanish mode, as part of its initiative to connect Facebook users with people on Instagram.
-<a href='https://www.theverge.com/2020/10/13/21514424/facebook-messenger-new-logo-update'> Source <a/>

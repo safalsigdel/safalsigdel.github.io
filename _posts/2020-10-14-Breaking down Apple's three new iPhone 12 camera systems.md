@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/785Ucxuwv6r9BrEloGlUaXuVNP8=/0x0:1960x1102/1200x800/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/67628194/Apple_iphone12pro_back_camera_10132020.0.jpg' width='700px' /><br/>
+Apple has just announced its iPhone 12 lineup, and as part of today's announcements, the company introduced a dizzying amount of camera tech scattered amongst the new iPhones. If you're coming from an iPhone that currently has a single camera, or even a pair, you may find some serious upgrades here.
+<a href='https://www.theverge.com/2020/10/14/21515158/iphone-12-pro-max-best-camera-biggest-phone'> Source <a/>
