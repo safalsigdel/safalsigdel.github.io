@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S9xKUb0xrwzAiVSkld7GOQoXjCg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67622692/akrales_200519_3984_0100.0.jpg' width='700px' /><br/>
+If you are looking for a new Windows laptop or Chromebook, whether it's for school, video meetings with friends, or even for your new work from home setup, you might want to consider taking a peek at Amazon's Prime Day sales. The online retail giant (along with a few of its competitors) has a bunch of laptops on sale that should fit most budgets.
+<a href='https://www.theverge.com/21507837/amazon-prime-day-best-laptop-chromebook-windows-deals'> Source <a/>
