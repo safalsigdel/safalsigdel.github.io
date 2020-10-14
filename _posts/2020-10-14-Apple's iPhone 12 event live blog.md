@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zyPiDpKWeOahfmhhWaCoZK0mrzg=/0x0:1531x861/1200x675/filters:focal(644x309:888x553)/cdn.vox-cdn.com/uploads/chorus_image/image/67624138/image.5.png' width='700px' /><br/>
+Although it's happening just a little later than usual, Apple is ready to announce its next iPhones. Widely expected to be called the iPhone 12, this year, there may be as many as four different models. Rumors point to an iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, and a smaller iPhone 12 mini.
+<a href='https://www.theverge.com/2020/10/13/21504585/apple-iphone-12-event-live-blog-news-announcements'> Source <a/>

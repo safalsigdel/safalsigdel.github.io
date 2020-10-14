@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HunFV0txxok8zUUlSKRJ9RoBOrk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67624423/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
+On Tuesday, Facebook announced a new policy banning ads that discourage the use of vaccines. Timed to the beginning of flu season, the new policy is also aimed at the ongoing proliferation of anti-vaccine groups on Facebook and growing skepticism about forthcoming vaccines for COVID-19.
+<a href='https://www.theverge.com/2020/10/13/21514535/facebook-anti-vaxx-ad-ban-moderation-covid-19-vaccine'> Source <a/>

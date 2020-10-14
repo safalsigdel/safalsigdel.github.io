@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zVKb9v1ycOC4ApBoS-4YmGQU6DA=/0x0:1288x806/1200x800/filters:focal(541x300:747x506)/cdn.vox-cdn.com/uploads/chorus_image/image/67624621/05PlTtO.5.png' width='700px' /><br/>
+Apple is announcing a new iPhone 12 mini today. It's the first time Apple has used the “mini” moniker on its iPhone line, after using it on the iPod mini, iPad mini, and Mac mini previously. The new iPhone 12 mini has a 5.4-inch screen, which means Apple has squeezed a larger display than the 4.7-inch screen found on this year's iPhone SE into an iPhone 12 mini handset that's smaller overall.
+<a href='https://www.theverge.com/2020/10/13/21507425/apple-iphone-12-mini-new-model-features-price-release-date-size'> Source <a/>

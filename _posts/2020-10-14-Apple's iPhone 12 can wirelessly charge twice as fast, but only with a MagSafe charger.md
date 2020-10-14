@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QWLbBxdWOO1y0NCfiAgCVJG5hno=/0x0:1534x862/1200x800/filters:focal(645x309:889x553)/cdn.vox-cdn.com/uploads/chorus_image/image/67625605/Yq6uMXU.0.png' width='700px' /><br/>
+Apple's new iPhone 12 line will be able to access faster wireless charging speeds of 15W in line with the most up-to-date Qi standard, but there's a catch: you'll have to use Apple's new MagSafe brand of charger or a MagSafe-compatible one from a third-party accessory maker.
+<a href='https://www.theverge.com/2020/10/13/21514850/apple-iphone-12-magsafe-wireless-charging-speed'> Source <a/>

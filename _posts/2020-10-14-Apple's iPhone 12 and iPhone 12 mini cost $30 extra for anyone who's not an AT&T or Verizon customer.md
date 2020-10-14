@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8EyAwXJ7eMEYVs_XVgl_LR46zm0=/0x0:2880x1620/1200x800/filters:focal(1210x580:1670x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/67625140/apple_iphone_12_super_retina_xdr_display_10132020.0.jpg' width='700px' /><br/>
+Apple just announced that its iPhone 12 and iPhone 12 mini will start at $799 and $699, respectively, but there's a big asterisk attached: those starting prices are only for Verizon and AT&T customers in the US.
+<a href='https://www.theverge.com/2020/10/13/21514791/apple-iphone-12-mini-price-increase-verizon-att-carriers-unlocked'> Source <a/>

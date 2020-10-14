@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9s3YZkmGAVikfbFcsdJRNGWnlVk=/0x0:1149x711/1200x800/filters:focal(484x265:666x447)/cdn.vox-cdn.com/uploads/chorus_image/image/67624670/environment_packaging__ego4ki0ykosy_large.10.jpg' width='700px' /><br/>
+Apple's new iPhone 12 lineup will ship without wall chargers or Lightning EarPods in the box to reduce the phone's environmental impact, the company announced today. Instead, they'll come with just a USB-C to Lightning cable. As well as the new phones, Apple is also removing the accessories from its existing iPhone models going forward.
+<a href='https://www.theverge.com/2020/10/13/21514480/apple-iphone-charging-brick-charger-earbuds-box-environmental-impact-carbon-emissions'> Source <a/>

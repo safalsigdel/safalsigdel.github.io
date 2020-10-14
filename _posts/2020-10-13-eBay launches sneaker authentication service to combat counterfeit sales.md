@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lvgznA4WgnfzV4WFnzpMZPiwSUM=/0x0:1616x909/1200x800/filters:focal(679x326:937x584)/cdn.vox-cdn.com/uploads/chorus_image/image/67622259/Ebay_Sneakers.0.jpg' width='700px' /><br/>
-eBay is launching a new sneaker authentication service to verify that shoes sold on the platform match what their listings claim. According to CNN, the service will start the week of October 25th and cover the most popular sneaker styles and brands. But by early 2021 it will expand to cover all sneakers sold for over $100 on eBay in the US.
-<a href='https://www.theverge.com/2020/10/13/21514028/ebay-sneaker-con-authentication-100-guarantee-fake-counterfeit-limited-edition'> Source <a/>

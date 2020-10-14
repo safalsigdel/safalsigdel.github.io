@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nWyQZT-QIQjxWZ6m6w0ey9NOmGU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67622931/dseifert_190620_3500_5227.0.jpg' width='700px' /><br/>
-Amazon Prime Day 2020 is here, and the retailer has slashed the prices across a slew of items and categories, including Amazon's own devices. Whether you are looking for a Fire tablet to read ebooks, a Ring device to protect your home, or you simply want to add an Alexa device to a part of your house, here are the best deals on Amazon's own tech.
-<a href='https://www.theverge.com/21514086/amazon-prime-day-best-kindle-echo-smart-home-deals'> Source <a/>

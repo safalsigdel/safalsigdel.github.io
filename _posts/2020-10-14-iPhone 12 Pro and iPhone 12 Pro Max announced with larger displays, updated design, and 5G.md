@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZYTXYp795f4p01DLKSMFs1MGoGQ=/0x0:1515x853/1200x800/filters:focal(637x306:879x548)/cdn.vox-cdn.com/uploads/chorus_image/image/67624641/lcimg_fba2bead_29ad_4d83_b0a1_cdd429a3484f.5.jpg' width='700px' /><br/>
+Apple has officially announced its 2020 flagship iPhones: the $999 iPhone 12 Pro and $1,099 12 Pro Max, featuring support for 5G and a new squared-off design that's reminiscent of the iPhone 4. It's also the first major redesign for Apple's full-screen smartphones since it introduced the bezel-less design with the iPhone X in 2017.
+<a href='https://www.theverge.com/2020/10/13/21504764/apple-iphone-12-pro-max-screen-size-5g-features-price-release-date'> Source <a/>

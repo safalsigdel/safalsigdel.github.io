@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jDPBuik3KikcmiPjoEXn_AuXjOg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67625340/acastro_201005_1777_googleAntiTrust_0001.0.0.jpg' width='700px' /><br/>
+It is unclear to me why The New York Times is making such a big deal of Google's incredibly normal job-training practices! Google employees can speak up about anything as long as they don't talk about antitrust, the Times reports. Google employees shouldn't bring it up in emails, meetings, or job interviews.
+<a href='https://www.theverge.com/2020/10/13/21514774/google-antitrust-job-training-instructions'> Source <a/>

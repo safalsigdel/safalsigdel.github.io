@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2mcAjb4X0LS4BUvG98fGdWtprlU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67622768/iphoen_12_leak.0.jpg' width='700px' /><br/>
-Apple will reveal its latest iPhones in just a few hours, but if you can't wait until the official announcement, all four new phones have leaked in full, thanks to noted phone leaker Evan Blass.
-<a href='https://www.theverge.com/2020/10/13/21514114/apple-iphone-12-lineup-pro-mini-leaks-images-blue-color'> Source <a/>

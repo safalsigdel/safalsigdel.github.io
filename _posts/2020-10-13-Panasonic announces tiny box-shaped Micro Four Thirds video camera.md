@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r7HfYYZ44dWyzX6tCUCiefTXUQs=/0x0:848x565/1200x800/filters:focal(357x216:491x350)/cdn.vox-cdn.com/uploads/chorus_image/image/67623144/bgh1.0.jpg' width='700px' /><br/>
-Panasonic has announced the Lumix BGH1, a unique device that the company describes as a “box-style mirrorless cinema and live event camera.” It has a Micro Four Thirds sensor and a compact cubic design, with one of the camera's sides almost completely dominated by the lens mount.
-<a href='https://www.theverge.com/2020/10/13/21514025/panasonic-lumix-bgh1-box-video-camera-m43-announced-price-date'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/--LOf_zEJwLYbhmkU-Er-S10THM=/0x0:10000x5625/1200x800/filters:focal(4200x2013:5800x3613)/cdn.vox-cdn.com/uploads/chorus_image/image/67626470/Oculus_Quest_2.0.jpg' width='700px' /><br/>
+The Oculus Quest 2, Facebook's new virtual reality headset, has started shipping today. The Quest 2 is a cheaper, revamped version of the original 2019 Quest. It's got the same untethered standalone design but with a new chipset and a big bump in screen resolution and controller battery life. And it's starting at $299 for the base 64GB model and $399 for a 256GB version, a $100 drop from the original Quest.
+<a href='https://www.theverge.com/2020/10/13/21514577/oculus-quest-2-facebook-vr-headset-availability-price-shipping-now'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ha4YSFL5n3K2l5c1BF0XWdd9XJY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67624437/acastro_200109_1777_verizon_0003.0.0.jpg' width='700px' /><br/>
+Verizon is making a big expansion of its 5G network: the carrier is now rolling out nationwide support for the new networking standard, which will reach more than 200 million people.
+<a href='https://www.theverge.com/2020/10/13/21509364/verizon-5g-network-ultra-wideband-nationwide-apple-event'> Source <a/>

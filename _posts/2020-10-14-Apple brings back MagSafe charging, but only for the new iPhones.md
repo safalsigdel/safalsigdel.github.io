@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TNVD5II0oOXN7jUKeSWZdIxjcrU=/0x0:964x764/1200x800/filters:focal(405x305:559x459)/cdn.vox-cdn.com/uploads/chorus_image/image/67624537/lcimg_0beac4b4_d356_4a10_b6a1_7f944b7dcdeb.5.jpg' width='700px' /><br/>
+Apple has revived its MagSafe charging brand with a twist: it's no longer for its MacBook line but instead for the new iPhone 12 line. The announcement, made during the company's annual iPhone reveal, confirmed rumors from last week that Apple would be bringing back its magnetic charging cable that it began phasing out of its laptop line in 2016 with the first USB-C MacBook.
+<a href='https://www.theverge.com/2020/10/13/21509659/apple-iphone-12-magsafe-charging-magnetic-charger-return'> Source <a/>

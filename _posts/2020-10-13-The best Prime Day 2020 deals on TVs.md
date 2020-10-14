@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F0CYkVawBDhkfoZTojHxV_1xNMg=/0x0:943x628/1200x800/filters:focal(397x239:547x389)/cdn.vox-cdn.com/uploads/chorus_image/image/67622658/sonyoled.0.jpg' width='700px' /><br/>
-Whether you're looking for the perfect 4K TV for catching up on TV shows and movies or one that will be a good fit for playing Xbox Series X and PS5 later this fall, Amazon Prime Day 2020 has plenty of sales you might be interested in. We've included several models available on Amazon as well as other retailer sites like Walmart and Best Buy. Most of the big TV makers — Samsung, TCL, LG, Sony — will have sets on sale.
-<a href='https://www.theverge.com/21507545/amazon-prime-day-best-4k-tv-deals'> Source <a/>
