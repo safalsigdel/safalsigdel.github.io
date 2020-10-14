@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EMK32_qv2aylPsjwTfHJevl8RpA=/0x0:1215x756/1200x800/filters:focal(511x281:705x475)/cdn.vox-cdn.com/uploads/chorus_image/image/67624374/lcimg_c994bc29_77a0_44cd_9326_ef6385381f17.5.jpg' width='700px' /><br/>
-Apple has announced a new version of its HomePod smart speaker, the $99 HomePod mini — a smaller version of the speaker that shrinks down the original model into a more compact size.
-<a href='https://www.theverge.com/2020/10/13/21432979/apple-homepod-mini-features-specs-price'> Source <a/>
