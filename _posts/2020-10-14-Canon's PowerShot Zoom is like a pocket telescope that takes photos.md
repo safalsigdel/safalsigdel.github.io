@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UP2fJpXvzyhoggaZbpxtWgu2FPI=/0x0:1183x788/1200x800/filters:focal(498x300:686x488)/cdn.vox-cdn.com/uploads/chorus_image/image/67628090/psz.0.jpg' width='700px' /><br/>
+Canon has announced the PowerShot Zoom, an unusual camera that's more like a digital monocular than a point-and-shoot. The company has been showing off the idea for a while and recently crowdfunded it in Japan; now it's coming to the US.
+<a href='https://www.theverge.com/2020/10/14/21515485/canon-powershot-zoom-announced-specs-price-release-date'> Source <a/>

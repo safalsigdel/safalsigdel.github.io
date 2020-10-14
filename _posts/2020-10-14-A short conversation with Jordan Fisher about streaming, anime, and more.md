@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SNi6tlUXzNiMNGRiwWV3AwyKsLs=/83x0:1854x985/1200x800/filters:focal(788x84:1094x390)/cdn.vox-cdn.com/uploads/chorus_image/image/67624100/1225883047.jpg.0.jpg' width='700px' /><br/>
-Jordan Fisher is the kind of multi-hyphenate performer who is impossible to summarize in a sentence. He's in film, on television and Broadway, and somehow he finds the time to keep a regular streaming schedule on Twitch. But more than that, he's sincere. I can honestly say that's what struck me the most about Fisher. (That said: let's be real, the dude is extremely handsome.)
-<a href='https://www.theverge.com/2020/10/13/21514330/jordan-fisher-twitch-verizon-5g-anime-streaming'> Source <a/>
