@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_7ED2B8W0a03ZFuB28tPpoiqI-E=/0x0:1063x594/1200x800/filters:focal(447x212:617x382)/cdn.vox-cdn.com/uploads/chorus_image/image/67624469/download.0.png' width='700px' /><br/>
-Apple has taken the wraps off its new iPhone 12 lineup today, and a standout feature is a new ceramic-hardened display named Ceramic Shield, available on the iPhone 12, iPhone 12 mini, iPhone 12 Pro, and iPhone 12 Pro Max. Apple says Ceramic Shield is “tougher than any smartphone glass,” with four times greater resistance to damage from drops.
-<a href='https://www.theverge.com/2020/10/13/21509008/apple-iphone-12-pro-max-mini-displays-ceramic-hardened'> Source <a/>
