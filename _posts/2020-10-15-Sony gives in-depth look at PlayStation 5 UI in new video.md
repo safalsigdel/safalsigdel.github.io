@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e-pCQ0bcTu3lbiY62lA5kbZIUSg=/0x0:2272x1220/1200x0/filters:focal(0x0:2272x1220):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21960856/Screen_Shot_2020_10_15_at_9.04.12_AM.png' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/ZkOp78cGg-LwuVDxBfuHAtvEz2k=/0x0:2476x1362/1200x0/filters:focal(0x0:2476x1362):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21960886/Screen_Shot_2020_10_15_at_9.16.51_AM.png' width='700px' /><br/>
 Sony just revealed one of the final big questions about the upcoming PlayStation 5: what the user interface looks like. A lengthy new walkthrough shows off what it'll look like to actually use the upcoming console when it launches on November 12th.
 <a href='https://www.theverge.com/2020/10/15/21517426/playstation-5-ps5-ui-menu-sony-video-watch-first-look'> Source <a/>

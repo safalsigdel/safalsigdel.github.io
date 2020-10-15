@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T6dOWLh8_ly7sKISAxHebxxjeBE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67632608/twarren_08202017_1939_0003.0.0.jpg' width='700px' /><br/>
-Tesla CEO Elon Musk, lover of dirty jokes and weed jokes, is back at it again. On Wednesday, Musk tweeted that Tesla would be reducing the price of its flagship sedan, the Model S, to $69,420.
-<a href='https://www.theverge.com/2020/10/14/21516528/elon-musk-tesla-model-s-price-cut-twitter'> Source <a/>

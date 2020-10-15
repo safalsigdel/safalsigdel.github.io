@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/tbVmk0deP7x49kyxamC00DsGNFw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67633504/cfaulkner_200929_4214_0004.0.0.jpg' width='700px' /><br/>
-Razer's Blade 15 Advanced gaming laptop got a hefty $500 discount for Prime Day 2020, but Razer quietly knocked an additional $100 off today that brings it down to a more reasonable $2,000 until the end of the day.
+Razer's Blade 15 Advanced gaming laptop got a hefty $500 discount for Prime Day 2020, and yesterday Razer quietly knocked an additional $100 off today that brings it down to a more reasonable $2,000 until the end of the day. This deal is now over, but we've collected a few of the best Prime Day deals that you can still get.
 <a href='https://www.theverge.com/2020/10/14/21516788/amazon-prime-day-2020-deal-razer-blade-15-advanced-gaming-laptop-300hz-display'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UlDQt0VFskROtvVewSbTQorN_MQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67637119/akrales_190221_3225_0183.0.jpg' width='700px' /><br/>
+Sony has released a new version of its Imaging Edge Webcam software for Macs, which allows you to directly plug in a recent Sony camera to use as a high-quality webcam for Zoom or Skype calls on your computer.
+<a href='https://www.theverge.com/2020/10/15/21517673/sony-imaging-edge-webcam-digital-camera-webcam-software-mac'> Source <a/>

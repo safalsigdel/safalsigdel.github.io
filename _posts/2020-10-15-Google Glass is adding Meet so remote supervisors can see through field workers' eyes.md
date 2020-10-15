@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0-F5BuPaQzeCqlmImr3_0luKH5Y=/0x0:2430x1620/1200x800/filters:focal(488x481:876x869)/cdn.vox-cdn.com/uploads/chorus_image/image/67632389/google_glass_enterprise_3_2.0.jpg' width='700px' /><br/>
-You probably haven't thought about Google Glass in a while, but the Enterprise Edition of its heads-up display is getting a neat new trick: it'll be able to use Google Meet (formerly Hangouts Meet) to let remote supervisors see through the eyes of their workers in the field and help them complete tasks with live chat.
-<a href='https://www.theverge.com/2020/10/14/21516402/google-glass-meet-beta-enterprise-edition-remote-work-skype-microsoft-hololens'> Source <a/>

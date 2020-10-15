@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9IZzPRvA-Cv3FVAQcwJdaWjlLNM=/0x0:1120x468/1200x800/filters:focal(471x145:649x323)/cdn.vox-cdn.com/uploads/chorus_image/image/67632488/Screen_Shot_2020_10_14_at_3.23.07_PM.0.png' width='700px' /><br/>
-Verizon's new ad for the iPhone 12 is introducing another 5G logo, but this one — unlike AT&T's 5G E one — actually means something. Now, if you're an iPhone 12 owner and in one of the small but growing areas of Verizon's network that supports its mmWave variety of 5G, you'll see a new “5G UW” logo.
-<a href='https://www.theverge.com/2020/10/14/21516518/apple-iphone-12-5g-uw-verizon-mmwave-logo-reveal-ad-chris-rock'> Source <a/>

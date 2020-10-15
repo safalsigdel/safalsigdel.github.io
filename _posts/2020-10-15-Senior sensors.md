@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IN_2hDKZ4ww1PHaeQXb_1zEsr3s=/0x0:2040x1360/1200x675/filters:focal(857x377:1183x703)/cdn.vox-cdn.com/uploads/chorus_image/image/67635749/acastro_201014_4240_00012.0.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/A5038cYrFBJBPwRT6isG5fJ93i8=/0x0:2040x1360/1200x675/filters:focal(848x521:1174x847)/cdn.vox-cdn.com/uploads/chorus_image/image/67635749/acastro_201014_4240_00012.0.0.jpg' width='700px' /><br/>
 Steve Kasch's mom, Julia, was always worried about losing her keys. “She wasn't even driving, but she was checking her purse every ten minutes,” he says.
 <a href='https://www.theverge.com/21509117/contact-tracing-apps-digital-senior-nursing-homes'> Source <a/>

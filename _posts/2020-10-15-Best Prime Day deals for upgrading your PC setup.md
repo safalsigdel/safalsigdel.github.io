@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T-0fu4LU3gfjnC2_sbrWg1oVAXU=/0x0:3743x2496/1200x800/filters:focal(1573x949:2171x1547)/cdn.vox-cdn.com/uploads/chorus_image/image/67622720/deathadderv2.0.jpg' width='700px' /><br/>
-Have you recently purchased a gaming PC? Are you looking to buy some new equipment for working from home? Amazon's Prime Day event has a ton of great accessories that will spice up your PC setup.
-<a href='https://www.theverge.com/21507868/amazon-prime-day-best-pc-computer-deals'> Source <a/>

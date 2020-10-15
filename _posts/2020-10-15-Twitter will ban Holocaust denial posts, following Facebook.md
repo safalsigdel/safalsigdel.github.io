@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xKQJe7IcPSQzd7kpkKdSQec1FLA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67632674/acastro_200715_1777_twitter_0003.0.0.jpg' width='700px' /><br/>
-Twitter will ban posts that deny the Holocaust, a company spokesperson confirmed today. The news, first reported by Bloomberg, comes two days after Facebook implemented the same policy.
-<a href='https://www.theverge.com/2020/10/14/21516468/twitter-holocaust-denial-banned-facebook-policy'> Source <a/>

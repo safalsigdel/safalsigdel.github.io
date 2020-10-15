@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A-_7ivRlabC-qjp2hc6sLRIgSo4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67636647/acastro_200713_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
+TikTok's chief security officer says in new court documents that the US Commerce Department has mischaracterized how the app stores and secures user data, as the company renews its motion for a preliminary injunction against the Trump administration's looming ban.
+<a href='https://www.theverge.com/2020/10/15/21517403/tiktok-security-servers-separate-bytedance-china-trump-ban'> Source <a/>

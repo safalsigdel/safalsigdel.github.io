@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Apple's new MagSafe accessory ecosystem isn't even a day old, but Belkin is already getting started with new charging accessories that use the magnetic charging system with the introduction of its new BoostCharge Pro MagSafe 3-in-1 Wireless Charger and its MagSafe Car Vent Mount Pro.
-<a href='https://www.theverge.com/circuitbreaker/2020/10/14/21516404/belkin-magsafe-boostcharge-pro-charger-car-mount-iphone-12-accessories'> Source <a/>

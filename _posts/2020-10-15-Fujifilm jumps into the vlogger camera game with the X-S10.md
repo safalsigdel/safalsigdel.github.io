@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0BD4ZHwhgVH6DY2R68939zWrKJo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67636141/dseifert_201001_4224_0003.0.0.jpg' width='700px' /><br/>
+Fujifilm has just announced a new camera in its X-series mirrorless lineup, the X-S10. The new model is a bit of a departure from Fujifilm's other cameras, and features a control scheme that'll be familiar to shooters of other camera systems. It also has plenty of vlogger-friendly features, including a fully articulating display, in-body image stabilization, and a microphone input.
+<a href='https://www.theverge.com/21517015/fujifilm-x-s10-camera-vlogging-price-specs-features'> Source <a/>
