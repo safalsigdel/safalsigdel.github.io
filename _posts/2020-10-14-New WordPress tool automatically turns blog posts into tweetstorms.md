@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qn0DzQ3lOwgzNesNL3nlIf8lQlw=/0x0:2116x1190/1200x800/filters:focal(789x371:1127x709)/cdn.vox-cdn.com/uploads/chorus_image/image/67628446/wordpress.0.jpg' width='700px' /><br/>
-WordPress has introduced a new feature that automatically posts entire blogs as Twitter threads, complete with all text, images, videos and embeds. You can access the feature via the green Jetpack icon on the top right of the edit post page, alongside existing options to share links to Facebook and other social networks.
-<a href='https://www.theverge.com/2020/10/14/21515567/wordpress-tool-twitter-thread-tweetstorm-automated-social-post-preview'> Source <a/>

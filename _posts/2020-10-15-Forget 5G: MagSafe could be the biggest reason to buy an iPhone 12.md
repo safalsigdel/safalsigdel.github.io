@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+By now, you've probably read my colleague Nick Statt's piece about how the iPhone 12's MagSafe magnetically-attached wireless charging cable opens up a future where iPhones won't need ports at all.
+<a href='https://www.theverge.com/circuitbreaker/2020/10/14/21515490/apple-iphone-12-magsafe-accessories-ecosystem'> Source <a/>

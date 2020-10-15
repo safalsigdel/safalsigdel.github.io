@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eZQqKYOatlcGfUFHFYlI0i_t78Y=/0x0:1660x926/1200x800/filters:focal(698x331:962x595)/cdn.vox-cdn.com/uploads/chorus_image/image/67624471/Screen_Shot_2020_10_13_at_1.26.04_PM.0.png' width='700px' /><br/>
-Apple's new iPhone 12 lineup will be the first to feature 5G. However, it'll only use the faster networking speeds some of the time, thanks to a new “Smart Data Mode,” which will toggle between 4G and 5G based on when apps are making big bandwidth demands.
-<a href='https://www.theverge.com/2020/10/13/21514209/apple-iphone-12-5g-battery-smart-data-mode-apps-bandwidth-demand'> Source <a/>

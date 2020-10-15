@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0EEOXJvM7wvCWql0ya66a4WnZbY=/0x0:1920x1080/1200x675/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67625515/iphone.0.png' width='700px' /><br/>
-Apple's new iPhones have arrived (even if they're a bit later than usual). And this year, Apple has launched four new phones: the iPhone 12, 12 mini, 12 Pro, and 12 Pro Max, its first iPhones with 5G and what Apple claims are the fastest smartphones ever made.
-<a href='https://www.theverge.com/2020/10/13/21514500/apple-iphone-12-samsung-galaxy-note-pixel-android-comparison-specs'> Source <a/>

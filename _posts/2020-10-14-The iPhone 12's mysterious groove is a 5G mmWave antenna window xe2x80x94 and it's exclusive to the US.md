@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Apple has announced its very first 5G iPhones: the iPhone 12, iPhone 12 Mini, iPhone 12 Pro and iPhone 12 Pro Max. They range in price from $729 to well north of $1,100, but — as Apple proudly announced during the press conference — even the Mini offers access to speedy millimeter-wave (mmWave) 5G networks.
-<a href='https://www.theverge.com/circuitbreaker/2020/10/13/21515128/iphone-12-mini-pro-max-mmwave-5g-antenna-window'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Oz5CkbfAo53EIkFmXL4PU9UlAaw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67625183/acastro_191014_1777_google_pixel_0006.0.0.jpg' width='700px' /><br/>
-Google Assistant will soon be able to book a haircut for you by calling a salon and requesting a time on your behalf. The feature was announced two years ago when Google first unveiled Duplex, its tech for having a human-sounding system call stores and make requests of whoever picks up. Its first (and only) consumer feature, making reservations at restaurants, launched in late 2018 in the US.
-<a href='https://www.theverge.com/2020/10/13/21514427/google-duplex-haircut-booking-feature-rolling-out-robot-natural-voice'> Source <a/>

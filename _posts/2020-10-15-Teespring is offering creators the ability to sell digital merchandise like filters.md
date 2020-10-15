@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dZ952RW37Abx11hIUbT4X_6TsdI=/0x0:2862x1195/1200x800/filters:focal(1203x370:1659x826)/cdn.vox-cdn.com/uploads/chorus_image/image/67633174/PR_Final.0.png' width='700px' /><br/>
+For both aspiring and established creators, T-shirts and hoodies are so passxc3xa9 — the new wave of merchandise is all digital.
+<a href='https://www.theverge.com/2020/10/14/21516499/teespring-digital-merchandise-creators-filters-planners-ebooks-keyboards'> Source <a/>

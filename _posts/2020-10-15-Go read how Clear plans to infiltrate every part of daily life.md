@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jiFWZmhWyCBBn_7wT9ujdAwllQc=/0x0:4936x3408/1200x800/filters:focal(2944x1006:3732x1794)/cdn.vox-cdn.com/uploads/chorus_image/image/67634150/1177050436.jpg.0.jpg' width='700px' /><br/>
+With the pandemic essentially halting travel, Clear — once in the business of streamlining security checks at airports — is now in search of other opportunities. For a company whose bread and butter is biometric identify verification, the solutions lie, well, everywhere, reports Dave Gershgorn for OneZero.
+<a href='https://www.theverge.com/2020/10/14/21516653/clear-identity-health-covid-airports'> Source <a/>

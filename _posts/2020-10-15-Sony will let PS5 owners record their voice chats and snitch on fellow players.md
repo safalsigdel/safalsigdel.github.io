@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Am-8abF-Nq74r5V3WgH6ao65DOo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67634178/acastro_200318_1777_ps5_0001.0.jpg' width='700px' /><br/>
+Some PlayStation 4 users who downloaded the latest 8.0 update got an unwelcome surprise this morning: their console informed them that Sony had the right to record their voice for moderation purposes.
+<a href='https://www.theverge.com/2020/10/14/21516928/sony-ps5-playstation-5-owners-record-listen-voice-chats-moderation-4-8-0-software-update'> Source <a/>

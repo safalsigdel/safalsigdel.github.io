@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FBNzZk7KVE0ZKIH0K1UiFlZru1g=/0x0:1960x1400/1200x0/filters:focal(0x0:1960x1400):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21956328/apple_iphone_12_color_blue_10132020.jpg' width='700px' /><br/>
-Apple has just finished its “Hi, Speed” event, where it finally took the wraps off the four new iPhone 12 phones, which have all-new designs and will all support 5G wireless networks. Apple also unveiled the HomePod mini, a smaller and more affordable version of the HomePod smart speaker.
-<a href='https://www.theverge.com/2020/10/13/21508028/apple-iphone-12-pro-max-homepod-mini-event-recap-biggest-announcements'> Source <a/>
