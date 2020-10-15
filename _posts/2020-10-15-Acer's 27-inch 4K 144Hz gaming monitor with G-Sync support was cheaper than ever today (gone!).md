@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zmosGwOh2CwpdowjQTGMeDHpGXc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67632326/akrales_180926_2970_0030.0.jpg' width='700px' /><br/>
-The Lightning Deal for Acer's 27-inch 4K Predator gaming monitor at Amazon lasted about 10 seconds. For a brief flash of time, it dropped from its usual $1,200 price to $720. The deal was supposed to last until tonight 11:45PM PT / 2:45AM ET, but that clearly didn't happen. This monitor has swung down to $900 a few times, but this was the best deal yet.
-<a href='https://www.theverge.com/2020/10/14/21516344/amazon-prime-day-acer-27-inch-4k-gaming-monitor-nvidia-g-sync-deal-sale'> Source <a/>

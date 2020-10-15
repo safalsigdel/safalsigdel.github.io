@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4e_RUmBWDFVGQKpr5U2b4Gz9bWU=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/67635784/juWC76cndqo77CnWBCEJVn.0.png' width='700px' /><br/>
+Microsoft is revealing a “selection” of new and cross-gen Xbox Series X games that will be available at launch with optimizations for both the Series X and Series S consoles. While the company isn't revealing exactly what will be optimized in every title, we should expect to see a mixture of improvements including better load times and higher frame rates.
+<a href='https://www.theverge.com/2020/10/15/21517328/microsoft-xbox-series-x-launch-games-optimized-features'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RhCEzXn-geQpTJjw-eGRfRYoL38=/0x0:2040x1360/1200x800/filters:focal(872x543:1198x869)/cdn.vox-cdn.com/uploads/chorus_image/image/67632254/acastro_190218_1777_apple_streaming_0003.0.jpg' width='700px' /><br/>
-For the first time, Apple's Apple TV app is making its way to Android TV. Sony has announced that, as of today, the app will begin rolling out in the United States to the company's new X900H series of 4K HDR TVs via a software update. This might push along efforts to sideload the app onto other Android TV devices like the Nvidia Shield or the new Google Chromecast.
-<a href='https://www.theverge.com/2020/10/14/21516418/apple-tv-sony-android-now-available-software-update'> Source <a/>
