@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sdHzRGQZG552lnzekUAlJV12S4w=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/67637236/Cyperpunk__2077_Stadia_10_15_2020.0.jpg' width='700px' /><br/>
+We knew that Cyberpunk 2077, CD Projekt Red's highly anticipated sci-fi RPG, would be coming to Google's Stadia cloud gaming service at some point. But it hasn't been clear exactly when, beyond that it would arrive sometime this year after the game's launch on PC and consoles.
+<a href='https://www.theverge.com/2020/10/15/21517711/cyberpunk-2077-google-stadia-launch-day-release-console-pc-november-19'> Source <a/>
