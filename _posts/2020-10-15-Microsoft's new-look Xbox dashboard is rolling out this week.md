@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6KBj7KL-RGOnJJBTx5iO-1GvMGI=/0x0:1280x853/1200x800/filters:focal(538x325:742x529)/cdn.vox-cdn.com/uploads/chorus_image/image/67635062/xbui.0.jpg' width='700px' /><br/>
+The October update for Xbox is arriving this week, bringing with it a taste of the next generation. Microsoft has announced that a new dashboard design is rolling out to Xbox consoles as part of the latest update, and it'll also run on the Xbox Series X and Series S when they launch next month.
+<a href='https://www.theverge.com/2020/10/15/21517293/xbox-series-x-s-dashboard-ui-october-update-release'> Source <a/>
