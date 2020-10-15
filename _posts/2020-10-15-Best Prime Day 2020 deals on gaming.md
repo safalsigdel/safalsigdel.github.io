@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LwVImOaXNijTEcihkXFtulXIuw8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67622680/akrales_190820_3597_0191.0.jpg' width='700px' /><br/>
-If you are looking to buy some games that are on your backlist or a new gaming peripheral for your setup, Prime Day 2020 might have some deals worth checking out. Whether you are ready for some new entertainment, are in the market for a gaming mouse, or are looking for some extra storage for your console, here are some of the best gaming deals Amazon is offering during its two-day event.
-<a href='https://www.theverge.com/21507769/amazon-prime-day-best-gaming-games-deals'> Source <a/>
