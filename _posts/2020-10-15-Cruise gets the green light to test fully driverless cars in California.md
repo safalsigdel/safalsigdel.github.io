@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w7MQUckfcU4jCHVXjaivzs4ylA8=/0x0:3852x2554/1200x800/filters:focal(1618x969:2234x1585)/cdn.vox-cdn.com/uploads/chorus_image/image/67637585/1189070710.jpg.0.jpg' width='700px' /><br/>
+Cruise, the self-driving company owned by General Motors, approved to test its driverless cars on public roads in California. The company says it plans to test vehicles without a human safety driver behind the wheel before the end of 2020.
+<a href='https://www.theverge.com/2020/10/15/21517833/cruise-driverless-cars-test-permit-california-dmv'> Source <a/>
