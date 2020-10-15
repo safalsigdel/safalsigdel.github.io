@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WjwwswgDBY2LU_OagHZM0R6fd5I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67635353/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
+Unwanted smartphone notifications are always a pain in the app, but not often are these messages so nakedly political as the latest batch sent out by Uber in California.
+<a href='https://www.theverge.com/2020/10/15/21517316/uber-spamming-user-political-push-notifications-prop-22-vote'> Source <a/>
