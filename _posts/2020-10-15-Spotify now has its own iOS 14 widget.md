@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6T5bnUdLr2sid3ALZ4lKbYpL7E4=/0x0:1662x1108/1200x800/filters:focal(699x422:963x686)/cdn.vox-cdn.com/uploads/chorus_image/image/67631783/spotifywidget.0.jpg' width='700px' /><br/>
-In the weeks since iOS 14's release, more and more apps have been adding new features that take advantage of what's in Apple's latest update. And now, Spotify is joining in. Today, the leading subscription music service announced the launch of its widget for iOS 14 and iPadOS 14.
-<a href='https://www.theverge.com/2020/10/14/21516341/spotify-ios-14-iphone-widget-now-available'> Source <a/>
