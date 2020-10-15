@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9nsEsaU_sHJhCX_K2IgiBlmP-0Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67631045/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-The biggest trend at platforms this month is changing your mind. Facebook belatedly banned QAnon. Twitter tapped the brakes on retweets. And on Monday, Facebook made one of the biggest policy reversals in its history, banning posts that deny or distort the Holocaust.
-<a href='https://www.theverge.com/2020/10/14/21516088/facebook-holocaust-deniers-policy-qanon-anti-semitism'> Source <a/>

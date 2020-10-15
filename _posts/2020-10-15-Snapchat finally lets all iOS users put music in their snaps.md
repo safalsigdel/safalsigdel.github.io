@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OmnkwYA2B9qvloPShvjhyKbGNts=/0x0:2859x1906/1200x800/filters:focal(1202x725:1658x1181)/cdn.vox-cdn.com/uploads/chorus_image/image/67635042/snapchatsounds.0.jpg' width='700px' /><br/>
+Snap is making good on its word to bring music to Snapchat and setting itself up to compete even more so with TikTok and Instagram. The company announced today that iOS users around the world will be able to include popular music in their snaps. It already brought the feature to people in New Zealand and Australia and said in August it'd bring music to more regions this fall. Snap doesn't mention when sounds might be available on Android devices.
+<a href='https://www.theverge.com/2020/10/15/21516348/snapchat-snap-sounds-music-ios-update'> Source <a/>
