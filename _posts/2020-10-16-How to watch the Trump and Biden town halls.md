@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kuoCwEtnfTCuDYDsqH5WEX-8EUM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67637031/acastro_181106_1777_flag_0004.0.jpg' width='700px' /><br/>
-Tonight was supposed to be the second presidential debate, according to the schedule laid out by the Commission on Presidential Debates in June. But the president's COVID-19 diagnosis threw that plan into chaos, and instead of a single bipartisan debate, we've ended up with two dueling town halls for each candidate, each limited to a single network (or family of networks).
-<a href='https://www.theverge.com/2020/10/15/21515886/trump-biden-town-halls-watch-live-stream-date-start-time-presidential-debate-nbc-abc'> Source <a/>
