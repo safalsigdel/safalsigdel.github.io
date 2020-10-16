@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k1EShqjAQcjY6UUdWtT-uUrhf6M=/0x0:1920x1080/1200x675/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67637038/the_secret_of_monkey_island_2.0.jpg' width='700px' /><br/>
-It's surprisingly hard to archive a video game. Cartridges decay, eventually; discs become unreadable as their plastic degrades. Source codes are lost to corporate mergers and acquisitions. But what's most dangerous to preserving game history isn't a physical or corporate consideration: it's the prevailing attitude that games are playful, evanescent, and therefore not worth archiving.
-<a href='https://www.theverge.com/2020/10/15/21516254/video-game-history-foundation-secret-of-monkey-island-code'> Source <a/>

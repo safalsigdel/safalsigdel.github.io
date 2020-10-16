@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ONVsRDsOsZq-CIMitGEVXNCrq3o=/0x0:1742x1188/1200x800/filters:focal(732x455:1010x733)/cdn.vox-cdn.com/uploads/chorus_image/image/67642719/Screen_Shot_2020_10_16_at_10.58.08_AM.0.png' width='700px' /><br/>
+OtterBox has launched the first third-party iPhone 12 cases that officially support Apple's new MagSafe accessory system, with the company debuting its Figura, Aneu, and Symmetry Series Plus cases for the new phones today.
+<a href='https://www.theverge.com/2020/10/16/21519365/otterbox-magsafe-iphone-12-cases-third-party-charging-accessories'> Source <a/>

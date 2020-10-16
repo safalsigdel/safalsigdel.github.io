@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W29kVkUXa5ncRATguKffM0paWGY=/0x0:2604x1398/1200x800/filters:focal(1094x491:1510x907)/cdn.vox-cdn.com/uploads/chorus_image/image/67638127/Screen_Shot_2020_10_15_at_2.09.43_PM.0.png' width='700px' /><br/>
-Apple is taking another try at building a smart home speaker with the new HomePod mini, a smaller, less expensive version of its original HomePod.
-<a href='https://www.theverge.com/2020/10/15/21517945/apple-homepod-mini-homekit-smart-home-system-gateway-price'> Source <a/>

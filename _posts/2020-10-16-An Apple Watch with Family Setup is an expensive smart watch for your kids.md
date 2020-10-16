@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/amdOgyUxFohR2baeA8W4uqEfQPk=/0x0:2040x1360/1200x675/filters:focal(877x660:1203x986)/cdn.vox-cdn.com/uploads/chorus_image/image/67642218/dseifert_200930_4217_0001.0.0.jpg' width='700px' /><br/>
+The most interesting Apple Watch product Apple announced this year wasn't the new flagship Series 6 or the new lower-cost Watch SE. It wasn't watchOS 7 with its handful of new watchfaces, the ability to track your sleep, or detect when you're washing your hands to reprimand you if you don't go the full 20 seconds either.
+<a href='https://www.theverge.com/21518711/apple-watch-family-setup-test-review-features-explainer'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GHzefRPmrPsmFumeKh61iedQNmY=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/67642908/samsung_galaxy_fit2_trio_wireless_charger.0.png' width='700px' /><br/>
+Samsung has announced that its new fitness tracker, the Galaxy Fit 2, and its new Trio wireless charger are now available for purchase. The company previously announced both products during its Life Unstoppable virtual event in September.
+<a href='https://www.theverge.com/2020/10/16/21519292/samsung-galaxy-fit-2-trio-wireless-charger-price'> Source <a/>

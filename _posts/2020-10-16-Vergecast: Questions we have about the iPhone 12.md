@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LzZt8_B_Y1JCEdccDvbYGnzBKyg=/0x0:2050x1300/1200x800/filters:focal(861x486:1189x814)/cdn.vox-cdn.com/uploads/chorus_image/image/67642419/ip12pc.0.jpg' width='700px' /><br/>
+This week, we saw Apple announce the next generation of iPhones at its virtual event, with a focus on the company's first 5G devices.
+<a href='https://www.theverge.com/2020/10/16/21519191/iphone-12-event-lineup-5g-homepod-vergecast-podcast-426'> Source <a/>

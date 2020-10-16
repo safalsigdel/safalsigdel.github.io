@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sXBzFTJs-aeEg2-Q9PAjXJ4zuPY=/0x0:4000x2250/1200x800/filters:focal(1680x805:2320x1445)/cdn.vox-cdn.com/uploads/chorus_image/image/67642623/4_Hucards___FPGA_CD.0.png' width='700px' /><br/>
+After releasing beautiful aftermarket versions of the NES, SNES, and Sega Genesis, Analogue has now set its sights on NEC's library of old-school hardware. Today the company unveiled the Analogue Duo, a console that supports a huge range of hardware including the TurboGrafx-16, PC Engine, SuperGrafx, TurboGrafx CD, PC Engine CD-ROM, and Super Arcade CD-ROM. It's slated to launch in 2021 for $199.99.
+<a href='https://www.theverge.com/2020/10/16/21517472/analogue-duo-retro-console-nec-turbografx-price-release-date'> Source <a/>
