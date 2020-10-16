@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bux0mH2okVvm4QGk0A0FUbTakRo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67636943/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
-YouTube is the latest Silicon Valley company to update its moderation policies around the fringe theory QAnon, announcing that content that targets or harasses people based on conspiracy theories will be removed. YouTube will not issue a blanket ban on QAnon content, though.
-<a href='https://www.theverge.com/2020/10/15/21517640/youtube-qanon-content-policy-update-hate-harassment-ban-facebook-pinterest'> Source <a/>
