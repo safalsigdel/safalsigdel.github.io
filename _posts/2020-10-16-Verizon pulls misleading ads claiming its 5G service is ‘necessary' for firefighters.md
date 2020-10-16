@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/mBLYinZGiVeO9zRryRjnrc4JlEM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67638491/acastro_200109_1777_verizon_0002.0.0.jpg' width='700px' /><br/>
-Verizon has agreed to pull 5G advertisements claiming its new network was “built for” firefighters and first responders, after the National Advertising Division and the Better Business Bureau began looking into the ads following complaints they were misleading.
+Verizon has agreed to pull 5G advertisements claiming its new network was “built for” firefighters and first responders, after the National Advertising Division (NAD) began looking into the ads following complaints they were misleading.
 <a href='https://www.theverge.com/2020/10/15/21517986/verizon-pulls-5g-ads-firefighters-first-responders-misleading-tmobile'> Source <a/>
