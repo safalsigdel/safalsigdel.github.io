@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HZogBGrKnpswBZhc-hrKSDP6HzI=/0x0:1312x810/1200x800/filters:focal(552x301:760x509)/cdn.vox-cdn.com/uploads/chorus_image/image/67641728/iphone12mininew.0.jpg' width='700px' /><br/>
+T-Mobile has clarified that it will offer a $30 discount on the iPhone 12 mini and iPhone 12 — same as AT&T and Verizon. That means the phones will start at $699 and $799, respectively, for T-Mobile customers as well, instead of the usual starting prices of $729 and $829 that Apple charges.
+<a href='https://www.theverge.com/2020/10/16/21516698/t-mobile-iphone-12-mini-discount-30-dollars-apple-website-activation-deal'> Source <a/>
