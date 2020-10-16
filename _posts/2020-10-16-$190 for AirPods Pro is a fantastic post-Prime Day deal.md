@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E4_2Ue2uIivCSOeskmk9u0430pU=/0x0:2040x1360/1200x800/filters:focal(831x696:1157x1022)/cdn.vox-cdn.com/uploads/chorus_image/image/67636181/cwelch_191031_3763_0003.0.jpg' width='700px' /><br/>
-The dust has settled following two days of Amazon Prime Day 2020 sales. Most of the deals are finished, and prices are for the most part back to their normal rates. The next big opportunity to save big will come during Black Friday after Thanksgiving, in just over a month.
-<a href='https://www.theverge.com/2020/10/15/21517419/amazon-prime-day-deals-still-available-sale-headphones-games-laptops'> Source <a/>
