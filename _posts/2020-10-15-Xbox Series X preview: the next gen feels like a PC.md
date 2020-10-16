@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fnAhRXb4-jJKlPRovWyjR5glNqk=/0x0:2640x1749/1200x675/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/67635762/twarren_xboxseriesxhandson.0.jpg' width='700px' /><br/>
-I haven't been using my Xbox One as much recently, as it just feels outdated. As someone who plays primarily on PC, the lower frame rates and input lag on current-generation consoles are enough to put me off playing a lot of games on an Xbox One or PS4. That was until I started playing games on the Xbox Series X three weeks ago.
-<a href='https://www.theverge.com/2020/10/15/21515790/xbox-series-x-preview-hardware-games-performance'> Source <a/>

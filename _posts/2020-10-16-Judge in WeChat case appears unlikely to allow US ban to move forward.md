@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kTiscJzWeiap6i-sr3fyucJtAcw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67638673/acastro_181126_1777_weChat_0001.0.jpg' width='700px' /><br/>
+A judge in San Francisco said Thursday she's not likely to lift a temporary block on the US government's attempts to ban WeChat. US Magistrate Judge Laurel Beeler responded to the Trump administration's request for a stay of her September 20th preliminary injunction, which prevents the government from halting new downloads of WeChat in the US and from blocking transactions related to the app.
+<a href='https://www.theverge.com/2020/10/15/21518013/judge-wechat-ban-china-trump-users-alliance'> Source <a/>

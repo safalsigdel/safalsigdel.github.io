@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1BKUTLb2EGA0iXYmHpDvufGKHug=/0x0:2560x1964/1200x800/filters:focal(1076x778:1484x1186)/cdn.vox-cdn.com/uploads/chorus_image/image/67634571/DJI_RSC2_and_DJI_RS2_2.0.jpg' width='700px' /><br/>
-It's been well over a month since DJI teased its new products, but today it officially announced two new gimbals — the Ronin S 2 and the smaller Ronin SC 2.
-<a href='https://www.theverge.com/2020/10/14/21517121/dji-ronin-s2-sc2-rs2-rsc2-gimbals-announced-price'> Source <a/>

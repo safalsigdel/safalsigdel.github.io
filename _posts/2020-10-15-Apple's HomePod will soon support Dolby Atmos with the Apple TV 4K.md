@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VtHP-l6JrsUcjqKPHkBnNH9Jgmw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67635234/jbareham_180202_2266_0057.0.jpg' width='700px' /><br/>
-Apple's HomePod is getting a lot more useful as a home cinema speaker for Apple TV 4K owners. Apple has confirmed to The Verge that an upcoming software update will let the speaker output Dolby Atmos audio as well as 5.1 and 7.1 channel audio from Apple's streaming box.
-<a href='https://www.theverge.com/2020/10/15/21517321/apple-homepod-dolby-atmos-tv-4k-virtual-surround-sound-5-1-7-1'> Source <a/>

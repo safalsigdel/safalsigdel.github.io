@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HpWx4j8S4gD_T-tdb9gB-EfTM6k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67635385/bfarsace_201005_4229_0003.0.0.jpg' width='700px' /><br/>
-OnePlus is removing Facebook bloatware from the OnePlus 8T after the company was criticized for pre-installing Facebook's apps and services on the OnePlus Nord and 8-series. OnePlus confirmed the news to Input, meaning the new phone will only come with Google, OnePlus, and Netflix software pre-installed.
-<a href='https://www.theverge.com/2020/10/15/21517351/oneplus-8t-facebook-bloatware-apps-and-services-installer-netflix-google-play-services'> Source <a/>

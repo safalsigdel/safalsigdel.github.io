@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-11DKvMI7cy5h_Zh7PdjvWYJidw=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/67638380/twarren_200909_4177_0032.0.0.jpg' width='700px' /><br/>
+GameStop and Microsoft have entered into a multiyear agreement that gives the video game retailer a cut of every digital purchase made on any Xbox consoles it directly sells going forward, Ars Technica reports.
+<a href='https://www.theverge.com/2020/10/15/21517970/gamestop-revenue-sharing-microsoft-xbox-digital-downloads-games'> Source <a/>

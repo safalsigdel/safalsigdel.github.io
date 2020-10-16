@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/69EbkKoORnbVUoyHzAIrwZrKHgU=/0x0:2823x1885/1200x800/filters:focal(1187x718:1637x1168)/cdn.vox-cdn.com/uploads/chorus_image/image/67638233/1060707434.jpg.0.jpg' width='700px' /><br/>
+The Senate Judiciary Committee plans to subpoena Twitter CEO Jack Dorsey today, after a controversial decision to block links to two New York Post articles about presidential candidate Joe Biden. Republican senators are calling on Dorsey to testify on October 23rd, calling his decision “election interference.” The news was first reported by The Wall Street Journal.
+<a href='https://www.theverge.com/2020/10/15/21517888/senate-subpoena-jack-dorsey-twitter-ceo-block-nypost-biden-articles'> Source <a/>

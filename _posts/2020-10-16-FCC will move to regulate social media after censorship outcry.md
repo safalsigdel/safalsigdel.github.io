@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Bok38XUsjKee8S3VQclhMvfJnUg=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/67638489/1251845368.jpg.0.jpg' width='700px' /><br/>
+On Thursday, Federal Communications Commission Chairman Ajit Pai said that the agency will seek to regulate social media platforms like Facebook and Twitter at the behest of the Trump administration's executive order signed earlier this year.
+<a href='https://www.theverge.com/2020/10/15/21518097/fcc-social-media-censorship-moderation-ajit-pai-section-230-nypost-biden'> Source <a/>

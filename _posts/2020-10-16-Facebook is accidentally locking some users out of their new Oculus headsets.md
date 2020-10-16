@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o6q5BtQ35ISFXgTU-hdVfED52Fs=/0x0:2040x1360/1200x800/filters:focal(889x59:1215x385)/cdn.vox-cdn.com/uploads/chorus_image/image/67639106/akrales_200904_4160_0010.0.0.jpg' width='700px' /><br/>
+Facebook says a “small number” of customers have been locked out of their new Oculus Quest 2 headsets, following a string of reports that buyers were unable to use the virtual reality headsets because their Facebook accounts were suspended. On Twitter, it urged users to contact Oculus if they had problems.
+<a href='https://www.theverge.com/2020/10/15/21518194/oculus-quest-2-headset-facebook-account-suspension-problems'> Source <a/>

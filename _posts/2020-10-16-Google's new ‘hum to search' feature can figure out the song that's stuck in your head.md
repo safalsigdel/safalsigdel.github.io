@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/98VFZKI5CkHNC1tZu-Zm7SwXiI0=/0x0:1928x1366/1200x0/filters:focal(0x0:1928x1366):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21961946/Screen_Shot_2020_10_15_at_3.48.26_PM.png' width='700px' /><br/>
+Google is adding a new “hum to search” feature to its search tools today that will let you hum (or whistle, or sing) the annoying song that's stuck in your head, and then use machine learning techniques to try to identify it.
+<a href='https://www.theverge.com/2020/10/15/21518182/google-new-hum-to-search-feature-identify-song-machine-learning'> Source <a/>

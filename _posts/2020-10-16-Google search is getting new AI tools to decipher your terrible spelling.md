@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jlNoSuQ0xGEfi0M0z0hksJqw4bA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67638721/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google detailed a host of new improvements at its “Search On” event that it will make to its foundational Google search service in the coming weeks and months. The changes are largely focused on using new AI and machine learning techniques to provide better search results for users. Chief among them: a new spell checking tool that Google promises will help identify even the most poorly spelled queries.
+<a href='https://www.theverge.com/2020/10/15/21518034/google-search-ai-machine-learning-spelling-video-chapters-better-results'> Source <a/>

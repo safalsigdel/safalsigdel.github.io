@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TDEvKIGLG9OWfpURI_AssPgzV3c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67633856/braviaoled.0.jpg' width='700px' /><br/>
-We're in the final day of Prime Day 2020, and there are some stellar Lightning Deals happening. One that's happening right now is on Sony's 65-inch A8G OLED 4K television. Normally $1,998, it's down to $1,500 for a limited time. This deal is set to last until 5PM ET today, but I have my doubts it will remain in stock for that long.
-<a href='https://www.theverge.com/2020/10/14/21515672/amazon-prime-day-sony-oled-4k-tv-a8g-65-inch-deal-sale'> Source <a/>
