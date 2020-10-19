@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sVI4mNYG1iGAOwMza9gp8aU6yIw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67650240/acasto_180123_1777_0003_v2.0.jpg' width='700px' /><br/>
+Facebook rejected 2.2 million ad submissions for targeting the US without completing its authorization process, Agence France-Presse reported. The social media giant also has removed 120,000 posts across Facebook and Instagram for violating its voter interference policies and placed warnings on 150 million posts debunked by fact-checkers.
+<a href='https://www.theverge.com/2020/10/18/21521685/facebook-clegg-voting-instagram-ads-fact-check-zuckerberg'> Source <a/>

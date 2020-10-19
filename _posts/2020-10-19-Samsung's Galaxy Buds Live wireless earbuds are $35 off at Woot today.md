@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QhANECNEsuRVKoSd2g8ERkxmSBg=/0x0:2040x1360/1200x1200/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/21699407/cwelch_200804_4129_0002.0.jpg' width='700px' /><br/>
+Woot is selling Samsung's fantastic bean-shaped wireless earbuds, the Galaxy Buds Live, for just $135, knocking $35 off the normal retail price. This deal is exclusive to people with an active Amazon Prime membership. Woot says the sale will last until October 31st unless it sells out before then.
+<a href='https://www.theverge.com/2020/10/19/21522884/samsung-galaxy-buds-live-beans-airpods-xbox-game-pass-ultimate-deal-sale'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D1cMpN8lPN8Ic3nO5do2dCMZuXI=/0x0:2880x1200/1200x0/filters:focal(0x0:2880x1200):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21970762/Hero_image_of_new_Smart_Display_visual_experience.png' width='700px' /><br/>
+Google is updating the look and functionality of the software on its Assistant smart displays in a significant way. Starting this week, smart displays such as the Nest Hub and those made by third-party companies will be updated with a new home screen experience: dark mode, and finally, the ability to see calendar events from more than one Google account.
+<a href='https://www.theverge.com/2020/10/19/21522326/google-assistant-smart-displays-nest-hub-dark-mode-new-interface-multiple-accounts'> Source <a/>

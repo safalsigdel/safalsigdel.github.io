@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TgQBruETf6XL0qUSRH7WeRHif5g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67654298/acastro_20200818_1777_epicApple_0003.0.0.jpg' width='700px' /><br/>
+Today, Apple launches Apple Music TV, which is exactly what it sounds like: Apple Music on television. It's a free, curated, 24-hour live stream of popular music videos (though it's only available to US residents); you can watch it in the browse tabs of the Apple Music app and on the Apple TV app.
+<a href='https://www.theverge.com/2020/10/19/21523091/apple-music-videos-tv-channel-live-stream'> Source <a/>

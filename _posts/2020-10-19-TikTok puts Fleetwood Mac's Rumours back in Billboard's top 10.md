@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jP-GloBmQdrZYHZo89YT7clXZdg=/0x0:924x614/1200x800/filters:focal(414x171:560x317)/cdn.vox-cdn.com/uploads/chorus_image/image/67653663/tiktokdreams.0.jpg' width='700px' /><br/>
+Fleetwood Mac's Rumours is a top 10 album this week — more than four decades after its release — thanks to a viral TikTok video that's had everyone vibing along to “Dreams.” Rumours now ranks seventh on the Billboard 200 chart, the publication announced last night, the album's first appearance in the top 10 since 1978, a year after it debuted.
+<a href='https://www.theverge.com/2020/10/19/21522879/fleetwood-mac-rumours-tiktok-billboard-top-10-song-viral-video'> Source <a/>
