@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FJSgjs18e-kb1ZN6eouTU7K8IgQ=/0x0:2858x1560/1200x800/filters:focal(1201x552:1657x1008)/cdn.vox-cdn.com/uploads/chorus_image/image/67649868/Screen_Shot_2019_05_07_at_1.53.11_PM.0.png' width='700px' /><br/>
+The Google Assistant Driving mode that the company first announced in 2019 has started appearing on some Android devices,  XDA-Developers reported. The UI looks somewhat different from what Google showed at its I/O developers conference last year. XDA says it first noticed something was coming about two weeks ago, when users reported seeing a new navigation interface in Google Maps.
+<a href='https://www.theverge.com/2020/10/18/21521549/google-assistant-driving-mode-available-android'> Source <a/>

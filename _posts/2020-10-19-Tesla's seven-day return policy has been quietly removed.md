@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gyakjHSVNe6i8ca7Y3ExMOIM5d0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67645031/acastro_180524_1777_tesla_0003.0.jpg' width='700px' /><br/>
+Tesla has reportedly canceled an audacious return policy in which new buyers of its electric vehicles could return them for a full refund within seven days. The news, reported on Friday by Electrek, marks an end to one of CEO Elon Musk's flashier marketing strategies.
+<a href='https://www.theverge.com/2020/10/16/21520086/tesla-full-refund-seven-day-return-policy-removed'> Source <a/>

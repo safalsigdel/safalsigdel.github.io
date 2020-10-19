@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j-5hdWeD483EJ_hlceJzCUcDrTM=/0x0:3328x3100/1200x800/filters:focal(1398x1284:1930x1816)/cdn.vox-cdn.com/uploads/chorus_image/image/67643463/1229069000.jpg.0.jpg' width='700px' /><br/>
+Apple's decision to no longer include wall chargers and earbuds in its new iPhone 12 boxes is good for business, but just how good it will be for the planet is harder to see. The move saves the company money, but some of the environmental benefits could be offset by people buying earbuds and chargers separately.
+<a href='https://www.theverge.com/2020/10/16/21519466/apple-iphone-12-chargers-airpods-greenhouse-gas-emissions-e-waste'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MzYSaM2-H8vaeadnzs-hCtJcGMM=/0x0:5421x3614/1200x800/filters:focal(1695x1416:2561x2282)/cdn.vox-cdn.com/uploads/chorus_image/image/67644205/Boring_tunnel__6.0.jpg' width='700px' /><br/>
+Elon Musk's Boring Company's system of tunnels to shuttle people under the Las Vegas Convention Center (LVCC) may not be able to move as many people as originally promised, according to documents obtained by TechCrunch. That's not just disappointing — it may also mean financial penalties for The Boring Company.
+<a href='https://www.theverge.com/2020/10/16/21519692/elon-musk-boring-company-vegas-loop-less-impressive-promised'> Source <a/>

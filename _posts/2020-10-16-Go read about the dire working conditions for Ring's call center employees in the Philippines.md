@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rFKYu3woXNMJFfHhT101VchfgP4=/0x0:3000x2009/1200x800/filters:focal(1814x577:2294x1057)/cdn.vox-cdn.com/uploads/chorus_image/image/67639222/134456751.jpg.0.jpg' width='700px' /><br/>
-Amazon extended its work-from-home policy into 2021 for corporate employees, but call center workers in the Philippines contracted by the company's Ring subsidiary continue to work in person with increased risk of COVID-19 infection, as detailed in a report for NBC News by Olivia Solon and April Glaser.
-<a href='https://www.theverge.com/2020/10/15/21517964/amazon-ring-covid-19-philippines-call-center-work-from-home'> Source <a/>

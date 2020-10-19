@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sVI4mNYG1iGAOwMza9gp8aU6yIw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67650240/acasto_180123_1777_0003_v2.0.jpg' width='700px' /><br/>
+Facebook vice president for global affairs Nick Clegg said the company has rejected 2.2 million ads across Facebook and Instagram because the ads were trying to “obstruct voting” in the upcoming US presidential election, Agence France-Presse reported. The social media giant also has withdrawn 120,000 posts and placed warnings on 150 million posts for the same reasons, Clegg added.
+<a href='https://www.theverge.com/2020/10/18/21521685/facebook-clegg-voting-instagram-ads-fact-check-zuckerberg'> Source <a/>

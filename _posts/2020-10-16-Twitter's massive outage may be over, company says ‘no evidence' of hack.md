@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ntOho5zMOQ7oUHu58ROaaY84xKI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67639338/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
-Twitter has been experiencing an outage that began in the early evening on Thursday, with some users reporting problems sending tweets and refreshing their timelines starting shortly after 5:30PM ET. Just after 7PM ET, tweets began to cross our timelines, and things may be returning to normal.
-<a href='https://www.theverge.com/2020/10/15/21518367/twitter-down-outage-tweets'> Source <a/>

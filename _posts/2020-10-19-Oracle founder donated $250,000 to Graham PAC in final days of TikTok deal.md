@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lyyplV2Wsqcr6KYnEMpN-h6qAKw=/0x0:5332x3554/1200x800/filters:focal(2240x1351:3092x2203)/cdn.vox-cdn.com/uploads/chorus_image/image/67646831/1229089155.jpg.0.jpg' width='700px' /><br/>
+Oracle CEO Larry Ellison donated $250,000 to a super PAC supporting Sen. Lindsey Graham's (R-SC) reelection campaign as his company closed in on a coveted position as TikTok's US technology partner.
+<a href='https://www.theverge.com/2020/10/17/21520356/oracle-tiktok-larry-ellison-lindsey-graham-super-pac-donation-jaime-harrison'> Source <a/>

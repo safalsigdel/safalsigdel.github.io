@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZICr-pSy4feL5VeoqZtNj-s9AwM=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67640992/jporter_201010_4237_0003.0.0.jpg' width='700px' /><br/>
-More than any other smartphone I've used this year, the Sony Xperia 5 II feels like a tool. It's not just that it has a very understated design (though this definitely plays a part), it's that Sony's whole approach is to give you as much control over the phone as possible. Control over how it looks, and sounds, and takes photos and video.
-<a href='https://www.theverge.com/21514064/sony-xperia-5-ii-review'> Source <a/>

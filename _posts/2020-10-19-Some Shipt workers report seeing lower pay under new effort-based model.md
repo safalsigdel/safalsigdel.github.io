@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/31XE6hekg-2TC-lwenHCw1MTmi4=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/67643623/1228710954.jpg.0.jpg' width='700px' /><br/>
+A new crowdsourced report finds that the algorithm for shopping delivery platform Shipt has led to reduced pay for 40 percent of its workers.
+<a href='https://www.theverge.com/2020/10/16/21519298/shipt-workers-lower-pay-algorithm-target-shopping'> Source <a/>

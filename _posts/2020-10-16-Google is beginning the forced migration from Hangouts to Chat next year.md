@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cY3duEQL8-jWQkerIGpDMZwbr-Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67638638/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google will officially transition users from Google Hangouts to Google Chat starting next year. As part of the change, Chat, a messaging service previously only available to customers who pay for Google Workspace (the recent rebranding of G Suite), will become a free service that's available inside of Gmail and in a standalone app. And some Hangouts features will be going away ahead of its disappearance.
-<a href='https://www.theverge.com/2020/10/15/21517929/google-hangouts-chat-messaging-free'> Source <a/>

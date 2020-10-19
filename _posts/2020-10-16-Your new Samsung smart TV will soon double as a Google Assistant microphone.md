@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_LJ-mUxrkT6_cNk9RTsADLu8Ut4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67639466/acastro_180510_1777_google_assistant_0002.0.jpg' width='700px' /><br/>
-Google Assistant is now available on newer Samsung smart TVs in the US, the companies announced. The AI helper will be available on Samsung 2020 smart TV models, including the 2020 8K and 4K QLED models, the 2020 Crystal UHD TVs, 2020 Frame and Serif sets, and 2020 Sero and Terrace models. The update will be available in the US first and roll out to more countries soon, according to Google.
-<a href='https://www.theverge.com/2020/10/15/21518215/google-assistant-lenovo-samsung-smart-tv-clock'> Source <a/>

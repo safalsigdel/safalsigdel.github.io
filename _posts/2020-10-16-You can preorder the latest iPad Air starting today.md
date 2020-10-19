@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JOap68BVVw5S1q3GtwjkgtfP7nQ=/0x0:1750x1167/1200x1200/filters:focal(875x584:876x585)/cdn.vox-cdn.com/uploads/chorus_asset/file/21883188/ipadair3.jpg' width='700px' /><br/>
-Apple's new iPad Air will be available to preorder today. The new tablet, announced at last month's Apple event, has a similar design to the iPad Pro but a lower starting price of $599. Announcing the preorder details, Apple confirmed the new tablet will be available beginning October 23rd, the same day as the iPhone 12 and 12 Pro.
-<a href='https://www.theverge.com/2020/10/16/21502065/ipad-air-2020-release-date-news-features-price-apple-touch-id-pro-pencil-magic-keyboard'> Source <a/>

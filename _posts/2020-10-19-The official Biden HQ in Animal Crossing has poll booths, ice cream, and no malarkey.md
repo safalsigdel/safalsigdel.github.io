@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tsVQkr4Ce7Cjt7Hck6tLzIXGdMk=/0x0:960x540/1200x800/filters:focal(404x194:556x346)/cdn.vox-cdn.com/uploads/chorus_image/image/67643593/121695863_3784719188205474_140264287572871591_o.0.jpg' width='700px' /><br/>
+With only 18 days left until the US presidential election, Democratic candidate Joe Biden's campaign is launching a new virtual field office today for voters to visit in Animal Crossing: New Horizons.
+<a href='https://www.theverge.com/2020/10/16/21519505/joe-biden-animal-crossing-new-horizons-biden-hq-campaign-election'> Source <a/>

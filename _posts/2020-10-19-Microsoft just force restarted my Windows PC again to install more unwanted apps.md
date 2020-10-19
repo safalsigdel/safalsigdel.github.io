@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1QoIEAJVsBSmLYlh0GNaJPyGytQ=/0x0:800x603/1200x800/filters:focal(74x85:202x213)/cdn.vox-cdn.com/uploads/chorus_image/image/67646209/windows_app_icons_pwa_office.0.jpg' width='700px' /><br/>
+I stepped away from my computer for dinner, halfway through writing a story for The Verge.  When I got back, I couldn't believe my eyes.
+<a href='https://www.theverge.com/2020/10/17/21520315/microsoft-install-office-pwa-web-app-without-permission-update-word-powerpoint-excel'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_kTmcrRRocmmTMCNd17r4Wrafh0=/0x0:2040x1360/1200x800/filters:focal(515x550:841x876)/cdn.vox-cdn.com/uploads/chorus_image/image/67642088/IMG_0620-1.0.0.jpeg' width='700px' /><br/>
-One of the best deals of Prime Day has returned at Newegg. Sony's WH-1000XM4 wireless noise-canceling headphones in black are down to $284 instead of $350. This actually beats the $298 pricing at Amazon and Best Buy by $14, though, unlike those retailers' deal earlier this week, this one doesn't include a gift card. That's no matter if you're just looking for the lowest price — this is it.
-<a href='https://www.theverge.com/good-deals/2020/10/16/21517642/sony-wh1000xm4-jabra-elite-75t-airpods-tony-hawk-pro-skater-deal-sale-amazon-best-buy'> Source <a/>

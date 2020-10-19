@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Nlx7bV3iEWdl65duxw07gR9aO4k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67645362/akrales_200904_4160_0158.0.0.jpg' width='700px' /><br/>
+If you bought a new Oculus Quest 2 with the hopes of experiencing games from the now-discontinued Oculus Go, I have bad news: the company has decided not to include support for Go titles on the Quest 2, Oculus' consulting CTO John Carmack confirms on Twitter.
+<a href='https://www.theverge.com/2020/10/16/21520102/oculus-quest-2-go-apps-games-support'> Source <a/>
