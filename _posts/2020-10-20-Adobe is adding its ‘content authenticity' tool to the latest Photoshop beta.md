@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XDarePSM595xWp8WPhhY0aXImNI=/0x0:2880x1800/1200x800/filters:focal(1210x670:1670x1130)/cdn.vox-cdn.com/uploads/chorus_image/image/67659548/Screen_Shot_2020_10_19_at_5.34.47_PM.0.png' width='700px' /><br/>
+Adobe will let some Adobe Creative Cloud customers try a tool that builds trustworthy attribution directly into a picture. As part of a bigger software update, Adobe is moving forward with the Content Authenticity Initiative, a system it proposed last year. The tool adds an extra panel to Photoshop, and using it attaches metadata that's supported by Adobe-owned art sharing site Behance.
+<a href='https://www.theverge.com/2020/10/20/21523927/adobe-content-authenticity-initiative-photoshop-behance-beta-tool-added'> Source <a/>
