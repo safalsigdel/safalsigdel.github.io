@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+LG has announced that its world-first rollable TV is finally going on sale, albeit in limited fashion. The 65-inch LG Signature OLED R is now available at seven consumer electronics store throughout South Korea and will cost 100 million won, or more than $87,000.
+<a href='https://www.theverge.com/2020/10/19/21524338/lg-rollable-tv-available-price-on-sale-korea'> Source <a/>

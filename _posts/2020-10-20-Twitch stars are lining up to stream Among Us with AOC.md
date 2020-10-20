@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d4FWYv-1cSEVq7zO93eSnVu1uM4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67656774/ss_eab32f16b59c005489c10f9063227ed7b54b31ec.0.jpg' width='700px' /><br/>
+Rep. Alexandria Ocasio-Cortez (D-NY) is looking for Among Us teammates. On Twitter, Ocasio-Cortez put out an open call for people to play with “to get out the vote.” In a follow-up tweet, she shared a Twitch page for AOC with the note “getting set up!”
+<a href='https://www.theverge.com/2020/10/19/21523878/aoc-twitch-stream-among-us-pokimane'> Source <a/>

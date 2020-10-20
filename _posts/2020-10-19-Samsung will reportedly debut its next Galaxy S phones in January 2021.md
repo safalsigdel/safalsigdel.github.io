@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iXCQtw2aYTbRTcuc85redM8oiYY=/0x0:4500x3004/1200x800/filters:focal(1703x1618:2423x2338)/cdn.vox-cdn.com/uploads/chorus_image/image/67650634/1228775948.jpg.0.jpg' width='700px' /><br/>
-Samsung's next flagship phone could arrive in January 2021, Android Central reported. And new leaked renders show the camera bump of the Galaxy S20 will also feature in the forthcoming Galaxy S30 (or S21; the name isn't official yet).
-<a href='https://www.theverge.com/2020/10/18/21521860/samsung-galaxy-phones-january-2021-renders-leak'> Source <a/>

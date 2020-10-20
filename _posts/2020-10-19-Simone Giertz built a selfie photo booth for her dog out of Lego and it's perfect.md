@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j5u2OwL1wC-6sBY1GjMzm4bsgHs=/0x0:1254x929/1200x800/filters:focal(467x211:667x411)/cdn.vox-cdn.com/uploads/chorus_image/image/67648160/scraps_the_dog.0.jpg' width='700px' /><br/>
-Simone Giertz, the self-described Queen of Shitty Robots, has created a selfie photo booth out of Lego for her dog Scraps and yes it's as cute as it sounds. It helps that the dog is a VERY GOOD GIRL and extremely photogenic.
-<a href='https://www.theverge.com/2020/10/17/21520949/simone-giertz-selfie-photo-booth-dog-legos-robots'> Source <a/>

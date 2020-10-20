@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/raYrK4JwUAB7J5maF2qLvFw_D9M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67655338/acastro_200109_1777_verizon_0001.0.0.jpg' width='700px' /><br/>
+Verizon said Monday it is acquiring “certain assets” of Bluegrass Cellular, a wireless service provider in rural Kentucky. According to a news release, Bluegrass Cellular was the first wireless provider in central Kentucky, launching in 1991. It serves 210,000 customers in 34 Kentucky counties.
+<a href='https://www.theverge.com/2020/10/19/21523095/verizon-acquires-kentucky-bluegrass-cellular'> Source <a/>

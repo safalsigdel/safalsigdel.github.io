@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hv_Wj-HWx0Zhg8HTlrP8lyV41K8=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/67657628/mswindows2_2040.0.0.jpg' width='700px' /><br/>
+On Saturday, I pointed out how Microsoft force-restarting Windows 10 computers to install unwanted web apps was the latest proof you don't own your own Windows PC. Today, the company says it was at least partly a mistake — and will be pausing the “migration” that brought web apps to your Start Menu this way.
+<a href='https://www.theverge.com/2020/10/19/21524006/microsoft-pause-unsolicited-pwa-office-app-windows-10'> Source <a/>

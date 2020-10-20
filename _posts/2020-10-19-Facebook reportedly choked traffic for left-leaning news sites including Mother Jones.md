@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_tXALhNJfM9Y3lF67cVNowPEbVk=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67647120/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
-Facebook designed changes to its news feed algorithm in 2017 to reduce the visibility of left-leaning news sites like Mother Jones on its  platform, the Wall Street Journal reported, and CEO Mark Zuckerberg had personally approved the plans.
-<a href='https://www.theverge.com/2020/10/17/21520634/facebook-reportedly-choked-traffic-mother-jones-zuckerberg'> Source <a/>

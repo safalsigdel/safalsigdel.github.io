@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F_zVZL4KkhlCfEqtAw6ljRKgC-Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67645224/acastro_200318_1777_ps5_0001.0.jpg' width='700px' /><br/>
-Sony has clarified more details surrounding a controversial new PlayStation voice chat recording feature, first mentioned in its recent 8.0 update earlier this week, after some users were led to believe the company would be actively recording and moderating conversations among private groups.
-<a href='https://www.theverge.com/2020/10/16/21520156/sony-ps5-voice-chat-recording-update-eavesdropping-moderation'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/utwL2V0zJoI6rIhyAvkUtqLiVdU=/0x0:1960x1400/1200x800/filters:focal(824x544:1136x856)/cdn.vox-cdn.com/uploads/chorus_image/image/67655971/apple_iphone_12_color_blue_10132020.0.jpg' width='700px' /><br/>
+Apple's latest iPhone supports 5G networks, but not if you use the device in dual SIM mode, according to an internal Apple training document revealing the issue that began circulating on Reddit over the weekend.
+<a href='https://www.theverge.com/2020/10/19/21523718/apple-iphone-12-5g-dual-sim-mode-launch-issue-update'> Source <a/>

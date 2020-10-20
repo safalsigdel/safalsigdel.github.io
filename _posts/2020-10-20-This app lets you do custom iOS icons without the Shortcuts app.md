@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mU9keXMRfCpelAhgJMm4Xcd8dN4=/0x0:1800x1012/1200x800/filters:focal(756x362:1044x650)/cdn.vox-cdn.com/uploads/chorus_image/image/67655912/bI3_nOEH.jpg_large.0.jpeg' width='700px' /><br/>
+iPhone icon customization is booming, thanks to new features in iOS 14, but there's still some big catches. The workaround for a bespoke iPhone homescreen requires routing through Apple's Shortcuts app every time you want to open an app, and the process of customizing all your apps one-by-one is a time-consuming and frustrating task.
+<a href='https://www.theverge.com/2020/10/19/21523447/launch-center-pro-app-custom-iphone-ios-icons-without-apple-shortcuts'> Source <a/>
