@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qMB3YHxF9qr5Mmsxn_CF-z_oYkA=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67653419/acastro_201016_1777_moonbug_0002.0.jpg' width='700px' /><br/>
-Although The Umbrella Academy was all over Tumblr and people couldn't seem to stop bingeing Cobra Kai and Lucifer, one of Netflix's most-watched shows in August was a three-episode children's program called Cocomelon.
-<a href='https://www.theverge.com/2020/10/19/21519095/cocomelon-netflix-moonbug-blippi-hulu-streaming-youtube-children-entertainment'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Peak Design, makers of one of The Verge's favorite backpacks, has a new magnetic modular mounting system for your Apple or Samsung phone. The company's launching a Kickstarter today with the intent to ship an entire range of accessories starting next May, including bike mounts, car mounts, wall mounts, motorcycle mounts, wireless chargers, even a sleek mobile tripod that folds up small enough to palm.
-<a href='https://www.theverge.com/circuitbreaker/2020/10/19/21522620/peak-design-mobile-phone-case-bike-car-mount-tripod-hands-on-kickstarter'> Source <a/>

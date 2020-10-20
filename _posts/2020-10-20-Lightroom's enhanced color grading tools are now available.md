@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u1Q9jtrM10avA5hyDraoL_qJ5Dg=/0x0:800x450/1200x0/filters:focal(0x0:800x450):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21958646/hlx_c53d0be4477357343545da463fcb481608fdc9c2.png' width='700px' /><br/>
+Adobe is updating Lightroom today with revamped color grading tools meant to offer more powerful and flexible ways to adjust an image's color.
+<a href='https://www.theverge.com/2020/10/20/21515950/lightroom-color-grading-now-available-adobe-max-2020'> Source <a/>

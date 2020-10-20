@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PqbdJnFg5xdAGlBs2O5JpcvXTD8=/0x0:2023x1518/1200x800/filters:focal(842x222:1164x544)/cdn.vox-cdn.com/uploads/chorus_image/image/67659451/adobe_live_streaming.0.png' width='700px' /><br/>
+Adobe is building live-streaming into the iPad versions of Photoshop and Illustrator, letting you start a broadcast and film yourself from right inside the app. There is one big caveat, though: the apps only stream to Behance, the Adobe-owned social design platform.
+<a href='https://www.theverge.com/2020/10/20/21515801/adobe-live-streaming-photoshop-illustrator-ipad-behance'> Source <a/>

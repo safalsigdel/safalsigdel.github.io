@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/POT-lMAaLZY8OGoAm6uUJKI84M8=/0x0:2200x1467/1200x800/filters:focal(924x558:1276x910)/cdn.vox-cdn.com/uploads/chorus_image/image/67659446/dji_osmo_pocket_2.0.jpg' width='700px' /><br/>
+The DJI Pocket 2 is drone-maker DJI's latest handheld stabilized vlogging camera, and comes with an upgraded camera, more microphones, and new modular design. It's releasing on November 1st with a starting price of $349 for a basic selection of accessories, but there's also a $499 kit that comes with an extra lens, tripod, external microphone, and feature-packed handle.
+<a href='https://www.theverge.com/2020/10/20/21524505/dji-osmo-pocket-2-price-release-date-features-4k-video-gimbal'> Source <a/>
