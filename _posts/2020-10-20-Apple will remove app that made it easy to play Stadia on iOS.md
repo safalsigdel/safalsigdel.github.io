@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FRyNIG4GdiToc9QO2eeEx1Ee0xo=/0x0:600x337/1200x800/filters:focal(252x121:348x217)/cdn.vox-cdn.com/uploads/chorus_image/image/67659331/Stadia_03_19_19.0.jpg' width='700px' /><br/>
+An app that offered a simple way to get Google's Stadia cloud gaming service running on iOS is being removed from the App Store, its developer says. Stadium creator Zachary Knox announced the news in the app's Discord server. “I have some bad news,” Knox wrote, “But before I get to that: if you want to use the App Store release of Stadium, download it now.”
+<a href='https://www.theverge.com/2020/10/20/21524665/stadium-stadia-browser-app-store-ios-apple-workaround-game-streaming'> Source <a/>
