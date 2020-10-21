@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t3NLQftCg1_i6MO0mmJpbrNGKfY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67665353/x34gs_1.0.jpg' width='700px' /><br/>
+Acer has announced a fleet of new gaming monitors in its Predator and Nitro lineups. As with the company's laptops, the Predator line offers more high-end, feature-packed options whereas the Nitro line is value-focused and thus less expensive. Each of the monitors has minimal bezels, so they should work well with a multi-monitor setup if you want to put two or more of them side by side.
+<a href='https://www.theverge.com/2020/10/21/21525013/acer-predator-nitro-2021-gaming-monitors-refresh-rate-gsync-nvidia-release-date-price'> Source <a/>

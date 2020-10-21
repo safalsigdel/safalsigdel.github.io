@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H0U75ORIP_EtyrA1Nt90JIveBb8=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/67660923/awvnNi_w.0.png' width='700px' /><br/>
-Google is bringing Windows app support to Chromebooks today through a partnership with Parallels. First announced earlier this year, Chrome OS will now boot a full version of Windows inside a virtual machine to gain access to existing desktop apps. It's designed for businesses, which means only enterprise customers will be able to purchase the app for $69.99 per user.
-<a href='https://www.theverge.com/2020/10/20/21524585/google-chrome-os-windows-apps-chromebooks-parallels-desktop-features'> Source <a/>
