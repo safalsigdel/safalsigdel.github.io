@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d-G4TvxsZmCQ39spF72TPgKAKIA=/0x0:2040x1360/1200x800/filters:focal(964x425:1290x751)/cdn.vox-cdn.com/uploads/chorus_image/image/67661714/jbareham_181010_2989_0296.0.jpg' width='700px' /><br/>
-Google has provided a budgeting feature in its Play Store that allows Android users to establish a monthly maximum they want to spend on digital content. This applies to apps, games, movies, TV shows, music, ebooks, and so on. As you get close to reaching your budget limit, you'll see an alert that you're nearing it — or have gone over the amount you specified.
-<a href='https://www.theverge.com/21525368/google-budget-android-feature-how-to'> Source <a/>

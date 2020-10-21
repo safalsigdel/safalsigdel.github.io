@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mEQdOHZK0vPAipMTchlG76lGC6Q=/0x0:2040x1360/1200x800/filters:focal(831x321:1157x647)/cdn.vox-cdn.com/uploads/chorus_image/image/67661833/jbareham_180202_2266_0089.0.jpg' width='700px' /><br/>
-Apple's HomePod smart speaker is getting some new capabilities thanks to a software update that's available today as part of iOS 14.1. These were announced during the company's event earlier this month, and some of the features — especially the intercom function — go a long way in helping the HomePod catch up with Amazon Echo and Google / Nest speakers.
-<a href='https://www.theverge.com/2020/10/20/21525384/apple-homepod-update-intercom-maps-podcasts-siri'> Source <a/>
