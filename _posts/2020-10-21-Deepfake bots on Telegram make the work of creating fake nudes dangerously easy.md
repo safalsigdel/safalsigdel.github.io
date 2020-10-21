@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fHcQg5IRyeEMII76tOeV3b8hDiA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67659795/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
-Researchers have discovered a “deepfake ecosystem” on the messaging app Telegram centered around bots that generate fake nudes on request. Users interacting with these bots say they're mainly creating nudes of women they know using images taken from social media, which they then share and trade with one another in various Telegram channels.
-<a href='https://www.theverge.com/2020/10/20/21519322/deepfake-fake-nudes-telegram-bot-deepnude-sensity-report'> Source <a/>

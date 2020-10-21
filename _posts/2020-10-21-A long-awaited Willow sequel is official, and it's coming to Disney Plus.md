@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NfDKm8LApSgHAcpGaBWgQGr_pIY=/0x0:2220x1248/1200x800/filters:focal(930x173:1284x527)/cdn.vox-cdn.com/uploads/chorus_image/image/67664161/willow_warwick_davies_5.0.jpg' width='700px' /><br/>
+After years of silence, Disney has confirmed that Lucasfilm's Willow will receive a sequel, in the form of a TV series coming to its Disney Plus streaming subscription service. The pilot will be directed by Crazy Rich Asians' John M. Chu.
+<a href='https://www.theverge.com/2020/10/21/21525449/disney-lucasfilm-willow-disneyplus-john-chu'> Source <a/>
