@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YDeqB90OjhWTlwaKxcGnzrMLYmA=/0x0:4928x3280/1200x800/filters:focal(2070x1246:2858x2034)/cdn.vox-cdn.com/uploads/chorus_image/image/67664424/1207811072.jpg.0.jpg' width='700px' /><br/>
+Fortnite's annual Halloween event is back, and this year's edition sounds like the most ambitious yet. Today, Epic Games revealed the return of “Fortnitemares,” and like past events, it will add some spooky elements to the battle royale island. But there's a twist: Halloween night will also feature a virtual concert from reggaeton star J Balvin.
+<a href='https://www.theverge.com/2020/10/21/21525028/fortnite-fortnitemares-halloween-event-jbalvin-concert'> Source <a/>
