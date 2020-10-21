@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lUdpG9iN1vCN4iuH3z5xJVTJUvY=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21975641/vpavic_4244_20201020_0013.jpg' width='700px' /><br/>
+If you're looking to get an iPad right now and can afford it, the new $599 iPad Air is the best tablet for most people. Apple has taken the design from the more expensive iPad Pro and brought it down to a more reasonable price point. It's $100 more than it was last year, but in return this year's iPad Air has a bigger, better screen and a faster (and very intriguing) processor.
+<a href='https://www.theverge.com/21525780/apple-ipad-air-2020-review'> Source <a/>

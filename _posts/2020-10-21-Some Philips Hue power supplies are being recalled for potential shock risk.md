@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dgldwAmoB_qR_VMVuQ8SU5VYFjc=/0x0:2464x1643/1200x800/filters:focal(1035x625:1429x1019)/cdn.vox-cdn.com/uploads/chorus_image/image/67660343/hue_power_supply.0.jpg' width='700px' /><br/>
-Signify, the company behind Philips Hue, is recalling power supplies that shipped with six outdoor lights due to concerns that they could shock owners. The power supplies may short-circuit due to water leakage “in very rare cases,” the company said, potentially hurting someone who were to touch the unit while it was still wet.
-<a href='https://www.theverge.com/2020/10/20/21524826/philips-hue-recall-power-supply-outdoor-lights-signify'> Source <a/>
