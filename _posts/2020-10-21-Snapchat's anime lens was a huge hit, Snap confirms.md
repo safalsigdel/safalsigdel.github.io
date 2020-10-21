@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rabdAJGIkTuqjp0c4TjbbVA1IKo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67662668/akrales_180305_1406_0004.0.jpg' width='700px' /><br/>
+Snapchat's anime filter was used more than 3 billion times in the first week after it was released, Snap said today, confirming what we already knew: it was a huge hit.
+<a href='https://www.theverge.com/2020/10/20/21525427/snapchat-earnings-q3-2020-anime-lens-3-billion-uses'> Source <a/>

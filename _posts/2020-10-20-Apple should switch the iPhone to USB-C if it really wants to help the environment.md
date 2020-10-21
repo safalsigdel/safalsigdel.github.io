@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LihJKa65_3UwAgJJ5JBG4IqiD1w=/0x0:2050x1300/1200x800/filters:focal(861x486:1189x814)/cdn.vox-cdn.com/uploads/chorus_image/image/67656233/ip12pc.0.jpg' width='700px' /><br/>
-If you buy an iPhone in the future, you're not getting an included charging brick or earbuds. Apple says the reasons are environmental. Giving out fewer “free” accessories with every phone means using less materials, the company claims, and also makes for smaller boxes that can be shipped more efficiently. So going forward, those boxes will just come with a phone and a Lightning to USB-C cable.
-<a href='https://www.theverge.com/21522980/apple-iphone-12-pro-usb-c-lightning-environment-charger-box-electronic-waste'> Source <a/>

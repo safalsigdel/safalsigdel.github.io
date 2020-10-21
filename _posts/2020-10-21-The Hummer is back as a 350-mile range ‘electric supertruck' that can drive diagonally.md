@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Scl7tUOpxZE_pqpk4AaJYjTghYU=/0x0:5700x3317/1200x675/filters:focal(2394x1203:3306x2115)/cdn.vox-cdn.com/uploads/chorus_image/image/67663604/2022_GMC_HUMMER_EV_001.5.jpg' width='700px' /><br/>
+The Hummer — symbol of pre-2008-recession, gas-guzzling excess — has been resurrected as a 350-mile range “electric supertruck” with three electric motors, 1,000 horsepower adjustable air suspension, and a diagonal driving feature called “Crab Mode.” The electric truck is set to go into production in late 2021, possibly ahead of Tesla's Cybertruck.
+<a href='https://www.theverge.com/2020/10/20/21525290/hummer-ev-electric-truck-gmc-price-specs-range'> Source <a/>

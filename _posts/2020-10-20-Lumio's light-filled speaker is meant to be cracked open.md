@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M8n8nAWb2c0JSUwHtpzgVTssgSk=/0x0:2048x1366/1200x800/filters:focal(488x623:814x949)/cdn.vox-cdn.com/uploads/chorus_image/image/67659185/_DSC3522_Edit_SCREEN.0.jpg' width='700px' /><br/>
-Lumio, the maker of the Lito book-shaped folding light, is following up with another clever design object: a discrete speaker called the Teno. At first glance, the speaker, in either “Arctic White” or “Lava Black,” looks like a small stone bowl with a crack running across it. When pulled open, a warm light is exposed and sound pours out. Both the light and sound can be adjusted via touch sensors.
-<a href='https://www.theverge.com/2020/10/20/21523816/lumio-teno-kickstarter-speaker-light-max-gunawan'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NIAe2NJS6xRHyU4WDw5Njd-qGew=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/67656934/nstatt_170918_2004_0105.0.jpg' width='700px' /><br/>
-Google has discontinued its Google Nest Secure alarm system, the company first confirmed to Android Police. And sure enough, if you visit the Nest Secure's page on the Google Store right now, there's a big button right at the top that says the product is no longer available.
-<a href='https://www.theverge.com/2020/10/19/21523967/google-discontinues-nest-secure-alarm-system'> Source <a/>

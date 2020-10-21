@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AmcaePx4uFEtedK4qFs1AkDMFxk=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67660063/pplus.0.jpg' width='700px' /><br/>
+ViacomCBS is in the process of pivoting hard to streaming, and a new executive shakeup ahead of the company's big relaunch of CBS All Access as Paramount Plus shows just how committed the company's executive leadership is to that transition.
+<a href='https://www.theverge.com/2020/10/20/21524771/viacomcbs-all-access-paramount-plus-reorganization-disney-netflix'> Source <a/>

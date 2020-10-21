@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cM1jwB_7lga0UXk-vsrd-ajnKkU=/0x0:1000x500/1200x800/filters:focal(420x170:580x330)/cdn.vox-cdn.com/uploads/chorus_image/image/67662902/intel_logo_2x1_1.0.jpg' width='700px' /><br/>
+Intel is selling its SSD business to SK Hynix in a deal worth $9 billion, which will see the chipmaker almost completely exit the flash memory and storage business — except for Intel's high-end Optane memory technology, which it'll still be hanging onto. The deal includes Intel's former NAND SSD, component, and wafer businesses, along with the company's NAND factory in Dalian, China.
+<a href='https://www.theverge.com/2020/10/20/21525701/intel-nand-ssd-business-sk-hynix-9-billion-optane-memory'> Source <a/>

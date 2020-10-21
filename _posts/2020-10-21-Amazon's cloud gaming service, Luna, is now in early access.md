@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qfuA_vgf0SbmOJ8go5uWipLhWaw=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67662022/image.0.0.jpeg' width='700px' /><br/>
+Amazon's cloud gaming service, Luna, is entering early access today, the company announced. A small number of US-based customers will receive invitations to test out the service and even purchase Amazon's game controller if they so choose (though it's not required to play games on Luna).
+<a href='https://www.theverge.com/2020/10/20/21525435/amazon-luna-early-access-cloud-gaming'> Source <a/>

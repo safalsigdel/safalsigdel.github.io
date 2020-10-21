@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QvJrGFshLL_thE7leaVc-WQeqrQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67657124/acastro_190530_1777_xbox_0001.0.0.jpg' width='700px' /><br/>
-Microsoft's Xbox app update for iOS and iPadOS is now live, allowing Xbox One owners to stream games to their devices. A new Xbox app is available in the App Store that includes a remote play feature, which lets Xbox One console owners stream their games to an iPhone or iPad.
-<a href='https://www.theverge.com/2020/10/19/21524109/microsoft-xbox-app-iphone-ipad-game-streaming-xbox-app-microsoft-features'> Source <a/>

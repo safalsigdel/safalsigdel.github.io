@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GC_qkJukHYTum0iB3Wiorxx1Kis=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/67662371/_DSC6805_2.0.jpg' width='700px' /><br/>
+Amazon's Luna streaming service has arrived, with the company rolling out early access to a limited set of customers today. It's starting with a library of 50 games and support for Mac, PC, Fire TV, and, in a first for a major streaming service, iOS devices — because Amazon has a web app that circumvents Apple's controversial App Store rules. Luna starts at $5.99 a month.
+<a href='https://www.theverge.com/2020/10/20/21525339/amazon-luna-hands-on-cloud-gaming-streaming-early-access-price-games'> Source <a/>

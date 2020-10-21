@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pT4nYNnJ6as6lXJulOMl0OxxFGc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67655097/acastro_180430_1777_tesla_0004.0.jpg' width='700px' /><br/>
-Tesla has slashed its used car warranty in another round of what could be seen as belt-tightening ahead of what is expected to be a crucial third-quarter financial report.
-<a href='https://www.theverge.com/2020/10/19/21523278/tesla-used-car-warranty-reduction-model-s-x'> Source <a/>

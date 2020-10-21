@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VG7CFYt2er5LmTd7cKBAGeefh5M=/1857x0:8000x4500/1200x800/filters:focal(3360x1610:4640x2890)/cdn.vox-cdn.com/uploads/chorus_image/image/67662665/LogoSheet1_01__1_.0.jpg' width='700px' /><br/>
+VidCon, an annual convention focused on digital creators, is tentatively planning to return to Anaheim, California next summer if conditions allow, but organizers are preparing to let people attend digitally for the first time.
+<a href='https://www.theverge.com/2020/10/20/21525328/vidcon-digital-summer-2021-panels-sessions-rebrand-creators'> Source <a/>

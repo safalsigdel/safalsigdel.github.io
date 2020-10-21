@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rFkVAC1MUOesaYiuf6_DKikrbl4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67654437/acastro_200713_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
-Pakistan has lifted its ban on TikTok, just 10 days after blocking the app on the grounds that it hosted “immoral” and “indecent” videos. Pakistan's Telecommunication Authority (PTA) now says that TikTok has “assured” the agency that videos will be moderated “in accordance with societal norms and the laws of Pakistan.”
-<a href='https://www.theverge.com/2020/10/19/21523094/pakistan-tiktok-ban-lifted-after-10-days'> Source <a/>

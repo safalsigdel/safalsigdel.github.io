@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9429/akrales_201018_4238_0531.0.jpg' width='700px' /><br/>
-It's a big year for the iPhone: Apple's iPhone 12 line is totally redesigned and features four models — the iPhone 12 mini, the iPhone 12, the iPhone 12 Pro, and the iPhone 12 Pro Max — at a range of screen sizes and price points. Across the board, Apple's added new video features, a new MagSafe charging system, the new A14 processor, and all of the hype it can muster for 5G.
-<a href='https://www.theverge.com/21524288/apple-iphone-12-pro-review'> Source <a/>

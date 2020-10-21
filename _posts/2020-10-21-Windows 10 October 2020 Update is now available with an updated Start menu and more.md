@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Microsoft is releasing its Windows 10 October 2020 Update to over a billion users today. Much like last year, this second Windows 10 update of 2020 is more of a Service Pack than a major release. Microsoft has, however, made some interesting tweaks, including a refreshed Start menu, some Alt Tab changes, and the bundling of the new Chromium-powered Microsoft Edge.
+<a href='https://www.theverge.com/2020/10/20/21524590/microsoft-windows-10-october-2020-update-download-install-release'> Source <a/>

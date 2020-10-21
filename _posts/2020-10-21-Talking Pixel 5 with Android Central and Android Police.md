@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/74Hcwjtggw6HE7mw5yoyEgayexI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67660182/akrales_201012_4137_0152.0.0.jpg' width='700px' /><br/>
+Every Tuesday this month, Vergecast co-host Dieter Bohn will host a series of discussions diving deep into tech review season, each focusing on a specific product.
+<a href='https://www.theverge.com/2020/10/20/21524842/vergecast-podcast-pixel-5-android-central-android-police-reviews-interview'> Source <a/>

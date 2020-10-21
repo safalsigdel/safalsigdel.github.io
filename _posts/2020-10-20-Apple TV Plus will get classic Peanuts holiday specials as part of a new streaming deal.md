@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eniTcH9NpCwNuqGLJb-mHsdGyao=/110x0:3345x2160/1200x800/filters:focal(1514x757:2128x1371)/cdn.vox-cdn.com/uploads/chorus_image/image/67654589/101920_Snoopy_Apple_Partnership_Wildbrain_Shows_Big_Image_01.0.jpg' width='700px' /><br/>
-Apple TV Plus will be getting the beloved Peanuts Halloween, Thanksgiving, and Christmas holiday specials added to its catalog this year, and they'll each be available for free to non-subscribers for a short period of time.
-<a href='https://www.theverge.com/2020/10/19/21523137/apple-tv-plus-streaming-deal-peanuts-halloween-christmas-thanksgiving-holiday-specials'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9428/vpavic_4243_20201017_0088sq.0.jpg' width='700px' /><br/>
-More than most years, there are a lot of things that are new in the iPhone 12. Apple has loaded in the usual upgrades like a faster processor and improved camera, but that's something we've come to expect. In addition to all of that, there's a new design, a new OLED screen, an entirely new charging and accessory ecosystem with MagSafe, and, of course, 5G.
-<a href='https://www.theverge.com/21522988/iphone-12-review'> Source <a/>

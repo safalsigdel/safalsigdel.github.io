@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p6uJQz5bQGtn3qEARdNvwBWf8_I=/0x0:2829x1852/1200x800/filters:focal(1217x714:1669x1166)/cdn.vox-cdn.com/uploads/chorus_image/image/67661295/833902354.jpg.0.jpg' width='700px' /><br/>
+Borat will be on Twitch soon. The Amazon-owned streaming service announced that Sacha Baron Cohen's iconic character will be facing off against Ben “DrLupo” Lupo at 6PM ET today.
+<a href='https://www.theverge.com/2020/10/20/21525187/twitch-borat-drlupo-stream-together'> Source <a/>

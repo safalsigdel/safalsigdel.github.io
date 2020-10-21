@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T5j-O25YiRqRKClHaoj0pqSUMhw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67662468/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
+Netflix's business soared during the pandemic, but as it heads into 2021 and faces a potential shortage of films and movies, the company will have to prove it can continue performing.
+<a href='https://www.theverge.com/2020/10/20/21525428/netflix-earnings-q3-content-subscribers-pandemic-competition'> Source <a/>
