@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D6QrRAlllzip96WsjFzJC5eLy58=/0x0:4800x2811/1200x800/filters:focal(2016x1022:2784x1790)/cdn.vox-cdn.com/uploads/chorus_image/image/67670504/1212827017.jpg.0.jpg' width='700px' /><br/>
+Microsoft announced a new effort today to reduce pollution coming from some of its employees' flights. It plans to buy credits for sustainable aviation fuel to cover travel on the commercial flight routes most frequented by its employees during business trips.
+<a href='https://www.theverge.com/2020/10/22/21527695/microsoft-greenhouse-gas-emissions-pollution-business-travel-aviation'> Source <a/>
