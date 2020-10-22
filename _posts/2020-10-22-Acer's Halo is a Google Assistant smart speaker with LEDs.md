@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rAWgPzlIfHzOIUweYC-YoRtCNTQ=/0x0:1101x734/1200x800/filters:focal(463x279:639x455)/cdn.vox-cdn.com/uploads/chorus_image/image/67665358/acerhalo.0.jpg' width='700px' /><br/>
-Acer has announced the $109 Halo smart speaker at its October hardware event. It's a 360-degree speaker that has the Google Assistant built in to handle queries and tasks, and Acer says it's one of the first smart speakers to have DTS sound. With that, it should be especially suited to offer a cinematic sound.
-<a href='https://www.theverge.com/2020/10/21/21526577/acer-halo-google-assistant-smart-speaker-rgb-led-price-release'> Source <a/>

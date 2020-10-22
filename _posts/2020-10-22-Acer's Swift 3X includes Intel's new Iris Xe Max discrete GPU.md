@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WWMDCR6NSKfQQU_5_oqNE0XZp1A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67665354/mchin_190110_4241_0001.0.0.jpg' width='700px' /><br/>
-I like Acer's Swift 3 line because it really has its finger on the features that students need. The Swift 3 doesn't look fancy and doesn't come with any cutting-edge bells and whistles. But it's sturdy and portable with good performance and solid battery life — and best of all, it's affordable.
-<a href='https://www.theverge.com/2020/10/21/21518320/acer-swift-3x-intel-iris-xe-max-graphics-hands-on'> Source <a/>
