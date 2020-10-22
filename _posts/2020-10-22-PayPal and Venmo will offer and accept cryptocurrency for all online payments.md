@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f121HjXYPY4fK5josgFvggQhCOQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67667752/acastro_181126_1777_bitcoin_0001.0.jpg' width='700px' /><br/>
+PayPal on Wednesday announced it would begin supporting cryptocurrencies for the first time, allowing any PayPal account holder to store, buy, and sell popular virtual currencies starting later this year. The announcement makes PayPal arguably the most significant company in the financial tech sector to adopt support for virtual currencies.
+<a href='https://www.theverge.com/2020/10/21/21527288/paypal-cryptocurrency-support-buy-sell-venmo-bitcoin'> Source <a/>

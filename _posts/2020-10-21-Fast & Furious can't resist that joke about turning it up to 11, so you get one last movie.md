@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VzshPhZGceHTJ27pQago90LetLM=/0x0:3840x2400/1200x800/filters:focal(1613x893:2227x1507)/cdn.vox-cdn.com/uploads/chorus_image/image/67663673/F9FastFurious9.0.jpg' width='700px' /><br/>
-The Fast & Furious saga will finally end after its 11th installment, Deadline and Variety report — which, if you're counting, is one more movie than we were expecting until now. Justin Lin, who directed five of the past eight F&F films (counting the upcoming F9), is reportedly set to direct the last two as well.
-<a href='https://www.theverge.com/2020/10/20/21526004/fast-furious-end-after-11-films-justin-lin-directing'> Source <a/>

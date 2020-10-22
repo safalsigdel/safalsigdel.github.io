@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MISUpQr-CKg1AXBdyJbwLsPB_-s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67664392/DSCF7250.0.jpg' width='700px' /><br/>
-Vivo, one of the largest smartphone brands in the world, is expanding its operations in Europe. The company will now sell phones and accessories in six new markets: the UK, France, Germany, Italy, Poland and Spain.
-<a href='https://www.theverge.com/2020/10/21/21526286/vivo-europe-market-expansion-x51-5g-specs-price'> Source <a/>

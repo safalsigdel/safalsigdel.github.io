@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DgTKq1kJR614PYct56qu2_YKd8A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67659462/acastro_170726_1777_0012.0.jpg' width='700px' /><br/>
+Twitter is temporarily changing how you retweet ahead of the November 3rd US presidential election, to help prevent abuse and the spread of misinformation. Don't worry, you'll still be able to retweet. But until at least the end of election week, it won't be quite as easy as usual to retweet something to all of your followers.
+<a href='https://www.theverge.com/21524092/twitter-temporarily-changing-retweet-quote-tweet-election'> Source <a/>

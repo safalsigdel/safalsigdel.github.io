@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UA_mTspeLCuL127X7Ja0FI3tZsk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67662122/acastro_200901_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
-Twitch's music problem has flared up again, with the company sending DMCA warning notices en masse to its massive population of streamers. The news was spotted by the indefatigable esports consultant Rod “Slasher” Breslau, who posted news of the impeding takedowns on Twitter.
-<a href='https://www.theverge.com/2020/10/20/21525481/twitch-streamers-dmca-takedown-notices-riaa-copyright'> Source <a/>

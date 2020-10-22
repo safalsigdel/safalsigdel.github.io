@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y6nGYQELmHn8RIPZceu1psd5B-o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67664776/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
-If you ask Chrome to delete all cookies and site data whenever you quit the browser, it's reasonable to expect that this policy applies to all websites. Recently, though, a bug in the browser meant data wasn't being removed for two sites in particular: Google and YouTube.
-<a href='https://www.theverge.com/2020/10/21/21526341/google-chrome-local-storage-cookies-youtube-search-bug-fix'> Source <a/>

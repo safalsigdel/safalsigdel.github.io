@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ac_wpQJQ51RQchGUZVJVKsytXG0=/0x0:700x361/1200x800/filters:focal(588x147:700x259)/cdn.vox-cdn.com/uploads/chorus_image/image/67665831/1_Ke1bKRJEDzqYOmhfMl2DPw.0.png' width='700px' /><br/>
+If you've got an Amazon Fire TV box, hate picking up a voice remote, and have a separate Alexa-enabled device like an Echo smart speaker, then I have some great news. A new update rolling out this week is adding a host of new hands-free features to the Fire TV like being able to use it to view calendars or the weather, control menus, and play music.
+<a href='https://www.theverge.com/2020/10/21/21526660/fire-tv-amazon-alexa-features-echo-smart-speaker'> Source <a/>

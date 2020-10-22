@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UuvUrXe0VeQIqnyAB2qgYUecm88=/0x0:1920x1080/1200x800/filters:focal(425x12:731x318)/cdn.vox-cdn.com/uploads/chorus_image/image/67666604/fortnite_party_trooper_outfit_regular_and_j_balvin_style_1920x1080_322166948.0.jpg' width='700px' /><br/>
+Fortnite on PC has shrunk considerably, down from over 90GB to just under 30GB, thanks to recent optimizations from developer Epic.
+<a href='https://www.theverge.com/2020/10/21/21526916/fortnite-pc-file-size-60gb-smaller-epic-games-optimization'> Source <a/>

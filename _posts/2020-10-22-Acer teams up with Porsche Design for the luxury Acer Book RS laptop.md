@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Vj6aXFhXxfDbkzw2sZVJhmA9kXg=/0x0:3000x1687/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/67665911/Acer_Porsche_Design_Acer_Book_RS_AP714_51_High_06.0.jpg' width='700px' /><br/>
+Acer is teaming up with Porsche Design on a new high-end “luxury” laptop, the Porsche Design Acer Book RS, which looks to combine Porsche Design's product designs with Acer's laptop know-how.
+<a href='https://www.theverge.com/2020/10/21/21526563/acer-porsche-design-book-rs-laptop-spin-5-3-aspire-intel-11th-gen-updates'> Source <a/>

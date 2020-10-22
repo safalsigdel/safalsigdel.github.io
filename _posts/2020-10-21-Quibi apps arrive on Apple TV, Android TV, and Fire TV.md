@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lTSCulkwtWq7WKanQtpKZdFq420=/0x0:2040x1360/1200x800/filters:focal(889x515:1215x841)/cdn.vox-cdn.com/uploads/chorus_image/image/67664111/acastro_200403_3960_quibi_0004.0.0.jpg' width='700px' /><br/>
-Quibi, the troubled streaming service focused on “quick bites” of mobile-first content, has just launched apps for Apple TV, Android TV and Fire TV. The company quietly announced the change in an updated support article.
-<a href='https://www.theverge.com/2020/10/20/21526039/quibi-apple-tv-android-fire-apps-trouble'> Source <a/>

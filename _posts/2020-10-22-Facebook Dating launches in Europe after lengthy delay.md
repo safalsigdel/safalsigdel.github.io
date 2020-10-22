@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2EPcQrWrik0P6k0FN6T1IXmSG7c=/0x0:2040x1360/1200x800/filters:focal(883x503:1209x829)/cdn.vox-cdn.com/uploads/chorus_image/image/67668971/acastro_180501_1777_facebook_dating_0001.0.jpg' width='700px' /><br/>
+Facebook Dating, the social network's competitor to Tinder and other dating apps, launches today in Europe after a long delay from its planned Valentine's Day debut.
+<a href='https://www.theverge.com/2020/10/21/21527217/facebook-dating-launch-delay-europe-tinder'> Source <a/>

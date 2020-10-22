@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NYpMYgpr0c_Sj5w0NUKFJJW5GTc=/0x0:2549x3000/1200x800/filters:focal(1061x527:1467x933)/cdn.vox-cdn.com/uploads/chorus_image/image/67662956/1207341896.jpg.0.jpg' width='700px' /><br/>
-A day after lighting up the internet by announcing she'd joined Twitch and was looking for streamers to play the breakout hit Among Us with, New York congressional Representative Alexandria Ocasio-Cortez is playing Among Us with Hasan “HasanAbi” Piker and Imane “Pokimane” Anys, two of the biggest personalities on Twitch.
-<a href='https://www.theverge.com/2020/10/20/21525740/alexandria-ocasio-cortez-aoc-twitch-hasanabi-pokimane-ilhan-omar-among-us'> Source <a/>

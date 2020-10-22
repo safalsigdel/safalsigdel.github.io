@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P7_lJt4qGwHWNANR-rMsQLNVUNc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67667424/gblackmon_200403_3960_quibi_0005.0.0.jpg' width='700px' /><br/>
+Update October 21st, 3:40PM ET: Quibi is, in fact, done for. Shortly after publication, The Wall Streets Journal reports Quibi is shutting down for good. Read more here.
+<a href='https://www.theverge.com/2020/10/21/21527131/quibi-shutdown-sale-streaming-jeffrey-katzenberg'> Source <a/>

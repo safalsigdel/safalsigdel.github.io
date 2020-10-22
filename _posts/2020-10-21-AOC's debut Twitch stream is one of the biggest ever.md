@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qYJbkgIJ85ljMYqhFTTtSlKJ9Q0=/0x0:1714x969/1200x800/filters:focal(703x398:977x672)/cdn.vox-cdn.com/uploads/chorus_image/image/67664085/aoc.0.png' width='700px' /><br/>
-Rep. Alexandria Ocasio-Cortez (D-NY) made her Twitch debut tonight to play Among Us and encourage viewers to vote. She also, very quickly, became one of the platform's biggest broadcasters: her stream peaked at 435,000 viewers around the time of her first match, according to Twitch. (The stream had dipped to around 350,000 viewers as of this writing, after about two hours of playing.)
-<a href='https://www.theverge.com/2020/10/20/21526164/aoc-among-us-twitch-debut-top-concurrent-viewers'> Source <a/>

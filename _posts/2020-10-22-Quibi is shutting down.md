@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zIyQ-qSg-48Cqy95L7xyGlUZ2uY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67667720/acastro_200306_1777_Quibi_0002.0.0.jpg' width='700px' /><br/>
+Quibi — the shortform mobile-focused streaming service — is shutting down after just over six months of operation, making it one of the shortest-lived streaming services to date, according to The Wall Street Journal. The company since confirmed that it'll be shutting down in a Medium post from Jeffrey Katzenberg and Meg Whitman.
+<a href='https://www.theverge.com/2020/10/21/21527197/quibi-streaming-service-mobile-shutting-down-end-katzenberg'> Source <a/>

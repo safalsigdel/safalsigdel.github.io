@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KDW6Ebf4t1O88atLBWI2q7JZ8Go=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67668017/tesla.0.jpg' width='700px' /><br/>
+Tesla made a profit of $331 million in the third quarter of 2020, its fifth straight profitable quarter and a sign that the electric automaker is hitting its stride. This quarter's profit is more than doubles that of the third quarter last year.
+<a href='https://www.theverge.com/2020/10/21/21525006/tesla-q3-2020-earnings-profit-revenue-elon-musk'> Source <a/>

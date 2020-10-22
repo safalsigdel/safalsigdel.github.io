@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-SixLBspAUSsVhY9zOe8axnhsmw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67662617/wjoel_180319_2394_facebook_006.0_1.0.jpg' width='700px' /><br/>
-Facebook moderators located in India were pressured by their employer, third-party contracting firm Genpact, to return to the office despite safety concerns over the COVID-19 pandemic, according to a new report from nonprofit publication Rest of World.
-<a href='https://www.theverge.com/2020/10/20/21525600/facebook-moderators-india-covid-19-office-return-work-safety-health-concern'> Source <a/>

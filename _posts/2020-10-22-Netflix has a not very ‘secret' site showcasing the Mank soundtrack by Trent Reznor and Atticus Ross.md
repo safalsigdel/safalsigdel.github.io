@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4b6WkxydoLk3LYUGYaPiQckgLAw=/0x0:2700x1800/1200x800/filters:focal(658x411:1090x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67668013/mank10.0.0.jpg' width='700px' /><br/>
+David Fincher's new movie Mank comes out in just over a month, but if you want a sneak peek at the film, Netflix has a put out a (not so) ”secret” website showcasing its soundtrack and behind-the-scenes stills.
+<a href='https://www.theverge.com/2020/10/21/21527236/mank-secret-websitetrent-reznor-atticus-ross-score-david-fincher-movie-netflix'> Source <a/>

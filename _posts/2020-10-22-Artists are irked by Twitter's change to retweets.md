@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CifJJooM7Q1J3IDs2dxsS87JOJw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67668558/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
+Artists on Twitter have a request: stop quote-tweeting their work.
+<a href='https://www.theverge.com/2020/10/21/21527101/twitter-retweet-changes-artists-quote-retweet-qrt'> Source <a/>

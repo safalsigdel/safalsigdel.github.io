@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rUkJ8ttX_1rpKJ9fkU1TT6qDWVM=/0x0:3000x2123/1200x800/filters:focal(1260x822:1740x1302)/cdn.vox-cdn.com/uploads/chorus_image/image/67668621/1140240890.jpg.0.jpg' width='700px' /><br/>
+The Verge used to have a fine tradition of cataloging all of the times when Eric Schmidt stuck his foot in his mouth, and today's feels like a worthy addition: the former Google CEO and executive chairman has decided that social networks are “amplifiers for idiots.”
+<a href='https://www.theverge.com/2020/10/21/21527525/google-ceo-eric-schmidt-says-social-networks-idiots-youtube'> Source <a/>

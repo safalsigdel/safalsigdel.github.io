@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6S9Nv-Pa4MeQ_gAvDoKHwvBxUeg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67665693/dseifert_191031_3770_0008.0.jpg' width='700px' /><br/>
+Prime Day 2020 may have ended, but Best Buy is bringing back some of the better deals to come out of the two-day e-commerce event. Several products have been discounted at Best Buy to reflect Amazon's Prime Day pricing.
+<a href='https://www.theverge.com/2020/10/21/21526508/best-buy-tech-prime-day-deals-echo-dot-show-5-sale'> Source <a/>
