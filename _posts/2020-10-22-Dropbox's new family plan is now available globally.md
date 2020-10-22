@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yWae1L3x7l05ksWwtJ1iciPzfCE=/0x0:3463x2309/1200x800/filters:focal(1455x878:2009x1432)/cdn.vox-cdn.com/uploads/chorus_image/image/67665052/1211180751.jpg.0.jpg' width='700px' /><br/>
-Dropbox's new family plan, Dropbox Family, is now available globally. With Dropbox Family, up to six people can have their own accounts with all of the features in a Dropbox Plus plan, a combined 2 TB of storage, and a dedicated space to share files across accounts (called, fittingly, the Family Room). Up until today, Dropbox Family was only available in beta to select users, Dropbox tells The Verge.
-<a href='https://www.theverge.com/2020/10/21/21525055/dropbox-family-plan-now-available-globally'> Source <a/>
