@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z92AU-9VPj9Q7rX4_uiQ94IEsdo=/0x0:2040x1360/1200x800/filters:focal(702x473:1028x799)/cdn.vox-cdn.com/uploads/chorus_image/image/67665342/akrales_201017_4238_0143.0.0.jpg' width='700px' /><br/>
-Apple continues to have trouble with its new default app settings in iOS 14 and iPadOS 14. After it was discovered that power cycling devices would flip the defaults for email and web browser back to Apple's own apps, the company quickly patched that issue.
-<a href='https://www.theverge.com/2020/10/21/21526556/ios-14-resets-default-email-browser-apps-after-updates'> Source <a/>
