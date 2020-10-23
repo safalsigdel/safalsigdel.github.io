@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MVFjWw8YqTl-_Fy8UyKuSCLLKBk=/0x0:2040x1360/1200x800/filters:focal(930x609:1256x935)/cdn.vox-cdn.com/uploads/chorus_image/image/67672373/akrales_191107_3781_0007.0.jpg' width='700px' /><br/>
-The $40 off deal on Apple's new iPad Air at Walmart and Amazon has unfortunately sold out. This was a relatively small discount, all said, but a good one to jump on in case it appears again. The as-of-yet unreleased iPad Air that features USB-C charging, a brand-new design, and powerful internal specs.
-<a href='https://www.theverge.com/good-deals/2020/10/22/21528342/apple-ipad-air-2020-new-preorder-deal-amazon-walmart-kindle-paperwhite-hard-drive-sale'> Source <a/>

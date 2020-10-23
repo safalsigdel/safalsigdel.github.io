@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i0dwmIC1Hn_UcArGungX-dUco9M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67676536/DSCF7444.0.jpg' width='700px' /><br/>
+Huawei announced the Mate 40 Pro yesterday, and now we have one in hand. It might not be easy to recommend Huawei phones outside of China, since the Trump administration's targeted sanctions have prevented it working with US companies like Google, but devices like the P40 Pro Plus and last year's Mate 30 Pro have had hardware as impressive as anything else on the global smartphone market.
+<a href='https://www.theverge.com/2020/10/23/21529915/huawei-mate-40-pro-hands-on'> Source <a/>
