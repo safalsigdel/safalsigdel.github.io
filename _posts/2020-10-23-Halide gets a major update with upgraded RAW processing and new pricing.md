@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/VFGUvSzLzk1aN2J_lrzCFhYFVLo=/0x0:1350x675/1200x800/filters:focal(567x230:783x446)/cdn.vox-cdn.com/uploads/chorus_image/image/67672816/1_9VMWqen_redgnQhMAMENuQ.0.png' width='700px' /><br/>
 Halide has launched a new version of its popular iPhone camera app, now dubbed Halide Mark II, and it comes with a lot of new features. Those include a redesign, upgraded RAW processing, and a new pricing model.
-<a href='https://www.theverge.com/2020/10/22/21528652/halide-mark-ii-update-raw-processing-new-pricing-subscriptions-memberships'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/VFGUvSzLzk1aN2J_lrzCFhYFVLo=/0x0:1350x675/1200x800/filters:focal(567x230:783x446)/cdn.vox-cdn.com/uploads/chorus_image/image/67672816/1_9VMWqen_redgnQhMAMENuQ.0.png' width='700px' /><br/>
-Halide has launched a new version of its popular iPhone camera app, now dubbed Halide Mark II, and it comes with a lot of new features. Those include a redesign, upgraded RAW processing, and a new pricing model.
 <a href='https://www.theverge.com/2020/10/22/21528652/halide-mark-ii-update-raw-processing-new-pricing-subscriptions-memberships'> Source <a/>
