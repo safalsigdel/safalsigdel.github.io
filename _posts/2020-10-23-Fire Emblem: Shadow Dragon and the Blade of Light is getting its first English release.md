@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wbzlr5-IPxhRgFasonL70XBmaNs=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67672251/Fire_Emblem_Shadow_Dragon_Blade_of_Light_1.0.jpg' width='700px' /><br/>
-Fire Emblem: Shadow Dragon and the Blade of Light is launching in the US for the first time ever. The tactical roleplaying game, originally released in 1990, will be available on the Nintendo Switch for $5.99 on December 4th.
-<a href='https://www.theverge.com/2020/10/22/21528552/fire-emblem-shadow-dragon-and-the-blade-of-light-nintendo-switch'> Source <a/>
