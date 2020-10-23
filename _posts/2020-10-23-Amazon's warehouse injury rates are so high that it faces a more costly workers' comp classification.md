@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Cx9X3yPBvHZvxVwGqsdrRHfuqF8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67674570/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
+Just last month, a stunning report showed how Amazon fulfillment centers across the country saw rising injury rates between 2016 and 2019, sourced from internal company data. And now, proposed legislation in Washington state would mean Amazon could pay a higher workers' compensation premium than other warehouse-owning companies next year.
+<a href='https://www.theverge.com/2020/10/22/21529008/amazon-warehouse-injury-rates-classification-workers-compensation'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kF4hcMep7eS1unaba4EOwiertI0=/0x0:2000x337/1200x0/filters:focal(0x0:2000x337):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21918792/election_essentials.png' width='700px' /><br/>
+On Thursday, October 22nd, at 9PM ET, President Donald Trump and former Vice President Joe Biden will face off for the final debate of the 2020 presidential campaign. The debate will be held at Belmont University in Nashville, Tennessee.
+<a href='https://www.theverge.com/2020/10/22/21527399/presidential-debate-last-watch-live-stream-date-start-time-donald-trump-joe-bien'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5X1B_GqG-wUEokZhbPnpkqdiFvo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67670764/acastro_20200723_1777_duolingo_0001.0.jpg' width='700px' /><br/>
-Language learning app Duolingo is debuting what it says is the world's first bilingual true crime podcast designed for people learning Spanish. El Gran Robo Argentino (The Great Argentine Heist) tells the story of the 2006 robbery of a Banco Rio bank in Buenos Aires, where five men stole a fortune worth $20 million.
-<a href='https://www.theverge.com/2020/10/22/21523571/duolingo-bilingual-true-crime-podcast-el-gran-robo-argentino-spanish-language'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tJ1m5xtW3AVRYQ5K20-IeQ7TGxQ=/0x0:6027x4018/1200x800/filters:focal(2532x1527:3496x2491)/cdn.vox-cdn.com/uploads/chorus_image/image/67671443/1027231380.jpg.0.jpg' width='700px' /><br/>
+The Senate Judiciary Committee approved subpoenas on Thursday to force Facebook CEO Mark Zuckerberg and Twitter CEO Jack Dorsey to testify before the body regarding complaints of anti-conservative bias on their platforms.
+<a href='https://www.theverge.com/2020/10/22/21528422/senate-judiciary-facebook-twitter-subpoenas-approval-zuckerberg-dorsey'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DItUvzxhp_RUaG7PNbzd-IVRURc=/0x0:2040x1360/1200x480/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67665363/sbyford_201009_4236_0002.0.0.jpg' width='700px' /><br/>
-While many of us moved to home offices when companies sought to avoid COVID-19 infection, for some people, working at home is the norm. One of those people is Sam Byford, Asia editor for The Verge, who works out of a home office in Tokyo, Japan.
-<a href='https://www.theverge.com/21519190/home-remote-work-desk-setup-tech-monitors-lg-nikon-apple-nintendo'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YyXyScSg0zSAFKLJKw1Om2w2eoI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67672798/mdoying_180118_2249_facebook_0445stills_3.0.jpg' width='700px' /><br/>
+Facebook's long-awaited oversight board announced Thursday it is now accepting cases. The board, first announced by the social media behemoth in 2018, is meant to serve as an independent check on Facebook's moderation decisions.
+<a href='https://www.theverge.com/2020/10/22/21528364/facebook-oversight-board-content-zuckerberg-policy'> Source <a/>

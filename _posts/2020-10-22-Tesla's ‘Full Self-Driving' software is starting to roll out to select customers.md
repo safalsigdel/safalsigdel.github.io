@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bCOvx_c-QRIIgGi3zBN2JQeWeD8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67668885/acastro_180524_1777_tesla_0003.0.jpg' width='700px' /><br/>
-Tesla sent out the first “Full Self-Driving” beta software update to a select group of customers this week, CEO Elon Musk tweeted Tuesday. On an earnings call Wednesday, Musk said more Tesla owners would get the update as the weeks progress, with the goal of a “wide release” by the end of the year.
-<a href='https://www.theverge.com/2020/10/21/21527577/tesla-full-self-driving-autopilot-beta-software-update'> Source <a/>

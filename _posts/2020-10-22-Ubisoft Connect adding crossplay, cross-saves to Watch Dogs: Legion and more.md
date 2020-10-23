@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7GNFUXFBDV6yvUFZD5MVvFfMjL0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67668051/acastro_190528_1777_ubisoft_0002.0.0.jpg' width='700px' /><br/>
-Ubisoft is merging its loyalty program, Ubisoft Club, and desktop app Uplay into Ubisoft Connect, the developer announced. In addition to a rewards program, it will introduce crossplay and cross-progression in games such as Assassin's Creed Valhalla and Watch Dogs: Legion.
-<a href='https://www.theverge.com/2020/10/21/21527273/ubisoft-connect-crossplay-cross-saves-watch-dogs-legion'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2KLFoWMZtI6xUKOHgLX-H87cv18=/0x0:2040x1360/1200x675/filters:focal(860x858:1186x1184)/cdn.vox-cdn.com/uploads/chorus_image/image/67671093/dseifert_201020_4247_0003.0.0.jpg' width='700px' /><br/>
-The smart speaker competition this year is the hottest it's ever been. Google has finally refreshed its midrange smart speaker with the impressively good Nest Audio. Apple has seen the error of its HomePod ways and is coming out with the much more accessible HomePod mini.
-<a href='https://www.theverge.com/21527664/amazon-echo-2020-alexa-fourth-gen-review'> Source <a/>

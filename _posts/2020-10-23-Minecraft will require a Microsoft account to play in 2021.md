@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BeFVFtbEk0GwIieC1ZH20LbG9tg=/0x0:1920x1080/1200x800/filters:focal(914x205:1220x511)/cdn.vox-cdn.com/uploads/chorus_image/image/67674460/2656292-minecraft-xb1-screen08-png.0.0.png' width='700px' /><br/>
+Minecraft players have been able to play without a Microsoft account for the past six years that the company has owned the game, but that will change in 2021, the official Minecraft blog announced yesterday. Players who own the original version of the game and do not switch to a Microsoft account will be unable to play.
+<a href='https://www.theverge.com/2020/10/22/21527647/minecraft-microsoft-account-mojang-java'> Source <a/>

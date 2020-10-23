@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A7aZS_zlC7COzPHAsuwmB3-ivqU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67674778/acastro_200403_3960_quibi_0003.0.0.jpg' width='700px' /><br/>
+Quibi will shut down for good “on or around December 1st,” according to a new blog posted on the company's support site. The announcement comes one day after company executives declared Quibi was shutting down for good.
+<a href='https://www.theverge.com/2020/10/22/21529392/quibi-shut-down-date-december-tv-shows-movies-streaming'> Source <a/>

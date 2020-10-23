@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xN_EQN65nhSWc5obPrQDm_U6QT8=/0x0:4179x2781/1200x800/filters:focal(1756x1057:2424x1725)/cdn.vox-cdn.com/uploads/chorus_image/image/67675510/1229188036.jpg.0.jpg' width='700px' /><br/>
+We've all been there. You're craving a McFlurry, or a Shamrock Shake. You drive to McDonald's, excited to fill yourself up with cold and sugary goodness. But when you finally make it to the counter, you hear those dreaded, devastating words: “The ice cream machine is broken.”
+<a href='https://www.theverge.com/2020/10/22/21529477/mcdonalds-mcbroken-bot-ice-cream-machines-app-engineering'> Source <a/>

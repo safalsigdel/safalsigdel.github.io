@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vDB8jBRzgygNWg6QOuw_iLji6jg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67674268/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
+Uber drivers in California are suing the ride-sharing company, claiming the “constant barrage” of messages in its app violates workers' rights. The group of drivers is seeking up to $260 million in penalties, saying in a press release that Uber is “illegally exploiting its economic power over its California-based drivers by pressuring them to support the Yes on 22 campaign.”
+<a href='https://www.theverge.com/2020/10/22/21529082/uber-drivers-lawsuit-prop-22-alerts-california-gig-workers'> Source <a/>

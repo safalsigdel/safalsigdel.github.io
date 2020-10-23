@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZRiu4iZDBkhRxribyKkV_AgSrKs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67667103/vpavic_200121_3874_0010.0.jpg' width='700px' /><br/>
-Cruise, the self-driving car company owned by General Motors, is doubling down on the Origin, its steering wheel-and-pedal-less autonomous people mover introduced late last year. With the COVID-19 pandemic discouraging many people from using shared ride services, the company unveiled new safety protocols intended to keep people socially distant during trips and the vehicle sanitized between fares.
-<a href='https://www.theverge.com/2020/10/21/21527014/cruise-self-driving-origin-covid-safety-ruls-nhtsa-exemption'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nI2BZq6UGorOBU7aVi8Bnaq0PAE=/0x0:3000x2001/1200x800/filters:focal(1264x534:1744x1014)/cdn.vox-cdn.com/uploads/chorus_image/image/67674828/Claravox_Beauty_Edit_6.0.jpg' width='700px' /><br/>
+The sounds of the theremin, once the instrument of the future, have now been tingling our spines for 100 years. In commemoration, Moog is introducing its new limited-edition Claravox Centennial, named for theremin virtuosa Clara Rockmore.
+<a href='https://www.theverge.com/2020/10/22/21528892/moog-claravox-centennial-theremin-clara-rockmore'> Source <a/>

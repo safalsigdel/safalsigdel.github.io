@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GUMMMSZTVGJyUeb1xaIdPtgWQ9o=/0x0:3000x2625/1200x800/filters:focal(1260x1073:1740x1553)/cdn.vox-cdn.com/uploads/chorus_image/image/67665908/Acer_Chromebook_Spin_513_CP513_1H_L__High_03.0.jpg' width='700px' /><br/>
-Acer has announced its Chromebook Spin 513 and Chromebook Enterprise Spin 513. They're the first Chrome OS devices powered by Qualcomm's Snapdragon 7c chips. The 513 will be available in North America in February 2021 starting at $399.99; the Enterprise Spin 513 is coming in March 2021 starting at $699.99.
-<a href='https://www.theverge.com/2020/10/21/21526613/acers-chromebook-spin-513-enterprise-chrome-os-snapdragon-price-release'> Source <a/>
