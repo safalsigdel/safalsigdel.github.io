@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+OnePlus' Buds usually cost $79, but they're just $59 today at Amazon and B&H Photo. That's a great price for a set of wireless earbuds that have good battery life with IPX4 water and sweat resistance. Check out my colleague Chris Welch's review (and very fun video review by Becca Farsace above) to find out all of the details about these earphones.
+<a href='https://www.theverge.com/good-deals/2020/10/23/21528475/oneplus-buds-microsoft-surface-duo-dell-g5-gaming-laptop-jackbox-7-deal-sale-amazon'> Source <a/>

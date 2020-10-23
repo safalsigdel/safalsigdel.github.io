@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dBzEbNpdxb289jDF3BDP9NMv2sU=/0x0:1077x718/1200x800/filters:focal(453x273:625x445)/cdn.vox-cdn.com/uploads/chorus_image/image/67672438/100ThievesVoteMural.0.jpg' width='700px' /><br/>
-100 Thieves is following in the footsteps of the NBA and turning its home base into a voting center. The gaming and lifestyle company announced today that the 100 Thieves Cash App Compound — a 15,000-square-foot building that officially opened earlier this year — will serve as an official LA County Voting Center, which will be open for early voters from October 30th to November 2nd, as well as on Election Day on November 3rd.
-<a href='https://www.theverge.com/2020/10/22/21528315/100-thieves-cash-app-compound-la-voting-center'> Source <a/>
