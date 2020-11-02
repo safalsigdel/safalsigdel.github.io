@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DkyoeBeADEehncxZxKPMTpTN2Qs=/0x0:7414x4943/1200x800/filters:focal(3114x1879:4300x3065)/cdn.vox-cdn.com/uploads/chorus_image/image/67715224/1190621103.jpg.0.jpg' width='700px' /><br/>
+The classic Discord ringtone is going to sound a little different this Halloween. Today, the company revealed a remixed version of the sound effect, which adds some spooky elements to the iconic chime. It's a short, breezy clip that wouldn't feel out of place at a haunted house.
+<a href='https://www.theverge.com/2020/10/30/21528366/discord-halloween-ringtone-100-gecs'> Source <a/>

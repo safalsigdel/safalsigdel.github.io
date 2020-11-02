@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4Q7apSpPDN9Y8T_syhjqvsIki2Q=/0x0:2040x1366/1200x800/filters:focal(857x520:1183x846)/cdn.vox-cdn.com/uploads/chorus_image/image/67716368/cfaulkner_200325_3950_0008.0.jpg' width='700px' /><br/>
+These days, most of us tend to use our smartphone cameras for our full-time photographing needs rather than buy a separate product. After all, even lower-end cameras such as Google's Pixel 4A or Apple's iPhone SE both boast cameras that are as good as, if not better than, many of their more expensive peers. So why bother with a regular camera?
+<a href='https://www.theverge.com/21527395/budget-cameras-gopro-polaroid-fujifilm-low-cost-cheap'> Source <a/>

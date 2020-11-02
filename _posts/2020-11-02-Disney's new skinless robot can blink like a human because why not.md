@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SBsE7VqSsTBq8-oVYWxvwXTIG5c=/0x0:1291x821/1200x800/filters:focal(522x270:728x476)/cdn.vox-cdn.com/uploads/chorus_image/image/67721939/disney_robot.0.jpg' width='700px' /><br/>
+Once you get past the fact that it has no skin, the new robot from Disney Research is an impressive feat of robotics. First reported by Gizmodo, the new robot can imitate human facial movements, specifically blinking and subtle head movements.
+<a href='https://www.theverge.com/2020/11/1/21544341/disney-skinless-robot-blink-human-robotics'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jfJUHm5zYnreTUcgkd2AfePuGXs=/0x0:3000x2000/1200x800/filters:focal(1144x800:1624x1280)/cdn.vox-cdn.com/uploads/chorus_image/image/67718944/jbareham_160607_0938_0022_final_01.0.0.1466551010.0.jpg' width='700px' /><br/>
+One of the countless impacts of the coronavirus pandemic is that it halted the NYC Department of Sanitation's recycling program that picks up your e-waste by appointment. The program is still paused, and it isn't set to resume its normal cadence of accepting e-waste at drop-off sites until at least June 2021.
+<a href='https://www.theverge.com/21451607/ewaste-recycling-nyc-pop-up-sites-2020-les-ecology-center-best-buy'> Source <a/>

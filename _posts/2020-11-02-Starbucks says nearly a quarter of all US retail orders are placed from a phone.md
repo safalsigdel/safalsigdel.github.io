@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VAkim2EiaKiIq4pUi295wH99Ces=/0x0:1100x729/1200x800/filters:focal(341x230:517x406)/cdn.vox-cdn.com/uploads/chorus_image/image/67717391/STARBUCKS.0.jpeg' width='700px' /><br/>
+Almost a quarter of all transactions at Starbucks stores in the US are mobile orders through the company's app, an earnings document revealed yesterday. Ordering ahead through the Starbucks app is the company's suggested way to get in and out of its locations faster during the pandemic, hopefully making it easier to maintain social distancing in the process.
+<a href='https://www.theverge.com/2020/10/30/21540908/starbucks-app-q4-earnings-mobile-payments'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xi7mHT998QeuLqCu_WwbFQMIed4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67719094/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+A jury in Texas has ruled that Apple has to pay VirnetX $502.8 million in royalties for VPN on Demand, a feature that lets iOS users access a VPN connection, Bloomberg reported. The two companies have been involved in a legal battle for ten years, with VirnetX— sometimes referred to as a patent troll — arguing that Apple's VPN on Demand and FaceTime use its technology.
+<a href='https://www.theverge.com/2020/10/31/21543315/apple-ordered-pay-virnetx-patent-troll-facetime-vpn'> Source <a/>

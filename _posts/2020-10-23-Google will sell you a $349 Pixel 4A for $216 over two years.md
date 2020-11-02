@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3ZwxgH_7uQE06-jQL0tnosVCc5k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67675243/vpavic_4113_20200724_0090.0.jpg' width='700px' /><br/>
-You can now buy the Pixel 4A from Google for just $9 per month over 24 months as part of the new Google Fi phone subscription program. That monthly cost means you'd pay just just $216 for the phone, a substantial savings over its $349 upfront price. After you've made all 24 payments, you own the phone.
-<a href='https://www.theverge.com/2020/10/22/21529397/google-fi-phone-subscription-plan-pixel-4a'> Source <a/>

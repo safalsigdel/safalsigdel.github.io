@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nx4wjf3iii_wsWNRz1EbBhtm3kc=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/67675619/1227939563.jpg.0.jpg' width='700px' /><br/>
-Uber and Lyft were ordered by California's court of appeals to classify their drivers as employees. In a 74-page opinion, the court affirmed the injunction that was issued on August 10th requiring Uber and Lyft to classify their drivers as employees within 30 days.
-<a href='https://www.theverge.com/2020/10/22/21529644/uber-lyft-lose-appeals-court-driver-employees'> Source <a/>

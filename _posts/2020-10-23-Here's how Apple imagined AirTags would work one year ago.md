@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CF1rnsWXHwsgg7fOHpYRieEhPIg=/0x0:730x487/1200x800/filters:focal(302x180:418x296)/cdn.vox-cdn.com/uploads/chorus_image/image/67676602/msedge_Uoi5a1UohK.0.jpg' width='700px' /><br/>
-As well as letting you find lost items, Apple has considered allowing its unannounced, but heavily leaked AirTags to do everything from measuring your posture to helping your phone display information relevant to the building you're in. The details have emerged in a pair of patent applications that were filed a year ago and were found by Patently Apple after they were made public yesterday.
-<a href='https://www.theverge.com/2020/10/23/21529927/apple-airtags-location-tracker-find-my-accessory-patent-applications-posture'> Source <a/>

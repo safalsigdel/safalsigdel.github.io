@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9VdpbeBdlZtZoAi2Ay-nmgV1Nb0=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/67676608/xcloud.0.jpg' width='700px' /><br/>
-Microsoft's head of gaming and Xbox, Phil Spencer, has hinted that the company is planning TV streaming sticks for its xCloud cloud gaming service. In an interview with Stratechery, Spencer discusses the potential for additional tiers of Xbox Game Pass, which could include a free bundled TV stick to play xCloud games.
-<a href='https://www.theverge.com/2020/10/23/21529925/xbox-tv-streaming-stick-xcloud-cloud-gaming-phil-spencer-interview'> Source <a/>

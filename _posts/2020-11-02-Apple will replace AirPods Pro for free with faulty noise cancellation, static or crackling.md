@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z1P3EHJesWHSdXG9E8J4SiZGcE8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67717448/cwelch_191031_3763_0003.0.jpg' width='700px' /><br/>
+Today, exactly one year after Apple first launched the AirPods Pro — and thus the same day the very first AirPods Pro owners will see their one-year warranties expire — Apple has launched a repair program that offers free repairs or replacements for another whole year if your AirPods Pro experience issues with noise cancellation or static.
+<a href='https://www.theverge.com/2020/10/30/21542846/apple-airpods-pro-repair-recall-program-noise-cancellation-static'> Source <a/>

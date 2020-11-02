@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VSuElK89v2SI0a-JA7BXtmyHGZA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67675120/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
-You know what you did. Or do you? Until recently, TikTok wouldn't necessarily explain why it removed one of your videos from the platform. You'd simply be told that it violated the company's “community guidelines” somehow.
-<a href='https://www.theverge.com/2020/10/22/21529497/tiktok-content-violation-which-policy-community-guidelines-update'> Source <a/>
