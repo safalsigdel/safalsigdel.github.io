@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_w9WBiC4HsdK9rktsIQM9gLzCPA=/0x0:1614x1080/1200x800/filters:focal(678x411:936x669)/cdn.vox-cdn.com/uploads/chorus_image/image/67726136/xboxappletv.0.jpg' width='700px' /><br/>
+Apple TV will debut on Xbox consoles next month, just in time for the Xbox Series X and Series S launch. The new Apple TV app will be available across Xbox One, Xbox Series X, and Xbox Series S consoles on November 10th, providing access to Apple's TV shows and movie libraries. Apple TV has been missing on Xbox since its launch last year, and it's also arriving on PS5 ready for its November 12th launch.
+<a href='https://www.theverge.com/2020/11/2/21545980/apple-tv-xbox-app-november-10th-release-date-features'> Source <a/>

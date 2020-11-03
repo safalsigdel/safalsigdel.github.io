@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KCdURZ64jHoxjwP9wMqOis2gaAw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66976956/vpavic_200930_4216_0258.6.jpg' width='700px' /><br/>
+Thinking about picking up a new Apple Watch? It's never a bad idea to wait until there's a good deal, and thankfully, those happen with some regularity. The latest model, the Apple Watch Series 6, starts at $399. Despite launching in September, it already has a small price reduction. If that's a little too expensive, you can drop at least another $120 off the price by buying an Apple Watch SE, which also launched last month.
+<a href='https://www.theverge.com/21289209/best-apple-watch-deals'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Fzz-fsiWThBmCKEtjzruwAMHgiU=/0x0:5477x3651/1200x800/filters:focal(2261x1838:3137x2714)/cdn.vox-cdn.com/uploads/chorus_image/image/67728178/1281000995.0.jpg' width='700px' /><br/>
+AMC Entertainment didn't try to hide the immense financial duress the company has faced the last several months and the increasingly uncertain future that lies ahead if AMC can't find new ways to make cash.
+<a href='https://www.theverge.com/2020/11/2/21545812/amc-theaters-financial-earnings-q3-bankruptcy-streaming-warner-bros-disney-regal'> Source <a/>

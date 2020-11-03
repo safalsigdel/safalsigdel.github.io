@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-We've been waiting months to see what next-gen games and ray tracing will truly look like on the Xbox Series X. Today, we're getting a first good look at the next-gen Xbox's ray-tracing capabilities, thanks to Watch Dogs: Legion. Set in London, the game includes drones, self-driving cars, and lots of historical sites to explore.
-<a href='https://www.theverge.com/2020/10/30/21542264/xbox-series-x-ray-tracing-watch-dogs-legion-4k-video-gameplay'> Source <a/>

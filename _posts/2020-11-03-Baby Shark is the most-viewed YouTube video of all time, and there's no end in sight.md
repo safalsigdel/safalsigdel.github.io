@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T1C474Eo-UA9HwFyCeOLCb507Ts=/0x0:881x400/1200x0/filters:focal(0x0:881x400):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22008124/wikipedia_graphic_most_viewed_video_curves.jpg' width='700px' /><br/>
+“Baby Shark” has now crossed 7.043 billion views — which officially makes the kid-friendly, adult-terrorizing earworm the most-watched YouTube video ever. It's been over three years since Luis Fonsi and Daddy Yankee's “Despacito” took that crown, but parents won't be surprised to see the music industry's greatest hit laid low by the Pinkfong empire: we've been taking 2020 one day and one video at a time.
+<a href='https://www.theverge.com/21546350/baby-shark-youtube-video-most-popular-despacito-masha'> Source <a/>

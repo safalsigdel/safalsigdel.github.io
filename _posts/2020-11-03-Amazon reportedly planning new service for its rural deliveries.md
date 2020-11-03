@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5oaKE5HJ1MKzckHVRTdtx336dvU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67728119/acastro_181114_1777_amazon_hq2_0002.0.jpg' width='700px' /><br/>
+Amazon may be looking to handle its own deliveries to rural areas rather than relying on the US Postal Service, according to several job postings, The Information reported on Monday.
+<a href='https://www.theverge.com/2020/11/2/21546389/amazon-postal-service-rural-deliveries'> Source <a/>

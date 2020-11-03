@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2KVixHBzEI17N5WXbyzIMBV8mFE=/0x0:900x417/1200x800/filters:focal(378x137:522x281)/cdn.vox-cdn.com/uploads/chorus_image/image/67717573/Twitter-block.0.0.jpg' width='700px' /><br/>
-Rupert Murdoch's tabloid The New York Post is back on Twitter, after Twitter updated its policy on policy changes. This story is going to be confusing, but not as confusing as Twitter's attempts at moderation.
-<a href='https://www.theverge.com/2020/10/30/21542801/twitter-lifts-ny-post-ban-policy-changes'> Source <a/>

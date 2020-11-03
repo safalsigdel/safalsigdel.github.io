@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xDZlar58qKwzMBS8aDcDJiJX4qY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67716843/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-TikTok got another reprieve from the Trump administration's attempted ban today, as a federal judge in Pennsylvania blocked the government from moving ahead with restrictions that would have effectively shut down the app next month.
-<a href='https://www.theverge.com/2020/10/30/21542641/tiktok-ban-commerce-department-blocked-november-12-influencers'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TAcak2zZwOVa-qRzlN9mNFIMlQc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67728402/acastro_190926_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
+The pandemic has taken many things from the world — but mostly it's stolen events. Every hang is a potential death sentence. Thankfully, Twitch, at least, has gone virtual: it announced today that its flagship conference, TwitchCon, will be happening online this year. Oh, and it's not called TwitchCon. It's now GlitchCon, and it's happening on November 14th.
+<a href='https://www.theverge.com/2020/11/2/21546694/twitch-virtual-twitchcon-glitchcon-date'> Source <a/>

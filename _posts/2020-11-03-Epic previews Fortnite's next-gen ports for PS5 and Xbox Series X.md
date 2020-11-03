@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_c5dJSQPm0IX5jAdbnIYU2gsRas=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67726089/vpavic_4261_20201023_0068.0.jpg' width='700px' /><br/>
+Epic on Monday revealed new information about what performance benefits Fortnite players should expect day one if playing the game on the new PlayStation 5 or Xbox Series X / S consoles, all of which launch next week. We already knew some of these — specifically the 4K and 60 frames per second targets — but Epic is also detailing some behind-the-scenes upgrades the new hardware should allow for.
+<a href='https://www.theverge.com/2020/11/2/21545910/epic-fortnite-ps5-xbox-series-x-enhancements-benefits-new-features'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GrSpP5XT3i0ZqgM89tnZIgFXnRw=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/67726524/MagsafeFamilyview3.0.jpg' width='700px' /><br/>
+Moment has announced its first range of products to work with MagSafe, the new magnetic accessory system built into Apple's 2020 iPhones. The line includes cases and a broad selection of mounts that'll let you attach a variety of things to your iPhone 12, or your iPhone 12 to a variety of things.
+<a href='https://www.theverge.com/2020/11/2/21545486/moment-magsafe-iphone-12-case-mount-announced'> Source <a/>

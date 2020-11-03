@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qei-K7a8hkTQfvL5O-HiG_SZas4=/0x0:5195x3463/1200x800/filters:focal(2183x1317:3013x2147)/cdn.vox-cdn.com/uploads/chorus_image/image/67727110/1223643229.0.jpg' width='700px' /><br/>
+Anthony Fauci is probably one of the most recognizable faces of the coronavirus pandemic in the US. So when a public health expert needed a way to measure how her students were coping with all of the stresses of 2020, she created a chart to gauge their “level of Fauci.”
+<a href='https://www.theverge.com/2020/11/2/21545725/fauci-tufts-chart-mood-coronavirus-medicine'> Source <a/>

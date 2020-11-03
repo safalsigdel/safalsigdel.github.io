@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mFGkM1AmaNHLxkVkwhZr7oEjGiw=/0x0:2040x1148/1200x800/filters:focal(1257x398:1583x724)/cdn.vox-cdn.com/uploads/chorus_image/image/67716411/vpavic_4261_20201023_0058.0.jpg' width='700px' /><br/>
-Earlier today, Ubisoft released its own backward compatibility list to point out which older PS4 games won't run on the PS5. Instead of sharing that list at Sony's website, Ubisoft flagged the titles on its own website — but it appears that list may have been inaccurate, and the company has now taken it down.
-<a href='https://www.theverge.com/2020/10/30/21542393/ubisoft-ps5-backward-comptability-ps4-games-support'> Source <a/>

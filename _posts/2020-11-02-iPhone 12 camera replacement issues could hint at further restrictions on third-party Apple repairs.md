@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gEGg9Gp59nsRiqnSIIv00x5ApAk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67716777/vpavic_4243_20201017_0044.0.0.jpg' width='700px' /><br/>
-Apple's latest iPhone 12 smartphone appears to be even more difficult for third-party companies to repair, according to a report from iFixit. Specifically, the new phone appears to run into issues if a user replaces the camera module, which renders the cameras almost totally unusable.
-<a href='https://www.theverge.com/2020/10/30/21542242/apple-iphone-12-third-party-repairs-ifixit-camera-module-replacement'> Source <a/>

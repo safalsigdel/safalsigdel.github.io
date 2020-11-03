@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VvqB3AZSG2kfufBokyuuTtMCw0g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67725059/cfaulkner_200514_4023_006.0.0.jpg' width='700px' /><br/>
+Music can be said to be the universal language: while our tastes in tunes may differ, there are few people who don't have their own favorite songs to listen to. New technologies have increased the quality of that music — however, we can't all afford the types of speakers and headphones that offer the most superior sound.
+<a href='https://www.theverge.com/21528395/cheap-speakers-headphones-earbuds-budget-razer-sony-beats'> Source <a/>

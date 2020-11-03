@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yTcLXbed5Kc-p9IjQZqMg7RNP50=/0x0:4000x2855/1200x800/filters:focal(1743x964:2383x1604)/cdn.vox-cdn.com/uploads/chorus_image/image/67717634/Playdate_model_shot.0.jpg' width='700px' /><br/>
-You'll have to wait a bit longer for Panic's odd little handheld: In an update published today, the company announced that Playdate will slip from its original 2020 window and now ship in early 2021.
-<a href='https://www.theverge.com/2020/10/30/21542841/playdate-games-handheld-panic-delay-2021'> Source <a/>

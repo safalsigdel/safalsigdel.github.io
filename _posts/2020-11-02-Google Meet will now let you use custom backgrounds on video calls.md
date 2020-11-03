@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fi3cJdAMgez-NqbPZWxK1kdBOEM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67718858/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
-Google is introducing custom backgrounds for its Meet videoconferencing platform, the company announced in a blog post. If you use Meet in Google's Chrome browser you should be able to access the feature in Chrome OS as well as on Windows and Mac laptops and desktops. The feature is “coming soon” to mobile, Google says.
-<a href='https://www.theverge.com/2020/10/31/21543261/google-meet-custom-backgrounds-video-calls-zoom'> Source <a/>

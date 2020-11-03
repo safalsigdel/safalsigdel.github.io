@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4Df_HS-B6BEHd1j5u5jR6b9e2q4=/0x0:6000x4000/1200x800/filters:focal(3199x1360:4159x2320)/cdn.vox-cdn.com/uploads/chorus_image/image/67726949/a7c1c366gy1gkb7gekgouj24mo334nph.0.jpg' width='700px' /><br/>
+OnePlus has revealed a wild-looking Cyberpunk 2077-themed 8T, and it looks radically different from the standard OnePlus 8T. Disappointingly, though, the Cyberpunk 2077-themed phone is only available to preorder in China at the moment, where it costs CNY 3,999 (a little less than $600).
+<a href='https://www.theverge.com/2020/11/2/21546013/oneplus-cyberpunk-2077-8t-big-camera-module'> Source <a/>
