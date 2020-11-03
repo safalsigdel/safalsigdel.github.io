@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lygiQYzlm0U3_KzZNA43eAvfhBA=/0x0:902x507/1200x800/filters:focal(379x182:523x326)/cdn.vox-cdn.com/uploads/chorus_image/image/67730038/image001.0.jpg' width='700px' /><br/>
+WhatsApp has redesigned its storage management tool, making it easier for users to find and delete files that are taking up too much space on their phone. The new tool will be “rolling out to users worldwide this week,” says the Facebook-owned company, and will be available in the app by heading to Settings > Storage and data > Manage storage.
+<a href='https://www.theverge.com/2020/11/3/21547298/whatsapp-storage-space-bulk-delete-management-tool'> Source <a/>

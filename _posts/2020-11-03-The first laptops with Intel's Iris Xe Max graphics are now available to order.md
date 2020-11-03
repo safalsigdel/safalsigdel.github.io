@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d3xFGMGHRCsT-xCfncxZBgqlozQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67719362/mchin_190110_4241_0005.0.0.jpg' width='700px' /><br/>
-Earlier this month, the public got its first glimpse of Iris Xe Max, Intel's new discrete GPU for thin-and-light laptops, at an Acer press event. Today, Intel revealed the full first wave of laptops that will include this GPU, some of which are available for purchase now in certain countries.
-<a href='https://www.theverge.com/2020/10/31/21542700/intel-iris-ex-max-discrete-graphics-gpu'> Source <a/>
