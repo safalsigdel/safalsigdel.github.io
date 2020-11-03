@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Have you voted? That's really important. Go do that, if you haven't already. These deals will be here when you get back.
+<a href='https://www.theverge.com/good-deals/2020/11/3/21547463/samsung-galaxy-buds-live-wireless-earbuds-fifa-21-ps5-xbox-series-x-razer-pc-gaming'> Source <a/>

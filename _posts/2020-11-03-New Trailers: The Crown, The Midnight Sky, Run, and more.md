@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_zdUk733UwRvKLySHAe_DA5NI-E=/0x0:1341x918/1200x800/filters:focal(564x352:778x566)/cdn.vox-cdn.com/uploads/chorus_image/image/67723279/mg_thatcher2.0.jpg' width='700px' /><br/>
-I have only watched the new episode of The Mandalorian once (so far) but it is so great to have this fun, nerdy show back. I won't spoil anything but it was A) nice to see The Baby aka Baby Yoda aka my green son, B) nice to see Timothy Olyphant and C) great to see the coolest show on streaming is still very, very cool. Check out the review of the first episode here, and look for weekly Friday recaps of new episodes on The Verge.
-<a href='https://www.theverge.com/2020/11/1/21542154/new-trailers-crown-midnight-sky-run-wayne-netflix-hulu-amazon'> Source <a/>

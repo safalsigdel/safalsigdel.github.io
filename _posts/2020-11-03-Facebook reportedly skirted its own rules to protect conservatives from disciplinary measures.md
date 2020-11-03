@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8Nj25J7FSvCKXYHPHeboscXlVwY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67722627/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-Over the past several months, conservative groups— including associates of President Trump— were often not penalized by Facebook for violating its rules because people at the company worried about the perception of anti-conservative bias, The Washington Post reported.
-<a href='https://www.theverge.com/2020/11/1/21544501/facebook-rules-protect-conservatives-instagram-bias-discipline'> Source <a/>

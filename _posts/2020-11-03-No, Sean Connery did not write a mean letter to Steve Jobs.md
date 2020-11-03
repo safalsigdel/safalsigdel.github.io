@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bPdCmrV0pjfYR3U2QPUKYeeaW_c=/0x0:3000x1987/1200x800/filters:focal(1260x754:1740x1234)/cdn.vox-cdn.com/uploads/chorus_image/image/67722592/51937382.jpg.0.jpg' width='700px' /><br/>
-A fake letter from Sean Connery to Apple co-founder Steve Jobs is making the rounds on social media following the actor's death on Saturday. Just to reiterate: it's fake, the product of humor site Scoopertino, which posts satirical articles about Apple and goings-on at its Cupertino (get it that's the name) headquarters.
-<a href='https://www.theverge.com/2020/11/1/21544566/sean-connery-fake-mean-letter-steve-jobs-apple'> Source <a/>

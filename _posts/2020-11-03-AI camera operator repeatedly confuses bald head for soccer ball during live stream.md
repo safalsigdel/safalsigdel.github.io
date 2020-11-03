@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+AI researchers sometimes refer to machine learning technology as “brittle.” By this, they mean that artificial intelligence lacks a human's understanding of real world complexities, with the end result being that AI systems sometimes break in quick and unexpected ways.
+<a href='https://www.theverge.com/tldr/2020/11/3/21547392/ai-camera-operator-football-bald-head-soccer-mistakes'> Source <a/>
