@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t1CYXRZByxU0BTn4rmgjWjKCMsw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67735381/acastro_180730_1777_facial_recognition_0002.0.jpg' width='700px' /><br/>
+Portland, Maine has passed a ballot initiative banning the use of facial recognition by police and city agencies. The Bangor Daily News is reporting that voters have passed a ballot initiative bolstering a ban on facial recognition by city agencies.
+<a href='https://www.theverge.com/2020/11/4/21536892/portland-maine-facial-recognition-ban-passed-surveillance'> Source <a/>
