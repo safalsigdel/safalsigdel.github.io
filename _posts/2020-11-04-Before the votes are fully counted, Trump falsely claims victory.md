@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FT5-hOV-q8j5jMwpXQClbG6D4u4=/0x0:3903x2602/1200x800/filters:focal(1640x989:2264x1613)/cdn.vox-cdn.com/uploads/chorus_image/image/67735454/1283817406.0.jpg' width='700px' /><br/>
+President Donald Trump prematurely claimed victory in the 2020 election early Wednesday morning, telling a live TV audience that he'd already won — while also threatening to take legal action against votes that have yet to be counted, even though many states are continuing to process legitimate mail-in ballots.
+<a href='https://www.theverge.com/2020/11/4/21548758/2020-election-trump-false-claim-win-supreme-court'> Source <a/>
