@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W6IkcJSz3OjuCh137dWqgpspVhU=/0x0:4000x2424/1200x800/filters:focal(1680x892:2320x1532)/cdn.vox-cdn.com/uploads/chorus_image/image/67728501/1228920855.0.jpg' width='700px' /><br/>
-The COVID-19 exposure notification app used in England and Wales failed to warn users if they were in close contact with potentially infectious COVID-19 patients. Because of the error, thousands of people were not told to quarantine even when they should have been, according to the Sunday Times, which first reported the flaw.
-<a href='https://www.theverge.com/2020/11/2/21546618/uk-coronavirus-contact-tracing-app-error-alert-isolation'> Source <a/>
