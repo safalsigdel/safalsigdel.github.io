@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/ELvW7Wa32KwuziburSreFeFYmQE=/0x0:4000x2678/1200x800/filters:focal(1680x1019:2320x1659)/cdn.vox-cdn.com/uploads/chorus_image/image/67735433/1228964768.0.jpg' width='700px' /><br/>
-California voters approved Prop. 22, the ballot measure supported by $200 million in campaign funds, which would exempt companies such as Uber and Lyft from having to classify their workers as employees, according to The Associated Press.
+California voters approved Prop. 22, which would exempt companies such as Uber and Lyft from having to classify their workers as employees, according to The Associated Press. The $200 million campaign in support of the measure was the most expensive in state history.
 <a href='https://www.theverge.com/2020/11/4/21546037/prop-22-california-uber-lyft-ballot-measure-result'> Source <a/>
