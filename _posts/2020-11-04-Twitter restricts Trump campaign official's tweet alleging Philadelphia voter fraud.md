@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z1jK_c74xmP_H4_qPeYzPTGeegg=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/67733975/1283742952.0.jpg' width='700px' /><br/>
+Twitter is warning users about misleading tweets from Philadelphia's polling locations, offering an early preview of how it will handle the rest of the night. The platform has already restricted a tweet from Trump's director of election day operations, Mike Roman, among others.
+<a href='https://www.theverge.com/2020/11/3/21548274/twitter-restrict-mike-roman-philadelphia-voting-misinformation-claims-trump'> Source <a/>

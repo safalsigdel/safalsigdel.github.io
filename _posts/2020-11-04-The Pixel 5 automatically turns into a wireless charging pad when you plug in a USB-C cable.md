@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+The Pixel 5 is one of several flagship phones to offer a reverse wireless charging feature, but Google's done something particularly clever with its implementation of the feature here: whenever you plug in a USB-C cable, your Pixel 5 will automatically turn on its reverse wireless charging feature, effectively turning it into a Qi charging pad, as spotted by 9to5Google.
+<a href='https://www.theverge.com/circuitbreaker/2020/11/3/21548318/google-pixel-5-wireless-charging-pad-qi-automatic-battery-share'> Source <a/>

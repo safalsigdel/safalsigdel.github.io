@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XpR5mRE3QnFjFfFVMZVXZy4phNY=/98x117:931x650/1200x800/filters:focal(404x311:556x463)/cdn.vox-cdn.com/uploads/chorus_image/image/67734523/Screen_Shot_2020_11_03_at_12.18.50_PM.0.png' width='700px' /><br/>
+Physicists from Leiden University have 3D-printed a miniature version of an Intrepid-class starship from Star Trek (via PC Gamer). The idea of a tiny starship is probably something you haven't considered outside of the plot of a Star Trek episode, but this microscopic model is actually part of a larger research experiment the physicists published in the scientific journal Soft Matter.
+<a href='https://www.theverge.com/2020/11/3/21548150/microscopic-3d-printed-star-trek-microswimmer'> Source <a/>

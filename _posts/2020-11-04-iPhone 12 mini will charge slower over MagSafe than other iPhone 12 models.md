@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9BM6xLknYrrk8A9Kmqm6dDCI2N0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67732025/vpavic_4243_20201018_0154.0.0.jpg' width='700px' /><br/>
+Apple's upcoming iPhone 12 mini will charge slower over the company's new MagSafe wireless charger than the other iPhone 12 models, according to a newly updated Apple support document (via MacRumors).
+<a href='https://www.theverge.com/2020/11/3/21547728/apple-iphone-12-mini-magsafe-wireless-charging-speed-slower'> Source <a/>

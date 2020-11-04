@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pIDAODmaYLZIzsRq0p8JJiOlRvg=/0x0:1406x1236/1200x800/filters:focal(591x506:815x730)/cdn.vox-cdn.com/uploads/chorus_image/image/67726647/Untitled.0.png' width='700px' /><br/>
-Apple has announced a “One More Thing” event for November 10th, which will presumably see the company announce its first Arm-based Macs that run on Apple Silicon chips instead of the Intel processors the company has used since 2005.
-<a href='https://www.theverge.com/2020/11/2/21546136/apple-event-date-time-november-10th-one-more-thing-arm-mac-silicon'> Source <a/>

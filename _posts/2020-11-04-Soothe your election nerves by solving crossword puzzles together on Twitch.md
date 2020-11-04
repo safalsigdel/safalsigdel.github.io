@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Today is Election Day and I am definitely anxious. But I have felt a physical sense of relaxation while watching this Twitch stream of people in the chat solving New York Times crossword puzzles together.
+<a href='https://www.theverge.com/tldr/2020/11/3/21548163/twitch-crossword-puzzle-solve-together-nyt'> Source <a/>
