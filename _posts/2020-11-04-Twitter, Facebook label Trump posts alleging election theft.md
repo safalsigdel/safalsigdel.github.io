@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3rbzWigM2ESb0SmHMRLdWRsHeAY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67735359/acastro_200715_1777_twitter_0003.0.0.jpg' width='700px' /><br/>
+Twitter has placed sharing restrictions on a tweet from President Donald Trump, setting up a high-profile standoff between the president and the platform in the aftermath of Election Day. Facebook has added labels to the president's posts, saying the final vote count isn't in yet.
+<a href='https://www.theverge.com/2020/11/4/21548736/twitter-facebook-throttle-trump-tweet-election-theft'> Source <a/>
