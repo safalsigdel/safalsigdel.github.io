@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vNzAUvUTBu_R-9Ou0qiqHHN9H-U=/0x0:3620x2343/1200x800/filters:focal(1521x883:2099x1461)/cdn.vox-cdn.com/uploads/chorus_image/image/67731216/1142125645.jpg.0.jpg' width='700px' /><br/>
-Waymo is pulling its autonomous vehicles out of San Francisco in anticipation of Election Day unrest, The Verge has learned.
-<a href='https://www.theverge.com/2020/11/3/21547323/waymo-self-driving-cars-suspend-testing-san-francisco-election'> Source <a/>

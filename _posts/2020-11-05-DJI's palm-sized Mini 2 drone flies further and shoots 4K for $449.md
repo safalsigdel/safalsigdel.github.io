@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Mg4SgUljsgZq4LVxOCRFrVfogkM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67740037/mavic_mini_2_folded.0.jpg' width='700px' /><br/>
+Last year's DJI Mavic Mini might have been the smallest and lightest full-featured drone on the market, but it was also a little compromised out of the gate. Today, the DJI Mini 2 — don't call it a Mavic — is addressing some of its limitations.
+<a href='https://www.theverge.com/2020/11/4/21550181/dji-mavic-mini-2-drone-4k-price-release-date-battery-life'> Source <a/>

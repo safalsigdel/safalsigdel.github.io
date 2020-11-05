@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7EQXh1YEsq6ugr9NskvKmm9v6Y4=/0x0:592x444/1200x800/filters:focal(249x175:343x269)/cdn.vox-cdn.com/uploads/chorus_image/image/67731408/iphone_teardown.0.jpeg' width='700px' /><br/>
-In the recent teardown of the iPhone 12 by iFixit, it was found that the new phone runs into some issues if a user replaces the camera module, basically rendering the cameras on the device unusable if not replaced by an Apple-authorized repair provider.
-<a href='https://www.theverge.com/21546575/iphone-12-repairability-ifixit-interview-kyle-wiens-kay-kay-clapp-vergecast-podcast-interview'> Source <a/>

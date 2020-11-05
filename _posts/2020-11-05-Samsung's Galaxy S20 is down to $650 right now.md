@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Samsung's Galaxy S20 and S20 Plus are down to the lowest prices yet at Microsoft's eBay Store. This brings the prices down to $650 and $800, respectively. These prices are for the unlocked versions and are compatible with all of the major networks in the US. Both also come with a full US warranty.
+<a href='https://www.theverge.com/good-deals/2020/11/4/21549679/samsung-galaxy-s20-plus-unlocked-ebay-deal-sale'> Source <a/>

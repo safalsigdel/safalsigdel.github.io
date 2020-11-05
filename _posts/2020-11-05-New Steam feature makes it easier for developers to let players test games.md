@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AztycAklL156JCR_cQsrOECwr30=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/67738966/acastro_180509_1777_steam_0001.0.0.jpg' width='700px' /><br/>
+Valve is adding a feature to Steam to let developers invite people to test their games right from the Steam client without needing a beta key. The new feature, called Steam Playtest, will let interested testers click a button in a game's listing on the Steam store to request access and be added to a queue.
+<a href='https://www.theverge.com/2020/11/4/21549625/steam-playtest-developers-invite-players-test-games'> Source <a/>

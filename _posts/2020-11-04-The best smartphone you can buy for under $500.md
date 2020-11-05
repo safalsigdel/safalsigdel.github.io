@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y_U90wsjTJuCpxLOYGZzT6_yoPo=/0x0:2040x1360/1200x675/filters:focal(877x755:1203x1081)/cdn.vox-cdn.com/uploads/chorus_image/image/67732463/vpavic_200805_4131_0086_1.0.jpg' width='700px' /><br/>
-Buying a smartphone for under $500 is a lesson in setting priorities. It's impossible to buy a phone that does everything at this price point, but luckily you will be able to buy a great phone that does the things that matter the most to you.
-<a href='https://www.theverge.com/21420196/best-budget-smartphone-cheap'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XpNM6DF1lB9WJKyVXXv8wQKFXSU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67737432/acastro_191108_1777_t-mobile_0001.0.0.jpg' width='700px' /><br/>
+T-Mobile will pay $200 million to end an investigation by the Federal Communications Commission into misuse of funds from its low-income phone and internet subsidy program. The commission says the payment represents the “largest fixed-amount settlement” it's ever secured to resolve an investigation.
+<a href='https://www.theverge.com/2020/11/4/21549299/fcc-tmobile-lifeline-phone-subsidies-misuse-settlement'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CwQFc3o-x-X7zLAv39TrpJ_xus8=/0x0:949x494/1200x800/filters:focal(400x172:550x322)/cdn.vox-cdn.com/uploads/chorus_image/image/67733655/1.0.jpeg' width='700px' /><br/>
-Natural Cycles, the first “digital birth control” to get sign-off from the Food and Drug Administration, is back. This time, it's asking the agency to authorize integration with wearable devices like the Oura Ring. The feature could make it easier for users to use the app properly, but it doesn't sidestep some of the existing issues with app-based birth control.
-<a href='https://www.theverge.com/2020/11/3/21548201/natural-cycles-oura-digital-wearable-birth-control-fda'> Source <a/>

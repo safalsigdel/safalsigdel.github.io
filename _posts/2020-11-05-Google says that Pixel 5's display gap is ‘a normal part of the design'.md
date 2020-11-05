@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6F411x38gGXGIvJUzVtW2t4Sd_g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67738786/akrales_201012_4137_0132.0.0.jpg' width='700px' /><br/>
+Google has weighed in on concerns from new Pixel 5 owners over a visible gap between the display and the body of the phone, with the company confirming in a support thread that the gap is “a normal part of the design of your Pixel 5,” and therefore not something to be concerned about.
+<a href='https://www.theverge.com/2020/11/4/21549778/google-pixel-5-display-gap-issue-normal-design'> Source <a/>

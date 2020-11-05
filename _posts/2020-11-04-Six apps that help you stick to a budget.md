@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6_2sKBZJDCZhZlfy8GbgNdw9BYo=/0x0:1024x691/1200x800/filters:focal(431x265:593x427)/cdn.vox-cdn.com/uploads/chorus_image/image/67730373/cash-atm-money.0.jpg' width='700px' /><br/>
-In these days of furloughs, layoffs, and shortened hours, when many people are struggling to pay their rent, figure out how to manage their bills, and looking askance at their college loans, it can help to have a solid financial app to assess your situation, create a budget, figure out exactly what you can (or can't) afford, work with those pesky and confusing figures, find a better way to save, or just keep from panicking.
-<a href='https://www.theverge.com/21538137/budget-apps-mint-buxfer-ynab-google-sheets'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wyWquH-qzDt39Q6btWvecJwQJE8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67730392/mchin_181113_4146_0005.0.0.jpg' width='700px' /><br/>
-If you're now working at home, if your kids are now learning at home, if you're just stuck at home and looking for a good computing experience, you may be in the market for a new laptop. Unfortunately — especially for those who need to watch their pennies — tech isn't cheap. But take heart: there is actually a lot of tech out there that will provide a great experience but won't cost you as much as you'd imagine.
-<a href='https://www.theverge.com/21528540/budget-windows-10-chromebook-systems-acer-lenovo-cheap'> Source <a/>

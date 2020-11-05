@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EKkse7YaViolPQh5Uy_jBMuw7Ac=/0x0:3000x2209/1200x800/filters:focal(1260x865:1740x1345)/cdn.vox-cdn.com/uploads/chorus_image/image/67731594/1205412915.0.jpg' width='700px' /><br/>
-With one off-the-cuff tweet last month, Rep. Alexandria Ocasio-Cortez (D-NY) proved how much politics had changed throughout the 2020 election.
-<a href='https://www.theverge.com/21547674/2020-election-aoc-bernie-sanders-among-us-twitch-markey-progressive-organizing-online'> Source <a/>
