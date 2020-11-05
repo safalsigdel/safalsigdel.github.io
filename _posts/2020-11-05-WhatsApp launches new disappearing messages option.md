@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tLq-0mMDQL8agoHmsgQKBd2lyyI=/0x0:902x506/1200x800/filters:focal(379x181:523x325)/cdn.vox-cdn.com/uploads/chorus_image/image/67740951/image001.0.jpg' width='700px' /><br/>
+WhatsApp is introducing a new disappearing messages option this month. The feature will allow WhatsApp users to enable disappearing messages on chat conversations between friends, to automatically delete messages after seven days. Anyone can enable the option in individual chats, and group admins will be able to enable disappearing messages in group chats.
+<a href='https://www.theverge.com/2020/11/5/21550634/whatsapp-disappearing-messages-feature'> Source <a/>

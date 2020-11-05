@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wTdKEKMvxA3kFW7B5LAGu6jDvZI=/0x0:2040x1360/1200x800/filters:focal(834x587:1160x913)/cdn.vox-cdn.com/uploads/chorus_image/image/67740911/akrales_190820_3597_0009.0.jpg' width='700px' /><br/>
+Nintendo shipped 6.86 million Switch consoles between July and September, increasing its numbers by more than 40 percent year-on-year and reaching 68.3 million units sold since its launch in 2017. That's impressive growth for the company, since this quarter last year was a strong one — it saw the launch of the cheaper Switch Lite variant, boosting Nintendo's shipments by more than 50 percent on 2018.
+<a href='https://www.theverge.com/2020/11/5/21550621/nintendo-earnings-q2-2020-switch-sales'> Source <a/>
