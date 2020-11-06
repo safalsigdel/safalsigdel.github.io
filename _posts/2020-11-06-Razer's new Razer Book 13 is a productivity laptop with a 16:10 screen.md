@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nnWCwdJNQqtypSRgwbFh6ZHDI28=/0x0:6643x4972/1200x800/filters:focal(2791x1955:3853x3017)/cdn.vox-cdn.com/uploads/chorus_image/image/67742382/Razer_Book_13___Key_Visual.0.jpg' width='700px' /><br/>
-Razer, best known for its gaming PCs and accessories, has announced the Razer Book 13, a new laptop for business and productivity. You'll be able to buy it sometime in November, starting at $1,199.99.
-<a href='https://www.theverge.com/2020/11/5/21549504/razer-book-13-laptop-intel-tiger-lake-screen-price'> Source <a/>
