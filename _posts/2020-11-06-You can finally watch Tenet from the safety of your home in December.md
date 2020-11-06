@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3rh4DnoOXQi0kcfF0JeK2x79aRs=/0x0:1200x680/1200x800/filters:focal(504x244:696x436)/cdn.vox-cdn.com/uploads/chorus_image/image/67743931/tenet_2.0.jpg' width='700px' /><br/>
+Christopher Nolan's Tenet, the big-budget time-bending thriller that arrived during the pandemic to lackluster domestic box office numbers, is scheduled for a home release on December 15th, Warner Bros. Pictures announced on Thursday.
+<a href='https://www.theverge.com/2020/11/5/21551390/tenet-home-release-date-dvd-blu-ray-digital-nolan'> Source <a/>

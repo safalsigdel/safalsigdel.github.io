@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4I-WCh3z4adHpzwL1J-_VlCHqs0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67740713/vpavic_200616_4067_0010.0.jpg' width='700px' /><br/>
-Amazon is hosting a mini-sale right now on most of its Fire tablets with up to $70 in potential savings available through November 8th. The tablets discounted here are all ad-supported, which means they will display sponsored screensavers on the tablet's lock screen.
-<a href='https://www.theverge.com/good-deals/2020/11/5/21549235/amazon-fire-hd-tablet-sale-deal'> Source <a/>

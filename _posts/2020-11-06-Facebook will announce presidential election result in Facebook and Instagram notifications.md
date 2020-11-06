@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2NWwN-q1bKQwYEqe4dIhDCmE2tM=/0x0:524x480/1200x800/filters:focal(221x199:303x281)/cdn.vox-cdn.com/uploads/chorus_image/image/67746082/facebook_winner_2.0.jpg' width='700px' /><br/>
+Facebook plans to put the name of the winner of the US presidential election at the top of Facebook and Instagram once it's been projected by a majority of media outlets, the company says. The company also will label presidential candidates' posts with a link to its voting information center, according to Facebook spokesperson Tom Reynolds.
+<a href='https://www.theverge.com/2020/11/5/21552064/facebook-election-winner-instagram-notification-president-trump-biden'> Source <a/>

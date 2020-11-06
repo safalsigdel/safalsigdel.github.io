@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xm6mnMqEdl6hM0xPuC2NzSi3W8o=/0x0:2040x1360/1200x800/filters:focal(1065x404:1391x730)/cdn.vox-cdn.com/uploads/chorus_image/image/67743402/vpavic_180607_2652_0089.0.jpg' width='700px' /><br/>
+Fortnite might come back to iPhones and iPads later this year, but not quite the way you're used to. The BBC reports that Fortnite will be available to play through Nvidia's cloud gaming service, GeForce Now. The service hasn't been announced for iOS yet, but the BBC reports an announcement is expected before the holidays.
+<a href='https://www.theverge.com/2020/11/5/21551152/fortnite-nvidia-geforce-now-game-streaming-to-iphone-ipad'> Source <a/>

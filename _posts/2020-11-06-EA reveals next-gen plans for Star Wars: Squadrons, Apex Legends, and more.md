@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HwBiY8mPxgF_e8PZebpFUEVoerw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67742822/vpavic_4261_20201023_0084.0.jpg' width='700px' /><br/>
+Electronic Arts has confirmed details on how some of its most popular titles will perform on the PlayStation 5, Xbox Series X, and Xbox Series S when the next-generation consoles launch next week. Games including FIFA 21, The Sims 4, and Apex Legends will all get varying degrees of performance boosts when running on the new hardware, either through free upgrades or simple backward compatibility.
+<a href='https://www.theverge.com/2020/11/5/21550637/star-wars-squadrons-apex-legends-madden-fifa-next-gen-updates'> Source <a/>

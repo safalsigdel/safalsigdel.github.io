@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-l8hqsMsn5Kgithf6SoyTsr_3qs=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/67741210/EVBr3e7UwAAFMRN.0.0.jpeg' width='700px' /><br/>
-Hello again, friends. The Processor newsletter is back after a not-so-brief hiatus caused by the absolutely frenetic pace of hardware reviews this fall and a special run of Vergecast podcast episodes about those reviews. I'm really proud of those podcasts and if you haven't caught them, I think it's worth going back to give them a listen.
-<a href='https://www.theverge.com/2020/11/5/21550150/ps5-controller-magsafe-iphone-12-pixel-reverse-wireless-charging'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/prb_Y8YF2Z05h1LAmqFfQNoCTa8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67744255/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+As of Thursday morning, a huge Facebook group called “Stop the Steal” was organizing rallies and fundraising to challenge election results across the US. The group accumulated more than 300,000 members in the less than 48 hours it existed before Facebook removed it on Thursday afternoon.
+<a href='https://www.theverge.com/2020/11/5/21551551/facebook-stop-the-steal-group-misinformation-election-2020'> Source <a/>

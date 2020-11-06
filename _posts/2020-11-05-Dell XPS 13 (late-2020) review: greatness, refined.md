@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GSy-B6kF9GT0LH0Jmat771TSetU=/0x0:2040x1360/1200x675/filters:focal(893x647:1219x973)/cdn.vox-cdn.com/uploads/chorus_image/image/67736073/mchin_190124_4274_0004.0.0.jpg' width='700px' /><br/>
-This is an easy review. Today, we're looking at the XPS 13 9310, Dell's best-in-class 13-inch ultraportable laptop. It's identical to the Dell XPS 13 9300, which I reviewed back in April, in every way, except one: it has Intel's new 11th Gen Tiger Lake processors.
-<a href='https://www.theverge.com/21546784/dell-xps-13-late-2020-review-design-specs-price-features'> Source <a/>

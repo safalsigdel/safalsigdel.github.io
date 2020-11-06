@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/46GhKDnvVgLOaKnOCeCgexHKuH0=/0x0:5000x3333/1200x800/filters:focal(2265x675:3065x1475)/cdn.vox-cdn.com/uploads/chorus_image/image/67738875/1228229505.0.jpg' width='700px' /><br/>
-GameStop holds an annual conference for its employees, and this year's event includes a rather unnerving TikTok challenge: make the best dance video, and your store can win the privilege of letting employees work for extra hours during Black Friday.
-<a href='https://www.theverge.com/2020/11/4/21549850/gamestop-tiktok-contest-prize-work-hours'> Source <a/>

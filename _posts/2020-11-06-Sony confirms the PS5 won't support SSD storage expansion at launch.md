@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xQCQyPEH1D7hg38zDr1ffTPswX4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67743307/vpavic_4261_20201023_0020.0.jpg' width='700px' /><br/>
+Sony says its PlayStation 5 can load virtual worlds far faster than ever before, thanks to one of the fastest solid-state drives ever made — but it's also not a particularly big drive. Sony has confirmed to The Verge that you won't be able to expand that blazing-fast SSD storage on day one.
+<a href='https://www.theverge.com/2020/11/5/21551165/sony-ps5-playstation-5-no-m2-ssd-expansion-launch'> Source <a/>

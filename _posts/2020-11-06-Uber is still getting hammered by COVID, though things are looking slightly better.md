@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lnYjpRW8mOYwW5_DIpwu8UdqjHg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67744704/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
+Uber is still getting pummeled by COVID-19, as the raging pandemic continues to drag the company's ride-hailing business down. Uber lost $1.1 billion over the last three months, with its adjusted net revenues down 20 percent compared to the third quarter of 2019.
+<a href='https://www.theverge.com/2020/11/5/21551683/uber-q3-2020-earnings-revenue-loss-delivery'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7d7Ow-NrXNwdyXLIJTWMjQ9Shrw=/0x0:1020x573/1200x800/filters:focal(429x206:591x368)/cdn.vox-cdn.com/uploads/chorus_image/image/67735822/phones.0.0.jpg' width='700px' /><br/>
-The excitement of getting a new phone is often tempered by nagging regret. A lot of times, it's not like there was anything really wrong with the old phone (unless there was — a bulging battery or a shattered screen is always a bad look). If it was a breakup, the conversation with an old phone would start, “You're terrific. It's not you. It's me. I just wanted a newer model.”
-<a href='https://www.theverge.com/21542079/phone-reuse-android-iphone-how-to'> Source <a/>

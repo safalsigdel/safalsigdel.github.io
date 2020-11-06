@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9k_FrmrVOFy_2slfW_Ooq-izozg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67739077/acastro_200715_1777_twitter_0003.0.0.jpg' width='700px' /><br/>
-President Donald Trump is prematurely declaring victory in a handful of hotly-contested battleground states via tweets Wednesday, challenging Twitter's rules against making premature election result claims.
-<a href='https://www.theverge.com/2020/11/4/21550017/trump-pennsylvania-premature-victory-twitter-rules-tweets-biden-election-2020'> Source <a/>

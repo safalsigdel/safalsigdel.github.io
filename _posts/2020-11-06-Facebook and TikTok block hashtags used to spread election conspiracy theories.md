@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RR8XmLiOLmRXa5KQJ9ZckPJxk-o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67745270/acastro_181106_1777_flag_0003.0.jpg' width='700px' /><br/>
+Facebook and TikTok have blocked hashtags that were being used to spread misinformation and conspiracy theories about the presidential election. The hashtags generally revolved around unfounded claims that Democrats are trying to manipulate the election to defeat President Trump.
+<a href='https://www.theverge.com/2020/11/5/21551717/facebook-tiktok-block-election-conspiracy-theory-hashtags-twitter-monitoring'> Source <a/>

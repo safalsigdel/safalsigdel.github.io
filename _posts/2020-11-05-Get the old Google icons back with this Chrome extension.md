@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WSF1zComzw6myKHJDayaFOdehlI=/0x0:640x400/1200x800/filters:focal(237x180:339x282)/cdn.vox-cdn.com/uploads/chorus_image/image/67739575/RestoreOldGoogleIcons.0.jpg' width='700px' /><br/>
-Life is in constant flux, but experiencing change during the extremely uncertain time we're all going through is especially maddening. Luckily, you can still eke out some semblance of control in your web browser — this new Chrome extension created by designer Claudio Postinghel lets you replace Google's newly redesigned but confusingly similar icons for the old ones (via Gizmodo).
-<a href='https://www.theverge.com/2020/11/4/21550049/google-icons-restore-old-chrome-extension'> Source <a/>

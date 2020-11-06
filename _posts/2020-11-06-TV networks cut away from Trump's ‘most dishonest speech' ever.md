@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lpN1QCz1XVF2k2t4cr8AJiZHcmA=/0x0:3367x2462/1200x800/filters:focal(1415x962:1953x1500)/cdn.vox-cdn.com/uploads/chorus_image/image/67745912/1284134494.0.jpg' width='700px' /><br/>
+Cable networks, broadcast networks and Twitter cut short their broadcasts of President Donald Trump's speech from the White House briefing room Thursday; some outlets fact-checked the president's unproven statements rather than carry them live.
+<a href='https://www.theverge.com/2020/11/5/21551991/twitter-cable-broadcast-networks-cut-away-trump-speech'> Source <a/>

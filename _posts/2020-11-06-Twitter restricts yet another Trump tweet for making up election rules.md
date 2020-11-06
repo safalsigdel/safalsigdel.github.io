@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SC0N3HBgUAfOsp9RTREVhL9roMQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67742438/acastro_200715_1777_twitter_0001.0.0.jpg' width='700px' /><br/>
+Twitter has taken action against another tweet from President Donald Trump, this time falsely claiming that votes arriving after Election Day are ineligible.
+<a href='https://www.theverge.com/2020/11/5/21550991/twitter-trump-stop-the-vote-tweet-restricted-election-interference'> Source <a/>

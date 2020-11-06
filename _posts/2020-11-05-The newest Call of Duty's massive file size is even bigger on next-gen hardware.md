@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q9XQ1NpNlBbOiVf0krmQ3WQ__8A=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/67738608/call_of_duty_black_ops_cold_war_2.0.jpg' width='700px' /><br/>
-Activision has detailed the file sizes of its upcoming Call of Duty: Black Ops Cold War, releasing across existing consoles and next-gen hardware on November 13th. And in keeping with tradition, the game is massive. Another source of pain is that for buyers of the PlayStation 5 or Xbox Series X/S, the game will take up roughly an additional 40GB of space on your new solid state drive.
-<a href='https://www.theverge.com/2020/11/4/21549814/call-of-duty-cod-black-ops-cold-war-file-size-ps5-xbox-series-x'> Source <a/>

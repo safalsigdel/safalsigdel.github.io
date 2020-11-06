@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xsLQ3QGKJUuvoQJP7QhxVpwfIfc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67746064/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook is seeing an increase in worrying activity around the US election, according to reports from The New York Times and BuzzFeed News. According to BuzzFeed News, which viewed a post on Facebook's internal message board, the company has been tracking a rise in “violence and incitement trends” associated with hashtags and keywords.
+<a href='https://www.theverge.com/2020/11/5/21551906/facebook-election-results-misinformation-violence-incitement-trends'> Source <a/>

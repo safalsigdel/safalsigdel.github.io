@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y75MspP-WGuH0IJ5GxDMOWbx0h4=/0x0:5120x2879/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/67741892/AMD_Ryzen_5000_Series_Lidded_5.0.png' width='700px' /><br/>
+AMD's new Ryzen 5000 line of desktop processors are available now. These are the first chips from the company that include its next-gen Zen 3 architecture.
+<a href='https://www.theverge.com/21549604/amd-ryzen-5000-cpu-processor-where-to-buy-stores-price'> Source <a/>

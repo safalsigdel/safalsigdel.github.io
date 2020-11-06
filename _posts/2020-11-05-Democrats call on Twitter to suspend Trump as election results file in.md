@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/69yp3AMG2WuFc_4YoeXMCWI3IeM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67738675/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
-Democrats are calling on Twitter to suspend President Donald Trump's Twitter account until the election is decided.
-<a href='https://www.theverge.com/2020/11/4/21549859/twitter-suspend-donald-trump-election-votes-misleading-information'> Source <a/>

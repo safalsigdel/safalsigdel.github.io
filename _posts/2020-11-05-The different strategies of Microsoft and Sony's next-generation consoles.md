@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p2TzBeLv7ULGFhni9JcPDX60qGk=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67735867/vpavic_4261_20201026_0176.0.jpg' width='700px' /><br/>
-We're just days away from the next generation of console gaming with the upcoming release of the Xbox Series X / S and the PlayStation 5. And now that we're so close to those launches, we have a pretty good idea of how both companies are approaching this next generation.
-<a href='https://www.theverge.com/2020/11/4/21548077/microsoft-sony-next-generation-consoles-strategies-approaches'> Source <a/>
