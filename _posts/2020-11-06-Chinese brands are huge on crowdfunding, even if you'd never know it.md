@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hQa4tr1hfZstJBMUyRI2Gt1SoMw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67742358/acastro_201103_4250_ITM_0001.0.0.jpg' width='700px' /><br/>
-Jim Fields has seen his fair share of crowdfunding videos — he's made more than a dozen of them for Chinese brands looking to expand abroad — and he knows how to make a not-quite-finished hardware product look like it's ready to go in a video. A drone, for example, that can't actually fly will look like it is when held up with fishing wire.
-<a href='https://www.theverge.com/2020/11/5/21550140/china-creators-brands-international-indiegogo-crowdfunding-launch'> Source <a/>

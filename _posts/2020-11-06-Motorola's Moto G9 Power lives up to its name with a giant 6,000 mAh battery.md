@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zaMha0IKIUOAP9KK35531eBWa5k=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67747008/moto_g9_power.0.jpg' width='700px' /><br/>
+Motorola has announced the Moto G9 Power, a budget handset with one standout feature: a huge 6,000 mAh battery that Motorola claims will deliver up to 60 hours of battery life. It's not the biggest battery we've seen in a device of this caliber (Samsung's  Galaxy M51 has a 7,000 mAh battery, for example) but it's still certifiably chunky.
+<a href='https://www.theverge.com/2020/11/6/21552359/motorola-moto-g9-power-battery-specs-price-availability'> Source <a/>
