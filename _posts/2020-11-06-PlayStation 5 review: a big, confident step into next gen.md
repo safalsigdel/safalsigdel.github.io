@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GPxwjH1DCPzM2_JL4R3uLwJBzPM=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22015304/vpavic_4278_20201030_0247.jpg' width='700px' /><br/>
+A new console generation is usually something you can see. It's measured in pixels and polygons. When we moved from the NES to the Super Nintendo, it wasn't hard to spot the difference between 8- and 16-bit Super Mario games. It was just as clear when games evolved to support 3D worlds and, later, HD graphics. Your eyes told you this was something new. It was obvious. With the PlayStation 5, things aren't so simple.
+<a href='https://www.theverge.com/21550146/sony-playstation-5-ps5-review'> Source <a/>

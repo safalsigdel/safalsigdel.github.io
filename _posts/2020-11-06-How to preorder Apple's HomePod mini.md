@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FengMCZrUVGmyzL_udsFktlHINA=/0x0:1215x756/1200x800/filters:focal(511x281:705x475)/cdn.vox-cdn.com/uploads/chorus_image/image/67747275/lcimg_c994bc29_77a0_44cd_9326_ef6385381f17.0.jpg' width='700px' /><br/>
+Apple announced its second smart speaker to date, the HomePod mini, during its hardware event in October. The device is now available for order for $99. Apple also opened up orders for the iPhone 12 mini and 12 Pro Max, and we've laid out all the best preorder deals for both phones in a separate article.
+<a href='https://www.theverge.com/21550912/apple-homepod-mini-price-how-to-buy'> Source <a/>
