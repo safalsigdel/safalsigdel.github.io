@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C1oNbMf3wFvqplxsK0YIsoNG6Dw=/0x0:2040x1360/1200x800/filters:focal(953x503:1279x829)/cdn.vox-cdn.com/uploads/chorus_image/image/67747040/vpavic_4275_20201030_0050.0.jpg' width='700px' /><br/>
+Something Tom Warren said in today's Vergecast (forthcoming!) has stuck with me: the ideal next-gen gaming console would combine the games and controller from the PS5 with the chiller design and software ecosystem of the Xbox. Couldn't agree more — but in consumer tech, as in all things, you rarely get everything you want.
+<a href='https://www.theverge.com/2020/11/6/21551988/xbox-reviews-microsoft-good-start'> Source <a/>
