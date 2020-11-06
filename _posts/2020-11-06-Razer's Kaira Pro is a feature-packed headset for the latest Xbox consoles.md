@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KWFt6NfMeRgRGBLI6ImORDn__xo=/0x0:4259x2839/1200x800/filters:focal(1790x1080:2470x1760)/cdn.vox-cdn.com/uploads/chorus_image/image/67742383/kairapro1.0.jpg' width='700px' /><br/>
-Razer has announced two wireless gaming headsets that are available starting today, and they're made specifically for the new Xbox Series X, Series S and Xbox One consoles. The $150 Kaira Pro and the $100 Kaira borrow the same drivers from the Blackshark V2 series of headsets, and add some new features to make both models alluring for their respective price points.
-<a href='https://www.theverge.com/2020/11/5/21545683/razer-kaira-pro-xbox-wireless-gaming-headset-series-x-s-one-pc-microsoft-usb-c'> Source <a/>
