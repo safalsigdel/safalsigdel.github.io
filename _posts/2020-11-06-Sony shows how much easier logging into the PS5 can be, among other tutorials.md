@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K2IhigfOD7eawky913DV-BfD1P4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67744209/acastro_200318_1777_ps5_0001.0.jpg' width='700px' /><br/>
-With just a week to go until the PlayStation 5's launch, Sony has shared three new videos to help people set up their new consoles on launch day. The videos not only give us a better look at the console's new UI, but also reveal a few handy features in the PS5's settings.
-<a href='https://www.theverge.com/2020/11/5/21551281/sony-playstation-5-ps5-ui-videos-reveal-login-process-app-qr-code'> Source <a/>

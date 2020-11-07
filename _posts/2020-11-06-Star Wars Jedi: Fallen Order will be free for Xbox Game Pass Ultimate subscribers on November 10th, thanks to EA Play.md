@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pDd2o2jhYizQBN4NVR52R9GbHVE=/0x0:1023x575/1200x800/filters:focal(543x171:705x333)/cdn.vox-cdn.com/uploads/chorus_image/image/67743516/star_wars_jedi_bd_combat_shot.jpg.adapt.crop16x9.575p.0.jpg' width='700px' /><br/>
-EA Play subscribers will get unlimited access to Star Wars Jedi: Fallen Order starting on November 10th, meaning it will also be available for Xbox Game Pass Ultimate subscribers that same day. That just so happens to be the day the Xbox Series X and Series S officially launch, meaning people who pick up Microsoft's next-gen consoles will have one more title to potentially play on day one.
-<a href='https://www.theverge.com/2020/11/5/21551118/star-wars-jedi-fallen-order-xbox-game-pass-ultimate-ea-play'> Source <a/>

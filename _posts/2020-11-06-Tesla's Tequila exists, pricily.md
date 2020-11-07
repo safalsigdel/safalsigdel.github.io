@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Elon Musk has branched out from rockets and cars into booze — as Tesla has launched  Tesla Tequila on its website today. If you have $250 burning a hole in your pocket, you can pick up your very own lightning-shaped bottle.
-<a href='https://www.theverge.com/tldr/2020/11/5/21551970/teslas-tequila-exists-website'> Source <a/>

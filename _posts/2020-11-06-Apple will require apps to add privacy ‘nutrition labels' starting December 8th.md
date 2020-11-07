@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4tJIbA8jAK8TMU9jynB0-Dt8t-M=/0x0:946x608/1200x800/filters:focal(700x345:850x495)/cdn.vox-cdn.com/uploads/chorus_image/image/67745915/Screen_Shot_2020_11_05_at_1.53.38_PM.0.png' width='700px' /><br/>
-Apple debuted a collection of privacy features when it announced iOS 14, but the company's privacy “nutrition label” concept did not arrive with the launch of the new operating system in September. Today, Apple announced that developers will be required to provide the information for those “labels” starting December 8th.
-<a href='https://www.theverge.com/2020/11/5/21551926/apple-privacy-developers-nutrition-labels-app-store-ios-14'> Source <a/>

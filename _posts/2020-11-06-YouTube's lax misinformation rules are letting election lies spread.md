@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pZDrmP8JimeMUphzOV6JvXFEhiY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67745155/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
-For people who stumbled their way onto One American News Network (OANN)'s YouTube channel over the last few days, it might be easy to think President Trump won the 2020 election.
-<a href='https://www.theverge.com/2020/11/5/21551790/youtube-election-misinformation-oann-live-stream-mail-in-vote-count-ballot'> Source <a/>
