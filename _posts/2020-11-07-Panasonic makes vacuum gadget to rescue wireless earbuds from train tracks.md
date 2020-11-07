@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MExx8AbTJhToD1hc89khCIXAloQ=/0x0:5166x3444/1200x800/filters:focal(3340x1245:4166x2071)/cdn.vox-cdn.com/uploads/chorus_image/image/67746775/1143850308.0.jpg' width='700px' /><br/>
-Panasonic is working with one of Japan's biggest railway companies to solve a new problem that has sprung up in recent years: a rise in people dropping wireless earbuds onto train tracks.
-<a href='https://www.theverge.com/2020/11/6/21552305/tokyo-dropped-earbuds-train-stations-panasonic-vacuum'> Source <a/>
