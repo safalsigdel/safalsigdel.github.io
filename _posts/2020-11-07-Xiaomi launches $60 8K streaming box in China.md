@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I9CyyIxGCCUsWPsoyJuRrfZucCs=/0x0:690x460/1200x800/filters:focal(290x175:400x285)/cdn.vox-cdn.com/uploads/chorus_image/image/67746733/003j99qdly1gkd5lrncxmj60u0140qge02.0.jpg' width='700px' /><br/>
-Xiaomi has announced the Mi Box 4S Pro, a streaming box capable of 8K video playback. The product was revealed on Weibo and is already available to order in China for 399 yuan, or about $60.
-<a href='https://www.theverge.com/2020/11/6/21552291/xiaomi-mi-box-4s-pro-8k-china-price-specs'> Source <a/>
