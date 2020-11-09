@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d4FMWLjH0i3byPZQzAqF4m5nmu4=/0x0:2040x1360/1200x800/filters:focal(778x486:1104x812)/cdn.vox-cdn.com/uploads/chorus_image/image/67758886/dbohn_200506_4012_0007.0.jpg' width='700px' /><br/>
+Apple is expected to officially unveil its first computers powered by custom Arm-based silicon chips at its “One More Thing” event on Tuesday. The company is promising the new chips will deliver improved performance with less power consumption, and the switch also means Apple computers will support native iOS apps due to Apple's A-series mobile and tablet chips sharing 64-bit Arm architecture.
+<a href='https://www.theverge.com/2020/11/9/21552294/apple-event-mac-arm-silicon-one-more-thing-what-to-expect-big-sur'> Source <a/>
