@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gWHJXKnirQtqBEa7q4QnnKzw9SQ=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/67747831/_DSC6931.0.jpg' width='700px' /><br/>
-Preorders for the iPhone 12 mini and iPhone 12 Pro Max are officially live, and with it, Apple has also offered more pricing and release information on the next wave of iPhone 12 accessories, including the MagSafe Duo charger and the leather cases for the new phones.
-<a href='https://www.theverge.com/2020/11/6/21552484/apple-magsafe-duo-charger-price-release-date-leather-iphone-12-case'> Source <a/>
