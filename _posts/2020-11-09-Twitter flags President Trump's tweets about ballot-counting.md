@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/tAR2loN6GgCS7lLl49LGItp5FTM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67752897/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter flagged four tweets from President Trump on Saturday for making “potentially misleading claims about an election,” a company spokesperson said, continuing its attempts to try to rein in misinformation on its platform.
+Twitter flagged four tweets from President Trump on Saturday morning for making “potentially misleading claims about an election,” a company spokesperson said, continuing its attempts to try to rein in misinformation on its platform.
 <a href='https://www.theverge.com/2020/11/7/21554013/twitter-flags-president-trumps-tweets-votes-counted-election-pennsylvania'> Source <a/>

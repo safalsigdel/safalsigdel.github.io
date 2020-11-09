@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VAvP-r7UOskKuYw_r8woE37q0Rg=/0x0:1372x870/1200x800/filters:focal(577x326:795x544)/cdn.vox-cdn.com/uploads/chorus_image/image/67747273/Screenshot__88_.0.png' width='700px' /><br/>
-October saw the iPhone 12 line's reveal, along with the release of the iPhone 12 and 12 Pro. The other two phones in the lineup, the 12 mini and the 12 Pro Max, which are the smallest and biggest models, respectively, are now available for preorder. Apple has also opened preorders for the HomePod mini, which costs $99; we've detailed how to order that device in a separate article.
-<a href='https://www.theverge.com/21550013/iphone-12-mini-pro-max-prices-deals-how-to-buy'> Source <a/>

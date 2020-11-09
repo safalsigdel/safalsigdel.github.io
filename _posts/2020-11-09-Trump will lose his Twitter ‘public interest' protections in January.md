@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZI63YtqE_HW7t9wjNSQzNi1W_Rc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67753742/acastro_201106_1777_vote_0004.0.0.jpg' width='700px' /><br/>
+President Donald Trump will lose Twitter privileges he enjoys as a world leader when President-Elect Joe Biden takes office on January 20th, 2021. Twitter confirmed that Trump's @realDonaldTrump account will be subject to the same rules as any other user — including bans on inciting violence and posting false information about voting or the coronavirus pandemic.
+<a href='https://www.theverge.com/2020/11/7/21552606/trump-twitter-world-leader-public-interest-exception-ends-january-loss'> Source <a/>

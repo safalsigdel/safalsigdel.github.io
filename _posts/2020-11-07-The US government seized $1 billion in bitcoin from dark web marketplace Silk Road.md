@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/643RF8wl6ywWC8dKzkYnaNh90Bw=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67746919/acastro_170726_1777_0007_v4.0.jpg' width='700px' /><br/>
-Earlier this week, the bitcoin community was shocked when a digital wallet containing roughly $1 billion in bitcoin — thought to be proceeds from the now-shuttered dark web drug marketplace Silk Road — was emptied by an unknown individual. Now, those responsible for cleaning out the funds have revealed themselves: it was the US government.
-<a href='https://www.theverge.com/2020/11/6/21552339/us-goverment-seizes-1-billion-bitcoin-profits-silk-road-wallet-individual-x'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nnYcT_NP8BRSobWIr-Fj4jevdlE=/0x0:5120x2879/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/67746913/AMD_Ryzen_5000_Series_Lidded_5.0.png' width='700px' /><br/>
-AMD has beaten Intel's performance advantage in desktop PCs with its new Ryzen 5000 series CPUs. That's the verdict from a range of reviewers this week that have been testing AMD's flagship $799 Ryzen 9 5950X with its 16 cores and 32 threads. Even the entry level Ryzen 5 5600X offers some impressive performance at just $299.
-<a href='https://www.theverge.com/21552336/amd-zen-3-ryzen-review-roundup-5950x-intel-comparison'> Source <a/>

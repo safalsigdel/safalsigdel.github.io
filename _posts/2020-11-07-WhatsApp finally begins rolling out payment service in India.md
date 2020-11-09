@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cJvvm2dzPoMfK0spnE284VesU3k=/0x0:1536x864/1200x800/filters:focal(646x310:890x554)/cdn.vox-cdn.com/uploads/chorus_image/image/67746845/NRP_Send_Payments_in_India_with_WhatsApp_banner_1.0.jpg' width='700px' /><br/>
-Facebook is rolling out its WhatsApp payment service for users in India after receiving approval from the country's regulators. The service first launched in India as a beta in 2018, but a full rollout was delayed for years by concerns about data storage and sharing. It's an important launch for what is WhatsApp's biggest market, home to some 400 million users.
-<a href='https://www.theverge.com/2020/11/6/21552325/whatsapp-payment-service-india-launches-regulatory-approval-upi-graded-ncpi'> Source <a/>

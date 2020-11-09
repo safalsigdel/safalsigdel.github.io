@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZRyZASbQ1pz1pn_w0PQV1MDi94U=/0x0:5168x3448/1200x675/filters:focal(2171x1311:2997x2137)/cdn.vox-cdn.com/uploads/chorus_image/image/67757677/20200813_DSC00191.0.jpg' width='700px' /><br/>
+Virgin Hyperloop announced that for the first time it has conducted a test of its ultra-fast transportation system with human passengers.
+<a href='https://www.theverge.com/2020/11/8/21553014/virgin-hyperloop-first-human-test-speed-pod-tube'> Source <a/>
