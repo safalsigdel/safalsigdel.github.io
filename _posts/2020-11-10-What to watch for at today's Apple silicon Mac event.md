@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2_p3RjMkTIveVg_fnE3wOrvPnfs=/0x0:5472x3648/1200x800/filters:focal(3028x1758:3902x2632)/cdn.vox-cdn.com/uploads/chorus_image/image/67764511/awhite_200319_3944_4.0.0.jpg' width='700px' /><br/>
+Today, Apple is unveiling new Macs that will be based not on Intel processors, but Apple's own Arm-based chips. It's a big deal and something we've been waiting a long time for. Depending on how you count, that wait has lasted either six months (since they were officially announced) or several years (since Intel's roadmap detoured into a quagmire).
+<a href='https://www.theverge.com/2020/11/10/21557644/apple-silicon-macbook-app-compatibility-ios'> Source <a/>

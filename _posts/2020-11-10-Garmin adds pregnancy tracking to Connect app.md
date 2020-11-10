@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zdeheKLPW3U2ZEQYZ13DCCpgCtA=/0x0:1820x2048/1200x800/filters:focal(765x879:1055x1169)/cdn.vox-cdn.com/uploads/chorus_image/image/67764474/1__2_.0.jpg' width='700px' /><br/>
+Garmin is adding pregnancy tracking to its smartwatches and Connect app. The feature will let users track pregnancy-related symptoms like fatigue and monitor their progress toward their due date. It will also let them pause updates on their training status, which typically uses metrics like the amount someone exercises to classify their fitness level and progress.
+<a href='https://www.theverge.com/2020/11/10/21557050/garming-pregancy-smartwatch-app-fitbit-withings'> Source <a/>
