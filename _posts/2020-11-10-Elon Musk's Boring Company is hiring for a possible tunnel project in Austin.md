@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WSz4cRn-wu1d9KTrld7okxJl-tg=/0x0:5421x3614/1200x800/filters:focal(2278x1374:3144x2240)/cdn.vox-cdn.com/uploads/chorus_image/image/67762374/Boring_tunnel__6.0.jpg' width='700px' /><br/>
+The Boring Company, Elon Musk's tunnel-digging venture, may be eyeing its next project in Austin, Texas. The company recently posted half a dozen new jobs in the city and tweeted favorably about Austin's soil.
+<a href='https://www.theverge.com/2020/11/9/21557317/boring-company-austin-job-posting-tunnel-elon-musk'> Source <a/>

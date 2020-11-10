@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XJCk06n-UYS1tSIX5w087jjImao=/0x0:2040x1360/1200x800/filters:focal(837x509:1163x835)/cdn.vox-cdn.com/uploads/chorus_image/image/67751629/akrales_201018_4238_0293.0.0.jpg' width='700px' /><br/>
-The iPhone 12 has just barely launched, but we already have some idea what next year's lineup could look like — according to TFI Securities analyst Ming-Chi Kuo, Apple's 2021 iPhones will keep the new form factor and screen sizes introduced with the iPhone 12 line, but offer an improved ultrawide camera on the high-end Pro and Pro Max models (via MacRumors).
-<a href='https://www.theverge.com/2020/11/6/21553255/apple-iphone-13-camera-2021-ming-chi-kuo-analyst-prediction'> Source <a/>

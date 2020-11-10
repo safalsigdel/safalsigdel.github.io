@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XhD0d1qsmpdfpa-HfKjW3bmfTJ8=/0x0:640x400/1200x800/filters:focal(269x149:371x251)/cdn.vox-cdn.com/uploads/chorus_image/image/67748546/linux_mint.0.png' width='700px' /><br/>
-By the federal government's Digital Analytics Program (DAP) count in October 2020, 3.2 percent of computer users still are on Windows 7 — even though Microsoft no longer supports it for free. If you have an older system but are worried that it won't support Windows 10 — or if you simply don't want to deal with Windows anymore — I have a suggestion: Switch to desktop Linux.
-<a href='https://www.theverge.com/21550815/windows-microsoft-linux-mint-laptop-how-to-switch'> Source <a/>

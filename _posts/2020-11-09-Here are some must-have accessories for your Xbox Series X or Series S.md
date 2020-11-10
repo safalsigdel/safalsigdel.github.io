@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8GtXgmL2LDIpELQgAtsMISTHzwg=/0x0:2640x1748/1200x0/filters:focal(0x0:2640x1748):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21904643/twarren_xboxseriesxcontroller_VLS_3616_2_4.jpg' width='700px' /><br/>
-The Xbox Series X and Series S consoles launch on Tuesday, November 10th. Whether you were able to secure one in time for launch day, or if you plan to get one soon, you might want some fresh accessories to snag with your big purchase.
-<a href='https://www.theverge.com/21550830/xbox-series-x-s-wireless-controller-ssd-hard-drive-accessories'> Source <a/>

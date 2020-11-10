@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HsQUOnFzEwD0cvIJ296mnhPIQZI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67762715/mchin_190124_4274_0007.0.0.jpg' width='700px' /><br/>
+According to research done by IT company CBT Nuggets, your laptop's keyboard could carry 20,000 times more bacteria than your toilet seat. And with so much of your work, school, socializing, and entertainment now taking place online, you're probably using your laptop more than ever.
+<a href='https://www.theverge.com/21557240/laptop-keyboard-how-to-clean-key-windows-mac'> Source <a/>

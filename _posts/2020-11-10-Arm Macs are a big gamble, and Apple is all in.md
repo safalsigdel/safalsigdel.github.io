@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9E31E8oILrvlgpLh-TOMMuNGxT4=/0x0:1829x1175/1200x800/filters:focal(769x442:1061x734)/cdn.vox-cdn.com/uploads/chorus_image/image/67759866/cX3afz7.0.png' width='700px' /><br/>
+Apple is on the verge of making one of the biggest platform changes in the company's history. On Tuesday, it's expected to announce the first Macs that will run off Apple-designed processors and graphics cards instead of the Intel chips it's used since 2005.
+<a href='https://www.theverge.com/2020/11/9/21556481/apple-new-arm-mac-expectations-preview-one-more-thing-event'> Source <a/>

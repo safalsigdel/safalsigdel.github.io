@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xDF00LMEAMDtZPgdZBaduL8Ng28=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67753547/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
-Netflix is testing a programmed linear content channel in France, Variety reported. The channel, called Netflix Direct, will be available to Netflix streaming subscribers and will provide content from its existing streaming library in a linear format, much like cable and broadcast TV stations do.
-<a href='https://www.theverge.com/2020/11/7/21553998/netflix-linear-channel-france-streaming-cable-tv'> Source <a/>

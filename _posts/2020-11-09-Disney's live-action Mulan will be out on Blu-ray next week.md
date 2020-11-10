@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5YOtfVfpZ7S5V9JNZ37CJOj0Yw0=/0x0:1600x900/1200x800/filters:focal(697x285:953x541)/cdn.vox-cdn.com/uploads/chorus_image/image/67750218/mulan.0.jpg' width='700px' /><br/>
-Disney's live-action adaptation of Mulan, one of the company's biggest streaming titles this year, will finally be available on physical media next week. You'll be able to get it on 4K UHD Blu-ray, Blu-ray, and DVD on November 10th.
-<a href='https://www.theverge.com/2020/11/6/21553059/mulan-disney-physical-media-4k-uhd-blu-ray-animated-release-date'> Source <a/>

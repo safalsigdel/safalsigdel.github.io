@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZveHaYtuSU3qqazZMDwvbugeB7I=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67752634/FN_Social_Disney__Social_1920x1080_FINAL__1_.0.jpg' width='700px' /><br/>
-Fortnite developer Epic Games announced a new promotion that allows players who make a real-money purchase in-game and are new Disney Plus subscribers to get up to two months of the streaming service for free. The offer is valid November 10th starting at 7PM ET through December 31st for players 18 years old or older in North America, Europe, Australia, and New Zealand where Disney Plus is available.
-<a href='https://www.theverge.com/2020/11/7/21553969/fortnite-in-game-purchases-disney-plus-free-apple-google'> Source <a/>

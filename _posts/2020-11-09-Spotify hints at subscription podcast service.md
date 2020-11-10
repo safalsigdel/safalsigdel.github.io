@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JubOl50E7y-kRbP-62usstn5p2s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67749956/acastro_180213_1777_0004.0.jpg' width='700px' /><br/>
-Spotify appears to be interested in launching a subscription podcast service that would offer access to original shows or exclusive episodes for a monthly fee. The potential service was described in a survey sent out through Spotify's app, which was reported on by Andrew Wallenstein, president of Variety's Intelligence Platform.
-<a href='https://www.theverge.com/2020/11/6/21552822/spotify-podcast-subscription-service-survey'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nYpzQDx1IrKj4ioJQH-L8a4ehO4=/0x0:2040x1360/1200x800/filters:focal(673x544:999x870)/cdn.vox-cdn.com/uploads/chorus_image/image/67760779/vpavic_4278_20201030_0150.0.jpg' width='700px' /><br/>
+The PlayStation 5 will launch on Thursday, November 12th, and Sony has published a huge FAQ outlining a lot of details about the new console. Buried in the FAQ are a few new tidbits that mean you'll be able to play even more games than you might have expected on the PS5.
+<a href='https://www.theverge.com/2020/11/9/21556760/ps5-sony-playstation-5-region-free-ps-now-support'> Source <a/>

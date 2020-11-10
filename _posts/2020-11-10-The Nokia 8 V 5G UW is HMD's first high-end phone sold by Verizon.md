@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Likmr-LQt-_EL_S7BLncrpIMCPg=/0x0:8000x8000/1200x800/filters:focal(3360x3360:4640x4640)/cdn.vox-cdn.com/uploads/chorus_image/image/67759223/Nokia_8_V_5G_UW_Hero.0.png' width='700px' /><br/>
+HMD's Nokia is launching the $699 Nokia 8 V 5G UW, the company's second 5G device. In a major shift for HMD, it'll be sold through Verizon, making the Nokia 8 V HMD's first high-end device that'll be available through a US carrier.
+<a href='https://www.theverge.com/2020/11/9/21556075/hmd-nokia-8-v-5g-uw-verizon-android-phone-carrier-exclusive-mmwave-price'> Source <a/>

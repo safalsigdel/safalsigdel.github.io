@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eviQO6UQpVyoQZuVV0GGTcFyM58=/0x0:4176x2784/1200x800/filters:focal(1592x336:2260x1004)/cdn.vox-cdn.com/uploads/chorus_image/image/67759637/1136951441.0.jpg' width='700px' /><br/>
+iHeartMedia and Pushkin Industries, the podcasting company co-founded by author Malcolm Gladwell, are teaming up to make more podcasts. The companies announced a new, two-year partnership today, which involves iHeart selling all the ads for Pushkin's ad-supported shows while also co-producing a new slate of shows. Pushkin, up until now, worked with Cadence13 to sell its ads.
+<a href='https://www.theverge.com/2020/11/9/21556335/iheartmedia-pushkin-industries-podcast-ads-partnership'> Source <a/>

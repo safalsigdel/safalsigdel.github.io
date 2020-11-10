@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JV_UYXIoTwVCjBb9bUwjigkRLl8=/0x0:2040x1360/1200x800/filters:focal(328x153:654x479)/cdn.vox-cdn.com/uploads/chorus_image/image/67758399/akrales_201018_4238_0435.0.0.jpg' width='700px' /><br/>
-Apple has cut off major supplier Pegatron from new contracts following the reveal of student labor violations at some of the Taiwanese manufacturer's China-based facilities. Bloomberg reports that Apple found Pegatron to be falsifying paperwork in order to cover up violations of Apple's code of conduct for suppliers.
-<a href='https://www.theverge.com/2020/11/9/21556154/apple-supplier-pegatron-student-labor-violation'> Source <a/>

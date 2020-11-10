@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FD8g2H5gNBfg0MV6lXVyeYzUGl0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67756215/1195503172.0.jpg' width='700px' /><br/>
-Alex Trebek, the longtime host of the answer-and-question game show Jeopardy! has died at age 80, according to a statement from the show. “Jeopardy! is saddened to share that Alex Trebek passed away peacefully at home early this morning, surrounded by family and friends,” the statement posted on Twitter read.
-<a href='https://www.theverge.com/2020/11/8/21555270/jeopardy-host-alex-trebek-died'> Source <a/>

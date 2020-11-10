@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iKaVj7Og0y0hhIRQmp1HnjxLzeQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67761952/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
+The Federal Trade Commission announced a settlement with videoconferencing platform Zoom over “misleading claims” about its security. The agency said in a statement that when Zoom incorrectly claimed its video calls were protected by end-to-end encryption, the company engaged in “deceptive and unfair practices that undermined the security of its users.”
+<a href='https://www.theverge.com/2020/11/9/21557074/zoom-security-ftc-settlement-encryption'> Source <a/>

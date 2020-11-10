@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9467/vpavic_4279_20201107_0043.0.jpg' width='700px' /><br/>
+If you asked me which of the four different models of the new iPhone 12 you should buy without providing any further context on your needs or desires, I would tell you to buy the regular iPhone 12 without question. It has the best balance of screen size, storage, cameras, battery life, and value. It is, in my opinion, the best iPhone 12 for most people.
+<a href='https://www.theverge.com/21555295/iphone-12-mini-review'> Source <a/>

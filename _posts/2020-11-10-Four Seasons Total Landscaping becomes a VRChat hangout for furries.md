@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Post-election celebrations took many forms this past weekend after President-elect Joe Biden was projected to be the 46th president of the US. Those ranged from mass dance parties in the street to countless online expressions of some much-needed collective schadenfreude at the expense of Donald Trump and his surrogates who refuse to accept the reality of his loss.
+<a href='https://www.theverge.com/tldr/2020/11/9/21557029/four-seasons-total-landscaping-furries-vrchat-trump'> Source <a/>

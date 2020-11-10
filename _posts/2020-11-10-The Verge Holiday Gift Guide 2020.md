@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/76U0E_BzAYKI_yYqDjPt66gDQd4=/0x0:3000x1688/1200x675/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/67759631/VRG_4264_HGG_Lede_003.0.0.jpg' width='700px' /><br/>
+The year 2020 has been hard on almost everyone. We've been living through a virulent pandemic, a contentious presidential election, and a problematic economy. We all need a holiday, and we all need to feel loved and show our friends and relatives that they are loved.
+<a href='https://www.theverge.com/21550115/holiday-gift-guide-tech-gadget-ideas'> Source <a/>

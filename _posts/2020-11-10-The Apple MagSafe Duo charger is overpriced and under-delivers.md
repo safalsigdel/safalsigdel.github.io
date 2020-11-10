@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ztDgQ9AYvaESW1Ceeke5euj12dg=/0x0:2040x1360/1200x800/filters:focal(854x737:1180x1063)/cdn.vox-cdn.com/uploads/chorus_image/image/67762442/dbohn_201109_4283_0004.0.0.jpg' width='700px' /><br/>
+Although there's no shipping date for it yet, Apple has sent out review samples of its upcoming MagSafe Duo charger to reviewers. It's a travel charger that combines Apple's new MagSafe charging puck with an Apple Watch charger and a USB-C to Lightning cable.
+<a href='https://www.theverge.com/2020/11/9/21557152/apples-magsafe-duo-charger-wireless-iphone-12'> Source <a/>

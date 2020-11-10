@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XinGM707nq3U1JAQ0K--yZD-uxQ=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/67762689/twarren_200909_4177_0029.0.0.jpg' width='700px' /><br/>
+Amazon is warning customers that Xbox Series X preorders might not arrive tomorrow. In an email to some Amazon customers, the retailer says it expects to ship some consoles “in the coming weeks as we receive more inventory in November and December.” Amazon estimates that the affected preorders will receive Xbox Series X units by December 31st or before.
+<a href='https://www.theverge.com/2020/11/9/21557532/amazon-xbox-series-x-preorders-delayed-email'> Source <a/>

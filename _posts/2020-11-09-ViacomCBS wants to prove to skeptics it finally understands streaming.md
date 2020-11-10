@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N0JrIsZI6uWwXAlg65jKSt2jZxE=/0x0:1520x1013/1200x800/filters:focal(639x386:881x628)/cdn.vox-cdn.com/uploads/chorus_image/image/67750712/paramount_plus.0.jpg' width='700px' /><br/>
-If you're still unsure of what Paramount Plus is, don't worry — you'll learn soon, because ViacomCBS is going to spend a good portion of 2021 trying to get you to sign up for it.
-<a href='https://www.theverge.com/21552590/viacomcbs-streaming-paramount-plus-earnings-q3-license-pluto-tv-competition'> Source <a/>
