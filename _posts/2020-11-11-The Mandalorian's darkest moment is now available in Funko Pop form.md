@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pNOCSvcayLoszkOwEbvx2J6C8Ds=/0x58:2020x1210/1200x800/filters:focal(881x377:1203x699)/cdn.vox-cdn.com/uploads/chorus_image/image/67764744/funko_pop_child_with_egg_canister_box_98hht975.0.jpg' width='700px' /><br/>
+Funko has announced its latest figurine based on The Mandalorian, commemorating our protagonist's latest seemingly simple job. If you haven't watched the second episode of the show's second season, then it looks like an innocent-enough model. Everyone's favorite Baby Yoda* is excited at the prospect of helping a frog-like alien transport her eggs across the galaxy for fertilization. Cute, right?
+<a href='https://www.theverge.com/2020/11/10/21558244/funko-pop-the-mandalorian-the-child-egg-canister-baby-yoda'> Source <a/>

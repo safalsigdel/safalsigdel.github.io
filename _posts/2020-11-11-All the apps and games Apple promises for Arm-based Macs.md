@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SV5Ba6kqK4a1f6NO3wVXVoIB_Kw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67766856/acstro_190902_apple_event_0006.0.0.jpg' width='700px' /><br/>
+Apple has announced some of the first apps and games coming to Arm-based Macs, and it includes more than a few familiar names: Adobe Lightroom and Photoshop, DaVinci Resolve, Cinema 4D, and more.
+<a href='https://www.theverge.com/2020/11/10/21552492/apple-arm-macs-apps-availability-photoshop-word-microsoft-adobe'> Source <a/>

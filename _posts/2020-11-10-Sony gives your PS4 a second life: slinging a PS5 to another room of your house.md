@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_k1wATsl9nVt49PXC1krxhNfveg=/0x0:1024x683/1200x800/filters:focal(431x261:593x423)/cdn.vox-cdn.com/uploads/chorus_image/image/67760744/ps4_verge.0.jpg' width='700px' /><br/>
-The PlayStation 5 can do practically everything the PS4 can, with only a small handful of games and features getting left behind. (Bye-bye, 3D Blu-ray.) But there may be one compelling reason to keep your PS4 around: you could pick up where you left off in a PS5 game from another room of your house.
-<a href='https://www.theverge.com/2020/11/9/21556803/sony-ps5-remote-play-ps4-app-streaming-games'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FLPP73M9EzwjQVnAjD9bjICYRXc=/0x0:6000x4000/1200x800/filters:focal(3629x2408:4589x3368)/cdn.vox-cdn.com/uploads/chorus_image/image/67763033/dseifert-nest-audio-4225-10.0.0.jpeg' width='700px' /><br/>
-In our review of Google's $99 Nest Audio speaker, we wrote that it's “unfortunate that you can't use two Nest Audio speakers paired with a Chromecast for home theater audio, like you can do with a couple of Amazon Echo speakers and a Fire TV.”
-<a href='https://www.theverge.com/2020/11/9/21557654/google-nest-audio-home-theater-sound-system'> Source <a/>

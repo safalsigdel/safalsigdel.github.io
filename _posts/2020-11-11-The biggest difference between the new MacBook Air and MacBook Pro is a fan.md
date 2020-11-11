@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XkIfnKZG0JJmYjalTD8xVE3Q3IA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67768729/vlcsnap_2020_11_10_13h45m12s055.0.png' width='700px' /><br/>
+It's been a little bit weird that Apple would sell both a 13-inch MacBook Air and a 13-inch MacBook Pro simultaneously, but perhaps never more than today — because Apple's new $999 and $1,299 laptops seem nearly identical if you look beyond the differently curved frames. They've got the same M1 processor, the same memory and storage options, the same ports, and very similar screens.
+<a href='https://www.theverge.com/2020/11/10/21559228/apple-new-macbook-air-pro-difference-arm-m1-fan-thermal-performance'> Source <a/>

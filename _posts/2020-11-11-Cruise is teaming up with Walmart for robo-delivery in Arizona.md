@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rjCGUNvB-OMvyYKg8jZqTdwqc-0=/0x0:6000x3376/1200x800/filters:focal(2520x1208:3480x2168)/cdn.vox-cdn.com/uploads/chorus_image/image/67764961/Walmart_Cruise.0.png' width='700px' /><br/>
+Cruise is partnering with Walmart to test out a delivery service using a fleet of autonomous and electric vehicles. The pilot project will kick off in early 2021 and take place in Scottsdale, Arizona.
+<a href='https://www.theverge.com/2020/11/10/21557603/cruise-walmart-autonomous-vehicles-delivery-arizona'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9KJiiIZJBjOFWw3ZH4WhjZKqjII=/0x0:1660x932/1200x0/filters:focal(0x0:1660x932):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22026982/Screen_Shot_2020_11_10_at_1.40.36_PM.png' width='700px' /><br/>
+Apple has announced its first MacBook Pro laptop that will run on an Apple-designed processor at its “One More Thing” event, ushering in a new era of Mac computers.
+<a href='https://www.theverge.com/2020/11/10/21552876/apple-macbook-pro-arm-silicon-m1-chip-processor-cpu-gpu-specs-price-release-date'> Source <a/>

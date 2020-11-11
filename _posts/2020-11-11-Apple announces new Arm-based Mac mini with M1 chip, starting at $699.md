@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v5YZ1qDZWx9OddGKtbjYyD8EMbU=/0x0:1960x1298/1200x800/filters:focal(824x493:1136x805)/cdn.vox-cdn.com/uploads/chorus_image/image/67766868/Apple_new_mac_mini_xcode_screen_11102020_big_carousel.jpg.large_2x.5.jpg' width='700px' /><br/>
+Apple on Tuesday announced a new Mac mini, the first since 2018, featuring its new custom-designed Arm-based M1 chip, joining the new MacBook Air as the second Apple Silicon device announced at the company's “One More Thing” event. The new desktop machine will start at $699, $100 cheaper than the previously released Mac mini from two years ago.
+<a href='https://www.theverge.com/2020/11/10/21552825/apple-mac-mini-arm-m1-chip-specs-release-date-price'> Source <a/>

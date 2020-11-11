@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wDXSzis4PpSbLYxHb-2LpG01P80=/0x0:3697x2465/1200x800/filters:focal(2555x542:3145x1132)/cdn.vox-cdn.com/uploads/chorus_image/image/67768170/1185347552.0.jpg' width='700px' /><br/>
+A former Chan Zuckerberg Initiative employee is filing a racial discrimination complaint, claiming the philanthropic organization underpaid and under-promoted Black staff members.
+<a href='https://www.theverge.com/2020/11/10/21559126/chan-zuckerberg-initiative-raymond-holgado-racial-discrimination-complaint'> Source <a/>

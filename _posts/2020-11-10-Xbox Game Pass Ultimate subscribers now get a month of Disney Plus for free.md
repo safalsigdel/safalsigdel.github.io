@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F8m8QFVedhHZb10dd9yYS69IJQ0=/0x0:1616x1080/1200x800/filters:focal(679x411:937x669)/cdn.vox-cdn.com/uploads/chorus_image/image/67760633/mando.0.jpg' width='700px' /><br/>
-Microsoft is adding a month of Disney Plus to its Xbox Game Pass Ultimate subscription this week. If you've never been a Disney Plus subscriber, you'll be able to claim a month of the service for free from the Perks Gallery on an Xbox console or through the Xbox Game Pass mobile apps.
-<a href='https://www.theverge.com/2020/11/9/21556384/xbox-game-pass-disney-plus-subscription-free-perk'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8V41p0OqEM4kzLH5rfEjakIPyfs=/0x0:1020x680/1200x800/filters:focal(445x302:607x464)/cdn.vox-cdn.com/uploads/chorus_image/image/67762845/slingboxm1-1020-2.0.jpg' width='700px' /><br/>
-If you're like us, you probably haven't thought about the Slingbox in a good long while; the idea of beaming your own TV over the internet has largely been replaced by streaming TV services, even if watch-anywhere DVRs like the Fire TV Recast do still exist.
-<a href='https://www.theverge.com/2020/11/9/21557578/slingbox-discontinued-servers-sunset'> Source <a/>
