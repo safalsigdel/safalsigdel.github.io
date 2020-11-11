@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pnY0DjdfWV4W4US4463I22y5VSE=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/67764720/264415_VanMoof.ElectrifiedS.Berlin.Lifestyle_03_66650a_original_1510827050.0.jpg' width='700px' /><br/>
-VanMoof is the latest e-bike maker that will remove software that allows its e-bikes to offer pedal-assisted power beyond the EU limit of 25 km/h. The option that cheats European speed limits will be removed on November 17th with an update to the VanMoof app that will be applied globally.
-<a href='https://www.theverge.com/2020/11/10/21558235/vanmoof-slows-s3-x3-europe-japan-speed-limit'> Source <a/>

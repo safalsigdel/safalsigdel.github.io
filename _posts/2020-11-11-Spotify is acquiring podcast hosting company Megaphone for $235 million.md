@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ok83qpq3lHwL8-KeXpsr_Ad7Hl0=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/67764850/spotify.0.jpg' width='700px' /><br/>
-Spotify's making another big podcasting acquisition. This time, it's buying podcast hosting company Megaphone for $235 million, according to a source close to the companies. The deal doesn't affect Spotify's own podcasts — it already hosted its shows on Megaphone — but it does mean more shows will have access to Spotify's proprietary ad insertion technology, called Streaming Ad Insertion.
-<a href='https://www.theverge.com/2020/11/10/21557458/spotify-megaphone-podcast-streaming-ad-insertion'> Source <a/>

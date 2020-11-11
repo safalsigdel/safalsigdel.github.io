@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z1GlLnoDi06RndPsUOoyisGdqE8=/0x0:2400x1350/1200x800/filters:focal(1008x483:1392x867)/cdn.vox-cdn.com/uploads/chorus_image/image/67764823/Leica_Q2_Monochrom_Teaser_LoRes_sRGB.0.jpg' width='700px' /><br/>
-Leica is no stranger to releasing cameras that buck the norm, such as its M10-D which lacks an LCD screen entirely or the various generations of M Monochrom cameras that only capture black-and-white images. The company is now expanding that Monochrom line with the new Q2 Monochrom, available starting on November 10th for $5,995.
-<a href='https://www.theverge.com/2020/11/10/21557803/leica-q2-monochrom-black-and-white-camera-price-specs-features'> Source <a/>
