@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HIaIZ_zaK9WrVbYCvXl_BI1CC70=/0x0:1406x1236/1200x675/filters:focal(591x506:815x730)/cdn.vox-cdn.com/uploads/chorus_image/image/67766127/Untitled.0.png' width='700px' /><br/>
-At WWDC in June, Apple announced it would begin a two-year transition to using its own processors on Macs this year. True to its word, it has one last event in 2020, titled “One More Thing” after Steve Jobs' famous catchphrase.
-<a href='https://www.theverge.com/2020/11/10/21556786/apple-event-live-blog-silicon-arm-mac-one-more-thing'> Source <a/>
