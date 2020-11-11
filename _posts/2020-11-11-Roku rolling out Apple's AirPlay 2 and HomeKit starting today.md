@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S2KO-rC1rnazvFglFLP3a1zT0LU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67770855/cwelch_200205_3895_0002.0.jpg' width='700px' /><br/>
+It's been a long wait, but today Roku is starting to roll out support for Apple's AirPlay 2 and HomeKit features. Both will be available for the majority of the company's 4K players, “including the Roku Ultra, Roku Streambar, Roku Smart Soundbar, Roku Streaming Stick Plus, and Roku Premiere.” 4K-ready Roku TVs will also be updated to support AirPlay 2 and HomeKit “in phases over the coming weeks” via the RokuOS 9.4 update.
+<a href='https://www.theverge.com/2020/11/11/21560153/roku-apple-airplay-2-homekit-now-available'> Source <a/>
