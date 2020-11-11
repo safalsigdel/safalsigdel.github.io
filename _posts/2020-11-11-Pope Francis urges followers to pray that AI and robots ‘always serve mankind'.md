@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s2gkuV0h14f3tVbWyxaZdmaUWrU=/0x0:4050x2970/1200x800/filters:focal(1701x1161:2349x1809)/cdn.vox-cdn.com/uploads/chorus_image/image/67770955/1282816903.0.jpg' width='700px' /><br/>
+Pope Francis has asked believers around the world to pray that robots and artificial intelligence “always serve mankind.”
+<a href='https://www.theverge.com/2020/11/11/21560076/pope-francis-ai-for-good-pray-serve-mankind'> Source <a/>
