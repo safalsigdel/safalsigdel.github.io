@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MhjpNM_iweQLZdLL6KWM3YaNwqU=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/67766825/air2.11.png' width='700px' /><br/>
-Apple has announced the launch of its 2020 MacBook Air. It's powered by Apple's new M1 processor. This is the first MacBook Air, and one of the first laptops, to feature Apple's own Arm-based CPUs, designed specifically for Macs.
-<a href='https://www.theverge.com/2020/11/10/21552828/apple-macbook-air-arm-m1-chip-laptop-specs-price-release-date'> Source <a/>
