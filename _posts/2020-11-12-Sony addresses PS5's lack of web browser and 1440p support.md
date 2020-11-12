@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mlFEmNWiROijSs58sWvqMAVDqNg=/0x0:2040x1360/1200x800/filters:focal(918x405:1244x731)/cdn.vox-cdn.com/uploads/chorus_image/image/67770056/vpavic_4278_20201030_0301.0.jpg' width='700px' /><br/>
-As is often the case with newly launched game consoles, the PlayStation 5 doesn't support every feature you might have hoped for out of the box. In an interview with Japanese outlet AV Watch, Sony EVP Masayasu Ito and SVP Hideaki Nishino have addressed some of the functionality that won't be there at launch.
-<a href='https://www.theverge.com/2020/11/11/21559903/sony-playstation-5-no-browser-1440p-support-vr'> Source <a/>
