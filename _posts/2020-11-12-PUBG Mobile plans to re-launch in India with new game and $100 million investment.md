@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZI0oM13X5YgyGuSY7axFA5AmRpo=/0x0:1200x830/1200x800/filters:focal(504x319:696x511)/cdn.vox-cdn.com/uploads/chorus_image/image/67776319/PUBG_Mobile.0.jpg' width='700px' /><br/>
+The PUBG Corporation says it plans to launch a new PUBG Mobile game in India, after being banned in the country in September due to the mobile app's links to China's Tencent. At the time of its ban, the game was India's top downloaded title, with some 50 million users.
+<a href='https://www.theverge.com/2020/11/12/21562107/pubg-mobile-india-launch-ban-data-localization-cybersecurity-concerns'> Source <a/>
