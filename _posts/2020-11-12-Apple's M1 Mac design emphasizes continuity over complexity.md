@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n7eAMIUpgxUKEiohueLJgI0J-NE=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/67771339/air.0.png' width='700px' /><br/>
+Apple has released the first of its new Macs with the company's custom-designed M1 Arm processor. But you'd never know it by looking at the new MacBook Air, MacBook Pro, or Mac mini, which all look virtually identical to their Intel-based predecessors.
+<a href='https://www.theverge.com/2020/11/11/21559478/apple-m1-macbook-air-pro-mac-mini-design-same-chip-transition-hardware'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kZYqNHYhVs76irrhjusfPYXHuKg=/0x0:680x348/1200x800/filters:focal(291x16:399x124)/cdn.vox-cdn.com/uploads/chorus_image/image/67768467/NewMacBookAir_Keyboard.0.jpeg' width='700px' /><br/>
-Apple's MacBook Air is one of a collection of the company's computers to receive the newly announced M1 chip today. The beloved laptop appears almost identical from the outside, but if you open it up you'll notice the familiar keyboard has changed. Apple's traded out some of the function keys on its new MacBook Air, adding in new ones for Spotlight, Do Not Disturb, and Dictation.
-<a href='https://www.theverge.com/2020/11/10/21559246/apple-macbook-air-m1-chip-new-keyboard-key-functions'> Source <a/>

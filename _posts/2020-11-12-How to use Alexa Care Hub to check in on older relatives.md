@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WjkX4jYLWw9tLUAwy5WyVS9lgZk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67772921/dseifert_191123_3810_0005.0.jpg' width='700px' /><br/>
+Amazon has rolled out the Care Hub, a set of Alexa features you can use to remotely check in on older relatives in their homes. That could be especially useful during COVID-19, when many folks aren't able to visit their relatives as often as they usually do. Care Hub is free and easy to set up — your relative just needs an Alexa device.
+<a href='https://www.theverge.com/21560891/amazon-alexa-care-hub-how-to-use-setup'> Source <a/>

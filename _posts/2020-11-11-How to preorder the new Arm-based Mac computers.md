@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0GUjcUwtLt4AGyhk8WHk0hJrTQU=/0x0:1660x932/1200x800/filters:focal(698x334:962x598)/cdn.vox-cdn.com/uploads/chorus_image/image/67767826/Screen_Shot_2020_11_10_at_1.36.05_PM.0.png' width='700px' /><br/>
-Following the “One More Thing” hardware event, Apple has announced its new line of Arm-based Macs powered by Apple's own processors, replacing Intel, which has been used in Mac laptops and desktops since 2005. Currently, the first three Apple computers to have Apple's custom M1 chip are the MacBook Air, the 13-inch MacBook Pro, and the Mac mini.
-<a href='https://www.theverge.com/2020/11/10/21552818/apple-arm-macbook-preorder-how-to-buy-price'> Source <a/>

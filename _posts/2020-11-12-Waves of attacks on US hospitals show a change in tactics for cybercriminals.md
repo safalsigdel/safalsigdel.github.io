@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IoaWUhKmAqfGnb95RA8GIlrfuLA=/0x0:4288x2848/1200x800/filters:focal(1801x1081:2487x1767)/cdn.vox-cdn.com/uploads/chorus_image/image/67774450/71568407.0.jpg' width='700px' /><br/>
+United States hospitals were targeted by two major cybersecurity attacks this fall: the first taking down Universal Health Services, a chain of hundreds of hospitals, and the second by a group called UNC1878 threatening hundreds of individual health care facilities all around the country. Targeting health care institutions directly marks a new approach for cybercriminals.
+<a href='https://www.theverge.com/21551050/cyberattacks-hospitals-coronavirus-deadly-tactics'> Source <a/>

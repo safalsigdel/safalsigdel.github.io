@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lCH3zxvRDIgYdeTUtfmqgd2atHo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67768251/acastro_180927_1777_lyft_0002.0.jpg' width='700px' /><br/>
-Lyft continues to struggle to bring in money amid rising case numbers of COVID-19 in the US. The ride-hailing company lost $459.5 million over the last three months, with its adjusted net revenues down 48 percent year over year.
-<a href='https://www.theverge.com/2020/11/10/21559174/lyft-q3-2020-earnings-rides-prop-22-covid'> Source <a/>

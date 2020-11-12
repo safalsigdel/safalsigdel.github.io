@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Tw471ez0CxdkYC-EiDBm25VmvVI=/0x0:300x200/1200x800/filters:focal(126x76:174x124)/cdn.vox-cdn.com/uploads/chorus_image/image/67769299/masked_emoji_apple_2.0.jpg' width='700px' /><br/>
-Two Apple developers have been given the green light to promote mask-wearing with their stickerpack apps for iOS, after previously receiving rejections from Apple that suggested they were making “inappropriate references to the COVID-19 pandemic.”
-<a href='https://www.theverge.com/2020/11/10/21559603/apple-stickers-mask-covid-19-ios-app-store-guidelines'> Source <a/>

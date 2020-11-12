@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mkps_jPaWHNs15wZxIs1SpJHNSc=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/67767013/google_stadia_chromecast.0.jpg' width='700px' /><br/>
-Google has added another promotion to help push its cloud gaming service Stadia into more households: now YouTube Premium subscribers can get its $100 Stadia Premiere Edition bundle for free.
-<a href='https://www.theverge.com/2020/11/10/21558820/youtube-premium-subscribers-free-stadia-premiere-edition-bundle-deals'> Source <a/>

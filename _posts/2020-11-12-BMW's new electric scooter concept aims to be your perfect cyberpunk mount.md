@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sSvIaMNazjDQjlfoxAiNxpnMSac=/0x0:7952x5304/1200x800/filters:focal(3340x2016:4612x3288)/cdn.vox-cdn.com/uploads/chorus_image/image/67772572/BMW_Motorrad_Definition_CE_04_Beauty_14.0.jpg' width='700px' /><br/>
+BMW is trying to reclaim its mantle as a leader in electric mobility. As part of a suite of announcements outlining the German automaker's latest products, BMW revealed a bold new electric scooter concept: the Motorrad Definition CE 04.
+<a href='https://www.theverge.com/2020/11/11/21560306/bmw-electric-scooter-concept-motorrad-definition-ce-04'> Source <a/>

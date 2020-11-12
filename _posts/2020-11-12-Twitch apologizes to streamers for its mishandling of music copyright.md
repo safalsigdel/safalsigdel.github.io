@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MMmdlBTD6x2yuwZWwWLU61Za1rs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67772599/ACASTRO_190926_1777_TWITCH_0001.0.jpg' width='700px' /><br/>
+Twitch published a blog post today with the relatively anodyne title “Music-Related Copyright Claims and Twitch.” What was in it, however, was anything but. The post explained exactly why streamers received that strange email notifying them that Twitch had deleted some of their clips and VODs, and it gave creators an update on what tools they can expect to see from the company in the future.
+<a href='https://www.theverge.com/2020/11/11/21560913/twitch-streamers-dmca-copyright-tools-apology'> Source <a/>

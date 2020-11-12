@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/82mCiH_gMRyQMRr6ORYeQAV_Ttk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67772905/acastro_180406_1777_facebook_Congress_0001.0.jpg' width='700px' /><br/>
+Facebook on Wednesday announced an extension on its political advertising ban for at least another month, citing delays in election results due to COVID-19 and unprecedented rates of mail-in and absentee voting. The extension was announced in an update posted to its original blog post on the topic.
+<a href='https://www.theverge.com/2020/11/11/21560969/facebook-political-ad-ban-extended-trump-2020-election-concede-misinformation'> Source <a/>

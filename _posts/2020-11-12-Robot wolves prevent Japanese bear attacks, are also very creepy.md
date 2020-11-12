@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BcNi-tUoh14XvdziBNCMzu81Jp8=/0x0:1920x1152/1200x800/filters:focal(837x133:1143x439)/cdn.vox-cdn.com/uploads/chorus_image/image/67774134/JapaneseRoboWolf.0.jpg' width='700px' /><br/>
+No, this is not a Halloween decoration someone forgot. This robot — “Monster Wolf” — is actually a bear deterrent. The city of Takikawa, Japan, deployed these robowolves to prevent bear attacks.
+<a href='https://www.theverge.com/21561095/japanese-town-robot-wolf-scarecrow-bear-deterrent'> Source <a/>

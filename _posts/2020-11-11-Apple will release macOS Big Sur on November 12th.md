@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hFqCK9VhE8YFcuw3RJt59HM8heM=/0x0:1080x607/1200x800/filters:focal(454x218:626x390)/cdn.vox-cdn.com/uploads/chorus_image/image/67766925/macos.0.png' width='700px' /><br/>
-Apple says it'll release macOS 11.0, dubbed Big Sur, on November 12th. The company first announced the new OS at its developer's conference in June and released it as a public beta in August. This will be the first macOS to support Apple's new M1 laptop chip. Once you download the new, free update, you'll most likely immediately note the design and aesthetic changes, many taken from iOS.
-<a href='https://www.theverge.com/2020/11/10/21432429/apple-macos-11-big-sur-release-date-m1-chip'> Source <a/>

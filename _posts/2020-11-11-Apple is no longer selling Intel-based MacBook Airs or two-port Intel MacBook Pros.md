@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cGVdO5PM3PicqvveFCng2k-JTRY=/0x0:692x456/1200x800/filters:focal(291x173:401x283)/cdn.vox-cdn.com/uploads/chorus_image/image/67767276/Apple_m1_chip_macbookpro_apple_tv_plus_screen_11102020_big_carousel.jpg.medium.0.jpg' width='700px' /><br/>
-Apple announced three brand-new Macs today powered by its new M1 Arm-based CPUs: a 13-inch MacBook Air, a 13-inch MacBook Pro, and a Mac mini. But now that the new Macs are here, Apple has started to remove some of its Intel-based Macs from its product lineup. Here's what's changed:
-<a href='https://www.theverge.com/2020/11/10/21559003/apple-mac-macbook-air-pro-mini-m1-intel-processor-cpu'> Source <a/>
