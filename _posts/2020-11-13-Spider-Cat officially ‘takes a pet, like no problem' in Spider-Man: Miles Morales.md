@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+We already knew that Spider-Cat was going to be the true hero of Spider-Man: Miles Morales, but with the PS5 game's launch yesterday, we're learning new things about this furry sidekick. Specifically, that he takes a pet, like no problem.
+<a href='https://www.theverge.com/tldr/2020/11/13/21563609/spider-cat-takes-a-pet-like-no-problem-spider-man-miles-morales-bodega-dialogue'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FWW0qzsvCPRwg8BPSJymh-vW9AA=/0x0:3200x1760/1200x800/filters:focal(1344x624:1856x1136)/cdn.vox-cdn.com/uploads/chorus_image/image/67777454/Hero_Shot.0.png' width='700px' /><br/>
-Music mixing app Djay is getting an update on the Mac today with support for Apple's new M1 processor. That makes Djay among the first apps to be updated for the debut slate of Arm-based Macs, which launch next week.
-<a href='https://www.theverge.com/2020/11/12/21562195/djay-mac-update-m1-arm-neural-mix-universal'> Source <a/>
