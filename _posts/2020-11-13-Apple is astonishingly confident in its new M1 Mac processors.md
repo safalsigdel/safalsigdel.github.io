@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HfATeHZvz-tmYOzOx1PptLnIVLo=/0x0:1272x778/1200x800/filters:focal(535x288:737x490)/cdn.vox-cdn.com/uploads/chorus_image/image/67783602/apple_m1_board.0.jpg' width='700px' /><br/>
+Apple's big Mac event delivered three new computers — a new MacBook Air, a new entry-level 13-inch MacBook Pro, and a new Mac mini. But really, it delivered one thing that those three computers have in common: the M1 chip. That's the official name for the Arm-based Apple Silicon the company is going to migrate all of its Mac computers over to.
+<a href='https://www.theverge.com/2020/11/13/21563242/apple-m1-silicon-chip-arm-macbook-rosetta-confidence'> Source <a/>
