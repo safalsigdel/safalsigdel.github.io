@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/chruEXZaU5i47GVQd0_gUIdiEew=/0x0:4380x3237/1200x800/filters:focal(1840x1269:2540x1969)/cdn.vox-cdn.com/uploads/chorus_image/image/67783358/1228336765.0.jpg' width='700px' /><br/>
+Elon Musk took to Twitter Thursday night to say that he has received mixed results after being tested for COVID-19 and is currently experiencing symptoms of a common cold. Musk says he was tested four times using a rapid antigen test: two tests came back positive and two came back negative. He's also awaiting the results from two PCR tests but the results won't be known for 24 hours.
+<a href='https://www.theverge.com/2020/11/13/21563590/elon-musk-tests-postive-coronavirus-pcr-antigen'> Source <a/>
