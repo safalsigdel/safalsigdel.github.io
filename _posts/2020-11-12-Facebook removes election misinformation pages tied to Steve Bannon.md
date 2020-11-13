@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BC5cnYMe6GLVoVxMa0VRMww4AAI=/0x0:3200x2136/1200x800/filters:focal(1344x812:1856x1324)/cdn.vox-cdn.com/uploads/chorus_image/image/67772487/1228128980.0.jpg' width='700px' /><br/>
-Facebook has removed a series of pages linked to former Trump advisor Steve Bannon. The pages were removed after nonprofit organization Avaaz flagged them as spreading — and artificially amplifying — election-related misinformation under the “Stop The Steal” tag.
-<a href='https://www.theverge.com/2020/11/11/21559063/facebook-steve-bannon-election-page-removal-avaaz-misinformation-stop-the-steal'> Source <a/>

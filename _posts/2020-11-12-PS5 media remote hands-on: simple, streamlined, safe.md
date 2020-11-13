@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EvYZhp0Z5ZPhMjkZPfLxd5YEwZc=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/67770213/125ee2af33d66079.14869201_MEDIAREMOTE_RENDER_WITHNOTICE_02.0.jpg' width='700px' /><br/>
-In comparison to the PlayStation 5 itself — a big hulking mass of a game console — the PS5-branded media remote is very conservative. It does pretty much exactly what you'd expect from a media remote and not much more, but at least it'll match your new games machine.
-<a href='https://www.theverge.com/21559280/ps5-media-remote-hands-on-youtube-netflix-disney-plus-spotify'> Source <a/>

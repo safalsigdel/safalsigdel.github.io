@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T76WzSR5hCFboRSOxjbf5HRfXl4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67780457/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
+Today, Amazon filed suit against an influencer and a range of online businesses over an alleged counterfeiting scheme conducted across Instagram and Amazon's Marketplace platform. According to the complaint filed in federal court in Washington state earlier today, the influencers advertised counterfeit luxury items on their Instagram page to be sold under dummy listings to Amazon Marketplace.
+<a href='https://www.theverge.com/2020/11/12/21562758/instagram-influencer-counterfeit-gucci-dior-amazon-fake-listing'> Source <a/>

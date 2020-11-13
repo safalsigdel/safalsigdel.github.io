@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1CvScRv02QpqJQH2gqQviskGDZg=/0x0:8155x5437/1200x675/filters:focal(3426x2067:4730x3371)/cdn.vox-cdn.com/uploads/chorus_image/image/67772013/The_first_BMW_iX_Highlights_2.0.jpg' width='700px' /><br/>
-BMW unveiled its next electric vehicle, the iX SUV, with 300 miles of range and gorgeous minimal interior. The iX is BMW's technological flagship, meaning it incorporates multiple technologies that will be featured in the German automaker's upcoming vehicles, mainly electric powertrain and driver interface.
-<a href='https://www.theverge.com/2020/11/11/21558833/bmw-ix-inext-electric-suv-range-price-specs'> Source <a/>

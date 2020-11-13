@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tx20pMG3EVcpEw8EuJnisquKwAI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67775197/wjoel_1777_180403_youtube_006.0.jpg' width='700px' /><br/>
-YouTube has recovered from a seemingly worldwide outage that prevented videos from loading for roughly an hour. During the outage, many Verge staffers were unable to watch videos, and YouTube confirmed at 7:23PM ET that something was going on:
-<a href='https://www.theverge.com/2020/11/11/21561764/youtube-down-outage-loading-videos'> Source <a/>

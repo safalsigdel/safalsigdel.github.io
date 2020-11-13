@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-You can grab two unlocked OnePlus 8T phones for $1,124 on OnePlus' website today only. It's a deal worth highlighting: the OnePlus 8T usually costs $749, but if you buy two today, you'll get them for $562 each. This deal also includes a set of OnePlus Buds wireless earbuds with each phone at no extra charge. For a phone that was released just a few weeks ago, this is a great deal.
-<a href='https://www.theverge.com/good-deals/2020/11/11/21560989/oneplus-8t-buy-one-get-one-half-off-second-phone-deal-sale'> Source <a/>

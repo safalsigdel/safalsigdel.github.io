@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NLpSlwKrjKh10CjhSnS1i-H2RQQ=/0x0:3508x2480/1200x800/filters:focal(1474x960:2034x1520)/cdn.vox-cdn.com/uploads/chorus_image/image/67771056/Lilium_eVTOL_R001_screen.0.jpg' width='700px' /><br/>
-One of Germany's premier flying taxi startups just gained a foothold in the US. Lilium, the five-year-old venture-backed startup from Munich, announced that it will build a 56,000-square-foot transportation hub for its aerial taxi service in Orlando, Florida. The company aims to have passengers taking regional trips in its electric five-seater aircraft starting in 2025.
-<a href='https://www.theverge.com/2020/11/11/21558670/lilium-jet-flying-taxi-orlando-vertiport-hub-evtol'> Source <a/>

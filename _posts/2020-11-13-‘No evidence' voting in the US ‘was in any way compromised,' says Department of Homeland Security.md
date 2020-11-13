@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wXxvQx3dpTzkHk6y2Ivq8rzV7C8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67782219/acastro_201106_1777_vote_0002.0.0.jpg' width='700px' /><br/>
+The November 3rd election was the “most secure in American history” and “there is no evidence that any voting system deleted or lost votes, changed votes, or was in any way compromised,” according to a statement from the Department of Homeland Security's (DHS) Cybersecurity and Infrastructure Security Agency (CISA). The statement follows numerous claims of supposed election fraud by President Donald Trump and his allies.
+<a href='https://www.theverge.com/2020/11/12/21563274/dhs-cisa-no-evidence-us-voting-compromised'> Source <a/>

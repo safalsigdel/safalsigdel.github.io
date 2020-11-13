@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0UK3NaxoykwX8pmvo5jYe3K_jqA=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67772436/dseifert_201025_4263_0001.0.0.jpg' width='700px' /><br/>
-Finding new ways to use Amazon's Alexa has always been a bit of a pain. Amazon boasts that its AI assistant has more than 100,000 skills, but most are garbage and the useful ones are far from easy to discover. Today, though, Amazon announced it's launched a new way to surface skills: by guessing what users are after when they talk to Alexa about other tasks.
-<a href='https://www.theverge.com/2020/11/11/21560313/amazon-alexa-skills-infer-latent-goal-intent'> Source <a/>

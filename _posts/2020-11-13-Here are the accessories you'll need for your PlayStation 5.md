@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T0nzjkg_3UdRecbQV0KI1tAVFFI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67755677/vpavic_4278_20201030_0345.0.jpg' width='700px' /><br/>
+Sony's PlayStation 5 launches today. Whether you secured one ahead of launch day or plan to buy one during the holiday season, you might want to consider picking up additional accessories to ensure you get the most out of your brand new console.
+<a href='https://www.theverge.com/21550907/ps5-wireless-controller-ssd-hard-drive-accessories-sony'> Source <a/>

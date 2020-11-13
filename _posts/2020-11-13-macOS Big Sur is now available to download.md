@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eh_vBEm_kvxKfV5cbcy0vnxbXhA=/0x0:2684x1542/1200x800/filters:focal(1128x557:1556x985)/cdn.vox-cdn.com/uploads/chorus_image/image/67778875/Screen_Shot_2020_11_12_at_12.32.33_PM.0.png' width='700px' /><br/>
+Apple has officially released the latest version of macOS: macOS Big Sur (also known as macOS 11.0), which is available to download now assuming you have a compatible Mac.
+<a href='https://www.theverge.com/2020/11/12/21562585/macos-11-big-sur-apple-mac-download-available-now'> Source <a/>

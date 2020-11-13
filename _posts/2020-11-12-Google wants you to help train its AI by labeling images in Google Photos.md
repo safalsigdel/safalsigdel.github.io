@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2rjsrWqcya-L2_203VwZo-k2uz0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67770216/google-photos-app-7407.0.0.jpg' width='700px' /><br/>
-Google has updated its Google Photos app on Android with a new option that lets users tell the search giant about the contents of their pictures. By labeling these images, Google can improve its object recognition algorithms, which in turn make Photos more useful. It's a virtuous cycle of AI development best deployed by tech giants like Google which have lots of data and lots of users.
-<a href='https://www.theverge.com/2020/11/11/21559930/google-train-ai-photos-image-labelling-app-android-update'> Source <a/>

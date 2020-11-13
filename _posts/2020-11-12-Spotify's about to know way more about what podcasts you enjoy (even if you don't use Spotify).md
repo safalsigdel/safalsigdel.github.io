@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WJmpdo-LK3Mqr90FpaNJJbvjJSI=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67770865/acastro_201110_4286_spotify_0001.0.jpg' width='700px' /><br/>
-Spotify's road to podcast dominance started brazenly enough: hundreds of millions of dollars spent at once to buy a respected podcast network, Gimlet Media, and a podcast creation app, Anchor. Now, nearly two years later, the company's continuing to spend, but this time with its sights set on conquering the podcast ad market.
-<a href='https://www.theverge.com/2020/11/11/21558264/spotify-megaphone-podcast-acquisition-ad-sales'> Source <a/>

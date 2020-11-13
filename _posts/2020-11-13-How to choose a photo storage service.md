@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hig_ZMXIuqI7cPiN9Z4Z2tPgbrY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67778302/google_photos_vlad_savov.0.jpg' width='700px' /><br/>
+In 2019, photo storage service Flickr changed its previous policy of offering 1TB of free storage to its users, limiting free storage to 1,000 photos instead. There was, as you could imagine, a great outcry from Flickr members. As a result, we published a roundup of photo services that our readers might want to check out instead.
+<a href='https://www.theverge.com/21561171/photo-storage-service-google-amazon-flickr'> Source <a/>
