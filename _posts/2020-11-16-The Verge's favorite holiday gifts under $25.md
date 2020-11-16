@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AgN4DlsLxjLsdMdBsHpb3UTH8jU=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67798507/VRG_4264_Budget_HGG_Lede_bg.0.jpg' width='700px' /><br/>
+It's been a hard year financially for many of us. For that reason, it's good to know that you don't have to take out a loan to find useful, attractive, or just plain cool gifts for your friends and / or relatives. The Verge's Budget Holiday Gift Guide for 2020 features a variety of gift ideas that cost under $25 but offer a lot of value.
+<a href='https://www.theverge.com/21557073/budget-holiday-gift-guide-cheap-tech-gadgets-ideas'> Source <a/>

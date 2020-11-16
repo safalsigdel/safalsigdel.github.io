@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Cmu8jyl6_ZpEas3lEgNh8a19M78=/0x0:700x350/1200x0/filters:focal(0x0:700x350):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22036128/TS_PAIR_01_020_a36e0213_77fc_403.jpg' width='700px' /><br/>
-The PlayStation 5 finally launched yesterday, and to accompany the release, rapper Travis Scott made an epic 10-minute video celebrating the new console. The video, “A Travis Scott + Cactus Jack Experience - PS5: Unboxing Reimagined,” doesn't actually feature an unboxing at all — it's something more like a short film.
-<a href='https://www.theverge.com/2020/11/13/21564067/travis-scott-playstation-5-ps5-unboxing-short-movie'> Source <a/>

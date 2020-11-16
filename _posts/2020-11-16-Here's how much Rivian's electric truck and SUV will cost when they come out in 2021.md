@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Juqk1IrMPZrFM7iLnWbeK48yuaI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67785787/rivian_electric_truck_3736.0.jpg' width='700px' /><br/>
-Rivian, the electric vehicle startup based in Michigan and California, revealed this week the pricing for its forthcoming R1T pickup truck and R1S SUV. Both vehicles, which were first unveiled in late 2018, are expected to reach customers by summer 2021.
-<a href='https://www.theverge.com/2020/11/13/21563949/rivian-electric-truck-suv-price-r1t-r1s-hands-free'> Source <a/>

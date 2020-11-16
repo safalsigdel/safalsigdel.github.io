@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9RohA223GrHlEkuxE1D56HPDzmI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67784830/acastro_190724_1777_doordash_0002.0.0.jpg' width='700px' /><br/>
-Food delivery platform DoorDash filed its widely anticipated IPO with the Securities and Exchange Commission on Friday, and plans to take the company public early next month. The company's revenue soared in 2020 and it briefly showed a profit, as restaurants closed to in-person dining due to the pandemic, and relied on delivery services.
-<a href='https://www.theverge.com/2020/11/13/21563716/doordash-ipo-profit-pandemic-food-delivery-drones'> Source <a/>

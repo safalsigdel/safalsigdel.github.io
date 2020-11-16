@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FMsmvScurNCYvULGAafFcxZhefQ=/0x0:1024x768/1200x800/filters:focal(447x303:609x465)/cdn.vox-cdn.com/uploads/chorus_image/image/67798148/New_Beyond_Burger_Hero.0.jpg' width='700px' /><br/>
+Beyond Meat is keeping up its rapid pace of iterating on plant-based meat alternatives, with two new versions of its Beyond Burger being announced today: one that's supposed to be juicier and another that cuts down on saturated fats.
+<a href='https://www.theverge.com/2020/11/16/21564094/beyond-meat-new-burgers-plant-based-two-types-juicier-less-saturated-fat'> Source <a/>
