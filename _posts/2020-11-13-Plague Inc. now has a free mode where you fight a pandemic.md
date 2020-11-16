@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BNWIswsfOkSPYh2ZTs4r3y_ft78=/0x0:1334x750/1200x800/filters:focal(561x269:773x481)/cdn.vox-cdn.com/uploads/chorus_image/image/67779886/plague_inc_the_cure_3.0.png' width='700px' /><br/>
-Plague Inc. — the strategy game about evolving and spreading diseases — received an update yesterday with a new mode that flips the script on its original gameplay. The new mode, titled Plague Inc: The Cure, is developer Ndemic Creations' attempt to simulate the real-life, multifaceted approach required to stop a pandemic, based on input it received from real experts.
-<a href='https://www.theverge.com/2020/11/12/21562482/plague-inc-the-cure-game-pandemic-covid-19-cepi-who-ios-android'> Source <a/>

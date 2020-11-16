@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OD3cChMyi-xrPW9-QW7ejMaPRso=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67790106/acastro_180529_1777_qualcomm_0001.0.0.jpg' width='700px' /><br/>
+Qualcomm has received permission from the US to sell 4G mobile chips to Huawei, an exemption to the Trump administration's ban on doing business with the Chinese company, Reuters reported. Qualcomm didn't specify which products it's allowed to sell to Huawei, but told Reuters they were related to mobile devices.
+<a href='https://www.theverge.com/2020/11/14/21565185/us-qualcomm-license-4g-chips-huawei-ban-china-phones'> Source <a/>

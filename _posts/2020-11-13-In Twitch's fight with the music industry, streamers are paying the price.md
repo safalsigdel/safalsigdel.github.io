@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KgHdurD57vGmPjrnkBKf1yGyR-M=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67780734/acastro_201112_4295_twitchDMCA_0001.0.jpg' width='700px' /><br/>
-Twitch partner Kate Stark was in a meeting when she got an email from Twitch saying some of her videos had copyrighted music in them and had been deleted. She panicked. “And then I went to Twitter,” Stark says, “and it seemed like everyone had received one. So that's when I was like, ‘Okay, what's going on?'”
-<a href='https://www.theverge.com/2020/11/12/21562372/twitch-soundtrack-riaa-music-youtube'> Source <a/>

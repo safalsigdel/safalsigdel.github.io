@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wfGF6rq152w9XqpxLP0OV2SUyWg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67781141/acastro_180321_1777_youtube_0003.0.jpg' width='700px' /><br/>
-YouTube is pushing back against claims its platform is helping promote and spread misinformation surrounding the 2020 US election, saying its most popular videos related to the election are from “authoritative” sources. YouTube also claims it takes measures to stop the spread of videos containing false or misleading claims by not surfacing them in search results or through its recommendation engine.
-<a href='https://www.theverge.com/2020/11/12/21562910/youtube-2020-election-trump-misinformation-fake-news-recommendations'> Source <a/>

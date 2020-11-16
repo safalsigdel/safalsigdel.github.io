@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LLOB-rKITM8fk_y30OM8TaIMVRM=/0x0:2040x1360/1200x800/filters:focal(825x363:1151x689)/cdn.vox-cdn.com/uploads/chorus_image/image/67787446/akrales_200904_4160_0135.0.0.jpg' width='700px' /><br/>
+Oculus has rolled out its first big update for the Quest 2 standalone virtual reality headset, fulfilling a few promises it made when the headset launched last month. Headlining the new features is the 90Hz refresh rate mode that now expands to all system-level apps by default — including through Oculus Link, which has officially exited beta.
+<a href='https://www.theverge.com/2020/11/13/21564474/oculus-quest-2-90hz-refresh-rate-link-move-screen-recording-capture'> Source <a/>

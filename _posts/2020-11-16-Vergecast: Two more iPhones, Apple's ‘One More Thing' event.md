@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Aps-T1fCeMJPyxQd4JqjzUO336s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67785066/vpavic_4279_20201108_0339_Edit.0.jpg' width='700px' /><br/>
+We started this week with some reviews of the alternatively-sized iPhone 12s — the mini and the Pro Max. We ended this week with an all-new episode of The Vergecast. All that stuff in between? That's what our Vergecast crew talked about on the show today.
+<a href='https://www.theverge.com/2020/11/13/21563821/vergecast-podcast-430-apple-iphone-mini-pro-max-m1-chips-macbook'> Source <a/>

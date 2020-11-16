@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mfB8klKJugjzRnvuyBV7KhjBeYA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67780932/vpavic_4113_20200724_0090.0.jpg' width='700px' /><br/>
-Today's existing Google Pixel phones will be the last to come with free unlimited “high-quality” uploads to Google Photos. While the company said yesterday that previous Pixel phones could still upload those photos for free after Google axes unlimited storage on June 1st, 2021, Google confirmed to us that any future Pixels you buy will not come with those free uploads.
-<a href='https://www.theverge.com/2020/11/12/21562908/google-future-pixel-phone-no-unlimited-photos-storage-confirmed'> Source <a/>

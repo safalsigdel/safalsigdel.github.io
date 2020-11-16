@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aVYsZfE8QkLNZIuG004X5mDnCog=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67781041/acastro_200713_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-The US Commerce Department says it will not enforce an order that would have forced video sharing platform TikTok to shut down, according to The Wall Street Journal. The government cited an injunction from a federal judge in Pennsylvania last month who wrote that the Commerce Department had likely overstepped its authority when it tried to ban transactions on the platform.
-<a href='https://www.theverge.com/2020/11/12/21562947/tiktok-us-government-no-shutdown-china-trump-security'> Source <a/>

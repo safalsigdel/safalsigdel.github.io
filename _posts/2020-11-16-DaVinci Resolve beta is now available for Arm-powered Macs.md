@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4GhxjDkkb2pofecCD31oAi4HIxk=/0x0:2000x1094/1200x800/filters:focal(840x387:1160x707)/cdn.vox-cdn.com/uploads/chorus_image/image/67784955/3_davinci_resolve_17_1_2x.0.jpg' width='700px' /><br/>
+DaVinci Resolve is getting updated with support for Arm-powered Macs, and a beta version will be ready for owners on day one. Blackmagic Design released a beta of Resolve version 17.1 today that includes support for Apple's new M1 chip. That means when the first of these new Macs ship next week, buyers will be able to dive straight into a native version of a key filmmaking tool.
+<a href='https://www.theverge.com/2020/11/13/21563839/davinci-resolve-m1-arm-mac-beta-now-available'> Source <a/>

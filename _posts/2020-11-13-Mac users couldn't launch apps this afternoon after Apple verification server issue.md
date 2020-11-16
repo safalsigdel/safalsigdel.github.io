@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cFHpVrUkzuTSVVjmPOnklMWYaAM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67781825/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Many Mac users reported that their computers have been running slower than usual on Thursday — including a number of Verge staffers — with apps launching slowly or not at all, alongside other Apple service issues.
-<a href='https://www.theverge.com/2020/11/12/21563092/apple-mac-apps-load-slow-big-sur-downloads-outage-down-issues'> Source <a/>

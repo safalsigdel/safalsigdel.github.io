@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Iv6xxG8g5Zg8KvDYMBmj1j8HZ1g=/603x264:2600x1498/1200x800/filters:focal(1381x635:1907x1161)/cdn.vox-cdn.com/uploads/chorus_image/image/66851984/Screen_Shot_2020_05_27_at_3.48.12_PM.5.png' width='700px' /><br/>
+HBO Max has arrived. Combining the vast content empire of AT&T's WarnerMedia — HBO, Warner Bros., New Line Cinema, DC Entertainment, TBS, TNT, CNN, Cartoon Network, The CW, Crunchyroll, and Adult Swim — into a single streaming service already gives HBO Max one of the broadest streaming catalogs around.
+<a href='https://www.theverge.com/21272223/hbo-max-app-how-to-watch-download-price-subscription-stream-shows'> Source <a/>

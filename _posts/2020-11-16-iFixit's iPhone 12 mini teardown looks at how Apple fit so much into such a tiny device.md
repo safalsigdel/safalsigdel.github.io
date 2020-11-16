@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0e2DhaaJmtFMxFHxs7Rs1xNA-o4=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67791935/vpavic_4279_20201107_0081.0.0.jpg' width='700px' /><br/>
+Orders for the new iPhone 12 mini have started arriving for customers, and the team at iFixit did a two-part teardown—of both an EU and US model— to figure out how Apple managed to include 5G hardware and the usual iPhone components into such a little device.
+<a href='https://www.theverge.com/2020/11/15/21565946/ifixit-iphone-12-mini-teardown-apple'> Source <a/>

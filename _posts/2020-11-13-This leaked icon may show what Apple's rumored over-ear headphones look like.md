@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fwNw7UpK4E2TEsKUqQCLDL6HzPk=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/67782110/AirPods_Studio.0.png' width='700px' /><br/>
-Apple has been rumored to be working on new over-ear headphones for years, and we might have just gotten a vague idea of what they look like, thanks to an icon found in the first developer beta for iOS 14.3 by 9to5Mac. You can see the icon at the top of this post.
-<a href='https://www.theverge.com/2020/11/12/21563151/apple-over-ear-headphones-icon-ios-14-3'> Source <a/>

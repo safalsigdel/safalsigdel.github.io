@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Smart glasses — depending on who you ask — are the future. But if you'd rather not wait for a company like Apple or Facebook to actually sell you a pair, you can do what product designer Sam March did and simply build your own smart glasses from scratch.
-<a href='https://www.theverge.com/circuitbreaker/2020/11/12/21562356/diy-open-source-smart-glasses-directions-navigation-sam-march'> Source <a/>

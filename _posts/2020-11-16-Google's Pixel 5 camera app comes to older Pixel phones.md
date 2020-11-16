@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Md3azNQlkrv7MlLq3EGthAte0dw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67794331/akrales_201012_4137_0073.0.0.jpg' width='700px' /><br/>
+Google has started to push out version 8.1 of its Google Camera app to Pixel phones, meaning owners of older devices will be getting some of the functionality from the new Pixel 5. Version 8.0 of the app was previously only available on the Pixel 5, but 9to5Google reports that 8.1 should work on phones as old as the Pixel 2 and 2 XL. The update was first noticed by Kelvin Peralta on Twitter.
+<a href='https://www.theverge.com/2020/11/16/21567049/google-pixel-camera-app-update-8-1'> Source <a/>

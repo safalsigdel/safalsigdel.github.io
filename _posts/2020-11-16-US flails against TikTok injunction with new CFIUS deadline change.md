@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rjz7puZQr0610GtcSBHyIe0Ph-k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67785943/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
+The US government has given video sharing platform TikTok another reprieve, but it's not totally clear how the latest deadline extension will be enforced or what the penalties would be.
+<a href='https://www.theverge.com/2020/11/13/21564030/us-tiktok-injunction-cfius-deadline-trump-bytedance-china'> Source <a/>

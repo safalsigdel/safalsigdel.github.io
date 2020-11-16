@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MDrZuol5pxfKT-Y5Z2neyL7nvxo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67785761/acastro_180329_1777_amazon_0001.0.jpg' width='700px' /><br/>
+A former Amazon employee is suing the company for discriminating against Black and Hispanic warehouse workers in its response to the ongoing pandemic. Christian Smalls worked at an Amazon fulfillment center in Staten Island, and says Amazon failed to provide him and his team with adequate protective equipment in the early months of the coronavirus outbreak.
+<a href='https://www.theverge.com/2020/11/13/21563996/amazon-organizer-racial-discrimination-lawsuit-warehouse-fulfillment-center'> Source <a/>

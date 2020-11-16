@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J8i3Tz2V7qTVCvV-vEx8DlMa3xw=/0x0:5248x3499/1200x800/filters:focal(3205x1461:4043x2299)/cdn.vox-cdn.com/uploads/chorus_image/image/67787040/dseifert-nest-audio-4225-1.0.0.jpeg' width='700px' /><br/>
+Google is working on integrating its Chromecast streaming devices and Nest Audio speakers, according to a comment from a Google spokesperson in The Wall Street Journal, in a move that would give Google's smart home and streaming gadgets a feature parity with Amazon and Apple.
+<a href='https://www.theverge.com/2020/11/13/21564380/google-nest-audio-speakers-chromecast-streaming-integration-link'> Source <a/>

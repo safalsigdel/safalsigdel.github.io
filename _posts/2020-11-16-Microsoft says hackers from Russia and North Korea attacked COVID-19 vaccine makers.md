@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rt8LqAsoaAaRY4jARDV-8uwYm4U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67789517/acastro_170621_1777_0006_v4.0.jpg' width='700px' /><br/>
+Cyberattacks that originated in North Korea and Russia have been targeting companies conducting research for COVID-19 vaccines and treatments, Microsoft said in a new blog post. The company says the attacks were aimed at seven leading pharmaceutical companies and researchers in the US, Canada, France, India, and South Korea.
+<a href='https://www.theverge.com/2020/11/14/21565136/microsoft-hackers-russia-north-korea-attacked-covid-19-vaccine-coronavirus'> Source <a/>

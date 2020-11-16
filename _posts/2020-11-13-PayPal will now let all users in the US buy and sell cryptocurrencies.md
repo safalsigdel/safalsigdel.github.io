@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FE3ZTgPlo1BxE4HMY4N_s463wlU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67780046/acastro_180410_1777_paypal_0001.0.jpg' width='700px' /><br/>
-PayPal will now let all users in the US buy, sell, and hold cryptocurrencies right from their PayPal account. The news came in an update to a press release from last month announcing that the new functionality was on the way (via TechCrunch).
-<a href='https://www.theverge.com/2020/11/12/21562771/paypal-cryptocurrency-buy-sell-bitcoin-ethereum-litecoin-us-users'> Source <a/>

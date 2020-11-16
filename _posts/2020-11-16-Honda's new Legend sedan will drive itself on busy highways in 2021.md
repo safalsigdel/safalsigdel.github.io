@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/So-NU-IuaSQO8YEmYGgapmN0ggE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67784717/geneva_honda_eprototype_vladsavov28.0.jpg' width='700px' /><br/>
+Honda made the bold claim this week that it will mass-produce autonomous vehicles capable of performing 100 percent of driving tasks under certain conditions, but that drivers would need to stand by to take control when needed.
+<a href='https://www.theverge.com/2020/11/13/21562384/honda-level-3-autonomous-driving-legend-2021'> Source <a/>
