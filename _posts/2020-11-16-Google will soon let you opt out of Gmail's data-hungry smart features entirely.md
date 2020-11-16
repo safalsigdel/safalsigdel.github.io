@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CL1hyVp0ceVn6VSlIrP4W6IJGOI=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/67798829/newgmaillogo.0.jpg' width='700px' /><br/>
+Google is adding a new option to let users opt out of having their Gmail, Chat, and Meet data used to offer smart features like Smart Compose and Smart Reply, the company announced today. Although you've previously been able to toggle these individual features on and off, the new toggle disables the background data processing that makes them possible. Google says the new option will roll out “in the coming weeks.”
+<a href='https://www.theverge.com/2020/11/16/21569599/google-gmail-meet-chat-personal-data-toggle-privacy'> Source <a/>
