@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oDOXs3CDLMYHecQj97_FBRURdiU=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/67805619/ezgif.com_gif_maker.0.jpg' width='700px' /><br/>
+Bud Light, the beer brand produced by Anheuser-Busch, has created a video game console. It's called the BL6, and yes, it will keep two of your beers cold. It has 16 gigabytes of memory and six games, including Tekken 7 and Soulcalibur VI. It has a built-in Asus projector. It has the form factor of a six-pack of beer.
+<a href='https://www.theverge.com/2020/11/17/21571448/bud-light-bl6-console-tekken-soulcalibur'> Source <a/>
