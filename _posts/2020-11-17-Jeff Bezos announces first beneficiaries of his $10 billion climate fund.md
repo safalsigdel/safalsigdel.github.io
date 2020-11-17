@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E4WDE2Nmyp6B_nfM-5w4JBJUzCY=/0x0:4320x2880/1200x800/filters:focal(1815x1095:2505x1785)/cdn.vox-cdn.com/uploads/chorus_image/image/67800188/1169518004.0.jpg' width='700px' /><br/>
-Jeff Bezos named 16 environmental organizations that will get the first chunk of his $10 billion fund for climate action on Instagram today. Collectively, they'll get $791 million from the richest man on Earth, although Bezos did not specify how much would go to each group.
-<a href='https://www.theverge.com/2020/11/16/21569902/jeff-bezos-first-recipients-10-billion-climate-change-fund'> Source <a/>

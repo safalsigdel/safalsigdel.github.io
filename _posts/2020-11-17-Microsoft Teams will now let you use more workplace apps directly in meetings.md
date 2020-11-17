@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I2mGtdCtPVe0M-qXxbV-GPYuMQY=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/67799169/microsoftteams.0.jpg' width='700px' /><br/>
-Microsoft is introducing the ability to integrate popular workplace apps like Asana into meetings on its Teams collaboration platform. Teams meetings were previously limited to chats and channel communications, but now users can integrate 20 new apps into their meetings. For instance, you can discuss and modify a project built in Asana with others directly within a Teams meeting.
-<a href='https://www.theverge.com/2020/11/16/21569404/microsoft-teams-workplace-apps-meetings'> Source <a/>

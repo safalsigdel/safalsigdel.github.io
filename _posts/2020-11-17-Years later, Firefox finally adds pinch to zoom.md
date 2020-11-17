@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ats_zZA-3-nGZGTLuCbOnmElho8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67804346/acastro_200207_3900_firefox_0001.0.0.jpg' width='700px' /><br/>
+Firefox is finally getting a feature that other major browsers have had for years: pinch to zoom.
+<a href='https://www.theverge.com/2020/11/17/21569559/firefox-pinch-to-zoom-support-windows-mac'> Source <a/>

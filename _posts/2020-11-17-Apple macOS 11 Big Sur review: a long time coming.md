@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H5nwnqO0oNmrMeNQGQs425hmHEo=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67798722/vpavic_191118_3800_0189.0.jpg' width='700px' /><br/>
-Last week might've been the most important week of this year for consumer laptops. Apple announced its new M1 chip, which, if the company's claims about performance gains are to be believed, could redefine our expectations for laptop processors. But there's another release this week that will usher in a big change for Mac users: macOS Big Sur.
-<a href='https://www.theverge.com/2020/11/16/21564490/macos-big-sur-review-apple-macbook-pro-air-mac-ipad-m1'> Source <a/>

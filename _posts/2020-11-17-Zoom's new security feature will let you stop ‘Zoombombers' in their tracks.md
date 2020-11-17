@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kaotdGCLkgNExZTZh7Uf1Y_Ge7U=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67801391/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
-Zoom will now let you temporarily pause meetings so you can kick out “Zoombombers” or disruptive individuals, the company announced in a blog post.
-<a href='https://www.theverge.com/2020/11/16/21570302/zoom-security-temporarily-shut-down-suspend-meetings-stop-zoombombers'> Source <a/>

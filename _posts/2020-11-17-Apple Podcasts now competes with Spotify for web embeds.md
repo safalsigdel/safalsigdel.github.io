@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3z4-da2-VnMx8HjXLGMn-w3QDi0=/0x0:1306x870/1200x800/filters:focal(549x331:757x539)/cdn.vox-cdn.com/uploads/chorus_image/image/67800451/apple_podcasts.0.jpg' width='700px' /><br/>
-Apple will now let anyone embed podcasts from Apple Podcasts on the web. This means that you might see more of Apple Podcasts online, and Apple is setting itself up to compete with other podcast players for coveted embed recognition.
-<a href='https://www.theverge.com/2020/11/16/21570041/apple-podcasts-embed-web-player-code'> Source <a/>

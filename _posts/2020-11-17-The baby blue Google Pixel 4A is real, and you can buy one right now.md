@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-If you've been put off by the astoundingly excellent-for-$349 Google Pixel 4A because it only comes in black, you should know that's no longer true. In September, we got wind that Google originally intended to offer a baby blue color, too, and you can now officially buy it at Google's website for the same $349 price — orange power button and all.
-<a href='https://www.theverge.com/2020/11/16/21570019/google-pixel-4a-barely-baby-blue-limited-edition'> Source <a/>

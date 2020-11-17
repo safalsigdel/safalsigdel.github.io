@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v0zWUp6Nqlk_UgIGR2IJpjv2AJA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67804360/akrales_181010_3013_0065.0.jpg' width='700px' /><br/>
+Uber is loosening some of the rules in its two-year-old rewards program to make it easier for customers to access perks like discounted rides and food delivery, the company announced. Under the new rules, customers can redeem rewards for fewer points and will have longer to use their points than under the previous rules.
+<a href='https://www.theverge.com/2020/11/17/21571104/uber-rewards-redeem-points-perks-discounts'> Source <a/>
