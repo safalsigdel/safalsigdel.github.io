@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZzUvwEP0BbnPhehVta2eZ15GJAI=/0x0:3000x1990/1200x0/filters:focal(0x0:3000x1990):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22047642/OPPO_X_2021rollable_concept_handset_gaming_scenario.jpg' width='700px' /><br/>
-Oppo has held its second annual “Inno Day,” an event where it shows off products in concept form and sets out its vision for the future. Headlining this year is a smartphone with an expandable “rolling” screen and a new set of AR glasses.
-<a href='https://www.theverge.com/2020/11/17/21571056/oppo-x-2021-rolling-phone-ar-glass-concept-inno-day-2020'> Source <a/>
