@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r-qgJv3H93dIkdW8TsPKIuQUnBU=/0x0:6000x4000/1200x800/filters:focal(1007x1892:1967x2852)/cdn.vox-cdn.com/uploads/chorus_image/image/67801976/1229089248.0.jpg' width='700px' /><br/>
-Airbnb filed for an initial public offering on Monday, released its prospectus, and indicated it will trade on the Nasdaq exchange under the ticker symbol ABNB.
-<a href='https://www.theverge.com/2020/11/16/21570416/airbnb-coronavirus-pandemic-travel-hospitality'> Source <a/>
