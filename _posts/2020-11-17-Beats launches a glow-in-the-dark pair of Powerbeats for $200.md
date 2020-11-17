@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IdBun8hQh0XUXAYT_wzWfCI8XOc=/0x0:2424x1406/1200x800/filters:focal(1019x510:1405x896)/cdn.vox-cdn.com/uploads/chorus_image/image/67805450/Screen_Shot_2020_11_17_at_11.23.16_AM.0.png' width='700px' /><br/>
+Beats today announced a glow-in-the-dark set of its Powerbeats neckband earbuds. Priced at $199.95 (a $50 upsell over the regular model), they're a collaboration between Beats and design label Ambush, with the latter company's logo printed on the buds.
+<a href='https://www.theverge.com/2020/11/17/21571427/beats-ambush-powerbeats-glow-in-the-dark-announced-pricing'> Source <a/>
