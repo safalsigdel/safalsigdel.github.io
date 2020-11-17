@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nHoJgzUWGQ7B7ogOCSyJ5UooZaE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67802656/vpavic_201103_4275_0163.0.jpg' width='700px' /><br/>
-The Xbox Series X and S launched last week, but if you weren't lucky enough to have a pre-order or snag one of the few launch-day units, you might be waiting until next year — that's when there might be enough Xbox supply to easily pick up a new console off the shelf, according to a top Xbox exec.
-<a href='https://www.theverge.com/2020/11/16/21570651/xbox-series-x-s-short-supply-april-q3-tim-stuart-phil-spencer'> Source <a/>

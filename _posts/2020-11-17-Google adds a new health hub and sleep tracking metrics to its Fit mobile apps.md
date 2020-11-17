@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/khPdmna9OG1BwX9vneObVXIWFOE=/0x0:2410x1863/1200x800/filters:focal(1013x740:1397x1124)/cdn.vox-cdn.com/uploads/chorus_image/image/67805519/google_fit_apps.0.jpg' width='700px' /><br/>
+Google has announced an update to its Fit mobile apps that will introduce a new centralized home screen of health-related information and more sleep tracking data. The updates, for both the Android and iOS versions of Google Fit, will start rolling out this week. Google is also adding new tiles to its Wear OS smartwatch app for workouts, weather, and breathing exercises.
+<a href='https://www.theverge.com/2020/11/17/21571272/google-fit-homescreen-health-hub-sleep-tracking-new-features-update'> Source <a/>
