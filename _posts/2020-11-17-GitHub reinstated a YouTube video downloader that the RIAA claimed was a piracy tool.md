@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4xu3YLLm19mcq0vcU9oEN9DWwaU=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/67805861/GitHub___Day_1_Keynote_NatFriedman_1_.0.jpg' width='700px' /><br/>
+GitHub has reinstated an open-source tool for downloading YouTube videos, and it's changed its policies to make similar copyright-related takedowns less likely. Yesterday, the Microsoft-owned software repository reversed its removal of YouTube-dl, which lets users save local copies of streaming videos from YouTube and many other sites.
+<a href='https://www.theverge.com/2020/11/17/21571473/github-youtube-dl-downloader-riaa-copyright-1201-takedown-reinstated'> Source <a/>

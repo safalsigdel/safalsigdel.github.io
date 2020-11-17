@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ytp_JqyKEyLySJ0A7YcVztArs68=/0x0:2835x1893/1200x800/filters:focal(1192x721:1644x1173)/cdn.vox-cdn.com/uploads/chorus_image/image/67803735/1206506281.0.jpg' width='700px' /><br/>
-Adobe is releasing Arm versions of Photoshop for Windows and macOS today. The beta releases will allow owners of a Surface Pro X or Apple's new M1-powered MacBook Pro, MacBook Air, and Mac mini to run Photoshop natively on their devices. Currently, Photoshop runs emulated on Windows on ARM, or through Apple's Rosetta translation on macOS.
-<a href='https://www.theverge.com/2020/11/17/21571070/adobe-photoshop-arm64-beta-windows-macos-m1'> Source <a/>
