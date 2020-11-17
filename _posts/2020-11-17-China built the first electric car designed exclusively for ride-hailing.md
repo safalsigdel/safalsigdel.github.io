@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-fA8moLJQ7paNFz2EN17LSNgmgg=/0x0:2690x1708/1200x800/filters:focal(1130x639:1560x1069)/cdn.vox-cdn.com/uploads/chorus_image/image/67805403/Car_Side.0.jpg' width='700px' /><br/>
+Two of China's top companies have joined forces to design, develop, and build an electric car for the express purpose of ride-hailing.
+<a href='https://www.theverge.com/2020/11/17/21570016/didi-chuxing-byd-electric-car-ride-hailing-china'> Source <a/>
