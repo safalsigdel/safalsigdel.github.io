@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NzWKXqca6SGEWeR3pttcvBRS6Sg=/0x0:1400x786/1200x800/filters:focal(385x89:609x313)/cdn.vox-cdn.com/uploads/chorus_image/image/67798305/hbo_max.0.jpeg' width='700px' /><br/>
-After a long battle between Amazon and HBO owner WarnerMedia, the two companies have come to an agreement that will allow Amazon Fire TV users to finally stream HBO Max.
-<a href='https://www.theverge.com/2020/11/16/21569441/hbo-max-amazon-fire-tv-tablets-roku-prime-video-channel-membership'> Source <a/>
