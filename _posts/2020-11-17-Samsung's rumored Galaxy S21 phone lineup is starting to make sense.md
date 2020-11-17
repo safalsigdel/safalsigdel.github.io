@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XfxKVQvcKGRoEk1wJYdwdmkIF3k=/0x0:4500x3004/1200x800/filters:focal(1890x1142:2610x1862)/cdn.vox-cdn.com/uploads/chorus_image/image/67803976/1228775948.jpg.0.jpg' width='700px' /><br/>
+The crush of new hardware to review and discuss is beginning to wind down, but there are a few more gadgets to talk about over the next week. Believe it or not, though, it's also time to start talking about 2021's consumer tech. No, not CES, but Samsung. The company is widely expected to hold its Galaxy S21 event in January instead of the usual March.
+<a href='https://www.theverge.com/2020/11/17/21570706/samsung-galaxy-s21-phones-leaks-rumors'> Source <a/>
