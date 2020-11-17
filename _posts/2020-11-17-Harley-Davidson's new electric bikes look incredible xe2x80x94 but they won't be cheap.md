@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c-sgS2zLxY7YqMJKy2TlQPhSZt8=/0x0:2000x1333/1200x675/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/67798195/MOSH_CTY_Action_Night.0.jpg' width='700px' /><br/>
-Serial 1 Cycle, the e-bike brand recently launched by Harley-Davidson, revealed new details about its forthcoming lineup of battery-powered two-wheelers. The first four models, which will go on sale in the US and Germany starting spring 2021, are all pedal-assist city bikes with mid-drive motors, integrated batteries, and a design that is unmistakably Harley-Davidson.
-<a href='https://www.theverge.com/2020/11/16/21564315/harley-davidson-ebikes-serial-1-price-specs-date'> Source <a/>
