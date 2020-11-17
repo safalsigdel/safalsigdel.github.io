@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fvHfrDt8dDsOfJ8FTVdLiYvCvvQ=/0x0:637x353/1200x800/filters:focal(269x127:369x227)/cdn.vox-cdn.com/uploads/chorus_image/image/67791658/cM48PJTA.0.png' width='700px' /><br/>
-Games Done Quick's (GDQ) all-women speedrunning community, the Frame Fatales, will be hosting the Fleet Fatales event to raise money for charity this week. It kicks off today at 4PM ET on the Games Done Quick Twitch channel.
-<a href='https://www.theverge.com/2020/11/15/21564604/games-done-quick-fleet-fatales-all-women-speedrunning-event-frame-malala-fund'> Source <a/>

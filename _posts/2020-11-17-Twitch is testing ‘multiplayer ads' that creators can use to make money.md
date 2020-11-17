@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Cc_N1vGe2RLpso2_gYbUTe4bf7c=/0x0:1124x639/1200x800/filters:focal(473x231:651x409)/cdn.vox-cdn.com/uploads/chorus_image/image/67801543/Ads1.0.png' width='700px' /><br/>
+Today, Twitch is rolling out something it's calling “multiplayer ads” in closed beta. They're ads triggered by streamers that all viewers watch. (Currently, ads shown to viewers are targeted; these are not.) After one of these ads plays, creators can run a poll for their viewers that awards the streamer bits depending on how many viewers participate.
+<a href='https://www.theverge.com/2020/11/16/21570243/twitch-multiplayer-ads-cpm-bits-streamer'> Source <a/>

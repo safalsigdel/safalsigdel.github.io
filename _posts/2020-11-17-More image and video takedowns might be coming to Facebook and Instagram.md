@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DSGidNveHRjBGUdm1nmg7Db2nbw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67799292/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
+More copyright takedown requests might be coming to Facebook and Instagram. The company announced today that it's going to allow all page admins around the world to submit images and videos for rights protection, expanding the reach of the feature outside of the limited group of partners who piloted the image copyright launch.
+<a href='https://www.theverge.com/2020/11/16/21569637/facebook-rights-request-image-video-update-takedown'> Source <a/>

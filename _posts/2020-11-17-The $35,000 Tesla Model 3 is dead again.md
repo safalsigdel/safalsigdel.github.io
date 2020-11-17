@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o_hPdGvuyONoEXpNESjDcS49K7I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67799560/jbareham_180213_2301_0089.0.jpg' width='700px' /><br/>
+The saga of the $35,000 Tesla Model 3 has, once again, taken a dark turn. According to Electrek, the automaker will no longer be offering the cheapest version of its popular electric sedan with the forthcoming model year 2021 refresh. This represents the second time in so many years that Tesla has stopped selling the most affordable version of its mass-market car.
+<a href='https://www.theverge.com/2020/11/16/21569524/tesla-model-3-35000-price-stop-selling'> Source <a/>

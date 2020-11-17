@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F4cOkYTy5tOk97sqNdnmhLDidPQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67799722/acastro_180109_1777_0002.0.jpg' width='700px' /><br/>
+A recent ransomware attack on Capcom may have compromised personal data for approximately 350,000 people, the company says. That information includes names, addresses, birthdates, phone numbers, passport info, “HR information,” and more. It includes individuals across Japan and North America.
+<a href='https://www.theverge.com/2020/11/16/21569662/capcom-hack-ransomware-persona-data'> Source <a/>

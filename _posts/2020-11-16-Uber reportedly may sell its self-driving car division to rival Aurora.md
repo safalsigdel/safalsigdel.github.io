@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8i3FQhmmiMyHYBMzoJ9OR9buVDs=/0x0:2376x1782/1200x800/filters:focal(1101x896:1481x1276)/cdn.vox-cdn.com/uploads/chorus_image/image/67789235/UberSF_TA_1.0.jpg' width='700px' /><br/>
-Uber is in talks to sell its autonomous vehicle unit to startup competitor Aurora Innovation, TechCrunch reported. If it comes to pass, the sale of Uber Advanced Technologies Group (UberATG), would mark the end of a bumpy road for a division of Uber that was valued at $7.25 billion as recently as last July, but which has been plagued with ongoing problems.
-<a href='https://www.theverge.com/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving'> Source <a/>

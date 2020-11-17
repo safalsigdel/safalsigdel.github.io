@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kimVZW_KACVHbFiosAo6A5C-bwI=/0x0:1200x671/1200x800/filters:focal(504x240:696x432)/cdn.vox-cdn.com/uploads/chorus_image/image/67786973/expeditions.0.0.jpg' width='700px' /><br/>
-Google is ending support for its Expeditions virtual reality app. The app, which offered educational VR tours, will be removed from iOS and Android app stores on June 30th, 2021. “The majority” of its tours will be migrated to Google's separate Arts & Culture app, letting users view them via web or mobile device.
-<a href='https://www.theverge.com/2020/11/13/21564279/google-expeditions-vr-cardboard-tours-shutdown-arts-culture-app-migration'> Source <a/>

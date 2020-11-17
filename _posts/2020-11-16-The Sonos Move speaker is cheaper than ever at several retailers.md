@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PJQtL_fU3e6HfeO0XTMl3b3QvgM=/0x0:2040x1360/1200x800/filters:focal(883x609:1209x935)/cdn.vox-cdn.com/uploads/chorus_image/image/67788689/dseifert_190915_3647_0001.0.jpg' width='700px' /><br/>
-The Sonos Move smart speaker is $100 off at retailers like Best Buy, B&H Photo and Amazon today only, bringing the cost from $400 to a more reasonable $300. You can save a little more at Wellbots on the speaker if you live outside of NY, as it doesn't charge sales tax on purchases for all other US states.
-<a href='https://www.theverge.com/good-deals/2020/11/14/21563848/sonos-move-wifi-bluetooth-speaker-alexa-google-assistant-sale-deal-best-buy-amazon-bh-photo'> Source <a/>

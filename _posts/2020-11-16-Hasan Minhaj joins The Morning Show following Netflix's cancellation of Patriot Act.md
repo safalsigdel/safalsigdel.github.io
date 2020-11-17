@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UgDumM28YxCOSCAb6rBkPCDU32M=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67787496/1191453020.0.jpg' width='700px' /><br/>
-Hasan Minhaj, formerly the host of the now-canceled Netflix talk show Patriot Act with Hasan Minhaj, will have a major recurring role in the second season of Apple TV Plus hit The Morning Show, Deadline reports. “He will play Eric, a charismatic, rising star who joins The Morning Show team,” according to Deadline.
-<a href='https://www.theverge.com/2020/11/13/21564529/hasan-minhaj-the-morning-show-apple-tv-plus'> Source <a/>

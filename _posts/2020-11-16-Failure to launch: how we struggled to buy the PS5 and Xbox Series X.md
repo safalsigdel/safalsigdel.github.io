@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/znvWGq_qNbxWhS6_bU2mrivXm_w=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67787219/1Z8A9152.0.jpg' width='700px' /><br/>
-The Xbox Series X, Xbox Series S, and PlayStation 5 are finally here, and for many of us at The Verge, this has been one of the most highly anticipated weeks of the entire year. But actually getting a console, even ones that were preordered, hasn't been easy.
-<a href='https://www.theverge.com/2020/11/13/21564282/ps5-sony-playstation-5-xbox-series-x-orders-launch-week'> Source <a/>

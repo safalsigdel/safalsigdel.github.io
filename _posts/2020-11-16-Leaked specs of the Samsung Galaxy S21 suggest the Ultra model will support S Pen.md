@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yj5qA0mAoJO1j65jpQC-_pE9Pjw=/0x0:1080x720/1200x800/filters:focal(454x274:626x446)/cdn.vox-cdn.com/uploads/chorus_image/image/67792486/1229456504.0.jpg' width='700px' /><br/>
-Samsung's Galaxy S21 is anticipated to debut in January, and Android Police has a slew of leaked specs for the forthcoming phone. The usual caveats about leaked information apply, but most of it lines up with what you'd expect.
-<a href='https://www.theverge.com/2020/11/15/21566084/samsung-galaxy-s21-specs-leak-ultra-plus-spen'> Source <a/>

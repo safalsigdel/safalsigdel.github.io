@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i7rjFov1uokc915LpcjfWLoRGRo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67790277/acastro_181114_1777_amazon_hq2_0003.0.jpg' width='700px' /><br/>
-An Amazon support member trying to help a subscriber on Twitter was apparently not fully up to speed on world geography when they suggested to the user that Northern Ireland wasn't part of the United Kingdom.
-<a href='https://www.theverge.com/2020/11/14/21565409/amazon-twitter-support-geography-fail-ireland'> Source <a/>

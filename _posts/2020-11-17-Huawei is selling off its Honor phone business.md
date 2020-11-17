@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GXgdTo1ZMGjr_aj8OpvomPGdYmQ=/0x0:2040x1360/1200x800/filters:focal(987x483:1313x809)/cdn.vox-cdn.com/uploads/chorus_image/image/67802842/DSCF6031.0.jpg' width='700px' /><br/>
+Huawei has announced plans to sell off Honor, its smartphone business focused on mid-range products for younger consumers. Huawei says the decision “has been made by Honor's industry chain to ensure its own survival,” following “tremendous pressure” and “a persistent unavailability of technical elements needed for our mobile phone business.”
+<a href='https://www.theverge.com/2020/11/16/21570744/huawei-honor-sale-announced-us-sanctions'> Source <a/>

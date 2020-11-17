@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FxDOjsf1Yajer-jPTwN6cNlO49g=/0x0:4000x2628/1200x800/filters:focal(1680x994:2320x1634)/cdn.vox-cdn.com/uploads/chorus_image/image/67790085/1225872882.0.jpg' width='700px' /><br/>
-Social media app Parler receives financial backing from conservative hedge-fund investor Robert Mercer and his daughter Rebekah, The Wall Street Journal reported. The app, founded as an alternative to Twitter and Facebook which bills itself as “viewpoint neutral” saw nearly 1 million new downloads in the days after the US presidential election, rocketing it to the top of the iOS and Google Play app stores.
-<a href='https://www.theverge.com/2020/11/14/21565344/parler-funding-conservative-mercer-app-trump-twitter-facebook'> Source <a/>
