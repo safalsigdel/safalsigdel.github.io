@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TL2SbXnxbmryvTkU4G1c-48RgSM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67808467/vpavic_4291_20201113_0366.0.0.jpg' width='700px' /><br/>
+Google's version of Chrome that will run natively on Apple's new Macs with Arm-based processors is now available, according to Mark Chang, a Chrome product manager. Google initially began rolling the new version out Tuesday, but paused the rollout because that version may have crashed unexpectedly.
+<a href='https://www.theverge.com/2020/11/17/21572418/google-chrome-run-natively-on-apples-arm-macs-m1'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LVS3BO295V-v8Zv2jsZaAy8fWOY=/0x0:2050x1148/1200x800/filters:focal(861x410:1189x738)/cdn.vox-cdn.com/uploads/chorus_image/image/67813466/Screen_Shot_2020_11_18_at_4.39.01_PM.0.png' width='700px' /><br/>
+Star Wars: Squadrons is getting some major additions in the coming months: a new map and ship parts will roll out in an update on November 25th, while a December update will add two brand-new ships — the fan-favorite B-wing and TIE Defender starfighters — to the game.
+<a href='https://www.theverge.com/2020/11/18/21574074/star-wars-squadrons-update-new-map-ships-b-wing-tie-defender'> Source <a/>

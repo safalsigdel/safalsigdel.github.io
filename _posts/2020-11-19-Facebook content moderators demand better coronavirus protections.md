@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4RxA0RbSCM6mU106iBn1m1vG9_0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67812277/wjoel_180319_2394_facebook_0002.0.jpg' width='700px' /><br/>
+More than 200 content moderators at Facebook have signed an open letter to Mark Zuckerberg demanding better COVID-19 protections. They say management has needlessly put their lives at risk by forcing them back into the office, even as full-time employees work from home until July 2021.
+<a href='https://www.theverge.com/2020/11/18/21573526/facebook-content-moderators-open-letter-coronavirus-protections-demands-accenture'> Source <a/>

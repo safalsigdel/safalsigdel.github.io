@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wDgBoZixzpYNPg_S72qwPe6XFtU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67810479/acastro_20200818_1777_epicApple_0003.0.0.jpg' width='700px' /><br/>
+Epic Games and Spotify, united in their fight against Apple, each released statements on Wednesday slamming the iPhone maker following news of its new App Store fee reduction for developers making less than $1 million per year.
+<a href='https://www.theverge.com/2020/11/18/21573109/epic-tim-sweeney-apple-app-store-fee-cut-reduction-criticize'> Source <a/>

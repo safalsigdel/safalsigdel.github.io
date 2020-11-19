@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6pb0ER4nnFOgoCI2OeefCe4iuRg=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/67804387/Motional_Announcement_Image_2.0.jpg' width='700px' /><br/>
-Motional, the self-driving car operator backed by Hyundai and Aptiv, has received the green light to roll out a test fleet of fully driverless cars in Las Vegas. The state of Nevada has granted the company permission to operate its autonomous vehicles without a human safety driver behind the wheel.
-<a href='https://www.theverge.com/2020/11/17/21570365/motional-driverless-level-4-autonomous-vehicles-hyundai'> Source <a/>

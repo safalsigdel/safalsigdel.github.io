@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/34K4f1DmfjhgifvKKPZjgeIAP1U=/0x0:1024x683/1200x800/filters:focal(431x261:593x423)/cdn.vox-cdn.com/uploads/chorus_image/image/67811404/5ef069f663118.0.jpeg' width='700px' /><br/>
+Airflow is a subject dear to Charlie Strange's heart. As the facilities director for a Texas facility operated by HVAC manufacturer Goodman, he helps oversee the production of heating, ventilation, and AC units in the world's fifth-largest factory building — 4.2 million square feet of space, all dedicated to the generation of hot and cold currents and gusts.
+<a href='https://www.theverge.com/2020/11/18/21573053/cleaning-robots-autonomous-covid-19-coronavirus-uv-foggers-offices-breezy-one'> Source <a/>

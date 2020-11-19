@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A_I1t1eVMv4xKsQU9M6Qf93YWig=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/67804444/DTC_5_MF_0270_WM.0.jpg' width='700px' /><br/>
-Nintendo and Champion are attempting to turn Mario into a style icon with a new collaboration. As part of Super Mario's 35th anniversary, the two companies have announced a limited edition capsule collection that mashes streetwear with the Mushroom Kingdom. The highlight is a pair of bright red overalls, but there's also a tie-dye Toad shirt, T-shirts with classic Mario box art, and a Princess Peach hoodie.
-<a href='https://www.theverge.com/2020/11/17/21570270/nintendo-super-mario-anniversary-champion-streetwear-collection'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Saving money on new Apple products is usually out of the question, but the new 13-inch MacBook Pro that has Apple's powerful M1 silicon is already $50 off at Amazon. Instead of costing $1,299 for the base model with 256GB of storage and 8GB of RAM, you'll pay $1,250. Yeah, it's a small discount, and apparently deliveries are currently taking between  two to five weeks. Saving $50 might not make it worth the possibly long wait, but this deal's here in case you want to take advantage of it.
+<a href='https://www.theverge.com/good-deals/2020/11/18/21573502/apple-m1-macbook-pro-amazon-sale-discount-50-off'> Source <a/>

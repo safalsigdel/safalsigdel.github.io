@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iOQlKH1eQk3ZZVMlrmGQli8pG-4=/0x0:4320x4320/1200x800/filters:focal(1772x1078:2462x1768)/cdn.vox-cdn.com/uploads/chorus_image/image/67804149/RUPAKh4g.0.png' width='700px' /><br/>
-Twitter on Tuesday announced a global launch of “Fleets,” the ephemeral tweeting feature it first announced earlier this year and tested in various markets around the globe.
-<a href='https://www.theverge.com/2020/11/17/21570368/twitter-fleets-disapeating-tweets-stories-launch-available-now'> Source <a/>

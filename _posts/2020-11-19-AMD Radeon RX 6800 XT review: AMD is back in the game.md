@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4HyNO8TZGrHcXiYwgr9FgP2Icos=/0x0:2040x1351/1200x675/filters:focal(837x749:1163x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/67810172/twarren_201116_4300_0001.0.0.jpg' width='700px' /><br/>
+As a teenager, I used to love AMD. I would proudly stick AMD and ATI stickers to the front of the custom PCs I built, excited to use the latest and greatest Athlon 64 processor and an ATI Radeon 9800 card. That was 17 years ago, before AMD acquired ATI in 2006. AMD went on to kill off the ATI brand in 2010 and has struggled to compete with Nvidia and Intel ever since.
+<a href='https://www.theverge.com/21571414/amd-radeon-rx-6800-xt-review'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pyRU1OH4I0YhxkMCQEiOPW3yCls=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67813806/Untitled.0.png' width='700px' /><br/>
+Google's Gmail application has been updated for iOS 14 with a new widget — but it's probably not the kind of Gmail widget you may have been hoping for.
+<a href='https://www.theverge.com/2020/11/18/21574112/google-new-gmail-widget-ios-14-limitations'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zJh1Xo_dYdEI-3M79_H4hzRExqw=/0x0:919x720/1200x800/filters:focal(383x280:529x426)/cdn.vox-cdn.com/uploads/chorus_image/image/67811743/Screen_Shot_2020_11_17_at_10.20.41_AM.0.png' width='700px' /><br/>
+Google has announced new family-oriented updates for Assistant and Fi, which can be potentially useful whether you've all been under the same roof for the duration of the pandemic or you're making plans to visit for the holidays.
+<a href='https://www.theverge.com/2020/11/18/21571510/google-assistant-fi-family-features-sticky-notes-interactive-stories-parental-controls'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gy_k4tRX5CyYKljSqa3LNZWKAo8=/0x0:900x460/1200x800/filters:focal(378x158:522x302)/cdn.vox-cdn.com/uploads/chorus_image/image/67804923/experience_stores_middle_row1.0.0.jpg' width='700px' /><br/>
-The holidays are approaching — and the retailers are in tight competition for your dollars. In order to convince you that they're the place to buy from, they are not just dropping prices on their products; they're making it a lot easier to have those products shipped and to return them if the person you bought the laptop or gaming console or phone for doesn't like it.
-<a href='https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon'> Source <a/>
