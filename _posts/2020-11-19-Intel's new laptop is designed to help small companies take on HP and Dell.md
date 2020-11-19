@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/65I-7WoCglZ4xx6W4SG5vc5VOXM=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67816389/dseifert_201118_4304_0001.0.0.jpg' width='700px' /><br/>
+Intel is launching a new laptop. Yes, that's right, Intel itself has a new laptop that it designed in-house and will be selling through various partners early in 2021. The NUC M15 is the latest computer in the company's expanding Next Unit of Computing line, which is best known for making tiny desktop PCs.
+<a href='https://www.theverge.com/2020/11/19/21573577/intel-nuc-m15-laptop-news-specs-features-price'> Source <a/>

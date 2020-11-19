@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rHdwnYkHIEtWNDWaK03pxBLVTRU=/0x0:2208x1292/1200x800/filters:focal(928x470:1280x822)/cdn.vox-cdn.com/uploads/chorus_image/image/67812088/img_hero_2x.0.jpg' width='700px' /><br/>
-Pixelmator has announced Pixelmator Pro 2.0, the newest update to the image-editing software Pixelmator Pro. The app will be available starting tomorrow, November 19th.
-<a href='https://www.theverge.com/2020/11/18/21573476/pixelmator-pro-update-arm-macs-big-sur-apple'> Source <a/>

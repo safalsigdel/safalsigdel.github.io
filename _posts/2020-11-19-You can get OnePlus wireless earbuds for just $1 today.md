@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kz6OGVYZ884Pmc19qKQ5Pfxsehs=/0x0:6240x4160/1200x800/filters:focal(2621x1581:3619x2579)/cdn.vox-cdn.com/uploads/chorus_image/image/67810283/DSCF1524_1.0.jpg' width='700px' /><br/>
-OnePlus has been on a roll with early Black Friday deals, and today's might be the most appealing yet if you don't want to spend a lot. In fact, you'll only need $1 for these. OnePlus is offering four opportunities to score its OnePlus Buds or the Bullets Wireless Z for just a buck. Click the link above, then scroll down to see the deals.
-<a href='https://www.theverge.com/good-deals/2020/11/18/21573084/oneplus-buds-bullets-wireless-z-earbuds-headphones-deal-black-friday'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YCDRrYfywzlmvRaSCWb-dWZQ8C8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67816956/vpavic_4278_20201030_0292.0.jpg' width='700px' /><br/>
+The UK's biggest game retailer, Game, is blaming the size of the PS5 and the number of consoles in the UK market for delivery delays. Sony launched its PS5 in the UK and across Europe today, but the launch hasn't gone smoothly for all Game customers.
+<a href='https://www.theverge.com/2020/11/19/21575181/sony-ps5-launch-uk-game-delivery-delays-yodel'> Source <a/>

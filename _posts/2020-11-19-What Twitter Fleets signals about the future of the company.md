@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2aVO2DXa-Bx5ze1mm4UaJrxPxtY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67811462/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
-In March 2017, I drove down to the Instagram offices in Menlo Park to meet with founder Kevin Systrom. The subject of the meeting had not been disclosed to me in advance, and when we sat down in a conference room, Systrom had a surprise for me: his team had cloned Snapchat's popular stories feature and planned to more or less import the design wholesale into Instagram.
-<a href='https://www.theverge.com/21573380/twitter-fleets-launch-stories-spaces-future'> Source <a/>

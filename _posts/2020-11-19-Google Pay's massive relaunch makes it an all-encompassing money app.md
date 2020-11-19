@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WWtp7U0m51Jbqfq11CwrMIwJU88=/0x0:3840x2160/1200x675/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/67811627/Google_Pay_3_tabs_edited.0.jpg' width='700px' /><br/>
-Today, Google Pay for both Android and iOS is relaunching with a giant array of new features. It turns the app from something that most people think of as a tap-to-pay card repository or peer-to-peer payment system into a much more ambitious service. The new app begins rolling out across the United States today.
-<a href='https://www.theverge.com/2020/11/18/21571806/google-pay-relaunch-money-payments-finances-deals-offers-banking-plex'> Source <a/>

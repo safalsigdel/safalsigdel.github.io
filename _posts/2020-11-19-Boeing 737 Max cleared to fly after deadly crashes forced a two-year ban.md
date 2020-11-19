@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3-Bl1xVrGTlhdqUlbBGQERNb45c=/0x0:4200x2800/1200x800/filters:focal(1764x1064:2436x1736)/cdn.vox-cdn.com/uploads/chorus_image/image/67810485/1229609486.0.jpg' width='700px' /><br/>
-The Federal Aviation Administration has cleared the Boeing 737 Max to fly for the first time since the plane was involved in two deadly crashes within five months of each other. On Wednesday, FAA Administrator Steve Dickson signed an order that paves the way for the troubled aircraft to return to commercial service.
-<a href='https://www.theverge.com/2020/11/18/21573113/boeing-737-max-cleared-fly-grounding-faa-crashes'> Source <a/>

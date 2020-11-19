@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KoHueud28ijG7x1ip1llIaDY-WM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67817284/vpavic_4291_20201113_0366.0.0.jpg' width='700px' /><br/>
+Apple's first M1 MacBooks are here, and the world of laptops has changed overnight.
+<a href='https://www.theverge.com/2020/11/19/21574057/apple-m1-chips-laptop-performance-intel-qualcomm-competition'> Source <a/>

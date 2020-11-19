@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sgYC-xospmaSfhByW0vq3bcI2ys=/0x0:1584x1056/1200x800/filters:focal(666x402:918x654)/cdn.vox-cdn.com/uploads/chorus_image/image/67816131/gumroad_office.0.png' width='700px' /><br/>
+Gumroad, which helps creators sell products online, is now allowing creators on its platform to offer memberships as an additional source of recurring revenue. With memberships, creators will be able to customize what products and content members will have access to at pricing tiers of their choosing — they can even offer a pay-what-you-want option.
+<a href='https://www.theverge.com/2020/11/19/21572698/gumroad-patreon-like-memberships-support-creators'> Source <a/>

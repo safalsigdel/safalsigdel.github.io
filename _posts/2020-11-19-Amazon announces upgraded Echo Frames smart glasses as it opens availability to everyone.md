@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ePxJ46OrrgdNOcg8Xu0cHMrNcQs=/0x0:2040x1246/1200x800/filters:focal(857x460:1183x786)/cdn.vox-cdn.com/uploads/chorus_image/image/67817329/Screen_Shot_2020_11_19_at_10.59.26_AM.0.png' width='700px' /><br/>
+Amazon has announced an upgraded model of its Echo Frames smart glasses, adding better sound quality, longer battery life, and new colors. Furthermore, the new Echo Frames are now available for anyone to buy, as the company transitions the Alexa-equipped glasses from a “Day One Edition” invitation-only device to a full-fledged product.
+<a href='https://www.theverge.com/2020/11/19/21575243/amazon-echo-frames-smart-glasses-alexa-loop-second-gen-available'> Source <a/>

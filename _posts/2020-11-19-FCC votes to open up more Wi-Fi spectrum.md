@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U8kq-RL2CAxjsgrPJgoVJohgQGw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67810979/acastro_180608_1777_net_neutrality_0002.0.jpg' width='700px' /><br/>
-There's going to be a little more room for Wi-Fi. The Federal Communications Commission voted today to open up a small amount of additional wireless spectrum for unlicensed indoor use, which should help to improve speeds and reduce congestion on 5GHz Wi-Fi networks.
-<a href='https://www.theverge.com/2020/11/18/21573068/fcc-wifi-5-9ghz-unlicensed-spectrum-frequencies'> Source <a/>
