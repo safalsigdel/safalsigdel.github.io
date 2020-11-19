@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oZxVaaOmUzs2pXip8_uyYUHlhqc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67809775/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
-Earlier this year, YouTube started adding “information panels” to videos and searches about COVID-19, directing viewers to authoritative sources in an attempt to combat misinformation about the disease. Now, as work on a COVID-19 vaccine begins to show early results, the company is tweaking this panel to also link to info about vaccination.
-<a href='https://www.theverge.com/2020/11/18/21573019/youtube-information-panels-fact-check-boxes-covid-19-vaccination-misinformation'> Source <a/>
