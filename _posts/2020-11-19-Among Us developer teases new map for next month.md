@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EdPvWH70IYRqNefc1x1gcUC_bGk=/0x0:1280x720/1200x800/filters:focal(0x516:204x720)/cdn.vox-cdn.com/uploads/chorus_image/image/67815836/EnIbB_JXIAI7Y3N.0.jpg' width='700px' /><br/>
+Among Us developer InnerSloth has used the first post from a newly established Twitter account for the game to tease a new map. “Here's a special look at the new Among Us map,” the developer tweeted, before hinting that more information would be revealed during The Game Awards on December 10th. Among Us is nominated for two awards at this year's show, “Best Multiplayer,” and “Best Mobile Game.”
+<a href='https://www.theverge.com/2020/11/19/21574856/among-us-fourth-map-henry-stickmin-multiplayer-the-game-awards-december'> Source <a/>
