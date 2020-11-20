@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ViuevbJwXPpF2pRynA9gS_gFPW8=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/67822252/microsoftteams.0.jpg' width='700px' /><br/>
+Microsoft is making a big push to entice fans of Zoom over to Microsoft Teams with a new all-day video calling option that can be used for free. While the software giant launched Microsoft Teams for consumers on mobile earlier this year, it's now bringing Teams' friends and family features to the desktop and web allowing you to create a Microsoft Teams meeting for up to 300 friends and family that can run all day free of charge.
+<a href='https://www.theverge.com/2020/11/20/21579076/microsoft-teams-free-video-calling-web-zoom-competition'> Source <a/>
