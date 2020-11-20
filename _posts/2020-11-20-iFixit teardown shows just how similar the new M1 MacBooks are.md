@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Iioo5VQxjsojeP_qIAQMsOjPDCU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67821991/FxeSiyYSpBwt6keG.0.jpeg' width='700px' /><br/>
+iFixit has gotten its hands on Apple's new M1-powered MacBook Air and MacBook Pro, which of course is to say that its team has torn the laptops apart to find out what's inside. And, while the Air and the Pro have set groundbreaking new standards for performance and efficiency, it turns out that this can be attributed almost entirely to the M1 chip rather than any particular design changes.
+<a href='https://www.theverge.com/2020/11/20/21579016/apple-m1-macbook-air-pro-ifixit-teardown'> Source <a/>
