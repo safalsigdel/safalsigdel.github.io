@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fhMubF2WYnyUmyCsOagIx8vw5Vc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67822511/vpavic_4278_20201030_0150.0.jpg' width='700px' /><br/>
+One of the big selling points of next-gen consoles like the PS5 or Xbox Series X is support for games running at 120fps on TVs and monitors that include 120Hz modes. While we've already seen a number of new Xbox and PS5 games running at 120fps, some existing games are only being updated with 120fps for the Xbox Series X, and not the PS5.
+<a href='https://www.theverge.com/2020/11/20/21579166/ps5-120fps-games-support-developer-rocket-league'> Source <a/>
