@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xebvb4n_trJWXS1ty3H5762wETI=/0x0:3500x2412/1200x800/filters:focal(1470x926:2030x1486)/cdn.vox-cdn.com/uploads/chorus_image/image/67818577/Lime_Gen4.0.jpg' width='700px' /><br/>
+Lime unveiled its fourth-generation electric scooter with a swappable battery and enhanced safety features. The company also announced it was “cash flow positive” in the third quarter of 2020 — a sign that the scooter sharing giant is getting closer to becoming profitable for the first time.
+<a href='https://www.theverge.com/2020/11/19/21575127/lime-next-gen-scooter-profit-quarter'> Source <a/>

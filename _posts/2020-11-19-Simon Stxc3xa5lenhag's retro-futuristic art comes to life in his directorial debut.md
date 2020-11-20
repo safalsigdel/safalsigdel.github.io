@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MwKSoFleDqNMNJc3dGGlbtOk_Ls=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22052572/SimonStalenhag_Geronimo_Duvchi_03.jpg' width='700px' /><br/>
-Simon Stxc3xa5lenhag has been on a roll recently. Earlier this year, Amazon adapted his book Tales from the Loop into a series. Last month, he kickstarted a new book called The Labyrinth. Now, he's making his directorial debut with the music video for “Geronimo,” a single off of Duvchi's forthcoming album, This Kind of Ocean, for which he also made the cover art.
-<a href='https://www.theverge.com/21573787/simon-stalenhag-music-video-duvchi-geronimo'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4sCWgI9LA3JWS8n0yVdwgek9foQ=/0x0:1000x562/1200x800/filters:focal(420x201:580x361)/cdn.vox-cdn.com/uploads/chorus_image/image/67817721/Calendar_bAeS6ts.max_1000x1000.0.png' width='700px' /><br/>
+Google has detailed a handful of new iOS widgets it has on the way, following the launch of its new Gmail widget this week. In a blog post, the company says it's adding widgets for Drive and Google Fit, which appear to be available now, and that it has a Calendar widget planned to launch “in the coming weeks.” A widget for Chrome is due to officially launch next year and is available in beta now.
+<a href='https://www.theverge.com/2020/11/19/21575244/google-ios-14-widgets-calendar-drive-chrome-fit'> Source <a/>

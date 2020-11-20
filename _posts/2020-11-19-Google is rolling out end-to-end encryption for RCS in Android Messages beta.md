@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3PhcaJhopEaiDbEtLHChxW01PZQ=/0x0:2408x4916/1200x0/filters:focal(0x0:2408x4916):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22051853/E2EE_UI.png' width='700px' /><br/>
-After two long, complicated years, every Android user worldwide (outside China and Russia) now has access to the next-gen texting standard that is replacing SMS. Google is directly offering RCS chat services through its Android Messages app to anybody who installs it and uses it as their default texting app, which partly bypasses a carrier rollout that, at times, has ranged from sluggish to incoherent to broken.
-<a href='https://www.theverge.com/2020/11/19/21574451/android-rcs-encryption-message-end-to-end-beta'> Source <a/>

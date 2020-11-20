@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZTOB1WO4W4E7dzkWD6XymE3oHxM=/0x0:500x595/1200x800/filters:focal(319x160:399x240)/cdn.vox-cdn.com/uploads/chorus_image/image/67818778/D87B9DE6B_182389_b.0.jpg' width='700px' /><br/>
+Asus has announced its new Chromebox 4, a mini PC that runs Chrome OS.
+<a href='https://www.theverge.com/2020/11/19/21575494/asus-chromebox-4-mini-pc-chrome-os-intel-10th-gen-announcement'> Source <a/>

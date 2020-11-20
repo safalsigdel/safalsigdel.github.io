@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/REM7K9vZOkgBSPSieUZ2irVUPms=/185x0:1351x801/1200x800/filters:focal(661x272:905x516)/cdn.vox-cdn.com/uploads/chorus_image/image/67814334/BandcampLive.0.png' width='700px' /><br/>
-Bandcamp launched a ticketed live stream service for virtual concerts yesterday called Bandcamp Live. The streaming service lets artists make money from live performances online, and may help some of the independent musicians who favor Bandcamp recoup money lost in canceled tours.
-<a href='https://www.theverge.com/2020/11/18/21574128/bandcamp-live-stream-virtual-concert-tickets-merch-covid-19'> Source <a/>

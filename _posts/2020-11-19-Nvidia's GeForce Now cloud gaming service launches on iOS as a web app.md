@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jkXbGB62gc0qLikKui1SYLxLS14=/0x0:1956x1100/1200x800/filters:focal(822x394:1134x706)/cdn.vox-cdn.com/uploads/chorus_image/image/67816382/GeForce_NOW_on_iOS_Safari.0.jpg' width='700px' /><br/>
-Nvidia is joining its fellow cloud gaming providers in choosing to bypass Apple's App Store and launching a mobile web app version of its GeForce Now service. Nvidia's version is available today in beta form, meaning any of the service's more than 5 million registered users can fire up GeForce Now in mobile Safari on an iPhone or iPad and get playing.
-<a href='https://www.theverge.com/2020/11/19/21573311/nvidia-geforce-now-ios-launch-beta-release-safari-mobile-web-app'> Source <a/>

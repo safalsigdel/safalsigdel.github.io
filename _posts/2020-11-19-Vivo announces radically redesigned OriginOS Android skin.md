@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rd_8QhD23jAJZe_qKiL2_DMQk5A=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/67815704/originos.0.jpg' width='700px' /><br/>
-Vivo has announced its new Android-based operating system at its annual developer conference in China. OriginOS is the successor to FuntouchOS and features a complete design overhaul that prioritizes widgets, arranging them in a grid-like layout. The widgets can update themselves with notifications called “nano alerts.”
-<a href='https://www.theverge.com/2020/11/19/21574794/vivo-originos-android-skin-announced-radical-redesign'> Source <a/>

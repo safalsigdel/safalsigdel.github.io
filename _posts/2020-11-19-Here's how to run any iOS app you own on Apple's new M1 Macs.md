@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LQK3I5VQ9m4FLPIlGEB4Db8KSxs=/0x0:3360x2100/1200x800/filters:focal(1412x782:1948x1318)/cdn.vox-cdn.com/uploads/chorus_image/image/67814021/Screen_Shot_2020_11_18_at_2.50.53_PM.0.png' width='700px' /><br/>
-Earlier today, MacRumors reported that it is possible to run any iOS app you have purchased on an M1-based Mac, provided you can get access to the right file. Sure enough, if you've purchased or downloaded an app for your iPhone or iPad, it is possible to get it running on an M1-based Mac — I am currently looking at the iOS versions of Dark Sky, Spotify, Slack, Netflix, and Gmail on this MacBook Air.
-<a href='https://www.theverge.com/2020/11/18/21574207/how-to-install-run-any-iphone-ipad-app-m1-mac'> Source <a/>

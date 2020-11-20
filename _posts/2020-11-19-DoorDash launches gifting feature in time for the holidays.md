@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7axcniHJAIdZjKWZb1-tXRczD5U=/0x0:5643x3754/1200x800/filters:focal(3316x1344:4218x2246)/cdn.vox-cdn.com/uploads/chorus_image/image/67816772/doordash_DSC_3058.0.jpg' width='700px' /><br/>
-DoorDash, the contentious delivery platform that recently filed for IPO, is launching a new gifting feature for its own app and Caviar to make it easier to send personalized gifts during the holidays and beyond.
-<a href='https://www.theverge.com/2020/11/19/21573539/doordash-caviar-gifting-holidays-personalized-card-ipo-prop-22'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+RadioShack's shambling remains were given another jolt of life today when they were purchased by another company that plans to relaunch the once-great retailer as an online-focused brand.
+<a href='https://www.theverge.com/circuitbreaker/2020/11/19/21578231/radioshack-rev-relaunch-online-store-zombie-brand'> Source <a/>

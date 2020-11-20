@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-loQQqrwhvQJDtq7_Nrk1j5pJaU=/0x0:5700x2961/1200x800/filters:focal(2394x1025:3306x1937)/cdn.vox-cdn.com/uploads/chorus_image/image/67818003/2022_GMC_HUMMER_EV_003.0.jpg' width='700px' /><br/>
+General Motors announced Thursday that it was dumping more money into its electrification plans and would also be accelerating its production to release more electric vehicles sooner than expected.
+<a href='https://www.theverge.com/2020/11/19/21575153/gm-electric-ev-investment-deadline-cadillac-chevy-hummer'> Source <a/>

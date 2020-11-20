@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dEiToy1RZWuN2vJ2_pA6qSZPNEc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67813614/acastro_180321_1777_youtube_0003.0.jpg' width='700px' /><br/>
-Starting today, YouTube will begin running ads on some creators' videos, but it won't give them a portion of the ad revenue because they're not big enough to be enrolled in its Partner Program.
-<a href='https://www.theverge.com/2020/11/18/21573937/youtube-ads-creators-partner-program-revenue-terms-of-service-update'> Source <a/>

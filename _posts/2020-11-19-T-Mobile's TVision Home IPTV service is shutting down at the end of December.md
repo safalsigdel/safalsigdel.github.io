@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0lhgogULLQVw88ZyzoDe2aB2xR4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67814406/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
-T-Mobile is shutting down TVision Home, its IPTV cable service that utilized technology from its 2017 acquisition of Layer3. The service will officially shut down on December 30th, 2020 at 3AM ET, according to an FAQ on the T-Mobile website.
-<a href='https://www.theverge.com/2020/11/18/21574328/t-mobile-tvision-home-shutting-down-layer-3'> Source <a/>

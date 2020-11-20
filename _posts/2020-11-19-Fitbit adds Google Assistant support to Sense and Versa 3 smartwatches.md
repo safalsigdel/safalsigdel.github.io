@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_V4GN_bNfjgm0bvA7oJBZ2W20Cs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67816360/sense2.0.jpg' width='700px' /><br/>
-Google Assistant support is coming to the Fitbit Sense and Fitbit Versa 3 thanks to a new update rolling out starting today in the US. Alongside it, Fitbit OS 5.1 also adds new blood oxygen monitoring features, support for audible replies from Alexa, and enhancements to the watches' calling and messaging features.
-<a href='https://www.theverge.com/2020/11/19/21574837/fitbit-sense-versa-3-google-assistant-voice-calls-text-messages-speech-spo2-monitoring-bloody-oxygen'> Source <a/>

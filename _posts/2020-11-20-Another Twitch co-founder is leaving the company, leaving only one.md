@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d9hAqNSuT5qjVlFYJbtlnegetms=/0x0:5425x3494/1200x800/filters:focal(2279x1313:3147x2181)/cdn.vox-cdn.com/uploads/chorus_image/image/67820857/1154848993.0.jpg' width='700px' /><br/>
+Kevin Lin, a Twitch co-founder, is leaving the company, he announced in a Medium post on Thursday. With Lin's departure, the only remaining co-founder at Twitch is its CEO, Emmett Shear — co-founders Justin Kan, Kyle Vogt, and Michael Seibel are no longer with the company.
+<a href='https://www.theverge.com/2020/11/19/21578488/twitch-co-founder-kevin-lin-leaving-coo'> Source <a/>

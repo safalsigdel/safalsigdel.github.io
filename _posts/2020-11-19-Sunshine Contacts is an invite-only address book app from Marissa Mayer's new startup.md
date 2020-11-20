@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0jko6MgsXvMvQUvd0v3R1BPB3eY=/0x0:612x446/1200x800/filters:focal(241x163:349x271)/cdn.vox-cdn.com/uploads/chorus_image/image/67813279/sunshine.0.png' width='700px' /><br/>
-Former Yahoo CEO Marissa Mayer has just revealed her first major product since stepping down back in 2017: a new contact management application for iOS devices called Sunshine Contacts.
-<a href='https://www.theverge.com/2020/11/18/21573680/sunshine-contacts-lumi-labs-ios-app-address-book-emails-phone-numbers-sync'> Source <a/>

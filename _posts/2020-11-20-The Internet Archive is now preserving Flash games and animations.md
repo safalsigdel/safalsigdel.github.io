@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4v_0PhEGGH9R5qo-SpptVuwXls4=/0x0:550x400/1200x800/filters:focal(231x156:319x244)/cdn.vox-cdn.com/uploads/chorus_image/image/67821164/flash_breaking_the_bank_screenshot.0.png' width='700px' /><br/>
+The Internet Archive — the non-profit digital library known for the Wayback Machine —  announced that it will now preserve Flash animations and games, ahead of Adobe's planned demise for the defunct web software at the end of 2020. The Archive will emulate the content so it plays as it used to, preserving critical elements of early internet culture for browsers that can no longer run them.
+<a href='https://www.theverge.com/2020/11/19/21578616/internet-archive-preservation-flash-animations-games-adobe'> Source <a/>
