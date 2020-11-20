@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cuFC6rwz_iazD3ASFxu8RhifTuU=/0x0:692x384/1200x800/filters:focal(291x137:401x247)/cdn.vox-cdn.com/uploads/chorus_image/image/67817242/image002__6_.0.jpg' width='700px' /><br/>
-Ryan Kaji, the nine-year-old star of YouTube's popular Ryan's World channel, is expanding his empire with a new show on Amazon Kids Plus. This marks the first time that a YouTube creator has partnered with Amazon for an original series. The show will debut on November 27th.
-<a href='https://www.theverge.com/2020/11/19/21575169/youtube-ryan-world-amazon-show-animated-nickelodeon-ott-streaming'> Source <a/>

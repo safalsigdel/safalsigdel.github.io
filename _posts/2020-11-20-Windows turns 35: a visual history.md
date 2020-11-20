@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LvOYIWLNU4IIFa9taPxXYy78OKE=/0x0:3600x3469/1200x675/filters:focal(1512x1447:2088x2023)/cdn.vox-cdn.com/uploads/chorus_image/image/61441771/664861382.4.jpg' width='700px' /><br/>
+The PC revolution started off life 35 years ago this week. Microsoft launched its first version of Windows on November 20th, 1985, to succeed MS-DOS. It was a huge milestone that paved the way for the modern versions of Windows we use today. While Windows 10 doesn't look anything like Windows 1.0, it still has many of its original fundamentals like scroll bars, drop-down menus, icons, dialog boxes, and apps like Notepad and MS paint.
+<a href='https://www.theverge.com/2015/11/19/9759874/microsoft-windows-35-years-old-visual-history'> Source <a/>
