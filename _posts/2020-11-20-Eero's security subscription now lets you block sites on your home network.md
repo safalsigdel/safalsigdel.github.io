@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dfeZZLQ8W_zbSGnzmCrBJZMkiE8=/0x0:4000x2250/1200x800/filters:focal(1680x805:2320x1445)/cdn.vox-cdn.com/uploads/chorus_image/image/67818032/eero_Pro_6_3_units.0.jpg' width='700px' /><br/>
-Amazon-owned Eero is adding new features to its $2.99-per-month Eero Secure subscription plan, including new ways to give users more control over what content is accessible on Eero networks.
-<a href='https://www.theverge.com/2020/11/19/21575385/amazon-eero-secure-security-subscription-block-allow-sites-content-filtering'> Source <a/>

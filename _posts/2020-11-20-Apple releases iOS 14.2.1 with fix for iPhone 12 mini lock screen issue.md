@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TevuS81PYAOMLfB2q5FDOCCklL0=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67818581/vpavic_4279_20201107_0043.0.0.jpg' width='700px' /><br/>
-Apple has released iOS 14.2.1 with a number of fixes, including for one that the company says will address problems with the lock screen becoming unresponsive on the iPhone 12 mini.
-<a href='https://www.theverge.com/2020/11/19/21575609/apple-ios-14-2-1-iphone-12-mini-lockscreen-issue-bug-fix'> Source <a/>

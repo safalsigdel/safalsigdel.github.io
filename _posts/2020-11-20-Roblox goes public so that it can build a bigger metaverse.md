@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XsQPeoWGZA50TBAWvoQH0n5gaDs=/0x0:1920x1080/1200x800/filters:focal(700x364:1006x670)/cdn.vox-cdn.com/uploads/chorus_image/image/67820527/LNX_Concert_Old_Town_Road.0.png' width='700px' /><br/>
-The company behind the hit kids game Roblox is going public after soaring use during the pandemic. The company now has 31.1 million daily users who have spent an average of 2.6 hours per day in the game this year, according to Roblox's prospectus.
-<a href='https://www.theverge.com/2020/11/19/21578491/roblox-ipo-announced-dau-increase-pandemic'> Source <a/>

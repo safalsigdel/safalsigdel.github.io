@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YbIKilasN6vo0AJZLZyaSsQGspo=/0x0:2040x1351/1200x675/filters:focal(755x498:1081x824)/cdn.vox-cdn.com/uploads/chorus_image/image/67456742/twarren_200909_4184_0016.0.0.jpg' width='700px' /><br/>
-Sony's PlayStation 5 and Microsoft's Series X and S launched earlier this month, and it's been a rough bunch of weeks for most people trying to get one. The pre-order situations for both next-gen consoles, in addition to Nvidia's RTX 3000-series graphics cards, were messy to say the least, and things haven't gotten any better now they (and AMD's RX 6800 series GPUs) have formally launched.
-<a href='https://www.theverge.com/21451144/sony-ps5-preorder-microsoft-xbox-series-x-nvidia-rtx-3080-mess'> Source <a/>

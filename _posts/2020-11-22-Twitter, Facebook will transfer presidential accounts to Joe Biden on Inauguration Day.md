@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xn4IqydKTcXtS6LbcM0IpEy-xDE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67837379/acastro_201106_1777_vote_0004.0.0.jpg' width='700px' /><br/>
+Twitter will transfer the @POTUS account to President-elect Joe Biden when he's sworn in on Inauguration Day, the company told Politico. Twitter will transfer the account to Biden even if President Donald Trump hasn't conceded — which he still hasn't done, despite the election widely being called for Biden earlier this month.
+<a href='https://www.theverge.com/2020/11/20/21588033/twitter-transfer-presidential-accounts-joe-biden-president-donald-trump-inauguration-day'> Source <a/>

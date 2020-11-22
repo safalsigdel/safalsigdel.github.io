@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6ABsRfu8b-23QNwrv22ZM0Ratcw=/0x0:2040x1360/1200x675/filters:focal(858x664:1184x990)/cdn.vox-cdn.com/uploads/chorus_image/image/67822925/mchin_190211_4302_0008.0.0.jpg' width='700px' /><br/>
+Not only is the Dell XPS 13 one of Dell's best-known laptops, but it's one of the best-known laptops, period. If you know anything about Windows laptops, you've probably heard its name. It's great in pretty much every way, and it just keeps getting better.
+<a href='https://www.theverge.com/21575308/dell-xps-13-2-in-1-2020-review-tiger-lake-specs-price-features'> Source <a/>

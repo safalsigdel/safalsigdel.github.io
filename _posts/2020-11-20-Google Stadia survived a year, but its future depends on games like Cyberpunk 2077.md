@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VFNPsiSV85fYyW1t4yli_AOB3xw=/0x0:2040x1360/1200x675/filters:focal(889x609:1215x935)/cdn.vox-cdn.com/uploads/chorus_image/image/67817566/akrales_191113_3779_0309.0.jpg' width='700px' /><br/>
-Firing up a big-budget modern video game inside a Chrome browser window for the first time feels like you're tapping into some arcane magic, like peeking around the corner of technological innovation to see a bright future we never thought would be so close at hand. At least that's how it felt when I first used Google Stadia more than a year ago.
-<a href='https://www.theverge.com/21575100/google-stadia-one-year-anniversary-cloud-gaming-cyberpunk-2077-launch-test'> Source <a/>

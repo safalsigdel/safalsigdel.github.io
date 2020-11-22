@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9e9X4hVXlC_ut1a0I_a2Q8x_fW0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67818040/mdoying_180411_2400_0043still.0.jpg' width='700px' /><br/>
-Facebook says it is proactively detecting more hate speech using artificial intelligence. A new transparency report released on Thursday offers greater detail on social media hate following policy changes earlier this year, although it leaves some big questions unanswered.
-<a href='https://www.theverge.com/2020/11/19/21575139/facebook-moderation-ai-hate-speech'> Source <a/>

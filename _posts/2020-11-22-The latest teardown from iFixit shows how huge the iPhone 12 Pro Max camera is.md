@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/myNmbRjKATdFf1P_vVSb7LNWBeg=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67839635/bfarsace_201106_4269_022.0.0.jpg' width='700px' /><br/>
+The iPhone 12 Pro Max is Apple's biggest iPhone ever, with a 6.7-inch display that boasts a camera system our reviewer called “one of the most confident smartphone cameras.” In its latest teardown, iFixit shows how big this impressive camera actually is compared to other iPhones.
+<a href='https://www.theverge.com/2020/11/21/21588664/apple-iphone-12-pro-max-teardown-ifixit-camera'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l-ytBJ3nbkz3FPk3KAsQrtAqzYw=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/67817589/Cyperpunk__2077_Stadia_10_15_2020.0.jpg' width='700px' /><br/>
-Google really wants you to buy Cyberpunk 2077 on Stadia — so much, in fact, that it's giving away a Stadia Premiere kit to each person who preorders (or who has already preordered) the game on Stadia or buys it after launch until December 17th. The promotion runs “until supplies last,” though Google declined to say how many units it will be giving out.
-<a href='https://www.theverge.com/good-deals/2020/11/19/21572301/cyberpunk-2077-google-stadia-free-premiere-kit-preorder-deal'> Source <a/>

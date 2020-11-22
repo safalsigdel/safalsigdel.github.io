@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NuAEcyHzJvw_ssW3OB8PPqm446o=/0x0:4913x3275/1200x800/filters:focal(2064x1245:2850x2031)/cdn.vox-cdn.com/uploads/chorus_image/image/67818844/1041456504.0.jpg' width='700px' /><br/>
-BuzzFeed and HuffPost, formerly separate, are now one, as first reported by The Wall Street Journal. Verizon — which previously owned HuffPost, nxc3xa9e The Huffington Post — has dumped the powerhouse digital media brand in an all-stock deal.
-<a href='https://www.theverge.com/2020/11/19/21575599/buzzfeed-acquires-huffpost-verizon-jonah-peretti-tumblr'> Source <a/>

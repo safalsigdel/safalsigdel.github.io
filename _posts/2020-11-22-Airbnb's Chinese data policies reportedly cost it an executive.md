@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3bh8Gw0SxuYn6xgmDkwYhoWT5Bo=/0x0:3200x2129/1200x800/filters:focal(1972x973:2484x1485)/cdn.vox-cdn.com/uploads/chorus_image/image/67836800/1228934674.0.jpg' width='700px' /><br/>
+Airbnb's chief trust officer Sean Joyce left the company after just six months in 2019 because the former FBI deputy director took issue with the company's data sharing practices in China, according to a report in The Wall Street Journal.
+<a href='https://www.theverge.com/2020/11/20/21585500/airbnb-trust-officer-resignation-privacy-concerns-china-data-sharing'> Source <a/>

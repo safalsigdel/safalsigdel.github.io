@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/beIYdTPCKNcZsSTJK9tQggCnLLI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67827548/vpavic_4291_20201113_0411.0.0.jpg' width='700px' /><br/>
+Last week on The Vergecast, the crew spent some time discussing Apple's announcement of new Mac computers with its own Arm-based processor chip, which Apple is calling the M1. This week, Vergecast co-hosts Nilay Patel and Dieter Bohn got their hands on the new MacBook Air and MacBook Pro with the M1 chips for review and brought their findings to this week's episode.
+<a href='https://www.theverge.com/2020/11/20/21579345/vergecast-podcast-431-apple-m1-macbook-air-walt-mossberg'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DKL7ErUW5ulEO8Fo4ffKi8BCV1Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67840073/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+Universal Electronics Inc. (UEI) has introduced its version of the notoriously unpopular Apple TV remote “specifically developed and designed” for cable, satellite, and MVPD  (multichannel video program distributor) customers, the company announced.
+<a href='https://www.theverge.com/2020/11/21/21588907/apple-tv-remote-mvpd-universal-buttons-siri'> Source <a/>
