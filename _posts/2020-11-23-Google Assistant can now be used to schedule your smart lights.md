@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZuYTp3d_Nd4uayl2_sL6ecpA4oE=/0x0:2880x1200/1200x800/filters:focal(1210x370:1670x830)/cdn.vox-cdn.com/uploads/chorus_image/image/67846292/Hero_image_of_new_Smart_Display_visual_experience.0.png' width='700px' /><br/>
+Google Assistant now lets users schedule lights and other devices to turn on and off at specific times with its “scheduled actions” feature, according to Android Police, which cites Google Assistant developer documentation.
+<a href='https://www.theverge.com/2020/11/23/21591162/google-assistant-schedule-smart-lights'> Source <a/>
