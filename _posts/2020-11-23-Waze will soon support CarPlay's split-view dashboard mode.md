@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G0SK5KOKVKzxcc7rlVzXYN0H3Qg=/0x0:810x480/1200x800/filters:focal(341x176:469x304)/cdn.vox-cdn.com/uploads/chorus_image/image/67845962/waze_carplay_split_view_2.0.jpg' width='700px' /><br/>
+Waze is finally coming to Apple CarPlay's new multiscreen dashboard. This is sure to come as welcome news to devotees of the Google-owned navigation app, who have been waiting for over a year for it to work with the much-improved, upgraded version of CarPlay.
+<a href='https://www.theverge.com/2020/11/23/21591151/waze-carplay-split-view-dashboard-apple'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HdR0EM3Jg240Nfmg6luSBp2HTGc=/0x0:2640x1748/1200x800/filters:focal(1109x663:1531x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/67827313/twarren_xboxseriesxcontroller_VLS_3616_2_4.0.jpg' width='700px' /><br/>
-Microsoft and Apple are working together so the new Xbox Series X and Series S controllers will work on iPhones and iPads. Currently, the new controllers are not officially supported in iOS or iPadOS, but Apple says “Microsoft and Apple are working together to bring compatibility for the Xbox Series X controller to customers in a future update.”
-<a href='https://www.theverge.com/2020/11/20/21580245/microsoft-apple-xbox-series-x-controller-support-iphone-ipad-ios-ipados'> Source <a/>
