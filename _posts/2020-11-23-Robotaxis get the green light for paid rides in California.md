@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TIk6grFX1TC2zJeuXBGr0HDW_og=/0x0:5000x3750/1200x800/filters:focal(2100x1475:2900x2275)/cdn.vox-cdn.com/uploads/chorus_image/image/67845511/1202337495.0.jpg' width='700px' /><br/>
+California has long been ground zero for autonomous vehicle testing in the US, but the state has never allowed companies to use those vehicles to make money from a commercial ride-hailing service. That changed last week when the California Public Utilities Commission (CPUC) approved two new programs that allow autonomous vehicle operators to launch their own robotaxis in the state.
+<a href='https://www.theverge.com/2020/11/23/21591045/california-robotaxi-paid-rides-cpuc-permits'> Source <a/>

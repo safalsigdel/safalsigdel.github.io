@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rcvLS7xLQhFsD51wG-lem-uePIo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67822433/vpavic_4291_20201113_0380.0.0.jpg' width='700px' /><br/>
-Last week I wrote that Apple seemed “astonishingly confident” in its new M1-based Macs. This week we know why: they are astonishingly good. I reviewed the MacBook Air, Nilay Patel reviewed the entry-level 13-inch MacBook Pro, and Chris Welch reviewed the new Mac mini.
-<a href='https://www.theverge.com/2020/11/20/21578582/macbook-air-benchmark-laptops-ultrabooks-apple-intel-qualcomm'> Source <a/>

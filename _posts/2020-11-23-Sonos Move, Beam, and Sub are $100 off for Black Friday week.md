@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xipL1k_eWgxDf86YV0Qi5S0pVIY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67845471/bfarsace_190826_3621_0077.0.jpg' width='700px' /><br/>
+Sonos has discounted several of its speakers for the week leading up to Black Friday, including the portable Move, Beam soundbar, and Sub add-on. All three models are $100 off, a significant discount from their regular prices.
+<a href='https://www.theverge.com/21591080/sonos-black-friday-speaker-move-beam-sub-deal-sale'> Source <a/>
