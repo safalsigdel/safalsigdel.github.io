@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BpfxrOnFN-8rNM8dKb0AI2m_pCQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67846175/vpavic_191010_3722_0006.0.jpg' width='700px' /><br/>
+If you're looking to improve your home Wi-Fi situation, the best thing you can do is invest in a mesh router. Mesh router systems make it easy to cover all corners of your home with a strong Wi-Fi signal and are easily expandable depending on how much square footage you have.
+<a href='https://www.theverge.com/21591145/best-black-friday-mesh-router-deals-wifi-sale'> Source <a/>
