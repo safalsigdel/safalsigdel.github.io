@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8ewc4VFgk1mkZMtZWG68UiA7ukg=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67846063/VRG_4264_Creators_HGG_Lede_001.0.jpg' width='700px' /><br/>
-It can be said that this is a golden age for creators: there is a plethora of wonderfully imaginative art coming from a wide variety of fields like video and still photography, audio, graphics, text, and a whole mass of other arts. If you have friends or family who are professional creators (or have ambitions to become one) — or if you yourself work in a creative field — then we've assembled some gift ideas that could be perfect.
-<a href='https://www.theverge.com/21558446/holiday-gifts-creators-video-audio-guide'> Source <a/>

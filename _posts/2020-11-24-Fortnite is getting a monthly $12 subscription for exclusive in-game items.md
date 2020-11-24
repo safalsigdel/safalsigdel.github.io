@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wB2RQ5mH7JXOq3gjjxzN6Rps5GI=/0x0:1105x622/1200x800/filters:focal(251x219:427x395)/cdn.vox-cdn.com/uploads/chorus_image/image/67870060/0.0.jpg' width='700px' /><br/>
+A new season of Fortnite is almost here, and alongside it, developer Epic is introducing a monthly subscription service called Fortnite Crew. For $11.99 each month Fortnite players will get 1,000 Vbucks (Fortnite's in-game currency), an exclusive character skin and gear, and access to the current season's battle pass. You can get a look at the first character offering in the image above.
+<a href='https://www.theverge.com/2020/11/24/21612524/fortnite-crew-subscription-chapter-2-season-5-price-release-date'> Source <a/>
