@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/96ziFQgct42b68uNUFnh272amUE=/0x0:800x450/1200x800/filters:focal(358x163:486x291)/cdn.vox-cdn.com/uploads/chorus_image/image/67868284/doom_game_watch.0.jpg' width='700px' /><br/>
+Intrepid developers have done the expected and necessary: Doom now runs on Nintendo's recently released Game & Watch portable. The Game & Watch: Super Mario Bros. was designed to run three games, but successfully porting Doom shows it can handle others if you have a lot of patience (via Hackaday).
+<a href='https://www.theverge.com/2020/11/23/21611884/nintendo-game-and-watch-doom-port-hack-homebrew-games'> Source <a/>

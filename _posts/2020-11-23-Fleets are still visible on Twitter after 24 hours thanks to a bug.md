@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h4eZvAhYO5HvQVOVMI2NC1Frlto=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67841878/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter's new ephemeral tweets, known as fleets, are supposed to last for only 24 hours. But a bug is causing fleets to not totally disappear, remaining accessible well past their expiration dates. First reported by TechCrunch, the bug allows fleets to be viewed and downloaded by other users, but without notifying the fleet's author.
-<a href='https://www.theverge.com/2020/11/22/21589676/fleets-visible-twitter-disappearing-bug'> Source <a/>

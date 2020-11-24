@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QJuCKVHg4SJ95GJm4o_MPcuU56A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67838754/acastro_191031_1777_blackFriday_0001.0.jpg' width='700px' /><br/>
-Black Friday and Cyber Monday are the biggest shopping days of the year, a relentless, deals-packed weekend when you can find the best prices on tech products like laptops, 4K TVs, phones, and more. And of course, these good deals are all accessible online.
-<a href='https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find'> Source <a/>

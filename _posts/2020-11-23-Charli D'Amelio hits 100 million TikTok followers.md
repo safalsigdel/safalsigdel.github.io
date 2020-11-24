@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UQBQz0JQzWk1dsKmr2BOVHbVAs4=/0x0:1998x3000/1200x800/filters:focal(734x391:1052x709)/cdn.vox-cdn.com/uploads/chorus_image/image/67841791/1206486671.jpg.0.jpg' width='700px' /><br/>
-Charli D'Amelio is the first TikTok creator to hit 100 million followers. She's the first by some distance, too — only two other creators have cracked 50 million. On TikTok, that makes her more than twice as big as Will Smith, three times as big as The Rock, four times as big as Selena Gomez, and five times as big as Kylie Jenner and Ariana Grande.
-<a href='https://www.theverge.com/2020/11/22/21571189/charli-damelio-100-million-tiktok-followers'> Source <a/>

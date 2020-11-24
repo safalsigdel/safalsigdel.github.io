@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ceA_kS82ptMN_PTq0HJJF4I2Tqg=/0x0:3320x1868/1200x675/filters:focal(1395x669:1925x1199)/cdn.vox-cdn.com/uploads/chorus_image/image/67828045/composite.0.jpg' width='700px' /><br/>
-As good as products like the Bose QuietComfort Earbuds and AirPods Pro can be, it doesn't take spending over $200 to get a perfectly good set of wireless earbuds. You can even drop below the price level of Samsung's Galaxy Buds Plus and Jabra's 75ts and still find something that'll do the job just fine. For this set of recommendations, I'm going to stick under an MSRP of $100.
-<a href='https://www.theverge.com/21575716/best-cheap-wireless-earbuds-budget'> Source <a/>

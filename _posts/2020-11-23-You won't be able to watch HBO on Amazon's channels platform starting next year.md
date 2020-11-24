@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MPUu3pHGi4owGZ3c_Tmfj8BUIOg=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/67836350/HBO_logo_stock.0.jpg' width='700px' /><br/>
-Amazon and HBO-owner WarnerMedia finally came to an agreement this week to bring HBO Max to Amazon Fire TV devices, nearly six months after the streaming service first launched. But as part of that agreement, Amazon will be removing HBO from Amazon's Prime Video Channels selection starting next year, according to CNBC.
-<a href='https://www.theverge.com/2020/11/20/21587715/hbo-max-warnermedia-amazon-prime-video-channels-2021'> Source <a/>

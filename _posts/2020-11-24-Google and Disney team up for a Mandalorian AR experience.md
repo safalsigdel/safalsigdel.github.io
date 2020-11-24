@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Google and Disney have teamed up for a new AR experience featuring The Mandalorian and yes, Baby Yoda is involved. The Mandalorian AR experience “puts you in the shoes of a bounty hunter following the trail of Mando himself, Din Djarin, and The Child,” according to a blog post by Matthieu Lorrain, head of creative, AR partnerships at Google. Players can interact with the characters in AR and capture scenes from the app for sharing.
+<a href='https://www.theverge.com/21595320/google-disney-mandalorian-ar-lucasfilm-android-arcore-baby-yoda'> Source <a/>

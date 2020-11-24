@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jsQJylaBJKyBqn1q6xjG11pwCn0=/0x0:2258x1266/1200x800/filters:focal(949x453:1309x813)/cdn.vox-cdn.com/uploads/chorus_image/image/67828465/Screen_Shot_2020_10_27_at_11.38.32_AM.0.png' width='700px' /><br/>
-T-Mobile is adding 33 channels from its $10-per-month TVision Vibe service for free to all of its pricier TVision Live plans as it deals with ongoing complaints from cable companies like Discovery over how it offers channels.
-<a href='https://www.theverge.com/2020/11/20/21583218/tmobile-tvision-live-vibe-tv-service-channels-content-dispute'> Source <a/>

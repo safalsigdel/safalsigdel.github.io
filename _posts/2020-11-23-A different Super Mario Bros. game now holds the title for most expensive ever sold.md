@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7EdTnkXUKEsMaZQgCCi1N3QQwto=/0x83:1200x715/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/67845551/super_mario_bros_3.0.jpg' width='700px' /><br/>
-Super Mario Bros. 3 now holds the title of the most expensive game ever, after a sealed copy from 1990 sold for $156,000 at an auction last Friday. Bidding started at $62,500, and 20 bidders were involved in the auction. The NES game handily beat out the previous record-holder, Super Mario Bros., which sold for $114,000 in July.
-<a href='https://www.theverge.com/2020/11/23/21591120/super-mario-bros-3-record-breaking-auction-price-condition-sealed'> Source <a/>

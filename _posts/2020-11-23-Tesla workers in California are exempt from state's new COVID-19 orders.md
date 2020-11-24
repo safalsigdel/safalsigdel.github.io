@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Mc_puhAek-uQek8mcmfW8IIi3fw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67836890/acastro_180430_1777_tesla_0004.0.jpg' width='700px' /><br/>
-Employees at Tesla's Fremont plant are “essential workers” and therefore exempt from new statewide COVID-19 health orders, CNBC reported. The California Department of Public Health says manufacturing is considered an “essential workforce” — and that applies to Tesla's manufacturing, too.
-<a href='https://www.theverge.com/2020/11/20/21587781/tesla-workers-california-fremont-exempt-new-covid-19-order-newsom'> Source <a/>

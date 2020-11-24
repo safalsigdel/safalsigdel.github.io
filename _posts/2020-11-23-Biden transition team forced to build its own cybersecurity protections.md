@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-CnHik7jR8eTr6VFgO4TB_jRCEo=/0x0:3000x2026/1200x800/filters:focal(1410x835:1890x1315)/cdn.vox-cdn.com/uploads/chorus_image/image/67831329/1286586591.0.jpg' width='700px' /><br/>
-President-elect Joe Biden is preparing to take over from President Donald Trump, but his transition team isn't getting the level of cybersecurity support usually provided by outgoing administrations, according to The Wall Street Journal. That could mean Biden's team is more vulnerable to cyberattacks than if it had the full support and resources of the federal government.
-<a href='https://www.theverge.com/2020/11/20/21583346/biden-transition-team-cybersecurity-protections-google-workspace-security-key-trump-election'> Source <a/>

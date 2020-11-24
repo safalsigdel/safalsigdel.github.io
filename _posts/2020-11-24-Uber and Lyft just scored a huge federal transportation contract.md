@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AwiatXFKK2sAvFFl7dy5HDaVLA8=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/67867088/1227939563.jpg.0.jpg' width='700px' /><br/>
+The US government awarded a big transportation contract to Uber and Lyft this week, authorizing the ride-hailing companies to provide transportation to up to 4 million federal employees and their families.
+<a href='https://www.theverge.com/2020/11/23/21611553/uber-lyft-gsa-government-contract-amount'> Source <a/>

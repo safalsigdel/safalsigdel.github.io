@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6ms6ZPx1p6m_Ia5SRYHkj1SKQgw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67850984/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
+If you're using a recent version of Microsoft's Edge browser, you might have noticed that the way URLs copy and paste has changed. As of Edge version 87 for Windows or 88 for macOS, you'll find that by default trying to copy and paste a URL from an address bar will paste the title of a webpage as a hyperlink rather than its URL directly.
+<a href='https://www.theverge.com/21591476/edge-chromium-browser-copy-and-paste-url-hyperlink-default-change-how-to'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SoBlKtO-LnZZaeBZYgwIG9k4Swo=/0x0:1645x1015/1200x800/filters:focal(692x377:954x639)/cdn.vox-cdn.com/uploads/chorus_image/image/67851336/Ready_Player_Two_Roblox_Event.0.jpg' width='700px' /><br/>
+To promote the sequel to Ready Player One — a book about a treasure hunt inside a virtual universe — author Ernest Cline has partnered with the hit kids game Roblox to re-create something akin to the plot of the original novel: a hunt for clues and prizes inside a virtual world.
+<a href='https://www.theverge.com/2020/11/23/21594054/ready-player-two-roblox-treasure-hunt-ernest-cline'> Source <a/>

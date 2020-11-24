@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ktjwVQZq0YLjYcDSfGrfe2zweo0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/67827843/image001.0.jpg' width='700px' /><br/>
-Amazon is adding new X-Ray features to its music streaming service, which let you see extra pieces of trivia about the music you're listening to. The feature is available globally across “tens of millions” of songs, and Amazon says there are extra “fun facts” available for popular songs in the US and UK.
-<a href='https://www.theverge.com/2020/11/20/21583123/amazon-music-x-ray-trivia-song-tracks'> Source <a/>

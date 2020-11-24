@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pDUc3otW3GCsIcQzD5HdEvtGscc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67866442/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
+Apple on Monday announced an extension to its deadline for requiring in-app purchases for online events and classes offered within iOS apps to June 30th, 2021. Apple previously adjusted what types of events are subject to its in-app purchase policy and standard 30 percent cut back in September, with the original intention of requiring in-app purchases in all appropriate apps by December of this year.
+<a href='https://www.theverge.com/2020/11/23/21595040/apple-developer-in-app-purchase-deadline-online-classes-events'> Source <a/>

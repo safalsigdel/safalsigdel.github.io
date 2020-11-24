@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-nN6X7nT3B_Wy1QZemwf9-ZSIYw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67851020/acastro_191031_1777_blackFriday_0001.0.jpg' width='700px' /><br/>
+Black Friday will officially kick off on Friday, November 27th, but if you plan to make that the only day you buy gifts for the holiday season, you are missing out. Several retailers, including Amazon, Best Buy, and Target, are already getting a head start on holiday discounts.
+<a href='https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores'> Source <a/>

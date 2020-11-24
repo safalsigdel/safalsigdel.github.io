@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ub28dMkRpTTZ6Rv6dgmeB59qDuM=/0x0:1579x795/1200x800/filters:focal(664x272:916x524)/cdn.vox-cdn.com/uploads/chorus_image/image/67842616/one_night_in_miami.0.jpg' width='700px' /><br/>
-I am currently suffering from The Crown withdrawal after finishing Season 4, and (like pretty much everyone) predicting we'll see Emmy nominations for Gillian Anderson (Margaret Thatcher) and Josh O'Connor (Prince Charles). Also I'm very on board with this suggestion that Erin Doherty deserves her own Princess Anne spinoff series (please get on this asap, Netflix). She's spectacular.
-<a href='https://www.theverge.com/2020/11/22/21589770/trailers-one-night-miami-chaos-walking-justice-league-wonder-woman-disney-hbo-amazon'> Source <a/>

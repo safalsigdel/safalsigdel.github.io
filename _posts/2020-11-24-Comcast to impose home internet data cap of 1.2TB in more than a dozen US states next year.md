@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JicnTo7WEjVnWJrOaNvhOCFAXJE=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/67851152/comcast.0.jpg' width='700px' /><br/>
+Next year, Comcast plans to charge home internet customers in northeastern US states for going over 1.2TB of data in a month — a cap that's already in effect for customers on non-unlimited plans in other parts of the country.
+<a href='https://www.theverge.com/2020/11/23/21591420/comcast-cap-data-1-2tb-home-users-internet-xfinity'> Source <a/>
