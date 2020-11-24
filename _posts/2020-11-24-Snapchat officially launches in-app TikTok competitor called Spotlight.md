@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HoU0MJs83LGRQdBpkul0OaCQ5C4=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/67845660/snapchatspotlight.0.jpg' width='700px' /><br/>
-Snap is finally ready to compete with TikTok and will pay creators to post on the platform. The company is officially announcing a new section of Snapchat today called Spotlight that'll surface vertical video content from users that's more meme-like and jokey instead of the day-in-the-life content Snap previously encouraged. Imagine, basically, TikTok but in Snapchat.
-<a href='https://www.theverge.com/2020/11/23/21585513/snapchat-snap-spotlight-creators-app-update-tiktok'> Source <a/>
