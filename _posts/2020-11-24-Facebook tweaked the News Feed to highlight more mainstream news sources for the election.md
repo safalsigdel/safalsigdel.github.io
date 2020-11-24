@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kFxLgsnooohBHzhGgKEOsWiXQmg=/0x0:2040x1360/1200x800/filters:focal(883x562:1209x888)/cdn.vox-cdn.com/uploads/chorus_image/image/67871357/akrales_180614_1777_0080.0.jpg' width='700px' /><br/>
+Facebook, in the days after the US election, decided that an uptick in viral misinformation related to election results and President Donald Trump's refusal to concede needed an extreme measure to be dealt with. So the company made a temporary change to its News Feed algorithm to favor mainstream news outlets, according to a report from The New York Times published on Tuesday.
+<a href='https://www.theverge.com/2020/11/24/21612728/facebook-news-feed-us-election-change-mainstream-news-misinformation'> Source <a/>
