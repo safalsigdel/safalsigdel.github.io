@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Mztb6KkCeGkTgmRVcpNndLoSUt0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67845665/cwelch190917_3726_0007.0.jpg' width='700px' /><br/>
-Nikon is bringing back its promotion that allows you to stream its entire online curriculum of photography classes at no cost, just in time for the holiday season.
-<a href='https://www.theverge.com/21581488/nikon-free-photography-classes-online-december'> Source <a/>
