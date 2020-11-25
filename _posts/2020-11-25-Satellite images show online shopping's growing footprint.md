@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jS70xtn7RJBUyYnkGoHgTBhls1Y=/0x0:3000x1997/1200x800/filters:focal(1260x759:1740x1239)/cdn.vox-cdn.com/uploads/chorus_image/image/67981103/186224747.0.jpg' width='700px' /><br/>
+You might not see it each time you make a purchase, but online shopping takes up a lot of space in the real world. The number of warehouses built to keep e-commerce running smoothly is growing quickly, and they're creeping closer to neighborhoods in order to meet consumers' expectations for quick deliveries.
+<a href='https://www.theverge.com/21611862/satellite-images-online-shopping-growing-footprint-warehouses'> Source <a/>
