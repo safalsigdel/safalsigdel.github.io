@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/isqvWqNh9OWg37p0seNfPORgO-E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67870515/cwelch_191031_3763_0002.0.jpg' width='700px' /><br/>
+During Black Friday and Cyber Monday this year, you can expect to find many of the best wireless earbuds on sale for their lowest prices yet. Apple's AirPods Pro, Samsung's Galaxy Buds Plus, and other popular models from Jabra, Sony, 1More, and more companies have never been more affordable. If you haven't yet treated yourself to a set of truly wireless earbuds that connect via Bluetooth, prepare to never look back to using wired earbuds.
+<a href='https://www.theverge.com/21611428/black-friday-earbuds-deals-wireless-cyber-monday'> Source <a/>

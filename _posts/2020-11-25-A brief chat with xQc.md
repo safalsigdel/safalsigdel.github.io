@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9ygPXktwaINeDfhLQawPBGRmeyE=/0x0:1422x950/1200x800/filters:focal(690x294:916x520)/cdn.vox-cdn.com/uploads/chorus_image/image/67980675/xqc.0.png' width='700px' /><br/>
+Last week, the streamer Fxc3xa9lix “xQcOW” Lengyel was temporarily banned from Twitch for cheating at a GlitchCon Twitch Rivals event. It was the third time this year he's been suspended from Twitch, and his teammates Rabia “Nightblue3” Yazbek and Lucas “Mendo” Hxc3xa5kansson were banned alongside him. I got in touch with Lengyel to chat about what happened, and what he's learned from the experience.
+<a href='https://www.theverge.com/2020/11/25/21693008/xqc-twitch-rivals-ban-streamer-showcase-felix-lengyel'> Source <a/>

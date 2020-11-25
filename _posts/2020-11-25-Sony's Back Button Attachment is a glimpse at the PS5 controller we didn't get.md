@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X6SZuoU53Lg_ixgi2yYV4T9kdZY=/0x0:2040x1360/1200x800/filters:focal(801x913:1127x1239)/cdn.vox-cdn.com/uploads/chorus_image/image/67980282/akrales_201028_4255_0093.0.0.jpg' width='700px' /><br/>
+Over six years after it was first released, Sony suddenly created a new set of buttons for its DualShock 4 controller.
+<a href='https://www.theverge.com/21571413/sony-dualshock-4-back-button-attachment-ps4-ps5-controller-playstation'> Source <a/>

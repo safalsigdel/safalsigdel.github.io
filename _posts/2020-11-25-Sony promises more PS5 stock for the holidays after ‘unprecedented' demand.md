@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9c0AorLDhChikqt0E2esfug2xUY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67980225/vpavic_4278_20201030_0119.0.jpg' width='700px' /><br/>
+Sony on Wednesday confirmed it would have more PlayStation 5 consoles available from retailers this holiday season after what the company is calling its “biggest” launch ever.
+<a href='https://www.theverge.com/2020/11/25/21718945/sony-ps5-playstation-5-stock-launch-demand'> Source <a/>

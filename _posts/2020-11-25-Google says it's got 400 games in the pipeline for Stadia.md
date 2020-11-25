@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F-QbkoeqJM5k7w4EQ2a3IorSmHY=/0x0:1475x983/1200x800/filters:focal(620x374:856x610)/cdn.vox-cdn.com/uploads/chorus_image/image/67876857/stadia.0.jpg' width='700px' /><br/>
-Google has around 400 games on the way for its Stadia game streaming service, according to Jack Buser, the service's director of games. Buser gave the figure in an interview with MobileSyrup, where he said that the company has “a roadmap of about 400 games in development from 200 developers” for the service.
-<a href='https://www.theverge.com/2020/11/24/21612848/google-stadia-400-games-200-developers'> Source <a/>

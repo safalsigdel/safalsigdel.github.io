@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KAjLfFiEFXJ3etmrd8wX4q9Or18=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67904902/1___100_Thieves_Compound_Front_Outside.0.png' width='700px' /><br/>
-100 Thieves has made a virtual version of its sprawling LA headquarters, the Cash App Compound, that you can explore inside of Fortnite's Creative mode.
-<a href='https://www.theverge.com/2020/11/24/21612909/100-thieves-fortnite-cash-app-compound-la-headquarters'> Source <a/>

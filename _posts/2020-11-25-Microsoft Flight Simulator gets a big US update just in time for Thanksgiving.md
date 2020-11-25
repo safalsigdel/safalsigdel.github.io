@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Microsoft Flight Simulator is getting one of its biggest updates for the US today, adding nearly 50 points of interest. The White House, Fort Knox, Hoover Dam, and the Las Vegas Strip are among many areas across the US that are getting updated with high-resolution points of interest.
-<a href='https://www.theverge.com/2020/11/24/21612893/microsoft-flight-simulator-usa-update-points-of-interest'> Source <a/>

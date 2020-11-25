@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2tyrH061VEK9400gc3im1D-xr4c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67870863/snapChatPattern_BW.0.jpg' width='700px' /><br/>
-Today, let's talk about the deceptively bold way in which Snapchat has reimagined TikTok as part of its new feature, Spotlight. A new milestone on TikTok helps to explain the opportunity.
-<a href='https://www.theverge.com/2020/11/24/21612775/snapchat-spotlight-lottery-creators-tiktok'> Source <a/>

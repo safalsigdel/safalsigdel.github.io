@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8BgiCLZxtZQZE8UTaXO85kV15cE=/0x0:1919x1079/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/67870590/Guiding_Light.0.png' width='700px' /><br/>
-The professional Valorant esports scene is about to get a lot more structured. Today, developer Riot Games announced its plans for competitive Valorant in 2021, and it includes a new global tournament series that will see teams play in regional competitions before making their way up to play the best in the world. Riot calls it the Valorant Champions Tour.
-<a href='https://www.theverge.com/2020/11/24/21612562/valorant-champions-tour-esports-2021'> Source <a/>
