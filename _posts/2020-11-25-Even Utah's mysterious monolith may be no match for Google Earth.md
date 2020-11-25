@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u0JVmlPwm9flkWc6UQdd244-clw=/0x0:2048x1536/1200x800/filters:focal(861x605:1187x931)/cdn.vox-cdn.com/uploads/chorus_image/image/67977057/IMG_3532_2048x1536.0.jpeg' width='700px' /><br/>
+Last week, a sheep-counting expedition found a mysterious monolith deep in the Utah desert, and they warned the world to stay away.
+<a href='https://www.theverge.com/2020/11/24/21656223/mysterious-utah-monolith-osint-google-earth-tracking'> Source <a/>

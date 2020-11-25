@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E7zWL8xAbPhPpvaff2MfQOf7iPc=/0x0:2400x1598/1200x800/filters:focal(1008x607:1392x991)/cdn.vox-cdn.com/uploads/chorus_image/image/67933936/Download_ZA10_in_clouds_cropped.0.jpg' width='700px' /><br/>
+In 2017, Zunum Aero was flying high. The Kirkland, Washington-based aviation startup came out of stealth mode with bold plans to build a fleet of 12-seat hybrid electric jets for short, regional hops between cities. The company, which had received millions of dollars from the venture arms of Boeing and JetBlue, said it would be ready to fly by 2022.
+<a href='https://www.theverge.com/2020/11/24/21612702/zunum-aero-sues-boeing-fraud-hybrid-electric-jet'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y_rZD6IlRDGXmODHvRvyNNsjKSk=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/67973996/twarren-surfacelaptopgo-7.0.0.jpg' width='700px' /><br/>
+Black Friday week has arrived, and that means you can pick up some Microsoft products at their lowest prices of the year. Whether you're looking for Surface Pro tablets, Xbox accessories, Windows laptops, or PC games, you'll find discounts left and right at the Microsoft Store and other retailers such as Best Buy.
+<a href='https://www.theverge.com/21583450/black-friday-microsoft-surface-xbox-windows-deals-cyber-monday'> Source <a/>

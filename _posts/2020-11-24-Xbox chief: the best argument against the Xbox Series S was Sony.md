@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tvDLhnhDzMI8vm1k1GniBRL-hfk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67869701/vpavic_201103_4275_0252.0.jpg' width='700px' /><br/>
-Microsoft's Xbox Series S wasn't exactly a well kept secret, but the company's decision to create a second next-gen Xbox to go up against the PS5 wasn't an easy one. Ultimately, Microsoft's decision to build two next-gen consoles came down to the company's desire to reach a broader audience than Sony was targeting.
-<a href='https://www.theverge.com/2020/11/24/21612408/microsoft-xbox-series-s-phil-spencer-sony-ps5-hardware-decisions-interview'> Source <a/>

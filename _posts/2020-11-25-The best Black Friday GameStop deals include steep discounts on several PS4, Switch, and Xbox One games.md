@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9GBCRyDlUR8vN3Y7wPWcD5O5A8M=/0x0:1000x664/1200x800/filters:focal(420x252:580x412)/cdn.vox-cdn.com/uploads/chorus_image/image/67849938/gamestop-photo.0.jpg' width='700px' /><br/>
+If you are a gamer looking to expand your gaming library, this time of year is an ideal time to get a ton of games for less. Like many other retailers, GameStop is slashing the prices on many products.
+<a href='https://www.theverge.com/21571470/gamestop-black-friday-deals-sale-games-cyber-monday'> Source <a/>

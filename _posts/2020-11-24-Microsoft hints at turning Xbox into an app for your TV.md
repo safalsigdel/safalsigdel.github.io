@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IXUnedUiszm-FjjxGQO9a-dZ_VY=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/67870299/xcloud.0.jpg' width='700px' /><br/>
-Microsoft is in the early phases of rolling out its xCloud streaming service on mobile devices, but TVs are the next logical step. In an interview with The Verge, Xbox chief Phil Spencer has revealed we'll likely see an Xbox app appear on smart TVs over the next year. “I think you're going to see that in the next 12 months,” said Spencer, when asked about turning the Xbox into a TV app. “I don't think anything is going to stop us from doing that.”
-<a href='https://www.theverge.com/2020/11/24/21612714/microsoft-xbox-app-tv-xcloud-streaming-app'> Source <a/>

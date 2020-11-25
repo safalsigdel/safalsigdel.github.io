@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6aaLm8Y-ogIxgrCjcoLpBQoAgQE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67939895/wjoel_1777_180403_youtube_005.0.jpg' width='700px' /><br/>
+YouTube has temporarily suspended right-wing outlet One America News Network (OANN) for promoting a false COVID-19 cure. OANN's channel will stay online, but it will be prevented from uploading new videos for a week, and it's been removed from YouTube's advertising partner program.
+<a href='https://www.theverge.com/2020/11/24/21660572/youtube-suspends-oann-video-coronavirus-misinformation-monetization'> Source <a/>

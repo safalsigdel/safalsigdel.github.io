@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wyTiDriyt94MfteDXQkAVeZGKa0=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/67977607/MHWI_The_New_World_1024x576.0.jpg' width='700px' /><br/>
+The upcoming Monster Hunter movie doesn't exactly look like the most faithful adaptation of the games, centering as it does around a gun-toting US Army soldier played by Milla Jovovich, but that's not stopping Capcom from engaging in some cross-promotion. Downloadable content based on the movie is coming to Monster Hunter World: Iceborne next month.
+<a href='https://www.theverge.com/2020/11/24/21717722/monster-hunter-movie-dlc-mhw-iceborne-release-date'> Source <a/>

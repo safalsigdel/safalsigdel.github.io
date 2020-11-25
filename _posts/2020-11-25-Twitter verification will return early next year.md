@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EeQMHhJsWVE8Y5Kofu7yXWqfPZU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67907984/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+On Tuesday, Twitter announced that it would relaunch its verification process early next year along with brand-new guidelines for users seeking out that small, blue badge.
+<a href='https://www.theverge.com/2020/11/24/21626494/twitter-verification-returns-early-2021-policy-feedback'> Source <a/>

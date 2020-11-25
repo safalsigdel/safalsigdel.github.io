@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MmxJYMInJeWJB7cPOkrL5QHDJ4M=/0x0:2080x1387/1200x800/filters:focal(752x543:1084x875)/cdn.vox-cdn.com/uploads/chorus_image/image/67851999/IMG_0336.0.jpg' width='700px' /><br/>
-Amazon's Echo Buds are getting new fitness features that allow the true wireless earbuds to track your workouts. According to Amazon, the Echo Buds now have the ability to track walks, runs, and other workouts, all initiated with Alexa voice commands.
-<a href='https://www.theverge.com/2020/11/23/21593991/amazon-alexa-echo-buds-workouts-fitness-tracking-wireless-headphones'> Source <a/>

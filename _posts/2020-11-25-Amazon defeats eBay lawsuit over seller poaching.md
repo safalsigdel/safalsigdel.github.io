@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qCHpogo0A_WJUjTc9KvljFw3R5A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67882625/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
+Amazon has prevailed in a lawsuit claiming it secretly poached eBay sellers. The companies and a group of Amazon managers filed arbitration updates for two complaints, one from 2018 and another from 2019. The complaints alleged that Amazon employees signed up for eBay accounts under false pretenses, then lured eBay merchants to their platform.
+<a href='https://www.theverge.com/2020/11/24/21612821/amazon-ebay-sellers-poaching-lawsuit-conclusion-arbitration'> Source <a/>

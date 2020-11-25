@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/I1G2Zg15KFYDDtAZcaOn9kR_vAw=/0x0:720x405/1200x800/filters:focal(303x146:417x260)/cdn.vox-cdn.com/uploads/chorus_image/image/67875885/unnamed.0.png' width='700px' /><br/>
+The multiplayer portion of Red Dead Redemption II will be a standalone game starting next month. Developer Rockstar Games announced that the mode, called Red Dead Online, will be available to purchase separately on PlayStation, Xbox, and PC starting on December 1st. (It'll be playable on the next-gen PS5 and Xbox Series X via backwards compatibility.)
+<a href='https://www.theverge.com/2020/11/24/21612940/red-dead-online-standalone-release-date-price-playstation-xbox-pc'> Source <a/>

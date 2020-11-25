@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4LOrgnv-FipE6bmdXZM1FDm-jp8=/0x50:830x587/1200x800/filters:focal(348x343:480x475)/cdn.vox-cdn.com/uploads/chorus_image/image/67941606/galaxya12_galaxya02s.0.jpg' width='700px' /><br/>
+Samsung on Tuesday announced the Galaxy A12 and A02S, two new entry-level phones set to launch next year in Europe. Both offer a lower barrier to entry for anyone looking for a modern Android smartphone.
+<a href='https://www.theverge.com/2020/11/24/21628573/samsung-a12-a02s-phones-budget-price-specs-2021'> Source <a/>

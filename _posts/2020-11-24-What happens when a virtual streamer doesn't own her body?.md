@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6yN6BaXjsXzmwjSVB2yX8PTYD18=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67869607/4312_Projekt_Meloday_001.0.jpg' width='700px' /><br/>
-Projekt Melody swears her body belongs to her — the purple hair, the cat-eared bow, and all the barely there clothing that strategically covers her up. She commissioned it from an artist for $5,000 and even kept the receipts as proof. And for her thousands of fans on Twitch, this is what they see when she streams herself playing Minecraft, watching movies, or just sitting around chatting in her room.
-<a href='https://www.theverge.com/2020/11/24/21591488/projekt-melody-twitch-ban-copyright-strike-digitrevx-vtuber'> Source <a/>
