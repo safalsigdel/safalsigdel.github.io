@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uQDnxxOumKgy24_loTTep2rpcVk=/0x0:1707x960/1200x800/filters:focal(549x157:821x429)/cdn.vox-cdn.com/uploads/chorus_image/image/67870548/EnX775yXcAABYdd.0.jpeg' width='700px' /><br/>
-In a recent episode of The Mandalorian, tiny puppet baby Yoda ate a blue cookie. I don't watch The Mandalorian, but I am online enough to have seen photos of the tiny puppet baby Yoda eating blue macarons. You can now buy these macarons, called “Nevarro Nummies” from Williams Sonoma. Haha cool! I love macarons hell yeah. Except that they cost $49.95 for a dozen.
-<a href='https://www.theverge.com/21612698/mandalorian-cookie-macarons-the-child-williams-sonoma-star-wars-price'> Source <a/>
