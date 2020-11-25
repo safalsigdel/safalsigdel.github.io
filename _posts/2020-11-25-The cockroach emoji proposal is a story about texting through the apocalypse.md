@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2lROc0p4C4n8AmBR6LQg44cnBQA=/0x0:1000x600/1200x800/filters:focal(420x220:580x380)/cdn.vox-cdn.com/uploads/chorus_image/image/67982162/cockroach_1fab3.0.jpg' width='700px' /><br/>
+A slate of new emoji was announced in January. Months later, they've finally trickled onto most people's phones... but in one case, it's really more of a skitter. I'm talking about the cockroach, arguably the most shudder-inducing emoji of 2020 — and the product of a great little short story about the looming end of the world.
+<a href='https://www.theverge.com/21719196/cockroach-emoji-unicode-consortium-proposal-nuclear-winter'> Source <a/>
