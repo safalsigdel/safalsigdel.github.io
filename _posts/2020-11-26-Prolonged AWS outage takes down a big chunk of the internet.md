@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/AAmdPMJTuKuqKme6BmUv3mawkZQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67981719/acastro_181114_1777_amazon_hq2_0005.0.jpg' width='700px' /><br/>
-Amazon Web Services (AWS), Amazon's internet infrastructure service that is the backbone of many websites and apps, has been experiencing a multi-hour outage that is affecting a large portion of the internet. And as of 5:25PM ET on Wednesday, a full recovery might still be a few hours away, according to Amazon.
+Amazon Web Services (AWS), Amazon's internet infrastructure service that is the backbone of many websites and apps, experienced a multi-hour outage on Wednesday that affected a large portion of the internet. The service has been nearly fully restored as of 4:18AM ET on Thursday morning, according to Amazon.
 <a href='https://www.theverge.com/2020/11/25/21719396/amazon-web-services-aws-outage-down-internet'> Source <a/>
