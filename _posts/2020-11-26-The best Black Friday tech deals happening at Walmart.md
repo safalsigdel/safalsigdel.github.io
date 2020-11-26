@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jJ47IGYOPl2APf6Akn9-pUdHe44=/0x0:555x368/1200x800/filters:focal(234x140:322x228)/cdn.vox-cdn.com/uploads/chorus_image/image/67984815/walmart555.1419973090.0.jpg' width='700px' /><br/>
+Like some of its competitors, Walmart has started offering a ton of discounts on tech products in the weeks leading up to Black Friday. Fortunately, Walmart has some interesting Black Friday deals going on right now, including the lowest price we have seen yet on Apple's AirPods Pros.
+<a href='https://www.theverge.com/21583298/walmart-black-friday-deals-tech-gadgets-cyber-monday'> Source <a/>

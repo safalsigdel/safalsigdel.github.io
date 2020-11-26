@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FdZfHqbqui6k_vKW-pihgSe4XnQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67983791/acastro_180525_1777_comcast_0002.0.jpg' width='700px' /><br/>
+If you're a Comcast TV and internet user, prepare for price hikes. The company is planning to increase the prices of a variety of services starting January 1st, 2021, according to Ars Technica and a document detailing the various price increases being shared on Reddit.
+<a href='https://www.theverge.com/2020/11/25/21719695/comcast-internet-tv-cost-bill-increase-price-2021'> Source <a/>

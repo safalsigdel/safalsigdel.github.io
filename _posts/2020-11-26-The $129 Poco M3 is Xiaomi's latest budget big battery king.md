@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ffbXZ9s0n3mf_903FYLFmx-bShw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67979602/DSCF7453.0.jpg' width='700px' /><br/>
-Xiaomi's Poco sub-brand has launched its latest entry-level phone, the Poco M3. As with most other Poco phones, the M3 has an strong spec sheet for its comparatively low price.
-<a href='https://www.theverge.com/2020/11/25/21718786/xiaomi-poco-m3-hands-on-specs-price-release-date-us'> Source <a/>

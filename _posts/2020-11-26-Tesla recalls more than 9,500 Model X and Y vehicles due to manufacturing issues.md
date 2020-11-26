@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iu0XIbCJ1T18FgJTfQXzwMHqYws=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67983863/akrales_170310_1493_A_0426.0.0.jpg' width='700px' /><br/>
+Tesla has issued recall orders for 9,537 of its vehicles in the US, including 9,136 Model Xs from 2016 and 401 Model Ys from 2020, Reuters reports. The issues were filed with the National Highway Traffic Safety Administration (NHTSA) and Tesla intends to recall the vehicles for testing and fixes.
+<a href='https://www.theverge.com/2020/11/25/21719586/tesla-recall-2016-cars-model-x-y-manufacturing-issues'> Source <a/>
