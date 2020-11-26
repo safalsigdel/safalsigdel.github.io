@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OdbOGA2aIdiFV2vb11hYeLMu4xw=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/67987276/surfacepro8.0.jpg' width='700px' /><br/>
+Microsoft's next Surface Pro 8 tablet and its upcoming Surface Laptop 4 have appeared in leaked images online. Twitter user cozyplanes discovered the images at what appears to be an FCC-like filing, noting that the Surface Pro 8 may ship with LTE support. Both devices will likely launch early next year, and don't appear to feature any major updates to their design.
+<a href='https://www.theverge.com/2020/11/26/21721699/microsoft-surface-pro-8-surface-laptop-4-leak-images'> Source <a/>
