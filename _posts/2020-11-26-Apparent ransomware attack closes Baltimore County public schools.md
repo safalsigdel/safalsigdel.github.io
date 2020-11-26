@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N1anA_sNVAHfTKMbmWEJbPoJqEU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67980780/acastro_170621_1777_0006_v4.0.jpg' width='700px' /><br/>
-The Baltimore County Public School (BCPS) system has canceled classes after an apparent ransomware attack shut down internal networks. Described by officials as “a networking issue,” the outage is affecting the schools' email and grading systems, among others.
-<a href='https://www.theverge.com/2020/11/25/21719056/baltimore-county-public-schools-cancel-class-bcps-ransomware-hack'> Source <a/>
