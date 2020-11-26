@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AKj55e1_l83vftUbtriKy5qdPmA=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/67981643/2605420727_3d93cb8e9e_b.0.jpg' width='700px' /><br/>
-It's your first (and hopefully last) Thanksgiving holiday during a pandemic, and you might be looking for some kind of outlet for your newfound stress. Well, you're in luck: New York Times Games is streaming collaborative crosswords on Twitch right now.
-<a href='https://www.theverge.com/2020/11/25/21717522/nyt-twitch-crowssword-puzzle-solve-together'> Source <a/>
