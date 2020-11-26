@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U1I948hSKFY8TC_upNQjl03m0X8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67985976/akramer_201113_4290_0007.0.0.jpg' width='700px' /><br/>
+Apple has asked Foxconn to move some iPad and MacBook manufacturing capacity to Vietnam, Reuters reports. The assembly lines are set to start production in the first half of next year at Foxconn's Bac Giang province, according to Reuters' source, who notes that Apple wants to diversify its supply chain due to the ongoing trade disputes between the US and China.
+<a href='https://www.theverge.com/2020/11/26/21721353/apple-ipad-macbook-foxconn-manufacturing-vietnam-report'> Source <a/>
