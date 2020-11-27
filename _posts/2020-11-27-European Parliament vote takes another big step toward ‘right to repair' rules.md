@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YGueVhwiLy8ROs8X316hp6pEFdQ=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/67984142/apple_repair_service_expansion_iphone_repair_07072020.0.jpg' width='700px' /><br/>
-The EU has just taken a big step toward establishing stronger “right to repair” rules, with the the European Parliament voting overwhelmingly in support of a resolution on a “sustainable single market,” according to iFixit.
-<a href='https://www.theverge.com/2020/11/25/21719701/european-parliament-right-to-repair-resolution-hardware-eu-commission-2021'> Source <a/>
