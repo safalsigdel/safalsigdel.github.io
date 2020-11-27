@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/inDrcFj5F9DT9pnDLSzdhhG1xGs=/0x0:3000x2000/1200x800/filters:focal(508x267:988x747)/cdn.vox-cdn.com/uploads/chorus_image/image/67983952/BM_Bandersnatch0002.0.jpg' width='700px' /><br/>
-Netflix has settled a lawsuit over its interactive special Bandersnatch. According to The Hollywood Reporter, Netflix announced the deal with Choose Your Own Adventure book publisher Chooseco on Monday. The settlement ends a bitter legal fight between Netflix and Chooseco, which claimed the streaming video platform had infringed its trademark.
-<a href='https://www.theverge.com/2020/11/25/21720533/netflix-bandersnatch-chooseco-lawsuit-settlement-choose-your-own-adventure'> Source <a/>
