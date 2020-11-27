@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/AnhzH7Gyr7E410sPcL0DLsIE4Ng=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67984810/akrales_191030_3763_0471.0.jpg' width='700px' /><br/>
-Update: Walmart is showing the AirPods Pro as out of stock, but you can still order them from Amazon at the discounted price, with delivery expected before Christmas.
+Update: Amazon says it is out of stock of the AirPods Pro, but it will still let you place an order at the discounted price to ship when stock returns. But there's no guarantee you'll get them before the holidays.
 <a href='https://www.theverge.com/good-deals/2020/11/25/21719200/apple-airpods-pros-black-friday-deal-sale-walmart'> Source <a/>
