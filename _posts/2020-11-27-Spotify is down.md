@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/78Q0GO3_LAbCVyctuZJ27WsRXnE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67988880/acastro_180213_1777_0001.0.jpg' width='700px' /><br/>
+Spotify is currently down and experiencing a widespread outage, affecting countries across Europe and beyond. The music streaming service stopped working for many at around 4:15AM ET, but Spotify hasn't provided a status update on its dedicated Twitter account about the issues yet.
+<a href='https://www.theverge.com/2020/11/27/21722311/spotify-down-outage-connection-issues'> Source <a/>
