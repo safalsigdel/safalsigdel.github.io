@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s4XrfrHgNM_LQ9eq9jPd1NZ7BEs=/0x0:4185x2700/1200x800/filters:focal(1759x1016:2427x1684)/cdn.vox-cdn.com/uploads/chorus_image/image/67982683/542125066.0.jpg' width='700px' /><br/>
-On October 24th, 2020, an art trafficker in Darnah, Libya posted a series of unusual ads. For sale: a Greco-Roman statue, its marble bust covered in a toga. If it looked like it belonged in a museum, that's because it did. The seller posted photos of the piece in private Facebook groups dedicated to trafficking antiques.
-<a href='https://www.theverge.com/2020/11/25/21664951/facebook-ban-stolen-artifacts-aids-criminal-organizations'> Source <a/>
