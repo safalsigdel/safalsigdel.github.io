@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cLMi2JCksT_8dyFXQdFNppgGzKA=/0x0:1050x699/1200x800/filters:focal(441x266:609x434)/cdn.vox-cdn.com/uploads/chorus_image/image/67988830/redmi_watch.0.jpg' width='700px' /><br/>
-Xiaomi's budget sub-brand Redmi has never released a smartwatch before, and its first entry turns out to be what you'd expect: a pretty uninspiring design at a pretty attractive price. The Redmi Watch just launched in China for 299 yuan, or about $45.
-<a href='https://www.theverge.com/2020/11/27/21722290/redmi-watch-xiaomi-announced-price-release-date-mi-lite'> Source <a/>
