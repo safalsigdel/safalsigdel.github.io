@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OHOYRINO29aBhPAFVDV0mWmz2YQ=/0x0:1714x969/1200x800/filters:focal(720x348:994x622)/cdn.vox-cdn.com/uploads/chorus_image/image/67989787/aoc.0.png' width='700px' /><br/>
+After making a huge splash in her Twitch debut last month, Rep. Alexandria Ocasio-Cortez (D-NY) plans to join the streaming platform again tonight to play Among Us with MP Jagmeet Singh, leader of Canada's New Democratic Party, and two other Twitch streamers. The stream, hosted by Singh, is set to begin at 7PM ET on Friday.
+<a href='https://www.theverge.com/2020/11/27/21722576/aoc-among-us-twitch-jagmeet-singh'> Source <a/>

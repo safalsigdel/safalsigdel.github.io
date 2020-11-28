@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/AnhzH7Gyr7E410sPcL0DLsIE4Ng=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67984810/akrales_191030_3763_0471.0.jpg' width='700px' /><br/>
-Update: Amazon says it is out of stock of the AirPods Pro, but it will still let you place an order at the discounted price to ship when stock returns. But there's no guarantee you'll get them before the holidays.
+Update: Amazon is now fully out of stock of the AirPods Pro and is no longer accepting orders. If you're still looking to purchase them, Best Buy and B&H Photo have marked them down to $200, a $50 savings from the regular price. Also be sure to check out our roundup of the best AirPods sales at any given time.
 <a href='https://www.theverge.com/good-deals/2020/11/25/21719200/apple-airpods-pros-black-friday-deal-sale-walmart'> Source <a/>

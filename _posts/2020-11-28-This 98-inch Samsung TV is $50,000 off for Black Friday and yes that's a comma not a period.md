@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+The Verge would greatly appreciate it if you bought a certain Samsung TV today. We make some of our money from affiliate revenue, and Black Friday in particular helps pay some of the bills! And today only, this particular TV is fifty thousand dollars off. That should make it easy for you, right?
+<a href='https://www.theverge.com/tldr/2020/11/27/21723138/samsung-98-inch-tv-deal-sale-black-friday-8k'> Source <a/>

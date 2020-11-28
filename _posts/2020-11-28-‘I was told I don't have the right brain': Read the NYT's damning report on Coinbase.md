@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7xPvT-0tBtTTKziwXB-pnjyo-0I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67991025/acastro_bitcoin_2.0.jpg' width='700px' /><br/>
+Two days ago, Coinbase did something we rarely see a company do: it gave the world a heads-up that The New York Times would soon publish “a negative story” about how “several Black employees had negative experiences at Coinbase over the last few years.”
+<a href='https://www.theverge.com/21722972/coinbase-black-racial-discrimination-new-york-times'> Source <a/>

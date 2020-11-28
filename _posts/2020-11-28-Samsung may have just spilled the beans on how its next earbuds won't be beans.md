@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+We kind of loved the beans. The Galaxy Buds Live's bean-like shape made sense! But though it originally seemed like Samsung was in on the joke — the company called them beans internally, and even printed the word on the circuitry — Samsung's next earbuds may take a take a different tack.
+<a href='https://www.theverge.com/circuitbreaker/2020/11/27/21723323/samsung-galaxy-buds-pro-leak-not-beans-live'> Source <a/>

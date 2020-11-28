@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G4JlR1fwY3_3Upbsm3VO_JSYSLo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67988655/akrales_200904_4160_0496.0.0.jpg' width='700px' /><br/>
-Oculus is hosting a big sale on games and experiences for Black Friday, with more discounts coming on Cyber Monday. There are plenty of standalone deals, but Oculus has also curated several bundles, each one on a different theme. And you can gift titles to other people from the Oculus store, too. You'll just need their e-mail address when checking out.
-<a href='https://www.theverge.com/good-deals/21697473/oculus-black-friday-games-experiences-vr-headset-sale-deal-cyber-monday'> Source <a/>

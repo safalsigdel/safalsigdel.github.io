@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PEjt5w_MjbBiJIBX5N5OLq4x78A=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/67980386/TLOUPII_Review_Screenshot_01.5.jpg' width='700px' /><br/>
+Let's be honest: gaming is expensive, but the holiday season is a good time to take advantage of deals and sales and buy more than one game. Whether you are adding games to your personal library for your backlog, or you are planning to buy some games for a friend or family member, retailers like Amazon, GameStop, and Target have various discounts on titles.
+<a href='https://www.theverge.com/21587101/black-friday-game-gaming-deals-ps4-ps5-xbox-switch-cyber-monday'> Source <a/>

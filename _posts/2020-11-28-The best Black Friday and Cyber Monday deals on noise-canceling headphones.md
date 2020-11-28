@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/IRSWOyA7uhfM4Itw4PuTO_tCEuw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67930971/akrales_190716_3546_0312.5.jpg' width='700px' /><br/>
-Noise-canceling headphones are an important piece of tech if you enjoy having zero distractions or outside noise while you jam to funky tunes or listen to podcasts.
+Noise-canceling headphones are an important piece of tech if you enjoy having zero distractions or outside noise while you jam to funky tunes or listen to podcasts. And, as you might have expected, Black Friday and Cyber Monday are a good time to invest.
 <a href='https://www.theverge.com/21585574/black-friday-headphones-deals-noise-canceling-cyber-monday'> Source <a/>
