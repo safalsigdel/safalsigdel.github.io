@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/0A3ylnXz7xgYGFaHH_8Iw8_gc5U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67867333/vpavic_4243_20201017_0088.0.0.jpg' width='700px' /><br/>
-It's rare that Apple slashes the prices on its own products. Fortunately, other retailers are putting a lot of Apple products on sale for Black Friday and Cyber Monday. A bunch of retailers like Amazon, Best Buy, B&H Photo, Walmart, and Woot are slashing the prices on everything from wearables to its wireless earbuds.
+It's rare that Apple slashes the prices on its own products. Fortunately, other retailers are putting a lot of Apple products on sale forCyber Monday. A bunch of retailers like Amazon, Best Buy, B&H Photo, Walmart, and Woot are slashing the prices on everything from wearables to its wireless earbuds.
 <a href='https://www.theverge.com/21583192/apple-deals-black-friday-tech-cyber-monday'> Source <a/>
