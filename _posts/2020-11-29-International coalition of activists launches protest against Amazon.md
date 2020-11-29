@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/72QzJ1t9J4Q2-znlpNI2h1R4Rlc=/0x0:4032x3024/1200x800/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/67989591/002.0.jpg' width='700px' /><br/>
-An international group of climate activists and Amazon warehouse workers have launched an online campaign called “Make Amazon Pay,” calling on the tech giant to provide better working conditions for its employees and to reduce its expanding carbon footprint. The protests come just as the New York Times reports that the Seattle-based company has been on a hiring spree this year, expanding its global workforce.
-<a href='https://www.theverge.com/2020/11/27/21722421/make-amazon-pay-protest-campaign-black-friday'> Source <a/>

@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/_LxVAp593IAMI8eni7sgqQtuBPc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67870193/vpavic_4291_20201113_0366.0.0.jpg' width='700px' /><br/>
-Whether you're shopping for a student, an older relative, or anyone in between, a laptop can make a great gift. And the internet's largest retailers are offering all kinds of laptops at discounted prices this Black Friday and Cyber Monday, whether you're looking for a convertible, a Chromebook, a gaming rig, or anything else.
+Whether you're shopping for a student, an older relative, or anyone in between, a laptop can make a great gift. And the internet's largest retailers are offering all kinds of laptops at discounted prices for Cyber Monday, whether you're looking for a convertible, a Chromebook, a gaming rig, or anything else.
 <a href='https://www.theverge.com/21591398/black-friday-laptop-deals-sale-cyber-monday'> Source <a/>

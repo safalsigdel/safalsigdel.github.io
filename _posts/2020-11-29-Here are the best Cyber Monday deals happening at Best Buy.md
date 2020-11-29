@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/teHkR_U4MyevegkIOB_B4YwRZ3Q=/0x0:1939x1293/1200x800/filters:focal(801x801:1111x1111)/cdn.vox-cdn.com/uploads/chorus_image/image/67866163/awhite_200319_3954_6.6.jpg' width='700px' /><br/>
+Best Buy was one of the first retailers to launch Black Friday deals — all the way back in mid-October to go up against Amazon Prime Day. Now that Cyber Monday is essentially here, Best Buy is back with a bunch of great sales that you can take advantage of. And, you can do all of your shopping online.
+<a href='https://www.theverge.com/21583253/best-buy-black-friday-tech-deals-cyber-monday-tvs-games-phones'> Source <a/>
