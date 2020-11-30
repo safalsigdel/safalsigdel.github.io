@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KGJ7Nf0lm2OIGp1mC8olOzo1PfM=/0x0:1650x1100/1200x800/filters:focal(693x418:957x682)/cdn.vox-cdn.com/uploads/chorus_image/image/67998621/EoC_LWVVkAE9Tst.0.jpeg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/6DEWBdTnp6XopxgTy2LZ7gXudAw=/0x0:960x640/1200x0/filters:focal(0x0:960x640):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22129482/16905_02.jpg' width='700px' /><br/>
 Universal Studios Japan has announced an opening date for its long-awaited Nintendo-themed area. The Super Nintendo Land zone will open at the Osaka theme park on February 4th, 2021.
 <a href='https://www.theverge.com/2020/11/30/21726093/super-nintendo-world-osaka-japan-opening-date-announced'> Source <a/>
