@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cCnCyXvP0B4H2MBBbnlqDc65ZuM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67873652/vpavic_200617_4067_0065.0.jpg' width='700px' /><br/>
-If you're heading off to high school or college next year (or shopping for someone who is), Black Friday and Cyber Monday are great times to start looking for the gadgets you'll need for school. And if you're a current student who just needs to upgrade their tech, why not take advantage of this week's deals and sales?
-<a href='https://www.theverge.com/21591498/black-friday-student-tech-deals-laptops-headphones-cyber-monday'> Source <a/>
