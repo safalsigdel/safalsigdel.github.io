@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9yaXaoNFuueaZzwvPdR7q93Rr_A=/0x0:5000x3000/1200x800/filters:focal(2100x1100:2900x1900)/cdn.vox-cdn.com/uploads/chorus_image/image/68000554/Badger_01.0.jpg' width='700px' /><br/>
+General Motors ditched its plans to acquire an equity stake in troubled electric truck startup Nikola. GM will also no longer help engineer and manufacture Nikola's battery-electric and hydrogen fuel cell vehicles, including the Badger pickup truck.
+<a href='https://www.theverge.com/2020/11/30/21726594/gm-nikola-deal-equity-badger-truck-hydrogen'> Source <a/>
