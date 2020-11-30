@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Wy78zLkwqejSrTMwqts-2A3BDO4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67989254/akramer_201113_4290_0020.0.0.jpg' width='700px' /><br/>
+Apple's new computers, based on the company's own custom M1 chip, have been getting sterling reviews due to their great performance and better life. (Well, almost sterling reviews; The Verge's Nilay Patel is not a fan of the Touch Bar that still adorns the MacBook Pro. But aside from that...)
+<a href='https://www.theverge.com/2020/11/27/21682287/macbook-air-pro-black-friday-mac-mini-m1-bh-photo-adorama-sale'> Source <a/>
