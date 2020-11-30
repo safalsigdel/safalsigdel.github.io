@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xHj83gUs_Ph69jmigLAmRFEipjI=/0x0:3539x2743/1200x800/filters:focal(1156x740:1722x1306)/cdn.vox-cdn.com/uploads/chorus_image/image/67993087/490038342.0.jpg' width='700px' /><br/>
-Tony Hsieh, the former CEO of online shoe retailer Zappos has died, the company confirmed Saturday. Hsieh retired from the Las Vegas-based company in August, after 20 years at the helm. Under his leadership, Zappos became known for its customer service and employee-focused company culture. Hsieh wrote a best-selling autobiography titled “Delivering Happiness” that detailed his philosophy.
-<a href='https://www.theverge.com/2020/11/28/21723817/former-zappos-ceo-tony-hsieh-dies'> Source <a/>
