@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rvwQAlUCR51NMGZglHLp-JTFfYk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67845471/cwelch_171017_2068_0008.5.jpg' width='700px' /><br/>
+Sonos has discounted several of its speakers for Cyber Monday including the compact One and One SL, powerful Five, portable Move, Beam soundbar, and Sub add-on. All three models are $100 off, a significant discount from their regular prices.
+<a href='https://www.theverge.com/21591080/sonos-black-friday-speaker-move-beam-sub-deal-sale'> Source <a/>
