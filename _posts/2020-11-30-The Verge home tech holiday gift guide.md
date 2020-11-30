@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KkXKKm8CogAYCI2LOTXdPDn2y5A=/0x0:3000x1688/1200x675/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/68000107/VRG_4264_HGG_Lede_0006.0.jpg' width='700px' /><br/>
+Sometimes it's better to be practical than romantic, especially when it comes to home tech gifts. In The Verge's home tech holiday gift guide, we've assembled an array of tech gadgets for cooking, working from home, listening to music, or just making life more comfortable. And we've provided gift ideas in a range of prices, like fix-it moldable glue for under $20, a $60 cat cave, an $85 apron, and a nearly $700 standing desk.
+<a href='https://www.theverge.com/21558887/home-tech-holiday-gift-guide-kitchen-speakers-work'> Source <a/>
