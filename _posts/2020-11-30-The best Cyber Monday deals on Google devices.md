@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jMowWHeCRX4SXrRXb8CluHGvTIM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67870365/akrales_201012_4137_0027.0.0.jpg' width='700px' /><br/>
-Google's line of products has expanded quite a bit over the years, and a bunch of them are discounted for Cyber Monday. You can find discounts on Nest smart speakers and smart displays, mesh Wi-Fi routers, Pixel phones, Stadia gaming setups, and smart thermostats.
-<a href='https://www.theverge.com/21583838/google-android-black-friday-deals-phones-speakers-cyber-monday'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6c1G6sL2uIgyPKkIGvKkKm1euvI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68000732/DSCF5638.0.jpg' width='700px' /><br/>
+It was inevitable that Samsung was going to make the switch from “Plus” to “Pro.” Even if there was a “Live” in between. The company has filed the necessary regulatory paperwork with the FCC for its next set of true wireless earbuds. It was already rumored that these would be called the Galaxy Buds Pro, and now it's right there in documentation directly from Samsung itself.
+<a href='https://www.theverge.com/2020/11/30/21726569/samsung-galaxy-buds-pro-earbuds-fcc-regulatory-filing'> Source <a/>
