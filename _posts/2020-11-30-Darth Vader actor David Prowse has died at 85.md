@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VpuxAwen4S1j0ehgG2c1DVtJYPo=/0x0:4256x2832/1200x800/filters:focal(1079x1167:1759x1847)/cdn.vox-cdn.com/uploads/chorus_image/image/67995866/167710690.0.jpg' width='700px' /><br/>
-David Prowse, the actor who played Darth Vader in the original Star Wars films, has died, the Associated Press reported. He was 85.
-<a href='https://www.theverge.com/2020/11/29/21724911/darth-vader-actor-david-prowse-died-star-wars'> Source <a/>
