@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hSgtdYtvLzxu_K3hxRsImGQJqy0=/0x0:3900x2600/1200x800/filters:focal(1744x1107:2368x1731)/cdn.vox-cdn.com/uploads/chorus_image/image/67998493/GalaxyNote20_Back_Pen_Red.0.jpg' width='700px' /><br/>
+Samsung's Galaxy Note 20 5G and Z Flip 5G are available in a pair of new colors in the US starting today, the company has announced. The Note 20 5G is now available in red, while the Z Flip 5G is available in white. Both colors are being produced in “limited quantities,” Samsung says, and there's no difference in specs or pricing between these and the original models.
+<a href='https://www.theverge.com/2020/11/30/21612473/samsung-galaxy-note-20-5g-z-flip-red-white-new-colors'> Source <a/>
