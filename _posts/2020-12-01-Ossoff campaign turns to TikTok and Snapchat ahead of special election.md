@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YevOz6Jgux9_a2T8ffjmfYDWcVQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68042078/1229686934.0.jpg' width='700px' /><br/>
+On Tuesday, the Democratic Senate campaign for Jon Ossoff plans to launch new accounts on TikTok and Snapchat as part of a new effort to reach young voters in the last few weeks before the Georgia runoff election on January 5th.
+<a href='https://www.theverge.com/2020/12/1/21754927/jon-ossoff-tiktok-snapchat-account-influencer-marketing'> Source <a/>

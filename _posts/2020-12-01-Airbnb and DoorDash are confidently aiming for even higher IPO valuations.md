@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ztrzp2IsEth0j9BJ-SMKCSMdP5o=/0x0:5886x3971/1200x800/filters:focal(2473x1516:3413x2456)/cdn.vox-cdn.com/uploads/chorus_image/image/67999932/1229642349.0.jpg' width='700px' /><br/>
-Two of the year's most anticipated public listings — DoorDash and Airbnb — will seek higher than expected valuations for their IPOs, new filings show. Each company has seen its fortunes affected by the coronavirus pandemic, with DoorDash surging and Airbnb seeing its business drop off sharply. But both have priced their IPOs in roughly the same range.
-<a href='https://www.theverge.com/2020/11/30/21726364/airbnb-doordash-valuations-higher-ipo-wall-street'> Source <a/>

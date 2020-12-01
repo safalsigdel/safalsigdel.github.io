@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K04utV7sf6qiY8LshL5ztxSSlEg=/0x0:3000x1688/1200x675/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/67999787/VRG_4264_HGG_Lede_004.0.jpg' width='700px' /><br/>
-Gaming is more than a pastime — it has become an important part of most people's lives. It gives us a vacation from work and worry; it offers a chance to socialize with close friends and interesting strangers (and, occasionally, a politician); it helps us exercise our brains and our reflexes.
-<a href='https://www.theverge.com/21560189/gamer-gift-guide-xbox-gadgets-gaming-accessories'> Source <a/>
