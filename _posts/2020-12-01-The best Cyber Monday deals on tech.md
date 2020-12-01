@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ReKVVAVh84Oo9HQfre8zN2fsYBU=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67999229/4311_Cyber_Monday_2050x1367.0.jpg' width='700px' /><br/>
-Cyber Monday is over, but some of the deals are still happening. We won't be making any more updates to the post below, so if you you want to follow along with the Cyber Week developments, we're tracking the latest deals here.
-<a href='https://www.theverge.com/21583108/cyber-monday-deals-tech-stores-headphones-games-tvs'> Source <a/>
