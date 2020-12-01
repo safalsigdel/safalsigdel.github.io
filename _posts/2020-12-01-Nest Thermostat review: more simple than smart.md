@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ynlOsniqZ6EW2-VGeEQiBimpu9A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68042698/dseifert_201115_4301_0005.0.0.jpg' width='700px' /><br/>
+Ten years ago, Nest introduced its first smart thermostat, the Nest Learning Thermostat, and showed the world what a smart thermostat is capable of. You can use it to automatically program your thermostat's schedule, control it with your smartphone or a voice assistant, integrate it with other smart devices in your home like smoke detectors, and have it adjust itself for when you've left the house.
+<a href='https://www.theverge.com/21725036/google-nest-thermostat-2020-review'> Source <a/>

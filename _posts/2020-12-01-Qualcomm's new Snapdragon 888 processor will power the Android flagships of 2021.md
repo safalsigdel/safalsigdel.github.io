@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CZq77BL7BIKW11o4EnJxwMoHSIU=/0x0:4936x3291/1200x800/filters:focal(2074x1252:2862x2040)/cdn.vox-cdn.com/uploads/chorus_image/image/68042721/Snapdragon_888_Front_Chip_in_Studio__1_.0.jpg' width='700px' /><br/>
+Qualcomm has officially announced the Snapdragon 888 at its Snapdragon Tech Summit, offering a first look at its next-generation flagship smartphone processor. The 888 will power the next wave of 2021 Android flagships from companies like Samsung, OnePlus, LG, Sony, and more.
+<a href='https://www.theverge.com/2020/12/1/21678359/qualcomm-snapdragon-888-processor-first-look-5g-performance-ai-photography'> Source <a/>

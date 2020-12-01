@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kg-px7kFeAjhEu5RjbtoB5ZdR74=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67984543/shollister_201030_42850003.0.6.jpg' width='700px' /><br/>
-When it comes to PC accessories, I always felt that Black Friday and Cyber Monday were some of the best times of the year to buy new PC-related products. If you are planning to upgrade or even build your very own PC, Black Friday is a good time to save money on the parts you need for your rig.
-<a href='https://www.theverge.com/21585507/black-friday-pc-accessories-headset-monitor-deals-cyber-monday'> Source <a/>
