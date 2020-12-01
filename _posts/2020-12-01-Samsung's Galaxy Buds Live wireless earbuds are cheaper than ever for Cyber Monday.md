@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aY7DrXD-RTOU6vnFFtUfpxsqnz8=/0x0:2040x1360/1200x800/filters:focal(1146x521:1472x847)/cdn.vox-cdn.com/uploads/chorus_image/image/67999263/cwelch_200804_4129_0002.0.0.jpg' width='700px' /><br/>
-Woot is offering the best price yet on the bean-shaped Samsung Galaxy Buds Live wireless earbuds. This model has gone as low as $130 during Black Friday, but they're currently at $110 for Cyber Monday. Given that the Galaxy Buds Live debuted at $170 in the summer alongside the Note 20-series phones, this is a sharp price drop in a short period of time.
-<a href='https://www.theverge.com/2020/11/30/21725110/samsung-galaxy-buds-live-earbuds-cyber-monday-deal'> Source <a/>

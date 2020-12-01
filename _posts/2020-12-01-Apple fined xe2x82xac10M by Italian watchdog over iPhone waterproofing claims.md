@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gqMVm48-9aW32OqtugrMEf05ZfU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67999342/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-The Italian Competition Authority, Autoritxc3xa0 Garante della Concorrenza e del Mercato or AGCM, has fined Apple xe2x82xac10 million (around $12 million) for making misleading claims about the waterproofing of its iPhones, Reuters reports. Affected iPhone models go back to 2017's iPhone 8 and 8 Plus.
-<a href='https://www.theverge.com/2020/11/30/21726287/italy-apple-fine-iphone-waterproofing-warranty'> Source <a/>

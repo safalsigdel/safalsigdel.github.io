@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZS0a6CoRM_uovzPPkPb1ckxGIN8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67998811/acastro_190521_1777_huawei_0001.0.0.jpg' width='700px' /><br/>
-The UK government is banning the installation of new Huawei 5G equipment from September 2021 as part of its plans to phase out the Chinese firm's technology by 2027, The Financial Times reports. The decision follows the government's announcement in July that firms would be barred from buying new equipment from January 2021 over national security concerns.
-<a href='https://www.theverge.com/2020/11/30/21726166/uk-huawei-5g-equipment-new-installation-ban-september-2021'> Source <a/>

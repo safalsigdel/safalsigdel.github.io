@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FrztqGvV_kg_WzUKBQDUWhediFg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68037849/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
+Zoom is doing pretty well. The company reported $777.2 million in revenue during its third quarter, well over 4x its revenue from the same quarter last year. That's now two quarters in a row that Zoom's revenue has quadrupled. Zoom expects to quadruple its revenue year over year once again in the fourth quarter.
+<a href='https://www.theverge.com/2020/11/30/21750431/zoom-q3-fy2021-earnings-quadruple-revenue-pandemic-video-calling'> Source <a/>

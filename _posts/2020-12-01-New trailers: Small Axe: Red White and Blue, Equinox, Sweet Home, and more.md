@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wKFysg7aGxGynXjp-IfL52xsd30=/0x0:1576x843/1200x800/filters:focal(662x296:914x548)/cdn.vox-cdn.com/uploads/chorus_image/image/67997523/john_boyega.0.jpg' width='700px' /><br/>
-I would like to discuss my THOUGHTS about the Netflix movie Happiest Season with you all but I don't want to spoil the ending if you have not seen it. Suffice to say it could have used 100 percent more of both Aubrey Plaza and Dan Levy. The ending was... disappointing. Like VERY. It's fine, but man I was hoping a Hallmark-esque LGBTQ rom-com might go with a more unexpected ending. K-Stew deserved better.
-<a href='https://www.theverge.com/2020/11/29/21725479/new-trailers-equinox-sweet-home-small-axe-netflix-hbo-amazon'> Source <a/>
