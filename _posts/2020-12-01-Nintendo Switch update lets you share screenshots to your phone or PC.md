@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yCmka3d_pwd41INNp3rmcMvhrOs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68040948/akrales_190820_3597_0381.0.jpg' width='700px' /><br/>
+Nintendo has released a new firmware update for the Switch, and for once it actually adds some features to the console's barebones OS.
+<a href='https://www.theverge.com/2020/11/30/21754584/nintendo-switch-update-11-screenshot-video-sharing-phone-pc'> Source <a/>

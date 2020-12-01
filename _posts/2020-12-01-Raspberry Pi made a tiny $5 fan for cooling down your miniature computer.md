@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-The Raspberry Pi Foundation has been on a roll this year with cool new hardware: there's the upgraded Raspberry Pi 4; the new Raspberry Pi camera; and my personal favorite: the Raspberry Pi 400, a keyboard that's actually a fully self-contained computer. Its latest product is a little more humble: a $5 fan and heatsink set that's designed to keep your Raspberry Pi 4 cool, even for the most demanding overclockers.
-<a href='https://www.theverge.com/circuitbreaker/2020/11/30/21734130/raspberry-pi-4-fan-accessory-price-cooling-overclocking'> Source <a/>
