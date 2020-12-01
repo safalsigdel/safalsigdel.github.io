@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_0Fz9M1cw9lMS0EK7j_Mp7-BYoQ=/0x0:4500x2532/1200x800/filters:focal(1890x906:2610x1626)/cdn.vox-cdn.com/uploads/chorus_image/image/68067510/Two.0.png' width='700px' /><br/>
+Wyze, the smart home company best known for its range of budget internet-connected security cameras, has announced its debut smartwatch. The Wyze Watch will be available in two sizes — 44mm and 47mm — when it ships in the US in February 2021, and like the rest of the company's lineup, it's priced affordably at $20. Wyze's announcement follows the release of the company's first fitness tracker, the $25 Wyze Band, earlier this year.
+<a href='https://www.theverge.com/2020/12/1/21726548/wyze-watch-44-47-smartwatch-price-release-date-features'> Source <a/>

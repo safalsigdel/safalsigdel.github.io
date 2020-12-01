@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f9sv_qxE_pYfmFsOfvUvrfSdo_I=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22133217/WhatsApp_Wallpapers_Generic.jpeg' width='700px' /><br/>
-That latest WhatsApp update brings improved wallpapers and sticker search to the Facebook-owned app used by over 2 billion people.
-<a href='https://www.theverge.com/2020/12/1/21754853/whatsapp-custom-chat-wallpapers-sticker-search'> Source <a/>
