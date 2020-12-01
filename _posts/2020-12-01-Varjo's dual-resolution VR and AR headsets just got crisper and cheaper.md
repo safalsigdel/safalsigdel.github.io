@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XlkyLafEA-l7QkZXHA60hcv7hvU=/0x0:1800x1200/1200x800/filters:focal(686x160:974x448)/cdn.vox-cdn.com/uploads/chorus_image/image/68042334/_S8A0978_scaled.0.jpg' width='700px' /><br/>
+Virtual reality company Varjo, known for its unusual dual-resolution displays, has a new generation of virtual and augmented reality headsets. It's promising even higher resolution, a wider field of view, and AR with advanced depth mapping.
+<a href='https://www.theverge.com/2020/12/1/21720748/varjo-vr3-xr3-vr-ar-dual-resolution-headsets-price-shipping-specs'> Source <a/>

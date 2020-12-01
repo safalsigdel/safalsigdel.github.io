@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BoxpAGux0s1yUcIACzYoqFL8UmM=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68042363/Exterior_Casa_Grande.0.jpg' width='700px' /><br/>
+Last year, The Verge published the first images of Lucid Motors' planned $700 million electric car factory in Arizona. Now, nearly a year after breaking ground, the company announced that it has finished the first phase of construction and is on schedule to start production of its first vehicle, the luxury Lucid Air sedan, by spring 2021.
+<a href='https://www.theverge.com/2020/12/1/21739985/lucid-motors-ev-factory-construction-arizona'> Source <a/>
