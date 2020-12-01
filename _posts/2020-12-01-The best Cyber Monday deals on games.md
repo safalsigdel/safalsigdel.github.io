@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PEjt5w_MjbBiJIBX5N5OLq4x78A=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/67980386/TLOUPII_Review_Screenshot_01.5.jpg' width='700px' /><br/>
-Cyber Monday is over and most of these deals have expired, but we've rounded up the best deals still available here.
-<a href='https://www.theverge.com/21587101/black-friday-game-gaming-deals-ps4-ps5-xbox-switch-cyber-monday'> Source <a/>
