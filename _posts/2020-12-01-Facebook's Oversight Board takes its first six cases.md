@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rGqcznAE3rXIbRkxj-Wd_R-xaxw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68061386/acastro_180806_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook's Oversight Board, an independent body that reviews Facebook moderation decisions, has accepted its first cases. The six appeals involve content removed under Facebook's hate speech rules, nudity ban, and misinformation policies. They're now open for seven days of public comment, after which the board will determine whether the posts should have been removed.
+<a href='https://www.theverge.com/2020/12/1/21755133/facebook-oversight-board-supreme-court-first-cases-hate-speech-pandemic-misinformation'> Source <a/>
