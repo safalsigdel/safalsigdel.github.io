@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p2dIpNJgsfAPV6JGv3uyQTXLcNk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68042430/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
+Reddit revealed that it now has 52 million daily users, and the number appears to be growing quickly. Reddit told The Wall Street Journal that daily usage grew 44 percent year over year for October, a sizable increase on a metric that speaks to just how essential a product it is to its users.
+<a href='https://www.theverge.com/2020/12/1/21754984/reddit-dau-daily-users-revealed'> Source <a/>
