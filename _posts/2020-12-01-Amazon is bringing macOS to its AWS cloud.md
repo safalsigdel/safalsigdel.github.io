@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oWubxQ0CArjPADX__qf0MS4CXqg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68041722/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
+Amazon is bringing macOS to its AWS cloud for the first time ever. New Mac mini instances will be available on Amazon's Elastic Compute Cloud (EC2), allowing developers to create apps for iPhones, iPads, Macs, and more all on AWS.
+<a href='https://www.theverge.com/2020/12/1/21754843/amazon-mac-os-aws-cloud-developers'> Source <a/>
