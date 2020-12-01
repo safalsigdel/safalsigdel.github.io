@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Le9eGTXegj_o_vn09s_hDhtVrtA=/0x0:2040x1360/1200x800/filters:focal(848x632:1174x958)/cdn.vox-cdn.com/uploads/chorus_image/image/68035852/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple has hired Josh Elman, a prominent venture capitalist and former vice president of product at stock-trading app Robinhood, to help it improve iOS app discovery in the App Store. Elman announced the news via his Twitter account on Monday, saying he's also leaving his role as a board partner at the firm Greylock Partners and as a board member of prominent tech companies like Discord and Medium.
-<a href='https://www.theverge.com/2020/11/30/21738290/apple-josh-elman-hired-app-store-discovery-ios-developers'> Source <a/>
