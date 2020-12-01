@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Lf0b5yng9Y5gt-B3dIhYypNcHUI=/0x0:1220x813/1200x800/filters:focal(513x310:707x504)/cdn.vox-cdn.com/uploads/chorus_image/image/68040131/twarren_200909_4177_0030.0.0.0.jpg' width='700px' /><br/>
-Developers have now made it possible to emulate PS2 games on the Xbox Series X and S using the RetroArch emulator — something that the PlayStation 5, a successor to the PS2, can't.
-<a href='https://www.theverge.com/2020/11/30/21734149/ps2-emulation-xbox-series-x-s-retroarch-support'> Source <a/>
