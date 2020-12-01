@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/isqvWqNh9OWg37p0seNfPORgO-E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67870515/cwelch_191031_3763_0002.0.jpg' width='700px' /><br/>
-Cyber Monday is over and most of these deals have expired, but we've rounded up the best deals still available here.
-<a href='https://www.theverge.com/21611428/black-friday-earbuds-deals-wireless-cyber-monday'> Source <a/>

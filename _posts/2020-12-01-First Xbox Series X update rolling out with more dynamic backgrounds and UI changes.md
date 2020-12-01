@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HrjdwXXfSHTMOhKFbQ1bcDYzcls=/0x0:2248x1268/1200x800/filters:focal(945x455:1303x813)/cdn.vox-cdn.com/uploads/chorus_image/image/68011989/AUoGy8p.0.jpeg' width='700px' /><br/>
-Microsoft is starting to roll out the November update for the Xbox Series X, Series S, and Xbox One consoles today. The software update is the first dashboard update for Microsoft's next-gen consoles, and it includes more dynamic backgrounds that are exclusive to the Xbox Series X and Series S.
-<a href='https://www.theverge.com/2020/11/30/21734187/xbox-series-x-update-dynamic-backgrounds-auto-hdr-improvements'> Source <a/>
