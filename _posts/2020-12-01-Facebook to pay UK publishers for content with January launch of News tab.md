@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e-Yeh1Pil4_SfePnZQqsmGj6C1M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68041736/jbareham_180405_1777_facebook_0003.0.jpg' width='700px' /><br/>
+Facebook is launching its News tab in the UK in January in a move that's expected to see the company pay news publishers tens of millions of pounds annually to license their articles, The Guardian reports. In an article announcing the launch, Facebook says it also aims to help publishers expand their audience, potentially benefiting both their subscriber numbers and ad revenue.
+<a href='https://www.theverge.com/2020/12/1/21754847/facebook-news-tab-uk-launch-january-2021-paying-publishers-partner'> Source <a/>
