@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-sOJXLjCq0vSkbYb0qFdXfjTKI0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67946294/dseifert_191123_3810_0005.0.jpg' width='700px' /><br/>
-Smart homes are no longer just for the rich or digital experimenters. Your speakers, locks, lights, security cameras, and kitchen utensils can now be controlled via your phone or other digital device — and there are a lot of products to choose from. Many of which are going for less during this year's Cyber Monday event.
-<a href='https://www.theverge.com/21594526/black-friday-home-tech-deals-speakers-smart-routers-cyber-monday'> Source <a/>
