@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f4NpixH1H9BWi_OK-vkJ3ZXB5H8=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/68058696/microsoftteamscalling.0.jpg' width='700px' /><br/>
+Microsoft is overhauling its calling features inside Microsoft Teams today. A new calling interface will now show contacts, voicemail, and calling history in a single location. It's designed to allow Microsoft Teams to more easily replace your desk phone, with built-in spam call protection, reverse number lookup, and the ability to merge calls.
+<a href='https://www.theverge.com/2020/12/1/21754862/microsoft-teams-calling-update-carplay-onedrive-recording-features'> Source <a/>
