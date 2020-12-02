@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gUa3GWAEKtoHY8gq140hl18e25o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68361488/acastro_180802_1777_0002.0.jpg' width='700px' /><br/>
+Walmart is removing the $35 free shipping minimum on its annual subscription service, Walmart Plus, the company announced on Wednesday. The new policy will take effect on Friday, December 4th, and it means all Walmart Plus members will receive free next-day and two-day shipping on items ordered from Walmart's website, regardless of the size of their order.
+<a href='https://www.theverge.com/2020/12/2/22024753/walmart-plus-35-dollar-free-shipping-minimum-removed-amazon-prime-competition'> Source <a/>

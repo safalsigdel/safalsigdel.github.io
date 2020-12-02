@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-0_Y9mxtkV_7yNUDukOzUhWoh9I=/0x0:2000x1125/1200x800/filters:focal(860x344:1180x664)/cdn.vox-cdn.com/uploads/chorus_image/image/68363015/1_Xfj6pEzUM5Gw3UKUaEw2qQ.0.jpeg' width='700px' /><br/>
+Alphabet's Loon, the team responsible for beaming internet down to Earth from stratospheric helium balloons, has achieved a new milestone: its navigation system is no longer run by human-designed software.
+<a href='https://www.theverge.com/2020/12/2/21811123/alphabet-loon-internet-balloons-ai-machine-learning-pilot'> Source <a/>
