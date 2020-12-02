@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ojgix__d96kop1Q3rWl9KvI4lZo=/0x0:5329x3553/1200x800/filters:focal(2239x1351:3091x2203)/cdn.vox-cdn.com/uploads/chorus_image/image/68085151/1143515118.0.jpg' width='700px' /><br/>
+Pinterest shareholders are suing the company's top executives, including CEO Ben Silbermann, for allegedly enabling a culture of discrimination. The toxic work environment has hurt the company's reputation, leading to a user boycott and financial harm, the complaint alleges.
+<a href='https://www.theverge.com/2020/12/1/21755406/pinterest-shareholders-lawsuit-sue-toxic-work-culture-discrimination'> Source <a/>

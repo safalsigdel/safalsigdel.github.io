@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LLhg3AU1GRP8Qkb0FW6kpKyEhrQ=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68142987/Fortnite_20201201161237.0.jpg' width='700px' /><br/>
+The Marvel-themed season of Fortnite ended with a Galactus-sized bang. As has been teased since the debut of season 4 in August, the game's current season concluded with a live event that pitted Fortnite players against the planet-sized supervillain in a dramatic showdown — and it ended with the game going down, replaced by a timer for the launch of season 5.
+<a href='https://www.theverge.com/2020/12/1/21747893/fortnite-galactus-event-chapter-2-season-5-release-date'> Source <a/>

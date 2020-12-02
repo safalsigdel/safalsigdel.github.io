@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/69tIpNkEfaud8o9V8yOX9sFeYFo=/0x0:900x1278/1200x800/filters:focal(401x210:545x354)/cdn.vox-cdn.com/uploads/chorus_image/image/68098261/Screenshot_20201201_131735_Amazon_Music.0.jpg' width='700px' /><br/>
+Amazon is adding a large vault of music videos to its Amazon Music Unlimited service. Unlike some competitors like YouTube Music, Amazon's videos are only available to paying subscribers, according to Android Police — not listeners on the ad-sponsored free tier. But the selection seems on par with other services.
+<a href='https://www.theverge.com/2020/12/1/21776080/amazon-music-unlimited-videos-now-available'> Source <a/>

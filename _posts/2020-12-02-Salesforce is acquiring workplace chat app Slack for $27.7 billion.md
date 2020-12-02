@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XRJdE7BSVyGjwt-AQMYJ4UzWFuY=/0x0:2040x1360/1200x800/filters:focal(609x562:935x888)/cdn.vox-cdn.com/uploads/chorus_image/image/68137831/akrales_190410_3363_0096.0.jpg' width='700px' /><br/>
+Cloud computing giant Salesforce is acquiring workplace chat app Slack, the two companies announced on Tuesday. The deal, rumblings of which began surfacing last week, marks one of the most consequential acquisitions in the business software industries in recent years and Salesforce's biggest purchase ever.
+<a href='https://www.theverge.com/2020/12/1/21719666/salesforce-slack-acquisition-purchase-announced'> Source <a/>

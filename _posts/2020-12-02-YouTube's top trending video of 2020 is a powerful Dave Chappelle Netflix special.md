@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jUVLJCMO8zbCoBsXFU4DZZspj2I=/0x0:2560x1583/1200x800/filters:focal(1076x588:1484x996)/cdn.vox-cdn.com/uploads/chorus_image/image/68042571/chappelle.0.jpg' width='700px' /><br/>
-YouTube has released its annual top trending videos list of 2020, and the list reflects a year dominated by shifts in behavior brought on by the pandemic, civil unrest, and a heated political environment leading up to the US election.
-<a href='https://www.theverge.com/21755000/youtube-top-trending-videos-2020-dave-chappelle-netflix'> Source <a/>

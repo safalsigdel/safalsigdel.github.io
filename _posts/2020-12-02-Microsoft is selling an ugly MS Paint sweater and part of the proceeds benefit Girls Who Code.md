@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HyUfJiLiuEIfwIC7QGlwu83lzUA=/0x0:711x607/1200x800/filters:focal(337x162:449x274)/cdn.vox-cdn.com/uploads/chorus_image/image/68174382/Screen_Shot_2020_12_01_at_11.02.18_AM.0.png' width='700px' /><br/>
+Microsoft is getting into the holiday spirit a bit early today by offering an MS Paint-themed “ugly” sweater for sale on its online store, with a portion of the proceeds from each sale donated to Girls Who Code. The company made Windows XP and 95 sweaters in the past to give to influencers and super fans, but this marks the first time the company is selling a sweater directly to customers.
+<a href='https://www.theverge.com/2020/12/1/21779499/microsoft-windows-ugly-sweater-paint-xp-95-girls-who-code'> Source <a/>

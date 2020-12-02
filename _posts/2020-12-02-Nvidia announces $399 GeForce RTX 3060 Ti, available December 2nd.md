@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qc5NRtAtsoonr92oEycAEY8zuVg=/0x0:2640x1749/1200x0/filters:focal(0x0:2640x1749):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22129716/twarren_rtx3060_ti_5.jpg' width='700px' /><br/>
-Nvidia has announced its new $399 GeForce RTX 3060 Ti card today. It's the latest addition to the company's RTX 3000 series lineup and the most affordable yet. Nvidia says the RTX 3060 Ti has been designed to outperform both the last-generation RTX 2080 and RTX 2080 Super. On average, Nvidia says it will be 40 percent faster than its predecessor, the RTX 2060 Super.
-<a href='https://www.theverge.com/2020/12/1/21754850/nvidia-geforce-rtx-3060-ti-specs-price-release-date'> Source <a/>
