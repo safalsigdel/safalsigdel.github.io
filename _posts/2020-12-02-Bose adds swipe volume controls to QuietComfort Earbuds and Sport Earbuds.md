@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uxHIIXfEM7T-AvxmK1jN_67LUoI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68050640/IMG_0723-1.0.0.jpeg' width='700px' /><br/>
-One of the few complaints I had in my review of Bose's QuietComfort Earbuds was that they lacked onboard volume controls. Well, a few weeks after they went on sale, the company has now resolved that.
-<a href='https://www.theverge.com/2020/12/1/21755490/bose-quietcomfort-sport-earbuds-volume-control-now-available'> Source <a/>

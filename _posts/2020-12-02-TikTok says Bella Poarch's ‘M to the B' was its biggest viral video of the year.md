@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AI47P2ZGAP863EhUmDR-LdxF0ew=/0x0:1614x1076/1200x800/filters:focal(678x409:936x667)/cdn.vox-cdn.com/uploads/chorus_image/image/68324571/bellapoarch.0.jpg' width='700px' /><br/>
+Bella Poarch's hypnotic video lip-syncing “M to the B” was TikTok's biggest viral video of the year, TikTok announced this morning. Poarch was followed by 420doggface208's instantly iconic skate / cran-raspberry juice video set to Fleetwood Mac's “Dreams.”
+<a href='https://www.theverge.com/2020/12/2/21827432/bella-poarch-tiktok-top-viral-video-2020-420doggface208-jason-derulo-savage-love'> Source <a/>

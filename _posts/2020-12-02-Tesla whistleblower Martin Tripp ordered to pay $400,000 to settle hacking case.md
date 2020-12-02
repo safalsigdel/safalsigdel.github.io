@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QPcHH7TGCn2Bx9MrVu_B8EXQ-aw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68054222/acastro_180524_1777_tesla_0002.0.jpg' width='700px' /><br/>
-Martin Tripp, the former Tesla worker who has been embroiled in a bitter legal battle with CEO Elon Musk for over two years, was ordered to pay his former employer $400,000 after admitting to leaking confidential information to a reporter.
-<a href='https://www.theverge.com/2020/12/1/21755428/tesla-martin-tripp-settlement-whistleblower-hacing-amount'> Source <a/>

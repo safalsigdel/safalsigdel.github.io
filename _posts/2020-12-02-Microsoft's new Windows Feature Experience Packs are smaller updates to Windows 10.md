@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Na9OiSdzFhF4QjGfWwztv8ijd4o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68045025/mswindows1_2040.0.0.jpg' width='700px' /><br/>
-Microsoft has started testing smaller feature updates for Windows 10 in the form of a Windows Feature Experience Pack. The branding appeared inside Windows 10 earlier this year, but Microsoft has only confirmed what the packs will be used for this week. The Windows Feature Experience Pack will be used to “improve certain features and experiences that are now developed independently of the OS,” according to Microsoft.
-<a href='https://www.theverge.com/2020/12/1/21755467/microsoft-windows-feature-experience-pack-features-windows-10'> Source <a/>

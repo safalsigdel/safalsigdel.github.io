@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/stMph9njvJhlNxoQfL7JAucrB4c=/0x0:2040x1360/1200x675/filters:focal(987x638:1313x964)/cdn.vox-cdn.com/uploads/chorus_image/image/68354011/akrales_201110_4271_0023.0.0.jpg' width='700px' /><br/>
+The Acer Aspire 5 is a very functional laptop. I used it as my primary work driver for over a week, including the whirlwind that was Black Friday weekend. It loads the pages I need it to. It handles a heavy share of tabs and apps without burning itself up. It's not seven pounds. Basically, it's a $549 laptop that doesn't completely suck.
+<a href='https://www.theverge.com/21815008/acer-aspire-5-review-2020-15-inch-laptop-specs-features-price'> Source <a/>

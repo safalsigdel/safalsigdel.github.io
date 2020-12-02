@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z9ahgSR4XDXfMcGMZ6hb04T9iRQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68329037/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
+Brevity is the soul of wit — and the heart of TikTok — but the company wants to see if giving people the ability to record longer videos is something its creators want to explore.
+<a href='https://www.theverge.com/2020/12/2/22003880/tiktok-longer-videos-three-minutes-short-quibi-youtube'> Source <a/>
