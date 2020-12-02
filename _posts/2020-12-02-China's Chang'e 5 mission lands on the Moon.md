@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C0cOyccWbrOrkQyIpQ8e3H2oE24=/0x0:5148x3406/1200x800/filters:focal(2163x1292:2985x2114)/cdn.vox-cdn.com/uploads/chorus_image/image/68042986/1229764957.0.jpg' width='700px' /><br/>
-China's Chang'e 5 mission, tasked with bringing a sample of lunar dirt back to Earth, successfully landed on the Moon on Tuesday, marking the third time that China has placed a robotic spacecraft on the lunar surface. The lander will soon begin digging up samples of lunar soil, which will be returned to our planet later this month.
-<a href='https://www.theverge.com/2020/12/1/21724067/china-lunar-mission-change-5-moon-soil-samples'> Source <a/>
