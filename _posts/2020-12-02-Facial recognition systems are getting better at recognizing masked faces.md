@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qeqIx_-31bWpIKCMQe7CFl0-uBY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68042774/acastro_200512_1777_faceMask_0001.0.0.jpg' width='700px' /><br/>
-Facial recognition algorithms are getting better at recognizing faces in masks, according to data published on Tuesday by the National Institute for Standards and Technology (NIST). Drawing on independent testing of more than 150 separate facial recognition algorithms, the new report suggests masks may not be as big a problem for facial recognition systems as initially thought.
-<a href='https://www.theverge.com/2020/12/1/21755021/nist-facial-recognition-mask-error-rate-data-frvt'> Source <a/>
