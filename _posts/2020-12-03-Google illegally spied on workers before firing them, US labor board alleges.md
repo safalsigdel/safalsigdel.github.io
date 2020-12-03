@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qNJ-Sfrxz51Ic9-Tiym5foZnWUU=/0x0:5275x3517/1200x800/filters:focal(2216x1337:3060x2181)/cdn.vox-cdn.com/uploads/chorus_image/image/68381037/1056016666.0.jpg' width='700px' /><br/>
-Google violated US labor laws by spying on workers who were organizing employee protests, then firing two of them, according to a complaint filed by the National Labor Relations Board (NLRB) today.
-<a href='https://www.theverge.com/2020/12/2/22047383/google-spied-workers-before-firing-labor-complaint'> Source <a/>
