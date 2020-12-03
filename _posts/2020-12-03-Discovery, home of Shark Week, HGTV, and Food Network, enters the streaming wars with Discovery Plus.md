@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IJkmlPKGecsXJSSSQ7P3Fjwt6xU=/0x0:1916x958/1200x800/filters:focal(638x171:944x477)/cdn.vox-cdn.com/uploads/chorus_image/image/68366151/Screen_Shot_2020_12_02_at_12.42.40_PM.5.png' width='700px' /><br/>
-Discovery, home to HGTV, Food Network, and Discovery Channel's annual Shark Week, is entering the streaming space with Discovery Plus.
-<a href='https://www.theverge.com/2020/12/2/22018581/discovery-streaming-service-launch-date-price-shark-week-hgtv-food-network'> Source <a/>

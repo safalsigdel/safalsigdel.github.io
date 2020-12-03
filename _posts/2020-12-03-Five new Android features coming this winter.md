@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DZKOdIzBK3ojnWtra7zRjE9AWLc=/0x0:5761x2401/1200x800/filters:focal(2645x747:3565x1667)/cdn.vox-cdn.com/uploads/chorus_image/image/68449460/Android_feature_winter.0.png' width='700px' /><br/>
+Google is rolling out five new Android features in the weeks ahead that enhance Maps navigation, Gboard emoji mashups, Voice Access, Google Play audiobooks, and Nearby Share file sharing. Google is also making Android Auto available in 36 more countries.
+<a href='https://www.theverge.com/2020/12/3/22149861/google-android-new-maps-emoji-gboard-features'> Source <a/>
