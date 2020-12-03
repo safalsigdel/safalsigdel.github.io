@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T5VgxySBzNYgm5710AIWfnHSKzE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68409897/ECRM003_hero_shot__1___1_.0.jpg' width='700px' /><br/>
-Uber's ambitious and quixotic effort to launch a flying taxi service is coming in for a landing. According to Axios, the ride-hailing company has agreed to sell its Uber Elevate division to secretive startup Joby Aviation.
-<a href='https://www.theverge.com/2020/12/2/22086597/uber-sells-flying-taxi-elevate-joby-aviation'> Source <a/>
