@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0esS-FNowBpuDVjq7uvGjkTGAS0=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/68249799/twarren_rtx3060_ti_5.0.jpg' width='700px' /><br/>
-Nvidia's $399 RTX 3060 Ti is available to purchase on Wednesday, December 2nd — and 6am PT / 9am ET is when it'll go on sale, Nvidia confirms to The Verge. Like the RTX 3070, this card is a great option if you are looking to play PC games at a 1440p resolution. Also like the RTX 3070 and every other graphics card released this year, stock will likely not last long at most retailers, so you'll want to be on the dot.
-<a href='https://www.theverge.com/2020/12/1/21768294/nvidia-rtx-3060-ti-when-where-how-to-buy-gpu'> Source <a/>
