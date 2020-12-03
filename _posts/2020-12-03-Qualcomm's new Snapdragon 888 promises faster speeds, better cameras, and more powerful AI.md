@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vIQUplDXHvfNY4jzI_qLXCwIlAs=/0x0:9504x6336/1200x800/filters:focal(3992x2408:5512x3928)/cdn.vox-cdn.com/uploads/chorus_image/image/68344588/Snapdragon_888_Reference_Design.0.jpg' width='700px' /><br/>
-Qualcomm teased the Snapdragon 888, its latest 5G-equipped flagship smartphone processor, on the first day of its Snapdragon Tech Summit. But at the day two keynote, the company provided all of the details on the new chipset, which will be the brains powering almost every major 2021 Android flagship.
-<a href='https://www.theverge.com/2020/12/2/21672519/qualcomm-snapdragon-888-cpu-gpu-details-performance-ai-isp-photography-specs-release-date'> Source <a/>
