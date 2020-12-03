@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r-Vz_Tl3hk1CazrJa7z70md1AMA=/220x0:3554x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68388282/galaxy_buds_pro.0.png' width='700px' /><br/>
-An image of Samsung's upcoming Galaxy Buds Pro true wireless earbuds has leaked, thanks to noted leaker Evan Blass.
-<a href='https://www.theverge.com/2020/12/2/22054757/galaxy-buds-pro-leaked-images-renders-rounded-design-case'> Source <a/>
