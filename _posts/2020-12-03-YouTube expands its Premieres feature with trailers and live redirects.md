@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Joudf8CJJOv6lajuwuA8EaXBEWA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68378908/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
-YouTube is building on its Premieres feature — used for live-streaming pre-recorded videos — by adding support for trailers, redirects from live pre-shows, and customized countdown timers. The company says there's been an 85 percent growth in the daily use of the feature from over 8 million channels, and these additions might make Premieres useful in more scenarios.
-<a href='https://www.theverge.com/tech/2020/12/2/21845726/youtube-google-premieres-trailers-live-redirect-countdown-timers-pandemic-events'> Source <a/>

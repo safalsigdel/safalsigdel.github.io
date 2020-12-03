@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PupdujwjWR_Nsr-nSkux972Itgs=/0x0:2040x1360/1200x800/filters:focal(752x519:1078x845)/cdn.vox-cdn.com/uploads/chorus_image/image/68449604/BoseOpen.0.jpg' width='700px' /><br/>
+It looks like Bose is planning another set of true wireless earbuds to join its QuietComfort and Sport Earbuds. Today, filings for the “Sport Open Earbuds” have appeared at the Federal Communications Commission — with plenty of photos of the unannounced product contained within.
+<a href='https://www.theverge.com/2020/12/3/22150405/bose-sport-open-earbuds-fcc-leak-photos'> Source <a/>
