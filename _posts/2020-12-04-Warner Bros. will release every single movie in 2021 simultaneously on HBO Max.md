@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Dit5wmPm_AanEvtrY8XqrSlEa-c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68450049/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
+WarnerMedia is pushing even more aggressively into streaming by releasing every single movie in 2021 simultaneously on HBO Max.
+<a href='https://www.theverge.com/2020/12/3/22150605/hbo-max-warner-bros-movies-2021-simultaneous-release-matrix-godzilla-suicide-squad-space-jam'> Source <a/>
