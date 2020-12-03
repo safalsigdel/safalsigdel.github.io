@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HfimBLukg0CtR8fw6p-7-P2zgq4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68211047/dbohn_201109_4283_0009.0.0.jpg' width='700px' /><br/>
-Apple's MagSafe Duo charger is now on sale online, after initially having been announced without a release date as part of this year's iPhone launch. The $129 folding accessory includes a magnetic wireless charging puck for the iPhone 12 as well as an Apple Watch charger.
-<a href='https://www.theverge.com/2020/12/1/21883526/apple-magsafe-duo-charger-available-now'> Source <a/>

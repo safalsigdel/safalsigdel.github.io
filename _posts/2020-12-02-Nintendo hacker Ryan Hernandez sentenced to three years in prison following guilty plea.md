@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Twz7J5NfH5MfFies1WAQlcAJxqw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68224127/jbareham_1492_170228_0097.0.0.jpg' width='700px' /><br/>
-Ryan Hernandez, the hacker who pled guilty to stealing information about the Nintendo Switch prior to its release, has been sentenced to three years in prison. The sentencing follows a plea agreement originally proposed in January 2020. In addition to prison time, Hernandez will also be required to pay Nintendo $259,323 in retribution for the stolen information.
-<a href='https://www.theverge.com/2020/12/1/21866716/nintendo-switch-hack-hernandez-sentencing-plea-agreement-gigaleak-security-breach'> Source <a/>

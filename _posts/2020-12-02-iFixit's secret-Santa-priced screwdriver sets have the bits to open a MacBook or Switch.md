@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Following their sea creature naming convention, iFixit has released two new screwdriver kits: the Minnow and the Moray. You probably know iFixit for their teardowns of the latest gadgets, but a number of Verge writers also swear by their screwdriver sets which come with lots of exotic bits to open up electronics yourself. These new sets are their smallest and cheapest yet, with 16 and 32 bits respectively, and both come in under $20.
-<a href='https://www.theverge.com/circuitbreaker/2020/12/1/21870605/ifixit-new-screwdriver-sets-minnow-moray-torx-triwing-pentalobe-hex-repair'> Source <a/>

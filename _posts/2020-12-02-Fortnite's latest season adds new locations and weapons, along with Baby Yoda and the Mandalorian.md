@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eeyyrMkm3dzpbgtZ_5Etof77ovI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68280363/15BR_BPLaunch_Stills_Mando_MOTD_1920x1080.0.jpg' width='700px' /><br/>
-Following a cataclysmic event starring the supervillain Galactus, the latest season of Fortnite is almost here. Chapter 2: Season 5 has been dubbed “zero point,” and it involves hunters from different realities joining forces to fight something called “the loop.” Most importantly: one of those hunters is the Mandalorian, accompanied as always by Baby Yoda (aka Grogu).
-<a href='https://www.theverge.com/2020/12/2/21831926/fortnite-chapter-2-season-5-battle-pass-trailer-mandalorian-baby-yoda'> Source <a/>

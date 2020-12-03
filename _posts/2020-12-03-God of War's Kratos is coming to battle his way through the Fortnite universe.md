@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GUBCZVs8oyNE_KvD1xvaWnLtscg=/0x0:1452x813/1200x800/filters:focal(610x291:842x523)/cdn.vox-cdn.com/uploads/chorus_image/image/68426196/EoQSbyPXEAMV1ze.0.jpeg' width='700px' /><br/>
+Fortnite is no stranger to tie-ins — the battle royale's season 5 battle pass has already kicked off with a picture-perfect Mandalorian and Baby Yoda skin, for example — but its next character appears to be coming not from a popular film or movie franchise, but from a different video game universe: God of War's Kratos.
+<a href='https://www.theverge.com/2020/12/2/22102623/god-of-wars-kratos-fortnite-skin-rumor-leak-playstation-5'> Source <a/>

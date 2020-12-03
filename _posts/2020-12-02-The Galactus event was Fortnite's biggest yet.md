@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/quWV2y-bEC4HlQtX0X5xHERagfg=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68247702/Fortnite_20201201161314.0.jpg' width='700px' /><br/>
-The season-ending live event that just took place in Fortnite was the game's biggest to date, Epic Games has confirmed. The Galactus event, which concluded Fortnite's current Marvel-themed season, had a record 15.3 million concurrent players, the company said in a tweet.
-<a href='https://www.theverge.com/2020/12/1/21921491/fortnite-galactus-live-event-player-count'> Source <a/>

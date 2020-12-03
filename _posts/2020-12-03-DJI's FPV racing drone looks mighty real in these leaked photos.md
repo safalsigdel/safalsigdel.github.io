@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m4o3JdpJJd4yfsleFn1tbckTnzI=/0x0:1440x1080/1200x800/filters:focal(605x425:835x655)/cdn.vox-cdn.com/uploads/chorus_image/image/68410987/dji_fpv_combo_leak.0.jpg' width='700px' /><br/>
+For a brief moment last July, it seemed like drone maker DJI was going to dive straight into drone racing with a speedy FPV (first-person-view) drone of its own. In reality, it merely dipped a toe — but a little over a year later, it looks like the company is nearly ready to announce a racing drone after all.
+<a href='https://www.theverge.com/2020/12/2/22070839/dji-fpv-racing-drone-leak-ositalv-combo'> Source <a/>

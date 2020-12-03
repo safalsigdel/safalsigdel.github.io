@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R5IDR8MYZ_HZqI92pO1R3y2t11o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68446878/bking_200303_3928_0004.0.jpg' width='700px' /><br/>
+Verizon revealed this morning that Samsung's Galaxy S20 lineup will be the first Samsung phones to receive Android 11 and Samsung's One UI 3.0 in the US, and now the software has already started trickling out to customers, according to Droid Life. One UI 3.0 has been in public beta for the last two months, but this marks the official release of the final software.
+<a href='https://www.theverge.com/2020/12/2/22149171/verizon-samsung-galaxy-s20-android-11-one-ui-3-0'> Source <a/>

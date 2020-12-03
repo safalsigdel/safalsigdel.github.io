@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jn0JHYsVv--M4VowRvfma2TcX2g=/0x0:2040x1360/1200x800/filters:focal(866x568:1192x894)/cdn.vox-cdn.com/uploads/chorus_image/image/68446022/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+As part of its $1 billion investment in partnerships with news publishers, Google will start paying for some paywalled content for its News Showcase program. News Showcase, a new addition to Google News that launched in October, displays story panels curated by publishers — but its not available in the US yet.
+<a href='https://www.theverge.com/2020/12/2/22149118/googles-news-showcase-free-paywall-access'> Source <a/>
