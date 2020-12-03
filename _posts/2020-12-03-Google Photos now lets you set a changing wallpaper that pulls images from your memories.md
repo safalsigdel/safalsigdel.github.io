@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FlpCQJ6ZSWLWvkEozsioopbeHB0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68449070/1BEB77B1_EB2C_4E1F_A9C1_1B863908E956.0.jpeg' width='700px' /><br/>
+Android users who are bored of their usual wallpapers are in luck: an update to Google Photos now allows users to set their wallpaper as a random, rotating cast of saved photos.
+<a href='https://www.theverge.com/2020/12/3/22150151/google-photos-wallpaper-update-live-background-memories'> Source <a/>
