@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-3bhx-M_iaZ8TdJzeibWwUoxa5o=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68371118/892773228.0.jpg' width='700px' /><br/>
-On Wednesday, the Senate Commerce Committee voted to advance the nomination of Nathan Simington, a Republican in favor of greater government oversight of speech on the internet, to the Federal Communications Commission. Simington's nomination now awaits a floor vote for final approval.
-<a href='https://www.theverge.com/2020/12/2/22048854/trump-nathan-simington-fcc-ajit-pai-section-230-moderation'> Source <a/>
