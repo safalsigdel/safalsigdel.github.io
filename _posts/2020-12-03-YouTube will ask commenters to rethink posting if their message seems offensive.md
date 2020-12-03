@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZeGEhICmgyM3_6nzAG3ueTRs-_4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68449827/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
+YouTube is trying to combat offensive comments that appear under videos by following in the footsteps of other social media companies and asking people before they post something that may be offensive: “Is this something you really want to share?”
+<a href='https://www.theverge.com/2020/12/3/22150197/youtube-comments-posting-hurtful-hate-videos-discrimination-monetization-search'> Source <a/>
