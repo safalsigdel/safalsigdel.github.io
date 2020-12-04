@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/rA6krNGu5UwVMbiugi8pCTt4grQ=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/68453429/https___hybrismediaprod.blob.core.windows.net_sys_master_phoenix_images_container_hc7_h73_9122164572190_Tomahawk_Gaming_Desktop_1500x1000_20201204_01.0.jpg' width='700px' /><br/>
-Razer has been talking up modular gaming PCs for years. Now, after various concepts, CES reveals, and standard PC cases with associated branding, the company is actually selling pre-built desktop PCs for the first time.
+Razer has been talking up modular gaming PCs with streamlined swappable parts for years. Now, after various concepts, CES reveals, and standard PC cases with associated branding, the company is actually selling a pre-built desktop PC for the first time.
 <a href='https://www.theverge.com/2020/12/4/22151862/razer-tomahawk-modular-desktop-gaming-pc-available-price-specs'> Source <a/>
