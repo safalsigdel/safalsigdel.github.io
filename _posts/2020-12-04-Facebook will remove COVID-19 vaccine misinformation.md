@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KY8LGM3u25ydbjEngebrtIrNwG4=/0x0:6000x3784/1200x800/filters:focal(2520x1412:3480x2372)/cdn.vox-cdn.com/uploads/chorus_image/image/68449885/InLine_01.10.jpg' width='700px' /><br/>
-In an update to their COVID-19 misinformation policy, Facebook will begin removing false claims about COVID-19 vaccines. The update comes as one COVID-19 vaccine has been authorized in the UK and other authorizations are expected to happen soon in the US and around the world. But some experts say these kinds of policies are coming too late to stop the flow of vaccine misinformation.
-<a href='https://www.theverge.com/2020/12/3/22150425/facebook-covid-19-vaccine-coronavirus-misinformation-ban'> Source <a/>
