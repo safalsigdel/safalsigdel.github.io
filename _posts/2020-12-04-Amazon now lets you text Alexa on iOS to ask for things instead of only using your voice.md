@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Op1f9IMQHqzfTUMBOA3AmWa6340=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68449527/acastro_180510_1777_alexa_0003.0.jpg' width='700px' /><br/>
-Amazon is testing a new feature for its iOS Alexa app: the ability to type out Alexa commands, instead of having to ask questions or requests by speaking out loud.
-<a href='https://www.theverge.com/2020/12/3/22149147/amazon-text-with-alexa-ios-public-preview-voice-assistant'> Source <a/>

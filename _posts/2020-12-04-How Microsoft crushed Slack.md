@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KC_2OT216N6mKDR9GUdR22ryfvA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68449685/acastro_190412_1777_slack_0002.0.jpg' width='700px' /><br/>
-Slack's life as an underdog darling of Silicon Valley ended on November 2nd, 2016. That's when the upstart communication startup published an open letter to Microsoft in The New York Times, offering the tech giant an insincere “welcome” to the world of workplace chat software. The occasion was Microsoft's launch of Teams, a Slack clone that would come bundled with the company's popular Office 365 suite of products.
-<a href='https://www.theverge.com/22150313/how-microsoft-crushed-slack-salesforce-acquisition'> Source <a/>

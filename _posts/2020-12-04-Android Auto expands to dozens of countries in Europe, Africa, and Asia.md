@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AC-PhPn3xJCL5NdeEV7IopEzZkM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68449420/akrales_190725_3567_0090.0.jpg' width='700px' /><br/>
-Android Auto, the Google-powered software system for cars, is expanding to dozens of new markets around the world, the company announced. In the coming months, Android Auto will be available in 36 additional countries, including much of Eastern Europe, Southeast Asia, and a handful of countries in Africa.
-<a href='https://www.theverge.com/2020/12/3/22150166/android-auto-expands-countries-europe-africa-asia'> Source <a/>

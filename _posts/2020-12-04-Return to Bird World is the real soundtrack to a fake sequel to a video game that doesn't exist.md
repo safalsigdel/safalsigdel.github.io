@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O8hAn5g6IdHHVadBtUzoPQKgMp8=/0x0:1500x1125/1200x800/filters:focal(645x361:885x601)/cdn.vox-cdn.com/uploads/chorus_image/image/68454845/Return_to_Bird_World_Cover___The_Verge.0.png' width='700px' /><br/>
+In Return to Bird World, players are brought back to the floating kingdom of Bird World thousands of years after the events of the original game to find the once-brilliant island has fallen into ruin. While the darker setting is a departure from the original Bird World, the new game still has one key trait in common: it doesn't actually exist. But its soundtrack does.
+<a href='https://www.theverge.com/22150022/return-to-bird-world-leon-chang-interview-soundtrack-fake-game-sequel'> Source <a/>
