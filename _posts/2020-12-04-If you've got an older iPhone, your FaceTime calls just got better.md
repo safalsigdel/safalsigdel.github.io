@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7IwAbWJYnVUrsCR5nR4Mw4IwOBo=/0x0:2040x1360/1200x800/filters:focal(644x304:970x630)/cdn.vox-cdn.com/uploads/chorus_image/image/68446758/DSCF2931.0.jpg' width='700px' /><br/>
-When Apple released iOS 14.2 last month, it didn't mention that FaceTime calls would now be in 1080p for older iPhones. As MacMagazine notes, Apple has updated the product comparison pages of the iPhones 8, X, XR, XS, SE, and 11 (including the Max and Pro versions) to show that they now support FaceTime at 1080p over Wi-Fi, as opposed to before when they only supported 720p.
-<a href='https://www.theverge.com/2020/12/2/22149428/iphone-facetime-1080p-facetime-hd-iphone8-ios-14-2'> Source <a/>

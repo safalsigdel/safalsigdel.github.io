@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Microsoft has had some memorable holiday commercials over the years, but this year's is the best yet because it features dogs. They aren't just regular dogs, either. These pups dream of running around in a virtual Minecraft world, playing fetch with grenades for Master Chief in Halo, and even flying high in the Microsoft Flight Simulator skies.
-<a href='https://www.theverge.com/2020/12/3/22150065/microsoft-holiday-2020-commercial-dogs-halo-minecraft-flight-simulator'> Source <a/>

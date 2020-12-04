@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ysoHyyKnIGSR2JxWqFZJ_YkhBG0=/0x0:2058x1004/1200x800/filters:focal(865x338:1193x666)/cdn.vox-cdn.com/uploads/chorus_image/image/68444639/Screen_Shot_2020_12_02_at_3.57.31_PM.0.png' width='700px' /><br/>
-Zens has a new set of wireless chargers out called the Zens Modular. They are designed to fix the rigidity of most combination wireless chargers by letting users customize their own bespoke charging setup to suit their needs.
-<a href='https://www.theverge.com/2020/12/2/21764163/zen-modular-wireless-charger-custom-setup-system-qi'> Source <a/>

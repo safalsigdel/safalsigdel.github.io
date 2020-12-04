@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cAHy8awq0u0LEg-j49rplO_yTGA=/0x0:5064x3402/1200x800/filters:focal(2127x1296:2937x2106)/cdn.vox-cdn.com/uploads/chorus_image/image/68451376/1200868249.0.jpg' width='700px' /><br/>
+The Justice Department has filed charges against Facebook for allegedly discriminating against US workers in its hiring practices. The complaint, filed on Thursday, alleges that the company maintained a separate job listing process for visa-eligible job postings, both limiting the visibility of the job listing online and insisting that job seekers submit their applications by mail.
+<a href='https://www.theverge.com/2020/12/3/22150949/facebook-visa-law-justice-department-charged-guest-worker'> Source <a/>

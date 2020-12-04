@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r5D-P4hc9LKNMXq3KgJDvV6UjQA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68445708/dseifert_201020_4247_0003.0.0.jpg' width='700px' /><br/>
-Amazon is updating Alexa to allow it to automatically switch between more languages. The update comes after a flurry of small Alexa additions over the course of November, increasing functionality and making Alexa more useful.
-<a href='https://www.theverge.com/2020/12/2/22088394/amazon-alexa-multilingual-support-italian-german-french-shopping-fire-tv'> Source <a/>

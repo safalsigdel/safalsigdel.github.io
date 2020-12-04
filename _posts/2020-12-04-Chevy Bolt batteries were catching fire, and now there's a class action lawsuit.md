@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b-cD0qFATUHaJt5Cz62-wSrBRME=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/68445864/aliptak_180919_2960_5226.0.jpg' width='700px' /><br/>
-A class action lawsuit was filed against General Motors alleging that the Chevy Bolt's battery is “prone to burst into flames.” The lawsuit comes on the heels of GM announcing that it was recalling 68,000 Bolts over a malfunctioning battery.
-<a href='https://www.theverge.com/2020/12/2/22135764/chevy-bolt-batteries-catching-fire-class-action-lawsuit'> Source <a/>

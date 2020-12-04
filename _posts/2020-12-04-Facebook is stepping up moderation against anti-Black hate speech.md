@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5JoZiM6lfOBw4lNfhUeTyWcbGqc=/0x0:2040x1360/1200x800/filters:focal(837x690:1163x1016)/cdn.vox-cdn.com/uploads/chorus_image/image/68451259/jbareham_180405_1777_facebook_0003.0.jpg' width='700px' /><br/>
+Facebook has started weighting anti-Black hate speech on its platform as higher priority than hate speech directed at white people, men, and Americans in an effort to address the disproportionate effects such speech has on minority groups, the company tells The Verge.
+<a href='https://www.theverge.com/2020/12/3/22150964/facebook-moderation-anti-black-hate-speech-policy-change'> Source <a/>

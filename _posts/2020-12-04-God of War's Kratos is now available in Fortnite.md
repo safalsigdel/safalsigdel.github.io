@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U33xcUMkEGe02-6mMfYvACPfrMU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68452573/fortnite_kratos_outfit_1920x1080_693045884.0.jpg' width='700px' /><br/>
+After a not-so-subtle tease from Sony on Wednesday, God of War protagonist Kratos is now available as a purchasable skin in Fortnite. Although Kratos is a Sony character, he's not exclusive to PS4 or PS5 platforms — you'll be able to buy the Kratos skin on any platform where Fortnite can be played, and players on all platforms will be able to see Kratos in-game, Fortnite-maker Epic Games tells The Verge.
+<a href='https://www.theverge.com/2020/12/3/22151470/fortnite-god-of-war-kratos-skin-now-available'> Source <a/>

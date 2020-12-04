@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q9CealuS2nWjYQ62CwcNvSICpCI=/0x0:820x547/1200x800/filters:focal(345x209:475x339)/cdn.vox-cdn.com/uploads/chorus_image/image/68451719/googlepodcasts_rss_feed.0.jpg' width='700px' /><br/>
+Google Podcasts is finally getting a feature that's already standard across most listening apps: private RSS feed support. The head of product for Google Podcasts, Zack Reneau-Wedeen, made the announcement on Twitter today and shouted out some networks that are especially reliant on private feeds, including Patreon, Slate, Red Circle, and Supercast.
+<a href='https://www.theverge.com/2020/12/3/22151201/google-podcasts-rss-feed-private-upload-support-update'> Source <a/>

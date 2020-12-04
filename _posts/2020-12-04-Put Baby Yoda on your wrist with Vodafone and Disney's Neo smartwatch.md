@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8cCyHNwwm_1M6a4NVIJmpItqCmk=/0x0:1844x460/1200x800/filters:focal(339x75:633x369)/cdn.vox-cdn.com/uploads/chorus_image/image/68427785/Tablet_L_460x1844_TheChild.0.jpg' width='700px' /><br/>
-European mobile carrier Vodafone has partnered with Disney to launch a new wearable for kids called the Neo. Vodafone says the Neo combines its technological capabilities with Disney's entertainment chops to offer a wearable that gives kids a sense of independence while letting parents stay in contact.
-<a href='https://www.theverge.com/2020/12/2/22056770/disney-vodafone-neo-smartwatch-children-yves-behar-star-wars-baby-yoda'> Source <a/>

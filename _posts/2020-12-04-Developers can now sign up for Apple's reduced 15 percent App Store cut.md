@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vMFc2g9SeQZINBlsZpi_NY54c_c=/0x0:6000x4000/1200x800/filters:focal(1858x1102:2818x2062)/cdn.vox-cdn.com/uploads/chorus_image/image/68450370/1228782512.5.jpg' width='700px' /><br/>
+Apple has opened enrollment in its new small business program that will allow eligible app developers to receive 15 percent more from App Store sales, the company announced on Thursday. Apple says “the vast majority of developers on the App Store who sell digital goods and services are eligible” and all developers need to do to qualify is complete the company's enrollment form available online.
+<a href='https://www.theverge.com/2020/12/3/22150629/apple-small-business-program-app-store-reduced-commission-15-percent-developers'> Source <a/>
