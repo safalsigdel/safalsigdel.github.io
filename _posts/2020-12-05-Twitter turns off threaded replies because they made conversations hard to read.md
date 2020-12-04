@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iRKY9Xmq3w8DaYkq9dAmL6nA06w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68449980/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter has been experimenting with threaded replies for some time as a way to potentially make replies easier to read and follow. But the company has decided to end those experiments because of user feedback, it announced on Thursday.
-<a href='https://www.theverge.com/2020/12/3/22150448/twitter-thread-replies-off-update-conversations'> Source <a/>
