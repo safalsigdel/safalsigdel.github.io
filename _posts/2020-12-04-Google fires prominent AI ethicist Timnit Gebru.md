@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SELBai5QmTH7aFLZdlQnCnf8qJU=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/68449917/1028811892.0.jpg' width='700px' /><br/>
-Timnit Gebru, one of Google's top artificial intelligence researchers, says the company abruptly fired her yesterday. The technical co-lead of Google's Ethical Artificial Intelligence Team claims managers were upset about an email she'd sent to colleagues.
-<a href='https://www.theverge.com/2020/12/3/22150355/google-fires-timnit-gebru-facial-recognition-ai-ethicist'> Source <a/>

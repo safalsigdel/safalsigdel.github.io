@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SfS5KoXuK2-gtgTvTa8FFX1_dy8=/0x0:6000x4000/1200x800/filters:focal(3165x1360:4125x2320)/cdn.vox-cdn.com/uploads/chorus_image/image/68457611/1205168026.0.jpg' width='700px' /><br/>
+Sony's upcoming Metal Gear Solid movie adaptation will star Oscar Isaac as protagonist Solid Snake, according to Deadline. You might be familiar with Isaac as Resistance fighter Poe Dameron in the latest Star Wars film trilogy and his upcoming role as Duke Leto Atreides in Dune, and I think he could be a great fit to play Solid Snake.
+<a href='https://www.theverge.com/2020/12/4/22153341/metal-gear-solid-movie-oscar-isaac-solid-snake'> Source <a/>
