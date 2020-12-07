@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qM0W_nDIcGo8bpoRRLdOQZrm_LI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68455428/Verge_Deals_Hero_001.0.jpg' width='700px' /><br/>
-Every day we scour the internet looking for the best deals and sales on the products that we've tested and confirmed. We share those deals with you through our Verge Deals coverage in both daily and weekly roundups. Now you can get those same deals and sales in your inbox every week through our new Verge Deals newsletter.
-<a href='https://www.theverge.com/22123522/verge-deals-newsletter-signup-subscribe'> Source <a/>
