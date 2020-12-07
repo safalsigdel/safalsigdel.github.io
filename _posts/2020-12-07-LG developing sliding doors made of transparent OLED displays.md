@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PXFbmf2UoFqPohaOEfEV54hE0DY=/0x0:2560x1920/1200x800/filters:focal(1076x756:1484x1164)/cdn.vox-cdn.com/uploads/chorus_image/image/68469664/Transparent_OLED_Automatic_Door_03_scaled.0.jpg' width='700px' /><br/>
+LG has partnered with Swedish manufacturer Assa Abloy Entrance Systems to develop automatic sliding doors with built-in transparent OLED displays, the company announced today. The doors will be aimed at businesses, and LG says they'll be able to greet customers, communicate with employees, or show ads.
+<a href='https://www.theverge.com/2020/12/7/22158335/lg-assa-abloy-automatic-sliding-doors-transparent-oled-displays'> Source <a/>
