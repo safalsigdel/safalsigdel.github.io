@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uIh2agyON9hImb2sF-lcrum38sw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68459085/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
+Chrome OS 87 is rolling out now, and it adds a few nice features to help you while browsing the web and when using Bluetooth accessories (via 9to5Google).
+<a href='https://www.theverge.com/2020/12/4/22153816/chrome-os-87-tab-search-bluetooth-battery-levels'> Source <a/>

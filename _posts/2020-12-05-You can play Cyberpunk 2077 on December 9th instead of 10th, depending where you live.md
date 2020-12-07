@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ug2zjVI6OmTKG4pPvhHQ0xphBTw=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/68452757/screen_image_about_768457e5.0.jpg' width='700px' /><br/>
-The highly-anticipated Cyberpunk 2077 is just days away from its December 10th release. But depending on where you live and what platform you're playing on, you might get to play the game a bit earlier than you might have expected given the previous guidance.
-<a href='https://www.theverge.com/2020/12/3/22151420/cyberpunk-2077-december-9th-10th-release-date-unlock-timing-launch'> Source <a/>

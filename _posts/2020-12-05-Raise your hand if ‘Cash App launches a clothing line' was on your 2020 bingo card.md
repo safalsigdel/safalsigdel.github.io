@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-If you've ever used Cash App and thought “wow, I wish I could put this on my body...” we may need to talk about your relationship with apps. But also you're in luck! The payment service announced in a tweet today that it's launching its own apparel line, called (what else) Cash. According to its website, the apparel line will follow the standard streetwear release model of “limited edition drops”.
-<a href='https://www.theverge.com/tldr/2020/12/3/22151590/cash-app-launching-branded-clothing-line'> Source <a/>

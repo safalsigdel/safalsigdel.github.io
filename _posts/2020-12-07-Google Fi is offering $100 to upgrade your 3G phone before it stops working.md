@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ShfI6k4WfOGnHkzR1V_DExMlN1Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68461501/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google Fi will stop activating non-VoLTE phones in January, and encourage customers with older phones to upgrade with a $100 credit provided they purchase a new phone from the Fi store and activate it before December 31st, 9to5Google reports.
+<a href='https://www.theverge.com/2020/12/4/22154364/google-fi-volte-tmobile-upgrade-end-support-clearer-calls'> Source <a/>

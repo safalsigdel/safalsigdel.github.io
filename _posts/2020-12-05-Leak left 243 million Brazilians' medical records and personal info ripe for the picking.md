@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dLJro4ZULrTG-5ZXXS_c5fogF48=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68451506/acastro_170621_1777_0006_v4.0.jpg' width='700px' /><br/>
-The personal information of more than 243 million Brazilians was potentially accessible for at least six months thanks to weakly encoded credentials kept in the source code of the Brazilian Ministry of Health's website (via ZDNet). The security issue was first reported by Brazilian publication Estadxc3xa3o.
-<a href='https://www.theverge.com/2020/12/3/22150973/brazilian-ministry-of-health-leak-medical-records-personal-information'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V3rLJOxBVrY_N4mAzH2unSSekrc=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/68459561/1287973486.0.jpg' width='700px' /><br/>
+President Donald Trump's effort to overturn California's ability to set fuel efficiency rules just lost another automaker. According to Reuters, Nissan said it was joining General Motors in abandoning the group of car companies that were previously supporting Trump's fight with California.
+<a href='https://www.theverge.com/2020/12/4/22154219/nissan-trump-california-car-emission-rules-gm'> Source <a/>

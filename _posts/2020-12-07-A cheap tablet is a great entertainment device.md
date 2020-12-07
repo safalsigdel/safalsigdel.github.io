@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Kk7TwXfZmGvCQkimtHYedHJACVA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68462678/dseifert_201107_4280_0002.0.0.jpg' width='700px' /><br/>
+I'm here to tell you that cheap tablets are good. I'm not here to tell you that they are the future of computing or will replace your laptop for getting work done. But I will tell you they are great entertainment devices.
+<a href='https://www.theverge.com/22150980/samsung-galaxy-tab-a7-tablet-review-price-specs-features'> Source <a/>

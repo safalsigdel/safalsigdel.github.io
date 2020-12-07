@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Dso06mHp-AFnbG9afdmiZGKCXVA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68451811/WristcamRose_woLogo.0.jpg' width='700px' /><br/>
-A strap for an Apple Watch equipped with front- and rear-facing cameras is finally launching after nearly four years in development. The Wristcam has an 8-megapixel camera that can shoot 1080p video and take stills in 4K resolution and a 2-megapixel camera for selfies. The company says you'll also be able to use it as a video walkie-talkie with real-time live-streaming.
-<a href='https://www.theverge.com/2020/12/3/22150955/apple-watch-camera-wristcam-crowdfunding'> Source <a/>

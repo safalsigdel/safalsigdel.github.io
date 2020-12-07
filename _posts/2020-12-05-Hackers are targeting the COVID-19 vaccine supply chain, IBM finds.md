@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5y3U1RA-eQ0_6nfx476LzAKmusg=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/68452341/akrales_160205_0929_A_0016.0.0.png' width='700px' /><br/>
-A global phishing campaign has been targeting organizations associated with the distribution of COVID-19 vaccines since September 2020, IBM security researchers say.
-<a href='https://www.theverge.com/2020/12/3/22151016/hackers-phishing-coronavirus-vaccine-ibm-security'> Source <a/>

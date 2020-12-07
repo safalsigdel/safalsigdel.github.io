@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Looking Glass Factory, a company that designs personal holographic displays, just launched a Kickstarter for its new Looking Glass Portrait, a smaller, more affordable take on its previous light field display. The new Looking Glass can operate as a standalone device, and in a clever move, supports portrait mode photos from smartphones like the iPhone for creating simple holograms.
-<a href='https://www.theverge.com/2020/12/3/22150437/holographic-display-looking-glass-portrait-holograms-interactive-photos-videos'> Source <a/>

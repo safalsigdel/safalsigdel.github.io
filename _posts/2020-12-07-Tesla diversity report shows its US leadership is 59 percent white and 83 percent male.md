@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vfV2AOWaw24J_Jgvenr1squT_ms=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68464003/acastro_180430_1777_tesla_0004.0.jpg' width='700px' /><br/>
+Tesla published its first-ever diversity report on Friday, which shows the automaker's US leadership is 83 percent male, and 59 percent white. The Diversity, Equity and Inclusion Impact report shows that men represent 79 percent of Tesla's workforce, and women 21 percent.
+<a href='https://www.theverge.com/2020/12/5/22155979/tesla-diversity-leadership-report-59-percent-white'> Source <a/>

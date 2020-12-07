@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1OMmyuGE6vMVvKviGclgkevjJMc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68460384/akrales_190913_3628_0277.0.jpg' width='700px' /><br/>
+If your iPhone 11 isn't responding to touches, it might be eligible for a free fix from Apple. The company has launched a replacement program for iPhone 11 displays that stop responding to touches “due to an issue with the display module.” Apple says that “a small percentage of iPhone 11 displays” are affected.
+<a href='https://www.theverge.com/22154507/apple-iphone-11-free-replacement-program-display-touchscreen-touch-module'> Source <a/>
