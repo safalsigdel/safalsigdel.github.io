@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E3JzAcygzFaV9uQmo9WahtVigGQ=/0x0:5002x3333/1200x800/filters:focal(2101x1267:2901x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/68455622/VRG_2021_v02.0.0.jpg' width='700px' /><br/>
-We're at the point in 2020 when we're hearing about everyone's plans for 2021.
-<a href='https://www.theverge.com/2020/12/4/22152458/vergecast-podcast-hbo-max-2021-movies-qualcomm-snapdragon-888-fcc-news'> Source <a/>

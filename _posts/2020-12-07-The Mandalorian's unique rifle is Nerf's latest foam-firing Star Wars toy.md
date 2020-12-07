@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y2GLQg6iujpR7Z8TZXFWQHN2vw0=/0x0:3500x2333/1200x800/filters:focal(1470x887:2030x1447)/cdn.vox-cdn.com/uploads/chorus_image/image/68469533/nerf_mandalorian_pulse_rifle_jpg_004.0.jpg' width='700px' /><br/>
+If you have a 12-year-old, you might want to make sure they're not reading over your shoulder right now  — otherwise you'll be spending some quality time explaining why they're not getting a $120 toy blaster this holiday season. Oh, who am I kidding: I'm having that chat with myself right now.
+<a href='https://www.theverge.com/2020/12/7/22153843/the-mandalorian-rifle-nerf-star-wars-amban-phase-pulse-blaster'> Source <a/>
