@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ILX_y_a5b-wRjlODKEico0YqOys=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/68476816/QuantumScape_Lab.0.jpg' width='700px' /><br/>
+After nearly a decade in operation, QuantumScape, a San Jose-based startup backed by Volkswagen and Bill Gates, is finally breaking its silence. In a virtual “battery day” event for investors, the recently public company announced that its “solid state” batteries for electric vehicles will charge faster, hold more power, and last longer than traditional EV batteries.
+<a href='https://www.theverge.com/2020/12/8/22158573/quantumscape-solid-state-battery-ev-range-charge-vw'> Source <a/>
