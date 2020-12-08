@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/l4sPQTZZnuOQeMaYIGkkQezOJi8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68478585/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
+Starting today, YouTube creators can live-stream their videos in high dynamic range (HDR), the company has announced. The platform has supported HDR in prerecorded content since 2016, but now, live content can also benefit from the technology. YouTube claims it's “the first major platform to support live HDR.”
+<a href='https://www.theverge.com/2020/12/8/22162889/youtube-live-stream-hdr-support'> Source <a/>

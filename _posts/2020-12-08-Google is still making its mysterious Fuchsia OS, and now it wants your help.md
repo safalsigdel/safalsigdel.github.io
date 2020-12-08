@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6eesWukBLRdlinzESeTtPXLj73Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68478582/fuschia.0.png' width='700px' /><br/>
+It's been over four years since we first found out that Google is developing a new operating system called Fuchsia. It's unique because it's not based on a Linux kernel; instead, it uses a microkernel called Zircon. It's also unique because, despite being developed “in the open” on publicly browsable repositories, nobody really understands what the OS is for, and Google executives have been remarkably coy about it all.
+<a href='https://www.theverge.com/2020/12/8/22163225/google-fuchsia-os-call-contributors-mailing-list-governance'> Source <a/>

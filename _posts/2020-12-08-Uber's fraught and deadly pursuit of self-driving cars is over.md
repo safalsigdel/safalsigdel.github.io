@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2vCJFrGvLJ_QLYxM919Zj1v0kSI=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/68472999/__CA9908_Edit.0.jpg' width='700px' /><br/>
-Uber is selling its autonomous vehicle business to Aurora Innovations, a San Francisco-based startup founded by the former head engineer of Google's self-driving car project, the two companies announced Monday.
-<a href='https://www.theverge.com/2020/12/7/22158745/uber-selling-autonomous-vehicle-business-aurora-innovation'> Source <a/>
