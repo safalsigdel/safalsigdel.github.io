@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0tUnrMCGoQxq0gMOoFiIpdcEP_w=/0x0:2040x1148/1200x675/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/68477027/DSC_0688.0.jpg' width='700px' /><br/>
+Five months ago yesterday, I took delivery of a VanMoof X3 e-bike. It's up there as one of the more expensive personal purchases I've ever made, living as I do in Tokyo without any need for a car. But like a lot of other people this year, I felt moved to avoid public transport as the coronavirus pandemic intensified, and VanMoof's latest models came at the right time.
+<a href='https://www.theverge.com/22162936/vanmoof-x3-long-term-review'> Source <a/>

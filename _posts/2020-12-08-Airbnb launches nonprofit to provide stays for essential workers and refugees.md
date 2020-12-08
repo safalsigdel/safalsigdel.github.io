@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fGV3TjxZezSslEC7qLHlAHLmSwU=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/68470696/1229089428.0.jpg' width='700px' /><br/>
-Airbnb is launching a nonprofit to allow the hosts who rent out their properties on its platform to provide free and discounted stays to refugees, people affected by natural disasters, and frontline workers in the coronavirus pandemic. The new organization, called Airbnb.org, is the evolution of Airbnb's Open Homes and Frontline stays programs.
-<a href='https://www.theverge.com/2020/12/7/22158434/airbnb-nonprofit-essential-workers-coronavirus-refugees'> Source <a/>
