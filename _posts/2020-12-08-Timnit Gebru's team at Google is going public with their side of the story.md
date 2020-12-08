@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1BvmQYhRhp8chQKEY9sKguG3c2g=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/68470767/1028811898.0.jpg' width='700px' /><br/>
-Google employees who worked with Timnit Gebru are coming out publicly to dispute claims against the star AI ethics researcher. On Monday, the team published a letter on the Google Walkout Medium account firmly stating that Gebru was fired and did not resign as Google's head of artificial intelligence, Jeff Dean, said. They also said the publication review policy that Gebru was supposed to follow was applied “unevenly and discriminatorily.”
-<a href='https://www.theverge.com/2020/12/7/22158501/timnit-gebru-team-google-public-statement-fired'> Source <a/>
