@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fFZbC1EoOVEkjX68eRiFY0J3YTo=/0x0:2040x1360/1200x800/filters:focal(766x533:1092x859)/cdn.vox-cdn.com/uploads/chorus_image/image/68476650/dseifert_201115_4301_0003.0.0.jpg' width='700px' /><br/>
+Google and Samsung are bringing their smart home platforms together for the first time. Samsung's SmartThings will support Google Nest devices starting in January 2021, building a bridge between one of the industry's leading ecosystems for managing smart devices like cameras and thermostats with one of the leading companies developing those products.
+<a href='https://www.theverge.com/2020/12/8/22159770/samsung-smartthings-google-nest-partnership-support-smart-home-integration'> Source <a/>
