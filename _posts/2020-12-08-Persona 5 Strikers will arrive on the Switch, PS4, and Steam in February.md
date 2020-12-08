@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PbRC8k3ki-BvABjGO_d5sGJJNKQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68477764/kS_hoRvg.0.png' width='700px' /><br/>
+Persona 5 Strikers, an action RPG follow-up to Persona 5, will head to the Nintendo Switch, PlayStation 4, and Steam on February 23rd. The game will be available four days early, on February 19th, for those who preorder the digital deluxe version. Developer Atlus confirmed the news today, just days after its release was leaked via YouTube trailer.
+<a href='https://www.theverge.com/2020/12/8/22153815/persona-5-strikers-release-date-switch-ps4-steam-north-america'> Source <a/>

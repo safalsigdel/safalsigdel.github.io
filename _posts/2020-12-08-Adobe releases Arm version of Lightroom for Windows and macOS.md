@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8onNiOrPMQB-htaVZcbjpUUrueQ=/0x0:660x440/1200x800/filters:focal(278x168:382x272)/cdn.vox-cdn.com/uploads/chorus_image/image/68477320/adobelightroom.0.jpg' width='700px' /><br/>
+Adobe is releasing an Arm version of Lightroom for both macOS and Windows today. The latest version of Lightroom is now native for both Apple M1 systems and Qualcomm-powered Windows 10 devices. It's debuting as a full release, rather than a beta version and Adobe is making it part of the regular Creative Suite installer.
+<a href='https://www.theverge.com/2020/12/8/22162930/adobe-lightroom-arm64-windows-macos-m1'> Source <a/>

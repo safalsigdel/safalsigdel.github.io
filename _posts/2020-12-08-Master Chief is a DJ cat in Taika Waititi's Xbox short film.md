@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Microsoft's marketing tagline for the Xbox Series X and Xbox Series S is “Power Your Dreams,” and the newest Xbox ad, a short film by Thor: Ragnarok director Taika Waititi, takes the tagline to a whole new level.
-<a href='https://www.theverge.com/tldr/2020/12/7/22158941/xbox-series-x-s-ad-master-chief-dj-cat-taika-waititi-short-film'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8TESStlKbaY3-ABN4yvuJ0kOaaE=/0x0:1080x1080/1200x800/filters:focal(452x400:624x572)/cdn.vox-cdn.com/uploads/chorus_image/image/68471158/GTA_Online___12_7_2020___The_Music_Locker___Moodymann.0.jpg' width='700px' /><br/>
-Grand Theft Auto Online is soon getting its own concert venue with the planned opening of The Music Locker, an underground nightclub that will feature real-world DJs in residence. The announcement on Monday means developer Rockstar Games is taking cues from other savvy multiplayer games like Fortnite and Roblox.
-<a href='https://www.theverge.com/2020/12/7/22158800/grand-theft-auto-online-the-music-locker-djs-night-club-perform'> Source <a/>

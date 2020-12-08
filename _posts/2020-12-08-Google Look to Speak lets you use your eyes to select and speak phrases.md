@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GllgFesDiNEcxmQpAJZQQzCWjUQ=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/68477317/google_look_to_speak.0.png' width='700px' /><br/>
+A new experimental application on Android aims to make communication easier for people with speech and motor impairments, Google announced today. The Look to Speak app lets users choose preselected phrases on their phone screen with their eyes. It's available to everyone and is compatible with Android 9.0 and above, including Android One.
+<a href='https://www.theverge.com/2020/12/8/22160011/google-look-to-speak-eye-tracking-android-disability'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bgCxNiUNrIiv0IC2EbQukF4qxgQ=/0x0:1960x1230/1200x800/filters:focal(824x459:1136x771)/cdn.vox-cdn.com/uploads/chorus_image/image/68477296/Apple_fitness_plus_screens_appletv_ipadpro_applewatch_iphone11_09152020.0.jpg' width='700px' /><br/>
+Apple Fitness Plus — the company's new workout program service — is set to launch on December 14th, the company announced today. The subscription service is set to cost $9.99 per month (or $79.99 per year).
+<a href='https://www.theverge.com/2020/12/8/22163126/apple-fitness-plus-launch-date-subscription-service-price'> Source <a/>
