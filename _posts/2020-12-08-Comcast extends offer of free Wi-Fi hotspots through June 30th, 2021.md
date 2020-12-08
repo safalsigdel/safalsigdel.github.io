@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jppCHgQ3rZVHlzsJ2DAVKL9DSTo=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/68473281/comcast.1419979278.0.jpg' width='700px' /><br/>
+Comcast is extending its COVID-19 support programs through June 30th, 2021, including free access to public Wi-Fi hotspots and discounts on internet service plans. The company says this is the third time it has extended its programs during the pandemic.
+<a href='https://www.theverge.com/2020/12/7/22158985/comcast-free-wifi-internet-extension-2021-low-income-students'> Source <a/>

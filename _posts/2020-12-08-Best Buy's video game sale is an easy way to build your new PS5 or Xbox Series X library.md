@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BA3IetEfNOcjLQLorUEWsXJFoPM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68470831/vpavic_4261_20201026_0181.0.jpg' width='700px' /><br/>
+Gaming is an expensive hobby, especially if you recently purchased a new console. If you are looking to buy some new games but don't want to burn a major hole in your pocket, Best Buy's current promotion focuses on next-gen games: if you buy two eligible next-gen titles, you get a third title free of charge.
+<a href='https://www.theverge.com/2020/12/7/22158475/best-buy-next-gen-games-deal-sale-ps5-xbox-series-x-s'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9Uk97fW-o9-PX7Z7hQctCTc6I9A=/0x0:1800x1200/1200x800/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/68468466/paulmayweather.0.jpg' width='700px' /><br/>
-YouTuber Logan Paul has struck a deal to fight former boxing megastar Floyd Mayweather Jr. in a “special exhibition” match on February 20th. The bout will be streamed as a pay-per-view on Fanmio.
-<a href='https://www.theverge.com/2020/12/6/22158034/floyd-mayweather-logan-paul-fight-date-announced'> Source <a/>

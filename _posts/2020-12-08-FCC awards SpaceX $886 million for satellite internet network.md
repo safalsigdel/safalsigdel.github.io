@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YOuwQ61MbFeaNjqupjnCxIEmrMc=/0x0:4200x2800/1200x800/filters:focal(1764x1064:2436x1736)/cdn.vox-cdn.com/uploads/chorus_image/image/68473213/1228923184.0.jpg' width='700px' /><br/>
+The Federal Communications Commission announced $9.2 billion in awards to companies providing broadband internet to rural areas across the US, and Elon Musk's SpaceX was one of the biggest winners. The company will receive $886 million over the next 10 years for its Starlink satellite broadband project, under the Federal Communication Commission's Rural Digital Opportunity Fund.
+<a href='https://www.theverge.com/2020/12/7/22159791/fcc-awards-spacex-886-million-satellite-internet-broadband-rural'> Source <a/>

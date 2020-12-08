@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oGAZqZ9kj_wYdArv_JFM5lZDOL8=/0x0:3648x2432/1200x800/filters:focal(1533x925:2115x1507)/cdn.vox-cdn.com/uploads/chorus_image/image/68464200/1229950115.0.jpg' width='700px' /><br/>
-China's Chang'e-5 mission completed a tricky docking maneuver on Saturday, as it prepares to return the soil samples it collected from the Moon's surface back to Earth.
-<a href='https://www.theverge.com/2020/12/5/22156311/china-change-5-docking-mission-moon-lunar-samples'> Source <a/>

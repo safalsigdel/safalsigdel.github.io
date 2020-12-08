@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n-oSAcnr2rnasfN5AjzvHlvkf4A=/0x0:5333x3591/1200x800/filters:focal(2241x1370:3093x2222)/cdn.vox-cdn.com/uploads/chorus_image/image/68462959/1229892934.0.jpg' width='700px' /><br/>
-Tesla and SpaceX CEO Elon Musk is planning to move from California to Texas, a move that would potentially save him from a huge personal income tax bill, CNBC reported.
-<a href='https://www.theverge.com/2020/12/5/22155743/elon-musk-moving-texas-tesla-spacex-california'> Source <a/>

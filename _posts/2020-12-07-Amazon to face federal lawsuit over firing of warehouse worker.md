@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mHQMvhYZihab3ayPGb-nBTexnZw=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/68458946/1073347704.0.jpg' width='700px' /><br/>
-Amazon's decision to fire warehouse worker Courtney Bowden violated labor laws, according to charges filed by the National Labor Relations Board (NLRB) last month and obtained by BuzzFeed News. Bowden was advocating for better working when the company abruptly let her go.
-<a href='https://www.theverge.com/2020/12/4/22153797/amazon-lawsuit-labor-laws-firing-warehouse-worker-courtney-bowden'> Source <a/>

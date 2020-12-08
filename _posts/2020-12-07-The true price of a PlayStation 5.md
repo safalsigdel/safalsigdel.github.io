@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-w8woJbTYpjwxfMFV0vJlZOs8Co=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68466727/vpavic_4278_20201030_0301.0.jpg' width='700px' /><br/>
-This past week I've been watching eBay, trying to decide if I should sell my PS5. I wouldn't dream of becoming a scalper, but it's getting hard to ignore just how much it's worth. My daughter and I had beaten Astro Bot and Miles Morales, so I thought I'd peek at the resale market. Wow, are they worth a lot!
-<a href='https://www.theverge.com/2020/12/6/22155611/price-ps5-xbox-series-x-nvidia-rtx-3080-3070-3090-3060-amd-rx-6800-xt-scalpers-ebay'> Source <a/>

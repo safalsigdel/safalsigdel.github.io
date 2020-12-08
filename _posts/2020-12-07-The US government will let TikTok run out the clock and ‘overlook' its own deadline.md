@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FW48Dw311K8RXu60y05mofKwahc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68461505/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-The Trump administration won't enforce its own deadline for ByteDance to sell or spin out video-sharing platform TikTok's business in the US, according to Bloomberg.
-<a href='https://www.theverge.com/2020/12/4/22154801/us-government-tiktok-ban-deadline-bytedance-trump-administration-cfius'> Source <a/>

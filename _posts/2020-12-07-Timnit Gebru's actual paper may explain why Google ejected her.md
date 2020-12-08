@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/szhT47IkuNE8sHReVlRpsexaeBQ=/0x0:5760x3840/1200x800/filters:focal(2632x1324:3552x2244)/cdn.vox-cdn.com/uploads/chorus_image/image/68463595/1028811892.0.jpg' width='700px' /><br/>
-A paper co-authored by former Google AI ethicist Timnit Gebru raised some potentially thorny questions for Google about whether AI language models may be too big, and whether tech companies are doing enough to reduce potential risks, according to MIT Technology Review. The paper also questioned the environmental costs and inherent biases in large language models.
-<a href='https://www.theverge.com/2020/12/5/22155985/paper-timnit-gebru-fired-google-large-language-models-search-ai'> Source <a/>

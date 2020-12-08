@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UVPeWrIryuz5lec3xVmzp5D7NrA=/0x0:1024x682/1200x800/filters:focal(431x260:593x422)/cdn.vox-cdn.com/uploads/chorus_image/image/68469119/Gridserve_BT_EF_12_11_5_1024x682.0.jpg' width='700px' /><br/>
-The UK's first all-electric car charging station opened today near Braintree in Essex, marking a milestone in the country's transition away from fossil fuel-powered vehicles. The station is operated by Gridserve, and is the first of more than 100 locations it plans to build over the next five years.
-<a href='https://www.theverge.com/2020/12/7/22158234/uk-electric-car-charging-station-first-essex-renewable-energy-gridserve'> Source <a/>
