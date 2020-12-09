@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Irovjv6LjBKAafz7i1QA9Tgp_Ik=/0x0:1071x602/1200x800/filters:focal(451x216:621x386)/cdn.vox-cdn.com/uploads/chorus_image/image/68482622/kNmhDjg.0.png' width='700px' /><br/>
+The 2020 holiday shopping season has been defined by how difficult it is to purchase consoles like the PS5 and GPUs like the GeForce RTX 3090, prompting some people to use other, less legal methods to get both products. Bots account for some of the consoles up for resale, but theft is apparently another source.
+<a href='https://www.theverge.com/2020/12/8/22164020/thieves-ps5-rtx-3090-out-of-stock-reselling'> Source <a/>
