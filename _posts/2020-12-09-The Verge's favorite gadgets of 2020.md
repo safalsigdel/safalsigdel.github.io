@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n00hZmoAjGRvZZKfc7X1brMsW5o=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21699406/cwelch_200804_4129_0003.0.jpg' width='700px' /><br/>
+We covered nearly a hundred products on our YouTube channel in 2020 and countless more here on the site. But while we return all our review units, there are some products we get sad about having to send back — so sad, in fact, that we end up buying them for ourselves (or at least have wishful thoughts about buying them) because we simply can't live without them.
+<a href='https://www.theverge.com/22163820/best-gadgets-2020-tech-samsung-apple-ps5-iphone'> Source <a/>
