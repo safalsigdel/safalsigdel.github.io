@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yEdI56PCmWGHo9dMoa58nSI1M84=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68481073/Netflix_Kids_Activity_Report_3_phonesmockup.0.png' width='700px' /><br/>
+Netflix is rolling out a new tool for parents to better understand and monitor what their kids are watching. Called the Kids Activity Report, as seen in the image above, the new breakdown includes data on what type of programming kids are spending the most time watching, who their favorite character is, and recommendations for new shows based on their interests.
+<a href='https://www.theverge.com/2020/12/8/22163863/netflix-family-profile-kids-activity-report-data-movies-tv-shows-individual'> Source <a/>

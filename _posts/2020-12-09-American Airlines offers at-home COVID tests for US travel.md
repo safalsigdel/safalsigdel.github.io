@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rvwHNUiYuPCGAwot1fH6E4DFIYs=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/68481483/1229909022.0.jpg' width='700px' /><br/>
+American Airlines is about to start offering at-home COVID-19 tests to domestic fliers in order to help them meet various state travel restriction requirements, the company announced Tuesday. The airline is partnering with direct-to-consumer home testing company LetsGetChecked, which will sell the tests for $129 on top of the cost of travel.
+<a href='https://www.theverge.com/2020/12/8/22164032/american-airlines-home-covid-19-tests-domestic-flights-cost'> Source <a/>

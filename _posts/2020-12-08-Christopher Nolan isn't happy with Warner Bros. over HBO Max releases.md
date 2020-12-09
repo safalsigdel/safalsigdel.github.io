@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/536wOuUt0Vk04pztXvspOGvfqQE=/0x0:5616x3744/1200x800/filters:focal(1949x1402:2847x2300)/cdn.vox-cdn.com/uploads/chorus_image/image/68476850/1268224692.0.jpg' width='700px' /><br/>
-Director Christopher Nolan has fiercely criticized Warner Bros.' surprise decision to release its 2021 lineup of films simultaneously on HBO Max, which he called “the worst streaming service.”
-<a href='https://www.theverge.com/2020/12/8/22162918/christopher-nolan-tenet-hbo-max-warner-bros-streaming-service-cinematic-releases'> Source <a/>

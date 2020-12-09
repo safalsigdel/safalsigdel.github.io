@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7j8nAJEoHzzPHOsR-R1EVtOcpWc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68480777/vpavic_4261_20201023_0068.0.jpg' width='700px' /><br/>
+The PlayStation 5 and Xbox Series X / S have been out for a few weeks now. And while we've been loving next-gen titles like Astro's Playroom and Spider-Man: Miles Morales, many Verge staffers have been marveling at something unexpected: older games on newer consoles.
+<a href='https://www.theverge.com/22163921/ps5-playstation-5-xbox-series-x-old-games-next-gen-consoles'> Source <a/>

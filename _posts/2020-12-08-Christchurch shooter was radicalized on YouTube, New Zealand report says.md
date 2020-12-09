@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pDQCBDpo4wOf2vllQT5MPujL-30=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68476359/VRG_ILLO_3808_001.0.0.jpg' width='700px' /><br/>
-The Australian white supremacist who killed 51 people at two mosques in Christchurch, New Zealand was radicalized by YouTube, according to a 792-page report on the March 2019 shooting.
-<a href='https://www.theverge.com/2020/12/8/22162779/christchurch-shooter-youtube-mosque-radicalized'> Source <a/>

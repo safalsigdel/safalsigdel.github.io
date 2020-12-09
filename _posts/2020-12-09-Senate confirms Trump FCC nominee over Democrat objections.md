@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JYBBL6wKOCNu8zxIH3LagAHIcFI=/0x0:3843x2562/1200x800/filters:focal(1615x974:2229x1588)/cdn.vox-cdn.com/uploads/chorus_image/image/68480748/891675448.0.jpg' width='700px' /><br/>
+On Tuesday, the Senate voted to confirm the controversial nomination of Republican Nathan Simington to the Federal Communications Commission, despite pleas from Democrats and advocacy groups to hold off on a vote until next year.
+<a href='https://www.theverge.com/2020/12/8/22163800/senate-trump-fcc-nominee-confirmed-nathan-simington-section-230-ajit-pai'> Source <a/>

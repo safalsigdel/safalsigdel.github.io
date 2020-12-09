@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e5U6eRn_-ID3MKxzy13221qMZQw=/0x0:5000x3327/1200x800/filters:focal(2100x1264:2900x2064)/cdn.vox-cdn.com/uploads/chorus_image/image/68473747/1229760024.0.jpg' width='700px' /><br/>
-A text-messaging program to monitor any side effects from the COVID-19 vaccine may be open to manipulation, The Washington Post reports. Experts worry that the newly-developed system focuses more on ease of use than security.
-<a href='https://www.theverge.com/2020/12/7/22160066/covid-vaccine-safety-monitoring-security-texting-survey'> Source <a/>

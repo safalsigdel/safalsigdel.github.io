@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lmbgtiEb4_w1qcOiI6Pr_blPz9A=/0x0:8256x5504/1200x800/filters:focal(3468x2092:4788x3412)/cdn.vox-cdn.com/uploads/chorus_image/image/68473476/Razer_Blade_15_Base_Model___GTX_1660_Ti__Late_2020__Setup.0.png' width='700px' /><br/>
-Razer's Blade 15 is one of the best 15-inch gaming laptops. It's far from a budget purchase, but Razer has released the most affordable model you can buy.
-<a href='https://www.theverge.com/2020/12/7/22159873/razer-blade-15-advanced-gaming-laptop-pc-preorder-price-specs'> Source <a/>

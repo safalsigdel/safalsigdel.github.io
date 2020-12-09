@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Vm3KXcuJbbedqFNWYkCSEogRkm0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68474800/acastro_200713_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-A federal judge has granted a preliminary injunction that should keep the US Commerce Department from banning transactions with TikTok.
-<a href='https://www.theverge.com/2020/12/7/22160239/tiktok-ban-judge-trump-administration-us-commerce-department'> Source <a/>

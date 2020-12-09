@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0HOmBH-TrrU39hUraPtkCSvVI4M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68479054/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
+Today, Facebook Gaming announces a new initiative targeted specifically at Black streamers on the platform: the Black Gaming Creator Program. The company says it plans to invest $5 million a year over the next two years to support the Black gaming creator community.
+<a href='https://www.theverge.com/2020/12/8/22158677/facebook-gaming-black-gaming-creator-program'> Source <a/>

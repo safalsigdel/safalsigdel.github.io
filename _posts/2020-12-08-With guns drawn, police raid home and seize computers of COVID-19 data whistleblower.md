@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3Vi6KCc6WQmgMjM-QcNb2-hDcFo=/0x0:2208x1472/1200x800/filters:focal(1013x684:1365x1036)/cdn.vox-cdn.com/uploads/chorus_image/image/68474010/Rebekah_Jones_Photo.0.jpg' width='700px' /><br/>
-Eight months ago, Deborah Birx of the White House Coronavirus Task Force praised Florida's COVID-19 dashboard as an example of “the kind of knowledge and power we need to put into the hands of the American people.” That dashboard was built by Rebekah Jones.
-<a href='https://www.theverge.com/2020/12/7/22160181/rebekah-jones-raid-seizure-search-warrant-covid-19-whistleblower-florida'> Source <a/>

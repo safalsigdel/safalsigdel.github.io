@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WvW7mlU52UEy-gazfA0pYy9ssxI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68481109/jbareham_171013_2050_0159.0.jpg' width='700px' /><br/>
+After three years of support, the Pixel 2 has received its last update from Google: a delayed November security patch going out to the devices this month, as noted by Android Central. Google's device support schedule indicates that the Pixel 2 and Pixel 2 XL aren't guaranteed security updates after October 2020.
+<a href='https://www.theverge.com/2020/12/8/22164027/google-pixel-2-final-update-security-patch-november-2020'> Source <a/>

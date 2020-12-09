@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M1NNx4vvDqTDdTJdQFltxdkEPbA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68481594/hi_multiplayer_map_2_1920x1080_4b85484a2b294c07951bec8b636d2270.0.jpg' width='700px' /><br/>
+Halo Infinite, the next game in Microsoft's iconic franchise, will officially launch in fall 2021, developer 343 Industries announced in a blog post on Tuesday.
+<a href='https://www.theverge.com/2020/12/8/22164440/halo-infinite-launch-date-fall-2021'> Source <a/>

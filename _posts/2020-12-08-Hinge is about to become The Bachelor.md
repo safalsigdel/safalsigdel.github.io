@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7rzVA6VW4tVSYJNq-Xdoa7HurgQ=/0x0:2923x1949/1200x800/filters:focal(1229x742:1695x1208)/cdn.vox-cdn.com/uploads/chorus_image/image/68477046/hingestandouts.0.jpg' width='700px' /><br/>
-Hinge's newest feature takes a cue from The Bachelor. In a new tab called Standouts, daters can preview potential matches' responses to the dating app's prompts and give anyone they're interested in a “rose.” Users only receive one free rose per week, which refreshes on Sundays, so they'll have to buy more to give them out.
-<a href='https://www.theverge.com/2020/12/8/22129794/hinge-standouts-roses-subscription-update-match-group'> Source <a/>

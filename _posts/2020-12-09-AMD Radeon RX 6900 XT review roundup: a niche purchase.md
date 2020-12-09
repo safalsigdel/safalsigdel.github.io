@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/840qaNTUA2rbN_0QBZnsLRsgJU0=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/68479888/twarren_201116_4300_0008.0.0.jpg' width='700px' /><br/>
+AMD has released the newest member of its Radeon RX 6000 series: the Radeon RX 6900 XT. The card is based on the same Navi 21 silicon as the rest of the RX 6000 series so far and is being billed as the fastest Radeon card yet. According to reviews, it's a step up from previous generations when it comes to performance, but not worth its $1,000 price tag for most consumers.
+<a href='https://www.theverge.com/22163537/amd-radeon-rx-6900-xt-review-roundup'> Source <a/>

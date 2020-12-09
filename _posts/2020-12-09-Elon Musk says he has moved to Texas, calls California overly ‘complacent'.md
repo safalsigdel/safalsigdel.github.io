@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4H38ojTyJNAzQnP3YWsyenB5skM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68479980/elon_musk_tesla_3036.0.jpg' width='700px' /><br/>
+Tesla CEO Elon Musk has joined one-fifth of Americans who have done a “pandemic move.” After spending most of his life in California, Musk has relocated to Texas.
+<a href='https://www.theverge.com/2020/12/8/22163805/elon-musk-texas-moved-california-tesla-spacex'> Source <a/>
