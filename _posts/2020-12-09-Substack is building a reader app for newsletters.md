@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LXEr-wz9uADludoFa3c8VwJ2F38=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68477467/EMAILS_2020.0.jpg' width='700px' /><br/>
-Substack, the hot subscription newsletter startup, is building a reader app to help people manage all of their newsletters in a single place.
-<a href='https://www.theverge.com/2020/12/8/22162587/substack-reader-app-newsletter-chris-best-interview'> Source <a/>
