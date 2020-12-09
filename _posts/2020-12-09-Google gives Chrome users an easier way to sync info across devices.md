@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kLa0NxL5X-V-meVEeKsYHHJz-X8=/0x0:912x608/1200x800/filters:focal(384x232:528x376)/cdn.vox-cdn.com/uploads/chorus_image/image/68483209/Image_01.0.jpg' width='700px' /><br/>
+Google is making it easier for Chrome users to sync their passwords and payment information across devices, the company has announced in a blog post. The new features will roll out “over the coming weeks and months,” Google says.
+<a href='https://www.theverge.com/2020/12/9/22165081/google-chrome-sync-account-passwords-payment-information'> Source <a/>
