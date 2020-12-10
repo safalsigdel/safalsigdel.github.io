@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YR5kT4VMo3jb4W852NpzkrpzT4U=/0x0:2480x1402/1200x800/filters:focal(1042x503:1438x899)/cdn.vox-cdn.com/uploads/chorus_image/image/68479648/Screen_Shot_2020_12_08_at_1.43.35_PM.0.png' width='700px' /><br/>
-Logitech has quietly revealed a new Circle View Wired Doorbell camera today, which is notably the first consumer smart doorbell to support Apple's recent HomeKit Secure Video standard. The new doorbell is available from both Apple and Logitech's websites for $199.99.
-<a href='https://www.theverge.com/2020/12/8/22163585/logitech-circle-view-wired-doorbell-homekit-secure-video'> Source <a/>

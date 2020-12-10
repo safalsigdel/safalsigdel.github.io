@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RajmmuW-tmmTn1S_BIhuddqQ72o=/0x0:850x478/1200x0/filters:focal(0x0:850x478):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22154911/minecraft_with_rtx_out_now_colosseum_rtx_001_on_850px.jpg' width='700px' /><br/>
-Minecraft's blocky aesthetic was massively spruced up with the introduction of ray tracing enabled by Nvidia's RTX graphics cards earlier this year. And now, that feature is coming out of beta, and path-traced ray tracing is available to all Windows 10 Minecraft players with the GPUs that support it, Nvidia announced in a blog post on Tuesday.
-<a href='https://www.theverge.com/2020/12/8/22163539/minecraft-rtx-ray-tracing-windows-released'> Source <a/>

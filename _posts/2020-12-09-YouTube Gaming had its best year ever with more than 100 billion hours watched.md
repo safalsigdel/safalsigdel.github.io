@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m8QAGyTrQ6fu8PrCyhCLN562lzc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68479752/acastro_180202_1777_0002.0.jpg' width='700px' /><br/>
-Gaming remains one of the most dominant pillars of online entertainment, and nowhere is that more apparent than in YouTube's 2020 statistics. According to YouTube Gaming head Ryan Wyatt, users of the video-sharing site watched 100 billion hours of gaming content on the platform this past year, double the number of hours watched in 2018. The company also published a blog post on Tuesday with a more in-depth rundown of 2020.
-<a href='https://www.theverge.com/2020/12/8/22163728/youtube-viewers-100-billion-hours-gaming-videos-2020'> Source <a/>

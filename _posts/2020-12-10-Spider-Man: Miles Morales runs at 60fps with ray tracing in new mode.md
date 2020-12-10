@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T7rfI_5m8AFv4UIDAW07lVJKmyw=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/68485096/MilesMorales_PS5_Standoff_Legal_scaled.0.jpg' width='700px' /><br/>
+At launch, Spider-Man: Miles Morales on PlayStation 5 was able to run at 60fps in Performance mode or at 30fps but with ray tracing in Fidelity mode, meaning that you'd have to pick between buttery-smooth frame rates or higher graphical fidelity while playing through the game. Thanks to a new mode added in an update, though, you can now run the game at 60fps and with ray tracing turned on.
+<a href='https://www.theverge.com/2020/12/9/22165569/spider-man-miles-morales-60fps-raytracing-new-mode-performance-rt'> Source <a/>

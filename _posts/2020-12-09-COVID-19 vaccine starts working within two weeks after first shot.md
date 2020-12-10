@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GpZJDQ66XW74CITnmqAZzBzAkTI=/0x0:3500x2333/1200x800/filters:focal(1470x887:2030x1447)/cdn.vox-cdn.com/uploads/chorus_image/image/68478297/1230010917.0.jpg' width='700px' /><br/>
-The Pfizer and BioNTech COVID-19 vaccine is safe, effective, and starts working within about two weeks of the first dose, according to documents published by the Food and Drug Administration today.
-<a href='https://www.theverge.com/2020/12/8/22163146/covid-vaccine-fda-review-safe-effective-time-pfizer-biontech'> Source <a/>

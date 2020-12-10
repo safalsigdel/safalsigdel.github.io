@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DXvkXaqL6F3OJJqqlHPbJtgWygY=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/68486475/1147600084.jpg.0.jpg' width='700px' /><br/>
+Google CEO Sundar Pichai addressed the controversial departure of AI ethics researcher Timnit Gebru in an email to staff on Wednesday. “We need to accept responsibility for the fact that a prominent Black, female leader with immense talent left Google unhappily,” he wrote. News of the email was first published by Axios.
+<a href='https://www.theverge.com/2020/12/9/22165983/google-ceo-sundar-pichai-apology-timnit-gebru-exit'> Source <a/>

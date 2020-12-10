@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/otxtKQEQW8dxDaln11Z7oyt8ZTA=/0x0:709x450/1200x800/filters:focal(299x169:411x281)/cdn.vox-cdn.com/uploads/chorus_image/image/68488394/apple-factory.0.0.png' width='700px' /><br/>
+Apple has been complicit in its suppliers' violations of Chinese labor laws, according to a report from The Information. Suppliers have periodically filled their factories with temporary workers or “dispatch labor,” violating a Chinese labor law requiring no more than 10 percent of a factory's workers be temporary employees.
+<a href='https://www.theverge.com/2020/12/9/22166286/apple-china-labor-violations-temporary-workers'> Source <a/>

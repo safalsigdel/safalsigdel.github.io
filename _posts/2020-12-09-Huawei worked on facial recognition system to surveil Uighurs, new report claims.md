@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R8MJ1rBRnR_PK9Nq3RVKNpMP6rI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68479688/acastro_190521_1777_huawei_0001.0.0.jpg' width='700px' /><br/>
-Huawei worked on a facial recognition system to monitor and track China's Uighur minority, according to a new report from video surveillance researchers at IPVM.
-<a href='https://www.theverge.com/2020/12/8/22163499/huawei-uighur-surveillance-facial-recognition-megvii-uyghur'> Source <a/>

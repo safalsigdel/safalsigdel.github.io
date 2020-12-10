@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Samsung's next flagship phones the Galaxy S21, S21 Plus, and S21 Ultra are widely expected to arrive this January (alongside some new buds), but we haven't had a true glimpse at them yet. That may be changing today, as Android Police has just published three brief teaser videos that it says come directly from Samsung, and line up perfectly with the OnLeaks renders we first saw in October.
-<a href='https://www.theverge.com/circuitbreaker/2020/12/8/22163632/samsung-galaxy-s21-plus-ultra-5g-teaser-video-leak'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZfWbYssymJRIr13L2CIRST4mTTo=/0x0:740x741/1200x800/filters:focal(311x312:429x430)/cdn.vox-cdn.com/uploads/chorus_image/image/68480931/pornhub-billboard-1-sq.0.0.jpg' width='700px' /><br/>
-Pornhub has made significant changes to its content policies after a New York Times report detailed the damage done by nonconsensual videos posted to the platform, often involving underage girls.
-<a href='https://www.theverge.com/2020/12/8/22164031/pornhub-upload-limit-blocked-download-nyt-kristof-child-abuse'> Source <a/>

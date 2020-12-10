@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aSNfwO-FRMoTsSyM2NWF4X5gFqE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68486027/acastro_180406_1777_facebook_Congress_0001.0.jpg' width='700px' /><br/>
+0On Wednesday, New York Attorney General Letitia James announced a massive antitrust lawsuit against Facebook, claiming the social media giant has harmed competition by buying up smaller companies like Instagram and WhatsApp to squash the threat they posed to its business. Forty-seven other state and regional attorneys general are joining the suit.
+<a href='https://www.theverge.com/2020/12/9/22158483/facebook-antitrust-lawsuit-anti-competition-behavior-attorneys-general'> Source <a/>
