@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y_PXDdUvAke-Xqh0A1ZsJYmNUaw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68491768/acastro_170726_1777_0010.0.jpg' width='700px' /><br/>
+Twitter is making it even easier to spread your tweets far and wide to every social media platform imaginable. Starting today on iOS (support is coming “soon” for Android), you'll be able to add tweets into a snap as a sticker. Before, if you wanted to share a tweet on Snapchat, you would have to take a screenshot of it and share that, without having access to any of Snapchat's camera or editing features.
+<a href='https://www.theverge.com/2020/12/10/22166657/twitter-share-tweets-snapchat-snap-ios-feature-launch'> Source <a/>
