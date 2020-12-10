@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lzpRZJF0_2AfgCHhiptezvapA8I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68486286/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-Apple has clarified that its mandatory app privacy “nutrition labels” program will apply to all apps, whether they're from third-party developers or Apple's own. It's an apparent response to criticism from WhatsApp earlier today that the program unfairly favored Apple's services.
-<a href='https://www.theverge.com/2020/12/9/22165959/apple-privacy-nutrition-labels-all-apps-preinstalled-messages-web'> Source <a/>
