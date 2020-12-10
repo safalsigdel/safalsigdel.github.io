@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/7I0Yd2thJOS9ImFDE9qOee_7Bvg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68484172/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
 On Wednesday, YouTube announced that it will begin removing any content alleging widespread voter fraud influenced the outcome of the 2020 US presidential election.
-<a href='https://www.theverge.com/2020/12/9/22165355/youtube-biden-election-victory-misinformation-rules-remove-content-oan'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/7I0Yd2thJOS9ImFDE9qOee_7Bvg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68484172/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
-On Wednesday, YouTube announced that it will begin removing any content alleging widespread voter fraud influenced the outcome of the 2020 US presidential election.
 <a href='https://www.theverge.com/2020/12/9/22165355/youtube-biden-election-victory-misinformation-rules-remove-content-oan'> Source <a/>
