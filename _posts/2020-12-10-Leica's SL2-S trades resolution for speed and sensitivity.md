@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4V5zMgzAPPnaWAVk_2DaskJcmu8=/0x0:6000x4004/1200x800/filters:focal(2520x1522:3480x2482)/cdn.vox-cdn.com/uploads/chorus_image/image/68489970/SL2_S_Ambients_CL_7_rgb.0.jpg' width='700px' /><br/>
+Leica is expanding its line of full-frame interchangeable lens mirrorless cameras with the new SL2-S. As its name implies, the SL2-S is a variation of the SL2 that came out last year and it shares many features and similarities with that camera. But that S tagged on to the end means it is something different, and it might as well stand for speed.
+<a href='https://www.theverge.com/2020/12/10/22166283/leica-sl2-s-camera-mirrorless-price-specs-features'> Source <a/>

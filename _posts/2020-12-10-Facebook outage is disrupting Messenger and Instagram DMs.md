@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SttovigEAVDy9gI01e2I1ZwamvA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68489978/acastro_200305_1777_messenger_0002.0.0.jpg' width='700px' /><br/>
+You might run into trouble messaging someone on Facebook or Instagram today. A service outage seems to have taken down Facebook Messenger and Instagram DMs for many users, with new messages failing to send and old messages failing to load.
+<a href='https://www.theverge.com/2020/12/10/22167328/facebook-messenger-down-instagram-dms-outage'> Source <a/>
