@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uUFJ0PLujYjsInDOYn6yi7jqXyk=/0x0:6016x3384/1200x800/filters:focal(2932x451:3894x1413)/cdn.vox-cdn.com/uploads/chorus_image/image/68492382/hyper_scape_2.0.jpg' width='700px' /><br/>
-Ubisoft is willing to give you a $10 coupon if you play its battle royale game, Hyper Scape on PC anytime between now and December 17th at 11AM ET. It's a great deal if you've been eyeing some of Ubisoft's new games like Assassin's Creed Valhalla or Immortals Fenyx Rising.
-<a href='https://www.theverge.com/2020/12/10/22167975/ubisoft-hyper-scape-coupon-battle-royale-pc'> Source <a/>
