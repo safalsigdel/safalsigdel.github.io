@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JgUsWIe1U2g9y9yuFUM4g-86kjU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68497546/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
+Twitter has acquired Squad, an app that lets you hang out with your friends via video chat and screen-sharing, the company announced on Friday.
+<a href='https://www.theverge.com/2020/12/11/22169773/twitter-acquires-squad-screen-sharing-video-chat'> Source <a/>
