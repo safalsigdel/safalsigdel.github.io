@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J6NdTsxPDZFkjKfrCaajHhu5mRM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68490633/acastro_180406_1777_facebook_Congress_0003.0.0.jpg' width='700px' /><br/>
-After writing about the potential breakup of Facebook for years, it's somewhat surreal for me to see the prospect actually arrive. But it's here: the Federal Trade Commission voted 3-2 to sue Facebook for illegally maintaining a monopoly in social networking, arguing it has used acquisitions and harsh restrictions on third-party developers to prevent competitors from ever gaining a foothold.
-<a href='https://www.theverge.com/2020/12/10/22166978/facebook-ftc-antitrust-instagram-whatsapp-tiktok'> Source <a/>

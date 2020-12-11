@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5S-aeDpIPFYBBgXSm7vB7J9TfgQ=/0x0:600x445/1200x800/filters:focal(252x175:348x271)/cdn.vox-cdn.com/uploads/chorus_image/image/68487032/adobe-flash-logo.0.jpg' width='700px' /><br/>
-Adobe has released the final scheduled update to its Flash Player plugin, weeks before Flash's official retirement. As noted on Adobe's site, yesterday marked the last update for Flash outside mainland China, which has a separate version of the software. Adobe will stop supporting Flash on December 31st, 2020, and it will block Flash content from running on January 12th, 2021.
-<a href='https://www.theverge.com/2020/12/9/22166160/adobe-last-flash-player-update-support-ending-december'> Source <a/>

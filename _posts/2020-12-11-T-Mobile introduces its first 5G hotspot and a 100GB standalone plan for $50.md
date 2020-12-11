@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BCqxxs77G8zbHdw3TCZt0f3cw0s=/0x0:1832x1222/1200x800/filters:focal(770x465:1062x757)/cdn.vox-cdn.com/uploads/chorus_image/image/68492517/Moretti_generic_top_006.5.jpg' width='700px' /><br/>
+T-Mobile might look as thought it's late to the game by unveiling its first 5G hotspot today, along with a variety of 5G standalone hotspot plans. After all, Verizon and AT&T have offered 5G hotspots for a while now (although they began with significantly limited coverage). But T-Mobile's particular blend of wide 5G coverage and better-than-LTE speeds means the device should be more accessible to more people.
+<a href='https://www.theverge.com/2020/12/10/22167745/tmobile-5g-hotspot-100gb-standalone-plan'> Source <a/>

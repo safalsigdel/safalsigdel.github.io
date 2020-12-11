@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LwPHFZyNMuaFgxhKwRWEvv3eSZc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68490997/akrales_200904_4160_0010.0.0.jpg' width='700px' /><br/>
-Germany's competition watchdog is investigating Facebook for tying its social app to its Oculus virtual reality headsets. Today, the Bundeskartellamt or Federal Cartel Office (FCO) announced a probe of the increasingly close link between Facebook and Oculus, arguing that it could hurt competition in both VR and social networking.
-<a href='https://www.theverge.com/2020/12/10/22167509/germany-fco-investigation-facebook-oculus-account-requirements-competition'> Source <a/>

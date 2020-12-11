@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZJ6pxaKS0mZ9YZi-kZdVs8uf9f4=/0x0:1894x899/1200x800/filters:focal(796x299:1098x601)/cdn.vox-cdn.com/uploads/chorus_image/image/68493739/headspace_netflic.0.jpg' width='700px' /><br/>
+Meditation apps and streaming services have been booming of late, with people locked down and stressed out during the coronavirus pandemic, so the next logical step was for meditation apps to launch streaming shows. Calm launched A World of Calm on HBO Max in October, and Headspace has just announced a three-series deal with Netflix that kicks off next month with the Headspace Guide to Meditation.
+<a href='https://www.theverge.com/2020/12/10/22168395/headspace-netflix-show-meditation-stress-release-date'> Source <a/>

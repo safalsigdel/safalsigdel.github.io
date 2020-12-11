@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/435JUtlHWPyxE8RIeYMtGHflwY0=/0x0:911x675/1200x800/filters:focal(384x241:576x433)/cdn.vox-cdn.com/uploads/chorus_image/image/68493292/Family_Settings_App_Hero_Img_12_9_updated.0.jpg' width='700px' /><br/>
+Microsoft is adding new screen time and game purchasing controls to its Xbox Family Settings app in anticipation of a gaming-filled holiday at home. Microsoft originally launched the app in preview during the summer, and it released the final version in September. But the company is now adding in more features so parents can better manage their children's playtime on the go.
+<a href='https://www.theverge.com/2020/12/10/22168136/microsoft-xbox-parental-controls-pause-screen-time-purchase'> Source <a/>

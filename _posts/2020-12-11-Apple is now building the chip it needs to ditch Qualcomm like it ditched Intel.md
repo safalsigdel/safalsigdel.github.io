@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Eh05FVS4fryZrpd798amJ7E33H8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68494406/acastro_170731_1777_0005_v4.0.jpg' width='700px' /><br/>
+This fall, Apple changed how we thought about laptops overnight. It replaced the Intel processors in its MacBook Air, 13-inch MacBook Pro and Mac Mini with its own homegrown ARM chips instead — and though we were initially skeptical about Apple's silicon transition, the final product blew us away.
+<a href='https://www.theverge.com/2020/12/10/22168779/apple-leak-cellular-modem-johny-srouji-town-hall'> Source <a/>

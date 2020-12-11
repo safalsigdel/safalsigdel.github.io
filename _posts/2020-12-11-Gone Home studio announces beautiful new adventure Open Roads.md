@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EzmIH21p3enlAsp_lKJQcIpOC0I=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68494310/ss_57688d298819db176942e277c80c69f158b82297.0.jpg' width='700px' /><br/>
+Fullbright, the studio behind the defining narrative game Gone Home, has announced its next project: a road trip adventure called Open Roads. The new game stars Keri Russell and Kaitlyn Dever as a mother and daughter traversing a desolate landscape, and the studio says it features “a unique and engaging interactive dialogue system” between the characters.
+<a href='https://www.theverge.com/2020/12/10/22167445/fullbright-open-roads-the-game-awards-keri-russell'> Source <a/>

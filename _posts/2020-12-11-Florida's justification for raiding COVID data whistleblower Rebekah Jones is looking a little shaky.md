@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YaGX5gqCm54rA8jb7d2cxjk0fv8=/0x0:400x225/1200x800/filters:focal(168x81:232x145)/cdn.vox-cdn.com/uploads/chorus_image/image/68487688/emfGgCL9.0.jpg' width='700px' /><br/>
-On Tuesday, Florida state police entered the home of Rebekah Jones with guns drawn, seizing her computer and phone, in an attempt to prove that she'd sent an unauthorized “group text” through “a Department of Health messaging system” that is “to be used for emergencies only,” according to authorities.
-<a href='https://www.theverge.com/2020/12/9/22166012/florida-raid-rebekah-jones-covid-19-data-dashboard'> Source <a/>

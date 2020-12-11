@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qHkHUJ2YYePPLDt9wqLwdMpbJTc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68492693/wjoel_180413_1777_android_003.0.jpg' width='700px' /><br/>
+SMS messages have stopped working for some Android users, and it appears Google is rolling back some changes to help fix the issue.
+<a href='https://www.theverge.com/2020/12/10/22168099/google-android-sms-text-issues-carrier-services'> Source <a/>

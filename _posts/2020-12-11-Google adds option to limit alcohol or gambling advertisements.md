@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dGnmO4vHZ5nCDggcZP0l3IUEk2Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68493145/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google has announced today that it's rolling out the ability for users to limit how many alcohol and gambling ads they're shown (via Search Engine Land). This should be a welcome feature for users who may be sensitive to seeing alcohol use or gambling, or are looking to avoid those topics.
+<a href='https://www.theverge.com/2020/12/10/22168280/google-ad-policy-gambling-alcohol-ban-limit-monetization'> Source <a/>

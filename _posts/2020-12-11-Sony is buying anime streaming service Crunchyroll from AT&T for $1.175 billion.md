@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SGngb-hUmuMhL5I2JhBjImGXjJI=/0x0:954x607/1200x800/filters:focal(401x228:553x380)/cdn.vox-cdn.com/uploads/chorus_image/image/68488043/crunchyroll_logo.0.jpg' width='700px' /><br/>
-Sony will be buying anime streaming service Crunchyroll from AT&T for $1.175 billion, Sony and AT&T announced Wednesday. Specifically, Crunchyroll will become part of Sony's Funimation, which already licenses many popular shows such as Attack on Titan, Fullmetal Alchemist, and One Piece.
-<a href='https://www.theverge.com/2020/12/9/22166585/sony-buy-anime-streaming-service-crunchyroll-at-t-funimation'> Source <a/>

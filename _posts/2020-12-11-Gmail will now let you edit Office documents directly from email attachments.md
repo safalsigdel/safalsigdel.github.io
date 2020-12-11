@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xo19HgFstSY4ctGJrdYtmcC0HMA=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/68491189/newgmaillogo.0.jpg' width='700px' /><br/>
-Google is making it even easier to work with Microsoft Office files, with the company now allowing users to directly edit attached Office files in Gmail, much like it already allows with Google Docs or Sheets files.
-<a href='https://www.theverge.com/2020/12/10/22167325/gmail-edit-microsoft-office-documents-google-workplace'> Source <a/>

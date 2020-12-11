@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DRrpVwTH05zQTIKZ8N_wrjQB-EE=/0x0:1000x1000/1200x675/filters:focal(453x502:613x662)/cdn.vox-cdn.com/uploads/chorus_image/image/68489889/npatel_201209_4332_0019sq.0.0.jpg' width='700px' /><br/>
-I've been playing with Apple's new $549 AirPods Max over-ear headphones since yesterday afternoon, and so far they sound very nice and fit very comfortably.
-<a href='https://www.theverge.com/2020/12/10/22166888/apple-airpods-max-design-comfort-price-features'> Source <a/>

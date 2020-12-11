@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mhQ-cYxgZgDkbYv_V0yGbuIC7JE=/0x0:5741x3827/1200x800/filters:focal(2412x1455:3330x2373)/cdn.vox-cdn.com/uploads/chorus_image/image/68493779/1227710766.0.jpg' width='700px' /><br/>
+An independent committee of experts recommended Thursday that the Food and Drug Administration authorize the Pfizer and BioNTech COVID-19 vaccine for people over the age of 16. Now, the FDA will decide whether to follow that recommendation. The agency could announce a decision within days. If they do authorize the vaccine, health care workers could begin receiving the shots almost immediately.
+<a href='https://www.theverge.com/2020/12/10/22168565/covid-19-vaccine-independent-committee-recommends-authorization'> Source <a/>

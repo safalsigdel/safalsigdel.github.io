@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kHe7X2whdTIL904m6mdUX8hL2mU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68492815/acastro_20200818_1777_epicApple_0004.0.0.jpg' width='700px' /><br/>
+A new lawsuit from the creator of jailbroken iOS app store Cydia claims Apple used anti-competitive tactics that froze out Cydia and other would-be rivals when it created its App Store.
+<a href='https://www.theverge.com/2020/12/10/22167964/cydia-sues-apple-monopoly-anticompetitive-iphone'> Source <a/>
