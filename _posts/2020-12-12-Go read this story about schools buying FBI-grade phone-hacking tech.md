@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/irfJclbNqQaDIVshzZCSk4VojHw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68499217/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
+If you were worried about sending your kids back to school after the pandemic ends (or if you are a kid worrying about going back to school), I'm afraid this Gizmodo article is not going to help. Tom McKay and Dhruv Mehrotra have done a fantastic job reporting about how some US school districts are buying tools designed to break into phones to download texts and photosxe2x80xa6 even ones that have been deleted.
+<a href='https://www.theverge.com/2020/12/11/22170292/gizmodo-schools-fbi-grade-phone-hacking-surveillance-tech'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fB7Y9Mvvo1we6njsbo0YL5rzApA=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68493085/Cyberpunk_2077_screen_5.0.jpg' width='700px' /><br/>
-CD Projekt Red's (CDPR) highly anticipated new roleplaying game Cyberpunk 2077 is having a bit of a rough release, and now you can add potential copyright issues while streaming to its list of launch-day hiccups. The developer says until it has a fix ready, any potential Twitch streamers should turn off all in-game music to avoid any strikes on their channel.
-<a href='https://www.theverge.com/2020/12/10/22168295/cyberpunk-2077-twitch-dmca-copyright-strike-music-turn-off-bug'> Source <a/>

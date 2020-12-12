@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Pmu1hB9jlhvCCQsTGXr2SpMbzSE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68493554/acastro_190411_1777_Disney_Streaming_0002.0.0.jpg' width='700px' /><br/>
-Disney has announced that it will bring a lot of original content directly to its Disney Plus streaming service over the next few years. The company is bringing “roughly” 10 Marvel series; 10 Star Wars series; 15 Disney live-action, Disney Animation, and Pixar series; and 15 all-new Disney live-action, Disney Animation, and Pixar features to Disney Plus.
-<a href='https://www.theverge.com/2020/12/10/22168471/disney-plus-marvel-star-wars-animation-pixar-features-films-series'> Source <a/>

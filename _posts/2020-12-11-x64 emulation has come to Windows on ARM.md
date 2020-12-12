@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qdyB-xd-7ILhd3LwQu1cAxAUuP8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68493907/vpavic_191101_3747_0024.0.jpg' width='700px' /><br/>
-Microsoft is finally releasing x64 emulation on Windows for ARM to testers today, after announcing that the feature was coming back in September. The feature, available to Windows Insiders in the Dev Channel, will allow users to run 64-bit apps that haven't yet been compiled for their ARM-powered devices.
-<a href='https://www.theverge.com/2020/12/10/22168542/x64-emulation-windows-on-arm-surface-pro-x'> Source <a/>

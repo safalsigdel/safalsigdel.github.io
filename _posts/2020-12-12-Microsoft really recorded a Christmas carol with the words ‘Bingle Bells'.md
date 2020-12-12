@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Microsoft tweeted a fake commercial for a pretend holiday album called Microsoft Holiday Hits, a not-real, four-CD album that claims it features “60 festive favorites.” I want to reiterate that this is not a real album — but the company actually went to the effort to record tidbits of Microsoft-themed versions of classic Christmas carols anyway for the lols. I dearly love puns, dad humor, and terrible jokes, but even I groaned at some of what Microsoft did here.
+<a href='https://www.theverge.com/tldr/22170391/microsoft-christmas-holiday-carol-album-bingle-bells-ad'> Source <a/>

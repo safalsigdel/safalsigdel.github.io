@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KX8Km5_O5Ib7b--Eed6lmV5NKRI=/0x0:1908x796/1200x800/filters:focal(406x176:710x480)/cdn.vox-cdn.com/uploads/chorus_image/image/68493979/Screen_Shot_2020_12_10_at_6.15.41_PM.0.png' width='700px' /><br/>
-Star Wars: Andor, Disney's new Disney Plus show starring Diego Luna as Cassian Andor from Rogue One, is launching in 2022, Disney announced at its investor day today. Production began two weeks ago in London, Lucasfilm's Kathleen Kennedy said during the presentation.
-<a href='https://www.theverge.com/2020/12/10/22168641/star-wars-andor-cassian-disney-plus-2022-diego-luna'> Source <a/>

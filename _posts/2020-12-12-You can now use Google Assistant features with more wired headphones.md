@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rHets6x-0nbNgdJEjrxYoA2IB8U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68499544/google-pixel-phone-8793.0.0.jpg' width='700px' /><br/>
+While many new wireless headphones and earbuds are already equipped with support for virtual assistants, Google has extended that convenience to more users of wired headphones. As 9to5Google points out, it's now possible to quickly access Google Assistant features on an Android phone using 3.5mm and USB-C headphones that were previously unsupported.
+<a href='https://www.theverge.com/2020/12/11/22170015/google-assistant-android-wired-headphones-support'> Source <a/>

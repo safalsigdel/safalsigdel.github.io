@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dyiNZU4joLkbWBEc72zKpLh_8r8=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/68494076/roguesquadron.10.png' width='700px' /><br/>
-Wonder Woman 1984 director Patty Jenkins will take on the next main Star Wars movie, Rogue Squadron. The film is slated to be released in December 2023.
-<a href='https://www.theverge.com/2020/12/10/22168682/patty-jenkins-star-wars-movie-rogue-sqaudrons-wonder-woman'> Source <a/>

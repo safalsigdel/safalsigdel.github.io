@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/okyjFNnH3_ke5MSbkxz6eodapWg=/0x0:1200x602/1200x800/filters:focal(427x45:619x237)/cdn.vox-cdn.com/uploads/chorus_image/image/68493584/atlanta.0.jpg' width='700px' /><br/>
-Star, Disney's international answer to Hulu, will roll out in certain European countries, Canada, and New Zealand beginning on February 23rd, the company announced today.
-<a href='https://www.theverge.com/2020/12/10/22165950/disney-star-streaming-service-hotstar-international-movies-tv'> Source <a/>
