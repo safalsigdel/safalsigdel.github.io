@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NgDgLDWW7pV_GXeksF2vIgU3WOw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68505063/acastro_180524_1777_tesla_0001.0.jpg' width='700px' /><br/>
+Tesla will shut down production for its Model S and Model X for 18 days beginning December 24th according to an internal memo, CNBC reported. Why and what the company will do with the two lines during the shutdown wasn't immediately clear, but workers on those production lines will apparently get a week's pay, some paid holidays, and will have opportunities to work on other teams within the company.
+<a href='https://www.theverge.com/2020/12/13/22172375/tesla-suspend-production-model-s-model-x-18-days-elon-musk'> Source <a/>

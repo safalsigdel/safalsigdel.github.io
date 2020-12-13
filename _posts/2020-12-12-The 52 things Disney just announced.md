@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1RMkEKbg7i02aBAwm5INxgiA_QM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68494654/acastro_190411_1777_Disney_Streaming_0003.0.0.jpg' width='700px' /><br/>
-Disney just made a deluge of announcements at its 2020 Investor Day, including updates on new Marvel, Star Wars, and Disney Animation studios projects, as well as updates on Disney Plus and Disney's other streaming services.
-<a href='https://www.theverge.com/2020/12/10/22167976/disney-investor-day-2020-biggest-announcements-plus-marvel-star-wars-pixar-animation'> Source <a/>
