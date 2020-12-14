@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3-y2FHSuYqGmbTW-6JYF4jo70G8=/0x0:592x566/1200x800/filters:focal(249x236:343x330)/cdn.vox-cdn.com/uploads/chorus_image/image/68494788/Screen_Shot_2017_11_14_at_14.42.19.0.png' width='700px' /><br/>
-The Federal Trade Commission announced it would sue to block Proctor & Gamble's purchase of razor and body care company Billie on December 8th, citing P&G's existing dominance in the wet razor market. Billie originally launched in 2017 but has grown since, likely prompting P&G's interest and the FTC's concern.
-<a href='https://www.theverge.com/2020/12/10/22168691/ftc-blocks-billie-proctor-gamble-acquistion'> Source <a/>

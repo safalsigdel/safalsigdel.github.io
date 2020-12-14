@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0n0EW9hjXrzLO99FaCzQFHKRa5s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68494670/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
-Denis Villeneuve's Dune is going to be coming to HBO Max on the same date as its theater release, and the director is not happy. He's written an article for Variety blasting Warner Brothers and AT&T, saying that the the move to release movies on streaming on the same day as in theaters is “a desperate attempt to grab the audience's attention.”
-<a href='https://www.theverge.com/2020/12/10/22168881/denis-villeneuve-christopher-nolan-anger-hbo-max-streaming-att'> Source <a/>

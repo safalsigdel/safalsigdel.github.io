@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DcJgQcO6-qwPjxfNkt1GHHIeakY=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68494817/TGA2020_PosterPack1_PosterB_HD.0.jpg' width='700px' /><br/>
-There weren't any bombshells on the scale of last year's Xbox Series X reveal, but the 2020 edition of The Game Awards was still packed with news and trailers. There were game reveals like Perfect Dark and Open Roads, more characters for Fortnite and Super Smash Bros., and a lot more. If you missed the show, or just need a refresher, here are the biggest moments.
-<a href='https://www.theverge.com/2020/12/10/22166109/the-game-awards-2020-announcements-trailers-fortnite-smash-bros-among-us-mass-effect'> Source <a/>
