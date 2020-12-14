@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-We interrupt your anticipation of new Marvel content to bring you news that if you photograph a squirrel juuuuust right, you can make it look like the woodland creature has just pulled off one hell of a superhero landing. People have known about the phenomenon for a little while (the first reference we could find online appears to be this Reddit post from July 2019), but frankly, we don't think it's had the attention it deserves.
-<a href='https://www.theverge.com/tldr/22169346/squirrels-superhero-pose-photos'> Source <a/>

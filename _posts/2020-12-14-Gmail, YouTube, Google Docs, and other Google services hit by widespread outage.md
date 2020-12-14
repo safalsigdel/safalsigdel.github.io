@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w-DWiLH-QQn2Op0kYIaMObzbCQ0=/0x0:1486x882/1200x800/filters:focal(625x323:861x559)/cdn.vox-cdn.com/uploads/chorus_image/image/68508541/image.0.png' width='700px' /><br/>
+Multiple Google services and websites including YouTube, Gmail, Google Assistant, and Google Docs have been hit with a widespread outage. DownDetector indicates that the outage, which appears to be affecting Google's business and personal services, started at around 6:40AM ET in the case of Gmail.
+<a href='https://www.theverge.com/2020/12/14/22173803/gmail-youtube-google-assistant-docs-down-outage'> Source <a/>
