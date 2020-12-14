@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/APlDY8KZzkvTGbIbtc4P0e4fPRs=/0x0:3840x2500/1200x800/filters:focal(1613x943:2227x1557)/cdn.vox-cdn.com/uploads/chorus_image/image/68509940/Halo_App_and_Halo_Band.0.jpg' width='700px' /><br/>
+If you want to give someone the gift of a 3D model of their body fat, you're in luck. Just in time for the holidays, Amazon is making its new Halo fitness tracker widely available.
+<a href='https://www.theverge.com/2020/12/14/22174145/amazon-halo-fitness-tracker-voice-buy'> Source <a/>
