@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tanDLZLX8GRV76D4Qo9-CkHmF8U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68498064/acastro_190204_1777_privacy_0002.0.jpg' width='700px' /><br/>
-You may have never heard of the company X-Mode Social, but its code may be in some of the apps on your phone, tracking and selling your location data. Now, Google and Apple are trying to put a stop to it. According to a Wall Street Journal article, the tech companies have told developers to remove X-Mode's code from their apps, or risk getting them pulled from their respective app stores.
-<a href='https://www.theverge.com/2020/12/11/22169905/google-apple-removing-location-tracking-data-sale-government-advertisers'> Source <a/>
