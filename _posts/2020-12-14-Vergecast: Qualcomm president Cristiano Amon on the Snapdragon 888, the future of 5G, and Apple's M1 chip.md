@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YfVtLZCKhX_Yp3K4JtP-G7r6Cjk=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68497372/Snapdragon_888_Mockup.0.png' width='700px' /><br/>
-At first we thought this was going to be a slow news week. Now, it's Friday and we have published two Vergecast episodes back-to-back to cover everything you need to know in the world of tech.
-<a href='https://www.theverge.com/2020/12/11/22169567/vergecast-podcast-433-interview-qualcomm-snapdragon-888-airpods-max-ftc-facebook'> Source <a/>

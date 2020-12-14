@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NGXC6Ytdob0pApU1TRtdikFXF3I=/0x0:6000x3716/1200x675/filters:focal(2520x1378:3480x2338)/cdn.vox-cdn.com/uploads/chorus_image/image/68496796/1290167857.0.jpg' width='700px' /><br/>
-California rolled out a COVID-19 contact tracing app this week, and officials — including Apple CEO Tim Cook — touted it as an advancement that would help slow their ongoing surge in cases. Using the app will be easy. Measuring whether the app can deliver will be harder.
-<a href='https://www.theverge.com/22168473/coronavirus-contact-tracing-apps-exposure-notification-covid-google-apple'> Source <a/>

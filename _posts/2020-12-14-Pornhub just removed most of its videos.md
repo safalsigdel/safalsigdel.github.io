@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D2TGvGkQZ70GtPrkHBOBrWC6_Ew=/0x0:740x741/1200x800/filters:focal(280x321:398x439)/cdn.vox-cdn.com/uploads/chorus_image/image/68508943/pornhub-billboard-1-sq.0.0.1438872408.0.jpg' width='700px' /><br/>
+Pornhub is removing all videos uploaded to its site by unverified users, millions of videos in total, as part of a crackdown on user-uploaded content after two major payment processors suspended service. The decision, first reported by Motherboard, stems from a New York Times report that found the site was hosting videos of people who are underage and videos showing children being assaulted.
+<a href='https://www.theverge.com/2020/12/14/22173858/pornhub-videos-removed-user-uploaded-visa-mastercard-verified'> Source <a/>
