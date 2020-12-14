@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mG5QIWTLXRlKq7LfjuAtMdm2afI=/0x0:2040x1360/1200x800/filters:focal(646x377:972x703)/cdn.vox-cdn.com/uploads/chorus_image/image/68498189/akrales_201018_4238_0435.0.0.jpg' width='700px' /><br/>
-If you've noticed that you're receiving SMS texts and iMessages from people but aren't getting any notifications about them, you're not alone. Far from it. I'm one of many people experiencing an annoying bug where messages come through fine — but without any pop-up notification or even the usual red badge to indicate that there's a new message waiting to be read.
-<a href='https://www.theverge.com/2020/12/11/22169881/apple-iphone-ios-14-text-messages-no-notifications-bug'> Source <a/>
