@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I8WgWczfh-LkypLHTGW-AKokoc4=/0x0:1200x900/1200x800/filters:focal(504x354:696x546)/cdn.vox-cdn.com/uploads/chorus_image/image/68511066/TikTok_PR_w_2_1.0.png' width='700px' /><br/>
-TikTok is launching an app on Samsung smart TVs in Europe, allowing users to scroll through their For You feeds and see other TikTok videos, the companies announced Monday. The TikTok TV app is available in Samsung's app store and is compatible with 2018 and newer models. It will come preinstalled on all new Samsung TVs. The app will roll out to users in the UK first.
-<a href='https://www.theverge.com/2020/12/14/22174064/tiktok-tv-app-samsung-uk-fire-amazon'> Source <a/>
