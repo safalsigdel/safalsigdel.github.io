@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aIIK1u1ApDczCdh-MqVWb0cOmGw=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68509999/VRG_ILLO_4320_001.0.jpg' width='700px' /><br/>
-It doesn't feel right to praise much of anything in 2020, but here goes: the gadgets were good. In a year when many of us have been more dependent than ever on our screens to stay connected, do our jobs, and just stay sane, the technology behind them has been better than ever.
-<a href='https://www.theverge.com/22169708/gadgets-2020-laptops-apple-gaming-ps5-graphics-card'> Source <a/>

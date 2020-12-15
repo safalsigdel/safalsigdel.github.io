@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/APAYoHbBoUskr5-d-6CwcsA4ZxE=/0x0:768x542/1200x800/filters:focal(323x210:445x332)/cdn.vox-cdn.com/uploads/chorus_image/image/68512380/Screen_Shot_2020_12_14_at_10.00.57_AM_1.0.jpg' width='700px' /><br/>
+Facebook has publicly launched Collab, an experimental music-making app that first launched as an invite-only beta back in May, TechCrunch reports.
+<a href='https://www.theverge.com/2020/12/14/22174882/facebook-collab-app-store-release-date-price'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nQx99lW5ZNfNpBymHB29e9hiKjk=/0x0:1200x764/1200x800/filters:focal(530x262:722x454)/cdn.vox-cdn.com/uploads/chorus_image/image/68512081/AlexaLiveTranslation.0.jpg' width='700px' /><br/>
+Alexa is gaining the ability to do live translations between English and Spanish, German, French, Hindi, Italian, and Brazilian Portuguese with a new update Amazon announced today. The update joins Alexa's expanded multilingual skills that were added in November to make the assistant a more capable non-English speaker and translator on devices in the US.
+<a href='https://www.theverge.com/2020/12/14/22174561/amazon-alexa-live-translation-google-assitant-interpreter-mode'> Source <a/>

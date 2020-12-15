@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9gH7i9-Ikb7AjhZEN_jNeXx8bas=/0x0:2050x1367/1200x675/filters:focal(855x1039:1183x1367)/cdn.vox-cdn.com/uploads/chorus_image/image/68509100/VRG_ILLO_4334_001.0.jpg' width='700px' /><br/>
-When Time selects its annual Person of the Year, it's not necessarily an endorsement of the recipient's actions or beliefs. Instead, it's more of an acknowledgement of the person's outsized impact on the world in that calendar year. The Verge doesn't normally give out a “gadget of the year” award, but it's pretty obvious what 2020's would be if we went by Time's criteria.
-<a href='https://www.theverge.com/22173744/webcam-gadget-of-the-year-2020'> Source <a/>

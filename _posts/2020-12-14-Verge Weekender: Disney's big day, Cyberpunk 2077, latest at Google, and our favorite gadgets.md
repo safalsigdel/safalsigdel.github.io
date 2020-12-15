@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rag2F9WD7wasdXgcfY5snc3AVsY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68502314/acastro_190228_1777_vpn_0002.0.jpg' width='700px' /><br/>
-Happy Saturday and welcome to the inaugural edition of the Verge Weekender, a short recap of some of the stories we covered this week on The Verge.
-<a href='https://www.theverge.com/2020/12/12/22169555/verge-weekender-disney-cyberpunk-2077-google-gadgets-spacex-vaccine-airpods'> Source <a/>

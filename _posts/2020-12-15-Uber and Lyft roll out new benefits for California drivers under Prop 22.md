@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/szDv1tabGdiLKcQRJk6Us98mBvw=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/68512027/1227939563.jpg.0.jpg' width='700px' /><br/>
+Following their victory last month in California on the Prop 22 ballot measure, Uber and Lyft have unveiled the new “benefits” for California drivers on their platforms, including guaranteed minimum earnings and stipends for health care.
+<a href='https://www.theverge.com/2020/12/14/22174600/uber-lyft-new-benefits-california-drivers-prop-22-gig-economy'> Source <a/>

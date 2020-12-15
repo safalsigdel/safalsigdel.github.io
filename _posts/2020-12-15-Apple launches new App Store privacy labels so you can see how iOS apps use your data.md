@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TkVkFpVPO85zFh-pIa-NjnyDiUQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68510742/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
+Apple is making good on its promise to provide more transparency around iOS app data collection with the launch of new privacy labels on the App Store.
+<a href='https://www.theverge.com/2020/12/14/22174017/apple-app-store-new-privacy-labels-ios-apps-public'> Source <a/>

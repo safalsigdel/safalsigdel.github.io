@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_MI6JDv94BZ6tsU5rEu23ubupn8=/0x0:4600x3067/1200x800/filters:focal(1697x1817:2433x2553)/cdn.vox-cdn.com/uploads/chorus_image/image/68505472/1230098491.0.jpg' width='700px' /><br/>
-Workers at an iPhone production plant in India reportedly smashed windows and set fire to vehicles to protest reductions in pay, the Times of India reported. The incidents began Saturday at a facility run by Taiwan manufacturing company Wistron Corporation, where the  iPhone SE is assembled.
-<a href='https://www.theverge.com/2020/12/13/22172383/workers-protest-wistron-iphone-se-plant-india-pay'> Source <a/>

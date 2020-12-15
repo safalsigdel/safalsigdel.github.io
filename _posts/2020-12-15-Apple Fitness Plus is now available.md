@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eDjODldwNvdYtOktlnRR0oRJms4=/0x0:1960x1102/1200x800/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/68511533/Apple_fitnessplus_applewatch_iphone12_hiit_workout_12142020.0.jpg' width='700px' /><br/>
+Apple's new Fitness Plus service is officially out now, marking the launch of the company's latest subscription service. Fitness Plus offers a variety of guided workouts (similar to competitors like Peloton) and costs $9.99 per month or $79.99 per year.
+<a href='https://www.theverge.com/2020/12/14/22174574/apple-fitness-plus-watch-iphone-release-date-price'> Source <a/>

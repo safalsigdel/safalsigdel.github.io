@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IyETiUroNcmpZPZvrv5KmtAR7ug=/0x0:1632x918/1200x800/filters:focal(632x334:892x594)/cdn.vox-cdn.com/uploads/chorus_image/image/68514004/Apple_introduces_apple_tv_plus_03252019_big.jpg.large_2x.0.jpg' width='700px' /><br/>
+Apple has killed an upcoming Apple TV Plus show about Gawker, a now-defunct news organization, according to a report by the New York Times. The show, called Scraper, is one to add to the list of stories about Apple killing projects that touch things that are too sensitive or edgy for the company.
+<a href='https://www.theverge.com/2020/12/14/22175355/a-show-about-gawker-proved-too-hot-for-apple-to-handle'> Source <a/>

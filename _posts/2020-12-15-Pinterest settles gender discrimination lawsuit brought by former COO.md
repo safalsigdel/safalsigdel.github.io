@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hDKiJiZXE_u6maoxNkr32bOJcTQ=/0x0:6693x4462/1200x800/filters:focal(2812x1696:3882x2766)/cdn.vox-cdn.com/uploads/chorus_image/image/68513007/1143514663.jpg.0.jpg' width='700px' /><br/>
+Pinterest is settling a gender discrimination lawsuit brought by former COO Franxc3xa7oise Brougher for $22.5 million. Pinterest and Brougher will also jointly contribute $2.5 million to philanthropies supporting women and underrepresented minorities in the tech industry. The remaining amount will be paid to Brougher and her attorneys. News of the agreement was first reported by The New York Times.
+<a href='https://www.theverge.com/2020/12/14/22175043/pinterest-gender-discrimination-lawsuit-settlement-coo-francoise-brougher'> Source <a/>

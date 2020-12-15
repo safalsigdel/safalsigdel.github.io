@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/36EAxCArqmcneVVOJgzT2G_F4nI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68512757/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
+Uber has 30 days to pay a $59 million fine to California's Public Utilities Commission (CPUC) for failing to answer the regulator's questions about a damning safety report released by the company in December 2019. If Uber doesn't pay up and answer the outstanding questions, CPUC could suspend the company's license to operate in the state, an administrative law judge ruled on Monday.
+<a href='https://www.theverge.com/2020/12/14/22174943/uber-sexual-assault-fine-california-public-utility-commission-report-59-million'> Source <a/>

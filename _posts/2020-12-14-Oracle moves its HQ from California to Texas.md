@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ePc6KqBbVk9eSYTarxle04QFrPE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68505910/acastro_201002_1777_googleVsOracle_0001.0.jpg' width='700px' /><br/>
-Software giant Oracle moved the company headquarters from Redwood City, California to Austin, Texas, Bloomberg reported, the latest tech firm to depart Silicon Valley for the Lone Star State.
-<a href='https://www.theverge.com/2020/12/13/22172610/oracle-moves-headquarters-california-texas-hewlett-packard-tesla'> Source <a/>

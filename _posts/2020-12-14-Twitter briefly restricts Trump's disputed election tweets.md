@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5txQjAyIZOjITyKdEcNfQowHK9g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68501891/acastro_200715_1777_twitter_0002.0.0.jpg' width='700px' /><br/>
-It looked like Twitter was adding further restrictions to President Trump's Twitter account on Saturday, as some users noticed the ability to like, retweet or reply to his tweets with “disputed” labels was not working. Copying the URL to one of the disputed tweets also appeared to be disabled, and quote-tweets were not appearing in search results.
-<a href='https://www.theverge.com/2020/12/12/22171126/trump-twitter-disputed-tweets-election-retweets'> Source <a/>

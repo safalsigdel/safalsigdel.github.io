@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9gY9NjBZrqXvuwrPdEBxHiLwIIk=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/68510176/Hero_Image_12112020.0.jpg' width='700px' /><br/>
-Sony, Microsoft, and Nintendo, who among them effectively control the entirety of the console gaming market, have announced a shared set of safety guidelines for how they'll moderate and police their online platforms.
-<a href='https://www.theverge.com/2020/12/14/22174206/sony-microsoft-nintendo-safety-principles-online-gaming-shared-commitment'> Source <a/>

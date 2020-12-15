@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pQADb99L2blgtJJj1L3Q-RjtlBg=/0x0:676x381/1200x800/filters:focal(284x137:392x245)/cdn.vox-cdn.com/uploads/chorus_image/image/68499738/manoa_engineering_in_memorial_norm_abramson.0.jpg' width='700px' /><br/>
-Norman Abramson, one of the pioneers behind wireless networks, has died at 88, The New York Times reports. Abramson and the team of graduate students and faculty he led were responsible for creating ALOHAnet, an early wireless network whose innovative techniques are still being used today in modern satellite, phone, and computer networks.
-<a href='https://www.theverge.com/2020/12/11/22170330/norman-abramson-alohanet-wirless-network-dies'> Source <a/>

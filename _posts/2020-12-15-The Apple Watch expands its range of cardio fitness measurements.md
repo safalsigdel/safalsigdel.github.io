@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PERsOgErZJskt0Xa_8HRcla4WDY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68511555/apple_watch_series_6_dbohn_834.0.jpg' width='700px' /><br/>
+Apple is expanding the range of cardiorespiratory fitness that can be measured on the Apple Watch. Starting today, the Health app will classify users as having “high,” “above average,” “below average,” or “low” cardio fitness. Low levels will trigger a notification.
+<a href='https://www.theverge.com/2020/12/14/22174552/apple-watch-fitness-cardio-alerts'> Source <a/>

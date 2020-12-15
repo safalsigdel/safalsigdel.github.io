@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-ih-STtYGvTvwaZNKgZSx7xCiik=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68510624/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+Apple is offering two-hour delivery for just $5 on “eligible in-stock items” from its retail stores. If you need to get a gift for an Apple-loving person in your life this holiday season, that $5 shipping could be a handy way to get that gift in a pinch. The company says it offers scheduled courier delivery of eligible items “in most metros.”
+<a href='https://www.theverge.com/2020/12/14/22174360/apple-two-hour-delivery-price-holidays'> Source <a/>

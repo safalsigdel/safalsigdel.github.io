@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ghwkwS_47ZbcdIHUVte52G3rv6Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68511388/acastro_191108_3782_blackfriday_guidebook_0001.0.jpg' width='700px' /><br/>
+We've reached the final few days before the holidays, and in the interest of getting gifts delivered on time — and not paying handsomely for shipping — you should be wrapping up your shopping as soon as you can.
+<a href='https://www.theverge.com/22168049/shipping-deadlines-free-delivery-amazon-walmart-best-buy-target'> Source <a/>

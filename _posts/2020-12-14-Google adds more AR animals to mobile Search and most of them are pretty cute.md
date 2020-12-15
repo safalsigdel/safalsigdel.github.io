@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SxN1I8Ux8Q--K__Ekw-YaLoBh38=/0x0:1061x1003/1200x800/filters:focal(447x418:615x586)/cdn.vox-cdn.com/uploads/chorus_image/image/68503090/scary_giant_ar_cat.0.jpg' width='700px' /><br/>
-Google has added 50 new augmented reality animals to Search which can be either cute, or in the case of the giant cat in the photo above, a bit disconcerting. Of course it's possible that I find the giant kitty menacing because I hate fun (or so I have been told), but I do not think I want that creature to greet me, anywhere, ever, in AR or any other reality.
-<a href='https://www.theverge.com/2020/12/12/22171601/google-adds-augmented-reality-ar-animals-search-3d'> Source <a/>

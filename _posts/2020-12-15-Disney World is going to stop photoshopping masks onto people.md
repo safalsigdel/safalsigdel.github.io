@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WVbLhzvCH-TrqRNGvzARfKjXtec=/0x0:1331x1655/1200x800/filters:focal(565x653:777x865)/cdn.vox-cdn.com/uploads/chorus_image/image/68512542/walt_disney_world_castle.0.jpg' width='700px' /><br/>
+Today in stories that make you go “Wait, what?”, Disney World is going to stop digitally adding masks to people who don't have them in their on-ride pictures, according to a report from WDW News Today.
+<a href='https://www.theverge.com/2020/12/14/22174897/disney-world-mask-photoshopped-stop-ride-photos'> Source <a/>

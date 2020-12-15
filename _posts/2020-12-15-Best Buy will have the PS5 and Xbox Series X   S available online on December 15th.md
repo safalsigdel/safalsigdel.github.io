@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A26UWRohOalAOiJlRJs1pjFHQSA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68511428/vpavic_4261_20201026_0181.0.jpg' width='700px' /><br/>
+It's been over a month since the PS5 and Xbox Series X / S were released, and if you have been trying to purchase one of the new consoles, it's been quite challenging. Fortunately, Best Buy announced today that it would have both next-gen consoles available for purchase on December 15th.
+<a href='https://www.theverge.com/2020/12/14/22174265/ps5-xbox-series-x-s-restock-best-buy'> Source <a/>

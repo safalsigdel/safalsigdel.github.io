@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CLsDR06uyP6bdIebaisPN_EeR0Y=/0x0:1490x1062/1200x800/filters:focal(626x412:864x650)/cdn.vox-cdn.com/uploads/chorus_image/image/68499911/Screen_Shot_2020_12_11_at_6.31.26_PM.0.png' width='700px' /><br/>
-Familiars.io is a minimalist monster-catching game that went online last year, and right now, you can play it inside Twitter. As developer Nigel Nelson tweeted this afternoon, he ported (or in his words, “smuggled”) the entire game to an embedded Twitter card. That means that you can play it directly through Twitter's web interface or mobile app.
-<a href='https://www.theverge.com/2020/12/11/22170499/familiars-io-monster-catching-pokemon-style-multiplayer-game-play-inside-twitter'> Source <a/>

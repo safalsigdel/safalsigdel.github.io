@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KPNgojDBD3NwpzCZC5VTIJVHmmc=/0x0:2040x1360/1200x800/filters:focal(971x550:1297x876)/cdn.vox-cdn.com/uploads/chorus_image/image/68513110/google_home_max_review_1.0.jpeg' width='700px' /><br/>
+Google is no longer manufacturing the Google Home Max, its smart speaker designed with high-quality sound in mind, and it has sold out of the product on the Google Store, the company tells The Verge. And indeed, if you check the Google Home Max page on the Google Store, you'll see that the white and black models are listed as out of stock.
+<a href='https://www.theverge.com/2020/12/14/22175243/google-home-max-discontinued-smart-speaker-support'> Source <a/>

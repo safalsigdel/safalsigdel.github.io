@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uTwrE0rXxfBYHM8EylJ3uga-qsY=/280x133:1343x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/68510303/Zoom_on_Nest_Hub_Max.0.png' width='700px' /><br/>
-Google is starting to roll out Zoom support for the Nest Hub Max smart display as an early preview for users in the US, UK, Canada, and Australia, the company announced today.
-<a href='https://www.theverge.com/2020/12/14/22170522/google-zoom-nest-hub-max-device-video-optimization-wifi'> Source <a/>

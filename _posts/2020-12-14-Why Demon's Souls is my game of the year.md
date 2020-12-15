@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/euTlH9IuwonHOl5IPJPu2AZCzXs=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/68508952/demons_souls_screenshot_17_disclaimer_en_09nov20.0.jpeg' width='700px' /><br/>
-I nearly gave up on Demon's Souls.
-<a href='https://www.theverge.com/22150718/demons-souls-remake-ps5-playstation-5-sony-game-of-the-year-2020'> Source <a/>

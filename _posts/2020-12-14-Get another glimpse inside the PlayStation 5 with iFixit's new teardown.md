@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F5bSe4LKya8LyMCDtxKF-JVwEv8=/0x0:1600x1200/1200x800/filters:focal(672x472:928x728)/cdn.vox-cdn.com/uploads/chorus_image/image/68500684/3MqFL2AQmEZugiii.huge.0.jpeg' width='700px' /><br/>
-iFixit has released its teardown of the PlayStation 5 and its DualSense controller — and it goes into even more detail than the one Sony did earlier this year. The gadget repair company discovered that the console has a ton of screws holding it together, and that there's a weird catch to replacing the optical drive.
-<a href='https://www.theverge.com/2020/12/11/22170536/ifixit-teardown-playstation-5-dualsense-controller-gamepad'> Source <a/>

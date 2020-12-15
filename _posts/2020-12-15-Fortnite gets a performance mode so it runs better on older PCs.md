@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BHZwihNbX2RkDXHVKXxk0ZpFrRs=/0x0:3563x1864/1200x800/filters:focal(1308x552:1878x1122)/cdn.vox-cdn.com/uploads/chorus_image/image/68512111/Fortnite_20201202100316.0.jpg' width='700px' /><br/>
+It's no mean feat that Fortnite manages to run as well as it does on just about any conceivable platform — from mobile to Switch to high-end gaming PC. Today, in a post on its blog, Epic Games announced a feature called performance mode, which will allow older PCs to run the game better. It'll be available on December 15th.
+<a href='https://www.theverge.com/2020/12/14/22174861/fortnite-performance-mode-epic-games'> Source <a/>
