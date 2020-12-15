@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u152Vp6K5uQ22WE8WmEjLyOTL0Y=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/68514889/group_calling_hero_compressed.0.jpg' width='700px' /><br/>
+Encrypted messaging app Signal has added support for group video calls for up to five people, the company has announced. Group calls can be started by tapping the video call button at the top of a supported group chat. Calls are “end-to-end encrypted — like everything else on Signal,” the company says. By default, participants are shown in a grid format, but you can swipe up for a view that focuses on individual speakers.
+<a href='https://www.theverge.com/2020/12/15/22175923/signal-video-calls-new-groups-five-people-max'> Source <a/>
