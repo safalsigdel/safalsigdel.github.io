@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QQviEsntf46SXV9q2dfRIzIbEXs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68511778/acastro_170629_1777_0008.0.jpg' width='700px' /><br/>
-The Federal Trade Commission announced Monday that it is launching a new inquiry into the privacy practices of some of the largest tech companies and social media platforms in the world.
-<a href='https://www.theverge.com/2020/12/14/22174755/ftc-data-privacy-youtube-facebook-reddit-twitter-snapchat-discord-inquiry'> Source <a/>

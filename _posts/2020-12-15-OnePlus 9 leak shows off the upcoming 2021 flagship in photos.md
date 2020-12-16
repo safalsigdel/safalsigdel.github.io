@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SgddasLG5Spk2kiuP9pzSCepJjc=/0x0:1874x1250/1200x800/filters:focal(788x476:1086x774)/cdn.vox-cdn.com/uploads/chorus_image/image/68512325/oneplus_9_leaked.0.png' width='700px' /><br/>
-The OnePlus 9 likely won't arrive until spring 2021, but thanks to some photos published by PhoneArena, we won't have to wait that long for a glimpse of it. The images are of an alleged prototype device complete with unique pre-prod branding, and some software screengrabs reveal a little extra detail about the upcoming flagship.
-<a href='https://www.theverge.com/2020/12/14/22174437/oneplus-9-photos-leak-2021-flagship'> Source <a/>

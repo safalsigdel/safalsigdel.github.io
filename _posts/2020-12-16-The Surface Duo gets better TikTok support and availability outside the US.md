@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0RxGqS5FGyRCkKY82FWZuNm0-24=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68518393/akrales_191002_3704_0376.0.jpg' width='700px' /><br/>
+Microsoft announced in a blog today that its dual screen phone, the Surface Duo, will be getting an “enhanced” TikTok app that takes advantage of its design. The company also announced the Duo will be available outside the US in early 2021.
+<a href='https://www.theverge.com/2020/12/15/22176724/microsoft-surface-duo-availability-canada-europe-tiktok-support'> Source <a/>

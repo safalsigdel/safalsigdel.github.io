@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HqCzBsIt2di02KxshFWxcY_GaKw=/0x0:800x450/1200x800/filters:focal(336x161:464x289)/cdn.vox-cdn.com/uploads/chorus_image/image/68516542/cyberpunk_2077_800.0.jpg' width='700px' /><br/>
+Cyberpunk 2077 developer CD Projekt Red has confirmed it has no special refund agreement with Microsoft or Sony, despite saying dissatisfied players should return their copies of the game in a statement. It means players are covered by both platforms' standard refund policies, which, in the case of Sony, explicitly prohibits refunds if you've already started playing a game “unless the content is faulty.”
+<a href='https://www.theverge.com/2020/12/15/22176279/cyberpunk-2077-performance-issues-refunds-microsoft-sony-ps4-xbox-one'> Source <a/>

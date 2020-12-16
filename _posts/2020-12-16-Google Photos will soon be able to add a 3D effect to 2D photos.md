@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LYcxtXUPrV6M1nnpKO05MNCXCBc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68516613/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google Photos will soon be able to take your 2D images and make them appear as if they're 3D, the company announced in a blog post on Tuesday. Google is calling these types of images “Cinematic photos,” and they're a new type of image the app can show as part of its Memories feature.
+<a href='https://www.theverge.com/2020/12/15/22176313/google-photos-2d-3d-photos-cinematic-memories-activities-things'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ePemN5LW9LA2JfTS7-_uNOdwDSQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68516855/ss_eab32f16b59c005489c10f9063227ed7b54b31ec.1920x1080.0.jpg' width='700px' /><br/>
+Among Us, Innersloth's breakout hit of 2020, is coming to the Nintendo Switch today. The news was announced during a special indie game-focused Nintendo Direct. The game will feature crossplay.
+<a href='https://www.theverge.com/2020/12/15/22176459/among-us-nintendo-switch-cross-play-launch'> Source <a/>

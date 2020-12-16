@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7OXmfNWrp58skvRIiEuCE8PdkpY=/0x0:2766x1844/1200x800/filters:focal(817x381:1259x823)/cdn.vox-cdn.com/uploads/chorus_image/image/68513334/1228295080.0.jpg' width='700px' /><br/>
-The Food and Drug Administration has approved genetically engineered pigs for use in food and medical products. The pigs, developed by medical company Revivicor, could be used in the production of drugs, to provide organs and tissues for transplants, and to produce meat that's safe to eat for people with meat allergies.
-<a href='https://www.theverge.com/2020/12/14/22175060/fda-approval-genetically-engineered-pigs'> Source <a/>

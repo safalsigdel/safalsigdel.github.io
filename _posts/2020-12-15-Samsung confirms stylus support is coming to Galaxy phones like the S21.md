@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J8KkYjGNKE73tCE-G9y82pD7UDg=/0x0:2040x1528/1200x0/filters:focal(0x0:2040x1528):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21829982/Product_image_15.jpg' width='700px' /><br/>
-Samsung's president of mobile, TM Roh, dropped several hints about the company's product roadmap in a blog post today. He confirmed Samsung will hold an event in January — presumably for the Galaxy S21. He also implied that S Pen support will come to more phones and that Samsung intends to broaden its line of folding phones with less expensive options.
-<a href='https://www.theverge.com/2020/12/15/22175769/samsung-stylus-galaxy-phones-s21-foldable'> Source <a/>

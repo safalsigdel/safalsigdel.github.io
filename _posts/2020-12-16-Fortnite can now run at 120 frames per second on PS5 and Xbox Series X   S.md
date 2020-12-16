@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qUNgl2-sFVTc-13HodTcAmAJNgU=/0x0:1776x889/1200x800/filters:focal(746x303:1030x587)/cdn.vox-cdn.com/uploads/chorus_image/image/68517350/Fortnite.0.jpg' width='700px' /><br/>
+Fortnite will now be able to run at 120 frames per second on the PS5 and Xbox Series X / S. The game already received next-gen features like 4K at 60fps and dynamic visuals when the new consoles launched, but now Epic is updating the free battle royale game to take even more advantage of the hardware.
+<a href='https://www.theverge.com/2020/12/15/22176382/fortnite-epic-120-fps-ps5-xbox-series-x-s'> Source <a/>

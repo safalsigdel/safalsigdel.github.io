@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VIDoj1AFJYvfHaZzYQtH6vbblfo=/0x0:2040x1360/1200x800/filters:focal(877x655:1203x981)/cdn.vox-cdn.com/uploads/chorus_image/image/66793959/akrales_190820_3597_0355.0.jpg' width='700px' /><br/>
-The Nintendo Switch, like everything else that can lighten the mood during this incredibly tough time, is in short supply. And as soon as retailers like Best Buy, Amazon, and Walmart get it in stock, it quickly sells out. It can be disheartening to miss out on the opportunity to buy a Switch — but fear not! The purpose of this article is to help you do just that without paying more than it would usually cost at retail.
-<a href='https://www.theverge.com/21257643/nintendo-switch-lite-how-to-buy-in-stock'> Source <a/>

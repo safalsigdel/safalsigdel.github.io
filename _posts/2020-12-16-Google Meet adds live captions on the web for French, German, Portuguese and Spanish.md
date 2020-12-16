@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qnbDsJhQ4amfJUWVKyrF2gIuah0=/0x0:1024x1024/1200x800/filters:focal(431x431:593x593)/cdn.vox-cdn.com/uploads/chorus_image/image/68516596/Google_Meet.max_2800x2800.0.png' width='700px' /><br/>
+Google Meet is adding live captions on the web in four languages to make meetings more inclusive, the company announced today. Live captions in Spanish, French, German, and Portuguese will be available across all versions of Meet starting today. Meet rolled out real-time captions in English last year.
+<a href='https://www.theverge.com/2020/12/15/22175268/google-meet-live-captions-french-german-portuguese-spanish'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WXrnIOarF7AmYhnN57tCSI-I7sQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68517275/vpavic_4291_20201113_0380.0.0.jpg' width='700px' /><br/>
+If you've been using Microsoft Office on an M1 Mac, it's about to get better — Microsoft is announcing an update today that brings native support for Apple's new custom chip architecture to the Windows productivity suite. The apps getting the updates are Word, Excel, Outlook, PowerPoint, and OneNote. Notably absent, however, is Teams.
+<a href='https://www.theverge.com/2020/12/15/22176548/microsoft-office-native-m1-apps-apple-silicon-support'> Source <a/>

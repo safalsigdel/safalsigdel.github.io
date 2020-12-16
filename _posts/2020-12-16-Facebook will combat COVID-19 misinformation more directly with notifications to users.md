@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5VGhUu3hPIuu9h2V9gnGPWj1s4Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68519579/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook will send notifications directly to users who like, share, or comment on COVID-19 posts that violate the company's terms of service, according to a report from Fast Company.
+<a href='https://www.theverge.com/2020/12/15/22177085/facebook-covid-19-misinformation-notifications'> Source <a/>

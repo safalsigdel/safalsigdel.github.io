@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D99cB6jcb2uK_OL3TDMauNPy-uE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68519419/image__3_.0.png' width='700px' /><br/>
+Amazon's cloud gaming service, Luna, is now available on Android, Amazon announced on Tuesday. Like the iOS version of Luna, there's no separate Luna app to download — instead, you'll access the service through the Chrome web browser.
+<a href='https://www.theverge.com/2020/12/15/22177222/amazon-luna-android-cloud-gaming-google-pixel-samsung-oneplus'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-If you've been showing up to work Zoom meetings in your pajamas and feel kind of weird about it, Japanese clothing retailer Aoki has a solution for you: a piece of clothing that looks like a classic suit jacket but feels like PJs. It's calling it the Pajamas Suit, and it really does look like a suit jacket — complete with the cut and the buttons on both the sleeves and the front.
-<a href='https://www.theverge.com/tldr/2020/12/14/22174641/pajama-suit-jacket-zoom-meeting-comfort-aoki'> Source <a/>

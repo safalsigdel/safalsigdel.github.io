@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E4GAIoTVyf2Ez-DlFMgkoXye5V0=/0x0:1020x681/1200x800/filters:focal(429x260:591x422)/cdn.vox-cdn.com/uploads/chorus_image/image/68511932/election-voting-machine-stock3_1020.0.jpg' width='700px' /><br/>
-On Monday, electronic voting system company Smartmatic demanded three conservative media outlets to retract claims that its machines skewed votes in favor of President-elect Joe Biden in November's US presidential election.
-<a href='https://www.theverge.com/2020/12/14/22174682/smartmatic-voting-fraud-disinformation-retraction-fox-news-oann-newsmax'> Source <a/>
