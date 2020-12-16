@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tARbkzrvUpNTnhUkIxZs7Taqd64=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/68516476/gatik_self_driving_vehicle_use_for_lead_image__1_.0.jpg' width='700px' /><br/>
-Walmart will use fully autonomous box trucks to make deliveries in Arkansas starting in 2021. The big-box retailer has been working with a startup called Gatik on a delivery pilot for 18 months. Next year, the two companies plan on taking their partnership to the next level by removing the safety driver from their autonomous box trucks.
-<a href='https://www.theverge.com/2020/12/15/22176179/walmart-fully-driverless-box-truck-delivery-gatik'> Source <a/>
