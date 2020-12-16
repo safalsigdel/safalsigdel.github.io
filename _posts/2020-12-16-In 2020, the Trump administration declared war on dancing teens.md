@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aR5jvN-eW4F8kAukuyU6-GlEhro=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68521609/VRG_ILLO_4340_TikTokWarRoom.0.jpg' width='700px' /><br/>
+On July 7th, Mike Pompeo, the US secretary of state, told Fox News he was considering a ban on TikTok, the Chinese-owned app best known for dancing teenagers, roller skating, and Fleetwood Mac enthusiasts. You should only use TikTok “if you want your private information in the hands of the Chinese Communist Party,” Pompeo said.
+<a href='https://www.theverge.com/22174704/2020-tiktok-ban-trump-administration'> Source <a/>
