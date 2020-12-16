@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ua6MvTiw3IuGqy1YtsjRni8V0vE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68522751/DSCF2108.0.jpg' width='700px' /><br/>
+Google's latest Chromecast with Google TV is filling in one of its biggest missing apps, with the company announcing that it'll soon be offering an Apple TV app in early 2021.
+<a href='https://www.theverge.com/2020/12/16/22178364/google-chromecast-apple-tv-plus-app-2021-announcement'> Source <a/>
