@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PSmFm3h8OZ0XhJdX35oRBK2VBA0=/0x0:2040x1360/1200x800/filters:focal(866x609:1192x935)/cdn.vox-cdn.com/uploads/chorus_image/image/68522986/akrales_191113_3779_0319.0.jpg' width='700px' /><br/>
+Google Stadia has finally made its way to iOS over a year after launch. The company's mobile web beta for the iPhone and iPad, first announced last month, is launching today. That means any Stadia user on either its free tier or its paid Stadia Pro subscription will be able to access their library of Stadia games on Apple devices.
+<a href='https://www.theverge.com/2020/12/16/22176273/google-stadia-ios-beta-live-now-mobile-safari-iphone-ipad-cloud-gaming'> Source <a/>

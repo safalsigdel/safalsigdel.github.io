@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x95JxF_iaTCJBt07ceIXlzfGYP4=/0x0:1318x666/1200x800/filters:focal(258x193:468x403)/cdn.vox-cdn.com/uploads/chorus_image/image/68522981/Substack_Reader_copy.0.png' width='700px' /><br/>
+If you're worried about all your newsletter subscriptions getting lost in your inbox, Substack may have a solution. Today the platform is launching an RSS reader called Substack Reader, which offers a streamlined collection of your latest newsletters. Any Substack newsletter you already subscribe to will automatically show up, and if you want, you can add third-party RSS feeds, too.
+<a href='https://www.theverge.com/2020/12/16/22174000/substack-rss-reader-newsletter-subscriptions'> Source <a/>
