@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q6scOie3kB97FdellUNMIxYtOQw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68516876/50343276481_8cbf4a7507_k.0.jpg' width='700px' /><br/>
-At its latest indie showcase, Nintendo revealed a handful of intriguing titles coming to the Switch in 2021. The biggest reveal is that Among Us, one of 2020's biggest games, isn't just coming to the Switch, but it'll be available later today.
-<a href='https://www.theverge.com/2020/12/15/22176420/nintendo-switch-indie-showcase-spelunky-grindstone-super-meat-boy-forever'> Source <a/>
