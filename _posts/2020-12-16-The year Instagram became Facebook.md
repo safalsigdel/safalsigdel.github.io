@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rgZ0vfAkCHbcOr0aHdQqh1VU6wg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68522169/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+Instagram spent much of the past eight years fighting to maintain its independence from Facebook. In 2020, the fight was over.
+<a href='https://www.theverge.com/22167632/instagram-2020-changes-facebook-integration'> Source <a/>
