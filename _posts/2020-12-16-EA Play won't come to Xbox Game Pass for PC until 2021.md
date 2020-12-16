@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cQVlD4r0kKE_beOycfchJLPqlIo=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68516670/XGP_EAPlay_HERO.0.jpg' width='700px' /><br/>
-PC gamers subscribed to Xbox Game Pass for PC or the pricier Xbox Game Pass Ultimate tier will need to wait just a little while longer until they have access to EA Play on Windows machines. Today, Microsoft announced that EA Play would arrive on PC as part of Xbox Game Pass sometime in 2021. Originally, the partnership was supposed to go into effect today.
-<a href='https://www.theverge.com/2020/12/15/22176296/ea-play-xbox-game-pass-release-delayed-subscription'> Source <a/>
