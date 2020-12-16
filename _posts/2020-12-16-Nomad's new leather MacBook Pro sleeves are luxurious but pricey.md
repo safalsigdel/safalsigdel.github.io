@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T55kmf1_IEIkh23-GNYwBTdsUSs=/0x0:2040x1208/1200x800/filters:focal(857x441:1183x767)/cdn.vox-cdn.com/uploads/chorus_image/image/68516597/Untitled_2.0.jpg' width='700px' /><br/>
-Accessory company Nomad is expanding its case lineup once again with its first MacBook Pro sleeves, available today. The cases might be the nicest that Nomad has made so far, but with a starting price of $229.95 (for the 13-inch model) and $249.95 (for 16-inch MacBook Pros), they're also the most expensive.
-<a href='https://www.theverge.com/2020/12/15/22176171/nomad-new-leather-macbook-pro-sleeves-luxury-expensive-price-release-date-hands-on'> Source <a/>
