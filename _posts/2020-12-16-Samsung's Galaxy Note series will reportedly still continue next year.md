@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/c_O4BlCGbAfRTS7_AaNLTTsMWts=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68520573/vpavic_200807_4133_0116.0.0.jpg' width='700px' /><br/>
+While Samsung's mobile boss TM Roh has telegraphed plans to bring stylus support to more phones across its lineup, there may still be a new Galaxy Note in 2021. An anonymous Samsung official tells Yonhap that the company is “preparing to release the Galaxy Note series next year” and that “Roh's message does not mean that the Galaxy Note series will be discontinued.”
+<a href='https://www.theverge.com/2020/12/16/22177972/galaxy-note-21-still-happening-yonhap'> Source <a/>
