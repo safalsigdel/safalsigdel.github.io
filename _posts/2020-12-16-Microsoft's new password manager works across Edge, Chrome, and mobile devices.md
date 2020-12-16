@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LLlUrY6SpuTAv1xPEffPyDaL34Y=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/68520717/microsoftauthenticator.0.jpg' width='700px' /><br/>
+Microsoft is building a new password manager that syncs credentials across its Edge browser, Google Chrome, and mobile iOS or Android devices. A preview version of the password manager is now built into Microsoft Authenticator, a free mobile app that's used for multi-factor authentication. Like many other password managers, it can autofill passwords in apps or websites on iOS or Android.
+<a href='https://www.theverge.com/2020/12/16/22178026/microsoft-authenticator-autofill-feature-password-manager'> Source <a/>

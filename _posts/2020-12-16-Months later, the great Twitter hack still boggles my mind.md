@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tkFZEFxqnMQLgV8Q2vY80jRYJ4I=/0x0:2048x1367/1200x800/filters:focal(861x521:1187x847)/cdn.vox-cdn.com/uploads/chorus_image/image/68516443/VRG_ILLO_1777_twitter_bitcoin_verified.0.0.jpg' width='700px' /><br/>
-One of the wildest stories of the year was the day some of the most-followed Twitter accounts on the planet posted cryptocurrency scams because of a massive unprecedented hack.
-<a href='https://www.theverge.com/22163643/twitter-hack-bitcoin-scam-july-2020-elon-musk'> Source <a/>
