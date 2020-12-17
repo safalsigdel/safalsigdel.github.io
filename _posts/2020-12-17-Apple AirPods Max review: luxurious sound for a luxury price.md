@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9482/max.jpg' width='700px' /><br/>
-After a long lead-up of rumors, Apple managed to squeeze in the AirPods Max just under the wire as its last big hardware release of 2020. It wasn't surprising to see the company launch its own over-ear, noise-canceling headphones after the meteoric rise and popularity of AirPods, which have come to define the category of true wireless earbuds; nobody really managed to crack it before Apple. The AirPods Max are entering a very different space, where many other companies have excellent options available.
-<a href='https://www.theverge.com/22177494/apple-airpods-max-headphones-review-price-features'> Source <a/>
