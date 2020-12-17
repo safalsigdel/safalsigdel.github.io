@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HM6LBYUusTLk_OMhuBI4XToncgU=/0x0:4160x6240/1200x800/filters:focal(1748x2788:2412x3452)/cdn.vox-cdn.com/uploads/chorus_image/image/68524215/1143514577.0.jpg' width='700px' /><br/>
-A five-month investigation into Pinterest's company culture published on Wednesday recommends broad changes to how the firm handles workplace conflicts, including harassment and retaliation.
-<a href='https://www.theverge.com/2020/12/16/22178609/pinterest-wilmer-hale-workplace-culture-report-gender-discrimination-lawsuit'> Source <a/>
