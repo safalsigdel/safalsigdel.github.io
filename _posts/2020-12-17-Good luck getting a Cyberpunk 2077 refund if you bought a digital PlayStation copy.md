@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VDBT1rF94v2is4LKsSW_Sh7q5ac=/0x0:3840x2160/1200x800/filters:focal(1619x617:2233x1231)/cdn.vox-cdn.com/uploads/chorus_image/image/68524646/Cyberpunk_2077_screen_7.0.jpg' width='700px' /><br/>
-The release of CD Projekt Red's (CDPR) highly anticipated Cyberpunk 2077 is becoming an even bigger mess, and buyers of the digital version of the game from Sony's PlayStation Store might not have an easy path — or any path at all — to receive the refund the developer said they could.
-<a href='https://www.theverge.com/2020/12/16/22178872/cyberpunk-2077-refund-sony-ps4-ps5-playstation-issue'> Source <a/>
