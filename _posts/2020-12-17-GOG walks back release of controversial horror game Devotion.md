@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ErFuCiSgnd03IFgARAAE5AaHI0M=/0x0:2128x1184/1200x800/filters:focal(894x422:1234x762)/cdn.vox-cdn.com/uploads/chorus_image/image/68523649/Screen_Shot_2020_12_16_at_11.52.00_AM.0.png' width='700px' /><br/>
-Hours after announcing it would bring controversial horror game Devotion to its platform, CD Projekt Red's digital storefront GOG has reneged on its release plans. The company's social media account claims that “after receiving many messages from gamers, we have decided not to list the game in our store.”
-<a href='https://www.theverge.com/2020/12/16/22178453/gog-devotion-cancels-release-cd-projekt-red'> Source <a/>
