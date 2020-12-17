@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nW8Dw_qeLhGNo1BNVgUuG3NQhOM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68518537/acastro_180424_1777_gmail_0001.0.0.jpg' width='700px' /><br/>
-Google says that a “significant subset” of Gmail users ran into errors with the service Tuesday afternoon.
-<a href='https://www.theverge.com/2020/12/15/22176958/google-gmail-errors-down-outage-stadia'> Source <a/>

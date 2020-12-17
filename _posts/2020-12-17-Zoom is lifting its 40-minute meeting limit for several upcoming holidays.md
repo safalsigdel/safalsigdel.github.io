@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fRjogjaDT4_2uIpoCHQv09PJU0c=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68526417/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
+Zoom will be lifting its 40-minute meeting limit for free accounts globally in recognition of several upcoming holidays, the company confirmed to The Verge. The limits will be removed in recognition of Hanukkah, Christmas Eve, Christmas, New Year's Eve, New Year's Day, and Kwanzaa. The company similarly lifted its 40-minute limit last month for Thanksgiving Day.
+<a href='https://www.theverge.com/2020/12/16/22176502/zoom-lifting-40-minute-meeting-limit-holidays-free-hanukkah-christmas-eve-new-years-kwanzaa'> Source <a/>

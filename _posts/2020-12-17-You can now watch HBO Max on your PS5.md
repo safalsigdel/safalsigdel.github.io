@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O3_LxCYh3kgTM5upxu5z-ZTh3zk=/0x0:6240x4160/1200x800/filters:focal(2621x1581:3619x2579)/cdn.vox-cdn.com/uploads/chorus_image/image/68525503/DSCF1971.0.png' width='700px' /><br/>
+Sony on Wednesday announced that HBO Max is finally available for its next-gen console. Support for the app, revealed in a tweet from the official PlayStation account, should be great news if you managed to get a PS5 and were planning to use it as an entertainment hub for movies in addition to games, as HBO Max was the last major streaming service absent from the console.
+<a href='https://www.theverge.com/2020/12/16/22179163/hbo-max-available-playstation-5-ps5-streaming'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T73iEfGCwz4jLpE5jnC8kHH65LU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68518260/acastro_180510_1777_siri_0002.0.jpg' width='700px' /><br/>
-With yesterday's release of iOS 14.3, Siri got a new trick: the ability to play real-world sound samples on command. Ask “Hey Siri, what does _____ sound like?” and it will start playing the sound for you. If you ask on an iPhone or iPad, it will show you a picture as well. Google Assistant has been able to do this for a few years now, but now it's available for the iPhone, iPad, and HomePod.
-<a href='https://www.theverge.com/2020/12/15/22176642/apple-siri-animal-car-new-sounds'> Source <a/>

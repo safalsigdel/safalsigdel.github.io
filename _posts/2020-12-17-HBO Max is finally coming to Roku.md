@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xcs7D4AC-EyRdXYXJ-KhgoeAaTM=/0x0:1576x1030/1200x800/filters:focal(705x348:957x600)/cdn.vox-cdn.com/uploads/chorus_image/image/68525628/Screen_Shot_2020_11_19_at_11.17.04_AM.0.png' width='700px' /><br/>
+One of the biggest hurdles facing HBO Max is no longer a problem: the streaming service will finally be coming to Roku devices, starting December 17th.
+<a href='https://www.theverge.com/2020/12/16/21272058/hbo-max-roku-watch-wonder-woman-1984-movies-amazon-fire-stream-comcast-warnermedia'> Source <a/>

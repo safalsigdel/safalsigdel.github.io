@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZAILs3xncq4FsP92JsucYvfPsUE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68526621/acastro_170726_1777_0010.0.jpg' width='700px' /><br/>
+Twitter will no longer automatically show the quote tweet prompt when you try to retweet something starting on Wednesday, the company announced.
+<a href='https://www.theverge.com/2020/12/16/22179634/twitter-retweets-return-revert-quote-tweet-prompt'> Source <a/>

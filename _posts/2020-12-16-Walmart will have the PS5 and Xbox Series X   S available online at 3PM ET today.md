@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ufyeQV4lOl-S6Jy_VFXm0EzbsZ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68517719/vpavic_4261_20201026_0197.0.jpg' width='700px' /><br/>
-If you missed the restock of the PS5 and Xbox Series X / S at Best Buy, you have another chance at Walmart. The retailer announced that at 3PM ET on December 15th, it will have both next-gen consoles available for purchase exclusively through its website.
-<a href='https://www.theverge.com/2020/12/15/22176739/ps5-xbox-series-x-s-restock-walmart-time-date'> Source <a/>

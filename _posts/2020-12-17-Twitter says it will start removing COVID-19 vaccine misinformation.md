@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VmPcKoRc6JxA-Tsm0w-BhjUD_MY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68524976/acastro_200715_1777_twitter_0004.0.0.jpg' width='700px' /><br/>
+Twitter announced Wednesday that it will remove tweets making false or misleading claims about COVID-19 vaccinations.
+<a href='https://www.theverge.com/2020/12/16/22179074/twitter-coronavirus-misinformation-covid19-vaccine-vaccination-label'> Source <a/>

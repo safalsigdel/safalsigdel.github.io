@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pPUzKb4tYkHWyT5n-6bXYmCXjXg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68523536/acastro_200318_1777_discord_0001.0.0.jpg' width='700px' /><br/>
+Today, Discord is rolling out screensharing to its mobile users. It's a smart move; earlier this summer, the company's mobile app was hitting lifetime highs for downloads every day.
+<a href='https://www.theverge.com/2020/12/16/22177044/discord-mobile-screen-share-tiktok-among-us'> Source <a/>

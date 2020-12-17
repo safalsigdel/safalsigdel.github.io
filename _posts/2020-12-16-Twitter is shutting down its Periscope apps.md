@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qFwh_quTzeodtFOnxImhcSUAM2s=/0x0:1400x787/1200x800/filters:focal(588x282:812x506)/cdn.vox-cdn.com/uploads/chorus_image/image/68517909/0_rNGSqodt790lkpl_.0.png' width='700px' /><br/>
-Twitter has announced that it'll be shutting down Periscope as a service, with the company set to discontinue the Periscope applications by March 2021. Twitter will, however, continue to offer live video streaming through its integrated Twitter Live feature within the main Twitter app.
-<a href='https://www.theverge.com/2020/12/15/22176842/twitter-periscope-shut-down-live-video-streaming-apps-2021'> Source <a/>

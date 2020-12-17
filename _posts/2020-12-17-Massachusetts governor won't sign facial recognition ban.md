@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X7XLf0iBDlWQsgNcwom7hKElRz0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68525692/acastro_180730_1777_facial_recognition_0001.0.jpg' width='700px' /><br/>
+Massachusetts Gov. Charlie Baker has refused to sign a law banning most government use of facial recognition. The Boston Globe reported last week that Baker sent an omnibus police reform bill back to state lawmakers, asking for changes that included striking the facial recognition rules.
+<a href='https://www.theverge.com/2020/12/16/22179245/facial-recognition-bill-ban-rejected-massachusetts-governor-charlie-baker-police-accountability'> Source <a/>

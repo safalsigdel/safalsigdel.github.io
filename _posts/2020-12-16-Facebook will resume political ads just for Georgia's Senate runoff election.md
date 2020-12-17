@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/532jBaalSWXUy2cUS7U2mU76FuY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68518180/mdoying_180118_2249_facebook_0581_1stills.0.jpg' width='700px' /><br/>
-Facebook on Tuesday said it would make an exception to its political ad ban to let campaigns and other political organizations run advertising for the upcoming Georgia runoff elections.
-<a href='https://www.theverge.com/2020/12/15/22176825/facebook-political-ad-ban-resume-georgia-senate-runoff-elections'> Source <a/>
