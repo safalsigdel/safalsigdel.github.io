@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xZDcH4pTrvnMWBKMy6qzlxPNBvg=/0x0:7680x7755/1200x800/filters:focal(3226x3264:4454x4492)/cdn.vox-cdn.com/uploads/chorus_image/image/68528428/The_Remote_Product_1.0.jpg' width='700px' /><br/>
+GoPro just announced a new $79.99 wireless remote control alongside free firmware updates that bring performance and feature improvements to the Hero 9 Black, Hero 8 Black, and Max cameras.
+<a href='https://www.theverge.com/2020/12/17/22180159/gopro-remote-firmware-1-5-faster-content-trasfer'> Source <a/>
