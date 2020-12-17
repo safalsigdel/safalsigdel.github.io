@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UY3HWmE3STZFxy9BSF4xmQII_1U=/0x0:1086x612/1200x800/filters:focal(421x210:593x382)/cdn.vox-cdn.com/uploads/chorus_image/image/68524572/Project_Kuiper_Customer_Terminal_Antenna_Graphic__2_.0.png' width='700px' /><br/>
-Today, Amazon revealed the design of the antennas its customers will use to tap into the company's upcoming massive satellite constellation, Project Kuiper, designed to provide broadband internet coverage from space.
-<a href='https://www.theverge.com/2020/12/16/22178235/amazon-project-kuiper-user-terminal-antenna-internet-satellite-constellation'> Source <a/>
