@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CVRULp_-XQbr68Zp8vvIQTCET0U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68522345/cwelch_201114_4292_0005.0.0.jpg' width='700px' /><br/>
-Apple had a solid year of tech products across a wide variety of categories. From introducing the M1 chip on computers (including the MacBook Pro), releasing four new iPhones (including the first iPhone with the “mini” moniker), two new Apple Watches, and a few updates on some iPad models, this year's releases spanned a wide gamut.
-<a href='https://www.theverge.com/good-deals/2020/12/16/22177014/mac-mini-m1-chip-ipad-pro-deal-sale'> Source <a/>
