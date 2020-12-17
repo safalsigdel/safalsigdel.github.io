@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ce28kh_nwKlB2X1oXw3P5kFP64M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68528651/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+Netflix is giving viewers the chance to ignore the visuals of shows and movies entirely and go full audio. In an update first spotted by XDA-Developers and then Android Police, Netflix has started rolling out an audio-only mode for its Android app users.
+<a href='https://www.theverge.com/2020/12/17/22179398/netflix-audio-mode-app-update-android'> Source <a/>
