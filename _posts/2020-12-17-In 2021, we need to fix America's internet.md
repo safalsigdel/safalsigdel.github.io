@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9iReuYUdn1WL1TFvls-McAI_pr4=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68528182/VRG_ILLO_4341_American_Ethernet.0.jpg' width='700px' /><br/>
+Every few months it'll send me a postcard. Once, in the midst of the pandemic, it even sent salespeople to my door.
+<a href='https://www.theverge.com/22177154/us-internet-speed-maps-competition-availability-fcc'> Source <a/>
