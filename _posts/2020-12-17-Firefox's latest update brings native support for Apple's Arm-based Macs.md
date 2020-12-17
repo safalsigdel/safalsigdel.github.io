@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iM1uPjjtuliHH4CnS6MNLRgedaQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68523483/acastro_200207_3900_firefox_0001.0.0.jpg' width='700px' /><br/>
-Firefox's latest update brings native support for Macs that run on Apple's Arm-based silicon, Mozilla announced on Tuesday. Mozilla claims that native Apple silicon support brings significant performance improvements: the browser apparently launches 2.5 times faster and web apps are twice as responsive than they were on the previous version of Firefox, which wasn't native to Apple's chips.
-<a href='https://www.theverge.com/2020/12/16/22178527/firefox-update-84-mozilla-apple-m1-arm-mac-silicon-native-support'> Source <a/>
