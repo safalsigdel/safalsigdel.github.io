@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5qpu1u5Q9VaXnwqMBRlvDpU6Fqk=/0x0:1630x1082/1200x800/filters:focal(685x411:945x671)/cdn.vox-cdn.com/uploads/chorus_image/image/68548818/skypetogethermode.0.png' width='700px' /><br/>
+Microsoft is bringing one of its best Teams video calling features over to Skype this week. Together Mode, which uses AI to segment your face and shoulders and place you together with other people in a virtual space, is now available in Skype. You'll need at least five people all with webcams to enable the feature, and it will place everyone into a virtual environment as if they're sitting next to each other.
+<a href='https://www.theverge.com/2020/12/18/22189010/skype-together-mode-microsoft-teams-feature'> Source <a/>
