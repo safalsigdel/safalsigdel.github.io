@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-The Space Force, it seems, is not sympathetic to the mission that seems to have captured many across the US: getting a PS5. One of its members has reportedly been reprimanded and demoted for being 30 minutes late to physical training because he was trying to get one of the consoles, according to a post on the Air Force amn/nco/snco Facebook page (via Task and Purpose).
-<a href='https://www.theverge.com/tldr/2020/12/17/22187086/space-force-member-demoted-trying-to-get-ps5'> Source <a/>

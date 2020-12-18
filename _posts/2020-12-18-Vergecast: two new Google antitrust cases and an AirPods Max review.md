@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qo38GHXIpHoapP4SUKFncGgXJqw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68548236/npatel_201209_4332_0060.0.0.jpg' width='700px' /><br/>
+It seems like there's no sign of tech news stopping for the holidays. In The Vergecast's last regular episode of 2020, The Verge's Dieter Bohn and Nilay Patel bring on senior reporter Adi Robertson and editor Chris Welch to explain the biggest stories in tech from this past week.
+<a href='https://www.theverge.com/2020/12/18/22188720/vergecast-podcast-google-antitrust-lawsuits-apple-airpods-max-review'> Source <a/>

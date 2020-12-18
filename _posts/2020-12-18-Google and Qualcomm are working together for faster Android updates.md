@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ixi4J-yDtCEIqBx9rc2S4UCYGIg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68543035/wjoel_180413_1777_android_001.0.jpg' width='700px' /><br/>
-Qualcomm and Google have announced they'll be working to expand Project Treble, Google's ambitious multiyear project that aims to simplify OS updates so it's easier for device manufacturers to upgrade phones and tablets to new Android versions without worrying about Qualcomm's chipset-specific software.
-<a href='https://www.theverge.com/2020/12/17/22178833/google-qualcomm-snapdragon-888-faster-android-updates-four-years'> Source <a/>
