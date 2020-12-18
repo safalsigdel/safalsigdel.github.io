@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ltbrLLc1K6njo41H-mHM1wElWaA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68528728/akrales_201215_4325_0188.0.jpg' width='700px' /><br/>
-After COVID-19 started dominating the headlines, one of the changes that we started making in our lives (well, most of us, anyway) was to wear a mask.
-<a href='https://www.theverge.com/22174639/masks-fashion-etsy-baggu-vida-covid-19'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-cPdJegveW_dFD-YumUXoJVKWqw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68542680/acastro_20200818_1777_epicApple_0002.0.0.jpg' width='700px' /><br/>
+Spotify is now available on the Epic Games Store, signaling developer Epic's ambitions to turn what has so far been strictly a games store into a more general app distribution platform. The Spotify app is free to download on the Epic Games Store, just like it is on the App Store, Google Play, or as a direct download for your PC or Mac.
+<a href='https://www.theverge.com/2020/12/17/22183446/epic-games-store-spotify-app-store-ambitions'> Source <a/>

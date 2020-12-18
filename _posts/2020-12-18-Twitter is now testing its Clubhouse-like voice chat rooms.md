@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6KxFDahYRYXYtObrr3aBGxh44_Q=/0x0:1123x1845/1200x800/filters:focal(500x291:678x469)/cdn.vox-cdn.com/uploads/chorus_image/image/68544275/IMG_0335.0.jpg' width='700px' /><br/>
+Twitter has begun testing its Spaces feature, the voice-based chat rooms it first announced last month. In the thread announcing the test, the company said a very small group of users would be given the ability to create Spaces, but that in theory anyone could join them — though who would be allowed into any given space depends on the user who created it.
+<a href='https://www.theverge.com/2020/12/17/22187490/twitter-spaces-test-voice-chat-rooms'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kxJFCXJKyoyS8FyqnZv2wCOlgjg=/0x0:681x383/1200x800/filters:focal(307x92:415x200)/cdn.vox-cdn.com/uploads/chorus_image/image/68526671/lizzie_mcguire_lizzie_and_gordo_photo_e1574211145930.0.jpg' width='700px' /><br/>
-The Lizzie McGuire Disney Plus series is officially dead, according to an Instagram post from Hilary Duff. The series was reportedly going to feature an adult Duff reprising her role as Lizzie in her 30s, navigating a career in New York, and dealing with more “adult” themes.
-<a href='https://www.theverge.com/2020/12/16/22179576/disney-plus-lizzie-mcguire-not-picked-up-hulu-hilary-duff'> Source <a/>

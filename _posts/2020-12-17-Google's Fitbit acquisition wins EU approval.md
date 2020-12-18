@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SeRC3vtLJkZimy81e-4v_feVATE=/0x0:4000x2668/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/68528744/20200919FitbitSense5.0.0.jpg' width='700px' /><br/>
-Google's acquisition of Fitbit is nearing completion now that the European Commission has approved the search giant's $2.1 billion takeover of the wearable tech company.
-<a href='https://www.theverge.com/2020/12/17/22158271/googles-fitbit-deal-eu-regulator-approval'> Source <a/>

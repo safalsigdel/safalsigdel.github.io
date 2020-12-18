@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rb-stCs8jnV8U8shr2vVnqBWhVo=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/68525622/maf_20200108_artemis_roll_out_dn_5673_0__1_.0.jpg' width='700px' /><br/>
-One of Canada's astronauts will be sent around the Moon as part of a partnership between NASA and the Canadian Space Agency (CSA), NASA announced today. The two organizations have formally agreed to collaborate on building a lunar space station called the Lunar Gateway. The Gateway is just one part of NASA's larger Artemis program, which is focused on landing a woman on the Moon by 2024.
-<a href='https://www.theverge.com/2020/12/16/22178698/nasa-artemis-ii-csa-gateway-non-american-crew-moon'> Source <a/>

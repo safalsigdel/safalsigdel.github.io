@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dQh7B9nYNDfuurnYznQvOU0lGeQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68543593/acastro_20200818_1777_epicApple_0003.0.0.jpg' width='700px' /><br/>
+The latest development in the ongoing lawsuit between Epic Games and Apple over the iPhone maker's App Store policies is a new order from Judge Thomas Hixson outlining rules for Apple CEO Tim Cook's planned testimony in the case, as well as whether software engineering chief Craig Federighi may have to participate in the case.
+<a href='https://www.theverge.com/2020/12/17/22187339/epic-apple-fortnite-lawsuit-testimony-tim-cook-craig-federighi'> Source <a/>

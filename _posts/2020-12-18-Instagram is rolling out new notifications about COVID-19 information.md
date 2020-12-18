@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1sjhJhMrwHeILe_YqAHC9LT49-g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68543591/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+Instagram is announcing two new features to help combat COVID-19 misinformation: users in areas with surging cases will see a link to their local health authority at the top of their feed and anyone searching for vaccine information will also be directed to credible health sources.
+<a href='https://www.theverge.com/2020/12/17/22187298/instagram-coronavirus-covid19-misinformation-notifications'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WR_j0UxRkAA3dYaIkIa-wanb9To=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68543347/vpavic_4261_20201023_0155.0.jpg' width='700px' /><br/>
+If you're still hoping to secure a PlayStation 5 or Xbox Series X / S before the end of the year, Walmart is giving you another shot to purchase one of these next-gen consoles. Today, the retailer confirmed that it would restock the consoles at 12PM PT / 3PM ET on December 17th.
+<a href='https://www.theverge.com/2020/12/17/22187287/ps5-xbox-series-x-s-restock-walmart-december-17-date-time'> Source <a/>

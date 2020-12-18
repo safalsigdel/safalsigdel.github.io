@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pEMA9aKjbnQPLh5ZQVrmONyKRYc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68544195/acastro_180413_1777_android_0001.0.jpg' width='700px' /><br/>
+Google plans to shut down Android Things, a stripped-down version of Android designed for smart home devices. The OS never really got off the ground, so this isn't all that much of a loss, but it is yet another entry in Google's expansive graveyard of shut-down projects.
+<a href='https://www.theverge.com/2020/12/17/22187547/google-android-things-shut-down-smart-home-iot'> Source <a/>

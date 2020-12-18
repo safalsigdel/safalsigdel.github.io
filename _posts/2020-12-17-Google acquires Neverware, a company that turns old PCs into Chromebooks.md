@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R1bUxtNQ8fmNe9KEjsujzVn-NfM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68525841/mchin_181029_4126_0006.0.0.jpg' width='700px' /><br/>
-Today, Neverware announced in an FAQ that it's now part of Google.
-<a href='https://www.theverge.com/2020/12/16/22179242/google-neverware-chromebook-laptops-chrome-os-software'> Source <a/>

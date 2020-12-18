@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PQKbFx-PCydfiJ3fhNM3uWVPIKY=/0x0:1200x1200/1200x800/filters:focal(509x90:701x282)/cdn.vox-cdn.com/uploads/chorus_image/image/68544015/video_image_53PZcZnf_.0.jpeg' width='700px' /><br/>
+Samsung's new Galaxy S21 line will come in several new colors, according to leaked press renders acquired by WinFuture. Based on the images, the new colors will include light purple / violet, gray, black, white, and rosy pink.
+<a href='https://www.theverge.com/2020/12/17/22187074/samsung-galaxy-s21-leaked-colors-plus-ultra'> Source <a/>

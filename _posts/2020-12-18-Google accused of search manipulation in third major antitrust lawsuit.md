@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lY4nP4V3Jy9TUHRhxA4eUiwWHqk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68542963/acastro_180508_1777_google_IO_0001.0.jpg' width='700px' /><br/>
+A coalition of 38 states filed an antitrust lawsuit against Google Thursday focusing on the design of the tech giant's search engine. It's the third major antitrust lawsuit filed against the search giant this year.
+<a href='https://www.theverge.com/2020/12/17/22186994/google-search-antitrust-lawsuit-colorado-nebraska-state-ags'> Source <a/>

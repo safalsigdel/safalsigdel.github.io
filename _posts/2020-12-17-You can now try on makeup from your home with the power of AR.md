@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CTVG_BLDZO3Ug4jtKAPZBJoSi7U=/0x0:1125x1704/1200x800/filters:focal(473x762:653x942)/cdn.vox-cdn.com/uploads/chorus_image/image/68528366/IMG_0322.0.jpg' width='700px' /><br/>
-Google's new shopping feature will let people virtually try on makeup, the company announced in a blog post. Another feature will show the products on various models.
-<a href='https://www.theverge.com/2020/12/17/22179667/google-feature-try-on-makeup-ar-lipstick-eyeshadow'> Source <a/>

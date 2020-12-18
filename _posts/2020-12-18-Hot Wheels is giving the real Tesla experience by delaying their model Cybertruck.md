@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1H4xbwcxqUxExvYwj6xwv8ETOVQ=/0x0:2048x2048/1200x800/filters:focal(852x365:1178x691)/cdn.vox-cdn.com/uploads/chorus_image/image/68545182/3___GXG31_W_20_Cybertruck_Large_476.0.jpg' width='700px' /><br/>
+If you've been waiting anxiously for your radio-controlled Cybertruck, you're going to have to wait a little longer: Mattel has had to delay it until May 2021, according to Bloomberg.
+<a href='https://www.theverge.com/2020/12/17/22187718/hot-wheels-tesla-cybertruck-delay-mattel'> Source <a/>

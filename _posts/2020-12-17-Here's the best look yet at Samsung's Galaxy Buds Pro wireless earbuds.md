@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IsptMvUuTaSfnwJdziKpz7H1hg8=/0x0:2500x1057/1200x0/filters:focal(0x0:2500x1057):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22177103/e31b969143b271229f5243aae0fc864fd5f050c10f701deba1a172fab2d354f7.jpeg' width='700px' /><br/>
-Samsung's Galaxy Buds Pro have leaked again, this time in a full 360-degree animation courtesy of Evan Blass. The latest @Evleaks drop gives us our best look yet at how Samsung's latest true wireless earbuds will look from every angle.
-<a href='https://www.theverge.com/2020/12/17/22180111/galaxy-buds-pro-360-view-samsung-wireless'> Source <a/>

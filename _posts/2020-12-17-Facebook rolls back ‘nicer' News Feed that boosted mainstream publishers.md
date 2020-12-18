@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a24r0I9iOaxgwrcgcbrW5Nrmn8s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68528915/mdoying_180118_2249_facebook_0445stills_3.0.jpg' width='700px' /><br/>
-Facebook has reversed a change to its News Feed algorithm that prioritized authoritative news sources, even though some employees asked that the “nicer” News Feed become permanent, according to The New York Times.
-<a href='https://www.theverge.com/2020/12/17/22180259/facebook-news-feed-change-post-election-publishers-misinformation'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l01Uj6PtDcxoI80bfYxEAXTfm6c=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/68527718/facebookeumessage.0.jpg' width='700px' /><br/>
-Facebook is notifying Messenger and Instagram users in Europe that some features are temporarily unavailable. A small message has appeared in both the Facebook Messenger and Instagram apps for European users this week, noting that some features aren't available to “respect new rules for messaging services in Europe.”
-<a href='https://www.theverge.com/2020/12/17/22180119/facebook-messenger-features-disabled-instagram-europe-prompt-eu'> Source <a/>
