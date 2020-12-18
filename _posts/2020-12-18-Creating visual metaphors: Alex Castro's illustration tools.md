@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-Lx4I2PlFf00ENl6_n3bgQgP-Z0=/0x0:1020x543/1200x800/filters:focal(429x191:591x353)/cdn.vox-cdn.com/uploads/chorus_image/image/68547253/photoshop_gfx_06.0.png' width='700px' /><br/>
+While The Verge is a place where stories are told, they wouldn't be nearly as interesting if it weren't for the artwork that accompanies them. Alex Castro is the illustrator for The Verge, and he is the best person to describe how his work complements our reporting.
+<a href='https://www.theverge.com/22168212/verge-illustrator-news-illustrations-images-art-tools-photoshop'> Source <a/>
