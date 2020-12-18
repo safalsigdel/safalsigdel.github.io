@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fEpl_IblPgELFP1SegR0VRrCHhc=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68548895/Cyberpunk2077_No_Future_RGB.0.jpg' width='700px' /><br/>
+Microsoft says it's now offering Cyberpunk 2077 refunds to anyone who has purchased the game via its Microsoft Store. While the company has been offering refunds to some customers already, Microsoft is now expanding this to cover anyone who has purchased the game digitally.
+<a href='https://www.theverge.com/2020/12/18/22189059/microsoft-cyberpunk-2077-refunds-xbox-microsoft-store'> Source <a/>
