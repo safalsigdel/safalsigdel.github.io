@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KwBvMB5nt3Qw6C7GqhaDUDyyl6k=/0x0:3840x1610/1200x800/filters:focal(1613x498:2227x1112)/cdn.vox-cdn.com/uploads/chorus_image/image/68547050/HUC2_FF_003990_R.0.jpg' width='700px' /><br/>
+After years of speculation about whether Boba Fett would get his own spinoff of some kind, The Mandalorian's season 2 finale confirmed that a Boba Fett series will hit Disney Plus in December 2021.
+<a href='https://www.theverge.com/2020/12/18/22188516/boba-fett-disney-plus-show-2021-release-date-mandalorian-finale'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LpdtOD_Fx03bKFbFsKj-HXtYr00=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/68532707/A51A1055__1_.0.jpg' width='700px' /><br/>
-Spin, the electric scooter company owned by Ford, says it has a novel solution to the problem of sidewalk clutter and scofflaw riders. The company is teaming up with an IoT startup called Drover AI to add cameras, sensor arrays, and onboard computers to all of their scooters in the hopes of curbing improper parking and riding behavior by customers.
-<a href='https://www.theverge.com/2020/12/17/22178595/spin-scooter-drover-ai-parking-riding-nyc'> Source <a/>
