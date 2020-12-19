@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yj4uQnqHWCsLpn4mMCvB4-o61qk=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68549521/Cyberpunk_2077_screen_8.0.jpg' width='700px' /><br/>
+Best Buy has joined the list of retailers offering returns for copies of Cyberpunk 2077, with the company announcing (in a forum post) that it'll be accepting returns through December 21st.
+<a href='https://www.theverge.com/2020/12/18/22189238/best-buy-cyberpunk-2077-returns-cd-projekt-red-refund-xbox-one-ps4'> Source <a/>

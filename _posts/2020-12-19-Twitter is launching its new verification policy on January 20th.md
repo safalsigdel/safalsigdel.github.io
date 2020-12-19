@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T6yNT4AesLp6fspiWyXc_NaDrgs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68544025/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
-Twitter's revamped verification policy is launching on January 20th, 2021, after Twitter pressed pause on the formal application process for more than three years. The new policy was refined with input from tens of thousands of user responses after Twitter confirmed in November it would be relaunching verification next year.
-<a href='https://www.theverge.com/2020/12/17/22187477/twitter-verification-badge-blue-checkmark-relaunch-process-new-rules'> Source <a/>

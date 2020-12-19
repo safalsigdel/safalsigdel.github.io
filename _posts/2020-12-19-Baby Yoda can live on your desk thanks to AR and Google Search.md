@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Google has added Grogu (formerly Baby Yoda) to its augmented reality search results, so some quick typing can drop an AR version of the little guy straight into your bedroom or home office, no spaceship required.
-<a href='https://www.theverge.com/tldr/2020/12/17/22187717/baby-yoda-google-search-ar-star-wars-grogu-the-child'> Source <a/>

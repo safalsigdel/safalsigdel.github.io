@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YKLL7LeJcp3gSynOHW0asnfFeuA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68545710/acastro_180507_1777_microsoft_0003.0.jpg' width='700px' /><br/>
-Microsoft president Brad Smith warned that the wide-ranging hack of the SolarWinds' Orion IT software is “ongoing,” and that investigations reveal “an attack that is remarkable for its scope, sophistication and impact.” The breach targeted several US government agencies and is believed to have been carried out by Russian nation-state hackers.
-<a href='https://www.theverge.com/2020/12/17/22188060/microsoft-president-solarwinds-orion-hack-breach-brad-smith'> Source <a/>

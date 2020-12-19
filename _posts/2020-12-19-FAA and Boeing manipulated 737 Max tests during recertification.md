@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wizDQplA1xEiRTtgLuFo0VCFnPg=/0x0:4478x3111/1200x800/filters:focal(1881x1198:2597x1914)/cdn.vox-cdn.com/uploads/chorus_image/image/68551031/1228808006.0.jpg' width='700px' /><br/>
+Boeing and the Federal Aviation Administration (FAA) worked together to manipulate 737 Max recertification tests following two fatal crashes in 2018 and 2019, according to a damning new Senate report. Boeing “inappropriately coached” some FAA test pilots to reach a desired outcome during the recertification tests, and some were even performed on simulators that weren't equipped to re-create the same conditions as the crashes.
+<a href='https://www.theverge.com/2020/12/18/22189609/faa-boeing-737-max-senate-report-coverup-tests-whistleblowers'> Source <a/>

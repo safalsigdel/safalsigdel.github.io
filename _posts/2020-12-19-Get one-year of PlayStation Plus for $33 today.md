@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2efIcZ30R_KJNKysD0fEeawiQLo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68528953/vpavic_4261_20201023_0104.0.jpg' width='700px' /><br/>
-I always enjoy this time of the year. Usually, I take some time off of work and use it as a golden opportunity to tackle my ever-growing backlog of games. With the year wrapping up and a ton of great games already available (and even more coming over the next few years), it's truly a great time to be a gamer.
-<a href='https://www.theverge.com/good-deals/2020/12/17/22180232/playstation-plus-two-year-membership-ps4-ps5-airpods-pro-deal-sale'> Source <a/>

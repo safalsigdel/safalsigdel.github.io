@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jOAEwTefaduriWyrhgRlZzljVkY=/0x0:5120x2880/1200x800/filters:focal(2569x1058:3387x1876)/cdn.vox-cdn.com/uploads/chorus_image/image/68549595/1225293625.0.jpg' width='700px' /><br/>
+Hulu has ordered a new reality series based around TikTok's royal family — Charli, Dixie, Marc, and Heidi D'Amelio — seemingly hoping to capture a little bit of what Keeping Up with the Kardashians did for E! back in 2007.
+<a href='https://www.theverge.com/2020/12/18/22189180/charli-damelio-dixie-hulu-reality-series-documentary-tiktok-kardashians'> Source <a/>

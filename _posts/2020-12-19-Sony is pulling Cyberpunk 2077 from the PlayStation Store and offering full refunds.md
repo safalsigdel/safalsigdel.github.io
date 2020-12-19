@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z1tHfCykT0zpA88G_YecqmTwZdw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68545500/pu15d4e891d784977cacbfcbb00c48f133_1603729915_6192392_screenshot_original.0.jpg' width='700px' /><br/>
-Sony is pulling Cyberpunk 2077 from the PlayStation Store and offering full refunds for anyone who bought the game from the digital storefront, the company said on Thursday. If you want to start the refund process now, Sony says to visit this site and sign into your PlayStation account to submit a request.
-<a href='https://www.theverge.com/2020/12/17/22188007/sony-cyberpunk-2077-removed-playstation-store-full-refunds-policy'> Source <a/>

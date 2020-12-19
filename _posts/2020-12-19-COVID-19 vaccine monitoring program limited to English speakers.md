@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GHHuVStS8FYGLe55TkeRwjT-92I=/0x0:3000x2183/1200x800/filters:focal(1260x852:1740x1332)/cdn.vox-cdn.com/uploads/chorus_image/image/68544132/1291821134.0.jpg' width='700px' /><br/>
-A text message program designed to track side effects in COVID-19 vaccine recipients is currently only available in English, which could limit the data it is able to collect.
-<a href='https://www.theverge.com/2020/12/17/22187543/covid-coronavirus-vaccine-vsafe-cdc-language-safety-data'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nUtXMfepdm6yff0a3m8PoqXFlTE=/0x0:3600x2400/1200x675/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/68547089/SCEF_Unit_06181R.0.jpg' width='700px' /><br/>
-If you were on social media — any social media — in 2020, you probably saw a video of Sarah Cooper lip-syncing to President Donald Trump's public appearances. And while her early videos were made using TikTok, they migrated to Twitter, Instagram, and YouTube. As the year ends, Cooper has a Netflix special called Everything's Fine under her belt and is developing TV shows.
-<a href='https://www.theverge.com/22160107/sarah-cooper-2020-trump-lip-sync-netflix-tiktok'> Source <a/>
