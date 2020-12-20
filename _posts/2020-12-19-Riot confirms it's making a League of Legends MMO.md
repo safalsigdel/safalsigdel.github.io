@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3muI8Rwn60Q2sSnnbxGeJwlHdQ0=/0x0:1920x1305/1200x800/filters:focal(807x500:1113x806)/cdn.vox-cdn.com/uploads/chorus_image/image/68549007/patch_10_25_banner.0.jpg' width='700px' /><br/>
-League of Legends developer Riot Games is working on a massively multiplayer online (MMO) roleplaying game in the League universe, Riot's VP of IP and entertainment, Greg Street, tweeted on Thursday.
-<a href='https://www.theverge.com/2020/12/18/22187980/riot-games-league-of-legends-mmo-greg-street'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hDXXQmF5c1S2r20DXXDrKZesCZ4=/0x0:2910x2130/1200x800/filters:focal(1102x744:1566x1208)/cdn.vox-cdn.com/uploads/chorus_image/image/68554428/1074649268.0.jpg' width='700px' /><br/>
+“Alexa, play the Queen's Christmas Day message” will soon be a thing — even if you don't live in the UK. Starting December 25th at 3PM GMT (or 10AM ET, 7AM PT), that phrase will deliver the Queen's traditional Christmas Day broadcast, according to The Guardian.
+<a href='https://www.theverge.com/2020/12/19/22190965/amazon-alexa-echo-uk-queen-elizabeth'> Source <a/>

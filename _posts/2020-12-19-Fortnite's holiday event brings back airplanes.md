@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hIFkCCNIC6W9spGsBOFBuUsV6Bg=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22182372/fortnite_holiday_outfits_1920x1080_1f6b8460b369.jpg' width='700px' /><br/>
-Fortnite's annual holiday event is back, and this time, it brings a surprise: the return of airplanes. “Operation Snowdown,” as it's called, lasts from December 18th to January 5th, and it adds the expected to the game, including a snowy map and free unlockables like a soldier snowman called Snowmando. Everyone who logs in before January 5th will also get a free caroling emote.
-<a href='https://www.theverge.com/2020/12/18/22188808/fortnite-operation-snowdown-holiday-event-2020-airplanes'> Source <a/>
