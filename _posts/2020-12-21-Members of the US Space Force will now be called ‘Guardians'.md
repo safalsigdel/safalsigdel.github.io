@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/0q-7qQdRJVfhX-F1xK4b6GyyFy0=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/68551474/SpaceForce_Guardians.0.jpeg' width='700px' /><br/>
 Members of the United States Space Force will officially be called “Guardians”, according to an announcement Vice President Mike Pence made at an event celebrating the military branch's one year anniversary.
+<a href='https://www.theverge.com/2020/12/18/22189637/space-force-military-branch-official-name-guardians'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/0q-7qQdRJVfhX-F1xK4b6GyyFy0=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/68551474/SpaceForce_Guardians.0.jpeg' width='700px' /><br/>
+Members of the United States Space Force will officially be called “Guardians”, according to an announcement Vice President Mike Pence made at an event celebrating the military branch's one year anniversary.
 <a href='https://www.theverge.com/2020/12/18/22189637/space-force-military-branch-official-name-guardians'> Source <a/>
