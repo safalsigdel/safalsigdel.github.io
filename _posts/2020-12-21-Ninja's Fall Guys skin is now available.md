@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7BF-ZW3FgTKBkPrY4CI1Cto6ztE=/0x0:2732x1536/1200x800/filters:focal(1489x674:1925x1110)/cdn.vox-cdn.com/uploads/chorus_image/image/68556948/EpmxqCKXEAEN0h1.0.jpeg' width='700px' /><br/>
+Fall Guys developer Mediatonic has added a skin based on the hugely-popular streamer Tyler “Ninja” Blevins to the game. The skin's arrival follows a two-week charity bidding war in August to have a custom skin added to the game. Blevins, G2 Esports, Aim Lab, and Jimmy “MrBeast” Donaldson pledged a combined $1 million to Special Effect, which helps people with physical disabilities find ways to play video games.
+<a href='https://www.theverge.com/2020/12/20/22191951/fall-guys-ninja-skin-now-available-mediatonic-crowns-charity'> Source <a/>
