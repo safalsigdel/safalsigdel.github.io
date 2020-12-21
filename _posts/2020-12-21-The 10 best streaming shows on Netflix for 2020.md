@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s_XzHGXd4ofmHt7PY3qLsJclZYo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68559725/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
+The year 2020 likely kept many of us inside for most of it, and it looks like that situation may last at least into part of 2021. One of the few positives is that many great movies and TV shows were released on streaming services such as Netflix. The streaming service has made available a plethora of movies and TV shows, some original to Netflix.
+<a href='https://www.theverge.com/22175140/best-netflix-shows-2020-streaming-recommendations-tv'> Source <a/>
