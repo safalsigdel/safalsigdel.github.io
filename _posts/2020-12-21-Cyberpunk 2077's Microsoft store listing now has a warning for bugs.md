@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e7SED0uJuJRViDgAjtFDf1kdem8=/81x273:976x892/1200x800/filters:focal(441x501:607x667)/cdn.vox-cdn.com/uploads/chorus_image/image/68551642/Screen_Shot_2020_12_18_at_5.29.06_PM.0.png' width='700px' /><br/>
+Cyberpunk 2077's listing on Microsoft's digital games store now includes a label warning of potential performance issues on Xbox One. “Users may experience performance issues when playing this game on Xbox One consoles until this game is updated,” the warning reads.
+<a href='https://www.theverge.com/2020/12/18/22189918/cyberpunk-2077-microsoft-store-listing-warning-label'> Source <a/>
