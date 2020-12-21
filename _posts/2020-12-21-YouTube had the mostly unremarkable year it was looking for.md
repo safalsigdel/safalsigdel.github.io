@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LNBCddkwGIVSrTGlY0Hj8_oJKrY=/0x0:3000x2000/1200x800/filters:focal(1230x654:1710x1134)/cdn.vox-cdn.com/uploads/chorus_image/image/68553447/528526206.0.jpg' width='700px' /><br/>
-YouTube started the last few years off with nothing short of catastrophic headlines about some of its creators.
-<a href='https://www.theverge.com/22170469/youtube-creators-2020-jake-paul-jenna-marbles-shane-dawson-jeffree-star-tiktok-controversy'> Source <a/>
