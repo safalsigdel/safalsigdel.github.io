@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3SVNrhHG8hkSaNxQUxDErSuEcFI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68553239/acastro_191108_3782_blackfriday_guidebook_0001.0.jpg' width='700px' /><br/>
+The holidays can be overwhelming — even during years like this one when most of us aren't actually traveling to visit family and friends. If buying gifts is still looming on your to-do list, you certainly aren't alone. It's tough to find the right kind of gift for everyone, especially people who have an affinity for tech. That's where we come in.
+<a href='https://www.theverge.com/2020/12/19/22188791/tech-deals-sales-sony-earbuds-headphones-games-ps-plus-switch'> Source <a/>

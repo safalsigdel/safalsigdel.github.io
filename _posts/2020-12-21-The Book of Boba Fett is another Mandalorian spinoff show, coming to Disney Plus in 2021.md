@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5DONM60XTjtm2BeSVxAJIcXSSGs=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/68547050/boba_fett.6.jpeg' width='700px' /><br/>
+After years of speculation about whether Boba Fett would get his own spinoff of some kind, The Mandalorian's season 2 finale confirmed that a new Boba Fett series, titled The Book of Boba Fett, will hit Disney Plus in December 2021.
+<a href='https://www.theverge.com/2020/12/18/22188516/boba-fett-disney-plus-show-2021-release-date-mandalorian-finale'> Source <a/>
