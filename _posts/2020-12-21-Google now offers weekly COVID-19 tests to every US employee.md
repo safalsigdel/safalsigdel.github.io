@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/573UHwMWUd9TP-yj0ukzOqSWLYU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68551384/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-90,000 Google employees have just received access to free weekly COVID tests. The Wall Street Journal first reported the news that every US Google employee (and its subsidiaries, including YouTube) will be eligible to sign up for a free at-home test. This differs from other companies, like Amazon, which are only offering tests to employees who still have to work in a physical location, like a retail location or warehouse.
-<a href='https://www.theverge.com/2020/12/18/22189653/google-employee-covid-testing-free'> Source <a/>
