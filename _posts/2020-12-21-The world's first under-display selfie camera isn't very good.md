@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zoVGRDswtMkvs-aacCfVdET36FQ=/0x0:2040x1148/1200x675/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/68559013/DSCF7475.0.jpg' width='700px' /><br/>
+In a perfect world, everything would fit under the surface of smartphone displays. That's been the principle behind the past few years of phone design, at least, ever since the iPhone X escalated the bezel wars with its conspicuous notch. From in-display fingerprint sensors to pop-up selfie cameras, we've seen phone manufacturers take creative approaches to achieving the highest possible screen-to-body ratio.
+<a href='https://www.theverge.com/2020/12/21/22191459/zte-axon-20-5g-under-display-camera-hands-on'> Source <a/>
