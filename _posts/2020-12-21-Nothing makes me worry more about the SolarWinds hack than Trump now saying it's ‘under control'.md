@@ -1,0 +1,5 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9-Q3m9V5Y9suzx9fBPZrxqyPonE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68553938/acastro_170621_1777_0006_v4.0.jpg' width='700px' /><br/>
+“We have it totally under control. It's one person coming in from China. We have it under control. It's going to be just fine.” — President Donald Trump on COVID-19, January 22nd, 2020.
+<a href='https://www.theverge.com/2020/12/19/22190698/trump-downplay-solarwinds-hack-russia-china-mike-pompeo'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/9-Q3m9V5Y9suzx9fBPZrxqyPonE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68553938/acastro_170621_1777_0006_v4.0.jpg' width='700px' /><br/>
+“We have it totally under control. It's one person coming in from China. We have it under control. It's going to be just fine.” — President Donald Trump on COVID-19, January 22nd, 2020.
+<a href='https://www.theverge.com/2020/12/19/22190698/trump-downplay-solarwinds-hack-russia-china-mike-pompeo'> Source <a/>
