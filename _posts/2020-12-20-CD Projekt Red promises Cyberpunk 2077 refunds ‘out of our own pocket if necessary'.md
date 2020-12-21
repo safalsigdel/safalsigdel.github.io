@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5B1bd15FE8mQb9l7wSDk9J1Y328=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/68549828/screen_image_about_b_40a8febe.5.jpg' width='700px' /><br/>
-CD Projekt Red (CDPR) has issued yet another statement regarding the ongoing Cyberpunk 2077 debacle, this time clarifying its stance on retail refunds for the PlayStation 4 and Xbox One versions of the game that have been riddled with bugs and performance issues since launch last week. The developer now says it will honor every refund request it receives between now and December 21st out of its own pocket.
-<a href='https://www.theverge.com/2020/12/18/22189322/cyberpunk-2077-refund-cd-projekt-red-ps4-xbox-one'> Source <a/>
