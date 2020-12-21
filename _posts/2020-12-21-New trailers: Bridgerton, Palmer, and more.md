@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KPS50TP9kNrbTGRnvyeEgjN4zlo=/231x61:1634x1007/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68557466/Screen_Shot_2020_12_20_at_1.34.44_PM.0.png' width='700px' /><br/>
-Hi, I'm Jay! I'm subbing in for your usual trailers guide Kim Lyons while she takes a well-deserved holiday break. I've really been looking forward to writing this post. Trailers are fun! They're like bite-sized movies.
-<a href='https://www.theverge.com/2020/12/20/22192050/new-trailers-bridgerton-palmer-netflix-apple-tv-plus'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rQgSdbpRDUgnsuDnsQ390XukrTQ=/0x0:5908x3939/1200x800/filters:focal(1898x1356:2842x2300)/cdn.vox-cdn.com/uploads/chorus_image/image/68556777/1292266593.0.jpg' width='700px' /><br/>
-An algorithm determining which Stanford Medicine employees would receive its 5,000 initial doses of the COVID-19 vaccine included just seven medical residents / fellows on the list, according to a December 17th letter sent from Stanford Medicine's chief resident council. Stanford Medicine leadership has since apologized and promised to re-evaluate the plan.
-<a href='https://www.theverge.com/2020/12/20/22191749/stanford-medicine-covid-19-vaccine-distribution-list-algorithm-medical-residents'> Source <a/>
