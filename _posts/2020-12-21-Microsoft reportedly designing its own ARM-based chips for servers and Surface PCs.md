@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zI5MqWrZwJ5U1J9mZ7tGFXm9cR4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68550256/akrales_190930_3682_0030.0.jpg' width='700px' /><br/>
-Microsoft is designing its own ARM-based processors for servers and possibly a future Surface device, according to Bloomberg News. The processors will be used in servers for Microsoft's Azure cloud services and be based around ARM designs, according to the report. Microsoft is also reportedly “exploring” using another chip for some of its Surface devices, but it's not clear if this will progress into a final product.
-<a href='https://www.theverge.com/2020/12/18/22189450/microsoft-arm-processors-chips-servers-surface-report'> Source <a/>
