@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/itCIZNeGGl5k2RytM-77WtwYBbU=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68566404/DayandNight.0.jpg' width='700px' /><br/>
+Microsoft Flight Simulator has always been about making you feel like a pilot, but you've never been able to experience it in VR — until today. With today's free update, Asobo Studio has added support for OpenXR-compatible headsets, which include Windows Mixed Reality headsets as well as the Valve Index, HTC Vive, and the Oculus Rift and Oculus Quest (if you use a Link cable).
+<a href='https://www.theverge.com/2020/12/22/22194274/microsoft-flight-simulator-update-vr-xbox-announcement'> Source <a/>
