@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UXPjz2-gIBOut8JzIlPi5H0e8q8=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68565897/Ep1fFYOXcAArC6F.0.jpeg' width='700px' /><br/>
+Sony's latest PlayStation 5 update seems to have fixed one of the biggest issues with cross-gen games on the console: making it clearer when players have the PlayStation 4 version of a game installed and notifying them when there's a PS5 version available to download.
+<a href='https://www.theverge.com/2020/12/22/22194995/sony-ps5-update-cross-gen-playstation-5-ps4-notification'> Source <a/>
