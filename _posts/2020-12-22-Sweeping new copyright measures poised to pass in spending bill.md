@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q-3Q8ZvWndiK6Af5wvS98yyPySA=/0x0:4100x2733/1200x800/filters:focal(1722x1039:2378x1695)/cdn.vox-cdn.com/uploads/chorus_image/image/68562462/1292321546.0.jpg' width='700px' /><br/>
+On Monday, congressional leaders unveiled their massive spending and coronavirus relief measure, including a handful of controversial copyright measures civil liberties activists fear could penalize internet users for everyday online behavior. Congress is expected to vote on the package as early as Monday.
+<a href='https://www.theverge.com/2020/12/21/22193976/covid-relief-spending-congress-copyright-case-act-felony-streaming'> Source <a/>

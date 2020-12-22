@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j-V9c-T2JZUJkPwhI5FuM32GxeI=/0x0:2500x1216/1200x800/filters:focal(1050x408:1450x808)/cdn.vox-cdn.com/uploads/chorus_image/image/68562780/17a1cca82fdaa085e6a7da0895a7b6855c33cd7b5943c466b0f539c1b260d8b4.0.jpeg' width='700px' /><br/>
+Samsung's upcoming Galaxy Chromebook 2 has been revealed in a new leak, showing off the return of the company's unique bright orange coloring in an otherwise similar-looking design, via Evan Blass.
+<a href='https://www.theverge.com/2020/12/21/22194081/samsung-leaked-galaxy-chromebook-2-orange-color-ces-2021'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zo3ovo_MIX6NIVFGl5Kh4Ym0teg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68562293/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
+T-Mobile has been asked to stop advertising its 5G network as more reliable than the competition by the National Advertising Review Board (NARB), which investigated T-Mobile's claims made primarily in an ad featuring celebrity scientist Bill Nye after complaints from Verizon earlier this year.
+<a href='https://www.theverge.com/2020/12/21/22193839/tmobile-5g-reliability-claims-verizon-competition-nad'> Source <a/>
