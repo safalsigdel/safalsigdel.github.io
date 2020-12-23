@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2yAPfRHbFknyI0YCjF_27JBPpM8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68565587/acastro_190411_1777_Disney_Streaming_0001.0.0.jpg' width='700px' /><br/>
-The year 2020 was when most of us went from going out with loved ones to exchanging recommendations on what type of TV show or movie to stream next. One way to suit everyone's taste — kids, adults, and sports fans — is to try the Disney Bundle, a streaming pack that consists of Disney Plus, ESPN Plus, and Hulu.
-<a href='https://www.theverge.com/22178393/disney-plus-hulu-espn-plus-best-shows-movies-recommendations'> Source <a/>
