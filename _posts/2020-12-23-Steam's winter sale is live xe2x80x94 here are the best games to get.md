@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u4igXhc0JxezGctbbrdUY6jKZs8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68569258/ss_b2b6b170330b8af1f50d0e90efad984adafeb281.0.jpg' width='700px' /><br/>
+Steam's annual winter sale is live. If you've been meaning to buy some games, either for yourself or as a gift for upcoming holidays, now's the time to take a look around. There are thousands of games up for sale in the Steam Store (and you can vote for the 2020 Steam Awards while you're there).
+<a href='https://www.theverge.com/22195836/steam-winter-sale-deals-epic-games-store-halo-control-hades-borderlands'> Source <a/>

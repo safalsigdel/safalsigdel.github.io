@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8vp2Cos6dkWLXA-8_2FypGPn5BY=/0x0:1366x768/1200x800/filters:focal(0x349:218x567)/cdn.vox-cdn.com/uploads/chorus_image/image/68559408/8T_concept_KV_16_9.0.jpg' width='700px' /><br/>
-OnePlus has a new concept phone to show off, which is its way of teasing tech that maybe, just maybe, might make it into one of the company's future phones. The OnePlus 8T Concept is a similar phone to the OnePlus 8T that was released a couple months ago, but it's got a pretty unique rear design that changes color alongside a motion-tracking radar module.
-<a href='https://www.theverge.com/2020/12/21/22189219/oneplus-8t-concept-color-changing-back-motion-sensing-radar'> Source <a/>

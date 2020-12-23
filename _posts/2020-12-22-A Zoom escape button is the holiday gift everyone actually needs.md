@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-The worst part of most Zoom meetings is the end. Not because it's the moment when we have to lose human connection after being isolated for months during the COVID-19 pandemic. The end of a Zoom meeting is the worst because it's so dang hard to quickly and gracefully end a call.
-<a href='https://www.theverge.com/tldr/22193417/zoom-escape-button-holiday-gift-brian-moore-cord-github'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZBTBJZnINyrGuykwAXYgiGuodlQ=/0x0:2040x1360/1200x800/filters:focal(872x749:1198x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/68568771/mdoying_180411_2466_0050stills.0.jpg' width='700px' /><br/>
+Amazon's near-total e-commerce dominance is now the subject of regulatory scrutiny, and a new investigation from The Wall Street Journal provides an excellent and exhaustive look at how far the tech giant has been willing to go to make its “everything store” live up to the name.
+<a href='https://www.theverge.com/2020/12/22/22195719/amazon-antitrust-wsj-investigation-competition-marketplace-sellers'> Source <a/>
