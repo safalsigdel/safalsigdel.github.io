@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N1tdZM1bnCInZHuoVSTCml0EYcY=/0x0:2040x1360/1200x800/filters:focal(1088x433:1414x759)/cdn.vox-cdn.com/uploads/chorus_image/image/68565675/akrales_201211_4321_0026.0.0.jpg' width='700px' /><br/>
-The microwave is a cooking tool designed around precision. Punch in how long you need your food to heat up in a microwave, and that's what it will do; no more, and no less.
-<a href='https://www.theverge.com/22174945/microwave-30-second-button-digital-analog-cooking-food-design'> Source <a/>
