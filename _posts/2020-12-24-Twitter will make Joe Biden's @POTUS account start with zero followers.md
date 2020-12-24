@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wgw03_9_QVbEktLkex5v9yEQkIY=/0x0:4461x2974/1200x800/filters:focal(1753x782:2465x1494)/cdn.vox-cdn.com/uploads/chorus_image/image/68568164/1230220167.0.jpg' width='700px' /><br/>
-President Biden is going to need some Twitter followers. Twitter plans to wipe out all followers from the @POTUS and @WhiteHouse accounts once Biden is sworn in on January 20th, rather than transferring the accounts' existing followers over to the new administration, according to Rob Flaherty, Biden's digital director.
-<a href='https://www.theverge.com/2020/12/22/22195713/twitter-biden-reset-accounts-trump-potus-whitehouse'> Source <a/>
