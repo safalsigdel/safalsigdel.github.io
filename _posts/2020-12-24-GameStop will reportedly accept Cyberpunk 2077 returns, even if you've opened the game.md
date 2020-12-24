@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L1vV1sR8xNcjZawNN2KIRc6GwVw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68567226/Cyberpunk2077_Power_in_your_hands_RGB_en.0.jpg' width='700px' /><br/>
-GameStop reportedly sent a memo to employees telling them to accept returns of Cyberpunk 2077, even in the event the physical game box has already been opened, according to Kotaku and Vice reporter Patrick Klepek. GameStop's return policy typically doesn't let you return opened games, but GameStop seems to be making an exception for Cyberpunk 2077 after its buggy launch.
-<a href='https://www.theverge.com/2020/12/22/22195420/gamestop-cyberpunk-2077-returns-even-if-opened'> Source <a/>

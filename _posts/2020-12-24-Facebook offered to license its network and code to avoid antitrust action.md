@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ufm21XMRe6aN75Z8HDw51jVvWeI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68567989/acastro_180406_1777_facebook_Congress_0001.0.jpg' width='700px' /><br/>
-In the wake of the groundbreaking Federal Trade Commission lawsuit against Facebook, The Washington Post is reporting new details of the company's negotiations with regulators in the run-up to the case, including an unusual offer to license its code and network to competitors.
-<a href='https://www.theverge.com/2020/12/22/22195259/facebook-code-license-ftc-antitrust-google-deal-sandberg'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZGJwwKIfCIoYkZUcLLUSp_PyDp8=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/68567804/1229890894.0.jpg' width='700px' /><br/>
-Yes, Congress approved a new bill Monday that would classify illegal streaming as a felony offense, but the feds won't be going after your favorite Twitch streamers, YouTubers, or their subscribers. They're more interested in services dedicated to streaming pirated content.
-<a href='https://www.theverge.com/2020/12/22/22195658/felony-streaming-tillis-youtube-twitch-content-creator-copyright-dmca'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P224EU35r3TvZGMfvvc8QLLxEHU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68565911/acastro_201216_4345_bestOfApps_0001.0.jpg' width='700px' /><br/>
-While it's really great to get a new tech device — a phone, a laptop, a game console, a Kindle, or a TV — as a gift, it's even cooler to start working or playing with it. But where to begin?
-<a href='https://www.theverge.com/22167508/best-2020-new-apps-games-entertainment-tv-top-list-recommendations'> Source <a/>

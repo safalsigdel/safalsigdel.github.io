@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rWL96ovMScUN3skLIrQKKP7RtFs=/0x0:537x302/1200x800/filters:focal(227x109:311x193)/cdn.vox-cdn.com/uploads/chorus_image/image/68565957/image001.0.png' width='700px' /><br/>
-Vimeo is being spun off into a standalone public company as the video streaming site sees rapid growth brought on by the pandemic. Since shortly after its founding, Vimeo has been owned by IAC, the enormous tech and media holding company behind Angie's List, Ask, Dotdash (formerly About.com), and, until recently, the dating app juggernaut Match Group.
-<a href='https://www.theverge.com/2020/12/22/22195072/vimeo-iac-2021-independent-public-company-video-streaming'> Source <a/>
