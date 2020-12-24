@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/439nU1eareu5WqqavwtbHL4WS-Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68568803/elon_musk_tesla_3225.0.jpg' width='700px' /><br/>
-Elon Musk said Tuesday that he wanted to sell Tesla to Apple during the “darkest days” of the Model 3 rollout but that CEO Tim Cook “refused” to take the meeting.
-<a href='https://www.theverge.com/2020/12/22/22195959/elon-musk-tesla-tim-cook-apple-sale-meeting-acquisition-refused'> Source <a/>
