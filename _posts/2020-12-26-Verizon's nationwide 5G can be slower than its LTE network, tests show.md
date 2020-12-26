@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DgaK8pyI-5Neu65cYIXjia6K0XM=/0x0:2040x1360/1200x800/filters:focal(620x707:946x1033)/cdn.vox-cdn.com/uploads/chorus_image/image/68569333/vzw-042.0.0.jpg' width='700px' /><br/>
-Verizon's new nationwide 5G network is reportedly slower than its LTE network, to the point that users are apparently better off just disabling 5G entirely unless they're near a mmWave network. The results come from testing done by PC Magazine's Sascha Sagan, who points to Dynamic Spectrum Sharing, or DSS, as the culprit.
-<a href='https://www.theverge.com/2020/12/22/22196060/verizon-5g-slower-than-lte-speed-test'> Source <a/>
