@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/07N61rnPGB0-wDPBtqeVhC2RFWM=/0x0:2048x858/1200x800/filters:focal(1069x254:1395x580)/cdn.vox-cdn.com/uploads/chorus_image/image/68569502/Spider_Swing.0.jpg' width='700px' /><br/>
-Sony Pictures saw a “bit of a boom” in interest from Hollywood creatives who want to work with a studio committed to theatrical releases, according to the company's CEO.
-<a href='https://www.theverge.com/2020/12/22/22195963/sony-warnermedia-hbo-max-streaming-disney-plus-theatrical-releases-hollywood'> Source <a/>
