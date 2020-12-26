@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jpZc6x35iC_hy4XBw_FIX9E5jBs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68569423/vpavic_4112_20200721_0052.0.jpg' width='700px' /><br/>
-OnePlus will finally be making a smartwatch in 2021, CEO Pete Lau has announced on Twitter, marking the first foray into wearable devices for the smartphone company. There's not many details yet on the upcoming device,  including what smartwatch OS it'll run, a price, or even a firm release date — Lau only notes that it'll be “released early next year.”
-<a href='https://www.theverge.com/2020/12/22/22196180/oneplus-smartwatch-2021-announcement-release-date-pete-lau-wearable'> Source <a/>
