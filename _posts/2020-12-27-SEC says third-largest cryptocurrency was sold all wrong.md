@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aIGXC5lvmFVZJhkYrJZaS6tov0k=/0x0:2040x1360/1200x800/filters:focal(1315x425:1641x751)/cdn.vox-cdn.com/uploads/chorus_image/image/68569792/acastro_1901001_3701_indieGameDevs_still.0.jpg' width='700px' /><br/>
-Ripple, its former CEO and founder Christian Larsen, and its current CEO Bradley Garlinghouse are being sued by the US Securities and Exchange Commission. The SEC says that they raised more than $1.3 billion through an unregistered securities offering.
-<a href='https://www.theverge.com/2020/12/22/22196064/ripple-sec-cryptocurrency-security-currency-xrp'> Source <a/>
