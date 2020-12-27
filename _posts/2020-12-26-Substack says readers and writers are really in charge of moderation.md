@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/el--Ig16rNNbt-oWupMAYaGED4Y=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/68569678/Untitled_1.0.jpg' width='700px' /><br/>
-Substack plans to take a “hands-off approach” to determining who can use its newsletter platform and “resist public pressure” to remove writers seen by some as “unacceptable.” In a blog post this afternoon, the company outlined a relatively lax content moderation policy designed to let writers know they won't be removed from the platform as long as they comply with basic rules.
-<a href='https://www.theverge.com/2020/12/22/22196035/substack-moderation-policy-detailed'> Source <a/>

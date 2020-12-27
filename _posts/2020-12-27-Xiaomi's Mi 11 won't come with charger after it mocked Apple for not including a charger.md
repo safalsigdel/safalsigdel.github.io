@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LYMDRGxhCTVDLE6dT5Dcs5AcL8k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68582608/vlad-savov-computex-usb-c-2.0.0.jpg' width='700px' /><br/>
+Lei Jun, the CEO of Chinese phone maker Xiaomi, has confirmed that its upcoming Mi 11 phone will not come with a charger, citing environmental concerns. While that's a legitimate argument against providing yet another hunk of plastic that resembles all the other chargers people already have, Xiaomi joined other phone makers who poked fun at Apple a few short months ago for not including chargers with the iPhone 12.
+<a href='https://www.theverge.com/2020/12/26/22200610/xiaomi-ceo-phone-no-charger-mocking-apple-iphone'> Source <a/>
