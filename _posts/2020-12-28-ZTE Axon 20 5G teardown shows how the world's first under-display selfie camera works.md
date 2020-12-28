@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+The quest to banish the notch from modern smartphone design has resulted in some pretty clever innovations, the latest of which happens to be the under-display selfie cam on the ZTE Axon 20 5G.
+<a href='https://www.theverge.com/circuitbreaker/2020/12/28/22202798/zte-axon-20-5g-teardown-under-display-selfie-camera-how-it-works'> Source <a/>

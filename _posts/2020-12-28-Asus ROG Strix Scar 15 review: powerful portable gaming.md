@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9z_uWvZQl8qt7grBtnlMxjbmV3A=/0x0:2040x1360/1200x675/filters:focal(863x667:1189x993)/cdn.vox-cdn.com/uploads/chorus_image/image/68571739/mchin_190314_4347_0008.0.jpg' width='700px' /><br/>
-If you're looking for the absolute most powerful gaming hardware out there... well, you don't want the Asus ROG Strix Scar 15. You want a desktop or a laptop that weighs seven pounds, requires multiple power bricks, and is basically a desktop. But if you still want something you can realistically carry around, the Strix is about as powerful as it gets.
-<a href='https://www.theverge.com/22195676/asus-rog-strix-scar-15-review-gaming-laptop-specs-features-price'> Source <a/>
