@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TwYcgVc9wAmR6-ULbhnjt4rp_JA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68572094/acastro_200331_1777_zoom_0003.0.0.jpg' width='700px' /><br/>
-Videoconferencing platform Zoom has had a blockbuster year, with its stock price rising more than 500 percent due to the unprecedented surge in remote work brought on by the coronavirus pandemic. But now the company is looking to expand beyond workplace video chat and into new territories, specifically email and calendar services, according to a new report from The Information.
-<a href='https://www.theverge.com/2020/12/23/22197057/zoom-email-service-calendar-app-microsoft-google-competition'> Source <a/>
