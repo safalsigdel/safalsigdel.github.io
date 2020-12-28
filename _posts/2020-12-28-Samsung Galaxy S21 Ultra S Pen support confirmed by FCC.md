@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TYgm_17rn1RDjPHP1vJiPtF9WZ8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68571197/41821.0.jpg' width='700px' /><br/>
-An FCC listing confirms that Samsung's S Pen stylus can be used with the company's upcoming flagship Galaxy S21 Ultra phone. The confirmation, first discovered by Android Authority, comes in a test report for model number SMG998B. The discovery lends clarity to recent statements from Samsung mobile president TM Roh, who said that some of the “most well-loved features” of the Galaxy Note will be coming to other Samsung devices in 2021.
-<a href='https://www.theverge.com/2020/12/23/22196897/s-pen-uwb-comfirm-galaxy-s21-ultra-fcc'> Source <a/>
