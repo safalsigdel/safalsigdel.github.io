@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l6hxDWFH-HINU5eeKGg8evHlb5U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68569960/acastro_180213_1777_0004.0.jpg' width='700px' /><br/>
-The yearly Spotify Wrapped is a rather upbeat affair, which doesn't doesn't quite match everyone's mood this year. For the more sullen among us, there's another option: a bot from The Pudding that will judge us for our crimes of listening to terrible music.
-<a href='https://www.theverge.com/2020/12/22/22196308/spotify-wrapped-pudding-ai-roast-music'> Source <a/>
