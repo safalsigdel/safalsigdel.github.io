@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Telegram is adding a new group voice chats feature that's similar to an always-on Discord room. Voice chats are now part of existing text chats, and operate as a persistent option to speak live with friends or family. As they're always available, you can dip in and out of voice chats just like you would in a Discord room or call.
-<a href='https://www.theverge.com/2020/12/23/22196894/telegram-voice-chats-group-discord-feature'> Source <a/>
