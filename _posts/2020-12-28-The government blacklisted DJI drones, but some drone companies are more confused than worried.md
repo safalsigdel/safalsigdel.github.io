@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LzqMNBbYCkK2YJUWdekhJTeoBQg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68571798/vpavic_042029_4003_0144.0.jpg' width='700px' /><br/>
-Last week, the US Department of Commerce put Chinese drone maker DJI on its Entity List, limiting how it can work with US companies. The news startled DJI's huge American user base, including companies that rely on DJI for entire fleets of commercial drones. But it's likely less onerous than it initially sounded — even if, like many Trump administration decisions, it comes with a dose of uncertainty.
-<a href='https://www.theverge.com/2020/12/23/22193660/us-government-dji-drone-entity-list-export-ban-effects'> Source <a/>
