@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yIhGXCA1jSIVT4HqULRrNwY1RxI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68570243/ss_a0f2416e11bf5b47788eaa3617e092b73962b145.0.jpg' width='700px' /><br/>
-With roughly half a billion people reportedly playing it in November, Among Us has had the most monthly players for a mobile game ever, beating giants like Pokxc3xa9mon GO and Candy Crush Saga. According to Nielsen's SuperData, the game is “by far the most popular game ever in terms of monthly players.”
-<a href='https://www.theverge.com/2020/12/22/22196330/among-us-half-billion-players-november'> Source <a/>
