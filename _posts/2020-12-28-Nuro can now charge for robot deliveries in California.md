@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v8EKoIsRXEKwWNIiyFI3dRiyyX8=/0x0:8192x4320/1200x800/filters:focal(3441x1505:4751x2815)/cdn.vox-cdn.com/uploads/chorus_image/image/68575386/Nuro_8.0.jpg' width='700px' /><br/>
-Nuro is now the first company in California that's allowed to operate autonomous cars commercially (via TechCrunch). The company received a permit that allowed it to test its robots earlier this year, but this permit will allow the firm to actually charge people for the service.
-<a href='https://www.theverge.com/2020/12/23/22197980/nuro-licensed-autonomous-deliveries-california'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q-W37cpJDc85EKsrU7XlPsHcFLE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68580019/vpavic_4275_20201030_0050.0.jpg' width='700px' /><br/>
-Whether you recently bought or soon plan to buy an Xbox Series X or an Xbox Series S, or are sticking with your Xbox One console, it's sure nice to have a stack of good games to play. And what better way to do that than to barely spend any money at all? Individual games, while sometimes worth the cost, can be pricey. Instead, you can get a ton of value out of a Game Pass Ultimate subscription.
-<a href='https://www.theverge.com/22165489/best-games-xbox-one-series-x-s-consoles'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cvImYtvxwiIDSTW3eRe1g9Kldfo=/0x0:4881x3254/1200x800/filters:focal(2051x1237:2831x2017)/cdn.vox-cdn.com/uploads/chorus_image/image/68574463/1222297791.0.jpg' width='700px' /><br/>
-President Donald Trump has vetoed an annual defense bill authorizing billions of dollars in military spending after complaints that the bill did not include changes to Section 230, the provision that gives social media companies legal immunity over much of the content posted by their users.
-<a href='https://www.theverge.com/2020/12/23/22197796/trump-ndaa-veto-section-230-defense-bill-facebook-twitter'> Source <a/>

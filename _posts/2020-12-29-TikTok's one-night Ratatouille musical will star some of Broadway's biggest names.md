@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OoWQAkGk8AbLDyF14UzrDOJsrag=/0x0:650x375/1200x800/filters:focal(273x136:377x240)/cdn.vox-cdn.com/uploads/chorus_image/image/68590200/Seaview_Work_Featured_Images_Ratatouille_650x375.0.jpg' width='700px' /><br/>
+Ratatouille: The TikTok Musical has some big Broadway talent on board for its January 1st streaming performance. Adam Lambert, Wayne Brady, Kevin Chamberlin, Mary Testa, and Priscilla Lopez will play key roles, with Tituss Burgess starring as Remy, the sophisticated rat who loves fine food.
+<a href='https://www.theverge.com/2020/12/28/22203490/ratatouille-tiktok-musical-tituss-burgess-adam-lambert-wayne-brady-pixar-disney'> Source <a/>

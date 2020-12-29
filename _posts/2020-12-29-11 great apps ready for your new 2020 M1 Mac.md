@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vGTTyiMMUHIHLs0FjoF0z99m6_E=/0x0:2040x1360/1200x800/filters:focal(895x304:1221x630)/cdn.vox-cdn.com/uploads/chorus_image/image/68592461/vpavic_4291_20201113_0366.0.0.jpg' width='700px' /><br/>
+This year marked the introduction of the first Macs to be powered by Apple's own silicon instead of Intel chips. As is evidenced by our reviews of the M1 MacBook Air, 13-inch MacBook Pro, and Mac mini, these machines are incredibly powerful and offer wicked fast performance. This is especially true for apps that are designed to run natively on them and take full advantage of Apple's latest technologies.
+<a href='https://www.theverge.com/22188814/apple-apps-m1-macbook-air-pro-mac-mini-lightroom-office-2020'> Source <a/>

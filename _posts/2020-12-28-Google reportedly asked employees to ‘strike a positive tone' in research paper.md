@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5hnG8jUk3z-mBtj4lfMDjHqoLS8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68575060/acastro_180130_1777_0003.0.jpg' width='700px' /><br/>
-Google has added a layer of scrutiny for research papers on sensitive topics including gender, race, and political ideology. A senior manager also instructed researchers to “strike a positive tone” in a paper this summer. The news was first reported by Reuters.
-<a href='https://www.theverge.com/2020/12/23/22197760/google-sensitive-topics-review-research-papers-timnit-gebru'> Source <a/>

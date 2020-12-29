@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-6Smtq_LrG1VieoDWDgVpD2Apdc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68588993/42240.0.jpg' width='700px' /><br/>
+We'll likely see a formal Samsung Galaxy S21 announcement on January 14th, but thanks to a raft of detailed specs from WinFuture and an assortment of previous leaks, there won't be much to speculate about until then. Heck, you can even go ahead and reserve a preorder if you like what you see.
+<a href='https://www.theverge.com/2020/12/28/22202864/samsung-galaxy-s21-plus-specs-leak'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aoE8Hv_oWVpw02Suwcxcjuof_s0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68574374/xpeng.0.jpg' width='700px' /><br/>
-California EV startup Canoo became a publicly traded company on the NASDAQ stock exchange on Tuesday under the ticker $GOEV, marking an incredible milestone for the three-year-old venture.
-<a href='https://www.theverge.com/2020/12/23/22194330/ev-startups-tesla-success-2020-electric-vehicles-spac-public'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XQEUdLr4zofRV6UxLVumacyMPqA=/126x0:2310x1125/1200x800/filters:focal(1677x449:2065x837)/cdn.vox-cdn.com/uploads/chorus_image/image/68574754/IMG_0369.0.jpg' width='700px' /><br/>
-Today I learned that the iPhone's built-in calculator app has a scientific mode — and all you have to do to access it is turn your phone on its side. If you're the type of person who keeps your phone permanently in portrait lock (like me), this might come as a surprise to you, as it did to many of us here at The Verge.
-<a href='https://www.theverge.com/22197381/apple-ios-calculator-scientific-mode-landscape'> Source <a/>

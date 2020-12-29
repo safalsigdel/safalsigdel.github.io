@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dsilAsv6JDiT7mEijNsGjLDH2xU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68590134/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+A computer repair shop owner cited in a controversial New York Post story is suing Twitter for defamation, claiming its content moderation choices falsely tarred him as a hacker.
+<a href='https://www.theverge.com/2020/12/28/22203412/john-paul-mac-isaac-hunter-biden-laptop-new-york-post-twitter-moderation-hacked-materials-lawsuit'> Source <a/>

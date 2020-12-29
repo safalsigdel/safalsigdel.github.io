@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3DknefI-T3QizkO-swsJRAbbK2U=/0x0:2040x1360/1200x675/filters:focal(895x638:1221x964)/cdn.vox-cdn.com/uploads/chorus_image/image/68577328/vpavic_201215_4343_0055_1.0.jpg' width='700px' /><br/>
-I did not expect to like the Amazon Echo Frames as much as I do. The concept is relatively simple: they're a pair of eyeglasses with tiny little speakers and microphones embedded in the stems so you can listen to music and command Alexa. They run $249 and come with basic plastic lenses, but you can take them to an optometrist and get prescription lenses.
-<a href='https://www.theverge.com/22197463/amazon-echo-frames-review-alexa'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0P8uYhA_OaymJGLpl7LGbLP1QwI=/0x0:2500x1250/1200x800/filters:focal(1050x425:1450x825)/cdn.vox-cdn.com/uploads/chorus_image/image/68573713/samsung_mocking_apple_no_charger_iphone_12.0.jpg' width='700px' /><br/>
-Samsung has been caught deleting an ad that makes fun of Apple for not including a charging brick with the iPhone 12 — the same thing it's rumored to be doing with its Galaxy S21 phones. The Facebook post was made by Samsung Caribbean back in October, and it had a picture of a charging brick with the caption “Included with your Galaxy” (via 9to5Google).
-<a href='https://www.theverge.com/2020/12/23/22197394/samsung-deletes-ads-mocking-apple-charger'> Source <a/>

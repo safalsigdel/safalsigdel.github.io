@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QRPktPpqO9bSHB1EN8Wvy6YvGX0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68572502/acastro_180109_1777_0003_v2.0.jpg' width='700px' /><br/>
-On Tuesday, the American Civil Liberties Union filed a new lawsuit demanding information about the FBI's Electronic Device Analysis Unit (EDAU) — a forensic unit that the ACLU believes has been quietly breaking the iPhone's local encryption systems.
-<a href='https://www.theverge.com/2020/12/23/22197076/aclu-fbi-iphone-encryption-security-electronic-device-analysis-unit-edau'> Source <a/>

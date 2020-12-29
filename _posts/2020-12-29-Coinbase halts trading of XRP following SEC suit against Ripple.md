@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ikSN_6yenULX8XCnikDHv_l3ecI=/0x0:5000x1330/1200x800/filters:focal(3726x316:4526x1116)/cdn.vox-cdn.com/uploads/chorus_image/image/68591100/1035974108.0.jpg' width='700px' /><br/>
+Coinbase announced today that it is halting all trades of XRP on its cryptocurrency exchange, according to an official blog post (via Coindesk). Certain kind of trades became restricted today, and the full suspension will go into place January 19th, 2021 at 10AM PT. Coinbase is the largest cryptocurrency exchange, and suspending a currency like XRP naturally casts doubt on the currency's future, even before the SEC lawsuit over it is settled.
+<a href='https://www.theverge.com/2020/12/28/22203761/coinbase-halts-trading-xrp-ripple-sec-suit'> Source <a/>

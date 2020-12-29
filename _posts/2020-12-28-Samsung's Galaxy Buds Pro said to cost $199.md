@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BBllMspdwSmIXyy1mBD6C4jnOcQ=/0x0:2500x1057/1200x800/filters:focal(1050x329:1450x729)/cdn.vox-cdn.com/uploads/chorus_image/image/68576644/e31b969143b271229f5243aae0fc864fd5f050c10f701deba1a172fab2d354f7.0.jpeg' width='700px' /><br/>
-More details of Samsung's unannounced Galaxy Buds Pro wireless earbuds with active noise cancelation have leaked, including the price.
-<a href='https://www.theverge.com/2020/12/24/22198622/samsung-galaxy-buds-pro-price-specs-active-noise-cancelation'> Source <a/>

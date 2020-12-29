@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AeV_IGTPGv3G90Fqz6VY_EjdwMY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68577107/acastro_HDMI_spectacular_0003.0.jpg' width='700px' /><br/>
-Happy holidays! Here is our gift to you: over an hour of audio content exclusively dedicated to HDMI.
-<a href='https://www.theverge.com/2020/12/24/22193437/vergecast-podcast-interview-hdmi'> Source <a/>

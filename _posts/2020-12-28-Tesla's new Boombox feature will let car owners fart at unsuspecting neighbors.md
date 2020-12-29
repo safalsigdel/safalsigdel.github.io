@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qyLUGE3_xogXmzQ7MoJqxVslA6A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68580789/tesla.0.jpg' width='700px' /><br/>
-Tesla's new holiday update will finally give people the ability to use a new Boombox mode, which can broadcast custom audio on the outside of the car (hence the name). As is common with new Tesla features, Boombox combines real utility with lowbrow humor: owners can use fart and goat sounds in lieu of normal, boring honking sounds car horns usually make.
-<a href='https://www.theverge.com/2020/12/25/22199963/tesla-holiday-update-fart-sound-horn-goat-boombox'> Source <a/>

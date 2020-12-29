@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7lDlMuXEmMKsWYo5ncYNwbWoqzA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68589444/vpavic_190924_3684_0096.0.jpg' width='700px' /><br/>
+The T-Mobile variant of the OnePlus 7T is on sale at B&H for $300, undercutting OnePlus's own sale at $350. This matches the lowest price the phone has ever been, so if you've been looking for a flagship-specced phone at a budget price, this deal may be worth checking out.
+<a href='https://www.theverge.com/good-deals/2020/12/28/22203289/oneplus-7t-sale-deal-b-and-h-price'> Source <a/>
