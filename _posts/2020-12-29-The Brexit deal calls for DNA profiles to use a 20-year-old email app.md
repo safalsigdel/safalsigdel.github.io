@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IgKb7DjuDAa2T9awJhJ_h4wLLj0=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/68593781/netscape.0.jpg' width='700px' /><br/>
+The mammoth, last-minute deal that will govern the United Kingdom and European Union's trade relations going forward post-Brexit has been finalized in the nick of time. But some security researchers have noted some puzzling aspects of the deal, including mentions of the defunct, 23-year old Netscape Communicator email software and recommendations of outdated encryption standards.
+<a href='https://www.theverge.com/2020/12/29/22204624/brexit-eu-uk-netscape-communicator-4-crytography-email-data-dna-trade-deal'> Source <a/>
