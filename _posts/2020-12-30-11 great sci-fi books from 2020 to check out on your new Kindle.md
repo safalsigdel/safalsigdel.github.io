@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hSsFMpXwVIxVtiLOm4_bsRNUBps=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68597616/akrales_181101_3056_0132.0.jpg' width='700px' /><br/>
+It's not easy to make it to a library right now, and with a long winter stuck at home looming ahead for many of us, there's never been a better time to hunker down with a good book. If you've been lucky enough to receive a new Kindle (or a non-Amazon-branded e-reader or just a device with an e-book app on it), you might be looking for some new books to read.
+<a href='https://www.theverge.com/22187387/best-sci-fi-books-new-kindle-e-reader-top-2020'> Source <a/>
