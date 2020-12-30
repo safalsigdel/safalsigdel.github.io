@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6YH04BRnbqGaTIQa4_oNpIRZfhI=/0x0:2040x1360/1200x800/filters:focal(918x474:1244x800)/cdn.vox-cdn.com/uploads/chorus_image/image/68594679/akrales_190914_3666_0010.0.jpg' width='700px' /><br/>
+A major Chinese supplier of consumer electronics components, Lens Technology, has been accused of using forced Uighur labor workers from the predominantly Muslim region of Xinjiang, China, according to a report from the Tech Transparency Project (TTP) shared with The Verge.
+<a href='https://www.theverge.com/2020/12/29/22204920/lens-technology-uighur-forced-labor-xinjiang-amazon-apple-tesla'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iVml_PKKfqRsFpXRD0nQKObGGv8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68587702/acastro_190503_1777_samsung_0004.0.0.jpg' width='700px' /><br/>
-Samsung's Galaxy S21 lineup of phones will reportedly debut on January 14th. If there's even a slight chance you might pick one up, you can now place a reservation to guarantee a preorder slot when those become available, which they usually do right after an Unpacked event ends.
-<a href='https://www.theverge.com/2020/12/28/22202683/samsung-galaxy-s21-ultra-plus-s-pen-preorder-reserve'> Source <a/>

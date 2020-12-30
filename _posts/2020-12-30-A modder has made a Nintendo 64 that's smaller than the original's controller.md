@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iq6Km6SkkhondG1xVZGVEfY27mc=/0x0:3360x1886/1200x0/filters:focal(0x0:3360x1886):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22203745/Screen_Shot_2020_12_29_at_5.22.48_PM.png' width='700px' /><br/>
+Taking an old console and making it as small as possible is a well-established tradition in the modding community, and there may be a new victor in the race to shrink the Nintendo 64 as far as possible (via Input). GmanModz has cut down an N64 to the point where it's smaller than a GameCube controller — and only slightly bigger than the cartridges it takes.
+<a href='https://www.theverge.com/2020/12/29/22205558/new-record-smallest-nintendo-64-mod-gmanmodz-cartridge-sized'> Source <a/>

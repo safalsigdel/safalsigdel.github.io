@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nB0dkAcKr9jFyFrj0bWvR_gCuwY=/0x0:1920x1200/1200x800/filters:focal(807x447:1113x753)/cdn.vox-cdn.com/uploads/chorus_image/image/68585332/WonderWoman.0.jpg' width='700px' /><br/>
-Just two days after Wonder Woman 1984 hit theaters and HBO Max, Warner Bros. says it has put the third installment in the franchise on the fast track. Gal Gadot will reprise her role as Diana Prince/Wonder Woman and Patty Jenkins will once again write and direct, Warner Bros. chair Toby Emmerich said in a statement Sunday.
-<a href='https://www.theverge.com/2020/12/27/22201718/warner-bros-fast-tracking-wonder-woman-3-patty-jenkins-gal-gadot'> Source <a/>

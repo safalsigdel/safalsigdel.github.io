@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ISII521Y21Po4rtjAsCLieYvkao=/0x0:3196x2212/1200x800/filters:focal(1625x596:2135x1106)/cdn.vox-cdn.com/uploads/chorus_image/image/68595058/1268340895.0.jpg' width='700px' /><br/>
+“Panthers' Russell Okung Becomes First NFL Player to Be Paid in Bitcoin,” the headline proclaimed — and soon, ones just like it started sprouting up across the web, with sports publications, tech publications, and mainstream media outlets alike jumping to tell how the Carolina Panthers offensive lineman finally fulfilled his spoken desire to get paid in cryptocurrency.
+<a href='https://www.theverge.com/2020/12/29/22205181/nfl-russell-okung-not-paid-bitcoin-debunk-carolina-panthers-cryptocurrency'> Source <a/>

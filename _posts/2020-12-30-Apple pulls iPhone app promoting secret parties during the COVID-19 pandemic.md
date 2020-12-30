@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NitnZ9y3oHov38-EWV9Lqnu1kGI=/0x0:2024x1218/1200x800/filters:focal(808x112:1130x434)/cdn.vox-cdn.com/uploads/chorus_image/image/68595777/Screen_Shot_2020_12_29_at_6.49.57_PM.0.png' width='700px' /><br/>
+An iOS app called Vybe Together that promoted private parties during the COVID-19 pandemic has been removed from the Apple App Store, had its account on TikTok banned, and scrubbed most of its online presence. The app's creators told The Verge that Apple was the one to take it off the App Store.
+<a href='https://www.theverge.com/2020/12/29/22205298/apple-tiktok-vybe-together-pandemic-underground-party-app-removed'> Source <a/>

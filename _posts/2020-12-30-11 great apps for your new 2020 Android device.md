@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3Vel1ZanlmiR5q-zRY7x-Tnh1qw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68587824/akrales_201012_4137_0027.0.0.jpg' width='700px' /><br/>
-The first thing to do when you get a new phone is to log back into all your accounts — email, Facebook, Signal, and so on — to make sure you're getting all the important notifications you need and messages from friends. But after that, you'll want to install apps that replace the default tools (like the web browser or weather app) with something better, along with apps that'll just make your day-to-day usage of the phone a lot more helpful.
-<a href='https://www.theverge.com/22178512/best-android-apps-2020'> Source <a/>
