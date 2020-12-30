@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Boston Dynamics' Atlas and Spot robots can do a lot of things: sprinting, gymnastic routines, parkour, backflips, open doors to let in an army of their friends, wash dishes, and (poorly) get actual jobs. But the company's latest video adds another impressive trick to our future robotic overlords' repertoire: busting sick dance moves.
+Boston Dynamics' Atlas and Spot robots can do a lot of things: sprinting, gymnastic routines, parkour, backflips, opening doors to let in an army of their friends, washing dishes, and (poorly) getting actual jobs. But the company's latest video adds another impressive trick to our future robotic overlords' repertoire: busting sick dance moves.
 <a href='https://www.theverge.com/tldr/2020/12/29/22205055/boston-dynamics-robots-spot-atlas-handle-dancing-video'> Source <a/>
