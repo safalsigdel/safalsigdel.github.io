@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lNJkDobvyOJT__0eeHWOHHa63D0=/0x0:2758x3510/1200x800/filters:focal(1147x839:1587x1279)/cdn.vox-cdn.com/uploads/chorus_image/image/68597984/517216004.0.jpg' width='700px' /><br/>
+Peloton is getting into the music business. The popular fitness startup, already known for its use of popular music during its classes, announced today that it will be commissioning its own music that can only be heard from within its app. For the new year, three new remixes of Elvis tracks are coming to the app from Chromeo, Big Boi, and DJ Dillon Francis.
+<a href='https://www.theverge.com/2020/12/30/22204523/peloton-elvis-remix-release-music-in-app-exclusive'> Source <a/>
