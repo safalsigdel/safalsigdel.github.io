@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VNovkHzzdoawC_DAWVk_uxtQf2E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68602693/wjoel_180413_1777_android_001.0.jpg' width='700px' /><br/>
+If you just got a brand-new Android phone for the holidays, you probably want to play some games on your shiny device. Luckily, that's especially easy to do this year with Google's $5-per-month Google Play Pass games and apps subscription service, which offers free access to hundreds of games and apps without pushing ads or demanding in-app purchases.
+<a href='https://www.theverge.com/22170029/best-play-pass-games-google-android-phone'> Source <a/>
