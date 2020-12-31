@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QQdT2_S21ykG7PFXE8L1H-IYbKI=/0x0:1532x822/1200x0/filters:focal(0x0:1532x822):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22202075/CONFIDENTIAL.jpg' width='700px' /><br/>
-New images and video purporting to show an Apple Watch prototype, concealed by a security case that resembles a tiny iPod, offer a rare look behind the product-development curtain of the notoriously secretive company built by Steve Jobs. First teased a few months ago by Twitter user Apple Demo, this is our first look at the device turned on and running Apple's own internal development apps on a pre-watchOS 1.0 software build.
-<a href='https://www.theverge.com/2020/12/29/22204270/apple-watch-pvt-ultra-security-program-prototype'> Source <a/>
