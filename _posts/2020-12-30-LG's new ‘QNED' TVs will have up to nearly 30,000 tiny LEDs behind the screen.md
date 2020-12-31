@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FtQDP__c5g5dA-M7VwpuDBqZkW0=/0x0:1970x1196/1200x800/filters:focal(828x441:1142x755)/cdn.vox-cdn.com/uploads/chorus_image/image/68591329/LG_QNED_grab.5.jpg' width='700px' /><br/>
-LG might be the company that's most synonymous with OLED TVs, but tonight it's announcing what to expect from its LCD-based sets in 2021. Like other manufacturers including TCL have already done (and Samsung is expected to soon join in on), LG is adopting Mini LED technology for its premium LCD 8K and 4K TVs coming next year.
-<a href='https://www.theverge.com/2020/12/28/22203910/lg-qned-mini-led-4k-8k-lcd-tv-announced-ces-2021'> Source <a/>

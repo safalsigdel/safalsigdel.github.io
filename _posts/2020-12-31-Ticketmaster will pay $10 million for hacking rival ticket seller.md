@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BZh8ObzjmtiMXhbIec2dEqj8yiY=/0x0:5325x3584/1200x800/filters:focal(2237x1366:3089x2218)/cdn.vox-cdn.com/uploads/chorus_image/image/68600383/1290806319.0.jpg' width='700px' /><br/>
+Ticketmaster has agreed to pay $10 million for breaking into a competitors' network. The company and its parent Live Nation admitted to hiring a former employee from rival ticket seller CrowdSurge, then using his knowledge — including old usernames and passwords — to learn CrowdSurge's inner workings and “cut [the company] off at the knees.”
+<a href='https://www.theverge.com/2020/12/30/22206955/ticketmaster-songkick-crowdsurge-hacking-deferred-prosecution-fine'> Source <a/>

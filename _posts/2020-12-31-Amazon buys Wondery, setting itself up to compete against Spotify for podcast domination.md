@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qWgor0JZy22-QAGZ5_kiuLdpync=/0x0:2342x1561/1200x800/filters:focal(984x594:1358x968)/cdn.vox-cdn.com/uploads/chorus_image/image/68598740/amazonwondery.5.jpg' width='700px' /><br/>
+Wondery, one of the last major independent podcast networks, might soon be owned by Amazon. The companies announced an acquisition deal today, ending speculation about who might eventually buy the network, which is most well-known for true crime podcasts like Dirty John. (Apple and Sony were also reported to have at least discussed a possible purchase.)
+<a href='https://www.theverge.com/2020/12/30/22098312/amazon-music-wondery-acquire-buy-podcast-industry'> Source <a/>

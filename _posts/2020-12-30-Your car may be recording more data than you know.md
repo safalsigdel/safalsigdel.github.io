@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xw0-kqkmEFXYxRlwRdo_g9RGtos=/0x0:3120x2080/1200x800/filters:focal(1311x791:1809x1289)/cdn.vox-cdn.com/uploads/chorus_image/image/68590525/DSCF1984_2.0.jpg' width='700px' /><br/>
-When we think about privacy and who can access our location data, we're often focusing on our phones, and not on the machine that actually takes us places: our car. A recent report from NBC News goes into just how much data is collected by our vehicles, and how it can be used by police and criminals alike.
-<a href='https://www.theverge.com/2020/12/28/22203587/car-recorded-data-investigation-stalking-privacy-concerns'> Source <a/>

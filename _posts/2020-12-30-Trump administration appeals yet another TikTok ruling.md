@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RmHTYwf6P9KlAA4DhFwdlXDsKu8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68589684/acastro_200713_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-The Trump administration has gained some experience losing in court recently, and has suffered setback after setback in its stance that TikTok should be banned in the US. Still, its pursuit of the video sharing app continues. On Monday, the Department of Justice filed an appeal of a judge's order that blocked restrictions on TikTok in the US from taking effect.
-<a href='https://www.theverge.com/2020/12/28/22203284/trump-administration-appeal-tiktok-china-bytedance'> Source <a/>
