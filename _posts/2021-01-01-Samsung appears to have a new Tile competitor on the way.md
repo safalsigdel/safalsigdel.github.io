@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PS4kU9lnFCzTSESK-k4sH3Ml9oc=/0x0:639x425/1200x800/filters:focal(269x162:371x264)/cdn.vox-cdn.com/uploads/chorus_image/image/68606652/smarttagleak.0.jpg' width='700px' /><br/>
+Samsung seems to be close to launching a new Tile-like device for tracking lost items. The tracker, likely called the Galaxy SmartTag, has been leaking out over the past month, and there's some speculation it could be announced alongside the Galaxy S21 later in January.
+<a href='https://www.theverge.com/2021/1/1/22209216/samsung-galaxy-smarttag-tile-item-tracker-leak'> Source <a/>
