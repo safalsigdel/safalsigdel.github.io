@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5BO-PYSSDutL_tb2hpbJ-mVruOA=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/68592786/twarren-surfacelaptopgo-2.0.0.jpg' width='700px' /><br/>
-If you bought a new Windows laptop on Black Friday or received one as a gift, you may be struggling to figure out which apps to download. Never fear. I have scoured the internet, the Microsoft Store, and my own downloads folder to find all the best Windows apps for whatever purpose you may need.
-<a href='https://www.theverge.com/22179062/windows-pc-apps-zoom-spotify-netflix-whatsapp-instagram-2020'> Source <a/>
