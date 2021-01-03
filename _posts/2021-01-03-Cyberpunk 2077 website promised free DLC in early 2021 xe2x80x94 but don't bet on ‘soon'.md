@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vKSxmgdetLXIhWaE5k6X1oTUy3k=/0x0:3840x2160/1200x800/filters:focal(2257x507:2871x1121)/cdn.vox-cdn.com/uploads/chorus_image/image/68607848/Cyberpunk2077_No_Future_RGB.0.jpg' width='700px' /><br/>
+In my opinion, Cyberpunk 2077 isn't quite the disaster some have suggested. The game is fun. The bugs are fun! The bugs that really, really weren't fun have been patched. Refunds were made widely available, and despite that refund option, the game sold 13 million copies in just two weeks.
+<a href='https://www.theverge.com/2021/1/1/22209719/cyberpunk-2077-free-dlc-early-2021'> Source <a/>

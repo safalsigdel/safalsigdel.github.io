@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MC9TCk4tjChKmZ7RrUucPrxCr1Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68609207/acastro_180430_1777_tesla_0004.0.jpg' width='700px' /><br/>
+Tesla fell just shy of hitting CEO Elon Musk's goal of delivering 500,000 vehicles in 2020, the company announced Saturday, having shipped a record 499,550 throughout the year — or 99.91 percent. Tesla said the final tally could vary by as much as 0.5 percent, though, so it's possible that it will eclipse the 500,000 mark by the time it reveals the ultimate figures in its full year results, due out at the end of January.
+<a href='https://www.theverge.com/2021/1/2/22210191/tesla-delivery-goal-elon-musk-vehicles-2020'> Source <a/>

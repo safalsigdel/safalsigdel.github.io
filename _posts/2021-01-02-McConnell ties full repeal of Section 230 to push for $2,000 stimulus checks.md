@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QJgmR1kZfexhuetXuK2QhvCxa8M=/0x0:4000x2667/1200x800/filters:focal(2179x1103:2819x1743)/cdn.vox-cdn.com/uploads/chorus_image/image/68594393/1230144952.5.jpg' width='700px' /><br/>
-On Tuesday night, Senate Majority Leader Mitch McConnell introduced a new bill tying increased stimulus payments to a full repeal of Section 230, according to bill text obtained by The Verge. The bill comes amid new momentum for direct $2,000 stimulus payments, and increasing pressure on party leaders to appease President Donald Trump's escalating demands.
-<a href='https://www.theverge.com/2020/12/29/22204976/section-230-senate-deal-stimulus-talks-checks'> Source <a/>

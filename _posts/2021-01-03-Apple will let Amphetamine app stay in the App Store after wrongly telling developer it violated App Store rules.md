@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S9MOIkwA_wonT78z7WjjgAOvBRA=/0x0:1552x968/1200x800/filters:focal(146x87:394x335)/cdn.vox-cdn.com/uploads/chorus_image/image/68609630/Screen_Shot_2021_01_02_at_11.46.06_AM.0.png' width='700px' /><br/>
+The developer of Amphetamine, an app that prevents Macs from going into sleep mode, says Apple told him it violated App Store guidelines, even though it's been in the App Store since 2014, and has nothing to do with drug use. Not long after The Verge reached out to Apple for comment on Saturday however, the company reversed its decision, and the app will be able to stay up with its current name and logo.
+<a href='https://www.theverge.com/2021/1/2/22210295/apple-developer-amphetamine-app-violate-drug-app-store-rules'> Source <a/>

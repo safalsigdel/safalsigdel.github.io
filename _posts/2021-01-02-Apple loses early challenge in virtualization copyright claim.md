@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xKATU1XU3au7q8R6gHewn--NYo0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68594968/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
-Apple has lost an early challenge in its lawsuit against Corellium, a security firm that offers a virtualized version of iOS for security testing.
-<a href='https://www.theverge.com/2020/12/29/22205130/apple-corellium-dismissed-copyright-dmca-fair-use'> Source <a/>

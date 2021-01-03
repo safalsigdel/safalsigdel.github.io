@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uf9tzU2p9thW7INMGaIzbePAob4=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66864770/acastro_200302_3922_SuperTuesday_section230.2.0.0.jpg' width='700px' /><br/>
-This is a living guide to Section 230: what it is, what it isn't, why it's controversial, and how it might be changed. This guide will be updated as events warrant.
-<a href='https://www.theverge.com/21273768/section-230-explained-internet-speech-law-definition-guide-free-moderation'> Source <a/>

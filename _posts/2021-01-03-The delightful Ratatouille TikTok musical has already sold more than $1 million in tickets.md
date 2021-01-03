@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DWGneq2IlrIEsiawL92IU8ItxME=/0x0:1869x993/1200x800/filters:focal(786x348:1084x646)/cdn.vox-cdn.com/uploads/chorus_image/image/68609788/ratatouille_tituss.0.jpg' width='700px' /><br/>
+The TikTok Ratatouille musical— aka the Ratatousical— debuted online on New Year's Day and has already sold more than $1 million in tickets, in quite the feel-good start to 2021. A portion of the ticket sales will benefit The Actors Fund, which supports performers and workers in the entertainment industry.
+<a href='https://www.theverge.com/2021/1/2/22210416/ratatouille-tiktok-musical-1-million-actors-fund-disney-pixar-broadway'> Source <a/>
