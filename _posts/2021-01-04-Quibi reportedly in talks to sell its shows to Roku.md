@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BpPiJmhXv8iFkNEZlffMu6kQzuM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68614489/gblackmon_200403_3960_quibi_0005.0.0.jpg' width='700px' /><br/>
+Failed mobile-first streaming service Quibi is in advanced discussions to sell the rights to its content library to Roku, according to The Wall Street Journal. The report doesn't indicate a potential price for the acquisition, and notes that the two parties may not reach a deal.
+<a href='https://www.theverge.com/2021/1/3/22212447/quibi-roku-content-deal-acquisition-report-wsj'> Source <a/>
