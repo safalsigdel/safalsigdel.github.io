@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DxjyIopIG_APx29e1iNLbdPoleQ=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/68621485/Cync_Indoor_Smart_Camera_Lifestyle_1.0.jpg' width='700px' /><br/>
+C by GE is starting to see some big changes. The smart lighting brand is getting a new name, Cync, and it's expanding beyond lighting to become more of a general-purpose smart home brand. The changes follow the sale of GE Lighting to Savant Systems, a luxury smart home company, in May 2020.
+<a href='https://www.theverge.com/2021/1/5/22214846/c-by-ge-cync-rebrand-savant-systems-smart-camera'> Source <a/>
