@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i8Wbvxb5qF33GmCZNCnofq2iBjg=/0x0:5000x3750/1200x800/filters:focal(3169x2137:3969x2937)/cdn.vox-cdn.com/uploads/chorus_image/image/68617281/1229106193.0.jpg' width='700px' /><br/>
+PayPal-owned banking app Venmo is launching a check cashing feature for both its Android and iOS apps for “eligible” users in the US, the company announced Monday. Cash a Check will allow users to snap a photo of a check and deposit it into a Venmo account.
+<a href='https://www.theverge.com/2021/1/4/22213387/venmo-check-cashing-paypal-customers-banking'> Source <a/>

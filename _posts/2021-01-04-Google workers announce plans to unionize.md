@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Nwtdcd8mBIZC-AWQcVH9PQyxT5o=/0x0:5978x3985/1200x800/filters:focal(2511x1515:3467x2471)/cdn.vox-cdn.com/uploads/chorus_image/image/68615375/1056016730.0.jpg' width='700px' /><br/>
-A group of Google workers have announced plans to unionize with the Communications Workers of America (CWA). The Alphabet Workers Union will be open to all employees and contractors at Google's parent company. Its goal will be to tackle ongoing issues like pay disparity, retaliation, and controversial government contracts.
-<a href='https://www.theverge.com/2021/1/4/22212347/google-employees-contractors-announce-union-cwa-alphabet'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-If you've ever watched a Batman movie or played Just Cause, you've probably thought “wow, using a grappling hook would be so much fun.” YouTuber Built IRL, whose name is JT, thought so too — and he's been working on making that happen for the past year. The end result is a grappling hook gun that functions pretty similarly to the ones we've seen in movies and games.
-<a href='https://www.theverge.com/circuitbreaker/2020/12/30/22207108/built-irl-maker-batman-style-grappling-hook-gun-diy'> Source <a/>

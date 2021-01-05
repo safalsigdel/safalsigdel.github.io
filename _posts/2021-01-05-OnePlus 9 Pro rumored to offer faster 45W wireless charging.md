@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G9ToHTrTXKRZAZK81v-ALb9TXbM=/0x0:1874x1250/1200x800/filters:focal(788x476:1086x774)/cdn.vox-cdn.com/uploads/chorus_image/image/68617636/oneplus_9_leaked.0.png' width='700px' /><br/>
+The OnePlus 9 Pro is rumored to feature faster 45W wireless charging and reverse wireless charging for filling up accessories like wireless headphones, according to a post from Max Jambor at Voice.
+<a href='https://www.theverge.com/2021/1/4/22213390/oneplus-9-pro-45-watt-wireless-charging-reverse'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nAi_eP2T1o2PBkp84Dj-4H2UOzE=/0x0:2040x1360/1200x800/filters:focal(977x655:1303x981)/cdn.vox-cdn.com/uploads/chorus_image/image/68606407/akrales_190528_3453_0028.0.jpg' width='700px' /><br/>
-You can now gain entry to any station of the New York City Subway with the tap of a phone, instead of the (famously finicky) swipe of a MetroCard.
-<a href='https://www.theverge.com/2021/1/1/22209151/nyc-subway-omny-tap-to-pay-rollout-complete-mobile-payments'> Source <a/>

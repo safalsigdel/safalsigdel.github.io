@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UHzAqmkwnEDrDtKa9R5LnmauNCo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68600138/cgartenberg_201022_4254_0009.0.0.jpg' width='700px' /><br/>
-LG's screen-swiveling Wing was one of the most interesting looking smartphones of 2020, but its unique design was held back by poor software support. A new software update, out today for the Verizon-exclusive device, looks to help address those issues by adding some new dual-screen functionality.
-<a href='https://www.theverge.com/2020/12/30/22206901/lg-wing-software-update-verizon-dual-screen-apps-media-controls'> Source <a/>

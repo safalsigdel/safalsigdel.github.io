@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Samsung will officially be announcing its latest lineup of Galaxy flagship phones — rumored to be the Galaxy S21, S21 Plus, and S21 Ultra — on January 14th, the company confirmed through invitations to a new Galaxy Unpacked event. The tagline: “Welcome to the Everyday Epic.” The event will kick off at 7AM PT / 10AM ET.
-<a href='https://www.theverge.com/2021/1/3/22206649/samsung-officially-confirms-galaxy-s21-event-on-january-14th'> Source <a/>

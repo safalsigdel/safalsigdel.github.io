@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L3jA-_zq6vCR4lbpnnFY6dDJ1No=/0x0:1200x628/1200x800/filters:focal(504x218:696x410)/cdn.vox-cdn.com/uploads/chorus_image/image/68619176/flir_teledyne.0.jpg' width='700px' /><br/>
+Industrial sensor giant Teledyne will acquire FLIR, an Oregon-based company that makes thermal-imaging and night vision technology, the companies announced Monday. The deal is worth $8 billion in a mix of cash and stock.
+<a href='https://www.theverge.com/2021/1/4/22213966/lidar-flir-teledyne-thermal-sensor-drones-nasa'> Source <a/>

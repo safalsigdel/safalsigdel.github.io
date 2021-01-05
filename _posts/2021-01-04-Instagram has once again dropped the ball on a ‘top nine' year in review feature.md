@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J5izB7_Hv3QLJO-8EVrjhtQHYgk=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/68602995/Untitled.0.jpg' width='700px' /><br/>
-It's New Year's Eve, which means that your Instagram feed — if it's anything like mine — is probably filled with people posting “top nine” grids of their most liked photos from this year. But, bafflingly, for yet another year, everyone will be turning to sketchy-looking third-party apps and sites to make them. Because once again, Instagram has failed to offer an official, automated way to curate the images within the app.
-<a href='https://www.theverge.com/2020/12/31/22207149/instagram-top-nine-best-pictures-missing-feature-facebook'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s0V4YgkYxfLbQodjRc8RqMtH894=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68613398/acastro_191108_1777_t-mobile_0001.0.0.jpg' width='700px' /><br/>
-T-Mobile suffered a security breach in December that may have exposed call-related information and phone numbers for some of its customers. First reported by Bleeping Computer, the information affected by the breach did not include names on customers' accounts, physical or email addresses, financial data, credit card information, Social Security numbers, tax IDs, passwords, or PINs, the company said.
-<a href='https://www.theverge.com/2021/1/3/22211839/t-mobile-customers-call-records-hacker-security'> Source <a/>

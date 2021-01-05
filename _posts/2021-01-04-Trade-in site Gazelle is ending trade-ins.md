@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vKUnfTkofeBodtLKd_72vQGegPs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68599614/akrales_190914_3628_0060.0.jpg' width='700px' /><br/>
-Gazelle, one of the longest-running used smartphone buyers in the US, has announced the end of its core trade-in program, which let phone owners mail in phones and other electronics devices in exchange for cash.
-<a href='https://www.theverge.com/2020/12/30/22206779/gazelle-smartphone-used-trade-in-program-shut-down'> Source <a/>

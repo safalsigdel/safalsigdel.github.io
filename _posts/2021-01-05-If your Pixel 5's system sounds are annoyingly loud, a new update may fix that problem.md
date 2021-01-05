@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cuOG8_iqPDs4nrfrne-YvjDqazE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68619814/akrales_201012_4137_0151.0.0.jpg' width='700px' /><br/>
+As part of its January Pixel updates, Google might have fixed an issue that meant Pixel 5 system sounds could be a lot louder than you might have wanted.
+<a href='https://www.theverge.com/2021/1/4/22214270/google-pixel-january-update-5-system-sounds-loud-issue'> Source <a/>

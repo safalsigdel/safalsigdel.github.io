@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T1HrZ1fbTEV9OCTmVjnnW3Weuk4=/0x0:4444x2963/1200x800/filters:focal(840x1002:1550x1712)/cdn.vox-cdn.com/uploads/chorus_image/image/68615348/1201406239.0.jpg' width='700px' /><br/>
-A judge in the United Kingdom has denied Julian Assange's extradition to the United States, where he faces espionage charges for his work running WikiLeaks. The Guardian reports that the ruling was delivered in a criminal court this morning, with the Wall Street Journal reporting that the judge noted that the risk of suicide is too high.
-<a href='https://www.theverge.com/2021/1/4/22206428/julian-assange-extradition-us-uk-wikileaks-espionage-hacking-charges'> Source <a/>

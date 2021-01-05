@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FzwkZ7mMw1HvZOsr4UUv3DkF0Rs=/0x0:2326x1440/1200x800/filters:focal(977x534:1349x906)/cdn.vox-cdn.com/uploads/chorus_image/image/68615342/windows10ui.0.jpg' width='700px' /><br/>
-Microsoft is planning a “sweeping visual rejuvenation of Windows” that is designed to signal to users of the operating system that “Windows is BACK.” That's according to a job listing posted by Microsoft recently, advertising for a software engineering role in the Windows Core User Experiences team:
-<a href='https://www.theverge.com/2021/1/4/22212817/microsoft-windows-10-visual-changes-update-sun-valley-2021'> Source <a/>

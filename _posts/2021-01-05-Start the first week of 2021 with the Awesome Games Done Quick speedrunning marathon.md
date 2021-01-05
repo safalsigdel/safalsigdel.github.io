@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UQfxSthiZH5EY8-yTdlvUxguvjo=/0x0:2852x1604/1200x800/filters:focal(1198x574:1654x1030)/cdn.vox-cdn.com/uploads/chorus_image/image/68618660/Screen_Shot_2021_01_04_at_4.37.16_PM.0.png' width='700px' /><br/>
+Games Done Quick (GDC), the charity event series that raises money while expert players blast their way through classic games, kicked off its first 2021 iteration yesterday on Twitch, and the event is running all week for anyone interested in tuning in to this year's speedrunning spotlights.
+<a href='https://www.theverge.com/2021/1/4/22213922/awesome-games-done-quick-twitch-watch-now-schedule-charity-speedrun-marathon'> Source <a/>

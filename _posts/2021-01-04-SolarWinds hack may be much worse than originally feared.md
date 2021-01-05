@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cEWlmg24pvfEJCRh0Bs1kj2xfJM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68610304/acastro_170621_1777_0007_v2_0001.0.jpg' width='700px' /><br/>
-The Russia-linked SolarWinds hack which targeted US government agencies and private corporations may be even worse than officials first realized, with some 250 federal agencies and business now believed affected, the New York Times reported.
-<a href='https://www.theverge.com/2021/1/2/22210667/solarwinds-hack-worse-government-microsoft-cybersecurity'> Source <a/>
