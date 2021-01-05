@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ke1xlhqfMFL9d040LmfXHGjvDR4=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/68620791/Eqt5qQdU0AgyxZY.0.jpeg' width='700px' /><br/>
+Xiaomi has announced the Mi 10i, a new phone in its 10 series intended for the Indian market and manufactured in the country — that's what the “i” stands for, apparently. That said, it's essentially a rebranded, region-specific version of the Mi 10T Lite 5G, which is itself basically the same thing as the Redmi Note 9 Pro 5G.
+<a href='https://www.theverge.com/2021/1/5/22214706/xiaomi-mi-10i-announced-india-specs-price-release-date'> Source <a/>
