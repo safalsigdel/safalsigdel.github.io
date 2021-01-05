@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Za3SIOkwenEhYLwWOjpcMvyC8PU=/0x0:2064x1376/1200x800/filters:focal(867x523:1197x853)/cdn.vox-cdn.com/uploads/chorus_image/image/68615980/Snapdragon_480_5G_Mobile_Platform___Logo___Outdoors.0.jpg' width='700px' /><br/>
-Qualcomm has officially announced the Snapdragon 480 5G, the company's latest 5G-capable processor and the first in its Snapdragon 4-series of chips which power budget Android devices that tend to be far cheaper than most of Qualcomm's 5G efforts to date.
-<a href='https://www.theverge.com/2021/1/4/22204586/qualcomm-snapdragon-480-5g-android-smartphone-price'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TY9ellAsoeWs6NrjU7_UZoPTVBA=/0x0:4000x4000/1200x800/filters:focal(1720x1479:2360x2119)/cdn.vox-cdn.com/uploads/chorus_image/image/68621600/Dell_Latitude__9420_3_view.0.png' width='700px' /><br/>
+CES has almost arrived, and Dell is kicking things off with some new versions of its Latitude laptops (designed for business customers), led by the new Latitude 9420 and 9520. The devices will add Intel's new 11th Gen vPro chips (once available in March 2021) and new features like an automated, integrated webcam shutter to physically block your camera when it's not in use.
+<a href='https://www.theverge.com/2021/1/5/22214058/dell-latitude-business-laptops-9420-automated-webcam-shutter-ces-2021'> Source <a/>
