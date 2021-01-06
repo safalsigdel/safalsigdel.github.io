@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Em7fTCn3EsURSg2RzsYoDoOLWDY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68618963/acastro_170726_1777_0007_v6.0.jpg' width='700px' /><br/>
-Jack Dorsey, the CEO of Twitter and Square, isn't happy about the new proposed cryptocurrency regulation. He emphasized how the regulation would hurt Square, a financial services company, in a letter posted to the company website.
-<a href='https://www.theverge.com/2021/1/4/22213863/jack-dorsey-cryptocurrency-fincen-regulation-letter'> Source <a/>

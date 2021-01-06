@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QiGVIxkI0ArdzERp7R2FAyiMFkQ=/0x0:1099x702/1200x800/filters:focal(463x264:637x438)/cdn.vox-cdn.com/uploads/chorus_image/image/68616485/discovery_plus.0.jpg' width='700px' /><br/>
-Discovery Plus, the new streaming channel from Discovery, launches today and does so on both Roku and Amazon's Fire TV. That means it's avoiding the confusion that ensued when HBO Max and Peacock streaming channels launched in 2020 without initial Roku and Fire TV options.
-<a href='https://www.theverge.com/2021/1/4/22212963/new-discovery-plus-streaming-channel-roku-hbo-peacock'> Source <a/>

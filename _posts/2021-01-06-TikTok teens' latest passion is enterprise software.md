@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8rMVSugt0vXSbyCguVckh5GwN08=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68624415/acastro_200713_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+Five days into the new year, and TikTok's hottest 2021 trend is teens using enterprise software to go viral.
+<a href='https://www.theverge.com/2021/1/5/22215782/tiktok-notion-enterprise-software-teen-studyblr'> Source <a/>

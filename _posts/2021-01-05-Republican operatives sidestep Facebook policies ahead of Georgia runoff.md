@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6O9i1ijpYU7EWGpj54bv_FoA3H8=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/68617814/1294459712.0.jpg' width='700px' /><br/>
-As the Georgia runoff election nears, Facebook's messy political ad rules have created new opportunities for operatives and political groups looking to spread disinformation. In the weeks leading up to Tuesday's election, Republican super PACs have used Facebook to spread disinformation targeting Georgia voters in the last few critical days before the state's special election on Tuesday, January 5th.
-<a href='https://www.theverge.com/2021/1/4/22213670/facebook-political-ads-georgia-republican-senate'> Source <a/>

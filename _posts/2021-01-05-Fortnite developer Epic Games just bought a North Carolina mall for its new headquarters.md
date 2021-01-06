@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e7Xd3QAU4GXGdy88SrztRpxe2oY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68618412/acastro_20200818_1777_epicApple_0002.0.0.jpg' width='700px' /><br/>
-Fortnite developer Epic Games is moving its Cary, North Carolina headquarters across town to a large shopping mall, the company announced. It's planning to convert the 87-acre Cary Towne Center into its new home base by 2024.
-<a href='https://www.theverge.com/2021/1/4/22213774/epic-games-north-carolina-mall-new-headquarters'> Source <a/>

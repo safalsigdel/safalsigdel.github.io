@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IMCl12URqlZkXQDDPuI3A4eVSFE=/0x0:2502x1668/1200x800/filters:focal(1051x634:1451x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/68623560/microsoftteamsstock.0.0.jpg' width='700px' /><br/>
+While Zoom remains popular for its ease of use and features such as the ability to pop in different backgrounds, it's not the only video meeting app out there that lets you do those things. For example, Microsoft's Teams office communications app also allows you to tweak your meeting background. Here, we'll show you how to change your background for a Teams videoconference.
+<a href='https://www.theverge.com/22215507/microsoft-teams-how-to-background-change-home-office'> Source <a/>

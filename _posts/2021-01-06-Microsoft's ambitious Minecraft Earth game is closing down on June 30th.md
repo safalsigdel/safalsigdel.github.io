@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bdBKkk7AJ4QT4_YgbTYAZI5FyLU=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/68622839/minecraftearth.0.jpg' width='700px' /><br/>
+Microsoft is closing down its Minecraft Earth mobile game in June, due to the ongoing pandemic. The ambitious game had aimed to rival Pokxc3xa9mon Go and cover the world in virtual blocks for players to meet and play together.
+<a href='https://www.theverge.com/2021/1/5/22215253/minecraft-earth-closing-down-june-2021-microsoft'> Source <a/>

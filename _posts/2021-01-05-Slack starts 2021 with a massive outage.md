@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YJSMcMDR2qXMdE1-1bUo0myW96o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68616252/acastro_190412_1777_slack_0002.0.jpg' width='700px' /><br/>
-Slack went down on the first full work day of 2021. The company said Monday morning “Customers may have trouble loading channels or connecting to Slack at this time. Our team is investigating and we will follow up with more information as soon as we have it. We apologize for any disruption caused.”
-<a href='https://www.theverge.com/2021/1/4/22213105/slack-outage-down-2021-server-error'> Source <a/>

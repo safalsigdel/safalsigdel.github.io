@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y8RCrVc24sfD5VdWQw0Bbvo5MJQ=/0x0:2989x1992/1200x800/filters:focal(1256x757:1734x1235)/cdn.vox-cdn.com/uploads/chorus_image/image/68623027/Bose_Sport_Open_Earbuds__1_.0.jpg' width='700px' /><br/>
+Bose's latest true wireless earbuds, the Sport Open Earbuds, are designed to keep you aware of your surroundings while you listen. While most other earbuds sit inside the ear canal, blocking out at least some ambient noise, the Sport Open Earbuds instead sit outside it. Bose has officially announced the earbuds a little over a month after their existence was leaked via a Federal Communications Commission filing.
+<a href='https://www.theverge.com/2021/1/5/22215281/base-sport-open-earbuds-ambient-noise-workout'> Source <a/>

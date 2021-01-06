@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6GfoejuJR6ZZXu9l21jghnxyl58=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/68621763/cristiano_amon_headshot_0.0.jpg' width='700px' /><br/>
+Qualcomm is getting a new CEO: Cristiano Amon, who already serves as president for the company, will replace Steve Mollenkopf, who took over as CEO in 2014. Amon has already served as the public face of the company for some time, presiding over introductions of new products like the Snapdragon 888, making him an obvious choice to succeed Mollenkopf at the helm.
+<a href='https://www.theverge.com/2021/1/5/22214902/qualcomm-ceo-cristiano-amon-president-steve-mollenkopf-retiring'> Source <a/>

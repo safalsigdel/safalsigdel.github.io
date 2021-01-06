@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j1ZbPXNxqawL2GygqYwRM6x94D8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68617669/dseifert_181018_3039_1286.0.jpg' width='700px' /><br/>
-Google's Nest Hub may be getting an update for the first time since its debut in 2018. The company registered a new “interactive device” at the Federal Communications Commission that'll feature a screen, Bluetooth, Wi-Fi, and Zigbee support, along with what seems to be Google's Soli radar gesture technology.
-<a href='https://www.theverge.com/2021/1/4/22213539/google-nest-hub-update-fcc-filing-soli-motion-sense-gestures'> Source <a/>

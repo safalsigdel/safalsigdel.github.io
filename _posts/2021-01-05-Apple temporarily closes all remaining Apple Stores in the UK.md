@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZvkzCNwHiBn4xj4Oe0GI-AI0570=/0x0:1020x676/1200x800/filters:focal(439x360:601x522)/cdn.vox-cdn.com/uploads/chorus_image/image/68619507/apple-store-soho-nyc-stock_1020.0.jpg' width='700px' /><br/>
-Apple has been shutting down loads of retail stores as the COVID-19 pandemic continues to peak — on December 20th, it temporarily closed every single location in California, Mexico, Brazil, and over a dozen in London. Now, as England and Scotland go into a pair of new national lockdowns, Apple is closing all of its remaining stores in the UK.
-<a href='https://www.theverge.com/2021/1/4/22214203/apple-close-remaining-uk-apple-store-covid-19-lockdown'> Source <a/>

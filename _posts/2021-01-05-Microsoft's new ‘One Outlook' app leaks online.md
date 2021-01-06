@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ErIjRBMa0anTAWTKPtao--rg0OM=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/68616767/oneoutlookapp.0.jpg' width='700px' /><br/>
-Microsoft is testing a new Outlook app that will replace its built-in Mail and Calendar apps on Windows 10. Codenamed Monarch and “One Outlook,” the app is “a new version of Outlook designed for large-screen experiences,” according to a leaked version of the app.
-<a href='https://www.theverge.com/2021/1/4/22213300/microsoft-one-outlook-app-windows-10-mail-app-calendar-replacement'> Source <a/>
