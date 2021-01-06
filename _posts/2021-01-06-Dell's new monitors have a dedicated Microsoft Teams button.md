@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6cbj3QoIep6K2EDHQ3-VrL-ckWQ=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/68621597/f4xoh4g.0.jpg' width='700px' /><br/>
-Dell is launching three new monitors next month, and all of them come with a dedicated Microsoft Teams button. Dell claims it has created the “world's first video conferencing monitors certified for Microsoft Teams,” after Microsoft started certifying displays, webcams, and headsets last year. Three monitors will be available next month, all offering quick access to Microsoft Teams.
-<a href='https://www.theverge.com/2021/1/5/22214786/dell-monitor-microsoft-teams-button-features-specs-price-release-date'> Source <a/>
