@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/263oAzmtEC7OF6s6VvtjEy0p-2Q=/0x0:2040x1360/1200x800/filters:focal(782x604:1108x930)/cdn.vox-cdn.com/uploads/chorus_image/image/68626374/vpavic_180605_2644_0027.0.jpg' width='700px' /><br/>
+The Nest Cam IQ Outdoor is no longer available to buy, Google has confirmed to 9to5Google, after the site noticed that the camera was out of stock in most countries around the world. The company says, however, that “Nest will keep investing in new innovations” including a “new lineup of security cameras for 2021.”
+<a href='https://www.theverge.com/2021/1/6/22216568/new-google-nest-cam-lineup-confirmed-outdoor-iq-discontinued'> Source <a/>
