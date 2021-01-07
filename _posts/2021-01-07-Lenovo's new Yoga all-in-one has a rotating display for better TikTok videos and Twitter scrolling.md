@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xTXRHOLeD5SEvPDJNAopvZNb3l0=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/68632137/lenovo.0.jpg' width='700px' /><br/>
+Lenovo has a new Yoga computer out, but it's not a laptop — it's the new Yoga AIO 7 desktop. But while it may look like a standard all-in-one desktop, like its more portable cousins, the Yoga AIO 7 does have a display trick up its sleeve: the entire screen can rotate around, transforming the 27-inch landscape monitor into a vertical form factor.
+<a href='https://www.theverge.com/2021/1/7/22217345/lenovo-aio-7-rotating-display-all-in-one-ces-2021-desktop'> Source <a/>
