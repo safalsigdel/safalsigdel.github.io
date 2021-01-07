@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AM3lnXlA5b2PbTc6uc5TMz8eFgg=/0x0:6155x4106/1200x800/filters:focal(2586x1561:3570x2545)/cdn.vox-cdn.com/uploads/chorus_image/image/68624953/1294541016.0.jpg' width='700px' /><br/>
-President Trump has signed a new executive order prohibiting transactions with the companies behind eight Chinese apps, including Ant Group's Alipay and Tencent's QQ and WeChat Pay. Transactions will be prohibited in 45 days. Reuters was the first to report the news.
-<a href='https://www.theverge.com/2021/1/5/22215961/trump-executive-order-prohibiting-transactions-eight-chinese-apps-alipay-tencent-qq-wechat-pay'> Source <a/>

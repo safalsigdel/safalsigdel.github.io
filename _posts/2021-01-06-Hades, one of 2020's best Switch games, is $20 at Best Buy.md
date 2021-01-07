@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1ZvCxTsmWi1xCKgxN5Q_UH_v58U=/0x0:1920x1079/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68622175/Hades_Wallpaper_01.0.jpg' width='700px' /><br/>
-If you recently purchased a Nintendo Switch or received one as a gift during the holidays, and you want to start building out your game library, Hades is on sale for $20 at Best Buy today.
-<a href='https://www.theverge.com/good-deals/2021/1/5/22214879/hades-nintendo-switch-best-buy-deal-sale'> Source <a/>

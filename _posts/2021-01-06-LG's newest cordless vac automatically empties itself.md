@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TcTYFo6K0ovgzJHLvL742zbaCAE=/0x257:2560x1460/1200x800/filters:focal(625x603:1033x1011)/cdn.vox-cdn.com/uploads/chorus_image/image/68626533/2021_LG_CordZero_and_Charging_Station_scaled.0.jpg' width='700px' /><br/>
-LG's new vacuum cleaner, the ridiculously named LG CordZeroThinQ A9 Kompressor Plus, should be a little easier to empty than most cordless vacuums. Its charging station is equipped with a “fully-automated dust removal system,” which sucks the contents of the vac's dustbin into a dust bag as the device charges.
-<a href='https://www.theverge.com/2021/1/6/22216614/lg-cordzerothinq-a9-kompressor-plus-cordless-vacuum-cleaner-charging-station-automatic-emptying'> Source <a/>

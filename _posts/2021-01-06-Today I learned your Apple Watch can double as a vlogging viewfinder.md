@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-The Apple Watch's ability to act as a camera remote for your phone got a mention in its announcement keynote, so it's been around a while, but I've only ever used it once or twice to take group pictures. Twitter user @PeterSciretta, however, has pointed out that you can also use it as a vlogging aid.
-<a href='https://www.theverge.com/tldr/2021/1/5/22216064/iphone-vlogging-video-apple-watch-viewfinder'> Source <a/>

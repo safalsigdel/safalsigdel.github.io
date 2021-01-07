@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aZ48yXH6TyZCENsbBbXtK18LqsY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68626668/acastro_180510_1777_alexa_0003.0.jpg' width='700px' /><br/>
-Amazon is developing a new Alexa-powered device that can track and monitor for signs of sleep apnea using radar, according to a new report from Business Insider. The palm-sized device is reportedly designed to sit on a bedside table and use millimeter-wave radar to sense your breathing, keeping an eye out for interruptions associated with the apnea sleeping disorder.
-<a href='https://www.theverge.com/2021/1/6/22216648/amazon-sleep-tracking-alexa-brahms-apnea-radar-device'> Source <a/>

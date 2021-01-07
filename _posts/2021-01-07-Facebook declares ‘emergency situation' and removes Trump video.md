@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4qSNX6zDRejLMMPN5_a6bSXDxog=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68630098/acastro_180406_1777_facebook_Congress_0001.0.jpg' width='700px' /><br/>
+As rioters attacked the US Capitol on Wednesday, Facebook removed a video from President Donald Trump responding to the violence. The decision came around an hour after the video was posted on the platform.
+<a href='https://www.theverge.com/2021/1/6/22217788/facebook-remove-trump-video-emergency-situation-mob-violence'> Source <a/>

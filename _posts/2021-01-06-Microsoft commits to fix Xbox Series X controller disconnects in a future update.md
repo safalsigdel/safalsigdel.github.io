@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S2MpI4a21iMZwfrjMb8LeqsOh20=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/68622943/twarren_xboxseriesxcontroller_VLS_3632_2_11.0.jpg' width='700px' /><br/>
-The Xbox Series X feels like a huge PC-like upgrade for your Xbox games, but a fraction of buyers have been experiencing an unusual downgrade as well — the new Xbox Series X gamepad doesn't seem to stay connected to the console in some games and some situations, according to a 40-page thread in Microsoft's help forum.
-<a href='https://www.theverge.com/2021/1/5/22215289/microsoft-xbox-series-x-controller-disconnect-update'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-gD4p4W0kbfMPU5RWKUGZv9vdKs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68622964/acastro_210104_1777_google_0001.0.jpg' width='700px' /><br/>
-On Monday, roughly 230 Google employees announced they were forming a union with the Communications Workers of America (CWA). It's open to employees and contractors at Alphabet, Google's parent company. As a minority union, it doesn't need to go through a formal legal process in order to exist. It just needs to announce itself. That part is done. World, meet the Alphabet Workers Union (AWU).
-<a href='https://www.theverge.com/2021/1/5/22215171/google-alphabet-union-cwa-organizers-goals-explainer'> Source <a/>

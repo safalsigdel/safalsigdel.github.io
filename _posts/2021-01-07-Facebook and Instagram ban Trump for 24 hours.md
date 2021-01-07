@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7Q8GpcevRDOjdaaO6iOJgfwOclo=/0x0:4634x3089/1200x800/filters:focal(1741x559:2481x1299)/cdn.vox-cdn.com/uploads/chorus_image/image/68630679/1294918265.0.jpg' width='700px' /><br/>
+Facebook has blocked President Trump from posting on the site for 24 hours, the company said Wednesday evening. The decision comes after the company already removed posts he made in support of the pro-Trump mob that attacked the US Capitol on Wednesday.
+<a href='https://www.theverge.com/2021/1/6/22218009/trump-facebook-ban-block-posting-24-hours-capitol-riot'> Source <a/>

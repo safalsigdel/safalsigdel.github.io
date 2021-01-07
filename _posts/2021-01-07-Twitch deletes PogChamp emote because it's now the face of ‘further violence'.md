@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1BnmgPuuDZoU-6uMPHDM0ex95WI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68630905/acastro_200901_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
+Twitch banned the popular PogChamp emote Wednesday after the person depicted in it published tweets “encouraging further violence” following a riot at the US Capitol.
+<a href='https://www.theverge.com/2021/1/6/22218088/twitch-bans-pogchamp-poggers-capitol-trump-violence-gootecks'> Source <a/>

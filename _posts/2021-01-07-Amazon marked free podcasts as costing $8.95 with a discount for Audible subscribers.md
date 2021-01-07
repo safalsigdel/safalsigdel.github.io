@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NLNqEZdALukKVQH3xqCAeXaq_OE=/0x0:1569x1046/1200x800/filters:focal(743x693:993x943)/cdn.vox-cdn.com/uploads/chorus_image/image/68628328/vergecast.0.jpg' width='700px' /><br/>
+Charlie Harding, the host of the podcast Switched On Pop, noticed something strange when he searched his podcast name on Amazon yesterday: a price tag. An $8.95 price, to be exact, marked as a “limited deal” with the suggestion to buy an Audible subscription to get a discount.
+<a href='https://www.theverge.com/2021/1/6/22216803/amazon-audible-subscription-podcast-advertisement'> Source <a/>

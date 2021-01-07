@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O6qkR7336WJ1AeXL5L2GlHijMQ0=/0x0:1850x1372/1200x800/filters:focal(801x27:1097x323)/cdn.vox-cdn.com/uploads/chorus_image/image/68624546/Screen_Shot_2021_01_05_at_3.29.11_PM.0.png' width='700px' /><br/>
-Apple's MagSafe charging system offers a whole new way to charge iPhones, and third-party companies like Anker are jumping at the chance to make their own magnetic chargers — both official ones that work with Apple's system and unofficial ones that just take advantage of the magnetic setup.
-<a href='https://www.theverge.com/2021/1/5/22215639/anker-magsafe-qi-charger-apple-alternative-giant-usb-c-plug-explained'> Source <a/>

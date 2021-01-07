@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ksceOYx4rMUp7x6v9beIhE2gRac=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68628290/waymo_chrysler_pacifica_detroit_auto_show_2017_0547.0.jpg' width='700px' /><br/>
+Waymo is saying so long to “self-driving.”
+<a href='https://www.theverge.com/2021/1/6/22216848/waymo-change-self-driving-autonomous-language-tesla'> Source <a/>

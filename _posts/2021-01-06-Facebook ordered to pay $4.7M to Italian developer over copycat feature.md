@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bVtVomvSzTikeZqT4CgaQ4jmF34=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68626816/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-Facebook has been ordered to pay xe2x82xac3.83 million (around $4.72 million) in damages to an Italian developer over the social network's “Nearby” feature. Reuters reports that the Milan-based appeals court upheld a 2019 ruling saying Facebook had copied the feature from developer Business Competence's Faround app.
-<a href='https://www.theverge.com/2021/1/6/22216692/facebook-nearby-feature-copied-italian-court-app-faround'> Source <a/>

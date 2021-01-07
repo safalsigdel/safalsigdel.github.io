@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L0GV9tSmu2_cvty_zGHDu0HJSgA=/0x0:5000x3750/1200x800/filters:focal(1520x990:2320x1790)/cdn.vox-cdn.com/uploads/chorus_image/image/68623988/1211647318.0.jpg' width='700px' /><br/>
-GitHub says it will now offer its full range of services in Iran, after imposing restrictions on the platform for Iranian developers due to US sanctions. The changes are due to an exemption granted by the Office of Foreign Assets Control (OFAC), the sanction enforcement arm of the US Treasury Department.
-<a href='https://www.theverge.com/2021/1/5/22215588/github-iran-sanction-exemption-license-granted-us-treasury-microsoft'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TxXp7RonuvvxL75RWpLfv1hSgRE=/0x0:4000x2521/1200x800/filters:focal(1680x941:2320x1581)/cdn.vox-cdn.com/uploads/chorus_image/image/68629296/1230453994.6.jpg' width='700px' /><br/>
+Pro-Trump protesters have stormed the US Capitol building, effectively halting a vote to certify the results of the 2020 election. The Capitol is currently on lockdown, and lawmakers from both chambers have been evacuated as the mob has breached both congressional chambers and voting floors. Tear gas has reportedly been deployed in the rotunda in an effort to secure the building.
+<a href='https://www.theverge.com/2021/1/6/22217411/capitol-building-lockdown-protesters-trump-supporters'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/laE5jVsQS2XA3HpZB9j2btyj2nc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68622690/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-When Facebook lifted its ban on political ads in Georgia, local News Feeds became dramatically more partisan and less informative, according to research published on Tuesday by The Markup.
-<a href='https://www.theverge.com/2021/1/5/22215067/facebook-ads-georgia-runoff-political-ad-ban-zuckerberg'> Source <a/>

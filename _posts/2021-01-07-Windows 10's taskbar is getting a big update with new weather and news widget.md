@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WFvRbbmd108ikLPe5N1MM_xeg9E=/0x0:5280x3520/1200x800/filters:focal(2218x1338:3062x2182)/cdn.vox-cdn.com/uploads/chorus_image/image/68628677/windows10newtaskbar.0.jpg' width='700px' /><br/>
+Microsoft is making a big change to its Windows 10 taskbar soon, with the addition of a news and weather widget. The new feature is available to testers today, and it will allow Windows 10 users to access a feed of news, stocks, and weather information straight from the taskbar. You'll be able to quickly glance at the weather without having to open the Start menu, install a third-party app, or check online.
+<a href='https://www.theverge.com/2021/1/6/22217153/microsoft-windows-10-taskbar-weather-news-widget-feature'> Source <a/>

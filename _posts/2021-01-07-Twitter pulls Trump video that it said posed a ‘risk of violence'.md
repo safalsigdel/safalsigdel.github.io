@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wk4iNjojjPPynyGbx91YVpFKyhY=/0x0:5127x3399/1200x800/filters:focal(2154x1290:2974x2110)/cdn.vox-cdn.com/uploads/chorus_image/image/68629839/1230455792.0.jpg' width='700px' /><br/>
+In the wake of an unprecedented mob attack on the Capitol building, Twitter restricted and then removed a tweet from President Donald Trump, including its attached video. Users initially could no longer reply to, like, or retweet the post due to what Twitter referred to as a “risk of violence.” The tweet containing the video was then deleted entirely with a nonspecific link to Twitter's policy guidelines.
+<a href='https://www.theverge.com/2021/1/6/22217697/twitter-trump-facebook-restrict-violence-tweet-video-capitol-riot-maga'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KssgAyz_jW_-fCnOX9xabpB5ObM=/0x0:2040x1360/1200x800/filters:focal(819x515:1145x841)/cdn.vox-cdn.com/uploads/chorus_image/image/68627891/cwelch210104_4356_0004.0.jpg' width='700px' /><br/>
+With its 2021 lineup of 4K and 8K QLED TVs, Samsung is introducing a new Eco Remote Control that the company claims will “reduce tons of plastic waste per year” and further its efforts to reduce its environmental impact.
+<a href='https://www.theverge.com/2021/1/6/22216912/samsung-eco-remote-control-solar-charging-ces-2021'> Source <a/>

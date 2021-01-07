@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fYd5Ca_P_aHDblGuFeiGrjLMNe4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68623908/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple has been granted two patents that describe adding two-way wireless charging to its devices (via 9to5Mac). The patents, first spotted by Patently Apple, include drawings that show a MacBook charging various devices, including an iPhone, iPad, and Apple Watch, as well as drawings of iPads and iPhones doing the same.
-<a href='https://www.theverge.com/2021/1/5/22215413/apple-patent-device-wireless-charging-iphone-macbook'> Source <a/>

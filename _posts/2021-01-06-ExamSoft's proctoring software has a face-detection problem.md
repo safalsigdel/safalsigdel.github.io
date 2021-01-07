@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DVVTNx-RRQSM08KQAC7OARRQyhM=/0x0:3295x2197/1200x800/filters:focal(1385x836:1911x1362)/cdn.vox-cdn.com/uploads/chorus_image/image/68625600/1289175672.0.jpg' width='700px' /><br/>
-Gabe Teninbaum, a professor at Suffolk University Law School, is calling on ExamSoft to fix a serious bug with its test-taking software: failure to recognize faces. It's a problem that can delay test takers — or bar them from starting their exams altogether — and per reports, it disproportionately impacts people with dark skin tones.
-<a href='https://www.theverge.com/2021/1/5/22215727/examsoft-online-exams-testing-facial-recognition-report'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+The concept of “petro-masculinity” was on full display Wednesday as Trump supporters and extremists like the Proud Boys haphazardly parked vehicles on the National Mall in Washington, DC before breaking into the Capitol, causing an evacuation. The astounding images depict a collective act that is simultaneously wholly un-American and yet completely in line with the psychology of this country as it relates to car ownership, personal freedom, and tendencies toward authoritarianism.
+<a href='https://www.theverge.com/tldr/2021/1/6/22217432/trump-supporters-petro-masculinity-capitol-building'> Source <a/>

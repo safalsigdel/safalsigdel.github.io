@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oGgBHV2GT0Q_sCajGOJi0Dysqw4=/0x0:4600x3067/1200x800/filters:focal(1932x1166:2668x1902)/cdn.vox-cdn.com/uploads/chorus_image/image/68623268/1155787631.0.jpg' width='700px' /><br/>
-Amazon announced it purchased 11 used Boeing 767-300 jets from Delta and WestJet, a first for the e-commerce giant. The company has been steadily building up its air cargo capacity over the years through leasing agreements, but this is the first time Amazon has ever owned its own aircraft.
-<a href='https://www.theverge.com/2021/1/5/22215279/amazon-buys-boeing-jets-planes-delta-westjet'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JPJjGIJSA2PMUMIzMURqOLNnKJM=/0x0:4500x3001/1200x800/filters:focal(1651x955:2371x1675)/cdn.vox-cdn.com/uploads/chorus_image/image/68629571/1230454306.0.jpg' width='700px' /><br/>
+A mob of President Donald Trump supporters stormed the US Capitol building this afternoon, and the event was live-streamed. On YouTube, Twitch, Facebook, and more, you could get a view of protesters gathered outside — and eventually inside — of the US Capitol. In some cases, the streams were monetized through tipping features. In others, streamers encouraged viewers to donate to accounts on Patreon or GoFundMe.
+<a href='https://www.theverge.com/2021/1/6/22217421/capitol-building-trump-mob-protest-live-stream-youtube-twitch-facebook'> Source <a/>

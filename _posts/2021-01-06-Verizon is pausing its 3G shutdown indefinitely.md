@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yC31Y8xbxCrhUy7IPNWvnd1tAFY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68623913/acastro_200109_1777_verizon_0004.0.0.jpg' width='700px' /><br/>
-Verizon is indefinitely delaying the shutdown of its 3G network, pushing back the original plan for the network to shutter at the end of 2020 to an as-yet-undetermined point in the future.
-<a href='https://www.theverge.com/2021/1/5/22215453/verizon-3g-shutdown-paused-delay-network-old-phones'> Source <a/>
