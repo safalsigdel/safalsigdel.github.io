@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wDtPmOatGyYh5clxvtEuZ11IWPs=/0x0:1140x882/1200x800/filters:focal(479x350:661x532)/cdn.vox-cdn.com/uploads/chorus_image/image/68631740/Screen_Shot_2021_01_06_at_4.48.53_PM.0.png' width='700px' /><br/>
+TikTok has released its first augmented reality filter that can utilize the iPhone 12 Pro's LIDAR sensor for an enhanced confetti effect that realistically settles on people or objects in your room.
+<a href='https://www.theverge.com/2021/1/7/22217465/tiktok-augmented-reality-filter-iphone-12-pros-lidar-camera'> Source <a/>
