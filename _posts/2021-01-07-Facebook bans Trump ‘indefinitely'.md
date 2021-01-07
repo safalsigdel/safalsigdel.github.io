@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R4i2dfNzKsujDS8TKdWi5LgiZ24=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68632642/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
+In a blog post Thursday, Facebook CEO Mark Zuckerberg announced that Facebook would ban President Donald Trump from its platforms “indefinitely” following a pro-Trump attack on the US Capitol this week. The ban will not be lifted before Inauguration Day, according to  Zuckerberg.
+<a href='https://www.theverge.com/2021/1/7/22218725/facebook-trump-ban-extended-capitol-riot-insurrection-block'> Source <a/>
