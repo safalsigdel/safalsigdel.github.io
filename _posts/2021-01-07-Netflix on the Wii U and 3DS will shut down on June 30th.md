@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rlkXQV0aG1IaJ2vxFTav78e6vsk=/0x0:555x368/1200x800/filters:focal(234x140:322x228)/cdn.vox-cdn.com/uploads/chorus_image/image/68628526/DSC_2612-555px.0.jpg' width='700px' /><br/>
-Nintendo is winding down support for the Netflix app on the Wii U and 3DS. The app will be shut down for existing users on June 30th, and if you've never downloaded it, it isn't available anymore. You can redownload the app if you've downloaded it in the past, however.
-<a href='https://www.theverge.com/2021/1/6/22217049/nintendo-netflix-wii-u-3ds-switch'> Source <a/>
