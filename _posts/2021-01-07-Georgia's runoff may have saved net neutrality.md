@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fN3AnPw8gj0f3yyuzvamOVHHtgg=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68627574/acastro_170711_1777_0004.0.jpg' width='700px' /><br/>
-Tuesday night was a good night for Democrats.
-<a href='https://www.theverge.com/2021/1/6/22216843/georgia-runoff-net-neutrality-fcc-jon-ossoff-raphael-warnock-democrats-senate'> Source <a/>
