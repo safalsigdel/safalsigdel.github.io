@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ABcu4smf7xpmQTQzAupUOZu6nB0=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/68632040/Lenovo_IdeaPad_5_Pro_AMD_Front_Facing_Cloud_Grey.0.png' width='700px' /><br/>
+Lenovo has announced a new lineup of IdeaPad laptops for 2021. But American readers should note that only one of them is coming to the US: the 16-inch IdeaPad 5 Pro.
+<a href='https://www.theverge.com/2021/1/7/22217872/lenovo-ideapad-5-pro-laptop-amd-ryzen-ces-2021'> Source <a/>
