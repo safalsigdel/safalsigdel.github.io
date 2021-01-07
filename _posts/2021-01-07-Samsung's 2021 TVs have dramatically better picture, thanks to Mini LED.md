@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9AVMVRCcvibQ2beakDT5mvxcXwk=/0x0:2040x1360/1200x800/filters:focal(877x515:1203x841)/cdn.vox-cdn.com/uploads/chorus_image/image/68627899/DSCF2812.0.jpg' width='700px' /><br/>
-Samsung is today announcing its upper tier of 2021 8K and 4K HDR TVs. And like TCL and LG before it, the company is moving to a more precise backlighting system that uses Mini LED technology for improved contrast and greater picture quality than its previous full-array local dimming systems — and Samsung's premium QLED LCD TVs were already impressive.
-<a href='https://www.theverge.com/2021/1/6/22215172/samsung-neo-qled-4k-8k-tv-announced-specs-ces-2021'> Source <a/>

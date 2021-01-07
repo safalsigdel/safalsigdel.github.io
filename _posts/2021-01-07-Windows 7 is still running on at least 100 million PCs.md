@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HUoNPh4tGTxaavmGU-xV-yVBjgg=/0x0:1020x671/1200x800/filters:focal(429x255:591x417)/cdn.vox-cdn.com/uploads/chorus_image/image/68628126/win7.0.1436517999.0.jpg' width='700px' /><br/>
-Windows 7 appears to still be running on at least 100 million machines, despite Microsoft ending support for the operating system a year ago. ZDNet has been analyzing the proportion of PCs still running Windows 7 across various analytics reports. While each data source pegs Windows 7 at different percentages of market share, most agree that the OS still makes up for around 20 percent of PCs.
-<a href='https://www.theverge.com/2021/1/6/22217052/microsoft-windows-7-109-million-pcs-usage-stats-analytics'> Source <a/>
