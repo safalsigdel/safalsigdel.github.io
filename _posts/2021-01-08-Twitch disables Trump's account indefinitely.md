@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BBDp-HLD9y-UVaZnqu2byE1gOSA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68633917/acastro_200901_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
-Twitch has disabled President Donald Trump's account indefinitely following his encouragement of a pro-Trump mob's attack of the US Capitol on Wednesday.
-<a href='https://www.theverge.com/2021/1/7/22219144/twitch-trump-ban-indefinitely-capitol-attack'> Source <a/>

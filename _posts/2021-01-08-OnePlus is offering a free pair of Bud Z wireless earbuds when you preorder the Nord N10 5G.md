@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mXMF4TEDBWWZHv74FS3aVqKK9jk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68638673/ajohnson200104_4354_0003.0.jpg' width='700px' /><br/>
+The OnePlus Nord line of smartphones will debut in the US on January 15th with two cheaper, midrange entries: the Nord N10 5G and the N100. You can preorder both phones from a variety of retailers ahead of release, but if you decide to buy either directly from OnePlus, the company will throw in a pair of wireless earbuds for free.
+<a href='https://www.theverge.com/good-deals/2021/1/8/22220369/oneplus-nord-n10-5g-playstation-plus-subscription-deal-sale'> Source <a/>
