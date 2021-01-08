@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nrIjot_0T6MLvd4IQ9_tcWt5bR4=/0x0:1710x1146/1200x800/filters:focal(719x437:991x709)/cdn.vox-cdn.com/uploads/chorus_image/image/68634459/Screen_Shot_2021_01_07_at_3.35.11_PM.0.png' width='700px' /><br/>
-Up until this point, Google's unlocked Pixel 4A 5G has only been available in black for those who want the unlocked phone. A white option was exclusive to Verizon's more expensive version of the device — more expensive because it includes millimeter-wave 5G. But soon, Google will be releasing a white model of the standard $499 unlocked Pixel 4A 5G for people who don't want to pay the mmWave tax.
-<a href='https://www.theverge.com/2021/1/7/22219305/google-pixel-4a-5g-unlocked-white-price-specs-release-date'> Source <a/>
