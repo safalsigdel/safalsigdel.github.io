@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lDBd1wokNbsOvBjEwsBNI49yPRk=/0x0:5636x3758/1200x800/filters:focal(2618x2118:3518x3018)/cdn.vox-cdn.com/uploads/chorus_image/image/68633171/1230456036.0.jpg' width='700px' /><br/>
-YouTube will temporarily restrict channels that post videos containing widespread misinformation about 2020 election results — including the channel of President Donald Trump.
-<a href='https://www.theverge.com/2021/1/7/22218876/youtube-trump-videos-election-results-misinformation-strike-removed'> Source <a/>
