@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZcdDnvQ2c5TvrmSJ0u6k7KawTC4=/0x0:1200x1200/1200x800/filters:focal(600x435:792x627)/cdn.vox-cdn.com/uploads/chorus_image/image/68634809/simple_card.0.png' width='700px' /><br/>
-Online-only bank Simple is shutting down, its parent company announced in an email to customers Thursday. BBVA USA, which acquired Simple in 2014 for $117 million, said it would be transitioning Simple customers to BBVA accounts but did not provide details about when the change would occur. BBVA USA was acquired by Pittsburgh-based PNC Bank in November.
-<a href='https://www.theverge.com/2021/1/7/22219271/simple-bank-online-shutting-down-pnc-bbva'> Source <a/>
