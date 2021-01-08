@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G5Fd8Unu3A12IhAFHWKSkAoHPVY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68638250/mchin190402_4357_0003.0.jpg' width='700px' /><br/>
+Thunderbolt 4 is here, and so is the first fully powered Thunderbolt 4 docking station. Kensington's SD5700T includes a whopping 11 ports, 90W of power delivery, and transfer speeds of up to 40Gbps. It provides either one 8K output at 30 Hz or two 4K outputs at 60 Hz.
+<a href='https://www.theverge.com/22219031/kensingtons-sd5700t-thunderbolt-4-dock-90w-charging'> Source <a/>
