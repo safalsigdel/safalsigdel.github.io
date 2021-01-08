@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NFe6iLtkoXIjEiTtzlhNwlBT5g8=/0x0:1456x819/1200x800/filters:focal(612x294:844x526)/cdn.vox-cdn.com/uploads/chorus_image/image/68638971/nickelodeon_location_2.jpg.adapt.1456w.0.jpg' width='700px' /><br/>
+Madden now has a SpongeBob SquarePants-themed field so you can live out your dreams of playing football in a virtual Bikini Bottom. The SpongeBob Reef-Top, which will only be available in Madden's arcade-style The Yard mode, will offer challenges that you can complete to unlock Nickelodeon-themed content as well as gear inspired by the famous yellow sponge himself.
+<a href='https://www.theverge.com/2021/1/8/22220669/madden-spongebob-squarepants-field-reef-top-the-yard'> Source <a/>

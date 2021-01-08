@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lpdnOwnWwhP17niJIw5f8X8CRmw=/0x0:4000x2719/1200x800/filters:focal(1680x1040:2320x1680)/cdn.vox-cdn.com/uploads/chorus_image/image/68634640/1211275409.0.jpg' width='700px' /><br/>
-Boeing has been criminally charged with conspiracy to defraud the United States by the Department of Justice and will have to pay a $2.5 billion fine for lying to the Federal Aviation Administration before and after the fatal 737 Max crashes in 2018 and 2019.
-<a href='https://www.theverge.com/2021/1/7/22219370/boeing-737-max-fraud-conspiracy-criminal-charges-fine-crashes'> Source <a/>
