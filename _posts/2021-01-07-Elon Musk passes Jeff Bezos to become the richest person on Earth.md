@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XXM8cpRXged80NB9ryppKsG1k8U=/0x0:5333x3591/1200x800/filters:focal(2241x1370:3093x2222)/cdn.vox-cdn.com/uploads/chorus_image/image/68632581/1229892934.0.jpg' width='700px' /><br/>
-Elon Musk has become the wealthiest person on the planet, surpassing Amazon CEO Jeff Bezos, thanks to the continued rise in Tesla's stock price. Musk is now worth around $188 billion, according to Bloomberg's Billionaires Index.
-<a href='https://www.theverge.com/2021/1/7/22163361/elon-musk-billionaire-richest-world-jeff-bezos-tesla-stock-spacex'> Source <a/>

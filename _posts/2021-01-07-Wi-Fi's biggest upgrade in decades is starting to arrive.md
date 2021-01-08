@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U8OKV8_LkBiulcYueBqBU-NPJLo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68631822/acastro__171016_1777_0001_v4.0.jpg' width='700px' /><br/>
-Wi-Fi is about to get a lot better. Many of this year's new phones, laptops, TVs, routers, and more will come with support for Wi-Fi 6E, a new upgrade to Wi-Fi that's essentially like expanding your wireless connection from a two-lane road to an eight-lane highway. It's the biggest upgrade to Wi-Fi in 20 years, and connections should be faster and a lot more reliable because of it.
-<a href='https://www.theverge.com/2021/1/7/22212938/wifi-6e-rollout-starting-2021-smartphones-tvs-laptops-vr-routers'> Source <a/>

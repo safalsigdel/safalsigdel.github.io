@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zrDHgwdgXfx5pOyl1bsBKXdnRFo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68635556/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
+TikTok will remove videos of President Trump's speech inciting supporters to mob the US Capitol on Wednesday, saying they violate the company's misinformation policy. TikTok will still let people post “counter speech” videos that dispute incorrect claims, however, and will let videos remain on the platform if they condemn violence or if they're posted by news organizations. TechCrunch was the first to report the news.
+<a href='https://www.theverge.com/2021/1/7/22219644/tiktok-videos-trump-inciting-supporters-us-capitol'> Source <a/>

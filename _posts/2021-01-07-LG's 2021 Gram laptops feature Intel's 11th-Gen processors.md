@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y5U0pb2QQA9ee4SsIPaetf7297Y=/0x0:1000x570/1200x800/filters:focal(420x205:580x365)/cdn.vox-cdn.com/uploads/chorus_image/image/68630632/2021_LG_gram_Lineup.0.jpg' width='700px' /><br/>
-LG has announced its 2021 lineup of Gram laptops, which feature a new design as well as some internal upgrades. There are five models. They include three clamshells (the Gram 17, the Gram 16, and the Gram 14) as well as two convertible models (the Gram 2-in-1 16 and the Gram 2-in-1 14).
-<a href='https://www.theverge.com/2021/1/6/22217915/lg-gram-17-2021-laptops-announced-specs-ces'> Source <a/>

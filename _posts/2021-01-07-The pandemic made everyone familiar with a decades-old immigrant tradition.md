@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WHKElznbW69ZCPs8WQ3INQmu00A=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68631825/acastro_210105_4358_immigrantVirtualGatherings_0001.0.jpg' width='700px' /><br/>
-The only thing that actually felt normal this holiday season was a video chat with my family on Christmas day. I logged on to a Facebook video call from New York City while my mom and brother called in from California. Aunts, uncles, cousins, nieces, and nephews joined from more states across the US, the UK, Canada, Qatar, and the Philippines.
-<a href='https://www.theverge.com/22215114/immigrant-family-video-calls-zoom-skype'> Source <a/>

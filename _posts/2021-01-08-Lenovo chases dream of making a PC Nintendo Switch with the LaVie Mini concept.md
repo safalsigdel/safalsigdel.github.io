@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Every year at CES, we see devices meant to bridge the worlds of handheld and PC gaming. This year, it's Lenovo and NEC that are still chasing that dream with the LaVie Mini. The device is a concept laptop-portable gaming console hybrid, and it includes a touchscreen, controller, and dock accessories.
+<a href='https://www.theverge.com/circuitbreaker/2021/1/7/22218956/lenovo-nec-switch-pc-lavie-mini-ces-concept'> Source <a/>

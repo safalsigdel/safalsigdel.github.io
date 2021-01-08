@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yhCPeHE26V3n6pJKv1t9LnEpFjw=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22217912/bfarsace190331_4355_0011.jpg' width='700px' /><br/>
-“Samsung Galaxy Chromebook 2” is a somewhat misleading title. Yes, this $549.99 laptop is technically the second device to bear the name “Samsung Galaxy Chromebook.” But it's not a sequel in the sense that it's an upgrade: Samsung didn't add a ton of new features or bump up many of the specs.
-<a href='https://www.theverge.com/22217002/samsung-galaxy-chromebook-2-price-release-date-hands-on-chrome-os-photos-video'> Source <a/>

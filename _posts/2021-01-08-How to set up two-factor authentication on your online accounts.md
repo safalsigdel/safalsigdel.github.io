@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/I0eu64YN3oPi47VSYrpySno6NDE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68635032/acastro_200214_3900_browser_package_0001.0.jpg' width='700px' /><br/>
+Just about any account you own on the internet is prone to being hacked. After numerous widespread breaches through the past few years, tech companies have been working together to develop a standard that would make passwords a thing of the past, replacing them with more secure methods like biometric or PIN-based logins that do not require transferring data over the internet.
+<a href='https://www.theverge.com/22215571/factor-authentication-2fa-apple-microsoft-google-how-to'> Source <a/>

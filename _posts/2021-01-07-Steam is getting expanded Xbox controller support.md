@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ziMkTGKH1D0BmzWusV13fs9uQjc=/0x0:4896x3264/1200x800/filters:focal(2057x1241:2839x2023)/cdn.vox-cdn.com/uploads/chorus_image/image/68631541/xbox_3_correct.0.0.jpg' width='700px' /><br/>
-A recent beta update for Steam has added new features for gamers using Xbox controllers. One of the more interesting additions is for Xbox Elite controller users, who can now use Valve's software to bind the accessory's rear paddles in controller configurations. The feature gives players more flexibility with how to use the extra inputs on the premium controller.
-<a href='https://www.theverge.com/2021/1/7/22218381/steam-beta-xbox-elite-controller-paddles-bind-ps5-player-led'> Source <a/>

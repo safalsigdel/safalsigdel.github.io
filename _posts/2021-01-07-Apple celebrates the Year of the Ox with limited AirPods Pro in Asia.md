@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KadpuZmdRzyNePvIA5P88p68dc4=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68631510/app.0.jpg' width='700px' /><br/>
-February 12th marks the first day of Lunar New Year, with 2021 ushering in the Year of the Ox and saying farewell to the Year of the Rat. To celebrate, Apple is releasing limited edition AirPods Pro in certain Asian countries, with a case branded with a new version of the cow emoji.
-<a href='https://www.theverge.com/2021/1/7/22218360/apple-lunar-new-year-ox-airpods-pro-asia'> Source <a/>

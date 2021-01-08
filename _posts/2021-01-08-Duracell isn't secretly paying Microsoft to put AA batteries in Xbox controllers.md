@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Cjia2LSpCw7svEurZfqttVWhFkE=/0x0:2640x1748/1200x800/filters:focal(1109x663:1531x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/68634563/twarren_xboxseriesxcontroller_VLS_3616_2_4.0.jpg' width='700px' /><br/>
+“Xbox Controllers Still Use AA Batteries Due to ‘A Constant Agreement' with Duracell,” Stealth Optional's headline reads. The headline spotlights the outlet's recent interview with Duracell's UK marketing manager, Luke Anderson, who told Stealth Optional that there's “always been this partnership with Duracell and Xbox... It's a constant agreement that Duracell and Microsoft have in place.”
+<a href='https://www.theverge.com/2021/1/7/22219137/xbox-duracell-battery-partnership-rumor-debunked'> Source <a/>

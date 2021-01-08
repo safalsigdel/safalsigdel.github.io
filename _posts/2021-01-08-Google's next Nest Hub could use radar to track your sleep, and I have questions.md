@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vDJY-4CVPU1xqsNFZ8_hRaK3CHg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68635782/dseifert_181018_3039_1267.0.jpg' width='700px' /><br/>
+Earlier this week, we reported that Google could be working on an updated Nest Hub that had Soli technology, and a report from 9to5Google now suggests that it could be for something unexpected: sleep tracking.
+<a href='https://www.theverge.com/2021/1/7/22219686/google-nest-hub-radar-track-sleep-soli'> Source <a/>

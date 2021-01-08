@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qXLuAaona7zg0aaFJFl2A-rlgUo=/0x0:4870x3260/1200x800/filters:focal(2046x1241:2824x2019)/cdn.vox-cdn.com/uploads/chorus_image/image/68632901/1211910116.0.jpg' width='700px' /><br/>
+Shopify has taken down e-commerce sites from the Trump Organization and Trump campaign in response to Wednesday's violence at the US Capitol building, The Wall Street Journal reported.
+<a href='https://www.theverge.com/2021/1/7/22218776/shopify-trump-store-disable-campaign-ecommerce-sites-capitol'> Source <a/>

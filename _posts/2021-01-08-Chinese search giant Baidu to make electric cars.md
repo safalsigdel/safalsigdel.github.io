@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dDf82ZL9K3Qgn2UllpDI74qSOGY=/0x0:5472x3648/1200x800/filters:focal(2263x2166:3137x3040)/cdn.vox-cdn.com/uploads/chorus_image/image/68633552/1211912915.0.jpg' width='700px' /><br/>
+Chinese search giant Baidu plans to make electric vehicles with help from Geely, the country's largest private automaker, according to a new report from Reuters. It's the latest Chinese conglomerate to venture into the flourishing electric vehicle market, following shopping giant Alibaba and ride-hailing behemoth Didi Chuxing.
+<a href='https://www.theverge.com/2021/1/7/22218903/china-baidu-geely-electric-cars-partnership-tech'> Source <a/>

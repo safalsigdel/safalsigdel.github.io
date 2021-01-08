@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0yrEJm2aXG54uBY1ASqGiZWH3FM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68630051/acastro_180322_1777_youtube_0001.5.jpg' width='700px' /><br/>
-YouTube has removed a video from President Donald Trump addressing a mob attack on the Capitol today because the president repeats false information about the outcome of the 2020 election, The Verge has learned.
-<a href='https://www.theverge.com/2021/1/6/22217743/trump-capitol-attack-youtube-video-removed-twitter-facebook-moderation'> Source <a/>

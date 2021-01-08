@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2Dujw9ebX0vBk_bp0dfZT5R9lA4=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68633326/X95J_65_CCW.0.jpg' width='700px' /><br/>
+Last year's TV lineup from Sony took a bit of criticism since several sets were unable to take advantage of next-gen gaming features on the PlayStation 5 that shipped in November. Even if you look right now, the spread of HDMI 2.1 features is pretty sad. Sony never really acknowledged this as a mistake, believing that customers purchase its TVs for different reasons and not everyone needs every box checked off.
+<a href='https://www.theverge.com/2021/1/7/22218693/sony-tv-lineup-8k-4k-z9j-a90j-a80j-x95j-x90j-ces-2021'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f8HCcTRpSub9_50ZeCi4z5rq6zY=/0x0:3000x2000/1200x800/filters:focal(1918x1127:2398x1607)/cdn.vox-cdn.com/uploads/chorus_image/image/68633331/Chromebook_Enterprise_Spin_514_High_06.0.jpg' width='700px' /><br/>
+CES is just days away, but plenty of laptop companies are already unveiling their 2021 lineups. One of Acer's first new releases is the Chromebook Spin 514, powered by AMD's Ryzen 3000 mobile processors.
+<a href='https://www.theverge.com/2021/1/7/22218689/acer-chromebook-spin-514-enterprise-amd-ces'> Source <a/>

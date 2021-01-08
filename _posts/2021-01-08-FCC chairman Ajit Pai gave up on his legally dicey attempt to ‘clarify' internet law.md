@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/No95Ebo994JjeyCWyWR_IDF24Qw=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/68635746/1251845368.jpg.0.jpg' width='700px' /><br/>
+On October 15th, FCC chairman Ajit Pai promised that the FCC would “move forward with a rulemaking” to clarify the “meaning” of Section 230, the all-important internet law that protects free speech online.
+<a href='https://www.theverge.com/2021/1/7/22219677/fcc-ajit-pai-section-230-its-over'> Source <a/>

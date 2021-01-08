@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0_uSkc3_3UqR4kBFrF0CEyZlQW4=/0x0:4096x3072/1200x800/filters:focal(2149x847:2803x1501)/cdn.vox-cdn.com/uploads/chorus_image/image/68633907/1229931679.0.jpg' width='700px' /><br/>
+Encrypted messaging app Signal says it's seeing a swell of new users signing up for the platform, so much so that the company is seeing delays in phone number verifications of new accounts across multiple cell providers.
+<a href='https://www.theverge.com/2021/1/7/22218989/signal-new-signups-whatsapp-facebook-privacy-controversy-elon-musk'> Source <a/>

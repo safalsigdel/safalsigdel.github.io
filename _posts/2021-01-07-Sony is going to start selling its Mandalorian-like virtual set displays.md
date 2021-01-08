@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n13xkDO8jXW3yyti46Cwf-7KbL0=/0x0:1296x730/1200x800/filters:focal(543x323:749x529)/cdn.vox-cdn.com/uploads/chorus_image/image/68630573/4_application_virtual_sets_H_2021_1609869131_compressed.0.jpg' width='700px' /><br/>
-Sony has announced that it's going to start selling a series of modular displays that can be used to create digital movie sets (via The Hollywood Reporter). If this kind of technology seems familiar, it may be because Industrial Light & Magic and Epic Games built similar sets to help create The Mandalorian.
-<a href='https://www.theverge.com/2021/1/6/22217554/sony-selling-microled-production-display-mandalorian-production'> Source <a/>

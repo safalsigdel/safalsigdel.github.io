@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j27m3_-d5HUT5LtTkpWmT0JMb1k=/0x0:2942x2100/1200x800/filters:focal(1797x684:2267x1154)/cdn.vox-cdn.com/uploads/chorus_image/image/68633276/1230388043.0.jpg' width='700px' /><br/>
+Online platforms have taken action against President Donald Trump in response to his encouragement of a pro-Trump mob that attacked the US Capitol on January 6th. That day, Facebook and Twitter removed some of Trump's social media posts, a video, and instituted short-term bans on Trump's accounts.
+<a href='https://www.theverge.com/22218805/donald-trump-platforms-bans-facebook-twitter-youtube'> Source <a/>
