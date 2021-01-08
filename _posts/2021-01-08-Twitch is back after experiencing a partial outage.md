@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y6A3mwgtok7BacpHWJq7foS4vQ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68634684/acastro_190812_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
-Twitch experienced a partial outage on Thursday afternoon. During the outage, I was able to navigate to the site's homepage, but often, the carousel of featured streams didn't load. In a few instances, when I clicked into a stream, it briefly loaded before the site showed an error message.
-<a href='https://www.theverge.com/2021/1/7/22219381/twitch-down-outage-not-loading-issue'> Source <a/>
