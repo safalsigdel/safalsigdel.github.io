@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xlcyYZpYafuke5xv5eL9UwlOBKI=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/68637869/microsoftteamsdynamicview.0.jpg' width='700px' /><br/>
+Microsoft is updating its Teams service with a new Dynamic View in March. This new view allows Teams users to share content side by side with participants. It looks ideally positioned for meetings where someone is presenting a slide deck or if participants are watching a live event together.
+<a href='https://www.theverge.com/2021/1/8/22220433/microsoft-teams-new-dynamic-view-feature-march-2021-release-date'> Source <a/>
