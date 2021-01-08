@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UFQCI2nk-MsMUQ_vXPNALJmfqq0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68636935/dseifert_191031_3770_0006.0.jpg' width='700px' /><br/>
+Sony has announced an expansion of its 360 Reality Audio platform, bringing the 360-degree music format to more devices and media as well as offering new creation tools. 360 Reality Audio uses object-based spatial audio technology to place instruments or vocals around the listener's head in a virtual sound field.
+<a href='https://www.theverge.com/2021/1/8/22220223/sony-360-degree-audio-video-speakers-software'> Source <a/>
