@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HDARjmyJS0q_jfK-ztgj9TEqkJc=/0x0:3000x3000/1200x800/filters:focal(1260x1260:1740x1740)/cdn.vox-cdn.com/uploads/chorus_image/image/68637360/JLab_JBuds_Frames_glasses_greyed_out.0.jpg' width='700px' /><br/>
+JLab is introducing a new Bluetooth audio gadget designed to be clipped onto your existing glasses or sunglasses. The JBuds Frames are two modules with downward-firing speakers you position right outside your ears. They are part of a resurgent trend of open-ear audio that has usually been the domain of Bluetooth-enabled sunglasses and bone-conducting bands.
+<a href='https://www.theverge.com/2021/1/8/22219425/jlab-audio-jbuds-frames-open-ear-headphones-price-release-date'> Source <a/>
