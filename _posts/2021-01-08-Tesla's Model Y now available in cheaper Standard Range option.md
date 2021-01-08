@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/clWaJVvud3lHAtXQhYY9VoMsGqs=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68637202/msedge_LxyYS8lexd.0.png' width='700px' /><br/>
+Tesla is now taking orders for a cheaper Standard Range version of the Model Y. The new variant, whose availability was reported by Electrek, has a cheaper starting price of $41,990 compared to $49,990 for the Long Range model. The discount comes with a lower EPA estimated range of 244 miles rather than 326 miles, and rear-wheel rather than all-wheel drive.
+<a href='https://www.theverge.com/2021/1/8/22220265/tesla-model-y-standard-range-cheapest-version-reduced-price'> Source <a/>
