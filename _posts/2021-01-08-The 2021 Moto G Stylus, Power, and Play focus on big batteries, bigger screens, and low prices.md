@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Skc3H0yXS08FfNHkAHCLduHlabs=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/68637859/moto_phones.0.jpg' width='700px' /><br/>
+Motorola is kicking off 2021 with refreshes for its midrange Moto G lineup of phones with new versions of the Moto G Power, Moto G Stylus, and Moto G Play that promise low prices and days of battery life across the board. There's also a new member of the Motorola One family called the Motorola One 5G Ace, which, at $399, takes the crown as Motorola's cheapest 5G phone yet.
+<a href='https://www.theverge.com/2021/1/8/22218732/motorola-moto-g-stylus-power-play-2021-one-5g-ace-specs-price-release-date-budget'> Source <a/>
