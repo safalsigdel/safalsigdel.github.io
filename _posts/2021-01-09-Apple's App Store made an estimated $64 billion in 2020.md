@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BtkgIqNEKPfYLkKV0qNHbeaMCKY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68639784/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
+According to CNBC's analysis, Apple's App Store made $64 billion in revenue in 2020, which is a 28 percent increase from the estimated $50 billion it made in 2019. This represents a good amount of growth for the App Store since the estimated increase between 2018 and 2019 was only 3.1 percent.
+<a href='https://www.theverge.com/2021/1/8/22220873/apple-2020-app-store-revenue-60-billion-dollars'> Source <a/>

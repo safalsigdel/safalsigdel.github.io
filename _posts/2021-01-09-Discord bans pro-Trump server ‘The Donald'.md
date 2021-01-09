@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WeQ0_m_qNeuFQtD2lKkzZkHyIeQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68641510/acastro_200318_1777_discord_0001.0.0.jpg' width='700px' /><br/>
+Discord has banned a server called “The Donald,” a pro-Trump community linked to banned subreddit r/The_Donald and TheDonald.win. The news was first reported by Platformer writer (and Verge contributor) Casey Newton.
+<a href='https://www.theverge.com/2021/1/8/22221579/discord-bans-the-donald-server-reddit-subreddit'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PxxldlOlChwstW18SWH_MvCZGEg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68641549/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google has suspended Parler from the Play Store, as first reported by Axios reporter Ashley Gold. We've confirmed the app is no longer on the store.
+<a href='https://www.theverge.com/2021/1/8/22221648/google-suspends-bans-parler-play-store'> Source <a/>

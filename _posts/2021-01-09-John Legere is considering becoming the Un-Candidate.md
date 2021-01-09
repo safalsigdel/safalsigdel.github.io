@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+John Legere, former T-Mobile CEO and aspiring Batman, has reacted to the mob that attacked the Capitol like many other political and business leaders by calling for President Donald Trump to step down. But he's also going a step further by considering a run for political office himself. Legere left his post as CEO and member of T-Mobile's board after successfully negotiating the merger between the company and Sprint, so he very well could be looking far and wide for his next gig.
+<a href='https://www.theverge.com/tldr/2021/1/8/22220903/john-legere-tmobile-ceo-getting-into-politics-running'> Source <a/>

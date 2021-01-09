@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/08Y0yt6kRYJy3D_N54Tq3G1nDQQ=/0x0:3000x2081/1200x800/filters:focal(1260x801:1740x1281)/cdn.vox-cdn.com/uploads/chorus_image/image/68640750/1151710958.0.jpg' width='700px' /><br/>
+Twitter has suspended prominent backers of the QAnon conspiracy theory, citing a potential for “offline harm.” NBC News reporter Ben Collins reported the ban of former Trump administration national security adviser Michael Flynn, former Trump attorney Sidney Powell, and former 8kun administrator Ron Watkins. Other major QAnon accounts have apparently been banned as well.
+<a href='https://www.theverge.com/2021/1/8/22221332/twitter-ban-qanon-accounts-michael-flynn-sidney-powell-ron-watkins'> Source <a/>

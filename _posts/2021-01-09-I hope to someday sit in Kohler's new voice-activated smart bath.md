@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ytRTP63-hG-KNtGR8x2UTbx4swg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68637265/Kohler_aad32136_rgb_SM.0.jpg' width='700px' /><br/>
-Kohler has revealed a new smart bath that lets you use an app, or your voice, to fill up the water. That by itself seems pretty handy to me, but depending on which model you buy, you can elevate your bathing experience by changing the color of lights around the tub or even adding some fog.
-<a href='https://www.theverge.com/2021/1/8/22218786/kohler-smart-stillness-bath-amazon-alexa-google-assistant'> Source <a/>
