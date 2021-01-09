@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8ww5ESBFQZq9ktdqW8iCp_VDGwc=/0x0:900x506/1200x800/filters:focal(378x181:522x325)/cdn.vox-cdn.com/uploads/chorus_image/image/68637965/Woman_Unpacking_Amazon_Prime_Pantry_Box.0.jpg' width='700px' /><br/>
-Amazon has announced that it's discontinued its Amazon Pantry (originally known as Prime Pantry) service, instead rolling those household goods and shelf-stable pantry items into the main Amazon website where they can be ordered alongside the rest of Amazon's products.
-<a href='https://www.theverge.com/2021/1/8/22220331/amazon-pantry-discontinued-prime-grocery-delivery-services'> Source <a/>

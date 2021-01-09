@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NMw45jJ2OtkROfXdBjD-ZO7Azj4=/0x0:3500x2333/1200x800/filters:focal(1470x887:2030x1447)/cdn.vox-cdn.com/uploads/chorus_image/image/68642984/695185380.0.jpg' width='700px' /><br/>
+Sports betting company DraftKings and the Drone Racing League (DRL)  will now allow betting on drone races in some states, the two companies announced. DRL, which CNBC describes as a first-person view racing league, allows pilots to compete for prizes by flying their drones through courses.
+<a href='https://www.theverge.com/2021/1/9/22222051/draftkings-drl-betting-drone-races'> Source <a/>
