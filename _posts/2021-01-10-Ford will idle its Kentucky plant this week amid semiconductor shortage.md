@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/87n2XCiFJdH05RvxHj6HKs-A50Q=/0x0:5184x3456/1200x800/filters:focal(1406x1039:2234x1867)/cdn.vox-cdn.com/uploads/chorus_image/image/68645794/456152796.0.jpg' width='700px' /><br/>
+Ford will idle its plant in Kentucky for a week as the automotive industry grapples with a shortage of semiconductors, ABC News reported The automaker's assembly plant in Louisville produces the Ford Escape and Lincoln Corsair SUVs, and employs about 3,900 hourly workers, according to CNBC. Ford said will take a planned one-week plant shutdown that had been scheduled for later in the year and move it to this week instead.
+<a href='https://www.theverge.com/2021/1/10/22222166/semiconductor-shortage-ford-idle-kentucky-toyota-nissan-volkswagen'> Source <a/>

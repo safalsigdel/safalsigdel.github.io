@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MG0eU6P82B9-eqFJlGFnwHaIzaM=/0x0:5374x3583/1200x800/filters:focal(2258x1363:3116x2221)/cdn.vox-cdn.com/uploads/chorus_image/image/68638603/1229768128.0.jpg' width='700px' /><br/>
-Dominion Voting Systems is suing President Donald Trump's former attorney Sidney Powell for spreading unfounded conspiracy theories about its election equipment. The long-awaited defamation suit could test the impact of legal attacks on disinformation.
-<a href='https://www.theverge.com/2021/1/8/22220553/dominion-conspiracy-theory-lawsuit-former-trump-lawyer-voting-machine'> Source <a/>
