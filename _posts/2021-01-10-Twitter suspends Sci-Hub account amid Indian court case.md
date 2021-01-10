@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DF261BsdDcjLPMhLNCWpxneE2VI=/0x0:1165x648/1200x800/filters:focal(171x177:357x363)/cdn.vox-cdn.com/uploads/chorus_image/image/68638987/scihub_home_page.0.png' width='700px' /><br/>
-Twitter has suspended the account of Sci-Hub, a website that provides free access to paywalled academic papers. The account was being used by Sci-Hub's founder to collect statements of support from the scientific community during an ongoing court case in India.
-<a href='https://www.theverge.com/2021/1/8/22220738/twitter-sci-hub-suspended-indian-court-case'> Source <a/>
