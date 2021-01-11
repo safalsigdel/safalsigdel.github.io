@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZmZ-5XJJPGKtKD5egPK0ZQZ5Z94=/0x0:650x375/1200x800/filters:focal(273x136:377x240)/cdn.vox-cdn.com/uploads/chorus_image/image/68646443/Seaview_Work_Featured_Images_Ratatouille_650x375.0.jpg' width='700px' /><br/>
-The Ratatouille TikTok musical will return for an encore performance Sunday night on the platform where it all started. TikTok is hosting another showing of the streaming musical that debuted online New Year's Day, which has already raised more than $1 million for The Actors Fund.
-<a href='https://www.theverge.com/2021/1/10/22223481/tiktok-encore-performance-ratatouille-musical-broadway'> Source <a/>

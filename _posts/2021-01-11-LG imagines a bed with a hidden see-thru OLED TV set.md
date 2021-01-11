@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-LG Display is continuing its trend of reimagining the future of screens at CES 2021 with a new transparent TV. The panel is a 55-inch OLED, but its transparent design lets you see through it even when it's turned on and displaying an image.
-<a href='https://www.theverge.com/2021/1/10/22223774/lg-transparent-oled-tv-display-55-inch-smart-bed-ces-2021'> Source <a/>
