@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZRHwuL1z4Cu4L1NU8RiSzXbqPEs=/0x0:1514x764/1200x800/filters:focal(656x161:898x403)/cdn.vox-cdn.com/uploads/chorus_image/image/68649366/Screen_Shot_2021_01_11_at_8.40.39_AM.0.png' width='700px' /><br/>
+Reah Keem is just like you and I — she loves working on music, vacationing abroad, and is pretty bummed out about not being able to visit any cool places right now. The biggest difference, however, is that Reah Keem isn't a real person.
+<a href='https://www.theverge.com/2021/1/11/22224601/lg-ces-virtual-influencer-dj-reah-keem-uvc-robot'> Source <a/>
