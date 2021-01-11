@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IS2sG71BcHrbqLBSFCy5T7jL46M=/0x0:4000x2696/1200x800/filters:focal(1680x1028:2320x1668)/cdn.vox-cdn.com/uploads/chorus_image/image/68638889/1225872887.0.jpg' width='700px' /><br/>
-Apple and Google are facing new pressure to deplatform Parler, a social network founded as a less moderated and more conservative-friendly alternative to Facebook and Twitter. Late Friday, BuzzFeed News reported that Apple has given Parler 24 hours to put a moderation platform into place or be expelled from its App Store.
-<a href='https://www.theverge.com/2021/1/8/22220366/apple-google-parler-pressure-deplatform-violence-capitol'> Source <a/>
