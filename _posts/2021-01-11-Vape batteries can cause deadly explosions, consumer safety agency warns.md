@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2KqkFJEli8TVFBsor7zo6imbEQA=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/68640698/1216547481.0.jpg' width='700px' /><br/>
-Consumers should not buy or use individual 18650 lithium-ion battery cells due to possible fire risk, according to a warning just issued by the Consumer Product Safety Commission (CPSC). The commission says it is working with e-commerce sites like eBay to remove listings of loose 18650 cells, which are sometimes used in vapes, e-cigarettes, flashlights, and toys.
-<a href='https://www.theverge.com/2021/1/8/22221366/vape-battery-explosions-warning-fires-death-injury-cpsc'> Source <a/>
