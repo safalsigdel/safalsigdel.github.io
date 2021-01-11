@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8N2h5H_pyRqBpFl240sWkCjUvcI=/0x0:5505x3670/1200x800/filters:focal(2313x1395:3193x2275)/cdn.vox-cdn.com/uploads/chorus_image/image/68641194/1223057457.10.jpg' width='700px' /><br/>
-Twitter permanently banned President Donald Trump on Friday, days after a pro-Trump mob stormed the US Capitol leaving five dead.
-<a href='https://www.theverge.com/2021/1/8/22218753/twitter-bans-trump-permanently-realdonaldtrump'> Source <a/>
