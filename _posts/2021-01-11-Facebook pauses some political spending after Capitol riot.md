@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8ObjOjROQY3hbdXt9dSlcDLmZzg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68650665/acastro_180406_1777_facebook_Congress_0001.0.jpg' width='700px' /><br/>
+Facebook announced Monday that it would pause its contributions to political action committees after last week's deadly attack on the US Capitol, as first reported by Axios.
+<a href='https://www.theverge.com/2021/1/11/22225096/facebook-pause-freeze-political-spending-microsoft'> Source <a/>

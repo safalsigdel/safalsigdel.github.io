@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6vao4MOysGdh_iuOsBN-eu01gU0=/0x0:2048x1366/1200x480/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/68648708/Shot_14_DogDoor_Jumping_Inside_042_r3.0.jpeg' width='700px' /><br/>
-My garage door opener is one of the most boring pieces of tech in my house, made by a company that's 67 years old. The one I bought last year looks almost identical to the ones it released a decade ago. But for the past 16 months, a small band of developers at Chamberlain has been quietly working on a gadget like nothing else on the market.
-<a href='https://www.theverge.com/22195916/chamberlain-myq-pet-portal-dog-door-price-date'> Source <a/>
