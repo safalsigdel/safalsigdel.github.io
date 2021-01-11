@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b2c8_QOanbvTi_J14rsqIGeXuMk=/0x0:861x574/1200x800/filters:focal(346x344:482x480)/cdn.vox-cdn.com/uploads/chorus_image/image/68650287/raxe500_dual.0.jpg' width='700px' /><br/>
+At CES 2021, Netgear announced its first Wi-Fi 6E-ready device that takes full advantage of the 6GHz band: the Nighthawk RAXE500, a $599.99 tri-band wireless router.
+<a href='https://www.theverge.com/2021/1/11/22203382/netgear-nighthawk-raxe500-wifi-6e-5g-moden-wireless-router-price-release-date'> Source <a/>

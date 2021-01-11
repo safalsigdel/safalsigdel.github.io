@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LmdYNzQV0K-9OSD3Q8Ag_pGkGew=/0x0:3556x2273/1200x800/filters:focal(1494x853:2062x1421)/cdn.vox-cdn.com/uploads/chorus_image/image/68650250/1230527804.0.jpg' width='700px' /><br/>
+Before Parler went offline early Monday, a researcher says she archived 99 percent of its posts, Gizmodo reported. The researcher, identified only by her Twitter handle, @donk_enby, started archiving Parler posts after the January 6th attack on the Capitol in Washington, DC that left six people dead.
+<a href='https://www.theverge.com/2021/1/11/22224689/parler-posts-gps-data-archived-independent-researchers-amazon-apple-google-capitol'> Source <a/>

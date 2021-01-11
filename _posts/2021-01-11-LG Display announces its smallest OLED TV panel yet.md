@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qJTR7cTNMXMgh-jybEZuG44LyaE=/0x0:1972x1336/1200x800/filters:focal(829x511:1143x825)/cdn.vox-cdn.com/uploads/chorus_image/image/68648443/44900793067647000_3.0.jpg' width='700px' /><br/>
-LG Display has provided some details on the OLED panels it'll be shipping to TV manufacturers this year. The lineup includes a 42-inch panel, the smallest TV-sized OLED yet from LG Display, as well as a new 83-inch panel size that likely features in the Bravia lineup that Sony unveiled a few days ago.
-<a href='https://www.theverge.com/2021/1/11/22224137/lg-display-42-inch-oled-tv-panel-announced'> Source <a/>
