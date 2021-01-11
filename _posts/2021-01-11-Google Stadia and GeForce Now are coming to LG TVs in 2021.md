@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3DR39mSem11kOctTZvD35W9LiGY=/0x0:2040x1360/1200x800/filters:focal(860x620:1186x946)/cdn.vox-cdn.com/uploads/chorus_image/image/68649117/akrales_191113_3779_0319.0.jpg' width='700px' /><br/>
+LG has announced that it's bringing two of the leading cloud gaming services, Google Stadia and Nvidia's GeForce Now, to its newest TVs later this year. Stadia is expected to be available soon after the 2021 lineup of OLED, QNED, and NanoCell TVs start shipping in the spring — with GeForce Now coming sometime later in the year.
+<a href='https://www.theverge.com/2021/1/11/22224359/google-stadia-nvidia-geforce-now-lg-tv-2021'> Source <a/>

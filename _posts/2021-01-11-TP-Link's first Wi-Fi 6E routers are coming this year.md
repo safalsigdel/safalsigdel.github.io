@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YV_bXIBj-EbZPM2ZOZ1nfRWiFUY=/0x0:950x634/1200x800/filters:focal(399x241:551x393)/cdn.vox-cdn.com/uploads/chorus_image/image/68649114/Archer_AX206.0.jpg' width='700px' /><br/>
+TP-Link is announcing its first routers with support for Wi-Fi 6E, a huge new upgrade to Wi-Fi that quadruples the available airwaves for faster speeds and more reliable connections. The first four routers it's announcing include a pair of mesh Wi-Fi systems and two high-end single-unit routers, including one that supports 10 Gbps speeds.
+<a href='https://www.theverge.com/2021/1/11/22213115/tp-link-wifi-6e-first-routers-mesh-smart-speaker'> Source <a/>

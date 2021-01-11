@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HSKOqFUpNMNw3L_dqjq-I2j1bEI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68642573/cwelch_191016_3739_0004.0.jpg' width='700px' /><br/>
-Amazon has updated Alexa in the last month with a modified version of its popular reminders skill. You can now ask Alexa to “Tell me when” an event happens and your device will give you background information and notify you when it actually occurs.
-<a href='https://www.theverge.com/2021/1/9/22221443/amazon-alexa-new-reminder-skill-tell-me-when'> Source <a/>
