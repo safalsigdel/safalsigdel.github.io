@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e4IG4mN7Gfhb5Eb-KZgmkrmaLCk=/0x0:4375x2917/1200x800/filters:focal(1838x1109:2538x1809)/cdn.vox-cdn.com/uploads/chorus_image/image/68649244/Perso1.0.jpg' width='700px' /><br/>
+L'Oreal debuted a gadget at CES last year that promised to make lipstick shades in whatever color wearers wanted. This year, we're learning what that device requires to work at home: lipstick pods.
+<a href='https://www.theverge.com/2021/1/11/22218777/ysl-beaute-rouge-sur-mesure-perso-ces-gadget-2021'> Source <a/>

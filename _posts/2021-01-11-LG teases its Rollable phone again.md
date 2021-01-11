@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7hvsB5P5Qu-1-EBzSN2oiCsYOL4=/0x0:2560x1440/1200x0/filters:focal(0x0:2560x1440):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22227271/3NXKq5k.jpeg' width='700px' /><br/>
+LG is once again teasing its rollable phone. While we've seen brief hints in the past, at CES today, LG provided the best look at the device so far. Named LG Rollable, the device has what the company calls a “unique resizable screen” that transforms from a phone into a small tablet. The screen slides in and out of place to extend its surface area.
+<a href='https://www.theverge.com/2021/1/11/22224591/lg-rollable-phone-extending-display-teaser-ces-2021'> Source <a/>

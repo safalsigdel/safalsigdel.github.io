@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lCHAaOLtfNn2_oqTodQWZVZ59ng=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68644632/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple has removed Parler from the App Store, following accusations that the social media app was fostering calls to violence ahead of, and following, the raid on the US Capitol.
-<a href='https://www.theverge.com/2021/1/9/22221730/apple-removes-suspends-bans-parler-app-store'> Source <a/>

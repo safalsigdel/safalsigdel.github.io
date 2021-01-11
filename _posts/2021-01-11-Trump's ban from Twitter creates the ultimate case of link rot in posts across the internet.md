@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JF4btNrOPY9fM3uA9JHOtgagC4c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68643911/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
-When Twitter banned President Trump from its platform permanently on Friday, the thousands of tweets he put forth from his realDonaldTrump account over the past decade were wiped out. Retweets of realDonaldTrump tweets from other accounts now show a “this tweet is unavailable” message instead.
-<a href='https://www.theverge.com/2021/1/9/22222371/trump-ban-twitter-link-rot-embedded-dead-posts'> Source <a/>

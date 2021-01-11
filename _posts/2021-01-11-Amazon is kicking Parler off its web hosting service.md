@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RkxKp9NXDV__2APVGBhZEucX_VM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68644436/acastro_180329_1777_amazon_0001.0.jpg' width='700px' /><br/>
-In the latest blow to social app Parler, Amazon said Saturday it was suspending the company from its web hosting platform effective at 11:59PM PST Sunday. First reported by BuzzFeed News unless Parler finds another web hosting service, the site will go offline Sunday night.
-<a href='https://www.theverge.com/2021/1/9/22222637/amazon-workers-aws-stop-hosting-services-parler-capitol-violence'> Source <a/>
