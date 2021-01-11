@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n9i7dwQ2cEkS5tek_DbNXuNpwQ4=/0x0:2208x1742/1200x800/filters:focal(928x695:1280x1047)/cdn.vox-cdn.com/uploads/chorus_image/image/68648546/Screen_Shot_2021_01_10_at_8.13.08_PM.0.png' width='700px' /><br/>
+V-Moda has announced a new version of its M-200 headphones at CES 2021 — the M-200 ANC, which bring both Bluetooth and active noise cancellation to the classic V-Moda design. Those additions come with a jump in price, though, with the M-200 ANC starting at $499.99, a jump of $150 over the wired, non-noise cancelling version.
+<a href='https://www.theverge.com/2021/1/11/22224025/v-moda-m-200-anc-bluetooth-wireless-headphones-ces-2021'> Source <a/>

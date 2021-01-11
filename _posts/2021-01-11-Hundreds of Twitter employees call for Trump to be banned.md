@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TOl1vXiBIFJz9yu3wXLhH64GwfA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68640690/acastro_200715_1777_twitter_0004.0.0.jpg' width='700px' /><br/>
-More than 300 Twitter employees have signed an internal petition calling for President Donald Trump to be permanently banned from the platform following a raid on the US Capitol on January 6th. Roughly an hour and a half after we published this story, Twitter apparently agreed — President Donald Trump has been permanently banned from Twitter.
-<a href='https://www.theverge.com/2021/1/8/22221386/twitter-employees-trump-ban-internal-letter-capitol-attack'> Source <a/>
