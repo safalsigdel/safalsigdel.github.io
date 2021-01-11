@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rLsBy59G1iAZUlNzxUf5BvhQit4=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68639113/d3288e72a4fef4453a86cd253218179b1b80e192eb9c16d05a402079e57cb971.0.jpg' width='700px' /><br/>
-Renders of what's believed to be the Nokia 6.3 or 6.4 have leaked online, giving us our best look yet at HMD Global's upcoming affordable handset. The renders come to us via Steve Hemmerstoffer over on Voice. New for this model is a side-mounted fingerprint sensor embedded in the power button, which replaces the rear-mounted sensor on 2019's Nokia 6.2.
-<a href='https://www.theverge.com/2021/1/8/22220880/hmd-nokia-6-3-4-phone-design-release-date-features-price-cameras'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+LG Display has shared video of its new 48-inch OLED gaming TV that can bend from a flat display to a curved one with the push of a button, and seeing it in motion is fascinating. Check it out at the top of this post.
+<a href='https://www.theverge.com/2021/1/10/22223753/lg-flexible-gaming-tv-bend-oled-flat-curved'> Source <a/>

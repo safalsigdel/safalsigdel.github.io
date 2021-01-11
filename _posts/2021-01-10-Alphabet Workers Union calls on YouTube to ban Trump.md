@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kyrKkxOflvpzBmT1T9S2zzSfWAI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68639339/acastro_181130_1777_google_bias_0001.0.0.jpg' width='700px' /><br/>
-The Alphabet Workers Union (AWU) is calling on YouTube to permanently ban President Trump following a raid on the US Capitol on January 6th. The move shows the newly formed organization, comprised of employees and contractors at Google's parent company, is dead set on influencing issues that go well beyond workers' rights.
-<a href='https://www.theverge.com/2021/1/8/22220778/alphabet-workers-union-demands-youtube-ban-trump'> Source <a/>

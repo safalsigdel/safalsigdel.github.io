@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kTuh4IwLqyIAgS2zklGrz8Yauuo=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/68647662/HP_Elite_Dragonfly_Max_Dragonfly_Blue_Workspace_1.0.jpg' width='700px' /><br/>
+HP is refreshing its business-focused Elite Dragonfly range this year with an updated G2 model and a new Dragonfly Max option. Both laptops will include Intel's latest 11th Gen processors, and optional 5G connectivity. The Max model even improves the built-in webcam, and adds a second black color option for the range.
+<a href='https://www.theverge.com/2021/1/10/22223487/hp-elite-dragonfly-g2-max-laptops-specs-price-release-date-ces-2021'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UMDjjF01VPhG8Ehzf9sKgLLk550=/0x99:1440x949/1200x800/filters:focal(605x378:835x608)/cdn.vox-cdn.com/uploads/chorus_image/image/68639734/pk_feature_power_that_keeps_you_going_358694490.0.jpg' width='700px' /><br/>
-Unlocked and carrier versions of the budget Samsung Galaxy A02S appear to be coming to the US, as spotted by SamMobile. Wi-Fi and Bluetooth certification documents appear to refer to unlocked as well as Verizon and AT&T carrier versions.
-<a href='https://www.theverge.com/2021/1/8/22220858/samsung-a02s-us-unlocked-verizon-att'> Source <a/>

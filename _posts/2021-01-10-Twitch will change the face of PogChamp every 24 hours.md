@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j7i-9RU44zU4ZSSP5fofoTQ338c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68639228/acastro_200901_1777_twitch_0001.0.0.jpg' width='700px' /><br/>
-Twitch removed its popular PogChamp emote a couple of days ago after the person on which it was based — Ryan “Gootecks” Gutierrez — posted some tweets encouraging more mob violence after the riot at the Capitol. The spirit of PogChamp, however, will live on: today, Twitch announced that it would cycle through different versions of the emote every 24 hours, starting today.
-<a href='https://www.theverge.com/2021/1/8/22220874/twitch-pogchamp-face-change-ryan-gootecks-gutierrez'> Source <a/>

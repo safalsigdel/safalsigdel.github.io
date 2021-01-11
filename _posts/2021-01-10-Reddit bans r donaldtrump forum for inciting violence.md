@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ASC0hbp28EuvrnDpXiFp7Eq55Dg=/0x0:4798x3249/1200x800/filters:focal(2016x1242:2782x2008)/cdn.vox-cdn.com/uploads/chorus_image/image/68639177/1295288482.0.jpg' width='700px' /><br/>
-Reddit has banned r/donaldtrump for encouraging and glorifying violence after Wednesday's mob attack on the US Capitol. Axios reporter Sara Fischer first reported the news, noting that the unofficial pro-Trump forum had been given multiple warnings. A Reddit splash page says the subreddit was “banned due to a violation of Reddit's rules against inciting violence.”
-<a href='https://www.theverge.com/2021/1/8/22220834/reddit-trump-subreddit-ban-violence-us-capitol-mob'> Source <a/>
