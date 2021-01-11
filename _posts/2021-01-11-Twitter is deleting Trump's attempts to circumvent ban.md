@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f_W3J_hxaGyoO2CgDp_x7whQhls=/0x0:2040x1360/1200x800/filters:focal(854x632:1180x958)/cdn.vox-cdn.com/uploads/chorus_image/image/68641672/mdoying_180118_2249_twitter_0777stills.0.jpg' width='700px' /><br/>
-Twitter permanently banned Donald Trump today. For a brief moment, he managed to tweet anyhow — not from @realDonaldTrump, his suspended account, but rather the official @POTUS account reserved for the current President of the United States, one that will be handed over to Joe Biden on January 20th.
-<a href='https://www.theverge.com/2021/1/8/22221683/trump-tried-to-evade-his-ban-with-potus-but-those-tweets-were-instantly-deleted'> Source <a/>
