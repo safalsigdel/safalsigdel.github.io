@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rMpt1Jew_WvswrJbMN1o5KbJooM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68648728/DSC00697.0.jpg' width='700px' /><br/>
+Nvidia has started teasing its RTX 3000 series launch for laptops. The GPU manufacturer is holding a virtual press event for CES tomorrow, and it's widely expected to unveil the mobile versions of the RTX 3000 series GPUs. A new teaser video includes a very clear hint of a laptop, alongside some other announcements that Nvidia is likely to make.
+<a href='https://www.theverge.com/2021/1/11/22224490/nvidia-rtx-3000-mobile-laptops-gpu-launch-ces-2021'> Source <a/>
