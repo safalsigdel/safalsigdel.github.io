@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/II2vU_7FKJPpjIgAglpWolfYL-4=/0x0:5153x3395/1200x800/filters:focal(2165x1286:2989x2110)/cdn.vox-cdn.com/uploads/chorus_image/image/68646141/1230505415.0.jpg' width='700px' /><br/>
-Clearview AI's CEO says that use of his company's facial recognition technology among law enforcement spiked 26 percent the day after a mob of pro-Trump rioters attacked the US Capitol. First reported by the New York Times, Hoan Ton-That confirmed to The Verge that Clearview saw a sharp increase in use on January 7th, compared to its usual weekday search volume.
-<a href='https://www.theverge.com/2021/1/10/22223349/clearview-ai-facial-recognition-law-enforcement-capitol-rioters'> Source <a/>

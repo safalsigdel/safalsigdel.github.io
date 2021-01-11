@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Samsung is working on a robot that can pick up laundry, load the dishwasher, set the table, pour wine, and even bring you a drink. The robot is called Bot Handy, and Samsung says it'll be able to recognize objects using a camera and AI.
+<a href='https://www.theverge.com/2021/1/11/22224649/samsung-bot-handy-care-robots-ces-2021'> Source <a/>
