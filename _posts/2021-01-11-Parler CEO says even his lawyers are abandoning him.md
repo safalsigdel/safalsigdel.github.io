@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TdpDmmQ6d2ngY2efVvmhdGIyo1Y=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/68647524/1230524287.0.jpg' width='700px' /><br/>
-The CEO of the conservative-friendly social app Parler said that all of its vendors have abandoned the company following recent bans from Google, Apple, and Amazon.
-<a href='https://www.theverge.com/2021/1/10/22223956/parler-ceo-john-matze-lawyers-vendors-abandoning'> Source <a/>
