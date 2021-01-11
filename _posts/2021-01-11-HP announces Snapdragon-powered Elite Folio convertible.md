@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D639owxDRd2tBe3M23L0CmkkvKg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68648601/HP_Elite_Folio_Front_Left_Forward.0.jpg' width='700px' /><br/>
-HP has announced the Elite Folio, a new convertible laptop with an Arm CPU. Like 2019's Spectre Folio, this device has a design that lets you pull the screen forward to rest between the keys and the trackpad for media consumption or touch-first work, or it can lie flat on top of the bottom shell for tablet-style use.
-<a href='https://www.theverge.com/2021/1/11/22224455/hp-elite-folio-announced-arm-convertible-laptop-specs-ces-2021'> Source <a/>
