@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TTwfM7Ba0g4EjayT8YPoyfsT2ow=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68651436/akrales_190930_3689_0056.0.jpg' width='700px' /><br/>
-The PC was supposed to die 10 years ago, but it's just experienced its first big growth in a decade. Market research firm Canalys reports that PC shipments reached 297 million units in 2020, up an impressive 11 percent from 2019. IDC puts the year at 302 million shipments, up 13.1 percent year over year. Gartner also agrees that 2020 was a big year for PCs and the biggest growth we've seen since 2010.
-<a href='https://www.theverge.com/2021/1/11/22225356/pc-sales-shipments-2020-growth-idc-canalys-remote-work'> Source <a/>

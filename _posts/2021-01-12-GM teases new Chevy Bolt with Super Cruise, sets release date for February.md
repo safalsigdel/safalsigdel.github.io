@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HJ3HNO-XYiYgtRGP8wnaIGcWQxs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68654297/akrales_170313_1481_A_0019.0.jpg' width='700px' /><br/>
+GM says that two new versions of the Chevy Bolt are set to be unveiled in February 2021. The company has released a new teaser that highlights a new feature coming to the electric vehicles: GM's well-regarded advanced driver assist system, Super Cruise.
+<a href='https://www.theverge.com/2021/1/12/22226098/gm-chevy-bolt-electric-car-tease-super-cruise-release-date'> Source <a/>
