@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gpyhUM6_85MMplvrPrHQQEBowps=/0x0:1659x1106/1200x800/filters:focal(698x421:962x685)/cdn.vox-cdn.com/uploads/chorus_image/image/68651196/DWA_X1850_A1_Image_L_Side_02.0.jpg' width='700px' /><br/>
-D-Link is trying to make it simple to give your computer a Wi-Fi upgrade. The networking company has announced what it's calling an “industry-first” Wi-Fi 6 adapter built into a USB stick. Plug it into your laptop or desktop computer, and you may be able to get better performance than from your older Wi-Fi chip. The adapter advertises speeds up to 1,200Mbps.
-<a href='https://www.theverge.com/2021/1/11/22224603/dlink-wifi-6-adapter-usb-mesh-routers-ces-2021'> Source <a/>
