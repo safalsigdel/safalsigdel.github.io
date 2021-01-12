@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yqesF7h_nkLMJsqdFFmfzfQv0kg=/0x705:8479x4738/1200x800/filters:focal(3562x2074:4918x3430)/cdn.vox-cdn.com/uploads/chorus_image/image/68650026/Elite_85t_Color_Range_Lineup_LB_1_.0.jpg' width='700px' /><br/>
-Jabra's Elite 85T true wireless earbuds, which we called its “best earbuds yet” when we reviewed them last year, are getting four new color variants. Alongside the preexisting titanium / black color scheme, the earbuds will soon be available in gold / beige, copper / black, black, and gray.
-<a href='https://www.theverge.com/2021/1/11/22220288/jabra-elite-85t-earbuds-price-four-new-colors'> Source <a/>

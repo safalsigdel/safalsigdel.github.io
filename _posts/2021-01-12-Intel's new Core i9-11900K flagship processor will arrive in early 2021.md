@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JRCgdUk_EYaC-Odd_kRl4h-8Mao=/0x0:1082x616/1200x800/filters:focal(455x222:627x394)/cdn.vox-cdn.com/uploads/chorus_image/image/68652121/Screen_Shot_2021_01_11_at_3.46.12_PM.0.png' width='700px' /><br/>
+Intel's new flagship Core i9-11900K processor will arrive in the first quarter of 2021. The chipmaker has provided the latest preview for its first 11th Gen (Rocket Lake-S) desktop chips at CES today. Headlined by the flagship Core i9-11900K, the new chips are said to bring up to 19 percent higher IPC (instructions per cycle), up to 50 percent better integrated graphics, and better AI performance.
+<a href='https://www.theverge.com/2021/1/11/22225541/intel-processor-11th-gen-ces-2021-chips-specs'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KzoZvw0SaXIwp4Rux3u8UfhpRUc=/0x0:7200x4800/1200x800/filters:focal(3024x1824:4176x2976)/cdn.vox-cdn.com/uploads/chorus_image/image/68653218/1294967493.0.jpg' width='700px' /><br/>
+Salesforce has “taken action” to stop the Republication National Committee (RNC) from sending emails that could incite violence, though the company won't say what that action is. The RNC is using ExactTarget, a Salesforce tool, for campaign emails.
+<a href='https://www.theverge.com/2021/1/11/22225936/salesforce-stop-rnc-sending-emails-incite-violence'> Source <a/>

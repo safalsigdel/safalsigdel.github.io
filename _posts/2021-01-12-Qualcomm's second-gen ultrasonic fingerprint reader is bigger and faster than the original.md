@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ic-x4y_G_trVO6V3VsH020OF3wU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68651596/akrales_190228_3255_0065.0.jpg' width='700px' /><br/>
+Qualcomm has just announced the 3D Sonic Sensor Gen 2, the latest version of its ultrasonic in-display fingerprint sensor that looks to improve on the original model in nearly every way. The new version offers a larger surface area for the sensor and faster processing to unlock phones even quicker.
+<a href='https://www.theverge.com/2021/1/11/22223494/qualcomm-ultrasonic-fingerprint-reader-samsung-galaxy-s21-announcement'> Source <a/>

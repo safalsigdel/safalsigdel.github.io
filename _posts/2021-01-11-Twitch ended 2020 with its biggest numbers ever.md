@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XddshhK3bPVbmhNeviEQJSMnssQ=/0x0:7582x5054/1200x800/filters:focal(4412x1067:5624x2279)/cdn.vox-cdn.com/uploads/chorus_image/image/68650432/1282573925.0.jpg' width='700px' /><br/>
-Twitch had a good 2020. Events were virtual; people stayed inside. The live-streaming site managed to clock 17 billion hours watched last year, which is a full 83 percent higher than 2019's 9 billion, according to the latest report from StreamElements and Arsenal.gg. The jump wasn't limited to Twitch; Facebook Gaming and YouTube Gaming also posted their best numbers ever last year.
-<a href='https://www.theverge.com/2021/1/11/22220528/twitch-2020-aoc-among-us-facebook-youtube'> Source <a/>

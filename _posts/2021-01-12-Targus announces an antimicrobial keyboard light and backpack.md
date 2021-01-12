@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hbGSIZFVsA88qFZx_ladOBVrfc4=/21x182:616x599/1200x800/filters:focal(251x257:413x419)/cdn.vox-cdn.com/uploads/chorus_image/image/68652215/20_340___Press_Release_UV_C_Light_1024x1024.0.jpg' width='700px' /><br/>
+Targus is an accessory manufacturer that's been around for a long time, and its slate of CES products this year center on three main themes: portability, sustainability, and, of course, staying healthy during a pandemic (via Engadget).
+<a href='https://www.theverge.com/2021/1/11/22225509/targus-anti-microbial-keyboard-light-and-backpack-ces-pandemic'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1pJZDPBrgkRU-BwYg_mSGrzUKT8=/0x0:2022x1469/1200x800/filters:focal(850x574:1172x896)/cdn.vox-cdn.com/uploads/chorus_image/image/68650408/NIO_ET7.0.jpg' width='700px' /><br/>
-Chinese EV startup Nio unveiled an electric sedan called the ET7 this weekend that it promises will have autonomous capabilities and, eventually, a solid-state battery option. It's a big project that Nio is only able to tackle after pulling off an incredible rebound from the brink in 2020.
-<a href='https://www.theverge.com/2021/1/11/22222151/nio-et7-sedan-specs-range-autonomous-electric-china'> Source <a/>

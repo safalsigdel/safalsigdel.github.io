@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GYmMXPMXmZ5VymSCmHMm-nUuRXk=/199x227:2345x1663/1200x800/filters:focal(1042x676:1438x1072)/cdn.vox-cdn.com/uploads/chorus_image/image/68649897/TCL_NXTPAPER.0.jpg' width='700px' /><br/>
-TCL has announced the NXTPAPER 8-inch tablet using technology it teased with its IFA 2020 announcements, which the company calls an “artistic combination of screen and paper.” The tablet features a full-color display without backlighting to reduce power consumption and provide a comfortable, E Ink-like viewing experience.
-<a href='https://www.theverge.com/2021/1/11/22219269/tcl-nxtpaper-tablet-color-display-ereader'> Source <a/>

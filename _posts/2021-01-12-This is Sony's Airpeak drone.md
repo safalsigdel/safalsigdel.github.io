@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0uyNd8J0ORSESWgXHB36Jw5uhZM=/0x0:1134x632/1200x800/filters:focal(477x226:657x406)/cdn.vox-cdn.com/uploads/chorus_image/image/68652449/bandicam_2021_01_11_17_16_20_402.0.jpg' width='700px' /><br/>
+Sony is getting into the drone business, with the company showing off a brief first look at its new Airpeak drone at CES 2021. The new drone is said to be the smallest drone capable of carrying an Alpha camera and is designed for video content creation and professional photography.
+<a href='https://www.theverge.com/2021/1/11/22225758/sony-airpeak-drone-alpha-photography-cameras-ces-2021-announcement'> Source <a/>

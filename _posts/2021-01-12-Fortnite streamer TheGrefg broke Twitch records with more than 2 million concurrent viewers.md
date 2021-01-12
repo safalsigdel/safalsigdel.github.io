@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hL_cPxXVfshJbCR3mmMzQMJXyYw=/0x0:1718x1196/1200x800/filters:focal(722x461:996x735)/cdn.vox-cdn.com/uploads/chorus_image/image/68651629/Screen_Shot_2021_01_11_at_4.04.49_PM_3.5.png' width='700px' /><br/>
+Spanish streamer and EU Heretics team owner David “TheGrefg” Martxc3xadnez smashed the concurrent record on Twitch today, with more than 2 million live viewers tuning in to watch him reveal his Icon series Fortnite skin. His excitement was palpable, and viewers watched live as Martxc3xadnez googled Twitch's previous records on his own record-breaking stream.
+<a href='https://www.theverge.com/2021/1/11/22225416/thegrefg-record-fortnite-viewers-icon-skin-reveal-eu-heretics'> Source <a/>

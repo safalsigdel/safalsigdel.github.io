@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bM-L67YKAkqyiZxkzn2APlcMefY=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/68649115/KD110_Doorbell.0.jpg' width='700px' /><br/>
-TP-Link is announcing a bunch of new smart home gadgets as part of its Kasa line today, headlined by the brand's first smart doorbell. The Kasa Smart Doorbell captures 1080p video, is able to distinguish between people and other moving objects, and can save footage to either a microSD card or the cloud. It's paired with an indoor chime that'll alert owners when someone is at the door.
-<a href='https://www.theverge.com/2021/1/11/22215083/tplink-kasa-smart-doorbell-outdoor-camera-light-switches'> Source <a/>

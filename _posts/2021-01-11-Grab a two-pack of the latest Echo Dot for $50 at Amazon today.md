@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LHNKZK0SXtrj083eegAZoo-GGPE=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68650512/dseifert_201025_4263_00011.0.0.jpg' width='700px' /><br/>
-The new ball-shaped fourth-gen Amazon Echo, which was released last year, was frequently discounted over the holiday season. If you missed those deals and are looking to grab two Echo Dots, Amazon is currently running a promotion that allows you to buy two for $50 (before tax) when you enter the code DOT2PACK at checkout.
-<a href='https://www.theverge.com/good-deals/2021/1/11/22224715/amazon-echo-dot-airpods-pro-beats-solo-pro-deal-sale'> Source <a/>

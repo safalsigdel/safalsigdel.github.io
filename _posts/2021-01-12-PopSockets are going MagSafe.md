@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/re9z3x2Cll10iWrzQCBczM9iDdU=/0x0:552x401/1200x800/filters:focal(62x140:190x268)/cdn.vox-cdn.com/uploads/chorus_image/image/68652648/1.0.jpeg' width='700px' /><br/>
+PopSockets is announcing that it's making its iconic phone holders compatible with MagSafe. When Apple announced that accessories would be able to attach to the iPhone 12 with MagSafe, many people immediately thought of PopSockets — including the company itself, which announced it was working on adding compatibility. Now, it's finally at the point where it's putting out an announcement and a release window.
+<a href='https://www.theverge.com/2021/1/11/22225701/popsockets-magsafe-accessory'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O3QMea2jgkXOxSN-hPa-2UoGKlk=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/68649253/surfacepro7plus.0.jpg' width='700px' /><br/>
-Microsoft is updating its Surface Pro line today with a refreshed Surface Pro 7 Plus model that is only available to businesses and schools. While the design and screen on the outside remain the same as the Surface Pro 7, Microsoft has overhauled the internals of the device to make way for Intel's latest 11th Gen processors, a bigger battery, removable SSD, and LTE connectivity.
-<a href='https://www.theverge.com/22218445/microsoft-surface-pro-7-plus-features-price-specs-release-date'> Source <a/>

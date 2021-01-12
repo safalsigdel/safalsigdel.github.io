@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mIsN7zkn97HWEhd1bSCy1moaKnw=/0x0:2973x2050/1200x800/filters:focal(1250x788:1724x1262)/cdn.vox-cdn.com/uploads/chorus_image/image/68651982/1198527349.0.jpg' width='700px' /><br/>
+Netflix has signed a multiyear deal with Kevin Hart and his production company HartBeat Productions for four exclusive films starring Hart and first dibs on films the comedy star develops with his company.
+<a href='https://www.theverge.com/2021/1/11/22225352/netflix-kevin-hart-exclusive-four-movies-first-look-deal'> Source <a/>

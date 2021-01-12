@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qi5_t4kNf7uRgYB7rR4kWrbaS5Y=/0x0:2000x1500/1200x800/filters:focal(840x590:1160x910)/cdn.vox-cdn.com/uploads/chorus_image/image/68652125/06_TP_X1_Titanium_Hero_Dolby_Speakers.0.png' width='700px' /><br/>
+Lenovo announced a bunch of additions to its ThinkPad line today, headlined by the new X1 Titanium Yoga. The convertible X1 Titanium is covered in what Lenovo calls “titanium material” and is just 0.45 inches (11.5 mm) thick. It also has a 3:2 2K touch display that can reach 450 nits of brightness.
+<a href='https://www.theverge.com/2021/1/11/22224757/lenovo-thinkpad-x1-titanium-yoga-carbon-business-laptops-intel'> Source <a/>

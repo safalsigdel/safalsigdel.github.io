@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aKgB-C7jI19Nquzp-B_b2c3qVM8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68651588/acastro_180730_1777_facial_recognition_0003.0.jpg' width='700px' /><br/>
+The Federal Trade Commission has reached a settlement with photo storage app Ever that it says used customers' photos to develop facial recognition technology without telling them, the agency announced Monday.
+<a href='https://www.theverge.com/2021/1/11/22225171/ftc-facial-recognition-ever-settled-paravision-privacy-photos'> Source <a/>
