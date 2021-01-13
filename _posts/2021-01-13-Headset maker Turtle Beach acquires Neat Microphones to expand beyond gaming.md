@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TPqrHDH3640Q3Po6SVrNz_OTIhA=/0x0:2040x1360/1200x800/filters:focal(842x685:1168x1011)/cdn.vox-cdn.com/uploads/chorus_image/image/68660369/akrales_190313_3227_0050.0.jpg' width='700px' /><br/>
+Gaming peripheral company Turtle Beach is acquiring Neat Microphones, makers of eclectic-looking desktop USB microphones that stray from the industry standard. Neat's leadership has plenty of experience in the market. They were the original founders of popular brand Blue Microphones, now owned by Logitech. Turtle Beach declined to share financial terms of the acquisition.
+<a href='https://www.theverge.com/2021/1/13/22226680/turtle-beach-acquiring-neat-microphones-podcast-roccat'> Source <a/>
