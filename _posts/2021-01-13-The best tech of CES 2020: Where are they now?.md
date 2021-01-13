@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p_UCB62i_Wk1Hm5UVc9QqquQCQQ=/0x0:2040x1360/1200x675/filters:focal(924x632:1250x958)/cdn.vox-cdn.com/uploads/chorus_image/image/68659954/bfarsace_191203_3855_0011.0.jpg' width='700px' /><br/>
+Looking through the deluge of CES articles is like staring into an unreliable crystal ball: maybe what you're looking at is the future, the shape of tech for years to come, or maybe it's something that'll get talked about for a week and never heard from again.
+<a href='https://www.theverge.com/2021/1/13/22225459/best-tech-ces-2020-where-are-they-now-what-happened-next'> Source <a/>

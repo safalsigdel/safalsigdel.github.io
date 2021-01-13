@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vpI-SwMUsT79Hu_jZ5WJyv_2M0A=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68656414/anker.0.jpg' width='700px' /><br/>
-The Soundcore Liberty Air 2 earbuds are one of our best options in the budget category, and now the Anker brand has returned with a more advanced model. The Liberty Air 2 Pro buds are focused on sound quality and active noise cancellation (ANC), and like the larger Liberty 2 Pro feature 11mm drivers.
-<a href='https://www.theverge.com/2021/1/12/22226499/anker-soundcore-liberty-air-2-pro-wireless-earbuds-price-specs-announced-ces-2021'> Source <a/>
