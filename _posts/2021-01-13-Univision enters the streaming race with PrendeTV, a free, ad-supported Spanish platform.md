@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AKsPlPIOGinm7Xmr-CDj3aFTpSM=/0x0:3504x2336/1200x800/filters:focal(1738x403:2298x963)/cdn.vox-cdn.com/uploads/chorus_image/image/68656899/71309339.0.jpg' width='700px' /><br/>
-Created “exclusively for the U.S. Hispanic audience,” PrendeTV is Univision's entry into the streaming wars, offering a collection of free Spanish programming.
-<a href='https://www.theverge.com/2021/1/12/22227126/univision-prende-tv-streaming-advertisement-free-spanish-programming-peacock'> Source <a/>
