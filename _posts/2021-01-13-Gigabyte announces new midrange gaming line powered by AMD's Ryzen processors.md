@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pkZ93pqdwH9PVuYs6iUkgQgjsq4=/0x0:1000x1000/1200x800/filters:focal(420x420:580x580)/cdn.vox-cdn.com/uploads/chorus_image/image/68656277/GIGABYTE_G7_VC_P0.0.png' width='700px' /><br/>
+Gigabyte makes some of the best gaming- and creator-focused laptops you can get. But some of its most exciting 2021 releases aren't its flagship models.
+<a href='https://www.theverge.com/2021/1/12/22224929/gigabyte-gaming-laptops-a5-a7-g5-announced-ces-2021'> Source <a/>

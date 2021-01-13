@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xFZ2ZXSCFzCmevsk1txiud_bGl4=/0x0:4350x2921/1200x800/filters:focal(1827x1113:2523x1809)/cdn.vox-cdn.com/uploads/chorus_image/image/68656450/1196414800.0.jpg' width='700px' /><br/>
+The second season of the Call of Duty League will begin play next month. Today, Activision Blizzard announced that the CDL regular season for 2021 will kick off with an opening event from February 11thxe2x80x9314th, though the actual schedule and matchups have yet to be determined.
+<a href='https://www.theverge.com/2021/1/12/22226670/call-of-duty-cod-league-cdl-esports-2021-season-start-date-youtube'> Source <a/>

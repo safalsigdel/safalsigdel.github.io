@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NewyoHNzOJ7ix-CmX3bKUVDnAd8=/0x0:2040x1360/1200x800/filters:focal(632x468:958x794)/cdn.vox-cdn.com/uploads/chorus_image/image/68658907/shollister_201117_4303_0003.0.0.jpg' width='700px' /><br/>
+Nvidia's new RTX 3080, 3070, 3060 Ti and 3090 and the AMD RX 6800 and 6800 XT are all incredibly hard to find, selling out instantly whenever they appear, due to an incredible level of demand that makes these GPUs worth many hundreds of dollars more than MSRP. A Trump tax and surging cryptocurrency prices may be about to make them even more expensive, too. Many older graphics cards are sold out online as well.
+<a href='https://www.theverge.com/2021/1/12/22227040/nvidia-amd-gpu-shortage-rtx-3080-3070-3060-ti-3090-rx-6800-xt'> Source <a/>

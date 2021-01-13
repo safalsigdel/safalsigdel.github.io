@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Tdt587Z6WRulo7katNFPfjk4Alg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68652819/vpavic_210111_4366_0039.0.jpg' width='700px' /><br/>
-It's the second week of 2021. Last week began with an insurrection, siege of the US Capitol building, and rejection of democracy, and it ended with all major social media companies banning the one-time impeached 45th president of the United States, Donald J. Trump.
-<a href='https://www.theverge.com/2021/1/11/22225721/twitter-protest-san-francisco-trump-stopthesteal-deplatforming'> Source <a/>

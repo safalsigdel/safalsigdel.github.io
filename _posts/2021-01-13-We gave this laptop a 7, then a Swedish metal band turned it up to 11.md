@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+If you're interested in learning about the Lenovo Legion 5i gaming laptop, I now have much more than a mere written review to share with you. Swedish metal band Iron Savages was paid by an ad agency that's representing Lenovo to scream a few choice lines from my review, and producer Claudio Marino made the video above.
+<a href='https://www.theverge.com/tldr/2021/1/12/22227043/swedish-metal-band-lenovo-legion-5i-review'> Source <a/>

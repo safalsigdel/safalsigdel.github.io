@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ee-0Ril6ctn5KfDktwrtb8aSA9s=/0x0:1700x997/1200x800/filters:focal(714x363:986x635)/cdn.vox-cdn.com/uploads/chorus_image/image/68653128/5ffc72b6af600.image.0.jpg' width='700px' /><br/>
-Last week was a cacophony of horrible Trump-related news, but this is the one that hit home hardest for me: a manatee with his name scraped into its back was found in the headwaters of Florida's Homosassa river (via Citrus County Chronicle). At the moment it's unclear whether the animal was actually injured, or if the name was just scraped into the algae on its back, but it's a crime either way.
-<a href='https://www.theverge.com/2021/1/11/22225867/manatee-harassed-with-trumps-name'> Source <a/>

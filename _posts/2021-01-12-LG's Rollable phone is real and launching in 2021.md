@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uBHjhCuI5Cm1DmOdpojJAtODPMg=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/21990608/cgartenberg_201022_4254_0009.0.jpg' width='700px' /><br/>
-LG teased its Rollable phone yesterday at the Consumer Electronics Show, and now the company is confirming it's a real product that will be available in 2021. The LG Rollable has what the company calls a “unique resizable screen” that extends from a phone into a small tablet display. The screen slides in and out of place to provide a bigger screen area.
-<a href='https://www.theverge.com/2021/1/12/22226532/lgs-rollable-phone-launch-release-date-ces-2021'> Source <a/>

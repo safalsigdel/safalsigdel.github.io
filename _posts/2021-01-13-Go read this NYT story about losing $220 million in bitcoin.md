@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_5e_eHWX0TVW-YMXZYtP6dK7sac=/0x0:1020x679/1200x800/filters:focal(430x296:592x458)/cdn.vox-cdn.com/uploads/chorus_image/image/68658419/20130520-07511828--btc.0.jpg' width='700px' /><br/>
+There aren't many good ways to lose $220 million, but this New York Times article highlights a particularly egregious one — losing millions of dollars in bitcoin because you forgot the password to your digital wallet.
+<a href='https://www.theverge.com/2021/1/12/22227535/nyt-bitcoin-millions-forgot-passwords-digital-wallet'> Source <a/>

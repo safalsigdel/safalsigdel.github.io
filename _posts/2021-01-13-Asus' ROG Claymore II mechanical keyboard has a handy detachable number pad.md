@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f5bI2T87dw-dZELWE0qiu9n1Sao=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68656970/asusrogclaymoreii.0.jpg' width='700px' /><br/>
+Asus announced a new mechanical keyboard at CES 2021 called the ROG Claymore II. It's designed for gamers, with customizable macro keys and per-key RGB backlighting. It's also the first device to feature Asus' own ROG RX Blue or Red optical switches with a claimed 100 million keypress lifespan.
+<a href='https://www.theverge.com/2021/1/12/22227299/asus-rog-claymore-ii-mechanical-keyboard-gaming-gladius-iii-wireless-mouse'> Source <a/>

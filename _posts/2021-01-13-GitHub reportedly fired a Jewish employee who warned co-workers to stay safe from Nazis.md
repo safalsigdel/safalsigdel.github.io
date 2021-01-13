@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z3ZaU6uRs5MRCLAU2eKtg5ubGhU=/0x0:4675x3211/1200x800/filters:focal(1964x1232:2712x1980)/cdn.vox-cdn.com/uploads/chorus_image/image/68657932/967199986.0.jpg' width='700px' /><br/>
+GitHub reportedly fired a Jewish employee after he posted a message in Slack that said “stay safe homies, Nazis are about” the day of the attack on the US Capitol, according to Business Insider.
+<a href='https://www.theverge.com/2021/1/12/22227487/github-microsoft-fired-jewish-employee-warned-nazis-us-capitol-breach'> Source <a/>

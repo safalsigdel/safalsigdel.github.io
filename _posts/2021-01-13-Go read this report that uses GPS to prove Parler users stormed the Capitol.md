@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x1HefrQXdG4cTJdobneShKGG7rE=/0x0:4216x3136/1200x800/filters:focal(1771x1231:2445x1905)/cdn.vox-cdn.com/uploads/chorus_image/image/68658996/1230527893.0.jpg' width='700px' /><br/>
+You should go read this Gizmodo report that uses Parler's leaked GPS data to show that its users were among the mob that stormed the Capitol last Wednesday. The report comes in the wake of the social network's near-complete removal from the Internet, and is a good read for anyone who's been following the story. The reporters, Dell Cameron and Dhruv Mehrotra, had to sift through tons of posts to build a map of the riot:
+<a href='https://www.theverge.com/2021/1/12/22227986/gizmodo-parler-gps-data-shows-capitol-mob-locations'> Source <a/>

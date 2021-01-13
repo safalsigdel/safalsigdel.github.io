@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0Hmw1dDTAW-BBh2-u_JVP3ok_YA=/0x0:2000x1500/1200x800/filters:focal(840x590:1160x910)/cdn.vox-cdn.com/uploads/chorus_image/image/68652124/03_Thinkpad_X12_Hero_Front_Facing_Right.0.png' width='700px' /><br/>
-Lenovo is introducing a new ThinkPad — with a twist. The ThinkPad X12 Detachable is a 12.3-inch business laptop with a screen that you can pop off and use as a tablet. It's one of several new ThinkPads Lenovo has launched this week, which are powered by Intel's newest 11th Gen vPro processors.
-<a href='https://www.theverge.com/2021/1/11/22221393/lenovo-thinkpad-x12-detachable-convertible-laptop-price-release-date'> Source <a/>

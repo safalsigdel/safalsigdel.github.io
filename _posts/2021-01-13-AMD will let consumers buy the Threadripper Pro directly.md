@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TVPRz8_BiD5MVe5LgFRXUFO946k=/0x0:1073x600/1200x800/filters:focal(807x147:1113x453)/cdn.vox-cdn.com/uploads/chorus_image/image/68658344/489185_threadripper_pro_chip_1920x600.0.jpg' width='700px' /><br/>
+If you've yearned for the power of the Threadripper Pro, but haven't wanted to buy a ThinkStation, you're in luck: starting in March, AMD will begin selling the CPUs directly to consumers, ending Lenovo's exclusive access to the processor line.
+<a href='https://www.theverge.com/2021/1/12/22227638/amd-threadripper-pro-available-directly-to-consumers'> Source <a/>

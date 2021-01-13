@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TQ311Am0J_aWeFIVapJ-vtPsxJY=/0x788:5000x4212/1200x800/filters:focal(2100x2100:2900x2900)/cdn.vox-cdn.com/uploads/chorus_image/image/68656696/07_GV301_V5_Lighting.0.png' width='700px' /><br/>
+Asus Republic of Gamers (ROG) has unveiled its varied, eclectic, and very cool-looking lineup of new gaming laptops for 2021. The highlight, and the product I'm both very excited and very confused about, is the ROG Flow X13. It's the company's first 2-in-1 convertible gaming laptop.
+<a href='https://www.theverge.com/2021/1/12/22226223/asus-rog-flow-x13-zephyrus-duo-15-se-gaming-laptop'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XqIWrxsv5RqSX0GNt1mdq3eu3Vc=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/68652120/intel_core.0.png' width='700px' /><br/>
-After releasing its first wave of 11th Gen Tiger Lake processors last year, Intel is kicking things up a notch at CES 2021 with its first H-series 11th Gen Core chips, which will bring the benefits of Tiger Lake (like the 10nm process and the overhauled Xe integrated graphics) to even more powerful machines.
-<a href='https://www.theverge.com/2021/1/11/22225370/intel-11th-gen-h-series-chips-ultraportable-gaming-laptop-ces-2021'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HixebyW-am1ckF1eCa_UikOOkig=/0x0:2264x1284/1200x800/filters:focal(951x461:1313x823)/cdn.vox-cdn.com/uploads/chorus_image/image/68652132/Screen_Shot_2021_01_11_at_4.30.38_PM.0.png' width='700px' /><br/>
-Intel took the time at CES to offer a preview of its next major chip release: its hybrid Alder Lake chipsets, which — like its Lakefield predecessor — will utilize an approach similar to Arm's BIG.little technology, using high-performance and high-efficiency cores in a single package to maximize both power and efficiency.
-<a href='https://www.theverge.com/2021/1/11/22225514/intel-12th-gen-hybrid-alder-lake-chips-2h-ces-2021'> Source <a/>

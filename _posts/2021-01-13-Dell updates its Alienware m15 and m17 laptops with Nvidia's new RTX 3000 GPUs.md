@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Fmoka3nC1McUulc5wLHqKEGqtbs=/0x0:1280x854/1200x800/filters:focal(536x503:740x707)/cdn.vox-cdn.com/uploads/chorus_image/image/68657237/Alienware_m15_lifestyle.0.jpeg' width='700px' /><br/>
+Alienware is upgrading its m15 and m17 gaming laptops with some boosted specs at CES 2021, with the new R4 models offering Nvidia's latest RTX 3000 series GPUs for laptops, faster memory options, more internal storage, and — for the m17 R4, specifically — an optional 360Hz display, a first for Alienware.
+<a href='https://www.theverge.com/2021/1/12/22227273/dell-alienware-m15-m17-gaming-laptops-nvidia-rtx-3000-gpu-ces-2021'> Source <a/>

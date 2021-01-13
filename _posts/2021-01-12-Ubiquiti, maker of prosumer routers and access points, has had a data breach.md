@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xrd7cqvvjzTW1-iHGabVH-WZdwA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68653362/acastro_170629_1777_0008.0.jpg' width='700px' /><br/>
-Ubiquiti, the company I bought networking gear from because I wanted Wi-Fi that's totally under my control, now tells me something may not have been under my control after all: my basic account information. According to an email it's sending out to users today, a “third party cloud provider” was accessed by an unauthorized user, and that provider might possibly have some of our data.
-<a href='https://www.theverge.com/2021/1/11/22226061/ubiquiti-data-breach-email-third-party-unathorized-access'> Source <a/>

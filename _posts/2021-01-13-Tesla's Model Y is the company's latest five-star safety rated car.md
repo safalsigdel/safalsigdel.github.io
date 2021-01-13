@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/76PY8DfC0VBTihQpXwRsky3KUGA=/0x0:710x410/1200x800/filters:focal(299x149:411x261)/cdn.vox-cdn.com/uploads/chorus_image/image/68657806/v11292P148.0.jpg' width='700px' /><br/>
+Tesla's vehicles have been acing the National Highway Traffic Safety Administration's (NHTSA) crash tests for years, and the Model Y is now the latest to join those ranks, with the midsize SUV scoring five stars in every category that the group tests for crash safety.
+<a href='https://www.theverge.com/2021/1/12/22227626/teslas-model-y-five-star-safety-rating-nhtsa-crash-test'> Source <a/>

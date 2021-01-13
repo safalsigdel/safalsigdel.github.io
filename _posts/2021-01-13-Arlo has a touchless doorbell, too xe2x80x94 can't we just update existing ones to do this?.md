@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i_cvTOy8LNSRIXM63sTHjLFcMgc=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/68657906/5H1A7164.0.jpg' width='700px' /><br/>
+“Finally, a doorbell for the pandemic era,” we remarked, as Alarm.com introduced its sub-$200 Touchless Video Doorbell yesterday. But what was once a curiosity has now become a trend: Netgear spinoff Arlo now has its own Touchless Video Doorbell too, right down to the same product name.
+<a href='https://www.theverge.com/2021/1/12/22227528/arlo-touchless-video-doorbell'> Source <a/>

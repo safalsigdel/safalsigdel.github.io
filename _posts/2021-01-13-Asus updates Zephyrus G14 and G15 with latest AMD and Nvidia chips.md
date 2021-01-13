@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JTXQCvxp7R7zYA2gE4imHZcRPFk=/0x358:5000x4097/1200x800/filters:focal(2100x3225:2900x4025)/cdn.vox-cdn.com/uploads/chorus_image/image/68657435/G15_white_03_copy.0.jpg' width='700px' /><br/>
+The ROG Zephyrus G14 is one of the best laptops we saw in 2020, in part due to its exceptional Ryzen 9 4900HS processor. Asus has updated the Zephyrus G14 (plus its larger sibling, the Zephyrus G15) with the latest chips from AMD and Nvidia.
+<a href='https://www.theverge.com/2021/1/12/22227383/asus-zephyrus-g14-g15-gaming-laptops-ryzen-price-specs-ces-2021'> Source <a/>
