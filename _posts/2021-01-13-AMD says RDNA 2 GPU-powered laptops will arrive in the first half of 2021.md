@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hjDXjLhx--rmt58K28Q-sPLZLGc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68656392/acastro_180529_1777_amd_0001.0.0.jpg' width='700px' /><br/>
-AMD says customers eager for a new gaming laptop should be able to buy the first RDNA 2 GPU-powered notebooks some time before July, the company revealed today during its CES 2021 press conference. RDNA 2 is AMD's new graphics chip architecture and the foundation of the custom chipsets in Sony's PlayStation 5 and Microsoft's Xbox Series S / X, and now it's coming to laptops.
-<a href='https://www.theverge.com/2021/1/12/22227144/amd-rdna-2-gpu-gaming-laptops-release-date-ces-2021'> Source <a/>
