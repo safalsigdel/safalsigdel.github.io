@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WSyRuOmI4jbHL1aHMPUIVMn4EbI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68656716/asusswifthero.0.jpg' width='700px' /><br/>
-Asus is gearing up to release its first gaming monitor to support HDMI 2.1, which boasts enough bandwidth to display up to 4K resolution at 120 frames per second when connected to a compatible Windows PC, Xbox Series X, or PS5. The ROG Swift PG32UQ is, according to Asus, the world's first 32-inch HDMI 2.1 gaming monitor, and both of its HDMI ports support the latest standard.
-<a href='https://www.theverge.com/2021/1/12/22226726/asus-rog-swift-pg32uq-gaming-monitor-4k-144hz-ips-120fps-pc-ps5-xbox-series-x-features'> Source <a/>
