@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EzQnKpvoDR5pbsiUL6V89QpPfMY=/0x0:4257x2840/1200x800/filters:focal(1789x1080:2469x1760)/cdn.vox-cdn.com/uploads/chorus_image/image/68656421/1229135526.0.jpg' width='700px' /><br/>
-A group of Uber and Lyft drivers in California filed a lawsuit Tuesday in state supreme court to overturn a ballot measure that allows the companies to continue treating its workers like independent contractors.
-<a href='https://www.theverge.com/2021/1/12/22227042/uber-lyft-prop-22-lawsuit-overturn-drivers-california'> Source <a/>
