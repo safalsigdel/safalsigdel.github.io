@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sIKnJgAQ8Kv1CxKIaIDpibn_NyM=/0x0:681x443/1200x800/filters:focal(287x168:395x276)/cdn.vox-cdn.com/uploads/chorus_image/image/68663024/Screen_Shot_2021_01_13_at_11.10.15_AM.0.png' width='700px' /><br/>
+Belkin is voluntarily recalling its Portable Wireless Charger + Stand Special Edition that was sold in Apple retail stores and online on Apple and Belkin's sites because of fire and shock safety hazards. No incidents or injuries have been connected to the charger, according to the Consumer Product Safety Commission, and the malfunction should only affect chargers sold between July 2020 and October 2020.
+<a href='https://www.theverge.com/2021/1/13/22229147/apple-belkin-recall-wireless-charging-stand-fire-shock-hazard'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ndgjEq2qZpNQae91SbePDKvTu_k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68660150/acastro_191108_1777_t-mobile_0001.0.0.jpg' width='700px' /><br/>
-Over a dozen devices including the original OnePlus 1 and Sony Xperia Z3 won't be able to connect to T-Mobile's network from January 29th, the carrier has announced in a support document. T-Mobile says this is the result of a network update, and that the affected devices are not able to receive a software update to allow them to stay connected.
-<a href='https://www.theverge.com/2021/1/13/22228540/tmobile-network-shutdown-devices-january'> Source <a/>

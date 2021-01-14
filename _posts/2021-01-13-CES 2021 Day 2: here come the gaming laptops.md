@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SzS7vQMPFqhJzJ_IvKfU4ZMQFto=/0x0:3652x2434/1200x800/filters:focal(1534x925:2118x1509)/cdn.vox-cdn.com/uploads/chorus_image/image/68660092/blade15hero.0.jpg' width='700px' /><br/>
-Yesterday, AMD and Nvidia took to the CES virtual stage to announce their respective updates. AMD headlined with a new series of CPUs, the 7nm Ryzen 5000 series, that is going to be a really compelling gaming laptop option. Nvidia headlined with new graphics for laptops, bringing some performance that was previously exclusive to desktop machines.
-<a href='https://www.theverge.com/2021/1/13/22227810/ces-2021-day-2-amd-nvidia-razer-mask-gaming-laptops'> Source <a/>

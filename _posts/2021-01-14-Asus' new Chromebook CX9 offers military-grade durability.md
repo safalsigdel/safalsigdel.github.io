@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MBmrfNNpRNWWlLN3yXVMkDk5uFs=/0x321:2000x1673/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/68662366/Chromebook_CX9_CX9400_premium_enterprise_resady_Security_titan_C.7.jpg' width='700px' /><br/>
+Asus' new Chromebook CX9 is a powerhouse of a Chromebook built for professionals. Pricing is still to be announced, but it's coming to North America in Q2 2021.
+<a href='https://www.theverge.com/2021/1/13/22229159/asus-chromebook-cx9-br1100-price-release-date-specs'> Source <a/>

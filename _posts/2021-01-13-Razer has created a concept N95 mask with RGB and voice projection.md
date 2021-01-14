@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1J799IiHXLuDtsjSNITyh7-cyn4=/0x0:2067x1378/1200x0/filters:focal(0x0:2067x1378):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22228437/hazelnight.jpg' width='700px' /><br/>
-Razer claims to have made the world's smartest mask: its new reusable N95 respirator called Project Hazel. It's a concept design with a glossy outside shell made of waterproof and scratch-resistant recycled plastic, which is transparent to allow for lip-reading and seeing facial cues when you chat with people.
-<a href='https://www.theverge.com/2021/1/12/22221344/razer-project-hazel-n95-respirator-mask-coronavirus-chroma-rgb-concept'> Source <a/>

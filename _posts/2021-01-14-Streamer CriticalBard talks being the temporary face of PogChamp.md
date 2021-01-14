@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aGtgU2wSY1xVQmcpJjXKVn3gb7U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68663163/acastro_210113_1777_pogChamp_0001.5.jpg' width='700px' /><br/>
+Last week, Twitch deleted the face of its extremely popular PogChamp emote, Ryan “Gootecks” Gutierrez, after he called for further violence at the Capitol just after a mob sacked the building. In the aftermath, Twitch responded to a suggestion from the community for the emote — why not have a different face represent hype on Twitch every day?
+<a href='https://www.theverge.com/2021/1/13/22229209/criticalbard-pogchamp-gootecks-hasanabi-twitch-emote-harassment'> Source <a/>

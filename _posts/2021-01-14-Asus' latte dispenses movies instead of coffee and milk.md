@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Asus announced its new ZenBeam Latte at CES 2021 today, and it's kind of cute. It's a mobile movie projector that looks like a one-eyed, fabric-covered mini-robot of sorts. Importantly, it fires out its 720p image using up to 300 lumens of LED light, making it brighter than capsule projectors we've seen from the likes of Anker, and it has an integrated 10W Harman Kardon-tuned speaker system to boot.
+<a href='https://www.theverge.com/circuitbreaker/2021/1/13/22229575/asus-latte-movie-projector-mobile'> Source <a/>

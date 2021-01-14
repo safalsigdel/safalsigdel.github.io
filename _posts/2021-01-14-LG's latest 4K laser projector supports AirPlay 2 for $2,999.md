@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zf2YVcWoda5eMLDj1PzyMe3A_v4=/0x0:1600x874/1200x800/filters:focal(670x60:926x316)/cdn.vox-cdn.com/uploads/chorus_image/image/68662043/pjt_hu810pw_2020_11_wireless_connection_d.0.jpg' width='700px' /><br/>
+LG's HU810P is a new $2,999 4K laser projector which supports Apple's AirPlay 2 standard and runs webOS 5.0. It'll be available worldwide on January 18th. The projector was originally announced in August, AVSForum previously reported.
+<a href='https://www.theverge.com/2021/1/13/22228488/lg-4k-laser-projector-airplay-2-price-release-date-specs'> Source <a/>

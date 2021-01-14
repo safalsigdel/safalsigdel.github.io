@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ACf9l1ytz7o2Mma-Mdl2NeIzunE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68658126/canoo_Design_Exterior_09.0.jpg' width='700px' /><br/>
-Apple held meetings with California EV startup Canoo in the first half of 2020 as part of the Silicon Valley giant's secretive effort to advance its own electric vehicle project, three people familiar with the talks have told The Verge. The two companies discussed options ranging from investment to an acquisition, according to two of the people.
-<a href='https://www.theverge.com/2021/1/12/22225026/apple-canoo-acquisition-investment-electric-car-goev'> Source <a/>

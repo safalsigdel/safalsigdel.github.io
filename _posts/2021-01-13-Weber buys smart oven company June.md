@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lViAojvXDgb0RPf0nRMp4OUTGe0=/0x0:2040x1360/1200x800/filters:focal(913x632:1239x958)/cdn.vox-cdn.com/uploads/chorus_image/image/68657684/akrales_190131_3100_0071.0.jpg' width='700px' /><br/>
-Weber has acquired June, a smart oven startup that sells countertop ovens with a camera and temperature sensor built in so that they can automatically bake, roast, and otherwise cook foods in a variety of ways.
-<a href='https://www.theverge.com/2021/1/12/22227508/weber-june-acquired-smart-oven-grilling-tech'> Source <a/>

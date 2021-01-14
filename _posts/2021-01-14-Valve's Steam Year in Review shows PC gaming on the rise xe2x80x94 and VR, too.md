@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0ev9LIV5G7yNDMbSCNWIFVtowms=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/68663335/acastro_180509_1777_steam_0001.0.0.jpg' width='700px' /><br/>
+Valve is doing its part to illustrate gaming's growth last year with its Steam 2020 Year in Review report. It includes some rather impressive numbers, like the fact that PC gamers increased their playtime by over 50 percent last year, and that each month, 2.6 million people bought a game on Steam for the first time.
+<a href='https://www.theverge.com/2021/1/13/22229234/valve-steam-2020-review-pc-gaming-vr-expanding'> Source <a/>

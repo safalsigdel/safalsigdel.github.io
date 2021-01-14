@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NKc9NkS848x59QoLYAU5Ul8ZcnU=/0x0:3936x2624/1200x800/filters:focal(1654x998:2282x1626)/cdn.vox-cdn.com/uploads/chorus_image/image/68657798/1230553222.0.jpg' width='700px' /><br/>
-The Justice Department has received over 100,000 pieces of digital evidence following last week's deadly attack on the US Capitol.
-<a href='https://www.theverge.com/2021/1/12/22227633/doj-fbi-evidence-capitol-trump-riot-attack'> Source <a/>

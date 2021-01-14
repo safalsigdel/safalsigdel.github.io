@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eY3o0mUfzD-haeSY0AeD6suUXLw=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/68659852/evga_geforce_rtx_3080.0.jpg' width='700px' /><br/>
-Nvidia and AMD addressed the great GPU shortage today, revealing it may take many months before you'll easily find a card like the RTX 3080 on shelves. They didn't say how much a renewed Trump import tax on graphics cards might impact their prices — but now, Nvidia partners EVGA and Zotac may have done that for us
-<a href='https://www.theverge.com/2021/1/13/22228470/nvidia-evga-zotac-raise-prices-rtx-3080-3070-3060-3090'> Source <a/>

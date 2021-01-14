@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0MKHgJ0OnjoO5kFfXuWmZfc9LkA=/0x0:1600x1600/1200x800/filters:focal(672x672:928x928)/cdn.vox-cdn.com/uploads/chorus_image/image/68658071/evo15_s_right_wide_angle_open_keyboard.0.jpg' width='700px' /><br/>
-Origin has upgraded its EVO15-S and EVO17-S gaming notebooks and its NT-15 and NT-17 workstations to include Nvidia's latest GeForce RTX 3000 mobile graphics cards (up to an RTX 3080 with Max-Q design).
-<a href='https://www.theverge.com/2021/1/12/22227598/origin-evo15s-evo17s-gaming-laptops-nvidia-rtx-3000-gpus-ces-2021'> Source <a/>

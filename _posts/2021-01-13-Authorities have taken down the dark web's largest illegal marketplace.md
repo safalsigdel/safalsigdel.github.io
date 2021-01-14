@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RDCZiQK4WSL7dV78zfRd2p4FK5U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68659054/acastro_170621_1777_0006_fin.0.jpg' width='700px' /><br/>
-DarkMarket, reportedly the world's largest dark web marketplace, has been taken offline by a Europol-coordinated international operation, according to authorities (via Gizmodo). German law enforcement arrested the Australian man believed to be the operator of the illegal site, and seized 20 servers that hosted it, bringing an end to what had become a hotbed of illegal activity.
-<a href='https://www.theverge.com/2021/1/12/22227929/darkmarket-shutdown-europol-worlds-largest-illegal-marketplace'> Source <a/>

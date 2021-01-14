@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KUEaZp0smLrK_1S3KgmB-tkUQpM=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/68664202/Commercial_Chromebox_4_Hero_celeron.0.jpg' width='700px' /><br/>
+Asus has announced a new fanless addition to its family of Chromeboxes: the Asus Fanless Chromebox. Like Asus' previous models, the Fanless Chromebox's compact size is designed to be mounted to the back of a display or desk to save space in size-conscious work environments. Perhaps unintentionally, it also looks almost exactly like a wireless router.
+<a href='https://www.theverge.com/2021/1/13/22229517/asus-fanless-chromebox-wireless-router'> Source <a/>

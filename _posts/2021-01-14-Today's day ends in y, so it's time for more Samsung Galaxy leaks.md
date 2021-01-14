@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Samsung is announcing its Galaxy S21 smartphones tomorrow, but thanks to dozens of leaks, most of the details are already public. Today saw yet more images of the upcoming handsets leak online, offering more details on their specs, key features, and accessories.
+<a href='https://www.theverge.com/circuitbreaker/2021/1/13/22229034/samsung-galaxy-s21-leaks-news-rumors-stylus-ultra-plus-carrying-case-video-trailer-specs'> Source <a/>

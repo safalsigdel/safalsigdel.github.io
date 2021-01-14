@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vy1NdnDyZ3fJ8rnTqoHjQwL9zEE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68659866/acastro_200713_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
-When a young teenager signs up for TikTok, their account will now be more private by default. TikTok said today that it's updating the default settings for users aged 13 to 15, limiting who can see and comment on their videos. Only users who they add as friends will be able to view their videos, and their account won't be suggested to other users.
-<a href='https://www.theverge.com/2021/1/13/22227871/tiktok-young-teen-privacy-restrictions-default'> Source <a/>

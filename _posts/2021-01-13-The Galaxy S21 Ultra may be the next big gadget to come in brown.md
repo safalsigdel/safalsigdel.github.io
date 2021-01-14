@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MceBhgRSHLpvlzkS_U3d9Yp_38E=/0x0:720x720/1200x800/filters:focal(304x168:418x282)/cdn.vox-cdn.com/uploads/chorus_image/image/68658893/ErjR_QYXcAMdE1r.0.jpeg' width='700px' /><br/>
-Samsung's next top-of-the-line smartphone may come in brown, according to leaked marketing renders of the entire Galaxy S21 lineup shared by WinFuture writer Roland Quandt, and I have to say that it's giving me some serious Microsoft Zune vibes.
-<a href='https://www.theverge.com/2021/1/12/22227941/samsung-galaxy-s21-ultra-plus-brown-zune-unpacked-2021'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XLn2KZr5PypTECJw8Vz4chEru50=/0x0:5000x3338/1200x800/filters:focal(2100x1269:2900x2069)/cdn.vox-cdn.com/uploads/chorus_image/image/68660439/1158661067.0.jpg' width='700px' /><br/>
-The studio behind The Division is making a game set in a galaxy far, far away, according to a report from Wired. Today, Ubisoft announced that its Swedish studio Massive Entertainment is making an open-world video game that's set in the Star Wars universe.
-<a href='https://www.theverge.com/2021/1/13/22227235/ubisoft-star-wars-game-massive-entertainment-lucasfilm'> Source <a/>
