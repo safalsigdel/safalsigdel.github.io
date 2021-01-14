@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nh3KGhaytfEBcUP_kd7sV87xBZk=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68661964/EnIVQHKUYAEGfed.0.jpg' width='700px' /><br/>
-One of the year's biggest games has been delayed. Today, Warner Bros. announced that Hogwarts Legacy — an open-world, action roleplaying game set in the Harry Potter universe — will be launching next year instead of in 2021. “We are giving the game the time it needs,” the developer said in a tweet. No specific release date was announced.
-<a href='https://www.theverge.com/2021/1/13/22229085/hogwarts-legacy-delay-2022-release-date'> Source <a/>
