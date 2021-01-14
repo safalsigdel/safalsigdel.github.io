@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/g5KGFKn-B6yPqjMmEn-DdIOy5nc=/0x0:604x394/1200x800/filters:focal(254x149:350x245)/cdn.vox-cdn.com/uploads/chorus_image/image/68665027/trump_twitter_white_house.0.jpg' width='700px' /><br/>
+On January 8th, Twitter permanently banned President Donald Trump, and proceeded to play whack-a-mole as he attempted to dodge that ban by using different Twitter accounts, each of which Twitter suspended in turn.
+<a href='https://www.theverge.com/2021/1/13/22230024/trump-twitter-ban-white-house-account-video'> Source <a/>
