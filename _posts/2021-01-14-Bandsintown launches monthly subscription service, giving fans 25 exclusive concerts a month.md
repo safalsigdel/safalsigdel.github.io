@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZAQqlFcc-iQxsJfF7o11iZOnFQc=/0x0:3492x2298/1200x800/filters:focal(1702x241:2260x799)/cdn.vox-cdn.com/uploads/chorus_image/image/68662035/1270300100.0.jpg' width='700px' /><br/>
-Attending an actual concert still isn't a good idea in the United States, so Bandsintown is launching a monthly subscription service that will stream a number of exclusive shows directly into customers' homes.
-<a href='https://www.theverge.com/2021/1/13/22228755/bandsintown-subscription-service-artists-musicians-streaming-concerts-merchandise'> Source <a/>
