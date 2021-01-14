@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XEOBM1AgUgCO_OLjexl1tYOSf3o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68666224/vpavic_220317_1557_0163.0.0.jpg' width='700px' /><br/>
-Today, Samsung will unveil the Galaxy S21, Galaxy S21 Plus, and Galaxy S21 Ultra (I'll take the Zune-inspired brown one thanks). It's happening a couple months earlier than usual for the S line of phones, but otherwise the script will remain the same.
-<a href='https://www.theverge.com/2021/1/14/22230249/samsung-galaxy-s21-bixby'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/XEOBM1AgUgCO_OLjexl1tYOSf3o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68666224/vpavic_220317_1557_0163.0.0.jpg' width='700px' /><br/>
-Today, Samsung will unveil the Galaxy S21, Galaxy S21 Plus, and Galaxy S21 Ultra (I'll take the Zune-inspired brown one thanks). It's happening a couple months earlier than usual for the S line of phones, but otherwise the script will remain the same.
-<a href='https://www.theverge.com/2021/1/14/22230249/samsung-galaxy-s21-bixby'> Source <a/>

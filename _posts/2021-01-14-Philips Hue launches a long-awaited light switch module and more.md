@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q77jId-N-pWGkoPBzJfGUlLLWyw=/0x0:1200x830/1200x800/filters:focal(504x319:696x511)/cdn.vox-cdn.com/uploads/chorus_image/image/68666557/Philips_Hue_wall_switch_module_product_shot_dark_Kopie.0.jpg' width='700px' /><br/>
-Signify is introducing three new Philips Hue products today: an in-wall Hue module for existing light switches, a new outdoor light bar, and a refined dimmer.
-<a href='https://www.theverge.com/2021/1/14/22230616/philips-hue-wall-switch-module-outdoor-light-bar-price-date'> Source <a/>
