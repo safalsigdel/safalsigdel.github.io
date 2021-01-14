@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KQhUdCPWXVOSIDXL9IMHxzN126w=/0x0:3323x2120/1200x800/filters:focal(1477x615:2007x1145)/cdn.vox-cdn.com/uploads/chorus_image/image/68664985/1229659186.0.jpg' width='700px' /><br/>
+Twitter CEO Jack Dorsey, in a series of Tweets, explained that he felt banning US President Donald Trump's account was the right move for the social network. “Offline harm as a result of online speech is demonstrably real, and what drives our policy and enforcement above all,” he wrote.
+<a href='https://www.theverge.com/2021/1/13/22230028/jack-dorsey-donald-trump-twitter-ban-moderation-bitcoin-thread'> Source <a/>
