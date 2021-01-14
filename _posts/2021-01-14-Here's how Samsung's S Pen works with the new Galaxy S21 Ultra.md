@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/phBUUbTDYdBnOrja2tSW3TMvF1k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68667044/cgartenberg_210111_4369_0004.0.jpg' width='700px' /><br/>
+Samsung's new Galaxy S21 Ultra supports the company's S Pen stylus. Support for the accessory has been a staple of Samsung's Galaxy Note smartphones for years, but this is the first time it's been supported in the company's Galaxy S-series. The stylus will be available as an optional $39.99 accessory, and Samsung says the S21 Ultra will also work with S Pens from other Galaxy Note or Galaxy Tab devices.
+<a href='https://www.theverge.com/2021/1/14/22226594/samsung-galaxy-s21-ultra-s-pen-stylus-support-price-unpacked-event'> Source <a/>

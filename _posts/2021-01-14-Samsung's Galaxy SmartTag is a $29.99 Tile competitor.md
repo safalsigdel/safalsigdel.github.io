@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xCk7KnWVLmHOMzrptwRYmm-B2gw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68667038/cgartenberg_210111_4368_0003.0.jpg' width='700px' /><br/>
+Alongside the new Galaxy S21 phones and Galaxy Buds Pro, Samsung is announcing a small Bluetooth gadget you can use for locating lost items, just like Tile. It's called the Galaxy SmartTag, and it will ship beginning on January 29th. It will retail for $29.99, but there's a decent chance that people who buy a Galaxy S21 phone will end up with some sort of bundled deal that gets it included with purchase.
+<a href='https://www.theverge.com/2021/1/14/22227621/samsung-galaxy-smarttag-price-release-date-tile-locator'> Source <a/>

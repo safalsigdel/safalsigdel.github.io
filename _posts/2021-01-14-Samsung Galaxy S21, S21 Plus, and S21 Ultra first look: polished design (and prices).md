@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aLAUIJ3ef3rldJBx48x6s9Nd7jI=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22232929/cgartenberg_210111_4368_0011.jpg' width='700px' /><br/>
+Samsung's latest flagships are here: the Galaxy S21, Galaxy S21 Plus, and the Galaxy S21 Ultra. The first two — which start at $799 and $999, respectively — mark some of the least expensive flagship phones that Samsung has made in years, while the $1,199 S21 Ultra aims to be not just the top-specced phone in Samsung's lineup, but also the best phone, period.
+<a href='https://www.theverge.com/22227772/samsung-galaxy-s21-plus-ultra-price-specs-release-date-unpacked'> Source <a/>
