@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/onzQ-ecKj_fgUDrA55rQNdvghk8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68662114/New_LG_Ultra_Monitor_UltraGear__2_.0.jpg' width='700px' /><br/>
-LG has unveiled three new gaming monitors as part of its CES 2021 announcements, following its introduction of a new flagship entry in its UltraFine series earlier this week. The new batch of displays includes a model refresh on LG's 27GN950 gaming monitor with HDMI 2.1 support, a 32-inch 1440p display, and a 34-inch 1440p ultrawide monitor.
-<a href='https://www.theverge.com/2021/1/13/22228861/lg-ultragear-gaming-monitors-4k-1440p-pc-xbox-series-x-ps5-ces-2021'> Source <a/>
