@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V00l4psTgWTrGc_VDa0EM6X9A4U=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68666803/acastro_210107_4361_wattpad_0001.0.jpg' width='700px' /><br/>
+Kate Marchant was in the kitchen of her childhood home, standing across the room from her mother, when she got the email: Robbie Amell, a popular actor who spent the last decade playing the leading role in the CW's Arrow, was interested in adapting her book into a feature film he would produce and star in.
+<a href='https://www.theverge.com/2021/1/14/22215052/wattpad-authors-fanfiction-netflix-hulu-streaming-movies-romcom-teen-drama'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JTaXabgJSqizdqOnH7XBU6ji-b0=/0x0:5739x3826/1200x800/filters:focal(2583x659:3501x1577)/cdn.vox-cdn.com/uploads/chorus_image/image/68662742/1208432853.jpg.0.jpg' width='700px' /><br/>
-For months, Nextdoor moderators have struggled with the challenge of addressing QAnon content on its neighborhood sites — but after last week's deadly attack on the Capitol, the pressure between moderators and the company's policy team may have reached a breaking point.
-<a href='https://www.theverge.com/2021/1/13/22229236/nextdoor-moderators-qanon-content-policy-rules'> Source <a/>

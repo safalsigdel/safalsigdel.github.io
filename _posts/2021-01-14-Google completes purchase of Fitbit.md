@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J4MRFnicnFVR6RAc7Mnr7bkwv30=/0x0:4000x2668/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/68666861/20200919FitbitSense5.0.0.jpg' width='700px' /><br/>
+Google has completed its $2.1 billion acquisition of Fitbit, the company announced today. The news follows the EU's announcement late last year that it had approved the deal, after Google made a series of commitments about its planned operation of Fitbit and use of the its health data.
+<a href='https://www.theverge.com/2021/1/14/22188428/google-fitbit-acquisition-completed-approved'> Source <a/>

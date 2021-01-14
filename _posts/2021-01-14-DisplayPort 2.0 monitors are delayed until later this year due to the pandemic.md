@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Uc6kWfJnSksdq3uGQnWOjMpJpqY=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/68666855/twarren_displayport_1.0.jpg' width='700px' /><br/>
+It has been nearly two years since the Video Electronics Standards Association (VESA) first published its DisplayPort 2.0 specifications, promising support for 8K monitors, higher refresh rates, and more. The first monitors with DisplayPort 2.0 were supposed to arrive in late 2020, but VESA now says it expects devices to ship later this year.
+<a href='https://www.theverge.com/2021/1/14/22230654/displayport-2-monitors-delay-vesa-statement'> Source <a/>

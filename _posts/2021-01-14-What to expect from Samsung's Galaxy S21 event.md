@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gc2Pe-fLPHbS4tGvq969hf2Ctkk=/0x124:720x660/1200x800/filters:focal(327x265:441x379)/cdn.vox-cdn.com/uploads/chorus_image/image/68651601/ErjR_QcXIAQxpu3.5.jpeg' width='700px' /><br/>
-Samsung's next Unpacked event is less than a day away, kicking off on January 14th at 10AM ET, and thanks to copious leaks, we have a pretty good idea of what to expect from the upcoming event.
-<a href='https://www.theverge.com/2021/1/11/22220913/samsung-unpacked-event-date-time-galaxy-s21-phones-earbuds'> Source <a/>
