@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tdI6p2QTUWRK81VUL1Ym2Yy4WVM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68662314/asusxg43uq.0.jpg' width='700px' /><br/>
-We covered Asus' announcement of the 32-inch ROG Swift PG32UQ earlier this week as part of CES 2021, but the company waited until now to reveal more monitors that have HDMI 2.1 ports.
-<a href='https://www.theverge.com/2021/1/13/22228859/asus-gaming-monitor-refresh-rate-hdmi-21-ces-2021-rog-strix-swift-4k'> Source <a/>

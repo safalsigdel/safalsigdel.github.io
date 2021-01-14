@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PlDF6w3jMZYwbrYMQbge1Pgin2g=/0x0:3680x2456/1200x800/filters:focal(1546x934:2134x1522)/cdn.vox-cdn.com/uploads/chorus_image/image/68666562/samsung-747.0.0.jpg' width='700px' /><br/>
+Samsung will be presenting its latest flagship phone, the Galaxy S21, today at the streaming event titled Galaxy Unpacked 2021. The company is so confident that people will want the new device that it is inviting people to get in line to preorder before the phone is actually introduced.
+<a href='https://www.theverge.com/2021/1/14/22224896/samsung-unpacked-galaxy-s21-live-stream-watch-event'> Source <a/>
