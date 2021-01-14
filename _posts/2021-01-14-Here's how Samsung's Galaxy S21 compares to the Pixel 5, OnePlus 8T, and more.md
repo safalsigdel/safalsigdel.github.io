@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4sie4-nigzd2E97V2a3039fOW6s=/0x0:3047x2009/1200x800/filters:focal(1281x762:1767x1248)/cdn.vox-cdn.com/uploads/chorus_image/image/68667152/07_galaxys21_lifestyle_violet_201230074012.0.jpg' width='700px' /><br/>
+Samsung got its S21 flagship phones out into the world a little sooner than usual this year, and the Galaxy S21 base model will appeal to a lot of folks with its balance of flagship specs and a price well under $1,000. In this refresh of the S-series lineup it's the best choice for value, but how does it square up against its fellow Android competitors?
+<a href='https://www.theverge.com/22227580/samsung-galaxy-s21-android-comparison-pixel-5-oneplus-8t-s20-note-20'> Source <a/>
