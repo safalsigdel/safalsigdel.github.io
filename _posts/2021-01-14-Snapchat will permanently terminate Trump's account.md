@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gdETGNmd5awBOPj7Ylj3Exk9lKA=/0x0:6000x4000/1200x800/filters:focal(2941x638:3901x1598)/cdn.vox-cdn.com/uploads/chorus_image/image/68664933/1230553573.0.jpg' width='700px' /><br/>
-Snapchat will permanently terminate President Trump's account, Snap announced on Wednesday. Snap had indefinitely suspended Trump's account last week after he incited a pro-Trump mob to attack the US Capitol, and it has now made the decision to make that suspension permanent. The news was first reported by Axios.
-<a href='https://www.theverge.com/2021/1/13/22230001/snapchat-trump-ban-permanently-account-january-20th-innaguration-snap'> Source <a/>

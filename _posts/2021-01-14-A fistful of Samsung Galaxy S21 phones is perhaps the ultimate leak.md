@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LfO1GNT2NvlQ8zizWxlZeayI350=/0x481:1150x1910/1200x800/filters:focal(419x708:603x892)/cdn.vox-cdn.com/uploads/chorus_image/image/68664609/Ero0eYGXUAIs5en.0.jpeg' width='700px' /><br/>
-You've seen the leaks, renders, and leaked renders. Now, only a day before the launch, you can see what the entire Galaxy S21 lineup looks like in a real person's hand, thanks to Twitter user Mr.Techie (via Android Authority).
-<a href='https://www.theverge.com/2021/1/13/22229849/samsung-galaxy-s21-hands-on-photos-leak-day-before-announcement'> Source <a/>

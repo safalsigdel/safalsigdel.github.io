@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fSk3OBsqEtI9A3TVHCLmKq01Cfg=/0x0:2040x1360/1200x800/filters:focal(1039x587:1365x913)/cdn.vox-cdn.com/uploads/chorus_image/image/68666019/akrales_200904_4160_0390.0.0.jpg' width='700px' /><br/>
-Oculus Quest headsets will soon support multiple users, Facebook has announced. The functionality will allow Quest owners to set secondary accounts on their headsets, which will allow other people to log in and access content shared by the primary user while maintaining separate save data and achievements.
-<a href='https://www.theverge.com/2021/1/14/22230506/oculus-quest-multi-user-support-release-date'> Source <a/>

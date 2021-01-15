@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4YexhmCa5x08VDo2k-W5bXOTw8Y=/177x101:1674x864/1200x800/filters:focal(584x319:850x585)/cdn.vox-cdn.com/uploads/chorus_image/image/68669763/Screen_Shot_2021_01_14_at_12.02.05_PM.0.png' width='700px' /><br/>
+Intel is updating its Next Unit of Computing (NUC) lineup of miniature computers with its 11th Gen processors, and it's again including a gaming-focused model. The NUC 11 Enthusiast is a follow-up to the NUC 8 Hades Canyon from 2018, which managed to pack triple-A gaming performance (not to mention I/O that rivaled a full-size desktop) into a tiny enclosure.
+<a href='https://www.theverge.com/2021/1/14/22231244/intel-nuc-11-pc-announcement-includes-mini-gaming-computer'> Source <a/>

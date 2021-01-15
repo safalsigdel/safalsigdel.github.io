@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d7s8N2EJYAk4_owPwzV4-X_VMeo=/0x0:5000x3750/1200x800/filters:focal(2100x1475:2900x2275)/cdn.vox-cdn.com/uploads/chorus_image/image/68668723/1084202690.jpg.0.jpg' width='700px' /><br/>
+Instacart will give its shoppers — the workers who pick and fill grocery store orders for customers — a $25 stipend for the time they take off to get a coronavirus vaccine, the company announced Thursday.
+<a href='https://www.theverge.com/2021/1/14/22230656/instacart-shoppers-pay-gig-economy-coronavirus-delivery-vaccine'> Source <a/>

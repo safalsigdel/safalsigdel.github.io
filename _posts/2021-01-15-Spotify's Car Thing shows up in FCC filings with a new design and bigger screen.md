@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QAO6RUFiMbxfVZnpqQcrR4-KnT8=/0x0:1733x1153/1200x800/filters:focal(729x439:1005x715)/cdn.vox-cdn.com/uploads/chorus_image/image/68670465/image.0.png' width='700px' /><br/>
+Back in May 2019, Spotify announced that it would be publicly testing a voice-controlled smart assistant for cars that the company called “Car Thing.” But nearly two years on, we haven't heard much from the project — though that might change soon. A Car Thing with a totally new design and a bigger screen has appeared in FCC filings.
+<a href='https://www.theverge.com/2021/1/14/22231876/spotify-car-thing-fcc-design-screen-pictures-photos'> Source <a/>

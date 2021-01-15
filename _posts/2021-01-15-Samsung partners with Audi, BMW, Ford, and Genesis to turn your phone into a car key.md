@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LSjf4RqJJ2hQ2wSp0opE0XWiJQ8=/0x0:1200x751/1200x800/filters:focal(504x280:696x472)/cdn.vox-cdn.com/uploads/chorus_image/image/68667969/samsung_car_partnership_key.0.jpg' width='700px' /><br/>
+The dream of using your phone to unlock your car door (instead of carrying around a bulging key fob) may be one step closer today: Samsung has announced partnerships with Audi, BMW, Ford, and Genesis to do just that, saying the feature may be available as soon as August 2021. And excitingly, those digital car keys should work with Apple iPhones and across other Android brands, too.
+<a href='https://www.theverge.com/2021/1/14/22230960/samsung-digital-car-key-audi-bmw-ford-genesis-uwb-bluetooth'> Source <a/>

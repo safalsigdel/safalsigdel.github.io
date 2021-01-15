@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-Google's latest Pixel Buds wireless earbuds don't go on sale often, but Best Buy has knocked $80 off their normal $179 cost for today only. The catch is that these are refurbished and only available in the white color. Still, $100 is a good deal if you wanted to try these out without paying close to full price.
-<a href='https://www.theverge.com/good-deals/2021/1/14/22229299/google-pixel-buds-refurbished-sale-deal-best-buy-apple-watch-amazon-walmart'> Source <a/>

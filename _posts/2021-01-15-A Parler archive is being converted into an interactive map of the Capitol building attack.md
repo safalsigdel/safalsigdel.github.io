@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KLb07zpgNgkAg6rd2S79bafxUD4=/30x67:1168x606/1200x800/filters:focal(499x0:687x188)/cdn.vox-cdn.com/uploads/chorus_image/image/68670797/Screen_Shot_2021_01_14_at_3.10.16_PM.0.png' width='700px' /><br/>
+A developer going by the name of Patr10tic has created an interactive map using GPS metadata and videos from the app Parler to offer a glimpse of what was happening inside and around the Capitol building during the violent protest on January 6th (via Motherboard).
+<a href='https://www.theverge.com/2021/1/14/22231749/parler-interactive-map-video-gps-capitol-attack'> Source <a/>

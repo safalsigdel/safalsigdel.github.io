@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HDf6cstWrpEm45DKCmpz_PkEBHc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68670391/cgartenberg_210111_4369_0003.0.jpg' width='700px' /><br/>
+Samsung just revealed the new Galaxy S21 Ultra would be its first Galaxy S phone to support the S Pen stylus, but the company is already saying that S Pen support will come to other devices in the future, according to a statement first given to SamMobile on Thursday.
+<a href='https://www.theverge.com/2021/1/14/22231677/samsung-s-pen-foldable-support-additional-device-categories'> Source <a/>
