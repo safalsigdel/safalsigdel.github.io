@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gklafj0DZ9TlDOrSsLZ4gmoAoL4=/0x0:1080x676/1200x800/filters:focal(454x252:626x424)/cdn.vox-cdn.com/uploads/chorus_image/image/68668286/Screen_Shot_2021_01_14_at_8.11.11_AM.0.png' width='700px' /><br/>
+Samsung's just announced a ton of new products: the Galaxy S21 Ultra 5G is the company's latest flagship and SmartTags are a Tile and (maybe) Apple AirTags competitor. But the real innovation, the thing that Samsung spent almost three minutes waxing poetically about during its 2021 Unpacked presentation, was the color black.
+<a href='https://www.theverge.com/2021/1/14/22230934/samsung-galaxy-s21-phantom-black-phone-color'> Source <a/>

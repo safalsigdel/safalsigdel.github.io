@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ixmdVnnIQX107PCrveUYTioKzeU=/0x0:1067x800/1200x800/filters:focal(449x315:619x485)/cdn.vox-cdn.com/uploads/chorus_image/image/68669093/SamsungPayMST.0.png' width='700px' /><br/>
+Samsung has confirmed that the Galaxy S21, S21 Plus, and S21 Ultra no longer support the convenient Magnetic Secure Transmission (MST) feature of Samsung Pay. And based on what the company told Android Police, the same will be true for all phones that Samsung releases from here on out.
+<a href='https://www.theverge.com/2021/1/14/22231392/samsung-pay-mst-feature-discontinued-galaxy-s21'> Source <a/>
