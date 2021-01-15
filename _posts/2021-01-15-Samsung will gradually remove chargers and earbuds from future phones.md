@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/snvxpZKnjHiMLXrzrNVQhkGRIHM=/0x0:1440x703/1200x800/filters:focal(628x96:858x326)/cdn.vox-cdn.com/uploads/chorus_image/image/68670790/galaxy_s21_5g_highlights_box.0.jpg' width='700px' /><br/>
-Samsung's future phones will also not come with charging bricks, the company has revealed, but it's leaving itself some wiggle room. In a Q&A about why it's no longer including headphones and a charging brick in the box, Samsung says it believes gradually removing the accessories from its phones could help make them more sustainable.
-<a href='https://www.theverge.com/2021/1/14/22231954/samsung-to-gradually-remove-chargers-earbuds-from-future-phones'> Source <a/>
