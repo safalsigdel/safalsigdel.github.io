@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jIRdKkO7DuN4ziSNKQ4b8hMTvMk=/0x0:2000x1500/1200x800/filters:focal(840x590:1160x910)/cdn.vox-cdn.com/uploads/chorus_image/image/68669856/02_galaxya32_5g_2p_lg.0.jpg' width='700px' /><br/>
-Echoing a theme that will be repeated a lot more this year, Samsung has announced a very inexpensive 5G phone. The Galaxy A32 5G is debuting in Europe first, starting at xe2x82xac279 for a 64GB version or xe2x82xac299 for 128GB. There's no official word yet on whether it will come to the US.
-<a href='https://www.theverge.com/2021/1/14/22231420/samsung-galaxy-a32-5g-europe-cheapest-5g-phone'> Source <a/>

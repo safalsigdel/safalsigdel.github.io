@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BOJXHtjQrq0jqmNJk0Qw968aYVo=/0x0:1028x685/1200x800/filters:focal(432x261:596x425)/cdn.vox-cdn.com/uploads/chorus_image/image/68668958/blade17pro.0.jpg' width='700px' /><br/>
-One of the biggest announcements at CES 2021 seemed to come and go without much fanfare. Overshadowed by Nvidia's debut of its RTX 3000-series graphics chips for laptops, you might have missed hearing that a growing number of manufacturers are finally building fast-refreshing QHD screens into their portable gaming machines.
-<a href='https://www.theverge.com/2021/1/14/22217171/gaming-laptops-qhd-screens-display-fast-refresh-rate'> Source <a/>
