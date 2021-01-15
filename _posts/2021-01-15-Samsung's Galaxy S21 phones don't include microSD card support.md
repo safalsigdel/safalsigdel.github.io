@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mwwtaBWqMMDb4GXU4riXo7kcn-Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68667488/cgartenberg_210111_4368_0007.0.jpg' width='700px' /><br/>
-It's official: Samsung is ditching the microSD card on all three of its Galaxy S21 models.
-<a href='https://www.theverge.com/2021/1/14/22230868/samsung-galaxy-s21-storage-microsd-support-slot'> Source <a/>
