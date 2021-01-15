@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/prIStfLLFhSJvlfJC2k2Ir6Ogs4=/0x0:2048x1290/1200x800/filters:focal(861x482:1187x808)/cdn.vox-cdn.com/uploads/chorus_image/image/68672177/intellogo.0.jpg' width='700px' /><br/>
+Intel's new CEO, Pat Gelsinger, doesn't start his new role until February, but he's already prepping the company to take on Apple's M1 chips. The Oregonian, a local newspaper in Oregon where Intel maintains a large presence, reports that the chip maker held an all-hands company meeting yesterday, and Gelsinger attended.
+<a href='https://www.theverge.com/2021/1/15/22232554/intel-ceo-apple-lifestyle-company-cpus-comment'> Source <a/>
