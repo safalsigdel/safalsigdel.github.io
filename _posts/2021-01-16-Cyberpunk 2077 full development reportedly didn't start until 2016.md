@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rpbfa2b5rUWJ5CUYW5PWw-xOqNo=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68677888/Cyberpunk2077_No_Future_RGB.0.jpg' width='700px' /><br/>
+A new report looking into what went amiss with the rollout of Cyberpunk 2077 points to overconfidence from management at CD Projekt Red as a key problem, and reveals that “full development” of the game — announced in 2012— didn't begin until 2016.
+<a href='https://www.theverge.com/2021/1/16/22234452/cyberpunk-2077-development-2016-pc-console-projekt-red'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6Iveh48PwnFJb8qAqU9t3Wzg0Qo=/117x0:1073x630/1200x800/filters:focal(504x219:696x411)/cdn.vox-cdn.com/uploads/chorus_image/image/68671855/bumble_fb_share.0.png' width='700px' /><br/>
-Dating app Bumble has temporarily disabled a feature which allowed users to filter potential matches based on their political leanings, the service has announced. The feature allows users to identify and filter matches with options such as “Apolitical,” “Moderate,” “Liberal,” and “Conservative.” In a statement given to Mashable, Bumble said it had temporarily removed the feature in the US to “prevent misuse and abuse.”
-<a href='https://www.theverge.com/2021/1/15/22232492/bumble-politics-filter-temporarily-disabled-us-capitol-riots'> Source <a/>
