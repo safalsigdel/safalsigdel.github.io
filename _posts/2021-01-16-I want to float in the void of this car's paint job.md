@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Driving around a car that looks like it's made from the fabric of space is now slightly more possible, as demonstrated in this modified black paint job that DipYourCar applied to a Mitsubishi Lancer.  The resulting car, spotted by Gizmodo, absorbs 99.4 percent of light, but features speckled luminescent spots that make it look like the night sky.
+<a href='https://www.theverge.com/tldr/2021/1/16/22233381/vantablack-car-paint-hyper-shift-stars-musou-black'> Source <a/>

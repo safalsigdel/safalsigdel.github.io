@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BFCQfGteTtJA6Qg34n4aMdOSoY8=/0x0:2040x1360/1200x800/filters:focal(825x474:1151x800)/cdn.vox-cdn.com/uploads/chorus_image/image/68674808/akrales_180215_2310_0008.0.jpg' width='700px' /><br/>
+WhatsApp on Friday announced a three-month delay of a new privacy policy originally slated to go into effect on February 8th following widespread confusion over whether the new policy would mandate data sharing with Facebook.
+<a href='https://www.theverge.com/2021/1/15/22233257/whatsapp-privacy-policy-update-delayed-three-months'> Source <a/>

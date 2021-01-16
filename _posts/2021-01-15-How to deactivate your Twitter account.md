@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7rKySQwrP2iQ6TBmBpHXsTB9vts=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68668683/Twitter-app-stock-Dec2015-verge-05.0.0.jpg' width='700px' /><br/>
-There's no questioning the benefits of Twitter. It's a convenient way to get your memes, world news, and pop culture hot takes all in one place.
-<a href='https://www.theverge.com/22227076/twitter-delete-app-how-to-deactivate'> Source <a/>

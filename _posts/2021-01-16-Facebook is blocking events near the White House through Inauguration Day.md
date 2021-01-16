@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4uFxmL8G9WtnVGpTKhezKz_fh8o=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/68676477/1230589408.0.jpg' width='700px' /><br/>
+Facebook won't let people create events that take place “in close proximity” to the White House, the US Capitol building, or any state capitol buildings through Inauguration Day, the company announced on Friday. The move builds upon Facebook's previously announced Inauguration Day preparations aiming to prevent the platform from being used to organize a violent event like the January 6th attack on the US Capitol.
+<a href='https://www.theverge.com/2021/1/15/22233871/facebook-blocking-events-white-house-us-state-capitols-inauguration-day'> Source <a/>

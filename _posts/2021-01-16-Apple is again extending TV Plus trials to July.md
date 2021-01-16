@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wLqxrqzPmLDEBS0rsyJU149Acm0=/0x0:1632x918/1200x800/filters:focal(686x329:946x589)/cdn.vox-cdn.com/uploads/chorus_image/image/68674915/Apple_introduces_apple_tv_plus_03252019_big.jpg.large_2x.0.jpg' width='700px' /><br/>
+According to 9to5Mac, Apple will be extending its free year-long trials of its TV Plus service to customers until July 2021. The trials were originally included with the purchase of any Apple device (e.g., an iPhone, iPad, Mac, Apple TV) and were initially set to last until November 1st, 2020. This is the second extension, with the first extending from November 2020 to February 2021.
+<a href='https://www.theverge.com/2021/1/15/22233276/apple-free-tv-plus-service-trials-extended'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gbzJISy8jtq0xDUYbCZr5DS9HuQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68672680/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+If you've finally given up on the world's most popular social media network, it's not too complicated to remove yourself from the service. But before you delete all of those pictures, posts, and likes, you should download your personal information from Facebook.
+<a href='https://www.theverge.com/22231495/delete-facebook-page-account-how-to'> Source <a/>

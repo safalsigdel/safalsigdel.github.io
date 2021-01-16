@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PKznPZ-E3jOzOUMYa6OszSiu9gI=/0x0:2040x1360/1200x800/filters:focal(591x533:917x859)/cdn.vox-cdn.com/uploads/chorus_image/image/68675882/vpavic_4243_20201018_0154.0.0.jpg' width='700px' /><br/>
+Apple has started work on a foldable phone, and it's begun prototyping foldable screens internally, according to Bloomberg. A final device is likely still years away, the report says, and Apple is working on just the display for now — not the rest of the phone it would attach to.
+<a href='https://www.theverge.com/2021/1/15/22233644/foldable-iphone-apple-screens-report'> Source <a/>

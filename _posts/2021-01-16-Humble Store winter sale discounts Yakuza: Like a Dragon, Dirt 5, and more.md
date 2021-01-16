@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iFFz3vFVScts1_oEkG4y0IBnAGY=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68674152/Story_7_copy.0.jpg' width='700px' /><br/>
+The Humble Store has kicked off its winter sale. Starting today and lasting until January 28th at 10AM PT / 1PM ET, the digital storefront is running a slew of discounts across various PC video games.
+<a href='https://www.theverge.com/2021/1/15/22232683/humble-store-winter-sale-yakuza-like-a-dragon-star-wars-battrlefront-2-razer-opus-deal-sale'> Source <a/>

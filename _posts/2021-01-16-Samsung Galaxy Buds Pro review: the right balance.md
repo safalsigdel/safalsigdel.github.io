@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9488/bfarsace_210114_4372_0005sq.jpg' width='700px' /><br/>
+Let's just get to it: Samsung's Galaxy Buds Pro are the best true wireless earbuds that the company has made yet. For their $200 asking price, you get a comfortable fit, effective active noise cancellation, and good, punchy sound quality. These earbuds improve on Samsung's prior efforts with clever features like a speech detection mode that automatically lowers your music and lets you hear the outside world as soon as you start talking.
+<a href='https://www.theverge.com/2021/1/15/22231848/samsung-galaxy-buds-pro-review'> Source <a/>

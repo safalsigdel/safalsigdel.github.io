@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fJoIM9HZbLoNL920b0Zn_9i91yM=/0x0:2976x1984/1200x0/filters:focal(0x0:2976x1984):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22239563/ScoutBase___Doors_Closed__1_.jpg' width='700px' /><br/>
+In October, the FAA took a major stride towards letting increasingly smart drones fly themselves, letting Skydio's self-flying drones inspect any bridge in North Carolina for four years, as long as humans first verified those bridges were clear.
+<a href='https://www.theverge.com/2021/1/15/22234029/faa-american-robotics-beyond-visual-line-of-sight-remote-observer-waiver'> Source <a/>
