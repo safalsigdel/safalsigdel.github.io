@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vRVXzAiI_gTb5nuu1t-5d-7l1AE=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68681090/acastro_180329_1777_amazon_0001.0.jpg' width='700px' /><br/>
+Amazon is facing a new lawsuit alleging that a deal between the company and five book publishers has created higher prices on e-books, The Wall Street Journal reported.
+<a href='https://www.theverge.com/2021/1/17/22234684/new-lawsuit-accuses-amazon-e-book-price-fixing'> Source <a/>
