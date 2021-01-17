@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fWc37e84oCsG9FIqGVny8ZC8Xqo=/0x0:6644x4432/1200x800/filters:focal(2791x1685:3853x2747)/cdn.vox-cdn.com/uploads/chorus_image/image/68672341/1296201464.0.jpg' width='700px' /><br/>
-Medical appointment company Zocdoc is offering to handle COVID-19 vaccine scheduling logistics for hospitals and health systems, many of which have spent the early days of the vaccine rollout struggling to handle the crush of demand for doses. Mount Sinai Health System in New York has been using the company's tool to handle vaccine appointments since mid-December, and has scheduled over 100,000 appointments since.
-<a href='https://www.theverge.com/2021/1/15/22231845/zocdoc-covid-vaccination-scheduler-free-new-york'> Source <a/>

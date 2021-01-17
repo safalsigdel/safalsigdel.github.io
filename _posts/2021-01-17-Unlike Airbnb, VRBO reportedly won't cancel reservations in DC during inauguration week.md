@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qlTEBiCa2HV7Y3Fr2ZNythXZMVA=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/68678200/Vrbo_logo_dark.0.png' width='700px' /><br/>
+Short-term rental site VRBO does not plan to cancel reservations in the DC area during the inauguration next week, even though competitor Airbnb has already done so. First reported by BuzzFeed News, VRBO said in a blog post Friday afternoon that it was “encouraging hosts to cancel bookings during this time,” if they believed a guest was violating its policies, but stopped short of a blanket cancellation.
+<a href='https://www.theverge.com/2021/1/16/22234501/vrbo-cancel-reservations-washington-dc-inauguration-airbnb-capitol'> Source <a/>

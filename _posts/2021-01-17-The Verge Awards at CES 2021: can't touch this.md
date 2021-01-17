@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9h_AQgTyGBaQR0rhtJwnOKlqWcc=/0x0:3000x2000/1200x675/filters:focal(1242x792:1722x1272)/cdn.vox-cdn.com/uploads/chorus_image/image/68678257/VRG_ILLO_4375_TheVergeAwards_CES_2021.0.jpg' width='700px' /><br/>
+Last year, we opened our awards for the annual Consumer Electronics Show by saying “oh, what a difference 12 months makes.” One year later we can confidently say again: oh, what a difference 12 months makes.
+<a href='https://www.theverge.com/2021/1/16/22231489/ces-2021-verge-awards-best-laptop-tv-tech-pc-concept-gadget'> Source <a/>

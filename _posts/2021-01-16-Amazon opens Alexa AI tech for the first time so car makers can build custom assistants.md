@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vkcVzxuK5LlEOuG-FPXmfMga-bU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68672189/acastro_180510_1777_alexa_0003.0.jpg' width='700px' /><br/>
-Amazon will now allow third-party companies the unprecedented privilege of accessing the core artificial intelligence underpinning its Alexa digital assistant, a first for the company's AI platform.
-<a href='https://www.theverge.com/2021/1/15/22231336/amazon-alexa-auto-ai-custom-digital-assistants-car-makers'> Source <a/>

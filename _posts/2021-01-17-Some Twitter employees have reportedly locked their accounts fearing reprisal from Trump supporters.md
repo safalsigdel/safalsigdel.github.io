@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cQV2WUbtHSDWQSetAHvyKWlUX9k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68678392/acastro_201106_1777_vote_0004.0.0.jpg' width='700px' /><br/>
+Some Twitter employees have set their accounts to private and scrubbed their online biographies over concerns they may be targeted by supporters of President Trump, the New York Times reported. In addition, some Twitter executives have been assigned personal security as the company reckons with its decision to bar one of its loudest voices.
+<a href='https://www.theverge.com/2021/1/16/22234505/twitter-employees-locked-trump-supporters-capitol-violence'> Source <a/>
