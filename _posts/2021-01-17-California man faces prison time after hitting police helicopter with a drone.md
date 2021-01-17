@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LsDQXD-CxKcaIrdwOu2cNA4WmeU=/0x0:2200x1467/1200x800/filters:focal(924x558:1276x910)/cdn.vox-cdn.com/uploads/chorus_image/image/68673771/Mavic_Pro_remote.0.0.jpg' width='700px' /><br/>
-A California man is facing jail time for hitting a police helicopter with his drone. Andrew Hernandez pleaded guilty yesterday to unsafe operation of an unmanned aircraft, a charge that carries up to one year in federal prison and a potential fine of up to $250,000.
-<a href='https://www.theverge.com/2021/1/15/22232927/california-andrew-hernandez-unsafe-drone-operation-police-helicopter-guilty-plea'> Source <a/>

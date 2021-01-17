@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yn92ci4xtaljA-alnQ8Pd0bdttM=/0x0:3066x1710/1200x800/filters:focal(1288x610:1778x1100)/cdn.vox-cdn.com/uploads/chorus_image/image/68681016/Virgin_Orbit_87.0.jpg' width='700px' /><br/>
+Virgin Orbit — the sister company of billionaire Richard Branson's space tourism outfit Virgin Galactic — will try a second test of its small satellite-launching rocket later today, months after it failed to reach orbit during a first attempt. It will also be the first time that the company tries to launch working satellites into space on behalf of NASA.
+<a href='https://www.theverge.com/2021/1/17/22221212/virgin-orbit-rocket-test-launch-satellites-nasa-branson'> Source <a/>

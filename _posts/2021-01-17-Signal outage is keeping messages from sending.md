@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tzTNeDA9wEGEi310pXmfOV7BCeU=/0x0:1020x680/1200x800/filters:focal(442x208:604x370)/cdn.vox-cdn.com/uploads/chorus_image/image/68673849/signal-003.0.jpg' width='700px' /><br/>
-If you're having trouble sending messages in the secure messaging app Signal, it may be due to technical difficulties the company says are affecting the app on Friday.
-<a href='https://www.theverge.com/2021/1/15/22232993/signal-outage-new-users-messages-not-sending'> Source <a/>

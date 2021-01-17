@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FJ0Mvj2Molt25ttk9VfI0pw7ZRw=/0x0:5000x3334/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/68680865/1230608869.0.jpg' width='700px' /><br/>
+After experiencing technical difficulties Friday, the Signal messaging app appears to be back up and running. The company tweeted Saturday night that it was “back,” although added that some users may still see error messages in their chats. The company didn't explain what caused the outage.
+<a href='https://www.theverge.com/2021/1/17/22235707/signal-back-app-privacy-encrypted-outage'> Source <a/>
