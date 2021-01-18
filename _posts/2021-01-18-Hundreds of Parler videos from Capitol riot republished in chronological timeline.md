@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T0PVlnlhkPHtxXDvU_CKuV-iUow=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/68683607/1230591287.0.jpg' width='700px' /><br/>
+ProPublica has published a new interactive resource of over 500 videos taken in Washington, DC on January 6th, the day of the Capitol riots, offering an unfiltered look at the day's events. The videos were sourced from Parler, the social network popular with Trump's supporters, whose database of over one million videos was archived before the service was taken offline.
+<a href='https://www.theverge.com/2021/1/18/22236750/propublica-parler-capitol-riot-videos-timeline-resource'> Source <a/>
