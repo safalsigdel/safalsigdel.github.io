@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lR6JBmNkLkrzBPXpQUfhNGv9EhI=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/68674391/47_Dartmoor_1024x576.0.jpg' width='700px' /><br/>
-Hitman 3 and the World of Assassination trilogy launch on January 20th, and at launch, Google Stadia players will be able to share access to distinct points within a game thanks to Stadia's State Share feature.
-<a href='https://www.theverge.com/2021/1/15/22233066/stadia-state-share-hitman-3-world-of-assassination'> Source <a/>

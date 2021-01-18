@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yn92ci4xtaljA-alnQ8Pd0bdttM=/0x0:3066x1710/1200x800/filters:focal(1288x610:1778x1100)/cdn.vox-cdn.com/uploads/chorus_image/image/68681016/Virgin_Orbit_87.0.jpg' width='700px' /><br/>
+Update January 17th 5:34PM ET: Virgin Orbit's rocket reached orbit and the satellites were released, meaning Sunday's mission was a success. The headline has been updated to reflect this. The original story is below.
+<a href='https://www.theverge.com/2021/1/17/22221212/virgin-orbit-rocket-test-launch-satellites-nasa-branson'> Source <a/>

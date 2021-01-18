@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8BqhJ3xkQ1ZCFqSTKbVMgS9yiPA=/0x0:4836x3173/1200x800/filters:focal(2032x1201:2804x1973)/cdn.vox-cdn.com/uploads/chorus_image/image/68681543/967199944.jpg.0.jpg' width='700px' /><br/>
+GitHub is admitting that a Jewish employee was fired in error and is offering him his job back. The news comes after the company hired an independent law firm to investigate the termination, and found that “significant mistakes were made.” The company's head of HR, Carrie Olesen, is also resigning.
+<a href='https://www.theverge.com/2021/1/17/22235913/github-significant-mistakes-were-made-firing-jewish-employee-nazis'> Source <a/>

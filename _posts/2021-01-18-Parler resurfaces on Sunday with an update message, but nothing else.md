@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fGtFcqrTfXXtYC_mGGQjOLSpdAs=/0x0:4000x2156/1200x800/filters:focal(305x707:945x1347)/cdn.vox-cdn.com/uploads/chorus_image/image/68682224/1230527974.0.jpg' width='700px' /><br/>
+Social media platform Parler was all but wiped off the internet last week, but on Sunday, showed some signs of life. A message from Parler CEO John Matze, first noted by CNN's Donie O'Sullivan- is now appearing at the site's URL, with an image showing a “technical difficulties” banner, and a message.
+<a href='https://www.theverge.com/2021/1/17/22236178/parler-resurfaces-sunday-app-banned'> Source <a/>

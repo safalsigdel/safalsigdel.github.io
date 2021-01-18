@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EUX30sRH-8kHZ69BXiL0D4OogmU=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/68674136/1294949440.0.jpg' width='700px' /><br/>
-GitHub employees are protesting the firing of a Jewish colleague who was let go two days after he warned co-workers in Washington, DC to stay safe from Nazis.
-<a href='https://www.theverge.com/2021/1/15/22232766/github-employees-protest-jewish-employee-firing-warn-nazi'> Source <a/>

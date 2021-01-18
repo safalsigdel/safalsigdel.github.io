@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GvVyvOkBDgBz4PkTI-5s7YX6XmY=/0x0:1287x810/1200x800/filters:focal(542x303:746x507)/cdn.vox-cdn.com/uploads/chorus_image/image/68682159/billie.0.jpg' width='700px' /><br/>
+I'm getting to the point where there's so much to stream that I don't know what to watch first, old shows I want to catch up on, or new shows/movies so I can keep up with all the references on Twitter. But! I am filled with hope for the coming weeks, as there are a slew of interesting-looking trailers for movies I have been waiting to see.
+<a href='https://www.theverge.com/2021/1/17/22234658/new-trailers-cherry-clarice-billie-holiday-hulu-hbo-apple'> Source <a/>
