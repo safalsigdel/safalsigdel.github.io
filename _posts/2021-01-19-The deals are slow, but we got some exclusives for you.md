@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WpictX2vvu4cjGw2adyqrv7LwcE=/0x0:930x523/1200x800/filters:focal(391x188:539x336)/cdn.vox-cdn.com/uploads/chorus_image/image/68677780/slim_folio_pro_for_ipad_pro__3_.0.jpg' width='700px' /><br/>
-Welcome to the weekend. If I'm being honest, this week's assortment of deals was just as spotty as last week's. So, to make it a little better, we've worked with some retailers to give Verge readers some exclusive deals. Looking forward, if you're on the hunt for, say, a big 4K TV or a home theater system, we'll be sure to include the top deals in our regular Verge Deals coverage as the Super Bowl nears.
-<a href='https://www.theverge.com/good-deals/2021/1/16/22232718/logitech-slim-folio-ipad-pro-google-pixel-buds-deal-sale'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5uOeJmjBRXsFkWWayxQz0XfImYI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68688455/Global_Football_Key_Art.0.jpg' width='700px' /><br/>
+Epic has partnered with some of the biggest soccer clubs in the world for its latest set of Fortnite skins. Today, the developer unveiled the new “kickoff set,” which lets players swap between 23 different kits. There are some big names not featured — sorry, Bayern Munich fans — but the list is impressively global, with popular teams from Europe, alongside squads from the US, Japan, Australia, and Brazil.
+<a href='https://www.theverge.com/2021/1/19/22231705/fortnite-soccer-skins-manchester-city-juventus-ac-milan-faze-clan'> Source <a/>
