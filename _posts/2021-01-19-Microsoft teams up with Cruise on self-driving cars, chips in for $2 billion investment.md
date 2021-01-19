@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WX_ws4WOHsUd5rlhWUsTaf1tOZY=/0x0:4928x3280/1200x800/filters:focal(2070x1246:2858x2034)/cdn.vox-cdn.com/uploads/chorus_image/image/68688263/1189070698.0.jpg' width='700px' /><br/>
+Microsoft is joining forces with Cruise, the self-driving subsidiary of General Motors, to help speed up the commercialization of autonomous vehicles. The software giant is also chipping in on a new equity investment of $2 billion for Cruise, along with previous investors Honda and GM, bringing the AV company's valuation up to a whopping $30 billion.
+<a href='https://www.theverge.com/2021/1/19/22238407/microsoft-cruise-self-driving-investment-azure-cloud'> Source <a/>
