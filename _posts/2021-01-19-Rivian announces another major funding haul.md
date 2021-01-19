@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9lb46cO9NuKfYVYHVoOTvdwFw-w=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/68688744/K._Rivian_R1T_Fun_In_Dirt_2.0.jpg' width='700px' /><br/>
+Amazon-backed electric vehicle startup Rivian has raised another $2.65 billion, bolstering its position as one of the most well-funded EV startups in the world.
+<a href='https://www.theverge.com/2021/1/19/22238670/rivian-funding-amazon-electric-truck-suv'> Source <a/>
