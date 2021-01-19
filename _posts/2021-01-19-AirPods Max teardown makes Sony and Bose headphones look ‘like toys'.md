@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+iFixit's long in the making AirPods Max teardown is finally complete, giving an exhaustive look at the internals of Apple's debut over-ear headphones and an idea of how easy they are to repair. Until now, iFixit has refused to grant Apple a single repairability point for any of its AirPods, but the AirPods Max buck the trend with a surprisingly high score of six out of ten. iFixit even went as far as to teardown Sony's WH-1000XM4 and Bose's NC 700 headphones for comparison.
+<a href='https://www.theverge.com/circuitbreaker/2021/1/19/22238632/ifixit-airpod-max-teardown-repair-screws-adhesive-sony-bose-headphones'> Source <a/>
