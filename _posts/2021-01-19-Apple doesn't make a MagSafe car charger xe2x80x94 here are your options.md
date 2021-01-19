@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yRLzs8bBAGky4K2CfqcEj0soxJQ=/337x0:1680x800/1200x800/filters:focal(706x266:974x534)/cdn.vox-cdn.com/uploads/chorus_image/image/68675288/belkin_wic002_magnetic_vent_cable_management_product_page_v01_r01_1680x600_us.0.jpg' width='700px' /><br/>
-Getting a MagSafe car charger for your iPhone seems like a simple process, but the current landscape is one of trade-offs: there are no all-in-one solutions that will wirelessly hold and charge your phone and are MagSafe certified to provide up to 15W of power. However, manufactures have been finding workarounds.
-<a href='https://www.theverge.com/2021/1/15/22231718/magsafe-car-chargers-apple-iphone-certification-process'> Source <a/>
