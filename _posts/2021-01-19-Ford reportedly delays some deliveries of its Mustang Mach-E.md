@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GC7TnDNH70KZruvTiX0yu9txzW0=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/68678687/ahawkins_201212_4339_0009.0.jpg' width='700px' /><br/>
-Ford will delay deliveries for hundreds of its Mustang Mach-E vehicles to perform quality checks, Electrek reported. The automaker began delivering the Mach-E SUV in December, but some buyers reported that their upcoming delivery dates had been pushed back, by as long as a month in some cases, according to Electrek.
-<a href='https://www.theverge.com/2021/1/16/22234668/ford-delays-deliveries-mustang-mach-e-quality-checks'> Source <a/>
