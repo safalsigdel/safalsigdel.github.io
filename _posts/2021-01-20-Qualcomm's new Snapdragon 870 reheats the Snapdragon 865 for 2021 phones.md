@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c058LwEHsz0ppEj7xkzuX1KW5y0=/0x0:1920x1081/1200x800/filters:focal(807x388:1113x694)/cdn.vox-cdn.com/uploads/chorus_image/image/68688366/Snapdragon_870_5G_Mobile_Platform.0.png' width='700px' /><br/>
-Qualcomm has announced a new mobile phone processor: the Qualcomm Snapdragon 870, a successor to last year's Snapdragon 865 and 865 Plus models. To be clear, the 870 isn't a new next-gen design — that title goes to the Snapdragon 888, which makes far more substantial improvements in performance and new features.
-<a href='https://www.theverge.com/2021/1/19/22233584/qualcomm-snapdragon-870-865-plus-refresh-processor-smartphones-2021'> Source <a/>

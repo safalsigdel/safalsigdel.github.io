@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R4jSFNY_DfzK5r_4a5_JPy7r7IY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68693537/cgartenberg_201022_4254_0002.0.0.jpg' width='700px' /><br/>
+LG is considering exiting the smartphone market in 2021. After losing around $4.5 billion over the past five years, LG's smartphone business has been struggling to compete with rivals. Now LG CEO Kwon Bong-seok has notified employees that the company is considering making big changes to its smartphone business.
+<a href='https://www.theverge.com/2021/1/20/22240282/lg-smartphone-business-exit-2021-internal-memo'> Source <a/>
