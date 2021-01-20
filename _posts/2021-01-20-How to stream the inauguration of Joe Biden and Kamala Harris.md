@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Bm_SD-03UZhYiisgxxo8NoZmlbs=/0x0:4000x2668/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/68693856/1230589253.0.jpg' width='700px' /><br/>
+President-elect Joe Biden and Vice President-elect Kamala Harris are set to make history today when they will be sworn into office as president and vice president. Because of the ongoing coronavirus pandemic and heightened security following this month's deadly attack on the Capitol, Inauguration Day will be unlike any other before.
+<a href='https://www.theverge.com/2021/1/20/22239280/inauguration-day-watch-live-stream-how-to-start-time-president-joe-biden-kamala-harris'> Source <a/>
