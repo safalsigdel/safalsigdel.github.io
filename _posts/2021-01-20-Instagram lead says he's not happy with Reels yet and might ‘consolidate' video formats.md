@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A9qLA4i0WfyuJ6YaIe3Uj7jFEIs=/0x0:3206x2032/1200x800/filters:focal(1347x760:1859x1272)/cdn.vox-cdn.com/uploads/chorus_image/image/68688559/Reels_IOSX_3.0.png' width='700px' /><br/>
-Adam Mosseri, the head of Instagram, isn't thrilled with the platform's TikTok competitor Reels. He discussed the format, which launched in the US in August, during an interview with The Verge's Decoder podcast today.
-<a href='https://www.theverge.com/2021/1/19/22238513/instagram-adam-mosseri-reels-decoder-interview-podcast'> Source <a/>
