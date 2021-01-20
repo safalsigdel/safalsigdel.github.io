@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_IE2ktG9zE3JmidAEcta90LZ_c8=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/68688488/Samsung870EVO_Drive_w_Packaging.0.jpg' width='700px' /><br/>
-Samsung's 860 SSD has been one of the standards for PC parts since it was released in 2018. Now, the company is announcing its successor, the 870 Evo, its latest SATA SSD designed for consumer use that brings faster speeds and lower prices.
-<a href='https://www.theverge.com/2021/1/19/22233193/samsung-870-evo-ssd-sata-pc-part-storage-price-speeds'> Source <a/>
