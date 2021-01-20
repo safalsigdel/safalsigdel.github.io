@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-Apple's MacBook Pro with the new M1 processor is one of the best-performing laptops on the market for the cost, and that cost is a little less than usual today. Amazon and B&H Photo have each knocked $80 from the base model's normal $1,299 price. At checkout, you'll pay $1,219, which is just $20 more than the lowest price yet. In other words, if you've been waiting for a deal, today's not a bad day to go for it. Though, this price is only set for the silver-colored option.
-<a href='https://www.theverge.com/good-deals/2021/1/19/22238493/apple-macbook-pro-m1-paper-mario-cyberpunk-2077-tidal-deal-sale-best-buy-amazon'> Source <a/>
