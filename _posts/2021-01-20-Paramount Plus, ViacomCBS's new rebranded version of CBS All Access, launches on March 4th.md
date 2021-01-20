@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WBN3uvrh2JAxFCWv-3ioPwN8Dk0=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/68688426/paramount_plus.0.jpg' width='700px' /><br/>
-ViacomCBS is set to relaunch its CBS All Access service as Paramount Plus on March 4th, with a special event to introduce the new streamer on February 24th, the company announced today.
-<a href='https://www.theverge.com/2021/1/19/22238502/paramount-plus-launch-date-cbs-all-access-streaming-event-shows-movies'> Source <a/>
