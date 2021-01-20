@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bc9iEfFGbQdZMUqrJ_nXN7hZymQ=/0x0:2284x1452/1200x800/filters:focal(960x544:1324x908)/cdn.vox-cdn.com/uploads/chorus_image/image/68695584/Screen_Shot_2021_01_20_at_9.26.43_AM.0.png' width='700px' /><br/>
+The official website of the White House, WhiteHouse.gov, has been completely replaced with a new version for the Biden administration, and it comes with some unexpected accessibility features: a high contrast mode, which serves as a dark mode, and a toggle to make the font size larger.
+<a href='https://www.theverge.com/2021/1/20/22240864/new-white-house-website-dark-mode-accessibility'> Source <a/>
