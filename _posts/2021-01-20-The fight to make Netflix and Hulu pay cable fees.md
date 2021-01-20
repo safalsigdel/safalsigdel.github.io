@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RPHXaAsBtXaVoEgcnICKZBHuUQE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68695313/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+Streaming services are slowly turning into cable TV — complete with bundles, an ever-growing list of channels, and a reinvented TV guide. And a series of lawsuits could portend the return of something even worse: the hidden cable fee.
+<a href='https://www.theverge.com/2021/1/20/22238785/georgia-lawsuit-netflix-hulu-cable-franchise-fees-video-service'> Source <a/>
