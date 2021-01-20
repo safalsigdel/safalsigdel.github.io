@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a9DnCiZwSxbj2CvetDXAo--2Zb0=/0x0:1280x853/1200x800/filters:focal(538x325:742x529)/cdn.vox-cdn.com/uploads/chorus_image/image/68693493/20C0579_036.0.jpg' width='700px' /><br/>
+Mercedes-Benz threw back the curtain on the EQA crossover, its latest electric vehicle as part of a slate of new EVs that are being planned for the coming years. The compact SUV will have a range of less than 300 miles, a 66.5kWh battery pack, and a net list price of xe2x82xac39,950 ($48,442).
+<a href='https://www.theverge.com/2021/1/20/22239135/mercedes-benz-eqa-electric-crossover-range-price-specs'> Source <a/>
