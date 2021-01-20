@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2lx7qM9QNpu_AlrMzVLvLJTK-Es=/0x0:2040x1360/1200x800/filters:focal(866x813:1192x1139)/cdn.vox-cdn.com/uploads/chorus_image/image/68687439/vpavic_4291_20201113_0380.0.0.jpg' width='700px' /><br/>
-The latest update to ubiquitous open-source media player VLC is here, and it comes with native support for Apple silicon Mac computers — the new versions of the MacBook Pro, the MacBook Air, and the Mac mini with Apple's own M1 processor. VLC 3.0.12 also includes some visual tweaks to bring it further in line with Big Sur, the latest version of macOS.
-<a href='https://www.theverge.com/2021/1/19/22238242/vlc-apple-silicon-m1-native-support-available'> Source <a/>

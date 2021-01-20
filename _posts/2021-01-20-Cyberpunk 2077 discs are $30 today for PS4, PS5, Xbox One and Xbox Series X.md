@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/exnYbS2u26EGeQGkDviM3SclPgw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68686247/Cyberpunk2077_Always_bring_a_gun_to_a_knife_fight_RGB_en.0.jpg' width='700px' /><br/>
-If you've already nabbed a next-gen PlayStation or Xbox — or are willing to give developer CD Projekt the benefit of the doubt that it'll eventually work on your current-gen machine — you can now pick up the standard disc edition of Cyberpunk 2077 for half-price at Amazon and Best Buy. It's $30, instead of $60.
-<a href='https://www.theverge.com/good-deals/2021/1/18/22237692/cyberpunk-2077-sale-half-off-ps5-ps4-xbox-one-series-x'> Source <a/>

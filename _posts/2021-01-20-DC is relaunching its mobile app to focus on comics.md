@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/38p_Nf6Zi0xqh5y9sGb5gy1T4YU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68690317/batman_superman-dc-comics.0.0.jpg' width='700px' /><br/>
+DC is shaking up its comics app on January 21st and relaunching it as DC Universe Infinite. The original DC Universe featured television shows and comics, but now that DC shows have moved to HBO Max, the company has decided to refocus the app on comics and the “fan community,” while keeping the same $7.99-a-month price.
+<a href='https://www.theverge.com/2021/1/19/22238924/dc-universe-infinite-comics-app-subscription-relaunch'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-One year ago at CES 2020 in Las Vegas, Alienware made waves with a modular gaming PC that worked like a Nintendo Switch, with a pair of gamepads flanking a powerful Windows 10 tablet. Sadly, Alienware's UFO was just a concept, as was Lenovo's take on the idea this year — but two companies are now taking up the torch with a pair of crowdfunded gadgets you might actually see in your lifetime. They look seriously legit.
-<a href='https://www.theverge.com/circuitbreaker/2021/1/18/22237379/aya-neo-gpd-win-3-nintendo-switch-gaming-pc-handheld-specs-comparison'> Source <a/>

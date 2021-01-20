@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RV8qTV-8w6ilWs5fs50Gl5RhIgo=/0x0:3962x2640/1200x800/filters:focal(1665x1004:2297x1636)/cdn.vox-cdn.com/uploads/chorus_image/image/68690180/1164792889.0.jpg' width='700px' /><br/>
+Fortnite developer Epic says that, for 2021, the game's competitive scene will have a prize pool of $20 million. That's a step up from last year's total of $17 million — though it's not as massive as the 2019 World Cup, where $30 million was on the line.
+<a href='https://www.theverge.com/2021/1/19/22239161/fortnite-esports-fncs-prize-pool-2021'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Despite a whirlwind of electric vehicle SPAC mergers in the last few months, there's still one startup flying solo that's arguably the best-positioned. Yes, Faraday Future is still on the market — though maybe not for long.
+<a href='https://www.theverge.com/tldr/2021/1/19/22229493/faraday-future-spac-merger-psac-public-ipo-stock'> Source <a/>
