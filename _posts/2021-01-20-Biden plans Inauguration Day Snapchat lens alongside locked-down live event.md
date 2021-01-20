@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nRnC5GXeneTIYaU6MIVhXN4o-wY=/0x0:1170x2532/1200x800/filters:focal(510x641:696x827)/cdn.vox-cdn.com/uploads/chorus_image/image/68688501/unnamed.0.jpg' width='700px' /><br/>
-With an ongoing pandemic and an unprecedented lockdown of the nation's capital, Joe Biden's inauguration will look different from those that came before it.
-<a href='https://www.theverge.com/2021/1/19/22238570/joe-biden-inauguration-snapchat-filter-event'> Source <a/>

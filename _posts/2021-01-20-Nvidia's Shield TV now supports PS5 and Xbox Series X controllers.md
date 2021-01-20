@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wUPpAm0bPg8q_cmZDFLyIVuhwFM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68694002/acastro_210113_1777_gamingstock_0005.0.jpg' width='700px' /><br/>
+Nvidia is updating its Shield Android TV software to include support for the latest next-gen console controllers. If you own a Shield TV or Shield TV Pro device, you can now pair the PS5 DualSense or Xbox Series X controllers to play Android games or PC titles through Nvidia's GeForce Now streaming service.
+<a href='https://www.theverge.com/2021/1/20/22240383/nvidia-shield-tv-ps5-dualsense-xbox-series-x-controller-support-update'> Source <a/>
