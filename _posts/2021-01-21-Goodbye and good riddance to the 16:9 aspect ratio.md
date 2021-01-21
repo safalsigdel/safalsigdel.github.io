@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u40TteU5Y01aEMqgoKq0kmC-xiU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68691467/HP_Elite_Folio_Front_Left_Forward.0.jpg' width='700px' /><br/>
-One of the biggest trends coming out of this year's CES wasn't something people will necessarily notice at first glance unless they look closely. After enduring years of cramped, “widescreen” laptop displays, it looks like we're finally starting to say goodbye to the 16:9 aspect ratio.
-<a href='https://www.theverge.com/2021/1/19/22238671/16-9-aspect-ratio-hp-elite-folio-dell-latitude-lenovo-thinkbook-plus-legion-7'> Source <a/>
