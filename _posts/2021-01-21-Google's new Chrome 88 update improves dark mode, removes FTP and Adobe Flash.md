@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fGezFe0b9TdYCrT1KaNnj_i_EeE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68693639/acastro_200207_3900_chrome_0001.0.0.jpg' width='700px' /><br/>
-Google is releasing a new version of Chrome this week that will improve its dark mode support, alongside removing FTP and Adobe Flash support. The dark mode improvements can be found on both Windows and Chrome OS. There are refinements to both the light and dark modes in Chrome OS, with the themes updated for the app launcher, quick settings, and shelf parts of Chrome OS.
-<a href='https://www.theverge.com/2021/1/20/22240301/google-chrome-88-release-download-dark-mode-ftp-adobe-flash-removal'> Source <a/>
