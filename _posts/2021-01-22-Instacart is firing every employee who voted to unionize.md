@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/20Ge7bHfqyMGJFRpoJ_Z7mCwj-4=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/68701279/instacart_shopper_produce.0.jpg' width='700px' /><br/>
+Instacart is laying off every employee who voted to unionize, Motherboard reports. The news comes as the company shuts down in-store operations at some grocery stores amid the coronavirus pandemic and doubles down on curbside pickups.
+<a href='https://www.theverge.com/2021/1/21/22242676/instacart-firing-every-union-employee-coronavirus-pandemic'> Source <a/>
