@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qdFMK49WltW8dnkW2COzaFJRFZo=/0x0:2667x2667/1200x800/filters:focal(1185x566:1611x992)/cdn.vox-cdn.com/uploads/chorus_image/image/68700319/1204520627.0.jpg' width='700px' /><br/>
+Spotify is continuing its pursuit of podcasting talent. Today, the company announced that it's partnering with filmmaker Ava DuVernay and her Array media collective to launch exclusive scripted and unscripted audio programming. Those shows will come out of Spotify's Gimlet team, and Spotify didn't offer any preview of what the new programs might entail.
+<a href='https://www.theverge.com/2021/1/21/22242381/ava-duvernay-spotify-podcast-audio-deal-exclusive'> Source <a/>
