@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FO5jD7Zkc_w53C8dqi1Rp8Wtf_s=/110x0:1782x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68697641/ss_a0f2416e11bf5b47788eaa3617e092b73962b145.0.jpg' width='700px' /><br/>
+Among Us was one of the smash hits of 2020 — it reportedly had nearly half a billion players in November — and there are some exciting updates announced for the game, including a new airship map and an account system. In a blog posted yesterday, developer Innersloth discussed how it has adapted in response to the game's enormous popularity and why new features are taking a while to be released.
+<a href='https://www.theverge.com/2021/1/20/22241461/among-us-developers-innersloth-new-features-blog'> Source <a/>

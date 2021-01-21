@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/H0F-VR6qo28CLEjOhqhNZY1DHPg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68696295/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
+Amazon has offered to help the Biden administration meet its goal of completing 100 million coronavirus vaccinations within the next 100 days. “Our scale allows us to make a meaningful impact immediately in the fight against COVID-19, and we stand ready to assist you in this effort,” Dave Clark, Amazon's worldwide operations leader, wrote in a letter to the administration.
+<a href='https://www.theverge.com/2021/1/20/22241031/amazon-vaccination-biden-administration'> Source <a/>

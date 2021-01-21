@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KsgtSiL0PQLOAQcHJ-93AhcQup8=/0x0:3600x2404/1200x800/filters:focal(1512x914:2088x1490)/cdn.vox-cdn.com/uploads/chorus_image/image/68690853/BRIDGERTON_102_Unit_02026R.0.jpg' width='700px' /><br/>
-Netflix has surpassed another major milestone: 203.6 million subscribers around the world.
-<a href='https://www.theverge.com/2021/1/19/22238877/netflix-200-million-subscribers-q4-earnings-bridgerton-emily-paris-cobra-kai-queens-gambit'> Source <a/>

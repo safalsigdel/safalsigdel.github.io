@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SFS-EzCEWyknoP674FkG1l2JyTE=/0x0:1600x1600/1200x800/filters:focal(672x672:928x928)/cdn.vox-cdn.com/uploads/chorus_image/image/68696688/s_l1600.0.png' width='700px' /><br/>
+JBL's Google Assistant-powered smart display, the Link View, is on sale for $80 on Harman Audio's (JBL's parent company) eBay store. While its original price was $300, this smart display has been slowly getting cheaper since it debuted in 2018. Both the black and white color variants are on sale, and it comes with free standard shipping.
+<a href='https://www.theverge.com/good-deals/2021/1/20/22241056/jbl-link-view-google-assistant-smart-display-ebay-deal-sale'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KCqhbVRAJkptDFkpnwHIFZ3RfQw=/0x0:2139x2625/1200x800/filters:focal(1423x1570:1765x1912)/cdn.vox-cdn.com/uploads/chorus_image/image/68689623/dulog_tag.0.jpg' width='700px' /><br/>
-Bats are elusive little creatures, which makes them the perfect subjects for scientists to try out new animal tracking systems. This is great news for me specifically, because I love both bats and seeing images of animals with goofy little trackers on them. How can you look at these seals with ridiculous antenna hats and not laugh at least a little?
-<a href='https://www.theverge.com/22238647/bat-tracking-sensors-animal-research'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cW_t_EZlNBT36sTYEdo7i0qPpJ0=/0x0:5568x3712/1200x800/filters:focal(2889x1470:3779x2360)/cdn.vox-cdn.com/uploads/chorus_image/image/68697811/1183652230.0.jpg' width='700px' /><br/>
+Tim Apple, as Trump once called him, didn't just give Donald Trump the opportunity to lie about bringing an Apple factory to the United States. He also gave him a $5,999 Mac Pro, according to Donald Trump's final financial disclosure report today (via the NY Times' David Enrich).
+<a href='https://www.theverge.com/2021/1/20/22241646/apple-tim-cook-gave-the-first-mac-pro-to-trump'> Source <a/>

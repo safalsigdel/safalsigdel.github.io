@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BmEksZ7twxXonnDe5v6aExLAfUw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68696576/acastro_210115_1777_twitch_0003.0.jpg' width='700px' /><br/>
+Twitch has “indefinitely” banned former President Donald Trump from its platform. The action comes two weeks after the site disabled Trump's account, preventing him from streaming but leaving the account page live, in light of the mob attack on the Capitol. At the time, a company spokesperson told a Verge reporter that it would reassess his account after he left office — which happened today.
+<a href='https://www.theverge.com/2021/1/20/22241201/twitch-donald-trump-ban-permanent'> Source <a/>

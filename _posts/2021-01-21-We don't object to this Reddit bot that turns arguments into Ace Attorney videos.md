@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Someone had to do it: there's now a bot that turns Reddit arguments into scenes from Phoenix Wright: Ace Attorney, complete with music and the iconic “OBJECTION!” intercuts. It's from those moments that it draws its name: objection-bot.
-<a href='https://www.theverge.com/tldr/22238910/reddit-bot-phoenix-wright-ace-attorney-videos-internet-fights'> Source <a/>

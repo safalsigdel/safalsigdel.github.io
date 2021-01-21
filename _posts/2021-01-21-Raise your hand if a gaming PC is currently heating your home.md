@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-A few weeks ago, our furnace (technically a ductless heat pump) stopped working at the worst possible time of the year. But at least one room stays nice and toasty all winter long — thanks to my gaming PC.
-<a href='https://www.theverge.com/tldr/22228469/gaming-pc-heat-home-winter-nvidia-amd-rtx-3080-6800-xt'> Source <a/>
