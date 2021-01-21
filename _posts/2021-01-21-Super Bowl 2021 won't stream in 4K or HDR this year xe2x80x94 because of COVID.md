@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MSiZIT05fOM4Bv2tworMyZz2gAw=/0x0:2505x1793/1200x800/filters:focal(489x116:889x516)/cdn.vox-cdn.com/uploads/chorus_image/image/68700841/1297295211.0.jpg' width='700px' /><br/>
+The 2021 Super Bowl won't be available to stream in 4K or HDR this year when it airs on February 7th, CBS Sports Digital has confirmed to The Verge. The company is citing production limitations caused by the COVID-19 pandemic as the reason.
+<a href='https://www.theverge.com/2021/1/21/22242680/super-bowl-lv-4k-hdr-cbs-sports-stream-not-available-2021'> Source <a/>
