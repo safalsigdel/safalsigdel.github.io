@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vyjClJ52GE3Bh-F959uI1fEZi6c=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68701098/VRG_ILLO_4341_American_Ethernet.0.jpg' width='700px' /><br/>
+Former FCC chairman Ajit Pai has left the building, but not without giving the telecom industry one last pat on the back: in his final Annual Broadband Report, he decided that 3Mbps upload speeds and 25Mbps download speeds are still more than good enough for Americans (via Ars Technica).
+<a href='https://www.theverge.com/2021/1/21/22242635/fcc-ajit-pai-internet-speed-advanced-telecommunications-3mbps'> Source <a/>
