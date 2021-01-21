@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+For the past hour, I've been avoiding work by browsing this amazingly high-resolution scan of Johannes Vermeer's iconic Girl with a Pearl Earring. With a total resolution of 93,205 x 108,565, PetaPixel notes the scan is believed to be the first 10 billion pixel panorama ever created, allowing you to zoom in close enough to turn the tiniest flecks of paint into puddles and minuscule cracks into crevasses. The scan appears to have been posted online early last year.
+<a href='https://www.theverge.com/tldr/22242585/girl-with-a-pearl-earring-johannes-vermeer-mauritshuis-hirox-scan'> Source <a/>

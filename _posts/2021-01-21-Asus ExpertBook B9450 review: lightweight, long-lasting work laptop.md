@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P9Z32ouLrOTW3z01aRNi_oOYCE4=/0x0:2040x1360/1200x675/filters:focal(848x597:1174x923)/cdn.vox-cdn.com/uploads/chorus_image/image/68694135/mchin_190410_4371_0007.0.jpg' width='700px' /><br/>
-There are two reasons to buy the ExpertBook B9450: the weight and the battery life.
-<a href='https://www.theverge.com/22239215/asus-expertbook-b9450-review-design-specs-price-features'> Source <a/>

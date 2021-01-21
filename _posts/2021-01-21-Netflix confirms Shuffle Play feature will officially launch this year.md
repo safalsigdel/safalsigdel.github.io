@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ULBi6SeNBaskT94XlHkB_uc_G7M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68694731/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
-Netflix's Shuffle Play feature, which the company was spotted testing last year, is getting a widespread launch in the first half of 2021. Variety reports the company made the announcement as part of its latest financial results. In its testing phase, Shuffle Play has worked by picking content based on your viewing history, helping you avoid feeling overwhelmed by Netflix's home screen full of content.
-<a href='https://www.theverge.com/2021/1/20/22240550/netflix-shuffle-play-movies-shows-viewing-history'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4wStu156YaiXpIQZLhM6TaWLYKk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68700537/acastro_180806_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook vice president Nick Clegg says the company is referring its decision to indefinitely suspend former President Trump from its platform to its newly-established oversight board for a complete review. The president's Facebook account was suspended indefinitely on January 7th after he incited his followers to attack the US Capitol on January 6th. Six people died in the ensuing riots.
+<a href='https://www.theverge.com/2021/1/21/22242616/facebook-refers-decision-suspend-trump-oversight-board'> Source <a/>
