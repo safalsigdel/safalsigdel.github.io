@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tdpwmDrC7QtsgnEFQtXVdCL2gso=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68695011/dseifert_201030_4273_0005.0.0.jpg' width='700px' /><br/>
-Last October, Lenovo unveiled its new Google Assistant-powered alarm clock, the Smart Clock Essential. At just $50, the Lenovo Smart Clock Essential is slightly smarter than your average bedside clock. Not only does it display time, weather conditions, and current alarms, but its compact design won't take up much space on your nightstand or bedside table.
-<a href='https://www.theverge.com/good-deals/2021/1/20/22240421/lenovo-smart-clock-essential-samsung-galaxy-buds-live-death-stranding-pc-deal-sale'> Source <a/>

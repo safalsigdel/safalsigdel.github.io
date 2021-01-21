@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V_J_sGrWehNtobL9IK4wpKHawCw=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/68691309/Vrbo_logo_dark.0.png' width='700px' /><br/>
-Vrbo has changed its stance on people making reservations in the Washington, DC area during the week of the inauguration. The company announced on January 19th, the day before the event, that it will block any new reservations through Friday, January 22nd. Vrbo previously stated it was evaluating new bookings and that it would “take appropriate action in coordination with law enforcement” if necessary.
-<a href='https://www.theverge.com/2021/1/19/22239269/vrbo-blocking-new-reservations-dc-inauguration'> Source <a/>

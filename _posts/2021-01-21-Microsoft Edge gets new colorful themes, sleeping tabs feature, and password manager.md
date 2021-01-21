@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Microsoft is introducing new colorful themes for its Edge browser this week, alongside updated icons and a new sleeping tabs feature that improves the browser and overall PC performance. To celebrate a year of the Chromium-powered Microsoft Edge, the browser is getting new themes available from the Edge add-on site.
+<a href='https://www.theverge.com/2021/1/21/22242622/microsoft-edge-new-themes-icons-sleeping-tabs-feature'> Source <a/>

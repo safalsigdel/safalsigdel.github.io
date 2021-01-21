@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-JW-YU4R8a_YCkfcfzc31mAPPXw=/0x0:1130x768/1200x800/filters:focal(325x266:543x484)/cdn.vox-cdn.com/uploads/chorus_image/image/68700588/6.reputation_1365x768.0.jpg' width='700px' /><br/>
+PUBG's latest update adds a reputation system intended to encourage players to be less toxic toward each other. Though, in a blog about the update, PUBG Corporation acknowledges the inherent irony of a reputation system in a game all about killing.
+<a href='https://www.theverge.com/2021/1/21/22242556/pubg-reputation-system-10-2-update'> Source <a/>
