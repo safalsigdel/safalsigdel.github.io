@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BiWj06AXLywZFduXb7mQAj-Wgpg=/0x0:3887x2721/1200x800/filters:focal(1634x1051:2254x1671)/cdn.vox-cdn.com/uploads/chorus_image/image/68699808/1204526866.0.jpg' width='700px' /><br/>
+Counter-Strike players could be returning to in-person competition soon thanks to a new agreement on safety protocols. The Counter-Strike Professional Players' Association announced a new series of protocols, created in conjunction with two major tournament organizers — the ESL and DreamHack — that could see players return to LAN tournaments early this year.
+<a href='https://www.theverge.com/2021/1/21/22242331/counter-strike-csgo-pros-lan-tournaments-covid-safety'> Source <a/>
