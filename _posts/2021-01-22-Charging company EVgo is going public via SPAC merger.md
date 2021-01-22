@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rcbur69WwbO5-lQoPOxi2kV-XjE=/0x0:5231x3487/1200x800/filters:focal(1487x813:2323x1649)/cdn.vox-cdn.com/uploads/chorus_image/image/68704358/B069C1F8_5E6C_495D_8097_017F02BD9DCF.0.jpeg' width='700px' /><br/>
+Another company in the electric vehicle industry is going public by merging with a so-called SPAC, or special purpose acquisition company. This time, it's EVgo, one of the leading providers of electric vehicle charging stations in the US.
+<a href='https://www.theverge.com/2021/1/22/22243080/evgo-chargin-spac-public-cris-david-crane-cathy-zoi'> Source <a/>
