@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z3us4aHJ4ulu7jSmmLCzvQYYqXM=/0x0:2400x1600/1200x800/filters:focal(1163x613:1547x997)/cdn.vox-cdn.com/uploads/chorus_image/image/68703056/1_gEo3FCKfchd_3UWWUalsjg.0.jpeg' width='700px' /><br/>
+Alphabet is shutting down Loon, its division that provides internet from floating balloons, according to a post on the blog of Alphabet's X moonshot division.
+<a href='https://www.theverge.com/2021/1/21/22243484/alphabet-google-shutting-down-loon-internet-balloon-company-x'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mbSD98BDDPh0oWP8CG81NhJl5q8=/0x0:2040x1360/1200x1200/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/13278377/jbareham_181010_2989_0019_2.jpg' width='700px' /><br/>
+If you are looking for a smartphone with a good camera but don't want to spend a ton of money, B&H Photo is selling a 64GB unlocked Google Pixel 3 XL for $300. The phone was released in late 2018, but it is still a solid contender for people who prefer Google smartphones and want a camera that offers solid image quality.
+<a href='https://www.theverge.com/2021/1/21/22242746/google-3-xl-64-gb-unlocked-b-h-photo-deal-sale'> Source <a/>

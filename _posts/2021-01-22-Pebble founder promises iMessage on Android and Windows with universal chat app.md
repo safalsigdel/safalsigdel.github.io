@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q0RruQvO2d0CVqcs-s3p5ZfCgwU=/0x0:1715x1143/1200x800/filters:focal(721x435:995x709)/cdn.vox-cdn.com/uploads/chorus_image/image/68698999/msedge_cx5MYIw6nR.0.png' width='700px' /><br/>
-Beeper is a new universal chat app that's an attempt to unify 15 different chat platforms into a single interface. The app is the work of a team that includes Eric Migicovsky, the CEO and founder of former smartwatch manufacturer Pebble, who announced its launch on Twitter. Beeper's site notes that the project was previously known as NovaChat, and requires a $10 per month subscription.
-<a href='https://www.theverge.com/2021/1/21/22242143/beeper-universal-chat-app-imessage-whatsapp-signal-telegram-pebble-founder'> Source <a/>

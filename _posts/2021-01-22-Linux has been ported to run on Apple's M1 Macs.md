@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_aKCdYWHXFAJGChhknxMB5rU4us=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68698906/vpavic_4291_20201113_0326.0.0.jpg' width='700px' /><br/>
-A new Linux port allows Apple's M1 Macs to run Ubuntu for the first time. Corellium, a security firm that offers a virtualized version of iOS for security testing, has successfully ported Ubuntu over to M1 Macs and released a tutorial for others to follow. The modified version of Ubuntu boots into the regular user interface and includes USB support.
-<a href='https://www.theverge.com/2021/1/21/22242107/linux-apple-m1-mac-port-corellium-ubuntu-details'> Source <a/>

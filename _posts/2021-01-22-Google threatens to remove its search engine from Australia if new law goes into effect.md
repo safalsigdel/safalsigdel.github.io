@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QsW2kxu-WvsO43SiuDp5RgBRB7A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68703158/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google is threatening to pull its search engine from an entire country — Australia — if a proposed law goes into effect that would force Google to pay news publishers for their content.
+<a href='https://www.theverge.com/2021/1/21/22243468/google-threatens-to-remove-its-search-engine-from-australia-if-new-law-goes-into-effect'> Source <a/>

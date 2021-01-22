@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9490/vpavic_210119_4377_0157.jpg' width='700px' /><br/>
-Samsung's “Ultra” phones are meant to be the absolute pinnacle of the company's (non-folding) mobile technology. And so the Galaxy S21 Ultra — the third Ultra phone after the S20 and Note 20 Ultras — spares very few expenses. The price is lower than before, starting at $1,199.99, but the phone itself is a perfect example of what happens when Samsung goes all-out.
-<a href='https://www.theverge.com/22241506/samsung-galaxy-s21-ultra-review-camera-price'> Source <a/>

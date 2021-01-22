@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7fay2weUca5h-ofNCo4LE4r1tL0=/0x0:1163x900/1200x800/filters:focal(493x297:679x483)/cdn.vox-cdn.com/uploads/chorus_image/image/68697637/native_3.0.png' width='700px' /><br/>
-If you want a Metroid Lego set, you have the power to bring the idea closer to reality. User L-DI-EGO has submitted a design on Lego's Ideas website that brings the block treatment to Samus and her gunship, but the site requires votes to get this concept in front of Lego itself (via Nintendo Life).
-<a href='https://www.theverge.com/2021/1/20/22241339/metroid-lego-set-voting-process-ideas-nintendo'> Source <a/>

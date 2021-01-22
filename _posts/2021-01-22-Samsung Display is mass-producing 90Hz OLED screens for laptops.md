@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NUO0T9IqXg8g-vPlTseNNNMeHVU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68698696/mchin_200402_3957_0011.0.jpg' width='700px' /><br/>
-Samsung Display has announced plans to mass-produce the world's first 90Hz OLED screens designed for laptops and says that “several global IT companies” are expected to release models with the new panels this year. Manufacturing will begin in March in “very large quantities,” the company says in a statement attributed to CEO Choi Joo-sun.
-<a href='https://www.theverge.com/2021/1/21/22242005/samsung-display-oled-laptop-production-90hz-14-inch'> Source <a/>

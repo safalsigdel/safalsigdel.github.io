@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VGV_4bSKAe41z9FOgGBZEmpvamM=/0x0:5211x3474/1200x800/filters:focal(2190x1321:3022x2153)/cdn.vox-cdn.com/uploads/chorus_image/image/68697055/1169791934.jpg.0.jpg' width='700px' /><br/>
-Hours after taking his oath of office on Wednesday, President Joe Biden signed several executive orders overturning actions taken by the Trump administration regarding immigration, and tech is rallying behind the move.
-<a href='https://www.theverge.com/2021/1/20/22240924/big-tech-joe-biden-immigration-bill-facebook-apple-google-executive-order'> Source <a/>

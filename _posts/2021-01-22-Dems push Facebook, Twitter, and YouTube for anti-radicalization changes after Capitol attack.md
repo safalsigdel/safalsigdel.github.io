@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vb29ouB6nbK_oDi9IiHr5JfZGnU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68702512/1212981411.0.jpg' width='700px' /><br/>
+Only hours after gaining full control of Congress, House Democrats are going after Facebook, Twitter, and YouTube for the platforms' perceived roles in inciting violence at the Capitol earlier this month.
+<a href='https://www.theverge.com/2021/1/21/22243259/democrats-facebook-twitter-google-capitol-attack-misinformation-radicalization'> Source <a/>

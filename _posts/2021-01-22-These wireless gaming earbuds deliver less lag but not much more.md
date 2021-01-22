@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PKFebL55y73usglPbDl-YlHyEgI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68699051/cfaulkner_210114_4373_0001.0.jpg' width='700px' /><br/>
-The $199 GTW 270 Hybrid earbuds from audio company EPOS are, to my knowledge, the first truly wireless earbuds made for gaming — but the buds themselves aren't the biggest selling point. The USB-C Bluetooth receiver that comes with the earbuds gets that distinction.
-<a href='https://www.theverge.com/22241197/epos-gtw-270-hybrid-truly-wireless-earbuds-usb-c-gaming-bluetooth'> Source <a/>

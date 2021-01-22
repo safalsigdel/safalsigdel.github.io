@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fNwz56BqVaZx8PQLyiCpo8nwHXw=/0x0:4500x3000/1200x800/filters:focal(1523x825:2243x1545)/cdn.vox-cdn.com/uploads/chorus_image/image/68703245/bond_25_B25_31842_RC2_rgb.0.jpg' width='700px' /><br/>
+Hollywood has decided tonight's the night to shove back their slate of films — including James Bond's latest outing No Time To Die, the Uncharted movie, and Ghostbusters: Afterlife. No Time to Die now has a release date of October 8th, Ghostbusters will be pushed back five months to November 11th, and Uncharted now won't arrive until 2022, Exhibitor Relations reports.
+<a href='https://www.theverge.com/2021/1/21/22243496/bond-uncharted-ghostbusters-movie-delays'> Source <a/>

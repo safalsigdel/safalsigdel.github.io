@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+You may have seen the many memes of Sen. Bernie Sanders sitting at President Joe Biden's inauguration (we even did a rundown of the best ones), but now there's a website that lets you easily drop Bernie and his chair all over the world with the help of Google Maps' Street View (via Android Central). Simply put in a location or address in the website, and after one button click, you'll have an image of Bernie sitting wherever you specified.
+<a href='https://www.theverge.com/tldr/22242998/bernie-meme-generator-sanders-sitting-chair-inauguration'> Source <a/>
