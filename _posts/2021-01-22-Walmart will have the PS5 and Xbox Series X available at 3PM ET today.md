@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iBdk07qcrSwqRLkiFy43hQ2Ggqs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68701295/vpavic_4261_20201026_0181.0.jpg' width='700px' /><br/>
-The PS5 and Xbox Series X have been on sale for over two months, and they continue to be some of the most desirable gadgets in the world — and extremely difficult to buy. If you are looking to secure either next-gen gaming console, Walmart will have both restocked on its website at 3PM ET / 12PM PT today, the company tells us.
-<a href='https://www.theverge.com/2021/1/21/22242862/ps5-xbox-series-x-s-restock-walmart'> Source <a/>
