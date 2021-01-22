@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jcS5lzMne9RPD7vh8eat7JniHtE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68704386/vpavic_4291_20201113_0366.0.0.jpg' width='700px' /><br/>
+Apple is reportedly working on a new design for its MacBook Air that will include the return of MagSafe charging. Bloomberg News reports that the updated MacBook Air may appear later this year or in 2022, and is designed to be thinner and lighter than the existing model.
+<a href='https://www.theverge.com/2021/1/22/22244011/apple-new-macbook-air-design-magsafe-charger-report'> Source <a/>
