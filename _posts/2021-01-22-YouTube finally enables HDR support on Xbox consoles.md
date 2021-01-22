@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vEa25NMT9DW0RZSOyr_wqlK_90U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68704513/vpavic_4275_20201030_0028.0.jpg' width='700px' /><br/>
+YouTube is finally enabling HDR support on Microsoft's Xbox consoles. The HDR support works across existing Xbox One devices and new consoles like the Xbox Series X and Series S. As long as you have a TV or monitor capable of displaying HDR videos, the YouTube app will now automatically switch to output HDR content.
+<a href='https://www.theverge.com/2021/1/22/22244039/youtube-xbox-hdr-support-enabled-xbox-one-xbox-series-x-app'> Source <a/>
