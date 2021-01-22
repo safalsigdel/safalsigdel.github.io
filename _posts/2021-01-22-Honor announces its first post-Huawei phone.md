@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZOMb3y-EDu7wkW4P7t-z_jlCeLg=/0x0:1098x732/1200x800/filters:focal(462x279:636x453)/cdn.vox-cdn.com/uploads/chorus_image/image/68703669/hv40.0.jpg' width='700px' /><br/>
+Honor has announced the new V40 5G flagship phone, its first since Huawei sold the company off to a Shenzhen-based consortium of Chinese partners. The phone is exclusive to China for now, but Honor's V-series usually makes its way to the rest of the world under “View” branding.
+<a href='https://www.theverge.com/2021/1/21/22243559/honor-v40-announced-huawei-google-sanctions-specs'> Source <a/>
