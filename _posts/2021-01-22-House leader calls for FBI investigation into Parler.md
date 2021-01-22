@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jwdqlx4wPb5ZGBmHlc9zaczZq1c=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/68700407/1228671035.0.jpg' width='700px' /><br/>
-On Thursday, the House Oversight Committee called for an FBI investigation into Parler's involvement in the deadly attack on the Capitol this month.
-<a href='https://www.theverge.com/2021/1/21/22242595/house-oversight-parler-fbi-investigation-carolyn-maloney-chris-wray'> Source <a/>
