@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uZdhfC-pU6mXuOqC7xkZFeaCKSU=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/68705490/1146943596.0.jpg' width='700px' /><br/>
-Away CEO Stuart Haselden will step down in February, according to a company press release. The luggage brand's president and co-founder, Jen Rubio, will take over as interim chief executive until Away finds a permanent replacement. The news was first reported by Axios.
-<a href='https://www.theverge.com/2021/1/22/22244261/away-ceo-stuart-haselden-stepping-down-jen-rubio'> Source <a/>
