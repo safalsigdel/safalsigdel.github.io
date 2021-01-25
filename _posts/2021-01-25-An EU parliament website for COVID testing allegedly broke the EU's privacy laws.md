@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7IlQLhnnP40JRwIM9JM7pkv605k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68706923/acastro_1800724_1777_EU_0002.0.jpg' width='700px' /><br/>
+The European Parliament is being investigated by the European Data Protection Supervisor after allegations that its COVID testing website didn't meet EU privacy standards. Six members of the European Parliament (MEPs) have worked with data watchdog group noyb to bring the complaint, saying that the site illegally sent data to the US and that its cookie banners were deceptive.
+<a href='https://www.theverge.com/2021/1/22/22244648/covid-testing-website-allegedly-broke-eu-privacy-laws'> Source <a/>

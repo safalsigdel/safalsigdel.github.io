@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Oqz__-24Uy5LiiSaMABhHFF2X6c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68707560/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
+Adequate COVID-19 vaccine distribution still seems like the greatest obstacle to slowing the spread of the pandemic, but if you're looking to worry about the other threat that's still blocking progress — an unwillingness to take the vaccine at all — and the creative efforts on Facebook that are going into stopping it, you should go read this FiveThirtyEight report.
+<a href='https://www.theverge.com/2021/1/22/22244551/five-thirty-eight-anti-vaxxer-facebook-fights'> Source <a/>

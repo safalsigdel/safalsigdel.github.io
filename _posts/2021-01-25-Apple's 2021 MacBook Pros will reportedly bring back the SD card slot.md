@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xfA2W53LyUvnTzwxib0zPMqH_Uo=/0x0:1020x677/1200x800/filters:focal(398x495:560x657)/cdn.vox-cdn.com/uploads/chorus_image/image/68705925/oo04-09_1247tt.0.0.png' width='700px' /><br/>
+Apple may finally be bringing an integrated SD card slot to its upcoming 2021 models of its MacBook Pro laptops, according to a new report from Bloomberg's Mark Gurman, in a move that would restore the popular port standard to the company's computers.
+<a href='https://www.theverge.com/2021/1/22/22244398/apple-2021-macbook-pro-sd-card-slot-report-ports-refresh'> Source <a/>

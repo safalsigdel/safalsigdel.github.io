@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Valve co-founder and president Gabe Newell has given one of his famously rare interviews with New Zealand's 1 News. In it, he discusses his admiration for the island country, where he recently applied for residency after having sheltered there during the COVID-19 pandemic. He also used the interview to confirm that Valve does indeed have new games in development (though he declined to offer more details) and addressed rumors that the company plans to set up an office in New Zealand.
-<a href='https://www.theverge.com/tldr/2021/1/22/22244057/valve-gabe-newell-half-life-new-zealand-game-development'> Source <a/>

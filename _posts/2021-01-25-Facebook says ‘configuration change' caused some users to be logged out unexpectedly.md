@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qMffmyXChb3E3zC-c7Sk0Pjpnas=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68710198/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
+Facebook says some users were logged out of their accounts unexpectedly Friday due to a “configuration change,” and the issue has been fixed as of Saturday morning.
+<a href='https://www.theverge.com/2021/1/23/22245842/facebook-logged-out-configuration-change-ios-app-security'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gPrHtSS4wDuBui5tXStnW8OZyBc=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/68701877/1257624396.0.jpg' width='700px' /><br/>
-President Joe Biden issued an executive order Thursday requiring masks to be worn on public transportation. It was the latest abrupt change from his predecessor Donald Trump, who actively blocked the Centers for Disease Control and Prevention from issuing a similar order last year.
-<a href='https://www.theverge.com/2021/1/21/22242249/biden-mask-required-public-transportation-airplane-covid'> Source <a/>

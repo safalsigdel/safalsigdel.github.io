@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-The Raspberry Pi Foundation's tiny computers can be used for anything from homemade cameras to cucumber sorters, and now, the group is branching out into microcontrollers and custom silicon. The Raspberry Pi Pico is the first step. It's a new $4 microcontroller that's smaller than the average Pi, features a custom chip powerful enough to be used in machine learning projects (according to The Raspberry Pi Foundation), and is on sale now.
-<a href='https://www.theverge.com/circuitbreaker/2021/1/21/22242619/raspberry-pi-pico-microcontroller-tiny-computer-diy-projects'> Source <a/>

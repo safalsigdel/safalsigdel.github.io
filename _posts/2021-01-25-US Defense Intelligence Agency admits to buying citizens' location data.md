@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ft0BRCcB4be_U1sV4RLSN7vNJrk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68707860/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
+An intelligence agency has just confirmed that the US government does indeed buy location data collected by its citizens' smartphones. In a memo sent to Sen. Ron Wyden (D-OR) and obtained by The New York Times, the Defense Intelligence Agency (DIA) admitted that it buys location data from brokers — and that the data isn't separated by whether a person lives in the US or outside of it.
+<a href='https://www.theverge.com/2021/1/22/22244848/us-intelligence-memo-admits-buying-smartphone-location-data'> Source <a/>

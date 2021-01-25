@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2Bh7-qDAmxEtf7qx0NNsoCC8Mtg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68701705/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
-Bluesky, Twitter's decentralized social networking effort, has announced its first major update since 2019. The Bluesky team released a review of the decentralized web ecosystem and said it's hoping to find a team lead in the coming months. The review follows Twitter CEO Jack Dorsey discussing Bluesky earlier this month, when he called it a “standard for the public conversation layer of the internet.”
-<a href='https://www.theverge.com/2021/1/21/22242718/twitter-bluesky-decentralized-social-media-team-project-update'> Source <a/>

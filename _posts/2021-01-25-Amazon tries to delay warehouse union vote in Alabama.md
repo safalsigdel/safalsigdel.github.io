@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JVPXWeuoqdiMwMZoQWBf5FE8UME=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68706681/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
+Amazon is trying to delay a union vote in Bessemer, Alabama, appealing a US labor board decision to allow 6,000 warehouse workers to vote by mail on unionization. The company is arguing for the election to be held in person, according to documents filed with the National Labor Relations Board (NLRB) Thursday.
+<a href='https://www.theverge.com/2021/1/22/22244413/amazon-union-vote-decision-appeal-alabama-us-labor-board'> Source <a/>

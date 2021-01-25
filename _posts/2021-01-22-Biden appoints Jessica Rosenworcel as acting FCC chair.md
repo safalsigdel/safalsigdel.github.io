@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GwUMZikjLRSJy7CEQQqk-z0JbH4=/0x0:5501x3668/1200x800/filters:focal(2311x1394:3191x2274)/cdn.vox-cdn.com/uploads/chorus_image/image/68701651/1144011213.0.jpg' width='700px' /><br/>
-President Joe Biden has appointed Democratic commissioner Jessica Rosenworcel to lead the Federal Communications Commission until an official chair is confirmed. Rosenworcel is the second woman to lead the agency as acting chair.
-<a href='https://www.theverge.com/2021/1/21/22240827/biden-acting-fcc-chair-rosenworcel-net-neutrality-acting'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3A2to_aqTR0WnL5_igiPsmyugis=/0x0:3713x2014/1200x800/filters:focal(1560x710:2154x1304)/cdn.vox-cdn.com/uploads/chorus_image/image/68701757/1230527730.0.jpg' width='700px' /><br/>
-A Washington judge has denied social network Parler's demand to be reinstated on Amazon Web Services. Following a hearing last week, Judge Barbara Rothstein declined to grant a preliminary injunction in a lawsuit against Amazon, saying Parler provided “dwindlingly slight” evidence for an antitrust complaint and “failed to allege basic facts” of improper business activity.
-<a href='https://www.theverge.com/2021/1/21/22231457/parler-amazon-web-services-lawsuit-judge-preliminary-injunction-denied'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cE9SqucmIhGwURFFB0ivmRHuyj8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68712842/vpavic_201103_4275_0196.0.jpg' width='700px' /><br/>
+Microsoft's flagship Xbox Series X is one of the most powerful gaming consoles available right now. If you are having difficulty finding it, Target has restocked the Xbox Series X today, so you may want to check it out while supplies last. Given the challenge it has been to secure a unit, inventory will likely not last long.
+<a href='https://www.theverge.com/2021/1/24/22244594/xbox-series-x-console-restock-target'> Source <a/>
