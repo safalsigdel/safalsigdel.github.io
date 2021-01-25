@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HtipuIgE1BAw54Wn-VayZS6Mj94=/0x0:1536x864/1200x800/filters:focal(646x310:890x554)/cdn.vox-cdn.com/uploads/chorus_image/image/68705068/Social_1920x1080.0.jpg' width='700px' /><br/>
-Update January 23rd: Microsoft has completely backtracked on the entire price hike described below. It will not increase the price, and will instead make multiplayer free for free-to-play games. Read more here.
-<a href='https://www.theverge.com/2021/1/22/22244173/microsoft-xbox-live-gold-price-increase-pricing'> Source <a/>
