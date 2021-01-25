@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nbHHCDaws4kRGOXryz5JHfAj_Ic=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68716303/DSCF7480.0.jpg' width='700px' /><br/>
+8BitDo is best known for its affordable retro controllers, but its latest product is quite a bit more ambitious. It's a wireless arcade stick for the Nintendo Switch and PCs, simply called the 8BitDo Arcade Stick, and at $89.99 it's now the most expensive controller in the company's lineup.
+<a href='https://www.theverge.com/22243957/8bitdo-arcade-stick-review-switch-pc-price'> Source <a/>

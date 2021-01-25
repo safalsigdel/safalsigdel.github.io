@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4F-PX6ejdhQXCx_hA-HKVdq7Msw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68705733/vpavic_210118_4377_0068.0.jpg' width='700px' /><br/>
-This week on The Verge's flagship podcast The Vergecast, The Verge's own Nilay Patel, Dieter Bohn, Julia Alexander, and Chaim Gartenberg run through the news, reviews, and rumors in the world of tech this week.
-<a href='https://www.theverge.com/2021/1/22/22244189/vergecast-podcast-437-s21-ultra-review-apple-rumors-paramount-plus'> Source <a/>
