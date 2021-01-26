@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bv4ZxIJATtjkq_5xaAW7-J8_zO8=/0x0:2040x1360/1200x800/filters:focal(819x467:1145x793)/cdn.vox-cdn.com/uploads/chorus_image/image/68718106/dbohn_201019_4243_0003.0.0.jpg' width='700px' /><br/>
-When it comes to whether MagSafe-enabled iPhones are safe around pacemakers or other implanted medical devices, Apple and medical device makers have the same advice: it should be okay, but it's best not to risk it.
-<a href='https://www.theverge.com/22248748/iphone-magsafe-pacemaker-interference-risk'> Source <a/>

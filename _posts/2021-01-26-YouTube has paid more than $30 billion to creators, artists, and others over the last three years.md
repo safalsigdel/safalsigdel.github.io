@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YeInmGiLdXK0MsGmFD5mWlKId1Y=/0x0:4000x2670/1200x800/filters:focal(1594x563:2234x1203)/cdn.vox-cdn.com/uploads/chorus_image/image/68721576/978599724.0.jpg' width='700px' /><br/>
+YouTube has paid out more than $30 billion to creators, artists, and media organizations over the last three years, according to a new letter published by CEO Susan Wojcicki.
+<a href='https://www.theverge.com/2021/1/26/22249329/youtube-susan-wojcicki-letter-creators-monetization-transparency-policy-covid-misinformation'> Source <a/>
