@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
 If you reside in Dallas County, Texas, you have a chance to spend the night in what I think is the ultimate gamer's paradise: a 7-Eleven complete with snacks, a Slurpee machine, and the hard-to-find PS5 available to use during your stay.
-<a href='https://www.theverge.com/tldr/22248396/7-eleven-airbnb-gaming-evolution-store-price'> Source <a/><img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-If you reside in Dallas County, Texas, you have a chance to spend the night in what I think is the ultimate gamer's paradise: a 7-Eleven complete with snacks, a Slurpee machine, and the hard-to-find PS5 available to use during your stay.
 <a href='https://www.theverge.com/tldr/22248396/7-eleven-airbnb-gaming-evolution-store-price'> Source <a/>
