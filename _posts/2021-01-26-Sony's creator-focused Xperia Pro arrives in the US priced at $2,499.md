@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5pVhpSxLTbqKuSkzk7Hpgssj6RM=/0x0:9504x6336/1200x800/filters:focal(3992x2408:5512x3928)/cdn.vox-cdn.com/uploads/chorus_image/image/68721910/Xperia_PRO___DC___HDMI_Monitoring_1.0.jpg' width='700px' /><br/>
+The Xperia Pro, Sony's first smartphone with 5G in the US, is launching today for $2,499.99. Sony is targeting the device at professional users, who it hopes will use its HDMI input to turn the phone into an external camera monitor and its 5G connectivity to quickly upload or live-stream footage. Sony says it currently has no plans to release the Xperia Pro in Europe.
+<a href='https://www.theverge.com/2021/1/26/22248440/sony-xperia-pro-5g-price-release-date-news-features'> Source <a/>
