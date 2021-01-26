@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ncM22b1DC_EhIF4ceYP0B2Yj8z8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68719290/nerf_rival_curve_004.0.jpg' width='700px' /><br/>
+Nerf's got a new trick up its sleeve: Hasbro's latest foam-flinging sidearms can curve their shots, possibly letting you hit targets you can't even see. (Think Angelina Jolie or James McAvoy in Wanted but with bouncy balls instead of bullets.)
+<a href='https://www.theverge.com/2021/1/25/22249059/nerf-rival-curve-shot-wanted-blaster'> Source <a/>

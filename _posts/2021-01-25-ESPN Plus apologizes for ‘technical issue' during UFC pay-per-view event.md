@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uwQ9QPpFr3EOJabS5tmjJCRcNmE=/0x0:4031x2748/1200x800/filters:focal(1694x1052:2338x1696)/cdn.vox-cdn.com/uploads/chorus_image/image/68714106/1230757574.0.jpg' width='700px' /><br/>
-ESPN Plus says it will issue partial refunds to customers who paid for a UFC pay-per-view event Saturday only to run into technical problems.
-<a href='https://www.theverge.com/2021/1/24/22247257/espn-plus-technical-issue-ufc-pay-per-view-mcgregor-poirier'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FUJ8Os2H8OnMgc47h5BNxOFSS10=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68713108/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
-Uber has laid off about 185 Postmates workers, and plans to further integrate Postmates' infrastructure within its Uber Eats segment, The New York Times reported. Uber acquired Postmates in July for $2.65 billion, following a failed attempt to buy rival food delivery service Grubhub.
-<a href='https://www.theverge.com/2021/1/24/22247045/uber-eats-postmates-layoffs-food-delivery'> Source <a/>

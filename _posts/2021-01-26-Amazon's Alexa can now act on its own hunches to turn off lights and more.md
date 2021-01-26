@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OCFmupmHT3F1leI7ihJOjjoXf48=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68719336/dseifert_201025_4263_0001.0.0.jpg' width='700px' /><br/>
+Amazon is enabling a new feature today that allows Alexa to proactively complete tasks around the house, such as turning off lights, based on your habits and frequent requests.
+<a href='https://www.theverge.com/2021/1/25/22249044/amazon-alexa-update-proactive-hunches-guard-plus-subscription'> Source <a/>

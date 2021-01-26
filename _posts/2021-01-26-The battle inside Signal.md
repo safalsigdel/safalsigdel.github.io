@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F-usnX48lzyhbBW1Svechsx9ugg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68720029/acastro_210125_1777_signal_0002.0.jpg' width='700px' /><br/>
+On January 6th, WhatsApp users around the world began seeing a pop-up message notifying them of upcoming changes to the service's privacy policy. The changes were designed to enable businesses to send and store messages to WhatsApp's 2 billion-plus users, but they came with an ultimatum: agree by February 8th, or you can no longer use the app.
+<a href='https://www.theverge.com/22249391/signal-app-abuse-messaging-employees-violence-misinformation'> Source <a/>

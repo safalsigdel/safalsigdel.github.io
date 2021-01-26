@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KbDAnn-dv3djXvalawTQMmjjeEQ=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/68708145/screen_image_about_768457e5.0.jpg' width='700px' /><br/>
-Cyberpunk 2077's first big update is available now, and it's packed with bug fixes for the notoriously buggy game. In a tweet, developer CD Projekt Red also said that the update “lays the groundwork” for future patches.
-<a href='https://www.theverge.com/2021/1/22/22239765/cyberpunk-2077-update-patch-bug-fixes'> Source <a/>

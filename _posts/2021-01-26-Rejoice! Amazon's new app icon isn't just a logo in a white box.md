@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LgWi6Mjv0RGSANBrNaID4g-QQf4=/0x0:1200x630/1200x800/filters:focal(504x219:696x411)/cdn.vox-cdn.com/uploads/chorus_image/image/68720167/download.0.png' width='700px' /><br/>
+It looks like Amazon is rolling a new app icon on iOS, and unlike countless other recent app redesigns, it isn't just a logo dropped inside a white background! Rejoice! The new icon cleverly takes cues from perhaps Amazon's most recognizable “product” — its shipping boxes and their bright blue tape.
+<a href='https://www.theverge.com/2021/1/25/22249675/amazon-new-ios-app-logo-color'> Source <a/>

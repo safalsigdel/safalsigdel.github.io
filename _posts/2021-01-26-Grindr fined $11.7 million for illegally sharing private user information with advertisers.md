@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YaQEeKcZ9A-qDXqz_fk7vh9GG-8=/0x0:1020x678/1200x800/filters:focal(429x258:591x420)/cdn.vox-cdn.com/uploads/chorus_image/image/68720013/Grindr.0.jpg' width='700px' /><br/>
+Grindr will be fined 100 million Norwegian kroner, or about $11.7 million, by the Norwegian Data Protection Authority for illegally sharing private information about Grindr users to advertisers, according to The New York Times.
+<a href='https://www.theverge.com/2021/1/25/22249578/grindr-fined-norwegian-data-protection-authority'> Source <a/>

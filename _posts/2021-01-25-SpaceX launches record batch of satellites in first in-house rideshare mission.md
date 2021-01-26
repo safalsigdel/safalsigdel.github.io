@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ikNHZ78Sz2tzvdXWd2hh4yH7Yrg=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/68713096/EsbDiSFXcAASE03.0.jpeg' width='700px' /><br/>
-SpaceX launched a batch of 143 spacecraft to space from Florida on Sunday morning under the company's new cost-cutting SmallSat Rideshare Program, breaking the record for the most satellites lofted into space on a single launch.
-<a href='https://www.theverge.com/2021/1/24/22245907/spacex-launches-record-batch-of-satellites-in-first-in-house-rideshare-mission'> Source <a/>

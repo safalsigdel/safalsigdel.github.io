@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GHCjW-3EgzVr4Er9HX9X29ldkXY=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68718500/99d2ff7d7c46462d3b9241159a8475e528e2b06b2dd5ee0720aa0d7e5afd17a5.0.jpeg' width='700px' /><br/>
+Sony is reportedly set to bring back its “Compact” line of phones in 2021 with a new Xperia Compact model. It will offer a 5.5-inch display and dimensions more in line with Apple's (relatively) diminutive iPhone 12 mini rather than the increasingly large phones that Sony has offered for the last few years.
+<a href='https://www.theverge.com/2021/1/25/22248890/sony-xperia-compact-2021-android-phone-leak-rumor-size'> Source <a/>

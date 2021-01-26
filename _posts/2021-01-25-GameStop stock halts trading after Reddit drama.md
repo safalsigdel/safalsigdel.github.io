@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MhNrM8fzyc6SavTDyp9O7jg5gNQ=/0x0:3600x2396/1200x800/filters:focal(1231x583:1807x1159)/cdn.vox-cdn.com/uploads/chorus_image/image/68707895/1227730798.0.jpg' width='700px' /><br/>
-Trading in stock of video game retailer GameStop (GME) was halted briefly Friday, as it soared more than 70 percent, due partly to the enthusiastic support of a group of Reddit day traders.
-<a href='https://www.theverge.com/2021/1/22/22244900/game-stop-stock-halted-trading-volatility'> Source <a/>

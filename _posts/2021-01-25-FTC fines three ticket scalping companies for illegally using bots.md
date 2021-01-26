@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LL7FYMBqt_HcH1tRK_RDAMklJHc=/0x0:3000x1999/1200x800/filters:focal(568x336:1048x816)/cdn.vox-cdn.com/uploads/chorus_image/image/68706537/1206593986.0.jpg' width='700px' /><br/>
-The Federal Trade Commission issued multimillion-dollar fines against three bot-powered ticket scalping operations. The FTC says these organizations bought over 150,000 event tickets over the past four years, nabbing them with automated tools that evaded online purchasing limits. After reselling these tickets for an estimated $26.1 million, they've been accused of breaking a 2016 anti-bot law — the first time this law has been applied.
-<a href='https://www.theverge.com/2021/1/22/22244563/ftc-ticket-scalping-bots-act-first-fine'> Source <a/>

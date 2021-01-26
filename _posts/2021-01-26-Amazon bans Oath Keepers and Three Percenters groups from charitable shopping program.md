@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MntVF83DCm5Hb-feTpzYCsHlJtI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68718140/acastro_190920_1777_amazon_0003.0.0.jpg' width='700px' /><br/>
+After pressure from activist group Sleeping Giants, Amazon has banned groups tied to the Oath Keepers and the Three Percenters militia movements from its AmazonSmile charity program, the company tells The Verge. Members of the Oath Keepers and the Three Percenters have been arrested for their suspected involvement in the January 6th attack of the US Capitol.
+<a href='https://www.theverge.com/2021/1/25/22248640/amazon-amazonsmile-oath-keepers-three-percenters-ban'> Source <a/>

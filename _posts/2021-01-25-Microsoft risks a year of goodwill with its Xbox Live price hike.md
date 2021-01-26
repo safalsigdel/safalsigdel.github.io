@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Gu1MEaJzsSKj7SSuE8x_vFF08kc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68706390/acastro_190530_1777_xbox_0001.0.0.jpg' width='700px' /><br/>
-Update January 23rd: Microsoft has completely backtracked on the entire price hike described below. It will not increase the price, and will instead make multiplayer free for free-to-play games. Read more here.
-<a href='https://www.theverge.com/2021/1/22/22244468/microsoft-xbox-live-price-increase'> Source <a/>

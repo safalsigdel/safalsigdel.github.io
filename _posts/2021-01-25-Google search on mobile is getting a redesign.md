@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iC-ROvOkQNX5dYu68t9Ly5l87wc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68706650/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google is redesigning how search results look on mobile, the company announced in a blog on Friday. “We wanted to take a step back to simplify a bit so people could find what they're looking for faster and more easily,” Aileen Cheng, who led the redesign, said in the blog.
-<a href='https://www.theverge.com/2021/1/22/22244642/google-search-mobile-redesign'> Source <a/>

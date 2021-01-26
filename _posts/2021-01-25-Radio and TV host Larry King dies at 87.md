@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eOT4-Lvcw1AFaFXFfJsN9Da6Lbc=/0x0:3000x2080/1200x800/filters:focal(1778x849:2258x1329)/cdn.vox-cdn.com/uploads/chorus_image/image/68710038/158270180.0.jpg' width='700px' /><br/>
-Longtime TV and radio host Larry King died Saturday at Cedars-Sinai Medical Center in Los Angeles. He was 87. Ora Media, which King co-founded in 2012, confirmed the news in a tweet to the @KingsThings Twitter account. A cause of death was not immediately available Saturday, but he had reportedly been hospitalized recently with COVID-19.
-<a href='https://www.theverge.com/2021/1/23/22245797/radio-tv-host-larry-king-dies-87-cnn'> Source <a/>

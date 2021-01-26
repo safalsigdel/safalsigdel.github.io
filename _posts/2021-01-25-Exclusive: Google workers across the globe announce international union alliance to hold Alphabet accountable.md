@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cN7U2L4P9NeQ3gZ0fcNdydhTOWQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68715850/acastro_210121_1777_google_0001.0.jpg' width='700px' /><br/>
-Google workers across the world are coming together to form a global union alliance. The newly formed coalition, called Alpha Global, is comprised of 13 different unions representing workers in 10 countries, including the United States, United Kingdom, and Switzerland.
-<a href='https://www.theverge.com/2021/1/25/22243138/google-union-alphabet-workers-europe-announce-global-alliance'> Source <a/>

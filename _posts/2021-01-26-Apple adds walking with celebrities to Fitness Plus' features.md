@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gi-NALTTiIUJZxm5iboiWRV3rLQ=/0x0:653x653/1200x800/filters:focal(275x275:379x379)/cdn.vox-cdn.com/uploads/chorus_image/image/68718209/Apple_TimeToWalk_DollyParton.0.jpg' width='700px' /><br/>
+Apple is adding celebrity-guided walking workouts to Fitness Plus today, with new walks to  be added every Monday through the end of April. The new feature, called “Time to Walk,” pairs music and inspirational monologues from famous musicians, athletes, and actors with the exercise tracking that Apple Watch and Fitness Plus are known for.
+<a href='https://www.theverge.com/2021/1/25/22248678/apple-time-to-walk-celebrity-guided-audio-dolly-parton-shawn-mendes'> Source <a/>

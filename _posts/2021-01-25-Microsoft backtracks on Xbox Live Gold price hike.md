@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ReOtYt4r2mKMmrnWGfH6oQvTLOg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68709300/acastro_190530_1777_xbox_0002.0.0.jpg' width='700px' /><br/>
-Microsoft has reversed its controversial Xbox Live price increase. The company announced a price hike on Friday that would have doubled the cost of a yearly subscription to the service, which is required to play games online on Xbox consoles, to $120 for many users. Now, though, Microsoft says the price will stay the same.
-<a href='https://www.theverge.com/2021/1/23/22245630/microsoft-xbox-live-gold-price-increase-reversed-f2p'> Source <a/>
