@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nHUjCuWLGdXLCXzv-fejx3LcMZU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68721069/acastro_170629_1777_0008.0.jpg' width='700px' /><br/>
+Government-backed hackers based in North Korea are targeting individual security researchers through a number of means including a “novel social engineering method,” Google's Threat Analysis Group is reporting. The campaign has reportedly been ongoing for several months, and worryingly appears to exploit unpatched Windows 10 and Chrome vulnerabilities.
+<a href='https://www.theverge.com/2021/1/26/22250060/google-threat-analysis-group-north-korean-hackers-cybersecurity-researchers-social-engineering'> Source <a/>
