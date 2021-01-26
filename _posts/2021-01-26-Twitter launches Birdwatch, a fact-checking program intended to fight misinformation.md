@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ldtyoJUc5P_7ACFKRlq8RF6--88=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68718183/acastro_200715_1777_twitter_0004.0.0.jpg' width='700px' /><br/>
-Twitter has launched its Birdwatch program, meant to address misinformation on the platform by allowing users to fact-check tweets, the company announced Monday. Users in the pilot program, which will only include about 1,000 users in the US to start, will eventually be able to add notes to tweets to provide context.
-<a href='https://www.theverge.com/2021/1/25/22248903/twitter-birdwatch-fact-checking-misinformation'> Source <a/>
