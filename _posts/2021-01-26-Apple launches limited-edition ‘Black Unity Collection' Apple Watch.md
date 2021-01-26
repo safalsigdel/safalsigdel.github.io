@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xMFpstS9zCWDCdk5u-0YAZLxoTU=/0x0:1866x1244/1200x800/filters:focal(784x473:1082x771)/cdn.vox-cdn.com/uploads/chorus_image/image/68721802/apple_watch_Black_Unity_Collection.0.jpg' width='700px' /><br/>
+Apple is launching a limited-edition Apple Watch for Black History Month, with a unique watch band, new watchface, and some of the proceeds going toward civil rights organizations.
+<a href='https://www.theverge.com/2021/1/26/22250242/apple-watch-black-unity-collection-limited-edition'> Source <a/>
