@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HueHSBiZXSmge2w04aNJjPhCOkQ=/0x0:5120x2879/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/68724358/AMD_Ryzen_5000_Series_Lidded_5.0.png' width='700px' /><br/>
-AMD is firing on all cylinders these days: it's the guts of every modern PlayStation and Xbox, it has the desktop CPUs to beat, it's nearly caught up to Nvidia in GPU performance (if not availability), and it's about to challenge Intel in laptops as well — with its Ryzen 5000 mobile CPUs and RDNA 2 GPUs due later this year.
-<a href='https://www.theverge.com/2021/1/26/22251013/amd-q4-earnings-2021'> Source <a/>

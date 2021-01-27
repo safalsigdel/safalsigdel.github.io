@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k46U1EX80paFo38YkppfMeyGlKM=/0x0:2870x1400/1200x800/filters:focal(1206x471:1664x929)/cdn.vox-cdn.com/uploads/chorus_image/image/68724378/Screen_Shot_2020_01_24_at_4.35.56_PM.0.png' width='700px' /><br/>
-Byte, a TikTok competitor, has been purchased by Clash, another TikTok competitor. Clash plans to merge its monetization features into Byte and ultimately rebrand the app under the Clash name. The company hopes to make a short-form video app with rich monetization tools that allow creators to easily get paid.
-<a href='https://www.theverge.com/2021/1/26/22250926/clash-buys-byte-vine-successor-dom-hofmann'> Source <a/>
