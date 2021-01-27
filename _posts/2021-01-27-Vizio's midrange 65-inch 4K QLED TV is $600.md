@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e5Dmy2c7Rl2gVpircc99VCRkIUY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68721770/viziom65.5.jpg' width='700px' /><br/>
-Super Bowl Sunday is less than two weeks away! Sure, the game itself won't be streaming in 4K resolution, but that doesn't mean you can't spoil yourself with a new UHD television for your bedroom or living room.
-<a href='https://www.theverge.com/good-deals/2021/1/26/22250173/tv-super-bowl-deal-sale-vizio-qled-headphones'> Source <a/>
