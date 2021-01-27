@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4PTEtkbT1A7kyukHoplD-9fh8Hg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68726937/jbareham_180301_2346_nintendo_switch_0148.0.jpg' width='700px' /><br/>
+The European Consumer Organisation (BEUC) is calling on the European Commission to investigate Nintendo Joy-Con drift complaints. The BEUC group represents more than 40 consumer organizations across the European Union, and the umbrella organization says it has received nearly 25,000 complaints from consumers across Europe about faulty Joy-Con controllers.
+<a href='https://www.theverge.com/2021/1/27/22252043/eu-nintendo-switch-joy-con-drift-investigation'> Source <a/>

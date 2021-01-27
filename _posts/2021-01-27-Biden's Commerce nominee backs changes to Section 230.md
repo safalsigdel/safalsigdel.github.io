@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X_HK0QWg65bQoSFxhd0ELNrnAPY=/0x0:5167x3445/1200x800/filters:focal(2171x1310:2997x2136)/cdn.vox-cdn.com/uploads/chorus_image/image/68723222/1210801986.0.jpg' width='700px' /><br/>
-In a hearing on her nomination for Commerce Department secretary on Tuesday, Rhode Island Governor Gina Raimondo told lawmakers that she will pursue changes to Section 230 if confirmed.
-<a href='https://www.theverge.com/2021/1/26/22250746/biden-gina-raimondo-commerce-secretary-section-230'> Source <a/>
