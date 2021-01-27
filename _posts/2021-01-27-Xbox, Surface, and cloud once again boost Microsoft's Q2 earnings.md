@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nzguAgwDVznNXEoac8WMlz9l1wk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68724236/DSCF1189.0.0.jpg' width='700px' /><br/>
-Microsoft posted the second quarter of its 2021 financial results today, reporting revenue of $43.1 billion and a net income of $15.5 billion. Revenue is up 17 percent, and net income has increased by 33 percent. We saw some impressive growth for Surface, Xbox, and cloud-related services in Microsoft's previous quarter, and it's very much the same this time around.
-<a href='https://www.theverge.com/2021/1/26/22250826/microsoft-q2-2021-earnings-revenue-xbox-cloud-services-surface-gaming'> Source <a/>
