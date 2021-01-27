@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VwloBPgZxsmrjFfQI_rbtGx-GlM=/0x0:2756x1580/1200x800/filters:focal(1158x570:1598x1010)/cdn.vox-cdn.com/uploads/chorus_image/image/68724786/Screen_Shot_2021_01_26_at_1.41.57_PM.0.png' width='700px' /><br/>
-Google is ending development on the virtual reality painting app Tilt Brush — one of the most well-known VR applications — and making it open source. Tilt Brush was acquired by Google in 2015 after launching for the HTC Vive and Oculus Rift, and it was soon folded into the company's larger VR plans, like its Google Cardboard and Daydream headsets.
-<a href='https://www.theverge.com/2021/1/26/22250915/tilt-brush-google-open-source-ending-development-vr-painting'> Source <a/>
