@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C-2NgxRroO6VoIhvP4WGRiVc0ns=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68722837/acastro_200109_1777_verizon_0001.0.0.jpg' width='700px' /><br/>
-Verizon says that it has resolved issues with Fios, its fiber-optic network, that affected many locations in the Northeastern US for hours on Tuesday. The company says things should be returning to normal, but a fiber cut in Brooklyn may mean that some might still be without service.
-<a href='https://www.theverge.com/2021/1/26/22250571/verizon-fios-outage-problem-issue-east-coast-google-zoom'> Source <a/>
