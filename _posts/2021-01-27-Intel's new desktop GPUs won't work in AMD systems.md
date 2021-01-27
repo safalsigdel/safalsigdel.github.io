@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Je-B_nRIwlCcdKvHKYiB37vgJxM=/0x0:2048x1290/1200x800/filters:focal(861x482:1187x808)/cdn.vox-cdn.com/uploads/chorus_image/image/68728506/intellogo.0.jpg' width='700px' /><br/>
+Intel launched its first Iris Xe desktop graphics cards yesterday, but you won't see them appearing in AMD-powered systems. While Nvidia and AMD's desktop GPUs typically work across a variety of Intel and AMD processors, Intel's new desktop GPUs are a little more limited for now.
+<a href='https://www.theverge.com/2021/1/27/22252534/intel-desktop-gpu-amd-support-systems-iris-xe'> Source <a/>
