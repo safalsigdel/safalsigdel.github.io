@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xgVQVcua7gX3bHNgrzVzRVXtnc8=/0x0:1620x1080/1200x800/filters:focal(493x391:751x649)/cdn.vox-cdn.com/uploads/chorus_image/image/68728746/controlscreenPC.0.jpg' width='700px' /><br/>
+Control: Ultimate Edition, which bundles the original game with all of its post-launch content, will be downloadable for free for PS Plus subscribers starting February 2nd. This free version of Control arrives alongside the game's next-gen update, which also hits digital storefronts on February 2nd.
+<a href='https://www.theverge.com/2021/1/27/22252475/control-free-date-ps-plus-playstation-ps5-ultimate-edition'> Source <a/>
