@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uEV0QM93J9_3DTxWv52jRvHl-OY=/0x0:2630x1482/1200x800/filters:focal(1105x531:1525x951)/cdn.vox-cdn.com/uploads/chorus_image/image/68723301/Screen_Shot_2021_01_26_at_9.24.29_AM.0.png' width='700px' /><br/>
-Plex, well known as a service for streaming movies, music, and TV shows from your own computer, is now adding another thing you can stream: video games (via Protocol). Plex announced the new service, called Plex Arcade, on its blog and also launched a website for it. The service will cost $3 a month if you're a Plex Pass subscriber, and $5 a month if you're not.
-<a href='https://www.theverge.com/2021/1/26/22250654/plex-game-subscription-service-arcade-atari'> Source <a/>

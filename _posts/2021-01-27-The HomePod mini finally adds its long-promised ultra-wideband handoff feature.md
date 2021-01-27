@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ukkym2D05Mn_e8iUzxD804Ujau0=/0x0:2400x1739/1200x800/filters:focal(1008x678:1392x1062)/cdn.vox-cdn.com/uploads/chorus_image/image/68723966/unnamed.0.png' width='700px' /><br/>
-Apple has officially released iOS 14.4 and a matching update for its HomePod mini speaker, adding the long-promised ultra-wideband (UWB) handoff feature that will allow newer iPhones to more seamlessly transfer music, calls, and podcasts between the two devices.
-<a href='https://www.theverge.com/2021/1/26/22250856/homepod-mini-ultra-wideband-handoff-feature-update-ios-14-apple-iphone-u1'> Source <a/>

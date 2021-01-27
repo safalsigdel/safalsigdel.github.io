@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WKxC-sLbbCXr0rnTkiEs1X9u1ao=/0x0:4096x2305/1200x800/filters:focal(1721x826:2375x1480)/cdn.vox-cdn.com/uploads/chorus_image/image/68727098/Navistar_Truck_1_with_background5_FINAL.0.jpg' width='700px' /><br/>
+General Motors, which only a few months ago was forced to ditch its plans to acquire an equity stake in troubled hydrogen truck startup Nikola, is ready to move on. Today, the automaker announced it was teaming up with Illinois-based trucking firm Navistar and OneH2, a North Carolina-based hydrogen fuel cell company, to put more hydrogen-powered long-haul trucks on the road.
+<a href='https://www.theverge.com/2021/1/27/22251582/gm-hydrogen-truck-navistar-oneh2-range-date'> Source <a/>

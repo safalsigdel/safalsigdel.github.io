@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PNx-xHf7Io9jLeJ0nFcHK2HVW1A=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68727079/16673938_PT01_X_E4_diagonal_left_XF27mm_silver.0.jpg' width='700px' /><br/>
+Fujifilm has announced the X-E4, which it describes as the most compact interchangeable-lens camera in its X-series lineup. At 121.3mm x 72.9mm x 32.7mm, it's more than a centimeter thinner than its predecessor, the X-E3 from 2017.
+<a href='https://www.theverge.com/2021/1/27/22251931/fujifilm-x-e4-mirrorless-camera-announced-specs-price-size-release-date'> Source <a/>

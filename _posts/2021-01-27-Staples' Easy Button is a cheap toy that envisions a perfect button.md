@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t773WgIPCF97guJYI40GHpr253s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68727077/akrales_210125_4362_0006.0.jpg' width='700px' /><br/>
+As buttons go, there are few as well-known as Staples' “Easy Button” — a bright, Staples-red button that was featured in a series of ad campaigns beginning in 2005. The ads were so popular that Staples ended up actually selling real replica versions of the Easy Button shortly after they debuted — and it's since sold millions of the desk toys.
+<a href='https://www.theverge.com/22250485/staples-easy-button-toy-commercial-design-user-interface-hack'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5TLHjCcn5hlROTwT-pxb3srFl0s=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68727046/gfx.0.jpg' width='700px' /><br/>
+Fujifilm has announced a new medium format camera, the GFX 100S. This new model is essentially a smaller, more accessible version of the GFX 100, which was released in 2019 for $9,999.95.
+<a href='https://www.theverge.com/2021/1/27/22251933/fujifilm-gfx-100s-102-megapixel-medium-format-price-specs-date'> Source <a/>
