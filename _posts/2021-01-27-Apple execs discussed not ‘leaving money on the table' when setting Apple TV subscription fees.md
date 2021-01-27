@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GTNjOMPTr9dLzLiZEFAy9u_ULDg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68722857/acastro_190319_1777_apple_services_0001.0.0.jpg' width='700px' /><br/>
-In Apple and Epic's ongoing court battle over App Store fees, one of the key sticking points has been Apple's insistence on maintaining a 30 percent cut as a cornerstone of the storefront.
-<a href='https://www.theverge.com/2021/1/26/22250363/apple-tv-subscription-fees-emails-percentage-cut-epic-lawsuit'> Source <a/>
