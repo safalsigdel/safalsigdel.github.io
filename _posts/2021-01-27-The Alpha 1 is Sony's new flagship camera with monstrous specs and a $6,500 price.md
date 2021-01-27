@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w97l3itVtqWxOuNCUC_BATaCdC8=/0x0:1830x1108/1200x800/filters:focal(769x408:1061x700)/cdn.vox-cdn.com/uploads/chorus_image/image/68722507/Screen_Shot_2021_01_26_at_10.57.50_AM.0.png' width='700px' /><br/>
-Sony has today announced its most advanced mirrorless camera yet: the $6,500 Alpha 1 features a new 50.1-megapixel full-frame sensor, is capable of continuous photo shooting at 30 images per second, and can record 8K video at 30fps. It'll ship beginning in March.
-<a href='https://www.theverge.com/2021/1/26/22250448/sony-alpha-1-camera-announced-specs-price-release-date'> Source <a/>

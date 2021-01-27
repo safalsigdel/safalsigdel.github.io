@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zr-9GVbtlFQhCOGHkuze0AMrty0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68726595/vpavic_210118_4377_0119.0.jpg' width='700px' /><br/>
+Samsung's latest flagship, the Galaxy S21 Ultra, is its first phone to feature Samsung Display's new power-efficient OLED panels. In a press release, Samsung says the new display consumes 16 percent less power thanks to a “just-developed organic material” that means “electrons flow faster and more easily across the display's organic layer.”
+<a href='https://www.theverge.com/2021/1/27/22251977/samsung-display-ltpo-display-power-efficient-panel-galaxy-s21-ultra-debut'> Source <a/>
