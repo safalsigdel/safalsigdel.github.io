@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PYpcTNbm2KcNk4CQZIlcXUQym3k=/0x0:978x550/1200x800/filters:focal(411x197:567x353)/cdn.vox-cdn.com/uploads/chorus_image/image/68724658/dg1_3d_rwd.png.rendition.intel.web.978.550.0.png' width='700px' /><br/>
+Intel is launching its first Iris Xe desktop graphics cards today. Originally codenamed “DG1,” these new desktop GPUs are primarily aimed at small- and medium-sized businesses and mainstream desktop PCs. Intel is teaming up with Asus and other partners to sell these cards to system integrators who will bundle them with prebuilt systems.
+<a href='https://www.theverge.com/2021/1/26/22251142/intel-iris-xe-graphics-cards-desktop-gpu-pc'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3mXOsp8TdB0Rn_U4Z1hqD8-ASP0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68719278/acastro_180430_1777_5G_0001.0.0.jpg' width='700px' /><br/>
-When most people look out their windows in the morning, they likely aren't expecting to be surprised by a chest freezer-sized box that's feeding a 5G antenna, but that's the exact experience some Houston residents have been having. Verizon has been installing the boxes as part of its 5G network rollout since at least 2019, and from the reporting done by the Houston Chronicle, it seems as if it's been anything but smooth.
-<a href='https://www.theverge.com/2021/1/25/22249058/5g-cellular-equipment-houston'> Source <a/>

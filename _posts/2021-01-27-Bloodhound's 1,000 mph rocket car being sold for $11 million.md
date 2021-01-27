@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+For sale: a rocket-powered car named Bloodhound built specifically to break the land speed record. Theoretical top speed of 1,000 miles per hour. Seats one. Price? A paltry $11 million.
+<a href='https://www.theverge.com/tldr/2021/1/26/22251106/bloodhound-lsr-rocket-car-land-speed-record-sale-buy-attempt'> Source <a/>

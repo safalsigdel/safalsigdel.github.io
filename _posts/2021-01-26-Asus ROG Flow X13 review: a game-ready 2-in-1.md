@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1ZOlSzg58xiAUhK25Tqjox-0zP8=/0x0:2040x1360/1200x675/filters:focal(910x649:1236x975)/cdn.vox-cdn.com/uploads/chorus_image/image/68721610/mchin_190421_4382_0001.0.jpg' width='700px' /><br/>
-If I saw the Asus ROG Flow X13 in the wild, I would never guess it was a gaming laptop. It's a 13.4-inch 2-in-1 convertible that's just 2.9 pounds and .62 inches thick. Flip the screen around, and you can use it as a tablet.
-<a href='https://www.theverge.com/22249408/asus-rog-flow-x13-review-price-specs-features'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9PWEuXm3d2VyS-lkdzzVqqrYpxA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68719847/acastro_180730_1777_facial_recognition_0001.0.jpg' width='700px' /><br/>
-Amnesty International has launched a new campaign against facial recognition titled Ban The Scan — and is launching with a demand for New York City to halt police and government use of the technology.
-<a href='https://www.theverge.com/2021/1/25/22248849/new-york-city-facial-recognition-ban-amnesty-international-nypd'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xkOG7ZarLOp0uLZlvVfVsQgzMGI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68724181/bfarsace190331_4355_0009.0.jpg' width='700px' /><br/>
+Google has released the latest version of Chrome OS, with a few new features for Chromebook owners to try out. If you're a Chromebook owner, your device should have the newest version now or very shortly.
+<a href='https://www.theverge.com/22250866/chrome-os-chromebook-lock-screen-personalize-how-to'> Source <a/>

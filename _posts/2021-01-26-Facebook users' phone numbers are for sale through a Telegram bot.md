@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lwkwL3mJLCyBL-84DpJh9j2OXeI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68720259/acastro_170329_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Someone has gotten their hands on a database full of Facebook users' phone numbers, and is now selling that data using a Telegram bot, according to a report by Motherboard. The security researcher who found this vulnerability, Alon Gal, says that the person who runs the bot claims to have the information of 533 million users, which came from a Facebook vulnerability that was patched in 2019.
-<a href='https://www.theverge.com/2021/1/25/22249571/facebook-phone-number-hack-telegram-bot'> Source <a/>

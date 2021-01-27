@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7AIcE_XGifvNHOox4pTUwQo1Lio=/0x0:2040x1360/1200x800/filters:focal(877x532:1203x858)/cdn.vox-cdn.com/uploads/chorus_image/image/68724109/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Three weeks after Google promised it would add Apple's mandatory app privacy labels “as soon as this week,” none of the company's main apps have the labels, including Gmail, search, Photos, Docs, and YouTube.
+<a href='https://www.theverge.com/2021/1/26/22250648/google-apple-app-store-privacy-label'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RoEAC32PXFnI_-7r3wmlLAtedFM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68719849/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook's News tab will go live in the UK on January 26th in its first launch outside the US. The company says the section will offer a mix of curated and personalized news stories, but for select publishers the bigger news is that it will see Facebook paying them to license their content.
-<a href='https://www.theverge.com/2021/1/25/22248814/facebook-news-uk-launch-articles-tab-curated'> Source <a/>

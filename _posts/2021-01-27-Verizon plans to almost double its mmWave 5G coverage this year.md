@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zu8i8BotVCDJacP_T36bCdyPC-Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68724738/acastro_200109_1777_verizon_0002.0.0.jpg' width='700px' /><br/>
+Verizon has big 5G plans for 2021 after formally launching its next-gen network in October of last year, and close to the top of its list of priorities is expanding coverage of its ultra-fast mmWave coverage. That flavor of 5G is currently restricted to select areas within select cities in the US, and it's highly dependent on your proximity to a Verizon 5G site due to the inherent technology that powers it.
+<a href='https://www.theverge.com/2021/1/26/22251115/verison-5g-ultra-wideband-mmwave-coverage-double-2021'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U9BCr8n1vk9ySXEn6xHo-1m2YTw=/0x0:816x505/1200x800/filters:focal(343x188:473x318)/cdn.vox-cdn.com/uploads/chorus_image/image/68723753/Vizio_P75Qx_H1.0.jpg' width='700px' /><br/>
+Vizio's P-Series Quantum X remains the company's flagship line of QLED televisions. If you are in the market for a new TV and have room to fit a 75-inch device on your entertainment station, Vizio's P75Qx-H1 model is $1,600 at Best Buy, B&H Photo, and Vizio. This is $400 off its usual price and the lowest we have seen this TV go for yet.
+<a href='https://www.theverge.com/good-deals/2021/1/26/22250776/izio-p-series-quantum-4k-hdr-tv-deal-sale-ps5-xbox'> Source <a/>

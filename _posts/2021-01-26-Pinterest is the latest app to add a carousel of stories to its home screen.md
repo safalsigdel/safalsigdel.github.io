@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0y-UDlpewBgMynMag66VlD_eOok=/0x0:4293x2856/1200x800/filters:focal(1804x1085:2490x1771)/cdn.vox-cdn.com/uploads/chorus_image/image/68721625/Creators_Homefeed_Bubbles_US__1_.0.png' width='700px' /><br/>
-Pinterest now displays a row of stories at the top of its home screen when you open up the app. It's an interface that should look familiar to anyone who has used a social media app in the past few years: it's the same tack taken by Instagram, Twitter, Facebook Messenger, and plenty more. The change will start appearing today on iOS and Android.
-<a href='https://www.theverge.com/2021/1/26/22249152/pinterest-story-pins-carousel-home-screen-update'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jpQ4NB0WILFt9SRPrvgpDOguMv0=/0x0:1256x1121/1200x0/filters:focal(0x0:1256x1121):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22260265/Character_and_BeatBits.jpg' width='700px' /><br/>
-Lego is launching a new, augmented reality social video service called Vidiyo that will let users create their own music videos and dance clips and share them with friends, all while applying their own effects and styles to the videos.
-<a href='https://www.theverge.com/2021/1/26/22241329/lego-vidiyo-augmented-reality-tiktok-music-video-dancing-announcement'> Source <a/>

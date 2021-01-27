@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zEpJUC1HQLhAdyTDTJUb1o8deRg=/0x0:5417x3611/1200x800/filters:focal(2276x1373:3142x2239)/cdn.vox-cdn.com/uploads/chorus_image/image/68725516/dseifert_200811_4139_0019.0.0.jpg' width='700px' /><br/>
+Samsung is expanding its Health Monitor app to 31 new countries, including 28 European countries, and people in those countries will be able to use the app with a Galaxy Watch 3 or Galaxy Active 2 smartwatch to take electrocardiogram (EKG) and blood pressure readings.
+<a href='https://www.theverge.com/2021/1/26/22251411/samsung-galaxy-watch-3-active-2-ekg-blood-pressure-health-monitor'> Source <a/>

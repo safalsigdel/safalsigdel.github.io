@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-wu3ZsxcYbAhLbaUXekFN0XZho0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68721483/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter is acquiring Revue, an email service that lets writers publish newsletters. The move allows Twitter to capitalize on its user base of writers, journalists, and publications that regularly use the service to reach readers and grow their audiences.
-<a href='https://www.theverge.com/2021/1/26/22250156/twitter-revue-newsletter-acquisition-email-service'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-QK8J7sZPnFu_JHcGBqdCGDqimA=/0x0:6440x4197/1200x800/filters:focal(2705x1584:3735x2614)/cdn.vox-cdn.com/uploads/chorus_image/image/68719406/All_New_Ford_E_Transit_06.0.jpg' width='700px' /><br/>
-President Joe Biden will start the process of phasing out the federal government's use of gas-powered vehicles and replacing them with ones that run on electricity. The announcement is the fulfillment of a promise Biden made on the campaign trail to swap government fleet vehicles with American-made EVs.
-<a href='https://www.theverge.com/2021/1/25/22249237/biden-electric-vehicle-government-fleet-ev'> Source <a/>
