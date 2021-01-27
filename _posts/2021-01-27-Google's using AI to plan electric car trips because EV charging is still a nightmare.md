@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rblnXyE_eDYjVmxO4SES9PbbiSY=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68728285/ahawkins_201221_4352_6489.0.jpg' width='700px' /><br/>
+Google announced today a new feature for electric vehicle owners that uses artificial intelligence to sort through thousands of public charging stations while finding the best route. The level of technology needed to make this type of route planning functional is a pretty clear indication of what an unholy mess EV charging in America is today.
+<a href='https://www.theverge.com/2021/1/27/22252261/google-maps-electric-vehicle-charging-station-ai'> Source <a/>
