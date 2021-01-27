@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pUH0qij3UBcMfLYg-DJaFnNslmM=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/68724549/cfaulkner_210121_4379_0006.0.jpg' width='700px' /><br/>
-Gaming laptops that have Nvidia's powerful RTX 30-series graphics chips inside are now shipping. I have a first look at MSI's 2021 GS66 Stealth with the RTX 3080, and my colleague Monica Chin published two reviews for launch day: the Asus ROG Flow X13 (with its detachable RTX 3080 eGPU) and the MSI GP66 Leopard with the RTX 3070.
-<a href='https://www.theverge.com/22243065/nvidia-gaming-laptop-graphic-chips-capability-manufacturer-transparency'> Source <a/>

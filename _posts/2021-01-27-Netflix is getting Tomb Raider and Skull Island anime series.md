@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HL4pxu_9MWX4bp_5b0-hqTQkNuo=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68728044/ss_7496de2518ddb1b58db0004d1386b4e48c442367.0.jpg' width='700px' /><br/>
+Netflix is working on yet another video game adaptation with a new Tomb Raider anime in the works. We don't know much about the series just yet, but it will take place after the events of the recent trilogy reboot. (That series wrapped up with 2018's Shadow of the Tomb Raider.)
+<a href='https://www.theverge.com/2021/1/27/22252386/netflix-tomb-raider-kong-skull-island-anime'> Source <a/>
