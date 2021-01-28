@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hxCEif8HKXGdFwhqzwL3GnvaNF8=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68580565/acastro_180430_1777_5G_0001.0.0.jpg' width='700px' /><br/>
-You're the proud owner of a new 5G phone — congratulations! We've got some bad news, though: if you live in the US, 5G probably isn't going to be the mind-bogglingly fast experience that you've been promised. For most regions, it's just a little faster than the 4G speeds we're used to using. But here's the good news: 5G is going to get better, so if you have a 5G phone you may want to make sure your plan delivers it.
-<a href='https://www.theverge.com/22194419/5g-phone-plans-us-carriers-guide'> Source <a/>
