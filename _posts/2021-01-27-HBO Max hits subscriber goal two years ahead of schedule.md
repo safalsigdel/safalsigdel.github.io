@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nIlWeiVwyIHo7taNF-mC0b9ARCA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68727319/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
-HBO Max has nearly 40 million US subscribers, AT&T disclosed in its first quarter earnings report on Wednesday. Combined with traditional HBO subscribers, the platform has surpassed a 41 million subscriber milestone the company says it didn't expect to hit for two more years. Globally, AT&T says HBO now has more than 60 million subscribers.
-<a href='https://www.theverge.com/2021/1/27/22252069/hbo-max-subscribers-wonder-woman-1984-att-earnings'> Source <a/>

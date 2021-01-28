@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dlbCjGiooBCLSLn6SN7ebmRJU4M=/0x0:1392x1044/1200x0/filters:focal(0x0:1392x1044):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22262876/ring_video_doorbell_wired_intro_tablet_696x522_2x.jpg' width='700px' /><br/>
-Amazon's Ring has debuted its latest video doorbell, the (blandly named) Ring Video Doorbell Wired which, at $59.99, is the cheapest and smallest doorbell that the company has ever offered.
-<a href='https://www.theverge.com/2021/1/27/22252181/ring-video-doorbell-new-wired-size-features-price'> Source <a/>

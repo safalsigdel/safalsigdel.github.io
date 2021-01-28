@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/trKloM2SEqKhy8YvqX4RhCILH6M=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/68727899/walmart.0.jpg' width='700px' /><br/>
-Walmart is planning to increase the number of local fulfillment centers across the United States, it announced on Wednesday. Walmart's approach of more localized fulfillment centers is a direct parallel to Amazon's strategy, as both companies continue to face off amid an increasing demand for online orders. The new fulfillment centers are warehouses that will either be built within or adjacent to its existing retail locations.
-<a href='https://www.theverge.com/2021/1/27/22252143/walmart-fulfillment-centers-robot-employees-online-orders'> Source <a/>

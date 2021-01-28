@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B6rnIG4Bz6EGPRcSSla8v_RY8fo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68724878/acastro_190530_1777_xbox_0001.0.0.jpg' width='700px' /><br/>
-Microsoft is continuing to attract people to its Xbox Game Pass service. The “Netflix for video games” service now has 18 million subscribers, up from the 15 million previously reported in September. Xbox Game Pass is a subscription service that offers access to a growing selection of more than 100 Xbox games for $9.99 per month.
-<a href='https://www.theverge.com/2021/1/26/22250795/xbox-game-pass-subscribers-growth-microsoft'> Source <a/>

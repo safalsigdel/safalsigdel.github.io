@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VcVDvvDmc1SM_D9KD0FJ2PFjIPg=/0x0:1100x796/1200x675/filters:focal(435x82:611x258)/cdn.vox-cdn.com/uploads/chorus_image/image/68727485/GameStop_Store_Front_0.1419980119.0.jpg' width='700px' /><br/>
-There are three things to remember as you watch the chaos unfolding with GameStop's stock price. First, Wall Street is just what happens when you mix money with feelings. Second, the internet is real life. And third, the Street always wins, especially if you're trading with Robinhood.
-<a href='https://www.theverge.com/22251427/reddit-gamestop-stock-short-wallstreetbets-robinhood-wall-street'> Source <a/>

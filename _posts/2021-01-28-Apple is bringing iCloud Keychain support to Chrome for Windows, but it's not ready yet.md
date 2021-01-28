@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wUzZfH4GRablq_KILhKR8PjMtTI=/0x0:732x504/1200x800/filters:focal(208x219:324x335)/cdn.vox-cdn.com/uploads/chorus_image/image/68729982/IMAGE_2021_01_27_11_57_45.0.jpg' width='700px' /><br/>
+Users caught between Apple and Microsoft may now have an easier time managing passwords: it looks like iCloud Keychain is coming to Windows 10 as a Chrome extension (via MacRumors). It's already in the iCloud for Windows 10 app, but there's just one small problem: the Chrome Extension isn't available yet.
+<a href='https://www.theverge.com/2021/1/27/22252825/apple-icloud-keychain-windows-google-chrome'> Source <a/>

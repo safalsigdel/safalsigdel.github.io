@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QEAJOlC-aSRI1j85cet08qn9bw8=/0x0:1201x801/1200x800/filters:focal(505x305:697x497)/cdn.vox-cdn.com/uploads/chorus_image/image/68731082/tesla_model_s_witcher_3_3.0.jpg' width='700px' /><br/>
+If you can't find a PS5 or Xbox Series X, how about an $80,000 electric sports car with comparable performance? Tesla just announced its refreshed Model S today, and a new “Plaid” powertrain isn't its only performance enhancement — the company claims the car can now compete with next-gen gaming consoles, thanks to a 10-teraflop gaming computer that will apparently come with every new model.
+<a href='https://www.theverge.com/2021/1/27/22253258/tesla-model-s-ps5-xbox-series-x-next-gen-10-teraflop'> Source <a/>

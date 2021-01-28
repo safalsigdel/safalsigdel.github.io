@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KPoTYwthWehY6h9gtCzf4WY1V00=/0x0:1280x720/1200x800/filters:focal(910x185:1114x389)/cdn.vox-cdn.com/uploads/chorus_image/image/68729281/I_Expect_You_To_Die_2.0.png' width='700px' /><br/>
+Schell Games is making a sequel to its massively successful virtual reality game I Expect You to Die, and it's expected to come out later this year.
+<a href='https://www.theverge.com/2021/1/27/22252566/i-expect-you-to-die-sequel-announced-vr-game-release-date'> Source <a/>

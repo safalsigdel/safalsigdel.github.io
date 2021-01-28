@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MGbEjV6J1fJNjXkGPN6Go42zWdU=/0x0:5760x4320/1200x800/filters:focal(2420x1700:3340x2620)/cdn.vox-cdn.com/uploads/chorus_image/image/68729701/Echo_Show_10__Glacier_White__Kitchen.0.jpg' width='700px' /><br/>
+Amazon's new motorized Echo Show 10 — announced last fall at its annual hardware event — finally has a release date of February 25th, with preorders starting today for $249.99. The smart display was originally announced for a late-2020 release date.
+<a href='https://www.theverge.com/2021/1/27/22252818/amazon-echo-show-10-price-release-date-preorder'> Source <a/>

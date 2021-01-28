@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dIUXJZ_Xso0D29hmsaSesVSyGnQ=/890x0:2440x952/1200x800/filters:focal(1462x382:1996x916)/cdn.vox-cdn.com/uploads/chorus_image/image/68731970/02_pplonmove_ccfe7178_023b_4046_b131_b5b215ba7470.0.jpg' width='700px' /><br/>
+Garmin has released a new smartwatch called the Lily, and its main selling point is that it's designed by women, for women. The Sport Edition, which is made of aluminum and has a silicone band, costs $199, while the stainless steel Classic Edition is $250 and comes with a leather band.
+<a href='https://www.theverge.com/2021/1/27/22253056/garmin-lily-smartwatch-designed-for-women-small'> Source <a/>

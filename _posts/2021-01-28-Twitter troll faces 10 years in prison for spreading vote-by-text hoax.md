@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/htb0MttONTzw6e9h0141epzwEhE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68729717/acastro_201106_1777_vote_0004.0.0.jpg' width='700px' /><br/>
+The United States Department of Justice announced today that it has charged a Twitter user who allegedly spread misinformation during the 2016 presidential election using Twitter.
+<a href='https://www.theverge.com/2021/1/27/22252583/twitter-vote-by-text-misinformation-hoax-arrested'> Source <a/>

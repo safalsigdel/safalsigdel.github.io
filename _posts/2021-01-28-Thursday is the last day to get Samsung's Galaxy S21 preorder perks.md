@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+This isn't new information but more of a PSA that you only have one more day to preorder the Galaxy S21, which will get you a few perks you wouldn't get otherwise. Every major US carrier and most retailers are accepting preorders for the S21, S21 Plus, and the high-end S21 Ultra through Thursday, January 28th. No matter where you buy it, you'll get up to $200 in Samsung credit to pick up a few accessories on its site, along with a complimentary Samsung SmartTag to help keep track of your stuff.
+<a href='https://www.theverge.com/good-deals/2021/1/27/22252793/samsung-galaxy-preorder-bioshock-nintendo-switch-deal-sale'> Source <a/>

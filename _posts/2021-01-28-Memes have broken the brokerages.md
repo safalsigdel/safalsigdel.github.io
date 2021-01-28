@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RYFl3nrRsUZDMeap9PhttRAim_c=/0x0:4015x2677/1200x800/filters:focal(1687x1018:2329x1660)/cdn.vox-cdn.com/uploads/chorus_image/image/68729940/gamestop_stock_sean_hollister.0.jpg' width='700px' /><br/>
+In retrospect, stock memes were inevitable. Unfortunately, it looks like a lot of brokerages weren't ready.
+<a href='https://www.theverge.com/2021/1/27/22252864/wallstreetbets-stocks-memes-broker-outages-limits-amc-gamestop'> Source <a/>

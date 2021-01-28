@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-The latest James Bond movie's pandemic-related delays are reportedly causing problems for its marketing deals, with advertisers concerned that the film may end up featuring outdated product placements, The Sun is reporting. The 25th Bond film, No Time To Die, is currently due to release in cinemas on October 8th, over a year after it was originally meant to release.
-<a href='https://www.theverge.com/tldr/2021/1/27/22252018/james-bond-no-time-to-die-hmd-global-nokia-phones-product-placement'> Source <a/>

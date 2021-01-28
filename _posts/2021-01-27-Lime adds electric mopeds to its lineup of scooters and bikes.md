@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C660fewF1gTLceeBI-7cfN28nuY=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/68726527/LIME_SAN_FRANCISCO_STREET_DREAMS_120.0.jpg' width='700px' /><br/>
-Lime is adding a new member to its family of shared electric vehicles: mopeds. The mopeds are being offered as part of a pilot program to test whether Lime's customers prefer vehicles that are faster, heavier, and arguably riskier to ride than your average kick scooter.
-<a href='https://www.theverge.com/2021/1/27/22248805/lime-electric-moped-scooter-niu-washington-paris'> Source <a/>

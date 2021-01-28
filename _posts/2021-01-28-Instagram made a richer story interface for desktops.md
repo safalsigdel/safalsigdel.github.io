@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JElkRAYiJ3umrOioAsWGNNO507k=/0x0:2720x1813/1200x800/filters:focal(1143x690:1577x1124)/cdn.vox-cdn.com/uploads/chorus_image/image/68729074/instagramstories.0.jpg' width='700px' /><br/>
+Instagram is making its Stories feature more complete on the desktop. In a small interface refresh today, the company is updating its Stories feature so that it opens up to show a carousel of videos, which previews what's cued up next and the content that just played. From this interface, viewers can click on whatever story they want to watch. It's sort of like if the tiny circles at the top of users' feeds went bigger and full-screen.
+<a href='https://www.theverge.com/2021/1/27/22252611/instagram-stories-desktop-interface-update'> Source <a/>

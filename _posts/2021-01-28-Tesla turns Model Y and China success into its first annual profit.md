@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9w7_w6uuaoA2KfW_yJ-k6s-F8Ic=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68730273/sokane_181116_3101_fremont_0009.0.jpg' width='700px' /><br/>
+Tesla's record sales in 2020 helped the Silicon Valley company turn its first annual profit, according to financial figures released Wednesday, though not by much. Aided by a fourth quarter that brought in $270 million in profit on $10.7 billion of revenue, Tesla finished 2020 with a $721 million in profit on $31.5 billion in total revenue.
+<a href='https://www.theverge.com/2021/1/27/22252765/tesla-profit-q4-2020-earnings-elon-musk-record-sales'> Source <a/>

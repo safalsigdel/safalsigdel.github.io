@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-pJN8SXIOo6Fm6JHBlG3GptwOuQ=/0x0:3520x1816/1200x800/filters:focal(1479x627:2041x1189)/cdn.vox-cdn.com/uploads/chorus_image/image/68730355/Screen_Shot_2021_01_27_at_3.26.14_PM.0.png' width='700px' /><br/>
+Tesla has just announced the first major redesign of the Model S since it launched the electric sedan in 2012. This new version, which starts shipping in March, has a refreshed exterior, a simplified interior, and the option for a more powerful powertrain that lets the car travel at least 520 miles and go from 0 to 60 miles per hour in under two seconds.
+<a href='https://www.theverge.com/2021/1/27/22252832/tesla-model-s-redesign-plaid-mile-range-interior-refresh'> Source <a/>

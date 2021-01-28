@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5pz3YRVO5gA8R0GYYFwKKZi-i3I=/0x0:6000x4000/1200x800/filters:focal(4265x552:5225x1512)/cdn.vox-cdn.com/uploads/chorus_image/image/68726526/1230806569.0.jpg' width='700px' /><br/>
-A group of 75 activist groups and nonprofits have urged against sweeping changes to Section 230 of the Communications Decency Act, warning that it could silence marginalized communities while making online moderation harder.
-<a href='https://www.theverge.com/2021/1/27/22251093/section-230-civil-rights-groups-letter-biden-harris-congress-defense'> Source <a/>
