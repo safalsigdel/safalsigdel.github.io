@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-Iz9AL3uLlZYacxrzrSbVdh9Ugg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68732380/vpavic_210118_4378_0170.0.jpg' width='700px' /><br/>
+Samsung Electronics has reported its fourth-quarter earnings, confirming that the company made more money in 2020 than the year before despite the challenges of the COVID-19 pandemic. Operating profit was up to 35.99 trillion won ($32.1 billion) off 236.81 trillion won ($211.5 billion) in revenue, increases of 29.6 percent and 2.78 percent respectively.
+<a href='https://www.theverge.com/2021/1/28/22253844/samsung-earnings-q4-fy-2020-profits-covid-display-mobile'> Source <a/>
