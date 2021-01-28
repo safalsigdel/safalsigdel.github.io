@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SLTK0OQAML2oRKD0Qcnxi_c8PNI=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68729619/VRG_ILLO_4389_001.0.jpg' width='700px' /><br/>
-The satellite feud between Elon Musk's SpaceX and Jeff Bezos' Amazon spilled out into the open on social media this week, after brewing for months in meetings with regulators. It's only the latest spat in a new race among billionaires for a slice of a $1 trillion telecommunications market.
-<a href='https://www.theverge.com/2021/1/27/22251127/elon-musk-bezos-amazon-billionaires-satellites-space'> Source <a/>
