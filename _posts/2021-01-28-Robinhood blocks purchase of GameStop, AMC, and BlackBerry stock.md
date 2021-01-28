@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gV0QWj7qmSmxGuxNZqwumvrV2Ow=/0x0:1024x698/1200x800/filters:focal(431x268:593x430)/cdn.vox-cdn.com/uploads/chorus_image/image/68733494/nyse_5.0.jpg' width='700px' /><br/>
+Robinhood has added new limits to its app to restrict users from buying or trading any of the popular Reddit r/WallStreetBets stocks, including GameStop ($GME), AMC ($AMC), BlackBerry ($BB), Bed Bath & Beyond ($BBBY), Nokia ($NOK), and more. Users will still be allowed to close out existing positions but won't be able to buy more of the stocks. The company is citing “recent volatility” in the market as the reasoning behind the change.
+<a href='https://www.theverge.com/2021/1/28/22254102/robinhood-gamestop-bloc-stock-purchase-amc-reddit-wsb'> Source <a/>

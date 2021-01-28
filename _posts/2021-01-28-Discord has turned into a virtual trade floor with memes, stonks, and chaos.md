@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xzqMvEk1u7N81GP60_jBWbqdcW8=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68733481/acastro_200318_1777_discord_0003.0.0.jpg' width='700px' /><br/>
+A real-life trading floor is noisy. You can find traders shouting at each other, especially when the markets are volatile and stock is moving fast. That same environment has been replicated online this week, thanks to Discord.
+<a href='https://www.theverge.com/2021/1/28/22253892/discord-wallstreetbets-server-virtual-trade-floor-reddit'> Source <a/>
