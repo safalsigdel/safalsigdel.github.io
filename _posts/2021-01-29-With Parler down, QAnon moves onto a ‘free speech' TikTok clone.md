@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cpn8PIhYNxqqzlbxa-OWO4zknlg=/0x0:512x250/1200x800/filters:focal(216x85:296x165)/cdn.vox-cdn.com/uploads/chorus_image/image/68734687/unnamed.0.jpg' width='700px' /><br/>
-After this month's deadly attack at the Capitol, QAnon has been widely banished from the internet. Facebook, Twitter, and TikTok have all banned Q-related content, and the right's favored platform, Parler, has been forced offline for weeks. But it hasn't all disappeared. A new platform called Clapper, a “free-speech” TikTok clone, is becoming a home for QAnon followers.
-<a href='https://www.theverge.com/2021/1/28/22254411/clapper-parler-gab-qanon-tiktok-free-speech'> Source <a/>
