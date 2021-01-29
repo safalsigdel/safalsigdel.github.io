@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cERFqN3ZXGLbN7QJfGWyQiwYwxc=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68738963/Roadster_Hero.0.jpg' width='700px' /><br/>
+Tesla CEO Elon Musk says production for the company's upcoming Roadster isn't due to begin until “next year,” roughly two years after the car was initially set to enter production. Tesla announced its $200,000 Roadster back in 2017, when Musk said the car would start being built in 2020.
+<a href='https://www.theverge.com/2021/1/29/22255902/tesla-roadster-production-2022-elon-musk-ceo-tweet'> Source <a/>
