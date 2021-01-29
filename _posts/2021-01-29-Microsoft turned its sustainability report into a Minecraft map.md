@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ij8kyOqTwmmFcGlR8HTwps5LjXE=/0x0:1465x966/1200x800/filters:focal(616x366:850x600)/cdn.vox-cdn.com/uploads/chorus_image/image/68733502/Sustainability_City_Map_A.0.png' width='700px' /><br/>
-Microsoft released its annual sustainability report today, and Minecraft developer Mojang decided to turn it into something interactive. Called simply “Sustainable City,” the new Minecraft map is available as a free download in the Minecraft marketplace, and it's also been added to the game's educational offshoot.
-<a href='https://www.theverge.com/2021/1/28/22254080/microsoft-sustainability-report-minecraft-map'> Source <a/>
