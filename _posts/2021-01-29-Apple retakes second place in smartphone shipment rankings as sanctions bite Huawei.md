@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mY7QcUbyJ4o25HqjzRKKvugyCgA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68734774/akrales_201018_4238_0435.0.0.jpg' width='700px' /><br/>
-Apple overtook Huawei to reclaim its spot as the second-bestselling smartphone manufacturer in the world in 2020, according to new research reports from Counterpoint Research and Canalys. Samsung was still the leading seller in terms of number of smartphones shipped, while Xiaomi, Oppo, and Vivo took the next three spots, according to Counterpoint.
-<a href='https://www.theverge.com/2021/1/28/22254368/smartphone-sales-2020-counterpoint-research-canalys-apple-samsung-huawei-xiaomi-oppo'> Source <a/>
