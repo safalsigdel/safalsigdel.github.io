@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UgxBPQXWJIZpiahe_4hhKnLI69k=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/68735972/promo_presets.0.png' width='700px' /><br/>
+Carrot Weather — the entertainingly antagonistic weather application from developer Brian Mueller — just got its latest version 5.0 update, which brings a whole new (and far more customizable) design, removes the upfront price tag in favor of more subscription tiers, and, of course, adds new dialogue and Easter eggs for the app's malevolent AI character.
+<a href='https://www.theverge.com/2021/1/28/22254026/carrot-weather-version-5-update-ios-app-subscription'> Source <a/>

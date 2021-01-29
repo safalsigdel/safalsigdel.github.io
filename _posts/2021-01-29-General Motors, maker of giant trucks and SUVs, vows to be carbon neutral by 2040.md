@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EX2GGskhxmtchMLkvqOm7Wk2Vlk=/0x0:6547x4339/1200x800/filters:focal(2751x1647:3797x2693)/cdn.vox-cdn.com/uploads/chorus_image/image/68734094/1230446564.0.jpg' width='700px' /><br/>
+General Motors, an automotive company that sells hundreds of thousands of giant gas-guzzling trucks and SUVs every year, says it will be carbon neutral by 2040.
+<a href='https://www.theverge.com/2021/1/28/22254116/general-motors-carbon-neutral-vow-2040-tailpipe-emissions-ev'> Source <a/>

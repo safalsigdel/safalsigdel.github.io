@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Uj5ML-XQVS4xSqTugUsneupc34U=/0x0:4629x3086/1200x800/filters:focal(1945x1173:2685x1913)/cdn.vox-cdn.com/uploads/chorus_image/image/68735143/1228188159.0.jpg' width='700px' /><br/>
+Rep. Alexandria Ocasio-Cortez (D-NY) called on Congress to investigate the Robinhood app after it banned small investors from buying stock in companies like GameStop. Over the last week, Reddit users have rushed to buy the bemoaned video game retailer's stock, inflating its price in what some are calling the “squeeze of a lifetime.”
+<a href='https://www.theverge.com/2021/1/28/22254584/gamestop-robinhood-short-reddit-wallstreetbets-aoc-ted-cruz'> Source <a/>

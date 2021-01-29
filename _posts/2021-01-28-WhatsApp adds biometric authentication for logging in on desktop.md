@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YU9x3L0u8mJnhq44O6mB4ezKZ3A=/0x0:3472x1953/1200x800/filters:focal(1459x700:2013x1254)/cdn.vox-cdn.com/uploads/chorus_image/image/68732410/iOS_and_Android.0.png' width='700px' /><br/>
-Linking your WhatsApp account to your computer's web browser or desktop app is getting a little more secure. Soon, if you've got biometric authentication enabled on your phone, you'll have to unlock the app before you can link your account.
-<a href='https://www.theverge.com/2021/1/28/22253045/whatsapp-biometric-authentication-fingerprint-face-unlock-desktop-browser-app'> Source <a/>

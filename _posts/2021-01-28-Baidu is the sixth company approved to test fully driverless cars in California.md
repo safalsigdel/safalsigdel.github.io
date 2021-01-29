@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wj9kpVH35UYqHsT-L2S6xjlX3UI=/0x0:950x633/1200x800/filters:focal(399x241:551x393)/cdn.vox-cdn.com/uploads/chorus_image/image/68730144/baidu.0.jpeg' width='700px' /><br/>
-Baidu has gotten the green light to test fully autonomous vehicles on public roads in California.
-<a href='https://www.theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv'> Source <a/>

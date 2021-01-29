@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ME-JhT-gApJ9QgXSVFX6H72w5a0=/0x0:2000x1463/1200x800/filters:focal(840x572:1160x892)/cdn.vox-cdn.com/uploads/chorus_image/image/68737763/1223311899.0.jpg' width='700px' /><br/>
+The University of Illinois Urbana-Champaign announced that it will discontinue its use of remote-proctoring software Proctorio after its summer 2021 term. The decision follows almost a year of outcry over the service, both on UIUC's campus and around the US, citing concerns with privacy, discrimination, and accessibility.
+<a href='https://www.theverge.com/2021/1/28/22254631/university-of-illinois-urbana-champaign-proctorio-online-test-proctoring-privacy'> Source <a/>

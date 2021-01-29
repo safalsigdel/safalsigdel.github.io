@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AniiIE7tdR2P0LwFaJhRljN1q1U=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/68733197/comcast.1419979278.0.jpg' width='700px' /><br/>
-NBC Universal's Peacock streaming service hit 33 million signups in the fourth quarter, parent company Comcast reported Thursday, an addition of 11 million signups from the third quarter. While the company's overall revenues beat Wall Street's expectations, Comcast continued to see the impact of the coronavirus pandemic on its filmed entertainment and theme park divisions.
-<a href='https://www.theverge.com/2021/1/28/22253988/peacock-nbcuniversal-comcast-streaming-broadband'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D39-nwkm_mvAUjW_vxIZgI3XGH4=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/68736975/VaultHeist_04.0.0.png' width='700px' /><br/>
+Crayta's timed Stadia exclusivity is coming to an end soon, with developer Unit 2 Games confirming that the title will be making its way to PC “very soon.” Originally announced as a “First on Stadia” timed exclusive, Crayta's jump to other platforms was always more a question of “when” rather than “if,” but the announcement marks the first official indication of the regular PC port.
+<a href='https://www.theverge.com/2021/1/28/22254897/stadia-timed-exclusive-crayta-pc-port-state-share-beta'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/69CakoidcXZ8bSzw8sgOLvmExGo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68730933/acastro_200318_1777_discord_0001.0.0.jpg' width='700px' /><br/>
-Discord has banned the r/WallStreetBets server, the company confirmed to The Verge. Reddit's WallStreetBets subreddit is the driver of an unprecedented rally of GameStop stock, and has received a great deal of attention in the press as the stock continues to soar.
-<a href='https://www.theverge.com/2021/1/27/22253251/discord-bans-the-r-wallstreetbets-server'> Source <a/>

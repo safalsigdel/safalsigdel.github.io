@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IuuIAnmrTvqbzNXalKGGLEYBJis=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68734308/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
+Facebook's Oversight Board has issued its first round of rulings, upholding one removal and overturning four decisions involving hate speech, nudity, and misinformation. Together, the rulings take an expansive view of what users can post under the current policies, based on concerns about vague rules and protecting freedom of expression online.
+<a href='https://www.theverge.com/2021/1/28/22254155/facebook-oversight-board-first-rulings-coronavirus-misinformation-hate-speech'> Source <a/>

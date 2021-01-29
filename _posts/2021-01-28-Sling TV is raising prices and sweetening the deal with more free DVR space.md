@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s3PodQhm8dDbcm-s3rQBEYWNUR0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68730557/theverge1_2040.0.0.jpg' width='700px' /><br/>
-Sling TV, Dish's live TV streaming service, announced that it's raising the prices on its packages and add-ons for new customers starting today. Both the Orange and Blue channel packages from Sling will go up by $5 to $35 per month for new subscribers or $50 per month when bundled together. Because of Sling's existing one-year price guarantee, current subscribers won't have to deal with the new prices until August 2021.
-<a href='https://www.theverge.com/2021/1/27/22252810/sling-tv-price-increase-free-dvr-youtube-hulu'> Source <a/>

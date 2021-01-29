@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6Tz-86YFMV5KSyXtgjguIb0w1Ec=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68730856/cgartenberg_201105_4276_003.0.0.jpg' width='700px' /><br/>
-Apple says there are now more than 1 billion active iPhones, an enormous milestone for the company that speaks to the phones' continued success and longevity. There are now 1.65 billion Apple devices in active use overall, Tim Cook said during Apple's earnings call this afternoon.
-<a href='https://www.theverge.com/2021/1/27/22253162/iphone-users-total-number-billion-apple-tim-cook-q1-2021'> Source <a/>

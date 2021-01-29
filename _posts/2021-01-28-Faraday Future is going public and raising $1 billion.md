@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oJsD2T4H_3KtvUIyp4fLxtf5SEI=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/68733037/faraday_future_ff91_5274.0.jpg' width='700px' /><br/>
-Faraday Future is going to become a publicly traded company on the Nasdaq stock exchange and is raising around $1 billion in the process.
-<a href='https://www.theverge.com/2021/1/28/22247942/faraday-future-spac-merger-public-psac-property-solutions-nasdaq'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tX0G7WBIjLYFqXXUhvC6K51Q43I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68730405/mdoying_180118_2249_facebook_0581_1stills.0.jpg' width='700px' /><br/>
-Facebook finished 2020 much stronger financially than at the beginning of the year, proving its business could weather the coronavirus pandemic and even thrive thanks to skyrocketing screen time these past 12 months.
-<a href='https://www.theverge.com/2021/1/27/22253055/facebook-q4-2020-earnings-report-app-usage-record-user-numbers'> Source <a/>

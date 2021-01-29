@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rpeC8gPpzjoqybYLn5TZ8cBh5YI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68732137/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
-Apple's new privacy feature requiring developers ask  for permission to track iOS users for ad targeting is at last going live in the next iOS 14 beta with a planned full release some time this spring for non-beta users, the company tells The Verge.
-<a href='https://www.theverge.com/2021/1/28/22253366/apple-app-tracking-transparency-opt-in-requirement-beta-launch'> Source <a/>

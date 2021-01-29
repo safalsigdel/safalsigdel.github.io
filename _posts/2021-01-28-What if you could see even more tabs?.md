@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r5No3egCjqvFmF7wT5-3uOrMPIA=/0x0:980x551/1200x800/filters:focal(412x198:568x354)/cdn.vox-cdn.com/uploads/chorus_image/image/68732408/2_line_tab_stack_hero_980x551.0.png' width='700px' /><br/>
-Vivaldi is releasing version 3.6 of the Vivaldi browser with a great and terrible power today: you can now create two-level tab stacks, so that grouped tabs can become pseudo-workspaces for whatever you get up to in your browser. Vivaldi first introduced the feature as an experiment in December 2020, but now you can officially indulge in two levels of too many tabs.
-<a href='https://www.theverge.com/2021/1/28/22253198/vivaldi-web-browser-stacked-tabs-hoarding'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qHuZQ009_kjQu0FdSt8q8gDF0-8=/0x0:4000x2668/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/68735377/1230784777.0.jpg' width='700px' /><br/>
+One year after pledging to remove all of its historic and future planet-heating emissions within a few decades, Microsoft says it has already slashed its carbon footprint by 6 percent. It's an incremental change that's in line with what's needed globally to address the climate crisis, but there is a whole lot of work left for Microsoft to do.
+<a href='https://www.theverge.com/2021/1/28/22254483/microsoft-climate-change-pledge-update-carbon-dioxide-removal'> Source <a/>

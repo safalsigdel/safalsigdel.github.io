@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qT5OZl0p2_b9TfQq9Hf9-ZqAoJw=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/68735326/youtube.0.jpg' width='700px' /><br/>
+YouTube is introducing clipping — the ability to make short clips of live streams or videos — starting today with a small group of creators. Those clips can be anywhere between five and 60 seconds in length and will have a new URL associated with them. Creators and viewers will be able to create clips by clicking on the clip icon, though the feature is currently limited to desktop and Android devices.
+<a href='https://www.theverge.com/2021/1/28/22254528/youtube-clips-alpha-twitch-mixer-facebook-livestreaming'> Source <a/>

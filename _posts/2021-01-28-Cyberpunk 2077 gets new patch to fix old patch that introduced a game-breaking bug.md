@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HKOvgDHLHAitCBi7UOa7HfMOZnk=/0x0:3350x2513/1200x800/filters:focal(1407x989:1943x1525)/cdn.vox-cdn.com/uploads/chorus_image/image/68732937/1230147373.0.jpg' width='700px' /><br/>
-Cyberpunk 2077's big new 1.1 patch introduced a game-breaking bug earlier this week, and now Developer CD Projekt Red is fixing it. A new 1.11 hotfix is available across PC, Stadia, and Xbox / PlayStation consoles today. While it also restores item randomization to a previous state, the primary purpose is to fix the game-breaking part of the “Down on the Street” quest.
-<a href='https://www.theverge.com/2021/1/28/22253990/cyberpunk-2077-new-1-11-update-hotfix-game-breaking-bug'> Source <a/>

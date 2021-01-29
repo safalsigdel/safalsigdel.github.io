@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NfT1AF6_z8-nSSIElho9XOoWp4k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68732556/akrales_201012_4137_0073.0.0.jpg' width='700px' /><br/>
-Thanks to its latest update, the Google Camera app now lets you permanently turn off its Auto Night Sight feature on devices that automatically enable the low-light photography mode, 9to5Google reports. The feature is available with version 8.1.200 of the app, which started rolling out on Monday. Additionally, the update lets you disable the mode from the app's flash settings.
-<a href='https://www.theverge.com/2021/1/28/22253890/google-pixel-4a-5g-5-auto-night-sight-disable'> Source <a/>

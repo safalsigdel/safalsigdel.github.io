@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Nj2VGtlsgDwLUI-RUZUu6s0LL6w=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68732719/12_PACMAN_CE_overview.0.jpg' width='700px' /><br/>
-Pac-Man celebrated its 40th anniversary last year, and to commemorate the occasion, Cook and Becker is releasing a history book later this year — and it looks incredible. While there's a standard hardcover version of the book for $39, which is called Pac-Man: Birth of an Icon, you can also buy a $99 special edition that comes with an ingenious Pac-Man-shaped slipcase. There's even a vinyl pressing of the single “Pac-Man Fever” included.
-<a href='https://www.theverge.com/22253119/pac-man-birth-of-icon-book-history-cook-becker'> Source <a/>
