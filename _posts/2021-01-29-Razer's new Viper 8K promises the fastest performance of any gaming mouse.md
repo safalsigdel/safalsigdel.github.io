@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HKpFefebIT2y0aTwBwrekWiCV8E=/0x0:3358x2239/1200x800/filters:focal(1411x852:1947x1388)/cdn.vox-cdn.com/uploads/chorus_image/image/68734091/viper8k.0.jpg' width='700px' /><br/>
-Razer's Viper 8K is a refresh of the 2019 true ambidextrous Viper. For the most part, it's identical and is now available at the same $79 asking price, but it has some key upgrades for competitive gamers who are hoping that tech might help them get the edge over their opponents.
-<a href='https://www.theverge.com/2021/1/28/22248515/razer-viper-8k-gaming-mouse-release-date-performance-price-features'> Source <a/>

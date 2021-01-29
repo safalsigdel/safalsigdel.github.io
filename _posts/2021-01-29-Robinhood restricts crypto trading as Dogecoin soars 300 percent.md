@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hwnPe_eX2LDt8XEI8BJG7-PheUI=/0x0:560x345/1200x800/filters:focal(236x129:324x217)/cdn.vox-cdn.com/uploads/chorus_image/image/68739311/Dogecoin_logo.0.png' width='700px' /><br/>
+Robinhood has started restricting trading in cryptocurrencies this morning, just as the price of joke cryptocurrency Dogecoin has soared more than 300 percent in 24 hours. CNBC reports that Robinhood users started noticing instant deposits for cryptocurrencies were no longer working on Friday morning, and the company has confirmed it has put restrictions in place.
+<a href='https://www.theverge.com/2021/1/29/22255955/robinhood-cryptocurrency-restrictions-dogecoin-wallstreetbets'> Source <a/>
