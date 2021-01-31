@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xyaVzhd0CrTCvVeh1w1YFOYUOPY=/0x0:5000x3334/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/68738817/1230608869.0.jpg' width='700px' /><br/>
-The latest version of Signal for both iOS (5.3.1) and Android (5.3.7) brings a number of new additions to the increasingly popular encrypted messaging app. These include mainstream features like chat wallpapers, animated stickers, and an “About” section in your profile. The iOS app now handles data more efficiently, too, bringing it closer to feature parity with the Android app.
-<a href='https://www.theverge.com/2021/1/29/22244458/signal-new-features-animated-stickers-about-ios-android'> Source <a/>
