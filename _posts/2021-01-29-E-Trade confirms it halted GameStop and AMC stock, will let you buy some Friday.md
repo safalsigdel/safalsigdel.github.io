@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dy7Y45mtqSYPj-TnwlGVJuU-N2w=/0x0:4920x3136/1200x800/filters:focal(2067x1175:2853x1961)/cdn.vox-cdn.com/uploads/chorus_image/image/68736518/1207565665.0.jpg' width='700px' /><br/>
-Financial services company E-Trade has restricted purchases of GameStop and AMC stock, the company has confirmed to The Verge — and, like Robinhood, it plans to resume trading of both stocks on Friday.
-<a href='https://www.theverge.com/2021/1/28/22254863/etrade-gamestop-amc-stock-reddit-wallstreetbets-robinhood'> Source <a/>

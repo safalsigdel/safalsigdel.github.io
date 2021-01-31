@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l6vaMmvMuXvgqOqwEVX11uPZeA0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68736553/acastro_180413_1777_reddit_0002.0.jpg' width='700px' /><br/>
-The Wall Street Journal has written an excellent profile of the man who started r/WallStreetBets, the subreddit that's been embroiled in controversy this week. His name is Jaime Rogozinski, and if you're wondering how he's been feeling about this whole thing, he likens it to “watching one of those horror films where you can see the bad guy slowly going up the stairs.”
-<a href='https://www.theverge.com/2021/1/28/22254658/go-read-this-wall-street-bets-creator-interview'> Source <a/>

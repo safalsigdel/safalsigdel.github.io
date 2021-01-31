@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w0kdHCFFp_o_HaKNQW8KNqBl1DY=/0x0:400x300/1200x800/filters:focal(153x120:217x184)/cdn.vox-cdn.com/uploads/chorus_image/image/68737854/jon-stewart.0.jpeg' width='700px' /><br/>
-Jon Stewart has just joined Twitter, and is now the proud owner of a verified account. And, of course, his first tweet was about the redditors on r/WallStreetBets and their stonks.
-<a href='https://www.theverge.com/2021/1/28/22255434/jon-stewart-verified-account-twitter-wall-street-bets-stocks'> Source <a/>

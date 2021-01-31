@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sL_4bYl2WowE9JuAt4WTOkDQyuM=/0x0:1920x1263/1200x800/filters:focal(807x479:1113x785)/cdn.vox-cdn.com/uploads/chorus_image/image/68742649/Studio_Project.0.jpeg' width='700px' /><br/>
+Apple's television adaptation of the podcast adaptation of the real-life soap opera that was WeWork now has some major talent attached. Jared Leto, the soon-to-be leading vampire of Morbius, and Anne Hathaway, are joining the Apple TV Plus series WeCrashed as Adam and Rebekah Neumann, according to The Hollywood Reporter.
+<a href='https://www.theverge.com/2021/1/29/22256691/jared-leto-anne-hathaway-wework-wecrashed-apple-tv-plus'> Source <a/>

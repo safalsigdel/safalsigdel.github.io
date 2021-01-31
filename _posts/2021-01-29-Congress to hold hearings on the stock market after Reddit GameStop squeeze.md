@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q-bNxfUJ2ujB-odbjwYzFgdPUaI=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/68736291/1200544025.0.jpg' width='700px' /><br/>
-Sen. Sherrod Brown (D-OH), the incoming chair of the Senate Banking Committee, announced Thursday that he plans to hold a hearing on the “current state of the stock market” in the wake of unprecedented volatility around GameStop, AMC, and other stocks.
-<a href='https://www.theverge.com/2021/1/28/22254909/senate-banking-stocks-sherrod-brown-aoc-gamestop-reddit-hearing'> Source <a/>

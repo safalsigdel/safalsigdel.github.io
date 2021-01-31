@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7Rq6heshFzIFU5DKQZ49ex3ZOGM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68744940/acastro_210119_1777_whatsapp_0002.0.jpg' width='700px' /><br/>
+Facebook-owned messaging app WhatsApp has started posting Status messages to users about its “commitment to your privacy.” The in-app messages were appearing for members of The Verge staff in the US and UK on Saturday, and some users reported the Status messages — WhatsApp's version of Snapchat Stories or Twitter Fleets—have been appearing in India for a while now.
+<a href='https://www.theverge.com/2021/1/30/22257721/whatsapp-status-privacy-facebook-signal-telegram'> Source <a/>

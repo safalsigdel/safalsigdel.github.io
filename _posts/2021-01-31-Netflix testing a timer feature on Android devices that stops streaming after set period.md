@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0p3v0LrgSYaV_41lQzAkk7CEZvM=/0x0:3600x2404/1200x800/filters:focal(1512x914:2088x1490)/cdn.vox-cdn.com/uploads/chorus_image/image/68740485/BRIDGERTON_102_Unit_02026R.0.jpg' width='700px' /><br/>
+Netflix is launching a global test today on Android devices that will allow subscribers to set a timer for their viewing period.
+<a href='https://www.theverge.com/2021/1/29/22256308/netflix-timer-test-feature-android-global-sleep-kids-ios-tv-desktop'> Source <a/>

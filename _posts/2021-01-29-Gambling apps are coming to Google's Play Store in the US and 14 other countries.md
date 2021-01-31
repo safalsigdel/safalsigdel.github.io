@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W3icnDOcMbv_KBcVaOxyxnBJaJA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68736981/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-An upcoming change to Google's Play Store policies will allow gambling and betting Android apps that use real money in 15 more countries, including the US, according to 9to5Google. Currently, gambling apps are only allowed in four countries: Brazil, France, Ireland, and the United Kingdom.
-<a href='https://www.theverge.com/2021/1/28/22254886/google-allowing-gambling-apps-play-store-more-countries-us'> Source <a/>

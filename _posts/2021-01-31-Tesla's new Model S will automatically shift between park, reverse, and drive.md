@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X78NzPziZK8_MIWdqqVhNG5ugqE=/0x0:2716x1694/1200x800/filters:focal(1141x630:1575x1064)/cdn.vox-cdn.com/uploads/chorus_image/image/68742261/Screen_Shot_2021_01_29_at_2.18.46_PM.0.png' width='700px' /><br/>
+Tesla's redesigned Model S and Model X will have a very unconventional and possibly controversial feature: automatic shifting between park, reverse, neutral, and drive (or PRND). There will be an option to change drive modes on the touchscreen, but CEO Elon Musk made the case for automatic shifting on Twitter late Wednesday night.
+<a href='https://www.theverge.com/2021/1/29/22256504/teslas-model-s-x-redesign-automatic-shifting-prnd-gears'> Source <a/>

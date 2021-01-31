@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a8PF6iXe09M7yjTSEgr6cNsoFG0=/0x0:1100x734/1200x800/filters:focal(462x279:638x455)/cdn.vox-cdn.com/uploads/chorus_image/image/68736656/twtr-nyse-26_2040.0.jpg' width='700px' /><br/>
-Robinhood has announced that, beginning on Friday, January 29th, it will allow “limited buys” on restricted stocks, potentially signaling the end of a brutal day-long hold on GameStop, AMC, BlackBerry, Nokia, and other stocks.
-<a href='https://www.theverge.com/2021/1/28/22255031/robinhood-gamestop-stop-purchases-reddit-wsb-stock-market'> Source <a/>

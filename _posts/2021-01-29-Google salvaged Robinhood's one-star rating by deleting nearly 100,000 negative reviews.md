@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q2WbSlcrRmOWR7YJwTaH9TUdEog=/0x0:688x1000/1200x0/filters:focal(0x0:688x1000):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22267034/chrome_Hpo3R74D42.png' width='700px' /><br/>
-Google is actively removing negative reviews of the Robinhood app from the Google Play Store, the company confirmed to The Verge. After some disgruntled Robinhood users organized campaigns to give the app a one-star review on Google's Play Store and Apple's App Store — and succeeded in review-bombing it all the way down to a one-star rating — the company has now deleted enough reviews to bring it back up to nearly four stars.
-<a href='https://www.theverge.com/2021/1/28/22255245/google-deleting-bad-robinhood-reviews-play-store'> Source <a/>

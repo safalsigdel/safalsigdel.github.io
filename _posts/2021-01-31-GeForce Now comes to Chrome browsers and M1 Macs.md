@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Yj-ne2IABGFKXHB7RnwAPqEVe9k=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/68743173/GeForce_NOW_Platforms_crop_verge.0.jpg' width='700px' /><br/>
+Nvidia's GeForce Now game streaming service has launched for the Chrome web browser and M1 Macs in beta (via XDA-Developers), bringing resource intensive games to laptops and other devices that might not have been powerful to run them on their own. We just tested out the Chrome browser version on a Mac and a Windows 10 PC, and it seems to be running smoothly.
+<a href='https://www.theverge.com/2021/1/29/22257077/nvidia-geforce-now-launch-chrome-m1-macs'> Source <a/>

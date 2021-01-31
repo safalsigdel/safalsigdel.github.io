@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OxFVattWD1kC9F4yRse13zM6LH4=/0x0:1632x918/1200x800/filters:focal(686x329:946x589)/cdn.vox-cdn.com/uploads/chorus_image/image/68744479/Apple_introduces_apple_tv_plus_03252019_big.jpg.large_2x.0.jpg' width='700px' /><br/>
+Apple has notified subscribers of its Apple TV Plus streaming service that they'll continue to get refund credits on their accounts until June, following a second extension of its free trial program earlier this month, 9 to 5 Mac reported.
+<a href='https://www.theverge.com/2021/1/30/22257624/subscribers-apple-tv-plus-credit-refunds-free-trial-june'> Source <a/>
