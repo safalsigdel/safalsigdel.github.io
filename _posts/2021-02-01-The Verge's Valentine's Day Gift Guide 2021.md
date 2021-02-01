@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0NJA2Y5Z4kgo7Io4z6bAV2NQBdU=/0x0:3000x1688/1200x675/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/68750614/VRG_4388_VDGG_Lede_001.0.jpg' width='700px' /><br/>
+Romance can be difficult after months of living during tense times, whether you've been sharing living space or forced to express your affection via Zoom. It's a problem many of us are facing. But a simple Valentine's Day gift, no matter how impractical or stereotypical, can make your partner feel special and loved.
+<a href='https://www.theverge.com/22244758/valentines-day-gift-ideas-guide-couples-boyfriend-girlfriend'> Source <a/>
