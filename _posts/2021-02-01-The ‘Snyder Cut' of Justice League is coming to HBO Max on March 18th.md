@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FiIIvlD8HLmF-NOg4HZkojiKIBY=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/68739551/unnamed.0.jpg' width='700px' /><br/>
-Zack Snyder's Justice League (aka “The Snyder Cut”) will hit HBO Max on March 18th, the director announced on Twitter today.
-<a href='https://www.theverge.com/2021/1/29/22255990/justice-league-snyder-cut-hbo-max-release-date'> Source <a/>
