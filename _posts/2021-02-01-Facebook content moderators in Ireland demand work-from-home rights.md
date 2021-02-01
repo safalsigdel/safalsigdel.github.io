@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9DMYkML5_VvXaRS7Fm1YU5rxjS8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68741145/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-Facebook content moderators in Ireland met with Deputy Prime Minister Leo Varadkar today to demand work-from-home rights. They say the company forced them back into the office, even as COVID-19 cases spiked.
-<a href='https://www.theverge.com/2021/1/29/22256232/facebook-content-moderators-ireland-work-from-home-rights-coronavirus'> Source <a/>
