@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yVzIEMZ5YeDIOs3SPzuaI5V6hDs=/0x0:3192x2129/1200x800/filters:focal(1309x65:1819x575)/cdn.vox-cdn.com/uploads/chorus_image/image/68749911/Screenshot_20210201_092541.0.jpg' width='700px' /><br/>
+Chrome's Android app is being updated with a new interface for switching tabs, and a new tab grouping feature to help organize open web pages, 9to5Google reports. The new interface and functionality has reportedly been appearing for some users after the release of version 88 of Chrome last month, but doesn't appear to be live for everyone just yet.
+<a href='https://www.theverge.com/2021/2/1/22259891/chrome-android-tab-groups-grid-layout'> Source <a/>

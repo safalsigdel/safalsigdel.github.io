@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YwWVmi5bzjqXYWN4TsObjx6IWr0=/0x0:1399x787/1200x0/filters:focal(0x0:1399x787):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22267736/apps_1.46310.14037151017640712.b7408538_4c5c_44fa_98d0_4a876ebf3064.e4d2a38e_d900_4ace_9bcd_7a2dd5f8b739.jpeg' width='700px' /><br/>
-For almost a decade and a half, the Yakuza franchise was all but exclusive to Sony's PlayStation consoles. Other than a Japan-only Wii U remaster of the first two games, every single mainline entry or spinoff was released solely on the PlayStation 2, PSP, PS3, or PS4.
-<a href='https://www.theverge.com/22255880/yakuza-series-xbox-game-pass-where-to-start'> Source <a/>
