@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/l3zhPnoIpmyiL0IaN6j5c9E3ZMs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68749759/akrales_190820_3597_0345.0.jpg' width='700px' /><br/>
+Nintendo has posted earnings for a huge holiday quarter in which the Switch sold more consoles than ever. 11.57 million consoles were moved in total, bringing the Switch close to 80 million sold since its 2017 launch. Nintendo has increased its forecast for the fiscal year ending March 31st to 26.5 million Switch units, also boosting its net profit estimate 33 percent to 400 billion yen, or about $3.82 billion.
+<a href='https://www.theverge.com/2021/2/1/22259836/nintendo-3q-2020-earning-switch-sales-record'> Source <a/>

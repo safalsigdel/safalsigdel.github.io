@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wIUEcm7FW-pLwlILaVppXktiXD4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68739358/cgartenberg_210111_4368_0008.0.jpg' width='700px' /><br/>
-Samsung's new line of smartphones the S21 line — the Galaxy S21, S21 Plus, and S21 Ultra are now available for purchase at various retailers. Below, we tell you where you can order them and what deals you can get from each retailer. As a reminder, their prices range from $999.99 to upward of $1,379.99.
-<a href='https://www.theverge.com/22225628/samsung-galaxy-s21-plus-ultra-order-how-to-price-verizon-tmobile-sprint'> Source <a/>
