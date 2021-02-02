@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7JcaUs_sJITWjROeBV9s_OSzYVg=/0x0:2040x1360/1200x800/filters:focal(889x275:1215x601)/cdn.vox-cdn.com/uploads/chorus_image/image/68755613/akrales_180329_2351_1027.0.jpg' width='700px' /><br/>
+TF Securities analyst Ming-chi Kuo has corroborated reports that Apple and Hyundai are working together on an electric car. In a research note quoted by AppleInsider, Kuo says that Apple's first car will be based on Hyundai's E-GMP platform for battery-powered electric vehicles.
+<a href='https://www.theverge.com/2021/2/2/22261893/apple-electric-car-hyundai-ming-chi-kuo-rumor-report'> Source <a/>
