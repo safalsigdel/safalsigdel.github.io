@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T0GITdA76vJrRdp_F-MKPjY-4qc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68754062/acastro_210129_1777_robinhood_0001.0.jpg' width='700px' /><br/>
+Investment app Robinhood has plummeted back down to a one-star rating on Google Play, thanks to a flood of thousands of new negative reviews.
+<a href='https://www.theverge.com/2021/2/1/22261178/robinhood-google-play-store-app-rating-one-star-reviews-stocks-gamestop-reddit'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WNQoaEnfbMt1LyoS1sZGtSvauUk=/0x0:2040x1360/1200x675/filters:focal(910x646:1236x972)/cdn.vox-cdn.com/uploads/chorus_image/image/68744540/mchin_190423_4390_0001.0.jpg' width='700px' /><br/>
-If you need a laptop that's not just light, but among the lightest of the light, you're looking for the 14-inch Acer Swift 5. At just 2.31 pounds, it's one of those devices that messes with your mind. When I pick it up, I feel like I must be holding a hollow chassis. When I put it in my backpack, I spend the day worrying that I might have left it at home.
-<a href='https://www.theverge.com/22256779/acer-swift-5-2021-review-14-inch-laptop-specs-features-price'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xS1FZ7IqOkzi5Z4ZYfgXuM3jOVs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68745439/acastro_200428_1777_coronavirus_0002.0.0.jpg' width='700px' /><br/>
-It's no secret that the US is struggling to distribute coronavirus vaccines; some states haven't received enough doses, and finding an appointment on sign-up websites has been a chaotic experience. A new report in MIT Technology Review looks at why, almost a year into the pandemic, the Centers for Disease Control and Prevention seemed totally unprepared for actually getting shots into people's arms.
-<a href='https://www.theverge.com/2021/1/30/22257950/go-read-this-software-coronavirus-vaccine-cdc'> Source <a/>

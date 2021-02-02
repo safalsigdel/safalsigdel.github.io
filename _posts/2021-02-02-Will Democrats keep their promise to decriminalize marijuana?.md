@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NgJRFLz1mHSsArvJ9Z7HfAwk45I=/0x0:6000x4000/1200x800/filters:focal(2709x1131:3669x2091)/cdn.vox-cdn.com/uploads/chorus_image/image/68751262/1230804840.0.jpg' width='700px' /><br/>
+Just a few years ago, it would have been unthinkable for a major political party to call for decriminalizing marijuana — but in 2020, the Democrats did just that. Approved in August, the platform called for decriminalizing and rescheduling marijuana through executive action, with support for legalizing medical marijuana and expunging past criminal convictions for cannabis-related offenses all on the table.
+<a href='https://www.theverge.com/2021/2/1/22243311/democrats-biden-marijuana-policy-reschedule-drug'> Source <a/>

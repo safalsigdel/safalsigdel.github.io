@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Nike is pushing the envelope of shoe technology further with today's announcement of the Go FlyEase, a contact-less $120 shoe for both athletic and everyday use.
+<a href='https://www.theverge.com/tldr/2021/2/1/22260179/nike-go-flyease-shoes-hands-free-pricing-release-day'> Source <a/>

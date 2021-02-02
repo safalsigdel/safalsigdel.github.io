@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wVgYd4mC7y0Nu-7n7D54S9CyHro=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/68745581/1144330957.0.jpg' width='700px' /><br/>
-Health officials have ordered the Coachella music festival scheduled for April to be canceled due to the coronavirus pandemic. It's the third time the pandemic has forced the annual outdoor festival that draws hundreds of thousands of fans to the California desert to be postponed or canceled.
-<a href='https://www.theverge.com/2021/1/30/22258024/coachella-canceled-third-time-coronavirus-pandemic'> Source <a/>

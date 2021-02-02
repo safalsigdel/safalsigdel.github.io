@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2oHN2KZ5t_0xxQEcQg0dG_u9QnQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68747273/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-On November 10th, a Facebook employee sent out an unusual email to an unknown outside party, hoping to arrange a conversation about how the platform moderated against anti-Semitism. “We are looking at the question of how we should interpret attacks on ‘Zionists,'” reads the letter, whose recipient was redacted, “to determine whether the term is a proxy for attacking Jewish or Israeli people.”
-<a href='https://www.theverge.com/2021/1/31/22256949/facebook-zionist-moderation-policy-hate-speech-israel'> Source <a/>

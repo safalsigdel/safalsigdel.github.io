@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q0p7IqfUJHGXeXvV-n4bdmudcEY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68742362/acastro_180406_1777_facebook_Congress_0001.0.jpg' width='700px' /><br/>
-Facebook's Oversight Board, the independent body empowered to review the social network's most complex platform moderation decisions, is now accepting public comments on the company's decision to “indefinitely” ban former President Donald Trump in the aftermath of the US Capitol attack on January 6th.
-<a href='https://www.theverge.com/2021/1/29/22256821/facebook-trump-ban-oversight-board-public-feedback'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gX7OSC1LE9RuirsyZTVCd38fe-8=/0x0:750x500/1200x800/filters:focal(315x190:435x310)/cdn.vox-cdn.com/uploads/chorus_image/image/68749507/chrome.0.jpg' width='700px' /><br/>
-Apple has released an official extension for the Windows and Mac versions of Chrome that lets you use passwords stored in your iCloud Keychain. For anyone who uses Chrome as their browser and iCloud Keychain in lieu of a dedicated password manager, this could make bouncing between Windows and Mac computers much easier.
-<a href='https://www.theverge.com/2021/1/31/22259720/apple-icloud-passwords-chrome-browser-extension-released'> Source <a/>

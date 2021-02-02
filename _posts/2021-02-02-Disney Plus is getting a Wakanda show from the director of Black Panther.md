@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PkEm4bgAT3KQTBsRZNrekvOgqEk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68753256/BlackPanther596d2f166e594_2040.0.jpg' width='700px' /><br/>
+Writer-director Ryan Coogler is making a new Marvel TV show for Disney Plus that will be set in the Kingdom of Wakanda as part of a five-year TV exclusivity deal with Coogler's production banner, Proximity Media (which includes principals Zinzi Coogler, Sev Ohanian, Ludwig Gxc3xb6ransson, Archie Davis, and Peter Nicks alongside Coogler himself).
+<a href='https://www.theverge.com/2021/2/1/22260921/disney-plus-wakanda-show-ryan-coogler-black-panther-proximity-media-marvel'> Source <a/>

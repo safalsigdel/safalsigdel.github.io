@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/I64M3tQMyqsg6IensGGx6o7hI18=/0x0:1804x1366/1200x800/filters:focal(758x539:1046x827)/cdn.vox-cdn.com/uploads/chorus_image/image/68752103/Screen_Shot_2021_02_01_at_12.24.27_PM.0.png' width='700px' /><br/>
+Google is updating its search results with a major new feature: an “about this result” menu that will let you pull up information from Wikipedia about a website in your search results, making it easier to vet sites that you're not familiar with.
+<a href='https://www.theverge.com/2021/2/1/22252443/google-about-this-result-information-search-results-wikipedia-vet-websites'> Source <a/>

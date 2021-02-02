@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3tQGTRqtvI0sYfAo80BfZj3o0RU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68744617/acerwm2_2040.0.0.jpg' width='700px' /><br/>
-According to analysts, Chromebooks had an incredible 2020, with the last quarter being the strongest ever for Google's laptops (via 9to5Google). According to research firms Gartner and Canalys, over 30 million of the devices shipped last year, with somewhere between 11 and 11.7 million shipping in Q4 alone. Canalys says that's a staggering 287 percent more than were shipped in Q4 2019.
-<a href='https://www.theverge.com/2021/1/30/22256873/chromebook-best-year-ever-double-yearly-sales'> Source <a/>
