@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XOWhuga9LrfptUTNfSd4hxnyB1Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68751502/sokane_191117_3793_6040.0.jpg' width='700px' /><br/>
-Ford is the latest automaker to turn its vehicle operating systems over to Google. The Dearborn, Michigan-based company said it will use Google's Android to power the infotainment systems in “millions” of its cars starting in 2023. That means Google's voice-activated Assistant, Google Maps, and other automotive-approved Android apps will be available in Ford's cars without requiring the use of an Android smartphone.
-<a href='https://www.theverge.com/2021/2/1/22260176/ford-google-android-infotainment-os-2023'> Source <a/>
