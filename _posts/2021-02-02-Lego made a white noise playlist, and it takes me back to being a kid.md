@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Lego made a white noise playlist featuring Lego bricks, and it's surprisingly relaxing. I don't get many opportunities to build Lego sets anymore, but I've been listening to the playlist while writing this story, and it's taking me back to the hours I spent as a kid building elaborately designed spaceships with an ever-increasing number of wings and laser guns.
-<a href='https://www.theverge.com/tldr/2021/2/1/22260423/lego-white-noise-playlist-spotify-apple-music'> Source <a/>
