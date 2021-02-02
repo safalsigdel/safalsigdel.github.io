@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/54WNg5L116g9BHu5cefcq0l1WXs=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/68752023/twarren_200909_4177_0029.0.0.jpg' width='700px' /><br/>
-Demand for Microsoft's latest Xbox Series X console is high, but supply isn't likely to keep up until at least through June now. In an interview with The New York Times, Microsoft's head of investor relations, Mike Spencer, revealed supply of its new Xbox consoles will be constrained at least through June.
-<a href='https://www.theverge.com/2021/2/1/22260564/microsoft-xbox-series-x-stock-june-supply-constraints'> Source <a/>

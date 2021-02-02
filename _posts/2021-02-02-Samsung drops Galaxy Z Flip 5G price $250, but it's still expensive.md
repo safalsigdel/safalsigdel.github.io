@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xarkSy2dv_KJpw1ccMjUWo1DEOc=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/68751848/Galaxy_Z_Flip_5G_Mystic_Bronze_Front.0.jpg' width='700px' /><br/>
-Samsung has dropped the price of its folding flip phone, the Galaxy Z Flip 5G, by $250. It's now $1,199.99, which, on its face, looks like a fairly big drop from its original asking price of $1,449.99 in July 2020.
-<a href='https://www.theverge.com/2021/2/1/22260357/samsung-galaxy-z-flip-price-drop-1200'> Source <a/>

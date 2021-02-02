@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xf9UhYKxHvYVHWWaz1Yhy6TSdi8=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/68756635/destruction_all_stars_screenshots_21_disclaimer_ps5_en_15oct20.0.jpeg' width='700px' /><br/>
+Destruction AllStars is a game about smashing cars. It's right there, the first word in the title. It's also a major milestone for the PS5 — a huge exclusive that's solely on the next-gen console that isn't a remake or stretching across generations.
+<a href='https://www.theverge.com/2021/2/2/22261214/destruction-allstars-playstation-5-ps5-sony-interview-cars-demolition-derby'> Source <a/>
