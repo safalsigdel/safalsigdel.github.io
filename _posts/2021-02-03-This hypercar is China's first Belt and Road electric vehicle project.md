@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3h0Vmzexq5volgOQsaXmGxRqMFw=/0x0:2047x1485/1200x800/filters:focal(861x580:1187x906)/cdn.vox-cdn.com/uploads/chorus_image/image/68761012/473ADF4A_12AD_49FD_A400_E6F67E8D930A.0.jpeg' width='700px' /><br/>
+A new engineering and design startup called Silk EV headquartered in Italy's venerable Motor Valley is more than just another attempt at making an electric hypercar. It's also the latest arrow in the quiver for China's massive Belt and Road project, though the first that deals with electric cars.
+<a href='https://www.theverge.com/2021/2/2/22261795/silk-ev-faw-china-italy-electric-car-hypercar-s9-belt-road'> Source <a/>
