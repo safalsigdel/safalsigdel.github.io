@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fdy1p0S53g-fV5AcO3-rc81UVpk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68753591/elon_musk_tesla_3036.0.jpg' width='700px' /><br/>
-Elon Musk's SpaceX is planning to send its first “all-civilian” crew to space at the end of 2021 in a charity-focused mission commanded by tech entrepreneur Jared Isaacman. The company said in a press release it'll pick three people to ride alongside Isaacman to orbit aboard SpaceX's Crew Dragon capsule.
-<a href='https://www.theverge.com/2021/2/1/22261038/spacex-announces-first-all-civilian-mission-to-space'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O7gZLOFoI-nyrcA04mBusBOrLSk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68756228/acastro_300505_4008_pcGameHacks_0001.0.jpg' width='700px' /><br/>
-Cheaters in Call of Duty: Warzone are ruining the game and forcing professional players to abandon it. Game hacks and cheat software are being widely used in the battle royale hit, and it has left the community of millions of players feeling frustrated with the lack of attention from publisher Activision and developer Infinity Ward.
-<a href='https://www.theverge.com/2021/2/2/22261947/call-of-duty-warzone-cheaters-hackers-aimbots-wallhacks-problem'> Source <a/>

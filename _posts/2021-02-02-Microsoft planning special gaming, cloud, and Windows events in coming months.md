@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eE8iID91uW8G8EEPpSXnfKqty7M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68756213/acastro_180226_0001.0.jpg' width='700px' /><br/>
-Microsoft is planning a series of news events over the coming months that will focus on categories like gaming, cloud, and Windows. The Verge has learned that Microsoft is dedicating time to particular categories at a time when the pandemic has halted in-person events. Microsoft's first event will take place later this week, focusing on what's next for work and Microsoft 365.
-<a href='https://www.theverge.com/2021/2/2/22261997/microsoft-news-events-gaming-cloud-windows'> Source <a/>

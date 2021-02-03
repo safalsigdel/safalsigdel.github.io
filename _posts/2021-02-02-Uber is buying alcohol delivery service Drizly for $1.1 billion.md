@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ey9-Q5IlZjvTPFra5mENeeo3a50=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/68756964/Untitled.0.png' width='700px' /><br/>
-Uber announced today that it's buying alcohol delivery service Drizly in a deal worth $1.1 billion, as the ride-sharing company continues to build out its stable of food and other delivery services.
-<a href='https://www.theverge.com/2021/2/2/22262155/uber-drizly-alcohol-delivery-service-eats-postmates'> Source <a/>

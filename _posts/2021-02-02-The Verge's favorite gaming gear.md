@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-MNsWrnbLHRLLM8Vd3LYjrHnwrM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68756083/acastro_210128_4393_favoriteGamingGear_0001.0.png' width='700px' /><br/>
-Gaming was already popular when the pandemic hit in early 2020; with a large number of people stuck at home, it has become close to a national obsession. So once you have your console or computer, and your game (or games), what more do you need?
-<a href='https://www.theverge.com/22244488/gaming-gear-recommendations-favorite-nintendo-logitech-microsoft'> Source <a/>

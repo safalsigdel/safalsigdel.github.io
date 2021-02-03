@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gn2e8S5bA4RgOIfqsYPbwTgeT9Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68754413/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google has agreed to pay $2.5 million to more than 5,500 employees and job applicants impacted by alleged systematic pay and hiring discrimination. The US Department of Labor found that female software engineers were being underpaid. It also identified “hiring rate differences that disadvantaged female and Asian applicants” for Google engineering positions.
-<a href='https://www.theverge.com/2021/2/1/22261263/google-pays-3-million-us-department-labor-settlemt-allegations-pay-discrimination'> Source <a/>

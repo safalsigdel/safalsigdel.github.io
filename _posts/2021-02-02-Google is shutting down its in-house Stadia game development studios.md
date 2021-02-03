@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sqodla7cw7wKB94i1j_GqbSD1QU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68752777/akrales_191113_3779_0163.0.jpg' width='700px' /><br/>
-Google is shutting down its internal Stadia game development division, the company announced today, as it refocuses Stadia to be a home for streaming games from existing developers instead of developing its own games for the service.
-<a href='https://www.theverge.com/2021/2/1/22260803/google-stadia-game-development-studio-shut-down-jade-raymond'> Source <a/>

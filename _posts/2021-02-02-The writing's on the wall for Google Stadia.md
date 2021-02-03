@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C4OOFk4cuvt2fB3vvJ-Sgrkt3Gk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68754617/akrales_191113_3779_0317.0.jpg' width='700px' /><br/>
-After fourteen months, Google has decided it doesn't want to be a game company anymore. Where once it had its own cloud-based console, controller, and the promise of homegrown triple-A games, it no longer wants to build its own games as of today.
-<a href='https://www.theverge.com/22260994/google-stadia-platform-white-label-option'> Source <a/>

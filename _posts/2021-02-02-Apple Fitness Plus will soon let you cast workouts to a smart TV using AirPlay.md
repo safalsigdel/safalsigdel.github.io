@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/67WGGafpMdZ55skiqQJWCkASvC8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68752688/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
-Apple's latest watchOS 7 and iOS 14 beta releases indicate a new casting feature for Apple Fitness Plus subscribers is on the way, according to TechCrunch.
-<a href='https://www.theverge.com/2021/2/1/22260722/apple-fitness-plus-airplay-workouts-tv-new-feature-ios-14-5'> Source <a/>

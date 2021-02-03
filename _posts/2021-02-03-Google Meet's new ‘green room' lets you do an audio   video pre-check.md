@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mZ_4f2awjK9gmdayUnXS0h97j8Y=/0x0:934x978/1200x800/filters:focal(393x415:541x563)/cdn.vox-cdn.com/uploads/chorus_image/image/68759688/Screen_Shot_2021_02_02_at_10.15.30_AM.0.png' width='700px' /><br/>
+It can be difficult to figure out how you're coming across in a videoconference, especially if you want to make sure everything works before you start the meeting. How is your lighting? Are you sitting too close or too far from the camera? Is your audio okay, are you accidentally muted, or do you sound as if you're in an echo chamber?
+<a href='https://www.theverge.com/22262973/google-meet-green-room-audio-video'> Source <a/>

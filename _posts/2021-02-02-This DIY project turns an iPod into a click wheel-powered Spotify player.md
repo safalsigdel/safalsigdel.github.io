@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Classic iPods have their fans, but they're not built for the modern age of music streaming — except for this one, which has been turned into a Spotify player by tinkerer Guy Dupont. While it may look like an iPod from the outside, inside, it's got a Raspberry Pi loaded with software custom-built by Dupont to interface with Spotify, while still keeping the classic iPod style. He calls it the sPot.
-<a href='https://www.theverge.com/circuitbreaker/2021/2/1/22260540/ipod-mod-portable-spotify-player-click-wheel-project'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RzabiOl7nXsT1uVOlO0SxhSNDhg=/0x0:1117x521/1200x800/filters:focal(481x215:659x393)/cdn.vox-cdn.com/uploads/chorus_image/image/68758039/McPlant_Burger.0.png' width='700px' /><br/>
+McDonald's new plant-based burger, which the company announced in November, has debuted for a trial run in Denmark and Sweden, according to Bloomberg. Dubbed the McPlant, the burger features a patty made from pea and rice proteins, which was co-developed with Beyond Meat.
+<a href='https://www.theverge.com/2021/2/2/22262481/mcdonalds-mcplant-burger-denmark-sweden-test-markets'> Source <a/>

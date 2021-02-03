@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PUA1YQVwQqlJsrb9GB_h2_bvrfI=/0x0:1396x1000/1200x800/filters:focal(587x389:809x611)/cdn.vox-cdn.com/uploads/chorus_image/image/68756863/disney_plus.0.png' width='700px' /><br/>
-Disney's latest bundle combining Disney Plus, ad-free Hulu, and ESPN Plus for $18.99 per month is now available. This package was first announced in December 2020, and it actually first started rolling out for new subscribers to Hulu. The news today is that the sign-up page is accessible to more people looking to subscribe. The cheaper bundle that includes Hulu with ads sprinkled in is still available for $12.99 per month.
-<a href='https://www.theverge.com/2021/2/2/22262159/disney-plus-espn-ad-free-hulu-bundle-available-price'> Source <a/>

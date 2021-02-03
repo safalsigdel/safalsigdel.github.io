@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2kqIp5TB4ic-CwkSAAkY9lQ0sRA=/0x0:5912x3894/1200x800/filters:focal(2484x1475:3428x2419)/cdn.vox-cdn.com/uploads/chorus_image/image/68759554/1230412906.0.jpg' width='700px' /><br/>
+It was September 2018, while Twitter CEO Jack Dorsey was testifying before Congress for the first time, when sitting lawmakers had their first confrontation with the wild nature of the online right. Nearly 90 minutes after the hearing began, Laura Loomer, a far-right internet celebrity, stood up from the committee audience. “Please help us Mr. President before it is too late,” Loomer yelled, selfie stick in hand.
+<a href='https://www.theverge.com/2021/2/2/22262960/marjorie-taylor-greene-mccarthy-republican-gop-posters-caucus'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QIUcdhZoyrocQnx8_m526A_Jxgc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68756938/dseifert_191008_3720_0004.0.jpg' width='700px' /><br/>
-Black Friday 2020 saw many great deals, especially on Eero's products. If you are looking to improve your Wi-Fi situation at home, Amazon and Best Buy have the Eero 6 mesh router three-pack (which includes one mesh router and two extenders) back down to its Black Friday price of $223, a nice drop from its usual cost of $279.
-<a href='https://www.theverge.com/2021/2/2/22262079/eeros-wifi-6-mesh-router-extenders-ps-plus-deal-sale'> Source <a/>

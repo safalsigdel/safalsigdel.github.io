@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KkxXuASkCbsKGeg1AWnqMMtBwl0=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/68758862/VRG_ILLO_1777_Huawei_004.0.0.jpg' width='700px' /><br/>
+HarmonyOS is Huawei's alternative operating system that was created after the company was banned in the US and lost its Android license. The reality is the operating system is less of a new alternative and more of a slapdash fork of Android 10, according to a new report from Ron Amadeo at Ars Technica.
+<a href='https://www.theverge.com/2021/2/2/22262527/harmonyos-huawei-us-ban-android-google-ars-technica'> Source <a/>

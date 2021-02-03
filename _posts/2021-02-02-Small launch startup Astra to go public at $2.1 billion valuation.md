@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3Pyu7HKtCsykke_g86iqpEBnFAE=/0x0:2048x1365/1200x800/filters:focal(1198x436:1524x762)/cdn.vox-cdn.com/uploads/chorus_image/image/68756439/EpedCU2XIAIwTiJ.0.jpeg' width='700px' /><br/>
-Astra plans to become the first small rocket maker to go public, the company announced Tuesday, after reaching space for the first time in December. It'll become the second publicly traded space venture after Richard Branson's Virgin Galactic.
-<a href='https://www.theverge.com/2021/2/2/22262004/astra-rocket-launch-startup-spac'> Source <a/>

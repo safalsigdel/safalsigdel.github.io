@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qhiaY6gKa30WnpDEPUyAu9R1gVo=/0x0:1088x612/1200x800/filters:focal(457x219:631x393)/cdn.vox-cdn.com/uploads/chorus_image/image/68754819/RE_Featured_Image.0.jpg' width='700px' /><br/>
-If you've been following recent news about Resident Evil Village, the next game in the hit horror video game franchise, you may have heard about Lady Dimitrescu, a very tall woman / probably-vampire who has become very popular.
-<a href='https://www.theverge.com/2021/2/1/22261405/resident-evil-village-tall-lady-dimitrescu-height'> Source <a/>

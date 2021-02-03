@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DHkzEkWAmLth0Uyh-whopcOCC2E=/0x0:1920x1778/1200x800/filters:focal(716x645:1022x951)/cdn.vox-cdn.com/uploads/chorus_image/image/68756974/aerial_reduced.0.jpg' width='700px' /><br/>
-Amazon has unveiled the design for the next portion of its Arlington, Virginia headquarters, and one building stands out far from the rest: a swirling glass tower covered in trees that rises to a point above the rest of the city's skyline. Amazon calls the building “the Helix” because its corkscrew shape is supposed to take inspiration from “the natural beauty of a double helix.”
-<a href='https://www.theverge.com/2021/2/2/22262149/amazon-helix-arlington-virginia-design-hq2-campus'> Source <a/>

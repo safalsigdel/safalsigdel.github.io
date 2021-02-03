@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IZjQnbWdf8biviKSpGafGDoRwwI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68753014/GoW_PS5EnhancedExp_Blog.0.jpg' width='700px' /><br/>
-Sony's reboot of God of War, one of the most popular first-party exclusives released on PS4, is getting an update tomorrow, which will allow the 2018 hit to take advantage of the PS5's hardware, Sony's Santa Monica Studio announced in a blog post today.
-<a href='https://www.theverge.com/2021/2/1/22260829/god-of-war-2018-ps5-patch-free-update-playstation'> Source <a/>
