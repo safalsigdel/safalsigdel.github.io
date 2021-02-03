@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zEZTSsgnIAXxvtvYHe7d3wWws-g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68761774/acastro_200713_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+TikTok will start displaying warnings on videos that contain questionable information that couldn't be verified by fact-checkers, and it'll begin warning users when they go to re-share those videos that the information hasn't been confirmed.
+<a href='https://www.theverge.com/2021/2/3/22263100/tiktok-fact-check-warning-labels-unverified-content'> Source <a/>

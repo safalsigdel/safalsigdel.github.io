@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gXUmogUzss9mG3Q8gJH4zhzO_0M=/0x0:1100x619/1200x800/filters:focal(462x222:638x398)/cdn.vox-cdn.com/uploads/chorus_image/image/68757818/ncaafb14_scrn_presentation_3_bmp_jpgcopy.1419979943.0.jpg' width='700px' /><br/>
-After being missing in action for years, Electronic Arts announced today that it will be making college football video games again. EA is working with the Collegiate Licensing Company (CLC), a well-known licensing partner for many schools, to secure the use of over 100 teams in the FBS, including the stadiums, mascots, and uniforms used by these institutions.
-<a href='https://www.theverge.com/2021/2/2/22262471/ea-sports-college-football-video-game-ncaa-players'> Source <a/>
