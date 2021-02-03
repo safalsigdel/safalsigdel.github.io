@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9T_YJ5cYt7oINZxjyGr3uy_9jls=/0x0:1124x1200/1200x800/filters:focal(481x101:659x279)/cdn.vox-cdn.com/uploads/chorus_image/image/68757568/01.0.jpg' width='700px' /><br/>
-He's real, he's here, and I am so happy. The stonks guy is now a five-inch-tall, $30 thing you can buy, complete with a line graph that's forever up 69 percent. It first debuted last July, but don't let that stop you.
-<a href='https://www.theverge.com/2021/2/2/22262329/stonks-vinyl-figurine-gamestop-dogecoin-reddit'> Source <a/>
