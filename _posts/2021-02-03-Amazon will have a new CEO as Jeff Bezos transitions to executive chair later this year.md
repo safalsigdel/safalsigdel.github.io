@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dnzY7GzpdK2h5r56S9a5F7p4FgA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68759144/acastro_181114_1777_amazon_hq2_0006.0.jpg' width='700px' /><br/>
-Amazon CEO Jeff Bezos will step down as CEO and transition to a new position at the company as executive chair of the Amazon board in Q3 2021. Andy Jassy, who currently serves as CEO of Amazon Web Services (AWS), will replace Bezos as Amazon CEO.
-<a href='https://www.theverge.com/2021/2/2/22263039/amazon-new-ceo-jeff-bezos-andy-jassy-executive-chair-board-q3-2021'> Source <a/>

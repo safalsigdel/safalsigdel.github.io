@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RsLDYJVNI9A95LjLHAK9FApoYk8=/0x0:640x372/1200x800/filters:focal(269x135:371x237)/cdn.vox-cdn.com/uploads/chorus_image/image/68763021/mass_effect_3.0.0.jpg' width='700px' /><br/>
+The Pinnacle Station, a training facility added to the first Mass Effect, won't appear in Mass Effect: Legendary Edition alongside over 40 other pieces of downloadable content. Game Informer reports that the Pinnacle Station, created by Demiurge Studios for the first game, can't be salvaged due to data corruption.
+<a href='https://www.theverge.com/2021/2/3/22264321/mass-effects-pinnacle-station-dlc-data-corruption-lost'> Source <a/>
