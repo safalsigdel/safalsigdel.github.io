@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BO_PT1ADKOU8zfhPsbBBVEy6SHQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68759440/acastro_180724_1777_tesla_0002.0.jpg' width='700px' /><br/>
-Apple and Samsung have been quietly contributing to a new technology to find and  seamlessly unlock your car with your phone, without even pulling it out of your pocket — and Tesla may be one of the first with the tech. Tesla is actively working on building UWB into its cars, according to documents filed with the Federal Communications Commission.
-<a href='https://www.theverge.com/2021/2/2/22262996/tesla-uwb-fcc-car-key-ultrawideband-tech'> Source <a/>
