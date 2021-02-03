@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cu6L6oebOhoF7QsKkKgVx9xQRHI=/0x0:1613x1075/1200x800/filters:focal(678x409:936x667)/cdn.vox-cdn.com/uploads/chorus_image/image/68761457/Studio_P21_In_call_Lifestyle_2.0.jpg' width='700px' /><br/>
+Poly, the brand launched after headset-manufacturer Plantronics bought video conferencing company Polycom back in 2018, is announcing a new lineup of office gear for the work-from-home era. There's the $129 Poly Studio P5 webcam, the $599 Poly Studio P15 Personal Video Bar, and the $815 Poly Studio P21 Personal Meeting Display.
+<a href='https://www.theverge.com/2021/2/3/22263870/poly-p-series-webcam-video-bar-personal-meeting-display-work-from-home'> Source <a/>
