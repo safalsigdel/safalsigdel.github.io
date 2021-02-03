@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lnoldkKvRdmxqbZVQrDuO14b54I=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/68762845/1230946144.0.jpg' width='700px' /><br/>
+Facebook has designated Myanmar a “temporary high-risk location” after a coup earlier this week, saying it will remove “any calls to bring armaments” and protect posts criticizing the country's military.
+<a href='https://www.theverge.com/2021/2/3/22264180/facebook-myanmar-coup-response-temporary-high-risk-location'> Source <a/>
