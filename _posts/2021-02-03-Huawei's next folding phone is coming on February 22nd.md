@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1wweBMaA1QYuB404Cc45gjYvApk=/0x0:690x460/1200x800/filters:focal(290x175:400x285)/cdn.vox-cdn.com/uploads/chorus_image/image/68761148/matex2.0.jpg' width='700px' /><br/>
+Huawei will announce a new flagship foldable phone later this month, according to a Weibo post on the company's official page. Based on the name, the Mate X2 sounds like it should be a more substantial followup to the original Mate X than Huawei's last foldable phone, the faster and slightly tweaked Mate XS.
+<a href='https://www.theverge.com/2021/2/3/22263750/huawei-mate-x2-folding-phone-announcement-date'> Source <a/>
