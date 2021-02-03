@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tbUA-hXcDbwcfYmxMlbVUY_rb7E=/0x0:2034x1182/1200x800/filters:focal(855x429:1179x753)/cdn.vox-cdn.com/uploads/chorus_image/image/68759367/Screen_Shot_2021_02_02_at_3.55.15_PM.0.png' width='700px' /><br/>
-Wikipedia has introduced a Universal Code of Conduct that looks to create a global standard for the site and ensure a “diverse, inclusive, and accessible” community of contributors, continuing its efforts to fight harassment.
-<a href='https://www.theverge.com/2021/2/2/22262966/wikipedia-harassment-new-universal-code-of-conduct-policy'> Source <a/>
