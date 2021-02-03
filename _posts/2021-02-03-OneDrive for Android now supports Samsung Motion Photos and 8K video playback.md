@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TSps2pJgIPzUHPLDMkkZxnAbslw=/0x0:960x540/1200x800/filters:focal(404x194:556x346)/cdn.vox-cdn.com/uploads/chorus_image/image/68761928/Microsoft_OneDrive.0.jpg' width='700px' /><br/>
+Microsoft is updating its OneDrive app for Android this week with a new home screen, Samsung Motion Photos support, and the ability to play 8K videos. The new home screen includes quick access to recent files, offline files, and the “On This Day” feature of OneDrive that reminds you of your old photos.
+<a href='https://www.theverge.com/2021/2/3/22263970/microsoft-onedrive-android-samsung-motion-photos-8k-video'> Source <a/>
