@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HZrIBBqAAeqmhiajc2KXKl8iIN4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68758855/akrales_200904_4160_0135.0.0.jpg' width='700px' /><br/>
-Oculus has detailed what's coming in its v25 software update for Quest and Quest 2 headsets. The most notable change for both developers and users is App Lab, a new method for distributing in-development VR apps that doesn't require Oculus Store approval and also doesn't require sideloading. Think of this software as the equivalent of early access for VR.
-<a href='https://www.theverge.com/2021/2/2/22262794/oculus-update-app-lab-vr-early-access-sideloading'> Source <a/>
