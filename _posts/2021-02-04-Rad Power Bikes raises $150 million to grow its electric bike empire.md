@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1A0xXXTD_8Ik8xNU88FhZ4NE5AE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68768602/akrales_191002_3677_0032.0.jpg' width='700px' /><br/>
+Rad Power Bikes just announced a $150 million investment to expand its retail footprint and improve its maintenance and repair services. It's one of the largest investments in an e-bike company to date and reflects the growing demand for electric-powered transportation.
+<a href='https://www.theverge.com/2021/2/4/22266143/rad-power-bikes-investment-electric-ebike'> Source <a/>
