@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TZG8jEXa595zIcNA1jAAZ3mdY0g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68768358/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
+Clearview AI's facial recognition amounts to mass surveillance and the company should delete the faces of Canadians from its database, Canada's privacy commissioners said Wednesday.
+<a href='https://www.theverge.com/2021/2/4/22266055/clearview-facial-recognition-illegal-mass-surveillance-canada-privacy'> Source <a/>

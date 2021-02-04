@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cwAjxWa_g-mE0rHygdv3DikM5pA=/0x0:1638x1124/1200x800/filters:focal(432x80:694x342)/cdn.vox-cdn.com/uploads/chorus_image/image/68764192/jeff_bezos_robot_dog_crop.0.jpg' width='700px' /><br/>
-Jeff Bezos' departure from the day-to-day responsibilities of running Amazon will be the first time the founder hasn't driven the company as CEO in 26 years. Bezos built Amazon up from a small online bookstore to the massive conglomerate with dealings in cloud computing, groceries, physical retail, personal electronics, TV and film production, video games, and more that the company is today.
-<a href='https://www.theverge.com/2021/2/3/22264551/jeff-bezos-amazon-history-timeline-look-back-company'> Source <a/>
