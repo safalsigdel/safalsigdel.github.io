@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SpP2cW_i__k8ULjIUBjV31ybmEU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68767464/DSCF7493.0.jpg' width='700px' /><br/>
+A $139.95 wireless charger that looks like a cross between a bonsai tree and the decor from 2001: A Space Odyssey might seem like a niche product. But if you have an iPhone 12 and an Apple Watch, Belkin's ridiculously named Boostxe2x86x91Charge Pro 3-in-1 Wireless Charger with MagSafe is actually great.
+<a href='https://www.theverge.com/22265910/belkin-magsafe-3-in-1-wireless-charger-hands-on-iphone-12-watch'> Source <a/>
