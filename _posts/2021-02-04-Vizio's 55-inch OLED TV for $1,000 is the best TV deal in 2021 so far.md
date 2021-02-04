@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8xXk5qzgLA_-RQW14LU-5b9py2U=/0x0:2040x1360/1200x800/filters:focal(860x462:1186x788)/cdn.vox-cdn.com/uploads/chorus_image/image/68762343/viziooled.0.jpg' width='700px' /><br/>
-You have another chance today to pick up Vizio's 55-inch OLED TV at a discount. Normally $1,300 for this size, it's down to $1,000 at Best Buy. The best price from late 2020 was $100 cheaper than today's deal, but if you're scrambling for a decent price cut in time for the Super Bowl on Sunday, February 7th, your search might end here.
-<a href='https://www.theverge.com/good-deals/2021/2/3/22264086/vizio-oled-tv-best-buy-deal-ipad-mini-samsung-galaxy-buds-earbuds-sale'> Source <a/>

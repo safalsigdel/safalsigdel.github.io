@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NmJKbi7HHfGfb5r3oksnZ9Y2gR8=/0x0:1037x691/1200x800/filters:focal(437x264:601x428)/cdn.vox-cdn.com/uploads/chorus_image/image/68767427/appletv.0.jpg' width='700px' /><br/>
+Starting next month, YouTube will no longer be natively available to stream on the third-generation Apple TV, first released in 2012. 9to5Mac reports that a message is being displayed to users warning them of the upcoming change. The fourth-gen Apple TV HD  and fifth-gen Apple TV 4K, the two streaming boxes Apple currently sells, are unaffected.
+<a href='https://www.theverge.com/2021/2/4/22265965/apple-tv-3rd-gen-youtube-native-onboard-support-airplay'> Source <a/>
