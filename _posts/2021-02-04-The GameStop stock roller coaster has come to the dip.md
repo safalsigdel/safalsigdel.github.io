@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cfblPL5OR6-hK3-dG2O0fuIQJw4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68760121/slack_imgs.com.0.jpeg' width='700px' /><br/>
-It hasn't been a good day for WallStreetBets, as GameStop's stock has plummeted today. AMC, the community's other bet, dropped as well. But unlike previous dips, the stocks don't appear to be rallying. Prices stayed low for the entire trading day, something that hasn't happened since WallStreetBets became a household name one week ago.
-<a href='https://www.theverge.com/2021/2/2/22262546/gamestop-amc-stock-down-short-squeeze'> Source <a/>

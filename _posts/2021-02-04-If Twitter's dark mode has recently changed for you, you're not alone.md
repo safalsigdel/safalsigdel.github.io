@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3wTedAws2rr6zYt679AUnZ81ngE=/0x0:1376x1102/1200x800/filters:focal(578x441:798x661)/cdn.vox-cdn.com/uploads/chorus_image/image/68766316/Screen_Shot_2021_02_03_at_3.53.27_PM.0.png' width='700px' /><br/>
+The feeling of opening Twitter and noticing that something's off probably isn't a new one, but it usually isn't related to the site's color scheme. Yet some users (and Verge staff) are now seeing that Twitter's desktop dark mode has gotten darker, or worse, been changed to light mode.
+<a href='https://www.theverge.com/2021/2/3/22265306/twitter-dark-mode-dim-lights-out-black-darker-light-settings'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N29Wx3EmSq18beOBPFnCkMXWw_Q=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/68765488/1229783847.0.jpg' width='700px' /><br/>
+Amazon plans to install high-tech video cameras in its delivery vehicles in order to better monitor the behavior of drivers as they deliver packages, according to a new report from The Information.
+<a href='https://www.theverge.com/2021/2/3/22265031/amazon-netradyne-driveri-survelliance-cameras-delivery-monitor-packages'> Source <a/>

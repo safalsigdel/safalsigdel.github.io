@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ygiJvpp8Pyrr9WHOvEuRaY26U0Y=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68759651/ss_8616ccdae08da0793a2f1d9b52997170eb0a1e25.0.jpg' width='700px' /><br/>
-Apex Legends is coming to the Nintendo Switch very soon. Today, EA announced that the portable version of its sci-fi battle royale will debut on Nintendo's tablet on March 9th.
-<a href='https://www.theverge.com/2021/2/2/22233603/apex-legends-nintendo-switch-release-date'> Source <a/>

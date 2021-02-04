@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cESMw1KzEbzrb7BL9ZBPE9B2w8k=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68759526/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-Amazon founder and soon-to-be-former CEO Jeff Bezos is stepping down from his role, making way for Amazon Web Services CEO Andy Jassy to take his place, and the company couldn't be in better shape financially for the big transition.
-<a href='https://www.theverge.com/2021/2/2/22260133/amazon-q4-2020-quarterly-earnings-jeff-bezos-ceo-transition-andy-jassy'> Source <a/>

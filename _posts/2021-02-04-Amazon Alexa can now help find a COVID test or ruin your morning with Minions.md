@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hhkP3ACrmMNRIkPiDhWxLzXdQDk=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68766105/dseifert_201025_4263_0001.0.0.jpg' width='700px' /><br/>
+Amazon added a few abilities to Alexa last month, introducing a variety of Super Bowl-related skills and the ability to do home automation on its own, but today the company's telling us about some new alarm and COVID skills that snuck under the radar.
+<a href='https://www.theverge.com/2021/2/3/22265174/amazon-alexa-minions-spongebob-alarm-sounds-covid-test-vaccine-trial-skills'> Source <a/>

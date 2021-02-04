@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/25HpJkaUlopDrhnO_ndJkx32YCw=/0x0:2800x1590/1200x0/filters:focal(0x0:2800x1590):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22277204/Screen_Shot_2021_02_02_at_3.31.59_PM.png' width='700px' /><br/>
-SpaceX's latest Starship prototype launched on Tuesday, soaring miles above its South Texas facilities in a successful flight demonstration before exploding during the landing attempt. It's the second failed landing in a row, after a previous prototype, SN8, launched and failed to stick the landing in December.
-<a href='https://www.theverge.com/2021/2/2/22262937/spacex-sn9-starship-test-flight-successful-explode-landing'> Source <a/>

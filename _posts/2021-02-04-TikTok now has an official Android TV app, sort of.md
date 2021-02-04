@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YbvUUzCm9Kz3Cwl_zScFF0-poKE=/0x0:1902x1056/1200x800/filters:focal(799x376:1103x680)/cdn.vox-cdn.com/uploads/chorus_image/image/68764227/Screen_Shot_2021_02_03_at_10.17.39_AM.0.png' width='700px' /><br/>
+TikTok has come to Google's Android TV platform, marking the short video app's latest expansion to big screens, according to 9to5Google. Though the app is currently on the Google Play Store, it seems to not be working in every region yet.
+<a href='https://www.theverge.com/2021/2/3/22264642/tiktok-android-tv-launch-not-working-google'> Source <a/>
