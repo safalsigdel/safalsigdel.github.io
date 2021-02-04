@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9lNGzrzGyJj128XUP6pRq8vdCA0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68769548/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
+In an open letter on Thursday, dozens of Democrats called on Federal Communications Commission Acting Chair Jessica Rosenworcel to expand the use of broadband funds for students struggling to stay connected and participate in remote learning.
+<a href='https://www.theverge.com/2021/2/4/22266568/markey-erate-jessica-rosenworcel-fcc-connectivity-broadband-remote-learning'> Source <a/>

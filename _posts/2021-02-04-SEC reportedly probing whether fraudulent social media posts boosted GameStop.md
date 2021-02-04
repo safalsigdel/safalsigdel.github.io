@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8SFo3f5CrolL05UbGoalg6Mqb_8=/0x0:4015x2677/1200x800/filters:focal(1370x991:2012x1633)/cdn.vox-cdn.com/uploads/chorus_image/image/68765216/gamestop_stock_sean_hollister.0.jpg' width='700px' /><br/>
-The Securities and Exchange Commission is looking into whether misinformation posted on social media was used to boost the stocks of GameStop and AMC, according to Bloomberg. The commission is also said to be reviewing trading data as part of its probe into potential market manipulation.
-<a href='https://www.theverge.com/2021/2/3/22264960/sec-gamestop-amc-probe-fraudulent-social-media-posts'> Source <a/>
