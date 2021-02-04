@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PSZGGrp2Do7jklLEk3DbybJIC5k=/0x0:2040x1530/1200x675/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/68767654/cfaulkner_210201_4392_0014.0.jpg' width='700px' /><br/>
+It's hard enough to be a writer, reviewer, and tech enthusiast for The Verge under normal circumstances. It's even harder when you're working out of a shared studio apartment during a pandemic. Cameron Faulkner, who not only handles our deals pages but also writes on a wide variety of topics, has somehow managed it.
+<a href='https://www.theverge.com/22264684/remote-work-desk-home-set-up-cameron-faulkner-acer-lg-tech-reporter'> Source <a/>

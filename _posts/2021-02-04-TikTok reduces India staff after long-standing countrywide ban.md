@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cyrWTCynzwCFBAehoyxgP1IVo34=/0x0:5035x3563/1200x800/filters:focal(2116x1380:2920x2184)/cdn.vox-cdn.com/uploads/chorus_image/image/68759735/1223851409.0.jpg' width='700px' /><br/>
-More than seven months after India issued a countrywide ban on TikTok, the app is significantly reducing its staffing in the country. On Tuesday, Nikkei Asia reported that TikTok was “essentially withdrawing” from India, citing sources familiar with the company.
-<a href='https://www.theverge.com/2021/2/2/22262940/tiktok-leaves-india-ban-app-china-government-security-privacy'> Source <a/>
