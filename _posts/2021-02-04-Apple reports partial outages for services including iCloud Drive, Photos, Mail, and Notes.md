@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0X24crprvZi7Ts_EqDh_wgF5g5g=/0x0:2040x1360/1200x800/filters:focal(766x579:1092x905)/cdn.vox-cdn.com/uploads/chorus_image/image/68764876/vpavic_042020_3980_0037.0.jpg' width='700px' /><br/>
-A number of Apple's cloud services are currently dealing with disruptions and partial outages, according to the company's system dashboard. Photos, iCloud Drive, iCloud Mail, Notes, Contacts, Find My, and iCloud Backups are a few of the services that have been hit by the problems, which Apple's site reflected as of 1:13PM ET (10:13AM PT) with a message acknowledging that “users may be unable to use this service.”
-<a href='https://www.theverge.com/2021/2/3/22264919/apple-icloud-cloud-service-outage-photos-contacts-notes'> Source <a/>
