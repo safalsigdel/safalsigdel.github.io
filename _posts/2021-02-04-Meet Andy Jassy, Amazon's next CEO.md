@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SzQ6mEhSQ771rIPh2x3tf3jXyVk=/0x0:4533x3022/1200x675/filters:focal(547x1301:1271x2025)/cdn.vox-cdn.com/uploads/chorus_image/image/68763688/1129882599.0.jpg' width='700px' /><br/>
-Amazon is getting a new CEO for the first time in its 27-year-history: cloud computing chief Andy Jassy, who will be replacing co-founder Jeff Bezos later this year. Jassy, currently the CEO of Amazon Web Services (AWS), is a core believer in Bezos' business philosophies and a longtime veteran of the company, having run the cloud division since its inception nearly two decades ago.
-<a href='https://www.theverge.com/2021/2/3/22264425/amazon-new-ceo-andy-jassy-replacement-jeff-bezos'> Source <a/>
