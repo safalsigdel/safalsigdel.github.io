@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4TKtkojYSjxBUawLZkHjh0TFOfE=/0x0:1200x675/1200x800/filters:focal(299x241:491x433)/cdn.vox-cdn.com/uploads/chorus_image/image/68763809/destruction_all_stars_screenshots_14_disclaimer_ps5_en_15oct20.0.jpeg' width='700px' /><br/>
-Players who have jumped into Sony's new car-smashing PS5 game Destruction AllStars may have run into a rather obnoxious issue: voice chat in the game's multiplayer matches is switched on by default.
-<a href='https://www.theverge.com/2021/2/3/22264461/destruction-allstars-voice-chat-default-turn-off-dualsense'> Source <a/>
