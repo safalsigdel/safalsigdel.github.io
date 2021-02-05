@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jGolQB-ScOebaMpdLEUOz2QZ9FI=/0x0:3936x2624/1200x800/filters:focal(1654x998:2282x1626)/cdn.vox-cdn.com/uploads/chorus_image/image/68765871/1230535253.0.jpg' width='700px' /><br/>
-After his social media platform was largely wiped off the web, Parler CEO and co-founder John Matze says he has been fired by his company's own board of directors, according to a memo obtained by Fox News and The Wall Street Journal and a text message confirmation he sent to Reuters. His LinkedIn page shows an employment end date of January 2021.
-<a href='https://www.theverge.com/2021/2/3/22265298/parlers-ceo-has-been-fired'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oQrURmpfOj91t1VGWJPp5NuJkQs=/0x0:2040x1360/1200x675/filters:focal(874x638:1200x964)/cdn.vox-cdn.com/uploads/chorus_image/image/68767652/mchin_190429_4395_0002.0.jpg' width='700px' /><br/>
-I have used a heck of a lot of laptops in the past year, and some of them are quite nice. MacBooks have nailed the “premium” look and feel for years, and I'll never waste an opportunity to gush about the build quality of Dell's XPS line.
-<a href='https://www.theverge.com/22264792/hp-spectre-x360-14-laptop-stylus-oled-review-price-specs-features'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JtftDbTfTGyHw9YdBj-poNZlXeI=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68771440/OVR_Ashe_000.0.png' width='700px' /><br/>
+Blizzard has two huge sequels in the works, but it looks like neither will launch this year. During its most recent earnings call, Activision Blizzard revealed that it doesn't expect Overwatch 2 or Diablo IV to be part of its 2021 financials, suggesting both will launch in 2022 or later.
+<a href='https://www.theverge.com/2021/2/4/22267131/diablo-4-overwatch-2-release-date-2022-activision-blizzard-earnings'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xH4xB0-kCUQA6gJe5cO-KquiEz4=/0x0:1000x1000/1200x800/filters:focal(420x420:580x580)/cdn.vox-cdn.com/uploads/chorus_image/image/68770229/MD818.0.jpeg' width='700px' /><br/>
+Apple's charging cables aren't exactly known for their durability. They often fray after a year or two and can even break down to the point where they won't charge your device at all. (I've also noticed they can turn an increasingly sour shade of yellow.) But Apple is apparently working on some ideas to make its cables more durable, filing a patent application for a “Cable with Variable Stiffness.”
+<a href='https://www.theverge.com/2021/2/4/22266478/apple-patent-application-charging-cables-fray-stiffness-thickness'> Source <a/>

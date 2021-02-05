@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NDrztptAtYU0gKejstZK1tRUsaY=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/68767906/5Ygs1gW.0.jpg' width='700px' /><br/>
-Microsoft Viva is Microsoft's new push for helping businesses with remote work and a big bet on this new way of life becoming the norm. It's designed to act as a portal for both employees and businesses to navigate the complexities of working from home. Microsoft is launching Viva today, with parts of the platform rolling out throughout 2021.
-<a href='https://www.theverge.com/2021/2/4/22265954/microsoft-viva-platform-features-remote-work'> Source <a/>

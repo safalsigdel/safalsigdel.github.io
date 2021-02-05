@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hZ_9BS1TZz2rQs6nfvj__Mqd6wk=/0x0:3240x2160/1200x800/filters:focal(1361x821:1879x1339)/cdn.vox-cdn.com/uploads/chorus_image/image/68772648/huntsmanv2analoghero.0.jpg' width='700px' /><br/>
+Razer's latest mechanical keyboard, the $250 Huntsman V2 Analog, looks similar to the company's previous models, but the biggest differences lie in the switches. This model's optical switches support adjustable actuation (the amount of movement required to register a press), allowing for near-endless customization through Razer's Synapse software.
+<a href='https://www.theverge.com/2021/2/4/22264192/razer-huntsman-v2-analog-keyboard-release-date-price-features'> Source <a/>

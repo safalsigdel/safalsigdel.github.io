@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pBp0YMBe8SfSCe-brJKI_goHhKk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68766097/sokane_181116_3101_fremont_0053.0.jpg' width='700px' /><br/>
-The quality of Tesla's cars suffers any time the company dramatically scales up production, CEO Elon Musk admitted in a February 2nd interview. Musk also said that Tesla was making cars so fast near the end of 2020 that it was messing up the paint jobs.
-<a href='https://www.theverge.com/2021/2/3/22265351/tesla-paint-quality-production-elon-musk'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fjxqE8ANPzKxZvY3Ajl-sFY7HpU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68765368/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
-Instagram might try to emulate another element of TikTok's design with a new vertical feed for Stories, TechCrunch reports. Navigating with vertical swipes up and down would make stories behave more like Reels, the shortform video feature the company added to better compete with TikTok.
-<a href='https://www.theverge.com/2021/2/3/22264891/instagram-stories-vertical-feed-tiktok-style'> Source <a/>

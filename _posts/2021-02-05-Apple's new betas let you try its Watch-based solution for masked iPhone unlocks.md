@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D-newh-bm58ZpKhyTVwGibVxFGA=/555x0:2040x1360/1200x800/filters:focal(1128x560:1454x886)/cdn.vox-cdn.com/uploads/chorus_image/image/68771976/vpavic_4243_20201017_0216.0.0.jpg' width='700px' /><br/>
+With the upcoming release of iOS 14.5 and watchOS 7.4, Apple will let you use your Apple Watch to authenticate and unlock your iPhone while you're wearing a mask. But if you want to try the feature now, you can, as Apple has released public betas for both iOS 14.5 and watchOS 7.4.
+<a href='https://www.theverge.com/2021/2/4/22267230/apple-ios-14-5-watchos-7-4-public-beta-unlock-iphone-apple-watch-mask'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0-ih-3m8EH4Jhj48sBdfHOWB5fg=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/68770759/1061811696.0.jpg' width='700px' /><br/>
+Home DNA-testing company 23andMe will go public via special purpose acquisition company (SPAC) backed by Virgin Group founder Richard Branson, the companies announced Thursday.
+<a href='https://www.theverge.com/2021/2/4/22266661/genetic-health-23andme-public-spac-richard-branson'> Source <a/>

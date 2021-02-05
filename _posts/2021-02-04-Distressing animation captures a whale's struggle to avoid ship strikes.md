@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NNCLz1jKYAYCY6-zs5Y9lZf5fJA=/0x0:4161x2755/1200x800/filters:focal(1635x1349:2299x2013)/cdn.vox-cdn.com/uploads/chorus_image/image/68765446/1031686640.0.jpg' width='700px' /><br/>
-An eye-catching animation ricocheted across Twitter this week, showing the struggles of a single blue whale as it tried to avoid crowds of shipping vessels in the Corcovado Gulf. The animation accompanied a study published in the journal Nature this week examining the overlapping paths of ships and blue whales in the waters off Chilean Patagonia.
-<a href='https://www.theverge.com/2021/2/3/22265059/animation-blue-whales-ship-strikes'> Source <a/>

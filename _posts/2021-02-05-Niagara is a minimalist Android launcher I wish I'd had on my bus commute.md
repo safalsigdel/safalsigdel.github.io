@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o7m7FauTlLLHy_2-lxMvOn_yFbI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68771066/DSC00106.0.jpg' width='700px' /><br/>
+After a couple years of beta testing, Niagara Launcher is now available for download from the Google Play Store. It's designed to replace the default Android app drawer and home screen grid with a layout that's easier to access with one hand.
+<a href='https://www.theverge.com/2021/2/4/22266910/niagara-android-launcher-minamalist-one-hand-commute'> Source <a/>

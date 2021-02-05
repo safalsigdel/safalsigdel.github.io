@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IGjR_2w1qDJa46I-8l78NiF7sK0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68770591/acastro_200207_3900_chrome_0001.0.0.jpg' width='700px' /><br/>
+Google has apparently blocked The Great Suspender extension from Chrome, with existing users now receiving a message that it has “been disabled because it contains malware.” It's also been removed from the Chrome Web Store, with any links to it now leading to a 404 page. Some are worried about losing their tabs, but Reddit users have found a way to recover them (via XDA-Developers' Mishaal Rahman).
+<a href='https://www.theverge.com/2021/2/4/22266798/chrome-blocks-the-great-suspender-disabled-malware-tab-recovery'> Source <a/>
