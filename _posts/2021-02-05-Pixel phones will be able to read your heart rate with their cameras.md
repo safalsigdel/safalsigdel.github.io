@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V-I5asHO9yoOODVqtMevRjvpry0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68768700/akrales_201012_4137_0073.0.0.jpg' width='700px' /><br/>
-Google is adding heart and respiratory rate monitors to the Fit app on Pixel phones this month, and it plans to add them to other Android phones in the future. Both features rely on the smartphone camera: it measures respiratory rate by monitoring the rise and fall of a user's chest, and heart rate by tracking color change as blood moves through the fingertip.
-<a href='https://www.theverge.com/2021/2/4/22265004/google-pixel-camera-heart-rate-breathing-rate-sensor'> Source <a/>
