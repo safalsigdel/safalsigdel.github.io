@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Apple's MacBook Pro with the new M1 processor is one of the best-performing laptops on the market in its price range. If you are interested in picking up the latest Apple laptop for a discount, Amazon, B&H Photo, and Best Buy are selling the base model, which includes 256GB of SSD storage, for $1,199, knocking $100 off its usual retail price of $1,299.
+<a href='https://www.theverge.com/good-deals/2021/2/5/22268010/macbook-pro-m1-elgato-cam-link-4k-deal-sale'> Source <a/>

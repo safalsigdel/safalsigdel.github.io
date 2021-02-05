@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iu3mHxcZtRdGVlmNYkK_0zqzl7E=/0x0:4320x2880/1200x675/filters:focal(1815x1095:2505x1785)/cdn.vox-cdn.com/uploads/chorus_image/image/68769196/1169518004.0.jpg' width='700px' /><br/>
-Once he steps down as CEO of Amazon later this year, Jeff Bezos will have more time to focus on his “passions,” including his $10 billion Earth Fund aimed at addressing climate change. That's a huge sum that could have an outsized impact on climate action, but vulnerable communities — including those affected by Amazon's warehouses — say they've been excluded.
-<a href='https://www.theverge.com/2021/2/4/22266225/jeff-bezos-climate-change-earth-fund-amazon-pollution'> Source <a/>
