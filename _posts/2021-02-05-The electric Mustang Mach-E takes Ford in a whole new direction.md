@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mZCJ_bJTMfxwlXETiqdTquSRIWY=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22278740/sokane_210125_4386_0018.jpg' width='700px' /><br/>
-To make an all-electric Mustang is to dabble in blasphemy — doubly so if you also make it an SUV. Mustangs are known for their roaring engines, not for converting DC power to AC power. And they sure as hell aren't the kind of car you throw your family in for a trip to the zoo.
-<a href='https://www.theverge.com/22265570/mustang-mach-e-review-electric-ford-ev-photos-video'> Source <a/>

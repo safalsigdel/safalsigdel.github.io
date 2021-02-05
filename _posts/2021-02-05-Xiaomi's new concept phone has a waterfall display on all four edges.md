@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zV4iWaVDibgd2cqkRRbDxLiPGeQ=/0x0:1800x1200/1200x800/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/68773385/EtcXdw7VoAEVfih.0.jpeg' width='700px' /><br/>
+Xiaomi has announced its latest phone concept: a “quad-curved waterfall display.” This means that the unnamed phone's screen not only has deep 88-degree “waterfall” curves on the left and right sides, but on the top and bottom as well, leaving no room for ports or buttons. Xiaomi says this is intended to “extend the limits of the display to infinity” and enable “a true, port-free unibody design.”
+<a href='https://www.theverge.com/2021/2/5/22267807/xiaomi-quad-curved-waterfall-display-concept-phone-announced'> Source <a/>
