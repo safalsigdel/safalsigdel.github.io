@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/_lM4ZUhMPyqzPk-kM91GpoCqAAU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68776137/acastro_180507_1777_microsoft_0001.0.jpg' width='700px' /><br/>
-Microsoft has announced that it will suspend all donations for the upcoming 2022 election cycle for any members of Congress, state officials, and organizations who voted to object to the certification of electors in the 2020 election or supported attempting to overturn the election.
+Microsoft has announced that it will suspend all donations for the upcoming 2022 election cycle for any members of Congress, state officials, and organizations that voted to object to the certification of electors in the 2020 election or supported attempting to overturn the election.
 <a href='https://www.theverge.com/2021/2/5/22268610/microsoft-suspends-donations-politicians-overturn-2020-election'> Source <a/>
