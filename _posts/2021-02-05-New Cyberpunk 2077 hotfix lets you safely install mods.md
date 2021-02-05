@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wTWPkkSUpioXQkETWDezfXdddvM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68775696/Cyberpunk2077_Always_bring_a_gun_to_a_knife_fight_RGB_en.0.jpg' width='700px' /><br/>
+On Tuesday, Cyberpunk 2077 developer CD Projekt Red cautioned against installing mods or custom save files due to a vulnerability that could be used to “execute code on PCs.” The studio has quickly turned around a fix, though, and you should now be able to safely install mods again thanks to the 1.12 hotfix released on Friday morning.
+<a href='https://www.theverge.com/2021/2/5/22268382/cyberpunk-2077-1-12-new-hotfix-patch-mods-vulnerability-security'> Source <a/>
