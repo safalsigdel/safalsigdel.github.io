@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xEjYhxxa8azUQuNMBoXQ6hwvT68=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68770422/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
-Instagram has disabled hundreds of accounts that were stolen as part of online hacking operations designed to gain access to and sell rare and coveted usernames, the company tells The Verge. Both TikTok and Twitter also took action on some of the accounts belonging to the same hackers, reports journalist and cybersecurity expert Brian Krebs.
-<a href='https://www.theverge.com/2021/2/4/22266741/instagram-ogusers-rare-usernames-crackdown-disable-accounts-tiktok-twitter'> Source <a/>
