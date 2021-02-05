@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/irty1qFFgRvn0PsjMkMwDOLKH0w=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68767897/Sonic_Mania_Green_Hill_Zone_Concept_Design.0.png' width='700px' /><br/>
-Lego is announcing a new video game-themed set featuring Sonic the Hedgehog and characters from Sonic Mania. (If you could have told six-year-old me that someday there would be a Sonic-themed Lego set, he'd cry tears of joy.)
-<a href='https://www.theverge.com/2021/2/4/22264366/lego-sonic-mania-set-green-hill-zone-ideas'> Source <a/>

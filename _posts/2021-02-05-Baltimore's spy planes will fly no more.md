@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AiwtvyagV9qzHA0EkB2rW4ZsN5Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68773309/acastro_190204_1777_privacy_0002.0.jpg' width='700px' /><br/>
+Baltimore, Maryland city officials have unanimously voted to end the city police department's spy plane surveillance program, according to The Baltimore Sun (via Vice). Sorry, wait, the Baltimore Police Department (BPD) had a spy plane program?
+<a href='https://www.theverge.com/2021/2/5/22267303/baltimore-maryland-shut-down-spy-plane-surveillance-program-vote'> Source <a/>
