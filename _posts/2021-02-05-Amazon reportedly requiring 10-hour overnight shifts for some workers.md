@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kTlee40-Kv4HOH1Ex9LRWoT9t_c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68769528/acastro_181114_1777_amazon_hq2_0003.0.jpg' width='700px' /><br/>
-Amazon recently told workers at its in DCH1 warehouse in Chicago they had to take 10-hour overnight shifts at a new warehouse or risk losing their jobs, according to a new report from Motherboard.
-<a href='https://www.theverge.com/2021/2/4/22266369/amazon-ten-hour-overnight-shifts-warehouse-workers'> Source <a/>
