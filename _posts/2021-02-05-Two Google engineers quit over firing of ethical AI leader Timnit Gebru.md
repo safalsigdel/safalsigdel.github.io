@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r5wCYBPQzHRnc7POJhVsfN_lz-E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68770010/acastro_180130_1777_0003.0.jpg' width='700px' /><br/>
-Two Google engineers have quit over the treatment of Timnit Gebru, former co-lead of the ethical AI team. David Baker, an engineering director, said Gebru's dismissal “extinguished” his desire to remain at the company. Vinesh Kannan, a software engineer, said he was leaving because Gebru and April Christina Curley, a diversity recruiter, were “wronged.” The news was first reported by Reuters.
-<a href='https://www.theverge.com/2021/2/4/22266513/google-engineers-quit-timnit-gebru-ethical-ai-april-christina-curley-firing'> Source <a/>
