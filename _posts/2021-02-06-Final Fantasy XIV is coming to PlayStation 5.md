@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rXcqrvMeI48yMdhyY55b2IdYehY=/0x0:600x338/1200x800/filters:focal(252x121:348x217)/cdn.vox-cdn.com/uploads/chorus_image/image/68779637/FFXIV_PUB_Announcement_Showcase_05.0.png' width='700px' /><br/>
+Final Fantasy XIV is coming to PlayStation 5, developer Square-Enix announced Friday. An open beta will start April 13th.
+<a href='https://www.theverge.com/2021/2/6/22269813/final-fantasy-xiv-ps5-open-beta'> Source <a/>
