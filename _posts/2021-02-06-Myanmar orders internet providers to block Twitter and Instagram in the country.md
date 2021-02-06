@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FrDiVy1qqRM37qGWChO3UQqf32E=/0x0:2998x2000/1200x800/filters:focal(1260x761:1738x1239)/cdn.vox-cdn.com/uploads/chorus_image/image/68779777/1300658954.0.jpg' width='700px' /><br/>
+Not long after it blocked Facebook, Myanmar has now ordered mobile networks and internet service providers to block Twitter and Instagram in the country as well. The southeast Asian country's military seized power in a coup earlier this week, detaining its civilian leader Aung San Suu Kyi along with other government officials.
+<a href='https://www.theverge.com/2021/2/6/22269831/myanmar-orders-block-twitter-facebook-instagram-military-coup'> Source <a/>
