@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rY58hH7txzfuZr7O1dKs6zg9IzY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68771541/akrales_170802_1743_0198.0.jpg' width='700px' /><br/>
-Like other online platforms, Pinterest reaped the benefits of an uptick in e-commerce advertising during the holiday season.
-<a href='https://www.theverge.com/2021/2/4/22266974/pinterest-fourth-quarter-revenue-holiday-growth-creators'> Source <a/>

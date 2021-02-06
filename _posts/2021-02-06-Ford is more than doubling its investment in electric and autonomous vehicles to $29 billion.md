@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KvDdT-PBYrJn6moiYj-Qhx96jhM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68771760/sokane_210125_4386_1753.0.jpg' width='700px' /><br/>
-Ford is increasing its investment in electric and autonomous vehicles to $29 billion, the company's top executives said in an earnings call Thursday. The automaker had previously committed to spend $11.5 billion on electrifying its vehicle lineup through 2022. Now, Ford says it will spend double that amount, while extending the timeline to 2025.
-<a href='https://www.theverge.com/2021/2/4/22267195/ford-electric-autonomous-investment-29-billion'> Source <a/>

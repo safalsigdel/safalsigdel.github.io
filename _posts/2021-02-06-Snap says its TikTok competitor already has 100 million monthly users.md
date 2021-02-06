@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iJRY2VdZaZkzLJ6foBgOHSOi6rI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68771025/snapChatPattern_BW.0.jpg' width='700px' /><br/>
-Snap says its TikTok competitor, Spotlight, had 100 million users in January 2021, just two months after it launched. The figure would suggest a surprisingly successful debut for the service, which has taken over the rightmost tab inside of Snapchat.
-<a href='https://www.theverge.com/2021/2/4/22266970/snap-spotlight-100-million-mau-q4-2020-earnings'> Source <a/>

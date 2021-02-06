@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Okay, screenwriters, directors, authors, and production companies — we get it. You have some experience telling stories about Wall Street, the video game industry, or social networks, and you see some mighty big dollar signs in the true tale of how Reddit managed to drive an ailing video game retailer's stocks to completely ridiculous highs through sheer power of will plus a David versus Goliath narrative that probably doesn't hold up under close examination.
+<a href='https://www.theverge.com/tldr/22268952/gamestop-stock-stonks-reddit-wallstreetbets-movies-tv-shows-hbo-netflix'> Source <a/>

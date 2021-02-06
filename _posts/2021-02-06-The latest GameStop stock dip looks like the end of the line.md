@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XhKCdiiuGi9CnKGM6byJyOPCamY=/0x0:1100x796/1200x800/filters:focal(462x310:638x486)/cdn.vox-cdn.com/uploads/chorus_image/image/68771382/GameStop_Store_Front_0.0.jpg' width='700px' /><br/>
-When GameStop's stock price fell by over 50 percent on Tuesday, closing at $90, we weren't sure if it was going to pick back up or keep going down. It seems we now have our answer, as GME is down another 41 percent, closing today at just $53.50.
-<a href='https://www.theverge.com/2021/2/4/22266684/gamestop-stock-gme-down-dip-falling-wallstreetbets-reddit'> Source <a/>

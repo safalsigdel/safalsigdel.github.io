@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zOCSRNdbQuaRT64G2m9BQjsr2Ek=/0x0:2040x1360/1200x800/filters:focal(638x334:964x660)/cdn.vox-cdn.com/uploads/chorus_image/image/68777897/dseifert_190826_3622_0017.0.jpg' width='700px' /><br/>
+Sonos is preparing for the release of a new product that, according to FCC documentation, is likely to be the company's second portable speaker with a rechargeable battery. The unannounced device, listed at the FCC as model number S27, is shown in testing diagrams to have a wireless charging dock and offer both Bluetooth and Wi-Fi 5 (802.11ac) wireless technology.
+<a href='https://www.theverge.com/2021/2/5/22269050/sonos-fcc-filing-mini-move-portable-bluetooth-speaker'> Source <a/>

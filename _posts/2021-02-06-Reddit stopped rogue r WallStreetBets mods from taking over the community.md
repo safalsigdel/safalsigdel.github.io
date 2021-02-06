@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0B7cb0jf_cOmzTcaFObDSHdkBw8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68778142/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
+Reddit's r/WallStreetBets has grown significantly due to the community's role in driving up the stock prices of companies like GameStop, AMC, and Nokia, and the whole saga has garnered so much attention that there are currently many movies and a TV show in the works. But that increased attention has also put strain on the r/WallStreetBets community itself, forcing Reddit to step in to help sort things out.
+<a href='https://www.theverge.com/2021/2/5/22269093/reddit-r-wallstreetbets-rouge-mod-moderator-takeover'> Source <a/>

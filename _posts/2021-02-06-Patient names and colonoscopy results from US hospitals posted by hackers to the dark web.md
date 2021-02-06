@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OzD6217LDWFPRE8yiibTvc4eFOw=/0x0:2130x1420/1200x800/filters:focal(895x540:1235x880)/cdn.vox-cdn.com/uploads/chorus_image/image/68776985/VRG_ILLO_1777_AK_body_data.0.0.jpg' width='700px' /><br/>
+Patients of two US hospital chains had their names, birthdays, and colonoscopy results posted on the dark web after a hack, reported NBC News. The tens of thousands of files released were from patients at Leon Medical Centers in Miami and Nocona General Hospital in Texas.
+<a href='https://www.theverge.com/2021/2/5/22268778/hospital-hack-patient-data-colonoscopy'> Source <a/>
