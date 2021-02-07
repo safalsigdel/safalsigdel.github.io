@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Gi_tDcOBbNY3PDccmk0LPYK3NxY=/0x0:2040x1360/1200x675/filters:focal(877x603:1203x929)/cdn.vox-cdn.com/uploads/chorus_image/image/68782948/vpavic_4278_20201030_0206.0.jpg' width='700px' /><br/>
+When my colleague Andrew Webster reviewed the PlayStation 5, he explained how Sony's next-generation of video games is something you can't see — you have to touch. Part of that is how the amazing DualSense controller's clever motorized triggers and intensely precise vibrations can recreate the crunching sensation of strutting across a sandy beach or the pitter-patter of rain.
+<a href='https://www.theverge.com/circuitbreaker/2021/2/7/22269634/how-sony-designed-ps5-dualsense-playstation-symbol-microtexture'> Source <a/>

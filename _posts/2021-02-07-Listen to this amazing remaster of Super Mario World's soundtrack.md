@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Fans are remastering the soundtrack to Super Mario World, creating uncompressed versions of the original tracks that were never possible on the Super Nintendo hardware. The Super Mario World Restored project is ongoing, but you can already listen to nine tracks from the original game over on The Brickster's YouTube channel.
-<a href='https://www.theverge.com/tldr/2021/2/5/22267967/super-mario-world-restored-soundtrack-audio-samples-gigaleak'> Source <a/>
