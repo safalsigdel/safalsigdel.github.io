@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PKSUAEwxiDxU_cGwwPMerUf-Icg=/0x0:5000x3333/1200x800/filters:focal(2166x1635:2966x2435)/cdn.vox-cdn.com/uploads/chorus_image/image/68780257/1227801650.0.jpg' width='700px' /><br/>
+The Consumer Finance Protection Bureau is investigating money transfer app Venmo over the way it handles collections, a new regulatory filing shows. First reported by The Wall Street Journal, the filing shows Venmo owner PayPal received a Civil Investigative Demand from the CFPB on January 21st, “related to Venmo's unauthorized funds transfers and collections processes, and related matters.”
+<a href='https://www.theverge.com/2021/2/6/22269970/consumer-protection-agency-investigating-venmo-paypal-collections'> Source <a/>
