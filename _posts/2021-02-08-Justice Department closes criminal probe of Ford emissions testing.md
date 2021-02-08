@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E0zSgv-rqpfpYP_DZ9oaodNOgo0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68776437/acastro_200406_1777_ford_0001.0.0.jpg' width='700px' /><br/>
-The Department of Justice (DOJ) has closed a nearly two-year investigation into the process Ford uses to evaluate the emissions of its vehicles, the automaker disclosed in a new filing with the Securities and Exchange Commission (SEC). Ford says it “cooperated fully” with the probe, but no action was taken.
-<a href='https://www.theverge.com/2021/2/5/22268639/doj-ford-emissions-testing-investigation-closed-epa-carb'> Source <a/>
