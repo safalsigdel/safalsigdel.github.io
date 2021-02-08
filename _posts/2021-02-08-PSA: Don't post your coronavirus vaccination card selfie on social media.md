@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-1-UJAyS0MDcZHhC29Dsw_3mY_8=/0x0:5200x3466/1200x800/filters:focal(2041x1317:2873x2149)/cdn.vox-cdn.com/uploads/chorus_image/image/68781081/1299969115.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/fDmR0nQjZ6lmuJ_V2Z_vuyV_qzU=/0x0:4559x3165/1200x800/filters:focal(1723x2162:2451x2890)/cdn.vox-cdn.com/uploads/chorus_image/image/68781081/1299320748.5.jpg' width='700px' /><br/>
 Look I know this pandemic has been a long, depressing slog, and even if you've masked up, done the social distancing, and have managed to stay virus-free, we're all good and frazzled at this point. So it's understandable that now that we have vaccines available, everyone's impatient to get one.
 <a href='https://www.theverge.com/2021/2/6/22270400/coronavirus-vaccine-card-selfie-social-media'> Source <a/>

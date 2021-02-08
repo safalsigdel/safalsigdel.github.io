@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KRr6_MYjKdisJ-2AfOqsQo4CdzY=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/68785054/reddit.0.jpg' width='700px' /><br/>
+You could have been forgiven for missing Reddit's Super Bowl ad tonight — it was only five seconds long. The ad mostly consisted of a text message that would've been pretty difficult to read in the moment, claiming that the company spent its “entire marketing budget on five seconds of airtime.”
+<a href='https://www.theverge.com/2021/2/7/22271797/reddit-super-bowl-ad-five-seconds-gamestop'> Source <a/>
