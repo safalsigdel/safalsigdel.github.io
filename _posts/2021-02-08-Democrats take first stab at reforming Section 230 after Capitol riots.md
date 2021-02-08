@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VdyhMie_guKhLaNtSNKROo2rwxo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68775340/eschaff_181023_3061_0013.0.jpg' width='700px' /><br/>
-Senate Democrats unveiled a new bill Friday that could force tech giants like Facebook and Google to be held more accountable for harmful content that leads to real-world violence.
-<a href='https://www.theverge.com/2021/2/5/22268368/democrats-section-230-moderation-warner-klobuchar-facebook-google'> Source <a/>
