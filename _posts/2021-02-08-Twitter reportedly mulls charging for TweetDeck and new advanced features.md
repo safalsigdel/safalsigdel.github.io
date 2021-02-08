@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_1Sffte5PoLxxlyIfq0fUFgG7SI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68786800/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Teams inside Twitter are researching ways for the company to offer paid subscriptions, which could include charging money for access to TweetDeck, Bloomberg reports. TweetDeck is a popular alternative to the main Twitter website and mobile app that allows users to more efficiently manage multiple accounts and organize Twitter into a series of easier-to-read vertical feeds.
+<a href='https://www.theverge.com/2021/2/8/22272364/twitter-premium-subscriptions-tweetdeck-undo-send-tipping-ads'> Source <a/>

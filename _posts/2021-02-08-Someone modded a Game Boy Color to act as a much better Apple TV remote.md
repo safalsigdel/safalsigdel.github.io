@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Most people who have used the Apple TV Siri remote have probably craved something that isn't so darn frustrating to use — but most of us haven't modded a Game Boy Color to work as one (via Gizmodo). That's exactly what Italian YouTuber Otto Climan did, and while his project looks sleek as all get-out, it's surprising how well it works using the Game Boy's original hardware.
-<a href='https://www.theverge.com/circuitbreaker/22268724/apple-tv-remote-game-boy-color-mod'> Source <a/>
