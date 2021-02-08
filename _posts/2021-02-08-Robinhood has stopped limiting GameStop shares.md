@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xMJdc0z_2srxxZEh6o1xC_g4Hbs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68775731/acastro_210129_1777_robinhood_0001.0.jpg' width='700px' /><br/>
-Robinhood has finally lifted all the restrictions on WallStreetBets-fueled stocks like GameStop and AMC, according to a report on Friday from Reuters. The company currently lists no limits on its support document entitled “Changes due to ongoing market volatility,” whereas last week, there were 50-plus companies included on the list.
-<a href='https://www.theverge.com/2021/2/5/22268396/robinhood-gamestop-shares-limit-stop'> Source <a/>

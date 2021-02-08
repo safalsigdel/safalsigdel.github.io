@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cG_BKnV6tNlTQqXuKTLHJHkoZt4=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22288892/Etj1c86XYAAlZz8.jpg' width='700px' /><br/>
+Leaked images of the unannounced OnePlus 9 Pro suggest the flagship smartphone will include a Hasselblad-branded camera array. The images shared in a recent Dave Lee YouTube video show four cameras on the rear of the phone. These include wide-angle, ultra-wide, and telephoto lenses, the latter of which appears to offer up to a 3.3x optical zoom.
+<a href='https://www.theverge.com/2021/2/8/22272052/oneplus-9-pro-hasselbland-quad-rear-cameras-ultrawide-telephoto-zoom-specs'> Source <a/>
