@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-jUHF3EKQ0EsRQaInGc1px2BBOQ=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/68777132/destruction_all_stars_screenshots_19_disclaimer_ps5_en_15oct20.0.jpeg' width='700px' /><br/>
-Sony released the car-smashing game Destruction AllStars exclusively for the PlayStation 5 on Tuesday, but it shipped with one very annoying feature: voice chat in multiplayer matches was turned on by default, meaning you could be subject to the unfiltered comments and background noise from your opponents. And worse, it wasn't immediately obvious how to turn voice chat off.
-<a href='https://www.theverge.com/2021/2/5/22268854/destruction-allstars-voice-chat-default-sony-lucid-games-hotfix'> Source <a/>
