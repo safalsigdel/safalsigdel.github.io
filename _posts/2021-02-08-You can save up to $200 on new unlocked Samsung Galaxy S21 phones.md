@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Samsung's new line of Galaxy S21 smartphones launched less than two weeks ago, but Amazon, B&H Photo, and Best Buy have already marked down the phones to their lowest prices to date, with up to $200 in savings.
+<a href='https://www.theverge.com/good-deals/2021/2/8/22272255/samsung-galaxy-s21-plus-ultra-amazon-best-buy-deal-sale'> Source <a/>

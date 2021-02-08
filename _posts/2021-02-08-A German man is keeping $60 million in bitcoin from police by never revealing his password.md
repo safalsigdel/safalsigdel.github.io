@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-The wonderful thing about bitcoin is many of its apparent benefits, like the ability to be anonymously owned and securely transferred, are also the things that often create situations like this: police in Germany have seized more than xe2x82xac50 million ($60 million) in bitcoin, but they can't access any of it because, as Reuters reports, the person they took it from won't tell them his password.
-<a href='https://www.theverge.com/tldr/2021/2/5/22268646/german-police-bitcoin-digital-wallet-missing-password'> Source <a/>
