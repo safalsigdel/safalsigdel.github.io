@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FgR8TTvpphN4jvqYykp7qPZpvU8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68785943/acastro_180430_1777_tesla_0002.0.jpg' width='700px' /><br/>
+Tesla says it has invested $1.5 billion in the bitcoin cryptocurrency. The electric car manufacturer filed its annual 10-K report with the SEC this morning, and revealed the new bitcoin investment. Tesla says it will also “begin accepting bitcoin as a form of payment for our products in the near future.”
+<a href='https://www.theverge.com/2021/2/8/22272103/tesla-bitcoin-investment-1-5-billion-cryptocurrency-payments'> Source <a/>
