@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/V0ung818wZMxUCDyuUGzfq4TvRQ=/0x0:4240x2832/1200x800/filters:focal(1781x1077:2459x1755)/cdn.vox-cdn.com/uploads/chorus_image/image/68791164/1146396255.0.jpg' width='700px' /><br/>
-Huawei founder and CEO Ren Zhengfei has called for a reset in relations between the US and the Chinese tech giant. Speaking to international media in China for the first time in more than a year, Ren expressed willingness to speak with President Biden and said he hoped for an “open policy” from the new administration.
+Huawei founder and CEO Ren Zhengfei has called for a reset in relations between the US and the Chinese tech giant. Speaking to international media in China for the first time in more than a year, Ren expressed willingness to speak with President Biden and said he hoped for “open policies” from the new administration.
 <a href='https://www.theverge.com/2021/2/9/22273729/huawei-ceo-ren-zhengfei-biden-trump-us-sanctions'> Source <a/>
