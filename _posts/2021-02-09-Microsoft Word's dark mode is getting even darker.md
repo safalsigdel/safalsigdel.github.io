@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vTG-6M61MJO9XMyZBWrGEzvjouQ=/0x0:1024x155/1200x0/filters:focal(0x0:1024x155):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22291775/dark_mode_switch_modes_1024x155.png' width='700px' /><br/>
+Microsoft is improving the dark mode in Word to make it even darker. The software maker has started testing an update to Word that will color entire documents in a dark canvas. Currently, Word has a dark mode that modifies the ribbon and toolbars, but the canvas stays bright white. A future update to Word will include the ability to switch the canvas into dark mode, too.
+<a href='https://www.theverge.com/2021/2/9/22274181/microsoft-word-dark-mode-canvas-update-beta'> Source <a/>
