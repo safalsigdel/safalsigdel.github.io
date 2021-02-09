@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Vq9mO0Y9juk7_fQJ9RetNIky_g0=/0x0:2040x1360/1200x800/filters:focal(702x749:1028x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/68792818/akrales_191106_3774_0085.0.jpg' width='700px' /><br/>
+Companies looking to make a name in podcasting have mostly done so by spending lots of money on flashy names, big acquisitions, and valuable content libraries. But increasingly, the audio itself, and the recording techniques used to capture it, are becoming the selling point.
+<a href='https://www.theverge.com/2021/2/9/22273072/podcast-audio-3d-dolby-atmos-iheart-qcode'> Source <a/>
