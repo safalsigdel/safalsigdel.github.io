@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KZAf8FMBmklm7hb26IUp26du3UU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68790996/snapchat-stock-0963.0.0.jpg' width='700px' /><br/>
+Snap is introducing a new feature it's calling Friend Check Up. On Snapchat, having someone friended could give them access to your story and even possibly your location, depending on your Snap Map settings, so Snap wants to make sure that everyone on your friends list is still someone you actually want to call your friend.
+<a href='https://www.theverge.com/2021/2/9/22273507/snapchat-privacy-feature-friend-check-up'> Source <a/>
