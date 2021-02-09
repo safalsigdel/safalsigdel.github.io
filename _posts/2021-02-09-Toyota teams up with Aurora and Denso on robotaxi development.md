@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bR3wPqa-qrJ2Ev_81AhKKQsauy8=/0x0:3937x2625/1200x800/filters:focal(1655x999:2283x1627)/cdn.vox-cdn.com/uploads/chorus_image/image/68793641/Aurora_Sienna_2.0.jpg' width='700px' /><br/>
+It's 2021 and we're still finding unique ways to pair up to develop self-driving cars. The latest is between Toyota, AV startup Aurora, and auto part supplier Denso. The three companies will join forces to develop a fleet of robotaxis, with the first hitting the road by the end of this year.
+<a href='https://www.theverge.com/2021/2/9/22274640/toyota-aurora-denso-self-driving-car-robotaxi'> Source <a/>
