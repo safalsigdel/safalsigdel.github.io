@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dH1eg9hwNoRs0U731RR01J3V290=/0x0:2040x1361/1200x675/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/68793787/A210286_large.0.jpg' width='700px' /><br/>
+Audi has announced the E-Tron GT, an expensive new high-performance electric sedan built on technology developed for Porsche's first EV, the Taycan.
+<a href='https://www.theverge.com/2021/2/9/22274376/audi-etron-gt-rs-electric-car-specs-price'> Source <a/>
