@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QTZKNFBFWFXOLLvedjvdyejsg_o=/0x0:1000x625/1200x800/filters:focal(420x233:580x393)/cdn.vox-cdn.com/uploads/chorus_image/image/68791296/cyberpunk_2077_artwork.0.jpg' width='700px' /><br/>
+CD Projekt says it's been hacked by attackers who've been able to access its internal network, encrypt some devices, and collect “certain data” from the Polish video game company. The Cyberpunk 2077 developer says it will not give in to the demands or negotiate with the attacker, and does not believe any personal data of players or service users has been compromised.
+<a href='https://www.theverge.com/2021/2/9/22274035/cd-projekt-hack-source-code-cyberpunk-2077-witcher-3-encrypt-data-ransom'> Source <a/>

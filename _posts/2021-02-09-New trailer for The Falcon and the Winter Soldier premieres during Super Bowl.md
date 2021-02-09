@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ER0KgQ40631CIxIT2KTeUZ8oJI0=/0x0:757x379/1200x800/filters:focal(319x130:439x250)/cdn.vox-cdn.com/uploads/chorus_image/image/68784751/falcon.0.jpg' width='700px' /><br/>
-We had an inkling that there might be big movie news during the Super Bowl and there was: Marvel released a new trailer for The Falcon and The Winter Soldier, a six-episode series that debuts on Disney Plus March 19th.
-<a href='https://www.theverge.com/2021/2/7/22271660/new-falcon-winter-soldier-trailer-premieres-during-super-bowl'> Source <a/>
