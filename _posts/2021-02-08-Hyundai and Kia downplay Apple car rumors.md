@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MtgxG8n8vP3sceflAME3warpYtA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68784986/akrales_180329_2351_1103.0.jpg' width='700px' /><br/>
-After weeks of speculation, Hyundai and subsidiary Kia have again sought to downplay rumors and reporting that they are working with Apple on an autonomous electric car project. The companies say they are no longer in talks, according to Reuters and Bloomberg, though that doesn't mean the discussions won't reopen later.
-<a href='https://www.theverge.com/2021/2/7/22271748/hyundai-apple-car-talks-stopped-report'> Source <a/>

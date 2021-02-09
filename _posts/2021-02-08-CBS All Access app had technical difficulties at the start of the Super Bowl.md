@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TspSagShl_t5wEPn7D94HNlKcuA=/0x0:1020x676/1200x800/filters:focal(429x257:591x419)/cdn.vox-cdn.com/uploads/chorus_image/image/68784703/cbs-logo-stock_1020.0.jpg' width='700px' /><br/>
-CBS All Access app appeared to be having problems as users tried to watch Super Bowl LV on Sunday. Users reported seeing an error message that read the app was “experiencing technical difficulties” and that “an error has occurred.”
-<a href='https://www.theverge.com/2021/2/7/22271648/cbs-all-access-app-problems-super-bowl'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yNvbl6eYzJa_6x4DeeeoJ30x9Wc=/0x0:5011x3341/1200x800/filters:focal(2106x1271:2906x2071)/cdn.vox-cdn.com/uploads/chorus_image/image/68787185/1228195075.0.jpg' width='700px' /><br/>
+Rep. Carolyn Maloney (D-NY), chair of the House Oversight Committee, is demanding documents from the free speech social network Parler related to its financing after last month's deadly attack on the Capitol.
+<a href='https://www.theverge.com/2021/2/8/22272562/parler-carolyn-maloney-fbi-financing-mercers-trump'> Source <a/>

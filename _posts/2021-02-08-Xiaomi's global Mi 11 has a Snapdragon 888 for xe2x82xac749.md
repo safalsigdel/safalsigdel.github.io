@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L5D4tCqKQOdCoOQ0Q_4DDndrlTc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68785867/DSCF7497.0.jpg' width='700px' /><br/>
-Xiaomi is announcing the international version of its Mi 11 flagship phone today after an earlier release in China. No wild waterfall displays or sci-fi wireless charging here — this device is very much in keeping with the Mi series' MO of offering high specs at a competitive price.
-<a href='https://www.theverge.com/2021/2/8/22272003/xiaomi-mi-11-international-price-release-date-announcement'> Source <a/>

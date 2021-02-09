@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tlVJTgvIBKqI5qwP1E9QBz-cQJk=/0x0:2700x1585/1200x800/filters:focal(1134x577:1566x1009)/cdn.vox-cdn.com/uploads/chorus_image/image/68788642/chowbotics.0.jpg' width='700px' /><br/>
+DoorDash has acquired salad-making robot startup Chowbotics, the companies announced Monday. Financial terms of the deal weren't disclosed, but the Chowbotics team have all become DoorDash employees, and the company will operate independently within DoorDash.
+<a href='https://www.theverge.com/2021/2/8/22272746/doordash-chowbotics-acquisition-salad-robot'> Source <a/>

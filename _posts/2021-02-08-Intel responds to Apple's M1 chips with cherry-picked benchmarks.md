@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vdAU3_Y1Z4bIUs8OsM2j6JUDa7s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68785676/vpavic_4291_20201113_0366.0.0.jpg' width='700px' /><br/>
-The PC industry response to Apple's new M1 chips has been rather quiet, until now. Intel is hitting back at Apple's new M1 MacBooks with some benchmarks of its own, after early reviews showed impressive performance and battery life from Apple's ARM-based chips.
-<a href='https://www.theverge.com/2021/2/8/22272041/intel-apple-macbook-m1-performance-benchmarks-processors'> Source <a/>

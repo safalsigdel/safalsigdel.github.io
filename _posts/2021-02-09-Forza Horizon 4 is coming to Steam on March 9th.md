@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4Gbh_edTI7cJznLDXhfZj6XRRo4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68787874/FH4_Steam_Hero.0.jpg' width='700px' /><br/>
+Microsoft is bringing Forza Horizon 4 to Steam on March 9th. It marks the first time the Forza franchise has been available on Steam, and it will include crossplay with players on Xbox consoles, the regular Windows 10 version, and those streaming Forza Horizon 4 through xCloud.
+<a href='https://www.theverge.com/2021/2/8/22272067/forza-horizon-4-steam-release-date-microsoft'> Source <a/>

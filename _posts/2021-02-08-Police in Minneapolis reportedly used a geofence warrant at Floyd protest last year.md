@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KY7vuWFAzaKS6XdKVCtoxiL1LKE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68783184/acastro_170621_1777_0008.0.jpg' width='700px' /><br/>
-Police in Minneapolis got a search warrant that ordered Google to provide account data on people who were near a protest that turned violent two days after the killing of George Floyd last year, TechCrunch reported.
-<a href='https://www.theverge.com/2021/2/7/22271068/police-minneapolis-geofence-warrant-george-floyd-protests-google'> Source <a/>

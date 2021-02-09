@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5VXIokJb1hUTb4oaGljF8SjiC9k=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/68778194/Boring_tunnel__2.0.jpg' width='700px' /><br/>
-Elon Musk told Miami's mayor Friday that The Boring Company could dig a two-mile tunnel under the city for as little as $30 million — a fraction of the $1 billion price tag once quoted by local transit officials. Musk also told the Mayor that The Boring Company could complete the job in six months, versus the original four year estimate.
-<a href='https://www.theverge.com/2021/2/5/22269188/elon-musk-boring-company-miami-tunnel-mayor-francis-suarez'> Source <a/>

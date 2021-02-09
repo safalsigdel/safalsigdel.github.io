@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MFhsOoJcyG4qF0HuxF7K--UkYRo=/0x0:800x447/1200x800/filters:focal(336x160:464x288)/cdn.vox-cdn.com/uploads/chorus_image/image/68787395/RomTerraria__800px.0.jpeg' width='700px' /><br/>
+Andrew Spinks, the co-creator of Terraria, announced that his studio would no longer be working on a Google Stadia port of the game, he announced on Twitter earlier today. The reason: his studio, Re-Logic, has been locked out of its associated Google and YouTube accounts for “over three weeks” without any explanation and with little recourse from the company.
+<a href='https://www.theverge.com/2021/2/8/22272502/terraria-google-stadia-port-canceled-deceloper-locked-out'> Source <a/>

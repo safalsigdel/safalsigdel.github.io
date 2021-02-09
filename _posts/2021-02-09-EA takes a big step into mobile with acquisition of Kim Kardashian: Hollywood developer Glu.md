@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OPx0w62Bqc5XWlYIqXIzzULL0OM=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/68789168/970613582.0.jpg' width='700px' /><br/>
+EA is making a big move into the world of mobile gaming with the acquisition of Glu Mobile, a developer best known for its work on celebrity-focused titles, based on stars like Katy Perry and Kim Kardashian. Its portfolio also includes popular titles like Design Home, Covet Fashion, and MLB Tap Sports Baseball. EA says that once the deal is closed, it will have acquired Glu for “$2.1 billion in enterprise value.”
+<a href='https://www.theverge.com/2021/2/8/22273187/ea-glu-mobile-acquisition-kim-kardashian-hollywood'> Source <a/>

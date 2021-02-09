@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-da5BCtSdqejj4opkb7lwuZVoe4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68787988/acastro_190531_1777_e3_lede.0.jpg' width='700px' /><br/>
+The Entertainment Software Association has announced that E3 2021 is happening this year, and it could be going digital, according to Video Games Chronicle. The event will be held from June 15th through June 17th.
+<a href='https://www.theverge.com/2021/2/8/22272758/e3-2021-digial-dates-announcement-esa'> Source <a/>

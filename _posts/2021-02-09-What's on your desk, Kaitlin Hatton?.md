@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5z_iGlsFLuXtzLjo2_FfuzKiesI=/0x0:2040x1362/1200x480/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/67375087/khatton_200826_4171_0010_2.0.jpg' width='700px' /><br/>
+Like many businesses, the staff of The Verge has largely decamped to our homes. Starting in early March, we packed up our laptops and headphones, and we are now working from home offices, dining room tables, desks set up in the corners of bedrooms, or living room sofas.
+<a href='https://www.theverge.com/21409065/remote-work-desk-setup-from-home-office-tech'> Source <a/>

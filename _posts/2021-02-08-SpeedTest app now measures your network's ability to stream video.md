@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5PnD5dZRLQ1EOXY8n_2vriMlV8U=/0x38:1017x624/1200x800/filters:focal(428x258:590x420)/cdn.vox-cdn.com/uploads/chorus_image/image/68785864/end_of_test_2.0.jpg' width='700px' /><br/>
-SpeedTest's iOS app can now benchmark your internet's video streaming quality, Ookla announced today. While the service typically checks general connection metrics like maximum download and upload speeds and latency, the new test is focused specifically on video. It attempts to stream at a variety of resolutions, and then measures load times and buffering.
-<a href='https://www.theverge.com/2021/2/8/22272018/speedtest-video-streaming-benchmark-4k-1440p-1080p-ookla-ios'> Source <a/>

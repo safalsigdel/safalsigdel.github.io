@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-A31jVradlHsY5Oo7glnq602RRI=/0x0:2539x1692/1200x800/filters:focal(1067x643:1473x1049)/cdn.vox-cdn.com/uploads/chorus_image/image/68789393/aurora7hero.0.jpg' width='700px' /><br/>
+A company called Expanscape has created the most Inspector Gadget-like device that I've ever seen. It's a laptop prototype called the Aurora 7 (a working title), and attached to its humongous black box of a chassis are six extra displays that extend out in every direction away from the main screen, each showing its own windows and applications.
+<a href='https://www.theverge.com/2021/2/8/22273056/expanscape-aurora-7-seven-screen-laptop'> Source <a/>

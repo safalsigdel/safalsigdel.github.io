@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H0cc-AyiFcOEQxBnL9QN_yEAqZw=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/68785628/1288829858.0.jpg' width='700px' /><br/>
-Elon Musk is putting up $100 million as part of a new X Prize Foundation competition focused on carbon removal technology. The contest, announced Monday morning, will run for four years and is open to teams around the globe.
-<a href='https://www.theverge.com/2021/2/8/22245100/elon-musk-100-million-carbon-capture-removal-x-prize-competition'> Source <a/>
