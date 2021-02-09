@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iEHo7zNPH6DqKgdQV-tif3sy4KY=/0x0:1636x920/1200x800/filters:focal(688x330:948x590)/cdn.vox-cdn.com/uploads/chorus_image/image/68792398/1_SmzBzHMl2wygmhoz_KWrGg.0.jpg' width='700px' /><br/>
+Visible, the Verizon-owned MVNO, is adding some new services that make using it just a bit more like subscribing to one of the big wireless carriers. Starting today, Visible now supports activating service via eSIM. It only works with recent, compatible iPhones, but Visible says it will add support for Android devices soon. The company also is offering 5G service (with limits) and free calling and messaging to Canada and Mexico.
+<a href='https://www.theverge.com/2021/2/9/22269306/visible-5g-esim-verizon-mvno'> Source <a/>
