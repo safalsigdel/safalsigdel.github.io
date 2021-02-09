@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w-vYZAt55D4ZQ3FYLpCL6wH1tK0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68791531/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
+Reddit will double the number of employees it has over the course of this year to around 1,400 after raising $250 million in a new funding round, the company has announced. Reddit currently has around 700 employees globally. Over 600 are based in the US, according to CNBC, where it has offices in San Francisco, New York, LA, and Chicago.
+<a href='https://www.theverge.com/2021/2/9/22274077/reddit-funding-round-250-million-double-employees-investment'> Source <a/>
