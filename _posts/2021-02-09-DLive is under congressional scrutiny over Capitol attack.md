@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C6n2pzy52J6kbugfsG_5ATN_3jU=/0x0:5312x3543/1200x800/filters:focal(2232x1348:3080x2196)/cdn.vox-cdn.com/uploads/chorus_image/image/68792058/1228194598.0.jpg' width='700px' /><br/>
+After last month's deadly pro-Trump attack on the Capitol, lawmakers are investigating the role DLive, one of the video-streaming platforms used to broadcast the riot, played in financing the violence.
+<a href='https://www.theverge.com/2021/2/9/22274169/dlive-capitol-riot-attack-extremism-video-baked-alaska'> Source <a/>
