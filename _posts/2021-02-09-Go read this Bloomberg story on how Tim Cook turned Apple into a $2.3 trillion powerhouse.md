@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mcrS_qLgBCkW67nmoZeqywDyhLE=/0x0:4000x2667/1200x800/filters:focal(1743x482:2383x1122)/cdn.vox-cdn.com/uploads/chorus_image/image/68792738/1183490758.0.jpg' width='700px' /><br/>
+Much has been said and written over the years about the post-Steve Jobs era of Apple and whether CEO Tim Cook's operations-heavy approach to running the iPhone maker has proved more or less successful than Jobs' at times cutthroat dealmaking and his obsessive, detail-oriented product development.
+<a href='https://www.theverge.com/22274333/apple-tim-cook-china-bloomberg-steve-jobs'> Source <a/>
