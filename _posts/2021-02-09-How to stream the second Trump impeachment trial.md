@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NuUFNtwfSG-GgB-RynZjGzZEbTA=/0x0:5678x3785/1200x800/filters:focal(1824x734:2732x1642)/cdn.vox-cdn.com/uploads/chorus_image/image/68793524/1231062522.0.jpg' width='700px' /><br/>
-The second impeachment trial of former President Donald Trump begins today. Trump was charged with incitement of insurrection by the House after the attack on the Capitol last month. House impeachment managers and Trump's legal team will debate the constitutionality of the case today. After a Senate vote, which will likely pass, both sides will begin opening arguments on Wednesday.
-<a href='https://www.theverge.com/2021/2/9/22274561/donald-trump-impeachment-trial-watch-live-stream-online-start-time-congress'> Source <a/>
