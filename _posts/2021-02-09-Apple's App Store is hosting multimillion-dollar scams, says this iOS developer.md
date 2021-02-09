@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OnJgH-KncLDCag-Fl9DOk2FMBus=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68788372/acastro_20200818_1777_epicApple_0004.0.0.jpg' width='700px' /><br/>
-Mobile app developer Kosta Eleftheriou has a new calling that goes beyond software development: taking on what he sees as a rampant scam problem ruining the integrity of Apple's App Store.
-<a href='https://www.theverge.com/2021/2/8/22272849/apple-app-store-scams-ios-fraud-reviews-ratings-flicktype'> Source <a/>
