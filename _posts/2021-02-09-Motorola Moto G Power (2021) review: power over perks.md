@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iuAzdnXPolPTkt161Arv2tpic48=/0x0:2040x1360/1200x675/filters:focal(989x603:1315x929)/cdn.vox-cdn.com/uploads/chorus_image/image/68793085/ajohnson_210205_4399_0003.0.jpg' width='700px' /><br/>
+The Motorola Moto G Power is a $200 phone that does exactly what it claims — powers you through multiple days of use — but don't expect any other bells or whistles.
+<a href='https://www.theverge.com/22268805/motorola-moto-g-power-2021-review'> Source <a/>

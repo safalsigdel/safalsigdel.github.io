@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fHQ8izPdR1v1-3jYxV3I7X97VHE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68789187/acastro_180608_1777_net_neutrality_0001.0.jpg' width='700px' /><br/>
-The Justice Department dropped its 2018 lawsuit challenging California's state net neutrality rules on Monday, removing one of the law's major roadblocks preventing it from going into effect.
-<a href='https://www.theverge.com/2021/2/8/22273185/justice-department-drops-california-net-neutrality-lawsuit-ajit-pai'> Source <a/>
