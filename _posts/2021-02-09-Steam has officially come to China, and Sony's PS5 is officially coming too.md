@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vVsnwIcHvpuSUuZ_p_cypefujpc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68790205/acastro_180509_1777_steam_0003.0.jpg' width='700px' /><br/>
-Though the international version of Steam has been available in China for years, an official Chinese release of the the popular PC gaming platform has now debuted (via analyst Daniel Ahmad). If Chinese gamers needed more reason to celebrate, Sony also announced that the PlayStation 5 will be coming to the country soon.
-<a href='https://www.theverge.com/2021/2/8/22273273/steam-official-china-client-ps5-launch'> Source <a/>

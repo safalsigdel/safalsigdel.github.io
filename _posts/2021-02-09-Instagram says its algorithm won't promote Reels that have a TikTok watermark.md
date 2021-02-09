@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MV9gQ0u6wfulr0xbRoNLBevs5pY=/0x0:3206x2032/1200x800/filters:focal(1347x760:1859x1272)/cdn.vox-cdn.com/uploads/chorus_image/image/68793703/Reels_IOSX_3.0.png' width='700px' /><br/>
+Instagram's newest guidance for creators makes one thing clear: the platform wants people to stop posting recycled TikToks to Reels. Today, Instagram says it's making changes to its algorithm and how it recommends Reels to users. Along with that, it's issuing new best practices on its @creators account to give Instagram users tips on how to make content that's likely to be seen and promoted.
+<a href='https://www.theverge.com/2021/2/9/22274332/instagram-algorithm-tiktok-watermark-recommendation-software-best-practices'> Source <a/>

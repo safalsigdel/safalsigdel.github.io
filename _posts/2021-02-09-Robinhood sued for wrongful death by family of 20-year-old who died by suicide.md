@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M0B1FVHZxvM1L38EH24akUrKp7U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68790594/acastro_210201_1777_robinhood_0002.0.jpg' width='700px' /><br/>
-Last June, 20-year-old Alex Kearns died by suicide, blaming stock trading app Robinhood for his death. He mistakenly believed he'd lost $730,000, and that the company was coming for more than $170,000 of that money in a matter of days. His family now agrees that it was Robinhood's fault — on Monday, they sued the company for wrongful death.
-<a href='https://www.theverge.com/2021/2/8/22273600/robinhood-alex-kearns-wrongful-death-lawsuit-stock-options-trading'> Source <a/>
