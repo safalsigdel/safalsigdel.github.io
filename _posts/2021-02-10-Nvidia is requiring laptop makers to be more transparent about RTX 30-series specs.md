@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2_3Jk64OVPXfBaBRLWBAzUq3ZrE=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/68774776/cfaulkner_210121_4379_0007.0.jpg' width='700px' /><br/>
+Update February 10th, 10:31AM ET: The bullet list at the bottom now reflects that Gigabyte has updated all of its product pages with the required information about the RTX 30-series graphics chips its laptops use.
+<a href='https://www.theverge.com/2021/2/5/22266921/nvidia-requiring-companies-share-clock-speed-power-gaming-laptop-rtx-30-series-gpu-specs'> Source <a/>
