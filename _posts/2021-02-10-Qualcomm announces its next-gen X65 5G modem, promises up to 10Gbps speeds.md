@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bASUTEHhJmhrWgR3Rg1Nqe_xBNo=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/68791692/Untitled.0.png' width='700px' /><br/>
-Qualcomm has announced its latest 5G modem — the Snapdragon X65, a successor to last year's Snapdragon X60 which just started to hit devices as part of the Snapdragon 888 chipset. Qualcomm promises that the new modem will be much, much faster, with support for up to 10Gbps speeds on both standalone and non-standalone 5G networks (assuming your carrier supports it, that is.)
-<a href='https://www.theverge.com/2021/2/9/22274127/qualcomm-x65-5g-modem-10gbps-speeds-ai-tuning-software-updates'> Source <a/>

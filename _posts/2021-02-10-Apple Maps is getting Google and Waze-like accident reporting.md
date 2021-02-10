@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gXxjg1uzrOyWUGYlJ2l0y7mLzt0=/0x0:1125x1956/1200x800/filters:focal(471x1640:651x1820)/cdn.vox-cdn.com/uploads/chorus_image/image/68796028/IMG_0765.0.jpeg' width='700px' /><br/>
+Apple is bringing accident, hazard, and speed check reporting to Apple Maps. The feature is currently only available to users with the iOS 14.5 beta, and is similar to user-reporting features found in Waze and Google Maps.
+<a href='https://www.theverge.com/2021/2/9/22275558/apple-maps-beta-accident-speed-trap-reporting'> Source <a/>

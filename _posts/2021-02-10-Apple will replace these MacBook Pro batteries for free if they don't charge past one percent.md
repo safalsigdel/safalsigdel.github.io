@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MyOqhN47lPqlQuUXJB-5VYVLUt0=/0x0:2040x1360/1200x800/filters:focal(1076x498:1402x824)/cdn.vox-cdn.com/uploads/chorus_image/image/68795964/vpavic_161031_1256_0264.0.0.jpg' width='700px' /><br/>
+Apple has launched a new, free battery replacement program for 2016 and 2017 MacBook Pros that won't charge past one percent. The issue affects “a very small number of customers,” according to Apple.
+<a href='https://www.theverge.com/2021/2/9/22275582/apple-free-replacement-program-macbook-pro-batteries-2016-2017-one-percent'> Source <a/>

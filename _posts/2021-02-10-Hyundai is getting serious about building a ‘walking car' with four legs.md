@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OH7zs1Gsb09kK2LnO7tVui40OJU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68795493/006.0.jpg' width='700px' /><br/>
+Who needs an Apple car when you've got one with four legs? Hyundai, which recently acquired a controlling stake in robot maker Boston Dynamics, rolled out a new version of its four-legged “walking car” concept that it first unveiled in 2019.
+<a href='https://www.theverge.com/2021/2/9/22274297/hyundai-walking-car-tiger-umv-concept-autonomous'> Source <a/>

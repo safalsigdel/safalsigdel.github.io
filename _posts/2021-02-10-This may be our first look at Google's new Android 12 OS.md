@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BALz3YBIFGq9Qlq28lh89kILE78=/0x0:2036x1400/1200x800/filters:focal(856x538:1180x862)/cdn.vox-cdn.com/uploads/chorus_image/image/68791442/android12conversationswidget.0.jpg' width='700px' /><br/>
-A series of leaked images may offer a first look at Google's Android 12 update. XDA-Developers has published screenshots from what is said to be from an “early draft” of documents Google distributes to Android partners. The screenshots, which XDA-Developers says haven't been fully confirmed, include what appears to be new UI changes, alongside a new privacy indicator and conversation widget.
-<a href='https://www.theverge.com/2021/2/9/22274071/google-android-12-ui-screenshots-privacy-indicator-conversations-widget-leak-rumor'> Source <a/>

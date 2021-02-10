@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y9rRicq_cqqSRPLEO7BVLYNg4b0=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/68795426/paramount_plus.0.jpg' width='700px' /><br/>
+CBS All Access is set to transform into Paramount Plus on March 4th, but you won't be able to watch it if you own a second- or third-generation Apple TV. The company announced that it won't update its app for those devices when the streaming service relaunches next month, as spotted by MacRumors.
+<a href='https://www.theverge.com/2021/2/9/22275293/cbs-all-access-paramount-plus-apple-tv-third-second-gen-discontinued-march-4th'> Source <a/>

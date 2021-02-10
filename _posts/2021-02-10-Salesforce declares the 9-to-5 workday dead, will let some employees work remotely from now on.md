@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-sFtyYR1g4K9KKtwVUfuFfiB8y8=/0x0:5027x3565/1200x800/filters:focal(1989x433:2793x1237)/cdn.vox-cdn.com/uploads/chorus_image/image/68795434/1275529322.0.jpg' width='700px' /><br/>
+Cloud computing company Salesforce is joining other Silicon Valley tech giants in announcing a substantial shift in how it allows its employees to work. In a blog post published Tuesday, the company says the “9-to-5 workday is dead” and that it will allow employees to choose one of three categories that dictate how often, if ever, they return to the office once it's safe to do so.
+<a href='https://www.theverge.com/2021/2/9/22275304/salesfore-remote-work-9-to-5-workday-is-dead-flex-coronavirus'> Source <a/>

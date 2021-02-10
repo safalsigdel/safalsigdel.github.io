@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_St22kNoZ4hPkLcWMTP4yeny6FI=/0x0:2700x1801/1200x800/filters:focal(1134x685:1566x1117)/cdn.vox-cdn.com/uploads/chorus_image/image/68794645/1__1_.0.jpeg' width='700px' /><br/>
+Weber is expanding its line of internet-connected grills to encompass its popular gas models, including the company's entry-level Spirt lineup, offering Bluetooth and Wi-Fi connectivity for tracking temperature and an integrated digital display.
+<a href='https://www.theverge.com/2021/2/9/22274773/weber-connect-smart-gas-grills-wifi-bluetooth-displays'> Source <a/>

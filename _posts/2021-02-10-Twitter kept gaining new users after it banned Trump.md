@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QXN4HKQNZEWkNgydWUbXC7Oxmbo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68795193/vpavic_210111_4366_0237.0.jpg' width='700px' /><br/>
+Twitter doesn't need Donald Trump to keep growing. The company said today that it ended 2020 with 192 million daily users, and the figure continued to grow in January — the month when Trump was banned from the platform. Twitter didn't offer a specific daily usage figure for January, but it said daily user growth was “above the historical average from the last four years.”
+<a href='https://www.theverge.com/2021/2/9/22275079/twitter-trump-ban-daily-user-growth-q4-2020-earnings'> Source <a/>
