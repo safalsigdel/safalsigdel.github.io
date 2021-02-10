@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YrMCT3JgW41qdJjWjYM19hMrgjU=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/68799047/Fitbit_Charge_4_Core_Black_Rosewood_v2_Screens_Cropped.0.jpg' width='700px' /><br/>
+Fitbit is offering a major update for some of its current smartwatches. As detailed by Wareable, the company is making new health data available to Charge 4 users and expanding access to previously paywalled information to more users. Fitbit, recently acquired by Google, continues its trend of supporting devices well after launch with feature updates and fixes to keep them fresh.
+<a href='https://www.theverge.com/2021/2/10/22276338/fitbit-update-charge-4-health-metrics'> Source <a/>
