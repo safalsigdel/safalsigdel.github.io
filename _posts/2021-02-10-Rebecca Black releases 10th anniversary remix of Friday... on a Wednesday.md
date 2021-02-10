@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AIaYbBpLFh2Q6qFyffB-vToKV-0=/0x0:708x708/1200x800/filters:focal(289x133:401x245)/cdn.vox-cdn.com/uploads/chorus_image/image/68798878/Screen_Shot_2021_02_10_at_8.07.18_AM.0.png' width='700px' /><br/>
+Rebecca Black has released a 10th anniversary remix of her viral hit “Friday.” Yes, somehow, the original song came out 10 years ago, and I have never felt so old. The original song came out on February 10th, 2011, which weirdly means this new version of “Friday” happens to be released on a Wednesday morning.
+<a href='https://www.theverge.com/2021/2/10/22276365/rebecca-black-10th-anniversary-remix-friday-wednesday'> Source <a/>

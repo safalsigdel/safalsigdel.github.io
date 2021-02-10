@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-The same people who originally brought Android to the Nintendo Switch, the Switchroot team, are back with an Android 10 update, according to XDA-Developers. While the mod is only available for certain Switch models, it allows users who install it to run apps from the Google Play Store, like games, emulators, and streaming services like Netflix and Twitch.
-<a href='https://www.theverge.com/circuitbreaker/2021/2/9/22274635/nintendo-switch-android-10-lineage'> Source <a/>
