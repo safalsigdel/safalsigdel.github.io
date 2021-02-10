@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w1CjmYRTlb8OVWex_82vY2RMVHE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68798913/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+Former President Donald Trump will not be returning to Twitter at any point in the future, according to the company's chief financial officer. In an interview with CNBC's Squawk Box program on Wednesday, Twitter CFO Ned Segal said that running for public office again would not reverse the ban the company handed out to Trump in the aftermath of the US Capitol riot on January 6th.
+<a href='https://www.theverge.com/2021/2/10/22276457/twitter-trump-ban-permanent-not-reversible-impeachment-acquitted'> Source <a/>
