@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JFDa4RFd7QTWdnHrJdliUZE_ras=/0x0:4800x3200/1200x800/filters:focal(2016x1216:2784x1984)/cdn.vox-cdn.com/uploads/chorus_image/image/68793417/1231051872.0.jpg' width='700px' /><br/>
-Super Bowl 2021 will go down in history for a few things, including being the most-streamed NFL game ever, but it had the lowest numbers in over a decade in terms of viewership. CBS Sports reports that this year's NFL championship drew in a total audience of 96.5 million viewers, with streaming in particular up by 65 percent compared to last year.
-<a href='https://www.theverge.com/2021/2/9/22274255/super-bowl-55-2021-most-streamed-nfl-game-record'> Source <a/>
