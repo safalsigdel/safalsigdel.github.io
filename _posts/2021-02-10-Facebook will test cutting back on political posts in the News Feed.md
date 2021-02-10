@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D8vIhlzgs94dAaSocrTHxAfkJi8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68797500/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook plans to test how people respond to seeing fewer posts about politics in the News Feed. Starting this week, Facebook will “temporarily reduce” political posts for a “small percentage” of people in Canada, Brazil, and Indonesia, with a test in the US following some weeks later. The tests will continue for the next few months.
+<a href='https://www.theverge.com/2021/2/10/22276076/facebook-political-posts-reduce-news-feed-tests'> Source <a/>
