@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9xwwGJ3uUNo01trm7PnhiYcnNIc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68794407/acastro_190411_1777_Disney_Streaming_0003.0.0.jpg' width='700px' /><br/>
-Disney is shutting down Blue Sky Studios, the animation house responsible for the Ice Age movies, according to Deadline. The reason cited by a studio spokesperson is the “current economic realities,” likely referring to COVID, which has hit the movie industry in a number of ways.
-<a href='https://www.theverge.com/2021/2/9/22274899/disney-blue-sky-studios-shut-down-ice-age-animation-nimona'> Source <a/>
