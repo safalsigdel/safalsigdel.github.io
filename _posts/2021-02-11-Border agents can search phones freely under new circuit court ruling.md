@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pePsaMGuIOI4yBUjAt6WjZt11T0=/0x0:3000x1974/1200x800/filters:focal(1260x747:1740x1227)/cdn.vox-cdn.com/uploads/chorus_image/image/68798997/1229742498.0.jpg' width='700px' /><br/>
-A US appeals court has ruled that Customs and Border Protection agents can conduct in-depth searches of phones and laptops, overturning an earlier legal victory for civil liberties groups. First Circuit Judge Sandra Lynch declared that both basic and “advanced” searches, which include reviewing and copying data without a warrant, fall within “permissible constitutional grounds” at the American border.
-<a href='https://www.theverge.com/2021/2/10/22276183/us-appeals-court-first-circuit-border-phone-search-decision-fourth-amendment'> Source <a/>
