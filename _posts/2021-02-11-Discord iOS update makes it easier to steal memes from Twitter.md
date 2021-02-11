@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Meme thieves rejoice! Discord's latest update on iOS adds a new option to make it easier to save images from Twitter embeds, handy if you want to save memes from tweets dropped in the server. Or, as the changelog for version 60.0 of the iOS app puts it, “Meme-stealing powers are about to go super saiyan.” To use it, long press on the tweet in question, and then select “Save Image.” It's a lot simpler than the workarounds people were previously forced to use.
+<a href='https://www.theverge.com/tldr/2021/2/11/22277855/discord-ios-update-twitter-image-embed-save-meme-stealing'> Source <a/>
