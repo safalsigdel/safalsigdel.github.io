@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zJDDgNKLFt7PRbSIBIsCz2dRFIs=/0x0:750x566/1200x800/filters:focal(315x223:435x343)/cdn.vox-cdn.com/uploads/chorus_image/image/68803746/0000006645024004451024264.0.jpg' width='700px' /><br/>
+It's no secret the pandemic has taken a huge toll on the theater industry, but some chains are getting clever to offset some of these losses. BBC reports that CGV, the largest cinema company in South Korea, has been allowing gamers to rent its screens for two-hour chunks, costing $90 before 6PM, then going up to $135 later in the evening.
+<a href='https://www.theverge.com/2021/2/11/22278096/cgv-theater-screens-rental-gaming-azitx-south-korea-pandemic'> Source <a/>

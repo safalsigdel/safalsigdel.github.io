@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Dtxvubo1MUGdUdM_EbLHtZToSZY=/0x0:2094x1552/1200x800/filters:focal(880x609:1214x943)/cdn.vox-cdn.com/uploads/chorus_image/image/68799529/Screen_Shot_2021_02_10_at_2.01.44_PM.0.png' width='700px' /><br/>
-HP announced today that it has refreshed its Pavilion x360 line of 14- and 15-inch convertible laptops, making them smaller, lighter, and more geared toward streaming entertainment. The 15-inch version is available today. With an 11th Gen Intel Core i3 processor, 8GB of memory, and 256GB of storage, it starts at $750. The 14-inch version will be available later this spring; no pricing was available.
-<a href='https://www.theverge.com/2021/2/10/22276459/hps-pavilion-x360-convertible-laptops-streaming'> Source <a/>
