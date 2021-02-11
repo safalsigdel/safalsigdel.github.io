@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rReW6vIBSqDGYpHkMebPpU6_Zk4=/0x0:3752x2501/1200x800/filters:focal(1576x951:2176x1551)/cdn.vox-cdn.com/uploads/chorus_image/image/68801907/1205218466.0.jpg' width='700px' /><br/>
+Pedro Pascal, who you might recognize as The Mandalorian himself, has been cast as Joel in HBO's TV adaptation of The Last of Us, as first reported by Deadline. The casting was confirmed shortly after by The Last of Us creative director (and an executive producer and writer for the show) Neil Druckmann.
+<a href='https://www.theverge.com/2021/2/10/22277687/mandalorian-star-pedro-pascal-joel-hbo-the-last-of-us-tv-show'> Source <a/>
