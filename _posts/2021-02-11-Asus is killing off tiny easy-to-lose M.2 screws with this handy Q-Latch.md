@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YVAO_HILN7oPyDATnIjGeT00Uzs=/0x0:933x688/1200x0/filters:focal(0x0:933x688):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22295529/asus_q_connector.jpg' width='700px' /><br/>
-Is there anything worse than repeatedly dropping the super tiny screw that lets you install an M.2 solid-state drive in your PC? Yes, but it's definitely up there on the list — and now, Asus has a solution.
-<a href='https://www.theverge.com/2021/2/10/22276815/asus-m2-screw-q-latch-motherboard-z590-b560'> Source <a/>
