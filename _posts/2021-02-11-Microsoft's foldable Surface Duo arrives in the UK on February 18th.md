@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GZCLkH6wLTjLlykt7r6vmg1pVGk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68803218/vpavic_4176_20200905_0038.0.jpg' width='700px' /><br/>
+Microsoft is bringing its foldable Surface Duo device to the UK on February 18th. It's the first time the dual-screen Surface Duo has been available outside the US, for both businesses and consumers. Priced from xc2xa31,349, the Surface Duo will be available at the Microsoft Store in the UK and retailer Currys PC World.
+<a href='https://www.theverge.com/2021/2/11/22278035/microsoft-surface-duo-uk-release-date-price-features'> Source <a/>
