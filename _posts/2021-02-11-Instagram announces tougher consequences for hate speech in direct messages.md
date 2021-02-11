@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/05MhnjmnoB0qvxSP6Cj1ziyB1CU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68799199/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
-Instagram is toughening its stance on hate speech in direct messages. The company announced today that it'll start disabling the accounts of people who repeatedly send hateful messages. First-time offenders won't be able to send messages for an undefined period of time, but if they send hateful messages again, their account will be disabled.
-<a href='https://www.theverge.com/2021/2/10/22276491/instagram-direct-message-hate-speech-account-disabled-policy'> Source <a/>
