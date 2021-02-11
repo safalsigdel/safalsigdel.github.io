@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fo3VLK_6CCrKploqbUfeXv9q2hQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68800291/acastro_170621_1777_0001_fin.0.jpg' width='700px' /><br/>
+The hackers who targeted video game developer CD Projekt Red (CDPR) with a ransomware attack are now auctioning off the stolen source code they acquired for a payday of potentially millions of dollars.
+<a href='https://www.theverge.com/2021/2/10/22276664/cyberpunk-witcher-hackers-auction-source-code-ransomware-attack'> Source <a/>

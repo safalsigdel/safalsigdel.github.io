@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LI7NqtKEBnPCdZB8hrnP0t_LcjQ=/0x0:2000x1121/1200x800/filters:focal(840x401:1160x721)/cdn.vox-cdn.com/uploads/chorus_image/image/68795554/prepear_apple.0.jpg' width='700px' /><br/>
-Last August, the routine story of a trademark opposition captured the world's imagination, when Apple declared that Super Healthy Kids (yes, that's the real name of a company) shouldn't be allowed to trademark its pear logo because it might “cause dilution of the distinctiveness” of Apple's own famous fruit-shaped intellectual property.
-<a href='https://www.theverge.com/2021/2/9/22275395/apple-prepear-logo-super-healthy-kids-settlement'> Source <a/>

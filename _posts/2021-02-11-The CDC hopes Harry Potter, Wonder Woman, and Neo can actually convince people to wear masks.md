@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t5yzOcW7tWvojD6XcDlN4vuzPw4=/0x0:2326x1352/1200x0/filters:focal(0x0:2326x1352):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22295922/Screen_Shot_2021_02_10_at_5.24.39_PM.png' width='700px' /><br/>
+Wearing a mask is one of the easiest things individual people can do to help prevent the spread of COVID-19, and the Centers for Disease Control and Prevention is partnering with WarnerMedia in the hopes that fan-favorite characters like Harry Potter, Wonder Woman, the Joker, and Imperator Furiosa can convince people to mask up.
+<a href='https://www.theverge.com/2021/2/10/22277114/cdc-warnermedia-mask-ad-campaign-harry-potter-wonder-woman-neo-covid-19'> Source <a/>

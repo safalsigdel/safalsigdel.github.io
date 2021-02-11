@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EL6DoUzXfnUq4x5j8NJktdog2e8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68799407/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
+Facebook, a company known for ripping its ideas from competitors, has reportedly set its sights on social audio. The New York Times reports today that the company is working on a copycat of Clubhouse, the buzzy invite-only social audio startup. The Times reports the product is in the “early stages of development,” so it's unclear if and when it might launch.
+<a href='https://www.theverge.com/2021/2/10/22276645/facebook-clubhouse-social-audio-app-develop'> Source <a/>

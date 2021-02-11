@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HlaFxlO1O--af_6g6N0iG_5CvTM=/0x0:1147x769/1200x800/filters:focal(483x294:665x476)/cdn.vox-cdn.com/uploads/chorus_image/image/68799458/capture.0.png' width='700px' /><br/>
+Google is testing a dark mode for desktop search, Google confirmed to The Verge. If the test has rolled out to you and your system is set to dark mode, the background of Google's search pages will be a very dark gray.
+<a href='https://www.theverge.com/2021/2/10/22276553/google-search-dark-mode-desktop'> Source <a/>

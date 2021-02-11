@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JNCXl9B_kThpguo34mT6JC4JRzU=/0x0:6658x3512/1200x800/filters:focal(2797x1224:3861x2288)/cdn.vox-cdn.com/uploads/chorus_image/image/68800808/Screen_Shot_2021_02_10_at_4.26.19_PM.0.png' width='700px' /><br/>
+Toyota will finally introduce its first mass-market all-electric vehicles in the United States later this year, the world's leading automaker announced Wednesday, though it offered no further details about vehicle type or pricing.
+<a href='https://www.theverge.com/2021/2/10/22187113/toyota-electric-vehicles-us-suv-debut-hybrids'> Source <a/>

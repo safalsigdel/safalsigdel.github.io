@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w5wYhnek3iYlUz3zi4WlmGCaKYo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68799739/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
+Twitter has refused an order from the Indian government to block certain Twitter accounts, including ones from politicians, activists, and journalists that were critical of the government's response to a protest carried out in the country's capital in January.
+<a href='https://www.theverge.com/2021/2/10/22276479/twitter-free-speech-india-protests-government-block-orders'> Source <a/>

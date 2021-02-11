@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Satechi has launched a double-sided charger that can wirelessly charge an Apple Watch or AirPods — but not both at once — while hopefully saving you from the added clutter of extra cables. The Satechi USB-C Watch AirPods Charger features a Qi charging pad shaped like an AirPods Pro charging case on one side, and a charging “puck” for an Apple Watch on the other. The charger is available now, exclusively from Apple for $49.95.
-<a href='https://www.theverge.com/circuitbreaker/2021/2/9/22275296/satechi-double-sided-wireless-charger-apple-watch-airpods'> Source <a/>

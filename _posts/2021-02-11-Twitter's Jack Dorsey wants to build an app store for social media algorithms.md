@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ipLNb0DiTOIWbJiis44FZKqxtfM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68795785/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter CEO Jack Dorsey imagines a future where you get to choose what you see on social media by picking out your favorite recommendation algorithm, rather than relying on a single controlling company to get it exactly right.
-<a href='https://www.theverge.com/2021/2/9/22275441/jack-dorsey-decentralized-app-store-algorithms'> Source <a/>

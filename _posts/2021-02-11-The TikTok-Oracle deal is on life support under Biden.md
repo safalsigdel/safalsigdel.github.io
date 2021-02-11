@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FTI_fI0y5y4Vs_V6927zpRRvdAU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68798019/acastro_190723_1777_tiktok_0003.0.0.jpg' width='700px' /><br/>
-Nearly five months after it was announced, a proposed hosting deal between Oracle and TikTok is on permanent hold, according to a report by The Wall Street Journal. The deal has been “shelved indefinitely” pending a broader review of the Trump administration's China policy, says the Journal, citing sources familiar with the situation.
-<a href='https://www.theverge.com/2021/2/10/22276090/tiktok-oracle-deal-biden-trump-ban-china-bytedance-white-house'> Source <a/>

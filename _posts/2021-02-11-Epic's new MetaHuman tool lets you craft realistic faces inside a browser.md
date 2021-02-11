@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Epic Games has announced a new, browser-based software tool powered by its Unreal Engine called the MetaHuman Creator that can craft highly realistic human faces and help power more realistic body movements and facial animations. Epic provided a sneak peek at the platform today in a pair of YouTube videos showing off examples of creations built using the MetaHuman Creator, and “metahuman” appears to be the term the company is using to describe this brand of virtual, non-real individual.
-<a href='https://www.theverge.com/2021/2/10/22276265/epic-games-digital-human-creator-unreal-engine-realistic-human-faces'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9L2ITKeo1UYXFQtDCUUUpRYd1Hw=/0x0:1900x1750/1200x800/filters:focal(719x327:1023x631)/cdn.vox-cdn.com/uploads/chorus_image/image/68797966/Barbara_with_towel.0.png' width='700px' /><br/>
-The latest absurd YouTube video to do the rounds is that of a lawyer named Rod Ponton who accidentally attended a civil hearing on Zoom wearing a cat filter (and couldn't figure out how to turn it off).
-<a href='https://www.theverge.com/22276091/zoom-snap-camera-filter-how-to-youtube-cat'> Source <a/>
