@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TJQnjCiXfzDh5BoHfjm6HVO2Kjg=/0x0:1536x1024/1200x800/filters:focal(646x390:890x634)/cdn.vox-cdn.com/uploads/chorus_image/image/68808287/ps5__360__01_fd79c03e79f568f3a5f1969a45374077.0.jpg' width='700px' /><br/>
+It's fair to say the PlayStation 5's huge, two-tone industrial design is not for everyone, and now Dbrand says it has a solution. The company best known for its custom phone skins and cases has put “Darkplates” on sale, with the promise that the precisely carved slabs of plastic will turn your PS5 into a murdered-out matte-black hunk of hardware.
+<a href='https://www.theverge.com/2021/2/12/22279685/matte-black-ps5-faceplates-on-sale-dbrand-sue-us-sony'> Source <a/>
