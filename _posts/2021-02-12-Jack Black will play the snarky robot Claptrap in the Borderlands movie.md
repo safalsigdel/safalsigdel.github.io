@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kFvwgGQV_o1X8TFApSZfNB4vIIY=/0x0:9000x6000/1200x800/filters:focal(3821x1938:5205x3322)/cdn.vox-cdn.com/uploads/chorus_image/image/68804830/1207441412.0.jpg' width='700px' /><br/>
-Jack Black is set to play snarky robot Claptrap in the upcoming Borderlands movie, according to The Hollywood Reporter, Deadline, Variety, and other publications. He joins what's turning out to be an all-star cast, which also includes Jamie Lee Curtis, Kevin Hart, and Cate Blanchett.
-<a href='https://www.theverge.com/2021/2/11/22278513/jack-black-claptrap-borderlands-movie'> Source <a/>
