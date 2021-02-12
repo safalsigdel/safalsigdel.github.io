@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ild2y9WfkoH_ITnE5s5s_Zv4674=/81x0:1199x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/68805263/reddit_notice.0.png' width='700px' /><br/>
-My preferred way to surf Reddit is via the mobile website. It lets me quickly check a few of my favorite subreddits to see which posts are bubbling up. Since I'm not usually logged in, it helps me manage my screen time, too; you can only scroll down so far in comment threads until Reddit prompts you to enter your username and password. I take that as a sign that I've scrolled far enough and move on.
-<a href='https://www.theverge.com/22275453/reddit-app-pop-up-turn-off-view-page-mobile'> Source <a/>
