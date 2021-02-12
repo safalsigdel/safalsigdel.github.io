@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y__XBvZnyTGOYnbitbZq3aqRdbs=/0x0:2560x1923/1200x800/filters:focal(1131x765:1539x1173)/cdn.vox-cdn.com/uploads/chorus_image/image/68805872/GeForce_GTX_1050_Ti_Partner_EVGA.0.png' width='700px' /><br/>
-PCWorld has confirmed that Nvidia is planning on releasing stock of GTX 1050 Ti and RTX 2060 GPUs to its board partners in an attempt to deal with the stock shortages and sky-high prices of its newer 30-series cards. At the moment, it's not just new cards that people are having trouble getting their hands on — it's any modern graphics card at all.
-<a href='https://www.theverge.com/2021/2/11/22278562/nvidia-rtx-2060-gtx-1050-ti-gpu-shortage-global-chip'> Source <a/>
