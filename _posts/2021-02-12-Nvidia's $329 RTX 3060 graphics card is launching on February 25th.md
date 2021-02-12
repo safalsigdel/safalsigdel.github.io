@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w9VUb76iNitlYV7aklxilRE_Mtw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68810680/acastro_180529_1777_nvidia_0001.0.0.jpg' width='700px' /><br/>
+We already knew that Nvidia was making a $329 RTX 3060 graphics card. And today, Nvidia announced that it will make its most affordable GPU in the RTX 3000 series available at retailers beginning February 25th. Retailers will open orders for the RTX 3060 starting at 9AM PT / 12PM ET. Nvidia tells The Verge it will not be creating a Founder's Edition of the RTX 3060 graphics card.
+<a href='https://www.theverge.com/2021/2/12/22280277/nvidia-rtx-3060-graphics-card-release-date-time'> Source <a/>
