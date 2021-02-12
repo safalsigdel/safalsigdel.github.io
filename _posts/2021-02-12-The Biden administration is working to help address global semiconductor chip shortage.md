@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_ZkOurK3jdKAR3FfZMpsyUsYjjQ=/0x0:1020x677/1200x800/filters:focal(429x258:591x420)/cdn.vox-cdn.com/uploads/chorus_image/image/68804656/vs09-02_0831cxs-2.0.0.png' width='700px' /><br/>
-The White House has pledged to help address the ongoing global semiconductor shortage, with President Joe Biden said to be signing an executive order to conduct a supply chain review along with developing a long-term strategy to avoid future shortages, via Bloomberg.
-<a href='https://www.theverge.com/2021/2/11/22278431/biden-administration-global-semiconductor-chip-shortage-executive-order'> Source <a/>
