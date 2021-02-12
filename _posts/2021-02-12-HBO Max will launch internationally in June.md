@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IOY38MZqRwUfly1l3VuStbpLPlU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68803996/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
-HBO Max will finally make its international debut in June, with the streaming service set to launch in Latin America and the Caribbean. Currently, HBO Max is only available in the United States.
-<a href='https://www.theverge.com/2021/2/11/22278287/hbo-max-international-launch-june-2021-latin-america-europe-warnermedia-streaming'> Source <a/>
