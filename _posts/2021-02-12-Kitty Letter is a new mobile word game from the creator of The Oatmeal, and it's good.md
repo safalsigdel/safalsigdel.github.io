@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zIrHWobsIiN-vUQ94W4pkw8wkQ0=/0x0:601x338/1200x800/filters:focal(253x121:349x217)/cdn.vox-cdn.com/uploads/chorus_image/image/68805999/header.0.png' width='700px' /><br/>
-Matthew Inman, the creator of The Oatmeal webcomics and popular card game Exploding Kittens, has released a free mobile word game called Kitty Letter. Inman describes it as “Scrabble combined with Clash Royale.”
-<a href='https://www.theverge.com/2021/2/11/22278773/kitty-letter-mobile-game-ios-android-the-oatmeal-exploding-kittens'> Source <a/>
