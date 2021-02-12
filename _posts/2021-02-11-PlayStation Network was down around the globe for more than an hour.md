@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e6ns3GhsxzgPxZaPa9MRyB1qhRI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68801371/vpavic_191127_untitled_0059_Edit.0.jpg' width='700px' /><br/>
-Sony's PlayStation Network experienced a global outage on Wednesday evening that appeared to last for more than an hour. On the PlayStation Network status page, every service except PlayStation Video was marked as experiencing issues.
-<a href='https://www.theverge.com/2021/2/10/22277439/sony-playstation-network-global-outage'> Source <a/>

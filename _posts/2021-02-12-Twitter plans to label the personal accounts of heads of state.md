@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/exg16joePVp2TG5nikoJrA9siJE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68805613/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Beginning next week, Twitter will add labels to the personal accounts of heads of state as it expands its policy on government-affiliated accounts, the company said Thursday. The labels are meant to provide context for users to “have a more informed experience on Twitter,” according to a blog post from Twitter Support.
+<a href='https://www.theverge.com/2021/2/11/22278658/twitter-label-personal-accounts-heads-of-state'> Source <a/>

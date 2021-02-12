@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p0RJFcbnCDqHVPC80Q4a4czyq3Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68800723/acastro_170621_1777_0007_v2_0001_2.0.jpg' width='700px' /><br/>
-Security researcher Alex Birsan has found a security vulnerability that allowed him to run code on servers owned by Apple, Microsoft, PayPal, and over 30 other companies (via Bleeping Computer). The exploit is also deviously simple, and it's something that many large software developers will have to figure out how to protect themselves from.
-<a href='https://www.theverge.com/2021/2/10/22276857/security-researcher-repository-exploit-apple-microsoft-vulnerability'> Source <a/>

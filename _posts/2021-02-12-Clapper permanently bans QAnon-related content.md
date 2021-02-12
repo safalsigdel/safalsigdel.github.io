@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Syr1iECU7ytOqyr2OfuxuQgLB80=/0x0:512x250/1200x800/filters:focal(216x85:296x165)/cdn.vox-cdn.com/uploads/chorus_image/image/68805237/unnamed.0.jpg' width='700px' /><br/>
+Clapper has moved to ban accounts spreading QAnon conspiracy theories and vaccine misinformation in the wake of a Verge report last month.
+<a href='https://www.theverge.com/2021/2/11/22278480/clapper-tiktok-clone-bans-qanon-content-parler-deplatforming-capitol-riot'> Source <a/>

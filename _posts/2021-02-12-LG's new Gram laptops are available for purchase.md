@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GVsOH8FqX5kBGFA3OUC1X67slxU=/0x0:1000x470/1200x800/filters:focal(432x78:592x238)/cdn.vox-cdn.com/uploads/chorus_image/image/68806350/2021_LG_gram_Lineup.0.jpg' width='700px' /><br/>
+Several of LG's 2021 Gram laptops are now available for purchase. LG announced the new lineup earlier this year but had not yet announced pricing or availability.
+<a href='https://www.theverge.com/2021/2/11/22278923/lg-gram-laptops-2021-launch-price-release-date-purchase'> Source <a/>

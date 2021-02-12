@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oSsWzCx_BccV1t5ZzmmgFj0PpDk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68801157/acastro__171016_1777_0001_v2.0.jpg' width='700px' /><br/>
-By now, you've probably heard the theoretically scary story of how hackers managed to infiltrate the computer systems at a water treatment plant in Oldsmar, Florida and remotely control the chemical levels — but it turns out that description gives the hackers far, far too much credit.
-<a href='https://www.theverge.com/2021/2/10/22277300/florida-water-treatment-chemical-tamper-teamviewer-shared-password'> Source <a/>

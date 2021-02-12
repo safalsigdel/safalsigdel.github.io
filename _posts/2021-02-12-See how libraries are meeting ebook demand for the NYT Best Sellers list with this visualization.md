@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RRuxqDUimkns60lCJ97_bkI6YuQ=/0x0:2040x1360/1200x800/filters:focal(883x597:1209x923)/cdn.vox-cdn.com/uploads/chorus_image/image/68805092/akrales_190723_3560_0016.0.jpg' width='700px' /><br/>
+Fiction author, sourdough bread lover, and former Twitter executive Robin Sloan is answering a question you may have never thought to ask: which New York Times Best Sellers list ebooks are in the highest demand in the US public library system?
+<a href='https://www.theverge.com/2021/2/11/22278462/robin-sloan-e-book-lending-library-nyt-bestseller-list-visualization'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CSYVFZ2zNPy5C78SWTnW5L67sKk=/0x0:3921x2795/1200x800/filters:focal(1648x1085:2274x1711)/cdn.vox-cdn.com/uploads/chorus_image/image/68803405/978342030.0.jpg' width='700px' /><br/>
-It's no secret MacKenzie Scott has committed some stunning acts of philanthropy of late. She gave surprise gifts totaling $410 million to historically Black colleges and universities in December 2020 alone, adding to the nearly $6 billion she gave away last year.
-<a href='https://www.theverge.com/2021/2/11/22277993/mackenzie-scott-donation-timeline-philanthropy-bezos-amazon'> Source <a/>

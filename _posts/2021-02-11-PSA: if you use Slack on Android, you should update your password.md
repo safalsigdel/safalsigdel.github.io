@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TioFOE10JdHan7MZ4S-SfwKlJyA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68800612/acastro_190412_1777_slack_0002.0.jpg' width='700px' /><br/>
-You should change your Slack password if you used the app on Android, according to an email sent out by the company and published by Android Police. Apparently, from December 21st to January 21st, the Android version of the Slack app would store users' credentials in plain text, which theoretically means any other apps on your phone could have access to them.
-<a href='https://www.theverge.com/2021/2/10/22277054/slack-android-psa-password-reset-email-plaintext'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X2wGZ0qTa2QHzgkI78oX94FkCXY=/0x0:3000x2064/1200x800/filters:focal(1260x792:1740x1272)/cdn.vox-cdn.com/uploads/chorus_image/image/68801712/1187548006.0.jpg' width='700px' /><br/>
-Disney has severed ties with Gina Carano, who played Cara Dune on The Mandalorian, the company announced on Wednesday evening.
-<a href='https://www.theverge.com/2021/2/10/22277540/star-wars-severs-ties-the-mandalorian-gina-carano-cara-dune'> Source <a/>

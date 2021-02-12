@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NDX7QGkxh2B_9G2VFWZpJiyCi10=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68804083/1BEB77B1_EB2C_4E1F_A9C1_1B863908E956.0.jpeg' width='700px' /><br/>
+Google is adding some of its fancy, Pixel-exclusive editing features to Google Photos today for all Android users to enjoy, but there's a catch — if you don't have a Pixel, you'll have to be a paying Google One subscriber to use them.
+<a href='https://www.theverge.com/2021/2/11/22278149/google-photos-pixel-paywall-editing-features-one-subscribers'> Source <a/>

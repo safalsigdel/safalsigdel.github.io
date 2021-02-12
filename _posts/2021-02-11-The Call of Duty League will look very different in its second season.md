@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6xI_2NCpq06iVFnQW2xCpzIq5oM=/0x0:4399x2803/1200x800/filters:focal(1849x1051:2551x1753)/cdn.vox-cdn.com/uploads/chorus_image/image/68803009/1196607733.0.jpg' width='700px' /><br/>
-The Call of Duty League kicked off its inaugural season last year with a bang. The CDL launched with an ambitious vision to merge esports with city-based teams, and it all started with a live event at the Minneapolis Armory. Not long after, that vision was forced to change.
-<a href='https://www.theverge.com/2021/2/11/22276595/call-of-duty-league-cdl-2021-season-preview-johanna-faries-interview'> Source <a/>

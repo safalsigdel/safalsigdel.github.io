@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-oIpoA-MCcyEQeunGtuPNqyOnvM=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68802959/ahawkins_200825_4180_0076.0.0.jpg' width='700px' /><br/>
-The best measure of an electric bike is how easily it slots into your everyday life. By that metric, the Tern HSD P9 is one of the better ones I've tested.
-<a href='https://www.theverge.com/22274747/tern-hsd-p9-ebike-review-electric-cargo-bike-price-specs'> Source <a/>

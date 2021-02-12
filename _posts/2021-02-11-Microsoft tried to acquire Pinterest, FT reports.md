@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cb3UxzojbjCHBgHIbsqPTURSPyo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68802500/acastro_180507_1777_microsoft_0001.0.jpg' width='700px' /><br/>
-Microsoft has reportedly held talks with Pinterest in an attempt to acquire the social network. The Financial Times reports that the software giant approached Pinterest in recent months about a deal, but that the talks are “currently not active.” Had a deal taken place, it would have been Microsoft's biggest to date, given Pinterest is valued at $51 billion.
-<a href='https://www.theverge.com/2021/2/11/22277845/microsoft-pinterest-acquisition-azure-cloud-services-rumors'> Source <a/>

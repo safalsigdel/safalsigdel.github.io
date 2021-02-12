@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_3p4lrcUQV2HHfsq3_uQmQ3uudk=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/68804091/SFAoki__Countercade_2Player_1.21.21_3_.0.jpg' width='700px' /><br/>
+DJ Steve Aoki and his Dim Mak record label and fashion brand have teamed up with Capcom on some cool Street Fighter-themed items: a limited edition countertop arcade cabinet, a clothing line, and even a remix of the theme song for Street Fighter icon Ryu.
+<a href='https://www.theverge.com/2021/2/11/22278140/steve-aoki-capcom-street-fighter-arcade-cabinet-clothing-line-remix-dim-mak'> Source <a/>

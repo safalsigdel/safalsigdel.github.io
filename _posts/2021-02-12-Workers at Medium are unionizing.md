@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gCCSMkSGTnjEFMGJvKRuAw42oXw=/0x0:1621x936/1200x800/filters:focal(682x339:940x597)/cdn.vox-cdn.com/uploads/chorus_image/image/68805785/MWU_Group_Photo.0.jpg' width='700px' /><br/>
+Medium workers have announced they're forming a union with the Communications Workers of America (CWA) Local 9410. The Medium Workers Union says more than 70 percent of eligible employees have already signed cards in support, currently representing 140 workers across editorial, engineering, design, and product, according to CNN.
+<a href='https://www.theverge.com/2021/2/11/22278684/medium-union-unionizing-communications-workers-america'> Source <a/>

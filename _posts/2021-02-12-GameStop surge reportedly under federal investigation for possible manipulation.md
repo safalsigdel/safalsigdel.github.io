@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YZhD_1JThVAe7oh-7VccjtWjAIQ=/0x0:2603x1735/1200x800/filters:focal(1094x660:1510x1076)/cdn.vox-cdn.com/uploads/chorus_image/image/68806543/gamestop_sean_hollister_stock_photo.0.jpg' width='700px' /><br/>
+Several US government agencies are investigating the GameStop stock brouhaha to determine whether there was market manipulation involved, The Wall Street Journal reported. An enthusiastic group of day traders on Reddit's r/WallStreetBets board encouraged each other to buy the stock and created what's known as a short squeeze.
+<a href='https://www.theverge.com/2021/2/11/22278799/gamestop-surge-federal-investigation-manipulation-robinhood-reddit'> Source <a/>

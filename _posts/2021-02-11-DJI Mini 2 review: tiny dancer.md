@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9504/vpavic_201214_4405_0362.jpg' width='700px' /><br/>
-When the first Mavic Mini was introduced, it was clearly created with one purpose: make a drone with an adequate camera that weighs under 250 grams. That number is the key spec because anything under it still doesn't require FAA registration.
-<a href='https://www.theverge.com/22277238/dji-mini-2-drone-review-price-specs-features'> Source <a/>

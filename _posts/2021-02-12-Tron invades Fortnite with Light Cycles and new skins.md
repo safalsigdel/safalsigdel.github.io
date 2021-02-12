@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W_SZ5lp9qc_SisOEkzDgExH6MEQ=/0x0:1920x1080/1200x800/filters:focal(914x386:1220x692)/cdn.vox-cdn.com/uploads/chorus_image/image/68806852/Et_fq5wXMAEgyf1.0.jpeg' width='700px' /><br/>
+Today Epic revealed the latest crossover for its battle royale hit, which brings the retrofuturistic world of Tron into the game.
+<a href='https://www.theverge.com/2021/2/11/22276283/fortnite-tron-crossover-skins-light-cycles'> Source <a/>

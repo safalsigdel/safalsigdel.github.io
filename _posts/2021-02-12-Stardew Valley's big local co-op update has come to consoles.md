@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Wl7QLeCvkf_oyQSw7P4qK82EPZ4=/0x0:1104x621/1200x800/filters:focal(464x223:640x399)/cdn.vox-cdn.com/uploads/chorus_image/image/68807206/SDV_iPhone_10_half.0.png' width='700px' /><br/>
+Stardew Valley's 1.5 update delighted a lot of us when it came out for PC in December, and now it's finally arriving for consoles. The game's developer announced on Twitter that the update should be rolling out to Switch, Xbox, and PlayStation “within the next couple of hours.” As of this writing, it is already available on the Nintendo Switch.
+<a href='https://www.theverge.com/2021/2/11/22279227/stardew-valley-1-5-update-switch-playstation-xbox-console-split-screen'> Source <a/>
