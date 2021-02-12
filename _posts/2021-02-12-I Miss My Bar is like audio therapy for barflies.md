@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6kpIRG0uUwgiYwXhOdCt5C1HEZk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68806272/imissmybar.0.jpg' width='700px' /><br/>
-Sure, you can drink at home with some music on, but that doesn't replicate the feeling of being out at a bar among friends and total strangers. As it turns out, nothing can, other than... well, being at a bar.
-<a href='https://www.theverge.com/2021/2/11/22278889/i-miss-my-bar-maverick-site-sounds-playlist-people-talking'> Source <a/>
