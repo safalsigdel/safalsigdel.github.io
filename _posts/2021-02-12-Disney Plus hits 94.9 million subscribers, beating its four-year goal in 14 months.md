@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VISCinMvmq32fHhqKevZ0KfCuZc=/0x0:3840x1610/1200x800/filters:focal(1613x498:2227x1112)/cdn.vox-cdn.com/uploads/chorus_image/image/68806213/HUC2_FF_003556.0.jpg' width='700px' /><br/>
-Disney Plus reached a new high of 94.9 million subscribers around the world, the company announced in its Q1 2021 earnings report. Hulu now has 39.4 million subscribers, while ESPN Plus has 12.1 million subscribers.
-<a href='https://www.theverge.com/2021/2/11/22278874/disney-plus-94-9-million-subscribers-q1-2021-earnings'> Source <a/>
