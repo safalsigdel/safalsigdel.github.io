@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VEjQiKoYYtGYWOFkaYYKkuEoTMs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68809436/jbareham_180301_2346_nintendo_switch_0065_mario.0.jpg' width='700px' /><br/>
+The Nintendo Switch continues to perform very well, selling the most units out of any other gaming hardware in the US in January, according to gaming analyst firm The NPD Group. But Sony's PlayStation 5 still made more money last month, despite a more limited supply.
+<a href='https://www.theverge.com/2021/2/12/22279859/nintendo-switch-lite-ps5-sales-january-2021'> Source <a/>
