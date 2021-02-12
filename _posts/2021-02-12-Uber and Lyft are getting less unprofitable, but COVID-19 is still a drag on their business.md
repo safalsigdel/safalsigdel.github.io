@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QnK2O4vO6grfrSjrrRWHdSWNclI=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/68806095/1227939563.jpg.0.jpg' width='700px' /><br/>
-Uber and Lyft reported their quarterly earnings this week, and while both companies are showing signs of improvement, the COVID-19 pandemic continues to cast a long shadow over the overall ride-hailing business.
-<a href='https://www.theverge.com/2021/2/11/22277043/uber-lyft-earnings-q4-2020-profit-loss-covid'> Source <a/>
