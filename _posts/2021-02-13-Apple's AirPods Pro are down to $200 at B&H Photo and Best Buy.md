@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gjStzEQYZP_nCRn11lkadTNwn8U=/0x0:2040x1360/1200x1200/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/19336094/akrales_191030_3763_0446.jpg' width='700px' /><br/>
-Update February 12th, 10:05AM ET: When this was written, Amazon and Walmart were selling the AirPods Pros for $180. While this deal is no longer available, B&H Photo and Best Buy are selling the devices at the lower price of $200. Also, be sure to check out our roundup of the best AirPods sales at any given time.
-<a href='https://www.theverge.com/2021/2/11/22278616/apple-airpods-pro-wireless-earbuds-deal-amazon-walmart'> Source <a/>
