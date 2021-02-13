@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cpVz9NqcVKeKdH8qbZmPY4wK2tQ=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68806668/Roadster_Front_58.0.jpg' width='700px' /><br/>
-Elon Musk has said for years that he wants to offer a rocket thruster package to increase the already ludicrous speed of the second-generation Tesla Roadster. But now he says he's considering using the thrusters to make the Roadster hover, too.
-<a href='https://www.theverge.com/2021/2/11/22278792/elon-musk-joe-rogan-tesla-roadster-spacex-hover-thrusters'> Source <a/>

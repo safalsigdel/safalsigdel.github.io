@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Uo3JXauwqG1u5_wn-jdGil32X54=/0x0:1020x681/1200x800/filters:focal(429x260:591x422)/cdn.vox-cdn.com/uploads/chorus_image/image/68813066/ebay-logo-stock_1020.0.jpg' width='700px' /><br/>
+In 2002, eBay bought PayPal for $1.5 billion, turning it into the way you'd buy and get paid for items you sell on the ginormous auction site. But the once-happy couple has been breaking up for years — and on Valentine's Day, some sellers may no longer be able to sell items on eBay at all without connecting an old-school bank account instead.
+<a href='https://www.theverge.com/2021/2/12/22281056/ebay-bank-account-required-not-paypal-february-14th'> Source <a/>

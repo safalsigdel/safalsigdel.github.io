@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZwLxOLeTToT9n0ylmddV8ZZkfJQ=/531x477:2152x1783/1200x800/filters:focal(1320x467:1800x947)/cdn.vox-cdn.com/uploads/chorus_image/image/68808434/1229523332.0.jpg' width='700px' /><br/>
-Dave Chappelle says that his long running beef with Comedy Central over rights to Chappelle's Show is over. The surprise announcement came during a 10-minute performance titled Redemption Song posted to Chappelle's Instagram account late Thursday night. The clip closes with news that the sketch comedy will return to Netflix starting today.
-<a href='https://www.theverge.com/2021/2/12/22279727/dave-chappelle-show-back-netflix-comedy-central-beef'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iGj0Mk01-EjZNMsy75Sp4n-SdPY=/0x0:2040x1360/1200x675/filters:focal(1070x1034:1396x1360)/cdn.vox-cdn.com/uploads/chorus_image/image/67851877/tlyles_201113_4294_0017.0.0.jpg' width='700px' /><br/>
+Moving to a home office sometimes means making the most of a little space. Taylor Lyles, a writer at The Verge, is one of those who has used imagination and tech know-how to create a great working area out of a small part of her room. Here's how she did it. (And if you're curious, a list of her tech is at the end of this article.)
+<a href='https://www.theverge.com/21572162/remote-work-desk-home-set-up-writer-gamer-logitech-asus'> Source <a/>
