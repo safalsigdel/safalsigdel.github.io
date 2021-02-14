@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_A28t5qoRrv4RRDSCa4f_JpXJf0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68814292/acastro_180730_1777_facial_recognition_0003.0.jpg' width='700px' /><br/>
+The Minneapolis City Council voted unanimously on Friday to approve an ordinance banning the use of facial recognition software by its police department and other city agencies, the Star Tribune reported. The ban adds Minneapolis to the list of US cities moving to limit or end the use of such technology by its law enforcement officers and city employees.
+<a href='https://www.theverge.com/2021/2/13/22281523/minneapolis-prohibits-facial-recognition-software-police-privacy'> Source <a/>

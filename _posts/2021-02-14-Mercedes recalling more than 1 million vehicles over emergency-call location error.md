@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7JFBSV3358oxDk5_5V2kZc3h3dA=/0x0:6000x4000/1200x800/filters:focal(2476x2228:3436x3188)/cdn.vox-cdn.com/uploads/chorus_image/image/68815727/1231113372.0.jpg' width='700px' /><br/>
+Mercedes-Benz USA is recalling 1.29 million vehicles because of a failure in its eCall software which may not provide a vehicle's correct location to emergency responders after a crash, Car and Driver reported.
+<a href='https://www.theverge.com/2021/2/13/22282135/mercedes-recall-1-million-vehicles-emergency-call-location-error'> Source <a/>
