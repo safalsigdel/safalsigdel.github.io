@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KzJWzJAf7BphRqcjqN38E3hhXg8=/0x0:1000x1000/1200x800/filters:focal(336x315:496x475)/cdn.vox-cdn.com/uploads/chorus_image/image/68810109/akrales_180824_2908_0071_squ.0.jpg' width='700px' /><br/>
-Online organization app Notion was experiencing technical difficulties this morning and students, project managers, and other users — like me — who rely on it to organize our calendars were having minor freak-outs.
-<a href='https://www.theverge.com/2021/2/12/22280127/notion-down-schedule-app-dns-technical'> Source <a/>

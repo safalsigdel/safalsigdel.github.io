@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qZ-xqmOUq-t5HiuwVQfZc8YmCF4=/0x0:768x432/1200x800/filters:focal(323x155:445x277)/cdn.vox-cdn.com/uploads/chorus_image/image/68810388/cq5dam.web.768.432.0.jpeg' width='700px' /><br/>
-A newly remastered version of Sex and the City is now available to stream on HBO Max, WarnerMedia announced on Friday. Thanks to the remaster, you can watch the hit show in a high-definition 16:9 aspect ratio for the first time.
-<a href='https://www.theverge.com/2021/2/12/22280189/sex-in-the-city-hd-remaster-available-hbo-max'> Source <a/>

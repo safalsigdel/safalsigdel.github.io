@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RyU6q6el4iUKXHfVe67AFvHZbl0=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/68811125/1228323129.0.jpg' width='700px' /><br/>
-Elon Musk says he pitched the Biden administration on instituting a carbon tax as a way to encourage a faster shift to renewable energy, but he was told the idea was essentially “too politically difficult.”
-<a href='https://www.theverge.com/2021/2/12/22280410/elon-musk-joe-biden-carbon-tax'> Source <a/>
