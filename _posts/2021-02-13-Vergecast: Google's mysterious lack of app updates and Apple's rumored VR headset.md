@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/euWrqgxXXV04Xdc1c4uWtyV09Gs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68809631/acastro_210121_1777_google_0001.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast The Vergecast to discuss this week in Verge headlines. Here's what The Verge's Nilay Patel, Dieter Bohn, and Adi Robertson focus the episode on this week: Google's mysterious lack of iOS app updates, the rumors around an Apple-made VR / AR headset, and the gadget headlines you may have missed.
-<a href='https://www.theverge.com/2021/2/12/22279956/google-ios-apps-apple-vr-rumors-vergecast-podcast-440'> Source <a/>
