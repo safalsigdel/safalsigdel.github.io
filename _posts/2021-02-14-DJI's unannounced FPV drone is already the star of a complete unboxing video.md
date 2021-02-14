@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+DJI's first-ever FPV (first-person-view) drone hasn't been much of a secret for months — but an unboxing video now shows off the new quadcopter, controller and FPV goggles from practically every angle (via OsitaLV).
+<a href='https://www.theverge.com/circuitbreaker/2021/2/14/22282593/dji-fpv-drone-leaked-unboxing-video'> Source <a/>
