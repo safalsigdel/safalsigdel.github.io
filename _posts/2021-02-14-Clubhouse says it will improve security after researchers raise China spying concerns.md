@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bj20KaP632ARfdJRTPAiMlnEIa4=/0x0:3634x2423/1200x800/filters:focal(1527x922:2107x1502)/cdn.vox-cdn.com/uploads/chorus_image/image/68817507/1231088036.0.jpg' width='700px' /><br/>
+The developers of audio chat room app Clubhouse plan to add additional encryption to prevent it from transmitting pings to servers in China, after Stanford researchers said they found vulnerabilities in its infrastructure.
+<a href='https://www.theverge.com/2021/2/14/22282772/clubhouse-improve-security-stanford-researchers-china-security'> Source <a/>
