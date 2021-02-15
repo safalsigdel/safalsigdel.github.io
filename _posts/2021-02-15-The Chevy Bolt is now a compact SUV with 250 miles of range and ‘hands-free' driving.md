@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9RyKm9xKsiMf9xKCHNFTaDg8iP0=/0x0:5700x3800/1200x675/filters:focal(2394x1444:3306x2356)/cdn.vox-cdn.com/uploads/chorus_image/image/68818306/2022_Chevrolet_BoltEUV_011.0.jpg' width='700px' /><br/>
+The Chevy Bolt is undergoing a growth spurt. General Motors unveiled two new versions of the Bolt on Sunday: an updated Bolt EV hatchback with longer range and new high-tech features, and the brand new Bolt EUV — essentially a compact SUV — with more legroom room and less range than the Bolt EV.
+<a href='https://www.theverge.com/2021/2/14/22280449/chevy-bolt-ev-euv-super-cruise-range-price-specs'> Source <a/>
