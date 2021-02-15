@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TWPRyNaMiI1g0nwkfl1Vnciy5Pw=/0x0:2270x1270/1200x0/filters:focal(0x0:2270x1270):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22300211/Screen_Shot_2021_02_12_at_11.53.26_AM.png' width='700px' /><br/>
-Apple is gearing up for the release of For All Mankind season 2 on Apple TV Plus. It's kicking things off with a new augmented reality app, For All Mankind: Time Capsule, that looks to fill in the gap between the two seasons using AR artifacts from the world of the show.
-<a href='https://www.theverge.com/2021/2/12/22278780/apple-augmented-reality-ar-app-for-all-mankind-tv-plus'> Source <a/>

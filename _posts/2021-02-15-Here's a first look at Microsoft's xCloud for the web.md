@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pqFsEjgY2T7ANuhFeK19LTMdoTs=/0x0:2622x1760/1200x800/filters:focal(1102x671:1520x1089)/cdn.vox-cdn.com/uploads/chorus_image/image/68819788/xcloudweb.0.jpg' width='700px' /><br/>
+Microsoft has started testing its xCloud game streaming through a web browser. Sources familiar with Microsoft's Xbox plans tell The Verge that employees are now testing a web version of xCloud ahead of a public preview. The service allows Xbox players to access their games through a browser, and opens up xCloud to work on devices like iPhones and iPads.
+<a href='https://www.theverge.com/2021/2/15/22283739/microsoft-xcloud-web-screenshots-cloud-gaming-streaming-browser-features'> Source <a/>
