@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AahdPlzwvjRZGh1WjS1ND_Mkub0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68820539/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google is rolling out a new update for its two-factor authentication prompt on Android, which adds support for dark mode (along with a new Material Design-style look), via 9to5Google.
+<a href='https://www.theverge.com/2021/2/15/22283947/google-two-factor-authentication-prompt-android-dark-mode'> Source <a/>
