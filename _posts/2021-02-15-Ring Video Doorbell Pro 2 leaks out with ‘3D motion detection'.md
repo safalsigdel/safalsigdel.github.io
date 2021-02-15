@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-lxTE6F76I4FyYY4-tWsSL4ijqY=/0x0:788x520/1200x800/filters:focal(331x197:457x323)/cdn.vox-cdn.com/uploads/chorus_image/image/68812595/ring_video_doorbell_2.0.jpg' width='700px' /><br/>
+Amazon's Ring has so many different video doorbells in the market it's getting hard to keep track, but one of them is apparently about to get a big bump with some brand-new features: The Ring Wi-Fi Video Doorbell Pro 2 has just leaked in a listing at Best Buy Canada, as spotted by ZatzNotFunny.
+<a href='https://www.theverge.com/2021/2/12/22280918/ring-video-doorbell-pro-2-leak-best-buy-3d-head-to-toe'> Source <a/>

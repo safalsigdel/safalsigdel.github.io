@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wlge3ngO2z1I4XuVOBLko2tT5HI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68813094/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
+Earlier this month, Aaron Epstein spent $10,000 to buy an ad in The Wall Street Journal to tell AT&T's CEO he wasn't happy with his internet service — service that was limited to a paltry 3Mbps (via Ars Technica). Now, AT&T has him hooked up with a fiber connection, and he's getting over 300 Mbps up and down. All it took was getting interviewed by Ars, the ad going viral on Twitter, and a Stephen Colbert mention.
+<a href='https://www.theverge.com/2021/2/12/22280964/att-provides-fiber-after-newspaper-ad-media-coverage'> Source <a/>
