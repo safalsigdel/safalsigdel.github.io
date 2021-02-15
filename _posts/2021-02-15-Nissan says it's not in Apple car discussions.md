@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/tzJ1Yghf_ocTuAJ_nu4TBsWRgoQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68819314/DSCF5396.0.0.jpg' width='700px' /><br/>
-Nissan has issued a statement denying that it's in discussions to work with Apple on the US company's long-rumored autonomous car project. Earlier today the Financial Times reported that the Japanese automaker had engaged in talks with Apple
+Nissan has issued a statement denying that it's in discussions to work with Apple on the US company's long-rumored autonomous car project. Earlier today the Financial Times reported that the Japanese automaker had engaged in talks with Apple about a potential partnership.
 <a href='https://www.theverge.com/2021/2/14/22283574/nissan-apple-car-discussions-report-denial-hyundai'> Source <a/>
