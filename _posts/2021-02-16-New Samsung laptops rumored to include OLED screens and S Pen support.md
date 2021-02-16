@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B3VDkFI_pGJedcqep3GgBSFi0is=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68823898/acastro_190503_1777_samsung_0001.0.0.jpg' width='700px' /><br/>
+Samsung has a pair of new laptops in development — the Galaxy Book Pro and Galaxy Book Pro 360 — which include OLED displays and will be compatible with the company's S Pen stylus, SamMobile reports. The Galaxy Book Pro 360 is said to also be available with 5G connectivity. The laptops were first revealed in a Bluetooth certification filing that surfaced last month.
+<a href='https://www.theverge.com/2021/2/16/22285268/samsung-galaxy-book-pro-360-oled-screen-s-pen-support-windows-intel'> Source <a/>
