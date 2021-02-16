@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7SmavatsMQDQFtrSuwJ4kd2vNB4=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22306604/XboxWire_Headset_LifestyleAsset.jpg' width='700px' /><br/>
+Microsoft is launching a new $99 Xbox Wireless Headset next month. It's the first wireless Xbox headset since the Xbox 360 days, and it's designed to connect with Xbox One and Xbox Series X / S consoles, PCs, and mobile devices via Bluetooth.
+<a href='https://www.theverge.com/2021/2/16/22285247/microsoft-xbox-wireless-headset-release-date-price-features'> Source <a/>
