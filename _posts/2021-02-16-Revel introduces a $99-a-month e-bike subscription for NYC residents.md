@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eck-YwtsG3hZZbvpl3hQYXjQ2es=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/68823672/E_Bike_Asset_1.0.jpg' width='700px' /><br/>
+Electric moped rental company Revel is expanding its product lineup to include monthly e-bike subscriptions for residents of New York City. It's the latest company to try to capitalize on the e-bike boom by shifting to a Netflix or Spotify subscription model for transportation.
+<a href='https://www.theverge.com/2021/2/16/22279921/revel-ebike-subscription-nyc-price-specs'> Source <a/>
