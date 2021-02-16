@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-You might not have to ride public transit to work right now, but if you're one of the many workers who still commutes in New York City (or if you're someone like me who fantasizes about their old commute), you'll now have some new celebrity voice talent to keep you company on your bus or subway ride, the Metropolitan Transit Authority (MTA) announced Friday.
-<a href='https://www.theverge.com/tldr/2021/2/12/22280577/mta-celebrity-psa-public-transit-celebrities-subway-bus'> Source <a/>
