@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dSoFpTkeQRde6qjembm4XlYDxao=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68824309/bfarsace190331_4355_0008.0.jpg' width='700px' /><br/>
+Samsung's Galaxy Chromebook 2, previously stated to be coming in “Q1 2021,” finally has a release date. You can preorder it starting today through Samsung and Best Buy, and it'll start shipping on March 1st. Models start at $549.99.
+<a href='https://www.theverge.com/2021/2/16/22280643/samsung-galaxy-chromebook-2-release-date-preorder'> Source <a/>
