@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OWikYoNpQR0dbvqzRmcwJXvkU7o=/0x0:4000x4000/1200x800/filters:focal(1680x1680:2320x2320)/cdn.vox-cdn.com/uploads/chorus_image/image/68814576/1183526858.0.jpg' width='700px' /><br/>
-Phoebe Waller-Bridge and Donald Glover will star in a new Amazon Prime Video series based on the 2005 film Mr. and Mrs. Smith. The movie starred Angelina Jolie and Brad Pitt as a pair of married killers-for-hire who are assigned to assassinate each other.
-<a href='https://www.theverge.com/2021/2/13/22281597/phoebe-waller-bridge-donald-glover-amazon-mr-and-mrs-smith-series'> Source <a/>
