@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2jKxAOEYAcD8QosIwrYwZTgtpfQ=/0x0:5184x2912/1200x0/filters:focal(0x0:5184x2912):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22306149/03_ENG.jpg' width='700px' /><br/>
+E-reader company PocketBook has announced and released the InkPad Color, a 7.8-inch device that uses E Ink's latest color technology. PocketBook tells The Verge that it's the first device with a new Kaleido panel to be available in the US and Europe.
+<a href='https://www.theverge.com/2021/2/15/22284923/pocketbook-inkpad-color-kaleido-e-reader-available-now-price'> Source <a/>

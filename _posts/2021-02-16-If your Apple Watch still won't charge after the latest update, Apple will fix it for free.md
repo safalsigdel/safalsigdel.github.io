@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ttoUpGk10sGU61H0Nj39eMFfAuA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68822022/dseifert_200930_4218_0002.0.0.jpg' width='700px' /><br/>
+Apple released watchOS 7.3.1 on Monday, and it could help fix an issue that prevents some Apple Watch Series 5 or SE smartwatches from charging while in the battery-saving Power Reserve Mode. But even the software update might not fix the issue, according to Apple. If it doesn't, the company will repair your watch for free.
+<a href='https://www.theverge.com/2021/2/15/22284492/apple-watch-series-5-se-watchos-7-3-1-update-charge-free-replacement'> Source <a/>

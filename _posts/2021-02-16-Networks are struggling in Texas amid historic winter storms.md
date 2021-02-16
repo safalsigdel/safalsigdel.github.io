@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CXQkTuKYK9v0_xstXMGaSMsOBhw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68821817/acastro__171016_1777_0001_v1.0.jpg' width='700px' /><br/>
+Much of Texas has been hit by a historic winter cold front, leaving many without power and affecting internet and cell phone services in the state.
+<a href='https://www.theverge.com/2021/2/15/22284309/texas-winter-storms-internet-cell-network-issues-t-mobile-att-spectrum'> Source <a/>
