@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ghTkoVMrpFhihpLEcNuGnv2PECw=/0x0:5595x3730/1200x800/filters:focal(2351x1418:3245x2312)/cdn.vox-cdn.com/uploads/chorus_image/image/68826134/1231190479.0.jpg' width='700px' /><br/>
-A freezing winter storm passed through Texas and parts of the Midwest over the weekend, straining parts of the state's electricity grid to the point of blackouts. But with many Texans struggling to heat their homes, disaster scammers have reportedly been taking advantage of the disaster to try to steal account info.
-<a href='https://www.theverge.com/2021/2/16/22285980/disaster-scammers-target-texas-blackout-victims-winter-storm-ftc-electricity'> Source <a/>
