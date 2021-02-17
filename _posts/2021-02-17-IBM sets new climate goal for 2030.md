@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jcSSK6e2jGfg7D7uOY2tlHegUi0=/0x0:5184x3456/1200x800/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/68825453/468943455.0.jpg' width='700px' /><br/>
-IBM plans to get rid of its planet-heating carbon dioxide emissions from its operations by 2030, the company announced today. And unlike some other tech companies that have made splashy environmental commitments lately, IBM's pledge emphasized the need to prevent emissions rather than developing ways to capture carbon dioxide after it's released.
-<a href='https://www.theverge.com/2021/2/16/22285669/ibm-climate-change-commitment-cut-greenhouse-gas-emissions'> Source <a/>

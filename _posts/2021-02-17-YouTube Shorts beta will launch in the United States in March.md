@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/htJnh7RoAinaLGCR5c9i09zqENc=/0x0:1220x813/1200x800/filters:focal(513x310:707x504)/cdn.vox-cdn.com/uploads/chorus_image/image/68829759/shorts_youtube.0.jpg' width='700px' /><br/>
+YouTube is gearing up to launch a beta version of its TikTok competitor, Shorts, in the United States beginning in March, chief product officer Neal Mohan announced today.
+<a href='https://www.theverge.com/2021/2/17/22286286/youtube-shorts-us-rollout-product-features-updates-chapters-monetization-neal-mohan'> Source <a/>

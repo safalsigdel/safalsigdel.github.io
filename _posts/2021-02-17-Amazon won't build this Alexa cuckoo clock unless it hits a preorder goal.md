@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xIc8_JfJyYD5tLTIkxBI8vSZD1I=/0x0:2369x2369/1200x800/filters:focal(999x931:1377x1309)/cdn.vox-cdn.com/uploads/chorus_image/image/68829757/Build_It_All_Devices.0.jpg' width='700px' /><br/>
+Amazon is launching a new consumer outreach program it's calling Build It. The idea is a safer spin on a familiar crowdfunding idea: if enough people preorder something, Amazon will produce it. And if not, it won't. The company is starting with three Alexa-powered gadgets: a cuckoo clock, a thermal sticky note printer, and a smart scale that can provide details on the food you're weighing via a separate Echo device.
+<a href='https://www.theverge.com/2021/2/17/22286662/amazon-alexa-cuckoo-clock-build-it-program-preorder'> Source <a/>

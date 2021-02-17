@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uoPZ_InHTIAoyYjd2mu6Pd_bq5I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68825427/acastro_201106_1777_vote_0003.0.0.jpg' width='700px' /><br/>
-Facebook addressed false election information with understated warnings like “missing context” rather than more direct flags, research from The Markup suggests — and the company appeared hesitant to label false or misleading statements from now-banned former President Donald Trump.
-<a href='https://www.theverge.com/2021/2/16/22285553/facebook-the-markup-citizen-browser-data-election-labels-trump'> Source <a/>
