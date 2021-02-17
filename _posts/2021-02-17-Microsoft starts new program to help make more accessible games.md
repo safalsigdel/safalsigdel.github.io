@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mWOmohDlvSklaxQCr5gS44yTijo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68827389/acastro_190530_1777_xbox_0001.0.0.jpg' width='700px' /><br/>
+Microsoft is expanding its accessibility efforts with a new program for evaluating Xbox and PC games. Today, its gaming accessibility team announced that developers can send their games to be evaluated for accessibility and tested by players with disabilities. The program was announced alongside updates to the Xbox Accessibility Guidelines that were released in early 2020.
+<a href='https://www.theverge.com/2021/2/16/22286216/microsoft-xbox-games-tested-accessibility-guidelines'> Source <a/>

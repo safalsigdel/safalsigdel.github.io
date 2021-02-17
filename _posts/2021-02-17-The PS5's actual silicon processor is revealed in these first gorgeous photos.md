@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+While the world continues to wait for a chance to buy the PlayStation 5, we're continuing to put Sony's next-gen console under the microscope — literally, when we showed you the 40,000 tiny PlayStation symbols hidden in each gamepad, and now somewhat figuratively with what we believe are the first up-close pictures of the PS5's actual silicon from photographer Fritzchens Fritz (via VideoCardz).
+<a href='https://www.theverge.com/circuitbreaker/2021/2/16/22285947/sony-ps5-playstation-5-die-silicon-processor-photos'> Source <a/>

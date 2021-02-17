@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s96XphtNcE9oi1hj6gMlskeMJHw=/0x0:9999x6666/1200x800/filters:focal(4201x2534:5799x4132)/cdn.vox-cdn.com/uploads/chorus_image/image/68819663/FSeries_Shot3_Front_Blue.0.jpg' width='700px' /><br/>
-Samsung's Galaxy F62 is a new affordable handset that's releasing in India on February 22nd. It features a massive 7,000mAh battery and the same Exynos 9825 processor that powered the Galaxy Note 10 back in 2019. It's available in two variants: one with 6GB of RAM that costs xe2x82xb923,999 (around $330), and a second with 8GB of RAM that costs xe2x82xb925,999 (around $358).
-<a href='https://www.theverge.com/2021/2/15/22283727/samsung-galaxy-f62-india-release-date-news-features-7000-mah-battery-quad-camera'> Source <a/>

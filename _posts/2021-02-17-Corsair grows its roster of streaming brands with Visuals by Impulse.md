@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HKajjkbP5sMAJZgf2-YKEKOtS5k=/0x0:1000x758/1200x800/filters:focal(420x299:580x459)/cdn.vox-cdn.com/uploads/chorus_image/image/68825070/CORSAIRLogo2020_stack_K.0.png' width='700px' /><br/>
+Today, gaming peripheral brand Corsair is announcing that it has purchased streaming visuals company Visuals by Impulse (VBI), which it's organizing under its other streaming brand, Elgato. If reading that makes your eyes cross, don't worry — all it means is that some of the biggest names in streaming technology have come together under Corsair's roof. Think of the consolidation like a one-stop shop.
+<a href='https://www.theverge.com/2021/2/16/22285508/corsair-elgato-visuals-by-impulse-acquisition-streaming-twitch'> Source <a/>

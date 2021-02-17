@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-If a gadget has a processor in it, then there's a decent chance someone's tried to hack it to run Doom. A Nintendo Game & Watch? Naturally. A MacBook Pro Touch Bar? Sure. Calculators? Why not. Now, thanks to YouTube channel Games Made of Cardboard, we can finally add “cardboard boxes” to that illustrious list.
-<a href='https://www.theverge.com/tldr/2021/2/16/22285300/doom-2-games-made-of-cardboard-video-john-romero'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CgCdbNqBv3aqnB3SoNycWBv3w6c=/0x0:1020x676/1200x800/filters:focal(429x257:591x419)/cdn.vox-cdn.com/uploads/chorus_image/image/68828335/spacex1_1020.0.jpg' width='700px' /><br/>
+SpaceX has reportedly raised $850 million in a round of funding, in transactions that would value shares of the company at $419.99 each. According to CNBC, this would mean the company is worth around $74 billion. It would also mean that the company has money to continue on with its future projects.
+<a href='https://www.theverge.com/2021/2/16/22286603/spacex-funding-starlink-starship-investors'> Source <a/>

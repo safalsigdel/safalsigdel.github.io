@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wYX6lTGI43zC_8lcCQnQ_sjZqxM=/0x0:1680x990/1200x800/filters:focal(694x303:962x571)/cdn.vox-cdn.com/uploads/chorus_image/image/68826919/Screen_Shot_2021_02_16_at_11.38.26_AM.0.png' width='700px' /><br/>
+Microsoft is trying a new solution for the persistent “would you like to allow notifications from this website” requests that you see across the internet: crowdsourcing data on which ones people block and which ones they allow. According to a blog post today, Microsoft is calling this feature adaptive notification requests, and the company is rolling it out in Edge 88 after it received positive feedback from testers.
+<a href='https://www.theverge.com/2021/2/16/22286069/microsoft-edge-adaptive-notification-requests'> Source <a/>

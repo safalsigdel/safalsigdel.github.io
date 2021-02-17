@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bIEfzAYTbGZxLkbStkYHY8JrlcQ=/0x0:1704x1110/1200x800/filters:focal(716x419:988x691)/cdn.vox-cdn.com/uploads/chorus_image/image/68825091/CX_400BT_True_Wireless_Product_Shot_In_Use_Black.0.jpg' width='700px' /><br/>
+Sennheiser announced on Tuesday it's looking for a new partner to buy its consumer audio business, which consists of headphones and soundbars. It's going to shift its focus entirely to professional audio, including its Neumann microphone division and what Sennheiser calls business communications.
+<a href='https://www.theverge.com/2021/2/16/22285497/sennheiser-investors-selling-consumer-headphones-soundbars-business'> Source <a/>

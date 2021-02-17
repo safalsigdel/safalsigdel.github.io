@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-tcVdkgH22By9RpqnvEhV8ijtb0=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/68823684/1211180727.0.jpg' width='700px' /><br/>
-Microsoft has updated its unified Office mobile app to work on Apple's iPad devices. The new Office app combines Word, Excel, and PowerPoint into a single application, and originally launched for iOS and Android back in 2019. Microsoft has been gradually improving it ever since, but it always ran in a windowed mode instead of a fully optimized iPad app.
-<a href='https://www.theverge.com/2021/2/16/22285229/microsoft-office-app-ipad-ipad-os-support-available'> Source <a/>

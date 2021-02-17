@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OAW0OkaoWI4Xe5LatxXND0ZXq0Y=/0x0:2230x1254/1200x800/filters:focal(937x449:1293x805)/cdn.vox-cdn.com/uploads/chorus_image/image/68827063/moto_g30.0.jpg' width='700px' /><br/>
+Motorola has announced two new budget phones coming to European markets: the Moto G30 and the Moto G10, both starting well under xe2x82xac200. The higher-specced G30 includes a fast 90Hz refresh rate screen and a 5,000mAh battery with 15W fast charging, two features not commonly seen at this price.
+<a href='https://www.theverge.com/2021/2/16/22286048/motorola-moto-g30-moto-g10-90hz-screen-price-launch'> Source <a/>

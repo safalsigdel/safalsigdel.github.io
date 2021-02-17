@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xYnxMRhscWEZGsoLm0Y9Jvkd344=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68827253/acastro_180130_1777_0005.0.jpg' width='700px' /><br/>
+A North Dakota bill that would have drastically altered the way app store operators like Apple and Google manage their digital marketplaces has failed to garner enough votes, failing in the state senate by an 11-36 vote on Tuesday, according to North Dakota House of Representatives member Karla Rose Hanson.
+<a href='https://www.theverge.com/2021/2/16/22286234/apple-app-store-north-dakota-bill-sb-2333-failed-vote'> Source <a/>

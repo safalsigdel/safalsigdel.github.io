@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lACrMYXGfsIJEkCUoE-zL1eLX2Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68822034/akrales_161121_1270_A_0051.0.0.jpeg' width='700px' /><br/>
-Roku is testing a new version of its remote control for its set-top boxes, the Roku Voice Remote Pro, which ditches the AAA batteries for a built-in rechargeable battery instead, via Zatz Not Funny.
-<a href='https://www.theverge.com/2021/2/15/22284484/roku-rechargeable-remote-testing-early-access-micro-usb'> Source <a/>

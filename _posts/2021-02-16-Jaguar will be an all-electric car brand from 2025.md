@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/59Zm2hthczWgnDp4FHF43XW-DWI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68820592/jaguar_i_pace_ev_electric_0094.0.jpg' width='700px' /><br/>
-UK automaker Jaguar Land Rover (JLR) says its Jaguar luxury brand will be all-electric by 2025. Meanwhile, its Land Rover brand will release its first all-electric vehicle in 2024, the first of six fully electric models planned for release over the next five years. JLR's transition will be funded by a xc2xa32.5 billion (around $3.5 billion) a year investment into electrification and related technologies, Bloomberg reports.
-<a href='https://www.theverge.com/2021/2/15/22284000/jaguar-land-rover-electric-cars-i-pace-2025'> Source <a/>

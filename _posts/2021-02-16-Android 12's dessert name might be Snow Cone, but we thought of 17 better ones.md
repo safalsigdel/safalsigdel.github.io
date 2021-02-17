@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UWbJL85hHE-F6BNpNaDFCV3FMu8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68822232/wjoel_180413_1777_android_001.0.jpg' width='700px' /><br/>
-We're eagerly awaiting to hear official news about Android 12, Google's next major update to its mobile operating system, and we might have gotten an early look at some big UI changes just last week, thanks to XDA Developers. But now, thanks again to XDA Developers, we might know something even more important: Android 12's dessert name.
-<a href='https://www.theverge.com/2021/2/15/22284545/android-12-dessert-name-snow-cone-start-with-s'> Source <a/>
