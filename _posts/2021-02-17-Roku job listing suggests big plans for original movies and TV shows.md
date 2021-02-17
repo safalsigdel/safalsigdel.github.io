@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4RRcJcpRsYZF_Iz3tyLKSXbORN4=/0x0:4552x2764/1200x800/filters:focal(1912x1018:2640x1746)/cdn.vox-cdn.com/uploads/chorus_image/image/68826226/TRC_UK_Home_Screen.0.jpg' width='700px' /><br/>
-Roku is looking to create its own original “episodic and feature productions,” according to a recent (and now closed) job listing posted by the company (via Protocol). The job listing mentions Roku's “expanding slate of original content.”
-<a href='https://www.theverge.com/2021/2/16/22285819/roku-original-content-job-listing-plan-original-shows-movies'> Source <a/>
