@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/I2PsqRLIaCB1iYUuSptrrR5M8oQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68829483/acastro_210104_1777_google_0001.0.jpg' width='700px' /><br/>
+It seems like the days of free apps are slowly grinding to a halt. Just recently, password manager LastPass announced that it was drastically limiting the usefulness of its free app, and now, Google has sent out emails reaffirming that it is ending its free unlimited photo storage policy:
+<a href='https://www.theverge.com/22285974/google-storage-free-photos-drive-storage'> Source <a/>
