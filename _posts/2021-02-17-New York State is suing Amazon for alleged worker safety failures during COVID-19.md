@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7JSsmWQH2SGOcRa_yM1b2c92DFU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68830161/acastro_190920_1777_amazon_0003.0.0.jpg' width='700px' /><br/>
+New York Attorney General Letitia James filed a lawsuit against Amazon in the state's supreme court on Tuesday, claiming the company failed to protect its workers early on in the COVID-19 pandemic and also retaliated against employees who voiced concerns over what they felt were inadequate safety measures.
+<a href='https://www.theverge.com/2021/2/17/22287204/new-york-amazon-lawsuit-worker-safety-failures'> Source <a/>
