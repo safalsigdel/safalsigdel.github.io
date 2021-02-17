@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VmLR1CmP9R5gYcMuiDnTHSP9sLs=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68830199/all_your_base_are_belong_to_us.0.jpg' width='700px' /><br/>
+As of yesterday, it's been 20 years since “All Your Base Are Belong To Us” was uploaded to Newgrounds. Let that sink in. And while you're doing that, feel free to watch the video in its entirety there, too. It's been kept safe in a Flash-emulating container, so even now, it's safe from the inconvenient fact that Flash has been discontinued.
+<a href='https://www.theverge.com/2021/2/17/22287208/all-your-base-are-belong-to-us-20th-anniversary-internet-culture'> Source <a/>

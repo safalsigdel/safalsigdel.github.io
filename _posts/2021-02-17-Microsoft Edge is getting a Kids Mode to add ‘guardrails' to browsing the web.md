@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z2-38KQv8gwxq9hrO_J1Hb9FwXM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68825952/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
-Microsoft is updating its Edge browser with a Kids Mode that should make browsing safer and more customizable, in a kid-friendly way. The feature is not widely available, but it's being rolled out to Edge Insiders in Microsoft's Canary test channel, with the feature coming to the dev channel soon after.
-<a href='https://www.theverge.com/2021/2/16/22285839/microsoft-edge-browser-kids-mode-safe-search-themes-allow-list'> Source <a/>
