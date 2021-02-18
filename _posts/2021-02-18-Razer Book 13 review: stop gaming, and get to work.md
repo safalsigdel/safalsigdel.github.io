@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gIK0vPfCxpXL3gnYfrz5yNlYwoA=/0x0:2040x1360/1200x675/filters:focal(869x626:1195x952)/cdn.vox-cdn.com/uploads/chorus_image/image/68835685/akrales_210203_4381_0006.0.jpg' width='700px' /><br/>
+For years, Razer has made some of the best gaming laptops on the market. They're not uniquely famous for their high performance (Blades are powerful machines but not the fastest out there) or their prices (which are high). They're famous for their high-quality build and their premium design. In short, Razer makes the best-looking gaming laptops on the market.
+<a href='https://www.theverge.com/22287698/razer-book-13-review-design-specs-price-features'> Source <a/>
