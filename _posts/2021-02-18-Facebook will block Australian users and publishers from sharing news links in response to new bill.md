@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OebD4zF_TmzlTqN9Ic5Wh_NOEVc=/0x0:2040x1360/1200x800/filters:focal(913x544:1239x870)/cdn.vox-cdn.com/uploads/chorus_image/image/68831734/akrales_180614_1777_0080.0.jpg' width='700px' /><br/>
-Facebook has decided to block both Australian users and media companies from sharing links to news articles and related content on its main social network, following the country's proposed landmark regulatory measure that would force tech giants to pay Australian news organizations for using their content.
-<a href='https://www.theverge.com/2021/2/17/22287776/facebook-block-news-australia-regulation-media-link-sharing'> Source <a/>
