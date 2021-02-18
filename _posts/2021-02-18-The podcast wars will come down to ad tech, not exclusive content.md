@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CLmSBrpEOvA8COGFTitNpaP5KT4=/0x0:3240x2160/1200x800/filters:focal(818x1384:1336x1902)/cdn.vox-cdn.com/uploads/chorus_image/image/68831597/adiaconis_201202_4322_0001.0.0.jpg' width='700px' /><br/>
+iHeartMedia, the company behind podcasts like Stuff You Should Know and hundreds of radio stations across the US, announced today that it's spending $230 million to acquire a platform many people outside the audio industry have likely never heard of: Triton Digital.
+<a href='https://www.theverge.com/22287309/podcast-iheart-media-triton-digital-acquire-spotify'> Source <a/>

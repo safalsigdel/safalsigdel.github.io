@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/quGBFu_YbTsnMT1W5QYf94q6TNc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68830909/vpavic_4275_20201030_0050.0.jpg' width='700px' /><br/>
+Microsoft is launching a new FPS Boost feature for its latest Xbox Series X and Series S consoles that's designed to make existing games run better. While Microsoft has previously focused on improving frame rates with backward compatibility for its latest Xbox consoles, FPS Boost is specifically designed to improve older games without developers having to put in any additional work.
+<a href='https://www.theverge.com/2021/2/17/22287001/microsoft-xbox-series-x-s-fps-boost-feature-games'> Source <a/>

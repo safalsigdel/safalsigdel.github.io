@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fvbq6GzVL_t5f7wA_yY8GFmtnxo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68832082/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
+Google is announcing a swath of new features for its education-focused products today, including that G Suite for Education is being rebranded to Google Workspace for Education. The company first unveiled the Workspace branding for its office apps suite in October, but the education-focused suite had retained the G Suite branding until now.
+<a href='https://www.theverge.com/2021/2/17/22284012/google-g-suite-education-workspace-meet-classroom-data-storage'> Source <a/>

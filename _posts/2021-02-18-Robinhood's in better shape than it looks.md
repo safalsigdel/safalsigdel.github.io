@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fhy-7v4TNlY2W1L9GNZkrFZoeY0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68830762/acastro_210201_1777_robinhood_0002.0.jpg' width='700px' /><br/>
+So here we are: about to have a hearing about GameStonk. Robinhood CEO Vlad Tenev is going to have to explain himself tomorrow. What happens next for Robinhood?
+<a href='https://www.theverge.com/2021/2/17/22287381/robinhood-citadel-financial-services-house-day-traders'> Source <a/>

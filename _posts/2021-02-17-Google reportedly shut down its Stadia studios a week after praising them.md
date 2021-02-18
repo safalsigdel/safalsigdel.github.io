@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Kx1RKkiv6At0Qb3KHqIcrESUWVU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68827473/akrales_191113_3779_0319.0.jpg' width='700px' /><br/>
-Google made the surprise announcement on February 1st that it would be shuttering its in-house Stadia game development studios. But the news wasn't just a surprise to Stadia customers; it was a bolt from the blue for the Stadia development team, which, just a week prior, had been told that the studios were making “great progress,” according to a report from Kotaku.
-<a href='https://www.theverge.com/2021/2/16/22286252/google-stadia-studios-shut-down-timing-good-progress-report'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_I8Rvi-wF19tN9fcfyXxQwIqWMs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68833669/jbareham_180405_1777_facebook_0001.0.jpg' width='700px' /><br/>
+The Facebook pages of many Australian government agencies seem to have been caught up in the social media network's ban on news posts by users and media organizations in the country. Users on Twitter have reported that the pages of agencies like the Bureau of Meteorology, Department of Fire and Emergency Services Western Australia, and Queensland Health have no posts available.
+<a href='https://www.theverge.com/2021/2/17/22288256/facebook-australia-news-ban-governmental-agency-accounts'> Source <a/>

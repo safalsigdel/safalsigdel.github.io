@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IvAU0OsEG8bsDulIIg-XsVlRtHY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68829472/sokane_1842_super_73_scout_9173.0.jpg' width='700px' /><br/>
-Super73, the Southern California e-bike company popular among YouTubers and film celebrities, announced that it has raised an impressive $20 million from investors, making it the latest company to benefit from growing venture capital interest after a record year of e-bike sales.
-<a href='https://www.theverge.com/2021/2/17/22278760/super73-ebike-moped-minibike-investment-amount'> Source <a/>

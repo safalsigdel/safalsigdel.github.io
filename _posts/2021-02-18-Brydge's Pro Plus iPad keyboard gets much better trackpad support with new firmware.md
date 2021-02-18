@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KzKP1tajtP2PZGBi2C2h13I1VRY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68830912/DSC00760.0.jpg' width='700px' /><br/>
+Brydge has announced a new firmware update for its Pro Plus iPad keyboards that promises to hugely improve the trackpad experience. The update brings “native” multitouch to the trackpads, meaning you can use the same kind of multi-finger gestures on a Brydge device as Apple's own Magic Keyboard.
+<a href='https://www.theverge.com/2021/2/17/22287000/brydge-pro-plus-ipad-keyboard-new-firmware-native-multitouch'> Source <a/>

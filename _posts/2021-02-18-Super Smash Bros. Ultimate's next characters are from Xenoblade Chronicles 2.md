@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YdcctdWs5atAccez-tEtWAirv7E=/0x0:2482x1388/1200x800/filters:focal(1043x496:1439x892)/cdn.vox-cdn.com/uploads/chorus_image/image/68833006/Screen_Shot_2021_02_17_at_5.02.02_PM.0.png' width='700px' /><br/>
+Nintendo has announced that Pyra and Mythra from Xenoblade Chronicles 2 will be joining Super Smash Bros. Ultimate, as part of the news from its Nintendo Direct presentation. Pyra and Mythra are set to release in March, with the company promising more details closer to release.
+<a href='https://www.theverge.com/2021/2/17/22287114/super-smash-bros-ultimate-new-character-nintendo-switch-dlc-xenoblade-chronicles-2-pyra'> Source <a/>

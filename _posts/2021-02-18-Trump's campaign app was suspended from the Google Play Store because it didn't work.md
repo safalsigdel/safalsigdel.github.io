@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZUYD9fxGbx5-0Vlo0hd6Nfx35FU=/0x0:2731x1800/1200x800/filters:focal(1148x682:1584x1118)/cdn.vox-cdn.com/uploads/chorus_image/image/68833888/1221046780.0.jpg' width='700px' /><br/>
+Google removed former president Donald Trump's 2020 campaign app from Google's Play Store earlier Wednesday. It wasn't removed for any of the many other reasons that Trump has been removed from the world's largest platforms, but rather because it just didn't work, Android Police reports.
+<a href='https://www.theverge.com/2021/2/17/22288201/official-trump-2020-app-removed-google-play-store'> Source <a/>

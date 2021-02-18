@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/r3h6PQ4p5iBOyTMw0iPjCHhdn2k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68833000/nzxth1.0.jpg' width='700px' /><br/>
+PC case and peripheral maker NZXT has recalled its H1 mini-ITX case due to the possibility of a fire hazard under normal use (via Tom's Hardware). If you used the metal screws included with the $350 case to secure your graphics card or other PCIe device to the riser, there was a chance you'd create sparks, or a fire, if it came into contact with a trace in the printed circuit board.
+<a href='https://www.theverge.com/2021/2/17/22287950/nzxt-h1-pc-mini-itx-case-recall-cpsc-gamers-nexus-nylon-metal-fire-hazard'> Source <a/>

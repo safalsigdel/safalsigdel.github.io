@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8lkB1EAZXS-b7ywmXRj9qYZCz44=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68829597/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter has rolled out support for voice direct messages on iOS and Android in India starting today, the company has announced. Android Central reports that the audio messages are now available in three countries worldwide: India, Brazil, and Japan. Plans for voice DMs were first announced last year. Twitter says the feature, which it's calling an “experiment,” will roll out in India in phases.
-<a href='https://www.theverge.com/2021/2/17/22287091/twitter-voice-dm-test-india-brazil-japan'> Source <a/>

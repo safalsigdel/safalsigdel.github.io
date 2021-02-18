@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G-O1FmZklvye19V8KfrixCkaXwo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68829753/DSCF2501__1_.0.jpg' width='700px' /><br/>
-Google Maps is adding a couple of new useful features: the ability to pay for parking or buy a train ticket right from the app.
-<a href='https://www.theverge.com/2021/2/17/22287043/google-maps-pay-parking-public-transportation-cities'> Source <a/>

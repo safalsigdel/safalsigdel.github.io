@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Np-D5xOj94G7h3Ymw7wd1sQEO8Q=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/68832176/1201569982.0.jpg' width='700px' /><br/>
+The world's largest phone show, Mobile World Congress, is moving forward with an in-person event in June, despite the risks that it could turn into a COVID-19 superspreader event.
+<a href='https://www.theverge.com/2021/2/17/22287802/mwc-event-barcelona-testing-masks-vaccines'> Source <a/>

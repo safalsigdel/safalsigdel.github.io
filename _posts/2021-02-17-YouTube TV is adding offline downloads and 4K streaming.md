@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QDtwRuW7bw1-mnqKZi5pGFUwspM=/0x0:2706x1516/1200x800/filters:focal(1137x542:1569x974)/cdn.vox-cdn.com/uploads/chorus_image/image/68829774/Screen_Shot_2021_02_17_at_8.23.59_AM.0.png' width='700px' /><br/>
-If the monthly price for all of these streaming TV services is going to keep going up, the least they can do is throw in some new features and better video quality, right? That's what YouTube says you can soon expect from YouTube TV; today, the company announced that in the coming weeks, the service will “introduce a new add-on package with 4K streaming, offline viewing, and unlimited concurrent streams at home.”
-<a href='https://www.theverge.com/2021/2/17/22286374/youtube-tv-4k-streaming-offline-viewing-announced'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X07UtZkgZ2flRvRrsTEqKnvpWlM=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22309428/xboxwirelessheadset.jpg' width='700px' /><br/>
-Microsoft's new Xbox Wireless Headset appeared in the company's Xbox Series X and S launch commercial all the way back in October. British actor Daniel Kaluuya picked up the headset early on in the ad, but nobody noticed it was an unannounced accessory at the time.
-<a href='https://www.theverge.com/2021/2/17/22287007/microsoft-xbox-wireless-headset-hidden-easter-egg-commercial-launch-trailer'> Source <a/>
