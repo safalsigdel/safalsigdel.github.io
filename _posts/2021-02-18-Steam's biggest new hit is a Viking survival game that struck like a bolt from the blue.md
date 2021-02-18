@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PVXreWqrvMWFvvbJQ9bxfhAjjtY=/0x0:732x624/1200x0/filters:focal(0x0:732x624):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22309259/steam_charts_top_played_games.jpg' width='700px' /><br/>
-The other day, I saw a game named Valheim atop the Steam Early Access sales charts, with overwhelmingly positive reviews. Polygon seemed to like the $20 Viking-themed survival game, and I thought friends might like it, too. I wasn't ready to commit quite yet — I waffled a while before giving it a go. Know who bought it while I was making up my mind? One million other people.
-<a href='https://www.theverge.com/2021/2/17/22286507/valheim-steam-pc-game-2-million-sales'> Source <a/>
