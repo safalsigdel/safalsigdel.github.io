@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l2F2Jl44F2UezD-JS-Ugb5M2bMo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68830298/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
-As part of its ongoing fight over an Alabama warehouse's efforts to unionize, Amazon reportedly changed the timing of a traffic light outside the warehouse, according to reporting by More Perfect Union. Union organizers at the site had previously accused the company of altering the timing so that pro-union workers would not be able to canvass workers while stopped at the light.
-<a href='https://www.theverge.com/2021/2/17/22287191/amazon-alabama-warehouse-union-traffic-light-change-bessemer'> Source <a/>
