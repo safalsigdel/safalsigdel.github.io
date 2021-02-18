@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TJX-yj42z9t6d0yDzd1fknU2XjQ=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/68830429/All_New_Ford_E_Transit_09.0.jpg' width='700px' /><br/>
-Ford will only sell electric vehicles in Europe by 2030, it said Wednesday. The automaker said it will spend $1 billion to convert its factory in Cologne, Germany, into its first EV production line on the continent.
-<a href='https://www.theverge.com/2021/2/17/22287284/ford-electric-vehicles-ev-europe-2030'> Source <a/>
