@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F2tnHt-OT71_eRDKzg8YvXRO9p0=/39x31:2669x1996/1200x800/filters:focal(1134x797:1566x1229)/cdn.vox-cdn.com/uploads/chorus_image/image/68832427/Zillow3DHomeTour.0.jpeg' width='700px' /><br/>
-Zillow's 3D Home app can now generate home floor plans based on scans a user uploads, the company announced today. The new feature, powered by the company's artificial intelligence technology, is available today in the Zillow 3D Home app and could prove useful for people looking to relocate during the pandemic — or just anyone fantasizing about living in a mansion in Nebraska.
-<a href='https://www.theverge.com/2021/2/17/22287644/zillow-3d-home-app-ai-floor-plans-predict-dimensions'> Source <a/>

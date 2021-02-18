@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xnakOtk1DCGiDS45hDZEmUSfbOA=/0x0:1569x1155/1200x800/filters:focal(657x181:907x431)/cdn.vox-cdn.com/uploads/chorus_image/image/68837093/Blog_header.0.jpg' width='700px' /><br/>
+The Apple TV app is now available for Google's 2020 Chromecast. It was announced in December that Apple's streaming app, which offers access to its Apple TV Plus originals, would be coming to the awkwardly named Chromecast with Google TV. Starting today, owners of the excellent $50 device can download Apple TV and start using it.
+<a href='https://www.theverge.com/2021/2/18/22287905/apple-tv-app-now-available-chromecast-google-tv'> Source <a/>

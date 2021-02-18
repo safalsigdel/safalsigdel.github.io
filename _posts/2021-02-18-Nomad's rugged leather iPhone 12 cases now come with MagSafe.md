@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X8f5RYnoDImkyqllkEOe0oJgDHU=/0x0:5000x3500/1200x800/filters:focal(2100x1350:2900x2150)/cdn.vox-cdn.com/uploads/chorus_image/image/68832363/iPhone_12_Series___Rugged_Case___MagSafe___Lifestyle_01___Rustic_Brown.0.jpg' width='700px' /><br/>
-Nomad has updated its lineup of rugged leather iPhone cases for the iPhone 12, 12 Pro, 12 Pro Max, and 12 mini with the much-anticipated addition of support for Apple's MagSafe charging standard.
-<a href='https://www.theverge.com/2021/2/17/22287731/nomad-rugged-leather-iphone-12-magsafe-wireless-charging'> Source <a/>
