@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/usJt4ZYTabNVg81Hwgvk4YW74Kw=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/68839013/1227829337.0.jpg' width='700px' /><br/>
+The House Energy and Commerce Committee has called a new hearing on platform misinformation to include testimony from Facebook, Google, and Twitter. Scheduled for March 25th, the hearing will be a joint effort from the Communications and Technology subcommittee and the Consumer Protection and Commerce subcommittee.
+<a href='https://www.theverge.com/2021/2/18/22290035/platform-moderation-hearing-house-energy-commerce-date'> Source <a/>

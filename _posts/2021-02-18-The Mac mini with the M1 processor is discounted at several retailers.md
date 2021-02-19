@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_xm3ikzsOZrNBsHHNWGdYYJFyCw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68830235/cwelch_201114_4292_0005.0.0.jpg' width='700px' /><br/>
-Apple's new Mac mini with the M1 chip is on sale at select retailers. If you are looking to buy the base configuration, which has 8GB of memory and 256GB of SSD storage, you can grab it for as low as $600 at Costco, but please note membership is required. If you don't want a Costco membership, you can buy that same configuration for $669 at Amazon and B&H Photo.
-<a href='https://www.theverge.com/2021/2/17/22287139/mac-mini-m1-macbook-pro-deal-sale-ps-plus-lg-oled-tv'> Source <a/>

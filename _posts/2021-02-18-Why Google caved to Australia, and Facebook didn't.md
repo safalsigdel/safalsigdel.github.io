@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m-b2XWwkhqHPnsyS5k6c57IYmLY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68836114/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-On February 16th, I wrote that Australia's News Media Bargaining Code threatened to splinter the internet. On February 17th, the splintering arrived: Google cut a deal with News Corp. that will ensure its services continue to be provided in Australia, and Facebook walked away from the bargaining table and began preventing people from sharing news links from Australian publishers around the world.
-<a href='https://www.theverge.com/2021/2/18/22288510/google-facebook-australia-news-media-bargaining-code'> Source <a/>

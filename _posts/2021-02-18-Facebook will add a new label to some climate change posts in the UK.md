@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7-xDeScWnqQpgwE9F0y34dcLRtw=/0x0:3250x3250/1200x800/filters:focal(1365x1365:1885x1885)/cdn.vox-cdn.com/uploads/chorus_image/image/68835460/FB_Mythbusters_mock.0.png' width='700px' /><br/>
-Facebook will start labeling posts about climate change with a banner that directs people to its information page on climate change. It's the company's latest effort to weed out lies and myths about the climate crisis, and it follows criticism from lawmakers and scientists concerned that the social media giant allowed false information to proliferate on its platform.
-<a href='https://www.theverge.com/2021/2/18/22288439/facebook-label-climate-change-posts-misinformation'> Source <a/>

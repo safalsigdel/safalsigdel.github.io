@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Hyperkin is best known for making gaming peripherals, but it also creates clones of consoles that allow you to play retro games in modern resolutions. Now it is releasing a new retro console that will allow you to play Game Boy games on your TV. Hyperkin's RetroN Sq (Square) is a console that will allow you to play Game Boy, GBC, and GBA cartridges.
-<a href='https://www.theverge.com/circuitbreaker/2021/2/17/22288130/retron-sq-hyperkin-game-boy-retro-console-release-date-price'> Source <a/>

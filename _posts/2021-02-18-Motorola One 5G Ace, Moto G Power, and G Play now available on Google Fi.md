@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1-H9XEQOYpKwmsp2q3VwWua_KS0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68833073/ajohnson_210126_4384_0003.0.jpg' width='700px' /><br/>
-Google Fi is adding three new Motorola phones: the One 5G Ace, Moto G Power (2021), and Moto G Play (2021). The devices are available for sale directly through the MVNO with the Ace priced at $279, the Moto G Power for $199, and the Moto G Play for $99. You'll also find last year's versions of the Power and Play for sale.
-<a href='https://www.theverge.com/2021/2/17/22288115/google-fi-motorola-one-5g-ace-moto-g-power-play-2021'> Source <a/>

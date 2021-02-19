@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mGQPVsJErsavRdVlO0sHF1pMgKo=/384x123:2240x1526/1200x800/filters:focal(1125x678:1553x1106)/cdn.vox-cdn.com/uploads/chorus_image/image/68839805/FUJI_8_14.0.jpg' width='700px' /><br/>
+Vaio is known for making laptops that pack a surprising amount of power into unbelievably thin form factors. The Vaio Z may be the company's most ambitious product yet. It contains up to Intel's four-core Core i7-11357H — and at a starting weight of 2.11 pounds, it'll be the lightest laptop ever to house an Intel H-series processor. (Though models you can buy in the US are 2.32 pounds.)
+<a href='https://www.theverge.com/2021/2/18/22290092/vaio-z-tiger-lake-h-carbon-fiber-laptop-release-date-price-preorder'> Source <a/>

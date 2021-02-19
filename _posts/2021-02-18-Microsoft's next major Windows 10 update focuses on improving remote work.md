@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oeFC_QpeEWjOk-wYbWwj4p9Mlos=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68835275/acastro_180504_1777_microsoft_0001.0.jpg' width='700px' /><br/>
-The next major update to Windows 10, version 21H1, will be delivered in the first half of 2021 and focuses on improving remote work scenarios. Microsoft traditionally delivers two major Windows updates per year, with most of the bigger features dropping in the spring and a smaller update in the fall. While IT admins are used to this approach, Microsoft appears to be reversing this cadence for 2021.
-<a href='https://www.theverge.com/2021/2/18/22288937/microsoft-windows-10-next-version-21h1-update-remote-work-features'> Source <a/>

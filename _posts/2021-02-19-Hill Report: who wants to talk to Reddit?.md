@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/22313663/VRG_Hill_Report_logo_group.png' width='700px' /><br/>
+Weeks after Reddit community r/WallStreetBets shitposted GameStop stock up to more than $400 a share, the House Financial Services Committee pulled all of the major players in for questioning on Thursday.
+<a href='https://www.theverge.com/2021/2/18/22290110/house-financial-services-robinhood-gamestop-squeeze-roaringkitty-hearing'> Source <a/>

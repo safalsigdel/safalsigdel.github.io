@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LQotJc-YbJxdzXyoahzr158YFns=/0x0:1035x690/1200x800/filters:focal(436x263:600x427)/cdn.vox-cdn.com/uploads/chorus_image/image/68835166/matex2.0.jpg' width='700px' /><br/>
-Huawei has posted another teaser for its upcoming Mate X2 folding phone on Weibo, offering the strongest hint yet that it'll move away from the original Mate X's design. The first Mate X, announced in 2019 and refreshed in 2020, had a single large screen that folded in half so that the display was on the outside of the device. The follow-up phone, however, looks like it'll fold the other way, more like Samsung's Galaxy Folds.
-<a href='https://www.theverge.com/2021/2/18/22288911/huawei-mate-x2-teaser-new-design-announcement-date'> Source <a/>

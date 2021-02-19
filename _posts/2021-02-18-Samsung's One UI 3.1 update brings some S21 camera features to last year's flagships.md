@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nttC1UBbjxEZ9tyb53txeb-6ZTE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68834360/bking_200303_3928_0003.0.jpg' width='700px' /><br/>
-Samsung has announced that its latest One UI 3.1 software update is rolling out to some of its older phones. The update will trickle down some of the Galaxy S21 lineup's newer software features to last year's Samsung flagships, including the Galaxy S20, Galaxy Note 20, Galaxy Z Fold 2 and Galaxy Z Flip phones.
-<a href='https://www.theverge.com/2021/2/17/22288329/samsung-one-ui-3-1-update-s21-camera-features-s20-note-20-z-fold-2-flip-software'> Source <a/>

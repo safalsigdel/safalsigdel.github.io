@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ka1n0xUx5TAe5eBJhO-v-PtDdj0=/0x0:2170x2340/1200x0/filters:focal(0x0:2170x2340):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22313226/android_11_emergency_call_2.jpg' width='700px' /><br/>
+The Android 12 developer preview is out, and the internet is busy poring over it to find any new features or hints at the OS's future. So far, there have been a few interesting things discovered, such as an Emergency SOS feature, some redesigns, and other useful, if minor, finds:
+<a href='https://www.theverge.com/2021/2/18/22289976/android-12-developer-preview-roundup-notifications-redesign-tweaks-emergency-sos'> Source <a/>

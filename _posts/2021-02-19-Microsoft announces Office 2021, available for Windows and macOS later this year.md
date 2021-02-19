@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x3WyNRIE_OvYp0jETEe8--n1Suk=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68838442/officeicons.0.jpg' width='700px' /><br/>
+Microsoft is announcing two new versions of Office today: a consumer Office 2021 version and Office LTSC for commercial customers. Office 2021 will be available later this year for both Windows and macOS, and similar to the previous Office 2019 release, it's designed for those who don't want to subscribe to the cloud-powered Microsoft 365 variants.
+<a href='https://www.theverge.com/2021/2/18/22288959/microsoft-office-2021-windows-mac-features-release-date-price'> Source <a/>

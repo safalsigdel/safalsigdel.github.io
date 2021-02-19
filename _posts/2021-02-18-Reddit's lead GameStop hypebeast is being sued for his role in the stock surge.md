@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yz2NfL3mgiUzg0gL2HUq21FkWsU=/0x0:1918x1192/1200x800/filters:focal(45x506:351x812)/cdn.vox-cdn.com/uploads/chorus_image/image/68832477/Screen_Shot_2021_02_17_at_9.35.15_AM.0.png' width='700px' /><br/>
-“Roaring Kitty,” also known as u/DeepFuckingValue on Reddit and Keith Patrick Gill in real life, is now the target of a lawsuit (which you can view below) that claims he manipulated the market to increase GameStop's stock price.
-<a href='https://www.theverge.com/2021/2/17/22287612/reddit-wallstreetbets-gamestop-lawsuit-roaring-kitty-gill-market-manipulation'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/97T44B_A7cjoQz-eJ1MviKvPA8w=/0x0:3532x2160/1200x800/filters:focal(1332x766:1946x1380)/cdn.vox-cdn.com/uploads/chorus_image/image/68833386/KOC_Key_Art_Standard_Horizontal_Logo.0.jpg' width='700px' /><br/>
-Velan Studios, the studio behind the mixed-reality racer Mario Kart Live: Home Circuit, has revealed its next title: Knockout City, a team-based online dodgeball game. And it's launching soon, as the game will be released on May 21st on Origin, Steam, the Playstation 4, Xbox One, and Nintendo Switch, with enhancements for the PS5 and Xbox Series X. EA is publishing the game under its EA Originals label.
-<a href='https://www.theverge.com/2021/2/17/22285802/knockout-city-dodgeball-game-velan-studios-ea'> Source <a/>

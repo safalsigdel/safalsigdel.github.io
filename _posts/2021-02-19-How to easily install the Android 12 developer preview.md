@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SWyrTRBtDqLEHeDJsSBkI7qjANw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68838115/akrales_201012_4137_0020.0.0.jpg' width='700px' /><br/>
+Update February 18th, 2:10PM ET: Google released the first of its Android 12 developer previews, so we've updated the info in this post to be relevant if you want to install it on your phone. The instructional photos might include a mention of Android 11, but we've ensured the steps are still accurate.
+<a href='https://www.theverge.com/21278261/android-developer-preview-software-beta-flash-tool-install-how-to-google-pixelflash'> Source <a/>

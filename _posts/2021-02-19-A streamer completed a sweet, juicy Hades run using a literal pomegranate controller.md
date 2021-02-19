@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Hades, Supergiant Games' Greek-themed roguelike, can be a pretty tough game. But one intrepid Twitch streamer took it upon himself to up the challenge by beating the game in an incredibly nontraditional way: by using a controller made out of an actual pomegranate.
+<a href='https://www.theverge.com/tldr/2021/2/18/22289520/hades-pomegranate-controller-rudeism-streamer'> Source <a/>

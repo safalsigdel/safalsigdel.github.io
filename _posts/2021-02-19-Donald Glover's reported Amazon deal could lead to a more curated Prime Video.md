@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iw7UiMHrld5XxGEdb8ti0XXW4oU=/0x0:3000x2000/1200x800/filters:focal(1402x585:1882x1065)/cdn.vox-cdn.com/uploads/chorus_image/image/68837735/donald_glover.0.jpg' width='700px' /><br/>
+After calling FX home for several years, Atlanta creator Donald Glover is reportedly moving to Amazon with an overall deal worth eight figures, according to multiple publications. The news was first reported by The Hollywood Reporter.
+<a href='https://www.theverge.com/2021/2/18/22289258/donald-glover-amazon-deal-channel-curation-phoebe-waller-bridge-fx-atlanta'> Source <a/>

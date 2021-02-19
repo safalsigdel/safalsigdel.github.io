@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zieBJnmrPksWRe48Q2WjQqdoVtI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68836116/acastro_180529_1777_nvidia_0002.0.0.jpg' width='700px' /><br/>
-Nvidia is purposefully making its new RTX 3060 graphics cards less efficient to mine Ethereum cryptocurrency. New drivers that will accompany the release of the GPUs later this month will reduce the hash rate of Ethereum mining by around 50 percent, using software detection for cryptocurrency mining.
-<a href='https://www.theverge.com/2021/2/18/22289154/nvidia-rtx-3060-ethereum-mining-drivers-limit-cryptocurrency'> Source <a/>

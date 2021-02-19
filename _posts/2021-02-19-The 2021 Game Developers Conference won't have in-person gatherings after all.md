@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-KBETJ6-mXVqbxMBNOi1IGraV04=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68840090/acastro_200302_1777_GDC_0002.0.0.jpg' width='700px' /><br/>
+The Game Developers Conference is changing course from its original (potentially risky) plan of hosting a hybrid in-person / digital event in 2021. According to an announcement on Thursday, GDC 2021 will be all-digital and split into three separate events to better and more safely accommodate the networking, games showcases, and instructional workshops and panels the event is known for.
+<a href='https://www.theverge.com/2021/2/18/22290109/gdc-digital-only-masterclass-showcase-2021'> Source <a/>

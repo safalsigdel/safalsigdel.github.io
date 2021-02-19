@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/on7FOUL3PJx2EbSAiwfwJVoAiEA=/0x0:1580x658/1200x800/filters:focal(664x203:916x455)/cdn.vox-cdn.com/uploads/chorus_image/image/68833757/Untitled.0.png' width='700px' /><br/>
-Google has announced that a built-in screen recorder is coming to Chrome OS in March. Google hopes the tool will make it easier for students and teachers to record virtual lessons. “Teachers have long recorded lessons to help students do homework and study for tests, but in the past year it's become downright critical for virtual learning,” reads Google's blog post.
-<a href='https://www.theverge.com/2021/2/17/22288149/chrome-os-screen-recorder-chromebooks-google-school'> Source <a/>

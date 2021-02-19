@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/34r0IY6Lxe2UgPDtEwXyUZC57U8=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68832612/cgartenberg_201105_4276_006.0.0.jpg' width='700px' /><br/>
-Some new data reported by PCMag indicates that the iPhone 12 Pro Max, 12 Pro, and 12 are already the three top-selling 5G phones in the US. That the phones are just four months old speaks to the continued popularity of the iPhone in the US and just how big of a role it will play in driving 5G adoption in this country.
-<a href='https://www.theverge.com/2021/2/17/22287683/iphone-12-pro-max-5g-sales-adoption'> Source <a/>
