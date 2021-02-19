@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9pmRm4njbMh7vrQBbCGxoM9zlYo=/0x0:2025x1350/1200x800/filters:focal(851x513:1175x837)/cdn.vox-cdn.com/uploads/chorus_image/image/68843026/blizzcon2021.0.jpg' width='700px' /><br/>
+After canceling BlizzCon 2020 due to the pandemic, Blizzard is back — earlier than usual in the year — for BlizzCon 2021. Blizzard is actually calling it “BlizzConline 2021.” Expect to hear updates on anticipated titles, including Diablo IV, Overwatch 2, World of Warcraft, Hearthstone, and perhaps a sneak peek at the rumored Diablo 2 remaster.
+<a href='https://www.theverge.com/2021/2/19/22285755/blizzcon-2021-live-stream-date-start-time-overwatch-2-diablo-4-world-of-warcraft-hearthstone'> Source <a/>

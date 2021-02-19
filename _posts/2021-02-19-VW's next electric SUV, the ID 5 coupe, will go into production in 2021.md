@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IGQFW43VJ7ofHLWsjsHu3h3vxsg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68842985/akrales_200915_4161_0361.0.0.jpg' width='700px' /><br/>
+Volkswagen confirmed that its next electric vehicle, the ID 5, will start production in Germany in the second half of 2021. The first pilot series of the ID 5 has already started production, the automaker confirmed in a recent tweet.
+<a href='https://www.theverge.com/2021/2/19/22291294/vw-id5-ev-electric-suv-coupe-production-volkswagen-2021'> Source <a/>
