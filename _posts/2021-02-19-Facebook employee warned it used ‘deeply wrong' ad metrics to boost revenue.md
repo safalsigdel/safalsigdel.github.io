@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0bO8sQMX3wIOEwEU4cxRW8O-Quc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68836533/akrales_180614_1777_0080.0.jpg' width='700px' /><br/>
-Some Facebook employees believed they were promoting “deeply wrong” data about how many users advertisers could reach, and one warned that the company had counted on “revenue we should have never made” based on its inflated numbers, according to recently unsealed internal emails.
-<a href='https://www.theverge.com/2021/2/18/22289232/facebook-ad-revenue-proposed-reach-inflation-lawsuit-unredacted-filings'> Source <a/>
