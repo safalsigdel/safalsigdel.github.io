@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k_MdMewSr1wogZ8f0ycGfpV0qYk=/0x0:2040x1350/1200x800/filters:focal(857x512:1183x838)/cdn.vox-cdn.com/uploads/chorus_image/image/68843267/Bye_Connie.0.jpg' width='700px' /><br/>
+A series of accidentally posted office videos has become an unexpected viral hit on TikTok. The most popular shows a series of municipal employees bidding farewell to their colleague, Connie, against the backdrop of a prairie-hued office space straight out of Parks & Rec.
+<a href='https://www.theverge.com/2021/2/19/22291150/tiktok-goodbye-connie-viral-hit-indiana-clerk-office'> Source <a/>
