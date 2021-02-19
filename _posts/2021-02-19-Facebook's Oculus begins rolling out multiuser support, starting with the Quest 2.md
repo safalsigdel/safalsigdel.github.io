@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dn0i77zyXbd5B9TSrirprJO1Cgo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68837742/akrales_200904_4160_0135.0.0.jpg' width='700px' /><br/>
-Facebook is now rolling out multiuser support as an experimental feature for Oculus Quest 2 headsets, the company announced on Thursday. The primary account holder will be able to add up to three additional accounts to one device. Facebook is also rolling out app sharing as an experimental feature for the Quest 2, which will allow accounts on one device to access the apps owned by the primary account holder.
-<a href='https://www.theverge.com/2021/2/18/22289577/facebook-rolling-out-multi-user-support-oculus-quest-2'> Source <a/>
