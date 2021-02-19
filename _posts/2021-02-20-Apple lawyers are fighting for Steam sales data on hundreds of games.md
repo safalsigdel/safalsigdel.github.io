@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Fa7KXWtS8yBR8fojj6Y3UigW6GA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68843695/acastro_20200818_1777_epicApple_0004.0.0.jpg' width='700px' /><br/>
+Apple subpoenaed Valve in November as part of its ongoing litigation with Fortnite developer Epic Games, and it's demanding that Valve provide extensive sales data for more than 400 games, according to a new filing (via PC Gamer).
+<a href='https://www.theverge.com/2021/2/19/22291297/apple-valve-data-steam-sales-epic-games-dispute'> Source <a/>
