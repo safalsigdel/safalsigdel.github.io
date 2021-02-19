@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wtYHvmaROk1jQ_UiuWw3M3BDTMc=/0x0:1024x679/1200x800/filters:focal(431x259:593x421)/cdn.vox-cdn.com/uploads/chorus_image/image/68838504/justice-federal-government.0.jpg' width='700px' /><br/>
-A coalition of tech and business groups have joined together for a lawsuit challenging Maryland's newly passed digital services tax, as first reported by The Washington Post. The lawsuit, filed in federal district court in Maryland, argues the state tax is preempted by federal law and violates various constitutional prohibitions against state taxes on out-of-state activity.
-<a href='https://www.theverge.com/2021/2/18/22289825/maryland-digital-services-tax-lawsuit-internet-association'> Source <a/>
