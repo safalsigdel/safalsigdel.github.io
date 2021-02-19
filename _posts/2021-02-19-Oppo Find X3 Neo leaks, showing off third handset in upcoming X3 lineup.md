@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JS5I1AebK3_XJgTTgVpWQCx-lc8=/0x0:1078x719/1200x800/filters:focal(453x274:625x446)/cdn.vox-cdn.com/uploads/chorus_image/image/68841746/find_x3_neo.0.jpg' width='700px' /><br/>
+Images of the unannounced Oppo Find X3 Neo have leaked again, this time giving us our best look yet at the third phone in Oppo's upcoming Find X3 phone lineup, NieuweMobiel.nl reports. As tipster Evan Blass has subsequently pointed out, the handset appears to be a rebranded version of Oppo's Reno5 Pro Plus 5G. The phone is expected to be announced next month alongside the Find X3 Pro and Find X3 Lite.
+<a href='https://www.theverge.com/2021/2/19/22290921/oppo-find-x3-neo-leaks-news-images-release-date-rumors-pro-lite'> Source <a/>
