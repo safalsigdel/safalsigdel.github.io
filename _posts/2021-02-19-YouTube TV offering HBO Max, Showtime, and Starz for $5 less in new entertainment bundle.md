@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3dAIr9S6EhB-iGRcV18so4x4bds=/0x0:918x616/1200x800/filters:focal(386x235:532x381)/cdn.vox-cdn.com/uploads/chorus_image/image/68838075/Screen_Shot_2021_02_18_at_12.43.35_PM.0.png' width='700px' /><br/>
-For YouTube TV customers who subscribe individually to HBO Max, Showtime, and Starz, the company is rolling out a new entertainment bundle that will save people $5.
-<a href='https://www.theverge.com/2021/2/18/22289589/youtube-tv-hbo-max-showtime-starz-bundle-virtual-premium-cable'> Source <a/>

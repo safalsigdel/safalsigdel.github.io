@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UIDAi6a4ogTpfLNhx9c5l_bsSq4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68842751/jbareham_190301_3267_0016.0.jpg' width='700px' /><br/>
+Every Friday, The Verge publishes our flagship podcast The Vergecast, our chat show to discuss this week in tech news featuring our reporters and editors.
+<a href='https://www.theverge.com/2021/2/19/22291162/vergecast-podcast-441-australia-news-media-nintendo-direct-recap'> Source <a/>
