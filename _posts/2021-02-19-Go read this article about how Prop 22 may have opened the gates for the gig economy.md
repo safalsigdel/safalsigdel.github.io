@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZTUseydhPFSknoto2_ny9PjBZx8=/0x0:4257x2840/1200x800/filters:focal(1789x1080:2469x1760)/cdn.vox-cdn.com/uploads/chorus_image/image/68837695/1229135526.0.jpg' width='700px' /><br/>
-Last November, California passed Proposition 22, which made it so that companies like Uber and Lyft could classify their workers as contractors instead of employees, avoiding the obligation to give them benefits. Bloomberg has written a great report about how this type of change — replacing regular employees with contractors — could be coming to many other industries across the nation, which could affect millions of workers.
-<a href='https://www.theverge.com/2021/2/18/22288488/prop-22-gig-economy-expansion-industries-bloomberg'> Source <a/>
