@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WZOhP20HOZW_IJMKrsg70qDVSkw=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68837712/VRG_1777_Android_12_001.5.jpg' width='700px' /><br/>
-Google is releasing a developer preview for the next version of Android, Android 12, for Pixel devices today. As is the norm for Google, the very first previews of Android are full of a lot of developer-facing changes. Android 12 has updates to how the OS handles images, video, and future security updates.
-<a href='https://www.theverge.com/2021/2/18/22288084/android-12-developer-preview-available-google-pixel'> Source <a/>
