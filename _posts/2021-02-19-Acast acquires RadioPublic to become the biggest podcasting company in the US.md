@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h-QdlrUDIGBRwbsmyc4AuHpxB0s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68841310/acast_radiopublic.0.jpg' width='700px' /><br/>
+Acast, a podcast host and ad network, is looking to improve its tech and broaden its reach. The company announced today that it's acquiring RadioPublic for an undisclosed amount with the goal of using RadioPublic's tech to bring more creators to the Acast platform and make inroads in the US market. RadioPublic's podcast app will remain live, and its team will stay based in the US.
+<a href='https://www.theverge.com/2021/2/19/22289742/acast-radiopublic-podcasting-platform-acquisition'> Source <a/>

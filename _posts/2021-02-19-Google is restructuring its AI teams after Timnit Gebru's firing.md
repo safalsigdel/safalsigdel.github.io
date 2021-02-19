@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rCMUlfMGt7ItXcuJUkzWLWnYjTo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68836953/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google is reorganizing its responsible AI teams in the wake of Timnit Gebru's firing. The ethical AI team will now roll up to Marian Croak, a prominent Black executive in the engineering department. Croak will also oversee employees focused on engineering fairness products, according to Bloomberg. She will report to Jeff Dean, who leads the company's AI efforts.
-<a href='https://www.theverge.com/2021/2/18/22289264/google-restructuring-ethical-ai-team-timnit-gebru-firing'> Source <a/>

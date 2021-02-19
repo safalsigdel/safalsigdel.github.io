@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9sRiV5wueCk3O0Zs8ldqZjMHe6A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68841288/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
+Uber has lost the final appeal in a long running UK legal battle over whether its drivers are self-employed or legally-recognized workers with all the attendant rights, Bloomberg reports. The ruling is the conclusion of the company's five-year legal fight in the country and a major setback for Uber that could affect all gig workers in the UK, regardless of employer.
+<a href='https://www.theverge.com/2021/2/19/21330906/uber-uk-supreme-court-employee-rights'> Source <a/>

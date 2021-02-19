@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tbhC_UhV5HZ-eUWupHgvKb1aHKo=/0x0:2040x1360/1200x675/filters:focal(877x685:1203x1011)/cdn.vox-cdn.com/uploads/chorus_image/image/68836746/DSCF3071_Edited.0.jpg' width='700px' /><br/>
-Amazon's new Fire TV Stick is a $39.99 streaming dongle that's aimed at people who haven't yet made the upgrade to a 4K TV — and don't intend to anytime soon. It maxes out at 1080p video resolution, but offers support for modern tricks like HDR and Dolby Atmos surround sound. That's a weird zone to be in when rival products like the Chromecast with Google TV go all-in on 4K for not much more money.
-<a href='https://www.theverge.com/2021/2/18/22289197/amazon-fire-tv-stick-2020-review-features-specs-price'> Source <a/>
