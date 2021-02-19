@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FrJvKKBPnMXP_Vw8DzzMPLHNn_U=/0x0:1020x676/1200x800/filters:focal(429x257:591x419)/cdn.vox-cdn.com/uploads/chorus_image/image/68838860/WhatsApp1_1020.0.jpg' width='700px' /><br/>
-WhatsApp has a new plan to explain its contentious privacy policy — the one that came under fire when users grew concerned the platform would share their messages with parent company Facebook. In an announcement on Thursday, the company explained how users can read through the new policy and learn how business and personal messages — which have different privacy standards — are handled.
-<a href='https://www.theverge.com/2021/2/18/22289595/whatsapp-privacy-policy-app-banner-explanation-telegram'> Source <a/>
