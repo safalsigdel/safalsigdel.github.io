@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PGiZNiajlKCr6S1dzfumlarJcZQ=/0x0:4000x2666/1200x800/filters:focal(1961x1800:2601x2440)/cdn.vox-cdn.com/uploads/chorus_image/image/68848017/1210482601.0.jpg' width='700px' /><br/>
+Over at The Markup is an alarming story about a rash of phishing scams that have been targeting gig workers for Postmates. Drivers are receiving phone calls from people claiming to be Postmates employees, who urge the workers to give over their login details — usually under the guise that it's necessary to keep a driver account in good standing or avoid claims of fraud.
+<a href='https://www.theverge.com/2021/2/20/22292702/postmates-drivers-phishing-scams-stolen-earnings'> Source <a/>
