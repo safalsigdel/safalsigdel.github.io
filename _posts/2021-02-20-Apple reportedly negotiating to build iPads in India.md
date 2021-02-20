@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hU_8tNy1c-C326EZa-vv-lOYIg8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68840822/vpavic_190829_3709_1164.0.jpg' width='700px' /><br/>
-Apple is said to be lobbying the Indian government in a move that could see the company manufacture iPads in the country for the first time. Reuters reports that the government is planning to launch an incentive scheme designed to boost India's computer exports, and Apple wants in — but is angling for a better deal.
-<a href='https://www.theverge.com/2021/2/19/22290657/apple-ipad-manufacturing-india-negotiation-report'> Source <a/>

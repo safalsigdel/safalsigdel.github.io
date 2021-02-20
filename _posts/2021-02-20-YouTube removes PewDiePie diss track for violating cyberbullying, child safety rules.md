@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S4CfAkotYRkD2_yU5c7-uz7dtgg=/0x0:1490x752/1200x800/filters:focal(626x257:864x495)/cdn.vox-cdn.com/uploads/chorus_image/image/68840578/Screen_Shot_2021_02_18_at_10.09.58_PM.0.png' width='700px' /><br/>
-YouTube has removed one of Felix “PewDiePie” Kjellberg's recent videos, a diss track aimed at popular children's channel Cocomelon, for violating guidelines around cyberbullying and child safety.
-<a href='https://www.theverge.com/2021/2/18/22290549/pewdiepie-cocomelon-youtube-video-removal-child-safety-cyberbullying-tseries-diss-track'> Source <a/>

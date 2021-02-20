@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Blackmagic is releasing a new, “Pro” version of its Pocket Cinema Camera 6K, which looks to fix a lot of the pain points we found in the original. It adds a tiltable, brighter screen (and an optional electronic viewfinder attachment), a bigger battery, and built-in ND. The camera is slotting into Blackmagic's line-up above the regular 6K, coming in at $2,495, about $500 more than the non-Pro version.
-<a href='https://www.theverge.com/circuitbreaker/2021/2/18/22288547/blackmagic-pocket-cinema-6k-pro-camera-improved-screen-battery'> Source <a/>

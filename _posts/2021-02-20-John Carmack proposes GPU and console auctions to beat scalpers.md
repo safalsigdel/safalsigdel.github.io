@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HrN_hWOh7V2clY8VK0WFgYA8kV8=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/68841512/twarren_200909_4184_0016.0.0.jpg' width='700px' /><br/>
-John Carmack has proposed an auction system for popular gaming products like GPUs, the PS5, and Xbox Series X. Carmack, the co-founder of id software, believes “we really would be better off with a transparent auction system directly from the manufacturers and a more efficient market.”
-<a href='https://www.theverge.com/2021/2/19/22290905/john-carmack-gpu-console-auctions-proposal-scalpers'> Source <a/>

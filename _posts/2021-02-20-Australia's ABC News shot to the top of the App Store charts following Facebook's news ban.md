@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JZpT9NSkg0pvilMktR4RI6TW-Co=/114x522:2088x1562/1200x800/filters:focal(786x906:1240x1360)/cdn.vox-cdn.com/uploads/chorus_image/image/68844400/Screen_Shot_2021_02_19_at_8.51.34_AM.0.png' width='700px' /><br/>
+The Australian Broadcasting Corporation's ABC News app shot to the top of Apple's App Store charts in Australia over the course of the last few days, not long after Facebook banned Australian news sources on its platform. As Financial Times' Uma Patel suggests in a tweet thread, that's possibly because ABC capitalized on Facebook's news ban with an ad sending users to its app.
+<a href='https://www.theverge.com/2021/2/19/22291406/abc-news-app-top-charts-facebook-ban-australia'> Source <a/>

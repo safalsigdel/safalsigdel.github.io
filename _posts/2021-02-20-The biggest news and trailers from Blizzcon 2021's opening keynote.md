@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/msdSS-e9tGKw2wsVeAhaDrdD9zE=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68845805/Diablo_II_Char_Select_Act1.0.png' width='700px' /><br/>
+Blizzcon happened a little later than usual due to the pandemic, but the first virtual version of Blizzard's games convention still had some interesting news and trailers. The opening keynote covered most of the big franchises, like World of Warcraft and Diablo, along with some more obscure classics.
+<a href='https://www.theverge.com/2021/2/19/22285677/blizzcon-2021-news-trailers-diablo-wow-burning-crusade'> Source <a/>

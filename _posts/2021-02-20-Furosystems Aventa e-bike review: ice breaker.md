@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/l1rsIpnF24jg2aZ-ze9FOOSXIOc=/0x0:2040x1407/1200x675/filters:focal(860x479:1186x805)/cdn.vox-cdn.com/uploads/chorus_image/image/68847080/verge_Furo_stef_spray_sky_2040pxl.0.jpg' width='700px' /><br/>
+Aventa is a new electric bike with a secret: its battery is removable despite the clean design.
+<a href='https://www.theverge.com/22289775/furosystems-aventa-electric-bike-review-price-features'> Source <a/>

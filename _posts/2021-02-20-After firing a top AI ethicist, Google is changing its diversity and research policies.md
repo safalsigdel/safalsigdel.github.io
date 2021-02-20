@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eUyy4YP0sh6nt54eJunB2AdEbUQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68845028/acastro_180508_1777_google_IO_0001.0.jpg' width='700px' /><br/>
+Google is changing its policies related to research and diversity after completing an internal investigation into the firing of ethical AI team co-leader Timnit Gebru, according to Axios. The company intends to tie the pay of certain executives to diversity and inclusivity goals. It's also making changes to how sensitive employee exits are managed.
+<a href='https://www.theverge.com/2021/2/19/22291631/google-diversity-research-policy-changes-timnet-gebru-firing'> Source <a/>

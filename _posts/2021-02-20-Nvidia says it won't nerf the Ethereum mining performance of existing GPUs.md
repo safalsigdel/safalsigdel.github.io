@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-This morning, Nvidia announced that it would artificially reduce the performance of its upcoming $329 GeForce RTX 3060 graphics card when it comes to one specific task: Ethereum cryptocurrency mining. As weird as that news might sound, it was music to the ears of some gamers — who have been trying and failing to get their hands on graphics cards for months due to the great GPU shortage, and blaming miners for part of that.
-<a href='https://www.theverge.com/circuitbreaker/2021/2/18/22290362/nvidia-will-not-reduce-3060-ti-3070-3080-3090-eth-mining'> Source <a/>

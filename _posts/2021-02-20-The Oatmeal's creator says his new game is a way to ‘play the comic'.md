@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1MK5v8kcdFQh6K8ircYfX35yeQY=/0x0:2000x3000/1200x800/filters:focal(797x579:1117x899)/cdn.vox-cdn.com/uploads/chorus_image/image/68847543/452705690.0.jpg' width='700px' /><br/>
+The creator of The Oatmeal, Matthew Inman, released a new cat-themed mobile word game called Kitty Letter earlier this week that feels like playing one of his silly comic strips. That feeling was intentional, Inman told me.
+<a href='https://www.theverge.com/2021/2/20/22291686/the-oatmeal-creator-kitty-letter-matthew-inman-play-comic'> Source <a/>
