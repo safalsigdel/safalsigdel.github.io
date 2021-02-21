@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/11NqZxTId80aUaW19NDqZuG_uh0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68841884/acastro_190703_1777_pixel_tracking_0001.0.jpg' width='700px' /><br/>
-All of those obnoxious marketing emails that crowd your inbox aren't just pushing a product. They're also tracking whether you've opened the email, when you opened it, and where you were at the time by using software like MailChimp to embed tracking software into the message.
-<a href='https://www.theverge.com/22288190/email-pixel-trackers-how-to-stop-images-automatic-download'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AXcbqUhGvUlsECpxe3Bc8Cot71A=/0x0:2314x1256/1200x800/filters:focal(972x443:1342x813)/cdn.vox-cdn.com/uploads/chorus_image/image/68848533/Screen_Shot_2021_02_20_at_12.02.48_PM.0.png' width='700px' /><br/>
+Despite its later-than-usual timing and going completely virtual for the first time, yesterday's BlizzCon keynote brought with it some big news and exciting trailers. It also featured a musical performance from Metallica. The band isn't new to BlizzCon, having first appeared at the conference in 2014.
+<a href='https://www.theverge.com/2021/2/20/22292790/metallica-blizzcon-2021-performance-dmca-for-whom-the-bell-tolls'> Source <a/>
