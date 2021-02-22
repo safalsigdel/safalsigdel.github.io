@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/55xgX2HHhwJWr1gPHcuS7Wpqu_8=/0x16:781x861/1200x800/filters:focal(318x200:442x324)/cdn.vox-cdn.com/uploads/chorus_image/image/68854019/bOBEy_ag.0.png' width='700px' /><br/>
+TikTok is announcing today that it's taking a couple small steps to try and help people who are affected by eating disorders. To do this, it's partnering with the National Eating Disorder Association (or NEDA) to have an eating disorder awareness week, and implementing two new features that aim to provide resources and support to those who need it.
+<a href='https://www.theverge.com/2021/2/22/22292166/tiktok-eating-disorder-support-resources-hashtags'> Source <a/>

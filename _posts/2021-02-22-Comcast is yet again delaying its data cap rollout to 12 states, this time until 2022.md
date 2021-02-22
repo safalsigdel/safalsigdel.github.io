@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TOTDMewO0oRzwuq2ERYXBiLH_Uo=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/68843766/comcast.0.jpg' width='700px' /><br/>
-If you live in one of the last states where Comcast hasn't rolled out its data caps, you're getting another reprieve: the company has announced that it's now pushing back the rollout to some time in 2022 (via Ars Technica). The 1.2TB data caps, which incur extra charges if users go over them, were originally slated to roll out in March but were then delayed until July. Comcast hasn't said specifically when next year the rollout would occur.
-<a href='https://www.theverge.com/2021/2/19/22291469/comcast-delays-northeast-data-cap-rollout-2022'> Source <a/>
