@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RgG_oc5xZrMF8aqSira-QkKbTp8=/0x0:6720x4480/1200x800/filters:focal(2544x2197:3618x3271)/cdn.vox-cdn.com/uploads/chorus_image/image/68851658/awhite_200319_3954_4.0.jpg' width='700px' /><br/>
+Pop quiz: which is the better deal, $500 off a Razer Blade laptop, or $150 off an Asus Zephyrus G14? It might hinge on whether you need a webcam, because in practically every other way the Asus is the laptop I'd buy today.
+<a href='https://www.theverge.com/good-deals/2021/2/21/22294126/razer-blade-15-base-asus-zephyrus-g14-deal-amazon-best-buy'> Source <a/>

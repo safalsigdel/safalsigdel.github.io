@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-With the right keyboard accessory, you can transform your iPad into a laptop. Apple's Magic Keyboard for the 11-inch iPad Pro and fourth-generation iPad Air can add a laptop-like experience to either tablet. It includes a set of backlit keys and a trackpad.
-<a href='https://www.theverge.com/good-deals/2021/2/19/22290991/samsung-galaxy-buds-hisense-75-inch-4k-led-tv-apple-magic-keyboard-sale'> Source <a/>
