@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/juCc7RH5CZ6H8fyqUQJQoH-68fI=/0x0:5194x3465/1200x800/filters:focal(2182x1318:3012x2148)/cdn.vox-cdn.com/uploads/chorus_image/image/68844746/1147794851.jpg.0.jpg' width='700px' /><br/>
-Uber, Lyft, DoorDash, Instacart, and Postmates spent over $200 million campaigning for Proposition 22, the most expensive ballot measure in California history, successfully convincing voters that they couldn't properly pay and protect their workers if they were forced to classify them as full employees — at least, not without cutting back service or substantially raising the price you'd pay.
-<a href='https://www.theverge.com/2021/2/19/22291580/prop-22-instacart-doordash-uber-lyft-postmates-grubhub-price-hike'> Source <a/>
