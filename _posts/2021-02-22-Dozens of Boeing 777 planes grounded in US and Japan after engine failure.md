@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9daDUeYRoAX8cMA4ItnexdWhUB4=/0x0:2040x1172/1200x800/filters:focal(620x559:946x885)/cdn.vox-cdn.com/uploads/chorus_image/image/68852938/plane2.0.jpg' width='700px' /><br/>
+Airlines in Japan and the US have grounded dozens of Boeing 777 aircraft after the dramatic engine failure that United Airlines flight 328 experienced over Denver this weekend. According to the National Transportation Safety Board's ongoing investigation, two fan blades on the plane's number 2 engine had developed fractures.
+<a href='https://www.theverge.com/2021/2/21/22294578/boeing-777-planes-denver-engine-failure-grounding-us-japan'> Source <a/>
