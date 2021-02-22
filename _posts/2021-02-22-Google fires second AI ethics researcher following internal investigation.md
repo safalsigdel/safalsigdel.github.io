@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5oFS12fg229aDqg086JrhTL7PaM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68845703/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google has fired Margaret Mitchell, co-lead of the ethical AI team, after she used an automated script to look through her emails in order to find evidence of discrimination against her coworker Timnit Gebru. The news was first reported by Axios.
-<a href='https://www.theverge.com/2021/2/19/22292011/google-second-ethical-ai-researcher-fired'> Source <a/>
