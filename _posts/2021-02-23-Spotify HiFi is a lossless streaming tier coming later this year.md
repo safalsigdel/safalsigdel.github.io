@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kAo5aI27TL2KAuRwOZwXMKT1r6U=/0x0:1992x1118/1200x800/filters:focal(837x400:1155x718)/cdn.vox-cdn.com/uploads/chorus_image/image/68855333/Screen_Shot_2021_02_22_at_11.29.46_AM.0.png' width='700px' /><br/>
-Spotify is going hi-fi. Well, “HiFi.” It's taken longer than competitors like Tidal and Amazon Music, but today, the leading subscription music service announced a new lossless streaming tier that will allow listeners to get the most from their digital music library. The news came at the company's Spotify “Stream On” virtual event.
-<a href='https://www.theverge.com/2021/2/22/22295273/spotify-hifi-announced-lossless-streaming-hd-quality'> Source <a/>

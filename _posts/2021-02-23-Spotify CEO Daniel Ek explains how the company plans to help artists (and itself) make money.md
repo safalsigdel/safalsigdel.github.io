@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/285dppOlvknzXHk8SfbPM3FeBJg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68860943/vrg_4436_spotifyCEO_0001.0.jpg' width='700px' /><br/>
+Spotify hosted an event on Monday to discuss its ambitions in audio, and one message came through loud and clear: the company wants to play a major role in helping creators make money.
+<a href='https://www.theverge.com/2021/2/23/22295315/spotify-ceo-interview-podcast-daniel-ek-music-stream-on'> Source <a/>
