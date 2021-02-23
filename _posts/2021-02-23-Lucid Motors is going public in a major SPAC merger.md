@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PXaP89iYvv4B-krg3RzyqG9L7vU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68858570/akrales_170324_1554_A_0021.0.0.jpg' width='700px' /><br/>
+Lucid Motors is going to become a publicly-traded company on the New York Stock Exchange in a deal that will leave the electric vehicle startup with $4.4 billion in cash. The California startup, which is majority-owned by Saudi Arabia's sovereign wealth fund, plans to start shipping its first luxury electric vehicle — the 500-mile range Air sedan — later this year. An electric SUV is slated to follow in 2023.
+<a href='https://www.theverge.com/2021/2/22/22268085/lucid-motors-spac-merger-public-nyse-cciv-deal-air-sedan'> Source <a/>

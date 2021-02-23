@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qyGBQctCu6X6uWeKuFc-lOajMg4=/0x0:2040x1290/1200x800/filters:focal(857x482:1183x808)/cdn.vox-cdn.com/uploads/chorus_image/image/68849370/UE328.0.jpg' width='700px' /><br/>
-A United Airlines flight experienced a dramatic-looking engine failure just after takeoff from Denver International Airport on Saturday afternoon. UA328, originally headed to Honolulu, quickly circled back to the airport and made a safe landing after the pilots calmly made a “mayday” call to air traffic control. There were no injuries among the 231 passengers and 10 airline staff on board, according to the FAA.
-<a href='https://www.theverge.com/2021/2/20/22293208/united-airlines-ua328-denver-engine-failure'> Source <a/>

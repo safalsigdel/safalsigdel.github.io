@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Samsung has been toying with AR glasses for years, most recently trotting out an extremely basic set of image-projecting goggles on the CES 2020 stage, but I've never seen the company suggest it might like to build an actually ambitious augmented reality wearable computing device — until perhaps today.
-<a href='https://www.theverge.com/circuitbreaker/2021/2/21/22294216/samsung-glasses-lite-ar-next-wearable-computing-concept-leak'> Source <a/>

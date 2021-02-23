@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/26AD6ZQb6C-VE3T_d4Sy6wBvC5s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68856641/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
+Netflix is adding a new mobile feature that will automatically download show recommendations and movies based on viewer history. Downloads For You launches globally today for Android users, the company announced.
+<a href='https://www.theverge.com/2021/2/22/22295236/netflix-downloads-for-you-recomendations-streaming'> Source <a/>

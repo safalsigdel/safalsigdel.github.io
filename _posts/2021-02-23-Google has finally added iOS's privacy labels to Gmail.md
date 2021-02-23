@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DvH2MKSJ2Am0tUPEd55yCV8LwmU=/0x0:1125x1024/1200x800/filters:focal(471x177:651x357)/cdn.vox-cdn.com/uploads/chorus_image/image/68859216/IMG_0879.0.jpeg' width='700px' /><br/>
+Google has finally added Apple App Store privacy labels to its Gmail app, almost a month after we ran an article wondering what was taking so long (via MacRumors). The app is the second major Google app to get the labels, after they were added to YouTube when it was updated earlier this month.
+<a href='https://www.theverge.com/2021/2/22/22296309/google-gmail-ios-app-privacy-labels'> Source <a/>

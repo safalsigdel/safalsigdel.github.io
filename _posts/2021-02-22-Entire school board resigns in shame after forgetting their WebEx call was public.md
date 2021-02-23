@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-You would think the entire world would know how the Zoom world works by now. Lawyers can be cats, congressmen are sometimes inverted, but pants are not actually optional. That didn't keep the Oakley Union Elementary School District's board of trustees from badmouthing parents during a public WebEx call — suggesting that parents just “want their babysitters back,” or want to go back to ingesting marijuana (via Gizmodo).
-<a href='https://www.theverge.com/tldr/2021/2/21/22294457/oakley-school-board-resigns-zoom'> Source <a/>

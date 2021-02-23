@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ciut1s7m4w-Pr9Mn5ew7jJN_cCk=/0x0:4600x3061/1200x800/filters:focal(1932x1163:2668x1899)/cdn.vox-cdn.com/uploads/chorus_image/image/68856121/1231247672.0.jpg' width='700px' /><br/>
+A Malaysian news site was fined the equivalent of nearly $124,000 for five comments below an article. News outlet Malaysiakini has raised money to cover the fee of 500,000 ringgit, but human rights advocates say it was targeted for its reporting on government corruption, and they worry that the case could chill political speech online.
+<a href='https://www.theverge.com/2021/2/22/22295496/malaysiakini-guilty-contempt-of-court-fine-reader-comments-judiciary'> Source <a/>

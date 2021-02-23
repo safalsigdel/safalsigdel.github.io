@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b8XUkk4ax0GpzyDWCdyiJc_ESzo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68857483/acastro_20200818_1777_epicApple_0001.0.0.jpg' width='700px' /><br/>
+Epic Games will give Fortnite players 1,000 V-Bucks if they ever purchased an in-game loot box, presented within the game as “loot llamas” containing randomized items, as part of a proposed class action lawsuit settlement to be approved later this week.
+<a href='https://www.theverge.com/2021/2/22/22295676/epic-games-fortnite-loot-box-lawsuit-settlement-rocket-league-v-bucks'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GpvSftAsulKy2vu8dHXIseiosOs=/0x0:1877x1252/1200x800/filters:focal(789x476:1089x776)/cdn.vox-cdn.com/uploads/chorus_image/image/68854024/Motional1.0.jpg' width='700px' /><br/>
-Add Motional to the very short list of companies that have tested fully autonomous vehicles on public roads. The Hyundai-Aptiv joint venture announced that it has tested its vehicles without safety drivers behind the steering wheel on public streets in Las Vegas.
-<a href='https://www.theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas'> Source <a/>

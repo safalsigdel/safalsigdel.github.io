@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n4i-ObX9apb_uS51_Vs7H01LOYY=/0x0:1400x908/1200x800/filters:focal(588x342:812x566)/cdn.vox-cdn.com/uploads/chorus_image/image/68857098/151612295_1895260083948087_6213885929941207150_n.0.png' width='700px' /><br/>
+Instagram is announcing that it's adding resources for people affected by eating disorders to its social platform. If users search for hashtags or content that's potentially related to disordered eating, the company will guide that user to resources or help lines provided by the National Eating Disorders Association (or NEDA) in the US, as well as others in the UK, Australia, and Canada.
+<a href='https://www.theverge.com/2021/2/22/22295693/instagram-eating-disorder-resources-help-lines'> Source <a/>

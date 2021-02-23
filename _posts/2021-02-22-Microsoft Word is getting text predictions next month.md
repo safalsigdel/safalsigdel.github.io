@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vjS2aZFrlLnveeE2OxUNZEHp6ug=/0x0:1092x732/1200x800/filters:focal(459x279:633x453)/cdn.vox-cdn.com/uploads/chorus_image/image/68854312/word.0.jpg' width='700px' /><br/>
-Microsoft is planning to add text predictions to Word in March. The new feature will work similarly to Google Docs' Smart Compose option, using machine learning to predict what words an author will need to speed up document creation. Microsoft originally announced a beta of text predictions last year, but Neowin spotted it's now on the Microsoft 365 roadmap to reach all Word users on Windows next month.
-<a href='https://www.theverge.com/2021/2/22/22295043/microsoft-word-text-predictions-feature-march-release-date'> Source <a/>

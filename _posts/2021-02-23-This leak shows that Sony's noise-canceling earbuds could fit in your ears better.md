@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jmbyOXwdvVKMOM0q-Xm1UYM5dFw=/0x0:1280x960/1200x800/filters:focal(558x294:762x498)/cdn.vox-cdn.com/uploads/chorus_image/image/68856309/1000XM4.5.png' width='700px' /><br/>
+Sony's upcoming WF-1000XM4 earbuds may have been shown off in a leak, with a slimmed-down design. The leak from MyDrivers (via MySmartPrice) claims to show the sequel to Sony's very good WF-1000XM3 — and if it's real, it seems like a nice design upgrade.
+<a href='https://www.theverge.com/2021/2/22/22295503/sony-wireless-earbud-wf-1000xm4-possible-leak'> Source <a/>

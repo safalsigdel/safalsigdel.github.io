@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pgY9arh9D9DLZmbN440Vnzo7PUM=/0x0:2040x1338/1200x800/filters:focal(857x506:1183x832)/cdn.vox-cdn.com/uploads/chorus_image/image/68856846/GS6__6_.0.jpg' width='700px' /><br/>
+Electric vehicle startup Karma Automotive has fully revealed its newest hybrid car, the GS-6. While it shares the same design as the company's ultra-luxury sedan, the Revero GT, Karma is pricing the GS-6 at nearly half the price — $83,900 — in a bid to reach a much wider set of customers.
+<a href='https://www.theverge.com/2021/2/22/22295458/karma-gs-6-hybrid-revero-electric-sedan-specs-price-spac-ipo'> Source <a/>

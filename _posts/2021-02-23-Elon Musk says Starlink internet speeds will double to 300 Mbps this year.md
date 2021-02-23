@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MpSQTnXb2eOBNJIVF3sI_CdaIPY=/0x0:2844x1328/1200x800/filters:focal(1195x437:1649x891)/cdn.vox-cdn.com/uploads/chorus_image/image/68858860/Screen_Shot_2020_09_03_at_10.38.05_AM.0.png' width='700px' /><br/>
+Starlink, SpaceX's satellite-based internet provider, will double in speed “later this year”, according to a tweet by Elon Musk, posted as a reply to someone who had just received their Starlink beta kit (via CNET). The company currently promises speeds between 50 to 150 Mbps, and Musk specifically calls out a 300 Mbps goal in his tweet.
+<a href='https://www.theverge.com/2021/2/22/22296209/elon-musk-starlink-speeds-double-2021'> Source <a/>
