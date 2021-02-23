@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Lb5vkXK7w2jAvXOdasT3_07X5gA=/0x0:8272x6200/1200x675/filters:focal(3475x2439:4797x3761)/cdn.vox-cdn.com/uploads/chorus_image/image/68861942/Large_45011_HyundaiIONIQ5RedefinesElectricMobilityLifestyle.0.jpg' width='700px' /><br/>
+Hyundai unveiled the all-new Ioniq 5, an electric midsize SUV with nearly 300 miles of range and a two-way charging feature that is sure to make this a popular EV for outdoor activities.
+<a href='https://www.theverge.com/2021/2/23/22296991/hyundai-ioniq-5-electric-suv-ev-battery-range-specs'> Source <a/>
