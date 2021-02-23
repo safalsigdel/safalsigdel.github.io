@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/quKxJFFYPN5yeGAA0kCmHDhb-mU=/0x0:2630x1306/1200x800/filters:focal(1101x596:1521x1016)/cdn.vox-cdn.com/uploads/chorus_image/image/68860751/Screen_Shot_2021_02_22_at_4.44.28_PM.0.png' width='700px' /><br/>
+Today marks the launch of Star. It's a new section of Disney Plus for international audiences that will offer more mature R-rated films, TV shows from FX, and other shows and movies that Disney owns the rights to but don't fit into Disney Plus' family-friendly image.
+<a href='https://www.theverge.com/2021/2/23/22291848/disney-plus-star-launch-europe-canada-international-streaming-hulu-breakdown'> Source <a/>
