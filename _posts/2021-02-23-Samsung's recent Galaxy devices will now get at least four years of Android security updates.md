@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UWFll4wBmJouyRvUi-Xzk4YZjQc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68857475/cgartenberg_210111_4368_0007.0.jpg' width='700px' /><br/>
-Samsung has announced that it'll be extending the amount of time that its Galaxy smartphones and tablets will be getting security updates. Now, devices released from 2019 and onward will receove at least four years of security updates.
-<a href='https://www.theverge.com/2021/2/22/22295639/samsung-galaxy-device-2019-four-years-security-updates'> Source <a/>
