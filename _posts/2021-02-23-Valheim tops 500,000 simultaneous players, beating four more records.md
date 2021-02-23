@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fDbbF-cpzKW_4A-GnkwlPKSfMls=/0x0:984x449/1200x800/filters:focal(414x147:570x303)/cdn.vox-cdn.com/uploads/chorus_image/image/68856758/valheim_steam.0.jpg' width='700px' /><br/>
-Valheim is on a trajectory like nothing we've ever seen. The Viking-themed indie survival game has been shooting up the Steam charts, selling 3 million copies in an unheard-of 17 days. And people aren't just buying it on a whim; they're actively playing it, too. On Sunday, the game reached 500,000 simultaneous players, according to SteamDB, leaving the charred remains of four other all-time Steam player count records in its wake.
-<a href='https://www.theverge.com/2021/2/22/22295589/valheim-peak-player-record-steam-terraria-fallout-among-us'> Source <a/>
