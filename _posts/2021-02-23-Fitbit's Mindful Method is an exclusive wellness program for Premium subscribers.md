@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XNPenvh-xW8LmNppdlIP_NsZFKw=/0x0:4000x2668/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/68861018/20200920FitbitSense7.0.0.jpg' width='700px' /><br/>
+Fitbit is launching an exclusive wellness program for Fitbit Premium subscribers called Mindful Method. The program is created by alternative medicine specialist Deepak Chopra and builds on the company's focus on stress management that started with the Sense smartwatch.
+<a href='https://www.theverge.com/2021/2/23/22295768/fitbit-premium-mindful-method-deepak-chopra-wellness-series'> Source <a/>
