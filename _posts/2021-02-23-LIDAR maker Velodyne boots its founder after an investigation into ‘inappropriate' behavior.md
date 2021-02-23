@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iJUWPle1wH5wo1WOG8h3GTKpK2w=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/68856899/1164317768.0.jpg' width='700px' /><br/>
-Velodyne, which makes LIDAR sensors crucial for the operation of autonomous vehicles, has removed its founder, David Hall, as chair of the company's board following an investigation, Reuters reports. Hall's wife, Marta Thoma Hall, has also stepped down as chief marketing officer.
-<a href='https://www.theverge.com/2021/2/22/22295550/velodyne-founder-lidar-david-hall-marta-investigation-board'> Source <a/>
