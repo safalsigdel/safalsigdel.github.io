@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Oppo has teased a new wireless charging solution that appears to work when a phone is held as much as a foot above a charging pad. The company has shown off the tech in a 30-second clip on its Weibo page to coincide with MWC Shanghai. The clip shows the Oppo X 2021 rollable concept phone, announced in November, charging above the pad, even when held at an angle.
+<a href='https://www.theverge.com/circuitbreaker/2021/2/23/22296817/oppo-mid-air-wireless-charging-x-2021-concept-phone-xiaomi-motorola'> Source <a/>
