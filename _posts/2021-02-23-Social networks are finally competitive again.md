@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A9HOh9oJRekXJIDqFX_qNEy5QSI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68861289/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Lately, the consumer internet — that set of products devoted to building and monetizing large networks of people — has started to feel rather buzzy. A space that had been largely emptied out over the past five years is once again humming with life. The products are compelling enough, and growing fast enough, that Facebook and others have begun trying to reverse-engineer and copy them.
+<a href='https://www.theverge.com/2021/2/23/22296520/social-networks-competition-facebook-tiktok-twitter-clubhouse-snap'> Source <a/>
