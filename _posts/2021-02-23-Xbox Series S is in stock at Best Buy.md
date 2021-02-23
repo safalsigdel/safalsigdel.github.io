@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qh9wYCvqpOnO-whBnXuYiiToqyo=/0x0:2040x1351/1200x1200/filters:focal(1052x690:1053x691)/cdn.vox-cdn.com/uploads/chorus_asset/file/21867252/twarren_200909_4177_0031.0.jpg' width='700px' /><br/>
-Last November, Microsoft debuted two next-gen consoles — the Xbox Series X and the more affordable Xbox Series S. If you are looking for the more affordable next-gen Xbox, Best Buy has the console in stock right now.
-<a href='https://www.theverge.com/2021/2/22/22296076/xbox-series-s-restock-best-buy'> Source <a/>

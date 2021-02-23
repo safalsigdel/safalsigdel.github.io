@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+The Atari arcade cabinet game Race Drivin' was ported to the Atari ST in the summer of 1991, and then ported again to the SNES a year later. It was the sequel to 1989's Hard Drivin', and while it boasted numerous improvements over its predecessor — it could model a car with four wheels, as opposed to Hard Drivin's two — it was still not particularly fast.
+<a href='https://www.theverge.com/tldr/2021/2/23/22297151/snes-hack-race-drivin-atari-nintendo-vitor-vilela'> Source <a/>
