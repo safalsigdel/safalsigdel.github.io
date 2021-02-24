@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kV8usebXzlUYxJRsqoTul8rIZZI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68866994/cfaulkner_201016_4245_0002.0.0.jpg' width='700px' /><br/>
+HP has announced that it is acquiring gaming peripheral company HyperX for $425 million. The purchase will give HP a major foothold in the gaming accessory market.
+<a href='https://www.theverge.com/2021/2/24/22298904/hp-acquires-hyperx-kingston-announcement'> Source <a/>
