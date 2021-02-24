@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cxia1It1aEht28rQNKqWE7cJtr4=/0x0:1564x1080/1200x800/filters:focal(657x415:907x665)/cdn.vox-cdn.com/uploads/chorus_image/image/68861473/ratchetclank.0.0.png' width='700px' /><br/>
-Sony is encouraging PS4 and PS5 owners to stay at home during the pandemic by bringing back its “Play At Home” initiative, allowing PlayStation owners to redeem free games starting in March and concluding in June.
-<a href='https://www.theverge.com/2021/2/23/22297009/ratchet-and-clank-free-ps4-ps5-playstation-sony'> Source <a/>
