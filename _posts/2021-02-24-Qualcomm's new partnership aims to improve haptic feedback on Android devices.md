@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CJJYPpxPZmohocVhsWm2lfb-hWc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68862617/akrales_201012_4137_0010.0.0.jpg' width='700px' /><br/>
-Haptic feedback on Android phones running the Snapdragon 888 chipset might get noticeably better starting in the second half of 2021. Qualcomm recently announced (via 9to5Google) that it's working independently with a company called Lofelt to enhance haptics through software, not hardware.
-<a href='https://www.theverge.com/2021/2/23/22297285/qualcomm-lofelt-haptics-vibration-snapdragon-888-api-software'> Source <a/>
