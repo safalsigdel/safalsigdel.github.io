@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p-dM9OQjoJDNq7ZdO3JHxzHQyF0=/0x0:1800x1200/1200x800/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/68859327/llopatto_180917_2962_0027.0.jpg' width='700px' /><br/>
-More that 4,300 SpaceX employees volunteered to be part of a COVID-19 antibody study co-authored by CEO Elon Musk in 2020.
-<a href='https://www.theverge.com/2021/2/22/22295821/spacex-employees-covid-study-paper-antibody-research-elon-musk'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jj5Pv_ycQC1YFsUi0I45AOGM_v0=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/68857967/20130110-625A1517VERGE.0.jpg' width='700px' /><br/>
-Dish Network co-founder and chairman Charlie Ergen underscored the company's commitment to building a 5G wireless network on today's Q4 2020 earnings call. He restated the intention to bring 5G online in its first major cities by the end of Q3 2021 — that's the period running from July through September — and was bullish on Dish's ability to boost the US's somewhat dismal global position in terms of wireless network offerings.
-<a href='https://www.theverge.com/2021/2/22/22295777/dish-network-5g-q3-2021'> Source <a/>

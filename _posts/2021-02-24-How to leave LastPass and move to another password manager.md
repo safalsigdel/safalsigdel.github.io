@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZpQ77jP1Zy6Vvbzar7J5mi3Z88g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68862982/acastro_210217_1777_passwords_0002.0.jpg' width='700px' /><br/>
+Ever since LastPass announced that it was tweaking its free tier to only allow a single category of device — mobile or computer — there's been a lot of interest in finding alternatives among LastPass users. Luckily, once you do find an alternative, it's pretty easy to pull your data from LastPass and upload it to another password manager.
+<a href='https://www.theverge.com/22295354/lastpass-export-delete-bitwarden-1password-zoho'> Source <a/>

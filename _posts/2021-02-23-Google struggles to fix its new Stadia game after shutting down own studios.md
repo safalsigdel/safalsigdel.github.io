@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xjy103sMnI7gxqnB7NpZQH7l_3c=/0x0:2040x1360/1200x800/filters:focal(848x585:1174x911)/cdn.vox-cdn.com/uploads/chorus_image/image/68860609/akrales_191113_3779_0319.5.jpg' width='700px' /><br/>
-Google is struggling to fix one of its new Stadia games, after closing down its own in-house game studios earlier this month. Journey to the Savage Planet debuted on Stadia on February 1st, the same day Google shut down its Stadia studios and fired a number of developers.
-<a href='https://www.theverge.com/2021/2/23/22296856/google-stadia-journey-to-the-savage-planet-bug-issues-studio-closure'> Source <a/>

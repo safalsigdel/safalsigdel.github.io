@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NUwq-Q8rL9lHT9hO2Ewyud9JWmk=/0x0:2288x1366/1200x800/filters:focal(961x500:1327x866)/cdn.vox-cdn.com/uploads/chorus_image/image/68862224/Screen_Shot_2021_02_23_at_11.09.50_AM.0.png' width='700px' /><br/>
+Google is expanding its Password Checkup feature to older devices, the company announced today. Now, phones and tablets running Android 9 or newer will have access to the feature, which is part of Google's autofilling password manager and which checks password strength or if any logins have been compromised in a data breach.
+<a href='https://www.theverge.com/2021/2/23/22297198/google-password-checkup-tool-older-devices-android-new-features-scheduled-send'> Source <a/>

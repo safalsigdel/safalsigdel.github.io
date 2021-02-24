@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fZrfKLkk3b-vTqU603dS6qCCcAU=/447x227:2560x1750/1200x800/filters:focal(1076x671:1484x1079)/cdn.vox-cdn.com/uploads/chorus_image/image/68864220/suburb2_9_scaled.0.jpg' width='700px' /><br/>
+The United States Postal Service (USPS) has revealed its new mail truck after a years-long competition. The new truck will be built by Wisconsin-based defense contractor Oshkosh and can be fitted with both gasoline and electric drivetrains. But it won't hit the road until 2023.
+<a href='https://www.theverge.com/2021/2/23/22297823/usps-postal-service-mail-truck-electric-oshkosh-workhorse'> Source <a/>

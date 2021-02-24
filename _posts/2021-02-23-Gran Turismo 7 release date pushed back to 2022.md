@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oFjaK8zxs5XYIaiDvhO__UJWS4A=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/68861449/maxresdefault.0.jpg' width='700px' /><br/>
-The next entry in Polyphony Digital's long-running Gran Turismo franchise has been delayed to 2022, GQ reports. In a statement, Sony said Gran Turismo 7 has been impacted by “COVID-related production challenges,” which means its planned 2021 release date has been shifted to 2022.
-<a href='https://www.theverge.com/2021/2/23/22297059/gran-turismo-7-ps5-playstation-5-release-date-delay-2022'> Source <a/>

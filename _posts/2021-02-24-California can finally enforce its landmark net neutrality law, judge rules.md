@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Dzo2wsWerlVO3g3GGYYQHfqLUWQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68864909/acastro_180608_1777_net_neutrality_0002.0.jpg' width='700px' /><br/>
+Net neutrality died a horrible death in 2017, but things have just turned around: California's landmark net neutrality law — erected in 2018 but immediately blocked by lawsuits from Trump's Department of Justice and the telecom industry — can finally be enforced.
+<a href='https://www.theverge.com/2021/2/23/22298199/california-net-neutrality-law-sb822'> Source <a/>

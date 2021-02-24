@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MqWX49iReFa9LgvIanoanc1kQSw=/0x0:1001x601/1200x800/filters:focal(421x221:581x381)/cdn.vox-cdn.com/uploads/chorus_image/image/68862288/GoogleMaps_NightMode.0.png' width='700px' /><br/>
+The Google Maps app is getting a true dark mode, at least on Android. The company announced today that it is finally widely releasing the dark theme option that it's been testing in the app since September 2020.
+<a href='https://www.theverge.com/2021/2/23/22297204/google-maps-dark-mode-android-auto-split-screen-games'> Source <a/>

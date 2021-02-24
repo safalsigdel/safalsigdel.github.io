@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MNUZNcgZlCC-lSU3c_3qfNlpGns=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/68863106/1229893855.0.jpg' width='700px' /><br/>
+LinkedIn is back up after a worldwide outage affecting users on both mobile and desktop. The Microsoft-owned social network first started experiencing issues around 2PM ET, and LinkedIn confirmed things were back to normal at 4:21PM ET.
+<a href='https://www.theverge.com/2021/2/23/22297620/linkedin-down-outage-issues'> Source <a/>

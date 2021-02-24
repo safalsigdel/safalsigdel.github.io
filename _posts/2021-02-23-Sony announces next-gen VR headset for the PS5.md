@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vo32NbimGidvBi5JDnpjiTlpvtU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68861163/vpavic_4278_20201030_0247.0.jpg' width='700px' /><br/>
-Sony is working on a next-generation VR headset for the PS5. The headset won't launch this year, but Sony is announcing early plans to make it available on the PS5 at some point in the future. Sony's new VR headset will include an improved field of view, resolution, and even a single cord to make it easier to use.
-<a href='https://www.theverge.com/2021/2/23/22296998/sony-ps5-next-gen-vr-headset-virtual-reality-features'> Source <a/>

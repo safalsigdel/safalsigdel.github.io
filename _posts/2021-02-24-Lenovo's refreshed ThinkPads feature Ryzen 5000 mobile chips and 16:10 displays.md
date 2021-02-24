@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SARKgQyldYtWH_vjNdcgZy2oOMo=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/68862531/05_Thinkpad_T14s_Gen_2_Hero_Front_Facing_Right.0.png' width='700px' /><br/>
+Lenovo has announced a number of updates to its ThinkPad line. We're getting upgrades to the lightweight ThinkPad X13 and convertible X13 Yoga, as well as the high-end T-Series, the budget-oriented L-Series, and the P-Series of mobile workstations.
+<a href='https://www.theverge.com/2021/2/23/22297126/lenovo-thinkpad-x13-yoga-laptops-specs-price'> Source <a/>

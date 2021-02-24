@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/me8RFurKFaVi_m3pTBOVzkcJ2rw=/0x0:1322x1080/1200x800/filters:focal(556x435:766x645)/cdn.vox-cdn.com/uploads/chorus_image/image/68858066/Twisted_metal.0.png' width='700px' /><br/>
-Sony is bringing back its Twisted Metal franchise, but this time it's going to be a TV show, not a video game. According to Variety, the show is moving ahead in its production, with the writers of Deadpool and actor Will Arnett signed on as executive producers.
-<a href='https://www.theverge.com/2021/2/22/22295893/sony-twisted-metal-tv-show-deadpool'> Source <a/>
