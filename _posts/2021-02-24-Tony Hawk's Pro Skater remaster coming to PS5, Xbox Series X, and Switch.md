@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/suDmkwPwJ-KD447Q7tf3vi9vXY0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68862294/THPS_NextGen_004.0.jpg' width='700px' /><br/>
-The very good remaster of Tony Hawk's Pro Skater 1 and 2 is hitting next-gen consoles and the Nintendo Switch this year. The game will launch on the PS5 and Xbox Series X / S on March 26th, but there's no specific release date for the Switch release beyond “2021.” The game was first released last year for PlayStation 4, Xbox One, and PC.
-<a href='https://www.theverge.com/2021/2/23/22297221/tony-hawk-pro-skater-1-2-ps5-xbox-series-x-nintendo-switch'> Source <a/>

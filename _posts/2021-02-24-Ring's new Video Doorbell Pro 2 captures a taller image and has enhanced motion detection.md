@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yFQuZjMdGvMxemdMFiIj3xsQMyU=/0x0:2912x1092/1200x800/filters:focal(719x310:1183x774)/cdn.vox-cdn.com/uploads/chorus_image/image/68867096/Ring_Video_Doorbell_Pro_2_intro_desktop_1456x546_2x.0.jpg' width='700px' /><br/>
+Ring has announced the latest model in its line of video doorbells, the Video Doorbell Pro 2. The Pro 2 is a new top-of-the-line model that comes with a number of enhancements over its predecessor, including a taller field of view and enhanced motion detection capabilities. It is available to preorder for $249.99 starting today, with shipments expected to begin on March 31st, 2021.
+<a href='https://www.theverge.com/2021/2/24/22298321/ring-video-doorbell-pro-2-news-price-specs-features'> Source <a/>
