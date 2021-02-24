@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Fry's Electronics, one of the last big brick-and-mortar electronics store chains in the United States — and a Silicon Valley institution in particular — is permanently closing nationwide, local broadcaster KRON4 has confirmed, following a report from Bill Reynolds and another from Matthew Keys.
+Fry's Electronics, one of the last big brick-and-mortar electronics store chains in the United States — and a Silicon Valley institution in particular — is permanently closing nationwide, the company has officially confirmed Wednesday, following Tuesday evening reports from SF Bay Area broadcaster KRON4, as well as Bill Reynolds and Matthew Keys.
 <a href='https://www.theverge.com/circuitbreaker/2021/2/24/22298616/frys-electronics-going-out-of-business'> Source <a/>
