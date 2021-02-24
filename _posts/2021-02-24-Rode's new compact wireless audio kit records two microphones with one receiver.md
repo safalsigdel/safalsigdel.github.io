@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P0I8hfzRcx2_a49wj5be5r7R36g=/0x0:1000x562/1200x800/filters:focal(416x349:576x509)/cdn.vox-cdn.com/uploads/chorus_image/image/68861459/RODE_WIRELESS_GO_II_instiu_3_couple_iphone_vloggerkit_jan_2021_1000x562.0.jpg' width='700px' /><br/>
-Rode has released a sequel to its Wireless Go mobile microphone system, the Wireless Go II, which is meant to offer an easy way for video creators to record audio from two people at once.
-<a href='https://www.theverge.com/2021/2/23/22296439/rode-wireless-go-ii-announced-receiver-microphones'> Source <a/>
