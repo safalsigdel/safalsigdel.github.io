@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iWzrO1oIawMNYxIIAsLJjik5YvI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68861471/vpavic_4278_20201030_0120.0.jpg' width='700px' /><br/>
-Sony's PlayStation 5 (alongside the Xbox Series X and S) has been nearly impossible to buy since its launch back in November. Those shortages will likely continue for a bit longer, according to Jim Ryan, president and CEO of Sony Interactive Entertainment. But stock should pick up in the second half of the year, he says.
-<a href='https://www.theverge.com/2021/2/23/22297039/playstation-ceo-ps5-supply-2021-stock-consoles-jim-ryan'> Source <a/>
