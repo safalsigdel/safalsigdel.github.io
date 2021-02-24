@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TyJedJRIdoILtUlzv5OQQ2sD0HI=/0x0:1226x690/1200x800/filters:focal(515x247:711x443)/cdn.vox-cdn.com/uploads/chorus_image/image/68861833/0.0.png' width='700px' /><br/>
-2021 is a big year for competitive Valorant, with developer Riot kicking off an ambitious, yearlong esports circuit called the Valorant Champions Tour. But the company is also looking to make the scene more diverse with a separate competition called VCT Game Changers, which it says will “create competitive opportunities for women and marginalized genders within Valorant.”
-<a href='https://www.theverge.com/2021/2/23/22296977/valorant-vct-game-changers-esports-tournament-women'> Source <a/>
