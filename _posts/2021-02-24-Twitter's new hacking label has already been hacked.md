@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CXGF0iMVdsiOHxcleJu-hHmoosA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68866892/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Twitter has started to label some tweets with a warning about materials “obtained through hacking.” This new label is appearing on some news stories that Twitter believes are based on hacks and leaked documents, but Twitter users have found an easy way to hack a URL together to make it appear on any tweet.
+<a href='https://www.theverge.com/2021/2/24/22298852/twitter-hacking-label-hacked-policy'> Source <a/>
