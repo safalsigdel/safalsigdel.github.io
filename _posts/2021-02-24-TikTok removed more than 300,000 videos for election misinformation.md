@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f3kKfkLX2A0u5Y_Ta7RbdMeOr-0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68866528/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+TikTok removed over 340,000 videos in the US for breaking the platform's rules on election misinformation, manipulation, or disinformation, according to a Wednesday transparency report covering content from the second half of last year.
+<a href='https://www.theverge.com/2021/2/24/22298024/tiktok-election-misinformation-disinformation-transparency-report'> Source <a/>
