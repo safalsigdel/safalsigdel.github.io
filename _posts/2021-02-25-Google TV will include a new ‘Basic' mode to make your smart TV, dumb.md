@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dHvqHL0E_vMd-NscoJZ8qKS6MtE=/0x0:1423x949/1200x800/filters:focal(599x362:825x588)/cdn.vox-cdn.com/uploads/chorus_image/image/68872241/google_tv_basic_mode.0.jpg' width='700px' /><br/>
+Google TV, the search giant's latest attempt at TV software, will include a new “Basic TV” mode that strips out a TV's smart features in favor of providing simple access to live TV and HDMI inputs, 9to5Google reports. It's a potential boon to anyone that ever wanted to dumb-down their smart TV because they prefer an external streamer or because they value privacy.
+<a href='https://www.theverge.com/2021/2/25/22300702/google-tv-basic-mode-apps-hdmi-ports-live-assistant'> Source <a/>
