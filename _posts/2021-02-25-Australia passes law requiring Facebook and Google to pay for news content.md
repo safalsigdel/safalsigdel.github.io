@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QW4ES5mPLFQwhnAq7JG1gJHB-FI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68871552/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
+The Australian government has passed a new law requiring Google and Facebook to negotiate with news outlets to pay for their content or face arbitration.
+<a href='https://www.theverge.com/2021/2/24/22283777/australia-new-media-bargaining-code-facebook-google-paying-news'> Source <a/>
