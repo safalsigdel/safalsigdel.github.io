@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w8LTiS9QHiKPdrqC2cHPQy820k4=/0x0:1309x946/1200x800/filters:focal(909x376:1117x584)/cdn.vox-cdn.com/uploads/chorus_image/image/68869823/EvBPaphWgAMG2yi.5.jpeg' width='700px' /><br/>
-GameStop is up... again, by a lot. Before market close on Wednesday, the video game retailer's shares started to soar, and GME just closed at $91.71 — up nearly 104 percent for the day.
-<a href='https://www.theverge.com/2021/2/24/22299795/gamestop-stock-up-reddit-wallstreetbets-gme-pump'> Source <a/>
