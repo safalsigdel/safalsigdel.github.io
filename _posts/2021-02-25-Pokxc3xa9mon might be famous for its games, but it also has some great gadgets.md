@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-EaBS3uerQKBv7qekrUxTBrtfxo=/0x0:2040x1360/1200x800/filters:focal(1135x556:1461x882)/cdn.vox-cdn.com/uploads/chorus_image/image/68872673/DSC00227.0.jpg' width='700px' /><br/>
+Pokxc3xa9mon might be renowned for its cooperative gameplay, delightful spinoffs, and making an intimidating genre approachable, but the franchise also has a long history of creative and interesting gadgets.
+<a href='https://www.theverge.com/2021/2/25/22298495/pokemon-hardware-gadgets-pikachu-poke-ball-mini-camera-consoles'> Source <a/>

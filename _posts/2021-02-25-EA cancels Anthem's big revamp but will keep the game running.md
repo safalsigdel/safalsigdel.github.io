@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZpVFmRmDLGgos8ZiO5A8GdEC3nI=/0x0:1346x756/1200x800/filters:focal(566x271:780x485)/cdn.vox-cdn.com/uploads/chorus_image/image/68868898/anthem.0.png' width='700px' /><br/>
-After putting a pin in short-term updates and expansions to focus on a “longer-term redesign” of the game, EA announced today that it will be canceling its planned revamp of the game Anthem, called Anthem Next. But the company plans to keep Anthem's live service running “as it exists today.”
-<a href='https://www.theverge.com/2021/2/24/22274771/ea-wont-continue-anthems-post-launch-development'> Source <a/>
