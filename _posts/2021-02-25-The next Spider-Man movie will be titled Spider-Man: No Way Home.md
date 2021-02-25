@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xz-wVxGxQ7LjzxzAVGlXBRqE8K4=/0x0:3330x2060/1200x800/filters:focal(1399x764:1931x1296)/cdn.vox-cdn.com/uploads/chorus_image/image/68868230/Screen_Shot_2021_02_24_at_12.44.10_PM.0.png' width='700px' /><br/>
-The next Spider-Man movie starring Tom Holland will be titled Spider-Man: No Way Home. The movie will be out only in theaters on December 17th, 2021.
-<a href='https://www.theverge.com/2021/2/24/22299339/spider-man-movie-title-no-way-home-tom-holland'> Source <a/>

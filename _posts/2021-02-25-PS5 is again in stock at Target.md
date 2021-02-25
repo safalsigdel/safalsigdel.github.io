@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q9tGFYxdoGD42gEhbk7dBZysMdM=/0x0:2040x1360/1200x1200/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22015297/vpavic_4278_20201030_0119.jpg' width='700px' /><br/>
+The PlayStation 5 is Sony's latest gaming console and just like Microsoft's Xbox Series X / S it's in high demand and limited supply. If you are looking to buy a PS5, you have a shot at securing the $500 model with a disc drive right now at Target, while supplies last.
+<a href='https://www.theverge.com/2021/2/25/22295875/sony-ps5-playstation-5-restock-target'> Source <a/>
