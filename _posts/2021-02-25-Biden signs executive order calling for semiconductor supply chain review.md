@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vAV6jdtHNZ-83-Rt2xj5bWu9YKw=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/68866377/1231330766.0.jpg' width='700px' /><br/>
-President Biden signed an executive order Wednesday addressing growing concern over a global semiconductor shortage hampering the production of goods like automobiles and smartphones.
-<a href='https://www.theverge.com/2021/2/24/22298376/biden-sign-semiconductor-shortage-executive-order-apple-amd-playstation'> Source <a/>

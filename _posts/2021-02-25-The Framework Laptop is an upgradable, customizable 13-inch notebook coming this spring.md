@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aAi2sbTmQPtI2EcOp47Zze5zjUc=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/68873266/studio_image_01.0.jpg' width='700px' /><br/>
+A San Francisco-based startup called Framework has just launched an ambitious project: a thin, lightweight productivity laptop that it claims can be “upgraded, customized, and repaired in ways that no other notebook can.”
+<a href='https://www.theverge.com/2021/2/25/22299938/framework-laptop-features-upgrade-release-date-price'> Source <a/>
