@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RBdqLq0Asp1u9HYsJ9Zvy7Ln2IQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68868579/acastro_180927_1777_lyft_0003.0.jpg' width='700px' /><br/>
-Lyft is admitting that some part of traditional taxi services are worth emulating today by letting people in select Florida cities book Lyft rides with just a phone call. The new “Call A Lyft” feature should be “perfect for seniors and folks without access to the Lyft app,” says Lyft.
-<a href='https://www.theverge.com/2021/2/24/22299349/lyft-phone-call-feature-book-without-app'> Source <a/>

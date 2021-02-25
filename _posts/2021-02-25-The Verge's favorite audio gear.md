@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nNVBUOgsBaVrboohDVKCt4qCmds=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68872547/audio_technicam50xbt_vsavov12.0.jpg' width='700px' /><br/>
+Ever since xc3x89douard-Lxc3xa9on Scott de Martinville recorded an almost undecipherable version of the French song “Au Clair de la Lune” in the mid-19th century, it's been clear that the technology that you use to produce and listen to sounds can affect your experience. Even now, about 150 years later, the quality of your gear can mean the difference between a tinny, nearly unrecognizable noise or a fully realized aural experience.
+<a href='https://www.theverge.com/22297466/audio-gear-headphones-earbuds-speakers-mics'> Source <a/>
