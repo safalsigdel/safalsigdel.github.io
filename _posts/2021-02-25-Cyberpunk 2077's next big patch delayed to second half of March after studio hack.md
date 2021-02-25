@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fbwZVue8Vz_TdGb-VM8kP9-Rt-A=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68867770/Cyberpunk_2077_screen_5.0.jpg' width='700px' /><br/>
+Cyberpunk 2077's next big patch has been delayed following developer CD Projekt Red's disclosure that it fell victim to a ransomware attack earlier this month. The next big patch, 1.2, is now scheduled for a release sometime in the second half of March.
+<a href='https://www.theverge.com/2021/2/24/22299184/cyberpunk-2077-patch-1-2-delayed-cd-projekt-red-studio-hack'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Hsew_3B-UfVmpeDkWzz7MVcEHxo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68869208/acastro_210224_1777_toei_0001.5.jpg' width='700px' /><br/>
+Tubi, the free streaming service run by Fox Entertainment, has struck a deal with Toei Animation to bring some of the studio's work to the platform. The deal includes six One Piece TV specials that will come to the streaming service as well as episodes from anime shows including One Piece, Slam Dunk, and Dr. Slump.
+<a href='https://www.theverge.com/2021/2/24/22299501/tubi-streaming-shows-movies-toei-animation-deal'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uU7pZYDsHbIfEcjM8EZyhqwl-Kg=/0x0:5016x3343/1200x800/filters:focal(2107x1271:2909x2073)/cdn.vox-cdn.com/uploads/chorus_image/image/68867294/1212203103.0.jpg' width='700px' /><br/>
-Electric bikes can transform the way we live by replacing car trips, encouraging cities to improve their infrastructure, and decreasing the amount of carbon we emit into the atmosphere. But e-bikes will be transformational only if people can afford them — and as of today, most e-bikes are prohibitively expensive.
-<a href='https://www.theverge.com/2021/2/24/22295115/ebike-tax-credit-congress-bill-blumenauer'> Source <a/>

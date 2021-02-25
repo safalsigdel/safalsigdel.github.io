@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WE0biEjYLfNBm9KUlL_MtaMjzXU=/0x0:650x335/1200x800/filters:focal(273x116:377x220)/cdn.vox-cdn.com/uploads/chorus_image/image/68866604/pasted_image_0.0.png' width='700px' /><br/>
-Swedish electronics house Teenage Engineering, best known for its range of beautifully designed audio products, is working with Nothing on its upcoming product releases. Nothing is the new consumer tech brand from ex-OnePlus exec Carl Pei. Pei says that Teenage Engineering is one of Nothing's founding partners, and will drive the design aesthetic at his new company.
-<a href='https://www.theverge.com/2021/2/24/22298802/nothing-teenage-engineering-swedish-design-founding-partner-audio-headphones'> Source <a/>

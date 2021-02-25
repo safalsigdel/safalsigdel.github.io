@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TaAC9Sdyfchla9zJ-uoR0DVTx-s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68867983/akrales_180329_2351_1021.0.jpg' width='700px' /><br/>
+Hyundai is finally recalling some 76,000 Kona EVs built between 2018 and 2020 after more than a dozen reported fires related to the electric SUV's battery pack. It's the second recall of the Kona EV, but the first global recall, and it will cost Hyundai around $900 million to perform.
+<a href='https://www.theverge.com/2021/2/24/22299121/hyundai-kona-electric-recall-battery-fire-lg'> Source <a/>

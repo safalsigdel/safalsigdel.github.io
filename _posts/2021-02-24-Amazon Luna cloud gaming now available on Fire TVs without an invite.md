@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IL3dRgHt-aKsFEzHUpKz32sdiLc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68866495/1600885423_downloadable_luna_heroamazon_luna.0.png' width='700px' /><br/>
-Amazon's cloud-gaming service, Luna, is now available to try for free in the US on select Fire TV devices without an invitation, the company has announced. Luna launched in early access last year, as an invitation-only service. Originally, customers also needed an invite to buy the Luna Controller, but Amazon now says it's available to everyone.
-<a href='https://www.theverge.com/2021/2/24/22298746/amazon-luna-expanding-fire-tv-devices-invite-only'> Source <a/>

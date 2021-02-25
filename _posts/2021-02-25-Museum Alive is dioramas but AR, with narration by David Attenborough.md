@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7R6LpQnmeh5OEGNmuCgZr5Fke3k=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/68870132/DSC00276_2.0.jpg' width='700px' /><br/>
+Remember dioramas? They were the friggin' best. I'd jump on any excuse to grab a shoebox, fire up the hot glue gun (okay, Dad handled that), and strategically place plastic tigers and shrubs in their tiny cardboard habitat. I might have learned something, too, but that was beside the point. I was a tiny god with a world of my own creation in my hands.
+<a href='https://www.theverge.com/22299611/museum-alive-iphone-app-david-attenborough-augmented-reality'> Source <a/>

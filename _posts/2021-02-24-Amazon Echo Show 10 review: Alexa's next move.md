@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gD-R-9c3MuPXdWVfLIF0sB4GpNs=/0x0:2040x1360/1200x675/filters:focal(860x685:1186x1011)/cdn.vox-cdn.com/uploads/chorus_image/image/68866686/dseifert_210219_4433_0008.0.jpg' width='700px' /><br/>
-Since its inception in 2015, Amazon's Alexa virtual assistant has always been a disembodied digital form trapped in a box of electronics. The original Echo was a cylinder, later models have had a spherical shape, and the Echo Show devices are effectively wedges with screens on the front. Alexa behaves in the same way on all of them: you ask it to do something, then it provides a polite response and does that thing.
-<a href='https://www.theverge.com/22297810/amazon-echo-show-10-2021-review'> Source <a/>

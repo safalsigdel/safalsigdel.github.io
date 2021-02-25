@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fNVlfr7MsWxrRh_bTYKRL6gIkI0=/0x0:2880x1542/1200x800/filters:focal(1210x541:1670x1001)/cdn.vox-cdn.com/uploads/chorus_image/image/68864293/Screen_Shot_2021_02_23_at_1.39.59_PM.0.png' width='700px' /><br/>
-If you've spent the day playing through Persona 5 Strikers and noticed the voice of the in-game digital assistant sounded familiar, it's likely because it's played by the original voice of Siri (via Kotaku). Susan Bennett originally provided the voice for Apple's digital assistant, and now she's playing EMMA, the in-game AI.
-<a href='https://www.theverge.com/2021/2/23/22297917/original-siri-actress-voice-assistant-persona-5-strikers'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WP1JGWP7bShvM4Qupw744CqZ74Y=/0x0:5000x3750/1200x800/filters:focal(2100x1475:2900x2275)/cdn.vox-cdn.com/uploads/chorus_image/image/68868423/1175073468.0.jpg' width='700px' /><br/>
+Health care company One Medical gave COVID-19 vaccines to people who were ineligible under local guidelines, including friends and family of company leadership, NPR reported. Health departments in Washington state and California said they stopped distributing doses to One Medical after finding out that the company was not sticking to eligibility rules.
+<a href='https://www.theverge.com/2021/2/24/22299279/one-medical-covid-vaccine-ineligable-report'> Source <a/>

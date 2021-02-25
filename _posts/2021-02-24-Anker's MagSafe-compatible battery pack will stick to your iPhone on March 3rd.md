@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PbCxKR39Y9EbJtI20j2wSxfrOTg=/0x0:1170x966/1200x800/filters:focal(477x286:663x472)/cdn.vox-cdn.com/uploads/chorus_image/image/68863058/AnkerMagSafe.0.jpg' width='700px' /><br/>
-Anker has released a new MagSafe-compatible battery pack that can attach directly to your iPhone to offer charging without the need for a cable, 9to5Google reports. The Anker PowerCore Magnetic 5K Wireless Power Bank will launch on March 3rd for $39.99, beating Apple's own rumored MagSafe battery product to market — with one big caveat.
-<a href='https://www.theverge.com/2021/2/23/22297307/anker-magsafe-compatible-battery-pack-apple-iphone'> Source <a/>

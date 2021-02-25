@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+It's not hard to listen to your favorite video game soundtracks online. Just load YouTube or some other music streaming services, and search there. But that experience pales in comparison to hearing (and seeing) that music played through the hardware it was originally composed on.
+<a href='https://www.theverge.com/tldr/2021/2/24/22299391/yuzo-koshiro-nec-pc88-pc-streets-of-rage-sonic-music'> Source <a/>

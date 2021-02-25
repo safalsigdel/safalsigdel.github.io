@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M8UTPfIe8rq1IzmE9XfXFxWoyZc=/0x0:4920x2768/1200x800/filters:focal(2067x991:2853x1777)/cdn.vox-cdn.com/uploads/chorus_image/image/68870565/PressArt_Rugrats_Babies_.0.jpg' width='700px' /><br/>
+A Rugrats reboot is headed to the new streaming service Paramount Plus this spring, ViacomCBS announced today. The show is described as a “reimagining of the classic ‘90s hit,” and you can see a preview of the new CG-animated style in this trailer:
+<a href='https://www.theverge.com/2021/2/24/22300034/rugrats-paramount-plus-reboot-original-voice-cast'> Source <a/>

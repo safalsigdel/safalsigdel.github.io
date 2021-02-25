@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lSmNBll8ksclqsDHFm3gxb0O_hs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68864111/jbareham_180313_1777__bitcoin_cryptocurrency_0003.0.jpg' width='700px' /><br/>
-Square has just made another colossal investment in bitcoin, more than tripling its last investment in the cryptocurrency with a $170 million purchase of tokens. The digital payments company, which is run by vocal bitcoin advocate and Twitter CEO Jack Dorsey, disclosed the investment in its quarterly earnings report on Tuesday.
-<a href='https://www.theverge.com/2021/2/23/22297935/square-bitcoin-purchase-170-million-investment-cryptocurrency'> Source <a/>

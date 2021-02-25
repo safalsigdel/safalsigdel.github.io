@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dWyvVacG6O14zB6TsL2KwqO4XSU=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/68867979/twarren_200908_4177_0013.0.0.jpg' width='700px' /><br/>
+The Xbox Series X and Series S consoles have been available to purchase since last fall, but actually finding one to buy has been extremely difficult. If you are looking to buy either console, GameStop has both models in stock, and they are available for preorder while supplies last.
+<a href='https://www.theverge.com/2021/2/24/22295791/xbox-series-x-s-restock-gamestop'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/APYGPkRU3GUJcmu7OehIOkhFTag=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68867163/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
-T-Mobile created a lot of buzz this week when it announced it was bringing back an unlimited plan without data throttling. In the age of data caps and deprioritization, that seems like a pretty nice deal — and it might be. But as always, there's more at play here than T-Mobile just offering a better unlimited plan.
-<a href='https://www.theverge.com/2021/2/24/22297311/tmobile-5g-mid-band-magenta-max-unlimited-data'> Source <a/>

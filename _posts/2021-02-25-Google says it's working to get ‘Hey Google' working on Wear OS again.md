@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BZXhw6o8WKUm72I2xntZlk8XoXY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68871182/vpavic_180927_2987_0041.0.jpg' width='700px' /><br/>
+Activating the Google Assistant by saying “Hey Google” has been broken for months, according to a report from 9to5Google. Google tells The Verge it's now working on a fix, saying that it's “aware of the issues some users have been encountering” and will help its partners “address these and improve the overall experience.”
+<a href='https://www.theverge.com/2021/2/24/22300211/google-responds-wear-os-hey-google-not-responding'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A6EDY156e26SaarzZNyv-t3jM94=/0x0:3478x2000/1200x800/filters:focal(1461x722:2017x1278)/cdn.vox-cdn.com/uploads/chorus_image/image/68865093/Powered_by_webOS_TV.0.jpg' width='700px' /><br/>
-LG tonight announced that the company's webOS smart TV platform will soon be found on TVs from other brands. RCA, Ayonz, and Konka are some of the companies that have already signed on. “This has the potential to reshape the TV business for both technology and content providers while significantly growing LG's presence and prominence in the global home entertainment market,” LG said in a press release.
-<a href='https://www.theverge.com/2021/2/23/22298058/lg-licensing-webos-other-tvs-rca-polaroid'> Source <a/>

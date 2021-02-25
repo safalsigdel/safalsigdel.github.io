@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6JX9m5eE159ofjOYD83XTY1r6Ps=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68869819/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
+Reddit seems to be recovering after what its status page called a “major outage”. For about an hour, users who tried to load the site as it was down were met with a blank white page.
+<a href='https://www.theverge.com/2021/2/24/22299822/reddit-down-gme-up-wallstreetbets-stocks'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wmHvrfNVHbpAwgnNu9e0hjPzWZE=/0x0:1514x1009/1200x800/filters:focal(636x384:878x626)/cdn.vox-cdn.com/uploads/chorus_image/image/68868378/roomba.0.jpg' width='700px' /><br/>
+iRobot, maker of the robotic Roomba vacuums, has confirmed to The Verge that a software update has been causing issues for some users of its i7 and s9 robots and that it's working on another one to prevent future issues. The catch? It might be a bit before things get sorted out, with iRobot expecting the update to roll out “over the next several weeks.”
+<a href='https://www.theverge.com/2021/2/24/22299346/irobot-roomba-update-issues-vacuums-fix-several-weeks'> Source <a/>

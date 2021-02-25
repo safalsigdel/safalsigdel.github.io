@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4Zzc8x2m-jhC3fxZkHAvufkkpBs=/0x0:3608x2405/1200x800/filters:focal(1516x915:2092x1491)/cdn.vox-cdn.com/uploads/chorus_image/image/68866801/1211180804.0.jpg' width='700px' /><br/>
-Microsoft is now allowing Word for web and OneNote users to embed Pinterest Pins into their documents. The new feature lets Pinterest users paste a URL of any Pin into a OneNote page or Word document to render it as interactive content. This adds a new way to create pages, sections, or notebooks full of Pinterest content in OneNote.
-<a href='https://www.theverge.com/2021/2/24/22298827/microsoft-word-onenote-pinterest-integration-embed-pins-feature'> Source <a/>
