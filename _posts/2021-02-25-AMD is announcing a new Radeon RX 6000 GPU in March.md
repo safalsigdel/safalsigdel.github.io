@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7Sq3QEhDVkL_uPhoCUD-_N0Rf6A=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/68869190/twarren_201116_4300_0001.0.0.jpg' width='700px' /><br/>
-AMD has announced a new hardware event for next month, where the company plans to unveil the next GPU in its Radeon RX 6000 line of cards. The presentation will air on March 3rd at 8AM PT / 11AM ET.
-<a href='https://www.theverge.com/2021/2/24/22299529/amd-radeon-rx-6000-gpu-event-announced'> Source <a/>

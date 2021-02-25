@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vfZr_KXS9Z157Drzf1REN9O4A4k=/0x0:1920x1080/1200x800/filters:focal(441x623:747x929)/cdn.vox-cdn.com/uploads/chorus_image/image/68872884/1600885423_downloadable_luna_heroamazon_luna.0.png' width='700px' /><br/>
+Amazon's head of Fire TV, Kindle, and its new Luna cloud gaming service departed the company this month. Marc Whitten has joined Unity as an executive on the company's Unity Create business. Unity is a cross-platform game engine that many developers use to get their games running across multiple devices.
+<a href='https://www.theverge.com/2021/2/25/22300851/amazon-marc-whitten-fire-tv-luna-cloud-gaming-unity-role'> Source <a/>
