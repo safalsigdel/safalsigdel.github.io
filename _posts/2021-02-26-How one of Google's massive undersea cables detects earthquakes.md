@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p6W7xxbFeEANb5DTCE1F8q6j-B4=/0x0:2040x1369/1200x800/filters:focal(857x522:1183x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68875240/GettyImages_695501024.0.jpg' width='700px' /><br/>
-The web of undersea cables that transmit data around the world could one day be used to track earthquakes and tsunamis, according to new research. During a test run last year, one of Google's fiber-optic cables was able to successfully pick up on nearby earthquakes by detecting distortions in light pulses sent along the cable. It's a new approach to an idea that researchers have been working on for the past several years.
-<a href='https://www.theverge.com/22301097/google-undersea-cable-detects-earthquakes'> Source <a/>
