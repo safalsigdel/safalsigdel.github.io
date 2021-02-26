@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vNKuRgaBQYPQgRuNbyzE8f3aBsU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68876192/dseifert_191009_3728_0002.0.jpg' width='700px' /><br/>
-Facebook has introduced a new “Hey Facebook” wake word for its family of Portal smart displays and the Oculus Quest platform. The company only formally announced it was gradually rolling out to Quest headsets, but its Portal support page now lists “Hey Facebook” as an alternative to “Hey Portal.” A look through the Wayback Machine shows it used to only list “Hey Portal” as recently as February 5th, 2021.
-<a href='https://www.theverge.com/2021/2/25/22301697/oculus-portal-smart-display-hey-facebook-wake-word-quest-headsets'> Source <a/>
