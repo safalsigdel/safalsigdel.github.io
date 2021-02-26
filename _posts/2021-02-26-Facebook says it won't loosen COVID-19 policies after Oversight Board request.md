@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7yOk7m-yrJdDUu2uuxULIKcz_RY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68876287/acastro_180828_1777_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook has decided whether to adopt recommendations the Facebook Oversight Board made last month when the board decided its first round of appeals from users. Among its responses, Facebook said it would not loosen standards on taking down COVID-19 misinformation, but it would test informing users whether a human or an automated filtering system deleted their post.
-<a href='https://www.theverge.com/2021/2/25/22301443/facebook-oversight-board-first-round-recommendations-response'> Source <a/>
