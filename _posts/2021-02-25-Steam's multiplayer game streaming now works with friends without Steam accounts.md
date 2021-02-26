@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bCldKmBtpTI17DKK68t3Hggm39U=/0x0:789x526/1200x800/filters:focal(332x200:458x326)/cdn.vox-cdn.com/uploads/chorus_image/image/68872501/remote_play_together.0.jpg' width='700px' /><br/>
-Steam's Remote Play Together feature, which lets you stream local multiplayer games with friends over the internet, will no longer require every player to have a Steam account. The new functionality, which is currently in beta, lets Steam users invite a friend to their game with a link, after which they'll be prompted to install the Steam Link app if they don't have it already.
-<a href='https://www.theverge.com/2021/2/25/22300768/steam-remote-play-together-no-account-required-beta'> Source <a/>

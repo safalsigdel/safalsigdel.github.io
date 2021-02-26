@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RURSGgT_GLbpcWj_n3rUnjGJBrE=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/68875728/acastro_180509_1777_steam_0001.0.0.jpg' width='700px' /><br/>
+Valve has been compelled by a California court to provide sales data on more than 400 Steam games to Apple and possibly reveal its yearly sales, revenue, and profits to Apple as well. The iPhone maker subpoenaed Valve for the data as part of its ongoing dispute with Fortnite developer Epic Games.
+<a href='https://www.theverge.com/2021/2/25/22301259/valve-apple-steam-sales-data-subpoena-epic-games'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9A513c5oKiaBmd6T-UnH0Sg-ERY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68876491/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
+TikTok has agreed to pay $92 million to settle a class action lawsuit over alleged privacy violations, which included claims that the app collected “highly sensitive personal data” to track users and target ads to them. TikTok rejected the allegations but said it didn't want to spend time litigating the issue.
+<a href='https://www.theverge.com/2021/2/25/22301704/tiktok-92-million-settlement-class-action-privacy-lawsuit'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rGswvsDy0oztQ5JaRkMuisyD_OY=/0x0:5070x3380/1200x800/filters:focal(2123x1600:2933x2410)/cdn.vox-cdn.com/uploads/chorus_image/image/68872599/nerf_hyper_mach_3_2.0.jpg' width='700px' /><br/>
-Nerf maker Hasbro has heard you loud and clear, Adam Savages of the world: you want to be able to shoot foam projectiles for days, without carrying around a belt full of magazines or constantly stooping down to reload.
-<a href='https://www.theverge.com/2021/2/25/22299490/nerf-hyper-announcement-first-blasters-rush-siege-mach'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CHa24edND-Qm76Tkrw7WepNOHU4=/0x0:1415x746/1200x800/filters:focal(621x382:847x608)/cdn.vox-cdn.com/uploads/chorus_image/image/68872363/Jen_Hill_Accessibility.0.png' width='700px' /><br/>
-Zoom plans to roll out support for automatic closed captioning to free accounts this fall as part of its efforts to make the service more accessible, the company has announced. If you're a free account holder who needs access to the feature before then, Zoom is allowing users to manually request access to the Live Transcription feature via a Google Form linked to in its announcement.
-<a href='https://www.theverge.com/2021/2/25/22300740/zoom-live-transcription-closed-captions-accessibility-free-accounts'> Source <a/>

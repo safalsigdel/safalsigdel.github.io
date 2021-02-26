@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jQb3GN1g6eAtmFTkhD8AZUUnfsY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68876362/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
+Oxford University disclosed on Thursday that one of its research labs dedicated in part to studying COVID-19 suffered a cyberattack, following an investigation from Forbes indicating external access to a number of the lab's systems.
+<a href='https://www.theverge.com/2021/2/25/22301725/covid-19-research-lab-hacked-oxford-university-strubi'> Source <a/>

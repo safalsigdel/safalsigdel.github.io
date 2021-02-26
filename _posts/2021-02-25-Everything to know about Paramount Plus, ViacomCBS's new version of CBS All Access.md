@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/InKdmcne2oMcXzmFl8mSq4kbYxM=/528x0:1920x1080/1200x800/filters:focal(1140x260:1446x566)/cdn.vox-cdn.com/uploads/chorus_image/image/68870759/paramount_plus.0.jpg' width='700px' /><br/>
-In just over a week, CBS All Access will become Paramount Plus, a rebranded version of the streaming service launching on March 4th.
-<a href='https://www.theverge.com/2021/2/24/22299615/paramount-plus-launch-date-price-cbs-all-access-shows-movies'> Source <a/>

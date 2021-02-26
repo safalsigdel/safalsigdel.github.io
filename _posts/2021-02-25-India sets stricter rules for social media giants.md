@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/udTQ4HQ5OSSTjeQ8lXVOQyGuuoM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68873326/acastro_210119_1777_whatsapp_0003.0.jpg' width='700px' /><br/>
-India has announced new regulations for social networks and other web services in the country, particularly “significant social media” companies with large user bases, like Facebook and Twitter.
-<a href='https://www.theverge.com/2021/2/25/22300887/india-social-media-liability-rules-meity-facebook-whatsapp-twitter'> Source <a/>

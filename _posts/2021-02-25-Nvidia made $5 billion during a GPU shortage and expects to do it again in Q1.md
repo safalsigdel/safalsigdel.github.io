@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pfAUK7F4341a2tuOeUWHRdDsahE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68870719/acastro_180529_1777_nvidia_0001.0.0.jpg' width='700px' /><br/>
-Nvidia has shared its Q4 2021 earnings, and despite the company's GPUs being in extremely low supply, it didn't seem to hurt how much money the company made. In fact, it reported a record $5 billion in revenue, which is up 61 percent year-over-year. What's more impressive is that Nvidia expects to make another $5 billion in revenue during Q1 2022.
-<a href='https://www.theverge.com/2021/2/24/22299505/nvidia-earnings-q4-2021-quarterly-gpu-shortage-revenue'> Source <a/>

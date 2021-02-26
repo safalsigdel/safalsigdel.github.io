@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zb2npeI15YpdlbvmKtcMs1FfyGY=/0x0:4032x2688/1200x800/filters:focal(1694x1022:2338x1666)/cdn.vox-cdn.com/uploads/chorus_image/image/68872033/IMG_1337_2.0.jpeg' width='700px' /><br/>
-A new update to popular podcast player Overcast includes a major overhaul of its Apple Watch app. The Apple Watch support is notable at a time when third-party app development for the platform is not necessarily in a great spot, though the Watch itself continues to grow in popularity.
-<a href='https://www.theverge.com/2021/2/25/22300649/overcast-podcast-app-new-watch-update'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NrE2zh-GG2-7xuhugp19Jw3ZO2A=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/68873308/amazon_music_android_tv.0.png' width='700px' /><br/>
-Amazon Music is finally coming to Google's set-top box operating systems, with a new app rolling out for Google TV (currently just available on the latest Chromecast) and Android TV starting today.
-<a href='https://www.theverge.com/2021/2/25/22300990/amazon-music-google-android-tv-chromecast-app-available-now'> Source <a/>

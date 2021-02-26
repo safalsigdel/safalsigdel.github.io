@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K-yujrt8GZ6ZtW6KrV2Pv6PphgI=/0x0:1024x683/1200x1200/filters:focal(512x342:513x343)/cdn.vox-cdn.com/uploads/chorus_asset/file/22017052/ps5_all_digital.jpg' width='700px' /><br/>
-Update February 25th, 8:03AM ET: Sony's PlayStation 5 with the disc drive is currently available for purchase at Target, while supplies last. You can find more information here.
-<a href='https://www.theverge.com/2020/9/17/21440300/ps5-playstation-5-preorder-price-release-date-buy'> Source <a/>

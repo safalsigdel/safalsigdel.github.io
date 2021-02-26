@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dBgLs7VSra9jxv-9w2WYvbozxNk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68877479/acastro_180417_1777_telegram_0001.0.jpg' width='700px' /><br/>
+Telegram is updating its messaging app with options for auto-deleting messages, expiring invite links, and new unlimited groups, the company shared in a blog post. Much like Signal, Telegram received a burst of new users in the confusion over WhatsApp's privacy policy and now the company is adopting features that were already part of its competitors' apps, features which offer more security and privacy.
+<a href='https://www.theverge.com/2021/2/25/22301393/telegram-auto-delete-messages-widgets-andoird-ios-update'> Source <a/>

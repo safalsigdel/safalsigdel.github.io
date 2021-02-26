@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jfqm0H4ojMSruzx7vLijsLIeioI=/0x0:2040x1360/1200x800/filters:focal(831x211:1157x537)/cdn.vox-cdn.com/uploads/chorus_image/image/68873061/akrales_210224_4406_0066.0.jpg' width='700px' /><br/>
-It's rare to find a button that is almost universally hated, but the infamous touchpad on the Apple TV's Siri Remote might be the exception. Even over half a decade after its introduction, it stands as one of the most reviled pieces of hardware around.
-<a href='https://www.theverge.com/2021/2/25/22300891/apple-tv-siri-remote-touchpad-button-design-form-function'> Source <a/>

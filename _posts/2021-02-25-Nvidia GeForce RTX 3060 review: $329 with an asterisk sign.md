@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZegUqNi2aLEVPJmy2JJ8z2gxI8A=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68872828/shollister_200224_4441_0008.0.jpg' width='700px' /><br/>
-So you want to buy a graphics card. Join the club: every modern game-capable GPU has instantly sold out for months. The pandemic birthed a global semiconductor shortage, Trump's trade war didn't help, and now even four-year-old graphics cards can fetch several hundred dollars on the secondhand market.
-<a href='https://www.theverge.com/22300659/nvidia-geforce-rtx-3060-review'> Source <a/>

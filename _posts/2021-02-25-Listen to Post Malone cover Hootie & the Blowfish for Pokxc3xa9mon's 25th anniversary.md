@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-On Saturday, Post Malone will hold a virtual concert to celebrate the 25th anniversary of the Pokxc3xa9mon franchise. If that combination wasn't strange enough, today, he revealed one of the songs he'll be performing: a cover of Hootie & the Blowfish's mid-'90s hit “Only Wanna Be With You.”
-<a href='https://www.theverge.com/tldr/2021/2/25/22300982/post-malone-pokemon-25th-anniversary-hootie-blowfish-cover'> Source <a/>

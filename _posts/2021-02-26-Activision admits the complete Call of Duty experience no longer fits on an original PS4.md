@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-v4xG2itweHJaA9lLo1ur8NnJ9Q=/0x0:1920x1080/1200x800/filters:focal(980x398:1286x704)/cdn.vox-cdn.com/uploads/chorus_image/image/68877511/AGB_WZ_Strategy_Guide_Personalized.0.jpg' width='700px' /><br/>
+The latest Call of Duty game collection may now be too big to fit the base 500GB PlayStation 4 hard drive (via IGN). According to the official Call of Duty blog, if you want to have the latest Call of Duty: Warzone update and the full Black Ops: Cold War and Modern Warfare package on your PS4, you'll have to uninstall content you don't use.
+<a href='https://www.theverge.com/2021/2/25/22302057/call-of-duty-warzone-black-ops-modern-warfare-500gb-size'> Source <a/>
