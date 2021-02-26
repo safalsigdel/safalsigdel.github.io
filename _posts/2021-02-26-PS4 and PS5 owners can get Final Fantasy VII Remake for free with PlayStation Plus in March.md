@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8DINzBlTXc__eOlNVUWLAX3WppM=/0x0:1407x792/1200x800/filters:focal(592x284:816x508)/cdn.vox-cdn.com/uploads/chorus_image/image/68879105/gallery_full_screen_24.0.jpg' width='700px' /><br/>
+Final Fantasy VII Remake, the modern retelling of the 1997 PlayStation classic, will be free for PlayStation Plus subscribers beginning March 2nd. It is important to note the PS4 version of Final Fantasy VII Remake available for users with an active PS Plus subscription will not be able to receive a PS5 digital version of the game, which was announced yesterday at Sony's State of Play event.
+<a href='https://www.theverge.com/2021/2/26/22302776/finalfantasy-7-remake-free-playstation-plus-march-2021'> Source <a/>
