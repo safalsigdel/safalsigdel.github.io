@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6kdof8YwbqdXaN32Wfwz48VHe2M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68875432/acastro_190920_1777_amazon_0003.0.0.jpg' width='700px' /><br/>
+Twitch is removing the anti-union ads that its parent company, Amazon, was running on the platform. The ads showed Amazon employees talking about why they want to vote no on unionization and directed viewers to Amazon's “DoItWithoutDues” website. A Twitch spokesperson said the ads “should never have been allowed to run on [the] service,” as they violate its political advertising policies.
+<a href='https://www.theverge.com/2021/2/25/22301352/twitch-removes-amazon-anti-union-ads'> Source <a/>
