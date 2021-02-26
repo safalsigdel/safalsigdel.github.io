@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2hj0c0dHFfOA6nJN3sN8ZRDvbTQ=/0x0:2050x1367/1200x800/filters:focal(735x412:1063x740)/cdn.vox-cdn.com/uploads/chorus_image/image/68875374/shollister_200224_4441_0002.0.jpg' width='700px' /><br/>
-Nvidia supposedly launched a $329 graphics card today, the GeForce RTX 3060, but I've yet to see much proof.
-<a href='https://www.theverge.com/2021/2/25/22301391/nvidia-rtx-3060-launch-supply-demand-newegg-shuffle'> Source <a/>
