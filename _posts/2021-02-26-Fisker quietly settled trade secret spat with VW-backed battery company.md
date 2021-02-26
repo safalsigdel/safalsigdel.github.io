@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yrZiHMNMiP8Hosf8D0bpN30mYdI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68875934/jbareham_180108_2235_0095.0.jpg' width='700px' /><br/>
-Fisker Inc. quietly settled a previously unreported trade secret lawsuit with Volkswagen-backed solid-state battery company QuantumScape last July, The Verge has learned. The suit, filed in April 2019 in Santa Clara Superior Court, was centered on a former QuantumScape employee who brought thousands of confidential documents with her to a new job at Fisker Inc. in late 2018 and early 2019.
-<a href='https://www.theverge.com/2021/2/25/21355123/fisker-quantumscape-lawsuit-trade-secret-solid-state-batteries-fsr-qs'> Source <a/>
