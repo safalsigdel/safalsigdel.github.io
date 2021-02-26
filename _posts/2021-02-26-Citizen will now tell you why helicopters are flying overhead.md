@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tner_C0NpOIEExTfOWJut2OwY-0=/0x0:4800x2700/1200x800/filters:focal(1982x950:2750x1718)/cdn.vox-cdn.com/uploads/chorus_image/image/68879297/Helicopter_Media_Asset.0.png' width='700px' /><br/>
+Citizen, the app that turns everyone into a crime reporter, now wants to track helicopters. The company announced today that it's introducing helicopter tracking to the app, which will explain to users why there are flying vehicles overhead.
+<a href='https://www.theverge.com/2021/2/26/22295548/citizen-helicopters-app-update'> Source <a/>
