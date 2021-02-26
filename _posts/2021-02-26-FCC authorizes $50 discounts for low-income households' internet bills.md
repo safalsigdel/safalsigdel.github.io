@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sWNI-VOFWDkSmRC73re1CPcn828=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68879515/acastro_180608_1777_net_neutrality_0002.0.jpg' width='700px' /><br/>
+The Federal Communications Commission voted unanimously on Thursday to adopt a program that provides emergency discounts of up to $50 per month toward broadband internet service for low-income households. The Emergency Broadband Benefit Program also provides up to $75 per month for households on Native American land and a one-time discount of up to $100 on a tablet or computer for those who qualify.
+<a href='https://www.theverge.com/2021/2/26/22302807/fcc-internet-subsidies-authorized-low-income-broadband'> Source <a/>
