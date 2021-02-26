@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UdrFmrz2h25po_Fqbe0lIbzlOGs=/0x0:1363x766/1200x800/filters:focal(573x274:791x492)/cdn.vox-cdn.com/uploads/chorus_image/image/68879861/0ULfxggHuL.0.png' width='700px' /><br/>
-At a special live-streamed event today, The Pokxc3xa9mon Company revealed something fans having been waiting a long time for: an open-world Pokxc3xa9mon adventure. The next major entry in the franchise will be called Pokxc3xa9mon Legends: Arceus, and it looks to be a huge evolution of the long-running RPG formula.
-<a href='https://www.theverge.com/2021/2/26/22302841/pokemon-legends-arceus-open-world-rpg-nintendo-switch'> Source <a/>
