@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zd7TgEKr2LonNYthWfbBH2ZZlWs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68876186/acastro_190530_1777_xbox_0001.0.0.jpg' width='700px' /><br/>
-Microsoft's Xbox Live service went down for more than five hours today, preventing users from signing in to the service. The Xbox Live problems started at around 3:15PM ET today, and Microsoft confirmed it was investigating the outage. The Xbox Live status page was updated at 9.49PM ET to say that all services are now up and running.
-<a href='https://www.theverge.com/2021/2/25/22301763/xbox-live-down-sign-in-issues-microsoft-support'> Source <a/>
