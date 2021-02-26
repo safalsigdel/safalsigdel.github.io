@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RVVlytWe6y1Fszx9f01tEr6sJmw=/0x0:1898x1430/1200x800/filters:focal(798x564:1100x866)/cdn.vox-cdn.com/uploads/chorus_image/image/68875043/twitter_auto_block.0.png' width='700px' /><br/>
-Twitter plans to introduce a way for you to automatically block and mute abusive accounts, the company announced at its Analyst Day presentation on Thursday.
-<a href='https://www.theverge.com/2021/2/25/22301388/twitter-auto-block-mute-abusive-accounts-safety-mode'> Source <a/>

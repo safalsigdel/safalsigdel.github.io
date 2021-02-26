@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xz7nDi5NhFr-36RebVxOl_wIBrs=/0x0:2040x1360/1200x800/filters:focal(880x795:1206x1121)/cdn.vox-cdn.com/uploads/chorus_image/image/68878636/vpavic_4278_20201030_0041.0.jpg' width='700px' /><br/>
+Sony will allow the PlayStation 5 to make use of expanded SSD storage from this summer, according to a report in Bloomberg. The functionality is said to be coming in a firmware update that will activate the PS5's M.2 expansion slot, which is currently disabled. Sony told The Verge ahead of the PS5 launch that the feature was “reserved for a future update.”
+<a href='https://www.theverge.com/2021/2/26/22302646/sony-ps5-ssd-expansion-coming-summer-report'> Source <a/>
