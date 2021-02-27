@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sCj0850JvzqRlPkDpqzmpjQGPN0=/13x0:898x803/1200x800/filters:focal(364x315:506x457)/cdn.vox-cdn.com/uploads/chorus_image/image/68882613/Screen_Shot_2021_02_26_at_2.24.11_PM.0.png' width='700px' /><br/>
+What's better than an ultra-high-tech, Mission: Impossible-style mask? The deepfake technology this TikToker is using to impersonate Tom Cruise, apparently (via The Daily Beast). The deeptomcruise account appears to feature someone who's pretending to be the famous actor, and the impression isn't just jaw-dropping because of how well the person replicates Cruise's famous laugh.
+<a href='https://www.theverge.com/22303756/tiktok-tom-cruise-impersonator-deepfake'> Source <a/>

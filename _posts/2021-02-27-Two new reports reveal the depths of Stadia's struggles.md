@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pv9ij-_oDFhrc4IHgZ7Vr83rZ70=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68881974/akrales_191113_3779_0215.0.jpg' width='700px' /><br/>
+Two new reports from Bloomberg and Wired have shed light on some of Google's failures in building its Stadia cloud gaming service. The reports come just a few weeks after Google announced it would be shutting down its in-house Stadia game development studios.
+<a href='https://www.theverge.com/2021/2/26/22303496/google-stadia-struggle-wired-bloomberg-reports-studios'> Source <a/>

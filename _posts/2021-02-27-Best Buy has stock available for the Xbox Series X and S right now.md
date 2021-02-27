@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FIuw04aLYNBz1w2rla8PftC3CB4=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/68880280/twarren_200908_4177_0011.0.0.jpg' width='700px' /><br/>
+Update February 26th, 2021 12:05PM: Best Buy still has both consoles in stock, but the retailer is releasing small waves of inventory every few minutes, so if you're unable to buy one immediately, it's worth trying again in a few minutes.
+<a href='https://www.theverge.com/22303116/xbox-series-x-s-restock'> Source <a/>

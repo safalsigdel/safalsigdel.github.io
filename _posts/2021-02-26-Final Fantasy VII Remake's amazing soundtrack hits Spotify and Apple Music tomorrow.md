@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FKK1EOcR_ctJ33CKR_hb9Kc3YvM=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/68877039/EvG150UXEAME2j6.0.jpeg' width='700px' /><br/>
-Final Fantasy VII Remake's soundtrack will be available to stream on Spotify, Apple Music, Amazon Music Unlimited, and other music subscription services tomorrow, February 26th, Square Enix announced on Thursday. It will have an eye-popping (ear-popping?) 156 tracks, according to a press release.
-<a href='https://www.theverge.com/2021/2/25/22301968/final-fantasy-vii-remake-soundtrack-spotify-apple-music-streaming-services'> Source <a/>

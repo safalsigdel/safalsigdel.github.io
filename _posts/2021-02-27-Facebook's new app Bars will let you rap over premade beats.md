@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9BHEAIoBwxj0lpJ0Gi1mC1-6RMw=/0x0:1612x1184/1200x800/filters:focal(678x464:934x720)/cdn.vox-cdn.com/uploads/chorus_image/image/68882351/Screen_Shot_2021_02_26_at_12.46.23_PM.0.png' width='700px' /><br/>
+Despite being an annoying hipster, I definitely did not see this one coming: Facebook is releasing an app that will let users post and share videos of them rapping over beats, which are provided by the app (via TechCrunch).
+<a href='https://www.theverge.com/2021/2/26/22303604/facebook-rap-app-bars-experiment'> Source <a/>

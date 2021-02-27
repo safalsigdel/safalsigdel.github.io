@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/14MRfAS5D-dBnETLp7Ab_YY9egY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68876638/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T today announced plans to spin out its various video businesses — DirecTV, AT&T TV, and U-Verse — into a new company that it will jointly control with TPG Capital. The deal sees AT&T holding on to a 70 percent stake in the company, with TPG getting the other 30. “The transaction to separate AT&T's US video business into New DirecTV implies an enterprise value for the new company of $16.25 billion.”
-<a href='https://www.theverge.com/2021/2/25/22301840/att-tpg-directv-tv-uverse-new-company-announced'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Square Enix just announced Final Fantasy VII Remake Intergrade, a PS5-enhanced version of FF7 Remake that includes graphical improvements like “improved textures, lighting, and background environments.” But some users on ResetEra noticed one other potentially huge graphical upgrade: Cloud's famously skinny arms may have gotten a bit beefier.
-<a href='https://www.theverge.com/tldr/2021/2/25/22302175/cloud-strife-arms-muscles-ps5-final-fantasy-vii-7-remake-intergrade'> Source <a/>

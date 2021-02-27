@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QonnOIEfihPI2uqMXLq87cgjn50=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68876370/Screen_Shot_2021_02_25_at_12.54.43_PM.0.png' width='700px' /><br/>
-The next Dragon Age game will no longer have multiplayer aspects, according to a new Bloomberg report. The game, made by EA-owned studio BioWare, had reportedly “been designed with a heavy multiplayer component,” but it has been turned into a single-player game “in recent months.”
-<a href='https://www.theverge.com/2021/2/25/22301634/dragon-age-single-player-only-ea-bioware-shifts'> Source <a/>

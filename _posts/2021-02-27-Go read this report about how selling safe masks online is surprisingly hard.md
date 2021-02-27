@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9xlAY_sJB1-8M80f3cK_jLDXlWk=/0x0:5379x3648/1200x800/filters:focal(2260x1394:3120x2254)/cdn.vox-cdn.com/uploads/chorus_image/image/68883203/1257624399.0.jpg' width='700px' /><br/>
+A new report from The New York Times' Andrew Jacobs digs into how mask policies on tech platforms that have allowed novelty masks like scrunchie masks to flourish while some mask-makers making high-filtration masks have had trouble selling their wares.
+<a href='https://www.theverge.com/2021/2/26/22303935/mask-selling-facebook-amazon-instagram-kn95-n95'> Source <a/>

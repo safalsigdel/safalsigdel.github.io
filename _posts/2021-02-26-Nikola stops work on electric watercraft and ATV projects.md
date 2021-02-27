@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/59OMMTFN1-f4poWuD1sSUxi3xeI=/0x0:2750x1440/1200x800/filters:focal(1155x500:1595x940)/cdn.vox-cdn.com/uploads/chorus_image/image/68876538/nikola_nzt3.0.jpg' width='700px' /><br/>
-Zero-emission trucking company Nikola has shuttered its so-called Powersports division and is pausing work on an electric personal watercraft and off-road vehicle first announced in April 2019. Nikola stopped work on the projects as part of a larger push to focus on getting its first hydrogen-powered truck out the door, following a number of stumbles in 2020. The decision cost the startup $14.4 million, according to a regulatory filing.
-<a href='https://www.theverge.com/2021/2/25/22301823/nikola-powersports-shuttered-nzt-wav'> Source <a/>

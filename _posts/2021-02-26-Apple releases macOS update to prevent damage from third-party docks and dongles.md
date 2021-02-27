@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eI0CHKRj3opcqmcYfOxsyUOZwDE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68877155/vpavic_4291_20201113_0366.0.0.jpg' width='700px' /><br/>
-Apple is once again releasing an update to prevent a charging problem from killing MacBooks — this time it's to fix a problem where 2019 and later MacBook Pros, and 2020 and later MacBook Airs were being damaged when connected to third-party USB-C hubs and docks (via MacRumors).
-<a href='https://www.theverge.com/2021/2/25/22301846/apple-macos-update-prevent-third-party-dongle-dock-damage'> Source <a/>
