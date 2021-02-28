@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YaNGUZdHhJYLVNo_8nUkcrQuKGU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68885241/acastro_180604_1777_xbox_0001.0.jpg' width='700px' /><br/>
+Microsoft is finalizing its Xbox Game Streaming app for Windows PCs, which includes access to streaming games from the company's xCloud service. We've managed to get access to the latest version of the Xbox Game Streaming app for Windows, an unannounced and unreleased app. Once released, the app will let Windows users stream games from their Xbox Series S / X consoles, and from xCloud.
+<a href='https://www.theverge.com/2021/2/27/22304762/microsoft-xcloud-app-windows-xbox-touch-controls-gyro-support'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eSidFUgDc36IpM-t9YTH08INGag=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68878748/DSC00697.0.jpg' width='700px' /><br/>
-Nvidia has started to roll out support for Resizable BAR, a feature of PCI Express that can boost frame rates in certain games by up to 10 percent. The new RTX 3060 graphics card is the first to include Resizable BAR, which allows certain CPUs to access the full graphics frame buffer, instead of being limited to reading just 256MB blocks. Support for other 30-series GPUs will be available in late March.
-<a href='https://www.theverge.com/2021/2/26/22302679/nvidia-rtx-3060-resizable-bar-support-30-series-gpus'> Source <a/>
