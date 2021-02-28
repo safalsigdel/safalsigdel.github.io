@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jx1MvT091ZNDKsyXHD5JVBYBn-8=/0x0:2050x1367/1200x675/filters:focal(940x647:1268x975)/cdn.vox-cdn.com/uploads/chorus_image/image/68879033/ajohnson_210222_4437__003.0.jpg' width='700px' /><br/>
-The LG Stylo 6 is a sub-$300 phone with a built-in stylus, which puts it in exclusive company: the $299 Motorola Moto G Stylus is more or less its only direct competition. For its $270 price, the Stylo 6 offers good battery performance; a big, bright screen; and the handy pen-derived features that stylus life offers. But as much fun as I had doodling on its generously sized screen, it's just too slow to recommend.
-<a href='https://www.theverge.com/22301223/lg-stylo-6-review'> Source <a/>
