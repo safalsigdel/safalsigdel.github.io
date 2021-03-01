@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j5owssT0De3OTjZ-63aO8eE_llU=/0x0:7713x6170/1200x800/filters:focal(3240x2468:4474x3702)/cdn.vox-cdn.com/uploads/chorus_image/image/68889669/Lime_feb2020_reamer013_Edit.0.jpg' width='700px' /><br/>
+Lime is getting back to its roots. The scooter company formerly known as LimeBike says it will invest $50 million to grow its shared electric bicycle network, including adding a new model of bike and doubling the number of cities in which it operates.
+<a href='https://www.theverge.com/2021/3/1/22303364/lime-ebike-expansion-new-cities-50-million-investment'> Source <a/>
