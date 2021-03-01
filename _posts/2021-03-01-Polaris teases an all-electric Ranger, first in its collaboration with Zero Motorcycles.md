@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5SuTqPHpy2kUBw5xZ2Ro6iWH3Ic=/0x0:8361x5215/1200x800/filters:focal(3513x1940:4849x3276)/cdn.vox-cdn.com/uploads/chorus_image/image/68890008/PII_Image_for_3.1.0.jpg' width='700px' /><br/>
+The first electric power sports vehicle to emerge from the new collaboration between Polaris and Zero Motorcycles will be a battery-powered Ranger utility side-by-side. The companies didn't provide any details about the vehicle's range, battery pack, or price, but they did say that production on the new UTV (or utility terrain vehicle) was expected to start in December 2021.
+<a href='https://www.theverge.com/2021/3/1/22302725/polaris-electric-ranger-utv-zero-teaser'> Source <a/>
