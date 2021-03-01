@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yUWVjfkNlzmK0iFJcSEzswhSOKQ=/0x0:4603x3334/1200x800/filters:focal(1934x1299:2670x2035)/cdn.vox-cdn.com/uploads/chorus_image/image/68887962/1231346745.0.jpg' width='700px' /><br/>
+Awards season in Hollywood begins Sunday, February 28th, with the 78th Golden Globe Awards, hosted by the Hollywood Foreign Press Association. The Golden Globes, usually considered a harbinger of who may take home awards at other shows like the Oscars, will look a bit different this year thanks to the coronavirus pandemic. The hosts and presenters will be in different locations in the US and around the world.
+<a href='https://www.theverge.com/2021/2/28/22305793/golden-globes-2021-live-stream-how-to-watch-start-time'> Source <a/>

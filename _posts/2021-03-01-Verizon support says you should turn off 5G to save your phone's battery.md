@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GiE6owZg6Jxc4GQZUnGgW3fVHWA=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/68887874/1227822210.0.jpg' width='700px' /><br/>
+Despite its relentless promotion of 5G phones and the fact that it spent more than $45 billion bidding on a new faster spectrum, Verizon support now is advising people on Twitter to turn off their phones' 5G access to preserve battery life.
+<a href='https://www.theverge.com/2021/2/28/22305899/verizon-support-turn-off-5g-save-phone-battery'> Source <a/>

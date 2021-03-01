@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pwjqG8dkywB_Ln1YgHUgP7HR-vc=/0x0:2040x1360/1200x675/filters:focal(451x714:777x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/67126635/IMG_0625-1.0.6.jpeg' width='700px' /><br/>
-Forget about taking them on a plane: noise-canceling headphones have done a better job proving their worth now — during all these months many of us have spent working at home — than ever before. They're an essential piece of kit for finding some peace and quiet when you're in a shared living space. And when you venture outside, they've only gotten more impressive at hushing those distractions, too.
-<a href='https://www.theverge.com/21345733/best-noise-canceling-headphones'> Source <a/>
