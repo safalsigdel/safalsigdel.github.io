@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K-yujrt8GZ6ZtW6KrV2Pv6PphgI=/0x0:1024x683/1200x1200/filters:focal(512x342:513x343)/cdn.vox-cdn.com/uploads/chorus_asset/file/22017052/ps5_all_digital.jpg' width='700px' /><br/>
-Update February 26th, 2021 12:30PM ET: Best Buy currently has PS5 and PS5 digital editions in stock. You can find more information on the retailer's restock here.
-<a href='https://www.theverge.com/2020/9/17/21440300/ps5-playstation-5-preorder-price-release-date-buy'> Source <a/>
