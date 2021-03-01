@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZUuNaQraOGuHczutu-h8EPQjkW4=/0x0:2047x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/68891415/50502367016_9c078c5fc8_k.0.jpg' width='700px' /><br/>
+Riot Games plans to host two big esports tournaments in Reykjavik, Iceland, the studio announced on Monday.
+<a href='https://www.theverge.com/2021/3/1/22303379/league-of-legends-iceland-lol-mid-season-invitational-valorant-champions-riot-games'> Source <a/>
