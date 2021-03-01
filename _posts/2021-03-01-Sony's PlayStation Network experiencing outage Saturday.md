@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZDcPyUxV6TPWlMGzOska-LknKg0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68884442/vpavic_191127_untitled_0059_Edit.0.jpg' width='700px' /><br/>
-An outage of Sony's PlayStation Network that began Friday afternoon appeared to be persisting on Saturday morning. According to an update on the status page timestamped 6:33PM (not clear what time zone that is) on February 26th, the affected platforms are PS Vita, PS3, PS4, and PS5.
-<a href='https://www.theverge.com/2021/2/27/22304492/sony-playstation-network-outage-saturday'> Source <a/>
