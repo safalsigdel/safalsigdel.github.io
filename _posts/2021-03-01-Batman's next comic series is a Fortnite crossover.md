@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ojiy7fG47bjHDe5ztjjbWEEURyY=/0x0:3089x4697/1200x800/filters:focal(1298x2102:1792x2596)/cdn.vox-cdn.com/uploads/chorus_image/image/68880578/BMFNZP_Cv1_VAR_FINAL_VARIANT_.0.jpg' width='700px' /><br/>
-DC Comics and Fortnite developer Epic Games are joining forces on a new Batman and Fortnite-themed crossover comic book. The six-issue miniseries, titled Batman / Fortnite: Zero Point, will debut on April 20th. Two issues will then launch in both May and June before the series concludes with a final issue on July 6th.
-<a href='https://www.theverge.com/2021/2/26/22303107/batman-fortnite-comic-crossover-epic-games-dc-launch-date'> Source <a/>
