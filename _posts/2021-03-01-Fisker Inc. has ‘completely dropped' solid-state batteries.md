@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UCbRp4Y_pa6AGGUH3ia-gSr98HY=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/68881440/fisker_ocean_0134.0.jpg' width='700px' /><br/>
-Henrik Fisker has abandoned his electric vehicle startup's effort to create a solid-state battery, the Fisker Inc. founder told The Verge in a recent interview.
-<a href='https://www.theverge.com/2021/2/26/22279995/fisker-inc-electric-vehicle-interview-solid-state-batteries-ocean-suv-spac'> Source <a/>
