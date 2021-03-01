@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qh9wYCvqpOnO-whBnXuYiiToqyo=/0x0:2040x1351/1200x1200/filters:focal(1052x690:1053x691)/cdn.vox-cdn.com/uploads/chorus_asset/file/21867252/twarren_200909_4177_0031.0.jpg' width='700px' /><br/>
-Update February 26th, 2021 11:26AM ET: Best Buy has stock available for both the Xbox Series X and Series S. You can find additional information here.
-<a href='https://www.theverge.com/21437954/xbox-series-x-s-preorder-us-retailers-microsoft-release-date'> Source <a/>
