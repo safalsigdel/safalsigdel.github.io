@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2To8IDWummIYNM2uB2tseKQknIU=/0x0:768x512/1200x800/filters:focal(323x195:445x317)/cdn.vox-cdn.com/uploads/chorus_image/image/68891219/desktop_gabfidddx.0.jpg' width='700px' /><br/>
+Right-wing social media website Gab has reportedly been hacked, and CEO Andrew Torba said on Twitter that “demon hackers” were to blame, using a transphobic slur to describe them.
+<a href='https://www.theverge.com/2021/3/1/22307013/gab-hack-data-ceo-demon-hackers'> Source <a/>
