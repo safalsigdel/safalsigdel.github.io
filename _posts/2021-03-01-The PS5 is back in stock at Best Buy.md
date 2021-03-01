@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2U7H8wj27eoltrAWPodw839wGDE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68880682/vpavic_4278_20201030_0292.0.jpg' width='700px' /><br/>
-Update February 27th, 1:19PM: It looks like both the PS5 and PS5 digital edition are now sold out.
-<a href='https://www.theverge.com/2021/2/26/22303165/sony-playstation-5-ps5-digital-edition-best-buy-restock'> Source <a/>
