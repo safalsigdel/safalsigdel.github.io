@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nNrel7a-xJ8ZzwNK9ZJUXvJi5X8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68898344/jbareham_180912_2945_0058.0.jpg' width='700px' /><br/>
+Chinese EV startup Nio entered 2020 on the brink but emerged stronger than ever, thanks in large part to a government bailout. That government aid helped Nio get back on its feet just in time to ride a new wave of optimism in EVs — something that's never been more clear than after the company offered the first snapshot of its financial performance for the year on Monday.
+<a href='https://www.theverge.com/2021/3/2/22309290/nio-2020-earnings-finances-cash-bailout-deliveries'> Source <a/>
