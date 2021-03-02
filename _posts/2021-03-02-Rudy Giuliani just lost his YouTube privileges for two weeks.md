@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mQxqmelCRAiQTtd9D3i1g_CMbXw=/0x0:5077x3546/1200x800/filters:focal(2133x1367:2945x2179)/cdn.vox-cdn.com/uploads/chorus_image/image/68895100/1229918044.0.jpg' width='700px' /><br/>
-YouTube has suspended Rudy Giuliani's YouTube channel for the second time this year for making false claims of fraud in the 2020 US presidential election and has issued a strike against his channel. It's Giulani's second strike within 90 days, according to Bloomberg, meaning that Giuliani cannot upload videos for two weeks. In a statement, YouTube also cited Giulani's promotion of nicotine, which is against the company's rules.
-<a href='https://www.theverge.com/2021/3/1/22308377/rudy-giuliani-youtube-suspension-strike-two-weeks'> Source <a/>
