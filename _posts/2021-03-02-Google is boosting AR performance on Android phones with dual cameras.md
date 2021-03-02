@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xu1lbBXNFeCDz439NObLks5hJvE=/0x0:2040x1360/1200x800/filters:focal(990x205:1316x531)/cdn.vox-cdn.com/uploads/chorus_image/image/68895807/vpavic_191016_3730_0029.0.jpg' width='700px' /><br/>
-Google is updating its augmented reality SDK so that phones with dual cameras can capture better depth information. As noted by Android Police, the most recent update to the Google Play Services for AR app, which is how Google distributes ARCore features, now notes “Dual camera stereo depth on supported devices” in its changelog.
-<a href='https://www.theverge.com/2021/3/2/22308742/google-arcore-dual-camera-update-pixel-4-xl'> Source <a/>

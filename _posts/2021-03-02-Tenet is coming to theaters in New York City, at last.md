@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4TM2COlRYTfF3gccpuiyl5a7AGY=/0x0:2048x1152/1200x800/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/68898583/tenet_poster.0.jpg' width='700px' /><br/>
+Christopher Nolan's Tenet, the time-traveling epic that hasn't quite been a hit at the box office, will come to movie theaters in New York City on Friday, Deadline reported. It gives NYC theaters — which can reopen at limited capacity starting Friday — a marquee film for theatergoers who want to see Tenet on the big screen.
+<a href='https://www.theverge.com/2021/3/2/22309461/tenet-nyc-theaters-new-york-city-christopher-nolan'> Source <a/>
