@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1eoiDzFstXm9FW5J1PxubUYC_PM=/0x0:1000x667/1200x800/filters:focal(420x254:580x414)/cdn.vox-cdn.com/uploads/chorus_image/image/68897483/soundcloud.0.jpg' width='700px' /><br/>
+SoundCloud's trying something new for a major music streaming service: paying indie artists a share of their actual listeners' subscription fees. The company calls this “fan-powered royalties,” and it means a SoundCloud subscriber's subscription fee or advertising revenue will be divvied up among the artists they actually listen to, rather than going to a big pot and being split up among the platform's most popular artists.
+<a href='https://www.theverge.com/2021/3/2/22309090/soundcloud-artist-stream-pay-listener-fan-royalties'> Source <a/>
