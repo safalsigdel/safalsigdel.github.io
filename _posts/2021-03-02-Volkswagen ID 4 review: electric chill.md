@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VrPyAiempORXFdxers3Uu5rjopU=/0x0:8256x6200/1200x0/filters:focal(0x0:8256x6200):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22331911/B2247068.jpg' width='700px' /><br/>
-Once upon a time, affordable electric compact SUVs were very hard to come by. There were plenty of cheap electric hatchbacks and a whole mess of luxury sedans and SUVs, but you'd have to cough up $50,000 or more if you wanted one. Then came the Tesla Model Y followed by the Ford Mustang Mach-E, and now our cup runneth over with reasonably priced battery-powered crossovers.
-<a href='https://www.theverge.com/22302883/vw-id4-review-volkswagen-ev-specs-range-photos-video'> Source <a/>
