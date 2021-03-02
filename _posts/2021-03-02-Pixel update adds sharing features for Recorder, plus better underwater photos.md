@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bKQtDNBHmBoGc-XGpRBxsoXEM9I=/0x0:1938x1090/1200x800/filters:focal(814x390:1124x700)/cdn.vox-cdn.com/uploads/chorus_image/image/68892270/google_recorder.0.jpg' width='700px' /><br/>
+Google's latest feature drop for Pixel phones makes it easier to share audio recordings, adds better integration for an underwater housing accessory, and wraps up a couple of other updates into a neat little package for Pixel owners. The update is available starting today for some owners of Pixel 3 phones and newer, and it will continue to reach others over the next two weeks.
+<a href='https://www.theverge.com/2021/3/1/22303418/google-pixel-new-features-audio-recorder-kraken-housing'> Source <a/>

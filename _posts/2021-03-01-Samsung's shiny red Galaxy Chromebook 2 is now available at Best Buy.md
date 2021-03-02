@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0y4P-VtvSYJFdF1MRlXw_5dAEyw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68887391/bfarsace190331_4355_0008.0.jpg' width='700px' /><br/>
-Samsung's latest Chrome OS laptop, the Galaxy Chromebook 2, is now available for purchase at Best Buy. The Chromebook 2 was first announced at CES in January and features a new QLED display, 360-degree hinge, and a striking red paint job. It starts at $549.99 for a Celeron model and goes up to $699.99 for a Core i3 version, putting it at the higher end of Chromebooks.
-<a href='https://www.theverge.com/2021/2/28/22305763/samsung-galaxy-chromebook-2-now-available-best-buy-price-specs-features'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M57rIfkzJ69wA-1RsHAeI0CR3qc=/0x0:2040x1148/1200x675/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/68890148/DSCF7516.0.jpg' width='700px' /><br/>
-Maybe you like the PlayStation 5's distinctive white-and-black look. Maybe you don't. Maybe you'd settle for a Zune-brown and orange model as long as you could find it in stock. But wherever you come down on the PS5's color, one thing's for sure: there's a lot of demand for other options.
-<a href='https://www.theverge.com/2021/3/1/22306874/dbrand-ps5-darkplates-matte-black-hands-on-review'> Source <a/>

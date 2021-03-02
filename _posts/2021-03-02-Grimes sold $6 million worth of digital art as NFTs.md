@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/r5y5IxMFXMZog82yYWA8gt5_5xA=/0x0:4000x2661/1200x800/filters:focal(1697x792:2337x1432)/cdn.vox-cdn.com/uploads/chorus_image/image/68894398/1128719691.0.jpg' width='700px' /><br/>
+Grimes is the latest artist to get in on the NFT gold rush, selling around $6 million worth of digital artworks after putting them up for auction yesterday.
+<a href='https://www.theverge.com/2021/3/1/22308075/grimes-nft-6-million-sales-nifty-gateway-warnymph'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z-VZiMs8e-xRJHVfy1fPaopNmbk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68892095/vpavic_4243_20201018_0144.0.0.jpg' width='700px' /><br/>
+Apple's 2021 iPhones might finally have a smaller notch and, for some models, faster refresh rate displays, according to a new note from Apple analyst Ming-Chi Kuo. He also shared rumored information about other upcoming iPhones, including when we could see a foldable phone from Apple.
+<a href='https://www.theverge.com/2021/3/1/22307312/iphone-13-smaller-notch-high-refresh-rate-screen-hole-punch-foldable-se-5g'> Source <a/>

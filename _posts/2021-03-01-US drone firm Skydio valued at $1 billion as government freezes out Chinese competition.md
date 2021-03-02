@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7fpu7NSrYU3ugGH4pv0Zx5LIQvI=/0x0:2000x1000/1200x800/filters:focal(840x340:1160x660)/cdn.vox-cdn.com/uploads/chorus_image/image/68890181/Skydio_X2_commercial_drone.0.jpg' width='700px' /><br/>
-Skydio has become the first US dronemaker with a valuation of more than $1 billion, a signal of deeper investment in American-made drones after the US government blacklisted Chinese manufacturers. The California-based Skydio raised $170 million in a Series D funding round led by VC firm Andreessen Horowitz, as first reported by The Financial Times.
-<a href='https://www.theverge.com/2021/3/1/22306876/skydio-1-billion-valuation-enterprise-military-customers-chinese-drones-grounded'> Source <a/>

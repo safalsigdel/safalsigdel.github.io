@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S97llELFY8DpwJK1ipNkKh-ziT8=/0x0:1200x893/1200x800/filters:focal(504x351:696x543)/cdn.vox-cdn.com/uploads/chorus_image/image/68894584/roku_verge.0.jpeg' width='700px' /><br/>
+Roku, one of the most popular streaming platforms in US homes, is acquiring Nielsen's video advertisement business as it tries to become a central hub for TV advertising.
+<a href='https://www.theverge.com/2021/3/1/22308141/roku-nielsen-video-advertising-business-acquisition-linear-streaming-tv'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9Yb0umKdg6G0LpzdxHaroYj0DlU=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/68894297/491970246.0.jpg' width='700px' /><br/>
+Clue, best known for its period tracking app, announced that it received clearance from the Food and Drug Administration for a digital birth control function, which it says can help users prevent pregnancy based only on the start date of a user's period. It calculates the window where someone could get pregnant based on statistical modeling.
+<a href='https://www.theverge.com/2021/3/1/22307991/clue-digital-birth-control-natural-cycles-fda'> Source <a/>

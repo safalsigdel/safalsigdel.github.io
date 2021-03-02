@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OWPecCzOBrHm5anPXs4pbL-2eBE=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/68887357/1294904312.0.jpg' width='700px' /><br/>
-The teaser video for Q: Into the Storm, an upcoming documentary series from HBO about the QAnon conspiracy movement has a lot of deplatforming experts concerned; it looks more like a preview for a spy thriller than a careful examination of the umbrella group of conspiracy theories.
-<a href='https://www.theverge.com/2021/2/28/22304518/hbo-trailer-upcoming-qanon-movie-disinformation-researchers'> Source <a/>
