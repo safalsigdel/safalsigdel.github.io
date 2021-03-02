@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tKgXlmsvwsTOHL7rUgj2jIUeYUQ=/0x0:2022x1369/1200x800/filters:focal(850x524:1172x846)/cdn.vox-cdn.com/uploads/chorus_image/image/68896715/intelligentspeaker.0.jpg' width='700px' /><br/>
+Microsoft demonstrated prototype hardware a few years ago that promised meeting rooms of the future with automatic speaker identification, transcription, and even translation. Microsoft now claims it's delivering this for real with new Intelligent Speakers, small puck-like devices that can identify up to 10 different voices in a Microsoft Teams meeting.
+<a href='https://www.theverge.com/2021/3/2/22308962/microsoft-intelligent-speaker-teams-translation-transcription-features'> Source <a/>

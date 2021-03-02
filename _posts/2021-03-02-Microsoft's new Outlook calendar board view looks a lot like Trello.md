@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OlSSa0BIs3vPLWjz8TkzrToI2KE=/0x0:2446x1630/1200x800/filters:focal(1028x620:1418x1010)/cdn.vox-cdn.com/uploads/chorus_image/image/68897265/outlookcalendarboardview.0.jpg' width='700px' /><br/>
+Microsoft is making its first significant change to the Outlook calendar view in years. A new Outlook calendar board view is coming soon to Outlook for the web, and it works a lot like Trello. It's a new dynamic view that will let you organize meetings alongside tasks, notes, goals, links, files, and more.
+<a href='https://www.theverge.com/2021/3/2/22309112/microsoft-outlook-calendar-board-view-features'> Source <a/>

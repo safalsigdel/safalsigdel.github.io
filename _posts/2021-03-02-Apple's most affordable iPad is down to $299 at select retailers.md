@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hYyODjNRQSPjXMqzaf-UtqvsYdQ=/0x0:2040x1360/1200x1200/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/21904342/DSC01911.jpg' width='700px' /><br/>
+At $329, Apple's eighth-generation iPad is the most affordable tablet offered by the tech giant. But if you want to save some additional cash, you can buy the base model, which includes 32GB of storage, for only $299 at Amazon in space gray only (in stock March 28th). Walmart is price-matching the e-commerce giant, but you have the option to buy it for $299 in space gray or rose gold.
+<a href='https://www.theverge.com/2021/3/2/22308968/apple-ipad-2020-playstation-plus-one-year-crucial-p5-ssd-deal-sale'> Source <a/>

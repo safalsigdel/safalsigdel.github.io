@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9514/vpavic_210223_4377_0632.jpg' width='700px' /><br/>
+Cinematic first-person view or FPV drones have been a growing trend in the drone industry for a few years. Now the world's biggest consumer drone maker, DJI, is hopping on that wave with its first FPV drone.
+<a href='https://www.theverge.com/22308345/dji-fpv-review-first-person-drone-price'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FyhNFCX_AkAjXPz3QyK3d0bBW3k=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/68897161/Aliens__Fireteam_Screenshot10.0.png' width='700px' /><br/>
+The next Alien video game will be cooperative. Today, developer Cold Iron Studios revealed Aliens: Fireteam, a multiplayer third-person shooter about surviving an onslaught of Xenomorphs set a few decades after the original Alien films.
+<a href='https://www.theverge.com/2021/3/2/22308034/aliens-fireteam-co-op-shooter-pc-ps4-ps5-xbox-trailer'> Source <a/>
