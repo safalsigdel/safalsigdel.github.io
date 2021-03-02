@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-iS1mXrXpUsIaVY1fIvc15fyhdw=/0x0:1600x900/1200x800/filters:focal(752x349:1008x605)/cdn.vox-cdn.com/uploads/chorus_image/image/68898664/50433041022_749f19633d_h.0.jpg' width='700px' /><br/>
+Fortnite creator Epic Games is acquiring video game studio Mediatonic, the maker of smash hit Fall Guys, for an undisclosed sum, the companies announced on Tuesday. The deal marks one of Epic's higher-profile acquisitions of late, following its 2019 purchases of social video app Houseparty and Rocket League developer Psyonix.
+<a href='https://www.theverge.com/2021/3/2/22309569/epic-games-fall-guys-mediatonic-acquisition-buying-announce-deal'> Source <a/>
