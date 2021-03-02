@@ -1,7 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/V-l-zlfCC53Hirl0Xx7wNsCg3hQ=/0x0:1621x936/1200x800/filters:focal(682x339:940x597)/cdn.vox-cdn.com/uploads/chorus_image/image/68892303/MWU_Group_Photo.0.jpg' width='700px' /><br/>
 The Medium Workers Union is pausing organizing efforts after it failed to win a simple majority of support in an online vote last Friday.
-<a href='https://www.theverge.com/2021/3/1/22307415/medium-union-effort-stalls-one-vote-short-majority-cwa'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/V-l-zlfCC53Hirl0Xx7wNsCg3hQ=/0x0:1621x936/1200x800/filters:focal(682x339:940x597)/cdn.vox-cdn.com/uploads/chorus_image/image/68892303/MWU_Group_Photo.0.jpg' width='700px' /><br/>
-The Medium Workers Union is pausing organizing efforts after it failed to win a simple majority of support in an online vote last Friday.
-<a href='https://www.theverge.com/2021/3/1/22307415/medium-union-effort-stalls-one-vote-short-majority-cwa'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/V-l-zlfCC53Hirl0Xx7wNsCg3hQ=/0x0:1621x936/1200x800/filters:focal(682x339:940x597)/cdn.vox-cdn.com/uploads/chorus_image/image/68892303/MWU_Group_Photo.0.jpg' width='700px' /><br/>
-The Medium Workers Union is pausing organizing efforts after it failed to win a simple majority of support in an online vote last Friday.
 <a href='https://www.theverge.com/2021/3/1/22307415/medium-union-effort-stalls-one-vote-short-majority-cwa'> Source <a/>
