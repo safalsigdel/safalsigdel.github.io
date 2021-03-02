@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/dHUZYQgOe5mMDpQP8RVws7JtKeA=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68894078/ahawkins_201221_4352_6454.0.jpg' width='700px' /><br/>
 Volvo XC40 Recharge electric SUVs are currently being held at US ports because the company is waiting to ship a crucial software update before releasing them to customers and dealers, The Verge has learned.
+<a href='https://www.theverge.com/2021/3/1/22307866/volvo-xc40-recharge-delay-software-update-on-call-ota'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/dHUZYQgOe5mMDpQP8RVws7JtKeA=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68894078/ahawkins_201221_4352_6454.0.jpg' width='700px' /><br/>
+Volvo XC40 Recharge electric SUVs are currently being held at US ports because the company is waiting to ship a crucial software update before releasing them to customers and dealers, The Verge has learned.
 <a href='https://www.theverge.com/2021/3/1/22307866/volvo-xc40-recharge-delay-software-update-on-call-ota'> Source <a/>

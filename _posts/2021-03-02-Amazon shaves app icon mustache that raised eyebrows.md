@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Amazon has quietly rolled out a slight update to its new app icon that it debuted back in January, which alters the colorful strip of tape on the icon that bore an unfortunate resemblance to a toothbrush-style mustache.
-<a href='https://www.theverge.com/tldr/2021/3/1/22307870/amazon-new-app-icon-mustache-shave-change-design-update'> Source <a/>
