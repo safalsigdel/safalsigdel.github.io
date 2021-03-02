@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-wS_JYhSUpEgtNhR4okSly3xdPM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68893637/vpavic_4243_20201018_0139.0.0.jpg' width='700px' /><br/>
-Rumors about a folding iPhone are nothing new, but analyst Ming-Chi Kuo (who has a very strong track record) is weighing in with information of his own: he says that Apple could be looking at a 2023 launch, and that the phone could have a screen between 7.5 and eight inches (via MacRumors). Previous rumors have suggested that the screen would be smaller, closer to the size of an iPhone 12 Pro Max.
-<a href='https://www.theverge.com/2021/3/1/22307677/folding-iphone-rumors-screen-size-kuo'> Source <a/>
