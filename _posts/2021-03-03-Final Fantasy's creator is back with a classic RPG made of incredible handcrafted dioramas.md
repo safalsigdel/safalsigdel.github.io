@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c-B22_7St6JNVsjnLoIznKXAMlk=/0x0:3840x2160/1200x675/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68898201/1_4k.0.png' width='700px' /><br/>
-Fantasian has everything you'd expect from a new Hironobu Sakaguchi experience. The creator of the Final Fantasy series is once again making a roleplaying game that takes place in a lush fantasy world, features turn-based combat, and centers on a globe-spanning quest. There's even a new soundtrack from famed composer — and frequent Sakaguchi collaborator — Nobuo Uematsu.
-<a href='https://www.theverge.com/games/2021/3/2/22309074/fantasian-diorama-rpg-apple-arcade-hironobu-sakaguchi'> Source <a/>
