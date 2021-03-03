@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZmMgTz-R14QQh1Jw3eJB2tg6N6E=/0x0:1080x1080/1200x800/filters:focal(454x454:626x626)/cdn.vox-cdn.com/uploads/chorus_image/image/68897631/New_profile_experience_in_Chrome.0.png' width='700px' /><br/>
-Google is making it easier to swap between user profiles in a new Chrome update that's rolling out today.
-<a href='https://www.theverge.com/2021/3/2/22309154/google-chrome-reading-list-new-profile-bookmarks-colors-features'> Source <a/>

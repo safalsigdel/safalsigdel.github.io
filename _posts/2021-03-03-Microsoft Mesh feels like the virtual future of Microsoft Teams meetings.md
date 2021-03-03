@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Last week, Microsoft's Alex Kipman, the inventor of Kinect and HoloLens, appeared in my living room to hand me jellyfish and sharks. That might sound like I had a weird dream, but it was a meeting made possible through Microsoft's new Mesh platform. I donned a HoloLens 2 headset, joined a virtual meeting room, and Kipman immediately appeared next to my coffee table, ready to demonstrate Microsoft's vision for the future of VR and AR — or as Microsoft calls it, mixed reality.
-<a href='https://www.theverge.com/22308883/microsoft-mesh-virtual-reality-augmented-reality-hololens-vr-headsets-features'> Source <a/>
