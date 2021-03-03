@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GpvdSsp7K2QZHvT0Z-irLfCskdw=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/68896761/microsoftteams.0.jpg' width='700px' /><br/>
-Microsoft is finally adding end-to-end encryption support to Microsoft Teams later this year. A preview of end-to-end encryption in Teams will be available in the first half of this year for commercial customers. It will be available for 1:1 unscheduled Teams calls and is designed for more sensitive conversations.
-<a href='https://www.theverge.com/2021/3/2/22308915/microsoft-teams-end-to-end-encryption-support-e2ee'> Source <a/>
