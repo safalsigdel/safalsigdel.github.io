@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/0AUKq3FJqbdOGNKNLeOQw73R2e0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68903222/vpavic_4278_20201030_0281.0.jpg' width='700px' /><br/>
-Sony's latest gaming console, the PS5, is one of many gaming gadgets that are hard to find in stock right now due to mostly online-only sales. If you are trying to get your hands on one, Amazon has restocked both the PS5 Digital Edition and the PS5 consoles right now, while supplies last.
+Update March 3rd, 2021 11:04AM ET: Amazon has sold out of both PS5 console models.
 <a href='https://www.theverge.com/2021/3/3/22303809/sony-ps5-playstation-5-console-restock-amazon'> Source <a/>

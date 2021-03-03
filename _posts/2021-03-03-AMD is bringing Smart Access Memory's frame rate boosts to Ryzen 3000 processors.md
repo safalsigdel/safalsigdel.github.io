@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/emmar_idfobc4aZMRx-Nlk2LVs0=/0x0:5120x2879/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/68903569/AMD_Ryzen_5000_Series_Lidded_5.0.png' width='700px' /><br/>
+The bar has just been lowered (in a good way!) for Resizable BAR, the PCI-Express graphics feature that lets CPUs directly access a GPU's onboard memory to improve gaming frame rates. That's because AMD just announced it's bringing the tech to its last-gen Ryzen 3000 series processors, not just the new Ryzen 5000 chips that initially launched with the feature.
+<a href='https://www.theverge.com/2021/3/3/22310745/amd-ryzen-3000-smart-access-memory-resizable-bar'> Source <a/>
