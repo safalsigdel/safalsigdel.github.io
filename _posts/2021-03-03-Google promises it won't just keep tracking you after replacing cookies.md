@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oD-Gfhuyzgh_DBkqyJzBfQGaDkI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68902678/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google is slowly phasing out third-party tracking cookies, and today, it's making it clear that it won't just replace them with something equally invasive despite the impact the change will have on Google's lucrative advertising business. In a blog post, Google explicitly states that it “will not build alternate identifiers to track individuals as they browse across the web” after the third-party cookies are gone.
+<a href='https://www.theverge.com/2021/3/3/22310332/google-privacy-replacing-third-party-cookies-privacy-sandbox'> Source <a/>

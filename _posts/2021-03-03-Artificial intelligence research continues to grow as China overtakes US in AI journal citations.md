@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bPEVKM2hw06klT2PMS7sPZXkVGQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68902680/acastro_180329_1777__brains_science_0002.0.jpg' width='700px' /><br/>
+The artificial intelligence boom isn't slowing yet, with new figures showing a 34.5 percent increase in the publication of AI research from 2019 to 2020. That's a higher percentage growth than 2018 to 2019 when the volume of publications increased by 19.6 percent.
+<a href='https://www.theverge.com/2021/3/3/22310840/ai-research-global-growth-china-us-paper-citations-index-report-2020'> Source <a/>
