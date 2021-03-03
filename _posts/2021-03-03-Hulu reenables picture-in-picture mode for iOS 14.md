@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9N128IGVCnru2zFhJcNea0JU4Ks=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68899686/acastro_200320_1777_huluStock_0002.0.0.jpg' width='700px' /><br/>
+Hulu has fully reenabled picture-in-picture support (PiP) on iOS, MacRumors reports, which means half-watching network TV is once again possible for Hulu subscribers on iPhone and iPad devices. Hulu joins a collection of major streaming services that support the feature on iOS, leaving YouTube as the major exception.
+<a href='https://www.theverge.com/2021/3/2/22309754/hulu-picture-in-picture-mode-ios-14-returns'> Source <a/>

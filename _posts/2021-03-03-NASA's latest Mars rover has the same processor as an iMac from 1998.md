@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+NASA's brand-new Perseverance rover is the most advanced machine that's ever landed on Mars. But when it comes to rovers, “state of the art” is a subjective term. Perseverance is running on none other than a PowerPC 750, a single-core, 233MHz processor with just 6 million transistors that's most famous for powering the original “Bondi blue” iMac from 1998. It's the same type of processor that NASA already uses in its Curiosity rover.
+<a href='https://www.theverge.com/tldr/2021/3/2/22309412/nasa-perseverance-mars-rover-processor-cpu-imac-1998'> Source <a/>

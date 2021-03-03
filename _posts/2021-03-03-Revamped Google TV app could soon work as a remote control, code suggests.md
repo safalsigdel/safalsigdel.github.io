@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DXZpmN2wCtQQ1qtcAzWr3nRIc0o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68896304/Google_TV_Mobile_UI__2_.0.jpg' width='700px' /><br/>
-The Android Google TV app could soon be getting a built-in remote control for Android TVs, XDA Developers reports. The unreleased feature was discovered in the code for version 4.25 of the Android app. Enabling the feature reveals an apparently unfinished interface built around a large D-pad, and the option to pair the app with an Android TV device using a 4-digit PIN.
-<a href='https://www.theverge.com/2021/3/2/22308899/android-google-tv-app-remote-control-feature-code'> Source <a/>

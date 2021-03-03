@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cO4aSqKw-VySbnwMli2KILfvP8o=/0x0:1200x617/1200x800/filters:focal(504x213:696x405)/cdn.vox-cdn.com/uploads/chorus_image/image/68900039/Eg7I_l_XYAY3OBJ.0.jpg' width='700px' /><br/>
+Intel may owe quite a bit of cash to a semiconductor company that hasn't existed for 20 years. A Texas jury has asked Intel to pay $2.18 billion for infringing two patents owned by VLSI Technology, according to Bloomberg.
+<a href='https://www.theverge.com/2021/3/2/22309864/intel-vlsi-lawsuit-awarded-2-billion-damages-patent-infringement'> Source <a/>

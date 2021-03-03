@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/98-YGiWD_gfya21u7SVK2MHaZkM=/0x0:1470x839/1200x800/filters:focal(618x303:852x537)/cdn.vox-cdn.com/uploads/chorus_image/image/68896721/Presenter_Mode___Weatherperson.0.png' width='700px' /><br/>
-Microsoft Teams is trying to make video calls a little less boring during the pandemic era of remote working with new presenter modes. These allow you to customize how you appear when you're presenting in Teams. Three new modes will be available soon, including a “Reporter” option that lets you place content above your shoulder as a visual aid, much like a news anchor during a TV segment.
-<a href='https://www.theverge.com/2021/3/2/22308927/microsoft-teams-presenter-mode-powerpoint-live-features'> Source <a/>
