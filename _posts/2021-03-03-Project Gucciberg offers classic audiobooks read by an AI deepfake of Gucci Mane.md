@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sXZRadbNKiIudGwOAJkOm8U0QdQ=/0x0:1513x932/1200x800/filters:focal(636x345:878x587)/cdn.vox-cdn.com/uploads/chorus_image/image/68904010/Screen_Shot_2021_03_03_at_3.23.47_PM.0.png' width='700px' /><br/>
+Ever wanted to have Leo Tolstoy's Anna Karenina or Franz Kafka's Metamorphosis read to you by trap god Gucci Mane, creator of such hits as “Lemonade” and “Wasted”? Well, a) that's an awfully specific desire, and b) it's your lucky day.
+<a href='https://www.theverge.com/2021/3/3/22311184/project-gucciberg-ai-audio-deepfake-classic-audiobooks-mschf'> Source <a/>

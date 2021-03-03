@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/32YHtNPq8a8jWQ5-_hNcAS35BBs=/0x0:1277x694/1200x800/filters:focal(520x333:724x537)/cdn.vox-cdn.com/uploads/chorus_image/image/68898171/Web_2.0___Carousel_01.0.png' width='700px' /><br/>
-Crunchyroll has entirely redesigned the streaming experience on web browsers for Premium subscribers, and  the platform's new design is rolling out in beta today for some customers.
-<a href='https://www.theverge.com/2021/3/2/22308977/crunchyroll-redesign-premium-subscribers-features'> Source <a/>
