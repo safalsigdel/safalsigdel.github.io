@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gqAEirs-_Flk-rN-C907fwOkZsQ=/0x0:2040x1148/1200x675/filters:focal(977x457:1303x783)/cdn.vox-cdn.com/uploads/chorus_image/image/68909384/DSCF7531.0.jpg' width='700px' /><br/>
+Who is Samsung's biggest mobile competitor? The first name that comes to mind is Apple, of course. But most people aren't really in the habit of switching back and forth between iOS and Android with each phone purchase. So who is it?
+<a href='https://www.theverge.com/22310843/xiaomi-mi-11-review-samsung'> Source <a/>

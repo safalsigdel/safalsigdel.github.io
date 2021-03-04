@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R4j9_d0l3bsrI0cMn4R9B-Awt-k=/0x0:916x610/1200x675/filters:focal(385x232:531x378)/cdn.vox-cdn.com/uploads/chorus_image/image/68902445/lifx_clean_bottom_fixed_1600x1600.0.jpg' width='700px' /><br/>
-The Lifx Clean is a new smart lightbulb with an intriguing twist. Not only is it a fully functional color-changing lightbulb, the company also claims it is capable of disinfecting surfaces and the air around it. First announced last August, the $69.99 Lifx Clean is now shipping to preorder customers in the US, with wide availability planned this spring.
-<a href='https://www.theverge.com/2021/3/3/22308944/lifx-clean-germacidal-smart-light-bulb-bacteria-killing-sanitation-high-energy-visible-405nm'> Source <a/>
