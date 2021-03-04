@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zAfCavtpkIiRdhe1jzaSY9pDVLE=/0x0:2040x1351/1200x675/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/68909484/verge_DSC_3808_2040pxl.0.jpg' width='700px' /><br/>
+Ikea's new $9.99 / xe2x82xac7.99 / xc2xa36 Trxc3xa5dfri Shortcut Buttons and existing $14.99 / xe2x82xac12.95 / xc2xa312 Trxc3xa5dfri Motion Sensors recently gained HomeKit support to the delight of many Apple device owners. Importantly, the addition is cumulative for the most part, allowing the Ikea devices to function with the best features of Ikea Home Smart while layering on the best of Apple.
+<a href='https://www.theverge.com/22310841/ikea-shortcut-button-motion-sensor-homekit-smart-home-review-test'> Source <a/>
