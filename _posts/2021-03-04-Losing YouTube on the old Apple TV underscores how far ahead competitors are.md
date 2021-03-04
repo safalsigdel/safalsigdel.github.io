@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OL9cCvxSiv-NU5OLNBiZ1b4-S7M=/0x0:1037x691/1200x800/filters:focal(437x264:601x428)/cdn.vox-cdn.com/uploads/chorus_image/image/68905908/appletv.0.jpg' width='700px' /><br/>
-The YouTube app on older Apple TV models has officially been discontinued as of today. If you have a third-generation device (the 2012-era model that predated the modern tvOS-based set-top boxes), you'll only be able to stream YouTube through an iOS device using AirPlay starting today, as noted by 9to5Mac.
-<a href='https://www.theverge.com/2021/3/3/22311881/apple-tv-2012-youtube-discontinued-app-replacement-google-roku-amazon'> Source <a/>
