@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TmiD93xj7BjzMicnj4n4ZJ6m94M=/0x0:1088x612/1200x800/filters:focal(457x219:631x393)/cdn.vox-cdn.com/uploads/chorus_image/image/68904503/VR_DAY_ANNOUNCE_1.0.jpg' width='700px' /><br/>
-Sony has announced a new slate of PlayStation VR games for later this year. It includes a virtual reality adaptation of Doom 3, as well as titles from a few successful VR studios and a couple of relative newcomers to VR.
-<a href='https://www.theverge.com/2021/3/3/22311254/sony-psvr-showcase-vr-games-doom-3-i-expect-you-to-die-ps4-ps5'> Source <a/>
