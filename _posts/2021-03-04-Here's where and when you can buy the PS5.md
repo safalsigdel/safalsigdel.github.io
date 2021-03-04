@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K-yujrt8GZ6ZtW6KrV2Pv6PphgI=/0x0:1024x683/1200x1200/filters:focal(512x342:513x343)/cdn.vox-cdn.com/uploads/chorus_asset/file/22017052/ps5_all_digital.jpg' width='700px' /><br/>
-Update March 3rd, 2021 10:27AM ET: Amazon currently has PS5 and PS5 Digital Edition in stock. You can find more information on the retailer's restock here.
-<a href='https://www.theverge.com/2020/9/17/21440300/ps5-playstation-5-preorder-price-release-date-buy'> Source <a/>
