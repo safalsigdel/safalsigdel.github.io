@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/-FYvq-mYs9dooG9zc7L-z__i6AM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68904608/acastro_180226_0001.0.jpg' width='700px' /><br/>
 Microsoft's newest Garage app, the company's brand for more experimental apps, is Group Transcribe, which lets groups of people capture real-time collective meeting transcriptions using their phones. It's available for free right now on iOS.
-<a href='https://www.theverge.com/2021/3/3/22311505/microsoft-group-transcribe-garage-app-ios'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/-FYvq-mYs9dooG9zc7L-z__i6AM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68904608/acastro_180226_0001.0.jpg' width='700px' /><br/>
-Microsoft's newest Garage app, the company's brand for more experimental apps, is Group Transcribe, which lets groups of people capture real-time collective meeting transcriptions using their phones. It's available for free right now on iOS.
 <a href='https://www.theverge.com/2021/3/3/22311505/microsoft-group-transcribe-garage-app-ios'> Source <a/>
