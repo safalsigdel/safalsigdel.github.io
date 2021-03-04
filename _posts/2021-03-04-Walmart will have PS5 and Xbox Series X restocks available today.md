@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_fL_bn_0i_tl7uvB9jTaHJODhHQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68911733/vpavic_4261_20201023_0068.0.jpg' width='700px' /><br/>
+Both the Sony PS5 and Microsoft Xbox Series X / S gaming consoles will be back in stock at Walmart later today. A Walmart spokesperson told The Verge that the retailer will have the consoles available for purchase again at 11:30AM PT /  2:30PM ET for the Xbox Series X / S and  12PM PT / 3PM ET for the PS5. As usual, stock will likely not last very long.
+<a href='https://www.theverge.com/2021/3/4/22295709/ps5-playstation-5-xbox-series-x-s-restock-walmart'> Source <a/>
