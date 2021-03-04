@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S4p8iQnLt-uqLunGtshmEXp8hi4=/0x0:1618x1078/1200x800/filters:focal(680x410:938x668)/cdn.vox-cdn.com/uploads/chorus_image/image/68909766/alexaxbox.0.jpg' width='700px' /><br/>
+Amazon is launching a new Alexa app for Xbox consoles this week. While you've been able to control Alexa from an Xbox for a couple of years now, this dedicated app will provide access to more of the visual parts of Amazon's digital assistant. That includes being able to see your doorbell camera, reading emails and checking your calendar, and even seeing weather forecasts.
+<a href='https://www.theverge.com/2021/3/4/22313052/amazon-alexa-app-xbox-new-visual-features'> Source <a/>
