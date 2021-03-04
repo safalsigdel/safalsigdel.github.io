@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CCmpdzLl7zbDfJIicVTpq_BIAe8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68910015/akrales_170802_1743_0229.0.jpg' width='700px' /><br/>
+Square, Inc., the financial services company founded by Twitter CEO Jack Dorsey, is acquiring a majority stake in Tidal, the high-fidelity audio and video streaming service led by Jay-Z. Square is paying $297 million in cash and stock for a “significant majority ownership stake” and says Tidal will operate independently alongside Square's other ventures.
+<a href='https://www.theverge.com/2021/3/4/22313108/square-inc-tidal-majority-stake-jack-dorsey-jay-z'> Source <a/>
