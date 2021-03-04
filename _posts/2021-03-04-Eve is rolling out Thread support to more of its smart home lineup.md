@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fEWJIItOCzpAVMV63tMl-oxCjZI=/0x0:5476x3319/1200x800/filters:focal(3014x629:3890x1505)/cdn.vox-cdn.com/uploads/chorus_image/image/68910250/Eve_Weather_Lifestyle_05_Fahrenheit.0.jpg' width='700px' /><br/>
+Eve Systems, a maker of smart home products that work with Apple's HomeKit platform, is announcing an expanded range of devices that support the Thread smart protocol. The news consists of updated versions of its existing smart plug, a forthcoming firmware update for the company's smart sprinkler, and a new outdoor weather station.
+<a href='https://www.theverge.com/2021/3/4/22310378/eve-smart-home-thread-plug-home-kit-weather-station-price-specs-features'> Source <a/>
