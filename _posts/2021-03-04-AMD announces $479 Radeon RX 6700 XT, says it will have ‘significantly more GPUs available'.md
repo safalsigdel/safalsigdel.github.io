@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/broYqy0CCbFQt596d8W-cocQ2cI=/0x0:1600x933/1200x800/filters:focal(672x339:928x595)/cdn.vox-cdn.com/uploads/chorus_image/image/68903633/amd_6700_xt_render.0.jpg' width='700px' /><br/>
-AMD has heard you loud and clear: you can't buy its excellent RX 6800 and 6800 XT graphics cards at anything close to their retail prices. Today, the company's announcing a new GPU that might (but probably won't?) change that: the Radeon RX 6700 XT.
-<a href='https://www.theverge.com/2021/3/3/22310653/amd-radeon-rx-6700-xt-price-release-date-availability-gpu-graphics'> Source <a/>
