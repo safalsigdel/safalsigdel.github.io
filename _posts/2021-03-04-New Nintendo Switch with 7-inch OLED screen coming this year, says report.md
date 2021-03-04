@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m-FCh_wSTg2hkhqf-CufT5ocHMM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68908502/jbareham_180301_2346_nintendo_switch_0094.0.jpg' width='700px' /><br/>
+Nintendo is planning to release an upgraded model of the Switch this year with an OLED screen, according to a new report in Bloomberg. The report says Samsung Display is providing the screen, which will be a 7-inch 720p rigid OLED panel set to go into mass production this June.
+<a href='https://www.theverge.com/2021/3/3/22312559/new-nintendo-switch-oled-screen-holiday-release-report'> Source <a/>

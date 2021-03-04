@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b0ynoOE3NEoFXIid1Uqnt1LsxPY=/0x0:3360x2100/1200x800/filters:focal(1412x782:1948x1318)/cdn.vox-cdn.com/uploads/chorus_image/image/68909385/whatsapp.0.png' width='700px' /><br/>
+WhatsApp's desktop app for Mac and PC is getting voice and video calling today, the company announced, offering end-to-end encrypted calls to other WhatsApp users on both computers and mobile devices.
+<a href='https://www.theverge.com/2021/3/4/22312152/whatsapp-desktop-app-mac-pc-video-voice-calls-available-now'> Source <a/>

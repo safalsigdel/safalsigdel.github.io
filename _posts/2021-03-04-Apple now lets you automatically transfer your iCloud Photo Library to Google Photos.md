@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4qTXirf1IFSslbj6goXFtkMZg3Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68905812/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
+Apple has added a service that lets you automatically transfer photos, videos, and albums from your iCloud Photo Library to Google Photos (via MacRumors). The feature has a support document outlining the procedure, which simply entails going to privacy.apple.com, logging in, and going through the “transfer a copy of your data” process. Apple says the transfer will take between three days to a week.
+<a href='https://www.theverge.com/2021/3/3/22311990/apple-icloud-photo-google-transfer-how-to'> Source <a/>

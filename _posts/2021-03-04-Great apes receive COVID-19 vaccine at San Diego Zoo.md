@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2MgUQZzp2P8uEi-yLLsHqIJm_as=/0x0:5760x3840/1200x800/filters:focal(2412x1174:3332x2094)/cdn.vox-cdn.com/uploads/chorus_image/image/68905790/1218313654.0.jpg' width='700px' /><br/>
+Several great apes at the San Diego Zoo received two doses each of a COVID-19 vaccine in February, National Geographic reports. The lucky recipients are four orangutans and five bonobos, who were distracted with treats as they got their shots. One of the orangutans is Karen, the first ape to undergo open-heart surgery in 1994.
+<a href='https://www.theverge.com/2021/3/3/22311984/great-apes-covid-19-vaccine-san-diego-zoo'> Source <a/>
