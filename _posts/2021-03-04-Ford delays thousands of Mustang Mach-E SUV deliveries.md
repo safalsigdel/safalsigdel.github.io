@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7mBsAzit1t9i2WD2Z6wBCeRGRJo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68905029/sokane_210125_4386_1985.0.jpg' width='700px' /><br/>
+Ford has finally shed some light on the scale of the delays it's experiencing in rolling out its first mass-market electric car, the Mustang Mach-E SUV. After the company announced on Wednesday that it shipped 3,739 Mustang Mach-Es in February — the first full month of deliveries — it told The Verge in a statement that some 4,500 customers will have to wait longer than expected to receive the electric SUV.
+<a href='https://www.theverge.com/2021/3/3/22311594/ford-mustang-mach-e-delays-quality-free-charging-cash-back'> Source <a/>

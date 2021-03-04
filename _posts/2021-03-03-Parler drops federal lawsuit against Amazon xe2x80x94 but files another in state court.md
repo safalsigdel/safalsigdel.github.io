@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ol27UlFk7ilWFvGloopLoMAlMdg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68902361/acastro_180329_1777_amazon_0001.0.jpg' width='700px' /><br/>
-Parler has withdrawn its antitrust lawsuit against Amazon, ending its two-month effort to legally compel the company to reinstate its hosting account. Parler made the decision in a motion filed late Tuesday night in federal court for the Western District of Washington. The company gave no explanation for the move, but reserved the right to refile on similar grounds in the future.
-<a href='https://www.theverge.com/2021/3/3/22310873/parler-amazon-aws-lawsuit-antitrust-hosting-free-speech'> Source <a/>

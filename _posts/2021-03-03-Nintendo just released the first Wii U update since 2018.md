@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i47k15J8NIc9dI8fyl6EN6CEcFw=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/68898404/630441964.0.jpg' width='700px' /><br/>
-Nintendo has released a software update for its languishing Wii U console, its first in nearly two and a half years. The console has made the big jump from version 5.5.3 to... 5.5.5.
-<a href='https://www.theverge.com/2021/3/2/22309312/nintendo-wii-u-console-software-update'> Source <a/>

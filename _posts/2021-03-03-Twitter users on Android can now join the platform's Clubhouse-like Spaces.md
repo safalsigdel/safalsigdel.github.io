@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E4b4Mw9JwBYprCT77taTFMKA8QE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68899180/acastro_200715_1777_twitter_0004.0.0.jpg' width='700px' /><br/>
-Twitter has opened its audio chat room, Spaces, to Android users, the company tweeted Tuesday.
-<a href='https://www.theverge.com/2021/3/2/22309629/twitter-launches-spaces-android-ios-audio-clubhouse'> Source <a/>

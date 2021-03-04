@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p1vN4FAL88HK7DfLok_dh_KrCt8=/0x0:1534x1256/1200x800/filters:focal(645x506:889x750)/cdn.vox-cdn.com/uploads/chorus_image/image/68908526/Screen_Shot_2021_03_03_at_5.20.15_PM.0.png' width='700px' /><br/>
+A planned Motorola-branded Wear OS smartwatch with Qualcomm's new Snapdragon Wear 4100 processor may have leaked (via 9to5Google). If the photos are real and not just renders, it could be a sign that the next Moto 360 (or whatever it's called) could perform significantly better than the last, and may reap some of the efficiency gains brought by the jump from a 28nm process to a 12nm one.
+<a href='https://www.theverge.com/2021/3/3/22312448/motorola-wear-os-snapdragon-4100-marketing-leak'> Source <a/>

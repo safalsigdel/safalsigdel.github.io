@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1dRx67Q5_JNOO_1uaRE8Qqk6YkE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68901072/acastro_180509_1777_steam_0002.0.jpg' width='700px' /><br/>
-Valve is significantly expanding your ability to share games at home and with your friends for free using Steam.
-<a href='https://www.theverge.com/2021/3/2/22310321/valve-steam-linux-steam-link-remote-play-together-account'> Source <a/>

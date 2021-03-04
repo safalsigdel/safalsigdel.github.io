@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z_5lwYhUNtEFxPrSqjV5j3pkv9o=/0x0:2050x1367/1200x800/filters:focal(876x600:1204x928)/cdn.vox-cdn.com/uploads/chorus_image/image/68905041/bfarsace_201106_4269_001.0.0.jpg' width='700px' /><br/>
+The Arizona House of Representatives just passed landmark app store legislation in a 31-29 vote on Wednesday that could have far-reaching consequences for Apple and Google and their respective mobile operating systems.
+<a href='https://www.theverge.com/2021/3/3/22309284/arizona-app-store-bill-2005-apple-30-percent-cut-bypass-legislation'> Source <a/>
