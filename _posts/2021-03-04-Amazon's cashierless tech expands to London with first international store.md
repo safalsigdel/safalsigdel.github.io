@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dsREuNnv71zcB_aHkasP1uQOjJ4=/0x0:6648x4765/1200x800/filters:focal(2793x1852:3855x2914)/cdn.vox-cdn.com/uploads/chorus_image/image/68909462/Amazon_Fresh_JWO_Signage.0.jpeg' width='700px' /><br/>
-Amazon has opened its first cashierless store outside of the US with a new Amazon Fresh location in London, UK. The store uses the company's Just Walk Out technology, which allows customers to pick items off shelves and take them out of the store without having to stop and pay a cashier. Billing is handled automatically, but requires customers to scan their Amazon app to enter.
-<a href='https://www.theverge.com/2021/3/4/22312970/amazon-fresh-cashier-less-store-uk-go-grocery-london'> Source <a/>
