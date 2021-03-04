@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BLzpBx3lds2P4Y3oEuX9PgEbfgk=/0x0:1536x864/1200x800/filters:focal(415x327:659x571)/cdn.vox-cdn.com/uploads/chorus_image/image/68903352/TW_Available_Today_Coming_Soon_templates_3.3.2021_6_JPG.0.jpg' width='700px' /><br/>
-Microsoft is adding four sports games to Xbox Game Pass in March and April. Madden NFL 21 arrives today as part of EA Play for Xbox Game Pass Ultimate subscribers, and Football Manager 2021 will arrive tomorrow for both Xbox consoles and PC. NBA 2K1 will also launch on Xbox Game Pass tomorrow and will be available on xCloud game streaming, too.
-<a href='https://www.theverge.com/2021/3/3/22311265/xbox-game-pass-nba-2k21-madden-nfl-21-nhl-21-ea-pass'> Source <a/>
