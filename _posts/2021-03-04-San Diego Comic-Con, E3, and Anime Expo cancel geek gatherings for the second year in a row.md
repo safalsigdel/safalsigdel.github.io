@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FIU6j29G7_tUt1lE2bXxAZpagBU=/0x0:1020x676/1200x800/filters:focal(429x257:591x419)/cdn.vox-cdn.com/uploads/chorus_image/image/68893584/sdcc_stock31_1020.0.0.0.jpg' width='700px' /><br/>
-San Diego Comic-Con has announced this year's show will not go on, at least not in person, and the 2021 Anime Expo has now officially canceled its physical event as well.
-<a href='https://www.theverge.com/2021/3/1/22307929/sdcc-e3-anime-expo-cancel-in-person-virtual-events'> Source <a/>
