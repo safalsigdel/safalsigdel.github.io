@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2Z6TgbT_R0qan5rtiZ-088eEe9s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68911012/acastro_200406_1777_gm_0001.0.0.jpg' width='700px' /><br/>
+General Motors is considering building a second battery factory in the United States, The Wall Street Journal reports, in order to ramp up its production of electric vehicles in the interest of becoming a completely carbon neutral company by the year 2040.
+<a href='https://www.theverge.com/2021/3/4/22313251/gm-ev-second-battery-factory-lg-chem-tennessee'> Source <a/>
