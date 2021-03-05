@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_fL_bn_0i_tl7uvB9jTaHJODhHQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68911733/vpavic_4261_20201023_0068.0.jpg' width='700px' /><br/>
-Update March 4th, 2021 3:18PM ET: Walmart is releasing small waves of PS5 and PS5 Digital Edition consoles every ten minutes. The Xbox Series X is currently out of stock, but the Xbox Series S is still available.
-<a href='https://www.theverge.com/2021/3/4/22295709/ps5-playstation-5-xbox-series-x-s-restock-walmart'> Source <a/>

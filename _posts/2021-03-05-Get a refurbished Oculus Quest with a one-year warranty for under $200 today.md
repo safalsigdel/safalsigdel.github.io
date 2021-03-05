@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Oculus released its first-generation Quest VR headset in 2019, and it quickly became a sought-after head-mounted display, if you were looking to play virtual reality games without being tethered to a gaming PC. But the original model has been hard to find since it was discontinued last year with the release of the Oculus Quest 2.
+<a href='https://www.theverge.com/good-deals/2021/3/5/22315118/oculus-quest-refurbished-samsung-galaxy-s21-google-pixel-3-xl-deal-sale'> Source <a/>

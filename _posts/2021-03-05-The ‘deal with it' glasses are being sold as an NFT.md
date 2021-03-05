@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LPRyrrkbKGiAOx-8usc8jOvMPaA=/0x0:1636x1636/1200x800/filters:focal(718x840:978x1100)/cdn.vox-cdn.com/uploads/chorus_image/image/68912259/nft.0.png' width='700px' /><br/>
-Another iconic meme is going up for auction as an NFT: the text and sunglasses used to popularize “deal with it” GIFs. The auction is being held on the NFT platform Foundation, and bidding is currently at around $8,000, with more than five hours remaining at the time this article was published.
-<a href='https://www.theverge.com/2021/3/4/22313211/deal-with-it-meme-nft-auction-ryder-ripps'> Source <a/>
