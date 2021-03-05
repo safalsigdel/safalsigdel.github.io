@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GO0SX_WV6fDH6kAi2-sxP0AP_w0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68911456/EvpJ_GTXAAEBoM4.0.jpeg' width='700px' /><br/>
-Super Smash Bros. Ultimate's newest DLC characters, Pyra and Mythra from Xenoblade Chronicles 2, will be available in the game on Thursday, Nintendo announced. They're included as part of the second Super Smash Bros. Ultimate Fighters Pass, or you can buy them separately for $5.99.
-<a href='https://www.theverge.com/2021/3/4/22313445/super-smash-bros-ultimates-pyra-mythra-dlc-xenoblade-chronicles-2-fighters-pass'> Source <a/>
