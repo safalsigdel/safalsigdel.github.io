@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-0nnUKdmlabFaWrDsDEIpLDweDA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68911595/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
-Microsoft is rolling out some new improvements to its Edge browser this month. While the software maker announced vertical tabs nearly a year ago, the feature is finally making its way to all Edge users this month. You'll be able to stack tabs at the side of the browser instead of the traditional long list of tabs at the top.
-<a href='https://www.theverge.com/2021/3/4/22313433/microsoft-edge-vertical-tabs-startup-boost-features'> Source <a/>
