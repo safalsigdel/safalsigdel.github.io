@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WN2BplOjzTrdTUuyjfyKQ6f261Q=/0x0:4200x2800/1200x800/filters:focal(2576x1626:3248x2298)/cdn.vox-cdn.com/uploads/chorus_image/image/68916017/1219575018.0.jpg' width='700px' /><br/>
+Getaround, the peer-to-peer car-sharing service, is launching a new program to help support people who want to rent out more than just a couple of cars. The program is called Power Host, and it's designed to help customers manage small fleets of shared vehicles.
+<a href='https://www.theverge.com/2021/3/5/22314188/getaround-car-sharing-power-host-enterprise-business'> Source <a/>
