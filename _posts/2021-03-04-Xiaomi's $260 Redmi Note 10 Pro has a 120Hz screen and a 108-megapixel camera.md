@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eNK73_HSfmq3DMIwCRbOYGteSVI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68909897/DSCF7567.0.jpg' width='700px' /><br/>
-Xiaomi has announced its Redmi Note 10 line, the latest in its phone series that's titanically popular in India and beyond. As is tradition for the Redmi Note phones, the 10 series brings some high-end features to much lower price points.
-<a href='https://www.theverge.com/2021/3/4/22312952/xiaomi-redmi-note-10-pro-announced-specs-price-india'> Source <a/>

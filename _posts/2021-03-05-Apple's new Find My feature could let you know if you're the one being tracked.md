@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-VQu_Vi9aD9PYm8Du10kk3VY3ew=/1006x321:2825x1551/1200x800/filters:focal(1584x549:2180x1145)/cdn.vox-cdn.com/uploads/chorus_image/image/68914441/Screen_Shot_2021_03_04_at_12.42.53_PM.0.png' width='700px' /><br/>
+Apple's Find My app might get a new safety feature to help prevent someone from using the kinds of devices tracked in the app to stalk you instead. “Item Safety Alerts”, spotted in the iOS 14.5 beta, will notify you if an unknown device being tracked on Find My is “moving with you” so you can remove it or disable it, 9to5Mac reports.
+<a href='https://www.theverge.com/2021/3/4/22313659/apple-find-my-app-item-safety-alerts-prevent-stalking'> Source <a/>

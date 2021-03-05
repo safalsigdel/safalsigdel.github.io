@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DrEJf-aorzV_2Mc4hQ1cgLZD5O8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68909696/wjoel_200601_1777_windows10_0001.0.jpg' width='700px' /><br/>
-Microsoft is starting to modernize some of the basic parts of Windows 10 by improving the system icons that are available in the operating system. A new preview build of Windows 10 is rolling out to testers this week, and it includes system icons that now adhere to Microsoft's Fluent Design style.
-<a href='https://www.theverge.com/2021/3/4/22313037/microsoft-windows-10-new-system-icons-ui-overhaul-sun-valley'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yjAZbOFnGA1HXcTcaiSl-usLoRA=/0x0:2040x1359/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68913741/P21_0013_a3_rgb.0.jpg' width='700px' /><br/>
+Porsche has finally unveiled the wagon-y sibling of the Taycan EV. Originally teased in concept form in 2018 and due out this summer, the Taycan Cross Turismo is a more utility-minded version of Porsche's first EV with a hatch rear, more interior space, greater ground clearance, and off-road-oriented options.
+<a href='https://www.theverge.com/2021/3/4/22313523/porsche-taycan-cross-turismo-wagon-suv-price-specs-photos'> Source <a/>

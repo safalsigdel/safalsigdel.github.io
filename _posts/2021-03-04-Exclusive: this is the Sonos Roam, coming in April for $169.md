@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c0WPO8l1Yxyg4AYuwujh2KsYRX4=/0x0:903x601/1200x800/filters:focal(381x244:525x388)/cdn.vox-cdn.com/uploads/chorus_image/image/68911426/SonosRoamWM2.0.jpg' width='700px' /><br/>
-You're looking at the first images of the next speaker from Sonos. Set to be priced at $169, the new device — it's called the Sonos Roam — is much smaller than the Sonos Move, which was the company's first foray into portable speakers. This product has a much closer resemblance to popular, take-anywhere Bluetooth speakers like the UE Boom.
-<a href='https://www.theverge.com/2021/3/4/22313451/sonos-roam-leak-features-specs-price-release-date'> Source <a/>

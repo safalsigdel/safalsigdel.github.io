@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uuRTQm8dTy1KnMbkpmX_ZK0ylRg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68910721/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
-Today let's talk about a comprehensive new report on election integrity, and the particularly low marks it gave to one platform in particular.
-<a href='https://www.theverge.com/2021/3/4/22313213/youtube-2020-election-misinformation-report-long-fuse'> Source <a/>

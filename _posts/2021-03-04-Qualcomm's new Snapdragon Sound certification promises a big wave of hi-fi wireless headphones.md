@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eBG5-FH0BWZbRfoe5mxdf-oI-TI=/0x0:1365x909/1200x800/filters:focal(574x346:792x564)/cdn.vox-cdn.com/uploads/chorus_image/image/68911043/snapdragonsound.0.jpg' width='700px' /><br/>
-Qualcomm today announced Snapdragon Sound, which is what the company describes as “a chain of audio innovations and software” that work together to significantly improve audio quality when listening to music through wireless headphones, earbuds, and other devices. The goal is to deliver “high-resolution, wired quality audio, wirelessly,” according to James Chapman, Qualcomm's VP of voice, music, and wearables.
-<a href='https://www.theverge.com/2021/3/4/22313214/qualcomm-snapdragon-sound-announced-high-res-audio'> Source <a/>

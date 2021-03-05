@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ig646yGn6nET7FNyfe9jd7L_IZI=/0x0:4920x2432/1200x0/filters:focal(0x0:4920x2432):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22343026/Screen_Shot_2021_03_03_at_11.08.14_AM.png' width='700px' /><br/>
-Peak Design, a maker of fine bags and accessories, has a problem: Amazon appears to have copied its popular bag, the $99.95 Everyday Sling, with its own $32.99 Amazon Basics Camera Bag. It was even called Everyday Sling until Peak Design's video. Rather than do anything drastic, yet, Peak Design decided to make a video about what customers “gain” by purchasing Amazon's version.
-<a href='https://www.theverge.com/2021/3/3/22311574/peak-design-video-amazon-copy-everyday-sling-bag'> Source <a/>

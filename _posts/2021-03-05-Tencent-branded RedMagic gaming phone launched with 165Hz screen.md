@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pth_7ULwY-KMQE3JGf-ZuAO29aw=/0x0:5000x2813/1200x800/filters:focal(2100x1007:2900x1807)/cdn.vox-cdn.com/uploads/chorus_image/image/68915578/3.0.jpg' width='700px' /><br/>
+RedMagic, the gaming brand of ZTE subdivision Nubia, has launched a new smartphone in collaboration with Chinese tech and gaming giant Tencent. The RedMagic 6 and 6 Pro are high-end devices available to order now in China, with a global launch coming later this month.
+<a href='https://www.theverge.com/2021/3/5/22314911/redmagic-6-tencent-edition-specs-price-launch-date-announced'> Source <a/>

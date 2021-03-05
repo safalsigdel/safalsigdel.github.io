@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Jg2UDTG-H-C8MMbqlvN7DC0neZI=/0x0:2042x1362/1200x800/filters:focal(858x518:1184x844)/cdn.vox-cdn.com/uploads/chorus_image/image/68913767/realme_gt.0.jpg' width='700px' /><br/>
+Realme has announced the GT 5G, built with Qualcomm's top-tier Snapdragon 888 chipset. It comes with plenty of other flagship-esque specs, too, like a 120Hz screen, up to 12GB of RAM, and a 4,500mAh battery with 65W fast charger included. What it doesn't have is a flagship-like price; it's on sale in China for 2,799 yuan currently, or about $430.
+<a href='https://www.theverge.com/2021/3/4/22314043/realme-gt-5g-snapdragon-888-china-price-specs'> Source <a/>

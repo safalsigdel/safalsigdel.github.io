@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CGLd0fHFHWsAQI7kjnob7Tp5mYc=/0x0:980x653/1200x800/filters:focal(306x380:462x536)/cdn.vox-cdn.com/uploads/chorus_image/image/68914877/0633B061_F5EE_4959_96DD_F2703EE12435.0.png' width='700px' /><br/>
+Razer is tonight formally announcing its Anzu “smart” glasses, which follow Bose, Amazon, and other companies by integrating audio speakers directly into the glasses temples. The $199.99 Anzu glasses will be available in both rectangular and round frames, and each will come in two sizes: small and large. You can place an order beginning today.
+<a href='https://www.theverge.com/2021/3/4/22314474/razer-anzu-smart-glasses-announced-pricing-features-release-date'> Source <a/>

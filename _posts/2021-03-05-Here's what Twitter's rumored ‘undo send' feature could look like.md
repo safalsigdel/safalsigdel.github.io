@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oxvMd_j1uJl9Cj9tlObkUwmSras=/0x0:750x500/1200x800/filters:focal(315x190:435x310)/cdn.vox-cdn.com/uploads/chorus_image/image/68915758/IuynE_2d.0.jpg' width='700px' /><br/>
+A potential animation for Twitter's long-rumored “undo send” feature has been discovered by app researcher Jane Manchun Wong, giving us our best look yet at how it might work.
+<a href='https://www.theverge.com/2021/3/5/22314973/twitter-undo-send-interface-leak-paid-feature-rumor-app-researcher'> Source <a/>

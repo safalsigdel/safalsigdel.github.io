@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q3pbXNLFkA21dhuH9iRv73aNJsA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68909649/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-In the weeks before and after the 2020 US election, Facebook content from far-right sources of news and misinformation received more engagement than other sources elsewhere on the political spectrum, a new study from New York University has revealed.
-<a href='https://www.theverge.com/2021/3/4/22313013/far-right-news-misinformation-facebook-us-2020-election-nyu-study-engagement'> Source <a/>

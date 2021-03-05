@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U8FEuY9JSHXmYNgBS7mPHs_-HNM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68910764/jbareham_181114_3083_0085.0.jpg' width='700px' /><br/>
-Microsoft's first-generation Surface Headphones released in 2018, and despite being three years old, these headphones are still a good option if you're looking for a pair of noise-canceling headphones. Usually $250, Woot currently has a deal on this model, bringing the price down to $111.
-<a href='https://www.theverge.com/good-deals/2021/3/4/22313178/microsoft-surface-headphones-macbook-pro-m1-fire-tv-cube-deal'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JRGB1Uvie8Pofi6AYCw05yzShmQ=/0x0:2560x1921/1200x800/filters:focal(1076x757:1484x1165)/cdn.vox-cdn.com/uploads/chorus_image/image/68912977/Porsche_eBike_SPORT_CROSS_mood_outdoor_scaled.0.jpg' width='700px' /><br/>
+Porsche is the latest automaker to try its hand at making and selling electric bikes, and the result looks very interesting and very expensive. The Volkswagen-owned company announced that it would start selling a pair of full-suspension e-bikes this spring. The bikes were announced alongside the Porsche Taycan Cross Turismo, which was just unveiled today.
+<a href='https://www.theverge.com/2021/3/4/22313508/porsche-electric-bike-ebike-sport-cross-specs-price'> Source <a/>

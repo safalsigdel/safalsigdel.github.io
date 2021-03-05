@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8AczQmgqng1ju44k6eLsnHfoR4k=/0x0:1656x1000/1200x800/filters:focal(647x376:967x696)/cdn.vox-cdn.com/uploads/chorus_image/image/68909700/Skydio_X2_commercial_drone.0.jpg' width='700px' /><br/>
-More than 20 police agencies around the US own drones from US manufacturer Skydio, according to Forbes, which calculated the figure based on a combination of freedom of information requests and public announcements. The report follows news that Skydio is the first US dronemaker to be valued at over $1 billion following a recent funding round.
-<a href='https://www.theverge.com/2021/3/4/22313031/skydio-20-police-departments-usa-military-customs-and-border-protection-self-flying'> Source <a/>
