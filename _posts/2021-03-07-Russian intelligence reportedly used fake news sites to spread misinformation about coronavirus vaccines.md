@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ap3ZJP4-hh-o09M620WVdWjofkU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68925481/acastro_201217_1777_vaccine_0003.0.jpg' width='700px' /><br/>
+Four online publications linked to Russian intelligence agencies have been spreading false or misleading information about coronavirus vaccines, The Wall Street Journal reported, citing an official at the US Department of State's Global Engagement Center.
+<a href='https://www.theverge.com/2021/3/7/22318113/russia-intelligence-fake-news-spread-misinformation-coronavirus-vaccines'> Source <a/>
