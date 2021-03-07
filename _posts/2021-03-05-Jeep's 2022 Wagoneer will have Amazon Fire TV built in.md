@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lrfZeesMtW18NI4ozJ8a4tQyFPQ=/0x0:1354x756/1200x800/filters:focal(569x270:785x486)/cdn.vox-cdn.com/uploads/chorus_image/image/68913289/Screen_Shot_2021_03_04_at_1.30.35_PM.0.png' width='700px' /><br/>
-Amazon's Fire TV entertainment platform is going to hit the road in Jeep's 2022 Wagoneer and Grand Wagoneer SUVs, which will be the first to feature built-in Fire TV support.
-<a href='https://www.theverge.com/2021/3/4/22313111/jeep-2022-wagoneer-amazon-fire-tv-integrated'> Source <a/>

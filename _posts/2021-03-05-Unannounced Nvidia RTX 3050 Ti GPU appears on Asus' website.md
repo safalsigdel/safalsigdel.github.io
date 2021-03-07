@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TlTrM_IN1BmPkPm9YCy7cx5P9Ec=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68916651/DSC00697.0.jpg' width='700px' /><br/>
-Nvidia might be preparing to launch a new RTX 3050 Ti GPU, according to a leak from laptop maker Asus. VideoCardz reports that Asus has published updated specifications for its latest TUF Dash F15 gaming laptop, and it mentions an unreleased Nvidia GeForce RTX 3050 Ti Laptop GPU.
-<a href='https://www.theverge.com/2021/3/5/22315175/nvidia-rtx-3050-ti-gpu-asus-leak-rumor'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zfaO88XLrCSutWzG5dnrfUOmLvs=/0x0:3500x2333/1200x800/filters:focal(984x352:1544x912)/cdn.vox-cdn.com/uploads/chorus_image/image/68918122/1154007456.0.jpg' width='700px' /><br/>
+John McAfee has been charged with securities fraud over a “pump and dump” cryptocurrency scheme. Federal prosecutors unsealed a case against McAfee and his executive advisor and bodyguard Jimmy Gale Watson Jr., claiming the pair earned nearly $2 million by urging Twitter followers to invest in cryptocurrencies like Reddcoin and Dogecoin, then selling off their own holdings as the price rose.
+<a href='https://www.theverge.com/2021/3/5/22315494/john-mcafee-fraud-securities-scheme-charges-cryptocurrency'> Source <a/>

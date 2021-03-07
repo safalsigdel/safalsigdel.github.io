@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UYM1PJiz-X8f298-oK3X-t-v9ZU=/0x0:3000x2000/1200x800/filters:focal(1436x800:1916x1280)/cdn.vox-cdn.com/uploads/chorus_image/image/68920630/1229328421.0.jpg' width='700px' /><br/>
+Jack Dorsey, the billionaire co-founder and CEO of Twitter, a man who stans bitcoin right on his Twitter bio, is attempting to sell his very first tweet as an NFT — a digital good that lives on the Ethereum blockchain.
+<a href='https://www.theverge.com/2021/3/5/22316320/jack-dorsey-original-tweet-nft-cent-valuables'> Source <a/>

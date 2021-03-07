@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P2eM5greO9S9pM8WEd_oEIGKA1U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68920430/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
+The US Securities and Exchange Commission (SEC) is suing AT&T for providing nonpublic information to 20 different analyst firms so they would lower revenue estimates ahead of earnings, according to a press release. That let AT&T “beat” expectations for the quarter when the information-sharing took place, turning what could have been some nasty headlines in the financial press into a win instead.
+<a href='https://www.theverge.com/2021/3/5/22316163/sec-att-nonpublic-information-analysts-beat-quarterly-estimates'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5xAAe3Q27AIYBCBkryz6B7awbu4=/0x0:767x431/1200x800/filters:focal(323x155:445x277)/cdn.vox-cdn.com/uploads/chorus_image/image/68917005/RWxwIX.0.png' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast The Vergecast, our chat show to discuss this week in tech news featuring our reporters and editors.
-<a href='https://www.theverge.com/2021/3/5/22315185/square-inc-buys-tidal-microsoft-mesh-apple-iphone-rumors-vergecast-podcast-443'> Source <a/>

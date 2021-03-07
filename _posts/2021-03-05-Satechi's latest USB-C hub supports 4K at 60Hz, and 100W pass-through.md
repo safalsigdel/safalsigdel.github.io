@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aaJri7B9A9Ua7mXjCbULgJyC3zM=/0x0:1158x772/1200x800/filters:focal(487x294:671x478)/cdn.vox-cdn.com/uploads/chorus_image/image/68915883/ezgif.com_gif_maker__2_.0.jpg' width='700px' /><br/>
-Satechi has released a new USB-C hub for your laptop to add all the ports that it arguably should have included in the first place. Although the port selection on the $99.99 USB-C On-the-Go Multiport Adapter is similar to other hubs, the high spec of each port makes Satechi's device worthy of attention. As well as laptops, it also works with USB-C tablets like recent iPad Pro models.
-<a href='https://www.theverge.com/2021/3/5/22314998/satechi-usb-c-on-the-go-multiport-adapter-4k-60hz-100w-sd-card-gigabith-ethernet-hub'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FX1aV7JC3I2Zglno_iOcwp5ta-I=/0x0:1938x1292/1200x800/filters:focal(814x491:1124x801)/cdn.vox-cdn.com/uploads/chorus_image/image/68916071/b02170a10e78426f1f250ee62f745091.0.jpg' width='700px' /><br/>
-TikTok has officially launched a new Q&A feature that's designed to help creators answer questions from their fans. It's available on both pre-recorded and live videos, and works by having viewers mark their comment as a question. Creators can then either answer questions via a text comment or video reply.
-<a href='https://www.theverge.com/2021/3/5/22315055/tiktok-questions-and-answers-qa-feature-live-pre-recorded'> Source <a/>

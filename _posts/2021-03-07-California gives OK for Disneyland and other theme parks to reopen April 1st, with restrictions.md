@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RIej8Rv6loHdHsAISu-KLsasFyc=/0x0:3100x2214/1200x800/filters:focal(1069x712:1565x1208)/cdn.vox-cdn.com/uploads/chorus_image/image/68923618/1231251106.0.jpg' width='700px' /><br/>
+Disneyland, Universal Studios other theme parks, and sports stadiums in California can reopen beginning April 1st, the California Department of Public Health said Friday. But there are caveats: the health department is requiring “significantly reduced capacity, mandatory masking and other public health precautions” due to the ongoing coronavirus pandemic.
+<a href='https://www.theverge.com/2021/3/6/22317285/disneyland-california-theme-parks-coronarvirus-pandemic-reopen-april-1st'> Source <a/>

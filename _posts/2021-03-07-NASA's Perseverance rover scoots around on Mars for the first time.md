@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-dBPNEON4eQxVFoY3l28l8wIZig=/0x0:1280x960/1200x800/filters:focal(657x320:861x524)/cdn.vox-cdn.com/uploads/chorus_image/image/68920556/pia24482_4_1041.0.jpeg' width='700px' /><br/>
+Perseverance, the car-sized rover NASA landed on Mars last month, has taken its first spin on the rocky surface of Jezero Crater, NASA announced today. The rover's six wheels drove about 21 feet to carry out a key mobility test on Thursday, as engineers back on Earth prepare to execute the mission's core science objectives.
+<a href='https://www.theverge.com/2021/3/5/22316093/nasas-perseverance-rover-first-drive-mars'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q9tGFYxdoGD42gEhbk7dBZysMdM=/0x0:2040x1360/1200x1200/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22015297/vpavic_4278_20201030_0119.jpg' width='700px' /><br/>
+Update March 5th, 2021 1:00PM ET: Best Buy has sold out of both the PS5 and PS5 Digital Edition models. If you are still looking for an Xbox Series S, it is still available on the retailer's website.
+<a href='https://www.theverge.com/2021/3/5/22311269/playstation-5-ps5-restock-digital-edition-console-best-buy'> Source <a/>

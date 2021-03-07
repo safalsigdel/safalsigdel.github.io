@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m4Na-1UwoiPv6XeFHt2cXYtCu58=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68913078/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
-YouTube CEO Susan Wojcicki says the site will lift former President Donald Trump's suspension when the risk of him inciting violence decreases.
-<a href='https://www.theverge.com/2021/3/4/22313839/youtube-trump-ban-lift-susan-wojcicki-atlantic-council-interview'> Source <a/>

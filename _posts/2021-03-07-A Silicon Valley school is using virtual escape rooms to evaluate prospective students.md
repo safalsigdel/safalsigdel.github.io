@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M7GMGSY-0ShscTUIciWdVRMyoVc=/743x0:1921x1080/1200x800/filters:focal(1218x419:1524x725)/cdn.vox-cdn.com/uploads/chorus_image/image/68919155/TAPISW__00.0.png' width='700px' /><br/>
+Applying to an elite middle school sounds like a stressful experience, and I'm sure COVID-19 doesn't help. With things like open houses, campus tours, and in-person interviews off the table, applicants have fewer chances to experience their prospective schools — and admissions offices have fewer chances to meet their prospective students.
+<a href='https://www.theverge.com/2021/3/5/22313456/harker-school-virtual-escape-room-online-learning-admissions'> Source <a/>

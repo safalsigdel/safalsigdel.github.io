@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yE7KzJQLmO3z7eFY4KiRN-i9LJ0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68922609/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
+The Equal Employment Opportunity Commission (EEOC) is looking into allegations of racial bias and hiring practices at Facebook, a probe which the agency has designated as “systemic,” Reuters reported.
+<a href='https://www.theverge.com/2021/3/6/22316892/facebook-eeoc-systemic-racial-bias-hiring-promotions'> Source <a/>

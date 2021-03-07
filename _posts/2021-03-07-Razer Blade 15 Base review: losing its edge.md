@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BCRIPrV0lE-4_5uMMnFFNvUigmg=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68922302/cfaulkner_210228_4451_0005.0.jpg' width='700px' /><br/>
+Razer's Blade 15 Base isn't broken necessarily, but it could use a tune-up anyway. It's emblematic of the company's excellent design chops — stuck in a loop of flexing it in practically the same way as last year and the year before.
+<a href='https://www.theverge.com/22315386/razer-blade-15-base-2021-review-gaming-laptop-nvidia-rtx-3070-qhd-screen-performance'> Source <a/>

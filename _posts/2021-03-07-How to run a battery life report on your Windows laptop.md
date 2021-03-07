@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C7U-JO3tPSk33-vH12hWpV3WjwQ=/0x0:1459x934/1200x800/filters:focal(106x89:338x321)/cdn.vox-cdn.com/uploads/chorus_image/image/68920094/2021_03_05_12_57_46_Window.0.png' width='700px' /><br/>
+When my editor told me about Window's built-in battery report, my first thought was: “How have I never heard of this before? Also, that sounds pretty useful!” So I looked at the guide he sent (from Laptop Magazine) and tried it out. It ended up being just as interesting as it sounded, so I figured I'd share, in case you also haven't come across this handy built-in tool.
+<a href='https://www.theverge.com/22315955/windows-pc-battery-life-report-how-to-laptop'> Source <a/>

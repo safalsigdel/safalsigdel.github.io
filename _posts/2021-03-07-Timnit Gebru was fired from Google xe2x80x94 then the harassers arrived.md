@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/53FfEWE1NRF4shyh4LeMdTXRafM=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68917583/VRG_ILLO_4413_001.0.jpg' width='700px' /><br/>
+Timnit Gebru had expected her colleagues to rally around her when she was abruptly fired from Google on December 2nd. She was a well-respected AI ethics researcher, her termination as controversial as it was sudden. What she hadn't anticipated was becoming a catalyst for labor activism in Silicon Valley — or the subject of a harassment campaign that surfaced alongside her supporters.
+<a href='https://www.theverge.com/22309962/timnit-gebru-google-harassment-campaign-jeff-dean'> Source <a/>

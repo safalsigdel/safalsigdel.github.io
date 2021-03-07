@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jOy4ifWPhDean0es6_4sIA74Wm4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68915796/acastro_200207_3900_chrome_0001.0.0.jpg' width='700px' /><br/>
-Google says it will speed up how it releases Chrome updates. Starting with Chrome 94 in Q3, 2021, Google will release milestones of its browser every four weeks, instead of every six weeks. This is the first time Google has sped up its Chrome release schedule for more than a decade.
-<a href='https://www.theverge.com/2021/3/5/22314992/google-chrome-release-cycle-four-weeks-update'> Source <a/>

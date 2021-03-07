@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YbneIpIyaezdaIPt1BP4SQQyRj8=/0x0:6000x3912/1200x800/filters:focal(2520x1476:3480x2436)/cdn.vox-cdn.com/uploads/chorus_image/image/68913817/Green_Screen_Mouse_Mat_Lifetsyle_Shot_07.0.jpg' width='700px' /><br/>
-Elgato is one of the most notable brands in the consumer tech market when it comes to products aimed toward content creators and streamers. And today, the Corsair-owned company announced that it is expanding its line of creator-focused products. One of the more creative new options is a Green Screen Mouse Mat, which allows streamers and content creators to blend a flat surface like their desk into their video feed.
-<a href='https://www.theverge.com/2021/3/4/22314075/elgato-green-screen-mousepad-mat'> Source <a/>

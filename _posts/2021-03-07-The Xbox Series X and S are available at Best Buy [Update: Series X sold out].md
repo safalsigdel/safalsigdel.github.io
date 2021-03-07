@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/udy1G5OoHJ-cLxZ-cpxVTmeZl7A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68917601/vpavic_4275_20201030_0028.0.jpg' width='700px' /><br/>
+Update March 5th, 2021 12:58PM ET: The Xbox Series X is now sold out at Best Buy. But the Series S is still available.
+<a href='https://www.theverge.com/2021/3/5/22315452/xbox-series-x-s-restock-best-buy-price-pass-controller'> Source <a/>

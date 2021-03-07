@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qh9wYCvqpOnO-whBnXuYiiToqyo=/0x0:2040x1351/1200x1200/filters:focal(1052x690:1053x691)/cdn.vox-cdn.com/uploads/chorus_asset/file/21867252/twarren_200909_4177_0031.0.jpg' width='700px' /><br/>
+The Xbox Series S and Series X consoles are officially out. Due to the pandemic, combined with the high demand for these consoles, retailers like Best Buy and Target are only selling online. That means you won't be able to walk into a store to pick one up — unless you've purchased it already online. Only then will you be able to arrange an in-store pickup.
+<a href='https://www.theverge.com/21437954/xbox-series-x-s-preorder-us-retailers-microsoft-release-date'> Source <a/>
