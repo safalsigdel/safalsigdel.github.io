@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/32rJe7dbDCZgaRzge7JBuPt_pS4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68925840/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
+Apple analyst Ming-Chi Kuo predicts in a new research note that Apple will release a “helmet-type” mixed reality headset next year, augmented reality glasses in mid-2025, and an AR contact lens product by 2030-2040, according to MacRumors.
+<a href='https://www.theverge.com/2021/3/7/22318239/apple-mixed-reality-headset-2022-analyst-kuo'> Source <a/>
