@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vLrOxc9X0bgsr7K_nA5rB4smpAY=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68917203/dseifert_201025_4263_0001.0.0.jpg' width='700px' /><br/>
-Amazon has always tried to push its Alexa-enabled smart speakers as a platform, boasting about the number of third-party “skills” available (more than 100,000 in the most recent count). In our experience, the majority of these skills are useless gimmicks; one-note jokes you install and forget about. But it turns out they might pose a privacy threat, too.
-<a href='https://www.theverge.com/2021/3/5/22315211/amazon-alexa-skills-how-to-remove-security-privacy-problems'> Source <a/>

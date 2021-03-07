@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DRFqPnn218gtDKwFdZ89E99k9ks=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68925222/acastro_180604_1777_xbox_0001.0.jpg' width='700px' /><br/>
+Microsoft has started publicly testing its new Edge Chromium-powered browser on Xbox consoles. Xbox testers in the Alpha Skip-Ahead group can now access the new Microsoft Edge on Xbox One or Xbox Series S / X consoles. While full mouse and keyboard support is still missing, the browser works as you'd expect with an Xbox controller, albeit a little buggy in this initial test version.
+<a href='https://www.theverge.com/2021/3/7/22318050/microsoft-edge-xbox-chromium-browser-testing'> Source <a/>

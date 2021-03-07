@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j5EE1_PkrwNf5fDWkfvFsaMd6aE=/0x0:3840x2160/1200x800/filters:focal(2147x540:2761x1154)/cdn.vox-cdn.com/uploads/chorus_image/image/68917427/EnIVQHKUYAEGfed.0.0.jpg' width='700px' /><br/>
-Hogwarts Legacy developer Troy Leavitt has left the project following criticism of videos that defended the reactionary Gamergate harassment movement and dismissed sexual misconduct complaints against media executives. Leavitt tweeted the news last night, saying he had resigned from studio Avalanche Software despite feeling “absolutely secure in my position.”
-<a href='https://www.theverge.com/2021/3/5/22315226/hogwarts-legacy-leavitt-resigns-developer-avalanche-youtube-gamergate'> Source <a/>
