@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aoaM7JcN28z2FJLHrqvNgye6hW4=/0x0:2040x1530/1200x675/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/68918190/jpeters_210301_4457_0020.0.jpg' width='700px' /><br/>
-The Verge lives on news, and Jay Peters is one of the news writers who keeps it going — searching out the latest info about what's going on in technology, entertainment, and culture, and writing it up for the site. As with the rest of us, Jay has been doing most of his work from home over the last year — here's how he manages it.
-<a href='https://www.theverge.com/22310104/remote-work-desk-home-set-up-jay-peters-macbook-xbox'> Source <a/>
