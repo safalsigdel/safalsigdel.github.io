@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/83zP6hyA9N6YMmoUeLFEEyNiAuY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68928315/acastro_210119_1777_whatsapp_0002.0.jpg' width='700px' /><br/>
+WhatsApp is reportedly working to increase the security of its cloud backups with a new password protection feature that'll encrypt chat backups, making them accessible only to the user. WABetaInfo reported on the work-in-progress feature last year, and today it shared screenshots of how it could be presented in the service's iOS and Android apps.
+<a href='https://www.theverge.com/2021/3/8/22319136/whatsapp-cloud-backups-icloud-google-drive-password-encryption-security'> Source <a/>
