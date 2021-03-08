@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JYYJJ9-_ahKtQXt69MODIXhCZ_o=/0x0:1196x812/1200x800/filters:focal(503x364:693x554)/cdn.vox-cdn.com/uploads/chorus_image/image/68928868/apple_ipod_test.0.jpg' width='700px' /><br/>
+Researchers from machine learning lab OpenAI have discovered that their state-of-the-art computer vision system can be defeated by tools no more sophisticated than a pen and a pad. As illustrated in the image above, simply writing down the name of an object and sticking it on another can be enough to trick the software into misidentifying what it sees.
+<a href='https://www.theverge.com/2021/3/8/22319173/openai-machine-vision-adversarial-typographic-attacka-clip-multimodal-neuron'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LqPKcTxeEUYhKu0b_nTBertMk_E=/0x0:1115x744/1200x800/filters:focal(469x283:647x461)/cdn.vox-cdn.com/uploads/chorus_image/image/68928910/kidsprof.0.jpg' width='700px' /><br/>
+Google today announced that it's adding a popular customer request to its Google TV software: separate profiles for kids. Kid profiles will let you choose which apps are available to young viewers. If a Google account for the child already exists, you can add that as a kid profile — but a Google account is not required; you can also create a profile simply by adding a child's name and age.
+<a href='https://www.theverge.com/2021/3/8/22318824/google-tv-kid-profiles-announced-features-parental-controls'> Source <a/>
