@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7ryVxtoEQtDKzyhQrHsmsBKQ-5M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68919683/sokane_210125_4386_1753.0.jpg' width='700px' /><br/>
-Ford is recalling dozens of the first Mustang Mach-E deliveries after it discovered loose bolts during the quality checks that are holding up shipments.
-<a href='https://www.theverge.com/2021/3/5/22316055/ford-mustang-mach-e-recall-loose-bolt-delivery-delays'> Source <a/>
