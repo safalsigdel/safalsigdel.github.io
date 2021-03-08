@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ji1L3GEChfp_en1iUUBAywOJ9uw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68926317/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Several current and former Google employees say the company's human resources department would often suggest mental health counseling or leave in response to complaints about racist or sexist behavior in the workplace, NBC News reported.
+<a href='https://www.theverge.com/2021/3/7/22318369/google-hr-advised-mental-health-leave-racist-sexist-behavior'> Source <a/>

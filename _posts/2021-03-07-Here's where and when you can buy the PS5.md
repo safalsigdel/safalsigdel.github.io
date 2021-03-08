@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K-yujrt8GZ6ZtW6KrV2Pv6PphgI=/0x0:1024x683/1200x1200/filters:focal(512x342:513x343)/cdn.vox-cdn.com/uploads/chorus_asset/file/22017052/ps5_all_digital.jpg' width='700px' /><br/>
-Sony's PlayStation 5 is available now. Due to the pandemic and high demand for the PS5, retailers such as Best Buy and Target will only sell the console online for the foreseeable future. So, if you were planning to camp outside your local Target hoping to buy the console today, there will be no walk-in purchases available this year. But, you can order one online and request an in-store pickup.
-<a href='https://www.theverge.com/2020/9/17/21440300/ps5-playstation-5-preorder-price-release-date-buy'> Source <a/>
