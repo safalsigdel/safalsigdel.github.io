@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DYwI4XxYSc7I5ug-YAOrD9HJZZg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68927939/DSCF7293.0.jpg' width='700px' /><br/>
+Oppo has become the best-selling smartphone brand in China for the first time ever, according to figures from Counterpoint Research. Counterpoint's report says that Oppo managed to capture 21 percent of the world's biggest smartphone market in January, ahead of Vivo and Huawei, which both achieved 20 percent. Apple and Xiaomi rounded out the top five with 16 percent apiece.
+<a href='https://www.theverge.com/2021/3/8/22318941/china-smartphone-market-share-oppo-huawei-vivo-apple-xiaomi-january-2021'> Source <a/>
