@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EEo_Uf5qeIbM4DZ3_JWvZX72Tkk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68930472/GMC_HUMMER_EV_SUV_Debut.0.jpg' width='700px' /><br/>
-General Motors will reveal an SUV version of its all-electric Hummer EV on April 3rd, the company announced. The automaker unveiled the pickup truck version, with 350 miles of range and a host of high-tech features, last October.
-<a href='https://www.theverge.com/2021/3/8/22319617/hummer-ev-suv-reveal-date-gmc'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QHDiJKhhaJRW4M_agBRlTcxmSe4=/0x0:6000x6000/1200x800/filters:focal(2520x2520:3480x3480)/cdn.vox-cdn.com/uploads/chorus_image/image/68935228/TicWatch_Pro_S_Black.0.png' width='700px' /><br/>
+Following the TicWatch Pro 3, Mobvoi has announced the TicWatch Pro S, a smartwatch that carries over some of the hallmark TicWatch features like a “Dual Display” that layers an always-on LCD over an AMOLED screen for longer battery life, and some custom health apps, for a slightly more affordable $259.99 price. But the older internals of the device might not make it so appetizing.
+<a href='https://www.theverge.com/2021/3/9/22320212/mobvoi-ticwatch-pro-s-cheaper-always-on-display'> Source <a/>

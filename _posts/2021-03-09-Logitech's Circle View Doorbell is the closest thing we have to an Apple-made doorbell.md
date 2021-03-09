@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vDZgVnB7TEiUU_b3sXIbbkpL0z0=/0x0:2040x1360/1200x675/filters:focal(837x720:1163x1046)/cdn.vox-cdn.com/uploads/chorus_image/image/68929300/dseifertt_210225_4448_0004.0.jpg' width='700px' /><br/>
-There are a lot of video doorbells on the market. You can get one from Amazon's Ring, Google's Nest, Arlo, Eufy, August, or countless other companies. But none of those video doorbells will natively work with Apple's HomeKit platform.
-<a href='https://www.theverge.com/22318478/logitech-circle-view-doorbell-homekit-review-test-price'> Source <a/>

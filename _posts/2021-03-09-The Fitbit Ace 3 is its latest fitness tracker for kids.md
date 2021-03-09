@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f2vhaMDvgaKrNi-LGraYH-p0afc=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/68934837/Fitbit_Proxima_Kids_Render_Front_Core_Black_Sport_Red_Clock_Default_Shadow.0.jpeg' width='700px' /><br/>
+Fitbit has introduced the third iteration of its Ace activity and sleep tracker for kids. The Fitbit Ace 3, designed for kids ages six and up, adds new animated clock faces, customizable accessories, and claims eight days of battery life in a “swim-proof” design with new color options, too.
+<a href='https://www.theverge.com/2021/3/9/22315951/fitbit-ace-3-fitness-tracker-kids'> Source <a/>
