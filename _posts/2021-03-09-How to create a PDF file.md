@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7aKmWfDwzh0VRHth0xQa-MKK52s=/0x0:2476x1426/1200x800/filters:focal(1040x515:1436x911)/cdn.vox-cdn.com/uploads/chorus_image/image/68935745/Screen_Shot_2021_03_09_at_10.03.56_AM.0.png' width='700px' /><br/>
+Now that so many people are working remotely, it's become more accepted than ever for official documents to be sent digitally — and most are sent as PDFs.
+<a href='https://www.theverge.com/22321091/pdf-adobe-how-to-create-mac-windows'> Source <a/>
