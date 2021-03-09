@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7tdkgqniYFOidjgeNgFSlrMgsow=/0x0:2040x1360/1200x675/filters:focal(837x655:1163x981)/cdn.vox-cdn.com/uploads/chorus_image/image/68925302/DSC02603_2.0.jpg' width='700px' /><br/>
-For the past month, I've been testing the two most powerful Wear OS watches you can buy: the TicWatch Pro 3 from Mobvoi and the Fossil Gen 5 LTE. They're not spec-for-spec identical, but they do share a basic shape: big, chunky, round, and black. If you're using Android and want a smartwatch, they're at the top of a persistently tiny list of top-flight smartwatches.
-<a href='https://www.theverge.com/2021/3/7/22314135/ticwatch-pro-3-fossil-gen-5-lte-review-smartwatch-wear-os'> Source <a/>

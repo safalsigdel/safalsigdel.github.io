@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZncgStWvvXp2eQud6X5kmA02O24=/0x0:2880x1554/1200x800/filters:focal(1210x547:1670x1007)/cdn.vox-cdn.com/uploads/chorus_image/image/68933051/Screen_Shot_2021_03_08_at_3.32.35_PM.0.png' width='700px' /><br/>
+The Snyder Cut is set to release on March 18th, but some viewers already got a truly inexplicable sneak peek today — quite a few people trying to watch the Tom and Jerry movie on HBO Max were instead shown the upcoming R-rated version of Justice League (via The Hollywood Reporter). I guess you could say Warner Bros. really let the cat out of the bag.
+<a href='https://www.theverge.com/2021/3/8/22320439/snyder-cut-leaked-hbo-max-tom-and-jerry'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TfJQmsruahf3GbNMJfUgt6kPpZM=/0x0:2228x1485/1200x800/filters:focal(926x607:1282x963)/cdn.vox-cdn.com/uploads/chorus_image/image/68923127/RoamMove.0.jpg' width='700px' /><br/>
-On Tuesday, Sonos will introduce its latest product called the Sonos Roam, which The Verge extensively detailed a couple of days ago. Now I'm able to share a bit more about new functionality that will debut first on the tiny, take-everywhere speaker.
-<a href='https://www.theverge.com/2021/3/6/22317082/sonos-roam-features-trueplay-sound-swap-leak-specs-price'> Source <a/>

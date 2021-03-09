@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rLfee2fqaQNB_YQ3M55vLt6wm5M=/0x0:2640x1749/1200x800/filters:focal(1579x470:2001x892)/cdn.vox-cdn.com/uploads/chorus_image/image/68931826/twarren-surfacelaptopgo-10.0.0.jpg' width='700px' /><br/>
+For a while, Microsoft's Surface Laptop 3 was one of the best laptops you could buy. Microsoft is now planning its successor, the Surface Laptop 4, and it appears WinFuture has obtained details about this upcoming device. Per this report, the laptop is coming sometime in April.
+<a href='https://www.theverge.com/2021/3/8/22319854/microsoft-surface-laptop-4-specs-features-release-price-leak'> Source <a/>

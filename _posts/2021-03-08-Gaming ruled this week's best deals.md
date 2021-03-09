@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_Z1vU_82ilGQaBLpZmfU6FtHyIs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68922088/akrales_190429_3371_0087.0.jpg' width='700px' /><br/>
-This was another week of gaming dominating our deals coverage. That's mostly because my colleague Taylor Lyles has been diligently keeping readers in the know about every (fleeting, sadly) restocking of the PS5 and Xbox Series X / S consoles. Outside of consoles, there are some good game deals happening, in addition to tech that might be able to make gaming more enjoyable.
-<a href='https://www.theverge.com/good-deals/2021/3/6/22315513/video-game-deal-sale-oculus-quest-external-ssd-usb-c-tony-hawk-ps5'> Source <a/>

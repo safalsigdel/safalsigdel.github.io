@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6510wK47GwwlQ-iMoytkVy1AwqQ=/0x0:2040x1385/1200x800/filters:focal(857x530:1183x856)/cdn.vox-cdn.com/uploads/chorus_image/image/68930511/wwepeacock.0.jpg' width='700px' /><br/>
+Peacock is sharing more details today about how it will integrate WWE's enormous selection of content later this month when WWE Network becomes part of the NBCUniversal streaming service.
+<a href='https://www.theverge.com/22319438/wwe-network-peacock-features-price-faq-deal'> Source <a/>

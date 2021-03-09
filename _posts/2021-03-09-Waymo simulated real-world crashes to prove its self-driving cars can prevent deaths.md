@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KjLySJgRhA5dJf6VdFDnyj_Tu9A=/0x0:3620x2343/1200x800/filters:focal(1521x883:2099x1461)/cdn.vox-cdn.com/uploads/chorus_image/image/68931332/1142125645.jpg.0.jpg' width='700px' /><br/>
+In a bid to prove that its robot drivers are safer than humans, Waymo simulated dozens of real-world fatal crashes that took place in Arizona over nearly a decade. The Google spinoff discovered that replacing either vehicle in a two-car crash with its robot-guided minivans would nearly eliminate all deaths, according to data it publicized today.
+<a href='https://www.theverge.com/2021/3/8/22315361/waymo-autonomous-vehicle-simulation-car-crash-deaths'> Source <a/>

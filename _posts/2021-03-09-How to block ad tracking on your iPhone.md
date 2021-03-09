@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A-3KP6sH454CWEVAJVmBKnYUIYU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68932276/akrales_180620_1777_0259.0.jpg' width='700px' /><br/>
+In 2019, an article in The Washington Post by Geoffrey Fowler described the author's shock when he discovered just how many of his iPhone apps were collecting and uploading information about his usage while he slept.
+<a href='https://www.theverge.com/22309965/block-ad-iphone-data-how-to-tracking'> Source <a/>

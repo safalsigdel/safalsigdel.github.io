@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WirbjVmfkAN2mltjqP9cde2174U=/0x0:2000x1333/1200x675/filters:focal(883x665:1203x985)/cdn.vox-cdn.com/uploads/chorus_image/image/68931868/final.0.jpg' width='700px' /><br/>
+As you may have heard one or two times, we're now roughly a year into COVID and pandemic lockdown life. To fill the void in our lives that was once occupied by social gatherings, visiting family, and breathing indoor air freely, many of us have turned to new hobbies and habits. Some of them are even healthy!
+<a href='https://www.theverge.com/22320002/walking-apps-pandemic-strava-footpath-alltrails-seek'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CJBfpol-w0Na6HCnnndf5kkoT40=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68930729/akrales_200904_4160_0216.0.0.jpg' width='700px' /><br/>
+Facebook's future virtual reality headsets should capture users' facial expressions for more realistic digital avatars, says CEO Mark Zuckerberg.
+<a href='https://www.theverge.com/2021/3/8/22319737/mark-zuckerberg-facebook-vr-ar-face-sensors'> Source <a/>

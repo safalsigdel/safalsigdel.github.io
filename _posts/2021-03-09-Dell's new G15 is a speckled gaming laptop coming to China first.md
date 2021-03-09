@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qpxFCZghAouhjRy0k2yWOFMFfPg=/0x0:1127x751/1200x800/filters:focal(474x286:654x466)/cdn.vox-cdn.com/uploads/chorus_image/image/68933138/g15.0.jpg' width='700px' /><br/>
+Dell has launched its new G15 gaming laptop, which will be available first in China before coming to other regions around the world. The laptop's industrial design is all-new, though the most notable feature might be the paint job.
+<a href='https://www.theverge.com/2021/3/8/22319292/dell-g15-gaming-laptop-2021-announced-china-paint-speckles-specs'> Source <a/>

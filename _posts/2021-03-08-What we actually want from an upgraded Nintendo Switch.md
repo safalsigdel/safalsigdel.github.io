@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F6maRQd-o6e_ddBSMdfh6rYn1Lo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68925151/jbareham_1492_170228_0097.0.0.jpg' width='700px' /><br/>
-Rumors about a long-desired upgrade to the Nintendo Switch have been swirling for some time, and this week, Bloomberg reported that this fabled new Switch might actually be coming soon.
-<a href='https://www.theverge.com/2021/3/7/22315790/nintendo-switch-pro-4k-oled-upgraded-what-we-want'> Source <a/>

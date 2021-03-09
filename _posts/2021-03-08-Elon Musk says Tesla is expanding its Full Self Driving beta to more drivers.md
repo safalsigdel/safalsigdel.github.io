@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/syz0tIgz_qawitA3Vg77khTO9iU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68925715/acastro_180524_1777_tesla_0001.0.jpg' width='700px' /><br/>
-Tesla is expanding its “Full Self-Driving” (FSD) beta, CEO Elon Musk said, doubling its size with a new software update, and eventually increasing the number of participants tenfold.
-<a href='https://www.theverge.com/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta'> Source <a/>

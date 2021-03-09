@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uvSh35Th6idYsO0IN_Grpd20H18=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68931643/acastro_170621_1777_0007_v2_0001_2.0.jpg' width='700px' /><br/>
+On Friday, cybersecurity journalists Brian Krebs and Andy Greenberg reported that as many as 30,000 organizations had been compromised in an unprecedented email server hack, believed to have originated from a state-sponsored Chinese hacking group known as Hafnium.
+<a href='https://www.theverge.com/2021/3/8/22319934/microsoft-hafnium-hack-exchange-server-email-flaw-white-house'> Source <a/>
