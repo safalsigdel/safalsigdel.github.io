@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sJWMe3oepbypu0fxIa0ApA6iutE=/0x0:3200x1800/1200x800/filters:focal(1344x644:1856x1156)/cdn.vox-cdn.com/uploads/chorus_image/image/68935685/GIzDjxi.0.jpg' width='700px' /><br/>
+The threat of COVID-19 has prompted many countries to draft new and emerging technologies to fight the pandemic, with the latest example taking flight in Ghana. This month, COVID-19 vaccines were delivered by drone for the first time in the West African nation, allowing the medicine to reach remote areas underserved by traditional logistics.
+<a href='https://www.theverge.com/2021/3/9/22320965/drone-delivery-vaccine-ghana-zipline-cold-chain-storage'> Source <a/>
