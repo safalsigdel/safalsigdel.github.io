@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NAfDLazvShN5hl97kfHsmogGIGY=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/68928033/Image_2.0.png' width='700px' /><br/>
-OnePlus has announced an official launch date for its next phones: the OnePlus 9 series will be formally announced on March 23rd at 10AM ET. It's also confirming a partnership with Swedish camera maker Hasselblad to improve the devices' camera systems — something that's been leaked and hinted at previously.
-<a href='https://www.theverge.com/2021/3/8/22315517/oneplus-9-launch-date-hasselblad-camera'> Source <a/>

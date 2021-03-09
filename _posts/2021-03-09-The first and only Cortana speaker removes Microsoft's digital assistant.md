@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lh1KmcpG46cMLxmF6Wjxn3YCSgY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68934325/dseifert_171018_2070_0003.0.jpg' width='700px' /><br/>
+Microsoft once envisioned a future full of Cortana-powered fridges, toasters, and thermostats, but it never worked out. Harman Kardon's Invoke speaker was the first and only Cortana-powered speaker to hit the market, but it's now receiving an update on Wednesday to disable Microsoft's digital assistant.
+<a href='https://www.theverge.com/2021/3/9/22320952/harman-kardon-microsoft-cortana-integration-end-of-support'> Source <a/>
