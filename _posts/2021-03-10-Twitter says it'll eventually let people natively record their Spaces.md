@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VgSRkfVMcDPnsGy9RqcTGSb5XKM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68935312/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter's social audio feature Spaces continues to expand its test group, but currently if you miss a live session, you miss the conversation for good. That, however, might change soon. In an interview with The Verge's Nilay Patel on his Decoder podcast, Kayvon Beykpour, head of consumer product at Twitter, says the company plans to build a way to natively record conversations.
-<a href='https://www.theverge.com/2021/3/9/22321158/twitter-spaces-record-conversation-kayvon-beykpour'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ThA92AcbMkZkO7EIDiAErLIFWWU=/0x0:6222x3500/1200x800/filters:focal(2614x1253:3608x2247)/cdn.vox-cdn.com/uploads/chorus_image/image/68935628/SM3DW_Lead.0.jpg' width='700px' /><br/>
-“MAR10 Day” is tomorrow, but several retailers have already begun the festivities by making more stock available for the limited-edition Nintendo Switch that is based on the mustached plumber.
-<a href='https://www.theverge.com/good-deals/2021/3/9/22321083/mario-nintendo-switch-best-buy-walmart-switch-games-sale'> Source <a/>

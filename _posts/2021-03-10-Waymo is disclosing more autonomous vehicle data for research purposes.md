@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1PS5M5wQRXYRU2FFw5VofdQS_HY=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/68941408/vpavic_4412_20210111_0004.0.jpg' width='700px' /><br/>
+Waymo is publicizing more data from its autonomous vehicles, which it says is for the benefit of the research community. Building on the trove of data it released in 2019, the Alphabet company is calling this latest batch “the largest interactive dataset yet released for research into behavior prediction and motion forecasting for autonomous driving.”
+<a href='https://www.theverge.com/2021/3/10/22322100/waymo-motion-dataset-autonomous-vehicles-research'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xp8TFHy9Trc57J526ybwiPGa1Ao=/0x0:945x630/1200x800/filters:focal(398x240:548x390)/cdn.vox-cdn.com/uploads/chorus_image/image/68935378/vudu.0.jpg' width='700px' /><br/>
-Vudu, the digital video service that was owned by Walmart before Fandango bought it last year, is finally making its way to the Amazon Fire TV platform. The app is a big source of high-quality, 4K HDR movie rentals. You can also access your existing Vudu library — including Movies Anywhere titles — with the Fire TV app, which should be rolling out in the coming days.
-<a href='https://www.theverge.com/2021/3/9/22321258/vudu-app-amazon-fire-tv-announced'> Source <a/>

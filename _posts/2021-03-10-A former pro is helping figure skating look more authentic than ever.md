@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NNHRDn2IxiYP7h364yILDppBhvM=/0x0:1926x2889/1200x0/filters:focal(0x0:1926x2889):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22332001/jordan4.jpg' width='700px' /><br/>
+On TV, ice skating often looks like a sport stuck in time. Cameras aren't hanging from wires above the action or placed close to the ice for a dynamic look at skaters zipping by. Instead, a few stationary cameras planted around a rink flip from one view to the next when a better angle is available. It can be dull to watch.
+<a href='https://www.theverge.com/22303559/on-ice-perspectives-instagram-youtube-social-media-figure-skating-cinematography'> Source <a/>

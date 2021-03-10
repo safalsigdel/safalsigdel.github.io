@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oJvOStZJBLRY3DgT-z-UTxeb1xY=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68935773/Fortnite_20201201161314.0.jpg' width='700px' /><br/>
-A new season of Fortnite is almost here, which can only mean one thing: a big in-game event. Today, Epic detailed what players can expect when season 6 of Fortnite's second chapter kicks off. It sounds pretty ambitious and even includes a story-focused solo experience.
-<a href='https://www.theverge.com/2021/3/9/22321323/fortnite-chapter-2-season-6-event-date-cinematic'> Source <a/>

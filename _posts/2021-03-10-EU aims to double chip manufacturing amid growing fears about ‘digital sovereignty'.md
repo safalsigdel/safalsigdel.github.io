@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QY90Wt4kOYEuHffKpGv07tAwot0=/0x0:4000x2668/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/68940682/1231203170.0.jpg' width='700px' /><br/>
+The European Union wants to double its chip manufacturing output to 20 percent of the global market by 2030. The goal is part of its new Digital Compass plan, announced yesterday, which aims to boost “digital sovereignty” by funding various high-tech initiatives.
+<a href='https://www.theverge.com/2021/3/10/22322860/eu-semiconductor-chip-supply-double-output-2030-global-compass-investment'> Source <a/>

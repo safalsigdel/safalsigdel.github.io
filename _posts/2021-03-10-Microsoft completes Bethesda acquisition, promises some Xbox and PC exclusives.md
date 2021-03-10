@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iReR83ZrNndA3mIXiVS-u3hKPNE=/0x0:1536x864/1200x800/filters:focal(646x310:890x554)/cdn.vox-cdn.com/uploads/chorus_image/image/68935084/BethesdaAndXbox_HERO.5.jpg' width='700px' /><br/>
-Microsoft has finalized its $7.5 billion deal to acquire ZeniMax Media, the parent company of Doom and Fallout studio Bethesda Softworks. The finalization comes just a day after Microsoft secured regulatory approval from the EU for the acquisition, and it will now bolster the company's first-party Xbox games studios up to a total of 23.
-<a href='https://www.theverge.com/2021/3/9/22319124/microsoft-bethesda-acquisition-complete-finalized'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/61FZCrlExWKrXGDyIdvou9NHIsc=/0x0:1686x1124/1200x800/filters:focal(709x428:977x696)/cdn.vox-cdn.com/uploads/chorus_image/image/68936691/PhoneHub.0.png' width='700px' /><br/>
-Google is marking 10 years of Chromebooks by unveiling new features for Chrome OS today. The biggest addition is a new Phone Hub feature that connects an Android phone to a Chromebook. It allows Chrome OS users to respond to texts, check a phone's battery life, enable its Wi-Fi hotspot, and locate a device easily.
-<a href='https://www.theverge.com/2021/3/9/22321624/google-chrome-os-new-features-phone-hub-nearby-share-chromebooks'> Source <a/>

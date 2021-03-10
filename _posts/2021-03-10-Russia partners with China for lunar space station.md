@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4v_-SfFOMiB2QoP43TSPPIoSiT8=/0x0:3543x2362/1200x800/filters:focal(1544x621:2110x1187)/cdn.vox-cdn.com/uploads/chorus_image/image/68935769/1304458365.0.jpg' width='700px' /><br/>
-Russia and China have signed an agreement to build and work on an “International Scientific Lunar Station” orbiting the Moon, the countries' space agencies announced Tuesday. The space powers had been in talks for months as Russia mulled over whether it would participate in NASA's Gateway program, a rival lunar space station to be built by a coalition of other countries in the next decade.
-<a href='https://www.theverge.com/2021/3/9/22321114/lunar-moon-space-station-russia-china-agreement-nasa'> Source <a/>

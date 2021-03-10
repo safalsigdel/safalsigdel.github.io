@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ldDEbpfIBTXf4FGIyuHAnao5VOY=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68935590/VRG_ILLO_4420_001.0.jpg' width='700px' /><br/>
-Wendy Sxc3xa1nchez is a white woman, standing five feet and four inches tall, with brown eyes, short brown hair, and freckles. Her face has recently been seen on murals, video projections on buildings, illustrations shared on social networks, and missing persons posters. Since January 9th, her family has been looking for her across Mexico.
-<a href='https://www.theverge.com/22312221/tebuscamoswendy-wendy-sanchez-nayarit-disappearance-social-media-campaign'> Source <a/>

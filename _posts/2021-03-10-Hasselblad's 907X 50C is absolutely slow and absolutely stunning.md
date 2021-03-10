@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9532/bfarsace_4464_20210303_0004-Edit_SQUARE.jpg' width='700px' /><br/>
+Hasselblad's latest digital camera, the 907X 50C, is a 740-gram metal box that can serve as a standalone medium format digital camera or as a digital back for Hasselblad V System cameras made from 1957 onward. At $6,400, it is the smallest digital medium format body Hasselblad has ever made, and it is filled with premium Hasselblad touches. But its responsive touchscreen, all-metal body, and satisfying leaf shutter don't make up for its slow auto-focus or lack of a viewfinder.
+<a href='https://www.theverge.com/22321819/hasselblad-907x-50c-review-medium-format-camera'> Source <a/>

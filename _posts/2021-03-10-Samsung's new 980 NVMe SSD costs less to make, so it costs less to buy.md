@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GMmnmFf0YpusmwLBeGo_uDSz4kc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68935174/samsung980hero.0.jpg' width='700px' /><br/>
-Samsung has announced its newest SSD, a follow-up to the 970 Evo called the 980. The drive is a NVMe M.2 PCIe 3.0 drive, and it's an affordable one, too. It costs up to $129.99 for the 1TB version and as little as $49.99 for the 250GB model.
-<a href='https://www.theverge.com/2021/3/9/22307402/samsung-980-nvme-ssd-dram-pcie-3-speed-price'> Source <a/>

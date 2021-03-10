@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uTj7WjzVTACK-TXxwA3bzuFMi0A=/0x0:2880x1920/1200x800/filters:focal(1206x1214:1666x1674)/cdn.vox-cdn.com/uploads/chorus_image/image/68940777/image__1_.0.jpg' width='700px' /><br/>
+TikTok is rolling out a pop-up today that's designed to warn users before they post a comment that might be “inappropriate or unkind.” The new feature is one of two being announced that are designed to “promote kindness” on the service. The other is Filter All Comments, so that they only appear once individually approved.
+<a href='https://www.theverge.com/2021/3/10/22322814/tiktok-inappropriate-or-unkind-comments-warning-pop-up-anti-bullying'> Source <a/>
