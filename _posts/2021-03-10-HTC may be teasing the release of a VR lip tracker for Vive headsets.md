@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ea-dXJPwzMbnoSuErsHt6tDdG44=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68937813/akrales_191003_3707_0008.0.jpg' width='700px' /><br/>
-HTC may be teasing new modules and attachments for its Vive virtual reality headsets, including a lip tracker, UploadVR reports.
-<a href='https://www.theverge.com/2021/3/9/22321736/htc-vive-virtual-reality-social-face-lip-tracking'> Source <a/>

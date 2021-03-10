@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lUxRNWL6oBdM83KjpEFQ7suzqbE=/0x0:620x466/1200x800/filters:focal(261x184:359x282)/cdn.vox-cdn.com/uploads/chorus_image/image/68942903/kwcms_620x466_front.0.jpg' width='700px' /><br/>
+Kia has given its next electric vehicle a name and is getting ready to pull the cover off the new car sometime within the next few weeks. Dubbed “EV6,” it'll be the first electric vehicle that Kia is building on the new platform it's sharing with parent company Hyundai — the same platform that Apple was reportedly interested in using to power... whatever it's building before talks with the Korean automakers broke down.
+<a href='https://www.theverge.com/2021/3/10/22323438/kia-ev6-electric-car-hyundai-apple-platform'> Source <a/>

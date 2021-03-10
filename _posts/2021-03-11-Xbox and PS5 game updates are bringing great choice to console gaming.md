@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iaM_cSPNk4OLFFzCYtoVE_xPgHc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68942778/vpavic_4261_20201023_0084.0.jpg' width='700px' /><br/>
+The Xbox Series X / S and PS5 consoles haven't even reached the six-month mark yet, but game modes that favor performance or visual quality are already common. It feels like not a week goes by without a game getting an update to allow players to pick between a demanding 4K resolution or sacrificing some resolution and quality for 60fps or even 120fps modes.
+<a href='https://www.theverge.com/2021/3/10/22323419/xbox-series-x-ps5-game-mode-updates-framerates-options-choices'> Source <a/>

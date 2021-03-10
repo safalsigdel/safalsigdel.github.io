@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qWvg53UwJ71mI-omZKEx0x-To1g=/0x0:5472x3648/1200x800/filters:focal(1382x880:2256x1754)/cdn.vox-cdn.com/uploads/chorus_image/image/68942887/1295659536.0.jpg' width='700px' /><br/>
+The Miami Heat has suspended Meyers Leonard indefinitely after he used an anti-Semitic slur during a Twitch stream on Monday.
+<a href='https://www.theverge.com/2021/3/10/22323294/miami-heat-suspend-meyers-leonard-slur-twitch-faze-clan'> Source <a/>
