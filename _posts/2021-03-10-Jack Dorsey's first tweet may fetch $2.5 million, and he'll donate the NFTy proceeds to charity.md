@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4jY7LBLlBYYgDC4hjuDsKcBQU88=/0x0:3000x2000/1200x800/filters:focal(1239x379:1719x859)/cdn.vox-cdn.com/uploads/chorus_image/image/68936223/1151694547.jpg.0.jpg' width='700px' /><br/>
+Twitter co-founder and CEO Jack Dorsey now plans to convert the proceeds from the NFT auction of his first tweet to bitcoin and donate them to charity. The highest bid for the tweet is currently $2.5 million.
+<a href='https://www.theverge.com/2021/3/9/22321464/jack-dorsey-nft-tweet-auction-bitcoin-donate-charity'> Source <a/>

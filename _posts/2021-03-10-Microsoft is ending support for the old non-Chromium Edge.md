@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4nugF9TK9eLVceQjFymankfKOTA=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/68937631/e1.0.0.jpg' width='700px' /><br/>
+Support for Microsoft's Edge browser is ending today — not the new Chromium-based one, but the original Edge that was built as a replacement for Internet Explorer 11. Microsoft now calls it Legacy Edge, and the company announced it would be discontinuing the product back in August. That day has finally come: Legacy Edge will no longer receive security updates, and anyone still using it should start the process of switching to something else.
+<a href='https://www.theverge.com/2021/3/9/22321779/microsoft-edge-legacy-spartan-browser-support-ended'> Source <a/>

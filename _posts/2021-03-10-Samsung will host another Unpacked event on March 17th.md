@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uMyQb22G9gSZngGCuHp6_Bq5whU=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/68938960/Galaxy_Awesome_Unpacked_Invitation.0.jpg' width='700px' /><br/>
+Samsung has just announced an Unpacked event coming up on March 17th, 2021, its second for the year so far. The invitation calls the event “Galaxy Awesome Unpacked.” Between recent A-series leaks and the chaotic, “awesome”-themed promotional video for last year's models, it seems safe to assume that we'll see the Galaxy A52 and A72 devices debut.
+<a href='https://www.theverge.com/2021/3/9/22322232/samsung-galaxy-a52-a72-unpacked-event-awesome'> Source <a/>

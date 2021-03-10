@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FHlM4shmeKWsP58EKrFjKO-4MlY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68937529/vpavic_4275_20201030_0090.0.jpg' width='700px' /><br/>
+The Xbox Series X and Series S are some of the hottest and most challenging gadgets to buy right now. Fortunately, the Microsoft Store has restocked both the Series X and Series S gaming consoles. Get ‘em while supplies last.
+<a href='https://www.theverge.com/2021/3/9/22315704/xbox-series-x-s-restock-microsoft-store-price-game-pass-controller'> Source <a/>

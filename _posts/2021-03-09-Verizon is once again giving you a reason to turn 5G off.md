@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mHBHjHd9yH2WatNTe9P3AZ5sA9w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68932593/acastro_200109_1777_verizon_0001.0.0.jpg' width='700px' /><br/>
-Verizon 4G appears to be getting even better than its nationwide 5G network, according to new tests conducted by PCMag's Sascha Segan. After last week's tweet suggesting that users turn off their phone's 5G to conserve battery life, there seems to be a multitude of reasons for Verizon customers to stick with 4G right now.
-<a href='https://www.theverge.com/2021/3/8/22320170/verizon-4g-cbrs-spectrum-nationwide-5g'> Source <a/>

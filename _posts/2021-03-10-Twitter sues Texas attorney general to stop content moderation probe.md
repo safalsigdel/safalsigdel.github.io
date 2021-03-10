@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ngVMJ_X7rZ7JLLil39Xot2wUoUk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68935930/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+Twitter has sued Texas Attorney General Ken Paxton for opening an investigation into its moderation practices, arguing that the probe attempts to “intimidate, harass, and target Twitter” in retaliation for banning former President Donald Trump.
+<a href='https://www.theverge.com/2021/3/9/22321327/twitter-ken-paxton-texas-ag-lawsuit-content-moderation-probe'> Source <a/>

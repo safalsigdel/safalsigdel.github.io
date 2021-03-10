@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h6KYxEprzzQr1asMqADunSn-uZI=/0x0:4500x3053/1200x800/filters:focal(1922x891:2642x1611)/cdn.vox-cdn.com/uploads/chorus_image/image/68931739/1231167449.0.jpg' width='700px' /><br/>
-SpaceX is seeking regulatory approval to connect its rapidly growing network of internet-beaming Starlink satellites to cars, trucks, shipping boats, and aircraft. The request, filed last Friday with the Federal Communications Commission, marks SpaceX's biggest step yet toward connecting Starlink to the automotive sector, a potentially lucrative line of business that would expand the company's current stationary offerings from rural homes.
-<a href='https://www.theverge.com/2021/3/8/22319761/spacex-starlink-fcc-internet-cars-boats-aircraft'> Source <a/>

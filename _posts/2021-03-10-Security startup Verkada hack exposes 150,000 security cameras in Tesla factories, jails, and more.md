@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GuLbbWE2uT0ehQgLK1pDNqFZT_k=/0x0:2626x1430/1200x800/filters:focal(1114x655:1534x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/68938589/Screen_Shot_2021_03_09_at_5.07.30_PM.0.png' width='700px' /><br/>
+Verkada, a Silicon Valley security startup that provides cloud-based security camera services, has suffered a major security breach. Hackers gained access to over 150,000 of the company's cameras, including cameras in Tesla factories and warehouses, Cloudflare offices, Equinox gyms, hospitals, jails, schools, police stations, and Verkada's own offices, Bloomberg reports.
+<a href='https://www.theverge.com/2021/3/9/22322122/verkada-hack-150000-security-cameras-tesla-factory-cloudflare-jails-hospitals'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zftck8YIAnb8PGvWkkfSok2Trzo=/0x0:1386x1098/1200x800/filters:focal(583x439:803x659)/cdn.vox-cdn.com/uploads/chorus_image/image/68932682/Screen_Shot_2021_03_08_at_5.59.47_PM.0.png' width='700px' /><br/>
-The Aya Neo —  a Nintendo Switch-style handheld gaming PC that promises to offer a full-fledged PC gaming experience in the palm of your hands — is now available to back on Indiegogo, starting at $6,120 HKD (~$789 USD) for the 500GB model.
-<a href='https://www.theverge.com/2021/3/8/22320306/aya-neo-handheld-gaming-pc-indiegogo-price-release-date-nintendo-switch'> Source <a/>

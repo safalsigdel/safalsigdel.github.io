@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jr13cVRF7bL3aEhM5Nh_Mz3BhN0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68938271/acastro_170726_1777_0010.0.jpg' width='700px' /><br/>
+Twitter is actively working on a “big overhaul” of its TweetDeck platform, which lets you arrange lists and feeds into easy-to-read vertical rows, and it plans to share more about the project publicly later this year, product chief Kayvon Beykpour said in an interview with The Verge published Tuesday.
+<a href='https://www.theverge.com/2021/3/9/22321991/twitter-tweetdeck-overhaul-redesign-product-changes'> Source <a/>

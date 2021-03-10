@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EI7vVpvJMEWtjHKgx2c1_zVCDjE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68937911/Roam1.0.jpg' width='700px' /><br/>
+There wasn't much left that we didn't already know, but today, Sonos has officially announced its latest speaker, the Sonos Roam. Just as The Verge reported last week, the Roam is a portable battery-powered speaker priced at $169. Preorders start today, and it will go on sale on April 20th.
+<a href='https://www.theverge.com/2021/3/9/22319251/sonos-roam-pricing-features-release-date'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O0Jzdu3zgMQdMwT9BUxiaUdhdsg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68934819/vpavic_4261_20201023_0040.0.jpg' width='700px' /><br/>
-Update March 9th, 2021 10:36AM ET: Target has sold out of both PS5 consoles.
-<a href='https://www.theverge.com/2021/3/9/22315694/playstation-5-ps5-restock-models-target-games-digital-edition-disc-console'> Source <a/>

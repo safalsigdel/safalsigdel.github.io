@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5JdSnI1J98DFy7i0xgc6oOqMsv8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68937655/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
+T-Mobile will soon put a new privacy policy into effect that will allow it to share certain kinds of customer information with third-party advertisers. Starting on April 26th, 2021, all customers will be automatically opted in to the new program, as spotted by The Wall Street Journal. Customers who don't want to participate will need to manually opt out using their accounts' privacy tools.
+<a href='https://www.theverge.com/2021/3/9/22321733/t-mobile-privacy-policy-third-party-advertisers'> Source <a/>

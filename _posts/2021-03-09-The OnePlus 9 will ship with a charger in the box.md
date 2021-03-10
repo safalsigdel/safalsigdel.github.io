@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6PYtMMFqr1rq0LHl-jkxiB1uHdM=/0x0:2500x1377/1200x800/filters:focal(1011x516:1411x916)/cdn.vox-cdn.com/uploads/chorus_image/image/68930941/oneplus_9.0.jpg' width='700px' /><br/>
-Along with a confirmed release date, we got our first official look at the OnePlus 9 today and another tidbit of information: it will come with a charger, unlike recent flagships including the Galaxy S21 and iPhone 12.
-<a href='https://www.theverge.com/2021/3/8/22319657/oneplus-9-charger-in-box-pete-lau-announcement'> Source <a/>

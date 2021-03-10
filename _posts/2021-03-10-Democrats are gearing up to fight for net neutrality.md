@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lVWkURK2T2XYeyF-4Xygkrblfq8=/0x0:5098x3399/1200x800/filters:focal(2142x1293:2956x2107)/cdn.vox-cdn.com/uploads/chorus_image/image/68938113/1228227467.0.jpg' width='700px' /><br/>
+A new bill to bring back net neutrality is on its way, supported by one of the open internet's most fervent advocates. At an advocacy event last month, Sen. Ed Markey (D-MA) announced that he would be introducing a measure in the next few “weeks” that would engrave the no throttling, block, or paid fast lanes rules into law.
+<a href='https://www.theverge.com/2021/3/9/22321995/net-neutrality-ed-markey-save-the-internet-open-ajit-pai-rosenworcel'> Source <a/>

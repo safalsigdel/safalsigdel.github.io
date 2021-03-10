@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xhc0DL5wBpKQIE9EHtkTO4AgXUQ=/0x0:4961x3307/1200x800/filters:focal(2085x1258:2877x2050)/cdn.vox-cdn.com/uploads/chorus_image/image/68934813/A211150_large.0.jpg' width='700px' /><br/>
-Audi has revealed the interior of its next EV, the Q4 E-Tron, which serves up mostly modern SUV vibes and features a few new technologies making their way into Audi's vehicles.
-<a href='https://www.theverge.com/2021/3/9/22320190/audi-q4-etron-suv-interior-augmented-reality-ar-photos'> Source <a/>
