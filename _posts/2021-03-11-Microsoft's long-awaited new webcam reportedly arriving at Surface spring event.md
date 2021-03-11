@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZBNoYICnAfH0RQVv_LaKFgu1K50=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68940362/vpavic_190404_3378_0068.0.jpg' width='700px' /><br/>
-Microsoft is reportedly planning to release a new webcam this spring. The software giant has previously offered a variety of webcams under its LifeCam brand, but Microsoft hasn't updated these significantly for 10 years. Petri reports that a Surface event will take place this spring, and a new webcam will be on the agenda alongside Microsoft's new Surface Laptop 4.
-<a href='https://www.theverge.com/2021/3/10/22322831/microsoft-surface-webcams-spring-2021-release-rumors'> Source <a/>

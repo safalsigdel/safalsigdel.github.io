@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y02KmJKzE92uoQKKF6PdbhSPcjg=/0x0:892x594/1200x800/filters:focal(375x226:517x368)/cdn.vox-cdn.com/uploads/chorus_image/image/68939864/z9.0.jpg' width='700px' /><br/>
-Nikon has announced development of the Z9, its highest-end mirrorless camera to date and the first in the Z-mount line that the company describes as a flagship. Actual details are thin, but Nikon promises that it will deliver “the best still and video performance in Nikon history” upon release.
-<a href='https://www.theverge.com/2021/3/9/22322684/nikon-z9-flagship-mirrorless-camera-development-announced-2021'> Source <a/>

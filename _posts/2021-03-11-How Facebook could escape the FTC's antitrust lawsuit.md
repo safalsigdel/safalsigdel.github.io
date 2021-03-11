@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GGc9U4C6ShhNxKgsD_NVtgz1WvY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68948517/acastro_180406_1777_facebook_Congress_0001.0.jpg' width='700px' /><br/>
+In December, the Federal Trade Commission voted 3-2 to sue Facebook for illegally maintaining a monopoly in social networking. The lawsuit, which was accompanied by a separate suit joined by 49 US attorneys general, alleges that Facebook used acquisitions and software restrictions on developers to prevent competitors from succeeding.
+<a href='https://www.theverge.com/2021/3/11/22325164/facebook-ftc-antitrust-lawsuit'> Source <a/>

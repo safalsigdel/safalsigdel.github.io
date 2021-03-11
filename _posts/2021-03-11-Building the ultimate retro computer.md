@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1jHNU2URA2GLMYyXO55c71U5LW4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68947941/sbyford_210303_4461_0014.0.jpg' width='700px' /><br/>
+Although I assembled it myself, and its software all comes from an open-source DIY project, in many ways my MiSTer is the most versatile computer I own. It's a shapeshifting wonderbox that can change its own logic to make itself run like countless other machines as accurately as possible. From old arcade boards to early PCs to vintage consoles, MiSTer developers are devoted to helping it turn into an ever-expanding range of hardware.
+<a href='https://www.theverge.com/22323002/mister-fpga-project-retro-computer-console-early-pc'> Source <a/>

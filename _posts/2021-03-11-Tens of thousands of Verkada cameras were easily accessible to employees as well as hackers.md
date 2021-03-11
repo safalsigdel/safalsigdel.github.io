@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4h8ixBK9L78MiHDtVynK9jgUQEk=/0x0:7952x5304/1200x800/filters:focal(3340x2016:4612x3288)/cdn.vox-cdn.com/uploads/chorus_image/image/68947334/Verkada_Camera_Outdoor2.0.jpg' width='700px' /><br/>
+Employees of cloud-based surveillance firm Verkada had widespread access to feeds from customers' cameras, according to new reports from Bloomberg and The Washington Post.
+<a href='https://www.theverge.com/2021/3/11/22324876/surveillance-camera-firm-verkada-breached-hacked-super-admin-access-employees'> Source <a/>

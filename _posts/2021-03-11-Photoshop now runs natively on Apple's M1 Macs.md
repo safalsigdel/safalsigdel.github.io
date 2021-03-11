@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LVc25eCLgxW9LDz1QUbUU3r8abk=/0x0:1200x1158/1200x800/filters:focal(314x347:506x539)/cdn.vox-cdn.com/uploads/chorus_image/image/68941301/959F9708_FDD3_4A17_ACD9_550FE130F90D.0.jpeg' width='700px' /><br/>
-Lightroom was the first Adobe creative app to make the leap to Apple Silicon, and now the much-anticipated release of Photoshop is here. According to the company, Photoshop for M1 Macs completes most tasks 1.5 times faster than when running on Intel. But the speed improvements extend beyond actual editing; Adobe says a lot about Photoshop should now feel faster — including how quickly the app opens up.
-<a href='https://www.theverge.com/2021/3/10/22323016/adobe-photoshop-apple-silicon-m1-now-available'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/boRoF3zOq9ZRGMFeqQ2wQDpgKho=/0x0:2050x1367/1200x675/filters:focal(870x529:1198x857)/cdn.vox-cdn.com/uploads/chorus_image/image/68940448/cfaulkner_210228_4452_0003.0.jpg' width='700px' /><br/>
-It's reductive to refer to the Asus ROG Phone 5 Ultimate as just a phone, even if it is one. Sure, it runs Android 11, and it can take calls, snap pictures, and do all of the other stuff every other phone can do. But if its edgy looks and tiny monochromatic OLED screen mounted on its back didn't already give it away, this phone is different.
-<a href='https://www.theverge.com/22321496/asus-rog-phone-5-ultimate-review-gaming-phone-snapdragon-888-ram-specs-features'> Source <a/>

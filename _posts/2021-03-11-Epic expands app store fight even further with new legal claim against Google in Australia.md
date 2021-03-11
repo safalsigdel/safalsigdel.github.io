@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o7DNBUpKdywe_Dr2QQ3WAcfqgtA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68941699/acastro_20200818_1777_epicApple_0002.0.0.jpg' width='700px' /><br/>
-Epic Games on Wednesday expanded its worldwide legal fight against the dominant mobile app store operators with a new legal claim against Google in Australia. The claim accuses Google of “anti-competitive conduct breaches the Australian Consumer Law” and also accuses the search giant of violating the country's Competition and Consumer Act of 2010.
-<a href='https://www.theverge.com/2021/3/10/22323100/epic-google-australia-legal-claim-fortnite-play-store-antitrust-lawsuit'> Source <a/>

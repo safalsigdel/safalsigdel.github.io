@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j5ZYVYF9mk0OnnWPm7NxpvHkiGA=/0x0:5400x3600/1200x800/filters:focal(2106x1378:2970x2242)/cdn.vox-cdn.com/uploads/chorus_image/image/68944965/1230125095.0.jpg' width='700px' /><br/>
+The glass vial used in the first US COVID-19 vaccination has been acquired by the Smithsonian's National Museum of American History. The museum also acquired related items including the scrubs and vaccination card of Sandra Lindsay, director of critical care nursing at the Long Island Jewish Medical Center who, on December 14th, 2020, became the first person in the US to receive a COVID-19 vaccine.
+<a href='https://www.theverge.com/2021/3/10/22323850/artifacts-first-covid-19-vaccination-smithsonian-museum'> Source <a/>

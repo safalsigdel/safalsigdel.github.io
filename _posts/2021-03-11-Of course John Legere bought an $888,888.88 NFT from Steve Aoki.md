@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DTacziOVaW_Q3Uh0nnsRyu3CFL8=/0x0:912x543/1200x800/filters:focal(550x210:694x354)/cdn.vox-cdn.com/uploads/chorus_image/image/68939233/johnlegere_3.0.jpg' width='700px' /><br/>
-Of course John Legere, the former CEO of T-Mobile, has jumped into NFTs by spending $888,888.88 on one made by Steve Aoki, according to Rolling Stone. It's nice to know he's keeping busy after stepping down from T-Mobile's CEO gig on April 1, 2020.
-<a href='https://www.theverge.com/2021/3/9/22322218/john-legere-buys-steve-aoki-nft'> Source <a/>

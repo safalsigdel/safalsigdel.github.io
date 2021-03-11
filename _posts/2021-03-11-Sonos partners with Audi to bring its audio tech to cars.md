@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lFwdKjoHfge55fB3pSGyLAqhTlE=/626x378:2097x1271/1200x800/filters:focal(1348x708:1732x1092)/cdn.vox-cdn.com/uploads/chorus_image/image/68940450/A211114_overfull.0.jpg' width='700px' /><br/>
-Sonos has partnered with Audi to equip the automaker's Q4 E-Tron with sound, a first for the California-based audio company best known for home speakers. The news was confirmed Tuesday by Sonos CEO Patrick Spence after Audi published images of the Q4 E-Tron's interior showing the Sonos logo. Protocol was first to report the deal.
-<a href='https://www.theverge.com/2021/3/10/22322827/sonos-audi-q4-e-tron-auto-sound-partnership'> Source <a/>

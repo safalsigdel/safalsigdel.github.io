@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vWXs8yq2UVHCvbbpEJxMR7Yd-94=/0x0:2040x1360/1200x800/filters:focal(796x293:1122x619)/cdn.vox-cdn.com/uploads/chorus_image/image/68942726/akrales_180620_1777_0282.0.jpg' width='700px' /><br/>
-Twitter has devised a potential solution to its problematic image cropping issue: no more cropping. The company said on Wednesday it's now testing a “what you see is what you get” image preview within the tweet compose box and experimenting with displaying full-frame images. That way, images will show up in the Twitter timeline looking just as they did when the user was composing the tweet.
-<a href='https://www.theverge.com/2021/3/10/22323298/twitter-image-cropping-preview-problematic-racial-bias-testing-fix'> Source <a/>

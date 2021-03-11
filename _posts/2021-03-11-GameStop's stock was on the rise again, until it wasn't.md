@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vax2LcJ8CDBJKKu-mA6c8_kq80w=/0x0:1000x664/1200x800/filters:focal(420x252:580x412)/cdn.vox-cdn.com/uploads/chorus_image/image/68945713/gamestop-photo.0.jpg' width='700px' /><br/>
+GameStop stock (GME) soared in value on Wednesday, peaking at $348.50 per share. Then, in an event that's definitely not cause for concern, minutes later it lost fully half its value by plummeting to $172, Bloomberg reports. Yes, “stonks” are back, and GameStop is once again in the crosshairs of online amateur investors.
+<a href='https://www.theverge.com/2021/3/10/22323839/gamestop-stock-price-dramatic-rise-fall-stonks-return'> Source <a/>

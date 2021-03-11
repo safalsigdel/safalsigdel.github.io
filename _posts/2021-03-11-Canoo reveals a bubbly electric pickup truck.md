@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0NwX2gB8ughZHdAJ9ebdMSVLxDY=/484x259:1837x1018/1200x800/filters:focal(975x498:1281x804)/cdn.vox-cdn.com/uploads/chorus_image/image/68945841/Canoo_PickupTruck_ExteriorSnow_5.0.jpg' width='700px' /><br/>
+No, that's not a Duplo toy — what you see above (and in the renders below) is the design for a pickup truck from California electric vehicle startup Canoo.
+<a href='https://www.theverge.com/2021/3/10/22324096/canoo-goev-ev-pickup-truck-specs-photos-revealed'> Source <a/>

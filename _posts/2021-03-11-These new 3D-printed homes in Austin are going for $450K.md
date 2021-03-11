@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e4UXmXDMp_uS1d48vp6q7sxv4VU=/0x0:2500x1410/1200x800/filters:focal(1050x505:1450x905)/cdn.vox-cdn.com/uploads/chorus_image/image/68948805/3Strands_and_ICON_3D_Printed_Homes_AustinTX_2021_Exterior_2_Credit_LoganArchitecture.0.jpeg' width='700px' /><br/>
+When it showed off its 3D-printed homes at the South by Southwest festival back in 2018, Austin-based construction technology company ICON told The Verge its Vulcan printer could create an 800-square-foot structure for about $10,000. It seemed like only a matter of time before higher-end 3D-printed homes became a reality.
+<a href='https://www.theverge.com/2021/3/11/22325004/new-3d-printed-homes-austin-price-icon-housing'> Source <a/>

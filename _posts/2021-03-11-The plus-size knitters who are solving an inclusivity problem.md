@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HEQEZOyA4qFOM1CZYwxUIPntc24=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68941044/VRG_ILLO_4422_DIY_KnittingCommunity.0.jpg' width='700px' /><br/>
-Fifteen years since first learning to knit, Petrina Hicks has only ever made sweaters for other people. There was one cardigan attempt back in 2015, but they had to make so many modifications that the end product was frumpy and ill-fitting. Hicks didn't have the luxury to be picky: the cardigan was the only sweater pattern they could find above an XL or XXL.
-<a href='https://www.theverge.com/22309480/knitters-plus-size-crowdsourcing-social-media-inclusivity-design'> Source <a/>

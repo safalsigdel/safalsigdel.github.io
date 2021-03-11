@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_z5IHWQBxwQUfzfglBqiYfP7S9E=/0x0:3000x2000/1200x800/filters:focal(972x44:1452x524)/cdn.vox-cdn.com/uploads/chorus_image/image/68944943/1298998015.0.jpg' width='700px' /><br/>
+AMC Theaters reported another jarring but predictable loss in its fourth quarter earnings, but the company's CEO is optimistic that the theater chain will make it out of the pandemic alright.
+<a href='https://www.theverge.com/2021/3/10/22324053/amc-theaters-earnings-fourth-quarter-stock-movies-vaccine-streaming'> Source <a/>
