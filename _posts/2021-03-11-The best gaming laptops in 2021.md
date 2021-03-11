@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8G8_xhE6T_DfeX5N_RcKzFWvhqQ=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68856651/akrales_210226_4440_0019.5.jpg' width='700px' /><br/>
-Our pick for the best gaming laptop of 2021 is the Asus ROG Zephyrus G15. It can handle the most demanding games on the market today and also makes a great daily driver.
-<a href='https://www.theverge.com/22295181/best-gaming-laptop'> Source <a/>

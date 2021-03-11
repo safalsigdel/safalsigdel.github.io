@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vUQSRez0df7-sdIUsmV66hZXlWs=/0x0:3000x2250/1200x800/filters:focal(1260x885:1740x1365)/cdn.vox-cdn.com/uploads/chorus_image/image/68949189/GMEVDay04.0.jpeg' width='700px' /><br/>
+General Motors announced a new joint venture with SolidEnergy Systems, a spinoff of the Massachusetts Institute of Technology that is focused on improving the energy density in lithium-ion batteries. The two companies plan on building a test facility in Woburn, Massachusetts, for a high-capacity preproduction battery by 2023.
+<a href='https://www.theverge.com/2021/3/11/22325241/gm-electric-vehicle-battery-range-cost-solid-energy'> Source <a/>

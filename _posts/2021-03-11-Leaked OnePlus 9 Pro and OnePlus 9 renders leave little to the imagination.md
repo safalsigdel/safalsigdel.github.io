@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8yxQeIUZgJ4rxMqI11D3o6CKlX0=/0x0:1920x1080/1200x800/filters:focal(859x447:1165x753)/cdn.vox-cdn.com/uploads/chorus_image/image/68945214/oneplus_leak.0.jpg' width='700px' /><br/>
-We have a very clear picture of what the upcoming OnePlus 9 and 9 Pro will look like thanks to WinFuture — the site has published a whole bunch of official press renders of the upcoming phones well ahead of the March 23rd launch. We got our first official look at the upcoming flagship in a teaser video from OnePlus earlier this week, but this latest leak features both regular and Pro models from multiple angles in a variety of colors.
-<a href='https://www.theverge.com/2021/3/10/22323979/oneplus-9-pro-leak-images-hasselblad-camera'> Source <a/>
