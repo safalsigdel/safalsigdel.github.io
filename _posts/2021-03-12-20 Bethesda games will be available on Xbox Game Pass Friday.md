@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/dZzsQFhAlKIeeg6Zx3mt0ykPBZg=/0x0:1126x750/1200x800/filters:focal(473x285:653x465)/cdn.vox-cdn.com/uploads/chorus_image/image/68949767/xboxbethesdagamepass.5.jpg' width='700px' /><br/>
-Microsoft finalized its Bethesda acquisition earlier this week, and now the company is revealing which existing games will appear on Xbox Game Pass. In total 20 Bethesda titles will appear in Xbox Game Pass tomorrow, including Dishonored, Doom, The Elder Scrolls, Fallout, and Wolfenstein.
+Microsoft finalized its Bethesda acquisition earlier this week, and now the company is revealing which existing games will appear on Xbox Game Pass. In total 20 Bethesda titles will appear in Xbox Game Pass on Friday, including Dishonored, Doom, The Elder Scrolls, Fallout, and Wolfenstein.
 <a href='https://www.theverge.com/2021/3/11/22325044/microsoft-xbox-game-pass-bethesda-games-list'> Source <a/>
