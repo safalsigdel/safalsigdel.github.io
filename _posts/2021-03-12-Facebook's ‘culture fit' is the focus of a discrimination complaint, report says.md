@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KBvsXVyDshpk89fO9hZcWxvROH8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68952282/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
+A Black woman who interviewed at Facebook last year says she was told the company was “looking for a culture fit” before being rejected, according to The Intercept. She's now one of four people who've recently complained to the Equal Employment Opportunity Commission (EEOC) about allegedly racist hiring and promotion practices at the tech giant.
+<a href='https://www.theverge.com/2021/3/11/22326097/facebook-hiring-discrimination-black-applicants-culture-fit'> Source <a/>

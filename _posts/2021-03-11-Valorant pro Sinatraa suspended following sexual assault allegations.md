@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/91RbbKnT2w1iOVCf9-BZGt5nQJQ=/0x0:957x562/1200x800/filters:focal(403x205:555x357)/cdn.vox-cdn.com/uploads/chorus_image/image/68944073/unnamed.0.png' width='700px' /><br/>
-Jay “Sinatraa” Won, one of the biggest names in competitive Valorant, has been suspended from the game and by his team following accusations of sexual assault. In a statement posted on Tuesday, Cleo Hernandez posted a lengthy account of her nine-month-long relationship with Won, detailing a disturbing history of physical and emotional abuse, supported by audio recordings and screenshots of messages.
-<a href='https://www.theverge.com/2021/3/10/22323695/jay-sinatraa-won-valorant-suspended-sexual-assault-allegations'> Source <a/>

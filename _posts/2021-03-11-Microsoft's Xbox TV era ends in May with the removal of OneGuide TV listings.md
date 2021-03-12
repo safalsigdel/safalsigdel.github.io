@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dHXmIStaLSc7U83A2OPvRs31vmw=/0x0:838x554/1200x800/filters:focal(352x210:486x344)/cdn.vox-cdn.com/uploads/chorus_image/image/68947386/xboxtv.10.jpg' width='700px' /><br/>
-Microsoft is removing its TV listings feature on the Xbox One in May. Originally introduced as part of its broad ambitions to take over the living room, the OneGuide TV listings on Xbox One was designed to overlay on top of your cable box and provide a better way to access content. You could also combine the feature with an Xbox USB TV tuner to access free-to-air TV channels.
-<a href='https://www.theverge.com/2021/3/11/22324892/microsoft-xbox-one-oneguide-tv-listings-end-may-2021'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HzCc2jMTOkiUtEc2G0HXOKcSxa4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68948733/rebekkaDunlap_210308_4419_0001.0.jpg' width='700px' /><br/>
-Almost exactly one year ago, Theo Hendrie thought he might have to drop out of school. His partner had lost his job, and they were struggling to pay bills and make ends meet. He worried that X Marks The Spot, his newly released anthology, might be the only creative project that he'd ever be able to complete. And then, at just the right time, Tuck Woodstock's Gender Reveal mutual aid program came through.
-<a href='https://www.theverge.com/22303892/queer-care-networks-online-queercare-for-the-gworls-transanta'> Source <a/>

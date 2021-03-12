@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-A7NaHlYDcNqBqppRh1r-sATUVU=/0x0:920x613/1200x800/filters:focal(387x234:533x380)/cdn.vox-cdn.com/uploads/chorus_image/image/68948551/wombo.0.jpg' width='700px' /><br/>
-You've probably already seen a Wombo video floating around your social media. Maybe it was Ryu from Street Fighter singing the “Witch Doctor” or the last three heads of the US Federal Reserve miming in unison to Rick Astley's “Never Going to Give You Up.” Each clip features exaggerated facial expressions and uncanny, sometimes nightmarish animation. They're stupid, fun, and offer a useful look at the current state of deepfakes.
-<a href='https://www.theverge.com/2021/3/11/22323271/wombo-ai-memes-deepfake-app-lip-sync'> Source <a/>

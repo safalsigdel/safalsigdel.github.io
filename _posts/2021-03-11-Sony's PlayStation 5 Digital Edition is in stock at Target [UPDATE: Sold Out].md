@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RxKvQGJoBvm0kv9TMzDkS_IrvR0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68947658/vpavic_4278_20201030_0292.0.jpg' width='700px' /><br/>
-If you missed the restock for the $500 PS5 with a disc drive earlier this morning, Target has now restocked the PS5 Digital Edition, while supplies last.
-<a href='https://www.theverge.com/2021/3/11/22323661/sony-playstation-5-digital-edition-restock-target'> Source <a/>

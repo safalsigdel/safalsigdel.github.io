@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YdCKe2qQy-Mo0o2ehOp5PBNtQ2w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68947569/DSCF7577.0.jpg' width='700px' /><br/>
-After a drawn-out series of leaks and teases, Oppo has announced its 2021 flagship in full. The Find X3 Pro is a sleek, powerful phone with an unusual design and some unique features to match. It's also an important device for Oppo, which recently overtook Huawei in the Chinese smartphone market and will be looking to capitalize on its rival's troubles this year.
-<a href='https://www.theverge.com/2021/3/11/22324860/oppo-find-x3-pro-flagship-announced-10-bit-microlens-specs'> Source <a/>

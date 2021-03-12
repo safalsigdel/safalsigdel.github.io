@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OXG5RHtkLV5kxGMa3ib-LHIQLyk=/0x0:1920x904/1200x800/filters:focal(807x299:1113x605)/cdn.vox-cdn.com/uploads/chorus_image/image/68947695/Password_Changer.0.png' width='700px' /><br/>
-Password manager Dashlane is introducing a rebuilt version of its its one-click password changer in beta, the company announced today. With the click of a button, Dashlane's password changer can update your passwords on supported sites without requiring you to visit the site and change your credentials yourself.
-<a href='https://www.theverge.com/2021/3/11/22320467/dashlane-one-click-password-changer-autofill-machine-learning'> Source <a/>

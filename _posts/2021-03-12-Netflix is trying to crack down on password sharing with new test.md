@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n5BsWIYVsEZojTkHfQVMQo8e0gY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68950936/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+Netflix has more than 200 million subscribers around the world, and now the company is looking at ways to curb password sharing for both business and security reasons.
+<a href='https://www.theverge.com/2021/3/11/22325831/netflix-password-sharing-test-feature-piracy-security-streaming-video'> Source <a/>

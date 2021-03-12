@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wXPPMszVofxF8Y5FeVBtgbcSXos=/0x614:3775x2862/1200x800/filters:focal(1956x1059:2700x1803)/cdn.vox-cdn.com/uploads/chorus_image/image/68949722/_Photo_3__STARIA_Premium_EXT.5.jpg' width='700px' /><br/>
+Minivans are pretty much dead in the US, but Hyundai's new Staria looks so slick that it makes me believe there could be a revival some day soon.
+<a href='https://www.theverge.com/2021/3/11/22325547/hyundai-staria-minivan-photos-mpv-retro-futuristic'> Source <a/>

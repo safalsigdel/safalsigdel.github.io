@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/widJSBqlXYPWbKlN-oo1r0o_BXc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68948541/dbohn_201109_4283_0004.0.0.jpg' width='700px' /><br/>
-At $129, Apple's MagSafe Duo charger is an expensive accessory. But if you are looking to buy this charger at a more reasonable price, Best Buy has knocked $29 off the MagSafe Duo today, bringing the price down to $100.
-<a href='https://www.theverge.com/good-deals/2021/3/11/22325027/apple-magsafe-duo-charger-watch-sport-samsung-galaxy-buds-live-deal-sale'> Source <a/>

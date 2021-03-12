@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B3BSSZTCT284eBfFBcFg9FZgrN0=/0x0:5405x3040/1200x800/filters:focal(2271x1088:3135x1952)/cdn.vox-cdn.com/uploads/chorus_image/image/68947422/Screenshot_20210311_101409.0.jpg' width='700px' /><br/>
-Chrome's Android app now lets you preview a webpage before committing to clicking on a link, 9to5Google reports. The feature appears to have been enabled via a server-side update to version 89 of the browser, and can be accessed by long-pressing on a link and then tapping “Preview page.” It seems to be Android-only for the time being.
-<a href='https://www.theverge.com/2021/3/11/22324883/chrome-android-link-preview-sneak-peek'> Source <a/>

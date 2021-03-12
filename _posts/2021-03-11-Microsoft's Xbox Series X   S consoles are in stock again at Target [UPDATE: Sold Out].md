@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sFUgVGyCyDZBurfhxyta3yLLfl0=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/68948042/twarren_200909_4177_0030.0.0.jpg' width='700px' /><br/>
-Microsoft's Xbox Series X and Series S consoles are some of the most sought-after consoles to buy right now. Those looking for another shot to get either console can buy one right now at Target. You will have the option to pay for either console in full or through Xbox All Access, allowing you to get either console upfront at no cost.
-<a href='https://www.theverge.com/2021/3/11/22323662/xbox-series-x-s-restock-target-price-game-pass-controller'> Source <a/>

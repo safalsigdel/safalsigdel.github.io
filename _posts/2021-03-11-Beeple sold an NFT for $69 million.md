@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qi6L2dYC2T_879sjDmdfrfvhAiQ=/0x0:3000x3000/1200x800/filters:focal(1260x1260:1740x1740)/cdn.vox-cdn.com/uploads/chorus_image/image/68948366/2021_NYR_20447_0001_001_beeple_everydays_the_first_5000_days034733_.0.jpg' width='700px' /><br/>
-Until October, the most Mike Winkelmann — the digital artist known as Beeple — had ever sold a print for was $100.
-<a href='https://www.theverge.com/2021/3/11/22325054/beeple-christies-nft-sale-cost-everydays-69-million'> Source <a/>
