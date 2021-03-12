@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/flTrK545nDwry1A8krpLWsPbspI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68949136/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook has always been a company focused on growth above all else. More users and more engagement equals more revenue. The cost of that single-mindedness is spelled out clearly in this brilliant story from MIT Technology Review. It details how attempts to tackle misinformation by the company's AI team using machine learning were apparently stymied by Facebook's unwillingness to limit user engagement.
-<a href='https://www.theverge.com/2021/3/11/22325355/facebook-growth-ai-go-read-this-ethics-misinformation-bias'> Source <a/>
