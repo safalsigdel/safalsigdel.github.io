@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/43E40KefCUut6eNRLI6UsY2TOKs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68954159/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
+Google has detailed the efficiency improvements it made with Chrome 89, the latest version of its browser released earlier this month. Depending on whether you're using the browser on Windows, macOS, or Android, Google says the browser should use less resources, launch quicker, and feel more responsive to use. There's no mention of any improvements specifically for users on iOS.
+<a href='https://www.theverge.com/2021/3/12/22326952/google-chrome-89-resource-efficiency-memory-hog-startup-speed-improvements'> Source <a/>
