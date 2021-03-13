@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JQiYY8xWqyUNGmxJ_PC0-TBy-ZA=/0x0:5000x3333/1200x800/filters:focal(3397x1520:4197x2320)/cdn.vox-cdn.com/uploads/chorus_image/image/68949997/Polestar2_US_Launch_0027.0.jpg' width='700px' /><br/>
-It's a fundamental rule of the road: driver picks the music.
-<a href='https://www.theverge.com/2021/3/11/22325579/spotify-group-sessions-polestar-2-android-automotive-car'> Source <a/>

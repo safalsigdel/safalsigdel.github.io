@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2teJjqWwR2P4Hb0EgBHv5BBl9yI=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68959002/VRG_ILLO_4148_003.0.jpg' width='700px' /><br/>
+Many of us here at The Verge are big fans of emoji reactions in Slack, and today we noticed that our newsroom's Slack now groups emoji reactions with different skin tones into one mass reaction. The feature is now rolling out to everyone, the company tells The Verge.
+<a href='https://www.theverge.com/2021/3/12/22328156/slack-groups-emoji-reactions-different-skin-tones-inclusivity'> Source <a/>

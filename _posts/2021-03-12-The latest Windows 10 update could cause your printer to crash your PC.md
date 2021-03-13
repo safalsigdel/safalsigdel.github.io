@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fBuQgrV3ZrEFccLvwYYEw7ndJd0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68952062/mchin_181225_4219_0006.0.0.jpg' width='700px' /><br/>
-The latest Windows update has been causing problems for some printer owners, according to a report from Windows Latest (via Gizmodo). Users are reporting that they're getting a blue screen when they try to open the print dialogue from Notepad, Office, or other programs. (You know that annoyingly ambiguous error message that's like “Your PC ran into a problem and needs to restart”? It's that one.)
-<a href='https://www.theverge.com/2021/3/11/22326083/windows-10-security-update-bug-printer-crash-kyocera-ricoh-zebra-microsoft'> Source <a/>

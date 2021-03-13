@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Four years ago yesterday, a meme was born: professor Robert Kelly, who will be forever known as “BBC Dad,” had the gall to get interrupted by his kids during a live video interview broadcast around the world.
-<a href='https://www.theverge.com/tldr/2021/3/11/22325564/bbc-dad-kids-interrupt-zoom-video-call-anniversary-covid-19-pandemic'> Source <a/>

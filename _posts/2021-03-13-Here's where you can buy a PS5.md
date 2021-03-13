@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K-yujrt8GZ6ZtW6KrV2Pv6PphgI=/0x0:1024x683/1200x1200/filters:focal(512x342:513x343)/cdn.vox-cdn.com/uploads/chorus_asset/file/22017052/ps5_all_digital.jpg' width='700px' /><br/>
+Update March 12th, 2021 3:55PM ET: Best Buy currently has both the PS5 Digital Edition and PS5 consoles in stock and available for purchase. But you can only request a pickup at your local store and cannot have the console shipped to your home address.
+<a href='https://www.theverge.com/22323257/sony-playstation-5-ps5-in-stock-digital-disk-edition-where-buy'> Source <a/>

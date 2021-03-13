@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+I have been listening to robot-made music all week. No, not Daft Punk, but randomly generated music posted every hour by a Twitter bot, @MelodyBot3456. As you'd expect from auto-generated music, the short songs (if you can call them that) are often bizarre and regularly veer in unexpected and hilarious directions.
+<a href='https://www.theverge.com/tldr/2021/3/12/22327417/robot-twitter-composer-randomly-generated-music-melodybot'> Source <a/>

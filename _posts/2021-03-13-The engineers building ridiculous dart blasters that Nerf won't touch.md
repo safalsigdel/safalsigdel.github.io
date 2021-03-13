@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PxUFaaUMSATENeFS7e5sKZcVPUo=/0x0:2040x1366/1200x675/filters:focal(839x191:1165x517)/cdn.vox-cdn.com/uploads/chorus_image/image/68955706/ajucevic_210225_4416_0029.0.jpg' width='700px' /><br/>
+It was a beautiful summer day in San Jose, California, perfect for pegging people with foam. My brother was particularly proud: he'd already been getting some great tags with his Nerf revolver, and now some guy had sold him a nifty 3D-printed cylinder so it could hold seven darts instead of five. I wanted one, too.
+<a href='https://www.theverge.com/22324389/nerf-gun-diy-homemade-blaster-out-of-darts-jupiter-caliburn-captain-slug-hasbro'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O-yZ7GR54-yk3bIjKWINavv226k=/0x0:1020x681/1200x800/filters:focal(429x260:591x422)/cdn.vox-cdn.com/uploads/chorus_image/image/68951587/gogo-internet-logo-stock1_1020.1419980305.0.jpg' width='700px' /><br/>
-Gogo will be delaying the rollout of its 5G network, pushing it back from 2021 to 2022. According to LightReading, the global chip shortage is to blame for the delay, though Gogo didn't provide any direct details about how the shortage was setting it back.
-<a href='https://www.theverge.com/2021/3/11/22325999/gogo-5g-network-delay-chip-shortage'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tYU-STgEc-Syhb13Wd3AMXUDccU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68956134/acastro_171002_1777_0004_v1.0.jpg' width='700px' /><br/>
+Teaching AI systems to understand what's happening in videos as completely as a human can is one of the hardest challenges — and biggest potential breakthroughs — in the world of machine learning. Today, Facebook announced a new initiative that it hopes will give it an edge in this consequential work: training its AI on Facebook users' public videos.
+<a href='https://www.theverge.com/2021/3/12/22326975/facebook-training-ai-public-videos-digital-memories'> Source <a/>

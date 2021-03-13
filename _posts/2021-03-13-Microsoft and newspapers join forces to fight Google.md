@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YJdWRHVC87sfc57dD1oxQJQBX6g=/0x0:5277x3518/1200x800/filters:focal(2217x1337:3061x2181)/cdn.vox-cdn.com/uploads/chorus_image/image/68956685/1231667961.0.jpg' width='700px' /><br/>
+Over the last decade, hundreds of newspapers have disappeared largely due to Big Tech's disruption of the ad market. Republicans and Democrats can't agree on much when it comes to tech reform, whether it be content moderation or spinning off acquisitions, but they do seem to agree that local journalism needs saving.
+<a href='https://www.theverge.com/2021/3/12/22327661/microsoft-google-cicilline-antitrust-committee-bill-klobuchar-buck-kennedy'> Source <a/>

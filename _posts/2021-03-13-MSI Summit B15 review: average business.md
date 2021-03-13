@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nAhEDaplG0Jx30Q6XNkOsrxZAI8=/0x0:2040x1360/1200x800/filters:focal(839x562:1165x888)/cdn.vox-cdn.com/uploads/chorus_image/image/68956308/mchin_190604_4465_0001.0.jpg' width='700px' /><br/>
+This year, multiple companies primarily known for gaming laptops have been branching out into the portable business and productivity sector. It's a crowded field already, but Razer made quite a splash with its excellent Razer Book 13, which has an elegant chassis, a 16:10 screen, and just a touch of its company's signature RGB lighting.
+<a href='https://www.theverge.com/22327287/msi-summit-series-b15-review-chassis-build-keyboard-speakers'> Source <a/>

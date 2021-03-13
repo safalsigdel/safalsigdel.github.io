@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6gs-2PFSS633HqFX62RwK8DbFQE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68950941/acastro_180130_1777_0005.0.jpg' width='700px' /><br/>
-Apple is suing Simon Lancaster, a former product design architect at the company, accusing him of selling trade secrets and details on unreleased Apple products to an unnamed media correspondent. Lancaster apparently did this in hopes of gaining publicity for his next venture after leaving Apple. AppleInsider first reported on the legal filing.
-<a href='https://www.theverge.com/2021/3/11/22325827/apple-lawsuit-macbook-designer-simon-lancaster-trade-secrets-leaks'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZLtDrcCHiPSiXwc54EzzSnxePOk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68959073/jbareham_180202_2266_0178.0.jpg' width='700px' /><br/>
+Apple is discontinuing the original, full-size HomePod and will now focus its speaker efforts on the HomePod mini, the company told TechCrunch on Friday evening.
+<a href='https://www.theverge.com/2021/3/12/22328436/apple-discontinues-original-homepod-mini'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kMHjSqo_pGom8XyAkIUjeLIqKBY=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/68950318/1227939563.jpg.0.jpg' width='700px' /><br/>
-Uber and Lyft announced a “first-of-its-kind” effort to share information about drivers who were deactivated for committing serious offenses, including physical and sexual assault and murder.
-<a href='https://www.theverge.com/2021/3/11/22325675/uber-lyft-driver-deactivate-assault-murder-share-safety'> Source <a/>

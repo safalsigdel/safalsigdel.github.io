@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2wkiaNrjOf7_uLjgcN7atD4S4bg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68955866/cgartenberg_201022_4254_0002.0.0.jpg' width='700px' /><br/>
+LG's German website has revealed its Android 11 update roadmap — at least for Europe — and the news isn't too encouraging. With the exception of the LG Velvet 5G, most of the company's phones won't get Android 11 until the back half of 2021, with the vast majority of devices not seeing the update until at least Q4 2021 (long after Android 12 should be available, if Google's release schedule is similar this year).
+<a href='https://www.theverge.com/2021/3/12/22327144/lg-android-11-software-update-wing-phones-mobile-q4-2021'> Source <a/>

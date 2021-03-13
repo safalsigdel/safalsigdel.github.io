@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9WoRxsBIcv1Ki2nCY44PQIIQGmU=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67005649/budsguide.5.jpg' width='700px' /><br/>
-The true wireless earbuds market has never been more crowded than it is in 2021. With so many to choose from, finding the best earbuds can seem daunting. But the vast selection is actually a good thing: not only are there excellent picks for everyday buds to carry in your pocket, but you've also got a slew of options that prioritize things like noise cancellation, fitness, lengthy battery life, and comfort.
-<a href='https://www.theverge.com/21309820/best-wireless-earbuds'> Source <a/>

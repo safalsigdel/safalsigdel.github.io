@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/93T9YFGVKpgfWrcCwrSsWm9VQnc=/0x0:1024x683/1200x800/filters:focal(465x295:627x457)/cdn.vox-cdn.com/uploads/chorus_image/image/68959189/2012-03-23_13-44-49-1024.0.jpg' width='700px' /><br/>
+Tillie Kottmann, a 21-year-old hacker, has been raided by Swiss authorities and their devices seized, Bloomberg reports — days after helping to reveal how Silicon Valley security startup Verkada's own security was so poor that that hackers were able to access over 150,000 of the company's cameras to see the insides of schools, jails, hospitals, police stations, and Tesla factories.
+<a href='https://www.theverge.com/2021/3/12/22328344/tillie-kottmann-hacker-raid-switzerland-verkada-cameras'> Source <a/>

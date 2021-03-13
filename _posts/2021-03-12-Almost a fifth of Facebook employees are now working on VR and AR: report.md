@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IVnFF-wsoFrddJF0qBUhBZlUHl8=/0x0:2040x1360/1200x800/filters:focal(1474x543:1800x869)/cdn.vox-cdn.com/uploads/chorus_image/image/68954015/akrales_200904_4160_0158.0.0.jpg' width='700px' /><br/>
-Facebook has nearly 10,000 employees in its division working on augmented reality and virtual reality devices, according to a report in The Information based on internal organizational data. The number means the Reality Labs division accounts for almost a fifth of the people working at Facebook worldwide.
-<a href='https://www.theverge.com/2021/3/12/22326875/facebook-reality-labs-ar-vr-headcount-report'> Source <a/>

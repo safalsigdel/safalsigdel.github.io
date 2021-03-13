@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Fnkizx951-bxHF9gOlErh4aDavM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68951862/mdoying_180308_1437_0082still.0.jpg' width='700px' /><br/>
-Spotify is making a podcast about its own history, and the first two episodes are well worth a listen for the details on the jump from piracy to streaming, how the company decided to build its business, and the technical details of how it did so. There are also some fun interviews included, with the podcast featuring stories from Sean Parker, inventor of Napster, and Lars Ulrich of Metallica.
-<a href='https://www.theverge.com/2021/3/11/22325780/spotify-podcast-a-product-story-streaming-music-history-itunes'> Source <a/>

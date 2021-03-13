@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R8_B9_gz3sWpP4-yWQQD6Eyp_0g=/0x0:4671x3114/1200x800/filters:focal(1963x1184:2709x1930)/cdn.vox-cdn.com/uploads/chorus_image/image/68956486/EnduranceDetail10.0.jpg' width='700px' /><br/>
+General Motors-backed EV startup Lordstown Motors has been accused of fabricating some of the 100,000 preorders for its forthcoming Endurance electric pickup and misleading investors, the public, and government regulators about how much progress it's made in developing the truck.
+<a href='https://www.theverge.com/2021/3/12/22327207/general-motors-lordstown-hindenburg-short-electric-truck-orders'> Source <a/>
