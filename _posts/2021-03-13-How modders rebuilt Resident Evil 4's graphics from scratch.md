@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/txewvdac7YUn0yUvL5CaPPPCc6c=/0x0:3240x2160/1200x800/filters:focal(1361x821:1879x1339)/cdn.vox-cdn.com/uploads/chorus_image/image/68955353/re4hdprojectlede.0.jpg' width='700px' /><br/>
-Albert Marin has taken some very specific vacations. In Wales, he visited Raglan Castle to snap pictures of its stone wall. At the Palau Gxc3xbcell in Barcelona, he took meticulous photos, not of the building itself, but of the marble floor and its unique veins.
-<a href='https://www.theverge.com/22309983/resident-evil-4-hd-project-remake-remaster-mod-pc-textures-graphics'> Source <a/>

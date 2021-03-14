@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zpZdTmedPpWHFLzBOo3n2Y5CAu8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68955716/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google and Microsoft engineers might collaborate on the Chromium browser code, but that hasn't stopped corporate politics between the pair. Google has launched a scathing attack on Microsoft today, accusing it of trying “to break the way the open web works in an effort to undercut a rival.”
-<a href='https://www.theverge.com/2021/3/12/22327306/google-microsoft-attack-open-web-online-news-australia-laws'> Source <a/>

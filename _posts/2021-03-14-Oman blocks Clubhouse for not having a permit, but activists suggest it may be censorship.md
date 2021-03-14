@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aRyRKrlk_axYZu6sgJAJdNzst1M=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/68963256/1231631217.0.jpg' width='700px' /><br/>
+The middle eastern country of Oman has blocked the Clubhouse voice chat app saying it lacked the proper permit to operate, as some activists raised concerns that it was an act of censorship, Reuters reported.
+<a href='https://www.theverge.com/2021/3/14/22329983/oman-blocks-clubhouse-app-privacy-censorship'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RI9hLerc_WHj-GxGnufMkt9gH28=/0x0:1000x563/1200x800/filters:focal(420x202:580x362)/cdn.vox-cdn.com/uploads/chorus_image/image/68961616/tubi.0.png' width='700px' /><br/>
+Free streaming platform Tubi has plans to branch out into original programming, Bloomberg reports, citing sources familiar with the company's plans. The streamer will likely start with original movies, but is also exploring episodic TV shows, and is speaking with potential advertisers about partnerships, the report states.
+<a href='https://www.theverge.com/2021/3/13/22329368/tubi-streaming-original-programming-fox'> Source <a/>

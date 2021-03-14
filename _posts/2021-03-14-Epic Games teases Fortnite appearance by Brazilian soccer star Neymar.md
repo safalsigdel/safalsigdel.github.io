@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bJUvtN6LK_v2Eb1D4_WlMzuChLw=/0x0:5536x3419/1200x800/filters:focal(2326x1268:3210x2152)/cdn.vox-cdn.com/uploads/chorus_image/image/68963354/1228049811.0.jpg' width='700px' /><br/>
+Epic Games and Brazilian soccer player Neymar are teasing a likely appearance by the star athlete in Fortnite on March 16th, with clues coming via a couple of tweets. Eurogamer first reported the news, including a video tweeted from the Epic Games account showing Neymar's No. 10 jersey. Neymar retweeted the video with the “eyes” emoji— not exactly confirmation, but another clue that something is brewing.
+<a href='https://www.theverge.com/2021/3/14/22330003/epic-games-fortnite-brazilian-soccer-star-neymar'> Source <a/>

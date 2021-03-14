@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JM9qD6RqbEiQYuchH730y7bCAss=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68960785/acastro_180430_1777_tesla_0003.0.jpg' width='700px' /><br/>
+After it reopened in defiance of health department orders last May, Tesla's plant in Fremont, California saw 450 cases of COVID-19 through December 2020, new data from legal website PlainSite shows (via The Washington Post).
+<a href='https://www.theverge.com/2021/3/13/22329041/tesla-450-cases-coronavirus-fremont-california-coronavirus-elon-musk'> Source <a/>

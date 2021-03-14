@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-Woot has discounted Samsung's Galaxy Note 20 line today, with up to $500 in savings available depending on which phone you buy. You can buy the Galaxy Note 20, which comes in mystic green and features 8GB of RAM and a 6.7-inch 1080p LCD screen for only $600. Alternatively, you can get the Galaxy Note 20 Ultra for $200 more, which comes in mystic bronze and features 12GB of RAM and a 6.9-inch 1440p OLED screen.
-<a href='https://www.theverge.com/good-deals/2021/3/12/22327067/samsung-galaxy-note-20-western-digital-14tb-external-hard-drive-deal-sale'> Source <a/>
