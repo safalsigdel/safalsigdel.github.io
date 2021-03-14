@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jThEoBTBPldds_Rvi7Dh8_KR8fI=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/68963487/8476624791_ac7a5a8357_b.0.0.jpg' width='700px' /><br/>
+It's Pi Day, the nerdiest of holidays because it's all about a mathematical constant that represents the ratio of a circle's circumference to its diameter (yes, sometimes writing majors do pay attention in geometry class). March 14th has become known as Pi Day because it's written numerically as 3.14 and pi starts at 3.14 ... and goes on indefinitely. Irrational number, indeed.
+<a href='https://www.theverge.com/2021/3/14/22330036/pi-day-google-calculator-math'> Source <a/>

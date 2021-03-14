@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kfsnIeqledFzsIM9tKGMH9FErU8=/0x0:1600x1066/1200x800/filters:focal(864x221:1120x477)/cdn.vox-cdn.com/uploads/chorus_image/image/68955902/Sir_Tim_Berners-Lee.0.0.jpg' width='700px' /><br/>
-Tim Berners-Lee, the inventor of the world wide web, writes in a new post on the internet's 32nd anniversary that governments must work to ensure global broadband access by the year 2030 in order to bridge the digital divide and better hold tech companies accountable.
-<a href='https://www.theverge.com/2021/3/12/22327246/tim-berners-lee-world-wide-web-internet-access-basic-right'> Source <a/>
