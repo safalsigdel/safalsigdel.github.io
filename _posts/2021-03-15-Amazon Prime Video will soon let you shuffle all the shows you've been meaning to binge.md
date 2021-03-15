@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m9MJ3jsSqqzmwlkY0JQ4a3lHtgw=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68957808/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
-Amazon is updating its Prime Video app to include a new feature: the ability to play episodes of a show on shuffle (via Android Central). This feature could make it easier for people who just want to watch a sitcom without having to actually pick an episode. Clicking the button should just start playing episodes in a random order.
-<a href='https://www.theverge.com/2021/3/12/22327850/amazon-shuffle-button-prime-video-app-android'> Source <a/>

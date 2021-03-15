@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uPtJBK-XSVSzPYAg0UeqlM8uBpw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68957247/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
-Microsoft is going to adjust its release cycles for Microsoft Edge to match the every-four-weeks release cadence for Chrome that Google announced last week.
-<a href='https://www.theverge.com/2021/3/12/22327832/microsoft-edge-browser-google-chrome-release-cycle'> Source <a/>
