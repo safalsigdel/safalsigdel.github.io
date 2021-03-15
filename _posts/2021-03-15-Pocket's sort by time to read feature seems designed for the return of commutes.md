@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CKHCEmrMliYmeAj2QYs9hwuZ620=/70x70:1225x714/1200x800/filters:focal(359x232:601x474)/cdn.vox-cdn.com/uploads/chorus_image/image/68957098/Screen_Shot_2021_03_12_at_10.19.39_AM.0.png' width='700px' /><br/>
-Pocket, an app for saving articles to read later, is rolling out a sorting option to Android users over the next few weeks that could solve my paralysis when choosing something to read. The new sort by time-to-read feature, spotted by The Verge's Dan Seifert, means articles can be organized where they fit best, whether it's the five minutes it takes to microwave lunch, or a 20-minute wait for the late bus.
-<a href='https://www.theverge.com/2021/3/12/22327497/pocket-app-sort-by-reading-time-work-commute'> Source <a/>
