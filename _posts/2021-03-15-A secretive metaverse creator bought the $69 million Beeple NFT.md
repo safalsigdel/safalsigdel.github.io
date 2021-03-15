@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dQW16-wsk3C0aWKLeWmd_qt6-dM=/0x0:3000x3000/1200x800/filters:focal(1260x1260:1740x1740)/cdn.vox-cdn.com/uploads/chorus_image/image/68956799/2021_NYR_20447_0001_001_beeple_everydays_the_first_5000_days034733_.0.jpg' width='700px' /><br/>
-MetaKovan, the pseudonymous founder of MetaPurse, is the buyer behind the $69 million winning bid for a Beeple NFT at Christie's yesterday. It was the third-highest sale price ever for a work from a living artist.
-<a href='https://www.theverge.com/2021/3/12/22327594/metakovan-beeple-highest-auction-price-69-million-nft'> Source <a/>
