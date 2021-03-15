@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v-wudniHidp0nag_YhniNC6p5DE=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/68960331/Tiles_alpaha_layout2.0.png' width='700px' /><br/>
-Google says in a new blog post that it will now allow third-party developers to create custom Tiles for Wear OS. It first introduced Tiles in 2019,  widgets that users could glance at and swipe among to get information about weather, calendar notifications, or stats like heart rate. All of the Tiles used to be directly from Google or the device's manufacturer.
-<a href='https://www.theverge.com/2021/3/13/22328909/google-third-party-developers-tiles-wear-os'> Source <a/>
