@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ae9SAc5cDjviEUlmL1uNpYpfsBg=/0x0:624x352/1200x800/filters:focal(263x127:361x225)/cdn.vox-cdn.com/uploads/chorus_image/image/68956215/mmo012394820394820394823fi_624x352.0.jpg' width='700px' /><br/>
-In 2013, Walt Disney World resort offered the MagicBands — a plastic bracelet that made it easy to perform numerous services such as park tickets. And now, almost a decade later, the company is finally making your trip to the most magical place on Earth a little more modern with MagicMobile, a digital pass accessible through your iPhone and Apple Watch starting later this year.
-<a href='https://www.theverge.com/2021/3/12/22327351/disney-magicmobile-pass-announced-iphone-apple-watch'> Source <a/>

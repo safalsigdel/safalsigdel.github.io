@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YDKpOf4V1jNE5Nie3IWiVQKzSC0=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/68963739/1230549990.0.jpg' width='700px' /><br/>
+Honda has announced it will sell two electric SUVs in the US in the 2024 model year, and plans to introduce hybrid gas-electric versions of its best-selling models. It's the second Japanese automaker that has recently announced a future EV in the United States;  last month Toyota said it plans its first mass-market electric vehicle by the end of 2021.
+<a href='https://www.theverge.com/2021/3/14/22330086/honda-plans-electric-suv-2024-hybrid-toyota-emissions'> Source <a/>
