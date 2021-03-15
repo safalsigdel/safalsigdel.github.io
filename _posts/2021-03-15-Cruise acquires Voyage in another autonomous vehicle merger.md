@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X4q3FpG-ysdz6zrSbARmj5_9h1A=/0x0:4096x2305/1200x800/filters:focal(1721x826:2375x1480)/cdn.vox-cdn.com/uploads/chorus_image/image/68968379/Ewh6OQ3UcAAUIjy.0.jpeg' width='700px' /><br/>
+Cruise, a majority-owned subsidiary of General Motors, will acquire self-driving startup Voyage in another major autonomous vehicle merger. The announcement came less than a week after news first surfaced that the two companies were in talks about an acquisition. The terms of the deal were not disclosed.
+<a href='https://www.theverge.com/2021/3/15/22331794/cruise-acquires-voyage-self-driving-car-merger'> Source <a/>
