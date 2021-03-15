@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pimIp_HSmWpx1cjAkaaOBeQ3lZQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68960279/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
-A public health authority has ordered Amazon to close one of its fulfillment centers in Canada for two weeks because of an uptick in the rate of COVID-19 infections at the facility. A public health investigation found that while the rate of COVID-19 infections has been decreasing in the area, the rate inside the Brampton facility, near Toronto, “has been increasing significantly.”
-<a href='https://www.theverge.com/2021/3/13/22328874/amazon-ordered-temporarily-close-canada-toronto-increase-coronavirus'> Source <a/>

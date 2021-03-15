@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WJEVCNx__sR3wQ3h6g7pcdWp8nk=/0x0:4000x2668/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/68968465/1231061209.0.jpg' width='700px' /><br/>
+General Motors has decided to make some 2021 full-size pickups without a certain fuel management module because of the ongoing microchip shortage. As a result, those trucks will get around one fewer mile per gallon of gas, meaning they'll burn more fuel to go the same distance, releasing more carbon emissions into the atmosphere.
+<a href='https://www.theverge.com/2021/3/15/22331766/gm-pickups-semiconductor-shortage-fuel-economy-emissions'> Source <a/>
