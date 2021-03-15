@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O3OR_z51oQXpTzHB5YQBQ-sICAg=/0x0:2380x1244/1200x800/filters:focal(587x137:967x517)/cdn.vox-cdn.com/uploads/chorus_image/image/68958020/Screen_Shot_2021_03_12_at_7.07.43_PM.5.png' width='700px' /><br/>
-Many current password managers allow you to share your passwords with family members or other individuals or groups. (You do use a password manager, don't you?) Managers such as Bitwarden and 1Password have specific methods by which you can share passwords or groups of passwords, making it easier for a family to, say, access a shared streaming service.
-<a href='https://www.theverge.com/2021/3/12/22327834/bitwarden-secure-text-file-transfer-encryption'> Source <a/>
