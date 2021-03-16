@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mB-VH-V_CtgmeH2mdVxJh7WwpEo=/0x0:640x360/1200x800/filters:focal(269x129:371x231)/cdn.vox-cdn.com/uploads/chorus_image/image/68970168/unnamed.0.jpg' width='700px' /><br/>
-A Grand Theft Auto Online fan that goes by the moniker t0st posted an investigation into the game's infamously slow load times on PC, with a solution that improved things by up to 70 percent. And it seems that Rockstar was playing attention: the company has confirmed to PC Gamer that t0st's fix is legitimate, and it will be implementing their suggestions in a future update to the game.
-<a href='https://www.theverge.com/2021/3/15/22332421/grand-theft-auto-online-slow-load-times-fan-made-patch'> Source <a/>
