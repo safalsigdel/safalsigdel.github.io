@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K2sRABpUxV-Jebx0C4-P0U9CcRQ=/0x0:1120x630/1200x800/filters:focal(471x226:649x404)/cdn.vox-cdn.com/uploads/chorus_image/image/68974747/Paramount_Plus.0.png' width='700px' /><br/>
+Earlier this month, streaming service CBS All Access was rebranded as Paramount Plus, combining the franchises and assets from both Viacom and CBS. It offers a wide range of TV shows and movies available to stream from studios and networks such as CBS, Comedy Central, Nickelodeon, and Paramount Pictures.
+<a href='https://www.theverge.com/good-deals/2021/3/16/22333672/paramount-plus-one-year-commercial-free-subscription-deal'> Source <a/>
