@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C4qlDLBeW513C1VSC-w_-cpauf0=/0x0:2040x1360/1200x800/filters:focal(848x743:1174x1069)/cdn.vox-cdn.com/uploads/chorus_image/image/68971021/jbareham_180405_1777_facebook_0003.0.jpg' width='700px' /><br/>
-Facebook last month shut off the ability for Australian users and media organizations to share news links in the country, and now it seems the company's extraordinary measure has resulted in a compromise for the most interested parties as media giant News Corp has struck a licensing deal with the social network.
-<a href='https://www.theverge.com/2021/3/15/22332658/facebook-news-corp-rupert-murdoch-deal-australia-sky-news'> Source <a/>
