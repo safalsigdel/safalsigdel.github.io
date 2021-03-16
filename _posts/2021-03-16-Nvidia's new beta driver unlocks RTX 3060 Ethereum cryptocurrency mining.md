@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nF3ueaacY6pMcd4xcgUK2S9aoyA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68967574/acastro_180529_1777_nvidia_0002.0.0.jpg' width='700px' /><br/>
-Nvidia implemented a special system to reduce the hash rate of Ethereum mining on its new RTX 3060 graphics card last month. It was supposed to limit mining performance by around 50 percent, but multiple reports now claim cryptominers have bypassed the protection.
-<a href='https://www.theverge.com/2021/3/15/22331537/nvidia-rtx-3060-ethereum-cryptocurrency-mining'> Source <a/>
