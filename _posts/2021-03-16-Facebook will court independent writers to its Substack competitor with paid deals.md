@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yW4IvxRjBdcrpDb37O3Ih79czfI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68974590/jbareham_180405_1777_facebook_0003.0.jpg' width='700px' /><br/>
+Facebook wants to be a part of the newsletter business, and it's willing to pay for it. Axios reports today that the company will soon start testing its newsletter product, which will integrate with Pages. As part of that test, Facebook will also court writers, some of whom the company will pay.
+<a href='https://www.theverge.com/2021/3/16/22333703/facebook-substack-newsletter-pages-test-launch'> Source <a/>
