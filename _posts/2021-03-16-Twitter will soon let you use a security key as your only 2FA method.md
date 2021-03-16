@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HZhN6x46n22BO3VFUszWxmh3t4s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68970118/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
+Twitter is planning a future update that will allow accounts enabled with two-factor authentication to use security keys as the only authentication method, the company said on Monday. At present, you can use a security key to sign in to your Twitter account, but you need to have another 2FA method — like an authenticator app or SMS codes — enabled as backup.
+<a href='https://www.theverge.com/2021/3/15/22332234/twitter-security-key-2fa-authenticator-privacy'> Source <a/>

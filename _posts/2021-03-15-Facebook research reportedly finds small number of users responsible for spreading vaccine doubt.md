@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m8eLP1U1xfpYT2p4t9yDvzsh20o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68964707/mdoying_180118_2249_facebook_0445stills_3.0.jpg' width='700px' /><br/>
-Facebook research into “vaccine-hesitant” beliefs has found that a small group of users is driving many of the discussions that may sow doubt or discouragement about taking a vaccine, The Washington Post reported.
-<a href='https://www.theverge.com/2021/3/14/22330428/facebook-research-vaccine-hesitancy-doubt-coronavirus'> Source <a/>

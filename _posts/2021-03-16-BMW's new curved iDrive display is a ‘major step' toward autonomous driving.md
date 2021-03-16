@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ExRmhpgSTX64rEOPFmbqQ9_x7HM=/0x0:8065x5377/1200x800/filters:focal(3388x2044:4678x3334)/cdn.vox-cdn.com/uploads/chorus_image/image/68970331/P90415786_highRes.0.jpg' width='700px' /><br/>
+BMW is pulling the curtain back on its next iteration of iDrive, the software and infotainment platform that has served as the centerpiece of the automaker's in-car experience for the last 20 years.
+<a href='https://www.theverge.com/2021/3/15/22332131/bmw-idrive-update-curved-screen-autonomous-electric-ix'> Source <a/>

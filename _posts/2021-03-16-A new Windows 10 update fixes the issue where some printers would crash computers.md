@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rcOum8-0sMxZTYt985hAusB2Ohk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68971940/acastro_180226_0001.0.jpg' width='700px' /><br/>
+Microsoft is fixing the issue where trying to use certain printers would freak out your Windows 10 computer and cause it to blue screen. If you (or your IT department) have been dealing with the issue, today's update should let you get back to printing.
+<a href='https://www.theverge.com/2021/3/15/22332916/windows-10-update-fixes-printer-blue-screen-of-death-issue-crash-microsoft'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VIxboWyhOwVM5gz2AhzFV5OhiQQ=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/68964198/1231383719.0.jpg' width='700px' /><br/>
-During Clubhouse's weekly town hall on Sunday, CEO Paul Davison announced the voice-chat app's first creators program. Clubhouse Creator First will help aspiring hosts and creators on the platform build their audiences, connect with brands, and perhaps most importantly, monetize their shows.
-<a href='https://www.theverge.com/2021/3/14/22330281/clubhouse-accelerator-creators-davison-app'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M_hXkE0q3eoXzHXdHyGWISYrGSE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68969138/acastro_170621_1777_0006_fin.0.jpg' width='700px' /><br/>
+Over the weekend, some users of NFT marketplace Nifty Gateway said hackers stole digital artwork worth thousands of dollars from their accounts. Some people who were hacked also said their credit cards on file were used to purchase additional NFTs, also costing thousands of dollars, which were then transferred away to a hacker's account.
+<a href='https://www.theverge.com/2021/3/15/22331818/nifty-gateway-hack-steal-nfts-credit-card'> Source <a/>

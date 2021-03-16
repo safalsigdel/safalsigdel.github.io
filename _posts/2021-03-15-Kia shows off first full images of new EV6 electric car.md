@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RKVIYagKGK6XhWtL-l2tD35A684=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/68966168/580833.0.jpg' width='700px' /><br/>
-Kia has given a first real look at its new EV6 electric car, following some shadowy teaser images that were released last week. Full details of the EV6 won't be announced until an online event later this month, but the new images do at least reveal what it actually looks like.
-<a href='https://www.theverge.com/2021/3/15/22331130/kia-ev6-full-images-revealed-design-announcement-date'> Source <a/>

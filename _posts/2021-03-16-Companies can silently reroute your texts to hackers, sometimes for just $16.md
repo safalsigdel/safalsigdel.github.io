@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HipWQPOBI7QHYVR8J3Yx2iP278I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68970811/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
+There's a newly discovered attack on SMS messaging that's almost invisible to victims, and seemingly sanctioned by the telecom industry, uncovered in a report by Motherboard. The attack uses text-messaging management services that are aimed at businesses to silently redirect text messages from a victim to hackers, giving them access to any two-factor codes or login links that are sent via text message.
+<a href='https://www.theverge.com/2021/3/15/22332315/sms-redirect-flaw-exploit-text-message-hijacking-hacking'> Source <a/>

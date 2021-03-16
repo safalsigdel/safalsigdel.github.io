@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ogUPkuEXxL0CbOBOdmJ-5f2BFhM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68961349/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
-A judge in California ruled Friday that Google has to face a class action lawsuit that claims the search giant secretly collects data from  users even when they're using its private “Incognito” mode, Bloomberg reported.
-<a href='https://www.theverge.com/2021/3/13/22329240/judge-rules-google-5-billion-lawsuit-tracking-chrome-incognito-privacy'> Source <a/>

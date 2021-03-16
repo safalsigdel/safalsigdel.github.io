@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yae18UvIwGty3LszlOZ3xqT2Cgo=/0x0:5495x3640/1200x800/filters:focal(2309x1381:3187x2259)/cdn.vox-cdn.com/uploads/chorus_image/image/68963666/529168430.0.jpg' width='700px' /><br/>
-The 63rd Grammy Awards ceremony will be held Sunday March 14th, as awards show season continues apace despite the coronavirus pandemic. The show will honor the best music of 2020 and all the performers, producers, and behind-the-scenes people who made it happen. As with most of this year's awards shows, the Grammys look a bit different this year, broadcasting from “in and around” the Los Angeles Convention Center, but without a live audience.
-<a href='https://www.theverge.com/2021/3/14/22329964/grammy-awards-2021-how-to-watch-online'> Source <a/>
