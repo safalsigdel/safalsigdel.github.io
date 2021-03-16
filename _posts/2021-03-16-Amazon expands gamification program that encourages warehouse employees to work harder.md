@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/35LeXTr-vaDV_JWWidGgRcsY9C0=/0x0:5800x3859/1200x800/filters:focal(1464x1165:2392x2093)/cdn.vox-cdn.com/uploads/chorus_image/image/68967566/1177531269.5.jpg' width='700px' /><br/>
-Amazon is expanding an existing program that gamifies warehouse work to encourage its fulfillment center employees to improve their efficiency and compete against others for digital rewards like virtual pets, according to a new report from The Information. The program is called FC Games, and it includes as many as six arcade-style mini-games that can be played only by completing warehouse tasks in the workplace.
-<a href='https://www.theverge.com/2021/3/15/22331502/amazon-warehouse-gamification-program-expand-fc-games'> Source <a/>
