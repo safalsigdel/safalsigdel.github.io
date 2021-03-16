@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-kTK2sOvljBGKXK0JNKpvhg42cc=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/68974873/RKL_i9_with_Box.0.jpeg' width='700px' /><br/>
+Intel's next-generation desktop chips are finally here: after a brief preview at CES, the company is fully unveiling its 11th Gen Core desktop chips (better known by their codename, Rocket Lake-S.)
+<a href='https://www.theverge.com/2021/3/16/22325460/intel-11th-gen-desktop-chips-rocket-lake-s-faster-speeds-cores-gaming'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L-o5srfL1ohv7Ma4DzYgbdIhGJE=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/68970394/microsoftteams.0.jpg' width='700px' /><br/>
-Microsoft Teams went down for around four hours on Monday, alongside Azure and other Microsoft 365 services. Microsoft blamed the issues on “a recent change to an authentication system” took some Microsoft 365 services down. A roll back to the change took longer than Microsoft expected, with the company confirming at 12:35AM ET that “impact has been largely mitigated.”
-<a href='https://www.theverge.com/2021/3/15/22332539/microsoft-teams-down-outage-connectivity-issues'> Source <a/>

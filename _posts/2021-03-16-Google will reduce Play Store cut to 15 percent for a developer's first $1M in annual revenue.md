@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j1Mrn7OEORypVTk8WnnjgrSGgOU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68974846/acastro_201005_1777_googleAntiTrust_0001.0.0.jpg' width='700px' /><br/>
+Google is reducing its long-standing 30 percent cut, which it takes from each Play Store digital purchase for all Android developers around the world, on the first $1 million they make on the digital storefront each year, starting on July 1st. According to Google, that change means the 99 percent of Android developers that make less than $1 million each year will see a 50 percent reduction in fees.
+<a href='https://www.theverge.com/2021/3/16/22333777/google-play-store-fee-reduction-developers-1-million-dollars'> Source <a/>
