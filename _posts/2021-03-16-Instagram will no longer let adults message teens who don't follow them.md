@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xGlDMaciTP39ZGsKJdTkIWLk3SY=/0x0:3240x2160/1200x800/filters:focal(1361x821:1879x1339)/cdn.vox-cdn.com/uploads/chorus_image/image/68973778/Adult_Minor_Restrictions_in_DM.0.png' width='700px' /><br/>
+Instagram is introducing new policies limiting interactions between teenagers and adults to make its platform safer for young users. The app has banned adults from direct messaging teenagers who don't follow them and is introducing “safety prompts” that will be shown to teens when they DM adults who have been “exhibiting potentially suspicious behavior.”
+<a href='https://www.theverge.com/2021/3/16/22333580/instagram-bans-adults-messaging-teens-safety-notice-prompt'> Source <a/>
