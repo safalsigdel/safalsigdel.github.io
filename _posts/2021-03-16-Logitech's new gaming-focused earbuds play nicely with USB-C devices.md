@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iIJOrnt5ADHa14WpV4RqB6OOTpQ=/0x0:5851x3901/1200x800/filters:focal(1494x1510:2430x2446)/cdn.vox-cdn.com/uploads/chorus_image/image/68973118/g333lede.0.jpg' width='700px' /><br/>
+Logitech's latest earbuds, a $50 model called the G333, are unremarkable in terms of design, with a flat cable that houses an inline remote and mic, swappable silicone ear tips, and the ability to connect to gadgets via a 3.5mm jack. What makes them stand out is the included 3.5mm-to-USB-C adapter.
+<a href='https://www.theverge.com/2021/3/16/22331632/logitech-g333-headphones-earbuds-jack-usb-c-adapter-features-price'> Source <a/>
