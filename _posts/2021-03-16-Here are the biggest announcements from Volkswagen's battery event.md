@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z9kslB7u699M3kZcABZ-MkxjYXg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68967901/akrales_200915_4161_0071.0.0.jpg' width='700px' /><br/>
-Volkswagen Group unveiled a massive push to drive down the cost of producing batteries for its electric vehicles in the hopes of speeding the transition away from gas-powered cars.
-<a href='https://www.theverge.com/2021/3/15/22325813/vw-volkswagen-power-day-battery-electric-car-announcement'> Source <a/>
