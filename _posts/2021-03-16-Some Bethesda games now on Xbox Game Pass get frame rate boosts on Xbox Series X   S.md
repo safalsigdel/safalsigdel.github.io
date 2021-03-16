@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K7M13eHviKo2LEQ8Szb32eVb4IE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68958202/acastro_190530_1777_xbox_0001.0.0.jpg' width='700px' /><br/>
-Microsoft's Xbox Game Pass platform received a huge boost with the addition of 20 new Bethesda Softworks titles across Xbox consoles, PC, and xCloud last week. And now, a quarter of those games are getting performance boosts on the next-gen Xbox consoles in a new update.
-<a href='https://www.theverge.com/2021/3/12/22328089/microsoft-xbox-series-x-bethesda-frame-rate-boost-game-pass'> Source <a/>

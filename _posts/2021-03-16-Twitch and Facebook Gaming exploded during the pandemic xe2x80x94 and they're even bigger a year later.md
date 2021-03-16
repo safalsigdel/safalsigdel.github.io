@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uIZrDdGivb71DN9TNn_w3V03n3Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68968460/acastro_210115_1777_twitch_0002.0.jpg' width='700px' /><br/>
-Today, StreamElements and its partner, analytics company Rainmaker.gg, have put out the February issue of their “State of the Stream” report. It's something of a fascinating document because, as the end of the pandemic draws near, it's another piece of evidence that live-streaming platforms were one of the winners of the crisis. (You know, assuming there can be winners to a global mass death event.)
-<a href='https://www.theverge.com/2021/3/15/22331623/twitch-facebook-gaming-pandemic-hours-watched'> Source <a/>
