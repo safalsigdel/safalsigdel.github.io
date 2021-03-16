@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AXl2EnNPvTGPahTMPVjeZOzbWG8=/0x0:3328x2132/1200x800/filters:focal(1398x800:1930x1332)/cdn.vox-cdn.com/uploads/chorus_image/image/68970907/Screen_Shot_2021_03_15_at_11.52.22_AM.0.png' width='700px' /><br/>
-Cricut machines offer a customizable, automated way to speed up the precise cutting required in crafting projects, but the capabilities of these devices are about to be limited by an upcoming update. Cricut is updating the machines' accompanying software, Design Space, by putting caps on uploads that could restrict the number of projects Cricut owners are actually able to make.
-<a href='https://www.theverge.com/2021/3/15/22332212/cricut-crafting-machine-design-space-upload-limit'> Source <a/>
