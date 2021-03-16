@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-I get it — despite all the warnings about climate change, you or someone you know has big Scrooge McDuck-sized dollar signs in their eyes after realizing a pinch of blockchain is all you need to turn a JPG image into cold hard cash, and now you're casting about for something — anything — to turn into an NFT while the initial gold rush lasts.
-<a href='https://www.theverge.com/tldr/2021/3/15/22332357/nft-art-jason-rohrer-castle-doctrine-selling-friend-art'> Source <a/>

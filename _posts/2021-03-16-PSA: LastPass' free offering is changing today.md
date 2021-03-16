@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NHEV7LwnbhCMs9zdB1nY0bTt3xM=/0x0:2288x1688/1200x800/filters:focal(525x7:891x373)/cdn.vox-cdn.com/uploads/chorus_image/image/68975068/lpdevicesvault2xmin1png.0.png' width='700px' /><br/>
+LastPass, the popular password manager, announced changes last month to the free version of its software designed to make its Premium paid version much more attractive — and the free one much less so.
+<a href='https://www.theverge.com/2021/3/16/22333891/lastpass-free-changes-bitwarden-zoho-password-manager'> Source <a/>
