@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bfooDXK89oFJuHBoOycSZPeInyk=/0x0:2040x1360/1200x800/filters:focal(860x614:1186x940)/cdn.vox-cdn.com/uploads/chorus_image/image/68971167/mdoying_180308_2373_0091still.0.jpg' width='700px' /><br/>
-India is reportedly moving forward with a sweeping ban on cryptocurrencies. According to Reuters, the country's legislature will introduce a bill that criminalizes trading, mining, issuing, transferring, or possessing cryptocurrency. The bill is likely to pass if it's introduced, giving India some of the world's strictest digital currency laws.
-<a href='https://www.theverge.com/2021/3/15/22332677/india-cryptocurrency-trading-mining-possession-ban-law-report'> Source <a/>

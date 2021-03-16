@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vYRnPLR3KOPesIzVqSlVPkVLTdM=/0x0:800x450/1200x800/filters:focal(336x161:464x289)/cdn.vox-cdn.com/uploads/chorus_image/image/68975633/800x450_Custom_design_umbrella.0.jpeg' width='700px' /><br/>
+Animal Crossing: New Horizons' already robust design tools are getting some improvements with a free update hitting March 18th. One new addition is a big upgrade to the NookPhone's design app that will let you customize umbrellas, small flags, uchiwa fans, and photo stands.
+<a href='https://www.theverge.com/2021/3/16/22334001/animal-crossing-new-horizons-update-design-umbrella-app-whoopee-cushion'> Source <a/>
