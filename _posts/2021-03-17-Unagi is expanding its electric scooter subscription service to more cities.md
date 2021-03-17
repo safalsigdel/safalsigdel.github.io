@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ht8K_mHT2W7g7IHkvrqHnj5F3Uo=/0x0:2732x1821/1200x800/filters:focal(1148x693:1584x1129)/cdn.vox-cdn.com/uploads/chorus_image/image/68980504/Unagi_Marek_Dziekonski_optimized_online16_res.0.jpg' width='700px' /><br/>
+Unagi, maker of stylish electric scooters, is bringing its nascent subscription service to more cities. After testing out its $40-a-month service in small parts of New York City and Los Angeles, the Oakland, California-based company is expanding its service area in both cities, while also bringing it to seven new markets, including San Francisco, Austin, Seattle, Phoenix, Miami, and Nashville.
+<a href='https://www.theverge.com/2021/3/17/22334608/unagi-electric-scooter-subscription-expansion-cities-price'> Source <a/>
