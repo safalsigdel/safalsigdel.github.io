@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HFAVcPUO5xNXB45zJMUZeuo9sCo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68979723/dbohn_201004_4226_0002.0.0.jpg' width='700px' /><br/>
-Samsung has warned that it might not be able to ship a Galaxy Note phone in 2021 after all, citing difficulties in launching two flagship phones in one year, in comments at its annual shareholders meeting reported on by Bloomberg.
-<a href='https://www.theverge.com/2021/3/17/22335502/galaxy-note-2021-delay-canceled-samsung'> Source <a/>

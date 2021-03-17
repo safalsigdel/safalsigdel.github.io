@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q8XBpPC-4OASwZQU_e-Xno743AI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68982469/akrales_191008_3706_0168.0.jpg' width='700px' /><br/>
+Keeping fit is hard for a lot of people, especially if you're still avoiding health clubs (or were never a fan to begin with). A year after many of us started staying home, we're still looking for ways to stay in shape and stay healthy.
+<a href='https://www.theverge.com/22334050/fitness-tech-recommendations-youtube-bike-yoga-saucony'> Source <a/>
