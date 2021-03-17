@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H8NUB9WhnZqJiyUtqzQKnMOKTDc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68975383/TinderEverywell_NEWgradientBG_hand.0.png' width='700px' /><br/>
-Tinder is giving 500 users a pair of free mail-in COVID-19 test kits — one for them and one for a Tinder match. The company says it's a way to help people feel more comfortable meeting up with matches for real-life dates.
-<a href='https://www.theverge.com/2021/3/16/22333930/tinder-covid-test-free-mail-in-everlywell'> Source <a/>
