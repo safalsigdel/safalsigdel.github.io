@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/79OHCWolhyO-g0As3QkcXqNehuw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68981888/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+TikTok will soon make personalized ads mandatory, meaning you'll start getting ads in the app based on the kind of content you engage with, whether you want them or not.
+<a href='https://www.theverge.com/2021/3/17/22336093/tiktok-mandatory-personalized-ads-privacy-tracking'> Source <a/>
