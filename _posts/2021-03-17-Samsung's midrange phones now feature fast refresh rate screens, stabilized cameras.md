@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NE4r-n_sh-mNQCInVTE5QlTP6U8=/0x0:4000x2997/1200x800/filters:focal(1617x1457:2257x2097)/cdn.vox-cdn.com/uploads/chorus_image/image/68980767/32_galaxya52_a72_white_black_210310001526.0.jpg' width='700px' /><br/>
+<img src='' width='700px' /><br/>
 At its second Unpacked event of the year, Samsung officially unveiled three of its next A-series phones: the Galaxy A52, A52 5G, and A72. While the company isn't sharing US pricing or availability yet, it has confirmed European pricing: xe2x82xac349 for the A52 (about $415), xe2x82xac429 for the A52 5G (about $510), and xe2x82xac449 for the A72 ($534).
 <a href='https://www.theverge.com/2021/3/17/22334392/samsung-galaxy-a52-5g-a72-specs-price-camera'> Source <a/>
