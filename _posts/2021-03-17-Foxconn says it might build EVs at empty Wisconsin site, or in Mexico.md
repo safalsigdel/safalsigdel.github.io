@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8Z83j-KzajH-6PxXMzeRdgEt3HU=/0x0:7192x4800/1200x800/filters:focal(3021x1825:4171x2975)/cdn.vox-cdn.com/uploads/chorus_image/image/68975978/Foxconn_proof_08_080520_3892.0.jpg' width='700px' /><br/>
-The chairman of Taiwanese manufacturer Foxconn says the electronics giant is considering making electric vehicles at its mostly empty worksite in Wisconsin, where the company originally planned to make LCD panels. Either that, or Foxconn may make EVs in Mexico. The decision will be made by July 1st, chairman Young Liu said at a press conference Tuesday.
-<a href='https://www.theverge.com/2021/3/16/22333868/foxconn-ev-wisconsin-fisker-geely-faraday-future'> Source <a/>
