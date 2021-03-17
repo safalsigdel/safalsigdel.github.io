@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i6UAwXIw9P48V1JtQ5Sm02MESUM=/0x0:3000x2003/1200x800/filters:focal(1260x762:1740x1242)/cdn.vox-cdn.com/uploads/chorus_image/image/68971774/967228286.0.jpg' width='700px' /><br/>
-A Jewish GitHub employee who was fired for warning co-workers in Slack to stay safe from Nazis during the January 6th attack on the US Capitol has declined to take his job back after an offer from the company, GitHub told TechCrunch.
-<a href='https://www.theverge.com/2021/3/15/22332888/github-employee-fired-nazi-slack-declines-offer-job-back'> Source <a/>

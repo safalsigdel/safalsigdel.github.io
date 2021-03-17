@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KitwOGpLgoAytDlQm61rMg2pyHM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68973193/EN_16BR_Social_KeyArt_Social.0.jpg' width='700px' /><br/>
-A new season of Fortnite is upon us, and the latest digs even deeper into the battle royale's reality-spanning narrative. Today, Epic Games officially launched season 6 of the game's second chapter, which is dubbed “Primal.” It takes place directly after the “Zero Crisis Finale” that concluded season 5 and introduces a new prehistoric biome to the island.
-<a href='https://www.theverge.com/2021/3/16/22332371/fortnite-chapter-2-season-6-primal-battle-pass-tomb-raider-neymar'> Source <a/>

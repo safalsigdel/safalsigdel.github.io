@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X5YuElwRxak2rRjIMYeOnsAE2Uo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68973366/DSC00697.0.jpg' width='700px' /><br/>
-Nvidia made a big deal about reducing the hash rate of Ethereum mining on its new RTX 3060 graphics card last month. A special system was supposed to make the RTX 3060 undesirable for cryptominers, but Nvidia has now confirmed that it has accidentally unlocked those restrictions with a new driver.
-<a href='https://www.theverge.com/2021/3/16/22333544/nvidia-rtx-3060-ethereum-mining-rate-limit-unlock-driver'> Source <a/>

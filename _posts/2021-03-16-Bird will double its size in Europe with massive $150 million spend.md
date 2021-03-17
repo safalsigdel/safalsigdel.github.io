@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YySuYAbipnKQ16jU6rzPjRD3x-k=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/68971385/1276437584.0.jpg' width='700px' /><br/>
-Bird says it will spend $150 million on a major expansion in Europe. The Santa Monica-based scooter sharing company announced that it will bring its battery-powered two-wheelers to 50 new cities on the continent in the coming months, in addition to growing its fleet in its current markets. The move comes as scooter sharing continues to perform strongly in Europe amid the ongoing COVID-19 pandemic.
-<a href='https://www.theverge.com/2021/3/15/22332624/bird-europe-investment-scooter-expansion-new-hires'> Source <a/>

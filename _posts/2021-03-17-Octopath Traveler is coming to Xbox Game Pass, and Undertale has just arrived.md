@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qykUdc2rs2VTJdcXQPLfZTss2-k=/597x141:2342x1187/1200x800/filters:focal(1285x454:1659x828)/cdn.vox-cdn.com/uploads/chorus_image/image/68976182/Screen_Shot_2021_03_16_at_9.28.23_AM.0.png' width='700px' /><br/>
+Xbox is announcing the next round of games coming to Game Pass, and it's a pretty stacked deck with games like Undertale and Octopath Traveler, both of which are coming to Xbox for the first time.
+<a href='https://www.theverge.com/2021/3/16/22334127/xbox-game-pass-march-releases-undertale-nier-octopath'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/euqp7Dt6iFvCvk-SVSrWoC9K1us=/0x0:2040x1360/1200x800/filters:focal(889x696:1215x1022)/cdn.vox-cdn.com/uploads/chorus_image/image/68971575/akrales_190820_3597_0355.0.jpg' width='700px' /><br/>
-Not everyone takes advantage of the “switch” aspect of the Nintendo Switch, and for them, the smaller, easier-to-carry Switch Lite is a worthwhile alternative. A few retailers are now tossing in a free $20 gift card when you purchase Nintendo's more compact handheld.
-<a href='https://www.theverge.com/good-deals/2021/3/15/22332631/nintendo-switch-lite-deal-amazon-gamestop-best-buy-free-gift-card'> Source <a/>

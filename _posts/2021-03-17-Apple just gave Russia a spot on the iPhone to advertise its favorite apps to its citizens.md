@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ELaOzXmnUB_PO_hC-jB7pmeHgIs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68978735/acastro_180130_1777_0005.0.jpg' width='700px' /><br/>
+Starting April 1st, users setting up a new iPhone in Russia will see a screen that allows them to automatically install apps that are officially sanctioned by the Russian government, in compliance with Russian law (via Engadget).
+<a href='https://www.theverge.com/2021/3/16/22334641/apple-follows-russian-default-apps-law-setup-screen-options-user'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uS0eo_n_KmVoayHCADmi8Z-SvHM=/0x0:2163x1442/1200x800/filters:focal(909x548:1255x894)/cdn.vox-cdn.com/uploads/chorus_image/image/68978912/nasne.0.jpg' width='700px' /><br/>
+Sony has announced that the PlayStation 5 will get DVR functionality in Japan by way of a new app that'll work with its Nasne tuners. The app will be called Torne (pronounced to-ru-ne) and should be available later this year.
+<a href='https://www.theverge.com/2021/3/16/22335149/ps5-nasne-dvr-app-japan-release-buffalo'> Source <a/>

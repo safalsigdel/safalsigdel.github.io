@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rXvc81rbvfdthjMHL63V_LVZtsY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68977676/acastro_210309_1777_vaccine_0004.0.jpg' width='700px' /><br/>
+Apple announced today that Apple Maps has been updated with vaccine locations from VaccineFinder, a site run by Boston Children's Hospital that provides information on vaccine eligibility and availability. People can search for nearby vaccination sites in Apple Maps or ask Siri, “Where can I get a COVID vaccination?” Over 20,000 locations are now listed, with more to be added in the coming weeks.
+<a href='https://www.theverge.com/2021/3/16/22334609/apple-maps-facebook-google-covid-19-vaccine-locations'> Source <a/>

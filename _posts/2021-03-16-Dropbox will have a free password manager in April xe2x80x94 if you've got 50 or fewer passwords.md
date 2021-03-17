@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6cRuy6uRiIs_97HWY77r7WynkJ0=/0x0:3463x2309/1200x800/filters:focal(1455x878:2009x1432)/cdn.vox-cdn.com/uploads/chorus_image/image/68973948/1211180751.jpg.0.jpg' width='700px' /><br/>
-Dropbox is adding a new feature on top of its usual offerings of storage and file sharing for free Basic accounts. Dropbox Passwords, the password management feature the company introduced for paying customers in 2020, will be free for Dropbox Basic accounts in April — with a new, arbitrary limit of 50 passwords that makes it seem suspiciously like a way to upsell you on a paid Dropbox account.
-<a href='https://www.theverge.com/2021/3/16/22332829/dropbox-passwords-manager-added-free-basic-account'> Source <a/>

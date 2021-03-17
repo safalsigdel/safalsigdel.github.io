@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oln9bKolsMzaWZHSDWTuhQdvnOw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68973681/DSCF7579.0.jpg' width='700px' /><br/>
-There are a lot of iPad keyboard cases out there that aim to turn Apple's tablet into a laptop, but the Kensington StudioDock is something altogether different: it turns your iPad Pro into the world's tiniest iMac.
-<a href='https://www.theverge.com/22333551/kensington-studiodock-review-ipad-desktop-dock-accessory'> Source <a/>

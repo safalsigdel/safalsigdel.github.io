@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kTiLXNQ_nG6bjo_PrIS4UyrlfBA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68977572/acastro_180604_1777_xbox_0001.0.jpg' width='700px' /><br/>
+Microsoft has once again reiterated that VR support for Xbox was not a focus for the company, following reports earlier today that hinted it was working on a VR headset compatible with the Xbox Series X / S.
+<a href='https://www.theverge.com/2021/3/16/22334533/microsoft-xbox-wireless-headset-vr-localization-bug'> Source <a/>

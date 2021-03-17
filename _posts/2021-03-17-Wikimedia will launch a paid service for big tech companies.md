@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6WlC4cng-If10m9nbktJ7f48_3M=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/68976993/1296469702.0.jpg' width='700px' /><br/>
+The Wikimedia Foundation is creating a new paid service for companies that draw on Wikipedia data. The foundation announced the news today via an article in Wired, and it's planning to launch later in 2021. Wikimedia Enterprise, as it's called, won't change how current Wikipedia services work. Instead, it will offer new options for companies that use its content, a category including giants like Google and Facebook.
+<a href='https://www.theverge.com/2021/3/16/22334276/wikimedia-enterprise-api-service-big-tech-knowledge-boxes'> Source <a/>

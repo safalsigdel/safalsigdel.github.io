@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bRusuCbQlRMu033TfLA0gGobCD4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68977881/acastro_190520_1777_huawei_0001.0.0.jpg' width='700px' /><br/>
+Huawei has a plan to compete in 5G without being able to sell its 5G phones everywhere. Today, the technology company announced that it intends to seek royalties from companies like Apple and Samsung in exchange for the use of its patents, according to Bloomberg. Huawei believes it can strike licensing deals despite sanctions in the US, and it plans to use its earnings to invest even further into research and development.
+<a href='https://www.theverge.com/2021/3/16/22334247/huawei-5g-patents-royalties-apple-samsung'> Source <a/>
