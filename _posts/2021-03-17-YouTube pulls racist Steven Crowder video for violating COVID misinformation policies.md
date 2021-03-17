@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gkg-azKH4hRcl1vxHK9pRQSbJNg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68981729/Screen_Shot_2021_03_17_at_8.53.36_AM.0.png' width='700px' /><br/>
+YouTube has pulled a video from conservative commentator Steven Crowder for violating its COVID-19 misinformation policy. A clip from the video where Crowder made racist comments about Black farmers was widely criticized on Tuesday.
+<a href='https://www.theverge.com/2021/3/17/22336028/youtube-steven-crowder-racist-video-removed-covid-misinformation-policies'> Source <a/>
