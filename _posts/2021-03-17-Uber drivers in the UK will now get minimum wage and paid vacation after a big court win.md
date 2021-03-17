@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7_8s39bTbo_JJJf3rA_T0995-Jo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68977921/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
-Uber will classify around 70,000 drivers in the UK as workers and give them some benefits after losing an appeal at the Supreme Court level in February, following a years-long legal battle over their employment status. Drivers will still not be considered full-time employees, but will accrue holiday time and receive a minimum wage while driving fares, and will be enrolled in a pension plan starting on March 17th.
-<a href='https://www.theverge.com/2021/3/16/22334771/uber-uk-drivers-workers-benefits-employees-decision'> Source <a/>

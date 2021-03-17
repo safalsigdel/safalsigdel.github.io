@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dJbgOmf6Xole5alLQEls1ooA9Ik=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68982081/acastro_180522_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook is addressing the criticism it's faced for its role in human rights abuses by putting its values on paper in a new “corporate human rights policy” collecting “the human rights standards [it] will strive to respect.” Under the policy, Facebook is committing to providing an annual report on its impact on human rights and a fund for human rights defenders.
+<a href='https://www.theverge.com/2021/3/17/22335987/facebook-corporate-human-rights-policy-ungp'> Source <a/>
