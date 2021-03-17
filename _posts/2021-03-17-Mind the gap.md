@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FJVFS7Glyhu3ndvHClK1V0X-IjU=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68973957/VRG_ILLO_4474_001_2.0.jpg' width='700px' /><br/>
-When she thinks of pay equity these days, Katie Moussouris thinks of her mother Anuncia.
-<a href='https://www.theverge.com/22331972/pay-equity-now-pledge-katie-moussouris-microsoft-lawsuit'> Source <a/>
