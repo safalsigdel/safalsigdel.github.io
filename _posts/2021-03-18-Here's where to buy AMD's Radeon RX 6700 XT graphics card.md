@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/be4QRey6poq0sZQqAzGCRLDD0Ls=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/68986440/twarren_210315_4475_0005.0.jpg' width='700px' /><br/>
+AMD's new Radeon RX 6700 XT GPU will be available to purchase today starting at 6AM PT / 9AM ET, with a retail price of $479.99. Like other GPUs released within the last few months, AMD's latest Radeon RX graphics card will likely sell out quickly, though AMD tells The Verge that you should be able to buy this graphics card.
+<a href='https://www.theverge.com/2021/3/18/22336572/amd-radeon-rx-6700-xt-gpu-graphics-card-where-buy-stores-retailers'> Source <a/>
