@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wlvk_39j4obB-skzpXfPo8pqG98=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68981599/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
-Amazon will offer its health program, Amazon Care, to other companies and its employees based outside of Washington state, the company announced today.
-<a href='https://www.theverge.com/2021/3/17/22336010/amazon-care-expand-employees-virtual'> Source <a/>
