@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OYcI672yfpg1lWrnA4Hf2_MkKyE=/0x0:940x529/1200x800/filters:focal(395x190:545x340)/cdn.vox-cdn.com/uploads/chorus_image/image/68981581/EA_Play_PC_v04.0.jpeg' width='700px' /><br/>
-EA Play, EA's games subscription service, will be available as a perk for Xbox Game Pass subscribers on PC beginning Thursday, March 18th, at 5PM ET, Microsoft and EA announced on Wednesday.
-<a href='https://www.theverge.com/2021/3/17/22335968/ea-play-xbox-game-pass-pc-ultimate'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r8N8n2mrp4M2adR9rIZRADGM42s=/0x0:2293x1200/1200x675/filters:focal(964x417:1330x783)/cdn.vox-cdn.com/uploads/chorus_image/image/68981481/clue_period_tracking.0.jpg' width='700px' /><br/>
-Digital birth control company Natural Cycles wasn't happy with the news that the Food and Drug Administration cleared a second birth control app at the start of the month. The company, which was the first to get sign-off from the agency, says it's glad to have the competition — but it takes issue with the way the FDA gave the new app, made by Clue, the okay.
-<a href='https://www.theverge.com/22335858/birth-control-app-clue-natural-cycles-fda'> Source <a/>

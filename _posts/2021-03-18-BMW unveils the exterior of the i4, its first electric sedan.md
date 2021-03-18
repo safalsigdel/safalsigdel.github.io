@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fnWNp_25h80DlOYaLGttK0psOMA=/223x137:1823x1343/1200x800/filters:focal(540x328:866x654)/cdn.vox-cdn.com/uploads/chorus_image/image/68981503/P90416001_highRes.0.jpg' width='700px' /><br/>
-BMW has pulled the wraps off of the exterior of its first electric sedan, the i4, after years of teasing a true follow-up to the i3 EV. The i4 is slated to hit the road by the end of the year — ahead of schedule, the company says — and BMW said Wednesday that it will also offer an M Performance model.
-<a href='https://www.theverge.com/2021/3/17/22335807/bmw-i4-sedan-ev-m-performance-range-photos'> Source <a/>

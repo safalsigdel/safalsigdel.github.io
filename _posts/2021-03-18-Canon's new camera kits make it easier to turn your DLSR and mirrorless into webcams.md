@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XOHUd0mBNrevo8fECokkaIgeqgE=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/68984134/vlcsnap_2021_03_17_15h19m52s233__1_.0.jpg' width='700px' /><br/>
+If you've got a recent Canon DSLR or mirrorless camera and are interested in getting more use out of it, Canon announced today that it would soon begin selling webcam accessory kits, allowing Canon owners an easier way to retool their cameras as high-quality webcams.
+<a href='https://www.theverge.com/2021/3/17/22336762/canon-webcam-accessory-kits-dslr-mirrorless-cameras'> Source <a/>

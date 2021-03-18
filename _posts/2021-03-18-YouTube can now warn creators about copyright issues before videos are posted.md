@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EqxmwOf2Tlh-f45IJuc9mnXIgSs=/0x0:1518x704/1200x800/filters:focal(638x231:880x473)/cdn.vox-cdn.com/uploads/chorus_image/image/68983313/Screen_Shot_2021_03_17_at_3.25.45_PM.0.png' width='700px' /><br/>
+In an effort to make the process of uploading a video and receiving ad revenue easier, YouTube is rolling out a new tool called “Checks” that tells a creator ahead of time if their video contains copyrighted material and complies with advertising guidelines.
+<a href='https://www.theverge.com/2021/3/17/22335728/youtube-checks-monetization-copyright-claim-dispute-tool'> Source <a/>

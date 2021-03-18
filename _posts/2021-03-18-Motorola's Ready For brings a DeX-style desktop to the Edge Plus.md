@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EJoqT_0KJNNXQ30JXLy7OaG9hvQ=/0x0:5792x4376/1200x800/filters:focal(2433x1725:3359x2651)/cdn.vox-cdn.com/uploads/chorus_image/image/68983844/motorola.0.png' width='700px' /><br/>
+Motorola is expanding its Edge Plus flagship phone with a new, desktop computer interface called Ready For. Similar to Samsung's DeX, Ready For allows users to plug their smartphone into a larger screen (using either a USB-C to USB-C or USB-C to HDMI cable), allowing the Edge Plus (and presumably, future Motorola phones) to be used as a computer or even a set-top box alternative.
+<a href='https://www.theverge.com/2021/3/17/22336800/motorola-ready-edge-plus-verizon-dex-desktop-atrix-lapdock'> Source <a/>

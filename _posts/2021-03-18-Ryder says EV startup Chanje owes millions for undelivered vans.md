@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZJ1Wcswxatybxbl4uH4YaIS-Dfg=/0x0:3300x1700/1200x800/filters:focal(1386x586:1914x1114)/cdn.vox-cdn.com/uploads/chorus_image/image/68985115/Exterior___Rear_3_4_Downtown_edited.0.jpg' width='700px' /><br/>
+Truck rental company Ryder says it's owed nearly $4 million from EV startup Chanje after it failed to deliver 100 of the 125 vans promised back in 2017, according to a previously unreported lawsuit in Florida.
+<a href='https://www.theverge.com/2021/3/17/22337230/ryder-chanje-lawsuit-fedex-electric-vans-startup-delivery'> Source <a/>

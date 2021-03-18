@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CM2KXrgMOnLBdq9bgOgb-hZF9-E=/0x0:2808x1872/1200x800/filters:focal(1180x712:1628x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/68981131/fbgroups.0.jpg' width='700px' /><br/>
-Facebook is trying to clean up its Groups experience and limit the reach of potentially problematic users and communities. The company announced multiple changes to groups today, including plans to put users who break rules on probation, further limit the reach of civic and political groups, and require more moderation in groups that have violated Facebook's rules.
-<a href='https://www.theverge.com/2021/3/17/22335659/facebook-groups-members-rules-recommendations-ban'> Source <a/>
