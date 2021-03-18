@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gedoyvlhmP-ycKmY4sJ59wkyr08=/0x258:750x1193/1200x800/filters:focal(533x675:653x795)/cdn.vox-cdn.com/uploads/chorus_image/image/68986209/C87392C3_0D41_4DDC_A8B0_C216575581E1.0.jpg' width='700px' /><br/>
+We wouldn't have tech without science, and The Verge wouldn't be what it is without its team of science reporters. In this time of pandemics, Mars landings, and climate controversies, our skilled science team is more important than ever. We talked to Nicole Wetsman, one of our top science and health reporters, to find out how she does her job and what tools she uses.
+<a href='https://www.theverge.com/22335776/nicole-wetsman-verge-science-macbook-moleskine-zoom'> Source <a/>
