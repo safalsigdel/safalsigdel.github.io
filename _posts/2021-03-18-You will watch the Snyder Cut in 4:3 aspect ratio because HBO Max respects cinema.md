@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bmQKChbH5sgMRyMOBoPD7JCcApg=/0x0:3170x1810/1200x800/filters:focal(1332x652:1838x1158)/cdn.vox-cdn.com/uploads/chorus_image/image/68986835/snyderwarning.0.jpg' width='700px' /><br/>
+Lest anyone worry that HBO Max would tarnish Zach Snyder's auteur work Justice League, for which the company spent $70 million on reshoots and new digital effects in order to meet the director's requirements and satisfy years of fan demand for a better cut of the widely panned movie, the service is prefacing all streams of the film with a short disclosure:
+<a href='https://www.theverge.com/2021/3/18/22337756/snyder-cut-aspect-ratio-justice-league-hbo-max-warning'> Source <a/>

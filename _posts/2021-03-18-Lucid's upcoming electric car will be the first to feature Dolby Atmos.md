@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wXuNpG-cRBhSj7vH9EnxWsKS1Ik=/0x0:1396x785/1200x800/filters:focal(587x282:809x504)/cdn.vox-cdn.com/uploads/chorus_image/image/68982646/audio2_1396x785.0.jpeg' width='700px' /><br/>
-Lucid Motors is gearing up for the release of its first electric vehicle, the Lucid Air sedan, and at SXSW, the company revealed a unique detail of the upcoming automobile: it'll be the first car to offer Dolby Atmos sound, thanks to its 21 speaker “Surreal Sound” system.
-<a href='https://www.theverge.com/2021/3/17/22336339/lucid-air-electric-car-dolby-atmos-sxsw'> Source <a/>
