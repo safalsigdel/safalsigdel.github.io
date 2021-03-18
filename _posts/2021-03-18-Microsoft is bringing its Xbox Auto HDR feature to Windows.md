@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LDgsVXtgkn41mIzbziP3g_r5iGs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68982226/VRG_ILLO_4030_Windows_10_Guide_001.0.jpg' width='700px' /><br/>
-Microsoft is planning to automatically add HDR support to more than 1,000 PC games. The software maker is now testing a new Auto HDR feature on Windows 10, which works just like it does on the latest Xbox Series S and X consoles. Enabling Auto HDR will add high dynamic range (HDR) to a large number of DirectX 11 and DirectX 12 games, as long as you have a compatible HDR monitor.
-<a href='https://www.theverge.com/2021/3/17/22336240/microsoft-windows-10-auto-hdr-pc-gaming-directx-11-12'> Source <a/>

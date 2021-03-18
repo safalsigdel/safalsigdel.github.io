@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hGTYnsqlReTdnR9Za3Qvw5UP7-Q=/0x0:2040x1360/1200x675/filters:focal(907x655:1233x981)/cdn.vox-cdn.com/uploads/chorus_image/image/68982216/akrales_210305_4459_0014.0.jpg' width='700px' /><br/>
-If you've used a ThinkPad before, you probably know 90 percent of what to expect from the ThinkPad X1 Nano. All of the staples are here. It's got the black carbon fiber chassis, the discrete buttons on top of the touchpad, the mechanical privacy shutter, the ThinkPad logo on the palm rest, and (of course) the red pointer nub in the middle of the keyboard.
-<a href='https://www.theverge.com/22335874/lenovo-thinkpad-x1-nano-laptop-windows-business-intel-review-price-specs'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TZxpkAD5UjphUk8iKuNsVWqy8wQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68982124/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
-T-Mobile has announced a new perk for its customers: a year of access to a version of Pandora with ad-free stations on weekends, along with a few other benefits, at no extra cost. This is not to be confused with Pandora's paid premium service, but rather a version of the free service with a handful of extras. It starts on March 23rd as part of the company's T-Mobile Tuesdays promotion, which is included on most postpaid plans.
-<a href='https://www.theverge.com/2021/3/17/22335993/t-mobile-tuesdays-pandora-ad-free'> Source <a/>
