@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SBZHPHVAkXffG7nJqJL5MCpHogA=/0x0:4800x3200/1200x800/filters:focal(2016x1216:2784x1984)/cdn.vox-cdn.com/uploads/chorus_image/image/68992238/1231052043.0.jpg' width='700px' /><br/>
+The NFL has signed long-term television and digital media rights agreements that greatly expand availability to a variety of streaming platforms. Notably, Amazon has scored exclusive rights to Thursday Night Football in the first ever all-digital package. The deal begins with the 2023 season and extends through 2033.
+<a href='https://www.theverge.com/2021/3/19/22339636/nfl-streaming-deals-amazon-peacock-paramount-tubi-espn-plus'> Source <a/>
