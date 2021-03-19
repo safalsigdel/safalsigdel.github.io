@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GDl4GYy1OSyNZl-eUeLtdraptvU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68989967/acastro_210120_1777_intel_0001.0.jpg' width='700px' /><br/>
+Intel's upcoming Xe HPG “DG2” discrete gaming GPUs might be close to a reveal. The company has teased a “Xe HPG Scavenger Hunt” for March 26th at 12PM ET / 9AM PT.
+<a href='https://www.theverge.com/2021/3/18/22338702/intel-xe-hpg-gaming-gpu-dg2-scavenger-hunt-march-26th'> Source <a/>

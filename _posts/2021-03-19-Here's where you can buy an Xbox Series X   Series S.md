@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qh9wYCvqpOnO-whBnXuYiiToqyo=/0x0:2040x1351/1200x1200/filters:focal(1052x690:1053x691)/cdn.vox-cdn.com/uploads/chorus_asset/file/21867252/twarren_200909_4177_0031.0.jpg' width='700px' /><br/>
+Update March 18th, 2021 2:19PM ET: Walmart plans to restock both the Xbox Series X and Series S today at 2:30PM ET, while supplies last.
+<a href='https://www.theverge.com/22323467/microsoft-xbox-series-x-series-s-where-to-buy-in-stock'> Source <a/>

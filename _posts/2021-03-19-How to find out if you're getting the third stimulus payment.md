@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dle7x4fSNrvGUX_aBz6rkaIHiag=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/68990054/4603130687_d0a0862bc4_b.0.jpeg' width='700px' /><br/>
+It's always nice to anticipate an influx of cash, especially if things have been a bit tight lately. The American Rescue Plan Act of 2021, which was signed into law on March 11th, 2021, includes Economic Impact Payments in the amount of $1,400 or less, depending on your reported income. In fact, as of Wednesday, March 17th, you may have already gotten yours; that was when the first payments began hitting bank accounts.
+<a href='https://www.theverge.com/22338569/covid-stimulus-payment-check-track-irs-economic-impact'> Source <a/>

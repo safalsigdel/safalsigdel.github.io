@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5WoDnq25xbb5zfGOGoqFwinbwT4=/0x0:6691x4461/1200x800/filters:focal(2811x1696:3881x2766)/cdn.vox-cdn.com/uploads/chorus_image/image/68990210/1231636131.0.jpg' width='700px' /><br/>
+On Thursday, House Judiciary Committee lawmakers held a hearing with some of the most prominent players in antitrust enforcement today. Two Federal Trade Commission leaders and two state attorneys general currently suing Facebook for violating antitrust law testified before the committee.
+<a href='https://www.theverge.com/2021/3/18/22338763/facebook-google-antitrust-cicilline-ftc-slaughter-monopoly'> Source <a/>

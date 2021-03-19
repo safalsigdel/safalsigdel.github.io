@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q_rildnuwCqBaRGW-fQrmF8Uilk=/0x0:964x542/1200x800/filters:focal(405x194:559x348)/cdn.vox-cdn.com/uploads/chorus_image/image/68989379/NOOKphoto.0.jpg' width='700px' /><br/>
+Barnes & Noble's line of Nook e-readers isn't dead yet. The company has confirmed to The Verge that despite running out of stock, it still plans to sell its Kindle competitors once new units arrive in stores later this spring. In fact, there's a previously unannounced tablet that the company will imminently reveal.
+<a href='https://www.theverge.com/2021/3/18/22338379/barnes-noble-lenovo-nook-tablet-e-reader-restock-coming-soon-spring'> Source <a/>
