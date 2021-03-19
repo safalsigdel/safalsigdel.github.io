@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9v0UhYpPKQBUBNuo0MRzKQG6JZc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68987024/dseifert_191123_3810_0005.0.jpg' width='700px' /><br/>
-Amazon's Echo Show 8 is on sale at Amazon, Best Buy, and Target for $75 right now. While this is not its lowest price ever (the previous best price was only $5 less), it is still an incredible deal on the normally $130 smart display.
-<a href='https://www.theverge.com/good-deals/2021/3/18/22337767/amazon-echo-show-8-xcom-2-collection-oculus-quest-deal'> Source <a/>

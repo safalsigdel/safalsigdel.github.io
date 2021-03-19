@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Woot is offering the first sizable discount on Samsung's new Galaxy Buds Pro wireless earbuds that were introduced a few months ago alongside the Galaxy S21 phones. Originally $200, they're $170, and you can choose between three colors: violet, silver, or black. Samsung makes a few sets of truly wireless earbuds that look similar, but these ones have the best sound quality the company has achieved yet.
+<a href='https://www.theverge.com/good-deals/2021/3/19/22339773/samsung-galaxy-buds-pro-deal-sale-woot-netgear-mesh-wifi-nintendo-switch-lite'> Source <a/>

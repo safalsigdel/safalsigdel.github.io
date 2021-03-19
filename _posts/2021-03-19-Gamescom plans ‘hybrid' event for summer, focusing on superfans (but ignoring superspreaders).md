@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8RH874qcr6A2QQoz8oCtyXMGB8g=/0x0:5057x3371/1200x800/filters:focal(2125x1282:2933x2090)/cdn.vox-cdn.com/uploads/chorus_image/image/68992850/1228242898.0.jpg' width='700px' /><br/>
+Video game fair Gamescom is planning to hold a “hybrid event” combining in-person and digital activities later this summer, despite uncertainty surrounding the ongoing pandemic and the risk the trade show could turn into a “superspreader” event.
+<a href='https://www.theverge.com/2021/3/19/22339703/gamescom-2021-hybrid-physical-digital-event-august'> Source <a/>

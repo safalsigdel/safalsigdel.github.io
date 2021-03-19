@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_KH7BVgIld4Gbtg2csnpCxw-zqE=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/68992938/Ew10MnNXIAAqCju.0.jpeg' width='700px' /><br/>
+OnePlus' long-awaited first smartwatch has made its first appearance ahead of the company's upcoming March 23rd launch event, which is feeling increasingly irrelevant as almost every piece of news about its new product lineup trickles online in bits and pieces.
+<a href='https://www.theverge.com/2021/3/19/22339768/oneplus-watch-image-reveal-design-leak-smartwatch-wearable'> Source <a/>
