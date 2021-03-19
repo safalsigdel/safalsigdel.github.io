@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D1UNzd6a4geNbDrr0QcMwtvMKrM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68992351/acastro_180109_1777_0002_v3.0.jpg' width='700px' /><br/>
+A Swiss computer hacker named Till Kottmann has been charged by the US government with multiple accounts of wire fraud, conspiracy, and identity theft. The indictment accuses Kottmann and co-conspirators of hacking “dozens of companies and government entities,” and posting private data and source code belonging to more than 100 firms online.
+<a href='https://www.theverge.com/2021/3/19/22339625/tillie-kottmann-swiss-hacker-verkada-charged-us-government-verkada'> Source <a/>
