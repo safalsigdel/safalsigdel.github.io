@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sPsD15ly6JeQYcyioCRKo8v3n3M=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68994341/40c40c35_3727_4939_b82b_2f1061b12197.0.png' width='700px' /><br/>
+The hugely popular lo-fi music YouTube channel ChilledCow isn't just known for its chill, cozy beats; the iconic animations of the girl sitting and working at her desk are instantly recognizable around the internet. (She's even being turned into a one-foot-tall figurine.) And on Thursday, the channel's sixth anniversary, ChilledCow fully embraced the icon by rebranding the channel to “Lofi Girl.”
+<a href='https://www.theverge.com/2021/3/19/22340142/chilledcow-lofi-girl-rebrand-lo-fi-beats-youtube'> Source <a/>
