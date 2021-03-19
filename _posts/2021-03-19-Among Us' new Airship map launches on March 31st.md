@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RsaokjRP82_51hFmxm4f4lv89hM=/0x0:6667x3750/1200x800/filters:focal(2801x1342:3867x2408)/cdn.vox-cdn.com/uploads/chorus_image/image/68990222/mm6b5H.0.png' width='700px' /><br/>
-Among Us' new Airship map will be available on March 31st as part of a free update coming to the hit social deduction game. Developer InnerSloth says the Airship map is the game's biggest yet, with new tasks and the ability to pick which room you start in.
-<a href='https://www.theverge.com/2021/3/18/22338782/among-us-airship-map-accounts-update-innersloth'> Source <a/>

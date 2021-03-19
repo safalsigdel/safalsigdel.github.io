@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YJ-ZPrisbhNwg5opqbqAq0HYNR8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68989311/acastro_180501_1777_facebook_dating_0001.0.jpg' width='700px' /><br/>
-The New York Times Cooking Facebook group will soon no longer bear the name of the publication: the Times has given up on controlling it and is taking its name off the group. According to a note posted in the group (which was then reposted to Twitter), control of the private 77,000-member Facebook group will be given over to members of the community who are interested.
-<a href='https://www.theverge.com/2021/3/18/22338247/new-york-times-cooking-facebook-group-moderation-fail'> Source <a/>
