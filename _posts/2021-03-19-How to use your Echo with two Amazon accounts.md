@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fPILVrp-L_tdx6panEKTimwy3kE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68988906/dseifert_181011_3006_1135.0.jpg' width='700px' /><br/>
-If you've got an Alexa device in your home, like an Echo smart speaker, anyone in your home can use it. But there are certain disadvantages to having it associated with only one account. Mainly, it means that everyone is pretty much sharing the same account.
-<a href='https://www.theverge.com/22337956/amazon-echo-alexa-household-accounts-adults-kids-teens-how-to'> Source <a/>
