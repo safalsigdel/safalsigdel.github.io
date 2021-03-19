@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dYehzN3tQI9kDYamvjJ5vTM2CGQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68987478/acastro_170329_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook is expanding its support of physical security keys for two-factor authentication (2FA) on mobile devices, the company said in a blog post Thursday. The social platform has supported security keys for its desktop version since 2017, but starting today, it will let users on its iOS and Android apps use them to secure their accounts as well.
+<a href='https://www.theverge.com/2021/3/18/22337891/facebook-expanding-physical-security-keys-2fa-two-factor-authentication'> Source <a/>

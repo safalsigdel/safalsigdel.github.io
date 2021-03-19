@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iAMXEMJkt1WiJaUtqaNZQ9FMpu4=/0x0:4057x2700/1200x800/filters:focal(1705x1026:2353x1674)/cdn.vox-cdn.com/uploads/chorus_image/image/68984229/GOT_603_tyrion_HBO.0.0.jpeg' width='700px' /><br/>
-One perk of being an AT&T wireless subscriber was being able to stream HBO Max without that counting toward a customer's data cap. That's no longer the case.
-<a href='https://www.theverge.com/2021/3/17/22336872/hbo-max-data-cap-att-net-neutrality-california-zero-rating-streaming'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L0OKk8v9-l0a0nnmVUf0Qu4XcNc=/0x0:3000x2006/1200x800/filters:focal(1260x763:1740x1243)/cdn.vox-cdn.com/uploads/chorus_image/image/68986414/71495571.0.jpg' width='700px' /><br/>
-“Apes together strong” is one of the mottoes of Reddit's r/WallStreetBets community. Now, members of the financial subreddit are making good on one of their favorite memes by donating hundreds of thousands of dollars to charities supporting gorillas in the wild.
-<a href='https://www.theverge.com/2021/3/18/22337670/wallstreetbets-donate-gamestop-profits-gorillas-fund-apes-together-strong'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yCoqCSsNFCKWu9zCMM8rNVVYxw8=/0x0:1088x612/1200x800/filters:focal(457x219:631x393)/cdn.vox-cdn.com/uploads/chorus_image/image/68986293/03_withnotice.0.jpg' width='700px' /><br/>
-Sony is revealing its new VR controllers for the PS5 today. The orb-shaped controllers look more like typical VR controllers than existing PlayStation Move motion controllers, and they also include the same adaptive trigger technology found on the DualSense PS5 controller. Each controller has tensions in the triggers, and Sony is aiming to use this tech in future VR games.
-<a href='https://www.theverge.com/2021/3/18/22337700/sony-new-ps5-playstation-5-vr-controllers-features'> Source <a/>

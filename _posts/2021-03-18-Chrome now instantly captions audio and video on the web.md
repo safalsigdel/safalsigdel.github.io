@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TirZDfAvCGdrewMItIlrKsVUXro=/63x234:985x733/1200x800/filters:focal(430x503:596x669)/cdn.vox-cdn.com/uploads/chorus_image/image/68984872/Screen_Shot_2021_03_17_at_4.21.12_PM.0.png' width='700px' /><br/>
-Google is expanding its real-time caption feature, Live Captions, from Pixel phones to anyone using a Chrome browser, as first spotted by XDA Developers. Live Captions uses machine learning to spontaneously create captions for videos or audio where none existed before, and making the web that much more accessible for anyone who's deaf or hard of hearing.
-<a href='https://www.theverge.com/2021/3/17/22337074/chrome-real-time-live-captions-audio-accessibility'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8pRTkrVlXQNLUl4a2ZrlGV5Nhf8=/0x0:5600x3733/1200x800/filters:focal(2352x1419:3248x2315)/cdn.vox-cdn.com/uploads/chorus_image/image/68983578/DSCF3107.0.jpg' width='700px' /><br/>
-The Securities and Exchange Commission has asked Lordstown Motors for more information about allegations that the EV startup misled investors about its progress to date. Lordstown Motors said Wednesday that it is cooperating with the inquiry and that its board of directors has created a special committee to review the claims. The startup is backed by General Motors, which has a seat on the board.
-<a href='https://www.theverge.com/2021/3/17/22336751/lordstown-motors-sec-inquiry-review-hindenburg-investigation-orders'> Source <a/>

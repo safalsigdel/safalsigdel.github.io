@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qKB1HvV7U2IXTa34FixhZCbukvM=/0x0:3000x2291/1200x800/filters:focal(1260x906:1740x1386)/cdn.vox-cdn.com/uploads/chorus_image/image/68989409/903922964.0.jpg' width='700px' /><br/>
+A child was killed in an accident involving the Peloton's Tread Plus treadmill, Peloton CEO John Foley said in a note posted to the company website Thursday.
+<a href='https://www.theverge.com/2021/3/18/22338287/peloton-ceo-accident-treadmill-child-death-safety'> Source <a/>

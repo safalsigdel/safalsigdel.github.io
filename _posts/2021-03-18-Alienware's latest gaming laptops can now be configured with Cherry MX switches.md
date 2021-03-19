@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1wfP39kGK9KWkBtFsgWfDSlVMio=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68986491/cfaulkner_200826_4165_0005.0.0.jpg' width='700px' /><br/>
-Alienware and Cherry have worked together to cram what both companies are calling the “first true” mechanical keyboard into a gaming laptop. Starting March 18th, you'll be able to purchase Alienware's M15 R4 or M17 R4 laptops and upgrade them to a Cherry MX mechanical keyboard for an extra $150 at checkout.
-<a href='https://www.theverge.com/2021/3/18/22333684/alienware-m15-m17-gaming-laptops-cherry-mx-ultra-low-mechanical-keyboard-switches-price'> Source <a/>

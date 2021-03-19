@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xgarlJe43Veg7A1X-Rs2a5FtNKI=/0x41:1440x846/1200x800/filters:focal(605x335:835x565)/cdn.vox-cdn.com/uploads/chorus_image/image/68990092/Screen_Shot_2021_03_18_at_4.39.49_PM.0.png' width='700px' /><br/>
+Twitch streamer Ludwig Ahgren has been live since March 14th, and today marked the fourth continuous day of his broadcast. The reason? Every time someone subscribes to his channel, it adds 10 seconds to the amount of time he plans to remain live. In other words: Ahgren is running an uncapped subathon because he'll stay up as long as viewers keep subscribing.
+<a href='https://www.theverge.com/2021/3/18/22338680/ludwig-ahgren-twitch-subathon'> Source <a/>

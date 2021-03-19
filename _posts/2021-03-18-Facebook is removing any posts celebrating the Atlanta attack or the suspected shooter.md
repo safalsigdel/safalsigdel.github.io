@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TGOMCagMaMF9TxfN9GHxpYrveTE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68985873/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook says it will remove any posts that celebrate the recent shooting in Atlanta or support the suspected shooter. Eight people were killed in the attack. Seven of the victims of the shooting were women and six were of Asian descent.
-<a href='https://www.theverge.com/2021/3/18/22337583/atlanta-shooting-attack-facebook-posts-removed-supporting-praising'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VhBBEmlq0QEBMNAQrJdlkB2bgvg=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/68987371/Specialized_VadoSL.0.jpg' width='700px' /><br/>
+The growing popularity of electric bikes has raised a lot of exciting possibilities about the future of transportation, but it also presents a number of unique challenges. Chief among them is what to do with all those e-bike batteries when they eventually run out of juice. Rather than send them to a landfill, one major bike manufacturer is teaming up with a co-founder of Tesla to ensure those batteries have a second life.
+<a href='https://www.theverge.com/2021/3/18/22335988/specialized-redwood-ebike-battery-recycle-straubel-tesla'> Source <a/>

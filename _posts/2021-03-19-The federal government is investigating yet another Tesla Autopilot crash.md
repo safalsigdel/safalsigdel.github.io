@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6cVb02ONX_ItocyzdTXd7KT0BVw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68989523/acastro_180524_1777_tesla_0003.0.jpg' width='700px' /><br/>
+The National Highway Traffic Safety Administration is investigating another Tesla crash in which Autopilot was allegedly in use.
+<a href='https://www.theverge.com/2021/3/18/22338427/tesla-autopilot-crash-michigan-nhtsa-investigation'> Source <a/>

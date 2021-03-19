@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B3muJfo-hcKW-0fEvhqcWsmW5Ws=/0x0:2706x1516/1200x800/filters:focal(1137x542:1569x974)/cdn.vox-cdn.com/uploads/chorus_image/image/68983499/Screen_Shot_2021_02_17_at_8.23.59_AM.0.png' width='700px' /><br/>
-YouTube TV added popular missing channels like MTV and Nickelodeon in 2020 after striking a deal with ViacomCBS, but now the streaming service is finally adding in the remaining stragglers like Nick Jr. and MTV2, according to WhatToWatch.
-<a href='https://www.theverge.com/2021/3/17/22336474/youtube-tv-nick-jr-viacom-cbs-mtv-bet-classic'> Source <a/>

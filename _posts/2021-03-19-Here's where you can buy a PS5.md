@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K-yujrt8GZ6ZtW6KrV2Pv6PphgI=/0x0:1024x683/1200x1200/filters:focal(512x342:513x343)/cdn.vox-cdn.com/uploads/chorus_asset/file/22017052/ps5_all_digital.jpg' width='700px' /><br/>
+Update March 18th, 2021 2:50PM ET: Walmart is restocking both the PS5 and PS5 Digital Edition today at 3PM ET, while supplies last.
+<a href='https://www.theverge.com/22323257/sony-playstation-5-ps5-in-stock-digital-disk-edition-where-buy'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rXWRlFpjwuMgYEL6hTC-c0X1evs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68982976/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Today let's talk about platforms' growing interest in building newsletter tools — and whether Facebook, against all conventional wisdom, might have an opportunity there.
-<a href='https://www.theverge.com/2021/3/17/22336452/facebook-newsletters-substack-revue-media-groups-pages'> Source <a/>

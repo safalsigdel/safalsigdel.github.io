@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a144LUdalK81qQdolHy1Jf3ZmU4=/0x0:831x584/1200x800/filters:focal(350x226:482x358)/cdn.vox-cdn.com/uploads/chorus_image/image/68987363/FireTV.0.jpg' width='700px' /><br/>
+Back in December, Amazon launched an ad-sponsored news app on its Fire TV platform.  At that time, the app offered local news coverage in 12 cities, including New York, San Francisco, Dallas, Miami, and more. But today, Amazon says it's expanding local news to “88 major cities” across the US, “including popular local stations from news distributors such as ABC Owned Television Stations, CBSN, TEGNA, Cox, The E.W. Scripps Company, and Altice USA.”
+<a href='https://www.theverge.com/2021/3/18/22337922/amazon-fire-tv-free-local-news-streaming-app'> Source <a/>

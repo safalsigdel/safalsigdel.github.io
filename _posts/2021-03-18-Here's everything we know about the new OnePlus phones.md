@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/azIc1ZO-AJydNP-opQyDP2mNwkM=/0x0:800x418/1200x800/filters:focal(220x136:348x264)/cdn.vox-cdn.com/uploads/chorus_image/image/68986493/Ewgs_gjUcAMIE12.0.png' width='700px' /><br/>
-OnePlus has an upcoming event on March 23rd, where it'll be formally announcing the OnePlus 9, and OnePlus 9 Pro. As with any smartphone event these days, there's a ton of information about what will be revealed at the event, thanks in no small part to OnePlus itself doling out pieces of news over the past couple of weeks.
-<a href='https://www.theverge.com/2021/3/18/22334396/oneplus-9-march-23rd-event-rumor-announcement-roundup-smartwatch-cameras'> Source <a/>

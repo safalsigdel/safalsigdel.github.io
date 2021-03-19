@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j1vLFzgvUsmy-Z3xSbV46aDgqEc=/0x0:534x356/1200x800/filters:focal(225x136:309x220)/cdn.vox-cdn.com/uploads/chorus_image/image/68990436/1616062102_oneplus_9r.0.jpg' width='700px' /><br/>
+A third phone in the upcoming OnePlus 9 series has been confirmed by the company's CEO, in an interview with News18 (via Android Police). The announcement, which is coming just five days before the OnePlus 9 and 9 Pro are set to be fully revealed, confirms rumors that OnePlus would also be announcing a less expensive phone in addition to its new flagships. So far, though, the phone is only confirmed to be coming to India.
+<a href='https://www.theverge.com/2021/3/18/22338504/oneplus-9r-less-expensive-phone-confirmed-india-5g'> Source <a/>

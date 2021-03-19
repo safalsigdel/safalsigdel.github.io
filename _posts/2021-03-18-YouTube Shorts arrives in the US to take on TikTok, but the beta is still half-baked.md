@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i3dCTQy2HDuHUIrCkYzwIH3qMSA=/0x0:4332x2889/1200x800/filters:focal(1820x1099:2512x1791)/cdn.vox-cdn.com/uploads/chorus_image/image/68986561/youtube_shorts_beta.0.jpg' width='700px' /><br/>
-YouTube Shorts, the company's short-form answer to TikTok, is launching in beta in the United States starting today. The short video format has already been available for several months in India, but today marks its debut stateside (along with the addition of several new features).
-<a href='https://www.theverge.com/2021/3/18/22334540/youtube-shorts-us-beta-tiktok-competition-launch'> Source <a/>

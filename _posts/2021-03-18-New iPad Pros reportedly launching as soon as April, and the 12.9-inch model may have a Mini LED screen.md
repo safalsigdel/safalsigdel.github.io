@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7z1roCGXRp6Lj0lkW63LcFZJNPg=/0x0:2040x1360/1200x800/filters:focal(550x544:876x870)/cdn.vox-cdn.com/uploads/chorus_image/image/68984261/bking_200321_3945_0008.0.jpg' width='700px' /><br/>
-Apple is reportedly planning a number of updates to its iPad line, including new iPad Pros launching as soon as April, a new iPad mini with a larger screen, and a refresh of the base iPad, according to Bloomberg.
-<a href='https://www.theverge.com/2021/3/17/22336917/apple-new-ipad-pros-mini-base-april'> Source <a/>

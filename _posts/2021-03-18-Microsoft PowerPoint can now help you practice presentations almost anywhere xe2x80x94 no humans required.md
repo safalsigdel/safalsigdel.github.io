@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OKN5h22ZyeBqo9_kePE7MIVyDs0=/0x0:1996x1250/1200x800/filters:focal(839x466:1157x784)/cdn.vox-cdn.com/uploads/chorus_image/image/68984583/Screen_Shot_2021_03_17_at_2.54.00_PM.0.png' width='700px' /><br/>
-Microsoft's Presenter Coach, which helps you practice presentations, has been available on the web version of PowerPoint for a while now, but it's finally coming to the desktop and mobile versions of the app. According to Microsoft, the feature will now be available on Mac, Windows, iOS, Android, and, of course, the web.
-<a href='https://www.theverge.com/2021/3/17/22336914/microsoft-ai-powerpoint-presenter-coach-available-desktop-mobile'> Source <a/>

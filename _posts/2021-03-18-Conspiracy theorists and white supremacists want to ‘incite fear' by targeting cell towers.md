@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eQWuhCDdWIEQcQyjZRRXF-EKh_o=/0x0:3992x2534/1200x800/filters:focal(1677x948:2315x1586)/cdn.vox-cdn.com/uploads/chorus_image/image/68986020/1187777043.0.jpg' width='700px' /><br/>
-Cellphone towers are being increasingly targeted by conspiracy theorists, neo-Nazis, and white supremacists who wish to “incite fear, disrupt essential services, and cause economic damage,” according to an internal New York Police Department report seen by The Intercept.
-<a href='https://www.theverge.com/2021/3/18/22337614/extremist-groups-targeting-cell-towers-far-right-white-nationalist-conspiracy-theories'> Source <a/>
