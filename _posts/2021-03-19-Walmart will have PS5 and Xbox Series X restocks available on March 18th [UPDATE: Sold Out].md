@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ECLaCgIK31OEjiMav_EFF9u5ti4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68987933/vpavic_4261_20201023_0068.0.jpg' width='700px' /><br/>
-Update March 18th, 2021 3:45PM ET: Walmart has sold out of PS5 Digital Edition, PS5, and Xbox Series X consoles. The Xbox Series S is still available for purchase at $299.99.
-<a href='https://www.theverge.com/2021/3/18/22338157/playstation-5-xbox-series-x-s-restocks-walmart-time-date'> Source <a/>
