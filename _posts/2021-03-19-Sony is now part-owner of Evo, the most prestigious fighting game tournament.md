@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HcG8-oqTer3jVUHVpBPJYGbfFD4=/0x0:720x480/1200x800/filters:focal(303x183:417x297)/cdn.vox-cdn.com/uploads/chorus_image/image/68989644/6051484ac3c9a940d27ac1fb_i_ZN8xk4M_X3.0.jpeg' width='700px' /><br/>
-Sony and RTS, a new venture from Endeavor's esports business, have acquired the prestigious Evo fighting game tournament through “a joint venture esports partnership.” The terms of the acquisition were not disclosed “due to contractual commitments.”
-<a href='https://www.theverge.com/2021/3/18/22338683/sony-part-owner-evo-fighting-game-tournament'> Source <a/>
