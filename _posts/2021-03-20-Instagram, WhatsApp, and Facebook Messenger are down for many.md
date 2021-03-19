@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9sPkI7GnkvSjDQXXJ5AX1WOkB-I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68994608/akrales_180614_1777_0229.0.jpg' width='700px' /><br/>
-Instagram, WhatsApp, and Facebook Messenger are down for many right now. More than 123,000 users have reported issues with Instagram on DownDetector. More than 23,000 users have reported issues with WhatsApp on DownDetector, too, and the service is down for one Verge staffer's family, who is based in Europe. Facebook Messenger seems to be affected as well, with more than 5,000 reports of problems on DownDetector.
-<a href='https://www.theverge.com/2021/3/19/22340405/instagram-whatsapp-facebook-messenger-down-outage'> Source <a/>
