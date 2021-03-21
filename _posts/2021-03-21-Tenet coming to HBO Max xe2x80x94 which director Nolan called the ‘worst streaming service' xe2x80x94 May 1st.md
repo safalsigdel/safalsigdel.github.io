@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GOnUB8T7ONQ6bGeGeQLbbsi0yGM=/0x0:2048x1152/1200x800/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/69001626/tenet_poster.0.jpg' width='700px' /><br/>
+Christopher Nolan's time-shifting thriller Tenet will debut on HBO Max May 1st, just a few months after the director called it the “worst streaming service.”
+<a href='https://www.theverge.com/2021/3/21/22342955/tenet-coming-hbo-max-nolan-streaming-movie-theaters'> Source <a/>
