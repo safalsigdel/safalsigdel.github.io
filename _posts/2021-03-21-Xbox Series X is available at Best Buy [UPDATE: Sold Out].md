@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NJ20AZQrYXqZwwFWwQ21CBvUefo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68994431/vpavic_201103_4275_0196.0.jpg' width='700px' /><br/>
-Update March 19th, 2021 2:23PM ET: Best Buy has sold out of Xbox Series X consoles for today.
-<a href='https://www.theverge.com/2021/3/19/22339803/box-series-x-s-restock-best-buy-price-game-pass-controller'> Source <a/>
