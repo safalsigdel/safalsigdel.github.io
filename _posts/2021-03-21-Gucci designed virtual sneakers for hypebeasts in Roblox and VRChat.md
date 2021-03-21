@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GxmlpT82bn2uwUxiIqfGto30BO4=/275x171:1683x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68996062/Image_1.0.jpg' width='700px' /><br/>
+Gucci is diving into virtual luxury footwear with a new exclusively digital pair of sneakers called The Gucci Virtual 25 that can be “worn” in augmented reality (AR) or used in partnered apps like Roblox and VRChat. Surprisingly, the shoes are a lot less expensive than a typical Gucci piece: you can buy the Virtual 25s from Gucci's app for $12.99, or $8.99 in the Wanna Kicks AR sneaker app.
+<a href='https://www.theverge.com/2021/3/19/22340621/gucci-virtual-25-sneaker-ar-vrchat-roblox'> Source <a/>

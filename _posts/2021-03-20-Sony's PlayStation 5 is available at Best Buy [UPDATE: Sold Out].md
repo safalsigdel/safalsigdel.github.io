@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZF4Rr2pmEv4KUN4BTH_ywLE64U8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68994185/vpavic_4261_20201023_0040.0.jpg' width='700px' /><br/>
-Update March 19th, 2021 1:06 PM ET: Best Buy is not out of stock of the PS5.
-<a href='https://www.theverge.com/2021/3/19/22339786/ps5-sony-playstation-5-best-buy-restock'> Source <a/>

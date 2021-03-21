@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a-dP09158FFv-H-WbhHqbP4wTvI=/0x0:1024x704/1200x800/filters:focal(431x271:593x433)/cdn.vox-cdn.com/uploads/chorus_image/image/68995054/dac.0.png' width='700px' /><br/>
+Astell & Kern — the company best known for its high-end portable digital audio players — is making a USB-C DAC (digital-to-analog converter) that's designed to help get better-sounding audio from modern smartphones and computers that may lack a 3.5mm headphone jack.
+<a href='https://www.theverge.com/2021/3/19/22340124/astell-kern-usb-c-dac-audio-quality-amp-headphone-jack'> Source <a/>

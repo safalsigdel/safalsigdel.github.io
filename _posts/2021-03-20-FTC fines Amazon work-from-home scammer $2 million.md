@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KBAizNPlUa4gfBPSAZL6xRgIhl8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68994016/acastro_181114_1777_amazon_hq2_0003.0.jpg' width='700px' /><br/>
-The Federal Trade Commission has banned an alleged work-from-home scammer who pretended to be part of Amazon's Associates program, the agency said in a news release. The scam led unsuspecting people to think they were interviewing for jobs with Amazon.
-<a href='https://www.theverge.com/2021/3/19/22340046/ftc-amazon-scam-work-from-home-2-million'> Source <a/>

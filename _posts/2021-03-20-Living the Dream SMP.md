@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XyYRcB1BhNfZg9GjrqVJTCH36zU=/0x0:2040x1360/1200x675/filters:focal(872x498:1198x824)/cdn.vox-cdn.com/uploads/chorus_image/image/68993291/acastro_210318_4480_dreamSMP_0001.0.jpg' width='700px' /><br/>
-Ollie was asleep at three in the morning when the Discord app on his phone started blowing up. He panicked; many of his friends lived in different time zones, but they knew how late it was for him. The only reason they'd be frantically messaging him in the middle of the night is if something terrible happened. Bolting awake, he checked his messages.
-<a href='https://www.theverge.com/22338418/dream-smp-youtube-minecraft-fanart-fanfiction-video-edits-fandom'> Source <a/>

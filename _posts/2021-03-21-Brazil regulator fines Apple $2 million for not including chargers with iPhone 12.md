@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TZuzW4hQhYm2WfvSZE5OtPOBVwc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68999753/vpavic_4243_20201018_0139.0.0.jpg' width='700px' /><br/>
+The consumer protection agency in Brazil's Sxc3xa3o Paulo state has fined Apple $2 million for failing to include chargers within iPhone 12 boxes, according to 9to5 Mac. Procon-SP says Apple engaged in “misleading advertising, selling a device without the charger and unfair terms.”
+<a href='https://www.theverge.com/2021/3/20/22342051/brazil-regulator-fines-apple-2-million-chargers-iphone-12'> Source <a/>

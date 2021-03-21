@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ugWEsSRyrW0mFP25JDyUEiURRzM=/0x0:2856x1840/1200x800/filters:focal(1200x692:1656x1148)/cdn.vox-cdn.com/uploads/chorus_image/image/68999259/Screen_Shot_2020_08_04_at_11.10.17_AM.0.png' width='700px' /><br/>
+Apple recently discontinued the iMac Pro, and two configurations of the 21.5-inch iMac are now joining the Pro in retirement. As spotted by MacRumors, the 512GB and 1TB SSD configurations of the 21.5-inch iMac are no longer available for purchase, with only the 256GB SSD and 1TB Fusion drive versions available to buy on Apple's website.
+<a href='https://www.theverge.com/2021/3/20/22341882/apple-discontinuing-21-5-inch-imac'> Source <a/>

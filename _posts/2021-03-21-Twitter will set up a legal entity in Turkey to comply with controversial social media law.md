@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QHO6MRJTvubZE2kK_hU7i8I7c0k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68999104/acastro_200715_1777_twitter_0001.0.0.jpg' width='700px' /><br/>
+Twitter is planning to establish a legal entity in Turkey to continue operating there under the country's controversial internet law that took effect last year, the company announced late Friday. Under the law, social media companies that have more than 1 million users must store Turkish users' data in the country.
+<a href='https://www.theverge.com/2021/3/20/22341798/twitter-legal-entity-turkey-comply-social-media-law-privacy'> Source <a/>

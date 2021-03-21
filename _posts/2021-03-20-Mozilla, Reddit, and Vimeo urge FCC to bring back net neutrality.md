@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1xaFksQX0PyqiRPqdRmx_44RDIk=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68993937/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
-Tech companies like Mozilla, Reddit, and Vimeo called on the Federal Communications Commission Friday to reinstate the net neutrality rules repealed by the Trump administration.
-<a href='https://www.theverge.com/2021/3/19/22340165/mozilla-reddit-vimeo-fcc-net-neutrality-ajit-pai-rosenworcel'> Source <a/>

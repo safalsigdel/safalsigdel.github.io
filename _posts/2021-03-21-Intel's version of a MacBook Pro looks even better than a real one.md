@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/576QCTybn4HyBfqsd2rQlL-OABc=/0x0:1920x1080/1200x800/filters:focal(546x430:852x736)/cdn.vox-cdn.com/uploads/chorus_image/image/68996281/Screen_Shot_2021_03_19_at_1.50.09_PM.0.png' width='700px' /><br/>
+Intel launched a new ad campaign starring Justin Long, Apple's “I'm a Mac” actor, but for this campaign, Long is singing the praises of PC laptops and comparing them to MacBooks. The thing is, for reasons that we can't quite figure out, Intel actually made the MacBook Pros in its commercials look better than they do in real life, as spotted by tech YouTuber Rene Ritchie.
+<a href='https://www.theverge.com/2021/3/19/22340359/intel-apple-macbook-pro-ad-commercial-justin-long-all-screen'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zI33uM3TbawGGnNi2VmiqKqkXIU=/0x0:3000x2001/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/68994072/1192349155.jpg.0.jpg' width='700px' /><br/>
-China is prohibiting its military and government personnel from using Tesla vehicles, citing a potential security risk posed by the electric automaker's data collection, The Wall Street Journal reports.
-<a href='https://www.theverge.com/2021/3/19/22339937/tesla-china-security-evs-camera-restriction'> Source <a/>

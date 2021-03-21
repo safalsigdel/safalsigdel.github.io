@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+You can switch from your old phone to a new Google Pixel, or you can close your eyes, breathe, and then mindfully switch to a new Google Pixel. Sorry, I'm trying to force myself into the higher plane of existence that the narrator of this new ad-meets-ASMR meditation session from Google is on, and the edibles haven't kicked in yet.
+<a href='https://www.theverge.com/tldr/2021/3/19/22340529/google-pixel-switch-commercial-edible-meditation-god'> Source <a/>

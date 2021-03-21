@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wB2PvSovCFSFrfB4gtGZpkGWQhA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68990589/acastro_190919_1777_instagram_0003.0.0.jpg' width='700px' /><br/>
-Head of Instagram Adam Mosseri confirms that a version of the popular photo sharing app for children under 13 is in the works, BuzzFeed News reports. The Facebook-owned company knows a lot of kids want to use Instagram, Mosseri said, but there isn't a “detailed plan yet,” according to BuzzFeed News.
-<a href='https://www.theverge.com/2021/3/18/22338911/facebook-instagram-kids-privacy-coppa'> Source <a/>

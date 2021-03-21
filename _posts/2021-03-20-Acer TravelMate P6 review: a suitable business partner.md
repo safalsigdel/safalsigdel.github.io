@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h-Kq4Un_lKvrYpTfZSHc9mcOkuw=/0x0:2040x1360/1200x675/filters:focal(844x588:1170x914)/cdn.vox-cdn.com/uploads/chorus_image/image/68994225/akrales_210212_4404_0116.0.jpg' width='700px' /><br/>
-Any business laptop that comes out these days is entering a tough field full of very established players. The world is already stuffed full of ThinkPads and Latitudes, which have strong followings, cover price ranges across the board, and are highly attuned to what workers need.
-<a href='https://www.theverge.com/22339981/acer-travelmate-p6-review-2021-14-inch-laptop-specs-features-price'> Source <a/>

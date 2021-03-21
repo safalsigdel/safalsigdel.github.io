@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JVZbM8Zud1X735VjsbWlF55LAaI=/0x0:4608x2592/1200x675/filters:focal(1936x928:2672x1664)/cdn.vox-cdn.com/uploads/chorus_image/image/68992880/MatPat_headshot.0.jpg' width='700px' /><br/>
-Matthew “MatPat” Patrick was on YouTube for two years before he hit publish on the first entry in the series that changed his life — and YouTube culture as a whole.
-<a href='https://www.theverge.com/2021/3/19/22337007/matpat-game-theory-10-year-anniversary-youtube-interview-gaming'> Source <a/>

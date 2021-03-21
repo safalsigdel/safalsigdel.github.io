@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WhU09ElnQbqhJ3A7VN4SH3KHUM0=/0x0:2040x1530/1200x800/filters:focal(1059x864:1385x1190)/cdn.vox-cdn.com/uploads/chorus_image/image/68998446/A._Rivian_R1S_Front.0.jpg' width='700px' /><br/>
+Amazon-backed electric vehicle startup Rivian will install more than 10,000 fast chargers across the US and Canada by 2023, the company announced. The Rivian Adventure Network is designed to allow quick recharges along highways and also includes Level 2 charges at more remote locations near parks and other destinations.
+<a href='https://www.theverge.com/2021/3/20/22341664/rivian-install-10000-ev-chargers-us-canada-2023'> Source <a/>

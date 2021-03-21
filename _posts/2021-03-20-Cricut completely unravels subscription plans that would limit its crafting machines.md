@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cY1hlX-oeIwLPZbXkUiD-3Ynnr8=/0x0:4148x2368/1200x800/filters:focal(1743x853:2405x1515)/cdn.vox-cdn.com/uploads/chorus_image/image/68990914/Screen_Shot_2021_03_15_at_11.39.19_AM.0.png' width='700px' /><br/>
-Cricut has announced in a new blog post that its automated cutting and printing craft machine will no longer require a subscription for unlimited uploads next year. The company took a step back when it announced it would postpone the change until 2022. But now Cricut CEO Ashish Arora is reversing the company's plans entirely, guaranteeing Cricut machines will work how they've always worked.
-<a href='https://www.theverge.com/2021/3/18/22338801/cricut-crafting-machines-backlash-no-more-subscription-needed'> Source <a/>
