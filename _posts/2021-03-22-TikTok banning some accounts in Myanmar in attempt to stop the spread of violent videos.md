@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lSNAzi8OVMifCpS_CM10oFiRVMc=/0x0:5000x3405/1200x800/filters:focal(2100x1303:2900x2103)/cdn.vox-cdn.com/uploads/chorus_image/image/68998676/1231809707.0.jpg' width='700px' /><br/>
-TikTok says it has “aggressively banned” numerous accounts and devices in Myanmar, in an attempt to curb misinformation and the spread of violent videos on its platform.
-<a href='https://www.theverge.com/2021/3/20/22341715/tiktok-banning-accounts-myanmar-violent-videos-coup'> Source <a/>

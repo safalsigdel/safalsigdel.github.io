@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sKi9-MeRmqYoQYuCcNRrcJVSlbw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69006426/acastro_201105_4277_50guide_0001.0.jpg' width='700px' /><br/>
+We all have our favorite stuff. It could be a laptop that you've used for several years or the snazzy new one that just arrived last week. It could be the headphones that deliver your favorite music and podcasts, the controller that helps you win your games, or the app that puts a weird background on your Zoom calls.
+<a href='https://www.theverge.com/22344288/favorite-gadgets-tech-lgear-aptops-headphones-kitchen-recommendations'> Source <a/>
