@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Lz7SglfrufhriaMZFW-gympUekQ=/0x0:4602x3067/1200x800/filters:focal(1933x1166:2669x1902)/cdn.vox-cdn.com/uploads/chorus_image/image/69004548/3fb3e3ec9d23fe828ab18289b42158483245f6afb9ecfdc80fd72b04000d0b9a.0.jpg' width='700px' /><br/>
+Images of two of Samsung's rumored upcoming laptops — the Galaxy Book Pro and Galaxy Book Pro 360 — have leaked early, giving us our clearest look yet at the two devices. The apparent marketing images were posted to Voice by reliable leaker Evan Blass, who says they could launch as early as April.
+<a href='https://www.theverge.com/2021/3/22/22344116/samsung-galaxy-book-pro-360-laptop-convertable-stylus-support'> Source <a/>
