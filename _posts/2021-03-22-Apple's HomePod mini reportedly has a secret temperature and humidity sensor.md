@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xNG8ocRor6B0kPAK1nczAfCzb0A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69005419/dseifert_201107_4281_0009.0.0.jpg' width='700px' /><br/>
+Apple's HomePod mini smart speaker has an as-yet-undisclosed temperature and humidity sensor in its casing, Bloomberg reports. The sensor's exact location was confirmed by iFixit, and it appears to be placed away from the speaker's internal components so it can measure the external temperature. The exact sensor used is a 1.5 x 1.5mm HDC2010 Humidity and Temperature Digital Sensor from Texas Instruments.
+<a href='https://www.theverge.com/2021/3/22/22344279/apple-homepod-mini-temperature-humidity-sensor-secret'> Source <a/>
