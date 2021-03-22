@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aH-wWvk8JiHwf1jEh2aTOlK8SJA=/0x0:3888x2592/1200x800/filters:focal(2076x836:2698x1458)/cdn.vox-cdn.com/uploads/chorus_image/image/68999510/1231429911.0.jpg' width='700px' /><br/>
-The Commodity Futures Trading Commission (CFTC) said in a news release Friday that cryptocurrency exchange platform Coinbase has paid $6.5 million to settle regulators' claims that it reported misleading transaction data.
-<a href='https://www.theverge.com/2021/3/20/22341965/coinbase-will-pay-6-5-million-settle-trading-cryptocurrency'> Source <a/>
