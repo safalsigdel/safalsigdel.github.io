@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/92zfT-jAe5JkJYKwHqmZtRCO5JY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69004316/DSCF7578.0.jpg' width='700px' /><br/>
+OnePlus is switching to ColorOS, the variant of Android used by Oppo smartphones, for its new OnePlus 9 series in China. The move was announced on OnePlus' forums by Gary C, the product lead on OxygenOS, which is what OnePlus phones use in the rest of the world.
+<a href='https://www.theverge.com/2021/3/22/22344054/oneplus-9-oppo-coloros-in-china-hydrogenos'> Source <a/>
