@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MYaJb7fgy_d0abDqvmxbwPYZ_CE=/478x0:2874x1226/1200x800/filters:focal(1208x384:1666x842)/cdn.vox-cdn.com/uploads/chorus_image/image/69004827/Screen_Shot_2020_01_09_at_11.05.35_AM.0.png' width='700px' /><br/>
+David Dobrik has parted ways with Dispo, the disposable camera app co-founded by the YouTuber in 2019, after allegations of sexual assault were made against a former member of his Vlog Squad, The Information reports.
+<a href='https://www.theverge.com/2021/3/22/22344171/david-dobrik-dispo-disposable-camera-app-cuts-ties'> Source <a/>
