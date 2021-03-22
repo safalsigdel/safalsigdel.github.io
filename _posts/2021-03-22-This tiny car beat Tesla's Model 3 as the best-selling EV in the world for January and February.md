@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dLMb0Ly1KRdO2rg01CCo9reMY8g=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/68999987/1024px_Wuling_Hongguang_Mini_001.0.jpg' width='700px' /><br/>
-The Hong Guang Mini EV edged out Tesla's Model 3 as the top-selling electric vehicle in the world in January and February, not a small feat for the relatively new hatchback. More than 36,000 of the tiny cars sold in January, compared to about 21,500 Model 3s, and the Hong Guang sold just over 20,000 units last month, compared to just under 13,700 Tesla 3s.
-<a href='https://www.theverge.com/2021/3/20/22342140/tiny-car-beat-tesla-model-3-china-ev-january-february'> Source <a/>

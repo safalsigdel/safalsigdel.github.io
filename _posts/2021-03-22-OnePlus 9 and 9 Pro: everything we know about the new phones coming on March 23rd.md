@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1muWmelJdD2nY7rmx9x2efR8YkU=/0x0:2262x1336/1200x800/filters:focal(915x417:1275x777)/cdn.vox-cdn.com/uploads/chorus_image/image/69006766/Screen_Shot_2021_03_19_at_3.46.40_PM.0.png' width='700px' /><br/>
+After a week of previews on Twitter and in the press, OnePlus' new flagship phones are set to be officially announced at an event on March 23rd at 10AM ET. Alongside them, we expect to hear about a budget option as well as a new smartwatch.
+<a href='https://www.theverge.com/22339187/oneplus-9-series-event-news-smartwatch-phones'> Source <a/>
