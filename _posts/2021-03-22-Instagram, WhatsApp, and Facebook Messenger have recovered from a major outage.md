@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9sPkI7GnkvSjDQXXJ5AX1WOkB-I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68994608/akrales_180614_1777_0229.0.jpg' width='700px' /><br/>
-Facebook has resolved a major outage affecting Instagram, WhatsApp, Facebook Messenger, and other Facebook services on Friday, according to a statement shared with The Telegraph's Margi Murphy.
-<a href='https://www.theverge.com/2021/3/19/22340405/instagram-whatsapp-facebook-messenger-down-outage'> Source <a/>
