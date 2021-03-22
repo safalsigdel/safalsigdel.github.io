@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Fontemon is technically a font, but it's also, somewhat miraculously, a playable miniature Pokxc3xa9mon parody, spotted by software engineer Daniel Feldman. The game, made by Michael Mulet, stretches my understanding of what a font is, but it's certainly amazing. Also, it's filled with Minnesota references.
-<a href='https://www.theverge.com/tldr/2021/3/19/22340145/fontemon-pokemon-parody-game-typing-minnesota-font'> Source <a/>

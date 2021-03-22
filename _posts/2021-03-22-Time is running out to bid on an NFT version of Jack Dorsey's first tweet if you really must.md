@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/domBe1bp9U-Lv2nm0-ITkE_gZoY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69002923/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
+If you want to buy Jack Dorsey's first tweet, you'd better get your bid in. The billionaire co-founder and CEO of Twitter put the tweet up for digital auction as an NFT —non-fungible token— a digital good that lives on the Ethereum blockchain. Dorsey's 15-year-old tweet is up for sale  on a platform called Valuables by Cent that lets people make offers on tweets that are “autographed by their original creators.”
+<a href='https://www.theverge.com/2021/3/21/22343401/time-bid-jack-dorsey-twitter-first-tweet-nft'> Source <a/>
