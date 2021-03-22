@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_Mswo9Z-_JMYKcgepBz3OoHR3-0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68998465/acastro_210319_1777_nft_0001.0.jpg' width='700px' /><br/>
-The artist Derek Laufman woke up last weekend to a couple emails from his followers, who had a question for him. They wanted to know if he'd started selling NFTs — non-fungible tokens — of his art. But it wasn't just email. People had DMed him on Instagram and Twitter, too. “I just replied, that's 100 percent not me,” Laufman says when I reach him by video call.
-<a href='https://www.theverge.com/2021/3/20/22334527/nft-scams-artists-opensea-rarible-marble-cards-fraud-art'> Source <a/>
