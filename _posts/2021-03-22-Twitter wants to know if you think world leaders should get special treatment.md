@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/shCOwPHmbid3F3N8uCZyC2wEyo0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68995969/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter is planning to review its policies regarding world leaders, and it's seeking input on what those policies should look like. Twitter is running a survey from March 19th to April 12th, and it says, in general, it wants to know “whether or not [the public] believe[s] world leaders should be subject to the same rules as others on Twitter.”
-<a href='https://www.theverge.com/2021/3/19/22340643/twitter-public-survey-world-leader-rules-enforcement'> Source <a/>

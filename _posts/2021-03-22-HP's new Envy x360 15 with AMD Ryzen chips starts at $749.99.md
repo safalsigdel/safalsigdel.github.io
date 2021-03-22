@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mwEuKfFjosDUWuwnitqWeZwjfLY=/0x0:8071x5381/1200x800/filters:focal(3391x2046:4681x3336)/cdn.vox-cdn.com/uploads/chorus_image/image/69004937/AMD_HP_ENVY_x360_15_NightfallBlack_5173_v06.0.jpg' width='700px' /><br/>
+HP has announced two new budget workstations for content creators: an Envy x360 15 and an Envy 17. The 15-inch convertible, starting at $749.99, is available with both AMD Ryzen 7 and Intel 11th Gen processors. The 17-inch clamshell starts at $999.99, and is Intel-only.
+<a href='https://www.theverge.com/2021/3/22/22340902/hp-envy-x360-15-17-intel-amd-new-price-release-date-laptops'> Source <a/>
