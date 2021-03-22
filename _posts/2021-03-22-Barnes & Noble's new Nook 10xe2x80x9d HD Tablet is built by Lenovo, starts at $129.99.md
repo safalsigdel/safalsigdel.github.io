@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PyL3A9zYeikA3XsZ-3sSZe67Kzc=/0x0:1818x780/1200x800/filters:focal(764x245:1054x535)/cdn.vox-cdn.com/uploads/chorus_image/image/68995433/Tablet.0.jpeg' width='700px' /><br/>
-Barnes & Noble has announced its latest Nook-branded tablet: the promised Lenovo collaboration called the Nook 10” HD Tablet. It adds an improved all-metal design, smaller bezels, and better battery life, while staying at the same $129.99 price tag as its predecessor, the Nook 10.1” from 2018.
-<a href='https://www.theverge.com/2021/3/19/22340588/barnes-and-noble-new-nook-10-hd-tablet-lenovo-price-release-date-ebooks'> Source <a/>

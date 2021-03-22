@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Last Friday, the Fagradalsfjall volcano near Iceland's capital of Reykjavik began erupting for the first time in 800 years after the island nation was hit by thousands of small earthquakes. Thankfully, the eruption was small and has not put anyone in danger. Instead, it's gifted the world with some awe-inspiring views of lava flowing from the ground.
+<a href='https://www.theverge.com/tldr/2021/3/22/22344113/iceland-volcano-eruption-drone-footage-fagradalsfjall'> Source <a/>
