@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BSNJ1pQdj2PRYHmeiV0mPk2nLSM=/0x0:5440x3320/1200x800/filters:focal(1672x833:2542x1703)/cdn.vox-cdn.com/uploads/chorus_image/image/68998336/168291403.0.jpg' width='700px' /><br/>
-A hacking group is demanding $50 million from Acer, Bleeping Computer reported, in what appears to be one of the biggest ransomware demands to date. According to Bleeping Computer, the attackers may have gained access to the Taiwanese computer manufacturer's network via a Microsoft Exchange vulnerability. The REvil group that carried out a ransomware attack on Travelex last year is believed to be behind the Acer breach as well.
-<a href='https://www.theverge.com/2021/3/20/22341642/acer-ransomware-microsoft-exchange-revil-security'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IkftLr6Ca-RYLJRxreFc_X-cgrc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/68997767/VRG_TBP_Epic_VS_Apple_Textless.0.jpg' width='700px' /><br/>
-It's hard to believe it's only been seven months since Apple booted Fortnite off the App Store and Epic Games sprung its antitrust trap, but you won't have to wait much longer before the behind-the-scenes legal machinations give way to courtroom drama — and, it seems, until Apple and Epic's top executives take the stand.
-<a href='https://www.theverge.com/2021/3/20/22341511/apple-epic-trial-tim-cook-tim-sweeney-craig-federighi-phil-schiller-mark-rein-testify'> Source <a/>

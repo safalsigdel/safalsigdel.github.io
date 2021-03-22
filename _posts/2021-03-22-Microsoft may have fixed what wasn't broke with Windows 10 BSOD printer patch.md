@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3nJXzS5T2eb96xniwbHPwwBAG5E=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/68998195/win1_2040.0.0.jpg' width='700px' /><br/>
-If you're the kind of person who'd be amused to learn that a humble printer can blue screen your entire Windows 10 PC, here's a dose of schadenfreude to welcome you into the weekend: when Microsoft tried to fix those blue screen issues with a Monday patch, the patch may have not gone quite as planned — some users started reporting their printers would simply spit out blank pages or ones with missing graphics.
-<a href='https://www.theverge.com/2021/3/20/22341209/microsoft-windows-10-printer-patch-2-more-fixes'> Source <a/>
