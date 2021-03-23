@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/soETeRi3J1B7keg_ZwJPCIfg50c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69007783/acastro_190319_1777_apple_services_0001.0.0.jpg' width='700px' /><br/>
+Twenty years ago, Apple CEO Steve Jobs poached Ron Okamoto away from Adobe to become vice president of developer relations and later help build the App Store. Now, we're learning he has retired — less than a couple months before Apple's App Store is set to go on trial.
+<a href='https://www.theverge.com/2021/3/22/22345003/apple-developer-relations-ron-okamoto-retires-epic-app-store-trial'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pFegjEMiYsH5S2Ut-Uu0ZVNxKcs=/0x0:2164x1614/1200x800/filters:focal(909x634:1255x980)/cdn.vox-cdn.com/uploads/chorus_image/image/69008631/Screen_Shot_2021_03_22_at_11.05.09_AM.0.png' width='700px' /><br/>
+Open-source software advocate Richard Stallman is rejoining the board of the Free Software Foundation. Stallman founded the FSF in 1985 and acted as its president until 2019, when he resigned after making widely criticized statements about convicted sex offender Jeffrey Epstein.
+<a href='https://www.theverge.com/2021/3/22/22344910/richard-stallman-returns-free-software-foundation-board-comments'> Source <a/>

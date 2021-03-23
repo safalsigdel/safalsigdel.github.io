@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pLWkTyjivJwFZRu6GxiC0Wot5FQ=/0x0:1504x1004/1200x800/filters:focal(632x382:872x622)/cdn.vox-cdn.com/uploads/chorus_image/image/69005991/Raiju_2017_design_story__2_.0.jpg' width='700px' /><br/>
-Razer announced today that it plans to become carbon neutral by 2030, meaning it plans to reduce and offset its carbon dioxide emissions.
-<a href='https://www.theverge.com/2021/3/22/22344344/gaming-razer-climate-change-goals-carbon-neutral-energy-waste'> Source <a/>

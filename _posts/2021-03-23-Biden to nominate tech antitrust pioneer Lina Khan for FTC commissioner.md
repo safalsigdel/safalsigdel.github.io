@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XtTwRnNZB9lcRx_uAHrM9vZrb-I=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69007705/824728678.0.jpg' width='700px' /><br/>
+President Joe Biden has announced his intent to nominate Lina Khan, a legal scholar and leading voice in the growing tech antitrust movement, to serve as a commissioner at the Federal Trade Commission.
+<a href='https://www.theverge.com/2021/3/22/22321092/lina-khan-ftc-tech-antitrust-law-regulation-amazon'> Source <a/>

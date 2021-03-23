@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/31quuBl2oOCOcRQ61XnYe4BkGcg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69008498/acastro_181114_1777_amazon_hq2_0001.0.jpg' width='700px' /><br/>
+The National Labor Relations Board (NLRB) found merit to the claim that Amazon threatened and retaliated against workers protesting the company's handling of the COVID-19 pandemic, according to an NLRB complaint obtained by Motherboard. The case, which centers on a warehouse in Queens, New York, was settled before it went to trial.
+<a href='https://www.theverge.com/2021/3/22/22345094/amazon-queens-warehouse-workers-labor-law-covid-19'> Source <a/>

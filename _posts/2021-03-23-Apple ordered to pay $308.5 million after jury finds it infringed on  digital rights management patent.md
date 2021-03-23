@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FbankvUfrSbymhjcFPNhArsHEnU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69002742/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-Apple has been ordered to pay $308.5 million to Personalized Media Communications after a federal jury in Texas found the company had infringed on a technology patent related to digital rights management, Bloomberg reported. PMC had sued Apple over its FairPlay technology, used to distribute encrypted content from iTunes, Apple Music, and its App Store.
-<a href='https://www.theverge.com/2021/3/21/22343320/apple-ordered-pay-308-5-million-patent-infringement'> Source <a/>

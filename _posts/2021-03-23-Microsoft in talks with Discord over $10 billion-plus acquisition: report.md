@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0-mu5REN1thfjxA9Twv_ZXAXQ-k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69009746/acastro_210129_1777_discord_0002.0.jpg' width='700px' /><br/>
+Microsoft is in discussions with Discord to acquire the gaming-focused chat software for more than $10 billion, according to sources talking to Bloomberg. Xbox chief Phil Spencer is said to be talking to Discord about the potential deal.
+<a href='https://www.theverge.com/2021/3/22/22345792/microsoft-discord-acquisition-report-10-billion'> Source <a/>

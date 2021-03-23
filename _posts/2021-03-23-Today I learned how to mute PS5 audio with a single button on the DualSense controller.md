@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OhXNH-xg4YSj7NNv75gv_iNtAYk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69008019/vpavic_4261_20201023_0028.0.jpg' width='700px' /><br/>
+Did you know that you could mute all system audio by simply holding the mute button on the DualSense for about one second? I've had a PS5 for months, yet I only now realized this hidden feature exists after watching a YouTube video that the algorithm served me. You'll know it's working when the orange mute light strobes softly, then you won't hear any system sounds.
+<a href='https://www.theverge.com/22344991/sony-playstation-5-ps5-dualsense-mute-system-audio-all-sounds'> Source <a/>

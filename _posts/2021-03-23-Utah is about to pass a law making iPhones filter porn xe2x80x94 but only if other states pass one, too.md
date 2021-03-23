@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5UCVR8uCOAiXHjJ31jz4tY_b7_E=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69001676/vpavic_4279_20201107_0134.0.0.jpg' width='700px' /><br/>
-In the next week, Utah's governor will decide whether to make all phones and tablets in the state filter pornography... sort of. The bill, which passed Utah's legislature earlier this month, would require mobile devices to “automatically enable a filter capable of blocking material that is harmful to minors.” Gov. Spencer Cox has said he will “carefully consider” signing it by the March 25th deadline.
-<a href='https://www.theverge.com/2021/3/21/22335928/utah-phone-tablet-anti-porn-filter-law-passes-first-amendment'> Source <a/>

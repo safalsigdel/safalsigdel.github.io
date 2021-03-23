@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BG3p_dd4G9yO9cS0P-0e0GT1GkA=/0x0:4000x2250/1200x800/filters:focal(815x883:1455x1523)/cdn.vox-cdn.com/uploads/chorus_image/image/69004611/The__Spirit_of_Nature__new_skin___2_.0.jpg' width='700px' /><br/>
-Honor of Kings is among the biggest games in the world — and soon, it'll be among the most fashionable as well. Today, Tencent-owned developer TiMi Studios announced a collaboration with fashion house Burberry on new character skins. The skins were designed by Riccardo Tisci, chief creative officer at Burberry, for the character Yao.
-<a href='https://www.theverge.com/2021/3/22/22340775/honor-of-kings-burberry-skin-fashion-video-games'> Source <a/>

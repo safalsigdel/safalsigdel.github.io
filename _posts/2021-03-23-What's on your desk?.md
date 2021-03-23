@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6XSnkzFs_AKnuC9My0vPT8MDOaY=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/69005553/jpeters_210301_4457_0020.0.jpg' width='700px' /><br/>
-Now that many of us are working from home (and it looks some will continue to do so, even after we've gotten past the worst of the pandemic), one of the most important places in those homes is our workspaces — in other words, our desks.
-<a href='https://www.theverge.com/22340755/whats-on-your-desk-setup-tech-verge'> Source <a/>
