@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iRZhNeQDaa9RvSfZJVcuNlgvbD4=/0x0:1000x654/1200x800/filters:focal(420x247:580x407)/cdn.vox-cdn.com/uploads/chorus_image/image/69011920/161416133_3450701831696874_5568539758164667304_n.0.png' width='700px' /><br/>
+Facebook's F8 developer conference is returning this year as a one-day virtual event on June 2nd. Like so many big gatherings, last year's F8 was canceled over concerns regarding coronavirus. But the world's largest social network evidently wants to keep its sizable community of developers engaged and is bringing the conference back in 2021.
+<a href='https://www.theverge.com/2021/3/23/22346432/facebook-f8-conference-2021-date-virtual-event-sign-up'> Source <a/>

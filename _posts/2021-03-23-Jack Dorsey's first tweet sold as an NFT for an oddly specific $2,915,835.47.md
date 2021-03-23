@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XcPmrBU7tPzCxNtDjzS1z9vosSs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69007598/acastro_200715_1777_twitter_0002.0.0.jpg' width='700px' /><br/>
-After it spent just over two weeks on the market, Twitter CEO Jack Dorsey has sold his first tweet as an NFT for the weirdly specific figure of $2,915,835.47. The winning bidder was Sina Estavi, who had held the high bid since offering $2.5 million on March 6th. He upped his bid to this number at the last moment (and if anyone can tell us what that figure represents, we'd love to hear your theories).
-<a href='https://www.theverge.com/2021/3/22/22344937/jack-dorsey-nft-sold-first-tweet-ethereum-cryptocurrency-twitter'> Source <a/>
