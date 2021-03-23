@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P3tllOWr9Ouhc3y0ndvUYXHUUvk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69006234/IMG_6850.0.jpg' width='700px' /><br/>
-Time is the latest brand to jump on the NFT craze, with auctions for three magazine covers — including its iconic 1966 front page asking, “Is God Dead?” A more recent spin on the cover, “Is Truth Dead?” from 2017, is also up for auction, as is a brand-new “cover” that's not actually appearing on the magazine: “Is Fiat Dead?” — a phrase that sounds like catnip for the type of crypto enthusiasts likely to bid on these things.
-<a href='https://www.theverge.com/2021/3/22/22344403/time-nft-auction-is-fiat-dead-cover'> Source <a/>
