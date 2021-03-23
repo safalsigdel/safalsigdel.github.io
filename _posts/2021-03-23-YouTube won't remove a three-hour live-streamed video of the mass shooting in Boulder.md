@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aoB77nU4WhCvkqR6LUpmXbLrrXI=/0x0:3143x2095/1200x800/filters:focal(1321x797:1823x1299)/cdn.vox-cdn.com/uploads/chorus_image/image/69012699/1231881876.0.jpg' width='700px' /><br/>
+YouTube says the platform will not remove a controversial live-streamed video of a mass shooting in Boulder, Colorado, despite criticism of the streamer's tactics and commentary.
+<a href='https://www.theverge.com/2021/3/23/22346465/boulder-mass-shooting-live-stream-youtube-moderation'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-USB-C ports, I am occasionally forced to admit, are somewhat confusing. Different standards, different charging speeds, different data and video capabilities, proprietary labels like Thunderbolt, all on top of identical-looking plugs — it can be a lot.
-<a href='https://www.theverge.com/tldr/2021/3/22/22344978/usb-c-ports-gadget-pim-de-groot-cursed-plug-reversible'> Source <a/>

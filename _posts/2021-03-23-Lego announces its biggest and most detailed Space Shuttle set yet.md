@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RV3E37yIC_gwFZ52AdaszTWLsF4=/0x0:6672x4448/1200x0/filters:focal(0x0:6672x4448):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22389680/10283_Lifestyle_03.jpg' width='700px' /><br/>
-In celebration of the 40th anniversary of the first Space Shuttle launch, Lego is releasing a new Space Shuttle Discovery set in collaboration with NASA. Discovery was not the first shuttle to take flight — that would be Columbia, which likely stirs up too many sad feelings for a Lego set — but it was the shuttle that launched the Hubble Space Telescope, which is also included in the set.
-<a href='https://www.theverge.com/2021/3/22/22345026/lego-space-shuttle-nasa-discovery-columbia-hubble-telescope'> Source <a/>
