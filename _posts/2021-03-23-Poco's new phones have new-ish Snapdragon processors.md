@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YTbg_BRbbksbbyuA2ZQDL7L4kzM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69005996/DSCF7676.0.jpg' width='700px' /><br/>
-Xiaomi-owned Poco has returned with two new phones that have some notable processor choices at low prices. Both the X3 Pro and the F3 use new Qualcomm chips that are essentially updated and repurposed flagship-class processors from the past couple of years, which make them an interesting price-performance proposition.
-<a href='https://www.theverge.com/2021/3/22/22344126/poco-f3-x3-pro-snapdragon-860-870-announced-specs'> Source <a/>
