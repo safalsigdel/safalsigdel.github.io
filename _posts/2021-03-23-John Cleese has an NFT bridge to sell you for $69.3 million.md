@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/53zRBY_6tYG4MKZx_IEu5bd2hNY=/0x0:653x476/1200x800/filters:focal(275x186:379x290)/cdn.vox-cdn.com/uploads/chorus_image/image/69006736/unnamed.0.png' width='700px' /><br/>
-“The world has gone terminally insane,” Monty Python's John Cleese told Vanity Fair on the topic of getting into NFTs. So naturally, the comic actor known for silly walks is now selling a ludicrously expensive NFT of his own: a Vonnegut-esque drawing of the Brooklyn Bridge made on an iPad Pro. It's listed on OpenSea and the auction ends in 10 days.
-<a href='https://www.theverge.com/2021/3/22/22344556/john-cleese-monty-python-nft-brooklyn-bridge'> Source <a/>
