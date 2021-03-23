@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9_WP3ydM71HFZh5AFBX7LdeW97E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69011318/acastro_180509_1777_steam_0002.0.jpg' width='700px' /><br/>
+Valve is launching a dedicated Steam Link app for macOS this week. The app allows Steam users to stream games from a PC to devices with the Steam Link app installed. While the Steam macOS app has offered streaming already, MacRumors points out that this lightweight Steam Link app is just 30MB in size from the Mac App Store compared to the full Steam app, which requires 1GB of storage space.
+<a href='https://www.theverge.com/2021/3/23/22346288/valve-steam-link-macos-app-download'> Source <a/>
