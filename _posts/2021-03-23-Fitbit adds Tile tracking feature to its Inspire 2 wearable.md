@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R6EDF3owXw0vmWtdCXf_MsphsmM=/0x0:2700x1958/1200x800/filters:focal(1134x763:1566x1195)/cdn.vox-cdn.com/uploads/chorus_image/image/69006742/fitbit_tile.0.jpeg' width='700px' /><br/>
-A new partnership between Fitbit and Tile will now let users of Fitbit's Inspire 2 locate their devices with Tile's Bluetooth tracking, the companies announced Monday.
-<a href='https://www.theverge.com/2021/3/22/22344359/fitbit-adds-tile-tracking-feature-bluetooth-inspire-2-wearable'> Source <a/>
