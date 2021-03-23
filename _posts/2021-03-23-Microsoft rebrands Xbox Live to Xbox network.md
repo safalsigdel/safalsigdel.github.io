@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LO4S4QI-3kiYne_DBEGPGWgxlSc=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69008529/xbox_live_1280.0.png' width='700px' /><br/>
-Microsoft is rebranding Xbox Live to Xbox network. Instances of the new branding started appearing in the Xbox dashboard recently for beta testers, with clips being uploaded to “Xbox network” instead of Xbox Live. Microsoft has now confirmed the name change.
-<a href='https://www.theverge.com/2021/3/22/22345276/microsoft-xbox-live-network-rebrand-name-change'> Source <a/>
