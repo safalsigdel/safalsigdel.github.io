@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VrvBDzdLK_Qy4DyhQZSk875RnH0=/0x0:1020x680/1200x800/filters:focal(451x425:613x587)/cdn.vox-cdn.com/uploads/chorus_image/image/69009322/DSC01926.1419978978.0.jpg' width='700px' /><br/>
-I just realized: I never came back to thank you for buying that $30,000 8K television. I mean, I'm sure the $1,500 coupon helped? But I feel like I still owe you a bit more.
-<a href='https://www.theverge.com/2021/3/22/22345504/steam-remote-play-8k-streaming-games'> Source <a/>

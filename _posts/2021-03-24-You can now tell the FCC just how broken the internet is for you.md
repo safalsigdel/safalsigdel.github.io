@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xPS6PMWgzp65Pbi2Mh-4_pY0_ek=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/69009436/acastro_170711_1777_0004.0.0.jpg' width='700px' /><br/>
-It's not at all controversial to say that internet service sucks in the United States. As part of its plan to update coverage maps in the US, the Federal Communications Commission (FCC), in a break from tradition, is finally asking average Americans to report which internet services are actually available where they live.
-<a href='https://www.theverge.com/2021/3/22/22345533/fcc-broadband-data-collection-program-fix-the-internet'> Source <a/>
