@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tEconXKsx2IvKB1bloV8d_EUC18=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69012038/bfarsace_4481_20210317_0077_Edit.0.jpg' width='700px' /><br/>
+OnePlus has released its new batch of phones, the OnePlus 9 and the 9 Pro. As is the tradition with OnePlus, the phones are equipped with the latest high-end chips from Snapdragon, and are priced lower than most of the competition.
+<a href='https://www.theverge.com/22338919/oneplus-9-pro-vs-samsung-iphone-comparison-features-price'> Source <a/>
