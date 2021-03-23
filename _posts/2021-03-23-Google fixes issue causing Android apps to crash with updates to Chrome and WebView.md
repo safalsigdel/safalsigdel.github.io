@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/dsH9KSk3jcwdsKSC0XjpcMUtj-k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69009526/wjoel_180413_1777_android_002.0.jpg' width='700px' /><br/>
-Some Android apps are crashing for some people right now, but Google is working on a fix. The issue is due to a system component called Android System WebView that lets Android apps display web content, but it has some kind of problem right now that is causing apps to crash.
+Some Android apps were crashing for some people, but Google has fixed it. The issue was due to a system component called Android System WebView that lets Android apps display web content. Google now has a fix that requires users to update Android System WebView and Google Chrome to new versions just released on Google Play.
 <a href='https://www.theverge.com/2021/3/22/22345696/google-android-apps-crashing-fix-system-webview'> Source <a/>
