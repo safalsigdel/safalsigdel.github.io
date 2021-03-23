@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lO35kYUot3uaGxCLSb-9iKiZ3is=/0x0:2200x1700/1200x800/filters:focal(924x674:1276x1026)/cdn.vox-cdn.com/uploads/chorus_image/image/69010876/Spatial_Studio_01.0.jpg' width='700px' /><br/>
+A startup called Spatial is unveiling its first suite of products today, focused on creating audio experiences that are immersive, interactive, and automatically generated. The products themselves are a little complicated to explain, but the result is simple: ambient and interactive audio for public spaces that's easy to create and more dynamic than the usual tracks.
+<a href='https://www.theverge.com/2021/3/23/22345336/spatial-inc-audio-interative-generative-studio-software'> Source <a/>

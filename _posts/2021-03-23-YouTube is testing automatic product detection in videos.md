@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dfq4w05uj4atK-JeyALqdObIO08=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69006420/acastro_180403_1777_youtube_0002.0.0.jpg' width='700px' /><br/>
-YouTube is always running experiments. One of its latest: testing an automated list of products detected in videos uploaded to the site. As of March 22nd this year, that test is being expanded to “people watching videos in the US,” according to YouTube. (An early version of the feature was tested midway through last year, though that test was very small, reports 9to5Google.)
-<a href='https://www.theverge.com/2021/3/22/22344553/youtube-shopping-recommendation-products-instagram'> Source <a/>
