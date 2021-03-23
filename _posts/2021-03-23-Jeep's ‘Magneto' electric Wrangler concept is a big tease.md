@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ju4h0u-AdUbKseS_V4EZdsdmo2I=/0x0:3000x2054/1200x800/filters:focal(1260x787:1740x1267)/cdn.vox-cdn.com/uploads/chorus_image/image/69007069/CN021_004JP5ui31njcmo9dtvpekb1b9b6816.0.jpg' width='700px' /><br/>
-Jeep has unveiled a new electric vehicle with an X-Men-inspired name: the Wrangler Magneto. However, don't get your hopes up for this being the electric Jeep Wrangler you might have been wishing for — the Magneto is just a concept car, so you probably won't be able to buy one any time soon.
-<a href='https://www.theverge.com/2021/3/22/22344578/jeep-wrangler-magneto-concept-ev-manual-transmission-stellantis'> Source <a/>
