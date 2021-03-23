@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NH-sz6Z2xiZDor14kPV3kh0HHTQ=/0x0:2672x1486/1200x0/filters:focal(0x0:2672x1486):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22375764/Screen_Shot_2021_03_16_at_4.38.55_PM.png' width='700px' /><br/>
+Android phones by OnePlus have a considerable set of fans, and if you count yourself among their number, you will probably want to be in on this year's launch of the company's latest line: the OnePlus 9 series.
+<a href='https://www.theverge.com/2021/3/23/22334579/oneplus-9-event-watch-date-time-how-to-stream'> Source <a/>
