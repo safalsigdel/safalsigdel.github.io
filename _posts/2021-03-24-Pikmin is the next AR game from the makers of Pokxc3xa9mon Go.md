@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2n_RqaGiuKBirMmj6923S43SM4g=/0x0:1024x512/1200x800/filters:focal(431x175:593x337)/cdn.vox-cdn.com/uploads/chorus_image/image/69009288/Niantic_Nintendo_Pikmin_app.5.png' width='700px' /><br/>
-Niantic, developer of the smash hit Pokxc3xa9mon Go, has announced a new partnership with Nintendo. The first new game from the collaboration will be a mobile augmented reality game based on Nintendo's popular Pikmin franchise, and it will launch later this year.
-<a href='https://www.theverge.com/2021/3/22/22345472/niantic-nintendo-pikmin-partnership-collaboration-ar-mobile-game'> Source <a/>
