@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8l_rvM2cbtsQRyJTRtPKrbjuM-A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69008917/acastro_180822_1777_tinder_0001.0.0.jpg' width='700px' /><br/>
-Tinder is partnering with Lyft to offer the ability to gift rides to dates without having to leave the Tinder app. It's a small convenience if you already have the Lyft app downloaded, but like adding video chat in the app, it's one less reason to switch your focus away from your match and to another app.
-<a href='https://www.theverge.com/2021/3/22/22345181/tinder-lyft-gift-ride-date'> Source <a/>
