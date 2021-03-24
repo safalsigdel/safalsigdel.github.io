@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CuMxGujX51EeWICohXcltdAE9fg=/0x0:2040x1360/1200x675/filters:focal(842x457:1168x783)/cdn.vox-cdn.com/uploads/chorus_image/image/69017467/cfaulkner_210310_4466_0003.0.jpg' width='700px' /><br/>
+Acer's Predator Triton 300 SE is chasing after the hype that Asus built with last year's excellent Zephyrus G14. It's similar in a few key ways: it's a sophisticated-looking gaming laptop bordering on ultrabook territory in terms of its sleek and relatively thin design. It has a 14-inch 1080p display with a fast refresh rate and respectable graphics capabilities to top it off. Even its price hits a similar spot at $1,399.
+<a href='https://www.theverge.com/22347032/acer-predator-triton-300-se-review-price-features-specs'> Source <a/>

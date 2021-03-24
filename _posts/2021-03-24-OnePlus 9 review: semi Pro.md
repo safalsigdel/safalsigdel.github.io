@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xHBfaJWp3IKRahuT_2AkUtcMdOQ=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22389041/bfarsace_4481_20210317_0073_Edit_sq.jpg' width='700px' /><br/>
-The OnePlus 9 is a very good phone that holds its own against other (often more expensive) flagships. It has all the things that truly matter: a great screen, excellent performance, good battery life, and a capable camera. But for better or worse, it still doesn't feel quite like a device that's well-suited for the mainstream. It misses a couple of features present on the competition like a stabilized main camera and broad 5G support.
-<a href='https://www.theverge.com/22338398/oneplus-9-review-specs-price-camera-screen'> Source <a/>
