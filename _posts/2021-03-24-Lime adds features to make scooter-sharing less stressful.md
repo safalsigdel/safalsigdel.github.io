@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a6UI_tQGG920oC38Nu7HPCufo7w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69016406/akrales_190321_3312_0048.0.jpg' width='700px' /><br/>
+Scooter-sharing giant Lime is updating its app to make renting one of the company's battery-powered two-wheelers a little easier. Customers can now take advantage of new features like app-less riding, 10-minute reservations, and vehicle configurations to take some of the bite out of scooter-sharing.
+<a href='https://www.theverge.com/2021/3/24/22347188/lime-scooter-new-features-reservations-recommendations'> Source <a/>
