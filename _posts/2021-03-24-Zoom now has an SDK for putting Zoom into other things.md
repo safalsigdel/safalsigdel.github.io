@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Hh1tcQbuUIXnkK2WqIyRosSHze0=/0x0:1820x958/1200x800/filters:focal(765x334:1055x624)/cdn.vox-cdn.com/uploads/chorus_image/image/69014312/Video_SDK_Image.0.png' width='700px' /><br/>
+Zoom has released a new SDK (software development kit) to help developers build Zoom into their software. According to the company, you can now build your own “video-based applications and websites” on top of Zoom's platform and can more easily incorporate Zoom's video and audio features directly into your apps.
+<a href='https://www.theverge.com/2021/3/23/22347023/zoom-sdk-developers-announced-apps-audio-video-features-software'> Source <a/>

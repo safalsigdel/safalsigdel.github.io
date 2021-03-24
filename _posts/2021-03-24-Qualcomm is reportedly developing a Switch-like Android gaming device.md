@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1JnthVK5A3rGpf0oGtG53smwN24=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69015227/acastro_180529_1777_qualcomm_0002.0.0.jpg' width='700px' /><br/>
+Qualcomm is reportedly working on an Android-powered, handheld gaming console that's similar to a Nintendo Switch, according to Android Police and XDA's editor-in-chief Mishaal Rahman. The device would be powered by Qualcomm's silicon, and could hit store shelves by next year — if it ends up being a real product at all.
+<a href='https://www.theverge.com/2021/3/23/22347257/qualcomm-reportedly-developing-android-handheld-nintendo-switch-console'> Source <a/>

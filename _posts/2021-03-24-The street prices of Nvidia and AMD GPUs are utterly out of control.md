@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2Acra1IDTD-0IZUKXbi4h9hYggM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69010877/shollister_201117_4303_0003.0.0.jpg' width='700px' /><br/>
-You might have heard there's a global semiconductor shortage going on, and that PC graphics cards in particular are nearly impossible to find. What you probably haven't heard is that the situation has steadily been growing worse — to the point some GPUs are worth triple their MSRP.
-<a href='https://www.theverge.com/2021/3/23/22345891/nvidia-amd-rtx-gpus-price-scalpers-ebay-graphics-cards'> Source <a/>

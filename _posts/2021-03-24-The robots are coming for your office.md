@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/mHfFIU2nqWkyFnViYBYhUIucF6s=/0x0:3000x2000/1200x675/filters:focal(1196x714:1676x1194)/cdn.vox-cdn.com/uploads/chorus_image/image/69011136/VRG_ILLO_Decoder_Kevin_Roose.0.jpg' width='700px' /><br/>
-As the editor-in-chief of The Verge, I can theoretically assign whatever I want, however there is one topic that I have failed to get people at The Verge to write about for years: robotic process automation, or RPA.
+As the editor-in-chief of The Verge, I can theoretically assign whatever I want. However, there is one topic I have failed to get people at The Verge to write about for years: robotic process automation, or RPA.
 <a href='https://www.theverge.com/2021/3/23/22344938/kevin-roose-robotic-automation-future-rpa'> Source <a/>

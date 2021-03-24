@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1HOS_9AzBFSfT5xXvkFKUef-gVw=/0x0:2416x1358/1200x800/filters:focal(1015x486:1401x872)/cdn.vox-cdn.com/uploads/chorus_image/image/69015405/Screen_Shot_2019_03_26_at_1.46.09_PM.0.png' width='700px' /><br/>
+Goldman Sachs' credit card policies were called into question when Basecamp designer David Heinemeier Hansson and Apple co-founder Steve Wozniak claimed that their female partners received lower Apple Card credit limits simply for being women. But a recently concluded New York State Department of Financial Services investigation has found Apple's banking partner did not discriminate based on sex (via Bloomberg).
+<a href='https://www.theverge.com/2021/3/23/22347127/goldman-sachs-apple-card-no-gender-discrimination'> Source <a/>

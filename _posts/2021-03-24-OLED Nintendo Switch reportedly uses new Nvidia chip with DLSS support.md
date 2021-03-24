@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5h5hN4EI3BfIawww4i-tMQtSoRY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69010331/jbareham_180301_2346_nintendo_switch_0034_zelda.0.jpg' width='700px' /><br/>
-The next Nintendo Switch will use a new Nvidia system-on-chip with support for DLSS (Deep Learning Super Sampling), according to a report in Bloomberg. The chip is said to bring improvements to GPU and CPU performance, with DLSS serving as Nintendo's solution for displaying higher resolution images on 4K TVs.
-<a href='https://www.theverge.com/2021/3/23/22346041/oled-nintendo-switch-dlss-nvidia-chip-report'> Source <a/>
