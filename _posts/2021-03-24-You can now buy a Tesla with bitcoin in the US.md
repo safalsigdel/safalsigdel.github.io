@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k6JVc6Jyg5NksZWaUO8zS90FKS8=/0x0:1920x1080/1200x800/filters:focal(1519x760:1825x1066)/cdn.vox-cdn.com/uploads/chorus_image/image/69016324/msedge_NvDwkwZyth.0.png' width='700px' /><br/>
+Tesla now accepts bitcoin as payment for its cars in the US, CEO Elon Musk announced on Twitter. The option to pay using the cryptocurrency now appears on the company's US website, where it's available alongside the traditional card payment option. Musk said that the option to pay with bitcoin will be available to other countries “later this year.”
+<a href='https://www.theverge.com/2021/3/24/22347905/tesla-bitcoin-payment-us-cryptocurrency-elon-musk'> Source <a/>
