@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QyGwRzseDK8MuREBxJsAHPkTcyM=/0x0:4452x3074/1200x800/filters:focal(1870x1181:2582x1893)/cdn.vox-cdn.com/uploads/chorus_image/image/69018246/1231526002.0.jpg' width='700px' /><br/>
+You know what I haven't seen in more than a year? The inside of a pub. Or a bar. Or, indeed, any kind of inn, hostelry, saloon, roadhouse, taproom, tavern, or beer hall where money can be exchanged for the sweet relief of drink. Google, though, hasn't forgotten and has apparently decided to taunt me with a new tag in its Photo app dedicated to the stuff.
+<a href='https://www.theverge.com/2021/3/24/22348105/google-photos-app-memories-collection-cheers-drinks'> Source <a/>
