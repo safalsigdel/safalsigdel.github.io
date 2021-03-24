@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3URasfwrZN-dAvPzjyhiseHsNGI=/0x0:2040x1360/1200x800/filters:focal(761x644:1087x970)/cdn.vox-cdn.com/uploads/chorus_image/image/69018724/akrales_190410_3363_0070.0.jpg' width='700px' /><br/>
+Slack's newest direct message feature, part of a broader cross-organizational tool called Slack Connect, lets anyone with a professional Slack account DM another user so long as they have their email address. These messages, which are attached to invites, can be potentially abusive or harmful, points out Menotti Minutillo, a Twitter product employee who works on the company's developer platform trust team.
+<a href='https://www.theverge.com/2021/3/24/22348422/slack-connect-direct-message-abuse-harassment'> Source <a/>
