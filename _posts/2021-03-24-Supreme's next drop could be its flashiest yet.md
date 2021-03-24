@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t36sMTOlz0sWxZcFSmvT84MnAqo=/0x0:3300x2200/1200x800/filters:focal(1386x836:1914x1364)/cdn.vox-cdn.com/uploads/chorus_image/image/69016775/c2fiyjWOS8E1.0.jpg' width='700px' /><br/>
+Supreme, the streetwear brand notorious for slapping its name on everything from feature phones to a literal brick, is turning its attention to film photography. Tomorrow's drop includes a reusable Yashica MF-1 35mm film camera, available in either black or red and subtly adorned with a Supreme logo. It's made of plastic, which isn't particularly flashy, but it's also got a built-in flash, which is.
+<a href='https://www.theverge.com/2021/3/24/22348006/supreme-35mm-camera-yashica-mf-1-film-hypebeast'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MYHeLYUjcU2clHS170VmMD0dnFA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69011664/Switch_SuperMario3DAllStars_SMG_screen_10_copy.0.jpg' width='700px' /><br/>
-If you own a Nintendo Switch and enjoy the Super Mario series, time is running out for you to buy Super Mario 3D All-Stars. Beginning March 31st, Nintendo will pull the game from the eShop and physical copies will likely be more expensive / harder to find.
-<a href='https://www.theverge.com/2021/3/23/22346226/super-mario-3d-all-stars-nintendo-switch-vizio-65-inch-oled-tv-deal'> Source <a/>
