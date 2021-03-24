@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZAZVZ4BmTiT3NQ0b9JOsxHYsamI=/0x0:4485x2990/1200x800/filters:focal(1698x400:2414x1116)/cdn.vox-cdn.com/uploads/chorus_image/image/69012012/1306933980.0.jpg' width='700px' /><br/>
-David Dobrik has lost more than a dozen advertisers and 300,000 YouTube subscribers over the past week after a report detailed a rape allegation against a former member of his vlogging crew.
-<a href='https://www.theverge.com/tech/2021/3/23/22346231/david-dobrik-advertisers-assault-allegations-old-videos'> Source <a/>
