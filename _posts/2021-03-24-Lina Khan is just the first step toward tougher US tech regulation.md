@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b0I8umtLehxj48lXegAZyoIaq6E=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69013142/acastro_170711_1777_0001.0.jpg' width='700px' /><br/>
-President Joe Biden picked one of tech's most ardent critics, Lina Khan, to join the Federal Trade Commission on Monday. For Democrats and progressives, Khan's nomination was a sign that the Biden administration may be the toughest one in history when it comes to tech.
-<a href='https://www.theverge.com/2021/3/23/22346828/lina-khan-ftc-commissioner-biden-nomination-facebook-google-doj-garland'> Source <a/>

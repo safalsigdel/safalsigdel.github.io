@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uS5Vg7iTbSt15VutUxCw-cVXCps=/0x0:1382x785/1200x800/filters:focal(581x283:801x503)/cdn.vox-cdn.com/uploads/chorus_image/image/69017239/jITWZ6H.0.png' width='700px' /><br/>
-Slack is starting to roll out a new feature that lets anyone using the service DM each other. Announced back in October, Slack Connect DMs will let Slack users privately message employees outside of their company. It's designed for companies working with partners or clients, but you could even use it to message friends at other companies.
-<a href='https://www.theverge.com/2021/3/24/22348126/slack-connect-direct-messaging-dm-company-feature'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3URasfwrZN-dAvPzjyhiseHsNGI=/0x0:2040x1360/1200x800/filters:focal(761x644:1087x970)/cdn.vox-cdn.com/uploads/chorus_image/image/69018724/akrales_190410_3363_0070.0.jpg' width='700px' /><br/>
+Update March 24th, 1:43PM ET: In response to this article and others, Slack has issued a statement signaling it plans to remove the optional message feature attached to its Slack Connect DM invites. Here is Slack's full statement from Jonathan Prince, its vice president of communications and policy:
+<a href='https://www.theverge.com/2021/3/24/22348422/slack-connect-direct-message-abuse-harassment'> Source <a/>

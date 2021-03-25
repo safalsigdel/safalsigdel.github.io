@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GMC_VpV2zH9IHlrnkuxZwQCOGc4=/0x0:1136x1000/1200x800/filters:focal(478x410:658x590)/cdn.vox-cdn.com/uploads/chorus_image/image/69012778/Hasbro_Star_Wars_Galactic_Snackin_Grogu_oop_01.0.jpg' width='700px' /><br/>
-If you've watched even just an episode of The Mandalorian, you know this: Grogu is always hungry. The little guy, previously known as Baby Yoda, is constantly snacking, whether it's on endangered frog eggs or newly spawned spider monsters. Sometimes, he just needs a nice cup of bone broth to tide him over. And soon there will be an animatronic toy to match his appetite.
-<a href='https://www.theverge.com/2021/3/23/22346717/baby-yoda-toy-mandalorian-galactic-snackin-grogu'> Source <a/>

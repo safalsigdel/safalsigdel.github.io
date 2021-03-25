@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LcBwHfx0GwLGbzwJisX666cPnOg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69017771/DSCF7681.0.jpg' width='700px' /><br/>
-Sega's latest retro gaming machine, the Astro City Mini, comes on the back of two very different products: the excellent, crowd-pleasing Genesis Mini and the baffling but adorable Game Gear Micro. The former was an obvious mainstream play, the latter a full-blown swing for esoterica.
-<a href='https://www.theverge.com/22347909/astro-city-mini-review-sega-arcade-cabinet-us-release-price-games'> Source <a/>

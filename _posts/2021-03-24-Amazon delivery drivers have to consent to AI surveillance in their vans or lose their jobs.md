@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZEUgyjRPJs5hbQ14TtVmZqHHfNE=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69016517/1230412848.0.jpg' width='700px' /><br/>
-Amazon is well-known for its technological Taylorism: using digital sensors to monitor and control the activity of its workers in the name of efficiency. But after installing machine learning-powered surveillance cameras in its delivery vans earlier this year, the company is now telling employees: agree to be surveilled by AI or lose your job.
-<a href='https://www.theverge.com/2021/3/24/22347945/amazon-delivery-drivers-ai-surveillance-cameras-vans-consent-form'> Source <a/>

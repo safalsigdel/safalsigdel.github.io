@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IgswZj8pgDczNpTFaq584Vk7a0g=/0x0:1023x389/1200x800/filters:focal(431x114:593x276)/cdn.vox-cdn.com/uploads/chorus_image/image/69012724/pattinson_batman.0.png' width='700px' /><br/>
-Warner Bros. will return to releasing its theatrical films exclusively in theaters next year, Deadline reports. The decision ends the studio's 2021 experiment of releasing major films like Wonder Woman 1984, Godzilla vs. Kong, Mortal Kombat, The Suicide Squad, Dune, and The Matrix 4 simultaneously on its HBO Max streaming service and in theaters for the first 30 days they're released.
-<a href='https://www.theverge.com/2021/3/23/22346613/warner-bros-theatrical-releases-2022-hbo-max'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Bm6cse2lCU8f1nVdq4BTDZz_CzE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69012768/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple's long-rumored mixed reality headset could weigh less than 150 grams, which would make it much lighter than many other headsets on the market, according to a new research note from Apple analyst Ming-Chi Kuo seen by 9to5Mac. That lighter weight might mean Apple's headset could be easier to wear for long periods of time.
-<a href='https://www.theverge.com/2021/3/23/22346564/apple-mixed-vr-virtual-augmented-reality-headset-light-ming-chi-kuo'> Source <a/>

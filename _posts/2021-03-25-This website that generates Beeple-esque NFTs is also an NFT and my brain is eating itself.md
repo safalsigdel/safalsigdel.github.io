@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xvlviLYW6-RiR0PHsTYI2nvOWJk=/0x0:1113x798/1200x800/filters:focal(468x310:646x488)/cdn.vox-cdn.com/uploads/chorus_image/image/69021957/beeple__1_.0.png' width='700px' /><br/>
+Beeple has been one of the biggest names in NFTs, likely because some of his artwork has sold for truckloads of money. So it was really only a matter of time before someone came along with a tool that let you create Beeple-like artwork without having to download and pose assets yourself.
+<a href='https://www.theverge.com/2021/3/24/22349352/random-beeple-nft-generating-website'> Source <a/>

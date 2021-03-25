@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2P2xqmqLAWBncp7gjd-Ci-5QGrQ=/0x0:853x469/1200x800/filters:focal(359x401:495x537)/cdn.vox-cdn.com/uploads/chorus_image/image/69022100/titan.0.0.jpg' width='700px' /><br/>
+Sony's plan to combine Crunchyroll and Funimation into a streaming service to lead its anime empire seemed as simple as tossing AT&T a billion dollars. But now the plan is reportedly concerning enough that the US Department of Justice is extending its antitrust review of the $1.175 billion purchase into a full-on probe, according to three sources who spoke to The Information.
+<a href='https://www.theverge.com/2021/3/24/22349203/doj-crunchyroll-investigation-sony-att'> Source <a/>

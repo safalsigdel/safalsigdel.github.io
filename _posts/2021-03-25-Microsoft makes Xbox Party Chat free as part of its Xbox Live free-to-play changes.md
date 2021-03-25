@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qXgBwHrTkPR9qzu7szMt85xzOtk=/0x0:1618x1079/1200x800/filters:focal(680x411:938x669)/cdn.vox-cdn.com/uploads/chorus_image/image/69019216/xboxdashboard.5.jpg' width='700px' /><br/>
+Microsoft is announcing today that Xbox Party Chat will be free for Xbox owners soon. The software maker has started testing a new Xbox dashboard update with testers today that unlocks Xbox Party Chat, multiplayer in free-to-play games, and the Looking For Groups (LFG) feature.
+<a href='https://www.theverge.com/2021/3/24/22348724/microsoft-xbox-party-chat-free-live-network-changes'> Source <a/>

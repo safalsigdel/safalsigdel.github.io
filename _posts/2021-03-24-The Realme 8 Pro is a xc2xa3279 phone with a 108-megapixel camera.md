@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5QR-rGgLKd7Q0gktrU7xh4k7Ns4=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/69017430/realme_8_Pro_i.0.jpg' width='700px' /><br/>
-Officially launching in the UK today, the Realme 8 Pro is a budget device that's one of the first to use the new Samsung ISOCELL HM2 108-megapixel sensor in its main camera. While similar high-res sensors have been more common in pricier phones like the Samsung Galaxy S21 Ultra, this chip is designed for lower-cost devices like the 8 Pro.
-<a href='https://www.theverge.com/2021/3/24/22347350/realme-8-pro-price-specs-camera'> Source <a/>

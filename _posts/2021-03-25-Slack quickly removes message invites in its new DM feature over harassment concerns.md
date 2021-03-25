@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/icwyBa-eS078E1pCh7muDRnkNDU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69019366/acastro_190412_1777_slack_0003.0.jpg' width='700px' /><br/>
+Slack became a public messaging platform this morning with the wider rollout of a new cross-organizational direct messaging feature, and now it's already taking steps to mitigate the dangers of operating such a platform without well-thought-out moderation protections.
+<a href='https://www.theverge.com/2021/3/24/22348743/slack-connect-dm-abuse-harassment-disable-message-invite-response'> Source <a/>

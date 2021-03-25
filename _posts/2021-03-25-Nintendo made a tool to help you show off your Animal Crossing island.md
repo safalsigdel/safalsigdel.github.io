@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sX0TE8Qra858qKziOD6WilS8efU=/0x0:1123x1096/1200x800/filters:focal(473x459:651x637)/cdn.vox-cdn.com/uploads/chorus_image/image/69018886/IMG_0420.5.jpeg' width='700px' /><br/>
+Nintendo has a new tool that lets show off your Animal Crossing: New Horizons island with a poster or even a trailer. While you've always been able to take screenshots and video clips from the game using the Switch's built-in tools and share those with your friends and on social media, the new Island Tour Creator lets you add some Animal Crossing-themed flair to what you've captured.
+<a href='https://www.theverge.com/2021/3/24/22348382/nintendo-animal-crossing-new-horizons-island-tour-creator'> Source <a/>
