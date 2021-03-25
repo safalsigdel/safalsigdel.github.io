@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y7gZXJ0-AdMllOlOVtXiYFm6QM0=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69024755/VRG_ILLO_4489_001.0.jpg' width='700px' /><br/>
+Open up the $69 million NFT that Beeple sold at Christie's, and you won't find much. The name of the artwork isn't there. The name of the artist is missing. And crucially, you won't even find the actual piece of art.
+<a href='https://www.theverge.com/2021/3/25/22349242/nft-metadata-explained-art-crypto-urls-links-ipfs'> Source <a/>
