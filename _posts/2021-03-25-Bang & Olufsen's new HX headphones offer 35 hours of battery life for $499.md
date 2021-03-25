@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yLHgbLBg91SnbRraXeV156rqbAg=/0x0:6000x4378/1200x800/filters:focal(2520x1709:3480x2669)/cdn.vox-cdn.com/uploads/chorus_image/image/69022994/Beoplay_HX_0012.0.png' width='700px' /><br/>
-Bang & Olufsen's latest pair of headphones are the Beoplay HX. They're over-ear, noise canceling, and offer up to a truly impressive 35 hours of battery life. The headphones launch in black today for $499 (xc2xa3499 / xe2x82xac499), but there's a white model coming at the end of April, to be followed by a white and brown version in May.
-<a href='https://www.theverge.com/2021/3/25/22348546/bang-and-olufsen-beoplay-hx-headphones-active-noise-cancellation-battery-life-price-release-date'> Source <a/>
