@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lKI-3UZ4MGV-Np7yxd6zSXvm5k4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69023315/akrales_191113_3779_0248.0.jpg' width='700px' /><br/>
+Google appears to be testing touchscreen controls for Stadia on Android. 9to5Google has analyzed the latest Stadia release on Android, and found multiple references to a “direct touch” feature. Once enabled, direct touch will allow Stadia users to tap, swipe, and pinch elements in games, or continue to use a Bluetooth or USB controller.
+<a href='https://www.theverge.com/2021/3/25/22349930/google-stadia-touchscreen-controls-games-android-feature-rumor'> Source <a/>

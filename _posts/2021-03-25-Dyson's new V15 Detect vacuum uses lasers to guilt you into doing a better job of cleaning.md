@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DeGbZWDPtGMgHAuVGcCXvMBYMpY=/0x0:1914x1478/1200x800/filters:focal(576x779:882x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/69020709/Screen_Shot_2021_03_24_at_4.34.11_PM.0.png' width='700px' /><br/>
+Dyson has a new flagship vacuum cleaner, the $699 V15 Detect, which adds a laser dust detection system that's designed to illuminate the dust on your floors so you can better clean it.
+<a href='https://www.theverge.com/2021/3/24/22327796/dyson-v15-detect-vacuum-lasers-cleaning-dust-sensors'> Source <a/>

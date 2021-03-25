@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tqzGOE-Bi8AHO-fgnCB6E5Jkfbg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69020797/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
+Have you ever been scrolling through Twitter and thought, “This website could really use some Facebook-style emoji reactions”? Yeah, me neither. Nonetheless, the company has been surveying users throughout the past month about that possibility, TechCrunch reports.
+<a href='https://www.theverge.com/2021/3/24/22348952/twitter-emoji-reactions-downvotes-tweets-testing-features'> Source <a/>
