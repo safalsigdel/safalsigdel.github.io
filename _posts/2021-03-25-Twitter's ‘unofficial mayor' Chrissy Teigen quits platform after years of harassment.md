@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Dq0wmfLko6hJM1nIYijqBvn09Dw=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/69024195/1231632327.0.jpg' width='700px' /><br/>
+Chrissy Teigen, a prolific tweeter the company once called the mayor of Twitter, quit the social media platform Wednesday night. In a series of now-deleted tweets, Teigen said Twitter “no longer serves me as positively as it serves me negatively, and I think that's the right time to call something.”
+<a href='https://www.theverge.com/2021/3/25/22350049/twitter-chrissy-teigen-quits-abuse-harassment'> Source <a/>
