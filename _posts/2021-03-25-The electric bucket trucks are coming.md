@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ozEsXlKDeNXSMXJ4BnVjIO5VkPQ=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69017827/Lion8_BucketTruck_Rendering_Background_3x2.0.jpg' width='700px' /><br/>
-We've seen electric pickup trucks, electric school buses, and even a few electric 18-wheelers. But where are the electric aerial work platform trucks, known colloquially as bucket trucks? Con Edison may have an answer. The energy utility for New York City, and one of the largest energy companies in the US, is teaming up with a Canadian manufacturer to add battery-powered bucket trucks to its fleet by 2022.
-<a href='https://www.theverge.com/2021/3/24/22347190/con-edison-electric-bucket-truck-lion-ev-nyc-energy'> Source <a/>
