@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/69TErkdMP69FLjmWEVVFwqA49p4=/0x0:1936x1294/1200x800/filters:focal(814x493:1122x801)/cdn.vox-cdn.com/uploads/chorus_image/image/69018987/file_explorer_icons.0.png' width='700px' /><br/>
-Microsoft is giving the File Explorer inside Windows 10 a visual overhaul with new icons. The software giant has started rolling out a test build of Windows 10 that includes changes to the system icons you'll find in File Explorer, including the Recycle Bin, Documents folders, and devices like disk drives.
-<a href='https://www.theverge.com/2021/3/24/22348639/microsoft-windows-10-file-explorer-new-icons-system-update'> Source <a/>

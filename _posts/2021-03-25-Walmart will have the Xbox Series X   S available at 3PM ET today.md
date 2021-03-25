@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Lb5XZDgJ-90xsQbQB0kF5rC0fcE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69024004/vpavic_4275_20201030_0010.0.jpg' width='700px' /><br/>
+If you have been keeping up with the news, you probably know that the Xbox Series X and S consoles are some of the most difficult things to buy currently. If you are looking for another opportunity to buy either console, Walmart will have both the Series X and S available at 3PM ET today.
+<a href='https://www.theverge.com/2021/3/25/22350007/xbox-series-x-s-walmart-restock-time-date'> Source <a/>

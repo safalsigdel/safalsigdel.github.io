@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_FWCib-M9YR_6uxvxVfWCDTdojM=/0x0:901x507/1200x800/filters:focal(379x182:523x326)/cdn.vox-cdn.com/uploads/chorus_image/image/69023915/Motorola_Picture_4.0.jpg' width='700px' /><br/>
+Motorola has added support for two new indigenous languages spoken in the Amazon as part of a larger effort to make technology more accessible. Beginning today, Kaingang and Nheengatu will be among the language options available on Motorola Android devices. Any Motorola phone updated to Android 11 will be able to access the new language options, not just its most expensive models.
+<a href='https://www.theverge.com/2021/3/25/22348574/motorola-phones-endangered-languages-amazon-brazil'> Source <a/>
