@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MQ86jRj_Raw1hnD6Mn-gFRars7w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69018185/akrales_191112_3778_0249.0.jpg' width='700px' /><br/>
-Here's the situation: you're typing a report for work, and you suddenly have to write the phrase “Jones nxc3xa9e Berkowitz.” Or you are adding a phrase in Spanish and need to use the word “axc3xb1os.” How do you add the special characters to the letters?
-<a href='https://www.theverge.com/22347140/apple-mac-special-characters-how-to'> Source <a/>

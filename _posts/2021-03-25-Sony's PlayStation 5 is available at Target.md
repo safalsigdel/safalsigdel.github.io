@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OKyUKLk_OPAessKBZAatcccv92A=/0x0:2040x1147/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/69023301/vpavic_4261_20201023_0018.0.jpg' width='700px' /><br/>
+If you have been keeping up with PS5 news, you will know that it is nearly impossible to find this console right now because of the short supply and mostly online-only sales. If you want another shot at trying to buy Sony's next-gen console, you can buy the $500 PS5 console, which includes a disc drive right now at Target.
+<a href='https://www.theverge.com/2021/3/25/22346479/sony-ps5-restock-target'> Source <a/>

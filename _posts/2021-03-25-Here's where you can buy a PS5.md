@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K-yujrt8GZ6ZtW6KrV2Pv6PphgI=/0x0:1024x683/1200x1200/filters:focal(512x342:513x343)/cdn.vox-cdn.com/uploads/chorus_asset/file/22017052/ps5_all_digital.jpg' width='700px' /><br/>
+Update March 25th, 2021 7:31AM ET: Target has the PS5 model, which includes a disc drive available for purchase at $499.99. It is important to note that Target only has the console available at select locations.
+<a href='https://www.theverge.com/22323257/sony-playstation-5-ps5-in-stock-digital-disk-edition-where-buy'> Source <a/>

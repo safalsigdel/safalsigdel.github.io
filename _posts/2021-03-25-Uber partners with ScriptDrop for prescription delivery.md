@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bgSxljQoFlcJgQktaCc-jzlwyXY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69018317/jbareham_190510_3413_0067.0.jpg' width='700px' /><br/>
-Pharmacies using prescription delivery service ScriptDrop will deliver medications to customers through Uber, the company announced today. Uber will be the default delivery service for ScriptDrop pharmacies in 37 states and will eventually expand to others.
-<a href='https://www.theverge.com/2021/3/24/22346330/uber-perscription-delivery-scriptdrop'> Source <a/>
