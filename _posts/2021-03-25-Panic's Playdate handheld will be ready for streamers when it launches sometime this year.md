@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GCyFCNOdS8XanVLjesfXpeHHbGI=/0x0:1618x1073/1200x800/filters:focal(680x408:938x666)/cdn.vox-cdn.com/uploads/chorus_image/image/69021783/Screen_Shot_2021_03_24_at_4.06.06_PM.0.png' width='700px' /><br/>
-We're still waiting on a release date for the Playdate, a tiny handheld with a crank made by Untitled Goose Game publisher Panic, but Panic just showed off a new feature for the device on the official Playdate Twitter account: you'll be able to plug the Playdate in to your computer and mirror its screen.
-<a href='https://www.theverge.com/2021/3/24/22349345/playdate-screen-mirroring-computer-pc-mac-linux'> Source <a/>

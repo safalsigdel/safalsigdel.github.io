@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ctXBp0gjxd97cp_QHwOAMlTlRPs=/0x0:5184x3456/1200x800/filters:focal(1963x1366:2791x2194)/cdn.vox-cdn.com/uploads/chorus_image/image/69021522/1304243746.0.jpg' width='700px' /><br/>
-As it prepares to go public, Coinbase is still struggling to provide support to customers who have issues with funds being available, or their accounts being hacked or locked, according to a report by the New York Times. The exchange is often considered to be one of the safer bets for those looking to invest in crypto, but the story shows that users who run into trouble could be left out in the cold.
-<a href='https://www.theverge.com/2021/3/24/22348972/coinbase-customer-support-struggles-ipo-cryptocurrency-trading-platform'> Source <a/>
