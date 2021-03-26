@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fjEYsyJanDijgEbAy3K_RRkWqc0=/0x0:5184x3888/1200x800/filters:focal(2178x1530:3006x2358)/cdn.vox-cdn.com/uploads/chorus_image/image/69025595/Image_1___Inside_64DD_Development_Kit_Shipping_Box.0.jpeg' width='700px' /><br/>
+YouTuber Shane Luis has tweeted some amazing photos of a new-in-box game development kit for the Nintendo 64's Disk Drive (64DD), a very rare peripheral never released outside of Japan that played games off proprietary floppy disks. You can (and should!) read look through the whole thread starting with this tweet, but I'm going to share some of the photos here in this article.
+<a href='https://www.theverge.com/2021/3/25/22350367/nintendo-64-disk-drive-development-kit-n64-64dd-photos-shane-luis'> Source <a/>

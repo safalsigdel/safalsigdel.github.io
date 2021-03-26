@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9FoW0Z2bYjr8gl-wnjRd4JsfazI=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/69027607/Samsung_Partners_With_Manna_DL4.0.jpg' width='700px' /><br/>
+In Oranmore, a small town in County Galway, Ireland, you can now get a taste of a possible, instantly-gratifying drone delivery future. In a newly announced partnership with Irish drone delivery company Manna, Samsung is promising delivery of its smaller electronics like phones and smart watches “within three minutes” when ordered by someone in Oranmore from Samsung's Irish online store.
+<a href='https://www.theverge.com/2021/3/25/22350861/samsung-drone-delivery-manna-ireland-electronics'> Source <a/>

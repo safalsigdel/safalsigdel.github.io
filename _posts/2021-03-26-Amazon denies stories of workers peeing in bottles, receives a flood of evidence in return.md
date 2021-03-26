@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cbxnpjAlxe8Utd7fXSQxPg5sV3o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69025562/acastro_181114_1777_amazon_hq2_0003.0.jpg' width='700px' /><br/>
+Amazon is trying a new tactic in its endless PR battle against stories of its exhausting and exploitative working conditions: outright denial. It's not working.
+<a href='https://www.theverge.com/2021/3/25/22350337/amazon-peeing-in-bottles-workers-exploitation-twitter-response-evidence'> Source <a/>

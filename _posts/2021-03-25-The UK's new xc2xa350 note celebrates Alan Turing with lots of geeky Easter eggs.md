@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3DucfxXSFkIHHSd4XDzfHyTdOV0=/0x0:1200x800/1200x800/filters:focal(248x279:440x471)/cdn.vox-cdn.com/uploads/chorus_image/image/69023271/1200x800_New50.0.png' width='700px' /><br/>
-The Bank of England has revealed the design for the UK's new xc2xa350 note featuring computer scientist and codebreaker Alan Turing. Turing was selected to appear on the note in July 2019 in recognition of his groundbreaking work in mathematics and computer science, as well as his role in cracking the Enigma code used by Germany in World War II.
-<a href='https://www.theverge.com/2021/3/25/22349884/alan-turing-50-pound-note-design-uk-revealed'> Source <a/>

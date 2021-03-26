@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uwkTomzQXDUebDBsOZu0bzoiYVI=/0x0:1020x680/1200x800/filters:focal(360x255:522x417)/cdn.vox-cdn.com/uploads/chorus_image/image/69027485/musk7.0.jpg' width='700px' /><br/>
+Tesla must tell CEO Elon Musk to delete an anti-union tweet from 2018, the National Labor Relations Board (NLRB) decided Thursday. The order came as part of Tesla's appeal of a 2019 ruling by an administrative judge in a years-long legal battle between the company and the United Auto Workers union.
+<a href='https://www.theverge.com/2021/3/25/22351157/tesla-elon-musk-delete-anti-union-tweet-national-labor-relations-board'> Source <a/>

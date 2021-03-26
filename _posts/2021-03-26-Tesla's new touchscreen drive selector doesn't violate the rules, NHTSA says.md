@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zV9Q_qzqB09lCGXDP-vQJQGzBLM=/0x0:1201x801/1200x800/filters:focal(505x305:697x497)/cdn.vox-cdn.com/uploads/chorus_image/image/69026838/tesla_model_s_witcher_3_3.0.jpg' width='700px' /><br/>
+Tesla's decision to remove the gear-selector stalk from the steering wheel and automate shifting between park, reverse, neutral, and drive (PRND) does not violate any federal motor vehicle rules, a spokesperson for the National Highway Traffic Safety Agency told The Verge.
+<a href='https://www.theverge.com/2021/3/25/22351044/tesla-nhtsa-touchscreen-gear-selector-fmvss'> Source <a/>

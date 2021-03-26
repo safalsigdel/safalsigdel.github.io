@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w0TgT4YdbLPlO99JIcJIvY594C0=/0x0:2040x1360/1200x800/filters:focal(825x310:1151x636)/cdn.vox-cdn.com/uploads/chorus_image/image/69027441/etsy17_2040.0.0.jpg' width='700px' /><br/>
+Etsy shoppers browsing the site for Asian artwork this afternoon may have been greeted with something else: recommendations for topless photos of Asian women. The issue was first pointed out by an Asian American artist on Twitter, who The Verge is not naming due to harassment concerns, who had erotica recommended above one of their listings.
+<a href='https://www.theverge.com/2021/3/25/22351042/etsy-asian-women-erotic-recommendations'> Source <a/>

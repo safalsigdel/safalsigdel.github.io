@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NcXZTpguuu7sjZ2KOuw8AKW6KIE=/0x0:1140x701/1200x800/filters:focal(536x134:718x316)/cdn.vox-cdn.com/uploads/chorus_image/image/69020696/18.0.jpg' width='700px' /><br/>
-MrBeast said last year that he wanted a way to invest in up-and-coming creators, help them blow up, and get a cut of their business in return — and today, he's announcing a plan to do just that.
-<a href='https://www.theverge.com/2021/3/24/22348926/mrbeast-creator-investment-fund-creative-juice'> Source <a/>

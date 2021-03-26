@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M9l-akOQf9l3Rk-3lnAX0EXUxuA=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/69027022/RecRoom_Fantasy.0.png' width='700px' /><br/>
+Gaming platform Rec Room is now a unicorn, valued at $1.25 billion during a recent funding round of $100 million. It appears to be one of the first, if not the first, virtual reality-focused startup to achieve unicorn status, a notable feat since Facebook's landmark acquisition of Oculus VR for $2.4 billion in 2014 helped established the modern VR business.
+<a href='https://www.theverge.com/2021/3/25/22350421/rec-room-teenagers-gaming-users-pandemic-virtual-reality'> Source <a/>
