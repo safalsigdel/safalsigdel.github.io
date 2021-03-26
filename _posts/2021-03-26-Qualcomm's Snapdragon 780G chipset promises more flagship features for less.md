@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/09rWjBmAfqrwB-WREH5KpI1OCrw=/0x0:2266x1598/1200x800/filters:focal(952x618:1314x980)/cdn.vox-cdn.com/uploads/chorus_image/image/69023963/Screen_Shot_2021_03_25_at_9.53.34_AM.0.png' width='700px' /><br/>
-Qualcomm has announced its latest 7-series processor, the Snapdragon 780G, which trickles down features from the company's flagship Snapdragon 888 chipset, while still offering manufacturers (and, by extension, consumers) a more affordable phone.
-<a href='https://www.theverge.com/2021/3/25/22350079/qualcomm-snapdragon-780g-888-5g-mobile-chipset-phone-android'> Source <a/>
