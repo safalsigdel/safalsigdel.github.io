@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nlO1BCaAUTbszFy_RTpquIvKWOY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69024158/DSCF7692.0.jpg' width='700px' /><br/>
-Vivo has announced its latest international flagship phones, the X60 series. The highest-end model is the X60 Pro Plus, which is coming first to India, while the X60 and X60 Pro are also launching in the UK and several other markets. Vivo previously launched the X60 series in China but with substantially different specs to these new global models.
-<a href='https://www.theverge.com/2021/3/25/22349872/vivo-x60-pro-plus-announced-zeiss-specs-price-release-date'> Source <a/>
