@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MfiWaQCjZLiW0Oxec_sO_CGTUwY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69030965/acastro_190909_1777_wwe_0001.0.jpg' width='700px' /><br/>
+It's been just over a week since WWE Network moved into Peacock's streaming service, but some wrestling fans are already unhappy with NBCUniversal for removing a few segments from WWE's past that were objectively in poor taste.
+<a href='https://www.theverge.com/2021/3/26/22349270/peacock-wwe-network-censorship-erasing-content-racism'> Source <a/>
