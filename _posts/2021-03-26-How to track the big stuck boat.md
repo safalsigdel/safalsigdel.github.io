@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-There's a giant cargo ship stuck in the Suez Canal. I'm sure you've heard, but in case you haven't, welcome to the first major spectacle the internet has collectively rubbernecked to this degree since those llamas cavorted around an Arizona town in... 2015? Really? Woof.
-<a href='https://www.theverge.com/tldr/2021/3/25/22350300/suez-canal-ship-stuck-ever-given-boat-stuck'> Source <a/>
