@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ilB40SS8M3FsgHHM_egGxxtPEM0=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/69025444/png.0.png' width='700px' /><br/>
-Google is reportedly working on a new feature for Assistant called Memory, a combination of a to-do list, a notes app, a Pocket-like reading list, and Pinterest-style collection board into a single overarching digital locker integrated into the broader Google Assistant app. 9to5Google first revealed the feature, which is currently in “dogfood” testing for Google employees.
-<a href='https://www.theverge.com/2021/3/25/22350173/google-assistant-memory-save-to-do-pocket-pinterest-notes-reminders'> Source <a/>
