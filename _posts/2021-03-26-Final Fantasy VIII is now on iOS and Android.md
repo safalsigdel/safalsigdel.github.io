@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rM2P6PbMbdmHaX9aCopCbcfJ59M=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69024061/ss_978887f770227fdd7c54bf8216677b51fcb294a8.0.jpg' width='700px' /><br/>
-The oft-forgotten Final Fantasy VIII has made its way to smartphones, just a few decades after it originally debuted.
-<a href='https://www.theverge.com/2021/3/25/22350138/final-fantasy-8-iphone-android-release-price'> Source <a/>
