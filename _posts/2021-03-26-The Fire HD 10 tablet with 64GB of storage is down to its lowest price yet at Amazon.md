@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TqlqKFx8qBU_MLfpqcEexsA7X44=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69030226/akrales_191107_3781_0007.0.jpg' width='700px' /><br/>
+If you've been waiting for a discount on Amazon's Fire HD 10, now is a good time to buy. Amazon is selling the tablet, which includes 64GB of storage, for only $108 today, the lowest this configuration has gone down to on the site to date.
+<a href='https://www.theverge.com/good-deals/2021/3/26/22352067/amazon-fire-hd-10-animal-crossing-cards-watch-dogs-legion-amazon-deal'> Source <a/>

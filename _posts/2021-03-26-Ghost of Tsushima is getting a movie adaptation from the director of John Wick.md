@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NDzWA0xbY-K8NmO6RZaQ7Cq5wEk=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/69025381/ghost_of_tsushima_screenshot_disclaimer_03_en_11oct20.0.jpeg' width='700px' /><br/>
-Sony and Sucker Punch's PlayStation 4 hit Ghost of Tsushima is being adapted into a movie with John Wick director Chad Stahelski at the helm, Deadline first reported on Thursday. Sony confirmed the film's development in a blog shortly after.
-<a href='https://www.theverge.com/2021/3/25/22350484/sony-ghost-of-tsushima-movie-film-director-john-wick-sucker-punch'> Source <a/>
