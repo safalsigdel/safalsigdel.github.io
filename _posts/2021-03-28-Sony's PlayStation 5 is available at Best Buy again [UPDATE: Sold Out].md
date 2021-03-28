@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8qP7svrKGvGlUWIBbAuduNWWaZ0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69031522/vpavic_4278_20201030_0150.0.jpg' width='700px' /><br/>
+Update March 26th, 2021 2:52PM ET: Best Buy has sold all of its PS5 stock for the day.
+<a href='https://www.theverge.com/2021/3/26/22352522/sonys-playstation-5-ps5-restock-best-buy'> Source <a/>

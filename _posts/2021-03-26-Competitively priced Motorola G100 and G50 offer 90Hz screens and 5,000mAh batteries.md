@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eU3aJbLonJs1P8UxqFPQdWqGN9w=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69026704/both.0.jpeg' width='700px' /><br/>
-Motorola has unveiled the G100 and G50, two midrange phones headed first for European and Latin American markets. Both offer displays with fast 90Hz refresh rates for smooth scrolling and animations, 5G connectivity, and they embrace Motorola's ethos of “more battery, more better” with huge 5,000mAh cells.
-<a href='https://www.theverge.com/2021/3/25/22350611/motorola-g100-g50-launch-price-specs'> Source <a/>

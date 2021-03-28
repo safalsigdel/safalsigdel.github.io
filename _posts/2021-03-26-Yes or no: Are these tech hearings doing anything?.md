@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3c-Nvv01mXFrCnmg6TYLJXxflC8=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69027537/1231932296.0.jpg' width='700px' /><br/>
-In the middle of Congress' first hearing of the year with the chief executives of Facebook, Google, and Twitter on Thursday, Twitter CEO Jack Dorsey tweeted out a poll. It was just a question mark with two answers: yes and no.
-<a href='https://www.theverge.com/2021/3/25/22351192/tech-ceo-hearing-mark-zuckerberg-jack-dorsey-sundar-pichai-facebook-google-twitter'> Source <a/>

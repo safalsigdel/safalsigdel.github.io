@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZQtB6MvEl-Ye8Oixt45CfdUT0GE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69035676/acastro_200320_1777_huluStock_0003.0.0.jpg' width='700px' /><br/>
+Hulu's Android TV apps can finally stream in 1080p on new Nvidia Shield TV set-top-boxes and Sony Bravia TVs, as spotted by users on Reddit, and written up by Gizmodo, Android Central, and 9to5Google.
+<a href='https://www.theverge.com/2021/3/27/22353264/hulu-android-tv-app-1080p-720p-update-nvidia-shield-sony-bravia'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_4Klc7k9wj8zTmaZrxEOkzPqlVg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69036021/CN021_007JP9oc73s45m5h4169n1pcevs2dm9.0.jpg' width='700px' /><br/>
+Jeep will install EV charging stations at off-road trailheads across the US as part of a partnership with Electrify America, the company announced. Chargers on the Jeep 4xe Charging Network will either be solar powered or connected to a power grid.
+<a href='https://www.theverge.com/2021/3/27/22354014/jeep-install-ev-charging-stations-us-trailheads'> Source <a/>

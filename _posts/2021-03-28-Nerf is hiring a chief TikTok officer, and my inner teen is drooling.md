@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xaBdLifOQm5QUOI5NsmE3LYKyhc=/0x0:1922x1281/1200x800/filters:focal(808x488:1114x794)/cdn.vox-cdn.com/uploads/chorus_image/image/69032120/nerf_cto_tiktok.0.jpg' width='700px' /><br/>
+As a ‘90s kid, I used to dream of winning the Nickelodeon Super Toy Run — five minutes to fill a Toys R Us shopping cart with anything I liked. I had my route all planned out: stacks of video games, a few choice Lego sets, and then a fill-up at the Nerf aisle.
+<a href='https://www.theverge.com/2021/3/26/22352616/nerf-chief-tiktok-officer-blasters'> Source <a/>

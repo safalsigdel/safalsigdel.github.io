@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Stargazers in Oregon and Washington were treated to an unexpected show last night: what looked like a meteor shower streaking lazily across the night's sky that was very likely the remains of a SpaceX Falcon 9 rocket, burning up as it travelled through the atmosphere.
-<a href='https://www.theverge.com/2021/3/26/22351956/oregon-washington-meteor-shower-explanation-spacex-falcon-9-rocket-debris'> Source <a/>

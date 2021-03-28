@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ahwufi9vCLBuJHXn5NM1jyz7zIU=/0x0:1915x1007/1200x800/filters:focal(805x351:1111x657)/cdn.vox-cdn.com/uploads/chorus_image/image/69031528/Screen_Shot_2021_03_26_at_9.40.35_AM.0.png' width='700px' /><br/>
+Warner Bros. has released the first trailer for The Suicide Squad, the sequel to 2016's Suicide Squad (no The). Unlike the extremely grimdark Zack Snyder's Justice League (and the potentially even more grimdark black-and-white version of the film, Zack Snyder's Justice League: Justice is Gray), The Suicide Squad looks to be filled with color and humor, at least based on this first trailer.
+<a href='https://www.theverge.com/2021/3/26/22352484/the-suicide-squad-trailer-james-gunn-hbo-max'> Source <a/>

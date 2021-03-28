@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J9MF8xWyAsKqYL6MET-T2oJAf3Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69025883/sokane_191127_3819_5467.0.jpg' width='700px' /><br/>
-Porsche is adding its all-electric Taycan sports car to its subscription service. For as little as $2,500 a month, you can burn rubber in a 522-horsepower, 390-kW Taycan 4S with rear-wheel drive. The 4S normally retails for around $103,800.
-<a href='https://www.theverge.com/2021/3/25/22350095/porsche-taycan-ev-subscription-price-rental-lease'> Source <a/>

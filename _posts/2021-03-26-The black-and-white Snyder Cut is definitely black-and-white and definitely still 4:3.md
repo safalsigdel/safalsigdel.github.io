@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zAJG6Nt6vpILHQcQTQ1ry3fGS00=/0x0:1093x760/1200x800/filters:focal(460x293:634x467)/cdn.vox-cdn.com/uploads/chorus_image/image/69028155/Screen_Shot_2021_03_25_at_4.38.22_PM.0.png' width='700px' /><br/>
-Well, that didn't take long. Zack Snyder's Justice League: Justice is Gray, the black and white version of the film that hews closer to the director's ideal vision for his superhero epic, is out today on HBO Max. Justice is Gray's release was first teased last week.
-<a href='https://www.theverge.com/2021/3/25/22351394/zack-snyder-justice-league-black-and-white-hbo-max'> Source <a/>

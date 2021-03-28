@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sR0bDYOZ2ppLR_q4-vrtWyCPDc4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69029837/acastro_200318_1777_discord_0003.0.0.jpg' width='700px' /><br/>
-Microsoft is reportedly having discussions with Discord to buy the communications app. The Wall Street Journal reports that Microsoft is in “exclusive talks” to acquire Discord, and a deal could close next month. It's the latest acquisition target for Microsoft, after the company failed to acquire TikTok and Pinterest recently. While all three are very different services, they share one common element: community.
-<a href='https://www.theverge.com/2021/3/26/22352028/microsoft-discord-acquisition-analysis-report'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ald6tL7cXKJfLBJbG3RQUWsuqks=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69036608/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
+A lawsuit that claims one of Amazon's fulfillment centers in California failed to provide required meal breaks for employees has moved to federal court, as attorneys seek class-action status. First filed in San Francisco County Superior Court in February, the case was removed to US District Court California, Northern District on Friday.
+<a href='https://www.theverge.com/2021/3/27/22353929/lawsuit-alleges-amazon-failed-breaks-overtime-wages'> Source <a/>

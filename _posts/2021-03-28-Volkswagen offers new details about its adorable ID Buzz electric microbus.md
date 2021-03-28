@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aJzLhI2eC-B7vQT7-N-tgNtOomM=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/69032387/id_buzz_concept_7416.0.jpg' width='700px' /><br/>
+Volkswagen clarified some new details about the release of the ID Buzz, the electric microbus that we first saw in concept form way back in 2017.
+<a href='https://www.theverge.com/2021/3/26/22352748/volkswagen-id-buzz-electric-microbus-us-release-date'> Source <a/>

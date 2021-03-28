@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-JXgFG1p8Wb2vZfF2oIx7UqiUwE=/0x0:4000x2667/1200x800/filters:focal(883x402:1523x1042)/cdn.vox-cdn.com/uploads/chorus_image/image/69026693/1231928203.0.jpg' width='700px' /><br/>
-Congressional “Big Tech” hearings often follow a three-step formula.
-<a href='https://www.theverge.com/2021/3/25/22350879/jack-dorsey-disinformation-nation-house-of-representatives-twitter-poll-yes-or-no'> Source <a/>

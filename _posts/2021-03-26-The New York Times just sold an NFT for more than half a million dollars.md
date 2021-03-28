@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ncAmRbZBhwW0ApzcN2FbN2f8ANs=/0x0:1020x676/1200x800/filters:focal(429x257:591x419)/cdn.vox-cdn.com/uploads/chorus_image/image/69026328/nytimes-logo-hq-stock_1020.0.jpg' width='700px' /><br/>
-The New York Times has entered the NFT game, selling the chance to own “the first article in the almost 170-year history of The Times to be distributed as an NFT” — and it's sold for right around $560,000. While the Paper of Record isn't the first brand (or even the first news organization) to sell one of the digital tokens, it's certainly been one of the more successful.
-<a href='https://www.theverge.com/2021/3/25/22350663/new-york-times-nft-auction-half-million-dollar-article-charity'> Source <a/>

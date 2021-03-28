@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XhyPOJQTmku4UyFt1IwevxUJNas=/103x139:1630x1016/1200x800/filters:focal(725x437:1013x725)/cdn.vox-cdn.com/uploads/chorus_image/image/69029706/large_a967c02fc2cff54e.0.jpg' width='700px' /><br/>
-NZXT's first AMD motherboard is the N7 B550. Like the Intel versions that preceded it, the N7 B550 has a slick design with the option of either a black or white shroud that covers the bulk of the board itself. No doubt NZXT hopes the motherboard's clean appearance will make it an appealing option for anyone with a windowed PC case like NZXT's own H series cases.
-<a href='https://www.theverge.com/2021/3/26/22351974/nzxt-amd-motherboard-b550-usb-ports-shroud-price-pcie-4'> Source <a/>

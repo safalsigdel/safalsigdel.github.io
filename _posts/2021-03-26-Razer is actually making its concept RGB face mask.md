@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B3k4_0Tj1Sln8rn9Iqz1GPPox0M=/0x0:3492x2328/1200x0/filters:focal(0x0:3492x2328):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22228416/hazelhero.jpg' width='700px' /><br/>
-Razer says it's planning to ship its concept reusable N95 face mask. Unveiled back in January, Project Hazel includes active disc-type ventilators, Chroma RGB lighting, and voice projection. The face mask is also transparent, allowing for lip-reading and the ability to see facial cues when you talk to people.
-<a href='https://www.theverge.com/2021/3/26/22351955/razer-rgb-mask-project-hazel-shipping-commitment'> Source <a/>

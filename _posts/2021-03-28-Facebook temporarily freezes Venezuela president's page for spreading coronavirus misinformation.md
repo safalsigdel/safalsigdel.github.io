@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q7pNdSVA5fK2WRHsaOqAmxG9FRY=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69035383/1231221694.0.jpg' width='700px' /><br/>
+Facebook froze the page of Venezuelan president Nicolas Maduro for violating its policy against spreading COVID-19 misinformation, the company confirmed Saturday. As first reported by Reuters, Maduro had promoted a “miracle” remedy that he claimed would cure the coronavirus, but those claims have not been supported by the medical community.
+<a href='https://www.theverge.com/2021/3/27/22353813/facebook-froze-venezuela-president-maduro-page-covid-19-misinformation'> Source <a/>
