@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/foNTdTAfj2iCCwLbgO44xTAHPGU=/0x0:1715x963/1200x800/filters:focal(693x241:967x515)/cdn.vox-cdn.com/uploads/chorus_image/image/69038704/ludwig.0.png' width='700px' /><br/>
+On Friday, the Twitch streamer Ludwig slept in. He got up around 11AM PT and lay in bed, chatting with the more than 30,000 viewers of his stream. He's spent a lot of time in that spot lately — in fact, he's broadcast dozens of hours of himself curled up in a bright red race car bed since his stream first started.
+<a href='https://www.theverge.com/2021/3/28/22352226/ludwig-subathon-twitch-live-two-weeks-straight'> Source <a/>
