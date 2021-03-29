@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0y1ut5pL02GA3vgG-mytZWrn18g=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69033315/acastro_180329_1777_amazon_0003.0.jpg' width='700px' /><br/>
-Amazon is intensifying its bizarre online public relations strategy of picking increasingly petty fights with sitting US Congress members, with the company's Amazon News account on Friday shifting targets from Rep. Mark Pocan (D-WI) and Sen. Bernie Sanders (I-VT) to Sen. Elizabeth Warren (D-MA).
-<a href='https://www.theverge.com/2021/3/26/22352977/amazon-twitter-feud-bernie-sanders-elizabeth-warren-trolling-labor-pee-bottles'> Source <a/>

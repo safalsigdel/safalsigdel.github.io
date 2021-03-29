@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B9jQV1ccAgHBxY4AV2nI38vHDN0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69033294/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
-Select titles on HBO Max now have audio descriptions, which are separate audio tracks that describe what's visually happening on-screen. The option is currently available on the website and mobile apps but not on TV apps.
-<a href='https://www.theverge.com/2021/3/26/22352839/hbo-max-audio-description-warner-media'> Source <a/>
