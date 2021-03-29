@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5m1zzrmBLiKj7E_n4XA-E7qzpC8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69032200/acastro_200406_1777_volkswagen_0003.0.0.jpg' width='700px' /><br/>
-The Volkswagen Group has wrapped a multiyear internal investigation into Dieselgate, and it says it will try to pry compensation from former CEO Martin Winterkorn and former Audi CEO Rupert Stadler to make up for some of the massive financial damages that resulted from the emissions cheating scandal.
-<a href='https://www.theverge.com/2021/3/26/22352646/volkswagen-dieselgate-investigation-damages-winterkorn-audi'> Source <a/>

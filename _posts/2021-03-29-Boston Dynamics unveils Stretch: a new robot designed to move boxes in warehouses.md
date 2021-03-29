@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HnOQydjK0D18PB652I6l0_l6tug=/0x0:8256x5504/1200x800/filters:focal(3468x2092:4788x3412)/cdn.vox-cdn.com/uploads/chorus_image/image/69041282/BOSTONDYNAMICS_STRETCH_WAREHOUSE_Credit_to_Boston_Dynamics.0.jpg' width='700px' /><br/>
+Boston Dynamics is best known for its robot dog Spot, a machine designed to work in a range of environments, from offshore oil rigs to deep underground mines. But in recent years, the company has increasingly focused attention on the logistics space, and today is unveiling a new robot with just one application in mind: moving boxes in warehouses.
+<a href='https://www.theverge.com/2021/3/29/22349978/boston-dynamics-stretch-robot-warehouse-logistics'> Source <a/>

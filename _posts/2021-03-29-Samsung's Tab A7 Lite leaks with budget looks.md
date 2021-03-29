@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1G_4k83o96sQULOzTtBSorpaDNg=/0x181:3000x1797/1200x800/filters:focal(1290x1520:1770x2000)/cdn.vox-cdn.com/uploads/chorus_image/image/69041163/6f8ccd30a49e07d1d284f0e190931ac4e283a69c43cdd5908c07826cbb8ff5c0.0.jpg' width='700px' /><br/>
+Images of Samsung's unannounced Tab A7 Lite tablet have leaked, courtesy of Evan Blass on Voice. The images show a decidedly budget-looking device, with a single rear camera and no flash. Internally the tablet is said to be running a modest MediaTek Helio P22T processor paired with 3GB of RAM and a 5,100 mAh battery.
+<a href='https://www.theverge.com/2021/3/29/22356129/samsung-tab-a7-lite-tablet-leak-camera-specs-display-s7'> Source <a/>

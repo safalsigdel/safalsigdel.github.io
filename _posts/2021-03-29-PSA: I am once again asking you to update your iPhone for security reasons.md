@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IeTsaEZW3dP927ECiWGhG1TwJ_A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69032361/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
-Putting off iOS updates for a week or two is generally fine, but it's probably a good idea to download the latest one, iOS 14.4.2, as soon as you can. It fixes a security flaw that Apple says may have been exploited out in the wild (via MacRumors). The update also applies to iPadOS, so take a couple of minutes out of your day to go to Settings > General > Software Update.
-<a href='https://www.theverge.com/2021/3/26/22352676/iphone-ios-update-fixes-xss-exploit-security-issue'> Source <a/>
