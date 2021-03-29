@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6V9t83_2KYGmrbjfKF4DezRpHBo=/0x0:11675x7492/1200x800/filters:focal(4914x4178:6326x5590)/cdn.vox-cdn.com/uploads/chorus_image/image/69039406/1231960271.0.jpg' width='700px' /><br/>
+The massive cargo ship Ever Given has been stuck for nearly a week in the Suez Canal, captivating the internet and frustrating the teams responsible for dislodging it and the governments hardest hit by the shutdown of the maritime trade route.
+<a href='https://www.theverge.com/2021/3/28/22355368/suez-canal-cargo-ship-stuck-microsoft-flight-simulator-flyby'> Source <a/>
