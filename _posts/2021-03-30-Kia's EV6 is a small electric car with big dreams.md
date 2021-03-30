@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jWUE5gKFyuueum3ZCQtOLZdEoXs=/0x0:2400x1551/1200x675/filters:focal(812x1105:1196x1489)/cdn.vox-cdn.com/uploads/chorus_image/image/69047070/Kia_EV6_GT_line_4.0.jpg' width='700px' /><br/>
-After spending the last month teasing its new electric vehicle, Kia just laid out a lot of what there is to know about the EV6 — at least for the most expensive models. But it all lines up with what the teaser images, well, teased, which is that the EV6 will be a fun and fast electric car with a refreshingly modest footprint.
-<a href='https://www.theverge.com/2021/3/30/22357654/kia-ev6-revealed-specs-photos-electric-car-release-date'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qaEv0Mm_KdUnRAmJh_wl9du9usk=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/69046134/Canoo_MPDV_Front.0.jpg' width='700px' /><br/>
-The deal between Canoo and Hyundai to build electric vehicles appears to be dead, as the California EV startup is moving away from trying to sell its electric vehicle technology to other automakers.
-<a href='https://www.theverge.com/2021/3/29/22357318/canoo-hyundai-deal-dead-electric-vehicles-goev'> Source <a/>
