@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R6KMi_xoSIHo95ijBeArEj83yDs=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/69048017/Ext9ydQW8AETyig.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/KGZIcynJivPRr8__WLMM0LwLv1w=/0x0:3523x1869/1200x0/filters:focal(0x0:3523x1869):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22406522/Fortnite_20210329165502.jpg' width='700px' /><br/>
 The newest season of Fortnite, dubbed “Primal,” did two main things: it introduced animals to the island and added a prehistoric theme. So it's only fitting that the latest update includes a dinosaur.
 <a href='https://www.theverge.com/2021/3/30/22357140/fortnite-primal-update-egg-hatch-dinosaur-raptor'> Source <a/>
