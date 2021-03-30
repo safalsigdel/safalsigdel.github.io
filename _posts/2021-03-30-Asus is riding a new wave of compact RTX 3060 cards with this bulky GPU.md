@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7GoqZ6ap_arvThRmsumI4g84yZQ=/0x0:1200x900/1200x800/filters:focal(504x354:696x546)/cdn.vox-cdn.com/uploads/chorus_image/image/69044825/ASUS_GeForce_RTX_3060_12GB_PHOENIX1.0.jpg' width='700px' /><br/>
+Unlike most GPUs in the RTX 3000 series, Nvidia's RTX 3060 graphics cards can be relatively compact. The dual-fan EVGA RTX 3060 XC we reviewed measured just 201.8mm long, for example, making it easy to fit in most gaming cases. But if you want something even smaller, Asus has become the latest to announce a single-fan RTX 3060 GPU from its Phoenix brand, which is known for making compact desktop GPUs.
+<a href='https://www.theverge.com/2021/3/29/22356900/asus-rtx-3060-phoenix-single-fan-compact-gpu-announced'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Pguy8JIU-15egYiEgNwM6AAf1ak=/0x0:4055x2703/1200x800/filters:focal(1704x1028:2352x1676)/cdn.vox-cdn.com/uploads/chorus_image/image/69034222/1176465771.0.jpg' width='700px' /><br/>
-George R.R. Martin, the author of the A Song of Ice and Fire book series that was turned into HBO's smash hit Game of Thrones, has signed a huge new deal with HBO to make content for the network and HBO Max, according to The Hollywood Reporter. It's a five-year deal worth “mid-eight figures,” sources told THR.
-<a href='https://www.theverge.com/2021/3/26/22353416/hbo-george-r-r-martin-game-of-thrones-five-year-eight-figure-deal'> Source <a/>

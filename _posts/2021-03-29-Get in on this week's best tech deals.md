@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y0AbR9wCEO7RVhgUvhPGfNc8Zsc=/0x0:2529x1797/1200x800/filters:focal(1063x697:1467x1101)/cdn.vox-cdn.com/uploads/chorus_image/image/69035367/VizioOLED.0.jpg' width='700px' /><br/>
-Would you believe that it's Friday already? That means it's time for this week's roundup of tech deals that are better than the rest. We comb through hundreds of deals from a variety of retailers each week, picking only the best sales to tell you about. By the time Friday comes around, some of them have usually expired, but we've included the good ones that are still happening below.
-<a href='https://www.theverge.com/good-deals/2021/3/27/22352334/vizio-oled-4k-hdr-tv-sony-wh1000xm4-headphones-deal-sale-amazon-ebay-best-buy'> Source <a/>

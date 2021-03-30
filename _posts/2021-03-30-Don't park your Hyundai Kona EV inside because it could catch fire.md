@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9dXIG9JNSY9wnEiqngxxbAhq8ag=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69044671/akrales_180329_2351_1027.0.jpg' width='700px' /><br/>
+The US National Highway Traffic Safety Administration issued a recall for 2019xe2x80x932020 Hyundai Kona and 2020 Hyundai Ioniq electric vehicles after over a dozen battery fires were reported. The agency is also warning owners against parking their vehicles near their homes or any flammable structure.
+<a href='https://www.theverge.com/2021/3/29/22357068/hyundai-kona-ev-recall-battery-fire-nhtsa'> Source <a/>

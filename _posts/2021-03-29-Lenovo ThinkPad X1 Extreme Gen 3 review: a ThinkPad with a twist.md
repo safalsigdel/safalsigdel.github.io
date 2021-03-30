@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CNz5tsRVIr5Ae5FiPnIMJeyL3c8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69038366/mchin_20190614_4484_0008.0.jpg' width='700px' /><br/>
-The ThinkPad X1 Extreme Gen 3 is a ThinkPad through and through. It's got the keyboard nub, the discrete mouse buttons, and the all-black chassis with scattered dots of red. (If you've seen its predecessor, the ThinkPad X1 Extreme Gen 2, you'll know what you're getting — the models are identical, with different chips.)
-<a href='https://www.theverge.com/22351156/lenovo-thinkpad-x1-extreme-gen-3-review-design-specs-price-features'> Source <a/>

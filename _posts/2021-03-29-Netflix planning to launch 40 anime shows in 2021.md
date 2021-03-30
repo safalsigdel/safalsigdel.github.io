@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8n3S56nRJ1BA8dB301Zds6CgqVU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69035470/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
-Netflix announced at Tokyo's AnimeJapan 2021 Expo Saturday that it will launch 40 new anime titles in 2021, Bloomberg reported, following the success of its Blood of Zeus series last year.
-<a href='https://www.theverge.com/2021/3/27/22353848/netflix-launch-anime-ragnarok-zeus-resident-evil-streaming'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FAFOfWgxTm6dMNiWI2zfHlxHU2c=/0x0:2479x1336/1200x800/filters:focal(285x527:681x923)/cdn.vox-cdn.com/uploads/chorus_image/image/69034272/Screen_Shot_2021_03_26_at_3.21.40_PM.0.png' width='700px' /><br/>
-Virtual band Gorillaz's debut album is turning 20 years old today (a fact I'm going to try to immediately forget), and in celebration the group will be carrying out the usual anniversary celebrations: re-releasing albums, selling new merch and, according to NME, selling NFTs.
-<a href='https://www.theverge.com/2021/3/26/22353219/gorrilaz-artist-nft-release-environmental-concerns'> Source <a/>

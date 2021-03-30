@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l8OgVawayUjX7PJ_ep3mNomwWkI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69033533/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-Amazon received Food and Drug Administration authorization for a COVID-19 test made by its subsidiary STS Lab Holdco, and it plans to use it for its onsite coronavirus testing programs.
-<a href='https://www.theverge.com/2021/3/26/22353058/amazon-fda-authorization-covid-test-home'> Source <a/>

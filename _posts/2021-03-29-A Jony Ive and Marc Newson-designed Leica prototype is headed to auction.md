@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QLk7dw7D2dp4K2Vr56Bx3-VQF6w=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/69041350/ezgif_7_d879915df7ee.0.jpg' width='700px' /><br/>
-A rare prototype of a Leica camera crafted by former Apple luminary Jony Ive and famed designer Marc Newson is being sold at auction in June. The device, which is described as being in “B+” condition, has a starting price of xe2x82xac100.000 (around $118,000), and the Leitz Photographica Auction house estimates that it'll sell for between xe2x82xac200.000 and xe2x82xac250.000 (around $235,000 to $295,000).
-<a href='https://www.theverge.com/2021/3/29/22356156/leica-m-for-red-camera-prototype-apple-jony-ive-marc-newson-auction'> Source <a/>

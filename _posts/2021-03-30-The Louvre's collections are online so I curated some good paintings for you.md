@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VgjgVLpsrvuLBKFcsNRTN4Mf_rg=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/69045670/1230479781.0.jpg' width='700px' /><br/>
+The Louvre Museum announced Friday that its entire collections are now available to view online at collections.louvre.fr. This includes pieces that are on loan or in storage, which is exciting for museum nerds like me who have ever expressed woe at the number of cool things museums have kept away from my eager eyeballs.
+<a href='https://www.theverge.com/2021/3/29/22357261/louvre-museum-art-collections-online-animal-paintings'> Source <a/>

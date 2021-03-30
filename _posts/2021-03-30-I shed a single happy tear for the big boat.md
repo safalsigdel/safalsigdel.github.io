@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WUSVB527k2DA7kFV0b0dZlt9wfw=/0x0:4000x2667/1200x800/filters:focal(2018x1262:2658x1902)/cdn.vox-cdn.com/uploads/chorus_image/image/69042768/1232002859.0.jpg' width='700px' /><br/>
+The boat is unstuck. If you've been following the news, you know exactly the boat and exactly how stuck it was: the Evergreen Marine Corporation's Ever Given cargo ship has been stuck across the Suez Canal for the last six days, disrupting billions of dollars in global trade.
+<a href='https://www.theverge.com/2021/3/29/22356465/suez-canal-big-boat-ever-given-stuck-unstuck'> Source <a/>

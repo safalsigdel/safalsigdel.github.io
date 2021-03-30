@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+If your desire to mine bitcoin has been thwarted by a lack of GPU stock and flimsy BIOS locks, YouTuber StackSmashing may be able to help. They've made a Game Boy miner, which only needs a Game Boy console (and a slightly modified Link Cable), a Raspberry Pi Pico, and a regular computer (via Tom's Hardware).
+<a href='https://www.theverge.com/tldr/2021/3/29/22356862/mining-bitcoin-game-boy-gpu-shortage-raspberry-pi-pico-mod'> Source <a/>

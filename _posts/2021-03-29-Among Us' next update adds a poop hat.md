@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oarI2H3WsVDbQB4h9qhsQKcCiEI=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69033398/ExbuI5GWgAEdcCW.0.jpeg' width='700px' /><br/>
-Among Us' next big update will add a poop hat to the game. Technically, it's a “chocolate ice cream” hat.
-<a href='https://www.theverge.com/2021/3/26/22353088/among-us-airship-update-poop-hat-chocolate-ice-cream'> Source <a/>

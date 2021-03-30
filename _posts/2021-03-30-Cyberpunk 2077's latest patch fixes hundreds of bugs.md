@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/flVIvUhOLdVnHpZtrWUOEtsUmgU=/0x0:1920x1080/1200x800/filters:focal(502x227:808x533)/cdn.vox-cdn.com/uploads/chorus_image/image/69043567/ss_ae4465fa8a44dd330dbeb7992ba196c2f32cabb1.1920x1080.0.jpg' width='700px' /><br/>
+CD Projekt Red released an update for Cyberpunk 2077 with hundreds of bug fixes. Patch 1.2, a 34GB or more download depending on platform, is live on PC and consoles, with a Stadia update coming later this week.
+<a href='https://www.theverge.com/2021/3/29/22356546/cyberpunk-2077-patch-1-2-bug-fixes-console-stadia'> Source <a/>
