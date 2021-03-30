@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Uz_2IffNcfQyTp_Qe2yutmmdtpo=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/69042308/mi11u.0.jpg' width='700px' /><br/>
-Xiaomi has announced its latest flagship, the Mi 11 Ultra. It's based on the excellent new Mi 11, but has a more advanced camera system — including a second screen housed inside the camera bump.
-<a href='https://www.theverge.com/2021/3/29/22356128/xiaomi-mi-11-ultra-lite-5g-announced-specs'> Source <a/>

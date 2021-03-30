@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1sSTsdNYcIGi2r02HYD4_47MZCU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69047251/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
+Google is announcing a bunch of new features planned for Google Maps, including a new tool to help with indoor navigation and suggestions for eco-friendly driving routes. The features announced today aren't rolling out all at once, though; many aren't available just yet, and it's unclear when some will be available in some parts of the world.
+<a href='https://www.theverge.com/2021/3/30/22357528/google-maps-directions-indoor-ar-live-view-fuel-efficient-weather-air-quality-layer'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9W_RNfSGlNq3_1RFtXYRpvKr_rk=/0x0:1046x1057/1200x0/filters:focal(0x0:1046x1057):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22406834/paypal_crypto_screen.png' width='700px' /><br/>
+We already knew that PayPal was planning to support cryptocurrencies as a form of payment. And now, the online payment app announced US customers can do just that with its “Checkout with Crypto” feature, rolling out today.
+<a href='https://www.theverge.com/2021/3/30/22357246/paypal-buy-with-bitcoin-litecoin-ethereum-crypto-checkout'> Source <a/>

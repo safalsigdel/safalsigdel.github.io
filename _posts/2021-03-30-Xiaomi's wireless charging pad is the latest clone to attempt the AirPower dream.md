@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0js5ZhPoS8NTeKXa3j9MclVK0Z0=/0x0:1758x942/1200x800/filters:focal(739x331:1019x611)/cdn.vox-cdn.com/uploads/chorus_image/image/69042246/image__1_.0.png' width='700px' /><br/>
-Xiaomi unveiled a new wireless charging pad during its Mi 11 Ultra event this morning. The pad is capable of simultaneously charging three devices without precise placement, similar to the canceled Apple AirPower charger.
-<a href='https://www.theverge.com/2021/3/29/22356286/xiaomi-wireless-charging-pad-apple-airpower-clone-announced'> Source <a/>
