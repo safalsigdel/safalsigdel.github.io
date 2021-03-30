@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ES11E5DvDxB_erAjfP9CW3_Suxo=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/69048592/1232019313.0.jpg' width='700px' /><br/>
+On Tuesday, Twitch removed graphic video of Minneapolis resident George Floyd's death, shown during the trial of his alleged murderer Derek Chauvin — the latest test of how Amazon's live streaming platform handles newsworthy events.
+<a href='https://www.theverge.com/2021/3/30/22356973/twitch-george-floyd-death-video-derek-chauvin-trial-unicorn-riot-suspension'> Source <a/>
