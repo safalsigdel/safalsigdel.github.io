@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MvC8lGae2E55AhEr89O4ufRN1Ck=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69041641/acastro_200730_1777_ai_0001.0.jpg' width='700px' /><br/>
-One of the biggest trends in machine learning right now is text generation. AI systems learn by absorbing billions of words scraped from the internet and generate text in response to a variety of prompts. It sounds simple, but these machines can be put to a wide array of tasks — from creating fiction, to writing bad code, to letting you chat with historical figures.
-<a href='https://www.theverge.com/2021/3/29/22356180/openai-gpt-3-text-generation-words-day'> Source <a/>
