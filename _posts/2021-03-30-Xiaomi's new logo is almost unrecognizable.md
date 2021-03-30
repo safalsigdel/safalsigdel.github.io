@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f2MVJKfAZjtyvqOsh84ztFLTFAM=/0x0:2218x1266/1200x800/filters:focal(932x456:1286x810)/cdn.vox-cdn.com/uploads/chorus_image/image/69047711/Screen_Shot_2021_03_30_at_12.51.31_PM.0.png' width='700px' /><br/>
+No one in the world does corporate pomposity quite like tech firms, and Chinese mobile giant Xiaomi is no exception. The company announced its new foldable Mi Mix Fold today, but it also revealed a new logo, spending more than 20 minutes describing the process in which it turned its old square design into... a squircle. (Halfway between a square and a circle.)
+<a href='https://www.theverge.com/tech/2021/3/30/22358033/xiaomi-new-logo-design-square-round'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jEn4mndT2T5nXJKxlZDxx9xbOis=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69047755/mdoying_180308_1437_0070still.0.jpg' width='700px' /><br/>
+Spotify has invested heavily in prerecorded podcast content, and now, the company is looking to host live audio conversations. The platform announced today that it's acquiring Betty Labs, the company behind the live sports audio app Locker Room. Spotify didn't disclose how much it spent on the purchase.
+<a href='https://www.theverge.com/2021/3/30/22356993/spotify-locker-room-clubhouse-launch-acquisition'> Source <a/>

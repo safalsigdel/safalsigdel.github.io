@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MT2zl7QG81sX63MrcItW_MaDFmc=/0x0:1260x700/1200x800/filters:focal(530x250:730x450)/cdn.vox-cdn.com/uploads/chorus_image/image/69047938/Volvo_Blog_Cover_1260x700__Rendering_.0.jpg' width='700px' /><br/>
+Volvo is partnering with self-driving startup Aurora on a new lineup of fully autonomous semi trucks, the companies announced. The trucks will be deployed in North America on highly frequented hub-to-hub routes.
+<a href='https://www.theverge.com/2021/3/30/22358005/volvo-aurora-autonomous-truck-partnership'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kubkQ4d9CgiYhX51zLiUYVm4WA4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69042947/sokane_210125_4386_1835.0.jpg' width='700px' /><br/>
-Ford has stopped selling its Level 2 home chargers for the Mustang Mach-E after discovering some weren't working, the company tells The Verge.
-<a href='https://www.theverge.com/2021/3/29/22356539/ford-connected-charge-station-sales-halt-issue-mustang-mach-e'> Source <a/>

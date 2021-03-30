@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/08XoXJYTo7RumYESq84_1hlrWdo=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69047854/lilium_jet_7_seat_render_04.0.jpeg' width='700px' /><br/>
+Germany's Lilium will be the latest electric aviation startup to go public via a reverse merger with a special acquisition company, or SPAC. Lilium will merge with Qell Acquisition, a SPAC founded by former General Motors executive Barry Engle. The newly formed company will list on Nasdaq under the ticker symbol “LILM.”
+<a href='https://www.theverge.com/2021/3/30/22358027/lilium-flying-taxi-evtol-spac-electric-aviation-gm-engle'> Source <a/>

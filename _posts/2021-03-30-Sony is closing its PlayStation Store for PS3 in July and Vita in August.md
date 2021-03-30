@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I5WgHs2wvEa9QncVEn-jiMO9ogU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69043510/vpavic_191205_untitled_0018_Edit.0.jpg' width='700px' /><br/>
-Sony is officially closing its PlayStation Store for the PlayStation 3 on July 2nd, with the store shuttering for Vita devices on August 27th. The shutdowns mean you'll no longer be able to purchase digital copies of games or DLC for the PS3 and Vita. Sony is also removing the remaining purchase functionality for its PlayStation Portable (PSP) on July 2nd.
-<a href='https://www.theverge.com/2021/3/29/22356791/sony-playstation-store-close-ps3-vita-psp-game-downloads'> Source <a/>
