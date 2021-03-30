@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m1ZPnBGbim6aS5vZJH2ojWONpAM=/0x0:716x716/1200x800/filters:focal(301x301:415x415)/cdn.vox-cdn.com/uploads/chorus_image/image/69048186/Large_13212_VoltswagenAnewnameforaneweraofe_Mobility.0.png' width='700px' /><br/>
+Volkswagen is changing the name of its American brand to Voltswagen, in a not-so-subtle nod to the German automaker's multibillion-dollar effort to become the biggest electric vehicle manufacturer in the world.
+<a href='https://www.theverge.com/2021/3/30/22357166/volkswagen-name-change-voltswagen-us-division'> Source <a/>
