@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vjXF1B8l4Ir4Apy-z2S5md1qf2U=/0x0:3000x2000/1200x675/filters:focal(1135x783:1615x1263)/cdn.vox-cdn.com/uploads/chorus_image/image/69052939/VRG_ILLO_4499_Decoder_Nick_Clegg.0.jpg' width='700px' /><br/>
+There is no shortage of criticisms that get leveled at Facebook: it's spreading misinformation and hate speech, it's too polarizing, it's responsible for fraying the very fabric of society. The list goes on.
+<a href='https://www.theverge.com/2021/3/31/22359026/facebook-nick-clegg-newsfeed-medium-decoder'> Source <a/>
