@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QrxLfr2iSpqPc7lT9NsA-4j2SXY=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/69054378/xcloudxbox360games.0.jpg' width='700px' /><br/>
+Microsoft is bringing 16 original Xbox and Xbox 360 games to the company's Xbox Cloud Gaming (xCloud) service today. Titles like Elder Scrolls III: Morrowind, the original Banjo-Kazooie, and Fallout: New Vegas are all now available to stream to Android devices. Microsoft is also enabling touch controls for Jetpac Refuelled, Viva Pinata, and Viva Pinata TIP.
+<a href='https://www.theverge.com/2021/3/31/22360211/microsoft-xbox-360-xcloud-backward-compatible-games'> Source <a/>
