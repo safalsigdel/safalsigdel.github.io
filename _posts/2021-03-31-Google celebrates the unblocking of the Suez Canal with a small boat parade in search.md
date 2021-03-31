@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-The big boat is no longer stuck. After days of rapt attention from the internet, a non-metaphorical rising tide has indeed lifted all the boats — and particularly, the Evergreen Marine Corporation's Ever Given cargo ship — reopening the Suez Canal to regular shipping traffic and ensuring that the precious lifeblood of capitalism can continue to flow freely.
-<a href='https://www.theverge.com/tldr/2021/3/30/22358091/google-ever-given-suez-canal-boat-parade-search-easter-egg'> Source <a/>
