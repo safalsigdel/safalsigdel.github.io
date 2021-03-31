@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2SXqK9d10ZfPlnduQ_k9QN0JxIE=/674x83:3141x2319/1200x800/filters:focal(1654x1021:2168x1535)/cdn.vox-cdn.com/uploads/chorus_image/image/69050300/Screen_Shot_2021_03_30_at_11.43.52_AM.0.png' width='700px' /><br/>
-To help make travel during the pandemic a little less stressful, Apple Maps will now display travel guidance information provided by the Airports Council International (ACI) so you know what to expect before you take off or land at your destination.
-<a href='https://www.theverge.com/2021/3/30/22358708/apple-maps-airport-travel-guidance'> Source <a/>
