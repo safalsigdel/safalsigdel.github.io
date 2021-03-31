@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jxZtwbkjgg7rp20A3l5aKchQwkk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69048042/DSC00697.0.jpg' width='700px' /><br/>
-Nvidia is launching Resizable BAR support today, a feature of PCI Express that can boost frame rates in certain games by up to 10 percent. Resizable BAR works by unlocking access to the full graphics frame buffer, instead of limiting it to 256MB block reads. This can improve frame rates in games, but it will require a compatible CPU, motherboard BIOS update, and even a VBIOS update for all 30-series desktop GPUs.
-<a href='https://www.theverge.com/2021/3/30/22357980/nvidia-resizable-bar-support-30-series-gpus-available-now'> Source <a/>
