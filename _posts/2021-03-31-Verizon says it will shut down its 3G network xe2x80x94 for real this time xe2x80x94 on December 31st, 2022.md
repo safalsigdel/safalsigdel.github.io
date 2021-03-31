@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hv7zYEQwZaCU0ubDQyewwPWglcU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69049901/acastro_200109_1777_verizon_0002.0.0.jpg' width='700px' /><br/>
-After years of delays, Verizon says it will finally shut down its 3G CDMA network at the end of 2022 — and the company means it this time.
-<a href='https://www.theverge.com/2021/3/30/22358628/verizon-3g-cdma-shutdown-date-2022'> Source <a/>
