@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Le8HLlQoDF8PLko3oaO0uCH0oWw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68809162/acastro_201217_1777_vaccine_0001.0.jpg' width='700px' /><br/>
-One of the most frustrating tasks for many of us these days is finding how and where to get an appointment for a COVID-19 vaccination. It can be a real exercise in exasperation: the websites are often difficult to navigate and prone to frequent crashes; in addition, after finding an open appointment slot and filling out multiple pages of questions, you are often told that the opening has disappeared.
-<a href='https://www.theverge.com/22279023/covid-19-vaccine-appointment-how-to'> Source <a/>

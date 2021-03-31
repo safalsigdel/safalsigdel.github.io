@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9j8sZRSwLmj2_VrZcRymf7_7_AA=/0x0:977x550/1200x800/filters:focal(411x197:567x353)/cdn.vox-cdn.com/uploads/chorus_image/image/69053178/SPOTIFY_US_FOR_THE_RECORD_PR_ASSET_032521_V2_CF_01_1440x550.0.jpg' width='700px' /><br/>
+Spotify Mixes are a new family of personalized playlists populated with songs you already like and then supplemented with additional songs Spotify thinks you'll like, based upon your favorite artists, genres, or music decades. The new Mixes are rolling out globally starting today for both free and premium Spotify subscribers.
+<a href='https://www.theverge.com/2021/3/31/22359859/spotify-artist-genre-decade-mixes-auto-generation-personalized-music-recommendations'> Source <a/>
