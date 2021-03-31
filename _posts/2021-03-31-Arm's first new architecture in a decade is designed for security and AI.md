@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/91lHPuz1eoSjDatRFcr1IE8qnp8=/0x0:6482x4321/1200x800/filters:focal(2379x1581:3415x2617)/cdn.vox-cdn.com/uploads/chorus_image/image/69049709/1146397412.0.jpg' width='700px' /><br/>
-Chip designer Arm has announced Armv9, its first new chip architecture in a decade following Armv8 way back in 2011. According to Arm, Armv9 offers three major improvements over the previous architecture: security, better AI performance, and faster performance in general. These benefits should eventually trickle down to devices with processors based on Arm's designs.
-<a href='https://www.theverge.com/2021/3/30/22357951/arm-armv9-architecture-security-artificial-intelligence-performance'> Source <a/>
