@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9uvATAKGvu9tzoGlpYUQZ0zr9G0=/0x0:2040x1360/1200x675/filters:focal(831x720:1157x1046)/cdn.vox-cdn.com/uploads/chorus_image/image/69047795/dseifert_20210323_4485_0004.0.jpg' width='700px' /><br/>
-Here's the thing about the new $99.99 Nest Hub from Google: it is slow. Compared to almost any other touchscreen device you might own or interact with, the Nest Hub is laggy, sluggish to respond, and has stuttering animations all over the place.
-<a href='https://www.theverge.com/22357214/google-nest-hub-2nd-gen-2021-assistant-smart-display-review'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xPyNELW-0NdnJEf4MUsGr35Wdf4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69051445/Screen_Shot_2021_03_18_at_4.38.41_PM.0.png' width='700px' /><br/>
+Two weeks ago, after YouTube revealed its definition of hate speech was so narrow that it couldn't remove a wildly racist tirade for being wildly racist, we wondered out loud what it would take for YouTube to stop promoting conservative commentator Steven Crowder as an official YouTube Partner and allowing him to profit from those tirades.
+<a href='https://www.theverge.com/2021/3/30/22359191/steven-crowder-youtube-partner-program-suspension-demonetize-ads-strike-ban-misinformation'> Source <a/>

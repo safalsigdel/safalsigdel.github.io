@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ul2pZkTqpPD9wBbBDjHinzRXwqQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69050808/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
+YouTube is facing employee calls to remove a rap song that allegedly encourages violence against Asians, according to a report from Bloomberg.
+<a href='https://www.theverge.com/2021/3/30/22358804/youtube-yg-song-meet-the-flockers-anti-asian-violence'> Source <a/>

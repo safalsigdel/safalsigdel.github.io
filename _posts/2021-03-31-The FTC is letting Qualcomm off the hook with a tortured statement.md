@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Four years after accusing Qualcomm of abusing monopoly power to charge phone makers additional licensing fees for its modems — and seven months after seemingly losing that battle in a federal circuit court — the Federal Trade Commission has decided to throw in the towel. It's no longer planning to appeal to the Supreme Court, which means the case is done.
+<a href='https://www.theverge.com/tldr/2021/3/30/22357579/ftc-qualcomm-supreme-court-appeal-antitrust'> Source <a/>

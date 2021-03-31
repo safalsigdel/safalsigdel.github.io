@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Amazon is reportedly working on custom silicon chips for its hardware network switches, according to The Information. The chips, which could help Amazon improve its internal infrastructure as well as AWS, are said to be the result of Amazon's $350 million acquisition of Israeli chipmaking firm Annapurna Labs back in 2015.
+<a href='https://www.theverge.com/circuitbreaker/2021/3/30/22358633/amazon-reportedly-custom-network-switch-silicon-aws'> Source <a/>

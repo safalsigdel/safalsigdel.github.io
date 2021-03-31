@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8BSTqBmelS17eg_2qDcqmBy2_vo=/0x0:2640x1748/1200x675/filters:focal(1109x663:1531x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/69047971/intelcorei9_11900K_1.0.jpg' width='700px' /><br/>
-I built a new gaming PC in September to play new games like Microsoft Flight Simulator, Cyberpunk 2077, and Assassin's Creed Valhalla. I figured that picking Intel's Core i9-10900K and Nvidia's RTX 3090 would make this machine last for years and offer top tier performance in demanding titles like Microsoft Flight Simulator. I was wrong. Microsoft Flight Simulator is a notorious beast of a game and is quickly becoming the new Crysis test for PCs.
-<a href='https://www.theverge.com/22357949/intel-core-i9-11900k-review'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w2dAQwDp6m5OeRqntCJKDAA9szM=/0x0:8272x6200/1200x800/filters:focal(3475x2439:4797x3761)/cdn.vox-cdn.com/uploads/chorus_image/image/69047586/Large_45011_HyundaiIONIQ5RedefinesElectricMobilityLifestyle.0.jpg' width='700px' /><br/>
-Motional has selected the Hyundai Ioniq 5 for its forthcoming autonomous ride-hailing service. Motional, which is a joint venture between Aptiv and Hyundai, said the Ioniq 5 was chosen because it represents a “convergence of mobility's two most transformative technologies — electrification and autonomy.”
-<a href='https://www.theverge.com/2021/3/30/22357224/motional-hyundai-ioniq-5-lyft-ev-robotaxi'> Source <a/>

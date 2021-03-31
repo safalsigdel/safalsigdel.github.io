@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QeVtU2YWRmsL76HZiUHVwd8XUnA=/0x0:3250x2167/1200x800/filters:focal(1365x824:1885x1344)/cdn.vox-cdn.com/uploads/chorus_image/image/69051723/1230428833.0.jpg' width='700px' /><br/>
+The ongoing global shortage for electronic components continues, and Foxconn — which handles manufacturing for Apple, among other major tech heavyweights — has announced that it's starting to see the impact of shortages. According to Young Liu, Foxconn's CEO, the company won't be able to fulfill some of its orders due to those shortages, which he expects will last until at least the second quarter of next year, Nikkei reports.
+<a href='https://www.theverge.com/2021/3/30/22358256/apple-supplier-foxconn-parts-shortages-chips-2022'> Source <a/>

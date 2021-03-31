@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V1JqNQsAaXPXQqcdjffI5YXUjFE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69049626/screen_ripperdoc_clinic_en.0.jpeg' width='700px' /><br/>
+Polish game studio CD Projekt Red announced a sweeping restructuring plan on Tuesday, just months after the disastrous launch of its much-hyped title Cyberpunk 2077. One of the key goals of the new plan brings “a change in the way [the studio] develops video games,” according to a press release. The changes will allow CD Projekt Red to work on “multiple AAA games and expansions in parallel” starting in 2022.
+<a href='https://www.theverge.com/2021/3/30/22358472/cd-projekt-red-restructuring-strategy-cyberpunk-2077-launch'> Source <a/>

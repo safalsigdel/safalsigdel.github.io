@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fjzHqCl-wtdA2qyfC1Svo5pfb_8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69047259/ahawkins_190804_3589_0009.0.jpg' width='700px' /><br/>
-Autonomous shuttle startup Optimus Ride and power sports vehicle manufacturer Polaris are teaming up to co-develop a new lineup of vehicles that will be low-speed, electric, and self-driving.
-<a href='https://www.theverge.com/2021/3/30/22356398/polaris-optimus-ride-av-ev-lsv-shuttle-announce'> Source <a/>

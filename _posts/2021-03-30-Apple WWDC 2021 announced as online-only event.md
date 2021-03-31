@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IhdX3RBWLVnZBIdba-SpvpO5-38=/0x0:1960x1102/1200x800/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/69047864/Apple_wwdc21_newsroom_article_tile_033021.0.jpg' width='700px' /><br/>
-Apple just announced that its Worldwide Developers Conference (WWDC) will take place on June 7th through June 11th this year, and that like last year it will be an online-only event.
-<a href='https://www.theverge.com/2021/3/30/22320961/apple-wwdc-2021-event-date-software-updates-ios-ipados-macos'> Source <a/>

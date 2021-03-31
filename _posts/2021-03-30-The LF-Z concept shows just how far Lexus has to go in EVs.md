@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5-Rqkl33pM_KDzLLFJEmLZ8N6GY=/568x453:2185x1512/1200x675/filters:focal(1802x1051:2338x1587)/cdn.vox-cdn.com/uploads/chorus_image/image/69047276/2021_Lexus_LFZ_0018.0.jpg' width='700px' /><br/>
-Toyota is finally following the rest of its peers into making all-electric vehicles, and that now includes its luxury brand, Lexus. On Tuesday, the Japanese marque revealed the LF-Z Electrified concept car, which is all about charting the company's course into an electric future.
-<a href='https://www.theverge.com/2021/3/30/22357789/lexus-lf-z-electrified-concept-car-ev-toyota-electric'> Source <a/>

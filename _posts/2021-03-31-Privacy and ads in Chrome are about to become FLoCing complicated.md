@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bgdhVCEK46dJFJwhcskgXGG_urE=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69049695/acastro_200207_3900_chrome_0001.0.0.jpg' width='700px' /><br/>
+Repent, o ye ad trackers, for the cookiepocalypse is nigh!
+<a href='https://www.theverge.com/2021/3/30/22358287/privacy-ads-google-chrome-floc-cookies-cookiepocalypse-finger-printing'> Source <a/>

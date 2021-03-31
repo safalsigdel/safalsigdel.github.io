@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Mk1Kop5NiQx3-s3puB608a6B6rk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69050130/akrales_210226_4438_0100.0.jpg' width='700px' /><br/>
+A little-known behavior in Chrome OS could reveal a user's movements through Wi-Fi logs. Leveraging Chrome OS's Guest mode feature, the attack would require physical access to the device, but it can be executed without knowing the user's password or having login access.
+<a href='https://www.theverge.com/2021/3/30/22358763/chromebook-wifi-log-access-guest-mode-location-chrome-os'> Source <a/>

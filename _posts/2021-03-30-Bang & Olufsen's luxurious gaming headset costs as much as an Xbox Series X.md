@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L2P_IKa0dOuK3jE16WC8q1LjaQE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69047506/beoplayportallede.0.jpg' width='700px' /><br/>
-Bang & Olufsen has announced Beoplay Portal, its first wireless gaming headset. The product maintains the company's signature sophisticated look, and it has more features than your average headset.
-<a href='https://www.theverge.com/2021/3/30/22356352/bang-olufsen-beoplay-portal-gaming-headset-features-price'> Source <a/>

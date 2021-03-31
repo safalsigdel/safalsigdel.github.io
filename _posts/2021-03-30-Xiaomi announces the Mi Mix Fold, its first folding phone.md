@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a8wCZqTKMo85Y8MrS9XDAcJbvmI=/0x0:1688x1125/1200x800/filters:focal(709x428:979x698)/cdn.vox-cdn.com/uploads/chorus_image/image/69047688/mf1.0.jpg' width='700px' /><br/>
-Xiaomi has resurrected its Mi Mix series with the Mi Mix Fold, the company's first commercial folding phone. Unlike previous outlandish Mix devices and concepts from the company, the Mi Mix Fold is a pretty conventional folding phone that uses a big-screen-on-the-inside / small-screen-on-the-outside design similar to Samsung's Galaxy Z Fold series and Huawei's new Mate X2.
-<a href='https://www.theverge.com/2021/3/30/22356143/xiaomi-mi-mix-fold-folding-phone-announced-price'> Source <a/>
