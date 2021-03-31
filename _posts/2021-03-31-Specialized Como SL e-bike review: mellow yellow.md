@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kqov7oNfzhqzREYx2asuZTBZPUI=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69054650/ahawkins_20210329_4495_0003.0.jpg' width='700px' /><br/>
+Specialized just released one of its most interesting electric bikes to date, the Como SL. The SL stands for “Super Light,” and Specialized is marketing it as an everyday commuter, perfect for zipping over to a friend's house, picking up some groceries, or, if you really need to, carrying up a few flights of stairs. There's even a hand grip built into the frame to help lift the bike when needed.
+<a href='https://www.theverge.com/2021/3/31/22360180/specialized-como-sl-ebike-review-price-specs'> Source <a/>
