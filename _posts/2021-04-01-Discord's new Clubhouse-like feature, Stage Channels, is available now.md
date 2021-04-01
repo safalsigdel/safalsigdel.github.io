@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pb4HCk4I-sXi0zfxWUfuj2qWfQY=/0x0:2880x2048/1200x800/filters:focal(1210x794:1670x1254)/cdn.vox-cdn.com/uploads/chorus_image/image/69055526/Audience.0.png' width='700px' /><br/>
-Discord is the latest company to introduce a Clubhouse-like feature that lets people easily broadcast live audio conversations to a room of virtual listeners. Discord says its take, called Stage Channels, is available now on all platforms where Discord is available, including Windows, macOS, Linux, iOS, Android, and the web.
-<a href='https://www.theverge.com/2021/3/31/22356682/discord-stage-channels-clubhouse-like-feature-voice'> Source <a/>

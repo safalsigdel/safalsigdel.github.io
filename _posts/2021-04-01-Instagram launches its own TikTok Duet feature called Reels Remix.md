@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PYvwLaV0iIvrxetdgk2-Rq2mW2I=/0x0:2448x1236/1200x800/filters:focal(1029x423:1419x813)/cdn.vox-cdn.com/uploads/chorus_image/image/69055615/Remix_Press.0.jpg' width='700px' /><br/>
-Instagram Reels already mimics TikTok in multiple ways, and now, it's getting one more feature from the popular video app: duets. On Instagram, users can now “remix” a reel, meaning they can upload a video next to another user's, building on top of the original clip. The feature is already popular on TikTok, often for dance challenges, under the “duet” function.
-<a href='https://www.theverge.com/2021/3/31/22360544/instagram-reels-remix-tiktok-duet-feature-launch'> Source <a/>
