@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3ELnL7ssgWR1aM8qaADu0JZxiys=/0x0:700x701/1200x800/filters:focal(301x217:413x329)/cdn.vox-cdn.com/uploads/chorus_image/image/69055876/ios14_iphone11_pro_settings_battery_battery_health_recalibrating_maximum_capacity_and_peak_performance_capability_crop.0.jpg' width='700px' /><br/>
-Apple will try to fix battery drain and reduced performance issues that have affected some iPhone 11 devices by recalibrating their batteries in an upcoming update (via MacRumors). According to an Apple support document, the process will happen when you update an iPhone 11, 11 Pro, or 11 Pro Max to the upcoming iOS 14.5.
-<a href='https://www.theverge.com/2021/3/31/22360568/apple-recalibrate-iphone-11-battery-ios-update'> Source <a/>
