@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-q7-P1cBZjmDxdq9t1KwlmHZHRg=/0x0:4020x2680/1200x800/filters:focal(1689x1019:2331x1661)/cdn.vox-cdn.com/uploads/chorus_image/image/69056690/vpavic_170418_1629_0099.0.jpg' width='700px' /><br/>
-New York has passed the Marijuana Regulation and Taxation Act, legalizing the recreational use of marijuana in the state. The new legislation also expunges the records of people who were convicted on marijuana-related charges that are no longer criminalized. People with past convictions will be among those prioritized for licenses to cultivate, process, and sell marijuana products.
-<a href='https://www.theverge.com/2021/3/31/22360455/new-york-marijuana-legalization-conviction-expungement'> Source <a/>
