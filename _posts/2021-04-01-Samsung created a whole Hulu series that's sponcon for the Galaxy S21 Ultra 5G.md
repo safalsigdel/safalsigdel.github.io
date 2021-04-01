@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dYRlbK3hzODNrCOkd4DqsdKKl1M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69061400/vpavic_210119_4377_0170.0.jpg' width='700px' /><br/>
+Samsung wants you to know its new phone, the Galaxy S21 Ultra 5G, is good at capturing photos. Maybe you could outwardly tell from its five image sensors, including four on the back, that the company takes mobile photography seriously. But if not, you now have an entire Hulu series to watch in which the S21 Ultra 5G is the main character.
+<a href='https://www.theverge.com/2021/4/1/22362153/samsung-s21-ultra-hulu-exposure-show-branded-content'> Source <a/>

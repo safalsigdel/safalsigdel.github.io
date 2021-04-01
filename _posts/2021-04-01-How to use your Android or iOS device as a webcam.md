@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lYn7y2rIT7Hmel7KmJNd0tibisY=/0x0:2040x1360/1200x800/filters:focal(690x538:1016x864)/cdn.vox-cdn.com/uploads/chorus_image/image/66900097/DSCF1913.0.0.jpg' width='700px' /><br/>
-A good webcam, let alone any webcam, is tough to find these days. Just to put a time marker on this post: the coronavirus pandemic has moved much of America's workforce into a work-from-home environment. With so many people in need of basic tech supplies, demand for webcams has surged, and as supplies dwindle, prices have unsurprisingly skyrocketed.
-<a href='https://www.theverge.com/21281765/webcam-phone-tablet-android-ios-pc-mac-how-to'> Source <a/>
