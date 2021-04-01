@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x7pZhI-VrwZzNTU29hoIR0zPxgs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69051227/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
-YouTube has announced it's experimenting with hiding dislikes to discourage “dislike mobs” from deliberately downvoting videos from creators and channels. The experiment is a different implementation than the solutions the company had previously discussed, but it is similar to other attempts platforms like Instagram have taken to nip targeted attacks in the bud.
-<a href='https://www.theverge.com/2021/3/30/22358992/youtube-hiding-dislikes-experiment-creator-review-bomb'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/r-Q2ipE1ICBgf2kaswqBYroESRA=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69055395/acastro_210330_4500_phoneData_0001.0.jpg' width='700px' /><br/>
+Phone plans are notorious for including the worst kinds of jargon — things that seem to tell you what you're signing up for but actually conceal a long list of conditions and exceptions.
+<a href='https://www.theverge.com/2021/3/31/22360228/unlimited-plan-verizon-att-t-mobile-premium-data-tethering-limits'> Source <a/>

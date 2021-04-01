@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rPBJy0oebte9AYvh2QB3pYG6fXA=/0x0:1680x800/1200x800/filters:focal(706x266:974x534)/cdn.vox-cdn.com/uploads/chorus_image/image/69054853/belkin_MMA001btBK_movement_tracking_tripod_stand_playing_guitar_on_live_stream_carousel_1_v01_r01_1680x800_us.0.jpeg' width='700px' /><br/>
-Belkin has a new iPhone stand that's useful enough to be interesting but annoyingly limited.
-<a href='https://www.theverge.com/2021/3/31/22360203/belkin-iphone-12-magsafe-face-tracking-stand-no-video-calls'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7KZl9C5N2zEyttJboyUnqLd59cc=/0x0:7298x4096/1200x800/filters:focal(3066x1465:4232x2631)/cdn.vox-cdn.com/uploads/chorus_image/image/69057413/3_Analogue_Pocket_All_Angles.0.jpg' width='700px' /><br/>
+Analogue's Pocket is the latest gadget to be negatively impacted by the global shortage of chips and electronic components. The sleek and modern device that allows you to play Game Boy cartridges will now launch in October, an additional five-month delay, the company announced today.
+<a href='https://www.theverge.com/2021/3/31/22361017/analogue-pocket-handheld-delayed-electronic-component-shortage'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ilxLOiVMr8JHjZ_kpwRW5yV7T2U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69056254/vpavic_180225_2334_0048.0.jpg' width='700px' /><br/>
+Last year, the world's largest phone show, Mobile World Congress, hung on to the idea of hosting an in-person event during the COVID-19 pandemic as long as it could, even as major exhibitors kept pulling out — and the dominoes may be falling on this year's show as well.
+<a href='https://www.theverge.com/2021/3/31/22360692/google-mwc-mobile-world-congress-phone-2021-nokia-ericsson'> Source <a/>

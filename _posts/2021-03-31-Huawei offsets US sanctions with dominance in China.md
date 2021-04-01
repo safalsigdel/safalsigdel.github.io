@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H4s1sDNg_bxJBNTk71XciLvRmC4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69052970/acastro_190521_1777_huawei_0001.0.0.jpg' width='700px' /><br/>
-Huawei has released its annual report and financial information for 2020, demonstrating the effect that US sanctions had on its business last year. The report shows that while revenue from North America and Europe has fallen significantly, stronger performance in China has allowed the company to record higher sales and net profit than a year ago.
-<a href='https://www.theverge.com/2021/3/31/22359784/huawei-2020-annual-report-earnings-us-sanctions'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0za79w4f2Qz1Pqr3jvj6dzsdrJw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69056760/acastro_170808_1777_google_logo_04.0.jpg' width='700px' /><br/>
+Google plans to open its US offices in a limited capacity in April for employees who want to work in person, the company tells The Verge. The announcement follows Microsoft, Facebook, and Uber's plans to return to offices in the coming months.
+<a href='https://www.theverge.com/2021/3/31/22360713/google-office-reopening-april-covid-19'> Source <a/>

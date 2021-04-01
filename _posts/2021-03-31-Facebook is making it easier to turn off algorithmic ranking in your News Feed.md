@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/71x0SLMbhUeXL-YK_QrAwHasLRs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69052955/acastro_180522_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook is introducing a handful of new features that will give users greater control over their News Feed, including an easier way to turn off the feed's algorithmic ranking and display content in the order it was posted instead.
-<a href='https://www.theverge.com/2021/3/31/22359782/facebook-news-feed-turn-off-algorithmic-ranking-favorites-most-recent-filter-bar'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XSsOHslAkVcLkP0-kbRaD1_5G08=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69053148/500L_1_2.max_2000x2000.0.jpg' width='700px' /><br/>
-As vehicles are increasingly defined by their digital features, tech companies are seeking out ever-closer partnerships with carmakers. A new collaboration between Google and Fiat, though, is the most extreme we've seen yet.
-<a href='https://www.theverge.com/2021/3/31/22359851/fiat-500-hey-google-car-500x-500l-branding'> Source <a/>

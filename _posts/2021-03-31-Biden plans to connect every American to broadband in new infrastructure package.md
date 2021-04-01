@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-bRXCzHYBtct9Mx3K2dc-C16jhg=/0x0:6102x4068/1200x800/filters:focal(2563x1546:3539x2522)/cdn.vox-cdn.com/uploads/chorus_image/image/69052854/1232006796.0.jpg' width='700px' /><br/>
-President Biden plans to announce a sweeping infrastructure plan Wednesday that includes $100 billion to connect every American to high-speed broadband internet over the next eight years.
-<a href='https://www.theverge.com/2021/3/31/22359496/biden-american-jobs-package-broadband-semiconductors-electric-vehicles'> Source <a/>

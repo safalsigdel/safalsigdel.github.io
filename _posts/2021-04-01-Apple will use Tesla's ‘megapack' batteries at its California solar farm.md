@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L-Q9s_sXAgXYkILE1mvy6njuMaE=/0x0:1960x1268/1200x800/filters:focal(824x478:1136x790)/cdn.vox-cdn.com/uploads/chorus_image/image/69058160/Apple_announces_new_climate_efforts_with_over_110_suppliers_transitioning_to_renewable_energy_wide_shot_of_field_033121.0.jpg' width='700px' /><br/>
+Apple announced Wednesday that it's building a big battery storage project at a Northern California solar farm it spearhead in 2015. But what the company didn't share is that the battery packs will come from Tesla, The Verge has learned.
+<a href='https://www.theverge.com/2021/3/31/22360839/apple-tesla-megapack-energy-storage-grid-solar-batteries'> Source <a/>

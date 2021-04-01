@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ua_jBYY782vM7dGBz8XB1anaXGE=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69054148/VRG_ILLO_4497_001.0.jpg' width='700px' /><br/>
-Britain Lockhart never knows what he'll find when he scuba dives for treasure. Neither do his viewers on Facebook who tune in for a surprise reveal. His page, Depths of History, has been steadily growing on the social network since he started posting videos there about two years ago. He now has 70,000 followers on his page, which has started generating thousands of dollars a month in ad revenue.
-<a href='https://www.theverge.com/2021/3/31/22358723/facebook-creators-video-revenue-estimate-tool-pages'> Source <a/>

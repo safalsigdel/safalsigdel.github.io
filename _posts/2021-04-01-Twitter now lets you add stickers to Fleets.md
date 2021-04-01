@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zh-KOuLQEwsSbTR--rY1Hv9mdbc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69057754/Screen_Shot_2021_03_31_at_4.46.09_PM.0.png' width='700px' /><br/>
+Twitter is adding stickers to its ephemeral, Snapchat Stories-like Fleets, the social media company announced on Wednesday. Stickers are available for users on both Android and iOS.
+<a href='https://www.theverge.com/2021/3/31/22361142/twitter-stickers-fleets-gifs-emoji-twemoji-stories'> Source <a/>

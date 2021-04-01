@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M4er1FlNO2YmTYFkMcB2urLeS48=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69057732/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
+Ubiquiti, a company whose prosumer-grade routers have become synonymous with security and manageability, is being accused of covering up a “catastrophic” security breach — and after 24 hours of silence, the company has now issued a statement that doesn't deny any of the whistleblower's claims.
+<a href='https://www.theverge.com/2021/3/31/22360409/ubiquiti-networking-data-breach-response-whistleblower-cybersecurity-incident'> Source <a/>

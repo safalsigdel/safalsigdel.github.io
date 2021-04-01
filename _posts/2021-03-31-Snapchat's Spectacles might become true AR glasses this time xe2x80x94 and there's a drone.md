@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XAA0ry_OTK8-iFwRM-6pty7rUno=/0x0:1920x1080/1200x800/filters:focal(425x315:731x621)/cdn.vox-cdn.com/uploads/chorus_image/image/69051719/Specs4.0.0.png' width='700px' /><br/>
-Snap, the company behind Snapchat, is planning to continue its push into hardware devices with a new pair of augmented-reality glasses and a drone, according to a report by The Information. The Spectacles will reportedly include displays so the wearer can see the AR effects without having to use their phone — a feature that was notably missing from the all the Spectacles that came before.
-<a href='https://www.theverge.com/2021/3/30/22359117/snap-inc-snapchat-spectacles-4-drone-developers-creators'> Source <a/>

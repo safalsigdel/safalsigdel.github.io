@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FLjJWgJyHiJ-DcnsLggS4SYZt3I=/0x0:1100x734/1200x800/filters:focal(515x394:691x570)/cdn.vox-cdn.com/uploads/chorus_image/image/69055740/Microsoft-_from-Msft_.0.jpg' width='700px' /><br/>
+Microsoft is rarely shy about wading into the political conversation these days, and the latest missive from president Brad Smith is no exception: in a blog post titled “Why we are concerned about Georgia's new election law,” he slams the state's new Election Integrity Act for making it harder for its employees (and others) to vote — making Microsoft the first big tech company to speak out against the law.
+<a href='https://www.theverge.com/2021/3/31/22360514/microsoft-georgia-election-integrity-act-blog-brad-smith-voting-rights'> Source <a/>

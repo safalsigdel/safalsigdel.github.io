@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZJ7fVECWkcTZqS45ZT6C843Tjf0=/0x469:4200x2800/1200x800/filters:focal(1764x1064:2436x1736)/cdn.vox-cdn.com/uploads/chorus_image/image/69052781/ExvvZezWUAQGw_G.0.jpg' width='700px' /><br/>
-Google will not introduce a 60 minute call limit on free Google Meet users at the end of March, the company announced in a tweet. Instead, it will now be begin on June 30th. Until then, anyone using the service's free version will be able to host calls up to 24 hours in length, which Google refers to as “unlimited.”
-<a href='https://www.theverge.com/2021/3/31/22359774/google-meet-unlimited-calls-free-users-june-30-60-minute-limit'> Source <a/>

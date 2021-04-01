@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/c5XhsMgTVvrjGvQHAUPwrFomrMg=/0x0:2040x1360/1200x800/filters:focal(708x515:1034x841)/cdn.vox-cdn.com/uploads/chorus_image/image/69056405/Periscope-app-stock-Nov2015-Verge-01.0.0.jpg' width='700px' /><br/>
+Periscope, the app that popularized live streaming from smartphones, is shutting down today, just over six years after it launched. The service has already been removed from app stores, and most features will no longer be accessible after today.
+<a href='https://www.theverge.com/2021/3/31/22360717/periscope-shut-down-twitter-live-streaming'> Source <a/>

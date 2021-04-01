@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WWqd5OM6XNZUWfiXwMHQTRYSvEE=/0x0:3840x2506/1200x800/filters:focal(1613x946:2227x1560)/cdn.vox-cdn.com/uploads/chorus_image/image/69057760/Lamborghini_Car_Picture.0.jpg' width='700px' /><br/>
+Amazon is taking a bigger step into cars today by integrating Alexa into Lamborghini's Huracxc3xa1n EVO, and not just to ask questions or remotely control your home — it's giving the assistant the ability to control settings inside the car, hands-free. The partnership was originally announced last year as part of Amazon's push into cars, but the integration goes beyond Alexa's usual bag of tricks.
+<a href='https://www.theverge.com/2021/3/31/22360223/alexa-lamborghini-in-car-voice-assistant-huracan-evo'> Source <a/>

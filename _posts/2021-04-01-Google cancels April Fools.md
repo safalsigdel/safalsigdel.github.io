@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9Oym0GHyDmUu_nVzkno6K0zzie4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69055734/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
+For the second year in a row, Google has canceled April Fools.
+<a href='https://www.theverge.com/2021/3/31/22360619/google-april-fools-2021-prank-cancel'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8wKmDgFgx529DdVs9H-D__TzCIA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69057054/acastro_210129_1777_robinhood_0001.0.jpg' width='700px' /><br/>
+Robinhood is cutting out the confetti from its stock trading app, following accusations that the animation helped to “gamify” investing. Instead, the company is adding new animations that will celebrate trading milestones for users in a more somber manner.
+<a href='https://www.theverge.com/2021/3/31/22360639/robinhood-confetti-ipo-removed-app-stock-market'> Source <a/>
