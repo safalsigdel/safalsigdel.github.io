@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IG2Cw0fhwkAdr5O-uBDQHILQMN0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69055726/acastro_191014_1777_google_pixel_0001.0.0.jpg' width='700px' /><br/>
-Google is telling workers they are allowed to discuss pay and working conditions as part of a settlement agreement with the Alphabet Workers Union (AWU), Bloomberg reports. The move settles a labor dispute brought by AWU in February.
-<a href='https://www.theverge.com/2021/3/31/22360540/google-adecco-settle-labor-dispute-alphabet-workers-union'> Source <a/>

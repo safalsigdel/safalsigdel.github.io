@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+April Fools' Day jokes are usually lame and lack any real effort, but 20-year-old Kasper Andersen has risen to the occasion for 2021 to deliver Nvidia's RTX 4090. The Danish hardware enthusiast loves to create homemade replicas of retro graphics cards, but his latest RTX 4090 project imagines a future where Nvidia's card uses 1,000 watts of power, has a 12-fan design, and includes 48GB of VRAM.
+<a href='https://www.theverge.com/tldr/2021/4/1/22361811/nvidia-rtx-4090-april-fools-day-video'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2HPFqWt3-ZW7Pyk1c-YAl-pmD8E=/0x0:2560x1322/1200x800/filters:focal(1076x457:1484x865)/cdn.vox-cdn.com/uploads/chorus_image/image/69055718/Screen_Shot_2021_03_31_at_2.28.15_PM.0.png' width='700px' /><br/>
-Among Us is changing its look. In a post on its site today, developer InnerSloth said that its plans have “completely updated the art style with cleaner lines and an easier animation process.”
-<a href='https://www.theverge.com/2021/3/31/22360609/among-us-art-style-revamp-update-airship'> Source <a/>

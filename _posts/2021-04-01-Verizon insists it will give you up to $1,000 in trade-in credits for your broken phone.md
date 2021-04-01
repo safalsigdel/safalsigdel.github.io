@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-April Fools Day is at hand, and Verizon has willingly stepped into the fray with a deal that seems too good to be true — especially for people who have a broken, useless phone. The US carrier insists that starting tomorrow, April 1st, customers can trade in an “old, cracked, or water damaged phone” for up to $1,000 off a new 5G phone, like an iPhone 12, or Samsung's Galaxy S21. The promo doesn't extend to phones with battery damage (for safety concerns).
-<a href='https://www.theverge.com/good-deals/2021/3/31/22360418/verizon-april-fools-day-trade-in-broken-cracked-water-damage-phone-android-iphone-5g'> Source <a/>
