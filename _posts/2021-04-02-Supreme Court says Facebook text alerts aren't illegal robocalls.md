@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q6O8z1EVpM7cxZgxY-H7MMQGTAg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69061405/akrales_180614_1777_0110.0.jpg' width='700px' /><br/>
-The Supreme Court has unanimously decided that Facebook text message alerts don't violate laws against unwanted auto-dialed calls. The court ruled that a lower court defined illegal “robocalls” too broadly and that the term should only apply to systems that generate lists of numbers and call them indiscriminately, not a system that simply stores numbers and automatically calls them.
-<a href='https://www.theverge.com/2021/4/1/22362203/facebook-duguid-supreme-court-ruling-robocalls-tcpa'> Source <a/>
