@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qrat4w5zaqHexyjYtFy0p5IpTpY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69059431/acastro_180130_1777_0005.0.jpg' width='700px' /><br/>
-iPhones purchased in Russia now show a list of Russian-made apps at startup, thanks to a new law which comes into effect today, MacRumors reports. The prompt is part of the standard iPhone setup process, appearing after the user has selected other options like whether to allow Location Services or App Analytics.
-<a href='https://www.theverge.com/2021/4/1/22361762/iphone-russia-startup-local-apps-yandex-mail-ru-law'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SusX_NVQZgfDJQzA-YOziv6qvmY=/0x0:1600x1067/1200x800/filters:focal(672x406:928x662)/cdn.vox-cdn.com/uploads/chorus_image/image/69057150/woods.0.jpeg' width='700px' /><br/>
-Netflix has acquired the rights to two Knives Out sequels, with Rian Johnson returning to direct the next whodunits and Daniel Craig reprising his starring role as Detective Benoit Blanc, Variety reports. Variety says the deal is worth $450 million, and Deadline reported that the deal would be “worth north of $400 million.”
-<a href='https://www.theverge.com/2021/3/31/22360964/netflix-knives-out-sequels-2-3-deal-rian-johnson-daniel-craig'> Source <a/>

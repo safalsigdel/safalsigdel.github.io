@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CL1NDTXF_gT8VQRmIfAojcdwdvU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69059362/akrales_180508_2553_0039.0.jpg' width='700px' /><br/>
-More than two years after it initially began trials, Google's AI-powered reservation service Duplex is now available in 49 US states. This looks like it'll be the limit of Duplex's coverage in the US for the time being, as Google tells The Verge it has no timeline to launch the service in the last hold-out state — Louisiana t— due to unspecified local laws.
-<a href='https://www.theverge.com/2021/4/1/22361729/google-duplex-ai-reservation-availability-49-us-states'> Source <a/>

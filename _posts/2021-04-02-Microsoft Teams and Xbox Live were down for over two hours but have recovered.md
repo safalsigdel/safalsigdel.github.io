@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EMmI11rBVgWGY_gBpbN4uyOuP0Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69063644/acastro_180507_1777_microsoft_0002.0.jpg' width='700px' /><br/>
+Many Microsoft services, including Microsoft Teams and Xbox Live, were down for more than two hours Thursday evening. The company says the services have fully recovered.
+<a href='https://www.theverge.com/2021/4/1/22362975/microsoft-teams-xbox-live-down-outage-issue'> Source <a/>

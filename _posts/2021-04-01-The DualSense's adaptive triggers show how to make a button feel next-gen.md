@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NQuhWlq4hPU-BddKk7PqfpUmtrg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69056871/vpavic_4479_20210318_0049.0.jpg' width='700px' /><br/>
-The PlayStation 5's DualSense controller is an incredible input device, perhaps the most tangible example of “next-gen” gaming the new wave of consoles has offered to date. But you won't necessarily see the upgrades just from looking at Sony's controller.
-<a href='https://www.theverge.com/2021/3/31/22360812/ps5-adaptive-triggers-dualsense-button-next-gen-immersion'> Source <a/>

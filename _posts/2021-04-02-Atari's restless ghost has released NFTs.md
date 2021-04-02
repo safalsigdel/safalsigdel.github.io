@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qwJPTVBkztvfiB-H5e9F8so1_Mo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69063772/acastro_210329_1777_nft_0003.0.jpg' width='700px' /><br/>
+Atari, the corporate entity / brand of Theseus, has just made around $110,000 by selling —you guessed it — NFTs (shout out to Ars Technica for doing the math). The tokens in question are 3D models of the Atari 2600 game cartridge for Centipede — 10 of them black, 100 of them red.
+<a href='https://www.theverge.com/2021/4/1/22362707/atari-corporate-entity-centipede-nft-sale-pong-collection'> Source <a/>

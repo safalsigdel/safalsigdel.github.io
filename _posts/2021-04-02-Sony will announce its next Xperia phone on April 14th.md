@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3RCJfnj60KJNMEhCM2u0v6CNS7Y=/0x0:4382x2465/1200x800/filters:focal(1841x883:2541x1583)/cdn.vox-cdn.com/uploads/chorus_image/image/69064145/1iiiresized.0.jpg' width='700px' /><br/>
+Sony has, in a very low-key way, just announced that its upcoming Xperia event will be on April 14th (via Droid Life). The news comes from the Xperia YouTube channel's banner, where it lays out that there will be a new product announcement happening at 4:30PM Japan Standard Time — that's 3:30AM EST, or 12:30AM PT (if you feel like burning the midnight oil to watch live).
+<a href='https://www.theverge.com/2021/4/1/22363086/sony-xperia-phone-event-april-14th-annouce'> Source <a/>

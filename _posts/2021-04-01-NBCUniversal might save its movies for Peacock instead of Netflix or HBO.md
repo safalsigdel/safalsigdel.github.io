@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a7G38BSmvWG0cDC8u_O0NRsR0rE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69057152/acastro_200714_1777_peacock_0001.0.jpg' width='700px' /><br/>
-NBCUniversal is mulling whether to remove its films from HBO Max and Netflix and put new movies on its own streaming service, Peacock, according to Bloomberg.
-<a href='https://www.theverge.com/2021/3/31/22360819/nbc-peacock-movies-hbo-netflix-universal-studios-illumination-entertainment'> Source <a/>

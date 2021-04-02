@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t45pi2s3MxN3uG7Q8OPmKQ1Kb4I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69059096/cortanaandroid-4.0.0.jpg' width='700px' /><br/>
-Microsoft has shut down its Cortana app for iOS and Android. It's the latest in a series of moves to end support for Cortana across multiple devices, including Microsoft's own Surface Headphones. The Cortana app for iOS and Android is no longer supported, and Microsoft has removed it from both the App Store and Google's Play Store.
-<a href='https://www.theverge.com/2021/4/1/22361687/microsoft-cortana-shut-down-ios-android-mobile-app'> Source <a/>

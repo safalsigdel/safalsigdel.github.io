@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-With the right keyboard, you can turn your iPad into a functional laptop (sort of). If you have been eyeing Apple's Magic Keyboard but are waiting for a sale, today's the day. Amazon and Walmart currently have the Magic Keyboard designed for the 11-inch iPad Pro and fourth-gen iPad Air available for $199, $100 off its regular price.
-<a href='https://www.theverge.com/good-deals/2021/4/1/22361773/apple-magic-keyboard-ipad-air-ipad-pro-macbook-pro-m1-deal'> Source <a/>
