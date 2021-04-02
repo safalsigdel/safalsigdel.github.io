@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iVemg67bWsUQxZ7H424TGfinSjY=/0x0:2040x1360/1200x675/filters:focal(1053x603:1379x929)/cdn.vox-cdn.com/uploads/chorus_image/image/69060512/cwelch_20210330_4498_0001.0.jpg' width='700px' /><br/>
-Sony's new SRS-RA5000 is a $700 single-unit speaker that is filled to the brim with drivers, has convenient features like Spotify Connect and Chromecast built in, and is capable of producing immersive 360-degree audio.
-<a href='https://www.theverge.com/22360437/sony-srs-ra5000-speaker-review-360-audio-features'> Source <a/>
