@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6z4RHCgjTQd8RxJqlIbaPMOnC_g=/0x0:1080x720/1200x1200/filters:focal(548x436:549x437)/cdn.vox-cdn.com/uploads/chorus_asset/file/22415722/ps5_de_bundle.jpg' width='700px' /><br/>
+If you have been keeping up with PS5 news, you will know that it is nearly impossible to find this console right now because of the short supply and mostly online-only sales. If you don't mind buying a bundle, which includes additional items alongside the PS5, GameStop has restocked several PS5 bundles right now.
+<a href='https://www.theverge.com/2021/4/2/22363752/sony-ps5-console-bundle-restocks-gamestop'> Source <a/>

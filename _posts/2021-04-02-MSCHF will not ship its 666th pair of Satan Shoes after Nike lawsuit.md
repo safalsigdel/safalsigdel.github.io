@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U_trrU-8BBMPGnVLwaQyYghikac=/0x0:2048x1280/1200x800/filters:focal(861x477:1187x803)/cdn.vox-cdn.com/uploads/chorus_image/image/69060673/Exbfpl2WgAAQkl8_resized.0.jpeg' width='700px' /><br/>
-Internet collective MSCHF says it's not infringing on Nike's trademark with a pair of exclusive, blood-infused “Satan Shoes,” setting the stage for a bigger legal battle.
-<a href='https://www.theverge.com/2021/4/1/22361961/mschf-nike-unauthorized-satan-shoe-lawsuit-response-restraining-order'> Source <a/>
