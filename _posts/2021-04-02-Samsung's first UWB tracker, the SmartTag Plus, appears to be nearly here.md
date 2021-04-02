@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iaOF3fp9tSvJ_R1tVV2PG0miOdw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69063628/cgartenberg_210111_4368_0003.0.jpg' width='700px' /><br/>
-Samsung announced its Galaxy SmartTag line of item trackers in January, and at the time, it said the premium SmartTag Plus, which has ultra-wideband (UWB) technology that enables more precise tracking of an item in relationship to you than Bluetooth does, would be releasing later this year. Now, though, there are some clues that the SmartTag Plus could be coming out soon, possibly as early as April 12th.
-<a href='https://www.theverge.com/2021/4/1/22362785/samsung-smarttag-plus-uwb-ultra-wideband-item-tracker'> Source <a/>

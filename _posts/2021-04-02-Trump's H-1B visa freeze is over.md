@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cXBTyNETFhPmXkZcX687mV-527o=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69064074/1304610267.0.jpg' width='700px' /><br/>
-Former President Donald Trump's ban on guest worker visas has expired, allowing foreign workers to reapply for entry into the United States. The news is a win for tech companies including Apple, Twitter, and Google, each of which vocally opposed the policy.
-<a href='https://www.theverge.com/2021/4/1/22363047/trump-skilled-worker-visa-freeze-expired-president-biden'> Source <a/>

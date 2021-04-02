@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7BXVhcsKjyDPUPLrYauI5bYwZQc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69064212/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Over the past several months, Twitter has been working hard to bring its Clubhouse-like audio chat rooms feature, Spaces, to users on iOS and, as of last month, Android. A logical next place for Spaces to show up would be on the web, and unsurprisingly, Twitter is working on the feature for browsers, the company confirmed to The Verge.
-<a href='https://www.theverge.com/2021/4/1/22363221/twitter-spaces-desktop-web-browsers-clubhouse'> Source <a/>
