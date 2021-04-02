@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/02HVwUkek-0hmisIgoOjJbQE1_M=/0x0:1080x1080/1200x800/filters:focal(454x454:626x626)/cdn.vox-cdn.com/uploads/chorus_image/image/69063466/SM_YiddishLaunchDayImage.0.png' width='700px' /><br/>
+Duolingo, the popular language learning app, offers a wide variety of languages in its list of courses. While it's known for teaching well-known tongues such as French, Spanish, and Chinese, it has also added courses in languages that are less widely used, such as Irish, Scottish Gaelic, Hawaiian — and now, as of April 6th, its 40th language: Yiddish.
+<a href='https://www.theverge.com/2021/4/1/22362723/duolingo-yiddish-language-classes'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T-M-yTSd29DIJODclbr95xsH0LM=/0x0:2800x1867/1200x800/filters:focal(1172x875:1620x1323)/cdn.vox-cdn.com/uploads/chorus_image/image/69063338/1232053175.0.jpg' width='700px' /><br/>
+Myanmar's acting military leadership has shut down broadband internet service indefinitely in response to ongoing protests, according to a report from The Washington Post on Thursday. The move comes two months after a military junta staged a coup to depose the country's democratically elected leader, Aung San Suu Kyi.
+<a href='https://www.theverge.com/2021/4/1/22362767/myanmar-military-government-internet-shutdown-blackout-protest-free-speech'> Source <a/>

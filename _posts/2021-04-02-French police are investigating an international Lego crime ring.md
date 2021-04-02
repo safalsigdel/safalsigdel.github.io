@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M3ZFhdK8wqvRqq3f1yCFt2V0zQc=/0x0:1100x733/1200x800/filters:focal(462x279:638x455)/cdn.vox-cdn.com/uploads/chorus_image/image/69063734/Lego.0.jpg' width='700px' /><br/>
+It sounds like something out of a children's movie — after French police arrested three Polish thieves who attempted to steal toys in June 2020, specifically Lego sets. Now authorities are trying to address a growing trend of Lego robberies by warning business owners and parents, The Guardian reports.
+<a href='https://www.theverge.com/2021/4/1/22362181/lego-thieves-france-robbery-toy-store-crime-gang'> Source <a/>
