@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vwTyVZrBddNplmAUYbql02WVKx4=/0x0:2039x1245/1200x800/filters:focal(857x460:1183x786)/cdn.vox-cdn.com/uploads/chorus_image/image/69061244/unnamed.0.png' width='700px' /><br/>
-MSI, a company best known for bold and flashy gaming laptops, has announced two additions to its new Summit Series business line. The Summit E13 Flip Evo and Summit E16 Flip are convertible notebooks powered by Intel's Tiger Lake processors.
-<a href='https://www.theverge.com/2021/4/1/22362034/msi-summit-e13-flip-evo-e16-release-availability'> Source <a/>
