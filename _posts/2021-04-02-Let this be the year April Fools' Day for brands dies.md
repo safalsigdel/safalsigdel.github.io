@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OCC_EIG_Ro457DaYfeYKEoV7Ulw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69060564/jbareham_170330_1577_0005_2.0.jpg' width='700px' /><br/>
-Today is April 1st, one of the worst days on the internet every year. For the rest of the day, the internet will be filled with an unending parade of dumb PR stunts, fake products, lie-filled press releases, and just plain unfunny jokes that have been filtered through layers and layers of corporate branding teams as to be unrecognizable as humor by normal humans.
-<a href='https://www.theverge.com/2021/4/1/22359046/april-fools-day-brands-pr-bad-stop'> Source <a/>
