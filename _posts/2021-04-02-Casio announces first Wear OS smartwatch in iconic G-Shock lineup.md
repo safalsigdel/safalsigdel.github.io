@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/seYdlcTf-VM2q3JvpXS_OBSMZZo=/0x0:2789x1859/1200x0/filters:focal(0x0:2789x1859):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22413325/qwpwTYcRiQLJMBe09VsOrPSSxeVnnuUPnpPOoyVA.jpg' width='700px' /><br/>
-Casio has announced the first Wear OS smartwatch in its long-running G-Shock lineup: the GSW-H1000. The watch will retail for $699 in the US or xc2xa3599 in the UK, and it will be available in red, blue, or black. With shock resistance and water resistance up to a depth of 200 meters, Casio says the GSW-H1000 is a fitness-focused wearable designed for everything from surfing to snowboarding.
-<a href='https://www.theverge.com/2021/4/1/22362099/casio-gsw-h1000-g-shock-smartwatch-wear-os-google-price'> Source <a/>
