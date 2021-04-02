@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DD6czvlVpzrLG0mjNezNjrSqxBo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69065878/DSCF7697.0.jpg' width='700px' /><br/>
-Nintendo's official Pro Controller for the Switch is generally a pretty useful accessory, but it has its problems: the D-pad is unreliable, and it doesn't really offer any “pro-level” functionality. 8BitDo's latest controller improves on both of those issues while coming in at a lower price.
-<a href='https://www.theverge.com/2021/4/2/22363621/8bitdo-pro-2-controller-review-switch-pc'> Source <a/>
