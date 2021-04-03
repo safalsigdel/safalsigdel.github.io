@@ -1,0 +1,5 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Two Coinbase employees have managed to find a heartwarming use for NFTs by incorporating them into their wedding, exchanging the digital tokens as part of the ceremony.
+<a href='https://www.theverge.com/tldr/2021/4/2/22364647/coinbase-employees-nft-wedding-exchange-romance'> Source <a/><img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Two Coinbase employees have managed to find a heartwarming use for NFTs by incorporating them into their wedding, exchanging the digital tokens as part of the ceremony.
+<a href='https://www.theverge.com/tldr/2021/4/2/22364647/coinbase-employees-nft-wedding-exchange-romance'> Source <a/>

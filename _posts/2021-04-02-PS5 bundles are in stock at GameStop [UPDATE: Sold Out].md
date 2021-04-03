@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6z4RHCgjTQd8RxJqlIbaPMOnC_g=/0x0:1080x720/1200x1200/filters:focal(548x436:549x437)/cdn.vox-cdn.com/uploads/chorus_asset/file/22415722/ps5_de_bundle.jpg' width='700px' /><br/>
-Update April 2nd, 2021: 9:47AM ET: GameStop has sold all of the stock available for its three PS5 bundles.
-<a href='https://www.theverge.com/2021/4/2/22363752/sony-ps5-console-bundle-restocks-gamestop'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nV8FsC8z0nP9NnDnvxA8XMrO1hA=/0x0:2040x1360/1200x1200/filters:focal(1157x579:1158x580)/cdn.vox-cdn.com/uploads/chorus_asset/file/22388894/bfarsace_4481_20210317_0070_Edit.jpg' width='700px' /><br/>
-OnePlus' new line of smartphones — the OnePlus 9 and 9 Pro — are now available for purchase at several retailers. A successor to the OnePlus 8 and 8 Pro, the 9 and 9 Pro start at $729.
-<a href='https://www.theverge.com/22361928/oneplus-9-pro-order-price-amazon-best-buy-bh-photo-t-mobile'> Source <a/>

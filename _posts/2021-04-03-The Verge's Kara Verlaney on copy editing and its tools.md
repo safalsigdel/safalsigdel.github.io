@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/kBTPU9rdqVGb5WNCQLNk6CF0AnA=/0x0:2040x1360/1200x800/filters:focal(953x474:1279x800)/cdn.vox-cdn.com/uploads/chorus_image/image/69066185/kverlaney_210401_4504_0001.0.jpg' width='700px' /><br/>
 You may come across the occasional writer who will claim (wrongly) that they don't need an editor, but you will seldom, if ever, meet a writer or editor who will say they don't need a copy editor.
+<a href='https://www.theverge.com/22358493/copy-edit-tools-tech-airpods-stylebook'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/kBTPU9rdqVGb5WNCQLNk6CF0AnA=/0x0:2040x1360/1200x800/filters:focal(953x474:1279x800)/cdn.vox-cdn.com/uploads/chorus_image/image/69066185/kverlaney_210401_4504_0001.0.jpg' width='700px' /><br/>
+You may come across the occasional writer who will claim (wrongly) that they don't need an editor, but you will seldom, if ever, meet a writer or editor who will say they don't need a copy editor.
 <a href='https://www.theverge.com/22358493/copy-edit-tools-tech-airpods-stylebook'> Source <a/>

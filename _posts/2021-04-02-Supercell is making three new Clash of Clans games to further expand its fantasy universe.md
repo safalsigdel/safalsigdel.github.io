@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jal3KarXrJ-3sdZs3yU04ILICvs=/0x0:2574x1825/1200x800/filters:focal(1082x708:1492x1118)/cdn.vox-cdn.com/uploads/chorus_image/image/69065724/Clash_Heroes.0.jpg' width='700px' /><br/>
-Finnish developer Supercell is best known for its mobile games Clash of Clans and Clash Royale, and today, it announced plans to expand that fantasy universe in a big way. Supercell revealed that three new Clash titles are in development. “On top of offering a new Clash experience to current players, we want to broaden Clash to new audiences who haven't experienced Clash before,” the developer wrote in a blog post.
-<a href='https://www.theverge.com/2021/4/2/22362092/supercell-clash-of-clans-clash-royale-new-games'> Source <a/>

@@ -1,0 +1,5 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ueIqSYwbuQ_R4VAVTJLsLcVE9u8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69070244/acastro_181114_1777_amazon_hq2_0007.0.jpg' width='700px' /><br/>
+Amazon has issued a rare public apology — but not to its workers, and with no real admission of guilt.
+<a href='https://www.theverge.com/2021/4/3/22365330/amazon-apology-pee-bottles-worker-warehouse-union-pocan'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/ueIqSYwbuQ_R4VAVTJLsLcVE9u8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69070244/acastro_181114_1777_amazon_hq2_0007.0.jpg' width='700px' /><br/>
+Amazon has issued a rare public apology — but not to its workers, and with no real admission of guilt.
+<a href='https://www.theverge.com/2021/4/3/22365330/amazon-apology-pee-bottles-worker-warehouse-union-pocan'> Source <a/>
