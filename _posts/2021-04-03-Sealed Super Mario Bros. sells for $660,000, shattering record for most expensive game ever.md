@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/ENZb2GGMp7GoheuQzOpj0LEEgrY=/0x0:1862x972/1200x800/filters:focal(783x338:1079x634)/cdn.vox-cdn.com/uploads/chorus_image/image/69067338/mario_bros.0.png' width='700px' /><br/>
 A sealed copy of the NES classic Super Mario Bros. sold for an incredible $660,000 at Heritage Auctions on Friday, more than quadrupling the previous record for the most expensive game ever.
-<a href='https://www.theverge.com/2021/4/2/22364245/super-mario-bros-most-expensive-game-ever-record-sealed-auction'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/ENZb2GGMp7GoheuQzOpj0LEEgrY=/0x0:1862x972/1200x800/filters:focal(783x338:1079x634)/cdn.vox-cdn.com/uploads/chorus_image/image/69067338/mario_bros.0.png' width='700px' /><br/>
-A sealed copy of the NES classic Super Mario Bros. sold for an incredible $660,000 at Heritage Auctions on Friday, more than quadrupling the previous record for the most expensive game ever.
 <a href='https://www.theverge.com/2021/4/2/22364245/super-mario-bros-most-expensive-game-ever-record-sealed-auction'> Source <a/>

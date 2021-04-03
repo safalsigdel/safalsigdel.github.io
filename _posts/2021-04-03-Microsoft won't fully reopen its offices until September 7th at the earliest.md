@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/nSrUgwTlJeTKP6XXTCa_V0-_ARE=/0x0:1020x595/1200x800/filters:focal(392x267:554x429)/cdn.vox-cdn.com/uploads/chorus_image/image/69066814/microsoftstock.0.0.1430145467.0.jpg' width='700px' /><br/>
 Microsoft is delaying the full reopening of its offices — the company's “Stage 6” phase of its hybrid workplace plan — until September 7th at the earliest. This marks a delay from its originally planned July window.
-<a href='https://www.theverge.com/2021/4/2/22364001/microsoft-offices-reopen-fully-september-7th-earliest-remote-work'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/nSrUgwTlJeTKP6XXTCa_V0-_ARE=/0x0:1020x595/1200x800/filters:focal(392x267:554x429)/cdn.vox-cdn.com/uploads/chorus_image/image/69066814/microsoftstock.0.0.1430145467.0.jpg' width='700px' /><br/>
-Microsoft is delaying the full reopening of its offices — the company's “Stage 6” phase of its hybrid workplace plan — until September 7th at the earliest. This marks a delay from its originally planned July window.
 <a href='https://www.theverge.com/2021/4/2/22364001/microsoft-offices-reopen-fully-september-7th-earliest-remote-work'> Source <a/>

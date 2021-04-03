@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
 If you missed your chance to win the actual Xbox Series X refrigerator born from memes making fun of the console's fridge-like look, I have some good news for you: there may be another way to get your hands on a Series X-shaped cooling appliance in the future.
-<a href='https://www.theverge.com/tldr/2021/4/2/22364073/microsoft-xbox-series-x-mini-fridge-skittles-twitter-brand-poll'> Source <a/><img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-If you missed your chance to win the actual Xbox Series X refrigerator born from memes making fun of the console's fridge-like look, I have some good news for you: there may be another way to get your hands on a Series X-shaped cooling appliance in the future.
 <a href='https://www.theverge.com/tldr/2021/4/2/22364073/microsoft-xbox-series-x-mini-fridge-skittles-twitter-brand-poll'> Source <a/>
