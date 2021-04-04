@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NEnJw345x4MNsBDE7k3uDpmxhE8=/0x0:2040x1360/1200x800/filters:focal(877x568:1203x894)/cdn.vox-cdn.com/uploads/chorus_image/image/69067146/vpavic_200907_4181_0017.0.jpg' width='700px' /><br/>
-Samsung is dropping the price of its ultra-premium Galaxy Z Fold 2 5G by $200, bringing the foldable smartphone down to $1,799.99 compared to its initial $1,999.99 launch MRSP. Even after the price cut, the Z Fold 2 5G will still cost you more than flagships from pretty much all of Samsung's competitors, but it's perhaps the best folding phone yet — and it certainly offers functionality that traditional handsets can't match.
-<a href='https://www.theverge.com/2021/4/2/22364162/samsung-galaxy-z-fold-2-5g-price-cut-announced-1800'> Source <a/>
