@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lrjTjH0u6KP3D9QjGdzhGhImLhs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69068060/vpavic_191010_3722_0001.0.jpg' width='700px' /><br/>
-Google is killing off its dedicated Google Wifi app for managing its routers, rolling that functionality over to the Google Home app as the company continues to “help our customers control and manage all their connected products in one place and enable routines across them.”
-<a href='https://www.theverge.com/2021/4/2/22364381/google-wifi-router-management-home-app-discontinued'> Source <a/>
