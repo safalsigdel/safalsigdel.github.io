@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wj03_McwBAv6JWw1IkvRQAgSi2Q=/0x0:6720x3780/1200x800/filters:focal(2823x1353:3897x2427)/cdn.vox-cdn.com/uploads/chorus_image/image/69067717/1307116331.0.jpg' width='700px' /><br/>
-Bruno Mars is the latest celebrity to jump into the virtual world of Fortnite. Today, developer Epic Games announced that the battle royale game would be getting a new Mars emote — essentially an in-game dance — set to the singer's song “Leave the Door Open.” Players will be able to buy it starting at 8PM ET tonight.
-<a href='https://www.theverge.com/2021/4/2/22363804/fortnite-bruno-mars-emote'> Source <a/>

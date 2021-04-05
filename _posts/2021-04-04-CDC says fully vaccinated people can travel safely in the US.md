@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NhbTnTf3yXqC-bZEFQQ_BhI_vCI=/0x0:5000x3335/1200x800/filters:focal(2100x1268:2900x2068)/cdn.vox-cdn.com/uploads/chorus_image/image/69067356/1231950033.0.jpg' width='700px' /><br/>
-People who are fully vaccinated “can travel safely within the United States,” the Centers for Disease Control and Prevention said in new guidance issued today. Until now, the agency advised people to “delay” both domestic and international travel even if they had been vaccinated.
-<a href='https://www.theverge.com/2021/4/2/22364102/cdc-fully-vaccinated-people-travel-guidelines'> Source <a/>

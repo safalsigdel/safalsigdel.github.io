@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JMVQlBl46d1X2kfz5mtCG_aPcMY=/0x0:926x712/1200x800/filters:focal(404x144:552x292)/cdn.vox-cdn.com/uploads/chorus_image/image/69074502/EyF2yf7WUAMSUdR.0.jpeg' width='700px' /><br/>
+NASA's Perseverance rover, which is currently roaming around Mars, has dropped off the mini helicopter Ingenuity ahead of the four-pound aircraft's historic first flight.
+<a href='https://www.theverge.com/2021/4/4/22366887/nasa-mars-rover-perseverance-ingenuity-helicopter-drops-off'> Source <a/>
