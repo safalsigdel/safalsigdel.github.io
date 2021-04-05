@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Hs8nJyt1nrBl2YY0gpHSgdJcHlw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69067799/acastro_180430_1777_tesla_0003.0.jpg' width='700px' /><br/>
-Tesla delivered nearly 185,000 cars in the first quarter of 2021, more than it produced over the three-month period, according to numbers the company shared on Friday. Tesla has been ramping up production capacity and just nearly missed CEO Elon Musk's goal of delivering 500,000 cars in 2020.
-<a href='https://www.theverge.com/2021/4/2/22364067/tesla-q1-2021-deliveries-elon-musk'> Source <a/>
