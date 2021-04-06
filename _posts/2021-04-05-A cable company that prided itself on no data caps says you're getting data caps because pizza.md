@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dHfjJpKxuWKBrYtxiz3sET-ai_E=/0x0:6000x4000/1200x800/filters:focal(2194x1791:3154x2751)/cdn.vox-cdn.com/uploads/chorus_image/image/69071820/L1030389.0.0.jpg' width='700px' /><br/>
-Internet data caps are not like pizza — where taking a slice could mean fewer slices for everyone else. I don't think Verge readers have trouble understanding this concept? It's been well-established that ISPs have no trouble delivering unlimited data, even during — say — a global pandemic when vast throngs of the population have suddenly found themselves working from home.
-<a href='https://www.theverge.com/2021/4/3/22365753/wow-wideopenwest-internet-cable-data-cap-pizza-excuse'> Source <a/>

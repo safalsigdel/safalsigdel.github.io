@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mjYUOGDQ9EvrV_SOSREzdsY08ws=/0x0:1100x733/1200x800/filters:focal(455x256:631x432)/cdn.vox-cdn.com/uploads/chorus_image/image/69079494/2012-10-09_10-32-34-1024.1349976126.0.jpg' width='700px' /><br/>
+You would think that something as critical as a town or county's drinking water supply would be well-protected  — you know, like how America's nuclear armament was isolated from the internet and even relied on eight-inch floppy disks until just recently? And yet we've now had two instances where someone was able to remotely log into a municipal water supply in a way that could have harmed people.
+<a href='https://www.theverge.com/2021/4/5/22368476/kansas-man-tamper-water-supply-remote-ellsworth-wyatt-travnichek'> Source <a/>

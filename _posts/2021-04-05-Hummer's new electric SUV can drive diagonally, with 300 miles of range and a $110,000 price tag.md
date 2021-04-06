@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iSogkRY5x5ET50Cf-l3p-pz3rTs=/0x0:3065x2043/1200x0/filters:focal(0x0:3065x2043):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22419232/hummer_ev_suv.jpg' width='700px' /><br/>
-Hummer has unveiled the SUV version of its electric pickup truck, which comes with up to 300 miles of range and will sell for a suggested retail price of up to $110,595 for its first edition. Reservations for that model are already full, according to GM's website.
-<a href='https://www.theverge.com/2021/4/3/22362072/hummer-suv-electric-price-specs-release-date'> Source <a/>

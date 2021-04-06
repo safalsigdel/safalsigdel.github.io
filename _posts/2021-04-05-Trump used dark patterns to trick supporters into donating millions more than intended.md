@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PHAKdbyVpg6Fd_7_TYoTdr6jbFA=/0x0:1100x688/1200x800/filters:focal(462x256:638x432)/cdn.vox-cdn.com/uploads/chorus_image/image/69072502/ui_static.1419979789.0.png' width='700px' /><br/>
-When Donald Trump won the 2016 presidential election, he didn't stop asking his supporters for money. The emails kept coming in. But by the end of his four years in office, according to a new report in The New York Times, they had begun to look an awful lot like a scam.
-<a href='https://www.theverge.com/2021/4/3/22365952/trump-dark-patterns-trick-supporters-recurring-donation-winred-gary-coby'> Source <a/>

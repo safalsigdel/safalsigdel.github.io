@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/LlMtEjDlqUPJbhustjTOkpAOGK8=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/69077169/Supreme_Court_1.1419968930.0.jpg' width='700px' /><br/>
-In a ruling on Monday, the Supreme Court found that Google could legally use elements of Oracle's Java code when building Android.
+In a ruling on Monday, the Supreme Court found that Google could legally use elements of Oracle's Java application programming interface (API) code when building Android.
 <a href='https://www.theverge.com/2021/4/5/22367851/google-oracle-supreme-court-ruling-java-android-api'> Source <a/>

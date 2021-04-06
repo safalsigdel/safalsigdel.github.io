@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XLG0UOCVgy2pJ_KFuDZeglJy3YQ=/0x0:2040x1360/1200x800/filters:focal(945x621:1271x947)/cdn.vox-cdn.com/uploads/chorus_image/image/69072149/akrales_181010_3013_0148.0.jpg' width='700px' /><br/>
-Uber was sued in 2014 for discriminating against blind people and their guide dogs, and agreed to change that as part of a $2.6 million settlement two years later. But apparently, that didn't entirely happen.
-<a href='https://www.theverge.com/2021/4/3/22365859/uber-blind-woman-win-arbitration-lisa-irving-guide-dog'> Source <a/>

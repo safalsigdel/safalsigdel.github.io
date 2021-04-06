@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/swmml7hgApoIxGPma6Bp5mCWVS8=/0x0:1200x633/1200x800/filters:focal(504x221:696x413)/cdn.vox-cdn.com/uploads/chorus_image/image/69078081/image.0.jpeg' width='700px' /><br/>
+Disco Elysium: The Final Cut, an upgraded version of one of 2019's most-acclaimed titles, hit consoles last week with the game's release on PlayStation 4 and 5. But fans who have been looking forward to finally trying Disco Elysium on console (including myself) have run into many bugs, and developer ZA/UM still hasn't released a promised update.
+<a href='https://www.theverge.com/2021/4/5/22368053/disco-elysium-final-cut-ps-4-5-bugs-update-studio-zaum'> Source <a/>

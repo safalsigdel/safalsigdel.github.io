@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zByHeCoTbDm5qbBiEDzHSq_78d8=/0x0:2040x1360/1200x675/filters:focal(895x1034:1221x1360)/cdn.vox-cdn.com/uploads/chorus_image/image/69077643/akrales_171012_2051_0070.0.jpg' width='700px' /><br/>
+If you're reading this on a phone, chances are, LG didn't make it. The Korean tech giant has been losing money and market share with its smartphone division for years, so it wasn't a surprise when it finally announced plans to pull the plug today. You could be forgiven for shrugging.
+<a href='https://www.theverge.com/22367903/lg-smartphone-retrospective-hits-misses'> Source <a/>

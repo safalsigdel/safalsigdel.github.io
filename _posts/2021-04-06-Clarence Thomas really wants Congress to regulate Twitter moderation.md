@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WdDzD1eENz9wPnwf9j5Ka-58NJk=/0x0:4858x3508/1200x800/filters:focal(2048x442:2824x1218)/cdn.vox-cdn.com/uploads/chorus_image/image/69078437/1282403966.0.jpg' width='700px' /><br/>
+Responding to a petition on Monday, Supreme Court Justice Clarence Thomas laid out a comprehensive constitutional framework for regulating Twitter moderation, signaling that Thomas and other conservatives are eager to take action against social media platforms.
+<a href='https://www.theverge.com/2021/4/5/22368045/clarence-thomas-social-media-regulation-knight-v-trump'> Source <a/>

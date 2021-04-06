@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_ZGaCaWhDYS-9PJMdVr6q2xWISs=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69073903/GenesisNoir_MissMass.0.png' width='700px' /><br/>
-Genesis Noir is set at the start of existence, reimagining the Big Bang and the natural expansion of the universe as the violent end result of a love triangle gone wrong. It's a marriage of jazz and film noir in a point-and-click adventure game that sometimes works better as an audiovisual plaything than it does a series of puzzles. But the game's visual style is a clear standout.
-<a href='https://www.theverge.com/2021/4/4/22364576/genesis-noir-adventure-game-jazz-black-and-white-visuals'> Source <a/>

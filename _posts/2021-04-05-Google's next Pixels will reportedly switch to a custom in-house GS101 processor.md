@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PLGQj3kBewkljEfe449e88Z_MA0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69068621/akrales_201012_4137_0013.0.0.jpg' width='700px' /><br/>
-Google's next Pixel flagship — the presumably named “Pixel 6” — will reportedly feature a Google-designed GS101 “Whitechapel” SoC (system on a chip), a first for the company, as reported by 9to5Google and XDA-Developers.
-<a href='https://www.theverge.com/2021/4/2/22364543/google-pixel-6-custom-in-house-processor-gs101-whitechapel-arm-report'> Source <a/>
