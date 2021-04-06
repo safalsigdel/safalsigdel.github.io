@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ypm7O6_t_AFvOoDqpV7fOt920Yw=/0x0:2040x1361/1200x800/filters:focal(948x509:1274x835)/cdn.vox-cdn.com/uploads/chorus_image/image/69079196/yahoo-stock-1.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/NYpgr24S31q5QWkE1E4G5EGXALk=/0x0:2040x1361/1200x800/filters:focal(480x498:806x824)/cdn.vox-cdn.com/uploads/chorus_image/image/69079196/yahoo-stock-1.0.jpg' width='700px' /><br/>
 Yahoo Answers, one of the longest-running and most storied web Q&A platforms in the history of the internet, is shutting down on May 4th. That's the day the Yahoo Answers website will start redirecting to the Yahoo homepage, and all of the platform's archives will apparently cease to exist. The platform has been operating since 2005.
 <a href='https://www.theverge.com/2021/4/5/22368488/yahoo-answers-shutdown-may-4-internet-era-over-rip'> Source <a/>
