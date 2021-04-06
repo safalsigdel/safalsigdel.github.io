@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i0KDc2jGgwLDcqk992bopGpnQWU=/0x0:2078x1389/1200x800/filters:focal(873x529:1205x861)/cdn.vox-cdn.com/uploads/chorus_image/image/69083571/Screen_Shot_2021_04_06_at_3.52.34_PM.0.png' width='700px' /><br/>
+Tech companies don't just want to identify you using facial recognition — they also want to read your emotions with the help of AI. For many scientists, though, claims about computers' ability to understand emotion are fundamentally flawed, and a little in-browser web game built by researchers from the University of Cambridge aims to show why.
+<a href='https://www.theverge.com/2021/4/6/22369698/ai-emotion-recognition-unscientific-emojify-web-browser-game'> Source <a/>
