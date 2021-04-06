@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8dPRlhv5or_TjxhDjxmLL0tcs_w=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69075062/Screen_Shot_2021_04_04_at_2.11.26_PM.0.png' width='700px' /><br/>
-TiMi Studios, the Tencent-owned developer of huge mobile hits Call of Duty: Mobile and the MOBA Honor of Kings, earned a staggering $10 billion in revenue in 2020, according to an April 1st Reuters report.
-<a href='https://www.theverge.com/2021/4/4/22367089/tencent-timi-studios-call-of-duty-mobile-10-billion-2020'> Source <a/>
