@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tip-CbqSAtkVkTvUltyj19ozA-Q=/0x0:5000x3750/1200x800/filters:focal(2100x1475:2900x2275)/cdn.vox-cdn.com/uploads/chorus_image/image/69078141/1175073468.0.jpg' width='700px' /><br/>
-Health care company One Medical charged administration fees to some people receiving COVID-19 vaccines in Washington, DC, according to bills reviewed by The Verge. The company runs the COVID-19 vaccination site at DC's Entertainment and Sports Arena. People vaccinated at this site were also prompted to sign up for a trial account with One Medical to receive the shots.
-<a href='https://www.theverge.com/2021/4/5/22367922/covid-vaccine-one-medical-fee-bill-dc'> Source <a/>
