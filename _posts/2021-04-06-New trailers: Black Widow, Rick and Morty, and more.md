@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P1j5-sfC1jdDZKFSrn3_x_QCnQ4=/0x0:1511x796/1200x800/filters:focal(636x278:876x518)/cdn.vox-cdn.com/uploads/chorus_image/image/69074756/Screen_Shot_2021_04_04_at_11.24.39_AM.0.png' width='700px' /><br/>
-Hi, it's Jay, and I'm holding down the fort for Kim today, which means I get to do a trailer roundup. I apparently picked a good week to take this responsibility, as there were a lot of good trailers to pick from — it seems like media companies are gearing up for a big year in movies and TV shows.
-<a href='https://www.theverge.com/2021/4/4/22358870/new-trailers-black-widow-rick-morty-suicide-squad-space-jam'> Source <a/>
