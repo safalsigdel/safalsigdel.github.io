@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G7elj5bHHJq41PsyMW2Mdmdwx0c=/0x0:1716x1472/1200x800/filters:focal(721x599:995x873)/cdn.vox-cdn.com/uploads/chorus_image/image/69083375/Screen_Shot_2021_04_06_at_10.23.38_AM.0.png' width='700px' /><br/>
+Build-A-Bear has finally revealed what its new Animal Crossing: New Horizons-themed lineup will look like with two stuffed animal versions of fan-favorite Isabelle and infamous loan shark (loan raccoon?) Tom Nook, decked out in island outfits that match the game.
+<a href='https://www.theverge.com/2021/4/6/22369875/build-a-bear-animal-crossing-new-horizons-isabelle-tom-nook-toys'> Source <a/>
