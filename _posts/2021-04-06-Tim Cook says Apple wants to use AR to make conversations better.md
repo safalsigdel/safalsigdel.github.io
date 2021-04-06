@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1Dh83WUn3hdyysq75btUOWTqZKQ=/0x0:2040x1360/1200x800/filters:focal(913x153:1239x479)/cdn.vox-cdn.com/uploads/chorus_image/image/69076837/dbohn_170912_1993_2091.0.jpg' width='700px' /><br/>
-Apple CEO Tim Cook rarely provides details on unannounced products, but he offered some hints about Apple's thinking on augmented reality and cars in an interview with Kara Swisher for The New York Times this morning.
-<a href='https://www.theverge.com/2021/4/5/22367715/tim-cook-augmented-reality-apple-car-hints-interview'> Source <a/>

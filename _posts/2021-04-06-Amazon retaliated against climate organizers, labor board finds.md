@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vFE6pbaaU7ISYDyugWpR8c5lHWs=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69076741/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-The National Labor Relations Board (NLRB) has determined that Amazon retaliated against two activist employees when it fired them in April of last year, as first reported by The New York Times.
-<a href='https://www.theverge.com/2021/4/5/22367672/amazon-employees-climate-justice-nlrb-case-wrongful-termination'> Source <a/>
