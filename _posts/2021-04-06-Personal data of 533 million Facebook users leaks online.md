@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U-TcyMCiWDyRJ946treS9yhLFeg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69074339/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-Personal data from 533 million Facebook accounts has reportedly leaked online for free, according to security researcher Alon Gal. Insider said it verified several of the leaked records.
-<a href='https://www.theverge.com/2021/4/4/22366822/facebook-personal-data-533-million-leaks-online-email-phone-numbers'> Source <a/>

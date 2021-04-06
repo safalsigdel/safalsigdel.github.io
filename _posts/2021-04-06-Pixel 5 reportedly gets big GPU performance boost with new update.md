@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j1KTSwtgB5ASAkD85pRCd_-bRtI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69082159/akrales_201012_4137_0152.0.0.jpg' width='700px' /><br/>
+Google has started rolling out the April Android security update for Pixel phones, and it looks like it's brought some performance improvements to the most recent devices. Google says the update includes “performance optimizations for certain graphics-intensive apps and games” on the Pixel 5 and 4A 5G, and, as noted by XDA Developers, some testers are noticing substantially improved GPU performance on the Pixel 5.
+<a href='https://www.theverge.com/2021/4/6/22369497/pixel-5-april-security-update-gpu-performance'> Source <a/>
