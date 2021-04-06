@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7GGolbjwdMKvQQS2lrx8VbqpRQ4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69075602/cgartenberg_201022_4254_0002.0.0.jpg' width='700px' /><br/>
-LG is exiting the smartphone business, the company confirmed today. The decision will “enable the company to focus resources in growth areas such as electric vehicle components, connected devices, smart homes, robotics, artificial intelligence and business-to-business solutions, as well as platforms and services,” LG said in a statement.
-<a href='https://www.theverge.com/2021/4/4/22346084/lg-exits-smartphone-business'> Source <a/>

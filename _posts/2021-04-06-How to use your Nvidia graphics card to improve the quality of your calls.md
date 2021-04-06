@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aG_ndFWMe4Pgw02uGKMjbR0b_Ec=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66684298/setienne_180914_2954_0085.0.jpg' width='700px' /><br/>
+If you're finding that background noise is disrupting voice or video calls made from your computer, then a new piece of software from Nvidia might help (provided you have the necessary hardware to run it). Released in April 2020, RTX Voice uses the hardware found in Nvidia's RTX (and more recently, GTX) GPUs to process your incoming and outgoing audio and eliminate almost all background noise.
+<a href='https://www.theverge.com/2020/4/21/21229508/nvidia-rtx-voice-background-noise-reduce-graphics-card-improve-call-quality'> Source <a/>

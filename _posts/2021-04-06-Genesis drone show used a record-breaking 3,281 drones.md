@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KyVuvxnydephvVWyCeb6kPudlOM=/0x0:2700x1519/1200x800/filters:focal(1134x544:1566x976)/cdn.vox-cdn.com/uploads/chorus_image/image/69075246/image1.0.jpeg' width='700px' /><br/>
-Hyundai's luxury vehicle brand Genesis used 3,281 drones to create its logo over Shanghai's skyline on March 29th in celebration of the brand's arrival in China. That number of drones sets a new Guinness World Record for “The Most Unmanned Aerial Vehicles (UAVs) airborne simultaneously,” according to a Genesis press release.
-<a href='https://www.theverge.com/2021/4/4/22367182/hyundai-genesis-drone-show-guinness-world-record-china'> Source <a/>

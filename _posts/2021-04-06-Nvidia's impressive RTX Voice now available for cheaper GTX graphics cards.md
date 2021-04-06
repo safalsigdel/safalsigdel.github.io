@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OlBQRg_e5d_WCeKSmCluIZBpPQo=/0x0:3840x2341/1200x800/filters:focal(1613x864:2227x1478)/cdn.vox-cdn.com/uploads/chorus_image/image/69083254/WwBCPl4.0.0.jpg' width='700px' /><br/>
+Nvidia's RTX Voice feature that eliminates background noises that would otherwise come through your microphone is no longer limited to RTX graphics cards. The latest update to the software has enabled any GeForce GTX, Quadro, or Titan-branded Nvidia GPU from the past to use the feature (via Tom's Hardware).
+<a href='https://www.theverge.com/2021/4/6/22369740/nvidia-rtx-voice-noise-canceling-features-gtx-geforce-quadro-titan-graphics-cards-update'> Source <a/>
