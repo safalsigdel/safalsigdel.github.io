@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PAuJwTE_YddQQs-xTE4t_m6WQR0=/0x0:2040x1360/1200x800/filters:focal(924x433:1250x759)/cdn.vox-cdn.com/uploads/chorus_image/image/69086085/vpavic_4243_20201018_0121.0.0.jpg' width='700px' /><br/>
+Trade-in provider Gazelle exited the online trade-in business back in February, and now the company says it's changing its mind. Gazelle is back to accepting online trade-ins of iPhones, Samsung phones, Google Pixel devices, and iPads and other tablets on its website, the company confirms to The Verge. The program resumed accepting new offers on April 5th, a Gazelle representative clarified.
+<a href='https://www.theverge.com/2021/4/6/22370595/gazelle-trade-in-program-is-back-returns-iphone-samsung-smartphone-selling'> Source <a/>

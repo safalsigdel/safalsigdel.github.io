@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yzGhN4u8JitziPhyg7lc0bUhLXg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69082329/Yelp_Asian_owned_Attribute.0.png' width='700px' /><br/>
-Yelp is rolling out a new tool that will allow businesses the option to identify themselves as Asian-owned, chief diversity officer Miriam Warren announced today. The new optional attribute will make it easier for Yelp users to find and support Asian-owned businesses easily.
-<a href='https://www.theverge.com/2021/4/6/22364494/yelp-new-search-tool-asian-owned-businesses-app'> Source <a/>

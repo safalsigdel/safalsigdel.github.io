@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Lenovo's next gaming phone has leaked, with a design that looks like a Michael Bay Transformer and a gaming PC merged together. It's unlike anything I have ever seen on a phone before. I'm not sure if I like it.
+<a href='https://www.theverge.com/tldr/2021/4/6/22370308/lenovo-phone-2-pro-release-date-price-design-leaked'> Source <a/>

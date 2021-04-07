@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/it4WyxK82fczzp5VeTTrNKJVLlc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69085525/acastro_180130_1777_0003.0.jpg' width='700px' /><br/>
+A Google researcher manager has resigned following the controversial firings of two female leaders in his organization. Samy Bengio, who oversaw the ethical AI team prior to a reorganization in February, is leaving to pursue other opportunities, according to Bloomberg. His last day will be April 28th.
+<a href='https://www.theverge.com/2021/4/6/22370372/google-research-manager-resigns-timnit-gebru-margaret-mitchell-firing'> Source <a/>

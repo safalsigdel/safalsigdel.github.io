@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B0ae7UNKjJ319Ga7VEvLBTD5zcM=/0x0:2040x1360/1200x800/filters:focal(831x614:1157x940)/cdn.vox-cdn.com/uploads/chorus_image/image/69081253/akrales_170919_1976_0018.0.jpg' width='700px' /><br/>
-The Apple TV 4K hasn't been updated for more than three and a half years, which is an eternity in technology. But 9to5Mac reports that the new tvOS 14.5 beta references support for 120Hz refresh rates — a capability that no currently available Apple TV models have — which could indicate Apple is working on a new version of its set-top box.
-<a href='https://www.theverge.com/2021/4/5/22369056/apple-tv-2021-120hz-refresh-rate-support-4k-gaming-arcade'> Source <a/>

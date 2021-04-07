@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0kc0W_LpY5l46W_YKrBGWZ3HttY=/0x0:1866x1096/1200x800/filters:focal(784x399:1082x697)/cdn.vox-cdn.com/uploads/chorus_image/image/69085094/Screen_Shot_2021_04_06_at_2.32.32_PM.0.png' width='700px' /><br/>
+Ikea and Sonos are starting to tease the next products that the two companies have collaborated on. The furniture giant today posted an Instagram story that directly mentions the “Symfonisk” line and flashes the Sonos logo at the end, so there's little doubt that new hardware is coming soon. Two fresh filings have also just appeared at the Federal Communications Commission.
+<a href='https://www.theverge.com/2021/4/6/22370130/ikea-sonos-symfonisk-2021-lamp-wall-art-artwork-speaker'> Source <a/>

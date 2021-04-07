@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QRMn66WnreY3_yLcU8J5BMd-qFs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69078690/cwelch_200218_3910_0019.0.jpg' width='700px' /><br/>
-LG says it will continue to offer Android OS updates — including an upgrade to Android 12 — for some of its devices after it exits the smartphone business, but the company's poor track record has us feeling skeptical it'll follow through.
-<a href='https://www.theverge.com/2021/4/5/22368129/lg-phones-android-12-update-security'> Source <a/>

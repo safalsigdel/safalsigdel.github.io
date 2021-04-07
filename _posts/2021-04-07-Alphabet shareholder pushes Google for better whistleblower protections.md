@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5r9gjn9zgLmXFx5FKKmDjZY3KKk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69085547/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
+Alphabet shareholder Trillium Asset Management is pushing Google to adopt better whistleblower protections in light of the firing of prominent AI ethics researcher Timnit Gebru. The $3.5 billion sustainable investment firm has filed a shareholder resolution asking the board of directors for a third-party review of current policies.
+<a href='https://www.theverge.com/2021/4/6/22370177/google-whistleblower-protections-trillium-asset-management'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-If you had to choose: would you choose a sharper screen on your smartphone, or a smoother-scrolling one? This year, budget phone buyers may be asking themselves that question: the OnePlus Nord N100, Moto G50, and the new Samsung Galaxy F12 and M12 all refresh their screens 90 times per second (which is good!) but with a lower-than-optimal screen resolution of 720p. That's the same resolution as a Galaxy Nexus from 2011.
-<a href='https://www.theverge.com/circuitbreaker/2021/4/5/22368437/samsung-galaxy-f12-m12-90-hz-screen-720p-resolution-refresh-rate'> Source <a/>

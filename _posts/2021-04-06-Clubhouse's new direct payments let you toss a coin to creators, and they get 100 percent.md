@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Pun1DSqVqr9EztiAqF1Viw0DadA=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/69080759/1231631217.0.jpg' width='700px' /><br/>
-Social audio app Clubhouse will let all users pay other creators starting Monday. It's the first monetization tool built right into the app. Clubhouse says it won't take a cut of payments, meaning that creators get the entirety of what somebody sends them. Not everyone will be able to receive payments just yet, though; that will be rolling out in waves, “starting with a small test group,” Clubhouse says.
-<a href='https://www.theverge.com/2021/4/5/22368929/clubhouse-direct-payments-creators-stripe'> Source <a/>

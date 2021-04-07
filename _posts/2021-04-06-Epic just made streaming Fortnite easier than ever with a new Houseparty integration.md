@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gQe5uc0aKPwkGVFvwvDsgj2Tkvw=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69078881/stream_fortnite_gameplay_to_houseparty_1280x720_224cb65f8d7c.0.png' width='700px' /><br/>
-Epic is further stitching together its various platforms with a new Fortnite integration for its social video app Houseparty that lets you stream your gameplay to friends. The integration builds on an existing one that uses Houseparty's video chatting capabilities to bring live video chat into Fortnite, and now this essentially does the reverse.
-<a href='https://www.theverge.com/2021/4/5/22368345/epic-fortnite-houseparty-gameplay-streaming-app-video-chat-integration'> Source <a/>
