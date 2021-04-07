@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rROk0Pl3SgO15St86hfhnobGu_o=/0x0:1100x730/1200x800/filters:focal(462x277:638x453)/cdn.vox-cdn.com/uploads/chorus_image/image/69083356/v_trunk.0.jpg' width='700px' /><br/>
-After being removed and replaced by Red Dead Redemption 2 nearly a year ago, Grand Theft Auto V will return to Xbox Game Pass for consoles on April 8th, and it will also be coming to Microsoft's cloud gaming service, xCloud.
-<a href='https://www.theverge.com/2021/4/6/22369834/grand-theft-auto-v-xbox-game-pass-xcloud'> Source <a/>
