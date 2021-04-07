@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u-bWzJYk7m8VmZ0-CAKbzv_K31c=/0x0:2000x1334/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69088764/Galaxy_A02S_A12_A32_A42_5G_5G_A52_5G_Lineup.0.jpg' width='700px' /><br/>
+Until now, we've known almost everything about Samsung's newest Galaxy A-series phones (which were announced recently at the company's Unpacked event) except for a couple of key details: which models would be sold in the US and for how much. That's the announcement Samsung made today, with three low-cost 5G phones leading the way.
+<a href='https://www.theverge.com/2021/4/7/22370189/samsung-galaxy-a52-a42-a32-5g-a12-a02s-price-specs-price'> Source <a/>

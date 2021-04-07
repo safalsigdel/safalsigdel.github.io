@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sWQwu-uaUMTgBOHYhISQtTDaSUo=/0x0:7952x5304/1200x0/filters:focal(0x0:7952x5304):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22423806/DSC07994.jpg' width='700px' /><br/>
-Microsoft is starting to submerge its servers in liquid to improve their performance and energy efficiency. A rack of servers is now being used for production loads in what looks like a liquid bath. This immersion process has existed in the industry for a few years now, but Microsoft claims it's “the first cloud provider that is running two-phase immersion cooling in a production environment.”
-<a href='https://www.theverge.com/2021/4/6/22369609/microsoft-server-cooling-liquid-immersion-cloud-racks-data-centers'> Source <a/>

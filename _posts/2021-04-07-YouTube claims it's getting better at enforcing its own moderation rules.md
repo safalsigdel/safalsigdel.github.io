@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xYk-jp7EHqtpaSO4VxcyIDeGu4E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69083834/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
-YouTube wants the world to know that it's doing a better job than ever of enforcing its own moderation rules. The company says that a shrinking number of people see problematic videos on its site — such as videos that contain graphic violence, scams, or hate speech — before they're taken down.
-<a href='https://www.theverge.com/2021/4/6/22368505/youtube-violative-view-rate-transparency-stat'> Source <a/>

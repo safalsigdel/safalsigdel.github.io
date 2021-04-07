@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OjiEQ_20q8DBrPeQycUa0RdMXBs=/0x0:4000x2667/1200x800/filters:focal(1549x1710:2189x2350)/cdn.vox-cdn.com/uploads/chorus_image/image/69084058/904641536.0.jpg' width='700px' /><br/>
-General Motors just confirmed it's making an all-electric version of the Chevy Silverado pickup truck, the company's bestselling vehicle. The new truck will be powered by GM's new EV battery and will offer around 400 miles on a full charge.
-<a href='https://www.theverge.com/2021/4/6/22370058/gm-chevy-electric-silverado-pickup-truck'> Source <a/>

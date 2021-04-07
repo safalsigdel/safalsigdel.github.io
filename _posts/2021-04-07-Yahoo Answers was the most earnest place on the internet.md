@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CXuM0bCKjCogmEuZrwpbxVxESUo=/0x0:5100x3643/1200x800/filters:focal(2193x1653:3009x2469)/cdn.vox-cdn.com/uploads/chorus_image/image/69084334/1229095599.0.jpg' width='700px' /><br/>
-“Who do you blame for Yahoo Answers getting shut down?” reads one of the final queries ever submitted to the venerable advice service. As of press time, it has garnered more than 250 responses, all from those who've regularly doled out their imperfect observations to countless eighth-graders, chronic hypochondriacs, political firebrands, and curious stoners throughout the 15-year life span of the site.
-<a href='https://www.theverge.com/2021/4/6/22370034/yahoo-answers-shutting-down-most-earnest-place-online'> Source <a/>
