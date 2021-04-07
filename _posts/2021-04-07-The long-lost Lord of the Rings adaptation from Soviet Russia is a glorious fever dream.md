@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+You may think you're familiar with The Lord of the Rings, but nothing can quite prepare you for an adaptation of J.R.R. Tolkien's classic fantasy text made in the Soviet Union.
+<a href='https://www.theverge.com/tldr/2021/4/7/22371380/soviet-era-lord-of-the-rings-tv-adaptation-low-budget-delight'> Source <a/>
