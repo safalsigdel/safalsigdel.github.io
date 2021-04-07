@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-Over at Amazon, you can save $80 on the Apple Watch Series 6. Normally $400, you can buy the 40mm model with GPS for only $320 if you buy the wearable in red. The sale price on the product listing notes $385, but the retailer will knock an additional $65 off that price at checkout to bring it down to $320.
-<a href='https://www.theverge.com/good-deals/2021/4/6/22369713/apple-watch-series-6-ipad-2020-128gb-persona-5-strikers-sale'> Source <a/>
