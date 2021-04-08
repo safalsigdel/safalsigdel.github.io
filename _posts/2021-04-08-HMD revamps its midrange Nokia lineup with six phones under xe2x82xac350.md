@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wM1q0TVa3jC2uW3l900z5iIUP1o=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/69095149/Group_shot.0.jpg' width='700px' /><br/>
+HMD is announcing six new midrange Nokia phones today, ranging in price from xe2x82xac75 (around $90) up to xe2x82xac349 (around $415). At the top, there's the X-series, consisting of the X10 and X20, followed by the G-series G10 and G20, and then finally, there's the entry-level C10 and C20 from the C-series.
+<a href='https://www.theverge.com/2021/4/8/22371937/hmd-nokia-x20-x10-g20-g10-c20-c10-android-phones-release-date-news-features'> Source <a/>

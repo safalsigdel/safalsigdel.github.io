@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NQCHE5U93Jsmb9E06dBqvSaITp4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69095161/akrales_210226_4438_0085.0.jpg' width='700px' /><br/>
+Samsung's latest Chrome OS laptop, the Galaxy Chromebook 2, came out a couple of months ago. If you are looking to buy this laptop at a more affordable price, Best Buy and Samsung have multiple configurations on sale for $100 off.
+<a href='https://www.theverge.com/2021/4/8/22373433/samsung-galaxy-chromebook-ghost-of-tsushima-lg-monitor-sale-deal'> Source <a/>
