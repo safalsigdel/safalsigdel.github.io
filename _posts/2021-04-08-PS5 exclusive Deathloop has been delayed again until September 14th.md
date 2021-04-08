@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mznJf4q-k789OEQ-HRfhXDY5YNM=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69095226/Deathloop_Rival_Showdown.0.jpg' width='700px' /><br/>
+Deathloop has been delayed again, with Arkane's timed PS5 console exclusive moving from its previous May 21st release date to a fall release on September 14th. The news marks the second big delay for Deathloop, which was originally supposed to be out in the 2020 holiday season alongside the then-newly released PS5.
+<a href='https://www.theverge.com/2021/4/8/22373588/bethesda-deathloop-ps5-delayed-date'> Source <a/>
