@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/1-p6kp-rBWKBv4ZeXiQp9I5mUP4=/0x0:1445x966/1200x800/filters:focal(608x368:838x598)/cdn.vox-cdn.com/uploads/chorus_image/image/69092065/Screen_Shot_2021_04_07_at_3.13.05_PM.0.png' width='700px' /><br/>
 Rapper Lil Nas X has just released a free rhythm game that has you twerking to his new song “Montero (Call Me By Your Name).” Yes, the main mechanic is twerking.
-<a href='https://www.theverge.com/2021/4/7/22372657/lil-nas-x-twerk-hero-montero-call-me-by-your-name-browser-free-game'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/1-p6kp-rBWKBv4ZeXiQp9I5mUP4=/0x0:1445x966/1200x800/filters:focal(608x368:838x598)/cdn.vox-cdn.com/uploads/chorus_image/image/69092065/Screen_Shot_2021_04_07_at_3.13.05_PM.0.png' width='700px' /><br/>
-Rapper Lil Nas X has just released a free rhythm game that has you twerking to his new song “Montero (Call Me By Your Name).” Yes, the main mechanic is twerking.
 <a href='https://www.theverge.com/2021/4/7/22372657/lil-nas-x-twerk-hero-montero-call-me-by-your-name-browser-free-game'> Source <a/>
