@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AIhqbD9Fym7JfWUTStrBafG-RFE=/0x0:3800x2745/1200x800/filters:focal(1596x1069:2204x1677)/cdn.vox-cdn.com/uploads/chorus_image/image/69093954/facebook_satire_pages.0.jpg' width='700px' /><br/>
+Facebook is adding additional labels to posts from Pages that appear in users' News Feeds in a bid to reduce confusion about their origin. These labels will include “public official,” “fan page,” and “satire page.” The company says it's already started testing the deployment of these labels in the US, and will gradually add them to more posts.
+<a href='https://www.theverge.com/2021/4/8/22373291/facebook-label-news-feed-page-posts-fan-satire-public-official'> Source <a/>
