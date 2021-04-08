@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vzDIMWA5_R0oClQXNqtX5Gy7whY=/0x0:3410x2274/1200x800/filters:focal(1433x865:1977x1409)/cdn.vox-cdn.com/uploads/chorus_image/image/69089858/1286017864.0.jpg' width='700px' /><br/>
-Uber and Lyft have a driver shortage problem. With the number of US-based drivers for both apps down around 40 percent, the two companies are pledging to spend hundreds of millions of dollars to lure people back into the driver seat.
-<a href='https://www.theverge.com/2021/4/7/22371850/uber-lyft-driver-shortage-covid-bonus-stimulus'> Source <a/>
