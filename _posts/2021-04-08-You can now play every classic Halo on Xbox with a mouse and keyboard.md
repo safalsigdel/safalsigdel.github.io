@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/jJBfwJK-ZWaobGpS7VHVDDCnEKA=/0x0:1917x1278/1200x800/filters:focal(806x486:1112x792)/cdn.vox-cdn.com/uploads/chorus_image/image/69090967/halo_mcc_update.0.jpg' width='700px' /><br/>
-Today, you can fire up an Xbox game console and play Halo with a mouse and keyboard. It's hard to believe I'm writing those words.
+NXT moves to Tuesdays next week, and that means AEW has Wednesdays pretty much to themselves. But they're not holding anything back as they look to grow their audience on TNT.
 <a href='https://www.theverge.com/2021/4/7/22372126/halo-mouse-keyboard-xbox-master-chief-collection-mcc'> Source <a/>
