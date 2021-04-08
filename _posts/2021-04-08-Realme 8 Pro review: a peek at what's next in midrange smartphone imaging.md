@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KMGF3wx6peQCc5p6P7zVihElfXQ=/0x0:2040x1360/1200x675/filters:focal(883x591:1209x917)/cdn.vox-cdn.com/uploads/chorus_image/image/69095804/ajohnson_20210330_4501_0002.0.jpg' width='700px' /><br/>
+The Realme 8 Pro is a good, inexpensive Android phone that you probably shouldn't buy right now — at least if you're in the US. But it's also a preview of positive things to come to the midrange class, especially in terms of camera hardware. I have seen the future of smartphone imaging around the $400 price point, and it is good.
+<a href='https://www.theverge.com/22372644/realme-8-pro-review-price-specs'> Source <a/>
