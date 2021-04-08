@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wotiQFa8SviuHwPcA1TZndnHPx8=/0x0:2555x1434/1200x800/filters:focal(1074x513:1482x921)/cdn.vox-cdn.com/uploads/chorus_image/image/69086991/Screen_Shot_2021_04_07_at_10.32.31.0.png' width='700px' /><br/>
-Nintendo has announced Pac-Man 99, a new multiplayer game that'll be included with its Nintendo Switch Online subscription service. Like Tetris 99 and the recently departed Super Mario Bros. 35, the game pits dozens of players against each other in a battle royale-style fight to the end.
-<a href='https://www.theverge.com/2021/4/6/22371028/pac-man-99-nintendo-switch-online-announced-release-date'> Source <a/>

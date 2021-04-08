@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-CFbVp2gt7bD1r-DILph5dew5Mw=/0x0:2340x1546/1200x675/filters:focal(983x586:1357x960)/cdn.vox-cdn.com/uploads/chorus_image/image/69089794/Miko_Headshot_Full__1_.0.png' width='700px' /><br/>
+When I watch CodeMiko, I think a lot about unreality — though not for the obvious reasons. While Miko is a virtual creation, a punkish motion-captured digital avatar with a knack for performing her personality, I find myself more interested in the nature of her performance itself; she's just magnetic, and I'm not sure I can describe why.
+<a href='https://www.theverge.com/22370260/codemiko-twitch-interview-stream-technician'> Source <a/>

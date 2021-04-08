@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2PMM3ew2Xpt1ykizvNsqk4Rj6s8=/0x0:3000x2002/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/69089774/1150560659.0.jpg' width='700px' /><br/>
+Jon Stewart is heading back to TV with a new Apple TV Plus show, The Problem with Jon Stewart, which will debut this fall, Apple announced on Wednesday.
+<a href='https://www.theverge.com/2021/4/7/22371914/jon-stewart-apple-tv-plus-show-release-launch-date-fall'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xhPYeGqpcOAA81QiQVHEhEEYTFw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69087609/ahawkins_200803_4114_0011.0.0.jpg' width='700px' /><br/>
-Swedish electric performance automaker Polestar says it will build the world's first truly zero-emissions vehicle without relying on carbon offsets, which it described as a “cop-out.”
-<a href='https://www.theverge.com/2021/4/7/22370302/polestar-carbon-neutral-electric-car-no-offsets'> Source <a/>

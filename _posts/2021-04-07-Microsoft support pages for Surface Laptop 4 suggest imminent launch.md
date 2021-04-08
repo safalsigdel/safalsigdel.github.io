@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qxRovNAAVdb1VppcPheMpjBkLdw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69087738/akrales_191017_3723_0044.0.jpg' width='700px' /><br/>
-A pair of Microsoft support pages have appeared for the unannounced Surface Laptop 4, suggesting a launch may be imminent. One is a placeholder for an AMD version of the laptop, while the other is for an Intel model. Both were spotted by WalkingCat, an often reliable source of gadget leaks, who speculates that we might see them launched at a Surface event as soon as next week.
-<a href='https://www.theverge.com/2021/4/7/22371335/surface-laptop-4-amd-processor-cpu-specs-rumors-features'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6T3MtoW_fXAYvLvArpaPLofe26s=/0x0:1016x706/1200x800/filters:focal(427x272:589x434)/cdn.vox-cdn.com/uploads/chorus_image/image/69084366/image__2_.10.png' width='700px' /><br/>
-Jimmy Fallon streamed Among Us on Twitch with a star-studded group in his debut on the platform Tuesday evening. The stream lasted about an hour, and near the end, more than 125,000 people were watching live.
-<a href='https://www.theverge.com/2021/4/6/22370078/jimmy-fallon-twitch-stream-among-us-stranger-things'> Source <a/>

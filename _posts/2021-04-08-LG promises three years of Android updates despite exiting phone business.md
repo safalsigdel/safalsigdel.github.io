@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iJYvDFyPr2VgQQsEBTohwaA-znA=/0x0:2040x1360/1200x800/filters:focal(872x619:1198x945)/cdn.vox-cdn.com/uploads/chorus_image/image/69093402/cwelch_200218_3910_0019.0.jpg' width='700px' /><br/>
+LG has announced a pledge to issue future Android OS updates to many of its smartphones despite confirming earlier this week that it'll be leaving the phone business altogether. The Velvet, Wing, and G- and V- series phones from 2019 or later should be getting three Android updates from their year of release, and “certain 2020 models such as LG Stylo and K series” will get two updates.
+<a href='https://www.theverge.com/2021/4/7/22373088/lg-android-update-three-year-pledge-after-leaving-mobile-business'> Source <a/>

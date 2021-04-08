@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0J8_DV2HxeGsVrMTikdWfXBrBqQ=/0x0:8367x5583/1200x800/filters:focal(3515x2123:4853x3461)/cdn.vox-cdn.com/uploads/chorus_image/image/69085278/1231334394.0.jpg' width='700px' /><br/>
-Leaving a missed call on someone's phone usually signals that you should call them back — but at one point in India, it was communication in its own right. A new feature by Atul Bhattarai in Rest of World examines the Indian culture that grew up around missed calls — and the startups that took advantage of it.
-<a href='https://www.theverge.com/22370007/india-missed-calls-zipdial-pre-internet'> Source <a/>

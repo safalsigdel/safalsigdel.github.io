@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KX_iisPmdQfGugGBQnh9On4tVhU=/0x0:4096x2734/1200x800/filters:focal(1721x1040:2375x1694)/cdn.vox-cdn.com/uploads/chorus_image/image/69090258/EySrwjgWYAQMtCC.0.jpeg' width='700px' /><br/>
+Spot, the quadruped robot built by US firm Boston Dynamics, has appeared alongside soldiers during military exercises carried out by the French army. The robot was apparently being used for reconnaissance during a two-day training exercise, but the deployment raises questions about how and where Boston Dynamics' machines will be used in future.
+<a href='https://www.theverge.com/2021/4/7/22371590/boston-dynamics-spot-robot-military-exercises-french-army'> Source <a/>

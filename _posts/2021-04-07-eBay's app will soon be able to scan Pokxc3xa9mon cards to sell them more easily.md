@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qMu7fswMp__gL72RMttrj_2TmLg=/0x0:2000x1321/1200x800/filters:focal(840x501:1160x821)/cdn.vox-cdn.com/uploads/chorus_image/image/69085849/Image_Listing_2.0.jpeg' width='700px' /><br/>
-eBay has announced a new addition coming to its mobile app: soon, you'll be able to scan trading cards from popular games like Pokxc3xa9mon, Magic: The Gathering, and Yu-Gi-Oh! to more easily sell them on the online auction site.
-<a href='https://www.theverge.com/2021/4/6/22370253/ebay-app-scan-pokemon-cards-sell-more-easily-listing'> Source <a/>

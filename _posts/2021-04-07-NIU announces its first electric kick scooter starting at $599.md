@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Mo3y7zTbXSI89bOTUyU2TFGPJtI=/0x0:3720x1921/1200x800/filters:focal(1563x664:2157x1258)/cdn.vox-cdn.com/uploads/chorus_image/image/69087405/NIU_Kick_Scooter_Regenerative_Braking.0.png' width='700px' /><br/>
-NIU, maker of popular, affordable electric mopeds, showed off its first-ever electric kick scooter. The new two-wheeler will be available starting this summer in China, Europe, and North America.
-<a href='https://www.theverge.com/2021/4/7/22370419/niu-electric-kick-scooter-pro-sport-specs-price'> Source <a/>

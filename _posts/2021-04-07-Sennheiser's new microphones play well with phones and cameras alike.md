@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XXKQ63NJjh7BVdfUq-97s1jeIwM=/0x0:591x394/1200x800/filters:focal(276x141:370x235)/cdn.vox-cdn.com/uploads/chorus_image/image/69087670/image4_37.0.jpeg' width='700px' /><br/>
-Sennheiser is introducing some new mics for creators to use on consumer-level cameras and phones, including an update for its popular camera-mounted MKE 400 shotgun microphone and new phone-friendly lavaliere microphones.
-<a href='https://www.theverge.com/2021/4/7/22362462/sennheiser-mke-400-shotgun-lavaliere-microphone-camera-phone'> Source <a/>

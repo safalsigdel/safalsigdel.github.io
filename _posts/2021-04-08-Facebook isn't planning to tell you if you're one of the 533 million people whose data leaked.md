@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/75FN5Fjba7-lFepYrO-s4reaA7Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69093248/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook is responding to the recent news that data from 533 million accounts leaked online for free, but perhaps not in the way users might have hoped: the company doesn't plan to notify the users whose data was exposed online, a Facebook spokesperson told Reuters.
+<a href='https://www.theverge.com/2021/4/7/22372707/facebook-responds-533-million-data-leak-notify-users'> Source <a/>

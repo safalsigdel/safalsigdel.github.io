@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5Omy-WhkexTYXbpZdEchlsIkdQk=/0x0:1390x803/1200x800/filters:focal(502x247:724x469)/cdn.vox-cdn.com/uploads/chorus_image/image/69091194/Hotline_StoryHeader.0.png' width='700px' /><br/>
+Facebook's experimental app development division, the NPE Team, has released a new Q&A platform that borrows concepts from buzzy, audio-only social network Clubhouse but with dashes of live-streaming thrown in.
+<a href='https://www.theverge.com/2021/4/7/22372190/facebook-hotline-clubhouse-competitor-q-and-a-app-test'> Source <a/>
