@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N-40q04Dlk-qrNvLAGsTqViWGqg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69096250/acastro_20200818_1777_epicApple_0003.0.0.jpg' width='700px' /><br/>
+On May 3rd, Fortnite publisher Epic Games will finally have its day in court, forcing Apple to defend kicking Fortnite off the iOS App Store last year. Epic's antitrust lawsuit is bigger than a single game; it's a direct challenge to the App Store model, the most significant legal challenge Apple has faced since the Xerox days.
+<a href='https://www.theverge.com/2021/4/8/22373826/epic-games-v-apple-fortnite-app-store-antitrust-lawsuit'> Source <a/>
