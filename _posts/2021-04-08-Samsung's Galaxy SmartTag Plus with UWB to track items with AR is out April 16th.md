@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RE2H-wIi4D4Dn4vByfcBuDQ6I0o=/0x0:4059x3006/1200x800/filters:focal(1706x1179:2354x1827)/cdn.vox-cdn.com/uploads/chorus_image/image/69094509/smarttag.0.png' width='700px' /><br/>
+Samsung's Galaxy SmartTag Plus, the souped-up version of the company's Tile-like SmartTag Bluetooth tracker (which was released earlier this year), now has a release date: it'll be out on April 16th for $39.99.
+<a href='https://www.theverge.com/2021/4/8/22373410/samsung-galaxy-smarttag-plus-uwb-ar-bluetooth-price-release-date'> Source <a/>
