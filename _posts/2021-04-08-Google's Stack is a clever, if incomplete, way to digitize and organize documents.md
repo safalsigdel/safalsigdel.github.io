@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fAjDykMo6HHs92nlKGHeRlXuGwE=/0x0:1398x790/1200x800/filters:focal(588x284:810x506)/cdn.vox-cdn.com/uploads/chorus_image/image/69094835/Screen_Shot_2021_03_30_at_9.01.49_AM.0.png' width='700px' /><br/>
+Having to deal with paperwork is a real pain, whether it's hardcopy or digital. Tax documents, explanations of benefits from insurance companies, purchase receipts, prescriptions, bills, vaccination cards — the list of daily paperwork goes on and on. And of course, when you suddenly need to find that receipt for your two-year-old laptop, it's nowhere to be found.
+<a href='https://www.theverge.com/22372372/google-stack-paperwork-documents-scan-pdf-how-to'> Source <a/>
