@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/my8QS3OS4P3O1D5JXO-oxZRF44o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69100722/DSCF0384_result.0.jpg' width='700px' /><br/>
+Samsung has released a new website to give iPhone users “a little taste of Samsung” from their mobile browser. When visited on an iPhone, the site prompts users to add it to their phone's home screen, after which it turns into a shortcut to a simulated Samsung Galaxy device. The site appears to be the work of Samsung New Zealand, MacRumors reports.
+<a href='https://www.theverge.com/2021/4/9/22375287/samsung-itest-galaxy-test-drive-emulator-iphone'> Source <a/>
