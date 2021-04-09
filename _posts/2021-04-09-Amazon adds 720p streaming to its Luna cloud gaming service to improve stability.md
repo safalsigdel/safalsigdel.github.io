@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Gs1kTogdaJvESrVUx6vZT7Soj2s=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69096227/image.0.0.png' width='700px' /><br/>
-Amazon is adding a new streaming option to its Luna cloud gaming platform that will cap resolution at 720p to help improve stability for players on slower internet connections.
-<a href='https://www.theverge.com/2021/4/8/22373601/amazon-luna-720p-streaming-setting-new-feature-cloud-gaming-stability'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q53Au4mMjBGyR0LPLr8Z6jmti_E=/0x0:1650x1403/1200x800/filters:focal(693x570:957x834)/cdn.vox-cdn.com/uploads/chorus_image/image/69101865/HP_Chromebook_x360_14c_Tablet.0.jpeg' width='700px' /><br/>
+HP has announced an update to its Chromebook x360 14c, its premium convertible Chromebook aimed at students and remote workers: the laptop now includes Intel's latest 11th Gen processors. Configurations start at $649.99 and will be available for purchase this month.
+<a href='https://www.theverge.com/2021/4/9/22375489/hp-chromebook-x360-14c-intel-tiger-lake-price-release-date'> Source <a/>
