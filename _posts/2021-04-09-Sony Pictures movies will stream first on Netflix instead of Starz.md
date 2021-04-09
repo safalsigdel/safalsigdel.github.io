@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/icCrI-mPbH5tGdIgU-eCqgyUYl8=/0x0:278x181/1200x800/filters:focal(117x69:161x113)/cdn.vox-cdn.com/uploads/chorus_image/image/69096888/spiderman.0.jpeg' width='700px' /><br/>
-Sony Pictures has signed a new deal with Netflix that will see the streamer become the exclusive home of films like Uncharted and Morbius when they finish their theatrical and home video runs beginning in 2022, via Deadline.
-<a href='https://www.theverge.com/2021/4/8/22373997/sony-pictures-movies-netflix-starz-pay-one-window-streaming-deal'> Source <a/>
