@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4g0oyfZ8PMMKA41eRnmWpDEKNTA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69097948/acastro_210201_1777_robinhood_0002.0.jpg' width='700px' /><br/>
+I love it when companies go public. I am never more excited than when I get to read a mandatory S-1 filing for the first time. Anything could be in there! Maybe the company has wildly more people using its products than I would have guessed. Maybe the company is surprisingly profitable. Maybe the company is WeWork!
+<a href='https://www.theverge.com/2021/4/8/22373990/robinhood-ipo-form-regulators-finance'> Source <a/>

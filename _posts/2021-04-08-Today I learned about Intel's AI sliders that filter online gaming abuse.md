@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fVBiRUSOpoqb-sx1aRwt17L2TOg=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22429051/msedge_ophDP9qyMx.png' width='700px' /><br/>
-Last month during its virtual GDC presentation Intel announced Bleep, a new AI-powered tool that it hopes will cut down on the amount of toxicity gamers have to experience in voice chat. According to Intel, the app “uses AI to detect and redact audio based on user preferences.” The filter works on incoming audio, acting as an additional user-controlled layer of moderation on top of what a platform or service already offers.
-<a href='https://www.theverge.com/2021/4/8/22373290/intel-bleep-ai-powered-abuse-toxicity-gaming-filters'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zHYSoUAIjZXBdthPeZMpZftJMUY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69091742/mdoying_180117_2249_twitter_0242stills.0.jpg' width='700px' /><br/>
-Twitter's already building a competitor to the hot social audio app Clubhouse, but apparently, it's discussed outright acquiring the company, too. Bloomberg reports today that Twitter held discussions with Clubhouse about purchasing the app for around $4 billion.
-<a href='https://www.theverge.com/2021/4/7/22372510/twitter-clubhouse-acquire-four-billion-spaces-audio'> Source <a/>

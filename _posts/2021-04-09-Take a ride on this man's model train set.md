@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Some people spent the pandemic writing the next King Lear, others lamenting the fact that they weren't. It doesn't really matter. There are plenty of inspiring pandemic projects to go around, but one of the most striking (and brain-breaking) has to be this model train video created by Jason Shron of the YouTube channel Rapido Trains.
+<a href='https://www.theverge.com/tldr/2021/4/8/22373948/model-train-canadian-via-line-youtube'> Source <a/>

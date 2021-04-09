@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8WlvCpX45JRLCV8JoNMOAdnC8hw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69097192/sokane_210121_4386_0008.0.jpg' width='700px' /><br/>
+Charging is a common concern with electric vehicles. But some owners of the brand-new Mustang Mach-E have run into a peculiar problem: their electric SUVs won't start even when the main battery pack is full.
+<a href='https://www.theverge.com/2021/4/8/22373903/mustang-mach-e-deep-sleep-12v-battery-jump-start'> Source <a/>

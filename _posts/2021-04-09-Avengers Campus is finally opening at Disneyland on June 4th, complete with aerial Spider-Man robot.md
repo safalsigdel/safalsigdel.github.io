@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_D3VXiPu3ZM0LbrQgcl9VaVWL0c=/0x0:1842x984/1200x800/filters:focal(774x345:1068x639)/cdn.vox-cdn.com/uploads/chorus_image/image/69098529/disney_avengers.0.jpg' width='700px' /><br/>
+After being delayed for almost a year because of the coronavirus pandemic, the Avengers Campus will finally open at Disneyland, specifically at the Disney's California Adventure park in Anaheim, California on June 4th, according to the company (via CNBC).
+<a href='https://www.theverge.com/2021/4/8/22374457/avengers-campus-opening-disneyland-june-4th'> Source <a/>

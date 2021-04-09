@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aFpCj_RjicNjtdCVZhKqngxE_lM=/0x0:7175x4973/1200x800/filters:focal(3014x1913:4162x3061)/cdn.vox-cdn.com/uploads/chorus_image/image/69092587/odWuZrk_.0.jpeg' width='700px' /><br/>
-100 Thieves, a popular esports organization and lifestyle brand, announced that two of its biggest content creators, Rachell “Valkyrae” Hofstetter and Jack “CouRage” Dunlop, will now be co-owners.
-<a href='https://www.theverge.com/2021/4/7/22372759/valkyrae-courage-100-thieves-co-owners-nadeshot'> Source <a/>

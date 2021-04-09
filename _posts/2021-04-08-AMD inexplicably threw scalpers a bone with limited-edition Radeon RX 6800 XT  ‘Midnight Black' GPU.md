@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cwVnQuFa-mDsY5MCNygm0IEBCzI=/0x0:1260x709/1200x800/filters:focal(530x255:730x455)/cdn.vox-cdn.com/uploads/chorus_image/image/69092746/762922_amd_radeon_rx_6800xt_black_box_1260x709.0.jpg' width='700px' /><br/>
-Because the world desperately needed another GPU people can't actually buy, AMD decided to release a limited-edition “Midnight Black” version of its Radeon RX 6800 XT early Wednesday morning, where it sold out before most people even saw the card was there.
-<a href='https://www.theverge.com/2021/4/7/22372721/amd-radeon-rx-6800-xt-midnight-black-ebay-scalpers'> Source <a/>
