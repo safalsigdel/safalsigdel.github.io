@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ht0CuOUadoS7HNcwl_F6DtNuLqk=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/69102381/1232182558.0.jpg' width='700px' /><br/>
+In its first budget proposal to Congress on Friday, the White House called for new funding to fight the ongoing semiconductor shortage.
+<a href='https://www.theverge.com/2021/4/9/22375814/biden-google-ceo-summit-budget-semiconductor-shortage'> Source <a/>
