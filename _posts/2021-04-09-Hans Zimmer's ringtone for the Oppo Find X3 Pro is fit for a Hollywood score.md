@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3rNqpcEnKIT-S6OnY-oQeAD-jQo=/0x0:1440x960/1200x800/filters:focal(605x365:835x595)/cdn.vox-cdn.com/uploads/chorus_image/image/69101936/Hans_Zimmer_2.0.png' width='700px' /><br/>
+Hans Zimmer, the legendary composer of The Lion King, Inception, and other iconic soundtracks, has brought his epic compositions to a new audio medium: phone sounds. Yes, Hans Zimmer created a ringtone and other phone sounds for Oppo's newest flagship, the Find X3 Pro, and they're amazing.
+<a href='https://www.theverge.com/2021/4/9/22373999/hans-zimmer-oppo-find-x3-pro-ringtone-sounds-alarm'> Source <a/>
