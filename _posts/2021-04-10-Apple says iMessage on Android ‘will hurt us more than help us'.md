@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7Nqw7UGdQzzRTmzKDnq6vpbqa2w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69099876/akrales_190513_3338_0008_2.0.jpg' width='700px' /><br/>
-Apple knows that iMessage's blue bubbles are a big barrier to people switching to Android, which is why the service has never appeared on Google's mobile operating system. That's according to depositions and emails from Apple employees, including some high-ranking executives, revealed in a court filing from Epic Games as part of its legal dispute with the iPhone manufacturer.
-<a href='https://www.theverge.com/2021/4/9/22375128/apple-imessage-android-ecosystem-lock-in-epic-games-filings-app-store-dispute'> Source <a/>
