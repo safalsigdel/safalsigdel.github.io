@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/terew6bre8NxATsm-qsbZO8eDF0=/0x0:1698x1700/1200x0/filters:focal(0x0:1698x1700):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22433527/Screen_Shot_2021_04_09_at_5.15.34_PM.png' width='700px' /><br/>
+Transformers are some of the most iconic toys around — an action figure and a car! All in one! A true bargain! But as modern Transformers toys have gotten more complex, they have also become an absolutely huge pain to actually transform from car to robot and back again, often requiring multiple shame-filled trips back to the trashcan where you threw it in a fit of hubris.
+<a href='https://www.theverge.com/2021/4/9/22376256/hasbro-700-optimus-prime-toy-transform-motor-automatic-voice-command'> Source <a/>

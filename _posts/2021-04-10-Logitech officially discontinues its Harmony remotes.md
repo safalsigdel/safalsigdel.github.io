@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EgtEEAqzhy_L12SuXq-6CwOo_zA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69105938/jbareham_160729_1150_0031.0.0.jpg' width='700px' /><br/>
+Logitech said Friday it is discontinuing its line of Harmony universal remotes, ending years of speculation that the devices were on their way out. Models that are currently in stock at retailers will be available while supplies last, and the company says it will continue to provide support and service for the Harmony remote “as long as customers are using it.”
+<a href='https://www.theverge.com/2021/4/10/22377015/logitech-discontinues-harmony-universal-remotes'> Source <a/>

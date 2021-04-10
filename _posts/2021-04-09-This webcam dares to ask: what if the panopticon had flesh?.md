@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Many digital eyes and ears are on us as we move about our daily lives. Surveillance cameras watch us on the street and smart devices listen for us in our homes. What if some of that watching happened through an expressive simulacrum of a human eye?
-<a href='https://www.theverge.com/tldr/2021/4/8/22374375/flesh-eyeball-webcam-surveillance'> Source <a/>

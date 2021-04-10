@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zz1Ju1nA1tZziuStHNyW_U8zG6A=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69106058/apple_fortnite_1984_parody.0.png' width='700px' /><br/>
+An Australian judge has ruled that Epic's lawsuit against Apple in Australia will be temporarily suspended as the two sides prepare for a trial in the US, Gizmodo Australia reported. Apple had asked for a permanent stay of the case in Australia, arguing that the US and Australia cases were very similar, and that the matter should be settled in the original jurisdiction of the United States.
+<a href='https://www.theverge.com/2021/4/10/22377047/epic-case-apple-australia-temporary-stay-fortnite-app-store'> Source <a/>

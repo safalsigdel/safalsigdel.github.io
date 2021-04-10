@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Sv3F3rymM4nf0FOOzjaa5QBcEGg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69103464/acastro_190322_1777_apple_streaming_0002.0.jpg' width='700px' /><br/>
+Senate Judiciary Committee leaders are demanding that Apple provide a witness for an upcoming hearing on app stores and digital competition after the iPhone manufacturer has refused to participate, according to a new letter to the company released Friday.
+<a href='https://www.theverge.com/2021/4/9/22376127/apple-senate-judiciary-hearing-klobuchar-app-store-google-play-antitrust'> Source <a/>

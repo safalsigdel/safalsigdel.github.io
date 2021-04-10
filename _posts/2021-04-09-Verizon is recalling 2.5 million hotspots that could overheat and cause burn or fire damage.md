@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6oOAlLQ-0uvNFMOotCcqvs2pB98=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69097924/acastro_200109_1777_verizon_0004.0.0.jpg' width='700px' /><br/>
-Verizon said Thursday it is working with the Consumer Product Safety Commission (CPSC) to recall 2.5 million hotspot devices after an investigation found the devices' lithium-ion batteries could overheat and pose fire and burn hazards.
-<a href='https://www.theverge.com/2021/4/8/22374252/verizon-recall-hotspots-overheat-burn-fire-damage'> Source <a/>

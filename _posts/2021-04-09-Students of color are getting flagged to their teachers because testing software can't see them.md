@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5uUmaA5MY9m3pfBzMxKqwix8ZAc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69098821/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
-Proctorio, a piece of exam surveillance software designed to keep students from cheating while taking tests, relies on open-source software that has a history of racial bias issues, according to a report by Motherboard. The issue was discovered by a student who figured out how the software did facial detection, and discovered that it fails to recognize black faces over half the time.
-<a href='https://www.theverge.com/2021/4/8/22374386/proctorio-racial-bias-issues-opencv-facial-detection-schools-tests-remote-learning'> Source <a/>

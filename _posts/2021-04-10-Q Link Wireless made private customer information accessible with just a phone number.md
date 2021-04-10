@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TsRFTVVneSRYfEqBN5CQG5-MR1Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69104766/acastro_190228_1777_vpn_0002.0.jpg' width='700px' /><br/>
+A mobile carrier allowed anyone with one of its customers phone numbers to access their personal information, including name, address, phone number, and text and call history, according to a report by Ars Technica. The carrier, Q Link Wireless, claimed to have over two million customers in 2019.
+<a href='https://www.theverge.com/2021/4/9/22376452/q-link-wireless-hello-mobile-customer-data-unlocked-no-password-phone-number'> Source <a/>

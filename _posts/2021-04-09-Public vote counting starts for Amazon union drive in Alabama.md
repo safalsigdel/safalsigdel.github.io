@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E2znQ-wpoClR7OPKLM03s_3I7qs=/0x0:5184x3456/1200x800/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/69097468/1232003507.0.jpg' width='700px' /><br/>
-The National Labor Relations Board (NLRB) has begun publicly tallying votes for a proposed Amazon workers' union in Alabama, which would be the first of its kind nationwide. The count, conducted over Zoom, may not include all potentially eligible ballots, but it will offer an early look at the results.
-<a href='https://www.theverge.com/2021/4/8/22356589/amazon-union-vote-results-bessemer-alabama-rwdsu-bhm1'> Source <a/>

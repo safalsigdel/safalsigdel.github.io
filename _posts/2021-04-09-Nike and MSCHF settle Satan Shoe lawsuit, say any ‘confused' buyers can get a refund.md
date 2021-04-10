@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VAFqjUgrzIB0pqSSXPBogSQs7_c=/0x0:2048x1280/1200x800/filters:focal(861x477:1187x803)/cdn.vox-cdn.com/uploads/chorus_image/image/69098341/Exbfpl2WgAAQkl8_resized.0.jpeg' width='700px' /><br/>
-Nike and the internet collective MSCHF have settled their trademark dispute over a run of unofficially modified Satan-themed Nike sneakers. Neither company disclosed the terms of the deal. But it apparently includes an offer to let customers return their $1,018 “Satan Shoes” — or a pair of MSCHF's earlier “Jesus Shoes” — for a full refund.
-<a href='https://www.theverge.com/2021/4/8/22374480/nike-mschf-lil-nas-x-unauthorized-satan-shoes-lawsuit-settled'> Source <a/>

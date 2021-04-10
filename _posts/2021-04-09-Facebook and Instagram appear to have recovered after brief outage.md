@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZnNjJKv-Ey8BrF2b1pC0T5K_6k0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69098151/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
-Facebook and Instagram were down on Thursday afternoon. The outage appeared to start around 5:30PM ET, with several thousand people reporting outages on DownDetector. The outage is the second one in less than a month from the social media giant; an outage on March 19th took its sites offline for several hours. Facebook returned a “sorry something went wrong” error message:
-<a href='https://www.theverge.com/2021/4/8/22374499/facebook-instagram-outage-down'> Source <a/>
