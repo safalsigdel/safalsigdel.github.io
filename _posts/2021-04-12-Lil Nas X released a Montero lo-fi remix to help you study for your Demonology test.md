@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-In the latest virtuoso move to promote his hit song “Montero (Call Me By Your Name),” Lil Nas X posted a lo-fi remix of the track to YouTube channel Friday evening. According to his Twitter, it's his birthday, and it seems he has given us all this gift in celebration.
-<a href='https://www.theverge.com/tldr/2021/4/9/22376309/lil-nas-x-montero-call-me-by-your-name-lo-fi-remix'> Source <a/>

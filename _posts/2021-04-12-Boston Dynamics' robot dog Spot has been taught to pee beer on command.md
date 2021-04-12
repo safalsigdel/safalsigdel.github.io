@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Boston Dynamics' robot dog Spot exists in two realities. In one, it's a terrifying harbinger of a dystopian future when robots hunt and kill humans. In the other, it's the plaything of YouTubers who teach this robot quadruped to “piss beer” on command.
+<a href='https://www.theverge.com/tldr/2021/4/12/22379501/boston-dynamics-spot-pee-beer-michael-reeves'> Source <a/>

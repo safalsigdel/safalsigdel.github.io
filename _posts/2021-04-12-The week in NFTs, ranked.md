@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2cZyX8eEneXlnkY8Im1CJKmbWJE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69106244/acastro_210329_1777_nft_0003.0.jpg' width='700px' /><br/>
-It's another day in 2021, and so of course it's another day where someone, somewhere is launching an NFT in hopes of making a ton of easy money. This week's NFT launches were headlined by some big names — M.I.A., Tfue, Spike Jonze — and collectively posed the question: can you still, nearly a month after Beeple's blockbuster NFT sale at Christie's, make a stupid amount of cash off these things in part by being in the right place at the right time?
-<a href='https://www.theverge.com/2021/4/10/22375289/the-week-in-nfts-ranked'> Source <a/>

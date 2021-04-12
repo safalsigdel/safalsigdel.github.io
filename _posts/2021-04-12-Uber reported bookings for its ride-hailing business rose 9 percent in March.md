@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W5GcNCvm0dbGrU-OEqmJdQFO264=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69112784/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
+Uber saw record gross bookings in March 2021, according to a filing posted Monday with the Securities and Exchange Commission. The increase may signal the beginning of a comeback for the ride-hailing business, which suffered mightily in 2020 due to the coronavirus pandemic.
+<a href='https://www.theverge.com/2021/4/12/22379610/uber-bookings-ride-hailing-increase-march'> Source <a/>

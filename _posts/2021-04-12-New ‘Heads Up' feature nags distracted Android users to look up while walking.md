@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WBWEfLYRFprBp1gNYC1AyGaZKfU=/0x0:1517x1011/1200x800/filters:focal(638x385:880x627)/cdn.vox-cdn.com/uploads/chorus_image/image/69111705/EyrbTZOVoAUnpai.0.jpg' width='700px' /><br/>
+Android's Digital Wellbeing service is getting a new “Heads Up” feature, which will prompt users to stop staring at their phones while walking, XDA Developers reports. The feature appears to be rolling out to the beta version of the Digital Wellbeing app, and one Twitter user reports receiving the feature on their Pixel 4A device.
+<a href='https://www.theverge.com/2021/4/12/22379419/android-digital-wellbeing-heads-up-walking-google-pixel-4a'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Qgzbpv0sgABHOEZa1knA1eqmCpY=/0x0:1494x795/1200x800/filters:focal(628x279:866x517)/cdn.vox-cdn.com/uploads/chorus_image/image/69102934/Screen_Shot_2021_04_09_at_11.23.25_AM.0.png' width='700px' /><br/>
-Top Gun: Maverick, the sequel to the '80s classic Top Gun starring Tom Cruise, will now premiere on November 19th, according to Deadline. It was previously slated to open on July 2nd — which itself was a delay from December 23rd, 2020.
-<a href='https://www.theverge.com/2021/4/9/22375934/top-gun-maverick-delayed-release-date-paramount-pictures'> Source <a/>

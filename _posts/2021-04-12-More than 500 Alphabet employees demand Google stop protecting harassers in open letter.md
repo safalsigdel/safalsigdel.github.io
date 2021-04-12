@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PGgiv2j1loMyfpuom1BpnrysCYo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69103202/acastro_191014_1777_google_pixel_0001.0.0.jpg' width='700px' /><br/>
-More than 500 Alphabet employees have signed an open letter demanding Google stop protecting the subjects of harassment complaints. The move comes two days after former Google engineer Emi Nietfeld wrote an op-ed in The New York Times alleging that she was forced to have one-on-one meetings with the man who harassed her — and sit next to him in the office — even after she filed an HR complaint.
-<a href='https://www.theverge.com/2021/4/9/22375913/alphabet-employees-open-letter-google-harassers'> Source <a/>

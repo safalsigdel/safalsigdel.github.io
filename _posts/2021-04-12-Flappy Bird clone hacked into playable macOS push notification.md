@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+In a new video, a developer has shown off a playable version of viral hit Flappy Bird running inside a macOS push notification. It's the work of Neil Sardesai, who previously made headlines with a clip of Pong running inside a macOS app icon. The hack has yet to receive a public release, but it's still a neat proof of concept.
+<a href='https://www.theverge.com/tldr/2021/4/12/22379517/macos-push-notification-flappy-bird-playable-browser'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I3XgDJDj6h990xcwe59azdVUGeY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69102352/akrales_201013_4137_0300.0.0.jpg' width='700px' /><br/>
-Google has officially announced a new Pixel phone, the Pixel 5A 5G. It's done so in the same way it has announced a lot of recent Pixel phones: by reacting to a rumor. This time is a little less fun than usual, though, because the rumor in question is that the phone had been canceled entirely. In response, a Google spokesperson sent along the following statement:
-<a href='https://www.theverge.com/2021/4/9/22375780/google-announces-pixel-5a-5g-denying-rumors-cancelled'> Source <a/>

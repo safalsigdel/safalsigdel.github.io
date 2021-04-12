@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YKkTDpPQndTrCYwL7d6Y8LkQTDo=/0x0:2400x2400/1200x800/filters:focal(1458x573:1842x957)/cdn.vox-cdn.com/uploads/chorus_image/image/69102886/GSFC_20171208_Archive_e001861_orig.0.jpg' width='700px' /><br/>
-Acting NASA administrator Steve Jurczyk said Friday that under President Biden's budget request, the agency's Artemis mission has a new goal: in addition to landing the first woman on the Moon, it will also send the first person of color to the lunar surface. So far, the only Earthlings to touch the Moon's surface have been white men.
-<a href='https://www.theverge.com/2021/4/9/22375899/nasa-first-person-of-color-artemis-mission-moon-woman'> Source <a/>

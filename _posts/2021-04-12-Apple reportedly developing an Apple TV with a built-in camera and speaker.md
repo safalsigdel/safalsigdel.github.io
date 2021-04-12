@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qag62RzPAcScZGZHdWsd_r9pCbs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69111970/akrales_170919_1976_0018.0.jpg' width='700px' /><br/>
+Apple is reportedly developing a new TV accessory that combines elements of its Apple TV with a HomePod speaker and camera for video calls, according to a new report from Bloomberg. Alongside it, Apple is also said to be working on a smart speaker with a display, similar to Amazon's Echo Show or Google's Nest Hub. Development of both devices is said to be in its early stages, with plans subject to change.
+<a href='https://www.theverge.com/2021/4/12/22379470/apple-tv-homepod-speaker-camera-video-call-soundbar-rumor-bloomberg'> Source <a/>
