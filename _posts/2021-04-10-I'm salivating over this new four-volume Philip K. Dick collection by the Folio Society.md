@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U4g41B0ePMm-rltjk5GrOT9vNag=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69100274/maxresdefault.0.jpeg' width='700px' /><br/>
-The Folio Society has released a limited-edition, four-volume set of Philip K. Dick's collected short stories and I am seriously considering selling my plasma to buy a copy.
-<a href='https://www.theverge.com/2021/4/9/22375173/philip-k-dick-complete-short-stories-folio-society-edition'> Source <a/>

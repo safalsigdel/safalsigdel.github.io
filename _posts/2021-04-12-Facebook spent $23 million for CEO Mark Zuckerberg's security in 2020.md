@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BxA3f-dxx4UmGxOCNE_7P4V7fAs=/0x0:5157x3438/1200x800/filters:focal(880x1246:1704x2070)/cdn.vox-cdn.com/uploads/chorus_image/image/69106641/1201476988.0.jpg' width='700px' /><br/>
+A new filing with the Securities and Exchange Commission shows that Facebook spent more than $23 million last year on security for CEO Mark Zuckerberg. Facebook's annual reviews of company security “identified specific threats to Mr. Zuckerberg,” according to a  proxy statement filed Friday.
+<a href='https://www.theverge.com/2021/4/10/22377209/facebook-spent-23-million-mark-zuckerberg-security'> Source <a/>

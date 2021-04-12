@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j1TPMgTORyhEM0St_P1UrqV71Uk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69108689/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google reportedly ran a secret project called “Project Bernanke” that relied on bidding data collected from advertisers using its ad exchange to benefit the company's own ad system, The Wall Street Journal reported. First discovered by newswire service MLex, the name of the project was visible in an inadvertently unredacted document Google had filed as part of an antitrust lawsuit in Texas.
+<a href='https://www.theverge.com/2021/4/11/22378296/google-secret-project-bernanke-ad-buying-competitors-texas'> Source <a/>

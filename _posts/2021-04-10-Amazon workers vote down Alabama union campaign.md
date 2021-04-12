@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NZLy4lDqxQ1yeneC6y0FuU2d9C0=/0x0:5154x3436/1200x800/filters:focal(2165x1306:2989x2130)/cdn.vox-cdn.com/uploads/chorus_image/image/69101470/1232001976.0.jpg' width='700px' /><br/>
-Amazon employees at a Bessemer, Alabama warehouse have voted against unionizing the facility's roughly 5,800-person workforce.
-<a href='https://www.theverge.com/2021/4/9/22374540/amazon-union-vote-outcome-bessemer-alabama-rwdsu-bhm1'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kLb1Gl0C-NmaZWdrT2yyOBNuRUM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69109995/acstro_190902_apple_event_0004.0.0.jpg' width='700px' /><br/>
+After several senators criticized the company, Apple said on Sunday it would send its chief compliance officer to an April 21st hearing before the Senate Judiciary Committee, the office of Sen. Amy Klobuchar (D-MN) confirmed.
+<a href='https://www.theverge.com/2021/4/11/22378697/apple-witness-senate-judiciary-hearing-antitrust-app-stores'> Source <a/>

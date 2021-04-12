@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JQyRpjl5_n93WF6iTCNXR56aMv0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69101382/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
-There is plenty that scientists don't understand about the long-term effects of COVID-19 on society. But a year in, at least one thing seems clear: the pandemic has been terrible for our collective mental health — and a surprising number of tech platforms seem to have given the issue very little thought.
-<a href='https://www.theverge.com/2021/4/9/22375409/mental-health-crisis-tech-companies-self-harm-platform-policy'> Source <a/>

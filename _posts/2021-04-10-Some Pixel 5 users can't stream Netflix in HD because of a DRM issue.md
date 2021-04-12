@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QsmhHHaghR797-8T7PZxocACXjw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69102064/akrales_201012_4137_0010.0.0.jpg' width='700px' /><br/>
-Some Pixel 5 owners are apparently experiencing a bug with Google's Widevine DRM platform that's causing their phones to only play back Netflix videos in standard definition, instead of the usual HD and HDR10 quality that they should be.
-<a href='https://www.theverge.com/2021/4/9/22375527/pixel-5-users-hd-netflix-drm-widevine-issue-firmware-fix'> Source <a/>

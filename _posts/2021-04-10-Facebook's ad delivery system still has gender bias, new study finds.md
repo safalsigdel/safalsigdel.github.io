@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KMIPnXrIxnXUJvI2ui6ksYpKVfA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69101534/mdoying_180118_2249_facebook_0445stills_3.0.jpg' width='700px' /><br/>
-An audit by researchers at the University of Southern California found that Facebook's ad delivery system discriminates against women, showing them different ads than it shows to men and excluding women from seeing some ads.
-<a href='https://www.theverge.com/2021/4/9/22375366/facebook-ad-gender-bias-delivery-algorithm-discrimination'> Source <a/>

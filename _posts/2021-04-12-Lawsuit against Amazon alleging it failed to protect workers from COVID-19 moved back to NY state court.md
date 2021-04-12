@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AR6ZhmiIoYTFcoEk9ceg8fnercQ=/0x0:5650x3790/1200x800/filters:focal(2373x1443:3277x2347)/cdn.vox-cdn.com/uploads/chorus_image/image/69106853/1124819745.0.jpg' width='700px' /><br/>
+A federal judge has granted the New York attorney general's request to move a lawsuit against Amazon back to New York state court, Reuters reported. AG Letitia James' lawsuit alleges that the ecommerce giant failed to protect workers at its Brooklyn and Staten Island warehouses from COVID-19 during the early months of the pandemic, and retaliated against employees who complained about the lack of safety measures.
+<a href='https://www.theverge.com/2021/4/10/22377308/lawsuit-amazon-protect-workers-covid-19-new-york-warehouse-smalls-jfk8'> Source <a/>
