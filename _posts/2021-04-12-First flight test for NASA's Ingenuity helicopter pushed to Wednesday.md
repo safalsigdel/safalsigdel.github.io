@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9AjDuMjeZjgfp_XIguoZKZoD__Y=/0x0:1578x1176/1200x800/filters:focal(663x462:915x714)/cdn.vox-cdn.com/uploads/chorus_image/image/69106685/PIA24581.0.jpeg' width='700px' /><br/>
-NASA engineers have decided to delay the Ingenuity helicopter's debut flight on Mars to at least Wednesday, April 14th, after running into a minor computer glitch during a rotor spin test late Friday night, the agency said on Saturday. The tiny craft is healthy, but engineers need some more time to review telemetry data from the unexpected hiccup before proceeding.
-<a href='https://www.theverge.com/2021/4/10/22377299/nasa-ingenuity-mars-helicopter-flight-delayed-wednesday'> Source <a/>
