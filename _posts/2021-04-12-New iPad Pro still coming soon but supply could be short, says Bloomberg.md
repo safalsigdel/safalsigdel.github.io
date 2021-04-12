@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3usaUdG2AGTjycY1IvttHCJpGHg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69111527/akrales_181101_3064_0078.0.jpg' width='700px' /><br/>
+Apple's next iPad Pro may face supply constraints at launch due to issues in production, according to a new report in Bloomberg. Apple's suppliers are said to be having trouble with low manufacturing yields for the new Mini LED display rumored to be the key feature of the new 12.9-inch model; one manufacturer has reportedly paused production.
+<a href='https://www.theverge.com/2021/4/12/22379337/new-ipad-pro-mini-led-production-issues-date-report'> Source <a/>
