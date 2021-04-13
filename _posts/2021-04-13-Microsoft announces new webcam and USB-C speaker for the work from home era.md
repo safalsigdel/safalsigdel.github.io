@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xbJYTsCfD7svpdEi4RYo8aZtRs8=/0x0:2379x1586/1200x800/filters:focal(1000x603:1380x983)/cdn.vox-cdn.com/uploads/chorus_image/image/69117963/microsoftmodernwebcam.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/WLCM1lMzUr7g3h6ZWP9qDFPxlw0=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69117963/microsoft_webcams.5.jpg' width='700px' /><br/>
 Microsoft's long-awaited new webcam is finally here, alongside a number of accessories designed for the work from home era. Rumors of a new Microsoft webcam have been circulating for years, and the result is what Microsoft calls the Modern Webcam. It's a fairly basic and affordable 1080p webcam that will start shipping for $69.99 in June.
 <a href='https://www.theverge.com/22381422/microsoft-new-webcam-headsets-usb-c-speaker-features-price-specs-release-date'> Source <a/>

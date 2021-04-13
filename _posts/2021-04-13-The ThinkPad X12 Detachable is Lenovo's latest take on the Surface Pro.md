@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cYJkR57qgGBQCbySGPSi8k59iV0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69118376/mchin_20190703_4517_0003.0.jpg' width='700px' /><br/>
+You could line up most ThinkPad models of the past few years and the average laptop buyer might have difficulty telling the difference between them. Lenovo has the look, feel, and features of its premium business line down to a science, and it has attracted a devoted base of fans in doing so.
+<a href='https://www.theverge.com/22376272/lenovo-thinkpad-x12-detachable-review'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k0hU_AHmHjdrW2parfEOZgfR7P0=/0x0:4032x2699/1200x800/filters:focal(2035x935:2679x1579)/cdn.vox-cdn.com/uploads/chorus_image/image/69115990/IMG_1181.0.jpeg' width='700px' /><br/>
-The Google Play Movies and TV app will no longer be available on any Roku set-top box or any Samsung, LG, Vizio or Roku smart TV starting July 15th, Google has announced (via 9to5Google). If you have movies or TV shows purchased or rented through the service, you'll still be able to access them through the “Your movies and shows” section of the YouTube app on those devices.
-<a href='https://www.theverge.com/2021/4/12/22380593/google-play-movies-tv-app-smart-tvs-roku-samsung-lg-vizio-youtube-support'> Source <a/>
