@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EgN-0PTsf7CqxSGsxcfjhP4zyks=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69118193/acastro_210412_4523_0002.0.jpg' width='700px' /><br/>
+Google has worked for years to position itself as a responsible steward of AI. Its research lab hires respected academics, publishes groundbreaking papers, and steers the agenda at the field's biggest conferences. But now its reputation has been badly, perhaps irreversibly damaged, just as the company is struggling to put a politically palatable face on its empire of data.
+<a href='https://www.theverge.com/2021/4/13/22370158/google-ai-ethics-timnit-gebru-margaret-mitchell-firing-reputation'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Meet Kyndryl — which, despite the name, is not a new legendary pokxc3xa9mon or a futuristic fake pharmaceutical from Cyberpunk 2077. No, Kyndryl is the new name for IBM's legacy IT infrastructure business, which the company is spinning off into a new company to allow the main company to focus on its newer (and more lucrative) areas of emphasis, like AI and cloud services.
-<a href='https://www.theverge.com/tldr/2021/4/12/22380114/kyndryl-ibm-it-spinoff-name-infrastructure-branding'> Source <a/>
