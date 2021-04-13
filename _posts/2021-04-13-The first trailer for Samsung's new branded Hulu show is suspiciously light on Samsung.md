@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IZCxC15Cb4fW8GcaswHpjhXpdc8=/0x0:2228x1154/1200x800/filters:focal(936x399:1292x755)/cdn.vox-cdn.com/uploads/chorus_image/image/69115758/Screen_Shot_2021_04_12_at_5.45.38_PM.0.png' width='700px' /><br/>
-The first trailer for Exposure — the upcoming, Samsung-branded reality TV show from Hulu that's one part photography competition, one part Galaxy S21 Ultra advertisement — is here. But for a show that's been paid for by Samsung explicitly to highlight the power of the cameras on Samsung's phones, it's almost suspiciously light on Samsung branding.
-<a href='https://www.theverge.com/2021/4/12/22380704/samsung-branded-hulu-show-exposure-trailer'> Source <a/>
