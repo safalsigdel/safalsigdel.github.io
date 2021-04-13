@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iMa3Gi1R988kBlXui6xzD4hwsTo=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/69117953/acarman_20210412_4524_0003.0.jpg' width='700px' /><br/>
+Spotify's first gadget has landed. Car Thing, a Spotify-only, voice-controlled device for the car, is launching today in limited quantities to invited users. It's a dedicated, Bluetooth-connected device for controlling Spotify without the need for a phone screen, which seems to be meant for people who drive older cars without built-in infotainment systems or phone connections.
+<a href='https://www.theverge.com/2021/4/13/22380014/spotify-car-thing-release-voice-control-data-interactive-ads'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ryogb0PaaeS8fmZOKGAHakj2OIE=/0x0:4000x4000/1200x800/filters:focal(1680x1680:2320x2320)/cdn.vox-cdn.com/uploads/chorus_image/image/69117987/XPS_13_black_open_up_right.0.jpg' width='700px' /><br/>
+Dell has unveiled a new XPS 13 option with an OLED touchscreen that is available for purchase today. The feature will cost an extra $300 over FHD models. (Note: This isn't a brand-new XPS. It's just an OLED version of the 9310 that came out last year.)
+<a href='https://www.theverge.com/2021/4/13/22369101/dell-xps-13-oled-price-specs-release-date'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7nfcoodmZ6gL2Cjcl4PMFeEp6lg=/0x0:5129x3420/1200x800/filters:focal(1863x1390:2683x2210)/cdn.vox-cdn.com/uploads/chorus_image/image/69113805/nuro_03.0.jpg' width='700px' /><br/>
-Domino's Pizza will start delivering pizzas via Nuro driverless cars in Houston this week as part of a pilot program, the company announced Monday. The company says “select customers” in Houston who make a prepaid delivery order from its store in the Woodland Heights neighborhood during certain dates and times can have their pizza brought to them by a Nuro R2 robot.
-<a href='https://www.theverge.com/2021/4/12/22379853/nuro-self-driving-robot-delivery-dominos-pizza-houston'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VGz2jpS9HyQMBuYPBpPkAtvmLB8=/0x0:2048x1152/1200x800/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/69114323/AAAABWHl6sE3EmgkjAhahgMimzoBzTJZLXHhEDPhWBTcTUc4a3qZxQdws5y_i3LQrBJlPR2952KvvGWjt_BwxLTUHDtD0qNf.0.jpeg' width='700px' /><br/>
-Gundam is about to make the jump to live action in a big way — Legendary Pictures is working on a feature film version of Sunrise's incredibly popular mech suit anime for Netflix, set to be directed by Jordan Vogt-Roberts (best known for his work on Kong: Skull Island.)
-<a href='https://www.theverge.com/2021/4/12/22380140/netflix-live-action-gundam-movie-jordan-vogt-roberts-legendary-sunrise'> Source <a/>

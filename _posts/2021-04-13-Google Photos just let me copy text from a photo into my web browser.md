@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3BpcCpqpSA40PuUmBu9s8tnbc1Y=/0x0:2040x1360/1200x800/filters:focal(1146x380:1472x706)/cdn.vox-cdn.com/uploads/chorus_image/image/69114735/akrales_201012_4137_0073.0.0.jpg' width='700px' /><br/>
-The desktop Google Photos website seems to be getting the ability to scan for text in an image and turn it into copy-and-pasteable text, thanks to Google's Lens technology (via 9to5Google). Lens has been available in many places on Android for a while, but its optical character recognition (OCR) feature coming to the desktop could make Google Photos an easy and free way to get real-life text onto your computer.
-<a href='https://www.theverge.com/2021/4/12/22380086/google-photos-desktop-ocr-images-copy-text-lens'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FC8vINRHzqESRpkfpGvsBBQ6vDA=/0x0:2000x1045/1200x800/filters:focal(840x363:1160x683)/cdn.vox-cdn.com/uploads/chorus_image/image/69114361/tesla_solar_roof_smooth_glass.0.jpg' width='700px' /><br/>
-Tesla has dramatically increased the price for its solar roof, angering some customers who have responded by canceling their orders. The news was first reported over the weekend by Electrek.
-<a href='https://www.theverge.com/2021/4/12/22380057/tesla-solar-roof-price-increase-contract-amount'> Source <a/>
