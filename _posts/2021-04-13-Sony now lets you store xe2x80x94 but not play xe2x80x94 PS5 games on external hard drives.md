@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Vojbh-CMLvbCXKv_8btHSSfLQ2k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69117840/vpavic_4261_20201023_0018.0.jpg' width='700px' /><br/>
+Sony has released its April update for the PlayStation 5, adding several key features to the next-generation console, including the long-awaited ability to store — but crucially, not play — PS5 games on an external hard drive.
+<a href='https://www.theverge.com/2021/4/13/22381494/sony-ps5-april-update-games-external-usb-storage-social-features'> Source <a/>

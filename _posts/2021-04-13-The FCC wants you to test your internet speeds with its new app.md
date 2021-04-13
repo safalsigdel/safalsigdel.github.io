@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V2Ov-l2SUYF3_Wyhxn_T1sT-C_E=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69113496/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
-The Federal Communications Commission has released a new speed test app to help measure internet speeds across the country, available on both Android and iOS.
-<a href='https://www.theverge.com/2021/4/12/22379848/fcc-speed-test-app-google-apple-download-broadband-maps-coverage'> Source <a/>

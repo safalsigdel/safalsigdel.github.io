@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X9vqrQgQUI5sn2P54RzqabaAsR8=/0x0:5817x3878/1200x800/filters:focal(2444x1474:3374x2404)/cdn.vox-cdn.com/uploads/chorus_image/image/69117844/1227710498.0.jpg' width='700px' /><br/>
+Federal agencies recommended that the United States pause use of the Johnson & Johnson COVID-19 vaccine until authorities can gather more information about reports of a rare blood clotting disorder in six people who received the shot.
+<a href='https://www.theverge.com/2021/4/13/22381469/covid-vaccine-pause-blood-clots-johnson-fda-cdc'> Source <a/>
