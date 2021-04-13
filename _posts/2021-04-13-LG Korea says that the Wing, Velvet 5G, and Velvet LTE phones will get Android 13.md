@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3QKLfUcyOD-1IqvlXdODRzFGn28=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69115028/cgartenberg_201022_4254_0009.0.0.jpg' width='700px' /><br/>
+LG's Korean website now lists which phones the company plans to update to Android 12, along with a few devices which will even get Android 13. These upgrades will most likely come long after the company's mobile industry exit, announced last week. Phone Arena spotted the updated FAQ, which previously stated that some models would get the OS upgrade to 12.
+<a href='https://www.theverge.com/2021/4/12/22380088/lg-android-13-velvet-wing-korea-5g-lte'> Source <a/>

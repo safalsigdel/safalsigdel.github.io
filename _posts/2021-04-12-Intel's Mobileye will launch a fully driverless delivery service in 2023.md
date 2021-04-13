@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WP6TmOgBDTmS8gpn_MTi5VEo21Y=/0x0:2640x1720/1200x800/filters:focal(1109x649:1531x1071)/cdn.vox-cdn.com/uploads/chorus_image/image/69112385/Udelv_Driven_by_Mobileye_night.0.png' width='700px' /><br/>
-Mobileye, the company that specializes in chips for vision-based autonomous vehicles, announced that it will launch a full-scale, fully driverless delivery service starting in 2023. The company, a subsidiary of Intel, is joining forces with self-driving delivery startup Udelv to run this new service.
-<a href='https://www.theverge.com/2021/4/12/22375759/intel-mobileye-udelv-autonomous-vehicle-delivery-2023'> Source <a/>

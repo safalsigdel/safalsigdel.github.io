@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yY_1HIzgUcpergi3j5xiASG2RU0=/0x0:2362x1575/1200x800/filters:focal(993x600:1369x976)/cdn.vox-cdn.com/uploads/chorus_image/image/69114428/1232204791.0.jpg' width='700px' /><br/>
+Uber CEO Dara Khosrowshahi said on CNBC Monday that the ride-hailing company would consider getting into cannabis delivery “when the road is clear.”
+<a href='https://www.theverge.com/2021/4/12/22380003/uber-weed-deliveries-cannabis-ceo'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/93HYLDaudRwdyw4dgZhSj47_3wA=/0x0:1020x676/1200x800/filters:focal(429x257:591x419)/cdn.vox-cdn.com/uploads/chorus_image/image/69112250/microsoftlogostock1_1020.0.0.jpg' width='700px' /><br/>
-Microsoft is buying AI speech tech firm Nuance for $19.7 billion, bolstering the Redmond, Washington-based tech giant's prowess in voice recognition and giving it further leverage in the health care market, where Nuance sells many products. Microsoft will pay $56 per share for Nuance, a 23 percent premium over the company's closing price last Friday. The deal includes Nuance's net debt.
-<a href='https://www.theverge.com/2021/4/12/22379414/microsoft-buys-nuance-ai-speech-tech'> Source <a/>

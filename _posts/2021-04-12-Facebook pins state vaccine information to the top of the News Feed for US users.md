@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-ckrYIa6MLzlYy2lfJfFPPFE4gU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69113472/mdoying_180118_2249_facebook_0445stills_3.0.jpg' width='700px' /><br/>
-As all adults across the US become eligible to receive a COVID-19 vaccine, Facebook is making it easier for its users to find information based on where they live. The company has started rolling out a feature that pins a box with state-specific information about where to get a COVID-19 vaccine at the top of the News Feed for every US user living in a state where the general public is eligible to receive the shot.
-<a href='https://www.theverge.com/2021/4/12/22379710/facebook-us-state-covid-19-vaccine-information'> Source <a/>

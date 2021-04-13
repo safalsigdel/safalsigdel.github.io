@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RdFe7lZzHZwY2jzuoFs37W9bS3U=/0x0:4608x3456/1200x800/filters:focal(2189x2130:2925x2866)/cdn.vox-cdn.com/uploads/chorus_image/image/69108821/1070303268.0.jpg' width='700px' /><br/>
-South Korean electric-vehicle battery makers SK Innovation and LG Energy Solution have reached a settlment in a US trade dispute, Bloomberg reported. Under the terms of the agreement, SK will pay $1.8 billion (2 trillion won) in cash and royalties to LG.
-<a href='https://www.theverge.com/2021/4/11/22378323/south-korea-ev-battery-settlement-trade-dispute'> Source <a/>

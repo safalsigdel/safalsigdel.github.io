@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j2bY8d6UKFwgL8_gB6sHRL8rGL0=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/69108913/1232148642.0.jpg' width='700px' /><br/>
-Clubhouse CEO Paul Davison said Sunday that a report claiming personal user data had been leaked was “false.”  Cyber News reported a SQL database with users' IDs, names, usernames, Twitter and Instagram handles and follower counts were posted to an online hacker forum. According to Cyber News, it did not appear that sensitive user information such as credit card numbers were among the leaked info.
-<a href='https://www.theverge.com/2021/4/11/22378302/personal-information-1-million-clubhouse-users-leaked-privacy-security'> Source <a/>

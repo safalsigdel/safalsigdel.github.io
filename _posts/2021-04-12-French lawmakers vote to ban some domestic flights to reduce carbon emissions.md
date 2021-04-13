@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ybeuY6U1g_F0r1rhN3fUCxckUfI=/0x0:8192x5102/1200x800/filters:focal(3441x1896:4751x3206)/cdn.vox-cdn.com/uploads/chorus_image/image/69109694/1229782254.0.jpg' width='700px' /><br/>
-French lawmakers have voted to ban domestic flights on routes that could be taken in a train ride in less than two-and-a-half hours, Reuters reported. The vote late Saturday comes as part of France's larger climate bill, which seeks to reduce its 1990-level carbon emissions by 40 percent over the next decade.
-<a href='https://www.theverge.com/2021/4/11/22378623/french-lawmakers-vote-ban-domestic-flights'> Source <a/>

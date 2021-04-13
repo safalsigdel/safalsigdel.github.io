@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hU_x_sfBirNZlb4UAcYdAfN0WE8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69109240/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
-Google is shutting down its mobile Shopping apps for both iOS and Android and directing users to its web Shopping site instead, 9to5 Google reported. On Friday, Xda Developers discovered that the term “sunset” had been added to several strings of code in the Shopping app, suggesting the apps were being discontinued.
-<a href='https://www.theverge.com/2021/4/11/22378483/google-shut-down-mobile-shopping-apps-ios-android'> Source <a/>

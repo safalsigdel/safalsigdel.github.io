@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Je_I6iwC3CuzfB820w8oSqNwVBc=/0x0:1308x818/1200x800/filters:focal(550x305:758x513)/cdn.vox-cdn.com/uploads/chorus_image/image/69115589/Airbnb_Flag.0.0.png' width='700px' /><br/>
+Airbnb is attempting to put the kibosh on disruptive post-vaccine summer parties by launching its “Summer of Responsible Travel” plan, focused on offering more support to hosts and their neighbors, and adjusting its policies to prevent Airbnbs from being used for things other than calm, socially distanced stays.
+<a href='https://www.theverge.com/2021/4/12/22379885/airbnb-summer-responsible-travel-community-support-fno-parties-pandemic'> Source <a/>

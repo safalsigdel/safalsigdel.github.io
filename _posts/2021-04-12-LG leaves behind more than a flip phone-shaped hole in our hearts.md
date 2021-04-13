@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VX0chn5ZF_VYSovrdKfQ6Nhwegg=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69108723/ajohnson_210222_4437__005.0.jpg' width='700px' /><br/>
-LG's exit from the smartphone business felt inevitable in the weeks leading up to it as rumors mounted. When it was finally confirmed, Avi Greengart, a longtime consumer tech analyst and president of Techsponential, noticed a trend toward nostalgia in the reactions to the news.
-<a href='https://www.theverge.com/2021/4/11/22375938/lg-smartphone-business-exit-tcl-motorola'> Source <a/>

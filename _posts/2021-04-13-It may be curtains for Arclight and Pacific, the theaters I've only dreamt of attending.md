@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HeRGYATwoYfoaKlTVVJFtZjd26U=/0x0:4845x2989/1200x800/filters:focal(2036x1108:2810x1882)/cdn.vox-cdn.com/uploads/chorus_image/image/69116854/1219631225.0.jpg' width='700px' /><br/>
+The owner of famous movie theater chains Arclight Cinemas and Pacific Theaters has revealed that the theaters will never reopen from their COVID shutdowns, according to Variety. Decurian, the company that operates both chains, gave a dire statement to Deadline: it includes phrases like “exhausted all potential options” and “does not have a viable way forward.”
+<a href='https://www.theverge.com/2021/4/12/22381031/arclight-cinema-pacific-theaters-permanent-closure-movies'> Source <a/>

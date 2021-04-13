@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U50WVBciBWXWny2Uh5kkKgxhzVU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69112644/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Multiple Google services are currently experiencing outages, with some users unable to create new documents in Google Docs and Google Sheets. Google's Workspace Status Dashboard is reporting that Drive, Docs, Sheets, Slides, and Classroom are all experiencing service disruptions.
-<a href='https://www.theverge.com/2021/4/12/22379701/google-docs-down-drive-sheets-slides-outage-classroom'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MXVt0ZRWLVK8F6WDkBI-0rEyeS0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69116432/akrales_190930_3689_0120.0.jpg' width='700px' /><br/>
+The PC market had a great first quarter, despite the global shortage of semiconductor chips. Research firm Gartner estimates that shipments of “traditional PCs,” meaning laptops and desktops, are up by 32 percent compared to Q1 2020 (via CNBC). IDC puts the number even higher, estimating 55 percent growth year-over-year. This seems to be the continuation of a trend — the PC market had a great 2020 as well.
+<a href='https://www.theverge.com/2021/4/12/22380920/pc-market-q1-growth-year-over-year-chip-shortage-covid-demand'> Source <a/>

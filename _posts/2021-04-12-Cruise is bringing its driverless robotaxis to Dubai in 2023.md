@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LdckkXRaoI6a9D0Pq7I31WSZs5E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69111723/vpavic_200121_3874_0010.0.jpeg' width='700px' /><br/>
-Cruise, the autonomous vehicle company backed by General Motors and Honda, will launch its first international robotaxi service in Dubai. The company will start testing its vehicles in the kingdom in 2023, with plans to launch a commercial ride-hailing service soon after — though it hasn't specified an actual date. The news was announced early Monday by Dubai's crown prince, Hamdan bin Mohammed.
-<a href='https://www.theverge.com/2021/4/12/22376258/cruise-autonomous-vehicles-robotaxi-dubai-2023'> Source <a/>

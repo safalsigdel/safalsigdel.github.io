@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m_HrV2OBdUkIH4tuSgO9G6Mn_18=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69111944/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Governments and politicians around the world are using a loophole in how Facebook polices inauthentic activity to fake popular support and harass opponents.
-<a href='https://www.theverge.com/2021/4/12/22379447/facebook-fake-engagement-politicians-authoritarian-support-loophole'> Source <a/>

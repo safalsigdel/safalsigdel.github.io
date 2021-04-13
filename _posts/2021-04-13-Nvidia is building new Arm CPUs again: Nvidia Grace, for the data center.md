@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+We've barely heard a peep out of Nvidia on the CPU front for years, after the lackluster arrival of its Project Denver CPU and its associated Tegra K1 mobile processors in 2014. But now, the company's getting back into CPUs in a big way with the new Nvidia Grace, an Arm-based processing chip specifically designed for AI data centers.
+<a href='https://www.theverge.com/circuitbreaker/2021/4/12/22380065/nvidia-grace-cpu-arm-data-center-ai-hpc'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2dOX-Apl4m7KDlDnsNrb66N10Gc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69116446/vpavic_200907_4181_0010_1.0.jpg' width='700px' /><br/>
+Samsung's next Galaxy Z Fold folding phone might have a slightly smaller screen than its previous models, feature a smaller battery, and quite possibly launch in July alongside a new Galaxy Z Flip, The Elec reports (via XDA Developers).
+<a href='https://www.theverge.com/2021/4/12/22380763/samsung-folding-phone-galaxy-z-fold-3-smaller-screen-battery'> Source <a/>

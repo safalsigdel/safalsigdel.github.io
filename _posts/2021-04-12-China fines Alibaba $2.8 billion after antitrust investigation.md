@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wrXHHLa5wQ-9FfUB6mm6U83pRO4=/0x0:3500x2333/1200x800/filters:focal(1302x392:1862x952)/cdn.vox-cdn.com/uploads/chorus_image/image/69107212/1311787370.0.jpg' width='700px' /><br/>
-China has hit Alibaba, one of the country's biggest online retailers, with a record $2.8 billion (18.2 billion yuan) fine, after an investigation found the ecommerce giant violated China's anti-monopoly law, The New York Times reported. The fine, which represents 4 percent of Alibaba's 2019 domestic sales, is three times higher than the $975 million fine China imposed on US chip company Qualcomm back in 2015.
-<a href='https://www.theverge.com/2021/4/10/22377500/china-fines-alibaba-2-8-billion-anitrust'> Source <a/>
