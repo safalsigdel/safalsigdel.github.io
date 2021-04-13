@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VhVv4tGRxyYn_uigBUXTGmJDi-w=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69118222/Ey2xMmAWEAEiOCA.0.jpg' width='700px' /><br/>
+Aloy, star of Sony's 2017 open-world hit Horizon Zero Dawn, will soon be dropping on Fortnite's battle royale island. The character will be available in the game's item shop starting on April 15th, with a bundle that includes cosmetics like a Glinthawk glider. Given that Horizon takes place in a world that's both sci-fi and prehistoric, Aloy should feel right at home in Fortnite's current “Primal” season.
+<a href='https://www.theverge.com/2021/4/13/22381590/horizon-zero-dawn-aloy-fortnite'> Source <a/>
