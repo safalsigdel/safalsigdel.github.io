@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xZu8SQNmJ3V7n1Js1-nsl8meI8o=/0x0:5700x3800/1200x800/filters:focal(2394x1444:3306x2356)/cdn.vox-cdn.com/uploads/chorus_image/image/69113079/GM_Maps_.0.jpg' width='700px' /><br/>
-General Motors is launching a new in-car mapping service for nearly 1 million of its vehicles. The new service is called Maps Plus, and it will be powered by Mapbox, the open-source-based map provider that competes against Google and Here for enterprise deals for customized and in-app maps.
-<a href='https://www.theverge.com/2021/4/12/22379662/gm-maps-plus-mapbox-navigation-alexa-spotify'> Source <a/>
