@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rWYKs02kWec3zk2L5IOuHvCfbrA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69118040/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
+The Facebook Oversight Board will now allow users to appeal for posts to be taken down from the platform, a significant expansion of the Oversight Board's scope. For the first six months of the Oversight Board, users could only appeal to have content restored to the platform after it had been removed by Facebook moderators. Now, the board will also hear appeals for content that Facebook moderators have left in place.
+<a href='https://www.theverge.com/2021/4/13/22381499/facebook-oversight-board-remove-posts-appeals'> Source <a/>
