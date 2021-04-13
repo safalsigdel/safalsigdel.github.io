@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8MtVNvpIVYJbqYgByyA9suO6UOk=/0x0:3651x2434/1200x800/filters:focal(627x1086:1211x1670)/cdn.vox-cdn.com/uploads/chorus_image/image/69115151/1229897073.0.jpg' width='700px' /><br/>
-Salesforce said Monday that it will reopen its San Francisco headquarters in May, but its employees can still work remotely through the end of the year.
-<a href='https://www.theverge.com/2021/4/12/22380435/salesforce-reopen-san-francisco-headquarters-may-coronavirus-silicon-valley'> Source <a/>
