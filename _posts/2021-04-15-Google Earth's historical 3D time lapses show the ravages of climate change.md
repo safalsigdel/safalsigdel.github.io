@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pZNrY4EkUdGHv1Aeg3JqUikomdw=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69130057/Columbia_Glacier_BG_1.0.jpg' width='700px' /><br/>
+Google Earth is getting a new 3D time-lapse feature that lets you observe how Earth has changed from 1984 to 2020, allowing you to see just how much the devastating effects of climate change have already shaped the geography of the planet.
+<a href='https://www.theverge.com/2021/4/15/22383964/google-earth-3d-timelapse-climate-change'> Source <a/>
