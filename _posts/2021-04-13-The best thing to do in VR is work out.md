@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zOda7dBB7XEMoitJmXhqYMcmMqg=/0x0:2050x1367/1200x675/filters:focal(788x559:1116x887)/cdn.vox-cdn.com/uploads/chorus_image/image/69118028/VRG_ILLO_4503_Decoder_ChrisMilk_site.0.jpg' width='700px' /><br/>
-In the pandemic we've had to shift our lives to be socially distant — we work remotely, we shop online, and we workout at home. Last year, I signed up for a virtual reality workout app called Supernatural, which runs on the Oculus Quest. Now my wife and I use our Quest 2 almost every day to work out in VR. It feels like we're leaving the house, the music is great, and the workouts are no joke.
-<a href='https://www.theverge.com/22379859/vr-virtual-reality-fitness-work-out-supernatural-chris-milk-interview'> Source <a/>

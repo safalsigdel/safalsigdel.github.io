@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/249MpnJ-vvmFVmdc7-cl6S-QL0w=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/69117301/image__5_.0.jpg' width='700px' /><br/>
-Siri appears to have spilled the beans on the next Apple launch event. MacRumors was first to report that asking the voice assistant “When is the next Apple Event” prompts it to say April 20th. We've managed to get the same response, though only on a device that's associated with a US Apple ID. Apple typically announces its events with invites sent out a week in advance, meaning the news should become official later today.
-<a href='https://www.theverge.com/2021/4/13/22381336/siri-apple-event-april-20th-ipad-pro-announcement-launch'> Source <a/>

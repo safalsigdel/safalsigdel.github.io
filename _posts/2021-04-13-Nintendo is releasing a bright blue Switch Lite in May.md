@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g0QbXR5YOViLO0zgkCeMYvHush0=/0x0:2149x1782/1200x800/filters:focal(904x720:1246x1062)/cdn.vox-cdn.com/uploads/chorus_image/image/69118258/Ey2xDXCWgAEIka8.0.jpg' width='700px' /><br/>
-Nintendo has announced a new color for its portable-only Switch Lite. The new hue is “blue,” which looks pretty close to the Game Boy's “pocket blue” color variant. The new color could also be inspired by Pantone's decision to name “classic blue” the Color of the Year for 2020.
-<a href='https://www.theverge.com/2021/4/13/22381575/nintendo-switch-lite-new-color-blue-price-release-date'> Source <a/>

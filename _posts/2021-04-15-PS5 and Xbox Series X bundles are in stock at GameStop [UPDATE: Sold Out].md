@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WetV-4UWsNN3WVDNJbnAf601H94=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69126268/vpavic_4261_20201023_0068.0.jpg' width='700px' /><br/>
+Update: April 14th, 2021 3:04PM ET: Bundles for both the PS5 and Xbox Series X are now sold out at GameStop.
+<a href='https://www.theverge.com/2021/4/14/22384062/ps5-and-xbox-series-x-bundle-restocks-gamestop'> Source <a/>

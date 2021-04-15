@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9565/dseifert-4521-oneplus-watch-6.jpg' width='700px' /><br/>
-What makes a smartwatch “smart”? Is it the ability to show you notifications from your phone? What about the ability to track your physical activity and wellness, such as step counts, workouts, and sleep? How about providing you information about your day, such as the weather and upcoming calendar events? Or perhaps it's the inclusion of a voice assistant on your wrist that you can ask to do things without having to use your phone?
-<a href='https://www.theverge.com/22380322/oneplus-watch-review-price-specs-features'> Source <a/>

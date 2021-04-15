@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+A city in France has had a real rollercoaster of a week, after its Facebook page was accidentally deleted for violating the terms and conditions of the site. Of course, the city of Bitche, France (in the Moselle department in northeastern France) hadn't done anything in particular to violate any of Facebook's rules — it just sounded a whole lot like it did.
+<a href='https://www.theverge.com/tldr/2021/4/14/22383541/facebook-bitche-france-page-city-profranity-censorship-moderation'> Source <a/>

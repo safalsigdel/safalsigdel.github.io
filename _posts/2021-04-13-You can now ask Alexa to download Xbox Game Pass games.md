@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GJP8sMBxTkr5UfMhMjuQ9cxqkj8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69118072/acastro_180510_1777_alexa_0001.0.jpg' width='700px' /><br/>
-Amazon is now allowing Xbox owners to download Xbox Game Pass games using Alexa. The feature doesn't require Alexa users to immediately install a skill, and it can be evoked by saying “Alexa, download [game] from Xbox Game Pass.”
-<a href='https://www.theverge.com/2021/4/13/22381496/amazon-alexa-download-xbox-game-pass-games'> Source <a/>

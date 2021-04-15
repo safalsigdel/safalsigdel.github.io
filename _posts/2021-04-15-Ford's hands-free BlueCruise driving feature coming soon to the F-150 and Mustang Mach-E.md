@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YP_G8RkL9igsGxHbvQLM13t83P8=/0x0:1434x960/1200x800/filters:focal(603x366:831x594)/cdn.vox-cdn.com/uploads/chorus_image/image/69125019/BlueCruise_Mustang_Mach_E_01.0.jpg' width='700px' /><br/>
+Ford has a name for its “hands-free” advanced driver assist system (ADAS): BlueCruise. The company said it would begin pushing the feature via an over-the-air software update to select 2021 Ford F-150 and 2021 Mustang Mach-E owners later this year.
+<a href='https://www.theverge.com/2021/4/14/22383460/ford-bluecruise-hands-free-adas-f150-mustang-mache'> Source <a/>

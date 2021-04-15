@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6KgttwJW6YC_jgbu1nOEyDlUPV4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69117263/_Photo__SKT_to_Launch_QRNG_Powered_5G_Smartphone_Galaxy_Quantum2.0.jpg' width='700px' /><br/>
-Samsung and South Korean carrier SK Telecom have announced the Galaxy Quantum 2, Samsung's second phone that features built-in quantum cryptography technology for increased security. It's the follow-up to last year's Galaxy A Quantum.
-<a href='https://www.theverge.com/2021/4/13/22381321/samsung-galaxy-quantum-2-announced-qrng-cryptography-chip'> Source <a/>

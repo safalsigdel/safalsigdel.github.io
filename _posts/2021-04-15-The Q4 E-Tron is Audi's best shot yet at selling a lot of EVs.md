@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/upL1A2xmeJlbzDJVzlT-6BesnVY=/0x0:2400x1350/1200x675/filters:focal(1008x483:1392x867)/cdn.vox-cdn.com/uploads/chorus_image/image/69125832/Q4_etron_SP_0041.0.jpg' width='700px' /><br/>
+Audi is taking wider aim at the growing market for electric vehicles with two new compact EVs: the Q4 E-Tron and the Q4 Sportback E-Tron. Revealed on Wednesday and due out later this year, the two electric SUVs are far more affordable than the flagship E-Tron but also don't skimp on things like range (up to around 300 miles) and futuristic tech.
+<a href='https://www.theverge.com/2021/4/14/22382663/audi-q4-etron-sportback-electric-suv-volkswagen-price-specs-release-date'> Source <a/>

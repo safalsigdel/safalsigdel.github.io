@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4JbzzTEn-BeqTGLEDojclEF_Lmg=/0x0:1416x964/1200x800/filters:focal(595x369:821x595)/cdn.vox-cdn.com/uploads/chorus_image/image/69117929/rokuos.0.jpg' width='700px' /><br/>
-Roku today announced that its latest software release, Roku OS 10, has begun rolling out and will start making its way to all supported devices in the coming weeks. “Roku OS 10 introduces a variety of new features getting users to content faster, improving network and input configurations, offering new ways to customize the experience and performance enhancements,” the company said in a press release.
-<a href='https://www.theverge.com/2021/4/13/22381535/roku-os-10-instant-resume-airplay-2-auto-gaming-setup'> Source <a/>

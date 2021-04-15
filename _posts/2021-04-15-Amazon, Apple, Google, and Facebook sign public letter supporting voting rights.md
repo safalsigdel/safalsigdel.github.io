@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gOD4qT-Wt07yBWpM4tHhooDtKRw=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/69127515/1294607789.0.jpg' width='700px' /><br/>
+Amazon, Apple, Google parent company Alphabet, and Facebook have joined hundreds of corporations, executives, and celebrities in signing a public letter today supporting voting rights and condemning legislation that would “restrict or prevent any eligible voter from having an equal and fair opportunity to cast a ballot,” The New York Times reports.
+<a href='https://www.theverge.com/2021/4/14/22384060/amazon-apple-google-facebook-public-letter-voting-rights'> Source <a/>

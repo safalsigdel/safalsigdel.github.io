@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+You can put down your Switch, you can retire from Animal Crossing: New Horizons, but you can never quite leave the island behind. Now, thanks to a new a multi-CD imported soundtrack for the game, you won't have to. With seven — yes, seven —  compact discs of Animal Crossing music, you can quite literally change your life's theme music as often as it changes in the game.
+<a href='https://www.theverge.com/tldr/2021/4/14/22383721/animal-crossing-new-horizons-soundtrack-7-cds'> Source <a/>

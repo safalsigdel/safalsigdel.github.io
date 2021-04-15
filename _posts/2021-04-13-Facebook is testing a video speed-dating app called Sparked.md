@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YMRj6beL9GKFp_KQvgSKFiJsgLE=/0x0:1484x869/1200x800/filters:focal(624x317:860x553)/cdn.vox-cdn.com/uploads/chorus_image/image/69117907/Screen_Shot_2021_04_13_at_8.44.29_AM.0.png' width='700px' /><br/>
-Facebook is testing a video speed-dating app called Sparked. The app, which requires a Facebook profile to create an account, is developed by the company's NPE Team, Facebook's in-house group that works on experimental apps.
-<a href='https://www.theverge.com/2021/4/13/22381511/facebook-video-speed-dating-npe-team-sparked-feature'> Source <a/>

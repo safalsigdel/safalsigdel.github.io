@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0iAefWO0xDQnyua-Wn9y3cLzLYY=/0x0:2408x1584/1200x800/filters:focal(1012x600:1396x984)/cdn.vox-cdn.com/uploads/chorus_image/image/69127704/Screen_Shot_2021_04_14_at_5.21.30_PM.0.png' width='700px' /><br/>
+Windows 10 is officially losing its once-ambitious Timeline feature, Microsoft announced today. Timeline, first launched in 2017, was designed to make it easier for users to swap between multiple devices — transitioning seamlessly from a Windows 10 PC to an Android or iOS phone and back again.
+<a href='https://www.theverge.com/2021/4/14/22384316/windows-10-timeline-feature-cortana-sync-ios-android-removed'> Source <a/>

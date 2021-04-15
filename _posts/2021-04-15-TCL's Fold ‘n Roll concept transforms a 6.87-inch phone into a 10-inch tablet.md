@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Erx45q8orN0EoZjdbf1MxFWxnSQ=/0x0:2000x1095/1200x800/filters:focal(840x388:1160x708)/cdn.vox-cdn.com/uploads/chorus_image/image/69125578/Fold__n_Roll_2.0.jpg' width='700px' /><br/>
+TCL is once again teasing a foldable phone concept — and it's a Frankenstein's monster of some previously showcased flexible concepts. Called Fold ‘n Roll, it combines the company's “dragonhinge” technology with an extendable display panel. The result is a 6.87-inch phone that can expand to an 8.85-inch phablet size or fully extend to a 10-inch tablet. Outside of that, the company isn't offering any other detailed information.
+<a href='https://www.theverge.com/2021/4/14/22383668/tcl-fold-n-roll-concept-rollable-phone-tablet'> Source <a/>

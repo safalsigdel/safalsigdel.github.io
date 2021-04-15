@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hpl09Zkk_vMhntG_LRozNSRyB7c=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69124486/acastro_180730_1777_facial_recognition_0002.0.jpg' width='700px' /><br/>
+Dangers posed by facial recognition like mass surveillance and mistaken identity have been widely discussed in recent years. But digital rights groups say an equally insidious use case is currently sneaking under the radar: using the same technology to predict someone's gender and sexual orientation. Now, a new campaign has launched to ban these applications in the EU.
+<a href='https://www.theverge.com/2021/4/14/22381370/automatic-gender-recognition-sexual-orientation-facial-ai-analysis-ban-campaign'> Source <a/>

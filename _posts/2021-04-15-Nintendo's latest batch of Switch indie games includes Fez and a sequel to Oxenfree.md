@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U1KRGNTwy8Mgxhfpk-5w5q2VzQg=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/69125481/ss_38a73fa1ebe9fcf4f7c8ee3b80e5de067a6e8897.0.jpg' width='700px' /><br/>
+Nintendo broadcast its latest “Indie World Showcase” today, and the 20-minute event was pretty packed full of announcements for upcoming Switch games. There's a good amount of variety, too: everything from fantastical skateboarding worlds to procedurally generated road trips to a puzzle classic that's available later today. If you missed out on the presentation, here are the highlights.
+<a href='https://www.theverge.com/2021/4/14/22382536/nintendo-indie-world-showcase-fez-oxenfree-2'> Source <a/>
