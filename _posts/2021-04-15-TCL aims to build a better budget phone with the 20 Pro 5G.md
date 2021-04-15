@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KMpUnneMfLHtSdn7pvPGadieXbQ=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69124953/TCL_20_Pro_5G_design_14.0.jpg' width='700px' /><br/>
-TCL has announced the rest of its 20-series lineup, with the 20 Pro 5G leading the way. Along with the 20L and 20L Plus, the phone joins the two devices announced earlier this year at CES, the TCL 20 5G and 20 SE, all of which prominently feature the company's display technology. TCL says the 20 Pro 5G and 20S (a regional variant of the 20L Plus) will come to the US this summer, though the company hasn't confirmed prices yet.
-<a href='https://www.theverge.com/2021/4/14/22382312/tcl-20-series-pro-5g-20l-plus-price-specs-features'> Source <a/>
