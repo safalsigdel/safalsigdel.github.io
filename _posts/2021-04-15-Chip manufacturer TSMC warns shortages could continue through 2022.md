@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EkcL52h4Tv_CQbV4-fs-NaSdab8=/0x0:4780x3180/1200x800/filters:focal(2008x1208:2772x1972)/cdn.vox-cdn.com/uploads/chorus_image/image/69129468/1231936348.0.jpg' width='700px' /><br/>
+TSMC, which makes processors for Apple, Qualcomm, AMD, and numerous other big consumer tech companies, has warned that chip shortages could last through 2022. “We see the demand continue to be high,” TSMC CEO C. C. Wei said in comments reported by Bloomberg, “In 2023, I hope we can offer more capacity to support our customers. At that time, we'll start to see the supply chain tightness release a little bit.”
+<a href='https://www.theverge.com/2021/4/15/22385240/tsmc-chip-shortage-2022-intel-ceo-earnings-graphics-cards-cpus-gpus'> Source <a/>

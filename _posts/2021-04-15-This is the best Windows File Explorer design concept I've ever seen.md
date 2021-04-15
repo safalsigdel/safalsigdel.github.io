@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ohofEDFRJwSNoamYxAZJJhHqI1M=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/69129462/fileexplorer.0.jpg' width='700px' /><br/>
+Microsoft's Windows File Explorer has existed in the operating system since Windows 95, and it has served as a focal point for design concepts ever since. I've seen a variety of mockups over the years that try to redesign the File Explorer and modernize it, but Reddit user Alur2020 has really nailed what modern file management should look like in Windows 10. This is the best Windows File Explorer concept I've ever seen.
+<a href='https://www.theverge.com/2021/4/15/22385247/windows-file-explorer-design-concept-tabs-nested-folders'> Source <a/>
