@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/InsgRuK6OY4xIFoZpIAZJwNoGu4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69136316/RoamPint.0.jpg' width='700px' /><br/>
+Every Friday, The Verge publishes our flagship podcast, The Vergecast, where co-hosts Nilay Patel and Dieter Bohn discuss the week in tech news with the reporters and editors covering the biggest stories. This week, Verge editor Chris Welch joins Nilay and Dieter in a phone and gadget-dominated episode.
+<a href='https://www.theverge.com/2021/4/16/22387256/vergecast-podcast-448-apple-spring-loaded-event-preview-farewell-lg-phones'> Source <a/>

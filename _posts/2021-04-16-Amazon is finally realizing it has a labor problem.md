@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z1eZvowFDX9DvI8poOs8u2rhe5M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69136137/acastro_210208_4402_amazonVote.0.jpg' width='700px' /><br/>
+Today, let's talk about the new tone Jeff Bezos is taking when talking about Amazon — and whether we can expect it to have any practical effect on the company after he turns over the CEO job to his successor, Andy Jassy.
+<a href='https://www.theverge.com/2021/4/16/22386992/amazon-is-finally-realizing-it-has-a-labor-problem'> Source <a/>

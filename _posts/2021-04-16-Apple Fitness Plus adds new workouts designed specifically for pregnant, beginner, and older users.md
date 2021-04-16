@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JHrj9q3n-bicaEaMrY81vASS_ew=/0x0:1984x1244/1200x800/filters:focal(834x464:1150x780)/cdn.vox-cdn.com/uploads/chorus_image/image/69130909/Apple_iphone12_apple_fitness_plus_workout_for_pregnancy_and_older_adults_and_beginners_041521.0.jpg' width='700px' /><br/>
-Apple is adding a variety of new workouts to its $9.99-per-month Fitness Plus service, including programs designed specifically for beginners and workouts tailored for both pregnant and elderly users.
-<a href='https://www.theverge.com/2021/4/15/22385653/apple-fitness-plus-new-workouts-pregnant-beginner-older-users-jane-fonda'> Source <a/>

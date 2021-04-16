@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Microsoft is launching a new Kids Mode for its Edge browser today. It's built directly into Microsoft Edge on Windows and macOS as a free option that's simple to enable and doesn't require much work for parents to manage. The mode can be enabled by selecting it from the Edge profile option, and it will lock kids into the Edge browser with access only to approved sites.
-<a href='https://www.theverge.com/2021/4/15/22385357/microsoft-edge-kids-mode-features-now-available-release'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aucLYXBgkChBu4jQL03PolMTNPQ=/0x0:3000x2625/1200x800/filters:focal(1260x1073:1740x1553)/cdn.vox-cdn.com/uploads/chorus_image/image/69130818/Acer_Chromebook_Spin_513_CP513_1H_L__High_03.0.jpg' width='700px' /><br/>
-We already knew Acer was working on the first two Chrome OS devices powered by Qualcomm's Snapdragon 7c chips. And today, the company has released two product listings for its Chromebook Spin 513, but you can't buy this laptop just yet.
-<a href='https://www.theverge.com/2021/4/15/22385543/acer-chromebook-spin-513-snapdragon-7c-processor-price'> Source <a/>

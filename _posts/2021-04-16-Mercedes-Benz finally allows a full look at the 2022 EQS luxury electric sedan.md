@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WHzejrATcKugUr8H_JCtTI4P350=/0x0:4961x3049/1200x675/filters:focal(2085x1129:2877x1921)/cdn.vox-cdn.com/uploads/chorus_image/image/69131175/2020_11_21_Image_20C0714_071.0.jpg' width='700px' /><br/>
-Mercedes-Benz finally pulled the camouflage off its 2022 EQS electric sedan, and the two-tone paint job is sure to raise some interesting questions. The German automaker is still keeping several key details under wraps, such as the pricing, but as we said earlier, the EQS is a bold break from the current crop of minimalist electric vehicles with its big battery, huge infotainment screen, and richly appointed interior.
-<a href='https://www.theverge.com/2021/4/15/22385437/mercedes-benz-eqs-electric-ev-photos-specs'> Source <a/>

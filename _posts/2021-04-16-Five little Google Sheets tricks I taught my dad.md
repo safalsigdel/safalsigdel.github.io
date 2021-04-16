@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aNYrQot8lM9qO2j-qodKRjm4YBQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69136630/vpavic_181102_3068_0053.0.jpg' width='700px' /><br/>
+I was recently working remotely next to my dad, and realized just how many time-saving little Google Sheets shortcuts I take for granted. These aren't advanced formulas or pivot tables; just simple tricks to save you time if you work with basic organizational spreadsheets. Some of these are old Excel tricks; but some even my Verge colleagues only discovered recently.
+<a href='https://www.theverge.com/22387316/google-sheets-tips-tricks-reorder-rows-resize-columns-links'> Source <a/>
