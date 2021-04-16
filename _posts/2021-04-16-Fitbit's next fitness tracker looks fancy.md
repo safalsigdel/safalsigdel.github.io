@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vOnMMMLONQmO9wpzZuB5iFm-9iE=/0x0:2134x1424/1200x800/filters:focal(897x542:1237x882)/cdn.vox-cdn.com/uploads/chorus_image/image/69137363/47268.0.jpeg' width='700px' /><br/>
+Fitbit may be ready to launch a new fitness tracker soon, if images published by WinFuture are to be believed. The new tracker is apparently named Luxe and features a more fashion-centric design than Fitbit's existing Inspire 2. It's not clear when the Luxe will be released or how much it will cost, but I would not be surprised if it has a higher price tag than the $100 Inspire 2.
+<a href='https://www.theverge.com/2021/4/16/22387591/fitbit-luxe-fitness-tracker-photo-leak-news'> Source <a/>
