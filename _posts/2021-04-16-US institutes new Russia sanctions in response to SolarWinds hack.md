@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eDlJ6NM3gY5HPZIJu3NAY26Wi_M=/0x0:4510x3007/1200x800/filters:focal(2293x600:3013x1320)/cdn.vox-cdn.com/uploads/chorus_image/image/69130574/51101779936_dce643603a_o.0.jpg' width='700px' /><br/>
-A White House order issued Thursday morning directs the US government to expel ten diplomats and place a range of new sanctions on Russian individuals and assets in response to the SolarWinds hack. The order also places significant new restrictions on Russia's sovereign debt, which will make it more difficult for the country's government to raise money and support its currency.
-<a href='https://www.theverge.com/2021/4/15/22385371/russia-sanctions-solarwinds-biden-white-house-putin-hack'> Source <a/>
