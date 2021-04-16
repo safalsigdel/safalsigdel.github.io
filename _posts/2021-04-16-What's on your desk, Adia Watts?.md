@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0gmv9iPy6qH7pmqOk8-Hnmsg-H4=/0x0:2040x1530/1200x675/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/69130499/awatts_20210405_4509_0052.0.jpg' width='700px' /><br/>
-If you're not a writer or an editor, you may not appreciate how important copy editors are to publications. They are the ones who keep us from making fools of ourselves with bad grammar, bad spelling, or bad sentence structure; they also often act as fact-checkers. If you do a lot of reading on a variety of sites, you can usually tell which ones use copy editors and which ones do not.
-<a href='https://www.theverge.com/22374271/remote-work-desk-home-set-up-adia-watts-copy-editor-tech'> Source <a/>

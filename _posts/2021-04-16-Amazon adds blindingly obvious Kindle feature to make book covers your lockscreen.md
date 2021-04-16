@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QU-KhGqRS3NHN4Swx3Y6Gy1tx3s=/0x0:1242x879/1200x800/filters:focal(522x341:720x539)/cdn.vox-cdn.com/uploads/chorus_image/image/69135476/coversfliptheswitch_mobile.jpg._CB656387720_.0.png' width='700px' /><br/>
+Amazon Kindle owners can now set the lockscreen image to the cover of the book they're reading. The long overdue Display Cover feature, first spotted by Engadget, was previously only available after jailbreaking your device (and a popular motivator to do so). Amazon says that it works with “most books, magazines, comics, and Manga.”
+<a href='https://www.theverge.com/2021/4/16/22387146/amazon-display-cover-lockscreen-current-book-image'> Source <a/>
