@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-B&H Photo is once again offering the lowest price yet on the Verizon variant of the OnePlus 8. Originally priced at $800, you can get this model for $400. This phone typically costs more than the original OnePlus 8 model because it is compatible with Verizon's mmWave network. However, because B&H is selling it as unlocked, it will work on AT&T and T-Mobile networks if either is your preferred phone carrier.
-<a href='https://www.theverge.com/good-deals/2021/4/15/22384306/one-plus-8-verizon-samsung-galaxy-buds-pro-apple-watch-sports-loop-deal'> Source <a/>
