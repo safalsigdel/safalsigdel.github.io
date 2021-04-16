@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AvXOObhben36nl170hC3Ba6Idg4=/0x0:3000x2078/1200x800/filters:focal(1260x799:1740x1279)/cdn.vox-cdn.com/uploads/chorus_image/image/69132983/1039320710.0.jpg' width='700px' /><br/>
-Arcade Fire has a new single out — sort of. The Canadian indie rock band has released a new 45-minute instrumental composition called “Memories In The Age Of Anxiety,” but the new song is actually a collaboration with meditation app Headspace, and you can only listen to it there.
-<a href='https://www.theverge.com/2021/4/15/22385957/arcade-fire-45-minute-long-single-headspace-meditation-app'> Source <a/>
