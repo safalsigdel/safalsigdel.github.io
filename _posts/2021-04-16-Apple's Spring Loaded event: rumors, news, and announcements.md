@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sNUGf2SiaWsj54evX8FHw0pY6dI=/0x0:1792x1150/1200x800/filters:focal(753x432:1039x718)/cdn.vox-cdn.com/uploads/chorus_image/image/69132952/Screen_Shot_2021_04_15_at_8.22.24_AM.0.png' width='700px' /><br/>
-Spring has sprung and with it, the first Apple event of the year. The company successfully brought custom Arm chips to its Macs last year, and now it's continuing its product updates with an event called “Spring Loaded.” Outside the obvious coiled metal connotation, the name suggests another jam-packed day of announcements.
-<a href='https://www.theverge.com/22386008/apple-event-ipad-pro-mini-pencil-spring-loaded-announcements-news-rumors'> Source <a/>
