@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-MPQeT7rqrpiTx8m64Phz00Ors8=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/69126640/ahawkins_180829_2911_0040.0.jpg' width='700px' /><br/>
-New York City's days as one of the last remaining holdouts in the dockless electric scooter boom is finally at an end. The city's Department of Transportation (DOT) announced the selection of Bird, Lime, and VeoRide as the participants in its inaugural e-scooter pilot.
-<a href='https://www.theverge.com/2021/4/14/22383976/nyc-scooter-permit-selection-lime-bird-veoride'> Source <a/>

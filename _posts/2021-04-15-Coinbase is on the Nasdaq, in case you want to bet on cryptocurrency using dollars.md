@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gHVWRE8kRkBboe87v2SrLB7__1o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69127479/acastro_181126_1777_bitcoin_0001.0.jpg' width='700px' /><br/>
-The nice thing about Coinbase going public today is that if you want to get involved with cryptocurrency without ever leaving the almighty dollar, now you can.
-<a href='https://www.theverge.com/2021/4/14/22383748/coinbase-nasdaq-ipo-direct-listing'> Source <a/>

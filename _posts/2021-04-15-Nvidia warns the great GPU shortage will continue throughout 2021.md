@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SEwxL1qWHjlDDQcL3zNYoFw9sWU=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/69129616/twarren_rtx3080.0.jpg' width='700px' /><br/>
-If you were hoping to pickup a new RTX 30-series GPU in the coming months, Nvidia is warning about supply shortages for the rest of 2021. “We expect demand to continue to exceed supply for much of this year,” said Colette Kress, Nvidia CFO, on an investors call earlier this week.
-<a href='https://www.theverge.com/2021/4/15/22385261/nvidia-gpu-shortage-rtx-3080-warning-comments-2021'> Source <a/>

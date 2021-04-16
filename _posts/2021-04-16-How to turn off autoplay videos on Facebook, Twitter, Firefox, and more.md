@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FySQCvr191oVdOstBBR0DKADjjU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67357667/akrales_180614_1777_0080.0.jpg' width='700px' /><br/>
+You've probably been caught off guard by videos that play automatically on Facebook, Twitter, or just across the internet in general. They begin playing as soon as you load a page or (if they're more deviously implemented) when you start scrolling through a page.
+<a href='https://www.theverge.com/21422932/autoplay-videos-how-to-facebook-twitter-reddit-chrome-safari-edge-firefox'> Source <a/>

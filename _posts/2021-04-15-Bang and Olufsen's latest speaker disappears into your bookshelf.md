@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x4-i_ogyvjl2K6Iu9mfZfZaq6sQ=/0x0:1920x1281/1200x800/filters:focal(892x639:1198x945)/cdn.vox-cdn.com/uploads/chorus_image/image/69129266/Beosound_Emerge_0037.0.png' width='700px' /><br/>
-Bang and Olufsen's latest connected speaker is the Emerge. Its thin form-factor should blend right in to most bookshelves, and that's no accident. In a press release announcing the speaker, the company says its design was “inspired by the compact form factor of a book” with side panels that wrap around like a cover, and a logo on the front that's meant to evoke a title printed on the spine.
-<a href='https://www.theverge.com/2021/4/15/22385189/bang-and-olufsen-emerge-connected-speaker-airplay-2-spotify-connect-release-date-price'> Source <a/>

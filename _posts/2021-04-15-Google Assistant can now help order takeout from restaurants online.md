@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5Lza3ZNuckXMHwW48ZShvMwyRAk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69125329/acastro_180510_1777_google_assistant_0002.0.jpg' width='700px' /><br/>
-The pandemic has made ordering restaurant takeout a little less of a guilty pleasure, both because it's safer and it helps support local businesses. Google is now trying to make the process faster, too, by having Google Assistant fill in contact information and payment details automatically on Android phones after you find a restaurant via Google Search.
-<a href='https://www.theverge.com/2021/4/14/22382754/google-duplex-web-assistant-online-food-orders-android'> Source <a/>

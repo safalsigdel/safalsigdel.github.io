@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8i7LHtqudddBEVsC3F-2bEtcMnY=/0x0:1025x683/1200x800/filters:focal(431x260:595x424)/cdn.vox-cdn.com/uploads/chorus_image/image/69134478/clipper_iphone.0.jpg' width='700px' /><br/>
+Silicon Valley might seem like a shining beacon of technological progress to some onlookers, but natives know it can be weirdly hit and miss — like how the San Francisco Bay Area has long had a physical tap-to-pay card that'll let you onto practically every form of public transit, and yet never let you simply tap your phone or smartwatch to do the same.
+<a href='https://www.theverge.com/2021/4/15/22386692/bart-caltrain-muni-ferry-apple-pay-clipper-card-sf-bay-area-iphone-watch'> Source <a/>

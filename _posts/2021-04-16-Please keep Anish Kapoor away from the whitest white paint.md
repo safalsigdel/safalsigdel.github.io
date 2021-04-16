@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_ojVcrCWl4nYwuW1zhwtoDE5pJg=/0x0:800x533/1200x800/filters:focal(336x203:464x331)/cdn.vox-cdn.com/uploads/chorus_image/image/69133637/ruan_xiulin_portraitLO.0.jpeg' width='700px' /><br/>
+Researchers at Purdue University say they have created the whitest paint on record. In fact, they've now crafted an ultra-white paint twice: in October, they announced a white paint that was capable of reflecting 95.5 percent of sunlight. But they decided to outdo themselves with a new formulation, announced today, that reflects up to 98.1 percent of sunlight.
+<a href='https://www.theverge.com/2021/4/15/22386299/whitest-white-paint-anish-kapoor-vantablack'> Source <a/>

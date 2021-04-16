@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9567/vpavic_210412_4527_0056_2_Square_2.jpg' width='700px' /><br/>
-Despite it not even being a year old, DJI is already upgrading its mid-tier Mavic Air 2 drone. The new $999 Mavic Air 2S (yes, $200 more than the prior model) comes with some notable new features and upgrades, including a much larger image sensor. The new one-inch sensor is capable of shooting 20-megapixel photos, 5.4K video, and 4K up to 60fps. But hold your horses (or wallets), there are a few caveats to those impressive capabilities.
-<a href='https://www.theverge.com/22384692/dji-mavic-air-2s-drone-2021-review'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kQDviaCq9lEh7i9kuniaJ_qAFVg=/0x0:1170x2532/1200x0/filters:focal(0x0:1170x2532):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22446531/IMG_0607.jpg' width='700px' /><br/>
+There's a new dating app on the scene called Feels. Its unique selling point is an interface that feels closer to a Snapchat-style story or a TikTok feed rather than the swipeable cards found in other dating apps. TechCrunch reports Feels currently has around 100,000 users. Although the app is available globally, the company says its focus is primarily on the French market as it launches more widely.
+<a href='https://www.theverge.com/2021/4/15/22385868/feels-dating-app-swiping-snapchat-stories'> Source <a/>

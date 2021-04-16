@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n_ZbkY8iXvDjgum8cHkm7eb2cbM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69125226/vpavic_4291_20201113_0326.0.0.jpg' width='700px' /><br/>
-Parallels is releasing an update to its Desktop virtual machine software that allows M1 Mac owners to install Windows 10 on Arm. Parallels Desktop 16.5 now includes the necessary native support to run the Arm version of Windows on M1 chips, following Apple's decision not to support Boot Camp on M1 Macs.
-<a href='https://www.theverge.com/22383598/parallels-desktop-mac-windows-10-install-m1-macbook'> Source <a/>

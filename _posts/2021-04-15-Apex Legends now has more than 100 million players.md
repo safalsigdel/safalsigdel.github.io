@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2p_0WF4Xwxlv7kXf9yXOsUEOcDA=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/69125743/apex_legends_screenshot_season8_wargames_02_pathfinder_clean.jpg.adapt.1024w.0.jpg' width='700px' /><br/>
-Battle royale shooter Apex Legends now has more than 100 million unique players globally, EA and Respawn announced on Wednesday. The free-to-play game surpassed the big milestone just over two years after its February 2019 launch.
-<a href='https://www.theverge.com/2021/4/14/22382560/apex-legends-100-million-players-respawn-ea'> Source <a/>

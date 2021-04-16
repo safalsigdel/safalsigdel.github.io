@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/r3tULAWy8pFLF7Oshhko_UoBXO8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69130996/acastro_170731_1777_0006_v1.0.jpg' width='700px' /><br/>
+Apple has created a $200 million fund to invest in forestry projects to help remove carbon from the atmosphere while also generating financial returns for its investors, the company said Thursday. The Restore Fund will invest in forest properties that are managed to increase carbon removal and produce timber. The goal is to remove 1 million metric tons of carbon dioxide annually from the atmosphere.
+<a href='https://www.theverge.com/2021/4/15/22385552/apple-200-million-fund-climate-change-environment'> Source <a/>

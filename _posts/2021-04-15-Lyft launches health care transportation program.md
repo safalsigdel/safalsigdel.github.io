@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wNRJ_51ICcR4EnJ4nPYU8M6rKVA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69129671/acastro_180927_1777_lyft_0001.0.jpg' width='700px' /><br/>
-Lyft launched a program that will let health care organizations send patients prepaid passes that they can use for rides to doctor's appointments.
-<a href='https://www.theverge.com/2021/4/15/22383498/lyft-health-care-rides-doctor'> Source <a/>

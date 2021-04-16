@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-If I were the Microsoft marketing executive pitching a once-in-a-lifetime giveaway of an incredible custom-built Flight Simulator PC (via PC Gamer), I would do two things:
-<a href='https://www.theverge.com/tldr/2021/4/14/22384070/microsoft-flight-simulator-jet-engine-custom-pc-free-giveaway'> Source <a/>

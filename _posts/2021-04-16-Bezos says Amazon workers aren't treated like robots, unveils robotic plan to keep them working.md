@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IR3Ld0-5pZpuZ4wyDqCqlbGZ-0I=/0x0:400x400/1200x800/filters:focal(141x78:205x142)/cdn.vox-cdn.com/uploads/chorus_image/image/69131509/bezos-square.0.jpg' width='700px' /><br/>
+Amazon CEO Jeff Bezos said in his final letter to shareholders as CEO that the e-commerce giant has to “do a better job for our employees.” The letter comes amid ongoing reports of untenable conditions for Amazon workers. And it outlines a strategy that seems odd for a company that has been accused of treating workers like robots: a robotic scheme that will develop new staffing schedules using an algorithm.
+<a href='https://www.theverge.com/2021/4/15/22385762/bezos-letter-shareholders-amazon-workers-union-bessemer-workplace'> Source <a/>

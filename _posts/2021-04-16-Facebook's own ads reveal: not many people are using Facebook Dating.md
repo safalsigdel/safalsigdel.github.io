@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TXLqkbLiS291fDqjI2eoDokrfpU=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69132441/VRG_ILLO_4530_001.0.jpg' width='700px' /><br/>
+Dawn Hallson has tried nearly every dating app you can think of — Tinder, Bumble, eHarmony, Plenty of Fish, and Match, just to name a few. So when a friend told her about Facebook Dating, she figured, why not give it a shot? She filled out her height, whether she has kids, where she lives, and her sexual orientation, and then looked around at who might be available on the world's largest social network.
+<a href='https://www.theverge.com/2021/4/15/22384448/facebook-dating-user-data-popular-downloads'> Source <a/>

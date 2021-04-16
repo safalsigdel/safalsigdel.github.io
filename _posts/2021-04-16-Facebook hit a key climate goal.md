@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oafVqVA1uQ2CaWmS6C20y8snqnI=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/69130976/1232289899.0.jpg' width='700px' /><br/>
+Facebook announced today that it exceeded one of its biggest environmental goals: it managed to slash its greenhouse gas emissions by 94 percent in 2020. It had previously pledged to cut planet-heating emissions by 75 percent. The company said that it had also achieved its goal of “net zero emissions” — not putting any more emissions into the atmosphere than it can take out.
+<a href='https://www.theverge.com/2021/4/15/22385473/facebook-2020-climate-change-goal-renewable-energy'> Source <a/>
