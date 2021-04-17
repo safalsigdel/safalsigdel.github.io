@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HafVO5cRtWSLGfInUkAK1H5xfk0=/0x0:1770x1180/1200x800/filters:focal(744x449:1026x731)/cdn.vox-cdn.com/uploads/chorus_image/image/69136160/appleinvite.0.jpg' width='700px' /><br/>
-Apple has officially announced its “Spring Loaded” event for April 20th, its first major product announcement of 2021.
-<a href='https://www.theverge.com/2021/4/16/22385362/apple-event-ipad-airpods-pencil-tv-tags-rumors-spring-loaded'> Source <a/>

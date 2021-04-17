@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WclURnqS9O75KIv88BcXyXAG3PI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69142287/acastro_210104_1777_google_0001.0.jpg' width='700px' /><br/>
+Google's Project Zero, a team of dedicated security engineers tasked with reducing the number of “zero day” vulnerabilities around the entire internet, says it will give developers an extra 30 days before disclosing vulnerability issues, in order to give end-users time to patch their software.
+<a href='https://www.theverge.com/2021/4/17/22389135/google-project-zero-30-day-grace-period-security-bugs'> Source <a/>

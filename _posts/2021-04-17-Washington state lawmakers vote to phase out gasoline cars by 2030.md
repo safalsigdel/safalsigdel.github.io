@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DCM8ofL16qK054hGDCI-gAIUxPs=/0x0:1000x667/1200x800/filters:focal(420x254:580x414)/cdn.vox-cdn.com/uploads/chorus_image/image/69142150/shutterstock_54135052.1419966774.0.jpg' width='700px' /><br/>
+Washington state lawmakers have passed a measure that would phase out the sale of gas-powered vehicles starting in 2030. The Clean Cars 2030 initiative passed Thursday as an amendment to a bill that requires state utilities prepare for an electric-vehicle future. The bill now awaits Gov. Jay Inslee's signature.
+<a href='https://www.theverge.com/2021/4/17/22389088/washington-state-vote-ban-gasoline-cars-2030-electric'> Source <a/>
