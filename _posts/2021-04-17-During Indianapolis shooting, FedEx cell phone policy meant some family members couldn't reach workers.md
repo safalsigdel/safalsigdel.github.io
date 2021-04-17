@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8m_50hwx0bZ8FO1DD8SQOhaEZ8c=/0x0:3900x2600/1200x800/filters:focal(1638x988:2262x1612)/cdn.vox-cdn.com/uploads/chorus_image/image/69142656/1232347125.0.jpg' width='700px' /><br/>
+During a mass shooting at a FedEx facility in Indianapolis on Thursday, a company policy barring some employees from having their cell phones on them while working prevented family members from being able to contact workers inside the facility, The New York Times reported.
+<a href='https://www.theverge.com/2021/4/17/22389236/indianapolis-shooting-fedex-cellphone-policy'> Source <a/>
