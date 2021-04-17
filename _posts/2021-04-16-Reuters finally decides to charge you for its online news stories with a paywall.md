@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2JM5xHkvx2UWii0I6W-FMwWTYDY=/0x0:5000x3333/1200x800/filters:focal(2184x1825:2984x2625)/cdn.vox-cdn.com/uploads/chorus_image/image/69133133/1157654467.0.jpg' width='700px' /><br/>
-As online publishers grapple with how to replace dwindling ad revenue and find new ways to bring in money, Reuters, one of the largest news organizations in the world, is using a strategy that's been around for years and putting its online content behind a paywall.
-<a href='https://www.theverge.com/2021/4/15/22386037/reuters-paywall-online-news-content-publishers'> Source <a/>

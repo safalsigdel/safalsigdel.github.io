@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WR073pd1JRkNaq_Zw3KL1P0aGvA=/0x0:1216x1220/1200x800/filters:focal(511x513:705x707)/cdn.vox-cdn.com/uploads/chorus_image/image/69139601/Screen_Shot_2021_04_16_at_12.39.26_PM.0.png' width='700px' /><br/>
+A real estate broker named Shane Dulgeroff decided to take advantage of the NFT hype. He's selling a house at 221 Dryden Street, in Thousand Oaks, California along with an NFT of a psychedelic-flavored video of the house.
+<a href='https://www.theverge.com/2021/4/16/22388177/nft-house-real-estate-opensea-thousand-oaks-california'> Source <a/>

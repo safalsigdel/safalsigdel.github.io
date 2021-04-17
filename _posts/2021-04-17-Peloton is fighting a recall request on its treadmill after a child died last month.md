@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-pr_10jGYt_awepDLyWkpkI9omM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69141044/akrales_170407_1569_0850.0.0.jpg' width='700px' /><br/>
+Peloton is resisting a request from the Consumer Product Safety Commission (CPSC) to recall its Tread Plus treadmill, which was involved with the death of a child last month, the Washington Post is reporting tonight. At the time of the incident, the CPSC issued a statement that it was investigating.
+<a href='https://www.theverge.com/2021/4/16/22388707/peloton-fighting-recall-treadmill-child-death'> Source <a/>

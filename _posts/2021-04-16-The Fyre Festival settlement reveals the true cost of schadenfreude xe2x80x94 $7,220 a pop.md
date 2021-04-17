@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S8M0h-5j8cGPXPpVYvpsRxvK7VM=/0x0:1184x1508/1200x800/filters:focal(485x311:673x499)/cdn.vox-cdn.com/uploads/chorus_image/image/69133702/fyre_festival_poster.0.jpg' width='700px' /><br/>
-The organizers of Fyre Festival — think: The Hunger Games, but for influencers — have agreed to a settlement with 277 attendees for $7,220 apiece, The New York Times reports.
-<a href='https://www.theverge.com/2021/4/15/22386353/fyre-festival-organizers-settle-ticketholders-7220'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AmW6sJ0kGR8Pghp-3Jc2_aPdpoU=/0x0:3000x2000/1200x800/filters:focal(1333x809:1813x1289)/cdn.vox-cdn.com/uploads/chorus_image/image/69139370/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
+The Facebook Oversight Board, the quasi-judicial organization that Facebook set up to review tough moderation choices, announced today that its decision on former President Trump's ban from Facebook and Instagram will arrive “in the coming weeks.” The decision, which was initially supposed to take 90 days, has been pushed back so the board can review the more than 9,000 comments it's received about the case.
+<a href='https://www.theverge.com/2021/4/16/22388159/facebook-trump-ban-oversight-board-delay-moderation'> Source <a/>

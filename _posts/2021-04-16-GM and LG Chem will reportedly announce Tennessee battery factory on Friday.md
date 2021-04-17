@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z-MqxRza7IeMNLUIe2Q8L-1bLE4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69135444/GM_logo.0.jpg' width='700px' /><br/>
-On Friday, General Motors and LG Chem are expected to announce a new $2.3 billion battery factory to be located in Spring Hill, Tennessee, say reports from Nikkei, Reuters, and AP. It would be the second US battery joint venture for the American and South Korean giants, after the pair first announced a $2.3 billion battery cell manufacturing plant in Lordstown, Ohio back in 2019.
-<a href='https://www.theverge.com/2021/4/16/22387129/gm-lg-tennessee-ultium-battery-factory-spring-hill'> Source <a/>

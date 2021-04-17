@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zWifG_UChWKJzbFfosrLQmepMmg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69133547/acastro_181114_1777_amazon_hq2_0007.0.jpg' width='700px' /><br/>
-Amazon tried to use its power to coerce Ecobee into using its smart home products to collect user data by threatening Ecobee's ability to sell its products on Amazon, according to a report from The Wall Street Journal.
-<a href='https://www.theverge.com/2021/4/15/22386086/amazon-strong-arm-power-ecobee-antitrust-tech'> Source <a/>

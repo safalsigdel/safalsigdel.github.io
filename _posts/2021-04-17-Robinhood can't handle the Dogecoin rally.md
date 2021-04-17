@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Kn9oUWdkz4GP4JEnhAqF78NjZ9o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69140310/acastro_210201_1777_robinhood_0002.0.jpg' width='700px' /><br/>
+Yesterday and today, the enthusiasm for joke cryptocurrency Dogecoin overwhelmed Robinhood, leading to “sporadic crypto order failures and delayed notifications for some customers,” Robinhood wrote in a blog post.
+<a href='https://www.theverge.com/2021/4/16/22388447/robinhood-app-dogecoin-rally-failed-trades'> Source <a/>

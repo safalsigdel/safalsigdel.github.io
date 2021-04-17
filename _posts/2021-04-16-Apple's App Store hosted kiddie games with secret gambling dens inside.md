@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_0LLDW3xXczQc8stHX4OMl55kXU=/0x0:1125x750/1200x800/filters:focal(473x285:653x465)/cdn.vox-cdn.com/uploads/chorus_image/image/69134222/terrible_gambling_app.0.jpg' width='700px' /><br/>
-In popular culture, access to an illicit gambling den is as easy as stumbling into the right shop and saying the password — or greasing some palms. Apple's App Store apparently has a real-life parallel: today, app developer Kosta Eleftheriou discovered a terrible kiddie game that's actually a front for gambling websites.
-<a href='https://www.theverge.com/2021/4/15/22386533/ios-app-scam-jungle-runner-magical-forest-apple-kosta'> Source <a/>

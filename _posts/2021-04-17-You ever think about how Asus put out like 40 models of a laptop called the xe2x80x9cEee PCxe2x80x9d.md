@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IJ7KQRG0dsq9Cvwy6OsqGjLwZnU=/0x0:1020x679/1200x800/filters:focal(445x223:607x385)/cdn.vox-cdn.com/uploads/chorus_image/image/69140174/pile_o_netbooks.0.jpg' width='700px' /><br/>
+There's an Apple event next week, and it's looking fairly likely that we'll see updated models of the iPad Pro and perhaps the iPad Mini.
+<a href='https://www.theverge.com/2021/4/16/22388238/asus-eee-pc-netbook-laptop-line-linux-ipad-pro'> Source <a/>

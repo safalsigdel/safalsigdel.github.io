@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uNMDAKGuCfCDBT-SniGqLm4K0i8=/0x0:2040x1360/1200x800/filters:focal(877x568:1203x894)/cdn.vox-cdn.com/uploads/chorus_image/image/69137162/IMG_0626-1.0.0.jpeg' width='700px' /><br/>
-Apple Music's payment rate for artists and labels is fundamentally a penny per stream, according to a letter from the company posted on its artist dashboard and first reported by the Wall Street Journal. That payment rate is higher than Spotify, which has a confusing variable rate scheme that basically tops out at a half-penny per stream.
-<a href='https://www.theverge.com/2021/4/16/22387453/apple-music-artist-payment-rate-per-stream-vs-spotify'> Source <a/>

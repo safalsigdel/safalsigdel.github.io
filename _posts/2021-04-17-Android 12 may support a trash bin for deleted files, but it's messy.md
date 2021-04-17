@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bEcnDOqkV5Mif5BSThDWAm24hXc=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69139761/VRG_1777_Android_12_001.0.jpg' width='700px' /><br/>
+Google appears to be preparing to add a feature to Android devices that has long been a part of more traditional desktop operating systems: a trash bin (or, if you prefer the way Windows names it, a recycle bin). XDA-Developers has been digging into the code for Android 12 to uncover features that Google hasn't officially announced yet, and the latest is a line in the main Settings app for “Trash.”
+<a href='https://www.theverge.com/2021/4/16/22388196/google-android-12-trash-bin-recover-lost-deleted-files'> Source <a/>
