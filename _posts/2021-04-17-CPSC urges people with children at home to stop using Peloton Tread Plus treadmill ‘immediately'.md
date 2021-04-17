@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-oUD7uSrQMgQ0t1unBKBHGgce_g=/0x0:3000x2291/1200x800/filters:focal(1169x1289:1649x1769)/cdn.vox-cdn.com/uploads/chorus_image/image/69142824/903922964.0.jpg' width='700px' /><br/>
+The Consumer Product Safety Commission on Saturday issued a warning about Peloton Tread Plus treadmills, saying the machines pose “serious risks to children for abrasions, fractures, and death.” In a March blog post by CEO John Foley, the company said it was aware that a child had died in an accident on the treadmill.
+<a href='https://www.theverge.com/2021/4/17/22389301/cpsc-treadmill-peloton-children-risk-injury'> Source <a/>
