@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pMetCfPim3NljGz32FJyDCZ-kzo=/0x0:4064x2384/1200x800/filters:focal(1763x598:2413x1248)/cdn.vox-cdn.com/uploads/chorus_image/image/69143215/ingenuity2.0.jpg' width='700px' /><br/>
+NASA has rescheduled the first flight of its Ingenuity Mars helicopter to April 19th at 3:30AM ET, the agency announced Saturday.
+<a href='https://www.theverge.com/2021/4/17/22389461/nasa-reschedule-ingenuity-first-flight-mars-perseverance'> Source <a/>

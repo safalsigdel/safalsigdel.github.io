@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RHq9MU7HrNHnvG0oS2tkAYVItxc=/0x0:3000x2276/1200x800/filters:focal(1290x224:1770x704)/cdn.vox-cdn.com/uploads/chorus_image/image/69136838/1304268713.0.jpg' width='700px' /><br/>
-James O'Keefe, a conservative activist and founder of Project Veritas, should be able to take a break from Twitter after the company suspended his account for allegedly making fake Twitter accounts. O'Keefe has denied the claim and says he plans to sue Twitter over the suspension.
-<a href='https://www.theverge.com/2021/4/16/22387275/project-veritas-james-okeefe-defamation-lawsuit-twitter-suspension'> Source <a/>

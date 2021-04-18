@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ldSEAw8OaEgn2zCUVXnDSV7h1so=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69143489/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
+An upcoming feature in Chrome 90 will allow users to create a link to a section of a website that they've highlighted. First launched as a browser extension called Link to Text Fragment last year, Google has now added the feature within Chrome itself.
+<a href='https://www.theverge.com/2021/4/17/22389519/google-feature-chrome-90-highlighted-links'> Source <a/>

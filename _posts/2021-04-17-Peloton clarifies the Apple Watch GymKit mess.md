@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0gtR5zZdcsRpgoi0uKBGzMNbaDA=/0x0:2040x1360/1200x800/filters:focal(930x363:1256x689)/cdn.vox-cdn.com/uploads/chorus_image/image/69136952/akrales210108_4344_0020.0.jpg' width='700px' /><br/>
-Okay. Peloton sells a very famous stationary bicycle with streaming workouts, an app, and a whole fitness lifestyle situation.
-<a href='https://www.theverge.com/2021/4/16/22387412/peloton-apple-watch-integration-gymkit-statement-terms-of-service'> Source <a/>

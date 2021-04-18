@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pKEmxNEYp7IIN0pE9x5eryQUpaI=/0x0:4971x3314/1200x800/filters:focal(2089x1260:2883x2054)/cdn.vox-cdn.com/uploads/chorus_image/image/69143586/1232034013.0.jpg' width='700px' /><br/>
+Virtual gaming platform Roblox is developing content ratings for games and easier-to-use parental controls, the company's chief privacy officer Remy Malan told The Wall Street Journal.
+<a href='https://www.theverge.com/2021/4/17/22389637/roblox-content-ratings-games-kids'> Source <a/>
