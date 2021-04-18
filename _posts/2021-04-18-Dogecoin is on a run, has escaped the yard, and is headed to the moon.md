@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ByCzLV-FK04btA7bxc_pr5Pory4=/0x0:560x345/1200x800/filters:focal(236x129:324x217)/cdn.vox-cdn.com/uploads/chorus_image/image/69137452/Dogecoin_logo.0.png' width='700px' /><br/>
-Oh, super, Dogecoin is spiking. The joke currency, which as recently as January 27th was worth less than a cent, hit 47 cents this morning, according to Robinhood's tracker. As I type this, the market cap is more than $51 billion.
-<a href='https://www.theverge.com/2021/4/16/22387486/dogecoin-run-valuation-cryptocurrency-spike-elon-musk'> Source <a/>

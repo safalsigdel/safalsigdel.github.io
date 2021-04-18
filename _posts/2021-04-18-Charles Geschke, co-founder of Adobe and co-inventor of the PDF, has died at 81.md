@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t6wWlOG7RhOS3Fm5AiUE3eQ_yd0=/0x0:3004x2982/1200x800/filters:focal(1262x1251:1742x1731)/cdn.vox-cdn.com/uploads/chorus_image/image/69145601/635239745.0.jpg' width='700px' /><br/>
+Charles “Chuck” Geschke, a co-founder of Adobe who helped develop the PDF, has died at age 81, the company said in a statement.
+<a href='https://www.theverge.com/2021/4/18/22390452/charles-geschke-cofounder-adobe-inventor-pdf-obituary'> Source <a/>
