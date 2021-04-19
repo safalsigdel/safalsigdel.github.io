@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5RFycqz6APyUPH0QU_j2pzS2NI8=/0x0:3000x2000/1200x800/filters:focal(1617x688:2097x1168)/cdn.vox-cdn.com/uploads/chorus_image/image/69139842/VRG_ILLO_4341_American_Ethernet.0.jpg' width='700px' /><br/>
-Internet should become a lot more affordable in New York after Governor Andrew Cuomo signed a bill that requires all Internet Service Providers operating in New York state to offer a $15 a month broadband option for low-income consumers.
-<a href='https://www.theverge.com/2021/4/16/22388184/new-york-affordable-internet-cost-low-income-price-cap-bill'> Source <a/>
