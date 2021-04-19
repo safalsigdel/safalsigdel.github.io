@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2oXWSbr1ndUuGvhINW2IlbMikOQ=/0x0:2400x1200/1200x800/filters:focal(1008x408:1392x792)/cdn.vox-cdn.com/uploads/chorus_image/image/69137594/final_Android_11_emoji.0.jpeg' width='700px' /><br/>
-After pausing its review of emoji submissions, the Unicode Emoji Subcommittee is back with tips for successful submissions, chair Jennifer Daniel announced. Anything you submit now could come to phones as soon as 2023 — but if you want to fine-tune your emoji, she's got some suggestions.
-<a href='https://www.theverge.com/2021/4/16/22387628/new-emoji-submissions-unicode-subcommittee'> Source <a/>

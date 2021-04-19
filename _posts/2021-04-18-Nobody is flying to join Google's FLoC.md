@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fXakSTcFm0K8smZIOgiwD5XNp_Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69137732/jbareham_170523_1716_0001_v2.0.jpg' width='700px' /><br/>
-Google is going it alone with its proposed advertising technology to replace third-party cookies. Every major browser that uses the open source Chromium project has declined to use it, and it's unclear what that will mean for the future of advertising on the web.
-<a href='https://www.theverge.com/2021/4/16/22387492/google-floc-ad-tech-privacy-browsers-brave-vivaldi-edge-mozilla-chrome-safari'> Source <a/>
