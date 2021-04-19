@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hzPiXaS_jkNWGl_ShN_MQlaZKaQ=/100x180:1984x1493/1200x800/filters:focal(564x469:948x853)/cdn.vox-cdn.com/uploads/chorus_image/image/69148008/XS21Outdoor52201.0.jpg' width='700px' /><br/>
+Audi has debuted a concept version of an all-electric A6 sedan, which is coming to all major global markets and will be built on a new EV platform the company is co-developing with Porsche. A production version won't be revealed until at least the second half of 2022, but the German automaker is targeting around 700 kilometers (more than 400 miles) of range for the new car, which will be called the A6 E-Tron.
+<a href='https://www.theverge.com/2021/4/19/22391245/audi-a6-e-tron-concept-porsche-auto-shanghai-2021'> Source <a/>
