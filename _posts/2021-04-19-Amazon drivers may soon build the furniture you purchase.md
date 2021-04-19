@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I-jNHsEfdrIevHQ3bUJ35zcWUXQ=/0x0:4200x2597/1200x800/filters:focal(723x410:1395x1082)/cdn.vox-cdn.com/uploads/chorus_image/image/69138577/1155745592.0.jpg' width='700px' /><br/>
-Amazon is considering a new service that would have drivers not only deliver but build furniture, according to Bloomberg. The service is meant to help Amazon better compete with Wayfair and brick-and-mortar stores like Home Depot, Lowes, and Best Buy.
-<a href='https://www.theverge.com/2021/4/16/22387755/amazon-furniture-assembly-service-delivery-drivers'> Source <a/>
