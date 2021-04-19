@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XELSIlalZ3MeY99iVV_dnZUaVFU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69149992/acastro_180524_1777_tesla_0002.0.jpg' width='700px' /><br/>
+The National Highway Traffic Safety Administration (NHTSA) has dispatched a team to investigate the fatal Tesla crash in Texas, in which two people were killed after their vehicle crashed into a tree with no one behind the steering wheel.
+<a href='https://www.theverge.com/2021/4/19/22391890/tesla-driverless-crash-texas-nhtsa-investigation'> Source <a/>
