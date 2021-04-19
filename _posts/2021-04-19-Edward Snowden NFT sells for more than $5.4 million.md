@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jwylWvKQQLQ-HDBJdcNiMBmbHB4=/0x0:2400x1600/1200x800/filters:focal(1541x341:1925x725)/cdn.vox-cdn.com/uploads/chorus_image/image/69140679/live_2017_05_03_snowden_doctorow_6420.0.jpg' width='700px' /><br/>
-Today, NSA whistleblower Edward Snowden's NFT sold for about $5.4 million, or 2,224 ETH. The NFT is of an artwork that shows an image of Snowden's face made from pages of a US appeals court decision that ruled the mass surveillance program Snowden exposed had violated US law.
-<a href='https://www.theverge.com/2021/4/16/22388548/edward-snowden-nft-freedom-of-the-press-stay-free'> Source <a/>
