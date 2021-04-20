@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UhTHqVo6ui-0dLGxssfOY7XGDtc=/0x0:812x630/1200x800/filters:focal(342x251:470x379)/cdn.vox-cdn.com/uploads/chorus_image/image/69154933/download.0.jpeg' width='700px' /><br/>
+Amazon's latest bricks-and-mortar experiment is, unexpectedly, a hair salon. The company is opening its Amazon Salon in London's East End Spitalfields area, where it says it will trial “the latest industry technology.” This includes an augmented reality app that lets customers see what different hair styles and colors look like on them before they decide on a change.
+<a href='https://www.theverge.com/2021/4/20/22393476/amazon-salon-london-concept-store'> Source <a/>
