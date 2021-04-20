@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-LJ-UZngXmWJNP24kQEfvHxzyO0=/0x0:1392x776/1200x800/filters:focal(575x264:797x486)/cdn.vox-cdn.com/uploads/chorus_image/image/69149911/CeLOBOX.0.png' width='700px' /><br/>
-The British government has ordered an investigation of Nvidia's proposed $40 billion acquisition of UK-headquartered chip designer Arm. The country's competition regulator, the Competition and Markets Authority (CMA), will prepare an initial report on the takeover by the end of July, which will cover potential national security issues, as well as competition and jurisdictional issues created by the deal.
-<a href='https://www.theverge.com/2021/4/19/22391744/nvidia-arm-acquisition-uk-competition-regulator-cma-investigation-national-security-grounds'> Source <a/>
