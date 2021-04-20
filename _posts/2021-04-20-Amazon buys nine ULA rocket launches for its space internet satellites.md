@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6QaqdIK7ATzpLB-e5UlcPjc7bOI=/0x0:4200x2714/1200x800/filters:focal(1517x1132:2189x1804)/cdn.vox-cdn.com/uploads/chorus_image/image/69150105/1227844386.0.jpg' width='700px' /><br/>
-Amazon bought nine launches from the Boeing-Lockheed joint venture United Launch Alliance to send its internet-beaming Kuiper satellites into space, the companies announced. It is Amazon's first launch agreement.
-<a href='https://www.theverge.com/2021/4/19/22391508/amazon-ula-rocket-launches-internet-satellites-kuiper'> Source <a/>

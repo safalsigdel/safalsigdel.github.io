@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N2RTYwQj5Zrpu0wt_55DUHFZJVo=/0x0:1800x1200/1200x800/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/69154736/levant_feature_enter_into_dex_for_productivity_421565506.0.jpg' width='700px' /><br/>
+Samsung has quietly announced a new wireless keyboard, the Smart Keyboard Trio 500. According to a listing on Samsung's store spotted by Max Jambor it's a compact wireless keyboard with a very similar design to the likes of Apple's Magic Keyboard, but with an interesting Samsung twist — a DeX shortcut to use the desktop-style interface on compatible Samsung devices.
+<a href='https://www.theverge.com/2021/4/20/22393443/samsung-smart-keyboard-trio-500-dex-desktop-galaxy-phones-tablets-wireless'> Source <a/>
