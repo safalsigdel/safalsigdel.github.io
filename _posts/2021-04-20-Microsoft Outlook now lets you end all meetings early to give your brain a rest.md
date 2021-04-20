@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7BLDpk2h2Xhh1vcn210ZDlMs5VU=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/69155945/OWA_user_level_setting_in_frame.0.png' width='700px' /><br/>
+Microsoft is updating Outlook to give companies the option to automatically start or end all meetings early to ensure employees have a break between back-to-backs. New settings in Outlook are rolling out to help reduce the digital overload of working remotely.
+<a href='https://www.theverge.com/2021/4/20/22393500/microsoft-outlook-meetings-end-early-brain-rest-feature'> Source <a/>
