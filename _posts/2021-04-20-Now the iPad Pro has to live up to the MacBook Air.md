@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cAcFsvIojrYjjLyM5jPxVE7Wp_g=/0x0:2040x1360/1200x800/filters:focal(515x562:841x888)/cdn.vox-cdn.com/uploads/chorus_image/image/69154877/vpavic_042018_3979_0075.0.jpg' width='700px' /><br/>
+Today, we're expecting a grab bag of new products from Apple, headlined by new iPad Pros. Given the relatively minor spec bumps that we got on last year's iPad Pros, this time around we're hoping for a more substantial update. In some ways, it seems likely that Apple will deliver, at least with the larger 12.9-inch iPad Pro.
+<a href='https://www.theverge.com/2021/4/20/22391979/apple-ipad-pro-vs-macbook-air-2021-anouncement'> Source <a/>
