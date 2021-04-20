@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gfyg9OBaRDc-GDBtRw7enZiAubA=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69150481/20210419_01_15.0.jpg' width='700px' /><br/>
-Toyota, an early pioneer in electrification that has since fallen far behind its competitors, finally announced an electric vehicle strategy that will result in 15 new battery-electric vehicles released by 2025.
-<a href='https://www.theverge.com/2021/4/19/22391738/toyota-electric-vehicle-strategy-bz4x-concept-subaru'> Source <a/>
