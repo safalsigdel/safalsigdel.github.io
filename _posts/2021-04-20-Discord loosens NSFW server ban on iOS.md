@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zGMmbkEAr2Qr0Dv0LyG27olw9vQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69149325/acastro_200318_1777_discord_0002.0.0.jpg' width='700px' /><br/>
-Discord has loosened its ban on accessing NSFW servers from its iPhone and iPad apps. Now, only servers focused on “explicit pornographic content” will be fully blocked from being accessed through the apps. Other NSFW servers will still be blocked by default, but users will be able to opt in to viewing them.
-<a href='https://www.theverge.com/tech/2021/4/19/22391675/discord-ios-nsfw-ban-loosened-opt-in'> Source <a/>

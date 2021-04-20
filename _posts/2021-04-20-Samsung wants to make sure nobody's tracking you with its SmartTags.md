@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/56zvDlbOEtBAEZe3Od4m_L6e0L0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69154297/cgartenberg_210111_4368_0003.0.jpg' width='700px' /><br/>
+Samsung has announced that customers will soon be able to scan for unknown Galaxy SmartTags trackers using Samsung's SmartThings Find service. The feature, called Unknown Tag Search, will be coming to the SmartThings app starting next week.
+<a href='https://www.theverge.com/2021/4/20/22392924/samsung-smartags-tracker-bixby-privacy-smartthings'> Source <a/>
