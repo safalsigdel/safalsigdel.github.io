@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CJuN0yAKWhpDiU1cvtGIBmOuA_0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69150510/ss_33caf1a7c20297bbca8bb434976a709d39e104af.0.jpg' width='700px' /><br/>
-It's been a long time since we've heard about the mobile version of Apex Legends, but we'll be seeing more of it very soon: EA announced that a regional beta for the game will kick off later this month. Initially, the publisher says the game will only be available to “a few thousand players in India and the Philippines,” but the plan is to roll it out to more countries over the course of the year.
-<a href='https://www.theverge.com/2021/4/19/22391634/apex-legends-mobile-beta'> Source <a/>
