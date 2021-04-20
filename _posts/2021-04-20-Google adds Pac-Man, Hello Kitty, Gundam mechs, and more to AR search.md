@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Google has added a bunch of popular Japanese characters to its AR feature in mobile search, which has previously featured animals, historical artifacts, and dinosaurs. The list of characters is taken from Japanese pop culture including anime, TV, and video games, with names like Pac-Man, Hello Kitty, mechs from Evangelion and Gundam, and more. The feature works on Google search on Android and the iOS Google app.
+<a href='https://www.theverge.com/2021/4/20/22393349/google-ar-search-anime-video-game-japanese-characters'> Source <a/>
