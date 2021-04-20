@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j7Bw3U7hrIIyc4FTZ6B1dL8xzsQ=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/69151200/20C0580_006.0.jpg' width='700px' /><br/>
-Mercedes-Benz has revealed a new electric SUV called the EQB at Auto Shanghai 2021. It's the first mass-market electric SUV the company will sell in the US after it canceled plans to bring its first mass-market EV, the EQC, stateside in February. It will be the second mass-market electric Mercedes-Benz in the US after the EQS sedan goes on sale later this year.
-<a href='https://www.theverge.com/2021/4/19/22392215/mercedes-benz-eqb-electric-suv-us-specs-auto-shanghai-2021'> Source <a/>

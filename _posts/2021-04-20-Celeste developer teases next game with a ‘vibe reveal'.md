@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dA_3JbKSzEotwG5L6VzN30_dh6U=/0x0:2979x2035/1200x800/filters:focal(1252x780:1728x1256)/cdn.vox-cdn.com/uploads/chorus_image/image/69151174/Ap5k0FaQ.0.png' width='700px' /><br/>
-The developer of indie hits Celeste and Towerfall has unveiled its next game: Earthblade. There aren't many details about the game just yet, but Extremely OK Games billed Monday's news as a “vibe reveal,” taking the wraps off the game's title, a poster, and a song from the game.
-<a href='https://www.theverge.com/2021/4/19/22392226/celeste-developer-earthblade-towerfall-games-vibe-reveal'> Source <a/>
