@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mn0oJ2amZ2X6_zn5lGH-Dlnrm7Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69150569/vpavic_191205_untitled_0018_Edit.0.jpg' width='700px' /><br/>
-Sony has announced that it'll be keeping its PS3 and PlayStation Vita digital storefront open “for the foreseeable future.” The PSP's store will still be shut down on July 2nd, 2021, as originally planned.
-<a href='https://www.theverge.com/2021/4/19/22392126/sony-ps3-ps-vita-stores-open-backtrack-psp-july-2nd-mistake'> Source <a/>

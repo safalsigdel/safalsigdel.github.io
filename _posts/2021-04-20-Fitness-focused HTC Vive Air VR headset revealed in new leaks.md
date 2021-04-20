@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AmPJh1m-3YkEVAbVHpPkTxQZo9Y=/0x0:2560x1536/1200x800/filters:focal(1076x564:1484x972)/cdn.vox-cdn.com/uploads/chorus_image/image/69155136/htc_vive_air_leak_.0.jpeg' width='700px' /><br/>
+Images of an upcoming fitness-focused virtual reality headset from HTC, dubbed the Vive Air, have leaked online. Details about the product were published by the World Design Guide (which we spotted via Engadget) as part of its annual awards. It seems likely the product will be unveiled officially at HTC's upcoming ViveCon 2021 on May 11th and 12th.
+<a href='https://www.theverge.com/2021/4/20/22393527/htc-vive-air-fitness-focused-headset-leaks-images'> Source <a/>
