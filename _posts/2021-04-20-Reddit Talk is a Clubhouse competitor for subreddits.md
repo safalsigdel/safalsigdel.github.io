@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fVka4BidLxhOgd8Bwwx-IDc30Mc=/0x0:2018x1331/1200x800/filters:focal(848x505:1170x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69150178/e2shqcw2h5u61__1_.0.png' width='700px' /><br/>
-Reddit unveiled its take on a Clubhouse-like social audio product on Monday, called Reddit Talk. The company is billing Monday's announcement as a “sneak preview,” since the feature isn't widely available yet. Moderators that want to try the feature out in their subreddit can add themselves to a waitlist for access.
-<a href='https://www.theverge.com/2021/4/19/22391875/reddit-talk-clubhouse-social-audio'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bWnYvzs8SJC94is2Cm1GJRYBhZQ=/0x0:1018x758/1200x0/filters:focal(0x0:1018x758):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22455653/image001__1_.jpg' width='700px' /><br/>
+Venmo is releasing a feature that will allow users the option to store, buy, and sell popular cryptocurrencies, PayPal announced on Tuesday. Similar to PayPal, Venmo will support four different cryptocurrencies: Bitcoin, Ethereum, Bitcoin Cash, and Litecoin. PayPal had said last year that Venmo would get support for cryptocurrencies.
+<a href='https://www.theverge.com/2021/4/20/22392274/venmo-cryptocurrency-support-buy-sell-hold-bitcoin'> Source <a/>
