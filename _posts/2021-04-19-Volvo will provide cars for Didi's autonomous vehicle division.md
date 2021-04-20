@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qer7lIvsbAWX64uO_QpDfzfRoTw=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69148795/Volvo_XC90_DiDi_2.0.jpg' width='700px' /><br/>
-Volvo will provide vehicles for Didi Chuxing's self-driving taxi fleet, according to a new deal between the two companies. The Swedish automaker, which is owned by China's largest private automaker Geely, will supply XC90 SUVs to Didi Autonomous Driving, the self-driving technology division of China's vehicle-for-hire company.
-<a href='https://www.theverge.com/2021/4/19/22391506/volvo-didi-av-autonomous-vehicle-xc90-suv'> Source <a/>

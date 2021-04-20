@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r3NsQKj7ZeRu4xZUVQuALRnaVAg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69147043/acastro_210309_1777_vaccine_0003.0.jpg' width='700px' /><br/>
-Facebook, Twitter, and Snap are among the companies that will assist with the Biden administration's promotional campaign for vaccine eligibility, Axios reported. The White House had set a date of May 1st for states to open coronavirus vaccine eligibility to all adults, but later pushed it to April 19th.
-<a href='https://www.theverge.com/2021/4/18/22391004/twitter-facebook-snap-white-house-vaccine-campaign'> Source <a/>

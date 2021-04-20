@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/snj_-lffcOjOMOdvPWfvv8ztpSg=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69146087/fatal_crash_tesla.0.jpeg' width='700px' /><br/>
-Authorities in Texas say two people were killed when a Tesla with no one in the driver's seat crashed into a tree and burst into flames, Houston television station KPRC 2 reported.
-<a href='https://www.theverge.com/2021/4/18/22390612/two-people-killed-fiery-tesla-crash-no-driver'> Source <a/>

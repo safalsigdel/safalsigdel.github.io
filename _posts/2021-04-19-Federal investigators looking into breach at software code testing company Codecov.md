@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0VYnPIQ8cqtqQhQ5cOTC-oMcECg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69145368/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
-Federal officials are investigating a security breach at software auditing company Codecov, which apparently went undetected for months, Reuters reported.  Codecov's platform is used to test software code for vulnerabilities, and its 29,000 clients include Atlassian, Proctor & Gamble, GoDaddy, and the Washington Post.
-<a href='https://www.theverge.com/2021/4/18/22390379/federal-investigators-breach-software-codecov-solarwinds'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YZZmCmocxaYHcAlvfFs_yaOhrGY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69142134/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
-It looks like problems on Twitter that began Friday night are persisting Saturday morning. People on the east coast of the US were reporting that while the page would load, they were unable to send tweets and DMs. As of 11 AM ET Saturday, the site was still experiencing issues for many users.
-<a href='https://www.theverge.com/2021/4/17/22388685/twitter-partial-outage-saturday-east-coast'> Source <a/>

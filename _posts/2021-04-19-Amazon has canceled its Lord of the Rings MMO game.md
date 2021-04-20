@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ug0gJm29IfIhvWOIvid_1Lp3_q4=/0x0:825x464/1200x800/filters:focal(347x166:479x298)/cdn.vox-cdn.com/uploads/chorus_image/image/69143387/DOiAi2WUEAE3A1Y.0.jpg' width='700px' /><br/>
-Amazon Game Studios has canceled a Lord of the Rings online role-playing game, Bloomberg reported. The company announced the project with Leyou-owned Athlon Games back in 2019, and planned it to be a free-to-play game for PC and consoles.
-<a href='https://www.theverge.com/2021/4/17/22389533/amazon-canceled-lord-of-the-rings-game-tencent'> Source <a/>

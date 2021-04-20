@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oWCUTS7efzt7NVv1hPDJTbM39WU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69151574/vpavic_200907_4181_0010.0.jpg' width='700px' /><br/>
+Samsung is giving owners of its foldable phones some free dessert. Specifically, an order of “Chef Daniel Boulud's signature Madeleines and Canelxc3xa9,” designed by the chef exclusively for Samsung's Galaxy Z Premier program, which offers Galazy Z Fold and Flip owners free perks in exchange for having bought the luxury-styled phones.
+<a href='https://www.theverge.com/2021/4/19/22392343/samsung-galaxy-z-premier-program-new-perks-madeleines-canele-free-dessert-founderscard'> Source <a/>

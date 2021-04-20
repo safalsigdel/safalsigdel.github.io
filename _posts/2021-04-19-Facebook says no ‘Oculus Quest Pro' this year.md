@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5YjrKL3nmJmOBFrYf3NTeCIr9rQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69148184/akrales_200904_4160_0216.0.0.jpg' width='700px' /><br/>
-Andrew Bosworth, VP at Facebook's Reality Labs, has given some more hints as to what's in store for future Oculus hardware. In an audio Q&A with John Carmack on Twitter Spaces transcribed by UploadVR, Bosworth suggested that while last year's Quest 2 will be sticking around for some time yet, the company is working on headsets with greater capabilities.
-<a href='https://www.theverge.com/2021/4/19/22391456/oculus-quest-3-pro-timeline-facebook-vr'> Source <a/>

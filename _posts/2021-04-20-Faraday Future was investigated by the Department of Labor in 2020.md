@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ICr2RNWeVCbLCmrr8kYBC5_T3Hk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69150232/faraday_future_ff91_5232.0.jpg' width='700px' /><br/>
+Faraday Future was investigated by the Department of Labor in 2020, though the electric vehicle startup says the matter was “resolved,” according to a previously unreported passage in a recent regulatory filing.
+<a href='https://www.theverge.com/2021/4/19/22380333/faraday-future-spac-psac-ipo-public-investigation-ffie'> Source <a/>

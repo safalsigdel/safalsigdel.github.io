@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DjnhFYFje7TsdJyxm2IT5Kv_wq0=/0x0:1786x1191/1200x800/filters:focal(751x454:1035x738)/cdn.vox-cdn.com/uploads/chorus_image/image/69149307/xcloudiphoneipad.5.jpg' width='700px' /><br/>
-Microsoft's Xbox Cloud Gaming (xCloud) will officially arrive on iOS and PC tomorrow, April 20th. The service will arrive on devices via browsers, allowing Xbox Game Pass Ultimate subscribers to play Xbox games on iPhones, iPads, and PCs. Microsoft is keeping this beta rather limited, though, and requiring players to be invited to participate in the testing phase.
-<a href='https://www.theverge.com/2021/4/19/22391561/microsoft-xcloud-ios-pc-xbox-game-streaming-beta-features'> Source <a/>

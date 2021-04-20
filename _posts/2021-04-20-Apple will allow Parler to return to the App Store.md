@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_2c6T6vPMvsNlOaLc9MKvQuQhf8=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/69150198/1232034190.0.jpg' width='700px' /><br/>
+Apple will allow Parler to return to its App Store, according to a letter first reported by CNN on Monday.
+<a href='https://www.theverge.com/2021/4/19/22391943/apple-parler-app-store-lawmakers-hearing-google-play'> Source <a/>

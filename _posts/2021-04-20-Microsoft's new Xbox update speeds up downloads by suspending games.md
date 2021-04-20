@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dueL_ToQb_KMVzHlTT4NOmjh5R0=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/69150848/twarren_200909_4177_0029.0.0.jpg' width='700px' /><br/>
+Microsoft is rolling out a new Xbox April dashboard update today that will improve the way games are downloaded. A new feature will now let Xbox owners suspend games to speed up download speeds. Currently, Xbox One and Xbox Series X / S systems throttle game updates and new game downloads if another game is active.
+<a href='https://www.theverge.com/2021/4/19/22392220/microsoft-new-xbox-update-suspend-games-faster-downloads-feature'> Source <a/>
