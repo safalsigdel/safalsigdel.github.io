@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eiavmqMeP--gziZHlcj2sqcUnR4=/0x0:912x597/1200x800/filters:focal(384x227:528x371)/cdn.vox-cdn.com/uploads/chorus_image/image/69151016/Screen_Shot_2021_04_19_at_11.54.43_AM.5.jpg' width='700px' /><br/>
-Facebook is going all in on audio. The company announced multiple products on Monday that emphasize voice content over text, images, or video. The products will be released over the next few months and, in some cases, will start with a limited set of people.
-<a href='https://www.theverge.com/2021/4/19/22391551/facebook-audio-podcasts-clubhouse-competitor-spotify-live-rooms'> Source <a/>
