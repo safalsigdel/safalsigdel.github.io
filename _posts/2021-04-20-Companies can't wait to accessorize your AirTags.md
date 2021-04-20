@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5kw89_Q-D86A6q4mvZh4LdCSQaw=/0x0:2538x1692/1200x800/filters:focal(1066x643:1472x1049)/cdn.vox-cdn.com/uploads/chorus_image/image/69154692/s_l1600.0.jpg' width='700px' /><br/>
+Apple's long-rumored AirTags trackers could launch alongside a wide array of third-party accessories, if retailer listings and leaked photos pulled together by MacRumors are accurate. eBay and Etsy sellers, and even Walmart, are already selling keychains to attach the trackers to a set of keys. Images of apparent silicone straps have also leaked, showing how the trackers could be strapped to bigger items.
+<a href='https://www.theverge.com/2021/4/20/22393404/airtags-accessories-keychain-leaked-photos-listings-trackers-tile'> Source <a/>
