@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hHwNFWFU3SlH57AAep_JVwIR5vQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69154645/eposh3hed.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/03umz9ASzU5RGTBUaOUlZYFsMu0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69154645/cfaulkner_20210420_4538_0001.5.jpg' width='700px' /><br/>
 The gaming audio company EPOS has debuted a new wired gaming headset called the H3. It's not as exciting as its GTW 270 truly wireless earbuds for gaming, and depending on your needs, its short list of features might not be worth its $119 price. But a few things stick out in the H3's favor after spending a few days with it.
 <a href='https://www.theverge.com/22392330/epos-h3-gaming-headset-wired-pc-ps5-xbox-series-x-s-ps4-nintendo-switch-features-price'> Source <a/>
