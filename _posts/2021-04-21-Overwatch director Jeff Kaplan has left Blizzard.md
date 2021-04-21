@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MVz2aqpwUs50fsvaTSx4a4y9k8M=/0x0:4827x3218/1200x800/filters:focal(2028x1223:2800x1995)/cdn.vox-cdn.com/uploads/chorus_image/image/69158017/871693790.0.jpg' width='700px' /><br/>
-Jeff Kaplan, the most public face of Blizzard's team shooter Overwatch, has left the company.
-<a href='https://www.theverge.com/2021/4/20/22394116/overwatch-director-jeff-kaplan-activision-blizzard-departure'> Source <a/>

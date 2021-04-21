@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ODjHWTtPHD6kXgi3g7exsk_f7T4=/0x0:1994x1255/1200x800/filters:focal(840x505:1160x825)/cdn.vox-cdn.com/uploads/chorus_image/image/69161880/Tamagotchi_Pix.0.jpg' width='700px' /><br/>
+Today, Bandai is announcing the Tamagotchi Pix: a combination of its classic Tamagotchi pet-rearing toy line with a new built-in camera for taking pictures with your digital pet.
+<a href='https://www.theverge.com/2021/4/21/22386339/tamagotchi-pix-pet-egg-camera-toy-ar'> Source <a/>
