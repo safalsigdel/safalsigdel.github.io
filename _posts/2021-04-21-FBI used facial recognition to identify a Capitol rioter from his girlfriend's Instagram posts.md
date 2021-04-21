@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iF9BZTSsj5FqgdtLCPuS41oQ_jo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69161462/acastro_180730_1777_facial_recognition_0003.0.jpg' width='700px' /><br/>
+The FBI says it used facial recognition technology to track down and arrest an individual suspected of taking part in the US Capitol riots earlier this year. The case, which was first reported by The Huffington Post, is notable for the FBI's acknowledgement that it used facial recognition not just to confirm a suspect's identity, but to discover it in the first place.
+<a href='https://www.theverge.com/2021/4/21/22395323/fbi-facial-recognition-us-capital-riots-tracked-down-suspect'> Source <a/>
