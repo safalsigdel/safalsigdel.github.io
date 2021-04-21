@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-55n6cvT8tzvOo0uXeQESCbjFjQ=/0x0:2618x1496/1200x800/filters:focal(1930x549:2348x967)/cdn.vox-cdn.com/uploads/chorus_image/image/69161403/Gogoro_Swap_Girl_L.0.jpg' width='700px' /><br/>
+Gogoro is branching out of home country Taiwan in the biggest way yet, as it just announced a partnership with major two-wheeler manufacturer Hero MotorCorp to bring its swappable battery and scooter tech to India. As part of the deal, Hero will build electric scooters based around Gogoro's tech, and will also install Gogoro's battery-swapping stations in cities throughout the country.
+<a href='https://www.theverge.com/2021/4/21/22394575/gogoro-india-hero-motorcorp-electric-scooters-battery-swap-stations'> Source <a/>
