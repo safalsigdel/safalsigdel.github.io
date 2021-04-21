@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xSISzVzP6wuqKcmESbXwdPLBWgQ=/0x0:1000x667/1200x800/filters:focal(420x254:580x414)/cdn.vox-cdn.com/uploads/chorus_image/image/69156653/shutterstock_229697875.0.0.jpg' width='700px' /><br/>
-The US Federal Trade Commission has warned companies against using biased artificial intelligence, saying they may break consumer protection laws. A new blog post notes that AI tools can reflect “troubling” racial and gender biases. If those tools are applied in areas like housing or employment, falsely advertised as unbiased, or trained on data that is gathered deceptively, the agency says it could intervene.
-<a href='https://www.theverge.com/2021/4/20/22393873/ftc-ai-machine-learning-race-gender-bias-legal-violation'> Source <a/>
