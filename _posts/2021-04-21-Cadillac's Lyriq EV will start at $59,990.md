@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jpS7VkW1wRpPq4LZQ2juH2bYoNo=/0x97:1780x1335/1200x800/filters:focal(1008x554:1392x938)/cdn.vox-cdn.com/uploads/chorus_image/image/69161977/MY23LYRIQ_HERO_FRONT_3_4_BLACK_ROOF_FINAL.0.jpg' width='700px' /><br/>
+Cadillac has announced that its first electric car, the Lyriq, will start at $59,990 before tax, license, and dealer fees. The luxury brand of General Motors also said the electric SUV will be available for reservations starting in September ahead of the start of production in the first quarter of 2022. The Lyriq SUV will officially go on sale shortly after that in the first half of the year.
+<a href='https://www.theverge.com/2021/4/21/22394483/cadillac-lyriq-electric-suv-price-specs-2022'> Source <a/>
