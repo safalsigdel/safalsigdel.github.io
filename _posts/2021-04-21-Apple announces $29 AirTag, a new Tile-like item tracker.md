@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wh0ptTa09OiTxq-mCDmZRjtYJjk=/0x0:2142x1428/1200x800/filters:focal(900x543:1242x885)/cdn.vox-cdn.com/uploads/chorus_image/image/69157034/airtag.5.jpg' width='700px' /><br/>
-Apple is officially launching a Tile-like item tracker that will work with the company's software and services. Dubbed AirTag, the small circular tag will allow you to track items within Apple's “Find My” app on iOS. Much like Tile, Apple's AirTags will be useful for tracking items like keys or wallets, and you'll be provided with notifications when you're separated from your item.
-<a href='https://www.theverge.com/2021/4/20/20844326/apple-airtags-bluetooth-tracker-keys-tile-features-price'> Source <a/>
