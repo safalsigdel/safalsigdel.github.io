@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b9MGxkiFHIO__JPIak2ROb5F7PM=/0x0:3600x2405/1200x800/filters:focal(1527x269:2103x845)/cdn.vox-cdn.com/uploads/chorus_image/image/69159566/BRIDGERTON_108_Unit_01959R.0.jpg' width='700px' /><br/>
+Netflix is seeing a slowdown in new subscriptions as the company puts out fewer shows following a year of delayed productions. The company now has 208 million paid subscribers across the globe, up from 204 million last quarter. That's not much to complain about, but it's a substantial slowdown compared to the rapid growth Netflix saw during the same time period in 2020 when it added four times as many new subscribers.
+<a href='https://www.theverge.com/2021/4/20/22394425/netflix-subscriber-growth-stalls-2021'> Source <a/>

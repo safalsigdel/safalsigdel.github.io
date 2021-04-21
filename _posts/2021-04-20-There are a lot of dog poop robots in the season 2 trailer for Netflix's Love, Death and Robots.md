@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I8uv9do8fCQqdFQ_qQcZgdfu0mM=/0x0:3266x2408/1200x800/filters:focal(1372x943:1894x1465)/cdn.vox-cdn.com/uploads/chorus_image/image/69151761/Screen_Shot_2021_04_19_at_12.51.47_PM.0.png' width='700px' /><br/>
-Love, Death and Robots is heading back to Netflix for “Volume 2” on May 14th, according to a new trailer the company released today. The science fiction anthology series originally debuted in 2019 and was renewed for more episodes that same year. Now, Netflix is showing off a new bundle of episodes and teasing more for 2022.
-<a href='https://www.theverge.com/2021/4/19/22392424/netflix-love-death-robots-season-two-trailer-dog-poop'> Source <a/>

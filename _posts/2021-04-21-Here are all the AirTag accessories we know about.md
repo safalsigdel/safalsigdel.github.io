@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zmVzRrN1sHTcDbgorjJ724WnZik=/470x0:2558x960/1200x800/filters:focal(1311x304:1771x764)/cdn.vox-cdn.com/uploads/chorus_image/image/69159413/airtag_accessories_header_202104.0.jpg' width='700px' /><br/>
+The Apple AirTags have finally been announced, and with them come a ton of accessories to make them easier to use (so much easier than if it had, say, a built-in way to attach it to things). While a small tracking puck could be carried in a bag, there are a variety of other things that you may want to put an AirTag on that require some sort of holder or the judicious use of tape.
+<a href='https://www.theverge.com/2021/4/20/22394331/apple-airtag-release-launch-accessory-roundup-nomad-belkin'> Source <a/>

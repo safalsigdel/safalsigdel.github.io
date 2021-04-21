@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Picture the scene. It's summer, lockdowns are easing, and you're ready to venture back out into the world. You're feeling brave after a year stuck inside, brave enough that you've picked out an all-white outfit. You read up on how to make the color work in the likes of Vogue and GQ, but suddenly, disaster strikes. You notice something. “The Verge's top rated wireless headphones!” you exclaim to no-one in particular, “they're only available in black, blue, or this weird dork-ass beige?!”
-<a href='https://www.theverge.com/tldr/2021/4/20/22393471/sony-wh-1000xm4-limited-edition-silent-white-headphones'> Source <a/>

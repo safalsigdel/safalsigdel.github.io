@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Yjvlj5x1p5_7Zg5xRe0dJ6lJKtw=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/69154935/oWpI9vyg.0.jpeg' width='700px' /><br/>
-Luigi — everyone's favorite also-ran brother of the most famous mushroom-stomping plumber — is joining Lego's interactive Super Mario collection of sets in a new starter kit (creatively titled the LEGO Super Mario Adventures with Luigi Starter Course.)
-<a href='https://www.theverge.com/2021/4/20/22393486/luigi-lego-super-mario-interactive-sets-nintendo-starter-course'> Source <a/>

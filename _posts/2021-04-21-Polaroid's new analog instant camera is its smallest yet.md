@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T-EUTdOHHP54fL0bv0Glmsd1B_Y=/0x0:883x541/1200x800/filters:focal(372x201:512x341)/cdn.vox-cdn.com/uploads/chorus_image/image/69158606/Screen_Shot_2021_04_20_at_8.34.42_AM.0.png' width='700px' /><br/>
+The Polaroid Go, Polaroid's new $99.99 instant camera seems tiny. In design and functionality, it's almost like a condensed version of the Polaroid Now launched last year. But it has a few add-ons like a selfie mirror and a longer-lasting battery for the trendier, on-the-go, social media-savvy crowd who are the champions of instant film cameras these days.
+<a href='https://www.theverge.com/2021/4/20/22393879/polaroid-go-instant-camera-tiny-selfie-timer'> Source <a/>

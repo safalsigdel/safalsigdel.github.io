@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3a-SP8_4gQGnNN1tGwBGiA9nbX8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69152116/2276_ElectrifiedGenesisG80.0.jpg' width='700px' /><br/>
-Genesis, Hyundai's luxury brand, has revealed its first all-electric car. It's called the Electrified G80 because, well, Genesis took the existing G80 sedan and is refitting it to run on electricity. The carmaker claims it will travel about 427 kilometers (roughly 265 miles) on a full battery.
-<a href='https://www.theverge.com/2021/4/19/22392557/genesis-electrified-g80-ev-electric-sedan-auto-shanghai-2021'> Source <a/>

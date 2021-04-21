@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6f3HEMdCTY4cuSHbvuKiOvDTGCI=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69155021/mchin_20190710_4532_0002.0.jpg' width='700px' /><br/>
-On paper, the Surface Laptop 4 is a Surface Laptop 3 with better chips.
-<a href='https://www.theverge.com/22392778/microsoft-surface-laptop-4-15-inch-review'> Source <a/>

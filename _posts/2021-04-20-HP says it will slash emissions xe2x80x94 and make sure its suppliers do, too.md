@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kYOFMiY7GSAF8X_JFzQdxD-VdPE=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/69155323/1179053339.0.jpg' width='700px' /><br/>
-HP pledged to slash its still-growing greenhouse gas emissions in half this decade, compared to 2019 levels. It plans to reach “net zero” emissions by 2040, meaning that it won't release more climate pollution than it can draw down from the atmosphere.
-<a href='https://www.theverge.com/2021/4/20/22392453/hp-sustainability-climate-change-commitments'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Nz58E6pqtgez6gB7xCfO514kb6s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69152166/acastro_170621_1777_0008.0.jpg' width='700px' /><br/>
-Insurance company Geico suffered a data breach earlier this year that exposed customers' driver's license numbers for more than a month, according to a data breach notice filed with the attorney general of California. First reported by TechCrunch, Geico says in the notice that it has fixed the security issue that led to the breach.
-<a href='https://www.theverge.com/2021/4/19/22392566/geico-data-breach-exposed-customer-drivers-license-numbers-security'> Source <a/>

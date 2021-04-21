@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/49rnvey6FGk2vVAfPsknqyydaUQ=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/69157642/lcimg_06ebca85_7eac_4c32_9e8f_4b98fad99ec8.5.jpeg' width='700px' /><br/>
+Right on schedule, Apple has launched the next generation of its iPad Pro. As was the case with the recent MacBook Air and MacBook Pro, Apple's improvements to the iPad Pro are largely on the inside.
+<a href='https://www.theverge.com/2021/4/20/22385675/apple-ipad-pro-m1-chip-specs-features-price'> Source <a/>

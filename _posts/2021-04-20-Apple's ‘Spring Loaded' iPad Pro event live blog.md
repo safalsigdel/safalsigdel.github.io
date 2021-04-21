@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wrm90IQZMjlRYFLZqc6IZgKe_mE=/0x0:2040x1600/1200x675/filters:focal(877x714:1203x1040)/cdn.vox-cdn.com/uploads/chorus_image/image/69156581/springblack3.0.jpg' width='700px' /><br/>
-Apple seemingly has a big backlog of products to announce. We've been anticipating new iPad Pros, AirTags, AirPods, an Apple TV, and just maybe a new iMac with Arm-based Apple Silicon. The tagline for today's event, “Spring Loaded,” seems to be a hint that today's live stream will be chock-full of new stuff. All signs, however, point to new iPad Pros being the star of the show.
-<a href='https://www.theverge.com/2021/4/20/22384269/apple-event-live-blog-news-announcements-ipad-pro-spring-loaded'> Source <a/>

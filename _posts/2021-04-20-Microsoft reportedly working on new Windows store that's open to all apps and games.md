@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yqtyojySwxOky_sxUEjQm6d7Ptw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69155664/DSCF1179.0.0.jpg' width='700px' /><br/>
-Microsoft is reportedly working on a big overhaul to its app store for Windows. Windows Central reports that the software maker plans to release an updated store later this year that will be far more open to all types of apps and games. This could pave the way for developers to be able to submit any Windows application to the store, including browsers like Chrome or Firefox, and even allow third-party commerce platforms in apps.
-<a href='https://www.theverge.com/2021/4/20/22393655/microsoft-windows-app-store-overhaul-apps-games-rumor'> Source <a/>

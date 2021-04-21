@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u3kUmgzrpGk7C_hjONdjXD8nNLo=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/69159684/CaptainMarvel5ba0fe91d3532.0.jpg' width='700px' /><br/>
+The Marvel Cinematic Universe may soon be home to two new queens. Yesterday, The Hollywood Reporter wrote that Olivia Colman was negotiating a role in Marvel's Secret Invasion Disney Plus series, and today, Variety reports that Emilia Clarke is in talks to do the same.
+<a href='https://www.theverge.com/2021/4/20/22394275/emilia-clarke-olivia-colman-marvel-secret-invasion-disney-plus'> Source <a/>

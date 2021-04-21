@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_6JhVS92dDEedrOsbI_eIyGCmio=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69155646/dseifert_201025_4263_00011.0.0.jpg' width='700px' /><br/>
-Amazon's Alexa-enabled devices can now help direct customers to COVID-19 vaccination sites, the company announced today. Users can ask, “Alexa, where can I get a COVID vaccine?” and hear a list of nearby places to get a shot.
-<a href='https://www.theverge.com/2021/4/20/22393624/alexa-covid-vaccine-amazon-site-location-call'> Source <a/>

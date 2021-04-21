@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/veX7DnWvdLrLzIHnc0uR8odqx5I=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/69152394/1230591907.0.jpg' width='700px' /><br/>
-The embattled social network Parler is slated to reappear on iOS on the week of April 26th, following its re-acceptance into Apple's App Store earlier today. However, the iOS app will block some content that's available on the Android and web versions of Parler — a compromise that apparently satisfies Apple's developer guidelines.
-<a href='https://www.theverge.com/2021/4/19/22392727/parler-relaunch-apple-app-store-moderation'> Source <a/>

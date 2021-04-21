@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zKg9_R6OliFlDWaTyr_nxhSR-kc=/0x0:1478x997/1200x800/filters:focal(632x361:868x597)/cdn.vox-cdn.com/uploads/chorus_image/image/69159217/2UiJGkD.0.jpeg' width='700px' /><br/>
+Apple has been quietly sticking special locator beacon chips into some of its new iPhones that'll let you unlock your car and find lost items through walls — the latter thanks to the $29 AirTags announced today — but sadly, you won't find that chip in the new M1-based iPad Pros or the long-awaited new Siri remote for the Apple TV.
+<a href='https://www.theverge.com/2021/4/20/22394335/apple-u1-uwb-locator-missing-ipad-pro-apple-tv-siri-remote'> Source <a/>

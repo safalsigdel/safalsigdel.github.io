@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4kaQgYnVWwgb8AlPR3ALtYDtGhI=/0x0:2144x1206/1200x800/filters:focal(901x432:1243x774)/cdn.vox-cdn.com/uploads/chorus_image/image/69157338/apple_new_imac_spring21_hero_04202021_Full_Bleed_Image.jpg.medium_2x.5.jpg' width='700px' /><br/>
+Apple introduced a redesigned iMac today with a slimmer display, an Apple Silicon chip, and a case with bright, bold colors that throws back to the classic colorful all-in-one iMacs. Apple said the new iMac was designed from the ground up for the M1 chip.
+<a href='https://www.theverge.com/2021/4/20/22394034/apple-new-imac-m1-chip-colors-design-specs-price-release-date'> Source <a/>

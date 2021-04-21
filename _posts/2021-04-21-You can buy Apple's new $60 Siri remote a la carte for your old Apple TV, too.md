@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dpPILsJEa4lsfBv9LUv5yhjfiw4=/0x0:1534x862/1200x800/filters:focal(645x309:889x553)/cdn.vox-cdn.com/uploads/chorus_image/image/69158557/WcGeQVXeT3.0.png' width='700px' /><br/>
+Apple has finally excised its much-maligned Apple TV remote with a new iteration that ditches the confusing touchpad for some good old-fashioned buttons. But you won't need to shell out for Apple's updated Apple TV 4K to get one. Apple is selling the new remote separately for $59, and customers will be able to use it with any tvOS-based Apple TV.
+<a href='https://www.theverge.com/2021/4/20/22394196/apple-tv-4k-new-siri-remote-sold-separately-price-buttons'> Source <a/>

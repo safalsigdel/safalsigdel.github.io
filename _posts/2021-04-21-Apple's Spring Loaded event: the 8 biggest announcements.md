@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6bMVnaYCwhE41yx7qXh6Rq2FPqY=/0x0:1625x1145/1200x0/filters:focal(0x0:1625x1145):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22457440/image__5_.png' width='700px' /><br/>
+Apple just wrapped up its “Spring Loaded” event, announcing new iPads, iMacs, and more. It was jam-packed with news from the company.
+<a href='https://www.theverge.com/2021/4/20/22384756/apple-spring-loaded-event-recap-biggest-announcements-airtag-ipad-pro-imac'> Source <a/>

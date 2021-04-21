@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3HpiHciQ4RlxagWGLPZvpQZKk3A=/0x0:807x371/1200x800/filters:focal(340x122:468x250)/cdn.vox-cdn.com/uploads/chorus_image/image/69160284/Screen_Shot_2021_04_20_at_3.51.50_PM.0.png' width='700px' /><br/>
+After what feels like ages of rumors, speculation, and worry that I was getting way too obsessed with a Bluetooth item tracker that seemed similar to ones made by several other companies, AirTags are finally here. But before you preorder the Mentos-esque pucks, there's something you should be aware of: if you want to engrave your AirTags, you can't combine a horse and poop emoji in that order.
+<a href='https://www.theverge.com/2021/4/20/22394623/airtag-engraving-emoji-combination-horse-shit'> Source <a/>
