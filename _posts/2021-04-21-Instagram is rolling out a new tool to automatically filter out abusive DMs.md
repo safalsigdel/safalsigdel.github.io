@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pYwyz9nINF2fZqpC7tWVjOZ4zss=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69161219/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
+Instagram announced a new tool today that will allow users to automatically filter out direct message requests containing offensive words, phrases, and emojis. The tool is targeted at celebrities and public figures who receive a large number of unwanted, harmful DMs.
+<a href='https://www.theverge.com/2021/4/21/22394611/instagram-tool-filter-abusive-direct-messages-harassment'> Source <a/>
