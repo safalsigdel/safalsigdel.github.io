@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L4s5vf3W_af_e38qIfsJsd1MBA8=/0x0:1960x1102/1200x800/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/69157141/Apple_unveils_the_next_gen_of_AppleTV4K_042021.5.jpg' width='700px' /><br/>
-Apple has just announced a new Apple TV streaming box, replacing the Apple TV 4K that came out in 2017. The new model retains the name of the prior model but comes with a more powerful A12 Bionic chip that lets it play HDR video at higher frame rates. It's also powerful enough to support 60fps Dolby Vision playback over AirPlay from a compatible iPhone.
-<a href='https://www.theverge.com/2021/4/20/22386298/apple-tv-4k-a12-bionic-price-features-release-date'> Source <a/>
