@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sI18_BwVp7EeIwsxouDkj2AyJoQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69164764/vpavic_191118_3800_0201.0.jpg' width='700px' /><br/>
-Apple's Mac computers typically come with a one-year warranty that you can optionally extend to three years by purchasing AppleCare Plus. The extended warranty also adds coverage for accidents and physical damage. But now, Apple is giving Mac customers the choice to keep AppleCare Plus going for even longer than the usual three-year limit.
-<a href='https://www.theverge.com/2021/4/21/22396111/apple-applecare-plus-mac-macbook-imac-extend-coverage'> Source <a/>
