@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/my1YcfPACZZOeQGM4Y2QSArlW4s=/0x0:2000x1045/1200x800/filters:focal(840x363:1160x683)/cdn.vox-cdn.com/uploads/chorus_image/image/69167811/tesla_solar_roof_smooth_glass.0.jpg' width='700px' /><br/>
+Tesla's solar products will soon only be sold together with the company's Powerwall battery, CEO Elon Musk announced on Twitter. Integrating them into a single product will making installations easier and home backup more seamless during outages, according to Musk. The change will affect both Tesla's Solar Panels (which sit on top of an existing roof), and Solar Roof (which replaces a home's existing roof slats).
+<a href='https://www.theverge.com/2021/4/22/22397163/tesla-solar-panels-roof-bundle-powerwall'> Source <a/>
