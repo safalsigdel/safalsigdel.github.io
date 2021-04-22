@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MRDsapuqWPiTR3GQpIIJ5yXEWJs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69169739/tesla_model_y_3605.0.jpg' width='700px' /><br/>
+Consumer Reports said Thursday it was “easily” able to trick Tesla's Autopilot system to operate without anyone in the driver's seat. The publication's test came amid questions about the safety of the company's advanced driver assist system in the aftermath of a fatal crash in Texas in which authorities said there was no one behind the steering wheel.
+<a href='https://www.theverge.com/2021/4/22/22397546/tesla-autopilot-consumer-report-test-no-driver'> Source <a/>

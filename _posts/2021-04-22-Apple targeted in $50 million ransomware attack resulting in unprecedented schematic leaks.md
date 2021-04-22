@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GdLdLytl2gPXc-vh-pqhq6Pmf3o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69165960/acastro_170731_1777_0004_v5.0.jpg' width='700px' /><br/>
-Apple has been targeted in a $50 million ransomware attack following the theft of a trove of engineering and manufacturing schematics of current and future products from Quanta, a Taiwan-based company that manufactures MacBooks and other products for Apple.
-<a href='https://www.theverge.com/2021/4/21/22396283/apple-schematics-leak-ransomware-quanta-supplier-leak'> Source <a/>
