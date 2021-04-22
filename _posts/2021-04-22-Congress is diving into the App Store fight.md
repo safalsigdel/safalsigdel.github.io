@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EnYpk_XCyzU_khqdMABSJshAiN4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69166180/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
-For years, tech companies like Facebook and Amazon have faced the brunt of antitrust criticism by Congress, and Apple has gotten far fewer questions. But that changed on Wednesday, when Congress finally sunk its teeth into Apple as part of a hearing titled “Antitrust Applied: Examining Competition in App Stores.”
-<a href='https://www.theverge.com/2021/4/21/22396544/apple-app-store-google-play-monopoly-antitrust-bill-hearings'> Source <a/>
