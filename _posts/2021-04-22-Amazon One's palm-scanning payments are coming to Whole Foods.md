@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h38nMOl_b-wOV2A9O2MtLRHO9ks=/0x0:2616x1460/1200x800/filters:focal(1099x521:1517x939)/cdn.vox-cdn.com/uploads/chorus_image/image/69165025/Screen_Shot_2021_04_21_at_2.41.16_PM.0.png' width='700px' /><br/>
+Amazon One is expanding to its biggest area yet: the company is now testing its palm-scanning payment technology in Whole Foods, starting with a single store in Amazon's home city of Seattle.
+<a href='https://www.theverge.com/2021/4/21/22395441/amazon-one-palm-scanning-payments-whole-foods-seattle'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7wHyYT0du4JMqwDKG9wiHoLwpmM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69165744/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
+Google's AI leadership came under fire in December when star ethics researcher Timnit Gebru was abruptly fired while working on a paper about the dangers of large language models. Now, new reporting from Bloomberg suggests the turmoil began long before her termination — and includes allegations of bias and sexual harassment.
+<a href='https://www.theverge.com/2021/4/21/22396112/google-ethical-ai-team-bias-harassment-timnit-gebru-firing'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ja-lJfwCbrGIm4LftndIM046_MI=/0x0:3840x2160/1200x800/filters:focal(2378x1013:2992x1627)/cdn.vox-cdn.com/uploads/chorus_image/image/69163880/Apple_airtag_accessories_bag_042021.0.jpg' width='700px' /><br/>
+Apple's AirTags have one feature not mentioned during the announcement yesterday: they'll work with Android to a limited extent. As 9to5Mac noted, there's a support article on Apple's site that details how AirTags will work with an Android device if you don't have your iPhone handy.
+<a href='https://www.theverge.com/2021/4/21/22395520/apples-airtags-android-bluetooth-uwb-nfc'> Source <a/>

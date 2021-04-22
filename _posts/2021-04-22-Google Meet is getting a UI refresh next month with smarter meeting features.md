@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7dth-XRBVXJYUdhA3nXIXP2fAvQ=/0x0:1980x1320/1200x800/filters:focal(832x502:1148x818)/cdn.vox-cdn.com/uploads/chorus_image/image/69163552/googlemeetnewui.0.jpg' width='700px' /><br/>
+Google is refreshing its Meet user interface next month for desktop and laptop users. The new Meet for web interface includes improvements to video feeds, how you view or present meetings, and the navigation bar. While some of Google's changes are playing catch-up to what's offered in Zoom or Microsoft Teams, they are much-needed additions.
+<a href='https://www.theverge.com/2021/4/21/22395485/google-meet-new-ui-refresh-smart-meeting-features'> Source <a/>

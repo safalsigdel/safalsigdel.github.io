@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qCGQsJVl4HoWb-t7wt_J0ND6cAg=/0x0:4800x3200/1200x800/filters:focal(1762x1046:2530x1814)/cdn.vox-cdn.com/uploads/chorus_image/image/69165720/1231080601.0.jpg' width='700px' /><br/>
+NFL fans will have another place they can watch NFL RedZone and the NFL Network next season, as both channels are coming to the Hulu with Live TV plan by August 1st. NFL Network will be included in the base package, while NFL RedZone will be offered at an additional cost, Hulu tells The Verge.
+<a href='https://www.theverge.com/2021/4/21/22396233/nfl-redzone-network-hulu-live-tv-service-2021-season'> Source <a/>

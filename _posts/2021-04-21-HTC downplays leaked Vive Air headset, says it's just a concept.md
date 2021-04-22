@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-HTC has downplayed leaked images that appeared to show a new fitness-focused VR headset built by the firm. Pictures and details of the HTC Vive Air leaked online earlier this week on a design award website but HTC now says the headset is “only a concept.”
-<a href='https://www.theverge.com/circuitbreaker/2021/4/21/22395284/htc-vive-air-leak-fitness-headset-concept-not-real-product'> Source <a/>

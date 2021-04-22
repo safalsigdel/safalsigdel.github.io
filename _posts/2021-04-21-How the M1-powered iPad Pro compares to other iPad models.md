@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hX9qO9t0jficoopFrzvkoDLiFdw=/0x0:980x649/1200x800/filters:focal(412x286:568x442)/cdn.vox-cdn.com/uploads/chorus_image/image/69162096/ipad_pro_2021.0.jpg' width='700px' /><br/>
-Apple has announced the next generation of its iPad Pro line. But most of the biggest changes for Apple's flagship tablet are largely on the inside. The latest iPad Pros feature a new eight-core M1 processor; the same chip featured in the most recent model refreshes for the MacBook Air, MacBook Pro, Mac Mini, and the newly announced iMac.
-<a href='https://www.theverge.com/22394384/apple-ipad-pro-m1-chip-specs-comparison'> Source <a/>

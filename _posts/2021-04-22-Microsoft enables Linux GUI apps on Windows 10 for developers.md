@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dmtxh89i7nYufTTjjGH-v45B2VA=/0x0:1219x852/1200x800/filters:focal(513x329:707x523)/cdn.vox-cdn.com/uploads/chorus_image/image/69164307/windowslinux.0.jpg' width='700px' /><br/>
+Microsoft is starting to allow Windows 10 testers to access Linux GUI apps. The first preview of support for GUI applications is available today for Windows Insiders, allowing developers to run GUI editors, tools, and applications to build and test Linux apps. It's a significant extension for Microsoft's Windows Subsystem for Linux (WSL), after the company added a full Linux kernel to Windows 10 last year.
+<a href='https://www.theverge.com/2021/4/21/22396018/microsoft-windows-10-linux-gui-apps-task-manager-app-throttling-features'> Source <a/>

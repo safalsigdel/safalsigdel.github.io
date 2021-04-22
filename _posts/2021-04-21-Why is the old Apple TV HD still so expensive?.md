@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JxTwqLmuaisX2DV7J_xT7Aetdz4=/0x0:1305x979/1200x800/filters:focal(513x386:721x594)/cdn.vox-cdn.com/uploads/chorus_image/image/69159586/AppleTVHD.0.jpg' width='700px' /><br/>
-Apple refreshed its Apple TV 4K streaming box today with upgraded specs and, perhaps most importantly, a redesigned, simpler Siri remote. When the new device ships in late May, it'll cost the same price as before: $179 for a 32GB unit or $199 for 64GB. (Sidenote: I've yet to meet anyone who has needed the higher storage option on any Apple TV.)
-<a href='https://www.theverge.com/2021/4/20/22394168/apple-tv-hd-siri-remote-too-expensive-2021'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sX7ui75oE2JUJi_FNpKaqcRi3D8=/0x0:1439x790/1200x800/filters:focal(605x280:835x510)/cdn.vox-cdn.com/uploads/chorus_image/image/69164096/Screen_Shot_2021_04_21_at_12.30.52_PM.0.png' width='700px' /><br/>
+A speaker made by artist Dakd Jung, spotted by Gizmodo, visualizes music with ferrofluid, a liquid filled with tiny magnetic particles. The ferrofluid, a viscous black blob, reacts to an electromagnetic device and dances around in sync with the sounds being played.
+<a href='https://www.theverge.com/2021/4/21/22395718/speaker-ferrofluid-music-visualizer-magnets'> Source <a/>

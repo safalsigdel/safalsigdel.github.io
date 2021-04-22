@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LwwHKPoeeEiR1Vmj0bRT35Heo-E=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69163742/dseifert_4521_oneplus_watch_12.0.jpg' width='700px' /><br/>
+OnePlus has announced that it plans to bring new features, like an always-on display mode, a 12-hour watchface, and more to its new smartwatch with future software updates. The news came with the announcement of the Watch's first software update after its release, which OnePlus says it's starting to roll out. This release aims to fix the issues we experienced with heart rate and activity tracking, among other bugs.
+<a href='https://www.theverge.com/2021/4/21/22395791/oneplus-watch-smartwatch-always-on-display-update'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5_f5O_5fNEZcrg2OYOYAANzjJm8=/0x0:1643x945/1200x800/filters:focal(691x342:953x604)/cdn.vox-cdn.com/uploads/chorus_image/image/69164173/kosta_gambling_den_2.0.jpg' width='700px' /><br/>
+This morning, I wrote how Apple's $64 billion-a-year App Store isn't catching incredibly obvious multimillion-dollar scams because the company isn't even bothering to audit its most profitable apps for fraud, and how app developer Kosta Eleftheriou is showing the company how it's done.
+<a href='https://www.theverge.com/2021/4/21/22395907/apple-match-three-game-gambling-marina-misko-vegas-pirates-lucky-stars'> Source <a/>

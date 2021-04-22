@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Tim Cook, the mild-mannered Apple CEO, probably didn't have to lift more than a finger to launch a new line of iPad Pros with the company's Arm-based M1 chip.
-<a href='https://www.theverge.com/tldr/2021/4/20/22394756/apple-tim-cook-mission-impossible-heist-action-movie-stunt-lasers'> Source <a/>

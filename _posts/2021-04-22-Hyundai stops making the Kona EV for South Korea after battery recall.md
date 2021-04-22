@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FzXpk_I5BgPUjEo7v-e0xIU7eKw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69166117/akrales_180329_2351_1035.0.jpg' width='700px' /><br/>
+Hyundai is discontinuing its first mass-market electric SUV, the Kona EV, in South Korea following a massive recall due to a fire risk in the battery pack, the Yonhap news agency reports. The automaker will instead turn its focus to the forthcoming Ioniq 5 (and the EVs that will follow it), though Hyundai will still sell the Kona EV in the United States, according to Roadshow.
+<a href='https://www.theverge.com/2021/4/21/22396480/hyundai-discontinue-kona-ev-korea-battery-fire-recall'> Source <a/>

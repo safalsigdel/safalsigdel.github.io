@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ssK2SUXKEfV0NHkPami_fq-LKCk=/0x0:2436x1125/1200x0/filters:focal(0x0:2436x1125):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22457711/20210420_190102000_iOS.png' width='700px' /><br/>
-Microsoft has started inviting Xbox Game Pass Ultimate subscribers to test its Xbox Cloud Gaming (xCloud) service on iPhones and iPads today. The service works through web browsers, allowing it to also run on PCs and Macs on Edge, Chrome, or Safari. We've managed to get an early look at this beta and see how Xbox Cloud Gaming works on an iPhone or iPad.
-<a href='https://www.theverge.com/2021/4/20/22393793/microsoft-xbox-cloud-gaming-xcloud-iphone-ipad-hands-on'> Source <a/>

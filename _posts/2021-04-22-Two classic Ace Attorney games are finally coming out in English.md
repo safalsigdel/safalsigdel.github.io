@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RB15LA4Pq5WBX6_h58tiH4EpsRY=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/69163734/TGAAC_Blog_09_Deduction_1024x576.0.jpeg' width='700px' /><br/>
+Capcom announced that it will be releasing two classic games in the Ace Attorney series in English for the first time this July. The new collection, titled The Great Ace Attorney Chronicles, bundles The Great Ace Attorney: Adventures and The Great Ace Attorney 2: Resolve in one package that will be available on Nintendo Switch, PlayStation 4, and Steam for $39.99 on July 27th.
+<a href='https://www.theverge.com/2021/4/21/22395728/the-great-ace-attorney-collection-english-release-date'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NIL2UFLdHC2j6a7sp6RgxFktnm0=/0x0:2040x1360/1200x800/filters:focal(837x597:1163x923)/cdn.vox-cdn.com/uploads/chorus_image/image/69164872/mchin_181029_4126_0002.0.0.jpg' width='700px' /><br/>
+Google has announced some new features coming to Chromebooks, including the company's Live Captions feature that will be added to Chrome on “most” Chrome OS devices in the coming weeks. Once Live Captions are available, users can flip them on in the accessibility settings to get captions for any media with audio right inside their browser. The feature rolled out to Chrome on Windows, Mac, and Linux in March.
+<a href='https://www.theverge.com/2021/4/21/22396102/chrome-os-chromebooks-live-captions-launcher-diagnostics'> Source <a/>
