@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eJUJ_xipjK1JR64DeqNhiy3VfLA=/0x0:800x450/1200x800/filters:focal(336x161:464x289)/cdn.vox-cdn.com/uploads/chorus_image/image/69169305/ps_plus_video_pass_keyart_01_en_13apr21.0.jpg' width='700px' /><br/>
+Following a leak yesterday, Sony confirmed that it is testing out a service called PlayStation Plus Video Pass, with a one-year trial in Poland that will allow subscribers to stream movies and TV shows, as the company looks at ways to expand its online subscription, Video Game Chronicle reports.
+<a href='https://www.theverge.com/2021/4/22/22397470/sony-playstation-plus-video-pass-trial-test-poland-streaming-service'> Source <a/>
