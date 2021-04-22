@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yLG7KXWjbw3WaMxEVgPfmLdrjzg=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/69167773/gran_turismo_7_screenshot_08_disclaimer_en_01oct20.0.jpeg' width='700px' /><br/>
+The International Olympic Committee (IOC) has announced a new series of virtual sporting events that will take place ahead of the Tokyo Olympics, called the Olympic Virtual Series. No, this doesn't mean that League of Legends just became an Olympic sport — what's happening is that the IOC is partnering with five international sports federations to host virtual competitions in games featuring their sports.
+<a href='https://www.theverge.com/2021/4/22/22396751/olympic-virtual-series-tokyo-gran-turismo'> Source <a/>
