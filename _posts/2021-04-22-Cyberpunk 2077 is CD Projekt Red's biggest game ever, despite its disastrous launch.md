@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RICA5s7D2AnURmKQuU-SGvITaw8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69169935/Cyberpunk2077_Im_your_fixer_RGB_en.0.jpeg' width='700px' /><br/>
+Despite Cyberpunk 2077's disastrous and bug-filled December 10th launch, the title was “the largest game in CD Projekt Red's history,” the studio said on Thursday (PDF). The game sold 13.7 million copies in 2020, according to CD Projekt Red.
+<a href='https://www.theverge.com/2021/4/22/22397638/cyberpunk-2077-cd-projekt-red-biggest-game-ever-sales'> Source <a/>
