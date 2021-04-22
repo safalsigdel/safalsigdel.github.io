@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2C-mZegZvVMWDMJWqNyOiZg3vBM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69168448/vpavic_4547_20210421_0022.0.jpg' width='700px' /><br/>
+Apple managed to surprise us during its live stream event earlier this week by announcing a new iPhone. Well, a new color for the iPhone 12 and iPhone 12 mini: purple. Apple sent one to us along with some sample AirTags and so we have duly taken some photos of this, a purple iPhone 12.
+<a href='https://www.theverge.com/22396502/purple-iphone-12-color-photos-shade-hue-lilac-lavender'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gWG9_vbqIEkYAvChb9eR3XSXpy4=/0x0:1584x1032/1200x800/filters:focal(666x390:918x642)/cdn.vox-cdn.com/uploads/chorus_image/image/69164109/Screen_Shot_2021_04_21_at_10.08.33_AM.0.png' width='700px' /><br/>
-China's original state-owned automaker, First Automobile Works (FAW), has revealed the first electric vehicle that's part of the government's massive Belt and Road project. The Hongqi S9 is a 1,400-horsepower hybrid hypercar created in partnership with Italian engineering and design startup Silk EV.
-<a href='https://www.theverge.com/2021/4/21/22395743/hongqi-s9-silk-faw-belt-road-auto-shanghai-2021'> Source <a/>

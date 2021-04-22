@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/c00bf9S_fRUOnq5vfuUSla_K0sY=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69168466/bfv_standard_16x9.0.png' width='700px' /><br/>
+The Battlefield series is headed to mobile devices. The hugely popular shooter franchise will make its debut on smartphones and tablets in a new game that's set to release in 2022. The game will be developed by Industrial Toys in partnership with longtime Battlefield developer DICE, which is owned by Electronic Arts.
+<a href='https://www.theverge.com/2021/4/22/22396717/ea-battlefield-mobile-smartphones-tablets-2022'> Source <a/>

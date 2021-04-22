@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1xFwtxWB-IQgr-jz20K2Yyw6gAs=/0x0:1350x900/1200x800/filters:focal(567x342:783x558)/cdn.vox-cdn.com/uploads/chorus_image/image/69163992/android12.0.jpg' width='700px' /><br/>
-Android 12's third developer preview has arrived, and among its host of updates are new OS-level tools to help app developers get more out of the camera and haptic hardware found in modern Android flagships. App launch animations, call notifications, and linking between apps are among the other tweaks made in this release.
-<a href='https://www.theverge.com/2021/4/21/22395383/android-12-developer-preview-3-haptics-camera-sensors-beta-release-date-features'> Source <a/>

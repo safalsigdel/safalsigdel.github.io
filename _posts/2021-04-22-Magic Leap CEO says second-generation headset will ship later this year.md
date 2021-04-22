@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o3bLURMSzDH-GLsAh09cLiirM88=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69164125/jbareham_180717_2744_0422.0.jpg' width='700px' /><br/>
-Magic Leap CEO Peggy Johnson says the mixed reality headset company will be shipping limited quantities of a second-generation device at the end of this year, with broader availability in the first quarter of 2022.
-<a href='https://www.theverge.com/2021/4/21/22395867/magic-leap-2-release-date-ceo-peggy-johnson-2021'> Source <a/>
