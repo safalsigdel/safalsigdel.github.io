@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pBKXGPAF_pnoT2uy-pfVjICIBXw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69165105/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Get ready for Twitter to start looking a whole lot crisper — starting today, the company is letting all users tweet (and view) pictures in 4K on iOS and Android.
-<a href='https://www.theverge.com/2021/4/21/22396245/twitter-4k-images-photos-android-ios-apps-update'> Source <a/>

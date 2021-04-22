@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6AX3sNy7X4Zj14SkcFTKoJunEu8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69168890/akrales_200904_4160_0135.0.0.jpg' width='700px' /><br/>
+The Oculus Quest 2 head-mounted display launched last October, and if you are on the hunt for a deal on this VR headset (unfortunately, not a bundle deal), Verizon is offering a 10 percent discount for both configurations.
+<a href='https://www.theverge.com/good-deals/2021/4/22/22397283/oculus-quest-2-vr-headset-tcl-alto-8-plus-soundbar-google-pixel-3-deal'> Source <a/>
