@@ -1,3 +1,3 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/xmR-KHGoAlV8W05rAPd2mu01be4=/0x0:3240x2160/1200x0/filters:focal(0x0:3240x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22464870/oculusavatarsnew.jpg' width='700px' /><br/>
 Oculus is beginning to roll out redesigned avatars that are more expressive and customizable than those that launched in 2016. They'll appear starting today in just a few games for the Quest VR platform, including Epic Roller Coasters, PokerStarsVR, and Topgolf with Pro Putt. Soon, they'll appear in Synth Riders, and later in the year, a new game called ForeVR Bowling will feature them.
 <a href='https://www.theverge.com/2021/4/23/22398060/oculus-new-avatars-editor-features-vr-virtual-reality-facebook-quest-rift'> Source <a/>
