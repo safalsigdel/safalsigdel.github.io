@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PCtDJZkwchElnu-dvRoW8xFWMQE=/0x0:2290x546/1200x0/filters:focal(0x0:2290x546):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22461719/Screen_Shot_2021_04_22_at_17.03.52.png' width='700px' /><br/>
-Fujifilm and Nintendo have announced a new collaboration. The camera company is releasing a new Switch-themed version of its Instax Mini Link photo printer, as well as a new app that's designed to let you edit Switch screenshots and print them out onto Fujifilm's Polaroid-style Instax film, or add Nintendo characters to your photos.
-<a href='https://www.theverge.com/2021/4/22/22397156/fujifilm-nintendo-instax-mini-link-app-collaboration'> Source <a/>

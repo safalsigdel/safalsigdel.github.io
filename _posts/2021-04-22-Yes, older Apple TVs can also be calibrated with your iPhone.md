@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7yj9UrzF_DG22TC2ZyrxXcrJbhg=/0x0:964x643/1200x800/filters:focal(405x245:559x399)/cdn.vox-cdn.com/uploads/chorus_image/image/69168122/msedge_E88SepwLyF.0.png' width='700px' /><br/>
-Apple's new TV calibration feature, which uses the iPhone's front-facing sensors to sense and tweak the output of the Apple TV, works with the company's older streaming boxes, 9to5Mac reports. The new feature will arrive with tvOS 14.5, which is due to release “early next week” for the 2017 Apple TV 4K and 2015 Apple TV HD. Apple says viewers will see “much more accurate colors and improved contrast” after calibration.
-<a href='https://www.theverge.com/2021/4/22/22397231/apple-tv-4k-hd-iphone-color-calibration-sensor'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TDVBNHXYOXwgHcGRkJ7Fyi87qu8=/0x0:1920x1080/1200x800/filters:focal(925x419:1231x725)/cdn.vox-cdn.com/uploads/chorus_image/image/69168817/EN_EGS_Non_Game_App.0.jpg' width='700px' /><br/>
-Epic is adding five new PC apps to its Epic Games Store launcher today, in a fresh bid to offer more than just games. Indie game store Itch.io is arriving on Epic Games Store today, alongside open-source browser Brave, streaming radio app iHeartRadio, 3D model tool KenShape, and open-source painting app Krita. These are Epic Games Store's first new PC apps since Spotify launched in December.
-<a href='https://www.theverge.com/2021/4/22/22395997/epic-games-store-pc-apps-windows-store-brave-discord-itch'> Source <a/>

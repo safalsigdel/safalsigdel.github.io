@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ze05F8XK52OzcVSDVRecdY-OHPA=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22462289/garminvenu2big.jpg' width='700px' /><br/>
-Update April 22nd, 1:12PM ET: Updated the first paragraph to reflect that Garmin wouldn't disclose how long its introductory price of $319.99 will last.
-<a href='https://www.theverge.com/2021/4/22/22397488/garmin-venu-2-2s-smartwatch-fitness-tracking-health-sports-features-price'> Source <a/>

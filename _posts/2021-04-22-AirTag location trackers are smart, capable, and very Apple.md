@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JJDttVM3CA1ZqBO8MMh8-Fo0FOg=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22461387/vpavic_4547_20210421_0074.jpg' width='700px' /><br/>
-I was starting to get really worried that I wouldn't find my friend.
-<a href='https://www.theverge.com/2021/4/22/22396693/apple-airtag-location-tracker-hands-on-find-my-privacy-safety'> Source <a/>

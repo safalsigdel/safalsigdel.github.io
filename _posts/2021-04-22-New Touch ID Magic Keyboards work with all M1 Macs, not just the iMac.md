@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n2A66piUnB4CRJjaFfYccst5lnk=/0x0:1933x1320/1200x800/filters:focal(813x506:1121x814)/cdn.vox-cdn.com/uploads/chorus_image/image/69167930/132_2021_04_20_132_vlcscreen.0.jpg' width='700px' /><br/>
-The Touch ID sensor in Apple's new Magic Keyboard, which debuted alongside the updated iMac earlier this week, works with any Mac fitted with Apple's M1 processor, Rene Ritchie and MacRumors report. However, the sensor won't work with the new iPad Pro, which also uses the M1 chip. For now, the new keyboard is only sold with the new M1-equipped iMac, which is available to preorder from April 30th.
-<a href='https://www.theverge.com/2021/4/22/22397196/magic-keyboard-touch-id-m1-mac-macbook-intel'> Source <a/>

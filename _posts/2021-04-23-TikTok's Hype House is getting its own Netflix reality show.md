@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qyxoY0X3M9nUfoP4d5BszvWZO1c=/0x0:1370x1080/1200x800/filters:focal(576x431:794x649)/cdn.vox-cdn.com/uploads/chorus_image/image/69170483/HH_GALLERY_Group8_Box_0372cr20210422_4863_j3g3bp.0.jpeg' width='700px' /><br/>
+TikTok's Hype House is getting a Netflix reality show that will follow the lives of some of the biggest creators on the social media platform.
+<a href='https://www.theverge.com/2021/4/22/22397845/tiktok-hype-house-netflix-tv-series-announcement'> Source <a/>

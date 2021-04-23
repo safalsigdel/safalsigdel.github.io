@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Fy6zRqIc6MMeAsBOXaRnI8XDbRI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69170649/jbareham_180213_2301_0149.0.jpg' width='700px' /><br/>
+Two Senate Democrats are urging federal regulators to take “corrective actions” against Tesla to prevent further misuse of the company's advanced driver assist feature. The request comes in the aftermath of a fatal crash in which two men from Texas were killed after their Tesla Model S crashed with no one in the driver's seat.
+<a href='https://www.theverge.com/2021/4/22/22397826/tesla-autopilot-investigation-blumenthal-markey-nhtsa-ntsb'> Source <a/>

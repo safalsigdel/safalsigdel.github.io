@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/miYs3LFalGhnP2OgDU2UTHjHREQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69168140/ipadpro2021lede.0.jpg' width='700px' /><br/>
-Apple is getting ready to announce a raft of software updates for the iPhone and iPad in June according to a new report from Bloomberg, including “the most significant update to the [iPad's] Home Screen since first launching the product in 2010.”
-<a href='https://www.theverge.com/2021/4/22/22397236/ios-ipados-15-features-rumors-notifications-privacy-home-screen-report'> Source <a/>

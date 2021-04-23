@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d8F1WeDZNv7-_XnaxEIy7qFBYA4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69171931/snapChatPattern_BW.0.jpg' width='700px' /><br/>
+Snap has finally reaped the benefits of building a fully functional Android app. The company announced in its earnings report today that its user base mostly uses Android instead of iOS. That overall user base continues to grow, too. During the first quarter of 2021, Snapchat reached 280 million daily active users, an increase of 22 percent year over year.
+<a href='https://www.theverge.com/2021/4/22/22398237/snapchat-android-app-ios-earnings'> Source <a/>

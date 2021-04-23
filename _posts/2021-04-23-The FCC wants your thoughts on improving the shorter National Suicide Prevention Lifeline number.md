@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5YZ9ye4FJfmQvkhoDgd5bAlNJUE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69170975/akrales_180620_1777_0600.0.jpg' width='700px' /><br/>
+The Federal Communications Commission has decided to look into letting people text the upcoming shortened National Suicide Prevention Lifeline number in a bid to increase accessibility and use of the service by those who need it most (via Politico reporter John Hendel). Last May, the FCC approved the creation of a new short code, 988, that will act as an easier-to-remember phone number for the lifeline.
+<a href='https://www.theverge.com/2021/4/22/22397823/fcc-considers-text-sms-support-988-suicide-prevention-lifeline'> Source <a/>

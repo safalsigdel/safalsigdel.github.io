@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nfeERtx3JeuTtjZ2QJZFIm0owfE=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69170855/VRG_ILLO_4546_001.0.jpg' width='700px' /><br/>
+Beth Silvers credits paid subscriptions for making podcasting her full-time job. She and Sarah Stewart Holland host Pantsuit Politics, a show that tries to turn political punditry into “grace-filled conversations.” The two of them launched the show in 2015 and then started experimenting with subscriptions two years later, first on their own website in the form of monthly contributions, and then, not long after, on Patreon.
+<a href='https://www.theverge.com/2021/4/22/22396042/apple-podcast-subscriptions-launch-price'> Source <a/>

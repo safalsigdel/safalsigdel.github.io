@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5gKNTTdieQZzgTtFMd76q1l0FE4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69170540/acastro_180403_1777_youtube_0002.0.0.jpg' width='700px' /><br/>
+YouTube is making it easier for creators to change the name and profile picture on their channels. Creators will now be able to update their channel name and picture inside YouTube, and those changes will only impact their profile on YouTube.
+<a href='https://www.theverge.com/2021/4/22/22397324/youtube-change-channel-name'> Source <a/>
