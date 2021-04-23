@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o58snUAonxIIKpjgB1BwGoCJKnc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69174118/jporter_20210420_4539_0002.0.jpg' width='700px' /><br/>
+Keychron's keyboards are an appealing option for anyone looking for a relatively affordable wireless mechanical keyboard. Its latest model is the Keychron K3, which starts at $74. The K3 combines the low-profile design of the K1 with the compact 75 percent layout of the K2. The result is a keyboard with a slim and compact form factor, with a height that sits somewhere between a typical mechanical keyboard and a keyboard with laptop-style switches.
+<a href='https://www.theverge.com/22397467/kechron-k3-wireless-keyboard-review'> Source <a/>

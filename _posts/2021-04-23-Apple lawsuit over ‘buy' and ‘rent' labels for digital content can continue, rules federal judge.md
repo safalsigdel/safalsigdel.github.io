@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5SVEl6MkxXoYNMGX3mQifBK1CAQ=/0x0:1632x1032/1200x800/filters:focal(686x386:946x646)/cdn.vox-cdn.com/uploads/chorus_image/image/69174134/apple_previews_macos_catalina_apple_music_screen_06032019.0.jpg' width='700px' /><br/>
+A federal judge has rejected a motion by Apple to dismiss a putative class action lawsuit over the company's use of the labels “buy” and “rent” when selling digital content. As first covered by The Hollywood Reporter, the suit can now continue, though could yet be settled before ever reaching trial.
+<a href='https://www.theverge.com/2021/4/23/22399008/apple-lawsuit-over-buy-and-rent-labels-for-digital-content-can-continue-rules-federal-judge'> Source <a/>
