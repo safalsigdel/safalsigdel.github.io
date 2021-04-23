@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NtOBtE48128LXGJvyZFgEwmnrbE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69168818/ipadpro2021lede.0.jpg' width='700px' /><br/>
-Okay, hear me out on this. I really would just like Apple's next iPad Pro to be a laptop. Not a clamshell, but a Surface Pro type of deal: a tablet with laptop hardware and a laptop OS. I think there must be people at Apple who want this, too, so I'm now respectfully requesting that the company stop dilly-dallying and make it happen.
-<a href='https://www.theverge.com/2021/4/22/22396449/apple-ipad-pro-macbook-air-macos-2021'> Source <a/>
