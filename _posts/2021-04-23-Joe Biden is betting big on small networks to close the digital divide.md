@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6UFt8AMXTikmWfD3Ktc3ORkMq2s=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69170497/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
-Like hundreds of school districts across the country, Edgecombe County Public Schools in North Carolina had to move their coursework online to keep their students safe during the coronavirus pandemic. Worksheets became websites and school assemblies became Zoom conferences with outside speakers.
-<a href='https://www.theverge.com/2021/4/22/22397778/biden-infrastructure-broadband-digital-divide-municipal-networks-republicans'> Source <a/>

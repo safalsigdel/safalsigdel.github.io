@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OI7TK0GgJ-OwUf_0Isz9hLjOTZc=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/69175229/job-simulator-htc-vive-adi-robertson.0.0.jpg' width='700px' /><br/>
+Last week, Humble launched its Spring Into VR Bundle, which includes a pack of games for use with a virtual reality headset. Originally set to end on April 21st, the company has decided to extend the deal until April 28th, giving you more time to take advantage of it.
+<a href='https://www.theverge.com/good-deals/2021/4/23/22399144/humble-bundle-vr-ps5-hd-camera-dualsense-controller-deal'> Source <a/>
