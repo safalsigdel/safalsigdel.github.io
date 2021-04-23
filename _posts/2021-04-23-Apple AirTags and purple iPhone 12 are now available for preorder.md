@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IfTUemEWtyJNrpcNynZD7B1J-NE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69174777/vpavic_4547_20210421_0131.0.jpg' width='700px' /><br/>
+Apple's new Tile-like AirTags, long-rumored and finally announced at this week's Spring Loaded event, are now available for preorder on Apple's website. The small circular trackers work with Apple's “Find My” app on iOS and have a built-in speaker, accelerometer, Bluetooth LE, and a replaceable battery. They cost $29 for one set or $99 for a four-pack.
+<a href='https://www.theverge.com/2021/4/23/22399157/apple-airtags-purple-iphone-12-preorder-date'> Source <a/>
