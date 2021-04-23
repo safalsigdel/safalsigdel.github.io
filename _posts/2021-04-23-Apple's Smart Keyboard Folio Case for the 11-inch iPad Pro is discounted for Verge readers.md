@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NpG9YFqCAXVIDHqOQfvyaI22BQY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69168890/DSC00715.5.jpg' width='700px' /><br/>
-Daily Steals is giving Verge readers a special discount on Apple's Smart Keyboard Folio Case for the 11-inch iPad Pro. Normally $179, you can buy this case for only $70 when you enter code VERGEAPLE at checkout. This price includes the accessory in new condition and a one-year warranty with Apple.
-<a href='https://www.theverge.com/good-deals/2021/4/22/22397283/oculus-quest-2-vr-headset-tcl-alto-8-plus-soundbar-google-pixel-3-deal'> Source <a/>
