@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mow-kZJZkx_oq548xuZ_YcKOt5s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69174514/acastro_180213_1777_0002.0.jpg' width='700px' /><br/>
+Spotify is reportedly planning to debut its in-app podcast subscription offering next week. The Wall Street Journal reports today that the company will not take a cut from podcasters who choose to sell in-app subscriptions and also will allow them to set their own pricing. Listeners on its iOS app will be routed through a website to purchase the subscriptions, thereby allowing Spotify (and podcasters) to skirt around Apple's fees.
+<a href='https://www.theverge.com/2021/4/23/22399123/spotify-podcaster-subscription-fees-revenue'> Source <a/>

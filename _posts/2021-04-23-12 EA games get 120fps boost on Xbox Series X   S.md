@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ai9qW1aEM8vAAsEe8a1_ejf3zmo=/0x0:1670x1114/1200x800/filters:focal(702x424:968x690)/cdn.vox-cdn.com/uploads/chorus_image/image/69169885/fpsboostlede.5.jpg' width='700px' /><br/>
-Microsoft is enabling its Xbox FPS Boost mode on 13 EA games, with 12 now supporting up to 120fps. The FPS Boost feature for Xbox Series X and Series S consoles is designed to make existing games run better. While Microsoft has improved frame rates with some backward-compatible games, FPS Boost specifically bumps performance to improve older games without developers having to put in any additional work.
-<a href='https://www.theverge.com/2021/4/22/22397722/xbox-fps-boost-mode-ea-games-series-x'> Source <a/>
