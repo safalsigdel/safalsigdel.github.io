@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/slnpZCB4cLWPN1-EZ7bLnEUgxX8=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/69171169/vpavic_4412_20210111_0003.0.jpg' width='700px' /><br/>
-Robot cars are back in the spotlight on Capitol Hill after previous efforts failed to pass comprehensive legislation allowing more autonomous vehicles on the road.
-<a href='https://www.theverge.com/2021/4/22/22398027/autonomous-vehicles-congress-amendment-peters-thune'> Source <a/>
