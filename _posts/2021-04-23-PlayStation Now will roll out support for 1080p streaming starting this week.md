@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l3hqNbrCn0xJiDVHE_-rFL840Tw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69169485/vpavic_191127_untitled_0037_Edit.0.jpg' width='700px' /><br/>
-Sony will begin rolling out support for 1080p streaming with PlayStation Now beginning this week, upping the streaming quality from the cloud gaming service's previous 720p cap.
-<a href='https://www.theverge.com/2021/4/22/22397555/playstation-now-1080p-streaming-support-resolution'> Source <a/>

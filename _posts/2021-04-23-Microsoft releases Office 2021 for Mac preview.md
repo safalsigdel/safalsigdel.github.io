@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AX-RYiMDqOdbPOHckgSX2AOdDbc=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69174158/officeicons.0.jpg' width='700px' /><br/>
+Microsoft is releasing a preview version of Office 2021 for Mac and Office LTSC this week. While Office LTSC (Long-Term Servicing Channel) is designed for commercial customers, both versions are perpetual versions of Office that don't rely on subscriptions or the cloud. Microsoft announced its plans for Office 2021 back in February, and a Windows version — which won't be available in preview — will also be released later this year.
+<a href='https://www.theverge.com/2021/4/23/22399042/microsoft-office-for-mac-2021-preview-download'> Source <a/>
