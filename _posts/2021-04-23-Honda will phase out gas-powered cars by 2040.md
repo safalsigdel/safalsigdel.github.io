@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hLH1dpHxe7aysfDs7Bhu_cQN1HA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69175188/geneva_honda_eprototype_vladsavov33.0.jpg' width='700px' /><br/>
+Honda said it will stop selling gas-powered vehicles by 2040. The automaker expects 40 percent of its sales globally to be comprised of battery-electric and fuel-cell vehicles by 2030, followed by 80 percent in 2035, and 100 percent of sales by 2040.
+<a href='https://www.theverge.com/2021/4/23/22399212/honda-gas-car-phase-out-2040-electric-vehicle'> Source <a/>
