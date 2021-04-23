@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PKFebL55y73usglPbDl-YlHyEgI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68699051/cfaulkner_210114_4373_0001.0.jpg' width='700px' /><br/>
-Update April 22nd, 10:03AM ET: EPOS has released a firmware update for the GTW 270 —accessible through its Gaming Suite software on PC — that enables simultaneous Bluetooth and wireless connection to its USB-C dongle. You can switch between the modes by tapping the button on the dongle. The company says it's available now.
-<a href='https://www.theverge.com/22241197/epos-gtw-270-hybrid-truly-wireless-earbuds-usb-c-gaming-bluetooth'> Source <a/>
