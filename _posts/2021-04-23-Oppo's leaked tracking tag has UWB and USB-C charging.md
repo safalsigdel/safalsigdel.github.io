@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ea0t0xmYimsbhLFbpZHkTSGrZY4=/0x0:1682x828/1200x800/filters:focal(707x280:975x548)/cdn.vox-cdn.com/uploads/chorus_image/image/69170770/Screen_Shot_2021_04_22_at_1.45.55_PM.0.png' width='700px' /><br/>
-It looks like Oppo will be the next company to throw its hat in the Bluetooth tracking tag game, with a leak of the company's new Smart Tag appearing over on XDA (via Weibo leaker Digital Chat Station).
-<a href='https://www.theverge.com/2021/4/22/22397804/oppo-smart-tag-bluetooth-tracking-uwb-usb-c-charging-leak'> Source <a/>

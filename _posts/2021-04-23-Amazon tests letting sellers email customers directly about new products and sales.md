@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kcmDOXUfoJ3WTD6caRJGmOc-38k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69175674/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
+Amazon is testing a new feature for sellers that will let them contact customers directly by email to notify them of things like new product announcements or sales. It's a major change from Amazon's current policy, which is to limit the amount of interaction between customers and companies that sell on Amazon, outside of resolving things like returns or order issues.
+<a href='https://www.theverge.com/2021/4/23/22399312/amazon-sellers-email-customers-directly-products-sales-brand-registry'> Source <a/>
