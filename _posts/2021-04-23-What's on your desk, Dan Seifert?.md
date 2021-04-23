@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5XJ95hR9B25b6GoBMnW019EM6Bc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69174312/dseifert_20210415_4535_0001.0.jpg' width='700px' /><br/>
+If you've read a review, a gift guide, or a how-to on The Verge, then you've read something that's been assigned by, edited by, or written by Dan Seifert. A longtime presence here, Dan's knowledge of tech is vast and impressive — and is reflected by the number and quality of the devices you can see here in his home office.
+<a href='https://www.theverge.com/22395531/remote-work-desk-setup-from-home-office-tech'> Source <a/>
