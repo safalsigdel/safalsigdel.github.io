@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/smUo8NKLs8NTtNlNgAhNRBNHw5E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69173463/acastro_190322_1777_apple_streaming_0002.0.jpg' width='700px' /><br/>
-Apple announced on Wednesday that it's once again extending the deadline for requiring in-app purchases for iOS apps that sell access to online classes and group events until December 31st, 2021, effectively meaning it won't impose its 30 percent cut on businesses providing those services until next year. Apple extended the deadline initially to June 30th, 2021, but now developers have another six months.
-<a href='https://www.theverge.com/2021/4/23/22398338/apple-iap-classes-events-deadline-december-2021-2022'> Source <a/>

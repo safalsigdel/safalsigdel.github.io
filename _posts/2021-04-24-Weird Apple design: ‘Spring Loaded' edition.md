@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/saSP-mypmpZbTouRvPvltsTDAbE=/0x0:2868x1604/1200x800/filters:focal(1205x573:1663x1031)/cdn.vox-cdn.com/uploads/chorus_image/image/69176361/Screen_Shot_2021_04_21_at_9.33.43_PM.0.png' width='700px' /><br/>
+Apple's product design is usually very good, setting industry standards for how many of the gadgets and computers we use every day look and feel. But the company's many hits make the less obvious design decisions stand out that much more.
+<a href='https://www.theverge.com/2021/4/23/22396936/weird-apple-design-spring-loaded-edition'> Source <a/>

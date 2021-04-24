@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0rGs-TWCX2bxoMAL9eC9ocuO7j8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69171828/acastro_200901_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
-Twitch users will be able to make threaded replies in Twitch chat starting today, the popular streaming platform announced. Threaded replies could make it a lot easier to have side conversations within Twitch chats, which are sometimes chaotic waterfalls of text with no easy way to tell who might be talking to another. Twitch is calling the new feature Chat Replies.
-<a href='https://www.theverge.com/2021/4/22/22398066/twitch-chat-threaded-replies'> Source <a/>

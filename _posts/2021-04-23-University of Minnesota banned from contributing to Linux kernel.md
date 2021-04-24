@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/onaxXobtEi3ctowUxqDp9ksH99Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69171941/acastro_190228_1777_vpn_0003.0.jpg' width='700px' /><br/>
-The University of Minnesota has been banned from contributing to the Linux kernel by one of its maintainers after researchers from the school apparently knowingly submitted code with security flaws.
-<a href='https://www.theverge.com/2021/4/22/22398156/university-minnesota-linux-kernal-ban-research'> Source <a/>

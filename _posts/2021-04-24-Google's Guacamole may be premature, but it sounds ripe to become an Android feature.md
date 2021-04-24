@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eSPVBNvSj2lS06vy1Hd_lBvsr4w=/0x0:4638x3696/1200x800/filters:focal(1822x1583:2564x2325)/cdn.vox-cdn.com/uploads/chorus_image/image/69178863/456804252.0.jpg' width='700px' /><br/>
+Google probably wasn't planning to reveal this until the company's I/O developer conference on May 18th, but it looks like a cat may be out of the bag: the company's testing a feature that should let you stop alarms and answer calls on your Android phone simply by saying “stop” — no need to pick up your phone or even say “Hey Google.”
+<a href='https://www.theverge.com/2021/4/23/22400412/google-guacamole-voice-shortcuts-assistant-snooze-stop-alarm-call'> Source <a/>

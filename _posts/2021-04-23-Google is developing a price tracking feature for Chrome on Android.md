@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pJ1vhYLUTv8cbuBHKbWphQ4Z3s8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69173917/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
-The latest version of Chrome on Android has started rolling out a new price tracking feature to alert you about price drops. SmartDroid reports receiving the new feature in Chrome version 90, though it doesn't seem to be live for everyone. Once activated, Chrome monitors your open tabs for any price drops, and sends you a notification if any happen.
-<a href='https://www.theverge.com/2021/4/23/22399007/google-chrome-android-price-tracker-drop-notification'> Source <a/>

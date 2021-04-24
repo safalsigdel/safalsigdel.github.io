@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y8JIyPMAPmZey7QhQIVeM31MVlU=/0x0:2040x1360/1200x800/filters:focal(981x673:1307x999)/cdn.vox-cdn.com/uploads/chorus_image/image/69171955/akrales_190328_3240_0067.0.jpg' width='700px' /><br/>
-Congressional Democrats have introduced a bill that would make it easier for the Consumer Product Safety Commission to warn people about unsafe products, by repealing part of a 49-year-old law that limits what information the agency can release publicly.
-<a href='https://www.theverge.com/2021/4/22/22397884/peloton-treadmill-accident-hazard-cpsc-democrats-congress-consumer-safety'> Source <a/>

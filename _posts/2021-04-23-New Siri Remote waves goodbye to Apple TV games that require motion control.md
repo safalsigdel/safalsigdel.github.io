@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lAWuHj1TTXCjrTbmQi8QR9liXhg=/0x0:1534x862/1200x800/filters:focal(645x309:889x553)/cdn.vox-cdn.com/uploads/chorus_image/image/69173836/WcGeQVXeT3.0.png' width='700px' /><br/>
-Apple's new Siri Remote doesn't come equipped with an accelerometer or gyroscope, which means it won't work as a motion controller in certain Apple TV games. The omission was initially spotted by Digital Trends, and can be seen on the remotes' product pages. The old Siri Remote listed an “Accelerometer” and “Three-axis gyro” in the tech specs, but they're missing from the new listing.
-<a href='https://www.theverge.com/2021/4/23/22398974/apple-tv-siri-remote-motion-controls-accelerometer-three-axis-gyro'> Source <a/>

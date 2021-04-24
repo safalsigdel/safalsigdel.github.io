@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KIah2AgEGVm7urlmJ3VuBuph6vo=/0x0:1125x750/1200x800/filters:focal(458x413:638x593)/cdn.vox-cdn.com/uploads/chorus_image/image/69174154/EzprcS_WUAA3Q0g.0.jpg' width='700px' /><br/>
-Twitter has apologized for accidentally sending out emails asking users to “confirm your Twitter account.” The company says the messages were sent out by mistake. “If you received one of these emails, you don't need to confirm your account and you can disregard the message,” the company said.
-<a href='https://www.theverge.com/2021/4/23/22399051/twitter-email-confirmation-error-psa'> Source <a/>

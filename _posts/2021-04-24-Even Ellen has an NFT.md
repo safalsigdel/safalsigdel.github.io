@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U791IvK25BDZ0teDlMVO7hK0mrk=/0x0:827x561/1200x800/filters:focal(348x215:480x347)/cdn.vox-cdn.com/uploads/chorus_image/image/69178019/ellen_nft_stick_cat.0.jpg' width='700px' /><br/>
+How much would someone pay for the digital rights to an autographed copy of a selfie — featuring talk show host Ellen DeGeneres and a crude stick-figure drawing of a cat?
+<a href='https://www.theverge.com/2021/4/23/22400068/ellen-degeneres-nft-woman-with-stick-cat-selfie'> Source <a/>

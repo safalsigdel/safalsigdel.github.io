@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eiybwzV5Bjp3SdKOM3keYszREFg=/0x0:3840x1708/1200x800/filters:focal(1613x547:2227x1161)/cdn.vox-cdn.com/uploads/chorus_image/image/69178290/OPN0260_105_comp_v099_20201210_r709.1088.147623.0.jpg' width='700px' /><br/>
+A fourth Captain America movie is on the way, set to be co-written by Malcolm Spellman, the creator, showrunner, and head writer of The Falcon and the Winter Soldier (which just aired its season finale on Disney Plus on Friday). Dalan Musson, a staff writer on the series, will also co-write the upcoming film, according to reports from The Hollywood Reporter and Deadline.
+<a href='https://www.theverge.com/2021/4/23/22400190/captain-america-4-falcon-winter-solider-creator-malcolm-spellman-report'> Source <a/>
