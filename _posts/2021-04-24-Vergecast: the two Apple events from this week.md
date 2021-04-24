@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OHaHKYBbHeq61xykihv1NR2XH_k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69175457/vpavic_4547_20210421_0119.0.jpg' width='700px' /><br/>
-You may have heard of the new Apple products announced at the company's “Spring Loaded” event this week — including the redesigned colorful iMac, the location-tracking AirTags, and the boosted specs on the next iPad Pro. But there was another big event focused on Apple this week: on Capitol Hill.
-<a href='https://www.theverge.com/2021/4/23/22399276/vergecast-podcast-449-apple-spring-loaded-event-app-store-antitrust-hearing'> Source <a/>
