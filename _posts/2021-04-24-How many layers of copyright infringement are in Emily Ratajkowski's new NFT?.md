@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CBhNokuTBnRJyfGMngogF3gCxjo=/0x0:1366x2048/1200x800/filters:focal(574x915:792x1133)/cdn.vox-cdn.com/uploads/chorus_image/image/69180426/23EMRATANFT_superJumbo.0.jpg' width='700px' /><br/>
+Model and actress Emily Ratajkowski is selling a link representing a composite image that features a photograph of herself in front of a print by another artist that contains a photo (of herself) taken by (presumably) yet another artist. In other words, she is selling an NFT.
+<a href='https://www.theverge.com/2021/4/24/22399790/emily-ratajkowski-nft-christies-copyright-nightmare-richard-prince'> Source <a/>
