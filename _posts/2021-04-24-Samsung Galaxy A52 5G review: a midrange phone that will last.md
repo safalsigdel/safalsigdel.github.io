@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YLraGA9iw7pV5ukBSLZ1dzsE_qM=/0x0:2040x1360/1200x675/filters:focal(837x568:1163x894)/cdn.vox-cdn.com/uploads/chorus_image/image/69180191/ajohnson_20210419_4541_0005.0.jpg' width='700px' /><br/>
+If a $100 budget phone is the fast-food dollar menu and a $1,000 flagship is a steakhouse dinner, then the Samsung Galaxy A52 5G sits comfortably halfway between the two: the laid-back all-day cafe with surprisingly tasty food.
+<a href='https://www.theverge.com/22399456/samsung-galaxy-a52-5g-review-camera-screen-specs-price'> Source <a/>
