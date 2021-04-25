@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0jLpGUPSYJ7nRZsfgVpspjgsbw8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69176233/ss_b43742be0818c5c18a6415f51ac4d2e383aa732f.1920x1080.0.jpg' width='700px' /><br/>
-Quiplash, the hilarious sentence-completion party game from Jackbox Games, is available for free on Steam this weekend. The deal runs until April 26th at 1PM ET.
-<a href='https://www.theverge.com/2021/4/23/22399537/quiplash-jackbox-games-party-free-steam'> Source <a/>
