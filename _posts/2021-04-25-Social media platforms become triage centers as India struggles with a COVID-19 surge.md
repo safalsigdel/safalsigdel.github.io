@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hizsbsrrzbgCglTJKm6KNmIP3nE=/0x0:3000x1981/1200x800/filters:focal(1260x751:1740x1231)/cdn.vox-cdn.com/uploads/chorus_image/image/69183315/1232488568.0.jpg' width='700px' /><br/>
+Doctors, hospital owners, journalists, and other Twitter users in India have been tweeting and amplifying pleas for oxygen supplies on social platforms out of desperation, as new coronavirus cases and deaths there hit record highs. Oxygen supplies are at critical low levels in India, and some hospitals are overwhelmed with patients suffering from COVID-19.
+<a href='https://www.theverge.com/2021/4/25/22402273/twitter-whatsapp-facebook-triage-center-india-oxygen-hospital-coronavirus'> Source <a/>
