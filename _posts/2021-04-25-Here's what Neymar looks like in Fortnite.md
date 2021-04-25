@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ifo1K4JW8VtrSVxAeKmGdtKAOmU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69183091/Neymar_Jr_Outfits.0.jpg' width='700px' /><br/>
+We've known that Brazilian soccer star Neymar was coming to Fortnite since March, when he was teased as part of the battle royale's latest season — and now we finally know what he'll look like. Today, Epic revealed Neymar's video game look, which, in traditional Fortnite fashion, gets pretty outlandish, with unlockable outfits that look ripped straight out of Power Rangers.
+<a href='https://www.theverge.com/2021/4/25/22399880/fortnite-neymar-skin'> Source <a/>
