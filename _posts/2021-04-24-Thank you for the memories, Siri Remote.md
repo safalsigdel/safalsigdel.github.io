@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xqp9i_XYUVNEKQrJaDjpHmtgJts=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69176016/VRG_ILLO_4545_Siri_Remote.0.jpg' width='700px' /><br/>
-The Apple TV remote is gone and a new remote — with the exact same name, considerably more buttons, and a two-tone color scheme straight out of 2010 — has replaced it. The majority of people have rejoiced this move, but I am here to mourn a remote that had no business being as captivating for my thumb as it was.
-<a href='https://www.theverge.com/22394083/siri-remote-apple-tv-goodbye'> Source <a/>

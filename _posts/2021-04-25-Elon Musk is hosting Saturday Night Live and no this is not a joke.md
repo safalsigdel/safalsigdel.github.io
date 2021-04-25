@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZgrPs3CvG0qHkUq3Y87y0nqB9Sg=/0x0:2157x1438/1200x800/filters:focal(907x547:1251x891)/cdn.vox-cdn.com/uploads/chorus_image/image/69181092/1229893040.0.jpg' width='700px' /><br/>
+Elon Musk, CEO of Tesla and SpaceX, will be hosting Saturday Night Live on May 8th, the official SNL account tweeted Saturday. The musical guest will be Miley Cyrus. Musk is known for his— how shall we put this — quirky sense of humor on Twitter, his preferred method of social media communication, but it's not totally clear whether he's actually funny enough to sustain a 90-minute hosting gig on the late-night comedy show.
+<a href='https://www.theverge.com/2021/4/24/22401253/elon-musk-hosting-saturday-night-live-miley-cyrus-tesla-spacex'> Source <a/>

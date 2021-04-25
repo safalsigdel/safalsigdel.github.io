@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LJHKCqn0BUFmuHEOX0VyiiSp-lI=/0x0:3840x2160/1200x800/filters:focal(1564x441:2178x1055)/cdn.vox-cdn.com/uploads/chorus_image/image/69181354/1310836738.0.jpg' width='700px' /><br/>
+During Tuesday's Spring Loaded event, Apple announced (among other things) that the second season of its runaway hit show Ted Lasso would drop on July 23rd. This is extremely good news for fans of the show (including myself) who have missed the earnest football coach with the impossibly sunny outlook on life, which provided a bit of a respite during the coronavirus pandemic last summer.
+<a href='https://www.theverge.com/2021/4/24/22401368/ted-lasso-shortbread-recipe-apple-spring-loaded'> Source <a/>
