@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Yj1UdhshtiQO3gINLsXN96IyvhA=/0x0:1440x900/1200x800/filters:focal(605x335:835x565)/cdn.vox-cdn.com/uploads/chorus_image/image/69186364/Zoom_Immersive_View_Image.0.jpg' width='700px' /><br/>
+Zoom is rolling out a video background feature called Immersive View that could make video calls feel a bit more like an office meeting — or at least look a lot more like one. Zoom announced the feature last year at its Zoomtopia conference, but now it's actually available for Free and Pro accounts attending meetings and webinars with up to 25 participants.
+<a href='https://www.theverge.com/2021/4/26/22400362/zoom-immersive-view-meeting-virtual-backgrounds'> Source <a/>
