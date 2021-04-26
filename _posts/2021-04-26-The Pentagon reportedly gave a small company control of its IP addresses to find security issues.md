@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/76B76k7Ikt8lGxHjY93nusmsL5I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69181430/acastro_170621_1777_0008.0.jpg' width='700px' /><br/>
-As part of an apparent effort to find holes in its network, the US Department of Defense has given a tiny Florida company control over about 175 million of its IP addresses, The Washington Post reported.
-<a href='https://www.theverge.com/2021/4/24/22401339/pentagon-ip-addresses-security-department-defense'> Source <a/>
