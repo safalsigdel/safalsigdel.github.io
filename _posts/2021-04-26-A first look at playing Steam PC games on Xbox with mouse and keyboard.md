@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Microsoft's new Chromium-based Edge browser is coming to Xbox soon, and the company has now added all-important mouse and keyboard support that will pave the way to stream PC games to Xbox consoles. Xbox testers in the Alpha Skip-Ahead ring are now able to access this new version of Edge and try out a mouse in the console version of the browser for the first time. I've been testing this new support over the weekend, and I've even managed to play some Steam PC games on my Xbox.
+<a href='https://www.theverge.com/2021/4/26/22403429/microsoft-xbox-steam-games-edge-browser-mouse-keyboard-support'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y5WgZNAXpniFCBZvu73uKWuiQIs=/0x0:2560x1707/1200x800/filters:focal(1076x650:1484x1058)/cdn.vox-cdn.com/uploads/chorus_image/image/69187151/20151026-roku-4-tv-4k-14.0.0.jpg' width='700px' /><br/>
+The YouTube TV app could disappear from Roku devices in the coming days, according to an email sent to subscribers on Monday. In a last-ditch effort, Roku is calling on subscribers to reach out to Google to “urge them” to reach an agreement.
+<a href='https://www.theverge.com/2021/4/26/22403740/roku-youtube-tv-google-standoff-competition-negotiations-contract'> Source <a/>
