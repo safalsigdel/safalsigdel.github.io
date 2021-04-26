@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/My0JxeenXJhQnhXyHIU9zVZELQM=/0x0:780x520/1200x800/filters:focal(328x198:452x322)/cdn.vox-cdn.com/uploads/chorus_image/image/69185503/colette.0.jpg' width='700px' /><br/>
+Colette, a short film featured in the Oculus VR game Medal of Honor: Above and Beyond, has won this year's Academy Award for Best Documentary (Short Subject). Presented by Oculus Studios and Electronic Arts' Respawn Entertainment, and later acquired and distributed by The Guardian, it's the first time a video game industry project has won an Oscar.
+<a href='https://www.theverge.com/2021/4/26/22403166/colette-oscar-documentary-short-oculus-medal-of-honor'> Source <a/>
