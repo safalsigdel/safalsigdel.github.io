@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PH__z3YQmnBsCay0DGSi6ifWH4Y=/0x0:4980x3204/1200x800/filters:focal(2092x1204:2888x2000)/cdn.vox-cdn.com/uploads/chorus_image/image/69186214/1227702915.0.jpg' width='700px' /><br/>
+Luminar, the newly public LIDAR company, is teaming up with the largest aircraft manufacturer in the world to bring its laser-guided mapping and perception technology to new heights.
+<a href='https://www.theverge.com/2021/4/26/22399389/luminar-airbus-lidar-aviation-evtol-partnership'> Source <a/>

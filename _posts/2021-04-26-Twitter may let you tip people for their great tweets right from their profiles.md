@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3MVaAY8I3bacNsawFbgvztB6VbA=/0x0:1064x736/1200x800/filters:focal(447x283:617x453)/cdn.vox-cdn.com/uploads/chorus_image/image/69177769/Ezph50pVoAszQCf__1_.0.jpeg' width='700px' /><br/>
-Twitter has said it's exploring features like tipping to give people a way to pay other Twitter users, and now we have further evidence that a tip feature may be on the way. App researcher Jane Manchun Wong shared images on Thursday and Friday showing that Twitter could offer a tipping button right on user profiles.
-<a href='https://www.theverge.com/2021/4/23/22399984/twitter-tip-button-jar-great-tweets-profiles'> Source <a/>
