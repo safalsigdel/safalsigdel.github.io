@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RWw0ruSCoa1PrEtjEfjXyQofY8M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69176604/acastro_180403_1777_youtube_0001.0.jpg' width='700px' /><br/>
-The YouTube mobile app for iOS and Android now has new video settings that might make it a bit easier to save on data while watching video on the go (via MacRumors). Along with specific resolutions in the video player, you can now toggle between three separate modes that either favor video quality, data use, or whatever works best for your current internet connection.
-<a href='https://www.theverge.com/2021/4/23/22399483/youtube-video-resolution-data-saver-mobile-carrier-caps'> Source <a/>
