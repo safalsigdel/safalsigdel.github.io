@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a_BQnMY9B9Va8V9-Y8OxuyqM5dA=/0x0:10000x5625/1200x800/filters:focal(4200x2013:5800x3613)/cdn.vox-cdn.com/uploads/chorus_image/image/69178324/Oculus_Quest_2.0.jpg' width='700px' /><br/>
-Oculus is turning on its Air Link PC streaming feature for the Quest 2 virtual reality headset. Air Link is part of the Oculus v28 software update, which recently started rolling out to Oculus headset owners. Facebook Reality Labs head Andrew Bosworth says you can find the feature if you're running v28 on your PC and Quest 2 headset; if you haven't gotten access to the update yet, “it's coming very soon.”
-<a href='https://www.theverge.com/2021/4/23/22400197/oculus-quest-2-air-link-pc-streaming-v28-launch'> Source <a/>
