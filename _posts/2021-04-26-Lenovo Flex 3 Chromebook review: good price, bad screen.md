@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XlPm_WTH8OFOdLy-tMKWWTUIy-0=/0x0:2040x1360/1200x675/filters:focal(877x661:1203x987)/cdn.vox-cdn.com/uploads/chorus_image/image/69179955/mchin_20190715_4544_0002.0.jpg' width='700px' /><br/>
-Lenovo's Ideapad Flex 3 Chromebook is one of the tiniest Chromebooks I've ever used. It's also one of the cheapest, retailing for just $349.99.
-<a href='https://www.theverge.com/22400085/lenovo-ideapad-flex-3-chromebook-review-price-screen'> Source <a/>
