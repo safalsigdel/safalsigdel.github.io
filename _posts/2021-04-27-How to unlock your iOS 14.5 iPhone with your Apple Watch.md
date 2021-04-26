@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ViEkk-mTe2OIEQFT_t6J9rpnXY8=/0x0:6240x4160/1200x800/filters:focal(1915x1643:2913x2641)/cdn.vox-cdn.com/uploads/chorus_image/image/69188190/DSCF2033.0.jpg' width='700px' /><br/>
+Apple's iOS 14.5 is out, and with it comes the ability to have your Apple Watch unlock your Face ID-protected phone if you happen to be wearing a mask. This will make it a lot easier to get through your day without having to enter your passcode each time you need to use your phone (because the Face ID can't recognize you with that mask on). As long as your phone and watch are in close proximity, you will be able to unlock your iPhone just by turning on the screen.
+<a href='https://www.theverge.com/22403738/iphone-unlock-watch-ios-14-5'> Source <a/>

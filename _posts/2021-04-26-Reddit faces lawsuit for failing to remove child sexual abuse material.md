@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SXBp3g3uNc07AhwIcDDfKtBJ9QY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69182839/acastro_180413_1777_reddit_0002.0.jpg' width='700px' /><br/>
-A woman has sued Reddit for allowing an ex-boyfriend to repeatedly post pornographic images of her as a 16-year-old. The lawsuit applies controversial measures instituted in 2018 under FOSTA-SESTA to a site that's drawn particular criticism for child sexualization. The resulting case will test the limits of platforms' legal shields amid ongoing efforts to pare back the law behind them.
-<a href='https://www.theverge.com/2021/4/25/22399306/reddit-lawsuit-child-sexual-abuse-material-fosta-sesta-section-230'> Source <a/>

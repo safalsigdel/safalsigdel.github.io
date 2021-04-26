@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wlM_e23oKEJiVcEknDy4leMvy2Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69188210/acastro_210309_1777_vaccine_0001.0.jpg' width='700px' /><br/>
+YouTube is launching a series of COVID-19 vaccine public service announcements, calling it the “first chapter” of a partnership with the London School of Hygiene & Tropical Medicine's Vaccine Confidence Project. The ads will start running in the US today and roll out internationally in coming weeks, coinciding with local vaccine availability.
+<a href='https://www.theverge.com/2021/4/26/22403987/youtube-covid-19-vaccine-psa-because-everything'> Source <a/>
