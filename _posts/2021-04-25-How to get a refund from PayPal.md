@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E57tuRf9f9gnsGxWIqMCxzxVoGA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69176467/acastro_180410_1777_payapl_0003.0.jpg' width='700px' /><br/>
-It's a situation none of us want to deal with but most of us will have to deal with sooner or later. You buy a product online, and it arrives damaged. Or the wrong color. Or it simply doesn't work. Or the description doesn't match the product. Or it simply never shows up at all.
-<a href='https://www.theverge.com/22397741/paypal-refund-purchase-scam'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gQN_I2laIYs64z_z-_rOtaTxp0o=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/69183495/1232148642.0.jpg' width='700px' /><br/>
+Audio social platform Clubhouse is partnering with the National Football League for some exclusive programming during the upcoming NFL draft, the company announced Sunday. This is the first sports partnership for Clubhouse.
+<a href='https://www.theverge.com/2021/4/25/22402183/clubhouse-partnering-nfl-draft-week-programming'> Source <a/>

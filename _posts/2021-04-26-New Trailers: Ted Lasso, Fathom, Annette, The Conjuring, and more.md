@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mp0SJC43w_HCKk5JJ428xoLvgC4=/0x0:5000x2813/1200x800/filters:focal(2169x986:2969x1786)/cdn.vox-cdn.com/uploads/chorus_image/image/69184274/1310834710.0.jpg' width='700px' /><br/>
+The Oscars are tonight and despite my best efforts I still haven't seen all the Best Picture contenders, so will hold off on making predictions (but honestly not sure how anyone beats Chadwick Boseman as Best Actor). Lots of good trailers this week including the return of the most wholesome show on all of streaming and the next big Marvel movie.
+<a href='https://www.theverge.com/2021/4/25/22396476/new-trailers-ted-lasso-fathom-annette-marvel-apple-streaming-hbo'> Source <a/>
