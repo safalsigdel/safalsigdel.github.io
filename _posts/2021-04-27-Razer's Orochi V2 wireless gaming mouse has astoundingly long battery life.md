@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DtoDJ-Moe6ws3Qf5jQber-4UaGA=/0x0:3240x2160/1200x800/filters:focal(1361x821:1879x1339)/cdn.vox-cdn.com/uploads/chorus_image/image/69192721/razerorochilede.0.jpg' width='700px' /><br/>
+Razer's new $69.99 Orochi V2 is a wireless gaming mouse that promises extremely long battery life. It can apparently last up to 950 hours on a single AA battery when it's in Bluetooth mode or up to 425 hours if you toggle its wireless switch to use the 2.4GHz Hyperspeed mode that can deliver lower-latency performance.
+<a href='https://www.theverge.com/2021/4/27/22403511/razer-orochi-v2-wireless-gaming-mouse-battery-life-custom-price-features'> Source <a/>
