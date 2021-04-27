@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_PhycE1FRHj9a5oUBLJ-HEZJG9M=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/69191528/microsoftteams.0.jpg' width='700px' /><br/>
+Microsoft Teams is down and experiencing an outage worldwide. The issues started at around 6:30AM this morning, and are blocking connectivity for many Microsoft Teams users across Europe and Asia. Microsoft is aware of the issues and is currently investigating the route cause.
+<a href='https://www.theverge.com/2021/4/27/22405300/microsoft-teams-down-outage-worldwide-issues'> Source <a/>
