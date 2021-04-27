@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F44VQA9LqIA0nayMH1toMHT5NhU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69193195/acastro_200406_1777_ford_0001.0.0.jpg' width='700px' /><br/>
+Ford announced the launch of a new battery development center in Michigan, the first step toward taking on some of the burden of building its own battery cells for electric cars in-house.
+<a href='https://www.theverge.com/2021/4/27/22405470/ford-ev-battery-manufacturing-research-center'> Source <a/>
