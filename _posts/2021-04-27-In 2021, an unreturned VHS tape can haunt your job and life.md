@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AHCpzBGtB6aQjh09JKAH2cEyhjI=/0x0:1620x1080/1200x800/filters:focal(697x498:955x756)/cdn.vox-cdn.com/uploads/chorus_image/image/69188731/the_verge_vhs_3_2.0.jpg' width='700px' /><br/>
+Ever mysteriously lost a job opportunity? Did they treat you like a criminal? Better check to see if your family forgot to return a VHS tape 22 years ago!
+<a href='https://www.theverge.com/2021/4/26/22404134/vhs-tape-rental-overdue-warrant-caron-davis-mcbride-sabrina-teenage-witch'> Source <a/>

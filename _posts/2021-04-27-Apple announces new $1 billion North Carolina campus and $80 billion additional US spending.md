@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qpm8IP2ixBfZ9oZo7-HTbsfU8xk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69186198/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-Apple has announced new spending plans for the US, including the establishment of a 3,000-employee “campus and engineering hub” in North Carolina and the commitment of an additional $80 billion in investment across the country.
-<a href='https://www.theverge.com/2021/4/26/22403407/apple-us-spending-new-north-carolina-campus'> Source <a/>

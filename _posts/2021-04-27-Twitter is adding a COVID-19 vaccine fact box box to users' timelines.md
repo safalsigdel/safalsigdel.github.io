@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Jch-0E0X6lMYUyo_laEaddJ-hTU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69188579/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
+Twitter is adding a new prompt to users' timelines to help promote the ongoing COVID-19 vaccination effort, providing users around the world with the “latest vaccine info” in their particular country.
+<a href='https://www.theverge.com/2021/4/26/22403628/twitter-covid-19-vaccine-fact-box-box-timeline-app-update'> Source <a/>

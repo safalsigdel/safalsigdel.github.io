@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SmZTgBsv9gbyH42MICo4prrJ4_M=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/69185833/telegram_machine.0.jpg' width='700px' /><br/>
-Making sure elders can keep in contact with children and grandchildren has never been more important in a time of global lockdown. That's why Twitter user @mrcatacroquer, Manuel Lucio Dallo, built the Yayagram — a DIY project that makes sending and receiving voice and text messages over Telegram a physical process just like using an old-fashioned phone switchboard.
-<a href='https://www.theverge.com/2021/4/26/22403344/diy-device-yayagram-telegram-voice-messages-physical-phone-switchboard'> Source <a/>

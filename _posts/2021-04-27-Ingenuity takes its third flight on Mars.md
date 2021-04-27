@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PeAhjn6U9CksiQ4gUfKHQi6_Moo=/0x0:1464x928/1200x800/filters:focal(615x347:849x581)/cdn.vox-cdn.com/uploads/chorus_image/image/69184345/ingenuity_3.0.jpg' width='700px' /><br/>
-NASA's tiny Ingenuity helicopter made its third successful flight on Mars early Sunday, and flew higher and faster than it did even when it was being tested on Earth. At about 1:31 AM ET, the helicopter ascended 16 feet and flew 164 feet during its 80 second third flight, at a top speed of 6.6 feet per second.
-<a href='https://www.theverge.com/2021/4/25/22402758/ingenuity-mars-nasa-rover-perseverance-helicopter'> Source <a/>

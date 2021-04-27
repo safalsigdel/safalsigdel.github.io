@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LLTeohPW_eeLXt75-7EUeoSYfEY=/0x0:4966x3441/1200x800/filters:focal(1495x471:2289x1265)/cdn.vox-cdn.com/uploads/chorus_image/image/69189437/1183345648.0.jpg' width='700px' /><br/>
+Jeff Bezos' space company Blue Origin is fighting NASA's decision to award SpaceX $2.9 billion to land astronauts on the Moon by 2024. NASA's Human Landing System program, which funded the development of three rival lunar lander prototypes (including Blue Origin's), was expected to pick two of those landers in April. But NASA opted for just one — SpaceX's Starship — because of short funding from Congress.
+<a href='https://www.theverge.com/2021/4/26/22404528/nasa-bezo-blue-origin-protest-spacex-contract'> Source <a/>
