@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vhbctBx8gwwk41z3ZnjimFW1Y2A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69192463/acastro_210104_1777_google_0001.0.jpg' width='700px' /><br/>
+The Android version of Google and Apple's COVID-19 exposure notification app had a privacy flaw that let other preinstalled apps potentially see sensitive data, including if someone had been in contact with a person who tested positive for COVID-19, privacy analysis firm AppCensus revealed on Tuesday. Google says it's currently rolling out a fix to the bug.
+<a href='https://www.theverge.com/2021/4/27/22405425/android-google-contact-tracing-bug-privacy'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QcoLL9FBLLjZB29b7UUj8qybKB4=/0x0:1500x1500/1200x800/filters:focal(486x869:726x1109)/cdn.vox-cdn.com/uploads/chorus_image/image/69188107/99_Invisible_Logo.0.jpg' width='700px' /><br/>
-SiriusXM, a company still best known for its satellite radio stations, is acquiring podcaster Roman Mars' company 99% Invisible Inc. for an undisclosed sum. Mars and his team will join the company under Stitcher, the podcasting company Sirius acquired last summer.
-<a href='https://www.theverge.com/2021/4/26/22403852/siriusxm-roman-mars-99-percent-invisible-acquire-stitcher'> Source <a/>
