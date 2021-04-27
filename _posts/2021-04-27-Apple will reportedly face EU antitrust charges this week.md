@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TsPSkX6dy1V8tFT2uqImEPz-Pqs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69191331/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
+The European Commission will issue antitrust charges against Apple over concerns about the company's App Store practices, according to a report from the Financial Times. The commission has been investigating whether Apple has broken EU competition rules with its App Store policies, following an initial complaint from Spotify back in 2019 over Apple's 30 percent cut on subscriptions.
+<a href='https://www.theverge.com/2021/4/27/22405260/apple-eu-antitrust-charges-app-store-policies-decision-rumor'> Source <a/>
