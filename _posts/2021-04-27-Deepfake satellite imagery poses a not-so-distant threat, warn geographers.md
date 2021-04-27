@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QaU1Ebf19pWFkQQAl1q11gaMnxM=/0x0:6000x5000/1200x800/filters:focal(2520x2020:3480x2980)/cdn.vox-cdn.com/uploads/chorus_image/image/69191734/922455274.0.jpg' width='700px' /><br/>
+When we think of deepfakes, we tend to imagine AI-generated people. This might be lighthearted, like a deepfake Tom Cruise, or malicious, like nonconsensual pornography. What we don't imagine is deepfake geography: AI-generated images of cityscapes and countryside. But that's exactly what some researchers are worried about.
+<a href='https://www.theverge.com/2021/4/27/22403741/deepfake-geography-satellite-imagery-ai-generated-fakes-threat'> Source <a/>

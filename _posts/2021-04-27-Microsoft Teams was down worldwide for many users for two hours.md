@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_PhycE1FRHj9a5oUBLJ-HEZJG9M=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/69191528/microsoftteams.0.jpg' width='700px' /><br/>
+Microsoft Teams was down and experiencing an outage worldwide for many users for more than two hours today. The issues started at around 6:30AM this morning, and were blocking connectivity for lots of Microsoft Teams users across Europe and Asia. Microsoft says it has identified the root cause for the issues and has put a fix in place. “We're seeing signs of recovery and will continue to monitor the service.”
+<a href='https://www.theverge.com/2021/4/27/22405300/microsoft-teams-down-outage-worldwide-issues'> Source <a/>

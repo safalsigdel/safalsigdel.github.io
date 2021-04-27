@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/64Dcg5mlYuE11rmvdEB0Z9HDwA8=/0x0:4550x2400/1200x800/filters:focal(1911x836:2639x1564)/cdn.vox-cdn.com/uploads/chorus_image/image/69191879/AOTD_SG_0049.0.jpg' width='700px' /><br/>
+Netflix released its summer movie lineup on Tuesday, and it's looking like the streaming service will be jam-packed with new movies in the coming months. The sheer volume should help Netflix compete with Disney, which is gearing up for the July 9th premiere of Black Widow on Disney Plus and in theaters, and WarnerMedia, which is releasing each of its 2021 theatrical titles (such as the new Space Jam) day and date on HBO Max.
+<a href='https://www.theverge.com/2021/4/27/22404701/netflix-summer-movie-preview-2021'> Source <a/>

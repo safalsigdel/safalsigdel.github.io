@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/97frx6i4G1l8dqB-NVeZcb_JWVg=/0x0:4786x2795/1200x800/filters:focal(1266x1032:2030x1796)/cdn.vox-cdn.com/uploads/chorus_image/image/69187599/2021_Mustang_Mach_E_GT_02.0.jpg' width='700px' /><br/>
-Ford will start taking orders for the GT and GT Performance variants of its first electric Mustang on Wednesday, and it has finally revealed how much they'll cost. The GT version starts at $59,900, while the Mustang Mach-E GT Performance has a starting price of $64,900 (before tax, title, registration, and delivery fees).
-<a href='https://www.theverge.com/2021/4/26/22403756/ford-gt-performance-mustang-mach-e-electric-suv-range-specs'> Source <a/>

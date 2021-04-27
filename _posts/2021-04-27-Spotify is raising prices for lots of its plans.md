@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DPrKMrHTHEBEKh2HxjO79n4XbGA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69187536/acastro_180213_1777_0001.0.jpg' width='700px' /><br/>
-Spotify is increasing the price of many of its subscriptions this week across the UK and parts of Europe, with the US seeing a hike to Family plans. Subscribers have started to receive emails informing them of the changes, and they will affect Student, Duo, and Family plans across parts of Europe and the UK, and Family subscriptions in the US from April 30th. Single Spotify Premium subscriptions are unaffected.
-<a href='https://www.theverge.com/2021/4/26/22403813/spotify-price-increase-subscriptions-2021'> Source <a/>
