@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ou8lO9t39_PwElk6CZ1P7DUF_a8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69200002/bfarsace_4481_20210317_0057.0.jpg' width='700px' /><br/>
+Google is expanding its Android-based earthquake detection and alert system, filling in gaps in places where there are few seismometers and no early warning systems. Starting today, the program that launched in California last year will also be available in Greece and New Zealand.
+<a href='https://www.theverge.com/2021/4/28/22407676/google-expands-android-earthquake-detection-system'> Source <a/>

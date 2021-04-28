@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tDEry5ckKSLHU3d4EyHJyGCxMTk=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69195375/1232510519.0.jpg' width='700px' /><br/>
-Live hockey is coming to HBO Max, thanks to a new seven-year deal between the National Hockey League and WarnerMedia's Turner Sports. The news may come as a bit of a surprise,  as, only a few weeks ago, WarnerMedia CEO Jason Kilar said sports would not appear on HBO Max in 2021.
-<a href='https://www.theverge.com/2021/4/27/22405964/hbo-max-nhl-live-hockey-turner-sports-warnermedia'> Source <a/>
