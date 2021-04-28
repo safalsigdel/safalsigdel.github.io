@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DBrzbDI8m-uSvwRH75F5zkAOtt4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69191818/acastro_170629_1777_0008.0.jpg' width='700px' /><br/>
-Washington, DC's police department has confirmed its servers have been breached after hackers began leaking its data online, The New York Times reports. In a statement, the department confirmed it was aware of “unauthorized access on our server” and said it was working with the FBI to investigate the incident. The hacked data appears to include details on arrests and persons of interest.
-<a href='https://www.theverge.com/2021/4/27/22405339/washington-dc-police-hack-data-department-ransomeware-babuk'> Source <a/>

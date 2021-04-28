@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q04P_-wxdoDaSkS9v8RvCmoQyXk=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69189994/fatal_crash_tesla.0.jpeg' width='700px' /><br/>
-A Tesla Model S that crashed and caught fire recently in Texas, killing two men, may have had someone in the driver's seat, according to Tesla's top executives. Their comments in an earnings call Monday contradict statements made by local law enforcement in the immediate aftermath of the crash, and could complicate the efforts by federal crash investigators who are also examining the incident.
-<a href='https://www.theverge.com/2021/4/26/22404677/tesla-texas-crash-driver-seat-earnings-musk'> Source <a/>

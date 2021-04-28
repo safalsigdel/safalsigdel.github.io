@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6g1pCg9R0ZO26kmiis4WFYUoraI=/0x0:1020x676/1200x800/filters:focal(505x239:667x401)/cdn.vox-cdn.com/uploads/chorus_image/image/69195175/iPhone5_0622.0.jpg' width='700px' /><br/>
+Eddy Cue pushed to bring iMessage to Android as early as 2013, according to a new deposition made public as part of the Epic case. Currently Apple's senior VP of software and services, Cue wanted to devote a full team to iMessage support on Android, only to be overruled by other executives.
+<a href='https://www.theverge.com/2021/4/27/22406303/imessage-android-eddy-cue-emails-apple-epic-deposition'> Source <a/>

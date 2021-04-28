@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eKIMsxhQzmc7ZVfjxGebtc-AGIA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69195597/vpavic_4479_20210318_0042.0.jpg' width='700px' /><br/>
+If you were having issues with the PlayStation Network (PSN) this evening or afternoon, you weren't alone. The service suffered an outage, with multiplayer, store services, and more going down for around an hour. The outage appeared to be global — the official Ask PlayStation Japan Twitter account reported the issue, and we saw many users from Europe also reporting problems.
+<a href='https://www.theverge.com/2021/4/27/22406532/playstation-network-psn-down-outage'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LBNRvoZZ5EfgSEhpQUU9kCcSUxI=/0x0:5358x3978/1200x800/filters:focal(2251x1561:3107x2417)/cdn.vox-cdn.com/uploads/chorus_image/image/69192314/Latitude_7320_Detachable_front_angled_right.0.png' width='700px' /><br/>
-If I asked most people to name a laptop with a detachable keyboard, they'd probably say “Surface Pro.” But there is a number of Windows alternatives out there, for business users and consumers alike. Dell's newly announced Latitude 7320 Detachable looks to be vying for the top spot in the enterprise market.
-<a href='https://www.theverge.com/2021/4/27/22375872/dell-latitude-7320-detachable-intel-11th-gen-microsoft-surface-pro'> Source <a/>

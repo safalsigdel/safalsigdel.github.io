@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lN_Uv-5TlEozX6r6W7u6uJImrFs=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69194295/Blade_11_Prime_Front_Left.0.jpg' width='700px' /><br/>
+ZTE is offering a feature rarely seen in the budget class of phones: wireless charging. The Blade 11 Prime is on sale now in the US for $192 through Visible and Yahoo Mobile, two MVNOs that use Verizon's network. It's an otherwise fairly unremarkable budget device, with a 6.5-inch 720p display shipping with Android 11.
+<a href='https://www.theverge.com/2021/4/27/22405828/zte-blade-11-prime-price-specs'> Source <a/>

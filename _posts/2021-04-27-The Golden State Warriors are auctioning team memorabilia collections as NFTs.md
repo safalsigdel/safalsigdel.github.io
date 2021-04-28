@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JUanIIDOv9Ak7xQ5NqpDKiHhZEE=/0x0:1080x526/1200x800/filters:focal(454x177:626x349)/cdn.vox-cdn.com/uploads/chorus_image/image/69191904/warriors_nft.0.jpeg' width='700px' /><br/>
-The Golden State Warriors are auctioning off a plethora of team-related memorabilia as non-fungible tokens, the team's first foray into the world of NFTs. The Golden State Warriors Legacy NFT Collection has two series minted on the blockchain: the Warriors Championship Ring NFTs and Commemorative Ticket Stub NFTs, which were designed by artists' studio Black Madre.
-<a href='https://www.theverge.com/2021/4/27/22404223/golden-state-warriors-nft-auctioning-team-memorabilia'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L2XEJ7C1kpCVity-444EJ-HdpQw=/0x0:8256x5504/1200x800/filters:focal(3468x2092:4788x3412)/cdn.vox-cdn.com/uploads/chorus_image/image/69191198/Key_In_Garage_Grocery_Delivery_4.0.jpeg' width='700px' /><br/>
-Amazon is expanding its in-garage delivery option today to every city where it offers grocery deliveries. According to the company, that's now over 5,000 US cities where Key by Amazon Garage Grocery Delivery can be used to have Amazon Fresh or Whole Foods orders left directly in your garage. You can check to see if the service is available near you by entering your ZIP code on Amazon's site.
-<a href='https://www.theverge.com/2021/4/27/22403847/amazon-key-garage-grocery-delivery-expansion-myq'> Source <a/>

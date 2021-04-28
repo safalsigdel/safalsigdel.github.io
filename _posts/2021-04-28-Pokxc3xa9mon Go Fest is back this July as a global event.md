@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ay_oaKInlUdZk3j35jEvpVcP-x0=/0x0:1024x512/1200x800/filters:focal(431x175:593x337)/cdn.vox-cdn.com/uploads/chorus_image/image/69194357/Ez_vg5sWEAQ5F9D.0.jpeg' width='700px' /><br/>
+The annual Pokxc3xa9mon Go Fest is back again this summer, scheduled for July 17th and 18th. Last year's event was held online due to the COVID-19 pandemic, instead of taking place in person in select cities around the globe. It sounds like this year's fest will once again happen virtually; developer Niantic describes the event as a “global event.”
+<a href='https://www.theverge.com/2021/4/27/22406090/pokemon-go-fest-2021-dates-july'> Source <a/>

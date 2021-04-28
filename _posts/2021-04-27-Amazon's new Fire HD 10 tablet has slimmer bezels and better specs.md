@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l5H7OtIjw3sqdTsgYacQTF6gwq4=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69191889/Fire_HD_10_Lifestyle_5.0.jpg' width='700px' /><br/>
-Amazon is overhauling its tablet lineup today with new Fire HD 10 models alongside refreshed options for kids.
-<a href='https://www.theverge.com/2021/4/27/22405230/amazon-fire-hd-10-2021-announced-kids-pro'> Source <a/>

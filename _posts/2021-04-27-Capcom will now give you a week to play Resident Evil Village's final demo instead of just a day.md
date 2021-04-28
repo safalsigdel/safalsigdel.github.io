@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bvjXPsJcfaeYCnj1_QDYOY5SwCU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69189353/EsRryLBXIAAE_Yd.0.jpg' width='700px' /><br/>
-Resident Evil Village is nearly here, and Capcom is giving you more time to play a piece of it ahead of launch. The studio originally announced that players on Xbox, Playstation, and PC would have access to a 60-minute demo this weekend for just 24 hours, but after fan criticism, Capcom has extended the demo's availability to a full week.
-<a href='https://www.theverge.com/2021/4/26/22404242/resident-evil-village-final-demo-week-vampire-werewolf'> Source <a/>

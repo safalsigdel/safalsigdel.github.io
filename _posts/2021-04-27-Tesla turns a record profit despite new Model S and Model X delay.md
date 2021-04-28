@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O4D6Gso73ILBrwBUz3NNXjwqvg0=/0x0:4000x2109/1200x800/filters:focal(1680x735:2320x1375)/cdn.vox-cdn.com/uploads/chorus_image/image/69188994/0x0_Model_Y_01.0.jpg' width='700px' /><br/>
-Tesla has drawn a lot of scrutiny lately, has run into delays with the refreshed Model S and Model X, and the auto industry is struggling through a global shortage of semiconductors. But none of those things seemed to have much effect on Tesla's business.
-<a href='https://www.theverge.com/2021/4/26/22404198/tesla-q1-results-earnings-profit-model-s-x-y-3-bitcoin-delay'> Source <a/>

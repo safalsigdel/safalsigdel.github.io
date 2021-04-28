@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7SK5ZOsSJ-JGQs_ZLCjRQorEuXg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69196014/SME2020MVzenki.02412720200721_6814_1i5ylsp.0.jpg' width='700px' /><br/>
+The newest movie in the hugely popular Sailor Moon franchise, Pretty Guardian Sailor Moon Eternal The Movie (which was originally released in two parts), is hitting Netflix on June 3. The movie's arrival on Netflix marks its premiere for the first time outside of Japan, where Part 1 debuted in January.
+<a href='https://www.theverge.com/2021/4/27/22406600/netflix-pretty-guardian-sailor-moon-eternal-the-movie'> Source <a/>
