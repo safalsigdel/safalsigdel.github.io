@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lww0Gq9r5gGLwdMuQDAKaAalzz8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69192916/acastro_180730_1777_facial_recognition_0002.0.jpg' width='700px' /><br/>
-Legal services startup DoNotPay is best known for its army of “robot lawyers” — automated bots that tackle tedious online tasks like canceling TV subscriptions and requesting refunds from airlines. Now, the company has unveiled a new tool it says will help shield users' photos from reverse image searches and facial recognition AI.
-<a href='https://www.theverge.com/2021/4/27/22405570/donotpay-ninja-anti-reverse-image-search-facial-recognition-filter'> Source <a/>

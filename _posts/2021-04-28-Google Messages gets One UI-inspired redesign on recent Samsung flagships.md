@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i-UzqrdDiGgmXsWXo85K_Wr5Zuw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69198084/vpavic_210118_4377_0119.0.jpg' width='700px' /><br/>
+Google's Messages app is getting a redesign on Samsung's Galaxy S21 devices, bringing its appearance into line with Samsung's other One UI software, XDA Developers reports. Screenshots posted by XDA and users on Reddit show the app's home screen has been divided into two sections: an upper information area with an unread messages counter and a lower section with links to each conversation.
+<a href='https://www.theverge.com/2021/4/28/22407361/google-messages-samsung-s21-ultra-one-ui-redesign'> Source <a/>
