@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/24m46TnNVaYtZPxSDd0JHCCzyOs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69194965/acastro_180130_1777_0002.0.jpg' width='700px' /><br/>
-During the height of the pandemic last year, Google was the rare tech giant that actually saw a revenue decline — the first in the company's history — but only by 2 percent. To say Google has now recovered would be the understatement of the week: Alphabet's just-released Q1 2021 earnings show it raking in a stunning amount of cash this spring, nearly as high as the all-time record revenues it set last quarter.
-<a href='https://www.theverge.com/22404046/google-alphabet-q1-2021-earnings'> Source <a/>
