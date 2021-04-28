@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UcLrKae9UvfF2Q_05pERopLTEGo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69194329/acerbiwinssd.0.jpg' width='700px' /><br/>
-Acer announced in a blog post that it's getting into the flash storage and memory business with help from a Chinese manufacturer called Biwin. Acer's brand will be slapped onto each of these SSDs, but it'll be another company that's responsible for building them. Even though you'll see an Acer logo on this storage, it's Biwin that'll handle the warranty for these products.
-<a href='https://www.theverge.com/2021/4/27/22405943/acer-ssd-solid-state-drive-nvme-pcie-m2-biwin-storage-ram'> Source <a/>
