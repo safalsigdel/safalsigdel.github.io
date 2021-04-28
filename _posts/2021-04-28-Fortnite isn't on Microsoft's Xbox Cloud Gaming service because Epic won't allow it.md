@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MJmqApH4AdtLShIIrMrjzsxzJG4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69199964/vpavic_180607_2652_0045.0.jpg' width='700px' /><br/>
+Epic Games is holding back Fortnite from being available on Microsoft's Xbox Cloud Gaming (xCloud) service, according to a new deposition made public as part of the Epic case against Apple. The Fortnite developer views Microsoft's xCloud service as competition to its PC offerings, and the company is deliberately not offering Fortnite on xCloud as a result.
+<a href='https://www.theverge.com/2021/4/28/22407849/fortnite-xbox-cloud-gaming-xcloud-epic-games-block'> Source <a/>
