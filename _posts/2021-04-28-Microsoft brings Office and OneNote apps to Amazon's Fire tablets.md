@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wLmMJramMK1bI7CSpt5rg8t1Duc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69193975/Fire_HD_10_Plus_Lifestyle_Productivity_Bundle.0.jpg' width='700px' /><br/>
-Microsoft is launching its Office and OneNote apps on Amazon's Fire tablets today. Both apps are available in Amazon's Appstore, with the Office app combining Word, Excel, and PowerPoint into a single tablet app.
-<a href='https://www.theverge.com/2021/4/27/22405976/microsoft-office-amazon-fire-tablets-onenote-apps-availability'> Source <a/>
