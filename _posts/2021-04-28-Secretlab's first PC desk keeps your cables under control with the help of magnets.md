@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eKJYoA5INkPFYutxyzsDZHfwHrM=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/69193713/Secretlab_MAGNUS_main.0.png' width='700px' /><br/>
-Secretlab, which you may know for its gaming chairs, is announcing its first-ever PC desk — the Magnus Metal Desk — and the company has a smart solution to help you manage your cables: you'll be able to attach magnetic cable-management accessories right onto the desk.
-<a href='https://www.theverge.com/2021/4/27/22405816/secretlab-first-pc-desk-magnus-metal-magnets-cable-management'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JVdN4i4RlwhObIKI4-In0crlzxQ=/0x0:2040x1360/1200x800/filters:focal(860x480:1186x806)/cdn.vox-cdn.com/uploads/chorus_image/image/69193062/cwelch_190605_3471_0002.0.jpg' width='700px' /><br/>
-Recent Bose headphones and earbuds have come with a somewhat frustrating requirement: to use the accompanying Bose Music app, you needed to create an account. So if you wanted to, say, customize the noise cancellation of the Noise Cancelling Headphones 700 or QuietComfort Earbuds, you'd have to make a Bose account just to access those important controls.
-<a href='https://www.theverge.com/2021/4/27/22405733/bose-music-no-more-account-requirement'> Source <a/>

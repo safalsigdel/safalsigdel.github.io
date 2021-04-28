@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M5cLUS3aVvdQ6zMPZxSM8sSKTdQ=/0x0:1800x980/1200x800/filters:focal(756x346:1044x634)/cdn.vox-cdn.com/uploads/chorus_image/image/69198266/Explore_Map.0.png' width='700px' /><br/>
+Google has unveiled new tools to help people planning their first post-vaccination vacations, as COVID-19 restrictions and requirements still vary widely among domestic and international travel destinations.
+<a href='https://www.theverge.com/2021/4/28/22404415/google-covid-19-travel-restriction-search-coronavirus'> Source <a/>

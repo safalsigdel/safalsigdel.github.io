@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3QemOSHM6Z_0nMmUOE7DJFNlTfY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69198459/CES-2016-stock-verge-11.0.0.jpg' width='700px' /><br/>
+The Consumer Electronics Show (CES) is officially returning to an in-person format in Las Vegas in 2022, the Consumer Technology Association (CTA) announced today, marking the return of the largest tech conference in the world next year.
+<a href='https://www.theverge.com/2021/4/28/22407494/ces-2022-in-person-conference-event-tech-show-las-vegas-january'> Source <a/>

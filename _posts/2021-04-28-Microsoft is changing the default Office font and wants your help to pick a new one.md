@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6tiUXTG-3HKuPUWduLQKfxRZIRU=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/69198240/microsoftofficenewfonts.0.jpg' width='700px' /><br/>
+Microsoft is changing its default Office font next year and wants everyone to help pick the new default. While there are more than 700 font options in Word, Microsoft has commissioned five new custom fonts for Office, in a move away from the Calibri font that has been the default in Microsoft Office for nearly 15 years.
+<a href='https://www.theverge.com/2021/4/28/22407297/microsoft-office-new-default-font-2022'> Source <a/>
