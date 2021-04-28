@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CqwbbtXTV76E5HRDPv9OU7nkkes=/0x0:1928x992/1200x800/filters:focal(810x342:1118x650)/cdn.vox-cdn.com/uploads/chorus_image/image/69195284/Screen_Shot_2020_05_21_at_10.07.14_AM.0.png' width='700px' /><br/>
-In a recent episode of The Joe Rogan Experience, the world's most popular podcaster suggests that healthy young people don't need the COVID-19 vaccine, contrary to the advice of health professionals trying to stem a pandemic that's killed more than 3 million people.
-<a href='https://www.theverge.com/2021/4/27/22406315/joe-rogan-vaccine-spotify-podcast-covid-19'> Source <a/>
