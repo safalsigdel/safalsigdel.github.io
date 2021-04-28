@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pADgeSviKgxpu2bFXJqG2FpqIwo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69199225/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
+You can now book a vaccine appointment — and a ride to that appointment — in the Uber app.
+<a href='https://www.theverge.com/2021/4/28/22406197/uber-vaccine-appointment-schedule-app'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bELn1LSbYYmm37rlUSm6Xs7QCIU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69194903/DSCF1179.0.0.jpg' width='700px' /><br/>
-Microsoft posted the third quarter of its 2021 financial results today, reporting revenue of $41.7 billion and a net income of $15.5 billion. Revenue is up 19 percent, and net income has increased by 44 percent. Once again, Microsoft has seen strong growth for Xbox and cloud-related services.
-<a href='https://www.theverge.com/2021/4/27/22406254/microsoft-q3-2021-earnings-revenue-xbox-cloud-services-surface-gaming'> Source <a/>
