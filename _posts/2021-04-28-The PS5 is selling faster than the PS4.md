@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0hWggLRvbbS2y5-a1fPF4tBS3DI=/0x0:2040x1360/1200x800/filters:focal(860x847:1186x1173)/cdn.vox-cdn.com/uploads/chorus_image/image/69197316/vpavic_4278_20201030_0041.0.jpg' width='700px' /><br/>
+Sony has sold 7.8 million PlayStation 5 consoles as of March 31st, the company says in its latest earnings report. The number of PlayStation Plus subscribers is now 47.6 million, a 14.7 percent increase year on year. The fourth-quarter figures bring the overall PlayStation business to a total operating profit of 342.2 billion yen ($3.14 billion) for the 2020 financial year — a record for Sony.
+<a href='https://www.theverge.com/2021/4/28/22407195/sony-ps5-sales-numbers-q4-2020-earnings'> Source <a/>
