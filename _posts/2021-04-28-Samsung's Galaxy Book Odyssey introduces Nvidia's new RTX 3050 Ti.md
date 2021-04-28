@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2DIVCVPCGXUEwgxy22y7zJe32Tc=/0x0:728x410/1200x800/filters:focal(306x147:422x263)/cdn.vox-cdn.com/uploads/chorus_image/image/69199074/download.0.jpeg' width='700px' /><br/>
+Samsung is announcing its new Galaxy Book Odyssey gaming laptop today, complete with Nvidia's unannounced GeForce RTX 3050 Ti and 3050 graphics cards. The 15.6-inch (1080p) gaming laptop starts at $1,399 and will ship with Intel's 11th Gen Core H i5 or i7 processors, up to 32GB of RAM, and up to 2TB of SSD storage. The big new addition is a choice between Nvidia's RTX 3050 or RTX 3050 Ti GPU.
+<a href='https://www.theverge.com/2021/4/28/22407647/samsungs-galaxy-book-odyssey-nvidia-rtx-3050-ti-gpu'> Source <a/>
