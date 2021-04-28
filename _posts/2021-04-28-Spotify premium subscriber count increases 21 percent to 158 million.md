@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZwCEqCiGfPHL1HQYYnbBLdQelaI=/0x0:1162x636/1200x800/filters:focal(720x184:904x368)/cdn.vox-cdn.com/uploads/chorus_image/image/69197578/image__7_.0.png' width='700px' /><br/>
+Spotify now boasts 158 million premium subscribers and 356 million monthly active users, according to its latest earnings report released today. That's a 21 percent and 24 percent year-over-year increase, respectively. It's up from 155 million premium subscribers and 345 million monthly active users last quarter.
+<a href='https://www.theverge.com/2021/4/28/22405953/spotify-earnings-q1-2021-subscribers-average-revenue-per-user'> Source <a/>
