@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E_pehWQy1HCvuF98TvULcSHrkgw=/0x0:1376x917/1200x800/filters:focal(578x349:798x569)/cdn.vox-cdn.com/uploads/chorus_image/image/69203414/mighty_browser.0.jpg' width='700px' /><br/>
+No matter how much web browsers improve, it feels like they can't keep pace with everything we want to do. Open one too many tabs on a few-year-old laptop, and your fan starts spinning, your battery life dips, your system starts to slow. A faster or cleaner PC might fix it, but a startup called Mighty has a different idea: a $30-a-month web browser that lives in the cloud.
+<a href='https://www.theverge.com/2021/4/29/22408818/mighty-browser-chrome-cloud-streaming-web'> Source <a/>

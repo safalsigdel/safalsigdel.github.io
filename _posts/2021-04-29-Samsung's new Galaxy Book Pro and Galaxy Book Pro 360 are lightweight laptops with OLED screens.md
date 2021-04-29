@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/30K_6HNxzcDedRDf-gCmguXFf-8=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22472182/bfarsace_4561_20210426_0001.jpg' width='700px' /><br/>
-Samsung has announced two new Galaxy Book devices: the Galaxy Book Pro (a regular clamshell laptop) and the Galaxy Book Pro 360 (a touchscreen convertible). They start at $999.99 and $1,199.99, respectively. You can preorder them both today, and they'll ship on May 14th.
-<a href='https://www.theverge.com/22405540/samsung-galaxy-book-pro-360-features-price-photos-video-release-date'> Source <a/>
