@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ibV7_Ep14QkZfL8KLqyoJUvXPLM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69195326/acastro_200109_1777_verizon_0004.0.0.jpg' width='700px' /><br/>
-Many Verizon customers in Southern California reported difficulties making calls on Tuesday afternoon, and the company confirmed to The Verge at the time that was a “network issue” affecting voice services in parts of the region. That issue was resolved overnight, a spokesperson told The Verge on Wednesday morning.
-<a href='https://www.theverge.com/2021/4/27/22406419/verizon-southern-california-outage-down-phone-calls'> Source <a/>

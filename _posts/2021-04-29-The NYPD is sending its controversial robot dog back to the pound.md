@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zvwOjU0oIl2lzaknoC1vPXm74ZA=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69205102/robot_dog.0.jpg' width='700px' /><br/>
+The New York Police Department has canceled its trial of a robot dog made by US firm Boston Dynamics after receiving fierce criticism regarding the “dystopian” technology.
+<a href='https://www.theverge.com/2021/4/29/22409559/nypd-robot-dog-digidog-boston-dynamics-contract-terminated'> Source <a/>
