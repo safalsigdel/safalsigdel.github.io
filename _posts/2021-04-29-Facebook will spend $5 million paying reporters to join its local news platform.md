@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e1Yq78viUWfKYPHm4hnqk5MYyIY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69205578/akrales_180614_1777_0121.0.jpg' width='700px' /><br/>
+Facebook says it will spend $5 million paying local journalists on a new publishing platform. Reuters reported the news on Thursday, saying independent journalists could begin applying for the program today. The company is prioritizing reporters in areas without an existing news source — sometimes called “news deserts” — who plan to cover “Black, Indigenous, Latinx, Asian or other audiences of color.”
+<a href='https://www.theverge.com/2021/4/29/22409727/facebook-independent-journalism-platform-5-million-deals-applications-open'> Source <a/>
