@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/miYra09Y2DLTBfDo_-T5vt67F0Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69200282/VRG_ILLO_4030_Windows_10_Guide_001.0.jpg' width='700px' /><br/>
-If you're a Windows user and you use multiple monitors, you've probably experienced the headache of apps randomly rearranging when you resume from sleep. There have been a variety of ways to work around this over the years, but Microsoft is finally addressing it and fixing it in a future Windows 10 update.
-<a href='https://www.theverge.com/2021/4/28/22407995/microsoft-windows-apps-rearranging-sleep-resume-fix-directx-12'> Source <a/>

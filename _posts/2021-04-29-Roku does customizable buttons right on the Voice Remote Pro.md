@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2--NR8kHz5pqX0pYiHw0Vp8aLEM=/0x0:2040x1360/1200x800/filters:focal(936x416:1262x742)/cdn.vox-cdn.com/uploads/chorus_image/image/69204226/cwelch_20210428_4565_0004.0.jpg' width='700px' /><br/>
+Roku has a strange relationship with remotes: it's one of the worst offenders when it comes to branded buttons, with a seemingly ever-rotating list of streaming services — Netflix, Sling, even Rdio at one point — that have come and gone over time. One of its remotes even bears a mysterious glyph that's never been used for anything.
+<a href='https://www.theverge.com/22398024/roku-voice-remote-pro-programmable-buttons-best'> Source <a/>

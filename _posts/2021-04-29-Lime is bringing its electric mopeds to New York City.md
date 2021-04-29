@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kgdenY5adT5szcRKIKiKJlNh6b0=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/69204499/Moped_DC__2_.0.jpg' width='700px' /><br/>
+Lime's bright green electric mopeds are coming to New York City. The company that's better known for its electric kick scooters will initially roll out 100 mopeds in Queens, Brooklyn, and Lower Manhattan.
+<a href='https://www.theverge.com/2021/4/29/22409409/lime-electric-moped-nyc-price-announce'> Source <a/>

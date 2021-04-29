@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CzuU3Oj6Vsk-zLKXzc6Ey6oDHt8=/0x0:3708x2649/1200x800/filters:focal(1558x1029:2150x1621)/cdn.vox-cdn.com/uploads/chorus_image/image/69199763/2019_03_normal.0.jpg' width='700px' /><br/>
-The United Auto Workers union is “laying the groundwork” to organize factory workers that will build electric vehicles for startups like Rivian and Lucid Motors, president Rory Gamble told CNBC.
-<a href='https://www.theverge.com/2021/4/28/22406064/uaw-union-rivian-lucid-motors-faraday-future-lordstown-labor'> Source <a/>

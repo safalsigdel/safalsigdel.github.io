@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v0SP_LKUMBxZZE6RZhM93-usKXQ=/0x0:1875x1250/1200x800/filters:focal(667x226:967x526)/cdn.vox-cdn.com/uploads/chorus_image/image/69204589/117798103_10158141375989748_7899803978219609921_n.0.jpg' width='700px' /><br/>
+Comcast said that The Office and WWE were to thank for its new-ish streaming service, Peacock, adding 9 million signups during the first three months of 2021. Peacock now has 42 million members total in the United States. That looks strong compared to HBO's 44.2 million US customers, but it comes with a huge caveat: Peacock has a free tier, and Comcast doesn't say how many customers are paying.
+<a href='https://www.theverge.com/2021/4/29/22409431/peacock-subscriber-increase-office-wwe-network-q1-2021'> Source <a/>

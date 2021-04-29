@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n5ieknM6dteCFgj8_ZPXQJjIAHU=/0x0:1813x1197/1200x800/filters:focal(762x454:1052x744)/cdn.vox-cdn.com/uploads/chorus_image/image/69204347/haloinfinite.0.jpg' width='700px' /><br/>
+Microsoft is announcing today that Halo Infinite will support crossplay and cross-progression when it launches later this year. This will allow PC and Xbox players to match together and play the Halo Infinite campaign, and the support also extends to multiplayer. Any multiplayer customization and progress will sync across both PC and Xbox.
+<a href='https://www.theverge.com/2021/4/29/22409334/halo-infinite-crossplay-cross-progression-xbox-pc'> Source <a/>

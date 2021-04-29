@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QTu1Q9ewGujIJOsRZkHgsY7CHX8=/0x0:2855x1568/1200x800/filters:focal(271x532:727x988)/cdn.vox-cdn.com/uploads/chorus_image/image/69200488/Screen_Shot_2021_04_28_at_11.01.22_AM.0.png' width='700px' /><br/>
-Google Assistant is getting a better way to correct its name pronunciation, as well as improved contextual awareness when it comes to setting and changing timers with your voice. In the blog post announcing the changes, Google says they should be rolling out in the next few days.
-<a href='https://www.theverge.com/2021/4/28/22407952/google-assistant-name-pronounciation-improved-timers-clock'> Source <a/>
