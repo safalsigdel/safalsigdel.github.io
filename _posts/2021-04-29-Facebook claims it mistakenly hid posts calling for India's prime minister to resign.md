@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5kcuR5rfwTJ0JIHTcWjp8Xgwx18=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69201909/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
+When Facebook users tried to view a hashtag calling for the resignation of Indian prime minister Narendra Modi on Wednesday, they instead saw a message saying that Facebook was temporarily hiding the posts in order to keep the community safe. Buzzfeed News reports that the posts were hidden for about three hours.
+<a href='https://www.theverge.com/2021/4/28/22408334/facebook-hides-modi-resign-posts-restore-investigation'> Source <a/>

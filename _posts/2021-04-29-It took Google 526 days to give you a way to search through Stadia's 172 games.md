@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4g6ib0pklrSaH2pbaidMJpV0UN4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69200113/akrales_191113_3779_0319.0.jpg' width='700px' /><br/>
+Stadia is an online game streaming service from Google, a company that is practically synonymous with search engines and the general concept of searching things online. Over the past two decades, the idea of “googling something” has become a standard part of language, so dominant has Google's search engine become in popular culture.
+<a href='https://www.theverge.com/2021/4/28/22407927/google-stadia-store-search-bar-roll-out-526-days'> Source <a/>

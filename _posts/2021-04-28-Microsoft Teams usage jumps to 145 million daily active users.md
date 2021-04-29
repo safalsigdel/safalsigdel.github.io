@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cZ5H5qlYlxneRHDEAWwlniEvuWU=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/69195379/microsoftteams.0.jpg' width='700px' /><br/>
-Microsoft now has 145 million people using its Microsoft Teams communications app. This is another increase of 26 percent since Microsoft revealed Teams usage had jumped during the pandemic to 115 million daily active users in October 2020. Usage of Teams has spiked over the past year, with businesses continuing to flock to services like Teams, Slack, and Zoom.
-<a href='https://www.theverge.com/2021/4/27/22406472/microsoft-teams-145-million-daily-active-users-stats'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zd9UAC8cRZ9_1gktYfAD1L29-Xg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69201297/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
+HBO Max's upcoming ad-support tier will cost $9.99 per month, or $5 less than the standard $14.99 per month that the regular version of HBO Max costs, according to a new report from CNBC.
+<a href='https://www.theverge.com/2021/4/28/22408313/hbo-max-cheaper-ad-supported-tier-10-dollars-price-cut-june'> Source <a/>

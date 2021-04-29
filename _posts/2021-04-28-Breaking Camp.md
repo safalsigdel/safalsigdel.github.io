@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rndxJnHFj0G5D64dOfFF1Letaso=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69196236/acastro_210427_4564_basecamp_0001.0.jpg' width='700px' /><br/>
-The controversy that embroiled enterprise software maker Basecamp this week began more than a decade ago, with a simple list of customers.
-<a href='https://www.theverge.com/2021/4/27/22406673/basecamp-political-speech-policy-controversy'> Source <a/>

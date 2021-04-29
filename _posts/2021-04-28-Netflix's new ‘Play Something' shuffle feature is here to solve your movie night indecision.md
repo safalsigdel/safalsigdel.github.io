@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/usf8o1DP2iNoyRnExGWvrgCDcr4=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69198545/US_NETFLIX_TV_Comp_00003.0.png' width='700px' /><br/>
-Netflix is officially rolling out its new “Play Something” feature today to all its users, adding a button across the streaming service's UI to automatically suggest new shows and movies that you've never watched before.
-<a href='https://www.theverge.com/2021/4/28/22407467/netflix-play-something-shuffle-feature-launch-tv-movie'> Source <a/>
