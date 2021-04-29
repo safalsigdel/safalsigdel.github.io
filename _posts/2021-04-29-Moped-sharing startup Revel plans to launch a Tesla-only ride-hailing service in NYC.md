@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eMjv7H4AbPqlMpiK3a9sUJQGm90=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69198946/revel_pressimage.0.jpg' width='700px' /><br/>
-Electric moped-sharing startup Revel is adding a new vehicle to its fleet — this time with four wheels instead of two. The Brooklyn-based company is launching its own Uber-esque ride-hailing service in New York City using only electric vehicles from Tesla. And true to its Uber-imitating ways, the company is announcing its intention to launch the service before obtaining its license to legally to operate in the city.
-<a href='https://www.theverge.com/2021/4/28/22405539/revel-ride-share-nyc-tesla-model-y-moped-uber'> Source <a/>
