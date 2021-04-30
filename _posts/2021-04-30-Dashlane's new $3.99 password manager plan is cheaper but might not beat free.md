@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dS_FkHFH2RRgjWm5i6vnDoa82Bc=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/69207637/Password_Changer.0.png' width='700px' /><br/>
-Dashlane has introduced a new $3.99 per month ($2.99 per month when charged yearly) Essentials plan for its password manager that offers some of the most popular features from its $6.49 per month Premium plan at a more affordable price. But the lower price comes with a catch — you might not be able to access your passwords on as many devices as you'd like.
-<a href='https://www.theverge.com/2021/4/29/22409780/dashlane-essentials-plan-less-expensive-unlimited-passwords'> Source <a/>
