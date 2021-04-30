@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AhJ5_KPtxFYwrqwU-8QRZt1BMsg=/0x0:658x493/1200x800/filters:focal(277x195:381x299)/cdn.vox-cdn.com/uploads/chorus_image/image/69207150/349763_83097_4430b431ff_p.0.jpeg' width='700px' /><br/>
-Another internet meme has sold for big bucks online: Zoxc3xab Roth, best known as “Disaster Girl” for the popular image macro taken by her father in 2005 of her smirking at the camera while a house burns down in the background, has sold the original copy of the meme as an NFT for 180 Ether, worth almost $500,000.
-<a href='https://www.theverge.com/2021/4/29/22410070/disaster-girl-popular-meme-nft-500000-dollars'> Source <a/>
