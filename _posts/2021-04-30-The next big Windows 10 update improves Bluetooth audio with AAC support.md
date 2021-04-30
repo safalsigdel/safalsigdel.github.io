@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ss7CLlYgvy93Dq9DJ7YbGQhizp4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69206651/wjoel_200601_1777_windows10_0001.0.jpg' width='700px' /><br/>
-Microsoft's next big Windows 10 update for later this year will include some important audio improvements. The OS will finally get support for Advanced Audio Coding (AAC) over Bluetooth, which will give Windows users even more choice for Bluetooth headphones and speakers. Windows Insiders can test the changes right now.
-<a href='https://www.theverge.com/2021/4/29/22410088/microsoft-windows-10-bluetooth-aac-support-update'> Source <a/>
