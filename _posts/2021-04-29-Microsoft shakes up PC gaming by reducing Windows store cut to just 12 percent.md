@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_qUe3lENHfGEDZNQsPzqmvQElRU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69204327/acastro_180507_1777_microsoft_0003.0.jpg' width='700px' /><br/>
-Microsoft is shaking up the world of PC gaming today with a big cut to the amount of revenue it takes from games on Windows. The software giant is reducing its cut from 30 percent to just 12 percent from August 1st, in a clear bid to compete with Steam and entice developers and studios to bring more PC games to its Microsoft Store.
-<a href='https://www.theverge.com/2021/4/29/22409285/microsoft-store-cut-windows-pc-games-12-percent'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qP_tMJSwUMRTOJvTbzrm8FjR9gQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69208090/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
+Amazon had a wildly successful 2020, despite the COVID-19 pandemic, and that blazing trail shows no signs of stopping for 2021. The company shared its financial results for Q1 2021, and it brought in $108.5 billion in net sales. That's a 44 percent increase from the $75.5 billion reported in the first quarter of last year, as the pandemic was beginning to take hold globally.
+<a href='https://www.theverge.com/2021/4/29/22404044/amazon-earnings-q1-2021-performance-profit-operating-income'> Source <a/>

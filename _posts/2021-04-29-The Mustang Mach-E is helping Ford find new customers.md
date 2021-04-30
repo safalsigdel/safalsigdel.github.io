@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/km2B1xJZOW9iX_paaRegvQMjbjs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69204673/sokane_210125_4386_0012.0.jpg' width='700px' /><br/>
-Ford has sold more than 7,000 Mustang Mach-E SUVs so far, and it says 70 percent of those buyers have never owned one of the company's cars.
-<a href='https://www.theverge.com/2021/4/29/22408369/ford-mustang-mach-e-new-customers'> Source <a/>

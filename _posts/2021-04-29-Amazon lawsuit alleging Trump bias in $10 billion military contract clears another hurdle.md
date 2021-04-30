@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w4qBDNIMoXm1CG_c9Zjcg1TRiPI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69203697/acastro_180329_1777_amazon_0004.0.jpg' width='700px' /><br/>
-An ongoing lawsuit pursued by Amazon against the US government and Microsoft will continue after a federal judge rejected a motion to dismiss the case. The suit concerns Microsoft's success in securing the $10 billion JEDI cloud computing contract with the Defense Department — a decision that Amazon says was influenced by President Donald Trump's dislike of the company and its CEO Jeff Bezos.
-<a href='https://www.theverge.com/2021/4/29/22409245/amazon-microsoft-jedi-contract-reject-motion-dismiss-trump-influence'> Source <a/>

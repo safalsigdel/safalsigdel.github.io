@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xQhrzM6P7QNW-S2NJbFGjmD85ys=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69202233/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T says it will now offer a prepaid 5G data-only plan with up to 100GB of data for $55 per month — a big upgrade from its previous offering of 40GB for $75. The new pricing extends to Cricket Wireless customers as well as AT&T's direct prepaid subscribers, though those on Cricket won't be able to access the 5G network. These plans allow customers to buy data for their tablet or mobile hotspot separate from their voice plan.
-<a href='https://www.theverge.com/2021/4/28/22408326/att-mobile-internet-hotspot-prepaid-plan-5g'> Source <a/>

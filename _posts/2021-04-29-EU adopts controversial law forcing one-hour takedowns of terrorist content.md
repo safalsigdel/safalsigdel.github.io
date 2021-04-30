@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0-ndwU3eI7RFxyhMWESbWwNIVg8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69203962/acastro_1800724_1777_EU_0001.0.jpg' width='700px' /><br/>
-The European Parliament has formally adopted a law requiring internet companies to “remove or disable access to flagged terrorist content” within one hour after being notified by national authorities. Once issued, such takedown notices will apply across the EU, with countries able to levy financial penalties against firms that refuse to comply.
-<a href='https://www.theverge.com/2021/4/29/22409306/eu-law-one-hour-terrorist-content-takedowns-passes-parliament'> Source <a/>

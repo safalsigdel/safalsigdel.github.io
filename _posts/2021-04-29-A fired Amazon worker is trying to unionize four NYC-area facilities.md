@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pppbJUdYRSHktD9OYVbpHUE-CXk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69201197/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
-Amazon workers at four different facilities near Staten Island have begun the process of unionizing with the Amazon Labor Union. The organizing effort is being led by Christian Smalls, a former warehouse worker who was fired in March after organizing a walkout to protest unsafe working conditions during the pandemic, according to Protocol.
-<a href='https://www.theverge.com/2021/4/28/22408128/amazon-warehouses-unionizing-staten-island-jfk8-christian-smalls'> Source <a/>

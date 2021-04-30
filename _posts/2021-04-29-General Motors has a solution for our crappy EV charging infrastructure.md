@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PiW009i5bbJ4OMU9oPqUrC2d_eA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69200758/akrales_170405_1582_0603.0.0.jpg' width='700px' /><br/>
-General Motors announced a “holistic charging approach” to electric vehicle charging that it's calling the Ultium Charge 360.
-<a href='https://www.theverge.com/2021/4/28/22407789/gm-ev-charging-general-motors-ultium-charge-360'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Eh6_0mwpok9UnC93dbI8FDrob_o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69207328/vpavic_042018_3979_0072.0.jpg' width='700px' /><br/>
+Apple's upcoming 2021 refresh of the 12.9-inch iPad Pro — which will feature an M1 processor and a new Mini LED display — will work with the 2020 model of the 12.9-inch Magic Keyboard case after all. But it's not going to be a perfect fit.
+<a href='https://www.theverge.com/2021/4/29/22410350/apple-ipad-pro-mini-led-magic-keyboard-case-2020-model-fit-accessory-screen-protector'> Source <a/>

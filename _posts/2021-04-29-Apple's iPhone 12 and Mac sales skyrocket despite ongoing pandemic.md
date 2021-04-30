@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_jdFwFtDDftJRaztpl80I1Jr44E=/0x0:2040x1360/1200x800/filters:focal(883x614:1209x940)/cdn.vox-cdn.com/uploads/chorus_image/image/69201445/akrales_201018_4238_0194.0.0.jpg' width='700px' /><br/>
-Apple's iPhone 12 lineup maintained enormously strong demand from consumers from January through March, according to the company's fiscal Q2 earnings posted today. Apple reported record March quarter revenue of $89.6 billion, up 54 percent year over year. The iPhone took in just under $48 billion, jumping up by 66 percent from a year ago.
-<a href='https://www.theverge.com/2021/4/28/22407894/apple-q2-2021-earnings-iphone-ipad-mac'> Source <a/>

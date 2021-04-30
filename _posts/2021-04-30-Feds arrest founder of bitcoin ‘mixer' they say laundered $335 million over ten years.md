@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tuvHYhiifYW_HkoJNFQxtPxy_vY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69207667/acastro_bitcoin_2.0.jpg' width='700px' /><br/>
+The Department of Justice said it has arrested a Russian-Swedish national who allegedly operated a long-running cryptocurrency laundering site. According to a news release from the DOJ, Roman Sterlingov ran Bitcoin Fog, a cryptocurrency tumbler or “mixer”— which hides a cryptocurrency's source by mixing it with other funds.
+<a href='https://www.theverge.com/2021/4/29/22409501/feds-arrest-founder-bitcoin-mixer-laundered-cryptocurrency'> Source <a/>

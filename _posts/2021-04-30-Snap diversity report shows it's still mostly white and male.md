@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kA8Xqg8fKrsADyN7-7ZETpHL2HM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69206705/snapChatPattern_BW.0.jpg' width='700px' /><br/>
+Snap's diversity report reveals that the company has made slow progress toward overall racial and gender diversity, with 47 percent of its employees being white and 65 percent male. However, there are some areas of significant progress; Snap says it increased the number of women on its board of directors to 50 percent from 37.5 percent.
+<a href='https://www.theverge.com/2021/4/29/22409753/snap-diversity-report-numbers-inclusive-camera'> Source <a/>

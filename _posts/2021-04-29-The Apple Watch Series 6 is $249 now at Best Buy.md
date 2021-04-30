@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-Best Buy and Amazon are is offering the 40mm Apple Watch Series 6 (GPS) for $249, smashing yesterday's discounted price of $299. This model normally sold for $399, and today's price drop makes it more affordable than — and superior to — the Apple Watch SE that costs $279. The one downside to this promo is that it only loops in the Product Red model that's all red, which might not go with your look.
-<a href='https://www.theverge.com/good-deals/2021/4/29/22408277/apple-watch-6-best-buy-samsung-galaxy-buds-google-wifi-gaming-headset-deal'> Source <a/>

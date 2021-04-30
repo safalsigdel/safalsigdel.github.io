@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m3IY_3dt4EiLSk-DEu-_Z87zTUE=/0x0:2040x1360/1200x675/filters:focal(801x585:1127x911)/cdn.vox-cdn.com/uploads/chorus_image/image/69204114/ajohnson_20210412_4525_0002.0.jpg' width='700px' /><br/>
-The Moto G Play is the least expensive of four phones that Motorola introduced for the US market earlier this year. Introduced at $169, it's already enjoying an apparently permanent $10 mark down, placing it firmly in budget territory.
-<a href='https://www.theverge.com/22408041/motorola-moto-g-play-2021-review-price-screen-specs'> Source <a/>

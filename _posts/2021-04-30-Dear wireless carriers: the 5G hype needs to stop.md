@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sYx5e3xebhr9aOrlx-6s--A1cGU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69206321/VRG_ILLO_4037_5G_001.0.jpg' width='700px' /><br/>
+Just stop. Stop telling us why your 5G network is the very best and fastest and most reliable. Stop running commercials about how life-changing your 5G network is. Definitely stop telling us why your 5G network is better than the other guy's 5G network because can you even imagine building a 5G network the way they have? Please stop with all of this, it's been a very long year and we're tired.
+<a href='https://www.theverge.com/2021/4/29/22409675/verizon-att-tmobile-5g-mmwave-c-band'> Source <a/>
