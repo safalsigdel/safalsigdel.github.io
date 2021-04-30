@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8aZkPPnnVh5mrjFDP7y7IqAYVO0=/0x0:3739x2511/1200x800/filters:focal(1833x333:2431x931)/cdn.vox-cdn.com/uploads/chorus_image/image/69212944/1314373970.0.jpg' width='700px' /><br/>
+English soccer teams and organizations are all shutting down their Facebook, Twitter, and Instagram accounts for the weekend as part of a massive social media blackout to advocate for better policies regarding discrimination and abuse that players and members of clubs receive on those platforms.
+<a href='https://www.theverge.com/2021/4/30/22412060/english-soccer-teams-boycott-four-day-social-media-protest-online-abuse'> Source <a/>
