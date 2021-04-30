@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WBfNvA_f4t-hiQ_xtR95hyzFhBg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69212796/acastro_180608_1777_net_neutrality_0001.0.jpg' width='700px' /><br/>
+Trade groups representing some of the largest telecom companies, including AT&T and Verizon, are suing New York over a new state law forcing them to provide cheaper broadband plans for low-income families in the state, as first reported by Axios.
+<a href='https://www.theverge.com/2021/4/30/22412177/telecom-law-att-verizon-broadband-internet-new-york-state-low-income-plans'> Source <a/>
