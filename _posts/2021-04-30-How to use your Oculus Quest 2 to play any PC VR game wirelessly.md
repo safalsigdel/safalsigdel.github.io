@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TONbuTdWLvR9CthdV-qJPBuc-jU=/0x0:1440x960/1200x800/filters:focal(605x365:835x595)/cdn.vox-cdn.com/uploads/chorus_image/image/68643026/hero.0.jpg' width='700px' /><br/>
+One of the best features of the Oculus Quest and Quest 2 is that they can be manually linked via USB to your gaming PC so you can play more demanding VR games that couldn't otherwise be run natively on the headsets. That's great if you want a way to play games like Half-Life: Alyx, but the obvious downside is that you're now physically tethered to a PC — so much for the wireless freedom that the Quest platform advertises.
+<a href='https://www.theverge.com/22218827/oculus-quest-2-wireless-pc-vr-games-how-to'> Source <a/>
