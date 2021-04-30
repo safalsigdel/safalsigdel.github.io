@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WinnyFIztJ9t5xF0B4jYyLBj2UM=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/69211883/lcimg_06ebca85_7eac_4c32_9e8f_4b98fad99ec8.0.jpeg' width='700px' /><br/>
+Following the official reveal last week of the new model refreshes for the iMac and iPad Pros, all of which are powered by Apple's own silicon — the M1 chip — preorders began for all three products today.
+<a href='https://www.theverge.com/good-deals/2021/4/30/22411755/apple-imac-ipad-pro-m1-preorder-discount-amazon-echo-show-5-deal'> Source <a/>

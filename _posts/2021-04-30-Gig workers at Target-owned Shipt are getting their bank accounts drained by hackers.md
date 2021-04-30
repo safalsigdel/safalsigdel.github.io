@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O44R0KuqnT_NHRgH2GOpa4OzBG4=/0x0:4000x2644/1200x800/filters:focal(1680x1002:2320x1642)/cdn.vox-cdn.com/uploads/chorus_image/image/69206748/1231463491.0.jpg' width='700px' /><br/>
-Scammers are hacking into the accounts of Target gig workers and draining their bank accounts, Motherboard reports. Since March 28th, more than 30 employees who work for Shipt, Target's delivery app, have posted on Facebook about being attacked. The company employs about 300,000 contract shoppers in the United States.
-<a href='https://www.theverge.com/2021/4/29/22409937/scammers-hack-target-gig-workers-drain-bank-accounts'> Source <a/>
