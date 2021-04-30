@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IQxr7480-fsrYsKrDfmgAiY-jLw=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69206015/shollister_200224_4441_0008.0.jpg' width='700px' /><br/>
-Nvidia is trying again to limit the use of its RTX 3060 graphics cards for mining Ethereum, with a new update once again adding a hash limiter to the GPU, via VideoCardz.com.
-<a href='https://www.theverge.com/2021/4/29/22409838/nvidia-rtx-3060-etherium-cryptocurrency-mining-limit-back-driver-update'> Source <a/>
