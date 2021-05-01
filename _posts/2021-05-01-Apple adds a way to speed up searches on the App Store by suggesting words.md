@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uYnzN3Pqed929BQuK5-GxzrWwSw=/0x0:1394x575/1200x800/filters:focal(586x264:808x486)/cdn.vox-cdn.com/uploads/chorus_image/image/69208990/Image_21.0.jpg' width='700px' /><br/>
-Apple has added a new App Store search suggestions feature in the US, Canada, Australia, and the UK, that might make it easier to find apps. Now, after typing in a search term, the App Store will attempt to predict what you're looking for and offer suggested words that, when tapped, will further narrow down your search results and speed up your hunt for specific kinds of apps.
-<a href='https://www.theverge.com/2021/4/29/22410708/apple-app-store-search-suggestions'> Source <a/>
