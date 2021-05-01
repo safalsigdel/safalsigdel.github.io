@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/85L1kG2r2E3EOgDkMhkuTuGwzZQ=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/69213954/instacart_shopper_produce.0.jpg' width='700px' /><br/>
+Some Instacart shoppers claim that the company has wrongfully terminated their accounts in response to fraudulent activity, locking them out of future earnings until they get reactivated, CNN Business reports.
+<a href='https://www.theverge.com/2021/4/30/22412189/instacart-shoppers-deactivated-accounts-phishing-scams'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r04BjacS6ufs-LVU0E2BmjwZvtY=/0x0:2000x1444/1200x800/filters:focal(840x562:1160x882)/cdn.vox-cdn.com/uploads/chorus_image/image/69208249/A9_08594_small.0.jpeg' width='700px' /><br/>
-Stratolaunch, the aerospace firm founded by the late Microsoft co-founder Paul Allen, flew its behemoth carrier airplane named ‘Roc' on Thursday for a second time. It was the company's first flight under new ownership, coming two years after the twin-fuselage craft's initial flight test.
-<a href='https://www.theverge.com/2021/4/29/22410519/stratolaunch-test-world-widest-plane-second-flight-roc'> Source <a/>

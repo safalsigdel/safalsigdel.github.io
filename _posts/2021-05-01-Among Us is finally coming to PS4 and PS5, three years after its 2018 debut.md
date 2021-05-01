@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zU2ypgVLF0qHVfDEqSLXeK7ajdc=/0x0:810x483/1200x800/filters:focal(556x198:684x326)/cdn.vox-cdn.com/uploads/chorus_image/image/69208524/Screen_Shot_2021_04_29_at_3.44.33_PM.0.png' width='700px' /><br/>
-The hit social deduction game Among Us is coming to PlayStation 4 and PlayStation 5 sometime this year, Sony announced during its State of Play presentation on Thursday.
-<a href='https://www.theverge.com/2021/4/29/22410775/among-us-playstation-4-5-ps4-ps5-ratchet-clank'> Source <a/>

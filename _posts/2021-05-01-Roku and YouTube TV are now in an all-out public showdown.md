@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0z59HIeD1U5yW8rZKUMuYsgzH5E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69214295/acastro_180806_1777_youtube_cancel_0001.0.jpg' width='700px' /><br/>
+On Friday morning, Roku pulled YouTube TV from its channel store. Its removal came after Roku's distribution agreement for the app expired and negotiations between it and Google fell apart without any new deal in sight.
+<a href='https://www.theverge.com/22412430/roku-youtube-tv-google-feud-explainer-timeline'> Source <a/>

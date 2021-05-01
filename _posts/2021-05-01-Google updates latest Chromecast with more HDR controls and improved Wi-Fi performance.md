@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wKP6ymX8z1rC7C__t-xE5O5NZBs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69207920/DSCF2108.0.jpg' width='700px' /><br/>
-Google is rolling out a new April update for the Chromecast with Google TV that launched last year. It's a fairly large update for a streaming device — totaling 166MB on my Chromecast — but includes numerous improvements.
-<a href='https://www.theverge.com/2021/4/29/22410534/google-chromecast-april-2021-update-hdr-wifi'> Source <a/>
