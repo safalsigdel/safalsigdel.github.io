@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Google is redesigning its offices for the post-pandemic world, and The New York Times has a big report full of pictures and videos outlining the company's plans. But if I had to sum up the tech giant's approach in two words I would choose “over” and “engineered.” Google has ambitious plans to shake up its offices, but some of them seem needlessly complicated.
-<a href='https://www.theverge.com/tldr/2021/4/30/22411593/google-post-pandemic-office-plans-inflatable-robot-walls'> Source <a/>
