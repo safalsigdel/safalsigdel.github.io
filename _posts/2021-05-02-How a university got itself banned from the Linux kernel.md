@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W6JCtZMoUwVfR3RMBDMwb_ImRig=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69212103/VRG_ILLO_4566_001.0.jpg' width='700px' /><br/>
-On the evening of April 6th, a student emailed a patch to a list of developers. Fifteen days later, the University of Minnesota was banned from contributing to the Linux kernel.
-<a href='https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source'> Source <a/>

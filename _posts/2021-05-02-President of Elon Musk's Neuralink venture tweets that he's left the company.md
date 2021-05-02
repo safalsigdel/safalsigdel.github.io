@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aV20t-JdDq354g5TcAO9EyNNcJc=/0x0:3888x2592/1200x800/filters:focal(1633x985:2255x1607)/cdn.vox-cdn.com/uploads/chorus_image/image/69222461/1232210861.0.jpg' width='700px' /><br/>
+Neuralink President Max Hodak tweeted Saturday that he has left the company he co-founded with Tesla and SpaceX CEO Elon Musk xxx. Hodak didn't elaborate on why he left the company or elaborate on the circumstance for his departure. “I am no longer at Neuralink (as of a few weeks ago),” he tweeted. “I learned a ton there and remain a huge cheerleader for the company! Onward to new things.”
+<a href='https://www.theverge.com/2021/5/2/22415828/president-elon-musk-neuralink-hodak-brain-implants'> Source <a/>
