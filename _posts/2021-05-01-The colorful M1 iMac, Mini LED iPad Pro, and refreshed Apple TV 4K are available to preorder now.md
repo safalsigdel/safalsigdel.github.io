@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mel66lmm6Bd0k1uF8TdSmElwNEk=/0x0:2144x1206/1200x800/filters:focal(901x432:1243x774)/cdn.vox-cdn.com/uploads/chorus_image/image/69211244/apple_new_imac_spring21_hero_04202021_Full_Bleed_Image.jpg.medium_2x.0.jpg' width='700px' /><br/>
-Apple's colorful new M1-powered iMacs, refreshed iPad Pros, and updated Apple TV 4K (with a not-terrible-looking remote) are now all available to preorder today from Apple's website.
-<a href='https://www.theverge.com/2021/4/30/22409463/apple-m1-imac-ipad-pro-apple-tv-4k-preorders-price-release-date'> Source <a/>

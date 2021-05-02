@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4F9cbtbOzMRa4_XVbj0nF5iir_E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69219620/acastro_210429_1777_epicApple_0002.0.jpg' width='700px' /><br/>
+An expert witness for Epic Games testified that Apple's App Store had operating margins above 70 percent in fiscal years 2018 and 2019, new court documents show.  Ned Barnes testified that information from Apple's Corporate Financial Planning and Analysis group show the App Store had a 77.8 percent operating margin in 2019, and 74.9 percent in 2018.
+<a href='https://www.theverge.com/2021/5/1/22414402/epic-expert-apple-app-store-fortnite-court-profit'> Source <a/>
