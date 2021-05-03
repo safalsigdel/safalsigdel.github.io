@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9Qy60eeSrF0VPcr8aTj35x3hI7k=/0x0:1290x726/1200x800/filters:focal(542x260:748x466)/cdn.vox-cdn.com/uploads/chorus_image/image/69215420/_joK6MdQ.5.png' width='700px' /><br/>
-Facebook's Oculus division has snatched up yet another popular virtual reality game developer. On Friday, the company announced it has acquired Downpour Interactive, the studio behind the hit multiplayer military simulator Onward.
-<a href='https://www.theverge.com/2021/4/30/22412882/facebook-oculus-studios-onward-developer-downpour-interactive-acqusition'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o_15-gd8ejH_ZHZFpZCBg9BUAZk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69217944/BFARSACE_042221_4548_01.0.jpg' width='700px' /><br/>
-The new Sony 24mm f/2.8, 40mm f/2.5, and 50mm f/2.5 are three new compact prime lenses that each cost $599.99 and will be shipping in mid-May. While they uphold the reputation of quality Sony has established with the G lineup, it's their uniformity and small size that come as a welcomed surprise.
-<a href='https://www.theverge.com/22407694/sony-g-master-24-40-50-prime-lens-review'> Source <a/>

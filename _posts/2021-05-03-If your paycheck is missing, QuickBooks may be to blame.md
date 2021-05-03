@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dATRKBZI7UjcCtl7h3WJMmRFxu4=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/69213747/4603130687_d0a0862bc4_b.0.jpeg' width='700px' /><br/>
-Due to an issue with QuickBooks processing direct deposits, some people had a very unpleasant morning, waking up to see either that their paycheck hadn't arrived, or that they had a ton of employees asking why they hadn't been paid. If you're one of those people, it may not be time to panic just yet — QuickBooks says that the issue has been resolved and that the money should be arriving in accounts by the end of today.
-<a href='https://www.theverge.com/2021/4/30/22412349/quickbooks-issue-missed-direct-deposit-paychecks'> Source <a/>

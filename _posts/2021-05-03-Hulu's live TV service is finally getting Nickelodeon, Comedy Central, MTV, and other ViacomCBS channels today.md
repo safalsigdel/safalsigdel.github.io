@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ukRNUMUKMFK_cC01VyWE3ECR1Us=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69213192/acastro_200320_1777_huluStock_0003.0.0.jpg' width='700px' /><br/>
-Hulu's live TV service is finally getting nine new ViacomCBS channels — Comedy Central, BET, Nickelodeon, Nick Jr., VH1, CMT, MTV, TV Land, and Paramount Network — as part of its regular $64.99 per month cost.
-<a href='https://www.theverge.com/2021/4/30/22412295/hulu-live-tv-service-nickelodeon-comedy-central-mtv-viacomcbs-channels'> Source <a/>

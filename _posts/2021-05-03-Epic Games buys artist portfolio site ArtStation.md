@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p4QKtSKrKt7WTCfpnrO77LZ8ZAA=/0x0:1200x640/1200x800/filters:focal(504x224:696x416)/cdn.vox-cdn.com/uploads/chorus_image/image/69227044/ArtStation_announcement_banner_1280x640_1_1200x640.0.png' width='700px' /><br/>
+As it prepares to do battle in court with Apple over App Store fees, Epic Games has acquired ArtStation, an online marketplace for digital artists, the companies announced. Terms of the deal weren't disclosed.
+<a href='https://www.theverge.com/2021/5/3/22417003/epic-games-artstation-creators-artist-portfolio-purchase'> Source <a/>
