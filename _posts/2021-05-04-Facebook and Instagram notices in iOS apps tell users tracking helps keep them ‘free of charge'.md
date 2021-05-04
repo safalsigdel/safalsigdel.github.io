@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3D1V3CrXjNVw_0lcRLFVgvN3rpY=/0x0:890x816/1200x800/filters:focal(374x337:516x479)/cdn.vox-cdn.com/uploads/chorus_image/image/69222710/SpeakingUp_SmBiz_1.5.png' width='700px' /><br/>
-Facebook is continuing its campaign against Apple's iOS 14 privacy updates, adding a notice within its iOS app telling users the information it collects from other apps and websites can “help keep Facebook free of charge.” A similar message was seen on Instagram's iOS app (Facebook is Instagram's parent company).
-<a href='https://www.theverge.com/2021/5/2/22415824/facebook-instagram-notice-ios-apps-free-privacy-tracking'> Source <a/>
