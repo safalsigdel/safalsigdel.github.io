@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BBsOTzphteskqeTVWxkgCxnG640=/0x0:6658x3746/1200x800/filters:focal(2797x1341:3861x2405)/cdn.vox-cdn.com/uploads/chorus_image/image/69223011/AirTags_31.0.jpg' width='700px' /><br/>
-The team over at iFixit has done its teardown thing again, this time examining Apple's AirTag trackers. Part one of its two-part review digs into the guts of the little trackers, and for those lamenting the lack of a key ring loop on the AirTag, iFixit (carefully) drilled a hole into one without damaging any of its parts.
-<a href='https://www.theverge.com/2021/5/2/22415831/ifixit-drilled-key-ring-hole-apple-airtag-tile-teardown'> Source <a/>
