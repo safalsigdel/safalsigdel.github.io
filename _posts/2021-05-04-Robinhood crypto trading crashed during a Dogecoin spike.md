@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_7PZ3R7EQtfRcjzcFWn2VNuysOU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69235048/acastro_210201_1777_robinhood_0003.0.jpg' width='700px' /><br/>
+Robinhood ran into issues processing cryptocurrency trades this morning, during a spike in the price of Dogecoin that sent users flocking to the app. The website DownDetector shows the outage starting around 9:30AM ET and reducing in severity about an hour later. Robinhood confirmed that it experienced a “partial outage” in crypto trading and said the issues had been resolved as of 11:15AM ET.
+<a href='https://www.theverge.com/2021/5/4/22419159/robinhood-dogecoin-outage-crypto-trading-crash'> Source <a/>
