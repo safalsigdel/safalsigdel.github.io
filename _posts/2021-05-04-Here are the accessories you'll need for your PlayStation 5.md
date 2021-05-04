@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T0nzjkg_3UdRecbQV0KI1tAVFFI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67755677/vpavic_4278_20201030_0345.0.jpg' width='700px' /><br/>
-Sony's PlayStation 5 is still incredibly difficult to find. Whether you got lucky with a launch unit, or are still trying to snag one for yourself, picking up additional accessories to ensure you get the most out of your brand new console (whenever you get one) isn't a bad idea.
-<a href='https://www.theverge.com/21550907/ps5-wireless-controller-ssd-hard-drive-accessories-sony'> Source <a/>

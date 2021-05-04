@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mytQJtqJ4AE4WnFLCFXw5JTItdc=/0x0:2880x1665/1200x800/filters:focal(1210x603:1670x1063)/cdn.vox-cdn.com/uploads/chorus_image/image/69227889/Screen_Shot_2021_05_03_at_11.00.46_AM.0.png' width='700px' /><br/>
-The US Army's Lancer Brigade showed footage of the world as seen through the latest in night vision technology, and it's a major improvement on the familiar blurry green visuals. By swapping the standard green tubes for white (along with other tweaks), the new Enhanced Night Vision Goggle-Binoculars (ENVG-B) clearly show people and objects outlined in a glowing light, almost like a video game objective.
-<a href='https://www.theverge.com/2021/5/3/22417206/army-night-vision-tech-enhanced'> Source <a/>

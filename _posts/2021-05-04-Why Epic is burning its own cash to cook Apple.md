@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IxSjvMESkVEHAsaY9KbWnBmYS8E=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69227411/acastro_210429_1777_epic_0001.0.jpg' width='700px' /><br/>
-Epic Games didn't sue Apple to get a big payout, but that's because the lawsuit itself is an investment. And to rewrite Apple's rules, Epic is spending a fortune.
-<a href='https://www.theverge.com/2021/5/3/22412899/epic-apple-trial-rules-investment-app-payment'> Source <a/>

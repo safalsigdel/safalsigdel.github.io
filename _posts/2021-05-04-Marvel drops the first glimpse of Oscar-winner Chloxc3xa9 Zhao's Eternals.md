@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D30KKhe6lH-k49eH0LWuzvYng7w=/0x0:2358x1014/1200x0/filters:focal(0x0:2358x1014):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22488020/Screen_Shot_2021_05_03_at_9.41.21_AM.png' width='700px' /><br/>
-Marvel has just revealed a first look at one of its most exciting upcoming projects: Eternals, the studio's next big superhero team-up that's set to arrive in theaters on November 5th. It's the next big project from Oscar-winning director Chloxc3xa9 Zhao, following her Best Picture and Best Director wins for Nomadland earlier this year.
-<a href='https://www.theverge.com/2021/5/3/22417115/marvel-eternals-chloe-zhao-oscar-winner-teaser-footage-black-panther-captain-marvel-sequels'> Source <a/>

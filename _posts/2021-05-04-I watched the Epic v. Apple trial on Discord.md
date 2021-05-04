@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J8it6AfDWvl5vcJeYAEsYjacwDo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69234876/acastro_210429_1777_epic_0001.0.jpg' width='700px' /><br/>
+The Epic Games v. Apple trial started on Monday, and if you wanted to follow along and listen to Epic CEO Tim Sweeney talk about the “metaverse,” your options were limited. In theory, there's public access to the trial, like most court proceedings, but since the courthouse is still closed for lockdown, the only access was through the court's teleconference line that was briefly overrun by screaming teens.
+<a href='https://www.theverge.com/2021/5/4/22419134/apple-epic-games-fortnite-trial-youtube-discord-streamers'> Source <a/>

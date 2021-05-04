@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cZob3dELovL8dD9QAReXTYFl2yA=/0x0:2000x1267/1200x800/filters:focal(840x474:1160x794)/cdn.vox-cdn.com/uploads/chorus_image/image/69226544/Kroger_Delivery_x_Drone_Express_04.0.jpg' width='700px' /><br/>
-Kroger is joining rival Walmart by launching a drone delivery pilot program for groceries later this spring. The supermarket chain is partnering with Drone Express to deliver items like baby products, over-the-counter medications, and picnic supplies weighing up to about five pounds from a test store in Centerville, Ohio.
-<a href='https://www.theverge.com/2021/5/3/22416957/kroger-drone-express-groceries-ohio'> Source <a/>

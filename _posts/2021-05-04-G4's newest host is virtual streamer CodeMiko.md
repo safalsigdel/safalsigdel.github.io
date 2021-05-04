@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I8ImFd5V9MYAknM-IsKef_IE0vI=/0x0:2340x1546/1200x800/filters:focal(1094x490:1468x864)/cdn.vox-cdn.com/uploads/chorus_image/image/69227912/Miko_Headshot_Full__1_.0.png' width='700px' /><br/>
-G4's newest host looks a little different from the rest of its lineup: it's hired CodeMiko — one of the biggest virtual streamers on Twitch — to bring her eccentric interviews to the network.
-<a href='https://www.theverge.com/2021/5/3/22417239/codemiko-g4-host-vtuber-gaming-network-revival-interviews'> Source <a/>
