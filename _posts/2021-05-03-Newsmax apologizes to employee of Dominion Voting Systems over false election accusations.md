@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SbYcoBR8r07Ba78D4qYQf8yXW0o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69220250/acastro_201106_1777_vote_0001.0.0.jpg' width='700px' /><br/>
-Conservative news channel Newsmax has posted an apology to an employee of Dominion Voting Systems, after it reported without evidence that he was involved in manipulating results of the 2020 US presidential election.
-<a href='https://www.theverge.com/2021/5/1/22414305/newsmax-apologize-voting-dominion-conspiracy-election-trump'> Source <a/>

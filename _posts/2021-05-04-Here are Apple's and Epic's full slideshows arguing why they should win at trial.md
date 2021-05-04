@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UM0gnFk6BBsPDA8vnW81_Ywp2I8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69229295/acastro_210429_1777_epicApple_0002.0.jpg' width='700px' /><br/>
+Both Apple and Epic have released their opening presentations on why they feel they should win this week's trial, which is set to determine the future of the App Store. In the documents, which you can look through below, each company lays out its case.
+<a href='https://www.theverge.com/2021/5/3/22417725/apple-vs-epic-full-trial-slideshows-opening-arguments'> Source <a/>

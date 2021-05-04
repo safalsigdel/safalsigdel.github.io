@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iHG1uo81jd8HPZc6uSOW_VtpUOo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69218032/appleimac2021hero2.0.jpg' width='700px' /><br/>
-We've reached the weekend, and the start of another month. Sayonara, April, and hello to May. The past few days at The Verge have been some of the best tech deals so far this year, like the now-expired deal that knocked $150 off the Apple Watch Series 6, putting it lower in price than even the Apple Watch SE. That one sold out in just a few hours, though I wouldn't be surprised to see it come again soon.
-<a href='https://www.theverge.com/good-deals/2021/5/1/22411802/apple-imac-ipad-pro-m1-processor-google-nest-wifi-mesh'> Source <a/>

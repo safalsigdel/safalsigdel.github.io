@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_KZyRXjuagOWNHMps2uK31Eb54Y=/0x0:4000x2443/1200x800/filters:focal(1680x902:2320x1542)/cdn.vox-cdn.com/uploads/chorus_image/image/69222304/1232642553.0.jpg' width='700px' /><br/>
-Four astronauts returned from the International Space Station early Sunday morning aboard SpaceX's Crew Dragon capsule, splashing down in the Gulf of Mexico nearly six months after arriving at the orbital laboratory in November last year as the first operational, long-duration crew under NASA's Commercial Crew Program.
-<a href='https://www.theverge.com/2021/5/2/22413121/spacex-crew-dragon-resilience-splashdown-nasa-record-iss'> Source <a/>

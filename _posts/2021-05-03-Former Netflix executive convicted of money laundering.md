@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E6TZrbidr5sKCemm_Vzwjslsfkk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69218533/acastro_200302_3922_SuperTuesday_gavel.0.0.jpg' width='700px' /><br/>
-A former Netflix executive was convicted of taking bribes and kickbacks from vendors doing business with the company, according to the US Department of Justice.
-<a href='https://www.theverge.com/2021/5/1/22414084/former-netflix-executive-convicted-bribes'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1IhvrLqHA98wroq0NfknNoPP7yo=/0x0:1000x422/1200x800/filters:focal(420x131:580x291)/cdn.vox-cdn.com/uploads/chorus_image/image/69222363/Apartment_Office_United_Artists.0.jpeg' width='700px' /><br/>
-So it seems that Google, the exemplar of the open-office concept, is trying now to figure out how to keep its design ideals intact while offering its employees at least some feeling of safety in these 6-foot-apart times. Apparently, these measures may include a number of interesting concepts, such as inflatable walls. (A GIF of one of those walls slowly unfolding nearly had me doing a spit-take with my morning coffee.)
-<a href='https://www.theverge.com/22412400/open-office-pandemic-privacy-safety'> Source <a/>

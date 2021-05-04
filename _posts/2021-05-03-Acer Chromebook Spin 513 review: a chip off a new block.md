@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U9bN9h-3txolNt3jWMbjPHVeKV0=/0x0:2040x1360/1200x675/filters:focal(830x568:1156x894)/cdn.vox-cdn.com/uploads/chorus_image/image/69222233/mchin_20190722_4563_0003.0.jpg' width='700px' /><br/>
-The $399.99 Acer Chromebook Spin 513 (currently listed at $349) is one of the very first Snapdragon-powered Chromebooks to hit the market. Specifically, it's powered by the Snapdragon 7c Compute SC7180, the type of chip you'd generally expect to see in a tablet or phone. Just from seeing that name, some readers can probably predict exactly what this device is going to be: a lightweight, mediocre performer with excellent battery life.
-<a href='https://www.theverge.com/22412759/acer-chromebook-spin-513-review-specs-price'> Source <a/>

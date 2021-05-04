@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/I1UznSP5PGCydQU9hhocwWzCmCI=/0x0:1546x841/1200x800/filters:focal(639x332:885x578)/cdn.vox-cdn.com/uploads/chorus_image/image/69228756/Screen_Shot_2021_05_03_at_12.53.37_PM.0.png' width='700px' /><br/>
+An internal presentation at Epic Games showed ambitious promotional plans for the game, including a basketball mini-game and a planned “Party Royale” featuring Zion Williamson and LeBron James. Made public as part of the ongoing Epic v. Apple trial, the document comes from a quarterly business review performed in June 2020.
+<a href='https://www.theverge.com/2021/5/3/22417523/fortnite-party-royale-lebron-james-zion-the-rock-epic-apple'> Source <a/>

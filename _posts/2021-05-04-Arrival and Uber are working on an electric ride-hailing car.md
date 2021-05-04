@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0r0wx45WZTVCu-Rv-slC1Fc4r4Q=/0x0:2400x1350/1200x800/filters:focal(1008x483:1392x867)/cdn.vox-cdn.com/uploads/chorus_image/image/69230777/Arrival_Uber_Car_Shot_1.0.jpg' width='700px' /><br/>
+UK-based EV startup Arrival is working with Uber to develop an electric car that will be “purpose-built” for ride-hailing. Arrival plans to put the car into production in late 2023 and says it will not be exclusive to Uber. Instead, the startup says the goal is to create an affordable vehicle that would appeal to the millions of ride-hailing drivers around the world.
+<a href='https://www.theverge.com/2021/5/3/22417970/arrival-uber-ride-hailing-ev-electric-vehicle'> Source <a/>
