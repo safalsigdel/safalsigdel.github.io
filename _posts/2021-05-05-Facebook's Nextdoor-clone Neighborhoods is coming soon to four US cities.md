@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nlsC8WBmtP2TcUiiHhGaDcDjuzc=/0x0:1200x816/1200x800/filters:focal(504x312:696x504)/cdn.vox-cdn.com/uploads/chorus_image/image/69239050/facebook_neighborhoods.0.jpg' width='700px' /><br/>
+Facebook, which never saw a social network it couldn't copy, says its Nextdoor-clone Neighborhoods is now available across Canada and is coming soon to four US cities. According to CNET, the US locations being targeted are Charlotte, North Carolina; San Diego, California; Baton Rouge, Louisiana; and Newark, New Jersey.
+<a href='https://www.theverge.com/2021/5/5/22420597/facebook-nextdoor-clone-neighborhoods-canada-us-cities-launch'> Source <a/>
