@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xz0WBVyk7weiiLPLBnvScM_p0-s=/0x0:2312x1298/1200x800/filters:focal(1022x452:1390x820)/cdn.vox-cdn.com/uploads/chorus_image/image/69235194/will_smith_brandcast.0.png' width='700px' /><br/>
-YouTube announced a new slate of original series today that includes some huge stars at the top of the lineup. Will Smith will star in a six-part reality series about fitness and “returning his body into the best shape of his life,” and a four-part series will go behind the scenes with Alicia Keys as she records a new album.
-<a href='https://www.theverge.com/2021/5/4/22419244/youtube-will-smith-alicia-keys-new-originals'> Source <a/>
