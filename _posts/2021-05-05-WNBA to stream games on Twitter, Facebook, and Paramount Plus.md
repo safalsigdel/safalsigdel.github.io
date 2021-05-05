@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N54RCuxpSPM8mUDoXoNxn4k5LT8=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/69235588/1232636324.0.jpg' width='700px' /><br/>
-For its upcoming 25th season, the Women's National Basketball Association will broadcast games on Twitter, Facebook Watch, Oculus, and the Paramount Plus streaming platform, the league announced.
-<a href='https://www.theverge.com/2021/5/4/22419249/wnba-stream-games-twitter-facebook-oculus-paramount-plus-google'> Source <a/>
