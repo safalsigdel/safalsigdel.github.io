@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9-wTCQY1RNMO4HDc0weYWYW5bYc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69230069/acastro_170731_1777_0004_v2.0.jpg' width='700px' /><br/>
-I know there's a ton of other Apple news happening today, but if you're reading it on a Mac, iPhone, iPad, or Apple Watch (okay, that last one may be a stretch), you should probably pause and update that device — today's update fixes a security issue that Apple says may have been actively exploited.
-<a href='https://www.theverge.com/2021/5/3/22417984/ios-14-5-1-ipad-iphone-apple-watch-mac-update-security-fix'> Source <a/>

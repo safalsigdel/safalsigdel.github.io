@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XQO-ejC9UzvfoVjDv3N17M2_0Qk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69228688/acastro_200318_1777_discord_0001.0.0.jpg' width='700px' /><br/>
-PlayStation is now partnering with Discord, the popular online communication service, with a promise to “bring the Discord and PlayStation experiences closer together on console and mobile starting early next year.”
-<a href='https://www.theverge.com/2021/5/3/22417586/sony-discord-playstation-consoles-investment-partnership'> Source <a/>

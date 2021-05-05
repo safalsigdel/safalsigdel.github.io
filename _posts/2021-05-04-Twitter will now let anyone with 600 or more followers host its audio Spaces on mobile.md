@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BF4PK9uwYWYyPxKJuG6LunRoa0Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69228474/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Beginning Monday, Twitter will bring the ability for accounts with 600 or more followers to host Spaces, its Clubhouse-like social audio rooms, the company announced. Although this is a bit later than the company's hoped-for April launch, users on iOS and Android devices will be included in the update.
-<a href='https://www.theverge.com/2021/5/3/22413033/twitter-spaces-android-ios-ticket-schedule-clubhouse-captions'> Source <a/>

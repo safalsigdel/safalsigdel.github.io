@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RbV2ORRe_rsvWidpoBaXbN8bjCE=/0x0:600x445/1200x800/filters:focal(252x175:348x271)/cdn.vox-cdn.com/uploads/chorus_image/image/69233482/adobe-flash-logo.1419969978.0.jpg' width='700px' /><br/>
-Microsoft will start fully removing Adobe Flash from Windows 10 this summer. The Windows 10 “Update for Removal of Adobe Flash Player,” which permanently removes Flash as a component of the operating system, will become mandatory starting in July. Updating to Windows 10 version 21H1, expected to start rolling out this month, will also remove the software.
-<a href='https://www.theverge.com/2021/5/4/22418889/adobe-flash-player-windows-10'> Source <a/>

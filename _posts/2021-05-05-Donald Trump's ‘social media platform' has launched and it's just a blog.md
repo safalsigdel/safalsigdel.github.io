@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/g5JHPM1vVqvFbiDo7wzee8k6xT8=/0x0:4543x3012/1200x800/filters:focal(1909x1143:2635x1869)/cdn.vox-cdn.com/uploads/chorus_image/image/69237069/1230683934.0.jpg' width='700px' /><br/>
+After months of promising his own social media network for banned posters, former President Donald Trump on Tuesday launched a new section of his website that's essentially just a WordPress blog.
+<a href='https://www.theverge.com/2021/5/4/22419850/donald-trump-social-media-platform-ban-twitter-facebook'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0iS0syg0m9e6E4aQ4tw-OwYvYDE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69237756/acastro_210503_4564_basecamp_0001.0.jpg' width='700px' /><br/>
+On April 26th, Basecamp founder and CEO Jason Fried posted on his blog about some policy changes that would be happening at the company, which makes team collaboration software. One policy stuck out to many on the internet — the company would no longer be allowing its employees to have discussions about society or politics on its internal account.
+<a href='https://www.theverge.com/2021/5/4/22419512/basecamp-political-speech-policy-fallout'> Source <a/>

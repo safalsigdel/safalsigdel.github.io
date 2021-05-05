@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BBgHhhVFvkxQw-3HXVenq1-30BY=/0x0:1414x834/1200x800/filters:focal(594x304:820x530)/cdn.vox-cdn.com/uploads/chorus_image/image/69237171/Screen_Shot_2021_05_04_at_4.56.28_PM.0.png' width='700px' /><br/>
+Google seems to be getting a little ahead of itself. This afternoon, as noticed by 9to5Google and others, the official Android account on Twitter tweeted a photo of the “Pixel Buds A-Series” and said the earbuds “have arrived.” Except... they definitely haven't. Google has yet to properly announce the Pixel Buds A-Series, which are expected to be sold at a lower price than the standard $179 model.
+<a href='https://www.theverge.com/2021/5/4/22419835/google-pixel-buds-a-series-tweet-photo'> Source <a/>

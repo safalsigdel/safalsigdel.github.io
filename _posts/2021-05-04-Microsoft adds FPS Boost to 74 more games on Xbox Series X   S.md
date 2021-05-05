@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g1tK8ei972GhzbtI2Ev8BJe-a-g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69228180/acastro_190530_1777_xbox_0003.0.0.jpg' width='700px' /><br/>
-Microsoft is enabling its Xbox FPS Boost mode on 74 more games today, bringing the total up to 97 games. Titles getting an FPS Boost include Assassin's Creed Unity, Deus Ex Mankind Divided, Wasteland 3, and Far Cry 5 all moving to 60fps. You can find the full list at Microsoft's site.
-<a href='https://www.theverge.com/2021/5/3/22416986/microsoft-xbox-fps-boost-new-games-list'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-A_DvgxtN1XmTupzGHoE56yp6fU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69228062/vpavic_180607_2652_0045.0.jpg' width='700px' /><br/>
-The Epic Games v. Apple trial is starting today, and it has begun with a court conference call full of kids screaming for Fortnite to return to mobile. The public call line allows anyone to dial in and listen to today's proceedings, but the court didn't manage to properly mute all participants for more than 20 minutes. The result was what sounded like a chaotic Discord call.
-<a href='https://www.theverge.com/2021/5/3/22417347/epic-games-apple-fortnite-trial-public-call'> Source <a/>

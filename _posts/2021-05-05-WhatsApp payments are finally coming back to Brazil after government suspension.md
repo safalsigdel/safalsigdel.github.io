@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dVPSysnk5T0rioqp4KjI0Bgr04s=/0x0:1092x720/1200x800/filters:focal(459x273:633x447)/cdn.vox-cdn.com/uploads/chorus_image/image/69237952/verge-whatsapp-notification-2040pxl.0.0.jpg' width='700px' /><br/>
+WhatsApp is again rolling out its payments service in Brazil, after the service was suspended by Brazil's Central Bank in June of 2020 a few days after it launched there. Facebook CEO Mark Zuckerberg made the announcement in a video aired in Brazil, where he spoke about how the payment information added to WhatsApp will also be able to be used on Facebook and Instagram.
+<a href='https://www.theverge.com/2021/5/4/22420029/whatsapp-payments-brazil-launch-regulations-fight'> Source <a/>

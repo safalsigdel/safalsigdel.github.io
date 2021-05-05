@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gi76i8AxxWV2SfNVo0tO9C0a4YQ=/0x0:4528x2394/1200x800/filters:focal(1902x835:2626x1559)/cdn.vox-cdn.com/uploads/chorus_image/image/69235739/Screen_Shot_2021_05_04_at_10.00.19_AM.0.png' width='700px' /><br/>
+The British Royal Navy has apparently been testing using jet suits to board ships like a scene out of some scrapped Christopher Nolan film, according to a new video released by UK-based Gravity Industries. Business Insider writes that the tests were conducted over three days on the HMS Tamar, a Royal Navy Batch 2 River-class offshore patrol ship.
+<a href='https://www.theverge.com/2021/5/4/22419267/royal-navy-jet-suit-gravity-industries'> Source <a/>

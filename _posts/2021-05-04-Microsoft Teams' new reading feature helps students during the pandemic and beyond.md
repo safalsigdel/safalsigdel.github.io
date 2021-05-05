@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3y-NqahHn414HsTyikzFDU1V4T0=/0x0:1938x1089/1200x0/filters:focal(0x0:1938x1089):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22490604/Reading_Progess_Detection.png' width='700px' /><br/>
-Microsoft is adding a new Reading Progress feature to Microsoft Teams, designed to help students improve their reading fluency. Reading Progress works by allowing students to record themselves reading a passage of text, and offering teachers the ability to assess accuracy rates, mispronunciations, and more.
-<a href='https://www.theverge.com/2021/5/4/22418855/microsoft-teams-reading-progress-fluency-feature'> Source <a/>

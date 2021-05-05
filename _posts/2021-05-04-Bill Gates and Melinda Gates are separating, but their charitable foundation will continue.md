@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EJHice36CdWHT6_-2yGU67Nq_Ms=/0x0:3000x2133/1200x800/filters:focal(1239x388:1719x868)/cdn.vox-cdn.com/uploads/chorus_image/image/69229957/958624382.0.jpg' width='700px' /><br/>
-Bill Gates and Melinda Gates have announced that they'll be ending their marriage after 27 years together, explaining in a joint statement that they “no longer believe we can grow together as a couple in this next phase of our lives.”
-<a href='https://www.theverge.com/2021/5/3/22418019/bill-melinda-gates-marriage-separation-charity-foundation'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/adk-W-AXovagsxW2xw0IW5TUdeg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69237974/acastro_20200818_1777_epicApple_0004.0.0.jpg' width='700px' /><br/>
+One of the Epic v. Apple trial's big keywords is “cross-wallet play.”
+<a href='https://www.theverge.com/2021/5/4/22419894/apple-epic-fortnite-app-store-antitrust-trial-day-2'> Source <a/>

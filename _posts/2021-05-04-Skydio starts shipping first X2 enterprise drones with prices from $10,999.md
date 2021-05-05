@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MVeGGNKcolRqORteO9U5WBRFfK0=/0x0:3200x2133/1200x800/filters:focal(1344x811:1856x1323)/cdn.vox-cdn.com/uploads/chorus_image/image/69233045/Skydio_AB_2125.0.jpg' width='700px' /><br/>
-US dronemaker Skydio has begun shipping its first enterprise drones today with prices starting at an enterprise-worthy $10,999. Skydio is best known as a pioneer of self-flying drone tech, but in recent years has shifted its attention away from a consumer market dominated by Chinese giant DJI to courting enterprise customers instead.
-<a href='https://www.theverge.com/2021/5/4/22418785/skydio-enterprise-drones-x2-x2e-x2d-prices-specs'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dFXLKZvtej1O77n_br4tTCLmDNU=/0x0:3790x2527/1200x800/filters:focal(1592x961:2198x1567)/cdn.vox-cdn.com/uploads/chorus_image/image/69230359/1295550077.0.jpg' width='700px' /><br/>
-Amazon made history as the first all-digital streamer to acquire exclusive rights to the NFL's Thursday Night Football, and now the NFL has announced that Amazon will be streaming games sooner than expected — starting with the 2022 season.
-<a href='https://www.theverge.com/2021/5/3/22417957/amazon-nfl-thursday-night-football-2022'> Source <a/>

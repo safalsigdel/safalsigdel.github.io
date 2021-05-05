@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mTew0cHlRaAfu7z9mVE9luZBwoY=/0x0:2362x1575/1200x800/filters:focal(993x600:1369x976)/cdn.vox-cdn.com/uploads/chorus_image/image/69235983/1232204951.0.jpg' width='700px' /><br/>
+Uber announced that it was teaming up with delivery startup Gopuff to expand its delivery business. Gopuff, which acquired liquor store chain BevMo last year, will make its inventory of convenience and grocery store items available to Uber as part of this new deal. The companies plan to roll out their new offerings to customers in 95 cities starting this June and nationwide later in the year.
+<a href='https://www.theverge.com/2021/5/4/22419461/uber-gopuff-grocery-delivery-expansion'> Source <a/>

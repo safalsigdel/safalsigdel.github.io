@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JqA9pmy3gfySoyraXtnRnDBWpVk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69236643/acastro_180529_1777_nvidia_0001.0.0.jpg' width='700px' /><br/>
+Nvidia appears to be getting ready to launch its RTX 3080 Ti graphics card later this month. Over the past few weeks, RTX 3080 Ti cards have reportedly been spotted on shipping pallets, in retail boxes, and now in the hands of someone. VideoCardz has been at the center of tracking down Nvidia's rumored RTX 3080 Ti card, and it reports the GPU will be launched on May 31st, alongside the RTX 3070 Ti.
+<a href='https://www.theverge.com/2021/5/4/22419668/nvidia-rtx-3080-ti-leak-may-launch-rumors'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hujJeagTwJdlgfsncY-U5SGn3BE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69233669/acastro_190618_1777_cloud_gaming_0003.0.jpg' width='700px' /><br/>
-Walmart's unannounced cloud gaming service, codenamed Project Storm, has been detailed in new confidential emails. An exhibit in the Epic Games v. Apple trial reveals Walmart's efforts to pitch its cloud gaming service to Epic Games and get Fortnite on board.
-<a href='https://www.theverge.com/2021/5/4/22418882/walmart-cloud-gaming-service-epic-games-trial-emails'> Source <a/>
