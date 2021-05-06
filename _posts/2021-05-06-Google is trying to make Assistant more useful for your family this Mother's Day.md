@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8TVWeYQDVLi6gfVp9GOUCxxxaBU=/0x62:422x366/1200x800/filters:focal(118x128:204x214)/cdn.vox-cdn.com/uploads/chorus_image/image/69246452/Screen_Shot_2021_05_06_at_8.35.16_AM.0.png' width='700px' /><br/>
+Google is announcing some improved Assistant features for families, including improved broadcasts, new bells, and some new stories that can be read to kids. Google says it's rolling out the features for Mother's Day, but a few of them could be useful for everyone, not just moms.
+<a href='https://www.theverge.com/2021/5/6/22422982/google-assistant-family-features-mothers-day-broadcast-bells-stories'> Source <a/>
