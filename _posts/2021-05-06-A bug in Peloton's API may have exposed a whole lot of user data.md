@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_nnBA5RmCAQdT1TXUC9sB86ngkg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69242236/akrales210108_4344_0020.0.jpg' width='700px' /><br/>
-An old version of Peloton's API, the software that allows the company's bikes and recalled treadmills to communicate with its servers, may have exposed private customer profiles, according to a report from TechCrunch. The bug was first spotted by Jan Masters, a security researcher at Pen Test Partners, and reported to Peloton on January 20th, but the company is only just now confirming that the bug has been fixed.
-<a href='https://www.theverge.com/2021/5/5/22421329/peloton-api-bug-customer-data-exposed'> Source <a/>
