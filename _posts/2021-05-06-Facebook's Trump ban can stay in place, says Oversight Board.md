@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T-qLAeBnp_92sS-zS9cwIsT6qQI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69239724/acastro_180806_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook's Oversight Board has upheld Facebook's ban on former President Donald Trump, as announced by the organization on Wednesday.
-<a href='https://www.theverge.com/2021/5/5/22320329/facebook-oversight-board-trump-ban-decision'> Source <a/>
