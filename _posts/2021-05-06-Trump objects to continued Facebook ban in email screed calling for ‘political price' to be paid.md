@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WUdvP4hETrmBr-CTzwvPC4DxkrI=/0x0:3000x2000/1200x800/filters:focal(1986x336:2466x816)/cdn.vox-cdn.com/uploads/chorus_image/image/69241091/1304610267.0.jpg' width='700px' /><br/>
+Former President Donald Trump's Facebook ban is sticking around for now, following the decision from Facebook's Oversight Board to uphold its original ban from earlier this year. And Trump is not pleased, according to his first official statement.
+<a href='https://www.theverge.com/2021/5/5/22421052/trump-facebook-ban-email-statement-objection-social-media'> Source <a/>

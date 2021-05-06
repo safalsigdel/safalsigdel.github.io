@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FpEWYLQcU2XT-KXNfI3yxUVu9Ts=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69243938/acastro_191014_1777_google_pixel_0004.0.0.jpg' width='700px' /><br/>
+The acting head of the National Labor Relations Board (NLRB) said Google “arguably violated” US labor law by illegally firing three workers in 2019 amid their organizing activities, Bloomberg reports. On Wednesday, the NLRB reversed an earlier decision which had dismissed claims from Sophie Waldman, Rebecca Rivers, and Paul Duke that Google had retaliated against them for labor activism.
+<a href='https://www.theverge.com/2021/5/5/22421969/google-illegally-firing-three-workers-nlrb-president-biden'> Source <a/>

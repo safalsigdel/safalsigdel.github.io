@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W1Bbm97IgBpIIZzwTkgOz-xuMOQ=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/69241243/1232148642.0.jpg' width='700px' /><br/>
+Clubhouse is funding the creation of 50 audio shows made by creators on its platform. The concepts include everything from an interview series with Taryn Southern to a pair of shows discussing the culture of hairstyles to a game show called “Serial Killer Speed Dating.”
+<a href='https://www.theverge.com/2021/5/5/22420644/clubhouse-creator-first-pilot-program-season-audio-social'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eLS7mefxTsHKqTIAUh47ycnDPOU=/0x0:3888x2592/1200x800/filters:focal(1633x985:2255x1607)/cdn.vox-cdn.com/uploads/chorus_image/image/69237562/1231517624.0.jpg' width='700px' /><br/>
-An AT&T policy that bars employees from recording conversations with managers or colleagues is legal, according to a ruling from the National Labor Relations Board Monday. The board found that while AT&T violated US labor law in how it had applied the policy, the recording ban itself was not illegal.
-<a href='https://www.theverge.com/2021/5/4/22419772/att-rule-barring-workers-recording-conversations-legal-federal-labor-law'> Source <a/>

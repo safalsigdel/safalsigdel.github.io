@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jdl8bbmNFRkaVBpw6JUcM7lmWX8=/0x0:2040x1360/1200x800/filters:focal(1158x486:1484x812)/cdn.vox-cdn.com/uploads/chorus_image/image/69237538/akrales_191003_3707_0159.0.jpg' width='700px' /><br/>
-HTC is planning to unveil two Vive virtual reality headsets at its ViveCon 2021 conference that's happening on May 11th and May 12th, according to Protocol. While the original Vive and Vive Pro headsets were associated more with gaming, the high-end Vive Pro 2 and Vive Focus 3 Business Edition will reportedly be aimed toward the enterprise sector.
-<a href='https://www.theverge.com/2021/5/4/22419755/htc-vive-pro-2-focus-3-business-edition-virtual-reality-vr-headset-vivecon-rumor'> Source <a/>

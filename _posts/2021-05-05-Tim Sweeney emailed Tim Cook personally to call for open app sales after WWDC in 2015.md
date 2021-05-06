@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/idVsAXM4xA2yf3cFZHhcAyCZy0A=/0x0:716x477/1200x800/filters:focal(301x182:415x296)/cdn.vox-cdn.com/uploads/chorus_image/image/69236647/tim-cook_1.0.jpg' width='700px' /><br/>
-Epic Games CEO Tim Sweeney was asking Apple to open its phones to other app stores as early as 2015, according to new emails made public as part of the companies' antitrust trial. Under the subject line “iOS as an open platform,” Sweeney emailed Apple CEO Tim Cook directly to make the case for allowing other app stores to distribute software on iOS.
-<a href='https://www.theverge.com/2021/5/4/22419618/tim-sweeney-email-tim-cook-wwdc-2015-ios-open-platform-antitrust'> Source <a/>

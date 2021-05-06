@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0Dw4Llq-3Qzx2AbPEdRKL-ocDRc=/30x27:1148x645/1200x800/filters:focal(493x241:679x427)/cdn.vox-cdn.com/uploads/chorus_image/image/69242685/Screen_Shot_2021_05_05_at_1.07.00_PM.0.png' width='700px' /><br/>
+Twitter is finally rolling out a long-awaited feature: bigger images that don't crop in so darn much. Now, image previews should show way more of the image, giving you a better idea of what you're actually looking at, and avoiding embarrassing situations where Twitter's cropping algorithm picks the absolute wrong thing to focus on (sometimes with apparent racial bias).
+<a href='https://www.theverge.com/2021/5/5/22421574/twitter-crop-issue-bigger-images-rollout'> Source <a/>

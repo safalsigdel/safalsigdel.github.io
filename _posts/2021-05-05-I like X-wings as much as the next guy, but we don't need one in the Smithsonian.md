@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-May Fourth is informally the Star Wars Day holiday, which random brands typically use to hawk their wares. Although it's not as bad as the promotions that come out of the woodwork on April Fools' Day, I think I'm drawing the line at the Smithsonian National Air and Space Museum adding an X-wing Starfighter from Star Wars to its collection. The museum announced today that the famous ship would be going on display in 2022, via a prop loan from the Disney-owned production company, Lucasfilm.
-<a href='https://www.theverge.com/tldr/2021/5/4/22419570/smithsonian-national-museum-star-wars-x-wing'> Source <a/>

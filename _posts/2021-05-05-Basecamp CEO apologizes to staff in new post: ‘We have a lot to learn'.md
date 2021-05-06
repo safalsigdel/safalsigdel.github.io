@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tSN1nmw2eYObkzsD2VxCxRQPe6Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69237187/acastro_210427_4564_basecamp_0001.0.jpg' width='700px' /><br/>
-In a new blog post, Basecamp CEO Jason Fried apologized after the “policy changes” he announced last week ultimately led to a third of the company's workforce opting to leave.
-<a href='https://www.theverge.com/2021/5/4/22419799/basecamp-ceo-apologizes-staff-new-post'> Source <a/>

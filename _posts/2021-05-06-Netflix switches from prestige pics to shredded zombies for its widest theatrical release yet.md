@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vbEZgLKJkdakMofOCBy92Q0XTJU=/0x0:4896x2320/1200x800/filters:focal(2057x769:2839x1551)/cdn.vox-cdn.com/uploads/chorus_image/image/69241390/Screen_Shot_2021_05_05_at_9.42.44_AM.0.png' width='700px' /><br/>
+Netflix is taking a different route for its new Zack Snyder-directed zombie heist movie, Army of the Dead. Rather than skip theaters and drop the new thriller directly in subscribers' laps and homes, the company has reached an agreement with theater chains to screen the movie a week early starting May 14th in around 600 theaters, according to Variety.
+<a href='https://www.theverge.com/2021/5/5/22421065/zack-snyder-army-of-the-dead-netflix-theater-release'> Source <a/>

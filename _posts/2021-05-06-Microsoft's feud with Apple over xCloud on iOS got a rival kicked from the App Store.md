@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xL38XAlPbKDuXRAwsAev5mkhiDU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69241846/acastro_210429_1777_0003.0.jpg' width='700px' /><br/>
+In 2020, Microsoft was battling to bring xCloud or Xbox Game Streaming to the iPhone and iPad, and the conversations had an unlikely victim: Shadow — a third-party cloud gaming app that lets you stream PC games to an iPhone or iPad.
+<a href='https://www.theverge.com/2021/5/5/22421290/microsoft-apple-xcloud-ios-shadow-cloud-gaming-removal-app-store'> Source <a/>
