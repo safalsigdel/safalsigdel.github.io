@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Pdddw9Ov8pWAifrDd2wzykkBI68=/0x0:5317x3552/1200x800/filters:focal(2234x1351:3084x2201)/cdn.vox-cdn.com/uploads/chorus_image/image/69240337/1219237615.jpg.0.jpg' width='700px' /><br/>
-The US Department of Labor withdrew a Trump-era rule that would have made it easier for “gig economy” companies like Uber and Lyft to classify their workers as independent contractors. The reversal doesn't change any gig workers' current employment status, but it does signal that the Biden administration is taking a less friendly stance toward this sector of the economy.
-<a href='https://www.theverge.com/2021/5/5/22420896/biden-labor-department-reverse-gig-worker-rule-trump'> Source <a/>
