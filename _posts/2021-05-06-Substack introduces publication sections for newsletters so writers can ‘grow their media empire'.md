@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/H1GKrKoaWlng9sQN-9tqomMxHU8=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/69247308/Untitled_1.0.jpg' width='700px' /><br/>
+Newsletter publishing platform Substack has introduced publication sections for its newsletters, which will allow writers “to create and manage multiple newsletters or podcasts within a single main publication,” the company announced Thursday.
+<a href='https://www.theverge.com/2021/5/6/22423075/substack-publication-sections-newsletters-media-journalism-news'> Source <a/>
