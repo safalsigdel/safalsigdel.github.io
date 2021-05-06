@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z62lztRHCcOnTo-sKKsJwLkdDhQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69244782/jbareham_1492_170228_0126.0.0.jpg' width='700px' /><br/>
+Nintendo Switch sales were up 44 percent percent from January to March compared to the same pandemic-impaired quarter from a year earlier. Today's numbers bring total Switch sales to 28.83 million for the fiscal year, up 37 percent compared to the 21 million Switch consoles the company shipped the year prior, and beating the company's own revised forecast.
+<a href='https://www.theverge.com/2021/5/6/22422451/nintendo-annual-earnings-switch-84-59-million'> Source <a/>
