@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/reOHpiDGmnuOxL2xhhJJAVRWhGw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69240301/akrales_190328_3240_0158.0.jpg' width='700px' /><br/>
-Peloton is issuing a voluntary recall for all of its treadmill products — including both the Peloton Tread and Tread Plus — following a series of accidents that have resulted in multiple injuries and at least one death.
-<a href='https://www.theverge.com/2021/5/5/22420918/peloton-treadmill-recall-tread-accidents-cpsc-voluntary-refund'> Source <a/>

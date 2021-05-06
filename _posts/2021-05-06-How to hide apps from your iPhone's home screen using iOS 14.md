@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LesB4apQilxdHYvKgsyCDsqhBQc=/0x0:3441x2294/1200x800/filters:focal(1446x872:1996x1422)/cdn.vox-cdn.com/uploads/chorus_image/image/69245434/iphone-games-004.0.0.jpg' width='700px' /><br/>
+If you get annoyed with the number of apps that crowd your iPhone's home screen, you probably welcomed a feature that came with iOS 14: the App Library, which gathers all of your apps into various categories and displays them on a separate page to the right of your home pages.
+<a href='https://www.theverge.com/22420904/ios-apps-iphone-hide-how-to'> Source <a/>

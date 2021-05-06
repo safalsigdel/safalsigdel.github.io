@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V8Txz9gSMjMteN9vaPZOLo4vAP8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69245528/dseifert_201107_4281_0009.0.0.jpg' width='700px' /><br/>
+Owners of Apple's HomePod and HomePod mini can now connect their smart speakers directly to Deezer and make the music streaming service their default player. That means they can take advantage of the HomePod's Siri voice controls to navigate their tunes and playlists on Deezer.
+<a href='https://www.theverge.com/2021/5/6/22422637/apple-homepod-mini-deezer-third-party-music-integration'> Source <a/>
