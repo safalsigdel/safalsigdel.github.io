@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rBsR5S4PUIx0W5xCakmQKAaFFT0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69240866/jporter_20210430_4567_0003.0.jpg' width='700px' /><br/>
-Corsair's K70 RGB TKL is an unashamedly gaming-focused keyboard. For one thing, it's only available with the kinds of switches people normally recommend for playing games, while other features like low input latency and a dedicated “tournament switch” for esports clearly have gamers in mind.
-<a href='https://www.theverge.com/2021/5/5/22420824/corsair-k70-rgb-tkl-review'> Source <a/>
