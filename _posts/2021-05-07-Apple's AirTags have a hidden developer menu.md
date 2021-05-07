@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q70kxmc49vVPhBhNWRmgltSYnFM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69246228/vpavic_4547_20210421_0119.0.jpg' width='700px' /><br/>
-Apple's new item-tracking AirTags have arrived, and they come with a surprise addition: a hidden menu in the Find My app that reveals some of the back-end data used by the service.
-<a href='https://www.theverge.com/2021/5/6/22422696/apple-airtags-hidden-developer-menu-back-end-data-how-to-access'> Source <a/>

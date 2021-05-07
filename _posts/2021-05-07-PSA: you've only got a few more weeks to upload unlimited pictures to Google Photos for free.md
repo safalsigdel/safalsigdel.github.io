@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h1KXsoBZib5vZwYfj-QEBypvGCQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69251717/1BEB77B1_EB2C_4E1F_A9C1_1B863908E956.0.jpeg' width='700px' /><br/>
+Google Photos' free, unlimited storage is going away on June 1st — which means that you've only got a few weeks left to upload all your pictures and videos before the company's new 15GB cap kicks in.
+<a href='https://www.theverge.com/2021/5/7/22424528/google-photos-storage-limit-date-15gb-cap-deadline'> Source <a/>
