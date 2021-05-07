@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ohftR3zL3FUJgM_8gmwzPUVqSto=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/69246381/vpavic_4261_20201023_0058.0.jpg' width='700px' /><br/>
-The PlayStation 5 now has a YouTube TV app, arriving more than six months after the console launched. That means anyone lucky enough to actually buy Sony's latest console now has another way to watch live TV on it, as first spotted by Android Police.
-<a href='https://www.theverge.com/2021/5/6/22422812/ps5-youtube-tv-roku-sony-playstation-5-app-streaming'> Source <a/>

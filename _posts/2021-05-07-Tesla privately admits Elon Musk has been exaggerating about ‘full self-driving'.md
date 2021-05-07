@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ydvSllfMvRWbgNy0AdKoIohZo7s=/0x0:5134x3571/1200x800/filters:focal(2157x1376:2977x2196)/cdn.vox-cdn.com/uploads/chorus_image/image/69251912/1229892421.0.jpg' width='700px' /><br/>
+Tesla CEO Elon Musk has been overstating the capabilities of the company's advanced driver assist system, the company's director of Autopilot software told the California Department of Motor Vehicles. The comments came from a memo released by legal transparency group PlainSite, which obtained the documents from a public records request.
+<a href='https://www.theverge.com/2021/5/7/22424592/tesla-elon-musk-autopilot-dmv-fsd-exaggeration'> Source <a/>
