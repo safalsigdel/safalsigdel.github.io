@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rtZKojBgpoJ5i86JsHD0dRPVMgo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69247428/acastro_180403_1777_youtube_0002.0.0.jpg' width='700px' /><br/>
-If you use your phone in portrait lock all the time, it can be frustrating trying to get YouTube videos into full screen with the tiny button in the UI. Thankfully, there's a better way, using the app's built-in gestures: you can simply swipe up on a video to fill up the screen and swipe down on it to go back to portrait orientation.
-<a href='https://www.theverge.com/2021/5/6/22423270/youtube-app-easy-landscape-portrait-switching-lock-phone-android-ios-iphone-gesture'> Source <a/>

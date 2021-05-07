@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ygazen8s3Fk5sZXS17m9g4HKIBE=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69252332/1232684258.0.jpg' width='700px' /><br/>
+New cars are getting more expensive thanks to the global semiconductor shortage. And the price of used cars is going up, too.
+<a href='https://www.theverge.com/2021/5/7/22423479/semiconductor-shortage-new-car-truck-prices-sales'> Source <a/>
