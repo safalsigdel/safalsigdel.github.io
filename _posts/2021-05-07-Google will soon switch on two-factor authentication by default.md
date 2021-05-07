@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t6OodCGkf7XtuAy003iOR4uMIvo=/0x0:2100x1500/1200x800/filters:focal(843x753:1179x1089)/cdn.vox-cdn.com/uploads/chorus_image/image/69246167/twostep.0.jpg' width='700px' /><br/>
-Google is about to take a pretty significant step that will help keep user accounts more secure: it's going to enroll people in two-factor authentication by default. Today the company wrote in a blog post that it will soon start enrolling customers in two-factor authentication (or “two-step verification,” as Google calls it) if their accounts are “appropriately configured.”
-<a href='https://www.theverge.com/2021/5/6/22422778/google-accounts-enabling-two-step-verification-default'> Source <a/>
