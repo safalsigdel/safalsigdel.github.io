@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YI8mp-nP2YLyvhJ6n-S3WgEJjHU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69245841/dseifert_4521_oneplus_watch_5.0.jpg' width='700px' /><br/>
-OnePlus has released its latest update for the OnePlus Watch, adding its promised always-on display mode that was absent on the device when it first launched in April. But being able to always see the time on OnePlus' smartwatch comes at a big cost, with the company cautioning that the new mode will halve the expected battery life when using it.
-<a href='https://www.theverge.com/2021/5/6/22422707/oneplus-watch-always-on-display-update-battery-life'> Source <a/>
