@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BF1fAxGBidX4g5wpDFFpxYQc4PY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69252306/acastro_210119_1777_whatsapp_0003.0.jpg' width='700px' /><br/>
+In a new statement posted on its website, WhatsApp says users won't lose any functionality if they fail to accept its new privacy policy by May 15th. “No one will have their accounts deleted or lose functionality of WhatsApp on May 15th because of this update,” the FAQ now reads.
+<a href='https://www.theverge.com/2021/5/7/22424769/whatsapp-privacy-policy-deadline-controversy-functionality'> Source <a/>
