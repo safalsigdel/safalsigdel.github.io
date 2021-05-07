@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C0OnOMjJoa-_jzLHY53dENtpjPM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69245937/acastro_180608_1777_net_neutrality_0001.0.jpg' width='700px' /><br/>
-The New York attorney general's office issued a report Thursday confirming that some of the US's largest broadband providers engaged in a massive campaign to flood the Federal Communications Commission with fake comments in the run-up to the commission's 2017 order to roll back net neutrality.
-<a href='https://www.theverge.com/2021/5/6/22422818/net-neutrality-rollback-ajit-pai-telecom-broadband-new-york-attorney-general'> Source <a/>
