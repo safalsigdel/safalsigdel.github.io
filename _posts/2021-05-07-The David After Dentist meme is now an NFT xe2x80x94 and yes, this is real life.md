@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EDDJb2lPvuSou80zo7fne3uYZXY=/0x0:1331x975/1200x800/filters:focal(560x382:772x594)/cdn.vox-cdn.com/uploads/chorus_image/image/69248509/david_dentist.0.jpg' width='700px' /><br/>
+David DeVore was seven years old in 2008 when a trip to the dentist left him feeling “funny” afterward. His dad, David Sr., recorded his son's post-anesthesia musings (“Is this real life?” “You have four eyes” “I feel funny”), and when he uploaded it to YouTube a few months later — intending to share it with friends and family — the video went viral within a few days.
+<a href='https://www.theverge.com/2021/5/6/22422993/david-after-dentist-meme-nft-real-life'> Source <a/>

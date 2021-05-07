@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JvUJxNunRuqdWiYyynwVoA4rJb0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69248465/acastro_170731_1777_0004_v2.0.jpg' width='700px' /><br/>
+Apple made it more difficult to upgrade your Hulu subscription plan — say, to add live TV — after it realized the company was offering a way to automatically cancel subscriptions made through the App Store.
+<a href='https://www.theverge.com/2021/5/6/22423410/apple-hulu-subscription-in-app-purchase-tweet'> Source <a/>

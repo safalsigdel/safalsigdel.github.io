@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-7_wVIIN0Ps29InEBX2Le4PgzXk=/0x0:2640x1748/1200x675/filters:focal(1109x663:1531x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/69245099/xcloudiphone.0.jpg' width='700px' /><br/>
-Something keeps coming up at the Epic v. Apple trial as a potential alternative for getting Fortnite on the iPhone: web apps. It's an intriguing idea, as web apps are able to do surprisingly complex things: just look at a Chromebook or even game streaming services on the iPhone. But potential is far from reality, because the ability for web apps to look, feel, and perform as well as native apps on iOS is severely limited.
-<a href='https://www.theverge.com/2021/5/6/22421912/iphone-web-app-pwa-cloud-gaming-epic-v-apple-safari'> Source <a/>

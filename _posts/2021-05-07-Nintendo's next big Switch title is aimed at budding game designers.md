@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GeY0O4GgEFfe-QFIzqUazi968i4=/0x0:2356x1614/1200x0/filters:focal(0x0:2356x1614):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/20036257/Screen_Shot_2020_06_15_at_5.04.24_PM.png' width='700px' /><br/>
-Nintendo's next game for the Switch is one you build yourself. Today the company revealed Game Builder Garage, a new software title that's designed to teach beginners the basics of programming and game design. It utilizes visual programming, has pre-built lessons and games, and will be launching on the Switch next month.
-<a href='https://www.theverge.com/2021/5/5/22419556/game-builder-garage-nintendo-switch-trailer-release-date'> Source <a/>

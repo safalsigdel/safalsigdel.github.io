@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ND4xGLcYWSw3jiHiqYnyHVWVfYo=/0x0:2040x1360/1200x800/filters:focal(883x743:1209x1069)/cdn.vox-cdn.com/uploads/chorus_image/image/69249053/awhite_20200305__3923_0239.0.jpg' width='700px' /><br/>
+In what feels like an increasingly rare occurrence, Google announced that it's updating Wear OS with a new feature today — but don't get too excited, it's just a keyboard. In this case, Google is porting over Gboard, the swipeable, predictive text-powered keyboard that it offers for Android, iOS, and Android TV, as spotted by 9to5Google.
+<a href='https://www.theverge.com/2021/5/6/22423707/google-wear-os-gboard-swipe-type'> Source <a/>
