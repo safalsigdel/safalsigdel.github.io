@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qDuwLSQVuwAfj6hTGO4Sv8SwREM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69248374/acastro_170726_1777_0010.0.jpg' width='700px' /><br/>
-Twitter has started rolling out a new Tip Jar feature on its Android and iOS apps, which (as rumored) will allow users to send money directly to their favorite accounts.
-<a href='https://www.theverge.com/2021/5/6/22423583/twitter-tip-jar-feature-sending-money-venmo-cashapp'> Source <a/>
