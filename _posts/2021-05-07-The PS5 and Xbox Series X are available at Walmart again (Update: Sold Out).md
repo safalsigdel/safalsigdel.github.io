@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qQU6eLZGJCkWqLjrCNLWDHx6xws=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69248066/vpavic_4261_20201026_0181.0.jpg' width='700px' /><br/>
-Update: Walmart's restock of the PS5 and Xbox Series X seems to be over. If you're looking for some accessories to go with a console, we have some picks below.
-<a href='https://www.theverge.com/2021/5/6/22386165/ps5-xbox-series-x-restocks-walmart'> Source <a/>

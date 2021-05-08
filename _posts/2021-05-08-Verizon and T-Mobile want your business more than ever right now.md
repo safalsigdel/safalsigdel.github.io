@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0ynIytQ-t2XCnRH1oAEA-4oGSG8=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69253303/acastro_180430_1777_5G_0001.0.0.jpg' width='700px' /><br/>
+It's a good year for old, crappy phones. The dusty old phone in your desk drawer running Android frozen-dessert-something-or-other — the one that might have a cracked screen — saw its stock go up recently with two generous trade-in promotions. T-Mobile and Verizon are both offering to take your old, damaged phone off your hands and replace it with a shiny new 5G model.
+<a href='https://www.theverge.com/2021/5/7/22425022/verizon-t-mobile-att-phone-promotion-magenta-max-5g-c-band'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PfDox9u4SsZBiibw8-oQPWyduck=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69255434/acastro_210429_1777_epicApple_0002.0.jpg' width='700px' /><br/>
+If you have ever wanted to see a bunch of mumbly nerds struggle to define what constitutes a “game,” well, is Epic v. Apple the trial for you!
+<a href='https://www.theverge.com/2021/5/7/22425774/epic-apple-roblox-fortnite-store-game-trial-day-5'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eYtNNDxTKRjTqkVntOk1J676JkI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69247455/acastro_180604_1777_xbox_0001.0.jpg' width='700px' /><br/>
-Xbox games were refusing to open or launch for many across Europe today, with an error message being presented instead. “The person who bought this needs to sign in,” said the error. The issues started at around 1PM ET, and Microsoft posted the “All Clear” on its status page at 3:30PM ET.
-<a href='https://www.theverge.com/2021/5/6/22423339/xbox-live-down-games-not-opening-launching-error'> Source <a/>

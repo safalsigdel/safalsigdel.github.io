@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6mpp67k4M5Og7EQG9FybBnQa2u4=/0x0:2040x1360/1200x800/filters:focal(883x573:1209x899)/cdn.vox-cdn.com/uploads/chorus_image/image/69249173/akrales_190328_3240_0105.0.jpg' width='700px' /><br/>
-Peloton expects it to be a number of months before either of its treadmills are offered for sale again after a recall was issued on both models yesterday. One of the models posed the risk of “injury or death,” Peloton said.
-<a href='https://www.theverge.com/2021/5/6/22423745/peloton-recall-timeline-tread-plus-john-foley'> Source <a/>

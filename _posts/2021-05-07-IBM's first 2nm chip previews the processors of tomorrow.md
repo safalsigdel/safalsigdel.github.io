@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/djJXWCjO6ADUJmlTg-PSS6841Ts=/0x0:2700x2160/1200x800/filters:focal(1134x864:1566x1296)/cdn.vox-cdn.com/uploads/chorus_image/image/69248770/IBM_Research_2_nm_Wafer.0.jpeg' width='700px' /><br/>
-IBM has revealed what it says are the world's first 2nm process chips, giving a brief preview of the technology that might eventually power the smartphones, laptops, and gadgets of the future.
-<a href='https://www.theverge.com/2021/5/6/22422815/ibm-2nm-chip-processors-semiconductors-power-performance-technology'> Source <a/>

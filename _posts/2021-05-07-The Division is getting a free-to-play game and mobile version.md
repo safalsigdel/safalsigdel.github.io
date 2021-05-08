@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iadkliKJ0z6wGRM-Jb7XRhVCwcc=/0x0:960x540/1200x800/filters:focal(161x202:313x354)/cdn.vox-cdn.com/uploads/chorus_image/image/69247861/Division_update_header.0.jpg' width='700px' /><br/>
-Ubisoft announced that it's developing a free-to-play game set in The Division's universe, called The Division Heartland. The company also announced that a Division mobile game is in the works.
-<a href='https://www.theverge.com/2021/5/6/22423246/the-division-free-to-play-mobile-tv-show-ubisoft-cod'> Source <a/>

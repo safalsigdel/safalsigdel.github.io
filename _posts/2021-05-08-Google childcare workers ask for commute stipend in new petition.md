@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M4L-zmfIb8WFmuyNrcNbiZA8KVo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69254491/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
+More than 200 Alphabet employees have signed a petition from Google childcare workers asking for a commute stipend. The petition calls for workers to be given an extra $1,500 per month to help pay for ride-shares, car rentals, or other transportation costs.
+<a href='https://www.theverge.com/2021/5/7/22425388/google-childcare-workers-commute-stipend'> Source <a/>

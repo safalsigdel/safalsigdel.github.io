@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DrPDAAswW4MRxlqTNEBNH5zAdGM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69253024/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
+A week after their broken-down negotiations spilled into the public, Google and Roku still haven't been able to reach a deal to renew YouTube TV's presence on the huge streaming platform. But Google has come up with something of a workaround in the meantime: it's going to let people access YouTube TV directly from the main YouTube app.
+<a href='https://www.theverge.com/2021/5/7/22425035/google-youtube-tv-roku-app-feud'> Source <a/>
