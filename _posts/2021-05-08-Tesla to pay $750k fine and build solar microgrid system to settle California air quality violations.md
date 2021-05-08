@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d0-tTmDP7Iqeov7mhpVJtrOaUDo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69256807/acastro_180430_1777_tesla_0001.0.jpg' width='700px' /><br/>
+Tesla has agreed to pay a $750,000 fine and install a solar roof project to settle air quality violations at its Fremont, California plant, officials announced Friday.
+<a href='https://www.theverge.com/2021/5/8/22426190/tesla-fine-build-microgrid-system-settle-california-air-quality-violations'> Source <a/>

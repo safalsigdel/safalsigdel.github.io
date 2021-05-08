@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wEsi03U4FgQpWpL9cBhYMLr15m0=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/69249449/923335020.0.jpg' width='700px' /><br/>
-Who among us has not tried during the pandemic to conceal the background of our home offices during a Zoom call for work— lest we reveal a messy bedroom, or get ragged on by RoomRater?
-<a href='https://www.theverge.com/2021/5/6/22423723/psa-dont-drive-zoom-meeting-ohio-distracted-driving-bill'> Source <a/>
