@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HXEnsrFSdGKV7vqESMrTUb4uTXU=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/69250732/sennheiser_hd_800_s.0.0.png' width='700px' /><br/>
-Sonova, a Swiss company best known for its medical audio products like hearing aids and cochlear implants, is buying the consumer electronics division of German firm Sennheiser. That means Sonova is taking over Sennheiser's portfolio of consumer headphones, wireless earbuds, and soundbars, moving into an expanding market for personal audio equipment.
-<a href='https://www.theverge.com/2021/5/7/22424367/sonova-buys-sennheiser-consumer-business-headphones-soundbars'> Source <a/>

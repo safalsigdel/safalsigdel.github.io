@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zcFIjYmtZjTmU60_zaySA0Zg_Ek=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69258658/E0zpPE0XoAECxyP.0.jpeg' width='700px' /><br/>
+At least five of Tesla's competitors bought ad time during Saturday Night Live hosted by Elon Musk, using the billionaire's appearance to sell their own. non-Tesla EVs.
+<a href='https://www.theverge.com/2021/5/9/22426978/elon-musk-snl-electric-vehicle-commercials-tesla-saturday-night-live'> Source <a/>

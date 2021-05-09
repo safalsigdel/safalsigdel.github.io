@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-pKtpdgp1uB3cg8SYqpIIuWWF7o=/0x0:7543x5029/1200x800/filters:focal(3169x1912:4375x3118)/cdn.vox-cdn.com/uploads/chorus_image/image/69258636/1315232701.0.jpg' width='700px' /><br/>
+The 100-foot-tall, 22-metric-ton Chinese Long March 5B rocket that launched the first chunk of Beijing's new space station last month has reentered Earth's atmosphere near the Maldives, China's Manned Space Engineering Office reported.
+<a href='https://www.theverge.com/2021/5/9/22426968/chinese-rocket-re-entered-earth-atmosphere'> Source <a/>

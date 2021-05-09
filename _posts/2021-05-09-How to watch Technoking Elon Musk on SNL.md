@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LPi3524rN8ZsRQwbqYinCp-XvtE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69257111/acastro_180625_2689_Elon_Fans_0001.0.jpg' width='700px' /><br/>
+Tesla and SpaceX CEO Elon Musk is hosting Saturday Night Live this week. He's coming in fresh from Wednesday's successful Starship prototype landing but also on the heels of recent customer complaints about Tesla's Solar Roof costs and last month's deadly Tesla crash. If you have the desire to spend part of your Saturday finding out if the self-proclaimed Technoking makes a good comedy show host, here are the details.
+<a href='https://www.theverge.com/2021/5/8/22421504/elon-musk-snl-live-stream-start-time-how-to-watch'> Source <a/>

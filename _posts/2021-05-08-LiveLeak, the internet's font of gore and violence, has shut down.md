@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ta5o6d6-6OBDZQGHjdhv_cRrsDU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69250957/acastro_200915_1777_hacking_0001.0.jpg' width='700px' /><br/>
-Video site LiveLeak, best known for hosting gruesome footage that mainstream rivals wouldn't touch, has shut down after fifteen years in operation. In its place is “ItemFix,” a site that bans users from uploading media containing “excessive violence or gory content.”
-<a href='https://www.theverge.com/2021/5/7/22424356/liveleak-shock-site-shuts-down-itemfix'> Source <a/>
