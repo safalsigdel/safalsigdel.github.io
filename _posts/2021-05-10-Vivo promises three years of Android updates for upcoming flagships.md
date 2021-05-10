@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k6MYQR_lAoAE45oI_eMr38ORGLE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69261810/DSCF7692.0.jpg' width='700px' /><br/>
+Vivo's upcoming X-series flagship phones will receive three years of Android OS upgrades and security updates, the company announced today. The policy will come into force for phones launched after July 2021 in Europe, Australia, and India.
+<a href='https://www.theverge.com/2021/5/10/22428342/vivo-android-updates-three-years-x-series-phones-july-2021'> Source <a/>
