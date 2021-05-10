@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/grXTxk432JhAI_sh025JsU_gskw=/0x0:640x426/1200x800/filters:focal(269x162:371x264)/cdn.vox-cdn.com/uploads/chorus_image/image/69260571/simple_card.0.jpg' width='700px' /><br/>
+The online bank Simple shut down on Saturday and was supposed to seamlessly transition customers' accounts over to its parent company, BBVA. But instead, many users found themselves unable to access their bank account at all, as BBVA's website returned an assortment of error messages, from “system error” to warnings that their account information was mismatched.
+<a href='https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown'> Source <a/>

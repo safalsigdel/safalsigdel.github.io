@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F1Ptt2a5YX82HCxnQAOa-JvuWWc=/0x0:1175x647/1200x800/filters:focal(494x230:682x418)/cdn.vox-cdn.com/uploads/chorus_image/image/69259849/0.0.png' width='700px' /><br/>
+The champions of the first season of the Call of Duty League are being honored in a unique way: with their faces plastered at the stadium in Call of Duty: Warzone. Today, Activision revealed that the front entrance to Verdansk Stadium in Warzone will soon display a giant rendition of the CDL trophy, along with pennants featuring all five members of the Dallas Empire who were crowned champions for the 2020 season.
+<a href='https://www.theverge.com/2021/5/9/22424868/call-of-duty-league-cdl-warzone-verdansk-statue-champions'> Source <a/>

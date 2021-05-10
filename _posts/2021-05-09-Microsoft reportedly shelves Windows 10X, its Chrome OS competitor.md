@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RLF-_LgBNGptsfmvswzKW6Z51ts=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69252154/akrales_190930_3649_0349.0.jpg' width='700px' /><br/>
-Microsoft has been trying to build a lighter version of Windows for more than 10 years without success. The latest effort, Windows 10X, has reportedly now been shelved, in favor of improving Windows 10 instead.
-<a href='https://www.theverge.com/2021/5/7/22424700/microsoft-windows-10-x-canceled-rumors'> Source <a/>
