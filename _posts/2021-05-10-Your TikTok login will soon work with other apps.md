@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lTBgGeHTkMofSj-GDKpJkREQjzM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69252491/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-TikTok announced two new integrations for its app on Thursday: sharing audio back into TikTok using the new Sound Kit, and using your TikTok account to log in to other apps with Login Kit. Developers can apply to use the new SDKs to insert the short-form video app's content in even more places, but they may open the company and its users to new privacy concerns.
-<a href='https://www.theverge.com/2021/5/7/22422980/tiktok-log-in-sound-kit-app-integration-developers'> Source <a/>
