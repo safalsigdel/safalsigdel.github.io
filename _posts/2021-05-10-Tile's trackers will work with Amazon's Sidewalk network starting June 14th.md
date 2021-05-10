@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c0jKtlKHsjPs_KRt2OFWwRyjt7Y=/0x0:2490x1578/1200x800/filters:focal(1046x590:1444x988)/cdn.vox-cdn.com/uploads/chorus_image/image/69252704/Screen_Shot_2021_05_07_at_11.56.17_AM.0.png' width='700px' /><br/>
-Tile has announced that it'll be launching support for Amazon Sidewalk — the company's local, Bluetooth network — on June 14th, allowing Amazon's Echo devices to strengthen Tile's network.
-<a href='https://www.theverge.com/2021/5/7/22424837/tile-amazon-sidewalk-support-release-date-2021-bluetooth-tracking-airtags'> Source <a/>
