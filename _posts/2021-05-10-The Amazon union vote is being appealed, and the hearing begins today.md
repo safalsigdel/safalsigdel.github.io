@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dv-9hDEnE9OKTkMjr9OQTgtJPcM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69252170/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
-A new phase of the historic union vote by Amazon warehouse workers in Bessemer, Alabama begins today. The news kicks off with an appeals hearing where the Retail, Wholesale and Department Store Union (RWDSU) will contest the results of the election.
-<a href='https://www.theverge.com/2021/5/7/22423366/amazon-union-election-appeal-hearing'> Source <a/>
