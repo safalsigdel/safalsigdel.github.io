@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sx1d0y6Urx7xDugIXpIFWoBnsqM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69269624/acastro_190503_1777_samsung_0001.0.0.jpg' width='700px' /><br/>
+Samsung representatives won't show up in person to Mobile World Congress in Barcelona this year, according to a statement obtained by Reuters. The company says it has “made the decision to withdraw from exhibiting in-person” and will instead attend remotely to prioritize the health and safety of its customers and employees. Samsung has yet to announce what its remote presence will look like.
+<a href='https://www.theverge.com/2021/5/11/22430649/samsung-mobile-world-congress-mwc-barcelona-remote-covid'> Source <a/>
