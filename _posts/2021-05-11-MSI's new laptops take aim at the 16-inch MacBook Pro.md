@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LxLV7D8Q5tMUm47F_rnlm476Mc8=/0x0:9406x6271/1200x800/filters:focal(3951x2384:5455x3888)/cdn.vox-cdn.com/uploads/chorus_image/image/69267583/Pulse_GL76_GL66_Scenario_Photo_5.0.jpg' width='700px' /><br/>
+MSI has announced a number of gaming and creator laptops that include Intel's brand-new Tiger Lake H processors. The models will be available for purchase on May 16th.
+<a href='https://www.theverge.com/2021/5/11/22428828/msi-gaming-laptops-creator-z16-m16-ge76-gs66-prices-specs'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rtQcAW59jVLag-Ick6f2PaT288I=/0x0:3000x3000/1200x800/filters:focal(1260x1260:1740x1740)/cdn.vox-cdn.com/uploads/chorus_image/image/69267817/M16_04_bk.0.jpg' width='700px' /><br/>
+If you're wondering why every company under the sun has released new gaming laptops today, it's because Intel has announced its newest flagship mobile processors. They're the newest members of its 11th Gen “Tiger Lake H” series. Asus and Intel have announced the new Zephyrus M16, which will pair the chips with Nvidia's GeForce RTX 3000 GPUs (up to a 3070).
+<a href='https://www.theverge.com/2021/5/11/22425078/asus-intel-zephyrus-m16-gaming-laptop-tiger-lake-h-chips'> Source <a/>
