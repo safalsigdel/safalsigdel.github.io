@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ccgu257-cMQ4MhUXOfFwL8AeN9I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69255494/acastro_20200818_1777_epicApple_0002.0.0.jpg' width='700px' /><br/>
-Shortly before the Epic v. Apple trial, Epic Games made an interesting announcement: it would offer the indie game storefront Itch.io as an app on its own Epic Games Store. The Fortnite publisher was going to trial with the aim of making Apple offer competing app stores on its iPhone and iPad, so the move showed that Epic was willing to open up its own store in the same way.
-<a href='https://www.theverge.com/2021/5/7/22425759/epic-apple-trial-app-store-itch-io-offensive-sexualized-unspeakable-games-day-5'> Source <a/>

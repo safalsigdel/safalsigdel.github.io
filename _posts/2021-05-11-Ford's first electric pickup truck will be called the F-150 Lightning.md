@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cYwYNJVIs7wy9C58yvHs4rycj-Q=/0x0:7550x4247/1200x800/filters:focal(3171x1520:4379x2728)/cdn.vox-cdn.com/uploads/chorus_image/image/69263582/Lightning_16x9.0.jpg' width='700px' /><br/>
+Ford announced the name of its upcoming electric pickup truck: the F-150 Lightning. The new electric vehicle is set to debut on May 19th at an event held at the automaker's Dearborn, Michigan, headquarters. It will also be live-streamed.
+<a href='https://www.theverge.com/2021/5/10/22428653/ford-electric-pickup-truck-f150-lightning'> Source <a/>

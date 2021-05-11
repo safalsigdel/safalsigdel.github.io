@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VIwJvR_j4Z8CjZhCNnmnpbs9anM=/0x0:5554x3702/1200x800/filters:focal(1673x1876:2561x2764)/cdn.vox-cdn.com/uploads/chorus_image/image/69264420/1317302221.0.jpg' width='700px' /><br/>
+The group behind the ransomware that took down Colonial Pipeline late last week has apologized for the “social consequences,” claiming that its goal is to make money, not cause societal problems. The group is called DarkSide, and the FBI has confirmed that the group's malware was responsible for compromising one of the US's largest fuel pipelines.
+<a href='https://www.theverge.com/2021/5/10/22428996/colonial-pipeline-ransomware-attack-apology-investigation'> Source <a/>

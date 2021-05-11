@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EB7IVx1NAjdeiLf7wOQPgIGuzGw=/0x0:1043x696/1200x800/filters:focal(439x265:605x431)/cdn.vox-cdn.com/uploads/chorus_image/image/69255799/streamer_horizontal_media_2.0.jpg' width='700px' /><br/>
-Last May, TiVo attempted to muscle in on Roku and Amazon with an HDMI streaming dongle of its own — the $70 TiVo Stream 4K, which traded in the company's traditional live TV + DVR functionality for the likes of Sling TV, Netflix, HBO and YouTube. It now appears that attempt was so unsuccessful, the company's planning to abandon its Android TV dongle efforts entirely.
-<a href='https://www.theverge.com/2021/5/8/22425753/tivo-stream-4k-dongle-android-tv-no-more-jon-kirchner'> Source <a/>

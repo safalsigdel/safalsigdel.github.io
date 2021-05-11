@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jx5sH_IJKxel5gheryxZbdiIZmc=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/69253158/acastro_180510_1777_google_assistant_0001.0.0.jpg' width='700px' /><br/>
-Many of us are excited that COVID-19 vaccines are now widely available in the US, and it seems like Google Assistant is joining in. In fact, it's got a song to share about it (via Android Police).
-<a href='https://www.theverge.com/2021/5/7/22424917/google-assistant-vaccine-song-covid'> Source <a/>

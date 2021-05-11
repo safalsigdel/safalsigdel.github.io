@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bMVqWYxw0rt98HA7xqiRdPAgxrA=/0x0:1920x1080/1200x800/filters:focal(793x393:1099x699)/cdn.vox-cdn.com/uploads/chorus_image/image/69264428/E1C5TYUWEAo0YiK.0.jpeg' width='700px' /><br/>
+Facebook has announced on Twitter that it will start testing a pop-up that asks users if they're sure they want to share an article that they haven't opened. The pop-up will prompt users to read the article, but they can also choose to continue sharing it if they want. A Facebook spokesperson said the test would be rolled out to 6 percent of Android users worldwide.
+<a href='https://www.theverge.com/2021/5/10/22429174/facebook-article-popup-read-misinformation'> Source <a/>

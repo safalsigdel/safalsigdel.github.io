@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BRSAM9ENVLMgRBrv0PkNwr6PPeY=/0x0:1231x570/1200x800/filters:focal(518x187:714x383)/cdn.vox-cdn.com/uploads/chorus_image/image/69257257/falcon_blue_screen.0.jpg' width='700px' /><br/>
-Now that The Falcon and the Winter Soldier has wrapped and we're still a few weeks away from the debut of Loki, Marvel has released a behind-the-scenes video on its YouTube channel detailing the CGI effects that made it look like Sam Wilson (Anthony Mackie) was flying through the air as Falcon [minor spoilers ahead if you haven't watched the show yet].
-<a href='https://www.theverge.com/2021/5/8/22426341/marvel-disney-fx-falcon-winter-soldier-effects'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1TUmUnL0Ix83bJt4CgupGSDMRlM=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/69264341/harley_davidson_livewire_2497.0.jpg' width='700px' /><br/>
+LiveWire, the first electric motorcycle from Harley-Davidson, will now become its own standalone brand. The Milwaukee-based company announced that it would be spinning out its electric motorcycle division as its own company with a distinct lineup and a tailored retail experience. Harley-Davidson plans to unveil the “first LiveWire branded motorcycle” on July 8th to coincide with the International Motorcycle Show.
+<a href='https://www.theverge.com/2021/5/10/22428750/harley-davidson-livewire-electric-motorcycle-brand'> Source <a/>

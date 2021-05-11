@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XGLdaEKsI6DrKQv-kWAHKI282FU=/0x0:1660x938/1200x800/filters:focal(722x159:986x423)/cdn.vox-cdn.com/uploads/chorus_image/image/69258721/Screen_Shot_2021_05_08_at_9.24.43_PM.0.png' width='700px' /><br/>
-While Elon Musk hosted Saturday Night Live, Dogecoin investors sold. When SNL first went live, the cryptocurrency hovered around 69 cents (nice). But as the show wore on, the price dropped. As of this writing, it is worth 56 cents, an 18 percent plunge.
-<a href='https://www.theverge.com/2021/5/9/22427006/dogecoin-crashing-elon-musk-snl-host'> Source <a/>

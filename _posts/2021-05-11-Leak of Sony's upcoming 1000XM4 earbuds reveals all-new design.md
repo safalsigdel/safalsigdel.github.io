@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_o5giVcjiBCJCwq8GxtEPgVx-SM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69263400/cwelch_190702_3528_0001.0.jpg' width='700px' /><br/>
+Sony is nearing the release of its next set of noise-canceling true wireless earbuds, according to a post at The Walkman Blog. There are images of the WF-1000XM4 from pretty much every angle, and they line up with an initial leak back in February.
+<a href='https://www.theverge.com/2021/5/10/22428676/sony-1000xm4-earbuds-leak'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nFT-Yr9jjcCREDCSeaDCYRpwNb0=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69256609/608064478.0.jpg' width='700px' /><br/>
-One of the largest pipelines in the US has been taken offline by its operator following a cyberattack. First reported by the New York Times, Colonial Pipeline, which carries 45 percent of the fuel supplies for the eastern US, said in a statement late Friday that it took “certain systems offline to contain the threat, which has temporarily halted all pipeline operations and affected some of our IT systems.”
-<a href='https://www.theverge.com/2021/5/8/22426158/cyberattack-forces-shutdown-major-us-fuel-colonial-pipeline'> Source <a/>
