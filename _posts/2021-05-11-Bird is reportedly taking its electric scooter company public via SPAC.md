@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vpAHwv_bHsaSqYGpePLJ39jPVPw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69263774/vpavic_190730_3572_0055.0.jpg' width='700px' /><br/>
-Bird, the electric scooter company that helped launch the global micromobility boom, is planning to go public via a reverse merger with a special acquisition company, or SPAC, according to dot.LA. Bird is merging with Switchback II Corporation, a Dallas-based “blank check” company focusing on companies reducing carbon emissions, according to documents reviewed by the website.
-<a href='https://www.theverge.com/2021/5/10/22428864/bird-electric-scooter-spac-public-valuation'> Source <a/>
