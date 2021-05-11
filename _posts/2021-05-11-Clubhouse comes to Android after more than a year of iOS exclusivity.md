@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WS5CExSzlgcAXbKcrm9VQSL-1To=/0x0:4096x2000/1200x800/filters:focal(1721x673:2375x1327)/cdn.vox-cdn.com/uploads/chorus_image/image/69259743/clubhouse_graphic.0.png' width='700px' /><br/>
-After more than a year of iOS exclusivity, social audio platform Clubhouse is releasing its Android app. It will be available in beta on Google's mobile OS today in the US, allowing users to sign up and participate in its audio-only chat rooms.
-<a href='https://www.theverge.com/2021/5/9/22424399/clubhouse-android-app-release-date-news-features'> Source <a/>
