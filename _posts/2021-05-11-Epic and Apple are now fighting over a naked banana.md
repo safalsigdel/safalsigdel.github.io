@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mk9SLCf499_2s0SJg-WaFU2UgOU=/0x0:1552x901/1200x800/filters:focal(516x205:764x453)/cdn.vox-cdn.com/uploads/chorus_image/image/69266449/Fortnite_20200221130836.0.jpg' width='700px' /><br/>
-As the trial for Epic v. Apple entered its second week, both parties took a break from antitrust law to argue over whether bananas should wear clothes in court.
-<a href='https://www.theverge.com/2021/5/10/22429267/epic-v-apple-fortnite-app-store-trial-peely-day-6'> Source <a/>

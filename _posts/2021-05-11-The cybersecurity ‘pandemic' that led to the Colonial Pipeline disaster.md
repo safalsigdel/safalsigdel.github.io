@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6D7ScdwLjfWRmL2em9qDgdN2sF0=/0x0:5808x3872/1200x800/filters:focal(2440x1472:3368x2400)/cdn.vox-cdn.com/uploads/chorus_image/image/69265849/1317302232.0.jpg' width='700px' /><br/>
-The cyberattack that forced the Colonial Pipeline offline is just one failure to address existing weaknesses and an escalating “ransomware pandemic,” experts tell The Verge. That leaves the nation's energy infrastructure especially vulnerable, even though there are basic steps that could have been taken to prevent the crisis that's unfolding now.
-<a href='https://www.theverge.com/2021/5/10/22429433/colonial-pipeline-cyber-security-ransomware-attack'> Source <a/>

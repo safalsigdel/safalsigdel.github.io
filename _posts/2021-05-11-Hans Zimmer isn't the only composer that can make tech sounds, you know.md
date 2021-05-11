@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Today I learned that Hans Zimmer, known for his brilliant scores for movies such as Inception, Pirates of the Caribbean, and The Lion King, has also composed driving sounds for BMW. And they're actually pretty good!
-<a href='https://www.theverge.com/tldr/2021/5/10/22429697/hans-zimmer-bmw-car-driving-noise-other-comporsers'> Source <a/>
