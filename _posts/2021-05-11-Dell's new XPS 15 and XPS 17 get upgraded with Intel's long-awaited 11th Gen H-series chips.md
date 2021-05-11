@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SmhrN9bCxVOhDKPx7RdZImIfifU=/0x0:2560x1600/1200x800/filters:focal(1076x596:1484x1004)/cdn.vox-cdn.com/uploads/chorus_image/image/69267550/dell_xps_17_familiar.0.jpg' width='700px' /><br/>
-Intel has just announced its new 11th Gen processors for more powerful laptops, and Dell is ready with refreshed versions of its XPS 15 and XPS 17 laptops that add the new chips, along with Nvidia's latest RTX 30-series laptop GPUs.
-<a href='https://www.theverge.com/2021/5/11/22428917/dell-xps-15-17-refresh-update-intel-chips-10nm-nvidia-gpu'> Source <a/>
