@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NPWqLlCzaLfiOeKzT4855jm2oa8=/0x0:2208x1472/1200x675/filters:focal(928x560:1280x912)/cdn.vox-cdn.com/uploads/chorus_image/image/69268435/razerblade15advancedmid2021_2.0.jpg' width='700px' /><br/>
+Intel is adding new processors to its 11th Gen Core H-series lineup today, and over half a dozen laptop manufacturers are announcing new machines that make use of them. In total, there are 10 new Tiger Lake-H processors being announced today, including five consumer processors and five commercial processors, with between six and eight cores. Here's our full writeup on the chips themselves.
+<a href='https://www.theverge.com/2021/5/11/22429412/intel-11th-gen-h-series-laptops'> Source <a/>
