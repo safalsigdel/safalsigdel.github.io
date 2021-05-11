@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_-ObQBTBhk-kv_J0VXvA39rJ1I0=/0x0:823x606/1200x800/filters:focal(347x238:477x368)/cdn.vox-cdn.com/uploads/chorus_image/image/69269708/Screen_Shot_2021_05_11_at_12.10.55_PM.0.png' width='700px' /><br/>
+Bose announced today that it will begin selling direct-to-consumer SoundControl hearing aids for adults with mild to moderate hearing loss on May 18th. They'll cost $849.95 and will be sold directly by Bose in five states — Massachusetts, Montana, North Carolina, South Carolina, and Texas — before they're available nationally.
+<a href='https://www.theverge.com/2021/5/11/22430485/bose-soundcontrol-hearing-aid-fda-cleared'> Source <a/>
