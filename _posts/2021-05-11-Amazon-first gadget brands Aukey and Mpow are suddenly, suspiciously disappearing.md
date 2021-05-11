@@ -1,7 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/kiVZ7vgbVjRl6zBcrOQ44lHZeAk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69265837/acastro_181114_1777_amazon_hq2_0003.0.jpg' width='700px' /><br/>
 Many Amazon listings for two major electronics sellers have mysteriously disappeared as of Monday afternoon, and it's unclear exactly what might be going on.
-<a href='https://www.theverge.com/2021/5/10/22428858/amazon-aukey-mpow-listings-disappearing'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/kiVZ7vgbVjRl6zBcrOQ44lHZeAk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69265837/acastro_181114_1777_amazon_hq2_0003.0.jpg' width='700px' /><br/>
-Many Amazon listings for two major electronics sellers have mysteriously disappeared as of Monday afternoon, and it's unclear exactly what might be going on.
-<a href='https://www.theverge.com/2021/5/10/22428858/amazon-aukey-mpow-listings-disappearing'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/kiVZ7vgbVjRl6zBcrOQ44lHZeAk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69265837/acastro_181114_1777_amazon_hq2_0003.0.jpg' width='700px' /><br/>
-Many Amazon listings for two major electronics sellers have mysteriously disappeared as of Monday afternoon, and it's unclear exactly what might be going on.
 <a href='https://www.theverge.com/2021/5/10/22428858/amazon-aukey-mpow-listings-disappearing'> Source <a/>
