@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ui65SwfyyAkOnJ2LtXdw0pIdeyE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69261765/vpavic_4278_20201030_0206.0.jpg' width='700px' /><br/>
-Sony doesn't expect the PlayStation 5 supply situation to improve any time soon, according to comments its CFO reportedly made to analysts following the company's recent earnings report. Hiroki Totoki said that it's difficult for Sony to keep up with demand for the PS5, according to Bloomberg, and that the situation is likely to continue into 2022.
-<a href='https://www.theverge.com/2021/5/10/22428322/sony-ps5-supply-constraints-2022-hiroki-totoki'> Source <a/>

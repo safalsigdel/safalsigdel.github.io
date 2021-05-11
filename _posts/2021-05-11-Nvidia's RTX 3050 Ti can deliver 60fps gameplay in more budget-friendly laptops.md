@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xkikNvJCrezX29n_nASzPeuMCl0=/0x0:2048x1366/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/69267546/rtx3050lead.0.jpg' width='700px' /><br/>
+Nvidia's RTX 30-series lineup of mobile graphics chips has two new members joining today: the GeForce RTX 3050 Ti and 3050. They sit beneath the GeForce RTX 3060 in terms of specs and performance, with less video memory (4GB) and fewer dedicated Tensor AI and RT cores available to perform ray tracing and handle AI-enhanced effects like DLSS.
+<a href='https://www.theverge.com/2021/5/11/22423474/nvidia-rtx-3050-ti-60fps-gaming-laptops-features-specs-performance-price'> Source <a/>

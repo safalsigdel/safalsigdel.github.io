@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y1R7qtEksyQ27eIQ3e6VaA4HfmU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69267545/zbookstudiog8lead.0.jpg' width='700px' /><br/>
+HP's ZBook workstations are designed primarily with creators and enterprise users in mind. Two of the three new ZBook G8 laptops announced today — the ZBook Fury G8 and the Power G8 — should serve those crowds nicely. But the 15.6-inch Studio G8 is the oddball of the group for a very obvious reason, and I love it so much. It's a work laptop, yet it has an RGB-backlit keyboard.
+<a href='https://www.theverge.com/2021/5/11/22428900/hp-zbook-studio-g8-workstation-laptop-gaming-nvidia-rtx-3080-intel-core-i9-h-series'> Source <a/>
