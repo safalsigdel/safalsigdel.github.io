@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BkbN0fYvf7UPChvg8TNh2WXuz1A=/0x0:2764x1843/1200x800/filters:focal(1161x701:1603x1143)/cdn.vox-cdn.com/uploads/chorus_image/image/69267928/steelseriesrival3.0.jpg' width='700px' /><br/>
+SteelSeries has debuted its Rival 5 wired, right-handed gaming mouse that is available right now for $59.99. From a distance, the Rival 5 looks similar to the modular Rival 600, but this is a simpler and slightly more ergonomically friendly mouse. The overall shape of the device seems to have a softer curve, making it fit a little more comfortably for palm or fingertip grip users.
+<a href='https://www.theverge.com/2021/5/11/22428555/steelseries-rival-5-wired-gaming-mouse-price-specs'> Source <a/>

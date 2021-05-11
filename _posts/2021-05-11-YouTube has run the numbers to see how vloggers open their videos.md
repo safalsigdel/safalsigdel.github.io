@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YtF4AvLJS6yal5r7OaNtEjZtuXk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69264133/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
-YouTube has run the numbers and discovered what greeting its vloggers most use to open videos: “Hey, guys.” Those findings may not be surprising if you've watched a lot of YouTube, but the report actually shows a lot more, including what the runners-up are, how greetings have changed in popularity over time, and how video genre affects the most common openings. Let's just jump into it!
-<a href='https://www.theverge.com/2021/5/10/22428903/youtube-vlogger-greetings-hey-guys-language-analysis'> Source <a/>
