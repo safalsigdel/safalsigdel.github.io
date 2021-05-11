@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w27x_MaIKF-_wpwK_HBQ5_OWOD0=/0x0:2040x1360/1200x800/filters:focal(889x252:1215x578)/cdn.vox-cdn.com/uploads/chorus_image/image/69264432/vpavic_4291_20201113_0366.0.0.jpg' width='700px' /><br/>
-Several Apple suppliers may have used forced labor in China, according to The Information. Working with two human rights groups, the publication identified seven companies that supplied products or services to Apple and supported forced labor programs, according to statements made by the Chinese government. The programs target the country's Muslim minority population, particularly Uyghurs living in Xinjiang.
-<a href='https://www.theverge.com/2021/5/10/22428899/apple-suppliers-china-uyghur-forced-labor-report'> Source <a/>
