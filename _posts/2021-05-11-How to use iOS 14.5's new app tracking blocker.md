@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3SrW87OZnP5ipnbwKnSJd2x_uDA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69187118/vpavic_4279_20201108_0321.0.jpg' width='700px' /><br/>
-Privacy is on everyone's mind these days, and in iOS 14.5, which is starting to roll out to the public today, there are new privacy features that may make you feel happier but are not endearing Apple to some other companies — specifically Facebook.
-<a href='https://www.theverge.com/22403523/ios-14-5-tracking-consent-app-transparency-how-to'> Source <a/>
