@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cfrJVVsJ0kRf4cRuHsta_emIH4A=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69267982/VRG_ILLO_4577_Decoder_Kate_Klonick_s.0.jpg' width='700px' /><br/>
+Today we're focused on one of the most complicated problems of all: content moderation. If you've kept up with Decoder, you know that content moderation seems to come up almost every week — the question of how platform companies decide what to leave up and what to take down is messy, controversial, and extremely political.
+<a href='https://www.theverge.com/22428768/facebook-oversight-board-trump-ban-kate-klonick-interview'> Source <a/>
