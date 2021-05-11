@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cCsZgp9CrpAoXuSTUKveBKhDhVs=/0x0:1920x1080/1200x800/filters:focal(260x376:566x682)/cdn.vox-cdn.com/uploads/chorus_image/image/69267345/Reveal_of_Name_Landscape_4_KV_Bird.0.png' width='700px' /><br/>
+Nothing, the tech startup from ex-OnePlus co-founder Carl Pei, will reveal its debut pair of true wireless earbuds this June. The company says the earbuds will be called Ear 1, but it's staying tight-lipped about other details like their specs, price, and final design. However, an illustration released alongside today's blog post shows what appears to be a silhouette of the earbuds with a rather lengthy stem.
+<a href='https://www.theverge.com/2021/5/11/22428397/nothing-ear-1-true-wireless-earbuds-launch-carl-pei'> Source <a/>
