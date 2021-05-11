@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s5_xoxchyGE9Djji8rxYc1JrXa0=/0x0:6640x3731/1200x800/filters:focal(2789x1335:3851x2397)/cdn.vox-cdn.com/uploads/chorus_image/image/69269168/VIVE_Pro_2___front_right.0.jpg' width='700px' /><br/>
+HTC has unveiled the new Vive Pro 2, an update to its high-end virtual reality headset that adds a host of small but worthwhile improvements.
+<a href='https://www.theverge.com/2021/5/11/22428603/htc-vive-pro-2-release-date-pre-order-price-specs'> Source <a/>
