@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/byQLJTeHW0L3Xxou_55CuJ46ISU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69269085/acastro_20200818_1777_epicApple_0002.0.0.jpg' width='700px' /><br/>
-Epic Games has been trying to convince Sony, Microsoft, and other publishers to bring their titles to the Epic Games Store and is willing to spend millions to do so.
-<a href='https://www.theverge.com/2021/5/11/22424596/epic-games-store-sony-playstation-pc-games-steam-competition'> Source <a/>
