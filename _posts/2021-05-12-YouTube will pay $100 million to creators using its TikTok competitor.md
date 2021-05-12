@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NXDbR6TxP5M5111JRQ6mdldQ2Ow=/0x0:4332x2889/1200x800/filters:focal(1820x1099:2512x1791)/cdn.vox-cdn.com/uploads/chorus_image/image/69269170/youtube_shorts_beta.0.jpg' width='700px' /><br/>
-YouTube plans to pay $100 million to creators who use YouTube Shorts, its TikTok competitor, throughout the next year. The goal is to encourage creators to pick up and continually post to its new service, which doesn't otherwise give creators a built-in way to make money.
-<a href='https://www.theverge.com/2021/5/11/22429350/youtube-shorts-fund-video-payments-tiktok-competitor'> Source <a/>
