@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iZZeqo1PZq9GudtRFSYDXCnloTU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69272384/destiny_shadowkeep_2.0.png' width='700px' /><br/>
+Some Destiny 2 players have been able to play with people on other platforms after developer Bungie inadvertently switched the feature on. Bungie previously said that crossplay would be coming in fall 2021 for every platform that the game is available on, including PC, PS4/5, Xbox One, Xbox Series X/S, and Google Stadia.
+<a href='https://www.theverge.com/2021/5/11/22431683/destiny-2-crossplay-released-accidentally-stadia-pc'> Source <a/>

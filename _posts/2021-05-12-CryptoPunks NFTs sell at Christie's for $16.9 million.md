@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q6DqmeaQsLmOvvPJCmM_jPaa7BI=/0x0:1049x655/1200x800/filters:focal(442x245:608x411)/cdn.vox-cdn.com/uploads/chorus_image/image/69272051/cryptopunks_9_punks_larva_labs_nfts_at_christies_new_rvs_0409.0.jpg' width='700px' /><br/>
+Another huge NFT sale was made at Christie's tonight: a collection of nine CryptoPunks was purchased for $16.9 million. It's likely the second-largest NFT purchases ever made, behind Beeple's $69 million sale in March (though with the notable caveat that this sale included nine separate works).
+<a href='https://www.theverge.com/2021/5/11/22430254/cryptopunks-christies-sale-larva-labs'> Source <a/>

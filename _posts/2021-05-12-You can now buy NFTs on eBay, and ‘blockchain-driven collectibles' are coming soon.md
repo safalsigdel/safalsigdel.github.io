@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xqPbCIUBHGoRegLyWqZUppyd03A=/0x0:1020x681/1200x800/filters:focal(429x260:591x422)/cdn.vox-cdn.com/uploads/chorus_image/image/69270086/ebay-logo-stock_1020.0.jpg' width='700px' /><br/>
+eBay is now allowing NFTs to be sold on its platform, making the digital collectibles available side by side with physical ones. Whether you're looking for a physical Dogecoin replica or a digital representation of Elon Musk holding Doge, eBay is apparently now the place to get both.
+<a href='https://www.theverge.com/2021/5/11/22430827/ebay-nft-collectibles-blockchain-sale'> Source <a/>

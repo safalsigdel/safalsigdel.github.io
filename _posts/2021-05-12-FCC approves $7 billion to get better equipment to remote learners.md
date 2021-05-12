@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tMPdtf2o2I8KDlk5Y36qUOhp4hg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69272198/acastro__171016_1777_0001_v4.0.jpg' width='700px' /><br/>
+The FCC has approved $7.17 billion in funding to help students, school staff, and library patrons access hotspots and connected devices to use at home. The Emergency Connectivity Fund Program will allow schools and libraries to purchase equipment to be used off-site — and to get reimbursement for equipment already purchased to address remote learning needs during the pandemic.
+<a href='https://www.theverge.com/2021/5/11/22431504/fcc-emergency-connectivity-fund-schools-libraries-students'> Source <a/>

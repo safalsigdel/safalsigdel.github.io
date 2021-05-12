@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Yu7TA-zmWPtL5wgFjZRGiW7TQKw=/0x0:2040x1360/1200x675/filters:focal(870x603:1196x929)/cdn.vox-cdn.com/uploads/chorus_image/image/69269958/akrales_20210503_4515_0071.0.jpg' width='700px' /><br/>
+The Acer ConceptD 7 Ezel is a computer I will never own. But I really, really wish I could.
+<a href='https://www.theverge.com/22430445/acer-conceptd-7-ezel-2021-review'> Source <a/>

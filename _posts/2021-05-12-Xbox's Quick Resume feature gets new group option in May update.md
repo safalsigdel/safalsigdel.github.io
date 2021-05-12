@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ozCk0J8aF0gp9XnDwfk1ecHp8_c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69269386/acastro_190530_1777_xbox_0002.0.0.jpg' width='700px' /><br/>
+The Xbox Series X / S's handy Quick Resume feature, which suspends supported games so that they boot up more quickly when you come back to them later, is getting some nice improvements in the May Xbox update.
+<a href='https://www.theverge.com/2021/5/11/22430549/xbox-update-may-quick-resume-saved-audio-passthrough'> Source <a/>

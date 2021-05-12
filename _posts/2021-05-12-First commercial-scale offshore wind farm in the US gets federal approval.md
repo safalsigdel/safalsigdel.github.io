@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R3TUJFkuRANx8tGT5__gL8NWGSc=/0x0:2190x1312/1200x800/filters:focal(920x481:1270x831)/cdn.vox-cdn.com/uploads/chorus_image/image/69271109/1316070124.0.jpg' width='700px' /><br/>
+The first commercial-scale offshore wind project in the US just got the green light from the Biden administration. The approval has the potential to dramatically grow the nation's wind energy sector after years of regulatory limbo for proposed offshore projects.
+<a href='https://www.theverge.com/2021/5/11/22430981/offshore-wind-farm-commercial-scale-federal-approval-vineyard-wind-massachusetts'> Source <a/>

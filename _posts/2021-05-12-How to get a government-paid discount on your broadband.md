@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HWAAQ9PScdzbAVIH2rU7knU8u40=/0x0:1200x630/1200x800/filters:focal(282x193:474x385)/cdn.vox-cdn.com/uploads/chorus_image/image/69270447/EBB_Program_Social_Media_Post_Images_Option1_Telehealth1.0.jpg' width='700px' /><br/>
+The past year, a lot of people were laid off or otherwise unable to pay for basic necessities. So the stimulus package passed by Congress in December included a provision to pay for broadband and other basic tech for those who, because of job loss or other financial difficulties, can't afford to pay for it on their own. And starting this week, if you qualify, you can take advantage of it.
+<a href='https://www.theverge.com/22430529/emergency-broadband-benefit-program-how-to-get'> Source <a/>

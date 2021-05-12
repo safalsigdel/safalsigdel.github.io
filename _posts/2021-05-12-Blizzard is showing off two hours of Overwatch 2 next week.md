@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k615_j2YU5i2yEi22IXYMJ2h7sw=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69269902/blizzconline_toronto_03.0.png' width='700px' /><br/>
+Blizzard has been relatively quiet of late when it comes to Overwatch 2. The developer teased some new character designs in February at Blizzcon, but there hasn't been much news about the core game. It looks like that's about to change, though: on May 20th, Blizzard will hold a two-hour-long live stream focused on the player-versus-player elements of Overwatch's sequel.
+<a href='https://www.theverge.com/2021/5/11/22430644/blizzard-overwatch-2-livestream-twitch-youtube'> Source <a/>

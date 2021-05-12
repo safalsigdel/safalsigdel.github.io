@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WS7uBIEvIokL0yv7gywnLdtennI=/0x0:4000x2670/1200x800/filters:focal(1680x1015:2320x1655)/cdn.vox-cdn.com/uploads/chorus_image/image/69270428/1230448031.0.jpg' width='700px' /><br/>
+Instacart is shifting to a primarily remote-first workplace, but employees say the company has arbitrarily chosen which teams have to come into the office in a way that hurts junior employees. Workers on the central operations team — which includes logistics and trust and safety — have been told they need to return to the San Francisco office three days a week starting in September and were not given a clear reason why.
+<a href='https://www.theverge.com/2021/5/11/22429690/instacart-remote-work-policy-office-reopen-coronavirus-pandemic'> Source <a/>
