@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/87s4cZ_WefTsRyf42zIKDuR0Bkc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69269826/vpavic_4275_20201030_0050.0.jpg' width='700px' /><br/>
-Microsoft is introducing a new “Console Purchase Pilot” program that will give selected Xbox Insider members the chance to register to reserve an Xbox Series X or Series S console directly from the company through their existing Xbox One consoles.
-<a href='https://www.theverge.com/2021/5/11/22430807/microsoft-xbox-series-x-s-xbox-insider-members-pilot-program-scalpers'> Source <a/>
