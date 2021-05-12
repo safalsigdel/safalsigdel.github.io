@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pob361N_kB5_mSmz_u3J0TVwUnI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69272574/ngarun_181114_1777_amazon_0003.0.jpg' width='700px' /><br/>
-Ever get a text message informing you that you've won a prize — from Amazon itself? I certainly have, and I've even known a person or two who fell for those scams. Now, Amazon is attempting to hunt those scammers down, with a new lawsuit aimed at unmasking 50 unknown defendants in federal court.
-<a href='https://www.theverge.com/2021/5/12/22431451/amazon-raffle-scam-lawsuit-text-messages'> Source <a/>

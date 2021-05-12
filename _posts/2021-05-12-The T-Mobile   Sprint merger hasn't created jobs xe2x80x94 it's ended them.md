@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/conZPoyg_zDrI9TqmnBvXidgc8o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69271586/acasatro_180430_1777_sprint_Tmobile_0004.0.jpg' width='700px' /><br/>
-T-Mobile promised its $26 billion merger with Sprint would add new jobs to the economy literally every single day, but a report from The Wall Street Journal confirms the newly combined company actually employs fewer people now than it did before the merger.
-<a href='https://www.theverge.com/2021/5/11/22429587/t-mobile-sprint-merge-jobs-promise-pandemic'> Source <a/>
