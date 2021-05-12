@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E9x5cXxb48_omidZdLIjIJuJxZ4=/0x0:3218x2146/1200x800/filters:focal(1352x816:1866x1330)/cdn.vox-cdn.com/uploads/chorus_image/image/69267573/razerblade15advancedmid2021.0.jpg' width='700px' /><br/>
-Razer has just announced new versions of its Blade 15 workhorse gaming laptop, complete with some of the biggest changes to the lineup in some time.
-<a href='https://www.theverge.com/2021/5/11/22428604/razer-blade-15-gaming-laptop-mid-2021-intel-h-series-nvidia-rtx-3080-thin-15-inch-specs'> Source <a/>
