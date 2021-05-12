@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SvC4MuCwAv1FnTdbZMe7MbDO85o=/0x0:2040x1360/1200x675/filters:focal(735x638:1061x964)/cdn.vox-cdn.com/uploads/chorus_image/image/69273383/mchin_20190730_4573_0011.0.jpg' width='700px' /><br/>
+Recently, I've reviewed a large number of Chromebooks aimed at students. They are a target market for many manufacturers, due both to the dominance of Google Classroom across many different grade levels and also to Chromebooks' affordable price tags (compared to similar Windows and macOS machines).
+<a href='https://www.theverge.com/22424783/lenovo-thinkpad-c13-yoga-review-price-specs-features-amd'> Source <a/>
