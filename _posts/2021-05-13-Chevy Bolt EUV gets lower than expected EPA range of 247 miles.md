@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SlmZlrxXkyIghIZF7dNqAGCpq40=/0x0:1280x853/1200x800/filters:focal(538x325:742x529)/cdn.vox-cdn.com/uploads/chorus_image/image/69276002/2022_Chevrolet_BoltEUV_007.0.jpg' width='700px' /><br/>
+The Environmental Protection Agency (EPA) says the new “EUV” version of the 2022 Chevy Bolt will travel an average of 247 miles on a full battery pack — three miles shy of the estimate General Motors provided when the vehicle was announced in February. The updated version of the existing Bolt, meanwhile, will top out at 259 miles, which is exactly what GM had predicted.
+<a href='https://www.theverge.com/2021/5/12/22432649/2022-chevy-bolt-euv-epa-range-rating'> Source <a/>
