@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+We're in a relatively quiet period for Switch releases while we wait for Skyward Sword's remaster to release in July. Thankfully, today marks the arrival of a new $10 calculator app on Nintendo's console, which should stop your machine from gathering too much dust over the coming months. Hell yeah. Math.
+<a href='https://www.theverge.com/tldr/2021/5/12/22432014/nintendo-switch-calculator-app-math'> Source <a/>
