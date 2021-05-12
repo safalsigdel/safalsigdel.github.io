@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Vu07KVvSNXQqNoF8icFtPavF9HA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69269573/acastro_190402_3308_Guide_TikTok_0001.0.jpg' width='700px' /><br/>
-TikTok's next move to compete with Facebook might be to add an in-app shopping feature, according to a new report from Bloomberg. The publication writes that TikTok is testing in-app sales in Europe by partnering with several brands, including UK-based streetwear company Hype.
-<a href='https://www.theverge.com/2021/5/11/22430513/tiktok-in-app-shopping-instagram-facebook-europe-test'> Source <a/>

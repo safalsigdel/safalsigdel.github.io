@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tmAD-ZjLfoIiUZxFlVL-ouKLA-c=/0x0:1200x630/1200x800/filters:focal(504x219:696x411)/cdn.vox-cdn.com/uploads/chorus_image/image/69267539/nvidia_broadcast_app_announcement_gf_lp_og_1200x627.0.jpg' width='700px' /><br/>
-After 17 years, billions of newly hatched cicada nymphs are burrowing up from their earthen lairs right now to party. They will molt, sing, and mate like a society emerging from pandemic with a biological drive to preserve the species. It's going to get messy and it's going to get loud... unless you're using Nvidia Broadcast which is being updated to filter out the sound of cicadas.
-<a href='https://www.theverge.com/2021/5/11/22430106/nvidia-broadcast-1-2-update-noise-removal-cicadas-pets'> Source <a/>

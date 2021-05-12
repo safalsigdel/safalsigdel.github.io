@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vOsxsJD-FDwZX7X5yP-vsxq93Pc=/0x0:5750x3624/1200x800/filters:focal(2415x1352:3335x2272)/cdn.vox-cdn.com/uploads/chorus_image/image/69267549/TGL_h45_ANG05_16_V01_SHADOW.10.png' width='700px' /><br/>
-Intel has added five consumer processors and five commercial processors to its 11th Gen Core H-series generation (codenamed “Tiger Lake-H”). Both groups include three eight-core chips and two six-core chips. All of the parts are 35W, save the flagship Core i9-11980HK, which is clocked at 65W. You'll see them in over 30 upcoming ultraportables (laptops 20mm or thinner) and over 80 workstations.
-<a href='https://www.theverge.com/2021/5/11/22423545/intel-tiger-lake-h-mobile-processors-11th-gen-laptops'> Source <a/>
