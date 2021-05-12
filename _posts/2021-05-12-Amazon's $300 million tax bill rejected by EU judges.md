@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/3Snvm3vCEnD7kuPQXmg5eKMeAQo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69272839/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
 Judges from the European Union's second-highest court have rejected a xe2x82xac250 million ($300 million) tax bill lodged against Amazon in 2017 as part the bloc's ongoing fight against US tech giants.
-<a href='https://www.theverge.com/2021/5/12/22431855/eu-amazon-back-tax-antitrust-ruling-annulled'> Source <a/>
+<a href='https://www.theverge.com/2021/5/12/22431855/eu-amazon-back-tax-ruling-annulled'> Source <a/>
