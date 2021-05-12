@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oIfQ08-W-PQV5mpeqrJuLWroFlg=/0x0:2129x1088/1200x800/filters:focal(895x374:1235x714)/cdn.vox-cdn.com/uploads/chorus_image/image/69269557/matter.0.png' width='700px' /><br/>
+Project Connected Home over IP (CHIP) — the ambitious smart home partnership that will see Amazon, Apple, Google, Samsung, the Zigbee Alliance, and dozens of other companies work together on an open standard — has gotten a new name: Matter.
+<a href='https://www.theverge.com/2021/5/11/22430666/matter-project-chip-smart-home-partnership-apple-amazon-google-zigbee'> Source <a/>
