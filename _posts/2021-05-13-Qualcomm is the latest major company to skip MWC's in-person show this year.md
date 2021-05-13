@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EegsFGXthYPC-wDLd1aBi4UoSIo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69280918/acastro_180529_1777_qualcomm_0001.0.0.jpg' width='700px' /><br/>
+Qualcomm has announced that it will skip Mobile World Congress' in-person show in Barcelona this year, making it the latest major company to announce that it will miss the potential COVID-19 superspreader event in June in favor of an online presence at the show.
+<a href='https://www.theverge.com/2021/5/13/22434223/qualcomm-mwc-2021-skipping-covid-19-digital'> Source <a/>

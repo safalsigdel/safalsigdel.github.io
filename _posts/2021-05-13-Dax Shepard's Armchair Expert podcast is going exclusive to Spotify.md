@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SPoVTsReISGMCBwEqaLaka1HQ7U=/0x0:3228x2152/1200x800/filters:focal(1435x454:1951x970)/cdn.vox-cdn.com/uploads/chorus_image/image/69275642/1199958258.0.jpg' width='700px' /><br/>
-Spotify's adding another big name to its list of exclusive podcasts: Dax Shepard and his show Armchair Expert, which is one of the most popular podcasts running.
-<a href='https://www.theverge.com/2021/5/12/22432286/dax-shepard-armchair-expert-spotify-exclusive'> Source <a/>
