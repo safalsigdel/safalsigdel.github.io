@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uKsi4LVxzd2nnufRdehvEFcGNoQ=/0x0:2861x1459/1200x800/filters:focal(1203x502:1659x958)/cdn.vox-cdn.com/uploads/chorus_image/image/69272866/ID_BUZZ_AD_Sketch.0.jpg' width='700px' /><br/>
-Volkswagen will start testing its new autonomous vehicles in Germany this summer, the company announced Wednesday. The German automaker's electric ID Buzz vans will use hardware and software developed by Argo AI, a Pittsburgh-based startup that is backed by Ford and VW. The aim is to launch a commercial delivery and micro-transit service in Germany by 2025.
-<a href='https://www.theverge.com/2021/5/12/22430813/vw-argo-autonomous-delivery-ride-pooling-germany'> Source <a/>
