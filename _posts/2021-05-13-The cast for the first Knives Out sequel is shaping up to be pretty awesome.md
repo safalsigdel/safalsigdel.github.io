@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/94I8jj-VnqvBNZIUW_1FOiyv6oM=/0x0:5831x3887/1200x800/filters:focal(1873x1272:2805x2204)/cdn.vox-cdn.com/uploads/chorus_image/image/69276625/1209913522.0.jpg' width='700px' /><br/>
+At the end of March, Netflix acquired the rights to two Knives Out sequels in a blockbuster deal reportedly worth more than $400 million, and the cast for the first sequel is quickly shaping up to be as epic as the one for the original movie.
+<a href='https://www.theverge.com/2021/5/12/22432745/knives-out-sequel-2-cast-ed-norton-dave-bautista-janelle-monae'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vkkIL-NdKKm3bSLuRjhrGzPxu7g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69278260/acastro__171016_1777_0001_v1.0.jpg' width='700px' /><br/>
+The security researcher who discovered the Krack Wi-Fi vulnerability has discovered a slew of other flaws with the wireless protocol most of us use to power our online lives (via Gizmodo). The vulnerabilities relate to how Wi-Fi handles large chunks of data, with some being related to the Wi-Fi standard itself, and some being related to how it's implemented by device manufacturers.
+<a href='https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security'> Source <a/>

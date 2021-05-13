@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-The US Patent Office issued utility patent number 11 million today, granting the milestone number to a patent entitled “repositioning wires and methods for repositioning prosthetic heart valve devices within a heart chamber and related systems, devices and methods.”
-<a href='https://www.theverge.com/2021/5/11/22431486/patent-office-11-million-utility-soy-heart-valve'> Source <a/>

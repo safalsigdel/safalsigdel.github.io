@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MFDXJBwifu8dJepUZOg5SicvKT0=/0x0:2782x1844/1200x800/filters:focal(1169x700:1613x1144)/cdn.vox-cdn.com/uploads/chorus_image/image/69277532/Screen_Shot_2021_01_27_at_6.50.29_PM.0.png' width='700px' /><br/>
+Tesla has stopped accepting bitcoin as payment for its cars out of concern that it will contribute to greater consumption of fossil fuels, according to a statement CEO Elon Musk tweeted Wednesday. Tesla had only just started accepting bitcoin in late March.
+<a href='https://www.theverge.com/2021/5/12/22433153/tesla-suspend-bitcoin-vehicle-purchase-cryptocurrency-elon-musk'> Source <a/>

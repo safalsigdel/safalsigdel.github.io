@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NFi0KE0tjtw6JvcjRt3MF-QpM24=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69269624/vpavic_180225_2334_0048.5.jpg' width='700px' /><br/>
-Samsung and Lenovo representatives won't show up in person to Mobile World Congress in Barcelona this year, according to statements obtained by Reuters and The Verge, respectively.
-<a href='https://www.theverge.com/2021/5/11/22430649/samsung-mobile-world-congress-mwc-barcelona-remote-covid'> Source <a/>

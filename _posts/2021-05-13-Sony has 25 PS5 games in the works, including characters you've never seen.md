@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0s_Ka5Tpq3fiRDrFFHA7zK63DJA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69277036/vpavic_4278_20201030_0206.0.jpg' width='700px' /><br/>
+Sony is apparently looking to release more than 25 PlayStation 5 games under its PlayStation Studios brand. And “nearly half” of them will not be sequels or spinoffs, according to Wired's interview with PlayStation Studio lead (and former Guerrilla Games managing director) Hermen Hulst.
+<a href='https://www.theverge.com/2021/5/12/22432601/sony-playstation-studios-ps5-games-25-new-ip-interview'> Source <a/>
