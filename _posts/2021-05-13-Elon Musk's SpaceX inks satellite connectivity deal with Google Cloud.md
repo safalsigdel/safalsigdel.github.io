@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gSRNxs6x5s2Bi8_VfkG2k9Vaneg=/0x0:3000x2002/1200x800/filters:focal(1823x577:2303x1057)/cdn.vox-cdn.com/uploads/chorus_image/image/69280369/1135936636.0.jpg' width='700px' /><br/>
+Google said on Thursday that it signed a deal with Elon Musk's SpaceX to use the space company's growing satellite internet service, Starlink, with its cloud unit. SpaceX will install Starlink terminals at Google's cloud data centers around the world, aiming to utilize the cloud for Starlink customers and enabling Google to use the satellite network's speedy internet for its enterprise cloud customers.
+<a href='https://www.theverge.com/2021/5/13/22433982/elon-musk-spacex-internet-connectivity-deal-google-cloud'> Source <a/>
