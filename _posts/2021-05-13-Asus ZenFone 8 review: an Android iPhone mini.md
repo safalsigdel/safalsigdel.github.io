@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Idj0pOUCc_abyFEB0oThb2k924g=/0x0:2040x1360/1200x675/filters:focal(854x562:1180x888)/cdn.vox-cdn.com/uploads/chorus_image/image/69275354/ajohnson_20210505_4575_0001.0.jpg' width='700px' /><br/>
-After a couple of generations making phones with flip-out cameras and increasingly large displays, Asus has taken the ZenFone 8 in a totally different direction: small.
-<a href='https://www.theverge.com/22431051/asus-zenfone-8-review'> Source <a/>
