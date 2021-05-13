@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m7X3ixux-AfvrINvlgIum1l6IHQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69272723/DSC00410.0.jpg' width='700px' /><br/>
-The US has agreed not to put Xiaomi on a blacklist blocking investment in the Chinese tech company, undoing a move made in the last week of the Trump administration. Xiaomi sued the US government over the designation, but just filed a joint status report with the Department of Defense saying the two parties “have agreed upon a path forward that would resolve this litigation without the need for contested briefing.”
-<a href='https://www.theverge.com/2021/5/12/22431838/xiaomi-us-blacklist-remove-trump-lawsuit'> Source <a/>
