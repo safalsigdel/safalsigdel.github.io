@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-The Xbox has gone through several visual periods during its life span, from an edgy and yet somehow dorky green alien thing, to a modern look that could be described as “I know how to use Excel but I can still have fun.” But like stumbling on a Facebook album from high school, you can still hold on to a bit of the past. As spotted by senior editor Tom Warren, the original Xbox background is now an option for the Xbox Series X / S.
-<a href='https://www.theverge.com/tldr/2021/5/12/22432433/xbox-original-background-green-series-x-s-microsoft'> Source <a/>
