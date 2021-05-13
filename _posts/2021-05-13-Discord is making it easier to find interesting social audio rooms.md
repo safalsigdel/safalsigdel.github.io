@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KQi0Amr2zcArlX3SqwhXkJU9ME8=/0x0:1500x750/1200x800/filters:focal(630x255:870x495)/cdn.vox-cdn.com/uploads/chorus_image/image/69280674/Discord_IAP_KeyVisuals_Header_02.0.jpg' width='700px' /><br/>
+Thursday is Discord's sixth birthday, and to celebrate, the company is announcing some new features — including one coming in June to help people discover its new Clubhouse-like social audio rooms called Stage Channels.
+<a href='https://www.theverge.com/2021/5/13/22431438/discord-stage-channel-discovery-social-audio-threads-logo-clyde'> Source <a/>

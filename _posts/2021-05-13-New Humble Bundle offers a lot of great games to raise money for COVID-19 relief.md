@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ECSSdMmcrGkHyQOXQ1AbY3MQUoU=/0x0:1000x750/1200x800/filters:focal(420x295:580x455)/cdn.vox-cdn.com/uploads/chorus_image/image/69275632/Nm5F6Y4w.0.png' width='700px' /><br/>
-Humble Bundle is launching a new bundle to raise money for COVID-19 relief in India and Brazil, which have recently seen a surge in COVID-19 cases. The new Humble Heal: COVID-19 Bundle is jam-packed with a lot of great games, including the cult hit RPG Undertale, mind-bending puzzler Baba Is You, turn-based strategy games Into the Breach and Wargroove, as well as ebooks and software.
-<a href='https://www.theverge.com/2021/5/12/22432412/humble-bundle-heal-covid-19-bundle-relief'> Source <a/>
