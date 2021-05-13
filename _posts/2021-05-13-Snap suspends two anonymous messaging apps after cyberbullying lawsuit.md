@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tWWS5ivGe-hkVrFvdAvNGKW1ECc=/0x0:930x523/1200x800/filters:focal(391x188:539x336)/cdn.vox-cdn.com/uploads/chorus_image/image/69273389/msedge_cu2FZIRvnP.0.jpg' width='700px' /><br/>
-Snap will suspend two anonymous messaging integrations from Snapchat after a lawsuit sought to hold them responsible for a teenager's death, the Los Angeles Times reports. The lawsuit was filed on Monday by Kristin Bride, the mother of a teenager who died by suicide in June after being bullied on the two apps.
-<a href='https://www.theverge.com/2021/5/12/22431883/snap-inc-snapchat-anonymous-messaging-qa-lawsuit-teenager-death'> Source <a/>
