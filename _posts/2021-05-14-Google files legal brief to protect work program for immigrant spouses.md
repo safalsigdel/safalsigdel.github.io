@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NVlGZ1B32vuc15Q4zpgHy2FG0L8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69285802/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
+Google has filed an amicus brief to protect a program that allows the spouses of H-1B visa holders to work in the United States. The brief has been signed by numerous tech giants including Apple, Amazon, Twitter, and Microsoft.
+<a href='https://www.theverge.com/2021/5/14/22435039/google-amicus-brief-work-authorization-h-4-visa'> Source <a/>

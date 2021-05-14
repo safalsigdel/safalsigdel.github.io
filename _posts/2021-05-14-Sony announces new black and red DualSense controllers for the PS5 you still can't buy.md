@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Pt34-_Uti1_kbuUBWKknODc3HEY=/0x0:1600x900/1200x0/filters:focal(0x0:1600x900):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22511515/51177281140_630303a64d_h.jpeg' width='700px' /><br/>
-Sony has announced its first new colors for PlayStation 5's DualSense controller: a “cosmic red” model that features a two-tone red and black design, and an all-black “midnight black” version that brings to mind the classic PS2, PS3, and PS4 controller designs.
-<a href='https://www.theverge.com/2021/5/13/22433966/sony-black-red-dualsense-controllers-playstation-5-ps5'> Source <a/>
