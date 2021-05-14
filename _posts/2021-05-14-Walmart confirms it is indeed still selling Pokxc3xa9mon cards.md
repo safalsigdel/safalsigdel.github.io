@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ScK_X_V35joBwU7l4UTXdcgixg0=/0x0:555x368/1200x800/filters:focal(234x140:322x228)/cdn.vox-cdn.com/uploads/chorus_image/image/69287643/walmart555.1419973090.0.jpg' width='700px' /><br/>
+Contrary to published reports, Walmart confirmed in an email to The Verge on Friday that it has not suspended the sale of any trading cards, including the Pokxc3xa9mon cards that Target recently took off its shelves. There have been reports on social media of people seeing signs at Walmart stores indicating that the retailer would also no longer be selling the cards in stores, but it appears that's not official policy.
+<a href='https://www.theverge.com/2021/5/14/22436186/walmart-pokemon-trading-cards-store-sales'> Source <a/>
