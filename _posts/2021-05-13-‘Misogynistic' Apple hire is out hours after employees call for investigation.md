@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FUsGRiEGhC-r9UxIZ3irS0TEaCg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69278359/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Antonio Garcxc3xada Martxc3xadnez is no longer working at Apple hours after employees circulated a petition calling for an investigation into his hiring. Martxc3xadnez, a former Facebook product manager on the ad targeting team, authored a controversial book about Silicon Valley where he expressed misogynistic views on women.
-<a href='https://www.theverge.com/2021/5/12/22433437/apple-hire-antonio-garcia-martinez-out-petition-investigation'> Source <a/>

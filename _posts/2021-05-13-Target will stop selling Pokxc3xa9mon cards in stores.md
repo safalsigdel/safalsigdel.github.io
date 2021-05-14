@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1PvzpTuHk1wxxubsrkLzwvUPoBQ=/0x0:4000x2644/1200x800/filters:focal(1021x538:1661x1178)/cdn.vox-cdn.com/uploads/chorus_image/image/69277979/1231463209.0.jpg' width='700px' /><br/>
-Target has decided that it's had enough: the company has officially confirmed to Bleeding Cool that it will halt the sales of Pokxc3xa9mon cards throughout the US, starting Friday, May 14th. The retailer cities “an abundance of caution” for the safety of both guests and store employees and notes that it will still be selling the cards on its site.
-<a href='https://www.theverge.com/2021/5/12/22433236/target-halts-sale-pokemon-mlb-nba-nfl-trading-cards-may-14'> Source <a/>

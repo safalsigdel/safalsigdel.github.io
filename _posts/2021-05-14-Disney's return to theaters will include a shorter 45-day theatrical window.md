@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4quP78eS_9y66U46Klk-nmXpsEk=/0x0:1024x427/1200x800/filters:focal(431x133:593x295)/cdn.vox-cdn.com/uploads/chorus_image/image/69283540/Screenshot_1160_1024x427.0.png' width='700px' /><br/>
+Disney has confirmed that its upcoming releases Free Guy and Shang-Chi and the Legend of the Ten Rings will be the company's first two films to debut exclusively in theaters (on August 13th and September 3rd, respectively).
+<a href='https://www.theverge.com/2021/5/13/22434964/disney-theatrical-window-45-days-shorter-streaming-shang-chi-free-guy'> Source <a/>

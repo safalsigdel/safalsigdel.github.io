@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7Blo8dymFQozD9kDvk7Y5seATNU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69276916/acastro_190322_1777_apple_streaming_0002.0.jpg' width='700px' /><br/>
-Update May 12, 9:36pm ET: Apple has confirmed Antonio Garcxc3xada Martxc3xadnez is no longer with the company. The original story is below.
-<a href='https://www.theverge.com/2021/5/12/22432909/apple-petition-hiring-antonio-garcia-martinez-chaos-monkeys-facebook'> Source <a/>

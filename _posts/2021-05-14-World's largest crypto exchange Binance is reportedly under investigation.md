@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KfjUdIbfqT0ed0cgzM3QUyBxA_o=/0x0:3000x2000/1200x800/filters:focal(798x954:1278x1434)/cdn.vox-cdn.com/uploads/chorus_image/image/69284135/acastro_170726_1777_0008.0.jpg' width='700px' /><br/>
+Cryptocurrency exchange Binance is being investigated by the Internal Revenue Service and the Department of Justice, Bloomberg reports, with officials who handle money laundering and tax offenses in particular taking a interest in Binance's business.
+<a href='https://www.theverge.com/2021/5/13/22434965/binance-investigation-irs-justice-cryptocurrency'> Source <a/>

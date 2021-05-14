@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3N8FoFZd9EGh2haGJC3n3UwkfXc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69284100/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+TikTok is being sued by a voice actor who claims to be behind its viral text-to-speech feature, but says she never authorized TikTok — or just about anyone, really — to use her voice this way. The lawsuit, filed last week, says Bev Standing's voice has been used to repeat “foul and offensive language” and that TikTok's use will cause her “irreparable harm.”
+<a href='https://www.theverge.com/2021/5/13/22435058/tiktok-voice-sues-unauthorized-usage-text-to-speech'> Source <a/>

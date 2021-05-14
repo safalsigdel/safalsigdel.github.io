@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+The Google Pixel 3 was one of the best Android phones of 2018, and though it might not be the showstopper it once was, it's a standout if you can find it for the right price. Thankfully, if you're looking to upgrade or take the plunge into the Android ecosystem, Woot is currently offering a 64GB, unlocked version of the Pixel 3 for $160 — a discount of $240.
+<a href='https://www.theverge.com/good-deals/2021/5/13/22434465/google-pixel-3-smartphone-deal-sale-woot'> Source <a/>

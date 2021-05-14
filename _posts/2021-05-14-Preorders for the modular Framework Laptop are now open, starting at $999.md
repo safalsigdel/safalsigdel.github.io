@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MZEf5W5jW93NozPyeKvR_QtnyaQ=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/69281855/studio_image_01.0.jpg' width='700px' /><br/>
+The modular Framework Laptop is now available for preorders, with prices starting at $999 for a fully assembled computer or $749 for the DIY Edition, which adds the option of paying less upfront if you're willing bring your own RAM, SSD, charge, and Wi-Fi card.
+<a href='https://www.theverge.com/2021/5/13/22434359/framework-laptop-modular-preorders-available-price-release-date'> Source <a/>

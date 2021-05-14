@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i4C_1J35TU8e7q-Pc_AWHc4ycwM=/0x0:949x527/1200x800/filters:focal(400x189:550x339)/cdn.vox-cdn.com/uploads/chorus_image/image/69278040/Screen_Shot_2021_05_12_at_1.20.41_PM.0.png' width='700px' /><br/>
-One of the more impressive aspects of Grand Theft Auto V is how closely the game's San Andreas approximates real-life Los Angeles and Southern California, but a new machine learning project from Intel Labs called “Enhancing Photorealism Enhancement” might take that realism in a unsettlingly photorealistic direction (via Gizmodo).
-<a href='https://www.theverge.com/2021/5/12/22432945/intel-gta-v-realistic-machine-learning-cityscapes-dataset'> Source <a/>

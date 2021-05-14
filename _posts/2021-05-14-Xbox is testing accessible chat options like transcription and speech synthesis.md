@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Mr0JsqqqKxupQNPeUOuh7MktvJc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69281911/acastro_190530_1777_xbox_0003.0.0.jpg' width='700px' /><br/>
+Microsoft has announced new text-to-speech and speech-to-text features for Xbox Party Chat, which aim to help make communication on the platform more accessible. The features are currently being tested through the Xbox Insider program.
+<a href='https://www.theverge.com/2021/5/13/22434389/xbox-accessible-party-chat-test-speech-synthesis-transcription'> Source <a/>

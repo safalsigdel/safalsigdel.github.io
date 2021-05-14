@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RMHhohovo8Yk7tTK6mTasFgmwkQ=/0x0:1536x806/1200x800/filters:focal(646x281:890x525)/cdn.vox-cdn.com/uploads/chorus_image/image/69279584/Axon_30_Colors_1536x806.0.png' width='700px' /><br/>
-ZTE announced the Axon 30 Ultra alongside two other devices last month, and today reveals that the Ultra will go on sale June 4th starting at $749 / xe2x82xac749. Preorders begin directly through ZTE's website on May 27th and include a free pair of ZTE's Livebuds TWS earbuds.
-<a href='https://www.theverge.com/2021/5/13/22432593/zte-axon-30-ultra-price-availability-specs'> Source <a/>

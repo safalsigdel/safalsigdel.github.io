@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PvPQXju4lghmwa6XpttfVguH4yI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69282776/akrales_190725_3567_0075.0.jpg' width='700px' /><br/>
+The Italian Competition Authority (ICA) handed Google an approximately $120 million (xe2x82xac100 million) fine today for not letting a third-party charging app on Android Auto in 2019 (via 9to5Google). The case started with a probe into the search giant's automotive software business, which until October 2020 had limitations around what kinds of apps were allowed to be developed and released for use while driving.
+<a href='https://www.theverge.com/2021/5/13/22434373/italian-antitrust-fine-google-android-auto-enel-x-juicepass'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YQMu4-5l5fjhpTmp5Ylp8ssoNdc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69284565/acastro_210429_1777_epicApple_0002.0.jpg' width='700px' /><br/>
+Sometimes I reflect on my life and wonder where I went wrong, such that I am sitting on a wooden pew in federal court, watching a Google search for Candy Crush Saga on the display monitor. This is a huge trial with major stakes for tech companies. It is also a crashing bore.
+<a href='https://www.theverge.com/2021/5/13/22435319/epic-apple-fortnite-trial-antitrust-candy-crush-pc-mobile'> Source <a/>

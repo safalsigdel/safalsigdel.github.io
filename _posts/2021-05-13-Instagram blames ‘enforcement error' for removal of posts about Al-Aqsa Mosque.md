@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7jKI6057VXIpAd6VWj7Kv5zNqAM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69279560/acastro_190919_1777_instagram_0003.0.0.jpg' width='700px' /><br/>
-Instagram removed and restricted posts related to the Al-Aqsa Mosque in Jerusalem after its moderators confused its name with a group designated as a terrorist organization. In an internal company message first obtained by BuzzFeed News, a lead on the company's Dangerous Organizations and Individuals policy team called the removals “enforcement errors.”
-<a href='https://www.theverge.com/2021/5/13/22433861/instagram-al-aqsa-mosque-posts-takedown-error-facebook-moderation'> Source <a/>

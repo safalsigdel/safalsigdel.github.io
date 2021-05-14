@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iLi9eAg7rRbjL73r3Ml4V6igd_4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69282175/jporter_191001_3703_0007.0.jpg' width='700px' /><br/>
+Have you been dreaming of consciously uncoupling from your smartphone? Ready to embrace a digital detox lifestyle but want to stay connected to your friends? Are you nostalgic for the days of tapping out messages in T9?
+<a href='https://www.theverge.com/2021/5/13/22434439/nokias-2720-flip-verizon-us-availability-price'> Source <a/>
