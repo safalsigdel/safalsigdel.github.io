@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AWmjkX_tmgAfvbbJqI2uF6K83Zk=/0x0:8256x5504/1200x800/filters:focal(3468x2092:4788x3412)/cdn.vox-cdn.com/uploads/chorus_image/image/69281292/EH_02421_R.0.jpg' width='700px' /><br/>
-Sherlock's kid sister is making a return. Today, Netflix announced Enola Holmes 2, a sequel to last year's crime caper that took the Sherlock story in a slightly younger direction, focusing on the famous detective's teenage sister.
-<a href='https://www.theverge.com/2021/5/13/22434366/enola-holmes-2-sequel-netflix-millie-bobby-brown-henry-cavill'> Source <a/>
