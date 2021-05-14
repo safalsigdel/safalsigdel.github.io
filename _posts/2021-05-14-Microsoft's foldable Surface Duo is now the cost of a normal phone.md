@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-If you've been curious about checking out the Microsoft Surface Duo foldable Android phone but didn't want to pay its original $1,399 price — first off, I get you. The good news is that you no longer have to pay such a high cost to get one. BuyDig is selling the Surface Duo with 128GB of storage that works on GSM networks like AT&T, and T-Mobile for just $699.
-<a href='https://www.theverge.com/good-deals/2021/5/13/22433893/microsoft-surface-duo-hori-split-pad-pro-nintendo-switch-anker-sale-deal'> Source <a/>
