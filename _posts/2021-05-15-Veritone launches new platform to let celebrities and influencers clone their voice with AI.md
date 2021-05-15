@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iaKKnwsrCKaU-M3505sg5O-56RE=/0x0:1920x1080/1200x800/filters:focal(787x447:1093x753)/cdn.vox-cdn.com/uploads/chorus_image/image/69286409/Screen_Shot_2021_05_14_at_12.10.28_PM.0.png' width='700px' /><br/>
-Recording advertisements and product endorsements can be lucrative work for celebrities and influencers. But is it too much like hard work? That's what US firm Veritone is betting. Today, the company is launching a new platform called Marvel.AI that will let creators, media figures, and others generate deepfake clones of their voice to license as they wish.
-<a href='https://www.theverge.com/2021/5/14/22432180/voice-clone-deepfake-celebrities-influencers-veritone-ai-platform'> Source <a/>
