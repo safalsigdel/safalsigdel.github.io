@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mw67Kyipv2bf0Lra9DLktf-jKcY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69286394/akrales_20210513_4572_0117.0.jpg' width='700px' /><br/>
-Samsung has released a number of Galaxy Books in the last few years. Despite generally being good devices with a recognizable brand name, most of them have remained Samsung-enthusiast purchases; none have truly entered the mainstream conversation.
-<a href='https://www.theverge.com/22419899/samsung-galaxy-book-pro-360-15-inch-review'> Source <a/>
