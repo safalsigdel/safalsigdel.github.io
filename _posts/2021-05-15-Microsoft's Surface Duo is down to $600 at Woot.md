@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+This week brought some unexpected bargains by way of an eBay sitewide code that can knock up to $100 off a pricey purchase, such as a 4K TV, as well as an excellent Humble Bundle with 100 percent of proceeds going toward COVID-19 relief in India and Brazil. There are more, including a day-long sale on AT&T-locked Microsoft Surface Duo phones and more, so take a spin through this dispatch to see what we thought stood out from the rest in deals world this week.
+<a href='https://www.theverge.com/good-deals/2021/5/15/22435896/microsoft-surface-duo-foldable-android-phone-ebay-4k-tv-tcl-lg-samsung-oled-qled-deal-sale'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sLpLhjLXz8q6xR4kZ6C9SaSVdao=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69291960/acastro_200715_1777_twitter_0002.0.0.jpg' width='700px' /><br/>
+On Tuesday, a noted Palestinian-American journalist reporting live from protests near Jerusalem was suddenly and mysteriously silenced on Twitter — with every single tweet replaced by the message “@MariamBarghouti's account is temporarily unavailable because it violates the Twitter Media Policy.” It was a mistake, the company quickly admitted, and her tweets were quickly restored.
+<a href='https://www.theverge.com/2021/5/15/22437108/twitter-policy-censor-every-tweet'> Source <a/>

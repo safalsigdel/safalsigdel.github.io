@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Tn_TFDuXhxM_5USPlRpK_dc28HA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69283344/acastro_180109_1777_0003_v2.0.jpg' width='700px' /><br/>
-An Oregon man who authorities say stole and resold customers' credentials for Netflix and other streaming services has been indicted on fraud charges, the US Attorney's office announced.
-<a href='https://www.theverge.com/2021/5/13/22434670/stolen-netflix-hbo-streaming-passwords-arrest-fraud'> Source <a/>

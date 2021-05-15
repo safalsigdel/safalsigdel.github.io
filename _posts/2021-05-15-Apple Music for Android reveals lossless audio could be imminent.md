@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BOp68QKNK3eghn142uqI582cXCs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69289333/acastro_180927_1777_apple_music_0002.0.jpg' width='700px' /><br/>
+Apple might have bigger plans for next week than initially thought. The new iMac, iPad Pro, and Apple TV 4K are all set to start shipping to early preorder customers on or around May 21st, but now it seems there could be two surprise announcements: a hi-fi streaming tier of Apple Music, and maybe even AirPods 3.
+<a href='https://www.theverge.com/2021/5/14/22436575/apple-music-android-lossless-audio-airpods-3'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1JMzYByQKe8PpsvH5lsiPb0FHzw=/0x0:2880x1535/1200x800/filters:focal(1210x538:1670x998)/cdn.vox-cdn.com/uploads/chorus_image/image/69282094/Screen_Shot_2021_05_13_at_10.35.19_AM.0.png' width='700px' /><br/>
-The Friends reunion special finally has a release date: Thursday, May 27th. The episode was was meant to launch with HBO Max in May 2020 but was delayed due to the pandemic. It will feature all six original cast members, as well as guest stars like Malala Yousafzai, Lady Gaga, and BTS, according to The Hollywood Reporter.
-<a href='https://www.theverge.com/2021/5/13/22434515/friends-reunion-episode-streaming-date-hbo-max'> Source <a/>

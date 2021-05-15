@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f68hI7LgGWDXO4GGyjZHVFHeTWQ=/0x0:4000x2758/1200x800/filters:focal(1680x1059:2320x1699)/cdn.vox-cdn.com/uploads/chorus_image/image/69285401/544949442.0.jpg' width='700px' /><br/>
-Balmuda, a Japanese design company known for its stylish appliances, has announced plans to make a smartphone. There aren't many details on the device itself yet, but it'll be a 5G handset that's expected to be released in November. SoftBank will sell it as a carrier model, while Balmuda will also offer an unlocked version.
-<a href='https://www.theverge.com/2021/5/14/22435573/balmuda-toaster-maker-smartphone-kyocera-release-announcement'> Source <a/>

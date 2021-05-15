@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AlNPC1hX40IR8ILLI9RwyPmYCaA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69283216/jbareham_180202_2266_0295.0.jpg' width='700px' /><br/>
-There's been some buzz recently about how Apple is having problems getting rid of its HomePods, with the now-discontinued Siri speakers still being on sale two months after Apple announced their discontinuation. And yet, the speakers are still $300, which is only slightly lower than their launch price of $350. Apple: it's time to put them on sale.
-<a href='https://www.theverge.com/2021/5/13/22434783/apple-homepod-stock-problems-discontinued-sale'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SMc2UwpmNjlmSLriKotaMXod9dU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69289636/jbareham_171213_2180_0068.0.jpg' width='700px' /><br/>
+If you want a space gray Apple accessory, such as a Magic Mouse, Keyboard, or Trackpad, now is the time to get one because they're being discontinued. On Apple's store page, they're currently for sale but with a “while supplies last” message (via MacRumors). Apple confirmed to The Verge that it will no longer sell the space gray accessories after stock runs out, but the silver variants will still be available.
+<a href='https://www.theverge.com/2021/5/14/22436719/apple-space-gray-magic-trackpad-keyboard-mouse-discontinued'> Source <a/>

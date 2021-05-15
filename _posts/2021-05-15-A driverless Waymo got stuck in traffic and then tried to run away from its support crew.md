@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NNf-0q88KolpR7qTbZKXzUDYrKg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69289250/vpavic_181127_3122_0042.0.jpg' width='700px' /><br/>
+One of Waymo's fully autonomous minivans got stuck at an intersection in Chandler, Arizona, prompting the company to send a roadside assistance team to come extract it. But when the crew arrived, the vehicle started to drive away before pulling over and completely blocking a three-lane road. It was a rare moment captured on video of one of Waymo's driverless vehicles performing erratically.
+<a href='https://www.theverge.com/2021/5/14/22436584/waymo-driverless-stuck-traffic-roadside-assistance-video'> Source <a/>

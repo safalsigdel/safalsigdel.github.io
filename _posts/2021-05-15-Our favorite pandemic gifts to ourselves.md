@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xTsNPDId-l3fydFtKM9n3xAEkiE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69291867/akrales_191008_3706_0164.0.jpg' width='700px' /><br/>
+When you've been through tough times — and we all have — sometimes you just need a distraction or something that just makes you feel good to get you through it. We asked the staff of The Verge what they've treated themselves to in order to help make all the upheavals and lockdowns of the past year just a bit more bearable.
+<a href='https://www.theverge.com/22434062/gifts-covid-favorite-warcraft-knitting-ps5-nintendo-echo'> Source <a/>
