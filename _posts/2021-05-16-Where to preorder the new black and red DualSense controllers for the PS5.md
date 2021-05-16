@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7gEP5Ij6HUYSmFykKUCZ8UxVEXY=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/69286643/51176194136_6b76edb34d_h.0.jpeg' width='700px' /><br/>
-With the PlayStation 5, Sony opted for a less traditional color scheme, one that ditched the classic jet-black exterior found on earlier PlayStation consoles in favor of a black-and-white finish. For some, the new exterior was an acquired taste, as was the matching aesthetic found on the accompanying DualSense controller.
-<a href='https://www.theverge.com/22434943/where-to-buy-ps5-playstation-5-dualsense-controllers-black-red-price'> Source <a/>
