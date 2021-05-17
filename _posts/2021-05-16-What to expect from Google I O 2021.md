@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a4l1EHz3cOvgdONbs0uPUMhUAFU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69286958/acastro_180130_1777_0003.0.jpg' width='700px' /><br/>
-Google I/O, the company's big developer conference, is back after being canceled last year due to the COVID-19 pandemic. The keynote kicks off on Tuesday, May 18th, at 1PM ET / 10AM PT, and it will likely be packed with news about Google products.
-<a href='https://www.theverge.com/2021/5/14/22435116/google-io-2021-rumors-android-12-pixel-buds-a-series-chip'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kH06iyGzjjOWd_foiaGJo0_edMI=/0x0:3888x2592/1200x800/filters:focal(1633x985:2255x1607)/cdn.vox-cdn.com/uploads/chorus_image/image/69295571/1232816107.0.jpg' width='700px' /><br/>
+After launching its Android app a week ago, social audio platform Clubhouse said Sunday it will roll out to more countries in the coming week. The Android app will be available in Brazil, Japan, and Russia on Tuesday, India and Nigeria by Friday, and the “rest of the world” throughout the week.
+<a href='https://www.theverge.com/2021/5/16/22439032/clubhouse-expanding-android-app-countries-audio'> Source <a/>
