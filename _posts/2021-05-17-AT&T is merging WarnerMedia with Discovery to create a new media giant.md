@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/9HbftuB5Nw5jWIc-H603jl_7Hz8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69297792/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T announced this morning it's spinning off its media business WarnerMedia and merging it with TV company Discovery, creating a major new player in the media world to compete with firms like Netflix and Disney that are leading the charge in streaming content.
+AT&T announced this morning it's spinning off its media business WarnerMedia and merging it with TV company Discovery, creating a major new player in the media world to compete with firms like Netflix and Disney, that are leading the charge in streaming content.
 <a href='https://www.theverge.com/2021/5/17/22439964/at-t-warnermedia-discovery-merger-spin-off'> Source <a/>
