@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j_iwF7PGBF_1ahmg5XVat_6DYXM=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/69291914/1232558252.0.jpg' width='700px' /><br/>
-Despite new guidance from the Centers for Disease Control and Prevention, Apple will keep its mandatory mask policy in place at its US retail stores for the time being, Bloomberg reported. The company informed stores that it is continuing to evaluate COVID-19-related health and safety measures, but that the policy requiring customers and employees at its Apple stores would stay in effect.
-<a href='https://www.theverge.com/2021/5/15/22437593/apple-masks-retail-stores-covid-cdc'> Source <a/>

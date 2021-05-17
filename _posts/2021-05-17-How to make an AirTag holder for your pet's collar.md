@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FoR1mzX2NXvt5ZVzv-gk5eMGV2o=/0x0:2040x1478/1200x800/filters:focal(711x605:1037x931)/cdn.vox-cdn.com/uploads/chorus_image/image/69298627/verge_IMG_7566_2040pxl.0.jpg' width='700px' /><br/>
+One seemingly obvious use for Apple's new $29 AirTag tracker is for pets. As a new dog owner, I wanted to add an AirTag to my dog's existing leather collar, but the options currently available are lousy.
+<a href='https://www.theverge.com/22439970/pet-airtag-holder-dog-cat-collar-how-to-diy'> Source <a/>
