@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/yp8PQtjrcTLAxIHtrQ8zBowh5EM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69292150/acastro_181106_1777_flag_0002.0.jpg' width='700px' /><br/>
 President Biden on Friday revoked several of former President Trump's executive orders, including one that would have changed legal protections for social media sites and other online platforms.
+<a href='https://www.theverge.com/2021/5/15/22437627/biden-revokes-trump-executive-order-section-230-twitter-facebook-google'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/yp8PQtjrcTLAxIHtrQ8zBowh5EM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69292150/acastro_181106_1777_flag_0002.0.jpg' width='700px' /><br/>
+President Biden on Friday revoked several of former President Trump's executive orders, including one that would have changed legal protections for social media sites and other online platforms.
 <a href='https://www.theverge.com/2021/5/15/22437627/biden-revokes-trump-executive-order-section-230-twitter-facebook-google'> Source <a/>
