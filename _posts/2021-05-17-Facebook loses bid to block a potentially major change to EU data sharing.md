@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oPeI2nJSlKdF_LKptQ8565pbE7U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69289622/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Ireland's High Court has dismissed Facebook's bid to block a European Union privacy regulation — created by the Irish Data Protection Commission (IDPC) — that could interrupt the flow of data from the EU to the US, The Wall Street Journal reports.
-<a href='https://www.theverge.com/2021/5/14/22436486/facebook-data-privacy-order-ireland-eu-privacy-shield'> Source <a/>
