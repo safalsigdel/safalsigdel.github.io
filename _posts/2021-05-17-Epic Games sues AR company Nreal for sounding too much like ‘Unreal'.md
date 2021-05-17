@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OgMEZveLJIxzXM49lzYsVC-eFhc=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/69299045/Nreal_with_U_5G_3.0.jpg' width='700px' /><br/>
+Epic Games has sued smart glasses maker Nreal for infringing on its Unreal Engine trademark. Epic, which filed the case late last week, claims it's “no coincidence” that Nreal's name “looks and sounds virtually identical” to Unreal's branding. As Nreal plans a US launch later this year, Epic wants to recoup damages and scuttle its application for a trademark.
+<a href='https://www.theverge.com/2021/5/17/22440131/epic-nreal-ar-glasses-unreal-engine-trademark-lawsuit'> Source <a/>
