@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8H0777h6S5J8witZpo-mojYMj48=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69288779/a22_5g_render_91mobiles.0.jpeg' width='700px' /><br/>
-A new batch of leaked images shows what could become Samsung's least expensive 5G phone yet: the Galaxy A22 5G. The Galaxy A32 5G currently holds that title at an already low $279. The images come from 91mobiles and match up with previous leaks hinting that the phone might be on its way with a 200,000 KRW price (~$180), though it may be only destined for India and parts of Asia in the immediate future.
-<a href='https://www.theverge.com/2021/5/14/22436362/samsung-galaxy-a22-5g-leak-renders'> Source <a/>

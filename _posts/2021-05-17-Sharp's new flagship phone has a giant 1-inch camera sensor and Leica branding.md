@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jUN4CyF7CneNllk_srSyw0u7VdQ=/0x0:2090x1393/1200x800/filters:focal(878x530:1212x864)/cdn.vox-cdn.com/uploads/chorus_image/image/69297484/sharp.0.jpg' width='700px' /><br/>
+It appears that Leica has found a new mobile camera partner, following Huawei's sanctions-induced retreat from the international smartphone market. Sharp just announced the Aquos R6 in Japan, and its Leica-branded lens sits in front of what is now the largest camera sensor on any phone.
+<a href='https://www.theverge.com/2021/5/17/22439883/sharp-aquos-r6-japan-biggest-phone-camera-sensor-1-inch'> Source <a/>
