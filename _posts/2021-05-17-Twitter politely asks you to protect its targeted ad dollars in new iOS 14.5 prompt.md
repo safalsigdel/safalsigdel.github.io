@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f8-jNJ-TJYY5qt7QrR3bEEAvViU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69290633/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-As part of iOS 14.5, Apple's App Tracking Transparency forces developers to ask permission for something they used to be able to do for free: track iOS users. Today, Twitter is joining the ranks of other developers and adding a prompt that asks users to enable tracking on iOS (via MacRumors).
-<a href='https://www.theverge.com/2021/5/14/22436944/twitter-ad-tracking-ios-14-5-app-transparency'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SkRgQyUhS3XZaEFa1NCvNTYIFAA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69298249/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
+Faced with new competition from Apple, Amazon today announced that it will no longer charge an added fee for the “HD” tier of Amazon Music that lets customers stream audio at CD quality and above. From now on, lossless audio will be available to all Amazon Music Unlimited subscribers at no extra charge. Billboard was first to report the development.
+<a href='https://www.theverge.com/2021/5/17/22440058/amazon-music-hd-price-cut-apple-lossless-audio'> Source <a/>
