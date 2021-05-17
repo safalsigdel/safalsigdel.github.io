@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XNIXR_1iqutj_hilSRDp9iCKIaA=/0x0:5963x3354/1200x800/filters:focal(2505x1200:3459x2154)/cdn.vox-cdn.com/uploads/chorus_image/image/69297956/dseifert_200811_4139_0001.0.0.jpg' width='700px' /><br/>
+Samsung seems ready to ditch its own Tizen operating system in favor of Google's Wear OS for its upcoming smartwatches, according to a new report from SamMobile. The company reportedly has as many as three smartwatches on the way soon, including one with a rotating bezel, and two others with sportier designs.
+<a href='https://www.theverge.com/2021/5/17/22439989/samsung-galaxy-watch-4-wear-os-tizen-switch'> Source <a/>
