@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EHK5V7YaHvhsD2kxIN2qla35cKs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69290112/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
-Ireland's health service, the HSE, shut down all of its IT systems on Friday following a “significant” ransomware attack which has disrupted COVID-19 testing and other patient services, the BBC reports. The country's COVID-19 vaccination program does not appear to have been affected.
-<a href='https://www.theverge.com/2021/5/14/22436164/ireland-refuse-pay-ransom-demand-attack-health-security'> Source <a/>

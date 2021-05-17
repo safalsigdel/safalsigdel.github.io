@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VsHnDdXfM1aeVrz4GfLqqi9mkEE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69289815/LNX_Concert_Old_Town_Road.0.png' width='700px' /><br/>
-Massively popular game creation tool Roblox is now a massively popular experience creation tool Roblox, possibly in response to the ongoing Epic v. Apple trial.
-<a href='https://www.theverge.com/2021/5/14/22436014/apple-roblox-epic-fortnite-trial-what-is-game-name-change'> Source <a/>
