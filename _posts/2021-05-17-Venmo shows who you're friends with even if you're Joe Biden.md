@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BoXwpmE2bK1Ut4Wow0H-48NR-b4=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69290211/1317830580.0.jpg' width='700px' /><br/>
-Venmo has a major privacy flaw that's been well-known for years: there's no way to keep your list of Venmo contacts private. That means you can see the contact list of any user on the platform, a flaw that's so large that BuzzFeed News was able to track down President Joe Biden's Venmo account in less than 10 minutes.
-<a href='https://www.theverge.com/2021/5/14/22436847/venmo-contact-friends-list-not-private-president-joe-biden'> Source <a/>
