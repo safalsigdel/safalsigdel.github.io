@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nUC4mZZXhiTxqXDUfQ2tsCPzCzQ=/0x0:728x410/1200x800/filters:focal(309x123:425x239)/cdn.vox-cdn.com/uploads/chorus_image/image/69299621/evercam_eufy_4.0.png' width='700px' /><br/>
+Last night, a number of Eufy home security camera owners discovered they were able to access smart camera feeds and saved videos from users they had never met, due to an apparent security glitch. First reported by 9to5Mac, the issue came to light in an extended Reddit thread, in which users from around the world detailed their experiences.
+<a href='https://www.theverge.com/2021/5/17/22440298/eufy-privacy-glitch-server-error-camera-feed-exposed'> Source <a/>
