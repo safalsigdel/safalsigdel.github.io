@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Eos4LR66W3qdaqd8snGn49KIAoA=/0x0:2040x1360/1200x800/filters:focal(1029x626:1355x952)/cdn.vox-cdn.com/uploads/chorus_image/image/69300319/DSCF5800.0.jpg' width='700px' /><br/>
-Aside from churning out some limited edition colors, Beats has been in a bit of a quiet period since the release of the Beats Flex last October. But it seems that the Apple-owned brand is preparing to launch some new, high-end earbuds. As spotted by MacRumors, there are images of “Beats Studio Buds” in the latest beta releases of iOS and tvOS. 9to5Mac also uncovered images of the charging case and some system animations of the earbuds.
-<a href='https://www.theverge.com/2021/5/17/22440700/beats-studio-buds-leak-ios-tvos-design'> Source <a/>
