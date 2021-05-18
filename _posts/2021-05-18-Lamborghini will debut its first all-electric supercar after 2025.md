@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XcNMeLfUazB4B4wm6HYAEExOO2M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69303612/lamborghini_terzo_millennio_7786.0.jpg' width='700px' /><br/>
+The first all-electric Lamborghini is on the horizon.
+<a href='https://www.theverge.com/2021/5/18/22440143/lamborghini-ev-electric-supercar-hybrid-models-announce'> Source <a/>

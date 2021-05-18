@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6yoVauIypKHBTnLhz34t_J8X8II=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69300847/verge-2015-09-09_12-31-45.0.0.jpg' width='700px' /><br/>
-Apple is trying to convince a judge that it's not milking the App Store for all it's worth, and today the company dropped some big numbers to help make its case. Apple claims that its App Store drove $400 billion worth of physical purchases in a single year in 2019, and that — unlike digital purchases and subscriptions — Apple doesn't take a cent of that money.
-<a href='https://www.theverge.com/2021/5/17/22440629/apple-app-store-physical-purchases-400-billion-50-million-wwdc'> Source <a/>
