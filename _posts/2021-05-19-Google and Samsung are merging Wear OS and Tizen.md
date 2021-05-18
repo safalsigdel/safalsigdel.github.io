@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/46c99SovNjE2PDBsD8Tflat6OwI=/0x0:1576x882/1200x800/filters:focal(662x315:914x567)/cdn.vox-cdn.com/uploads/chorus_image/image/69306764/Screen_Shot_2021_05_18_at_2.31.35_PM.0.png' width='700px' /><br/>
+In yet another sign of the growing alliance between Google and Samsung, today both companies announced that they are essentially combining Wear OS — Google's operating system — and the Tizen-based software platform that has been foundational to Samsung's wearables for many years.
+<a href='https://www.theverge.com/2021/5/18/22440483/samsung-smartwatch-google-wearos-tizen-watch'> Source <a/>

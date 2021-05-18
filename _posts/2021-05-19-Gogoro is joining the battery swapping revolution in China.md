@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dbXmrVZNPY05GzMiIv8Lti6bqOc=/0x0:1981x1486/1200x800/filters:focal(833x585:1149x901)/cdn.vox-cdn.com/uploads/chorus_image/image/69303875/Gogoro_Swap_Guy_L.0.jpg' width='700px' /><br/>
-Electric scooter company Gogoro continues to expand outside its home country of Taiwan in a big way, as it just announced new partnerships with a pair of China's leading two-wheel manufacturers.
-<a href='https://www.theverge.com/2021/5/18/22440780/gogoro-china-electric-scooters-battery-swap-dcj-yadea'> Source <a/>
