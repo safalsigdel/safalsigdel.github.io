@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z6Zt_8VEwNSjvZt4SJcpHuZ2EGk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69298039/acastro_210115_1777_twitch_0003.0.jpg' width='700px' /><br/>
-Twitch is announcing a big change to subscription prices — but not for users in the US. Most countries outside of the US will be getting lower prices that will be localized to their specific country, starting with Turkey and Mexico on May 20th. Those lower prices will mean less money for streamers, but Twitch believes they'll translate to more subscribers and higher earnings in the long run.
-<a href='https://www.theverge.com/2021/5/17/22431716/twitch-localized-subscription-prices-many-countries-not-us'> Source <a/>

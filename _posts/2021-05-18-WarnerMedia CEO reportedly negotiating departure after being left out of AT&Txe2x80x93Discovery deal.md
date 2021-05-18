@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yPYgnrCRkjq_X_G7Z9Qfe-4NBpU=/0x0:3000x2167/1200x800/filters:focal(1260x844:1740x1324)/cdn.vox-cdn.com/uploads/chorus_image/image/69300402/123197464.0.jpg' width='700px' /><br/>
+WarnerMedia CEO Jason Kilar, who was appointed to the role in April 2020, is negotiating his departure from the company following AT&T's announcement that it would be merging WarnerMedia with Discovery, according to The New York Times. Kilar was “kept in the dark about the deal until recent days,” sources told The New York Times.
+<a href='https://www.theverge.com/2021/5/17/22440705/jason-kilar-departure-warnermedia-ceo-att-discovery'> Source <a/>

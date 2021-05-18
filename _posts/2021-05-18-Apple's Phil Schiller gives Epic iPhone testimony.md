@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aBytGwzZ9vDnnHVigFEvoCarkK0=/0x0:2738x1825/1200x675/filters:focal(1150x510:1588x948)/cdn.vox-cdn.com/uploads/chorus_image/image/69302194/1232892504.0.jpg' width='700px' /><br/>
+We've gotten through the expert witnesses of Epic v. Apple, and as a reward, Phil Schiller — currently an “Apple Fellow,” whatever that is, and previously the senior vice president of worldwide marketing — took the stand like a twinkly App Store St. Nick. To hear him tell it, Apple is a wonderful partner to developers, selflessly improving dev tools and responding to their needs. At times the testimony feels like a prolonged ad for iOS.
+<a href='https://www.theverge.com/2021/5/17/22441304/apple-phil-schiller-epic-iphone-testimony-app-store'> Source <a/>

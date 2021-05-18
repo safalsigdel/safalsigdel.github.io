@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f-kLehFRin8YfrmLC9GVERuQTPg=/0x0:2530x3354/1200x800/filters:focal(882x1220:1286x1624)/cdn.vox-cdn.com/uploads/chorus_image/image/69295916/1309409409.0.jpg' width='700px' /><br/>
-Officials in Puerto Rico are reportedly investigating an incident involving YouTube star Jake Paul, after he was seen in a now-deleted video riding in a vehicle on a beach that's a nesting area for turtles this time of year, the New York Post reported.
-<a href='https://www.theverge.com/2021/5/16/22439112/youtube-jake-paul-investigated-puerto-rico-beach-turtles'> Source <a/>

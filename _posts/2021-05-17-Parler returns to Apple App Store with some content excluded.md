@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hdrmEoG6MidaAX5biX3dWoH-2FI=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/69298113/1230591653.0.jpg' width='700px' /><br/>
-The iOS app for conservative-leaning social media platform Parler is back in the Apple App Store today, after what the company says were “months of productive dialogue with Apple.”
-<a href='https://www.theverge.com/2021/5/17/22440005/parler-apple-app-store-return-amazon-google-capitol'> Source <a/>

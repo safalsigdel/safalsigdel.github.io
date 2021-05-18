@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lMxn74jllFHyHxVlZZkwBlfcFTo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69295133/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
-Amazon has launched an ad-supported, free video streaming service called MiniTV within the Amazon India app, TechCrunch reports. It's a different offering than its separate Amazon Prime Video service, as MiniTV is contained within Amazon's traditional shopping app, rather than its own standalone app.
-<a href='https://www.theverge.com/2021/5/16/22438842/amazon-free-video-streaming-service-minitv-india'> Source <a/>

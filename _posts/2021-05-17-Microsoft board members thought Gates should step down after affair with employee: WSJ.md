@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FemoC48IoMNtCYaVnXdMnlb0-aA=/0x0:5440x3627/1200x800/filters:focal(2285x1379:3155x2249)/cdn.vox-cdn.com/uploads/chorus_image/image/69297080/1183210456.0.jpg' width='700px' /><br/>
-Some of Microsoft's board members concluded that Bill Gates should step down last year as an investigation was being conducted into an affair with an employee, according to a report in The Wall Street Journal. Gates ultimately resigned from the board in March 2020, which the WSJ says was before the investigation had been completed.
-<a href='https://www.theverge.com/2021/5/16/22439640/bill-gates-microsoft-board-alleged-affair-investigation'> Source <a/>

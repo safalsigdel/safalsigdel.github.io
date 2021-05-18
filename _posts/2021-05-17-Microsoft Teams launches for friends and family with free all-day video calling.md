@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MBg5Wms8Fii1jPhupGVGPAC7l44=/0x0:660x446/1200x800/filters:focal(278x171:382x275)/cdn.vox-cdn.com/uploads/chorus_image/image/69298024/microsoftteamspersonal.0.jpg' width='700px' /><br/>
-Microsoft is launching the personal version of Microsoft Teams today. After previewing the service nearly a year ago, Microsoft Teams is now available for free personal use amongst friends and families. The service itself is almost identical to the Microsoft Teams that businesses use, and it will allow people to chat, video call, and share calendars, locations, and files easily.
-<a href='https://www.theverge.com/2021/5/17/22439924/microsoft-teams-personal-version-launch-available-download'> Source <a/>

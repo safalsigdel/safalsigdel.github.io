@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RXEsJgN-LeNxBHoQUjUwa-4HSpI=/0x0:820x576/1200x800/filters:focal(345x223:475x353)/cdn.vox-cdn.com/uploads/chorus_image/image/69300676/foldable_concept.0.jpeg' width='700px' /><br/>
+This year has seen no shortage of rollable display demos from manufacturers, and now Samsung Display is the latest company to show off new concepts for folding and sliding screens. SamMobile spotted the concepts being showcased as part of a virtual Display Week exhibition (if you forgot to mail out your Happy Display Week cards, there's still time since it runs through Friday) including a “multi-foldable” mobile display and a large 17-inch folding screen.
+<a href='https://www.theverge.com/2021/5/17/22440623/samsung-display-foldable-screen'> Source <a/>

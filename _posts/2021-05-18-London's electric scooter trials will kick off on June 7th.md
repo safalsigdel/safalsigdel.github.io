@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B7cP9TMPA74eTczwc1qX19jHoCE=/0x0:4188x2792/1200x800/filters:focal(1759x1061:2429x1731)/cdn.vox-cdn.com/uploads/chorus_image/image/69301866/1278013956.0.jpg' width='700px' /><br/>
+London's long-awaited electric scooter trials will begin next month on June 7th, the city's transport authority and local councils announced today. Three scooter companies have been selected to offer rentals for up to 12 months as part of the pilot program: Dott, Lime, and Tier. Privately owned electric scooters will continue to be illegal to ride on streets.
+<a href='https://www.theverge.com/2021/5/17/22440320/london-electric-scooter-rental-trial-dott-lime-tier'> Source <a/>

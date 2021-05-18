@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S1IiDwWfSh3rx73_oO9KNZMrl_E=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/69302361/mgm-logo.0.jpeg' width='700px' /><br/>
+James Bond, The Handmaid's Tale, Rocky, Stargate, Robocop, Legally Blonde, Vikings, a historic catalog of films dating back many decades, an array of production and distribution companies, and the content network Epix — these are the things that Amazon might own if it buys storied film giant MGM for billions of dollars in the very near future.
+<a href='https://www.theverge.com/2021/5/17/22441330/amazon-mgm-offer'> Source <a/>

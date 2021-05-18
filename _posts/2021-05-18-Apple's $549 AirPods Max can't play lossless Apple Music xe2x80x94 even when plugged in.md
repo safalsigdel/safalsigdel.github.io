@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F_N6cJbmXiJd_aWpXAsAo1IY6gM=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/69301268/DSCF2705_1.0.jpg' width='700px' /><br/>
+Streaming music might be entering a new era of hi-fi audio, but Apple's AirPods Max aren't technically ready to go along for the ride. The company has confirmed to The Verge that its premium noise-canceling headphones do not natively support playback of lossless music files.
+<a href='https://www.theverge.com/2021/5/17/22440788/apple-airpods-max-lossless-music-explainer-spatial-audio'> Source <a/>
