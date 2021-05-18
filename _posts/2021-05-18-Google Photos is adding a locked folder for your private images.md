@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iC1TWxouEmsDI-LGABz1mUN888U=/0x0:1250x734/1200x800/filters:focal(525x267:725x467)/cdn.vox-cdn.com/uploads/chorus_image/image/69306574/Screen_Shot_2021_05_18_at_10.46.16_AM.0.png' width='700px' /><br/>
+Google is introducing a new feature to Google Photos that lets you hide specific pictures so they won't show up in your photo feed or in other apps. The feature, called Locked Folder, will put whatever sensitive pictures you'd rather not share behind a password.
+<a href='https://www.theverge.com/2021/5/18/22442416/google-photos-locked-folder-private-hidden-pictures'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Dd2ViR2MciXvx_5eZI1FJ5x4U3E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69302216/dseifert_201107_4281_0009.0.0.jpg' width='700px' /><br/>
-Today, we learned that Apple's ultra-premium $550 AirPods Max headphones aren't ready for the new lossless audio catalog coming to Apple Music next month — and they're not alone. Apple confirms to The Verge that the HomePod and HomePod mini won't support lossless audio, either. (MacRumors confirmed the same thing with sources earlier this afternoon.)
-<a href='https://www.theverge.com/2021/5/17/22441305/lossless-apple-music-homepod-homepod-mini'> Source <a/>
