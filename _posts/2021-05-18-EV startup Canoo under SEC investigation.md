@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p-w_pKW_8JcwN9LxRPnXqlLXD-M=/143x193:1535x1067/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69301280/Canoo_PickupTruck_ExteriorSnow_1.0.jpg' width='700px' /><br/>
-The Securities and Exchange Commission has opened an investigation into newly public electric vehicle startup Canoo, CEO Tony Aquila shared on a conference call on Monday.
-<a href='https://www.theverge.com/2021/5/17/22441025/canoo-sec-investigation-spac-merger-projections'> Source <a/>
