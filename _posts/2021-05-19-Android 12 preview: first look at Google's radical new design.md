@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vPK6drUWgTpCL2CurUTM-p_IM4g=/0x0:2096x1182/1200x0/filters:focal(0x0:2096x1182):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22520874/1._Android_12_Keyword_Header.jpeg' width='700px' /><br/>
+Google is announcing the latest beta for Android 12 today at Google I/O. It has an entirely new design based on a system called “Material You,” featuring big, bubbly buttons, shifting colors, and smoother animations. It is “the biggest design change in Android's history,” according to Sameer Samat, VP of product management, Android and Google Play.
+<a href='https://www.theverge.com/22439777/android-12-design-features-widgets-first-look-google'> Source <a/>

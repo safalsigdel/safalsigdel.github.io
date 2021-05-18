@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A9-W9xwBW5Bv2cImRDwpDWBp0VU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69306669/acastro_180413_1777_android_0001.0.jpg' width='700px' /><br/>
+There are over 3 billion active Android devices in the wild now. Sameer Samat, VP of product management at Google, announced the news at Google I/O 2021, which is live, but totally online, this year.
+<a href='https://www.theverge.com/2021/5/18/22440813/android-devices-active-number-smartphones-google-2021'> Source <a/>
