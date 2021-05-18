@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/eGFpSKFvCiDo2VlhTe0aP4io7yQ=/0x0:3000x2118/1200x800/filters:focal(1222x521:1702x1001)/cdn.vox-cdn.com/uploads/chorus_image/image/69301317/953502230.0.jpg' width='700px' /><br/>
-Facebook's vice president of AR and VR Hugo Barra is leaving the company, he announced (where else) on Facebook Monday.
+Facebook's Hugo Barra, VP of the company's Reality Labs Partnerships is leaving the company, he announced (where else) on Facebook Monday.
 <a href='https://www.theverge.com/2021/5/17/22440857/hugo-barra-leaving-facebook-ar-vr-oculus-google-xiaomi'> Source <a/>
