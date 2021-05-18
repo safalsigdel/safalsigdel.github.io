@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LoV2LKcEQ662ssj4oUwdrIUqYQA=/0x0:4000x2781/1200x800/filters:focal(1680x1071:2320x1711)/cdn.vox-cdn.com/uploads/chorus_image/image/69299409/1229901686.0.jpg' width='700px' /><br/>
-Consumers lost over $2 million in cryptocurrency to scammers impersonating Tesla and SpaceX CEO Elon Musk over the last six months, the Federal Trade Commission reported Monday.
-<a href='https://www.theverge.com/2021/5/17/22440425/elon-musk-impersonator-cryptocurrency-bitcoin-twitter-scam-report-ftc'> Source <a/>

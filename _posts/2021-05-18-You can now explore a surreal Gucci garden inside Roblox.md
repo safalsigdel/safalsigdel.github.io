@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PjpRYmkj9Laty2uIhWNUJk6eYpA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69298532/Come_as_You_Are_RSVP_Gucci_Garden_on_Roblox.0.jpg' width='700px' /><br/>
-For the next two weeks, the virtual realm of Roblox is getting a dose of high fashion. Currently, fashion house Gucci is hosting an artsy garden space, which will be available for Roblox users to explore starting today through to May 31st. The space was conceived as a virtual counterpart to a real-world installation called the Gucci Garden Archetypes, which is taking place in Florence, Italy.
-<a href='https://www.theverge.com/2021/5/17/22440134/gucci-garden-roblox-experience-metaverse-date'> Source <a/>

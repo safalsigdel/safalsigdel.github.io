@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ey6QTY7yT8xhx2PU37J7fUmZsTE=/0x0:2376x1014/1200x800/filters:focal(998x317:1378x697)/cdn.vox-cdn.com/uploads/chorus_image/image/69304392/Screen_Shot_2021_05_12_at_4.31.49_PM.0.png' width='700px' /><br/>
+Since Google I/O was canceled completely last year due to COVID-19, this year's festivities — which will be available online to anyone who wants to watch — are sure to be, well, festive. Today's two-hour event will introduce what is expected to be a full treasure chest of new hardware and software.
+<a href='https://www.theverge.com/22432922/google-io-2021-rumors-news-announcements'> Source <a/>

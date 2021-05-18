@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DCKUdS8SISrEQPNtnxhTqloY4Tc=/0x0:2000x1500/1200x800/filters:focal(840x590:1160x910)/cdn.vox-cdn.com/uploads/chorus_image/image/69299198/1_midlander_01.0.jpg' width='700px' /><br/>
-California EV startup Canoo has finally announced pricing for the electric van it announced back in 2019. The “lifestyle” van, as Canoo calls it, will start at $34,750 and cost as much as $49,950 for the most capable model, before additional equipment or tax incentives.
-<a href='https://www.theverge.com/2021/5/17/22440287/canoo-electric-van-price-deposit-pickup-truck'> Source <a/>

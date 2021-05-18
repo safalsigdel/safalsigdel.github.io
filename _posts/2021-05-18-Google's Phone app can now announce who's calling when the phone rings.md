@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k02-Kbq7okbLdzGAEKeQ5laaeg8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69299472/akrales_201012_4137_0117.0.0.jpg' width='700px' /><br/>
-Google is rolling out a new feature for the Google Phone app that announces who's calling when the phone rings, according to 9to5Google. If it's rolled out to you, you can set whether you want the app to announce caller ID every time the phone rings, only when you're wearing a headset, or never, 9to5Google says.
-<a href='https://www.theverge.com/2021/5/17/22440391/google-phone-app-android-caller-id-announce-rings'> Source <a/>
