@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eaSinlNCvgb0ZuQeWX3GLChhRXg=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69304922/480_3840.0.jpg' width='700px' /><br/>
+One of the bestselling games of all time is coming to next-gen consoles at the end of the year. Today, Rockstar announced that Grand Theft Auto V and its online spinoff will both be launching on the PlayStation 5 and Xbox Series X on November 11th; the new version was previously announced at the PS5's reveal event last year.
+<a href='https://www.theverge.com/2021/5/18/22441925/grand-theft-auto-5-gta-online-ps5-xbox-series-x-release-date'> Source <a/>
