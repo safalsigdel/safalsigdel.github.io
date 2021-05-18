@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XPnE4MBqVhJ1HrTltDUbRnaUtmk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69304317/IMG_20210518_162259.0.jpg' width='700px' /><br/>
-Even though the iPhone arrived as a harbinger of doom for phones with physical keyboards well over a decade ago, the fanatical enthusiasm for BlackBerry isn't something that just goes away completely. People loved their BlackBerry keyboards, and their relative efficiency when compared to touchscreens wasn't really the point.
-<a href='https://www.theverge.com/22441669/unihertz-titan-pocket-hands-on-blackberry-keyboard-android-phone'> Source <a/>
