@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_JF4W-_rp8qIMgu4ePp_6QiUw94=/0x0:922x513/1200x800/filters:focal(388x184:534x330)/cdn.vox-cdn.com/uploads/chorus_image/image/69306452/Screen_Shot_2021_05_18_at_6.20.17_PM.0.png' width='700px' /><br/>
+Artificial intelligence is a huge part of Google's business, and at this year's I/O conference, the company highlighted its work with AI language understanding. The star of the show was an experimental model called LaMDA, which Google says could one day supercharge the ability of its conversational AI assistants and allow for more natural conversations.
+<a href='https://www.theverge.com/2021/5/18/22442328/google-io-2021-ai-language-model-lamda-pluto'> Source <a/>

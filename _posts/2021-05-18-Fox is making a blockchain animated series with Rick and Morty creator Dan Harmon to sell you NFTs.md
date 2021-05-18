@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WadUEjuWj4zg6Jt2AAy04ffCvvs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69301718/acastro_210329_1777_nft_0002.0.jpg' width='700px' /><br/>
-Fox has announced its upcoming animated comedy Krapopolis, from Rick and Morty creator Dan Harmon, will be “the first-ever animated series curated entirely on the Blockchain.” The company plans to try to generate buzz for the show with its own brand-new NFT company dubbed Blockchain Creative Labs, THR reports.
-<a href='https://www.theverge.com/2021/5/17/22441078/fox-blockchain-animated-series-dan-harmon-nft'> Source <a/>
