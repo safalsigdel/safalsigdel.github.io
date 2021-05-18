@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aBefkXSvj0uxVrEjEZXVkTrSNVY=/0x0:7952x5304/1200x800/filters:focal(3340x2016:4612x3288)/cdn.vox-cdn.com/uploads/chorus_image/image/69301516/FSL3748731_SP21_AD_01.0.jpg' width='700px' /><br/>
-A new tweet from the official Wear OS Twitter account is teasing an update tomorrow at I/O 2021 to Google's frequently forgotten smartwatch operating system. Google has even suggested that the developer conference will feature an entirely new version of Wear OS on the I/O Adventure page, the “virtual sandbox” for trying the products Google will announce at the conference, 9to5Google writes.
-<a href='https://www.theverge.com/2021/5/17/22440834/google-wear-os-update-io-2021-smartwatch'> Source <a/>
