@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FE8BXlV6G2qNZ--KkeuzL3jpGJ0=/0x0:1000x562/1200x800/filters:focal(420x201:580x361)/cdn.vox-cdn.com/uploads/chorus_image/image/69301025/pic_03.0.jpeg' width='700px' /><br/>
-In May 2020, Amazon announced Pac-Man Live Studio, an interesting new version of Pac-Man that you'd be able to play right inside Twitch. The game was set to release that June — but recently the company removed all traces of it from the Amazon Games website. Nearly a year after Live Studio was supposed to debut, its status remains a mystery.
-<a href='https://www.theverge.com/2021/5/17/22440891/amazon-games-pac-man-live-studio-twitch-bandai-namco'> Source <a/>
