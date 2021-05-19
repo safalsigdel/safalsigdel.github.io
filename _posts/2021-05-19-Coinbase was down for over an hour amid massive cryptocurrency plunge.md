@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/GSYuZDGIqEdUBs1u_d9dVhUcuVs=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69310502/acastro_170726_1777_0008.0.jpg' width='700px' /><br/>
-Cryptocurrency exchange Coinbase is experiencing a “partial” outage this morning for its entire site and application. Additionally, both Coinbase and Binance are reporting issues specifically focused around withdrawals of Etherium and ERC-20 tokens this morning due to “network congestion.”
+Cryptocurrency exchange Coinbase experienced a “partial” outage this morning for its entire site and application. Additionally, both Coinbase and Binance are reporting issues specifically focused around withdrawals of Etherium and ERC-20 tokens this morning due to “network congestion.”
 <a href='https://www.theverge.com/2021/5/19/22443701/coinbase-outage-bitcoin-ethereum-price-falling-cryptocurrency'> Source <a/>
