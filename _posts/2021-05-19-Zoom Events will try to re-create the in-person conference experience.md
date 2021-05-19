@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/6bWEJL7bYgMO17LStuWHTG2lfbg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69310246/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
-Zoom is announcing an expanded live events product today that's launching this summer. Zoom Events builds on Zoom's previous paid event marketplace, OnZoom, by layering in features that can support larger multi-day events and non-video activities like chat.
+Zoom is announcing an expanded live events product today that's launching this summer. Zoom Events builds on Zoom's previous paid event marketplace, OnZoom, by layering in features that can support larger multiday events and non-video activities like chat.
 <a href='https://www.theverge.com/2021/5/19/22442919/zoom-live-events-paid-tickets-conferences-chat'> Source <a/>
