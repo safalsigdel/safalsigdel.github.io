@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6SSgPbgi4Zs5LHCWi-IHbcOVSEg=/0x0:1020x676/1200x800/filters:focal(299x145:461x307)/cdn.vox-cdn.com/uploads/chorus_image/image/69308783/2013-06-10phil_schiller.1419980091.0.jpg' width='700px' /><br/>
+Phil Schiller is one of the biggest names at Apple, and at the Epic v. Apple trial, his job was to make Apple feel small. Over two days of testimony including several hours of cross-examination, he didn't always succeed — but he left the stand without facing some of Epic's harshest lines of attack.
+<a href='https://www.theverge.com/2021/5/18/22442395/at-the-epic-trial-phil-schiller-got-away-clean'> Source <a/>

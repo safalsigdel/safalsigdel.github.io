@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tdOoNkX5lKJdWowP0W8kYQ2Zh2s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69307461/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
+Amazon has extended its moratorium on law enforcement use of its facial recognition software “until further notice,” according to Reuters. The ban was set to expire in June.
+<a href='https://www.theverge.com/2021/5/18/22442580/amazon-law-enforcement-police-facial-recognition-software-ban'> Source <a/>

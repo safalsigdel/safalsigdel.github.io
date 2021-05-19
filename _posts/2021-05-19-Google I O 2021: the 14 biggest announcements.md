@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vPK6drUWgTpCL2CurUTM-p_IM4g=/0x0:2096x1182/1200x0/filters:focal(0x0:2096x1182):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22520874/1._Android_12_Keyword_Header.jpeg' width='700px' /><br/>
+Google just finished its live Google I/O 2021 keynote, where the company unveiled a huge number of announcements, including a new look coming to Android, a bunch of features coming to its Google Workspace productivity suite, and even a new AI that talked as if it were Pluto.
+<a href='https://www.theverge.com/2021/5/18/22435419/google-io-2021-event-recap-biggest-announcements-pixel-android-12-wear-os-workspace'> Source <a/>

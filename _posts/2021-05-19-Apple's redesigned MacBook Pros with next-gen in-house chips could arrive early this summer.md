@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2IlzR7zFvxSAkpVvu8j3ghX3IBM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69304511/vpavic_4291_20201113_0429.0.0.jpg' width='700px' /><br/>
-The performance of Apple's M1 chips exceeded our expectations and made the 2020 MacBook Air the most impressive laptop we've used in years (it's also done wonders for the redesigned iMac). So it's not too surprising, as per Bloomberg News this morning, that Apple is readying a whole slate of Macs using next-gen versions of the company's in-house chips. The details sound very promising.
-<a href='https://www.theverge.com/2021/5/18/22441805/apple-macbook-pro-2021-redesign-chip-magsafe-sd-card-slot-hdmi-port'> Source <a/>

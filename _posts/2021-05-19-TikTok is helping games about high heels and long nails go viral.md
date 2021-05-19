@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OdUzuO3YJ3sAvow791lm2DUGAOA=/0x0:1920x1080/1200x675/filters:focal(1090x403:1396x709)/cdn.vox-cdn.com/uploads/chorus_image/image/69305650/HighHeels_1_0.0.jpg' width='700px' /><br/>
-One night in January, I was scrolling through TikTok with the bottomless human need for content when a video urged my glassy eyes awake. It was a TikTok for hypercasual phone game High Heels! made from an original video by TikTok user Isaiah Baca. He proclaimed that he had “found a game for baddies.”
-<a href='https://www.theverge.com/2021/5/18/22440209/tiktok-baddie-games-high-heels-nail-woman'> Source <a/>

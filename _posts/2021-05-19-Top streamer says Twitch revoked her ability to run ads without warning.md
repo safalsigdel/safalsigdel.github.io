@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZZhFU2cMn6GvOf4PI4jTFQaNdR8=/0x0:2098x1174/1200x800/filters:focal(837x254:1171x588)/cdn.vox-cdn.com/uploads/chorus_image/image/69308052/amouranth.0.png' width='700px' /><br/>
+Twitch has removed the ability for Kaitlyn “Amouranth” Siragusa, one of the most popular streamers on its platform, to run ads on her videos — even though it's unclear that she broke any of the site's rules. Siragusa said in a tweet that it's because her streams are “not advertiser friendly.”
+<a href='https://www.theverge.com/2021/5/18/22442733/amouranth-twitch-ads-suspended-indefinitely'> Source <a/>

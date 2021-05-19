@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PbfusexU91paBw0qbivUET91pEg=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/69304542/twarren_rtx3080_3_2.0.jpg' width='700px' /><br/>
-Nvidia is extending its cryptocurrency mining limits to newly manufactured GeForce RTX 3080, RTX 3070, and RTX 3060 Ti graphics cards. After nerfing the hash rates of the RTX 3060 for its launch in February, Nvidia is now starting to label new cards with a “Lite Hash Rate” or “LHR” identifier to let potential customers know the cards will be restricted for mining.
-<a href='https://www.theverge.com/2021/5/18/22441847/nvidia-rtx-3080-3070-ethereum-mining-drivers-limit-cryptocurrency'> Source <a/>
