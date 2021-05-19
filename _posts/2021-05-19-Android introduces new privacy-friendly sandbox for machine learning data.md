@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n3dtFGEGi8o3f_vWoC_G7RQ_l7k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69306476/acastro_180507_1777_android_privacy_0002.0.jpg' width='700px' /><br/>
-At the I/O developer conference on Tuesday, Google announced a range of new privacy measures, including a new partition within Android to manage machine learning data more securely.
-<a href='https://www.theverge.com/2021/5/18/22436367/google-io-android-private-computer-core-machine-learning-data-privacy'> Source <a/>
