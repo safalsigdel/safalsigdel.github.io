@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fBXxZDYge4rX8Z2Z6G8kV8c8W6c=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/69306755/bmw_ix.0.jpg' width='700px' /><br/>
-Nearly a year after Apple announced the iPhone would become your digital car key, Google is doing the same. Android 12 will officially let “select Pixel and Samsung Galaxy phones” natively double as a car key later this year, the company just announced at its Google I/O 2021 developer conference today.
-<a href='https://www.theverge.com/2021/5/18/22436410/google-android-auto-os-pixel-phone-key-io'> Source <a/>
