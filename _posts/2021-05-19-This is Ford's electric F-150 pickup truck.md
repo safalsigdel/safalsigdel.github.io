@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8Dg9xXMdmP7dAnLUY0kN_wS0SVM=/0x0:3588x1926/1200x800/filters:focal(1507x676:2081x1250)/cdn.vox-cdn.com/uploads/chorus_image/image/69306562/f150_lightning.6.png' width='700px' /><br/>
-Ford has revealed the all-electric F-150 pickup truck one day ahead of schedule. The truck, dubbed F-150 Lightning, was on display Tuesday at Ford's Rouge Electric Vehicle Center in Michigan during a speech from President Biden.
-<a href='https://www.theverge.com/2021/5/18/22442415/ford-f150-lightning-electric-pickup-truck-first-images'> Source <a/>

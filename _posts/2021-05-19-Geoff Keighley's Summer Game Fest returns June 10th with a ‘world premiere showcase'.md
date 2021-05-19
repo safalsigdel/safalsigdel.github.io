@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h62q7s7Kv2-CttPmWQAH84TUy8c=/0x0:4095x2730/1200x800/filters:focal(1656x541:2310x1195)/cdn.vox-cdn.com/uploads/chorus_image/image/69310584/1193629349.jpg.0.jpg' width='700px' /><br/>
+Summer Game Fest is back this year, and it will start on June 10th with an event called “Kick Off Live!” that's billed as a “spectacular world premiere showcase” with “more than a dozen” world premieres and announcements. The show, which will begin at 2PM ET, will be hosted by Geoff Keighley, who you might also know as the host of The Game Awards.
+<a href='https://www.theverge.com/2021/5/19/22442809/summer-game-fest-geoff-keighley-kick-off-live-weezer'> Source <a/>
