@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m7PLjKaU85m-qoiDvCABh6DLOoY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69306135/acastro_180504_1777_microsoft_0002.0.jpg' width='700px' /><br/>
-Microsoft's next major Windows 10 update is starting to roll out to devices today. The Windows 10 May 2021 Update focuses on improving remote work scenarios, with changes like being able to use multiple Windows Hello cameras on a single machine. That's particularly useful for Surface devices that owners might want to connect to a monitor with an additional webcam while working from home.
-<a href='https://www.theverge.com/2021/5/18/22442134/microsoft-windows-10-may-2021-update-remote-work-features'> Source <a/>

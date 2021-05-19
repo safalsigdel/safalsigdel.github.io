@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bkVmrfz285PIqI7YwOjdZ0XjQqA=/0x0:1240x840/1200x800/filters:focal(521x321:719x519)/cdn.vox-cdn.com/uploads/chorus_image/image/69309896/1240x840_logo_3_1.0.png' width='700px' /><br/>
+Music streaming service Deezer has revamped its Apple Watch app to let you listen to music without an internet connection, the company has announced. Previously Deezer's Apple Watch app has only been able to control music playback on a paired iPhone, but now paid subscribers can download songs for offline listening when they're away from their phones.
+<a href='https://www.theverge.com/2021/5/19/22443522/deezer-apple-watch-offline-listening'> Source <a/>

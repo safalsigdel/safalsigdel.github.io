@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZYMK8ZWYj0o_E4o42jz70Q0xEN0=/0x0:3987x2990/1200x800/filters:focal(1676x1177:2312x1813)/cdn.vox-cdn.com/uploads/chorus_image/image/69309872/ifa_vladsavov.0.jpg' width='700px' /><br/>
+IFA 2021's physical event has been canceled just weeks after promising it would return as an in-person show in Berlin in September. The event's organizers cited “global health uncertainties” relating to the Covid-19 pandemic for the cancellation, including the emergence of new variants of the virus and concerns about the speed of vaccine rollouts around the world.
+<a href='https://www.theverge.com/2021/5/19/22443539/ifa-2021-canceled-covid-19-pandemic'> Source <a/>

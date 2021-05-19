@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mvSE31lKi7z4MrHR7THphc4KYIk=/0x0:1920x1080/1200x675/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69305794/thumb_googleio.0.jpg' width='700px' /><br/>
-After taking a year off, Google is back with its I/O developer conference for 2021. Like most tech events over the past year, this is not an in-person event and will be streamed over the internet instead. Unlike most tech events over the past year, this keynote will actually be live, not prerecorded.
-<a href='https://www.theverge.com/2021/5/18/22436406/google-io-live-blog-news-announcements-products-keynote'> Source <a/>
