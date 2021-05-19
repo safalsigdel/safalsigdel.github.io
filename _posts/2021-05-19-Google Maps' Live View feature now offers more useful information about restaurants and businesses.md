@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JJhbh8kVo3vWGDc14fw-75-NbuU=/0x0:898x654/1200x800/filters:focal(378x256:520x398)/cdn.vox-cdn.com/uploads/chorus_image/image/69306774/Screen_Shot_2021_05_18_at_7.29.07_PM.0.png' width='700px' /><br/>
-Google announced a bunch of new features for Google Maps at its 2021 I/O developer conference today, including upgrades to its handy Live View tool, which helps you navigate the world through augmented reality.
-<a href='https://www.theverge.com/2021/5/18/22442451/google-maps-live-view-update-features-ai-ar'> Source <a/>
