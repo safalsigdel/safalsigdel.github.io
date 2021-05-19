@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FYcUDx1tPmaMzQOeAtAf0TYqTTg=/0x0:1024x679/1200x800/filters:focal(431x259:593x421)/cdn.vox-cdn.com/uploads/chorus_image/image/69306369/capdome-2013-3.0.jpg' width='700px' /><br/>
-After four years of hearings and publisher complaints, Republicans have gotten awfully quiet about Section 230. Prominent conservatives may still tweet in all caps to repeal the law when they're pissed at Facebook, but it's no longer the only solution they're talking about.
-<a href='https://www.theverge.com/22442359/republican-common-carrier-social-media-facebook-trump-ban-antitrust-section-230'> Source <a/>
