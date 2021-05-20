@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PJsU0q3kTER-an38kBluuP5otyo=/0x0:1614x1046/1200x800/filters:focal(678x394:936x652)/cdn.vox-cdn.com/uploads/chorus_image/image/69312330/Screen_Shot_2021_05_19_at_1.48.00_PM.0.png' width='700px' /><br/>
+Yesterday brought the momentous news that Google and Samsung will merge together their Wear OS and Tizen-based smartwatch platforms into a single operating system. The new software is currently being referred to as Wear, but that name could change as we get closer to the first devices that will ship with it.
+<a href='https://www.theverge.com/2021/5/19/22443809/google-samsung-wear-os-tizen-things-we-know'> Source <a/>

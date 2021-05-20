@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6SXwxphDgN7IY4Ry1_eUewhIfJU=/0x0:1024x512/1200x800/filters:focal(431x175:593x337)/cdn.vox-cdn.com/uploads/chorus_image/image/69310542/NBA_partnership_announcement_image_1.0.jpg' width='700px' /><br/>
-Soon you'll be able to fight to the death in Fortnite while representing your favorite NBA team.
-<a href='https://www.theverge.com/2021/5/19/22443608/fortnite-nba-uniform-jerseys'> Source <a/>

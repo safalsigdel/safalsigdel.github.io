@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C5DUmhHtkHdtNEr3sbuLqBDsL6M=/0x0:640x427/1200x800/filters:focal(269x163:371x265)/cdn.vox-cdn.com/uploads/chorus_image/image/69311570/ie9logo.0.png' width='700px' /><br/>
+Microsoft is finally retiring Internet Explorer next year, after more than 25 years. The aging web browser has largely been unused by most consumers for years, but Microsoft is putting the final nail in the Internet Explorer coffin on June 15th, 2022, by retiring it in favor of Microsoft Edge.
+<a href='https://www.theverge.com/2021/5/19/22443997/microsoft-internet-explorer-end-of-support-date'> Source <a/>

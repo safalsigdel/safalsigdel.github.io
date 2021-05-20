@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OhWDYziaW3TcFj1n_5kBA-3f3ck=/0x0:2400x1350/1200x675/filters:focal(1008x483:1392x867)/cdn.vox-cdn.com/uploads/chorus_image/image/69314601/2_16x9.0.jpg' width='700px' /><br/>
+The most popular vehicle in the United States is going electric. Ford has revealed the F-150 Lightning, an all-electric version of its popular pickup truck due out in 2022, and it's aggressively priced for an EV. The base model with 230 miles of range starts at $39,974, while the extended range version starts in the mid-$50,000s and can go about 300 miles.
+<a href='https://www.theverge.com/2021/5/19/22442777/ford-f-150-lightning-electric-truck-specs-price'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WqfT3bIA5qpqBZM3fYzjkAn5JwQ=/0x0:2096x1182/1200x800/filters:focal(881x424:1215x758)/cdn.vox-cdn.com/uploads/chorus_image/image/69306834/Copy_of_derm___hero_image_2.0.png' width='700px' /><br/>
-Google's latest foray into health care is a web tool that uses artificial intelligence to help people identify skin, hair, or nail conditions. The company previewed the tool at I/O today, and it says it hopes to launch a pilot later this year.
-<a href='https://www.theverge.com/2021/5/18/22440754/google-health-ai-skin-condition-model-dermatology'> Source <a/>

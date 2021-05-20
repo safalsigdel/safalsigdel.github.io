@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nRuFaDZjbPdOYLwZG6hkbxsmoXM=/0x0:1739x1027/1200x800/filters:focal(731x375:1009x653)/cdn.vox-cdn.com/uploads/chorus_image/image/69310392/352_2021_05_18_352_chromescreen.0.jpg' width='700px' /><br/>
-Let's talk about some big changes announced to the platform where many of us get a lot of work done: Google Workspace, home to the suite of cloud-based tools that includes Docs.
-<a href='https://www.theverge.com/2021/5/19/22443297/google-docs-workplace-io-changes'> Source <a/>
