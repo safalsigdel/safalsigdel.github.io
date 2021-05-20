@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ch6pdn-ON547TIcEPDYw4GoLFJs=/0x0:985x554/1200x800/filters:focal(415x199:571x355)/cdn.vox-cdn.com/uploads/chorus_image/image/69315821/pia23720_1041.0.jpg' width='700px' /><br/>
+Today I learned that the Ingenuity drone copter twirling about on Mars communicates with the Perseverance rover using 900MHz Zigbee radios. Not Wi-Fi, GSM, or something exotic like fission-powered lasers or space algae, but the same consumer tech you use to turn on a Philips Hue lightbulb.
+<a href='https://www.theverge.com/2021/5/20/22445330/zigbee-on-mars-ingenuity-helicopter-perseverance-rover'> Source <a/>

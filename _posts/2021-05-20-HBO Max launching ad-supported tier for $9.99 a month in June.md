@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jkxxwMVu4m35XeC_2w8yN_HQ4cw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69311636/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
-HBO Max will launch an ad-supported tier in June for $9.99 per month, offering a cheaper option than the full $14.99-per-month ad-free subscription. The news was announced during a WarnerMedia presentation for advertisers today. The price and launch date were rumored last month.
-<a href='https://www.theverge.com/2021/5/19/22444063/hbo-max-ad-supported-tier-announced-pricing-release-date'> Source <a/>
