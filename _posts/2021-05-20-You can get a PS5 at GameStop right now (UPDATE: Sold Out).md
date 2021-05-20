@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ehwQjp9CjjCvkWpLFxlVA09wcHo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69312643/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
-Update May 19th, 2021, 5:03 PM ET: GameStop has sold out of both PS5 bundles.
-<a href='https://www.theverge.com/2021/5/19/22444260/ps5-disc-discless-gamestop-restock-sony'> Source <a/>
