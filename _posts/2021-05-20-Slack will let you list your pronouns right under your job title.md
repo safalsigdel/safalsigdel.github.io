@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nEBF4nwFSpoh3wF_5k8gwhF_s8M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69314095/acastro_190412_1777_slack_0001.0.jpg' width='700px' /><br/>
-Slack is now rolling out a new field for profiles that will let you list your pronouns right under your name and job title. Once filled out, your pronouns will appear both on the mini-profiles you see when you click on someone's name and in their full profiles.
-<a href='https://www.theverge.com/2021/5/19/22444705/slack-pronouns-field-profiles'> Source <a/>
