@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qNvet_rk4uIDD69fIlT5Ud3WczA=/0x0:1382x948/1200x800/filters:focal(581x364:801x584)/cdn.vox-cdn.com/uploads/chorus_image/image/69314982/Screen_Shot_2021_05_19_at_5.19.17_PM.0.png' width='700px' /><br/>
+Sphero, a long-time maker of robotic toys, has announced a robotic toy car that's designed to teach young children about the fundamentals of programming (via Gizmodo). It's called the Sphero indi, and kids can use different-colored silicone tiles to give the car instructions, letting them create courses and mazes (and hopefully learn how to logically solve problems while doing so).
+<a href='https://www.theverge.com/2021/5/19/22444848/sphero-car-robot-learning-toy-indi-stem-steam-programming-scratch'> Source <a/>
