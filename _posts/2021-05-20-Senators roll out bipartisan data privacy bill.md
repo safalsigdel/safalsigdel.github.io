@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mZ-f8PuvBps9yq4JN8rvEmXv1W8=/0x0:4637x3092/1200x800/filters:focal(1949x1176:2689x1916)/cdn.vox-cdn.com/uploads/chorus_image/image/69315962/1232578929.0.jpg' width='700px' /><br/>
+Sen. Amy Klobuchar is back with a bill to protect consumer data privacy when collected by large tech platforms like Facebook and Google.
+<a href='https://www.theverge.com/2021/5/20/22444515/amy-klobuchar-data-privacy-protection-facebook-state-laws'> Source <a/>
