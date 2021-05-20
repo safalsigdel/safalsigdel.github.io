@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YEerrCoPD2NTQcwwfBtoHLS0Vec=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69311377/acastro_180508_1777_google_IO_0001.0.jpg' width='700px' /><br/>
-Yesterday at Google's I/O developer conference, the company outlined ambitious plans for its future built on a foundation of advanced language AI. These systems, said Google CEO Sundar Pichai, will let users find information and organize their lives by having natural conversations with computers. All you need to do is speak, and the machine will answer.
-<a href='https://www.theverge.com/2021/5/19/22443441/google-ai-language-models-dangers-risk-io-timnit-gebru-margaret-mitchell-firing'> Source <a/>

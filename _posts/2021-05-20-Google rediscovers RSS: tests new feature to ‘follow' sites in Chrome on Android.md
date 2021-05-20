@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_cTI3oOt24JweHFEPw-DVV2nG90=/78x92:920x708/1200x800/filters:focal(426x343:586x503)/cdn.vox-cdn.com/uploads/chorus_image/image/69315637/google_rss.0.jpg' width='700px' /><br/>
+Google is testing a new feature for its Chrome browser on Android that lets users “follow” sites to create an updating list of new content they publish. The feature is based on RSS, an open web standard that's been the backbone of many popular web aggregation tools in the past. That includes Google's own, much beloved (and now defunct) Google Reader.
+<a href='https://www.theverge.com/2021/5/20/22445284/google-rss-chrome-android-feature-test'> Source <a/>
