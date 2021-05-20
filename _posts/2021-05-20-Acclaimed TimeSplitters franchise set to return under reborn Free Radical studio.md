@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3SYSVLsdw2CvL4W078jZcQhmfRk=/0x0:580x334/1200x800/filters:focal(244x121:336x213)/cdn.vox-cdn.com/uploads/chorus_image/image/69317367/new_timesplitters_game_580x334.0.jpg' width='700px' /><br/>
+TimeSplitters, the acclaimed PS2-era first-person shooter franchise, is being brought back to life by a newly reformed Free Radical Design, publisher Deep Silver announced today. Development is set to commence in the coming months after the new studio is built. The studio, which carries the same name as the original TimeSplitters developer, will be headed by Steve Ellis and David Doak, who founded Free Radical Design in 1999.
+<a href='https://www.theverge.com/2021/5/20/22445699/timesplitters-free-radical-design-deep-silver'> Source <a/>

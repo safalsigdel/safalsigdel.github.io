@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aiOWyCaMxx7S7jmENF9yZA9XOF4=/0x0:1298x640/1200x800/filters:focal(559x284:765x490)/cdn.vox-cdn.com/uploads/chorus_image/image/69313862/Screen_Shot_2021_05_19_at_12.37.31_PM.0.png' width='700px' /><br/>
-Twitter is phasing out its image cropping algorithm in favor of showing larger previews, and the company has announced that it's been looking into accusations that the system was biased. It found that the crops were slightly biased towards certain races and genders, but Twitter's main gripe seems to be that the algorithm doesn't give users control.
-<a href='https://www.theverge.com/2021/5/19/22444372/twitter-image-crop-racial-gender-bias-research'> Source <a/>
