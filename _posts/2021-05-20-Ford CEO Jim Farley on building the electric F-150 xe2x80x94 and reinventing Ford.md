@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/Xi_YbD_oJf_ZZOvA51EOxMB14eQ=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69315611/VRG_ILLO_4594_Decoder_Jim_Farley_s.0.jpg' width='700px' /><br/>
-Ford just announced the new F-150 Lightning, the company's first all-electric pickup truck, and the second vehicle in its major push into EVs — the first, of course, was the Mustang Mach-E.
+Ford just announced the new F-150 Lightning, the company's first all-electric pickup truck and the second vehicle in its major push into EVs — the first, of course, was the Mustang Mach-E.
 <a href='https://www.theverge.com/2021/5/20/22444294/ford-f150-lightning-pickup-truck-jim-farley-interview'> Source <a/>
