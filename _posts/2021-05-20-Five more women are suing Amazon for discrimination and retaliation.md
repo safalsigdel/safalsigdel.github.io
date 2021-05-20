@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LqMSb-KhLHKCl5sOCgVNSxp4O9Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69314107/acastro_181114_1777_amazon_hq2_0006.0.jpg' width='700px' /><br/>
-Five female Amazon employees filed discrimination lawsuits against the company Wednesday, Recode reports. The women worked at vastly different areas of the business, ranging from a warehouse to corporate HR. All say they were retaliated against by white managers after bringing forward complaints of racial discrimination, sexism, or sexual harassment.
-<a href='https://www.theverge.com/2021/5/19/22444635/amazon-five-discrimination-retaliation-lawsuits-warehouse'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2gq7rUcGmS421w3991eydBB531s=/0x0:2040x1360/1200x675/filters:focal(875x660:1201x986)/cdn.vox-cdn.com/uploads/chorus_image/image/69317782/mchin_20190807_4585_0001.0.jpg' width='700px' /><br/>
+Yep, this is a Swift. It has all the features that characterize Acer's Swift line: a thin body, a lustrous Acer logo, a chassis so light it's hard to believe you're holding a laptop and not an empty shell. But the 3X is targeting a slightly different market from the Swift 3 and Swift 5 for one reason alone: it has a discrete GPU.
+<a href='https://www.theverge.com/22445605/acer-swift-3x-review-14-inch-laptop-specs-features-price'> Source <a/>
