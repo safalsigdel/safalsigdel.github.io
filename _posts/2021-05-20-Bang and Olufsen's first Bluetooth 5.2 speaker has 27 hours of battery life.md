@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ncynnnqrpu3ZVQ8vpGUm2wntizA=/0x0:1215x809/1200x800/filters:focal(511x308:705x502)/cdn.vox-cdn.com/uploads/chorus_image/image/69315438/ezgif.com_gif_maker__8_.0.jpg' width='700px' /><br/>
+Bang and Olufsen's latest Bluetooth speaker is the Beosound Explore, a $199 (xc2xa3169) speaker that's rated to run for 27 hours “at typical listening volumes” before needing a charge.
+<a href='https://www.theverge.com/2021/5/20/22445255/bang-and-olufsen-beosound-explore-bluetooth-5-2-speaker-price-released-date-features'> Source <a/>
