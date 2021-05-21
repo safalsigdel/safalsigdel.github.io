@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iJo6l5GQiUxI2XPqARrFQMwC9Xk=/0x0:2040x1360/1200x1200/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/22015296/vpavic_4278_20201030_0073.jpg' width='700px' /><br/>
-Update May 20th, 2021, 3:44PM ET: The PS5 seems to be out of stock at Walmart, as the retailer hasn't refreshed its pages in a little more than 10 minutes. We'll be on the lookout for more opportunities.
-<a href='https://www.theverge.com/2021/5/20/22445559/playstation-5-ps5-restock-walmart'> Source <a/>
