@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/N0SEnQ39Pl6RQeDvh5Rr5NlvI7Q=/0x0:1000x563/1200x800/filters:focal(420x202:580x362)/cdn.vox-cdn.com/uploads/chorus_image/image/69316430/Photoshop_Blade_Sign.max_1000x1000.0.jpg' width='700px' /><br/>
 Google is opening its first physical retail Google Store, the company announced today, which will debut in New York City this summer.
-<a href='https://www.theverge.com/2021/5/20/22445472/google-first-physical-retail-store-chelsea-nyc-summer-2021'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/N0SEnQ39Pl6RQeDvh5Rr5NlvI7Q=/0x0:1000x563/1200x800/filters:focal(420x202:580x362)/cdn.vox-cdn.com/uploads/chorus_image/image/69316430/Photoshop_Blade_Sign.max_1000x1000.0.jpg' width='700px' /><br/>
-Google is opening its first physical retail Google Store, the company announced today, which will debut in New York City this summer.
 <a href='https://www.theverge.com/2021/5/20/22445472/google-first-physical-retail-store-chelsea-nyc-summer-2021'> Source <a/>
