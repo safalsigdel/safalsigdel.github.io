@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tJB-DIYNwj_hF9b839QmU32uNQE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69321579/DSCF7579.0.jpg' width='700px' /><br/>
+Kensington's StudioDock, the high-end $399.99 desktop hub for the iPad Pro that was released earlier this year, isn't compatible with the new 12.9-inch model hitting stores today. A representative for Kensington confirmed the news to The Verge, saying it's because the new iPad Pro is 0.5mm thicker than the 2018 and 2020 models.
+<a href='https://www.theverge.com/2021/5/21/22446998/kensington-studiodock-2021-ipad-pro-compatibility-new-version'> Source <a/>
