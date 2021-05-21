@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zp4urZmOPKjVKYa0_B2PNjdpAdY=/0x0:2400x1350/1200x800/filters:focal(1008x483:1392x867)/cdn.vox-cdn.com/uploads/chorus_image/image/69318559/3_16x9.0.jpg' width='700px' /><br/>
+Ford has revealed its first all-electric F-150, the Lightning, and on paper it looks like a really compelling truck. It's priced aggressively for an electric vehicle, has plenty of power, and looks to be more capable at towing and hauling than the cheapest gas-powered F-150s.
+<a href='https://www.theverge.com/2021/5/20/22445725/ford-f150-lightning-ev-truck-specs-cybertruck-hummer-rivian'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Nlvk9QFmt4K6jO7O41Xrl_uOdAk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69318277/acastro_190412_1777_slack_0001.0.jpg' width='700px' /><br/>
+Slack experienced frustrating issues for many on Thursday, including for some of us here at The Verge. For me, some messages just wouldn't send. But a little more than an hour after Slack first reported the outage, the company said that the issues were resolved.
+<a href='https://www.theverge.com/2021/5/20/22446007/slack-down-outage-messages-trouble-loading'> Source <a/>
