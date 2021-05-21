@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vWvQLKOxw8ryFiQI239jOhIt-a0=/0x0:1920x1080/1200x800/filters:focal(826x331:1132x637)/cdn.vox-cdn.com/uploads/chorus_image/image/69322381/Spectacles_DonAllenIII_Portrait.0.png' width='700px' /><br/>
+Snap has agreed to acquire WaveOptics, the supplier of the augmented reality displays that power its new Spectacles glasses, for more than $500 million, The Verge has learned. The deal is Snap's largest ever, underscoring the company's long-term bet that AR eyewear will eventually go mainstream.
+<a href='https://www.theverge.com/2021/5/21/22447150/snap-waveoptics-acquisition-500m-spectacles-waveguides'> Source <a/>

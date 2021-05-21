@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zXKjrbIqsNsmLea5otxXjqaRwiE=/0x0:1958x1092/1200x0/filters:focal(0x0:1958x1092):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22528419/Screen_Shot_2021_05_20_at_9.30.58_AM.png' width='700px' /><br/>
-Snapchat is introducing a new type of augmented reality lens, called “Connected Lenses,” which allows Snapchat users to connect and enjoy an AR experience or game together — even if they're not in the same physical space.
-<a href='https://www.theverge.com/2021/5/20/22445495/snapchat-connected-lenses-ar-friends-lego'> Source <a/>

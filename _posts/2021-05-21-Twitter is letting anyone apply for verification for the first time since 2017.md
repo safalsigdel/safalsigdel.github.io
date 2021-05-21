@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wqbiwoblnejZEevGsciZVjDrdvk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69316943/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter is relaunching its public verification program, allowing anyone to apply for a coveted blue check mark. The company also previewed potential changes coming to profiles and the upcoming label for automated accounts.
-<a href='https://www.theverge.com/2021/5/20/22435770/twitter-public-verification-program-launch-2021-pronouns-profile'> Source <a/>

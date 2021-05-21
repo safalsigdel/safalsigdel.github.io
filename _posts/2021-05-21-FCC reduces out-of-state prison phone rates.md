@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M7jBVs04vP_CJ_EqqKFOKqR8Ok8=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/69318065/phone1_1020.1419979655.0.jpg' width='700px' /><br/>
-The Federal Communications Commission voted unanimously Thursday to lower some of the rates incarcerated people and their families pay to speak over the phone. For jurisdictional reasons, the measure only applies to interstate or international calls.
-<a href='https://www.theverge.com/2021/5/20/22445899/fcc-state-phone-rates-prison-authority-jessica-rosenworcel'> Source <a/>
