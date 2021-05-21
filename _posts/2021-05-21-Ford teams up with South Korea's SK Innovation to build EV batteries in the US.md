@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0eWDClG4p9JyMXqYI1FenpH3Al4=/0x0:8674x4879/1200x800/filters:focal(3644x1747:5030x3133)/cdn.vox-cdn.com/uploads/chorus_image/image/69317294/22_16x9.0.jpg' width='700px' /><br/>
-Hot off the heels of the public debut of the F-150 Lightning pickup truck, Ford announced that it will form a joint venture with South Korea's SK Innovation to manufacture batteries for electric vehicles at scale.
-<a href='https://www.theverge.com/2021/5/20/22445688/ford-sk-innovation-ev-battery-production-joint-venture'> Source <a/>

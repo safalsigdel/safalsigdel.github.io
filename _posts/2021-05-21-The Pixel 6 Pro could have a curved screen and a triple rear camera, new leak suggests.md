@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/85-pgz23COdN2dC0AbUDywA4KRM=/0x0:5120x2880/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/69319101/PIXEL_6_PRO_5K3.0.jpeg' width='700px' /><br/>
-New images from reputable leaker OnLeaks (via digit.in) show what may be a bold step forward for Google's Pixel series. The Pixel 6 Pro, as pictured in the alleged renders, could offer a 6.67-inch curved display and a rear triple-camera array — a Pixel first — including a periscope-style telephoto lens.
-<a href='https://www.theverge.com/2021/5/20/22446078/google-pixel-6-pro-leak-specs-camera-screen'> Source <a/>
