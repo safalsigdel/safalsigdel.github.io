@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MEprq8fgPzNInKTOmMvd3Do0wgk=/0x0:4000x2666/1200x800/filters:focal(957x509:1597x1149)/cdn.vox-cdn.com/uploads/chorus_image/image/69316369/1232992744.0.jpg' width='700px' /><br/>
-Apple's software engineering head Craig Federighi had a tricky task in the Epic v. Apple trial: explaining why the Mac's security wasn't good enough for the iPhone.
-<a href='https://www.theverge.com/2021/5/20/22444471/epic-apple-fortnite-antitrust-trial-craig-federighi-ios-security'> Source <a/>
