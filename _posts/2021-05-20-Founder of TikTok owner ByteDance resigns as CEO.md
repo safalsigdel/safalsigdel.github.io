@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ECeSBpG5RbABWs5vU9ZtnVIb6Lk=/0x0:4000x2667/1200x800/filters:focal(722x1282:1362x1922)/cdn.vox-cdn.com/uploads/chorus_image/image/69315339/1137246342.0.jpg' width='700px' /><br/>
-ByteDance's CEO has announced he's stepping down from his role leading the company whose success with TikTok led it to become the world's most valuable startup. Zhang Yiming, who co-founded ByteDance in 2012, will move to another position at the company, and fellow co-founder Liang Rubo will become the new CEO. Liang presently runs HR at ByteDance.
-<a href='https://www.theverge.com/2021/5/20/22445212/tiktok-bytedance-ceo-zhang-yiming-steps-down'> Source <a/>

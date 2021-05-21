@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BfOCK_O1DJZyxue2aD34urX-UWU=/0x0:1000x500/1200x800/filters:focal(420x170:580x330)/cdn.vox-cdn.com/uploads/chorus_image/image/69315397/zagg_ipad_pro_keys_with_trackpad_1.0.jpeg' width='700px' /><br/>
-Zagg has announced a new selection of iPad keyboards: the Pro Keys with Trackpad, a case with a detachable Bluetooth keyboard; the laptop-style Rugged Book with an adjustable magnetic hinge; and the trackpad-less Pro Keys case (via 9to5Mac).
-<a href='https://www.theverge.com/2021/5/20/22444822/zagg-pro-keys-trackpad-keyboard-case-ipad'> Source <a/>

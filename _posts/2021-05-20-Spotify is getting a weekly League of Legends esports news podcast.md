@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WNxT08UfSsQpTI1Nvg1TLz13HOo=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/69315584/51110579363_290f72e095_k.0.jpg' width='700px' /><br/>
-Spotify is adding a weekly news show about League of Legends esports to its roster of Spotify Original podcasts. The show, Rift Reaction, is set to be a 40-episode series and will be hosted by esports content creator and journalist Travis Gafford and League of Legends Championship Series analyst Emily Rand. The first episode is out now, and new episodes will air every Wednesday, exclusively on Spotify.
-<a href='https://www.theverge.com/2021/5/20/22444869/spotify-league-of-legends-weekly-esports-podcast-rift-reaction'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Nnur6NMlMEtYsprZb5J9OnqUREA=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/69320357/RACRA_Juggernaut_Legal_scaled.0.jpeg' width='700px' /><br/>
+Ratchet & Clank: Rift Apart brings alternate realities to the beloved PlayStation franchise on June 11th, and along with leveraging the PlayStation 5's SSD, Insomniac Games announced new accessibility features on Thursday that build on the studio's recent work and address the limited options presented in the earlier PS4 Ratchet & Clank.
+<a href='https://www.theverge.com/2021/5/20/22445828/ratchet-clank-rift-apart-ps5-accessibility-toggles'> Source <a/>

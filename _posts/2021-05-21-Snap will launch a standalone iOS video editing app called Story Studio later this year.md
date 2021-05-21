@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Snap wants to be the company people think of when they go to edit videos on mobile, so during its annual partnership summit today, the company announced a new iOS app that'll help it achieve that goal: Story Studio. It'll give people editing tools specifically designed for mobile, or vertical, videos. The app will pull data from Snapchat and its new Spotlight feature, more familiarly recognized as its TikTok competitor, to help people figure out how and what to make.
+<a href='https://www.theverge.com/2021/5/20/22445373/snap-ios-story-studio-app-video-edit-app-spotlight'> Source <a/>

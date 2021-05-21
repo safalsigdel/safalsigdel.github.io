@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IBMj9J-UItyKjDgLn4PgdNzqSmg=/0x0:5221x3249/1200x800/filters:focal(1951x1411:2949x2409)/cdn.vox-cdn.com/uploads/chorus_image/image/69319173/DSCF2173.0.jpg' width='700px' /><br/>
+MagSafe PopSockets are finally here, after the famous phone handle company announced  they would be coming in January. The PopGrip for MagSafe sells for $30, which is two to three times more expensive than the adhesive versions, but the bigger question that people have been asking since the announcement is whether they'll be as trustworthy. I decided it was time to find out.
+<a href='https://www.theverge.com/22445808/magsafe-popsocket-iphone-review-test-stick-adhesive'> Source <a/>

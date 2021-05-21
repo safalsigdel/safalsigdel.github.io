@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jKJtjlZ7FeYSytKAuWiNFYpUrlM=/0x0:2700x1800/1200x800/filters:focal(1385x1207:1817x1639)/cdn.vox-cdn.com/uploads/chorus_image/image/69319427/SoundForm_Connect.0.jpeg' width='700px' /><br/>
+Belkin's new SoundForm Connect Audio is a $99 dongle that lets you turn any pair of speakers with either a 3.5mm or optical port into an AirPlay 2-compatible setup. In other words, it's effectively an Apple version of the (now-defunct) Chromecast Audio.
+<a href='https://www.theverge.com/2021/5/20/22446088/belkin-soundform-connect-audio-airplay-2-adapter-dongle'> Source <a/>

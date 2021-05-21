@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IIUZpP9-z_o5Uh5MQhQ4i9S20tw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69319981/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
+CNA Financial, one of the largest US insurance companies, paid $40 million to free itself from a ransomware attack that occurred in March, according to a report from Bloomberg. The hackers reportedly demanded $60 million when negotiations started about a week after some of CNA's systems were encrypted, and the insurance company paid the lower sum a week later.
+<a href='https://www.theverge.com/2021/5/20/22446388/cna-insurance-ransomware-attack-40-million-dollar-ransom'> Source <a/>

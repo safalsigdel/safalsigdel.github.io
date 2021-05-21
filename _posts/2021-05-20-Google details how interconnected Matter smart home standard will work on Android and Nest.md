@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o_VTZCl57764Jw4r1V8NiIz-67Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69314310/dseifert_201115_4301_0005.0.0.jpg' width='700px' /><br/>
-Google is one of the major companies behind the upcoming interconnected cross-platform smart home standard Matter, and today, the company has explained how it'll work to support Matter with its Android devices and Nest smart home products.
-<a href='https://www.theverge.com/2021/5/19/22444571/google-interconnected-matter-smart-home-standard-android-nest-details-io-2021'> Source <a/>

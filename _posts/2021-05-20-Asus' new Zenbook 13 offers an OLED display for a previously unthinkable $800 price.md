@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qqFNj0o-NGCPV5jW8y_Kzs8Z4nU=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/69314538/asus_zenbook_oled.0.jpg' width='700px' /><br/>
-If you told me you'd found an OLED laptop for just $800, I'd have warned you against refurbished computers and deep-discount closeout sales. The inky blackness and gorgeous colors of OLED have not come cheap. Dell charges a $300 premium just for the screen. And yet Asus's new affordable OLED laptop defies those expectations.
-<a href='https://www.theverge.com/2021/5/19/22444821/asus-zenbook-13-oled-um325-ux325-price-release-date-specs'> Source <a/>
