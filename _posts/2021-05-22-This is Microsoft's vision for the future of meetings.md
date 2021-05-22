@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yzlDJqtXj8Rpe5Kyi13g4fzXqAA=/0x0:2494x1398/1200x0/filters:focal(0x0:2494x1398):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22530228/MRiCWV1.jpeg' width='700px' /><br/>
-Microsoft is outlining its vision for the future of meetings today. After a year that's seen more people dialing into the office remotely, the company is once again banging the drum for hybrid work: a model that combines remote access with in-person work.
-<a href='https://www.theverge.com/2021/5/21/22447048/microsoft-teams-future-meetings-features'> Source <a/>
