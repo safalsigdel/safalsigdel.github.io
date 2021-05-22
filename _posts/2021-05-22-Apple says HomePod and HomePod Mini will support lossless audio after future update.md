@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0yYmL7_Ztk_WGjEifZZ-5kPYzuI=/0x0:2040x1360/1200x800/filters:focal(888x671:1214x997)/cdn.vox-cdn.com/uploads/chorus_image/image/69328286/jbareham_180202_2266_0042.0.jpg' width='700px' /><br/>
+In a new support document on its website, Apple dives a little deeper into the details around the upcoming launch of lossless audio on Apple Music.
+<a href='https://www.theverge.com/2021/5/22/22448933/apple-music-lossless-homepod-mini-support-confirmed'> Source <a/>
