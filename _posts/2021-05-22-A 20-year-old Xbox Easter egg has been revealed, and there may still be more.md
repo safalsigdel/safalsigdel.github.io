@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WKi4sv-NgAqTCmkiStCiRWiE3HA=/0x0:2874x1728/1200x800/filters:focal(1208x635:1666x1093)/cdn.vox-cdn.com/uploads/chorus_image/image/69326415/Screen_Shot_2021_05_21_at_2.07.50_PM.0.png' width='700px' /><br/>
+Kotaku has revealed an Easter egg that's been hidden on the original Xbox for almost twenty years, after a developer who worked on the console sent in a tip. The Easter egg, which has apparently remained secret until now, can show you the Xbox Dashboard Team's names after you follow a byzantine set of steps (as is par for the course when it comes to some video game secrets).
+<a href='https://www.theverge.com/2021/5/21/22448039/20-year-old-xbox-easter-egg-developer-revealed'> Source <a/>

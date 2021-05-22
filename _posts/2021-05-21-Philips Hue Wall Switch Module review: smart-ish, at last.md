@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iwMJY6m1Aro3QF2IZlwjIb8BB8A=/0x0:2040x1530/1200x675/filters:focal(999x1087:1325x1413)/cdn.vox-cdn.com/uploads/chorus_image/image/69321924/verge_IMG_7624_2040pxl.0.jpg' width='700px' /><br/>
-You've undoubtedly run across taped light switches like the one pictured above if you've ever spent time in Airbnbs. Hell, maybe you have some of these in your own smart home. No judgement, we've all been there, which is why I just installed a Philips Hue Wall Switch Module in my own house.
-<a href='https://www.theverge.com/2021/5/21/22447008/hue-wall-module-make-any-switch-smart'> Source <a/>

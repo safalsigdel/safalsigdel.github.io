@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QuLvQCEbGLM1VXioPzXapIXmK2M=/0x0:2732x1760/1200x800/filters:focal(1148x662:1584x1098)/cdn.vox-cdn.com/uploads/chorus_image/image/69323984/PF_rendering_p4.0.jpg' width='700px' /><br/>
+EV startup Fisker Inc. says it will make the first all-electric popemobile, using a modified version of its forthcoming Ocean SUV. Automotive designer Henrik Fisker and Geeta Gupta-Fisker (his wife and Fisker Inc. co-founder) presented Pope Francis with images of the proposed design during a meeting at the Vatican on Thursday.
+<a href='https://www.theverge.com/2021/5/21/22447399/fisker-inc-electric-popemobile-vatican-pope-francis-ocean-suv'> Source <a/>

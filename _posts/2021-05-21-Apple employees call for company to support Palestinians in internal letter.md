@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ksJF3BrhPZ4Dp4SuDZCbsAiG3OE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69319479/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-Apple employees are circulating an internal letter calling on Tim Cook to put out a statement supporting the Palestinian people. Nearly 1,000 workers have signed.
-<a href='https://www.theverge.com/2021/5/20/22446059/apple-employees-palestinians-support-internal-letter-tim-cook'> Source <a/>

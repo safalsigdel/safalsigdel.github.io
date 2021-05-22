@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B4HTjldSxAmnHYnW6uleuujb2IA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69324270/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
+India's government has criticized Twitter for applying its “manipulated media” label to some Indian politicians' tweets about COVID-19 efforts, and TechCrunch and Indian news media outlets reported Friday. The government has asked Twitter to remove the tags out of “fairness and equity,” saying the application of the labels affects the platform's image as “neutral and unbiased.”
+<a href='https://www.theverge.com/2021/5/21/22447379/twitter-india-covid19-politician-tweets-manipulated-media'> Source <a/>

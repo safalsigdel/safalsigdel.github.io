@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tFQZ52VYZUek7pn_YJ0m6x-e3hM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69319829/acastro_190412_1777_slack_0002.0.jpg' width='700px' /><br/>
-Slack has added a small but very welcome new feature: when you're setting a status, you can check a box in that same menu to pause notifications for as long as that status is up.
-<a href='https://www.theverge.com/2021/5/20/22446385/slack-pause-notifications-set-status-menu'> Source <a/>

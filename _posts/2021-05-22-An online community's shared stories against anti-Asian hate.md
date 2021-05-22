@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pLw-SOqhvMkXUGw4V_cB_mQqQfg=/0x0:1800x1200/1200x675/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/69324633/solo_cropped.0.jpg' width='700px' /><br/>
+After tucking her mom in for the night, Elizabeth Kari found herself scrolling through comments on her GoFundMe campaign well past 3AM. She had started the campaign to raise money for her mom's recovery from a now-infamous assault that took place in New York City and to support community groups and other survivors of anti-Asian hate. Soon, people were sending more than donations.
+<a href='https://www.theverge.com/2021/5/21/22447553/anti-asian-american-hate-story-aapi-belong'> Source <a/>

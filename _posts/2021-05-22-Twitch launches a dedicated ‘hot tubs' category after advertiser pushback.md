@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ML7ZWz7kGsh9Hs3raDn8gooFKxI=/0x0:2880x1642/1200x800/filters:focal(513x232:973x692)/cdn.vox-cdn.com/uploads/chorus_image/image/69325279/Screen_Shot_2021_05_21_at_3.08.21_PM.0.png' width='700px' /><br/>
+Twitch is launching a dedicated category for hot tub streams after claiming that it has received pushback from advertisers and viewers about how the trend has taken over the platform. The new “Pools, Hot Tubs, and Beaches” category is meant to let creators stream what they want, while also giving Twitch advertisers a more convenient way to prevent ads from running on streams that they don't approve of.
+<a href='https://www.theverge.com/2021/5/21/22447898/twitch-hot-tub-category-launches-amouranth-advertising'> Source <a/>

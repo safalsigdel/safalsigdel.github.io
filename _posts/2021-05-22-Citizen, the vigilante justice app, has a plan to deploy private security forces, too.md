@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V5KkWSvASlCeqV8Q3nTqqtUoe3U=/0x0:900x600/1200x800/filters:focal(378x228:522x372)/cdn.vox-cdn.com/uploads/chorus_image/image/69325156/citizen_suf_security.0.jpg' width='700px' /><br/>
+This morning, The Verge published a story about how Citizen — an app that appears to encourage vigilante justice — encouraged its users to hunt down the wrong person and presumably bring them to justice, in the mistaken assumption that person had started the 1,158-acre Palisades wildfire in Los Angeles last week. The company offered a $30,000 bounty.
+<a href='https://www.theverge.com/2021/5/21/22447756/citizen-app-private-security-securitas-los-angeles-professional'> Source <a/>

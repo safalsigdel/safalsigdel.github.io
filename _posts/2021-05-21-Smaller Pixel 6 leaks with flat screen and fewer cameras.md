@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5P1hr5MxK5D72gYLQbhfu4fwrW8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69321633/PIXEL_6_5K3.0.jpg' width='700px' /><br/>
-Yesterday OnLeaks released CAD renders of what is supposedly Google's next flagship phone, the Pixel 6 Pro, and now the noted leaker has followed up with details and images of the smaller model, posted at 91Mobiles. The so-called Pixel 6 looks like it'll adopt the same distinctive design as the Pro, with one colorway featuring orange and white sections broken up by a glossy black bar that houses the camera bump.
-<a href='https://www.theverge.com/2021/5/21/22447011/google-pixel-6-leaks-renders-pics-specs'> Source <a/>
