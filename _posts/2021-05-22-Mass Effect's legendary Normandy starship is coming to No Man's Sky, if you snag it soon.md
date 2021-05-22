@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aDv2x_pjdFpvarat-l3I866XP0w=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/69322397/image__118_.0.png' width='700px' /><br/>
-No Man's Sky players who are fans of the beloved sci-fi series Mass Effect will soon be in for a treat: Mass Effect's legendary SSV Normandy SR-1 starship will be appearing in No Man's Sky.
-<a href='https://www.theverge.com/2021/5/21/22446499/no-mans-sky-mass-effect-normandy-starship'> Source <a/>
