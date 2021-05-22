@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ru89RgSTzLt8HN5tFHNcMNCIuhQ=/0x0:1920x734/1200x800/filters:focal(807x214:1113x520)/cdn.vox-cdn.com/uploads/chorus_image/image/69322748/Apple_Watch_banner_1.0.png' width='700px' /><br/>
-Spotify is adding the ability to download playlists, albums, and podcasts on Apple Watch to play offline, the company announced Friday. Users will be able to stream audio in 96kbps, add and delete Spotify content on their phones, and sync with the Watch.
-<a href='https://www.theverge.com/2021/5/21/22447222/spotify-adding-feature-music-downloads-offline-apple-watch'> Source <a/>
