@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OI-pTXkIyWqUT7A38k66BZ3NqCc=/0x0:3849x2566/1200x800/filters:focal(1618x976:2232x1590)/cdn.vox-cdn.com/uploads/chorus_image/image/69323359/twittermonetization.0.jpg' width='700px' /><br/>
-Twitter's getting ready for the launch of its Ticketed Spaces feature, and today, it's previewing what users can expect when they go to host their first one. US users will be able to apply to host paid live audio rooms starting in the next couple weeks. Anyone who wants to charge has to have 1,000 followers, have hosted three spaces in the past 30 days, and be at least 18 years old.
-<a href='https://www.theverge.com/2021/5/21/22447328/twitter-ticketed-spaces-monetization-stripe-approval'> Source <a/>

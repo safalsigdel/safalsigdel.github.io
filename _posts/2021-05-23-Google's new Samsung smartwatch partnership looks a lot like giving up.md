@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uO4phBDy0HmYJpqlrrtJN0ZxvQs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69330408/awhite_20200305__3923_0035.0.jpg' width='700px' /><br/>
+Once again, Google is hitting the reset button, combining with Samsung's Tizen wearable operating system for a new wearable OS, tentatively called “Wear.”
+<a href='https://www.theverge.com/2021/5/23/22448165/google-samsung-wearable-partnership-wear-os-tizen-merge-smartwatch'> Source <a/>

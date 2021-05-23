@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R9nJUQADDSNwOe-tAVzh8U9Z6Fw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69330458/acastro_200428_1777_coronavirus_0002.0.0.jpg' width='700px' /><br/>
+India's government has sent notices to social media platforms ordering them to take down content that refers to an “Indian variant” of the COVID-19 virus, Reuters reported. The letter from the Ministry of Electronics and Information Technology sent Friday was not made public, but was viewed by several news outlets.
+<a href='https://www.theverge.com/2021/5/23/22449898/india-social-media-platforms-remove-indian-variant-covid-19-coronavirus'> Source <a/>
