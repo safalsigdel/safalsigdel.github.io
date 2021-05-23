@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NmU-f6ElTih6g0fmfhQgA6A63e8=/0x0:2878x1658/1200x800/filters:focal(1209x599:1669x1059)/cdn.vox-cdn.com/uploads/chorus_image/image/69328385/Virgin_Galactic_s_SpaceShipTwo_47061.0.jpeg' width='700px' /><br/>
-Virgin Galactic completed its first successful space flight in more than two years on Saturday, with its crewed VSS Unity spacecraft carried to an altitude of more than 44,000 feet before gliding safely back to Earth.
-<a href='https://www.theverge.com/2021/5/22/22448928/virgin-galactic-spaceplane-vss-unity-space-branson'> Source <a/>

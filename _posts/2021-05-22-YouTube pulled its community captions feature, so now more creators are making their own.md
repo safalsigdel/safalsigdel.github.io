@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/43ZQNw8THODjDZeU951jC4gQv1w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69322853/acastro_210518_4590_0001.0.jpg' width='700px' /><br/>
-Jack Edwards doesn't want to be praised for doing what he considers the bare minimum: making his videos accessible to his deaf and hard of hearing viewers.
-<a href='https://www.theverge.com/2021/5/21/22443577/youtube-captions-increased-deaf-campaigners'> Source <a/>

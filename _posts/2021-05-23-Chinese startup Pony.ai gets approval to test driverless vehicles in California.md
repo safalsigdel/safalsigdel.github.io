@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lRPEsr1OgmBi7Q5DH3tXC0nu7ZI=/0x0:4000x2667/1200x800/filters:focal(2324x1366:2964x2006)/cdn.vox-cdn.com/uploads/chorus_image/image/69328731/1142319105.0.jpg' width='700px' /><br/>
+Chinese autonomous vehicle startup Pony.ai has received a permit from California's Department of Motor Vehicles to test its driverless cars without human safety drivers behind the wheel on specified streets in three cities.
+<a href='https://www.theverge.com/2021/5/22/22449084/chinese-startup-pony-ai-autonomous-vehicles-california'> Source <a/>
