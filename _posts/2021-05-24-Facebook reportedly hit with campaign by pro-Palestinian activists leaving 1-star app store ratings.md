@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jZOu4i6c2OI6S0CoQ89mMaJcHyw=/0x0:5000x3750/1200x800/filters:focal(2100x1475:2900x2275)/cdn.vox-cdn.com/uploads/chorus_image/image/69331566/1233004792.0.jpg' width='700px' /><br/>
+A social media campaign by pro-Palestine activists has pushed down the ranking for Facebook's app in Apple and Google's app stores, NBC News reported. The activists are seeking to protest Facebook's alleged censorship of Palestinian accounts on its platform, and are instructing people to leave Facebook's app a one-star review.
+<a href='https://www.theverge.com/2021/5/23/22450319/facebook-campaign-pro-palestine-activists-1-star-app-store-ratings-apple-google'> Source <a/>

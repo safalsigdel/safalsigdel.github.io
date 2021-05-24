@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pZ5mGSAbmzYId6G9eEP9TyrynSM=/0x0:3337x2139/1200x675/filters:focal(1403x804:1935x1336)/cdn.vox-cdn.com/uploads/chorus_image/image/69323730/1232927726.0.jpg' width='700px' /><br/>
-As wildfires raged through Southern California last weekend, an app called Citizen offered an unorthodox bounty over livestream and in push alerts to local residents: “hunt down” the alleged arsonist, and we'll give you $30,000 cash.
-<a href='https://www.theverge.com/2021/5/21/22447446/citizen-app-internal-slack-palisades-fire-arson-bounty-manhunt-los-angeles'> Source <a/>
