@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8uZnnK-C3LaVMEOUd2t1ydJzRMI=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/69328126/Stadium_Announcment_1.0.jpg' width='700px' /><br/>
-The 2021 League of Legends World Championship will be held in Shenzhen, China, Riot Games announced late Friday. The Worlds Final will be at the Universiade Sports Centre, a 60,000 capacity stadium that's home to the Shenzhen FC football (soccer) club, on November 6th.
-<a href='https://www.theverge.com/2021/5/22/22448865/league-of-legends-2021-world-championship-shenzhen-china-esports'> Source <a/>

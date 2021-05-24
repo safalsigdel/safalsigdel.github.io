@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0DTlLiSsZs0KQeugzRocNRpEMMk=/0x0:4200x3138/1200x800/filters:focal(1764x1233:2436x1905)/cdn.vox-cdn.com/uploads/chorus_image/image/69334688/1231882337.0.jpg' width='700px' /><br/>
+Florida Gov. Ron DeSantis signed a bill Monday that bars social media companies like Twitter and Facebook from “knowingly” deplatforming politicians.
+<a href='https://www.theverge.com/2021/5/24/22451425/florida-social-media-moderation-facebook-twitter-deplatforming'> Source <a/>

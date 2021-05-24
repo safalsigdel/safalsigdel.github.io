@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+It's generally a good idea to be careful about the photos you share online. Share a photo of your vaccination card, for example, and you risk revealing your full name and date of birth, which opens you up to the possibility of identity theft. But you might want to be even more careful if you're a drug dealer involved in selling heroin and cocaine. Even an innocent picture of a block of cheese can contain enough personal information to help convict you.
+<a href='https://www.theverge.com/tldr/2021/5/24/22451278/cheese-encrochat-drug-dealer-jailed-conviction'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o8tlOpjhxA-qXMcowVVayWQ4ZZk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69327785/bfarsace_200407_3962_0003.0.jpg' width='700px' /><br/>
-It's safe to say that no company in existence today that has more than a couple of employees can exist without a knowledgeable IT support person or team. When you're trying to run a website, create a solid technological structure, and keep things running even at the most stressful of times, a strong IT support team can make sure that things don't go completely haywire at the worst time — or, if it does, that somebody is there to fix it.
-<a href='https://www.theverge.com/22444109/it-support-slack-macbook-keychron-zendesk'> Source <a/>

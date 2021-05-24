@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7eqtN8hhyP-kGZ10DzQPYH3m7JQ=/0x0:2954x1969/1200x800/filters:focal(1775x1104:2247x1576)/cdn.vox-cdn.com/uploads/chorus_image/image/69325874/1233025915.0.jpg' width='700px' /><br/>
-Apple called CEO Tim Cook to conclude three weeks of testimony in Epic v. Apple — and with the end of the trial approaching, Judge Yvonne Gonzalez Rogers engaged Cook in a surprisingly tense exchange over Apple's business model.
-<a href='https://www.theverge.com/2021/5/21/22448023/epic-apple-fortnite-antitrust-lawsuit-judge-tim-cook-app-store-questions'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/et1eomAedu4xgvJexyjfM3L6wlA=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69325497/VRG_ILLO_4489_003.0.jpg' width='700px' /><br/>
-A quarter of the deep links in The New York Times' articles are now rotten, leading to completely inaccessible pages, according to a team of researchers from Harvard Law School, who worked with the Times' digital team. They found that this problem affected over half of the articles containing links in the NYT's catalog going back to 1996, illustrating the problem of link rot and how difficult it is for context to survive on the web.
-<a href='https://www.theverge.com/2021/5/21/22447690/link-rot-research-new-york-times-domain-hijacking'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wVa-k-EQrikocBKXL3PYM5ccgsk=/0x0:4575x3050/1200x800/filters:focal(1922x1159:2654x1891)/cdn.vox-cdn.com/uploads/chorus_image/image/69333849/1154659512.0.jpg' width='700px' /><br/>
+Tesla has been ordered to pay 136,000 kroner ($16,000) each to thousands of customers in Norway for slowing down charging speeds, according to Nettavisen via Electrek.
+<a href='https://www.theverge.com/2021/5/24/22451101/tesla-fine-norway-throttle-battery-charging-speed'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mZrBTUNk_XRVniVxDM4xj95S9_Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69325160/akrales_200423_3988_0002.0.0.jpg' width='700px' /><br/>
-Editor's note: According to a Facebook company spokesperson, the issue described below with the iOS carousel feature is attributable to a bug: “We're aware that some people are having trouble accessing the ‘Select Multiple' photos feature in Instagram due to a bug in the latest iOS update and are working on a solution.”
-<a href='https://www.theverge.com/22447686/instagram-carousel-how-to-post-select-photos-multiple'> Source <a/>

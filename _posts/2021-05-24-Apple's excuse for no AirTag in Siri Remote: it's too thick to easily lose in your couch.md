@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6l6aHD96q2iFDSCTsfuEWP8Uzzk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69326701/DSCF3923.0.jpg' width='700px' /><br/>
-We have poked a considerable amount of fun at the Apple TV's Siri Remote over the years, and we're pleased to say it's finally fixed — except for the headsmacking decision not to stick the company's AirTag UWB locator technology into one of the few gadgets absolutely, positively guaranteed to get lost in your couch cushions someday. Why?
-<a href='https://www.theverge.com/2021/5/21/22448388/apple-tv-4k-siri-remote-no-uwb-u1-couch-thickness'> Source <a/>

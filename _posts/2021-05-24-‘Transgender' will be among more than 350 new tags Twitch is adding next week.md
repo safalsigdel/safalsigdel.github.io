@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BLGXlHHY-zpPpJtIdCfHFFNf01k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69327901/acastro_181026_1777_twitch_0003.0.jpg' width='700px' /><br/>
-Starting next week, streaming platform Twitch will add more than 350 new community tags to its platform related to gender, sexual orientation, race, nationality, ability, and mental health, the company said in a new blog post. The list of tags will include transgender, Black, disabled, veteran, and Vtuber, Twitch said, and it will remove the “ally “ references from its LGBTQIA tag, in favor of a new standalone ally tag.
-<a href='https://www.theverge.com/2021/5/22/22448809/transgender-twitch-tags-lgbt-streaming-identity'> Source <a/>

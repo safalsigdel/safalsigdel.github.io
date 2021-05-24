@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pcvYB7QRTDkY6mftzQeUK9I7aik=/0x0:4500x3002/1200x800/filters:focal(2641x795:3361x1515)/cdn.vox-cdn.com/uploads/chorus_image/image/69324686/1139388741.0.jpg' width='700px' /><br/>
-A great scholar once noted that “there's an app for that.” Pregnancy is no exception. I use my phone to manage just about everything else in my life, so when I found out I was pregnant, it was a natural next step to go looking for an app to hold my hand through the experience. I've been using a couple of popular apps interchangeably — Ovia and What to Expect — and generally, they're pretty good. But I have notes.
-<a href='https://www.theverge.com/22447692/pregnancy-app-ovia-what-to-expect-tracking-features'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l8MUSbGNke7GvuND3zQHkWBRBUo=/0x0:3900x4023/1200x800/filters:focal(1638x1700:2262x2324)/cdn.vox-cdn.com/uploads/chorus_image/image/69327824/1232981921.0.jpg' width='700px' /><br/>
-China became the second country to successfully deploy a vehicle on Mars on Saturday, and the first to do so on its inaugural visit to the Red Planet. Reuters reported that the solar-powered Zhurong rover drove down the ramp of its landing capsule on to the surface of Mars at about 10:40 AM Beijing time.
-<a href='https://www.theverge.com/2021/5/22/22448781/china-drives-rover-mars-nasa-space'> Source <a/>
