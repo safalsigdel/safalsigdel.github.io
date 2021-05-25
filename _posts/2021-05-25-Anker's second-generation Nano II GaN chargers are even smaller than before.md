@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5At13kyTxZm88xs07AIOjbyfgrw=/0x0:1877x1112/1200x800/filters:focal(789x406:1089x706)/cdn.vox-cdn.com/uploads/chorus_image/image/69334337/Untitled.0.jpg' width='700px' /><br/>
-Anker's GaN (gallium nitride) chargers are some of the best around, offering tiny sizes but powerful charging capabilities. Now, the company is introducing its second-generation GaN-based chargers: the Anker Nano II lineup.
-<a href='https://www.theverge.com/2021/5/24/22450999/anker-second-generation-nano-ii-gan-chargers-smaller'> Source <a/>

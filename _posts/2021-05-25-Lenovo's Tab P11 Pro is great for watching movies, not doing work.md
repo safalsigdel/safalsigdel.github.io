@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xW9M8ioXyFYs5RXRt8C0fcFk55I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69334264/dseifert_20210321_4484_0012.0.jpg' width='700px' /><br/>
-Lenovo's Tab P11 Pro is the company's top-tier Android tablet. With an 11-inch OLED screen, quad speakers, and snap-on keyboard, it's meant to go head to head with Samsung's Tab S7 and Apple's iPad Air. But while the Tab P11 Pro is excellent for watching movies — that OLED screen and the Dolby Atmos speakers are quite nice — it's considerably less impressive when you attempt to use it for productivity.
-<a href='https://www.theverge.com/22451264/lenovo-tab-p11-pro-tablet-review'> Source <a/>

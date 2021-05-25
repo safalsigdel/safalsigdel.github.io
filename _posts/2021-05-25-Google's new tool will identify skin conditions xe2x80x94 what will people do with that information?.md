@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JfzjwAsqj75zw_qdQEaF5SHpPJI=/0x0:2096x1182/1200x800/filters:focal(881x424:1215x758)/cdn.vox-cdn.com/uploads/chorus_image/image/69334575/Copy_of_derm___hero_image_1.0.png' width='700px' /><br/>
-Google announced last Tuesday that it developed a new artificial intelligence tool to help people identify skin conditions. Like any other symptom-checking tool, it'll face questions over how accurately it can perform that task. But experts say it should also be scrutinized for how it influences people's behavior: does it make them more likely to go to the doctor? Less likely?
-<a href='https://www.theverge.com/2021/5/24/22451361/google-skin-condition-dermatology-symptom-checker'> Source <a/>

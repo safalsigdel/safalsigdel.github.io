@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sSwHXiSuIf2bQYGjOjWJMXvgLxU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69338858/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
+TikTok has changed the voice on its text-to-speech feature, just weeks after an actor claiming to be the original voice filed a lawsuit claiming she never agreed to be featured in the app.
+<a href='https://www.theverge.com/2021/5/25/22452815/tiktok-voice-change-text-to-speech-lawsuit'> Source <a/>

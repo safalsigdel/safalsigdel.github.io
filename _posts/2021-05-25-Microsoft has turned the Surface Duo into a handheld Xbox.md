@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7OMAO6f2t9D4Nn6qyTi4hkAEleg=/0x0:2640x1748/1200x800/filters:focal(1109x663:1531x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/69334073/xboxsurfaceduo_1.0.jpg' width='700px' /><br/>
-Microsoft teased the potential for an Xbox handheld-like experience with the Surface Duo during its unveiling nearly two years ago, and it's finally appearing today. Microsoft is updating its Xbox Cloud Gaming (xCloud) app for Android, and it includes dual-screen support for the Surface Duo.
-<a href='https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen'> Source <a/>
