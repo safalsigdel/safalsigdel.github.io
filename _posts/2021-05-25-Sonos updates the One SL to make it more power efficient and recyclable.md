@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q1fBL4uCpQgxZGp9IUpw6f_vHEE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69339576/dseifert_190826_3622_0009.0.jpg' width='700px' /><br/>
+Sonos is refreshing its One SL speaker, which doesn't have always-on microphones or integrated voice controls, to make it more power efficient and recyclable, the company confirmed to The Verge. However, the new model won't have any additional features or functionality. The updated speaker first appeared in FCC filings published Monday.
+<a href='https://www.theverge.com/2021/5/25/22453033/sonos-one-sl-update-refresh-power-efficient-recyclable-radio-base'> Source <a/>
