@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mig0nWM1AeFkUpm41sS6700DUvs=/0x0:2400x1260/1200x800/filters:focal(1008x438:1392x822)/cdn.vox-cdn.com/uploads/chorus_image/image/69339546/TIDAL_on_Apple_Watch_3.0.jpg' width='700px' /><br/>
+Music streaming service Tidal is now available on the Apple Watch, allowing subscribers to stream music directly to Apple's wearable or download it for offline listening. Instructions on how to get set up can be found on Tidal's site. Spotify and Deezer both announced similar offline listening features for the Apple Watch last week. Subscription prices for Tidal start at $9.99 a month.
+<a href='https://www.theverge.com/2021/5/25/22453031/tidal-apple-watch-offline-listening-spotify-deezer'> Source <a/>

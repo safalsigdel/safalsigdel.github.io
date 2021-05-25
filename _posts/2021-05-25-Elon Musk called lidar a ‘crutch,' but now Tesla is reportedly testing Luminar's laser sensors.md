@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JBltWZzhT75cnLSyxrQzsoJS3Og=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69335102/acastro_180524_1777_tesla_0002.0.jpg' width='700px' /><br/>
-A Tesla Model Y was photographed in Florida sporting rooftop lidar sensors made by buzzy sensor manufacturer Luminar. The sighting caused a bit of a stir among Tesla watchers, given Tesla CEO Elon Musk's well-established disdain for the laser sensors commonly used by autonomous vehicle companies to create 3D maps of their environment.
-<a href='https://www.theverge.com/2021/5/24/22451404/tesla-luminar-lidar-elon-musk-autonomous-vehicles'> Source <a/>
