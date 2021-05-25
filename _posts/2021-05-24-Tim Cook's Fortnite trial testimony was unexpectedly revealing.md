@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/21CWuNJcA7Ee9jwtvgzYqGYCaOQ=/0x0:4000x2666/1200x800/filters:focal(1789x414:2429x1054)/cdn.vox-cdn.com/uploads/chorus_image/image/69328197/1233030839.0.jpg' width='700px' /><br/>
-The Epic v. Apple trial was bookended by Tims. Epic Games called its CEO Tim Sweeney as the first witness nearly three weeks ago. Yesterday, Apple called Tim Cook as the last to take the stand, before both sides make their final case to a judge on Monday. Cook was supposed to bring home Apple's defense of its ecosystem. He did it by laying out Apple's most high-minded principles — but also its hard financial calculations.
-<a href='https://www.theverge.com/2021/5/22/22448139/tim-cook-epic-fortnite-trial-testimony-privacy-iap-antitrust'> Source <a/>

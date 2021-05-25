@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Rx5ZzINcJFkyaK6uQRXbIyKQ4go=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69330503/ajohnson_20210514_4587_0001.0.jpg' width='700px' /><br/>
-The Kyocera DuraForce Ultra 5G is a rugged phone that doesn't require you to give up too many modern conveniences to gain the benefits of extreme durability. It's common for rugged phones to feature older processors and lack modern features — these phones often have specialized uses, like barcode scanning or taking payments, and more or less just need to keep working in harsh environments.
-<a href='https://www.theverge.com/22446490/kyocera-duraforce-ultra-5g-uw-review-price-specs-screen-camera'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pXWIrtAJ0hGN6OuLsjU8mmwvPCg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69336516/acastro_20200818_1777_epicApple_0003.0.0.jpg' width='700px' /><br/>
+Sure, “hot-tubbing” sounds fun, but in a court context, it's just a judge encouraging lawyers to argue — which is how Epic v. Apple ended today. Not with a bang but with a quarrel.
+<a href='https://www.theverge.com/2021/5/24/22452035/epic-apple-antitrust-trial-final-arguments'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iuFv9J_YR5ONtcSrPv_2zicnw9A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69336386/acastro_bitcoin_2.0.jpg' width='700px' /><br/>
+MicroStrategy CEO Michael Saylor tweeted Monday that after a weekend meeting with Tesla CEO Elon Musk and “leading Bitcoin miners in North America,” the group has agreed to form a Bitcoin Mining Council, “to promote energy usage transparency [and] accelerate sustainability initiatives worldwide.”
+<a href='https://www.theverge.com/2021/5/24/22451900/elon-musk-bitcoin-miners-council-sustainability'> Source <a/>

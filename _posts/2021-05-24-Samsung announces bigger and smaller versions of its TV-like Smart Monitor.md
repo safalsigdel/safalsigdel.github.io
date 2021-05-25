@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2PbjF7ycBexokN4M0PzGRWykNO8=/0x0:1000x667/1200x800/filters:focal(420x254:580x414)/cdn.vox-cdn.com/uploads/chorus_image/image/69332654/Smart_Monitor_PR_main1.0.jpg' width='700px' /><br/>
-Samsung's Smart Monitor range is expanding. The company's line of Tizen-powered smart computer displays now includes a 43-inch 4K M7 model as well as a 24-inch 1080p M5, marking the biggest and smallest Smart Monitors to be made available to date.
-<a href='https://www.theverge.com/2021/5/24/22450796/samsung-smart-monitor-m5-m7-new-sizes-43-inch'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/goAvUydQQ_JNqgyryufYWYYHyC4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69335635/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
+A security unit within the US Commerce Department monitored Americans' Twitter accounts for posts critical of the US Census and conducted unauthorized surveillance to gather information about US citizens and foreign visitors, according to a fact sheet released Monday by the ranking Republican on the Senate Commerce, Science, and Transportation Committee.
+<a href='https://www.theverge.com/2021/5/24/22451494/commerce-unit-surveillance-privacy-social-media-twitter-senate'> Source <a/>

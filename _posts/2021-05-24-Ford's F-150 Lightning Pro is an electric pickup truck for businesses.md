@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l0vkG8xnWXT6A_D2zI3P5U4cmto=/0x0:2400x1350/1200x800/filters:focal(1008x483:1392x867)/cdn.vox-cdn.com/uploads/chorus_image/image/69332945/ford_f150_lightning_pro_0025.0.jpg' width='700px' /><br/>
-Ford has revealed a version of its new F-150 Lightning electric pickup truck aimed specifically at commercial customers. It's called the F-150 Lightning Pro, and it starts at $39,974 for a version with an estimated 230 miles of range. Extended-range versions of the truck, which are expected to get 300 miles on a full battery, will start at $49,974.
-<a href='https://www.theverge.com/2021/5/24/22450563/ford-f150-lightning-pro-electric-pickup-truck-commercial-fleets'> Source <a/>
