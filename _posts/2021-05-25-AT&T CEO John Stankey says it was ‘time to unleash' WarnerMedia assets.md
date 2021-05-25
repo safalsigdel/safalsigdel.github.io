@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GyGgObdf649EDNDOMwv75VyvvAI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69333922/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T CEO John Stankey said Monday that the company's focus on its connectivity business in the US meant it didn't have the global reach to grow a global streaming business with WarnerMedia, and the company decided it was “time to unleash the media assets” of WarnerMedia to Discovery.
-<a href='https://www.theverge.com/2021/5/24/22451111/att-ceo-stankey-unleash-assets-warnermedia-discovery-hbo'> Source <a/>
