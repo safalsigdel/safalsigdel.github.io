@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JL_Y-dtA_-OK8pyGDwbwxdzEytk=/0x0:2040x1158/1200x0/filters:focal(0x0:2040x1158):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22538521/Screen_Shot_2021_05_25_at_11.26.32_AM.png' width='700px' /><br/>
+Compared to competitors like YouTube TV and Hulu, Sling TV has never had the flashiest app, and the overall user experience leaves something to be desired. It's been easy enough to overlook these faults since Sling TV undercuts those rivals on price, but today the company announced a completely redesigned app that focuses on more polish and personalized recommendations.
+<a href='https://www.theverge.com/2021/5/25/22452993/sling-tv-new-app-features-design-amazon-fire-tv'> Source <a/>
