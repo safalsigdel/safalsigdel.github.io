@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EioUyrhI36iMTYArLr1AqM7yLx4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69335371/vpavic_4113_20200724_0090.0.jpg' width='700px' /><br/>
-Are you planning to stick with Google Photos when its free unlimited storage disappears on June 1st? If you're anything like me, you're probably still struggling to figure out whether you can afford to procrastinate that decision a tad longer — and today, Google has made that reckoning a little bit easier.
-<a href='https://www.theverge.com/2021/5/24/22451607/google-photos-high-quality-storage-saver-tool-free-space-blurry-screenshots'> Source <a/>
