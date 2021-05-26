@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/88lVz5KN8sI-jOJV4R-59PmJjIM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69341679/649149526.0.jpg' width='700px' /><br/>
-The hack of the Colonial Pipeline — which kneecapped oil availability on the East Coast for almost two weeks — was as disastrous as it was likely preventable. A branch of the Department of Homeland Security, however, is hoping to correct course by changing the rules on cybersecurity and disclosure for Colonial and other companies in the pipeline industry.
-<a href='https://www.theverge.com/2021/5/25/22453540/colonial-pipeline-regulations-cybersecurity-ransom-hack'> Source <a/>
