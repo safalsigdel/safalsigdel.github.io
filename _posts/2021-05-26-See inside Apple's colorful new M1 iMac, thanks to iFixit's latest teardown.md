@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZNzQ2JXUbmX2iarqiYUEmvqWh0w=/0x0:6552x4912/1200x800/filters:focal(2752x1932:3800x2980)/cdn.vox-cdn.com/uploads/chorus_image/image/69341559/lqgEBjUUFgYXyDRU.0.jpeg' width='700px' /><br/>
-iFixit has published a detailed teardown of Apple's newly redesigned M1 processor-equipped iMac, and it contains bad news about how easy the new all-in-one is to repair. Whether it's the fans, USB ports, headphone jack, power button, or speakers, iFixit says virtually any repairs to the new desktop require battling through Apple's adhesives.
-<a href='https://www.theverge.com/2021/5/25/22450876/ifixit-imac-2021-m1-processor-teardown-repairability-score'> Source <a/>
