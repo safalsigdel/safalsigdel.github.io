@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y1bk9VWrEZ2nuz5Jd_NQ4R58cvE=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69339767/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-On Tuesday, DC Attorney General Karl Racine sued Amazon on antitrust grounds, accusing the e-commerce giant of suppressing competition by placing strict conditions on what third-party sellers can do outside of the company's platform.
-<a href='https://www.theverge.com/2021/5/25/22453125/dc-attorney-general-amazon-antitrust-lawsuit-favored-nation'> Source <a/>
