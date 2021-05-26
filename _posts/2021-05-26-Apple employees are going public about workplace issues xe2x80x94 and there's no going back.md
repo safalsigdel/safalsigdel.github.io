@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ID4C6EB8SdJXlhdbP4yUxxGnB3o=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69340818/4599_Apple_Leaks_001.0.jpg' width='700px' /><br/>
-Even to the workers who wrote the letter, the leaks came as a shock. Apple employees rarely speak to the media, particularly about the company culture. In Silicon Valley, Apple operates with an unprecedented level of secrecy, managing personnel issues and product launches with complete authority.
-<a href='https://www.theverge.com/2021/5/25/22453302/apple-culture-secrecy-leak-antonio-garcia-martinez-letter'> Source <a/>
