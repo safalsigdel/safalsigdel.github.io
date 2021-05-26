@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pjQGySLW79ZT7wMQAHBtQi8oCuQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69346326/D4_Rogue_Campfire.0.png' width='700px' /><br/>
+BlizzCon, Blizzard's annual fan convention, has been canceled this year due to the COVID-19 pandemic, like it was last year. However, the company plans to host a “global event” set for “the early part of next year,” the company announced on Wednesday.
+<a href='https://www.theverge.com/2021/5/26/22455077/blizzcon-canceled-global-event-blizzconline-blizzard'> Source <a/>
