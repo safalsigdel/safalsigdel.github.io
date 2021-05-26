@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pCKW8zD2YMtgqRZBWQXI6z1jQl0=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/69339264/microsoftteams.0.jpg' width='700px' /><br/>
-Microsoft first let developers build third-party apps into Teams last year, but the company is going a step further at Build 2021 today. In a push to get more app developers building for Teams, Microsoft is opening up its crucial APIs, Teams Store, and tools to what it calls collaborative apps.
-<a href='https://www.theverge.com/2021/5/25/22452623/microsoft-teams-new-collaborative-apps-store-platform-iaps-build-2021'> Source <a/>
