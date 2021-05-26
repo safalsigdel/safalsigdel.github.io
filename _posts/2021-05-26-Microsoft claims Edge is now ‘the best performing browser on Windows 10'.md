@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tJin7YXRCf5L1TuovbR7pcikOqM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69343929/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
+Microsoft is now claiming the performance crown in the desktop browser battle. The software maker has been gradually adding new features to Edge over the past year to improve performance and launch times. These additions have allowed Microsoft to claim itself the performance winner, even as Google releases Chrome 91 today.
+<a href='https://www.theverge.com/2021/5/26/22454430/microsoft-edge-91-browser-performance-best-windows-10'> Source <a/>
