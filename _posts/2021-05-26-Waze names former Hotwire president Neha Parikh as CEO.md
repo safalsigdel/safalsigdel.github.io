@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/NuyIglqFMtSMqi0tcQyK27Q6rLM=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/69344871/akrales_160517_1059_A_0113.0.0.jpg' width='700px' /><br/>
-Waze has a new CEO: Neha Parikh, the president of Hotwire and a board member of Carvana. Parikh replaces Noam Bardin, who stepped down as CEO of the Google-owned navigation service last November after leading the company for 12 years.
+Waze has a new CEO: Neha Parikh, the former president of Hotwire and a board member of Carvana. Parikh replaces Noam Bardin, who stepped down as CEO of the Google-owned navigation service last November after leading the company for 12 years.
 <a href='https://www.theverge.com/2021/5/26/22454074/waze-new-ceo-neha-parikh-hotwire'> Source <a/>
