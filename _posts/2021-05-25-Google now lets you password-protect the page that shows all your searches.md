@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uvT1BbJJt9gJlp_uj9W7xpzZ4D0=/0x0:1700x1052/1200x800/filters:focal(624x448:896x720)/cdn.vox-cdn.com/uploads/chorus_image/image/69336892/Screen_Shot_2021_05_24_at_3.45.59_PM.0.png' width='700px' /><br/>
-Google has added a way to put a password on your Web and Activity page, which shows all your activity from across Google services, including your searches, YouTube watch history, and Google assistant queries (via Android Police). Without the verification, anyone who picks up a device you're logged into could see that activity.
-<a href='https://www.theverge.com/2021/5/24/22452122/google-my-activity-page-password-privacy-verification-web-and-app-history'> Source <a/>

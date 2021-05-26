@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/piTy-I2nYNko33IZoZ4io_uOsYI=/0x0:2120x1506/1200x800/filters:focal(891x584:1229x922)/cdn.vox-cdn.com/uploads/chorus_image/image/69341611/Screen_Shot_2021_05_25_at_11.25.11_AM.0.png' width='700px' /><br/>
+Turntable.fm, the social platform that lets people collaboratively build and perform DJ sets, has raised $7.5 million in venture capital funding, according to a Medium post by CEO Billy Chasen. Turntable.fm was revived by Chasen as a response to the pandemic, after it shut down in 2013. But it's not the only version of Turntable in the works now, which makes that funding more interesting.
+<a href='https://www.theverge.com/2021/5/25/22453364/turntable-fm-7-5-million-investment-a16z-vc-hiring'> Source <a/>

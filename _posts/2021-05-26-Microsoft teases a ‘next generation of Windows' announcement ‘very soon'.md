@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HmadsjmSPPOcPaAosH2NAc6MEek=/0x0:1600x840/1200x800/filters:focal(672x292:928x548)/cdn.vox-cdn.com/uploads/chorus_image/image/69340126/Windows_10_Sun_Valley_refresh.0.jpg' width='700px' /><br/>
+Microsoft isn't talking about its big Windows plans at Build 2021 this week, and that's because the company is preparing to detail what's next for its PC operating system separately. Microsoft CEO Satya Nadella teased this announcement during his Build keynote this morning, revealing he has been testing “the next generation of Windows” in recent months.
+<a href='https://www.theverge.com/2021/5/25/22453222/microsoft-windows-next-generation-announcement-sun-valley-build-2021-keynote'> Source <a/>

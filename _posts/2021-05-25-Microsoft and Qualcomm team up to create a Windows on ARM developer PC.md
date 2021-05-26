@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fOrIbzW1Vrh2B7mklDBcS9Le4vw=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/69338186/windowsarmdevkit.0.jpg' width='700px' /><br/>
-Microsoft has teamed up with Qualcomm to create a Windows on ARM-based dev kit for developers. The miniature PC will be sold at the Microsoft Store this summer, and is designed to be more affordable to encourage developers to create ARM64 apps for Snapdragon-based PCs.
-<a href='https://www.theverge.com/2021/5/25/22452710/microsoft-qualcomm-windows-on-arm-dev-kit-pc-features-release-date'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VBBRjvf43FZI6D6nF6nYyOXK7_0=/0x0:1162x775/1200x800/filters:focal(489x296:673x480)/cdn.vox-cdn.com/uploads/chorus_image/image/69342650/eero6.0.jpg' width='700px' /><br/>
+Owners of Amazon's Eero 6 and Pro 6 routers will now be able to isolate their HomeKit IoT devices from the rest of their home network and the wider internet, thanks to a new integration with Apple's HomeKit that's now rolling out (via MacRumors). The new feature is coming as part of a firmware update, and makes the routers some of the first Wi-Fi 6 systems that support Apple's integration.
+<a href='https://www.theverge.com/2021/5/25/22453854/eero-pro-6-mesh-wifi-router-homekit-integration'> Source <a/>

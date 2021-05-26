@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xDW38-ah7WVHB5nnY0TH5FxJ2Dk=/0x0:3242x2161/1200x800/filters:focal(1362x822:1880x1340)/cdn.vox-cdn.com/uploads/chorus_image/image/69340975/nokia_G10_DTC_DESIGN_desktop.0.jpg' width='700px' /><br/>
+HMD's Nokia G10 is coming to the US with a big battery, a low $149 price, and a surprisingly good security support schedule. Phone Arena reports that the G10 — available for preorder now at Amazon — will go on sale directly through Nokia's website later this week. The G10 was first announced in Europe last month alongside five other midrange devices.
+<a href='https://www.theverge.com/2021/5/25/22453332/hmd-nokia-g10-price-availability-security-updates'> Source <a/>

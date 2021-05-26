@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SbUoT6yyc9v_ZiitKqCC9JFeVRs=/0x0:2514x1250/1200x800/filters:focal(620x323:1022x725)/cdn.vox-cdn.com/uploads/chorus_image/image/69340186/Screen_Shot_2021_05_25_at_9.54.34_AM.0.png' width='700px' /><br/>
+Asus' ROG Phone 5 is now available in the US from its official store, with a price tag of $999.99. It's Asus' latest maxed-out gaming phone, with all of the top-notch specifications: a Snapdragon 888 Plus, 144Hz display, front-facing speakers, and a massive 6,000mAh battery.
+<a href='https://www.theverge.com/2021/5/25/22453190/asus-rog-phone-5-gaming-mobile-available-pro-ultimate-later'> Source <a/>

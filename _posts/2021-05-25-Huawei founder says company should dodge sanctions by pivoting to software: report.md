@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DX5daB6TIOrqKsE98UFUABvsW60=/0x0:5302x3535/1200x800/filters:focal(2204x805:3052x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/69337762/1231073698.0.jpg' width='700px' /><br/>
-Huawei founder and CEO Ren Zhengfei has reportedly urged the Chinese tech giant's staff to turn the company into a major software force as a way to alleviate the impact of devastating US sanctions. In an internal memo viewed by Reuters, Ren says that Huawei should focus on software because the industry is “outside of US control and we will have greater independence and autonomy.”
-<a href='https://www.theverge.com/2021/5/25/22452580/huawei-software-pivot-us-sanctions-ren-zhengfei'> Source <a/>

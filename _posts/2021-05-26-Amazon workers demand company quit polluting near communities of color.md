@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1XhrOCifgvvvRWSOV0z6ZSkpjZQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69341911/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
+Hundreds of Amazon tech workers are pressuring Amazon to quit polluting — especially in  communities near its warehouses. More than 600 workers signed a petition asking Amazon to bring its pollution down to zero by 2030. They also called on the company to prioritize deploying zero-emissions technologies near the communities hit hardest by Amazon's pollution.
+<a href='https://www.theverge.com/2021/5/25/22453516/amazon-workers-pollution-petition-letter-demand'> Source <a/>

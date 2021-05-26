@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7YLtoYmppjDlJF4ChG-sGmFM4qI=/0x0:2526x1514/1200x800/filters:focal(1061x555:1465x959)/cdn.vox-cdn.com/uploads/chorus_image/image/69335428/Screen_Shot_2021_05_24_at_10.34.20_AM.0.png' width='700px' /><br/>
-The Samsung Galaxy Tab S7 FE (Fan Edition) could be officially launching soon according to a new German product page spotted by WinFuture. The tablet appears to be a renamed version of the previously leaked “Galaxy Tab S7 Plus Lite” that first made the rounds in March 2021. The Galaxy Tab S7 FE is the first Fan Edition of one of Samsung's tablets, a tweaked version of the earlier iPad Pro-inspired 12.4-inch Tab S7 Plus.
-<a href='https://www.theverge.com/2021/5/24/22451398/samsung-galaxy-tab-s7-fe-germany-no-oled'> Source <a/>

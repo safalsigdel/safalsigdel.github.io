@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GVMVBuox0CDvkpn5X0wwrKnmpjM=/0x0:1517x1011/1200x800/filters:focal(638x385:880x627)/cdn.vox-cdn.com/uploads/chorus_image/image/69338086/msedge_JeBCq3Q4cI.0.png' width='700px' /><br/>
-Microsoft Build, the company's annual developer conference, is kicking off today, May 25th. Just like last year, the conference is happening in an online-only format rather than in-person in Seattle. The developer conference is typically where Microsoft details upcoming changes to its Windows, Office, and cloud platforms.
-<a href='https://www.theverge.com/2021/5/25/22452640/microsoft-build-2021-live-stream-watch-how-to-event'> Source <a/>

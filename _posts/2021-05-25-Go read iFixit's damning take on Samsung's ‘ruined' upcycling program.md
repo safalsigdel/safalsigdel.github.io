@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1LEZOhAQPGw80Yti8vwW1NEFZHQ=/0x0:2560x1440/1200x800/filters:focal(1109x1021:1517x1429)/cdn.vox-cdn.com/uploads/chorus_image/image/69338168/Screen_Shot_2021_05_11_at_6.32.02_PM.0.png' width='700px' /><br/>
-In a new blog post, iFixit heavily criticizes Samsung's recently announced Galaxy Upcycling program (via ArsTechnica), an initiative which the repair specialists helped launch in 2017. It's a damning look at how the initiative morphed from its ambitious origins to a “nearly unrecognizable” final form, and completely sidelined iFixit in the process.
-<a href='https://www.theverge.com/2021/5/25/22452693/ifixit-samung-galaxy-upcycling-e-waste-initiative-program'> Source <a/>

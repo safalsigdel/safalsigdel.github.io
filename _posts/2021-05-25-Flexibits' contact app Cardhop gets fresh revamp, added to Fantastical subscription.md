@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5naRS_uHGqUA1zZfjT4kQLICP58=/0x0:3116x1776/1200x0/filters:focal(0x0:3116x1776):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22536968/cardhop.png' width='700px' /><br/>
-Flexibits — best known for its popular calendar application, Fantastical — has a new, overhauled version of its contact management application Cardhop out today, which updates the app with new features and a fresh coat of paint.
-<a href='https://www.theverge.com/2021/5/25/22451851/flexibits-contact-app-cardhop-refresh-update-subscription-fantastical'> Source <a/>

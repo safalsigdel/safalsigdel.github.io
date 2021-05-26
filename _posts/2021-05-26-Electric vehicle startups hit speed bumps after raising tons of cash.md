@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gfE4V6_rEKqFRzNQk0GSUok4YSQ=/0x0:1926x1286/1200x800/filters:focal(817x757:1125x1065)/cdn.vox-cdn.com/uploads/chorus_image/image/69340720/PQBU5ZZ2RBFZDJCY3QZKFRLHA4.0.jpg' width='700px' /><br/>
+Electric vehicle startups have raised an absurd amount of money in the last year by merging with special purpose acquisition companies, or SPACs. That money — billions of dollars, collectively — was supposed to be enough to help each of them start fighting for space in a market dominated by Tesla. But many of these startups are still having trouble getting rolling.
+<a href='https://www.theverge.com/2021/5/25/22453051/ev-startup-spac-lordstown-lucid-canoo-faraday-fisker'> Source <a/>

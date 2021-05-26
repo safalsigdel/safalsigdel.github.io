@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2QmXf9gP-XH3cJ50trnNFWp0qew=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69338574/acastro_200804_1777_arm_0003.0.0.jpg' width='700px' /><br/>
-Arm has introduced its latest CPU and GPU designs, including its flagship Cortex-X2 and Cortex-A710 CPUs and Mali-G710 GPU. The new CPU and GPU designs aren't just Arm's latest chip blueprints, though; they're also its first designs to utilize its new Armv9 architecture, its first in a decade, which means big jumps in performance, along with new security and AI features.
-<a href='https://www.theverge.com/2021/5/25/22448107/arm-armv9-architecure-cortex-x2-a710-cpu-mali-g710-gpu-android-2022-designs'> Source <a/>

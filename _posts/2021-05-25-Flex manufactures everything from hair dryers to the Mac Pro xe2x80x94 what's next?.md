@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rg0WJfbwv3NhStS0IzYdNkw0Kvs=/0x0:2050x1367/1200x675/filters:focal(889x432:1217x760)/cdn.vox-cdn.com/uploads/chorus_image/image/69338570/VRG_ILLO_Decoder_Revathi_Advaithi_s.0.jpg' width='700px' /><br/>
-This week, I'm talking to Revathi Advaithi, CEO of Flex. Now, Flex isn't a household name, but it is definitely in your household: it's the third-largest electronics manufacturing company in the world, making everything from hair dryers to the Mac Pro to autonomous driving systems for electric cars.
-<a href='https://www.theverge.com/22451309/flex-revathi-advaithi-interview-decoder-manufacturing-covid-19'> Source <a/>

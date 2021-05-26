@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w6ytnzkpN_9J5jeE_V7P5V1Waw0=/0x0:1454x818/1200x800/filters:focal(611x293:843x525)/cdn.vox-cdn.com/uploads/chorus_image/image/69340787/koc_screenshot_16x9_5.jpg.adapt.crop16x9.818p.0.jpg' width='700px' /><br/>
+Knockout City took me back to childhood games of dodgeball with a single sound: “whumphf!” That one noise, which you'll hear a lot as dodgeballs bounce every which way, represents just how well the game's virtual version of dodgeball mimics the real thing — including all of the chaos you might remember from games on the playground.
+<a href='https://www.theverge.com/2021/5/25/22453234/knockout-city-dodgeball-ea-velan-studios'> Source <a/>

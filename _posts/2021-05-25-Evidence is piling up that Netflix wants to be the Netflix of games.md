@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yG8aiJd71ACg9VtdjoHBHYlj6y0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69337058/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
-Netflix has dipped a toe in gaming on occasion, with perhaps the hugely-successful “choose your own adventure”-style film Black Mirror: Bandersnatch as the most prominent example. But the streaming giant may be expanding further into gaming with a new bundle for Netflix subscribers, according to several reports over the past few days.
-<a href='https://www.theverge.com/2021/5/24/22452173/netflix-gaming-subscription-service-executive-2022'> Source <a/>
