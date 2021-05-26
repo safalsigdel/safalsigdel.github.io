@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Or8u9N3YpDSphIUWSmF_EDNTnxc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69340095/Ford-Velodyne-CES-2016-verge-03.0.0.jpg' width='700px' /><br/>
-David Hall, the founder of leading lidar manufacturer Velodyne, is going to war with the SPAC that acquired his company. In a letter, Hall is calling for the resignation of two of the company's SPAC-appointed board directors, whom he blames for Velodyne's “poor financial performance.”
-<a href='https://www.theverge.com/2021/5/25/22453138/velodyne-david-hall-spac-letter-board-removal'> Source <a/>
