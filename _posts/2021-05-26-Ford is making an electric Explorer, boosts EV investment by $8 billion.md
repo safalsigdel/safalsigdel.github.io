@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/odrFMGCgGTQIHToJy5N2EriRkr4=/905x0:6720x3543/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/69345599/All_New_Ford_E_Transit_09.0.jpg' width='700px' /><br/>
+Ford will spend $30 billion on electric vehicles by 2025, and says 40 percent of its global fleet will be all-electric by 2030. The company is working on an all-electric version of its Explorer SUV. And it's developing two new electric vehicle platforms: one that will power full-size pickup trucks, and one that can easily flex between all- and rear-wheel drive to fit multiple vehicle types.
+<a href='https://www.theverge.com/2021/5/26/22454728/ford-plus-pro-electric-explorer-suv-investment'> Source <a/>
