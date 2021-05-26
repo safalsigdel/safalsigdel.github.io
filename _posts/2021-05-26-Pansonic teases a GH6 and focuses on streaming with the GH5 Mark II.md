@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4PI1-rndtrzo9HUD9DCTJKjEZuA=/0x0:2667x2000/1200x800/filters:focal(1002x810:1428x1236)/cdn.vox-cdn.com/uploads/chorus_image/image/69339419/GH5M2_MKIT_slant_K_T4.0.jpg' width='700px' /><br/>
-Panasonic has announced not one but two follow-up cameras to the Lumix GH5, a camera that's been popular with videographers since it launched in 2017. There's the GH6, which Panasonic says features a brand-new sensor and will launch by the end of the year for $2,500, and the GH5 Mark II, which is going up for preorder today, with a body-only package coming in at $1,700.
-<a href='https://www.theverge.com/2021/5/25/22451677/panasonic-gh6-gh5-mark-ii-2-live-streaming-video-camera'> Source <a/>
