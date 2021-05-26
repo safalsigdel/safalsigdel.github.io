@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/djFOEkmlI2WHNf0YVkbOuZdUzos=/848x951:3175x2613/1200x800/filters:focal(1680x1545:2320x2185)/cdn.vox-cdn.com/uploads/chorus_image/image/69341549/0x0_Model_Y_04.0.jpg' width='700px' /><br/>
-Tesla has stopped building forward-facing radar sensors into its Model 3 sedans and Model Y SUVs in North America, after CEO Elon Musk publicly expressed a desire to rely on cameras to power the company's advanced driver assistance system, Autopilot.
-<a href='https://www.theverge.com/2021/5/25/22453518/tesla-vision-radar-autopilot-model-3-y-fsd'> Source <a/>
