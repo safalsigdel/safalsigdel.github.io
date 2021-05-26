@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NK0GcWyNrXqEOrpTjA9Gu-OyVT8=/0x0:1736x1102/1200x800/filters:focal(730x413:1006x689)/cdn.vox-cdn.com/uploads/chorus_image/image/69345692/Screen_Shot_2021_04_13_at_7.34.34_PM.0.jpg' width='700px' /><br/>
+Autonomous flight startup Merlin Labs is coming out of stealth mode to announce that it's raised $25 million in funding from Google Ventures and First Round Capital. The company has also struck a deal with aviation services contractor Dynamic Aviation to begin putting its pilotless plane technology into commercial operation.
+<a href='https://www.theverge.com/2021/5/26/22453042/merlin-labs-autonomous-flight-startup-stealth-funding'> Source <a/>

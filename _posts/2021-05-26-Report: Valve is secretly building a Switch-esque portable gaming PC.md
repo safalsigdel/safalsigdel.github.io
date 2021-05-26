@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ne7E3e382hGNi7iQ8mYk5kV1L4Y=/0x0:2000x1434/1200x800/filters:focal(840x557:1160x877)/cdn.vox-cdn.com/uploads/chorus_image/image/69341337/valve.0.jpg' width='700px' /><br/>
-Nearly a decade after introducing an ill-fated line of Linux gaming PCs dubbed “Steam Machines,” PC gaming giant Valve is reportedly trying its hand at hardware again — with its own handheld gaming computer a la the Nintendo Switch.
-<a href='https://www.theverge.com/2021/5/25/22453584/valve-portable-gaming-pc-switch-rumor-report'> Source <a/>
