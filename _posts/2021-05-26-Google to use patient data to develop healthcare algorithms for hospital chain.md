@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BU880EXx9t44ZOnxL1r0_BlkCJ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69345622/acastro_210121_1777_google_0001.0.jpg' width='700px' /><br/>
+Google has made a deal for access to patient records from HCA, which which operates 181 hospitals and more than 2,000 healthcare sites in 21 states, so the tech company can develop healthcare algorithms, The Wall Street Journal reports.
+<a href='https://www.theverge.com/2021/5/26/22454817/google-hca-patient-data-healthcare-algorithms'> Source <a/>
