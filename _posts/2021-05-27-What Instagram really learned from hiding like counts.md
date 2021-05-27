@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m3NKaVSOo2aQXcSBcZXnCaAupsw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69349587/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+In April 2019, amid growing questions about the effects of social networks on mental health, Instagram announced it would test a feed without likes. The person posting an image on the network would still see how many people had sent it a heart, but the total number of hearts would remain invisible to the public.
+<a href='https://www.theverge.com/2021/5/27/22456206/instagram-hiding-likes-experiment-results-platformer'> Source <a/>
