@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Igz0sCrN3uozFedRxjlB7F4D8LA=/0x0:4000x2667/1200x800/filters:focal(1285x929:1925x1569)/cdn.vox-cdn.com/uploads/chorus_image/image/69346384/670451728.0.jpg' width='700px' /><br/>
-Andy Jassy will officially become the CEO of Amazon on July 5th, the company announced at a shareholder meeting on Wednesday. The company picked that date because it marks 27 years to the day that Amazon was incorporated, according to reporters who transcribed remarks from outgoing CEO Jeff Bezos.
-<a href='https://www.theverge.com/2021/5/26/22455126/amazon-ceo-andy-jassy-jeff-bezos-july-5-birthday'> Source <a/>

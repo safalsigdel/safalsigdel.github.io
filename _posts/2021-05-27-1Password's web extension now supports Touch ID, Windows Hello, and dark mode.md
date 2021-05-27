@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rP4h_m5ZTSgYGM24c2vIR2X5A4Y=/0x0:1196x897/1200x800/filters:focal(503x354:693x544)/cdn.vox-cdn.com/uploads/chorus_image/image/69346264/popup_dark.0.png' width='700px' /><br/>
-If you use 1Password in your browser, it's getting a big upgrade: support for biometrics — like Touch ID or Windows Hello (and even some Linux biometrics systems) — dark mode, and a new password-saving and updating UI.
-<a href='https://www.theverge.com/2021/5/26/22454991/1password-for-web-touch-id-windows-hello-dark-mode-chrome-edge-firefox-biometrics'> Source <a/>

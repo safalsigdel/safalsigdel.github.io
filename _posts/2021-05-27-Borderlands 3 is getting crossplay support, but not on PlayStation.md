@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7IY-0N34wTiJX6_-Yj3EuYYAKQE=/0x0:1328x880/1200x800/filters:focal(558x334:770x546)/cdn.vox-cdn.com/uploads/chorus_image/image/69350111/borderlands3.0.jpg' width='700px' /><br/>
+Borderlands 3 is set to get crossplay support soon, but not on Sony's PlayStation consoles. Gearbox, the developer of Borderlands 3, has revealed it was ready to enable “full crossplay support across all platforms” but that the publisher, 2K Games, required it be removed for PlayStation consoles.
+<a href='https://www.theverge.com/2021/5/27/22456413/borderlands-3-crossplay-support-playstation-2k-games'> Source <a/>
