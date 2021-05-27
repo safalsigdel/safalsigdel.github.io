@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HEnmIQTQv1sHOH2jnWlexnFdTMo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69346201/dseifert_171008_2042_4560_02.5.jpg' width='700px' /><br/>
+The future of search is a conversation — at least, according to Google.
+<a href='https://www.theverge.com/2021/5/26/22454513/google-future-of-search-conversation-ai-mum-lamda'> Source <a/>

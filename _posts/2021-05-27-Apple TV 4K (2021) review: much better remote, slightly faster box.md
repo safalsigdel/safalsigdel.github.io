@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S22h3GELt6WBs7FHSytYyzPXGEo=/0x0:2040x1360/1200x675/filters:focal(772x597:1098x923)/cdn.vox-cdn.com/uploads/chorus_image/image/69346677/DSCF3875_2.0.jpg' width='700px' /><br/>
+It's easy to be underwhelmed by the new Apple TV 4K. It looks identical to Apple's first 4K streaming box introduced back in 2017, and the day-to-day experience of using it doesn't feel dramatically better when compared to that device. The biggest improvement is undoubtedly the redesigned second-generation Siri Remote that comes bundled with the new Apple TV 4K — but you can buy that separately for $59.
+<a href='https://www.theverge.com/22454960/apple-tv-4k-2021-review'> Source <a/>

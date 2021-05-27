@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RmtusQKu4vXD1ksDflTLP36gP68=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69344707/Switch_PokemonLegendsArceus_Screenshot__1_.0.jpg' width='700px' /><br/>
-Possibly the most ambitious Pokxc3xa9mon game to date will be available early next year. Today Nintendo announced that Pokxc3xa9mon Legends: Arceus will be launching on the Nintendo Switch on January 28th, 2022. The game was first announced in February.
-<a href='https://www.theverge.com/2021/5/26/22454614/pokemon-legends-arceus-nintendo-switch-release-date'> Source <a/>

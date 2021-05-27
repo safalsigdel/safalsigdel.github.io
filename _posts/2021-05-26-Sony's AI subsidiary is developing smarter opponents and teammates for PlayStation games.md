@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jkJ_y_HYA1syWuGPrwcIryRw4WA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69343849/vpavic_4261_20201023_0030.0.jpg' width='700px' /><br/>
-In 2019, Sony quietly established a subsidiary dedicated to researching artificial intelligence. What exactly the company plans to do with this tech has always been a bit unclear, but a recent corporate strategy meeting offers a little more information.
-<a href='https://www.theverge.com/2021/5/26/22454377/sony-ai-playstation-game-agents-corp-document-presentation-2021-strategy'> Source <a/>

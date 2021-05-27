@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Phn_s7ztKhFfBrX_-_u5X-z0cX4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69341949/vpavic_4243_20201017_0088.0.0.jpg' width='700px' /><br/>
-Hello again, it has come to my attention that Republican Senator Ted Cruz and I are in perfect alignment on one issue: if you enter your iPhone passcode on live TV, you need to change the passcode. This means you in particular, Democratic Senator Richard Blumenthal.
-<a href='https://www.theverge.com/2021/5/25/22453758/ted-cruz-richard-blumenthal-iphone-passcode'> Source <a/>

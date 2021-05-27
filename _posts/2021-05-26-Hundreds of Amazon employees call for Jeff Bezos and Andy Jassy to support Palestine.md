@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/40zUT9sCVuAorFp_40osRa3ZsZA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69342426/acastro_190920_1777_amazon_0003.0.0.jpg' width='700px' /><br/>
-More than 500 Amazon employees have signed an internal letter to Jeff Bezos and Andy Jassy calling for the company to acknowledge the plight of the Palestinian people. The move comes after Israeli airstrikes devastated Palestinians in Gaza, leaving 248 people dead. Hamas and Israel have since agreed to a ceasefire.
-<a href='https://www.theverge.com/2021/5/25/22453784/amazon-employees-support-palestine-sever-business-contracts'> Source <a/>

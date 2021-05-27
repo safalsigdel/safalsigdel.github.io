@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
-Soon, the majority of portable PCs won't need to be equipped with an ugly barrel jack and a proprietary power brick to charge. The USB Implementers Forum (USB-IF) has just announced (via CNET) that it's more than doubling the amount of power you can send over a USB-C cable to 240 watts, which means you'll eventually be able to plug in the same kind of multipurpose USB-C cable you currently use on lightweight laptops, tablets, and phones to charge all but the beefiest gaming laptops.
-<a href='https://www.theverge.com/circuitbreaker/2021/5/25/22453936/usb-c-power-delivery-extended-power-range-epr'> Source <a/>

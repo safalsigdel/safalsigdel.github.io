@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oUnIGsrReNFUblCC8YtNlfE13jQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69346863/acastro_190530_1777_xbox_0002.0.0.jpg' width='700px' /><br/>
+Microsoft's big E3 event to showcase upcoming Xbox and Bethesda games will kick off on Sunday, June 13th at 1PM ET. It will be a 90-minute show.
+<a href='https://www.theverge.com/2021/5/26/22453024/microsoft-xbox-bethesda-showcase-presentation-event-e3-2021'> Source <a/>

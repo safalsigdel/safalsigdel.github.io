@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GtRvHFbrDlzmmqSYgZ92x1kRUWU=/0x0:1700x1080/1200x800/filters:focal(714x404:986x676)/cdn.vox-cdn.com/uploads/chorus_image/image/69344550/IG_Hiding_Likes__Consumer_View_.0.png' width='700px' /><br/>
-You can now hide like counts on Instagram and Facebook. After years of testing on both platforms, Facebook and Instagram have settled on an opt-in experience for hiding like counts to allow people to disable seeing them across all posts and an option to hide their own public like counts from others.
-<a href='https://www.theverge.com/2021/5/26/22454428/facebook-instagram-hide-like-counts-feature-now-available'> Source <a/>

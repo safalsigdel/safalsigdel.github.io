@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hATZYQb8GiLk6zNpTG9p-ef7vlg=/0x0:2353x1570/1200x800/filters:focal(989x597:1365x973)/cdn.vox-cdn.com/uploads/chorus_image/image/69346802/WikoRide3_crop.0.jpg' width='700px' /><br/>
+With T-Mobile's older CDMA network shutdown looming and no sign of a delay in sight, Boost Mobile customers looking for a new 4G phone just got a very affordable new option: the Wiko Ride 3. It's currently marked down to $34.99 from a full retail price of $99.99.
+<a href='https://www.theverge.com/2021/5/26/22454954/wiko-ride-3-boost-mobile-price-availability'> Source <a/>

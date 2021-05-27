@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k7-kbB7-Lcjfxi9l6eucbd0NDuY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69348403/vpavic_4278_20201030_0247.0.jpg' width='700px' /><br/>
+In February, Sony revealed it was selling the PlayStation 5 at a loss — but that's imminently about to change. The PS5 should hit break-even in June, and become profitable the very same month, according to a presentation the company shared with investors (PDF) during its investor day today.
+<a href='https://www.theverge.com/2021/5/26/22455810/sony-ps5-profitable-uncharted-4-pc-investor-presentation'> Source <a/>

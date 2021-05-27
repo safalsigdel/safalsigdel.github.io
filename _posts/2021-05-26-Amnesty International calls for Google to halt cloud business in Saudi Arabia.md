@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RJbaIn7ZIn5RWvzS-IFLwA_6cBI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69343410/acastro_210121_1777_google_0001.0.jpg' width='700px' /><br/>
-Amnesty International is teaming up with 38 other human rights groups and individuals to call for a halt to Google's plans to set up an enterprise cloud business in Saudi Arabia because of concerns over the country's human rights track record.
-<a href='https://www.theverge.com/2021/5/26/22453351/amnesty-international-halt-google-cloud-datacenters-saudi-arabia'> Source <a/>

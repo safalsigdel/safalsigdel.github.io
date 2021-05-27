@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V5mI0YJjxFH2vqZvuUsJ-aWPaPU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69343641/DSCF5652.0.jpg' width='700px' /><br/>
-The US has formally removed Xiaomi from its trading blacklist. The US District Court for the District of Columbia issued a final order yesterday that vacated the Department of Defense's designation of Xiaomi as a “Communist Chinese military company” (CCMC), which would have prohibited Americans from investing in the Chinese consumer tech giant.
-<a href='https://www.theverge.com/2021/5/26/22454292/xiaomi-blacklist-removed-communist-chinese-military-company'> Source <a/>

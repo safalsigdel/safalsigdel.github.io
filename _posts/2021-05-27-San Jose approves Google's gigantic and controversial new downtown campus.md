@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6S5aQgyWzHVibj99e_ZLfFtz8To=/0x0:2036x1138/1200x800/filters:focal(856x407:1180x731)/cdn.vox-cdn.com/uploads/chorus_image/image/69347228/Screen_Shot_2021_05_26_at_9.00.46_AM.0.png' width='700px' /><br/>
+After first proposing it in 2017, Google has received unanimous approval from the San Jose City Council to move forward with its Downtown West development plan, CNBC reports. The company and city have reached an agreement to develop around 80 acres of land in downtown San Jose, California that will also serve as a mixed-use residential, retail, and open space for Google employees and the city's residents.
+<a href='https://www.theverge.com/2021/5/26/22454939/google-san-jose-campus-dwontown-west-wfh'> Source <a/>

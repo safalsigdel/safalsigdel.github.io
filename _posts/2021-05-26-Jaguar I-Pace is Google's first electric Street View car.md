@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tj7vFrBlh0tuJL3fiYGe5Y57jSI=/0x0:2776x2080/1200x800/filters:focal(1166x818:1610x1262)/cdn.vox-cdn.com/uploads/chorus_image/image/69342345/Jaguar_I_PACE_x_Google_Street_1b.0.jpg' width='700px' /><br/>
-Google finally has its first all-electric vehicle for capturing Street View. The tech giant and Jaguar Land Rover announced today that they have collaborated to rig up an all-electric I-Pace SUV with the equipment required to capture Street View imagery, and deployed the car in Dublin, Ireland.
-<a href='https://www.theverge.com/2021/5/25/22453703/jaguar-i-pace-google-street-view-dublin-air-quality'> Source <a/>

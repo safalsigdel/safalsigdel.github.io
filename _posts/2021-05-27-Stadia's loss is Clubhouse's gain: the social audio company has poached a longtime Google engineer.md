@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/epWdWNxJMsJEEmLHajmYe_0v6yU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69347832/acastro_210430_1777_audioApps_0002.0.jpg' width='700px' /><br/>
+Clubhouse has hired Justin Uberti, creator of the WebRTC standard and the Google Duo video chat app. He leaves Google after nearly 15 years at the company, where he was most recently the engineering lead for Google's Stadia cloud gaming service and led the team that made the Stadia iOS web app.
+<a href='https://www.theverge.com/2021/5/26/22455357/clubhouse-google-engineer-webrtc-justin-uberti-stadia'> Source <a/>

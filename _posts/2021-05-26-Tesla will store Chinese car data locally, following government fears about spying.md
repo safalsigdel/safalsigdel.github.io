@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qnQ9PgvlD3mIC1ecUaT1WDR_POQ=/0x0:4000x2598/1200x800/filters:focal(1680x979:2320x1619)/cdn.vox-cdn.com/uploads/chorus_image/image/69344106/1212733626.0.jpg' width='700px' /><br/>
-Tesla says it's established a data center in China to store and process information produced by its vehicles locally. The announcement, made on Weibo, comes as the US carmaker faces pressure from Chinese authorities over fears its cars could be used for spying.
-<a href='https://www.theverge.com/2021/5/26/22454369/tesla-china-datacenter-process-locally-spying-fears'> Source <a/>
