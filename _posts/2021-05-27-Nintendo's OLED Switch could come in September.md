@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VUt5DRpYn4Zc4v367dPEfCEag3o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69349129/acastro_190530_1777_switch_0001.0.0.jpg' width='700px' /><br/>
+Nintendo could release its heavily rumored new version of the Switch in September or October, according to a report by Bloomberg. Manufacturing is reportedly planned to start as soon as July, and Bloomberg says the system may be announced before the E3 trade show, which kicks off in virtual form on June 12th.
+<a href='https://www.theverge.com/2021/5/27/22456160/new-nintendo-switch-release-date-september-e3-announcement'> Source <a/>
