@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CbEgTUmkJYq9YpQLXJ6S0sWfYCs=/0x0:2040x1360/1200x800/filters:focal(1035x457:1361x783)/cdn.vox-cdn.com/uploads/chorus_image/image/69350478/cwelch_191024_3759_0006.0.jpg' width='700px' /><br/>
+Amazon's Prime Day for 2021 may happen on June 21st and 22nd, according to Bloomberg. Last year's Prime member-exclusive shopping holiday was delayed until October due to the pandemic. In years prior, Amazon had hosted Prime Day in the summer. But with June upon us, this could mean one of the best times to buy tech, games, movies, and more could be just around the corner.
+<a href='https://www.theverge.com/good-deals/2021/5/27/22456381/beats-solo-pro-studio-3-headphones-sony-days-of-play-ps5-game-deal-sale'> Source <a/>

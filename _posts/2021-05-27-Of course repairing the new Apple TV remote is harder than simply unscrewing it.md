@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3ENP_-QABX0u8D5uAYTMv0GoUnQ=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22529634/DSCF3938.jpg' width='700px' /><br/>
-Apple, a company notorious for making its products difficult to repair, has given us a real head-scratcher of a repair situation with its next-generation streaming remote.
-<a href='https://www.theverge.com/2021/5/26/22455294/apple-tv-siri-remote-ifixit-teardown'> Source <a/>
