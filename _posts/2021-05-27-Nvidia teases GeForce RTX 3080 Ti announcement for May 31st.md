@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KeNA-GkTv_w0VYe_Asz65Cpwzww=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69345762/DSC00697.0.jpg' width='700px' /><br/>
-Nvidia is teasing a GeForce event for May 31st, the same day the company is rumored to be launching its new GeForce RTX 3080 Ti graphics card. A mysterious 11-second teaser video has appeared on Twitter today, simply revealing a GeForce event for 10PM PT on May 31st, or 1AM ET on June 1st.
-<a href='https://www.theverge.com/2021/5/26/22454930/nvidia-geforce-rtx-3080-ti-announcement-may-31st-event'> Source <a/>
