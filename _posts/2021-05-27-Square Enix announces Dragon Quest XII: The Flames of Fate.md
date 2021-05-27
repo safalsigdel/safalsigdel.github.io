@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d9qMciQhJybcy23E7HkAi1AY1M0=/0x0:800x534/1200x800/filters:focal(336x203:464x331)/cdn.vox-cdn.com/uploads/chorus_image/image/69349069/dq12.0.jpg' width='700px' /><br/>
+Square Enix has announced the latest mainline entry in the Dragon Quest series. Dragon Quest XII: The Flames of Fate was revealed on a livestream to celebrate the series' 35th anniversary. Not much beyond the game's logo and title was revealed, but series creator Yuji Horii hinted at some changes to the traditional turn-based battle system, and said Square Enix was aiming for a simultaneous worldwide release.
+<a href='https://www.theverge.com/2021/5/27/22456124/dragon-quest-xii-announced-35th-anniversary-event'> Source <a/>
