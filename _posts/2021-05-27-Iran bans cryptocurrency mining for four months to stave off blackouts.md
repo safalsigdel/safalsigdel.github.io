@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z6HpekZgYFVFAp83N8ShNIzFV9I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69347463/mdoying_180308_2373_0092still.0.jpg' width='700px' /><br/>
-Iran is temporarily banning cryptocurrency mining after some of the country's major cities experienced repeated blackouts. President Hassan Rouhani said that the ban would last until September 22nd.
-<a href='https://www.theverge.com/2021/5/26/22455264/iran-cryptocurrency-mining-ban-annual-summer-bitcoin-spies'> Source <a/>

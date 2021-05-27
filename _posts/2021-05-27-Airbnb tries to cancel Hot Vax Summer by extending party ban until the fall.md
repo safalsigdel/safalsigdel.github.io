@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kA--avqnH42eAYIQPL-DJjI_5Uo=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/69350736/Airbnb_Logo_Over_Gradient.0.png' width='700px' /><br/>
+Hot Vax Summer is fast approaching: vaccination rates are rising, and many people are ready to get out there and party hard — except Airbnb. It's extending its global partying ban through the summer as it tries to “cultivate safe and responsible travel through our platform.”
+<a href='https://www.theverge.com/2021/5/27/22456522/airbnb-party-ban-extended-summer-2021-hosts-guest'> Source <a/>

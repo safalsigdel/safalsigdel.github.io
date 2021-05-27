@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6MLrCjVaBuQtw9L6uPG8ZGulhk4=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69351168/On_the_Go.0.png' width='700px' /><br/>
+One of the most beloved Sonic the Hedgehog games is making a return. Sega announced today that a remaster of Sonic Colors — called Sonic Colors: Ultimate — will be coming to the PS4, Xbox One, and Nintendo Switch on September 7th.
+<a href='https://www.theverge.com/2021/5/27/22454775/sonic-colors-ultimate-remaster-release-date-xbox-ps4-switch'> Source <a/>
