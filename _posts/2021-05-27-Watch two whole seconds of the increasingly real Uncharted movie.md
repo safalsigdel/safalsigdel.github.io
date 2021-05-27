@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/trGy4jy3xHdbghQdQ5bmLJWYnoc=/0x0:1906x1194/1200x800/filters:focal(801x445:1105x749)/cdn.vox-cdn.com/uploads/chorus_image/image/69345756/Screen_Shot_2021_05_26_at_8.37.42_AM.0.png' width='700px' /><br/>
-After more than a decade in development and several directors, release dates, and scripts, the Uncharted movie increasingly seems like it may actually, really, for real become a movie we can watch, thanks in part to our first actual footage (via Twitter user @Nibellion).
-<a href='https://www.theverge.com/2021/5/26/22454836/uncharted-movie-watch-two-seconds-sony'> Source <a/>

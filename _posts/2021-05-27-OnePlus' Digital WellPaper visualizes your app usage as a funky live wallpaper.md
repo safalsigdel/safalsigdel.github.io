@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CWxV1DiBb4o4hlXiuQrJHguaHHo=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/69349798/Comp_w_Frame.0.jpg' width='700px' /><br/>
+OnePlus' new Digital WellPaper app turns your app usage into one of three live wallpapers on Android. Apps are simplified into six categories — social, lifestyle and communication, entertainment, gaming, information and business, and tools — which translate to six colors within each wallpaper that become more or less prominent as you use the apps.
+<a href='https://www.theverge.com/2021/5/27/22456248/oneplus-digital-wellpaper-app-usage-visualization-live-wallpaper'> Source <a/>
