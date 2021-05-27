@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xqgmILjHyy5WkMeieb92Rkl8L5s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69346741/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-In Facebook's protracted efforts to be remembered as something other than the largest misinformation megaphone in history, it's employed a number of strategies, from spinning its own misleading PR narratives to actual UI changes. Today, it announced a new tactic: not only will posts with misinformation in them be made less visible, but so will the individual users who share them.
-<a href='https://www.theverge.com/2021/5/26/22455076/facebook-misinformation-individual-users-hiding-posts'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hKCXFwz-tsz0BuoYmvVklpscJRc=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/69350340/SpatialLabs_Lifestyle_02.0.jpg' width='700px' /><br/>
+Acer has announced SpatialLabs, a new 3D technology that will debut on the company's ConceptD laptops. I got a chance to try it. It's not something we'll realistically see on a consumer device anytime soon — but it's pretty dang cool nonetheless.
+<a href='https://www.theverge.com/2021/5/27/22451850/acer-spatiallabs-3d-content-rendering-conceptd-7-pro'> Source <a/>

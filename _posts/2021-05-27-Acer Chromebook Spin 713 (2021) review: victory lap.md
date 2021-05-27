@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QwXDUsu9nyiwIcccq49Wi6S-PeY=/0x0:2040x1360/1200x675/filters:focal(867x627:1193x953)/cdn.vox-cdn.com/uploads/chorus_image/image/69350344/mchin_20190815_4597_0003.0.jpg' width='700px' /><br/>
+Acer has made three significant upgrades to the best-in-class Chromebook Spin 713. The first is that the device now has Intel's newest 11th Gen processors. The second is that the USB-C ports both support Thunderbolt 4. And the third is that it now has an optional fingerprint reader.
+<a href='https://www.theverge.com/22451261/acer-chromebook-spin-713-2021-review'> Source <a/>
