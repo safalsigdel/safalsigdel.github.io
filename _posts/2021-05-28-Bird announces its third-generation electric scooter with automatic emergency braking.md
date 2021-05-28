@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IScCeHz-XfRVnQG7QXSZIi6pclA=/0x0:7178x4788/1200x800/filters:focal(3015x1820:4163x2968)/cdn.vox-cdn.com/uploads/chorus_image/image/69350084/B3_Press.0.jpg' width='700px' /><br/>
-Bird is out with a new electric scooter that's designed to be the Santa Monica, California-based company's most durable and sustainable vehicle yet.
-<a href='https://www.theverge.com/2021/5/27/22455384/bird-electric-scooter-third-gen-emergency-braking-battery'> Source <a/>
