@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PAxrxGmJpiHitGH8nHdlDSaiRU8=/0x0:3000x2153/1200x800/filters:focal(1918x250:2398x730)/cdn.vox-cdn.com/uploads/chorus_image/image/69352762/1311497710.0.jpg' width='700px' /><br/>
+Two tech industry organizations have sued Florida over its newly passed rules for social networks. NetChoice and the CCIA — which represent Amazon, Google, Intel, Samsung, Facebook, and other tech giants — say SB 7072 violates private companies' constitutional rights. They're asking a court to prevent the law from taking effect, calling it a “frontal assault on the First Amendment.”
+<a href='https://www.theverge.com/2021/5/27/22457200/ccia-netchoice-lawsuit-florida-social-media-law-unconstitutional'> Source <a/>

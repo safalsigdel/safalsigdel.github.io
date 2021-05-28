@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Kellogg's — legal guardian of such cereal mascots as Tony the Tiger and Toucan Sam — has partnered with DoorDash-owned Chowbotics to launch a new cereal-mixing robot at the University of Wisconsin-Madison and Florida State University (via Gizmodo). The Kellogg's Bowl Bot offers a vending machine-type experience for one of the simplest breakfast foods, and charges anywhere from $2.99 to $6.50 for the privilege.
+<a href='https://www.theverge.com/tldr/2021/5/27/22456830/kellogs-cereal-robot-university-test-chowbotics'> Source <a/>

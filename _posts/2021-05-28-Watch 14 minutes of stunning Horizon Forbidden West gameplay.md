@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JHScbP7DxaV9eD0CH-czc-LQr1I=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22544444/Screen_Shot_2021_05_27_at_2.15.58_PM.png' width='700px' /><br/>
+Sony showed off 14 minutes of Horizon Forbidden West gameplay on a PS5 in a new State of Play presentation on Thursday. In the footage, protagonist Aloy fought against some giant animal-like machines and some human enemies on a beautiful post-apocalyptic beach settlement.
+<a href='https://www.theverge.com/2021/5/27/22455008/horizon-forbidden-west-gameplay-ps5-sony-state-of-play'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pi0Wy3mB3HK7PVahdi6ovrAbCLA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69348584/acastro_180828_1777_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook won't remove claims that COVID-19 was man-made anymore, according to a report from Politico that cites a Facebook spokesperson. The company altered its policy because of a renewed focus on the origins of the virus, including an order from President Joe Biden to his intelligence agencies to investigate the so-called lab-leak hypothesis.
-<a href='https://www.theverge.com/2021/5/26/22455797/facebook-covid-19-man-made-moderation'> Source <a/>

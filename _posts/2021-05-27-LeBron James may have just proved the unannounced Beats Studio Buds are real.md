@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CagpQo0wv6_e8jYxEgSKX0u6Vr0=/0x0:780x523/1200x800/filters:focal(328x200:452x324)/cdn.vox-cdn.com/uploads/chorus_image/image/69348544/191152746_211492840634582_216780930635838230_n.0.jpg' width='700px' /><br/>
-Earlier this month, an unannounced pair of Beats wireless earbuds, apparently called the Beats Studio Buds, showed up in beta releases of iOS and tvOS. While those betas were a good start, a flood of new leaks — including actual photos of mystery earbuds from superstar athlete LeBron James — suggest that they could be available very soon.
-<a href='https://www.theverge.com/2021/5/26/22455747/beats-studio-buds-apple-lebron-james-instagram-photos'> Source <a/>

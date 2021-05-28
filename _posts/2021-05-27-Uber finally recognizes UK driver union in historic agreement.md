@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MLdzA-3b_t3ukYsV2uR2K7HNxM4=/0x0:7116x4744/1200x800/filters:focal(2989x1803:4127x2941)/cdn.vox-cdn.com/uploads/chorus_image/image/69347986/1231264249.0.jpg' width='700px' /><br/>
-Uber has finally recognized a union of its own drivers. Allow yourself that single moment of elation before we get to the rest of the details.
-<a href='https://www.theverge.com/2021/5/26/22455533/uber-union-uk-gmb-eats-labor'> Source <a/>
