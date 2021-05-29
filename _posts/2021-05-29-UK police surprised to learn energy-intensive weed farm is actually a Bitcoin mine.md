@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i_Ky_D8DR6ARJi71_7uz6TzN35k=/0x0:1401x1051/1200x800/filters:focal(631x570:855x794)/cdn.vox-cdn.com/uploads/chorus_image/image/69358664/Crypto_mine_WM.0.jpeg' width='700px' /><br/>
+Police in the United Kingdom raided an industrial unit outside Birmingham under suspicion it was housing an indoor marijuana growing operation, CNBC reported. They were surprised to discover instead an extensive Bitcoin mining setup which was illegally siphoning electricity from a mains supply.
+<a href='https://www.theverge.com/2021/5/28/22458632/bitcoin-mine-mistaken-cannabis-growing-operation-police'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RKMieDF72ccZrngu4m2aUBs28sE=/0x0:1658x1105/1200x800/filters:focal(697x421:961x685)/cdn.vox-cdn.com/uploads/chorus_image/image/69353892/spira_two.0.jpg' width='700px' /><br/>
+In 2018, we marveled over the Spyra One, an attempt to crowdfund a modern Super Soaker that could blast veritable bolts of water; refill itself from a pool; and maintain a digital ammo gauge of your shots, thanks to a heap of electronics, a self-pressurizing tank, and a battery you recharge via a standard USB-C port. The big catch: you had to be willing to risk north of $133 on an unproven Kickstarter that wound up shipping a year behind schedule.
+<a href='https://www.theverge.com/2021/5/27/22457616/spyra-two-water-gun-toy-pool-not-crowdfunded'> Source <a/>

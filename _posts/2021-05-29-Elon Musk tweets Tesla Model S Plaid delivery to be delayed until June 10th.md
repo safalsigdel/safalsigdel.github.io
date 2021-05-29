@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8X87nMDyR_wtBSOOiyxKyG13dg0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69360494/twarren_08202017_1939_0003.0.0.jpg' width='700px' /><br/>
+Tesla CEO Elon Musk tweeted Saturday that deliveries of the automaker's Model S Plaid would be delayed until June 10th because the car needs “one more week of tweak.”
+<a href='https://www.theverge.com/2021/5/29/22459617/musk-tweets-model-s-tesla-plaid-delivery-delayed-again-june-10th'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/psDswk2F6QsgX6usmE2iOUcMbiM=/0x0:6058x3410/1200x675/filters:focal(2545x1221:3513x2189)/cdn.vox-cdn.com/uploads/chorus_image/image/69355964/DSCF5519.0.jpg' width='700px' /><br/>
+There are plenty of buying guides for figuring out the best phone to buy at a given time, across a wide variety of prices. We have two of them, in fact. But if you're a dyed-in-the-wool phone enthusiast, you don't need a guide that's going to give you the best rational recommendation. You need something that's going to help you scratch your new gadget itch in the most satisfying way.
+<a href='https://www.theverge.com/22451975/phone-buying-guide-enthusiasts-nerds'> Source <a/>
