@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hcy2g_UR_53DamIb-9zHDc5ss1Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69359212/venmo1_2040.0.0.jpg' width='700px' /><br/>
-Venmo has added new privacy controls for friend lists following a jaw-dropping incident where BuzzFeed News was able to track down President Joe Biden's Venmo account because of the app's leaky privacy protocols. App researcher Jane Manchun Wong discovered earlier on Friday that Venmo was working on the new controls.
-<a href='https://www.theverge.com/2021/5/28/22459163/venmo-privacy-controls-friends-list-joe-biden'> Source <a/>

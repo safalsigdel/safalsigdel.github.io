@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8wSSw83LlkjAol1u6Xe3pdo1O4c=/0x0:1400x933/1200x800/filters:focal(588x355:812x579)/cdn.vox-cdn.com/uploads/chorus_image/image/69353678/d3d70c40_031e_480a_85d6_4bff05670ea3.0.jpg' width='700px' /><br/>
-Tesla is starting to use the camera above the rear-view mirror in the Model 3 and Model Y to help make sure people pay attention to the road while using Autopilot, the company's advanced driver assistance system.
-<a href='https://www.theverge.com/2021/5/27/22457430/tesla-in-car-camera-driver-monitoring-system'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/8wSSw83LlkjAol1u6Xe3pdo1O4c=/0x0:1400x933/1200x800/filters:focal(588x355:812x579)/cdn.vox-cdn.com/uploads/chorus_image/image/69353678/d3d70c40_031e_480a_85d6_4bff05670ea3.0.jpg' width='700px' /><br/>
-Tesla is starting to use the camera above the rear-view mirror in the Model 3 and Model Y to help make sure people pay attention to the road while using Autopilot, the company's advanced driver assistance system.
-<a href='https://www.theverge.com/2021/5/27/22457430/tesla-in-car-camera-driver-monitoring-system'> Source <a/>

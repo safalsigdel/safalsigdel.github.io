@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zCjTrOQSa5evpN0woT0M8Z56b64=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69358830/acastro_200715_1777_twitter_0002.0.0.jpg' width='700px' /><br/>
-Twitter could be adding some new emojis to augment its formerly star-shaped, currently heart-shaped Like button, according to app researcher Jane Manchun Wong. The assets Wong found — which have been reliable predictions of future features in the past — show “cheer,” “hmm,” “sad,” and “haha” emoji reactions, though some currently only have a placeholder emoji.
-<a href='https://www.theverge.com/2021/5/28/22458959/twitter-reactions-feature-facebook-sad-cheer'> Source <a/>

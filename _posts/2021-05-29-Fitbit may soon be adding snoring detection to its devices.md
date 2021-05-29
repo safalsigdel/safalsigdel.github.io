@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NvQnUllc0cuJeq4Jrt33w2a7Vhk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69360800/akrales_190903_3635_0025.0.jpg' width='700px' /><br/>
-Fitbit may soon add snoring and noise detection to its devices, a move that will likely please the spouses and partners of the snoring population and be of interest to people for whom snoring is a sign of a possible health condition.
-<a href='https://www.theverge.com/2021/5/29/22459675/fitbit-snoring-detection-fitness-trackers-smartwatch-sleep-animal'> Source <a/>

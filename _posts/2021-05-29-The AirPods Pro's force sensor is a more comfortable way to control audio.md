@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zeIQnGVy0h6cbPtv86AWLGXXaoQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69356060/vpavic_4603_20210525_0018_Edit.0.jpg' width='700px' /><br/>
-Apple's AirPods Pro cleverly solve one of the trickiest parts of earbud design with a unique button — even if it's not technically a button at all.
-<a href='https://www.theverge.com/22457468/airpods-pro-force-sensor-control-audio-button'> Source <a/>
