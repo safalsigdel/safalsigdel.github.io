@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ueE1qFC-_FbumkBD41VCzJgF1tg=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69358240/VRG_4607_Social_Media_Land.0.jpg' width='700px' /><br/>
+The Verge is deeply invested in doing service journalism; we report on companies' misdeeds, we review expensive products to tell you whether they're worth your hard-earned money, and speak to industry leaders to get their insights on the issues affecting their companies and their customers.
+<a href='https://www.theverge.com/2021/5/28/22458555/florida-deplatforming-law-twitter-facebook-snap-pinterest-tiktok-youtube-google'> Source <a/>

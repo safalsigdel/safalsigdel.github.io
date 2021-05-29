@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/gXyEN2FDzVGje9OgKcCVyUmN4Eo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69353512/acastro_210104_1777_google_0001.0.jpg' width='700px' /><br/>
 Four women who used to work for Google have won class-action status for their gender equity lawsuit against the search engine company, allowing them to represent some 10,800 women, Bloomberg reports.
+<a href='https://www.theverge.com/2021/5/27/22457421/lawsuit-former-google-women-class-action-gender-bias-pay-disparity'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/gXyEN2FDzVGje9OgKcCVyUmN4Eo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69353512/acastro_210104_1777_google_0001.0.jpg' width='700px' /><br/>
+Four women who used to work for Google have won class-action status for their gender equity lawsuit against the search engine company, allowing them to represent some 10,800 women, Bloomberg reports.
 <a href='https://www.theverge.com/2021/5/27/22457421/lawsuit-former-google-women-class-action-gender-bias-pay-disparity'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-k6s5_0uaNYhfX9rvDp3rblUDos=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69358714/acastro_210119_1777_whatsapp_0001.0.jpg' width='700px' /><br/>
+Earlier this month, Facebook-owned WhatsApp said that users would lose functionality over time if they didn't accept its new privacy policy by May 15th. In a reversal, Facebook now says that plan has changed, and users who don't accept the updated policy actually won't see limited functionality (via TNW).
+<a href='https://www.theverge.com/2021/5/28/22458805/whatsapp-privacy-policy-no-plans-limit-functionality'> Source <a/>

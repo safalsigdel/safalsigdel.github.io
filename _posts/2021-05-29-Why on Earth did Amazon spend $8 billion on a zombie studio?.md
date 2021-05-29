@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/stdJtUlx8X-MJWCNKOVYkp4dt2g=/0x0:5472x3648/1200x800/filters:focal(2370x974:3244x1848)/cdn.vox-cdn.com/uploads/chorus_image/image/69358187/1231823071.0.jpg' width='700px' /><br/>
+Amazon just dumped an $8 billion-plus chunk of change on MGM, a studio best known for James Bond and its logo of a roaring lion. The acquisition offers an opportunity for Amazon to spin the spy films into a big perk for its streaming services. But it's hard to believe that dropping billions for the studio's content library is actually going to prop up Amazon's streaming services — at least on its own.
+<a href='https://www.theverge.com/22458734/amazon-mgm-8-billion-prime-video-streaming'> Source <a/>
