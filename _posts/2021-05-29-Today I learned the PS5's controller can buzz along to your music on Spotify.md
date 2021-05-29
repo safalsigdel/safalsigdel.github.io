@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/wBptHDlQpNlsYPxChujz_1ss1hk=/0x0:2040x1360/1200x800/filters:focal(790x609:1116x935)/cdn.vox-cdn.com/uploads/chorus_image/image/69353226/vpavic_4261_20201023_0027.0.jpg' width='700px' /><br/>
 The DualSense controller for PS5 has great haptic feedback for games like Returnal and Demon's Souls. But today I found out that it's also good at humming along to tunes on Spotify when plugged into a PC.
-<a href='https://www.theverge.com/2021/5/27/22457331/ps5-dualsense-spotify-haptic-feedback-controller-vibrate-pc-windows-10'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/wBptHDlQpNlsYPxChujz_1ss1hk=/0x0:2040x1360/1200x800/filters:focal(790x609:1116x935)/cdn.vox-cdn.com/uploads/chorus_image/image/69353226/vpavic_4261_20201023_0027.0.jpg' width='700px' /><br/>
-The DualSense controller for PS5 has great haptic feedback for games like Returnal and Demon's Souls. But today I found out that it's also good at humming along to tunes on Spotify when plugged into a PC.
 <a href='https://www.theverge.com/2021/5/27/22457331/ps5-dualsense-spotify-haptic-feedback-controller-vibrate-pc-windows-10'> Source <a/>

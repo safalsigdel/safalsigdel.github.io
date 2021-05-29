@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/8DOfd7vUuy9NNsNcbTxy33uSySg=/0x102:1371x1029/1200x800/filters:focal(368x545:614x791)/cdn.vox-cdn.com/uploads/chorus_image/image/69355125/XEbQB42rd4G9SboycZMTV63zq_0247.0.jpg' width='700px' /><br/>
 Lenovo's Yoga Pad Pro is a new 13-inch Android tablet that can easily double as an external monitor, Gizmochina reports. It will be available to buy in China for 3,299 yuan (around $517) on May 31st.
+<a href='https://www.theverge.com/2021/5/28/22458071/lenovo-yoga-pad-pro-android-tablet-external-monitor-hdmi'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/8DOfd7vUuy9NNsNcbTxy33uSySg=/0x102:1371x1029/1200x800/filters:focal(368x545:614x791)/cdn.vox-cdn.com/uploads/chorus_image/image/69355125/XEbQB42rd4G9SboycZMTV63zq_0247.0.jpg' width='700px' /><br/>
+Lenovo's Yoga Pad Pro is a new 13-inch Android tablet that can easily double as an external monitor, Gizmochina reports. It will be available to buy in China for 3,299 yuan (around $517) on May 31st.
 <a href='https://www.theverge.com/2021/5/28/22458071/lenovo-yoga-pad-pro-android-tablet-external-monitor-hdmi'> Source <a/>
