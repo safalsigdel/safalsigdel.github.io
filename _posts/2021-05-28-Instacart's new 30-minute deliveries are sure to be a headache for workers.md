@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oIcprbZTqsmcabTjryBUHkKsg94=/0x0:2330x1312/1200x800/filters:focal(979x470:1351x842)/cdn.vox-cdn.com/uploads/chorus_image/image/69352299/Priority_Delivery.0.png' width='700px' /><br/>
-In the crowded food- and grocery-delivery space, Instacart is hoping that shaving off a few minutes makes all the difference. To that end, it's creating a new “priority delivery” option that debuts today in select markets and promises to have orders fulfilled in “as fast as 30 minutes.”
-<a href='https://www.theverge.com/2021/5/27/22456907/instacart-priority-delivery-faster-orders-new-feature'> Source <a/>

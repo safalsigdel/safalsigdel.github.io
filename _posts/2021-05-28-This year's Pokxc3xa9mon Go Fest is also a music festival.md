@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g4sMc9BME2qFaGGq-Yh8iR-pPkg=/0x0:3840x2586/1200x800/filters:focal(1613x1133:2227x1747)/cdn.vox-cdn.com/uploads/chorus_image/image/69350072/20210521_gofest2021_hero_3840x2880.0.jpg' width='700px' /><br/>
-Pokxc3xa9mon Go Fest is just a few weeks away, and this year, the annual event is also going to be a music festival, developer Niantic announced on Thursday.
-<a href='https://www.theverge.com/2021/5/27/22454064/pokemon-go-fest-2021-music-festival-pikachu-rock-pop-star'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PD8e7oI3m1zIHpTA1kfpfHTMOYw=/0x0:660x382/1200x800/filters:focal(278x139:382x243)/cdn.vox-cdn.com/uploads/chorus_image/image/69352022/Sony_WF_1000XM4_1622109809_1_12.0.jpeg' width='700px' /><br/>
-We heard earlier this month that Sony may be planning to launch its next noise-canceling true wireless earbuds, the WF-1000XM4s, as early as June, and thanks to new leaks published by WinFuture, we might now know almost all of the specs for the upcoming buds.
-<a href='https://www.theverge.com/2021/5/27/22456896/sony-wf-1000xm4-headphones-ipx4-rating-water-resistance-sony-v1-chip-ldac-anc'> Source <a/>

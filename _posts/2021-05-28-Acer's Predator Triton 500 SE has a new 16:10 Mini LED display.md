@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nv9elewOMiJ0UUuBaDVVWcUjlB0=/0x0:2040x1360/1200x800/filters:focal(848x630:1174x956)/cdn.vox-cdn.com/uploads/chorus_image/image/69350339/mchin_210526_4605_0007.0.jpg' width='700px' /><br/>
-There's a new Acer Predator in town: the 16-inch Predator Triton 500 SE. It has a new subtle design with a touch of RGB as well as the latest chips from Intel and Nvidia. It also has a feature that I am much too excited about: a 16:10 display.
-<a href='https://www.theverge.com/2021/5/27/22455157/acer-predator-triton-500-se-mini-led-display-aspect-ratio-intel-nvidia-design-price'> Source <a/>

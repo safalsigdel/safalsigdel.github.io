@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ja6GMk3_0k9-DBwMlhPOi_88q9w=/0x0:3000x2000/1200x675/filters:focal(1625x809:2105x1289)/cdn.vox-cdn.com/uploads/chorus_image/image/69350350/PREDATOR_TRITON_500_SE_PT516_51s_Lifestyle_03.0.jpg' width='700px' /><br/>
-I've used more Acer laptops than most people on the planet. I've tested Swifts, Aspires, Travelmates, Spins, ConceptDs, and Predators. More often than not, my assessment is “not bad, but there's better.” For much of my time covering this company, I've associated it with excellent value — and not too much else.
-<a href='https://www.theverge.com/22455819/acer-ceo-president-sustainability-aspire-vero-chen-prendergast'> Source <a/>

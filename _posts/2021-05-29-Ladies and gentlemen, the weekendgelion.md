@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hWcWWqhqtMh9BVSfNcWP9o5yWhI=/0x0:3000x1999/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69358848/1205774770.0.jpg' width='700px' /><br/>
+You have reached a significant moment, perhaps not in history, or even in the grand scheme of your life's long arc toward love and fulfillment, but a significant moment nonetheless. Do I need to spell it out for you? It's 5PM. On a Friday. Heading into a long weekend.
+<a href='https://www.theverge.com/2021/5/28/22458706/memorial-day-weekend-evangelion-olympics-log-off-please'> Source <a/>
