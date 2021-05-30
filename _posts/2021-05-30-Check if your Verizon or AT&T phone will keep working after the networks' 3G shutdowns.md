@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ymUCVFYnSmF8Z0QsaC1ElOejfvA=/0x0:1020x676/1200x800/filters:focal(429x257:591x419)/cdn.vox-cdn.com/uploads/chorus_image/image/69353303/cell-tower-stock_1020.1419980290.0.jpg' width='700px' /><br/>
-Major US wireless carriers are gearing up to shut down their old 3G networks — a process that has been fraught with delays and miscommunication as companies alert customers with older phones that it's time to upgrade. To that end, Verizon and AT&T have published guides to which devices will stop working after their 3G networks go offline next year. Here's what you need to know.
-<a href='https://www.theverge.com/2021/5/27/22457255/verizon-att-3g-shutdown-date'> Source <a/>
