@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AAF13f9PIu8gnpOcPeIPp2oqFvw=/0x0:1731x1154/1200x800/filters:focal(728x439:1004x715)/cdn.vox-cdn.com/uploads/chorus_image/image/69363978/vilnius_portal.0.jpg' width='700px' /><br/>
+Weary of pandemic travel restrictions and aching to get out and see new people? The city of Vilnius, Lithuania has interesting solution: A real-time “portal” to another city. They really went all-in on the idea and the design; it looks quite a bit like something out of the erstwhile sci-fi movie/show Stargate.
+<a href='https://www.theverge.com/2021/5/30/22460964/vilnius-lithuania-portal-poland-connection-pandemic'> Source <a/>
