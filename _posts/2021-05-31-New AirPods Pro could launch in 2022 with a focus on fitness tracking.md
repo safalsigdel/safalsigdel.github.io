@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E_F4Hi7DsW0bG9ViGCAH2FzUpgU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69355729/akrales_191030_3763_0471.0.jpg' width='700px' /><br/>
-Apple's second-generation AirPods Pro will launch next year, following the release of an updated pair of standard AirPods this year, according to a new report from Bloomberg. The new AirPods Pro will reportedly feature upgraded motion sensors to allow for fitness tracking, while the entry-level AirPods will have an updated design similar to the Pro models along with a shorter stem.
-<a href='https://www.theverge.com/2021/5/28/22458155/new-airpods-pro-2022-fitness-release-dates-report-design-features'> Source <a/>
