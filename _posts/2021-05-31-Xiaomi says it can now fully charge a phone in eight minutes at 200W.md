@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k4GSmN0tSSQel41tXGcFC_6LcBM=/0x0:2100x1400/1200x800/filters:focal(882x532:1218x868)/cdn.vox-cdn.com/uploads/chorus_image/image/69365041/xiaomi.0.jpg' width='700px' /><br/>
+Xiaomi has shown off its latest fast charging tech demo, and consequently is claiming the new world records for both wired and wireless charging speeds. Using a modified Mi 11 Pro with a 4,000mAh battery, Xiaomi says it's able to fully charge the phone in 8 minutes over a 200W wired “HyperCharge” system, or in 15 minutes with 120W wireless charging.
+<a href='https://www.theverge.com/2021/5/30/22461435/xiaomi-fast-charging-world-record-200w-wired-120w-wireless'> Source <a/>
