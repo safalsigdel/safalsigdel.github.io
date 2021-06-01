@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PVgwvZYSYPw7lxAnhCDMRh6gH3w=/0x0:2050x1367/1200x675/filters:focal(945x463:1273x791)/cdn.vox-cdn.com/uploads/chorus_image/image/69370868/VRG_ILLO_Decoder_HoracioGutierrez_s.0.jpg' width='700px' /><br/>
+This week I'm talking to Horacio Gutierrez, head of global affairs and chief legal officer of Spotify, to help me understand why Spotify and so many other app developers are so frustrated with Apple. Horacio recently testified in front of Congress about Apple's business practices, and he just wrote an op-ed in The Wall Street Journal calling Apple a “ruthless bully.” That's a lot.
+<a href='https://www.theverge.com/22457400/spotify-horacio-gutierrez-apple-app-store-interview-decoder'> Source <a/>
