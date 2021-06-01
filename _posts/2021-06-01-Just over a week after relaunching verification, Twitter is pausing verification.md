@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bNN9ldK4YQfq6i5fXHjYIcSx57M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69358463/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter relaunched its verification program last week, allowing anyone to apply for a blue check mark, but the company is pausing accepting new applications because of the volume of applications it has already received.
-<a href='https://www.theverge.com/2021/5/28/22458914/twitter-verification-pause-applications-relaunch'> Source <a/>

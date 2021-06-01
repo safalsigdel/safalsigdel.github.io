@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u7nhpExuAImxr7zWij7xUTafij8=/0x0:1475x983/1200x800/filters:focal(626x364:862x600)/cdn.vox-cdn.com/uploads/chorus_image/image/69370250/13130140_3224866367255815_copy.0.jpg' width='700px' /><br/>
+Dennis Villeneuve's Dune isn't the only film adaptation of Frank Herbert's novel getting a 4K release this year. That's because the original adaptation, made in 1984 by a young David Lynch, is getting a limited edition 4K Blu-ray release on August 30th. The film was both a critical and box office bomb that Lynch later disowned, but it's also a fascinating historical artifact and sci-fi cult-classic.
+<a href='https://www.theverge.com/2021/6/1/22462723/dune-1984-david-lynch-4k-restoration-hdr-dolby-vision-dts-hd'> Source <a/>
