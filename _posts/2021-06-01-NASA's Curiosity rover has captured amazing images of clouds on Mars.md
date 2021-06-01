@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a7fwl02McYYt4ucIvDeMnw8rxj4=/0x0:1792x771/1200x800/filters:focal(753x243:1039x529)/cdn.vox-cdn.com/uploads/chorus_image/image/69361780/curiosity_clouds_on_mars.0.jpg' width='700px' /><br/>
-NASA's Curiosity rover has captured images of clouds on Mars— as described in its blog post: “wispy puffs filled with ice crystals that scattered light from the setting sun, some of them shimmering with color.”
-<a href='https://www.theverge.com/2021/5/29/22460017/nasa-curiosity-rover-captured-images-clouds-on-mars'> Source <a/>
