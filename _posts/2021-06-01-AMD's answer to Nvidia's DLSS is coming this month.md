@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ydu3gcfZX1M6PFHisXGrFusmU4U=/0x0:2000x1125/1200x0/filters:focal(0x0:2000x1125):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22551654/cpd18.jpg' width='700px' /><br/>
+AMD has announced that FidelityFX Super Resolution (FSR), its super sampling technique that should boost performance and image quality in supported games, will launch on June 22nd. The company gave a presentation at Computex Taipei today with more information on the feature, though it's still not clear just how effective it'll be.
+<a href='https://www.theverge.com/2021/6/1/22462659/amd-dlss-fidelityfx-super-resolution-fsr-supersampling-release-date'> Source <a/>
