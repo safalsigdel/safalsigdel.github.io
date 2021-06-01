@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QaERJkJ9xBCTVBcrrC-d-okuCM8=/0x0:4032x3024/1200x800/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/69367843/newlede.0.jpg' width='700px' /><br/>
+Google Photos has long offered one of the best deals in all of photo storage: it'll back up your entire library for free, so long as it can compress the images a bit. But as of tomorrow, June 1st, that deal goes away, and you're now eating through Google storage (which you may have to pay for) whether your images are compressed or not.
+<a href='https://www.theverge.com/2021/5/31/22461871/google-photos-compression-comparison-storage'> Source <a/>
