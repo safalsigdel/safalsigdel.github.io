@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2v4oG6_qfkoZiuihBVwoWtrH_HM=/0x0:2048x1152/1200x800/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/69369668/AMD_Radeon_RX_6800M_and_Radeon_RX_6700M_GPU_3.0.jpeg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/eDtTIXgiTzAv2c5MVX84aw0HIIw=/0x0:2161x1440/1200x800/filters:focal(909x548:1253x892)/cdn.vox-cdn.com/uploads/chorus_image/image/69369668/amdrx6800m.5.jpg' width='700px' /><br/>
 AMD has announced its long-awaited Radeon RX 6000M series of mobile GPUs, featuring its RDNA 2 architecture.
 <a href='https://www.theverge.com/2021/5/31/22457181/amd-radeon-rx-6000m-series-release-date-rdna2-rog-strix-g15'> Source <a/>
