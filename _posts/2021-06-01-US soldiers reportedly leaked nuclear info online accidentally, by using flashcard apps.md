@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YajACbvL3wDIb3JZZmxFykgnk1o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69361552/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
-US soldiers stationed in Europe may have accidentally exposed information about the United States' nuclear weapons stockpile when they used flashcard apps to help them remember details about the information, according to a report from open-source intelligence outlet Bellingcat.
-<a href='https://www.theverge.com/2021/5/29/22459869/us-soldiers-leaked-nuclear-info-online-flashcard-apps'> Source <a/>
