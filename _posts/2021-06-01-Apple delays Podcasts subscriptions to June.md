@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B_3QcxHBSi55uewvst3f_AO_vUU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69359139/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple is delaying the launch of its upcoming Podcasts subscriptions until June, the company announced in an email sent to creators Friday (via 9to5Mac). The service was previously set to launch this month.
-<a href='https://www.theverge.com/2021/5/28/22459129/apple-delays-podcasts-subscriptions-june'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+If you're hunting for a set of truly wireless earbuds that offer great sound quality, active noise cancellation, IPX7 water resistance, a comfy fit, and other handy features, Samsung's Galaxy Buds Pro are at an especially good price today on Amazon. Normally $200, the silver and violet colorways are $150, which is the lowest price we've seen to date on a new set.
+<a href='https://www.theverge.com/good-deals/2021/6/1/22462839/samsung-galaxy-buds-pro-apple-airpods-watch-series-6-amazon-echo-dot-clock-deal-sale'> Source <a/>
