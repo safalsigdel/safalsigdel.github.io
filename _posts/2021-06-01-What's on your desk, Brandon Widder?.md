@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LTCRIZb5NIbdvLjrFRUTVJy6-Hw=/0x0:2040x1360/1200x675/filters:focal(854x357:1180x683)/cdn.vox-cdn.com/uploads/chorus_image/image/69371543/bwidder_20210524_4602_0001.0.jpg' width='700px' /><br/>
+As we slowly emerge from the pandemic, many companies are figuratively shaking themselves off, taking stock, and hiring for new types of positions. The Verge is no different; it has recently hired Brandon Widder to be its senior commerce editor, a brand-new title for our next chapter. We asked Brandon if we could take a look at his home workspace, and this is what he showed (and told) us.
+<a href='https://www.theverge.com/22458437/home-office-desk-macbook-dell-brandon-widder-tech-editor'> Source <a/>
