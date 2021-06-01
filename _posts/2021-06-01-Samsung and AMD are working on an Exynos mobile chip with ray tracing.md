@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/520o2qHuQdblMlM1eMvhYpOuPag=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69370312/acastro_180529_1777_amd_0002.0.0.jpg' width='700px' /><br/>
+AMD is partnering with Samsung to provide RDNA 2 graphics technology for an Exynos mobile system-on-chip, potentially giving a boost to GPU performance in flagship Samsung phones. The announcement was made today at Computex Taipei.
+<a href='https://www.theverge.com/2021/6/1/22462678/samsung-amd-exynos-ray-tracing-mobile-soc'> Source <a/>
