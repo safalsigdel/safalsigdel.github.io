@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7yoJ0Orjou-FNPg5NoYN8CI-Pm4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69375918/acastro_180430_1777_tesla_0004.0.jpg' width='700px' /><br/>
+Tesla CEO Elon Musk has blamed supply chain price pressure for incremental price increases the company has made to its Model 3 and Model Y vehicles over the past several months. “Prices increasing due to major supply chain price pressure industry-wide,” the CEO tweeted in response to a complaint about the changes. “Raw materials especially.”
+<a href='https://www.theverge.com/2021/6/2/22464552/tesla-price-increases-supply-chain-pressure-chip-shortage-elon-musk'> Source <a/>
