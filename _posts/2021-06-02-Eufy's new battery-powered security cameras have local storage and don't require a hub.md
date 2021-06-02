@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xxq9kMzkjb3smPAyiMehscaSsqc=/0x493:4000x3450/1200x800/filters:focal(1680x1680:2320x2320)/cdn.vox-cdn.com/uploads/chorus_image/image/69377535/SoloCam_E40.0.jpg' width='700px' /><br/>
+Eufy, the Anker-owned smart home brand, is announcing a new SoloCam line of battery-powered security cameras that have local storage and are designed to operate without connecting to a separate hub. The new lineup will include two “Essential” (standard) cameras, two spotlight cameras, and one solar-powered camera.
+<a href='https://www.theverge.com/2021/6/2/22464940/eufy-anker-solocam-security-cameras-local-storage-battery-no-hub'> Source <a/>

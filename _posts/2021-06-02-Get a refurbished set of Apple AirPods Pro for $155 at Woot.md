@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-If you're hunting for a set of truly wireless earbuds that offer great sound quality, noise cancellation, water resistance, a comfy fit, and other handy features, refurbished Apple AirPods Pro at Woot cost just $155. These originally sold for $249, but some retailers offer them new for around $200. This model is a “grade A” unit with “minimal cosmetic damage” at most, and with “like-new functionality.”  These are covered with a 90-day warranty through Woot.
-<a href='https://www.theverge.com/good-deals/2021/6/1/22462839/samsung-galaxy-buds-pro-apple-airpods-watch-series-6-amazon-echo-dot-clock-deal-sale'> Source <a/>
