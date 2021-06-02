@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qcqp6CG8pQaoUKWG5oQZR0SgsSc=/0x0:1000x562/1200x800/filters:focal(420x201:580x361)/cdn.vox-cdn.com/uploads/chorus_image/image/69373968/fx_firefox_new_tab_design_copy_1000x562.0.png' width='700px' /><br/>
-Mozilla launched a redesign for Firefox on Tuesday, and one of the changes you might notice first is a whole new look for tabs.
-<a href='https://www.theverge.com/2021/6/1/22463321/firefox-design-redesign-bigger-floatier-tabs'> Source <a/>
