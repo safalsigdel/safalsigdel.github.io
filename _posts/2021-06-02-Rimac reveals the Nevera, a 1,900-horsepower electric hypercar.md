@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N_XxUdIjy8YSNKkLPg6ahN_XxFk=/0x0:2160x1440/1200x800/filters:focal(908x548:1252x892)/cdn.vox-cdn.com/uploads/chorus_image/image/69373539/rimac_nevera_0044.0.jpg' width='700px' /><br/>
-The Rimac C_Two concept has evolved into a production-ready electric hypercar called the Nevera, and it's still just as absurd as it was three years when it first broke cover at the 2018 Geneva Motor Show.
-<a href='https://www.theverge.com/2021/6/1/22463499/rimac-nevera-production-c-two-concept-hypercar'> Source <a/>
