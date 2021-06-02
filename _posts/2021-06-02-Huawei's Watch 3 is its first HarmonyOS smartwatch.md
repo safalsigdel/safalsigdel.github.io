@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gzk8poRn53HKLYZdWV2VRc3_zQ0=/0x0:3424x2285/1200x800/filters:focal(1493x963:2039x1509)/cdn.vox-cdn.com/uploads/chorus_image/image/69376253/MKT_HUAWEI_WATCH_3_crop_3.0.jpg' width='700px' /><br/>
+Huawei has announced its first smartwatches running its own HarmonyOS operating system, the Huawei Watch 3 and Huawei Watch 3 Pro. In theory it's the third separate operating system Huawei has used for its smartwatches, which originally ran Google's Android Wear (now Wear OS) before introducing its own LiteOS software with more recent devices.
+<a href='https://www.theverge.com/2021/6/2/22463529/huawei-watch-3-pro-harmonyos-smartwatch-features-specs'> Source <a/>
