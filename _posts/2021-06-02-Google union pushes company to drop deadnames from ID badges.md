@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k-xNhOgMSFxnFTbrd3X9csEF4u0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69372658/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
-The Alphabet Workers Union launched a campaign Tuesday to push Google to allow employees to use their chosen names on ID badges. The move comes after Phares Lee, a transgender man who works at a Google data center in South Carolina and is employed by security subcontracting firm G4S, asked to have his deadname removed from his badge and was denied.
-<a href='https://www.theverge.com/2021/6/1/22463267/google-union-g4s-subcontractor-deadname-id-badge'> Source <a/>

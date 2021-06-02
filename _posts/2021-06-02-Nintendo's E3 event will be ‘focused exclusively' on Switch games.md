@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iz44jMPUMoFjjjCaMeePKJVkAB4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69376996/jbareham_1492_170228_0173.0.0.jpg' width='700px' /><br/>
+Nintendo is holding an E3 event on June 15th, and the company promises it will be “focused exclusively on Nintendo Switch games mainly releasing in 2021.” The Nintendo Direct presentation will begin at 9AM PT / 12PM ET on June 15th, and Nintendo will hold three hours of gameplay deep dives once the event has concluded.
+<a href='https://www.theverge.com/2021/6/2/22464828/nintendo-e3-event-june-15th-software-exclusive'> Source <a/>

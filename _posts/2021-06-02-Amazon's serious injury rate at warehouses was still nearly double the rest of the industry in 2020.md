@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H0PxmkjicoGDvFBEs0feJf4Q9j0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69372763/acastro_181114_1777_amazon_hq2_0007.0.jpg' width='700px' /><br/>
-Amazon's serious injury rate at its warehouses was nearly twice as high as the rest of the industry in 2020, newly released Occupational Safety and Health Administration (OSHA) data shows in reports from both The Washington Post and the Strategic Organizing Center (a collection of unions that represent over 4 million workers around the country).
-<a href='https://www.theverge.com/2021/6/1/22463132/amazon-injury-rate-warehouses-osha-data-report'> Source <a/>

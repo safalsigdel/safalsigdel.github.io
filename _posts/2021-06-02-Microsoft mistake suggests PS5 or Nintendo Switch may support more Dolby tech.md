@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/svCm8iBmMSHNvmDYSsshBHLifyE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69373306/vpavic_201103_4275_0163.0.jpg' width='700px' /><br/>
-On Monday, Microsoft published a now-deleted blog post on Xbox Wire France that claimed Dolby Vision and Atmos will be Xbox console exclusives for two years. (You can read a cached version of the blog here.) On Tuesday, however, Microsoft said the post had inaccurate information and that there actually isn't an exclusivity deal in place.
-<a href='https://www.theverge.com/2021/6/1/22463541/microsoft-xbox-dolby-vision-atmos-ps5-nintendo-switch'> Source <a/>
