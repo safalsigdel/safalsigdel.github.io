@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S11nvcOFtxBoYublS20_4vnHysE=/0x0:1597x900/1200x800/filters:focal(672x323:926x577)/cdn.vox-cdn.com/uploads/chorus_image/image/69378135/PUBG_Deadshot.0.jpg' width='700px' /><br/>
+Free-to-play games are hugely successful (in 2020, PUBG Mobile reportedly made $2.8 billion in China alone), but that success attracts unscrupulous developers who earn their own small fortunes helping players cheat.
+<a href='https://www.theverge.com/2021/6/2/22463693/chicken-dinner-pubg-mobile-cheat-ninja-motherboard'> Source <a/>
