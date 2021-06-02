@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C1BMnh0eklFyT6ZJPZ1-5HQzoEA=/0x0:5000x3328/1200x800/filters:focal(2100x1264:2900x2064)/cdn.vox-cdn.com/uploads/chorus_image/image/69376021/1165583337.0.jpg' width='700px' /><br/>
+E-commerce site Etsy, best known for selling handmade and vintage wares, is buying up a cooler, younger rival, UK-based secondhand shopping app Depop.
+<a href='https://www.theverge.com/2021/6/2/22464572/etsy-targets-gen-z-shoppers-with-1-6-billion-depop-acquisition'> Source <a/>
