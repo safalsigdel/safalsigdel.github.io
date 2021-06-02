@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FEBz013WOKQA-54xkg7ITHsclYE=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/69374295/P90422118_highRes.0.jpg' width='700px' /><br/>
-When BMW first revealed its flagship iX electric SUV in November, we speculated that it would cost $70,000 or more, based on its luxury styling and upgraded battery. Well, we were right — sort of. The German automaker has just announced that when it goes on sale early next year, the new EV's suggested price tag will exceed $80,000.
-<a href='https://www.theverge.com/2021/6/1/22462746/bmw-ix-suv-ev-price-specs'> Source <a/>
