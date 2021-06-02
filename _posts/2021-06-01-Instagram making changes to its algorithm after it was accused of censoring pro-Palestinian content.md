@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zJmuiKuTcXR-MxC8SMo8MxSs8tU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69364063/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
-Facebook-owned Instagram has made changes to its algorithm after a group of its employees reportedly complained that pro-Palestinian content was not viewable for users during the conflict in Gaza. Instagram typically surfaces original content in its stories before reposted content, but will now begin to give equal weighting to both, the company confirmed to The Verge on Sunday.
-<a href='https://www.theverge.com/2021/5/30/22460946/instagram-making-changes-algorithm-censoring-pro-palestinian-content'> Source <a/>

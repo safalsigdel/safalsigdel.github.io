@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SkyGlBfKVQTaMbKLtkoGTcLEvm4=/0x0:2040x1360/1200x675/filters:focal(854x591:1180x917)/cdn.vox-cdn.com/uploads/chorus_image/image/69363225/ajohnson_20210524_4601_0001.0.jpg' width='700px' /><br/>
-The ZTE Axon 30 Ultra is a high-end device that checks all the right hardware boxes. Snapdragon 888 processor? Check. Fast refresh rate screen? Check. A metric ton of rear-facing cameras? Check, check, check, and check. It's also priced well, starting at $749 while many of its competitors start around the $1,000 mark.
-<a href='https://www.theverge.com/22458629/zte-axon-30-ultra-review-screen-price-specs'> Source <a/>

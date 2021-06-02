@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T5_6HbfurkFnCs8s2kVLHrfaGVc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69370789/acastro_210430_1777_audioApps_0001.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/EIqQbd7jfI0IyalWyrP4vlY7W9k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69370789/acastro_210430_1777_audioApps_0003.5.jpg' width='700px' /><br/>
 A new collective is trying to solve the live audio monetization problem. A group of primarily tech-focused hosts are launching a shared podcast feed that'll round up the many social audio chats they've started, with plans to run ads across the collected feed.
 <a href='https://www.theverge.com/2021/6/1/22461737/twitter-spaces-clubhouse-room-collective-spacecasts-podcast-feed'> Source <a/>

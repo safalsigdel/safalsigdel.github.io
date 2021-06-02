@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jcz8u5mAIAflN3aFw46xCOhPhH0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69361889/acastro_210121_1777_google_0001.0.jpg' width='700px' /><br/>
-Unredacted documents in Arizona's lawsuit against Google show that company executives and engineers were aware that the search giant had made it hard for smartphone users to keep location information private, Insider reported.
-<a href='https://www.theverge.com/2021/5/29/22460070/google-difficult-android-privacy-settings-arizona'> Source <a/>

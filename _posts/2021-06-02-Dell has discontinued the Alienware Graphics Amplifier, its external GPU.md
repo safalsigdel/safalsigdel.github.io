@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+We recently noticed that Alienware's just-announced X15 and X17 thin and vaguely light  gaming laptops are conspicuously missing a port — and it's not because they're thin-and-light, it turns out. Alienware has just confirmed to The Verge that it has discontinued the Alienware Graphics Amplifier external GPU, and so these laptops won't need that proprietary port anymore. The company isn't saying whether it'll offer a future eGPU, but pointed us to off-the-shelf Thunderbolt ones instead.
+<a href='https://www.theverge.com/circuitbreaker/2021/6/1/22464110/dell-alienware-graphics-amp-egpu-discontinued'> Source <a/>

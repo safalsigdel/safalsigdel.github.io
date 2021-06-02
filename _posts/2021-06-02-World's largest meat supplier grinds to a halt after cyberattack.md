@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T6nqJZjqLc-8SYb6L9cYUkhIAZM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69373433/acastro_170621_1777_0006_v4.0.jpg' width='700px' /><br/>
+JBS, a Brazilian company which supplies a fifth of the world's meat, was the victim of a coordinated cyberattack, Bloomberg reports.
+<a href='https://www.theverge.com/2021/6/1/22463621/jbs-cyberattack-russia-largest-meat-supplier'> Source <a/>

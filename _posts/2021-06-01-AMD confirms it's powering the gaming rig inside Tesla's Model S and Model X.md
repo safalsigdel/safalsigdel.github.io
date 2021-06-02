@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Hwix8aHY3ckFgbFcf9EH0bqPhNo=/0x0:1201x801/1200x800/filters:focal(505x305:697x497)/cdn.vox-cdn.com/uploads/chorus_image/image/69370120/tesla_model_s_witcher_3_3.0.jpg' width='700px' /><br/>
-Remember when Elon Musk claimed you'd be able to play The Witcher 3 and Cyberpunk 2077 on a 10 teraflop gaming rig he's stuffing into the new Tesla Model S and X? AMD is officially providing the guts — during its Computex 2021 keynote, the chipmaker just revealed that the new Tesla infotainment system consists of an AMD Ryzen processor with its own integrated graphics paired with a discrete AMD RDNA 2 GPU.
-<a href='https://www.theverge.com/2021/6/1/22462660/amd-tesla-model-x-s-plaid-ryzen-radeon-rdna-2'> Source <a/>

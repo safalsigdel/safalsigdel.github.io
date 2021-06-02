@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/la4NJirzCK_lDTZvLBWKQvTJISE=/0x0:800x450/1200x800/filters:focal(336x161:464x289)/cdn.vox-cdn.com/uploads/chorus_image/image/69372601/Discovery.5.jpg' width='700px' /><br/>
+Discovery is merging with WarnerMedia, and it's now announced a new name for the combined company: Warner Bros. Discovery. According to The Wall Street Journal, the name was first revealed during a staff meeting today.
+<a href='https://www.theverge.com/2021/6/1/22448140/warner-bros-discovery-warnermedia-new-name-merger-att'> Source <a/>

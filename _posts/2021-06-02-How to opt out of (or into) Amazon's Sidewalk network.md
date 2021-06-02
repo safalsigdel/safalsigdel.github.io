@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pigP3TJIKtgsPu1UnecttpI6zRI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69373400/acastro_181114_1777_amazon_hq2_0006.0.jpg' width='700px' /><br/>
+Do you own an Echo Studio, an Echo Dot, or a Ring Floodlight Cam? If so, Amazon is about to introduce your device to a new type of network it calls Sidewalk, which is meant to help extend the range of its low-bandwidth devices (so that if your network goes down, for example, your Dot can piggyback on your neighbors'), and also to make location devices such as Tile more efficient.
+<a href='https://www.theverge.com/22463257/amazon-sidewalk-privacy-how-to-opt-out'> Source <a/>

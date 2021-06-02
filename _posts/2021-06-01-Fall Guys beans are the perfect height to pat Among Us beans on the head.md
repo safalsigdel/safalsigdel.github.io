@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Turns out that the bean-like Fall Guys characters would be the perfect height to pat the bean-like Among Us crewmates on the head, should they ever exist in the same universe. The Among Us and Fall Guys Twitter accounts made the discovery on Monday. How?
-<a href='https://www.theverge.com/tldr/2021/5/31/22462249/fall-guys-among-us-beans-crewmates-pat-on-the-head'> Source <a/>

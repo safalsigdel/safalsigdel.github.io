@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fqg_1ZlZrM9sAH1hbZ9B08ECVTw=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69370005/RTX_3080_TI_Render.0.png' width='700px' /><br/>
-Nvidia is unveiling its latest flagship gaming GPU today, the GeForce RTX 3080 Ti. Based on Nvidia's latest Ampere architecture, the RTX 3080 Ti will succeed the RTX 3080 and promises to deliver 1.5x more performance over the previous generation RTX 2080 Ti. Nvidia is making the RTX 3080 Ti available worldwide on June 3rd, priced from $1,199.
-<a href='https://www.theverge.com/2021/6/1/22461660/nvidia-geforce-rtx-3080-ti-specs-price-release-date-features'> Source <a/>

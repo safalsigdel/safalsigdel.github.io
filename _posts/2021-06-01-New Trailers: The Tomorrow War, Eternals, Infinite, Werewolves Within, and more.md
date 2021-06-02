@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hsV60wgL8rZCgRm8BMoxg9Qr_DM=/0x0:1171x782/1200x800/filters:focal(493x298:679x484)/cdn.vox-cdn.com/uploads/chorus_image/image/69363801/chris_pratt_2.0.jpg' width='700px' /><br/>
-So tonight is the finale for Mare of Easttown and there are so many threads that need to be tied up that I legitimately don't know how they'll answer all the open questions. I have a theory of who the killer is, and I don't think it's the same person who fathered Erin's baby. Will Mare ever find happiness? It seems unlikely, I'm afraid. But maybe she'll find answers or closure.
-<a href='https://www.theverge.com/2021/5/30/22456798/new-trailers-tomorrow-war-eternals-infinite-werewolves-within-marvel-disney'> Source <a/>

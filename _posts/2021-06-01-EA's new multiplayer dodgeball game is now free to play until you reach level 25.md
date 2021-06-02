@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bUzEIPeJwZB15w2B8CDuBedcUv8=/0x0:1022x575/1200x800/filters:focal(430x207:592x369)/cdn.vox-cdn.com/uploads/chorus_image/image/69368004/koc_screenshot_16x9_1.jpg.adapt.crop16x9.575p.0.jpg' width='700px' /><br/>
-EA just released its chaotic and fun new multiplayer dodgeball game, Knockout City, on May 21st, and for the launch, had put together a special promotion: the full game would be free to play until May 30th, after which you could pay $19.99 on the platform of your choice if you wanted to keep playing. (It's also included with an EA Play or Xbox Game Pass Ultimate subscription.)
-<a href='https://www.theverge.com/2021/5/31/22462044/knockout-city-free-to-play-level-25-ea-velan-studios-dodgeball'> Source <a/>

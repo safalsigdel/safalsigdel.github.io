@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HekHXe2na-ZxK5v1L7rAX_WV81U=/0x0:4961x3714/1200x675/filters:focal(2085x1461:2877x2253)/cdn.vox-cdn.com/uploads/chorus_image/image/69374294/P90423600_highRes.0.jpg' width='700px' /><br/>
+Months after revealing its first new electric vehicle in nearly a decade, the iX SUV, BMW is ready to pull back the curtain on its next EV. The i4 electric sedan is the automaker's electrified 4 Series, with up to 300 miles of range and starting at $55,400 for the low-spec model.
+<a href='https://www.theverge.com/2021/6/1/22462504/bmw-i4-ev-price-specs-photos-release-date'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jT0ZOchtrlovJWdYrj36-KPwsg4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69369976/alienwarex15lede.0.jpg' width='700px' /><br/>
-Alienware is keen on giving Razer a run for its money when it comes to making a super-thin gaming laptop. Two of the configurations of Alienware's new X15 flagship model are actually 15.9mm thick, almost the same as Razer's just-refreshed 15.8mm-thick Blade 15 Advanced. That's impressively thin, especially considering that Alienware doesn't usually try to compete in this realm.
-<a href='https://www.theverge.com/2021/6/1/22440352/alienware-x15-x17-gaming-laptop-intel-h-series-nvidia-rtx-3080-price-release-date-features-specs'> Source <a/>

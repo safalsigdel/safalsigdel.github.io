@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KuQOM8qwGX078SPNqlk9qjvP8Nw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69364882/acastro_210120_1777_intel_0002.0.jpg' width='700px' /><br/>
-Intel made a splash earlier in May with the launch of its first 11th Gen Tiger Lake H-series processors for more powerful laptops, but at Computex 2021, the company is also announcing a pair of new U-series chips — one of which marks the first 5.0GHz clock speed for the company's U-series lineup of lower voltage chips.
-<a href='https://www.theverge.com/2021/5/30/22459025/intel-11th-gen-tiger-lake-processor-5g-modem-computex'> Source <a/>

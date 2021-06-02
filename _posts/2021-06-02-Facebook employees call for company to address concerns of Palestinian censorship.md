@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2QnPjZy8fvripLjFhFC3ecfD1pM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69374671/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook employees are circulating an internal petition calling for the company to investigate content moderation systems that led many Palestinians and allies to say their voices were being censored, the Financial Times reports. The news comes weeks after Israeli airstrikes killed more than 200 people in Gaza, including at least 63 children. Israel and Hamas have now reached a cease fire.
+<a href='https://www.theverge.com/2021/6/1/22463952/facebook-employees-petition-palestine-content-moderation-policy'> Source <a/>
