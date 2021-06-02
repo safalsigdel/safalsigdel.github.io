@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PBbKwHQWZcCFu4ZHSGTRcGmglkU=/0x0:1280x680/1200x800/filters:focal(538x238:742x442)/cdn.vox-cdn.com/uploads/chorus_image/image/69371444/Apple_TV_on_SHIELD.0.jpg' width='700px' /><br/>
-Apple's streaming TV app is coming to another platform today: Nvidia's Shield. Shield owners will now be able to access Apple TV Plus, rent movies through Apple's store, and access subscriptions to premium channels like Showtime and Starz that were set up through Apple.
-<a href='https://www.theverge.com/2021/6/1/22462960/apple-tv-app-nvidia-shield-now-available'> Source <a/>
