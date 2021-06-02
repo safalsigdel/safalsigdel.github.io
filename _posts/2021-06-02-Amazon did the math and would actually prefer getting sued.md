@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D-FDjSCIjScoGx6ocDGN4Qcdcug=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69373843/acastro_181114_1777_amazon_hq2_0002.0.jpg' width='700px' /><br/>
-Amazon has recently changed its terms of service to allow its customers to bring lawsuits against the company instead of having to go through an arbitration process. According to The Wall Street Journal, the company made the change after over 75,000 Echo users were organized to file individual arbitration cases, which would have left Amazon on the hook for millions of dollars in fees.
-<a href='https://www.theverge.com/2021/6/1/22463550/amazon-lawsuit-arbitration-terms-of-service-update-alexa'> Source <a/>
