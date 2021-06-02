@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jqArpwWMYzC-XWwr86t_jOBWVFg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69376087/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
+A Californian court has dismissed bribery charges against Apple's Chief Security Officer Thomas Moyer, Reuters reports, who was accused of offering iPads as bribes to obtain concealed-weapons permits for Apple employees. Judge Eric S. Geffon dismissed arguments of corrupt intent as “pure speculation” that were “not supported by the evidence presented to the grand jury.”
+<a href='https://www.theverge.com/2021/6/2/22464580/apple-security-chief-bribery-charges-dropped-evidence'> Source <a/>
