@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ohu209AZgfOZ1KHGClQk3l1OktQ=/0x0:4203x2800/1200x800/filters:focal(1766x1064:2438x1736)/cdn.vox-cdn.com/uploads/chorus_image/image/69372329/1221480935.0.jpg' width='700px' /><br/>
-Instacart has big plans to automate parts of its grocery delivery business, reports Bloomberg, but the company's schemes look as much like bluster as ambition.
-<a href='https://www.theverge.com/2021/6/1/22463023/instacart-plans-automation-grocery-shopping-business-model'> Source <a/>

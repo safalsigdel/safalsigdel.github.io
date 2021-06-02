@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-Ch8FBXcvFUYSfFeec9LG-luvR0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69371951/Disney_Fleets.001.0.jpeg' width='700px' /><br/>
-Twitter said Tuesday it will start adding full-screen ads to Fleets, its disappearing tweets that sit in a row at the top of users' mobile Twitter interface. Introduced last November, the Fleet format — a clone of Instagram and Snap's Stories — has apparently been successful enough that Twitter now wants to try to make money from it.
-<a href='https://www.theverge.com/2021/6/1/22461070/twitter-fleets-stories-ads-monetize-instagram-snap'> Source <a/>

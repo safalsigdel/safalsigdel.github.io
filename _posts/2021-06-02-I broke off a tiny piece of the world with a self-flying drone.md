@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Kj81ezhBEM1DtBIYdQN_y52CWTg=/0x0:1766x1177/1200x800/filters:focal(742x448:1024x730)/cdn.vox-cdn.com/uploads/chorus_image/image/69376553/skydio_3d_model.0.jpg' width='700px' /><br/>
+With photogrammetry, hundreds of still photos can be transformed into an incredibly realistic 3D model of a real place on Earth — assuming you capture them all.
+<a href='https://www.theverge.com/2021/6/2/22464280/skydio-2-x2-3d-scan-photogrammetry'> Source <a/>

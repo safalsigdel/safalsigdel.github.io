@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L7bmYGKuwaFfCgqQnQdC3CFSGV4=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69376573/VALORANT_Viper.0.jpg' width='700px' /><br/>
+Riot is bringing its tactical shooter Valorant to mobile devices. There aren't a lot of details yet — such as when it will launch, on what hardware, or how it will differ from the main game — but Riot says the new version will simply be called Valorant Mobile.
+<a href='https://www.theverge.com/2021/6/2/22458279/valorant-mobile-spinoff-riot-games'> Source <a/>

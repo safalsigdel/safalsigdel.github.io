@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GPfE0rsSxYyZbbQR7Upmcc-Ew7U=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11742179/No_Man_s_Sky_20180724154235.jpg' width='700px' /><br/>
+No Man's Sky is getting yet another big update, this time focused on the way the sci-fi adventure looks. The update is called “Prisms,” and developer Hello Games describes it as “a visual overhaul” of the game. It's available starting today.
+<a href='https://www.theverge.com/2021/6/2/22463668/no-mans-sky-prism-update-graphic-overhaul-flying-pets'> Source <a/>
