@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lB5urof01yevCofnTY2Ah3zXt8k=/0x0:4729x3543/1200x800/filters:focal(1987x1394:2743x2150)/cdn.vox-cdn.com/uploads/chorus_image/image/69377269/1318749429.0.jpg' width='700px' /><br/>
-Former President Donald Trump's blogging days are officially over. On Wednesday, CNBC reported that Trump's blog has shut down less than a month after its launch.
-<a href='https://www.theverge.com/2021/6/2/22464930/donald-trump-blog-facebook-twitter-social-media-platform'> Source <a/>
