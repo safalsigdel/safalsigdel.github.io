@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OF6pwa_IEByJq6omG_kRKDxT2kA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69381532/dseifert_20210323_4486_0001.0.jpg' width='700px' /><br/>
+Ring is adjusting how public agencies such as police and fire departments are able to request video clips from Ring camera owners in its Neighbors app. Starting next week, agencies will only be able to request clips be sent to them through public posts that are viewable in the app's main feed; they will no longer be able to send individuals specific requests for clips.
+<a href='https://www.theverge.com/2021/6/3/22465295/ring-public-agencies-request-for-assistance-feed-neighbors-app'> Source <a/>
