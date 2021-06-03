@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Uvt_2x9cI17OqGKDHFpY6ZE2Sew=/0x0:1833x2000/1200x800/filters:focal(763x1146:1055x1438)/cdn.vox-cdn.com/uploads/chorus_image/image/69374914/527874AA_8623_4DAC_8326_F4755AEB19C4.0.jpeg' width='700px' /><br/>
-Confirming what The Verge reported back in April, Ikea tonight listed a new Symfonisk “picture frame with Wi-Fi speaker” product on its website. The device, which is listed for $199, has not yet been announced — but it's one of two new collaborations between Ikea and Sonos set for release in the near future.
-<a href='https://www.theverge.com/2021/6/1/22464111/ikea-sonos-symfonisk-picture-frame-speaker-leak'> Source <a/>

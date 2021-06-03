@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GInlHa5SsvEPl2zYYG7zbhAGTxg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69374851/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
-Twitter has reopened verification applications after pausing them last week, Twitter announced on Tuesday. The pause, which went in place on Friday, came just eight days after the formal relaunch of verification applications on May 20th.
-<a href='https://www.theverge.com/2021/6/1/22464077/twitter-reopens-verification-applications-badge-after-pause'> Source <a/>

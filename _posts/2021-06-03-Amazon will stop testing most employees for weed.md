@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YlvJfyyFfbR33zLH6JAv22S0QrY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69379146/acastro_181114_1777_amazon_hq2_0006.0.jpg' width='700px' /><br/>
+Amazon is relaxing its policy around employees using weed, according to a new blog post, and will no longer enforce marijuana drug tests for any employee who isn't also regulated by the Department of Transportation, like a delivery driver. In the past, Amazon used positive tests as a reason to disqualify applicants during the hiring process.
+<a href='https://www.theverge.com/2021/6/2/22465331/amazon-weed-policy-dot-more-act'> Source <a/>

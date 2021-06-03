@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/wgNe9xdf_bWVqaID_O6FGyQgzv0=/0x0:2550x1432/1200x800/filters:focal(1071x512:1479x920)/cdn.vox-cdn.com/uploads/chorus_image/image/69377428/Screen_Shot_2019_03_26_at_1.49.46_PM.0.png' width='700px' /><br/>
-The Apple Card is experiencing an outage today that may affect your ability to make payments, manage your card, and see recent transactions, according to Apple's status page. Interruption in service appears to have started at 6:17AM PT today and is still ongoing over two hours later.
+The Apple Card experienced an outage on Wednesday that reportedly affected users' ability to make payments, manage their cards, and see recent transactions, according to Apple's status page. Interruption in service appears to have started at 6:17AM PT today and lasted for a little over five hours, ending at 12:19PM PT.
 <a href='https://www.theverge.com/2021/6/2/22465000/apple-card-outage-cant-make-payments-recent-transactions'> Source <a/>
