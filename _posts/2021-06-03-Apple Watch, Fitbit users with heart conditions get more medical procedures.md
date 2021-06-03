@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jyUyGlgJE2Q-PcDdZeuUmGIUjw8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69376524/akrales_171113_2119_0074.0.jpg' width='700px' /><br/>
-People with irregular heartbeats who use wearable devices like Apple Watches and Fitbits aren't overwhelming doctors with worried calls about their hearts, a new study shows. But they are more likely to be treated with a heart procedure called an ablation, the analysis found.
-<a href='https://www.theverge.com/2021/6/2/22463322/wearables-afib-apple-fitbit-doctor-visit'> Source <a/>
