@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FjK8iB1mONZ08p8UP5uDfyu60tY=/0x0:2040x1360/1200x800/filters:focal(1065x492:1391x818)/cdn.vox-cdn.com/uploads/chorus_image/image/69376241/jporter_20210601_4610_0002.0.jpg' width='700px' /><br/>
-Huawei has announced a trio of new MatePad tablets; a new 12.6-inch MatePad Pro, a smaller 10.8-inch MatePad Pro, and a new MatePad 11. Not only are they the company's first tablets running its own HarmonyOS operating system, but the smaller MatePad Pro and MatePad 11 use Snapdragon chips produced by Qualcomm rather than the Huawei-designed Kirin processors found in its previous devices.
-<a href='https://www.theverge.com/2021/6/2/22463666/huawei-matepad-pro-harmonyos-tablet-features-specs'> Source <a/>
