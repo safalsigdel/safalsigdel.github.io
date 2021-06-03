@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/koGEx9I6BPznSi62sj97c7M1BVE=/0x0:1883x1255/1200x800/filters:focal(792x478:1092x778)/cdn.vox-cdn.com/uploads/chorus_image/image/69386930/satechihubstand.0.jpg' width='700px' /><br/>
+The latest gadget from Satechi is both a stand and a USB-C hub made for the 11-inch and 12.9-inch iPad Pro models that have a USB-C charging port, as well as the 2020 iPad Air. It's $100, and with your tablet wedged into the stand, it should look more like a traditional monitor, so you can keep on pretending it's an actual desktop replacement.
+<a href='https://www.theverge.com/2021/6/3/22493892/satechi-ipad-pro-air-tablet-stand-usb-c-hub-price-ports'> Source <a/>
