@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Lw43fp9S9tuo1v0kEjQa6w-X2m4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69377116/huaweip50.0.jpg' width='700px' /><br/>
-During Huawei's HarmonyOS livestream, the company provided a first look at its upcoming P50 series phone. Few specs were given, and it didn't talk pricing or tease a release date, but the sizzle reel did reveal a close-up look at its interesting camera array.
-<a href='https://www.theverge.com/2021/6/2/22464776/huawei-p50-phone-camera-periscope-telephoto-leica-harmonyos'> Source <a/>
