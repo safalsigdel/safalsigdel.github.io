@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oSELvyPa3y1Bd_O2cfFM5xP4_8M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69381105/acastro_170621_1777_0007_v2_0001_2.0.jpg' width='700px' /><br/>
+The FBI has said that cybercriminal group REvil (also known as Sodinokibi) was behind the recent attack on meat supplier JBS (via The Record). This follows a statement from White House deputy press secretary Karine Jean-Pierre, which indicated that the attack likely came from a Russian-based organization.
+<a href='https://www.theverge.com/2021/6/3/22466003/jbs-cyberattack-fbi-revil-sodinokibi-criminal-group'> Source <a/>
