@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fSJxTNE1KXtJpgmcyolSnFNE-Fw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69377630/RWF5uB.0.jpg' width='700px' /><br/>
-Microsoft is planning to detail its “next generation of Windows” at an event later this month. The software giant has started sending invites to media for a Windows event on June 24th. Both Microsoft CEO Satya Nadella and chief product officer Panos Panay will be presenting at the Windows event. Microsoft's Windows event will start at 11AM ET / 8AM PT on June 24th.
-<a href='https://www.theverge.com/2021/6/2/22465126/microsoft-windows-event-june-24th'> Source <a/>
