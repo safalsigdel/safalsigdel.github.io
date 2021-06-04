@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s8jOldEX2KR0VyCOsMnN_1_s094=/0x0:2040x1360/1200x675/filters:focal(837x579:1163x905)/cdn.vox-cdn.com/uploads/chorus_image/image/69400529/acastro_210602_4613_0001.0.jpg' width='700px' /><br/>
+Two days after the World Health Organization declared that the coronavirus outbreak was a pandemic, then-President Donald Trump stood in the Rose Garden next to a flow chart. The chart promised that soon, it would be easy for anyone in the United States to get tested for the virus. According to Trump, Google was building a website to streamline the entire process.
+<a href='https://www.theverge.com/2021/6/3/22514951/pandemic-public-health-solutions-google-apple-facebook'> Source <a/>

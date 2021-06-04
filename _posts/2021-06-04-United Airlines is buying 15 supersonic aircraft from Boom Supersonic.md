@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NrZffkKDcKEldEgbep7dQHyt7jk=/0x0:2020x1136/1200x800/filters:focal(849x407:1171x729)/cdn.vox-cdn.com/uploads/chorus_image/image/69388853/img.0.jpeg' width='700px' /><br/>
+United Airlines has agreed to purchase 15 supersonic aircraft from Boom Supersonic, with an option to increase that order to 50 jets, the companies announced Thursday. That agreement, though, is still subject to change depending on the outcome of United's safety testing and also Boom's ability to deliver on its promises despite never having built or flown a full-scale supersonic jet before.
+<a href='https://www.theverge.com/2021/6/3/22497462/united-airlines-boom-supersonic-deal-overture-jets'> Source <a/>

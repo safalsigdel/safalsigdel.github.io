@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K-t1-Q-oJtHv5RwqVSjE91y8xLI=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69381352/hue_app4_home_dashboard.0.jpg' width='700px' /><br/>
-The Philips Hue app is getting a big update on Thursday. The team at Signify, which makes Hue lights, has rebuilt the app “from the ground up” to make it easier to use. The new version looks mostly the same as the existing app, but it has tweaks around the edges to make it quicker to access different controls.
-<a href='https://www.theverge.com/2021/6/3/22465734/philips-hue-app-update-rebuilt-grid-view'> Source <a/>

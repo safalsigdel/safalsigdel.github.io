@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/eKZ0srtrBM8kvW6mPL6TKnW2p4c=/0x0:2040x1351/1200x800/filters:focal(886x544:1212x870)/cdn.vox-cdn.com/uploads/chorus_image/image/69382153/twarren_20210601_4611_0009.0.jpg' width='700px' /><br/>
-Update June 3rd, 11:15AM ET: All initial stock of the RTX 3080 Ti, including Best Buy's in-store stock, appears to be sold out. Newegg, however, is still accepting lottery entries for its Newegg Shuffle through 1PM ET. If selected, you'll be notified between 5PM and 9PM ET.
+Update June 3rd, 3:23PM ET: All initial stock of the RTX 3080 Ti, including Best Buy's in-store stock, appears to be sold out. Newegg's lottery-like Shuffle has also ended; if selected, you'll be notified between 5PM and 9PM ET.
 <a href='https://www.theverge.com/2021/6/3/22465644/nvidia-geforce-rtx-3080-ti-stock-gpu-availability-where-to-buy-graphics-card'> Source <a/>

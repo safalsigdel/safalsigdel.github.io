@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Ethereum mining is coming to perhaps an unexpected place: Norton 360, the antivirus software that many readers will know from setting up new computers for their parents (via BleepingComputer). In its press release, Norton claims its brand is a perfect fit: people looking to mine crypto won't have to dig through the dark, scary parts of the web, where they could possibly find “unvetted code.”
-<a href='https://www.theverge.com/tldr/2021/6/2/22465862/norton-360-crypto-mining-ethereum-coinbase'> Source <a/>

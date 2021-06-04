@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/st5r9OgQ_7S19VN7dTplv46kruI=/0x0:993x641/1200x800/filters:focal(418x242:576x400)/cdn.vox-cdn.com/uploads/chorus_image/image/69379423/fortnite.0.png' width='700px' /><br/>
-If you hop into a game of Fortnite right now, you might get teleported across the map by a mysterious laser beam that appears out of the sky.
-<a href='https://www.theverge.com/2021/6/2/22465577/fortnite-epic-games-ufos-aliens-abducted-teaser-season-7'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Jxy8szd_inyEKru5oEMHvt8KU0k=/0x0:879x473/1200x800/filters:focal(370x167:510x307)/cdn.vox-cdn.com/uploads/chorus_image/image/69388836/Screen_Shot_2015-05-07_at_10.02.05_AM.0.0.png' width='700px' /><br/>
+It's the sort of thing that can almost pass for background noise these days: over the past week, a number of publications tentatively declared, based on a UN report from the Libyan civil war, that killer robots may have hunted down humans autonomously for the first time. As one headline put it: “The Age of Autonomous Killer Robots May Already Be Here.”
+<a href='https://www.theverge.com/2021/6/3/22462840/killer-robot-autonomous-drone-attack-libya-un-report-context'> Source <a/>

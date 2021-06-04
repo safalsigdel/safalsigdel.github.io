@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Lfw5laTVhGtVn-2b_ev3g4N6QLg=/0x0:1400x933/1200x800/filters:focal(654x325:878x549)/cdn.vox-cdn.com/uploads/chorus_image/image/69401188/paramount_plus.0.0.jpg' width='700px' /><br/>
+Paramount Plus is set to introduce a new ad-supported plan on Monday that will cost just $5 per month — half the price of its more premium plan.
+<a href='https://www.theverge.com/2021/6/3/22515286/paramount-plus-5-subscription-plan-ads'> Source <a/>

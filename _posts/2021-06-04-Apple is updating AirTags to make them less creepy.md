@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WlncD3z2F33YPBwYa24doe_BAKo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69401766/vpavic_4547_20210421_0131.0.jpg' width='700px' /><br/>
+Apple is distributing an AirTags software update that makes it harder for people to use them for surreptitious tracking, CNET reports. According to a statement sent to The Verge, Apple is also working on an app for Android users which will let them detect potentially unwanted trackers.
+<a href='https://www.theverge.com/2021/6/3/22516178/apple-airtags-tracking-devices-update-play-sound-privacy-android-app'> Source <a/>

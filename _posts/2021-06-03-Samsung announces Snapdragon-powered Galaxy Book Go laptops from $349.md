@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3vpMyAju0e1DazkxA59D37HultA=/0x0:1000x667/1200x800/filters:focal(420x254:580x414)/cdn.vox-cdn.com/uploads/chorus_image/image/69381068/Galaxy_Book_Go_PR_main2.0.jpg' width='700px' /><br/>
-Samsung has announced two new Windows laptops running Arm-based processors. The Galaxy Book Go and Galaxy Book Go 5G both use Snapdragon chips from Qualcomm rather than Samsung's own Exynos designs.
-<a href='https://www.theverge.com/2021/6/2/22466164/samsung-galaxy-book-go-laptop-windows-arm-snapdragon-price-specs'> Source <a/>

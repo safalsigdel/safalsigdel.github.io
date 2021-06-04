@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HvG1uUmEI9_EpE_Iy9cr_M9ZK1Q=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/69396602/acastro_180509_1777_steam_0001.0.0.jpg' width='700px' /><br/>
+Valve has started letting developers team up to create bundles on the Steam gaming storefront. It outlined the new “DIY collaborative bundles” in a blog post yesterday, describing the feature as a way to collect titles with “common themes.”
+<a href='https://www.theverge.com/2021/6/3/22504026/valve-steam-adds-developer-created-diy-collaborative-game-bundles'> Source <a/>

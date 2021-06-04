@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MRexySQFqvU3NNGz3RLqlI-Rolc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69380178/acastro_190322_1777_apple_streaming_0001.0.jpg' width='700px' /><br/>
-Apple employees are being asked to return to the office three days a week starting in early September. Tim Cook sent out an email Wednesday informing staff of the change.
-<a href='https://www.theverge.com/2021/6/2/22465846/apple-employees-return-office-three-days-week-september'> Source <a/>
