@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QFMmktYEuI-V-YzTPAIZ01V6TMc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69381806/RWF5uB.0.jpg' width='700px' /><br/>
-Microsoft has been teasing a “next generation” of Windows for months now, but new hints suggest the company isn't just preparing an update to its existing Windows 10 software, but a new, numbered version of the operating system: Windows 11.
-<a href='https://www.theverge.com/2021/6/3/22466394/microsoft-windows-11-launch-teaser-rumors'> Source <a/>
