@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pYCL8ODUVIu2zc12BrkYnUJ2LTw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69404906/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
+The European Commission and UK regulators have opened antitrust investigations into Facebook over concerns its Marketplace service is unfairly distorting competition for classified ads. Both are interested in whether or not Facebook unfairly used advertising data to compete in the classified ads market, and are collaborating as part of the investigation.
+<a href='https://www.theverge.com/2021/6/4/22456313/facebook-marketplace-european-commission-formal-antitrust-investigation-eu-uk'> Source <a/>
