@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1vKgFFab11fc-BQEFmX94_6kEfc=/0x0:1000x666/1200x0/filters:focal(0x0:1000x666):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22636582/taito1.jpg' width='700px' /><br/>
+Taito is the latest Japanese video game publisher to resurrect old hardware in mini form. The company behind Space Invaders, Bubble Bobble, and many more arcade classics has just announced the Egret II Mini, which like Sega's excellent Astro City Mini is a shrunken-down version of a popular arcade cabinet.
+<a href='https://www.theverge.com/2021/6/4/22518220/taito-egret-2-mini-announced-arcade-cabinet-trackball-paddle-controller-price-date'> Source <a/>

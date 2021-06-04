@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nYY0Gy3pPDmmI9U-1tOgNzPLvSg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69381534/acastro_210119_1777_whatsapp_0001.0.jpg' width='700px' /><br/>
-WhatsApp has confirmed that its long-rumored multi-device support will be entering public beta in the coming months, allowing users to access their accounts from up to four linked devices. New “view once” and “disappearing mode” features were also officially announced. The news came in an interview between WABetaInfo and Facebook CEO Mark Zuckerberg and WhatsApp head Will Cathcart.
-<a href='https://www.theverge.com/2021/6/3/22466425/whatsapp-multi-device-support-disappearing-mode-view-once-features-confirmed'> Source <a/>
