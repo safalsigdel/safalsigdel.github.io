@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HK_053MppKCG2Flcdi5FC89MW5A=/0x0:2040x1360/1200x675/filters:focal(942x649:1268x975)/cdn.vox-cdn.com/uploads/chorus_image/image/69385573/mchin_20190822_4609_0011.0.jpg' width='700px' /><br/>
-I was skeptical of the ROG Strix G15 Advantage Edition when I first got my test unit from AMD. While the frame rates the Radeon RX 6800M delivered were respectable, it wasn't decisively outperforming comparable systems with Intel and Nvidia parts. I assumed that this gaming laptop would be fairly middle of the road, without many standout features to set it apart from the pack.
-<a href='https://www.theverge.com/22465565/asus-rog-strix-g15-advantage-edition-gaming-laptop-review'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lA30iAT-ydYlB9LxNrYsfGW46_8=/0x0:1454x972/1200x800/filters:focal(611x370:843x602)/cdn.vox-cdn.com/uploads/chorus_image/image/69406695/F558C979_3BAF_4B2D_ADC3_CDFC275FFA64.0.jpeg' width='700px' /><br/>
+Panic is finally sharing some more information about its delayed Playdate, the tiny yellow handheld with a crank. The quirky little gadget is going up in price, launching at $179 instead of $149, but its first “season” of games that will be rolled out to the Playdate over time is being doubled from 12 to 24. The device will also have 4GB of storage instead of 2GB.
+<a href='https://www.theverge.com/2021/6/4/22466184/panic-playdate-handheld-price-double-season-one-games-update-preorder'> Source <a/>
