@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+After an intense, dayslong bidding war, a single McDonald's chicken nugget shaped like one of the Among Us crewmates has just sold for an eye-watering $99,997 on eBay.
+<a href='https://www.theverge.com/tldr/2021/6/4/22504587/among-us-mcdonalds-chicken-nugget-ebay-auction-bts'> Source <a/>

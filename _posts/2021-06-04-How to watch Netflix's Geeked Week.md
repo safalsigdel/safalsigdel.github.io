@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xFX_naBKUckAnU-aGftcYKLbXMk=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/69381793/LUCIFER_403_Unit_00191R.0.jpg' width='700px' /><br/>
-Netflix is holding its first “Geeked” virtual event starting on June 7th, an entire week dedicated to genre stories across film and TV. That means sci-fi and fantasy, and shows based on comic books and video games.
-<a href='https://www.theverge.com/2021/6/3/22465657/netflix-geeked-week-how-to-watch'> Source <a/>
