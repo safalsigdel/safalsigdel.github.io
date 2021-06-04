@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ndXfCI7J3D2A7Ve99ZWn5HHec98=/0x0:4800x3314/1200x800/filters:focal(2016x1273:2784x2041)/cdn.vox-cdn.com/uploads/chorus_image/image/69407068/1228316860.0.jpg' width='700px' /><br/>
+Road deaths jumped 7.2 percent in 2020 from the year before, hitting a 13-year high, even though people weren't driving as much, according to the National Highway Traffic Safety Administration (NHTSA). But while NHTSA's numbers paint a grim picture, they offer only a glimpse at what's shaping up to be a historically bloody year of driving.
+<a href='https://www.theverge.com/2021/6/4/22518496/2020-traffic-crash-death-nhtsa-pandemic-driving'> Source <a/>
