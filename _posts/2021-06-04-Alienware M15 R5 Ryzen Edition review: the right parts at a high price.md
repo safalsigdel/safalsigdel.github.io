@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qnAVRLCsCNN8Zn5p1ANMRAi5Ifo=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69407182/cfaulkner_20210511_4579_0011.0.jpg' width='700px' /><br/>
+The new Alienware M15 R5 Ryzen Edition is a slight undoing of progress, depending on how you look at it. As many gaming laptops are going thinner, this one is heavier and thicker than previous generations. Its design has been tweaked slightly in ways both good and bad, and it has fewer ports than before, too.
+<a href='https://www.theverge.com/22518545/alienware-m15-r5-ryzen-edition-review-7-5800h-nvidia-rtx-3060-features-specs-performance'> Source <a/>
