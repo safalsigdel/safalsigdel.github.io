@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jt0Xy-MWU4ZxCE2A_HSpiT3vr4Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69406215/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+TikTok has updated its privacy policy in the US to notify users that the app might, in future, collect new types of biometric information including “faceprints and voiceprints.” But when reached by The Verge, TikTok was unable to explain what types of data these terms referred to, or why the app might need to access this information in the first place.
+<a href='https://www.theverge.com/2021/6/4/22518435/tiktok-privacy-policy-biometric-data-collection-faceprint-voiceprint'> Source <a/>

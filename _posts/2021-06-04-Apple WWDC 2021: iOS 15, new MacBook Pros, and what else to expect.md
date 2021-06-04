@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X3b4xdYnrqoaPiNsV7Tc8i5k9yQ=/0x0:1960x1102/1200x800/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/69405398/Apple_wwdc21_newsroom_article_tile_033021.0.jpg' width='700px' /><br/>
+Apple's annual developer extravaganza, the Worldwide Developers Conference (WWDC), is coming up fast, kicking off with the keynote presentation on June 7th at 1PM ET. Like last year, WWDC will be an entirely digital and online-only event due to the COVID-19 pandemic, and for the keynote, that means we can likely expect another tightly produced video highlighting everything Apple has in store.
+<a href='https://www.theverge.com/22457534/apple-wwdc-2021-rumors-ios-15-new-macbook-pro-what-to-expect'> Source <a/>

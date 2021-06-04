@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/uWV9UxqqDPK3J7XP217esBEMAgo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69402075/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-One of Google's top executives in diversity strategy and research has left his post after a 2007 blog post slamming the state of Israel resurfaced on June 1st. In the post, Kamau Bobb used antisemitic language, insinuating Jews have an “insatiable appetite for war and killing.”
+One of Google's top executives in diversity strategy and research has left his position after a 2007 blog post slamming the state of Israel resurfaced on June 1st. In the post, Kamau Bobb used antisemitic language, insinuating Jews have an “insatiable appetite for war and killing.”
 <a href='https://www.theverge.com/2021/6/3/22515377/google-kamau-bobb-blog-post-controversy'> Source <a/>

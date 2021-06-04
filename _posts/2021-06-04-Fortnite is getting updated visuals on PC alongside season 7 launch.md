@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sM7RmOH9ECSsQOcM2-YtiGdXAlA=/0x0:3523x1869/1200x800/filters:focal(1481x654:2043x1216)/cdn.vox-cdn.com/uploads/chorus_image/image/69384490/Fortnite_20210329165502.0.jpg' width='700px' /><br/>
-Fortnite is getting a visual boost on PC very soon. As part of the upcoming Chapter 2: Season 7, which will launch on June 8th, the PC version of the game is getting a new “epic” graphical setting.
-<a href='https://www.theverge.com/2021/6/3/22465735/fortnite-pc-graphics-season-7'> Source <a/>
