@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BlRxP7MIyE2XwhwrWXsqaUPRLPc=/0x0:2040x1360/1200x800/filters:focal(766x579:1092x905)/cdn.vox-cdn.com/uploads/chorus_image/image/69404454/vpavic_210512_4592_0203.0.jpg' width='700px' /><br/>
+Apple is working on a new version of the iPad Pro with wireless charging, according to a new report in Bloomberg. To accommodate the technology, Apple will reportedly switch to a glass back for the new models, instead of the aluminum found on the rear of every iPad released so far.
+<a href='https://www.theverge.com/2021/6/4/22518167/2022-ipad-pro-wireless-charging-new-ipad-mini-2021-date'> Source <a/>
