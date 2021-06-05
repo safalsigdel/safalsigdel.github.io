@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dWhNIOCM4gTWRkShV0C1tfB_HOo=/0x0:330x218/1200x800/filters:focal(139x83:191x135)/cdn.vox-cdn.com/uploads/chorus_image/image/69409376/Tianasquare.0.jpeg' width='700px' /><br/>
+On Microsoft's search engine Bing, searching for “Tank Man,” the iconic figure from the 1989 Tiananmen Square protests in China, turned up no image results in the United States for part of Friday. Vice was able to produce the same results in the US, and heard from multiple users from other countries who ran into the same issue.
+<a href='https://www.theverge.com/2021/6/4/22519418/microsoft-bing-china-tank-man-tiananmen-square'> Source <a/>

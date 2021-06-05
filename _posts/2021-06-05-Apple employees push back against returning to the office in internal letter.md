@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DHMMPB4Vy26AcMGq7NbmU9SULqY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69409301/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
+Apple employees are pushing back against a new policy that would require them to return to the office three days a week starting in early September. Staff members say they want a flexible approach where those who want to work remote can do so, according to an internal letter obtained by The Verge.
+<a href='https://www.theverge.com/2021/6/4/22491629/apple-employees-push-back-return-office-internal-letter-tim-cook'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DW1aXMSprVOsNcHo3IPPOTm0xWs=/0x0:4000x2250/1200x800/filters:focal(1680x805:2320x1445)/cdn.vox-cdn.com/uploads/chorus_image/image/69399213/Elements_7x_Dining_Winter_4000x2250px.0.jpg' width='700px' /><br/>
-Nanoleaf, the company best known for illuminated panels that you stick to your wall, has announced the new Nanoleaf Elements line, a set of wall panels that are designed to look as nice turned off as they do when on. The new Elements line accomplishes this through a wood-like veneer that allows the light to shine through when its on but doesn't look blank when the light isn't in use.
-<a href='https://www.theverge.com/2021/6/3/22466594/nanoleaf-elements-light-panel-smart-home-price-release'> Source <a/>

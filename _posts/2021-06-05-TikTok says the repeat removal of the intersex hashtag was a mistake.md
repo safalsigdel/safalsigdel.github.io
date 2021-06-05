@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3-Qm0n0rEGI2g0aLKRh8VpsFWpA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69408729/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+Pidgeon Pagonis, an intersex activist, noticed last week that the #intersex hashtag wasn't working on TikTok. They couldn't click the tag on one of their own posts and trying to search for intersex pulled up a “null” page. This was the second time Pagonis noticed the tag disappearing, and they worried that TikTok had banned it just as they were about to start a series of celebratory videos called Intersex Joy.
+<a href='https://www.theverge.com/2021/6/4/22519433/tiktok-intersex-ban-mistake-moderation-transparency'> Source <a/>

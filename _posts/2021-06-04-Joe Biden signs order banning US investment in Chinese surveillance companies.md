@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9Iv2jOOOPpyiezAOILPvTIu39pE=/0x0:6192x4128/1200x800/filters:focal(2601x1569:3591x2559)/cdn.vox-cdn.com/uploads/chorus_image/image/69401673/1321197115.0.jpg' width='700px' /><br/>
-President Joe Biden signed an executive order Thursday expanding a Trump-era ban on Americans investing in Chinese companies with purported ties to China's military.
-<a href='https://www.theverge.com/2021/6/3/22516719/biden-executive-order-american-investment-chinese-firms-huawei-zte'> Source <a/>

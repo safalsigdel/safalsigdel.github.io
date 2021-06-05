@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tTHnFLrEbEOsLcM4WGneIh96WpQ=/0x0:1972x1314/1200x800/filters:focal(829x500:1143x814)/cdn.vox-cdn.com/uploads/chorus_image/image/69396914/install_dialog___friction__2x__1_.0.jpg' width='700px' /><br/>
-Google is rolling out new safety features for Chrome which are designed to make it easier to spot dubious downloads and extensions. They build upon the browser's Enhanced Safe Browsing feature, which launched last year to offer better warnings against phishing sites.
-<a href='https://www.theverge.com/2021/6/3/22466386/chrome-91-enhanced-safe-browsing-extensions-download-scanning'> Source <a/>

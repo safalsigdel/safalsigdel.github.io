@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-pw8UXFon9FriYODZ9goDYxilkg=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/69410496/1319807308.0.jpg' width='700px' /><br/>
+The Computer Fraud and Abuse Act (CFAA), a controversial anti-hacking law which bans “exceeding authorized access” on a computer system, was narrowed by the Supreme Court on Thursday in a 6-3 ruling. The court said the law shouldn't cover people misusing systems they're allowed to access — and that claiming otherwise would criminalize a “breathtaking amount” of everyday computer use.
+<a href='https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed'> Source <a/>
