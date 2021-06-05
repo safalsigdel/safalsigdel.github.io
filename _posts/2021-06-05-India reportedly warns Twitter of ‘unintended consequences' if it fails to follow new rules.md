@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZgzM-JsDjoYnyh3CLBiLfCgF3Rw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69411076/acastro_200715_1777_twitter_0004.0.0.jpg' width='700px' /><br/>
+India's government has told Twitter it could face “unintended consequences” if it fails to comply with the country's new social media rules, Reuters reported. India's technology minister wrote in a June 5th letter to Twitter that the company's responses to previous government letters about the new rules did not confirm whether Twitter was in full compliance, according to Reuters.
+<a href='https://www.theverge.com/2021/6/5/22520330/india-warns-twitter-rules-social-media'> Source <a/>
