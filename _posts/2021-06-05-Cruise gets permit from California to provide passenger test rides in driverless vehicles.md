@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MDHbjdeh-sUELzuJ8YPro4S1rMk=/0x0:2559x1664/1200x800/filters:focal(1076x628:1484x1036)/cdn.vox-cdn.com/uploads/chorus_image/image/69410779/1189070708.jpg.0.jpg' width='700px' /><br/>
+The California Public Utility Commission (CPUC) said Friday (pdf) it has authorized General Motors-owned self-driving vehicle company Cruise to provide driverless passenger service to the public in its robotaxis.
+<a href='https://www.theverge.com/2021/6/5/22520227/cruise-permit-california-driverless-autonomous-vehicles'> Source <a/>
