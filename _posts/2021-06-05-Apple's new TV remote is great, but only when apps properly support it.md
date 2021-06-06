@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ydXH0nR-DkziDS2GHOAW4v1WuCU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69404758/DSCF3948_4.0.jpg' width='700px' /><br/>
-Users are complaining that the Disney Plus and HBO Max Apple TV apps aren't properly supporting the excellent new Siri Remote. Disney Plus has yet to be updated to make use of the remote's helpful scroll wheel scrubbing feature, which works on rival Netflix and Apple TV Plus apps. The HBO Max app has more issues, Screen Times reports, and lacks support for several of the remote's features and voice commands.
-<a href='https://www.theverge.com/2021/6/4/22518296/apple-new-siri-remote-hbo-max-disney-plus'> Source <a/>

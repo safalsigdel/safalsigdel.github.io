@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m7P1hVRcd8W0F6Fpswg5oGwkyFU=/0x0:1920x1080/1200x800/filters:focal(385x345:691x651)/cdn.vox-cdn.com/uploads/chorus_image/image/69411290/blockstream_square.0.png' width='700px' /><br/>
+Financial services firm Square Inc. will partner with blockchain technology provider Blockstream Mining to build an open-source, solar-powered bitcoin mining facility, Blockstream announced in a press release Saturday. Square confirmed the news in a tweet, saying it was “committed to driving further adoption and efficiency of renewables within the bitcoin ecosystem.”
+<a href='https://www.theverge.com/2021/6/5/22520436/square-invest-5-million-solar-powered-bitcoin-mining-facility-blockstream-cryptocurrency'> Source <a/>

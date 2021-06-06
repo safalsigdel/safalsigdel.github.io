@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TQfYKgNY21OlpDoTUpTojmIFmS0=/0x0:920x613/1200x800/filters:focal(387x234:533x380)/cdn.vox-cdn.com/uploads/chorus_image/image/69412818/fossil_watch.0.jpg' width='700px' /><br/>
+Fossil executives Greg McKelvey and Steve Prokup said in an interview with CNET that the company's existing Wear OS watches won't get upgraded to the new combined Wear software platform from Samsung and Google. Instead, Fossil is planning a premium watch that Prokup said would have “pretty major hardware upgrades,” and existing watches will probably be discounted as budget options.
+<a href='https://www.theverge.com/2021/6/6/22521256/fossil-not-upgrade-existing-watches-wear-os-google-android'> Source <a/>

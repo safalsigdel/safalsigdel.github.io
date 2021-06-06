@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4Rq3AfoKEVtht41JpbWc8W1krGs=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/69405393/1227889847.0.jpg' width='700px' /><br/>
-A rider that has effectively blocked recreational cannabis for years in Washington, DC appears in President Joe Biden's proposed 2022 budget, which may keep weed on the back burner yet again.
-<a href='https://www.theverge.com/2021/6/4/22516914/biden-proposed-budget-block-recreational-marijuana-washington-dc'> Source <a/>
