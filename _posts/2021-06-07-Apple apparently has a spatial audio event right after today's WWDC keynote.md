@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZLlcPD4jooEHKdgHUyrVOQY46TQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69415127/DSCF2672.0.jpg' width='700px' /><br/>
+Apple appears to have planned a dedicated event on Apple Music's upcoming spatial audio feature for later today. According to a video that MacRumors says was uploaded to Apple Music as a teaser — it's since been removed — Apple will broadcast a special event called “Introducing Spatial Audio.” The event doesn't appear on the Worldwide Developers Conference schedule but is set for 3PM ET.
+<a href='https://www.theverge.com/2021/6/7/22522249/apple-spatial-audio-event-wwdc-2021'> Source <a/>
