@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qkhUaldO5sPQYNiVV56_d4kAafA=/0x0:1842x1412/1200x800/filters:focal(774x559:1068x853)/cdn.vox-cdn.com/uploads/chorus_image/image/69413688/Screen_Shot_2021_02_25_at_1.11.21_PM.0.png' width='700px' /><br/>
+Twitter announced earlier this year it was working on a Super Follows feature that would allow some users to charge followers and give them access to extra content. On Sunday, app researcher Jane Manchun Wong tweeted screenshots of what she says it will look like.
+<a href='https://www.theverge.com/2021/6/6/22521555/twitter-super-follows-new-research-jane-wong-subscription'> Source <a/>
