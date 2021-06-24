@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oJ1GaVM00rmOGeJ_uz8R4FnDMbA=/0x0:1648x1098/1200x800/filters:focal(693x418:955x680)/cdn.vox-cdn.com/uploads/chorus_image/image/69499490/windows11lede.0.png' width='700px' /><br/>
+Windows 11 was announced today with a load of new features, and if you're a Windows enthusiast, you are no doubt eager to give it a try. If you want to install a real version, rather than the leaked version that hit the internet on June 15th), Microsoft says it is going to share an early build of Windows 11 through its Windows Insider Program starting next week.
+<a href='https://www.theverge.com/22544024/windows-11-download-how-to-preview-microsoft'> Source <a/>
