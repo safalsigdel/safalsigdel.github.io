@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/A1D3Uh97UeN42c-P-yZmKWPEqls=/0x0:835x556/1200x800/filters:focal(352x212:484x344)/cdn.vox-cdn.com/uploads/chorus_image/image/69497789/jiophone_next_google.0.jpg' width='700px' /><br/>
+Indian tech giant Jio Platforms has collaborated with Google on a new affordable smartphone called the JioPhone Next, Jio's parent company Reliance announced today. The Next is aimed at helping the roughly 300 million users in India who are currently on 2G networks upgrade to 4G, TechCrunch reports. It will be released in India on September 10th, before coming to other markets at a later date.
+<a href='https://www.theverge.com/2021/6/24/22548453/jiophone-next-google-android-smartphone-affordable'> Source <a/>

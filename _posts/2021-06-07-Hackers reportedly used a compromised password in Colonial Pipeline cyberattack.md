@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fd2BFFZVq080TB6FOmUA3lBsV20=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/69410926/1232834767.0.jpg' width='700px' /><br/>
-An analysis of the cyberattack on Colonial Pipeline found that the hackers were able to access the company's network using a compromised VPN password, Bloomberg reported. The hack led to a ransomware payout of $4.4 million, and resulted in gas prices around $3 per gallon for the first time in several years at US gas stations.
-<a href='https://www.theverge.com/2021/6/5/22520297/compromised-password-reportedly-allowed-hackers-colonial-pipeline-cyberattack'> Source <a/>

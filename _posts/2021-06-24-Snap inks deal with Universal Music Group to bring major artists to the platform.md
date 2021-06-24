@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z13_V-85JgPyScfi8EOTcTafznk=/0x0:2859x1906/1200x800/filters:focal(1202x725:1658x1181)/cdn.vox-cdn.com/uploads/chorus_image/image/69498950/snapchatsounds.0.jpg' width='700px' /><br/>
+Snap wants people to discover and make content with music on Snapchat, and today, it secured a major deal to help it achieve that goal.
+<a href='https://www.theverge.com/2021/6/24/22548673/snapchat-universal-music-group-snap-partnership-spotlight'> Source <a/>

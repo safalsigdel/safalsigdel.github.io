@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qsZQJTNDAWQynK1YvvnIDekdp7o=/0x0:1645x999/1200x800/filters:focal(692x369:954x631)/cdn.vox-cdn.com/uploads/chorus_image/image/69406972/phone_en_US.0.png' width='700px' /><br/>
-Tinder is finally letting you avoid all your exes, friends, colleagues, relatives, and anyone else you might not want to run into on a dating app. The company announced today it'll start allowing people to block their phone contacts.
-<a href='https://www.theverge.com/2021/6/4/22458856/tinder-block-phone-contacts-exes-work-colleagues-family'> Source <a/>

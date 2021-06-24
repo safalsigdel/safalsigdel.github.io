@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wHNrRFrP4msxj_pWXiVZKP-HPrM=/0x0:2100x1400/1200x800/filters:focal(882x532:1218x868)/cdn.vox-cdn.com/uploads/chorus_image/image/69497385/Screenshot_2021_06_24_at_15.18.45.0.png' width='700px' /><br/>
+Lenovo has announced a new product called the Go Wireless Charging Kit, which lets you retrofit wireless charging functionality to a wide variety of laptops. It makes use of “Power by Contact” technology from Energy Square, rather than the more common Qi standard.
+<a href='https://www.theverge.com/2021/6/24/22548300/lenovo-go-wireless-charging-kit-laptop-charger-date-price'> Source <a/>

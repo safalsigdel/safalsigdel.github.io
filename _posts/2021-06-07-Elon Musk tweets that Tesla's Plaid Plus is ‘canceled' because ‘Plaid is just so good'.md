@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HzoxFu1YjAj4_7WSwqvVgrQoCsQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69414091/twarren_08202017_1939_0003.0.0.jpg' width='700px' /><br/>
-Tesla CEO Elon Musk tweeted Sunday that the automaker's Model S Plaid Plus is “canceled,” since the basic Plaid is “just so good.”
-<a href='https://www.theverge.com/2021/6/6/22521769/elon-musk-tweets-tesla-plaid-plus-canceled'> Source <a/>

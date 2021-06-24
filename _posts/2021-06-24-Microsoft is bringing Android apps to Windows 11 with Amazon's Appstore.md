@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PCe_HaLR9roS1b2a8An3Pl-ic0M=/0x0:1435x806/1200x800/filters:focal(604x289:832x517)/cdn.vox-cdn.com/uploads/chorus_image/image/69499020/7JTO7hJ.0.png' width='700px' /><br/>
+Microsoft is bringing Android apps to Windows 11. The software giant revealed its surprise Windows 11 addition during its special Windows event today. Android apps will run natively on Windows 11 and will be downloadable from Amazon's Appstore, via the new Windows store that's included in the operating system.
+<a href='https://www.theverge.com/2021/6/24/22548428/microsoft-windows-11-android-apps-support-amazon-store'> Source <a/>

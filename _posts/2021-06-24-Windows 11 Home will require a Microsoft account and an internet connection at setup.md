@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E17SMvXdvcu9NyzHsZppExQdWCo=/0x0:1912x1038/1200x800/filters:focal(804x367:1108x671)/cdn.vox-cdn.com/uploads/chorus_image/image/69499292/Da63BN3T7y.0.png' width='700px' /><br/>
+Microsoft unveiled Windows 11 on Thursday, and its least expensive version Windows 11 Home will now require an internet connection at setup — and a Microsoft account. Previous versions would let you opt out of Microsoft accounts by creating a local account instead, though the company didn't necessarily make it easy to find and pushed you to use Microsoft's login instead. It's possible you'll still be able to use a local account afterwards.
+<a href='https://www.theverge.com/2021/6/24/22548480/windows-11-home-internet-connection-set-up'> Source <a/>

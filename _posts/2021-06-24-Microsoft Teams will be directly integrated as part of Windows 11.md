@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1iPvAO4b3oY-UgQbTyPymMYB9SI=/0x0:2062x1160/1200x800/filters:focal(867x416:1195x744)/cdn.vox-cdn.com/uploads/chorus_image/image/69498940/Screen_Shot_2021_06_24_at_11.20.34_AM.0.png' width='700px' /><br/>
+Microsoft Teams will be deeply woven into the upcoming Windows 11 update. During its preview of the new version of Windows, Microsoft's Panos Panay detailed how it'll be easier and quicker to create and join Teams meetings. The app will get prominent placement on the Windows 11 Start menu, and it'll also be integrated throughout the system.
+<a href='https://www.theverge.com/2021/6/24/22548738/microsoft-teams-windows-11-integration-announcement-features'> Source <a/>

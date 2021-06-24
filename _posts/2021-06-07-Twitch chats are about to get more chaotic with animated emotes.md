@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D77WXctIWhJNRsG0LUMQp62O52M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69406691/acastro_210115_1777_twitch_0002.0.jpg' width='700px' /><br/>
-Twitch is announcing some big updates to emotes on Friday, including that animated emotes will soon be available on the live-streaming platform.
-<a href='https://www.theverge.com/2021/6/4/22517751/twitch-animated-emotes-followers-streamers-partners-affiliates-library'> Source <a/>

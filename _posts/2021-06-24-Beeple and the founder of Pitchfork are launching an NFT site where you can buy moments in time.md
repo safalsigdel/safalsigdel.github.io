@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cPs88kgajX6_ZR7gpebbMxZmL9g=/0x0:2732x2048/1200x800/filters:focal(1148x806:1584x1242)/cdn.vox-cdn.com/uploads/chorus_image/image/69497830/WENEW_Physical_Artifact_On_Display_3.0.png' width='700px' /><br/>
+After selling an NFT for $69 million in March, Beeple is making his next big move in the digital art space: he's launching an NFT platform that'll sell “iconic” moments in time.
+<a href='https://www.theverge.com/2021/6/24/22546817/wenew-beeple-nft-pitchfork-buy-moments'> Source <a/>

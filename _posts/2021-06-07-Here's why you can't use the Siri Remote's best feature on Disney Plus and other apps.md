@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V5i8iqZe19s5MFwEYbeKL1EYlAI=/0x0:2040x1360/1200x800/filters:focal(305x381:631x707)/cdn.vox-cdn.com/uploads/chorus_image/image/69408280/DSCF3939.0.jpg' width='700px' /><br/>
-Apple's new Siri Remote introduced a gesture that makes it easy to scrub through content by turning the control pad into a scroll wheel. But a number of Apple TV users noticed that the feature doesn't work properly on some services, like HBO Max, or at all on others, like Disney Plus.
-<a href='https://www.theverge.com/2021/6/4/22519340/siri-remote-scrubbing-feature-disney-plus'> Source <a/>

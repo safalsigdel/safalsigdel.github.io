@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4fBFw49w23hInletjYeUHAwLR78=/0x0:2880x1800/1200x800/filters:focal(1210x670:1670x1130)/cdn.vox-cdn.com/uploads/chorus_image/image/69499109/windows11event_000719.0.jpg' width='700px' /><br/>
+Supporting local news sources is suddenly something the tech industry worries about, and with Windows 11, Microsoft is adding integration with local news “content creators and authors” front and center.
+<a href='https://www.theverge.com/2021/6/24/22548804/microsoft-windows-11-news-feed-creators-tipping'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/34qfJu_NAoi_Gz4_befFwRRqfdY=/0x0:2456x3680/1200x800/filters:focal(1120x986:1512x1378)/cdn.vox-cdn.com/uploads/chorus_image/image/69498426/Product_with_Model_1.0.jpg' width='700px' /><br/>
+TCL says its wearable display will go on sale in July starting in Australia for $899 AUD (about $680 US), with more markets to follow. The company has been teasing the concept for a couple of years now and showed it off earlier this year at virtual CES.
+<a href='https://www.theverge.com/2021/6/24/22545583/tcl-nxtwear-g-wearable-display-glasses-availability-price'> Source <a/>

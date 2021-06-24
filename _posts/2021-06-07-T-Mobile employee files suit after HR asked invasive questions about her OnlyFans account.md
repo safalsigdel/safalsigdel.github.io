@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UXABFRMmoqaqjyqxkuMvi6KEEIw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69407427/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
-A sales rep at a T-Mobile store in Fort Worth, Texas has filed a gender discrimination suit against the company after a member of the HR team inappropriately questioned her about having an OnlyFans account.
-<a href='https://www.theverge.com/2021/6/4/22518939/t-mobile-gender-discrimination-hr-probe-onlyfans'> Source <a/>

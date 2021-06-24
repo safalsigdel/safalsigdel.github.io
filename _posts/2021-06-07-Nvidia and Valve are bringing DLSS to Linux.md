@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pADhWV14wOSX4HCAA4hDwSMyjCo=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/69408432/twarren_rtx3080_1.0.jpg' width='700px' /><br/>
-Linux gamers using Valve's Proton compatibility tool to run Windows games will be getting a performance upgrade in the future: Nvidia has announced that it's working with Valve to bring FPS boosts using its DLSS technology featured on its RTX cards. It's almost enough to make me want to revisit Linux gaming.
-<a href='https://www.theverge.com/2021/6/4/22519316/nvidia-valve-proton-linux-dlss-ai-upsampling'> Source <a/>
