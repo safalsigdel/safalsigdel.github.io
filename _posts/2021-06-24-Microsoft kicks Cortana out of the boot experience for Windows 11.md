@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N-1_M7klX2v8wiXtgroK-eLbArQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69499422/acastro_180510_1777_cortana_0002.0.jpg' width='700px' /><br/>
+My job requires me to set up several Windows PCs per week. That means several times per week, I have to hear the following:
+<a href='https://www.theverge.com/2021/6/24/22548899/microsoft-windows-11-cortana-experience-taskbar'> Source <a/>

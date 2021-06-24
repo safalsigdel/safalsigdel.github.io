@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vsCgHSRA7MtEcZqZd_K70Z8K2oM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69496918/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
-Soon, public links to an untold number of items stored on Google Drive and YouTube will stop working. In the name of enhanced security, Google is changing the way it handles link sharing on both services, and while active users may be able to opt out of the switch, files and videos abandoned on unused or inactive accounts may simply slip out of view forever.
-<a href='https://www.theverge.com/google/2021/6/23/22548007/youtube-google-drive-security-link-sharing'> Source <a/>
