@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mvIBQfq61l_eQ3M7_hVgNUu-k8s=/0x0:1024x679/1200x800/filters:focal(431x259:593x421)/cdn.vox-cdn.com/uploads/chorus_image/image/69499674/court-house-federal.0.jpg' width='700px' /><br/>
+It's been over three years since former President Donald Trump signed FOSTA-SESTA, a major carveout to internet speech law Section 230. Proponents called the law — which adds penalties for hosting illegal sex work-related content — necessary to prevent online trafficking. But a new government report suggests it remains rarely used, even as legislators push for other, similar platform liability laws.
+<a href='https://www.theverge.com/2021/6/24/22546984/fosta-sesta-section-230-carveout-gao-report-prosecutions'> Source <a/>
