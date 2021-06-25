@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KXdBPbSi_F0SrAhaqopKI7aFNfc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69503209/vpavic_180502_2536_0016_alt.0.jpg' width='700px' /><br/>
+The world is waiting to see whether the United States Congress, and a US judge, crack down on Big Tech's monopoly power and decide the future of Apple's App Store. I don't think readers have ever cared so much about revenue share, market definition, and anti-steering rules.
+<a href='https://www.theverge.com/2021/6/25/22549825/microsoft-satya-nadella-apple-google-app-store-rules-conflated-decoder'> Source <a/>

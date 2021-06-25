@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yXPrTFmcXbEg6i8BN54BzoW5QU4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69499921/Screen_Shot_2021_06_24_at_9.54.09_AM.0.png' width='700px' /><br/>
-Microsoft just announced Windows 11, which brings a new design, a centered Start menu, the ability to run Android apps, and a whole lot more. But alongside everything new revealed on Thursday, Microsoft also shared details on features that will be deprecated or removed, and you might want to check out what's changing in case there's anything you might have to adjust to in your day-to-day use.
-<a href='https://www.theverge.com/2021/6/24/22548950/microsoft-windows-11-skype-onenote-live-tiles-cortana'> Source <a/>

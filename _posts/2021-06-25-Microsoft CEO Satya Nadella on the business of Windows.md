@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OC1F5rtPXt9cwTcplETSIJtbEpM=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69503208/VRG_ILLO_Decoder_Satya_Nadella_s.0.jpg' width='700px' /><br/>
+We've got a special episode of Decoder today — I'm talking to Satya Nadella, the CEO and chairman of Microsoft. Satya's always been one of my favorite tech execs to talk to, and Microsoft has some big news for us to discuss: it announced Windows 11 yesterday, which comes with an all-new design, a bunch of new features, and the ability to run Android apps.
+<a href='https://www.theverge.com/22549385/microsoft-satya-nadella-interview-windows-11-decoder'> Source <a/>
