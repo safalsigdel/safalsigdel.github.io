@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3wtI9pvZwxg5Kfkew8J2H4WmrWc=/0x0:1486x836/1200x800/filters:focal(625x300:861x536)/cdn.vox-cdn.com/uploads/chorus_image/image/69502862/Windows_11_Generic_Laptop_Device_Render.0.jpg' width='700px' /><br/>
+Windows 11 is arriving later this year as a free upgrade for Windows 10 users, but many are discovering that their hardware isn't compatible. Microsoft has altered its minimum hardware requirements, and it's the CPU changes that are most surprising here. Windows 11 will only officially support 8th Gen and newer Intel Core processors, alongside Apollo Lake and newer Pentium and Celeron processors.
+<a href='https://www.theverge.com/2021/6/25/22549725/microsoft-windows-11-cpu-support-tpm-hardware-requirements'> Source <a/>
