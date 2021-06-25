@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eBGrCpY5etKnG-ktmAIGnRPdzr8=/0x0:1650x1100/1200x800/filters:focal(693x418:957x682)/cdn.vox-cdn.com/uploads/chorus_image/image/69504360/windows11main.0.jpg' width='700px' /><br/>
+On Thursday, we saw the official reveal of Windows 11 at Microsoft's event, which showed off a redesign of the Microsoft operating system — including a replaced Start menu, updated app store, and lots more.
+<a href='https://www.theverge.com/2021/6/25/22550346/vergecast-456-microsoft-windows-11-announcement-satya-nadella-interview'> Source <a/>
