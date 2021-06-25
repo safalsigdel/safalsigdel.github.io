@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eMeJ5CBcIWMSwQb7g8MvNmSPJx8=/0x0:2404x1326/1200x800/filters:focal(1010x471:1394x855)/cdn.vox-cdn.com/uploads/chorus_image/image/69501380/Screen_Shot_2021_06_24_at_5.19.23_PM.0.png' width='700px' /><br/>
+The ThermoWorks Thermapen is legendary among chefs as the gold standard in kitchen thermometers, affording the fastest and most reliable temperature readings around. And today, the company has revealed its latest model: the $105 Thermapen One, which promises to achieve even faster temperature readings: less than a second (hence the name).
+<a href='https://www.theverge.com/2021/6/24/22548839/thermoworks-one-meat-thermometer-faster-grilling'> Source <a/>

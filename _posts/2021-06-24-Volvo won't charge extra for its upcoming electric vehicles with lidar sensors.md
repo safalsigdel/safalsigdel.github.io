@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xDCyCgINv5WbvTSzLiu5Qamvstc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69498045/ahawkins_191016_3734_0108.0.jpg' width='700px' /><br/>
-Volvo plans on offering the lidar — and artificial intelligence-powered safety features — of its upcoming electric vehicle as standard, but the Swedish automaker plans on charging extra for its semi-autonomous systems, like the hands-free Highway Pilot.
-<a href='https://www.theverge.com/2021/6/24/22547453/volvo-lidar-standard-autonomous-luminar-xc90-2022'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NRARHYBGfe968jNqmTp3kJlOzUM=/0x0:1920x1080/1200x800/filters:focal(953x194:1259x500)/cdn.vox-cdn.com/uploads/chorus_image/image/69500924/Panos_Panay_1.0.jpg' width='700px' /><br/>
+Today's Windows 11 news is all about where Microsoft sees computing going over the next few years, but it's just as much the story of how Skype has flourished and ebbed since its $8.5 billion acquisition a decade ago. Five years ago, Skype was the big name in internet calling and video, and Microsoft made it an “inbox app” for Windows 10 that was included at installation and launched at startup by default.
+<a href='https://www.theverge.com/2021/6/24/22549191/skype-windows-11-microsoft-teams'> Source <a/>

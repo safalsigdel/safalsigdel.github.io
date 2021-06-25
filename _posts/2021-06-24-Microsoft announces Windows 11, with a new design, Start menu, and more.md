@@ -1,3 +1,0 @@
-<img src='' width='700px' /><br/>
-Microsoft is officially confirming the name for the next release of Windows today: Windows 11. After months of teases, hints of the number 11, and a giant Windows 11 leak, Microsoft's new operating system is official. The big focus for Windows 11 is a simplification of the Windows user interface, a new Windows store, and improvements to performance and multitasking. Windows 11 will also include support for running Android apps for the first time.
-<a href='https://www.theverge.com/2021/6/24/22546791/microsoft-windows-11-announcement-features-updates'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LtwpkscKVGwtQwojHiagbPgGhro=/0x0:1218x813/1200x800/filters:focal(512x310:706x504)/cdn.vox-cdn.com/uploads/chorus_image/image/69500477/optimum.0.jpg' width='700px' /><br/>
+Internet service provider Optimum, owned by Altice USA, is dramatically reducing cable internet speeds for new subscribers starting on July 12th. For some Optimum Online plans, upload speeds will be cut from 35Mbps to as little as 5Mbps, Ars Technica writes.
+<a href='https://www.theverge.com/2021/6/24/22548774/optimum-altice-reduced-cable-speeds-upload-throttling'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BRZ5EGvzdr7KN8oS8D0QMQqJtyc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69498589/VRG_ILLO_4030_Windows_10_Guide_001.0.jpg' width='700px' /><br/>
-Microsoft is ready to usher in a new version of Windows, and it looks like 11 will be the magical number. After months of teasers, Windows 11 leaked last week and provided us an early look at what Microsoft should announce today.
-<a href='https://www.theverge.com/2021/6/24/22546829/microsoft-windows-11-event-live-blog-updates-news'> Source <a/>

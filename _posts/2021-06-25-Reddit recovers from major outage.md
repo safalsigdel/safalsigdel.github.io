@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lVsYUMguE7W9qAqTIgTFjggpTzg=/79x67:1151x780/1200x800/filters:focal(550x307:758x515)/cdn.vox-cdn.com/uploads/chorus_image/image/69501470/Screen_Shot_2021_06_24_at_3.20.17_PM.0.png' width='700px' /><br/>
+Reddit was down for many on Thursday, but the company has implemented a fix and the site seems to be working normally. While the outage was going on, Reddit would regularly take a while to try to load a page before showing an error screen with error code 503.
+<a href='https://www.theverge.com/2021/6/24/22549538/reddit-outage-down-error-code-503'> Source <a/>

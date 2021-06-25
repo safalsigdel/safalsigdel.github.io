@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZKhRH9qmwNJrS_Nch0GezBJV134=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69501757/vpavic_180502_2536_0018.0.jpg' width='700px' /><br/>
+Microsoft can add ending the day as a $2 trillion company to the list of things it's accomplished today, alongside announcing Windows 11. That makes it the second American publicly traded company ever to have a market capitalization of over $2 trillion (the other member of the club being Apple, which achieved it in August 2020), according to CNN Business.
+<a href='https://www.theverge.com/2021/6/24/22549559/microsoft-2-two-trillion-dollar-market-cap-close'> Source <a/>

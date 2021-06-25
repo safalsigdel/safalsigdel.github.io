@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D3AzUZf1lu3eHj3pzO0ONYP3hZw=/0x0:2448x1632/1200x800/filters:focal(1029x621:1419x1011)/cdn.vox-cdn.com/uploads/chorus_image/image/69499000/microsoft_store_windows_11_luca.0.jpg' width='700px' /><br/>
-Windows 11 is real, and Microsoft has just revealed the brand-new app store that will go along with it — which could be a big deal, seeing how previous versions of the idea never really caught on. It will be called the Microsoft Store, not the Windows Store, just like it has been since a rebranding in 2017.
-<a href='https://www.theverge.com/2021/6/24/22546635/microsoft-windows-11-new-app-store'> Source <a/>

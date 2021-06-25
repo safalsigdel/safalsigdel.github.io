@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3Ce8uSPqcmXABKMcFnGYDRNfyAM=/0x0:1320x880/1200x675/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/69497686/windowslogo.0.jpg' width='700px' /><br/>
-Microsoft is about to unveil Windows 11 this morning, the company's next major operating system. While a leak of Windows 11 has provided an early look at some of the design changes, I'm expecting to see a lot more today. A new Start menu, rounded corners, and a general UI overhaul have been expected for months, but Microsoft will need to show some big changes to Windows 11 to prove it's more than just Windows 10 with a paint job.
-<a href='https://www.theverge.com/2021/6/24/22548367/microsoft-windows-11-more-than-windows-10-editorial'> Source <a/>

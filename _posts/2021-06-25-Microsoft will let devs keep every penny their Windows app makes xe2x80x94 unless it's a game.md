@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZPdqAKob0MQiXtCiOhR8SUXMDQQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69500962/acastro_180507_1777_microsoft_0002.0.jpg' width='700px' /><br/>
+As part of its Windows 11 announcements on Thursday, Microsoft revealed a major policy change to incentivize developers to make apps for the Microsoft Store: starting on July 28th, if a developer uses their own or a third-party payment system in their app, Microsoft will let them keep 100 percent of the revenue. But the deal has one important caveat: it doesn't apply to games, Microsoft confirmed to The Verge.
+<a href='https://www.theverge.com/2021/6/24/22549222/microsoft-store-developers-windows-11-revenues-games'> Source <a/>

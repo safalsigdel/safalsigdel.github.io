@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LpOIj-wD_sqsvs7TSM_j9pnwm5U=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69497814/RWF5uB.0.jpg' width='700px' /><br/>
-Microsoft is hosting a special Windows event later today where we're expecting the company to unveil Windows 11. Microsoft has been teasing a “next generation” of Windows for months, and a leaked copy of Windows 11 suggests we're going to see a number of changes during Microsoft's event today.
-<a href='https://www.theverge.com/2021/6/24/22546814/microsoft-windows-11-event-watch-live-stream-start-time-date'> Source <a/>

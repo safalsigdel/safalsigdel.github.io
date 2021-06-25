@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hcOtVCSBPpHPx-tCUQ2RrwQ5zLA=/0x0:3360x2100/1200x800/filters:focal(1412x782:1948x1318)/cdn.vox-cdn.com/uploads/chorus_image/image/69499739/Untitled.0.png' width='700px' /><br/>
+Samsung's 2021 foldable phones have been revealed in a new leak that shows off the design of the both the Galaxy Z Fold 3 and Galaxy Z Flip 3, which are rumored to be released sometime over the summer. The picture comes from noted phone leaker Evan Blass, who posted the image to Twitter with the additional information that the Z Fold 3 is “definitely S-Pen compatible.”
+<a href='https://www.theverge.com/2021/6/24/22549038/samsung-galaxy-z-fold-3-flip-leak-image-foldable'> Source <a/>

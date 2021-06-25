@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vVyaO6Z5Hxl-U3l_OOhNsuGwnm0=/0x0:5940x4187/1200x800/filters:focal(2495x1619:3445x2569)/cdn.vox-cdn.com/uploads/chorus_image/image/69498579/1323883651.0.jpg' width='700px' /><br/>
-After several rounds in court, Amazon-backed food delivery service Deliveroo has won the right to continue classifying its couriers as self-employed, CNBC reports.
-<a href='https://www.theverge.com/2021/6/24/22548504/deliveroo-self-employed-uk-court-ruling-iwgb-union'> Source <a/>

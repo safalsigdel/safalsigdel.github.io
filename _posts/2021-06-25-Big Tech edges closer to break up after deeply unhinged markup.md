@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ud_DTh2dlA22mtOtVyzwYzobQME=/0x0:4683x3122/1200x800/filters:focal(1968x1187:2716x1935)/cdn.vox-cdn.com/uploads/chorus_image/image/69500398/1231082774.0.jpg' width='700px' /><br/>
+After nearly two years of investigations, the House Judiciary Committee met Wednesday to push forward on a package of bills targeting the power large tech companies like Amazon and Facebook hold over the market.
+<a href='https://www.theverge.com/2021/6/24/22549025/big-tech-antitrust-amazon-apple-facebook-google-house-judiciary-jim-jordan'> Source <a/>

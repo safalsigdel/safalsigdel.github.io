@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yPcjrwMRjZF3kKZW7Z_G9FdReEM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69499083/Hero_Bloom_Logo.5.jpg' width='700px' /><br/>
-Microsoft officially unveiled Windows 11 today, and the software maker is committing to make it a free upgrade for Windows 10 users. Much like how Windows 10 was free for Windows 7 and Windows 8 users, this new Windows 11 version will be free for existing Windows 10 users.
-<a href='https://www.theverge.com/2021/6/24/22546801/microsoft-windows-11-free-upgrade-details'> Source <a/>

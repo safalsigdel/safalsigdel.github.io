@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x1PgqObRgXuHnZ2FYUnnWwx9zEc=/0x0:2560x1440/1200x0/filters:focal(0x0:2560x1440):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22679465/ZiM0K2r.png' width='700px' /><br/>
+Microsoft made Windows 11 official today, but one part of the operating system the company didn't show during its event was File Explorer. Just like the rest of Windows 11, it looks like File Explorer is getting a significant overhaul. In a video entitled “how Windows 11 is being designed,” Microsoft reveals the new File Explorer UI alongside some changes to the Microsoft Office UI.
+<a href='https://www.theverge.com/2021/6/24/22549050/microsoft-windows-11-file-explorer-office-ui-new-design'> Source <a/>

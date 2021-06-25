@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eAdvhkDu-wvvGrl9-KoRq2fsAFU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69499041/acastro_180504_1777_microsoft_0001.0.jpg' width='700px' /><br/>
-Anyone trying to watch Microsoft's Windows 11 reveal over on its official website may have noticed the stream ran into a number of technical issues, including buffering and dropouts. It got so bad that the technical adviser to Microsoft CEO Satya Nadella was forced to respond, tweeting a link for viewers to watch the livestream on YouTube instead.
-<a href='https://www.theverge.com/2021/6/24/22548753/microsofts-windows-11-live-stream-technical-difficulties'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U8CLvCSt3KiN207RbooTFPt6G74=/31x275:3360x1786/1200x800/filters:focal(1412x782:1948x1318)/cdn.vox-cdn.com/uploads/chorus_image/image/69500825/Screen_Shot_2021_06_24_at_3.53.12_PM.0.png' width='700px' /><br/>
+Deals. Bargains. Sales. Discounts. I don't know how else to tell you that Steam is selling games for less money, but it's currently happening. The Steam summer sale will continue through July 8th, with quite a few beloved titles well below market rate.
+<a href='https://www.theverge.com/2021/6/24/22549213/valve-steam-summer-sale-halo-sekiro-hades-horizon-zero-dawn'> Source <a/>
