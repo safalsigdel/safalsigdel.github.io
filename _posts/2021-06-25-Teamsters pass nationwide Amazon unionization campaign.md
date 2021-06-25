@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kbDQHTQEhfjrG9BjuIzrSjRVQcQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69500026/acastro_181114_1777_amazon_hq2_0006.0.jpg' width='700px' /><br/>
-The International Brotherhood of Teamsters is launching a nationwide campaign to unionize Amazon workers. On Thursday, the union passed a resolution to make the “Amazon Project” a top priority and said it would commit “all resources necessary” to making the initiative successful. News of the campaign was first reported by Motherboard.
-<a href='https://www.theverge.com/2021/6/24/22549019/teamsters-amazon-union-nationwide-campaign-resolution'> Source <a/>
