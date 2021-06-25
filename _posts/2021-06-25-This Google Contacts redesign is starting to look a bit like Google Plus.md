@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LIjlhn_mdcFnIMriT4_YSP30caI=/0x0:1000x689/1200x800/filters:focal(232x12:392x172)/cdn.vox-cdn.com/uploads/chorus_image/image/69502436/gcontacts_2021.0.jpg' width='700px' /><br/>
+While Microsoft previews its next OS, Google is displaying a new look for Contacts. According to the company this Circles-style extra information is “a new experience for Google Contacts which will help Google Workspace users learn more about their colleagues.”
+<a href='https://www.theverge.com/google/2021/6/25/22549796/google-contacts-g-suite-detailed-information'> Source <a/>
