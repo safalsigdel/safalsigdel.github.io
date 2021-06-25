@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0E3JbACTkck9IvTHjdabiZvpxDM=/0x0:4928x3280/1200x800/filters:focal(2070x1246:2858x2034)/cdn.vox-cdn.com/uploads/chorus_image/image/69504313/1232270762.0.jpg' width='700px' /><br/>
+Wickr, the encrypted messaging app founded in 2012, has been purchased by Amazon, the company announced today. The terms of the deal were not disclosed.
+<a href='https://www.theverge.com/2021/6/25/22550361/amazon-wickr-aws-secure-messaging-encryption'> Source <a/>

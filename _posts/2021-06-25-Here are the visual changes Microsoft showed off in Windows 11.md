@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jX6p1XjOAF7Z-f-rQ0xVQgLUhcM=/0x0:2880x1598/1200x800/filters:focal(1210x569:1670x1029)/cdn.vox-cdn.com/uploads/chorus_image/image/69500697/Screen_Shot_2021_06_24_at_9.30.02_AM.0.png' width='700px' /><br/>
-Microsoft announced Windows 11 today, and one of the headline features of the “next generation” operating system is its visual overhaul. It's released an entire video about how it designed its new OS, which shows off the new rounded corners, icons, and more.
-<a href='https://www.theverge.com/2021/6/24/22548895/windows-11-ui-visual-change-roundup-microsoft-upgrade'> Source <a/>
