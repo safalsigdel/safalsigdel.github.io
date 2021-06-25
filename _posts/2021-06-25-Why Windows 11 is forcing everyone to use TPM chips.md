@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TIbN6QRvtK3XSTnzhwCdVu5xdBg=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69504824/windows11darkmode.0.jpg' width='700px' /><br/>
+Microsoft announced yesterday that Windows 11 will require TPM (Trusted Platform Module) chips on existing and new devices. It's a significant hardware change that has been years in the making, but Microsoft's messy way of communicating this has left many confused about whether their hardware is compatible. What is a TPM, and why do you need one for Windows 11 anyway?
+<a href='https://www.theverge.com/2021/6/25/22550376/microsoft-windows-11-tpm-chips-requirement-security'> Source <a/>

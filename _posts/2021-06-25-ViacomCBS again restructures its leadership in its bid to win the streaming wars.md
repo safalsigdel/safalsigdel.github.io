@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ekf9fEBowjGHybZAazcViJQcj9c=/0x0:1120x630/1200x800/filters:focal(471x226:649x404)/cdn.vox-cdn.com/uploads/chorus_image/image/69500900/Paramount_Plus.0.png' width='700px' /><br/>
-ViacomCBS is once again changing up leadership to emphasize its focus on streaming and ensure the success of its streaming services, particularly its late-to-the-party content giant Paramount Plus. The announcement comes just a day after The Wall Street Journal reported NBCUniversal had approached ViacomCBS about joining streaming forces.
-<a href='https://www.theverge.com/2021/6/24/22549252/viacomcbs-leadership-restructure-paramount-plus-streaming-service'> Source <a/>
