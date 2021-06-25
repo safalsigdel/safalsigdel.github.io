@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wv-neP4Xh706_5wDGMKNibNWDT8=/0x0:2040x1360/1200x675/filters:focal(953x584:1279x910)/cdn.vox-cdn.com/uploads/chorus_image/image/69500347/mchin_210621_4641_0002.0.jpg' width='700px' /><br/>
-From the outside, the Razer Blade 14 looks like every other Razer Blade laptop that we've seen in the past few years. It's got the all-aluminum chassis, the RGB keyboard, the three-headed snake logo, and the subtle black vibe.
-<a href='https://www.theverge.com/22548663/razer-blade-14-review-gaming-laptop-amd-ryzen-9-5900hx-nvidia-rtx-3070'> Source <a/>

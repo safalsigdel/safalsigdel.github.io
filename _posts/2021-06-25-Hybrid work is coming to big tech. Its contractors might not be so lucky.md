@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8B6uPdiDfvKvpc9_eBt3cxFH3bE=/0x0:5453x3635/1200x800/filters:focal(2291x1382:3163x2254)/cdn.vox-cdn.com/uploads/chorus_image/image/69503863/1229318293.0.jpg' width='700px' /><br/>
+In fits and starts, the US is reopening — in many cases to the chagrin of office workers who have settled into work-from-wherever setups they've had the past 16-ish months to perfect. And given the willingness of many of those same workers to quit rather than go back to full-time cubicle life, many companies have offered some form of “hybrid” arrangement as a compromise.
+<a href='https://www.theverge.com/2021/6/25/22545717/big-tech-hybrid-work-remote-contractors-google-apple-amazon-facebook-microsoft'> Source <a/>
