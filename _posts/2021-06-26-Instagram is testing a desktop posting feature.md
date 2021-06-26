@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5Pq3oVopzmBF-BXoTMZTseMXhKo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69502692/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
-Instagram is testing the ability to create posts using the web browser on a desktop computer. The feature was spotted by social media consultant Matt Navarra, who captured some screenshots demonstrating the functionality.
-<a href='https://www.theverge.com/2021/6/25/22550010/instagram-post-from-desktop-web-browser-testing'> Source <a/>
