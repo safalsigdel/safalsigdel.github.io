@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o_Db800O_t1UuHGIS3JAvgCjRug=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69507831/acastro_180417_1777_telegram_0004.0.jpg' width='700px' /><br/>
+Messaging chat app Telegram has added group video chat to its mobile and desktop apps at last, something it promised was coming back in April 2020. Voice chats in any group on the platform can be turned into video calls by tapping the camera icon to turn on your device's video.
+<a href='https://www.theverge.com/2021/6/26/22551652/telegram-adds-group-video-calling-chat'> Source <a/>
