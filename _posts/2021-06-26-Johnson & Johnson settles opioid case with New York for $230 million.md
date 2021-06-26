@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NulMYrw4M2lOdMci_f9J12AIPfA=/0x0:5000x3750/1200x800/filters:focal(2100x1475:2900x2275)/cdn.vox-cdn.com/uploads/chorus_image/image/69508385/1233004651.0.jpg' width='700px' /><br/>
+Pharmaceutical company Johnson & Johnson will pay $230 million to settle an opioid lawsuit with the state of New York, the state's attorney general said Saturday.
+<a href='https://www.theverge.com/2021/6/26/22551723/johnson-stop-selling-opioids-settlement-new-york-lawsuit'> Source <a/>

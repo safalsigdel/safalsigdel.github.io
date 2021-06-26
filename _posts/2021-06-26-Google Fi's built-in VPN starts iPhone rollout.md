@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OKSWflPLve2cYpVbmtQtOMorxE0=/0x0:998x562/1200x800/filters:focal(10x218:168x376)/cdn.vox-cdn.com/uploads/chorus_image/image/69502826/E4q9ctiWUAYxnIy.0.jpg' width='700px' /><br/>
-Google Fi's VPN service has started rolling out to subscribers on iPhone, the company has announced. The feature, which routes your phone's internet traffic through an encrypted connection to protect your privacy, has been available on Android since launching in beta in November 2018. The launch comes a little later than Google's previously announced “spring” release date, but it's close.
-<a href='https://www.theverge.com/2021/6/25/22550048/google-fi-vpn-iphone-subscribers'> Source <a/>
