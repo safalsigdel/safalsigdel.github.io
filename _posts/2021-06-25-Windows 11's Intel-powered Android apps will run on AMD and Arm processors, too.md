@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o2o-lRREGuyQM66q9DbL9iSkrBk=/0x0:1435x806/1200x800/filters:focal(604x289:832x517)/cdn.vox-cdn.com/uploads/chorus_image/image/69500918/7JTO7hJ.0.png' width='700px' /><br/>
-One of the biggest announcements at today's Windows 11 reveal was that Microsoft would offer the option to run Android apps on its new operating system, powered by a new “Intel Bridge” compiler that helps those apps run on x86 systems. But despite being an Intel-developed system, Android apps on Windows 11 won't just be limited to computers with Intel CPUs. AMD and Arm-based processors will also support Android apps.
-<a href='https://www.theverge.com/2021/6/24/22549303/windows-11-intel-bridge-android-apps-amd-arm-processors'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7VwYIDYlzjRrBpRL9_kbvDtEG68=/0x0:640x427/1200x800/filters:focal(269x163:371x265)/cdn.vox-cdn.com/uploads/chorus_image/image/69505444/ie9logo.1419971092.0.png' width='700px' /><br/>
+At one point in Windows 10's lifetime, you could have had Internet Explorer, the legacy version of Microsoft Edge, and the new Chromium-powered Edge all installed. This trio of browsers was the perfect illustration of Microsoft's struggles with the web over the past decade, but now that Internet Explorer is being laid to rest in 2022, it's disappearing from Windows 11, too.
+<a href='https://www.theverge.com/2021/6/25/22550714/microsoft-windows-11-internet-explorer-disabled'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OplPVtcfgwvT_1jRXmUb3OQ6oHU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69506762/vpavic_042020_3980_0055.0.jpg' width='700px' /><br/>
+Despite Apple's efforts to keep anyone from finding out what it's working on, leaks have continued to give the world early previews of new iPhones, Macs and more. Its campaign to plug the holes is apparently extending to threats of legal action, as the leaker known as “Kang” posted to Weibo this week about a notice he received from the company (via MacRumors).
+<a href='https://www.theverge.com/2021/6/25/22551182/kang-letter-apple-leak-warning-iphone-12'> Source <a/>

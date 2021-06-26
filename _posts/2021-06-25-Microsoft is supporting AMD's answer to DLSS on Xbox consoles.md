@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u3eDBxThfn5VwFR8XxqWSaesSzI=/0x0:1792x1005/1200x800/filters:focal(753x360:1039x646)/cdn.vox-cdn.com/uploads/chorus_image/image/69501672/xboxamdfsr.0.jpg' width='700px' /><br/>
-Microsoft is enabling Xbox developers to utilize AMD's answer to Nvidia's DLSS on console games. FidelityFX Super Resolution (FSR) appeared recently on Windows PCs with the aim of boosting frame rates and maintaining image quality. It's AMD's answer to Nvidia's Deep Learning Super Sampling (DLSS) and early tests have shown it's a promising technology that will work across multiple games and platforms.
-<a href='https://www.theverge.com/2021/6/24/22549594/microosft-xbox-amd-fsr-xbox-consoles-support'> Source <a/>

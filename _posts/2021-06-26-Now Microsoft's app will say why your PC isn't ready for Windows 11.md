@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MuLsIwL6EE8iWxFkDPsI0Dtp40I=/0x0:795x606/1200x800/filters:focal(335x240:461x366)/cdn.vox-cdn.com/uploads/chorus_image/image/69506098/E4vsDYuVcAIg1CC.0.jpeg' width='700px' /><br/>
+Microsoft has updated its PC Health Check App to show more information about why your computer won't be able to run Windows 11, to help deal with some of the confusion that's sprung up around compatibility. If you've already downloaded the app, it should auto-update when you go to run it again, and if you haven't downloaded it yet you can get it here.
+<a href='https://www.theverge.com/2021/6/25/22550951/microsoft-pc-health-checkup-app-update-windows-11-compatibility-tool-details'> Source <a/>
