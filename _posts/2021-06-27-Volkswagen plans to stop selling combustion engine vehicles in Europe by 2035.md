@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S-67GtlSbSjUj4n1JStEvroSEY0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69508670/acastro_200406_1777_volkswagen_0003.0.0.jpg' width='700px' /><br/>
+Volkswagen plans to stop selling combustion engines in Europe by 2035, a board member told German newspaper Muenchner Merkur  (via Reuters).
+<a href='https://www.theverge.com/2021/6/26/22551956/volkswagen-stop-selling-combustion-engine-vehicles-europe-2035'> Source <a/>

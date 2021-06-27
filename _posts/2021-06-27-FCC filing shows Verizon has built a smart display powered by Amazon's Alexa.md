@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ycy2_Ss8kQwxlWH50dSTyLa2lWU=/0x0:1373x748/1200x800/filters:focal(578x265:796x483)/cdn.vox-cdn.com/uploads/chorus_image/image/69508857/verizon_display_2.0.png' width='700px' /><br/>
+According to a Friday filing with the Federal Communications Commission (first discovered by Protocol), Verizon is preparing to launch a smart display device based on the Alexa voice assistant. The FCC filing shows a basic-looking device that resembles an Amazon Echo, with an 8-inch display and front-facing camera, and the specs show it has 4GB of RAM, 16GB of internal storage, Bluetooth, wi-fi and 4G connectivity.
+<a href='https://www.theverge.com/2021/6/26/22552037/fcc-filing-shows-verizon-amazon-alexa-smart-display'> Source <a/>
