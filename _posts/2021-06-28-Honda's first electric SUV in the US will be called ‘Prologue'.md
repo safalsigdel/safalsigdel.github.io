@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f7pGeZW1CjIGDc2xo4M0q8oTJlA=/0x0:2581x1936/1200x800/filters:focal(1081x815:1493x1227)/cdn.vox-cdn.com/uploads/chorus_image/image/69512423/187513_Honda_e_and_Frankfurt_International_Motor_Show_2019.0.jpg' width='700px' /><br/>
+Honda revealed the name of the first of two electric SUVs it plans to sell in North America, and it's one that many have already guessed, thanks to a recent trademark application. The vehicle will be called the Honda Prologue, and it will go on sale in the US and Canada starting in 2024, Honda of America sales chief Dave Gardner confirmed to reporters last week.
+<a href='https://www.theverge.com/2021/6/28/22550655/honda-prologue-electric-vehicle-ev-2024'> Source <a/>
