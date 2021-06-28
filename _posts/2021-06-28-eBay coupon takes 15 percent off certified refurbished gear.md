@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/an2aDqR3gu5SAKIVBtC2pzWbweE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69503633/akrales_190716_3546_0185.0.jpg' width='700px' /><br/>
-If you're in the market for a set of headphones, a security camera, phone charger, or other gear and don't mind buying something that's certified refurbished, eBay is taking an additional 15 percent off the price of many items (up to $150) with a coupon code. You can view everything that qualifies here; we've highlighted some of our favorites below.
-<a href='https://www.theverge.com/good-deals/2021/6/25/22550009/ebay-coupon-refurbished-sale-apple-tv-4k-nintendo-eshop-sony-wh1000xm4'> Source <a/>
