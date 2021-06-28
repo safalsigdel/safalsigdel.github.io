@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3TPTv31AR5T9MZ9X_WX8l7I6E0Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69503998/acastro_181114_1777_amazon_hq2_0003.0.jpg' width='700px' /><br/>
-The UK's Competition and Markets Authority (CMA) is probing whether Amazon and Google broke consumer laws by failing to take action against fake reviews on their sites, the agency announced Friday.
-<a href='https://www.theverge.com/2021/6/25/22550171/uk-antitrust-watchdog-investigating-amazon-google-fake-reviews'> Source <a/>

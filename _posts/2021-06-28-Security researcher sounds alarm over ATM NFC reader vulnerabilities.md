@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eAJw0yDUWfR_Itj8ZcAdjgO5d94=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69512387/acastro_170629_1777_0008.0.jpg' width='700px' /><br/>
+IOActive security researcher Josep Rodriquez has warned that the NFC readers used in many modern ATMs and point-of-sale systems are leaving them vulnerable to attacks, Wired reports. The flaws make them vulnerable to a range of problems, including being crashed  by a nearby NFC device, locked down as part of a ransomware attack, or even hacked to extract certain credit card data.
+<a href='https://www.theverge.com/2021/6/28/22553646/atm-point-of-sale-nfc-readers-hack-security-vulnerability-jackpotting'> Source <a/>
