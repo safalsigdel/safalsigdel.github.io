@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lL0bSQ_Oz69yWA15EAAplHY_oZ0=/0x0:1462x1202/1200x800/filters:focal(615x485:847x717)/cdn.vox-cdn.com/uploads/chorus_image/image/69505837/Screen_Shot_2021_06_25_at_3.01.18_PM.0.png' width='700px' /><br/>
-An unclassified version of the Pentagon's report on Unidentified Aerial Phenomena (UAPs, aka UFOs) was sent to Congress on Friday, showing that more than 140 instances of strange sightings by military aircraft remain a mystery. This is the public's first glance at the 9-page report.
-<a href='https://www.theverge.com/2021/6/25/22550575/pentagon-ufo-uap-unclassified-report-congress'> Source <a/>

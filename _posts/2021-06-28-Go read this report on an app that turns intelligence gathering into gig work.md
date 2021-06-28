@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ic_tgt5vsmDrL_JUXAiG6C1qg0s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69505462/acastro_190204_1777_privacy_0002.0.jpg' width='700px' /><br/>
-Smartphones helped popularize the modern gig economy, and a new report from The Wall Street Journal suggests some companies like Premise have found a new way to take advantage of workers trying to make extra money — turning them into unwitting spies for corporate and military clients.
-<a href='https://www.theverge.com/2021/6/25/22550622/premise-app-surveillance-gig-work-military-contracts'> Source <a/>
