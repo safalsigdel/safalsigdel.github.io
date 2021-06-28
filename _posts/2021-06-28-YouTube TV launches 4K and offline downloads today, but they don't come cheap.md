@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bYZYF5n9dgv71MHmO4L9FJ60r1A=/0x0:1725x1088/1200x800/filters:focal(725x406:1001x682)/cdn.vox-cdn.com/uploads/chorus_image/image/69513800/yttv.0.jpg' width='700px' /><br/>
+YouTube TV is today revealing more details about two anticipated new features: 4K playback and offline downloads. As it turns out, the service will be bundling them together in a new add-on package it's calling “4K Plus.” There's no getting one without the other.
+<a href='https://www.theverge.com/2021/6/28/22550583/youtube-tv-4k-plus-offline-downloads-now-available-price'> Source <a/>
