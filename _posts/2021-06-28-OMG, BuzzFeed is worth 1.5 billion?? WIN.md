@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iX5Ffba1XsA7OvYEbz2sEaBypi4=/0x0:6000x3996/1200x675/filters:focal(2608x748:3568x1708)/cdn.vox-cdn.com/uploads/chorus_image/image/69503547/1325288676.0.jpg' width='700px' /><br/>
-How much is it worth to be shareable? BuzzFeed founder Jonah Peretti is hoping for about $1.5 billion.
-<a href='https://www.theverge.com/2021/6/25/22548797/buzzfeed-spac-facebook-shares-peretti-complex-huffpo'> Source <a/>
