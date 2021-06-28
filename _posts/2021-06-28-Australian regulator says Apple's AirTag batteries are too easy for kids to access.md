@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_hfLTm-y4DMhImq6XbP0yqQZ6lo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69513710/vpavic_4547_20210421_0058.0.jpg' width='700px' /><br/>
+Australia's Competition and Consumer Commission (ACCC) has warned buyers to keep Apple AirTags away from young children, saying it's too easy to remove a potentially dangerous battery from the tiny location trackers.
+<a href='https://www.theverge.com/2021/6/28/22553899/australia-accc-apple-airtag-button-battery-safety-warning'> Source <a/>
