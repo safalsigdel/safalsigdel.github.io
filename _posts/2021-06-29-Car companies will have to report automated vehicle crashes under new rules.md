@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jDyowePSNSWOD2A2y23bvdvL7sE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69518915/EzRSmWwVUAQVVNj.0.jpeg' width='700px' /><br/>
+Car companies will be required to report crashes involving advanced driver assistance systems under new rules proposed by the US National Highway Traffic Safety Administration (NHTSA).
+<a href='https://www.theverge.com/2021/6/29/22555666/nhtsa-autonomous-vehicle-crash-report-data'> Source <a/>

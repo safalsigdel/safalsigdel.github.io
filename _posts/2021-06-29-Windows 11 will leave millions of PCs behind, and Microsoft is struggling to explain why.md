@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L2GWfXuXyvrXvDk6OKSbDHLWwv8=/0x0:1650x1100/1200x675/filters:focal(693x418:957x682)/cdn.vox-cdn.com/uploads/chorus_image/image/69518917/windows11main.0.jpg' width='700px' /><br/>
+Microsoft has had six years to prepare for the launch of Windows 11, but the company is still struggling to explain its new hardware requirements. Windows 11 will officially support Intel 8th Gen Coffee Lake or Zen 2 CPUs and up, leaving behind millions of PCs that were sold during the launch of Windows 10.
+<a href='https://www.theverge.com/2021/6/29/22555371/microsoft-windows-11-cpu-support-hardware-requirements-tpm-response'> Source <a/>
