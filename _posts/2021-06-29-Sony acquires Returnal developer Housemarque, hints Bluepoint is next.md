@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wHa8FGoVs4vcp5ZQww7tjX3tJhw=/0x0:1088x612/1200x800/filters:focal(457x219:631x393)/cdn.vox-cdn.com/uploads/chorus_image/image/69517792/Welcome_Housemarque_210628_scaled.0.jpg' width='700px' /><br/>
+Sony has acquired Housemarque, the Finnish studio behind recent PS5 exclusive Returnal, the company announced today. It was announced with a tweet which suggests Sony might also be about to acquire Bluepoint Games, the studio behind the recent Demon's Souls remaster.
+<a href='https://www.theverge.com/2021/6/29/22555358/sony-housemarque-returnal-developer-acquisition-bluepoint'> Source <a/>

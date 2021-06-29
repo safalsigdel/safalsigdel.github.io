@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZkVxvlnJGpgNL--x_1eNAat1O-4=/0x0:6240x4160/1200x0/filters:focal(0x0:6240x4160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22644969/ARC_101_09922.jpg' width='700px' /><br/>
-In a completely expected turn of events, Loki — star of the latest MCU show on Disney Plus — is coming to Fortnite as a playable character. But there is a twist for those looking to bring the mischievous god into a battle royale match. Loki won't be on sale in the regular item shop, but instead will only be accessible for subscribers of Fortnite Crew, a monthly service. He'll be available starting in July.
-<a href='https://www.theverge.com/2021/6/28/22553914/fortnite-crew-loki-release-date'> Source <a/>
