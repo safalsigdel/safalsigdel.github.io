@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f5dgxRMWzVmFRBC9zF0VwJMRi7s=/0x0:2100x1400/1200x800/filters:focal(882x532:1218x868)/cdn.vox-cdn.com/uploads/chorus_image/image/69517508/messages_otp.0.jpg' width='700px' /><br/>
+Google is updating its Messages app in India to allow it to delete one-time passwords (OTPs) automatically, to stop the single-use codes from clogging up your inbox, the company has announced. Alongside it, Google also says the app will be able to sort messages into categories, keeping your personal correspondence away from notifications about bank transactions and special offers.
+<a href='https://www.theverge.com/2021/6/29/22555333/google-messages-one-time-passwords-otp-delete-categories-gmail'> Source <a/>
