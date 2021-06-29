@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A7U7MYZ2AcZYDyh955FUliuiJ84=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69512905/TCL_20_Pro_5G_design_14.0.jpg' width='700px' /><br/>
-TCL is bringing three of its 20-series phones to the US today, with the $499 20 Pro 5G leading the way. It's joined by the $249 TCL 20S with a trimmed-down feature set and the $189 TCL 20 SE equipped with a massive display and 5,000mAh battery.
-<a href='https://www.theverge.com/2021/6/28/22547789/tcl-20-pro-5g-us-price-screen-specs-availability'> Source <a/>
