@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0Xg7LvPuAqbHMXY3nDBGi-s2BPc=/0x0:1000x1000/1200x800/filters:focal(384x551:544x711)/cdn.vox-cdn.com/uploads/chorus_image/image/69517887/HP_Pavilion_Aero_13_Laptop_PC_NaturalSilver.0.jpg' width='700px' /><br/>
+HP has announced the Pavilion Aero 13, the lightest consumer laptop yet. It has a maximum weight of 2.18 pounds (0.987 kg), making it one of the most portable laptops you can buy of any type or size. It's also powered by AMD's Ryzen 5000 mobile processors, up to a Ryzen 7 5800U.
+<a href='https://www.theverge.com/2021/6/29/22554406/hp-pavilion-aero-13-laptop-ultraportable-amd-ryzen-5000-cpu'> Source <a/>

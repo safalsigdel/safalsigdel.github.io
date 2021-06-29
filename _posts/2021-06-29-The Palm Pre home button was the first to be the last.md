@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-T_QbrY1nwZtki8L6hcYDqHpv5o=/0x0:2040x1360/1200x800/filters:focal(819x649:1145x975)/cdn.vox-cdn.com/uploads/chorus_image/image/69518065/dbohn_210622_4651_0001.0.jpg' width='700px' /><br/>
+Physical home buttons are all but extinct on modern smartphones, and the Palm Pre ended them.
+<a href='https://www.theverge.com/22555406/palm-pre-home-button-gestures-swiping'> Source <a/>
