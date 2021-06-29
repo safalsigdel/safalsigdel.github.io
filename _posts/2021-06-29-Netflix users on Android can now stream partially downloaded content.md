@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y5zWHo4AENjezIrjQvoE9xRbJhY=/0x0:1920x1080/1200x800/filters:focal(612x474:918x780)/cdn.vox-cdn.com/uploads/chorus_image/image/69512900/NETFLI_PLAYPARTIAL_KEYIMAGE_34.0.jpg' width='700px' /><br/>
-Netflix is launching a new feature for Android users that allows them to view partially downloaded titles — which will hopefully make exasperated attempts to quickly download content minutes before a flight a slightly less distressing experience.
-<a href='https://www.theverge.com/2021/6/28/22551099/netflix-partial-download-feature'> Source <a/>
