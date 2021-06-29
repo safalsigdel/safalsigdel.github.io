@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AZv-kjBCKSldSwXpf5rx4BmD3GA=/0x0:1200x631/1200x800/filters:focal(504x220:696x412)/cdn.vox-cdn.com/uploads/chorus_image/image/69510368/samsung_galaxy_buds_2_render_feat.0.jpg' width='700px' /><br/>
-Leaked renders of the Galaxy Buds 2 obtained by gadget site 91Mobiles suggest the next iteration of Samsung's earbuds will look pretty similar to Google's Pixel Buds. A May filing with the FCC showed the earbuds woud come in a white case with rounded edges.
-<a href='https://www.theverge.com/2021/6/27/22552705/samsung-galaxy-buds-2-leaked-renders-four-colors'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZWQCtfjUNwfVyvuPGWrYXJkhYwk=/0x0:1794x1008/1200x800/filters:focal(754x361:1040x647)/cdn.vox-cdn.com/uploads/chorus_image/image/69513460/Screen_Shot_2021_06_21_at_5.49.42_PM.0.png' width='700px' /><br/>
-Samsung will hold its Mobile World Congress event virtually this year, which looks to focus on Samsung's smartwatches, as well as how the company is “enhancing security.”
-<a href='https://www.theverge.com/2021/6/28/22553901/samsung-virtual-mwc-2021-event-reimagine-smartwatch'> Source <a/>

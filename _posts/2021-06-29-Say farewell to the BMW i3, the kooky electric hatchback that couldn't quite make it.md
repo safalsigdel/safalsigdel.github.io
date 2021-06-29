@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JBg_mukapSwxYnT22M_0Qx7VJtY=/0x0:1100x731/1200x800/filters:focal(462x278:638x454)/cdn.vox-cdn.com/uploads/chorus_image/image/69514973/BMW16_2040.0.jpg' width='700px' /><br/>
+BMW will stop selling the i3 electric hatchback in the US starting next month. It's the latest pint-sized vehicle to fall victim to American car buyers' insatiable appetite for huge, towering, climate-killing trucks and SUVs.
+<a href='https://www.theverge.com/2021/6/28/22554419/bmw-i3-discontinued-us-electric-hatchback-sales'> Source <a/>

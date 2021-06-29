@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Bs9mx5uR7IRbRZ2jQ4bPP8AtiC8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69514872/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
+On Monday, a US District Court dealt a huge blow to the federal government's antitrust case against Facebook by dismissing a complaint filed against the company by the Federal Trade Commission. The lawsuit, filed late last year, sought to unwind Facebook's acquisitions of Instagram and WhatsApp. The judge also dismissed an associated case filed by a group of state attorneys general.
+<a href='https://www.theverge.com/2021/6/28/22554476/ftc-facebook-instagram-antitrust-case-whatsapp-federal-court'> Source <a/>

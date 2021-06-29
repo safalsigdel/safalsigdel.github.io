@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S9MkFtTWNOPRK8HjF52agL7yt2U=/0x0:5300x3540/1200x800/filters:focal(2226x1346:3074x2194)/cdn.vox-cdn.com/uploads/chorus_image/image/69512468/Snapdragon_888_Plus_QRD___AI.0.jpg' width='700px' /><br/>
-Qualcomm's best mobile processor, the Snapdragon 888, is getting even more powerful at MWC 2021 with the announcement of the Snapdragon 888 Plus. The upgraded model boasts a boosted clock speed, bumping the Kryo 680 CPU from 2.84GHz up to 2.995GHz (which Qualcomm is optimistically rounding up to 3GHz in its marketing.)
-<a href='https://www.theverge.com/2021/6/28/22550723/qualcomm-snapdragon-888-plus-cpu-ai-performance-mwc-2021'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pMQiixHLAcSbJ1jH-2BaOXiAE1M=/0x0:1786x1191/1200x800/filters:focal(751x454:1035x738)/cdn.vox-cdn.com/uploads/chorus_image/image/69514766/xcloudiphoneipad.0.jpg' width='700px' /><br/>
+Microsoft's xCloud, the cloud game streaming component of Xbox Game Pass Ultimate that doesn't require a console to use, is rolling out fully to iOS devices, including iPhones and iPads, as well as PCs and macOS computers via the web. It's been in an invite-only beta period since mid-April 2021, but Game Pass Ultimate subscribers can now access games right from their devices.
+<a href='https://www.theverge.com/2021/6/28/22554267/microsoft-xcloud-game-streaming-xbox-pass-ios-iphone-ipad-pc'> Source <a/>

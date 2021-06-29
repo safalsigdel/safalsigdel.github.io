@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nydDLgpMvNdCfraeC2-0-LaQgnY=/0x0:1860x940/1200x800/filters:focal(782x322:1078x618)/cdn.vox-cdn.com/uploads/chorus_image/image/69515361/youtube_theater_1.0.png' width='700px' /><br/>
+Google-owned YouTube will have its name on a new live event venue in Inglewood, California, part of the new Hollywood Park mixed-use development, the companies announced Monday. YouTube Theater will be a 6,000-seat performance venue, which will host concerts, comedy shows, YouTube creator events, esports competitions, and community shows. Financial terms of the multiyear naming rights deal were not disclosed.
+<a href='https://www.theverge.com/2021/6/28/22554487/youtube-theater-hollywood-park-live-events-google'> Source <a/>

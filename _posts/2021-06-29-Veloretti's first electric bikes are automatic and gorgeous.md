@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o_wovjSCo7ECC_S3jYmreCXT5Jg=/0x0:1764x1159/1200x675/filters:focal(738x291:1020x573)/cdn.vox-cdn.com/uploads/chorus_image/image/69512226/image_2.0.png' width='700px' /><br/>
-It's not very often that a notable new electric bike brand emerges from Amsterdam, the bicycling capital of the world. The last time was when VanMoof launched the Electrified S back in 2016. So it's with particular interest that I've been following the launch of the Veloretti Ivy and Ace e-bikes that begin mass production today. And I'm not alone in my anticipation as their first electrics begin shipping to customers.
-<a href='https://www.theverge.com/2021/6/28/22551770/veloretti-e-bike-ivy-ace-price-specs-availability'> Source <a/>

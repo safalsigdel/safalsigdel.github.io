@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sVZMuHRddJ4Ki0YGQiK0K2RY3XI=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/69515974/DSC01589__1_.0.0.jpg' width='700px' /><br/>
+SoftBank is reportedly restructuring its robotics business and has already halted production of its Pepper robot, according to Reuters. Robotics is just one of many businesses the large Japanese firm has invested in, but potentially permanently ending production of Pepper is notable because of the robot's role as a sort of unofficial mascot for the company.
+<a href='https://www.theverge.com/2021/6/28/22554566/softbank-pepper-robot-production-layoffs-robotics'> Source <a/>

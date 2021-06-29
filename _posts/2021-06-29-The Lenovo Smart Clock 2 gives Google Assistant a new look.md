@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Lp6CPUmabIkyGqTKluCe2PU7Yg0=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/69512049/Lenovo_Smart_Clock_2_Birdeye_Clockfaces.0.png' width='700px' /><br/>
-The Lenovo Smart Clock and Smart Clock Essential are both functional, attractive alarm clocks with some extra smart home capabilities. Today, Lenovo has announced the next in line: the Lenovo Smart Clock 2.
-<a href='https://www.theverge.com/2021/6/28/22549548/lenovo-smart-clock-2-wireless-phone-charger-features'> Source <a/>

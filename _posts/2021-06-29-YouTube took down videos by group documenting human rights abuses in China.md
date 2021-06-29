@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jwWyu0Yshs8erxpPKlNTMxPxyrk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69510144/acastro_180806_1777_youtube_cancel_0001.0.jpg' width='700px' /><br/>
-YouTube took down several videos from a human rights organization's channel, which was attempting to document human rights abuses in China's Xinjiang province, for violating its anti-harassment policy, Reuters reported.
-<a href='https://www.theverge.com/2021/6/27/22552714/youtube-google-took-down-videos-human-rights-abuses-china-xinjiang-uyghur'> Source <a/>
