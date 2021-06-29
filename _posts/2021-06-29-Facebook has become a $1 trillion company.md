@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uo-r6abBtfg1FtZice-3-M-eWgo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69515218/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook has joined the ranks of companies valued over a trillion dollars as of today's market close. The company's market cap is sitting at $1.008 trillion according to Yahoo Finance, putting it over the mark for the first time in its history.
-<a href='https://www.theverge.com/2021/6/28/22554502/facebook-1-trillion-dollar-market-cap-company-business'> Source <a/>
