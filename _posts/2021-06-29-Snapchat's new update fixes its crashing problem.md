@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EXKT4LZ47WNjR5uNAGX891oT_CA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69514768/snapChatPattern_BW.0.jpg' width='700px' /><br/>
-If you've been experiencing the bug where the iOS version of Snapchat crashes at launch, it seems that there's now an update to fix it available in the App Store. The bug that's been fixed by the update didn't appear to have affected the Android version of the app.
-<a href='https://www.theverge.com/2021/6/28/22554376/snapchat-ios-latest-update-crash-launch-not-working'> Source <a/>

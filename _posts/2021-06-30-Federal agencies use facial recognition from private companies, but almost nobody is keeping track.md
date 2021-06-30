@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OaNfIJKkAH-tQznO2phXxxOOZS4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69520938/jbareham_170417_1617_0001.0.jpg' width='700px' /><br/>
+A new report from the Government Accountability Office (GAO) has revealed near-total lack of accountability from federal agencies using facial recognition built by private companies, like Clearview AI.
+<a href='https://www.theverge.com/2021/6/29/22556068/federal-agencies-facial-recognition-report-privacy-security-oversight'> Source <a/>

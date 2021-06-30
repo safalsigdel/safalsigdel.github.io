@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z-PRZvzIHadptX-Xsfc2NCFQILc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69520297/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
+HBO Max is launching in 39 territories in Latin America and the Caribbean today, expanding the service outside the US and US territories for the first time.
+<a href='https://www.theverge.com/entertainment/2021/6/29/22556006/hbo-max-launches-in-39-international-markets-outside-us'> Source <a/>

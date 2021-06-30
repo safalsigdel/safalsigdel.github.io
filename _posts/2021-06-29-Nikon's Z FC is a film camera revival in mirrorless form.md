@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DlJ1HnA79l9KWeaHY6jd5eKUMjE=/0x0:2000x1333/1200x800/filters:focal(505x504:825x824)/cdn.vox-cdn.com/uploads/chorus_image/image/69517036/Zfc_USDD_TO_6573.0.jpg' width='700px' /><br/>
-Nikon is going all-in on the retro aesthetic with its latest Z-series mirrorless camera. The company says the new Z FC, officially styled “Z fc,” is designed specifically to evoke its FM2 film SLR from the ‘80s, with dedicated dials for settings like shutter speed, exposure compensation, and ISO.
-<a href='https://www.theverge.com/2021/6/29/22555091/nikon-z-fc-announced-price-specs-release-date'> Source <a/>

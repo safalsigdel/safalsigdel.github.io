@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JLFAJGP3hF9ZcT2W30GavoNo8vk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69517336/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
-Google is working to enhance the integrity of the Play Store by adding new restrictions and safeguards to developer accounts.
-<a href='https://www.theverge.com/2021/6/29/22555281/google-play-developer-information-verification-two-factor-authentication-2fa-scams'> Source <a/>

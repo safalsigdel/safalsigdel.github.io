@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0dK8SEMLj1P_4kjhBDn8z2fChGg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69521851/acastro_210429_1777_epicApple_0002.0.jpg' width='700px' /><br/>
+Apple isn't backing down from its hybrid work model that will require most employees to return to the office three days a week starting in early September. Fully remote positions will be extremely limited.
+<a href='https://www.theverge.com/2021/6/29/22556615/apple-response-hybrid-work-model-employee-letter-remote'> Source <a/>

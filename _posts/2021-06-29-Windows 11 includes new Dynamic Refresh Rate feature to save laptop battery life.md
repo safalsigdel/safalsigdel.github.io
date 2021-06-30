@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Bl0AaiQkSoDn_Hxd7K2SV1Lf8OY=/0x0:1486x836/1200x800/filters:focal(625x300:861x536)/cdn.vox-cdn.com/uploads/chorus_image/image/69517394/Windows_11_Generic_Laptop_Device_Render.0.jpg' width='700px' /><br/>
-Microsoft is introducing a new Dynamic Refresh Rate (DRR) feature in Windows 11 that's designed to save laptop battery life and boost refresh rates when they're really needed.
-<a href='https://www.theverge.com/2021/6/29/22555295/microsoft-windows-11-dynamic-refresh-rate-laptops'> Source <a/>

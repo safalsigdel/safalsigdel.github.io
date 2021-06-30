@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yC-0VMkZm30FMQwzkXHrSVGSbKA=/0x0:1870x946/1200x800/filters:focal(786x324:1084x622)/cdn.vox-cdn.com/uploads/chorus_image/image/69517403/google_food_support.5.jpg' width='700px' /><br/>
-Google announced a new website designed to be a “one-stop shop” for people with food insecurity. The “Find Food Support” site includes a food locator tool powered by Google Maps which people can use to search for their nearest food bank, food pantry, or school lunch program pickup site in their community.
-<a href='https://www.theverge.com/2021/6/29/22554819/google-find-food-support-food-insecurity-seach-tool'> Source <a/>

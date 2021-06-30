@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yD24dYzBNmbgpvaqNIxEm9fbAUk=/0x0:1030x672/1200x800/filters:focal(821x198:985x362)/cdn.vox-cdn.com/uploads/chorus_image/image/69516675/LG_Dolby_Vision_Gaming_02a.0.jpeg' width='700px' /><br/>
-With Dolby Vision gaming HDR technology available on Xbox Series X and Series S consoles, some TV owners have noticed that suddenly there's a new setting to worry over. While some HDMI 2.1-equipped 4K displays could handle 120Hz, and some can support Dolby Vision for gaming, at first there weren't any that could do both things at once.
-<a href='https://www.theverge.com/games/2021/6/28/22554939/lg-dolby-vision-hdr-xbox-c1-g1-4k'> Source <a/>

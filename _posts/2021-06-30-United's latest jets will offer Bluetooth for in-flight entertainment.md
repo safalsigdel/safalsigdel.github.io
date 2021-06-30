@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SWgJBzOvSQ089SsOYmXVCqOSxPI=/0x0:4000x2250/1200x800/filters:focal(1680x805:2320x1445)/cdn.vox-cdn.com/uploads/chorus_image/image/69521352/Interior_IFE_Rendering.0.jpeg' width='700px' /><br/>
+United Airlines is adding a long-awaited feature to the in-flight entertainment seatback screens of its new Boeing 737 Max 8 jets — support for Bluetooth headphones. The company is making the upgrade as part of “United Next”, a new plan to expand and modernize its fleet with what it says are larger, fuel-efficient jets and a more comfortable in-flight experience.
+<a href='https://www.theverge.com/2021/6/29/22556316/united-airline-bluetooth-in-flight-entertainment-new-jets'> Source <a/>

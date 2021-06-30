@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UwpMs-cbp1EWx6ndTCCEsXMDmrw=/0x0:1704x959/1200x800/filters:focal(716x344:988x616)/cdn.vox-cdn.com/uploads/chorus_image/image/69515343/abp.0.png' width='700px' /><br/>
-If the internet has looked a little empty to you over the last day or so, check to see if your browser is using AdBlock or Adblock Plus. According to several users, ad blockers have inadvertently wiped out the content they're looking for on a number of mainstream sites.
-<a href='https://www.theverge.com/2021/6/28/22554495/adblock-plus-filter-lists-wiki-reddit-twitter'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xk-DZDTHVV4ymDSTcNMvPShu2dE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69520406/jbareham_180213_2301_0077.0.jpg' width='700px' /><br/>
+Consumer Reports is restoring its “Top Pick” recommendation to the Tesla Model 3 after the Insurance Institute for Highway Safety (IIHS) released a new evaluation of the car's camera-based advanced driver assist system.
+<a href='https://www.theverge.com/2021/6/29/22555745/consumer-reports-tesla-vision-model-3-top-pick-iihs'> Source <a/>

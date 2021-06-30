@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0Vx39KM-D__WRO2fkS6Y_cemwDo=/0x0:1760x990/1200x800/filters:focal(740x355:1020x635)/cdn.vox-cdn.com/uploads/chorus_image/image/69516176/Zoomed_in_view_of_WXP_in_default_theme_in_SV.0.png' width='700px' /><br/>
-Microsoft is announcing that the next version of Office for Windows 11 will have a native 64-bit Arm version, for improved performance on large or picture-filled documents, and support for 64-bit add-ins. The new version of Office is currently in beta, available to Office Insiders.
-<a href='https://www.theverge.com/2021/6/28/22554676/microsoft-office-64-bit-arm-windows-11-beta-insider-redesign'> Source <a/>

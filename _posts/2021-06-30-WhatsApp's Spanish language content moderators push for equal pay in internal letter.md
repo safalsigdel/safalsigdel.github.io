@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8vbph6DfvdJqTZnQemFVhi8x0W4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69521542/acastro_210119_1777_whatsapp_0001.0.jpg' width='700px' /><br/>
+WhatsApp's Spanish language content moderators and customer service representatives are pushing the company for equal pay, according to an internal letter obtained by The Verge. They say they've been excluded from a $2 per hour premium paid to other bilingual contractors. The workers are employed by Accenture, a third-party contracting firm, in Austin, Texas.
+<a href='https://www.theverge.com/2021/6/29/22556436/whatsapp-spanish-language-content-moderators-contractor-equal-pay'> Source <a/>
