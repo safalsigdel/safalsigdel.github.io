@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MVQ2IbsRcdS6pO69YSF0hUo7hkc=/0x0:4000x2661/1200x800/filters:focal(1680x1011:2320x1651)/cdn.vox-cdn.com/uploads/chorus_image/image/69524862/1232766338.0.jpg' width='700px' /><br/>
+The World Health Organization released a guidance document outlining six key principles for the ethical use of artificial intelligence in health. Twenty experts spent two years developing the guidance, which marks the first consensus report on AI ethics in healthcare settings.
+<a href='https://www.theverge.com/2021/6/30/22557119/who-ethics-ai-healthcare'> Source <a/>
