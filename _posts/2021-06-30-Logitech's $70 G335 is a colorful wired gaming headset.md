@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pM50fvVmBxdGUQNmtl9DcgScAa4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69518823/g335.0.jpg' width='700px' /><br/>
-Logitech announced its new G335 wired gaming headset that's available for preorder now at $69.99. It's expected to ship in July. The G335 borrows several design elements from the $129.99 G733 wireless model released in 2020, including its expressive color options (as well as a new mint colorway), the comfortable bungee headband, breathable ear pads, and a volume dial built into one of its ear cups.
-<a href='https://www.theverge.com/2021/6/29/22555522/logitech-wired-g335-gaming-headset-features-price-release-date'> Source <a/>
