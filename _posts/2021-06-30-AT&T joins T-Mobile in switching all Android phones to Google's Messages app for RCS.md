@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ywo4GnQ937iLMVXu_LckqQAD700=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69524346/akrales_201012_4137_0117.0.0.jpg' width='700px' /><br/>
+AT&T and Google have announced that all Android phones on the network will use Google's Android Messages app for SMS and RCS services. T-Mobile made the exact same partnership deal with Google in March, which leaves Verizon as the only US carrier who hasn't committed to switching its customers to Android Messages by default.
+<a href='https://www.theverge.com/2021/6/30/22556686/att-android-phones-rcs-google-messages'> Source <a/>

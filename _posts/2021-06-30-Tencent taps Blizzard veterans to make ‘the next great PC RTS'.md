@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rbKj4TDJ-Y6Q_Cd6AvsB8kjGBKM=/0x0:1200x830/1200x800/filters:focal(504x319:696x511)/cdn.vox-cdn.com/uploads/chorus_image/image/69524341/PUBG_Mobile.0.jpg' width='700px' /><br/>
+Tencent's sprawling games empire just grew one studio bigger. Uncapped Games is a new Los Angeles-based studio led by Blizzard veterans Jason Hughes and David Kim. Hughes is serving as the studio's lead producer and has previously worked on Diablo III and IV, while Kim is its lead designer and has previously worked on StarCraft 2 and Diablo IV.
+<a href='https://www.theverge.com/2021/6/30/22557016/uncapped-games-tencent-studios-blizzard-jason-hughes-david-kim'> Source <a/>
