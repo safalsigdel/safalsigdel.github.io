@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YMczlw3vBr1EstDUNp7siqHuJJs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69519068/acastro_190530_1777_xbox_0002.0.0.jpg' width='700px' /><br/>
-On Monday, Microsoft finally delivered two long-in-the-works updates for its Xbox Cloud Gaming Service (xCloud) that could mark a sea change for the future of cloud gaming.
-<a href='https://www.theverge.com/2021/6/29/22555756/xbox-xcloud-cloud-gaming-pc-ios-next-big-moment'> Source <a/>

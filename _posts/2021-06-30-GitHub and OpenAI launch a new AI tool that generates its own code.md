@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5cz4UKh1jLh8xV99iz1WkbR66ts=/0x0:6720x4480/1200x800/filters:focal(1427x1677:2501x2751)/cdn.vox-cdn.com/uploads/chorus_image/image/69519599/GitHub___Day_1_Keynote_NatFriedman_1_.0.jpg' width='700px' /><br/>
-GitHub and OpenAI have launched a technical preview of a new AI tool called Copilot, which lives inside the Visual Studio Code editor and autocompletes code snippets.
-<a href='https://www.theverge.com/2021/6/29/22555777/github-openai-ai-tool-autocomplete-code'> Source <a/>
