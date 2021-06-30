@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Hyundai has officially completed its acquisition of Boston Dynamics, the creator of the internet's favorite dancing Spot and Atlas robots (which only occasionally look like dystopian nightmare machines). And to celebrate, the company is collaborating with K-pop sensation BTS on a new video that shows seven Spot robots grooving to the band's 2020 song “IONIQ: I'm On It.”
-<a href='https://www.theverge.com/2021/6/29/22555535/bts-k-pop-boston-dynamics-spot-robot-dancing-hyundai'> Source <a/>
