@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AzH88nsVp-u3IOTAfMaLvVGpBQc=/0x0:2048x1151/1200x800/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/69523828/ForAllDroneFlyers.0.png' width='700px' /><br/>
+Wing, the drone delivery arm of Google's parent company Alphabet, has launched a free app in the US to help pilots fly their drones legally. OpenSky has been available in Australia since 2019 but is now available for both commercial and recreational pilots in the US to use for anything from conducting commercial surveys to filming and photography. It's available now on both iOS and Android.
+<a href='https://www.theverge.com/2021/6/30/22557243/wing-opensky-drone-flight-app-faa-regulations-authorization-laanc'> Source <a/>
