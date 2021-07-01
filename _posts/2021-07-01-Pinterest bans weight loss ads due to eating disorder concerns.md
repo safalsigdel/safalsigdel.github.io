@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L75p-BhSlTW24u2aJChMYwEJinU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69529106/akrales_170802_1743_0198.0.jpg' width='700px' /><br/>
+Pinterest said Thursday it is updating its ad policies to “prohibit all ads with weight loss language and imagery.” The company said in a blog post that it developed its new policy with guidance from the National Eating Disorders Association (NEDA), whose research shows there has been a rise in eating disorders and unhealthy eating habits in young people during the pandemic.
+<a href='https://www.theverge.com/2021/7/1/22558960/pinterest-weight-loss-ads-ban-social-media'> Source <a/>
