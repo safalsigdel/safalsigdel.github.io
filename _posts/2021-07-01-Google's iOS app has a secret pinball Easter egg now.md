@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1Pm96ZhAYbNJUQwMlpMZt7rfwKw=/0x0:3360x2100/1200x800/filters:focal(1412x782:1948x1318)/cdn.vox-cdn.com/uploads/chorus_image/image/69528948/Google_pinball.0.png' width='700px' /><br/>
+The Google app on iOS appears to have gotten a new Easter egg: a rather entertaining little pinball app hidden away in the “Tabs” menu. The game appears to have been added a few weeks ago, as spotted by several YouTube videos and a Reddit post in the middle of June.
+<a href='https://www.theverge.com/2021/7/1/22558872/google-ios-app-secret-pinball-easter-egg-game'> Source <a/>
