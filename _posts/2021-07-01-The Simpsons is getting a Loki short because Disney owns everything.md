@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1odt-oCK1gs_0XdjZ0ws8fnx8EI=/0x0:4000x5000/1200x800/filters:focal(1743x494:2383x1134)/cdn.vox-cdn.com/uploads/chorus_image/image/69525317/image002__1_.0.jpg' width='700px' /><br/>
-Disney's IP has once again fully synergized with the arrival of a new Marvel-themed Simpsons short titled “The Good, The Bart, and The Loki.” Disney very much appears to be putting that $71 billion investment in IP from 21st Century Fox to work.
-<a href='https://www.theverge.com/2021/6/30/22557599/the-simpsons-loki-short-disney-plus'> Source <a/>
