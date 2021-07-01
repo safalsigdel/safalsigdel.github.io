@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AxKvmvrRDSMpmf2aRdj3oGHphFs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69525014/wjoel_180413_1777_android_002.0.jpg' width='700px' /><br/>
-Google has announced a big change for developers who want to list their apps on Google Play that could have an impact on the Android app ecosystem. Right now, the standard format for app publishing is the APK, but starting in August, Google will require that new Play apps are published instead using the Android App Bundle.
-<a href='https://www.theverge.com/2021/6/30/22557390/google-apk-app-bundles-package-format-play-store'> Source <a/>
