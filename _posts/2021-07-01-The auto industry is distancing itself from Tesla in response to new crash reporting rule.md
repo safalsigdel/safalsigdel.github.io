@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fQjoUXp4mhT8Si7bJcWoCnMSNE0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69524151/jbareham_180213_2301_0149.0.jpg' width='700px' /><br/>
-The auto industry is holding its fire — for now — over the new requirement to report crashes involving vehicles equipped with partially and fully autonomous driving systems. But automakers are also distancing themselves from the company that appears to be the primary target of the new rule: Tesla.
-<a href='https://www.theverge.com/2021/6/30/22557135/nhtsa-autonomous-adas-crash-rule-response-tesla'> Source <a/>
