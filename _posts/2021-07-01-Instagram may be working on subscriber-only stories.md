@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CCAGqDhpMk195yEeEePkLN5K1U0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69526530/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+Instagram appears to be exploring a new feature that shares some similarities with Twitter's Super Follows, according to TechCrunch. Called “Exclusive Stories,” the possible future feature, spotted by developer Alessandro Paluzzi, allows creators to post exclusive content to their Instagram story that's presumably only available to subscribers.
+<a href='https://www.theverge.com/2021/6/30/22557773/instagram-exclusive-stories-subscribers-twitter-super-follow'> Source <a/>

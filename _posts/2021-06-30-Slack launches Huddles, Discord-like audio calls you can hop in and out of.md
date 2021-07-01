@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6khr4nUMa_orRdB8M3N0IRkJIuY=/0x0:1400x1400/1200x675/filters:focal(588x588:812x812)/cdn.vox-cdn.com/uploads/chorus_image/image/69523703/SlackHuddlesSharingScreenStill.0.png' width='700px' /><br/>
-Slack is launching its new Huddles feature today, lightweight audio calls that you and your colleagues can jump in and out of while working. Born out of the pandemic, Slack Huddles are designed to replace those informal conversations you used to have with colleagues across desks. If you've ever used Discord, Slack Huddles is very similar, offering the ability to join or leave a persistent call freely at all hours.
-<a href='https://www.theverge.com/2021/6/30/22556992/slack-huddles-audio-calls-feature-launch-discord-like'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zzzFnmYWEy0DZT-zlprHO6_7ge4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69525329/acastro_180730_1777_facial_recognition_0002.0.jpg' width='700px' /><br/>
+The state of Maine now has the most stringent laws regulating government use of facial recognition in the country.
+<a href='https://www.theverge.com/2021/6/30/22557516/maine-facial-recognition-ban-state-law'> Source <a/>

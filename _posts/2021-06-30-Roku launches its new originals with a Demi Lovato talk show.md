@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qIU35dz8yNOkEAwEG0436veab5g=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/69521612/image002.0.jpg' width='700px' /><br/>
-The first of a dozen-plus Roku Originals to premiere on the Roku Channel will kick off July 30th with The Demi Lovato Show, a series that had originally been slated for a debut on Quibi.
-<a href='https://www.theverge.com/2021/6/29/22556495/roku-originals-demi-lovato-talk-show'> Source <a/>

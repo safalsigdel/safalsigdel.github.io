@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Kv9bIuCMeeYjBV3e949jVYnsMTU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69526953/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
+In March, Twitter said it would soon let you use a security key as your only two-factor authentication method, and on Wednesday, it announced that feature was live on both mobile and web.
+<a href='https://www.theverge.com/2021/6/30/22558238/twitter-physical-security-two-factor-authentication-2fa'> Source <a/>

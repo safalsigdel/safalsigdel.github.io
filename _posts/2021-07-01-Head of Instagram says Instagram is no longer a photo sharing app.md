@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KTQwEs4dRQLkCpgfwevvPRAZSRc=/0x0:3206x2032/1200x800/filters:focal(1347x760:1859x1272)/cdn.vox-cdn.com/uploads/chorus_image/image/69526528/Reels_IOSX_3.0.png' width='700px' /><br/>
+Instagram is no longer a photo sharing app, according to Adam Mosseri, the head of Instagram. In a video posted to his Instagram and Twitter accounts, Mosseri said the company is looking to lean into entertainment and video after seeing the success of competitors like TikTok and YouTube.
+<a href='https://www.theverge.com/2021/6/30/22557942/instagram-no-longer-photo-app-video-entertainment-focus'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ELZvhkgxoE_vWC5efMRwvcWQzfY=/0x0:1761x1174/1200x800/filters:focal(915x208:1195x488)/cdn.vox-cdn.com/uploads/chorus_image/image/69521038/1326124843.0.jpg' width='700px' /><br/>
-SpaceX's satellite internet network, Starlink, should have roughly 500,000 users within the next 12 months, Elon Musk said at the Mobile World Congress (MWC) conference on Tuesday. SpaceX's current goal, Musk said, is to beam broadband internet to most of the planet by August.
-<a href='https://www.theverge.com/2021/6/29/22556031/elon-musk-spacex-starlink-users-next-year-telecom-5g'> Source <a/>

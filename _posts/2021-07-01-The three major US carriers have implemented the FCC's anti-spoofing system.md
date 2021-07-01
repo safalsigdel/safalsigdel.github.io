@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ffEhRpZ8aZymttKMUzerk7JvbpY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69526155/DSCF2964.0.jpg' width='700px' /><br/>
+T-Mobile announced on Wednesday that it is fully compliant with the FCC's new anti-spoofing protocol, telling the FCC that its now certifying that calls from its network are protected against impersonation by scam callers using the STIR/SHAKEN protocol.
+<a href='https://www.theverge.com/2021/6/30/22557539/t-mobile-verizon-carriers-fcc-stir-shaken-certification-deadline-spam-calls'> Source <a/>

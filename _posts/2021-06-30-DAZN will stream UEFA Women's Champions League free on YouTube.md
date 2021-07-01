@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cyqnQZvuR8Z2l0O78lKN3J55abY=/0x0:4590x3090/1200x800/filters:focal(1908x896:2642x1630)/cdn.vox-cdn.com/uploads/chorus_image/image/69523412/1232664409.5.jpg' width='700px' /><br/>
-Sports streaming service DAZN announced today that it has acquired exclusive rights to stream the UEFA Women's Champions League. As part of the deal, an overwhelming majority of the matches it streams over the next four seasons will be available for free on its YouTube channel.
-<a href='https://www.theverge.com/2021/6/30/22556802/uefa-champions-league-stream-free-dazn-youtube'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Way back in 2005, Apple released Mac OS X Tiger, and with it, the original implementation of widgets on the Mac through its Dashboard software. One of those widgets was a now-defunct iTunes media player — but thanks to the efforts of programmer Mario Guzman, who's recreated an exact replica of the widget for modern Macs, you can once again enjoy your music in retro OS X style.
+<a href='https://www.theverge.com/tldr/2021/6/30/22557991/music-widget-mac-os-x-itunes-player-control-tiger-dashboard'> Source <a/>

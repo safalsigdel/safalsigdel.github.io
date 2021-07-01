@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j7Nzt3NL3d5lSOcKFnMu4wHYmOU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69521667/acastro_200331_1777_zoom_0003.0.0.jpg' width='700px' /><br/>
-Zoom has announced that it's acquiring a company known as Kites (short for Karlsruhe Information Technology Solutions), which has worked on creating real-time translation and transcription software. Zoom says the acquisition is a move to help it make communicating with people who speak different languages easier, and that it's looking to add translation capabilities to its video conferencing app.
-<a href='https://www.theverge.com/2021/6/29/22556500/zoom-kites-acquisition-machine-translation-real-time-captions'> Source <a/>

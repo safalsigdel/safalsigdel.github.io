@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w8mNIdwOMottfR1EucK27cLYqAw=/0x0:2560x1696/1200x0/filters:focal(0x0:2560x1696):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22690959/twarren__windows11main_1.jpg' width='700px' /><br/>
-Microsoft's first version of Windows appeared more than 35 years ago, marking what would become the most used operating system for personal computers. Windows has dominated my life and career for those past three decades, and yet it hasn't changed dramatically since the Start menu interface was introduced in Windows 95 (let's just pretend Windows 8 never happened).
-<a href='https://www.theverge.com/22557060/microsoft-windows-11-hands-on-preview'> Source <a/>

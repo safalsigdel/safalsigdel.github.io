@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nd3Hp05hNwkLefFbjzyZf6fewbo=/0x0:1800x1013/1200x675/filters:focal(756x363:1044x651)/cdn.vox-cdn.com/uploads/chorus_image/image/69523802/racer_trash_16x9.0.jpg' width='700px' /><br/>
-Like so many beautiful internet creations, Racer Trash started off as a joke. Last May, editor Alex T. Jacobs caught a double feature of Two-Lane Blacktop and Speed Racer on Ariel Gardner's Twitch stream. He typed in chat that he'd always wanted a vaporwave cut of Speed Racer, but that it would probably never happen. Forty-eight hours later, on Jacobs' birthday, his wish came true in the form of Speed Vapor, the first Racer Trash movie.
-<a href='https://www.theverge.com/22555946/racer-trash-punk-twitch-film-collective'> Source <a/>

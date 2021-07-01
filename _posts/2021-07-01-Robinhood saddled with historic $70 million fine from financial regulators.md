@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aGKEaIrIv35RdvuD6pyTsjkcm4c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69525585/acastro_210201_1777_robinhood_0003.0.jpg' width='700px' /><br/>
+The Financial Industry Regulatory Authority (FINRA) announced on Wednesday that it's fining Robinhood almost $70 million to settle charges over issues it identified with the company's stock trading service. The authority claims that the financial app company neglected its duty to supervise trades, maintain its own technology, and protect its customers. The fine is the largest in FINRA's history and Robinhood has agreed to pay.
+<a href='https://www.theverge.com/2021/6/30/22557419/robinhood-finra-fine-70-million'> Source <a/>

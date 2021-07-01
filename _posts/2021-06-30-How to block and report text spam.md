@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uvAlJbwoQeOb3kiPEaOQKI3_ayk=/0x0:1020x680/1200x800/filters:focal(429x259:591x421)/cdn.vox-cdn.com/uploads/chorus_image/image/69520155/texting_lumia.0.1437583471.0.jpg' width='700px' /><br/>
-Spam texts can be incredibly irritating — you get a notification and stop what you're doing to check your phone, only to find somebody is trying to sell you something you don't want. How can you prevent it?
-<a href='https://www.theverge.com/22555521/spam-text-block-security-iphone-android'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SA0_vnp4GCqyHBCPt7Bovgb15a4=/0x0:3000x2001/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/69525850/1232438982.0.jpg' width='700px' /><br/>
+Amazon is pushing back against Lina Khan, the newly confirmed chair of the Federal Trade Commission, by filing a recusal motion against the longtime antitrust advocate, as first reported by The Wall Street Journal. The petition asks Khan to restrict herself from any proceedings involving Amazon on the basis of her past statements about the company, including claims that Amazon is a monopoly and should be broken up.
+<a href='https://www.theverge.com/2021/6/30/22557456/amazon-lina-khan-recusal-petition-federal-trade-commission-antitrust'> Source <a/>

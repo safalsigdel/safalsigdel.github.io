@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ajirGokKPHovVUswVAADN51_pEI=/0x0:1600x1120/1200x800/filters:focal(672x432:928x688)/cdn.vox-cdn.com/uploads/chorus_image/image/69527265/_GD_BLOG__Covid_cards_1.0.png' width='700px' /><br/>
+Google is opening up Android's built-in passes system to let Android users store a digital vaccine card, which it calls a COVID Card, on their phone. The feature will initially roll out in the US, and it will rely on support from healthcare providers, local governments, or other organizations authorized to distribute COVID vaccines. The feature will also support storing COVID test results.
+<a href='https://www.theverge.com/2021/6/30/22558245/google-pay-covid-vaccination-card-android-digital-pass'> Source <a/>

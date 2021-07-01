@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YqhbH4We-5FNZzJXTmjsKZCg6Fg=/0x0:1666x1111/1200x800/filters:focal(700x423:966x689)/cdn.vox-cdn.com/uploads/chorus_image/image/69525848/revvl.0.jpg' width='700px' /><br/>
+The year of cheap 5G phones is upon us, and T-Mobile is offering its customers yet another low-cost 5G phone with today's announcement of the Revvl V Plus 5G. The T-Mobile-branded device will cost $199, with a huge 6.8-inch 1600 x 900 display and 5,000mAh battery. It'll go on sale first through Metro by T-Mobile starting on July 12th, with sales through T-Mobile starting on July 23rd.
+<a href='https://www.theverge.com/2021/6/30/22557433/t-mobile-revvl-v-5g-price-screen-specs-availability'> Source <a/>

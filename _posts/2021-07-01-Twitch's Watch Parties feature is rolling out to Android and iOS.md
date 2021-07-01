@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3Vtz4DtPS6DYs9GUElD352gDn_g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69525667/acastro_200901_1777_twitch_0001.0.5.jpg' width='700px' /><br/>
+Amazon-owned Twitch is rolling out its Watch Parties feature, which lets streamers host viewing parties for movies and TV shows on Amazon Prime, to Android and iOS, the company announced Wednesday. Watch Parties first launched on desktop web in September.
+<a href='https://www.theverge.com/2021/6/30/22557702/twitch-watch-parties-android-ios-mobile-amazon-prime-video'> Source <a/>

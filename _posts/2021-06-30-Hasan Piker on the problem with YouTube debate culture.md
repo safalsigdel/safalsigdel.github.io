@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0xPv7LVi3SRMdGhBvUHpygV39_k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69521066/acastro_210623_4645_0001.0.jpg' width='700px' /><br/>
-Last week, a pair of YouTube's most popular creators was set to spar in the marketplace of ideas in a debate over the government's simple, common sense advice to wear masks during a global pandemic to stop the persistent spread of COVID-19.
-<a href='https://www.theverge.com/22556239/hasan-piker-twitch-gore-vidal-steven-crowder-sam-seder-h3-podcast-ethan-klein'> Source <a/>
