@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mg0T7VF171i7AHzgHvps33JuYzE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69534633/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
+An internal survey designed by Apple employees shows respondents want the option to work from home and fear their colleagues may have to leave if the company forces people back to the office.
+<a href='https://www.theverge.com/2021/7/2/22560586/apple-hybrid-work-internal-survey-tim-cook'> Source <a/>
