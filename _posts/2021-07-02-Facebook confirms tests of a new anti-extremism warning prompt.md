@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ICew5pz8rlC46MdWvZ7B7SWYLtU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69533068/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
+Facebook is testing prompts that will link users to anti-extremism support and resources if the company believes the user knows someone who could be on the path to extremism, or if the user has been exposed to extremist content themselves, according to a report by CNN Business.
+<a href='https://www.theverge.com/2021/7/2/22560108/facebook-anti-extremism-prompt-user-resources-content-moderation'> Source <a/>
