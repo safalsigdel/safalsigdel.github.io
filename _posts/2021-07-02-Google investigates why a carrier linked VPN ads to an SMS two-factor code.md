@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yOO9NGcGg6X4AlNLWkDZ6EmtTsg=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69529652/VRG_4614_3_EmailTracking.0.jpg' width='700px' /><br/>
+Earlier this week, Australian developer Chris Lacy tweeted about a curious experience while logging into a rarely used Google account. When Google texted his two-factor authentication code, the message popped up along with an ad including a link for VPN services. Considering the downsides of phishing or malware distribution attached to a code that's specifically intended to keep your account secure, this didn't go over well.
+<a href='https://www.theverge.com/tech/2021/7/1/22558989/google-2fa-text-sms-spam-vpn-security-phishing'> Source <a/>

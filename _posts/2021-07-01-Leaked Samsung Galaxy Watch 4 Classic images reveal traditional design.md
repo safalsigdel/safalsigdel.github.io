@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PXrN2LXar2Pxx3iEbQ3QGqwtfRc=/0x0:1600x1066/1200x800/filters:focal(672x405:928x661)/cdn.vox-cdn.com/uploads/chorus_image/image/69528108/Samsung_Galaxy_Watch_4_Classic_AH_02_1420x799.0.jpg' width='700px' /><br/>
-Images of Samsung's Galaxy Watch 4 Classic have leaked online, giving us our first look at what could be the more traditionally-styled entry in Samsung's upcoming smartwatch lineup. The images, published by Android Headlines, show a smartwatch with a rotating bezel and two buttons on its right-hand side, available in white, gray, and black.
-<a href='https://www.theverge.com/2021/7/1/22558761/samsung-galaxy-watch-4-classic-smartwatch-news-rumors-features'> Source <a/>

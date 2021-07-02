@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/92VGdDdAtT8PohfSIOcuprC9QVw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69528477/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-TikToks are about to get longer. The app is now rolling out the ability for everyone to publish videos up to three minutes in length, three times the existing one-minute limit. The extension is meant to give creators more flexibility while filming and limit the need for multi-part posts — though I suspect creators love hooking users that way and will keep breaking up stories.
-<a href='https://www.theverge.com/2021/7/1/22558856/tiktok-videos-three-minutes-length'> Source <a/>

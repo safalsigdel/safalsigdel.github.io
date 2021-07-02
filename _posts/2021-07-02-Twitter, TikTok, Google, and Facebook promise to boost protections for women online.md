@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i2g4x9B3--YLRrBjPJZRRsW4WPw=/0x0:4895x3304/1200x800/filters:focal(2150x591:2932x1373)/cdn.vox-cdn.com/uploads/chorus_image/image/69529872/1058608390.0.jpg' width='700px' /><br/>
+At the UN Generation Equality Forum in Paris on Thursday Twitter, TikTok, Google, and Facebook committed to tackling online abuse and improving safety for women on their platforms. The pledge came following consultations with the World Wide Web Foundation (WWWF) over the past year, aimed at examining online gender-based violence and abuse.
+<a href='https://www.theverge.com/2021/7/1/22559115/twitter-tiktok-google-facebook-protect-women-abuse'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5NFrwjiR0o9k037TaYuLHHyN9D0=/0x0:1634x920/1200x800/filters:focal(687x330:947x590)/cdn.vox-cdn.com/uploads/chorus_image/image/69530050/image__11_.0.png' width='700px' /><br/>
+In an open meeting on Thursday, the Federal Trade Commission passed a pair of pivotal measures expanding its power to regulate anti-competitive business practices, setting the stage for a more aggressive enforcement approach from the embattled agency.
+<a href='https://www.theverge.com/2021/7/1/22559131/ftc-open-meeting-antitrust-chair-lina-khan-sherman-act-powers'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GUjNuSgE_mHM8GO-B6I4ma3RvJU=/0x0:1600x900/1200x0/filters:focal(0x0:1600x900):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22693702/51281763051_48114bdd53_h.jpeg' width='700px' /><br/>
+Sony and Sucker Punch's hit game Ghost of Tsushima is getting an enhanced director's cut edition for both the PS4 and PS5 that will include a new island to explore and all of the content that has been released so far for the original game. The upgraded game will be available on August 20th.
+<a href='https://www.theverge.com/2021/7/1/22559264/ghost-of-tsushima-directors-cut-sony-ps4-ps5-sucker-punch-iki-island'> Source <a/>

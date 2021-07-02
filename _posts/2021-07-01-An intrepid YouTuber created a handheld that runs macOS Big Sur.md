@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tAq5R5_LB2iKBDwsY4uGgEpfbJE=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69526151/big_sur.0.png' width='700px' /><br/>
-Have you ever been using a recently updated Mac computer and thought, “Man, I would love to use this operating system with a really tiny keyboard and a really tiny screen?” Okay, me neither, but I certainly would love the opportunity to carry a MacBook around in my pocket and whip it out on command.
-<a href='https://www.theverge.com/2021/6/30/22557725/handheld-pc-macos-big-sur-diy-youtube-video-iketsj'> Source <a/>

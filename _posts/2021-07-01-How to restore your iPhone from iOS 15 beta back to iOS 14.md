@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MW-qC7Ar9Cj28mYE6UkuGhwj-y8=/0x0:1984x1338/1200x800/filters:focal(834x511:1150x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69526532/Apple_iPhone12Pro_iOS15_3up_060721.0.jpg' width='700px' /><br/>
-Beta versions of new software are great to try out, but sometimes you realize that they're not so good for day-to-day usage. If you've upgraded your iPhone to the iOS 15 beta, which is now available to the public, and you realize that you need to go back to the stable world of iOS 14.6, you can do that.
-<a href='https://www.theverge.com/22557790/ios-beta-install-restore-iphone'> Source <a/>

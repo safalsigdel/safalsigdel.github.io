@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vxVEHCVWlt5EzoV3HddngVZLgrg=/0x0:5100x2868/1200x800/filters:focal(2142x1026:2958x1842)/cdn.vox-cdn.com/uploads/chorus_image/image/69526482/283695_Volvo_Concept_Recharge.0.jpg' width='700px' /><br/>
-Volvo unveiled a new concept car that forecasts the Swedish automaker's all-electric future.   The vehicle was revealed during a “Tech Day” event held Wednesday during which Volvo laid out an extensive roadmap to becoming an EV-only carmaker by 2030.
-<a href='https://www.theverge.com/2021/6/30/22557900/volvo-ev-concept-recharge-electric-battery-range'> Source <a/>
