@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xFnKDYrcoJlJRA0w0I1Lph6NP3k=/0x0:1000x601/1200x800/filters:focal(420x221:580x381)/cdn.vox-cdn.com/uploads/chorus_image/image/69535992/peacock.0.png' width='700px' /><br/>
+NBCUniversal's streaming service Peacock will stream every remaining 2021 Stanley Cup Final match, just as the service's parent company will stream the games on broadcast NBC.
+<a href='https://www.theverge.com/2021/7/2/22561251/peacock-premier-2021-stanley-cup-games'> Source <a/>
