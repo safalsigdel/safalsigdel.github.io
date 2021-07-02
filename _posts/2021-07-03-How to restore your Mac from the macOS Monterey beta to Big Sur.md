@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zP1QUPZPjdsW1cGoFc9n717mhf4=/0x0:2000x1125/1200x800/filters:focal(786x596:1106x916)/cdn.vox-cdn.com/uploads/chorus_image/image/69530608/lcimg_71a6f738_86b9_4aed_a194_067e8224a6d4.0.jpg' width='700px' /><br/>
-If you downloaded and installed the macOS Monterey public beta, there's a chance that you may want to return to Big Sur, which is currently the stable macOS version. There are a couple of different ways to restore your Mac's original software; which one you should follow depends on how you installed the beta.
-<a href='https://www.theverge.com/22559110/macos-monterey-beta-restore-macbook-pro-air-imac-mac-mini'> Source <a/>
