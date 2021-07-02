@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/95nmYONgH0KMBRAOkoAX76fihbY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69528941/vpavic_200929_4216_0128.0.jpg' width='700px' /><br/>
-Apple has now released public betas for iOS 15, iPadOS 15, watchOS 8, tvOS 15, and macOS Monterey. We've covered how to get the iOS 15 and iPadOS 15 betas here — follow along below if you're interested in testing out the latest Apple Watch software, too.
-<a href='https://www.theverge.com/22558944/watchos-beta-install-how-to'> Source <a/>
