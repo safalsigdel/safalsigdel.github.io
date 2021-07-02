@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/moE0sPtFfaJ75qUXh6R2MsPwjdk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69535024/bfarsace_4481_20210317_0063_Edit.0.jpg' width='700px' /><br/>
+Following last month's announcement that OnePlus was integrating with Oppo, effectively becoming a sub-brand of the phone manufacturer, the company announced on Friday that it's also merging OxygenOS with Oppo's ColorOS operating system (via 9to5Google).
+<a href='https://www.theverge.com/2021/7/2/22560765/oneplus-oxygenos-coloros-oppo-android-updates'> Source <a/>

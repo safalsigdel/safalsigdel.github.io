@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iKB8fJbz61DNwfyt0IVJZjHbfRk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69530098/mchin_210701_4658_0001.0.jpg' width='700px' /><br/>
-The public beta of macOS 12 Monterey, Apple's next big macOS release, is now available for download. The operating system has the same general look and feel as its predecessor, macOS 11 Big Sur, but it brings some new features and a number of tweaks to Apple's most popular services.
-<a href='https://www.theverge.com/2021/7/1/22557880/apple-macos-public-beta-facetime-safari-updates'> Source <a/>
