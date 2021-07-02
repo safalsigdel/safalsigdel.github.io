@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X5isCvEGOTz1iKIYjJYRhwLFVTw=/0x0:2560x1292/1200x800/filters:focal(1076x442:1484x850)/cdn.vox-cdn.com/uploads/chorus_image/image/69531104/Screen_Shot_2021_07_01_at_3.24.37_PM.0.png' width='700px' /><br/>
+Apple's iOS 15 is now available in public beta, which means that today you can try out all the biggest features coming to the iPhone this fall. That includes Live Text, the most technically impressive feature in the update, which allows you to pull text, email addresses, phone numbers, and more from pictures.
+<a href='https://www.theverge.com/22559167/ios-15-live-text-feature-how-to'> Source <a/>

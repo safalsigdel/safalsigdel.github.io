@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/acSRiL1daqU6Ck5ogaUzuQXMPxU=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/69531789/windows11bsod.0.jpg' width='700px' /><br/>
+Microsoft is changing its famous Blue Screen of Death (BSOD) to black in Windows 11. The software giant started testing its new design changes in a Windows 11 preview earlier this week, but the Black Screen of Death isn't fully enabled yet. The Verge understands Microsoft will be switching to a Black Screen of Death for Windows 11, matching the new black logon and shutdown screens.
+<a href='https://www.theverge.com/2021/7/1/22559852/microsoft-windows-11-black-blue-screen-of-death-bsod-change'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/42PlMiC_taOhdnTOD5kBzFYoP0k=/0x0:3036x2277/1200x800/filters:focal(1089x924:1573x1408)/cdn.vox-cdn.com/uploads/chorus_image/image/69531621/IMG_20171003_180359.0.jpg' width='700px' /><br/>
+Apple is reportedly working on a program called “Retail Flex,” which will give its store employees the chance to work from home some weeks, according to Bloomberg's Mark Gurman. According to the report, the employees would be remotely handling things like tech support and online sales part of the time, and working at the store as usual at other times.
+<a href='https://www.theverge.com/2021/7/1/22559713/apple-retail-flex-work-from-home-store-employees'> Source <a/>

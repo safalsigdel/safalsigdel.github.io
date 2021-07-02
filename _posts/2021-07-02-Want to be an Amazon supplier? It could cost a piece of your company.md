@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/3aObmy5Gjvbd0IvISSaINtJJ7hQ=/0x0:5680x3787/1200x800/filters:focal(2996x2231:3904x3139)/cdn.vox-cdn.com/uploads/chorus_image/image/69530301/1233493336.0.jpg' width='700px' /><br/>
 Amazon demands that suppliers let it buy up to 30 percent of their company at a fixed rate often below market valuation, according to a Wall Street Journal report.
+<a href='https://www.theverge.com/2021/7/1/22559147/amazon-equity-warrants-suppliers-discount'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/3aObmy5Gjvbd0IvISSaINtJJ7hQ=/0x0:5680x3787/1200x800/filters:focal(2996x2231:3904x3139)/cdn.vox-cdn.com/uploads/chorus_image/image/69530301/1233493336.0.jpg' width='700px' /><br/>
+Amazon demands that suppliers let it buy up to 30 percent of their company at a fixed rate often below market valuation, according to a Wall Street Journal report.
 <a href='https://www.theverge.com/2021/7/1/22559147/amazon-equity-warrants-suppliers-discount'> Source <a/>

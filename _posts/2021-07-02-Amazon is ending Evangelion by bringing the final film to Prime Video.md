@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6l-tKD0TSGAxmCemTZxLX3NYhzc=/0x820:1920x1861/1200x800/filters:focal(584x1201:890x1507)/cdn.vox-cdn.com/uploads/chorus_image/image/69531325/EVANGELION_3.0_1.01_THRICE_UPON_A_TIME.0.jpeg' width='700px' /><br/>
+Amazon is bringing the conclusion to the Rebuild of Evangelion film series — adaptations of the beloved anime Neon Genesis Evangelion created by Hideaki Anno — to Prime Video on August 13th. Evangelion: 3.0 + 1.01 Thrice Upon a Time came out in Japan in March but will be making its global premiere on Prime Video in over 240 countries and territories, Amazon says.
+<a href='https://www.theverge.com/2021/7/1/22559498/amazon-prime-video-evangelion-rebuild-us-streaming-release'> Source <a/>
