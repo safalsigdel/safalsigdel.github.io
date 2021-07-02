@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E_nsX-2UajYKP79cpvaw_ZJeRFM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69531555/DSCF3875_2.0.jpg' width='700px' /><br/>
-The next big software update for Apple TV will arrive with tvOS 15. While it won't become widely available until later this year, users who are part of Apple's public beta program can now take it for a spin ahead of time. It's possible and even likely that Apple will continue tinkering with tvOS 15 features ahead of its official launch, but particularly for those looking to test-drive Apple's forthcoming SharePlay feature, the public beta has officially landed.
-<a href='https://www.theverge.com/22559665/tvos-15-beta-apple-tv-how-to-install'> Source <a/>

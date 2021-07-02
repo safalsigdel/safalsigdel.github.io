@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qSIBNOwufEkcugs4LDEY2ywq5aM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69534380/acastro_210104_1777_google_0001.0.jpg' width='700px' /><br/>
+Google's latest diversity report shows that despite some gains in the number of Black employees, the company is lagging in its goal to double the number of Black workers by 2025. And the search giant is having particular difficulty retaining women of color, the report released Thursday (pdf) shows.
+<a href='https://www.theverge.com/2021/7/2/22560628/google-diversity-report-departures-black-women'> Source <a/>
