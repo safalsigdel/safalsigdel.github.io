@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o0gaNUM4B1PfEy01V2oMtTRBLfk=/0x0:5327x3398/1200x800/filters:focal(2238x1273:3090x2125)/cdn.vox-cdn.com/uploads/chorus_image/image/69535146/1321540122.0.jpg' width='700px' /><br/>
+The US Federal Trade Commission has sued chip maker Broadcom for allegedly abusing a monopoly on semiconductor components. A newly issued complaint accuses Broadcom of threatening to charge higher prices, refuse technical support, or cut off chip sales if its customers bought other products from competing companies.
+<a href='https://www.theverge.com/2021/7/2/22560905/ftc-broadband-antitrust-violation-set-top-box-chips'> Source <a/>
