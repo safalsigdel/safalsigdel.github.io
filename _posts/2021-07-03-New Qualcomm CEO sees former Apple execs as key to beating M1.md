@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xTVJX74owFSLs9ca9vFtYeYMnkw=/0x0:480x286/1200x800/filters:focal(202x105:278x181)/cdn.vox-cdn.com/uploads/chorus_image/image/69535460/ca_mwc.0.png' width='700px' /><br/>
+Qualcomm's new CEO, Cristiano Amon, has big plans for competing with Apple when it comes to laptop performance, thanks to the ex-Apple employees Qualcomm brought on when it acquired Nuvia earlier this year. He told Reuters that he believes Qualcomm could make the world's best processor, which would require designing a chip better than Apple's M1.
+<a href='https://www.theverge.com/2021/7/2/22560967/qualcomm-apple-cristiano-amon-nuvia-laptop-processors'> Source <a/>
