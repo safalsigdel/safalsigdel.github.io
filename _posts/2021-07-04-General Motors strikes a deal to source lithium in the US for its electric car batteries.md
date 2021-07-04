@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RubljD9jaWxR7sP2UYfs3O6m2CQ=/0x0:5407x3603/1200x800/filters:focal(2272x1370:3136x2234)/cdn.vox-cdn.com/uploads/chorus_image/image/69533513/1231148258.0.jpg' width='700px' /><br/>
-General Motors has struck a deal with a mining company to source lithium, a key ingredient in electric-car batteries, from geothermal deposits in the US. The automaker is making a “multi-million dollar” investment in Australia's Controlled Thermal Resources (CTR) to bolster the mining firm's efforts to extract lithium from California's Salton Sea Geothermal Field.
-<a href='https://www.theverge.com/2021/7/2/22559718/gm-lithium-ctr-ev-battery-investment-salton-sea'> Source <a/>
