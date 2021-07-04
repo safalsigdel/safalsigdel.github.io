@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Eg24sv69ZrlMQ-kVGn17jN0yIcI=/0x0:4000x2667/1200x800/filters:focal(1190x978:1830x1618)/cdn.vox-cdn.com/uploads/chorus_image/image/69539987/533645962.0.jpg' width='700px' /><br/>
+The Cyberspace Administration of China (CAC) has ordered app stores to remove Didi Chuxing's app, claiming the ride-hailing company had been illegally collecting users' personal data (via Reuters). The regulator said it had ordered the company to make updates to put it in compliance with China's data protection rules, but didn't elaborate on what the violations may have involved.
+<a href='https://www.theverge.com/2021/7/4/22562912/china-regulator-orders-didi-ride-hailing-app-removed'> Source <a/>

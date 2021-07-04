@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xxv7pyU7KEybf3HK3F9VaIJ940A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69533144/acastro_180406_1777_facebook_Congress_0001.0.jpg' width='700px' /><br/>
-A bipartisan group of lawmakers have asked that the FTC continue its antitrust lawsuit against Facebook after setbacks in court. Senators Amy Klobuchar (D-MN) and Mike Lee (R-UT), together with House representatives David Cicilline (D-RI) and Ken Buck (R-CO), signed a letter addressed to FTC Chair Lina Khan detailing why the regulatory action is needed.
-<a href='https://www.theverge.com/2021/7/2/22559549/lawmakers-tell-ftc-to-continue-facebook-antitrust-lawsuit'> Source <a/>
