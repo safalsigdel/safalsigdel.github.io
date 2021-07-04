@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nEHThNnkAGTGvMq3rMaBBeCjJGU=/0x0:2560x1707/1200x800/filters:focal(1076x650:1484x1058)/cdn.vox-cdn.com/uploads/chorus_image/image/69539925/i_s6hBWf5_X5.0.jpeg' width='700px' /><br/>
+Games Done Quick's weeklong summer speedrunning event for charity begins on Sunday, and looks to have a whole bunch of good runs to look forward to. Things kick off for Summer Games Done Quick (SGDQ) Online 2021 at 12PM ET on the Games Done Quick Twitch channel.
+<a href='https://www.theverge.com/2021/7/4/22561036/summer-games-done-quick-sgdq-2021-speedrunning-marathon-online'> Source <a/>
