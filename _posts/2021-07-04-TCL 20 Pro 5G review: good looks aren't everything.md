@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hH2kSCxneXCa_L94o3NFsSIElmg=/0x0:2040x1360/1200x675/filters:focal(854x568:1180x894)/cdn.vox-cdn.com/uploads/chorus_image/image/69540068/ajohnson_210630_4655_0005.0.jpg' width='700px' /><br/>
+The TCL 20 Pro 5G is a good-looking budget phone that works out some of the first-gen kinks we encountered in the 10 Pro, but it isn't quite ready to take on the category heavyweights.
+<a href='https://www.theverge.com/22560849/tcl-20-pro-5g-review-screen-battery-price-specs'> Source <a/>
