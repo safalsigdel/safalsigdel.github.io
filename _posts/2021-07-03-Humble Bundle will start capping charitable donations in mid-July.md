@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k0TtDZYgmKJKddDMccUrEHj6U5k=/0x0:2688x2268/1200x800/filters:focal(1129x919:1559x1349)/cdn.vox-cdn.com/uploads/chorus_image/image/69532332/Screen_Shot_2021_07_01_at_3.32.42_PM.0.png' width='700px' /><br/>
-Humble Bundle has announced that it's going to change how payment sliders will work in its storefront by removing the ability to donate all of what you spend to charity and setting an average minimum cut for Humble Bundle itself between 15 to 30 percent (via Kotaku). The change goes into effect in “mid-July.”
-<a href='https://www.theverge.com/2021/7/1/22559894/humble-bundle-payment-sliders-100-percent-donations'> Source <a/>
