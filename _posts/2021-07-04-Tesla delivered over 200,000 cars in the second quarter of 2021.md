@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fPfI1BJP3DfI_KSX2x4-Z2jPDoo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69533800/jbareham_180213_2301_0168.0.jpg' width='700px' /><br/>
-Tesla delivered 201,250 vehicles in the second quarter of 2021, a record for the company but still falling slightly short of Wall Street expectations. Elon Musk's company also produced 206,421 vehicles during the same period.
-<a href='https://www.theverge.com/2021/7/2/22560608/tesla-q2-2021-deliveries-elon-musk'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TroQpfLnazIlIA2Rvx6JkEZ95_c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69540386/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
+Several verified profile pages on Gettr, the new social media platform from Jason Miller, once an advisor to former President Trump, were apparently hacked and defaced briefly on Sunday (via Insider).
+<a href='https://www.theverge.com/2021/7/4/22563026/former-trump-gettr-platform-hacked-social-jason-miller'> Source <a/>
