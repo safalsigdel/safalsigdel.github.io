@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5LZSW0nBK2yJMhAUMDcPfncRG3s=/0x0:2040x1530/1200x675/filters:focal(708x1046:1034x1372)/cdn.vox-cdn.com/uploads/chorus_image/image/69541839/verge_IMG_6863_2040pxl.0.jpg' width='700px' /><br/>
+“This is not a car, this is different” is how Lynk & Co, a company spawned by Volvo and Geely, is positioning the launch of its 01 plug-in hybrid, a compact SUV built from the ground up to share. The more you share its digital key the less you pay each month, possibly even turning a profit.
+<a href='https://www.theverge.com/22557411/lynk-co-01-cheaper-as-you-share-volvo-geely-price-date'> Source <a/>
