@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Mf5Xhe2uNObM6xW4W1mc9ckhwHI=/0x0:4144x2758/1200x800/filters:focal(1921x934:2583x1596)/cdn.vox-cdn.com/uploads/chorus_image/image/69543424/1233762251.0.jpg' width='700px' /><br/>
+A new letter from a tech industry group is driving home the risks of Hong Kong's proposed anti-doxxing rules.
+<a href='https://www.theverge.com/2021/7/5/22564091/hong-kong-apple-google-facebook-anti-doxxing-amendments-letter'> Source <a/>
