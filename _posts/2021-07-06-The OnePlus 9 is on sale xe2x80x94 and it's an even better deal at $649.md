@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8fsgKvxHZ8en6CmHTrEqYrav6Gs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69543227/bfarsace_4481_20210317_0070_Edit.0.jpg' width='700px' /><br/>
+The OnePlus' latest flagship phones are marked down at several retailers, as spotted by Android Police, bringing the normally $729 OnePlus 9 down to $649 and the OnePlus 9 Pro (usually $1069) to $969. We think that the more basic 9 is already the better buy than the 9 Pro for most people, and the extra $80 off the retail price makes it an even sweeter deal.
+<a href='https://www.theverge.com/2021/7/5/22564077/oneplus-9-pro-sale-price-screen-specs'> Source <a/>
