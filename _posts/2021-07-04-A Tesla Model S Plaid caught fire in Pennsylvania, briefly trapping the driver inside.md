@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7KdkuKElJ1wewuknCjeVupaxRc8=/0x0:1536x2048/1200x800/filters:focal(402x600:646x844)/cdn.vox-cdn.com/uploads/chorus_image/image/69534232/E5ObJckVoAMsr4n.0.jpeg' width='700px' /><br/>
-A high-end Tesla Model S Plaid caught fire Tuesday night in Haverford, Pennsylvania, briefly trapping the driver inside, according to the local fire department. A lawyer for the owner said the vehicle “spontaneously combusted.”
-<a href='https://www.theverge.com/2021/7/2/22560662/tesla-model-s-plaid-fire-driver-battery-pennsylvania'> Source <a/>
