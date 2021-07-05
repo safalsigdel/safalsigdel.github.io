@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qbqXvrA6BTT3FIM5H20leGgzLi4=/0x0:2478x1404/1200x800/filters:focal(1041x504:1437x900)/cdn.vox-cdn.com/uploads/chorus_image/image/69541871/microsoft_store_windows_11_1.0.jpg' width='700px' /><br/>
+Microsoft's dysfunctional app store for Windows, the Microsoft Store, is finally improving under Windows 11. While there's a UI overhaul and some speed improvements, the key change is allowing more apps into the store. In just the past week alone, some popular apps have started to appear in the Microsoft Store on Windows 11, making it more useful than before.
+<a href='https://www.theverge.com/2021/7/5/22563638/microsoft-windows-11-app-store-microsoft-store-apps-desktop-win32'> Source <a/>
