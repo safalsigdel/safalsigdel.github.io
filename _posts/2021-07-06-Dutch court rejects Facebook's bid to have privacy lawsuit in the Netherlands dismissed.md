@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aMh_wtZLqOpfbkMN3-e-0EzrXQ0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69538141/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
-A court in Amsterdam ruled that privacy litigation against Facebook in the Netherlands can proceed, rejecting the social network's bid to have the lawsuit from two non-profit groups thrown out.
-<a href='https://www.theverge.com/2021/7/3/22561949/dutch-court-rejects-facebook-privacy-lawsuit-netherlands'> Source <a/>
