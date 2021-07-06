@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wx49NEZwtFbBPUvl_4W_gaViUio=/0x0:960x1200/1200x800/filters:focal(529x177:681x329)/cdn.vox-cdn.com/uploads/chorus_image/image/69536150/201511914_4704883842896338_5865721692059119911_n.0.jpeg' width='700px' /><br/>
-A California Highway Patrol officer stopped a Toyota Prius on Friday that had what looks like a Starlink dish fastened to its hood, the agency said in a Facebook post. The “visual obstruction,” sitting right smack in the middle of the car's hood, landed the driver a ticket.
-<a href='https://www.theverge.com/2021/7/2/22561264/california-driver-ticket-spacex-starlink-antenna'> Source <a/>
