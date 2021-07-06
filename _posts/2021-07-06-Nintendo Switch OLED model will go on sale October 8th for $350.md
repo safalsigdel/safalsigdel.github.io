@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RYZOq84P8pBcSphgcUD-oZw89A0=/0x0:1130x642/1200x800/filters:focal(475x231:655x411)/cdn.vox-cdn.com/uploads/chorus_image/image/69545213/Screen_Shot_2021_07_06_at_9.05.23_AM.0.png' width='700px' /><br/>
+Nintendo is announcing a new Switch model today with a larger 7-inch 720P OLED display. This new model uses an upgraded chip from Nvidia, allowing the handheld to output at 4K when connected to a TV. The Switch (OLED model) will go on sale for $350 starting on October 8th.
+<a href='https://www.theverge.com/2021/7/6/22456337/nintendo-switch-oled-model-specs-date-price'> Source <a/>
