@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eCf_Ujp-eXbEGgrA-5IDG_75Na4=/0x0:5410x3596/1200x800/filters:focal(2273x1366:3137x2230)/cdn.vox-cdn.com/uploads/chorus_image/image/69537634/1311709601.0.jpg' width='700px' /><br/>
-The Boring Company, Elon Musk's tunneling venture, pitched an underground transit system to Fort Lauderdale, Florida, the town's mayor said in a tweet. It's the latest city to become transfixed by Musk's quixotic “Tesla in a tunnel” concept.
-<a href='https://www.theverge.com/2021/7/3/22559166/elon-musk-boring-company-fort-lauderdale-loop'> Source <a/>

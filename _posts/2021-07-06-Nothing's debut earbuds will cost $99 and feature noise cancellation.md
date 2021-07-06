@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IEt0EIDnXoJCEV_e_smx13lrgEc=/0x0:7680x5086/1200x800/filters:focal(3226x1929:4454x3157)/cdn.vox-cdn.com/uploads/chorus_image/image/69544931/Nothing_Design_Concept_1___UNDER_EMBARGO_UNTIL_11_AM_GMT_9_MARCH_2021__1_.0.png' width='700px' /><br/>
+Nothing's debut earbuds, the Nothing Ear (1), will cost $99 / xe2x82xac99 / xc2xa399 and will feature active noise cancellation (ANC), the company's founder Carl Pei has told TechCrunch. Each earbud will be equipped with three mics to enable ANC, the company says, and will be released initially in the UK, India, Europe, and North America following their announcement on July 27th.
+<a href='https://www.theverge.com/2021/7/6/22564819/nothing-earbuds-price-noise-cancellation-anc'> Source <a/>
