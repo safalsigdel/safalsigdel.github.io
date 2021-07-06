@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j3U79SgmXwOk9LNN2cp-8VbfZO8=/0x0:1000x601/1200x800/filters:focal(420x221:580x381)/cdn.vox-cdn.com/uploads/chorus_image/image/69547839/peacock.0.png' width='700px' /><br/>
+Beginning next year, Universal theatrical releases will head to Peacock as exclusives no later than four months after they premiere in cinemas — a clear bid to win over subscribers who may have missed the studio's flicks on the silver screen.
+<a href='https://www.theverge.com/2021/7/6/22565702/universal-dreamworks-peacock-theatrical-releases'> Source <a/>
