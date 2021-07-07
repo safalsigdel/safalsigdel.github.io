@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O1jgEsEklM0VkgE6P5WrgR2li5A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69543357/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
-Three days after ransomware attackers started the holiday weekend by compromising Kaseya VSA, we have a clearer idea of how widespread the impact has been. In a new ransom demand, the attackers claim to have compromised more than 1 million computers, and demand $70 million to decrypt the affected devices.
-<a href='https://www.theverge.com/2021/7/5/22564054/ransomware-revil-kaseya-coop'> Source <a/>

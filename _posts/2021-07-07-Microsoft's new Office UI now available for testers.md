@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KX3UomSYW_PNacEd1k0Eo22Yzls=/0x0:1760x990/1200x800/filters:focal(740x355:1020x635)/cdn.vox-cdn.com/uploads/chorus_image/image/69550147/Zoomed_in_view_of_WXP_in_default_theme_in_SV.0.png' width='700px' /><br/>
+Microsoft has started testing its new Office design today. The software maker originally teased its design changes to Office last year before revealing last month that Office's new UI is designed to match the redesigned Windows 11 operating system. Office Insiders can now access the new UI for testing before it's available to all Microsoft 365 users later this year.
+<a href='https://www.theverge.com/2021/7/7/22565676/microsoft-new-office-ui-rounded-insiders-testing'> Source <a/>
