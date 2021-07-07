@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t2w9apytI6ztRPB4wlhNgVR3vpI=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69541769/DSCF7720_2.0.jpeg' width='700px' /><br/>
-Xiaomi's Mi 11 Ultra is finally going on sale in India in limited quantities. The company had announced its latest flagship smartphone all the way back in March, but it's been near-impossible to buy one outside of China ever since. The phone sold out instantly in the UK in May, suggesting very limited stock, and last month Xiaomi said the Indian launch would be delayed “due to circumstances beyond our control.”
-<a href='https://www.theverge.com/2021/7/5/22563584/xiaomi-mi-11-ultra-release-date-sale-price-india'> Source <a/>

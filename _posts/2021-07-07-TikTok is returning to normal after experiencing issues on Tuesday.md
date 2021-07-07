@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/TwJOpgzxuEhqcuUj4OZ9gEQn88A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69547918/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
-The TikTok app is currently “experiencing some issues,” according to the app's support account on Twitter. The app's team is “working quickly to address” the problems.
+The TikTok app “should be returning to normal” after it experienced issues on Tuesday, according to the app's support account on Twitter.
 <a href='https://www.theverge.com/2021/7/6/22565752/tiktok-app-down-outage-issues'> Source <a/>
