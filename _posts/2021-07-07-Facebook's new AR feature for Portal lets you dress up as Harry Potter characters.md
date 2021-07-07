@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/78T0eANb7e3qb6Ty-jZko8-KcvA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69551538/CD21_427_Harry_Potter_Portal_Tech_Blog_Header.0.jpeg' width='700px' /><br/>
+Facebook's Portal video calling device is getting a Harry Potter and the Cursed Child crossover that lets you and up to three friends dress up as characters from the play using augmented reality technology.
+<a href='https://www.theverge.com/2021/7/7/22566878/facebook-ar-harry-potter-cursed-child-characters'> Source <a/>
