@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K7WrFwarR6pinJNqUrOSIjjtIDY=/0x0:1800x1200/1200x800/filters:focal(756x456:1044x744)/cdn.vox-cdn.com/uploads/chorus_image/image/69549748/Untitled_2.0.jpg' width='700px' /><br/>
+At least in many of the corners of the internet I've been reading all day, the response to the OLED Nintendo Switch has not been all that positive. It's no surprise, really — credible reporting had suggested a more powerful model with 4K output, but the final product features the same internals as the current Switch. If you prefer to play Nintendo games on your TV, the new version's bigger OLED screen isn't going to do anything for you.
+<a href='https://www.theverge.com/2021/7/7/22566479/oled-nintendo-switch-vs-lite-screen-size'> Source <a/>

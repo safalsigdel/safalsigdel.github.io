@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/msPoHygD9MZvZ9ZvZ7bQPGGjXP8=/0x0:4807x3127/1200x800/filters:focal(2020x1180:2788x1948)/cdn.vox-cdn.com/uploads/chorus_image/image/69546955/1223814797.0.jpg' width='700px' /><br/>
+The US Defense Department has canceled the $10 billion JEDI cloud computing project it awarded to Microsoft in 2019, saying the controversial program's design “no longer meets its needs.” The department will replace JEDI with another cloud infrastructure contract and plans to solicit bids from Microsoft as well as Amazon — which sued over losing the original contract.
+<a href='https://www.theverge.com/2021/7/6/22565281/pentagon-microsoft-jedi-amazon'> Source <a/>

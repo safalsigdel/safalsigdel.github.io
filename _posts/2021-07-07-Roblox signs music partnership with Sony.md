@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x7cXojNm9U0lCTuC7b9k82MrmR4=/0x0:1920x1080/1200x800/filters:focal(716x216:1022x522)/cdn.vox-cdn.com/uploads/chorus_image/image/69546547/LNX_Concert_Old_Town_Road.0.png' width='700px' /><br/>
+Virtual world-building platform Roblox has signed a deal with Sony Music Entertainment. The deal extends an existing collaboration that included a 2020 Lil Nas X concert inside Roblox as well as a 2021 virtual dance party with Swedish artist Zara Larsson.
+<a href='https://www.theverge.com/2021/7/6/22564922/roblox-sony-music-partnership-lil-nas-x-collaboration-licensing'> Source <a/>
