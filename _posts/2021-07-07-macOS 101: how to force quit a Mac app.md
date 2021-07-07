@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/PT28G8n-j5C2BBNxhNzZQm0wX98=/0x0:1058x772/1200x800/filters:focal(445x302:613x470)/cdn.vox-cdn.com/uploads/chorus_image/image/69547451/Screen_Shot_2021_07_06_at_2.08.39_PM.0.png' width='700px' /><br/>
 Apps on macOS are usually well-behaved, but there are times when they can stop working or freeze and slow down your entire Mac. If that happens to you (and it might happen often if you're playing with the latest Monterey betas), it's time to quit the app.
+<a href='https://www.theverge.com/22565044/macos-force-quit-app-mac-apple'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/PT28G8n-j5C2BBNxhNzZQm0wX98=/0x0:1058x772/1200x800/filters:focal(445x302:613x470)/cdn.vox-cdn.com/uploads/chorus_image/image/69547451/Screen_Shot_2021_07_06_at_2.08.39_PM.0.png' width='700px' /><br/>
+Apps on macOS are usually well-behaved, but there are times when they can stop working or freeze and slow down your entire Mac. If that happens to you (and it might happen often if you're playing with the latest Monterey betas), it's time to quit the app.
 <a href='https://www.theverge.com/22565044/macos-force-quit-app-mac-apple'> Source <a/>
