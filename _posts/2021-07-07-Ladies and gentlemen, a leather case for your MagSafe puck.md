@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+I'm not going to pretend to understand how product development meetings work, but there must have been something pretty special in the water when Nomad's crack team of accessory specialists put together its latest pitch. From the company that was brave enough to encase your AirPods Pro case in leather, comes an all-new leather MagSafe case. That's right, it's a leather case for the iPhone 12's magnetic charging puck.
+<a href='https://www.theverge.com/tldr/2021/7/7/22563631/nomad-magsafe-leather-cover-charger-price'> Source <a/>
