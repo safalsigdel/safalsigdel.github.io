@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DOQWyzQRZVOnYe-V6uPz60HEIRQ=/0x0:6033x4022/1200x800/filters:focal(2535x1529:3499x2493)/cdn.vox-cdn.com/uploads/chorus_image/image/69421830/dseifert_4619_echo_show_2nd_gen_2.0.jpg' width='700px' /><br/>
-Amazon's midsize Echo Show 8 is the best smart display in its lineup. It is larger and more capable than the diminutive Echo Show 5, while costing far less than the larger Echo Show 10. The Echo Show 8 is handy for watching video, listening to music, getting weather reports, controlling smart home devices, making video calls, and more.
-<a href='https://www.theverge.com/22521948/amazon-echo-show-8-2nd-gen-2021-review'> Source <a/>
