@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yYLeb5HBrNrgles72QVajkiirko=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69550727/acastro_190528_1777_ubisoft_0001.0.0.jpg' width='700px' /><br/>
-Ubisoft has officially confirmed the existence of a new Assassin's Creed game codenamed “Infinity,” after a report from Bloomberg detailed the new online service-based game. While Ubisoft's announcement doesn't shed much light on what form the new game will take, Bloomberg reports that it will be an evolving online game similar to the likes of Fortnite or GTA Online.
-<a href='https://www.theverge.com/2021/7/7/22566676/assassins-creed-infinity-ubisoft-confirmed-online-service-based-game'> Source <a/>

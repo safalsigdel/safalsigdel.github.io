@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mdaSIgi32Agi9GMydCBqvlFdbmg=/0x0:1440x813/1200x800/filters:focal(605x292:835x522)/cdn.vox-cdn.com/uploads/chorus_image/image/69546302/joy_con_03.0.png' width='700px' /><br/>
-Nintendo just announced a new model of the Switch that has an OLED screen, but it won't bring major changes to the CPU or RAM currently used in other iterations of the console, Nintendo confirmed to The Verge.
-<a href='https://www.theverge.com/2021/7/6/22565118/nintendo-oled-switch-cpu-ram-bluetooth-audio-headphones-dock-no-4k'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q4flT9WXIKYx-Cy02LYlRMHVmyA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69550816/YanexRoverDeliveryMI_1.0.jpg' width='700px' /><br/>
-Grubhub and Russian self-driving startup Yandex are teaming up to use robots to deliver food on US college campuses. It represents the latest deal that envisions hundreds of six-wheeled self-driving robots that essentially act as roving lunchboxes in cities across the country.
-<a href='https://www.theverge.com/2021/7/7/22566652/grubhub-delivery-robot-yandex-college-campus-autonomous'> Source <a/>

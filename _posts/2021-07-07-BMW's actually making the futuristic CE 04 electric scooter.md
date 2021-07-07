@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y2QqGWygcI_Q_llm0paLhqhEeG8=/0x0:2250x1500/1200x800/filters:focal(945x570:1305x930)/cdn.vox-cdn.com/uploads/chorus_image/image/69550921/P90428705_lowRes.0.jpg' width='700px' /><br/>
-BMW has been warning us for years that it wants to make and sell a radical electric city scooter, and now it's following through. On Wednesday, the German automaker announced that its Motorrad division will put the striking BMW CE 04 into production, with decent range and speed on offer as well as plenty of futuristic vibes.
-<a href='https://www.theverge.com/2021/7/7/22566683/bmw-ce-04-electric-city-scooter-futuristic-design-motorrad'> Source <a/>
