@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aAOh5uAkPCeqhxKGMMhyT25gklQ=/0x0:4000x2667/1200x800/filters:focal(1013x1002:1653x1642)/cdn.vox-cdn.com/uploads/chorus_image/image/69542026/670451728.0.jpg' width='700px' /><br/>
-Jeff Bezos, who has served as the CEO of Amazon since founding the company exactly 27 years ago on July 5th, 1994, has officially stepped down from the role. Andy Jassy is now listed as the company's CEO on its investor relations website, after previously having run Amazon Web Services since 2003, while Bezos is listed as Executive Chair. The July 5th handover date was previously announced in a shareholder meeting in May.
-<a href='https://www.theverge.com/2021/7/5/22563671/andy-jassy-amazon-ceo-jeff-bezos'> Source <a/>
