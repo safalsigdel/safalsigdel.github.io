@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZsKrFQ5hdM6vZYK_fg66F0d8Iy0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69554978/bfarsace_4481_20210317_0061_Edit.0.jpg' width='700px' /><br/>
+OnePlus has confirmed that it deliberately reduces performance in “many of the most popular apps” in order to improve battery life on its latest OnePlus 9 and 9 Pro phones. The issue arose following testing by Anandtech's Andrei Frumusanu, who called the situation “rather baffling” after discovering slowdown in a wide range of prominent apps from Google's Play Store.
+<a href='https://www.theverge.com/2021/7/8/22568107/oneplus-9-pro-battery-life-app-throttling-benchmarks'> Source <a/>
