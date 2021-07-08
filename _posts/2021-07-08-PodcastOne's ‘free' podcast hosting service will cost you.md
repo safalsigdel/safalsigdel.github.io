@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_QkAgdkqvVo2sUAD3TxG2AdMAXs=/0x0:3500x2333/1200x800/filters:focal(1470x887:2030x1447)/cdn.vox-cdn.com/uploads/chorus_image/image/69556235/launchpadone.0.jpg' width='700px' /><br/>
+PodcastOne, the podcast network behind shows from people like Mike Tyson and Tom Green, is looking to make more money off shows outside its network. The company is expanding and rebranding its free hosting service, now known as Launchpad One, with more perks to make it appeal to indie podcasters.
+<a href='https://www.theverge.com/2021/7/8/22568221/podcastone-launchpadone-hosting-service-free-podcast-monetize'> Source <a/>
