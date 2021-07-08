@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oC4yXAYC9KhWtbC2iNiDXJsEELw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69548681/acastro_170621_1777_0007_v2_0001_2.0.jpg' width='700px' /><br/>
-Russian state hackers affiliated with the group Cozy Bear were reportedly behind an attack last week on Synnex, a contractor that provides IT services for the Republican National Committee (RNC), Bloomberg writes. The attack may have exposed the organization's information.
-<a href='https://www.theverge.com/2021/7/6/22565779/rnc-breach-russian-hackers-cozy-bear'> Source <a/>
