@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VfzB6AOKs5h4uPCfD_OucMDg6WY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69556156/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+Okay, this article is for those who have never posted a video on TikTok. The rest of you? Stop snickering, and go away.
+<a href='https://www.theverge.com/22567211/tiktok-video-how-to-beginners'> Source <a/>
