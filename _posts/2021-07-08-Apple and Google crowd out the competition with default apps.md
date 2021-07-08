@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XMYeSykkD-rVyqFoXkbBdNWQqDE=/0x0:3000x2000/1200x675/filters:focal(1333x1153:1813x1633)/cdn.vox-cdn.com/uploads/chorus_image/image/69550155/Google_Apple_App_Dominance2.0.jpg' width='700px' /><br/>
-If you use an iPhone or Android phone, chances are the majority of your most-used apps were made by Apple and Google.
-<a href='https://www.theverge.com/2021/7/7/22549338/apple-google-apps-comscore-study-facebook'> Source <a/>
