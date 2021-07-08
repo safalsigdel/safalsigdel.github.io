@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i7m8vmXbx3ACg2jqJJIbohHM3hc=/0x0:3888x2592/1200x800/filters:focal(1633x985:2255x1607)/cdn.vox-cdn.com/uploads/chorus_image/image/69550035/1231387819.0.jpg' width='700px' /><br/>
-Just days after GitHub announced its new Copilot tool, which generates complementary code for programmers' projects, web developer Kyle Peacock tweeted an oddity he had noticed.
-<a href='https://www.theverge.com/2021/7/7/22561180/github-copilot-legal-copyright-fair-use-public-code'> Source <a/>

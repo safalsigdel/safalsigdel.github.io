@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HFcErA9n3Ms-b6BQvU9Q1At1d6M=/0x0:3888x2592/1200x800/filters:focal(1672x1661:2294x2283)/cdn.vox-cdn.com/uploads/chorus_image/image/69555532/1232974607.0.jpg' width='700px' /><br/>
+When Amazon announced its plans to acquire MGM in May, the primary focus of discussion was what Amazon planned to do with the studio's intellectual property. Spin-offs and reboots were one possibility cited by the company at the time. Who, it's now worth wondering, will shepherd Amazon's creative vision for the legacy movie-maker?
+<a href='https://www.theverge.com/22567113/amazon-mgm-deal-chaos-reigns'> Source <a/>
