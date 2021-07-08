@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2QeDMBWENqboygPrIAbRdMrxFTQ=/0x0:1440x813/1200x800/filters:focal(605x292:835x522)/cdn.vox-cdn.com/uploads/chorus_image/image/69546902/joy_con_01.0.jpeg' width='700px' /><br/>
-Nintendo has just revealed a new Nintendo Switch, and it brings some nice upgrades to the four-year-old console. The most notable is a larger 7-inch 720p OLED screen, but it also has improved speakers, a Microsoft Surface-like kickstand, 64GB of internal storage, and a new dock with an included ethernet port.
-<a href='https://www.theverge.com/2021/7/6/22565307/nintendo-oled-switch-screen-news-updates'> Source <a/>

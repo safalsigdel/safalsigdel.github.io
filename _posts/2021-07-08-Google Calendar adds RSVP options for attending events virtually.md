@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EqRfYCyjvs4-sh1RI1zS_HyhCSc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69553344/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
+As companies large and small settle on how they'll return to working in-person, a hybrid work future, where working from home is common and expected, is beginning to seem like more of a reality. To accommodate hybrid workplaces, Google plans to expand RSVP options over the next few weeks to let users say whether they'll attend an event virtually in Google Calendar invites.
+<a href='https://www.theverge.com/2021/7/7/22567295/google-calendar-invite-rsvp-workspace-hybrid-work'> Source <a/>

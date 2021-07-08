@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9hFOt6GnWX7uq3GvFC5AqiBOs-U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69553459/acastro_201005_1777_googleAntiTrust_0002.0.0.jpg' width='700px' /><br/>
+On Wednesday, a coalition of state attorneys general launched a new antitrust lawsuit against Google, accusing the search giant of abusing its control of the Android app store, as reported by Bloomberg.
+<a href='https://www.theverge.com/2021/7/7/22567532/google-play-store-antitrust-lawsuit-state-ag-app-fees'> Source <a/>

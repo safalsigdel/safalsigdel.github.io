@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_rY1zLkNWTgbb-6dLB7mF_6dzN4=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69553615/1163941109.0.jpg' width='700px' /><br/>
+Dota 2's prestigious The International tournament will now be taking place in Bucharest, Romania in October, Valve announced on Wednesday. The event had been originally set to take place in Stockholm, Sweden in August, but Valve had announced in June it had started looking for other locations because of restrictions on esports events in Sweden.
+<a href='https://www.theverge.com/2021/7/7/22567520/dota-2-the-international-bucharest-romania-sweden-october-location-date'> Source <a/>

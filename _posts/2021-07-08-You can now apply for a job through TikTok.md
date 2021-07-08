@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JNczc3Y-AQqGdmjwTUk9-VfC80k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69552684/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+TikTok is testing a job application tool that allows its users to directly apply with video resumes to companies like Chipotle, Target, and Shopify.
+<a href='https://www.theverge.com/2021/7/7/22567220/tiktok-resumes-job-application'> Source <a/>
