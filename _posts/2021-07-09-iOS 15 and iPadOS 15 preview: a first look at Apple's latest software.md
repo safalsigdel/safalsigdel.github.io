@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M_1Y1hkKEwBLCuN0GZM4jPb9FeY=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22689245/cgartenberg_210629_4653_002.jpg' width='700px' /><br/>
-iOS 15 and iPad 15 are kicking off their public betas today, and after a few weeks with the developer betas of the new software, Apple's OS updates feel like more of a grab bag of new features than ever before.
-<a href='https://www.theverge.com/2021/6/30/22556236/ios-15-ipados-iphone-ipad-software-update-public-beta-preview-apple'> Source <a/>
