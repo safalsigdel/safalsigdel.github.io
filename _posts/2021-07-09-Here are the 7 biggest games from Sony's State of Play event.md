@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CveV_W5JtTMKRSy9xPPtTrAVAes=/0x0:1632x918/1200x800/filters:focal(328x249:588x509)/cdn.vox-cdn.com/uploads/chorus_image/image/69558649/Deathloop_Featured_image.0.png' width='700px' /><br/>
+Sony showed off a lot of PlayStation games during its latest State of Play event, including more details about the remastered version of Death Stranding and an extended gameplay preview of PS5 exclusive Deathloop.
+<a href='https://www.theverge.com/2021/7/8/22569141/sony-state-of-play-trailers-deathloop-death-stranding-directors-cut'> Source <a/>

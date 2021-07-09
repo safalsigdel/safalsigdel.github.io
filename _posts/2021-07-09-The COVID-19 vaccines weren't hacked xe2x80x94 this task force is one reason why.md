@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tkIHazWgtIdGL5xH0c07c89B9Ys=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69556778/acastro_210708_4663_0001.0.jpg' width='700px' /><br/>
+Last fall, a tiny company no one had ever heard of was keeping Josh Corman up at night. It was one of the only groups in the world that made an ingredient that pharmaceutical companies like Moderna and Pfizer / BioNTech needed to make the mRNA COVID-19 vaccines. And it didn't employ a single cybersecurity expert.
+<a href='https://www.theverge.com/2021/7/8/22568397/covid-vaccine-cybersecurity-cisa-task-force'> Source <a/>
