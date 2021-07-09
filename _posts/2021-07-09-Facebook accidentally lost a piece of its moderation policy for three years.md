@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/7xkdo06FA44LDRIzc0ZPt6HTrlE=/0x0:5000x3333/1200x800/filters:focal(2795x717:3595x1517)/cdn.vox-cdn.com/uploads/chorus_image/image/69557219/1201232431.0.jpg' width='700px' /><br/>
 Instagram accidentally banned a post criticizing solitary confinement because Facebook had misplaced the policy allowing it, according to a new Facebook Oversight Board (FOB) decision.
-<a href='https://www.theverge.com/2021/7/8/22568648/facebook-oversight-board-abdullah-ocalan-dangerous-entities-exception-lost'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/7xkdo06FA44LDRIzc0ZPt6HTrlE=/0x0:5000x3333/1200x800/filters:focal(2795x717:3595x1517)/cdn.vox-cdn.com/uploads/chorus_image/image/69557219/1201232431.0.jpg' width='700px' /><br/>
-Instagram accidentally banned a post criticizing solitary confinement because Facebook had misplaced the policy allowing it, according to a new Facebook Oversight Board (FOB) decision.
 <a href='https://www.theverge.com/2021/7/8/22568648/facebook-oversight-board-abdullah-ocalan-dangerous-entities-exception-lost'> Source <a/>
