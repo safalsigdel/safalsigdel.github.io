@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jYdcJj_cgNGxzkLxbjmTkT2bg3U=/0x0:2590x1345/1200x800/filters:focal(973x483:1387x897)/cdn.vox-cdn.com/uploads/chorus_image/image/69555594/Screen_Shot_2021_07_08_at_8.53.19_AM.0.png' width='700px' /><br/>
-Dodge announced it would make an all-electric muscle car in 2024. The news came as part of an event Thursday covering electric vehicle strategy by the automaker's parent company, Stellantis.
-<a href='https://www.theverge.com/2021/7/8/22568272/dodge-electric-muscle-car-2024-stellantis-ev-day'> Source <a/>
