@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5rI-OpEhNcSWaBO_qDVl-0DpHaA=/0x0:2040x1360/1200x800/filters:focal(848x1034:1174x1360)/cdn.vox-cdn.com/uploads/chorus_image/image/69559861/vpavic_210516_4592_0267.0.jpg' width='700px' /><br/>
+Apple plans to add a Mini LED screen to the 11-inch iPad Pro in 2022, following the introduction of the technology on this year's 12.9-inch model, according to a research note by analyst Ming-chi Kuo. The note was reported on by AppleInsider and MacRumors.
+<a href='https://www.theverge.com/2021/7/9/22569690/mini-led-11-inch-ipad-pro-macbook-air-2022'> Source <a/>

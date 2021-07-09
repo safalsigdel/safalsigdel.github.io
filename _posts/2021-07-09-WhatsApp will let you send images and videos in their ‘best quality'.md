@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B79tJ6RXbyDkmyGL3LBOytVAxiw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69560014/acastro_210119_1777_whatsapp_0002.0.jpg' width='700px' /><br/>
+A future version of WhatsApp will give more control over the amount of compression it applies to sent images and videos. WABetaInfo reports that the two features are currently in development for the Android app, and should eventually present three quality options when sending images and video. The options are “Auto,” “Best quality,” or “Data saver.”
+<a href='https://www.theverge.com/2021/7/9/22569744/whatsapp-image-video-compression-quality-updates'> Source <a/>
