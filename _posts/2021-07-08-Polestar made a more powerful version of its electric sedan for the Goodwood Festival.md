@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OPyacUeaaQjq8wpd4Gc5_E4qvM0=/0x0:6480x4320/1200x800/filters:focal(2722x1642:3758x2678)/cdn.vox-cdn.com/uploads/chorus_image/image/69554877/Polestar_2_Goodwood_FOS_2021_1__3__1__1__1_.0.jpg' width='700px' /><br/>
-Swedish electric performance automaker Polestar made a more powerful version of its electric fastback sedan for the Goodwood Festival of Speed in the UK, which kicks off today, July 8th.
-<a href='https://www.theverge.com/2021/7/8/22566761/polestar-2-electric-specs-goodwood-hill-climb'> Source <a/>

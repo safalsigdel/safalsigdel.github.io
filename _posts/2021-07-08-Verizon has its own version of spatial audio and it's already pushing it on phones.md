@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3lgp6bDXktafpxM3AuZy54t2UK8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69552003/acastro_200109_1777_verizon_0001.0.0.jpg' width='700px' /><br/>
-You know spatial audio is having quite a moment when wireless carriers decide to create their own implementations of it. Verizon has announced a new sound feature it's calling “Verizon Adaptive Sound,” and the company claims it “produces a brilliant spatial surround experience regardless of what headphone, soundbar, or earbud brand you use or what application you're watching or listening to.”
-<a href='https://www.theverge.com/2021/7/7/22567035/verizon-spatial-audio-adaptive-sound-motorola'> Source <a/>
