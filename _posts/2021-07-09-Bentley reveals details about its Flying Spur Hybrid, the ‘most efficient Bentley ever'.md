@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KeroCj_n1cZIGmuBSX8mVPIT15s=/0x0:1275x810/1200x800/filters:focal(536x303:740x507)/cdn.vox-cdn.com/uploads/chorus_image/image/69557112/f0456cbd_481c_4a71_abaf_0c69ac1ade01.0.jpeg' width='700px' /><br/>
+Luxury carmaker Bentley has announced details about its Flying Spur Hybrid sedan, its second Bentley hybrid, which the company claims is the “most efficient Bentley ever.” Using just the electric motor, Bentley says you'll be able to drive for more than 40 kilometers (or just under 25 miles), and the company says the car offers a “total driving range” of more than 700 kilometers (just under 435 miles).
+<a href='https://www.theverge.com/2021/7/8/22568639/bentley-flying-spur-hybrid-details-range'> Source <a/>

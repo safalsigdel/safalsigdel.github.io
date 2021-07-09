@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Nh5eUGvuxi8FCFU5rvszJxqW9kE=/0x0:2040x1360/1200x675/filters:focal(831x877:1157x1203)/cdn.vox-cdn.com/uploads/chorus_image/image/69560986/akrales_20210609_4596_0017.0.jpg' width='700px' /><br/>
+Lenovo is a big player in the convertible laptop sphere, and the Yoga 9i is its top dog. A sequel to the Yoga C940, the $1,299.99-and-up 14-inch Yoga 9i is a capable laptop in almost every area that matters, with a comfortable keyboard, respectable battery life, and some of the better specs you can get at its price point. But there's one area where it's far ahead of the pack — the audio.
+<a href='https://www.theverge.com/22569871/lenovo-yoga-9i-14-inch-laptop-review'> Source <a/>
