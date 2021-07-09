@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/frJ9c8rtYOEPVy3EPyTtOlfFZ20=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69559023/1321753348.0.jpg' width='700px' /><br/>
+Square is going to make a hardware wallet for bitcoin, the company's hardware lead, Jesse Dorogusker, announced on Thursday. CEO Jack Dorsey, who is also the CEO of Twitter, had said in June (in a tweetstorm, naturally) that the company was considering making one, and now Square has made the decision to move forward.
+<a href='https://www.theverge.com/2021/7/8/22569309/square-hardware-wallet-bitcoin-jack-dorsey'> Source <a/>
