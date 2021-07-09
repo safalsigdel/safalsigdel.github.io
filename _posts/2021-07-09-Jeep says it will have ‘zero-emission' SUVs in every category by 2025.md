@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z8Sl2NZe6hffqHO_hhbDy8wJaoI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69555766/1233378850.0.jpg' width='700px' /><br/>
-Jeep says it will have “zero-emission” SUVs in every category of its lineup by 2025, the automaker announced Thursday. That same year, the company also plans to offer 4xe plug-in hybrid versions of all of its vehicles. The news came as part of an electrification strategy event by Jeep's parent company, Stellantis.
-<a href='https://www.theverge.com/2021/7/8/22568306/jeep-ev-hybrid-wagoneer-wrangler-cherokee-stellantis'> Source <a/>
