@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sgVGG0gkEKfFjE651W_3PUI59po=/0x0:1632x918/1200x800/filters:focal(686x329:946x589)/cdn.vox-cdn.com/uploads/chorus_image/image/69558629/Apple_introduces_apple_tv_plus_03252019_big.jpg.large_2x.0.jpg' width='700px' /><br/>
-Apple announced Thursday that it will commemorate the 20th anniversary of the 9/11 attacks with the release of a new documentary in September. 9/11: The President's War Room, released in partnership with the BBC, will focus on the 12 hours that followed immediately after the first plane hit the World Trade Center.
-<a href='https://www.theverge.com/2021/7/8/22568985/apple-tv-plus-9-11-documentary-presidents-war-room'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/axh8hUBdUsEiQVL9fuYG_YaXEfs=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69556349/989626420.0.jpg' width='700px' /><br/>
-Volkswagen, Audi, Porsche, BMW, and Mercedes-Benz parent company Daimler spent years illegally colluding to slow the deployment of cleaner emissions technology, says the European Union, which is dishing out fines as a result.
-<a href='https://www.theverge.com/2021/7/8/22568356/volkswagen-bmw-daimler-emissions-cartel-fine-audi-porsche-eu'> Source <a/>
