@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YkPhuPmBDASodVBeth43hQddjKw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69560208/akrales_201013_4137_0244.0.5.jpg' width='700px' /><br/>
-The Pixel 5A 5G, Google's midrange counterpart to last year's Pixel 5, has been spotted in the FCC's database, suggesting a release might not be far away. Android Police, which first saw the two listings, reports that none specifically mention the name “Pixel 5A” but that at least one of the three model numbers (GR0M2) lines up with previous reports about the barely announced phone.
-<a href='https://www.theverge.com/2021/7/9/22569798/google-pixel-5a-fcc-listing-leak-features-specs'> Source <a/>
