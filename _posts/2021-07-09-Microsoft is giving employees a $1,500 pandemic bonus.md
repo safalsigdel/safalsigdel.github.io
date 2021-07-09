@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J7d0OynXAn4tkcRCSczLmE1c230=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69557041/DSCF1179.0.0.jpg' width='700px' /><br/>
-Microsoft is gifting its employees a $1,500 pandemic bonus. In an internal memo seen by The Verge, the software giant says this one-time bonus “is in recognition of the unique and challenging fiscal year that Microsoft just completed.”
-<a href='https://www.theverge.com/2021/7/8/22568582/microsoft-employee-pandemic-bonus-1500-dollars'> Source <a/>
