@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/aHiMtmOaEoocBCVEcNHekPJ_FKk=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/69560554/1233884040.0.jpg' width='700px' /><br/>
 President Joe Biden has signed an executive order meant to promote competition — with technology directly in the crosshairs.
+<a href='https://www.theverge.com/2021/7/9/22569869/biden-executive-order-right-to-repair-isps-net-neutrality'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/aHiMtmOaEoocBCVEcNHekPJ_FKk=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/69560554/1233884040.0.jpg' width='700px' /><br/>
+President Joe Biden has signed an executive order meant to promote competition — with technology directly in the crosshairs.
 <a href='https://www.theverge.com/2021/7/9/22569869/biden-executive-order-right-to-repair-isps-net-neutrality'> Source <a/>
