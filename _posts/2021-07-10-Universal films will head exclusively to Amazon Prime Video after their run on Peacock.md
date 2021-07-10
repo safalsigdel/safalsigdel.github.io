@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IyLLQJXbpvl-2DYhaMMMa_vhJR0=/0x0:5000x3338/1200x800/filters:focal(2408x2064:3208x2864)/cdn.vox-cdn.com/uploads/chorus_image/image/69563321/1051935276.0.jpg' width='700px' /><br/>
+A licensing deal between Universal Filmed Entertainment Group and Amazon will broaden Prime Video's streaming library and bring anticipated titles to the service after a brief run on Peacock.
+<a href='https://www.theverge.com/2021/7/9/22570590/universal-films-prime-video-streaming-peacock'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AeVU5wYoHsV88-u-BqqVN5u7LrM=/0x0:2048x1430/1200x800/filters:focal(861x552:1187x878)/cdn.vox-cdn.com/uploads/chorus_image/image/69556611/1231057154.0.jpg' width='700px' /><br/>
-The National Football League is signing on to use Twitter Spaces. As part of a new deal with Twitter — which will see the social network continue to run game highlight videos — the NFL has agreed to host 20 live audio rooms throughout the 2021 season. Those will include “current NFL players and other NFL talent” as hosts discussing the season's matchups.
-<a href='https://www.theverge.com/2021/7/8/22568434/nfl-twitter-spaces-partnership-2021-season'> Source <a/>

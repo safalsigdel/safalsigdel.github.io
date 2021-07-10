@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cIJ7fNqEFoaCqc40haJjOR715HM=/0x0:5000x3750/1200x800/filters:focal(2866x2021:3666x2821)/cdn.vox-cdn.com/uploads/chorus_image/image/69563722/1084203064.0.jpg' width='700px' /><br/>
+A sweeping executive order aimed at promoting economic competition and signed Friday by President Joe Biden called on the Federal Trade Commission to institute rules to curb anticompetitive restrictions that limit consumers' ability to repair gadgets on their own terms.
+<a href='https://www.theverge.com/2021/7/9/22570826/president-joe-biden-executive-order-right-to-repair'> Source <a/>

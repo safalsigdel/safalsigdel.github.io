@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ao7QNB_32OTf_T-sVD0cwOPaI-k=/0x0:1846x1348/1200x800/filters:focal(771x416:1187x832)/cdn.vox-cdn.com/uploads/chorus_image/image/69562315/Screen_Shot_2021_07_09_at_8.36.31_AM.0.png' width='700px' /><br/>
+Knewz, the news aggregation site created by Rupert Murdoch's News Corp to attempt to gain some leverage against Google and Facebook's control over what articles users read, is dead. The website, curated by a mix of artificial intelligence and real breathing editors, lasted just 18 months before shutting down, presumably because News Corp began to get concessions from both Google and Facebook.
+<a href='https://www.theverge.com/2021/7/9/22570164/knewz-news-corp-aggregation-google-facebook'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cZYThpX3dVZGlzV84Rjt7JtodKU=/0x0:3000x2400/1200x800/filters:focal(1260x960:1740x1440)/cdn.vox-cdn.com/uploads/chorus_image/image/69563507/1164012879.0.jpg' width='700px' /><br/>
+This year's League of Legends Championship Series (LCS) finale is the latest esports event to welcome an audience to attend in person. Riot Games announced on Friday that the final two matches of the LCS Championship, the league's postseason summer tournament, will take place at the Prudential Center in Newark, New Jersey, on August 28th and 29th, and fans will be able to attend the event.
+<a href='https://www.theverge.com/2021/7/9/22569654/league-of-legends-championship-series-summer-split-playoffs-finals-tournament'> Source <a/>

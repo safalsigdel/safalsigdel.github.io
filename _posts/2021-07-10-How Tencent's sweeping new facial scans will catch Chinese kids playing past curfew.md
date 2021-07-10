@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YGc_H30tjJ3-vu_48gXL3d-iIpc=/0x0:4608x3072/1200x800/filters:focal(2022x1309:2758x2045)/cdn.vox-cdn.com/uploads/chorus_image/image/69563402/805984746.0.jpg' width='700px' /><br/>
+Tencent, the biggest game company in the world, is rolling out facial recognition technology that will likely scan many gamers' faces every single evening, aiming to catch minors breaking a gaming curfew and help prevent video game addiction (via Gizmodo). That's a lot of controversial concepts in one sentence, no?
+<a href='https://www.theverge.com/2021/7/9/22567029/tencent-china-facial-recognition-honor-of-kings-game-for-peace'> Source <a/>

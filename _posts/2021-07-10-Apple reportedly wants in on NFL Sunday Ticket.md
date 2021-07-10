@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gb2MBUiE6OHZ4ZLjW13-vA8Atu4=/0x0:3400x2480/1200x800/filters:focal(1428x968:1972x1512)/cdn.vox-cdn.com/uploads/chorus_image/image/69562938/1230461244.0.jpg' width='700px' /><br/>
+In the quest to get people to pay monthly for video, having the rights to stream sports, especially football, is key. Apple might finally be playing that game to spruce up Apple TV Plus: The Information reports the trillion-dollar phone maker has expressed early interest in securing the rights to the NFL's Sunday Ticket package — a subscription covering every game that is not airing on local affiliates —  for its video service.
+<a href='https://www.theverge.com/2021/7/9/22570481/apple-tv-plus-nfl-sunday-ticket-streaming-rights'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HFoT6lAJd1JQVXVZK9AjTrlnEnA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69563711/acastro_180329_1777_amazon_0003.0.jpg' width='700px' /><br/>
+The Federal Trade Commission has opened an investigation into Amazon's acquisition of MGM, The Information reported Friday. The Information describes the probe as an “in-depth investigation into the deal,” which could signal that it will stretch on for many months. The investigation also means the deal will be scrutinized by an FTC newly headed up by Lina Khan, an antitrust advocate and an Amazon critic.
+<a href='https://www.theverge.com/2021/7/9/22570797/ftc-amazon-mgm-investigation-probe-lina-khan'> Source <a/>
