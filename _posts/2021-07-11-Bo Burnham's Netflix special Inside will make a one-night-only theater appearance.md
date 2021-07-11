@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/47yGtZ31Vpx3VcZr-TWoi_wsZ_8=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/69565725/Bo_Burnham__Inside_00_28_48_22.0.jpg' width='700px' /><br/>
-If you can't get “Bezos I” out of your head, then you're in good company as a soundtrack to Bo Burnham: Inside scored the comedian the first Billboard Top 10 appearance of his career. But since the musical comedy special was on Netflix and came out during the pandemic that inspired much of its content, you probably watched it alone.
-<a href='https://www.theverge.com/2021/7/10/22571541/bo-burnham-inside-jeffrey-bezos-netflix-theatrical'> Source <a/>
