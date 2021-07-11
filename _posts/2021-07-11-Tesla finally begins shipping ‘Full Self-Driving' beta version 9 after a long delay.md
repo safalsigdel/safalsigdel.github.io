@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7FIKtrXGijhDD0q5c05EZzx5Sug=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69564917/jbareham_180213_2301_0149.0.jpg' width='700px' /><br/>
+Tesla began sending out over-the-air software updates for its long-awaited “Full Self-Driving” beta version 9, the definitely-not-autonomous-but-certainly-advanced driver assist system.
+<a href='https://www.theverge.com/2021/7/10/22570081/tesla-fsd-v9-beta-autopilot-update'> Source <a/>

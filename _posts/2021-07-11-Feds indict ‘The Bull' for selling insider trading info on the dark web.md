@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fOxzRx52mYHTMq58-EbeviHBxc0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69566137/acastro_170621_1777_0006_v4.0.jpg' width='700px' /><br/>
+Nearly four years after the lights went out at AlphaBay, the feds are still charging people with criminal activities linked to the dark web marketplace. On Friday the SEC and the Department of Justice announced charges against Apostolos Trovias, a Greek national who they allege posted on dark web marketplaces using the nickname “The Bull.”
+<a href='https://www.theverge.com/2021/7/10/22571732/alphabay-dark-web-insider-trading-bitcoin'> Source <a/>
