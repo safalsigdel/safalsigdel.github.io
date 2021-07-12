@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PKki3bYrzWO3NoHtixl3WkmAkMI=/0x0:4331x2887/1200x800/filters:focal(1820x1098:2512x1790)/cdn.vox-cdn.com/uploads/chorus_image/image/69563804/1233894512.0.jpg' width='700px' /><br/>
-Earlier today President Biden signed the Executive Order on Promoting Competition in the American Economy, and in it there were several provisions relating to net neutrality. The prior administration's FCC and FTC rolled back Obama-era rules in those areas, and now there is a clear agenda to restore them.
-<a href='https://www.theverge.com/2021/7/9/22570567/biden-net-neutrality-competition-eo'> Source <a/>
