@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m-3wNTyCW2ddxBgb41kk6UL3rE0=/0x0:640x355/1200x800/filters:focal(269x127:371x229)/cdn.vox-cdn.com/uploads/chorus_image/image/69562258/Hitachi_Kokusai_Electric_surveillance_system_640.0.jpg' width='700px' /><br/>
-The US Department of Commerce has sanctioned 14 Chinese tech companies over links to human rights abuses against Uyghur Muslims in Xinjiang, including one backed by a top Silicon Valley investment firm.
-<a href='https://www.theverge.com/2021/7/9/22570225/us-sanctions-chinese-facial-recognition-silicon-valley-funding'> Source <a/>
