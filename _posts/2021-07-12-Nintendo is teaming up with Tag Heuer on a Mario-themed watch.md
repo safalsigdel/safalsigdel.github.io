@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ylgxe_7eotBz2ue1318YjKyaGbM=/0x0:1650x1272/1200x800/filters:focal(693x504:957x768)/cdn.vox-cdn.com/uploads/chorus_image/image/69562117/Screen_Shot_2021_07_09_at_9.57.30_AM.0.png' width='700px' /><br/>
-Nintendo, which is often associated with being a toy maker, is teaming up with, of all companies, luxury watchmaker Tag Heuer. The two companies revealed their collaboration on an upcoming Super Mario-themed watch in a psychedelic teaser posted on Twitter early Friday morning.
-<a href='https://www.theverge.com/2021/7/9/22570322/tag-heuer-nintendo-super-mario-watch-tease-collaboration'> Source <a/>
