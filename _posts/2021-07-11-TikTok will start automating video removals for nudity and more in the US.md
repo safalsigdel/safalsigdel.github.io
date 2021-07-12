@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/92CoyLu0JRkGMk_FTKbQTJCrYYo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69561313/acastro_190723_1777_tiktok_0002.0.5.jpg' width='700px' /><br/>
-TikTok is trying to speed up its moderation process by removing human reviewers where its automated systems can do the job about as well.
-<a href='https://www.theverge.com/2021/7/9/22569954/tiktok-automated-moderation-video-removal-nudity-minor-safety'> Source <a/>
