@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AR_9JVZA13s65CagBI_tDfR8XPg=/0x0:5000x3334/1200x800/filters:focal(2488x1709:3288x2509)/cdn.vox-cdn.com/uploads/chorus_image/image/69571104/1232551963.0.jpg' width='700px' /><br/>
+TikTok parent company ByteDance is not planning an initial public offering anytime soon, and The Wall Street Journal reported Monday that such plans have been “indefinitely” shelved.
+<a href='https://www.theverge.com/2021/7/12/22573643/tiktok-parent-company-bytedance-china-security-app-trump-biden'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HLvU6efKA9ZTqb0M-w6EbfEybvI=/0x0:1100x733/1200x800/filters:focal(473x164:649x340)/cdn.vox-cdn.com/uploads/chorus_image/image/69563501/a9f23db3c704569534678e139dff9c1c06_amazon.rhorizontal.w1100.0.jpg' width='700px' /><br/>
-Managers at Amazon are instructed not to warn employees that they are being monitored under the company's “Focus” performance management tool, according to documents obtained by The Seattle Times.
-<a href='https://www.theverge.com/2021/7/9/22570579/amazon-performance-focus-plans-hidden-employees'> Source <a/>
