@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SbzC6uWznd29ez00Wj9VViOW9oA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69562946/The_Witcher_3_Wild_Hunt_Some_creatures_will_be_more_prone_to_inflammation_than_others-The_Igni_sign_works_perfectly_on_the_fiend.0.0.1450729425.0.png' width='700px' /><br/>
-The Witcher 3: Wild Hunt's free update optimizing the game for next-generation consoles, which is set to hit later this year, will include DLC “inspired by” the Netflix show, developer CD Projekt Red and Netflix announced at WitcherCon on Friday.
-<a href='https://www.theverge.com/2021/7/9/22567671/the-witcher-3-next-gen-update-netflix-dlc-ps5-xbox-series-x-s'> Source <a/>

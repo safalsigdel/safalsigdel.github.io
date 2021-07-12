@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q7lKYEZZTEGmXaYRCB42OI8Nu4s=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69571054/LeBron_James_Tune_Squad.0.jpg' width='700px' /><br/>
+LeBron James is the latest celebrity to enter the Fortnite metaverse. Starting on July 14th, players will be able to purchase two different versions of the NBA star: a regular LeBron with a handful of outfits, and another modeled after his role in the upcoming movie Space Jam: A New Legacy.
+<a href='https://www.theverge.com/2021/7/12/22570612/lebron-james-fortnite-skin-release-date'> Source <a/>
