@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d8cXuVCP9qNQoKaIjNrDEs6l8tg=/0x0:1796x1261/1200x800/filters:focal(755x488:1041x774)/cdn.vox-cdn.com/uploads/chorus_image/image/69562359/Screen_Shot_2021_07_09_at_10.32.10_AM.0.png' width='700px' /><br/>
-A sealed copy of The Legend of Zelda for the NES just sold for $870,000 at Heritage Auctions, breaking the previous record for the most expensive game ever sold (as far as I am aware, at least). That record was just raised quite a bit in April when a copy of Super Mario Bros. was auctioned for $660,000, a price that more than quadrupled the previous known record.
-<a href='https://www.theverge.com/2021/7/9/22570401/legend-of-zelda-nes-sealed-copy-heritage-auctions-most-expensive-game'> Source <a/>
