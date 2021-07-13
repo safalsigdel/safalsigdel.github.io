@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q_ZFBctLmvENHIP2c5A7Dvv4olg=/0x0:6033x4022/1200x800/filters:focal(2535x1529:3499x2493)/cdn.vox-cdn.com/uploads/chorus_image/image/69571876/dseifert_4619_echo_show_2nd_gen_2.0.jpg' width='700px' /><br/>
-Amazon is interested in using radar sensors to enable sleep tracking and gestures on its smart devices, according to new permissions granted by the Federal Communications Commission (via Bloomberg). The implementation might be similar to how Google uses its Soli sensor in the second-generation Nest Hub.
-<a href='https://www.theverge.com/2021/7/12/22573807/amazon-echo-radar-sensor-sleep-tracking-google-soli'> Source <a/>
