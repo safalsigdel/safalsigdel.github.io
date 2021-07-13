@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m0Qjyqzkn1Z5s0ykjYB3rSexyJA=/0x0:2987x1997/1200x800/filters:focal(1256x761:1732x1237)/cdn.vox-cdn.com/uploads/chorus_image/image/69567556/ted_logos.0.jpg' width='700px' /><br/>
-Clubhouse has another partnership, and this time, it's with one of the most popular podcast networks. The company announced today that it's partnering with TED to bring exclusive chats to the social audio platform throughout the summer and beyond. The first room, called Thank Your Ass Off, will start July 12th and run weekly at 11AM ET on Mondays. The company says additional rooms will launch soon, all going through TED's Clubhouse club.
-<a href='https://www.theverge.com/2021/7/11/22570634/ted-clubhouse-podcast-audio-live-recording'> Source <a/>

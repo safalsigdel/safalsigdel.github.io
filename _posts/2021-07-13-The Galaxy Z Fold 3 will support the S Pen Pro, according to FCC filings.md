@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CWmFkD2_tlPw244QnHHJ9W62AgU=/0x0:5120x2880/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/69572528/Screen_Shot_2021_07_12_at_11.56.01_AM.0.png' width='700px' /><br/>
+After many teases, it seems as if a Samsung foldable is finally going to get support for an S Pen stylus. FCC filings for the S Pen Pro, a bigger version of the S Pen with Bluetooth connectivity that Samsung announced in January, have been made public, and one document (PDF) reveals that the upcoming stylus will work with the unannounced Galaxy Z Fold 3 (which is presumably the next device in the Z Fold lineup).
+<a href='https://www.theverge.com/2021/7/12/22574173/galaxy-z-fold-3-s-pen-pro-support-fcc-filing'> Source <a/>

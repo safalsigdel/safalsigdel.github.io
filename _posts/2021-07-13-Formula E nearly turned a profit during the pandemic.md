@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5NE_XqwJKvsgy7UHATa5AxeNoMQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69572161/formula_e_7045.0.jpg' width='700px' /><br/>
+All-electric racing series Formula E very nearly turned its first profit during the 2019xe2x80x932020 season, its sixth, despite canceling nine of the 14 races originally scheduled in response to the coronavirus pandemic. Six of those races were eventually made up at a single track in Berlin, Germany, which — along with other internal changes — ultimately helped bring the series's total costs down.
+<a href='https://www.theverge.com/2021/7/12/22574091/formula-e-season-six-financials-pandemic-covid-profit-loss'> Source <a/>

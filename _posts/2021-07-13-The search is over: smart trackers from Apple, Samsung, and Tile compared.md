@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pJCaN_wboLGQ-adv90Lffl8UxUo=/0x0:2040x1360/1200x675/filters:focal(866x579:1192x905)/cdn.vox-cdn.com/uploads/chorus_image/image/69564872/ajohnson_210702_4659_0001.0.jpg' width='700px' /><br/>
-This year will go down in history as the year we entered the golden age of Not Losing Your Stuff. Well, in addition to some other historic milestones, somewhere in the top 100 hits of the year will be the introduction of smart tracker tags from two major mobile device manufacturers: Samsung and Apple.
-<a href='https://www.theverge.com/22570161/apple-airtag-samsung-smarttag-tile-pro-bluetooth-tracker-review-test-comparison'> Source <a/>

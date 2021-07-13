@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2jsuSKj1ZCNaXNsmEfhaNrFGAus=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69572808/bfarsace_4481_20210317_0053_Edit_1.0.jpg' width='700px' /><br/>
+Last Tuesday, AnandTech caught OnePlus doing the previously unthinkable — throttling the performance of its new flagship smartphone, the OnePlus 9 Pro. Seeing “inexplicable” slowdown, the publication discovered the phone was diverting a laundry list of popular apps away from its Snapdragon 888's high-performance cores. The company's excuse? It was all an attempt to save battery life.
+<a href='https://www.theverge.com/2021/7/12/22574221/oneplus-9-pro-apple-secret-throttle-speed-editorial'> Source <a/>

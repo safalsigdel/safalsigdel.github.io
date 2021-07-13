@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CJWfaKdjPZsKyQ_gH7jLFzLTZFM=/0x0:1000x563/1200x800/filters:focal(132x370:292x530)/cdn.vox-cdn.com/uploads/chorus_image/image/69563858/TV_Plus_main1.0.jpeg' width='700px' /><br/>
-Samsung recently launched a web version of its free and ad-supported Smart TV Plus streaming service for live and linear programming as well as added casting support for Chromecast devices.
-<a href='https://www.theverge.com/2021/7/9/22570895/samsung-qtv-plus-web-streaming-service'> Source <a/>

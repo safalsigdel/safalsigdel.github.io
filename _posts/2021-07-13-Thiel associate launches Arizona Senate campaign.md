@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1hsQYCSXnHNNhNTZVz6xZZVa76I=/0x0:1919x1014/1200x800/filters:focal(807x354:1113x660)/cdn.vox-cdn.com/uploads/chorus_image/image/69572207/Screen_Shot_2021_07_12_at_3.02.44_PM.0.png' width='700px' /><br/>
+Blake Masters, a close ally to billionaire Peter Thiel and current Thiel Capital executive, launched a bid for the Arizona Senate Monday. As a Republican, he'll be seeking to take on Sen. Mark Kelly (D-AZ). Masters joins a growing pool of Republican candidates, including Arizona Attorney General Mark Brnovich and solar power executive Jim Lamon.
+<a href='https://www.theverge.com/2021/7/12/22574232/blake-masters-peter-thiel-arizona-senate-campaign-anduril-capital'> Source <a/>
