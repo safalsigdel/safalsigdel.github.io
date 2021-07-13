@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
 Death Stranding: Director's Cut is coming to the PS5 on September 24th — but don't call it a director's cut, according to director Hideo Kojima (spotted by Eurogamer).
+<a href='https://www.theverge.com/tldr/2021/7/12/22573731/death-stranding-directors-cut-hideo-kojima-missions-name-debate'> Source <a/><img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Death Stranding: Director's Cut is coming to the PS5 on September 24th — but don't call it a director's cut, according to director Hideo Kojima (spotted by Eurogamer).
 <a href='https://www.theverge.com/tldr/2021/7/12/22573731/death-stranding-directors-cut-hideo-kojima-missions-name-debate'> Source <a/>
