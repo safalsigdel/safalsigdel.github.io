@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6RD1NtCXuk0VyKV8aoTyfjJ6DK0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69575148/dseifert_20210323_4486_0004.0.jpg' width='700px' /><br/>
+Ring's end-to-end encryption for video streams is leaving technical preview, is now available to US users, and is currently rolling out globally, the Amazon-owned company announced on Tuesday. The opt-in feature makes it so that your video streams can only be viewed by you on an enrolled iOS or Android device, meaning that Ring can't access that footage even if it wanted to.
+<a href='https://www.theverge.com/2021/7/13/22574629/ring-end-to-end-encryption-video-streams-us-global'> Source <a/>
