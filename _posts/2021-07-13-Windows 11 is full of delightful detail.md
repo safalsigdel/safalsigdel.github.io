@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Microsoft's Windows 11 preview has been available for a couple of weeks now, but I'm still discovering new animations and details in this new OS that put a smile on my face. While the new Start menu and centered taskbar are the obvious changes in Windows 11 that you'll notice straight away, it's the small animations throughout the OS that really make it feel a lot more fresh and alive than ever before.
+<a href='https://www.theverge.com/2021/7/13/22575431/microsoft-windows-11-design-animations-start-menu'> Source <a/>
