@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Adto0BIcn6S2PT5GSJFilLTaCSs=/0x0:2557x1438/1200x800/filters:focal(1075x515:1483x923)/cdn.vox-cdn.com/uploads/chorus_image/image/69570786/ApplicationFrameHost_qin6ujiovB.0.jpg' width='700px' /><br/>
-TikTok is now available on Fire TV devices in the UK, France, and Germany, the video platform announced today. The app, which will be available starting today, lets viewers watch content from the service's “For You” and “Following” feeds. There's also a “Discover” page to help users find trending content. The app is available to download from the Amazon Appstore.
-<a href='https://www.theverge.com/2021/7/12/22573707/tiktok-fire-tv-app-uk-france-germany-smart-tv'> Source <a/>
