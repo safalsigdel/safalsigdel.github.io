@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QKC50j6Wi3i4nrg3biFy2OL7sy4=/0x0:1050x699/1200x800/filters:focal(441x266:609x434)/cdn.vox-cdn.com/uploads/chorus_image/image/69574731/1__1_.0.jpg' width='700px' /><br/>
+Sony is releasing another one of its glass lantern speaker hybrids, and it comes in at $100 less than its predecessor. The LSPX-S3 is a $349 wireless Bluetooth speaker that vibrates a glass tube to act as a tweeter, which Sony says allows it to send sound in all directions around it. There's also a light inside the glass with 32 different brightness levels, allowing the speaker to act as a bedside lamp or candle-replacement on the dinner table.
+<a href='https://www.theverge.com/2021/7/13/22575102/sony-lspx-s3-bluetooth-speaker-glass'> Source <a/>
