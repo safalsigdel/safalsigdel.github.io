@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YNeJnuiCyRWfG42MwHRo4RgDF5E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69574513/akrales_190930_3689_0056.0.jpg' width='700px' /><br/>
+The PC market is showing early signs of its growth slowing down, after an impressive run of shipments throughout 2020. Both IDC and Gartner conclude that growth in the second quarter of PC shipments has slowed this year. Demand for new PCs is still above what we saw before the pandemic hit, but a mixture of softer demand and the effects of the global chip shortage mean it's not growing as quickly.
+<a href='https://www.theverge.com/2021/7/13/22575037/pc-market-q2-growth-slowing-chip-shortage-covid-demand'> Source <a/>
