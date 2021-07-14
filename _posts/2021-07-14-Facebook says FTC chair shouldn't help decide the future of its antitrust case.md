@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0BMRUfcFpicGNyNFrEDtT2c2i7o=/0x0:5432x3549/1200x800/filters:focal(2212x406:3080x1274)/cdn.vox-cdn.com/uploads/chorus_image/image/69580702/1232438844.0.jpg' width='700px' /><br/>
+Facebook has asked recently confirmed Federal Trade Commission chair Lina Khan to recuse herself from the agency's antitrust fight against Facebook, claiming her previous criticism of the company disqualifies her from fairly judging its conduct.
+<a href='https://www.theverge.com/2021/7/14/22576926/facebook-seeks-ftc-chair-lina-khan-refusal-antitrust-case'> Source <a/>
