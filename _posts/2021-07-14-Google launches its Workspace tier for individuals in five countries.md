@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-w8Ul5CX8-Q9jmL54yJW8UxI3BA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69576816/acastro_180130_1777_0003.0.jpg' width='700px' /><br/>
+Google Workspace Individual, the company's Workspace plan designed to give one-person businesses access to some premium features in the software suite, is now available in five countries (via 9to5Google).
+<a href='https://www.theverge.com/2021/7/13/22575523/google-workspace-tier-us-brazil-canada-japan-mexico'> Source <a/>

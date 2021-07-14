@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gO29o6osAf8uTEx3LExoGj0gFGg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69576231/1219099045.0.jpg' width='700px' /><br/>
+Republicans are questioning Amazon's relationship with the Pentagon after newly released emails show that defense officials praised tech executives vying for a $10 billion contract during the Trump administration.
+<a href='https://www.theverge.com/2021/7/13/22575554/amazon-microsoft-jedi-contract-ken-buck-mike-lee-trump'> Source <a/>
