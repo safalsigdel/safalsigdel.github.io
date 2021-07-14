@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HB7NqehNz09w9GMYUKKmV4P9gD4=/0x0:2964x1972/1200x800/filters:focal(1245x749:1719x1223)/cdn.vox-cdn.com/uploads/chorus_image/image/69580804/94619674.0.jpg' width='700px' /><br/>
+With a new strategy for how it purchases renewable energy, Microsoft hopes to push electricity grids to get clean. The tech giant is now focused on making a local impact in the places where it operates.
+<a href='https://www.theverge.com/2021/7/14/22574431/microsoft-renewable-energy-purchases'> Source <a/>
