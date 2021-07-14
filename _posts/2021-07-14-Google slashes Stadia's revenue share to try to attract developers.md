@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jBY6RpzSwkm7LuH6NXjYnGKe6eI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69576555/akrales_191113_3779_0284.0.jpg' width='700px' /><br/>
-Google is revising how much of a cut it takes from Stadia games in a bid to try to attract more developers. Starting on October 1st, Google will take 15 percent of sales up to $3 million through the end of 2023.
-<a href='https://www.theverge.com/2021/7/13/22575619/google-stadia-revenue-share-developers-games-summit'> Source <a/>
