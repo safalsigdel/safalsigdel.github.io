@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-VUA79dOnP1xBy88v2ZJPxfky84=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69575018/acastro_200207_3900_firefox_0001.0.0.jpg' width='700px' /><br/>
-Firefox 90 introduces the next version of SmartBlock, the browser's tracker blocking mechanism built into its private browsing and strict modes, which now has improvements designed to prevent buttons that let you log into websites using your Facebook account from breaking, Mozilla announced on Tuesday.
-<a href='https://www.theverge.com/2021/7/13/22574712/firefox-90-update-smartblock-2-tracker-blocking-feature-facebook-login'> Source <a/>
