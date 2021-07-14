@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wnCMiv-WlpZlAM8gp2DSPZsoRKk=/0x0:1020x681/1200x800/filters:focal(429x260:591x422)/cdn.vox-cdn.com/uploads/chorus_image/image/69576792/gogo-internet-logo-stock1_1020.0.jpg' width='700px' /><br/>
-If you've ever purchased inflight Wi-Fi in the United States, there's a good chance you've cursed Gogo's name. But now, you'll have to direct your anger at Intelsat instead: it's the new name of the consumer chunk of the inflight internet company.
-<a href='https://www.theverge.com/2021/7/13/22575667/gogo-inflight-internet-intelsat-airline'> Source <a/>

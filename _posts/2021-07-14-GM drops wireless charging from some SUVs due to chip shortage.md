@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NtG2fW92CzNj2kgvQpa_7uPs5xI=/0x0:1280x799/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/69577617/2021_Chevrolet_Traverse_005.0.jpg' width='700px' /><br/>
-General Motors is dropping wireless smartphone charging from some new SUVs because of the global microchip shortage. It's the latest feature to get the axe at the company due to the low supply of semiconductors, as GM has already pulled HD radio from some models, along with auto start-stop and a fuel management module that made pickup trucks slightly cleaner and more efficient.
-<a href='https://www.theverge.com/2021/7/13/22575836/gm-wireless-charging-cadillac-chevy-tahoe-chip-shortage'> Source <a/>

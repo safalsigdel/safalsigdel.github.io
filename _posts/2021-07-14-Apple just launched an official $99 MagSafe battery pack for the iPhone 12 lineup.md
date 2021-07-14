@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rQApC-ok8Jk5Fhjd06BAl_tFUg0=/0x0:2052x1427/1200x800/filters:focal(862x550:1190x878)/cdn.vox-cdn.com/uploads/chorus_image/image/69576515/Screen_Shot_2021_07_13_at_9.56.00_AM.0.jpg' width='700px' /><br/>
-Apple has launched the MagSafe Battery Pack for its iPhone 12 lineup. One of the magnetic batteries costs $99, and you can order one right now from Apple's website. For me, the website is showing delivery between July 22nd and July 26th.
-<a href='https://www.theverge.com/2021/7/13/22575678/apple-magsafe-battery-pack-iphone-12-pro-mini-max'> Source <a/>

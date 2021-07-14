@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9w8VcUKRgvtJ51EePvNDQNTDTQk=/0x0:2550x1432/1200x800/filters:focal(1071x512:1479x920)/cdn.vox-cdn.com/uploads/chorus_image/image/69577208/Screen_Shot_2019_03_26_at_1.49.46_PM.0.png' width='700px' /><br/>
-Even if you haven't signed up for the Apple Card, you may soon be able to put your purchases on Apple's tab. Apple is teaming up with Goldman Sachs yet again to turn every Apple Pay transaction into a potential “buy now, pay later” opportunity, reports Bloomberg — no Apple Card needed.
-<a href='https://www.theverge.com/2021/7/13/22575852/apple-pay-later-report-affirm-paypal-klarna-monthly-installments'> Source <a/>
