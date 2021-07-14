@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fqA3Lx9c1Bi5-ia0WCbOZjdDqrc=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/69580203/Midnight_Kiss_3.0.jpg' width='700px' /><br/>
+Amazon is launching the next line of products for its Build It crowdfunding platform. The company has collaborated with fashion designer Diane von Furstenberg on a range of Echo Dot smart speakers that'll only go on sale if enough people pre-order them within 30 days.
+<a href='https://www.theverge.com/2021/7/14/22574977/amazon-echo-diane-von-furstenberg-dot-crowdfunding-collaboration'> Source <a/>
