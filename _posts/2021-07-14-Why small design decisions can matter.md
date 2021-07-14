@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/7pr6DnuwQMOO4m3NrGhhzrWj_Rs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69576082/vpavic_4547_20210421_0050.0.jpg' width='700px' /><br/>
 While we usually look for major features in a device — speed or sound quality or picture sharpness — sometimes it's the little things that can make or break your experience with that device.
-<a href='https://www.theverge.com/22574164/design-device-airtags-jabra-elite-75t-features'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/7pr6DnuwQMOO4m3NrGhhzrWj_Rs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69576082/vpavic_4547_20210421_0050.0.jpg' width='700px' /><br/>
-While we usually look for major features in a device — speed or sound quality or picture sharpness — sometimes it's the little things that can make or break your experience with that device.
 <a href='https://www.theverge.com/22574164/design-device-airtags-jabra-elite-75t-features'> Source <a/>
