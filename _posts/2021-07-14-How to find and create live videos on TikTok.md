@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e9INRnqlsDjBZr4zKC1UsaHV09U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69580943/acastro_200713_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
+If you're just starting to explore TikTok and you want to do a live video (as opposed to the usual recorded TikTok video), I'm afraid I have some bad news for you.
+<a href='https://www.theverge.com/22576007/tiktok-how-to-live-find-go-gifts-diamonds'> Source <a/>
