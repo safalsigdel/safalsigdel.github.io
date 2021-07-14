@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cbM0kRMThh0zW3Wj7I9fhJ38yfo=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69574421/tagmario.0.jpg' width='700px' /><br/>
-A few days ago, Tag Heuer posted a teaser for a Super Mario-themed watch. You might have assumed that a Swiss-made mechanical timepiece was in the works, but now the news is out: it's actually a limited edition version of Tag's Connected Wear OS smartwatch.
-<a href='https://www.theverge.com/2021/7/13/22575007/tag-heuer-super-mario-connected-wearos-smartwatch'> Source <a/>

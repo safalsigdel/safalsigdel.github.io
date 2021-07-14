@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YesHfb_x5rcTgTTBRgu5MP9BHX4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69573185/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google announced its plans to transition users of its consumer file syncing desktop service, Backup and Sync, onto a new unified app that both consumers and business clients can use called Drive for desktop. Google plans to start onboarding users next week on July 19th, 2021, and encourages people who used Backup and Sync to make the switch by the end of September, before getting locked out on October 1st.
-<a href='https://www.theverge.com/2021/7/12/22574226/google-drive-desktop-backup-and-sync-file-stream-timeline'> Source <a/>

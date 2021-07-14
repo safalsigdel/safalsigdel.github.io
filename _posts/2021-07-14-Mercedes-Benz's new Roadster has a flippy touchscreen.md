@@ -1,0 +1,3 @@
+<img src='' width='700px' /><br/>
+Large touchscreens are commonplace in new cars these days, and the bigger these rectangular screens get, the fewer things you can do with the hardware to really differentiate from the competition. Perhaps that's why, in the new 2022 AMG SL Roadster, Mercedes-Benz is taking the screen out of the dashboard, anchoring it to the center console, and letting it electronically flip up and down.
+<a href='https://www.theverge.com/2021/7/13/22576101/mercedes-benz-amg-sl-roadster-touchscreen-articulating'> Source <a/>

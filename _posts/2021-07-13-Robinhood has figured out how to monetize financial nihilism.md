@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/weEOqLxhmmcnpSzJV0lWMTYaRxA=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69574762/acastro_210201_1777_robinhood_0001.0.jpg' width='700px' /><br/>
-It's sometimes hard to identify era-defining moments when they happen; usually you can only really see them after the wave rolls back. Helpfully, Robinhood has given us a high place to stand so we can see a little farther — though I don't think that's the point of its S-1, which is a document filed in order to make an IPO.
-<a href='https://www.theverge.com/2021/7/13/22574133/robinhood-meme-trades-dogecoin-ipo'> Source <a/>

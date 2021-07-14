@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P4TPrG-ENOpVz5rok_GCKj51oiI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69577808/acastro_180508_1777_google_IO_0001.0.jpg' width='700px' /><br/>
+Google is being charged with a historic xe2x82xac500 million ($589 million) fine from the French Competition Authority (FCA) for failing to comply with an April 2020 order to negotiate fairly with news publishers over the use of, and payment for, their articles and other content (via CNBC).
+<a href='https://www.theverge.com/2021/7/13/22575647/google-fine-500-million-french-authorities-news-showcase'> Source <a/>

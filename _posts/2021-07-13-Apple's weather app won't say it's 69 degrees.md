@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-If you're an iPhone user, the weather is always a particularly nice 70 degrees. Or 68 degrees. Any temperature but 69 degrees, actually, because it turns out that the built-in weather app on some versions of iOS — including the current version, iOS 14.6 — will refuse to display the internet's favorite number, even if the actual temperature in a given location is, in fact, 69 degrees.
-<a href='https://www.theverge.com/tldr/2021/7/13/22575368/apple-ios-14-weather-app-69-rounding-error-15'> Source <a/>

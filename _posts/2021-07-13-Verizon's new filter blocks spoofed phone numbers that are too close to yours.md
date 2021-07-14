@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ugmOooc0npem-i5cKgpaZD7jTt4=/0x0:1230x690/1200x800/filters:focal(517x247:713x443)/cdn.vox-cdn.com/uploads/chorus_image/image/69572852/Call_Filter_Hero_image_0.0.jpeg' width='700px' /><br/>
-Verizon wants to help curb those obnoxious “spoofing” calls from similar area codes to your own with a new tool called Neighborhood Filter.
-<a href='https://www.theverge.com/2021/7/12/22574415/verizon-neighborhood-filter-spoofed-calls'> Source <a/>

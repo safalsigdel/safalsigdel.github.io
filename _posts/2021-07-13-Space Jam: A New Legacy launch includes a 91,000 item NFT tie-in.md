@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NRi_bhwv3C_VytZa2GqWdQjd0AM=/0x0:1998x1080/1200x800/filters:focal(840x381:1158x699)/cdn.vox-cdn.com/uploads/chorus_image/image/69573830/rev_1_SJM_T1_0082_High_Res_JPEG.0.jpeg' width='700px' /><br/>
-On the same day we learned that Fortnite is adding a LeBron James skin to its metaverse, the PR machine for Space Jam: A New Legacy cranked out a different batch of digital collectibles. However, instead of directing viewers to a gloriously aging 90s-era website, they had to use NFTs.
-<a href='https://www.theverge.com/2021/7/12/22574752/niftys-nft-space-jam-lebron-james-warner-looney-tunes'> Source <a/>

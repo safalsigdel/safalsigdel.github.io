@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8lD3tBZ8MLJ1owpKEHdLxkWbBbk=/0x0:3300x2200/1200x800/filters:focal(1386x836:1914x1364)/cdn.vox-cdn.com/uploads/chorus_image/image/69574532/Home.0.jpg' width='700px' /><br/>
-YouTube's TikTok competitor, YouTube Shorts, is now rolling out globally. The service launched first in India last year, before expanding to around 26 countries including the US and the UK. Now YouTube Shorts, which is still in beta, will be available “across more than 100 countries around the world where YouTube is available.”
-<a href='https://www.theverge.com/2021/7/13/22575063/youtube-shorts-global-roll-out-tiktok-short-form-video'> Source <a/>
