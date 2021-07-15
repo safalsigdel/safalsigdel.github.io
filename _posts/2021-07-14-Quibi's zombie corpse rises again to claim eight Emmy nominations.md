@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p-8TVGq1diW9OewZ_kddXir5zb4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69577422/acastro_200403_3960_quibi_0004.0.0.jpg' width='700px' /><br/>
-Quibi wasn't long for this world, but its spirit refuses to let us move on from its chaotic memory. Despite shutting down in December, the doomed streaming service scooped up several Emmy nominations today for its shortform originals across three categories.
-<a href='https://www.theverge.com/2021/7/13/22575906/quibi-emmy-nominations-2021'> Source <a/>

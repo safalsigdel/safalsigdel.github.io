@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zH8KLWy5cUjEVvaA4tagEy2Wbyo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69582292/acastro_181114_1777_amazon_hq2_0002.0.jpg' width='700px' /><br/>
+Amazon toyed with yet another way of ingratiating itself into the lives of you and your family through an Alexa-enabled wearable for kids, Bloomberg reports. The device was considered for Amazon's 2020 product roadmap, according to documents Bloomberg viewed, and it would have added to the company's growing stable of kid-focused tech products.
+<a href='https://www.theverge.com/2021/7/14/22577165/amazon-wearable-for-kids-plus-gps-tracking'> Source <a/>

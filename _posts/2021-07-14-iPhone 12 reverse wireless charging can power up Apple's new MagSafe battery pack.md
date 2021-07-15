@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-aXD091zntR7KHzhEt3MFGmvQHM=/0x0:1615x893/1200x800/filters:focal(537x65:795x323)/cdn.vox-cdn.com/uploads/chorus_image/image/69578557/iphone_magsafe_packa.0.jpg' width='700px' /><br/>
-Apple surprised us Tuesday by simply putting its latest iPhone accessory on sale. The $99 MagSafe Battery Pack isn't the first power cell we've seen that uses Apple's new magnetic system to connect with the iPhone 12 family (Anker offers a 5,000mAh pack with slower 5W charging for $45.99), but it is the first one from Apple and can charge at up to 15W while it's plugged in.
-<a href='https://www.theverge.com/2021/7/13/22576245/iphone-12-reverse-wireless-charging-magsafe-battery-pack'> Source <a/>

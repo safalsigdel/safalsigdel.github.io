@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VHIMlSSIoZG0lSBXlCOopU4uwkQ=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/69580272/Kids_Profile_Top10_.0.png' width='700px' /><br/>
-Netflix is launching two new tools this week that should help make finding age-appropriate content a little easier to discover within the kids version of its streaming service.
-<a href='https://www.theverge.com/2021/7/14/22576252/netflix-kids-features-top-10'> Source <a/>

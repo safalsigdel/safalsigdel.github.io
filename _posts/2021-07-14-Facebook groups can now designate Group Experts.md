@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8nVj6JTGN7NgZIfvhSQong714lM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69578067/acastro_180522_facebook_0001.5.jpg' width='700px' /><br/>
-Facebook is introducing a new feature called “Group Experts” today, which will allow admins to designate which members are highly knowledgeable about the group's topic.
-<a href='https://www.theverge.com/2021/7/13/22576073/facebook-group-experts-badge-misinformation'> Source <a/>

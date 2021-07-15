@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P50srgj-C4NfrEdZlQaozDIsBpc=/0x0:2000x1250/1200x800/filters:focal(840x465:1160x785)/cdn.vox-cdn.com/uploads/chorus_image/image/69578364/Google_Meet_1.max_2000x2000.0.png' width='700px' /><br/>
-Google has brought an end to its effectively “unlimited” group video calls in Meet for free Gmail accounts, according to support pages spotted by 9to5Google. Now users with free accounts logging on to Meet will have group calls capped at an hour rather than the previous 24-hour meeting duration.
-<a href='https://www.theverge.com/2021/7/13/22576137/google-meet-group-meeting-cap-one-hour'> Source <a/>

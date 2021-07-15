@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F0J8FRaHvla8oHDCrdkuts-TxDw=/0x0:3360x2100/1200x800/filters:focal(1412x782:1948x1318)/cdn.vox-cdn.com/uploads/chorus_image/image/69582868/safari.0.png' width='700px' /><br/>
+Apple has released its third developer betas for the upcoming iOS 15 and macOS Monterey, and they bring some much-needed fixes to Safari — namely, undoing some of the more controversial changes introduced in the earlier betas. For macOS, that means a normal tab bar that goes back to the previous design, while iOS is getting a more consistent design when it comes to the URL bar.
+<a href='https://www.theverge.com/2021/7/14/22577475/apple-safari-macos-monterey-ios-15-developer-beta-3-change-design'> Source <a/>

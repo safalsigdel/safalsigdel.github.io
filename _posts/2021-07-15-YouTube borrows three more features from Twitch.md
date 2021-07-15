@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GUrUPPhjwW5r9fUK9rBxBW9G8EQ=/0x0:875x440/1200x800/filters:focal(368x150:508x290)/cdn.vox-cdn.com/uploads/chorus_image/image/69582953/clips.0.jpg' width='700px' /><br/>
+YouTube is adding a trio of new features for live-streaming today that are all standbys for streamers on Twitch. Streamers will now be able to limit their chats to subscribers only, they'll be able to create polls inside of their chats, and they and their viewers will now be able to create clips from popular gaming streams.
+<a href='https://www.theverge.com/2021/7/14/22577574/youtube-twitch-features-subscriber-sub-only-chat-polls-clips'> Source <a/>

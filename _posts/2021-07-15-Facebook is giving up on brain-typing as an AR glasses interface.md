@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/g2VhjV0k984CHRsqxm8EI7N1-0o=/0x0:2000x1335/1200x800/filters:focal(533x356:853x676)/cdn.vox-cdn.com/uploads/chorus_image/image/69583230/FRLR_head_mounted_BCI_research_prototype_2.0.jpeg' width='700px' /><br/>
+A Facebook-backed initiative aiming to let people type by thinking has concluded with new findings published today.
+<a href='https://www.theverge.com/2021/7/14/22577095/facebook-bci-ucsf-chang-lab-brain-typing-research-update-project-steno-ar-vr'> Source <a/>

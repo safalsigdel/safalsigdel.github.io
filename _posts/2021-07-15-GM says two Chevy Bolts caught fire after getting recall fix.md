@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2k6Zj_2IkgMb9b2Bdndye23VnVQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69583390/akrales_170405_1582_0571.0.0.jpg' width='700px' /><br/>
+General Motors said Wednesday that two recent Bolt EV fires happened in vehicles that had already received the fix meant to prevent the battery pack from igniting, raising new questions about the recall announced last year. In the meantime, the automaker is warning owners of 2017-2019 model year Bolts not to charge the electric cars overnight, and to park them outside in case they catch fire.
+<a href='https://www.theverge.com/2021/7/14/22577757/gm-chevy-bolt-fires-recall-fix-software-update-not-working'> Source <a/>

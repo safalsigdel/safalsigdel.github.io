@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DnQx3xON6kgQfk7EXDUgnurFSs4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69579849/acastro_190201_1777_satellite_0002.0.jpg' width='700px' /><br/>
-Amazon has acquired a team of employees from Facebook focused on delivering internet connectivity from low Earth orbit satellites, The Information reports. Amazon paid Facebook an undisclosed sum as part of the acquisition, which saw more than a dozen Los Angeles-based employees switch companies in April to work on Project Kuiper. A Facebook spokesperson confirmed the news to The Information.
-<a href='https://www.theverge.com/2021/7/14/22576788/amazon-acquires-facebook-satellite-team-project-kuiper'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0n5YRrVf3qEIiIgn1qo6U4w3GVQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69583437/acastro_170621_1777_0006.0.jpg' width='700px' /><br/>
+Microsoft's Threat Intelligence Center (MSTIC) reported on Tuesday that SolarWinds software was attacked with a zero-day exploit by a group of hackers it calls “DEV-0322.” The hackers were focused on SolarWinds' Serv-U FTP software, with the presumed goal of accessing the company's clients in the US defense industry.
+<a href='https://www.theverge.com/2021/7/14/22577471/microsoft-solarwinds-hack-zero-day-serv-u'> Source <a/>

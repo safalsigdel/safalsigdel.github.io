@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mESeLmMcK_g23UgJka9pbdRfJdY=/0x0:1504x1003/1200x800/filters:focal(632x382:872x622)/cdn.vox-cdn.com/uploads/chorus_image/image/69580793/Razer_Blade__D17_7___2021__Lifestyle_Shoot_4.0.jpg' width='700px' /><br/>
-Razer's largest laptop is getting big upgrades. The new mid-2021 refresh of the Blade 17 will add newer CPUs, higher-powered GPUs, and an updated webcam.
-<a href='https://www.theverge.com/2021/7/14/22574485/razer-blade-17-more-gpu-power-intel-cpu'> Source <a/>

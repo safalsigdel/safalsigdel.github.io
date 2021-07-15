@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3RLt9iqZSwrzEIWU6P8NWESm_sU=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69580239/Snoopy02.0.png' width='700px' /><br/>
-Apple is bringing its educational “Today at Apple” classes to YouTube, the company announced Wednesday. The first episode will show you how to draw yourself as a Peanuts character in the company's Pages app.
-<a href='https://www.theverge.com/2021/7/14/22576342/today-at-apple-youtube-classes-sessions-peanuts-snoopy-show'> Source <a/>

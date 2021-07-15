@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qyldgpwsT6CKo7hm7BFRIEwEejY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69583623/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+A report this spring from The Information said that Netflix was seeking an executive to lead its push into gaming, with an eye toward offering an Apple Arcade or Xbox Game Pass-like subscription bundle. Now, as first reported by Bloomberg, the streaming company has hired Mike Verdu as its vice president of game development reporting to COO Greg Peters. A Netflix spokesperson confirmed the hire to The Verge.
+<a href='https://www.theverge.com/2021/7/14/22577868/netflix-video-games-confirmed-mike-verdu-ea-oculus-facebook'> Source <a/>

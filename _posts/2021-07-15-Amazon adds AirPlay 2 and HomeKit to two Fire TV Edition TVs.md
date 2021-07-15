@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C08CWzdtOQnRdK6JGXOXyGWuCuI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69584031/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
+Amazon is adding support for AirPlay 2 and HomeKit to two of its Fire TV Edition TVs in a free update, the company announced on Wednesday. Both the 2020 Toshiba 4K UHD Smart Fire TV with Dolby Vision and the 2020 Insignia 4K UHD Smart TV will receive the features, before they arrive on Amazon's less expensive Fire TV sticks and set-top boxes.
+<a href='https://www.theverge.com/2021/7/14/22577986/amazon-airplay-2-homekit-fire-tv-edition-toshiba-insignia'> Source <a/>
