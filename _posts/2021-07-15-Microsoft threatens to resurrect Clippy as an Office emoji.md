@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Microsoft is threatening to bring back its annoying loveable Clippy character. The software giant claims it will replace the paperclip emoji in Microsoft Office with Clippy if the tweet below gets 20,000 likes. The tweet has already surpassed that number, so it seems Clippy could be about to return as a more innocent emoji — but Microsoft is being coy about what might happen next.
-<a href='https://www.theverge.com/2021/7/14/22577468/microsoft-office-clippy-emoji-tweet-likes'> Source <a/>
