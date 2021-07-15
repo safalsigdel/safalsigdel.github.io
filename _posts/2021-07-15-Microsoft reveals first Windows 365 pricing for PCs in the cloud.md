@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oKtHvFBjP8VvSHNRKN4wrLUb53A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69585493/VRG_ILLO_4030_Windows_10_Guide_001.0.jpg' width='700px' /><br/>
+Microsoft announced its new Windows 365 service yesterday, but the company said it wouldn't discuss pricing options until the Cloud PCs launch on August 2nd. Now, Microsoft has inadvertently revealed one pricing option, allowing businesses to use a virtual Windows PC in the cloud for $31 per user, per month.
+<a href='https://www.theverge.com/2021/7/15/22578396/microsoft-windows-365-pricing-skus-monthly-subscription-cost'> Source <a/>

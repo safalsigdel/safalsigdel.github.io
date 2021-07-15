@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VTCDZVUWWgcCbq_1PPVG12RqDOQ=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/69585434/1231376251.0.jpg' width='700px' /><br/>
+On Thursday, the surgeon general published a new report calling on social media platforms to make new investments in combating online coronavirus misinformation.
+<a href='https://www.theverge.com/2021/7/15/22578431/white-house-surgeon-general-facebook-youtube-twitter-covid-19-misinformation-vaccines'> Source <a/>

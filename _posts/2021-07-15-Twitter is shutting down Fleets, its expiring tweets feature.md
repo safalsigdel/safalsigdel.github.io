@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VmwphUMaiIipOAiOXsIZC3ItBEI=/11x5:985x621/1200x800/filters:focal(810x160:1116x466)/cdn.vox-cdn.com/uploads/chorus_image/image/69581783/fleet_blog_1.jpg.twimg.1920.0.jpg' width='700px' /><br/>
-Say goodbye to Fleets, the row of fullscreen tweets at the top of the Twitter timeline that expire after 24 hours. The ephemeral tweet format is shutting down due to low usage after launching widely just eight months ago.
-<a href='https://www.theverge.com/2021/7/14/22577166/twitter-fleets-shuts-down-stories-clone'> Source <a/>
