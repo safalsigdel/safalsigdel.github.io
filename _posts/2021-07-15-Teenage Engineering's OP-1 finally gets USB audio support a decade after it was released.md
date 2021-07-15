@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rDPuCvuGpl3uQqx3yvlc3BlV6AQ=/0x0:4096x2729/1200x800/filters:focal(1721x1038:2375x1692)/cdn.vox-cdn.com/uploads/chorus_image/image/69580990/6076a6c4f88c8300047961c1_original.0.png' width='700px' /><br/>
-Teenage Engineering's OP-1 has one of the most iconic synthesizers around since it was first released over a decade ago, but the music-making machine is still getting new features: the company just announced its 243rd firmware update that adds USB audio support to the OP-1 for the first time.
-<a href='https://www.theverge.com/2021/7/14/22577029/teenage-engineering-op-1-usb-audio-support-firmware-update'> Source <a/>

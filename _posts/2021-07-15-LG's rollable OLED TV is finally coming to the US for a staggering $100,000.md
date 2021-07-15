@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-LG's futuristic rollable OLED 4K TV is coming to the US for an eye-popping price of $100,000. First introduced as a stunning prototype at CES 2018 (and then turned into a real product the next year), the 65-inch set can roll itself up and then back down to fully disappear into its housing unit.
-<a href='https://www.theverge.com/2021/7/14/22577063/lg-oled-r-rollable-tv-us-pricing-features-release-date'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J8HZEwjL38cKTiGxCst7oYZ13jc=/0x0:8256x5504/1200x800/filters:focal(3468x2092:4788x3412)/cdn.vox-cdn.com/uploads/chorus_image/image/69585266/1232190357.0.jpg' width='700px' /><br/>
+Chip manufacturer Taiwan Semiconductor Manufacturing Company (TSMC) has reiterated that it expects chip shortages to continue into next year, Bloomberg reports. The warning came as the company reported its latest financial results, which saw its net sales rise almost 20 percent to NT$372 billion (around $13.3 billion) compared to the same quarter the previous year. However, automakers should see the shortage gradually easing this quarter.
+<a href='https://www.theverge.com/2021/7/15/22578361/tsmc-revenue-surge-chip-shortage-continues'> Source <a/>
