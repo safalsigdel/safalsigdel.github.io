@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/evkTQBlyOR8BH6zhA3BVWrvLWTs=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/69586417/01_galaxy_chromebook_go_wifi_silver_front_open.0.jpg' width='700px' /><br/>
+Samsung's new entry-level Chrome OS laptop, the $299 Galaxy Chromebook Go, is available to purchase now at Samsung's website and other retailers. While only the Wi-Fi model is available Thursday, Samsung plans to offer an LTE model in the coming weeks, which should be a nice extra perk for web browsing on the go.
+<a href='https://www.theverge.com/2021/7/15/22578635/samsung-galaxy-chromebook-on-sale'> Source <a/>
