@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OHyjhHUbXZgxKKAs1GZf5plllMo=/0x0:699x363/1200x800/filters:focal(287x119:397x229)/cdn.vox-cdn.com/uploads/chorus_image/image/69586505/Screen_Shot_2021_07_15_at_12.52.47_PM.0.png' width='700px' /><br/>
+The draft list for the next round of new emoji was announced today, two days ahead of World Emoji Day on July 17th. Contenders include a melting smiley face, a low battery, a disco ball, and several new hand shapes — like heart hands and index finger pointing at viewer — for courting your sweeties or taunting your enemies.
+<a href='https://www.theverge.com/2021/7/15/22578697/new-emoji-14-0-finalists-unicode-consortium'> Source <a/>
