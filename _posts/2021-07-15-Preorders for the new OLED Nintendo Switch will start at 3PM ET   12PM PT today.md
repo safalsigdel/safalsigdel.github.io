@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D293iF_DU25wbl8eqGTqNbYTivQ=/0x0:1200x680/1200x800/filters:focal(504x244:696x436)/cdn.vox-cdn.com/uploads/chorus_image/image/69585365/Nitendo_Switch_OLED_Model_Press_Image_Front.0.jpeg' width='700px' /><br/>
+Preorders for Nintendo's new OLED Switch model will start today, July 15th, at 3PM ET / 12PM PT, the company announced today. The console is set to be released on October 8th for $350, a $50 price increase over the standard Switch model. Nintendo isn't offering any specific details, directing customers to check with stores directly for how they'll be handling preorders.
+<a href='https://www.theverge.com/2021/7/15/22578368/nintendo-switch-oled-preorder-time-price-release-date'> Source <a/>

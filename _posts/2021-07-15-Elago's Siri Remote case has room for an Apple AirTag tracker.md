@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ix4EVaS9tRzzAMyDRY9i6rGKtzY=/0x0:2110x1188/1200x800/filters:focal(887x426:1223x762)/cdn.vox-cdn.com/uploads/chorus_image/image/69585418/siri_remote_airtag_case.0.jpg' width='700px' /><br/>
+Apple's new Siri Remote arrived without a built-in locator chip, so Elago has created the next best thing: the R5 silicone case with a slot for Apple's new AirTag tracker. According to Elago, it features a “THICK LAYER OF PREMIUM SILICONE,” which is so dense it can only be expressed in caps.
+<a href='https://www.theverge.com/2021/7/15/22578412/apple-tv-remote-airtag-case-price-date'> Source <a/>
