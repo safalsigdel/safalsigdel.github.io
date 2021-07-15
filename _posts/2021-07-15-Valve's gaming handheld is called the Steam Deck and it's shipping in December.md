@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dkpEmLFvpmXpnG7gNSnhdwd9eZ4=/0x0:1831x1373/1200x800/filters:focal(770x541:1062x833)/cdn.vox-cdn.com/uploads/chorus_image/image/69586300/Image_from_iOS.0.jpg' width='700px' /><br/>
+Valve just announced the Steam Deck, its long-rumored Switch-like handheld gaming device. It will begin shipping in December. It starts at $399.
+<a href='https://www.theverge.com/2021/7/15/22578783/valve-steam-deck-gaming-handheld-pc'> Source <a/>
