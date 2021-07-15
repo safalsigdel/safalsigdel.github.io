@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VNhyyHEl8f6_NdV1yq3Q5u1YrOw=/0x0:960x600/1200x0/filters:focal(0x0:960x600):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22716693/windows365web.jpg' width='700px' /><br/>
-Microsoft is putting Windows in the cloud. Windows 365 is a new service that will let businesses access Cloud PCs from anywhere, streaming a version of Windows 10 or Windows 11 in a web browser. While virtualization and remote access to PCs has existed for more than a decade, Microsoft is betting on Windows 365 to offer Cloud PCs to businesses just as they shift toward a mix of office and remote work.
-<a href='https://www.theverge.com/2021/7/14/22575064/microsoft-windows-365-cloud-pc-launch-date-price-features'> Source <a/>
