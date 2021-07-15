@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v7dWeczFCED3HlsTtljFbHLp9BY=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22718943/Clippy.png' width='700px' /><br/>
+Microsoft is bringing its infamous Clippy character back to life as an emoji in Office. After a successful campaign to get some Twitter and Instagram likes, Clippy will now replace the paperclip emoji that exists across Windows, Office, Microsoft Teams, and other Microsoft 365 products. It's part of a bigger update that will see 1,800 emoji in Microsoft 365 updated with 3D designs and the company's Fluent Design language.
+<a href='https://www.theverge.com/2021/7/15/22578352/microsoft-new-3d-emoji-clippy-windows-office'> Source <a/>

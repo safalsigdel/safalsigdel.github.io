@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fYarPrUJzgXkFy7PxHLJ5l-jStU=/0x0:3026x1847/1200x800/filters:focal(1271x682:1755x1166)/cdn.vox-cdn.com/uploads/chorus_image/image/69580986/1233240471.0.jpg' width='700px' /><br/>
-The European Union has proposed phasing out gas-powered internal combustion engine vehicles by 2035, part of a sweeping new plan to drastically reduce carbon emissions on the continent.
-<a href='https://www.theverge.com/2021/7/14/22576994/european-union-gas-vehicle-ice-ban-2035-electric-cars'> Source <a/>
