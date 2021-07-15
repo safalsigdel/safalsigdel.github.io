@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o_eTbnpyuTN0wZY-QMa0tw-Ox9Y=/0x0:5184x3456/1200x800/filters:focal(1299x515:2127x1343)/cdn.vox-cdn.com/uploads/chorus_image/image/69584707/1233602900.0.jpg' width='700px' /><br/>
+Candace Parker has become the first WNBA player to appear on the cover of an NBA 2K game. The Chicago Sky forward, a six-time WNBA All-Star, two-time WNBA MVP, and 2016 WNBA Finals MVP, is featured on the cover of the WNBA 25th Anniversary Special Edition of NBA 2K22, which will be released on September 10th.
+<a href='https://www.theverge.com/2021/7/15/22578218/nba-2k22-cover-stars-candace-parker-luka-doncic-release-date'> Source <a/>
