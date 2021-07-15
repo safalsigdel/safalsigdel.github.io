@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CcImWh4otZVnLpudi0qEZpzPQTc=/0x0:890x501/1200x800/filters:focal(374x180:516x322)/cdn.vox-cdn.com/uploads/chorus_image/image/69586198/Soundmoji_Still_3_Up_FB_Newsroom_en_US.0.png' width='700px' /><br/>
+Facebook is adding emoji with sound to Facebook Messenger. The name for them, of course, is Soundmojis.
+<a href='https://www.theverge.com/2021/7/15/22578633/facebook-messenger-sound-emoji-soundmojis'> Source <a/>
