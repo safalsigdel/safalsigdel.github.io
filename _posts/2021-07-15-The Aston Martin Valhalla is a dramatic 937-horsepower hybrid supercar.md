@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hJDjJmWCY-iqBy_WUTkmCuEX2zc=/0x0:2400x1601/1200x800/filters:focal(1008x609:1392x993)/cdn.vox-cdn.com/uploads/chorus_image/image/69585714/Aston_Martin_Valhalla_05.0.jpg' width='700px' /><br/>
+Two years after Aston Martin debuted the striking but clumsily titled AM-RB 003 concept, the final production version has arrived with a much simpler name: Valhalla.
+<a href='https://www.theverge.com/2021/7/15/22578032/aston-martin-valhalla-supercar-specs-photos-f1'> Source <a/>
