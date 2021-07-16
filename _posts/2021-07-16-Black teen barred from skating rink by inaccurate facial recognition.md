@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0vDIdlp3vncfQ2v5dzeM2Q6gB-w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69586966/acastro_180730_1777_facial_recognition_0003.0.jpg' width='700px' /><br/>
-A facial recognition algorithm used by a local roller skating rink in Detroit wouldn't let teen Lamya Robinson onto the premises, and accused her of previously getting into a fight at the establishment.
-<a href='https://www.theverge.com/2021/7/15/22578801/black-teen-skating-rink-inaccurate-facial-recognition'> Source <a/>
