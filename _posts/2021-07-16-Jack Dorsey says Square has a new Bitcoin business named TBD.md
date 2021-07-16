@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pfgg915cgyyawFE1hpNZ5XeEpME=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69588607/1321753461.0.jpg' width='700px' /><br/>
+Jack Dorsey, CEO of both Twitter and Square, is enough of a fan of cryptocurrency that Square's push into the area won't stop at releasing a hardware wallet. Instead, the company is creating a new business, to go with existing units like Tidal and Cash App, which is “focused on building an open developer platform with the sole goal of making it easy to create non-custodial, permissionless, and decentralized financial services.”
+<a href='https://www.theverge.com/2021/7/15/22579359/jack-dorsey-tbd-open-source-defi-crypto-square-bitcoin'> Source <a/>

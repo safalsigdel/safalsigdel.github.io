@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WaMWMt1Yl8FSvo_4TbutgRbJhBU=/0x0:5279x3519/1200x800/filters:focal(682x833:1526x1677)/cdn.vox-cdn.com/uploads/chorus_image/image/69587143/abpu_s11_newfoundalnd1.0.jpg' width='700px' /><br/>
+In a new documentary, Roadrunner, about the life and tragic death of Anthony Bourdain, there are a few lines of dialogue in Bourdain's voice that he might not have ever said out loud.
+<a href='https://www.theverge.com/2021/7/15/22578707/anthony-bourdain-documentary-deepfake-voice'> Source <a/>

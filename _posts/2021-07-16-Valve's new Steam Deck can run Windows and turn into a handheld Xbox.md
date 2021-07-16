@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QCr_-KBDo19UCIB80W4JpAyNLMI=/0x0:4800x2700/1200x800/filters:focal(2016x966:2784x1734)/cdn.vox-cdn.com/uploads/chorus_image/image/69586974/Steam_Deck_case.0.jpg' width='700px' /><br/>
+Valve just announced its new handheld Steam Deck, powered by a custom Linux operating system. The 7-inch device will play the latest AAA games, and because it's a PC, you'll even be able to install Windows on it. That means the Steam Deck could be the perfect Xbox portable, given Microsoft's investment in shipping all of its future Xbox Game Studios titles on PC.
+<a href='https://www.theverge.com/2021/7/15/22578879/valve-steam-deck-handheld-pc-windows-support'> Source <a/>

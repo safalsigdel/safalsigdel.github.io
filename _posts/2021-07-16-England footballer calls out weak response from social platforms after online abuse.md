@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/De59Si_YpMTAMbwov5GJhtgjja8=/0x0:5184x3456/1200x800/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/69588369/1328717139.0.jpg' width='700px' /><br/>
+Bukayo Saka, a player on England's national football team said in an Instagram post Thursday that social media platforms did not do enough to prevent the racist abuse he and his teammates were subjected to after the team's loss to Italy.
+<a href='https://www.theverge.com/2021/7/15/22579020/england-football-racism-social-platforms-abuse-twitter-instagram-facebook'> Source <a/>

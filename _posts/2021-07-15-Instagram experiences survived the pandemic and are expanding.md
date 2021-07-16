@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vF4HsLnLkFwOc34VwjhycUlMzE0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69585210/akrales_191010_3617_0006.0.jpg' width='700px' /><br/>
-The pandemic nearly killed those Instagram-ready pop-up experiences. Places like Color Factory and Museum of Ice Cream laid off employees as the world shut down, and they tried, seemingly unsuccessfully, to re-create their photogenic experiences online. But now, they're back, raising money, and opening new locations.
-<a href='https://www.theverge.com/2021/7/15/22578372/color-factory-fundraise-chicago-location'> Source <a/>

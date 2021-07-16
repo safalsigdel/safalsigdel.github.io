@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wppGubXYNehXhiuaz6mv147FaxI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69587844/acastro_210104_1777_google_0001.0.jpg' width='700px' /><br/>
+Google is launching a new privacy feature for search that lets you instantly delete your last 15 minutes of search history on mobile, the company announced on Thursday. The new option was first revealed alongside several other search and Chrome improvements at I/O 2021 and is now rolling out to everyone.
+<a href='https://www.theverge.com/2021/7/15/22578981/google-search-history-quick-delete-15-minutes'> Source <a/>
