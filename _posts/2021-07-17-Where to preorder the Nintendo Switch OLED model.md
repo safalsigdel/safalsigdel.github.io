@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c2cURII6KejJhMjtj8FqJl56OT8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69587173/oled_model_photo_01.0.png' width='700px' /><br/>
-Update July 15th, 4:55PM ET: The Nintendo Switch OLED model is no longer available for preorder in either color.
-<a href='https://www.theverge.com/22565905/nintendo-switch-oled-model-preorder-price-availability-where-to-buy'> Source <a/>
