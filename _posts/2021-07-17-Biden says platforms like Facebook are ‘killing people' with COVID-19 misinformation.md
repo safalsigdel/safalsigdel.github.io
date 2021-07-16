@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F4-UYgEWA44FiVay1ha9-nIk8Nc=/0x0:3329x2220/1200x800/filters:focal(909x266:1441x798)/cdn.vox-cdn.com/uploads/chorus_image/image/69592933/1329088138.0.jpg' width='700px' /><br/>
+The White House escalated its fight against vaccine misinformation on Friday, with President Biden directly criticizing Facebook and other platforms for allowing vaccine misinformation to spread — and consequently raising the ongoing death toll from the deadly pandemic.
+<a href='https://www.theverge.com/2021/7/16/22580620/biden-facebook-vaccine-misinformation-platforms'> Source <a/>
