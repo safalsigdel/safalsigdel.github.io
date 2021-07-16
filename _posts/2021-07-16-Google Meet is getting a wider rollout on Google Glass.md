@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HR3SdknmAVBjHcgNAzCeksd_B_Y=/0x0:1500x625/1200x800/filters:focal(434x30:674x270)/cdn.vox-cdn.com/uploads/chorus_image/image/69586219/header_2880x1200.max_1500x1500.0.png' width='700px' /><br/>
-Google Meet videoconferencing is adding fuller support for Google Glass, the company's frequently overlooked augmented reality headset. Yesterday, Google announced an open beta of “Meet on Glass” for the Glass Enterprise Edition 2. Users with Google Workspace can sign up to test the service following a closed beta announced last year.
-<a href='https://www.theverge.com/2021/7/15/22578691/google-meet-glass-ar-remote-assistance-rollout-open-beta'> Source <a/>
