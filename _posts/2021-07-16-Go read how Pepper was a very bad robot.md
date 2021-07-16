@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gyEePrNkTFfkKUl4tHLsYO3bilk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69585516/DSCF5474.0.jpg' width='700px' /><br/>
-SoftBank's Pepper robot is dead, and The Wall Street Journal is dancing upon its grave with a thorough account of how the “emotional robot” failed to live up to the hype. Expectations were so inflated back in 2014 that the first batch of 1,000 robots sold out in a minute, despite being priced close to $2,000.
-<a href='https://www.theverge.com/2021/7/15/22578346/pepper-robot-failures-wall-street-journal'> Source <a/>

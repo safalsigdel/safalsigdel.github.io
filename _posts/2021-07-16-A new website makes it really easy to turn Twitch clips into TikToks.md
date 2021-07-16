@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BZbPAJ9uoGtWnHLEP77DFwg0cCY=/0x129:2252x1778/1200x800/filters:focal(969x775:1329x1135)/cdn.vox-cdn.com/uploads/chorus_image/image/69585936/Screen_Shot_2021_07_14_at_4.40.44_PM.0.png' width='700px' /><br/>
-Logitech-owned Streamlabs, maker of the popular livestreaming app Streamlabs OBS, is releasing a new tool today called Crossclip that lets you take your favorite Twitch clips and turn them into social videos formatted for platforms like TikTok, YouTube, or Instagram.
-<a href='https://www.theverge.com/2021/7/15/22577921/logitech-streamlabs-crossclip-twitch-clips-tiktok-youtube-instagram'> Source <a/>
