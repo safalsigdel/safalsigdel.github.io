@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-NH7n9nh4XZ_DJE169Aq8I_2CXs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69587399/acastro_180828_1777_facebook_0002.0.jpg' width='700px' /><br/>
-Online shoppers will eventually see another option listed next to the usual payment methods, now that Facebook Pay will expand beyond the company's own platforms. Not long after credit card companies dropped out of its Libra cryptocurrency project, Facebook launched its payments system for use across the main site, as well as WhatsApp and Instagram.
-<a href='https://www.theverge.com/2021/7/15/22578676/facebook-pay-button-shopify-online-payments'> Source <a/>
