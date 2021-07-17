@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sXhIcecPZR4wXvr6Pt3NdsqEdMs=/0x0:2754x1768/1200x800/filters:focal(1114x751:1554x1191)/cdn.vox-cdn.com/uploads/chorus_image/image/69587966/Screen_Shot_2021_07_15_at_1.39.04_PM.0.png' width='700px' /><br/>
-Elgato's Stream Deck is a popular tool for live-streamers, letting them set shortcuts and controls they can access with the push of a button, and the company announced a new model on Thursday, the Stream Deck MK. 2. This version brings a host of welcome improvements, including a detachable stand, interchangeable faceplates, and a removable USB-C cable. You can order it right now on Elgato's website for $149.99.
-<a href='https://www.theverge.com/2021/7/15/22579144/elgato-stream-deck-mk-2-stand-faceplates-usb-c-valve'> Source <a/>

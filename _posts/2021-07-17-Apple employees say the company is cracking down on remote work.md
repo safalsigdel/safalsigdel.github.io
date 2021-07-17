@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zNV_ijsZA2uvFXMUT3we0gA-3xM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69588205/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-Apple employees say it's harder than ever to get remote work requests approved after the company rolled out a new hybrid model that will require people to return to the office three days a week starting in early September. Some employees say they will quit if Apple doesn't change its stance.
-<a href='https://www.theverge.com/2021/7/15/22578804/apple-employees-work-from-home-request-denied-hybrid-model'> Source <a/>
