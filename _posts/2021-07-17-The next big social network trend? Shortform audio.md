@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aXdayaLtqY7icx-Lp6U1O3ndYQg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69590312/acastro_210709_4664_micropodcasting_0001.0.jpg' width='700px' /><br/>
+“So I've identified a few metrics and KPIs that I'm going to start tracking in order to better my overall life experience,” Farbod Nowzad says, seemingly seriously, into his phone microphone.
+<a href='https://www.theverge.com/2021/7/16/22570683/audio-short-form-podcast-app-racket-beams'> Source <a/>

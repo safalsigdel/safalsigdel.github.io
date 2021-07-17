@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RXx1A7-1feqXOHQZwaE64idcwFQ=/0x0:2048x1155/1200x800/filters:focal(861x415:1187x741)/cdn.vox-cdn.com/uploads/chorus_image/image/69591880/Untitled.0.jpg' width='700px' /><br/>
+Google is tweaking 992 of its emoji designs to make them more “universal, accessible, and authentic,” the company announced today. The new designs will arrive this fall alongside Android 12, but Google says they'll also be available on older versions with apps that use its Appcompat compatibility layer. They're also coming to other Google platforms like Gmail, Chrome OS, Google Chat, and YouTube Live Chat this month.
+<a href='https://www.theverge.com/2021/7/16/22579805/google-emoji-redesign-2021-android-gmail-pumpkin-pie'> Source <a/>
