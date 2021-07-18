@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ewVzf6WM7hib1MsBQ0R0015hcCM=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/69589717/DSCF5698.jpg_copy.0.jpg' width='700px' /><br/>
-Xiaomi is now the second largest smartphone vendor based on worldwide shipments in the second quarter of 2021, according to a new report from Canalys. The Chinese company captured 17 percent of global market share, according to the research firm, just behind Samsung's 19 percent but ahead of Apple's 14 percent.
-<a href='https://www.theverge.com/2021/7/16/22579771/worldwide-smartphone-market-share-ranking-q2-2022-canalys-xiaomi-apple-samsung'> Source <a/>

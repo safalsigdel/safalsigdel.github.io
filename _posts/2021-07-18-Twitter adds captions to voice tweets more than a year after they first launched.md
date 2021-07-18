@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1s9sZo5lpOLTu6CX_Y2LN-7nkdE=/0x0:1200x1200/1200x800/filters:focal(504x504:696x696)/cdn.vox-cdn.com/uploads/chorus_image/image/69589057/E6XiiGlWQAYISTV.0.jpeg' width='700px' /><br/>
-Twitter is now rolling out captions for voice tweets, the company announced Thursday. Twitter first launched voice tweets in June 2020, but they were quickly criticized at the time by accessibility advocates for not having captions.
-<a href='https://www.theverge.com/2021/7/15/22579420/twitter-voice-tweets-captions'> Source <a/>
