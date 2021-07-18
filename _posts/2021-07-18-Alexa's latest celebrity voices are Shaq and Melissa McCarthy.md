@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V19nWKmLtC49q-fHsPVNni5ePrY=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69590088/dseifert_201025_4263_0009.0.0.jpg' width='700px' /><br/>
-Shaquille O'Neal and Melissa McCarthy are the latest celebrities to lend their voices to Amazon's Alexa voice assistant, the company has announced. The two voices can provide weather reports, jokes, and personal stories when asked using the wake words “Hey Melissa” or “Hey Shaq.” Both voices cost $4.99 individually, and are rolling out in the US now.
-<a href='https://www.theverge.com/2021/7/16/22579880/alexa-celebrity-voices-shaquille-oneal-melissa-mccarthy'> Source <a/>
