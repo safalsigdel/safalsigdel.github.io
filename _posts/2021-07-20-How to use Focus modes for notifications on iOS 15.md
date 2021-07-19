@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ei8pzxQZ74LDPxDufwJ94R0OhcY=/0x0:3360x2100/1200x800/filters:focal(1412x782:1948x1318)/cdn.vox-cdn.com/uploads/chorus_image/image/69597243/focus2.0.png' width='700px' /><br/>
-One of the most powerful new features in iOS 15, iPadOS 15, and macOS Monterey, is Focus mode.
-<a href='https://www.theverge.com/22579920/how-to-use-focus-modes-apple-ios-15-ipados-macos-monterey'> Source <a/>

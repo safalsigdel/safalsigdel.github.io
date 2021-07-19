@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/11490453/a-01.0.png' width='700px' /><br/>
+Apple's first official MagSafe Battery Pack is beginning to arrive on shelves, and one iPhone owner has now snapped what appear to be the first actual photos of the gadget. And yes, it's a chonk.
+<a href='https://www.theverge.com/circuitbreaker/2021/7/19/22583859/apple-magsafe-battery-pack-thickness-size-shape-plastic'> Source <a/>
