@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qDpRUAPzEgDmg9Gzv_3jxqyXiGs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69601334/vpavic_4547_20210421_0006.0.jpg' width='700px' /><br/>
+Amazon Web Services (AWS) has banned NSO Group, the company behind the Pegasus spyware program. Vice reported the ban this morning, the day after a sweeping report alleged Pegasus was used to target the phones of human rights activists and journalists.
+<a href='https://www.theverge.com/2021/7/19/22583523/amazon-web-services-bans-nso-group-pegasus-spyware-infrastructure'> Source <a/>
