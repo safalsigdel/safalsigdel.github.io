@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kMpMjBlS9ftNw4QsDfdKJ_BB0Us=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69596113/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
+Facebook continued its pushback Saturday against President Biden's comment that social media platforms were “killing people” with COVID-19 misinformation, in a blog post from its vice president of integrity Guy Rosen. The post states that the “facts tell a very different story to the one promoted by the administration in recent days.”
+<a href='https://www.theverge.com/2021/7/17/22581683/facebook-biden-remarks-covid-19-vaccine-misinformation'> Source <a/>

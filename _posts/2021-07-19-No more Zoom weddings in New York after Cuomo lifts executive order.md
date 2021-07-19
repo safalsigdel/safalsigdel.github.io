@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/l95-FxWEuK1ywjhtAHjERhIge3U=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69595133/VRG_3955_zoomweddings.0.0.jpg' width='700px' /><br/>
+Virtual weddings, one of the more endearing traditions to emerge during last year's pandemic-related lockdowns, are no longer legal in New York now that Gov. Andrew Cuomo has lifted his April executive order. First reported by the New York Times, the order Cuomo signed was meant for a state of emergency, and he rescinded the EO effective June 25th.
+<a href='https://www.theverge.com/2021/7/17/22581333/no-more-zoom-weddings-new-york-cuomo-lifts-executive-order'> Source <a/>
