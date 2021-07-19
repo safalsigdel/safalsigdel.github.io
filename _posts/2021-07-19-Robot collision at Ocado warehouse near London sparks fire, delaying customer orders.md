@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NrnFLzEse0qakKxkQuxHMUt3BlA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69597621/jvincent_180501_2547_0012.0.jpg' width='700px' /><br/>
-Online-only British supermarket Ocado has had to cancel some customers' delivery orders after a Friday robot collision at one of its warehouses caused a fire, the company said.
-<a href='https://www.theverge.com/2021/7/18/22582454/robot-collision-ocado-warehouse-england-fire-delayed-orders'> Source <a/>
