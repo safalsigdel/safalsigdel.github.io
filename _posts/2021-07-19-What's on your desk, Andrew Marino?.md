@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GPEniF6xGM0cT-sepWeBlCAhGlQ=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69594843/amarino_210711_4666_0006.0.jpg' width='700px' /><br/>
-Podcasting can be a fun and incredibly creative field — but also a very demanding one. Your skill set not only has to include familiarity with a variety of audio hardware and software, but you also need imagination, a good feel for what will sound good to your audience, and a very sensitive ear.
-<a href='https://www.theverge.com/22577580/whats-on-your-desk-andrew-marino'> Source <a/>
