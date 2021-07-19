@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EI-Matd-RCIZMU9MlTkj6XmmVz4=/0x0:5472x3648/1200x800/filters:focal(2040x487:2914x1361)/cdn.vox-cdn.com/uploads/chorus_image/image/69599545/1233863534.0.jpg' width='700px' /><br/>
+Tencent has announced plans to buy British video game company Sumo Group for $1.27 billion. The Chinese tech giant already has an 8.75-percent stake in the developer, as Gamesindustry.biz reports, and the offer represents a 43-percent premium on Sumo's current valuation.
+<a href='https://www.theverge.com/2021/7/19/22583186/tencent-sumo-digital-buyout-announced-price-acquisition'> Source <a/>
