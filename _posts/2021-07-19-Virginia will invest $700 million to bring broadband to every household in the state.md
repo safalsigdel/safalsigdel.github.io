@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ndmsVYTZK3o0WDstD2MdvWdJf8A=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69592584/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
+On Friday, Virginia Gov. Ralph Northam (D) announced that the state plans to invest $700 million in American Rescue Plan funding to reach universal broadband connectivity by 2024. This new investment shaves four years off of the governor's original plan to connect every household to high-speed broadband.
+<a href='https://www.theverge.com/2021/7/16/22580559/virginia-broadband-household-ralph-northam-mark-warner'> Source <a/>
