@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bMJu5UiWHgTfW79bMHWJUn1fV9c=/0x0:3832x2551/1200x0/filters:focal(0x0:3832x2551):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/18341550/FortniteWorldCup2019_Solo_WinnersCircle_02.jpg' width='700px' /><br/>
+Two years ago, Kyle “Bugha” Giersdorf became the first — and so far, only — Fortnite World Cup champion. Now he's being immortalized in the game itself.
+<a href='https://www.theverge.com/2021/7/19/22583750/fortnite-world-cup-champion-bugha-skin-release-date'> Source <a/>
