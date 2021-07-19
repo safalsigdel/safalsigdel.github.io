@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AomHDX5pxURV-S6AClJ8VMOEKLM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69600649/acastro_200331_1777_zoom_0002.0.0.jpg' width='700px' /><br/>
+Videoconferencing platform Zoom is acquiring cloud contact center software company Five9 for $14.7 billion, the company announced.
+<a href='https://www.theverge.com/2021/7/19/22583371/zoom-buys-five9-14-7-billion-videoconferencing-lockdown'> Source <a/>
