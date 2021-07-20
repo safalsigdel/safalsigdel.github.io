@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yWPXZfmyNrWqYQysxBPBcEuThZg=/0x0:2040x1360/1200x800/filters:focal(825x685:1151x1011)/cdn.vox-cdn.com/uploads/chorus_image/image/69605450/vpavic_4291_20201113_0385.0.0.jpg' width='700px' /><br/>
+Adobe's Premiere Pro is now ready for everyone using an M1 Mac. Support for Apple's new chips is rolling out today, after launching in beta in December. Adobe says there are speed increases throughout the app, from a 50 percent faster launch to 77 percent faster “editing,” whatever that giant term encompasses.
+<a href='https://www.theverge.com/2021/7/20/22584992/adobe-premiere-pro-apple-m1-support'> Source <a/>
