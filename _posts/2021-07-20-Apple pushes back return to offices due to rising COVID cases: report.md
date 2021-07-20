@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/l3iokEfqU7vvOLoKABIVW5KKHaE=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69604566/1178079031.0.jpg' width='700px' /><br/>
+Apple is delaying its plan to return to mandatory in-person work because of the increase of COVID cases driven by the Delta variant, according to Bloomberg. The company had laid out a roadmap for returning to its offices in early September, with employees expected to come in at least three days a week, but now that deadline has reportedly been extended “by at least a month to October at the earliest.”
+<a href='https://www.theverge.com/2021/7/20/22584761/apple-return-to-office-delayed-covid-delta-variant'> Source <a/>
