@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y6CPnFiMFORFBER5I2A_4WPJPME=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69606592/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/Vefrj6I3gKmwkc6jVejGfHcyOUw=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/69606592/E6v2Gn7WQAEqJmS.5.jpg' width='700px' /><br/>
 Kayvon Beykpour said in a March interview with The Verge that Twitter does know Tweetdeck still exists and the company is working on an overhaul “from the ground up.” Today, Twitter posted a single image of the reworked app, explaining that it represents a preview going into testing with a few “randomly-selected” people from the US, Canada, and Australia.
 <a href='https://www.theverge.com/2021/7/20/22585249/tweetdeck-redesign-twitter-column-deck'> Source <a/>
