@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8tSptKxCGSgSkg22aA3fyl6njHg=/0x0:3438x2292/1200x800/filters:focal(1444x871:1994x1421)/cdn.vox-cdn.com/uploads/chorus_image/image/69600463/1211180725.0.jpg' width='700px' /><br/>
-Cable news behemoth CNN said Monday it is joining the ever-crowded streaming marketplace, adding its CNN Plus service sometime in the first quarter, according to a press release. The new service “complements the core CNN linear networks and digital platforms to serve CNN superfans, news junkies and fans of quality non-fiction programming.”
-<a href='https://www.theverge.com/2021/7/19/22583424/cnn-plus-launch-streaming-service-first-quarter'> Source <a/>

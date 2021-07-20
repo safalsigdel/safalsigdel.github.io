@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Cky1ObRbBzdrgROouQZbXeI34sk=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69605343/VRG_ILLO_Decoder_Roger_Dahle_s.0.jpg' width='700px' /><br/>
+If your TikTok algorithm is anything like mine, you know that Weber and Traeger are not necessarily the hottest thing in cooking outside. In fact, grilling is out, and griddling is in. That's griddling, as in on a griddle — a large flat sheet of metal like you would see in a diner or a hibachi restaurant. And the company behind the griddle revolution is called Blackstone Products and they make the Blackstone griddle.
+<a href='https://www.theverge.com/22583787/blackstone-griddle-roger-dahle-interview-decoder'> Source <a/>

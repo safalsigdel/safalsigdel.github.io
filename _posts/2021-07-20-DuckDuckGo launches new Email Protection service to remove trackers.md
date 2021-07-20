@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PptxI1DfVTFdtdnrifnauZJ94aM=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69605352/VRG_4614_3_EmailTracking.0.jpg' width='700px' /><br/>
+DuckDuckGo is launching a new email privacy service meant to stop ad companies from spying on your inbox.
+<a href='https://www.theverge.com/2021/7/20/22576352/duckduckgo-email-protection-privacy-trackers-apple-alternative'> Source <a/>
