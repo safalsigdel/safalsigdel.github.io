@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1KUw16ddX-e8n-eFkixm8tl2H2c=/0x0:1772x1182/1200x800/filters:focal(745x450:1027x732)/cdn.vox-cdn.com/uploads/chorus_image/image/69599804/msedge_aSMXAeu0yk.0.jpg' width='700px' /><br/>
-Bose appears to be on the cusp of releasing a successor to its much loved QuietComfort 35 noise-cancelling wireless headphones, judging by the appearance of an FCC filing for a QuietComfort 45 model, WinFuture reports.
-<a href='https://www.theverge.com/2021/7/19/22583264/bose-quietcomfort-45-headphones-qc45-fcc-filing-leak'> Source <a/>
