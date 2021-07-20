@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nvC5Soird4ovPhfUmd1g1m-gavw=/0x0:4000x3000/1200x800/filters:focal(1680x1180:2320x1820)/cdn.vox-cdn.com/uploads/chorus_image/image/69604235/mockup_phone.0.jpg' width='700px' /><br/>
+Two of the earliest employees behind WhatsApp have emerged with a new private social network called HalloApp.
+<a href='https://www.theverge.com/2021/7/19/22584551/halloapp-private-social-network-by-early-whatsapp-employees'> Source <a/>

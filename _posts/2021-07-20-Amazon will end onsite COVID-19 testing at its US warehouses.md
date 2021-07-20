@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KeozzBfqPuKh6R5l-YjUhSsYEWo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69603734/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
+Amazon has informed workers that it will end on-site COVID-19 testing at its US warehouses, as first reported by The Information. The company confirmed to The Verge that it will begin ramping down its testing operations in the US by July 30th.
+<a href='https://www.theverge.com/2021/7/19/22584386/amazon-end-onsite-covid-19-testing-us-warehouses'> Source <a/>

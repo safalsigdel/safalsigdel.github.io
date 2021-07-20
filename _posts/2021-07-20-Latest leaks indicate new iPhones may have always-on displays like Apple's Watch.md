@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NLLClXZFWphqaGePkf4sd7biup0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69598040/jbareham_170916_2000_0057.0.jpg' width='700px' /><br/>
-A new report from Bloomberg's Mark Gurman says the 2021 iPhone may have an always-on display similar to Apple's Watch, and which Android phones have had for some time. Gurman wrote in his Power On newsletter that the phones will have improved battery life, a smaller notch on the screen, better video recording, a 120Hz refresh rate, and a faster A15 chip.
-<a href='https://www.theverge.com/2021/7/18/22582569/leaks-apple-iphone-screen-always-on-watch'> Source <a/>

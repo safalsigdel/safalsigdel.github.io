@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3oRmnf0V98eh3pk5-f7UrlTqeNc=/0x0:2000x2000/1200x800/filters:focal(1336x528:1656x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69602463/MJWY3_AV4.0.jpeg' width='700px' /><br/>
+Apple has released iOS 14.7, an update which lets iPhone 12 owners fully utilize the MagSafe Battery Pack, HomePod users manage timers from their phone, and more (via 9to5Mac).
+<a href='https://www.theverge.com/2021/7/19/22583871/apple-ios-14-7-magsafe-battery-pack-iphone-ipad-timers-apple-card'> Source <a/>

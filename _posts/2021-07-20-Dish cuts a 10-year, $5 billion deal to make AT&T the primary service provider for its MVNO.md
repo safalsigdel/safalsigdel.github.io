@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o09Q-f36pKDrxI7hYlqRV6sVmEo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69602745/acastro_200804_1777_dish_0001.0.0.jpg' width='700px' /><br/>
+Dish Network has a new network operator partner for its MVNO brands: AT&T. The companies have signed a network services agreement (NSA) that will see Dish pay AT&T at least $5 billion over the course of the next ten years to use its 4G and 5G networks as Dish brings its own 5G network online.
+<a href='https://www.theverge.com/2021/7/19/22583799/dish-network-att-mvno-t-mobile-5g-4g'> Source <a/>

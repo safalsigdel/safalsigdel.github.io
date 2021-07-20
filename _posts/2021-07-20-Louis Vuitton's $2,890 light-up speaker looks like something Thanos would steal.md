@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w-VUQXdypQXEp9rzFLlFlfn-T5s=/0x0:1674x1364/1200x800/filters:focal(704x549:970x815)/cdn.vox-cdn.com/uploads/chorus_image/image/69603137/Screen_Shot_2021_07_19_at_3.11.06_PM.0.png' width='700px' /><br/>
+Louis Vuitton has revealed its next foray into tech products: the $2,890 Horizon Light Up Speaker, which looks less like either a gadget or a piece of high fashion, and more like an artifact of untold cosmic power from the next Marvel movie.
+<a href='https://www.theverge.com/2021/7/19/22583644/louis-vuitton-horizon-light-up-speaker-design-price-release-date'> Source <a/>

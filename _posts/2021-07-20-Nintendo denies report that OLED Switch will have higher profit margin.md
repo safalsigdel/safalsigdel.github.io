@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_cvsRoHeY-va7nMpM82mLPazH7o=/0x0:2160x1440/1200x800/filters:focal(908x548:1252x892)/cdn.vox-cdn.com/uploads/chorus_image/image/69599371/switch_oled.0.jpg' width='700px' /><br/>
-Nintendo has issued an unusual statement denying a report that said the upcoming OLED version of the Switch would have higher profit margins than the regular model. The report in question was published by Bloomberg last week and speculated that the higher-end components in the OLED Switch could total around an extra $10 per unit, based on analyst estimates.
-<a href='https://www.theverge.com/2021/7/19/22583141/nintendo-switch-oled-profit-margin-report-denial'> Source <a/>
