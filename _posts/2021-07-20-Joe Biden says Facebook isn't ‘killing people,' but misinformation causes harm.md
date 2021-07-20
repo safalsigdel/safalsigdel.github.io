@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9PgbU8C8eY4vd0rJsBs_Ypdr5Eg=/0x0:7836x5224/1200x800/filters:focal(3292x1986:4544x3238)/cdn.vox-cdn.com/uploads/chorus_image/image/69601746/1234059694.0.jpg' width='700px' /><br/>
-On Monday, President Joe Biden said that vaccine misinformation on Facebook harms people, while partially walking back a statement he made last week in which he told reporters that platforms like Facebook were “killing people” by allowing misinformation to spread.
-<a href='https://www.theverge.com/2021/7/19/22583809/joe-biden-facebook-covid19-coronavirus-vaccine-misinformation-killing-people'> Source <a/>

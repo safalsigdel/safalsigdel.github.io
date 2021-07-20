@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kirf6-kZawicPuc5g5i_Qz_ZRvE=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/69606750/Chromebook_CX9_CX9400_premium_enterprise_resady_Security_titan_C.0.jpg' width='700px' /><br/>
+There are a number of excellent Chromebooks out there, but the race to make the one true successor to Google's $999 Pixelbook is still very much on. Asus is throwing its hat into the ring with two new releases: the Chromebook CX9 and the Chromebook Flip CX5.
+<a href='https://www.theverge.com/2021/7/20/22585185/asus-chromebook-cx9-flip-cx5-laptops-chrome-os-price-store'> Source <a/>
