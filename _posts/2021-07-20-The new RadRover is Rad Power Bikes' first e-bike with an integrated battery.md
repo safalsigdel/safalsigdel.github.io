@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/prcDP6XyiovhEYdJJ9zoPy1AJNA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69605203/RoverFarmer_754.0.jpg' width='700px' /><br/>
+The RadRover, Rad Power Bikes' flagship electric bike, is getting another major upgrade. The bike will be the first from the Seattle-based company to feature a semi-integrated battery. And when it's released later this year, it will be the most expensive model in Rad Power Bikes' lineup to date.
+<a href='https://www.theverge.com/2021/7/20/22583925/radrover-rad-power-bikes-integrated-battery-price'> Source <a/>
