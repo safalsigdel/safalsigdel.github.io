@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IimkhQxifD3FEkgG4TpjcuIxZaM=/0x0:4728x3226/1200x800/filters:focal(1986x1235:2742x1991)/cdn.vox-cdn.com/uploads/chorus_image/image/69600750/465197440.0.jpg' width='700px' /><br/>
-An all-virtual version of the annual Game Developers Conference kicks off on July 19th, but the organizers say that next year the event will be in person once again. GDC 2022 “will return as a physical conference at the Moscone Center in San Francisco,” the organizers say, with the conference taking place from March 21st to the 25th.
-<a href='https://www.theverge.com/2021/7/19/22583372/gdc-2022-in-person-san-francisco-moscone-center'> Source <a/>
