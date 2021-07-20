@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xMwLIz9hbrZ6K2FVL_Rqy4bcu7I=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69600901/1164317768.0.jpg' width='700px' /><br/>
-Velodyne, a leading manufacturer of lidar laser sensors, announced that CEO Anand Gopalan would be stepping down. The news comes as the sensor company has been embroiled in a bitter war between its founder, David Hall, and the company's board of directors.
-<a href='https://www.theverge.com/2021/7/19/22583535/velodyne-ceo-resignation-anand-gopalan-lidar'> Source <a/>

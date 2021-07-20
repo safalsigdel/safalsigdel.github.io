@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f15VPJrgldbhwMg9hkLLQyUWvos=/0x0:1200x728/1200x800/filters:focal(544x258:736x450)/cdn.vox-cdn.com/uploads/chorus_image/image/69605788/HT_A7000_complete_.0.png' width='700px' /><br/>
+Sony has just announced two new high-end home theater audio systems, both of which include HDMI 2.1 passthrough ports that offer full support for features like 8K video, 4K gaming at 120Hz, Dolby Vision HDR, eARC, and more.
+<a href='https://www.theverge.com/2021/7/20/22583815/sony-hta9-hta7000-soundbar-specs-features-ps5-xbox'> Source <a/>
