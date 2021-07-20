@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JXUwQ8VBrQksjm3f850zxF0rMZk=/0x0:937x527/1200x800/filters:focal(395x190:543x338)/cdn.vox-cdn.com/uploads/chorus_image/image/69601123/image003.0.png' width='700px' /><br/>
-Android TV is swiping some of the best content discovery tools from the Google TV platform, including a watchlist and more finely tuned recommendations.
-<a href='https://www.theverge.com/2021/7/19/22580720/android-tv-watchlist-google-tv-features'> Source <a/>
