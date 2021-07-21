@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z6YImsxvTdKNu_wWqFyIwRAR7ks=/0x0:1648x927/1200x800/filters:focal(693x333:955x595)/cdn.vox-cdn.com/uploads/chorus_image/image/69607139/mobileye_av_nyc_intel_24.jpg.rendition.intel.web.1648.927.0.jpg' width='700px' /><br/>
+Mobileye, the company that specializes in chips for vision-based autonomous vehicles, is now testing its AVs in New York City — a difficult and rare move given the state's restrictions around such testing.
+<a href='https://www.theverge.com/2021/7/20/22585338/intel-mobileye-autonomous-vehicle-av-testing-nyc'> Source <a/>

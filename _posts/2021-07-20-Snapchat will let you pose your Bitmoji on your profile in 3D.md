@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Fyz0qUo9DuY1xuABL3dP4RsK6l8=/0x0:1322x898/1200x800/filters:focal(556x344:766x554)/cdn.vox-cdn.com/uploads/chorus_image/image/69602532/3D_Bitmoji_in_Profile_Poses_Menu.0.png' width='700px' /><br/>
-Snap is introducing the ability to pose your Bitmoji avatar on your Snapchat profile in 3D, the company announced on Monday. For your 3D Bitmoji, you'll be able to pick from more than 1,200 combinations of body poses, facial expressions, gestures, and backgrounds, according to Snap.
-<a href='https://www.theverge.com/2021/7/19/22584006/snap-snapchat-bitmoji-avatar-profile-3d'> Source <a/>

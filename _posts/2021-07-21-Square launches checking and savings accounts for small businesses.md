@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Mf4XswBZoNrtDPPgBek4gCubJfU=/0x0:2475x1600/1200x800/filters:focal(1040x602:1436x998)/cdn.vox-cdn.com/uploads/chorus_image/image/69608374/square_register_2.0.jpg' width='700px' /><br/>
+Square is launching a new free banking service on Tuesday that connects to the payment and point-of-sale products the company already offers to small businesses. Square Banking combines checking accounts, savings accounts, and Square's existing small business loans (now called Square Loans) into a package that the company claims is both fair and accessible.
+<a href='https://www.theverge.com/2021/7/20/22585365/square-banking-checking-savings-business-accounts'> Source <a/>

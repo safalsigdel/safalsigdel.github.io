@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4s-kFkaoedO8DvZ7lgm8eVtWkgE=/0x624:3204x3164/1200x800/filters:focal(249x744:761x1256)/cdn.vox-cdn.com/uploads/chorus_image/image/69602720/Gucci_x_Snap_Shoe_Try_On_Women_1.0.jpg' width='700px' /><br/>
-Snap is making a big bet on AR shopping.
-<a href='https://www.theverge.com/2021/7/19/22583827/snap-vertebrae-snapchat-ar-shopping-startup-3d-assets'> Source <a/>

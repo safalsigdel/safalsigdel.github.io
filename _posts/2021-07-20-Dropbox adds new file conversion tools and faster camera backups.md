@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X0Lr2qJn39L0Cp3awTyMVtHFxcY=/0x0:4800x3200/1200x800/filters:focal(2016x1216:2784x1984)/cdn.vox-cdn.com/uploads/chorus_image/image/69605485/Camera_uploads.0.jpg' width='700px' /><br/>
-Dropbox is getting a slew of interface tweaks alongside new tools and features. One of the more useful inclusions is a new file conversion feature, which lets Dropbox users convert images between different formats like JPEG and PNG, and files into PDFs. Support for video conversion is coming soon. Dropbox is also adding new features to its password manager.
-<a href='https://www.theverge.com/2021/7/20/22584852/dropbox-update-file-conversion-password-manager-web-interface'> Source <a/>

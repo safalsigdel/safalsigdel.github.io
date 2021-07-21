@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kcafosRqwbM1MmEsHdZ31bw-ivQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69604918/DSCF2108.0.jpg' width='700px' /><br/>
-Google TV, the new smart TV interface that debuted on Google's most recent Chromecast, appears to be getting a small but important tweak for its “Continue watching” row. Over on Reddit (via 9to5Google) user u/Alfatango97 has spotted a new option to manually hide entries from the row, which is designed to let viewers quickly jump back into unfinished TV shows or films.
-<a href='https://www.theverge.com/2021/7/20/22584901/google-tv-continue-watching-hide-titles-in-progress'> Source <a/>

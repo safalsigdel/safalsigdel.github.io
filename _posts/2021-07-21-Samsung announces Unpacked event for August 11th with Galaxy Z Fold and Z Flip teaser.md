@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IvYKQ29bxld6NrZg-eMoxf5uPqg=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/69609272/unpacked.0.jpg' width='700px' /><br/>
+Samsung has officially announced when it will hold its next Unpacked product event: August 11th at 10AM ET / 7AM PT. It is widely expected to announce the next version of the Galaxy Z Fold 3 and Galaxy Z Flip 3 — both of which have already leaked quite a bit. Samsung's not being shy about those expectations, as a quick look at its invite reveals the outline for both of those devices.
+<a href='https://www.theverge.com/2021/7/20/22585256/samsung-galaxy-z-fold-flip-watch-unpacked-event-august'> Source <a/>

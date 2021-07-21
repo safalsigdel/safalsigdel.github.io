@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/c2cURII6KejJhMjtj8FqJl56OT8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69587173/oled_model_photo_01.0.png' width='700px' /><br/>
+After months of speculation and a sea of rumors, Nintendo officially announced the next iteration of its popular gaming console: the Nintendo Switch OLED model. The upcoming device serves more as a midlife update than anything else, a refinement of the 2019 model as opposed to the more powerful “Switch Pro” that was rumored (and may still launch).
+<a href='https://www.theverge.com/22565905/nintendo-switch-oled-model-preorder-price-availability-where-to-buy'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HtBXOgRUa5djJpAImPLeU9I57bQ=/0x0:7834x4984/1200x800/filters:focal(3291x1866:4543x3118)/cdn.vox-cdn.com/uploads/chorus_image/image/69604475/1299884666.0.jpg' width='700px' /><br/>
-Giant retailers, including Amazon and Ikea, have pledged to go green, but their shipping is still pretty dirty. Now shoppers can now see how much pollution some of the biggest retail companies in the US each generate while bringing goods into the country, thanks to a new report. In 2019, the 15 companies in the report generated almost as much climate pollution as 1.5 million American homes do in a year.
-<a href='https://www.theverge.com/2021/7/20/22584335/ikea-amazon-walmart-shipping-emissions-climate-change'> Source <a/>

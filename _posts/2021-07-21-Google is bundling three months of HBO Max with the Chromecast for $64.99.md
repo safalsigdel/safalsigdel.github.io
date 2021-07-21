@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ldxgf7_77SIcDkfWKB7-8BiMA6E=/0x0:2040x1360/1200x800/filters:focal(1029x585:1355x911)/cdn.vox-cdn.com/uploads/chorus_image/image/69607666/DSCF2097_2.0.jpg' width='700px' /><br/>
+Google has started selling a new bundle that gives you some premium entertainment to go along with the company's Chromecast streaming gadget. For $64.99, you'll get both the Chromecast with Google TV and three months of HBO Max. The device usually retails for $49.99, and HBO Max's ad-free tier costs $14.99 per month, so you're basically getting two months of the service for free.
+<a href='https://www.theverge.com/2021/7/20/22585517/google-chromecast-hbo-max-three-months-bundle-deal'> Source <a/>
