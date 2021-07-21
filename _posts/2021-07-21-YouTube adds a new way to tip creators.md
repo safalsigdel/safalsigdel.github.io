@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lvJOmGHi-osSI4PVRzeANgqlhEQ=/0x0:2040x1530/1200x800/filters:focal(895x644:1221x970)/cdn.vox-cdn.com/uploads/chorus_image/image/69606626/cfaulkner_200527_4039_0005.0.0.jpg' width='700px' /><br/>
-YouTube viewers will soon have a new way to throw their support — and money — behind their favorite creators. A new tool called Super Thanks that lets you tip creators is now being tested on the platform.
-<a href='https://www.theverge.com/2021/7/20/22584330/youtube-tipping-feature-super-thanks'> Source <a/>
