@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k1pzQ0SwjYjyIagPS7Q8Hl8g-0Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69608042/vpavic_4278_20201030_0281.0.jpg' width='700px' /><br/>
-Sony sleuths just stumbled onto a surprise in Japan: the company has quietly kicked out a new version of the PlayStation 5 Digital Edition that's listed as 300 grams lighter than the original (via PSU). That's two-thirds of a pound, bringing the mammoth console down from well over the eight-pound mark to just slightly under it.
-<a href='https://www.theverge.com/2021/7/20/22585665/sony-ps5-digital-edition-japan-weight'> Source <a/>

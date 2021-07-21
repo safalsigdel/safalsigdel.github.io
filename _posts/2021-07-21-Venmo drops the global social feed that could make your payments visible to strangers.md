@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B-C4i-TloSLXU80tyeI8dY-mHZ0=/0x0:800x533/1200x800/filters:focal(336x203:464x331)/cdn.vox-cdn.com/uploads/chorus_image/image/69607872/Updated_Venmo_home_screen_LQ.0.jpeg' width='700px' /><br/>
-Venmo announced it's removing its global social feed on Tuesday, the payment app's notorious feature that allows strangers to potentially view payments you make and receive on Venmo (via Bloomberg).
-<a href='https://www.theverge.com/2021/7/20/22585467/venmo-removes-global-social-feed-private-payments'> Source <a/>
