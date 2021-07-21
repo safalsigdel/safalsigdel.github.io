@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Hvy725NeCW8Fv1jgG5I_pgAr-Qg=/0x0:5120x2880/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/69608090/Screen_Shot_2021_07_20_at_12.04.07_PM.0.png' width='700px' /><br/>
+Jon Stewart shared a video promoting his upcoming Apple TV Plus show, The Problem with Jon Stewart, and it's an odd one: the three-minute and ten-second clip shared on Twitter is a comedy skit roasting the recent billionaire space race, starring Jason Alexander as Jeff Bezos and a mop as Richard Branson. There are also a lot of dick jokes.
+<a href='https://www.theverge.com/2021/7/20/22585674/jon-stewart-apple-tv-show-skit-roasting-space-billionaires-jason-alexander'> Source <a/>
