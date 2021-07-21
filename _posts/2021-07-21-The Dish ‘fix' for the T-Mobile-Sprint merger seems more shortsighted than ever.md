@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BBWnx8UbwX9fz30lJeh8YKIKhCM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69610251/acastro_200804_1777_dish_0001.0.0.jpg' width='700px' /><br/>
+To sell regulators on their $26 billion mega merger, T-Mobile and Sprint executives told anyone who'd listen that the deal would provide near-miraculous benefits. But economists warned that US telecom merger promises are historically meaningless, and the reduction in overall competitors would — sooner or later — result in higher prices and job cuts.
+<a href='https://www.theverge.com/2021/7/21/22585761/dish-t-mobile-att-sprint-competition-editorial'> Source <a/>

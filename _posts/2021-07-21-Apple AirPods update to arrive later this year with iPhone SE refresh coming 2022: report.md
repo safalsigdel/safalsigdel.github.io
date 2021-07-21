@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NxaqQnJos5mKphktEqGSQGwp4u4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69610249/akrales_170124_1410_A_0093.0.jpg' width='700px' /><br/>
+Apple will start production on updated AirPods next month, with plans to launch the third-generation earbuds later this year, according to a report from Nikkei. It's the latest rumor regarding Apple's product schedule, which will reportedly include an all-5G iPhone line-up in 2022, including a revamped iPhone SE sporting the as-yet-unannounced A15 processor.
+<a href='https://www.theverge.com/2021/7/21/22586507/apple-airpods-2021-refresh-rumor-iphone-se-2022-5g-15-details'> Source <a/>
