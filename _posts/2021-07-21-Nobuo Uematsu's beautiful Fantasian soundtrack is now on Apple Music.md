@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VXW5QAht_SIeiDOAtRf9GQL4qRI=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69611090/1_4k.0.png' width='700px' /><br/>
+One of the most exciting things about Fantasian — a Final Fantasy-style roleplaying game that debuted on Apple Arcade earlier this year — was how it reunited two industry legends. Hironobu Sakaguchi served as the creative director of the handcrafted adventure, while longtime Final Fantasy composer Nobuo Uematsu returned for the soundtrack. Now, all of that beautiful music is finally available to stream on Apple Music.
+<a href='https://www.theverge.com/2021/7/21/22586744/fantasian-soundtrack-apple-music-nobuo-uematsu'> Source <a/>

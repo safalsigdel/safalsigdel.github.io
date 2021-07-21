@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ADqjca2DBxBQ_ehwWK7BNFP0kaY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69610856/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+So you've started posting videos on Tiktok, and now you're ready to up your game. One of the easiest ways to make your videos more entertaining and to potentially get more views is to jump on trends.
+<a href='https://www.theverge.com/22585656/tiktok-trends-sounds-hashtags-how-to-videos'> Source <a/>
