@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yXqdjVYuHw0c_K3oDl6NydbDix0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69607724/51268580333_f21dc6b731_o.0.jpg' width='700px' /><br/>
-President Joe Biden will nominate Jonathan Kanter, an ardent Google critic and competition lawyer, to lead the Justice Department's antitrust division, as first reported by Bloomberg on Tuesday.
-<a href='https://www.theverge.com/2021/7/20/22585590/joe-biden-jonathan-kanter-antitrust-lina-khan-tim-wu-google'> Source <a/>

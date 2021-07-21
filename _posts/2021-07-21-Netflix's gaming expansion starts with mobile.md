@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-TYiaRBop2rS4bUlgPTb194e7EQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69608382/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
-Netflix revealed that its initial efforts in gaming will be focused on mobile games and that the games will be included with users' Netflix subscriptions, the company announced as part of its second-quarter earnings report on Tuesday. The news comes just days after the company said it hired former EA and Oculus exec Mike Verdu to head up its gaming work.
-<a href='https://www.theverge.com/2021/7/20/22585802/netflix-gaming-mobile-subscription-earnings'> Source <a/>
