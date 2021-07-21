@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5bKJn9Y124kJK20asj-eYbUClZI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69605645/rcs_static.0.png' width='700px' /><br/>
-Beginning next year, Verizon will join AT&T and T-Mobile in preloading Android Messages as the default texting app on all Android phones it sells. It's the final step for making RCS Chat — the next-gen standard designed to replace SMS — the default experience for Android. In the US, that only leaves one large cohort that will not use RCS as a default SMS replacement: iPhone users.
-<a href='https://www.theverge.com/2021/7/20/22584443/verizon-android-messages-rcs'> Source <a/>
