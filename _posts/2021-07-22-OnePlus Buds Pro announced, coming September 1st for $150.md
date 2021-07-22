@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q907TchE6ib8e8lLNfbXKyI-uxo=/0x0:2040x1408/1200x800/filters:focal(591x392:917x718)/cdn.vox-cdn.com/uploads/chorus_image/image/69617006/Lifestyle_white_1.0.jpg' width='700px' /><br/>
+OnePlus today announced its third set of true wireless earbuds, the OnePlus Buds Pro. Dubbed as the company's “most advanced listening device” yet, the new earbuds are debuting alongside the Nord 2 smartphone. They go on sale in the US and Canada on September 1st for $149.99 and come in either white or matte black.
+<a href='https://www.theverge.com/2021/7/22/22587367/oneplus-buds-pro-date-features-specs-price'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gJjjuf8hJc4unsOoNCkeQyfmCfM=/0x0:2040x1360/1200x675/filters:focal(1193x503:1519x829)/cdn.vox-cdn.com/uploads/chorus_image/image/69617010/jporter_210719_4669_0009.0.jpg' width='700px' /><br/>
+From the start, OnePlus has positioned its midrange lineup of Nord phones as a less expensive, entirely separate lineup to its flagship devices. But with the Nord 2, which comes as a direct successor to the original Nord released last year, the line between the two seems blurrier than ever.
+<a href='https://www.theverge.com/22586815/oneplus-nord-2-5g-review-specs-price-camera-screen'> Source <a/>
