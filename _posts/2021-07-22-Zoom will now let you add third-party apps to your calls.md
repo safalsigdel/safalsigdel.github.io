@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5_nH4zZboIlXIfFmZc5nqmGVcR4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69610862/acastro_200331_1777_zoom_0003.0.0.jpg' width='700px' /><br/>
-Zoom is furthering its ambitions to be your go-to app for virtual meetings and events by making Zoom Apps and Zoom Events widely available starting Wednesday.
-<a href='https://www.theverge.com/2021/7/21/22585980/zoom-apps-events-launch-onzoom'> Source <a/>
