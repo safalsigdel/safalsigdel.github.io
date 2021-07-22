@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Grammy-nominated singer Khalid has a new album coming out, and the first single, “New Normal,” is as smooth and breezy as a summer afternoon, which is weird because the video that accompanies the track is pretty much a venture capitalist's dream come true.
-<a href='https://www.theverge.com/2021/7/21/22587312/khalid-new-normal-video-silicon-valley-av-drone-smart-home'> Source <a/>
