@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TF2g78Be2Sh5d4M_SSHf0xUrWNU=/0x0:2250x1500/1200x800/filters:focal(945x570:1305x930)/cdn.vox-cdn.com/uploads/chorus_image/image/69610325/google_maps_crowded.0.jpg' width='700px' /><br/>
-Google is expanding the number of cities where Maps offers information about public transport crowding. The number of cities covered is increasing from around 200 today, to “over 10,000 transit agencies in 100 countries,” the company says. As well as crowdedness, Google says Maps is also being updated to offer more information about past travel.
-<a href='https://www.theverge.com/2021/7/21/22586512/google-maps-transit-crowdedness-expansion-timeline-insights-trips'> Source <a/>
