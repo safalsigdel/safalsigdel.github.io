@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q0IrvAtcKwatmE75QmXW3x3sUrw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69617216/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
+Twitter may be adding voice effects to its audio chat platform Spaces, a post from Twitter sleuth Jane Manchum Wong suggests. Wong tweeted that her research found Twitter is working on something called Voice Transformer, that will allow users to change their voice pitch or add echo effects.
+<a href='https://www.theverge.com/2021/7/22/22588606/twitter-voice-effects-spaces-audio-chat'> Source <a/>
