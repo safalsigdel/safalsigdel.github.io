@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-nCHXnoLGamt4yeEqceBA0fZbQ0=/0x0:1461x974/1200x800/filters:focal(615x371:847x603)/cdn.vox-cdn.com/uploads/chorus_image/image/69616249/msedge_g74lerYETh.0.png' width='700px' /><br/>
+We're not saying they've been discontinued, but if you head over to Google's online store in the US and Canada, you'll find that there doesn't seem to be any option to buy its second-generation true wireless Pixel Buds. Its more recent Pixel Buds A-Series are still available, but the dedicated listing for the Pixel Buds themselves has disappeared.
+<a href='https://www.theverge.com/2021/7/22/22588420/google-pixel-buds-2nd-second-generation-discontinued-us-canada'> Source <a/>
