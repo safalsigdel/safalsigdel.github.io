@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oLbHvpXIbVbD-8xPWsFhZq1Lew0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69617123/mchin_210720_4671_0004.0.jpg' width='700px' /><br/>
+There are a lot of 13-inch and 14-inch laptops out there, but very few offer much in the way of user-upgradability. Framework, a San Francisco-based startup, sees an opening in the market there. The new 13.5-inch Framework laptop allows customers to upgrade and replace not only internal parts (RAM, battery, storage), but also external components (the keyboard, bezels, and ports).
+<a href='https://www.theverge.com/22587205/framework-laptop-review'> Source <a/>

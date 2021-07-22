@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/akdA4iWUarLCganOR_BiWolKNos=/0x0:2040x1360/1200x800/filters:focal(807x807:1133x1133)/cdn.vox-cdn.com/uploads/chorus_image/image/69613045/rivian_blue_origin_4830.0.jpg' width='700px' /><br/>
-After years of preparation and billions of dollars spent on the project, Amazon founder Jeff Bezos got to be one of the first people to ride a rocket built by his other company, Blue Origin, to the edge of space. But the event itself was also a chance for Bezos to promote a third investment in the wider Amazon portfolio: EV startup Rivian.
-<a href='https://www.theverge.com/2021/7/21/22587043/jeff-bezos-space-blue-origin-rivian-electric-truck'> Source <a/>

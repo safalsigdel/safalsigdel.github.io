@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZrGs8jI5AiesRNEiymn0smqzk80=/0x0:2130x1420/1200x800/filters:focal(895x540:1235x880)/cdn.vox-cdn.com/uploads/chorus_image/image/69617097/VRG_ILLO_1777_AK_body_data.0.0.jpg' width='700px' /><br/>
+AI research lab DeepMind has created the most comprehensive map of human proteins to date using artificial intelligence. The company, a subsidiary of Google-parent Alphabet, is releasing the data for free, with some scientists comparing the potential impact of the work to that of the Human Genome Project, an international effort to map every human gene.
+<a href='https://www.theverge.com/2021/7/22/22586578/deepmind-alphafold-ai-protein-folding-human-proteome-released-for-free'> Source <a/>
