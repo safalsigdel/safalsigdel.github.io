@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d6XqJ5OVTjzTJAowkjImRZ4JG_M=/0x0:2414x1624/1200x800/filters:focal(1014x619:1400x1005)/cdn.vox-cdn.com/uploads/chorus_image/image/69608484/Triptych.0.png' width='700px' /><br/>
-HBO Max has partnered with Snapchat to bring full-length episodes of its series to the social media platform. With HBO Max Minis, users will be able to stream the pilots of select series with up to 63 other Snapchatters.
-<a href='https://www.theverge.com/2021/7/20/22585753/hbo-max-mini-group-watch-snapchat'> Source <a/>

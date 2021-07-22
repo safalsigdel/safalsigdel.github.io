@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eJbIakmseuuLqxsXNiEVc65Hdtw=/0x0:3000x2001/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/69613130/1232439143.0.jpg' width='700px' /><br/>
+The Federal Trade Commission formally pledged to take on unlawful “right to repair” restrictions in a new policy statement issued Wednesday. The new policy could spell trouble for smartphone manufacturers like Apple that strictly inhibit users' abilities to repair their own devices.
+<a href='https://www.theverge.com/2021/7/21/22587331/right-to-repair-apple-iphone-ftc-lina-khan-open-meeting'> Source <a/>

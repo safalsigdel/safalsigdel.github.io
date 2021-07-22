@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0YUanGP7BiWKjsE7SoLWJyCnJx0=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69612704/dseifert_201025_4263_0002.0.5.jpg' width='700px' /><br/>
+Amazon has quietly started rolling out a new masculine-sounding voice option to its Alexa virtual assistant along with a similarly masculine-sounding wake word to trigger the assistant: “Ziggy.” (The odd choice of name is presumably to fit into Amazon's love of “A to Z”-style branding.)
+<a href='https://www.theverge.com/2021/7/21/22587130/alexa-masculine-voice-gender-ziggy-amazon-smart-assistant'> Source <a/>

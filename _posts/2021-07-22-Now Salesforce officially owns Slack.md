@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aIUhfpwXn5j2wTUl8S_JooYm89E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69614439/acastro_190412_1777_slack_0002.0.jpg' width='700px' /><br/>
+Cloud computing giant Salesforce has completed its acquisition of Slack, a $27.7 billion dollar deal that adds the messaging app to its suite of enterprise software without immediately changing Slack's functionality, branding, or leadership.
+<a href='https://www.theverge.com/2021/7/21/22587666/slack-acquisition-salesforce-closed-messaging-cloud'> Source <a/>

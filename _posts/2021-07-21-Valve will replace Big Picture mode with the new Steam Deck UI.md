@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jEnnMOi-3uGOGQ0rMZMje_Nx70k=/0x0:1612x1075/1200x800/filters:focal(678x410:934x666)/cdn.vox-cdn.com/uploads/chorus_image/image/69610107/steam_deck_004.0.jpg' width='700px' /><br/>
-Big Picture, the mode that converts Steam's user interface into a more console-like design better suited to TVs and controllers than monitors and mice, may not be long for this world. According to austinp_valve, a Valve employee posting on the Steam community forums, the plan is for the new UI from the just-announced Steam Deck handheld PC to replace Big Picture mode on the desktop version of Steam as well.
-<a href='https://www.theverge.com/2021/7/21/22586454/valve-steam-deck-ui-pc-client-steamos-3-big-picture'> Source <a/>

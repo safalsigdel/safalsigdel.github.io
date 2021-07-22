@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CuQVHXHr7pZ28Jm7TzXOXHy73Zs=/0x0:3807x2538/1200x800/filters:focal(1421x375:2029x983)/cdn.vox-cdn.com/uploads/chorus_image/image/69613632/1233961984.0.jpg' width='700px' /><br/>
+“SpaceX, Tesla, and I own Bitcoin,” Elon Musk said at a Bitcoin conference today. Though Tesla no longer allows people to pay for cars using Bitcoin, the automaker hasn't sold its Bitcoin, he said. “We're not selling any Bitcoin, nor am I selling anything personally or nor is SpaceX selling any Bitcoin.”
+<a href='https://www.theverge.com/2021/7/21/22587390/spacex-tesla-bitcoin-musk-dorsey-ethereum-dogecoin'> Source <a/>

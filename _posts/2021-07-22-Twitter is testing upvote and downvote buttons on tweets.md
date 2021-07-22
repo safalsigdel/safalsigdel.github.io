@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yeUcycrGq8vtOYotz9pjUZZn21o=/0x0:4096x1900/1200x800/filters:focal(1721x623:2375x1277)/cdn.vox-cdn.com/uploads/chorus_image/image/69613645/E613I_0WEAQh4r0.0.jpeg' width='700px' /><br/>
+Twitter is working on new upvote and downvote reactions for tweets to accompany the usual options to retweet and reply. Twitter confirmed it was testing the feature for a small group of users on iOS, and it's already been spotted according to multiple tweets from users that are part of the test group.
+<a href='https://www.theverge.com/2021/7/21/22587386/twitter-upvote-downvote-test-better-tweets'> Source <a/>

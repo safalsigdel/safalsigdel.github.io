@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VE8d3YF9zSYb-Jc_s9azSmUauhQ=/0x0:2160x1155/1200x800/filters:focal(908x406:1252x750)/cdn.vox-cdn.com/uploads/chorus_image/image/69609859/Miles_screenshots_1a.0.png' width='700px' /><br/>
-Three years ago, a startup called Miles launched a free app with the goal of becoming a sort of rewards program for all travel — with an emphasis on clean transportation. Cover enough ground by bike, bus, subway, or even on foot, and you'd be rewarded with “miles” (aka points) that could be exchanged for perks at Starbucks or discounts to services like Audi Silvercar.
-<a href='https://www.theverge.com/2021/7/21/22585779/miles-app-series-a-rewards-deals-location-tracking'> Source <a/>

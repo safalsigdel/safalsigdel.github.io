@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kBOc3VtDxt791Hfe3MOZVV1cfq8=/0x0:2040x1360/1200x800/filters:focal(784x445:1110x771)/cdn.vox-cdn.com/uploads/chorus_image/image/69613288/netflix-stock-0883.0.0.jpg' width='700px' /><br/>
+As Netflix's streaming rivals like Prime Video and HBO Max's WarnerMedia focus on consolidation and studio acquisitions, Netflix is instead prioritizing its own service and investment in games over snapping up any available studio IP. It's a refreshing shift away from buying distressed movie studios or long-forgotten catalogs. But will it work?
+<a href='https://www.theverge.com/22587048/netflix-mobile-games-streaming-wars'> Source <a/>
