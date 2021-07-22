@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rsqwy4MAmqeFH32k1yAhtZmIcus=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69616727/acastro_072121_4674_zuckerberg.0.jpg' width='700px' /><br/>
+As June came to an end, Facebook CEO Mark Zuckerberg told his employees about an ambitious new initiative. The future of the company would go far beyond its current project of building a set of connected social apps and some hardware to support them. Instead, he said, Facebook would strive to build a maximalist, interconnected set of experiences straight out of sci-fi — a world known as the metaverse.
+<a href='https://www.theverge.com/22588022/mark-zuckerberg-facebook-ceo-metaverse-interview'> Source <a/>

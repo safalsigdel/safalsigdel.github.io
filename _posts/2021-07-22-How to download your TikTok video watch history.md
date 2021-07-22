@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5_D4IS4XgYXvrbVAaERFrcTNcUo=/0x0:1500x983/1200x800/filters:focal(630x372:870x612)/cdn.vox-cdn.com/uploads/chorus_image/image/69616868/microsoft_tiktok.0.jpg' width='700px' /><br/>
+I have a very bad habit of accidentally touching my phone's screen, which often results in going a page forward or back in the book I'm reading or leaving the YouTube video I'm watching — or going to a different TikTok video than the one I was just enjoying. In addition, if I have to take a phone call or answer a Slack message, I can lose track of where I was.
+<a href='https://www.theverge.com/22584172/tiktok-video-watch-history-how-to-download'> Source <a/>

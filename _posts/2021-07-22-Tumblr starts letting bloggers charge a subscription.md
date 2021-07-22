@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3uu8uUON7N0IRermG5DbOjkHCVs=/0x0:8001x4501/1200x800/filters:focal(3361x1611:4641x2891)/cdn.vox-cdn.com/uploads/chorus_image/image/69611271/01_Artistv2.0.png' width='700px' /><br/>
-Tumblr is finally offering its writers a way to make money off their work: charging a subscription.
-<a href='https://www.theverge.com/2021/7/21/22586765/tumblr-subscription-blogs-post-plus'> Source <a/>

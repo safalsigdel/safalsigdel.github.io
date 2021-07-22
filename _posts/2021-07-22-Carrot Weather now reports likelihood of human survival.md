@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-NzBVtESr4h_ceOBnolj0gt0nNE=/0x0:2080x1367/1200x800/filters:focal(874x518:1206x850)/cdn.vox-cdn.com/uploads/chorus_image/image/69616705/Smart_Layouts.0.png' width='700px' /><br/>
+Carrot Weather, the charmingly irreverent app from developer Brian Mueller, is gaining smart layouts and the ability to record and share short video weather reports as part of a series of tweaks rolling out today with version 5.3.
+<a href='https://www.theverge.com/2021/7/22/22588373/wet-bulb-weather-app-citizen-reporting-smart-layout'> Source <a/>

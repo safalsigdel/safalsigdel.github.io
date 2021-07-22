@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_IRSYMz3jxiriOO_Z1Yl4GfyZu0=/0x0:2040x1360/1200x800/filters:focal(843x574:1169x900)/cdn.vox-cdn.com/uploads/chorus_image/image/69611570/vpavic_191016_3730_0029.0.jpg' width='700px' /><br/>
-If your out-of-warranty Pixel 4 XL has been exhibiting some problems, you might be able to get a free repair. Google recently posted a support page outlining a “one-year extended repair program” for the larger of its two 2019 flagships. Those who are eligible can receive a free repair for up to a year after their original warranty expires. As for who's covered by this program, Google points to “certain power-related issues.”
-<a href='https://www.theverge.com/2021/7/21/22586833/google-pixel-4-xl-extended-repair-program-announced'> Source <a/>
