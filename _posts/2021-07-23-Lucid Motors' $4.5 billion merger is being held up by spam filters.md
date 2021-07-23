@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SUvFN7jghEekAKaI9awlqTZz2w4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69618296/ahawkins_210623_4646_0015.0.jpg' width='700px' /><br/>
-Lucid Motors is on the precipice of completing a merger that will give the Saudi-owned electric vehicle startup $4.5 billion in fresh capital. But the deal is being held up, in part, by spam filters.
-<a href='https://www.theverge.com/2021/7/22/22588798/lucid-motors-churchill-capital-merger-cciv-lcid-merger-spac-delay'> Source <a/>

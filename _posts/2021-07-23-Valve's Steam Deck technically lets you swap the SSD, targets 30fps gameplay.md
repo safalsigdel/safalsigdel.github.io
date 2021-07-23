@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3Qf2hTq_6vOdNjSm5NqkBv8NGKw=/0x0:4729x2618/1200x0/filters:focal(0x0:4729x2618):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22722262/Steam_Deck_multiplayer.jpg' width='700px' /><br/>
-Some important details have emerged about Valve's Steam Deck handheld console-meets-PC — particularly about its target performance level and whether you can actually install your own NVMe SSD to upgrade storage.
-<a href='https://www.theverge.com/2021/7/22/22589033/valve-steam-deck-pc-screen-performance-target-30hz-gameplay-upgradeable-ssd'> Source <a/>
