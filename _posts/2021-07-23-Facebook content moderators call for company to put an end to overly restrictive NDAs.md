@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VxMvYGhbgkBP54GtDwIik1B_JZk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69618526/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook content moderators in Europe and the US are calling on the company to put an end to overly restrictive nondisclosure agreements that discourage people from speaking out about working conditions. In a letter addressed to Mark Zuckerberg, Sheryl Sandberg, and the CEOs of Covalen and Accenture, moderators say these NDAs aren't limited to user data and help perpetuate a culture of “excessive secrecy.”
+<a href='https://www.theverge.com/2021/7/22/22587757/facebook-content-moderators-ireland-end-restrictive-ndas'> Source <a/>

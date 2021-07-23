@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VEwPEmrM5a4d9Zk0l489qxI4ZaA=/0x0:1238x926/1200x800/filters:focal(520x364:718x562)/cdn.vox-cdn.com/uploads/chorus_image/image/69618332/Screen_Shot_2021_07_22_at_10.16.38_AM.0.png' width='700px' /><br/>
+Critically acclaimed and Oscar-winning director Jordan Peele's next “terror” is officially called Nope, according to a poster the director shared on Thursday. The details of the project remain (delightfully) shrouded in mystery, and you'll still have a bit longer to wait before you can see it yourself — Nope is scheduled to be released in theaters on July 22nd, 2022.
+<a href='https://www.theverge.com/2021/7/22/22588907/jordan-peele-nope-movie-poster-daniel-kaluya-steve-yeun-keke-palmer'> Source <a/>

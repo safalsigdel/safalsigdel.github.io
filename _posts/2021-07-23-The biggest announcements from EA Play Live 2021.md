@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XuoHAszU7L7m6C5C5TrfeGivUTg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69618444/KIN_Portal_Screenshot_02_ElAlamein_1920x1080_NoLogo_36533960f60d011d03e2.08465894.0.png' width='700px' /><br/>
+At EA Play Live, the game publisher spent around an hour detailing the future of some of its biggest franchises. And while much of the news was to be expected, a few surprises snuck in — including an all-too-brief tease of a return to a horror favorite. If you missed the show, here are the most notable things EA revealed.
+<a href='https://www.theverge.com/2021/7/22/22586899/ea-play-live-2021-trailers-news-battlefield-dead-space-apex-legends'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_czApUzU1Ys_OZ71rMjyvg7aFd0=/0x0:1250x937/1200x800/filters:focal(525x369:725x569)/cdn.vox-cdn.com/uploads/chorus_image/image/69619428/motog100.0.jpg' width='700px' /><br/>
+Motorola is now selling the Moto G100 in the US, after introducing it earlier this year for Latin American and European markets. It comes with midrange specs like a big 5,000mAh battery, 5G, and a 90Hz screen for a $599 MSRP. From now until August 5th, Motorola is offering a $100 discount off the full retail price.
+<a href='https://www.theverge.com/2021/7/22/22589232/motorola-moto-g100-price-specs-screen-battery'> Source <a/>
