@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pQ1NPgTSxogVCbbrO0yelO2xa5k=/0x0:1500x983/1200x800/filters:focal(630x372:870x612)/cdn.vox-cdn.com/uploads/chorus_image/image/69622348/microsoft_tiktok.0.jpg' width='700px' /><br/>
+TikTok's algorithms can be very perceptive when it comes to the types of videos you want to see in your For You feed. But when it doesn't work, you may find yourself facing a steady stream of the type of video you really don't want to deal with.
+<a href='https://www.theverge.com/22590125/tiktok-not-like-how-to-algorithm-dislike-hide-videos-sounds'> Source <a/>
