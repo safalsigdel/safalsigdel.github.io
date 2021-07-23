@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2JUTceZ-TN2tFNFJ-ldWkZhKqlA=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22732823/KIN_Portal_Screenshot_02_ElAlamein_1920x1080_36533960f60d716bf117.48560501.png' width='700px' /><br/>
-EA has announced a new feature coming to Battlefield 2042. Called Battlefield Portal, it's a customizable creative mode that will let players create and share their own unique battles and multiplayer scenarios that combine weapons, maps, and vehicles from across the franchise.
-<a href='https://www.theverge.com/2021/7/22/22587667/battlefield-2042-portal-custom-game-modes-vehicles-weapons-maps-ea-play'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O-YdKpVboqlTTLJACSmGrqVUSKc=/0x0:5932x3707/1200x800/filters:focal(2492x1380:3440x2328)/cdn.vox-cdn.com/uploads/chorus_image/image/69621973/Ted_Lasso_Photo_020112.0.jpg' width='700px' /><br/>
+TV's nicest guy is back, as Ted Lasso and its eponymous, eternally optimistic American football coach-turned-English Premier League gaffer (played by a golden-hearted Jason Sudeikis) returns for a second season on Apple TV Plus.
+<a href='https://www.theverge.com/22590155/ted-lasso-apple-tv-plus-season-2-review'> Source <a/>

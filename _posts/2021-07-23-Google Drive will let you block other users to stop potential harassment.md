@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o01XkvNZudoPESCvchGi4PS_MdU=/0x0:1600x901/1200x800/filters:focal(672x323:928x579)/cdn.vox-cdn.com/uploads/chorus_image/image/69621739/Blog_user_google_drive.0.png' width='700px' /><br/>
+Google Drive is adding the ability for users to block other accounts from sharing files with them, in a move that's designed to prevent potential harassment and spam on the platform. The feature, which is rolling out over the next two weeks, also stops accounts from accessing any files you've shared with them in the past, and removes any of their past files from your drive.
+<a href='https://www.theverge.com/2021/7/23/22590096/google-drive-block-users-harassment-abuse-sharing-files'> Source <a/>

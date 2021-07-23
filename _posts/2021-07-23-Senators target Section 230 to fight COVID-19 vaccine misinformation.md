@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/82WChi1demfk0fg_MEiY0gMN0X4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69618415/acastro_200428_1777_coronavirus_0003.0.0.jpg' width='700px' /><br/>
-As coronavirus cases rise in unvaccinated populations, Democratic senators are introducing a new bill Thursday that would strip away Facebook and other social media platforms' Section 230 liability shield if they amplify harmful public health misinformation.
-<a href='https://www.theverge.com/2021/7/22/22588903/covid19-misinformation-section-230-facebook-joe-biden-white-house'> Source <a/>
