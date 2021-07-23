@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vltYqrDcXbZ3bHYb7eBxOfBugzA=/0x0:900x600/1200x800/filters:focal(378x228:522x372)/cdn.vox-cdn.com/uploads/chorus_image/image/69615925/Beast_angle_right.0.jpg' width='700px' /><br/>
-After teasing a new version of its miniature PC back at Computex 2021, Intel's new NUC 11 Extreme is now available to preorder from SimplyNUC, with prices starting at $1,299. The machine, which is codenamed “Beast Canyon,” is listed with a three 11th gen Intel CPU options, and enough space for a 12-inch graphics card.
-<a href='https://www.theverge.com/2021/7/22/22588361/intel-nuc-11-extreme-price-release-date-features-11th-gen-cpu-full-size-graphics-card'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IkKbb6Ona3D9rwuCxe93LK25l9I=/0x0:2040x1360/1200x800/filters:focal(848x457:1174x783)/cdn.vox-cdn.com/uploads/chorus_image/image/69617058/akrales_210716_4656_0050.0.jpg' width='700px' /><br/>
-Touchscreens have taken over smartwatches. But it didn't have to be this way. For a few short years, Pebble showed a different way forward with a purely hardware-based user interface that reigned supreme, until it — like the rest of the company — was left behind by the rest of the industry.
-<a href='https://www.theverge.com/22585819/pebble-smartwatch-hardware-button-touchscreen'> Source <a/>

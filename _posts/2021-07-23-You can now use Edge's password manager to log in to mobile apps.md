@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aMFec1YefhVEFMAF7-Md8IOoL_w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69617968/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
+Microsoft is updating Edge on Thursday to allow the browser's password manager to log you in to your mobile apps. The new release, technically Edge 92, also includes new password safety features through a password health dashboard.
+<a href='https://www.theverge.com/2021/7/22/22588733/microsoft-edge-92-browser-password-manager-mobile'> Source <a/>

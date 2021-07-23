@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fWAgJDDKjqfUQeab5n4rFt2z4FI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69620455/acastro_170621_1777_0008.0.jpg' width='700px' /><br/>
+Just ahead of the July 4th holiday weekend, a ransomware attack targeted organizations using Kaseya VSA remote management software. The outfit behind the attack, REvil, initially requested a $70 million ransom and claimed to have locked down millions of devices. That was before REvil suddenly went offline on July 13th, disconnecting its servers, abandoning forums, and shutting down a page on the dark web used to communicate with victims.
+<a href='https://www.theverge.com/2021/7/22/22589643/ransomware-kaseya-vsa-decryptor-revil'> Source <a/>

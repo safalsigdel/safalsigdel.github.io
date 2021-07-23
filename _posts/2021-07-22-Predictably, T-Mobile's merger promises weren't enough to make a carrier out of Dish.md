@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Rg_XNgmk13X7vkOkk3pjTEKaV5g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69615822/acastro_191108_1777_t-mobile_0001.0.0.jpg' width='700px' /><br/>
-When T-Mobile acquired Sprint in April 2020, it brought our major wireless carrier choices from four down to three. Recognizing that this would indeed be a bad thing for US wireless customers (aka all of us), T-Mobile agreed to a set of conditions with the FCC's blessing that would theoretically position Dish Network to fill the Sprint-shaped hole in our wireless landscape.
-<a href='https://www.theverge.com/2021/7/22/22587790/t-mobile-sprint-acquisition-dish-promises'> Source <a/>

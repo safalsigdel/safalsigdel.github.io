@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XR_lzuMomyeKNFJg2DPbsVV8U7Q=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69614410/ss15.0.jpeg' width='700px' /><br/>
-Update July 21st, 8:11PM ET: After we first published this story, Amazon provided the following statement confirming it is looking into two customer service reports related to 3090 failures due to New World:
-<a href='https://www.theverge.com/2021/7/21/22587616/amazon-games-new-world-nvidia-rtx-3090-bricked-evga-closed-beta'> Source <a/>

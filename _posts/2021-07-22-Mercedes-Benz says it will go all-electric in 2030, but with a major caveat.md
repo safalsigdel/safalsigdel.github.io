@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UapHonzVfOSA9yqGW7XEO7X8eFE=/0x0:6397x4265/1200x800/filters:focal(2688x1622:3710x2644)/cdn.vox-cdn.com/uploads/chorus_image/image/69617023/1234068952.0.jpg' width='700px' /><br/>
-Mercedes-Benz says it will go all-electric by 2030, but with conditions. The German automaker says it will only sell electric vehicles “where market conditions allow,” implying that Mercedes may still sell gas-powered vehicles after 2030 in countries that lack consumer demand for EVs.
-<a href='https://www.theverge.com/2021/7/22/22588587/mercedes-benz-electric-ev-2030-caveat'> Source <a/>

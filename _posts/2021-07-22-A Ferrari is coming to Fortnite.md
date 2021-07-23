@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0IOtYGk61Vz7aje9EsvejYCPYSI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69616702/Fortnite_Ferrari_In_Game_Screenshot_1920x1080.0.jpg' width='700px' /><br/>
-Epic Games is partnering with Ferrari to bring one of the carmaker's legendary sports cars to Fortnite, the two companies announced on Thursday. (They teased the collaboration on Wednesday.) Fortnite is already well-known for its celebrity and brand collaborations, but the Ferrari coming to the game, the 296 GTB hybrid sports car, is the first licensed car to appear in the hugely popular battle royale shooter.
-<a href='https://www.theverge.com/2021/7/22/22586316/fortnite-ferrari-296-gtb-epic-games'> Source <a/>

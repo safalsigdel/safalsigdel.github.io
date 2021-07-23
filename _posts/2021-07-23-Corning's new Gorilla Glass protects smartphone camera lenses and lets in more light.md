@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D2CnBsehTpyNQCIlcS1AM6QrMGg=/0x0:1350x730/1200x800/filters:focal(567x257:783x473)/cdn.vox-cdn.com/uploads/chorus_image/image/69619422/Screen_Shot_2021_07_22_at_1.03.06_PM.0.png' width='700px' /><br/>
+Corning has announced a new set of glass composites to protect the ever-growing number of camera lenses on the back of smartphones and capture more ambient light in the process. The new composites, called Gorilla Glass with DX and Gorilla Glass with DX+, offer “advanced optical performance, superior scratch resistance, and durability” according to Corning.
+<a href='https://www.theverge.com/2021/7/22/22589156/corning-gorilla-glass-dx-dxplus-smartphone-cameras'> Source <a/>
