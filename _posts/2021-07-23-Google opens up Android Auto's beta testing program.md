@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HSL56BEKuQarcmLydkwKecHFbF4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69617567/akrales_190725_3567_0090.0.jpg' width='700px' /><br/>
-Google is launching a new beta tester program for Android Auto, giving users the chance to get early access to features if they're prepared to put up with the potential instability of unfinished software. Android Auto has had a testing program, but attempting to sign up for it has shown a message warning that the program had reached its “maximum number of testers.”
-<a href='https://www.theverge.com/2021/7/22/22588308/google-android-auto-beta-program-sign-up'> Source <a/>
