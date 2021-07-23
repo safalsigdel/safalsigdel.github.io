@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3CxLjrrnEKqRcu11hfyKz94q0YM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69620840/2022_GMC_Sierra_Super_Cruise_Trailering_and_Automoatic_Lane_Change.0.jpg' width='700px' /><br/>
+General Motors' Super Cruise, one of the best advanced driver assist systems on the market, is getting a big upgrade for 2022 and will be available on way more vehicles — including, for the first time, the Chevrolet Silverado and GMC Sierra half-ton pickup trucks.
+<a href='https://www.theverge.com/2021/7/23/22589285/gm-super-cruise-automatic-lane-change-gmc-chevy-silverado'> Source <a/>
