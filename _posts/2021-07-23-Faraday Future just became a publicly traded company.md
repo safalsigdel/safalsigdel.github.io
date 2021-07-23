@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/AxM4yfNARDHVJEncc2MIzzdywL4=/0x0:4096x2731/1200x800/filters:focal(1721x1039:2375x1693)/cdn.vox-cdn.com/uploads/chorus_image/image/69617502/E66OtTIWYAAXyHC.0.jpg' width='700px' /><br/>
 Electric vehicle startup Faraday future is a publicly traded company.
+<a href='https://www.theverge.com/2021/7/22/22587530/faraday-future-nasdaq-ffie-spac-ipo-investors-funding'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/AxM4yfNARDHVJEncc2MIzzdywL4=/0x0:4096x2731/1200x800/filters:focal(1721x1039:2375x1693)/cdn.vox-cdn.com/uploads/chorus_image/image/69617502/E66OtTIWYAAXyHC.0.jpg' width='700px' /><br/>
+Electric vehicle startup Faraday future is a publicly traded company.
 <a href='https://www.theverge.com/2021/7/22/22587530/faraday-future-nasdaq-ffie-spac-ipo-investors-funding'> Source <a/>
