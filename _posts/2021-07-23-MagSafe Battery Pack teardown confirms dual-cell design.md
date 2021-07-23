@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mU2XIgWU5EPmEGDL1xQ6CXnW6dY=/0x0:2149x1432/1200x0/filters:focal(0x0:2149x1432):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22735219/J4hYWZ4XRA.jpg' width='700px' /><br/>
+A teardown of Apple's new $99 MagSafe Battery Pack from Charger Lab has given us our best look yet inside the new accessory, and revealed more details about how it works. For starters, it confirms recent speculation that it uses a pair of battery cells wired in series like Apple's previous Smart Battery cases, but it also gives us a look at the NFC circuitry and heat shielding within.
+<a href='https://www.theverge.com/2021/7/23/22590033/magsafe-battery-pack-teardown-dual-cell-design'> Source <a/>
