@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i6teC-Q2p5UhhvjaDcPuTPAep68=/0x0:2000x1500/1200x800/filters:focal(840x590:1160x910)/cdn.vox-cdn.com/uploads/chorus_image/image/69621311/pragmatic_arm_plasticarm_plastic_chip_flexible.0.jpg' width='700px' /><br/>
+If you think microchips are ubiquitous now, appearing in everything from washing machines to lampposts, just wait until circuits can be printed onto plastic, paper, and fabric for the price of pennies. That's what chip designer Arm is promising, with the company this week unveiling a new prototype plastic-based microchip named PlasticARM.
+<a href='https://www.theverge.com/2021/7/23/22590001/arm-plasticarm-cheap-flexible-plastic-microchip-internet-of-everything'> Source <a/>
