@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/H_gEAYDtJi5BcUVIhBbiT7MWIC4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69624419/acastro_170621_1777_0006_v4.0.jpg' width='700px' /><br/>
+Throughout the past week, we've seen story after story about a company called NSO Group, and a piece of spyware called Pegasus. Some of the stories have been shocking, with allegations that fully updated smartphones can be hacked with a single text message, and reports that two women close to murdered journalist Jamal Khashoggi were among those targeted by a government agency using the spy tool.
+<a href='https://www.theverge.com/22589942/nso-group-pegasus-project-amnesty-investigation-journalists-activists-targeted'> Source <a/>

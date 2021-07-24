@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jcXfpz6D0TrH96vaGmayUAbaCKI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69623887/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
+After deciding to release its full slate of 2021 Warner Bros. films on HBO Max under a hybrid streaming and theatrical model, it appears WarnerMedia is prepared to continue using its Warner Bros. assets to lure subscribers to the service in 2022.
+<a href='https://www.theverge.com/2021/7/23/22590727/hbo-max-warner-bros-films-hbo-max-2022'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b7G_ULIH7dfIslfNvEmMRC3zFPc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69623084/acastro_210723_4678_instagramContent_0002.0.jpg' width='700px' /><br/>
+Instagram users around the platform share one central concern right now: that the app's new sensitive content filter is blocking their posts. In posts on both the feed and in Stories, account holders are warning their followers that the setting is limiting their reach and that their followers should disable the filter to ensure their posts get through.
+<a href='https://www.theverge.com/2021/7/23/22590188/instagram-sensitive-content-filter-creator-post'> Source <a/>
