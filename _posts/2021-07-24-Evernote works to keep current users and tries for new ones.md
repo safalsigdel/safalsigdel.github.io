@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FHNfDUtHXJ3tmKmmVwxbEKFMTKI=/0x0:2743x1600/1200x800/filters:focal(1153x581:1591x1019)/cdn.vox-cdn.com/uploads/chorus_image/image/69621829/AnnouncementHero_2x.5.png' width='700px' /><br/>
-It can take a lot of work for an app like Evernote, one of the first major note-taking apps to hit the market, to survive in an ever-changing and fickle marketplace. In an effort to keep its place at (or at least near) the top of its niche, Evernote has recently announced new price plans and features. Will these new features — and new fees — help it keep loyal users and encourage new ones? It's hard to say.
-<a href='https://www.theverge.com/22589210/evernote-update-productivity-plans'> Source <a/>

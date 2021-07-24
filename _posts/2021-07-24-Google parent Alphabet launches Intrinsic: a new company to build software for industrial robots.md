@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nN2WF-Cw9O7SS5SyIkNOFYvHt-0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69621956/intrinsic_green_purple_center.0.png' width='700px' /><br/>
-Google's parent-company Alphabet has a birth to announce: a new company called Intrinsic which will focus on building software for industrial robots. The subsidiary will be one of Alphabet's “other bets” — relatively speculative firms focusing on new technology like Waymo (self-driving cars), Wing (delivery drones), and Verily (healthcare and biotech).
-<a href='https://www.theverge.com/2021/7/23/22590109/google-intrinsic-industrial-robotics-company-software'> Source <a/>

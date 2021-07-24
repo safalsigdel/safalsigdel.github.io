@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BxOEYxktU3Pm5Kyv13cpAt9u6xw=/0x0:3792x2424/1200x800/filters:focal(1621x1308:2227x1914)/cdn.vox-cdn.com/uploads/chorus_image/image/69626425/1233534678.0.jpg' width='700px' /><br/>
+The president of Blizzard Entertainment sent an email to staff calling allegations of sexual harassment at the company “extremely troubling.” First reported by Jason Schreier at Bloomberg, J. Allen Brack wrote that “the fight for equality is incredibly important to me,” and that he has spent his career fighting against “bro culture.”
+<a href='https://www.theverge.com/2021/7/24/22591611/activision-blizzard-brack-sexual-harassment-lawsuit-california'> Source <a/>

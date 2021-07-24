@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WDAOyr6gvP6B20CtcwKZvUIIKjY=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69621476/DSC02727_dbohn_verge.0.jpg' width='700px' /><br/>
-Apple's new MagSafe Battery Pack is a white rectangle you can stick to the back of an iPhone 12 to charge it. It's Apple's third run at designing an external battery solution for the iPhone and I like it better than the earlier battery cases.
-<a href='https://www.theverge.com/22588777/apple-magsafe-battery-review-size-iphone-12-mini'> Source <a/>
