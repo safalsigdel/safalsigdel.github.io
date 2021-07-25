@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/BvtujiuFeqITHKXKtSg5K7vHNFo=/0x0:1612x1075/1200x800/filters:focal(678x410:934x666)/cdn.vox-cdn.com/uploads/chorus_image/image/69629948/steam_deck_004.0.jpg' width='700px' /><br/>
-When Valve and IGN last Thursday that the new Steam Deck handheld will target 30Hz gameplay, not everyone was impressed with that low bar — but Valve's Pierre-Loup Griffais has taken to Twitter to clarify his original comment, and reveal a new feature of the portable console.
+When Valve and IGN revealed last Thursday that the new Steam Deck handheld will target 30Hz gameplay, not everyone was impressed with that low bar — but Valve's Pierre-Loup Griffais has taken to Twitter to clarify his original comment, and reveal a new feature of the portable console.
 <a href='https://www.theverge.com/2021/7/25/22593079/valve-steam-deck-fps-limiter-target-performance-battery-life'> Source <a/>
