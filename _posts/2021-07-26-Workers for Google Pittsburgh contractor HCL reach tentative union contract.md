@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z3vlvajSWZeuiDwhY-tncvIeNc8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69622798/acastro_210121_1777_google_0001.0.jpg' width='700px' /><br/>
-The United Steelworkers Union (USW) said Friday it has reached a tentative contract deal with a sub-contractor for Google Pittsburgh. The announcement comes almost two years after employees of engineering and IT contractor HCL Technologies voted to unionize, saying that even though they worked alongside Google employees, they didn't receive the same benefits.
-<a href='https://www.theverge.com/2021/7/23/22590357/google-pittsburgh-contractors-hcl-union-steelworkers'> Source <a/>
