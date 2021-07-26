@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LiobjZX1AVJbwSMLirZhdcmXf5E=/0x0:720x480/1200x800/filters:focal(303x183:417x297)/cdn.vox-cdn.com/uploads/chorus_image/image/69622512/acastro_210722_1777_facebookgaming_720.0.jpg' width='700px' /><br/>
-Starting Friday, Facebook is bringing its nascent cloud gaming service to iPhones and iPads through a web app people will be able to add to their homescreens like a native app. The site will let you play simple web games like Solitaire and match-threes and stream more graphically intensive titles like racing games.
-<a href='https://www.theverge.com/2021/7/23/22589398/facebook-cloud-gaming-web-app-launch-apple'> Source <a/>
