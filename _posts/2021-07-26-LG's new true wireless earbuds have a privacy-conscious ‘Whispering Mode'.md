@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VKQKDp3kQuwSyHAb82OuZY8p4Tw=/0x0:1724x1149/1200x800/filters:focal(663x619:937x893)/cdn.vox-cdn.com/uploads/chorus_image/image/69631998/LG_TONE_Free_FP8_Pearl_White_01.0.jpg' width='700px' /><br/>
+LG's new Tone Free FP true wireless earbuds feature a “Whispering Mode” where you can hold the right earbud next to your mouth during calls to use it as a dedicated microphone. It's a neat privacy-conscious feature for those moments when you don't want to have to speak loudly enough for the sound to be picked up by the earbuds in your ears.
+<a href='https://www.theverge.com/2021/7/26/22593922/lg-tone-free-fp5-fp8-fp9-true-wireless-earbuds-bacteria-killing-uv-wireless-transmitter-whisper'> Source <a/>
