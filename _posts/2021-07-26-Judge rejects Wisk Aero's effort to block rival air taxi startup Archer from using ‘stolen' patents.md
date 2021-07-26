@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8YFwMNLidt3qkmvJCsK_wmF_puw=/0x0:4884x3256/1200x800/filters:focal(2052x1238:2832x2018)/cdn.vox-cdn.com/uploads/chorus_image/image/69622411/Archer4.0.jpg' width='700px' /><br/>
-A federal judge in San Francisco rejected air taxi startup Wisk Aero's request for a preliminary injunction against rival startup Archer Aviation, as Silicon Valley's first big “flying car” legal drama heats up.
-<a href='https://www.theverge.com/2021/7/23/22590204/wisk-archer-air-taxi-lawsuit-injunction-denied'> Source <a/>

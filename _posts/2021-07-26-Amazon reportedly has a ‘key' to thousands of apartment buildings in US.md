@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QhgpHpac9TlqUZqsMVALQ9JKSiM=/0x0:1487x991/1200x800/filters:focal(626x378:862x614)/cdn.vox-cdn.com/uploads/chorus_image/image/69631826/kfb_lp_en_desktop_pg004.0.jpg' width='700px' /><br/>
+Amazon's Key for Business, a system that allows its delivery drivers to gain access to apartment buildings without having to be buzzed in, has been installed in thousands of buildings across the US, according to the Associated Press. The company is reportedly pushing to get the system installed in more buildings, using a combination of free installations and $100 gift cards as incentives.
+<a href='https://www.theverge.com/2021/7/26/22593871/amazon-key-for-business-thousands-of-buildings-us-installation-incentives-privacy-concerns'> Source <a/>
