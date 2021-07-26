@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hvuSzBGxXgjj2bgmIcXz6bqF_vc=/0x0:1280x720/1200x800/filters:focal(400x298:604x502)/cdn.vox-cdn.com/uploads/chorus_image/image/69630142/aukey_key_series.0.jpg' width='700px' /><br/>
+When Amazon started cracking down on mobile electronics companies with shady reviewer programs, Aukey and Mpow were the first to get whacked — and yet Aukey is still selling at least three sets of wireless earbuds at the giant online retailer, The Verge has found.
+<a href='https://www.theverge.com/2021/7/25/22593165/amazon-aukey-key-series-mpow-xmpow-banned'> Source <a/>

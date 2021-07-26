@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LhwBUARrGPVVpHrcvXf4dDwvCQU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69622021/acastro_180927_1777_apple_music_0001.0.jpg' width='700px' /><br/>
-Apple Music listeners on Android can now take advantage of the Dolby Atmos spatial audio and lossless-quality streaming features that debuted on iOS, iPadOS, and macOS over a month ago. The latest update of the app for Android adds support for both features.
-<a href='https://www.theverge.com/2021/7/23/22590148/apple-music-spatial-audio-dolby-atmos-lossless-android'> Source <a/>

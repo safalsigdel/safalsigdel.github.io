@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AEWZDP6r9wy28NUeFpFbx9h8-ic=/0x0:2040x1360/1200x675/filters:focal(807x685:1133x1011)/cdn.vox-cdn.com/uploads/chorus_image/image/69622193/arobertson_210630_4670_0002.0.jpg' width='700px' /><br/>
-Let's get this out of the way: you shouldn't buy the HTC Vive Focus 3 for home VR.
-<a href='https://www.theverge.com/22588917/htc-vive-focus-3-vr-headset-review'> Source <a/>
