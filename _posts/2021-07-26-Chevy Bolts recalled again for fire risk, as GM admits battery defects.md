@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wLtMbCgjA33FTui9yioD3mD-i10=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69622477/akrales_170405_1582_0324.0.0.jpg' width='700px' /><br/>
-General Motors is recalling 2017-2019 model year Chevy Bolts a second time because of a risk that the battery packs could catch fire. The new recall comes after two Bolts recently caught fire despite having received the purported software fix from the previous recall, which was first announced in November 2020.
-<a href='https://www.theverge.com/2021/7/23/22590210/chevy-bolt-new-recall-battery-defect-fire-risk-fix'> Source <a/>

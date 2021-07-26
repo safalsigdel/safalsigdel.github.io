@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o-j2_MTH-Lq2h3jWocBqI_o0a8E=/0x0:1520x1013/1200x800/filters:focal(639x386:881x628)/cdn.vox-cdn.com/uploads/chorus_image/image/69631937/alexa_custom_phrases.0.jpg' width='700px' /><br/>
+Alexa routines can now be triggered using multiple custom phrases making it easier for everyone in a household to initiate smart home automations without having to remember the exact wording (via AFTVnews).
+<a href='https://www.theverge.com/2021/7/26/22593874/alexa-smart-home-routines-multiple-custom-phrases'> Source <a/>
