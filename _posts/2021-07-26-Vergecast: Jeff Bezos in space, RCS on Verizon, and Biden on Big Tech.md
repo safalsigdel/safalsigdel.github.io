@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/au5YisK5A8QiHbmZ9RC3tNzGtJc=/0x0:1520x1013/1200x800/filters:focal(639x386:881x628)/cdn.vox-cdn.com/uploads/chorus_image/image/69622778/Blue_Origin_New_Shepard_launch.0.0.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where our editors discuss the biggest stories in tech news this week.
-<a href='https://www.theverge.com/2021/7/23/22590248/vergecast-podcast-459-blue-origin-launch-jeff-bezos-rcs-verizon-biden-facebook'> Source <a/>

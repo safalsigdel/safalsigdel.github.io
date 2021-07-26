@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Rzgj7GI5h4jnHECxxz03oWCZOMw=/0x0:3360x2100/1200x800/filters:focal(1412x782:1948x1318)/cdn.vox-cdn.com/uploads/chorus_image/image/69623800/Untitled.0.png' width='700px' /><br/>
-Apple may be removing iDOS 2, a popular (or, at the very least, popular for a DOS emulator designed to run decades-old software and games) emulation app that allows users to run DOS games and software on Apple's iPhone and iPad devices.
-<a href='https://www.theverge.com/2021/7/23/22590511/idos-2-emulator-apple-app-store-takedown-notice'> Source <a/>

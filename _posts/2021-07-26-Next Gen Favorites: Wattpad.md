@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ucQeZWDiHBZdLzYq0RzqcB3ZWkU=/0x0:2040x1361/1200x675/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/69632621/VRG_4679_Wattpad_001.0.jpg' width='700px' /><br/>
+I started reading early, and I spent my childhood hungry for stories. For the first half of my life, I was sustained by my small public library, finding solace in old, ratty copies of Lemony Snicket's A Series of Unfortunate Events and Louisa May Alcott's Little Women. It wasn't until I was 14 that I felt the limits of my library's bookshelves and started to look online for new, brave, curious protagonists.
+<a href='https://www.theverge.com/22585864/wattpad-fanfiction-platform-library-writing'> Source <a/>

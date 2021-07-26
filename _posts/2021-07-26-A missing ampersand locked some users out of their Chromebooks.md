@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6Y_SokJclkmgzwGXi0v-O5V2szQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69623431/mchin_20190722_4563_0012.0.jpg' width='700px' /><br/>
-A major bug in a recent Chrome OS release (91.0.4472.147) left some users bricked out of their Chromebooks. Reddit, in due course, has already spotted the issue. As some eagle-eyed users, including one “elitist_ferret” (first spotted by Android Police), have pointed out, the problem appears to boil down to a missing ampersand in Google's code.
-<a href='https://www.theverge.com/2021/7/23/22590425/chrome-os-release-bricked-ampersand-typo-reddit-update'> Source <a/>
