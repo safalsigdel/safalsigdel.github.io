@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fkjihebshlhfSUi6OU4c_QkRca4=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/69637283/rmf.0.jpg' width='700px' /><br/>
+Realme has teased a new device called the Realme Flash, which it claims will be the first Android phone to use magnetic wireless charging. While it looks to be the company's take on Apple's MagSafe system for the iPhone 12 range, Realme is taking a somewhat different approach with the initial hardware.
+<a href='https://www.theverge.com/2021/7/27/22595550/realme-flash-magdart-wireless-charging-magnetic-android-specs'> Source <a/>
