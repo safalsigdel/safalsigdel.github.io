@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7dDY34WfoMSvV0ikJEoUNl4LHTA=/0x0:5000x3333/1200x800/filters:focal(2293x589:3093x1389)/cdn.vox-cdn.com/uploads/chorus_image/image/69635796/1025441174.0.jpg' width='700px' /><br/>
+More than three years after initial reports of a federal investigation into the cryptocurrency stablecoin Tether, Bloomberg is reporting that it remains a “potential” criminal case. In response to the report, the price of Bitcoin surged, briefly rising over $40,000 for the first time since mid-June.
+<a href='https://www.theverge.com/2021/7/26/22594699/tether-cryptocurrency-stablecoin-bitfinex-investigation'> Source <a/>

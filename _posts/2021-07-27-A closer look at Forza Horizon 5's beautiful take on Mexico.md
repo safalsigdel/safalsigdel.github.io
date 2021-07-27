@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aOm726uYMHLwVfMbcDstxKq2c0M=/0x0:3840x2160/1200x675/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69634454/FH5_Biome_Rocky_Coast_03_16x9_WM.0.jpg' width='700px' /><br/>
+One of Microsoft's biggest reveals at this year's E3 was Forza Horizon 5, which the company debuted with a stunning trailer showing off some of the game's Mexican locales. Last week, I had a chance to talk with developer Playground Games' creative director Mike Brown and art director Don Arceta about the game's open world and the 11 different biomes you'll be able to visit.
+<a href='https://www.theverge.com/22586277/forza-horizon-5-biomes-playground-games-microsoft-xbox'> Source <a/>

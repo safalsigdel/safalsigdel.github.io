@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nQK5ddP8_i8lGv6w-CPX7UkKc20=/0x0:5358x3130/1200x800/filters:focal(2251x1137:3107x1993)/cdn.vox-cdn.com/uploads/chorus_image/image/69626470/1311180591.0.jpg' width='700px' /><br/>
-A bill that would offer Americans a refundable tax credit on the purchase of a new electric bicycle was just introduced in the Senate by Ed Markey (D-MA) and Brian Schatz (D-HI). The bill is called the Electric Bicycle Incentive Kickstart for the Environment, or E-BIKE Act for short, and it's the companion bill to one introduced in the House of Representatives earlier this year.
-<a href='https://www.theverge.com/2021/7/24/22590792/ebike-act-senate-brian-schatz-tax-credit-infrastructure'> Source <a/>

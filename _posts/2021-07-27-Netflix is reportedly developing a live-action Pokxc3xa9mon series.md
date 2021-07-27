@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2tmsVu8prodCUcYmEchoA8q3dAw=/0x0:1920x804/1200x800/filters:focal(700x40:1006x346)/cdn.vox-cdn.com/uploads/chorus_image/image/69634598/pokemon_detective_pikachu_photo01.0.jpg' width='700px' /><br/>
+Detective Pikachu might not be the last time you see real people interacting with fictional (but real in my heart) pokxc3xa9mon. Netflix is reportedly in early development on a live-action Pokxc3xa9mon TV series, according to Variety, with Lucifer co-showrunner and executive producer Joe Henderson attached to shepherd the project to a screen near you.
+<a href='https://www.theverge.com/2021/7/26/22594569/pokemon-live-action-series-netflix-development'> Source <a/>

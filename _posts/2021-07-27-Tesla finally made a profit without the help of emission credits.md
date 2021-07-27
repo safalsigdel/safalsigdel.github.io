@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gBLW70L7R2CGxTLkrUoqU7Gwoio=/0x0:4000x2109/1200x800/filters:focal(1680x735:2320x1375)/cdn.vox-cdn.com/uploads/chorus_image/image/69635392/0x0_Model_Y_01.0.jpg' width='700px' /><br/>
+Tesla sold enough cars and energy products to turn a profit even without counting the sale of emissions credits to other automakers — a milestone for the company. This was the eighth profitable quarter in a row for Tesla, but the first where it can truly say it's a profitable automaker.
+<a href='https://www.theverge.com/2021/7/26/22594778/tesla-q2-2021-earnings-revenue-profit-credits-emissions-bitcoin'> Source <a/>

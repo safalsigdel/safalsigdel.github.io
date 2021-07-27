@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y9tpnEWimypuXhdI_2es_K9Tjs4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69375024/vpavic_042029_4003_0162.0.jpg' width='700px' /><br/>
-After months of government bans on DJI drones, with lawmakers questioning whether the company was sending information to the Chinese government, the Pentagon has admitted that the drones being used might actually be safe (via The Hill), with a report saying that two “Government Edition” DJI drones are “recommended for use by government entities.”
-<a href='https://www.theverge.com/2021/6/1/22463946/dji-drone-ban-pentagon-department-of-interior'> Source <a/>

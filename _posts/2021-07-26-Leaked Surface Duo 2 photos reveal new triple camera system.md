@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gN2qKO1SaHm2hIKaOKvd1kzzyZU=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/69632336/surfaceduo2.0.jpg' width='700px' /><br/>
-Microsoft is readying a Surface Duo 2 for release later this year. Leaked images have revealed the dual-screen device will include a new triple camera system. The leaked images first appeared in a YouTube video last month, and Windows Central claims they're legitimate. Microsoft is expected to launch its Surface Duo 2 device in September or October.
-<a href='https://www.theverge.com/2021/7/26/22593992/microsoft-surface-duo-2-triple-camera-leak-photos'> Source <a/>

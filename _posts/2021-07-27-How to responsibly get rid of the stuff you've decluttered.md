@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ko3QeGcPYNXg6lZSMT7gCTVnbZI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69635340/jbareham_190130_grid_four_up_01_2.0.jpg' width='700px' /><br/>
+If you've been at home for over a year, you may have taken the opportunity to go through all those tech devices, books, old clothes, and other detritus that has piled up over the years. Or perhaps you've upgraded a bunch of your possessions recently and have suddenly realized you don't have room for the stuff you've replaced.
+<a href='https://www.theverge.com/22594200/recycle-tech-declutter-environment-green'> Source <a/>

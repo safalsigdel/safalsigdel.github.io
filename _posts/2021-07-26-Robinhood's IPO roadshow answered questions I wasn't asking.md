@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y2i9at-ZfB6n6rZ4JTY0pBXYTb4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69627753/acastro_210201_1777_robinhood_0002.0.jpg' width='700px' /><br/>
-“What's your favorite planet?” is a real question that Robinhood execs really picked to answer during the Q&A section of its retail investor roadshow.
-<a href='https://www.theverge.com/2021/7/24/22592076/robinhood-ipo-roadshow-tenev-questions'> Source <a/>

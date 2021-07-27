@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aa9OwRHCCGAgeovx7U_u9XxgKd4=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69626713/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-Amazon is hiring a digital currency and blockchain product lead for its payments team, according to a new job listing. First reported by Insider, the ecommerce giant is looking for an “experienced product leader to develop Amazon's Digital Currency and Blockchain strategy and product roadmap.” The listing, which Amazon has confirmed is legitimate, continues:
-<a href='https://www.theverge.com/2021/7/24/22591754/amazon-hiring-cryptocurrency-aws-payments-jassy'> Source <a/>

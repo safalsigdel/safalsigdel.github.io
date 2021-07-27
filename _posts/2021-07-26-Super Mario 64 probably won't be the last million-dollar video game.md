@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fcHo2k5JbD7aNqc1_lL0hWyGMNA=/0x0:955x666/1200x800/filters:focal(402x257:554x409)/cdn.vox-cdn.com/uploads/chorus_image/image/69626182/screenshot01.0.jpeg' width='700px' /><br/>
-Earlier this month, a sealed copy of Super Mario 64 sold for $1,560,000 at auction, a staggering price that nearly doubled a record set just two days before by a similarly pristine copy of The Legend of Zelda. The auctions could mark just the beginning of even more eye-poppingly large video game sales. It seems very likely that Mario's first 3D adventure won't be the last game to command a million-dollar sum.
-<a href='https://www.theverge.com/2021/7/24/22587929/super-mario-64-heritage-auctions-most-expensive-wata-games'> Source <a/>
