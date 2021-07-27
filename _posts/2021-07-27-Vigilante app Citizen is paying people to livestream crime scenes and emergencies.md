@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/An28w0Yy2eTe0xmz09f1Fgo61vI=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/69637627/1_rOx49dX_J6QZi4JnJL_uWg.0.png' width='700px' /><br/>
-Citizen, an app dedicated to blasting people with notifications about emergencies and crime scenes in their area, has been paying users to film its content.
+Citizen, an app dedicated to blasting users with notifications about emergencies and crime scenes in their area, has been paying people to film its content.
 <a href='https://www.theverge.com/2021/7/27/22595648/citizen-app-crime-scene-paid-live-streamer-nyc-la-emergencies'> Source <a/>
