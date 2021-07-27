@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/g5tSX_imt5jsl9MnWwN6zL2qwI4=/0x0:1878x1242/1200x0/filters:focal(0x0:1878x1242):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22743093/Screen_Shot_2021_07_27_at_3.31.06_PM.png' width='700px' /><br/>
+Want to make your next quarterly Zoom check-up a little more interesting? Feel like aggravating your colleagues at the virtual all-hands? If so, why not turn yourself into a freakish living cartoon, courtesy of Snapchat's desktop app?
+<a href='https://www.theverge.com/22595987/cartoon-filter-snapchat-snap-camera-desktop-app-zoom-meeting-how-to'> Source <a/>
