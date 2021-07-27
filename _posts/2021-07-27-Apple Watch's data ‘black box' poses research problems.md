@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MUd5GzSuh16-FijLwgaCqlC4WTI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69638062/akrales_171113_2119_0074.0.jpg' width='700px' /><br/>
+A Harvard biostatistician is rethinking plans to use Apple Watches as part of a research study after finding inconsistencies in the heart rate variability data collected by the devices. Because Apple tweaks the watch's algorithms as needed, the data from the same time period can change without warning.
+<a href='https://www.theverge.com/2021/7/27/22594178/apple-watch-data-research-heart-rate-reliability'> Source <a/>

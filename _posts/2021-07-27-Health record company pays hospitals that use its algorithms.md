@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zOqlv9YpytP49DUJcFKcAnf5zeo=/0x0:4867x3245/1200x800/filters:focal(2045x1234:2823x2012)/cdn.vox-cdn.com/uploads/chorus_image/image/69633864/1230464172.0.jpg' width='700px' /><br/>
-The electronic health record company Epic offers financial incentives to healthcare systems that use its proprietary algorithms — and those algorithms can deliver inaccurate predictions, a Stat News investigation found.
-<a href='https://www.theverge.com/2021/7/26/22594241/epic-health-algorithm-payment-accuracy-sepsis'> Source <a/>

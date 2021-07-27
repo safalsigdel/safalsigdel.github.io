@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oGJGiyf_TJrduGu5LgE4ftgdm0g=/0x0:1045x697/1200x800/filters:focal(440x266:606x432)/cdn.vox-cdn.com/uploads/chorus_image/image/69637963/dithering.0.jpg' width='700px' /><br/>
+Spotify wants to be the place you listen to all your podcasts, even the ones you pay for outside the app, so today's it's making that a possibility. The company announced multiple new partnerships today that'll allow paid shows from third-party platforms and networks to be played on the app — something that's been impossible until now because Spotify doesn't support private RSS feeds.
+<a href='https://www.theverge.com/2021/7/27/22595013/spotify-open-access-podcasts-paid-access'> Source <a/>

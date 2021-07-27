@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HrjvbMo8QXDzlOw57wOumtO1FKY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69633964/ahawkins_210623_4646_0005.0.jpg' width='700px' /><br/>
-Electric vehicle startup Lucid Motors is now a publicly traded company, following the completion of a merger where it fetched an eye-watering $4.5 billion in fresh capital. Shares of the Saudi-owned, California-based startup began trading on the Nasdaq stock exchange Monday morning.
-<a href='https://www.theverge.com/2021/7/26/22594177/lucid-motors-spac-nasdaq-saudi-arabia-ev-startup'> Source <a/>

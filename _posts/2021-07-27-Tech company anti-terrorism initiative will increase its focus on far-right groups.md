@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x9-oDnTSw0P4vIjs3vxNzUkgqcM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69633496/akrales_180614_1777_0080.0.jpg' width='700px' /><br/>
-A cross-platform counterterrorism program will start targeting white supremacist and far-right militia material, flagging content for moderation on Facebook, Twitter, Dropbox, and several other services. Reuters reported the news this morning in an interview with Nicholas Rasmussen, executive director of the Global Internet Forum to Counter Terrorism (GIFCT).
-<a href='https://www.theverge.com/2021/7/26/22594067/gifct-facebook-twitter-youtube-microsoft-far-right-terrorism-manifestos-banned'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JchZDACKBpKRjJbC1u4ois0QWAo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69633787/akrales_180328_2351_0621.0.jpg' width='700px' /><br/>
-The US is slowing moving toward adopting policies that would put more electric vehicles on the road, but for Toyota, it's not slow enough. The Japanese automaker, which is the largest car company in the world, has been quietly lobbying policymakers in Washington, DC to resist the urge to transition to an all-electric future — partly because Toyota is lagging behind the rest of industry in making that transition itself.
-<a href='https://www.theverge.com/2021/7/26/22594235/toyota-lobbying-dc-ev-congress-biden-donation'> Source <a/>
