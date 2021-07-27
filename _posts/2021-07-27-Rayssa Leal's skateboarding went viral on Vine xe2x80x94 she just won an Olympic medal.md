@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AjYyNWvNQZdEm9tyv03HdN_zuoo=/0x0:592x400/1200x800/filters:focal(216x56:310x150)/cdn.vox-cdn.com/uploads/chorus_image/image/69634674/Screen_Shot_2021_07_26_at_10.56.38_AM.0.png' width='700px' /><br/>
-People may know Rayssa Leal from a Vine that showed her landing an incredible heelflip while dressed in a pixie outfit, but today she's wearing something different: the silver medal she won for her performance in the 2021 Olympic women's street skating event. She also appeared on the Olympics official Twitter account, which posted a “how it started, how it's going” meme featuring the 13-year-old skater.
-<a href='https://www.theverge.com/2021/7/26/22594490/rayssa-leal-skateboard-tokyo-olympic-vine-kick-flip-silver-medal'> Source <a/>
