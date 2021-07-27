@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MWzk48PuelV84wdjBgx6lDJgJzI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69637703/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
+Amazon has denied a report that claimed it plans to start accepting Bitcoin as payment before the end of the year. “Notwithstanding our interest in the space, the speculation that has ensued around our specific plans for cryptocurrencies is not true,” a spokesperson for the company told Reuters, “We remain focused on exploring what this could look like for customers shopping on Amazon.”
+<a href='https://www.theverge.com/2021/7/27/22595684/amazon-bitcoin-payments-denial'> Source <a/>
