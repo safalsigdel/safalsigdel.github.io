@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NK1ZDkSPo5a0zS-NnH_lQspGXP8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69638743/acastro_200318_1777_discord_0003.0.0.jpg' width='700px' /><br/>
+Discord is launching its Threads feature today to allow servers to improve the back-and-forth of conversations on the service. Threads is distinctly different from the Replies feature that Discord introduced last year, and users will be able to create new threaded conversations using a new “#” option across Windows, macOS, Linux, iOS, Android, and the web today.
+<a href='https://www.theverge.com/2021/7/27/22595603/discord-threads-feature'> Source <a/>
