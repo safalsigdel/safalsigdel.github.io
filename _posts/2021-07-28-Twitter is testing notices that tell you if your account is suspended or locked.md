@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z5_b001O7Z3e7hq7RNatHcKdRIo=/0x0:3200x1800/1200x800/filters:focal(1344x644:1856x1156)/cdn.vox-cdn.com/uploads/chorus_image/image/69640685/E7UeDY7XMAEZChB.0.jpeg' width='700px' /><br/>
-Twitter is testing new notices that tell you if your account has been suspended or locked and has been put in read-only mode for violating Twitter's rules. The notices, announced Tuesday, will show up as a banner at the top of your feed. They are in testing across a small percentage of Twitter users on iOS, Android, and the web, a Twitter spokesperson tells The Verge.
-<a href='https://www.theverge.com/2021/7/27/22596615/twitter-notice-banner-suspended-locked-testing'> Source <a/>
