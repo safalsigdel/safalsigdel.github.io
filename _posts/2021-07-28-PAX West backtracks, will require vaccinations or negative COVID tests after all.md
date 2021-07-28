@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J-B4yJq3FBNDKPl7FY1nK8i43mQ=/0x0:1017x565/1200x800/filters:focal(428x202:590x364)/cdn.vox-cdn.com/uploads/chorus_image/image/69639865/Screen_Shot_2020_04_21_at_3.40.16_PM.0.png' width='700px' /><br/>
-PAX West will now require attendees to prove they've been vaccinated for COVID-19 or received a negative test result before they're allowed to enter the convention, organizers Penny Arcade and ReedPop announced on Monday.
-<a href='https://www.theverge.com/2021/7/27/22596105/pax-west-vaccination-covid-19-negative-test-penny-arcade'> Source <a/>
