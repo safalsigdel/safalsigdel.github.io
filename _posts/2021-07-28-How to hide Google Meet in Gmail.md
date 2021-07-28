@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/46RhsoZW8OLd6IKf1NidHRkd2PE=/0x0:1216x776/1200x800/filters:focal(511x291:705x485)/cdn.vox-cdn.com/uploads/chorus_image/image/69644980/google_meet_poup.0.jpg' width='700px' /><br/>
+Google rolled out Google Meet, a revamped version of its video chatting program Hangouts Meet, in April 2020, and made the app available to anyone with a Google account. You can start or join a Meet videoconference right from your Gmail inbox, using the buttons that Google has placed on the left-hand side of the page.
+<a href='https://www.theverge.com/22598038/how-to-google-meet-gmail-hide'> Source <a/>
