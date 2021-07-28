@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J_KxB5BlfAQOKk5lsmlUUA9IRQ0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69642989/a47427df_9cef_4831_85d0_9fa989ce4560.0.jpeg' width='700px' /><br/>
+The first Halo Infinite multiplayer technical preview will start tomorrow, July 29th. The beta will run until Sunday August 1st, offering a short chance for those invited to test Halo Infinite's multiplayer aspects. It's the first of many technical previews for Halo Infinite, as Microsoft prepares to launch the free multiplayer game mode later this year.
+<a href='https://www.theverge.com/2021/7/28/22597498/halo-infinite-multiplayer-technical-preview-beta-july-29th'> Source <a/>
