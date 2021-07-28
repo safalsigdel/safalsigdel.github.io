@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CP82qpZ8pgxPi0-dwmMPfGiS6xo=/0x0:1008x2048/1200x800/filters:focal(414x596:574x756)/cdn.vox-cdn.com/uploads/chorus_image/image/69639205/1._GTV_Mobile__For_You___NEW_.0.png' width='700px' /><br/>
-The Android app for Google TV is getting new discovery features and support for a handful of entertainment, news, and live TV apps not previously available, including YouTube TV and FuboTV.
-<a href='https://www.theverge.com/2021/7/27/22595046/google-tv-android-rotten-tomatoes-new-features'> Source <a/>

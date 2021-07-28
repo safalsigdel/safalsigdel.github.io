@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TaFViICcTfWCZmQl6IgRZbJWyEs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69643555/DSCF7729_2.0.jpeg' width='700px' /><br/>
+Xiaomi spin-off Poco has announced yet another X3 phone. The X3 GT follows the X3 Pro and the X3 NFC, this time focusing on performance with a fast 120Hz screen and a new MediaTek processor. It's mostly a rebranded version of Xiaomi's Redmi Note 10 Pro, which was released last month in China.
+<a href='https://www.theverge.com/2021/7/28/22597511/poco-x3-gt-announced-specs-features-regions'> Source <a/>

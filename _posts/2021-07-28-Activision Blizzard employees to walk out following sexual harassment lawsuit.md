@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kKHFPeNzqAcDMbtZdTxawL3a4Ds=/0x0:3792x2424/1200x800/filters:focal(1593x909:2199x1515)/cdn.vox-cdn.com/uploads/chorus_image/image/69639644/1233534678.0.jpg' width='700px' /><br/>
-Activison Blizzard employees are staging a walkout on Wednesday, July 28th in response to the company's handling of sexual harassment allegations brought by the state of California. Employees will meet outside Blizzard's main campus in Irvine at 10AM PST. “We believe that our values as employees are not being accurately reflected in the words and actions of our leadership,” the organizers said in a statement.
-<a href='https://www.theverge.com/2021/7/27/22595922/activision-blizzard-employees-walk-out-sexual-harassment'> Source <a/>
