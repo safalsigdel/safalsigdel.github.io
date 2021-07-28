@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E9HWwrzYbn8sE8voHY6lQ8MlRDQ=/0x0:3792x2424/1200x800/filters:focal(1593x909:2199x1515)/cdn.vox-cdn.com/uploads/chorus_image/image/69645216/1233534678.0.jpg' width='700px' /><br/>
+In a new letter, Activision Blizzard employees said that CEO Bobby Kotick's note addressing allegations of sexual harassment and workplace discrimination at the company “fails to address critical elements at the heart of employee concerns.” Last week, California's Department of Fair Employment and Housing (DFEH) filed a huge lawsuit against the company bringing the allegations to light.
+<a href='https://www.theverge.com/2021/7/28/22598128/activision-blizzard-employees-ceo-letter-response-key-concerns'> Source <a/>
