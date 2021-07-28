@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lSbLEoYmII-dPU0U4elcjtdZSsc=/0x0:3803x1758/1200x800/filters:focal(1598x575:2206x1183)/cdn.vox-cdn.com/uploads/chorus_image/image/69638322/Fortnite_20210727091441.0.jpg' width='700px' /><br/>
-Fortnite's next big live event appears to be very close. After the game's most recent update, a new alien ship can be found hovering over the center of the battle royale island, projecting a clock counting down to August 6th.
-<a href='https://www.theverge.com/2021/7/27/22595880/fortnite-alien-event-date-chapter-2-season-7'> Source <a/>

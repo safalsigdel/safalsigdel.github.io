@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uS7z9yCzbSXRgLNxuZ2XHmjLA4c=/0x0:1428x952/1200x800/filters:focal(600x362:828x590)/cdn.vox-cdn.com/uploads/chorus_image/image/69638025/Idea_Pin_Product_Tagging_Branded_Image.0.png' width='700px' /><br/>
-Pinterest is going after the influencer market. The platform announced its first set of tools today to let content creators earn money by promoting items from around the site.
-<a href='https://www.theverge.com/2021/7/27/22594636/pinterest-idea-pins-tag-product-brand-shoppable'> Source <a/>

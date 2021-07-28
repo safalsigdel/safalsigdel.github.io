@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X4U-e96iCGGVcE-czeBfRIr4Bzw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69640465/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
+Lately, T-Mobile has been looking less and less like the Un-carrier it styled itself as in the past, and much more like A Carrier. To that end, the company made a couple of announcements today: a new 5G coverage milestone, and that CEO Mike Sievert will be delivering a CES keynote in a spot recently occupied by Verizon.
+<a href='https://www.theverge.com/2021/7/27/22596307/t-mobile-ceo-mike-sievert-ces-keynote-5g'> Source <a/>

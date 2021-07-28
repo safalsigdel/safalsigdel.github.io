@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BuFbuRiOmma_r13yPtzfyg0_1QM=/0x0:4272x2848/1200x800/filters:focal(1795x1083:2477x1765)/cdn.vox-cdn.com/uploads/chorus_image/image/69640177/826439368.0.jpg' width='700px' /><br/>
+The sole copy of a Wu-Tang Clan record, forfeited by the infamous “Pharma Bro” Martin Shkreli, has been sold by the US government, according to a Justice Department press release published Tuesday.
+<a href='https://www.theverge.com/2021/7/27/22596474/pharma-bro-martin-shkrelis-wu-tang-clan-album-sold-once-upon-time-shaolin'> Source <a/>

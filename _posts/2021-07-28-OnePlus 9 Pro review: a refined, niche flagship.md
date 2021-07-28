@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9548/sq_bfarsace_4481_20210317_0069.jpg' width='700px' /><br/>
+The OnePlus 9 Pro is a legitimate flagship phone that is genuinely competitive with the best Android phones on the market — at least from a features and quality perspective. Yet in terms of market and mind share, it's still destined to be a niche device for a small group of enthusiasts looking for a specific kind of elegance in their Android device.
+<a href='https://www.theverge.com/22344840/oneplus-9-pro-review-price-camera-screen-specs'> Source <a/>

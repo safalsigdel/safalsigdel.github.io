@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yVez6DnL1adtTOQjmjDW0Orx10Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69640739/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+Twitter will be bringing on the team building Brief, an app that summarizes news, the company announced Tuesday. The Brief team, which consists of four people, will work on projects that support features like Spaces and Explore, a Twitter spokesperson tells The Verge.
+<a href='https://www.theverge.com/2021/7/27/22596202/twitter-brief-app-news-summary-acquihire'> Source <a/>

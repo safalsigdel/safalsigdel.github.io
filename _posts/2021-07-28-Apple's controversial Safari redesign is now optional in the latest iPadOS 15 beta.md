@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G-KONq24PyKVvSJ1jSBqXY_h2aQ=/0x0:2388x1668/1200x800/filters:focal(938x69:1320x451)/cdn.vox-cdn.com/uploads/chorus_image/image/69640582/Polygon.0.jpeg' width='700px' /><br/>
+Apple has started trickling out its fourth iOS and iPadOS 15 betas, taking additional steps back from the bold, and somewhat ill-advised reimagining of Safari it debuted at WWDC 2021. Now the “compact” tab experience in nu-Safari is entirely optional, and the more traditional separate row of tabs that were reintroduced in the third macOS Monterey beta are heading to iPads.
+<a href='https://www.theverge.com/2021/7/27/22596478/apple-ios-15-beta-safari-tabs-compact-optional'> Source <a/>

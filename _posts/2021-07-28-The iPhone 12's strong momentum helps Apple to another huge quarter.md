@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KCRjIDXko8IEWCvNC89tHET9DxM=/0x0:2040x1360/1200x800/filters:focal(854x568:1180x894)/cdn.vox-cdn.com/uploads/chorus_image/image/69641032/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+Apple's string of record-breaking earnings reports continued on Tuesday, with the company posting a strong fiscal third quarter that saw $81.43 billion in revenue. That's a year-over-year increase of 36 percent and a new all-time record for the June quarter. It also crushes the $73 billion figure that analysts were expecting. Apple recorded a net quarterly profit of $21.7 billion.
+<a href='https://www.theverge.com/2021/7/27/22596120/apple-q3-2021-earnings-iphone-ipad-mac'> Source <a/>

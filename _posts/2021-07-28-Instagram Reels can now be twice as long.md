@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jwOqkX1UcFjDx3KHlxR3OAEqBhU=/0x0:2040x1360/1200x800/filters:focal(1088x375:1414x701)/cdn.vox-cdn.com/uploads/chorus_image/image/69640373/akrales_200423_3988_0002.0.0.jpg' width='700px' /><br/>
+Instagram Reels can now be up to one minute long, double the previous 30-second time limit. Instagram initially debuted Reels with a brief 15-second time cap, then quickly doubled it just a month later. Reels is now nearly a year old, so it seems it's time for an update again.
+<a href='https://www.theverge.com/2021/7/27/22596530/instagram-reels-60-seconds-time-extension'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5HybErTWACKVd7KNP37_n4EN25k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69640866/acastro_180507_1777_microsoft_0002.0.jpg' width='700px' /><br/>
+Microsoft posted the fourth quarter of its fiscal 2021 financial results today, reporting revenue of $46.2 billion and a net income of $16.5 billion. Revenue is up 21 percent, and net income has increased by 47 percent. While cloud and Office services have boosted Microsoft's revenues, it's clear that the global chip shortage is taking its toll elsewhere.
+<a href='https://www.theverge.com/2021/7/27/22596578/microsoft-q4-2021-earnings-revenue-xbox-cloud-services-surface-gaming'> Source <a/>
