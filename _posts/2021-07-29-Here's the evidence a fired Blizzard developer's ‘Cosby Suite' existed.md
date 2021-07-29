@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9IuroeOASPTKXSbgqg6HIyXqgZk=/0x0:924x667/1200x800/filters:focal(364x179:510x325)/cdn.vox-cdn.com/uploads/chorus_image/image/69646497/cosby_suite.0.jpg' width='700px' /><br/>
+As employees walk out of Activision Blizzard today over allegations of “constant sexual harassment” and workplace discrimination — and how poorly they felt the company responded — Kotaku has released a report backing up allegations that a fired developer kept a hotel suite named after alleged rapist Bill Cosby.
+<a href='https://www.theverge.com/2021/7/28/22598508/activision-blizzard-cosby-suite-sexual-harrassment-allegations'> Source <a/>

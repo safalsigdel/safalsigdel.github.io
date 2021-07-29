@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/22CxlC4VYA_s9En-FDSewpjQ6ls=/0x0:1692x906/1200x800/filters:focal(711x318:981x588)/cdn.vox-cdn.com/uploads/chorus_image/image/69645504/Screen_Shot_2021_07_28_at_12.38.15_PM.0.png' width='700px' /><br/>
+The Oppo Watch 2 has launched in China, featuring the same Apple Watch-style design as the original Oppo Watch but with improved internal hardware. That includes Qualcomm's latest Snapdragon 4100 platform and a promise of up to 16 days of battery life from a single charge while using a low-power mode (via 9to5Google).
+<a href='https://www.theverge.com/2021/7/28/22597727/oppo-watch-2-china-announcement-qualcomm-snapdragon-4100-battery-life'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YnY_XMpFrLOW2fc3-4RENaCkEYE=/0x0:4200x2847/1200x800/filters:focal(1710x976:2382x1648)/cdn.vox-cdn.com/uploads/chorus_image/image/69642331/532417098.0.jpg' width='700px' /><br/>
-The evening before a proposed employee walkout at Activision Blizzard, one that at least part of the company is now actively encouraging by providing paid time off, company CEO Bobby Kotick has issued a letter to all employees — and investors, and the public — who are watching the company struggle with allegations of sexual harassment and workplace discrimination.
-<a href='https://www.theverge.com/2021/7/27/22597166/activision-blizzard-ceo-bobby-kotick-letter-sexual-harrassment-allegations'> Source <a/>

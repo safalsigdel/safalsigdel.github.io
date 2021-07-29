@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/igm4dQKe0yCrbiHPS_4oPp2qDSE=/0x0:1656x1302/1200x800/filters:focal(741x490:1005x754)/cdn.vox-cdn.com/uploads/chorus_image/image/69641210/Screen_Shot_2021_07_27_at_4.55.00_PM.0.png' width='700px' /><br/>
-TikTok has announced a slew of new live video features coming to the popular video app platform for both creators and viewers, including scheduled “events,” picture-in-picture support for iOS and Android, and group livestreams with two users. It's part of the company's increased efforts to push users to create and watch live videos.
-<a href='https://www.theverge.com/2021/7/27/22596718/tiktok-live-video-streaming-events-scheduling-co-host-picture-in-picture'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T-nEMHuyZxrNYAq9lOoFi2FElVM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69646073/acastro_210201_1777_robinhood_0003.0.jpg' width='700px' /><br/>
+Robinhood is scheduled to price its stock today before trading begins tomorrow, and yesterday, it disclosed a new investigation: the finance industry's self-regulator is checking to see whether founders Vlad Tenev and Baiju Bhatt should be registered with them. Currently, the co-founders aren't.
+<a href='https://www.theverge.com/2021/7/28/22598441/robinhood-finra-investigation-disclosure-prospectus'> Source <a/>

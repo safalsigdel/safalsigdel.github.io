@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QbrBrPiQOMs_qDAKzykN5crSb1o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69645972/sokane_181116_3101_fremont_0005.0.jpg' width='700px' /><br/>
+Tesla CEO Elon Musk has, for years, talked about opening up his company's vast Supercharger network to other electric vehicles. But earlier this month, Musk tweeted that Tesla plans to do this “later this year,” and this week, he finally offered some details about how it might work.
+<a href='https://www.theverge.com/2021/7/28/22596337/tesla-supercharger-elon-musk-open-network-charging-stations'> Source <a/>

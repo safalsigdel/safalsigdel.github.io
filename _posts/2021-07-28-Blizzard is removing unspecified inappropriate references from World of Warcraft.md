@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Qs7rCUxJSxK0CFNPnRORcEyS_Y0=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/69642165/992UUQ8203471623805725796.0.jpeg' width='700px' /><br/>
-The World of Warcraft team has vowed to remove “references that are not appropriate for our world” in “the coming days” following California's major sexual harassment and workplace discrimination lawsuit filed against World of Warcraft developer Activision Blizzard last week.
-<a href='https://www.theverge.com/2021/7/27/22597006/blizzard-world-of-warcraft-activision-remove-references-harassment-lawsuit'> Source <a/>

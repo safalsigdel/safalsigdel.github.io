@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eJEeqEGI7_ANoM4MwB8rIeQb83E=/0x0:7371x4916/1200x800/filters:focal(3097x1869:4275x3047)/cdn.vox-cdn.com/uploads/chorus_image/image/69646846/1327685551.0.jpg' width='700px' /><br/>
+If you pay even the slightest attention to tech news, you've probably recently seen nonstop criticism of Facebook's handling of COVID-19 misinformation, along with a barrage of negative headlines tied to a new book about the company called An Ugly Truth.
+<a href='https://www.theverge.com/2021/7/28/22598592/facebook-second-quarter-earnings-29-billion'> Source <a/>

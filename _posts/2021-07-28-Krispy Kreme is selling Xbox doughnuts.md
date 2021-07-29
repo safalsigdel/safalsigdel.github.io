@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Krispy Kreme has created an Xbox doughnut. The fluffy doughnut is a marketing collaboration with Microsoft to celebrate 20 years of Xbox, and will be sold at Krispy Kreme stores, cabinets, and online across the UK and Ireland between August 2nd and August 22nd.
-<a href='https://www.theverge.com/tldr/2021/7/28/22597592/krispy-kreme-xbox-doughnut-donut-uk'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kbXryFalFdEjZqAyeK0c39kS0N4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69644061/vpavic_4278_20201030_0119.0.jpg' width='700px' /><br/>
-Sony has now sold more than 10 million PS5 consoles. That's up more than 2 million sales from the 7.8 million Sony previously revealed in April, and it means the PS5 continues to outpace sales of the PS4, making it the fastest-selling console in Sony's history.
-<a href='https://www.theverge.com/2021/7/28/22597784/sony-ps5-playstation-5-sales'> Source <a/>

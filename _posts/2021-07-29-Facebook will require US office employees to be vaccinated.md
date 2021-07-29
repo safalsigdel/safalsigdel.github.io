@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aEIEEsZzRQlRt6rI0EsxtAS8Vz4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69647083/acastro_180522_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook will require its US employees to be vaccinated against COVID-19 when they return to the office, the company confirmed to The Verge on Wednesday.
+<a href='https://www.theverge.com/2021/7/28/22598818/facebook-vaccine-requirement-us-office-employees'> Source <a/>
