@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AFTlCpZ6mlPnwZvLi12eAngIL4M=/0x0:5088x3392/1200x800/filters:focal(2137x1289:2951x2103)/cdn.vox-cdn.com/uploads/chorus_image/image/69646656/1234138315.0.jpg' width='700px' /><br/>
-On Wednesday, bipartisan Senate negotiators reached a deal on an infrastructure package after weeks of tense discussion. The package includes billions in new funding, including more money to connect every household to high-speed broadband, according to the White House.
-<a href='https://www.theverge.com/2021/7/28/22598636/white-house-infrastructure-broadband-package-bipartisan'> Source <a/>

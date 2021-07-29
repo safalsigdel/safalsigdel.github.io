@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LZJcvoTwUmaM5-iRc7gJLHA_2Kc=/0x0:2500x1406/1200x800/filters:focal(1050x503:1450x903)/cdn.vox-cdn.com/uploads/chorus_image/image/69650597/Arc_One___Dark_Side_View.0.png' width='700px' /><br/>
+Electricity and water don't mix — well, actually, they mix really well, which can be problematic for humans. So the thought of an electric boat may seem risky. A new California startup called Arc is going to try to shred that perception, starting with a limited edition 24-foot watersports boat that will cost around $300,000.
+<a href='https://www.theverge.com/2021/7/29/22598790/arc-one-electric-boat-photos-interview'> Source <a/>

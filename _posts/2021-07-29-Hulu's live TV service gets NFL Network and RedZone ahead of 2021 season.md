@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IKa2Zfg3lsJ5O3HCwvr2qpck7Uw=/0x0:1600x900/1200x800/filters:focal(862x142:1118x398)/cdn.vox-cdn.com/uploads/chorus_image/image/69650584/image001.0.png' width='700px' /><br/>
+Hulu is adding two big channels for football coverage to its live TV service. The NFL Network will be included in Hulu's live TV package beginning today at no extra cost, while NFL RedZone will now be offered as part of a new sports add-on. The add-on includes a half-dozen channels, but subscribers will have to pony up for access.
+<a href='https://www.theverge.com/2021/7/29/22599326/hulu-nfl-network-redzone-sports-add-on'> Source <a/>

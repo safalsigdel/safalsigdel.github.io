@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KRfpzKqJh_ZrgluqV9EIXYSzcno=/0x0:1766x1098/1200x800/filters:focal(742x408:1024x690)/cdn.vox-cdn.com/uploads/chorus_image/image/69646523/Screen_Shot_2021_07_28_at_11.14.27_AM.0.png' width='700px' /><br/>
-Google announced it's adding new caller ID, missed call, and SMS message features to Google Voice on Wednesday. The otherwise minor update is notable because Google Voice has fallen to the wayside while Google focused on other messaging boondoggles.
-<a href='https://www.theverge.com/2021/7/28/22598328/google-voice-caller-id-missed-calls-sms'> Source <a/>

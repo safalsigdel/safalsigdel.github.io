@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/khhP4woBVr7PZs3wzdtG_mHlYMQ=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/69646870/1234211745.0.jpg' width='700px' /><br/>
-Apple will be requiring customers and staff at most of its more than 270 US retail stores to wear masks even if they are vaccinated, according to a new Bloomberg report, bringing back a requirement that had been removed starting in June. The change goes into effect Thursday.
-<a href='https://www.theverge.com/2021/7/28/22598686/apple-retail-stores-mask-mandate-requirement'> Source <a/>
