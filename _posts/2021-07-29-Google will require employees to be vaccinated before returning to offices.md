@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m1Rmj8lL5pSa8X1U-9xbdqWLDvY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69645737/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google will require that employees be vaccinated before they're allowed to return to the company's offices, CEO Sundar Pichai announced today in a letter obtained by The New York Times.
-<a href='https://www.theverge.com/2021/7/28/22598316/google-vaccination-requirement-return-offices-covid-19-delta-variant'> Source <a/>
