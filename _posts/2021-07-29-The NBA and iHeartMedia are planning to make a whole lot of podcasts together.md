@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_aRERRJw-FW6omT4hEBPvCWiDSk=/0x0:3360x2240/1200x800/filters:focal(1138x1224:1674x1760)/cdn.vox-cdn.com/uploads/chorus_image/image/69651159/1329804201.0.jpg' width='700px' /><br/>
+The NBA and iHeartMedia, which owns iHeartRadio, will be launching more than 20 new co-produced podcasts as part of a multiyear partnership, the two companies announced. The first show is scheduled to debut in the fall.
+<a href='https://www.theverge.com/2021/7/29/22600064/nba-iheartmedia-iheartradio-podcasts-partnership'> Source <a/>
