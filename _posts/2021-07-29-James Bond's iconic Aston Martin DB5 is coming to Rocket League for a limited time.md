@@ -1,3 +1,0 @@
-<img src='' width='700px' /><br/>
-Would you pay $10 for the privilege of strapping rocket boosters to James Bond's iconic Aston Martin DB5 automobile and using it to score spectacular gravity-defying goals with a giant ball? Rocket League is officially making that possible from Thursday, July 29th through August 4th.
-<a href='https://www.theverge.com/2021/7/28/22597111/rocket-league-james-bond-aston-martin-mgm-psyonix-epic'> Source <a/>
