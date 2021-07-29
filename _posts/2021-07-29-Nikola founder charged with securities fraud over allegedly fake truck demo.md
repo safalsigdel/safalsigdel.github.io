@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Hs5PPDACc_qLLDJ26qJUv7mlmQQ=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/69649949/nikola_world2.0.jpg' width='700px' /><br/>
+In Southern District of New York federal court on Thursday, Nikola founder Trevor Milton was charged with securities fraud. The charges allege that Milton made a series of materially false claims which portrayed the electric vehicle company Nikola as far closer to releasing a functional product than it actually was, and raising more than $500 million of investment in the process.
+<a href='https://www.theverge.com/2021/7/29/22599726/nikola-founder-securities-fraud-charge-milton'> Source <a/>

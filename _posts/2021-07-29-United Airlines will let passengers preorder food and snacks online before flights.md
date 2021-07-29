@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RXUvwbWfSnmQBzte9kRRTwC1mN8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69645923/Inflight_Pre_Order_Hero.0.png' width='700px' /><br/>
-United Airlines announced a new option for passengers to preorder food, snacks, and beverages online up to five days before their scheduled flight. Orders can be made either on United's website or through the airline's mobile app. United claims that it is the “first and only” carrier to allow economy customers this option.
-<a href='https://www.theverge.com/2021/7/28/22596430/united-airlines-preorder-food-drink-website-app'> Source <a/>
