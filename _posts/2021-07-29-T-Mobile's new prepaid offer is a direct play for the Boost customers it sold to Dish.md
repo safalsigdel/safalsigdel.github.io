@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a0-IK_au7rfbbyVGIiYavQDh1tI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69645784/acastro_191108_1777_t-mobile_0001.0.0.jpg' width='700px' /><br/>
-T-Mobile is introducing a new prepaid promotion with incentives for customers on other prepaid MVNOs to switch to Metro by T-Mobile, including waiving switching fees, a discount on an unlimited plan with 5G, and a trade-in offer for a new 5G phone. In other words, it's doing exactly what it told regulators it wouldn't do when it acquired Sprint a year ago.
-<a href='https://www.theverge.com/2021/7/28/22598163/t-mobile-metro-5g-prepaid-boost-cricket-switch-promotion'> Source <a/>
