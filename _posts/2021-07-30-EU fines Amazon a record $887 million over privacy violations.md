@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6Eccv20Y71bsTvbkBSokuyDCnFA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69655694/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
+Now that Amazon's Q2 earnings are in, it has submitted a 10-Q filing with the SEC that includes additional details like this eye-popping note about a fine imposed by the European Union's National Commission for Data Protection (CNPD) (via Bloomberg).
+<a href='https://www.theverge.com/2021/7/30/22601661/amazon-gdpr-fine-cnpd-marketplace-antitrust-data'> Source <a/>
