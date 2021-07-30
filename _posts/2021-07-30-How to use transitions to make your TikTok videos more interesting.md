@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/37O7_usQCem34WoMb3ugd6fSc40=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69656198/acastro_200713_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+If you're a TikTok creator, then you know how quickly those minutes of video can fly by. One of the ways you can move storytelling along is by using transitions between clips.
+<a href='https://www.theverge.com/22601882/tiktok-transition-how-to'> Source <a/>

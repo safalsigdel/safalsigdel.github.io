@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rogmqSgQUBrK3SKMuGbdP2WW8To=/0x0:1840x860/1200x800/filters:focal(723x465:1017x759)/cdn.vox-cdn.com/uploads/chorus_image/image/69655807/Screen_Shot_2021_07_29_at_10.12.20_PM.0.png' width='700px' /><br/>
+The Mark Cuban-funded and co-founded audio app Fireside has yet to publicly launch, but already it's asking the limited creators on its platform for money. In an email sent to users late last night and viewed by The Verge, co-founder and CEO Falon Fatemi says she and the team are accepting investments through the month of August from anyone who's interested.
+<a href='https://www.theverge.com/2021/7/30/22601191/fireside-app-mark-cuban-falon-fatemi-libsyn-rode-invest'> Source <a/>

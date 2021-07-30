@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GKRaPdk_q9GenAnlCAgdjhP5ctQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69656245/sokane_181116_3101_fremont_0004.0.jpg' width='700px' /><br/>
+Tesla agreed to pay $1.5 million to settle a lawsuit alleging the company used a software update to reduce the maximum battery voltage for some of its Model S sedans, Reuters reports.
+<a href='https://www.theverge.com/2021/7/30/22601832/tesla-settlement-battery-throttle-model-s-amount'> Source <a/>
