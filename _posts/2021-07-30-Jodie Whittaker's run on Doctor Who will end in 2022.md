@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PP-CsoTNbYv4pe5yQnxl3hwh1J4=/0x0:728x410/1200x800/filters:focal(306x147:422x263)/cdn.vox-cdn.com/uploads/chorus_image/image/69650301/2g90j0k80001000.0.jpg' width='700px' /><br/>
-The Thirteenth Doctor is set to step away. Today, the BBC announced that Jodie Whittaker, who took over as the first female lead in Doctor Who in 2017, will end her run on the show in 2022. Showrunner Chris Chibnall will also be leaving.
-<a href='https://www.theverge.com/2021/7/29/22599878/doctor-who-jodie-whittaker-chris-chibnall-leaving-2022'> Source <a/>
