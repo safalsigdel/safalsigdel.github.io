@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ca1xmyoxCKr75jnbQHVdeS77bpM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69647918/kindle-voyage-review-001-2040.0.0.jpg' width='700px' /><br/>
-Amazon's Kindle e-readers with built-in 3G will begin to lose the ability to connect to the internet on their own in the US in December, according to an email sent to customers on Wednesday. The change is due to mobile carriers transitioning from older 2G and 3G networking technology to newer 4G and 5G networks. For older Kindles without Wi-Fi, this change could mean not connecting to the internet at all.
-<a href='https://www.theverge.com/2021/7/28/22598747/kindle-3g-network-shutdown-e-readers-no-internet'> Source <a/>
