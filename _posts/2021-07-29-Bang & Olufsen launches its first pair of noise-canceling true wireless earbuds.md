@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U0sGgfcDfAeO2x7fgwYr21cv4Us=/0x0:5735x3824/1200x800/filters:focal(2410x1454:3326x2370)/cdn.vox-cdn.com/uploads/chorus_image/image/69648957/Beoplay_EQ_0006.0.png' width='700px' /><br/>
-Bang & Olufsen's Beoplay EQ are the Danish audio brand's first pair of noise-canceling true wireless headphones. Two microphones on each earbud handle noise cancellation duties alongside an extra mic for making calls, for a total of six across the two earbuds. They're releasing globally on August 19th in black and gold.
-<a href='https://www.theverge.com/2021/7/29/22594086/bang-olufsen-beoplay-eq-true-wireless-earbuds-price-release-date-features'> Source <a/>

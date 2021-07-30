@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1E6CS2EgniByh3s8X2OKk4EYwWQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69649760/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
-Uber is teaming up with popular language service Rosetta Stone to provide free classes to drivers and couriers, the company announced Thursday.
-<a href='https://www.theverge.com/2021/7/29/22598932/uber-free-language-classes-drivers-rosetta-stone'> Source <a/>

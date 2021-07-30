@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CkQmY1JeeJMLB6hFhdwVS0D7eA0=/0x0:2880x1616/1200x0/filters:focal(0x0:2880x1616):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22747275/Screen_Shot_2021_07_28_at_5.44.09_PM.png' width='700px' /><br/>
-Engineer and YouTuber Mark Rober has created a robot that can make domino murals at lightning speed, and has shown it off with a video of it arranging 100,000 dominoes into a Super Mario Bros.-themed mural in just over 24 hours. Rober says it would take a team of seven humans a week to do the same thing.
-<a href='https://www.theverge.com/2021/7/29/22599111/mark-rober-domino-robot-super-mario-bros-mural-single-day'> Source <a/>

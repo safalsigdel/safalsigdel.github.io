@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/I5IFMVFtoa9qbgrPy8S_9jTIxw8=/0x0:1000x555/1200x800/filters:focal(420x198:580x358)/cdn.vox-cdn.com/uploads/chorus_image/image/67028219/Gsuite_x_gmail.max_1000x1000.5.png' width='700px' /><br/>
+Google's Tasks app functions like a digital to-do list. While there are dedicated Android and iOS apps for Tasks, it's also integrated right into the inbox view when you're using Gmail on a desktop. So it can be a handy way of keeping track of items while you go through your email in case you need to remember to reply to an email later or need to be able to access a message quickly.
+<a href='https://www.theverge.com/21316349/google-tasks-gmail-to-do-list-reminders'> Source <a/>

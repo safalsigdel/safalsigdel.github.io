@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tJmhsEKCNqb6graNbx4VflEzGxw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69649719/shollister_210727_4681_0033_3x2.0.jpg' width='700px' /><br/>
-Building your own gaming PC is a labor of love. It's not something that needs to be “easier,” exactly. But from the moment I set a screwdriver to Intel's new NUC 11 Extreme, aka “Beast Canyon,” I couldn't help marveling at how brilliant a eight-liter gaming machine can be.
-<a href='https://www.theverge.com/2021/7/29/22599092/intel-nuc-11-extreme-beast-canyon-specs-price-availability-preview'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oKFabdf_6JnduVKDFZJEh1NUGuM=/0x0:4105x2688/1200x800/filters:focal(1895x378:2551x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/69651442/1331298171.0.jpg' width='700px' /><br/>
+Figuring out how to watch the Olympics this year has been frustrating. NBC holds broadcasting rights to the Games in the US, so it naturally seized on the opportunity to boost subscribers to its streaming service, Peacock, by making it “the place to flock for the Games' top moments.” Streaming the Olympics should've been as easy as signing up — except it wasn't.
+<a href='https://www.theverge.com/2021/7/29/22589928/peacock-2020-olympics-streaming'> Source <a/>

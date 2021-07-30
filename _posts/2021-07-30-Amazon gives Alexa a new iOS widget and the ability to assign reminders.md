@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PSwDbgPcw86ntULlzHmMZb_It3I=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69653006/dseifert_201025_4263_00010.0.0.jpg' width='700px' /><br/>
+Amazon has updated the Alexa app on iOS so that you can access the voice assistant right from your home screen via a new widget. Everyone can use the assistant to remind specific members of your household to do tasks through a new “assign reminders” skill.
+<a href='https://www.theverge.com/2021/7/29/22600568/amazon-alexa-widget-ios-assign-reminders'> Source <a/>

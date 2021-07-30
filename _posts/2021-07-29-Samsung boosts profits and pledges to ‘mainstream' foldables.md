@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6wFkDXwJ-b4ocsvJyeCT9uMnh9I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69648658/vpavic_190731_z_flip_0247_1.0.jpg' width='700px' /><br/>
-Samsung Electronics has released its second-quarter earnings, reporting 20 percent higher revenue and 54 percent higher operating profit year-on-year despite its mobile division taking a hit due to component shortages. The company made an operating profit of 12.57 trillion won (~$10.97 billion) off 63.67 trillion won (~$55.56 billion) in revenue.
-<a href='https://www.theverge.com/2021/7/28/22599306/samsung-q2-2021-earnings-component-shortage-foldables'> Source <a/>

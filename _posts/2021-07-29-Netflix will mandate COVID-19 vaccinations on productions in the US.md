@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3Aq2MliuGVp9uoPa2KJsKe3D9Qk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69648122/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
-Netflix will require the casts and some crew on its productions in the US to be vaccinated against COVID-19, a measure that comes as the Delta variant continues to spread across the country.
-<a href='https://www.theverge.com/2021/7/28/22599104/netflix-covid-19-vaccine-policy'> Source <a/>

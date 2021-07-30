@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GJzrDsHmkBD_iK5TI8Y5yG4lhEY=/0x0:1350x900/1200x800/filters:focal(567x342:783x558)/cdn.vox-cdn.com/uploads/chorus_image/image/69649678/msedge_IURr7pZvgC.0.png' width='700px' /><br/>
-Huawei has announced its latest flagship phones for the Chinese market, the P50 and P50 Pro. They're the company's first major phones to launch with HarmonyOS, the company's own branded mobile operating system, which pairs with Huawei's typically well-specced cameras and hardware that includes Qualcomm's flagship Snapdragon 888 processor in some models.
-<a href='https://www.theverge.com/2021/7/29/22598135/huawei-p50-china-release-date-price-news-features-specs-cameras'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Pd19Unv51H10mTYqHDUj1I6vuPI=/0x0:1960x1306/1200x800/filters:focal(824x497:1136x809)/cdn.vox-cdn.com/uploads/chorus_image/image/69652209/apple_garageband_update_jul21_hero_07292021.0.jpg' width='700px' /><br/>
+If a year inside convinced you to shoot your shot at becoming an international DJ, Apple is updating GarageBand for iOS and iPadOS on Thursday with a low-stakes way to start dabbling in the world of remixes. GarageBand's Remix Sessions lets you try your hand at remixing tracks from Dua Lipa and Lady Gaga with short video tutorials available to watch while you mess with loops.
+<a href='https://www.theverge.com/2021/7/29/22600217/garageband-remix-sessions-lady-gaga-dual-lipa'> Source <a/>

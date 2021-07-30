@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rPqu469qNu0n55dNzFfQqvcV0KE=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69649300/acastro_210728_4683_0001.0.jpg' width='700px' /><br/>
-In the summer of 2020 Intel seemed poised for triumph. Then it all went wrong. “To put it briefly: Intel blew it,” explains Glenn O'Donnell, a research director at Forrester Research. Intel was forced to announce to the world that it'd be delaying its next major manufacturing milestone for its chips for another few years, an admission that, once again, Intel was falling behind the competition.
-<a href='https://www.theverge.com/22597713/intel-7nm-delay-summer-2020-apple-arm-switch-roadmap-gelsinger-ceo'> Source <a/>

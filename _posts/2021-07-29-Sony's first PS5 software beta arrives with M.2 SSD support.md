@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1Lww-lQbLyHh5PuMt9NZFGtPqpI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69649240/vpavic_4278_20201030_0292.0.jpg' width='700px' /><br/>
-Sony's PS5 system software beta program is starting to roll out today, and it include access to the long-awaited M.2 SSD slot. The first PS5 beta is available for select users in the US, Canada, Japan, UK, Germany, and France. The beta includes some new UX enhancements and customizations, but the biggest addition is M.2 SSD expansion support.
-<a href='https://www.theverge.com/2021/7/29/22599593/sony-ps5-m2-ssd-support-beta-features'> Source <a/>

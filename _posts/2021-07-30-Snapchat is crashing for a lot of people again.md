@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wozfASDcBcz8E2zqndPZeHhrQeU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69653488/snapChatPattern_BW.0.jpg' width='700px' /><br/>
+Snapchat is experiencing a massive issue as of Thursday evening, with more than 125,000 users reporting problems on Downdetector. I tried logging into the app on my iPhone 12 Mini, and now the app just crashes every time I try and open the app. Two other Verge staffers aren't able to open the app, either.
+<a href='https://www.theverge.com/2021/7/29/22600902/snapchat-crashing-down-outage-issue-app-login'> Source <a/>

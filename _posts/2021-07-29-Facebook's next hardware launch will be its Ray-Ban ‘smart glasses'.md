@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/75Y0WdTly7bEFln7jKuEy5ZHtuQ=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69649393/1233731883.0.jpg' width='700px' /><br/>
-Facebook's next hardware launch will be its long-awaited Ray-Ban ‘smart glasses,' CEO Mark Zuckerberg confirmed on an earnings call this week. When exactly the glasses will arrive is unclear. We least heard they were launching some time in 2021, but the pandemic has changed a lot of companies' plans, and Zuckerberg did not comment on a time frame.
-<a href='https://www.theverge.com/2021/7/29/22599599/facebook-ray-ban-smart-glasses-next-product-launch-specs'> Source <a/>
