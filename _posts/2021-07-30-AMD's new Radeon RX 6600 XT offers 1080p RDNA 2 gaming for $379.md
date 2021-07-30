@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wPBIKHzIL0SFYzZSCxltv4h-imI=/0x0:1650x1150/1200x800/filters:focal(693x443:957x707)/cdn.vox-cdn.com/uploads/chorus_image/image/69654429/Screen_Shot_2021_07_29_at_5.08.39_PM_1.0.png' width='700px' /><br/>
+AMD has a new entry-level RX 6000-series GPU: the $379 RX 6600 XT, which is still based on the same RDNA 2 architecture as its beefier cousins, but it offers a more wallet-friendly price point. The new card promises the “ultimate 1080p gaming experience,” for customers who don't necessarily need a next-gen 4K gaming setup.
+<a href='https://www.theverge.com/2021/7/29/22600015/amd-radeon-rx-6600-xt-gpu-1080p-gaming-379-price-release-date'> Source <a/>
