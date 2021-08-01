@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7rqep6Gq84Vo1PSajw316bJTKIk=/0x0:1813x1197/1200x800/filters:focal(762x454:1052x744)/cdn.vox-cdn.com/uploads/chorus_image/image/69659240/haloinfinite.0.jpg' width='700px' /><br/>
+If you're invested in the story of Master Chief, Cortana, and the fate of the Halo universe, you might want to keep your head down and start muting some keywords on social media until Halo Infinite arrives later this year — because vast spoilers for the game's entire story are now floating around on the internet.
+<a href='https://www.theverge.com/2021/7/30/22602811/halo-infinite-story-spoiler-leak-cortana-technical-preview'> Source <a/>

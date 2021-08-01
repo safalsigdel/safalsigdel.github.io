@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zhNc0N5cRNQq36_oIUjvZXhKnVk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69653065/acastro_210201_1777_robinhood_0003.0.jpg' width='700px' /><br/>
-Robinhood started trading at $38, dropped about 10 percent, recovered, but still closed down 8 percent at $34.90 on its first day of trading. It's the worst first day among 51 firms that raised as much as Robinhood or more, according to Bloomberg. It's also bad news for Robinhood's experiment at offering retail investors a chunk of the IPO.
-<a href='https://www.theverge.com/2021/7/29/22600570/robinhood-ipo-retail-investors'> Source <a/>

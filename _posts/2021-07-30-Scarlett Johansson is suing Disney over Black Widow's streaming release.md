@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZOaDRITdewhGHOAWngT_Pyo3E8M=/0x0:1600x680/1200x800/filters:focal(672x212:928x468)/cdn.vox-cdn.com/uploads/chorus_image/image/69651945/cc34ecb078c29957ad70d987b6b38121.0.jpg' width='700px' /><br/>
-Scarlett Johansson is suing Disney over the simultaneous streaming release of Black Widow, which debuted the same day in theaters and on Disney Plus through its Premier Access service.
-<a href='https://www.theverge.com/2021/7/29/22600396/scarlett-johansson-suing-disney-black-widow-release'> Source <a/>

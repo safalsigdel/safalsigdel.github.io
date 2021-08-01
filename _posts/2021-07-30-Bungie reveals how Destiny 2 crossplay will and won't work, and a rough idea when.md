@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h8JY2asGO4BWNZIXq-HLhKtubyk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69653590/overview_screenshot_3.0.jpeg' width='700px' /><br/>
-Destiny 2 developer Bungie revealed a whole lot of information about the game's upcoming crossplay support in a blog post on Thursday afternoon. Let's get this out of the way first: Bungie still doesn't have an exact date for when you'll be able to play with your friends on other platforms, but the studio promises the feature will launch “early” in Season 15, which is expected to kick off on August 24th.
-<a href='https://www.theverge.com/2021/7/29/22600801/destiny-2-crossplay-bungie-name-competitive-pve-voice-chat'> Source <a/>

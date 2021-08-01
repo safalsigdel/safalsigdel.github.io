@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wsThPZuupuca8Pi49b963_l62eQ=/0x0:2000x1500/1200x800/filters:focal(854x608:1174x928)/cdn.vox-cdn.com/uploads/chorus_image/image/69651711/Edge_family_2021_sm.0.jpg' width='700px' /><br/>
-Motorola is keeping its return to flagship devices running for the second year in a row with today's global announcement of the Edge 20 Pro, Edge 20, and Edge 20 Lite. The top-end 20 Pro includes a periscope-style telephoto lens for the first time in a Motorola device and includes a Snapdragon 870 processor.
-<a href='https://www.theverge.com/2021/7/29/22599860/motorola-edge-20-pro-lite-camera-5g-global-launch'> Source <a/>

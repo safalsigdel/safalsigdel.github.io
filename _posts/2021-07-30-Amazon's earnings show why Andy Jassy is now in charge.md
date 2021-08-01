@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u-98fKfZgH10o2NDwgloE3oVsBE=/0x0:4533x3022/1200x800/filters:focal(820x1223:1544x1947)/cdn.vox-cdn.com/uploads/chorus_image/image/69652833/1129882599.0.jpg' width='700px' /><br/>
-As stores reopen and in-person shopping picks back up, the surge in demand for Amazon purchases has finally started to wane — not much, to be clear, but just enough to frustrate investors.
-<a href='https://www.theverge.com/2021/7/29/22600255/amazon-q2-2021-earnings-aws-andy-jassy'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6hT1407I8EVkoB0VyGkwoHulXCc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69659149/acastro_210729_1777_blizzard_0002.0.jpg' width='700px' /><br/>
+More disturbing allegations of Activision Blizzard's reported culture of sexual harassment and gender-based discrimination have been reported in recent days, following a huge lawsuit filed against the company by California's Department of Fair Employment and Housing (DFEH) last week.
+<a href='https://www.theverge.com/2021/7/30/22602655/activision-blizzard-employees-accusations-allegations-lawsuit'> Source <a/>

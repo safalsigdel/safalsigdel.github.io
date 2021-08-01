@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M5RLQJ79ZKLl8J6SgwIp3mAtH5Y=/0x0:1200x800/1200x800/filters:focal(272x217:464x409)/cdn.vox-cdn.com/uploads/chorus_image/image/69658959/mastodon.0.jpg' width='700px' /><br/>
+Decentralized social network Mastodon now has an official iPhone app. The nonprofit behind Mastodon launched the app on iOS today, supplementing an existing web version and several third-party apps for iOS, Android, and other platforms. The app is free and offers a similar feature set to Mastodon's core service, although it doesn't include Mastodon's broad local and federated timelines.
+<a href='https://www.theverge.com/2021/7/30/22602275/mastodon-decentralized-social-network-official-ios-app-launches'> Source <a/>

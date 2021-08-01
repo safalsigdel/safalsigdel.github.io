@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EZ2-HBAj_8RNvjv_NMkSkqTLxwc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69658114/Google_Apple_App_Dominance2.0.jpg' width='700px' /><br/>
+Every Friday, The Verge publishes our flagship podcast, The Vergecast, where co-hosts Nilay Patel and Dieter Bohn discuss the week in tech news with the reporters and editors covering the biggest stories.
+<a href='https://www.theverge.com/2021/7/30/22602434/earnings-apple-intel-nothing-earbuds-vergecast-podcast-460'> Source <a/>
