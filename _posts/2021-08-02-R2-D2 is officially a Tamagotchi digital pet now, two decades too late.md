@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-WLYOpbFkTagKX91LApzZ8O9nKw=/0x0:1536x864/1200x800/filters:focal(646x310:890x554)/cdn.vox-cdn.com/uploads/chorus_image/image/69666350/r2_d2_tamagotchi_droid_buddy_blue_TALL_01.0.jpeg' width='700px' /><br/>
+R2-D2 — Star Wars' beloved droid — is now officially a Tamagotchi toy, letting you take a pocket-sized, pixelated virtual pet version of the iconic astromech with you wherever you go.
+<a href='https://www.theverge.com/2021/8/2/22605668/r2-d2-tamagotchi-digital-pet-star-wars-release-date-preorder'> Source <a/>
