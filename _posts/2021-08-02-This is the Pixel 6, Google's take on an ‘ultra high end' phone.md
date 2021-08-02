@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ed5hhdSld5CqQmyMbdj4by4dun0=/0x0:7645x4500/1200x0/filters:focal(0x0:7645x4500):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22755114/Google_Pixel_6__Portfolio_Shot.jpg' width='700px' /><br/>
+Google is announcing the Pixel 6 and Pixel 6 Pro today, though it might be better to call it a preview or a tease. Rather than releasing all the details on its new Android phones, Google is instead putting the focus on the new system on a chip (SoC) that will be inside the new Pixels. It's called the Tensor SoC, named after the Tensor Processing Units (TPU) Google uses in its data centers.
+<a href='https://www.theverge.com/2021/8/2/22605094/google-pixel-6-pro-tensor-processor-specs-ai-ml'> Source <a/>
