@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8aKoh_-AVwF5QnlJfoh9fqLZthk=/0x0:3360x2500/1200x800/filters:focal(1412x982:1948x1518)/cdn.vox-cdn.com/uploads/chorus_image/image/69664507/sq_online_store_phone.0.jpeg' width='700px' /><br/>
+Square plans to acquire Australian company Afterpay, which offers a “buy now, pay later” service that lets you pay for purchases in installments interest-free, for $29 billion in stock, the two companies announced Sunday. It's the latest big move for Square, which has also announced a Bitcoin business unit and that it bought a majority stake in the Tidal streaming service this year.
+<a href='https://www.theverge.com/2021/8/1/22605025/square-afterpay-acquisition-buy-now-pay-later-service-29-billion-stock'> Source <a/>

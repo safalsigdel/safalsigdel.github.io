@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OJYL_KHSR7hWkTf5nzpnMU13mmA=/0x0:5000x3750/1200x800/filters:focal(1477x2566:2277x3366)/cdn.vox-cdn.com/uploads/chorus_image/image/69653789/1229030380.0.jpg' width='700px' /><br/>
-Following a prolonged standoff between Dish Network and AT&T over licensing terms to carry HBO channels, Dish has reached an agreement with WarnerMedia to offer HBO, HBO Max, and Cinemax.
-<a href='https://www.theverge.com/2021/7/29/22600943/dish-adds-hbo-max-cinemax'> Source <a/>

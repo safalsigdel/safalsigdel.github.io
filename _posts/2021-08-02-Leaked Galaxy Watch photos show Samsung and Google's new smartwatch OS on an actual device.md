@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RjwAV8PetHRlM838VffDftucEms=/0x0:1200x630/1200x800/filters:focal(504x219:696x411)/cdn.vox-cdn.com/uploads/chorus_image/image/69664250/samsung_galaxy_watch_4_featured_watermarked.0.jpeg' width='700px' /><br/>
+We're a little over a week away from Samsung's next Unpacked event, but new photos from 91mobiles may have revealed our first in-person look at two things we could see at the show: the rumored Galaxy Watch 4 Classic and the new smartwatch OS from Samsung and Google.
+<a href='https://www.theverge.com/2021/8/1/22604862/samsung-galaxy-watch-photos-images-leaked-classic-4-wear-smartwatch-os-google'> Source <a/>
