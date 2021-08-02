@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zyx1ZQ3r8OPY7LYtzD50_oiE-20=/0x0:5167x3445/1200x800/filters:focal(2409x1034:3235x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/69657092/1233956452.0.jpg' width='700px' /><br/>
-Tesla CEO Elon Musk reportedly demanded to become Apple's CEO in a 2016 phone call with current Apple CEO Tim Cook, according to an upcoming book about Tesla. The story, shared by the Los Angeles Times, comes from Power Play: Tesla, Elon Musk, and the Bet of the Century by The Wall Street Journal reporter Tim Higgins.
-<a href='https://www.theverge.com/2021/7/30/22602017/elon-musk-tim-cook-apple-ceo-demand-tesla-acquisition'> Source <a/>
