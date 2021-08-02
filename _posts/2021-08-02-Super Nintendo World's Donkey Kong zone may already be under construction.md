@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/I0p65p7hk9qh-ERq2PGg4X8Fo-Y=/0x0:2040x1360/1200x800/filters:focal(854x590:1180x916)/cdn.vox-cdn.com/uploads/chorus_image/image/69665315/DSCF7652.0.jpg' width='700px' /><br/>
+Super Nintendo World, the Super Mario-themed area of Universal Studios Japan in Osaka, finally opened back in March after multiple delays, and Nintendo may already be working on expanding the park. As noted by VGC, social media posts from recent visitors to USJ have shown cranes, scaffolding, and a jungle-themed backdrop around Super Nintendo World, suggesting work is underway on the rumored Donkey Kong area.
+<a href='https://www.theverge.com/2021/8/2/22605383/super-nintendo-world-donkey-kong-area-construction'> Source <a/>

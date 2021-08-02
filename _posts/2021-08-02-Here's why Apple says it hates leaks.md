@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3MTLdfNj3hQKcODPwUYRruMwdaY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69655219/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
-Apple is a notoriously secretive company, and a cease and desist letter recently acquired by Motherboard sheds new light on exactly why, arguing that leaks harm accessory makers, consumers, and Apple itself.
-<a href='https://www.theverge.com/2021/7/30/22601564/apple-leak-phone-cases-cease-and-desist-trade-secrets'> Source <a/>
