@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Eyntq-l_l7GlcgliaiZp83Sw1Us=/0x0:3000x2002/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/69657522/1232778207.0.jpg' width='700px' /><br/>
-Elon Musk has had a busy Friday on Twitter. After flatly denying that he has ever spoken to Apple CEO Tim Cook in response to a wild story alleging he demanded to take over as the company's CEO as part of an acquisition offer, Musk has now tweeted his support of Epic Games' fight against Apple over App Store policies.
-<a href='https://www.theverge.com/2021/7/30/22602231/elon-musk-apple-app-store-fees-de-facto-global-tax-internet-tim-sweeney-epic-games'> Source <a/>
