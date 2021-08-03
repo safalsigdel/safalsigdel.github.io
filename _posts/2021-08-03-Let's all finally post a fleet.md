@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mWon7dbqhIaVto2l_zk6ql6W97c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69667142/acastro_180827_1777_0001.5.jpg' width='700px' /><br/>
-Twitter is yeeting Fleets, its Stories-like ephemeral posts, on August 3rd, meaning that depending on when you read this, you may have mere hours to unleash that fleet you've been thinking about for months unto the world.
-<a href='https://www.theverge.com/2021/8/2/22605888/please-post-twitter-fleets-last-day-final-moments'> Source <a/>

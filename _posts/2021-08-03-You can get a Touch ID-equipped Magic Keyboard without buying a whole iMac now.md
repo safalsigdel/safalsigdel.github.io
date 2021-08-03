@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/opCLOwnLioLvja2PIFi2dwYwDdg=/0x0:1988x1314/1200x800/filters:focal(752x445:1070x763)/cdn.vox-cdn.com/uploads/chorus_image/image/69671812/Screen_Shot_2021_08_03_at_10.05.59_AM.0.png' width='700px' /><br/>
+It's taken a few months, but Apple is now selling the new, Touch ID-equipped version of its Magic Keyboard for anyone to buy, starting at $149 for the standard version and $179 for a full-sized model with a numpad, as spotted by MacRumors.
+<a href='https://www.theverge.com/2021/8/3/22607386/apple-magic-keyboard-touch-id-standalone-seperate-price-release-date-m1-chip'> Source <a/>
