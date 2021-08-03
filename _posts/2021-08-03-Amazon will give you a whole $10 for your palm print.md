@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yf8cF09OA1IPAOhQ5-TowJCAAcQ=/0x0:1320x743/1200x800/filters:focal(555x267:765x477)/cdn.vox-cdn.com/uploads/chorus_image/image/69670736/amazon_one_palm_print.0.jpg' width='700px' /><br/>
+Amazon is offering $10 in credit if you enroll your biometric data in the company's palm print recognition system, Amazon One. The promotion, spotted by TechCrunch, says people must connect their palm print to their Amazon account to claim the reward, though it's not clear exactly where it's available.
+<a href='https://www.theverge.com/2021/8/3/22607218/amazon-one-palm-print-technology-10-dollar-promo'> Source <a/>

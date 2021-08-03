@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S6Z94bL_a218GOtwcAypGIOZNHk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69664645/wjoel_180413_1777_android_003.0.jpg' width='700px' /><br/>
-If you still have a device running Android 2.3.7 (the final version of Gingerbread) or older, Google won't let you sign in to your Google account on that device starting September 27th, according to a support document (via Liliputing).
-<a href='https://www.theverge.com/2021/8/1/22605009/google-android-older-versions-2-3-7-account-sign-log-in-gmail-youtube-maps'> Source <a/>
