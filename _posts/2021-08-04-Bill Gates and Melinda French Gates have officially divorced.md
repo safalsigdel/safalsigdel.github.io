@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1KbSGYYj7g9T2fXieeI3Zs54c5M=/0x0:3000x2100/1200x800/filters:focal(1260x810:1740x1290)/cdn.vox-cdn.com/uploads/chorus_image/image/69670680/1130788958.0.jpg' width='700px' /><br/>
-Bill Gates and Melinda French Gates filed for divorce on May 3rd after 27 years of marriage. Now, three months later, the separation of one of the world's richest, most powerful couples has been finalized by a judge in King County, Washington.
-<a href='https://www.theverge.com/2021/8/3/22607200/bill-gates-melinda-french-gates-divorce-finalized-financial-assets-foundation'> Source <a/>
