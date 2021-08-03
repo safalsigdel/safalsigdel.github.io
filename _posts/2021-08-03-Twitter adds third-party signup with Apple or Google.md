@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cMWfYF5D_0GBhOHAbEDr0aoaF5I=/0x0:1125x2184/1200x800/filters:focal(484x1440:664x1620)/cdn.vox-cdn.com/uploads/chorus_image/image/69668304/IMG_2175.0.jpeg' width='700px' /><br/>
-Twitter has introduced third-party login support, letting users create accounts and log in to the social network with their Apple or Google accounts (via 9to5Mac). Twitter also allows you to link your existing account with an Apple or Google one, as long as the emails are the same.
-<a href='https://www.theverge.com/2021/8/2/22606150/twitter-third-party-apple-google-login-signup-feature'> Source <a/>
