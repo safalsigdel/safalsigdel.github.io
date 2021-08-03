@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W9JRPKamb661ml5nRwU5oGz4iyw=/0x0:4962x3308/1200x800/filters:focal(2085x1258:2877x2050)/cdn.vox-cdn.com/uploads/chorus_image/image/69671109/MisleadingInfo.png.img.fullhd.medium.0.jpg' width='700px' /><br/>
+Twitter is working with news agencies the Associated Press and Reuters to more proactively combat misinformation on its platform, the company has announced. The platform's internal teams already work to explain and add context to Twitter content, but it says the two news agencies will help provide more authoritative information, especially when facts are in dispute.
+<a href='https://www.theverge.com/2021/8/3/22607317/twitter-associated-press-reuters-misinformation-combat-context-topics-trending'> Source <a/>
