@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OK0WVNiUhD_fZbuyvvLsMrUW30k=/0x0:2646x1718/1200x800/filters:focal(1112x648:1534x1070)/cdn.vox-cdn.com/uploads/chorus_image/image/69672250/Screen_Shot_2021_08_02_at_3.19.53_PM.0.png' width='700px' /><br/>
+Google Maps will finally be getting a dark mode on iOS, nearly two years after Apple rolled out dark mode as part of iOS 13. The feature, which is arriving in the coming weeks, should be welcome for when you're using the app at night or in dark environments. You can get an idea of what dark mode will look like in the picture at the top of this post.
+<a href='https://www.theverge.com/2021/8/3/22606644/google-maps-ios-dark-mode-widgets-share-location-imessage'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QsL4QRoTnjtAfktIjPp4394cPo0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69668500/jbareham_160711_1134_0122_02.0.0.jpg' width='700px' /><br/>
-Niantic reverted some of the pandemic-era changes made to Pokxc3xa9mon Go in the US and New Zealand on Sunday, including reducing the distance you need to be from the physical real-world locations of Pokxc3xa9stops and Gyms to interact with them. The company announced the changes in June and has decided to move forward with its plans, despite backlash over the changes.
-<a href='https://www.theverge.com/2021/8/2/22605874/pokemon-go-pokestop-distance-halved-us-new-zealand'> Source <a/>

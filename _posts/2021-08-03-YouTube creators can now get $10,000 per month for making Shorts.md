@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XqviCls5JVJOSsgj47FKMdr42qQ=/0x0:4332x2889/1200x800/filters:focal(1820x1099:2512x1791)/cdn.vox-cdn.com/uploads/chorus_image/image/69672268/youtube_shorts_beta.0.jpg' width='700px' /><br/>
+YouTube will pay creators up to $10,000 per month for making popular videos on its TikTok competitor, YouTube Shorts. The company plans to pay $100 million throughout the next year, with the first payments going out this month.
+<a href='https://www.theverge.com/2021/8/3/22606291/youtube-shorts-fund-launches-100-million'> Source <a/>
