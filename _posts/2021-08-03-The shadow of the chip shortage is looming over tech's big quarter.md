@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KC0PnPv61GHFzKkFUuqSemEaFz4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69667633/acastro_210430_1777_semiCon_0002.0.jpg' width='700px' /><br/>
-Tech earnings this quarter were, to the surprise of no one, high. But amid the record-settling revenues, the looming specter of the global semiconductor shortage was the fly in the ointment.
-<a href='https://www.theverge.com/22602104/chip-shortage-tech-quarterly-earnings-intel-apple-microsoft-amd-samsung-tesla'> Source <a/>
