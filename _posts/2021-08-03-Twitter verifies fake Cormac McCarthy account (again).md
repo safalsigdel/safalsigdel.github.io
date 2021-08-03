@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/il6PIrUO_sCCaJWdh2d-00LTvRU=/0x0:1229x810/1200x800/filters:focal(517x307:713x503)/cdn.vox-cdn.com/uploads/chorus_image/image/69667009/Screen_Shot_2021_08_02_at_4.44.08_PM.0.png' width='700px' /><br/>
-Twitter's verification process is notoriously slapdash, but you'd expect the company not to fall for the exact same fake twice, right? Wrong!
-<a href='https://www.theverge.com/2021/8/2/22605871/twitter-cormac-mccarthy-verified-fake-account'> Source <a/>
