@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aKT6vLNN77CbPKjDxxR4Kqo3B88=/0x0:2508x1882/1200x800/filters:focal(1054x741:1454x1141)/cdn.vox-cdn.com/uploads/chorus_image/image/69669402/Authhome_Air.0.png' width='700px' /><br/>
+Pearson, the largest publisher of college textbooks in the US, has announced Pearson Plus, a new subscription service for digital textbooks. The Pearson Plus app, available in both mobile and desktop form, will be available on US college campuses this fall and is expected to roll out globally in the future.
+<a href='https://www.theverge.com/2021/8/2/22606423/pearson-plus-college-textbook-subscription-service-app-launch'> Source <a/>

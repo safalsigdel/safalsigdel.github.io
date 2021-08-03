@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sDcGV31ySLpQEmOZbUBc9ewaWTs=/0x0:2040x1358/1200x800/filters:focal(857x516:1183x842)/cdn.vox-cdn.com/uploads/chorus_image/image/69195508/vpavic_4291_20201113_0337_Edit.0.jpg' width='700px' /><br/>
+With multiple configurations and various models to choose from, including some equipped with Apple's new M1 processor, finding a deal on a MacBook or Mac Mini is not all that difficult.
+<a href='https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals'> Source <a/>

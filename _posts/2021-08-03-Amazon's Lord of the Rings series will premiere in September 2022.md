@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4TSK2jtnHwT1ltOhvFrS5hW6US4=/0x0:7680x4320/1200x800/filters:focal(3226x1546:4454x2774)/cdn.vox-cdn.com/uploads/chorus_image/image/69668071/AmazonStudios_210802A.0.jpg' width='700px' /><br/>
+One of Amazon's most anticipated originals to date, a yet-unnamed Lord of the Rings original series, will officially debut on Prime Video on Friday, September 2nd, 2022.
+<a href='https://www.theverge.com/2021/8/2/22606267/lord-of-the-rings-amazon-series-release-date'> Source <a/>

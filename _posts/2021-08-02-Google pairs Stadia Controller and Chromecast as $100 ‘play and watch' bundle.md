@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9SwDGPQUXXB6FsACpPZL98a_vME=/0x0:1860x1188/1200x800/filters:focal(782x446:1078x742)/cdn.vox-cdn.com/uploads/chorus_image/image/69661338/Screen_Shot_2021_07_31_at_12.43.56_PM.0.png' width='700px' /><br/>
-Google has recently been selling a combo-package of the Stadia Controller and 2020 Chromecast as a limited-time promotion. But as spotted by 9to5Google, the company has now made the pair a permanent bundle that it's calling the “play and watch” package.
-<a href='https://www.theverge.com/2021/7/31/22603498/google-stadia-controller-chromecast-play-watch-bundle'> Source <a/>

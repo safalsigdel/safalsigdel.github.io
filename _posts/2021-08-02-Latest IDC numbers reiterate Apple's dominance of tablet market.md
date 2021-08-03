@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GhfSFw5osAd3eU7Wph_rwi1Wec4=/0x0:2040x1360/1200x800/filters:focal(942x492:1268x818)/cdn.vox-cdn.com/uploads/chorus_image/image/69661645/vpavic_4244_20201020_0013.0.jpg' width='700px' /><br/>
-Earlier this week during Apple's earnings call, CEO Tim Cook said that the iPad had experienced its most successful June quarter in nearly a decade. And now IDC is out with its latest worldwide shipment figures that underline Apple's commanding lead over the tablet competition. After refreshing the iPad Air in 2020 and launching an upgraded iPad Pro earlier this year, Apple is next expected to update the iPad Mini.
-<a href='https://www.theverge.com/2021/7/31/22603371/apple-ipad-tablet-shipments-samsung-amazon-q2-2021'> Source <a/>

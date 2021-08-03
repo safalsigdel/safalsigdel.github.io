@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/clxjmRxAPogJ8ZRGsN2NcISulT4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69668905/acastro_200512_1777_faceMask_0001.0.0.jpg' width='700px' /><br/>
+Facebook announced on Monday that all employees will be required to wear masks when offices reopen. The policy goes into effect on August 3rd and will remain in place until further notice. The company confirmed last week that it's requiring COVID-19 vaccination for all employees returning to work at its US campuses, which it plans to fully reopen by October.
+<a href='https://www.theverge.com/2021/8/2/22606444/facebook-mask-requirement-employees-covid-19-delta'> Source <a/>

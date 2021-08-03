@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OFtf0Jv0sXYVgQpffTELlTdGrjE=/0x0:1133x753/1200x800/filters:focal(477x287:657x467)/cdn.vox-cdn.com/uploads/chorus_image/image/69668309/000002339_02.0.png' width='700px' /><br/>
+Twitch is experimenting with a new type of ad format for streamers that appears to be much less disruptive than the pre- and mid-roll ads that take over an entire stream. The new ads, called Stream Display Ads, instead show up under or around somebody's stream but don't stop you from seeing or hearing what's going on.
+<a href='https://www.theverge.com/2021/8/2/22606297/twitch-stream-display-ads-disruptive-banner-screen'> Source <a/>

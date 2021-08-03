@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MjoBwznjMBRhjym7FFS7jLCk2QM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69668533/acastro_180504_1777_microsoft_0002.0.jpg' width='700px' /><br/>
+Today Microsoft opened availability for Windows 365, the cloud PC setup that lets businesses stream Windows 10 or Windows 11 via a web browser. As described earlier this spring, it's one way for businesses to support hybrid and remote work, with an instant-on PC experience that can work across different devices.
+<a href='https://www.theverge.com/2021/8/2/22605800/microsoft-windows-365-cloud-pc-streaming-html5'> Source <a/>
