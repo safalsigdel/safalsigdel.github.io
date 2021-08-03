@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hWyMjZdaiXloXg1Kyr_Gqk1hl4g=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69671197/MagDart_keynote_product_part_final_final.009___.0.jpeg' width='700px' /><br/>
+As The Verge reported last week, Realme is working on a magnetic wireless charging system for its Android phones, and today it's revealed a full range of products that'll use the new technology. Realme is calling the system MagDart, and it's basically a high-powered take on Apple's MagSafe system for the iPhone 12 range of phones.
+<a href='https://www.theverge.com/2021/8/3/22607214/realme-magdart-announced-magnetic-wireless-charger-devices'> Source <a/>
