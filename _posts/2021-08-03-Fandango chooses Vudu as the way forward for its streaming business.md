@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w2Fc0H6HHQqcOYhA1Iz8agXKZpI=/0x0:2527x1640/1200x800/filters:focal(1062x618:1466x1022)/cdn.vox-cdn.com/uploads/chorus_image/image/69672721/342818F3_F8B5_47DB_B149_A0CB69F22997.0.jpeg' width='700px' /><br/>
+Fandango has announced that it will phase out the branding of its “FandangoNOW” streaming service and focus on Vudu as its lone app for rentals and purchases of movies and TV shows. The change means that Vudu will now become the default portal for rentals and purchases on many Roku devices, where FandangoNOW has long been the digital store for movies and TV content.
+<a href='https://www.theverge.com/2021/8/3/22607391/vudu-fandango-now-combining-roku-movies-tv'> Source <a/>
