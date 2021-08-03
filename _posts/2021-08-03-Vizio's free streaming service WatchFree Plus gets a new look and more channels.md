@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wCbWNsAT9gkXQ0_26FJRgo-tuGU=/0x0:1038x642/1200x800/filters:focal(414x146:580x312)/cdn.vox-cdn.com/uploads/chorus_image/image/69669266/WF__1TV.0.png' width='700px' /><br/>
-Vizio has revamped its WatchFree streaming experience, given it a brand new look, and tacked a “plus” on the end of its service's title. (Because if a streaming service doesn't include the symbol, does it even really count?)
-<a href='https://www.theverge.com/2021/8/2/22606634/vizio-watchfree-plus-rebrand'> Source <a/>

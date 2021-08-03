@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9I19msO4OzqLtsY2xEc7KVDHGN8=/0x0:1000x625/1200x800/filters:focal(420x233:580x393)/cdn.vox-cdn.com/uploads/chorus_image/image/69672920/5_people.max_1000x1000.0.png' width='700px' /><br/>
+With Chrome OS's latest update, Google has announced that its Google Meet app will be preinstalled on all Chromebooks. The announcement is part of the company's larger push to adapt its operating system for remote meetings.
+<a href='https://www.theverge.com/2021/8/3/22607620/google-meet-app-chromebooks-chrome-os-now-preinstalled'> Source <a/>
