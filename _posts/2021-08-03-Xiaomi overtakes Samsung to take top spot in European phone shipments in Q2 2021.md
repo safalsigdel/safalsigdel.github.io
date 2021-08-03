@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cgTWQ6GzEHC9Yto5NOm8Mi02kCU=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/69670809/DSCF7531.0.jpg' width='700px' /><br/>
+Chinese smartphone maker Xiaomi is continuing to post solid growth. After overtaking Apple as the number two smartphone vendor in the world in the second quarter of 2021, it's now become the top seller in Europe for the first time, according to new figures from Strategy Analytics.
+<a href='https://www.theverge.com/2021/8/3/22607248/xiaomi-overtakes-samsung-europe-smartphone-sales-apple'> Source <a/>
