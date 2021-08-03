@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Psd6FJzYsWCOGYSm6rQj-WozuvU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69672581/E73ordpVUAESCcY.0.jpeg' width='700px' /><br/>
+Microsoft has just revealed its newest Xbox controller — the Aqua Shift Special Edition — and it has a striking, shimmery blue finish that makes it perhaps Microsoft's flashiest controller yet. But the shiny blue color isn't its only distinctive feature: the controller also has rubberized side grips that have “a unique dual color swirl on every unit,” according to Microsoft.
+<a href='https://www.theverge.com/2021/8/3/22607786/microsoft-xbox-wireless-controller-aqua-shift-special-edition-blue-rubber-side-grips'> Source <a/>
