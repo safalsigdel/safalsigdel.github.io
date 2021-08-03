@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UL21mFdVHQxKMka3FFIKLQmg7RI=/0x0:4000x2696/1200x800/filters:focal(1680x1028:2320x1668)/cdn.vox-cdn.com/uploads/chorus_image/image/69673571/1234425306.0.jpg' width='700px' /><br/>
+On Tuesday, chair of the US Securities and Exchange Commission Gary Gensler called on Congress to expand the agency's authority in regulating cryptocurrency trading, lending, and platforms.
+<a href='https://www.theverge.com/2021/8/3/22608096/cryptocurrency-bitcoin-sec-gary-gensler-regulation'> Source <a/>
