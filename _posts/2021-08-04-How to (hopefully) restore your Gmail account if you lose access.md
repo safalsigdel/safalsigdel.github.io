@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HFCAX2PhjBIxlxmxfLs_seNqG4w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69676766/acastro_180424_1777_gmail_0001.0.0.jpg' width='700px' /><br/>
+Losing access to your Google / Gmail account can be an incredibly frustrating and unhappy experience. When researching this article, I came across several accounts of people who had been locked out of their accounts after forgetting their passwords — and a few who had still not been able to get back in, even after several weeks.
+<a href='https://www.theverge.com/22601959/gmail-google-password-restore-blocked-account'> Source <a/>

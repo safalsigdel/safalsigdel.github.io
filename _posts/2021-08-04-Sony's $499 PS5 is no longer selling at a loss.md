@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U0KHhh0_-WfZmPiVn6DdB2PLta8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69676747/vpavic_4278_20201030_0292.0.jpg' width='700px' /><br/>
+Sony's $499 PlayStation 5 console is no longer selling at a loss. Bloomberg reports that Sony chief financial officer Hiroki Totoki shared the news just a week after the company announced it had sold 10 million PS5 consoles.
+<a href='https://www.theverge.com/2021/8/4/22609150/sony-playstation-5-ps5-loss-profit'> Source <a/>
