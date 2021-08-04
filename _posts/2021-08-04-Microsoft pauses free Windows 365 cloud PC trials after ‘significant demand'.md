@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UImEgN3GGRDbJXNAo_UU_2Zs0iE=/0x0:4800x3600/1200x800/filters:focal(2016x1416:2784x2184)/cdn.vox-cdn.com/uploads/chorus_image/image/69676387/windows365ui.0.jpg' width='700px' /><br/>
+Microsoft launched its new cloud PC Windows 365 service earlier this week, and the company has already had to pause free trials due to demand. Windows 365 lets you rent a cloud PC — with a variety of CPU, RAM, and storage options — and then stream Windows 10 or Windows 11 via a web browser. The service reached max capacity after only a day of signups.
+<a href='https://www.theverge.com/2021/8/4/22609090/microsoft-365-free-trials-cloud-pcs-demand-trials'> Source <a/>
