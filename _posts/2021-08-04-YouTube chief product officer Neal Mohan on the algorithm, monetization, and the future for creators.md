@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LiWhVOOtYgovLTsOBegbj1L6G-U=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69672259/VRG_ILLO_Decoder_Neal_s.0.jpg' width='700px' /><br/>
-YouTube chief product officer Neal Mohan joined Decoder this week to discuss YouTube's new $100 million fund to begin paying creators who use YouTube Shorts, which is its competitor to TikTok. Mohan is bullish on Shorts, which he connects to YouTube's earliest days as a way to quickly share personal videos.
-<a href='https://www.theverge.com/22606296/youtube-shorts-fund-neal-mohan-decoder-interview'> Source <a/>
