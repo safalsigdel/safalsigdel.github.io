@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0P2pQeskXKSHCqxOSH4klAd3jWc=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/69672141/1234212446.0.jpg' width='700px' /><br/>
-Microsoft has informed employees that it will require proof of vaccination for anyone entering a Microsoft building in the US starting in September. Employees who have a medical condition or a protected reason, such as religion, that prevents them from getting a vaccine can get a special accommodation. The company has also pushed its full office reopening date from September to “no earlier than October 4th, 2021.”
-<a href='https://www.theverge.com/2021/8/3/22607690/microsoft-proof-vaccination-covid-19-us-buildings-office-reopening'> Source <a/>

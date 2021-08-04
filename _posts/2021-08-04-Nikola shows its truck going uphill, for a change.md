@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Just five days after Nikola founder Trevor Milton was indicted, in part, for allegedly misleading investors with footage of a moving truck that was secretly rolling downhill, the hydrogen-trucking startup released footage of a newer prototype driving uphill.
+<a href='https://www.theverge.com/tldr/2021/8/3/22607724/nikola-earnings-hydrogen-truck-trevor-milton'> Source <a/>

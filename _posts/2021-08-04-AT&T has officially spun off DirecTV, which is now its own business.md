@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MI_5L4HOsKm783jrGKMQ76WJcxc=/0x0:6390x4260/1200x800/filters:focal(2684x1619:3706x2641)/cdn.vox-cdn.com/uploads/chorus_image/image/69675099/1174204846.0.jpg' width='700px' /><br/>
+AT&T announced earlier this year that it would spin its video properties DirecTV, AT&T TV, and U-verse into a new company it would co-manage with private equity firm TPG Capital. That transaction is finally complete, and the services will now operate as a single company under the name DirecTV.
+<a href='https://www.theverge.com/2021/8/3/22608577/att-directv-tpg-deal-u-verse-att-tv-new-company'> Source <a/>

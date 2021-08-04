@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/npoExY40LWB0gogXelGBGWoxvAY=/0x0:2900x2094/1200x800/filters:focal(1218x815:1682x1279)/cdn.vox-cdn.com/uploads/chorus_image/image/69675187/Screen_Shot_2021_08_03_at_4.50.24_PM.0.png' width='700px' /><br/>
+The Apple Store was mysteriously down on Tuesday for just about an hour, but it has emerged from the downtime with a brand new look and a dedicated tab on Apple's top-level navigation.
+<a href='https://www.theverge.com/2021/8/3/22608636/apple-online-store-redesign-2021-launch-cards'> Source <a/>

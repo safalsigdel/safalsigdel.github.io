@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EZ5D-iH-4DJCdMA1ZXTKEUoOcJw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69672079/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
-Having already brought it to pretty much every other streaming device and platform, today WarnerMedia announced that HBO Max is now available on LG smart TVs in the United States. The US rollout follows Latin America and the Carribean, where HBO Max came to LG sets in June.
-<a href='https://www.theverge.com/2021/8/3/22607655/hbo-max-lg-webos-smart-tv-now-available-united-states'> Source <a/>

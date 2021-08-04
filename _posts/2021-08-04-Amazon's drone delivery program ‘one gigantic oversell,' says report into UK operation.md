@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SLyyCUfpyOWfYoGJ38yp-7qk9uE=/0x0:2112x1404/1200x800/filters:focal(888x534:1224x870)/cdn.vox-cdn.com/uploads/chorus_image/image/69670930/Screen_Shot_2021_08_03_at_11.54.11_AM.0.png' width='700px' /><br/>
-A new report from Wired into Amazon's drone delivery program in the UK says the operation has lost over 100 employees, with insiders saying the project is “collapsing inwards.”
-<a href='https://www.theverge.com/2021/8/3/22607267/amazon-drone-delivery-program-uk-operations-failure-oversell'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3gOEgvAod8GTPxu1LZFjaUBEGxM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69675237/E75lsESXoAcTOFj.0.jpeg' width='700px' /><br/>
+Epic Games is adding two more Street Fighter icons to Fortnite. Playable Chun-Li and Ryu skins were added to the game in February, but soon, Guile and Cammy skins will make their debut in the game's item shop. You'll be able to buy them starting August 7th at 8PM ET.
+<a href='https://www.theverge.com/2021/8/3/22608624/fortnite-street-fighter-guile-cammy-are-coming-to-fortnite'> Source <a/>

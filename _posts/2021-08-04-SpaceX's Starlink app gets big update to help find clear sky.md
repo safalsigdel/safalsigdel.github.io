@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ORdQCgT-LddwEtCtj8_U8ac8-sQ=/0x0:5760x3840/1200x800/filters:focal(2032x1157:2952x2077)/cdn.vox-cdn.com/uploads/chorus_image/image/69675006/_MG_5016.0.jpeg' width='700px' /><br/>
+SpaceX's Starlink mobile app got a refreshing upgrade this week that makes it easier to find clear patches of sky and monitor connection outages — and adds a new dark mode for its user interface. The app improvements came out yesterday as SpaceX reported 90,000 active users in its open “better than nothing” beta phase, which spans rural regions across 12 different countries so far.
+<a href='https://www.theverge.com/2021/8/3/22608270/spacex-starlink-app-upgrade-beta-active-users'> Source <a/>
