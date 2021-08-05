@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PbaFvxo1UNVonANOdThccILgQVo=/0x0:2176x1224/1200x800/filters:focal(914x438:1262x786)/cdn.vox-cdn.com/uploads/chorus_image/image/69677810/51355499484_95d501812b_o_scaled.0.jpeg' width='700px' /><br/>
+Ghost of Tsushima's multiplayer mode, Legends, is getting some new free content and a standalone release, Sony and developer Sucker Punch announced Wednesday. The standalone release will be available on September 3rd for $19.99 / xe2x82xac19.99 / xc2xa315.99 on both PS4 and PS5.
+<a href='https://www.theverge.com/2021/8/4/22609495/ghost-of-tsushima-legends-multiplayer-mode-standalone-release-new-content-ps4-ps5'> Source <a/>

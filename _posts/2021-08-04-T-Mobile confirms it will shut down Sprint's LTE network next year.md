@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SI_sNQ0kYgHSDAc4gsUt1mGAwo8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69675117/acasatro_180430_1777_sprint_Tmobile_0002.0.jpg' width='700px' /><br/>
-As reported by Light Reading and confirmed to The Verge, T-Mobile has committed to a June 30, 2022 shutdown date for Sprint's LTE network. It's an expected move as T-Mobile continues to absorb Sprint's network and customers into its own base, and comes six months after its contentious planned January 1, 2022 shutdown of Sprint's 3G CDMA network.
-<a href='https://www.theverge.com/2021/8/3/22608265/t-mobile-sprint-lte-network-shutdown-2022'> Source <a/>

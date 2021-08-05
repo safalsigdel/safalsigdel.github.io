@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FiCEjVhCZus7usdIZ71NxUnBJhs=/0x0:2000x1325/1200x800/filters:focal(840x503:1160x823)/cdn.vox-cdn.com/uploads/chorus_image/image/69674662/ps5ssd2_2.0.jpg' width='700px' /><br/>
-Sony released its first PS5 software beta last Thursday, and with it came the much-anticipated support for adding an M.2 SSD, letting you install more PS5 games than the fairly restrictive 825GB built-in SSD allows. Alongside the beta, Sony provided a list of requirements, making it clear that you wouldn't necessarily be able to just grab any SSD and chuck it in your PS5.
-<a href='https://www.theverge.com/22602046/best-ps5-playstation-5-m2-ssd-compatible-drives'> Source <a/>

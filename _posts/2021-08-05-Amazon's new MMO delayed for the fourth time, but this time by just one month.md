@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6lDhF-jxk4qt6_1ZcjFLFR4yqYU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69679136/ss23.0.jpeg' width='700px' /><br/>
+Amazon Games has delayed New World, its upcoming MMO, from August 31st to September 28th, the studio announced on Wednesday. The delay — the game's fourth —  comes shortly after the end of a closed beta, which wrapped up on August 3rd at 2:59AM ET.
+<a href='https://www.theverge.com/2021/8/4/22609898/new-world-mmo-amazon-delayed-release-launch-date'> Source <a/>

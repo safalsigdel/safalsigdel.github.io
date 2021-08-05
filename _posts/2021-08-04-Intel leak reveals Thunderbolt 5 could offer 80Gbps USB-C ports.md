@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CGi3r_R_Toy0oanyy2LM7pFQ8SI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69674235/akrales_190522_3440_0067.0.jpg' width='700px' /><br/>
-Thunderbolt 4 is still relatively early on, but that isn't stopping Intel from working on its next version of the connectivity standard, Thunderbolt 5. And thanks to a hastily deleted tweet from Intel executive Gregory Bryant that was caught by Anandtech, we've already gotten a sneak preview at the next-generation Thunderbolt standard, which could offer twice the speed of Thunderbolt 4 while maintaining physical USB-C plugs.
-<a href='https://www.theverge.com/2021/8/3/22608293/intel-thunderbolt-5-80gbps-usb-c-ports-leak'> Source <a/>

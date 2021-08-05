@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/75a3S9wnGOcqCyl5poDNzQpYFZs=/0x0:4288x2633/1200x800/filters:focal(1801x974:2487x1660)/cdn.vox-cdn.com/uploads/chorus_image/image/69679666/834509654.0.jpg' width='700px' /><br/>
+People will no longer be able to play the digital version of The New York Times daily crossword puzzle in third-party apps, according to an announcement made by the Times on Monday. Starting August 10th, the crossword will be available digitally only via the NYT site or on its own crossword app. Downloadable PDFs, in addition to the physical newspaper, will still be available for people who want to print and play.
+<a href='https://www.theverge.com/2021/8/4/22609944/nyt-crossword-puzzle-puz-file-format'> Source <a/>

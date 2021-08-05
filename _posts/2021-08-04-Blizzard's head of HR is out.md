@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/799oqHR8TtLtb3JqKhhSzuS1ctg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69674255/acastro_210729_1777_blizzard_0004.0.jpg' width='700px' /><br/>
-Blizzard president J. Allen Brack isn't the only executive leaving the company today after presiding over a culture now accused of fostering “constant sexual harassment.” Jesse Meschuk, the company's head of global human resources, has also now departed, an Activision Blizzard spokesperson confirmed to Bloomberg and to The Verge.
-<a href='https://www.theverge.com/2021/8/3/22608320/blizard-jesse-meschuk-leave-company-hr-svp'> Source <a/>

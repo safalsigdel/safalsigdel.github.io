@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1YoywTkfHRbjoeq7DzVZue6TLB8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69676504/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
-Facebook has banned the personal accounts of academics who researched ad transparency and the spread of misinformation on the social network. Facebook says the group violated its term of service by scraping user data without permission. But the academics say they are being silenced for exposing problems on Facebook's platform.
-<a href='https://www.theverge.com/2021/8/4/22609020/facebook-bans-academic-researchers-ad-transparency-misinformation-nyu-ad-observatory-plug-in'> Source <a/>

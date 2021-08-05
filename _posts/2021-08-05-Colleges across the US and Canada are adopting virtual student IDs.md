@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CpSg1tr485DOhLw84F_HSJ1OXg0=/0x0:4463x3126/1200x800/filters:focal(1875x1206:2589x1920)/cdn.vox-cdn.com/uploads/chorus_image/image/69678529/695753658.0.jpg' width='700px' /><br/>
+Apple Wallet has supported contactless student IDs since 2018, with three US universities supporting the feature at launch. The program has been gradually expanding ever since. Yesterday, the company announced that its virtual IDs will finally arrive in Canada this fall. An unspecified number of additional US universities will adopt it for the first time as well.
+<a href='https://www.theverge.com/2021/8/4/22609571/apple-wallet-student-ids-university-expansion'> Source <a/>

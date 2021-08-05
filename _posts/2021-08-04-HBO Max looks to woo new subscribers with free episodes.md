@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S-InCF8iXOZRN5FRab89CtTi3GY=/0x0:1958x1129/1200x800/filters:focal(823x409:1135x721)/cdn.vox-cdn.com/uploads/chorus_image/image/69674675/unnamed__3_.0.png' width='700px' /><br/>
-HBO Max is offering free episodes to potential new subscribers in-app and free of charge so they can take its more popular series for a test drive before committing to yet another streaming service.
-<a href='https://www.theverge.com/2021/8/3/22608403/hbo-max-new-subscribers-free-episodes'> Source <a/>

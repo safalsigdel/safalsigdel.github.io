@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wfngKPnAJlNYa1KpUW4lLrs1AX0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69678428/akrales_200904_4160_0135.0.0.jpg' width='700px' /><br/>
+Some Facebook users stymied by the company's seemingly impenetrable support channels have turned to an interesting — and expensive — loophole to get access to their locked accounts: buying an Oculus Quest headset, as reported by NPR. But it doesn't appear to be a reliable way to get access, as many reports online indicate that the solution didn't work out for them.
+<a href='https://www.theverge.com/2021/8/4/22609603/facebook-account-hacked-access-oculus-quest'> Source <a/>

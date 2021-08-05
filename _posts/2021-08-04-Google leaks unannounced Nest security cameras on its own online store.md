@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oaBWIJKvjyMfICBv0R9Pt7t2ucg=/0x0:1346x950/1200x800/filters:focal(566x368:780x582)/cdn.vox-cdn.com/uploads/chorus_image/image/69674965/Screen_Shot_2021_08_03_at_3.27.12_PM.0.png' width='700px' /><br/>
-Google has apparently leaked some unannounced Nest security cameras right on its own online store (thanks for the tip, Eric!). Google confirmed in January that it would be releasing a new lineup of security cameras this year, and it seems like the company's store may have just revealed what's on the way.
-<a href='https://www.theverge.com/2021/8/3/22608507/google-leaks-unannounced-nest-camera-doorbell-online-store'> Source <a/>

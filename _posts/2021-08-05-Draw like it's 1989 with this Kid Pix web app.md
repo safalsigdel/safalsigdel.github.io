@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Kid Pix, an iconic piece of kid-friendly desktop art software, has been ported to Javascript and HTML by Vikrum Nijjar. The web version of Kid Pix is based one the original 1.0 version released for Macs in 1989 by Craig Hickman.
+<a href='https://www.theverge.com/tldr/2021/8/4/22610448/kid-pix-html-port-web-art-drawing-memories'> Source <a/>
