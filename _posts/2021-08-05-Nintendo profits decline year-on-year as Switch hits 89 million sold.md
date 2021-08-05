@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y2gpnuMphoSk3I0MWOo7BgCFJiw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69681639/acastro_190530_1777_nintendo_0002.0.0.jpg' width='700px' /><br/>
+Nintendo has released its earnings for the April-June quarter, and while the figures would normally be strong for what's usually a slow period, revenue and profit are both down compared to a year ago. That's perhaps not surprising given the company was then riding a surge in demand for video games during the first wave of the COVID-19 pandemic, and had just released the mega-hit Animal Crossing: New Horizons.
+<a href='https://www.theverge.com/2021/8/5/22610853/nintendo-earnings-q1-2021-switch-sales'> Source <a/>
