@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EyRcnr6nVYJth5RAw30lVFf45oY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69681839/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook is being criticized by politicians and researchers for banning the accounts of academics who analyzed political ads and misinformation on the social network.
+<a href='https://www.theverge.com/2021/8/5/22610898/facebook-bans-ad-privacy-misinformation-researchers-critics-warner-mozilla-klobuchar'> Source <a/>
