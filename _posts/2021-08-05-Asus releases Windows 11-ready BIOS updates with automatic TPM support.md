@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ROdCjEIXSVh1m1HAVrV-9URPvKQ=/0x0:1682x1122/1200x800/filters:focal(707x427:975x695)/cdn.vox-cdn.com/uploads/chorus_image/image/69681710/asuswindows11biosupdates.0.jpg' width='700px' /><br/>
+Asus is making a range of its motherboards ready for Windows 11. The motherboard manufacturer has released BIOS updates for a variety of chipsets, including ones that support Intel Kaby Lake processors from 2017. Both Intel and AMD chipsets are supported, and these new BIOS updates will even automatically enable TPM (Trusted Platform Module) on AMD and Intel systems.
+<a href='https://www.theverge.com/2021/8/5/22610869/asus-windows-11-bios-updates-download-tpm-support'> Source <a/>
