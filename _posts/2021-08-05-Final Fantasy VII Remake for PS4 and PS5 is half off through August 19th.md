@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
-If you haven't yet played the Final Fantasy VII Remake, now is a good time to jump in since you can get the game for up to half off its usual cost. Square Enix has slashed the price of the digital copy of the base game for PS4 (upgradeable to the PS5 version for free, with your game saves intact) down to $30. This matches the best deal we've seen yet for the digital version.
-<a href='https://www.theverge.com/good-deals/2021/8/4/22609420/final-fantasy-vii-remake-ps4-ps5-deal-date'> Source <a/>
