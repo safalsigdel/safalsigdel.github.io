@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ep0axCGvpCISvwNUrG8Fz9996cA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69677849/CFA_169.0.png' width='700px' /><br/>
-Employees at Code for America (CFA) announced today they are unionizing with the Office and Professional Employees International Union (OPEIU) Local 1010. Organizers say 62 people have signed authorization cards, meaning 77 percent of eligible employees have indicated their support for the effort.
-<a href='https://www.theverge.com/2021/8/4/22607889/code-for-america-employees-unionizing'> Source <a/>

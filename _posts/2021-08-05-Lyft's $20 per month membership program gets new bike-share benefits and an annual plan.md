@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zXvW_xuHvIKdufI9KCBRyHE51ss=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69682303/acastro_180927_1777_lyft_0003.0.jpg' width='700px' /><br/>
+Lyft is boosting its $19.99-per-month Lyft Pink membership program with new bike-share benefits and an annual option that's cheaper than paying for the service month to month, the company announced Thursday.
+<a href='https://www.theverge.com/2021/8/5/22610410/lyft-pink-annual-option-plan-bikeshare-benefits'> Source <a/>
