@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/szaN834orG9vQ4sozm7bQ14I5Qk=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69687905/awhite_200223_3916_0446.0.jpg' width='700px' /><br/>
+Some of us get excited about shopping for a new phone (New technology! Megapixels! Fancy screen!), but none of us enjoy shopping for a new phone plan. Spending any amount of time at a wireless retail store is not high on our list of things to do with our precious time on this planet. And yet we must. While we can't promise to make it an enjoyable experience, we can help you do a little homework ahead of time to make it less painful.
+<a href='https://www.theverge.com/22606623/best-cell-phone-plans-verizon-att-t-mobile'> Source <a/>
