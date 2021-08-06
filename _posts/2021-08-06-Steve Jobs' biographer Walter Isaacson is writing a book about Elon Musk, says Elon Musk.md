@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MLrwLOsQ7dD19GHl1hxM-yUjyfk=/0x0:2312x1300/1200x800/filters:focal(972x466:1340x834)/cdn.vox-cdn.com/uploads/chorus_image/image/69681692/elon_wario.0.png' width='700px' /><br/>
-Like most of the super-rich, Elon Musk has one eye on his legacy, keen to shape how his huge fortune is perceived now and in the future. This perhaps explains why he recently shared the fact that Walter Isaacson, biographer of Steve Jobs, is writing a book about him.
-<a href='https://www.theverge.com/2021/8/5/22610862/elon-musk-biography-walter-isaacson-steve-jobs'> Source <a/>

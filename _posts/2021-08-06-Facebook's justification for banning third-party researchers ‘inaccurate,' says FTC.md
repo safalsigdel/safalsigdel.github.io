@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6ymuqC2HtyTd_p8AuSK55kKCSJQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69687344/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+When Facebook banned the personal accounts of academics researching ad transparency and misinformation on its platform this week, it justified the decision in part by saying it was only following rules set out by the Federal Trade Commission. But the FTC itself says this is “inaccurate” and that its rules require no such action, reports The Washington Post.
+<a href='https://www.theverge.com/2021/8/6/22612545/facebook-banned-third-party-researchers-inaccurate-says-ftc'> Source <a/>
