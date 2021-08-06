@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oEStNP5AQVb0WNYWKFZfpqdQpuM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69679708/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-On Wednesday, a surreal TikTok ad from an advertiser posing as Amazon confused users into thinking the e-commerce giant was taking a stab at including absurdist internet humor into its online marketing strategy.
-<a href='https://www.theverge.com/2021/8/4/22610175/amazon-tiktok-fake-ad-flo-rida-low-roblox-apple-bottom-jeans'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Pw-FdL_6ukpb125xht1EaxtjjXU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69684460/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
+Update August 5th, 4:07PM ET: Walmart is sold out of PS5 consoles for the moment. We'll make sure to let you know when the next opportunity comes.
+<a href='https://www.theverge.com/2021/8/5/22611564/sony-ps5-digital-disc-playstation-5-console-walmart-restock-buy'> Source <a/>

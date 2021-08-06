@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Dx9V3cca5tOiTbWwU7eq_JkRKyA=/0x0:491x313/1200x800/filters:focal(207x118:285x196)/cdn.vox-cdn.com/uploads/chorus_image/image/69684083/OneNotePM_2_1628115749181.0.png' width='700px' /><br/>
+Microsoft is planning to unify its OneNote and OneNote for Windows 10 apps into a single OneNote app. The software maker is taking all the improvements in its UWP OneNote for Windows 10 app and bringing them over to the traditional OneNote desktop app instead.
+<a href='https://www.theverge.com/2021/8/5/22611531/microsoft-new-onenote-app-visual-refresh-single-app'> Source <a/>

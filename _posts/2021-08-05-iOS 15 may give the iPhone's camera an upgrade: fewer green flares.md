@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4SOxVICOzI5L1uSUwOYK8E37_UU=/0x0:2388x1791/1200x800/filters:focal(965x875:1347x1257)/cdn.vox-cdn.com/uploads/chorus_image/image/69680501/IMG_2220.0.jpg' width='700px' /><br/>
-The latest version of Apple's iOS 15 beta seems to be making subtle improvements to photos by processing out the green lens flares that can show up in outdoor pictures (via 9to5Mac). News of the feature was posted to the iOSBeta subreddit by Reddit user Doubleluckstur, and The Verge was able to see it in action by testing with an iPhone 12 Mini running the public beta.
-<a href='https://www.theverge.com/2021/8/4/22610190/ios-15-beta-4-green-lens-flare-photos-processing-computation'> Source <a/>

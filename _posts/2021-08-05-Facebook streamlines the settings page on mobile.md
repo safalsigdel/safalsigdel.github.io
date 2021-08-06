@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rAC7r-AzP8k19qfV-6CMUW_xOLk=/0x0:1408x925/1200x800/filters:focal(592x351:816x575)/cdn.vox-cdn.com/uploads/chorus_image/image/69680467/Screen_Shot_2021_08_04_at_3.36.00_PM.0.jpg' width='700px' /><br/>
-Facebook is streamlining the settings page on mobile in a new redesign that's rolling out starting Wednesday. Visually, the new layout looks much less cluttered, and individual settings don't have descriptions, meaning you'll see more on the page at a time.
-<a href='https://www.theverge.com/2021/8/4/22610310/facebook-mobile-settings-page-redesign-layout-ios-android-web-lite'> Source <a/>

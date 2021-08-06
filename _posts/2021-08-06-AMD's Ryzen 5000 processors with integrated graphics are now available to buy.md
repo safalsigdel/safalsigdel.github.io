@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uDvPmGrbCSdDzER8VwNqxXfpWAI=/0x0:5120x2879/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/69683351/586681_vermeer_03_0014_5K.0.png' width='700px' /><br/>
+In April, AMD announced versions of its Ryzen 5000 desktop CPUs with integrated graphics cards, but it only made them available for prebuilt OEM systems, promising that it would sell the chips to consumers later this year. Well, “later this year” is today, with AMD now offering its Ryzen 5000 G-Series APUs to anyone to buy, not just multimillion-dollar PC manufacturers.
+<a href='https://www.theverge.com/2021/8/5/22611066/amd-ryzen-5000-g-series-processor-graphics-gpu-cpu'> Source <a/>

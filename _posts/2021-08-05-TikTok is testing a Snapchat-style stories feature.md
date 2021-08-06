@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/scayR0kQj0nMD_dQ_e1V1W8MSVo=/0x0:1230x908/1200x800/filters:focal(517x356:713x552)/cdn.vox-cdn.com/uploads/chorus_image/image/69679299/Screen_Shot_2021_08_04_at_3.30.01_PM.0.png' width='700px' /><br/>
-On a long enough timeline, every social media app trends to adding stories, and now it's apparently TikTok's turn: the popular video app is experimenting with a new stories feature. The feature was highlighted by Matt Navarra on Twitter, and a TikTok spokesperson confirmed the test in an email to The Verge.
-<a href='https://www.theverge.com/2021/8/4/22610011/tiktok-stories-snapchat-feature-social-media'> Source <a/>

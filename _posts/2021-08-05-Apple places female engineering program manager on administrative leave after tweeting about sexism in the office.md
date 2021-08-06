@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uDazEn97xP4rXA0a5LSty_MmI9M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69679864/acastro_170731_1777_0003_v6.0.jpg' width='700px' /><br/>
-Apple has placed senior engineering program manager Ashley Gjxc3xb8vik on indefinite administrative leave after she tweeted about sexism in the office. The company is currently investigating claims Gjxc3xb8vik made about a hostile work environment.
-<a href='https://www.theverge.com/2021/8/4/22610112/apple-female-engineering-manager-leave-sexism-work-environment'> Source <a/>

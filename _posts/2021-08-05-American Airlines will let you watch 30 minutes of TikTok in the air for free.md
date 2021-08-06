@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4w6pfe3D9mbPuX8TE8dB8-c9PUY=/0x0:3000x1981/1200x800/filters:focal(1260x751:1740x1231)/cdn.vox-cdn.com/uploads/chorus_image/image/69680847/1323904371.0.jpg' width='700px' /><br/>
-Free TikTok has arrived on some of American Airlines' flights, according to a press release put out by the company (via CNET). Passengers will be able to use the app for up to 30 minutes for free, which gives them time to watch at least ten of the new, longer TikToks. If you don't have the app already installed, the airline says you'll be able to download it for free while in the air.
-<a href='https://www.theverge.com/2021/8/4/22610408/american-airlines-free-30-minute-tiktok-in-flight'> Source <a/>
