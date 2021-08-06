@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ePzI87qe4o9HqT2J2mnfjYuNHOc=/0x0:1600x900/1200x800/filters:focal(803x326:1059x582)/cdn.vox-cdn.com/uploads/chorus_image/image/69687610/Email_Banner___static.0.jpg' width='700px' /><br/>
+It's well-known that filling in a form with your email address — say, to get a discount on a product, receive a newsletter, or get the results of a quiz — means you are going to get email from that vendor, and possibly from a bunch of other vendors and / or advertisers, forever.
+<a href='https://www.theverge.com/22609841/duckduckgo-email-spam-prevent-trackers-how-to'> Source <a/>
