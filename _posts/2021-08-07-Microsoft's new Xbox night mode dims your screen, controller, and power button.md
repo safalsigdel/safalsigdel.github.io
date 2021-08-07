@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0Z09HN0ifypwUWORBrTlEo20MH8=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22767178/Xbox_Series_S___Xbox_Series_S_2021_08_06_22_27_18.png' width='700px' /><br/>
+Microsoft is working on a new night mode for Xbox consoles. The software giant has started testing this night mode with Xbox Insiders in the Alpha Skip-Ahead ring today, and it allows Xbox owners to dim their screens, controller LED brightness, and even the Xbox power button.
+<a href='https://www.theverge.com/2021/8/6/22613617/microsoft-xbox-night-mode-feature-dim-screen-controller-led'> Source <a/>

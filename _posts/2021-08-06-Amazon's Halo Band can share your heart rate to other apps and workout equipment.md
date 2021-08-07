@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c4AsJlfHwZS1JGYrAA3Ai2GZVFA=/0x0:2500x1483/1200x800/filters:focal(1050x542:1450x942)/cdn.vox-cdn.com/uploads/chorus_image/image/69684746/Halo_Band_Hero_Colors.0.jpg' width='700px' /><br/>
-Amazon is updating its Halo fitness band today with the ability to share live heart rate information with third-party devices and fitness apps over BLE (Bluetooth Low Energy). The company is currently partnered with NordicTrack for its iFit service, along with Openfit and CLMBR.
-<a href='https://www.theverge.com/2021/8/5/22611518/amazon-halo-band-heart-rate-third-party-apps'> Source <a/>

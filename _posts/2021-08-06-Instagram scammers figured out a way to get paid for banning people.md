@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2wwE-xWX-wSTbt0z42pB6ABgxVI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69684780/acastro_190919_1777_instagram_0003.0.0.jpg' width='700px' /><br/>
-Instagram scammers have developed a lucrative “banning” racket, according to a new report from Motherboard. For around $60, some scammers will get banned whatever Instagram account you choose, friend or foe, and often the scammers make even more money on the backend by helping the targeted users regain access to their accounts.
-<a href='https://www.theverge.com/2021/8/5/22611309/instagram-banned-accounts-business-impersonation'> Source <a/>

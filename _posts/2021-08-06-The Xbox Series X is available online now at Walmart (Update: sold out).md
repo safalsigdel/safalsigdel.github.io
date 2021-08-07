@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V58YZndEIUx_V6mG16asI9JNTjs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69684583/acastro_210511_1777_xboxRestock_0001.0.jpg' width='700px' /><br/>
-Update August 5th, 4:07 PM ET: The Xbox Series X is no longer in stock at Walmart and the rolling restocks appear to have concluded.
-<a href='https://www.theverge.com/2021/8/5/22611625/microsoft-xbox-series-x-console-restock-walmart-buy'> Source <a/>

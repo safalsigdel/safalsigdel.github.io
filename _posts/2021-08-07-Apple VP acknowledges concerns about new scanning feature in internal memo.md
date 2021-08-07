@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oHEps7sqb4XM-rWN_UEHKoqtkzM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69688996/acstro_190902_apple_event_0004.0.0.jpg' width='700px' /><br/>
+Apple's forthcoming feature that will scan iOS devices for images of child abuse is an “important mission,” a software vice president at the company wrote in an internal memo. First reported by 9to5 Mac, the memo by Sebastian Marineau-Mes acknowledges that the new protections have some people “worried about the implications” but that the company will “maintain Apple's deep commitment to user privacy.”
+<a href='https://www.theverge.com/2021/8/6/22612934/apple-vp-memo-concerns-privacy-new-scanning-photos-images-ios'> Source <a/>

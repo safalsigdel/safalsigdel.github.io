@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MWgrLIIEdf8RJ4DciH42UnQm5mc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69683574/acastro_210805_4695_0001.0.jpg' width='700px' /><br/>
-Ingrid Tischer needs a machine to sleep. For nearly 30 years, she's been using BiPAP devices, which push pressurized air into her lungs so she gets enough oxygen through the night. In June, a friend texted to tell her that Philips Respironics, one of the world's biggest producers of respiratory devices, had recalled many of its ventilators, CPAPs, and BiPAPs. Her machine was on the list.
-<a href='https://www.theverge.com/2021/8/5/22609651/philips-recall-respironics-ventilators-cpap-bipap'> Source <a/>

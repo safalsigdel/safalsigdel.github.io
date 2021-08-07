@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/19eFHSRVnp2EtXNohKY4sh_3oa4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69683697/vpavic_4243_20201018_0121.0.0.jpg' width='700px' /><br/>
-Update August 5th, 3:21PM ET: Apple has announced more about what the Financial Times reported and revealed new tools coming to iMessage that warn children about sexually explicit photos. The new features will be coming later this year as updates to iOS 15, iPadOS 15, watchOS 8, and macOS Monterey. You can read more about them on Apple's website. Our original article follows.
-<a href='https://www.theverge.com/2021/8/5/22611305/apple-scan-photos-iphones-icloud-child-abuse-imagery-neuralmatch'> Source <a/>

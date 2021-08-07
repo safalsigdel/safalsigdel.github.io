@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6Hi2aYcKU76qEK7Ay4mX9vPLi_A=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69684518/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
-Amazon's corporate workers won't be returning to its offices until January 2022, the company has confirmed to The Verge. This marks a delay of around four months, as the company's previous plan called for employees to return on a hybrid basis starting on September 7th, 2021.
-<a href='https://www.theverge.com/2021/8/5/22611439/amazon-office-employees-postpone-back-to-work-january-2022'> Source <a/>
