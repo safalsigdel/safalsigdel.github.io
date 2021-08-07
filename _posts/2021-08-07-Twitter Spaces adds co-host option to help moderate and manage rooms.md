@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lHNfOWtqDrUPt5cBJTAUxLloT-Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69685281/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter is updating Spaces to allow hosts to designate up to two co-hosts for its social audio rooms, making it easier for hosts of the audio space to help manage and moderate conversations.
-<a href='https://www.theverge.com/2021/8/5/22611609/twitter-spaces-co-host-feature-moderate-manage-social-audio-rooms'> Source <a/>
