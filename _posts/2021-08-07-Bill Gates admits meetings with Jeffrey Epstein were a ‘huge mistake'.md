@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LAm521TVYPaR-whuRVAI5_Vor5E=/0x0:2880x1596/1200x800/filters:focal(1734x415:2194x875)/cdn.vox-cdn.com/uploads/chorus_image/image/69685442/Screen_Shot_2021_08_05_at_1.08.17_PM.0.png' width='700px' /><br/>
-Bill Gates said that spending time with convicted sex offender Jeffrey Epstein was “a huge mistake” in an interview with CNN's Anderson Cooper. The interview covered Gates' relationship with Epstein, which he says was an attempt to get “billions for philanthropy,” as well as Gates' alleged workplace misbehavior at Microsoft and the Bill and Melinda Gates Foundation.
-<a href='https://www.theverge.com/2021/8/5/22611748/bill-gates-epstein-meetings-mistake-foundation-workplace-harassment'> Source <a/>
