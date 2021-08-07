@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rDF2L-JtVwniWjr4aUZQjNm-7Bg=/0x0:947x889/1200x800/filters:focal(378x397:528x547)/cdn.vox-cdn.com/uploads/chorus_image/image/69685792/iOS_Image.0.jpg' width='700px' /><br/>
-Amazon's free streaming service IMDb TV now has its own dedicated app for the iPhone, iPad, and Android after launching on other major platforms earlier this year.
-<a href='https://www.theverge.com/2021/8/5/22611993/imdb-tv-mobile-app-ios-ipad-android'> Source <a/>
