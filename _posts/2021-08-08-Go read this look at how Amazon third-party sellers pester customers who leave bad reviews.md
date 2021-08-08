@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/svO2acxGw_QNIhVQi8SJslrcEbI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69695597/acastro_181114_1777_amazon_hq2_0003.0.jpg' width='700px' /><br/>
+When you buy something on Amazon, the e-commerce giant isn't always the one making the sale; an estimated half of all products sold on Amazon come from third-party sellers. Amazon says it's merely the conduit between buyer and seller, and doesn't bear responsibility if a third-party product is defective (although some recent court cases have challenged that stance).
+<a href='https://www.theverge.com/2021/8/8/22615467/go-read-this-amazon-sellers-pester-customers-bad-reviews'> Source <a/>

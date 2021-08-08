@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eIFpk5XSJyLIeJ13a3arKMg2oxA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69687560/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
-Microsoft's browser vulnerability research team is working on a mode to make the Edge browser more secure, and it's given it an incredible name: “Super Duper Secure Mode” (via The Record). The mode is currently very experimental, but could help make it harder for attackers trying to exploit bugs in Microsoft's browser by turning off certain optimizations.
-<a href='https://www.theverge.com/2021/8/6/22612047/microsoft-edge-super-duper-secure-mode-browser-jit-security'> Source <a/>
