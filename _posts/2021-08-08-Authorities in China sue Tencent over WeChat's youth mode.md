@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lBoYWSEkZoYmcEMHXHt4QMQXszQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69695331/acastro_181126_1777_weChat_0003.0.jpg' width='700px' /><br/>
+Prosecutors in Beijing are suing Chinese tech giant Tencent, claiming the “youth mode” on its WeChat app is against laws protecting minors, Reuters reported. When WeChat is used in youth mode, it restricts younger users' access to functions like mobile payments, as well as certain games.
+<a href='https://www.theverge.com/2021/8/8/22615392/china-lawsuit-wechat-tencent-youth-mode-tech'> Source <a/>
