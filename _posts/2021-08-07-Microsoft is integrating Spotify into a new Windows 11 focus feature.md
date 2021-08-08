@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Pku9DtkHgfKrDi1MvaKT0_jF-jY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69687265/wjoel_200601_1777_windows10_0001.0.jpg' width='700px' /><br/>
-Microsoft is planning to integrate Spotify into a new Windows 11 feature. Panos Panay, Microsoft's head of Windows and devices, teased the Focus Sessions Windows 11 feature on Twitter this week, and it appears to be a new way to focus on tasks and work. Focus Sessions includes Spotify integration, allowing you to create a focus timer to work through tasks while listening to playlist of music from Spotify.
-<a href='https://www.theverge.com/2021/8/6/22612554/microsoft-windows-11-focus-sessions-spotify-feature'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GLrrDR4AXUmHkorQTmb0bRA9cwc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69691083/acastro_170731_1777_0006_v4.0.jpg' width='700px' /><br/>
-WhatsApp won't be adopting Apple's new Child Safety measures, meant to stop the spread of child abuse imagery, according to WhatsApp's head Will Cathcart. In a Twitter thread, he explains his belief that Apple “has built software that can scan all the private photos on your phone,” and said that Apple has taken the wrong path in trying to improve its response to child sexual abuse material, or CSAM.
-<a href='https://www.theverge.com/2021/8/6/22613365/apple-icloud-csam-scanning-whatsapp-surveillance-reactions'> Source <a/>

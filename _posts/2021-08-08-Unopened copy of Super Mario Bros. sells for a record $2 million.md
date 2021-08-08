@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dCyTksWYy-GpH0bu0X0pw229pkc=/0x0:1000x666/1200x800/filters:focal(420x253:580x413)/cdn.vox-cdn.com/uploads/chorus_image/image/69693504/rally_super_mario_bros.0.jpg' width='700px' /><br/>
+An anonymous buyer paid $2 million for a never-opened copy of Super Mario Bros., according to collectibles site Rally. First reported by the New York Times, the sale price of the 1985 game broke a record that was set less than a month ago, when a sealed copy of Super Mario 64 went for $1.56 million at auction.
+<a href='https://www.theverge.com/2021/8/7/22614450/unopened-copy-super-mario-bros-sells-2-million-record'> Source <a/>

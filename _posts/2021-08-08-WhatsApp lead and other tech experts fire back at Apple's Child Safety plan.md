@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GLrrDR4AXUmHkorQTmb0bRA9cwc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69691083/acastro_170731_1777_0006_v4.0.jpg' width='700px' /><br/>
+The chorus of voices expressing concern and dismay over Apple's new Child Safety measures grew louder over the weekend, as an open letter with more than 4,000 signatures made the rounds online. The Apple Privacy Letter asked the iPhone maker to “reconsider its technology rollout,” lest it undo “decades of work by technologists, academics and policy advocates” on privacy-preserving measures.
+<a href='https://www.theverge.com/2021/8/6/22613365/apple-icloud-csam-scanning-whatsapp-surveillance-reactions'> Source <a/>

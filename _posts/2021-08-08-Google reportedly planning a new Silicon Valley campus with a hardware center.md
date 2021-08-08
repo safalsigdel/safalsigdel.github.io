@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V4Q_GQdsMLH879KFc9GO2nW7LOI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69693944/acastro_191014_1777_google_pixel_0005.0.0.jpg' width='700px' /><br/>
+Google plans another campus in Silicon Valley which will include a new center for some of its hardware products, CNBC reported. Google has been buying up land in northern San Jose, California, spending more than $389 million on what preliminary plans show will include a research and development center, according to CNBC.
+<a href='https://www.theverge.com/2021/8/7/22614501/google-new-silicon-valley-campus-hardware-nest-pixel'> Source <a/>
