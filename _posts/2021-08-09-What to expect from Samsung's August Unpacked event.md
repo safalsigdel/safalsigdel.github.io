@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nT1tBlXt2Jm7sbaglnr8qMzxNt0=/0x0:1200x599/1200x800/filters:focal(504x204:696x396)/cdn.vox-cdn.com/uploads/chorus_image/image/69698608/E7Ow9IyXsAAEUyS.0.jpeg' width='700px' /><br/>
+The next Galaxy Unpacked event is fast approaching on August 11th at 10AM ET / 7AM PT — but you might've already seen what Samsung has lined up, thanks to a copious amount of leaks.
+<a href='https://www.theverge.com/2021/8/9/22608535/samsung-unpacked-event-date-time-galaxy-z-fold-flip-earbuds-watches'> Source <a/>

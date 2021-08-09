@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fgXxcS7i-BGiD6SXg7JCEzKRJJU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69688306/jbareham_180313_1777__bitcoin_cryptocurrency_0003.0.jpg' width='700px' /><br/>
-Ongoing efforts to pass a bipartisan infrastructure bill could reshape the cryptocurrency world, as lawmakers debate new tax-reporting requirements on various parts of the blockchain system. The Washington Post is reporting that, on Thursday, Treasury Secretary Janet Yellen directly lobbied lawmakers to keep stronger cryptocurrency tax provisions in the infrastructure bill.
-<a href='https://www.theverge.com/2021/8/6/22612663/infrastructure-bitcoin-tax-blockchain-proof-of-work-stake-ethereum'> Source <a/>
