@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-eZBNQl7gVFr4YQcLq1AY5ErMic=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69689496/GettyImages_1230723516.0.jpg' width='700px' /><br/>
-The Securities and Exchange Commission issued its first charges against the decentralized finance industry Friday, accusing two people of illegally selling over $30 million of securities in unregistered offerings.
-<a href='https://www.theverge.com/2021/8/6/22613195/sec-cryptocurrency-blockchain-gensler-charge-illegal-fraud-tokens'> Source <a/>

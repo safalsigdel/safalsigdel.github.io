@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kFNL8ZC1yWI5HL9EQlNW909KaOc=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/69699407/xcloudwindowsxboxapp.0.jpg' width='700px' /><br/>
+Microsoft is bringing xCloud to Windows PCs through its Xbox app today. Xbox Insiders will be able to access a new updated Xbox app with Xbox Cloud Gaming (xCloud) built in. Much like how xCloud works through the web, you'll just need a compatible controller connected via Bluetooth or USB to access Xbox games from a Windows 10 PC.
+<a href='https://www.theverge.com/2021/8/9/22616774/microsoft-xcloud-windows-xbox-app-xbox-cloud-gaming-beta'> Source <a/>
