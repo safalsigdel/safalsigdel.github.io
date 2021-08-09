@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/g_NWpGx8630yD2Ji7VGqO8_pz8w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69697995/acastro_180509_1777_steam_0002.0.jpg' width='700px' /><br/>
+As of its latest beta release, Valve's SteamVR software can add floating desktop windows inside VR games, letting you keep an eye on other apps without leaving VR. It's a helpful addition, allowing players to keep an eye on anything from Discord, to a Twitch chat, or Netflix during a lower-intensity game. Road to VR suggests you could even watch YouTube during longer flights in Elite Dangerous.
+<a href='https://www.theverge.com/2021/8/9/22616349/steamvr-virtual-desktop-windows-floating-ingame-virtual-reality-vr'> Source <a/>
