@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/upT0xMYxVsoVIF_BvqJ5F9GOp6Y=/0x0:4946x3297/1200x800/filters:focal(2085x583:2875x1373)/cdn.vox-cdn.com/uploads/chorus_image/image/69699011/1284664319.0.jpg' width='700px' /><br/>
+Samsung vice chairman Lee Jae-yong —known in the West as Jay Y. Lee— will be released from prison Friday after South Korea's justice ministry granted him parole, the Financial Times reported. The billionaire heir to the Samsung empire, Lee, 53, had served six months of a 30-month prison sentence for offering bribes to South Korea's former president Park Geun-hye.
+<a href='https://www.theverge.com/2021/8/9/22616518/samsung-heir-lee-parole-bribery-south-korea'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2H6S0_tKq-C9cscsnHQDzxsR680=/0x0:2096x1182/1200x800/filters:focal(881x424:1215x758)/cdn.vox-cdn.com/uploads/chorus_image/image/69689142/Google_Pixel_6_Pro__Alt_Angle_.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where co-hosts Nilay Patel and Dieter Bohn discuss the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/2021/8/6/22613001/pixel-6-preview-apple-iphone-csam-detection-vergecast-podcast-461'> Source <a/>
