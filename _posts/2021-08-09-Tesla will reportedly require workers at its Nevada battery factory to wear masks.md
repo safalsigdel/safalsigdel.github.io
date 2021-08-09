@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DaFzVvP40KYpPcdbfrh6lCr8ODI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69696291/acastro_180430_1777_tesla_0001.0.jpg' width='700px' /><br/>
+All Tesla workers at the company's battery factory in Reno, Nevada will be required to wear masks indoors beginning Monday, The Wall Street Journal reported. The plant already required workers unvaccinated against COVID-19 to wear masks indoors, but the new rule includes vaccinated workers as well.
+<a href='https://www.theverge.com/2021/8/8/22615785/tesla-require-workers-nevada-battery-factory-reno-wear-masks-covid'> Source <a/>
