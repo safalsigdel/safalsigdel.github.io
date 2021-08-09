@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p8vMS_KHrWRKEwXkLI0y7czgnSQ=/0x0:1592x978/1200x800/filters:focal(669x362:923x616)/cdn.vox-cdn.com/uploads/chorus_image/image/69689975/Screen_Shot_2021_08_06_at_11.01.44_AM.0.png' width='700px' /><br/>
-Razer announced today that its lit-like-a-gaming-PC N95 mask has a new name and a beta program set up ahead of the planned fourth quarter launch. The futuristic-looking Project Hazel has been christened the Razer Zephyr, and you can sign up to be a beta tester right now on Razer's site.
-<a href='https://www.theverge.com/2021/8/6/22613139/razer-zephyr-n95-rgb-mask-project-hazel'> Source <a/>
