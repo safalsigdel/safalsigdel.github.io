@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2MHuLJUDtesbMSaDDhHrAUPUbc0=/0x0:5414x3609/1200x800/filters:focal(2274x1372:3140x2238)/cdn.vox-cdn.com/uploads/chorus_image/image/69700278/1234592087.0.jpg' width='700px' /><br/>
-A bipartisan deal to exempt cryptocurrency developers from certain tax reporting requirements failed in the Senate after a senator rejected a motion to approve the amendment on Monday.
-<a href='https://www.theverge.com/2021/8/9/22617055/infrastructure-cryptocurrency-deal-reporting-lummis-wyden-schumer'> Source <a/>

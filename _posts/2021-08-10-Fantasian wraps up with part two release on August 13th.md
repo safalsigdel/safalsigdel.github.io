@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y9FyJ4FAUIztyguXp8mjzovqvhI=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69700060/ss007.0.jpg' width='700px' /><br/>
-When Fantasian, a beautiful roleplaying game from Final Fantasy creator Hironobu Sakaguchi, first debuted on Apple Arcade, it wasn't actually the full game. Instead, it was described as the first part of a longer story. Now the conclusion to that story is almost upon us: part two of Fantasian is launching this Friday, August 13th as part of Arcade's weekly update.
-<a href='https://www.theverge.com/2021/8/9/22616888/fantasian-part-2-apple-arcade-release-date'> Source <a/>

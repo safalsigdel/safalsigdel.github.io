@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YpN-9xK3ExXubLSe7DPtl--765E=/0x0:890x593/1200x800/filters:focal(374x226:516x368)/cdn.vox-cdn.com/uploads/chorus_image/image/69700287/CD21_478_NRP_Data_Portability_2H_Launch_Inline.0.png' width='700px' /><br/>
-Facebook has updated its data transfer tool, Transfer Your Information, with two new destinations for information associated with your Facebook account: Photobucket and Google Calendar (via Engadget). Facebook allowed photo transfers to services like Google Photos in the past, but the company says Facebook Events are a new data type for the tool it created as part of the Data Transfer Project.
-<a href='https://www.theverge.com/2021/8/9/22616775/facebook-data-transfer-events-google-calendar-photobucket'> Source <a/>

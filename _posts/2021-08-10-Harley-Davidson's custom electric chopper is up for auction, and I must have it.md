@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C05WOfX-zV0TwANBg8WPGQt-Kkg=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/69699415/MOSH_CHOP_Left_Front.0.jpg' width='700px' /><br/>
-Serial 1, the electric bike company that spun out from Harley-Davidson last year, is making one-of-a-kind, custom-built e-bikes and auctioning them off online. The first one is the Schwinn Sting-Ray-inspired Mosh/Chopper, which the company describes as a “psychedelic, hand-painted banana seater,” and oh boy do I want it.
-<a href='https://www.theverge.com/2021/8/9/22616558/harley-davidson-seral-1-electric-chopper-auction-specs'> Source <a/>

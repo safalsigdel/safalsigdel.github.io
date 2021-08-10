@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ND9Esswf1seCT2t5rCDSgWcEf30=/0x0:1449x1004/1200x800/filters:focal(358x391:614x647)/cdn.vox-cdn.com/uploads/chorus_image/image/69699680/E3nZHe_XMAED9jF.0.jpg' width='700px' /><br/>
-Ohio-based startup Workhorse says it has to redesign its flagship electric van to meet customer needs, after finally getting the vehicle into production this past quarter following years of struggles.
-<a href='https://www.theverge.com/2021/8/9/22616733/workhorse-c1000-electric-van-truck-redesign-wkhs-usps'> Source <a/>
