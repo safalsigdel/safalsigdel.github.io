@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9e8nRnacplw_JWTe---vrnvJUvc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69702924/acastro_210512_1777_deepfake_0003.0.jpg' width='700px' /><br/>
+Twitter has announced the results of an open competition to find algorithmic bias in its photo-cropping system. The company disabled automatic photo-cropping in March after experiments by Twitter users last year suggested it favored white faces over Black faces. It then launched an algorithmic bug bounty to try and analyze the problem more closely.
+<a href='https://www.theverge.com/2021/8/10/22617972/twitter-photo-cropping-algorithm-ai-bias-bug-bounty-results'> Source <a/>

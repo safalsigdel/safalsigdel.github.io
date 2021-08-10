@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/haDyHgU_K8Ur5iy7J07aJd5-orM=/0x0:5000x3660/1200x800/filters:focal(2100x1430:2900x2230)/cdn.vox-cdn.com/uploads/chorus_image/image/69698854/1234410114.0.jpg' width='700px' /><br/>
-Vodafone has announced it will reintroduce roaming charges in Europe for UK mobile customers from January next year. It's the latest UK carrier to reintroduce the fees after the country's departure from the European Union, and it follows a similar U-turn from EE in June. All major carriers in the country previously said they had no plans to introduce roaming fees in Europe after the Brexit vote.
-<a href='https://www.theverge.com/2021/8/9/22616543/vodafone-europe-roaming-charges-price-tariff-brexit'> Source <a/>
