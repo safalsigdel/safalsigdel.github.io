@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Lg2WkQoQ9HmKkGH0h6JbWgB_S6s=/0x0:1600x672/1200x800/filters:focal(672x208:928x464)/cdn.vox-cdn.com/uploads/chorus_image/image/69701270/Copy_of_0204_0099__Titan_Main_KEY_v07_SIMP.0.png' width='700px' /><br/>
+Google announced updates to its Titan security key lineup on Monday, simplifying it by removing a product and bringing NFC to all its keys. The company will now offer two options: one has a USB-A connector, one has USB-C, and both have NFC for connecting to “most mobile devices.” The USB-A key will cost $30, and the USB-C key will cost $35 when they go on sale on August 10th.
+<a href='https://www.theverge.com/2021/8/9/22617183/google-usb-c-titan-security-lineup-nfc-password-protection'> Source <a/>

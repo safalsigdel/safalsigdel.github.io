@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QBbINyv3aeWcUQ8j0PD1xKPOF30=/0x0:1430x1217/1200x800/filters:focal(601x495:829x723)/cdn.vox-cdn.com/uploads/chorus_image/image/69700346/7dad39ad_a226_4caa_8c3b_9bde1b853163_1430x1217.0.jpeg' width='700px' /><br/>
+Substack is trying to put a new spin on webcomics. The newsletter platform announced today that it's signed a number of comics creators up to use its platform. They'll email comics out to readers and use Substack's subscription tools to charge directly for access to their work.
+<a href='https://www.theverge.com/2021/8/9/22617043/substack-comics-james-tynion-iv'> Source <a/>

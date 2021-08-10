@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VcaPhMBpnxP_GSsQ70jG9tBzlrI=/0x0:4800x2941/1200x800/filters:focal(2016x1087:2784x1855)/cdn.vox-cdn.com/uploads/chorus_image/image/69691039/1232843235.0.jpg' width='700px' /><br/>
-Amazon informed US warehouse employees on Friday that it is once again requiring them to wear masks to work in response to the spread of the more contagious COVID-19 delta variant (via CNBC and Bloomberg). The company says it offers access to vaccines to over half a million of its employees, but it will require employees to mask up, regardless of their vaccination status.
-<a href='https://www.theverge.com/2021/8/6/22613542/amazon-warehouse-mask-mandate'> Source <a/>

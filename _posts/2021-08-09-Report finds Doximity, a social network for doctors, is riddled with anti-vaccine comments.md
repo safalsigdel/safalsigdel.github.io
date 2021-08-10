@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M_8-F3VwGKGOneWCoto8P-VGCzw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69692978/acastro_210309_1777_vaccine_0004.0.jpg' width='700px' /><br/>
-A social media site for doctors is seeing “hundreds of comments”— many with false claims and conspiracy theories— on posts about the COVID-19 vaccine and the pandemic, according to a new report from CNBC. Doximity is limited to healthcare professionals in the US— it verifies members before they can join— and no one who posts to the site is anonymous.
-<a href='https://www.theverge.com/2021/8/7/22614255/doximity-social-network-doctors-healthcare-vaccine-coronavirus-covid'> Source <a/>

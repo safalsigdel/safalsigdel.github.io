@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A5DdRNwo2UZvmJFA5dSJx7oiffw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69698170/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-In a new FAQ, Apple has attempted to assuage concerns that its new anti-child abuse measures could be turned into surveillance tools by authoritarian governments. “Let us be clear, this technology is limited to detecting CSAM [child sexual abuse material] stored in iCloud and we will not accede to any government's request to expand it,” the company writes.
-<a href='https://www.theverge.com/2021/8/9/22616381/apple-child-sexual-abuse-material-scanning-icloud-faq-pushback-privacy'> Source <a/>

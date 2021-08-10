@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Um2rI5-kjmoTSvgd74cn7hxk2wM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69690481/acastro_180213_1777_0004.0.jpg' width='700px' /><br/>
-Spotify still hasn't added AirPlay 2 support to its iOS app — but despite the delay, it's still “working to make [it] a reality,” the company tells The Verge. Some doubt was cast on AirPlay 2 inclusion when MacRumors spotted a forum post where a Spotify forum moderator claimed that “audio driver compatibility issues” might mean the feature wouldn't be added for the foreseeable future. Spotify now claims that's wrong.
-<a href='https://www.theverge.com/2021/8/6/22613420/spotify-airplay2-support-audio-issues-drivers'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GyHWk5bYXrFiWeLR9JQhB2PsUFE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69698176/shollister_210805_4698_0007.0.jpg' width='700px' /><br/>
-Valve is aiming to make its Steam Deck handheld gaming PC ready for Windows 11. While we've known for weeks that the Steam Deck can run Windows, it wasn't clear how well this would be supported by Valve, or whether an option for a Trusted Platform Modules (TPM) would be enabled to get Windows 11 on the Steam Deck.
-<a href='https://www.theverge.com/2021/8/9/22616395/valve-steam-deck-windows-11-support-tpm-amd'> Source <a/>

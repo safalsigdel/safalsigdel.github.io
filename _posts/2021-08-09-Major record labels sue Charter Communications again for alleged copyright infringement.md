@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kGzPJCbAY2f0v7-RyCAC9XfyuMA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69693296/acastro_170712_0000_0002.0.jpg' width='700px' /><br/>
-A group of major record labels has filed a new lawsuit against Charter Communications alleging that the company has failed to address its subscribers' copyright infringement of musical works. And it's not the first time the labels have sued Charter for its subscribers' alleged behavior.
-<a href='https://www.theverge.com/2021/8/7/22614327/major-record-labels-sue-charter-communications-copyright-infringement'> Source <a/>

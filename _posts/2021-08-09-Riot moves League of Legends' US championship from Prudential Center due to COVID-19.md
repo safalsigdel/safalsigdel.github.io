@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u-JhVrxCxD33vU9iQhB8va8LOIA=/0x0:4285x2857/1200x800/filters:focal(1801x1087:2485x1771)/cdn.vox-cdn.com/uploads/chorus_image/image/69693741/1030112380.0.jpg' width='700px' /><br/>
-Riot Games announced Saturday that the final two matches of the League of Legends US Championship Series (LCS), which are slated for later this month, will no longer be held with fans at the Prudential Center in Newark, New Jersey, “due to the rise of COVID-19 cases in the United States.” The matches will instead be held at the LCS Arena in Los Angeles. Current ticket holders will be issued full refunds.
-<a href='https://www.theverge.com/2021/8/7/22614556/league-of-legends-lcs-us-championship-finals-prudential-center'> Source <a/>

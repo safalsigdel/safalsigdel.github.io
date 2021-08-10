@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JmH1C5xD2GG7L21tbSbhEXfrUWg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69699889/VVlyZVbU.0.jpeg' width='700px' /><br/>
+Rocket League's fourth season kicks off on Wednesday, bringing some big changes to tournaments, a setting to turn off copyrighted music, and a new cowboy-themed car.
+<a href='https://www.theverge.com/2021/8/9/22616779/rocket-league-season-4-cowboy-theme-tournament-updates-psyonix'> Source <a/>
