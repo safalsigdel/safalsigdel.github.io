@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ab14VP4-e_2JotDIsr2_SyL7Fig=/0x0:3768x2237/1200x800/filters:focal(1583x818:2185x1420)/cdn.vox-cdn.com/uploads/chorus_image/image/69702571/1_Windows_on_Macbook_Pro_Parallels_Desktop_17_for_Mac.0.png' width='700px' /><br/>
+Windows 11 is coming to Macs, even those without Boot Camp. Parallels Desktop 17 will allow Mac users to experience Microsoft's next version of Windows in a window on their Mac desktop. Parallels supports both Intel and M1 Macs (though there's a catch for those running Arm-based machines), and can even be used to run the Windows 11 preview for those who can't wait.
+<a href='https://www.theverge.com/2021/8/10/22617544/parallels-17-mac-windows-11-preview-emulation-performance-upgrades'> Source <a/>
