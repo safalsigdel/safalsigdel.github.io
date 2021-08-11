@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bOH28vm3SyTimeBOjarrG3Hyvmg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69704029/IMG_1105.0.jpeg' width='700px' /><br/>
-TCL has long been the flag bearer of Roku TVs. The company's 6-series is one of the best-performing sets you can buy for under $1,000. It features a fantastic picture with the help of Mini LED backlighting — TCL beat Samsung and LG to implementing that technology — and quantum dot HDR color. The 5-series and 4-series Roku TVs are no slouches either in their respective pricing tiers.
-<a href='https://www.theverge.com/2021/8/10/22616941/tcl-6-5-series-google-tv-price-specs'> Source <a/>
