@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F9Qx0S0bdh36OWA82arNbNjZhho=/0x0:2608x1468/1200x800/filters:focal(1096x526:1512x942)/cdn.vox-cdn.com/uploads/chorus_image/image/69704079/lootbox.0.jpg' width='700px' /><br/>
-Democrats are calling on some of the largest gaming companies to better protect children by extending new UK design rules to children in the US. The regulations could ban companies from selling in-game loot boxes to minors, among other restrictions.
-<a href='https://www.theverge.com/2021/8/10/22618221/gaming-video-games-loot-box-blizzard-trahan-markey-castor'> Source <a/>
