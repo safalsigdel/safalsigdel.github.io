@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hnVRnK4nyeWbI06a7cLUcgiRyy4=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69703668/mix4.0.jpg' width='700px' /><br/>
-Xiaomi has announced the Mix 4, the first phone in the Mi Mix series to be announced in nearly three years. The Mix phones have always been about bezel-less designs with seamless screens, and the Mix 4 carries on that idea by commercializing a technology that Xiaomi has been working on for a long time: a selfie camera that's located directly under the screen.
-<a href='https://www.theverge.com/2021/8/10/22617979/xiaomi-mi-mix-4-announced-under-display-camera-cup-specs-price'> Source <a/>
