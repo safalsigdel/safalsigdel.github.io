@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-yzVvNviR81Dsrxton0npNEFHKg=/0x0:2492x1394/1200x0/filters:focal(0x0:2492x1394):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22775972/Screen_Shot_2021_08_11_at_7.37.18_AM.png' width='700px' /><br/>
+Samsung has finished up its Galaxy Unpacked event, where it announced the next generation of its foldables (it called them the new mainstream of smartphones), wearables, and earbuds. Here are the biggest pieces of news from the event.
+<a href='https://www.theverge.com/2021/8/11/22617405/samsung-galaxy-unpacked-biggest-announcements-z-flip-z-fold-3-watch-buds-note'> Source <a/>
