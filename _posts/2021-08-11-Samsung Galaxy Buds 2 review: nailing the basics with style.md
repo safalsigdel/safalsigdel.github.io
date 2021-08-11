@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2fyeJdZP5Pa3UM1vPDNYxOfxnp8=/0x0:2040x1360/1200x675/filters:focal(784x620:1110x946)/cdn.vox-cdn.com/uploads/chorus_image/image/69710047/cwelch_210809_4705_0002.0.jpg' width='700px' /><br/>
+Alongside the new Galaxy Z Fold 3 and Z Flip 3, Samsung is also introducing the Galaxy Buds 2. The $149 earbuds replace the Galaxy Buds Plus as the entry-level position in the company's lineup. That family now consists of the Galaxy Buds Pro, bean-shaped Galaxy Buds Live, and the Galaxy Buds 2.
+<a href='https://www.theverge.com/22619305/samsung-galaxy-buds-2-review-specs-price-features'> Source <a/>

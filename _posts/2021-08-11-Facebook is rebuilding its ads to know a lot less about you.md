@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B6t65zSBT_m0w1ZDXXvEWy-p2Is=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69710038/Facebook_ads.0.jpg' width='700px' /><br/>
+Facebook's massive business was built on its ability to track users across the internet. But now, thanks to looming regulation and other moves to restrict such data collection, that is changing. Hundreds of engineers are rebuilding how Facebook's ads work to place more value on user privacy, according to Graham Mudd, a top ad executive at the company.
+<a href='https://www.theverge.com/2021/8/11/22619639/facebook-plans-privacy-focused-advertising-revamp'> Source <a/>

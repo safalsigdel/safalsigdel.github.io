@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VfEZ7lBienE09d764Lxss0EPDZo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69705479/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter claims identity verification wouldn't have prevented the torrent of racist abuse against Black players on England's football team, which followed the team's loss in the Euro 2020 championship game last month. According to an update posted by Twitter UK today, the majority of the accounts suspended for abusive content during the tournament were not anonymous.
-<a href='https://www.theverge.com/2021/8/10/22618500/twitter-analysis-racist-abuse-euro-2020-identification'> Source <a/>
