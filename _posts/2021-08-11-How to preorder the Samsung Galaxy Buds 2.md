@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DDzfSTEjSba7oK1s0ewRcbBsh3Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69710338/cwelch_210809_4705_0002.0.jpg' width='700px' /><br/>
+It's official: Samsung's Galaxy Buds Plus are now considered last-gen. During today's Galaxy Unpacked event, the company announced their long-rumored successor, the Galaxy Buds 2, a new set of true wireless earbuds that look to refine Samsung's recent formula instead of reinvent it.
+<a href='https://www.theverge.com/2021/8/11/22617569/samsung-galaxy-buds-2-preorder-how-to-buy-price-availability-release-date'> Source <a/>
