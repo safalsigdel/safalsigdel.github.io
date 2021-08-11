@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H1BSj6bXYR42_9NUlZ_1DE9LJ7I=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/69704898/1332193432.0.jpg' width='700px' /><br/>
-After weeks of negotiations, the Senate approved a bipartisan $1 trillion infrastructure package Tuesday authorizing over $500 billion in new spending to improve roads, bridges, and other physical infrastructure like broadband and EV charging. It's the largest domestic spending bill in over a decade.
-<a href='https://www.theverge.com/2021/8/10/22618448/senate-bipartisan-infrastructure-package-schumer-broadband-cryptocurrency'> Source <a/>

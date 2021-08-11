@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uM9ZZcBz71gPSRHuZujjfBDSCLU=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22775097/BFARSACE_210810_4707_5.jpg' width='700px' /><br/>
+Today we're getting our first look at the fruits of Samsung's smartwatch collaboration with Google: the new Galaxy Watch 4 and Galaxy Watch 4 Classic. It's a big deal in wearables, because after years of trying to go it alone with its own Tizen platform on smartwatches, Samsung is finally biting the bullet and collaborating with Google on its operating system.
+<a href='https://www.theverge.com/22618532/galaxy-watch-4-classic-smartwatch-fitness-tracker-price-specs-features'> Source <a/>
