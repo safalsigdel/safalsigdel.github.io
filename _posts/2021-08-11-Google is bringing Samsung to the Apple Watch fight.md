@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4oRTveGWDKFUZYafIgWzhO9gJ18=/0x0:1600x1066/1200x800/filters:focal(672x405:928x661)/cdn.vox-cdn.com/uploads/chorus_image/image/69703623/Samsung_Galaxy_Watch_4_Classic_AH_02_1420x799.0.jpg' width='700px' /><br/>
-On Wednesday, August 11th Samsung is expected to announce a couple new smartwatches: the widely rumored Galaxy Watch 4 and Galaxy Watch 4 Classic. The company that has the most to gain — or lose — from the success of these watches isn't Samsung, however, it's Google.
-<a href='https://www.theverge.com/2021/8/10/22617462/galaxy-watch-4-classic-samsung-apple-watch-google-ecosystem'> Source <a/>
