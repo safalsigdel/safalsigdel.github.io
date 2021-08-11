@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/br52JkzupYE5XR9RSFnbzN0Iy_4=/0x0:2056x1371/1200x800/filters:focal(864x522:1192x850)/cdn.vox-cdn.com/uploads/chorus_image/image/69703642/gproxicepop1.0.jpg' width='700px' /><br/>
-Not content with cornering the market with its USB microphones, the latest product from Logitech-owned Blue is a detachable mic called the Icepop. It's a $49.99 upgrade that can replace the default mics included with Logitech's G Pro X Wireless gaming headset, the G Pro X, the G Pro, as well as Astro's A40 headsets.
-<a href='https://www.theverge.com/2021/8/10/22612829/logitech-blue-icepop-microphone-g-pro-x-wireless-gaming-headset'> Source <a/>
