@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WrIf6DxOX0nV316umNpyOPfxXrs=/0x0:1600x1089/1200x800/filters:focal(672x417:928x673)/cdn.vox-cdn.com/uploads/chorus_image/image/69705403/oneplus_dual_screen_tease.0.jpg' width='700px' /><br/>
-Samsung's August Unpacked event is scheduled to take place tomorrow with foldables and wearables tossed about, but it appears that OnePlus has a thirst for attention that simply can't wait.
-<a href='https://www.theverge.com/2021/8/10/22618252/dual-screen-oneplus-samsung-unpacked-foldable'> Source <a/>

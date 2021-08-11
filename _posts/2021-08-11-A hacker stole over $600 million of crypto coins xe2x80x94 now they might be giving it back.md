@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AEAjoj5qyvxdGZkqzntcyqifoQ8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69709883/acastro_170726_1777_0007_v3.0.jpg' width='700px' /><br/>
+It's estimated that over $600 million worth of cryptocurrency has been stolen as the result of a hack on a protocol called the Poly Network. And now, whoever stole it seems to be in the process of returning it, according to CNBC and Chainalysis. According to Bloomberg, it's quite possibly one of the largest hacks in the decentralized finance, or DeFi, space.
+<a href='https://www.theverge.com/2021/8/11/22619272/poly-network-attack-600-million-cryptocurrency-theft-doge-ethereum-binance-return-defi'> Source <a/>
