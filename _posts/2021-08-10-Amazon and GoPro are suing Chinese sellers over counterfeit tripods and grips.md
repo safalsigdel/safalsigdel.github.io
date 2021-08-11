@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wM9iU-ODLuQBPq4mtlQlf-SYjFc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69700717/bfarsace_200914_4190_0005.0.0.jpg' width='700px' /><br/>
-Last June, Amazon created a Counterfeit Crimes Unit to fight the knockoffs plaguing its gigantic storefront, and today, it's announcing its first action against purveyors of fake gadgets.
-<a href='https://www.theverge.com/2021/8/9/22617120/amazon-gopro-fakes-counterfeit-lawsuit-china-criminal-investigation'> Source <a/>

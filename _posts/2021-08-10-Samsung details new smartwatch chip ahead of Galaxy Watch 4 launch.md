@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EBoAizHQbK19gzNDpJ9OlJFsMxY=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/69702632/dseifert_200811_4139_0025.0.0.jpg' width='700px' /><br/>
-Samsung has announced the Exynos W920, a new processor designed for smartwatches and other wearables. The company says it's the world's first wearable-specific chip to be built on a 5nm process, helping improve performance and efficiency.
-<a href='https://www.theverge.com/2021/8/10/22617873/samsung-exynos-w920-chip-announced-galaxy-watch-4'> Source <a/>

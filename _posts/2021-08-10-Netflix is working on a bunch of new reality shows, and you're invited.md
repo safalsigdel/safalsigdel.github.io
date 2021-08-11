@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/30UYr2cZtUenOEPFATLMPQ1s19M=/0x0:2530x1200/1200x0/filters:focal(0x0:2530x1200):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22772117/screencapture_netflixreality_submit_your_video_2021_08_09_15_52_01.jpg' width='700px' /><br/>
-Netflix is tripling down on its reality TV programming by renewing its most popular shows and opening up casting for future programming to anyone over the age of 18 in the US, Canada, United Kingdom, or Ireland, the company announced Monday.
-<a href='https://www.theverge.com/2021/8/9/22617087/netflix-reality-tv-casting-call-the-circle-renewed'> Source <a/>

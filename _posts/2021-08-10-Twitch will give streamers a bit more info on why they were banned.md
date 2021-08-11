@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mrGrBdpK7WofjPp8N2Vh5nt8QRc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69701432/acastro_210115_1777_twitch_0002.0.jpg' width='700px' /><br/>
-Twitch's suspensions are about to get a little clearer for streamers: starting on Monday, the company announced that it will include the name and date of the content that violated platform rules when it issues a ban.
-<a href='https://www.theverge.com/2021/8/9/22617270/twitch-banned-streamers-notice-content-reason-suspension'> Source <a/>

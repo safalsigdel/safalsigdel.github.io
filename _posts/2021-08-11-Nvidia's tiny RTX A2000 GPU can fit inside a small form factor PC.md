@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YUZ1d-Rl5V_60PH6nSvpdQQJvXc=/0x0:3472x1953/1200x800/filters:focal(1459x700:2013x1254)/cdn.vox-cdn.com/uploads/chorus_image/image/69704780/NVIDIA_RTX_A2000_5.0.png' width='700px' /><br/>
+Nvidia is launching its new RTX A2000 GPU today, designed for professional workstations. It's Nvidia's smallest Ampere-based GPU so far and can easily squeeze into small form factor workstations. Like Nvidia's old Quadro cards, the RTX A2000 is designed primarily for professionals who want to leverage ray tracing and Nvidia's AI capabilities, and it's the latest in a line of A-series GPUs.
+<a href='https://www.theverge.com/2021/8/10/22618030/nvidia-rtx-a2000-gpu-workstation-specs-features-price'> Source <a/>

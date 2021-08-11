@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dyc8J3cU-1TUZcqui4e7nbNvF_c=/0x0:2000x1435/1200x800/filters:focal(840x558:1160x878)/cdn.vox-cdn.com/uploads/chorus_image/image/69704205/CyberDog_012.0.jpg' width='700px' /><br/>
+Chinese tech giant Xiaomi has unveiled a quadrupedal robot named CyberDog: an experimental, open-source machine that the firm says “holds unforetold possibilities.”
+<a href='https://www.theverge.com/2021/8/10/22618043/xiaomi-cyberdog-robot-dog-quadruped-specs-price'> Source <a/>

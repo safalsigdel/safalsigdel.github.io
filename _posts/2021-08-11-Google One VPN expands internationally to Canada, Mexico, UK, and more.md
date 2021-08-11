@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4Wg_rnFudntCZU8wJ3Gd1KFPBOo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69704276/mdoying_180117_2249_0208stills.0.jpg' width='700px' /><br/>
+Google is expanding the VPN service that it provides as part of its Google One subscription to seven new countries: Mexico, Canada, the United Kingdom, France, Germany, Spain, and Italy, as spotted by 9to5Google.
+<a href='https://www.theverge.com/2021/8/10/22618267/google-one-vpn-international-expansion-canada-mexico-uk'> Source <a/>

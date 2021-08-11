@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7CkPqaO8KNfZzijAV77rO235lmQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69703099/starship-delivery-robot-043.0.0.jpg' width='700px' /><br/>
-Starship Technologies is expanding its footprint, deploying dozens of its pint-sized six-wheeled delivery robots on college campuses this fall.
-<a href='https://www.theverge.com/2021/8/10/22617175/starship-technologies-delivery-robots-college-campuses'> Source <a/>

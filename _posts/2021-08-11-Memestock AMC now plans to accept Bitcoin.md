@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pGppDwVc_Pxz13pFKyIqhVVvoeU=/0x0:5000x3333/1200x800/filters:focal(2207x1305:3007x2105)/cdn.vox-cdn.com/uploads/chorus_image/image/69705907/1230972166.0.jpg' width='700px' /><br/>
+AMC will begin accepting Bitcoin payments for concessions and theater tickets as soon as the end of the year, marking the latest development in AMC's hard lean into memestock superstardom.
+<a href='https://www.theverge.com/2021/8/10/22617594/amc-bitcoin-memestock-apple-google-pay'> Source <a/>

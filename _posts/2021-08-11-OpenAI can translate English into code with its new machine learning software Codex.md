@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ijyKqvSI4SMlpYfZSHMSAfiWctw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69705204/acastro_181017_1777_brain_ai_0001.0.jpg' width='700px' /><br/>
+AI research company OpenAI is releasing a new machine learning tool that translates the English language into code. The software is called Codex and is designed to speed up the work of professional programmers, as well as help amateurs get started coding.
+<a href='https://www.theverge.com/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access'> Source <a/>

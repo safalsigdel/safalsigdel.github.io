@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N0oPriA7-uYltlVNGlB2HzaPdBA=/0x0:2040x1351/1200x675/filters:focal(907x889:1233x1215)/cdn.vox-cdn.com/uploads/chorus_image/image/69703556/twarren_210809_4700_0001.0.jpg' width='700px' /><br/>
-AMD has returned to challenge Nvidia with its entry-level RX 6600 XT. This $379 (on paper at least) card is built on the same RDNA 2 architecture that AMD is using for its high-end cards, but it's designed to boost 1080p gaming instead of reaching the heights of 4K gaming.
-<a href='https://www.theverge.com/22617256/amd-radeon-rx-6600-xt-review-gpu-graphics-card'> Source <a/>

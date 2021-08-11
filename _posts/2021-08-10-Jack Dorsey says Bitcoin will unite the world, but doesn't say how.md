@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RjZiA-qnekoMD24Fplu2VLU52Zg=/0x0:3000x2147/1200x800/filters:focal(1260x834:1740x1314)/cdn.vox-cdn.com/uploads/chorus_image/image/69702018/1321753354.0.jpg' width='700px' /><br/>
-Twitter and Square CEO Jack Dorsey, a noted superfan of Bitcoin, claimed on Monday that the cryptocurrency will eventually unite the world. Yes, really.
-<a href='https://www.theverge.com/2021/8/9/22617551/jack-dorsey-bitcoin-unite-country-world-peace-cryptocurrency'> Source <a/>

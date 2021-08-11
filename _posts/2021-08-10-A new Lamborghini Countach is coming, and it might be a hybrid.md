@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4vo7QHjpqiYyPAMfTyQzSE11LI4=/0x0:1655x947/1200x800/filters:focal(696x342:960x606)/cdn.vox-cdn.com/uploads/chorus_image/image/69701753/588805_1600.0.jpg' width='700px' /><br/>
-The official announcement that “the new Lamborghini Countach is coming” aims directly at anyone who had a picture of the iconic sports car on their wall as a kid. With a body covered in angles and show-stopping gull-wing doors, it was the perfect dream car for anyone who didn't have a driver's license or plans to back out of a parking space.
-<a href='https://www.theverge.com/2021/8/9/22616693/lamborghini-countach-teaser-hybrid-supercar'> Source <a/>

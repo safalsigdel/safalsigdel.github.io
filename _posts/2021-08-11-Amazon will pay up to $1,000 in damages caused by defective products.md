@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/r3PvrkWOzmmPtVrkYSp_vNIKKrk=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69705543/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
+Amazon has announced a new policy to pay customers directly for claims of property damage or personal injury under $1,000 caused by defective products. The new policy begins on September 1st and will apply to all products sold on Amazon.com regardless of who sells them.
+<a href='https://www.theverge.com/2021/8/10/22618418/amazon-pay-property-damage-personal-injury-claims-insurance'> Source <a/>

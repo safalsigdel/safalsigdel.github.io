@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PXdEvZvt_2FHegv3zj8nP-f7cH0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69700581/acastro_200804_1777_dish_0001.0.0.jpg' width='700px' /><br/>
-On an earnings call today, Dish Network execs said that its Las Vegas 5G wireless service is in the final phase of construction and will launch in beta by the end of September. That keeps it just in line with the Q3 deployment goal it gave earlier this year.
-<a href='https://www.theverge.com/2021/8/9/22617029/dish-network-5g-las-vegas-wireless-service-beta'> Source <a/>

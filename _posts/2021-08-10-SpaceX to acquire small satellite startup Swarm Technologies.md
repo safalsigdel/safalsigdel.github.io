@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x66P1oKBEttb0p_-PZLabyUVSi0=/0x0:4200x2820/1200x800/filters:focal(723x579:1395x1251)/cdn.vox-cdn.com/uploads/chorus_image/image/69701139/1230770213.0.jpg' width='700px' /><br/>
-Elon Musk's SpaceX is acquiring the small-satellite data provider Swarm Technologies, scooping up the startup's roughly 30 employees and its network of 120 tiny satellites. The deal, struck last month, is extremely rare for SpaceX, which normally manufactures its rocket and satellite hardware in-house or hires subcontractors.
-<a href='https://www.theverge.com/2021/8/9/22616894/spacex-elon-musk-starlink-swarm-technologies'> Source <a/>

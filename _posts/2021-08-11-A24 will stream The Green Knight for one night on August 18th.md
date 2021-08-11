@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2UJdaHQZh4QW1F7lppqwV5Gx8LY=/0x0:1528x939/1200x800/filters:focal(649x110:893x354)/cdn.vox-cdn.com/uploads/chorus_image/image/69705440/dev_patel.0.jpg' width='700px' /><br/>
+A24's The Green Knight will make its virtual debut much earlier than expected — on August 18th, you'll be able to buy a $20 ticket to stream the film through A24's Screening Room platform.
+<a href='https://www.theverge.com/2021/8/10/22618625/a24-the-green-knight-screening-room-streaming-august-18th'> Source <a/>
