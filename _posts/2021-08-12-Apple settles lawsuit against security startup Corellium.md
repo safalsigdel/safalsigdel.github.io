@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S-XmMmapzBb9gNinm2rajX-VAEs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69710314/acastro_210429_1777_epicApple_0002.0.jpg' width='700px' /><br/>
-Apple has settled its copyright lawsuit against Corellium, a company that sells virtual iPhone environments for security testing. Apple and Corellium agreed to a last-minute settlement yesterday, just days before a trial scheduled for August 16th. The terms of the settlement are confidential, but Corellium confirmed to The Washington Post that it would continue to offer virtual iOS systems.
-<a href='https://www.theverge.com/2021/8/11/22620014/apple-corellium-security-virtual-iphone-dmca-lawsuit-settled'> Source <a/>
