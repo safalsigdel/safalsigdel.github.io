@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nPlO0ffd4ygikO8QQHGTOqtTid4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69710624/unnamed.0.png' width='700px' /><br/>
-Nintendo's most recent Indie World Showcase was full of lots of cool games, as per usual. But the best part is that many of them are out today.
-<a href='https://www.theverge.com/2021/8/11/22619888/nintendo-switch-indie-world-showcase-axiom-verge-2-boyfriend-dungeon'> Source <a/>
