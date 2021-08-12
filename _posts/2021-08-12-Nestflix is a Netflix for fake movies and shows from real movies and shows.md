@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DbUaOdrNxZdc9AP1FPcYwf6Fcsk=/0x0:2748x1652/1200x800/filters:focal(742x616:1180x1054)/cdn.vox-cdn.com/uploads/chorus_image/image/69712669/Screen_Shot_2021_08_11_at_1.42.48_PM.0.png' width='700px' /><br/>
+It's been notoriously difficult to watch lost classics like Vincent Chase's Aquaman or The Rural Juror — in part because they're not real — but thanks to the launch of Nestflix, that's all changing. Those movies are from Entourage and 30 Rock, respectively, created as gags or plotlines, but Nestflix, “the platform for your favorite nested films and shows,” will let you browse them anyway.
+<a href='https://www.theverge.com/2021/8/11/22620679/nestflix-fake-tv-shows-movies-netflix-streaming'> Source <a/>

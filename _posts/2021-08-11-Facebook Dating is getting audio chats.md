@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uTJ6SGnSuu68cNMQgXuMcL0RXK0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69706795/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook Dating, the company's dating service, doesn't appear to be as popular as other dating apps, but the company is introducing some new features to make it more useful for virtual dating, which has boomed during the pandemic.
-<a href='https://www.theverge.com/2021/8/10/22619015/facebook-dating-virtual-audio-chats-match-anywhere-lucky-pick'> Source <a/>

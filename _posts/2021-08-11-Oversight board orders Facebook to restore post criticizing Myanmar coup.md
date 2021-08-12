@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dGHzrNH0Qju-sbSkJkSkcf2kKao=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69709664/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
-The Facebook Oversight Board has ordered Facebook to restore a post from a user in Myanmar criticizing the country's new regime and its ties with China. The post was initially taken down for violating policies on racial hate speech against Chinese people, but the Oversight Board found the offending phrase was more appropriately viewed as political criticism of the Chinese government.
-<a href='https://www.theverge.com/2021/8/11/22619845/facebook-oversight-board-myanmar-china-hate-speech-ruling-decision'> Source <a/>

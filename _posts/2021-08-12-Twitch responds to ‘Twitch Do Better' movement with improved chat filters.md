@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pk3NDRy1SoBn26cYAb9wOZjjbO0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69712926/acastro_210115_1777_twitch_0003.0.jpg' width='700px' /><br/>
+Today, Twitch has issued a statement announcing the steps it's taking to protect its marginalized streamers.
+<a href='https://www.theverge.com/2021/8/11/22620874/twitch-implements-improved-chat-filters'> Source <a/>

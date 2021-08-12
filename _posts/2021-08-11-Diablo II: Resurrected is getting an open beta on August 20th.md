@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L5Z_ptkW9gUqeCLi9yLv3V-sxD0=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69706171/D2R_StreetDate_5_2.0.png' width='700px' /><br/>
-Blizzard is giving players a couple of chances to try out Diablo II: Resurrected, a remastered version of one of the studio's most popular titles, ahead of the game's release on September 23rd. The upcoming betas arrive during a tumultuous time for Blizzard, which is under intense scrutiny following a lawsuit alleging parent company Activision Blizzard has a culture of “constant sexual harassment.”
-<a href='https://www.theverge.com/2021/8/10/22618775/diablo-ii-resurrected-open-beta-pc-xbox-series-x-s-one-ps5-ps4'> Source <a/>

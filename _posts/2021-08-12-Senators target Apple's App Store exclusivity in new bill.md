@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J9Jx72Ai2GvJq0LRi0g75GvP72M=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69711310/Google_Apple_App_Dominance2.0.jpg' width='700px' /><br/>
+There's a new bill introduced in the Senate Wednesday targeting the power dominant tech firms like Apple and Google have over the app store market.
+<a href='https://www.theverge.com/2021/8/11/22620454/apple-google-app-store-senate-play-bill-epic-games-fortnite'> Source <a/>

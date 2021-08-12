@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wQWSN5v1sEXJ2Qnns7Z2_uZw4Gc=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69711944/1234341481.0.jpg' width='700px' /><br/>
+The US Federal Trade Commission (FTC) is looking into a recent partnership between Uber and grocery delivery service Gopuff, according to a new report from The Information. Gopuff agreed to list its collection of grocery and liquor store items on Uber Eats in May, expanding Uber's delivery abilities to an even greater degree as it competes with other companies like DoorDash and Instacart.
+<a href='https://www.theverge.com/2021/8/11/22620267/uber-gopuff-ftc-investigation-drizly-delivery'> Source <a/>

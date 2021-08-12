@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BAs_868NApz9tp3gJVBRbVclzBk=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/69710988/3._Google_Pay.0.jpg' width='700px' /><br/>
+Today's smartwatch news has been dominated by Samsung's new Wear OS 3-powered wearables, but Google wants you to know it hasn't forgotten about smartwatches running Wear OS 2. Updates to Google Pay, Messages, and other third-party apps will be coming to current devices in addition to Wear OS 3, giving existing owners something to look forward to as they roll out over the coming weeks.
+<a href='https://www.theverge.com/2021/8/11/22619773/google-wear-os-2-smartwatch-google-pay-messages-apps'> Source <a/>

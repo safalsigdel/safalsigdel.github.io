@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lvCZs6qXbEY3zXD3-VFq8bU3U_I=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/69711294/E8H1PYXWYAEjY84.0.jpg' width='700px' /><br/>
+At approximately 2:20PM ET, FEMA conducted a test of both the Emergency Alert System (EAS) and the Wireless Emergency Alerts (WEA) covering radio, TV broadcasts, and mobile devices in the US, but you might not see it on your phone. That's because this time around, unlike the Presidential Alert test in 2018, it only reached phones with a setting to receive test messages and by default, most phones are set to opt-out.
+<a href='https://www.theverge.com/2021/8/11/22619915/fema-alert-wea-eas-test-message-2021'> Source <a/>

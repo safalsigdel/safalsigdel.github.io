@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OhIz7totbOmTUQVkFVdIFLPjouE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69706817/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
-Apple stakes its reputation on privacy. The company has promoted encrypted messaging across its ecosystem, encouraged limits on how mobile apps can gather data, and fought law enforcement agencies looking for user records. For the past week, though, Apple has been fighting accusations that its upcoming iOS and iPadOS release will weaken user privacy.
-<a href='https://www.theverge.com/2021/8/10/22613225/apple-csam-scanning-messages-child-safety-features-privacy-controversy-explained'> Source <a/>

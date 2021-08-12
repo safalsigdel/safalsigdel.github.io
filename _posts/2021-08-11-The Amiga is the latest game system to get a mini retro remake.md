@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hS3eTbX2Xe2SZ0ESP0E6uT0dnXo=/0x0:1600x1066/1200x0/filters:focal(0x0:1600x1066):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22775518/a500.jpg' width='700px' /><br/>
-Commodore's Amiga 500, a home computer that became a popular game system, is receiving a remake. The A500 Mini is being developed by Retro Games Ltd, which previously released a mini version of the Commodore 64.
-<a href='https://www.theverge.com/2021/8/11/22619622/amiga-500-mini-announced-games-price-release-date'> Source <a/>

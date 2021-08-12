@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QYXhM1JsloO9jfUEpOxFd5j_JIk=/0x0:1578x360/1200x0/filters:focal(0x0:1578x360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22775536/Untitled.png' width='700px' /><br/>
+Google released the first public beta for Android 12 during its I/O event in the spring, and now Beta 4 is rolling out to compatible devices. Instead of a few previously unseen features like earlier beta releases, this version moves things into the “platform stability” section of the timeline.
+<a href='https://www.theverge.com/2021/8/11/22619546/android-12-beta-4-released-platform-stable-af'> Source <a/>

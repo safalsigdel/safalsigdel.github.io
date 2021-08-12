@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xf2QcLpmOpU9AhFdhe0zDRJZuAw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69710721/Tetris_Effect_Connected_Xbox_KeyArt.0.png' width='700px' /><br/>
+The greatest Tetris game of the last decade is finally coming to the Switch. As a part of today's Indie World Showcase, Nintendo announced that Tetris Effect: Connected will arrive on the Switch October 8th.
+<a href='https://www.theverge.com/2021/8/11/22620217/tetris-effect-connected-release-date-nintendo-switch'> Source <a/>

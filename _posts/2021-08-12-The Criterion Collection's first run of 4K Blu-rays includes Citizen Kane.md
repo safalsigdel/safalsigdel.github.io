@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oq_h4jE2JwR_zRTuWVo1qsWCPEY=/0x0:3000x2400/1200x800/filters:focal(1625x645:2105x1125)/cdn.vox-cdn.com/uploads/chorus_image/image/69711856/1311663652.0.jpg' width='700px' /><br/>
+The Criterion Collection has announced plans to release a six-film slate of classics on 4K Blu-rays for the first time, including a rerelease of Orson Welles' American epic Citizen Kane.
+<a href='https://www.theverge.com/2021/8/11/22620491/citizen-kane-criterion-collection-4k-blu-ray-mulholland-dr'> Source <a/>

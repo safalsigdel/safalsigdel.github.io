@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q6ka0Cn3I2-32HVkAoH0LIFq9OM=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69711697/E8hpSmxXoAMW80g.0.jpeg' width='700px' /><br/>
+Twitter is rolling out its Chirp font to the Twitter app and feed, meaning that your daily scrolling might look a little different than you're used to.
+<a href='https://www.theverge.com/2021/8/11/22620438/twitter-changes-font-chirp-design-icon'> Source <a/>

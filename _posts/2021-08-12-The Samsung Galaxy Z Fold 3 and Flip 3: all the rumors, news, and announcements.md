@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uvWzMDSeKU2BSdYETtQyzfHB1Ik=/0x0:838x751/1200x800/filters:focal(380x161:514x295)/cdn.vox-cdn.com/uploads/chorus_image/image/69710600/E4qkWBHXwAgIQ_W.0.jpeg' width='700px' /><br/>
+It's been a little over half a year since Samsung introduced the Galaxy S 21, which means it's time for something new. Luckily, Samsung's Unpacked event planned for August 11th at 10AM ET, where it's widely expected to introduce new versions of its folding phones.
+<a href='https://www.theverge.com/2021/8/11/22613790/samsung-galaxy-fold-flip-3-event-watch-announcements'> Source <a/>

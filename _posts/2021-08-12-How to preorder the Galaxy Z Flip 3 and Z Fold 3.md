@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HvbZo6PI7L7-1d0Cx7iD8XbG0To=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69712418/cwelch_210809_4701_0009.0.jpg' width='700px' /><br/>
+Like in previous years, Samsung used its latest Galaxy Unpacked event to announce a slew of new devices, including the Galaxy Z Fold 3 and Galaxy Z Flip 3. The two smartphones are already available for preorder starting at $1,799.99 and $999.99, respectively, and will launch alongside the Galaxy Buds 2 and a handful of other devices on Friday, August 27th.
+<a href='https://www.theverge.com/22617611/samsung-galaxy-z-flip-3-fold-3-preorder-buy-price-availability-release-date'> Source <a/>

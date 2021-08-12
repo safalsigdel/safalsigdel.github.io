@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U-iS3pxGbiB7_ehbU8N1RQYkM6o=/0x0:2148x1400/1200x800/filters:focal(903x529:1245x871)/cdn.vox-cdn.com/uploads/chorus_image/image/69711540/HeroUnlocked.0.png' width='700px' /><br/>
+A few weeks after 1Password started rolling out the Windows version of the redesigned 1Password 8, the company is now showing off the Mac version of the update, which is also available today to try in early access.
+<a href='https://www.theverge.com/2021/8/11/22619846/1password-8-macos-early-access-password-manager-app'> Source <a/>
