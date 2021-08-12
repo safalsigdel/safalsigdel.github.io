@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_EVkfwuORC2ftv1u649DSbgWAgc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69715843/acastro_180507_1777_android_privacy_0001.0.jpg' width='700px' /><br/>
+Google has banned a company that sold Android users' location data for COVID-19 mapping and other purposes, Motherboard reports. SafeGraph was one of several companies that collected geolocation records through plug-ins in other Android apps, then aggregated it for organizations including The New York Times and Centers for Disease Control.
+<a href='https://www.theverge.com/2021/8/12/22621685/google-ban-safegraph-android-user-data-location-tracking'> Source <a/>
