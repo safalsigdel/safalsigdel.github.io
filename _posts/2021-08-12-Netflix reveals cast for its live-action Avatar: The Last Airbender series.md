@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/00awoM5IS2kFITs9546UyMSePBY=/0x0:2370x1574/1200x800/filters:focal(996x598:1374x976)/cdn.vox-cdn.com/uploads/chorus_image/image/69715362/Screen_Shot_2020_07_21_at_9.38.25_AM.0.png' width='700px' /><br/>
+It's been some time since we've heard news about Netflix's live-action adaptation of Avatar: The Last Airbender, but today the streaming company is finally revealing details: namely, the cast for some major roles. The show will feature Gordon Cormier (The Stand) as Aang, Kiawentiio (Beans) as Katara, Ian Ousley (13 Reasons Why) as Sokka, and Dallas Liu (Shang-Chi and the Legends of the Ten Rings) as Zuko.
+<a href='https://www.theverge.com/2021/8/12/22621540/netflix-avatar-the-last-airbender-live-action-cast'> Source <a/>

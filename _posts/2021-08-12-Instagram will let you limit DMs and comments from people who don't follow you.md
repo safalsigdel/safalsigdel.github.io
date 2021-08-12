@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RSt_rHFmjhladNIrrn31H2bfYMQ=/0x0:890x593/1200x800/filters:focal(374x226:516x368)/cdn.vox-cdn.com/uploads/chorus_image/image/69710693/limits.0.jpeg' width='700px' /><br/>
-Instagram has been in the news this summer after Black soccer stars in England were bombarded with racist messages following their team's Euro 2020 final loss. Today, the company's trying to prevent some of that behavior from happening again with the introduction and expansion of three safety features.
-<a href='https://www.theverge.com/2021/8/11/22620052/instagram-limit-dm-comment-abuse-england-soccer'> Source <a/>
