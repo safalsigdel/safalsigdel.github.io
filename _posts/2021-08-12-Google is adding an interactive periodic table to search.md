@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/43Wfvt2_QrAzShcp0NTrnTrZECw=/0x0:2048x1348/1200x800/filters:focal(861x511:1187x837)/cdn.vox-cdn.com/uploads/chorus_image/image/69710402/Screen_Shot_2021_08_10_at_4.22.50_PM.0.png' width='700px' /><br/>
-Google search now has an interactive periodic table you can check out to learn a lot more about the elements. You can find it by searching for “periodic table” and clicking the “explore elements” button on the right side of the page or by navigating to it directly right here.
-<a href='https://www.theverge.com/2021/8/11/22619179/google-interactive-periodic-table-search-family-bell'> Source <a/>

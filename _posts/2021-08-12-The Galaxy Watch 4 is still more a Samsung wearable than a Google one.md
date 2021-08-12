@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DGXqwtSkx8IbO3PzBqLAKy8CDBk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69714900/BFARSACE_210810_4707_1.0.jpg' width='700px' /><br/>
+This week was supposed to be the first day of Google's big reentry into flagship smartwatches. Samsung is back on board after years of Tizen-based wearables, with its new Galaxy Watch 4 that runs the new, revitalized Wear OS 3. It's the smartwatch OS that merges the best of Google and Samsung's discrete platforms together.
+<a href='https://www.theverge.com/2021/8/12/22620869/galaxy-watch-4-wear-os-3-samsung-wearable-google-smartwatch-tizen-one-ui'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/veIIXO6VqzTt5kdOdrBzSVfzaEo=/0x0:3000x1920/1200x800/filters:focal(1260x720:1740x1200)/cdn.vox-cdn.com/uploads/chorus_image/image/69714886/HONOR_Magic3_Pro_Front.0.jpg' width='700px' /><br/>
+Honor has announced its first flagship smartphones since being sold off by former parent company Huawei: the Magic 3 series. The lineup consists of three phones, the Magic 3, Magic 3 Pro, and Magic 3 Pro Plus. They're coming first to mainland China, but Honor says they're getting a global release at a later date.
+<a href='https://www.theverge.com/2021/8/12/22621367/honor-magic-3-pro-plus-price-specs-features-cameras'> Source <a/>
