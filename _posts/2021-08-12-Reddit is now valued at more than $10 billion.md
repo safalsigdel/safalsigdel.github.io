@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n6bct-N2PjzJCB11KYwiCM5O6ZY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69714633/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
+Reddit, the self-declared ‘front page of the internet,' says it is now valued at more than $10 billion after raising an additional $410 million in funding, with the final round expected to grow to up to $700 million. The company continues to build and sanitize its business, removing racist, misogynist, and otherwise controversial communities, as it prepares to go public at some point in the future.
+<a href='https://www.theverge.com/2021/8/12/22621445/reddit-valuation-revenue-funding-round'> Source <a/>
