@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W7FH242N9R4CIe880EoH-j7fYLA=/0x0:5472x3648/1200x675/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/69710246/23.0.jpg' width='700px' /><br/>
-I was not expecting Samsung's third generation of folding phones to be water-resistant.
-<a href='https://www.theverge.com/22619139/samsung-galaxy-z-fold-3-flip-screen-durability-waterproof-aluminum'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cQS8h76uB5dmEXbI-j4Br3VIAmo=/491x0:1440x550/1200x800/filters:focal(888x124:1118x354)/cdn.vox-cdn.com/uploads/chorus_image/image/69714397/Spotify_wearOS_banner01_1_1440x550.0.png' width='700px' /><br/>
+Spotify's updated Wear OS app is releasing “over the coming weeks,” Spotify has announced, and it'll support offline playback on smartwatches running Wear OS 2.0 and up. The new functionality was announced in May alongside the news of Google's collaboration with Samsung on the next-generation of the wearable operating system, Wear OS 3.
+<a href='https://www.theverge.com/2021/8/12/22621394/spotify-wear-os-2-app-offline-playback-smartwatch'> Source <a/>
