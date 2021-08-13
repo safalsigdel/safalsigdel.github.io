@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2MSye9wu-ev8WBR4YCyN1VqFYgc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69715199/mchin_191104_4704_0004.0.jpg' width='700px' /><br/>
-HP has put out what I can best describe as a Surface Pro X with a Spectre Folio form factor. The Elite Folio is a lightweight, leather-covered, convertible Windows laptop powered by a Snapdragon processor with Arm architecture. It's a neat-looking, futuristic system that's meant to be used on the go, rather than for intensive tasks.
-<a href='https://www.theverge.com/22620111/hp-elite-folio-2021-review-arm-windows-10-apps-features-specs-price'> Source <a/>
