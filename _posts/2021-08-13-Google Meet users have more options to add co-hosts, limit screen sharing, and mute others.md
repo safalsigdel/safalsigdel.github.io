@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/galBFxxzDfu25pBghmROV4GWhmo=/0x0:1980x1320/1200x800/filters:focal(832x502:1148x818)/cdn.vox-cdn.com/uploads/chorus_image/image/69714426/googlemeetnewui.0.jpg' width='700px' /><br/>
-Google is adding a bunch of new features to Google Meet, making it easier for users to control and direct meetings. However, exactly which controls will be available depends on whether you are using Meet as a regular user or as part of a Google Workspace team.
-<a href='https://www.theverge.com/2021/8/12/22621410/google-meet-assign-co-host-screen-sharing-mute-chat'> Source <a/>

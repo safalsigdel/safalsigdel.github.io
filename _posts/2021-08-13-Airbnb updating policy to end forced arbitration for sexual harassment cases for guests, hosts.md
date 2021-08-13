@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tD-85MtnyzXHhgtyMQkUskwi7Qk=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/69720912/1232713305.0.jpg' width='700px' /><br/>
+Airbnb said Friday it will change its terms of service so that its arbitration provisions “will no longer apply to sexual assault or sexual harassment claims” by its hosts (the people who rent out their homes on the platform) and guests.
+<a href='https://www.theverge.com/2021/8/13/22623224/airbnb-sexual-harassment-policy-forced-arbitration-update'> Source <a/>
