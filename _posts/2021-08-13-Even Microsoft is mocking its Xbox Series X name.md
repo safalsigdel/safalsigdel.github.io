@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Microsoft has been the subject of many memes about its Xbox naming decisions in recent years. The Xbox Series X follows the Xbox One X, and the Xbox Series S is the successor to the Xbox One S, and before that there was the Xbox One. That's led to the internet making memes about one Xbox One X box, and a series of Xbox Series X boxes. After many Xbox box memes, Microsoft has now started openly mocking its Xbox naming decisions.
-<a href='https://www.theverge.com/tldr/2021/8/12/22621589/microsoft-xbox-series-x-name-meme-mock-video'> Source <a/>
