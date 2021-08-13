@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lrzlws-oWb7mb5bZssafyOPPeRQ=/0x0:2040x1530/1200x675/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/69722057/shollister_210724_4708_0014.0.jpg' width='700px' /><br/>
+Growing up, I thought my generation had the best toys:
+<a href='https://www.theverge.com/circuitbreaker/22623017/optimus-prime-transformer-auto-converting-programmable-robot-hasbro-robosen'> Source <a/>
