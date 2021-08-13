@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qMUFpDFJqOJxqkBa_JAS-WUECZQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69712309/cwelch_210809_4701_0003.0.jpg' width='700px' /><br/>
-It's been easy to dismiss folding phones as the stuff of science fiction, even after they became a reality two years ago. They were too expensive, too large, too compromised to make sense for most. Some flips instantly flopped. But in 2021, a folding phone appears to have just killed off Samsung's long-running Galaxy Note — and I'm starting to wonder if they'll destroy the flagship Galaxy S as well.
-<a href='https://www.theverge.com/2021/8/11/22620397/samsung-fold-flip-future-galaxy-s-past'> Source <a/>

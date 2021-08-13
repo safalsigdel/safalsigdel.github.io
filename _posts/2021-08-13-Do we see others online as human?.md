@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PI0C4TEtFdRcJmlJ1-Ayaf0Ep3A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69716838/mdoying_180118_2249_facebook_0729stills_angry.0.jpg' width='700px' /><br/>
+I've often wondered if part of the reason that there is so much venom spewed on Twitter and other social media is that it's difficult to actually recognize pieces of text on a screen as being from real, feeling human beings.
+<a href='https://www.theverge.com/22621580/online-trolls-tiktok-facebook-twitter-comments'> Source <a/>

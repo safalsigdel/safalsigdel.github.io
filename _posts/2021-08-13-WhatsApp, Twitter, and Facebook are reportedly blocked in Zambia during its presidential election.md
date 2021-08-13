@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3M6JmfnHRzzPORZ__PKRh4Pu-UM=/0x0:3600x2401/1200x800/filters:focal(1512x913:2088x1489)/cdn.vox-cdn.com/uploads/chorus_image/image/69716962/1234632546.0.jpg' width='700px' /><br/>
+WhatsApp and other apps are reportedly blocked in Zambia during ongoing general elections being held in the country Thursday, according to digital rights organization Access Now and internet monitor NetBlocks. The block, affecting state-owned internet providers and other private networks, could be cutting off voters from a vital form of communication during a contentious election.
+<a href='https://www.theverge.com/2021/8/12/22621875/whatsapp-twitter-facebook-blocked-zambia-presidential-election'> Source <a/>

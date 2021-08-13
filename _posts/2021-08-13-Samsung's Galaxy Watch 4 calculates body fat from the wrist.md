@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N3fTtpo_LWNGICa6jPP-MzTG2Ow=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69716399/BFARSACE_210810_4707_4.0.jpg' width='700px' /><br/>
+Samsung's new Galaxy Watch 4 has a feature that can calculate body fat percentage and muscle mass, the company announced yesterday. It's the latest tech company to offer a body composition feature, joining Amazon, which has a body fat percentage feature in its Halo Band.
+<a href='https://www.theverge.com/2021/8/12/22621600/samsung-galaxy-watch-body-fat-composition'> Source <a/>
