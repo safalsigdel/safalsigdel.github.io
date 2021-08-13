@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C7nsq00c5fqn7_XVDszXwyWjVTA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69721374/wjoel_180319_2394_facebook_006.0.0.jpg' width='700px' /><br/>
+Researchers at AlgorithmWatch say they were forced to abandon their research project monitoring the Instagram algorithm after legal threats from Facebook. The Berlin-based project went public with the conflict in a post published Friday morning, citing the platform's recent ban of the NYU Ad Observatory.
+<a href='https://www.theverge.com/2021/8/13/22623354/facebook-instagram-algorithm-watch-research-legal-threat'> Source <a/>
