@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GDuImFWo-gEYjF2WJX94D4_ibkw=/0x0:3433x2289/1200x800/filters:focal(1103x758:1651x1306)/cdn.vox-cdn.com/uploads/chorus_image/image/69718590/1328568943.0.jpg' width='700px' /><br/>
-The US Attorney won't be filing any charges against Jake Paul, according to TMZ and a statement sent to The Verge by Paul's lawyers. Paul was being investigated by the FBI, who raided his house, for his involvement in an incident that took place at an Arizona mall in May 2020.
-<a href='https://www.theverge.com/2021/8/12/22622530/jake-paul-no-charges-arizona-mall-looting-video-protests-fbi-raid'> Source <a/>

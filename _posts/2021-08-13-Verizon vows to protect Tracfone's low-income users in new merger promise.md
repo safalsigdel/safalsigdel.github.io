@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/42RvD3czDqMiQPA2BGDxj4rsgeE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69716128/acastro_200109_1777_verizon_0002.0.0.jpg' width='700px' /><br/>
-On Thursday, Verizon announced a range of new public commitments to protect low-income consumers in connection with its proposed acquisition of Tracfone. The commitments are part of a deal with public-interest groups and communications workers unions, who have agreed to support the acquisition on the basis of today's announcement.
-<a href='https://www.theverge.com/2021/8/12/22621905/verizon-tracfone-merger-lifeline-fcc-public-interest'> Source <a/>

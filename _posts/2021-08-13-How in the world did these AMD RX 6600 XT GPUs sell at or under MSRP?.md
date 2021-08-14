@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QtCgF4GlSVOMY6cOB3jAoUG5Rfk=/0x0:1260x709/1200x800/filters:focal(530x255:730x455)/cdn.vox-cdn.com/uploads/chorus_image/image/69716791/910022_amd_radeon_6600XT_angle1260x709_0.0.jpg' width='700px' /><br/>
-Every PC graphics card we've reviewed in months has come with a disclaimer — if you can find one at all, you won't be able to buy it for anywhere near its MSRP. And yet somehow, we've stepped into a bizzaro world where a few retailers listed the brand-new AMD Radeon RX 6600 XT for at or under its $379 suggested retail price, as PC Gamer notes today.
-<a href='https://www.theverge.com/2021/8/12/22622066/amd-rx-6600-xt-sale-msrp-micro-center-379-dollars'> Source <a/>

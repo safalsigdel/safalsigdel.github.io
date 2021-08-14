@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q2el2ziIEvTlujx0ZtJrFoql0GY=/0x0:2048x1152/1200x800/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/69719402/1.0.jpg' width='700px' /><br/>
-Amazon has decided to produce its upcoming Lord of the Rings TV series in the UK from the second season on. Although the first season was filmed in New Zealand, as with Peter Jackson's movies, Amazon now says pre-production on season two will begin early next year in the UK while season one post-production continues in New Zealand through June.
-<a href='https://www.theverge.com/2021/8/13/22622926/amazon-lord-of-the-rings-series-production-uk-new-zealand'> Source <a/>

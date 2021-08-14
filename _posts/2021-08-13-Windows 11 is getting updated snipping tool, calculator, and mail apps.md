@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ApzLiiSWMlhz6SXenIYGGZbErV8=/0x0:1280x685/1200x800/filters:focal(538x241:742x445)/cdn.vox-cdn.com/uploads/chorus_image/image/69716590/mail_dark_1.0.png' width='700px' /><br/>
-Microsoft is improving some of the built-in apps available in Windows 11. Windows Insiders in the Dev Channel can now test new updates to the Snipping Tool, Calculator, Mail, and Calendar apps. Some of the updates are minor, but all are designed to match the new visual style in Windows 11.
-<a href='https://www.theverge.com/2021/8/12/22622012/microsoft-windows-11-snipping-tool-mail-calculator-calendar-app-updates'> Source <a/>

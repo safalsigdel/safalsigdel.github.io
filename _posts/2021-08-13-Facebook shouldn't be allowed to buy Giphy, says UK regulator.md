@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qOM-UpzO9A_ki_ucx43VmDpQmWU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69717806/acastro_180806_1777_facebook_0001.0.jpg' width='700px' /><br/>
-15 months ago, Facebook said it was buying the popular GIF search engine Giphy for about $400 million. Now the acquisition may be a bust, thanks to an antitrust probe by the UK's Competition and Markets Authority.
-<a href='https://www.theverge.com/2021/8/12/22621957/facebook-giphy-deal-blocked-uk-regulator'> Source <a/>

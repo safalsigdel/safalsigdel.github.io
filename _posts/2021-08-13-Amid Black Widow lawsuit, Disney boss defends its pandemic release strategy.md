@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Kkrsv9pe675QgWK6ZKOlg93_-5M=/0x0:1600x680/1200x800/filters:focal(592x156:848x412)/cdn.vox-cdn.com/uploads/chorus_image/image/69718475/cc34ecb078c29957ad70d987b6b38121.0.jpg' width='700px' /><br/>
-Following a high-stakes lawsuit over Disney's day-and-date release of Marvel's Black Widow on its Premier Access streaming platform and the company's compensation of the film's star Scarlett Johansson, the head of Disney today defended both the company's payouts to talent as well as its decisions around various pandemic movie releases.
-<a href='https://www.theverge.com/2021/8/12/22622604/black-widow-lawsuit-disney-defends-release'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CcK06I_kLiOLSsQWho4UemTd9sI=/0x0:2400x1600/1200x800/filters:focal(963x474:1347x858)/cdn.vox-cdn.com/uploads/chorus_image/image/69722125/E8ryUfvX0AIJNno.0.jpeg' width='700px' /><br/>
+Boeing's Starliner astronaut capsule won't be launching to the International Space Station until it's gone through “deeper-level troubleshooting” to fix an issue with stuck propulsion system valves, according to a press release from the company. That troubleshooting means removing the capsule from the Atlas V rocket it's been coupled to and bringing it back to Boeing's facility.
+<a href='https://www.theverge.com/2021/8/13/22623609/boeing-starliner-capsule-iss-launch-valve-troubleshooting-delay'> Source <a/>

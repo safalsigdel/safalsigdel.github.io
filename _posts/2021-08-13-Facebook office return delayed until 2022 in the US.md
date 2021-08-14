@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x1mkXSz4kI5v-89vvZIh5VyJ1J0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69717461/jbareham_180405_1777_facebook_0003.0.jpg' width='700px' /><br/>
-Specifically citing concerns about a rise in cases of the delta variant of COVID-19, Facebook confirmed a Bloomberg report that it has pushed back plans for US workers to return to the office until next year.
-<a href='https://www.theverge.com/2021/8/12/22622282/facebook-office-return-delayed-2022-us'> Source <a/>
