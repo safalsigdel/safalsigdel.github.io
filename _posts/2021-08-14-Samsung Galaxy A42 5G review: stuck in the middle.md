@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vjh9oD8MP8iDvklYYkIJsWeDjPM=/0x0:2040x1360/1200x675/filters:focal(848x585:1174x911)/cdn.vox-cdn.com/uploads/chorus_image/image/69720509/ajohnson_210804_4696_0001.0.jpg' width='700px' /><br/>
-The Samsung Galaxy A42 5G is a thoroughly decent midrange phone that doesn't really need to exist.
-<a href='https://www.theverge.com/22618794/samsung-galaxy-a42-5g-review-screen-battery-price-specs'> Source <a/>
