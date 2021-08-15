@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4rYPwJL2ItbM6zmUB_vfN9aHERs=/0x0:2040x1360/1200x675/filters:focal(869x673:1195x999)/cdn.vox-cdn.com/uploads/chorus_image/image/69727998/mchin_210811_4712_0002.0.jpg' width='700px' /><br/>
+Once upon a time, the Thinkpad X1 Yoga was Lenovo's flagship business convertible, joining the clamshell X1 Carbon at the top of the company's business hierarchy. These days, it has more company. We now have the paper-thin, titanium-coated X1 Titanium Yoga, the featherweight X1 Nano, and the powerhouse X1 Extreme kicking around, all of which are excellent, pricey, and could reasonably be considered flagships in their own right.
+<a href='https://www.theverge.com/22623290/thinkpad-x1-yoga-gen-6-review-price-specs'> Source <a/>
