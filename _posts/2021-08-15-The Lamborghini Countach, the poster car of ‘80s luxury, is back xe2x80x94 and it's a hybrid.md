@@ -1,7 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/yU4iRe2LERfQRxAKk3jifYvjlBU=/0x0:5385x3029/1200x675/filters:focal(2263x1085:3123x1945)/cdn.vox-cdn.com/uploads/chorus_image/image/69722203/COUNTACH_LPI800_4__2_.0.jpg' width='700px' /><br/>
 Lamborghini unveiled its revamped Countach supercar at Pebble Beach this week, and as predicted, it's rocking a little lightning under the hood.
-<a href='https://www.theverge.com/2021/8/13/22623297/lamborghini-countach-supercar-hybrid-specs-speed'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/yU4iRe2LERfQRxAKk3jifYvjlBU=/0x0:5385x3029/1200x675/filters:focal(2263x1085:3123x1945)/cdn.vox-cdn.com/uploads/chorus_image/image/69722203/COUNTACH_LPI800_4__2_.0.jpg' width='700px' /><br/>
-Lamborghini unveiled its revamped Countach supercar at Pebble Beach this week, and as predicted, it's rocking a little lightning under the hood.
-<a href='https://www.theverge.com/2021/8/13/22623297/lamborghini-countach-supercar-hybrid-specs-speed'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/yU4iRe2LERfQRxAKk3jifYvjlBU=/0x0:5385x3029/1200x675/filters:focal(2263x1085:3123x1945)/cdn.vox-cdn.com/uploads/chorus_image/image/69722203/COUNTACH_LPI800_4__2_.0.jpg' width='700px' /><br/>
-Lamborghini unveiled its revamped Countach supercar at Pebble Beach this week, and as predicted, it's rocking a little lightning under the hood.
 <a href='https://www.theverge.com/2021/8/13/22623297/lamborghini-countach-supercar-hybrid-specs-speed'> Source <a/>
