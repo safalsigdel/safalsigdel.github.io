@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xZCFxXW5WoJ5BaF0HISwYodqvBU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69723292/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
+If you opened your Reddit app today and noticed a new video button next to the search bar, you could be a tap away from experiencing the forum platform's take on TikTok. TechCrunch writes that the video feed, which pulls content from subreddits you follow along with some you don't, started rolling out to iOS users on Friday.
+<a href='https://www.theverge.com/2021/8/13/22623724/reddit-titktok-video-feed-ios-app'> Source <a/>
