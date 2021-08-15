@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BAemanZaZuK2RyJKt-WJMb-yaIM=/0x0:5946x3964/1200x800/filters:focal(2498x1507:3448x2457)/cdn.vox-cdn.com/uploads/chorus_image/image/69721085/PBT_Keycap___Coiled_Cable_066___R1.0.png' width='700px' /><br/>
-Razer is expanding its range of mechanical keyboard accessories with new keycaps, cables, and wrist rests which offer a convenient way to change the look and feel of your keyboard. The accessories start at $20 for the new wrist rests, ranging up to $50 for a customization kit that includes both colorful keycaps and a matching USB cable.
-<a href='https://www.theverge.com/22623320/razer-pbt-keycaps-coiled-cable-wrist-rest-abs-caps-mechanical-keyboard'> Source <a/>

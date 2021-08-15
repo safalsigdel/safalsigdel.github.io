@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qgQffMR008Ebiv-751ppFeVFfeA=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69726232/1232993947.0.jpg' width='700px' /><br/>
+Ford has filed a motion asking the US District Court in San Francisco to dismiss a lawsuit from rival GM over Ford's BlueCruise self-driving feature. Last month, GM filed a trademark infringement lawsuit claiming that the name BlueCruise was too close to Super Cruise, the name of GM's hands-free driving tech, which it introduced in 2017, as well as its autonomous vehicle subsidiary Cruise.
+<a href='https://www.theverge.com/2021/8/14/22624945/ford-dismiss-cruise-gm-lawsuit-driver-assist-blue-cruise'> Source <a/>

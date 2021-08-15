@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rdQHclv_7GHb03t5dRbTn8SpQjw=/0x0:6048x3300/1200x800/filters:focal(2541x1167:3507x2133)/cdn.vox-cdn.com/uploads/chorus_image/image/69725457/1230667805.0.jpg' width='700px' /><br/>
+For journalists and others in creative and technical fields, having a side hustle or doing freelance work is extremely common. In addition to a day job an editor, for example, one may write paid-per-piece articles for other publications who aren't competitors of her primary employer, and typically (ideally) with her employer's explicit or tacit approval. Some people do so for the needed additional income, some like the work.
+<a href='https://www.theverge.com/2021/8/14/22624669/wall-street-journal-tech-workers-multiple-remote-jobs'> Source <a/>
