@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-qRnV1tMZd3f-cwJW49P7jyD9B0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69722844/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
-Twitter is halting the expansion of its verification program, saying it needs to work on the application and review process that lets people into the blue check mark club. This change, where Twitter won't be letting new people apply for verification, is coming after Twitter admitted that several fake accounts, which reportedly seemed to be part of a botnet, were incorrectly verified.
-<a href='https://www.theverge.com/2021/8/13/22623714/twitter-verification-program-pause-fake-accounts-review'> Source <a/>

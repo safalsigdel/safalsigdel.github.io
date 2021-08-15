@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zqmINbfLxAPQ6Tg5-qAvpG5qkEk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69722511/RoamSidetable.0.jpg' width='700px' /><br/>
-Sonos might be developing a voice assistant alternative to Alexa or Google Assistant for its speakers, according to a customer survey spotted by VoiceBot.ai. The survey, shared by a Sonos customer on Reddit, describes an on-device voice control system that would improve user privacy by not routing questions and commands through the cloud.
-<a href='https://www.theverge.com/2021/8/13/22623470/sonos-survey-voice-assistant-google-fight'> Source <a/>
