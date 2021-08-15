@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/-1a24aIOVwpatueRs0kbxyiHfQM=/0x0:5160x3516/1200x800/filters:focal(2168x1346:2992x2170)/cdn.vox-cdn.com/uploads/chorus_image/image/69721794/1147623879.0.jpg' width='700px' /><br/>
 Google is adding air quality data to its Nest Hub smart displays. While the new feature is still only available in “select” US markets, it'll give some users an idea of how much risk they might face from smoke and pollution in the area.
-<a href='https://www.theverge.com/2021/8/13/22623397/google-nest-hubs-air-pollution-smoke-alert-feature'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/-1a24aIOVwpatueRs0kbxyiHfQM=/0x0:5160x3516/1200x800/filters:focal(2168x1346:2992x2170)/cdn.vox-cdn.com/uploads/chorus_image/image/69721794/1147623879.0.jpg' width='700px' /><br/>
-Google is adding air quality data to its Nest Hub smart displays. While the new feature is still only available in “select” US markets, it'll give some users an idea of how much risk they might face from smoke and pollution in the area.
 <a href='https://www.theverge.com/2021/8/13/22623397/google-nest-hubs-air-pollution-smoke-alert-feature'> Source <a/>

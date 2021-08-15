@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/FQoNSgul0ZamITrVu5A4x3Cfibo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69725914/acastro_20200818_1777_epicApple_0003.0.0.jpg' width='700px' /><br/>
 When Apple announced changes it plans to make to iOS devices in an effort to help curb child abuse by finding child sexual abuse material (CSAM), parts of its plan generated backlash.
-<a href='https://www.theverge.com/2021/8/14/22624770/apple-controversial-plan-csam-child-abuse-privacy-ios-messages'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/FQoNSgul0ZamITrVu5A4x3Cfibo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69725914/acastro_20200818_1777_epicApple_0003.0.0.jpg' width='700px' /><br/>
-When Apple announced changes it plans to make to iOS devices in an effort to help curb child abuse by finding child sexual abuse material (CSAM), parts of its plan generated backlash.
 <a href='https://www.theverge.com/2021/8/14/22624770/apple-controversial-plan-csam-child-abuse-privacy-ios-messages'> Source <a/>
