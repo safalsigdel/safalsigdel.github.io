@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/I5JaR6Opt8su8D0fInOAbQt9ZDE=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/69731576/Copy_of_bfdungeon.0.jpg' width='700px' /><br/>
+Boyfriend Dungeon is getting an update, but not to its gameplay. In response to players' concerns that the current content warning doesn't go far enough, Kitfox Games tweeted on Saturday that it would update the message next week. The developer says that right now the warning, “inadequately describes the events of stalking and emotional manipulation that exist in the story.”
+<a href='https://www.theverge.com/2021/8/16/22627074/boyfriend-dungeon-content-warning-nintendo-switch-steam'> Source <a/>
