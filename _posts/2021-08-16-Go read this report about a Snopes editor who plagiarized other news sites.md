@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bO92NNbe-ejR0mT1RJaneGzvlI8=/0x0:1024x512/1200x800/filters:focal(431x175:593x337)/cdn.vox-cdn.com/uploads/chorus_image/image/69721900/snopeslogocard.0.png' width='700px' /><br/>
-A startling new report from BuzzFeed News finds that the co-founder of Snopes, a website known for fact-checking and debunking fake news items, was himself plagiarizing other news outlets under a phony byline, his own name, and a Snopes byline for several years.
-<a href='https://www.theverge.com/2021/8/13/22623442/buzzfeed-snopes-plagiarism-fact-check-report'> Source <a/>
