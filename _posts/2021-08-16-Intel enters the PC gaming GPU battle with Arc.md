@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AVoAFWYDEBRUzFgWj8r3zjOz0dE=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/69731010/intelarc.0.jpg' width='700px' /><br/>
+Intel is branding its upcoming consumer GPUs as Intel Arc. This new Arc brand will cover both the hardware and software powering Intel's high-end discrete GPUs, as well as multiple hardware generations. The first of those, known previously as DG2, is expected to arrive in the form of codename “Alchemist” in Q1 2022.
+<a href='https://www.theverge.com/2021/8/16/22626912/intel-arc-gpu-brand-alchemist-codename-release-date'> Source <a/>
