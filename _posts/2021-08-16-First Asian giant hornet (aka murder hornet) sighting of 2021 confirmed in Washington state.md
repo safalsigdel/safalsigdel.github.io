@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0aZ0aXbOnpM6Xt_tojLHvjKsOXg=/0x170:587x637/1200x800/filters:focal(248x379:340x471)/cdn.vox-cdn.com/uploads/chorus_image/image/69728626/asian_giant_hornet_attacking_wasp_nest.0.png' width='700px' /><br/>
+The Washington State Department of Agriculture has confirmed the first sighting of a live Asian giant hornet (nickname: murder hornet) in the state this year, the agency said in a news release.
+<a href='https://www.theverge.com/2021/8/15/22626063/first-asian-giant-murder-hornet-sighting-washington-state'> Source <a/>
