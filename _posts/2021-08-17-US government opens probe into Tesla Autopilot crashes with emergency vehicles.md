@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UlZgEemFEnetwwN8iAClVaaM0hs=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69730745/494411550.0.jpg' width='700px' /><br/>
-The US National Highway Traffic Safety Administration (NHTSA) has opened a probe into Tesla's Autopilot software, citing the cars' repeated collisions with parked emergency vehicles.
-<a href='https://www.theverge.com/2021/8/16/22626819/tesla-autopilot-crash-emergency-vehicle-probe-nhtsa'> Source <a/>

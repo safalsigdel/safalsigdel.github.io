@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vN4z2jysi9_CWfGW7Z0Ak4FfVqU=/0x0:1732x1197/1200x800/filters:focal(728x461:1004x737)/cdn.vox-cdn.com/uploads/chorus_image/image/69735803/Magic_Wand.0.jpg' width='700px' /><br/>
+Adobe has announced it's updating Photoshop on iPad today with a classic desktop tool missing from the original launch of the app — the Magic Wand. Some of the intelligent selection features from Magic Wand have been introduced to the iPad app in the past, but now Adobe is adding the tool itself, making it easier to select, adjust, or remove specific elements of a larger project with a tap.
+<a href='https://www.theverge.com/2021/8/17/22627957/photoshop-ipad-magic-wand-selection-canvas-projection'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fIDyMTeGC_qU4QCVfoZ-IvV41Ho=/0x0:2654x1714/1200x800/filters:focal(1115x645:1539x1069)/cdn.vox-cdn.com/uploads/chorus_image/image/69730372/fitbit_charge_5_leaks.0.jpg' width='700px' /><br/>
-Fitbit is apparently preparing an update to its line of Charge fitness trackers, and newly-leaked images offer our best look yet at what will likely be the refreshed design.
-<a href='https://www.theverge.com/2021/8/16/22626752/fitbit-charge-5-leaked-images-specs-news'> Source <a/>

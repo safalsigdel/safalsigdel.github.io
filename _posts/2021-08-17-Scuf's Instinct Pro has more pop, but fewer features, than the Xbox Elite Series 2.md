@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Uf0PTIhTxjEUNy-uMR7m-Ko59LU=/0x0:5451x3634/1200x800/filters:focal(2290x1381:3162x2253)/cdn.vox-cdn.com/uploads/chorus_image/image/69736162/scufinstincthero.0.jpg' width='700px' /><br/>
+Scuf has introduced two pricey controllers, the $170 Instinct and the $200 Instinct Pro. They're made for Xbox, and to that end, they feel like Microsoft's official controller in fit and finish. I mean that quite literally because they have the same dimensions as the newer Xbox wireless controller that ships with the Series X and S consoles.
+<a href='https://www.theverge.com/2021/8/17/22627413/scuf-instinct-pro-microsoft-xbox-controller-wireless-series-x-s-one-pc-features-price'> Source <a/>
