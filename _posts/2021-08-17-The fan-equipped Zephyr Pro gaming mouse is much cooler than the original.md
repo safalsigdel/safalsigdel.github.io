@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZIgZNWK1SQdAaW6g9mAPlpDnlPM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69730122/DSCF7733.0.jpg' width='700px' /><br/>
-About a year ago, I wrote about a gaming mouse called the Zephyr that came with a unique feature: a built-in fan designed to cool your palm as you play games. It didn't blow me away; the fan was loud, vibrated a lot, and didn't really feel all that cool.
-<a href='https://www.theverge.com/2021/8/16/22626714/marsback-zephyr-pro-gaming-mouse-fan-review'> Source <a/>
