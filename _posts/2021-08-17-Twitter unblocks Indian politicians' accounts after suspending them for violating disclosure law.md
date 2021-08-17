@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/je7_n50wxFP0YICP_2EDwzxrUFg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69728157/acastro_200715_1777_twitter_0002.0.0.jpg' width='700px' /><br/>
-Twitter has reinstated the accounts of several politicians in India's opposition party, which were suspended after party leader Rahul Gandhi tweeted a photo of himself with the parents of a girl who was allegedly raped and murdered in New Delhi, Reuters reported. Gandhi had tweeted his support of the girl's family, saying that they deserved justice and others had shared his tweet.
-<a href='https://www.theverge.com/2021/8/15/22625807/twitter-unblocks-india-politicians-accounts-violating-law-grievance-officer'> Source <a/>

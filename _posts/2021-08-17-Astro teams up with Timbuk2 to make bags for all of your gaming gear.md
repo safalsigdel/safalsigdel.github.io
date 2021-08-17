@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5aAGlnv1SvA4RhRft51FyuU5EMg=/0x0:6710x4473/1200x800/filters:focal(2819x1701:3891x2773)/cdn.vox-cdn.com/uploads/chorus_image/image/69735180/astrobags.0.jpg' width='700px' /><br/>
+Astro's latest set of products are a bit outside of its usual lane. Instead of releasing a new gaming headset or controller, it has worked with reputable bag and accessory brand Timbuk2 during the pandemic to make a backpack and a sling bag with Astro's name printed on it.
+<a href='https://www.theverge.com/2021/8/17/22626981/astro-timbuk2-bp35-cs03-backpack-crossbody-sling-price'> Source <a/>
