@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2dDsFgMfgpDdIm5a7QVkS_qI81A=/0x0:2288x1457/1200x800/filters:focal(961x546:1327x912)/cdn.vox-cdn.com/uploads/chorus_image/image/69735226/stripeless_white.0.png' width='700px' /><br/>
+Mastercard is phasing out the use of magnetic stripes on its credit and debit cards over the next decade, as the industry moves towards more secure or convenient alternatives like chips and contactless payments, the company has announced. It says it will be the first payments network to phase out the technology, which dates back to the 1960s.
+<a href='https://www.theverge.com/2021/8/17/22628455/mastercard-magnetic-stripe-phase-out-2024-2033'> Source <a/>
