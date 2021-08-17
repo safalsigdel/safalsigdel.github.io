@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JtZNxEdjzqwuBqXornVc2G4Vu6Y=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69736886/Pixel_5a_5G_Product_1.0.jpg' width='700px' /><br/>
+Google has officially revealed the Pixel 5A 5G, a phone it kind of announced in April to contradict rumors that it had been canceled. It comes with a short list of updated features compared to its 4A 5G predecessor, including a slightly bigger screen, a much bigger battery, and an IP67 rating for water resistance.
+<a href='https://www.theverge.com/2021/8/17/22627253/google-pixel-5a-specs-price-screen-battery-availability'> Source <a/>
