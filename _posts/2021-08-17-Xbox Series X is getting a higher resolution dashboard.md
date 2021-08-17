@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/tx6gwDYfatGoRrGI15jnb8P-svg=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/69732495/twarren_xboxseriesxhandson.0.jpg' width='700px' /><br/>
-Microsoft is starting to test a new 4K dashboard for the Xbox Series X today. Xbox Insiders in the Alpha and Alpha Skip-Ahead rings will get access to the increased resolution for the Xbox dashboard later today, designed to improve UI elements for 4K displays.
+Microsoft is starting to test a new higher resolution dashboard for the Xbox Series X today. Xbox Insiders in the Alpha and Alpha Skip-Ahead rings will get access to the increased resolution for the Xbox dashboard later today, designed to improve UI elements for 4K displays.
 <a href='https://www.theverge.com/2021/8/16/22627478/microsoft-xbox-series-x-4k-dashboard-update-features'> Source <a/>
