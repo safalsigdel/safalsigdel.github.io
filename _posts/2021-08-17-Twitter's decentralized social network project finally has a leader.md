@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CMqqEY12Lv1SY-Nyidc8z_tyIgU=/186x0:1610x920/1200x800/filters:focal(738x257:1010x529)/cdn.vox-cdn.com/uploads/chorus_image/image/69732848/Screen_Shot_2021_08_16_at_12.06.33_PM.0.png' width='700px' /><br/>
-Bluesky, the Twitter-funded effort to create a decentralized social network standard, has finally found a project lead — the creator of Happening, Jay Graber. Bluesky and Graber have also begun hiring for the project's first developers, meaning the slowly gestating project might finally become a bit less “blue sky” and a bit more real.
-<a href='https://www.theverge.com/2021/8/16/22627435/twitter-bluesky-lead-jay-graber-decentralized-social-web'> Source <a/>
