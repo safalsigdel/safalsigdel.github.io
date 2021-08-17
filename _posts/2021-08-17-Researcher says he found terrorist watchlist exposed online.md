@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Nk_nCP31vc1iUiqXF5nkYvTU6cs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69733097/akrales_161208_1298_A_0060_play.0.jpg' width='700px' /><br/>
+Nearly 2 million terrorist watchlist records, including “no-fly” list indicators, were purportedly exposed online. The list was indexed across multiple search engines on July 19th, but the Department of Homeland Security did not remove it until three weeks later, as first reported by Bleeping Computer Monday.
+<a href='https://www.theverge.com/2021/8/16/22627630/terrorist-watchlist-no-fly-list-dhs-fbi-research-cybersecurity'> Source <a/>

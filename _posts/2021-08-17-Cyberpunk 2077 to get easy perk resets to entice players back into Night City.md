@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rB-5V7z26Y97BAy8DveoJ2uc-UI=/0x0:1804x1080/1200x800/filters:focal(705x374:1011x680)/cdn.vox-cdn.com/uploads/chorus_image/image/69731888/screen_ripperdoc_clinic_en.0.jpeg' width='700px' /><br/>
+Cyberpunk 2077 will let you more easily reset your character's perks in the upcoming 1.3 patch, according to a new blog post from developer CD Projekt Red. The new feature arrives ahead of the next-gen upgrade set to hit sometime this year and could be useful for anyone who wants to dive back into the game and switch up how their character plays.
+<a href='https://www.theverge.com/2021/8/16/22627096/cyberpunk-2077-patch-1-3-reset-perks-mini-map'> Source <a/>

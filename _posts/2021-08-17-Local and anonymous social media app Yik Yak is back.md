@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MiJ9HZ5oznx6PTte-iVu8DaWBfc=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/69732538/YikYakApp_2021_Aug_16.0.jpg' width='700px' /><br/>
+Yik Yak — the anonymous, local social media app that only shows posts from people in your immediate area — has returned from the grave with new ownership after shutting down four years ago.
+<a href='https://www.theverge.com/2021/8/16/22627452/yik-yak-app-ios-back-local-anonymous-social-media'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WVPorSFd5cNaIHuqI4nlDbEQaa4=/0x0:295x640/1200x0/filters:focal(0x0:295x640):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22786073/13_twS_I.jpg' width='700px' /><br/>
+If you're a blind or low-vision iPhone user who relies on the FlickType keyboard to type, I've got some bad news — you're about to become a casualty of the fight between Apple and one of its staunchest critics. Developer Kosta Eleftheriou has announced that he's discontinuing the iPhone keyboard portion of his app, and says that keyboard will automatically be removed in a future update.
+<a href='https://www.theverge.com/2021/8/16/22627515/flicktype-ios-keyboard-discontinued-blind-visually-impaired'> Source <a/>

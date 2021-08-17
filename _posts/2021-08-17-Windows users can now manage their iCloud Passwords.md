@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ikpeL4nlT9fmpZx2l1uPBEYE-2U=/0x0:1521x573/1200x800/filters:focal(280x150:522x392)/cdn.vox-cdn.com/uploads/chorus_image/image/69733157/2021_08_16_11_16_34_Settings.0.png' width='700px' /><br/>
+If you sync your iCloud Passwords with Windows, Apple's new, dedicated iCloud Passwords app is going to give you some much-needed new abilities. The app, which comes with the iCloud for Windows 12.5 update, lets you search through your saved passwords, update them, add new ones, and delete login info you no longer want.
+<a href='https://www.theverge.com/2021/8/16/22627512/icloud-for-windows-12-5-password-manager-keychain'> Source <a/>

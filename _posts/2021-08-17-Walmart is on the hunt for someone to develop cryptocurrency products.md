@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lQtHtvLrA3SlzdoxG3yK69_KviQ=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69732046/875075340.0.jpg' width='700px' /><br/>
+Walmart is looking to hire a new senior director to develop new digital currency products, possibly including cryptocurrency payments, according to a listing on the company's job site (via Bloomberg). The move mirrors a similar interest shown by Walmart's sworn enemy Amazon, which wants to hire someone to head up cryptocurrency products.
+<a href='https://www.theverge.com/2021/8/16/22627111/walmart-cryptocurrency-payments-hire-amazon'> Source <a/>

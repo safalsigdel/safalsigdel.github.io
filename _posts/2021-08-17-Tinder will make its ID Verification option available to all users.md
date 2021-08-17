@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e4e48p6mXyc6DlmaUTI3bEvESi0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69732745/acastro_180822_1777_tinder_0002.0.jpg' width='700px' /><br/>
+Tinder said on Monday that it will make its ID Verification feature available to all members around the world “in the coming quarters,” according to a news release. The feature will allow users to verify their identities by uploading documentation; in Japan, where the feature has been live since 2019, a passport or license is typically used, but that may vary from place to place.
+<a href='https://www.theverge.com/2021/8/16/22627460/tinder-id-verification-users-safety'> Source <a/>

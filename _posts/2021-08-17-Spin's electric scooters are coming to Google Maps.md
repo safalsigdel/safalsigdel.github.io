@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/miDPjY15Bdu0r0KOajmZcpb6tmY=/0x0:5016x3348/1200x800/filters:focal(2107x1273:2909x2075)/cdn.vox-cdn.com/uploads/chorus_image/image/69731935/1219078283.0.jpg' width='700px' /><br/>
+Google Maps users will be able to find and rent Spin's electric scooters after the Ford-owned company announced a new global integration on Tuesday.
+<a href='https://www.theverge.com/2021/8/16/22627008/spin-electric-scooter-google-maps-integration'> Source <a/>
