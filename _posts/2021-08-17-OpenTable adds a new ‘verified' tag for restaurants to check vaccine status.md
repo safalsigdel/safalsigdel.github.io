@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w5cogxh0A1tDdZNxUemwL4UR_tI=/0x0:1256x718/1200x800/filters:focal(528x259:728x459)/cdn.vox-cdn.com/uploads/chorus_image/image/69732252/Screen_Shot_2021_08_16_at_12.24.39_PM.0.png' width='700px' /><br/>
-OpenTable is adding a new feature that will let restaurants tag diners as “verified” for meeting entry requirements. The initial — and obvious — use of the verification feature will be for restaurants to log guests who are vaccinated for COVID-19, but the feature could also be used to do things like confirm a diner is of legal drinking age or other requirements for entry.
-<a href='https://www.theverge.com/2021/8/16/22627029/opentable-verified-tag-restaurants-vaccine-status'> Source <a/>
