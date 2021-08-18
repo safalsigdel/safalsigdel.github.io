@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/2MqEO9ZlgwC9k3ZZF3N5ddxuQ8k=/0x0:1200x893/1200x800/filters:focal(626x313:818x505)/cdn.vox-cdn.com/uploads/chorus_image/image/69738809/roku_verge.0.jpeg' width='700px' /><br/>
 Roku users who've been unable to get Charter's Spectrum TV app through the platform's channels store can once again do so after months of being unable to download it.
+<a href='https://www.theverge.com/2021/8/17/22629518/spectrum-tv-app-roku-channel-store'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/2MqEO9ZlgwC9k3ZZF3N5ddxuQ8k=/0x0:1200x893/1200x800/filters:focal(626x313:818x505)/cdn.vox-cdn.com/uploads/chorus_image/image/69738809/roku_verge.0.jpeg' width='700px' /><br/>
+Roku users who've been unable to get Charter's Spectrum TV app through the platform's channels store can once again do so after months of being unable to download it.
 <a href='https://www.theverge.com/2021/8/17/22629518/spectrum-tv-app-roku-channel-store'> Source <a/>

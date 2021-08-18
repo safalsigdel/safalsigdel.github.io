@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/-h2DCw3epMl_A1sacdyFPzsccRo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69737837/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
 On Tuesday, Twitter announced that it will begin testing a new reporting feature for users to flag tweets containing possible misinformation.
+<a href='https://www.theverge.com/2021/8/17/22629097/twitter-misinformation-health-covid19-reporting-feature-white-house'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/-h2DCw3epMl_A1sacdyFPzsccRo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69737837/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+On Tuesday, Twitter announced that it will begin testing a new reporting feature for users to flag tweets containing possible misinformation.
 <a href='https://www.theverge.com/2021/8/17/22629097/twitter-misinformation-health-covid19-reporting-feature-white-house'> Source <a/>
