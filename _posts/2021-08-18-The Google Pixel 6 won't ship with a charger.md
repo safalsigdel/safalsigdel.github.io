@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/48y9vNHwT4-hAdGXFdaa6xOuoKE=/0x0:7645x4500/1200x800/filters:focal(3212x1639:4434x2861)/cdn.vox-cdn.com/uploads/chorus_image/image/69736932/Google_Pixel_6__Portfolio_Shot.0.jpg' width='700px' /><br/>
-Google is the latest manufacturer to bid farewell to the in-box charging brick, saying it expects the Pixel 5A will be the last phone to include one. That means the Pixel 6 and Pixel 6 Pro won't include one when they arrive this fall.
-<a href='https://www.theverge.com/2021/8/17/22628702/google-pixel-6-charger-not-included'> Source <a/>

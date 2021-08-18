@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yXkNaizSRadsITApO9EG6NKJo9A=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69740964/windows11darkmode.0.jpg' width='700px' /><br/>
+Microsoft's upcoming release of Windows 11 will make it even harder to switch default browsers and ignores browser defaults in new areas of the operating system. While Microsoft is making many positive changes to the Windows 11 UI, the default apps experience is a step back and browser competitors like Mozilla, Opera, and Vivaldi are concerned.
+<a href='https://www.theverge.com/22630319/microsoft-windows-11-default-browser-changes'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-IIFkVRDFBTFZuKnQNqjkPTVY7I=/0x0:4293x2856/1200x800/filters:focal(1804x1085:2490x1771)/cdn.vox-cdn.com/uploads/chorus_image/image/69741106/Hair_Pattern_Desktop_Image.0.png' width='700px' /><br/>
+Pinterest is launching a search tool to help people narrow their hair inspiration searches by hair pattern. When users search for hairstyles, new filter options — for coily, curly, wavy, and straight textures, as well as shaved / bald and protective styles — will appear under the search bar.
+<a href='https://www.theverge.com/2021/8/18/22628978/pinterest-hair-patterns-textures-search-filters'> Source <a/>

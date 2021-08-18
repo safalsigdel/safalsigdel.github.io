@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/651zdxpjsP4hbPyVfnltVyVxrok=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22786938/ajohnson_210813_4713_0001_sq.jpg' width='700px' /><br/>
-Google is revealing a phone this year where it's pulling out all the stops and going big on a cutting-edge, in-house designed SoC, upgraded camera specs, and a bold new look.
-<a href='https://www.theverge.com/22628205/google-pixel-5a-review-price-screen-battery-specs'> Source <a/>

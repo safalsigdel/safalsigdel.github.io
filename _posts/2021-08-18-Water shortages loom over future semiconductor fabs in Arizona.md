@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f22mpGO-6-MCKNX0GpMglO6PGFo=/0x0:5000x3331/1200x800/filters:focal(2100x1266:2900x2066)/cdn.vox-cdn.com/uploads/chorus_image/image/69741648/1233861592.0.jpg' width='700px' /><br/>
+Major semiconductor manufacturers looking to expand in Arizona will likely be spared from water cuts induced by an unprecedented water shortage in the Southwest, at least for now. As part of the scramble to end a shortage of another kind — the global dearth in semiconductor chips — both Intel and TSMC plan to open new facilities in Arizona. But they're setting up shop just as one of the worst droughts in decades grows worse across the Western US.
+<a href='https://www.theverge.com/22628925/water-semiconductor-shortage-arizona-drought'> Source <a/>

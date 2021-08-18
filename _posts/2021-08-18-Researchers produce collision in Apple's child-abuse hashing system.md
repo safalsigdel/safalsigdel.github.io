@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YZVPAjaPtKtv3pQjBFXW9RARZBM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69741506/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
+Researchers have produced a collision in iOS's built-in hash function, raising new concerns about the integrity of Apple's CSAM-scanning system. The flaw affects the hashing system, called NeuralHash, which allows Apple to check for exact matches of known child-abuse imagery without possessing any of the images or gleaning any information about non-matching pictures.
+<a href='https://www.theverge.com/2021/8/18/22630439/apple-csam-neuralhash-collision-vulnerability-flaw-cryptography'> Source <a/>

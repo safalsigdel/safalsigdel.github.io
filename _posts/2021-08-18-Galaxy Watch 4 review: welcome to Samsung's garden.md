@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9660/dbohn_210816_4717_0010sq.jpg' width='700px' /><br/>
+The Samsung Galaxy Watch 4 and Galaxy Watch 4 Classic are the first watches in a very long time to be built on a platform that could provide Android users a credible smartwatch. I've been testing both for a week and they're the best smartwatches I've ever used with a Samsung phone.
+<a href='https://www.theverge.com/22629459/galaxy-watch-4-classic-review-bixby-google-wearos'> Source <a/>

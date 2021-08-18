@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R86AmY8v8JXlLho22Cg-9IgzPnU=/0x0:4793x3254/1200x800/filters:focal(2014x1244:2780x2010)/cdn.vox-cdn.com/uploads/chorus_image/image/69741586/1229111902.0.jpg' width='700px' /><br/>
+T-Mobile has released more information about its most recent data breach, and while the company's findings fall short of the reported 100 million records, the numbers are staggering.
+<a href='https://www.theverge.com/2021/8/18/22630446/t-mobile-47-million-data-breach-ssn-pin-pii'> Source <a/>
