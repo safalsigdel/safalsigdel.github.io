@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2mLG6GuB6qmiW187uf3UJOu2F2Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69734662/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
-According to a ruling published on Friday, T-Mobile made false and misleading statements in testimony to the California Public Utilities Commission (CPUC) about its plans for Sprint's legacy CDMA network. The company will have the opportunity to explain why it shouldn't face sanctions for violating the commission's rules.
-<a href='https://www.theverge.com/2021/8/16/22627940/t-mobile-dish-network-cdma-sunset-cpuc-ruling'> Source <a/>

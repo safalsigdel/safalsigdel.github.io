@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/09w2X7k02FEAVeqajTNAR2II-i8=/0x0:1371x765/1200x800/filters:focal(577x274:795x492)/cdn.vox-cdn.com/uploads/chorus_image/image/69735543/Screen_Shot_2021_08_17_at_11.50.06_AM.0.png' width='700px' /><br/>
-OnlyFans is a juggernaut of NSFW content, but its abundance of nudity has stopped the platform launching as an app on Google's Play Store and Apple's App Store. Now, though, the company is pushing a new app available on iOS and Android called OFTV. It features many regular OnlyFans creators but the content is strictly safe-for-work.
-<a href='https://www.theverge.com/2021/8/17/22628521/onlyfans-app-ios-android-oftv-no-nudity'> Source <a/>

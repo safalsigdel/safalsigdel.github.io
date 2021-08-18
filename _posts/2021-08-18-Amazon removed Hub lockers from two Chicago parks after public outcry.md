@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zrDW-U7MWkil1piGBXKWQ-9CCv8=/0x0:2016x1512/1200x800/filters:focal(1347x642:1669x964)/cdn.vox-cdn.com/uploads/chorus_image/image/69737634/AmazonHubLockerChicaog.0.jpeg' width='700px' /><br/>
+Amazon has removed two of its Hub lockers from parks in Chicago after public outcry over blocked sidewalks, Block Club Chicago writes. While they offer a convenient place to pick up packages and drop off returns, a locker making a public park less accessible might not be the kind of tradeoff even a devoted Amazon customer is comfortable with.
+<a href='https://www.theverge.com/2021/8/17/22628967/amazon-hub-locker-chicago-removal-accessibility'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ix9nejdqaaUw8ft77MsGwgjYx4s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69733467/acastro_190522_1777_riot_games_0001.0.0.jpg' width='700px' /><br/>
-The California Department of Fair Employment and Housing issued a statement saying Riot Games has failed to inform its employees of their right to speak to the government about instances of harassment and discrimination.
-<a href='https://www.theverge.com/2021/8/16/22627796/riot-games-harassment-lawsuit-california'> Source <a/>

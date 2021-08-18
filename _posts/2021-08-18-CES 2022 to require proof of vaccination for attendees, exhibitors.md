@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7v5Hv-NqLvw4wIc6F4vWhH4INqQ=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69737043/631003660.0.jpg' width='700px' /><br/>
+After an online-only event this year, the CTA is still planning to put on CES 2022 as a hybrid event with in-person and digital components. Today the CTA announced that if you're planning on showing up in Las Vegas, then you will need to provide proof of vaccination against COVID-19.
+<a href='https://www.theverge.com/2021/8/17/22628787/ces-2022-covid-19-vaccine-proof-cta'> Source <a/>

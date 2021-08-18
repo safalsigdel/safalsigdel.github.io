@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/giFzil3uASigyIzJ6DkWyWgUKZ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69733191/acastro_191108_1777_t-mobile_0001.0.0.jpg' width='700px' /><br/>
-Following a weekend report that its servers had been breached, T-Mobile said Monday that unauthorized access to some of its data occurred, but it had not yet determined whether personal customer data was involved.
-<a href='https://www.theverge.com/2021/8/16/22627641/t-mobile-data-breach-unauthorized-access-servers-customer-info'> Source <a/>
