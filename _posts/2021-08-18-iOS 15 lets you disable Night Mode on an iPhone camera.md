@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ysne5uszwcLJIVgcFTmZ4DEbAL0=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69735921/vpavic_4279_20201107_0048.0.0.jpg' width='700px' /><br/>
-Apple is introducing an option to fully disable Night Mode on an iPhone camera in iOS 15. While you've always been able to turn off Night Mode for a particular shot, the iPhone camera will also re-enable it the next time it detects it needs to be used. In iOS 15, you can now toggle whether the camera remembers Night Mode has been turned off.
-<a href='https://www.theverge.com/2021/8/17/22628619/apple-ios-15-disable-night-mode-feature-option'> Source <a/>
