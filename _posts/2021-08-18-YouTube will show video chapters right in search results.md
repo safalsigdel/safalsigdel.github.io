@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/RBY-g0Sle8_AsV-d702XfTkrTk8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69736479/acastro_180403_1777_youtube_0001.0.jpg' width='700px' /><br/>
 YouTube is announcing some new features for search to make it easier to find what you're looking for amid the huge amount of content on the platform.
-<a href='https://www.theverge.com/2021/8/17/22627946/youtube-search-video-chapters-previews-mobile-translated-captions-experiment'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/RBY-g0Sle8_AsV-d702XfTkrTk8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69736479/acastro_180403_1777_youtube_0001.0.jpg' width='700px' /><br/>
-YouTube is announcing some new features for search to make it easier to find what you're looking for amid the huge amount of content on the platform.
 <a href='https://www.theverge.com/2021/8/17/22627946/youtube-search-video-chapters-previews-mobile-translated-captions-experiment'> Source <a/>

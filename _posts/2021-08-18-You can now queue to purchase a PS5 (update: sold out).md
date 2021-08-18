@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/J_Fm2ks8buTa0BFiN54gFi7F-Js=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69738575/acastro_210511_1777_psRestock_0005.0.jpg' width='700px' /><br/>
 Update August 17th, 6:04PM ET: Sony appears to have sold out of PS5 consoles for the day. We'll make sure to let you know when the next opportunity comes up.
-<a href='https://www.theverge.com/2021/8/17/22628626/ps5-playstation-5-restock-sony-direct-console-buy-queue'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/J_Fm2ks8buTa0BFiN54gFi7F-Js=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69738575/acastro_210511_1777_psRestock_0005.0.jpg' width='700px' /><br/>
-Update August 17th, 6:04PM ET: Sony appears to have sold out of PS5 consoles for the day. We'll make sure to let you know when the next opportunity comes up.
 <a href='https://www.theverge.com/2021/8/17/22628626/ps5-playstation-5-restock-sony-direct-console-buy-queue'> Source <a/>

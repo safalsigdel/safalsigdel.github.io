@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/6TTQVkX66OTxuGzoNHyWBjEPXCE=/0x0:2040x1360/1200x800/filters:focal(761x673:1087x999)/cdn.vox-cdn.com/uploads/chorus_image/image/69735807/DSCF3628_Edited.0.jpg' width='700px' /><br/>
 Roku is adding more than a dozen new channels to the Live TV Channel Guide on the Roku Channel, its free streaming service.
-<a href='https://www.theverge.com/2021/8/17/22628020/roku-live-tv-guide-17-new-channels'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/6TTQVkX66OTxuGzoNHyWBjEPXCE=/0x0:2040x1360/1200x800/filters:focal(761x673:1087x999)/cdn.vox-cdn.com/uploads/chorus_image/image/69735807/DSCF3628_Edited.0.jpg' width='700px' /><br/>
-Roku is adding more than a dozen new channels to the Live TV Channel Guide on the Roku Channel, its free streaming service.
 <a href='https://www.theverge.com/2021/8/17/22628020/roku-live-tv-guide-17-new-channels'> Source <a/>
