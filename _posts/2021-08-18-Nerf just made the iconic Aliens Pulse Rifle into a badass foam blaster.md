@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pSNqMtq2RK4hOw18KZ4oJYLf714=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69737605/Nerf_LMTD_Aliens_M41_A_3_4.0.jpg' width='700px' /><br/>
-That huge carry handle, pump-action underbarrel grenade launcher, and digital ammo counter on the side: is there a more iconic sci-fi weapon than the Aliens M41A Pulse Rifle? Now, it's about to become an iconic Nerf blaster as well, because Hasbro has just announced a $95 version that flings foam darts — enough of them that it might actually be viable in a stock Nerf war!
-<a href='https://www.theverge.com/2021/8/17/22627453/nerf-aliens-pulse-rifle-preorder-hasbro-gamestop'> Source <a/>
