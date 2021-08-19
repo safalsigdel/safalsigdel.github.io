@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nUPcqWV9Q5uDsd49nb2wDseBUeY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69747880/acastro_180524_1777_tesla_0001.0.jpg' width='700px' /><br/>
+Today is Tesla's AI Day, a sequel of sorts to the company's Autonomy Day event held in 2019. The event, which will be held at Tesla's headquarters in Palo Alto, CA, will be livestreamed for the public starting at 5PM PT / 8PM ET (though the event may not actually begin until closer to 5:30PM PT).
+<a href='https://www.theverge.com/2021/8/19/22632384/tesla-event-watch-ai-day-elon-musk-start-time-live-stream'> Source <a/>
