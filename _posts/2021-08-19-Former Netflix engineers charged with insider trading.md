@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2eGmFIEk0WNatQAj2dpEkGp0eJY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69747391/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+The Securities and Exchange Commission (SEC) has charged three former Netflix engineers with being part of a “long-running” insider trading scheme, the agency announced. The engineers and two close associates allegedly traded on confidential information about Netflix's subscriber growth, generating more than $3 million in total profit.
+<a href='https://www.theverge.com/2021/8/19/22632237/former-netflix-engineers-insider-trading-sec-charged'> Source <a/>
