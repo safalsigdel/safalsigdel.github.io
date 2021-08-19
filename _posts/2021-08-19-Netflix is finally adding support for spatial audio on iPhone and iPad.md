@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ANRZFMuxNN9UA85iwWCMjlAyRk0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69745028/cwelch_191031_3763_0001.0.jpg' width='700px' /><br/>
-Netflix is beginning to roll out support for Apple's spatial audio feature on iPhone and iPad, the streaming giant said to 9to5Mac on Wednesday. A Netflix spokesperson confirmed the rollout to The Verge, saying that the rollout begins Wednesday and that users should expect to see it over the next few days. You may have it already — some users on Reddit are reporting that it's working for them.
-<a href='https://www.theverge.com/2021/8/18/22631444/netflix-spatial-audio-support-iphone-ipad-apple'> Source <a/>
