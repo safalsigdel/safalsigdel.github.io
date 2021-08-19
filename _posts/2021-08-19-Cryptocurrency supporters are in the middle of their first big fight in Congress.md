@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PDRaN3u124Qhbj1wDENXf5xBuFk=/0x0:2048x1367/1200x800/filters:focal(861x521:1187x847)/cdn.vox-cdn.com/uploads/chorus_image/image/69743505/VRG_ILLO_1777_twitter_bitcoin.0.0.jpg' width='700px' /><br/>
+Last week, the Senate approved a massive infrastructure package making serious investments in building out the US's roads and bridges. It would be the largest domestic spending bill in almost a decade, and nearly every powerful lobbying shop circled Washington for months trying to shape its language.
+<a href='https://www.theverge.com/2021/8/18/22631096/cryptocurrency-tax-bipartisan-infrastructure-bill-advocacy-jack-dorsey-ashton-kutcher'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3lPZAjU0eQzKzlHAcHPe_BzBoPA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69743102/122259189.0.jpg' width='700px' /><br/>
+The US military created a vast database of biometric data — one report suggests it had a goal of 25 million entries — as part of its effort to track terrorists in Afghanistan. Now that the US has withdrawn from the country, reports from The Intercept and Reuters suggest the Taliban could potentially use it to target allies left behind.
+<a href='https://www.theverge.com/2021/8/18/22630686/biometric-data-afghanistan-taliban-hiide-civilians'> Source <a/>

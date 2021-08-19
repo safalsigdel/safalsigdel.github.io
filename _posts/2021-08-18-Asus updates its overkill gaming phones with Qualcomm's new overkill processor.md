@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_JOJf8y3mxJWrDbXB49FZ1XPAa0=/0x0:1145x763/1200x800/filters:focal(482x291:664x473)/cdn.vox-cdn.com/uploads/chorus_image/image/69740486/msedge_5BtFPuHiJl.0.jpg' width='700px' /><br/>
-When you're selling high-spec gaming-focused phones, it makes sense to have the most powerful processor possible. At least, that's the only explanation I can come up with for why Asus would announce its new Snapdragon 888 Plus-powered ROG Phone 5S lineup, just months after releasing the original ROG Phone 5.
-<a href='https://www.theverge.com/2021/8/18/22630283/asus-rog-phone-5s-pro-gaming-smartphone-android-price-release-date-features'> Source <a/>

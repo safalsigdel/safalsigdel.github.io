@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OuYR3gyYr2TqfUfTpYU7YlxpNqw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69744784/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
+Facebook announced plans to delay employees' return to the office until 2022 earlier in August, but CNBC writes that some Facebook contractors employed by Accenture have been working in person since a week before. This might not be a surprise as The Verge previously reported that some of Accenture's contractors in Texas were instructed to return to office work as early as October 2020.
+<a href='https://www.theverge.com/2021/8/18/22631150/facebook-contractors-accenture-return-to-offices'> Source <a/>
