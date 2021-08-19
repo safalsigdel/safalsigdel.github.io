@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y8HSRGJGLdHmQlIkOFoA-jUtBzA=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/69746324/twarren_rtx3080.0.jpg' width='700px' /><br/>
-Nvidia warned earlier this year that the great GPU shortage would last throughout 2021, and now the company expects supply issues to continue well into 2022. Speaking on Nvidia's Q2 fiscal 2022 earnings call this week, Nvidia CEO Jensen Huang said he expects supply constraints for the majority of next year.
-<a href='https://www.theverge.com/2021/8/19/22632047/nvidia-gpu-supply-rtx-30-series-constraints-2022'> Source <a/>

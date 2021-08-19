@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MdQApE9DZeAwJDe3LOr7ReY5ugs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69746240/acastro_180529_1777_nvidia_0002.0.0.jpg' width='700px' /><br/>
-Nvidia CEO Jensen Huang has admitted for the first time that the company's planned acquisition of British chip designer Arm may take longer than the initially-scheduled 18 months. The acquisition, which would bring together two of the most powerful chip companies in the world, is facing scrutiny from regulators in the US, UK, and China.
-<a href='https://www.theverge.com/2021/8/19/22632017/nvidia-acquisition-arm-timeframe-18-months-schedule-regulatory-scrutiny'> Source <a/>
