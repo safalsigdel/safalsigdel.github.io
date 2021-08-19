@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bB_bIVjoG_fdff_TKLSEnOMaOeQ=/0x0:2040x1360/1200x675/filters:focal(801x427:1127x753)/cdn.vox-cdn.com/uploads/chorus_image/image/69748111/acastro_180109_1777_0003_v2.0.jpg' width='700px' /><br/>
+In late October 2020, the University of Vermont Health Network was hit by a ransomware attack. The system couldn't access electronic health records for nearly a month. Every computer at UVM Medical Center was infected with malware. Hospitals in the network delayed chemotherapy and mammogram appointments, just as COVID-19 cases in the United States started to tick upward in what would become an enormous winter wave.
+<a href='https://www.theverge.com/2021/8/19/22632378/pandemic-ransomware-health-risks'> Source <a/>
