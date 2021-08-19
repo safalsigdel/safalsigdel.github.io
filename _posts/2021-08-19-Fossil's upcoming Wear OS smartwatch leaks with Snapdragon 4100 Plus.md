@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cm8ZnyZVzjuUfrLrr_5XIwvSgWA=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/69746605/ezgif_6_c24c8ad20bec.0.jpg' width='700px' /><br/>
+Fossil's upcoming Gen 6 smartwatch has leaked thanks to a retailer listing spotted by WinFuture. Notably, it appears to be Fossil's first smartwatch with Qualcomm's Snapdragon Wear 4100 Plus processor, which launched last year but has so far only appeared on a handful of devices. The new watch follows Fossil's Gen 5 lineup, which dates back to 2019, and received new LTE-equipped models this year.
+<a href='https://www.theverge.com/2021/8/19/22632101/fossil-gen-6-smartwatch-leak-wear-os-snapdragon-4100-price-release-date-specs'> Source <a/>
