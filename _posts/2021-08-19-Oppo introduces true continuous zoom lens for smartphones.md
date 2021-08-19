@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P3ZYsVaOAwXro0c-uelzTqzXfb0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69746138/OPPO_Imaging_Director_Simon_Liu_2.0.jpg' width='700px' /><br/>
-Oppo has held a “Future Imaging Technology Launch Event” online today to make some camera-related announcements, following the reveal of its “next-generation” under-display selfie camera earlier this month.
-<a href='https://www.theverge.com/2021/8/19/22631974/oppo-continuous-zoom-lens-smartphone-camera-tech-event'> Source <a/>

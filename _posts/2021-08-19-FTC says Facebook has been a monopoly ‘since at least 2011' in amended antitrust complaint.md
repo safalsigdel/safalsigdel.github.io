@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SKCyjTGamb1MeLr8EfhkWWcVBsw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69747986/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
+The Federal Trade Commission has filed an amended antitrust complaint against Facebook, alleging that the company violated federal antitrust laws with its acquisition of Instagram and WhatsApp. The new complaint is a more detailed version of a charge dismissed by the court in June for insufficient evidence.
+<a href='https://www.theverge.com/2021/8/19/22627032/ftc-facebook-amended-antitrust-complaint-monopoly-instagram-whatsapp'> Source <a/>
