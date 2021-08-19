@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b2naM8nDKbPiGFmtZqKmvq4qopQ=/0x0:1652x864/1200x800/filters:focal(694x300:958x564)/cdn.vox-cdn.com/uploads/chorus_image/image/69746859/Screen_Shot_2021_08_19_at_8.27.36_AM.0.png' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/2U1b_VjinzZ-LiFGlKtQ4Lg1vbA=/0x0:1654x1102/1200x800/filters:focal(695x419:959x683)/cdn.vox-cdn.com/uploads/chorus_image/image/69746859/intelarc2.5.jpg' width='700px' /><br/>
 Intel Arc is the company's first big foray into dedicated gaming GPUs, coming in Q1 2022, but we got another preview at some of additional details for the upcoming graphics cards at the company's Architecture Day 2021 event — including a first look at Intel's AI-accelerated super sampling, now known as XeSS.
 <a href='https://www.theverge.com/2021/8/19/22631061/intel-arc-gpu-alchemist-xe-ss-super-sampling-ai-architecture-day-preview'> Source <a/>
