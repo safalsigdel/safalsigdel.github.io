@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qmN9hfwIzVfpZQaGqvdYEFFxRS8=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69741387/acastro_180524_1777_tesla_0003.0.jpg' width='700px' /><br/>
-It's been nearly two years since Tesla's first “Autonomy Day” event, at which CEO Elon Musk made numerous lofty predictions about the future of autonomous vehicles, including his infamous claim that the company would have “one million robotaxis on the road” by the end of 2020. And now it's time for Part Deux.
-<a href='https://www.theverge.com/2021/8/18/22627101/tesla-event-ai-day-rumors-elon-musk-what-to-expect'> Source <a/>

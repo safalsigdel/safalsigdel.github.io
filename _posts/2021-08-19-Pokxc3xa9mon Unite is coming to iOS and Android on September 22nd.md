@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0K8QWDoZYHyKxXNv4optWLXAoCk=/0x0:578x327/1200x800/filters:focal(243x118:335x210)/cdn.vox-cdn.com/uploads/chorus_image/image/69741239/pokemon_unite_169.0.jpg' width='700px' /><br/>
-Pokxc3xa9mon Unite, the five-versus-five MOBA game that released in July for the Nintendo Switch, will debut on iOS and Android devices on September 22nd. The Pokxc3xa9mon Company shared today during a livestream that you can pre-register for the mobile game now on your respective devices (iOS, Android). You'll be notified when it's officially available to download.
-<a href='https://www.theverge.com/2021/8/18/22630466/pokemon-unite-pre-register-mobile-ios-android-date-phone-tablet'> Source <a/>
