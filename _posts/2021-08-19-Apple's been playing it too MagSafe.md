@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/loSTEClmEFLViwNPSHMaIzQKyr0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69742618/akrales_201018_4238_0464.0.12.jpg' width='700px' /><br/>
-It's been almost a year since Apple first debuted the iPhone 12 lineup, and introduced its MagSafe accessory system. So where are all the MagSafe chargers?
-<a href='https://www.theverge.com/2021/8/18/22629703/apple-magsafe-charging-mfi-standard-accessory'> Source <a/>

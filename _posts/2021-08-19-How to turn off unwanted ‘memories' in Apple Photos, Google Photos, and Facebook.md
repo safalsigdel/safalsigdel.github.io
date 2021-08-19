@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TVAVnuMP-gLBDyXhc5cCIbaVuCw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69742561/akrales_191007_3710_0056.0.jpg' width='700px' /><br/>
-The memory machines that Apple, Facebook, and Google have built to remind us of our favorite moments can, like any algorithmic creation, serve up subpar output. Instead of evoking recollections of those times we felt like we were living our best lives, they can invoke the low points of our existence — a miserable job, a rotten commute, a bad breakup, or the death of a loved one.
-<a href='https://www.theverge.com/22628968/apple-photos-google-photos-facebook-memories-how-to'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HCyrAPEbCztaX_dkLdQpl3UVsFw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69742177/vpavic_191202_3827_0042.0.jpeg' width='700px' /><br/>
-Waymo announced plans to build a hub for its autonomous semi-trailer trucks on a nine-acre site near Dallas-Fort Worth, Texas. The Alphabet-owned company also said it is partnering with rental truck company Ryder on fleet management as it looks to grow the delivery and logistics portion of its business.
-<a href='https://www.theverge.com/2021/8/18/22628836/waymo-autonomous-truck-hub-texas-ryder'> Source <a/>

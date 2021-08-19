@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Hh931kp-WaxAgMXSYd7EKjoAZjY=/0x0:843x563/1200x800/filters:focal(355x215:489x349)/cdn.vox-cdn.com/uploads/chorus_image/image/69746879/dellportablemonitor1.0.jpg' width='700px' /><br/>
+Dell has announced a 14-inch portable USB-C monitor that's priced at $349.99 and will be released globally on August 31st. It has a 1080p LED-backlit IPS panel (60Hz refresh rate, 6ms response time) and you can use it as a secondary display for your USB-C laptop.
+<a href='https://www.theverge.com/2021/8/19/22630676/dell-portable-monitor-usbc-14-inch-ips-features-specs-price'> Source <a/>
