@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9AY-rHWxNXpBZH7pgJ24lFcj6kA=/0x0:1390x767/1200x800/filters:focal(622x379:844x601)/cdn.vox-cdn.com/uploads/chorus_image/image/69745437/feiyu_pocket_2s_main_2.0.jpg' width='700px' /><br/>
-Half a decade ago, dronemaker DJI realized its miniature aerial steadicams might be handy to carry around on foot — but it's not the only company monopolizing on the shrinking tech. Rival FeiyuTech now has a DJI Pocket competitor that ups the ante by letting you detach the entire motorized gimbal, so you can stick a lightweight self-balancing camera to your car, helmet, wrist, or any magnetic surface up to three feet away.
-<a href='https://www.theverge.com/2021/8/18/22631560/feiyutech-pocket-2s-detachable-gimbal-camera'> Source <a/>
