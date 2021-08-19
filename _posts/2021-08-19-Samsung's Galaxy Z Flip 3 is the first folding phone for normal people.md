@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8gBL14Pg31M27uVJbDHvO-o0mPc=/0x0:3000x2000/1200x675/filters:focal(1161x1307:1641x1787)/cdn.vox-cdn.com/uploads/chorus_image/image/69746779/dseifert_4711_samsung_z_flip_3_24.0.jpg' width='700px' /><br/>
+The story of folding phones thus far has been one of compromise. Choosing a folding phone over a standard slab design has generally meant you compromised on performance, durability, and most of all, price. They've been the domain of early adopters, the people willing to put up with those compromises.
+<a href='https://www.theverge.com/22631125/samsung-galaxy-z-flip-3-review'> Source <a/>
