@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z24whzpBEqfN6NqC033WfReQLGs=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/69744804/Xsgxcy2.0.png' width='700px' /><br/>
-Microsoft is redesigning its Paint app in Windows 11. The app will be updated with a new command bar that borrows most of the same options and tools as what exists in the ribbon interface for Paint on Windows 10. It's the first major update to Paint in years, and it even includes a dark mode.
-<a href='https://www.theverge.com/2021/8/18/22631442/microsoft-windows-11-paint-redesign-update-app'> Source <a/>
