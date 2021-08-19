@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WaQWrk_nymYjCc3rmYVYufOgiAM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69743551/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter is updating its API v2 so that developers can look up its Spaces social audio rooms, the company announced Wednesday, which could allow them to share information about Spaces more easily outside the Twitter app.
-<a href='https://www.theverge.com/2021/8/18/22631036/twitter-spaces-developers-api-v2'> Source <a/>
