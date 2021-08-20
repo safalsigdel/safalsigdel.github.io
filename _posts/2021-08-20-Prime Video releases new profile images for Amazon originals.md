@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LeqlE3UfhfVTII1KPNZUtV3tvjE=/0x0:2533x1267/1200x800/filters:focal(1065x432:1469x836)/cdn.vox-cdn.com/uploads/chorus_image/image/69749086/PrimeVideo_Profile_Images_Aug2021.0.jpg' width='700px' /><br/>
-Prime Video is giving users more options for personalizing their user profiles with the addition of characters from its original series.
-<a href='https://www.theverge.com/2021/8/19/22632767/amazon-prime-video-new-profile-images-originals'> Source <a/>

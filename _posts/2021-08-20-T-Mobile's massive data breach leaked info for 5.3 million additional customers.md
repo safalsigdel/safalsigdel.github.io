@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/woWa7KPbnpJc18R1QRIjMoya6NI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69753138/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
+The news about T-Mobile's latest data breach is only getting worse, as the company announced new details from its investigation. While someone in possession of the leaked data said they had obtained information for as many as 100 million customers, including driver's license info, IMEI numbers, and more, T-Mobile's first statement put the figure at 47 million or so and did not mention the IMEI / IMSI data.
+<a href='https://www.theverge.com/2021/8/20/22633853/tmobile-data-breach-imei-sim-fcc'> Source <a/>
