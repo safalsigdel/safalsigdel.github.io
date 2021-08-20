@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P_HOs5wTLxVu5NGTDQUUBWQvfyE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69748508/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter is testing a feature that makes it even more enticing to use its recently acquired Revue newsletter platform: the ability to subscribe to a newsletter directly from a Twitter profile, without having to follow a link to a separate website. The feature can be enabled by all Revue newsletter writers, but the button is initially only being shown to a test group of Twitter users on Android and the web.
-<a href='https://www.theverge.com/2021/8/19/22632414/twitter-newsletter-subscription-button-revue-profile'> Source <a/>
