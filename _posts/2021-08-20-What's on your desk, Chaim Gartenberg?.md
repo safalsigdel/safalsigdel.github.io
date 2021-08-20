@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6EB0mADJ3Ei27S7oboA8YzDSFGs=/0x0:2040x1360/1200x675/filters:focal(848x211:1174x537)/cdn.vox-cdn.com/uploads/chorus_image/image/69752449/cgartenberg_210816_4718_0002.0.jpg' width='700px' /><br/>
+If you're a frequent reader of The Verge, I'm sure the name Chaim Gartenberg is known to you. He's been reporting and commenting here for years on everything from the latest AMD Ryzen processors to the new trailer of The Witcher, and has become a familiar sight on videos as well.
+<a href='https://www.theverge.com/22628813/remote-work-desk-home-set-up-chaim-gartenberg'> Source <a/>

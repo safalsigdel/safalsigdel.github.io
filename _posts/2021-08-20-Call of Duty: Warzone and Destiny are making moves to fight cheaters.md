@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eSxjZ4MK-82T6uSk3d6FKdTOdMQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69748668/cod_warzone.0.jpg' width='700px' /><br/>
-Alongside its reveal of Call of Duty: Vanguard, Activision Blizzard announced that Call of Duty: Warzone, its popular, free-to-play battle royale, will receive an update later this year that weaves a new “multi-faceted” anti-cheat system into the game. It will arrive alongside a brand-new map that's currently in development by Raven Studios, though the system will work across all of Warzone.
-<a href='https://www.theverge.com/2021/8/19/22632554/call-of-duty-warzone-vanguard-raven-new-map-destiny-2-anti-cheat'> Source <a/>
