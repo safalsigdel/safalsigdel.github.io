@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BN6Mo4bhSF2aF2zYRqZ8j2xLxnI=/0x0:3353x2160/1200x800/filters:focal(1409x812:1945x1348)/cdn.vox-cdn.com/uploads/chorus_image/image/69749207/476_3840.0.jpeg' width='700px' /><br/>
-In May 2020, Epic Games offered Grand Theft Auto V for free on the Epic Games Store, a deal that proved to be so popular it took down the store for more than eight hours. And thanks to documents discovered as part of the Epic v. Apple trial, we now have an idea of just how popular the deal was: according to an internal Epic slide, it brought more than 7 million new users to Epic's online marketplace.
-<a href='https://www.theverge.com/2021/8/19/22631952/epic-games-store-gta-v-free-game-7-million-new-users-apple-trial'> Source <a/>
