@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7ZwVyO7sWJPlg5OkML0DTT4YfhI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69749356/acastro_180507_1777_microsoft_0003.0.jpg' width='700px' /><br/>
+Microsoft is announcing its first price increase for its Office 365 and Microsoft 365 services in a decade. The price increases will affect commercial and business users of Microsoft's software as a service (SaaS) offerings next year, with no changes to pricing for education or consumers.
+<a href='https://www.theverge.com/2021/8/19/22632888/microsoft-office-365-price-increase-march-2022'> Source <a/>

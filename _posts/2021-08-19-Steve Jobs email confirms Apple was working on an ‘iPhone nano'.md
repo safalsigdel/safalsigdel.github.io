@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NTTBD6blpJqjjcAR7R28TDKkYgk=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69747209/vpavic_4279_20201107_0081.0.0.jpg' width='700px' /><br/>
-In 2011, rumors swirled that Apple was working on a so-called “iPhone nano,” a new iPhone that would be smaller and cheaper than the top-of-the-line model at the time, the iPhone 4. While Apple never did release that rumored super-small phone, a Steve Jobs email we spotted while collecting the very best emails from the Epic v. Apple lawsuit confirms the company was indeed working on an iPhone nano at one point in time.
-<a href='https://www.theverge.com/2021/8/19/22631541/steve-jobs-email-apple-iphone-nano-epic-lawsuit'> Source <a/>

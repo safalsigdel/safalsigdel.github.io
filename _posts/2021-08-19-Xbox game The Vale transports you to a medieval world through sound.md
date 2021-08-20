@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-Ihh10I9FnZypZF4_lRJIi7Kvyo=/0x0:3840x2400/1200x800/filters:focal(1530x694:2144x1308)/cdn.vox-cdn.com/uploads/chorus_image/image/69747443/TheVale_Title_Landscape.0.png' width='700px' /><br/>
-The Vale: Shadow of the Crown, an audio-based adventure game by indie studio Falling Squirrel, is available on Xbox and PC today for $19.99. The game was developed in collaboration with the Canadian National Institute for the Blind, and made for and tested by blind and low-vision players.
-<a href='https://www.theverge.com/22631651/the-vale-shadow-of-the-crown-blind-audio-xbox-pc'> Source <a/>

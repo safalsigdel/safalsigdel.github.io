@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pyKqV0GAceC1sKt7Ddjq63Az-6Q=/0x0:1192x719/1200x800/filters:focal(501x265:691x455)/cdn.vox-cdn.com/uploads/chorus_image/image/69750829/Screen_Shot_2021_08_19_at_4.01.35_PM.0.png' width='700px' /><br/>
+Adobe announced on Thursday that it's acquiring the company behind popular collaborative video production software of the same name, Frame.io, for $1.275 billion. Adobe says it tried to create its own collaboration software on its own, but settled on buying Frame.io because some customers were already using it in their workflows, Bloomberg reports.
+<a href='https://www.theverge.com/2021/8/19/22633238/adobe-frameio-acquisition-collaborative-video-software'> Source <a/>

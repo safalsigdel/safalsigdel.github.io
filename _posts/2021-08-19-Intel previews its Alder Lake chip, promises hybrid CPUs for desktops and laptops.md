@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9uRAFt_D-7peTlykhicB39_NUYA=/0x0:1654x874/1200x800/filters:focal(695x305:959x569)/cdn.vox-cdn.com/uploads/chorus_image/image/69746862/Screen_Shot_2021_08_19_at_8.32.05_AM.0.png' width='700px' /><br/>
-Intel has spent much of 2021 announcing plans for its future: a new IDM 2.0 strategy, new naming schemes for its process nodes, and new desktop GPUs. At Intel's Architecture Day 2021, we finally got a preview of how some of those changes are coming together in new chips, starting with the upcoming Alder Lake lineup later this year.
-<a href='https://www.theverge.com/2021/8/19/22631059/intel-alder-lake-chip-hybrid-architecture-day-2021-desktop-laptop-preview-cores'> Source <a/>

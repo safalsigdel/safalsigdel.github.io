@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_wFT6Tzh0OKnehpzMAme9jmpaoQ=/0x0:3360x2100/1200x800/filters:focal(1412x782:1948x1318)/cdn.vox-cdn.com/uploads/chorus_image/image/69749380/edge.0.png' width='700px' /><br/>
+Motorola has a new version of its $700 Edge smartphone, bringing better cameras, a more modern processor, and an updated design.
+<a href='https://www.theverge.com/2021/8/19/22631169/motorola-edge-camera-upgrade-unlocked-price-release-date'> Source <a/>

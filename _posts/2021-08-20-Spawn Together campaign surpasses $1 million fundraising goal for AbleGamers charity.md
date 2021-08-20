@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iYYWQ4v_x3nny7Bx7ocfq7nv0Q0=/0x0:4500x3000/1200x800/filters:focal(1961x710:2681x1430)/cdn.vox-cdn.com/uploads/chorus_image/image/69750563/888461160.0.jpg' width='700px' /><br/>
+Steven Spohn passed a goal this week that he's been chasing for nearly a year. He raised over a million dollars for AbleGamers, a charity that seeks to improve accessibility in games and connects disabled people with peer support and adaptive tech for gaming. Spohn has been its COO for 15 years.
+<a href='https://www.theverge.com/2021/8/19/22630693/spawn-together-campaign-1-million-ablegamers-charity'> Source <a/>

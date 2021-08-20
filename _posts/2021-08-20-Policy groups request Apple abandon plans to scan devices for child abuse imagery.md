@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f0PgjfeuduYlv8Jni_oK6HwwvFM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69749740/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+An international coalition of policy and civil rights groups published an open letter Thursday asking Apple to “abandon its recently announced plans to build surveillance capabilities into iPhones, iPads and other Apple products.” The groups include the American Civil Liberties Union, the Electronic Frontier Foundation, Access Now, Privacy International, and the Tor Project.
+<a href='https://www.theverge.com/2021/8/19/22632722/apple-child-abuse-scan-ios-abandon-request-privacy'> Source <a/>

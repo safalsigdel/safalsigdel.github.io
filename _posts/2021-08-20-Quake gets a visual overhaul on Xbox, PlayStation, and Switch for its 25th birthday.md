@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uebSt47fEHYpFqm1Xn4t_5Q3BBE=/0x0:1399x787/1200x0/filters:focal(0x0:1399x787):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22792969/quakenew.jpg' width='700px' /><br/>
+QuakeCon, the annual fan convention for the legendary first-person shooter, was canceled last year during the pandemic, but it's back today with a nailgun-like bang. Machine Games and id Software have teamed up to create a visually enhanced version of the original Quake game, after June 22nd marked the 25th anniversary of the game's release.
+<a href='https://www.theverge.com/2021/8/19/22632110/quake-xbox-playstation-switch-4k-visuals-version-download'> Source <a/>

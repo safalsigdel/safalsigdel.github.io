@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p8ZFwuF6TfFUplUXVbpFPvqasYE=/0x0:2468x1646/1200x800/filters:focal(1037x626:1431x1020)/cdn.vox-cdn.com/uploads/chorus_image/image/69747473/Bird_Bike_1.0.jpg' width='700px' /><br/>
-Shared electric scooter company Bird is branching out into new two-wheeled vehicles, namely electric bikes. A few months after it introduced its first shared e-bike, the company announced that it would also offer its own e-bike for sale.
-<a href='https://www.theverge.com/2021/8/19/22632227/bird-electric-bike-owned-price-specs-scooter'> Source <a/>

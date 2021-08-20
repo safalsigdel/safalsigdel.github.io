@@ -1,0 +1,3 @@
+<img src='' width='700px' /><br/>
+As expected, Sledgehammer Games officially announced the next Call of Duty with the reveal of Vanguard, which will be launching in November. The new shooter is set during World War II and will feature a “historically inspired” single-player campaign, along with a multiplayer mode and integration with Call of Duty: Zombies and Warzone.
+<a href='https://www.theverge.com/2021/8/19/22631315/call-of-duty-vanguard-release-date-trailer-sledgehammer-ps5-xbox'> Source <a/>

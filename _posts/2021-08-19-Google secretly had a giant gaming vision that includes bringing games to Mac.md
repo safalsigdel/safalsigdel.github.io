@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nD4XmgAKD2xDYROd43xfbS8nV84=/0x0:1211x807/1200x800/filters:focal(510x308:702x500)/cdn.vox-cdn.com/uploads/chorus_image/image/69748240/google_gameplan_2.0.jpg' width='700px' /><br/>
-Apple's Mac has long been an afterthought for the video game industry, and few think of Google as a games company — despite running Android, one of the biggest game platforms in the world. But Google had a plan to change those things in October 2020, according to an explicitly confidential 70-page vision document dubbed “Games Futures.”
-<a href='https://www.theverge.com/2021/8/19/22631907/google-gaming-vision-android-windows-mac-cross-screen-controller'> Source <a/>

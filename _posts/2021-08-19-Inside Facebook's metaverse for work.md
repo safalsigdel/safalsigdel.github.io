@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TkwVMytOMlPlAXcW241ENGcANso=/0x0:1681x941/1200x675/filters:focal(707x337:975x605)/cdn.vox-cdn.com/uploads/chorus_image/image/69746475/Screen_Shot_2021_08_18_at_5.37.04_PM.0.png' width='700px' /><br/>
-It wasn't long into a recent press briefing I attended in virtual reality when Mark Zuckerberg showed up to talk about the metaverse.
-<a href='https://www.theverge.com/2021/8/19/22629942/facebook-workrooms-horizon-oculus-vr'> Source <a/>

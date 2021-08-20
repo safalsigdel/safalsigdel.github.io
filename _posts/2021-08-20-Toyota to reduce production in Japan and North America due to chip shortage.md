@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cxfKRbK13CafU-I0gX0qe1wsE9w=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/69748443/1230549913.0.jpg' width='700px' /><br/>
+Toyota said Thursday that it would reduce production in Japan and North America due to a shortage of semiconductor chips, a sign that even the best-run supply chains are being affected by the shortage.
+<a href='https://www.theverge.com/2021/8/19/22632330/toyota-production-japan-north-america-chip-shortage-ford-tesla-gm-vw'> Source <a/>

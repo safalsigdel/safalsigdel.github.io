@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CXAKYmdec9a5lDDaKTZn9ORYYZw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69746875/acastro_180430_1777_5G_0001.0.0.0.jpg' width='700px' /><br/>
-General Motors and AT&T are partnering to bring 5G connectivity to “millions” of vehicles over the next decade. The improved connectivity will mean better software performance, enhanced navigation, and faster music and video streaming capabilities, company officials said.
-<a href='https://www.theverge.com/2021/8/19/22631247/gm-att-5g-car-chevy-cadillac-gmc-2024'> Source <a/>

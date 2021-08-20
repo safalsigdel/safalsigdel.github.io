@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C_W8WuOHKzUp-O5atpD0r8yC9II=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69749153/acastro_200227_1777_onlyfans_0001.0.jpg' width='700px' /><br/>
+Video sharing site OnlyFans, best known for its creators' adult videos and photos, will prohibit sexually explicit content starting October 1st. First reported by Bloomberg, the company says it is making the changes because of pressure from its banking and payment provider partners, though a BBC investigation found that the company had been lenient on creators who had posted illegal content.
+<a href='https://www.theverge.com/2021/8/19/22632797/onlyfans-prohibit-sexually-explicit-content-porn-creators'> Source <a/>
