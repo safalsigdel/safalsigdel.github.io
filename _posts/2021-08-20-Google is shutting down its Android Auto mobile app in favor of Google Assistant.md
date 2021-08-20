@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XnP_nn4KAwofYUtOfbBsrK_x_Q8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69751812/acastro_180413_1777_android_0001.0.jpg' width='700px' /><br/>
+Google has confirmed it's shutting down the standalone “Android Auto for Phone Screens” app with Android 12. Instead, anyone who wants a driving-friendly interface for their Android phone should use the Google Assistant driving mode, which is available within Google Maps, or the native Android Auto interface available in select cars.
+<a href='https://www.theverge.com/2021/8/20/22633755/google-android-auto-for-phone-screens-shutting-down-android-12-google-assistant-driving-mode'> Source <a/>
