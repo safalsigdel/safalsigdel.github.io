@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/77u5LKPsUxk-Q-YUG6j4lwiE3II=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69751569/jporter_210816_4716_0001.0.jpg' width='700px' /><br/>
+When it comes to mechanical keyboards, you generally have the option of playing it safe with a major brand like Corsair or Razer, or buying from smaller enthusiast manufacturers with more interesting designs and often more affordable prices.
+<a href='https://www.theverge.com/22632285/epomaker-ak84s-review-wireless-bluetooth-keyboard-75-percent'> Source <a/>
