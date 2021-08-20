@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VLEMa7XH8trLGrZJeMWwbsWfprs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69751420/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
+Apple is delaying its mandatory return to offices until at least January 2022, citing a surge in COVID-19 cases. The company will give employees a month's notice before they have to return to in-person work.
+<a href='https://www.theverge.com/2021/8/20/22633616/apple-delays-mandatory-office-return-january-covid-surge'> Source <a/>
