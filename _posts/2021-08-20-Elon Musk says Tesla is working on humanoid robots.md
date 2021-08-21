@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AFqQr3L0k1sDT7seKnrNRO3OyR4=/0x0:1290x746/1200x800/filters:focal(542x270:748x476)/cdn.vox-cdn.com/uploads/chorus_image/image/69751137/Screen_Shot_2021_08_19_at_9.06.39_PM.0.png' width='700px' /><br/>
-Tesla CEO Elon Musk says his company is working on a humanoid robot and that it will build a prototype “sometime next year.” The humanoid robot will leverage Tesla's experience with automated machines in its factories, as well as some of the hardware and software that powers the company's Autopilot driver assistance software.
-<a href='https://www.theverge.com/2021/8/19/22633514/tesla-robot-prototype-elon-musk-humanoid-ai-day'> Source <a/>

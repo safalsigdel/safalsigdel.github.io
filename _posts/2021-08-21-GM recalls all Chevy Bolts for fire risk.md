@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nzdr2-PTnkFzHwijqGCwiykUQ_8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69755323/akrales_170313_1481_A_0019.0.jpg' width='700px' /><br/>
+General Motors is expanding its recall of the Chevy Bolt to include all models — including the two new versions released earlier this year — after multiple fires in the electric vehicle's battery packs caused by defects in the LG Chem cells found inside.
+<a href='https://www.theverge.com/2021/8/20/22634721/gm-recall-chevrolet-bolt-battery-fire-fix-problems'> Source <a/>

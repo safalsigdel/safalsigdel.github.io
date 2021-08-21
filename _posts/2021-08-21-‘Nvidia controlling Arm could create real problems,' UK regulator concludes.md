@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EK1TR3v3eKkaqOav3WvGp-qfG1Q=/0x0:2000x1334/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69754620/NVIDIA_Endeavor_building_logo.0.jpg' width='700px' /><br/>
+Remember when Nvidia's CEO warned yesterday that buying Arm might take “longer than initially thought,” but that it was no big deal and “not one particular delay”? It sure sounds like a big deal as of today: on Friday, the UK's Competition and Markets Authority (CMA) has recommended a Phase 2 investigation, because it's worried that Nvidia would be incentivized to stifle innovation.
+<a href='https://www.theverge.com/2021/8/20/22634379/nvidia-arm-aquisition-delay-uk-phase-2-investigation'> Source <a/>

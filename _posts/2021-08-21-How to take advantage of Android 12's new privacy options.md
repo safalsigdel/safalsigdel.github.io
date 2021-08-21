@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nfoes0f6JCqlNps7Mxwpvl7Rrkw=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69754581/VRG_1777_Android_12_002.0.jpg' width='700px' /><br/>
+Privacy is probably one of the biggest buzzwords in tech these days, and even the data-loving Google is getting in on the action.
+<a href='https://www.theverge.com/22634128/privacy-android-12-dashboard-apps-sensors'> Source <a/>

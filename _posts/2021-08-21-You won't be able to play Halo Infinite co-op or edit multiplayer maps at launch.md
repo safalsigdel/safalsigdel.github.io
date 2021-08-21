@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MMCxY3iDurfLfm8WBqa2_JOUMKQ=/0x0:1376x728/1200x800/filters:focal(578x254:798x474)/cdn.vox-cdn.com/uploads/chorus_image/image/69754566/bbe15939_a7a9_41cb_9010_a9f8e0a30adf.0.jpeg' width='700px' /><br/>
+Halo Infinite is set to release this holiday season, but at launch, you won't be able to play the campaign mode cooperatively with your friends or edit multiplayer levels in Forge mode, developer 343 Industries announced Friday.
+<a href='https://www.theverge.com/2021/8/20/22634448/halo-infinite-co-op-campaign-forge-delay-launch'> Source <a/>

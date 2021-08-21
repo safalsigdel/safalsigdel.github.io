@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w5NgS33Fsp3SQxCs1HXozmgClRM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69749291/wjoel_180413_1777_android_002.0.jpg' width='700px' /><br/>
-Google quietly paid game developers hundreds of millions of dollars in incentives to keep their games on the Play Store, a newly unredacted complaint from Epic Games in its antitrust suit against Google alleges. The program was known as “Project Hug,” or later as the “Apps and Games Velocity Program.”
-<a href='https://www.theverge.com/2021/8/19/22632818/google-project-hug-game-developers-play-store-millions-epic-lawsuit-complaint'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QA4sgaoEVu0BiAwMxBxsIweMRUQ=/0x0:1850x1024/1200x800/filters:focal(774x366:1070x662)/cdn.vox-cdn.com/uploads/chorus_image/image/69750376/Screen_Shot_2021_08_19_at_1.40.11_PM.0.png' width='700px' /><br/>
-AT&T TV and its defunct AT&T TV Now sibling will officially become DirecTV Stream, a new unified service spun out of a deal between TPG Capital and AT&T for the telecommunication giant's streaming properties.
-<a href='https://www.theverge.com/2021/8/19/22633094/att-tv-directv-stream-august-26'> Source <a/>

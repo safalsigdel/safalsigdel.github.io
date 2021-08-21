@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mS9ig7U-lFSHsud2Ga5XIwEZc4k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69749435/acastro_170731_1777_0006_v2.0.jpg' width='700px' /><br/>
-Apple products are often leaked because they're immensely popular, the company is protective of its plans, and people are willing to pay for just about any information on a new product. A new must-read report from Motherboard shows that not everyone selling Apple leaks is on the up-and-up, and not because of the information they're peddling. Some leakers are working for Apple.
-<a href='https://www.theverge.com/2021/8/19/22632712/apple-leaks-double-agent-ios14-global-security'> Source <a/>

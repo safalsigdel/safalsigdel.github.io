@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZMiAB_hci7C1FRxfTsF1WwXX6aI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69755978/akrales_201012_4137_0010.0.0.jpg' width='700px' /><br/>
+Amidst the news of a new Pixel phone this week, Google quietly indicated that it's the end of the road for two other Pixel devices: the Pixel 4A 5G and the Pixel 5. Both are currently listed on Google's online store as sold out, and remaining stock at other retailers likely won't last long. A company spokesperson offered the following statement:
+<a href='https://www.theverge.com/2021/8/20/22634926/google-pixel-5-discontinued'> Source <a/>

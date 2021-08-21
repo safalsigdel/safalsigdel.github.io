@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GN6TL5izRdwrebY_zX2nQcp8XhQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69750870/dseifert_4711_samsung_z_flip_3_4.0.jpg' width='700px' /><br/>
-Samsung's new foldables are quite impressive, and the company has focused on making them as durable as possible — but sometimes, accidents happen. We asked Samsung how much it would cost to replace a Z Flip or Z Fold 3's screen should something happen to it, and here's what the company told us.
-<a href='https://www.theverge.com/2021/8/19/22633039/samsung-galaxy-z-fold-flip-3-screen-repair-prices-fix'> Source <a/>
