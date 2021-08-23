@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XgdS__9siUJ1sH22K6HjahzyRqc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69755573/acastro_200227_1777_onlyfans_0001.0.jpg' width='700px' /><br/>
-On Thursday the video and image sharing site OnlyFans announced plans to ban “sexually-explicit content” starting October 1st. While we're still not sure exactly why it's changing so drastically, it just sent out an updated Terms of Service policy to the creators who've built the site detailing exactly what won't be allowed going forward.
-<a href='https://www.theverge.com/2021/8/20/22634785/onlyfans-new-terms-of-service-policy-banning-sex-masturbation'> Source <a/>
