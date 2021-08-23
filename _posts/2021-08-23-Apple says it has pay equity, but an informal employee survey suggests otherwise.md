@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QcrSO18K4LGqelC_ArwnanfPiok=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69764125/acastro_210429_1777_epicApple_0002.0.jpg' width='700px' /><br/>
+An early analysis of the informal Apple pay equity survey shows a six percent wage gap between the salaries of men and women, according to software engineer Cher Scarlett. It's similar to the gender wage gap in San Francisco, which hovers around five percent, but disappointing for a company that claims people of all genders “earn the same when engaging in similar work with comparable experience and performance.”
+<a href='https://www.theverge.com/2021/8/23/22633141/apple-pay-equity-survey-results-wage-gap'> Source <a/>
