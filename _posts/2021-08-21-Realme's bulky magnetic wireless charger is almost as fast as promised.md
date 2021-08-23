@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jgqiFAURNeOAbxJ45zOpXQtYC14=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69751723/DSCF7747.0.jpg' width='700px' /><br/>
-Earlier this month Realme launched MagDart, its MagSafe-a-like ecosystem of magnetic wireless charging products. The headline device is a 50W brick that Realme professes to be the fastest magnetic wireless charger in the world — it's supposed to be able to charge a 4,500mAh battery from 0 to 100 percent in 54 minutes.
-<a href='https://www.theverge.com/2021/8/20/22633722/realme-flash-magdart-magnetic-wireless-charging-time-test'> Source <a/>

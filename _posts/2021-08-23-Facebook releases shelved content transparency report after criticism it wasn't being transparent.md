@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hhTKM5IJuxSGv2RHk59hexyUcNM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69759943/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
+Facebook released a report (.pdf) late Saturday about its most-viewed posts in the first quarter of 2021 that it had initially shelved reportedly because it made the company look bad.
+<a href='https://www.theverge.com/2021/8/22/22636508/facebook-releases-shelved-content-transparency-report-content-coronavirus'> Source <a/>
