@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uN8FTYD3mSCNEIsUAN5to1i1W6E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69753830/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook's head of security policy said the company is putting into place security measures for users in Afghanistan, including hiding “friends” lists and adding a tool to quickly lock down accounts. Nathaniel Gleicher said in a thread on Twitter that Facebook made the changes based on feedback from activists, journalists, and civil society groups.
-<a href='https://www.theverge.com/2021/8/20/22634209/facebook-hides-friends-lists-instagram-safety-afghanistan-taliban-security'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UFhCI_A0hfbF2TQPrup0DvAGtsU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69762522/vpavic_4278_20201030_0292.0.jpg' width='700px' /><br/>
+Sony has quietly launched a revised PS5 model in Australia. Press Start, an Australian-based gaming site, reports that the revised PS5 models include a new screw for the base stand that no longer requires a screwdriver. Sony reportedly swapped in a new screw with a grip around the top so it can be easily adjusted by hand.
+<a href='https://www.theverge.com/2021/8/23/22637524/sony-new-ps5-model-revision-lighter-screwdriver-stand-base-features'> Source <a/>

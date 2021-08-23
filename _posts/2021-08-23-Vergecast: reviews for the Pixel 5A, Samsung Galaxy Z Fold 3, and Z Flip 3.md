@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cDozfgfmXjtMn8KfpxNYEaks9Kc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69753649/dseifert_4711_samsung_z_flip_3_5.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where co-hosts Nilay Patel and Dieter Bohn discuss the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/2021/8/20/22633953/review-google-pixel-5a-samsung-galaxy-z-flold-flip-vergecast-podcast-463'> Source <a/>
