@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/DHVW2jLLXhnCsFCGHyq_BGcPI04=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69765011/acastro_170731_1777_0006_v2.0.jpg' width='700px' /><br/>
 Apple employee organizing took another step this morning with the launch of a website called AppleToo. The goal is to collect stories from workers at all levels of the organization who've experienced harassment or discrimination.
+<a href='https://www.theverge.com/2021/8/23/22638150/apple-appletoo-employee-harassment-discord'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/DHVW2jLLXhnCsFCGHyq_BGcPI04=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69765011/acastro_170731_1777_0006_v2.0.jpg' width='700px' /><br/>
+Apple employee organizing took another step this morning with the launch of a website called AppleToo. The goal is to collect stories from workers at all levels of the organization who've experienced harassment or discrimination.
 <a href='https://www.theverge.com/2021/8/23/22638150/apple-appletoo-employee-harassment-discord'> Source <a/>
