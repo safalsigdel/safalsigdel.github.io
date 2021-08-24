@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ms6HJVmTEAspSTvfVPIZBg5OKKw=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/69763689/Ted_Lasso_Photo_020106.0.jpg' width='700px' /><br/>
-T-Mobile has announced a new promotional perk for its customers: starting on August 25th, both new and existing subscribers to its Magenta and Magenta Max plans can get a year's subscription to Apple TV Plus.
-<a href='https://www.theverge.com/2021/8/23/22637797/tmobile-free-apple-tv-plus-12-months-magenta-plans'> Source <a/>

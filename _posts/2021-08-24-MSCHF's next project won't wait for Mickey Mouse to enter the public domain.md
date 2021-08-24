@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7Rd2unsIontKkY5RAyVT8QsZmqk=/0x0:1378x1048/1200x800/filters:focal(581x95:801x315)/cdn.vox-cdn.com/uploads/chorus_image/image/69763839/1137227018.0.jpg' width='700px' /><br/>
-After prodding Nike with a Lil Nas X collaboration for “Satan Shoes” and memorializing iconic failed startups as toys, the internet collective MSCHF is aiming bigger and further out with its next drop.
-<a href='https://www.theverge.com/2021/8/23/22637850/mickey-mouse-mschf-copyright-disney-public-domain'> Source <a/>

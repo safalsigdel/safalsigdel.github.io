@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9667/dbohn_210820_4722_0003sq.jpg' width='700px' /><br/>
+The Galaxy Z Fold 3 is the best possible case Samsung can make for a phone that unfolds into a small tablet. It's the fourth iteration of the same basic idea, refined and repaired over the course of years following an embarrassing false-start failure on the first attempt.
+<a href='https://www.theverge.com/22638257/samsung-galaxy-z-fold-3-review'> Source <a/>
