@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3SNXimq28wPBIhS7r1Fh5O6ME4c=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69767984/VRG_ILLO_Decoder_Doug_DeMuro_s.0.jpg' width='700px' /><br/>
+Today I'm talking to Doug DeMuro, one of my all-time favorite YouTubers. Doug's channel is real simple: he reviews cars. New cars, old cars, weird cars: he drives them, pushes all the buttons, and tells you about their quirks and features, a phrase that is now inextricably linked to Doug in the car community.
+<a href='https://www.theverge.com/22637871/doug-demuro-car-reviews-youtube-decoder-interview'> Source <a/>

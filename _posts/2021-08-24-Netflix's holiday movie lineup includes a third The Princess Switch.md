@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_5XqppLXHmanGvKQv8dlv2F2xkM=/0x0:1155x782/1200x800/filters:focal(486x299:670x483)/cdn.vox-cdn.com/uploads/chorus_image/image/69764587/Screen_Shot_2021_08_23_at_9.22.33_AM.0.png' width='700px' /><br/>
-Netflix has released a lot of information about its movie lineup through the end of the year, including details of its holiday slate of films. If you love cheesy holiday movies, it seems like Netflix will have you covered this year.
-<a href='https://www.theverge.com/2021/8/23/22638003/netflix-fall-winter-holiday-movie-lineup-third-the-princess-switch-3'> Source <a/>

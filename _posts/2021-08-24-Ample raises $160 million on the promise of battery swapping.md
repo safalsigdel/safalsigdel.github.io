@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JW1dYEPBzpiW_GKHJffSmhXfDpw=/0x0:2400x1602/1200x800/filters:focal(1008x609:1392x993)/cdn.vox-cdn.com/uploads/chorus_image/image/69764273/Ample_Car_lifted_and_battery_being_swapped.0.jpg' width='700px' /><br/>
-Battery swapping has long been a dream solution for the infrastructure problem standing in the way of wide electric vehicle adoption. Tesla famously tried but then abandoned the idea half a decade ago. But now a startup called Ample has raised $160 million to try to make it work — first for commercial vehicles, then maybe passenger cars and SUVs.
-<a href='https://www.theverge.com/2021/8/23/22634461/ample-battery-swapping-electric-vehicles'> Source <a/>
