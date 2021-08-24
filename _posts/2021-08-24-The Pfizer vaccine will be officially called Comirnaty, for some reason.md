@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-With official Food and Drug Administration approval, the Pfizer / BioNTech mRNA COVID-19 vaccine can now be marketed as Comirnaty in the US, great news for general vaccine acceptance, sure, but also anyone who loves to fixate on bizarre drug names.
-<a href='https://www.theverge.com/tldr/2021/8/23/22637955/spikevax-moderna-comirnaty-pfizer-fda-approval-names'> Source <a/>
