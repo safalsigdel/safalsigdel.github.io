@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1xKouKJQm5m4GXCyfMuGn8_fRfk=/0x0:5327x3551/1200x800/filters:focal(1512x1741:2364x2593)/cdn.vox-cdn.com/uploads/chorus_image/image/69763559/1333540386.0.jpg' width='700px' /><br/>
-Richard Branson's Virgin Orbit, a satellite-launching spinoff of the billionaire founder's space tourism firm, is going public through a merger with a shell company, the firm announced on Monday. The company will be valued at $3.2 billion and includes an investment from Boeing.
-<a href='https://www.theverge.com/2021/8/23/22637711/richard-branson-virgin-orbit-public-spac-satellite-launch'> Source <a/>
