@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n-I2DRpgyOCm-uqtmvqMLA6lXw8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69769613/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
+TikTok announced it's piloting a new in-app shopping experience on Tuesday as part of its ongoing partnership with Shopify (via The New York Times). TikTok Shopping allows select merchants from the US, Canada, and the UK to use a new shopping tab and product links to sell products from Shopify storefronts.
+<a href='https://www.theverge.com/2021/8/24/22639512/tiktok-shopify-shopping-tab-product-links-e-commerce'> Source <a/>
