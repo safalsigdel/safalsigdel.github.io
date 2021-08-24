@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/3K_TB23ksXMem1zSRTOQUnw8Z0w=/0x0:2040x1360/1200x800/filters:focal(825x12:1151x338)/cdn.vox-cdn.com/uploads/chorus_image/image/69767366/DSCF5652.0.jpg' width='700px' /><br/>
 Xiaomi is phasing out its “Mi” product branding, a spokesperson tells The Verge. Products including flagship smartphones like this year's Mi 11 will instead simply carry the Xiaomi name. The news was first reported by XDA Developers.
+<a href='https://www.theverge.com/2021/8/24/22639020/xiaomi-mi-brand-ending-mix-4-confirmed'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/3K_TB23ksXMem1zSRTOQUnw8Z0w=/0x0:2040x1360/1200x800/filters:focal(825x12:1151x338)/cdn.vox-cdn.com/uploads/chorus_image/image/69767366/DSCF5652.0.jpg' width='700px' /><br/>
+Xiaomi is phasing out its “Mi” product branding, a spokesperson tells The Verge. Products including flagship smartphones like this year's Mi 11 will instead simply carry the Xiaomi name. The news was first reported by XDA Developers.
 <a href='https://www.theverge.com/2021/8/24/22639020/xiaomi-mi-brand-ending-mix-4-confirmed'> Source <a/>
