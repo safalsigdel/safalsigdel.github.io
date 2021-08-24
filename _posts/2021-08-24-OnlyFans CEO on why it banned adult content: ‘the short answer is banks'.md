@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TiucQQ86o7aB7bunxQn6KbxFZN8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69768585/acastro_200227_1777_onlyfans_0001.0.jpg' width='700px' /><br/>
+OnlyFans founder and CEO Tim Stokely says banks were behind the online fundraising platform's recent ban on sexually explicit content. “The change in policy, we had no choice — the short answer is banks,” Stokely told the Financial Times in an interview published today.
+<a href='https://www.theverge.com/2021/8/24/22639356/onlyfans-ceo-tim-stokely-sexually-explicit-content-ban-banks'> Source <a/>
