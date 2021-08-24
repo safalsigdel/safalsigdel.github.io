@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/mI5UQJB0PEM_OZZDhVJqCAcgJy4=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69767973/VRG_1777_Android_12_003.0.jpg' width='700px' /><br/>
 One of the first things you might notice when you get Android 12 on your phone is that a standout Android feature is no longer where you expect it.
-<a href='https://www.theverge.com/22638325/android-12-device-control-panel-google-how-to'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/mI5UQJB0PEM_OZZDhVJqCAcgJy4=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69767973/VRG_1777_Android_12_003.0.jpg' width='700px' /><br/>
-One of the first things you might notice when you get Android 12 on your phone is that a standout Android feature is no longer where you expect it.
 <a href='https://www.theverge.com/22638325/android-12-device-control-panel-google-how-to'> Source <a/>
