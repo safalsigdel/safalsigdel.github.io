@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yks1gzM9J8pb5WS4_-sRIJLsVik=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69764906/acastro_190919_1777_instagram_0001.0.5.jpg' width='700px' /><br/>
-The swipe-up will be no more. Instagram is planning to retire the feature, which allows people to visit external webpages by swiping up, starting August 30th, according to a notification viewed by The Verge and confirmed by Instagram. Instead of the swipe-up link, Instagram says people will be able to use link stickers, which are exactly as they sound: tappable stickers in stories that take people to external websites.
-<a href='https://www.theverge.com/2021/8/23/22638222/instagram-swipe-up-link-sticker-roll-out'> Source <a/>
