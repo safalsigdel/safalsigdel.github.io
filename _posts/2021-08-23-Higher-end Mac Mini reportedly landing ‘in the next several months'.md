@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1D7wEB6Z7O2l5vtSfcGz2ilqTWY=/0x0:2040x1360/1200x800/filters:focal(486x502:812x828)/cdn.vox-cdn.com/uploads/chorus_image/image/69762378/cwelch_201114_4292_0006.0.0.jpg' width='700px' /><br/>
-Apple is planning a new model of the Mac Mini that will replace the pro-focused Intel-based model it still sells, according to Bloomberg reporter Mark Gurman's Power On newsletter. A “high-end, M1X Mac Mini” is expected “in the next several months,” and is said to have “an updated design and more ports than the current model.”
-<a href='https://www.theverge.com/2021/8/23/22637477/new-mac-mini-design-ports-m1x-release-date-gurman'> Source <a/>

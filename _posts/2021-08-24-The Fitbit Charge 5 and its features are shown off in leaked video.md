@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GNRkbGyYGPKB6cE6W75gJxx-b58=/0x0:2880x1602/1200x800/filters:focal(471x538:931x998)/cdn.vox-cdn.com/uploads/chorus_image/image/69765896/Screen_Shot_2021_08_23_at_1.12.21_PM.0.png' width='700px' /><br/>
+A leaked video seems to show off the rumored Fitbit Charge 5, just over a week after we saw renders of it hit the internet. The video shows off some of the features of the new wearable, including daily readiness and stress management scores, as well as ECG capabilities. The leaker also reveals that the device will cost $179.
+<a href='https://www.theverge.com/2021/8/23/22638452/fitbit-charge-5-leak-features-premium-fitness-tracker'> Source <a/>

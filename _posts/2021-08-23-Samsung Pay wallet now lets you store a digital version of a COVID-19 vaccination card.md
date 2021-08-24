@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f7ErfuptHk319YJ_XUGGrGD5AHE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69758363/acastro_190503_1777_samsung_0004.0.0.jpg' width='700px' /><br/>
-Samsung devices that support Samsung Pay can now store digital versions of users' COVID-19 vaccination cards, through a partnership with healthcare nonprofit The Commons Project, the smartphone company announced.
-<a href='https://www.theverge.com/2021/8/21/22635740/samsung-pay-wallet-digital-covid-vaccination-proof'> Source <a/>

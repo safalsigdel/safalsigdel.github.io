@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P3JqnGNxaSaZcxgkBt-TFaYcntI=/0x0:5055x3791/1200x800/filters:focal(2124x1492:2932x2300)/cdn.vox-cdn.com/uploads/chorus_image/image/69765475/KTqHw5sPOfPaw4qw.0.jpeg' width='700px' /><br/>
+The Playdate is one of the most interesting pieces of new gaming hardware in years, with a fun, colorful design that evokes old handhelds like the Game Boy and a unique crank for interacting with games.
+<a href='https://www.theverge.com/2021/8/23/22638347/panic-playdate-ifixit-teardown-crank-parts'> Source <a/>

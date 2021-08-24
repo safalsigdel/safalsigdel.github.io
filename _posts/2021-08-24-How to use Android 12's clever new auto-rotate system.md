@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F8au8eeBQ4DD57u8pHv5GwRc564=/0x0:620x413/1200x800/filters:focal(261x158:359x256)/cdn.vox-cdn.com/uploads/chorus_image/image/69764904/VRG_1777_Android_12_001.5.0.jpg' width='700px' /><br/>
+Google's upcoming Android 12 update has plenty of eye-catching features, but don't let yourself be fooled: sometimes, it's the smaller, less obvious elements that are most deserving of your attention.
+<a href='https://www.theverge.com/22634339/android-12-auto-rotate-google-how-to'> Source <a/>

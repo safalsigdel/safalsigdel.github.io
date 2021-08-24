@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hpMDXU21hDd3ZzhxZW6T0ydp-cc=/0x0:1890x1417/1200x800/filters:focal(794x558:1096x860)/cdn.vox-cdn.com/uploads/chorus_image/image/69762687/simpsons_tv_hero.0.jpg' width='700px' /><br/>
-Reddit user buba447 has created an iconic Simpsons TV with working dials that plays episodes of the long-running animated sitcom whenever it's turned on.
-<a href='https://www.theverge.com/2021/8/23/22637549/diy-simpsons-tv-raspberry-pi-3d-printing'> Source <a/>

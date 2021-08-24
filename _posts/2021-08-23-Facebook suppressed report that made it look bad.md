@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/weVEUaAJwu7TKySg4lIhaiuYcZI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69755808/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-On Wednesday, Facebook released a report about what content was most viewed by people in the US last quarter. It was the first time it had released such a report. But according to The New York Times, Facebook was working on a similar report for the first quarter of 2021 that it opted not to share because it might have reflected poorly on the company.
-<a href='https://www.theverge.com/2021/8/20/22634841/facebook-most-viewed-content-report-look-bad'> Source <a/>

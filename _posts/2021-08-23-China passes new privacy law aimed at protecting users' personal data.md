@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ezJKZG4l3F7HEw8x4PfpFnUohVw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69757534/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
-China has passed a new privacy law aimed at protecting users' personal data, state media reported. The new law comes as Chinese tech firms have come under renewed scrutiny in the country, and sets rules around how companies handle users' information. The law takes effect on November 1st.
-<a href='https://www.theverge.com/2021/8/21/22635404/china-privacy-law-protect-users-personal-data'> Source <a/>

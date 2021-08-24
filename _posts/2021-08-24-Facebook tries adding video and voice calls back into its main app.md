@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D5ZAmpxu6Kh9_hCU7bfMQAuoHlQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69766293/acastro_180522_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook is testing adding voice and video calls to the main Facebook app, Bloomberg reports. The features are currently part of the standalone Messenger app, which Facebook originally spun out of its big blue main app in 2011 and officially removed in 2014.
+<a href='https://www.theverge.com/2021/8/23/22638530/facebook-messenger-video-voice-calls-back-main-app'> Source <a/>
