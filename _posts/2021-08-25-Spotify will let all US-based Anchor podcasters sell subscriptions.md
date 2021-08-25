@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lvFNSX06aUFhfFn7QLtZTvQDTvg=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69768014/Pod_subs_blog_inline_02.0.png' width='700px' /><br/>
-Spotify is broadening the number of people who can offer subscription podcasts and have their shows play on its service. Today, the company announced that all US-based podcasters can use Anchor, its podcast creation and distribution platform, to sell subscriptions for exclusive episodes that'll be available both through a private RSS feed and within the Spotify app, which doesn't otherwise support private shows over RSS.
-<a href='https://www.theverge.com/2021/8/24/22638529/spotify-anchor-subscriptions-in-app-launch-us'> Source <a/>

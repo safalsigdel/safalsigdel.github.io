@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w2Fz3ykq5gsG-MXaU_sa5lR1ir0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69772480/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
+In June, YouTube announced it would be bringing picture-in-picture to iOS. Now, it seems the much-demanded feature is finally available, though perhaps for a limited time only and only for YouTube Premium subscribers currently. Here's how to get it.
+<a href='https://www.theverge.com/2021/8/25/22640827/youtube-picture-in-picture-mode-how-to-enable-premium-ios-iphone'> Source <a/>
