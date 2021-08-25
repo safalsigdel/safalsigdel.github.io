@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UFPqdTPNUI6bAIIoj3AhU_i1wpU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69769049/akrales_200904_4160_0265.0.0.jpg' width='700px' /><br/>
-You can now buy the Oculus Quest 2 again following a nearly monthlong pause in sales to outfit the headsets with new silicone covers.
-<a href='https://www.theverge.com/2021/8/24/22639523/oculus-quest-2-pause-sale-recall-base-model-storage'> Source <a/>
