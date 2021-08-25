@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t8YFSFEKXrsOxfDc24uNOxDHmFU=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/69773569/twarren_20210601_4611_0009.0.jpg' width='700px' /><br/>
+Nvidia's RTX 30-series graphics cards are next to impossible to find in stock, but Best Buy is offering PC gamers an opportunity to buy one on Thursday, August 26th. Select store locations will have stock, and if you find your local store on this page by using the drop-down options, it'll be among the locations getting some GPUs for Thursday's restock.
+<a href='https://www.theverge.com/2021/8/25/22640982/best-buy-nvidia-rtx-30-gpu-ti-graphics-cards-restock'> Source <a/>
