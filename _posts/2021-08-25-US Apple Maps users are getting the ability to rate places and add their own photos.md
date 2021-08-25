@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZK65FuVKeKsDZ_TrfUwTR0yR684=/0x0:1125x1997/1200x800/filters:focal(477x1066:657x1246)/cdn.vox-cdn.com/uploads/chorus_image/image/69769464/Image_from_iOS.0.jpg' width='700px' /><br/>
-Apple Maps' built-in ratings and photos system is rolling out to the US and Canada, letting users add their own information to points of interest on the map (via MacRumors). The system uses a thumbs up / thumbs down rating, and currently exists alongside Apple Maps' existing integrations like Yelp, Tripadvisor, and Foursquare.
-<a href='https://www.theverge.com/2021/8/24/22638723/apple-maps-ratings-photos-us-rollout-ios-yelp'> Source <a/>
