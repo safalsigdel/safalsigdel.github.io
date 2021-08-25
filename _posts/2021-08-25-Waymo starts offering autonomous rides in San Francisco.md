@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nUEFHVnfwV0nyNsl1TUyinidY-I=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/69768968/vpavic_4412_20210111_0004.0.jpg' width='700px' /><br/>
-Waymo is going to start shuttling a wider group of passengers around in its autonomous vehicles in San Francisco, California — though they'll have to sign nondisclosure agreements, and there still will be a human safety driver behind the wheel.
-<a href='https://www.theverge.com/2021/8/24/22639226/waymo-san-francisco-rides-self-driving-service'> Source <a/>

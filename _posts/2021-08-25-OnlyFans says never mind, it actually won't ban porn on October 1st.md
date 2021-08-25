@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w8CQOq30FiACqyEL7Dpd8okOLCg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69773046/acastro_200227_1777_onlyfans_0001.0.jpg' width='700px' /><br/>
+In an abrupt tweet, video and image sharing site OnlyFans announced a reversal of the shocker announcement that it would ban sexually explicit content. According to the company, “We have secured assurances necessary to support our diverse creator community and have suspended the planned October 1 policy change. OnlyFans stands for inclusion and we will continue to provide a home for all creators.”
+<a href='https://www.theverge.com/2021/8/25/22640988/onlyfans-no-ban-porn-sexually-explicit-content-creators'> Source <a/>
