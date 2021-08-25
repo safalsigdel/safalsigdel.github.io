@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FN-un8fQ9XvLVqn_sjk_WSEjp0M=/0x0:865x563/1200x800/filters:focal(364x213:502x351)/cdn.vox-cdn.com/uploads/chorus_image/image/69770425/WalmartGoLocal.0.png' width='700px' /><br/>
+Walmart plans to offer its logistics and delivery services to other companies as part of a new last-mile delivery business, the company announced on Monday. The service, called Walmart GoLocal, hopes to serve as a white label delivery offering for businesses big and small, and yet another way for Walmart to try to edge out Amazon.
+<a href='https://www.theverge.com/2021/8/24/22639778/walmart-golocal-delivery-service-small-business-drones'> Source <a/>

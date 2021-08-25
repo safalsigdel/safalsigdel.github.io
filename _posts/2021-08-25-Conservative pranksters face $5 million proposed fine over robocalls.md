@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R4TDlUaZIE5nm5KmrmK4G73rmow=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69771063/DSCF2964.0.jpg' width='700px' /><br/>
+On Tuesday, the Federal Communications Commission proposed an over $5 million fine against conspiracy theorists and conservative activists John Burkman and Jacob Wohl for making hundreds of robocalls spreading 2020 election misinformation.
+<a href='https://www.theverge.com/2021/8/24/22640239/fcc-jacob-wohl-burkman-election-robocalls-fine'> Source <a/>

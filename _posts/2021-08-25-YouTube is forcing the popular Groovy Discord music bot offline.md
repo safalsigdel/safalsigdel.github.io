@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TR0qAzFED_spqhRm8qCCG3um7Dg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69770730/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
+Google-owned YouTube is starting to crack down on Discord music bots. The search giant has sent a cease and desist to the owners of the popular Groovy Bot, which lets Discord users play music from YouTube videos and is installed on more than 16 million Discord servers. Google wants the service gone within seven days, and Groovy is complying by shutting down its bot on August 30th.
+<a href='https://www.theverge.com/2021/8/24/22640024/youtube-discord-groovy-music-bot-closure'> Source <a/>

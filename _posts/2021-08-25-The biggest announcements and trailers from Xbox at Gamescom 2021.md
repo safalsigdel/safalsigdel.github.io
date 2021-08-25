@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y-j6tx8Gr9_FmG-P42_W7jZ2ioY=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69770055/MFS_Volocopter.0.jpg' width='700px' /><br/>
+Microsoft had a good showing at this year's iteration of E3, and the company returned to show off its upcoming slate of games at Gamescom 2021. There were the usual suspects — like Forza and Flight Simulator — along with a few surprises like cloud streaming coming to Xbox consoles. (Curiously, Halo Infinite did not make an appearance.) And the company continues to put a big focus on its Game Pass subscription service.
+<a href='https://www.theverge.com/2021/8/24/22638193/xbox-gamescom-2021-news-trailers-flight-sim-forza'> Source <a/>

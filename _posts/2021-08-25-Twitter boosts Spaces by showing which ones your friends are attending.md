@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zXp8cMIpJVwtyGwKg3zTtNrWSvs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69770850/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Twitter is experimenting with a way to make it easier to find Spaces that you might be interested in. Some users on iOS or Android will now see if someone they follow is listening in on a Space right at the top of their timelines, according to the Spaces Twitter account.
+<a href='https://www.theverge.com/2021/8/24/22640097/twitter-spaces-attending-listening-follow-top-of-feed'> Source <a/>

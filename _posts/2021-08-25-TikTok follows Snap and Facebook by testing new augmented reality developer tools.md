@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tX8JydeGlDszvwh4E9NyZCgThB8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69767400/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-TikTok is testing an experimental set of developer tools that might one day let creators build augmented reality effects for the popular app.
-<a href='https://www.theverge.com/2021/8/24/22639081/tiktok-effects-house-studio-private-beta-launch'> Source <a/>
