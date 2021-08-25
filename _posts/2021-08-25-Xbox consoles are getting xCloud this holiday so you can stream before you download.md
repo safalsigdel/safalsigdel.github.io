@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Vm5sjDZwFCRCL99hTH15HZnqvWM=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22802296/Play___Minecraft_Dungeons.png' width='700px' /><br/>
-Microsoft its bringing its Xbox Cloud Gaming (xCloud) service to Xbox One and Xbox Series S / X consoles this holiday. The integration of xCloud will let Xbox owners simply click play on an Xbox Game Pass game and stream it immediately, allowing players to try games before they commit to the often hourslong process of downloading big titles.
-<a href='https://www.theverge.com/2021/8/24/22639221/xbox-xcloud-cloud-gaming-integration-try-download-feature-holiday-2021'> Source <a/>
