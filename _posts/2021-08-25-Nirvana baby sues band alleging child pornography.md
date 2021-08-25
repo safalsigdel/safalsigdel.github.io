@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cGohjmLvxeKxjfJiwuEMjem5IaE=/0x0:3380x2320/1200x800/filters:focal(1420x890:1960x1430)/cdn.vox-cdn.com/uploads/chorus_image/image/69772663/124872495.0.jpg' width='700px' /><br/>
+The iconic nude baby photographed for the cover of Nirvana's Nevermind album is all grown up and suing the band, alleging the image violates child pornography laws. Spencer Elden, now 30, is seeking $150,000 from each of 17 named defendants, including record executives, Nirvana band members, and Courtney Love, the former wife and executor of Kurt Cobain's estate, according to Variety.
+<a href='https://www.theverge.com/2021/8/25/22640898/nirvana-baby-sues-child-pornography-spencer-elden'> Source <a/>
