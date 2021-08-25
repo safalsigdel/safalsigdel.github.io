@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FMVzCguhGNYjv7F7JL0MY9WgXYI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69769094/acastro_200320_1777_huluStock_0002.0.0.jpg' width='700px' /><br/>
-Somehow, it is 2021 and Hulu is only just now adding HDR support — to some of its original shows and movies.
-<a href='https://www.theverge.com/2021/8/24/22639273/hulu-hdr-original-shows-movies-4k-picture-quality'> Source <a/>
