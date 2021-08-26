@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Capitalism is all about fairly distributing wealth based on hard work and personal merit, which is why Jeff Bezos earns in 20 seconds what the median US worker makes in a year. He's just that much better than you!
+<a href='https://www.theverge.com/tldr/2021/8/26/22642560/blue-origins-new-shephard-model-rocket-estes'> Source <a/>
