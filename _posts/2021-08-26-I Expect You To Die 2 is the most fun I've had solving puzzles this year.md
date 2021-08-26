@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ikSSHemam6Ib2h115x-83fdaoCo=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/69778384/PhoenixScreenshot__3840x2160_2021_01_26_02_27_50_PM_e0f619f1b3dcd04f53d6196ee895f74d.0.png' width='700px' /><br/>
+You're not really a secret agent until you put on a funny hat and fake mustache while you're trying to stop an evil conglomerate from filling a theater with poison gas. At least, that's what I Expect You To Die 2 posits, and I think it's about right.
+<a href='https://www.theverge.com/2021/8/26/22641497/i-expect-you-to-die-2-schell-games-oculus-quest-steamvr-playstation-vr-review'> Source <a/>
