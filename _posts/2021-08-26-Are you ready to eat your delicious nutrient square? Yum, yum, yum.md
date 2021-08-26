@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f71RpCXCITm3WIhyj7EdpnnmJQM=/0x0:1596x1212/1200x800/filters:focal(671x479:925x733)/cdn.vox-cdn.com/uploads/chorus_image/image/69777918/image.5.png' width='700px' /><br/>
+Slap bang in the middle of a Venn diagram with two circles labelled “sincere tech startups” and “dystopian satires that are a little on the nose” you will find SquarEat: a company that you would swear is a joke if you weren't already familiar with how the simulation we're all living in likes to collide fact and fiction.
+<a href='https://www.theverge.com/2021/8/26/22642587/square-food-startup-squareat'> Source <a/>

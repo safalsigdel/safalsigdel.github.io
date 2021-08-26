@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ng9jFfgJ11EsbYCSMf60ihggPcw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69777719/VRG_ILLO_4687_NFT_Copycats.0.jpg' width='700px' /><br/>
+The first time Tom Williamson and Rob Mehew tried to make an NFT project, they landed on unicorns. Overweight unicorns, actually. Plump and slumped over, unable to stand up on their own four hooves, and illustrated in a chunky 16-bit art style. They called the project Faticorns, generated 10,000 of the creatures, and put them all on sale.
+<a href='https://www.theverge.com/2021/8/26/22639353/cool-cats-bayc-generative-nft-profile-avatar'> Source <a/>

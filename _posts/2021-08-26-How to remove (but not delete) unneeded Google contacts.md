@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zTBzOjycX07hspHfHerM385iAag=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69773669/acastro_210104_1777_google_0001.0.jpg' width='700px' /><br/>
-My friend (and occasional writer for The Verge) JR Raphael has a newsletter in which he recently wrote about cleaning up your Google Contacts list by deleting old and no-longer-wanted entries.
-<a href='https://www.theverge.com/22639735/google-contacts-delete-save-declutter-how-to'> Source <a/>
