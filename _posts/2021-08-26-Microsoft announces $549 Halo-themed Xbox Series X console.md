@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y0B0D4wVZEWqw-jZSijrUAho_Rg=/0x0:1920x774/1200x0/filters:focal(0x0:1920x774):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22805320/Halo_gamescom_Inline1.jpg' width='700px' /><br/>
+Microsoft's first custom Halo-branded Xbox Series X console will arrive on November 15th. The $549.99 console includes dark metallic paneling, gold accents, and a star pattern to match the Halo universe. It even powers on and off with custom Halo-themed sounds, and Microsoft has changed the top fan section of the Xbox Series X from a green color to blue.
+<a href='https://www.theverge.com/2021/8/25/22641632/microsoft-xbox-series-x-halo-console-elite-2-controller'> Source <a/>

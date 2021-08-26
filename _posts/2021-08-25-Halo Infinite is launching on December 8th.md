@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IRMQ_boVBPpuUOUCMhyFTbGxG6w=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69773044/halo_infinites_grappleshot_opens_up_the_game_in_a_major_way.original.0.jpg' width='700px' /><br/>
-Halo Infinite, the next game in Microsoft's long-running franchise, will launch on December 8th. The date appeared on the Microsoft Store today and will likely be officially confirmed later today during the opening of Gamescom. A source familiar with Microsoft's plans tells The Verge that December 8th is accurate.
-<a href='https://www.theverge.com/22637945/halo-infinite-release-date-launch'> Source <a/>

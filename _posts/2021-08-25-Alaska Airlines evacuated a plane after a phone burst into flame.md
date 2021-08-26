@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ak_Xfi_2iOxOR6nIKF233F5nuww=/0x0:1000x729/1200x800/filters:focal(420x285:580x445)/cdn.vox-cdn.com/uploads/chorus_image/image/69771585/2_210618_sunset_15.0.jpeg' width='700px' /><br/>
-A cell phone caught fire in the cabin of an Alaska Airlines flight that had landed in Seattle from New Orleans on Monday evening. The phone was a Samsung Galaxy A21, Perry Cooper, a spokesperson for the Port of Seattle, told The Seattle Times.
-<a href='https://www.theverge.com/2021/8/24/22640314/phone-catches-fire-alaska-airlines-plane-seattle'> Source <a/>

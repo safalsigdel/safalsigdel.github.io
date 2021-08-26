@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m4PvsmZt7ygQay9_6fMwEOTL4js=/0x0:846x494/1200x800/filters:focal(356x180:490x314)/cdn.vox-cdn.com/uploads/chorus_image/image/69775392/horizon_zero_dawn_screenshot_01_pc_campaign_en_us_01jul20.5.png' width='700px' /><br/>
+Sony has released a new update for Horizon Zero Dawn enabling 60fps on PS5. The game was previously locked to 30fps on Sony's newest console, so this update should help the game feel that much smoother. A Verge colleague has confirmed that the update, 1.53, is available to download and install now.
+<a href='https://www.theverge.com/2021/8/25/22641595/horizon-zero-dawn-60fps-update-ps5-1-53'> Source <a/>

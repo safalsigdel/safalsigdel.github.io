@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kTTfjGxuyxsl5T6OUCH9c-9VY20=/0x0:3000x2099/1200x675/filters:focal(1178x1419:1658x1899)/cdn.vox-cdn.com/uploads/chorus_image/image/69770237/846161976.0.jpg' width='700px' /><br/>
-On August 24th, 2011 — ten years ago today — Apple co-founder Steve Jobs resigned as CEO, leaving the world's newly minted most valuable brand in the hands of his successor Tim Cook. Just six weeks later, Jobs died. Needless to say, Cook had some big shoes to fill: Jobs is remembered as the visionary CEO and marketer behind the Mac, iPhone, iPad, iPod, iTunes, and the App Store.
-<a href='https://www.theverge.com/22639629/tim-cook-apple-ten-years-decade-steve-jobs-legacy'> Source <a/>

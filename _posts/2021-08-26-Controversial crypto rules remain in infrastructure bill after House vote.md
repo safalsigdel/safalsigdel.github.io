@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eigpdZkyaXAYDBkAk9ZhWjH7ozM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69774394/jbareham_180313_1777__bitcoin_cryptocurrency_0003.0.jpg' width='700px' /><br/>
+Controversial new cryptocurrency tax requirements are likely to become law through the bipartisan infrastructure bill. The cryptocurrency community rallied to fix the language, but the House voted to proceed with the bill as is on Tuesday, moving forward without any new amendments or opportunities to change it.
+<a href='https://www.theverge.com/2021/8/25/22641375/cryptocurrency-infrastructure-irs-tax-developers-miners-bitcoin'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PgiEeRkigT7i2cFZUotmji3VTgQ=/0x0:3861x2574/1200x800/filters:focal(1623x979:2239x1595)/cdn.vox-cdn.com/uploads/chorus_image/image/69772743/1185009218.0.jpg' width='700px' /><br/>
-Google is expanding the scope of its AI-powered Smart Reply feature to suggest responses to comments in Google Docs. It will be rolling out in the coming weeks to all users and will be turned on by default, though you can disable it via Tools > Preferences > Show Smart Reply suggestions.
-<a href='https://www.theverge.com/2021/8/25/22640895/google-docs-smart-reply-comments-ai-suggestions'> Source <a/>

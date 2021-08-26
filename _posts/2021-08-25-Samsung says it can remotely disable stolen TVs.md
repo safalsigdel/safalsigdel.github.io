@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/82H66EVtiema0MDdp7XWMTa0LYI=/0x0:1440x1000/1200x800/filters:focal(605x385:835x615)/cdn.vox-cdn.com/uploads/chorus_image/image/69772611/samsung_tv.0.jpg' width='700px' /><br/>
-Samsung has revealed its TVs can be remotely disabled if the company finds out the units have been stolen. The feature is called the “Television Block Function” and Samsung says it was recently activated in South Africa after a number of Samsung TVs were taken from a company warehouse during a wave of protests and unrest last month.
-<a href='https://www.theverge.com/2021/8/25/22640876/samsung-television-block-function-stolen-tv-sets-south-africa'> Source <a/>

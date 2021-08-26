@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5yOhz91mTpYOOR8libD6PJdj8uw=/0x0:1000x1000/1200x800/filters:focal(420x420:580x580)/cdn.vox-cdn.com/uploads/chorus_image/image/69776600/4._YouTube_Music.max_1000x1000.0.jpg' width='700px' /><br/>
+Google has finally released a Wear OS app for YouTube Music, which could seem like welcome news for people who have been waiting for a way to play their music off Google's streaming service after the company shut down Google Play Music on Wear OS in August 2020. But the new app comes with a few caveats.
+<a href='https://www.theverge.com/2021/8/25/22642047/google-youtube-music-wear-os-3-app-samsung-galaxy-watch-4-classic'> Source <a/>

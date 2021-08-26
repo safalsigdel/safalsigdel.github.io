@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Cq7r9DBVQrM72ZQ27fH4Bx9K9jA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69774152/acastro_210511_1777_psRestock_0004.0.jpg' width='700px' /><br/>
+Update August 25th, 1:06PM ET: Walmart appears to have sold out of the Xbox Series X and both iterations of the PS5 for the day. We'll make sure to let you know when the next opportunity comes up.
+<a href='https://www.theverge.com/2021/8/25/22641278/ps5-xbox-series-x-walmart-restock'> Source <a/>

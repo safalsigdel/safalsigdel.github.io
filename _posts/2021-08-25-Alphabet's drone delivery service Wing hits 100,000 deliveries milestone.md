@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3ygj1w_sTR_pTpB8MUyVOvonHJg=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/69773375/72699748_556579681764775_2732760482103427072_n.0.jpeg' width='700px' /><br/>
-Wing, the drone delivery company operated by Google-parent Alphabet, is about to rack up 100,000 deliveries. The company says it will pass the threshold in the next few days, a significant milestone for a technology that has nevertheless yet to prove its utility at scale.
-<a href='https://www.theverge.com/2021/8/25/22640833/drone-delivery-google-alphabet-wing-milestone'> Source <a/>

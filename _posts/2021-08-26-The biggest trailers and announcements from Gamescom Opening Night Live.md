@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O_Bft-9gDxEtc0yX0jodrgpPT9A=/0x0:3840x2160/1200x800/filters:focal(892x694:1506x1308)/cdn.vox-cdn.com/uploads/chorus_image/image/69775629/LEGO_Star_Wars_The_Skywalker_Saga___Young_Anakin_1846026126849c5bc957.42486138.0.png' width='700px' /><br/>
+Xbox kicked off Gamescom a little early, but the show got its proper start with Opening Night Live hosted — as always — by Geoff Keighley. It was a lengthy event clocking in at a hefty two hours, but there was a lot on show, from surprising crossovers to big names like Halo, Horizon Forbidden West, and Death Stranding.
+<a href='https://www.theverge.com/22640993/gamescom-opening-night-live-2021-trailers-halo-call-of-duty-marvel-xbox'> Source <a/>
