@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t-gJD3f8lZ4xfJJNp18hkzan_4M=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22805687/wreel_210825_4729_0002.jpg' width='700px' /><br/>
+Snapchat's camera has to date mostly been associated with sending disappearing messages and goofy AR effects, like a virtual dancing hot dog. But what if it did things for you, like suggest ways to make your videos look and sound better? Or show you a similar shirt based on the one you're looking at?
+<a href='https://www.theverge.com/2021/8/26/22642017/snapchat-scan-feature-ar-camera-visual-search'> Source <a/>
