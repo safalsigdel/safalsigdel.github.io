@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7ki1qqKAKkElxe7bWGSRVuDdC6U=/0x16:907x564/1200x800/filters:focal(396x207:546x357)/cdn.vox-cdn.com/uploads/chorus_image/image/69774597/Screen_Shot_2021_08_25_at_8.22.59_AM.0.png' width='700px' /><br/>
-Kanye West revealed a new music gadget called the Donda Stem Player that will let you “customize any song,” according to the device's website. It's available for preorder now for $200 with a vague “summer” release date, though the website says it will ship “with Donda,” West's upcoming album.
-<a href='https://www.theverge.com/2021/8/25/22641263/kanye-west-donda-stem-player-customize-any-song'> Source <a/>

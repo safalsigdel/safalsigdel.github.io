@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AsALiM-uISBiweRk7cPyNSZleUE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69778181/acastro_210430_1777_semiCon_0003.0.jpg' width='700px' /><br/>
+TSMC is the biggest chipmaker in the world and the company responsible for the processors used by Apple, AMD, Nvidia, Qualcomm, and even some Intel products. And its products are about to get a lot more expensive: the company plans to raise prices of its advanced chips by around 10 percent and less advanced products by about 20 percent, according to a new report from The Wall Street Journal.
+<a href='https://www.theverge.com/2021/8/26/22642627/tsmc-chip-price-increase-supply-shortages-apple-qualcomm'> Source <a/>
