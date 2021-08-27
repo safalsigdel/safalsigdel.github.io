@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/khra4jsJHvPJgvDzJqDBsgfi9QE=/0x0:2040x1360/1200x675/filters:focal(849x662:1175x988)/cdn.vox-cdn.com/uploads/chorus_image/image/69783769/akrales_210804_4676_0004.0.jpg' width='700px' /><br/>
+Most people know a ThinkPad when they see it. While the line has evolved throughout its decades of existence, it's maintained a consistent ThinkPad look, ThinkPad feel, and ThinkPad set of features, from the red keyboard nub to the trio of discrete clickers. The formula has a devoted following, and with good reason — it's tried and true.
+<a href='https://www.theverge.com/22642876/lenovo-thinkpad-x1-titanium-yoga-review-windows-price-specs'> Source <a/>
