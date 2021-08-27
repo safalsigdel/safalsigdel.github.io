@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HFe1z4y0WDRA73TX08d8N9JacYs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69776653/jbareham_160711_1134_0051_02.0.0.jpg' width='700px' /><br/>
-Niantic announced Wednesday that it's going back on at least one of its controversial gameplay changes to Pokxc3xa9mon Go. The company is permanently increasing the distance you can be from the real-world locations of Pokxc3xa9stops and Gyms and still interact with them. The new base limit is 80 meters (262 feet), the distance Niantic introduced at the start of the pandemic.
-<a href='https://www.theverge.com/2021/8/25/22642030/niantic-pokemon-go-pandemic-interaction-distance-80-meters'> Source <a/>

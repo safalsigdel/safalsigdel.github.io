@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pi3mCTBTEV5LkHHwlMs1f5bqh3E=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69783373/acastro_210828_4730_0001.0.jpg' width='700px' /><br/>
+Last week, OnlyFans — one of the internet's best-known porn platforms — almost banned porn. The company said it would no longer allow “explicit sexual content” in the future, before reversing the policy unexpectedly the next week.
+<a href='https://www.theverge.com/2021/8/27/22641095/onlyfans-sex-work-ban-online-porn-payment-processing-controversy'> Source <a/>
