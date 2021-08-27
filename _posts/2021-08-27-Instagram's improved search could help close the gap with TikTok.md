@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3tBffyrKb7DEZxBmvYLCAS2IHN0=/0x0:1224x750/1200x800/filters:focal(515x278:709x472)/cdn.vox-cdn.com/uploads/chorus_image/image/69776263/visualsearchInstagram.0.jpeg' width='700px' /><br/>
-Instagram plans to more prominently feature photos and videos in search results in the future, Instagram head Adam Mosseri announced on Wednesday. The change could show the grid of photos and videos a keyword search can pull up alongside results for accounts and hashtags, not dissimilar to how TikTok displays results.
-<a href='https://www.theverge.com/2021/8/25/22641598/instagram-photo-video-search-ranking-results'> Source <a/>
