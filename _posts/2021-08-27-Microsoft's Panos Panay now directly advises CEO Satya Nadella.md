@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SirkSSwGqKHhwPfseMGVq5x-rx8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69776821/akrales_191002_3704_0011.0.jpg' width='700px' /><br/>
-It was just last February that Microsoft Surface chief Panos Panay was promoted to lead the company's entire Windows software and device teams, and now he's moving up in the world again — he's becoming an Executive Vice President who'll be part of the Senior Leadership Team that advises Microsoft CEO Satya Nadella himself, reports Bloomberg.
-<a href='https://www.theverge.com/2021/8/25/22642219/microsofts-panos-panay-now-directly-advises-ceo-satya-nadella'> Source <a/>
