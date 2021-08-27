@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qXbrxSYtgTNO-76BpVTDVjrS6ng=/0x0:1960x1102/1200x800/filters:focal(765x383:1077x695)/cdn.vox-cdn.com/uploads/chorus_image/image/69779319/image__2_.5.png' width='700px' /><br/>
-Apple has a new offer for publishers: join Apple News, and it'll only take 15 percent out of your in-app purchases and subscriptions instead of 30. Publishers can apply to Apple's News Partner Program to take that bargain, but they have to agree to Apple's requirements, which naturally benefit Apple and go beyond just maintaining a channel in Apple News.
-<a href='https://www.theverge.com/2021/8/26/22642902/apple-news-partner-program-lower-commission'> Source <a/>
