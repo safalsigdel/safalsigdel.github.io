@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1DlW9a0Gp_H-9RByyDOQvkQV3K8=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69782742/VRG_ILLO_4687_Indie_App_Devs.0.jpg' width='700px' /><br/>
+James Thomson started developing PCalc in 1992 as a way to learn to program for the Mac. Since then, he's rewritten the calculator app multiple times to feature new UI changes, ported it to the iPhone, Apple Watch, and Apple TV, and maintained it for the Mac over the decades.
+<a href='https://www.theverge.com/22641201/small-developers-ios-app-competition-replace-apple-defaults'> Source <a/>
