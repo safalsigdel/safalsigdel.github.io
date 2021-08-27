@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jLeFYD7pIfRaDaX-iGwY3UP5p5c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69784252/akrales_170407_1569_0850.0.0.jpg' width='700px' /><br/>
+Peloton has dropped the price of its original Bike by $400, making it $1,495. This price reduction comes alongside the company's 2021 financial earnings, which showed that the company grew less than expected, and lost more than it had predicted (via CNBC). The company reports that in the fourth quarter of its 2021 financial year, it had a net loss of just over $313 million.
+<a href='https://www.theverge.com/2021/8/27/22643715/peloton-bike-price-drop-q4-results-subscription-prices'> Source <a/>
