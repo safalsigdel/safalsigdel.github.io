@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MgRxgnVhldmYWlWBbQqjQmQgIg4=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69784065/20201222_01_28.0.jpg' width='700px' /><br/>
+Toyota has halted its autonomous shuttle service in Tokyo's Olympic village after one of its vehicles collided with a visually impaired athlete, Reuters reported. Technically, the vehicle was not driving autonomously but was under manual control at the time of the incident.
+<a href='https://www.theverge.com/2021/8/27/22644496/toyota-epalette-autonomous-shuttle-crash-halt-olympics'> Source <a/>
