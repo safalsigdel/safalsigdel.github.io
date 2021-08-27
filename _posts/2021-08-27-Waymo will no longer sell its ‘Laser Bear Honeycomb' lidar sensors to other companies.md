@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U9IFJK3Daw-omVG7B6EN0niw0qo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69783592/waymo_chrysler_pacifica_detroit_auto_show_2017_0192.0.jpg' width='700px' /><br/>
+Waymo is getting out of the lidar selling business. The Alphabet-owned company said it would no longer sell its laser sensors to other companies, ending a nearly three-year-old revenue stream for the self-driving leader. The news was first reported by The Information.
+<a href='https://www.theverge.com/2021/8/27/22644370/waymo-lidar-stop-selling-autonomous-cars-laser-bear'> Source <a/>
