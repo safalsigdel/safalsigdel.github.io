@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SmbgbBytT5WjVkQ09-iW-pf2gbs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69774884/acastro_210813_1777_theater_0002.0.jpg' width='700px' /><br/>
-A year of chaotic movie releases made the future of theaters look uncertain. But as cinemas reopen, hybrid releases that studios so warmly embraced amid COVID-19 are now having to answer in earnest to theater owners and talent attached to high-stakes films.
-<a href='https://www.theverge.com/2021/8/25/22641318/hybrid-film-releases-cinemacon-theater-exclusivity'> Source <a/>

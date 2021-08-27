@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OyUOvqTZB7xC8-U60hCrXIcGCh8=/0x0:9000x6000/1200x800/filters:focal(3780x2280:5220x3720)/cdn.vox-cdn.com/uploads/chorus_image/image/69779960/121639_S3W5D1_TorontoDefiantVsAtlantaReign_Stewart_VollandB.0.jpg' width='700px' /><br/>
+The 2021 Overwatch League playoffs have hit a slight snag. Yesterday, the League announced it will no longer host live playoff matches in Dallas and Los Angeles.
+<a href='https://www.theverge.com/2021/8/26/22643253/overwatch-league-owl-2021-playoffs-hawaii'> Source <a/>

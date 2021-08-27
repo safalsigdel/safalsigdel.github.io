@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yo452JqTrYZj1Oi8oqQn-hKgK08=/456x0:1090x400/1200x800/filters:focal(692x133:866x307)/cdn.vox-cdn.com/uploads/chorus_image/image/69780450/monthly_tipping_ui_a_1090x400.0.png' width='700px' /><br/>
+Streamlabs, the popular livestreaming software company owned by Logitech, is rolling out a “monthly tipping service” as an alternative way for streamers to earn money from their fans. Streamlabs Creator Subscriptions will offer streamers flexibility on what kinds of subscriptions they offer, and they will integrate directly into Streamlabs' OBS software suite for streaming to Twitch, YouTube, or Facebook.
+<a href='https://www.theverge.com/2021/8/26/22643160/streamlabs-monthly-tipping-subscription-twitch-zero-fees'> Source <a/>

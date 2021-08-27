@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JfKPNcDKU0d0hDsRnSyMwY5_H5I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69775716/jbareham_171013_2050_0271.0.jpg' width='700px' /><br/>
-If you've had an Android phone for any length of time, it's easy to get used to living with, well, chaos. If you're anything like me, you're constantly adding new apps, deciding they're okay but not great, adding another, and so on. Then, a few months later, as you're scrolling through your app drawer, you're surprised to see several apps that you forgot about and perhaps don't even remember what they're used for.
-<a href='https://www.theverge.com/22641251/android-how-to-organize-home-screen-pixel'> Source <a/>

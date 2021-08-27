@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KgWyncxBionemneKjvdujAjM9V4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69779702/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google has announced that Google Sheets is getting the ability to intelligently suggest formulas and functions for your spreadsheet, based on the data you're trying to analyze. For example, typing “=” into a cell below a list of numbers will pop up a box that lets you automatically add the numbers together, find their average, and more.
+<a href='https://www.theverge.com/2021/8/26/22642192/google-sheets-intelligent-formula-functions-spreadsheet-context-aware-math'> Source <a/>

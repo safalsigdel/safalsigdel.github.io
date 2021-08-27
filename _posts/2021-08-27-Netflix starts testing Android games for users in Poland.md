@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ovXqaRD6T8RUchPfSCtbRTkQ740=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69779255/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+Netflix is taking its next step into gaming by allowing subscribers in Poland on Android to play two Stranger Things games, the company announced Thursday.
+<a href='https://www.theverge.com/2021/8/26/22642946/netflix-mobile-games-in-app-android-users-poland-stranger-things-1984-3'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-3VsR2j0a-wXS07lnOpLz4OXW58=/0x0:1800x1013/1200x800/filters:focal(756x363:1044x651)/cdn.vox-cdn.com/uploads/chorus_image/image/69775032/07.SAINTS_ROW_Los_Panteros_Street_Fight_4K.0.png' width='700px' /><br/>
-As teased by Geoff Keighley last week, Saints Row is the next video game series to get a reboot. Developer Volition has announced that the newest title, which is just called Saints Row, is scheduled to be released on PS4, PS5, Xbox One, Xbox Series X / S, and PC on February 25th, 2022.
-<a href='https://www.theverge.com/2021/8/25/22640635/saints-row-reboot-ps4-ps5-xbox-one-series-x-s-pc-epic-games-store-launch-date'> Source <a/>

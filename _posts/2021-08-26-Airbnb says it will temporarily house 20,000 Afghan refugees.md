@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kMteB6ZLEGTYCs7Es0XxVHZ8gSQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69774846/airbnb_keys1.0.jpg' width='700px' /><br/>
-Airbnb and Airbnb.org announced on Tuesday that they will temporarily house 20,000 Afghan refugees for free. The effort, an evolution of the home renting platform's “Frontline stays” program for housing first responders, is in response to the refugee crisis caused by the US military's withdrawal from Afghanistan and the Taliban's takeover of the country.
-<a href='https://www.theverge.com/2021/8/25/22641268/airbnb-afghan-refugees-housing-relocation-org'> Source <a/>
