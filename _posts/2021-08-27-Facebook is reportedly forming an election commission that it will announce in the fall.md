@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3VxXU37UQdAi0CLNJRtD9X5b6es=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69776222/acastro_180406_1777_facebook_Congress_0001.0.jpg' width='700px' /><br/>
-Facebook is considering creating a commission that would weigh in on global election-related issues on the platform, according to The New York Times. Facebook has talked to academics and policy experts about the commission, which The New York Times reports is expected to be announced this fall ahead of the 2022 US midterm elections.
-<a href='https://www.theverge.com/2021/8/25/22641948/facebook-election-commission-oversight-board'> Source <a/>
