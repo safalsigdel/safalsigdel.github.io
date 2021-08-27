@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KdRE3By6ZCym3-hPpm2Ks_eig5A=/0x0:7308x4872/1200x800/filters:focal(3070x1852:4238x3020)/cdn.vox-cdn.com/uploads/chorus_image/image/69776276/1234864172.0.jpg' width='700px' /><br/>
-Tech companies like Apple, Google, and Microsoft promised to help bolster US cybersecurity after a meeting with President Joe Biden at the White House on Wednesday. The pledges vary by company but range from spending billions on cyber infrastructure to offering supply-chain aid and education.
-<a href='https://www.theverge.com/2021/8/25/22642054/apple-amazon-google-microsoft-cybersecurity-billions'> Source <a/>
