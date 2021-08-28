@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rveog7s-D3a2I--1cb2SNOf0zEg=/0x0:2332x1475/1200x800/filters:focal(980x552:1352x924)/cdn.vox-cdn.com/uploads/chorus_image/image/69779999/Screen_Shot_2021_08_23_at_8.46.38_PM.0.png' width='700px' /><br/>
-Blizzard says it plans to change the name of Overwatch's gunslinger character following the explosive sexual harassment lawsuit brought against Activision Blizzard by the state of California. The character was originally named “McCree” after Jesse McCree, a former longtime Blizzard staffer who appears to be pictured in the so-called “Cosby Suite” reported on by Kotaku.
-<a href='https://www.theverge.com/2021/8/26/22638947/blizzard-overwatch-mccree-name-change-lawsuit'> Source <a/>

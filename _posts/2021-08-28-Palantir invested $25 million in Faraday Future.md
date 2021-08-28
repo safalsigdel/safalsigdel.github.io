@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kYHzMEj7ncfPa_K4DcrOoWnQ7rY=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69780538/19060IOVS_001_Header_final.0.jpg' width='700px' /><br/>
-Data-mining firm Palantir invested $25 million in Faraday Future shortly before the electric vehicle startup became a publicly traded company in July, according to a previously unreported Securities and Exchange Commission (SEC) document filed late last week.
-<a href='https://www.theverge.com/2021/8/26/22643233/palantir-faraday-future-investment-data-mining-contract'> Source <a/>

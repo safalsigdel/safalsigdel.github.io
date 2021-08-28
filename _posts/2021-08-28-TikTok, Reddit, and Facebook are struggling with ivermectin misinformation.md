@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2-pIOsH9e6kpNS9XzrIE9sF8ETk=/0x0:5333x3621/1200x800/filters:focal(2241x1385:3093x2237)/cdn.vox-cdn.com/uploads/chorus_image/image/69785428/1232982770.0.jpg' width='700px' /><br/>
+TikTok, Reddit, and Facebook are dealing with waves of content about ivermectin, an anti-parasite drug that has picked up traction among anti-vaxxers as a COVID-19 treatment. Sales of ivermectin meant for animals, as well as calls to poison control centers, have increased enough that the FDA issued a consumer update explaining why people shouldn't take it to treat or prevent COVID-19.
+<a href='https://www.theverge.com/2021/8/27/22644579/tiktok-reddit-facebook-ivermectin-covid-19-misinformation'> Source <a/>

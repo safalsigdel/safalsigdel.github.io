@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uQEY18rZgCgU3NvdrDJPO6yE-3k=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69780258/cru_24747_r2_79c1746d.0.jpeg' width='700px' /><br/>
-Disney Plus subscribers will finally be able to watch the Queen of Mean on the service at no additional cost beginning Friday.
-<a href='https://www.theverge.com/2021/8/26/22643373/stream-cruella-disney-plus-august-27'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nAHdUTj30HHYDp-TpHXGj2aOQ7U=/0x0:1120x630/1200x800/filters:focal(471x226:649x404)/cdn.vox-cdn.com/uploads/chorus_image/image/69785957/Paramount_Plus.0.png' width='700px' /><br/>
+Paramount Plus has ordered a new documentary-style comedic series titled Players that will delve into a fictional professional League of Legends esports team.
+<a href='https://www.theverge.com/2021/8/27/22645190/paramount-plus-players-american-vandal-creators'> Source <a/>
