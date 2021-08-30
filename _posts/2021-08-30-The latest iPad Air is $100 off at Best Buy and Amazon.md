@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+It's almost unspoken wisdom at this point that you should think twice about buying some costly Apple products in the late summer months, as the company usually announces new stuff during its annual September event. But if you really need or want an iPad with a few pro-level features (but without the high cost of the iPad Pro), this $100 off deal at Amazon and Best Buy on the iPad Air released in 2020 might be what you're after.
+<a href='https://www.theverge.com/good-deals/2021/8/30/22648127/ipad-air-apple-gigabyte-aero-15-sony-wh1000xm3-headphones-deal-sale'> Source <a/>
