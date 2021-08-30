@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V2ePZUZO7QbTJq4XYcx6qyAceKw=/0x0:1444x684/1200x800/filters:focal(286x253:516x483)/cdn.vox-cdn.com/uploads/chorus_image/image/69784781/Screenshot_2021_08_27_131017.0.jpg' width='700px' /><br/>
-At times, Twitter can be a bad place, amplifying some of the worst opinions and people on the internet. But on some days, the platform can remind us there are still decent humans doing good work to make the world a better, less shitty place.
-<a href='https://www.theverge.com/2021/8/27/22644577/xbox-360-engineer-profile-picture-pac-man-gamerpic'> Source <a/>

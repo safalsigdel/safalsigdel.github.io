@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4wldhk6QcpouiHIhdxmIRw3WMVg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69793706/acastro_210828_4732_0001.0.jpg' width='700px' /><br/>
+Jacob Preston was sitting down with his manager during his first week at Apple when he was told, with little fanfare, that he needed to link his personal Apple ID and work account.
+<a href='https://www.theverge.com/22648265/apple-employee-privacy-icloud-id'> Source <a/>
