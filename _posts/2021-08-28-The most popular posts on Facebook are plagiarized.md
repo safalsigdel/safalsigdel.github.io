@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m-3NH5tappI97jBfoYxtwJAu9L8=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69782619/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
-The conventional wisdom around the “widely viewed content report” that Facebook released last week is that it obscured more than it revealed. The company's effort to demonstrate that most users do not regularly see divisive news stories in their feeds received widespread criticism for offering only the highest-level view of the data possible. The most-shared domain on Facebook is YouTube.com? Great, thanks.
-<a href='https://www.theverge.com/2021/8/27/22644126/the-most-popular-posts-on-facebook-are-plagiarized'> Source <a/>

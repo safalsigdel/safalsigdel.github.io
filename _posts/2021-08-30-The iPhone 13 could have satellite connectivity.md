@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zKtKJ9cBpoD-ce6BZsU-D4LxKrE=/0x0:2040x1360/1200x800/filters:focal(848x544:1174x870)/cdn.vox-cdn.com/uploads/chorus_image/image/69790683/acastro_190530_1777_wwdc_2019_0003.0.0.jpg' width='700px' /><br/>
+Finally a fun iPhone 13 rumor! If Apple holds to its traditional schedule we're mere weeks away from a new iPhone, and until now the rumors have been slight and, dare I say boring. Yet noted Apple prognosticator and analyst Ming-Chi Kuo is now claiming the iPhone 13 could have the ability to make satellite calls built right in, according to MacRumors.
+<a href='https://www.theverge.com/2021/8/29/22647252/the-iphone-13-5g-leo-satellite'> Source <a/>

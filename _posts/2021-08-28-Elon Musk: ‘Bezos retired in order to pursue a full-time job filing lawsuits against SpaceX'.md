@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/68mrjo8JXlkc5b8IKY_ojKTPSw8=/0x0:560x420/1200x800/filters:focal(236x166:324x254)/cdn.vox-cdn.com/uploads/chorus_image/image/69782407/20120316-dragonrider.0.jpg' width='700px' /><br/>
-Elon Musk has criticized fellow centibillionaire and space cowboy Jeff Bezos for filing lawsuits against the former's aerospace company SpaceX.
-<a href='https://www.theverge.com/2021/8/27/22644158/elon-musk-jeff-bezos-spacex-blue-origin-lawsuits-complaints-starlink-tweet'> Source <a/>

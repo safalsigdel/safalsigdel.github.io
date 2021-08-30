@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Cmk-GB-n-5saeDbgHO69fYAqZn8=/0x0:3849x2566/1200x800/filters:focal(1618x976:2232x1590)/cdn.vox-cdn.com/uploads/chorus_image/image/69783047/twittermonetization.0.jpg' width='700px' /><br/>
-Twitter is beginning its rollout of Ticketed Spaces, or paid live audio rooms. The company announced yesterday that it's “experimenting” with the feature for some iOS users. It first rolled out applications to try the product in June with the plan to eventually make it available to all interested iOS and Android users.
-<a href='https://www.theverge.com/2021/8/27/22644283/twitter-ticketed-spaces-live-audio-test'> Source <a/>

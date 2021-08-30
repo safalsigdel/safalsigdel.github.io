@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IksN2SGvg0SoxCduYS1j0PDTT-4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69783502/acastro_200715_1777_twitter_0001.0.0.jpg' width='700px' /><br/>
-For slackers west of the Appalachians there was some bad news — Twitter went down. An outage unplugged many people beyond the East Coast of the US starting at around 8:30AM ET, with reports from as far north as Toronto and as far south as Arkansas.
-<a href='https://www.theverge.com/2021/8/27/22644376/twitter-down-outage-midwest-states'> Source <a/>

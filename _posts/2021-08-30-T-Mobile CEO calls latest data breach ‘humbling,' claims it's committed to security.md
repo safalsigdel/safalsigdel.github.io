@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dBFCTYh_pNIRTUGz_tlXOKDzVq8=/0x0:4000x2666/1200x800/filters:focal(1069x1125:1709x1765)/cdn.vox-cdn.com/uploads/chorus_image/image/69788942/1231755320.0.jpg' width='700px' /><br/>
+A recent T-Mobile data breach coughed up the information of more than 50 million people, including some who aren't current customers or never were. The 21-year-old hacker who says they're responsible for the attack already did an interview with the Wall Street Journal calling its security “awful,” and now CEO Mike Sievert is speaking out.
+<a href='https://www.theverge.com/2021/8/28/22646439/t-mobile-data-breach-ceo-security-mandiant-kpmg'> Source <a/>
