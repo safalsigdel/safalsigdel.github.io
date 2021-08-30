@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zxkJyQIYF1ylmkrhaFpaLKXwknU=/0x0:1152x1152/1200x800/filters:focal(484x484:668x668)/cdn.vox-cdn.com/uploads/chorus_image/image/69792010/GoPro_Hero10_Black_1630067108_0_0.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/8WG_vp46rsca7_o5YldXUOvorgk=/0x0:1700x1200/1200x800/filters:focal(714x464:986x736)/cdn.vox-cdn.com/uploads/chorus_image/image/69792010/GoPro_Hero10_Black_hero.5.jpg' width='700px' /><br/>
 Images and specs of the GoPro Hero 10 Black have apparently leaked in full. According to WinFuture, which accurately leaked the redesigned Hero 9 Black at this same time last year, the new flagship GoPro action camera will look pretty much the same as last year's miniature cam only with a more powerful GP2 processor of GoPro design inside for improved overall performance.
 <a href='https://www.theverge.com/2021/8/30/22648027/gopros-hero-10-black-leak-specs-date-price'> Source <a/>
