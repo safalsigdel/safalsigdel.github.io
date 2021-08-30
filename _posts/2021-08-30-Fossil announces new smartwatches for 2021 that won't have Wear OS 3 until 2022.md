@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kqT-AJJr0Sa9_6fpZ7XbC4V_yvo=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/69792568/FSL4013827_FA21_AD_09_2.0.jpg' width='700px' /><br/>
+Fossil has announced its fall 2021 smartwatch lineup running Wear OS, which it is calling the Gen 6 Touchscreen. As with the Gen 5 Fossil watches, the Gen 6 will come in a few different styles and sizes and there will also be versions sold under the Michael Kors brand. Prices will start at $299 and they'll be available for preorder immediately. It does not appear that Fossil will offer LTE options.
+<a href='https://www.theverge.com/2021/8/30/22647941/fossil-announces-new-gen-6-wear-os-smartwatches-2021-update'> Source <a/>

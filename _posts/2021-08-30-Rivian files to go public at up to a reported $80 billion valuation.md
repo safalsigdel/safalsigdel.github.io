@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JfAH4BvruPf0fmJzz62DoaT4PI8=/621x504:2221x1577/1200x800/filters:focal(1210x730:1670x1190)/cdn.vox-cdn.com/uploads/chorus_image/image/69784226/rivian_r1t_2.0.jpg' width='700px' /><br/>
-Buzzy (and extremely well-funded) EV startup Rivian has filed paperwork with the Securities and Exchange Commission to go public. Rivian will be doing a traditional initial public offering, bucking the recent trend of electric vehicles going public by merging with a special purpose acquisition company, or SPAC.
-<a href='https://www.theverge.com/2021/8/27/22644601/rivian-ipo-november-december-filing-amazon-ford'> Source <a/>
