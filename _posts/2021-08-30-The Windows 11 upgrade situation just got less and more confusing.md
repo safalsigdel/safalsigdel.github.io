@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OpqchNRrtB54rmyjSbltBJjunJY=/0x0:2100x1575/1200x800/filters:focal(482x626:818x962)/cdn.vox-cdn.com/uploads/chorus_image/image/69785177/Windows_11_PC_Devices.0.jpg' width='700px' /><br/>
-In June, we wrote that Windows 11 will leave millions of PCs behind, seemingly because their processors aren't as new and fully featured as Microsoft would like.
-<a href='https://www.theverge.com/22643275/windows-11-upgrade-system-requirements-pc-health-check'> Source <a/>
