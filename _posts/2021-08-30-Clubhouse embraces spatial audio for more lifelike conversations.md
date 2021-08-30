@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YAFIa3ehT3QEAgs7kylGhvYGugM=/0x0:1024x1024/1200x800/filters:focal(173x415:335x577)/cdn.vox-cdn.com/uploads/chorus_image/image/69792066/Leah_Full.0.png' width='700px' /><br/>
+Clubhouse began rolling out a iOS app update on Sunday that enables spatial audio support. The Android update is “coming soon,” according to the company. The feature works by introducing subtle spatial cues that position speakers on Clubhouse calls into three-dimensional space around your head, making the remote listening experience a better approximation of being in a room full of people. It works best with headphones, either Bluetooth or wired.
+<a href='https://www.theverge.com/2021/8/30/22648050/clubhouse-spatial-audio-3d-360-sound'> Source <a/>
