@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/H-x_loCN9N1cg3Mw6O9YTRALvUI=/0x0:2040x1360/1200x800/filters:focal(848x357:1174x683)/cdn.vox-cdn.com/uploads/chorus_image/image/69792993/akrales_210716_4639_0030.0.jpg' width='700px' /><br/>
+In the annals of gaming history, there's no controller better known than the three-pronged piece of plastic that shipped with the Nintendo 64. That's likely for a few reasons. There's the unique design, which renders it instantly and unmistakably recognizable as the N64's gamepad. There's the popularity of the console, which helped cement Nintendo as one of the definitive names in gaming.
+<a href='https://www.theverge.com/22643372/nintendo-64-controller-joystick-button-3d-gaming-control'> Source <a/>
