@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9ye9pG-zBIF01GWjaMjWUsOerHY=/0x0:5623x3966/1200x800/filters:focal(2363x1534:3261x2432)/cdn.vox-cdn.com/uploads/chorus_image/image/69784570/1222922472.0.jpg' width='700px' /><br/>
-Lordstown Motors has hired a new CEO, Daniel Ninivaggi, just two months after its previous chief executive and founder resigned after misleading investors. Ninivaggi comes from an automotive background and recently wrapped up a seven-year stint as a member of Hertz's board of directors, where he helped oversee the rental car company's very public bankruptcy and restructuring.
-<a href='https://www.theverge.com/2021/8/27/22644661/lordstown-motors-ceo-daniel-ninivaggi-hertz-steve-burns'> Source <a/>

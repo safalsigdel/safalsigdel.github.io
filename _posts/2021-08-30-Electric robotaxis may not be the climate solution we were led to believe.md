@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4UuWwjmFnBylr3rm74Cv9IUyccE=/0x0:4928x3280/1200x800/filters:focal(2070x1246:2858x2034)/cdn.vox-cdn.com/uploads/chorus_image/image/69793227/1189070698.0.jpg' width='700px' /><br/>
+For years, we've been told that electric autonomous taxis can help fight climate change by reducing air pollution. But new research from Harvard Law School suggests these supposedly “zero emissions” vehicles could actually exacerbate many of the problems we are facing today.
+<a href='https://www.theverge.com/2021/8/30/22648218/electric-robotaxi-climate-change-emissions-harvard-study'> Source <a/>
