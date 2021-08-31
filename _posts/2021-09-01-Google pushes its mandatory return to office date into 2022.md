@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xt7WHMZzcwUQofFfYdtFcD-ZkNM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69799314/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
+In an email to employees today, Google CEO Sundar Pichai said that even though “we are welcoming back tens of thousands of Googlers on a voluntary basis,” the company will extend its voluntary return to work policy until at least January 10th, 2022. After that date, the current plan is to have countries and locations make mandatory return to work decisions depending on local conditions.
+<a href='https://www.theverge.com/2021/8/31/22650639/google-mandatory-return-january-2022-remote-work'> Source <a/>

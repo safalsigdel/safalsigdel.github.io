@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jTaCNjeHOy8WedQrDp6L9eidDSI=/0x0:5700x3800/1200x800/filters:focal(2394x1444:3306x2356)/cdn.vox-cdn.com/uploads/chorus_image/image/69794867/2022_Chevrolet_BoltEUV_013.0.jpg' width='700px' /><br/>
-General Motors is halting production of the Chevy Bolt EV after a number of battery fires prompted a massive recall that has already cost the company nearly $2 billion. The automaker won't resume making the 2022 Bolt and Bolt EUV until at least mid-September. It had initially stopped production last week because of the global chip shortage.
-<a href='https://www.theverge.com/2021/8/30/22648922/gm-chevy-bolt-ev-production-halt-recall-fire-risk'> Source <a/>
