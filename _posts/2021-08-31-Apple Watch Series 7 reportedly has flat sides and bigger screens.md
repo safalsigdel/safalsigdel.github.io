@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9v-OgKJJ00MfoizmaODRmmn-x2s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69791608/vpavic_200929_4216_0128.0.jpg' width='700px' /><br/>
-The upcoming Apple Watch will feature its first new hardware design in years, according to Bloomberg reporter Mark Gurman's Power On newsletter. Gurman says the Apple Watch Series 7 will have “a flatter display and edges,” seemingly continuing Apple's quest to flatten the sides of every product in its lineup.
-<a href='https://www.theverge.com/2021/8/29/22647766/apple-watch-series-7-rumors-screen-size-new-design-41mm-45mm'> Source <a/>
