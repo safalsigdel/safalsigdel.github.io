@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5-RENKyLsjDBAWucqBwg1bQMux0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69796908/Google_Apple_App_Dominance2.0.jpg' width='700px' /><br/>
+South Korea has passed a bill written to prevent major platform owners like Google and Apple from restricting app developers to built-in payment systems, The Wall Street Journal reports. The bill is now expected to be signed into law by President Moon Jae-in, whose party championed the legislation.
+<a href='https://www.theverge.com/2021/8/31/22643800/apple-google-south-korea-app-store-payment-legislation-passes'> Source <a/>

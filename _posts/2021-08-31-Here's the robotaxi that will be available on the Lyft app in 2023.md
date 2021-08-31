@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jG5o3Lat9TdFyizH2jgiWXJlzns=/0x0:5120x2880/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/69796822/04._Priority_image.0.png' width='700px' /><br/>
+Motional, the autonomous vehicle company that is a joint venture between Hyundai and Aptiv, revealed more details about its forthcoming robotaxi as well as some of the first images of the vehicle. The company is also working with Lyft and says that by 2023, customers in certain cities will be able to hail rides in this vehicle using the Lyft app.
+<a href='https://www.theverge.com/2021/8/31/22648789/motional-hyundai-ioniq5-robotaxi-lyft-photos'> Source <a/>

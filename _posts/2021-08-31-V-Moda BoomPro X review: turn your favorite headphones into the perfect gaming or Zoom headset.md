@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DMtC00gdrLcvFASm3QVkr57NtO4=/0x0:2040x1360/1200x800/filters:focal(942x667:1268x993)/cdn.vox-cdn.com/uploads/chorus_image/image/69789728/DSCF4714_Edited.0.jpeg' width='700px' /><br/>
-There's something to be said for cheap, simple gadgets. The BoomPro is a smart idea that's executed almost perfectly. With a single cable, you get a microphone (with a flexible arm for easy repositioning), volume controls, and a mute switch. It can substitute for the 3.5mm audio cable that you'd normally plug into your favorite wireless headphones, immediately transforming them into a much better communication tool.
-<a href='https://www.theverge.com/22645088/vmoda-boompro-x-review-headphone-boom-mic'> Source <a/>
