@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LOX7Wd8bAU7bJqrGGV6WsbQ3u4A=/0x0:2212x1362/1200x800/filters:focal(930x505:1282x857)/cdn.vox-cdn.com/uploads/chorus_image/image/69794032/Screen_Shot_2021_08_30_at_9.55.11_AM.0.png' width='700px' /><br/>
-If you haven't given Instagram your birthday, it's about to start asking for it a whole lot more — and it'll eventually be required for you to use the app. Instagram started requiring that new users add their birthdates in 2019, but if you had an older account, it was possible to skate by without providing that info. Now it seems that'll become increasingly more difficult.
-<a href='https://www.theverge.com/2021/8/30/22648578/instagram-age-birthday-requirement-younger-people-ai-verification'> Source <a/>

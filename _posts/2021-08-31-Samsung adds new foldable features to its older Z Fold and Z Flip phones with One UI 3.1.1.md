@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-Ex_tLpkCm_7YHzs_BtwfE_1PhI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69798835/vpavic_200907_4181_0010.0.jpg' width='700px' /><br/>
+Samsung's new Z Fold 3 and Z Flip 3 phones add a bunch of clever new features designed for foldable phones as part of its One UI 3.1.1 update, but if you already own a Fold 2, Z Flip, or even the original Galaxy Fold, you'll still be able to get some of the new additions without shelling out for a new phone.
+<a href='https://www.theverge.com/2021/8/31/22650344/samsung-foldable-z-fold-flip-phones-features-one-ui-3-1-1'> Source <a/>
