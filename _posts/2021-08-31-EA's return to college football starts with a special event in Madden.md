@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dWTes5Op4tHnAKy3GFx1XNM3MSk=/407x0:3840x2160/1200x800/filters:focal(2028x716:2642x1330)/cdn.vox-cdn.com/uploads/chorus_image/image/69798264/M22_CollegeSSKO_Landry_16x9_Watermarked.0.jpg' width='700px' /><br/>
+While we still don't know exactly when EA's upcoming college football video game will be released, fans will be able to play college ball soon for a limited time thanks to a special “Campus Legends” event coming to Madden NFL 22's arcade-y Superstar KO mode.
+<a href='https://www.theverge.com/2021/8/31/22649132/ea-madden-nfl-22-college-football-superstar-ko-campus-legends-event-mode'> Source <a/>
