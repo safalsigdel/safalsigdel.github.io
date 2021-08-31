@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p4kBHWzzW4GJrNd3iZFDUgyRY9k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69789711/vpavic_4278_20201030_0292.0.jpg' width='700px' /><br/>
-A new PS5 model started appearing in Australia, Japan, and parts of the US earlier this month, with a new stand design and a mysterious reduction in weight. Thanks to a teardown video from YouTuber Austin Evans, the mystery has now been solved: Sony has changed the heatsink that helps cool the PS5.
-<a href='https://www.theverge.com/2021/8/29/22646963/sony-new-ps5-model-lighter-smaller-heatsink-teardown'> Source <a/>

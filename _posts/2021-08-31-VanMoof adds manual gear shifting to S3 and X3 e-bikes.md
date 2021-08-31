@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9w84Af9c7fFG15uJLzdHjKFpKvI=/0x0:2040x1358/1200x800/filters:focal(857x516:1183x842)/cdn.vox-cdn.com/uploads/chorus_image/image/69796812/DSC_0700.0.jpg' width='700px' /><br/>
+VanMoof has released a firmware update for its S3 and X3 e-bikes that allows for manual gear shifting. If you're thinking that sounds like a pretty basic feature for a bicycle, you'd be right. But Vanmoof's latest bikes have fully automatic four-gear shifters, and until now, there was no way to change gears yourself.
+<a href='https://www.theverge.com/2021/8/31/22649901/vanmoof-s3-x3-automatic-manual-gear-shifter-update'> Source <a/>
