@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N7B9B1omxs2sWhy29X8nr7Fq6SQ=/0x0:376x376/1200x800/filters:focal(158x158:218x218)/cdn.vox-cdn.com/uploads/chorus_image/image/69792528/Gumroad_Logo_Color.0.jpg' width='700px' /><br/>
-Gumroad is announcing a new pricing structure today that streamlines the fees and features of its platform, making it easier for creators to get started selling products or memberships online. Gumroad was one of the early “help people sell things online” businesses, but this change is a sort of reset for the company as the space grows even more crowded.
-<a href='https://www.theverge.com/2021/8/30/22640102/gumroad-creator-pricing-platform-lower-fees'> Source <a/>
