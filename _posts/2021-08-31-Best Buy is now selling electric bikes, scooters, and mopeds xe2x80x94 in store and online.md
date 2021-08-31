@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gwf75zGLMg31ByRKIMAHhJO6DsY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69798734/1336158138.0.jpg' width='700px' /><br/>
+Best Buy is cruising into the electric mobility space with the announcement that it intends to sell e-bikes, scooters, and mopeds, both in stores and online. The retailer is collecting some of the best known names in lightweight electric vehicles, including Unagi, Bird, Segway-Ninebot, Super73, and Swft.
+<a href='https://www.theverge.com/2021/8/31/22650367/best-buy-electric-bike-scooter-bird-segway-ninebot-super73'> Source <a/>

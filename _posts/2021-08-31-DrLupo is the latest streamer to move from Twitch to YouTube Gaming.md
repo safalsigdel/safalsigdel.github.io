@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AH8bZVj9fy8ywMbscGhvtjiWgF4=/0x0:4976x3318/1200x800/filters:focal(1798x1185:2594x1981)/cdn.vox-cdn.com/uploads/chorus_image/image/69793851/1124891630.jpg.0.jpg' width='700px' /><br/>
-Streamer Ben “DrLupo” Lupo has signed a deal to stream exclusively on YouTube Gaming, following in the footsteps of other well-known streamers like Jack “CouRage” Dunlop and Rachell “Valkyrae” Hofstetter in moving from Twitch to YouTube. Lupo's first YouTube Gaming stream will take place on August 31st.
-<a href='https://www.theverge.com/2021/8/30/22643215/drlupo-move-from-twitch-youtube-gaming-exclusivity-deal'> Source <a/>

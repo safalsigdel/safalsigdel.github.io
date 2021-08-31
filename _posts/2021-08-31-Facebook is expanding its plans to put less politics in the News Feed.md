@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wDtMVN_XH8qma9TD5beKNGLE2c8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69798756/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook is expanding an experiment in reducing political content in the News Feed. In an update to a February blog post, the company says it's seen “positive results” in reducing this content for some users in a handful of countries. Now, it's expanding a test of the strategy to Costa Rica, Sweden, Spain, and Ireland.
+<a href='https://www.theverge.com/2021/8/31/22650309/facebook-expands-political-content-reduction-tests-costa-rica-spain-sweden-ireland'> Source <a/>
