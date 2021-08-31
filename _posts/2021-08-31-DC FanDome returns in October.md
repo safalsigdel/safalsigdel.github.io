@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PHPXmgKjQYxtyiECMiXfIZuwoPA=/0x0:3170x1350/1200x800/filters:focal(1332x422:1838x928)/cdn.vox-cdn.com/uploads/chorus_image/image/69797732/rev_1_TBM_TRL_003_High_Res_JPEG.0.jpeg' width='700px' /><br/>
+Last year DC had an impressive showing at its virtual FanDome event, and today the company revealed it's doing it again very soon. FanDome will return on October 16th, and will feature updates, trailers, and reveals covering what looks to be a big range of projects across film, television, comics, and video games.
+<a href='https://www.theverge.com/2021/8/31/22650092/dc-fandome-2021-date-batman-gotham-knights-sandman-fortnite'> Source <a/>
