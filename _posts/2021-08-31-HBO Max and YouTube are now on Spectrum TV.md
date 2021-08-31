@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lnu2bOl688UMEiW32bczmDURLpY=/0x0:1262x610/1200x800/filters:focal(652x225:852x425)/cdn.vox-cdn.com/uploads/chorus_image/image/69794873/HBO_Max_in_Apps_Menu.0.png' width='700px' /><br/>
+Two of the biggest players in streaming, HBO Max and YouTube, have officially arrived on Spectrum TV.
+<a href='https://www.theverge.com/2021/8/30/22648966/hbo-max-youtube-spectrum-tv'> Source <a/>

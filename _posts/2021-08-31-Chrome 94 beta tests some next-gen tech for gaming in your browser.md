@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lMtVYnf2OGoZDLAkAp5DvXlkxI4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69795919/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
+Google's Chrome Beta 94 announcement mentions that Google is implementing some new web standards that could make browser-based gaming experiences even better. The soon-to-be-released WebCodecs could help make cloud gaming easier and faster, while the experimental WebGPU could make it easier for developers of games that run in the browser to tap into your computer's power.
+<a href='https://www.theverge.com/2021/8/30/22649214/chrome-94-beta-browser-gaming-apis-metal-directx-vulkan-streaming-graphics-codecs'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QSz4S6vxNHV3ZQNSCXOhRM2H1Yc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69793920/acastro_180410_1777_payapl_0003.0.jpg' width='700px' /><br/>
+The next platform to host a rush on stocks like GameStop and AMC could be PayPal, as CNBC reports the company hired a brokerage industry vet to lead the effort. CNBC points out that Rich Hagen served as Ally Invest president after that company acquired a startup he co-founded called TradeKing, and now his LinkedIn page lists him as the CEO of Invest at PayPal.
+<a href='https://www.theverge.com/2021/8/30/22648517/paypal-retail-investor-robinhood-stock-trading'> Source <a/>

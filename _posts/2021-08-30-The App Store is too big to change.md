@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IBjVX3bgCjNm7Gt6_SBj9xDRkkA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69787463/acastro_190218_1777_apple_streaming_0002.0.jpg' width='700px' /><br/>
-Apple made waves this week by announcing a $100 million settlement with small app developers who sued the company. But despite the changes announced yesterday, nothing is really changing for developers — the App Store is too big and too reliant on in-app purchase fees for that to happen.
-<a href='https://www.theverge.com/22645070/apple-app-store-policies-purchases-cut-fees-change-class-action'> Source <a/>
