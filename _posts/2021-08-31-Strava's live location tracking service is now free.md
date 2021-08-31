@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8kMvuSsyvz-5H0PPu2W19wTMmbo=/0x0:1280x952/1200x800/filters:focal(514x429:718x633)/cdn.vox-cdn.com/uploads/chorus_image/image/69798597/run_640px.0.png' width='700px' /><br/>
+Today Strava is making Beacon, its live location-sharing service for athletes, available to everyone, whether you pay for the popular cycle and run-tracking app or not. Beacon sharing from the Strava app was previously only available via subscription, which currently costs $59.99 annually or $5.00 per month. The change follows a massive privacy push by Strava introduced earlier this month.
+<a href='https://www.theverge.com/2021/8/31/22649880/strava-beacon-live-location-tracking-map-data-privacy'> Source <a/>
