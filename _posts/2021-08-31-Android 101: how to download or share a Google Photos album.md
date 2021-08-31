@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NKqmT9bcuZM8r-Q-6XlNbesqBxg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69797630/jbareham_181010_2989_0323.0.jpg' width='700px' /><br/>
+One thing Google really wants you to do is, well, stay in Google — because the more you do things the Google way, the more data the company can monetize. The result is that while it is possible to pull your emails, photos, and other material outside of the Googleverse, it's just a little bit more difficult.
+<a href='https://www.theverge.com/22643429/android-how-to-download-share-google-photos-album'> Source <a/>
