@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zrFFeIU7wSGSgux1OJX7ePt0lrI=/0x0:4320x2880/1200x800/filters:focal(1815x1095:2505x1785)/cdn.vox-cdn.com/uploads/chorus_image/image/69792286/805984782.0.jpg' width='700px' /><br/>
-Chinese gaming platforms like Tencent and NetEase must limit online gaming to minors to just three hours per week following new rules imposed by regulators on Monday, according to Bloomberg citing state media reports. The change is being made in response to growing concern over gaming addiction and a broader crackdown on China's tech giants.
-<a href='https://www.theverge.com/2021/8/30/22648107/china-curbs-gaming-addiction-3-hours-each-week-spiritual-opium'> Source <a/>

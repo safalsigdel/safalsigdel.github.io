@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qkHl-zQZIJO3u1V_tG76tc8_6SA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69797479/androidappswindows11.0.jpeg' width='700px' /><br/>
+Microsoft won't ship support for Android apps on Windows 11 in time for the operating system's launch on October 5th. While Android apps running on Windows 11 is one of the big new features of the OS, Microsoft will only start previewing this feature in the coming months.
+<a href='https://www.theverge.com/2021/8/31/22650000/microsoft-windows-11-android-apps-support'> Source <a/>
