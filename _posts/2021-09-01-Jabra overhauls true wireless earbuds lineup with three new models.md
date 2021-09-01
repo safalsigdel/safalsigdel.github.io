@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b8sz3iyYoCFk7VQozMygnhWjqs4=/0x0:1686x1006/1200x800/filters:focal(890x349:1158x617)/cdn.vox-cdn.com/uploads/chorus_image/image/69797485/Screen_Shot_2021_08_31_at_12.39.43_AM.0.png' width='700px' /><br/>
-Jabra is today announcing a comprehensive makeover of its true wireless earbuds lineup. The company is introducing three new models and phasing out both the Elite 65t and 75t by the end of the year; the Elite 85t will remain part of the product family. Jabra says its latest devices — the Elite 7 Pro, Elite 7 Active, and Elite 3 — build upon “six generations worth of learnings” in the true wireless market.
-<a href='https://www.theverge.com/2021/8/31/22649800/jabra-elite-7-pro-active-3-features-price'> Source <a/>
