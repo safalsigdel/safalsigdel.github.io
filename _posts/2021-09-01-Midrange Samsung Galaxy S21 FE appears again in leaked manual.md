@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JmxtkLJ_jEmsl5W8Y4_IHeujwKU=/0x0:1147x764/1200x800/filters:focal(483x291:665x473)/cdn.vox-cdn.com/uploads/chorus_image/image/69801949/msedge_cwyTkgz4Rn.0.jpg' width='700px' /><br/>
+A user manual for Samsung's Galaxy S21 FE (aka “Fan Edition”) has been published online by SamMobile, giving us another look at the unannounced midrange counterpart to the company's Galaxy S21 flagship. As you'd expect from a manual, the document spends more time outlining how to use the phone than it does describing its specs, but it's a guide for what's to come.
+<a href='https://www.theverge.com/2021/9/1/22651847/samsung-galaxy-s21-fe-fan-edition-leaked-manual-specs-features'> Source <a/>
