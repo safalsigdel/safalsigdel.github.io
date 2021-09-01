@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bMvM_evSwqcoykdgQExpl1KxJkI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69801941/jbareham_170410_1605_0035.0.0.jpg' width='700px' /><br/>
+The number of government-led internet shutdowns has exploded over the last decade as states seek to stifle dissent and protest by limiting citizens' access to the web.
+<a href='https://www.theverge.com/2021/9/1/22649909/internet-sthudowns-government-freedom-speech-data-access-now-jigsaw'> Source <a/>
