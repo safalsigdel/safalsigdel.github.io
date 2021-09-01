@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9JJ0BuGLrewTuckmM5nk-tdY8bM=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69803689/Cyberpunk2077_Above_it_all_RGB.0.jpg' width='700px' /><br/>
+CD Projekt Red announced that the free next-gen upgrades for Cyberpunk 2077 and The Witcher 3: Wild Hunt, meant for the PS5 and Xbox Series X, have target release dates for late 2021 (PDF). The company has been promising that the updates were on their way, but now we have a somewhat more specific window for when they might arrive — and it's still within this calendar year.
+<a href='https://www.theverge.com/2021/9/1/22649551/cyberpunk-2077-witcher-3-next-gen-ps5-xbox-series-upgrade-update-release-announcement'> Source <a/>
