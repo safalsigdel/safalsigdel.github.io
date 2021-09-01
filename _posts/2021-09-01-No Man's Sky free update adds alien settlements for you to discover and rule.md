@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Lpa6C1a4TgstOn_NOFg4mc73TkQ=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22819496/No_Man_s_Sky_Frontiers_Screen_4.png' width='700px' /><br/>
+No Man's Sky's latest update is adding alien settlements for you to discover as you explore its procedurally-generated universe. The appropriately titled “Frontiers” expansion was first teased last month, and represents the game's seventeenth major update since its launch five years ago. It's available to download today, free of charge, like the rest of No Man's Sky's updates.
+<a href='https://www.theverge.com/2021/9/1/22651804/no-mans-sky-frontiers-free-update-alien-settlements-overseer-release-date-price'> Source <a/>

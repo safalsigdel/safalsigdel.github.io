@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/402dX_Vt8sMi3yD3S61FSf5LTlI=/0x0:4096x2296/1200x800/filters:focal(1721x821:2375x1475)/cdn.vox-cdn.com/uploads/chorus_image/image/69798637/grain_press_color_2.0.png' width='700px' /><br/>
-Moment is launching another video-focused app for iPhone and iPad Tuesday that lets you edit and color footage as well as create video presets or “looks” for use on social media or Moment's other video app, Rtro.
-<a href='https://www.theverge.com/2021/8/31/22643623/grain-video-coloring-app-moment-luts-presets'> Source <a/>
