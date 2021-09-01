@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rNZkRzxEBtEtj3kEFvvS6Y314s8=/0x0:2040x1360/1200x800/filters:focal(807x568:1133x894)/cdn.vox-cdn.com/uploads/chorus_image/image/69799014/vpavic_200929_4216_0137.0.jpg' width='700px' /><br/>
-The next Apple Watch is experiencing manufacturing issues that could lead to the product being released later than expected, according to separate reports from Nikkei and Bloomberg. The potential delay is reportedly due to complexities in the smartwatch's new design, which is rumored to include flat sides and bigger screens.
-<a href='https://www.theverge.com/2021/8/31/22650516/apple-watch-series-7-delayed-manufacturing-production-issues'> Source <a/>
