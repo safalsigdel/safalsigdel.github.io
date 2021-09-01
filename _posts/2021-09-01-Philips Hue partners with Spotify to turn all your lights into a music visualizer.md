@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8pUiwGTNGB6RigObcQFLyyU5xaY=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/69801786/Philips_Hue___Spotify___Image_1.0.jpg' width='700px' /><br/>
+If you've got a home full of Hue lights, there's an easy new way to set the mood for your next party. Signify, which makes the Philips Hue line, is partnering with Spotify so that your lightbulbs can automatically sync up with whatever music you have playing, changing color and flashing along to the beat.
+<a href='https://www.theverge.com/2021/9/1/22650896/hue-spotify-music-sync-integration'> Source <a/>
