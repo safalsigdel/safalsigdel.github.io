@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PrvfxaYhpZ1hjJKlXX3RLNGYAVo=/0x0:2358x1768/1200x800/filters:focal(967x832:1343x1208)/cdn.vox-cdn.com/uploads/chorus_image/image/69803268/Screen_Shot_2019_09_03_at_8.52.08_PM.0.png' width='700px' /><br/>
+Logitech is known mostly for its consumer-facing products, but it's making a big play to appeal more broadly to businesses that take privacy seriously. It's launching a range of mice and keyboards that will include a new Logi Bolt USB-A dongle that aims to reduce latency in crowded workplaces and greatly boost security.
+<a href='https://www.theverge.com/2021/9/1/22651973/logitech-logi-bolt-usb-dongle-bluetooth-security-le-keyboard-mouse-accessories'> Source <a/>
