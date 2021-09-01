@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Sj4YenOEJPIhZtmmJzpWMddHSBE=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69799558/acastro_210115_1777_twitch_hate_raid_0001.0.jpg' width='700px' /><br/>
+On Wednesday, September 1st, a number of channels on Twitch will go dark as streamers participate in #ADayOffTwitch, a walkout designed to bring attention to the ongoing hate and harassment that's plagued the platform for the last several weeks.
+<a href='https://www.theverge.com/2021/8/31/22650578/twitch-streamers-walkout-protest-hate-raids'> Source <a/>

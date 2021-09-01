@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eLXIWo1zsItY_Zl_Mdf0SSSCTWw=/352x110:1562x941/1200x800/filters:focal(972x356:1278x662)/cdn.vox-cdn.com/uploads/chorus_image/image/69800003/arctis_pro_wl_white_livingroom_wide_4k_001.jpg__1920x1080_q100_crop_fit_optimize_subsampling_2.0.jpg' width='700px' /><br/>
+If you're going to make the best product on the market, please go all the way.
+<a href='https://www.theverge.com/22643754/steelseries-arctis-pro-wireless-power-button-battery-swap'> Source <a/>

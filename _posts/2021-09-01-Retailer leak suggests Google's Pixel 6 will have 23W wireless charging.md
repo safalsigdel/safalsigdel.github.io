@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K1qC0CHQO9p42jKgC2PNhOQ2A2o=/0x0:7645x4500/1200x800/filters:focal(3212x1639:4434x2861)/cdn.vox-cdn.com/uploads/chorus_image/image/69800617/Google_Pixel_6__Portfolio_Shot.0.jpg' width='700px' /><br/>
+Google may be working on a new wireless charging stand for its Pixel phones, according to a leaked image of a retail inventory backend mentioning a “Google Pixel 23W WL Stand” published by Android Police. The name suggests the charger could support 23W wireless charging, and if Google does end up releasing this stand, it seems likely that the upcoming Pixel 6 and Pixel 6 Pro would support 23W charging as well.
+<a href='https://www.theverge.com/2021/8/31/22651097/google-pixel-6-pro-stand-23w-wireless-charging'> Source <a/>

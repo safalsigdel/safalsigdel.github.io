@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H-CrV76AnCwu38JjrGXPhF4RkaI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69796814/dbohn_210816_4717_0002.0.jpg' width='700px' /><br/>
-Samsung has released a new walkie talkie app for the Galaxy Watch 4 and Watch 4 Classic, which allows watch owners to have push-to-talk conversations with one another using the wearable. The app's release was reported by XDA Developers, but its development was rumored in May by SamMobile prior to the watch's official announcement. It's available to download now via the Google Play Store.
-<a href='https://www.theverge.com/2021/8/31/22649932/samsung-walkie-talkie-galaxy-watch-4-classic-apple-watch'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-mh38QtSyUYZ27zQXXXquf4jP8I=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69796779/dseifert_4711_samsung_z_flip_3_9.0.jpg' width='700px' /><br/>
-The Z Fold 3 and Z Flip 3 have inherited a battery protection that was previously exclusive to Samsung's tablets, which when enabled is designed to maximize the lifespan of batteries, SamMobile reports. The “Protect battery” feature limits the devices' charge level to 85 percent, preventing the full charge to 100 percent that's believed to wear down batteries over years of use.
-<a href='https://www.theverge.com/2021/8/31/22649896/samsung-battery-protect-z-flip-fold-3-85-percent-charge'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iDzGOd89_eOO-QSOGUHQCTs8zUs=/0x0:3840x2160/1200x800/filters:focal(2939x727:3553x1341)/cdn.vox-cdn.com/uploads/chorus_image/image/69797080/time_insights.0.png' width='700px' /><br/>
-Google is adding a new “Time insights” panel to Calendar on the web, showing users how much of their working week is spent in meetings. According to Google's blog post, the feature is rolling out gradually over the next month on select plans. It was first announced back in March as part of a raft of new features coming to Google Workspace.
-<a href='https://www.theverge.com/2021/8/31/22649975/google-calendar-time-insights-meeting-breakdown'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JoIOPFVDg9Iy1yNbpoPVHBZ8UII=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69801020/VRG_4132_BigTechs_Commitment_Lede_FR.0.0.jpg' width='700px' /><br/>
+Apple has pledged another $30 million to racial justice, on top of the $100 million it promised last year in the wake of George Floyd's death.
+<a href='https://www.theverge.com/2021/8/31/22651312/apple-pledges-another-small-but-welcome-sum-to-racial-justice'> Source <a/>

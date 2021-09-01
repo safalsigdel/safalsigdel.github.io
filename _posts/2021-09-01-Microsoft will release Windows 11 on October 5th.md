@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uiJ0zi7WFKl37iVJgdNXJxtzU_0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69797477/Hero_Bloom_Logo.0.jpg' width='700px' /><br/>
-Microsoft is announcing that Windows 11 will be released on October 5th. The new operating system will be available as a free upgrade for eligible Windows 10 PCs, or on new hardware that ships with Windows 11 pre-loaded.
-<a href='https://www.theverge.com/2021/8/31/22649940/windows-11-release-date-features-devices-free-upgrade'> Source <a/>
