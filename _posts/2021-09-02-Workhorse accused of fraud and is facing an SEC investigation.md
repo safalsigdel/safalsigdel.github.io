@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5QjlfDooo-4RDML7ashSVet88Xo=/0x0:1280x663/1200x800/filters:focal(538x230:742x434)/cdn.vox-cdn.com/uploads/chorus_image/image/69804572/c1000white21.0.jpg' width='700px' /><br/>
-EV startup Workhorse has been accused of touting fake preorders, accounting fraud, and hiding a Securities and Exchange Commission investigation from its investors in a new report published by short-selling research firm Fuzzy Panda. The report also contains allegations that Workhorse's new electric vans are already breaking down for customers like Ikea.
-<a href='https://www.theverge.com/2021/9/1/22652319/workhorse-fraud-sec-investigation-short-seller-fuzzy-panda'> Source <a/>
