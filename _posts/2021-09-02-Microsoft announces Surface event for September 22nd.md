@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u1hEL8kh86C24nh31-D80D95IPw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69803455/akrales_190930_3688_0196.0.jpg' width='700px' /><br/>
+Microsoft is holding a special Surface hardware event on September 22nd. The software maker has started sending media invites for this fall hardware event, although it will be online-only and not in person. Microsoft's invite says “the company will talk about devices and Windows 11,” and we're expecting to see a successor to the Surface Duo and a new Surface laptop.
+<a href='https://www.theverge.com/2021/9/1/22651859/microsoft-surface-event-date'> Source <a/>
