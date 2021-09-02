@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oM4hLiIggENCSVQ9tBf3R9Cp-Vs=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/69802020/verge_DSC_7394_2040pxl.0.jpg' width='700px' /><br/>
-VanMoof just raised another $128 million in funding, after announcing a $40 million investment round in September 2020. That brings Amsterdam-based VanMoof's total haul to $182 million raised in the last two years, excluding crowdfunding rounds in 2018 and 2019, making it “the most funded e-bike company in the world,” according to VanMoof.
-<a href='https://www.theverge.com/2021/9/1/22651860/vanmoof-128-million-funding-most-funded-ebike-company'> Source <a/>

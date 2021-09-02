@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TV1plpUB_9G-yzvfeU-Q25JgKU8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69804937/vpavic_200930_4216_0239.0.jpg' width='700px' /><br/>
+Apple apparently has a growing wishlist of health features for future versions of the Apple Watch, some feasible and some far-fetched. According to a Wall Street Journal report, Apple's plans include various types of monitoring, including blood pressure, temperature, sleep, and blood sugar. The details come just after reports that the release of the next Apple Watch is likely to be delayed because of manufacturing issues.
+<a href='https://www.theverge.com/2021/9/1/22652120/apple-watch-blood-pressure-temperature-sleep-diabetes'> Source <a/>

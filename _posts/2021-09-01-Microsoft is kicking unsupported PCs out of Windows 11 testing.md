@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jnNEnGxvqhmChYK6OTHzEJkoRmE=/0x0:1600x1000/1200x800/filters:focal(672x372:928x628)/cdn.vox-cdn.com/uploads/chorus_image/image/69801955/windows11stock.0.jpg' width='700px' /><br/>
-Microsoft is starting to drop PCs from its Windows Insider testing program that are ineligible to upgrade to Windows 11. If you've been helping Microsoft test Windows 11 on a machine that doesn't meet the minimum hardware requirements, you'll likely see a message in Windows Update warning that you'll need to reinstall Windows 10.
-<a href='https://www.theverge.com/2021/9/1/22651851/microsoft-windows-11-testing-pcs-requirements-changes'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lu-8ctKlsEKNvGLs0AK6yzs4Ek0=/0x0:2040x1360/1200x800/filters:focal(1035x444:1361x770)/cdn.vox-cdn.com/uploads/chorus_image/image/69804131/jbareham_160711_1134_0005_02.0.0.jpg' width='700px' /><br/>
+Last month Niantic sparked a backlash in the Pokxc3xa9mon Go community when it announced plans to reverse some of the changes it made last year to make the game more playable while staying at home. The company said it would set up a “task force” to figure out the best way to move forward and would announce its findings by today, September 1st.
+<a href='https://www.theverge.com/2021/9/1/22651865/niantic-pokemon-go-task-force-interaction-distance'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fiW0AXFxYeSTT4939IjjBdxv7JQ=/0x0:1068x712/1200x800/filters:focal(449x271:619x441)/cdn.vox-cdn.com/uploads/chorus_image/image/69802339/DJI_OM_5_1630481788_0_4.0.jpg' width='700px' /><br/>
-DJI appears to have another smartphone gimbal on the way with a telescoping selfie stick built into its handle, according to WinFuture. The Osmo Mobile 5, which is an apparent successor to last year's Osmo Mobile 4, is likely to make its first appearance at DJI's September 8th launch event where it will reportedly earn a European price of xe2x82xac159, which roughly translates to a tax-inclusive price of $188.
-<a href='https://www.theverge.com/2021/9/1/22651919/dji-osmo-mobile-5-smartphone-gimbal-selfie-stick'> Source <a/>

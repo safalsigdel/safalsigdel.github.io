@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iqPP-NSXzyCMfPT1gZwGp2a2dM4=/0x0:3966x2639/1200x800/filters:focal(842x1013:1476x1647)/cdn.vox-cdn.com/uploads/chorus_image/image/69799682/1229184225.0.jpg' width='700px' /><br/>
-LinkedIn is shutting down its ephemeral Stories product, the company announced Tuesday. The company plans to “remove the current Stories experience by the end of September,” according to Liz Li, senior director of product. The Snapchat-style video Stories were first launched in February 2020 in internal testing.
-<a href='https://www.theverge.com/2021/8/31/22650740/linkedin-stories-ephemeral-video-shut-down'> Source <a/>

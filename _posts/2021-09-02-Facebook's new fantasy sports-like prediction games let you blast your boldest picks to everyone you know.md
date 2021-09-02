@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qty_VzFo8ZjYDGFJNNZkYgwX1zc=/0x0:890x816/1200x800/filters:focal(380x90:522x232)/cdn.vox-cdn.com/uploads/chorus_image/image/69805645/NRP_Fantasy_Games_on_Facebook_Inline_3__1_.0.png' width='700px' /><br/>
+Facebook is adding fantasy sports-like prediction games that will let users guess what's going to happen in sports, TV shows, and pop culture. The new games, called Facebook Fantasy Games, are rolling out first on the iOS and Android apps for users in the US and Canada.
+<a href='https://www.theverge.com/2021/9/1/22652826/facebook-fantasy-games-prediction-sports-tv-shows-ios-android'> Source <a/>

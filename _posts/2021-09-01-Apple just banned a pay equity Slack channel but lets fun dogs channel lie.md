@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Sxyc0nJZXEEUkCXaUriu-2hv-oQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69799663/acastro_170731_1777_0004_v2.0.jpg' width='700px' /><br/>
-Apple has barred employees from creating a Slack channel to discuss pay equity. A member of the employee relations team, Apple's version of HR, said that while the topic was “aligned with Apple's commitment to pay equity,” it did not meet the company's Slack Terms of Use.
-<a href='https://www.theverge.com/2021/8/31/22650751/apple-bans-pay-equity-slack-channel'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jP6DLqy9cBzkZTFak4DbYzS96pc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69805014/acastro_180406_1777_facebook_Congress_0001.0.jpg' width='700px' /><br/>
+Texas is one step closer to enacting a law that would make it more difficult for social media companies to moderate political content. Both Texas' House and Senate approved the bill earlier this week, sending it to Gov. Greg Abbott's desk.
+<a href='https://www.theverge.com/2021/9/1/22652764/facebook-twitter-censor-ban-texas-republicans-abbott'> Source <a/>

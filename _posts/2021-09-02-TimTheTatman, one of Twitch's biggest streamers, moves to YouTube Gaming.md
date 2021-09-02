@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/npsxdzCGLDdy8IDg6Y4T6kjjOJQ=/0x132:1997x1459/1200x800/filters:focal(837x510:1155x828)/cdn.vox-cdn.com/uploads/chorus_image/image/69804098/1077212614.0.jpg' width='700px' /><br/>
+Tim “TimTheTatMan” Betar, one of the most popular streamers on Twitch, is leaving to stream exclusively on YouTube Gaming. His move comes just days after another big streamer, Ben “DrLupo” Lupo, announced that he'd be switching from Twitch to YouTube as well. Betar's first stream will take place on September 2nd.
+<a href='https://www.theverge.com/2021/9/1/22652368/timthetatman-streaming-twitch-switch-youtube-gaming'> Source <a/>

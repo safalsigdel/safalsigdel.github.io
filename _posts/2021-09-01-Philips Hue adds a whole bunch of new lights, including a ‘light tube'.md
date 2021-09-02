@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B-9Zqv2u2rhDV3I5Ef1ucm2XMYw=/770x144:4878x3049/1200x800/filters:focal(2135x1718:3031x2614)/cdn.vox-cdn.com/uploads/chorus_image/image/69801784/Philips_Hue_Play_gradient_light_tube_2.0.jpeg' width='700px' /><br/>
-The Philips Hue line of smart bulbs is growing today with the addition of a bunch of new lights, strips, and lamps. There's a bunch of stuff, so here's a quick rundown:
-<a href='https://www.theverge.com/2021/9/1/22650951/hue-light-tube-gradient-filament-brighter-bulbs'> Source <a/>

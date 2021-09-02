@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6thWV4UIo-U3nwcOcXiIudemo-M=/0x0:2000x1250/1200x800/filters:focal(840x465:1160x785)/cdn.vox-cdn.com/uploads/chorus_image/image/69802441/item_details_view.0.png' width='700px' /><br/>
-Many of us would agree that online protection is more vital than ever before, but trying to remember a random string of letters and symbols for every site you frequent — or don't — isn't always easy. Password managers like 1Password are a great way to store your login credentials and beef up your security, however, one that can also save you plenty of time.
-<a href='https://www.theverge.com/good-deals/2021/9/1/22651065/1password-amazon-echo-show-8-samsung-qled-tv-jabra-elite-85t-apple-deals-sale'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T-a9s9bYBiRbeMuZVX4OtSPQPKw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69804527/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Twitter is starting to roll out Super Follows, its new feature that lets users charge for subscriber-only content. Creators can set their tweets to go out to Super Followers only, and the tweets will appear in the timelines of just those subscribers. The feature, announced in February, is currently only available on Twitter's iOS app and is limited to a test group of people in the US who applied to try it out.
+<a href='https://www.theverge.com/2021/9/1/22651138/twitter-super-follow-launch-subscription-ios'> Source <a/>

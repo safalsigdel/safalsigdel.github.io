@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZjNqhEH0-P-ydkJxJOWViahu8Tg=/0x0:2164x1461/1200x800/filters:focal(909x558:1255x904)/cdn.vox-cdn.com/uploads/chorus_image/image/69805757/locast.0.png' width='700px' /><br/>
+ABC, NBC, CBS, and Fox have secured a victory in their legal fight against Locast, a nonprofit that re-streams their local broadcast stations at little to no cost, much to the consternation of those networks.
+<a href='https://www.theverge.com/2021/9/1/22652988/broadcaster-victory-locast-abc-nbc-fox-cbs'> Source <a/>

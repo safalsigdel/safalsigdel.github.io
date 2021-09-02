@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QG28xUyHpvWZZQIVYoMUuyOB194=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/69805416/1230490671.0.jpg' width='700px' /><br/>
+As Congress pushes for more details of the January 6th attack on the Capitol, tech companies have found themselves caught between a new request from the select committee investigating the attack and ominous threats from Republicans hoping to stall the committee's investigation.
+<a href='https://www.theverge.com/2021/9/1/22652392/google-facebook-microsoft-january-6-data-request'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1KPWeNfPRV9a46OZupK3DFUl410=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69805135/acastro_180413_1777_reddit_0002.0.jpg' width='700px' /><br/>
+Reddit has banned anti-vaccine and anti-mask subreddit r/NoNewNormal and has quarantined 54 other subreddits associated with COVID denial. A week ago, the company's CEO said in a post that Reddit was meant to be a place of “open and authentic discussion and debate,” even for ideas that “question or disagree with popular consensus.” In today's post, the company has clarified its rules with regard to health misinformation.
+<a href='https://www.theverge.com/22652705/reddit-covid-misinformation-ban-nonewnormal-health-policies'> Source <a/>
