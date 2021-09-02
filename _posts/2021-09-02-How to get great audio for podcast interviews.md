@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/pIAHKS9e6xDZpM1AM6dsUzkXhNg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69807707/akrales_180215_2309_0080.0.jpg' width='700px' /><br/>
 Podcasts continue to be very popular, and more and more people are getting involved in them. Even if you're not a podcast creator, at some point, you may find yourself being interviewed on or contributing to someone else's podcast. In that case, it's not enough to be ready to talk about your topic — you also want to make sure your voice comes through loud and clear.
-<a href='https://www.theverge.com/22652143/how-to-get-great-audio-for-podcast-interviews'> Source <a/>
+<a href='https://www.theverge.com/22652143/podcast-interviews-audio-mic-how-to-noise'> Source <a/>
