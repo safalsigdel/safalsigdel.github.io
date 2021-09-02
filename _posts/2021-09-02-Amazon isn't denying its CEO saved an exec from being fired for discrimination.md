@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BMHmhQubgkUkOY7GwRfTPHdlznY=/0x0:4000x2667/1200x800/filters:focal(969x857:1609x1497)/cdn.vox-cdn.com/uploads/chorus_image/image/69805109/670451714.0.jpg' width='700px' /><br/>
-It hasn't even been two months since Amazon CEO Andy Jassy took the reins from founder Jeff Bezos, but the company's new chief executive is already facing a potential scandal. Two anonymous sources have accused Jassy of stepping in to overrule the company's own HR department when it recommended that an executive be fired for discrimination — and Amazon isn't denying it, reports Protocol.
-<a href='https://www.theverge.com/2021/9/1/22652722/amazon-ceo-andy-jassy-joshua-burgin-aws-discrimination-hr-termination'> Source <a/>
