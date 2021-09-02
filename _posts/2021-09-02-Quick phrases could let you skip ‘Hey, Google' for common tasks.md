@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tGUvw3UvIaZE5hh8UcJajiojxFs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69807009/acastro_180510_1777_google_assistant_0003.0.jpg' width='700px' /><br/>
+“Quick phrases” is a new feature currently under development for Google Assistant that could one day let you skip having to say “Hey, Google” for common phrases like “What time is it?” or “Turn the lights on,” 9to5Google reports. The feature is yet to be officially announced, and it's unclear when it might launch or exactly which devices might support it.
+<a href='https://www.theverge.com/2021/9/2/22653614/google-assistant-quick-phrases-guacamole-salsas-wake-word-phrase'> Source <a/>

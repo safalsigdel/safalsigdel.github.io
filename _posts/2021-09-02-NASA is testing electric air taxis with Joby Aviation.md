@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xRSKobgN00pKuzQ-WpqGAeDV3oM=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/69803252/1sep2021_press_release___co5i3243.0.jpeg' width='700px' /><br/>
-NASA kicked off test flights of electric vertical take-off and landing (eVTOL) aircraft — colloquially referred to as “flying cars” — with Joby Aviation, the Northern California company that recently went public. The test flights are part of a national campaign by NASA to observe these experimental aircraft in action and determine whether they are safe for passengers.
-<a href='https://www.theverge.com/2021/9/1/22651998/nasa-joby-evtol-test-flight-air-taxi'> Source <a/>
