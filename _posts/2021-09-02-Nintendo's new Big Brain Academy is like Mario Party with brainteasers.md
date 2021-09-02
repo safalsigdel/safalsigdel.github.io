@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mS-NkrUXiheZPCXlwrOoMzu8qTA=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/69808020/bigbrain.0.jpg' width='700px' /><br/>
+Nintendo sneakily announced Big Brain Academy: Brain vs. Brain, a new educational puzzle game for the Switch that sees the revival of a franchise that previously appeared on the DS handheld (and later ported to Wii U's Virtual Console). It'll release on December 3rd, 2021 for $29.99, and in it you'll race through puzzle mini games and challenges to flex your smarts.
+<a href='https://www.theverge.com/2021/9/2/22653863/nintendo-big-brain-academy-vs-switch-multiplayer-release-date-price'> Source <a/>

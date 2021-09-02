@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FomV8TIYtsrqYi24I8dLgsQEoR4=/0x0:3564x2382/1200x800/filters:focal(1497x906:2067x1476)/cdn.vox-cdn.com/uploads/chorus_image/image/69804598/safetymodeasset.png.img.fullhd.medium.0.png' width='700px' /><br/>
-Twitter is launching a new feature called Safety Mode that will temporarily autoblock accounts sending harmful or abusive tweets to you. Safety Mode is launching in beta with a “small feedback group” of accounts on iOS, Android, and Twitter.com with English-language settings enabled and plans of expanding the group of testers “in the coming months.”
-<a href='https://www.theverge.com/2021/9/1/22652572/twitter-safety-mode-autoblocks-abusive-accounts-beta'> Source <a/>
