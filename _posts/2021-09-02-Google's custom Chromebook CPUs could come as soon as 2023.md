@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gedt1A9qUQNwssAOVA5Sc5-u7eE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69803530/mchin_210727_4682_0007.0.jpg' width='700px' /><br/>
-Google's custom chips could expand past the Pixel 6 to Chromebook laptops and tablets as early as 2023, according to a new report from Nikkei Asia on the company's expanding emphasis on designing its own processors.
-<a href='https://www.theverge.com/2021/9/1/22652003/google-chromebook-cpus-custom-design-2023-report'> Source <a/>
