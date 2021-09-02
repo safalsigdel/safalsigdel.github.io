@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/knqrCHlolK9Wsgdqt_QyvavyHoM=/0x0:2880x1602/1200x800/filters:focal(1544x480:2004x940)/cdn.vox-cdn.com/uploads/chorus_image/image/69804586/Screen_Shot_2021_09_01_at_9.10.08_AM.0.png' width='700px' /><br/>
-Netflix has announced that the entirety of Seinfeld is coming to the streaming service starting on October 1st. The show hasn't been available on a streaming service since it went of Hulu on June 23rd, according to Vulture, so there's probably some pent-up demand.
-<a href='https://www.theverge.com/2021/9/1/22652391/seinfeld-netflix-october-streaming-wars-friends-the-office'> Source <a/>
