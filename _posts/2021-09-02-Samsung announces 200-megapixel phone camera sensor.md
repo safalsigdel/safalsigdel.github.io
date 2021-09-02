@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RvFAuCk9RbmVkOXmh3KmbqvH_II=/0x0:1000x561/1200x800/filters:focal(420x201:580x361)/cdn.vox-cdn.com/uploads/chorus_image/image/69806896/ISOCELL_HP1_GN5_main1.0.jpg' width='700px' /><br/>
+Samsung has announced a 200-megapixel image sensor intended for smartphone cameras, by some distance the highest resolution phone camera sensor ever made. The ISOCELL HP1 has 0.64xcexbcm pixels and can bin 16 of them at once for the equivalent of a 12.5-megapixel sensor with 2.56xcexbcm pixels.
+<a href='https://www.theverge.com/2021/9/2/22653558/samsung-isocell-hp1-gn5-200-megapixel-camera-sensor-announced'> Source <a/>
