@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/08-ismccd4wCj-T33Rx-vpVtTmI=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69803799/Copy_of_007_PK_Concert_Environment_Shot.0.png' width='700px' /><br/>
-Yet another big game is jumping into the world of virtual concerts. League of Legends creator Riot is partnering with “virtual entertainment” company Wave for an upcoming event centered on the game's in-universe heavy metal band Pentakill. The concert is set to take place on September 8th at 1:30PM PT / 4:30PM ET, and it's tied to the band's upcoming album release. You can watch it right here.
-<a href='https://www.theverge.com/2021/9/1/22650703/league-of-legends-wave-virtual-concert-pentakill-heavy-metal'> Source <a/>

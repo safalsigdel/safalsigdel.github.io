@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i74f-iajeiq1E9xop9oo4-fGCug=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69803736/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
-HBO Max is now available on Vizio SmartCast TVs, meaning users will no longer have to use casting workarounds to access the streaming service.
-<a href='https://www.theverge.com/2021/9/1/22652258/hbo-max-now-vizio-smartcast-tvs'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z2nDByjuZdTnx-yb5Z2HBvB26TU=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/69807719/JN_200917_ROLI_6342.0.jpg' width='700px' /><br/>
+UK music startup Roli, best known for its squishy keyboards like the Seaboard Rise, has filed for administration and is reforming as Luminary. The new company will focus on the Lumi keyboard and app, which are designed to teach beginners to play the piano.
+<a href='https://www.theverge.com/2021/9/2/22653749/music-startup-roli-administration-reform-luminary-lumi-keys-app'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JtOiF3aDg8YKc7XFnwLxqqxPxjY=/0x0:1200x630/1200x800/filters:focal(504x219:696x411)/cdn.vox-cdn.com/uploads/chorus_image/image/69807656/NVIDIA_Broacast_v_1.3.0.jpg' width='700px' /><br/>
+Nvidia is updating its Broadcast app to improve noise removal, support more cameras, and reduce the amount of VRAM used by the app. Nvidia Broadcast is primarily used by streamers and content creators to filter out background noise from a microphone, or blur a backdrop for a webcam. Nvidia is focusing on improving these main use cases with version 1.3 today.
+<a href='https://www.theverge.com/2021/9/2/22653658/nvidia-broadcast-version-1-3-update-features'> Source <a/>
