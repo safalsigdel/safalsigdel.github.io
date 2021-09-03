@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_iT9MANfQUzldBu_fqxtusJhcAE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69807797/acastro_210119_1777_whatsapp_0002.0.jpg' width='700px' /><br/>
-Facebook-owned WhatsApp has been fined xe2x82xac225 million ($267 million) for breaking the European Union's data privacy rules. Ireland's Data Protection Commission (DPC) announced the decision in an 89-page summary (PDF), noting that WhatsApp did not properly inform EU citizens how it handles their personal data, including how it shares that information with its parent company.
-<a href='https://www.theverge.com/2021/9/2/22653747/whatsapp-fine-amount-europe-gdpr-privacy'> Source <a/>
