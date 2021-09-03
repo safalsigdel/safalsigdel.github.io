@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4cyjZFv_1Vk3G8QoxRSXlkk6Gl8=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69806229/Roadster_Hero.0.jpg' width='700px' /><br/>
-Tesla CEO Elon Musk said that the upcoming Tesla Roadster “should ship in 2023” in a tweet on Wednesday. He blamed the ongoing supply chain shortages for the long timeline. “2021 has been the year of super crazy supply chain shortages, so it wouldn't matter if we had 17 new products, as none would ship,” Musk said.
-<a href='https://www.theverge.com/2021/9/1/22653205/tesla-roadster-elon-musk-ship-delay-2023'> Source <a/>

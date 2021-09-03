@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YTCc7fTEVEwPQnR_x4icZSm7mws=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/69809593/horizon_forbidden_west_screenshot_10_disclaimer_en_27may21.0.jpeg' width='700px' /><br/>
+Horizon Forbidden West, the sequel to the much-beloved Horizon Zero Dawn, is now available for preorder ahead of the game's newly announced February 18th, 2022, release date for both PS4 and PS5. But if you're planning to play the game on PS4 and eventually try it on PS5, there's no way to get a cross-gen upgrade.
+<a href='https://www.theverge.com/2021/9/2/22654091/horizon-forbidden-west-no-next-gen-upgrade-ps4-ps5'> Source <a/>

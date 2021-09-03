@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FyuNvkUtNGHelaw6pWqUiFld-e0=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/69809281/GrandSphere60875_2.0.jpg' width='700px' /><br/>
+Automakers love concept cars that tease a future in which very rich people ride around in autonomous vehicles that look like luxurious living spaces. The latest is Audi's Grandsphere, a spacious electric sedan with an interior that looks like it was designed by a Kardashian.
+<a href='https://www.theverge.com/2021/9/2/22653897/audi-grandsphere-concept-autonomous-electric-interior-pics'> Source <a/>

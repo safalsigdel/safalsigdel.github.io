@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GYicQT5UTK90LLe0UxSty9oP0uY=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69807171/mb_yahoo_02.0.jpg' width='700px' /><br/>
-Yahoo and AOL, formerly known as Verizon Media, have officially been acquired by their new owners and renamed as simply “Yahoo.” Verizon announced it was selling the properties to Apollo Global Management in May in a deal said to be worth $5 billion, around half of the nearly $9 billion the telecom giant originally paid for them, and a fraction of the hundreds of billions the two companies were worth at their peaks.
-<a href='https://www.theverge.com/2021/9/2/22653652/yahoo-aol-acquired-apollo-global-management-private-equity'> Source <a/>

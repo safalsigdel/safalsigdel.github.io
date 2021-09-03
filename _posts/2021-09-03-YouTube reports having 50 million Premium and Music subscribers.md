@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2rdVVOLRdsfVhkt21XcjOBwOgsY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69810148/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
+Google has announced that it has 50 million users subscribed to or trying YouTube Music and YouTube Premium, which is a marked increase from the 30 million subscribers it reported in December 2020. This seems to mark a continued trend in people looking to make the jump from the free versions of YouTube and YouTube Music, even as more services are competing in the space.
+<a href='https://www.theverge.com/2021/9/2/22654318/youtube-50-million-premium-music-subscribers-streaming-services'> Source <a/>

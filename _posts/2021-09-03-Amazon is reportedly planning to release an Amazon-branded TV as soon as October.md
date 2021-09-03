@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ie-0MBJ2LkgAnruXB2oRO2hPqUM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69811532/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
+Amazon is set to release Amazon-branded TVs as soon as October in the US, according to Insider. The TVs will have Alexa, screen sizes “in the range of 55 to 75 inches,” and will be designed and manufactured by third parties such as TCL, Insider reports. The company is also developing a TV designed in-house, Insider says, but it's unclear when that might be released.
+<a href='https://www.theverge.com/2021/9/2/22655016/amazon-branded-tv-television-tcl'> Source <a/>

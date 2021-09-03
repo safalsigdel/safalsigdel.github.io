@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jGgaxwNYYl0dO-ijPVG3u0pd-7k=/0x0:6000x4350/1200x800/filters:focal(2520x1695:3480x2655)/cdn.vox-cdn.com/uploads/chorus_image/image/69809585/1332379627.0.jpg' width='700px' /><br/>
+General Motors, parent company of Chevrolet, GMC, Cadillac, and Buick, said it was temporarily halting production at six of its North American factories as a result of the global chip shortage. It's the latest major automaker to be affected by the tight supply of essential computer chips.
+<a href='https://www.theverge.com/2021/9/2/22654357/gm-factory-shutdown-chip-shortage-truck-suv'> Source <a/>

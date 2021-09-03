@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+I want to preface this post by saying I will never pretend to understand why corporations do some of the things they do. I was simply minding my own business, looking for information on BMW's new concept scooter on the German automaker's press site, when... well, here, look:
+<a href='https://www.theverge.com/tldr/2021/9/2/22654413/bmw-joytopia-metaverse-platform-coldplay-concert-iaa-mobility'> Source <a/>

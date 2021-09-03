@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zi9YW_ZskLKgPhRxFY2dKcj03aY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69810344/acastro_180329_1777_amazon_0001.0.jpg' width='700px' /><br/>
+Amazon is planning to expand its in-house moderation team for Amazon Web Services, according to a new report from Reuters. Citing two sources, the report says Amazon is planning to develop a proactive threat monitoring capability within AWS, which will seek out prohibited content on AWS servers and remove it before it's reported by users.
+<a href='https://www.theverge.com/2021/9/2/22654512/amazon-aws-proactive-moderation-prohibited-content-terrorism'> Source <a/>

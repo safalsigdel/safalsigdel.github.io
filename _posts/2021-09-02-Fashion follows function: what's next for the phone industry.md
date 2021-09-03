@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xBZbMXoDeD5_9YexiGCHAE7f9O4=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22818674/vpavic_210831_4739_0001.jpg' width='700px' /><br/>
-The Galaxy Z Flip 3 is a totally normal phone with One Weird Trick: it folds. As Dan Seifert explained in our full review, it's the beginning of a new phase for foldables, one where buying a folding phone is something that could appeal to anybody, not just techies.
-<a href='https://www.theverge.com/22652375/samsung-galaxy-z-flip-3-phones-fashion'> Source <a/>

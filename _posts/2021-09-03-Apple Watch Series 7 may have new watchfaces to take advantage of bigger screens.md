@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aac7cjco4GY5yuavJfj2ZjebaG0=/0x0:2040x1360/1200x800/filters:focal(702x492:1028x818)/cdn.vox-cdn.com/uploads/chorus_image/image/69810489/vpavic_200929_4216_0171.0.jpg' width='700px' /><br/>
+Bloomberg's Mark Gurman shared more details Thursday about what to expect from the rumored bigger screens coming to the next Apple Watch.
+<a href='https://www.theverge.com/2021/9/2/22654621/apple-watch-series-7-new-watchfaces-bigger-screens'> Source <a/>
