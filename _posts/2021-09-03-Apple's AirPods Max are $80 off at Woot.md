@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wEtdiSW9ubRQc0L7skiiWhV1R64=/0x0:2040x1282/1200x800/filters:focal(857x478:1183x804)/cdn.vox-cdn.com/uploads/chorus_image/image/69807771/IMG_6828_3.0.jpg' width='700px' /><br/>
-Apple's notoriously expensive AirPods Max headphones are, in some ways, more of a luxury purchase — but today you can live it up for just a little less thanks to the Woot's ongoing “Sounds of Summer” sale. Well, if you're an Amazon Prime member that is.
-<a href='https://www.theverge.com/good-deals/2021/9/2/22652060/apple-airpods-max-dji-mavic-mini-ipad-mini-logitech-mouse-deal-sale'> Source <a/>
