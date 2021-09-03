@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AeQNHgaXP3s_1lSsFycthvbga0Y=/0x0:5250x3600/1200x800/filters:focal(2205x1380:3045x2220)/cdn.vox-cdn.com/uploads/chorus_image/image/69812532/philips_smart_led_bulb_package.0.jpg' width='700px' /><br/>
+Signify, owner of the Philips Hue brand, today announced the global launch of its Philips Smart LED bulbs. The new lineup originates from Signify's 2019 acquisition of Wiz, and carries the “Wiz Connected” logo on its blue packaging to differentiate it from Hue products. A similar collection of bulbs launched in the US at Home Depot stores at this time last year, only under a slightly tweaked “Philips WiFi LED” name.
+<a href='https://www.theverge.com/2021/9/3/22654576/philips-smart-led-bulbs-price-sizes-signify'> Source <a/>
