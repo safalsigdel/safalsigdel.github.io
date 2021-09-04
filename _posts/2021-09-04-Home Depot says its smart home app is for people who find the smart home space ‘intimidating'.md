@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vdFjQ3OR2tqr0VFoBw_5jtKvkS0=/0x0:1500x1367/1200x800/filters:focal(630x564:870x804)/cdn.vox-cdn.com/uploads/chorus_image/image/69817142/HubspaceDeviceScan2.0.jpg' width='700px' /><br/>
+Home Depot has launched a smart home app meant to be an all-in-one for smart appliances and accessories the big box store sells, but it's debatable why anyone would need it when Google Home and Amazon's Alexa already exist.
+<a href='https://www.theverge.com/2021/9/4/22654623/home-depot-smart-home-amazon-alexa-google-home'> Source <a/>
