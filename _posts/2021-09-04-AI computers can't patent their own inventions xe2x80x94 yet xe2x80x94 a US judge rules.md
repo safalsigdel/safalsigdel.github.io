@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6JSQcWU-gEFUW7dMaM1RfRpTRYg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69814569/jbareham_170215_1460_0001_v2_5_2.0.jpg' width='700px' /><br/>
+Should an artificially intelligent machine be able to patent its own inventions? For a US federal judge, the larger implications of that question were irrelevant. In April 2020, the US Patent and Trademark Office (USPTO) ruled that only “natural persons” could be credited as the inventor of a patent, and a US court decided Thursday that yes, that's what the law technically says (via Bloomberg).
+<a href='https://www.theverge.com/2021/9/3/22656039/ai-inventor-patent-copyright-uspto-federal-court-ruling'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VLjyu48bY4Qru7QJTGsvUB1YafA=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/69808610/Zenbook_14X_OLED_UX5400_Product_photo_Pine_Grey_Thin_and_light.0.png' width='700px' /><br/>
-Asus's Zenbooks are known for being quite lightweight and quite affordable. But the company is adding another calling card to the line: OLED display technology.
-<a href='https://www.theverge.com/2021/9/2/22652934/asus-zenbook-14x-oled-laptop-ultraportable-notebook-samsung-screen-display'> Source <a/>

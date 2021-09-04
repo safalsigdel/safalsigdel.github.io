@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IhR1I4SJ09uweAdfz6U7p3fKemM=/0x0:1231x862/1200x800/filters:focal(518x333:714x529)/cdn.vox-cdn.com/uploads/chorus_image/image/69808485/Locast_nyc.0.png' width='700px' /><br/>
-Locast has announced that it is suspending its TV streaming service starting today, following a court ruling earlier this week in a lawsuit from ABC, CBS, Fox, and NBC, which jointly sued the nonprofit service shortly after it launched.
-<a href='https://www.theverge.com/2021/9/2/22654047/locast-tv-streaming-over-the-air-court-ruling-shutdown'> Source <a/>

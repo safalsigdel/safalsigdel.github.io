@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/syh9qBFnV52IaA2WLF2t1zKaHkY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69815469/akrales_181010_3013_0065.0.jpg' width='700px' /><br/>
+Lyft and Uber are committing to pay legal fees for any driver on their respective platforms who get sued under Texas' controversial anti-abortion law.
+<a href='https://www.theverge.com/22656392/lyft-uber-legal-fees-drivers-lawsuit-texas-sb8-abortion-law'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7DZlt-aTlj1ZttHKyxWVD1zoST0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69810277/acastro_210115_1777_twitch_0003.0.jpg' width='700px' /><br/>
-Streamers took a day off Twitch on September 1st to bring attention to the persistent hate raids that have plagued the platform in the past weeks. While skeptics panned the idea, suggesting that the walkout participants weren't influential enough to effect significant traffic changes, according to data compiled by Gamesight, a gaming analytics company, Twitch did see a drop in viewership.
-<a href='https://www.theverge.com/2021/9/2/22654534/streamers-twitch-walkout-viewership-drop'> Source <a/>

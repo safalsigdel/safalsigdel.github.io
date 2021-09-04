@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rHveUBOrMgOWv23uGrio5fhAc8w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69808229/acastro_190204_1777_privacy_0002.0.jpg' width='700px' /><br/>
-On Wednesday, the Federal Trade Commission announced it had banned spyware maker SpyFone and its CEO Scott Zuckerman from the surveillance business. The commission called SpyFone a “stalkerware app company” that allegedly harvested and shared data about people's movements, phone use, and online activity via a hidden device hack.
-<a href='https://www.theverge.com/2021/9/2/22653859/ftc-bans-spyware-app-spyfone-delete-data-stalkerware'> Source <a/>
