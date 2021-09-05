@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1thcSgExra4dlwcbtBrPC4VeoeE=/0x0:4961x3311/1200x800/filters:focal(2085x1260:2877x2052)/cdn.vox-cdn.com/uploads/chorus_image/image/69819549/2021_04_17_Image_D638565.0.jpg' width='700px' /><br/>
+Mercedes-Benz said recently that it was going all-electric by 2030, which naturally got race fans excited about the possibilities of an electric high-performance car from the automaker's AMG sub-brand. Today, we're getting our first look at the upcoming AMG EQS, a wickedly fast sport sedan with a 0-60 mph time of 3.4 seconds and a top speed of 155 mph. It made its public debut at the 2021 IAA Mobility show in Germany.
+<a href='https://www.theverge.com/2021/9/5/22654508/mercedes-benz-amg-eqs-electric-performance-specs-iaa'> Source <a/>

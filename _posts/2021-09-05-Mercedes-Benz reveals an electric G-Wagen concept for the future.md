@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cVk_h0FnswvrKC-uTzq9GLOhoWM=/0x0:2400x1600/1200x675/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/69819546/2021_06_21_Image_21C0523_001.0.jpg' width='700px' /><br/>
+Mercedes-Benz has revealed an electric concept version of its boxy luxury off-roader, the G-Wagen, dotted with glowing accents and wearing some seriously moon rover-style wheels.
+<a href='https://www.theverge.com/2021/9/5/22657738/mercedes-benz-eqg-concept-g-class-suv-electric-iaa-mobility'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E_ZTUHc3IWI1uCEWBl2wjtKZD8A=/0x0:2400x1600/1200x800/filters:focal(630x922:1014x1306)/cdn.vox-cdn.com/uploads/chorus_image/image/69819530/2020_09_26_Image_D638345.0.jpg' width='700px' /><br/>
+Just months after Mercedes-Benz launched its first true compact electric SUV, the EQA, the German automaker now has a slightly larger and more capable companion: the EQB. Revealed in full today at the 2021 IAA Mobility show in Germany, the company will start building the EQA in Hungary and China this month, and it will start selling the SUV in the US in 2022.
+<a href='https://www.theverge.com/2021/9/5/22657294/mercedes-benz-eqb-electric-suv-iaa-mobility-2021'> Source <a/>

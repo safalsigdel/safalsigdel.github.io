@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jzH-sighECYZr11X8shi1uqro-w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69811743/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple's rumored AR/VR headset is designed to rely on another device, and may have to offload more processor-heavy tasks to a connected iPhone or Mac, according to a report from The Information. Apple is reportedly working on a custom chip for the headset, an SoC that's intentionally missing capabilities found in Apple's other processors.
-<a href='https://www.theverge.com/2021/9/2/22654606/apple-ar-vr-headset-iphone-wireless-connection-stream-data'> Source <a/>

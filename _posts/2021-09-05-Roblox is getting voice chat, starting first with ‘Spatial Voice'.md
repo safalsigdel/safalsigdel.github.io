@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zN-NwaqstcW8Ny28wEn5EMsxcec=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69811685/VRG_ILLO_4472_RobloxExplainer.0.jpg' width='700px' /><br/>
-Roblox is taking its first steps to introduce voice chat by opening up a feature it's calling “Spatial Voice” to select developers in an invitation-only beta, the company announced Thursday.
-<a href='https://www.theverge.com/2021/9/2/22654884/roblox-voice-chat-spatial-moderation-discord'> Source <a/>
