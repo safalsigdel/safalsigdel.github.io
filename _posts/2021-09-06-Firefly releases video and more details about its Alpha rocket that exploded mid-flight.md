@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FKWQzUBnfXysYMCapsClRW2HF7Y=/0x0:1763x958/1200x800/filters:focal(741x338:1023x620)/cdn.vox-cdn.com/uploads/chorus_image/image/69820094/firefly_rocket.0.png' width='700px' /><br/>
+Firefly's Alpha rocket exploded mid-flight on Thursday, but the company posted a new video on Sunday and provided more detail on what happened.  “Although the vehicle didn't make orbit, the day marked a major advancement for our team,” the company tweeted. “We demonstrated we ‘arrived' as a company capable of building and launching rockets.”
+<a href='https://www.theverge.com/2021/9/5/22658754/firefly-releases-video-details-alpha-rocket-exploded-space-force'> Source <a/>

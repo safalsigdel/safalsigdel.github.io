@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SQuhRMBrfNVfg7SahltozSzN7C4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69813220/acstro_190902_apple_event_0004.0.0.jpg' width='700px' /><br/>
-Apple is delaying its child protection features announced last month, including a controversial feature that would scan users' photos for child sexual abuse material (CSAM), following intense criticism that the changes could diminish user privacy. The changes had been scheduled to roll out later this year.
-<a href='https://www.theverge.com/2021/9/3/22655644/apple-delays-controversial-child-protection-features-csam-privacy'> Source <a/>

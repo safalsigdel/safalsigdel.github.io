@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N5nWhezeyxeROitMWDzh_zK751A=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69813051/VRG_1777_Android_12_005.0.jpg' width='700px' /><br/>
-One of the new features in Android 12 is the ability to automatically fit your phone's color palette to that of your wallpaper. If you've been able to upgrade to Android 12, you may want to give it a try, especially if you're into styling and colors.
-<a href='https://www.theverge.com/22652920/android-12-how-to-pixel-style-color-home-screen'> Source <a/>

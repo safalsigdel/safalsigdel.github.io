@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zq68kqVHm66A87gl8d77G1qLHJk=/0x0:672x448/1200x800/filters:focal(283x171:389x277)/cdn.vox-cdn.com/uploads/chorus_image/image/69819659/Navimow_3_web.0.jpg' width='700px' /><br/>
+Segway has introduced its first robot mower, the Navimow, that uses GPS to stay on your lawn and keep it neatly trimmed. So unlike other robot mowers, you won't have to install a boundary wire to keep the robot on the right patch of grass.
+<a href='https://www.theverge.com/2021/9/5/22658457/segway-navimow-robot-will-mow-your-lawn-using-gps'> Source <a/>

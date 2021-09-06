@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ojTse0dHBiUPG59BR47tMx25sIY=/0x0:5568x3712/1200x800/filters:focal(2921x1310:3811x2200)/cdn.vox-cdn.com/uploads/chorus_image/image/69814932/1233640838.0.jpg' width='700px' /><br/>
-In case you haven't heard, Texas now has a law that makes it illegal for anyone to help women get an abortion after six weeks of pregnancy with no exceptions for rape or incest — and to take advantage of that, the anti-abortion group Texas Right to Life is encouraging citizens to report those people at a dedicated “whistleblower” website, promising to “ensure that these lawbreakers are held accountable for their actions.”
-<a href='https://www.theverge.com/2021/9/3/22656196/godaddy-texas-right-for-life-abortion-whistleblowing-site'> Source <a/>

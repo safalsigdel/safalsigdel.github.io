@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TYr-oIvkahGJBPAPZMAclB15YJw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69812657/acastro_210831_1777_0001.0.jpg' width='700px' /><br/>
-When you spend money in Apple's App Store, the company generally takes a 30 percent cut — one that adds up to an estimated $19 billion per year. Apple's currently in the fight of its life to prove to judges, government regulators, and its own developers that it deserves those dollars, but not everyone's buying it anymore.
-<a href='https://www.theverge.com/2021/9/3/22654197/apple-app-store-editorial-scams-refunds'> Source <a/>
