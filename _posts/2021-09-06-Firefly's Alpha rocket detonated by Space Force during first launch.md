@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b75ATC8NnE7eVZ4kNeK0Mw1iF5Y=/0x0:3000x2000/1200x800/filters:focal(1453x878:1933x1358)/cdn.vox-cdn.com/uploads/chorus_image/image/69813538/09_01_21_SLC2_W_Firefly_9353_3000_wide.5.jpg' width='700px' /><br/>
-Small launch company Firefly's Alpha rocket exploded mid-flight Thursday night, minutes after a clean liftoff during its first attempt to reach space. The rocket was terminated, Space Force officials said, as it began tipping sideways off course just after reaching supersonic speeds. Firefly said it's working with regulators to investigate the cause of the failure.
-<a href='https://www.theverge.com/2021/9/3/22655687/firefly-alpha-rocket-explodes-space-force-first-launch'> Source <a/>
