@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X8KnBNj_3Mvt-VbvmrYcJ0umQ88=/0x0:3078x2308/1200x800/filters:focal(1042x1553:1534x2045)/cdn.vox-cdn.com/uploads/chorus_image/image/69825499/Mobileye_Robotaxi___Tel_Aviv_2.0.jpg' width='700px' /><br/>
+Mobileye, the Intel-owned company that specializes in chips for vision-based autonomous vehicles, announced that it will launch a robotaxi service in Germany in 2022. It's the latest big move by a company seeking to buck the trend in AV development by becoming both a supplier of autonomous driving technology as well as a fleet operator and service provider.
+<a href='https://www.theverge.com/2021/9/7/22659366/intel-mobileye-robotaxi-germany-sixt-moovit'> Source <a/>
