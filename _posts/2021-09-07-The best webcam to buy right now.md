@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ajKHTrXCc2T43K1FrsyUb5HLito=/0x0:2040x1360/1200x675/filters:focal(883x445:1209x771)/cdn.vox-cdn.com/uploads/chorus_image/image/69814180/akrales_210831_4734_0007.0.jpg' width='700px' /><br/>
-If you don't already have a laptop with a built-in webcam — or the one on your laptop isn't very good — you might need a standalone webcam. Maybe it's to be able to show your face during work or school. Maybe it's for chatting with friends, or for side projects, like live streaming or recording yourself.
-<a href='https://www.theverge.com/22652783/best-webcam-camera'> Source <a/>
