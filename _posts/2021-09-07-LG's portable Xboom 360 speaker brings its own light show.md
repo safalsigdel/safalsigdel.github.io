@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uH4zMAaFtzjfaGAdfL0A5xxqWXA=/0x0:1100x732/1200x800/filters:focal(284x404:460x580)/cdn.vox-cdn.com/uploads/chorus_image/image/69824237/XBOOMGo_360_04_1100x732.0.jpg' width='700px' /><br/>
+LG, the company that maintains an entire lineup of “party speakers” adored by muscle-y guys who buy beer in buckets, is back with a subdued model. The LG Xboom 360 (model RP4) speaker has a design that still says “party,” but with a more wine-from-a-box aesthetic.
+<a href='https://www.theverge.com/2021/9/7/22660455/lg-xboom-360-party-speaker-light'> Source <a/>
