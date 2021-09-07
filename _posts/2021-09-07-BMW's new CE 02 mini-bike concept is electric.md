@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lrij4DfoxVY7J1YyDofw7NFPkis=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/69814325/P90434022_highRes_bmw_motorrad_concept.0.jpg' width='700px' /><br/>
-BMW's Motorrad division has been pumping out some wild concepts over the last few years as the larger company turns its attention towards electric vehicles. It's latest is also the to date, but still looks extremely cool: the CE 02 mini-bike.
-<a href='https://www.theverge.com/2021/9/3/22655751/bmw-ce-02-mini-bike-concept-electric-iaa-mobility-2021'> Source <a/>
