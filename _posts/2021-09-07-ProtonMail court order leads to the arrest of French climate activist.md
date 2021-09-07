@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LmIE3Yc_NbjY3sLrVLH363yj-oE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69822979/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
+The private email service Protonmail is drawing harsh criticism from its users after providing IP information linked to a French activist who used the service, as first reported by TechCrunch.
+<a href='https://www.theverge.com/2021/9/6/22659861/protonmail-swiss-court-order-french-climate-activist-arrest-identification'> Source <a/>

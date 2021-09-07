@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XPwdcZFDMuBNRZS2Vy4mqJPcbGg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69814013/vpavic_200929_4216_0121.0.jpg' width='700px' /><br/>
-The Apple Watch Series 7 may arrive as soon as this month, but if you're looking for a sizable discount on what is currently the latest model, you'll love today's deal. The red 40mm, cellular Apple Watch Series 6 is filled with slick features and is on sale at Amazon today for $359 instead of $499, an all-time low for this particular model.
-<a href='https://www.theverge.com/good-deals/2021/9/3/22654154/apple-watch-series-6-jabra-elite75t-xbox-elite-wireless-controller-series-2-1password-deal-sale'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6YE1IHTZofvga-4K6APJjH38QxU=/0x0:4000x3200/1200x800/filters:focal(1984x1010:2624x1650)/cdn.vox-cdn.com/uploads/chorus_image/image/69822165/1197880992.0.jpg' width='700px' /><br/>
+According to Deadline and Variety, Phoebe Waller-Bridge has decided to leave Amazon's upcoming Mr. and Mrs. Smith series. She was originally set to co-star alongside Donald Glover, but the Hollywood publications report that creative differences between the two have led the Fleabag creator to depart the production.
+<a href='https://www.theverge.com/2021/9/6/22659503/phoebe-waller-bridge-leaves-amazon-mr-and-mrs-smith-series-donald-glover'> Source <a/>
