@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/akavQ1aOmp0J85a_4DaQ66iUNNg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69816954/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
-Facebook is apologizing for an incident where its AI mislabeled a video of Black men with a “primates” label, calling it an “unacceptable error” that it was examining to prevent it from happening again. As reported by the New York Times, users who watched a June 27th video posted by the UK tabloid Daily Mail received an auto-prompt asking whether they wanted to “keep seeing videos about Primates.”
-<a href='https://www.theverge.com/2021/9/4/22657026/facebook-mislabeling-video-black-men-primates-algorithm'> Source <a/>
