@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9GDwdnzePOlUAshecr_mE9TIkM4=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69824794/Key_Art_Horizontal.0.jpg' width='700px' /><br/>
+Remedy Entertainment's 2010 cult classic Alan Wake is getting a remastered version for multiple platforms. Epic Games' publishing arm will release Alan Wake Remastered across PlayStation 4/5, Xbox Series S/X, and the Epic Games Store on PC.
+<a href='https://www.theverge.com/2021/9/7/22659221/alan-wake-remastered-announced-playstation-xbox-epic-pc'> Source <a/>
