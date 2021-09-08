@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8jURA6LeCfDR-ve8Lga7AvzweVw=/0x0:1712x961/1200x800/filters:focal(720x345:992x617)/cdn.vox-cdn.com/uploads/chorus_image/image/69825607/Screen_Shot_2021_09_07_at_10.16.41_AM.0.png' width='700px' /><br/>
-Nearly a year after Tesla started testing its controversial “Full Self-Driving” (FSD) beta software with a select group of customers, the company's CEO Elon Musk said he is aiming for a wider release by the end of September. The news comes as an older version of the software leaked online.
-<a href='https://www.theverge.com/2021/9/7/22660692/tesla-full-self-driving-software-release-date-leak'> Source <a/>

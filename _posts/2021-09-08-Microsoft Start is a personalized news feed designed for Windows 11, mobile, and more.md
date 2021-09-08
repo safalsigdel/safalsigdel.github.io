@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_lIHylMBnmm_z7uNXNzOrhu3XpI=/0x0:2400x1800/1200x800/filters:focal(1008x708:1392x1092)/cdn.vox-cdn.com/uploads/chorus_image/image/69825757/MSFTStart_PC_Mobile_800x600.0.png' width='700px' /><br/>
-Microsoft is launching Microsoft Start today, a personalized news feed that integrates into Windows 11 and is accessible online and on iOS and Android. Microsoft Start is very similar to the MSN feed that exists today and to Microsoft News. Microsoft is rebranding these into Microsoft Start and integrating the feed into the Windows 11 widgets section and the Windows 10 taskbar.
-<a href='https://www.theverge.com/2021/9/7/22660483/microsoft-start-news-feed-windows-11-features'> Source <a/>

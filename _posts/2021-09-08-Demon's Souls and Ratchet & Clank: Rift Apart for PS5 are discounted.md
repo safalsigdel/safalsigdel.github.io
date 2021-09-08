@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ui4BfLttJ2uSix9VeyDJe_i9GZ4=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/69825051/demons_souls_screenshot_17_disclaimer_en_09nov20.0.jpeg' width='700px' /><br/>
-People who own a PS5 console with a disc drive can enjoy some small but noteworthy discounts on exclusive games at Walmart, GameStop, and Amazon. You can get up to $25 off of the Demon's Souls remake, while Ratchet & Clank: Rift Apart is $10 off.
-<a href='https://www.theverge.com/good-deals/2021/9/7/22660552/demons-souls-ratchet-clank-rift-apart-ps5-apple-airpods-mac-mini-kindle-deal-sale'> Source <a/>

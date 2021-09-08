@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fI2-Pa-xK-UGPxM51DrL8JaB5xA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69830233/acastro_170731_1777_0001_v2.0.jpg' width='700px' /><br/>
+Apple, like many tech companies, has an intimidating employment agreement that it makes employees sign to protect its trade secrets. Though the agreement is in place to prevent workers from sharing internal details of Apple's products and processes, it is unclear whether they can speak out about working conditions, according to a group of activists and Apple shareholders.
+<a href='https://www.theverge.com/2021/9/8/22661536/apple-shareholder-resolution-change-nda-harassment-discrimination'> Source <a/>
