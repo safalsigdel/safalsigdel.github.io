@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uUTpnHQ-QwBZeWILCEpWHOC88qw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69830539/ajohnson_210813_4713_0007.0.jpg' width='700px' /><br/>
+Google is releasing what it says is the fifth and final version of the Android 12 beta, adding that the official release of the full Android 12 operating system is “just a few weeks away.” The new beta release will also be the first one that Pixel 5A owners will be able to install.
+<a href='https://www.theverge.com/2021/9/8/22661647/android-12-final-beta-5-pixel-5a-stability-ui-changes-preview'> Source <a/>
