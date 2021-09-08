@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PswilteIfbKokcc1DNhRoA1A_Fg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69828881/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Media companies in Australia can be held responsible for defamatory comments left on their social media pages by members of the public, the country's High Court has ruled.
+<a href='https://www.theverge.com/2021/9/8/22662191/australia-high-court-facebook-comments-legal-liability-publisher-ruling-voller'> Source <a/>
