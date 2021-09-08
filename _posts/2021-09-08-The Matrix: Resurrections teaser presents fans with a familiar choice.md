@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mwpxhxjsAGrgQteDPQLl9uw6fGE=/0x0:1560x914/1200x800/filters:focal(656x333:904x581)/cdn.vox-cdn.com/uploads/chorus_image/image/69826308/Screen_Shot_2021_09_07_at_9.43.48_AM.0.png' width='700px' /><br/>
+The Matrix: Resurrections is still a ways off with a premiere date of December 22nd, 2021, but you can watch two (and maybe more) teasers for the highly anticipated film today, in advance of a full trailer on Thursday. The teasers appear on the recently revived “What is The Matrix” website, gated by the film franchise's all too familiar choice — red pill or blue pill?
+<a href='https://www.theverge.com/2021/9/7/22660926/the-matrix-resurrections-teaser-red-blue-pill'> Source <a/>
