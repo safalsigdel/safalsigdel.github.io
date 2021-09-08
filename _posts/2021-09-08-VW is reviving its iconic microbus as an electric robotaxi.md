@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VJlE_LxdbnzEk-NqUCZxIxaEqrM=/0x0:5041x3361/1200x800/filters:focal(2118x1278:2924x2084)/cdn.vox-cdn.com/uploads/chorus_image/image/69821693/IBA_7846.0.jpg' width='700px' /><br/>
-Five years after Volkswagen first unveiled its concept for an electric version of its iconic microbus, we're finally getting our first glimpse of the vehicle on the road. But rather than some throwback to an era of hippies and flower power, the ID Buzz is outfitted with a high-tech suite of sensors and computing smarts for its new role as an autonomous test vehicle.
-<a href='https://www.theverge.com/2021/9/6/22659306/vw-autonomous-id-buzz-reveal-argo-iaa'> Source <a/>
