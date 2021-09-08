@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yzhjAOEW7DhxV-Q3MXwWMLH2y8k=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69821438/Microsoft_Flight_Simulator_Top_Gun_01_Header.0.jpg' width='700px' /><br/>
-Microsoft's Top Gun expansion for Microsoft Flight Simulator is being delayed to match the movie's shifted release date. Paramount announced earlier this month that it's delaying the rest of its 2021 films, pushing Top Gun: Maverick from its Thanksgiving weekend release date to May 27th, 2022.
-<a href='https://www.theverge.com/2021/9/6/22659273/microsoft-flight-simulator-top-gun-expansion-delayed-2022'> Source <a/>
