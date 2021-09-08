@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5I8AEY6WZ5qJgw8R8a56pRGzIos=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69828975/acastro_210907_4742_Holmes_0001.0.jpg' width='700px' /><br/>
+When I say “Elizabeth Holmes,” a character probably comes to mind: wispy bleach-blonde hair, black turtleneck, thin, white, unusually low voice, unblinking gaze. In most of her magazine covers, she's holding a tiny vial meant to contain the “few drops of blood” needed for her company's finger-prick blood tests.
+<a href='https://www.theverge.com/22656190/theranos-elizabeth-holmes-wire-fraud-trial-founder-myth'> Source <a/>
