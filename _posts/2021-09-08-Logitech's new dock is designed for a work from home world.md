@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AwHuwA34jvecSAHkYJCKV_mqKfY=/0x0:1448x1448/1200x0/filters:focal(0x0:1448x1448):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22833864/High_Resolution_PNG_Logi_Dock_FRONT_Graphite_lighting___Purple.png' width='700px' /><br/>
+Logitech is announcing a new all-in-one dock that's designed for the new realities of a post-pandemic hybrid workforce. “When the pandemic hit, we spent an incredible amount of time with our end users to understand their needs and pain points in a work-from-home world. The result was Logi Dock,” says Scott Wharton, general manager and vice president of Logitech video collaboration.
+<a href='https://www.theverge.com/2021/9/8/22662237/logitech-logi-dock-features-pricing-release-date'> Source <a/>
