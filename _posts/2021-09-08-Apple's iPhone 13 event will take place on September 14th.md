@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ITg6X6y79Hs34GS1pIFpreoHmUc=/0x0:2048x1152/1200x800/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/69825826/2048.5.jpeg' width='700px' /><br/>
+Apple's next big fall event will take place on Tuesday, September 14th at 1PM ET, the company announced. The event, which carries the tagline “California streaming,” will be another virtual event broadcast from Apple Park.
+<a href='https://www.theverge.com/2021/9/7/22648593/apple-fall-event-2021-date-iphone-macbook-watch'> Source <a/>

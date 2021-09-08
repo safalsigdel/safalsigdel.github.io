@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/at3qaNZvThdNtioNG1mX-RsHpYs=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69818211/011c8fd12276586aaf21afa308317ab0.5.jpg' width='700px' /><br/>
-Sony is now planning to offer a free Horizon Forbidden West upgrade from PS4 to PS5. The U-turn follows widespread criticism after the company announced there would be no upgrade path for Horizon Forbidden West PS4 players, despite an original promise of a free upgrade to the PS5 version.
-<a href='https://www.theverge.com/2021/9/4/22657679/sony-horizon-forbidden-west-ps4-ps5-upgrade-free'> Source <a/>

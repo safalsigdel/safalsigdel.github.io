@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OV3QR9F9kKvvcMhGaNOqy1qVvNU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69827769/acastro_200715_1777_twitter_0004.0.0.jpg' width='700px' /><br/>
+Twitter has begun testing the first of its proposed suite of new privacy tools: the ability to remove a follower without blocking them. The remove follower feature is currently being tested on the web and seems to canonize the “soft block” concept as an official Twitter tool.
+<a href='https://www.theverge.com/2021/9/7/22661452/twitter-follower-remove-soft-block-test'> Source <a/>

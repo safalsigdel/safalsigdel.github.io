@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CuZmFvxJbxcyEpysBg-_8GzhOB4=/0x0:4096x2722/1200x800/filters:focal(1721x1034:2375x1688)/cdn.vox-cdn.com/uploads/chorus_image/image/69825968/vw_volkswagen_id_life_0050.0.jpg' width='700px' /><br/>
+One of Volkswagen's latest concept cars teases what will eventually be the most affordable entry in its lineup of ID-branded electric vehicles.
+<a href='https://www.theverge.com/2021/9/7/22660827/volkswagen-id-life-concept-electric-car-iaa-mobility-2021'> Source <a/>

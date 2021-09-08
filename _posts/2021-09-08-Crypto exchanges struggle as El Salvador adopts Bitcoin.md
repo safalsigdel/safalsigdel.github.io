@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6SESs65bZr1-DiOqGFdNZV3JV9k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69826429/acastro_181126_1777_bitcoin_0001.0.jpg' width='700px' /><br/>
+Today, Bitcoin is becoming an official currency in El Salvador, and the markets and crypto exchanges seem to be struggling. On Tuesday morning, the price of Bitcoin plunged from around $50,000 down to under $43,000 according to Coinbase — it seems that the country's official Bitcoin app also hasn't been able to keep up.
+<a href='https://www.theverge.com/2021/9/7/22660932/crypto-exchanges-el-salvador-bitcoin-price-dip'> Source <a/>
