@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bF7S6Rum0mlHwyT-x8bnU3Q1Kdk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69829242/DJI_OM_5_Lifestyle2.0.jpg' width='700px' /><br/>
+DJI just released the Osmo Mobile 5, a new smartphone gimbal, which includes a telescoping selfie stick (okay, sure, an “extension rod”) built right into the handle.
+<a href='https://www.theverge.com/2021/9/8/22661200/dji-smartphone-gimbal-selfie-stick-osmo-mobile-5'> Source <a/>

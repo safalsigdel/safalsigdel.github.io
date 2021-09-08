@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vP04_LrCygWMQ6oPcufdh18iTWE=/0x0:710x474/1200x800/filters:focal(299x181:411x293)/cdn.vox-cdn.com/uploads/chorus_image/image/69824346/msedge_fSUHkxScSe.0.png' width='700px' /><br/>
-Apple could have a new version of its iPhone MagSafe charging puck on the way. A new FCC listing for a “Magnetic Charger” first spotted by blogger Dave Zatz shows an accessory with a new model name (A2548) that looks otherwise identical to Apple's existing charger (A2140). The new charger has been tested with a variety of devices including four marked as “New Phone,” which almost certainly correspond to Apple's anticipated iPhone 13 models.
-<a href='https://www.theverge.com/2021/9/7/22660478/apple-new-iphone-magsafe-charger-2021'> Source <a/>
