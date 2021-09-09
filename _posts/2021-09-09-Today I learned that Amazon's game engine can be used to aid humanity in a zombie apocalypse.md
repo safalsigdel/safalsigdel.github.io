@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Amazon's in-house game engine, Lumberyard, can't normally be used for life-critical or safety-critical circumstances, as stated in the terms of service agreement for Amazon Web Services. Things like medical equipment, automated transportation systems, autonomous vehicles, crewed spacecraft, or military use in connection with live combat are all off-limits.
-<a href='https://www.theverge.com/tldr/2021/9/8/22662337/amazon-lumberyard-aws-game-engine-terms-zombie-apocalypse'> Source <a/>

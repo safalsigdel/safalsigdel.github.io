@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3pWQLwtTrd3wiLa0kQifdF2jmn4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69833465/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
+One of the most useful concepts for understanding why social networks so often drive us to despair is context collapse: taking multiple audiences with different norms, standards, and levels of knowledge, and herding them all into a single digital space to coexist. Predictably, this regularly leads to conflict — and, at the scale of an entire country, may even make us more polarized.
+<a href='https://www.theverge.com/2021/9/9/22664103/twitter-communities-bring-context-back-editorial'> Source <a/>
