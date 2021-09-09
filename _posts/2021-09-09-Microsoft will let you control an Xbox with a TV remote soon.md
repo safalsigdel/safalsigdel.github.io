@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WJQriupQQjj6u5BmtzJE0ibJA-M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69833243/vpavic_4275_20201030_0033.0.jpg' width='700px' /><br/>
+Microsoft is starting to test the ability for TV remotes to navigate around the Xbox dashboard. A new version of the Xbox dashboard for Xbox Series S / X consoles is being tested with selected Xbox Insiders, and it enables new HDMI-CEC features that let ordinary TV remote controls navigate around the Xbox dashboard and control streaming apps like Netflix.
+<a href='https://www.theverge.com/2021/9/9/22664260/microsoft-xbox-tv-remote-control-testing'> Source <a/>
