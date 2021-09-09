@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Xk57vT634jMuogGGmTR6g8yG-vw=/0x0:2400x1348/1200x800/filters:focal(1008x482:1392x866)/cdn.vox-cdn.com/uploads/chorus_image/image/69831428/WHOOP_SILA_2.0.png' width='700px' /><br/>
-Fitness company Whoop has a new tracker that squishes five LEDs, four photodiodes, a pulse oximeter, skin temperature sensor, and more into a package that is 33 percent smaller than its predecessor — all while still offering five days of battery life. But a particular change to the tracker's battery chemistry is one of the biggest reasons Whoop was able to do all this in the first place.
-<a href='https://www.theverge.com/2021/9/8/22662979/whoop-fitness-tracker-sila-silicon-anode-battery-electric-cars'> Source <a/>
