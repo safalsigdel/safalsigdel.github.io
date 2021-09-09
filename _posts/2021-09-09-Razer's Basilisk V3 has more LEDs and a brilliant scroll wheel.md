@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/27GktjcPpPW1InYSxwhUdEXqxtw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69829842/razerbasiliskv3hero.0.jpg' width='700px' /><br/>
-Razer's new Basilisk V3 wired gaming mouse has arrived with more features than its predecessor, as well as a slightly lower price. It's out now at Razer's online store, Amazon, and Best Buy from $69.99, a $10 price drop from generation to generation.
-<a href='https://www.theverge.com/2021/9/8/22650400/razer-basilisk-v3-chroma-rgb-scroll-wheel-price-features'> Source <a/>

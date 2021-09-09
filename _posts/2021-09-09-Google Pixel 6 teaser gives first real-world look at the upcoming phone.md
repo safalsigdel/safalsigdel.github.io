@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VlVlO6i3WzzDKwdIr0_DixKOnKA=/0x0:2159x1438/1200x0/filters:focal(0x0:2159x1438):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22836511/msedge_Ma14APb1Xx.png' width='700px' /><br/>
+Google has released a new teaser trailer for its upcoming Pixel 6 that includes several shots of the smartphone being used in the real world. The footage comes a little over a month after Google released its first official images of the upcoming device, which were limited to renders rather than actual photographs.
+<a href='https://www.theverge.com/2021/9/9/22664341/google-pixel-6-real-world-photos-october-19th-launch-date-rumor'> Source <a/>
