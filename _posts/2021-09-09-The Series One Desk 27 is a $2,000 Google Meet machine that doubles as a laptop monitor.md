@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8fvGGgHi97aEB_nSyxQSaja_q1M=/0x0:8000x4500/1200x800/filters:focal(3360x1610:4640x2890)/cdn.vox-cdn.com/uploads/chorus_image/image/69829110/Series_One_Desk_27_in_booth.0.png' width='700px' /><br/>
-Google is announcing two new hardware devices designed specifically to work with Google Meet and to look like Google hardware. The Series One Desk 27 and Series One Board 65 are both made by Avocor but are part of the Series One program where Google specifically blesses devices that are custom-built for Meet. They even include a custom Google Edge TPU chip in addition to a more standard Intel Core i5.
-<a href='https://www.theverge.com/2021/9/8/22661653/series-one-desk-27-google-meet-laptop-monitor'> Source <a/>
