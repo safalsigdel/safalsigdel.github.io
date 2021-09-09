@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/61nka8xqVa0JgrtFtwVIWHIi7Go=/0x0:1593x894/1200x800/filters:focal(670x320:924x574)/cdn.vox-cdn.com/uploads/chorus_image/image/69834657/Qd9KibJ.0.png' width='700px' /><br/>
+Microsoft is continuing to improve the remote meeting experience in Microsoft Teams with better camera support and other improvements that will let you stay in meetings 24/7, if you choose.
+<a href='https://www.theverge.com/2021/9/9/22664297/microsoft-teams-apple-carplay-support-new-features-hybrid-work'> Source <a/>

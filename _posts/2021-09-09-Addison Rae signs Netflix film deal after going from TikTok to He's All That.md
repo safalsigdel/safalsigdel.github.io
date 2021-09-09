@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bMfgdNG5-hs6w_Jty752UPZ89II=/0x0:4988x3330/1200x800/filters:focal(2559x673:3357x1471)/cdn.vox-cdn.com/uploads/chorus_image/image/69831967/1336432090.0.jpg' width='700px' /><br/>
-Netflix is doubling down on TikTok star Addison Rae with a new multi-picture film deal that could see the social media celebrity bringing even more eyes to the streaming service, As part of the deal, Netflix will develop projects specifically for Rae to star in and executive produce (via Variety).
-<a href='https://www.theverge.com/2021/9/8/22663082/addison-rae-tiktok-netflix-film-deal-hes-all-that'> Source <a/>
