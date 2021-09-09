@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6yXpIsjDXruX3F8lwSJw50Ssy5E=/0x0:4928x3264/1200x800/filters:focal(2070x1238:2858x2026)/cdn.vox-cdn.com/uploads/chorus_image/image/69830993/xboxonescontroller.0.jpeg' width='700px' /><br/>
+Microsoft is starting to test a new firmware update for existing Xbox One, Xbox Elite 2, and Xbox Adaptive Controllers today that will bring some important improvements to existing hardware. The biggest addition is the ability to quickly switch between paired devices on an Xbox controller, and Microsoft is also adding Dynamic Latency Input (DLI) to improve input latency on older controllers.
+<a href='https://www.theverge.com/2021/9/8/22663039/microsoft-xbox-controller-firmware-dynamic-latency-input-dli-bluetooth-low-energy'> Source <a/>

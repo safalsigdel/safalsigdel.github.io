@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7l8lv8QpENuA1LQsMfCW4OnaXn4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69832000/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
+Google reached a settlement with a fired employee who the National Labor Relations Board (NLRB) claims was let go from the company for his workplace activism, Bloomberg reports. The employee, Laurence Berland, was fired in 2019 allegedly for violating Google's data security policies. He had been a vocal critic of Google's work with the US Customs and Border Protection and was terminated amid internal organizing.
+<a href='https://www.theverge.com/2021/9/8/22663354/google-laurence-berland-workplace-activism-nlrb'> Source <a/>

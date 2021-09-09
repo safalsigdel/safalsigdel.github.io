@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7lSqVWWmAwPqwLRRPD4zPMxpLy8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69828695/DSCF1179.0.0.jpg' width='700px' /><br/>
-Microsoft is acquiring Clipchamp, a browser-based video editing tool, and is hinting that it will be a great fit for Windows. Founded in 2013, Clipchamp lets people create and edit videos in a browser and utilize the full power of a GPU to render the final result. Clipchamp is used by companies like Google, Dell, and Deloitte.
-<a href='https://www.theverge.com/2021/9/8/22662225/microsoft-clipchamp-acquisition-video-editing-web-app-windows'> Source <a/>

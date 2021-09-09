@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LGEe7DSPC1DVzN9dUhtgObWUSxI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69831986/acastro_210201_1777_robinhood_0001.0.jpg' width='700px' /><br/>
+Robinhood is rolling out a new feature that lets you automatically invest in cryptocurrencies on a daily, weekly, or monthly schedule. The investment app says this service will let you automatically invest in things like Bitcoin, Ethereum, Dogecoin, and other supported cryptocurrencies without a commission fee.
+<a href='https://www.theverge.com/2021/9/8/22663251/robinhood-cryptocurrency-recurring-investment-dollar-cost-averaging-bitcoin-ethereum'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Cl-3dkmL1HXYNRPmhvbPlvKlY8E=/0x0:1113x743/1200x800/filters:focal(109x173:287x351)/cdn.vox-cdn.com/uploads/chorus_image/image/69828954/ezgif.com_gif_maker.0.jpg' width='700px' /><br/>
-Amazon is bringing its cashierless “Just Walk Out” technology to two new Whole Foods locations next year, the company has announced. One of the stores will be in Washington, DC, while the second will be in Sherman Oaks, California. When they're open, customers will have the option of paying at a traditional self-checkout or customer service booth, or having the new technology automatically bill them when they leave the store.
-<a href='https://www.theverge.com/2021/9/8/22662288/amazon-just-walk-out-whole-foods-cashierless-technology'> Source <a/>

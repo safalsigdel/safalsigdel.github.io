@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TY_hpnoQXnglpN1CS1BzKLIdDbo=/0x0:4089x2300/1200x800/filters:focal(1718x823:2372x1477)/cdn.vox-cdn.com/uploads/chorus_image/image/69828396/Lenovo_Chromebook_Duet_5_Storm_Grey_relax.0.png' width='700px' /><br/>
-Over a year after it was unveiled, Lenovo's category-defining Chromebook Duet is getting a sequel. The Chromebook Duet 5 (branded as the IdeaPad Duet 5 Chromebook outside of North America) is a head-to-toe reimagining of the detachable budget-oriented Duet, with a higher price, a new processor, and — most interestingly — a 13.3-inch OLED screen.
-<a href='https://www.theverge.com/2021/9/8/22660761/lenovo-chromebook-duet-detachable-release-oled'> Source <a/>

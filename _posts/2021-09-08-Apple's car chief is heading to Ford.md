@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u7U6TFbmnAw3KdL3CqHUFOossMo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69826816/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-Ford has hired away Apple's car chief, Doug Field, to become its chief advanced technology and embedded systems officer. “Field will lead Ford's efforts to develop the next-gen Blue Oval Intelligence tech stack to deliver smart, connected vehicles and services that improve over time through constant updates,” according to Ford's press release. He'll report to Ford's president and CEO, Jim Farley.
-<a href='https://www.theverge.com/2021/9/7/22661291/apple-car-chief-ford-doug-field'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PdyJvKI60seamvgdsAtvF0nptnM=/0x0:4000x2667/1200x675/filters:focal(1551x990:2191x1630)/cdn.vox-cdn.com/uploads/chorus_image/image/69832362/1235132920.0.jpg' width='700px' /><br/>
+Would you rather be a failure or a fraud? Judging by the opening statements in Elizabeth Holmes' wire fraud trial, those seem to be Holmes' options.
+<a href='https://www.theverge.com/2021/9/8/22663723/theranos-elizabeth-holmes-trial-opening-arguments-day-one'> Source <a/>

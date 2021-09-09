@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y1mOWv2w0aSQVye_1EghMymidJw=/0x0:2048x1152/1200x800/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/69826843/pasted_image_0.0.png' width='700px' /><br/>
-Twitter has announced that it's testing edge-to-edge media in tweets on iOS, creating a more full-screen, almost Instagram-like experience for the photos and videos in your timeline.
-<a href='https://www.theverge.com/2021/9/7/22661188/twitter-edge-to-edge-media-tweets-no-cropping'> Source <a/>

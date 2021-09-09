@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/66C8A24yp5yvr0kp96SkGoZR6JA=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69831086/download__2_.0.jpeg' width='700px' /><br/>
+As cool as videoconferencing hardware can look, it's often exorbitantly expensive — the $2,000 Series One Desk 27 for Google Meet being a perfect example. Luckily, alongside that expensive Meet machine, Google also announced its “Designed for Google Meet” program and a more affordable first entry, the Rayz Rally Pro. It's a $200 Nest Mini-like phone speaker that doubles as a microphone for Google Meet calls.
+<a href='https://www.theverge.com/2021/9/8/22662690/designed-for-google-meet-ray-z-rally-pro-phone-speaker'> Source <a/>
