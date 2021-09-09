@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7i0S1ATtuCantZZ845iO0dEqVzQ=/0x0:1988x1661/1200x800/filters:focal(1254x0:1572x318)/cdn.vox-cdn.com/uploads/chorus_image/image/69829597/FaZe_x_Batman_Cover_2_cropped.0.jpg' width='700px' /><br/>
-Ahead of DC's FanDome event next month, the comics company celebrates Batman Day with a slew of superhero-themed items for fans. That includes a new ten-episode scripted podcast on HBO Max, an augmented reality app, and, of course, a limited-edition comic featuring some of the stars of FaZe Clan.
-<a href='https://www.theverge.com/2021/9/8/22662349/batman-day-faze-clan-podcast-audio-adventures-hbo-max'> Source <a/>
