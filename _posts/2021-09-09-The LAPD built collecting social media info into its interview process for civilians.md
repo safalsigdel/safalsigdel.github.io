@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aWeSvIw4oWyaOat9DK7c9Cilh3I=/0x0:2069x1379/1200x800/filters:focal(870x525:1200x855)/cdn.vox-cdn.com/uploads/chorus_image/image/69831831/1234644879.0.jpg' width='700px' /><br/>
-The Los Angeles Police Department asked officers to gather social media information as a standard part of their interviews with civilians, whether or not the people were implicated in a crime. The practice, revealed in public records obtained by the Brennan Center for Justice, is part of a larger LAPD social media monitoring strategy — one that's similar to other US police department policies but may go beyond them.
-<a href='https://www.theverge.com/2021/9/8/22663261/lapd-social-media-information-public-records-document'> Source <a/>
