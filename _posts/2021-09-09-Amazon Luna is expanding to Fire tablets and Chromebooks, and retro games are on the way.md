@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-kFaVj3dw9gI3QflDjdIjtAARs0=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/69833909/_DSC6805_2.0.jpg' width='700px' /><br/>
+Amazon's Luna cloud gaming service didn't exactly impress us when it debuted in early access last October, but the company's still expanding its test. On Thursday, it's bringing its limited catalog of games to Chromebooks and Amazon Fire tablets, and opening up some new ways to try the service without paying its $6 or $15 monthly fees.
+<a href='https://www.theverge.com/2021/9/9/22663811/amazon-luna-fire-tablet-chromebook-family-retro-channels'> Source <a/>

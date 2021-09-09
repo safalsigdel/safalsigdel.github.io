@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q396KuZDrRvdxeFeC547OEaALNk=/0x0:2040x1651/1200x800/filters:focal(857x663:1183x989)/cdn.vox-cdn.com/uploads/chorus_image/image/69833901/Fire_TV_Stick_4K_Max.0.jpg' width='700px' /><br/>
+Amazon is today introducing a new flagship streaming stick that joins the Fire TV Stick 4K, Fire TV Stick, and Fire TV Stick Lite. Dubbed the “Fire TV Stick 4K Max” (sigh) and priced at $54.99, the company's latest device has improved processing power, more memory, and also adds speedier Wi-Fi 6 wireless networking.
+<a href='https://www.theverge.com/2021/9/9/22662985/amazon-fire-tv-stick-4k-max-announced-features-price'> Source <a/>

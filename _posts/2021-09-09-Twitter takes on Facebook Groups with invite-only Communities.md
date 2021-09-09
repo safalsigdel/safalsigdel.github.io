@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Fhdy3pVYUheJWMBg0gl8BuFGkuY=/0x0:1320x888/1200x800/filters:focal(555x339:765x549)/cdn.vox-cdn.com/uploads/chorus_image/image/69830552/Twitter_Communities_hero.0.png' width='700px' /><br/>
-Twitter is launching Communities, its rival to Facebook Groups and Reddit, for tweeting with others who share specific interests.
-<a href='https://www.theverge.com/2021/9/8/22661649/twitter-releases-communities-facebook-groups-reddit-competitor'> Source <a/>

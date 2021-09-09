@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xCwC4rsYgCu3eqJd7OJ_cmuSSGo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67012059/cwelch_191031_3763_0003.5.jpg' width='700px' /><br/>
-Apple's AirPods are among the most popular headphones on the market. Both the AirPods and AirPods Pro are compact, easy to pair with your devices, and offer reliable connectivity, which isn't always the case with even the best true wireless earbuds. The AirPods Max, the latest pair of headphones to join the AirPods lineup, are just as dependable, albeit at a higher price and larger size.
-<a href='https://www.theverge.com/21302051/best-apple-airpods-deals'> Source <a/>
