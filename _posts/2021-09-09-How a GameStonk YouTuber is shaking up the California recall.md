@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qb9aF4U9Iy_1GbECZRuPLuSG2Q4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69831304/acastro_210831_kevinPaffrath_0001.0.jpg' width='700px' /><br/>
-Walking up to a podium in San Francisco this summer, Kevin Paffrath grabs the microphone. “Hodl that AMC,” he says with a smile, gazing out at the few dozen or so people, predominantly young men, attending the rally, a reference to the “meme stock” moment from earlier this year.
-<a href='https://www.theverge.com/2021/9/8/22662970/gavin-newsom-california-kevin-paffrath-crypto-robinhood-gamestonk'> Source <a/>
