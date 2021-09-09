@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZGoegW7Tckq-aaM-2sUOrWFvBac=/0x0:2040x1530/1200x675/filters:focal(848x638:1174x964)/cdn.vox-cdn.com/uploads/chorus_image/image/69829395/verge_IMG_9938_2040pxl.0.jpg' width='700px' /><br/>
-The Fiido X folding electric bike is Fiido's Indiegogo follow-up to last year's Fiido D11 e-bike, a budget-priced e-bike that proved once again that you get what you pay for.
-<a href='https://www.theverge.com/22662233/fiido-x-electric-bike-test-ride-foldable-price-support'> Source <a/>
