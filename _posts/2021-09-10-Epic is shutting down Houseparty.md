@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sT06Zj7pe4xTqlI9e4ydyrCBPpI=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69836106/stream_fortnite_gameplay_to_houseparty_1280x720_224cb65f8d7c.0.png' width='700px' /><br/>
-Epic Games is going to shut down group video chat app Houseparty, the company announced Thursday. The Houseparty app will be removed from app stores “immediately,” according to Epic, though people who already have the app will be able to use it until the service is fully shut down in October. Houseparty's integration with Fortnite will also continue to work until Houseparty is shut down in October.
-<a href='https://www.theverge.com/2021/9/9/22663531/epic-games-shutting-down-houseparty-october'> Source <a/>
