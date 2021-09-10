@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TjU2pcZAdyLZ7m_HobDh7di9Rdc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69838039/acstro_190902_apple_event_0004.0.0.jpg' width='700px' /><br/>
+Apple has fired senior engineering program manager Ashley Gjxc3xb8vik for allegedly violating the company's rules against leaking confidential information. For months, Gjxc3xb8vik has been tweeting openly about allegations of harassment, surveillance, and workplace safety.
+<a href='https://www.theverge.com/2021/9/9/22666049/apple-fires-senior-engineering-program-manager-ashley-gjovik-for-allegedly-leaking-information'> Source <a/>
