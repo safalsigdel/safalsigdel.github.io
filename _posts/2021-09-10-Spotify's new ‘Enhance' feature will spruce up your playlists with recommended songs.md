@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wcQkGX_RZew9-etKqUys28yS1Wk=/0x0:1920x733/1200x800/filters:focal(807x214:1113x520)/cdn.vox-cdn.com/uploads/chorus_image/image/69835310/Spotify_Enhance_PR_Static_1920x733.0.png' width='700px' /><br/>
-Spotify is rolling out a new feature called “Enhance,” which will automatically spiff up your playlists with recommended songs that (theoretically) fit in with your music's existing style and theme.
-<a href='https://www.theverge.com/2021/9/9/22664655/spotify-enhance-feature-recommended-songs-playlists'> Source <a/>
