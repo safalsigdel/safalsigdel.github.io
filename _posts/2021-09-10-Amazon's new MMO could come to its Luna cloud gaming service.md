@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jMWllm-l8gdDUV0p0A6rH5_RHkY=/0x0:1920x1080/1200x800/filters:focal(507x381:813x687)/cdn.vox-cdn.com/uploads/chorus_image/image/69839915/gallery2.0.jpeg' width='700px' /><br/>
+New World, Amazon Games' upcoming MMO, is just a few weeks away from its September 28th PC launch. But at some point in the future, it could be offered on Amazon's Luna cloud gaming service, Richard Lawrence, studio director at Amazon Games, said in an interview with The Verge.
+<a href='https://www.theverge.com/2021/9/10/22663690/amazon-new-world-luna-cloud-gaming'> Source <a/>
