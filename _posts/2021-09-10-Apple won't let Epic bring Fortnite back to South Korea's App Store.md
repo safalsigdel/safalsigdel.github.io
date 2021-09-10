@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S0q0VQlPIcWS-iJtpcSvZije57U=/0x0:2040x1360/1200x800/filters:focal(1117x362:1443x688)/cdn.vox-cdn.com/uploads/chorus_image/image/69838258/vpavic_180607_2652_0089.0.jpg' width='700px' /><br/>
+Apple says it won't let Epic Games back in the App Store until they agree to “play by the same rules as everyone else.” Earlier today Epic asked Apple to reinstate its developer account so that it could re-release the iOS version of Fortnite in South Korea, which recently passed a bill forcing Apple and Google to allow alternate in-app payment systems.
+<a href='https://www.theverge.com/2021/9/10/22666146/apple-epic-korea-fortnite-developer-account-rules-response'> Source <a/>
