@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N1QC25SoeRK9f4cD08sU8Htxtos=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69835553/acastro_180403_1777_youtube_0001.0.jpg' width='700px' /><br/>
-YouTube is cutting the number of subscribers you need to be able to make Community posts in half, the company announced Thursday. Starting October 12th, instead of requiring 1,000 subscribers, you'll need more than 500 subscribers. In a tweet, YouTube said that will open up the feature to “millions” more channels.
-<a href='https://www.theverge.com/2021/9/9/22664973/youtube-community-posts-subscribers-halves'> Source <a/>
