@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wtZeL-gK_PIGAfVEMVWi4ZfKYlM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69838306/acastro_210831_1777_0002.0.jpg' width='700px' /><br/>
+Last year Apple showed how it could embed Shazam's music identification features even more deeply within iOS 14, and now it's taking things another step forward within Apple Music. Apple Music initially introduced DJ mixes and mash-ups in 2016 through a partnership with Dubset Media Holdings to identify and pay for licensed music within mixes.
+<a href='https://www.theverge.com/2021/9/10/22662684/apple-music-dj-mix-shazam-streaming-ugc'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kqj3JWZv1SgNn2-a8-ztYMSzpP4=/0x0:2040x1360/1200x675/filters:focal(924x479:1250x805)/cdn.vox-cdn.com/uploads/chorus_image/image/69835107/alopez_210907_4736_0001.0.jpg' width='700px' /><br/>
-Starting Thursday, the first pair of smart glasses made by Facebook and Ray-Ban are going on sale for $299. They're called Ray-Ban Stories, and you'll be able to find them pretty much anywhere Ray-Bans are sold, including LensCrafters and Sunglasses Hut stores.
-<a href='https://www.theverge.com/2021/9/9/22662809/facebook-ray-ban-stories-camera-smart-glasses-hands-on'> Source <a/>
