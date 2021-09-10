@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z8L_MKnEocVtohWlEu-fCRyAfiw=/0x0:896x574/1200x800/filters:focal(342x270:484x412)/cdn.vox-cdn.com/uploads/chorus_image/image/69836193/03_concept_mercedes_maybach_eqs_2560x1640.0.jpeg' width='700px' /><br/>
-Mercedes-Benz has shown off the electric Maybach EQS, an opulent concept car that the company says is a preview of what the future of high-end electric cars may look like. The company revealed the EV SUV at the IAA Mobility show, where it also announced a G-Class SUV concept, and a more attainable electric sedan.
-<a href='https://www.theverge.com/2021/9/9/22664950/mercedes-maybach-eqs-electric-suv-concept-future-luxury'> Source <a/>

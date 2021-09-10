@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8OeiEvZ7nbenZ_DKNIDwYF_GxTk=/0x0:3000x1688/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/69836222/MicrosoftTeams_image__4_.0.jpeg' width='700px' /><br/>
-Porsche is taking inspiration from the world of esports and livestreaming for its next racecar concept. The all-electric Porsche Mission R, first introduced at this weeks' 2021 IAA Mobility conference in Munich, is what Porsche believes is “the future of customer motorsport.”
-<a href='https://www.theverge.com/2021/9/9/22665004/porsche-mission-r-electric-race-car-livestream-button'> Source <a/>
