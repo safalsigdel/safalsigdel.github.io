@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w6YNV5L8Lehh_F96VEX6sVGkadY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69833152/stories.0.jpg' width='700px' /><br/>
-Facebook and Ray-Ban are set to announce their smart glasses collaboration later today, September 9th, and right on cue Evan “Evleaks” Blass has posted a ton of alleged photos of the product lineup. The glasses are called Ray-Ban Stories, and other than the box it doesn't look like Facebook branding appears anywhere on the product.
-<a href='https://www.theverge.com/2021/9/9/22664181/facebook-ray-ban-stories-smart-glasses-leak-launch-date'> Source <a/>

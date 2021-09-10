@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MfN-lJ0S14Pk9yVMThLbUNCGKPk=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69835224/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
+California is close to enacting a first-of-its-kind law that would block Amazon and other companies from punishing warehouse workers who fail to meet certain performance metrics for taking rest or meal breaks.
+<a href='https://www.theverge.com/2021/9/9/22664846/amazon-labor-algorithms-warehouse-newsom-california-senate'> Source <a/>

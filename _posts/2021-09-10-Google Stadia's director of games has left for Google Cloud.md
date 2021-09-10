@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HjyTlnICJSJwxNGncw1TxM6o480=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69837753/akrales_191113_3779_0317.0.jpg' width='700px' /><br/>
+Google's Stadia cloud gaming service appears to have lost another top video game industry veteran — kind of. Jack Buser, Stadia's Director for Games and a former PlayStation exec, is moving to the company's Google Cloud division to head up “Gaming Solutions,” according to a ZDNet report.
+<a href='https://www.theverge.com/2021/9/9/22665805/google-stadia-jack-buser-games-cloud'> Source <a/>

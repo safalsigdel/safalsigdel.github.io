@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZQ9zWx9I6HXeMXIgfcU0jWsilHk=/0x0:6545x2700/1200x0/filters:focal(0x0:6545x2700):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22836627/rev_1_MX4_TRLR_0012_High_Res_JPEG.jpeg' width='700px' /><br/>
-The long-awaited trailer for the fourth Matrix installment is finally here alongside the film's official title: The Matrix: Resurrections. The trailer for Resurrections was first previewed at a CinemaCon presentation from Warner Bros. Pictures on Tuesday, August 24th, in Las Vegas before being released to the public today.
-<a href='https://www.theverge.com/2021/9/9/22640826/matrix-4-trailer-resurrections-release-date'> Source <a/>

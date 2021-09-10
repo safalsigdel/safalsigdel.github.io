@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UdBlkGjRBYCH0arJaDEhMZr8Y7I=/0x0:6656x4415/1200x800/filters:focal(2796x1676:3860x2740)/cdn.vox-cdn.com/uploads/chorus_image/image/69833376/P90434283_highRes_bmw_i_vision_amby_in.0.jpg' width='700px' /><br/>
-BMW recently showed off not one, but two e-bike concepts. The announcements are sprinkled with tons of gee-whiz claims that are easy to make when something only lives on paper, not roads. But one idea stood out to me as a real solution: the use of geofencing to limit fast e-bike speeds inside congested cities. Especially since BMW already has a working geofencing solution deployed around Europe.
-<a href='https://www.theverge.com/2021/9/9/22664259/speed-pedelec-geofencing-speed-control-electric-bike'> Source <a/>

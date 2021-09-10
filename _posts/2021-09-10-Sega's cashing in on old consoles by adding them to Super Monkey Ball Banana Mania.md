@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vxF5MOdpK_9E9gadOdod5BTjDB8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69834793/dreamcastball.0.jpg' width='700px' /><br/>
+September 9th marks the anniversary of the US launch of Sega's Dreamcast, its final console before the company pivoted completely to game development and publishing in the early aughts. Sega is honoring the Dreamcast, along with the Game Gear and Saturn, in the most illogical, but hilarious way by adding them as playable characters in the upcoming Super Monkey Ball Banana Mania.
+<a href='https://www.theverge.com/2021/9/9/22664632/sega-dreamcast-saturn-game-gear-super-monkey-ball-banana-mania'> Source <a/>

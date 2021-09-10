@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IKg3-7oyoXzPYNM_fw8_bxgXgpY=/0x0:2426x1366/1200x0/filters:focal(0x0:2426x1366):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22837963/Screen_Shot_2021_09_09_at_4.06.09_PM.png' width='700px' /><br/>
+The legendary Star Wars roleplaying game Knights of the Old Republic is getting a PS5 remake, Sony announced today at its 2021 fall showcase.
+<a href='https://www.theverge.com/2021/9/9/22665460/star-wars-knights-of-the-old-republic-remake-ps5-darth-revan'> Source <a/>

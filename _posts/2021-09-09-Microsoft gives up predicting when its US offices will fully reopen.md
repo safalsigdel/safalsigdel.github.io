@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9FtqUhrThM4x4E2RlelJT5whpCA=/0x0:5242x3395/1200x800/filters:focal(2202x1279:3040x2117)/cdn.vox-cdn.com/uploads/chorus_image/image/69834683/452292668.0.jpg' width='700px' /><br/>
-Microsoft is shelving its plans to fully reopen its US offices next month. The software giant had planned to reopen its headquarters on October 4th, but the ongoing uncertainty of COVID-19 and the spike in cases has forced the company to delay its back to the office push. Microsoft isn't providing a new date to employees, though.
-<a href='https://www.theverge.com/2021/9/9/22664284/microsoft-office-reopening-plans-us'> Source <a/>

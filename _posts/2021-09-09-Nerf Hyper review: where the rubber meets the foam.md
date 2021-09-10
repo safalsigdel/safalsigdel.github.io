@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7ASLLiNtgTRbal4DnWVprNAxtGU=/0x0:2200x1650/1200x675/filters:focal(889x650:1241x1002)/cdn.vox-cdn.com/uploads/chorus_image/image/69832261/verge_sean_hollister_20210822_3.0.jpg' width='700px' /><br/>
-For nearly 30 years, Nerf has been synonymous with foam — foam balls, foam darts, and foam arrows blasted across playgrounds or over cubicle walls.
-<a href='https://www.theverge.com/2021/9/8/22663549/nerf-hyper-rush-40-siege-50-mach-100-review'> Source <a/>

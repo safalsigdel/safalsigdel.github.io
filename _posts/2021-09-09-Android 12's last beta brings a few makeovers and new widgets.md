@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_5p0nT2CrOlzRMW53ASxv-yw4zA=/0x127:1080x1801/1200x800/filters:focal(446x746:618x918)/cdn.vox-cdn.com/uploads/chorus_image/image/69832550/Screenshot_20210908_173434.0.png' width='700px' /><br/>
-Today, Google released the final Android 12 beta before the OS properly launches, and with it a few of the visual changes and features we saw back when Android 12 was announced. Some of the notable inclusions in Beta 5 are the lovely geometric clock widgets, a redesigned calculator, and a new lock screen shortcut.
-<a href='https://www.theverge.com/2021/9/8/22663710/android-12-beta-5-ui-updates-features-clock-widgets-search-bar-calculator'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gMBgrfHdTs7vKgVRQa0WDC0_VnA=/0x0:5001x3334/1200x800/filters:focal(2101x1267:2901x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/69836862/1233341937.0.jpg' width='700px' /><br/>
+Texas Governor Greg Abbott has signed a bill regulating how social media companies moderate content.
+<a href='https://www.theverge.com/2021/9/9/22661626/texas-social-media-law-hb-20-signed-greg-abbott'> Source <a/>

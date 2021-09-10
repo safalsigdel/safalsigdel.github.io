@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4BAhnOGMOS47juVDnipIy9Ao9Jo=/0x0:2128x1197/1200x800/filters:focal(894x429:1234x769)/cdn.vox-cdn.com/uploads/chorus_image/image/69836689/halo_infinite_keyart_primary_horiz_9e788e276ba740e3af6451ef073fd3de.0.png' width='700px' /><br/>
+343 Industries is holding another Halo Infinite multiplayer preview later this month, and this time, it will be open to everyone. The next Halo Infinite multiplayer preview will kick off on Friday, September 24th, and all you need to do is sign up to be a Halo Insider before September 14th to get access.
+<a href='https://www.theverge.com/2021/9/9/22665435/halo-infinite-multiplayer-preview-september-24th'> Source <a/>

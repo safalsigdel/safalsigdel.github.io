@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8yORVI_e3MuFrb9fDSA5Pfu6ieQ=/0x0:3116x1736/1200x0/filters:focal(0x0:3116x1736):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22838175/Screen_Shot_2021_09_09_at_4.49.21_PM.png' width='700px' /><br/>
+Spider-Man 2 is officially coming to the PlayStation 5 in 2023, bringing back both Peter Parker and Miles Morales from Insomniac Games' previous PlayStation Spider-Man titles to face off against a new foe: Venom.
+<a href='https://www.theverge.com/2021/9/9/22665533/spider-man-2-insomniac-games-peter-parker-miles-morales-venom-ps5-2023'> Source <a/>

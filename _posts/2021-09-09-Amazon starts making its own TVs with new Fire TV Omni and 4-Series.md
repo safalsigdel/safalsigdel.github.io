@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sxsdOgo7NdT_We4hlseMu_RUPbw=/0x0:2612x1498/1200x800/filters:focal(1098x541:1514x957)/cdn.vox-cdn.com/uploads/chorus_image/image/69833914/Screen_Shot_2021_09_09_at_7.38.51_AM.0.png' width='700px' /><br/>
-Amazon is officially in the TV business. The company has announced its first lineup of Amazon-branded 4K Fire TVs, which will begin shipping in October. This is a major expansion from the company's “Fire TV Edition” collaborations, where its popular streaming software comes preloaded on sets manufactured by other TV makers. But with its new Omni and 4-Series, Amazon is describing these as “Amazon-built TVs.”
-<a href='https://www.theverge.com/2021/9/9/22662673/amazon-fire-tv-omni-4-series-price-features'> Source <a/>

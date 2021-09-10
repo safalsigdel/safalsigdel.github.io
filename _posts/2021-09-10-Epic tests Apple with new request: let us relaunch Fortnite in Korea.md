@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ou0NzjXQv9Qglr60GdZ2L8KArCY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69837531/acastro_20200818_1777_epicApple_0003.0.0.jpg' width='700px' /><br/>
+Epic Games has asked Apple to reinstate its Fortnite developer account so it can release the game in South Korea, following the passage of a bill that will force Apple and Google to let apps use alternative payment systems.
+<a href='https://www.theverge.com/2021/9/9/22665826/epic-games-apple-reinstate-fortnite-ios-korea-app-store-payment'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hvXi72trT-rkFKse0YoyDm01VAw=/0x0:1108x747/1200x800/filters:focal(466x286:642x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69836338/anandtech_sd_express_card_too_hot.0.jpg' width='700px' /><br/>
+When we say a gadget has “blazing-fast speeds,” we don't mean it literally. But when AnandTech benched one of the first NVMe-based SD card reference designs, it found the tiny plastic-covered rectangle hitting skin-searing temperatures of 96 degrees Celsius (roughly 205 degrees F).
+<a href='https://www.theverge.com/2021/9/9/22665216/sd-express-card-sm2708-nvme-heat'> Source <a/>

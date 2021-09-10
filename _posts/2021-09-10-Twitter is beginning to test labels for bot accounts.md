@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K8ffOyAOdmQmepwbvjKfIm_ONzg=/0x0:2048x2048/1200x800/filters:focal(861x861:1187x1187)/cdn.vox-cdn.com/uploads/chorus_image/image/69837372/pasted_image_0.0.png' width='700px' /><br/>
+Twitter is beginning to roll out labels for automated accounts (or bot accounts), the company announced Thursday. “Examples of automated accounts you might see on Twitter include bots that help you find vaccine appointments and disaster early warning systems,” Twitter said in an FAQ. “When these accounts let you know they're automated, you get a better understanding of their purpose when you're interacting with them.”
+<a href='https://www.theverge.com/2021/9/9/22665748/twitter-automated-account-bot-labels-tweets-test'> Source <a/>

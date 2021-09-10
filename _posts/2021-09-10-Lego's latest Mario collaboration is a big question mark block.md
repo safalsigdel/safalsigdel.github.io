@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AGCn5TrCH4cnMyrWi-FCJub3csU=/0x0:960x639/1200x0/filters:focal(0x0:960x639):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22837008/71395_LSM_2HY21_Lifestyle_02__1_.jpg' width='700px' /><br/>
+Lego's latest Mario-themed set is a giant homage to Super Mario 64, a giant question mark block that unfolds to reveal four levels from the Nintendo 64 game: Peach's Castle; Bob-omb Battlefield; Cool, Cool Mountain; and Lethal Lava Trouble. The “Lego Super Mario 64 ? Block set,” to use its official title, is made up of over two thousand pieces and will cost $169.99 when it goes on sale in Lego's stores on October 1st.
+<a href='https://www.theverge.com/2021/9/9/22664708/lego-mario-64-question-mark-block'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B2tgg6VzTfrhV3dn-INfsoNXkro=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69836725/E_3vU3YXMAEXoy2.0.jpeg' width='700px' /><br/>
+We've finally got a first glimpse at the newest entry in the “Kratos tries to Dad” series, and it looks pretty damn cool. God of War: Ragnarok, first teased almost exactly a year ago with naught more than a logo, finally has a trailer.
+<a href='https://www.theverge.com/2021/9/9/22665085/sony-god-of-war-ragnarok-playstation-ps5-showcase'> Source <a/>

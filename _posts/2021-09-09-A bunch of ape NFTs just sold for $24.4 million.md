@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N_DW9DwqCseCzyXIKjoo2QkT8Ew=/0x0:1816x1434/1200x800/filters:focal(750x464:1040x754)/cdn.vox-cdn.com/uploads/chorus_image/image/69834414/Screen_Shot_2021_09_09_at_9.20.13_AM.0.png' width='700px' /><br/>
-If you thought NFT mania was about to die off, think again: a bundle of 101 NFTs from Bored Ape Yacht Club just sold at Sotheby's for $24.4 million. A second bundle of 101 Bored Ape Kennel Club NFTs sold for $1.8 million.
-<a href='https://www.theverge.com/2021/9/9/22664469/bored-ape-yacht-club-sothebys-auction-amount'> Source <a/>

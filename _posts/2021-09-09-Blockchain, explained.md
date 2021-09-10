@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MakcFJdyXivfBpjfHDADSBJqbQo=/0x0:1999x935/1200x0/filters:focal(0x0:1999x935):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22823807/image2.png' width='700px' /><br/>
-If you're like me, you've probably spent the last decade hearing about blockchain technology and all the ways it'll change the world. And at some point, you've probably wondered, “Heyxe2x80xa6 what the heck even is a blockchain?”
-<a href='https://www.theverge.com/22654785/blockchain-explained-cryptocurrency-what-is-stake-nft'> Source <a/>
