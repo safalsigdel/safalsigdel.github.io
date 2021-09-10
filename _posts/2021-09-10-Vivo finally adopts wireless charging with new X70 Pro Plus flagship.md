@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aZRebLNxgLL1q9M4Cbss7-u4mz0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69838082/vivo_X70_Series_Photo_2.0.jpg' width='700px' /><br/>
+Vivo has announced the X70 series, its latest line of flagship phones. It sees the company further extend its camera partnership with renowned lens company Zeiss while refining the blueprint laid down by the X50 and X60 phones from the past year-plus.
+<a href='https://www.theverge.com/2021/9/9/22664290/vivo-x70-pro-plus-series-announced-zeiss-wireless-charging'> Source <a/>

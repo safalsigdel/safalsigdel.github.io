@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yT0TmMlQlVcOtsDbhxn39-Iq0w0=/0x0:2560x1440/1200x0/filters:focal(0x0:2560x1440):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22837038/kjF2cQp.jpeg' width='700px' /><br/>
-Microsoft is debuting its first ad campaign for Windows 11 today. The 60-second TV commercial is set to “All Starts Now” by Odessa and features the new Microsoft Store, Master Chief from the world of Halo, Microsoft Teams, and more.
-<a href='https://www.theverge.com/2021/9/9/22664725/microsoft-windows-11-tv-commercial-ad'> Source <a/>
