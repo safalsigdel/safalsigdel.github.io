@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5pM9GYztSECBFK9FcJpxEw-Bl7o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69839987/acastro_210119_1777_whatsapp_0003.0.jpg' width='700px' /><br/>
+WhatsApp will let its more than 2 billion users fully encrypt the backups of their messages, the Facebook-owned app announced Friday.
+<a href='https://www.theverge.com/2021/9/10/22665968/whatsapp-backups-end-to-end-encryption-ios-android'> Source <a/>
