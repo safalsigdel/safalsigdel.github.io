@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DorXgJkedwszDztLHFyczvJrQ1M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69836416/acstro_190902_apple_event_0005.0.0.jpg' width='700px' /><br/>
-Just two days after Ford hired away Doug Field, the head of Apple's secretive car project, the tech giant has tapped Apple Watch exec and former Adobe CTO Kevin Lynch to take his place, according to Bloomberg.
-<a href='https://www.theverge.com/2021/9/9/22665353/apple-watch-kevin-lync-project-titan-electric-car'> Source <a/>
