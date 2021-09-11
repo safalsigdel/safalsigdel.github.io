@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-OA6nyI3zqfvVtgT_lr426AeRYM=/0x0:5000x3366/1200x800/filters:focal(2205x0:3005x800)/cdn.vox-cdn.com/uploads/chorus_image/image/69838897/1235139501.0.jpg' width='700px' /><br/>
-If you've been following the Chinese phone scene for the past few years, you'll have noticed the inescapable fast-charging arms race. It feels like every few months there's a new champion, with high-wattage chargers constantly pushing down the time it takes to fill a phone battery.
-<a href='https://www.theverge.com/2021/9/10/22666347/xiaomi-11t-pro-120w-fast-charging-battery-interview'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SgYA24y1AZEY2lAyF_2sXtvzaWA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69838609/acastro_201210_1777_gmail_0001.0.jpg' width='700px' /><br/>
-Google is starting to roll out its new Material You design system to Gmail, Calendar, Docs, and more on Android. The new look will include changes to navigation bars, improved action buttons, and Google's Sans text for better readability. It's part of the bigger Android 12 redesign that includes big, bubbly buttons, shifting colors, smoother animations, and some overhauls to built-in apps.
-<a href='https://www.theverge.com/2021/9/10/22666355/google-material-you-design-gmail-calendar-docs-android'> Source <a/>

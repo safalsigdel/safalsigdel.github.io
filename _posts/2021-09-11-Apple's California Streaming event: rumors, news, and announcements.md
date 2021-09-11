@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HIDR1BUl4j-TUSDdsv0m9A675no=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/69841422/Apple_California_Streaming_Event_Promo_Image.0.png' width='700px' /><br/>
+Autumn is quickly approaching, which to Apple aficionados can mean only one thing: the next iPhone is just around the corner.
+<a href='https://www.theverge.com/22665413/apple-event-iphone-13-announcements-news-products'> Source <a/>

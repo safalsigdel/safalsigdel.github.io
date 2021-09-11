@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2eHwitHTdjRKC4KpEaBxf1XnHRM=/0x0:5000x3750/1200x800/filters:focal(2100x1475:2900x2275)/cdn.vox-cdn.com/uploads/chorus_image/image/69837109/1335940043.0.jpg' width='700px' /><br/>
-Refusing to wear a mask on an airplane is about to get really expensive. The Transportation Security Administration (TSA) announced that it was doubling civil penalties for those who refuse to comply with federal mask mandates on commercial airlines, at airports, or on certain forms of public transportation like passenger rail or intercity buses. Repeat offenders could now face fines of up to $3,000.
-<a href='https://www.theverge.com/2021/9/9/22665625/tsa-mask-mandate-airplane-fines-covid-train-bus'> Source <a/>

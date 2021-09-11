@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mliDTu2Tl9U2t4TY-Zq6c-RZrh0=/0x0:2040x1360/1200x675/filters:focal(819x538:1145x864)/cdn.vox-cdn.com/uploads/chorus_image/image/69839608/defacedLede.0.jpg' width='700px' /><br/>
-With the rise of NFT artwork over the past year, many artists have floated my way through the Twitter content rivers. One of those people was Defaced, whose colorful, geometric designs always transport me to an alternate dimension and draw me in with characters that I can't help but feel for.
-<a href='https://www.theverge.com/22662541/defaced-starman-nft-artist-jim-henson-shigeru-miyamoto-crypto-art-starmaker'> Source <a/>

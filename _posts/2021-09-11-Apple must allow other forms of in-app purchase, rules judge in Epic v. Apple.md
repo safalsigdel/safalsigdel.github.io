@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cEKGofkrWvcZJ-pJtZ9ZsYk7CN0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69840078/acastro_20200818_1777_epicApple_0004.0.0.jpg' width='700px' /><br/>
+Judge Yvonne Gonzalez Rogers issued a permanent injunction in the Epic v. Apple case on Friday morning, putting new restrictions on Apple's App Store rules and bringing months of bitter legal jousting to a conclusion.
+<a href='https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rKTKOJpWTwyHrheBlsB4gGA4keI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69839165/cwelch_181030_3054_0442.0.jpg' width='700px' /><br/>
-The Amazon Fire TV Stick 4K has long been considered one of the best streaming devices on the market, especially if you're already tapped into Amazon's ecosystem. The arrival of the Amazon Fire TV Stick 4K Max may complicate things next month, however, if you couldn't care less about Wi-Fi 6 and improved processing power, the current model should suffice.
-<a href='https://www.theverge.com/good-deals/2021/9/10/22665458/amazon-fire-tv-stick-4k-apple-homepod-mini-m1-macbook-air-fujifilm-camera-deal-sale'> Source <a/>

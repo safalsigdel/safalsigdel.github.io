@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vmQSsfL1NbSBcsXt3P-vj42qKwo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69840689/acastro_210115_1777_twitch_hate_raid_0002.0.jpg' width='700px' /><br/>
+After months of combating a tidal wave of harassment campaigns targeting marginalized streamers, Twitch has filed a suit against two alleged “hate raiders.”
+<a href='https://www.theverge.com/2021/9/10/22666953/twitch-sues-alleged-hate-raiders-harassment-streamers'> Source <a/>

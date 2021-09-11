@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6mUtRLoMJFB44-hqWIcFGE0e9fc=/0x0:6582x4388/1200x800/filters:focal(2765x1668:3817x2720)/cdn.vox-cdn.com/uploads/chorus_image/image/69839282/IMG_0072.0.jpg' width='700px' /><br/>
-Samsung has announced six limited edition watch bands for the Galaxy Watch 4 made of recyclable and eco-friendly materials including apple peel. The range was made in collaboration with Sami Mirxc3xb3, a fashion designer whose previous collections have made use of upcycled materials. The bands are available today, with prices starting at $39.99.
-<a href='https://www.theverge.com/2021/9/10/22666328/samsung-eco-friendly-sustainable-limited-edition-galaxy-watch-4-bands'> Source <a/>
