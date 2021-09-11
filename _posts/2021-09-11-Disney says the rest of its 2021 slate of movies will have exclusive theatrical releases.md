@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GM8JVw9cV6nw98EcNCRFzlBWoAc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69844396/acastro_190411_1777_Disney_Streaming_0003.0.0.jpg' width='700px' /><br/>
+The remaining movies on Disney's 2021 slate will all be released in theaters exclusively before being released on its Disney Plus streaming platform, the company announced late Friday.
+<a href='https://www.theverge.com/2021/9/11/22668326/disney-movies-exclusive-theatrical-streaming-black-widow-eternals-johansson'> Source <a/>

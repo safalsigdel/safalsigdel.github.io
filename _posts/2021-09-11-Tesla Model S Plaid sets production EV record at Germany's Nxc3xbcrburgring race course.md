@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CCLh_pt1UHgQ19XBXkliSqsV734=/0x0:2416x1449/1200x800/filters:focal(1015x532:1401x918)/cdn.vox-cdn.com/uploads/chorus_image/image/69839808/Screen_Shot_2021_09_10_at_9.53.20_AM.0.png' width='700px' /><br/>
-Tesla set a new lap record for a production electric vehicle at Germany's famed Nxc3xbcrburgring race course. A brand-new Model S Plaid completed the 12.9-mile lap in seven minutes and 30.9 seconds, beating a record set in 2019 by a Porsche Taycan by 12 seconds. The new record was confirmed by Tesla CEO Elon Musk on Twitter.
-<a href='https://www.theverge.com/2021/9/10/22666576/tesla-model-s-plaid-nurburgring-ev-production-record'> Source <a/>
