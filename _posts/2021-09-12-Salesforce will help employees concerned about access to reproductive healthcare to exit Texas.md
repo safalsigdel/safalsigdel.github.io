@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8bdjJgRytpNouKBn56V-eLy6Sho=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/69847529/1317338667.0.jpg' width='700px' /><br/>
+Salesforce has told employees that the company will help them and their families relocate if they're concerned about abortion access in the state where they live. According to a Slack message obtained by CNBC, the company didn't refer to any specific state, but the message was sent to thousands of employees late Friday, a day after the US Department of Justice sued Texas over its new abortion law.
+<a href='https://www.theverge.com/2021/9/12/22669774/salesforce-relocate-employees-abortion-access-benioff-texas-sb8'> Source <a/>

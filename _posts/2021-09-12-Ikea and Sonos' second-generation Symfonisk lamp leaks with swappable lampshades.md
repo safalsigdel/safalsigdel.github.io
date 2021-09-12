@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bmtCE_6kQSWDxKhSHjasrUN4mJc=/0x0:1126x750/1200x800/filters:focal(473x285:653x465)/cdn.vox-cdn.com/uploads/chorus_image/image/69840606/Screen_Shot_2021_09_10_at_12.38.08_PM.0.png' width='700px' /><br/>
-Ikea's second-generation Symfonisk table lamp speaker has leaked thanks to a support document posted to Ikea's Portuguese website (spotted by a Reddit user who claims to have encountered the lamp shades in a store), featuring a new design that streamlines the speaker-lamp's base and adds the much-needed option to swap in different styles of lampshades, via Janko Roettgers on Twitter.
-<a href='https://www.theverge.com/2021/9/10/22666940/ikea-sonos-symfonisk-lamp-speaker-leak-swappable-lampshades'> Source <a/>
