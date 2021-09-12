@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aCGYBCBwx6x2S9gOEXWDhIMLRCI=/0x0:2500x1875/1200x800/filters:focal(936x102:1336x502)/cdn.vox-cdn.com/uploads/chorus_image/image/69844848/1288191697.0.jpg' width='700px' /><br/>
-Electronics company TCL is pausing its plans release a lower-cost foldable phone this year, the company confirmed in an email to The Verge. Its clamshell-style foldable phone, codenamed Project Chicago, was in mid-development when the company made the decision to put it on indefinite hold. According to TCL the delay is due in part to rising production costs and supply chain shortages.
-<a href='https://www.theverge.com/2021/9/11/22668454/tcl-not-release-foldable-smartphone-chicago-supply-chain'> Source <a/>

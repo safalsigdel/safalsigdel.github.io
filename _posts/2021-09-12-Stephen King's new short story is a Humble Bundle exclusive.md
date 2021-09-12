@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EJqyM4dWy59jTH-2lCdoXn6caIk=/675x289:3325x2803/1200x800/filters:focal(1712x387:2384x1059)/cdn.vox-cdn.com/uploads/chorus_image/image/69842003/843521170.jpg.0.jpg' width='700px' /><br/>
-Author Stephen King and Humble Bundle are teaming up to release an exclusive short story called “Red Screen.” All pay-what-you-want proceeds (starting at a $5 minimum) from “Red Screen” will benefit the American Civil Liberties Union while the story is available, from September 10th through September 16th.
-<a href='https://www.theverge.com/2021/9/10/22667291/stephen-king-short-story-red-screen-humble-bundle-aclu'> Source <a/>

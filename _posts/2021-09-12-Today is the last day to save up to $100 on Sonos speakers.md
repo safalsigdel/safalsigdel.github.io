@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2ysFaIDkRqcCcwd0lvSidXQTWy0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69844173/RoamFrame.0.jpg' width='700px' /><br/>
-If you want to save up to $100 on Sonos products, now is the time. Starting Sunday, September 12th, Sonos will be increasing its prices from $10 to $100, depending on the product, meaning today is the last day you will be able to pick up one of the company's many smart speakers at their current price.
-<a href='https://www.theverge.com/good-deals/2021/9/11/22666760/sonos-speaker-hp-pavilion-aero-13-sennheiser-momentum-3-wireless-samsung-m7-smart-monitor-deal-sale'> Source <a/>

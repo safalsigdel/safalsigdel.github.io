@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LiWX3rcYfprw4G07KPts3290ByY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69842023/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
-You're on Instagram looking for your best friend's daily dog update, but you have to scroll endlessly through a sea of posts you care little about, and probably forget what you're looking for in the first place. After a few extra annoyed scrolls, you close the app in frustration.
-<a href='https://www.theverge.com/2021/9/10/22666744/instagram-testing-new-favorites-setting-prioritize-content'> Source <a/>
