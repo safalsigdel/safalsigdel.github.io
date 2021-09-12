@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YBFt9rgnJZK58TiVck3RTGv71LQ=/0x0:1920x1080/1200x675/filters:focal(826x369:1132x675)/cdn.vox-cdn.com/uploads/chorus_image/image/69842856/apple_fortnite_1984_parody.0.png' width='700px' /><br/>
+It was May 11th, the seventh day of the Epic v. Apple trial, that Judge Yvonne Gonzalez Rogers hit upon a compromise neither company had asked for. She asked Epic's economist, David Evans, if it would be sufficient to kill Apple's anti-steering rules — the ones Apple uses to keep developers from even telling you that there's a perfectly good external website where you can purchase your subscription instead of inside the app itself.
+<a href='https://www.theverge.com/2021/9/10/22667769/apple-epic-lost-lawsuit-verdict-ruling'> Source <a/>
