@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YVHOXTeJcl4OAW07zPEhImzP0V0=/0x0:2050x1367/1200x800/filters:focal(917x376:1245x704)/cdn.vox-cdn.com/uploads/chorus_image/image/69840217/vpavic_4279_20201107_0048.0.0.jpg' width='700px' /><br/>
-The iPhone 12 and 12 Pro launched last year with the ability to shoot video in Dolby Vision HDR — but for the most part, there hasn't been anywhere to actually post or share those files.
-<a href='https://www.theverge.com/2021/9/10/22666520/vimeo-apple-iphone-12-pro-dolby-vision-hdr-videos-support'> Source <a/>
