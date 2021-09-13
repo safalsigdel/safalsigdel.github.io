@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0FJrF2KV_yTvM-NfJGHqGLtL72o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69848265/vpavic_4243_20201017_0077.0.0.jpg' width='700px' /><br/>
+Days before Apple's California Streaming event on September 14th, a new investor report from analyst Ming-Chi Kuo says he expects the iPhone 13 Pro and iPhone 13 Pro Max to each have a 1TB storage configuration (h/t 9to5Mac). Kuo also says the iPhone 13 and iPhone 13 mini will have storage configurations of 128GB, 256GB, and 512GB, but no 64GB option.
+<a href='https://www.theverge.com/2021/9/12/22670072/apple-iphone-13-pro-models-1tb-storage-kuo'> Source <a/>

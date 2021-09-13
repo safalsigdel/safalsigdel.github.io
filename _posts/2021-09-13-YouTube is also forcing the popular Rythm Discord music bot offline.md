@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vCwGaDA4Sz_Mm0Jcuu_2-Eszqrs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69848937/acastro_180806_1777_youtube_cancel_0001.0.jpg' width='700px' /><br/>
+Just weeks after forcing the Groovy Discord music bot offline, Google-owned YouTube is now turning its attention to Rythm, the most popular music bot on Discord. The search giant has sent a cease and desist to the owners of Rythm, a bot that lets Discord users play music from YouTube videos and is used by more than 560 million people.
+<a href='https://www.theverge.com/2021/9/12/22669502/youtube-discord-rythm-music-bot-closure'> Source <a/>

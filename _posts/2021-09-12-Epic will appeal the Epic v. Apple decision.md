@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D_7D453VAYfmdo8J0SLXGIkoHVU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69841353/acastro_20200818_1777_epicApple_0002.0.0.jpg' width='700px' /><br/>
-If you're wondering whether Epic Games is satisfied with Judge Yvonne Gonzalez Rogers' decision to give iPhone and iPad developers a way around Apple's 30 percent cut, the answer is most definitely no. Epic will appeal the court's ruling in Epic v. Apple, a spokesperson confirmed to The Verge.
-<a href='https://www.theverge.com/2021/9/10/22667208/epic-games-appeal-apple-judge-rogers-ruling-court'> Source <a/>
