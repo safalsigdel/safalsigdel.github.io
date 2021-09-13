@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/djtg-_mLT4ENNU0bVyTFxWY3Tow=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69851089/jbareham_170916_2000_0232.0.jpg' width='700px' /><br/>
+If you're an iPhone owner, it's very possible you're considering trading up to the latest model, which (when this article was last updated) is likely to be the iPhone 13. However, if your current iPhone is still in good shape, you may be wondering about what to do with it. Should you sell it? Trade it in? Give it away?
+<a href='https://www.theverge.com/22664451/iphone-13-sell-trade-in-old-apple-how-to'> Source <a/>
