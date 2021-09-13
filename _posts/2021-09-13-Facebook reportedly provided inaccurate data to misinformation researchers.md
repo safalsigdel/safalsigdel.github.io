@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ut03qAmaBm_CTokpSxPvY8fOX5s=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69844682/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
-Facebook apologized to misinformation researchers for providing them with flawed, incomplete data for their work examining how users interact with posts and links on its platform, the New York Times reported. Contrary to what the company told the researchers, the data Facebook provided apparently only included information for roughly half of its users in the US, not all of them.
-<a href='https://www.theverge.com/2021/9/11/22668396/facebook-provided-inaccurate-data-misinformation-researchers'> Source <a/>
