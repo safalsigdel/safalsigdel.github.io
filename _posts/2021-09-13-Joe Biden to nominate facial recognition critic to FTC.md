@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZzhrcjS45jwySdaS6QcHlUpP6mE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69852386/acastro_190204_1777_privacy_0002.0.jpg' width='700px' /><br/>
+President Joe Biden is expected to nominate privacy hawk Alvaro Bedoya to the Federal Trade Commission, as first reported by Axios on Monday.
+<a href='https://www.theverge.com/2021/9/13/22671880/biden-alvaro-bedoya-privacy-ftc-commissioner-facial-recognition'> Source <a/>
