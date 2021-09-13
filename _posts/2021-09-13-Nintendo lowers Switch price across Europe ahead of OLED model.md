@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zDn4nucZD9IKoXMsmawqEjK2ocM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69850432/jbareham_1492_170228_0097.0.0.jpg' width='700px' /><br/>
+Nintendo is lowering the price of its base Switch model across Europe ahead of the OLED version's launch next month. The Nintendo Switch is now priced at xe2x82xac299.99 in Europe, down xe2x82xac30 from the previous xe2x82xac329.99 pricing. In the UK, Nintendo has adjusted the base model to xc2xa3259.99, down xc2xa320 from the previous xc2xa3279.99 pricing.
+<a href='https://www.theverge.com/2021/9/13/22671208/nintendo-switch-pricing-lowered-europe-uk'> Source <a/>
