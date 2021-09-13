@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pQYHduZJuU6BRov5sRLqfXANt5I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69841849/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
-Update September 10th, 5:01PM ET: Sony appears to have sold out of PS5 consoles for the day. We'll make sure to let you know when the next opportunity comes up.
-<a href='https://www.theverge.com/2021/9/10/22652047/sony-direct-playstation-ps5-restock-order-queue'> Source <a/>
