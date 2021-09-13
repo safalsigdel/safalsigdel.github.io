@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WjL57ggIXHFur9jvtt1N_71a0Ys=/0x0:1242x1842/1200x0/filters:focal(0x0:1242x1842):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22846264/WA_TRANSCRIPT_VOICE_MESSAGE_PERMISSION_IOS.jpg' width='700px' /><br/>
+WhatsApp is reportedly developing a feature that'll offer transcriptions of received voice messages, letting you easily read what's been said without having to play it out loud. The feature spotted by WABetaInfo is currently in development for iOS. It's unclear when it'll hit the WhatsApp beta for iPhone users or when it'll come to Android.
+<a href='https://www.theverge.com/2021/9/13/22671185/whatsapp-voice-notes-transcription-ios'> Source <a/>

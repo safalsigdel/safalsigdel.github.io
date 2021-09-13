@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UX4QqBXD6pyqj-MLcHdvJBNI_mU=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69841513/acastro_210831_1777_0002.0.jpg' width='700px' /><br/>
-Apple's app store policies have caused controversy and consternation many times over the years, but few periods have been as active and strange as the last two weeks. For the first time, we are seeing Apple being forced to react directly to lawsuits and regulators with substantial policy changes.
-<a href='https://www.theverge.com/22667242/apple-app-store-major-policy-changes-history'> Source <a/>
