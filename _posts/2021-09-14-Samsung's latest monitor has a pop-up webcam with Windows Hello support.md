@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ypNBj12LlhSp0mGLPp_AEeaXjgc=/0x0:1335x889/1200x800/filters:focal(562x339:774x551)/cdn.vox-cdn.com/uploads/chorus_image/image/69855298/S40VA_3_274023_.0.jpg' width='700px' /><br/>
+Samsung's Webcam Monitor S4 comes with all the work-from-home accessories you could need built right in. It's got 2W stereo speakers for listening to colleagues, an HD webcam so they can see you, a microphone so they can hear you, and a USB hub to cut down on the amount of ports needed on a laptop or desktop. The monitor is available now, Samsung says, and costs $319.99 in the US.
+<a href='https://www.theverge.com/2021/9/14/22673239/samsung-webcam-monitor-s4-pop-up-speakers-microphone'> Source <a/>
