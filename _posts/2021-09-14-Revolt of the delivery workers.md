@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fZTgYubIKinicMPexBvusCCBeIQ=/0x0:1359x2000/1200x675/filters:focal(593x429:809x645)/cdn.vox-cdn.com/uploads/chorus_image/image/69850803/1921COV_MontgomeryNYMAG_Deliveristas_Final_001.0.jpg' width='700px' /><br/>
-This article is a collaboration between New York Magazine and The Verge. Lea el reportaje en espaxc3xb1ol aquxc3xad.
-<a href='https://www.theverge.com/22667600/delivery-workers-seamless-uber-relay-new-york-electric-bikes-apps'> Source <a/>
