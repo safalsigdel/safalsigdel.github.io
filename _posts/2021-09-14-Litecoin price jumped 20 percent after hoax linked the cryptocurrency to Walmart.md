@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gX6_CR0eDF3BJJl2MhzKFJe0Qx4=/0x0:5000x3337/1200x800/filters:focal(1793x1750:2593x2550)/cdn.vox-cdn.com/uploads/chorus_image/image/69851586/1234956057.0.jpg' width='700px' /><br/>
-The Litecoin cryptocurrency saw its price spike by as much as 20 percent on Monday after a fake press release claimed Walmart would begin accepting Litecoin as payment.
-<a href='https://www.theverge.com/2021/9/13/22671485/walmart-crypto-hoax-litecoin-cryptocurrency'> Source <a/>
