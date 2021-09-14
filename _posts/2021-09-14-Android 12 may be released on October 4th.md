@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HHTgANapiUKyG443hg1oG5yKPvk=/0x0:620x413/1200x800/filters:focal(261x158:359x256)/cdn.vox-cdn.com/uploads/chorus_image/image/69852679/VRG_1777_Android_12_001.5.0.jpg' width='700px' /><br/>
-Android 12 may be released on October 4th, according to an internal document shared by XDA Developers. The next version of Google's mobile operating system features the new Material You visual design and has been in public beta since May.
-<a href='https://www.theverge.com/2021/9/13/22671612/android-12-possible-release-date'> Source <a/>
