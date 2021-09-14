@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RXWcit5WgU_5rg67yo2kBaUL0WQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69851859/acastro_200331_1777_zoom_0002.0.0.jpg' width='700px' /><br/>
-Zoom plans to expand its support for automatic live transcriptions with the addition of live translation, and turn its whiteboard feature into a more of a fully-featured app, among several other changes the company announced at its Zoomtopia conference on Monday.
-<a href='https://www.theverge.com/2021/9/13/22667556/zoom-live-translation-whiteboard-update-vr'> Source <a/>
