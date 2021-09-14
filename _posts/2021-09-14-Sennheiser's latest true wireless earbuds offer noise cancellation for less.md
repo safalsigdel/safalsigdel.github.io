@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4SLpaUR50ljgr9XA8rf7SyKAk8k=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/69854025/ezgif_7_8ac862e63642.0.jpg' width='700px' /><br/>
-Sennheiser's CX Plus true wireless earbuds aren't its first pair to offer noise cancellation, but it's the first time the feature has appeared on its more affordable CX range. At $179, the CX Plus are more expensive than the $129 CX True Wireless announced earlier this year, but they're affordable compared to the flagship $300 Momentum True Wireless 2.
-<a href='https://www.theverge.com/2021/9/13/22671228/sennheiser-cx-plus-true-wireless-earbuds-noise-cancellation-release-date-news-features'> Source <a/>
