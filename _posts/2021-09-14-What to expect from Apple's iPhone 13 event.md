@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Pz0vdQ0aL4DlJcarWhwZLk2RmBw=/0x0:1323x638/1200x800/filters:focal(539x248:749x458)/cdn.vox-cdn.com/uploads/chorus_image/image/69851120/Screenshot_2021_09_10_7.38.39_AM.0.png' width='700px' /><br/>
-Apple's first fall event is coming up on Tuesday, September 14th, at 1PM ET / 10AM PT, right around the time when the company typically introduces its latest version of the iPhone. Like last year's iPhone event, Tuesday's announcements will be entirely digital, in the slick, over-produced style that's become Apple's trademark during the pandemic.
-<a href='https://www.theverge.com/2021/9/13/22663715/apple-iphone-13-event-rumors-announcements-california-streaming'> Source <a/>
