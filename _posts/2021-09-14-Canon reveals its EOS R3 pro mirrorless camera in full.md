@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GhCuQnQwwkOjLkRhera1coDkjpk=/0x0:1750x1176/1200x800/filters:focal(735x448:1015x728)/cdn.vox-cdn.com/uploads/chorus_image/image/69855329/HR_EOS_R3_4_CL.0.jpg' width='700px' /><br/>
+Canon confirmed plans for its highest-end mirrorless camera yet back in April, but that was just a notice of development — now the company is ready to announce its specs in full. As expected, the EOS R3 will sit right at the top of the company's still fairly new EOS R range of full-frame mirrorless cameras, above last year's R5 and R6.
+<a href='https://www.theverge.com/2021/9/14/22673196/canon-eos-r3-camera-price-specs-release-date-announced'> Source <a/>
