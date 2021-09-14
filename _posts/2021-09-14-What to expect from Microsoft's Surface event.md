@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wdAc3NtUVfCqD_fHr-HNsasnzvs=/0x0:2400x1589/1200x800/filters:focal(1008x603:1392x987)/cdn.vox-cdn.com/uploads/chorus_image/image/69851282/twarren_surfacecomparison_1.0.jpg' width='700px' /><br/>
-Microsoft is holding a Surface event on September 22nd, where “the company will talk about devices and Windows 11.” With Windows 11 set to debut on October 5th, we're expecting to see four new Surface devices showcasing all the latest software features in the new OS. It won't be all Windows 11, though. Microsoft will also launch a second version of its Surface Duo Android-powered foldable device next week.
-<a href='https://www.theverge.com/2021/9/13/22671271/microsoft-surface-event-pro-8-surface-book-4-rumors'> Source <a/>
