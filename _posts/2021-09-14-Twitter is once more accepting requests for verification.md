@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ssFp6c-uJudQzH_4q8qjQU80x5M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69855270/acastro_200715_1777_twitter_0005.0.0.jpg' width='700px' /><br/>
+Kick the football, Charlie Brown! You'll definitely get it this time! And while you're at it, why not apply to be verified on Twitter? There's no way that can go wrong either.
+<a href='https://www.theverge.com/2021/9/14/22673213/twitter-verification-application-requests-open-how-to'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hgcuZpKiNJCc1e777xN6_uKgO-k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69850821/acastro_200207_3900_firefox_0001.0.0.jpg' width='700px' /><br/>
-Mozilla has quietly made it easier to switch to Firefox on Windows recently. While Microsoft offers a method to switch default browsers on Windows 10, it's more cumbersome than the simple one-click process to switch to Edge. This one-click process isn't officially available for anyone other than Microsoft, and Mozilla appears to have grown tired of the situation.
-<a href='https://www.theverge.com/2021/9/13/22671182/mozilla-default-browser-windows-protections-firefox'> Source <a/>
