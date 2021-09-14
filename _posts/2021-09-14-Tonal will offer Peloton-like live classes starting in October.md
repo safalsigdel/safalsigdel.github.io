@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2fMUpoqnEknKJuVHn4Tm7WOrnVI=/0x0:2040x1360/1200x800/filters:focal(1135x609:1461x935)/cdn.vox-cdn.com/uploads/chorus_image/image/69857013/akrales_190725_3568_0138.0.jpg' width='700px' /><br/>
+Tonal, which offers an at-home connected strength training machine, is adding to its library of on-demand exercise programs by introducing a Peloton-like live classes service called Tonal Live. Classes start streaming on October 20th.
+<a href='https://www.theverge.com/2021/9/14/22673676/tonal-live-classes-workouts-peloton'> Source <a/>
