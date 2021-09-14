@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QfKPj72HnZ1FKStuCkOPjJVC4go=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69852282/acastro_210429_1777_epicApple_0002.0.jpg' width='700px' /><br/>
-Apple is still weighing whether to appeal last week's Epic v. Apple antitrust ruling, the company said today. In a call with reporters, a representative said Apple was still evaluating its legal options and had not made a decision about its next steps. The position contrasts sharply with Epic, which announced yesterday that it intends to appeal.
-<a href='https://www.theverge.com/2021/9/13/22671736/epic-apple-fortnite-antitrust-case-ruling-appeal-decision'> Source <a/>
