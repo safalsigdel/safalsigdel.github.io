@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uxAjNpPfuLe3INtNPavO-BPK72I=/0x0:1780x999/1200x800/filters:focal(748x358:1032x642)/cdn.vox-cdn.com/uploads/chorus_image/image/69857250/lcimg_7b04f92e_6e3b_4b04_83c7_9381b0d97513.0.jpg' width='700px' /><br/>
+Apple has announced its all-new iPad Mini. It features a new enclosure with narrower bezels and rounded corners. The big news is that it's larger than the iPad Mini 5 with an 8.3-inch display (up from its predecessor's 7.9-inch panel), making the device even more viable as a driver for multitasking or schoolwork.. It's up for preorder today and will be available next week starting at $499.
+<a href='https://www.theverge.com/2021/9/14/22667216/ipad-mini-6-price-specs-release-date-features-apple'> Source <a/>
