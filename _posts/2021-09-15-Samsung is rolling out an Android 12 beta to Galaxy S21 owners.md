@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rpWu92Uihx4DTsk2X4aTiLPLO3k=/0x0:4001x2251/1200x800/filters:focal(1686x379:2326x1019)/cdn.vox-cdn.com/uploads/chorus_image/image/69854577/01_one_ui_4_beta_press_release_widget_customization.0.jpg' width='700px' /><br/>
-Samsung has announced that it's rolling out a public beta of Android 12 for Galaxy S21 devices, just a few weeks ahead of when we expect the final OS to be officially available for the first time on Pixel phones. Samsung is touting that it is managing to get these betas out earlier every year, though this year it's only by a week or two compared to 2020.
-<a href='https://www.theverge.com/2021/9/13/22672780/samsung-android-12-beta-galaxy-s21'> Source <a/>
