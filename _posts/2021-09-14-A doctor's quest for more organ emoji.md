@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kcqQzI-X6XSaqcBDpQwGMQGKOro=/40x0:954x551/1200x800/filters:focal(387x198:547x358)/cdn.vox-cdn.com/uploads/chorus_image/image/69852737/ios_anatomical_heart_lungs_new_emoji_2020.0.jpeg' width='700px' /><br/>
+The medical world needs more emoji, according to Shuhan He, an emergency medicine physician who helped propose the anatomical heart and lungs emoji. Now, He and others have laid out the case for an even larger variety of health-related emoji, which they argue could improve communication between doctors and patients.
+<a href='https://www.theverge.com/2021/9/13/22665002/doctors-medical-emoji-organs-health'> Source <a/>

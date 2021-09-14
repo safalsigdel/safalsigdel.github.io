@@ -1,3 +1,0 @@
-<img src='' width='700px' /><br/>
-The alien invasion is over, and now Fortnite's island is... full of cubes. Season 8 of the battle royale's second chapter just launched and it's called, simply, “Cubed.” The premise is pretty strange: according to developer Epic, the cubes that used to power the giant alien mothership have now been set free to wreak havoc on the island. As with all new seasons, the update means a combination of new characters, locations, weapons, and even portals to transport players to a monster-filled realm. The launch follows an explosive live event that took place over the weekend.
-<a href='https://www.theverge.com/2021/9/13/22666441/fortnite-chapter-2-season-8-battle-pass-cubes'> Source <a/>

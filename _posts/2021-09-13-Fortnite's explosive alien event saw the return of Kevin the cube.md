@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6DhYzSFY4AjIjDlM2ZEI-kfPC3I=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69848926/Fortnite_20210912161644.0.jpg' width='700px' /><br/>
-The latest live Fortnite event saw the return of a familiar friend, with an explosion-filled spectacle involving aliens, cubes, and lots of strange bits of lore. And now that it's over, the game is down in the lead-up to season 8.
-<a href='https://www.theverge.com/2021/9/12/22670317/fortnite-alien-invasion-season-7-end-event-operation-sky-fire'> Source <a/>

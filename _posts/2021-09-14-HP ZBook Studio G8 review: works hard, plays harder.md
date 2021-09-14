@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PAK7db4URGCThOLkQfdYCS4UySY=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69853056/cfaulkner_210824_4727_0003.0.jpg' width='700px' /><br/>
+There's usually a clear line that divides any manufacturer's lineup of gaming and business laptops, but the new ZBook Studio G8 blurs HP's lines a bit. It aims to be multiple machines at once, including a gaming laptop. And for the most part, it pulls the juggling act off, if you can stomach the cost.
+<a href='https://www.theverge.com/22671603/hp-zbook-studio-g8-laptop-business-gaming-review'> Source <a/>

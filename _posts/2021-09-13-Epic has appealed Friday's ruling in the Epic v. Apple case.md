@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NvR70O9vIu2T-CstzOiCkBZyCuo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69848505/acstro_190902_apple_event_0004.0.0.jpg' width='700px' /><br/>
-Epic Games has filed an appeal to a Friday's ruling in its lawsuit against Apple, calling on a higher court to reexamine the case and overturn the judge's ruling.
-<a href='https://www.theverge.com/2021/9/12/22670269/epic-files-appeal-fortnite-legal-battle'> Source <a/>

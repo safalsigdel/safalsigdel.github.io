@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2atHVW0FbDAMkFWUUXYXxuzH7UQ=/0x0:2040x1360/1200x675/filters:focal(1176x550:1502x876)/cdn.vox-cdn.com/uploads/chorus_image/image/69848233/tim-cook-apple-stock-0563.0.0.jpg' width='700px' /><br/>
-Tim Cook has just marked 10 years as Apple's CEO, and while he's grown Apple into the most valuable company in the world, it's reasonable to argue he hasn't yet introduced a signature, industry shaking product like Apple co-founder Steve Jobs did with the iPhone, iPad, Mac and more.
-<a href='https://www.theverge.com/21077484/apple-tim-cook-ar-augmented-reality'> Source <a/>

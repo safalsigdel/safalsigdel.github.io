@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rZxSzKDlbzAhpukckKQAyVlNn5w=/0x0:2312x1376/1200x800/filters:focal(972x504:1340x872)/cdn.vox-cdn.com/uploads/chorus_image/image/69854068/Screen_Shot_2021_09_13_at_1.25.37_PM.0.png' width='700px' /><br/>
+Sony has permanently shut down the servers for the original three LittleBigPlanet games on Playstation 3 and the handheld LittleBigPlanet on the Playstation Vita, according to a tweet posted by the official LittleBigPlanet account on Monday (via IGN).
+<a href='https://www.theverge.com/2021/9/13/22672201/littlebigplanet-servers-shutdown-hacks-offensive-messages'> Source <a/>
