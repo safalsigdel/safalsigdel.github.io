@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HhfRHh8On7WHErKyKiU6WsnBYxY=/0x0:2040x1530/1200x675/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/69856959/IMG_3669.0.jpg' width='700px' /><br/>
+The time has come for yet another iPhone announcement — plus whatever else Apple might have up its sleeve. Sleeve's the right metaphor, actually, as new Apple Watches are expected today in addition to the iPhone 13. The keynote kicks off online at 10AM PT / 1PM ET and we'll be live blogging the whole thing right here.
+<a href='https://www.theverge.com/2021/9/14/22672094/apple-event-iphone-13-live-blog-news-announcements'> Source <a/>
