@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BGl5jLEBa2WTCI1ZCltyO_KqyAo=/0x0:1780x999/1200x800/filters:focal(1179x475:1463x759)/cdn.vox-cdn.com/uploads/chorus_image/image/69857561/camera.0.jpeg' width='700px' /><br/>
+With a design that's largely similar to last year's phones, Apple is leaning on big upgrades inside the iPhone 13 and 13 Pro lineups to get people excited. Some of the most substantial improvements to the 2021 iPhones are found in the camera(s), and the company today announced several new features that will produce better still photographs and videos on the iPhone 13, iPhone 13 mini, iPhone 13 Pro, and iPhone 13 Pro Max.
+<a href='https://www.theverge.com/2021/9/14/22673545/iphone-13-pro-camera-cinematic-mode-video-features-macro'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-iQo6yQ5ZyzwjfVPS1_ge5YNb-0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69854536/acastro_210119_1777_whatsapp_0002.0.jpg' width='700px' /><br/>
-It has been a contentious year for WhatsApp.
-<a href='https://www.theverge.com/2021/9/13/22672756/whatsapp-ceo-will-cathcart-interview-2021-propublica-privacy-encryption'> Source <a/>
