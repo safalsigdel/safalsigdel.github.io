@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-i7fvpxCNi7zG2sU_zpCDn6GqPk=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69861179/VRG_ILLO_4755_Decoder_Charlie_Harding.0.jpg' width='700px' /><br/>
+We are trying something a little different on this episode of Decoder — we're doing a little crossover with one of my favorite podcasts, Switched on Pop, a show about how popular music is made. I asked my friend Charlie Harding, one of the co-hosts, to come on Decoder and walk me through a particularly big change to the business of pop music that's come about in the streaming era.
+<a href='https://www.theverge.com/22672704/olivia-rodrigo-switched-on-pop-charlie-harding-music-copyright'> Source <a/>
