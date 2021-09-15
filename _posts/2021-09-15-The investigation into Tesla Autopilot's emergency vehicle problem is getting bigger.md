@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fNYHlNk0g624QHMAt2U5wxKnPtA=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/69856290/494411536.0.jpg' width='700px' /><br/>
-The National Highway Traffic Safety Administration is requesting advanced driver assist data from 12 automakers as it seeks to expand its investigation into Tesla's Autopilot. The government is probing a dozen incidents involving Teslas crashing into emergency vehicles.
-<a href='https://www.theverge.com/2021/9/14/22673497/tesla-nhtsa-autopilot-investigation-data-ford-gm-vw-toyota'> Source <a/>
