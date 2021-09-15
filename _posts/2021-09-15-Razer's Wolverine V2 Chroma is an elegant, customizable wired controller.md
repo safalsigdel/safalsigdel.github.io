@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J10wvYVkEDGKcRfwwH1kEGiJZHw=/0x0:5566x3710/1200x800/filters:focal(2338x1410:3228x2300)/cdn.vox-cdn.com/uploads/chorus_image/image/69856805/wolverinev2chroma1.0.jpg' width='700px' /><br/>
-A year after the launch of Razer's $100 Wolverine V2 Xbox controller, today the company has announced a $150 version with more features called the Wolverine V2 Chroma. The new name is a giveaway to one of the additions: a strip of Chroma RGB lighting near each of the two grips that can be programmed to your liking via its accessory companion app on an Xbox or PC.
-<a href='https://www.theverge.com/2021/9/14/22666452/razer-wolverine-v2-chroma-xbox-pc-wired-controller-price-features'> Source <a/>

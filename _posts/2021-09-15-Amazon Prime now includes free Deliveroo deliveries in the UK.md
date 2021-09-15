@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6HlmyH7U2l-P6jRn1B_LJfuMajM=/0x0:2546x1622/1200x800/filters:focal(1070x608:1476x1014)/cdn.vox-cdn.com/uploads/chorus_image/image/69860432/1320373926.0.jpg' width='700px' /><br/>
+Amazon is now offering a year of Deliveroo Plus with its Prime subscription in the UK. Amazon Prime customers will be able to access the silver tier of Deliveroo Plus free of charge, enabling free deliveries on orders over xc2xa325. Deliveroo normally charges xc2xa33.49 a month for Deliveroo Plus, making this a saving of more than xc2xa340 per year.
+<a href='https://www.theverge.com/2021/9/15/22675165/amazon-prime-deliveroo-plus-bundle-subscription'> Source <a/>
