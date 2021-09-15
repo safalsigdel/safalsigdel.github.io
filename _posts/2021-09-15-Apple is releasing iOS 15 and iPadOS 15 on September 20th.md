@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZcqJBq7rPs_tGXAGiYfO-VG1OJk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69857604/cgartenberg_210629_4653_001.0.jpg' width='700px' /><br/>
+Apple says it's releasing iOS 15 and iPadOS 15 on September 20th. The company announced the new free operating system updates at WWDC 2021 earlier in June and offered public betas over the summer.
+<a href='https://www.theverge.com/2021/9/14/22666881/apple-ios-ipados-15-features-release-date-update'> Source <a/>

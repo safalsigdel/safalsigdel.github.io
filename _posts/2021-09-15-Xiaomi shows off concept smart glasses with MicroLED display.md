@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/87HOAq_s0FeeJ8IV7Zw0XbL95zI=/0x0:1854x951/1200x0/filters:focal(0x0:1854x951):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22849119/WX20210914_095340.png' width='700px' /><br/>
-Xiaomi has announced a pair of smart glasses called Xiaomi Smart Glasses. A company spokesperson tells The Verge that there's no plan to actually put them on sale, but Xiaomi has provided enough detail to make the concept product seem somewhat plausible — at least for some point in the future.
-<a href='https://www.theverge.com/2021/9/14/22673144/xiaomi-smart-glasses-announced-microled-display-ar'> Source <a/>

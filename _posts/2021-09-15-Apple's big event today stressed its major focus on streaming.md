@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/18y_9qAi_lKuQE8vzNuVwXd7KrE=/0x88:946x704/1200x800/filters:focal(606x436:912x742)/cdn.vox-cdn.com/uploads/chorus_image/image/69858460/download.0.png' width='700px' /><br/>
+Apple's big product event today was all about iPhones, iPads, and the latest generation of its smartwatch — but make no mistake, it also underscored Apple's increasingly aggressive push to dominate streaming.
+<a href='https://www.theverge.com/2021/9/14/22673907/apple-event-2021-apple-tv-plus-streaming-wars'> Source <a/>

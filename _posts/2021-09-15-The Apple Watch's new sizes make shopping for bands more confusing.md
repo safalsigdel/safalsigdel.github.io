@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LFWDQ6Yo6FFfsUvlV2EXHqJgYZg=/0x0:1653x1102/1200x800/filters:focal(695x419:959x683)/cdn.vox-cdn.com/uploads/chorus_image/image/69858715/applewatchsizes.0.jpg' width='700px' /><br/>
+The Apple Watch Series 7 was one of the many announcements made during Apple's “California Streaming” event, sharing the stage alongside the iPhone 13 and 13 Pro, a new iPad Mini with USB-C charging, and more. The watch comes in new 41mm and 45mm case sizing, moving away from the 40mm and 44mm sizing that has been the standard for the last few generations of Apple Watch.
+<a href='https://www.theverge.com/2021/9/14/22674255/apple-watch-series-7-band-sizing-how-to-choose'> Source <a/>

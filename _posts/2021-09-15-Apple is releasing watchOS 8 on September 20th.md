@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kHePfjqWLBQgg5L_yJjlpb1ntgk=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/69857641/lcimg_e0eb6a55_c77c_4513_86a9_1373f1fd5bb0.0.jpg' width='700px' /><br/>
+Apple is releasing the next version of its smartwatch operating system, watchOS 8, on September 20th. The company first introduced the new free update at WWDC 2021 and has been testing it in public beta over the summer alongside iOS 15, iPadOS 15, and macOS Monterey.
+<a href='https://www.theverge.com/2021/9/14/22667046/apple-watchos-8-feature-release-date'> Source <a/>

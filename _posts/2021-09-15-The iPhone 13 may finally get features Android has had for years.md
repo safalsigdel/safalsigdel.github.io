@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CAOinrYk7vKSu63D1OCU2ZeN_vM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69855607/vpavic_4243_20201017_0077.0.0.jpg' width='700px' /><br/>
-It's new iPhone day. And as with any new smartphone announcement these days, we have a fairly decent idea of what to expect. Leaks and rumors are more accurate than ever, and though there's always the potential of a big surprise, the most likely scenario is the iPhone 13 will be what we think it will be.
-<a href='https://www.theverge.com/2021/9/14/22672551/iphone-13-display-lock-screen-always-on-variable-refresh-android'> Source <a/>

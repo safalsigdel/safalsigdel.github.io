@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kWo06M-dOhiYylKq3xNIB2VQzjo=/0x0:1600x900/1200x0/filters:focal(0x0:1600x900):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22849450/51469696561_637f5081cc_h.jpg' width='700px' /><br/>
-Sony's first PS5 beta included access to the long-awaited M.2 SSD slot, and now the company is ready to release the update to everyone. If you don't have a PlayStation 5 yet, then you should know that the PS4 is in line for an update, too, which will allow party owners to disband without kicking players out individually, and view trophies from PS5 games, whether it's on your profile or someone else's.
-<a href='https://www.theverge.com/2021/9/14/22664808/ps5-playstation-5-update-m2-ssd-sony-software'> Source <a/>

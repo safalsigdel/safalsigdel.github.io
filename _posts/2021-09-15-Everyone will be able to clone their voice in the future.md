@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DjNNIhuGnloWwNajSP4OZnAjxbs=/0x0:2196x1620/1200x0/filters:focal(0x0:2196x1620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/19210297/descript_2.png' width='700px' /><br/>
-Cloning your voice using artificial intelligence is simultaneously tedious and simple: hallmarks of a technology that's just about mature and ready to go public.
-<a href='https://www.theverge.com/22672123/ai-voice-clone-synthesis-deepfake-applications-vergecast'> Source <a/>

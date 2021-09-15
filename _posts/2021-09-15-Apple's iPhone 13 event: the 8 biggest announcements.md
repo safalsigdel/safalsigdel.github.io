@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LIC9F_tp4MC_Ge1BsfVEBcxDCjs=/0x0:1892x1056/1200x0/filters:focal(0x0:1892x1056):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22850237/JIWI7ks.png' width='700px' /><br/>
+Apple just finished its “California Streaming” event, and it announced a whole lot of new products, including the iPhone 13 lineup of smartphones, Apple Watches with bigger screens, and new iPads.
+<a href='https://www.theverge.com/22663657/apple-iphone-13-pro-ipad-mini-watch-event-biggest-announcements'> Source <a/>

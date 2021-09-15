@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZjnZ27DvCLLg4T0DL7Jq-hS6b-s=/0x0:3054x2170/1200x800/filters:focal(1419x684:1907x1172)/cdn.vox-cdn.com/uploads/chorus_image/image/69854589/1205847816.0.jpg' width='700px' /><br/>
-Twitter has committed to labeling tweets containing misleading information about COVID-19 vaccines, but the company says a recent Nicki Minaj tweet which claimed that “the vaccine” made her cousin's friend impotent does not violate its rules. There is no known scientific evidence that the COVID-19 vaccine could cause a fertility problem in men or women; the CDC dedicates an entire page to debunking those fears.
-<a href='https://www.theverge.com/2021/9/13/22672800/twitter-nicki-minaj-tweet-covid-vaccine-impotency-violate-rules'> Source <a/>

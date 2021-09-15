@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/l1H7uaRdEC0hfNTyTmdTPi4Ifow=/0x0:893x497/1200x800/filters:focal(376x178:518x320)/cdn.vox-cdn.com/uploads/chorus_image/image/69857320/Capto_Capture_2021_09_14_01_24_25_PM.0.jpg' width='700px' /><br/>
-The Apple Watch Series 7 looks a little different than its predecessors. The display now goes virtually to the edge of the case. That means while the watch isn't much bigger, everything on it should be more readable.
+The Apple Watch Series 7 looks a little different than its predecessors. The display now goes virtually to the edge of the case. That means while the Watch isn't much bigger, everything on it should be more readable.
 <a href='https://www.theverge.com/2021/9/14/22667395/apple-watch-series-7-price-specs-redesign-announcement'> Source <a/>

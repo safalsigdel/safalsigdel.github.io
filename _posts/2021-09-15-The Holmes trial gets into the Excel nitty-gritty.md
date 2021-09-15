@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uSAG00-cw_PigUPpmKDxcrYvkCo=/0x0:4000x2667/1200x675/filters:focal(1341x709:1981x1349)/cdn.vox-cdn.com/uploads/chorus_image/image/69859368/1235132476.0.jpg' width='700px' /><br/>
+It was around the time that the defense counsel referred to “deferred revenue” that I began to feel genuinely bad for the members of the jury in the wire fraud trial of Elizabeth Holmes.
+<a href='https://www.theverge.com/2021/9/14/22674657/elizabeth-holmes-theranos-trial-wire-fraud-financial-witness'> Source <a/>
