@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zw8jDncc7skZn8BlAEuLs5_c33s=/0x0:1780x999/1200x800/filters:focal(748x358:1032x642)/cdn.vox-cdn.com/uploads/chorus_image/image/69861351/lcimg_78e65da1_4e90_4b7e_a300_6bce2342e8ea.0.jpg' width='700px' /><br/>
+Apple's new iPhone 13 and 13 Mini mark the official end of the 64GB iPhone era: the company has effectively doubled the storage capacities for its 2021 models while keeping prices the same, so the new smartphones now start with 128GB of storage with options for 256GB and 512GB. (For those who require more space, the iPhone 13 Pro models offer up to 1TB.)
+<a href='https://www.theverge.com/22675300/apple-64gb-iphone-13-128gb-standard-storage-space-photos-videos-apps'> Source <a/>
