@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZsvtO9pQEmV7LxXnbBM2IeLKlLE=/0x0:1434x801/1200x800/filters:focal(603x287:831x515)/cdn.vox-cdn.com/uploads/chorus_image/image/69857580/cCGjh1M.0.png' width='700px' /><br/>
-Apple announced its new iPhone 13 Pro handset today during the company's California Streaming event. It's the first iPhone to ship with 1TB of storage as an option, allowing owners to store double the maximum capacity of 512GB on the regular iPhone 13.
-<a href='https://www.theverge.com/2021/9/14/22673600/iphone-13-1-tera-storage-memory-price-apple'> Source <a/>
