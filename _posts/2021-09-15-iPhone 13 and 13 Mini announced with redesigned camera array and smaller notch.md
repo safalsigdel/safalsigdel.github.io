@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q6eFZYyk-6yzR4abkbTI2zF_cTs=/0x0:1660x926/1200x0/filters:focal(0x0:1660x926):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22850282/Screen_Shot_2021_09_14_at_1.41.05_PM.png' width='700px' /><br/>
-Apple's iPhone 13 has officially arrived — the baseline, most mainstream model that will set the bar for Apple's 2021 phone lineup.
-<a href='https://www.theverge.com/2021/9/14/22666802/iphone-13-specs-price-release-date-apple-camera'> Source <a/>

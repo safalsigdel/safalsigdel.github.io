@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/71xcx-FjeVEa1mrkL4TCN0Hta4w=/0x0:1200x708/1200x800/filters:focal(504x258:696x450)/cdn.vox-cdn.com/uploads/chorus_image/image/69857061/f6b29587c2ae8bbc1d66b83d7d0378febd6f6582.0.png' width='700px' /><br/>
-Valve's foray into video game handhelds, the Steam Deck, has started shipping out to developers. The company opened up requests for early versions of the device on September 2nd to developers, and now it seems like those devices are heading out.
-<a href='https://www.theverge.com/2021/9/14/22673732/valve-steam-deck-dev-kits-shipping'> Source <a/>

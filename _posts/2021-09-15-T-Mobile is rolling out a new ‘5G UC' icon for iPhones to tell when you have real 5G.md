@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3jud-J7KesAM1IkVmLsUalrWMdM=/0x0:934x660/1200x800/filters:focal(393x256:541x404)/cdn.vox-cdn.com/uploads/chorus_image/image/69860860/Screen_Shot_2021_09_15_at_8.24.46_AM.0.png' width='700px' /><br/>
+5G branding is going to get even more confusing, soon: T-Mobile has announced that it'll be rolling out a new “5G UC” icon on the upcoming iPhone 13 lineup to let customers know when they're connected to T-Mobile's “5G Ultra Capacity” network, instead of the regular old 5G network.
+<a href='https://www.theverge.com/2021/9/15/22675255/tmobile-5g-uc-icon-iphone'> Source <a/>

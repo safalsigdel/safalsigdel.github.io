@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5PN2TRZqifBKtD0BTxt7NYmNPyc=/0x0:2514x1392/1200x800/filters:focal(1056x495:1458x897)/cdn.vox-cdn.com/uploads/chorus_image/image/69857548/Screen_Shot_2021_09_14_at_10.35.45_AM.0.png' width='700px' /><br/>
-Apple has announced a Group Workouts feature for Apple Fitness Plus. Fitness Plus will also be coming to 15 new countries, including Brazil, France, Mexico, and Russia, and workouts will be getting subtitles in six languages. There are new workouts, including guided meditation, Pilates, and programs to help you prepare for winter sports like skiing and snowboarding.
-<a href='https://www.theverge.com/2021/9/14/22673993/apple-fitness-plus-workouts-countries-languages-pilates-snow'> Source <a/>

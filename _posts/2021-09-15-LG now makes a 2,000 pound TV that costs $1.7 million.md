@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J1QB1YMNw3MB7GIPJDHgykYUhK0=/0x0:1076x716/1200x800/filters:focal(452x272:624x444)/cdn.vox-cdn.com/uploads/chorus_image/image/69860629/8K_UltraHDmain.0.jpg' width='700px' /><br/>
+LG has announced a new lineup of Direct View LED (DVLED) home cinema displays, which range in size from a huge 108-inch HD screen to an obscene 325-inch 8K panel that costs an eye-watering $1.7 million, according to CNET, and weighs in at over 2,000 pounds. The company has previously reserved these displays for commercial buyers, but now it'll sell them to anyone with pockets deep enough.
+<a href='https://www.theverge.com/2021/9/15/22675186/lg-direct-view-led-dvled-home-cinema-displays'> Source <a/>

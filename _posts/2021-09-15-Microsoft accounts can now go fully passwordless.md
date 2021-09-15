@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dR4XelWgk-7ZbXpjOOTe19HB0Js=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/69860892/microsoftauthenticator.0.jpg' width='700px' /><br/>
+Microsoft now lets you remove passwords from Microsoft accounts to embrace a passwordless future. Starting today, the software giant will let consumers sign into Microsoft accounts with its Microsoft Authenticator app, Windows Hello, a security key, or an SMS / email verification code instead of a password.
+<a href='https://www.theverge.com/2021/9/15/22675175/microsoft-account-passwordless-no-password-security-feature'> Source <a/>
