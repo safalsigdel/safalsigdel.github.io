@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C1ibnd4qS_Gmk2rc-LqTh2-ArqE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69862139/Screen_Shot_2021_09_13_at_8.45.12_AM.0.png' width='700px' /><br/>
-This past weekend marked the first Sunday of the 2021 NFL season, and while it was full of exciting highlights, one may have towered over them all: the Carolina Panthers' viral video of a giant virtual panther leaping around Bank of America Stadium.
-<a href='https://www.theverge.com/2021/9/15/22672199/carolina-panthers-mixed-augmented-reality-viral-virtual-mascot'> Source <a/>
