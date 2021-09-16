@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/spTEBfvu2MIpgZc3V4PIwQB7T8g=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69861464/vpavic_4279_20201107_0166.0.0.jpg' width='700px' /><br/>
-Yes, of course you want to back up your iPhone — as we all know, despite phone cases and Gorilla glass and careful engineering, disaster — in the form of cracked displays, lost devices, and three-year-olds who think it's fun to sit on your latest phone — can happen. When that happens, you want to have all your data backed up.
-<a href='https://www.theverge.com/22673693/iphone-apple-backup-ios-icloud'> Source <a/>
