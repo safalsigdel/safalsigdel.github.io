@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CGV7SmvAwNIBYulI9EvV8ik3fBM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69863242/acastro_170621_1777_0006_v4.0.jpg' width='700px' /><br/>
-A University of California San Diego student named Richard Yuan Li was indicted on August 26th for a SIM swapping scheme that involved stealing phone numbers and accounts and extorting at least 40 people for cryptocurrency and other payments, according to a new release the US Department of Justice shared on Monday.
-<a href='https://www.theverge.com/2021/9/15/22675709/sim-swapping-crypto-theft-iphone-8'> Source <a/>

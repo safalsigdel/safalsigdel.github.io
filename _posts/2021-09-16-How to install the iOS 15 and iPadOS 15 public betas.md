@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cNoAvhEhYwMzNrdCvDjbqTJvugo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69525172/cgartenberg_210629_4653_002.0.jpg' width='700px' /><br/>
-Apple's iOS 15 and iPadOS 15 are launching officially on September 20th, 2021, but you can test them in the public beta right now if you're willing to risk encountering possible bugs. Here, we walk you through the steps for installing the software. It's a similar process for the iPhone and iPad, but we've made separate sections for each OS.
-<a href='https://www.theverge.com/22557308/ios-ipados-15-public-beta-apple-install'> Source <a/>

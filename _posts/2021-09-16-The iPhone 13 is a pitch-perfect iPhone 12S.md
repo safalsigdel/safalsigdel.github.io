@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-dCEIzl4ZPojl_Ef66VnsO1kWFw=/0x0:1959x1306/1200x800/filters:focal(824x497:1136x809)/cdn.vox-cdn.com/uploads/chorus_image/image/69862805/iphone13mini.0.jpg' width='700px' /><br/>
-Apple had a lot of new features to announce with its iPhone 13 lineup this week. The iPhone 13, iPhone 13 Mini, iPhone 13 Pro, and iPhone 13 Pro Max have better battery life, faster A15 Bionic processors, smaller display notches, upgraded cameras, and, when it comes to the Pro models, high refresh rate 120Hz ProMotion displays.
-<a href='https://www.theverge.com/2021/9/15/22675797/iphone-13-12s-upgrade-cycle-iterative-improvements'> Source <a/>
