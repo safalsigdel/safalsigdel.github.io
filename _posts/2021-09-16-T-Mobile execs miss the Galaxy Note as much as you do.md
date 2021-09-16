@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dqjrxVrvds_8WkT_7DrVv8wLvhg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69864057/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
+In the shadow of the iPhone 13, and an aggressive new “Forever Upgrade” plan to sell them, T-Mobile executives are complaining about Samsung's phones, Fierce Wireless reports. Specifically, the lack of them.
+<a href='https://www.theverge.com/2021/9/15/22676054/t-mobile-cfo-peter-osvaldik-samsung-supply-no-note'> Source <a/>

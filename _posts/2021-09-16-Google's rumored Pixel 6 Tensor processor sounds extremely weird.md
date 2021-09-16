@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZS5OEwPMy5apGsFqmRIM353UaVU=/0x0:1612x982/1200x800/filters:focal(678x363:934x619)/cdn.vox-cdn.com/uploads/chorus_image/image/69863919/Screen_Shot_2021_08_04_at_2.33.39_PM.0.png' width='700px' /><br/>
+Google is set to debut its first in-house smartphone chipset, the Tensor SoC, in its upcoming Pixel 6 and Pixel 6 Pro phones. And if the latest report from XDA is correct, the Tensor's rumored CPU setup could be very, very weird — even by Google standards.
+<a href='https://www.theverge.com/2021/9/15/22676099/google-pixel-6-tensor-processor-rumor-arm-cortex-x1-core-mystery-strange'> Source <a/>

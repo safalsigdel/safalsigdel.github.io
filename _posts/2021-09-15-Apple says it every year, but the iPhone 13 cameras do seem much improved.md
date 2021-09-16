@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n-Q_V_Q3FRCeaTXWqx0529cU4YY=/0x0:2700x1800/1200x800/filters:focal(1134x684:1566x1116)/cdn.vox-cdn.com/uploads/chorus_image/image/69860645/i13p2.0.jpg' width='700px' /><br/>
-Cameras continue to be one of the biggest differentiators in smartphones, and Apple's iPhone lineup is no different. Apple says the iPhone 13 and 13 Mini have the company's “most advanced dual-camera system ever,” while the 13 Pro and Pro Max have “our three most powerful cameras ever.”
-<a href='https://www.theverge.com/2021/9/15/22675127/apple-iphone-13-pro-max-camera-analysis-specs'> Source <a/>

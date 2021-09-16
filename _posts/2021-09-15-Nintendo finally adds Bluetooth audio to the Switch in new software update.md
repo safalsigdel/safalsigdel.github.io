@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rU7SjgvMPCow_LPvvRHAVCiqQDs=/0x0:2040x1360/1200x800/filters:focal(851x624:1177x950)/cdn.vox-cdn.com/uploads/chorus_image/image/69859426/jbareham_180301_2346_nintendo_switch_0034_zelda.0.jpg' width='700px' /><br/>
-Nintendo has surprise-announced that Bluetooth audio support has come to the Switch through a software update. The ability to use Bluetooth headphones to listen to game audio has been a conspicuously missing feature since the console launched in 2017, so it's great to finally have it — though there are some limitations.
-<a href='https://www.theverge.com/2021/9/14/22674704/nintendo-switch-bluetooth-audio-software-update'> Source <a/>

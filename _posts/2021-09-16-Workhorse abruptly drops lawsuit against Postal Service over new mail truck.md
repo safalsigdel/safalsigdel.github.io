@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EWhHRGKlKTMgkmPEhKMJeOHKcUY=/0x0:2560x2560/1200x800/filters:focal(1076x1076:1484x1484)/cdn.vox-cdn.com/uploads/chorus_image/image/69862320/NGDVrearRight_scaled.0.jpg' width='700px' /><br/>
+EV startup Workhorse has abandoned its lawsuit protesting the United States Postal Service's decision to let Oshkosh Defense build the next-generation mail truck. The court accepted Workhorse's voluntary dismissal late Tuesday — just one day before the first oral arguments were scheduled to begin regarding the USPS's attempt to dismiss the case.
+<a href='https://www.theverge.com/2021/9/15/22675630/workhorse-usps-mail-truck-bid-protest-dropped-oshkosh'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-ZA4YDuwKhZx9JbYZvssOlqdEDw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69863371/jbareham_171031_2099_A_0227.0.jpg' width='700px' /><br/>
+Whether you're trading in your old iPhone for a discount on a new one, selling it, giving it away, or recycling it, you're going to want to erase all of your data first. Not only do you want to keep personal information from falling into the wrong hands, but let's face it: nobody's going to want a phone with your old selfies on it.
+<a href='https://www.theverge.com/22675669/iphone-ios-apple-wipe-delete-trade'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0XiZ7WJ6dcac83WSPIukkuPHais=/0x0:908x610/1200x800/filters:focal(382x233:526x377)/cdn.vox-cdn.com/uploads/chorus_image/image/69860403/image__3_.0.png' width='700px' /><br/>
-If I were an emoji sommelier, there's one pairing I'd definitely be recommending after looking at this year's 37-strong selection of finalized emoji. And that's a combination of the new “bubbles” emoji with the existing “peach.” The former emoji has just been finalized with version 14.0 of the Unicode Standard, but the collection has been public since earlier this year.
-<a href='https://www.theverge.com/2021/9/15/22675134/unicode-emoji-version-14-bubbles-saluting-face-biting-lip-2021'> Source <a/>

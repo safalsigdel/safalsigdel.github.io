@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KN0sex9b-c9BycJF3OMrsirq5YY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69858648/akrales_181019_3014_0770.0.jpg' width='700px' /><br/>
-As a slew of new iPhones come in, several models go out. This year, Apple pulled the plug on a couple of familiar standbys to make room for the iPhone 13, as MacRumors points out.
-<a href='https://www.theverge.com/2021/9/14/22674308/apple-iphone-xr-12-11-price-cut-discontinued'> Source <a/>

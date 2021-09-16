@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zDAl91vDOnCyZ9nqxr-OxdZVDHU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69864338/acastro_200403_3960_quibi_0003.0.0.jpg' width='700px' /><br/>
+Quibi's zombie may finally be able to rest its weary head. The company's successor has settled an ongoing feud with eternal thorn-in-its-side Eko.
+<a href='https://www.theverge.com/2021/9/15/22676460/quibi-eko-turnstyle-settlement'> Source <a/>

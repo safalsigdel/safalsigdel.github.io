@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4U9umuY-csdkeRs2616Py0AcCyM=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69862957/ahawkins_20210328_4600_0007.0.jpg' width='700px' /><br/>
+For certain parents, especially those in the US, the decision whether to take the kids to school on a bike or in a car often hinges on the weather. Sunshine and blue skies make it an easy choice to take the bike. But when the clouds roll in and there's a hint of rain in the air, the idea of arriving with two soggy kids on the rear rack often steers some parents reluctantly toward the car.
+<a href='https://www.theverge.com/22675834/tern-gsd-s10-lx-electric-cargo-bike-review-specs-price'> Source <a/>

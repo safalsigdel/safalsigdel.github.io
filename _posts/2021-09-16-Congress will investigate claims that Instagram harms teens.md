@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/chTRPjHVt5h_7hRe0MqzZ4xBIts=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69862447/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
+Two top lawmakers on the Senate Commerce Committee's panel over consumer protection said they were launching a probe into Facebook after The Wall Street Journal reported Tuesday that the company was aware of the harm Instagram can cause to teenage girls.
+<a href='https://www.theverge.com/2021/9/15/22675802/facebook-instagram-teens-harm-blumenthal-blackburn-markey-kids'> Source <a/>

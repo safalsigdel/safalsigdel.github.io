@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EmLh98e-nHp79_5AhGcyja5SikA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69861110/acastro_200302_3922_SuperTuesday_gavel.0.0.jpg' width='700px' /><br/>
-App Annie, a company that collects and sells information about the performance of mobile apps, has agreed to pay $10 million to settle a securities fraud investigation, the US Securities and Exchange Commission (SEC) said in a statement.
-<a href='https://www.theverge.com/2021/9/15/22675264/app-annie-settlement-fraud-investigation-sec-data-apps-alternative'> Source <a/>

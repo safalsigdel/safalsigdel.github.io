@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bp190fXfI4IhOQocYqcZGAx8uH8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69863339/DSCF3875_2.0.jpg' width='700px' /><br/>
+The refreshed Apple TV 4K hit shelves in April, but the anticipated tvOS 15 update that introduces exciting updates to the Apple TV experience was previously only available in beta. That will change next week: Apple has confirmed tvOS 15 will become widely available to everyone on September 20th.
+<a href='https://www.theverge.com/2021/9/15/22672587/apple-tv-tvos-15-features-release-date'> Source <a/>

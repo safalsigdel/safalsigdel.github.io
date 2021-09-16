@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s1fM2tVuq1n5TbJ_IJIGPqcDpaQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69860491/acastro_190919_1777_instagram_0003.0.0.jpg' width='700px' /><br/>
-How bad is Instagram for the mental health of its younger users? It's a hugely important question, especially with Facebook planning to launch a version of the app for children.
-<a href='https://www.theverge.com/2021/9/15/22675130/facebook-instagram-teens-mental-health-damage-internal-research'> Source <a/>

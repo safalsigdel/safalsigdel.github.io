@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CCfHhrWGoa3slXnZnbuW2G_P5mQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69860885/DSCF7769.0.jpg' width='700px' /><br/>
-Xiaomi has announced its first tablet in a few years, the Xiaomi Pad 5. (The last one was 2018's 8-inch Mi Pad 4; Xiaomi recently phased out its Mi product branding.) It's launching in the company's European markets.
-<a href='https://www.theverge.com/2021/9/15/22675188/xiaomi-pad-5-announced-price-specs-features'> Source <a/>

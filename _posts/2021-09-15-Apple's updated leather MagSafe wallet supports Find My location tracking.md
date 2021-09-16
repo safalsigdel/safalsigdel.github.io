@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fFsyd1QNbkRRlmfcPb92gAxgWOA=/0x0:1468x1044/1200x800/filters:focal(560x405:794x639)/cdn.vox-cdn.com/uploads/chorus_image/image/69858740/Screen_Shot_2021_09_14_at_1.46.39_PM.0.png' width='700px' /><br/>
-Apple introduced an updated version of its MagSafe leather wallet today with new colors and support for an additional feature: tracking in the Find My app. Apple's location tracking service recently expanded with the addition of AirTags, and now the company is apparently working some version of the same functionality into its more low-tech accessories.
-<a href='https://www.theverge.com/2021/9/14/22674261/apple-iphone-leather-wallet-magsafe-find-my-tracking'> Source <a/>

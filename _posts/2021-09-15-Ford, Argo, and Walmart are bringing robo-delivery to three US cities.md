@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/a_yJoxj27l3KZs-bH2xy4cfsrMc=/0x0:4002x2578/1200x800/filters:focal(1681x969:2321x1609)/cdn.vox-cdn.com/uploads/chorus_image/image/69860584/Argo_Walmart_exterior_1.0.jpg' width='700px' /><br/>
-Ford and Walmart are teaming to launch a robo-delivery service in three US cities, using autonomous test vehicles equipped with sensors and software developed by Argo AI. Customers who live in Miami, Austin, and Washington, DC, who order items from Walmart online and live within a specific geographic area may be eligible to have their items delivered by a Ford / Argo vehicle.
-<a href='https://www.theverge.com/2021/9/15/22674330/ford-walmart-argo-autonomous-delivery-miami-austin-dc'> Source <a/>
