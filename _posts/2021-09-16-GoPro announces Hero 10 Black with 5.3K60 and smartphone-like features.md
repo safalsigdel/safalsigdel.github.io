@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oeVRQj9i3cebVbhcMdDIDqu0mGk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69866248/bfarsace_210909_4746_0005.0.jpg' width='700px' /><br/>
+GoPro has announced the next version of its action camera, which has a new processor that lets the camera shoot in higher frame rates (for that cool slow-motion footage), have better stabilization, and automatically upload videos to the cloud while charging. The new processor also works to make using the GoPro Hero 10 Black a faster, more responsive experience.
+<a href='https://www.theverge.com/2021/9/16/22675730/gopro-hero-10-black-announcement-gp2-high-frame-rate-auto-upload'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X8DpVBQjxNziIgmgI0UT0JbjTgY=/0x0:1440x813/1200x800/filters:focal(605x292:835x522)/cdn.vox-cdn.com/uploads/chorus_image/image/66793959/joy_con_01.5.jpeg' width='700px' /><br/>
-The Nintendo Switch was, like most consoles during the pandemic, once in short supply. Thankfully, retailers like Best Buy, Amazon, and Walmart now routinely stock the Nintendo Switch and Switch Lite in multiple color configurations and models, giving those who struck out ample opportunity to purchase Nintendo's versatile console.
-<a href='https://www.theverge.com/21257643/nintendo-switch-lite-how-to-buy-in-stock'> Source <a/>
