@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Urg5OEkf2ahzP6GjtvqLafnT18Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69867702/vpavic_4278_20201030_0247.0.jpg' width='700px' /><br/>
+Sony's new, lighter PS5 model with a smaller heatsink has been put through extensive testing by Gamers Nexus and Digital Foundry, and ultimately, it doesn't seem that there are significant enough differences between the two models to seek one over the other.
+<a href='https://www.theverge.com/2021/9/16/22677593/ps5-playstation-5-smaller-heatsink-testing-gamers-nexus-digital-foundry'> Source <a/>

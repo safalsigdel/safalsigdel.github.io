@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z49Cyiul-JM_CRgBFju2REoXRWY=/0x0:4000x2667/1200x675/filters:focal(1855x768:2495x1408)/cdn.vox-cdn.com/uploads/chorus_image/image/69865024/1235132528.0.jpg' width='700px' /><br/>
-Erika Cheung, who took the stand yesterday for her direct testimony, which continued today, is known for being one of John Carreyrou's sources for his blockbuster article about Theranos. You know, the article that's part of the reason we are now witnessing US v. Elizabeth Holmes. (Holmes is on trial for several counts of wire fraud and conspiracy to commit wire fraud.)
-<a href='https://www.theverge.com/2021/9/15/22676789/elizabeth-holmes-theranos-wire-fraud-erika-cheung-whistleblower'> Source <a/>

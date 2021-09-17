@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZacMm5ZeOVIJvxizDjgeZaFFi_E=/0x0:1780x999/1200x800/filters:focal(748x358:1032x642)/cdn.vox-cdn.com/uploads/chorus_image/image/69864484/caZMw9TLgc.0.jpg' width='700px' /><br/>
-For the past ten years, Tim Cook's greatest accomplishment as Apple CEO has been vastly more of the same. More iPhones, more iPhone accessories, more apps, and so much more money. While the Mac and iPad have occasionally fallen into disrepair, the company keeps coming back with new reasons to buy its greatest hits every year — and this year's iPhone 13 event is a near-perfect case study in how far refinement can take you.
-<a href='https://www.theverge.com/2021/9/15/22676532/apple-event-iphone-13-incremental-refinement-upgrade-specs'> Source <a/>

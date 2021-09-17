@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LEYcCC7sZ1-CYYSX56gqXw1UA_E=/0x0:1731x1154/1200x800/filters:focal(728x439:1004x715)/cdn.vox-cdn.com/uploads/chorus_image/image/69864571/ProArt_Studiobook_16___Pro_16_OLED_H5600_W5600_Unbeatable_combination_of_CPU___GPU_power.0.jpg' width='700px' /><br/>
-Samsung Display is following through on its promise to ramp up OLED production. The company has begun mass-producing laptop-sized 90Hz OLED panels, which will appear in multiple upcoming 14-inch laptops from Asus.
-<a href='https://www.theverge.com/2021/9/15/22676223/samsung-display-90hz-oled-laptop-screens-lenovo-asus'> Source <a/>

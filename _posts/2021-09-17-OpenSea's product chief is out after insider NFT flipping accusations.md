@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7nyhoQTthWHjY32o_nxz5JHZUiM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69868095/acastro_210329_1777_nft_0005.0.jpg' width='700px' /><br/>
+OpenSea head of product Nate Chastain, who was recently accused of a form of NFT insider trading, appears to no longer be working for the company. His Twitter bio now includes the phrase “Past: @opensea.” OpenSea has not publicly named the employee involved in the incident, but CEO Devin Finzer says the NFT trading platform asked for and received their resignation.
+<a href='https://www.theverge.com/2021/9/16/22677793/opensea-product-chief-resign-nft-insider-trading-accusations'> Source <a/>

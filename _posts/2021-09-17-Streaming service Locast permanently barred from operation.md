@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Uqcyjpyn7joQwCgYbavmX_yaGl0=/0x0:1231x862/1200x800/filters:focal(518x333:714x529)/cdn.vox-cdn.com/uploads/chorus_image/image/69869434/Locast_nyc.0.png' width='700px' /><br/>
+Things looked bad for Locast before, and they just got even worse. A judge this week permanently prohibited streamer Locast from continuing operations of its business, a decision that follows a yearslong legal standoff between major broadcasters and the scrappy streaming provider.
+<a href='https://www.theverge.com/2021/9/16/22678462/locast-streaming-service-barred-abc-cbs-fox-nbc'> Source <a/>

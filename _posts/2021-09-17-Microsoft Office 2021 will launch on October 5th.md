@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rMvlyJ0GOsrvg3NfaQ9dLodsAcE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69867304/office_icons_HD_00005.0.png' width='700px' /><br/>
+Microsoft is launching its next perpetual version of Microsoft Office for commercial customers today, and promising an Office 2021 consumer release on October 5th. Microsoft Office Long Term Servicing Channel (LTSC) for Windows and Mac will be available for commercial and government users today, providing a locked-in time release of Office that doesn't require a subscription.
+<a href='https://www.theverge.com/2021/9/16/22677113/microsoft-office-2021-launch-date-office-ltsc'> Source <a/>

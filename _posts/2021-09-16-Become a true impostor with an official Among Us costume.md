@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Halloween is just around the corner, and if you still need a costume (smh if you haven't gotten one yet, Halloween is 46 days away, what are you doing?) might I recommend the new official Among Us crewmate costumes?
-<a href='https://www.theverge.com/tldr/2021/9/15/22676173/among-us-official-costume-impostor-crewmate'> Source <a/>

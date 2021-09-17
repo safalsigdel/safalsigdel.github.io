@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XOFLmBB3-5iS0pE1krB96s1ar6Y=/0x0:2880x1596/1200x800/filters:focal(1210x568:1670x1028)/cdn.vox-cdn.com/uploads/chorus_image/image/69864615/Screen_Shot_2021_09_15_at_1.34.12_PM.0.png' width='700px' /><br/>
-For many who follow tech news closely, Apple's event on Tuesday had a few big surprises — not because there were completely unexpected announcements, but because we didn't see things we really thought we'd be getting. Rumors that had enough smoke to be almost a sure-fire thing in previous years ended up falling flat.
-<a href='https://www.theverge.com/2021/9/15/22676131/apple-2021-rumor-mill-wrong-watch-leaks-airpods'> Source <a/>

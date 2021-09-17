@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Oc02ThGwKu5u9dCpFPOm4VEs3lQ=/0x0:2040x1360/1200x800/filters:focal(853x749:1179x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/69863359/jbareham_1492_170228_0126.0.0.jpg' width='700px' /><br/>
-Did the Nintendo Switch's surprise Bluetooth audio update yesterday make your handheld worse instead of better? That's what happened to me: instead of inviting me to the magical world of wireless audio, it repeatedly failed to detect my headsets and connect to them reliably.
-<a href='https://www.theverge.com/2021/9/15/22675831/nintendo-switch-bluetooth-issue-problem-fix-wake-sleep'> Source <a/>

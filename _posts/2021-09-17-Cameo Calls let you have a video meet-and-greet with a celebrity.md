@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IVLyjRPCVMq3r-bsck2xcEG7e84=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69869707/Screen_Shot_2021_09_16_at_3.29.19_PM.0.png' width='700px' /><br/>
+Cameo is adding a new live calls feature into its app. Cameo is perhaps most well-known for letting you pay for pre-recorded video messages from celebrities, but the new feature, called Cameo Calls, will let you have short video conversations that are designed to be like meet-and-greets. (The app even sets up a photo op at the end of the call.)
+<a href='https://www.theverge.com/2021/9/16/22678456/cameo-calls-live-app-chat-celebrities-meet-and-greet'> Source <a/>

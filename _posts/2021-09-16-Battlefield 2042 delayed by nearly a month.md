@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/67Qh1RVvxK_obuPxkMGQmyEf1Jk=/0x0:1117x818/1200x800/filters:focal(380x246:612x478)/cdn.vox-cdn.com/uploads/chorus_image/image/69864005/bf_2042_screenshot_the_world.jpg.adapt.crop16x9.818p.0.jpg' width='700px' /><br/>
-Battlefield 2042, Dice's upcoming entry in the Battlefield series, has been delayed by nearly a month, Dice parent company EA announced Wednesday. The game's release date has been pushed from October 22nd to November 19th.
-<a href='https://www.theverge.com/2021/9/15/22676330/battlefield-2042-release-date-delay'> Source <a/>
