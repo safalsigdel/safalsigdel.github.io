@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lyobiL0VEEWr1mQiFFPuUc31wOI=/0x0:3840x2560/1200x800/filters:focal(1613x973:2227x1587)/cdn.vox-cdn.com/uploads/chorus_image/image/69865540/E_Vsa4mVEAEul1L.0.jpg' width='700px' /><br/>
-WhatsApp is piloting a new business directory in Sxc3xa3o Paulo, Brazil that lets users find local shops and services with a presence on the app, the service's head Will Cathcart has announced. Screenshots show how WhatsApp will show businesses sorted by categories like “grocery store” and “restaurant,” before letting users chat directly with them. Reuters reports that the test will include thousands of businesses in the city.
-<a href='https://www.theverge.com/2021/9/16/22677065/whatsapp-business-directory-brazil-sao-paulo-e-commerce'> Source <a/>
