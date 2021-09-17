@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9674/bfarsace_210909_4746_0008.jpg' width='700px' /><br/>
-Last year GoPro did a complete overhaul of its Hero action camera lineup with the GoPro Hero9. It added a front-facing screen, 5K filming, and more battery life. This year's GoPro Hero10 is an iterative update that builds on the foundation laid by the 9. But while the $500 Hero10 looks almost identical to the Hero9, there is one big change that sets the stage for much bigger things to come.
-<a href='https://www.theverge.com/22675560/gopro-hero10-action-camera-review'> Source <a/>
