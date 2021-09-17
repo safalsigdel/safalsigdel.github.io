@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2S6dvhV8QECs_c-Y3kEgHbzADVw=/0x0:959x540/1200x800/filters:focal(404x194:556x346)/cdn.vox-cdn.com/uploads/chorus_image/image/69872504/valorant.0.png' width='700px' /><br/>
+Riot Games is perhaps best known for developing League of Legends, but in recent years, it's added games like auto battler Teamfight Tactics and the hit shooter Valorant to its roster of titles. To make it easier to open all of Riot's games on your PC, the company is releasing the Riot Client, a unified launcher that starts rolling out later this month.
+<a href='https://www.theverge.com/2021/9/17/22679479/riot-games-new-client-pc-launcher-library'> Source <a/>
