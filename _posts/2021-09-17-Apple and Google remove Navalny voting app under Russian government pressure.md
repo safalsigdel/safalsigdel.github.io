@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Le18EI7k2lqi2NMygDoDLjjWY28=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/69872174/1235291316.0.jpg' width='700px' /><br/>
+Apple and Google have removed jailed Russian opposition leader Alexei Navalny's voting app from the iOS and Android stores under pressure from the government. The New York Times reports that the removal followed threats to criminally prosecute company employees within Russia.
+<a href='https://www.theverge.com/2021/9/17/22679425/apple-google-remove-navalny-smart-voting-app-russian-election'> Source <a/>
