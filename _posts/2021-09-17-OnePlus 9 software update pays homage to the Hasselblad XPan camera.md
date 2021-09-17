@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Pubpm3BSNP7SJK49leQeyCwD_Ww=/0x0:4096x1517/1200x800/filters:focal(1745x396:2399x1050)/cdn.vox-cdn.com/uploads/chorus_image/image/69871194/OnePlus9__XPan_BW_02_Horizontal.0.png' width='700px' /><br/>
+OnePlus is finally putting its camera partnership with Hasselblad to good use — by bringing the look and feel of Hasselblad's cinematic XPan camera to the OnePlus 9 and 9 Pro, via a software update.
+<a href='https://www.theverge.com/2021/9/17/22676350/oneplus-9-camera-update-hasselblad-xpan-film-camera'> Source <a/>
