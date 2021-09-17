@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HSopvaniGwH5GQANIQsGr_nq3zU=/0x0:5449x3633/1200x800/filters:focal(2290x1382:3160x2252)/cdn.vox-cdn.com/uploads/chorus_image/image/69866116/1231386762.0.jpg' width='700px' /><br/>
-Lucid Motors' Air Dream Edition has received an Environmental Protection Agency-rated range of 520 miles, making it the longest-range EV ever rated by the agency.
-<a href='https://www.theverge.com/2021/9/16/22675936/lucid-motors-air-range-epa-rating-tesla'> Source <a/>
