@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N4bQZP4A0SA8ayJ5K6vgwt-TDq4=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/69874027/clubhousenewlogo.0.jpg' width='700px' /><br/>
+Clubhouse appears to be working on a new way to invite people to audio rooms in its app, based on screenshots shared by researcher Jane Manchum Wong. The invite feature, called “Waves,” is focused on the more casual, social side of Clubhouse, rather than the creator-focused live shows that have had the company's attention.
+<a href='https://www.theverge.com/2021/9/17/22679897/clubhouse-waves-invites-audio-rooms'> Source <a/>

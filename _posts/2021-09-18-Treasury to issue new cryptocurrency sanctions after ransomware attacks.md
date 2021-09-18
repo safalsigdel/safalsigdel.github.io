@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/64F07G0-izrTFHT4bBehPNlpHbk=/0x0:1100x729/1200x800/filters:focal(462x277:638x453)/cdn.vox-cdn.com/uploads/chorus_image/image/69873609/hacker-stock1_2040.0.jpg' width='700px' /><br/>
+The Biden administration is preparing to issue a series of actions, including sanctions, to make it more difficult for hackers to profit off of ransomware attacks through the use of digital currency, as first reported by the Wall Street Journal on Friday.
+<a href='https://www.theverge.com/2021/9/17/22679952/ransomware-cryptocurrency-sanctions-treasury-biden'> Source <a/>

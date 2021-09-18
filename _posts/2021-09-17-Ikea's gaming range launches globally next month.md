@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z_RArSR9J9wgT3GrukuVW9ryEJE=/0x0:4773x3183/1200x800/filters:focal(2006x1211:2768x1973)/cdn.vox-cdn.com/uploads/chorus_image/image/69870949/PH180876.0.jpg' width='700px' /><br/>
-Ikea's lineup of gaming-themed furniture and accessories now has official pricing and a global release date: October. The lineup first came to China earlier this year as a collaboration with Asus and its Republic of Gamers (ROG) brand.
-<a href='https://www.theverge.com/2021/9/17/22679118/ikeas-gaming-range-october-release-date-chairs-furniture-desks'> Source <a/>

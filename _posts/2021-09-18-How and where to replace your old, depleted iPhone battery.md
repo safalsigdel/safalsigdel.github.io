@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G1DKCT0Um9V-ve857NRHfxQs3P0=/0x0:620x465/1200x800/filters:focal(261x184:359x282)/cdn.vox-cdn.com/uploads/chorus_image/image/69873727/F8M9LXDIM0THNI6.MEDIUM.0.jpg' width='700px' /><br/>
+Your iPhone's aging lithium-ion batteries will eventually start to lose their ability to retain a charge — and that can be highly frustrating, especially if you're out and about all day. If that is happening to you, there are several solutions: you can switch over to the latest iPhone, start carrying a battery charger around with you, or — simply replace the battery.
+<a href='https://www.theverge.com/22679492/iphone-apple-battery-replace-ifixit'> Source <a/>

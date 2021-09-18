@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NOMY7vtRggsy2vh3WGgousVz22k=/0x0:6240x4160/1200x800/filters:focal(2621x1581:3619x2579)/cdn.vox-cdn.com/uploads/chorus_image/image/69872985/1331332668.0.jpg' width='700px' /><br/>
+Starting next month, Apple will “infrequently” test employees who come into its offices and stores for COVID-19, if they're vaccinated. Unvaccinated employees will have to get frequent testing. Apple CEO Tim Cook and senior vice president of retail and people Deirdre O'Brien announced the new policy during an all-hands meeting today, according to an audio recording obtained by The Verge.
+<a href='https://www.theverge.com/2021/9/17/22679772/apple-vaccine-policy-covid-19-testing-unvaccinated'> Source <a/>

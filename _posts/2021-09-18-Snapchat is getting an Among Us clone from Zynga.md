@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b7QsVAzm0qs0gcn_SYLev1glQJk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69873025/revamp_1920x1080.0.jpg' width='700px' /><br/>
+Zynga is bringing a social deception game called ReVamp to Snapchat's games platform “soon,” the developer announced on Friday. ReVamp, clearly inspired by the popularity of games like Among Us, is a real-time multiplayer game where players try to find the vampire among... them.
+<a href='https://www.theverge.com/2021/9/17/22679557/snapchat-games-revamp-zynga-among-us-clone'> Source <a/>

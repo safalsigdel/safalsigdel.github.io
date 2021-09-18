@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zdYp_Dl0LMM6lgzLvQYJQEtYC38=/0x0:1038x576/1200x800/filters:focal(436x205:602x371)/cdn.vox-cdn.com/uploads/chorus_image/image/69867524/sc6709.0.jpg' width='700px' /><br/>
-The next chapter of Deltarune is coming and I am beyond excited. In a surprise announcement, Toby Fox, creator of the Undertale series, revealed Deltarune Chapter 2 will be released on Mac and PC on September 17th.
-<a href='https://www.theverge.com/2021/9/16/22677626/toby-fox-undertale-sequel-deltarune-chapter-2-release-date-mac-pc'> Source <a/>

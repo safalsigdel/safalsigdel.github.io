@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ayxT9rW9WXykHUH9BXGhROo-kWE=/0x0:5472x3648/1200x800/filters:focal(1350x1410:2224x2284)/cdn.vox-cdn.com/uploads/chorus_image/image/69869167/1334909491.0.jpg' width='700px' /><br/>
-T-Mobile announced that 500 of its retail stores would start offering repair services starting on November 1st. The company says technicians will provide same-day fixes using manufacturer-approved parts to customers who subscribe to its Protection<360> service, which also includes device replacement in case of loss or theft.
-<a href='https://www.theverge.com/2021/9/16/22677969/t-mobile-retail-store-repair-protection-program-increased-claims'> Source <a/>

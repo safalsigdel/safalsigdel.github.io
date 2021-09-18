@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NcpvjO9YRyJMTwRa5U_ToS7cXuo=/0x0:1440x961/1200x800/filters:focal(605x366:835x596)/cdn.vox-cdn.com/uploads/chorus_image/image/69870884/New_UI_Design_2.0.png' width='700px' /><br/>
-Oppo has announced ColorOS 12, the latest version of its Android-based operating system. The update will come to OnePlus phones as well as Oppo's own phones in China, where OnePlus has used ColorOS since early this year. OnePlus recently announced that it would be combining the codebase of its OxygenOS with ColorOS due to the two companies merging several operations.
-<a href='https://www.theverge.com/2021/9/17/22679087/oppo-oneplus-coloros-12-update-announced-release-date'> Source <a/>

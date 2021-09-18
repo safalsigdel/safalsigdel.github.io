@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KhZwfv-DW8uv92jT-nvq2Xa2Y2U=/0x0:1780x999/1200x800/filters:focal(748x358:1032x642)/cdn.vox-cdn.com/uploads/chorus_image/image/69874380/lcimg_29dd1c6f_2141_4080_b52a_db12ce0673ef.0.jpg' width='700px' /><br/>
+With the announcement and impending release of the new iPad Mini and its revamped design, it might be all too easy to stan the new model and completely write off its predecessor. While the new model has a lot to offer — namely a larger screen, faster processor, refined design akin to the 2020 iPad Air, and a USB-C port — it also has a quality that is not so desirable: a higher introductory price.
+<a href='https://www.theverge.com/22677944/apple-ipad-mini-2019-vs-2021-comparison-upgrade-worthwhile'> Source <a/>

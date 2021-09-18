@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SM_0pKE4P_uMvYn1zi76sj_ea3E=/0x0:2604x1398/1200x800/filters:focal(1094x491:1510x907)/cdn.vox-cdn.com/uploads/chorus_image/image/69874082/Screen_Shot_2020_10_15_at_2.09.43_PM.0.png' width='700px' /><br/>
+With new iPhones come new features. And starting next week, Apple HomeKit users will get plenty courtesy of iOS 15, HomePod 15, tvOS 15, and watchOS 8 software updates. Apple has confirmed that these will all be available on the same day, September 20th.
+<a href='https://www.theverge.com/2021/9/17/22679870/new-apple-homekit-features-homepod-mini'> Source <a/>

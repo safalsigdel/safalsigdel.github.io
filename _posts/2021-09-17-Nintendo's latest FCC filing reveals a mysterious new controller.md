@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YxFAMG-Pi3Kitv5xxIoYO9vzuSk=/0x0:4400x2800/1200x800/filters:focal(1848x1048:2552x1752)/cdn.vox-cdn.com/uploads/chorus_image/image/69868087/NintendoSwitch_hardware_Joy-Con_02.0.0.jpg' width='700px' /><br/>
-Nintendo may have a new wireless controller in the works based on this FCC listing the company filed Thursday (via Vooks). The new device has received the model number HAC-043, which, if it matters, is one model number higher than Nintendo's wireless SNES controller from 2019.
-<a href='https://www.theverge.com/2021/9/16/22677624/nintendo-new-controller-fcc-wireless'> Source <a/>
