@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XdL1MhJsTCZUBKF4dmTUJn291F8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69871892/akrales_190913_3628_0277.0.jpg' width='700px' /><br/>
-Your iPhone uses information from your cell service, Wi-Fi, Bluetooth, and GPS to pinpoint its location, and since you almost always have your phone on you, your location as well. That information can be useful for a lot of things, such as letting others know where you are or finding your phone when it's lost. Other times, it's just more data that services and companies collect about you, creating privacy concerns.
-<a href='https://www.theverge.com/22676312/ios-iphone-apple-location-tracking-turn-off-on'> Source <a/>
