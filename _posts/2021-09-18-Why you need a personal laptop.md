@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-5-dfFU0XPQC0D3v3_GzkE0pTVM=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/69875907/akrales_210824_4723_0158.0.jpg' width='700px' /><br/>
+It's a decision that may seem like a no-brainer. You've got a new job, and they've just given you a brand-new ThinkPad. Perfect, you think to yourself. It's about time I got rid of that 10-year-old MacBook Air.
+<a href='https://www.theverge.com/22671697/personal-laptop-work-security-privacy'> Source <a/>
