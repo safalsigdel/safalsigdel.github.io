@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ak3hQsbVg89rSLl62rZ0cONW-RU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69877123/npatel_20210512_4552_0005.0.jpg' width='700px' /><br/>
+SpaceX CEO Elon Musk tweeted Friday that the company's Starlink satellite internet network would come out of its open beta phase next month. That's two months later than the August date Musk gave at Mobile World Congress, when he also said he expected the service to have “possibly over 500,000 users within 12 months.”
+<a href='https://www.theverge.com/2021/9/18/22681185/spacex-ceo-elon-musk-starlink-internet-service-leaving-beta-october'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3mK3toepJd-lVAcN9BQnRhjZE44=/0x0:1534x862/1200x800/filters:focal(645x309:889x553)/cdn.vox-cdn.com/uploads/chorus_image/image/69872343/iW5zNz7dVo.0.png' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where co-hosts Nilay Patel and Dieter Bohn discuss the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/2021/9/17/22679389/iphone-13-apple-event-vergecast-podcast-467'> Source <a/>

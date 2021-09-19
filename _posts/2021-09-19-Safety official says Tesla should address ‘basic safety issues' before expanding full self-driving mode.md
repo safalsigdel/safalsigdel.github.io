@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ID9So1q_-zspxF0ZDOyw5mqaxiY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69879165/acastro_180430_1777_tesla_0004.0.jpg' width='700px' /><br/>
+Jennifer Homendy, chair of the National Transportation Safety Board, told the Wall Street Journal that Tesla should address “basic safety issues” before the carmaker expands its so-called “full self-driving” (FSD) mode.
+<a href='https://www.theverge.com/2021/9/19/22682272/ntsb-official-tesla-safety-elon-musk-full-self-driving'> Source <a/>

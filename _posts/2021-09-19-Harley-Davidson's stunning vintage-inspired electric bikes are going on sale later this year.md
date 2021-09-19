@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JqKtUqs7Qacw8uIvouxNBYb6l8A=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/69876883/S1_Tribute_Front_Right.0.jpg' width='700px' /><br/>
+Nearly a year after announcing plans to spin out its own electric bike company called Serial 1, Harley-Davidson said it will sell a “limited” number of the gorgeous, vintage-inspired models that it originally said was just a “styling exercise.”
+<a href='https://www.theverge.com/2021/9/18/22679256/harley-davidson-serial-1-ebike-s1-mosh-tribute-exclusive'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V6PrdY6jPbSHtCmdtllJAzX3nvg=/0x0:5000x3335/1200x800/filters:focal(2100x1268:2900x2068)/cdn.vox-cdn.com/uploads/chorus_image/image/69878968/1232774217.0.jpg' width='700px' /><br/>
+The Chinese version of the popular short video app TikTok, known as Douyin, will limit users in China who are under 14 years old to 40 minutes a day, parent company ByteDance said in a blog post Saturday.
+<a href='https://www.theverge.com/2021/9/19/22682219/tiktok-parent-bytedance-limits-kids-douyin-app-china'> Source <a/>

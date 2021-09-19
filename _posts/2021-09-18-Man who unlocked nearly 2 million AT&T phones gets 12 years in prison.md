@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dYoVwZvh3u8GzEhZpU95oMG_C7Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69872393/acastro_170629_1777_0008.0.jpg' width='700px' /><br/>
-A man who the Department of Justice says unlocked AT&T customers' phones for a fee was sentenced to 12 years in prison, in what the judge called “a terrible cybercrime over an extended period,” which allegedly continued even after authorities were on to the scheme.
-<a href='https://www.theverge.com/2021/9/17/22679359/man-unlocked-att-phones-sentenced-prison-fraud'> Source <a/>
