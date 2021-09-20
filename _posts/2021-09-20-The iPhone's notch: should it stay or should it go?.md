@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LzknGbRRK4FObDM6mVA3ujoY1qk=/0x0:1960x1102/1200x480/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/69873053/Apple_iphone13_display_09142021.0.jpg' width='700px' /><br/>
-Apple's iPhone 13 lineup comes with the biggest change Apple has made to the front of its iPhones since it first introduced Face ID with the iPhone X: that controversial notch has finally been shrunken down a bit. Apple says the new notch is about 20 percent smaller than the old one, although eagle-eyed observers have noticed it comes with the tradeoff of being a hair taller, too.
-<a href='https://www.theverge.com/2021/9/17/22678603/iphone-13-notch-2021-face-id-touch-id'> Source <a/>
