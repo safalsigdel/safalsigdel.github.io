@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zZ6Nxb8UUWOYzPGIAx9VJOruS9E=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/69882273/Hisense_No_Regrets_1.0.jpg' width='700px' /><br/>
+Buying a TV can be a big decision, but Hisense's latest promotion wants to help; starting today the company is offering what it calls its “100 Day Guarantee,” which will let you buy a Hisense TV, try it out for 100 days in the comfort of your own living room, and then, if you don't like it, you can send it back for a full refund.
+<a href='https://www.theverge.com/2021/9/20/22675894/hisense-100-day-no-regrets-guarantee-promotion-tv-8k-laser'> Source <a/>
