@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V1a0XhfveeohmVKn7dNrN_MBgvs=/0x0:4000x2666/1200x800/filters:focal(2247x276:2887x916)/cdn.vox-cdn.com/uploads/chorus_image/image/69873005/1233030828.0.jpg' width='700px' /><br/>
-Apple CEO Tim Cook told employees that he was “looking forward to moving forward” after a verdict in the Epic v. Apple antitrust case. In an all-hands meeting with employees, Cook echoed the line Apple has taken publicly on the case, celebrating the company's legal wins and downplaying its loss on an unfair competition claim.
-<a href='https://www.theverge.com/2021/9/17/22679724/tim-cook-epic-apple-antitrust-ruling-employee-meeting'> Source <a/>
