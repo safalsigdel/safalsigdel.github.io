@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yW_SteeRXXTd1TqkZpg3KD7pOxo=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22858219/feed_FB_1920x1080.png' width='700px' /><br/>
+Epic Games is partnering with fashion house Balenciaga to bring the first-ever high-fashion Fortnite skins into the game. But the two companies aren't just working on virtual clothes. They're also partnering on an in-game Balenciaga-themed hub and a real-world clothing line that you'll be able to buy.
+<a href='https://www.theverge.com/2021/9/20/22679754/fortnite-balenciaga-collaboration-epic-games-unreal-engine'> Source <a/>

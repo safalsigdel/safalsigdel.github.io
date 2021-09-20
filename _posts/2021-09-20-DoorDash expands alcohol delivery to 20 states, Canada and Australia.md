@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XUk0dfX9RJdE-_Wz-FwZEIP4XaA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69882359/acastro_190724_1777_doordash_0001.0.0.jpg' width='700px' /><br/>
+Food delivery platform DoorDash said Monday it's expanding its alcohol delivery service to 20 new states and the District of Columbia, Canada, and Australia, which it says will reach 100 million adults worldwide. Before the pandemic the company was only delivering in California and started expanding within the last six months.
+<a href='https://www.theverge.com/2021/9/20/22682828/doordash-alcohol-delivery-states-canada-australia'> Source <a/>

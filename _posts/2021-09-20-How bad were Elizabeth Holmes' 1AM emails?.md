@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Fx_kpiQzawdKumKxPAkoaqNu56c=/0x0:4977x3347/1200x675/filters:focal(2091x1276:2887x2072)/cdn.vox-cdn.com/uploads/chorus_image/image/69874797/1340933219.0.jpg' width='700px' /><br/>
-Today, we had the first direct link between the problems in Theranos' labs and Elizabeth Holmes. Former manager of assay systems Surekha Gangakhedkar's job was preparing blood tests for use in patients. The system was unreliable; describing herself as “stressed and unhappy and concerned with the way the launch was going,” Gangakhedkar quit.
-<a href='https://www.theverge.com/2021/9/17/22680372/elizabeth-holmes-wire-fraud-emails-gangakhedkar'> Source <a/>

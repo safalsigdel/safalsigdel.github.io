@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ePlhAIz3-m_kDtL4xg6nIFLD-LY=/0x0:2048x1229/1200x800/filters:focal(861x452:1187x778)/cdn.vox-cdn.com/uploads/chorus_image/image/69874502/Launch_Key_Art_v2.11_logo.0.jpg' width='700px' /><br/>
-Pokxc3xa9mon Go developer Niantic is shutting down its augmented reality game Catan: World Explorers, the company announced on Friday (via Protocol). An AR adaptation of the popular board game Catan announced in 2019, World Explorers was the company's latest attempt to recreate the magic of Pokxc3xa9mon Go, but soon it's all coming to an end.
-<a href='https://www.theverge.com/2021/9/17/22680166/niantic-catan-world-explorers-shutdown-early-access'> Source <a/>
