@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BSapb_Tv9vZPrXwiGLZebdFMAro=/0x0:2880x1604/1200x800/filters:focal(1210x572:1670x1032)/cdn.vox-cdn.com/uploads/chorus_image/image/69873251/Screen_Shot_2021_09_17_at_10.36.28_AM.0.png' width='700px' /><br/>
-Apple released a seven-and-a-half-minute video to act as a guided tour of the iPhone 13 and 13 Pro's features, and to make the differences in the lineup clearer. In the clip, Apple also goes through some of the phone's new video and camera features like cinematic mode, photographic styles, and macro photography, and emphasizes the phones' increased battery life.
-<a href='https://www.theverge.com/2021/9/17/22679747/apple-iphone-13-pro-mini-max-video-feature-tour'> Source <a/>
