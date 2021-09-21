@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/33ggbKSnUBhj6tSO8t8hP6WoVzo=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/69888569/1234862597.0.jpg' width='700px' /><br/>
+The Treasury Department issued its first sanctions against a cryptocurrency exchange on Tuesday as part of a series of actions targeting the use of digital currencies in ransomware attacks.
+<a href='https://www.theverge.com/2021/9/21/22685930/treasury-sanctions-cryptocurrency-exchange-ransomware-colonial-pipeline'> Source <a/>
