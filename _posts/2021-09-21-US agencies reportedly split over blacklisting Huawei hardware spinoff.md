@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tr6rnON3mbbN-48N0l-vgzkz_ZI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69883798/acastro_190521_1777_huawei_0004.0.0.jpg' width='700px' /><br/>
+Federal agencies like the Pentagon and Commerce Departments can't decide whether to place Huawei's former smartphone company, Honor, on the US's export blacklist, according to a Washington Post report on Sunday.
+<a href='https://www.theverge.com/2021/9/20/22684274/huawei-honor-blacklist-entity-list-commerce-pentagon-energy-state'> Source <a/>

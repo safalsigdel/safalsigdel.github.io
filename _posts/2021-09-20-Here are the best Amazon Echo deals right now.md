@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Pal6s3jZWS6zDspnJrEEJ_I6LcA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67781486/dseifert_191123_3810_0012.0.jpg' width='700px' /><br/>
-When it comes to smart speakers, Amazon has a slew of voice-enabled Echo devices to choose from, one for practically every occasion. Maybe you want to add Alexa to a room, for example, or you're looking for an Echo device that will allow you to easily manage your lightning or other smart home products. Regardless of the reason, these are the best Echo deals available right now.
-<a href='https://www.theverge.com/21546591/best-amazon-echo-deals'> Source <a/>

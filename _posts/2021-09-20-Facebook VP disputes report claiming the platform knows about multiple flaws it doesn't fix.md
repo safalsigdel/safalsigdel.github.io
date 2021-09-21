@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i8Knbac0SnwIFFb38yR41LfLlpo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69876763/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-Facebook's vice president of global affairs criticized a series of stories by the Wall Street Journal that reported the social network is aware of numerous problems across its platforms that cause harm to users, but does little to fix them.
-<a href='https://www.theverge.com/2021/9/18/22681056/facebook-vp-disputes-report-wall-street-journal-instagram-teens-clegg'> Source <a/>

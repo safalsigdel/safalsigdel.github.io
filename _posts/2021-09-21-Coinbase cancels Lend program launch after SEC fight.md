@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PDQRt78dh0CB92wUIZVh8jnHXaI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69884298/acastro_170726_1777_0008.0.jpg' width='700px' /><br/>
+Crypto exchange Coinbase has discontinued its plans to launch a Lend feature designed to let customers earn interest on certain coins as reported by Bloomberg. The company announced the change by updating a blog post from late June, saying that it would also be discontinuing the waitlist that it had set up for the feature.
+<a href='https://www.theverge.com/2021/9/20/22684169/coinbase-crypto-lend-feature-discontinued-sec-lawsuit-threats'> Source <a/>

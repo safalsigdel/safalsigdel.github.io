@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KCHsIpDniJ8YxVMtmUGgBRSVgqw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69884485/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
+Senate Democrats are calling on the Federal Trade Commission to write new rules to protect consumer data privacy in a new letter to the agency authored on Monday.
+<a href='https://www.theverge.com/2021/9/20/22684394/ftc-data-privacy-facial-recognition-blumenthal-warren-khan'> Source <a/>

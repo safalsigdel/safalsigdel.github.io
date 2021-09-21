@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Llua37qZXvBGAkccLHuzyDuVGs0=/0x0:1278x719/1200x800/filters:focal(537x258:741x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69884609/microsoft_surface_event_invite.0.png' width='700px' /><br/>
+September 22nd officially marks the first day of fall, and with it gadget season. Like in previous years, Microsoft is getting into the mix with its forthcoming Surface event, where we anticipate the company will announce a slew of products during its livestream presentation on Wednesday at 11AM ET / 8AM PT.
+<a href='https://www.theverge.com/22683714/microsoft-surface-event-announcements-news-products'> Source <a/>

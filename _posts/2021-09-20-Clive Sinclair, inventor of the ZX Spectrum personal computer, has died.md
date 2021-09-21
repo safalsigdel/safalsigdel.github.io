@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NmWOHZSSbXAlJOQmRgJE8mylUoc=/0x0:5520x3699/1200x800/filters:focal(1073x1676:1955x2558)/cdn.vox-cdn.com/uploads/chorus_image/image/69876644/1199206223.0.jpg' width='700px' /><br/>
-Clive Sinclair, who invented the Sinclair ZX Spectrum, an early personal computer, died of cancer Thursday at age 81, his family confirmed. Sinclair was an inventor with an impressive list of electronic products to his name, some, like his pocket calculator, were quite successful, while others, like his Sinclair C5 “electric trike” vehicle, were decidedly not.
-<a href='https://www.theverge.com/2021/9/18/22680955/clive-sinclair-home-computers-electric-vehicle-calculator'> Source <a/>

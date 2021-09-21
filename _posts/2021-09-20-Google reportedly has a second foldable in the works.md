@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ngdktrq9suvGhEzyN_jRk3LtCEI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69881710/dseifert_4711_samsung_z_flip_3_3.0.jpg' width='700px' /><br/>
-Google appears to be internally testing a second foldable Pixel smartphone, according to 9to5Google's sources. The device is said to be under development with the codename “Jumbojack,” that's referenced in a future version of Android 12 which 9to5Google identifies as “Android 12.1.” This is the latest foldable codename we've heard about at Google, following reports of another device called “Passport.”
-<a href='https://www.theverge.com/2021/9/20/22683566/google-jumbojack-foldable-passport-android-12-1-code-discovery'> Source <a/>

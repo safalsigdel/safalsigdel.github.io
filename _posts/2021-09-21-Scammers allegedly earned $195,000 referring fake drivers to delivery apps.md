@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mWNahMNXbAz5ynvusmbx9RMtaT4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69883816/uber-stock-0865.0.0.jpg' width='700px' /><br/>
+The Justice Department has charged over a dozen people with running a scam on ride hailing and delivery apps. Prosecutors say the alleged scam ring created fake accounts using stolen personal information, then sold those accounts to otherwise unqualified drivers — while also collecting referral bonuses and building software to trick the apps.
+<a href='https://www.theverge.com/2021/9/20/22683912/brazilian-nationals-charged-delivery-ride-hailing-apps-fake-accounts-wire-fraud'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cl-Mzu-sisNEfZMwpxulacCbj3k=/0x0:952x634/1200x800/filters:focal(400x241:552x393)/cdn.vox-cdn.com/uploads/chorus_image/image/69879037/surfacepro8.0.jpg' width='700px' /><br/>
-Microsoft is preparing to launch a new Surface Pro 8 model next week, and a leak appears to have revealed exactly what to expect. Twitter account Shadow_Leak has published a photo of the Surface Pro 8 from what appears to be a retail listing. The account claims the Surface Pro 8 will ship with a new 13-inch 120Hz display with narrow bezels and two Thunderbolt ports.
-<a href='https://www.theverge.com/2021/9/19/22682271/surface-pro-8-120hz-display-thunderbolt-support-leak-rumors'> Source <a/>

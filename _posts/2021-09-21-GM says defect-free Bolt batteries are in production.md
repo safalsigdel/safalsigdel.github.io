@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C0GqDL3oiia6PseSrcpSOEj4ccY=/0x0:5700x3800/1200x800/filters:focal(2394x1444:3306x2356)/cdn.vox-cdn.com/uploads/chorus_image/image/69884254/2022_Chevrolet_BoltEV_008.0.jpg' width='700px' /><br/>
+General Motors said Monday that it will start swapping new batteries into Chevy Bolt EVs in October in response to at least a dozen fires that triggered a massive recall. GM did not say when it will restart production of brand new versions of the electric car.
+<a href='https://www.theverge.com/2021/9/20/22684424/gm-bolt-lg-battery-defect-fix-recall-timeline'> Source <a/>
