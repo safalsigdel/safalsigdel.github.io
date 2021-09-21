@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v646C47YvE77vuwAzVWmuLGf4dA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69881906/vpavic_4176_20200905_0061.0.jpg' width='700px' /><br/>
-Microsoft is expected to announce its new Surface Duo 2 handset at a special Surface hardware event on Wednesday September 22nd. While rumors have so far pointed towards a triple-camera system, the device appears to have passed through FCC certification with 5G, NFC, and wireless charging support.
-<a href='https://www.theverge.com/2021/9/20/22683595/microsoft-surface-duo-2-fcc-5g-nfc-wireless-charging-support-features'> Source <a/>
