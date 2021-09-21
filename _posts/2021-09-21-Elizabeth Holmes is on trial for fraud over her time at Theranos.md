@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KFObyYJP6rv0gl8dRcI9O5N5zQM=/0x0:3000x2315/1200x800/filters:focal(830x260:1310x740)/cdn.vox-cdn.com/uploads/chorus_image/image/69884167/495430212.0.jpg' width='700px' /><br/>
-Elizabeth Holmes, the founder and CEO of disgraced blood testing company Theranos, is being tried for 12 charges of wire fraud and conspiracy to commit wire fraud. The trial is expected to last through December.
-<a href='https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos'> Source <a/>
