@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ssyPyohWg1Ff9AmOaeMEbUoZJTM=/0x0:6240x4160/1200x800/filters:focal(2621x1581:3619x2579)/cdn.vox-cdn.com/uploads/chorus_image/image/69882757/1296121438.0.jpg' width='700px' /><br/>
-With the iOS 15 launch today, some iPhone users will have the option to share data from their Health app directly with their doctors through their electronic medical records. Six health record companies are participating in the initial launch, and some of those companies say that doctors and medical practices on their systems are eager to start using the feature.
-<a href='https://www.theverge.com/2021/9/20/22672388/health-app-apple-data-records-allscripts-cerner'> Source <a/>

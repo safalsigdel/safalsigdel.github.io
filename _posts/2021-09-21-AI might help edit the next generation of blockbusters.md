@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/apEUU56qYroxhOgBhQoiDDnzHYo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69887850/VRG_ILLO_2727_002.0.jpg' width='700px' /><br/>
+The next few Tuesdays, The Verge's flagship podcast The Vergecast is showcasing a miniseries dedicated to the use of artificial intelligence in industries that are often overlooked, hosted by Verge senior reporter Ashley Carman. This week, the series focuses on AI for the video world.
+<a href='https://www.theverge.com/2021/9/21/22671542/vergecast-ai-series-video-production-adobe-flawless'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V9NvOsou01hiLSv8eR0dqaNEXsc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69883127/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
-Twitter said Monday it is proposing an $809.5 million settlement for a 2016 securities class action lawsuit that alleged the company misled investors about its user engagement figures. The complaint alleged violations of the Securities Exchange Act of 1934, according to a news release. Twitter said it expects to use cash on hand to pay the settlement amount likely in its fourth quarter.
-<a href='https://www.theverge.com/2021/9/20/22683828/twitter-809-million-settlement-securities-monthly-users-investors-engagement'> Source <a/>

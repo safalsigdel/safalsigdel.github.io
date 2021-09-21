@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lDVLVGd5ynYMK5QfRdp2OxA6Mkw=/0x0:1960x1568/1200x800/filters:focal(824x628:1136x940)/cdn.vox-cdn.com/uploads/chorus_image/image/69883868/Apple_iPhone_13_Pro_Colors_09142021.0.jpg' width='700px' /><br/>
-The iPhone 13 isn't even here yet, but speculation about Apple's future phones never slows down. While some rumors about Apple's event last week didn't pan out, certain leaks were right on, including analyst Ming-Chi Kuo's information about a smaller notch and high refresh rate screens.
-<a href='https://www.theverge.com/2021/9/20/22683948/iphone-14-rumor-foldable-fingerprint-48mp-punch-hole'> Source <a/>

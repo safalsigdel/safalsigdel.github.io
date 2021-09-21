@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jDqpJw1y67myG8RkX_MuEsjE_g4=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69883982/dseifert_201025_4263_0001.0.0.jpg' width='700px' /><br/>
-Amazon has officially announced the date for its big fall hardware event: it'll take place on Tuesday, September 28th at 12PM ET / 9AM PT. As always, Amazon isn't giving any details on what to expect — the invite sent to The Verge only says that they'll be “news about our latest Amazon devices, features, and services.”
-<a href='https://www.theverge.com/2021/9/20/22684357/amazon-fall-event-devices-services-features-september-28th-echo-alexa'> Source <a/>

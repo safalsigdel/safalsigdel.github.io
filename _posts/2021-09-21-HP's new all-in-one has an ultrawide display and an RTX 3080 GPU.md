@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rncdua-zHjmkKIo9iP2Yvg1dV2w=/0x0:3234x2156/1200x800/filters:focal(1359x820:1875x1336)/cdn.vox-cdn.com/uploads/chorus_image/image/69887419/HP_ENVY_34_AiO_1.0.png' width='700px' /><br/>
+HP's new Envy 34-inch All-In-One Desktop PC is a self-contained Windows 11 machine that's available with comparable specs to a standalone gaming PC. It has a large 34-inch ultrawide IPS display (5120 x 2160), which can be powered by Nvidia's RTX 3080 GPU and Intel's 11th Gen Core i9 processor.
+<a href='https://www.theverge.com/2021/9/21/22685583/hp-envy-34-inch-all-in-one-desktop-pc-price-release-date-rtx-3080-intel-core-i9'> Source <a/>
