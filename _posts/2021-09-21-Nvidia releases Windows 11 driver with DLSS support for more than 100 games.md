@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GjE-wiO4irRLZLm1pUxAlo3Og3k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69882237/DSC00697.0.jpg' width='700px' /><br/>
-Nvidia is releasing a new display driver today that adds DLSS (Deep Learning Super Sampling) support to 28 games, and is now certified for both Windows 10 and Windows 11. The 28 additional DLSS games brings the total of games to more than 100, an important milestone for Nvidia's AI-based temporal upscaling. DLSS upscale games from a lower resolution to provide smoother frame rates without a noticeable compromise in image quality.
-<a href='https://www.theverge.com/2021/9/20/22683585/nvidia-windows-11-driver-dlss-support-games-features-alan-wake'> Source <a/>

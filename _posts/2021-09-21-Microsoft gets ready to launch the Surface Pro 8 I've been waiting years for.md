@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fRM1qoAr7SRr8cM-KSZHeL0AirQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69887255/vpavic_191104_3776_0013.0.jpg' width='700px' /><br/>
+Microsoft is planning to launch its latest Surface Pro 8 tablet tomorrow. Sources familiar with Microsoft's plans tell The Verge that the new Surface Pro 8 will ship with the biggest hardware design and specification changes since the Surface Pro 3 launch more than seven years ago. The Surface Pro 8 looks like the Surface Pro redesign I've long waited for.
+<a href='https://www.theverge.com/2021/9/21/22685535/microsoft-surface-pro-8-design-specs-features-rumors'> Source <a/>
