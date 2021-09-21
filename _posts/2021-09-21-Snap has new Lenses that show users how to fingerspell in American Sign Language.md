@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2Fw7fp_lvlGA_ud4Q6xh2X9smsA=/0x0:400x400/1200x0/filters:focal(0x0:400x400):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22865092/sign_sticker.png' width='700px' /><br/>
+To mark the International Week of the Deaf, Snapchat has created custom stickers and three AR Lenses to encourage users to fingerspell, the company said Tuesday.
+<a href='https://www.theverge.com/2021/9/21/22684485/snap-lenses-fingerspell-american-sign-language-deaf'> Source <a/>
