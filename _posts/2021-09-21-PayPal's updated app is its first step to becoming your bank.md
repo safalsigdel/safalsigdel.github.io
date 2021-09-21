@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tA76OaZ6NzXtS6gSsOfzvyKajEs=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69887354/Dashboard1.0.jpg' width='700px' /><br/>
+PayPal is updating its mobile app with a new visual design, support for a high-yield savings account, and a way to find coupons in-app. In the past, the company prioritized sending and receiving money and cryptocurrencies, but its new app is trying to be a little bit of everything to everyone, and it's available today.
+<a href='https://www.theverge.com/2021/9/21/22684659/paypal-new-app-savings-account-coupons'> Source <a/>

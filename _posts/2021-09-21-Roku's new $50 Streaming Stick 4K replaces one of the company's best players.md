@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k8UgsicVUOM83htqnmny-UqZoKw=/0x0:1500x1100/1200x800/filters:focal(630x430:870x670)/cdn.vox-cdn.com/uploads/chorus_image/image/69882227/Roku_Streaming_Stick_4K.0.jpg' width='700px' /><br/>
-Roku today announced the Streaming Stick 4K, the company's latest streaming device. Priced at $49.99, the new product replaces the popular Streaming Stick Plus, which has long been a go-to recommendation as one of the best streamers for under $100.
-<a href='https://www.theverge.com/2021/9/20/22679935/roku-streaming-stick-4k-plus-price-specs'> Source <a/>

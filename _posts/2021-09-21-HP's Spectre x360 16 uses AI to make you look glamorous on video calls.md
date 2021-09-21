@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8yFszAVEsDs61d2y4x9jF1FRgoo=/562x111:1795x873/1200x800/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/69887373/1.0.jpg' width='700px' /><br/>
+HP makes some of the most gorgeous laptops you can buy, and its Spectre line is the most beautiful of them all. But the new Spectre x360 16, a 16-inch 2-in-1 touchscreen laptop, will flip that dynamic around. Not only is this laptop beautiful — this laptop wants to make you beautiful.
+<a href='https://www.theverge.com/2021/9/21/22684957/hp-spectre-x360-16-webcam-ai-convertible-laptop'> Source <a/>
