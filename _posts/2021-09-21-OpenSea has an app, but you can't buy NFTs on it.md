@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZW5JQ1Go5kgY3sVoEt5rx4VfaVg=/0x0:1125x750/1200x800/filters:focal(473x285:653x465)/cdn.vox-cdn.com/uploads/chorus_image/image/69884719/new_ios_app.0.png' width='700px' /><br/>
-OpenSea, one of the most popular NFT marketplaces, has launched its first app for iOS and Android. The app allows OpenSea users to view the platform's collection of digital items, but notably doesn't allow for any kind of money to change hands, digital or otherwise (via TechCrunch).
-<a href='https://www.theverge.com/2021/9/20/22684372/opensea-app-nft-ios-android-apple-google'> Source <a/>
