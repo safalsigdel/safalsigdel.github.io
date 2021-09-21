@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v8QFsybYhLuK7Q7uSkeF6b37Pl8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69889128/Roblox_Age_Verification.0.jpg' width='700px' /><br/>
+Roblox is rolling out an age verification feature that will allow players to confirm their age and gain access to features reserved for older players. Age verification will be optional, and Roblox tells The Verge it will “not retain any data” from the verification process, which requires showing a form of ID.
+<a href='https://www.theverge.com/2021/9/21/22684672/roblox-age-verification-optional'> Source <a/>

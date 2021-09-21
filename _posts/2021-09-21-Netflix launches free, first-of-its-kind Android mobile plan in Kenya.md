@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yT0w3URjVCAujfbpTVJ3qevkqws=/0x21:422x345/1200x800/filters:focal(180x144:246x210)/cdn.vox-cdn.com/uploads/chorus_image/image/69887038/NFLX_FREEPLANLAUNCH_UI_3_c__1_.0.jpg' width='700px' /><br/>
-Netflix is launching a new free Android mobile plan in Kenya that will allow users to watch a limited selection of its catalog, including full seasons of select shows.
-<a href='https://www.theverge.com/2021/9/21/22685091/netflix-free-android-plan-kenya'> Source <a/>
