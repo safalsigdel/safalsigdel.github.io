@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dVfQt_xG3BhrN_YIKquKKUxHDfY=/0x0:1180x678/1200x800/filters:focal(68x275:256x463)/cdn.vox-cdn.com/uploads/chorus_image/image/69893347/Screen_Shot_2021_09_22_at_11.31.28_AM.0.png' width='700px' /><br/>
+Google will start giving users more information about who's running the ads they see. The company's “About this ad” menu will show basic information about advertisers, as well as any other ads they've run in the past 30 days. The goal is to help users better judge whether a given ad buyer is trustworthy, following criticism about scams on the platform.
+<a href='https://www.theverge.com/2021/9/22/22687777/google-ads-transparency-disclosure-verification-update'> Source <a/>
