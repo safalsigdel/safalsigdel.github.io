@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n9fpF9eh3OR4rih_MUz66Lb0kqE=/0x0:2000x1189/1200x800/filters:focal(840x435:1160x755)/cdn.vox-cdn.com/uploads/chorus_image/image/69893213/Ocean_Plastic_Mouse___Hero2000.0.jpg' width='700px' /><br/>
+Over the years, we've seen many remarkable mice from Microsoft, but the one it's announcing today focuses on recycling and sustainability instead of innovative scroll wheel controls or high-precision DPI. The Ocean Plastic Mouse is notable because it has a shell made of 20 percent recycled ocean plastic and packaging that is 100 percent recyclable.
+<a href='https://www.theverge.com/2021/9/22/22684591/microsoft-ocean-plastic-mouse-recycled-sustainability'> Source <a/>
