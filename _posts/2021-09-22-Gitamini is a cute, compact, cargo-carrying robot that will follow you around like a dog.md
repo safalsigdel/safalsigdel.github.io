@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dFATySiXJiCdU4RXXgX9aRxg8Ns=/0x0:6582x4388/1200x0/filters:focal(0x0:6582x4388):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22867230/459_GitaStudio_Lifestyles_31_edit.jpg' width='700px' /><br/>
+Piaggio Fast Forward, a subsidiary of storied Italian automotive firm Piaggio, has launched its second robot, a compact version of its cargo-carrying bot Gita named Gitamini.
+<a href='https://www.theverge.com/2021/9/22/22685649/gita-gitamini-cargo-carrying-robot-piaggio'> Source <a/>
