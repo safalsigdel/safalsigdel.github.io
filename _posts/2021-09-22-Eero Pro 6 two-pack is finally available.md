@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qflp-0OG7JGTRi5X7vq0IDnN-R0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69888216/dseifert_201213_4337_0003.0.jpg' width='700px' /><br/>
-As of this week, you can finally pick up a two-pack of Eero Pro 6 mesh Wi-Fi 6 routers for under $400. The move by the Amazon-owned company gives you more price-palatable choices for upgrading your existing Wi-Fi router to a faster, more powerful option.
-<a href='https://www.theverge.com/2021/9/21/22684784/eero-6-pro-two-pack-mesh-wifi-deal-price'> Source <a/>
