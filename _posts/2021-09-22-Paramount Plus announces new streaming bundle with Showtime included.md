@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/64liJPUuanYjfHGe18S8RXw7PWM=/0x0:1024x640/1200x800/filters:focal(431x239:593x401)/cdn.vox-cdn.com/uploads/chorus_image/image/69890217/ParamountPlus_Showtime_Hero_1024x640.0.jpg' width='700px' /><br/>
-Paramount Plus announced today that it's launching a new streaming bundle for both its ad-supported and premium tiers that include Showtime.
-<a href='https://www.theverge.com/2021/9/21/22686594/paramount-plus-showtime-bundle'> Source <a/>
