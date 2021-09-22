@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2W9ehQ2Dp4EEccvztyZ6hILPy9E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69890177/cgartenberg_210917_4762_0001.0.jpg' width='700px' /><br/>
-iOS 15 is finally here, and while it can't be called a revolutionary update, there are enough cool new features that you may not want to wait until Apple notifies you that the update is ready. It's easy enough to get the update without waiting, though. Here's what you do.
-<a href='https://www.theverge.com/22686505/ios-15-apple-iphone-how-to-install-download'> Source <a/>

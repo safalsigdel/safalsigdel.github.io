@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Budm_qYju09xjnLb4npVZgV5opM=/0x0:1531x861/1200x800/filters:focal(644x309:888x553)/cdn.vox-cdn.com/uploads/chorus_image/image/69893265/lcimg_9d52bc5f_f647_4fc1_98c7_6b25e0f43196.0.jpg' width='700px' /><br/>
+Microsoft is creating a Surface Adaptive Kit for people with disabilities. The kit makes Microsoft's range of laptops and tablets more accessible with keycap labels, bump labels, port indicators, and device openers.
+<a href='https://www.theverge.com/2021/9/22/22686149/microsoft-surface-adaptive-kit-laptop-accessibility'> Source <a/>
