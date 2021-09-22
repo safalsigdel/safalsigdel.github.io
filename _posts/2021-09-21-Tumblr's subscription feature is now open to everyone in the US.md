@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yeQVQF_uNKnh4PvgI2MMMG0NUfg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69887950/Gaming_01.0.png' width='700px' /><br/>
-Tumblr is expanding the beta for its Post Plus subscription feature to all users in the US today. Post Plus, similar to Twitter's Super Follows, allows creators to designate some of their posts as only for paying subscribers. Tumblr is planning a full launch of the feature later in the fall.
-<a href='https://www.theverge.com/2021/9/21/22684089/tumblr-post-plus-subscription-monetization-beta'> Source <a/>

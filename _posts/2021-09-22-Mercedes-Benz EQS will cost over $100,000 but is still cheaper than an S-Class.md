@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MfHOlg47fqyAFjdfMxpnEbAQ_Bc=/0x0:5472x3078/1200x800/filters:focal(2299x1102:3173x1976)/cdn.vox-cdn.com/uploads/chorus_image/image/69889349/The_All_New_EQS.0.jpg' width='700px' /><br/>
+Mercedes-Benz just announced the pricing of its all-electric luxury sedan, the EQS, and not surprisingly, it starts north of $100,000. What is surprising, though, is that the starting price is cheaper than a gas-powered S-Class.
+<a href='https://www.theverge.com/2021/9/21/22686248/mercedes-benz-eqs-electric-vehicle-price-cheaper-s-class'> Source <a/>

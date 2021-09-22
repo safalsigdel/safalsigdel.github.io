@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RmbfeODtrokVMoFdlHUmgXuxV4Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69890138/acastro_210115_1777_twitch_0003.0.jpg' width='700px' /><br/>
+Twitch is attempting to mend fences with a big pillar of the music industry by announcing an agreement to “work together” with the National Music Publishers' Association (NMPA). Details are vague right now, but the agreement says they plan to “build productive partnerships between the service and music publishers” after a year of conflict over music rights.
+<a href='https://www.theverge.com/2021/9/21/22686404/twitch-national-music-publishers-association-nmpa-agreement-music'> Source <a/>

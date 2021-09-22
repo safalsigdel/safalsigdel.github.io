@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i7gBMHbrOBarQmWGkDMJvpFEzxA=/0x0:2040x1530/1200x675/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/69887588/jpeters_210912_4757_0002.0.jpg' width='700px' /><br/>
-Fitbit's newest fitness tracker, the Charge 5, might be the biggest change to the Charge line yet. It has a color screen, the first for a Charge, and you can opt to keep the screen on all the time. It has a new rounded design that's thinner than the Charge 4. New sensors measure how your body responds to stress. But all that change also comes at a higher $179.95 price, a $30 increase from the Charge 4.
-<a href='https://www.theverge.com/22680300/fitbit-charge-5-review-fitness-tracker'> Source <a/>

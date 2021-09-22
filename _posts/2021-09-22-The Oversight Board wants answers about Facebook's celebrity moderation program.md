@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QRgZjjsjlg4aLfV-umXrbM8h5CI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69890689/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+The Oversight Board, a semi-independent body that reviews Facebook's moderation policies, announced on Tuesday that it wants more information about the “cross-check” system Facebook uses to “review content decisions relating to some high-profile users.” Cross-check is getting called into question because of a report from The Wall Street Journal that claimed the system lets high-profile users break the rules.
+<a href='https://www.theverge.com/2021/9/21/22686364/facebook-oversight-board-xcheck-moderation-exemption'> Source <a/>

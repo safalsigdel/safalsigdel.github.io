@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-HPzSc8PzVwKH0kc8TbMqeb7VYg=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/69890666/Wyze_Cam_Pan_v2_4.0.png' width='700px' /><br/>
+Ubiquitous budget smart home company Wyze has released yet another new product — the Wyze Cam Pan v2. As the name implies, this is the second generation of one of Wyze's earliest products — the Wyze Cam Pan that debuted three years ago. This new model is available now, costs $39.99 (plus $9.99 shipping), and adds color night vision, improved motion-tracking, and a siren to the mix.
+<a href='https://www.theverge.com/2021/9/21/22686582/new-wyze-pan-cam-v2-specs-release-date-price-shipping'> Source <a/>

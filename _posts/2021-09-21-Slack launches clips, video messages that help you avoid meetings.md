@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VKYAWBh3FKiXqApKJqKaJOH-5fk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69887365/acastro_190412_1777_slack_0001.0.jpg' width='700px' /><br/>
-Slack is launching its new clips feature today, allowing coworkers to record video messages that exist in Slack channels. Clips supports audio from a microphone, alongside video and screen recordings. They're designed to help teams communicate across various time zones, and cut down on the amount of meetings that are now taking place in a hybrid work era.
-<a href='https://www.theverge.com/2021/9/21/22685576/slack-clips-video-messages-feature'> Source <a/>

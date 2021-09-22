@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7CX_mFArLHBb5KYaEez5r9BcNmI=/0x0:3104x1974/1200x800/filters:focal(1304x739:1800x1235)/cdn.vox-cdn.com/uploads/chorus_image/image/69889702/Screen_Shot_2021_09_21_at_10.13.17_AM.0.png' width='700px' /><br/>
+Apple has released a redesigned version of Safari for macOS Big Sur and Catalina. The update, announced as part of the upcoming macOS Monterey, was released the same day as iOS and iPadOS 15, bringing the web browser's new look and features across Apple's platforms.
+<a href='https://www.theverge.com/2021/9/21/22686070/apple-macos-safari-tab-groups-redesign-change-back'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aK0z71Q2OEdHcTJrhl-UxdY0SIE=/0x0:3008x1602/1200x800/filters:focal(1105x536:1585x1016)/cdn.vox-cdn.com/uploads/chorus_image/image/69887573/Kindle_Paperwhite__Lifestyle_1.0.jpg' width='700px' /><br/>
-Amazon is refreshing the Kindle Paperwhite for the first time in nearly three years with an updated model, adding a bigger 6.8-inch E-Ink display that's brighter and has adjustable color temperature, USB-C charging, a faster processor, and weeks more in battery life.
-<a href='https://www.theverge.com/2021/9/21/22684801/amazon-kindle-paperwhite-features-price-release-date'> Source <a/>
