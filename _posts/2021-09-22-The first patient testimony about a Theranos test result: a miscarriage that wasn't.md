@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tsd0nejXmnNsFvxzwq7QLMdE36U=/0x0:4502x3056/1200x675/filters:focal(1707x601:2427x1321)/cdn.vox-cdn.com/uploads/chorus_image/image/69891174/1340934529.0.jpg' width='700px' /><br/>
-Brittany Gould, wearing a black mask with a clear window through which you could see her mouth, got choked up as she told the court about her experience with Theranos in 2014. She'd used the company's tests because they were cheap — her language was “cost-effective” — and the results told her, wrongly, that she was miscarrying. It would have been her fourth miscarriage in a row.
-<a href='https://www.theverge.com/2021/9/21/22687026/theranos-patient-bad-test-miscarriage-pregnancy'> Source <a/>
