@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xZSxqLJ6qFeQo91o8UnL3xqB9Is=/0x0:2048x1365/1200x675/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/69892236/VRG_ILLO_4756_Student_Professor_Folders_Lede.0.jpg' width='700px' /><br/>
+Catherine Garland, an astrophysicist, started seeing the problem in 2017. She was teaching an engineering course, and her students were using simulation software to model turbines for jet engines. She'd laid out the assignment clearly, but student after student was calling her over for help. They were all getting the same error message: The program couldn't find their files.
+<a href='https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z'> Source <a/>
