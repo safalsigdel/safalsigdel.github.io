@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CZ9gIHWp98gfEsnJo2LAggB6zk0=/0x0:1531x861/1200x800/filters:focal(644x309:888x553)/cdn.vox-cdn.com/uploads/chorus_image/image/69893189/lcimg_35ec18bd_ab58_4746_9cca_f52dce1b0d7e.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/LChVwhoCh2jr7bFLaorsSjgMnU0=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/69893189/Surface_Go_3___Creating_under_embargo_until_September_22.5.jpg' width='700px' /><br/>
 Microsoft's Surface Go 2 is one of the best cheap laptops you can buy, and it's gotten a sequel today: the new Surface Go 3.
 <a href='https://www.theverge.com/2021/9/22/22684608/microsoft-surface-go-3-processor-specs-price-features'> Source <a/>
