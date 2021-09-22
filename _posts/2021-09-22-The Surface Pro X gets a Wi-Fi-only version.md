@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E-5fIPoM86fBM-jWCEghCBwRMJ4=/0x0:8000x4500/1200x800/filters:focal(3761x988:5041x2268)/cdn.vox-cdn.com/uploads/chorus_image/image/69893477/Surface_Pro_X___Modes_under_embargo_until_September_22.0.jpg' width='700px' /><br/>
+The Microsoft Surface Pro X now comes in a Wi-Fi-only version. Microsoft is offering a version of its ARM-based Surface device that does away with cellular connectivity.
+<a href='https://www.theverge.com/2021/9/22/22679573/microsoft-surface-pro-x-display-specs-price-release-date'> Source <a/>

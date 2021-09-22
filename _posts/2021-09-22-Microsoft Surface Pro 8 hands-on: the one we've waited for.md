@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CxK3X15V-H3HiZo2hrKbxDWgkjk=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22868454/bfarsace_210921_4770_0002.jpg' width='700px' /><br/>
+With the new Surface Pro 8, Microsoft has finally gone and done the thing we've all been waiting years for: modernized the design of its flagship device. I had a chance to briefly use the new 2-in-1 Windows machine at Microsoft's San Francisco office yesterday and found much more to like than dislike.
+<a href='https://www.theverge.com/22686705/microsoft-surface-pro-8-keyboard-screen-photos-video-hands-on'> Source <a/>

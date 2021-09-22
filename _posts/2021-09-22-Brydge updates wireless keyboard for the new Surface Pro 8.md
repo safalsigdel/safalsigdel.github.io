@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/85gWrMx--1dKFbmbk49W9o5jNJI=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/69893479/unnamed.0.jpg' width='700px' /><br/>
+Brydge, the accessories manufacturer best known for its lineup of excellent iPad keyboards, has announced a wireless keyboard for Microsoft's newly announced Surface Pro 8, as well as a new Thunderbolt 4 dock.
+<a href='https://www.theverge.com/2021/9/22/22687438/brydge-sp-plus-surface-pro-8-keyboard-wireless'> Source <a/>
