@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eiBQScJpOKxGJm8NuL8NOJlCVVM=/0x0:1845x936/1200x800/filters:focal(776x321:1070x615)/cdn.vox-cdn.com/uploads/chorus_image/image/69893165/surfacepro8no.0.jpg' width='700px' /><br/>
+Microsoft is announcing the Surface Pro 8 today, the biggest upgrade to its Intel-powered Surface Pro lineup since the Surface Pro 3 in 2014. While we've seen tweaks to the design of the Surface Pro for seven years, the Surface Pro 8 jumps to a 120Hz display with thinner bezels, Thunderbolt 4 support, and a new keyboard that neatly houses an upgraded Surface Slim Pen 2.
+<a href='https://www.theverge.com/2021/9/22/22685923/microsoft-surface-pro-8-specs-price-release-date'> Source <a/>
