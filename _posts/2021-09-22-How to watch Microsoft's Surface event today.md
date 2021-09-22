@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sDw-od4v64s3RhPT5OFLK6d8GHM=/96x90:1998x1222/1200x800/filters:focal(927x594:1263x930)/cdn.vox-cdn.com/uploads/chorus_image/image/69892137/Windows_11_Start_3D.5.jpg' width='700px' /><br/>
-Microsoft is holding an online hardware event on Wednesday, September 22nd, at 11AM ET / 8AM PT, where it's expected to announce redesigned Surface tablets and laptops (and potentially a new phone). The Verge will be covering any announcements from the event and running this world-class live blog, and here's how you can watch along with us, too.
-<a href='https://www.theverge.com/2021/9/22/22684741/microsoft-surface-event-watch-live-stream-start-time-how-to'> Source <a/>
