@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-iRobot recently launched a new robot vacuum cleaner that uses AI to avoid dog poop, but the company's Roombas have long struggled with a more basic problem: confusing dark patterns on carpets and rugs for perilous drops.
-<a href='https://www.theverge.com/tldr/2021/9/22/22687449/roomba-rug-dark-pattern-cliff-edge-why-problem'> Source <a/>
