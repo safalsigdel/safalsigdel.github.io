@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZkZz9B-aEKlNAgtecQJPGt7u0dg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69892063/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
-Uber says it may be profitable this quarter for the first time in its history. The disclosure came in a new filing made with the US Securities and Exchange Commission. Whereas the company previously expected to make a net loss of under $100 million, it now believes it could make an adjusted profit of up to $25 million.
-<a href='https://www.theverge.com/2021/9/22/22687501/uber-adjusted-profit-q3-2021-pandemic-ride-hailing-food-delivery'> Source <a/>

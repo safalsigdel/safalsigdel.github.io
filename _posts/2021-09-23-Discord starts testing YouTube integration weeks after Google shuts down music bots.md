@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zwHNvHFCeWe6WVXuT3SwSOszYSA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69894751/acastro_200318_1777_discord_0001.0.0.jpg' width='700px' /><br/>
+Discord is starting to test YouTube integration, just weeks after Google-owned YouTube forced two popular Discord music bots offline. YouTube integration has started appearing in a small number of Discord servers today as part of what appears to be a new test of a collaboration between Discord and YouTube.
+<a href='https://www.theverge.com/2021/9/22/22687492/discord-youtube-integration-watch-together-feature-beta'> Source <a/>

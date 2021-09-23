@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oX8hM9BpfujeMXnqSSkbL3b6OQ8=/0x0:4000x2666/1200x675/filters:focal(2043x101:2683x741)/cdn.vox-cdn.com/uploads/chorus_image/image/69896319/1235434673.0.jpg' width='700px' /><br/>
+Theranos's board member James “Mad Dog” Mattis, a four-star general and the former secretary of defense, served among the company's impeccably credentialed supporters — but testifying in Elizabeth Holmes's trial on Wednesday, he resembled nothing so much as a nattily-dressed grandfather. At one point, he seemed befuddled when the defense asked him if he remembered discussion of high-throughput devices.
+<a href='https://www.theverge.com/2021/9/22/22689083/elizabeth-holmes-trial-james-mattis-testimony-theranos-fraud'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZJPR4cWs-7jOFFdjBGNpfDcIR8A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69892556/crg9monitor.5.jpg' width='700px' /><br/>
-The 49-inch Samsung CRG9 is a stunning gaming monitor. Boasting an immersive 1800R curvature, it's capable of more deeply immersing you in whatever it is you're doing, gaming or otherwise. As you can imagine, however, its price is usually just as jaw-dropping as its size. Today, however, it's a little less so.
-<a href='https://www.theverge.com/good-deals/2021/9/22/22684883/samsung-odyssey-g9-ssd-apple-pencil-echo-show-acer-chromebook-deal-sale'> Source <a/>

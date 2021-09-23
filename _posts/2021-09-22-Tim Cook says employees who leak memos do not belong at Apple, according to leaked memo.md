@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tmP8NB4j6Ng1T1zrRNST_JJ_vpQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69893015/acastro_170731_1777_0001_v10.0.jpg' width='700px' /><br/>
-Tim Cook sent an email to Apple employees Tuesday evening about an all-hands meeting that leaked to The Verge last week. He said the company is doing “everything in our power to identify those who leaked” and noted that “people who leak confidential information do not belong” at Apple.
-<a href='https://www.theverge.com/2021/9/22/22687747/tim-cook-employee-leak-memos-do-not-belong-at-apple'> Source <a/>

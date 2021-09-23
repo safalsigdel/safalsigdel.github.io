@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wOk7Fv5LuQRxRAP3_QgDTbXvSiM=/0x0:1879x1253/1200x800/filters:focal(790x477:1090x777)/cdn.vox-cdn.com/uploads/chorus_image/image/69892208/HP_11_inch_Tablet_PC_4.0.png' width='700px' /><br/>
-HP has announced a new 11-inch tablet that appears to be a more or less direct competitor to Microsoft's Surface Go, with a couple of interesting tricks. For starters, its 13-megapixel rear facing camera can flip around the short edge of the display to work as a webcam, which HP claims is a first for a tablet, and also makes it the highest resolution front-facing camera to boot.
-<a href='https://www.theverge.com/2021/9/22/22687544/hp-11-inch-tablet-flipping-13-megapixel-webcam-keyboard-stylus'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4tGbeUKXgnJXvK1uYEuDplcgDfc=/0x0:1600x1200/1200x800/filters:focal(672x472:928x728)/cdn.vox-cdn.com/uploads/chorus_image/image/69893905/E3nZHe_XMAED9jF.0.0.jpg' width='700px' /><br/>
+Ohio-based electric vehicle startup Workhorse is suspending deliveries of its C-1000 electric delivery vans and recalling 41 vehicles that have already been sent to customers, telling regulators the vans need “additional testing and modifications” in order to comply with federal safety standards.
+<a href='https://www.theverge.com/2021/9/22/22688037/workhorse-suspends-delivery-recall-c-1000-electric-van'> Source <a/>

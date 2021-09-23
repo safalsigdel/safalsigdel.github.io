@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mbbxJliZ63ZZEBneA4WzT9i7oGQ=/0x0:2248x1420/1200x800/filters:focal(945x531:1303x889)/cdn.vox-cdn.com/uploads/chorus_image/image/69893845/Screen_Shot_2021_09_21_at_1.27.32_PM.0.png' width='700px' /><br/>
+As expected, Microsoft announced the new Surface Duo 2 during what was an otherwise laptop-focused Surface event. The tech giant debuted the new Android phone alongside four new Surface devices, including the Surface Pro X, Surface Pro 8, and Surface Go 3.
+<a href='https://www.theverge.com/22684018/microsoft-surface-duo-2-preorder-how-to-buy-price-release-date'> Source <a/>

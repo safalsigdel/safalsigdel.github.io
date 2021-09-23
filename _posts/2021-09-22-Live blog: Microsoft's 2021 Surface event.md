@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4Y1_6I3TLVn1GM6TzOLq1UABAJo=/0x0:1278x719/1200x675/filters:focal(537x258:741x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69893023/microsoft_surface_event_invite.0.png' width='700px' /><br/>
-Microsoft is set to announce a whole bunch of new Surface computers today. At an event starting at 11AM ET / 8AM PT, we are expecting to see a new Surface Pro 8, Surface Book, Surface Go, Surface Pro X, and even the Android-based Surface Duo. That's a lot of devices for one livestream, so we'll be live blogging with real-time analysis right here.
-<a href='https://www.theverge.com/22686860/microsoft-2021-surface-pro-8-event-live-blog-news-announcements'> Source <a/>

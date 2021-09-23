@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Since leaving Microsoft, ex-CEO Steve Ballmer has devoted his life to the Los Angeles Clippers, transferring his enthusiastic, often scary keynote energy into pure, sport-oriented hype. But what about his passions? What's replaced Windows “developers, developers, developers” in the heart of the man who's spending around $1.8 billion to build the new Intuit Dome arena in Inglewood? One word: toilets (via ZDNet).
+<a href='https://www.theverge.com/tldr/2021/9/22/22687901/steve-ballmer-toilets-microsoft-ceo-la-clippers-intuit-dome'> Source <a/>

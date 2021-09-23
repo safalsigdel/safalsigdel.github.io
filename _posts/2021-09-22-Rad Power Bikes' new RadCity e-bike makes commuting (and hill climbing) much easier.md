@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PTuiCLuK_b2cuh4icPa6KHtrHk4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69892270/ahawkins_210914_4767_0001.0.jpg' width='700px' /><br/>
-Rad Power Bikes' electric commuting bike, the RadCity, is getting a serious makeover. The Seattle-based company has completely redesigned the bike's powertrain, including a semi-integrated battery, and made a number of other upgrades to make riding easier, faster, and more intuitive.
-<a href='https://www.theverge.com/2021/9/22/22686181/rad-power-bike-radcity-5-plus-hands-on-specs-price'> Source <a/>
