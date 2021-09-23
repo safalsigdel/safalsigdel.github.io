@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fw8gCAjJKJwcmem3amss7UpsoVc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69895059/acastro_210831_1777_0001.0.jpg' width='700px' /><br/>
-As part of this week's launch of iOS 15, iPadOS 15, and watchOS 8, Apple also introduced StoreKit 2, a set of APIs for in-app purchases and subscriptions. The new Swift-based tools could help developers better track and support the purchases their users make instead of relying on third-party solutions like RevenueCat.
-<a href='https://www.theverge.com/2021/9/22/22688213/apple-storekit-2-in-app-purchases-subscriptions'> Source <a/>
