@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jHaL-aQMn9x4qbXPg6NRkLoyVAU=/0x0:1531x861/1200x0/filters:focal(0x0:1531x861):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22869859/lcimg_8d56f7ef_0bde_4b8d_9564_7db371b94001.jpeg' width='700px' /><br/>
-Microsoft just wrapped up its latest Surface event, and it was packed with news — including the redesigned Surface Pro 8, a camera-equipped Surface Duo 2, and even a new flagship laptop that puts a hinge behind the screen.
-<a href='https://www.theverge.com/2021/9/22/22684950/microsoft-surface-event-biggest-announcements-pro-8-duo-studio-laptop'> Source <a/>

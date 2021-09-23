@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wM43KPBUWCq8v682VLNDjf6oTMw=/0x0:1116x744/1200x1200/filters:focal(558x372:559x373)/cdn.vox-cdn.com/uploads/chorus_asset/file/22805465/Xbox_Series_X_Halo_Edition_Bundle_Press_Imahe.jpeg' width='700px' /><br/>
+Walmart is hosting a big console restock event today, September 23rd, at 12PM ET / 9AM PT.  It's going to have the PS5 consoles, along with the standard Xbox Series X and the limited edition Halo Infinite-themed Series X.
+<a href='https://www.theverge.com/2021/9/23/22648984/ps5-xbox-series-x-halo-walmart-restock-time'> Source <a/>
