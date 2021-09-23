@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YqiYLr2VVXN86BvgjS-X5cwjr2s=/0x0:2276x1707/1200x800/filters:focal(956x672:1320x1036)/cdn.vox-cdn.com/uploads/chorus_image/image/69897566/Surface_Laptop_Studio___Gaming.0.jpg' width='700px' /><br/>
+I've been waiting years for Microsoft to make a gaming laptop, and the new Surface Laptop Studio still misses the mark. Whether it would be an Xbox laptop or a Surface one, Microsoft has never really come close to building something truly designed for gaming on the go. The Surface Book, Surface Pro, and Surface Laptop all serve different creator types, but none really cater to gamers.
+<a href='https://www.theverge.com/22689352/microsoft-surface-xbox-laptop-pc-gaming'> Source <a/>
