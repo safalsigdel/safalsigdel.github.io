@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Alongside the new Surface Pro 8, Microsoft is introducing an all-new computer: the Surface Laptop Studio. It's the successor to the Surface Book 3, but instead of featuring a detachable screen, it has one that flips into tablet mode. Where other 2-in-1s usually just go for a 360-degree hinge that flips the screen to the back, Microsoft's system has it settling in on top of the keyboard.
-<a href='https://www.theverge.com/22686706/microsoft-surface-studio-laptop-design-specs-photos-hands-on'> Source <a/>

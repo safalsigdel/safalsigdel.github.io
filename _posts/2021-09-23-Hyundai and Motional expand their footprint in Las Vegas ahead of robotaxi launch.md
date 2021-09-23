@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bvPq0c5XhJjaqCFQUxDC6L8vga4=/0x0:5120x2880/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/69897365/04._Priority_image.0.0.png' width='700px' /><br/>
+Motional, the autonomous vehicle company that is a joint venture between Hyundai and Aptiv, is growing its presence in Las Vegas as it gears up to launch a commercial robotaxi service in 2023.
+<a href='https://www.theverge.com/2021/9/23/22687743/hyundai-motional-autonomous-vehicles-las-vegas-expansion'> Source <a/>

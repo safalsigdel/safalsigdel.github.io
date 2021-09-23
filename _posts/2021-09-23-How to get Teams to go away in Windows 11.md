@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1GlY5Z5cvI7wdJ91I8AB0rPKBLo=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69897353/Screenshot__24___1_.0.png' width='700px' /><br/>
+When you first install Windows 11, you will probably see a new icon on your Taskbar — or, at least, it will be new if you haven't been using Microsoft's Teams collaboration app lately. If you float your cursor across the icon, which looks like a camera inside of a cartoon speech balloon, it will say “Chat.” Click on it, and you'll be invited to “Meet and chat with friends and family” using Microsoft Teams.
+<a href='https://www.theverge.com/22686302/windows-11-microsoft-teams-chat-how-to-uninstall'> Source <a/>

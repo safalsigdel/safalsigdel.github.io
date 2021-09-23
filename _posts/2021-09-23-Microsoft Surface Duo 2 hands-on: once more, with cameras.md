@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p-gCwOFtYVTHHy_NWK_xFHEuoaI=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69893431/bfarsace_210921_4770_0049.0.jpg' width='700px' /><br/>
-Today, Microsoft is unveiling the Surface Duo 2, a new Android-based smartphone with two screens and a raft of updates over the problematic original Surface Duo. From improvements to the cameras to bigger screens to software tweaks to a better way to store a Surface Pen, Microsoft is addressing all the obvious problems from the first model.
-<a href='https://www.theverge.com/2021/9/22/22686707/microsoft-surface-duo-2-phone-design-specs-features-photos-hands-on'> Source <a/>
