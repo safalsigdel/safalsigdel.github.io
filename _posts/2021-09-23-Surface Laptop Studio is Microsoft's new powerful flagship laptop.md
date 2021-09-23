@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/74H__4f6XvYu1C1wLbCfK_KUkIY=/0x0:2560x1440/1200x0/filters:focal(0x0:2560x1440):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22869376/Surface_Laptop_Studio___Adjusting_under_embargo_until_September_22.jpg' width='700px' /><br/>
-Microsoft is announcing the Surface Laptop Studio today, a successor to the Surface Book line of powerful laptops. It presents a total redesign for Microsoft's flagship laptop, ditching the removable display in favor of one that pulls forward to transform from laptop into tablet (or what Microsoft calls studio mode).
-<a href='https://www.theverge.com/2021/9/22/22686010/microsoft-surface-laptop-studio-price-specs-release-date'> Source <a/>
