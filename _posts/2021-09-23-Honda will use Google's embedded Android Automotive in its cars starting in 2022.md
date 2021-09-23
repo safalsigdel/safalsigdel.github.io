@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RdsyWVJYaJVOr1CKWKvwxkK-az0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69898264/geneva_honda_eprototype_vladsavov29.0.jpg' width='700px' /><br/>
+Google nabbed another big automaker in its quest to become the default operating system for cars. Honda will soon begin rolling out vehicles with Google's embedded Android Automotive OS, which includes Google's voice-activated Assistant, Google Maps, and other automotive-approved Android apps as the default infotainment.
+<a href='https://www.theverge.com/2021/9/23/22688309/honda-google-android-auto-assistant-driving-mode-gas'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0RVMWoIvOOJGbw26PXNhH0cZmMc=/0x0:1080x1080/1200x800/filters:focal(454x454:626x626)/cdn.vox-cdn.com/uploads/chorus_image/image/69898252/AFS_01A_VirtualRemote_IJ_Realistic_1x1_Frame_11.0.png' width='700px' /><br/>
+A new Google TV feature will allow users to use their Android mobile devices as remotes for those moments when your streaming box's wand disappears without a trace.
+<a href='https://www.theverge.com/2021/9/23/22688867/google-tv-mobile-remote-android'> Source <a/>

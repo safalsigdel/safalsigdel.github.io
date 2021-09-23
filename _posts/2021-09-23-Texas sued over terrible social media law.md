@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_0syTHS_cZHIuc4ODT3DpR_ech8=/0x0:3578x2696/1200x800/filters:focal(1503x1062:2075x1634)/cdn.vox-cdn.com/uploads/chorus_image/image/69894842/1326334178.0.jpg' width='700px' /><br/>
-NetChoice and the Computer & Communications Industry Association (CCIA) have sued to stop Texas from enforcing HB 20, a new law barring large social media companies from banning users or removing content based on the “viewpoint” of the user. The tech industry groups' suit comes two weeks after Texas Governor Greg Abbott signed the bill, and it follows a lawsuit that successfully blocked a similar rule in Florida.
-<a href='https://www.theverge.com/2021/9/22/22688331/texas-hb-20-first-amendment-lawsuit-social-media-censorship'> Source <a/>
