@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WTrT8KMzlKNZFHvkM_aQIE1xmU4=/0x0:2000x1026/1200x800/filters:focal(840x353:1160x673)/cdn.vox-cdn.com/uploads/chorus_image/image/69896115/amazon_go_stock_1.0.jpg' width='700px' /><br/>
-Amazon's rumored department store experiment could take a similarly high-tech approach to selling clothes as the company took with groceries, according to a new report from The Wall Street Journal. Amazon was previously reported to be considering opening department stores in California and Ohio, a natural expansion of the company's push into physical retail, and those department stores will reportedly feature its own clothing brands too.
-<a href='https://www.theverge.com/2021/9/22/22688707/amazon-department-store-qr-codes-automation'> Source <a/>
