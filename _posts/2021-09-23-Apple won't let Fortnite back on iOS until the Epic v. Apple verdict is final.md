@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Kdao3ZWRjHJtTs8ftWX_-nMqrWc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69893641/acastro_210429_1777_epic_0001.0.jpg' width='700px' /><br/>
-Fortnite will not be returning to the iOS App Store anytime soon, according to a series of emails published on Twitter on Wednesday by Epic Games CEO Tim Sweeney.
-<a href='https://www.theverge.com/2021/9/22/22687968/fortnite-ios-epic-apple-appeal-verdict-antitrust'> Source <a/>

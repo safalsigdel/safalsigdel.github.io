@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/--tWov7qeuZ6Rr4L17QkzIw7HKM=/0x0:4500x2988/1200x800/filters:focal(1890x1134:2610x1854)/cdn.vox-cdn.com/uploads/chorus_image/image/69898088/1195405178.0.jpg' width='700px' /><br/>
+A District of Columbia judge ordered Facebook to let the Gambia government access deleted posts where Myanmar officials promoted hate against the Rohingya people. The order comes more than a year after Facebook rejected a request for the data — which Gambia seeks to use in a genocide case before the International Court of Justice.
+<a href='https://www.theverge.com/2021/9/23/22689559/facebook-rohingya-myanmar-official-data-order-gambia-genocide-trial'> Source <a/>
