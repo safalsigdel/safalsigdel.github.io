@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jHvPf7XackVxJMurs8V_sgc14Nc=/24x0:1200x894/1200x800/filters:focal(705x344:897x536)/cdn.vox-cdn.com/uploads/chorus_image/image/69895097/slack_imgs.0.jpg' width='700px' /><br/>
-Facebook is serious about being a long-term player in hardware. On Wednesday, the company promoted Andrew Bosworth, the current head of its hardware division that makes Oculus and other consumer devices, to the role of chief technology officer, replacing outgoing CTO Mike Schroepfer when he becomes a senior fellow next year.
-<a href='https://www.theverge.com/2021/9/22/22688510/facebook-cto-andrew-boz-bosworth-chief-technology-officer'> Source <a/>
