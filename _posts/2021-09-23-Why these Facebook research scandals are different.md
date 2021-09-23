@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sZCsHJNbd9oCftCHEKAvbBWsFa4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69896850/acastro_171002_1777_0004_v4.0.jpg' width='700px' /><br/>
+A week ago, The Wall Street Journal began to publish a series of stories about Facebook based on the internal findings of the company's researchers. The Facebook Files, as they are known, lay out a dizzying number of problems unfolding on the world's biggest social network.
+<a href='https://www.theverge.com/2021/9/23/22688976/facebook-research-scandals'> Source <a/>
