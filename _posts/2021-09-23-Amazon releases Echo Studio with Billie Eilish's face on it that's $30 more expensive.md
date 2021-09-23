@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4yMJsLfnKRNCq3mbup_gTN51rjY=/0x0:5760x4320/1200x800/filters:focal(2420x1700:3340x2620)/cdn.vox-cdn.com/uploads/chorus_image/image/69895067/Billie_Eilish_Limited_Edition_Echo_Studio_Lifestyle_2.0.jpeg' width='700px' /><br/>
-If you were in a tizzy about what to get the devoted Billie Eilish fan in your family for the holidays, Amazon might have just solved your problem — assuming you're prepared to drop $230 on them.
-<a href='https://www.theverge.com/2021/9/22/22688035/billie-eilish-echo-studio-price-release-date-preorder'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DJjgV0K4sJGby7eQB2A-nwF58nM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69895592/akrales_180620_1777_0266.0.jpg' width='700px' /><br/>
-Twitter is planning to make some changes that could prevent tweets from disappearing while you are reading them, the company said on its support account Wednesday.
-<a href='https://www.theverge.com/2021/9/22/22688697/twitter-fix-disappearing-tweets-issue'> Source <a/>

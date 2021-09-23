@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1vFf0dcUu5mJR_lMzTzbfamZrVc=/0x0:3000x2250/1200x800/filters:focal(1260x885:1740x1365)/cdn.vox-cdn.com/uploads/chorus_image/image/69895205/Nokia_G50___Beauty_1_.0.jpg' width='700px' /><br/>
-Nokia has a new midrange phone coming to the US and a number of global markets. The new G50 costs $299 and has all the ingredients to be competitive as a midrange phone, with a 6.82-inch HD+ display, big battery, audio jack and 18W fast charger.
-<a href='https://www.theverge.com/2021/9/22/22687760/nokia-g50-phone-battery-android-upgrades'> Source <a/>
