@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z1uu22w7oKXtrAWGVDYFRf74Rwk=/0x0:1440x813/1200x800/filters:focal(605x292:835x522)/cdn.vox-cdn.com/uploads/chorus_image/image/69900291/joy_con_02.0.jpeg' width='700px' /><br/>
+Setting up a pair of wireless Bluetooth headphones with a Nintendo Switch used to be a multistep — and somewhat costly — process. First, you needed headphones, then you needed a Bluetooth audio transmitter that'd either plug into your Switch's headphone jack or its bottom-facing USB-C port. Well, after about four years, Nintendo surprised us with a system update that finally enables said feature natively — no accessories required.
+<a href='https://www.theverge.com/22690100/how-to-pair-bluetooth-wireless-headphones-earbuds-nintendo-switch'> Source <a/>

@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/wM43KPBUWCq8v682VLNDjf6oTMw=/0x0:1116x744/1200x1200/filters:focal(558x372:559x373)/cdn.vox-cdn.com/uploads/chorus_asset/file/22805465/Xbox_Series_X_Halo_Edition_Bundle_Press_Imahe.jpeg' width='700px' /><br/>
-Update 12:25PM ET, September 23rd: Walmart's console restock didn't get off to a good start. Pages weren't loading for most people, it seems, and the retailer updated its site with a header saying “Console event to be rescheduled”. We'll update this post again once we know when the event will happen.
+Update 8:55PM ET, September 23rd: Walmart is going to try again at 9PM ET, good luck! If you don't get through at first, then try again. Walmart usually restocks in waves every ten minutes or so until systems are sold out.
 <a href='https://www.theverge.com/2021/9/23/22648984/ps5-xbox-series-x-halo-walmart-restock-time'> Source <a/>

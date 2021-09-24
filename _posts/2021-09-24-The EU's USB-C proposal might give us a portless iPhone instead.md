@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MwuI8ieOYVZBdNaHlzETDgwUm2o=/0x0:2788x1534/1200x800/filters:focal(1171x544:1617x990)/cdn.vox-cdn.com/uploads/chorus_image/image/69897758/Screen_Shot_2017_09_14_at_11.51.30_AM.0.png' width='700px' /><br/>
-The European Commission has announced plans to force smartphone and other electronics manufacturers to fit a common USB-C charging port on their devices. Given that most Android-powered smartphones now ship with a USB-C port, the proposals could see Apple finally be forced to move to USB-C on the iPhone. Or they might not, as they could instead force Apple to deliver a portless iPhone.
-<a href='https://www.theverge.com/2021/9/23/22689432/eu-iphone-usb-c-switch-portless-design'> Source <a/>

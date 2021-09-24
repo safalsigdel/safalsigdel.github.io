@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vcPHcCavPnUIdoPfZMscRRrx_HI=/0x0:2040x1360/1200x800/filters:focal(1252x533:1578x859)/cdn.vox-cdn.com/uploads/chorus_image/image/69897796/cgartenberg_210917_4762_0004.0.jpg' width='700px' /><br/>
-There's a lot of promise and potential in iPadOS 15. Even with some features like SharePlay missing from the initial release, others like Quick Note and a dramatically simpler approach to multitasking already improve the day-to-day experience of using Apple's tablets.
-<a href='https://www.theverge.com/22689453/ipados-15-home-screen-icons-widgets-grid-features-design'> Source <a/>

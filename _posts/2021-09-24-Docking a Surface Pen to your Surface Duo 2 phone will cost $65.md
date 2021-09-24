@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7sw5fPJlhiOYJE6dOX78v3EEU0E=/0x0:3000x2250/1200x800/filters:focal(1342x1049:1822x1529)/cdn.vox-cdn.com/uploads/chorus_image/image/69900828/Surface_Duo_2_with_Pen_under_embargo_until_September_22.0.jpg' width='700px' /><br/>
+Microsoft has a new phone of its own, the Surface Duo 2, arriving October 21st — and if you buy an optional “Surface Duo 2 Pen Cover,” you'll be able to magnetically dock and wirelessly charge the company's optional $130 Surface Slim Pen 2 stylus and use it with the Android phone.
+<a href='https://www.theverge.com/2021/9/23/22690565/surface-duo-2-pen-cover-price-release-date-slim-pen'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L634Xi4whAYtYGkqJKYGOJl0fAI=/0x0:6048x4024/1200x800/filters:focal(3052x1631:4018x2597)/cdn.vox-cdn.com/uploads/chorus_image/image/69897139/1336993783.0.jpg' width='700px' /><br/>
-This week marks the release of Sable, a beautiful indie title that looks like The Legend of Zelda: Breath of the Wild mixed with a comic from Jean “Moebius” Giraud. It's not just the game's art that's striking, though; the whole experience is accompanied by an excellent original soundtrack composed by Michelle Zauner, the frontwoman for the indie rock band Japanese Breakfast.
-<a href='https://www.theverge.com/2021/9/23/22688375/sable-soundtrack-music-composer-japanese-breakfast-interview'> Source <a/>

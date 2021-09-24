@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ihi8whpjCQLTi8kd-MT9LgrGBJU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69896801/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-The way that Facebook controls its News Feed is often controversial and largely opaque to the outside world.
-<a href='https://www.theverge.com/2021/9/23/22688840/facebook-releases-content-distribution-guidelines-for-news-feed'> Source <a/>

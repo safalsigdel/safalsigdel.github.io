@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q53UniZzd5OTqvTWC5ppy_eJwgY=/0x0:1201x801/1200x800/filters:focal(431x135:623x327)/cdn.vox-cdn.com/uploads/chorus_image/image/69898055/tesla_model_s_witcher_3_3.0.jpg' width='700px' /><br/>
-For years, the recommendations and ratings Consumer Reports assigns to Tesla vehicles have yo-yoed between unacceptable and incredible, usually due to the electric car maker's unorthodox design and packaging decisions. When Tesla revealed its redesign of the Model S and Model X interiors this spring, future unpleasantness loomed.
-<a href='https://www.theverge.com/2021/9/23/22688377/tesla-steering-wheel-yoke-model-s-x-redesign'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xTHYbQtY8fmrg12Qp4a71gHY-Cw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69900355/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+Following the release of Apple's iOS 15 update, some users have reported strange behavior on Instagram — when an iPhone's ringer switch is set to silent mode, stories play without audio. Currently, you can even silence a video while it's still playing by flipping the switch, even though the switch shouldn't mute the rest of an iPhone's sounds.
+<a href='https://www.theverge.com/2021/9/23/22690305/instagram-story-no-audio-silent-switch-ios-15'> Source <a/>

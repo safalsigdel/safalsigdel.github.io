@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vdhYT5rU0FOAP5IfglE-Eq_9Gb0=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/69899817/MontgomeryNYMAG_Deliveristas_Final_010.0.jpg' width='700px' /><br/>
+On Thursday, New York's city council passed a package of six bills establishing new rights and protections for delivery workers, making it the first major city to address the intense working conditions associated with food delivery. Mayor DeBlasio has previously expressed support for the provisions and is expected to sign them into law without delay.
+<a href='https://www.theverge.com/2021/9/23/22689396/nyc-delivery-worker-protection-rules-tips-wage-theft'> Source <a/>

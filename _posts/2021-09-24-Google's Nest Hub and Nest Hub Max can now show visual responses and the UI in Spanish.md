@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/g4BXHPmmwzHgxC3QuVd0xGz4nCk=/0x0:2122x1194/1200x800/filters:focal(892x428:1230x766)/cdn.vox-cdn.com/uploads/chorus_image/image/69899647/Google_Nest_Hub___Google_Duo___Spanish.0.png' width='700px' /><br/>
+Google is expanding Spanish language support for its Nest Hub and Nest Hub Max devices in the US. Perhaps the biggest change is that the entire UI for the Nest Hub and Nest Hub Max has been translated into Spanish. That means things like visual answers to your queries and control panels now appear in Spanish, Google tells The Verge.
+<a href='https://www.theverge.com/2021/9/23/22689731/google-nest-hub-spanish-language-support-visual-responses-ui'> Source <a/>
