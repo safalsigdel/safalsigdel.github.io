@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eYhVqKsbVwBfooQQ4VH6PbEgOhY=/0x0:1145x763/1200x800/filters:focal(482x291:664x473)/cdn.vox-cdn.com/uploads/chorus_image/image/69902111/msedge_tzPx016ucL.0.png' width='700px' /><br/>
+Microsoft Edge's new tab grouping feature arrived this month with version 93 of the browser. It was officially detailed alongside a grab bag of new tools for September, which include new shopping and vacation planning options. Tab groups have existed in Edge for a few months as an optional feature you could manually enable in the browser's settings, but now they're rolling out to all users.
+<a href='https://www.theverge.com/2021/9/24/22691221/microsoft-edge-browser-tab-groups-shopping-holiday-features'> Source <a/>
