@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uLhffTLpBj6qtj5w1VRPIkT10Sg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69898262/Sequence_02.00_01_09_21.Still007.0.jpg' width='700px' /><br/>
-Google announced a few updates to Android Auto, including a new dashboard for Google Assistant driving mode.
-<a href='https://www.theverge.com/2021/9/23/22689537/android-auto-google-assistant-driving-mode-dashboard-distraction'> Source <a/>
