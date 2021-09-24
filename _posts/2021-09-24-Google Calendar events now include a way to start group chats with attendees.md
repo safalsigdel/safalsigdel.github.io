@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tMghn9nzEsVLK-h_m6HxbmW55EU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69898951/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google is adding a new button to Google Calendar events on mobile and the web that will immediately open a chat with meeting attendees. Google launched its rebranded version of Hangouts Chat to customers earlier this year and has slowly added more features to the main Gmail landing page, including its Zoom-like Google Meet video chat.
-<a href='https://www.theverge.com/2021/9/23/22689738/google-calendar-events-chat-worskpace-updates'> Source <a/>

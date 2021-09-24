@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kYiY9p9rRLpuV6SCegSeTfZ_lAc=/0x0:1024x678/1200x800/filters:focal(431x258:593x420)/cdn.vox-cdn.com/uploads/chorus_image/image/69902310/DSC_3053-hero.1353975716.0.jpg' width='700px' /><br/>
+Wearables company Jawbone is long-dead — it went out of business in 2017 — but its patents live on, and someone is using them to sue Apple and Google.
+<a href='https://www.theverge.com/2021/9/24/22691253/jawbone-lawsuits-patent-infringement-apple-google'> Source <a/>

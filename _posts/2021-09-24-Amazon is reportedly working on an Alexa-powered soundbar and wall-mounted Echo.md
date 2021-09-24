@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XKLXpPIlu-dLqnT9XsqgMsOhaX8=/0x0:1404x985/1200x800/filters:focal(590x381:814x605)/cdn.vox-cdn.com/uploads/chorus_image/image/69902558/alexa_widgets.0.jpg' width='700px' /><br/>
+What's next for Amazon's family of Alexa-powered devices? A little bit of everything, according to a new report from Bloomberg News, which has a great overview of products the company is reportedly working on.
+<a href='https://www.theverge.com/2021/9/24/22691287/amazon-echo-alexa-devices-wall-mounted-soundbar-auto-robot'> Source <a/>

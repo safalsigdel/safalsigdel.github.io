@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_mJPqH3nc0cR6L4qBn4x-M8Rqm8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69898725/ahawkins_210919_4769_0009.0.jpg' width='700px' /><br/>
-Belgium's finest electric bike maker, Cowboy, is crossing the pond and expanding its operations to the US. Cowboy will only have one model available to American customers: its fourth-generation e-bike, aptly named the C4. The C4 comes in a high-step or step-through frame and is available for pre-order for the early bird price of $1,990.
-<a href='https://www.theverge.com/2021/9/23/22687710/cowboy-ebike-us-sell-c4-price-specs'> Source <a/>

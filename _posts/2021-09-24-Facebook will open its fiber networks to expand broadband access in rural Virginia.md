@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dxJ2xTiKWgz9ahYwfew1o-MNNyY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69898730/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook announced a new project on Thursday that will bring broadband service to thousands of households in Virginia this fall, in partnership with a local ISP and utility company.
-<a href='https://www.theverge.com/2021/9/23/22689903/facebook-fiber-network-broadband-access-gigabeam-appalachia-virginia'> Source <a/>

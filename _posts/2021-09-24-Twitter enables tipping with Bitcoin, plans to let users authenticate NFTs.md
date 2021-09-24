@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_uIc77QPBM2rxWXsFueDMODp2oU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69898749/Twitter_NFTs.0.jpeg' width='700px' /><br/>
-Twitter is turning on the ability to ask for tips in Bitcoin through its app, making it the first major social network to encourage use of the cryptocurrency as a method of payment. The company also plans to let users connect their crypto wallets and authenticate the ownership of NFTs they tweet with a special badge.
-<a href='https://www.theverge.com/2021/9/23/22689806/twitter-bitcoin-lightning-tipping-nft-authentication'> Source <a/>
