@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9V09zvj5RXCf13uA6hlpb6u6n0A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69899055/vpavic_4176_20200905_0038.0.jpg' width='700px' /><br/>
-Microsoft announced a new Surface Duo 2 this week that's shipping with Android 11, and now the company is committing to release the OS update for original devices this year. “We remain committed to providing updates to Surface Duo, and we're working to bring Android 11 to existing customers before the end of this year,” says a Microsoft spokesperson in a statement to The Verge.
-<a href='https://www.theverge.com/2021/9/23/22690003/microsoft-surface-duo-android-11-update-release-date'> Source <a/>
