@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Tz7f37cOQHFLNu_-Hxjg1yLsEO4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69905759/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Twitter's poor video quality has been a long-running frustration for users on the platform, but on Friday, the company shared some potentially promising news: videos uploaded to the service will now “appear less pixelated for a better watching experience,” Twitter said in a tweet from its support account.
+<a href='https://www.theverge.com/2021/9/24/22692348/twitter-video-quality-less-pixelated'> Source <a/>

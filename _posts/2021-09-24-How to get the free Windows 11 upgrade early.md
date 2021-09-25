@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3615pVaEzlQsPa7wCEyGMtWNnsQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69902178/Hero_Bloom_Logo.0.jpg' width='700px' /><br/>
-After months of testing, Microsoft is releasing the final version of Windows 11 to its Release Preview channel today. It's the final step before it's released more broadly to existing devices on October 5th. If you don't want to wait until October 5th, you can switch to the Release Preview in Windows 10 today and get the free Windows 11 upgrade early.
-<a href='https://www.theverge.com/2021/9/24/22690092/how-to-upgrade-windows-11-free-early-final-version'> Source <a/>

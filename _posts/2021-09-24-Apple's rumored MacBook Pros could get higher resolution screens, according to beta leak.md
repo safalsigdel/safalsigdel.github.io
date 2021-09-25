@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/By33L8UWvTWZON6_0-s8NP9bzIA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69901963/akramer_201113_4290_0001.0.0.jpg' width='700px' /><br/>
-The latest macOS Monterey beta contains clues about the resolution of Apple's rumored 14- and 16-inch MacBook Pros, MacRumors reports. The seventh beta of the upcoming operating system contains references to “3456 x 2234 Retina” and “3024 x 1964 Retina,” which are two resolutions not supported in any of Apple's current Macs.
-<a href='https://www.theverge.com/2021/9/24/22691187/2021-m1x-macbook-pro-screen-resolution-3456-x-2234-retina-3024-x-1964'> Source <a/>

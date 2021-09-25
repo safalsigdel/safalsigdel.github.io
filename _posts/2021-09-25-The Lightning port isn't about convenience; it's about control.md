@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DPApngjUbL0vMttdz0Oc_UKkR9I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69904415/akrales_190522_3440_0029.0.jpg' width='700px' /><br/>
+The European Commission shook the iPhone world to its roots this week, announcing a new policy that would require all smartphones to adopt USB-C ports for physical charging in an effort to reduce e-waste.
+<a href='https://www.theverge.com/2021/9/24/22690338/apple-iphone-lightning-ports-convenience-control-usb-c-eu-wireless-charging-mfi-magsafe'> Source <a/>

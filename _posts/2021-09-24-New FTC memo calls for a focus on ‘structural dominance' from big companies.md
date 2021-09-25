@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rTMboBPqwnICgkIcnSbzJqvhElE=/0x0:3000x2001/1200x800/filters:focal(1156x433:1636x913)/cdn.vox-cdn.com/uploads/chorus_image/image/69900194/1232440380.0.jpg' width='700px' /><br/>
-In a memo to staff this week, FTC Chair Lina Khan outlined her new priorities for the agency: to focus on power imbalance, reduce harms to consumers, and address “rampant consolidation.” Khan wrote that the agency should focus its efforts and adjust its strategic approach to deal with the issues created by “next-generation technologies, innovations, and nascent industries across sectors.”
-<a href='https://www.theverge.com/2021/9/23/22690176/ftc-chair-lina-khan-focus-antitrust-consumer-amazon'> Source <a/>

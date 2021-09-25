@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H59HIMMHXzkjblc5zfEeSH2R-ug=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22410205/Xbox_Series_X___Xbox_Series_X_2021_03_31_11_23_32.png' width='700px' /><br/>
-Microsoft is rolling out a new Xbox dashboard that includes an updated version of the Edge browser. After six months of testing, the Chromium version of Edge is now available to all existing Xbox One and Xbox Series S / X consoles, and the new capabilities allow Xbox owners to stream Google Stadia games, access Discord on the web, and lots more.
-<a href='https://www.theverge.com/2021/9/24/22691196/xbox-new-edge-browser-chromium-release'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VYzWXIpe0pEQSF_9gAGHX4pz2es=/0x0:1654x1654/1200x800/filters:focal(674x375:938x639)/cdn.vox-cdn.com/uploads/chorus_image/image/69905625/FAETvl9VcAo62_J.0.jpeg' width='700px' /><br/>
+Twitter is looking for input on two new potential features that could give users more control over the tone and quality of replies to their tweets. Filter and Limit, as shared by Twitter designer Paula Barcante, would intelligently hide offensive or harmful replies or prevent repeat offenders from replying at all.
+<a href='https://www.theverge.com/2021/9/24/22692264/twitter-filter-limit-tweet-replies-automatic'> Source <a/>

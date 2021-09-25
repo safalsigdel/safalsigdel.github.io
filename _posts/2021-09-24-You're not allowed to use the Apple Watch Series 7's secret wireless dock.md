@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JNT9s2GwDbojrrifyFPplyfWsJ8=/0x0:893x497/1200x800/filters:focal(376x178:518x320)/cdn.vox-cdn.com/uploads/chorus_image/image/69900467/Capto_Capture_2021_09_14_01_24_25_PM.0.jpg' width='700px' /><br/>
-The Apple Watch Series 7 has a new 60.5GHz module that works with a secret, corresponding dock, according to FCC filings (via MacRumors). The new wireless data transfer feature is designed to pair with a corresponding dock that Apple will use for currently unknown internal purposes. When the Series 7 watch is placed on that pad, it'll activate the module — customers won't actually be able to use it.
-<a href='https://www.theverge.com/2021/9/23/22690061/apple-watch-series-7-wireless-dock-data-transfer-port-free'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AQ36av8uYiybgB3zMN2r-zpXmYA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69903224/vpavic_210916_untitled_0004.0.jpg' width='700px' /><br/>
+Every Friday, The Verge publishes our flagship podcast, The Vergecast, where co-hosts Nilay Patel and Dieter Bohn discuss the week in tech news with the reporters and editors covering the biggest stories.
+<a href='https://www.theverge.com/2021/9/24/22691405/vergecast-podcast-468-iphone-13-pro-microsoft-surface-duo-2-event'> Source <a/>

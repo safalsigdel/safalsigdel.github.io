@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GmyGjXVbatlwSjwuePtA3VPXSjw=/0x0:5120x2880/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/69905231/GALAXY_S22_ULTRA_5K4.0.jpeg' width='700px' /><br/>
+It's Friday, it's fall, there's a breeze in the air (hopefully), and there's fresh, I'd argue ridiculous, renders of Samsung's expected Galaxy S22 Ultra to show you. The renders come courtesy of @OnLeaks and Digit, and they feature a new Samsung flagship with what looks like a Galaxy Note 20-inspired body and back that... well you should see for yourself.
+<a href='https://www.theverge.com/2021/9/24/22691985/samsung-galaxy-s22-ultra-render-p-camera-stylus'> Source <a/>

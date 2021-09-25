@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qYNFDNmL3uMofRTMHk82QggRZlY=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/69899783/clubhousenewlogo.0.jpg' width='700px' /><br/>
-After the feature was leaked last week, Clubhouse is officially launching a new way to invite people to audio chats called “Wave.” The company announced the news at a surprise town hall on Thursday and is enabling the feature today for all users on iOS and Android.
-<a href='https://www.theverge.com/2021/9/23/22690029/clubhouse-wave-invites-audio-chats'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OIbVhGWjrw_MakPQ7N-W3dftsjA=/0x0:2035x1357/1200x675/filters:focal(1581x514:1905x838)/cdn.vox-cdn.com/uploads/chorus_image/image/69904679/jporter_210920_4765_0001.0.jpg' width='700px' /><br/>
+Razer's latest keyboard, the Huntsman V2, is all about speed. It's equipped with optical mechanical switches that can theoretically register key presses far faster than their traditional mechanical counterparts. Then, its 8,000Hz polling rate means it can report that key press to your PC nearly instantaneously.
+<a href='https://www.theverge.com/22691381/razer-huntsman-v2-review-optical-mechanical-keyboard-8000hz-polling-rate-linear-clicky-switches'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uywjc4Ac2RWFHmOu0qn3oicld70=/0x0:1934x1082/1200x800/filters:focal(813x387:1121x695)/cdn.vox-cdn.com/uploads/chorus_image/image/69900837/FAAQousXMAEq1CG.0.jpeg' width='700px' /><br/>
-Let's go boys! At long last, there is finally a new Bayonetta 3 trailer. Revealed during a primetime Nintendo Direct showcase, the new Bayonetta 3 trailer puts an end to four years of near radio silence on Platinum Games' leggy, fashionable, witch.
-<a href='https://www.theverge.com/2021/9/23/22690350/bayonetta-3-new-trailer-nintendo-direct-switch'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8Wvf52ia8IQkNyp6GlBWHi5EIjo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69899609/vpavic_210921_4770_0009.0.jpg' width='700px' /><br/>
-Okay, I know this might be partially my fault. When I reviewed Microsoft's 13.5-inch Surface Book 3 last year, I complained that the design was dated. I complained that my biggest nitpicks about the Surface Book 2 (which I've owned for years, by the way) hadn't been fixed. Microsoft still hadn't figured out how to do anything new or fun with the detachable, I lamented. “This form factor might be a dead end.”
-<a href='https://www.theverge.com/2021/9/23/22688432/microsoft-surface-laptop-studio-book-3-specs-step-backwards'> Source <a/>

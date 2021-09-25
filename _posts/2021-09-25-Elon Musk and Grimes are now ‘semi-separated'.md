@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GIJnjGtxs5OjdhoVtNR11uHL7IQ=/0x0:4018x2892/1200x800/filters:focal(1688x1125:2330x1767)/cdn.vox-cdn.com/uploads/chorus_image/image/69903456/955815456.0.jpg' width='700px' /><br/>
+Elon Musk and Claire “Grimes” Boucher have “semi-separated,” according to the SpaceX founder. Musk told Page Six that the two would continue to co-parent their one-year-old son, X xc3x86 A-Xii, but that working in different parts of the country had led to them taking more separate paths.
+<a href='https://www.theverge.com/2021/9/24/22691568/elon-musk-grimes-relationship-semi-separated-co-parent'> Source <a/>

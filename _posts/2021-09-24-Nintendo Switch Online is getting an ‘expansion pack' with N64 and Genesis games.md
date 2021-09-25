@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6MRyg6ygrw5vS_8Ld5Q8YSKUUm8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69900769/image.0.png' width='700px' /><br/>
-Nintendo is adding a new membership tier to Nintendo Switch Online that lets you play Nintendo 64 games and Sega Genesis games. The new tier, called Nintendo Switch Online + Expansion Pack, will be officially released in late October.
-<a href='https://www.theverge.com/2021/9/23/22688780/nintendo-switch-online-expansion-pack-64-sega-genesis-controllers'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kLmJYbrE9YiqeJ-zF2Z9_lASHbc=/0x0:4781x3430/1200x675/filters:focal(2134x471:2898x1235)/cdn.vox-cdn.com/uploads/chorus_image/image/69906353/1341968229.0.jpg' width='700px' /><br/>
+Former Theranos lab director Adam Rosendorff was the second employee who testified in Elizabeth Holmes' trial who kept his work emails. Forwarding work emails to a personal account can violate a non-disclosure agreement, which Rosendorff signed when he joined the company. But, like Surekha Gangakhedkar before him, he was worried he'd be blamed for the company's problems.
+<a href='https://www.theverge.com/2021/9/24/22692600/elizabeth-holmes-theranos-bad-tests-complaints'> Source <a/>
