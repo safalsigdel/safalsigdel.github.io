@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R9xhC4NLjod07O_WRYIbO-zjum4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69904560/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter is bringing Topics to Spaces so that hosts can tag their Spaces with up to three relevant Topics, according to the Spaces Twitter account. It's a small addition to start: there are only 10 Topics to choose from, limited to English, for some people on the Android app. Twitter says it will expand to iOS and add more Topics and languages soon.
-<a href='https://www.theverge.com/2021/9/24/22691761/twitter-adds-spaces-topics-limited-android'> Source <a/>

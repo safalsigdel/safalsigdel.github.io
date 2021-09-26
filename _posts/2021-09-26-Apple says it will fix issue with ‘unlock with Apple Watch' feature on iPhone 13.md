@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y6vpwNDkflVNwGJEhYGxOKhuZ20=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69911103/acastro_20200818_1777_epicApple_0003.0.0.jpg' width='700px' /><br/>
+Apple says it has identified an issue where the “unlock with Apple Watch” feature might not work with its new iPhone 13 devices. A new note on its support page describes the problem:
+<a href='https://www.theverge.com/2021/9/26/22694679/apple-fix-issue-unlock-apple-watch-feature-iphone-13'> Source <a/>
