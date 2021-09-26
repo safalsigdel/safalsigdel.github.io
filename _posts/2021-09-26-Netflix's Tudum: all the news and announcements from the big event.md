@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CERLcSNDuRjXCQx7tGUrINWBMVw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69908339/acastro_181101_1777_netflix_0002.5.jpg' width='700px' /><br/>
+Netflix's Tudum event is set to be chock-full of news about content coming to the gigantic streaming platform. The show is scheduled to last for about three hours with announcements about Stranger Things, The Sandman, Cowboy Bebop, The Witcher, and more.
+<a href='https://www.theverge.com/2021/9/25/22693312/netflix-tudum-event-news-announcements-trailers'> Source <a/>

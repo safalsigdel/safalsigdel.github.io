@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Hfd2qfZ4HvVU2lqBK7fc5liDGJ0=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/69903239/vpavic_4412_20210111_0003.0.jpg' width='700px' /><br/>
-California will require all light-duty autonomous vehicles (AV) to emit zero emissions starting in 2030. On Thursday, Governor Gavin Newsom signed into law a bill sponsored by environmental groups that would eventually prohibit gas- and hybrid-powered autonomous vehicles from operating in the state.
-<a href='https://www.theverge.com/2021/9/24/22691410/california-autonomous-vehicles-zero-emission-2030-newsom'> Source <a/>

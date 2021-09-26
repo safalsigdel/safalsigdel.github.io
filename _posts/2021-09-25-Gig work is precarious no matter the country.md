@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M8byl6jxLUQYJAYH2bj1jdy5ht0=/0x0:3978x2687/1200x800/filters:focal(920x92:1556x728)/cdn.vox-cdn.com/uploads/chorus_image/image/69903539/1233964644.0.jpg' width='700px' /><br/>
-The lives of delivery workers in major US cities are dangerous, surprisingly expensive, and largely only possible because of the support app-based laborers offer each other. But a new editorial series from Rest of World shows that the experiences of US-based gig workers aren't unique — trying to make a living while at the whims of indifferent platforms is difficult no matter what country you're in.
-<a href='https://www.theverge.com/2021/9/24/22690606/global-gig-workers-delivery-apps-rest-of-world'> Source <a/>

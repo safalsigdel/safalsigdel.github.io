@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b6RpJCZtu8AdRfAQEBKLa8J2KTg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69903773/acastro_bitcoin_2.0.jpg' width='700px' /><br/>
-The People's Bank of China, the country's central bank, said Friday that cryptocurrency transactions are illegal, saying such currencies “do not have legal tender status” and therefore “cannot be circulated as currency in the market.”
-<a href='https://www.theverge.com/2021/9/24/22691472/china-central-bank-cryptocurrency-illegal-bitcoin'> Source <a/>

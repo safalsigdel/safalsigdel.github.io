@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yie3CzzC8a3TraD-O9bqNBF-Qoo=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69902683/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-Thousands of scientific studies had to toss out weeks of data because of a 56-second TikTok video by a teenager.
-<a href='https://www.theverge.com/2021/9/24/22688278/tiktok-science-study-survey-prolific'> Source <a/>
