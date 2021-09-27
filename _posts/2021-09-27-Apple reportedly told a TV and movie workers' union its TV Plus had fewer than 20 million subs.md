@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8o_9l7Is_KDH9Ipqmqrgk6NqX8k=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/69907527/1233058085.0.jpg' width='700px' /><br/>
-Apple told the International Alliance of Theatrical Stage Employees (IATSE) that its Apple TV Plus streaming platform had fewer than 20 million subscribers, which allowed it to pay lower rates to IATSE workers than bigger streaming platforms, CNBC reported.
-<a href='https://www.theverge.com/2021/9/25/22692966/apple-plus-tv-movie-streaming-workers-union-fewer-than-20-million-subscribers'> Source <a/>
