@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yKbfxYQNBtfWolZekbXVrWgpk08=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69914120/acastro_190919_1777_instagram_0003.0.0.jpg' width='700px' /><br/>
+Instagram says it's “pausing” development of what's been dubbed “Instagram Kids” — a version of the photo-sharing app aimed at children under 13. Instagram chief Adam Mosseri announced the news in a blog post today, saying that the Facebook-owned company would continue to work on parental-supervised experiences for younger users.
+<a href='https://www.theverge.com/2021/9/27/22696039/facebook-instagram-kids-app-pause-development-criticism'> Source <a/>

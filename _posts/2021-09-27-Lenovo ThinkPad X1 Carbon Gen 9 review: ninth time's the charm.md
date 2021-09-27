@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vKoD8XqCFazKPB4wodfx84Diy08=/0x0:2040x1360/1200x675/filters:focal(840x620:1166x946)/cdn.vox-cdn.com/uploads/chorus_image/image/69914647/akrales_210824_4723_0021.0.jpg' width='700px' /><br/>
+It makes me feel very old to say this, but we are on the ninth generation of Lenovo's ThinkPad X1 Carbon. And there have been nine of these for a reason. The X1 Carbon has historically been one of the best business laptops you can get. And that remains the case with its newest iteration. Lenovo has made a few tweaks, but otherwise, it's the same ThinkPad excellence we've come to expect.
+<a href='https://www.theverge.com/22691965/lenovo-thinkpad-x1-carbon-gen-9-review-design-specs-price-features'> Source <a/>

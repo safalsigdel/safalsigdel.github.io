@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VYIyU1Ow5X5p615CSmnRpaaRQpc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69914537/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
+Amazon is holding its annual fall hardware event on Tuesday, September 28th starting at 12PM ET / 9AM PT. It's invite-only, and while Amazon said it would share news about “devices, features and services,” it's not elaborating on which product lines might get updates or what new devices could be revealed.
+<a href='https://www.theverge.com/2021/9/27/22692301/amazon-hardware-event-what-to-expect-rumors-announcements'> Source <a/>

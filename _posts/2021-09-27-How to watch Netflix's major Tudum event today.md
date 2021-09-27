@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yNClk5V06xGyVGFtnKf7tcvGQTM=/0x0:2876x1538/1200x800/filters:focal(1208x539:1668x999)/cdn.vox-cdn.com/uploads/chorus_image/image/69907150/Screen_Shot_2021_09_23_at_1.40.26_PM.0.png' width='700px' /><br/>
-Netflix is kicking off a massive fan event today. Tudum — named for the ubiquitous chime that plays before Netflix titles — is a global event that will feature a huge slate of news, trailers, celebrity appearances, and more. It's essentially the Lollapalooza of Netflix news, and anyone hoping to stay ahead of the streamer's biggest upcoming announcements will definitely want to tune in.
-<a href='https://www.theverge.com/2021/9/25/22690499/netflix-tudum-how-to-watch-witcher-cowboy-bebop-stranger-things'> Source <a/>
