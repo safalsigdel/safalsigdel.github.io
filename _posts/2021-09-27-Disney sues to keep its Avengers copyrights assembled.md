@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bm4G-8JhQIHCCuQKLehOnOHu-AE=/0x0:4096x2726/1200x800/filters:focal(1762x365:2416x1019)/cdn.vox-cdn.com/uploads/chorus_image/image/69904612/7845a8b610b38e85a4395b809d7764c6_4096x2726_322c95ed.0.jpeg' width='700px' /><br/>
-Disney-owned Marvel is suing relatives of Steve Ditko and other Marvel comics creators to retain control of classic characters, including Iron Man, Daredevil, Spider-Man, and Black Widow.
-<a href='https://www.theverge.com/2021/9/24/22691842/disney-marvel-sues-comic-artist-iron-man-avengers'> Source <a/>
