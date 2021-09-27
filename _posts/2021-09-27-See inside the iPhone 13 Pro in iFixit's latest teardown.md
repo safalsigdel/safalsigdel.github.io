@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g2TkL95z54UKo9Aif0JZ8eE6ZZg=/0x0:2025x1350/1200x800/filters:focal(851x513:1175x837)/cdn.vox-cdn.com/uploads/chorus_image/image/69908060/vpavic_210916_untitled_0027.0.jpg' width='700px' /><br/>
-The team at iFixit has a new teardown of the iPhone 13 Pro, finding it has an enormous battery and some small internal changes to how the components are laid out to accommodate the smaller notch on this year's models.
-<a href='https://www.theverge.com/2021/9/25/22693123/iphone-13-pro-ifixit-teardown'> Source <a/>
