@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ggJ3xY50H-pY0CXGaDEOe0zSn7k=/0x0:1780x999/1200x800/filters:focal(748x358:1032x642)/cdn.vox-cdn.com/uploads/chorus_image/image/69914811/lcimg_d2e9ab3c_4dbb_4be2_8ce9_a0c53e9e1863.0.jpg' width='700px' /><br/>
+Now that your brand-spanking-new iPhone 13 has arrived (or is on the way), it's time to start thinking about protecting your baby. After all, it's only a matter of time before your phone falls out of your pocket or makes contact with your keys, so it's worth the extra investment now to prevent future damages.
+<a href='https://www.theverge.com/22671534/best-magsafe-iphone-13-cases-iphone-pro'> Source <a/>
