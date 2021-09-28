@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GSEDJ79WWzqyizMIbJw_lZzgBjk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69915484/sokane_210125_4386_0016.0.jpg' width='700px' /><br/>
-Ford is recalling the Mustang Mach-E out of concern that the windshield and panoramic roof could leak or, worse, come flying off during a crash or while driving. Nearly 18,000 of the electric SUVs sold to date are at risk of the former, though Ford says only around 13,000 of them run the risk of the roof detaching.
-<a href='https://www.theverge.com/2021/9/27/22696482/ford-mustang-mach-e-glass-windshield-recall-roof'> Source <a/>

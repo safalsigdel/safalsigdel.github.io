@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z-93cXxLwoEBzVa20ZYvSraD4Ww=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69915416/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-TikTok said Monday it has passed 1 billion monthly users. It's a remarkable number for a platform launched in August 2018 that has been scrutinized by governments — including the US — that are worried about the data collection practices of its parent company, Beijing-based ByteDance.
-<a href='https://www.theverge.com/2021/9/27/22696281/tiktok-1-billion-users'> Source <a/>

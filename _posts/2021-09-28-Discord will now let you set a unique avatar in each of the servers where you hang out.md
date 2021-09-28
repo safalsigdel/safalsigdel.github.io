@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PX5OfpqE9BEf0ez03wix9QauZx0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69915608/acastro_200318_1777_discord_0001.0.0.jpg' width='700px' /><br/>
-Messaging app Discord announced today that its premium Nitro tier will now allow subscribers to use a different avatar on each of their servers. The option to “change nickname” in the app has been changed to “edit server profile.” That's where you'll be able to change both your nickname and server avatar, so if you use multiple servers — as a lot of Discord users do — you can keep each identity separate and unique.
-<a href='https://www.theverge.com/2021/9/27/22694834/discord-unique-avatar-nickname-servers-gaming-events'> Source <a/>

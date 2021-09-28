@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xbJIHzmEw4u5L4-GW1IUqU6R_uE=/0x0:1920x1080/1200x800/filters:focal(700x221:1006x527)/cdn.vox-cdn.com/uploads/chorus_image/image/69915390/LNX_Concert_Old_Town_Road.0.png' width='700px' /><br/>
-Virtual world-building platform Roblox has settled a lawsuit with the National Music Publishers' Association (NMPA) and is negotiating potential deals with individual music publishers. Roblox announced the news this morning, saying it was “committed to partnering with the music industry.”
-<a href='https://www.theverge.com/2021/9/27/22696387/roblox-nmpa-lawsuit-settlement-music-piracy-licensing-negotiations'> Source <a/>

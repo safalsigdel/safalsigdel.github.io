@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_g6AGxt5J87wrFLz884ojq90iZM=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/69919592/clubhousenewlogo.0.jpg' width='700px' /><br/>
+Hello, hello. Welcome to week two of Hot Pod under The Verge, although I should probably count this as the first official Tuesday Hot Pod, given that last week was all mission statement and little fun. Today, I go deeper into a story I published this morning about Clubhouse's sponsorship woes and look over some quick news. Let's get going.
+<a href='https://www.theverge.com/2021/9/28/22697557/clubhouse-creators-hot-pod-newsletter-free-edition'> Source <a/>

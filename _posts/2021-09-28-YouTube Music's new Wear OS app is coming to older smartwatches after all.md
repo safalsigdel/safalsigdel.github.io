@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0UHWsWtQe4QaUc8D8k8fdEHZxLA=/0x138:1000x857/1200x800/filters:focal(420x420:580x580)/cdn.vox-cdn.com/uploads/chorus_image/image/69914928/4._YouTube_Music.max_1000x1000.0.jpg' width='700px' /><br/>
-YouTube Music's Wear OS app is rolling out to a handful of older Wear OS 2 smartwatches from the likes of Fossil, Michael Kors, and Mobvoi starting this week, after previously launching exclusively on Samsung's new Wear OS 3-powered Galaxy Watch 4 smartwatch. The app lets YouTube Music Premium subscribers download songs to compatible smartwatches and listen to music offline without needing a paired phone.
-<a href='https://www.theverge.com/2021/9/27/22695976/youtube-music-wear-os-2-app-offline-downloads'> Source <a/>

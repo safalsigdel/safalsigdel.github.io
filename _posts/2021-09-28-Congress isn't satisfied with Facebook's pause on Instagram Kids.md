@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5YWTOYLXHlmPFNj2bE6hueUvNvQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69915703/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
-Facebook announced that it would be “pausing” work on its Instagram for kids app on Monday after weeks of growing pressure from lawmakers and advocacy groups to scrap the app. But many lawmakers aren't satisfied with the pause, calling on Facebook to stop development entirely.
-<a href='https://www.theverge.com/2021/9/27/22696698/facebook-instagram-for-kids-mosseri-markey-blumenthal-blackburn-pause'> Source <a/>

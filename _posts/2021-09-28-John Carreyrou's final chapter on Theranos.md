@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mb6TPCG0WB6UmfISS6Ai7TtEKuc=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69919653/VRG_Decoder_JohnCarreyrou_s.0.jpg' width='700px' /><br/>
+If you're a Decoder listener, it's a pretty sure bet that you've heard of Theranos and its charismatic, troubled founder Elizabeth Holmes. Holmes convinced a long list of major investors and companies to give her huge amounts of money, all on the back of her claims that the Theranos technology could do hundreds of blood tests with just a tiny sample of blood — a pinprick.
+<a href='https://www.theverge.com/2021/9/28/22697263/john-carreyrou-theranos-elizabeth-holmes-decoder'> Source <a/>
