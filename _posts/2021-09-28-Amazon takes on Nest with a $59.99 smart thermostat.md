@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5X-vasvIOBF7rfaHaQOz3uC831w=/0x0:1496x862/1200x800/filters:focal(629x312:867x550)/cdn.vox-cdn.com/uploads/chorus_image/image/69920655/image__6_.0.png' width='700px' /><br/>
+Amazon revealed its excitement over the “promise of ambient computing” with a new smart thermostat. Similar to others we've seen from companies like Nest, it will automatically adjust your indoor environment when it detects that you're home and based on other learned preferences. The company says it developed the new device in partnership with Honeywell Home and confirmed it's ready to work with “most existing HVAC systems.”
+<a href='https://www.theverge.com/2021/9/28/22692248/amazon-smart-thermostat-price-ambient-computer-alexa-preorder'> Source <a/>
