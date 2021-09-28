@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/I6E90hwIcMKC7Zb6hoUZCH-JWPc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69914567/vpavic_200616_4067_0032.0.jpg' width='700px' /><br/>
-When Amazon announces new products in the fall, it often does it in bulk — fitting for a retailer, maybe, but harder to discern what's what and which new products are most worthy of your attention. The Verge will try and help with that. We anticipate Amazon announcing a variety of new products coming to its Echo, Fire, and Ring lineups on September 28th.
-<a href='https://www.theverge.com/2021/9/27/22690309/amazon-fall-hardware-event-rumors-news-announcements'> Source <a/>
