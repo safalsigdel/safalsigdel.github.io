@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/L49tB-_vVFfweXUliZ0R8rffWqc=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/69918844/snw.0.jpg' width='700px' /><br/>
-Nintendo has confirmed plans to expand Super Nintendo World, its recently opened theme park at Universal Studios Japan in Osaka, with a new Donkey Kong area. The news doesn't exactly come as a surprise — construction already appears to have been underway for some time.
-<a href='https://www.theverge.com/2021/9/28/22697850/super-nintendo-world-donkey-kong-area-confirmed'> Source <a/>

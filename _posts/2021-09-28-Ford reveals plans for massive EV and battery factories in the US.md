@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2Tt5Bd8L3UhsxDDvKj_WkSk3JXs=/0x0:2160x1215/1200x800/filters:focal(908x436:1252x780)/cdn.vox-cdn.com/uploads/chorus_image/image/69917847/Blue_Oval_City_16x9_02.0.jpg' width='700px' /><br/>
-Ford and South Korean battery manufacturer SK Innovation will spend a combined $11.4 billion to build several new factories in the Tennessee and Kentucky focused on the development and production of electric vehicles and the batteries that power them.
-<a href='https://www.theverge.com/2021/9/27/22696427/ford-ev-battery-factory-tennessee-kentucky-investment'> Source <a/>
