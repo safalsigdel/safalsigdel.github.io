@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/krVkKySCoiRXKuAt01y3MSwvlpI=/0x0:3000x2000/1200x675/filters:focal(1574x1110:2054x1590)/cdn.vox-cdn.com/uploads/chorus_image/image/69921027/amazon_astro_home_robot_4773_8.0.jpg' width='700px' /><br/>
+In the fall of 1962, TV-watching audiences were invited to meet the Jetsons, a space-dwelling, flying-car-driving family from the future and their dog, Astro. Today, Amazon wants you to meet a different Astro, one that's not quite as fantastical or futuristic as the Jetsons, but actually available in our present.
+<a href='https://www.theverge.com/2021/9/28/22697244/amazon-astro-home-robot-hands-on-features-price'> Source <a/>

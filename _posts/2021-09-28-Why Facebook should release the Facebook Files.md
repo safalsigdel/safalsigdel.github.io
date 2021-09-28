@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MFQDbz8xxCpK2NegE0bXTwxU36E=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69919080/VRG_ILLO_4033_007.0.jpg' width='700px' /><br/>
-The fallout from The Wall Street Journal's Facebook Files series continues. On Sunday, the company published a point-by-point rebuttal to the Journal's story on Instagram's effects on teenage girls — and then on Monday morning, the company said it would “pause” plans to build Instagram Kids while it consults with more outside groups. A Senate hearing looms on Thursday.
-<a href='https://www.theverge.com/22697786/why-facebook-should-release-the-facebook-files'> Source <a/>

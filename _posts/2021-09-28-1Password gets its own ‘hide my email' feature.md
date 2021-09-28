@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wG_vjVQvzBjM7czGfm5_Z6TV2Sc=/0x0:2540x1520/1200x0/filters:focal(0x0:2540x1520):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22884213/3_Suggested_password.png' width='700px' /><br/>
-1Password is launching a new feature to let users create unique email aliases for logins, much like Apple's iCloud Plus Hide My Email function. 1Password is partnering with Fastmail to bring its masked email feature to the password manager, giving all users the option of hiding their email addresses from apps and services.
-<a href='https://www.theverge.com/2021/9/28/22698013/1password-hide-my-email-feature-fastmail-integration'> Source <a/>
