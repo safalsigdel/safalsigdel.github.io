@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZHQGBfCHTaKVQl8jY8TigEtGnxU=/0x0:767x431/1200x800/filters:focal(242x159:364x281)/cdn.vox-cdn.com/uploads/chorus_image/image/69921233/amazon_blnk_doorbell.0.jpg' width='700px' /><br/>
+Amazon has released a few new products from Blink since acquiring the Kickstarter smart home security darling in 2017, and today during its fall event it added three new items to the lineup that are made to mind your various entry points.
+<a href='https://www.theverge.com/2021/9/28/22698612/amazon-blink-video-doorbell-outdoor-camera-floodlight-solar-panel'> Source <a/>
