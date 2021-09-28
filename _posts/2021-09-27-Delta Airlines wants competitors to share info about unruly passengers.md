@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZFxNUyJ4gEq5dbdSR-ZWP-mv2bs=/0x0:5300x3533/1200x800/filters:focal(2226x1343:3074x2191)/cdn.vox-cdn.com/uploads/chorus_image/image/69908213/1232127899.0.jpg' width='700px' /><br/>
-Delta Airlines said in a pair of internal memos to employees this week that it's asked competitors to share their no-fly lists, to try to keep passengers who cause disturbances on planes from bringing their mayhem to other airlines.
-<a href='https://www.theverge.com/2021/9/25/22693230/delta-airlines-share-no-fly-list-unruly-passengers-faa'> Source <a/>

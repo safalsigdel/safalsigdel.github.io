@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g6haELgz74UHpwSe9ptEFhnyDHI=/0x0:2560x1440/1200x0/filters:focal(0x0:2560x1440):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22880730/RE4_SCREENSHOTS_MENDEZ_SHOTGUN_003_2560X1440_Legal.jpg' width='700px' /><br/>
-A virtual reality version of Resident Evil 4 will launch October 21st on Facebook's Oculus Quest 2 headset.
-<a href='https://www.theverge.com/2021/9/27/22692268/resident-evil-4-vr-capcom-oculus-quest-2-release-date'> Source <a/>

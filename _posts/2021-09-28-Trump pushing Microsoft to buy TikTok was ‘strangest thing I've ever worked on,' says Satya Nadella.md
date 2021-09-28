@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Co0YeTbcm0-yS43n5b_ABZxV9xg=/0x0:4176x2784/1200x800/filters:focal(1754x1058:2422x1726)/cdn.vox-cdn.com/uploads/chorus_image/image/69918453/REC_ASA2_CODE21_20210927_182752_0069.0.jpg' width='700px' /><br/>
+It's difficult to remember now, but in August 2020 there was a deeply surreal episode wherein Microsoft proposed acquiring some portion of TikTok in a complicated deal as the Trump administration was threatening to come down hard on the platform. Ultimately, TikTok turned Microsoft down just a day before Oracle came in with an entirely different kind of deal and the whole thing dissipated.
+<a href='https://www.theverge.com/2021/9/27/22697565/microsoft-ceo-satya-nadella-tiktok-acquisition-drama-strangest-thing'> Source <a/>

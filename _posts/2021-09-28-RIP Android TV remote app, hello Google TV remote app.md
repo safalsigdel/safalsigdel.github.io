@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1ztFRIkeCSEoirCelEAIobu8360=/0x0:1080x1080/1200x800/filters:focal(454x454:626x626)/cdn.vox-cdn.com/uploads/chorus_image/image/69916956/AFS_01A_VirtualRemote_IJ_Realistic_1x1_Frame_11.0.png' width='700px' /><br/>
+Google is killing its older Android TV remote. The move follows the company's launch of its long-awaited Google TV remote app last week.
+<a href='https://www.theverge.com/2021/9/27/22697167/android-tv-remote-google-tv-remote-app'> Source <a/>

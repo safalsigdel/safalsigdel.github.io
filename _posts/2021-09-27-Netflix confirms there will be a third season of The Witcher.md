@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/83VitxKRrXH_YQ8WmTI0oqcaOpg=/0x0:2018x1387/1200x800/filters:focal(848x533:1170x855)/cdn.vox-cdn.com/uploads/chorus_image/image/69908494/Screen_Shot_2021_09_24_at_2.05.59_PM.0.png' width='700px' /><br/>
-At its big Tudum event, Netflix confirmed that it will make a third season of The Witcher. No other details were shared, so we don't know when we might expect it just yet. Netflix also said that it would continue to expand The Witcher with a second anime film and, surprisingly, a series designed for kids and families.
-<a href='https://www.theverge.com/2021/9/25/22692068/netflix-tudum-season-3-anime-film-kids-family-series'> Source <a/>

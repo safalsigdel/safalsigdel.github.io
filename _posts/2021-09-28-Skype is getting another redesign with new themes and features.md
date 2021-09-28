@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/F2s3dEEgNEVbZyEBBwkycQCxbhQ=/0x0:2000x1348/1200x800/filters:focal(840x514:1160x834)/cdn.vox-cdn.com/uploads/chorus_image/image/69915978/macbook_pro_mockup.0.jpg' width='700px' /><br/>
+Skype's had more redesigns in the past five years than I've had hot dinners, but Microsoft is still ready to try and tweak things once again. The software maker is teasing plans for an “improved, faster, reliable, and super modern-looking Skype.” Microsoft says it has been listening to feedback and, over the next few months, will start rolling out changes to modernize Skype.
+<a href='https://www.theverge.com/2021/9/27/22696716/skype-new-design-themes-calling-features-updates'> Source <a/>

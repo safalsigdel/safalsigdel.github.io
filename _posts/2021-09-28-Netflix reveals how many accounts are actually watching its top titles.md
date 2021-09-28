@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HKLlGb2qrISg3mZQq-_wsW74nA4=/0x0:1600x1066/1200x800/filters:focal(672x405:928x661)/cdn.vox-cdn.com/uploads/chorus_image/image/69917513/REC_ASA3_CODE21_20210927_143331_0193_X3.5.jpeg' width='700px' /><br/>
+During this year's Code conference, Netflix co-CEO and chief content officer Ted Sarandos shared a significant haul of data about some of the streaming giant's top titles — a rare move for a company that traditionally holds numbers close to the chest.
+<a href='https://www.theverge.com/2021/9/27/22697364/netflix-viewing-data-code-2021'> Source <a/>

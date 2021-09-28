@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tkrkEY-pX2WqAqctynMlQImxtq0=/0x0:1000x414/1200x800/filters:focal(420x127:580x287)/cdn.vox-cdn.com/uploads/chorus_image/image/69916549/Collage_cover_1_YAP7dMt.max_1000.0.jpg' width='700px' /><br/>
+Google has created new images designed to be used for your Google profile picture, the company announced Monday. The new images, called Google Illustrations, look quite nice, and they could also be useful for people who want to associate an image with their account but don't want to use a photo of themselves.
+<a href='https://www.theverge.com/2021/9/27/22696925/google-illustrations-gmail-avatar-workspace-contacts-android-profile-pic'> Source <a/>
