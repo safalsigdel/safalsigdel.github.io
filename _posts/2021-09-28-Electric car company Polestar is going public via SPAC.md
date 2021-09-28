@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_Lu8dGhOE11JsbaoPg82Nr4FN4E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69914755/ahawkins_20210321_4490_0009.0.jpg' width='700px' /><br/>
-Polestar, the Swedish electric car company that is a joint venture between Volvo and Geely, is going public by merging with a special purpose acquisition company, or SPAC. Polestar is the latest EV company — and futuristic transportation company — to go public via a reverse merger with a so-called “blank check” company.
-<a href='https://www.theverge.com/2021/9/27/22696139/polestar-spac-public-value-ev-startup-volvo-geely'> Source <a/>
