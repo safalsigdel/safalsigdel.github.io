@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RF3tbjzOICQ9qx92rnaodsqe2yM=/0x0:1570x1047/1200x800/filters:focal(660x399:910x649)/cdn.vox-cdn.com/uploads/chorus_image/image/69918952/mxkeysminihero.0.jpg' width='700px' /><br/>
+Logitech's MX Keys Mini is a compact, platform-agnostic wireless keyboard that lacks the numpad found on the standard MX Keys. It costs the same amount at $99.99 despite its smaller size, yet there might be enough additions to make this one the preferable option (you know, if spending $100 on a keyboard is feasible).
+<a href='https://www.theverge.com/2021/9/28/22687565/logitech-mx-keys-mini-wireless-keyboard-features-price-colors'> Source <a/>
