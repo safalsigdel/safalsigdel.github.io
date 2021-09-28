@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cfOLAeUDbKf4gbLh7mo2AB2gqEU=/0x0:960x540/1200x800/filters:focal(410x194:562x346)/cdn.vox-cdn.com/uploads/chorus_image/image/69919063/Wh2Fsww.0.jpeg' width='700px' /><br/>
-Popular image-sharing site Imgur has been acquired by MediaLab, a Santa Monica-based firm that describes itself as a “holding company of consumer internet brands.” The company owns a number of B-list tech and internet services, including messaging apps Kik and Whisper, lyrics annotator Genius, and viral video aggregator WorldStarHipHop.
-<a href='https://www.theverge.com/2021/9/28/22697957/imgur-acquisition-medialab-kik-genius-whisper-worldstarhiphop'> Source <a/>
