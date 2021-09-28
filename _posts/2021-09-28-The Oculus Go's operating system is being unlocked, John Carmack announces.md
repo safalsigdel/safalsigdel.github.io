@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pFqsjr3I2DSy-aynRlc8-xN1ddM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69914461/akrales_180426_2494_0175.0.jpg' width='700px' /><br/>
-Facebook is unlocking the bootloader of its discontinued Oculus Go headset and giving users full root access. That means the headset will remain useful long after official support ends. The move was announced by Oculus' consulting CTO John Carmack, who stepped down from his full-time role as CTO in 2019 to focus on his work as an independent AI researcher.
-<a href='https://www.theverge.com/2021/9/27/22696030/oculus-go-root-access-unlocked-os-homebrew-developers-john-carmack'> Source <a/>
