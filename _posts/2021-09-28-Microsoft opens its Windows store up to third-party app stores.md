@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q3btUi9C1PPlONRQEMTY1epva2Y=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/69920545/Store_Home_Standalone_1_1600x900.0.jpg' width='700px' /><br/>
+Microsoft is opening up its own app store in Windows even further today, inviting third-party app stores to integrate into the Microsoft Store. It's a significant change that will see both Amazon and Epic Games Store discoverable in the Microsoft Store in the coming months.
+<a href='https://www.theverge.com/2021/9/28/22698196/microsoft-store-third-party-app-stores-epic-games-amazon'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9686/vpavic_210924_4766_0010.jpg' width='700px' /><br/>
-The complete redesign of the $499 2021 iPad Mini has a lot of people taking a second look at it — myself included. The allure of a smaller iPad appeals to more than just the pilots and doctors Apple cites as popular users. It appeals to me. The iPad Mini occupies a middle space between the phone and full-size iPads, which turns out to be exactly what I'm looking for.
-<a href='https://www.theverge.com/22696652/ipad-mini-2021-6th-gen-review'> Source <a/>
