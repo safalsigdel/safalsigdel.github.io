@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WYTizIvKZYQU8KBPTC4nFjGcwUI=/0x0:4928x3264/1200x800/filters:focal(379x1042:1167x1830)/cdn.vox-cdn.com/uploads/chorus_image/image/69919247/1006824744.0.jpg' width='700px' /><br/>
+VR arcade company The Void, which offered large-scale virtual reality experiences before financial difficulties forced it to transfer its IP to a creditor late last year, is planning to make a comeback. Protocol reports that the company's assets have been acquired by a new company called Hyper Reality Partners, headed by a former investor.
+<a href='https://www.theverge.com/2021/9/28/22698004/the-void-vr-virtual-reality-arcade-comeback-hyper-reality-partners'> Source <a/>
