@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OvpQgiU4LXPeR6BwePiZ-9wRxvw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69925722/acastro_210309_1777_vaccine_0002.0.jpg' width='700px' /><br/>
+In a new attempt to stem the flow of anti-vaccine misinformation, YouTube said Wednesday that it won't allow videos that claim vaccines approved by health authorities are dangerous or don't work. The platform is also banning prominent anti-vaccine accounts, including Joseph Mercola's channel and the Robert F. Kennedy Jr.-linked Children's Defense Fund.
+<a href='https://www.theverge.com/2021/9/29/22700171/youtube-vaccine-misinformation-antivax-ban'> Source <a/>

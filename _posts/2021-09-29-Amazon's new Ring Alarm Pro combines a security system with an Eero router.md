@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nyr9qznH8ZMgGtVQqQB5DkxLuK8=/0x0:3840x2160/1200x675/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69920855/20210621_us_lifestyle_insitu_alarmpro_keypad_credenza_rgb_16x9.0.jpg' width='700px' /><br/>
-Smart home company Ring has announced the third generation of its popular budget Ring Alarm home security product. The Ring Alarm Pro is a single device combining Ring's security system with an Eero Wi-Fi router, 24/7 internet backup, and local processing and storage for Ring cameras.
-<a href='https://www.theverge.com/2021/9/28/22692073/ring-alarm-pro-amazon-event-release-date-specs-price-features'> Source <a/>
