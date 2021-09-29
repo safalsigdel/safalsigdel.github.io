@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Egw-p9aYZby0cfiE9vanHSLl7ZQ=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/69921120/echo_show_15_media_lifestyle_14.5.png' width='700px' /><br/>
-Amazon just wrapped its fall devices event, and it was chock-full of news, including new Echo devices, new Ring products and services, and even a home assistant robot named Astro. It was a lot.
-<a href='https://www.theverge.com/2021/9/28/22692147/amazon-devices-event-echo-ring-biggest-announcements'> Source <a/>

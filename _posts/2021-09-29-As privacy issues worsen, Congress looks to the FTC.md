@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/c_Ec1fdO_e2N_QY4-WH3WcNvy4c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69924998/acastro_190204_1777_privacy_0002.0.jpg' width='700px' /><br/>
+Lawmakers are preparing to hold the first in a series of data privacy hearings on Wednesday in a fresh effort to bolster consumer data protections on platforms like Facebook, Twitter, and Google.
+<a href='https://www.theverge.com/2021/9/29/22699202/data-privacy-facebook-google-congress-senate-reconciliation-infrastructure'> Source <a/>
