@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ILa2eYaVGP9CSIWJv8zJFu29k0Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69920873/dseifert_20210323_4486_0003.0.jpg' width='700px' /><br/>
-Ring is bringing package alerts to its Ring video doorbells, and it's about time, too. This is a much-requested feature that's already found on most of its competitors' camera doorbell offerings. When the main selling point for a product is that it will deter porch pirates, it's kind of important to be able to keep a virtual eye on those packages.
-<a href='https://www.theverge.com/2021/9/28/22691923/ring-video-doorbell-package-alerts-amazon-event'> Source <a/>
