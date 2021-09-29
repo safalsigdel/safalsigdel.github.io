@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/l25lOKljeAklBFRbVveMoHWQzwM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69925145/JP022_105GC.0.jpg' width='700px' /><br/>
+Jeep revealed the 2022 Grand Cherokee 4xe, the first plug-in hybrid version of the automaker's best-selling SUV. It is the second Jeep vehicle to get an electrified version, following the hybrid 2021 Wrangler 4xe released last year. Jeep also announced an off-roading version of the Grand Cherokee, the Trailhawk, which also comes with a hybrid motor.
+<a href='https://www.theverge.com/2021/9/29/22698737/jeep-grand-cherokee-4xe-plug-in-hybrid-specs'> Source <a/>
