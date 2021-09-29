@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7sLO9cRVWuCQ96gAzV80x-ZpZuw=/0x0:1779x1779/1200x800/filters:focal(1418x918:1702x1202)/cdn.vox-cdn.com/uploads/chorus_image/image/69920859/Virtual_Security_Guard.0.jpg' width='700px' /><br/>
-Ring revealed its latest ambitious security product today: real-life people watching over your home. Taking the concept of monitored security to the next level, Ring's Virtual Security Guard is a new subscription service that lets agents at a professional monitoring center respond to specific motion alerts on any outdoor Ring camera and take action for you.
-<a href='https://www.theverge.com/2021/9/28/22691951/ring-virtual-security-guard-service-amazon-price-release-date'> Source <a/>
