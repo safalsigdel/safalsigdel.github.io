@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P3Y3s7bTyuuJAxzGoURQMv7WAwc=/0x0:8000x4500/1200x800/filters:focal(3360x1610:4640x2890)/cdn.vox-cdn.com/uploads/chorus_image/image/69920667/echo_show_15_media_lifestyle_6.0.png' width='700px' /><br/>
-Amazon is once again expanding its lineup of Echo Show smart displays, and this time, it's going bigger. The new $249.99 Echo Show 15 is the largest smart display the company has released so far, with a 15-inch, 1080p HD display. It's also got a different design than the company's prior models — instead of being a touchscreen attached to a bulky speaker, the Echo Show 15 is flat and can be hung on the wall.
-<a href='https://www.theverge.com/2021/9/28/22693503/amazon-echo-show-15-smart-display-wall-price-specs-features'> Source <a/>

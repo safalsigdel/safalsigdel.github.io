@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Gn1m7ENLspOgqVUFODb4zF9RV3k=/0x0:1106x799/1200x800/filters:focal(473x223:649x399)/cdn.vox-cdn.com/uploads/chorus_image/image/69922516/SoundwaveHamaki_notext.0.jpg' width='700px' /><br/>
+Epic Games has announced the next set of musical performances coming to Fortnite, called the Soundwave Series. The new series will feature artists from around the world, and players will be able to experience music from each artist in an interactive experience in-game.
+<a href='https://www.theverge.com/2021/9/28/22699014/fortnite-soundwave-series-music-concerts-mohamed-hamaki-creative-mode'> Source <a/>

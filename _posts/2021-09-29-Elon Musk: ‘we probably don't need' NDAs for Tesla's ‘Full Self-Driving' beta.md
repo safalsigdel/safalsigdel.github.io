@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wKrrsd19KOX3kAsM3UAlIgMPyxM=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/69923197/REC_ASA3_CODE21_20210928_143813_0138.0.jpg' width='700px' /><br/>
+Tesla has been making participants in the “Full Self-Driving” beta test sign non-disclosure agreements, but CEO Elon Musk said Tuesday “we probably don't need” them.
+<a href='https://www.theverge.com/2021/9/28/22699361/elon-musk-tesla-full-self-driving-beta-nda-footage'> Source <a/>

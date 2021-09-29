@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Amazon introduced a new robot today with the face of an Echo Show, the sensor-laden body of Panera Bread delivery bot, and a pair of cupholders for a trunk. The instant it was announced, people clamored for a reason for its existence beyond “mobile camera with a cute face” and “potentially invasive surveillance drone.” Most seemed to settle on “beer fetcher.”
+<a href='https://www.theverge.com/tldr/22699251/amazon-astro-robot-cannot-fetch-your-beer'> Source <a/>

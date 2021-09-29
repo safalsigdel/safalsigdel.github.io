@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5gPuxo4gs-Riv-Zz8r2gwnRMrpU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69920539/tesla-model-x-launch-019-2040.0.0.1444151295.0.jpg' width='700px' /><br/>
-A group of Texas law enforcement officials are suing Tesla after a Model X with Autopilot engaged crashed into five police officers. The suit was first reported by KPRC 2 in Houston.
-<a href='https://www.theverge.com/2021/9/28/22698388/tesla-texas-lawsuit-cops-autopilot-crash-injury'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wpFrQ6adACJP1-iNO48IlWuoAeo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69922180/tesla.0.jpg' width='700px' /><br/>
+Tesla is making owners who opt in to the controversial beta version of its “Full Self-Driving” software sign non-disclosure agreements and is also discouraging them from sharing video clips that show the driver assistance system making mistakes.
+<a href='https://www.theverge.com/2021/9/28/22696463/tesla-fsd-beta-nda-video-clips-controversy-full-self-driving'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6TPciwAGljvQJ8vQMfgBfZvg-fc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69921472/acastro_210429_1777_0003.0.jpg' width='700px' /><br/>
+Microsoft is starting to test its Xbox Cloud Gaming (xCloud) integration with Xbox consoles today. Some Xbox Insiders in the Alpha Skip-Ahead and Alpha rings will be able to access the xCloud integration today, a feature that lets you click play on an Xbox Game Pass game and stream it immediately.
+<a href='https://www.theverge.com/2021/9/28/22698101/microsoft-xcloud-xbox-cloud-gaming-console-integration'> Source <a/>

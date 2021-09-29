@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7HKJVsfxRn5BBaWeBHP7w6Sy0hU=/0x0:1400x926/1200x800/filters:focal(588x351:812x575)/cdn.vox-cdn.com/uploads/chorus_image/image/69920042/1_WvaNRYj4C7k_diYdW2VOSQ.0.png' width='700px' /><br/>
-Woven Planet Holdings, a subsidiary of Toyota, acquired Renovo Motors, a startup that makes operating systems for autonomous vehicles. It's the latest acquisition that aims to accelerate Toyota's mission to develop autonomous vehicles with connected software. The terms of the deal were not disclosed.
-<a href='https://www.theverge.com/2021/9/28/22698129/toyota-woven-planet-renovo-acquisition-av-operating-system'> Source <a/>

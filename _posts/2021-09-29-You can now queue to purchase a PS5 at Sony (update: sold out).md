@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jSXEd283vHL5EWam6ks0ESNDpqI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69923000/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
+Update September 28th, 6:52PM ET: Sony has sold out of the PS5 and PS5 Digital Edition for the day. We'll make sure to let you know when the next opportunity comes up.
+<a href='https://www.theverge.com/2021/9/28/22667659/sony-direct-playstation-ps5-digital-edition-restock-order-queue-sale'> Source <a/>

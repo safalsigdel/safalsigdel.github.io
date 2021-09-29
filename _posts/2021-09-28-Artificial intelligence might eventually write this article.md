@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qtEqMQtrs9mWFaPoSqPEAeFsPSk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69920193/VRG_ILLO_3180_AI_001.0.jpg' width='700px' /><br/>
-I hope my headline is an overstatement, purely for job purposes, but in this week's Vergecast artificial intelligence episode, we explore the world of large language models and how they might be used to produce AI-generated text in the future. Maybe it'll give writers ideas for the next major franchise series, or write full blog posts, or, at the very least, fill up websites with copy that's too arduous for humans to do.
-<a href='https://www.theverge.com/2021/9/28/22696041/artificial-intelligence-ai-gpt-3-writer-podcast-vergecast'> Source <a/>

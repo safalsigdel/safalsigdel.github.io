@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cKBmaL2BUAVzN4PBnfy0LInswyE=/0x0:1054x592/1200x800/filters:focal(443x212:611x380)/cdn.vox-cdn.com/uploads/chorus_image/image/69920788/gvkU6ndVnA.0.png' width='700px' /><br/>
-During its big hardware and announcement event today, Amazon revealed some exciting news for those of us who prefer linear viewing: Sling TV is coming to all existing Echo Show devices.
-<a href='https://www.theverge.com/2021/9/28/22698552/amazon-sling-tv-echo-show-devices'> Source <a/>
