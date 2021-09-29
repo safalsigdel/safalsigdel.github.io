@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MLr3iDy1_BtlJRJjr05cWvx4zPU=/0x0:2504x1064/1200x800/filters:focal(1052x332:1452x732)/cdn.vox-cdn.com/uploads/chorus_image/image/69925915/Facebook_Reels_Experience_20_0.0.jpg' width='700px' /><br/>
+A little over a month after Facebook announced a test blending Instagram Reels' short-form video content with its main Facebook app, the company is ready to roll it out fully in the US. Now, the creators who use it can create reels on Facebook, and Facebook is testing suggestions that will push the videos to its users.
+<a href='https://www.theverge.com/2021/9/29/22700289/facebook-reels-instagram-play-bonus-tiktok'> Source <a/>
