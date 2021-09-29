@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JgeRpap8ci7w7TRQDx3CXxlfz-g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69924589/akrales_190528_3450_0047.0.jpg' width='700px' /><br/>
+Valve could have a second VR headset in development with a standalone design similar to what's currently offered by Facebook's lineup of Oculus Quest headsets. Evidence for the new headset was brought to light by YouTuber Brad Lynch. He found multiple references in Valve's SteamVR code to a device codenamed “Deckard” which he then cross-referenced against the company's recent patent applications.
+<a href='https://www.theverge.com/2021/9/29/22699914/valve-deckard-standalone-vr-headset-prototype-development'> Source <a/>

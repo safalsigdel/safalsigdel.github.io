@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rD5NayWPgGllhQ8fRVQVC7vaRGw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69920883/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
-It has only been a few months since Netflix confirmed plans to include games as part of its subscription, and after an initial test in Poland, the streamer is opening its selection of Android titles to customers in Spain and Italy. While Netflix has had some promotional titles before, with tie-ins recently revealed for everything from Oculus VR to PC gamers on Steam, this experience is built directly into its app.
-<a href='https://www.theverge.com/2021/9/28/22689922/netflix-games-italy-spain-android-beta-mobile'> Source <a/>

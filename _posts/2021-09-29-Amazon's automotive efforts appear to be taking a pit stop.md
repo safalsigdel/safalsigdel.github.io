@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xz3iZlqPr7ZFdWGdZFpHB2LIM5U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69924541/vpavic_190730_3575_0051.0.jpg' width='700px' /><br/>
+Amazon laid out its plans to make ambient computing an even bigger part of its customers' lives at its hardware and services event on Tuesday. But while that vision includes surveillance drones and being followed around your home by a rolling Alexa-on-wheels called Astro, it was missing products for the other place people spend a lot of their time — their cars.
+<a href='https://www.theverge.com/2021/9/29/22699342/amazon-echo-auto-ring-car-alarm-cam-security-alexa'> Source <a/>

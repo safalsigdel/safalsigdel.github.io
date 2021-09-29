@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6b3WJactmg9I1MRPwOpQm2yx_Tg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69921007/acastro_180329_1777_amazon_0001.0.jpg' width='700px' /><br/>
-Amazon is announcing a new subscription service called Alexa Together today during its invite-only fall hardware event. The company's new $19.99 per month service offers the same features as the free Alexa Care Hub with new additions. Amazon plans to eventually replace its existing tools for caring for family members remotely with Alexa Together in 2022.
-<a href='https://www.theverge.com/2021/9/28/22686948/alexa-together-caregiving-amazon-echo-subscription'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YTvbW9p1KyZJpZOdP25Kyd0C11A=/0x0:3860x3088/1200x800/filters:focal(1295x1087:1911x1703)/cdn.vox-cdn.com/uploads/chorus_image/image/69924464/WiThings_Horizon_Retouch_CHOIX_MESURE_BLUE_SPO2.0.png' width='700px' /><br/>
+The ScanWatch Horizon is Withings' latest hybrid smartwatch to combine a digital display with a traditional mechanical format. You buy a Withings because you hate the look of typical health-focused wearables and abhor the bombardment of notifications that plague other smartwatches.
+<a href='https://www.theverge.com/2021/9/29/22697955/withings-scanwatch-horizon-sleep-apnea-afib-smartwatch'> Source <a/>
