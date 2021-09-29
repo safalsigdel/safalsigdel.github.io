@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mutCKf_ocf46b88-T4wnSY-stmc=/0x0:3840x1610/1200x800/filters:focal(1613x498:2227x1112)/cdn.vox-cdn.com/uploads/chorus_image/image/69925958/huc2_ff_003556_19dc1374.0.jpeg' width='700px' /><br/>
+Disney's The Book of Boba Fett, a new show focused on the iconic Star Wars bounty hunter, will premiere on Disney Plus on December 29th, Disney announced Wednesday.
+<a href='https://www.theverge.com/2021/9/29/22700329/disney-plus-the-book-of-boba-fett-star-wars-release-date'> Source <a/>
