@@ -1,0 +1,3 @@
+<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
+Google is updating its visual search tool Google Lens with new AI-powered language features. The update will let users further narrow searches using text. So, for example, if you snap a photo of a paisley shirt in order to find similar items online using Google Lens, you can add the command “socks with this pattern” to specify the garments you're looking for.
+<a href='https://www.theverge.com/2021/9/29/22698014/google-lens-update-text-search-desktop-chrome'> Source <a/>

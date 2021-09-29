@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ud8IKzXhzIZ_aIt9L0V5fZWR_nA=/0x0:1292x720/1200x800/filters:focal(543x257:749x463)/cdn.vox-cdn.com/uploads/chorus_image/image/69922840/Sreens_CYMK_House.0.0.png' width='700px' /><br/>
-Netflix is continuing its push into video games with the acquisition of Night School Studio, the team best-known for 2016's Oxenfree and 2019's Afterparty. (Oxenfree, it should be noted, had strong Stranger Things vibes — and Night School also previously worked on a canceled Stranger Things title.)
-<a href='https://www.theverge.com/2021/9/28/22699241/netflix-night-school-acquisition-oxenfree'> Source <a/>
