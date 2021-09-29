@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4xUj76rGDb7DM41kl90mkG7Zcfs=/0x0:2052x1320/1200x800/filters:focal(862x496:1190x824)/cdn.vox-cdn.com/uploads/chorus_image/image/69923006/FAZxtkCVgAEXlov.0.jpg' width='700px' /><br/>
-Elon Musk isn't happy that fellow mega-billionaire Jeff Bezos keeps suing to stop SpaceX's projects, and he shared a message for the Amazon founder during the 2021 Code Conference on Tuesday: “you cannot sue your way to the Moon, no matter how good your lawyers are.”
-<a href='https://www.theverge.com/2021/9/28/22699254/musk-bezos-spacex-blue-origin-code-confernce-2021'> Source <a/>
