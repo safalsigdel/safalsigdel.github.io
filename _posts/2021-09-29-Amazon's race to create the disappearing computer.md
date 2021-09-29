@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S0BalJpOQrjgtDxLFHfUzsNkAVg=/0x0:4000x2667/1200x675/filters:focal(1078x769:1718x1409)/cdn.vox-cdn.com/uploads/chorus_image/image/69921061/1171145260.0.jpg' width='700px' /><br/>
-For his last column in 2017, Walt Mossberg predicted that technology would fade into the background, and so-called “ambient computing” would become ubiquitous. Four years later, we are well on our way — but what exactly that term means for how computers will work and how we'll live is still very much up in the air.
-<a href='https://www.theverge.com/22696187/amazon-alexa-ambient-disappearing-computer-limp-interview'> Source <a/>
