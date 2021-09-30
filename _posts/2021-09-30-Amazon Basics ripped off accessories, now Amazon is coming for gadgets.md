@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D3--bl62hdIWL1XK70PjS5l-_-8=/0x0:894x596/1200x800/filters:focal(376x227:518x369)/cdn.vox-cdn.com/uploads/chorus_image/image/69932394/amazon_halo_view.0.jpg' width='700px' /><br/>
+In the image above there are two wearables. One is Fitbit's recently released Charge 5, a $179.95 fitness tracker designed to measure everything from your heart rate to your sleep and even your skin temperature. The other is Amazon's new $79.99 Halo View fitness tracker, which Amazon says can measure everything from your heart rate to your sleep and skin temperature. Ten points if you can tell me which is which.
+<a href='https://www.theverge.com/22701965/amazon-fitbit-ecobee-basics-design-halo-view-smart-thermostat-clone-ripoff-regulators'> Source <a/>
