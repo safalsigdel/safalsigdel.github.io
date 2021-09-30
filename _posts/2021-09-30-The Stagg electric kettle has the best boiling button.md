@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PLq4tzPVQ6-FG5b3CeRaYIhSQWI=/0x0:2040x1360/1200x800/filters:focal(942x480:1268x806)/cdn.vox-cdn.com/uploads/chorus_image/image/69931059/dbohn_210622_4648_0002.0.jpg' width='700px' /><br/>
+It's a strange thing that one of the most enjoyable physical interfaces I use in my day-to-day life is on a kettle. The Stagg EKG Electric Kettle, specifically, a $150 appliance that's almost entirely controlled through a single, magnificent dial that is a strong contender for the best way to turn on a kettle (a competition that, admittedly, lacks much competition).
+<a href='https://www.theverge.com/22696994/fellow-stagg-kettle-dial-button-tea-coffee-interface'> Source <a/>
