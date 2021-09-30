@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XI2rgM-qmD9rWo-B9TUtAoE87jk=/0x0:4000x2661/1200x800/filters:focal(1680x1011:2320x1651)/cdn.vox-cdn.com/uploads/chorus_image/image/69931851/1232963349.0.jpg' width='700px' /><br/>
+Struggling EV startup Lordstown Motors is nearing a sale of its Ohio factory to Taiwanese iPhone assembler Foxconn, which has its own electric vehicle ambitions, Bloomberg reports. The deal could be announced as soon as Thursday evening.
+<a href='https://www.theverge.com/2021/9/30/22702322/lordstown-motors-foxconn-ohio-electric-vehicles'> Source <a/>
