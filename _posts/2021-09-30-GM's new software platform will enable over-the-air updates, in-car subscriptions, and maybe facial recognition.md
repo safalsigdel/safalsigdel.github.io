@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Mzd-CMEFPqAH7oxUCyvu-F--Fec=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69927253/cadillac_2021_escalade_0422.0.jpg' width='700px' /><br/>
+General Motors announced a new “end-to-end” software platform for its cars called “Ultifi” — a play on the name Ultium, which is the automaker's new electric vehicle battery architecture. GM says the new software will enable over-the-air (OTA) updates, in-car subscription services, and “new opportunities to increase customer loyalty.”
+<a href='https://www.theverge.com/2021/9/29/22700400/gm-ultifi-software-ota-update-subscription-facial-recognition'> Source <a/>

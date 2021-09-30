@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Vzf6DY5Na8GL0a3IqrpxX2dzL3k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69927742/acastro_190812_1777_twitch_0003.0.0.jpg' width='700px' /><br/>
+Twitch is adding new tools in the fight against harassment on the platform. Twitch announced it will be adding phone verification chat controls that will allow streamers to require a viewer to have a verified phone number in order to chat. Additionally, Twitch is tweaking the existing email verification settings to give creators greater control over who gets to chat.
+<a href='https://www.theverge.com/2021/9/29/22700937/twitch-safety-tools-verification-phone-hate-raids'> Source <a/>

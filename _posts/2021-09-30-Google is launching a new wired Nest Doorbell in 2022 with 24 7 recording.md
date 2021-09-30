@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/72F8PUSxHQgLfoGFhGdyv6Tnp5E=/0x0:2040x1530/1200x800/filters:focal(1100x498:1426x824)/cdn.vox-cdn.com/uploads/chorus_image/image/69927825/fion_180428_2519_8644.0.jpg' width='700px' /><br/>
+Google is working on a successor to the excellent Nest Hello doorbell, which it recently rebranded the Nest Doorbell (wired). The new Nest Doorbell will support 24/7 recording, will work with the Google Home app (not the Nest app), and should launch in 2022.
+<a href='https://www.theverge.com/2021/9/29/22700859/google-nest-doorbell-wired-2nd-gen-launching-2022'> Source <a/>

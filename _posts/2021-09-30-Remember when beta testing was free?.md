@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YaDWv2ncGeKtMuezjznb-QCb_YA=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69927311/amazon_astro_home_robot_4773_5.0.jpg' width='700px' /><br/>
+When I watched Amazon's press event yesterday alongside my Verge colleagues, I was impressed with some of the new tech the company was introducing — but less than impressed with the way it introduced them. The deal is that, if you qualify for an “invitation,” you get the chance to buy — at a slight discount — a product that is still essentially in its beta phase. Oh, and please let Amazon know if anything goes wrong!
+<a href='https://www.theverge.com/22700064/amazon-astro-google-chromebook-beta-test'> Source <a/>
