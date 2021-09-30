@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KeWnO84WhAw9hF5OscaF9WkUBgQ=/0x0:3000x2000/1200x800/filters:focal(1402x233:1882x713)/cdn.vox-cdn.com/uploads/chorus_image/image/69923441/dseifert_4748_nest_doorbell_cam_battery_3.0.jpg' width='700px' /><br/>
-Google Nest is bringing back seasonal ringtones for its video doorbells, which now include the Nest Doorbell (wired) — previously known as Nest Hello — and the new Nest Doorbell (battery). First up are Halloween-inspired tones, which will stick around through October, then the winter holiday-themed options arrive.
-<a href='https://www.theverge.com/2021/9/28/22699288/google-nest-doorbell-spooky-halloween-holiday-ringtones'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kJCkYXyH9zZu8_EFSRxLoUnV68I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69928468/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+TikTok has agreed to settle a lawsuit with Bev Standing, the voice actress who said she was behind the app's original text-to-speech voice. Standing sued TikTok in May, saying that the app was using her voice without permission. A robotic version of what sounded like Standing's voice had been in the app for months, speaking over what felt like every other video at the time.
+<a href='https://www.theverge.com/2021/9/29/22701167/bev-standing-tiktok-lawsuit-settles-text-to-speech-voice'> Source <a/>

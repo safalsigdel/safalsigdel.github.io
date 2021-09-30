@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EmIFMdEFT__E7q1SbnyeJ1d0JKs=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69928862/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
+Several Chinese companies have filed a class-action complaint against Amazon for banning them from the Amazon marketplace over their use of paid reviews, a new complaint filed on September 13th claims. In the last year, Amazon has cracked down on companies soliciting paid reviews on its platform, claiming to have permanently banned 600 Chinese brands across 3,000 seller accounts.
+<a href='https://www.theverge.com/2021/9/29/22701144/amazon-chinese-companies-lawsuit-paid-reviews'> Source <a/>

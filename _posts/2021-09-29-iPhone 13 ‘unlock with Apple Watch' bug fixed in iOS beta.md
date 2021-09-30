@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jvhEI-t4K3qcmTlO1ybv6q8987M=/0x0:2040x1360/1200x800/filters:focal(866x415:1192x741)/cdn.vox-cdn.com/uploads/chorus_image/image/69924433/vpavic_200929_4216_0111.0.jpg' width='700px' /><br/>
-Apple has reportedly fixed the issue that broke the “unlock with Apple Watch” feature on iPhone 13 models. The feature, which lets Apple Watch users unlock their iPhones without a password when wearing a mask, now works again as of the second iOS 15.1 beta, as reported by 9to5Mac.
-<a href='https://www.theverge.com/2021/9/29/22699884/iphone-13-apple-watch-unlock-bug-fix-ios-15-beta'> Source <a/>

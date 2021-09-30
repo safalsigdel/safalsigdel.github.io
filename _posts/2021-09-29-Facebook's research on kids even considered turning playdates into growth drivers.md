@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Tj03-mjD7e-85mvcWOgm513EMXQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69923122/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
-Facebook's interest in understanding and eventually acquiring younger users extends well beyond Messenger Kids or the currently paused plans for a child-friendly Instagram. A new report in The Wall Street Journal's series on Facebook's internal research shows the company's focus on kids goes much deeper, including studying children younger than four years old in the hopes of better designing future products.
-<a href='https://www.theverge.com/2021/9/28/22698917/facebook-child-research-messenger-instagram-kids'> Source <a/>

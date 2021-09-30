@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TeCngfRkYycnwi6_gM5_ax6q_dg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69925421/amazon_astro_home_robot_4773_9.0.jpg' width='700px' /><br/>
-Yesterday, Amazon announced its “home robot” — a wheeled device named Astro that has a display, an array of sensors, and a camera that periscopes out the top of its body like a mast. In advertisements for Astro, Amazon presents the device as an engineering breakthrough and the realization of a long-held sci-fi dream: to build a robot that can help around the house.
-<a href='https://www.theverge.com/22699916/amazon-astro-home-robot-camera-surveillance-device'> Source <a/>

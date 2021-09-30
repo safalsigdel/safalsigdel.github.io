@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aSuGISJ1V_I5FWE_C5V447Vb-XM=/0x0:3909x2827/1200x675/filters:focal(1185x191:1809x815)/cdn.vox-cdn.com/uploads/chorus_image/image/69923755/1341968233.0.jpg' width='700px' /><br/>
-Lance Wade didn't say “snitches get stitches” out loud, but with his behavior in the courtroom today he didn't have to. It's the most aggressive performance we've seen so far from Elizabeth Holmes' defense attorney, and that's probably because the latest testimony is just that bad for Holmes' case.
-<a href='https://www.theverge.com/2021/9/28/22699614/elizabeth-holmes-trial-steve-jobs-emails'> Source <a/>

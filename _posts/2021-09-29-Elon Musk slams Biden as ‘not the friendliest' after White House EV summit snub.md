@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/der53tLKxE9l-Ao4oWYgASlYPLQ=/0x0:1024x682/1200x800/filters:focal(431x260:593x422)/cdn.vox-cdn.com/uploads/chorus_image/image/69923203/biden.0.jpg' width='700px' /><br/>
-Tesla and SpaceX boss Elon Musk criticized President Joe Biden as “not the friendliest administration” after the White House snubbed his company last month. Musk's comments came during a Code Conference interview and followed a tweet in which the Tesla CEO mocked Biden using similar insults as former President Donald Trump.
-<a href='https://www.theverge.com/2021/9/28/22699339/elon-musk-joe-biden-criticize-tesla-insult'> Source <a/>
