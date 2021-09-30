@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hWF9JfW-xlzxa4f-ZiMSgIB1D78=/0x0:1000x562/1200x800/filters:focal(420x201:580x361)/cdn.vox-cdn.com/uploads/chorus_image/image/69926816/Tree_Canopy_Insights.0.png' width='700px' /><br/>
-Google Maps has new features that should make it easier for users to see wildfires, tree canopy, and locations without formal addresses. It's all aimed at helping communities be “safer, more sustainable, and discoverable,” according to the company.
-<a href='https://www.theverge.com/2021/9/29/22698533/google-maps-wildfires-tree-coverage-tracker'> Source <a/>

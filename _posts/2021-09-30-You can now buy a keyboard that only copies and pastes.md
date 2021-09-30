@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FGLM03QdKDzmN_J-lzCYyyFeaKE=/0x0:1640x1094/1200x800/filters:focal(689x416:951x678)/cdn.vox-cdn.com/uploads/chorus_image/image/69927098/eTjj9DPQqeSSYp21FI01_2864_copy_pdp.0.jpg' width='700px' /><br/>
-Sure, why not. Stack Overflow has teamed up with tech retailer Drop to release this cute little keyboard called The Key. It's programmed to do exactly two things: copy and paste.
-<a href='https://www.theverge.com/2021/9/29/22700522/stack-overflow-macropad-mechanical-keyboard-specs'> Source <a/>

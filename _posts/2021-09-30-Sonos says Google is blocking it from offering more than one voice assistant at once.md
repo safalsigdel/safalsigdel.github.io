@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GeK2w2Xe91LeFjiptxmuRHWn7xQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69927521/cwelch_171017_2068_0002.0.jpg' width='700px' /><br/>
-Sonos developed a system called “Concurrency” that could make multiple voice assistants interoperable on its smart speakers but had to put its plans on hold because of Google, a new Washington Post report explains.
-<a href='https://www.theverge.com/2021/9/29/22700724/sonos-smart-speakers-concurrency-google'> Source <a/>

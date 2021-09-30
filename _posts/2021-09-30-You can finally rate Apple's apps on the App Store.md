@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GYxN5OPNun7ggYM_YoPItAZpiW4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69927351/acastro_210831_1777_0001.0.jpg' width='700px' /><br/>
-For years, Apple has let you redownload many built-in apps from the App Store that you may have deleted, but store listings for those apps had a distinct difference from others: there was no way to leave a rating or review. That appears to have changed recently, though, as you can now review Apple's apps in the store.
-<a href='https://www.theverge.com/2021/9/29/22700805/apple-app-store-built-in-ratings-reviews-stars'> Source <a/>

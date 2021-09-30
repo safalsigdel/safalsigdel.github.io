@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l3Eb4kvmIY9FFNMPmtVrs0eMR3Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69926695/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
-“Can you get medicine for someone at the pharmacy?”
-<a href='https://www.theverge.com/2021/9/29/22696268/google-search-on-updates-ai-mum-explained'> Source <a/>
