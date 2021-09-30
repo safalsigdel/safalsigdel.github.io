@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/H20XN9NDGCkKxHsOC1AD9Zb7j6E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69930858/acastro_210429_1777_epic_0001.0.jpg' width='700px' /><br/>
 Epic Games announced Thursday that it would be making its parent verification services free for all developers in order to make it easier to build games that keep kids safe online.
-<a href='https://www.theverge.com/2021/9/30/22702117/epic-games-children-privacy-safety-kids-web-services-free'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/H20XN9NDGCkKxHsOC1AD9Zb7j6E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69930858/acastro_210429_1777_epic_0001.0.jpg' width='700px' /><br/>
-Epic Games announced Thursday that it would be making its parent verification services free for all developers in order to make it easier to build games that keep kids safe online.
 <a href='https://www.theverge.com/2021/9/30/22702117/epic-games-children-privacy-safety-kids-web-services-free'> Source <a/>

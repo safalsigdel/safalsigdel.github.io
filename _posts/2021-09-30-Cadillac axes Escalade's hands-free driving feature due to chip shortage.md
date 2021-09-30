@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NgbRIBgSP0L2pEsu8MXyHiQlah4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69928294/cadillac_2021_escalade_0433.0.jpg' width='700px' /><br/>
-The 2022 Escalade is heading into production, but it'll be missing a key feature when the first customers pick up their new ride: the hands-free driving mode known as Super Cruise. It's the latest feature to get the axe as a result of the global semiconductor shortage, which has been an especially big drain on the auto industry.
-<a href='https://www.theverge.com/2021/9/29/22701086/cadillac-super-cruise-2022-escalade-semiconductor-shortage'> Source <a/>

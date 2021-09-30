@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/0PfWur-XhdqMC0yx72HouAwdXNk=/0x0:1800x1080/1200x800/filters:focal(756x396:1044x684)/cdn.vox-cdn.com/uploads/chorus_image/image/69930339/Celero_Option2_1800x1080.0.jpg' width='700px' /><br/>
 After acquiring Boost Mobile as part of the Sprint and T-Mobile merger in 2020 and snapping up Republic Wireless for its 5G network earlier this year, Dish is finally ready to turn Boost Mobile into the fourth wireless carrier that the FCC envisioned.
-<a href='https://www.theverge.com/2021/9/30/22697318/dish-5g-game-279-boost-mobile-exclusive-5g-phone-prepaid'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/0PfWur-XhdqMC0yx72HouAwdXNk=/0x0:1800x1080/1200x800/filters:focal(756x396:1044x684)/cdn.vox-cdn.com/uploads/chorus_image/image/69930339/Celero_Option2_1800x1080.0.jpg' width='700px' /><br/>
-After acquiring Boost Mobile as part of the Sprint and T-Mobile merger in 2020 and snapping up Republic Wireless for its 5G network earlier this year, Dish is finally ready to turn Boost Mobile into the fourth wireless carrier that the FCC envisioned.
-<a href='https://www.theverge.com/2021/9/30/22697318/dish-5g-game-280-boost-mobile-exclusive-5g-phone-prepaid'> Source <a/>
+<a href='https://www.theverge.com/2021/9/30/22697318/dish-5g-game-279-boost-mobile-exclusive-5g-phone-prepaid'> Source <a/>
