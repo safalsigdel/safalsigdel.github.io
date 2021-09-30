@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QL9pYGWwaNoLc_NSoLhCnsXQNm8=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/69931647/twarren_rtx3080.0.jpg' width='700px' /><br/>
+If you're an avid PC builder, you know that getting your hands on any of Nvidia's 30-series GPUs has been next to impossible since they debuted. But Best Buy is hosting an event in select stores starting Friday, October 1st to give you the opportunity. If you haven't been outside in a while, you can use this page to find the store closest to you that will have these GPUs in stock, sold at their retail price.
+<a href='https://www.theverge.com/2021/9/30/22702283/best-buy-restock-nvidia-rtx-3080-3070-gpu-in-store'> Source <a/>
