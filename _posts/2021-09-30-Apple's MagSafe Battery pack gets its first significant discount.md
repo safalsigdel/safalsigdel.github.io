@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ONJoxCTn13e9HS6zxfiWw64PzwI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69931368/DSC02727_dbohn_verge.0.jpg' width='700px' /><br/>
+The Apple MagSafe Battery pack recently launched in July, and we are now finally seeing the first significant discount on the magnetic power bank that usually costs $99. The MagSafe ecosystem may still be a bit underdeveloped, and there are some compelling alternatives from other manufacturers, but the little battery is a svelte option for juicing up an iPhone 12 or 13 on the go.
+<a href='https://www.theverge.com/good-deals/2021/9/30/22701993/apple-magsafe-battery-pack-google-home-nest-hub-ipad-deal-sale'> Source <a/>
