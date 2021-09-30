@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/OXoYNi5nqh2EpK_5lE246u9Rd18=/0x0:4000x2666/1200x675/filters:focal(1516x756:2156x1396)/cdn.vox-cdn.com/uploads/chorus_image/image/69929324/1235435752.0.jpg' width='700px' /><br/>
 After a tedious day of bickering, Victoria Sung appeared like manna from heaven — to tell us that Theranos' tests sucked.
+<a href='https://www.theverge.com/2021/9/29/22701542/theranos-elizabeth-holmes-celgene-bickering'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/OXoYNi5nqh2EpK_5lE246u9Rd18=/0x0:4000x2666/1200x675/filters:focal(1516x756:2156x1396)/cdn.vox-cdn.com/uploads/chorus_image/image/69929324/1235435752.0.jpg' width='700px' /><br/>
+After a tedious day of bickering, Victoria Sung appeared like manna from heaven — to tell us that Theranos' tests sucked.
 <a href='https://www.theverge.com/2021/9/29/22701542/theranos-elizabeth-holmes-celgene-bickering'> Source <a/>
