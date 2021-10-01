@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cl-m_hW1E5IT8Xk9gu0YVwHG4z8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69938785/acastro_200318_1777_discord_0001.0.0.jpg' width='700px' /><br/>
+Discord said Friday it's going to sunset its Stage Discovery tool on October 4th, less than six months after it launched.
+<a href='https://www.theverge.com/2021/10/1/22704749/discord-ending-stage-discovery-channels'> Source <a/>
