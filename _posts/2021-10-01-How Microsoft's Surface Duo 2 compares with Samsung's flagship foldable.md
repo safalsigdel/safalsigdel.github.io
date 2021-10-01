@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P9Xw16rNDgqtnbWBAagIC4iiVCc=/0x0:1361x907/1200x800/filters:focal(573x346:789x562)/cdn.vox-cdn.com/uploads/chorus_image/image/69931864/Microsoft_Surface_Duo_2_Lifestyle_Press_Image_White_Colorway.0.jpeg' width='700px' /><br/>
-It's official: the troubled Surface Duo is now last-gen. Microsoft announced its successor, the Surface Duo 2, during its recent fall Surface event, capping off months of rumors and introducing the device alongside the Surface Pro 8, Surface Laptop Studio, and a bevy of new devices designed to take advantage of Windows 11.
-<a href='https://www.theverge.com/22688370/microsoft-surface-duo-2-vs-samsung-galaxy-z-fold-3-comparison-specs'> Source <a/>
