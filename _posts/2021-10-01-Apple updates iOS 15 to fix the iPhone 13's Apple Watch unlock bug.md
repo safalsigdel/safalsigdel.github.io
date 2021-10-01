@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2sUAyHG3Ohr5qI9_eqkOfSRcnS4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69937924/vpavic_210918_4760_0703.0.jpg' width='700px' /><br/>
+Apple's iPhone 13 lineup just launched last week, but some users ran into a frustrating issue where they couldn't use their Apple Watch to unlock their new phones while wearing a face mask. The company had promised that a fix was on the way, and it appeared earlier this week in an iOS 15.1 beta, but now, the fix is live for everyone as part of the iOS 15.0.1 release.
+<a href='https://www.theverge.com/2021/10/1/22704524/apple-ios-15-0-1-update-fix-iphone-13-watch-unlock-bug'> Source <a/>
