@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Z37c8_nLwV0fNImJVvVrlY1GKtI=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/69931917/2._GXAC_Polls_in_IG_MSGR_1.0.png' width='700px' /><br/>
-Facebook will now let you start cross-app group chats between Messenger and Instagram, the company announced Thursday. The update is a big step forward in Facebook's ambitions to make its apps work better with each other. To be able to use the cross-app communications, you'll have to opt in, and Facebook says that “over 70% of eligible people on Instagram have updated to the new Messenger experience.”
-<a href='https://www.theverge.com/2021/9/30/22702367/facebook-instagram-messenger-cross-app-group-chats'> Source <a/>
