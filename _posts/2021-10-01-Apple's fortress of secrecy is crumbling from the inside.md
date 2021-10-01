@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZDumN35GU9zSPqafZ9UB24eDMNE=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69932925/acastro_210913_4747_0001.0.jpg' width='700px' /><br/>
-On June 14th, 2021, Apple's remote work advocacy group sent an anonymous email to Tim Cook.
-<a href='https://www.theverge.com/22700898/apple-company-culture-change-secrecy-employee-unrest'> Source <a/>
