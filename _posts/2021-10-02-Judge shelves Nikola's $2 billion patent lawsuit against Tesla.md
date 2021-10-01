@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YY-xEOKJK1SErBRyLYsz_BpGsp0=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/69938267/nikola_anheuser_busch.0.jpg' width='700px' /><br/>
+A federal judge has administratively closed a $2 billion patent infringement lawsuit hydrogen trucking startup Nikola filed against Tesla in 2018, essentially pulling it off the Northern District Court of California's docket because the two companies stopped responding. Nikola has until October 6th to show cause as to why the case should continue. Otherwise, the case of Nikola v. Tesla will be dismissed.
+<a href='https://www.theverge.com/2021/10/1/22704492/nikola-tesla-patent-infringement-lawsuit-closed-trevor-milton'> Source <a/>
