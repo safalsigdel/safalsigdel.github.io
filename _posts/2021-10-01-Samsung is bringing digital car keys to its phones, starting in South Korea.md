@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gjeOyIuQBSvr186SQxv2-QZlBMg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69932694/dbohn_210820_4722_0002.0.jpg' width='700px' /><br/>
-After announcing plans for digital car keys in its phones during the Galaxy S21 launch, Samsung is finally starting to add support for the feature. Samsung says support for the ultra wideband (UWB) and NFC-enabled digital car keys will hit South Korea first, and it will only work with one car to start — the all-electric Genesis GV60.
-<a href='https://www.theverge.com/2021/9/30/22702348/samsung-digital-car-keys-uwb-genesis-gv60'> Source <a/>
