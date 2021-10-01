@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JZmRz5NviXif7w4wjavG1INYRq0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69931807/E_3vU3YXMAEXoy2.0.0.jpeg' width='700px' /><br/>
-Kratos' voice actor, Christopher Judge, says he's the reason why God of War: Ragnarok was delayed. In a tweet, Judge writes that he needed multiple surgeries in 2019 and that God of War developer Sony Santa Monica studios delayed the game so he could recover and continue voicing video games' favorite problematic dad.
-<a href='https://www.theverge.com/2021/9/30/22702435/kratos-voice-actor-behind-sony-god-of-war-ragnarok-delay-ps5'> Source <a/>
