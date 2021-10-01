@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ng4F1tNUk-2Qrt13qwxdHesCFwA=/1x0:1400x986/1200x800/filters:focal(591x0:815x224)/cdn.vox-cdn.com/uploads/chorus_image/image/69935789/neopets.0.jpeg' width='700px' /><br/>
+Virtual pet franchise Neopets is getting into NFTs — a seemingly inevitable move for a site with a long and varied history that has spawned a dizzying array of merchandise and offshoots, from magazines and cards to mobile games and a (promised) animated series.
+<a href='https://www.theverge.com/2021/10/1/22703881/neopets-nfts-crytpo-trend-raydium-solana'> Source <a/>
