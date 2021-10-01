@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6sRPuLs2DBrMMdhL8sRwNSmYLPU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69934739/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
+Five9 will remain independent — its deal to be acquired by Zoom is off. Though a press release from Five9 says it was “terminated by mutual agreement,” it's also the case that Five9 shareholders rejected the $14.7 billion deal.
+<a href='https://www.theverge.com/2021/9/30/22703301/zoom-five9-acquisition-merger-agreement-terminated'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lv6zJsjZwLthDaAGZyYM96-JeRE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69930563/bluestacksx.0.jpg' width='700px' /><br/>
-BlueStacks started off life as an Android emulator for Windows more than 10 years ago, allowing anyone to run native Arm-based or x86 Android apps on Windows PCs and tablets. Now BlueStacks is transitioning to the cloud, bringing Android games to the browser and across iOS, Windows, macOS, Android, and Linux devices, and even inside Discord.
-<a href='https://www.theverge.com/2021/9/30/22701930/bluestacks-x-android-games-browser-free-cloud-gaming'> Source <a/>

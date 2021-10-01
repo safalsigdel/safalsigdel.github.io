@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/roDDg3ZCAGROAydomWfwQWRnJTc=/0x0:5940x3960/1200x800/filters:focal(2495x1505:3445x2455)/cdn.vox-cdn.com/uploads/chorus_image/image/69932940/clubhouseclips.0.jpg' width='700px' /><br/>
+Clubhouse is getting a bunch of new features next month, including one many people have wanted: in-app recording. Starting in October, app users will be able to record a room, save it to their profile and club, or download it. Clubhouse is calling the feature “replays.” Creators and moderators are the ones who can record, and they can toggle that option on or off. Rooms must be public to be recorded.
+<a href='https://www.theverge.com/2021/9/30/22702034/clubhouse-recording-in-app-clip-tool-update'> Source <a/>

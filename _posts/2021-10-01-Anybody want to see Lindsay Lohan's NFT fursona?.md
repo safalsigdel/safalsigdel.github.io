@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DqFgVjc7HEV8vcGVn_9dQ8CvyR8=/0x0:3712x2436/1200x800/filters:focal(1629x906:2221x1498)/cdn.vox-cdn.com/uploads/chorus_image/image/69933498/1185550832.0.jpg' width='700px' /><br/>
+I am a woman who believes in taking accountability for her actions and this is mine. Because I unleashed this tweet upon my colleagues, I must now share it with the masses. This is my punishment. Now it's yours too.
+<a href='https://www.theverge.com/2021/9/30/22702478/anybody-want-to-see-lindsay-lohans-nft-fursona'> Source <a/>

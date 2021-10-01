@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zjcobpiGddHkBTVWTseoCeIzmV8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69930020/vpavic_201103_4275_0163.0.jpg' width='700px' /><br/>
-Microsoft's Xbox chief, Phil Spencer, says console supply issues will continue into 2022. In an interview with The Wrap, spotted by Video Games Chronicle, Spencer admits the Xbox supply issues will last for the rest of the year and into 2022 due to supply chain complications beyond just a chip shortage.
-<a href='https://www.theverge.com/2021/9/30/22701878/xbox-phil-spencer-supply-constraints-2022'> Source <a/>

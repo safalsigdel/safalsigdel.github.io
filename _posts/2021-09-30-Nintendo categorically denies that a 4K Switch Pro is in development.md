@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1QuPxMcEzfVxkouNKabRgsO242s=/0x0:1020x676/1200x800/filters:focal(429x257:591x419)/cdn.vox-cdn.com/uploads/chorus_image/image/69929037/nintendo.0.jpg' width='700px' /><br/>
-It is rare for a big company to come out and categorically deny an entire report, but that's what Nintendo just did — the Japanese corporate entity issued a press release insisting Bloomberg's seeming revelation that Nintendo was pushing developers to build 4K-resolution games for an upcoming but potentially canceled “Switch Pro” handheld was entirely incorrect.
-<a href='https://www.theverge.com/2021/9/29/22701435/nintendo-categorically-denies-4k-switch-pro-development'> Source <a/>

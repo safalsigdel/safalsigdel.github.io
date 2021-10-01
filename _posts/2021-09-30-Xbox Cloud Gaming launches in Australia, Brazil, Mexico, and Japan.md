@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-SKxXmGMq95IA6LFIfi0n_LD8ao=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69930040/acastro_210429_1777_0001.0.jpg' width='700px' /><br/>
-Microsoft is launching its Xbox Cloud Gaming (xCloud) service in Australia, Brazil, Mexico, and Japan. The software giant has been testing streaming Xbox Game Pass Ultimate games in these markets over the past few months, and is now ready to greatly expand the reach of its xCloud technology.
-<a href='https://www.theverge.com/2021/9/30/22701912/xbox-cloud-gaming-xcloud-australia-brazil-mexico-japan-launch-october'> Source <a/>

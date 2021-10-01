@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KoE7tg15duRYQhXK8iMfGIN2_4s=/0x0:2040x1360/1200x675/filters:focal(871x585:1197x911)/cdn.vox-cdn.com/uploads/chorus_image/image/69932521/akrales_210824_4724_0103.0.jpg' width='700px' /><br/>
+Asus has refreshed its blockbuster, category-defining Zephyrus G14, a gaming laptop that was so successful last year that it was basically impossible to buy in the months following its release.
+<a href='https://www.theverge.com/22702219/asus-rog-zephyrus-g14-2021-gaming-laptop-review'> Source <a/>

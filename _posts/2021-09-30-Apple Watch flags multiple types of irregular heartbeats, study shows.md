@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c5ucxXQ_taJGh2blumgWnuirVdc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69931095/akrales_171113_2119_0074.0.jpg' width='700px' /><br/>
-People who get irregular pulse notifications on an Apple Watch but don't have atrial fibrillation — the condition the feature focuses on detecting — could still have another type of problem with their heartbeat, according to a new study.
-<a href='https://www.theverge.com/2021/9/30/22702151/apple-watch-heartbeat-irregular-pulse-afib'> Source <a/>

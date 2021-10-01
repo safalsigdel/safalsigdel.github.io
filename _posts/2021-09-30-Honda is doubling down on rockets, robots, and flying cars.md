@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FE5WdeWm8RDvh1ZkF65XwP7WHKM=/0x0:3000x1080/1200x800/filters:focal(1260x300:1740x780)/cdn.vox-cdn.com/uploads/chorus_image/image/69930006/Honda_eVTOL.5.jpg' width='700px' /><br/>
-Honda is increasing its research and development spending in three futuristic areas: rockets, robots, and electric vertical takeoff and landing aircraft (eVTOL), otherwise known as flying cars.
-<a href='https://www.theverge.com/2021/9/30/22700931/honda-rocket-robot-flying-car-research-development'> Source <a/>

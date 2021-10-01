@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fHaau2QvPJGqnA28phiU4HzGes0=/0x0:3840x2160/1200x800/filters:focal(364x837:978x1451)/cdn.vox-cdn.com/uploads/chorus_image/image/69932977/Screenshot__52_.0.png' width='700px' /><br/>
+It's all too easy to allow distractions such as social media or videos to seduce us from the things we're supposed to be doing — such as, say, writing articles about Windows 11. Features such as Focus assist are now being included with operating systems to try to help us keep our eyes on the road, so to speak.
+<a href='https://www.theverge.com/22696232/focus-assist-windows-11-microsoft-how-to'> Source <a/>

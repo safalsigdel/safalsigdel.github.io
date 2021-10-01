@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LCKQ3pLnQnZAqqZZnsLkLYNPrvs=/0x0:5000x3750/1200x800/filters:focal(2100x1475:2900x2275)/cdn.vox-cdn.com/uploads/chorus_image/image/69933534/1091888728.0.jpg' width='700px' /><br/>
+Waymo and Cruise, two of the leading autonomous vehicle companies in the US, received permits from the California Department of Motor Vehicles to offer rides to passengers in their robotaxis.
+<a href='https://www.theverge.com/2021/9/30/22702962/cruise-waymo-california-dmv-autonomous-vehicle-permit'> Source <a/>

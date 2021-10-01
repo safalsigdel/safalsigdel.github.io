@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HBFX-uYYICufp4UfTn19o79zD2w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69932851/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
+The Federal Communications Commission (FCC) on Thursday said it's looking into tightening rules around cell phone service, in an effort to rein in SIM swapping scams and port-out fraud, two ways fraudsters can access a person's cell phone account and phone number for nefarious purposes.
+<a href='https://www.theverge.com/2021/9/30/22702544/fcc-rules-sim-swapping-port-out-fraud-cell-phone-carrier'> Source <a/>
