@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gXCdjxZAQMm4UrwCfKcqJ3Z0naY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69941240/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
+Former President Donald Trump has filed a lawsuit in Florida seeking to force Twitter to reinstate him, arguing the platform's ban violates the First Amendment and Florida's new social media law.
+<a href='https://www.theverge.com/2021/10/2/22705584/trump-sues-reinstate-twitter-account-jan-6-riot-protest'> Source <a/>
