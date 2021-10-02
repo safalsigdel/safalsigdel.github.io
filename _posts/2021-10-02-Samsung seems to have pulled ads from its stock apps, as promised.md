@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jt8Mn4_VGQwX3pmF0oUIp8fw0V0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69937844/dseifert_4711_samsung_z_flip_3_21.0.jpg' width='700px' /><br/>
-A major annoyance of using a Samsung phone is finally getting fixed, as the company seems to have finally pulled ads from some of its stock apps. One Verge staffer reports that they aren't seeing ads in the Samsung Weather, Samsung Pay, and Samsung Health apps, though they said they had to force quit and reopen the Health app to remove the ad banner. 9to5Google says that it's seeing that ads have been removed as well.
-<a href='https://www.theverge.com/2021/10/1/22704422/samsung-ads-stock-apps-weather-pay-health'> Source <a/>
