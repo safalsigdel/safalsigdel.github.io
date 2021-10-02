@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HVcH62nc62KEt8LPDSTiNgFDX1E=/0x0:2968x1670/1200x800/filters:focal(1247x598:1721x1072)/cdn.vox-cdn.com/uploads/chorus_image/image/69934716/fbg7020_comp_v003_bf38a189.0.jpeg' width='700px' /><br/>
-Three months after Scarlett Johansson sued Disney over its streaming release of Black Widow, arguing she stood to lose millions of dollars because her salary was based on the box office performance of the film, the suit has now been settled, according to The Hollywood Reporter, Variety, and The New York Times and others. Representatives for Johansson confirmed the settlement to The Verge as well.
-<a href='https://www.theverge.com/2021/9/30/22703409/disney-scarlett-johansson-lawsuit-settled'> Source <a/>

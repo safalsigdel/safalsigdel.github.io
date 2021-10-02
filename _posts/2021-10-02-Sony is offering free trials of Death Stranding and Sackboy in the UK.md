@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8lz8QMMUKBipxAiDUI2AGG_CYg8=/0x0:1353x707/1200x800/filters:focal(569x246:785x462)/cdn.vox-cdn.com/uploads/chorus_image/image/69939279/Screenshot_2021_10_01_1.20.50_PM.0.png' width='700px' /><br/>
+Sony appears to be reintroducing an old concept for two of its newer Playstation 5 games — game trials. Sony will now let you try the PS5 versions of Death Stranding: Director's Cut and Sackboy: A Big Adventure for free if you live in the United Kingdom, for six hours and five hours, respectively.
+<a href='https://www.theverge.com/2021/10/1/22704743/sony-ps5-free-game-trials-death-stranding-sackboy'> Source <a/>

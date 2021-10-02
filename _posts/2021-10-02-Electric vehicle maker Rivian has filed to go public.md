@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/91hlnA0y40racYEeq_5ThicgHBE=/0x0:5495x3656/1200x800/filters:focal(2309x1389:3187x2267)/cdn.vox-cdn.com/uploads/chorus_image/image/69939690/1198109310.0.jpg' width='700px' /><br/>
+Electric vehicle maker Rivian, backed by Ford and Amazon, filed for an initial public offering on Friday on the Nasdaq exchange. The company filed its IPO confidentially with the Securities and Exchange Commission in August, and it was made public today.
+<a href='https://www.theverge.com/2021/10/1/22705048/electric-vehicle-maker-rivian-ipo-ford-amazon'> Source <a/>

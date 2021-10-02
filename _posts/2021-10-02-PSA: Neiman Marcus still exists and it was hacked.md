@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XnAjnjXz6rJ_By43EflRJ4Z9j3E=/0x0:5685x3913/1200x800/filters:focal(2389x1503:3297x2411)/cdn.vox-cdn.com/uploads/chorus_image/image/69934062/1228428799.0.jpg' width='700px' /><br/>
-Luxury retailer Neiman Marcus said Thursday it had notified 4.6 million customers that their personal information, including credit card numbers. may have been part of a May 2020 data breach.
-<a href='https://www.theverge.com/2021/9/30/22703171/neiman-marcus-hacked-security-credit-cards'> Source <a/>
