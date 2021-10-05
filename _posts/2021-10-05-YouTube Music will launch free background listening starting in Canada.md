@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1KiGP-OIyhuA8utjJ4S4Q0cWQ6M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69948063/acastro_180322_1777_youtube_0001.0.jpg' width='700px' /><br/>
-YouTube Music is lifting one of its most annoying limitations — but only in Canada. Today, YouTube announced that beginning November 3rd, customers in Canada will be able to continue listening to their music in the background while doing other tasks on their phone or when the screen is off.
-<a href='https://www.theverge.com/2021/10/4/22708688/youtube-music-free-background-listening-date'> Source <a/>

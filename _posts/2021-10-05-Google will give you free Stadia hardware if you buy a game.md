@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XfxtOceD6N609_kcNPcrUKdZUiQ=/0x0:1461x918/1200x800/filters:focal(615x343:847x575)/cdn.vox-cdn.com/uploads/chorus_image/image/69952483/stadia_controller.0.jpg' width='700px' /><br/>
+Google is giving away a free Stadia Premiere Edition kit if you purchase a regular Stadia game. This hardware bundle includes a Chromecast Ultra and Stadia controller, and you'll need to buy a full price game ($59.99 or above) to qualify for the offer. Google's free offer will run until 11:59PM PT on October 10th, and codes will be distributed by October 20th.
+<a href='https://www.theverge.com/2021/10/5/22710308/google-free-stadia-hardware-game-purchase-details'> Source <a/>
