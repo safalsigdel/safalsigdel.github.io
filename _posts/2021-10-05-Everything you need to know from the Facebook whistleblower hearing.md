@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/teg3vCxA04k1xSIDwcmDd_Y0slg=/0x0:5239x3493/1200x675/filters:focal(2201x1328:3039x2166)/cdn.vox-cdn.com/uploads/chorus_image/image/69953545/1235709440.0.jpg' width='700px' /><br/>
+On Tuesday, Facebook whistleblower Frances Haugen is appearing before a Senate Commerce subcommittee in what promises to be one of Facebook's toughest congressional hearings in years. After serving as a source for a string of bombshell reports from The Wall Street Journal, Haugen went public on Sunday with concerns about Instagram's mental health impacts on its youngest users, drawn from internal Facebook reports.
+<a href='https://www.theverge.com/2021/10/5/22710539/facebook-whistleblower-hearing-instagram-child-safety-congress'> Source <a/>
