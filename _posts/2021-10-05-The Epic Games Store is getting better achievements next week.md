@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7Pa3nCpcsH14miztYAuR54qvY0g=/0x0:1918x1068/1200x800/filters:focal(806x381:1112x687)/cdn.vox-cdn.com/uploads/chorus_image/image/69950423/Screen_Shot_2021_10_04_at_4.50.08_PM.0.png' width='700px' /><br/>
-The Epic Games Store is taking a bit step towards further competing with more established PC game stores like Steam next week with a proper achievement system (called, of course, “Epic Achievements”).
-<a href='https://www.theverge.com/2021/10/4/22709465/epic-games-store-achievements-feature-xp-social'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ff49-o0xtA83nM31SYkTCvgB8Bg=/0x0:1440x771/1200x800/filters:focal(605x271:835x501)/cdn.vox-cdn.com/uploads/chorus_image/image/69954098/Screen_Shot_2018_06_05_at_2.36.30_PM.0.png' width='700px' /><br/>
+The final new fighter coming to Super Smash Bros. Ultimate was revealed as Sora from Kingdom Hearts. But the event, hosted by game director Masahiro Sakurai, culminated in some arguably bigger news. The three mainline Kingdom Hearts games are coming to the Nintendo Switch. This includes Kingdom Hearts HD 1.5 + 2.5 Remix, Kingdom Hearts HD 2.8 Final Chapter Prologue, and Kingdom Hearts III.
+<a href='https://www.theverge.com/2021/10/5/22710665/kingdom-hearts-remix-hd-nintendo-switch-cloud-versions'> Source <a/>
