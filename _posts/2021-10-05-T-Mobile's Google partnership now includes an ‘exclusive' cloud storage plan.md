@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/alnHbKj0VMoUoL8oApomTvT9huQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69950407/ajohnson_210813_4713_0007.0.jpg' width='700px' /><br/>
+T-Mobile and Google have announced they're offering an “exclusive” plan with 500GB of Google One cloud storage for T-Mobile customers starting October 12th. The plan will cost $5 per month, the latest addition in an ongoing partnership between the search giant and the mobile carrier.
+<a href='https://www.theverge.com/2021/10/4/22709452/t-mobile-google-one-cloud-storage'> Source <a/>

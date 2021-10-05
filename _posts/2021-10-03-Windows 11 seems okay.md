@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Hxen-a1RLMwc1f0u1WZmqAFk5Jo=/0x0:2560x1696/1200x800/filters:focal(1076x644:1484x1052)/cdn.vox-cdn.com/uploads/chorus_image/image/69941418/twarren__windows11_sharper.0.jpg' width='700px' /><br/>
-Microsoft's next version of Windows, Windows 11, is coming October 5th. In many ways, it's already here — the free update has been available for Windows Insiders to download and test for months, and recent versions like the Release Preview will likely be indistinguishable from the final operating system.
-<a href='https://www.theverge.com/22705148/windows-11-upgrade-beta-release-preview-impressions'> Source <a/>

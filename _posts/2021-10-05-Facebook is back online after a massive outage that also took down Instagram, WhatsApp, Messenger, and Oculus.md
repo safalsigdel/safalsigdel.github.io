@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uWOFsFPcrCiFqH97pH6SW2BSva8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69948695/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Just as Facebook's Antigone Davis was live on CNBC defending the company over a whistleblower's accusations and its handling of research data suggesting Instagram is harmful to teens, its entire network of services suddenly went offline.
+<a href='https://www.theverge.com/2021/10/4/22708989/instagram-facebook-outage-messenger-whatsapp-error'> Source <a/>

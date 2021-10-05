@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aIAR11Bp6L67GEwnxOqBtsXxofM=/0x0:1960x1400/1200x800/filters:focal(824x544:1136x856)/cdn.vox-cdn.com/uploads/chorus_image/image/69947814/Apple_watch_series7_availability_hero_10052021.0.jpg' width='700px' /><br/>
+Apple is opening up preorders for its Apple Watch Series 7 on Friday, October 8th, with the devices set to ship on October 15th. Apple first revealed the Watch Series 7 at an event last month, but the company simply said it would be available later this fall. Preorders for the Apple Watch Series 7 will now begin at 5AM PT / 8AM ET on Friday, October 8th.
+<a href='https://www.theverge.com/2021/10/4/22708611/apple-watch-7-release-date-price-preorder'> Source <a/>

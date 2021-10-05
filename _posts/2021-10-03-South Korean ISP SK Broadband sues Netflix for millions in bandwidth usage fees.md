@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/87Yl2C429W644pSJKCBiC0smrrY=/731x0:4257x2250/1200x800/filters:focal(2200x711:3000x1511)/cdn.vox-cdn.com/uploads/chorus_image/image/69938417/Screen_Shot_2021_10_01_at_10.16.24_AM.0.png' width='700px' /><br/>
-South Korean internet service provider SK Broadband is suing Netflix to pay for the increased network costs and bandwidth usage the streaming service's content has drawn in South Korea, Reuters writes. The company cites Squid Game and D.P., two popular Korean Netflix dramas, as part of the cause.
-<a href='https://www.theverge.com/2021/10/1/22704313/sk-broadband-netflix-suing-for-payment-squid-game'> Source <a/>

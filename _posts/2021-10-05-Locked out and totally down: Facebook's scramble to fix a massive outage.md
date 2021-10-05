@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vdoB9AtAAJSlw_kOXnow2C7KyXY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69950351/acastro_170329_1777_facebook_0001.0.jpg' width='700px' /><br/>
+A prolonged, global outage of Facebook's apps sent the company's engineers scrambling to fix the issue at one of its data centers in California, according to two people familiar with the situation.
+<a href='https://www.theverge.com/2021/10/4/22709575/facebook-outage-instagram-whatsapp'> Source <a/>

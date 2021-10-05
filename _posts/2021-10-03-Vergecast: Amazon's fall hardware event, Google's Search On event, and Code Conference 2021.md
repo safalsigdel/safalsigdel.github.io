@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tRAnfnMr0QrTvNyKgnsZxxazAjU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69939055/amazon_astro_home_robot_4773_5.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where co-hosts Nilay Patel and Dieter Bohn discuss the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/2021/10/1/22704828/amazon-astro-alexa-event-google-search-code-conference-elon-musk-vergecast-podcast-469'> Source <a/>

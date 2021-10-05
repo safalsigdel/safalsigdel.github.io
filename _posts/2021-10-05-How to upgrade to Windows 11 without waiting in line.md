@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iqUFAn0g0Vyz4SHOwFLNr9Y27Ic=/0x0:2560x1696/1200x800/filters:focal(1076x644:1484x1052)/cdn.vox-cdn.com/uploads/chorus_image/image/69950096/twarren__windows11main_1.0.jpg' width='700px' /><br/>
+Windows 11 is now available and will be rolling out to millions of PCs worldwide. But, as with any new OS rollout, it's not going to happen overnight, and many Windows users will be waiting for a while until that magic upgrade notice appears. Don't want to wait? You don't have to — you can, with just a little effort, download and install the new version of Windows right now.
+<a href='https://www.theverge.com/22683953/windows-11-upgrade-how-to-download-install'> Source <a/>

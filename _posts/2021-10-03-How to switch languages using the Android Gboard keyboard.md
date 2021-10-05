@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R7yGTnxuf7h-N5JvGvYN8TuaxNU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69939083/akrales_190903_3635_0219.0.jpg' width='700px' /><br/>
-Learning a new language on an Android device? If the language uses a different alphabet or employs accents that your primary language does not, you may need to add a new software keyboard to your phone.
-<a href='https://www.theverge.com/22704840/gboard-keyboard-google-languages-android-how-to'> Source <a/>

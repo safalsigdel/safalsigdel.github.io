@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rrpodNuX7INmdS4_0u59fIn0Zl8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69949220/cfaulkner_211004_4791_0007.0.jpg' width='700px' /><br/>
+Google's latest major Android update, Android 12, isn't available to the general public just yet, but it's getting closer. The company wrote on its Android Developers site that it pushed the source to Android Open Source Project (AOSP) and is “officially” releasing the update. Despite Android 12 being technically available, you won't find it appearing as an update on your Pixel phone for the “next few weeks,” according to the post.
+<a href='https://www.theverge.com/2021/10/4/22708992/android-12-aosp-available-download-install'> Source <a/>

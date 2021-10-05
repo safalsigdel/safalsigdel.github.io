@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5NjjVsqyb0d_8Iga7mwHUPHQLlg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69938776/acastro_210115_1777_twitch_0002.0.jpg' width='700px' /><br/>
-Days after announcing new safety tools designed to protect streamers against hate raids, Twitch is experimenting with a new feature that will allow users to pay money to promote a stream. Rumors have been circulating on social media that the new feature is in the works, and a Twitch spokesperson has now confirmed to The Verge that it is testing the feature with a small number of streamers.
-<a href='https://www.theverge.com/2021/10/1/22704731/twitch-testing-new-paid-front-page-promotion-feature'> Source <a/>

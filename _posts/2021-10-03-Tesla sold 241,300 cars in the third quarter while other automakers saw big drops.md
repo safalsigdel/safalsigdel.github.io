@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LqW2u9JLkMGDGCGL7qjrCvO1Yek=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69941647/tesla_model_3_0638.0.jpg' width='700px' /><br/>
-Tesla has bucked the wider trend of declining sales brought on by the global chip shortage in the third quarter this year, as it sold 241,300 cars — a total of 102,000 more vehicles than the same quarter last year. It's the most Tesla has ever sold in a quarter (and for some added perspective, the company sold 367,500 in all of 2019).
-<a href='https://www.theverge.com/2021/10/2/22704830/tesla-sold-241300-cars-third-quarter'> Source <a/>

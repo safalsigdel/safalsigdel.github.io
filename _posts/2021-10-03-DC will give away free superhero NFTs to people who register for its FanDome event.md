@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uCWFgMVVel1YAgRxnnrKpSncZ60=/0x0:600x600/1200x800/filters:focal(252x252:348x348)/cdn.vox-cdn.com/uploads/chorus_image/image/69942005/superman.0.png' width='700px' /><br/>
-DC is giving away free non-fungible tokens (NFTs) of its superhero comic book covers to people who register for its October 16th FanDome event. The NFT drop— the first for DC— is set for October 5th, and those who register for FanDome will receive one free, randomly-selected NFT, and become eligible for a second free NFT if they post about their first one on social media.
-<a href='https://www.theverge.com/2021/10/2/22705818/dc-free-superhero-nfts-register-fandome-event'> Source <a/>

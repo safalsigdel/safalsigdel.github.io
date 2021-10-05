@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8tK5O4xwgpdFuyDk2Q0e1Oxid2g=/0x0:4000x2666/1200x675/filters:focal(2007x838:2647x1478)/cdn.vox-cdn.com/uploads/chorus_image/image/69939913/1235424862.0.jpg' width='700px' /><br/>
-Human memory is fallible. That's why defense lawyers like to age their cases — and why prosecutors were so frustrated with the multiple delays in trying Elizabeth Holmes for her role at the failed blood-testing company Theranos. Given enough time, people forget things. That can open the door for reasonable doubt.
-<a href='https://www.theverge.com/2021/10/1/22705156/elizabeth-holmes-theranos-aging-the-case-rosendorff'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HMsUi4sGytNHGA5s1MXFWwd7_20=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/69948610/Play_Something_.0.png' width='700px' /><br/>
+Netflix is officially bringing its shuffle feature to its Android mobile users.
+<a href='https://www.theverge.com/2021/10/4/22708664/netflix-play-something-android'> Source <a/>

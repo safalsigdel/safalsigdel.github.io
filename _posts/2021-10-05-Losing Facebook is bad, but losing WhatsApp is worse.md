@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iYpOmxBOm3Vs_WQeD3tb_nwidZk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69950895/acastro_210119_1777_whatsapp_0003.0.jpg' width='700px' /><br/>
+In the chaos of Monday's Facebook outage, it's easy to lose sight of the company's reach. Not being able to post a new photo to Instagram is an annoyance, but it's not necessarily catastrophic. Yet for WhatsApp users, especially outside of the US, losing Facebook's encrypted messaging service is a life-halting change, and one competing messaging services were eager to capitalize on today.
+<a href='https://www.theverge.com/2021/10/4/22709669/facebook-outage-whatsapp-signal-telegram-encrypted'> Source <a/>

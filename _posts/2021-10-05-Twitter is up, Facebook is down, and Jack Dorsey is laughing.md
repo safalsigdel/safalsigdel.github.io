@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Twitter CEO Jack Dorsey appears to be getting just as much schadenfreude out of today's global Facebook outage as anyone. The microblogging chief is tweeting through Facebook's DNS issues by dunking on the company amid its latest round of scrutiny from The Wall Street Journal, 60 Minutes, and lawmakers.
+<a href='https://www.theverge.com/tldr/2021/10/4/22709235/twitter-jack-dorsey-dunk-facebook-outage-dns'> Source <a/>

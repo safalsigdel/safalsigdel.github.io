@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P5EZmRStQu_tbSiDxHPr-MiQprw=/0x0:1650x1100/1200x800/filters:focal(693x418:957x682)/cdn.vox-cdn.com/uploads/chorus_image/image/69950000/windows11main.0.jpg' width='700px' /><br/>
+Windows 11 is now officially available to download. While Microsoft is launching Windows 11-powered hardware worldwide on October 5th, the company has made the OS update available early for eligible devices in New Zealand and beyond. If you've purchased a Windows 10 machine recently, that means you should be able to upgrade to Windows 11 right now.
+<a href='https://www.theverge.com/2021/10/4/22709166/microsoft-windows-11-release-download-available'> Source <a/>
