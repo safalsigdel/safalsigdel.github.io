@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sRlwX01ML925eNXxMgvtvWIKVaM=/0x0:8256x5504/1200x800/filters:focal(4284x1777:5604x3097)/cdn.vox-cdn.com/uploads/chorus_image/image/69954743/FaZe_NICKMERCS___Main_Press_Photo_1___Credit_Jeffrey_Cleary.0.jpg' width='700px' /><br/>
+Nick “Nickmercs” Kolcheff, one of the biggest streamers on Twitch, has signed a deal to continue streaming exclusively on the Amazon-owned streaming platform. The deal locks down one of Twitch's most important creators for the foreseeable future, and it comes at a particularly important time, since Twitch lost two major streamers to YouTube Gaming in September.
+<a href='https://www.theverge.com/2021/10/5/22704128/twitch-nickmercs-streaming-deal-exclusive'> Source <a/>

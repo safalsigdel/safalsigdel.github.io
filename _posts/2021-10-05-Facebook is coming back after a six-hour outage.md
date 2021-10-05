@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wFTnhYUn7fQyyzkd9eUsNx9-aYY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69950525/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook is back online after a six-hour outage due to DNS routing problems. The outage took down Instagram, Whatsapp, Messenger, and Oculus VR as well. For some, those services are back online now; however, after a DNS issue like this, it could take hours for everything to work properly on every network.
-<a href='https://www.theverge.com/2021/10/4/22709654/instagram-facebook-outage-whatsapp-oculus'> Source <a/>
