@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UKKkYHsi2TeaQ_hPkEGbMI6ynk8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69950006/Hero_Bloom_Logo.0.jpg' width='700px' /><br/>
-Microsoft's free Windows 11 upgrade from Windows 10 is now rolling out. Microsoft is starting to offer the free upgrade to new devices that are still shipping with Windows 10, before making the OS available to other eligible existing hardware.
-<a href='https://www.theverge.com/22708478/microsoft-windows-11-upgrade-free-os-how-to-download'> Source <a/>

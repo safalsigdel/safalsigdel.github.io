@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-M6n19uHjzArJ4Er6i2EdSUM1vY=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22679323/Hero_Bloom_Logo.jpg' width='700px' /><br/>
-Microsoft wants Windows 11 to feel familiar. While the company has attempted drastic changes to the user interface of Windows in the past and failed, Windows 11 feels like a subtle and considered attempt to modernize an operating system that's existed for more than 35 years.
-<a href='https://www.theverge.com/22708762/microsoft-windows-11-review'> Source <a/>
