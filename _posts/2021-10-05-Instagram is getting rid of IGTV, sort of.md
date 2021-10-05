@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pY60ewR-Hgy2GvFdimfxcERQRng=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69954516/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+Instagram is finally acknowledging that IGTV, its first big push into video, didn't pan out.
+<a href='https://www.theverge.com/2021/10/5/22710638/instagram-tv-igtv-rebrand-video-formats-tiktok-reels'> Source <a/>
