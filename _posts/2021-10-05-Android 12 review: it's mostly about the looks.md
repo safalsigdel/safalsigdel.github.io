@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1K34nUG109Hng6YgqzuPVEvk5rM=/0x0:2040x1360/1200x675/filters:focal(1117x498:1443x824)/cdn.vox-cdn.com/uploads/chorus_image/image/69949224/cfaulkner_211004_4791_00011.0.jpg' width='700px' /><br/>
-The most exciting thing about a big Android update is getting to try all of the new show-stopping features that'll change the way you'll use your phone. Android 12, which releases in a few weeks on Pixel phones (3 and up) and just a select few other devices later this year, is interesting because, well, it doesn't have a bunch of those.
-<a href='https://www.theverge.com/22708720/android-12-review-features-pixel-update-software'> Source <a/>
