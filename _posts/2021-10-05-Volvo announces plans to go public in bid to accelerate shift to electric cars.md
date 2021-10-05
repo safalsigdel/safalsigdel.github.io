@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KzPtkyF_TrwzeQ4QOnxGSaDdW7U=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/69948414/ahawkins_201221_4352_6471.0.jpg' width='700px' /><br/>
-Volvo, the Swedish luxury car maker owned by China's Geely, announced its plan for an initial public offering as it seeks to raise more cash to accelerate its transition to a fully electric car company.
-<a href='https://www.theverge.com/2021/10/4/22708804/volvo-ipo-value-geely-polestar-electric-cars'> Source <a/>

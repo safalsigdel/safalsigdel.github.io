@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dOp3JjhLfTh6xRdTKG1KE2ck1aU=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/69952511/RFO_Partner_Assets__1_.0.png' width='700px' /><br/>
+Snapchat is launching a new tool aimed at guiding its young user base to consider running for political office. The company says it wants to help potential future candidates deal with common barriers to launching political campaigns by providing information, resources, and encouragement.
+<a href='https://www.theverge.com/2021/10/5/22709037/snapchat-run-for-office-mini-political-issues'> Source <a/>
