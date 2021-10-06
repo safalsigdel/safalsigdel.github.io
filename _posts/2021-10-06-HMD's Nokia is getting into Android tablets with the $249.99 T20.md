@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pySDdSn-O_eS9TiUlvrdrnwMTZA=/0x0:8448x5632/1200x800/filters:focal(3549x2141:4899x3491)/cdn.vox-cdn.com/uploads/chorus_image/image/69958072/Nokia_T20_00000269_v1.0.jpg' width='700px' /><br/>
+After years of focusing on phones, HMD is releasing its first Android tablet under the Nokia brand name — something we haven't seen since the real Nokia launched the N1 Android tablet back in 2014.
+<a href='https://www.theverge.com/2021/10/6/22711065/hmd-nokia-t20-android-tablet-10-4-inch-screen'> Source <a/>
