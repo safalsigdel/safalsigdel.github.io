@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rqp1F0aI8mNTomPGpUBK0NJVRow=/0x0:1920x1280/1200x0/filters:focal(0x0:1920x1280):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22904740/Xbox_20th_Forum_Tech_Copy_JPG.jpg' width='700px' /><br/>
+Microsoft's Xbox team is partnering with Adidas to create limited-edition Xbox sneakers. The collaboration will see Adidas produce an Xbox sneaker to mark 20 years since the original release of the Xbox console. The sneakers include the Xbox logo and translucent green details.
+<a href='https://www.theverge.com/2021/10/6/22712418/adidas-xbox-sneakers-trainers-microsoft'> Source <a/>
