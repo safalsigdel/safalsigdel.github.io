@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ebdES8H9Jaj9LYJ4P4a0RT4qY8w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69955507/acstro_190902_apple_event_0005.0.0.jpg' width='700px' /><br/>
-Apple employees raising concerns that misleading data was used to support new health products were dismissed or met with hostility, Insider reported. In addition, a lack of structure within the health group, along with other organizational problems, is slowing and frustrating the company's ambitions to push into healthcare, current and former Apple employees told Insider.
-<a href='https://www.theverge.com/2021/10/5/22710901/apple-health-clinic-data-misleading-culture'> Source <a/>
