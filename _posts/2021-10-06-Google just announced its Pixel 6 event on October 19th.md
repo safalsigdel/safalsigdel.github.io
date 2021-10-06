@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UhZN2UkFsu_2pkfdfmeleC5OmUk=/0x0:4096x2150/1200x800/filters:focal(1656x659:2310x1313)/cdn.vox-cdn.com/uploads/chorus_image/image/69954789/FA8qbJ0VQAsbGif.0.jpg' width='700px' /><br/>
-Google traditionally holds an October hardware event to reveal its new Pixel phones. This year, it already announced them — here's the Pixel 5A and the Pixel 6. But the company clearly hasn't said everything it wants to say publicly quite yet, because it just announced a virtual event for October 19th at 1PM ET / 10AM PT.
-<a href='https://www.theverge.com/2021/10/5/22691850/google-pixel-6-event-2021-fall-announcement'> Source <a/>
