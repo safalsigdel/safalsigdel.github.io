@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8aIKZvg2jEZDj2ay0fqk3i1PJ7I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69949674/bfarsace_4481_20210317_0077_Edit.0.jpg' width='700px' /><br/>
-Now that OnePlus is a sub-brand of the Oppo family, the two companies not only merged their R&D departments in early 2021, but they are also consolidating code for their two Android-based operating systems. While OxygenOS 12 will be used on global OnePlus phones, ColorOS 12 will only be on China-only Oppo and OnePlus phones.
-<a href='https://www.theverge.com/2021/10/4/22704578/oneplus-9-pro-oxygen-os-12-color-os-android-12-skin'> Source <a/>

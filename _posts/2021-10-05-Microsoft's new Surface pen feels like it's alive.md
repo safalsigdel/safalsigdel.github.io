@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xGI-NWgNSyRRHrYOu4cnKBbF8Mw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69953279/bfarsace_211004_4777_0057.0.jpg' width='700px' /><br/>
-Microsoft's new Surface Pro 8 has a gorgeous 120Hz display and updated internals, but it's really the new Surface Slim Pen 2 that has caught my attention. Microsoft has added haptics features to its stylus for the first time, thanks to a new custom chip inside. It has transformed inking on the Surface Pro 8.
-<a href='https://www.theverge.com/22710381/microsoft-surface-slim-pen-2-hands-on'> Source <a/>

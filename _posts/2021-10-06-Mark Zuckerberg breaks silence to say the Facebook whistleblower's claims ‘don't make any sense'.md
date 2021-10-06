@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hFwljsGvRwtwsoFKcHN96isy4nM=/481x183:3564x2049/1200x800/filters:focal(1777x1248:2417x1888)/cdn.vox-cdn.com/uploads/chorus_image/image/69957279/1231932411.0.jpg' width='700px' /><br/>
+Mark Zuckerberg posted a staunch defense of his company in a note to Facebook staffers, saying that recent claims by an ex-employee about the social network's negative effects on society “don't make any sense.”
+<a href='https://www.theverge.com/2021/10/5/22711837/mark-zuckerberg-responds-to-facebook-whistleblower'> Source <a/>

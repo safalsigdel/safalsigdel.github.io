@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ML2ZO-RglAQYKPj-Ooy2zynukkc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69955448/acastro_180806_1777_facebook_0001.0.jpg' width='700px' /><br/>
+The massive outage that took down Facebook, its associated services (Instagram, WhatsApp, Oculus, Messenger), its platform for businesses, and the company's own internal network all started with routine maintenance.
+<a href='https://www.theverge.com/2021/10/5/22710963/facebook-dns-bgp-outage-backbone-maintenance'> Source <a/>

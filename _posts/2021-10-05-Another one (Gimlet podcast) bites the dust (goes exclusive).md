@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IFaA54blJGLi4uvzwMbkPCmmbFg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69953223/acastro_190927_1777_3693_0001.0.jpg' width='700px' /><br/>
-Hello again, welcome to the first week of October. I'm loving the spooky vibes and strong pumpkin energy the fall has wrought, although it was a little steamy here in NYC this past weekend. Summer's last gasp. But I'm not complaining! I put the heat on in my car for approximately three minutes last week and was sad.
-<a href='https://www.theverge.com/2021/10/5/22710438/heavyweight-podcast-gimlet-exclusive-spotify-hot-pod'> Source <a/>

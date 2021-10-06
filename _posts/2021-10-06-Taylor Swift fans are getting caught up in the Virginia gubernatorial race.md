@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sNED4ITTfVrJp5_q7NZpF--KuM4=/0x0:5000x2813/1200x800/filters:focal(2100x1007:2900x1807)/cdn.vox-cdn.com/uploads/chorus_image/image/69954944/1272912319.0.jpg' width='700px' /><br/>
+Weeks before Virginia's gubernatorial election, the campaign for Democratic candidate Terry McAuliffe is reaching out to an unexpected constituency: Taylor Swift fans.
+<a href='https://www.theverge.com/2021/10/5/22710848/taylor-swift-scooter-braun-masters-glenn-youngkin-virginia-mcauliffe'> Source <a/>

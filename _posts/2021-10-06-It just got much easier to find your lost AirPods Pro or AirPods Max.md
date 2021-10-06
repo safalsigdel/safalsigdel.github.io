@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZoSpBaNv_g94vYmn9em9hwrOBco=/0x0:2040x1360/1200x800/filters:focal(900x700:1226x1026)/cdn.vox-cdn.com/uploads/chorus_image/image/69956596/cwelch_191031_3763_0003.0.jpg' width='700px' /><br/>
+Apple today released a firmware update for its AirPods Pro and AirPods Max that introduces new options for finding the pricey products if you happen to misplace them. These capabilities were first promised for iOS 15 but didn't quite make the launch; thankfully, it didn't take Apple much longer after that to roll them out. Both 9to5Mac and MacRumors reported on today's release.
+<a href='https://www.theverge.com/2021/10/5/22711557/apple-lost-airpods-pro-max-find-my-network-now-available'> Source <a/>

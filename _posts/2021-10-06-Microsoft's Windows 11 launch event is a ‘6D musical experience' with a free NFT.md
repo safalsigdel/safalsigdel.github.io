@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SNSvY9TGt_pVWLcl5ki0Nz3VeCg=/0x0:1172x642/1200x800/filters:focal(493x228:679x414)/cdn.vox-cdn.com/uploads/chorus_image/image/69956456/IymeorV.0.png' width='700px' /><br/>
+Microsoft is launching Windows 11 virtually today, and the company is promising a “first-of-its-kind 6D streaming event,” featuring Allen Stone and Tate McRae. I'm not entirely sure what a “6D musical experience” is, but Microsoft's website promises multiple camera views during its stream and even a free Windows 11 NFT.
+<a href='https://www.theverge.com/2021/10/5/22711508/microsoft-windows-11-free-nft-launch-event-stream-6d-musical-experience'> Source <a/>

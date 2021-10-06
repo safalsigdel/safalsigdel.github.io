@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ipP1gKFNfcYfUvtY2lsPUObbUnk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69953233/acastro_191014_1777_google_pixel_0004.0.0.jpg' width='700px' /><br/>
-In May, Google announced plans to enable two-factor authentication (or two-step verification as it's referring to the setup) by default to enable more security for many accounts. Now it's Cybersecurity Awareness Month, and Google is once again reminding us of that plan, saying in a blog post that it will enable two-factor for 150 million more accounts by the end of this year.
-<a href='https://www.theverge.com/2021/10/5/22710421/google-security-2fa-inactive-account-management'> Source <a/>

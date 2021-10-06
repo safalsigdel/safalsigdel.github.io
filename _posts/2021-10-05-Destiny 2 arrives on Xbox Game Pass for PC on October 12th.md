@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GlHkHLFmXnBtBYwHPr5WCzujuzg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69953873/bungie_net_metadata_beyondlight_1920x1080.0.jpg' width='700px' /><br/>
-Destiny 2 is finally arriving on Xbox Game Pass for PC later this month. While the looter shooter has been available on the Xbox console side of Xbox Game Pass for more than a year, PC players have been patiently waiting for it to be included on Xbox Game Pass for PC. Microsoft is now bundling Destiny 2: Beyond Light on Xbox Game Pass for PC on October 12th.
-<a href='https://www.theverge.com/2021/10/5/22710642/destiny-2-xbox-game-pass-for-pc-release-date'> Source <a/>

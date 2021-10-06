@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZRmDJm85NJBnjDPDmc_ze7cvZDQ=/0x0:3200x2133/1200x800/filters:focal(1344x811:1856x1323)/cdn.vox-cdn.com/uploads/chorus_image/image/69952455/1009397468.0.jpg' width='700px' /><br/>
-A jury in California has ordered Tesla to pay $137 million in damages to a Black former elevator operator after he experienced a hostile work environment, including racial harassment and discrimination, at the company's Fremont plant.
-<a href='https://www.theverge.com/2021/10/5/22710279/tesla-racism-fremont-plant-137-million-judgement-owen-diaz'> Source <a/>

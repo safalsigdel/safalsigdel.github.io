@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QBqkL3_2CuBDTdbSa1E2KkUFKQQ=/0x0:965x542/1200x800/filters:focal(406x194:560x348)/cdn.vox-cdn.com/uploads/chorus_image/image/69952491/kobo_sage_stylus_2.0.jpeg' width='700px' /><br/>
-Kobo has announced a pair of new e-readers: the $260 Kobo Sage, which is the company's new top-end device, and the $180 Libra 2, an update to its mid-range Libra.
-<a href='https://www.theverge.com/2021/10/5/22710302/kobo-e-readers-note-taking-sage-waterproof-libra-2-prices-specs'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sZWNuWkgN4jaQPxEaBe-g0v_oCE=/0x0:3650x2496/1200x800/filters:focal(1533x956:2117x1540)/cdn.vox-cdn.com/uploads/chorus_image/image/69955047/Screen_Shot_2021_10_05_at_9.13.26_AM.0.png' width='700px' /><br/>
+Apple is commemorating its co-founder and former CEO Steve Jobs' death with a new short film and a personal statement from the visionary tech executive's family. Jobs passed away 10 years ago on October 5th, 2011, after a difficult battle with pancreatic cancer.
+<a href='https://www.theverge.com/2021/10/5/22710841/apple-steve-jobs-memorial-10-years'> Source <a/>

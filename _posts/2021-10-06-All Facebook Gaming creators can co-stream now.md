@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fexuAaOE4xM6LasWfwmWdCjK4V4=/0x0:720x480/1200x800/filters:focal(303x183:417x297)/cdn.vox-cdn.com/uploads/chorus_image/image/69954917/acastro_210722_1777_facebookgaming_720.0.jpg' width='700px' /><br/>
+Facebook is adding co-streaming to Facebook Gaming, a useful feature the Twitch competitor has lacked since it launched in 2018. Additionally, while Twitch's version of a co-streaming feature — “Squad Stream” — requires you to be a Twitch Partner, Facebook is making co-streaming available to everyone.
+<a href='https://www.theverge.com/2021/10/5/22705115/facebook-gaming-co-streaming-twitch'> Source <a/>

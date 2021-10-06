@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bVjkvsrb9ShzMc2hm3gEbchO6hg=/0x0:723x482/1200x800/filters:focal(305x184:419x298)/cdn.vox-cdn.com/uploads/chorus_image/image/69952688/huawei_matebook_16_kv.0.jpg' width='700px' /><br/>
-Huawei's MateBook 16, a laptop that combines a large 16-inch display with a 3:2 aspect ratio and a Ryzen 5000 series processor, is getting a global launch. The laptop was first announced for the Chinese market in May but will shortly be launching globally with prices starting at the equivalent of xe2x82xac1,099 (around $1,274) for the Ryzen 5 model, and xe2x82xac1,199 (around $1,390) for the Ryzen 7 version.
-<a href='https://www.theverge.com/2021/10/5/22702083/huawei-matebook-16-ryzen-5000-laptop-price'> Source <a/>
