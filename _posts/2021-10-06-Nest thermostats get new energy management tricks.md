@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZpSMY-0SpVtnPq9rm5-GtKngxJg=/0x0:3767x2690/1200x800/filters:focal(1583x1044:2185x1646)/cdn.vox-cdn.com/uploads/chorus_image/image/69957994/Person_Adjusting_Thermostat_1.0.jpg' width='700px' /><br/>
+Google has announced several new features for its Nest thermostats centered around helping the smart home become a bigger partner in the battle against climate change. These features are wrapped up in a new service called Nest Renew.
+<a href='https://www.theverge.com/2021/10/6/22711307/google-nest-renew-nest-thermostat-service'> Source <a/>
