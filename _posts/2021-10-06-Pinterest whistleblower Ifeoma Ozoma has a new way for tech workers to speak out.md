@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ynh_tovf8rgNKKOw52QygkqB1MM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69958687/gcampos_210220_4385_0003.0.jpg' width='700px' /><br/>
+When Ifeoma Ozoma came forward with allegations of discrimination and racism at Pinterest, she was prepared. She had a list of reporters on deck to share her story. She'd already hired a lawyer. Then she started hearing from other tech workers who also wanted to speak out. “The general lack of awareness around options and resources was shocking,” she says.
+<a href='https://www.theverge.com/2021/10/6/22711694/pinterest-whistleblower-ifeoma-ozoma-tech-worker-handbook'> Source <a/>

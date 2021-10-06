@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Vd_Jszzx1zW9Gn9dJiQVOCNI_YE=/0x0:2040x1360/1200x675/filters:focal(895x533:1221x859)/cdn.vox-cdn.com/uploads/chorus_image/image/69958631/cfaulkner_210921_4751_0004.0.jpg' width='700px' /><br/>
+Buying an upgraded version of a gadget can be complicated. It's not always immediately clear what's changed or if those changes are even useful to you; this can happen with iterative phone updates or, more recently, the latest generation of game consoles from Sony and Microsoft. In the case of the latest Switch, though, Nintendo made things easy: all that matters is how much you care about the screen.
+<a href='https://www.theverge.com/games/22711889/nintendo-switch-oled-review'> Source <a/>
