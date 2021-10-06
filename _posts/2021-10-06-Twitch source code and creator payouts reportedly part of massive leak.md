@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tNkmKTYChYaPHgCercwAxxd0uBs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69958207/acastro_210115_1777_twitch_hate_raid_0002.0.jpg' width='700px' /><br/>
+Twitch appears to have been hacked, leaking source code for the company's streaming service, an unreleased Steam competitor from Amazon Game Studios, and details of creator payouts. An anonymous poster on the 4chan messaging board has released a 125GB torrent, which they claim includes the entirety of Twitch and its commit history.
+<a href='https://www.theverge.com/2021/10/6/22712250/twitch-hack-leak-data-streamer-revenue-steam-competitor'> Source <a/>
