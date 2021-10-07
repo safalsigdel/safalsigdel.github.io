@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yfwhJ9cWj1-nY7b62bmSJwd436c=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69959875/Switch_ACNH_0220_Direct_OnlinePlay_SCRN_02_copy.0.jpg' width='700px' /><br/>
-Like the Smash Direct before it, Animal Crossing: New Horizons is getting its own showcase coming October 15th. The Animal Crossing Twitter account revealed the news, promising 20 minutes of updates and announcements of what to expect for Nintendo's bucolic hit of the pandemic.
-<a href='https://www.theverge.com/2021/10/6/22712781/animal-crossing-new-horizons-nintendo-direct-october-cafe'> Source <a/>
