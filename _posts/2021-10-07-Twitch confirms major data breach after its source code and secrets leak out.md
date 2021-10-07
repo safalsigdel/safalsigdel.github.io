@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fFEv1rlJTC9OAgEiKCOzg5sAZmQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69959448/acastro_190923_twitch_0004.0.0.jpg' width='700px' /><br/>
-Twitch has confirmed that it has suffered a major data breach. “We can confirm a breach has taken place,” says a Twitch spokesperson on Twitter. “Our teams are working with urgency to understand the extent of this. We will update the community as soon as additional information is available.”
-<a href='https://www.theverge.com/2021/10/6/22712365/twitch-data-leak-breach-security-confirmation-comments'> Source <a/>
