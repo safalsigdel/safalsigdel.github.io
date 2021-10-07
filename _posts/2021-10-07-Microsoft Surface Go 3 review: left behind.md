@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rmO8M46-_BvDqsQZWb-Hgvyz0W8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69963451/vpavic_210930_4784_0066.0.jpg' width='700px' /><br/>
+From what I can tell, Microsoft intends the Surface Go 3 to be sold to two kinds of customers: kids and IT professionals who need a tiny computer when they're out in the field. I'm in the third category of potential customers: people who love tiny computers. For all three groups, the Surface Go 3 is a bummer.
+<a href='https://www.theverge.com/22713963/microsoft-surface-go-3-review'> Source <a/>
