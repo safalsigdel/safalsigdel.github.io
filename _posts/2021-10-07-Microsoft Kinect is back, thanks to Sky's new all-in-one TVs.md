@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KdjRw20dyl_DmUSHEB8PXKhNY1Y=/0x0:2179x1226/1200x800/filters:focal(916x439:1264x787)/cdn.vox-cdn.com/uploads/chorus_image/image/69962969/skyglasscamera.0.jpg' width='700px' /><br/>
+Sky is resurrecting the original dream of Microsoft's Kinect accessory next year. The British satellite broadcaster announced its new Sky Glass TVs this morning, and the company has built a separate 4K camera that includes motion controls and gestures support. It even works across games, and has a social TV sharing feature built in partnership with Microsoft.
+<a href='https://www.theverge.com/2021/10/7/22714117/microsoft-kinect-is-back-sky-glass-tv-smart-camera-features'> Source <a/>
