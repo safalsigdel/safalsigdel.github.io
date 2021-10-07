@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x0H2PQ1HJO2U3Yzvr84L1CU5Kcc=/0x0:1920x1080/1200x675/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69963730/VergeApp_Roku_Splash_Screen_1080.0.png' width='700px' /><br/>
+The Verge is now available on your TV — in 4K. You can now watch our product reviews, in-depth tech and science explainers, exclusive documentaries, and much more on your favorite streaming devices: Roku, Amazon Fire TV, and Android TV. The app will be on Apple TV later this year.
+<a href='https://www.theverge.com/22680029/the-verge-tv-app-android-tv-amazon-fire-tv-roku'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O3Q5MA4evG5bVO3eSIVD59tPOD8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69959715/acastro_200406_1777_gm_0002.0.0.jpg' width='700px' /><br/>
-After years of teases, General Motors is finally pulling the curtain back on its next-generation “hands-free” driver-assist technology.
-<a href='https://www.theverge.com/2021/10/6/22712566/gm-ultra-cruise-adas-hands-free-driving'> Source <a/>
