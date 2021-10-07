@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q20yKLzlGLj_XvYxKDNc2KqnTSA=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22863261/akrales_210917_4760_0331.jpg' width='700px' /><br/>
-I wanted to spend more time with both the iPhone 13 Mini and the iPhone 13 Pro Max before I weighed in with a final verdict on their respective batteries. I've updated my full reviews of each to reflect my impressions after using them for a couple weeks, but I figured it might be helpful to lay out what I'm seeing separately.
-<a href='https://www.theverge.com/22709829/iphone-13-mini-pro-max-battery-tests'> Source <a/>
