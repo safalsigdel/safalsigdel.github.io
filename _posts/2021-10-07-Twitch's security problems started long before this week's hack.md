@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wWXCnK1zrHZdNzt4KE4AA_-0KPs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69963684/acastro_190812_1777_twitch_0002.0.0.jpg' width='700px' /><br/>
+A massive security breach at Twitch has exposed a wealth of information pertaining to the website's source code, unreleased projects, and even how much the top streamers make. As data analysts and journalists work to decipher what exactly is contained in the hundreds of gigabytes of information, others are still wondering how this happened.
+<a href='https://www.theverge.com/2021/10/7/22714160/twitch-hack-security-data-breach-problems'> Source <a/>
