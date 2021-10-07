@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Microsoft has teamed up with Mikey Likes It Ice Cream in New York City to give away free frozen dessert today. The collaboration marks the release of Windows 11 and part of what would normally, before the pandemic, include a Windows launch party in New York City. The “Bloomberry” (not to be confused with Bloomberg) ice cream looks like a frozen mix of the default Bloom Windows 11 wallpaper.
-<a href='https://www.theverge.com/tldr/2021/10/5/22711189/microsoft-windows-11-ice-cream-free-mikey-likes-it-nyc'> Source <a/>

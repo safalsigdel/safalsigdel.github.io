@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vmSas7thFBskFaPKqfcgyI3p2pw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69957064/acastro_210121_1777_google_0001.0.jpg' width='700px' /><br/>
-Late Monday night, Google filed for a court order to produce documents from longtime Google critic Luther Lowe, as part of its ongoing federal antitrust case, US vs. Google.
-<a href='https://www.theverge.com/2021/10/5/22711723/google-document-demand-luther-lowe-yelp-us-antitrust'> Source <a/>

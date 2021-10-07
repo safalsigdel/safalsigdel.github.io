@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/koDvTqNS9SUDOwvqWwslX_uf7tQ=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/69958426/1228126348.0.jpg' width='700px' /><br/>
-Uber is rolling out several new features designed to improve the most dreaded trip imaginable: the airport trip. In select cities, customers can book a ride to the airport 30 days in advance and even send their flight information to their driver so they can track its progress in real-time. The company is also deploying machine learning to improve curbside pickups.
-<a href='https://www.theverge.com/2021/10/6/22710870/uber-airport-reserve-advanced-booking-flight-tracking'> Source <a/>

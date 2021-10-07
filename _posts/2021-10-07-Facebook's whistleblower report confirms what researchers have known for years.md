@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-DIgoQ9j7kGlGn09aXg0ss_Zugo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69960216/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
+For weeks, Facebook has stared down mounting anxiety over a leaked internal study about the harmful effects of Instagram on teenage girls — and Tuesday night, Mark Zuckerberg finally responded to the scandal personally. In an open letter to Facebook staff, Zuckerberg scoffed at concerns raised by whistleblower Frances Haugen, doubling down on earlier Facebook claims that the report has been misinterpreted.
+<a href='https://www.theverge.com/2021/10/6/22712927/facebook-instagram-teen-mental-health-research'> Source <a/>

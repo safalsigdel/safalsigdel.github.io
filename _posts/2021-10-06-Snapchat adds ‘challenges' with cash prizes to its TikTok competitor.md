@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/neHYhlWPc_MI7i0WqjxxiAgppBE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69958621/Spotlight_Challenges.0.png' width='700px' /><br/>
-Snapchat is adding another way for creators to earn cash. The app is launching a feature called Spotlight Challenges, which will reward a handful of creators each week for making videos using specific Lenses, doing certain activities, or playing a chosen sound inside the app's TikTok competitor, Spotlight.
-<a href='https://www.theverge.com/2021/10/6/22711632/snapchat-spotlight-challenges-announced-cash-prizes-tiktok'> Source <a/>

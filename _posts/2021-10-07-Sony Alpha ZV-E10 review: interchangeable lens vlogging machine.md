@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fsgDk2wrkxDqwJyRfRfXM5mBkxw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69959474/bfarsace_290921_4781_01980.0.jpg' width='700px' /><br/>
+The Alpha ZV-E10 is Sony's newest addition to its lineup of mirrorless cameras. At $799.99 with Sony's 16-50 lens ($699.99 for just the body), it is the company's second attempt at making a vlogging-oriented camera and the successor to last year's ZV-1. It adds a headphone jack, more battery life, a larger sensor, and most importantly, an interchangeable lens design.
+<a href='https://www.theverge.com/22702421/sony-alpha-zv-e10-review-vlogging-camera-test-price-specs'> Source <a/>

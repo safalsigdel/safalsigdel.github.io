@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dJa9wleq4JqeOkD1cyvUY7h3deg=/0x0:2040x1360/1200x800/filters:focal(821x213:1147x539)/cdn.vox-cdn.com/uploads/chorus_image/image/69955722/acastro_072121_4674_zuckerberg_3.0.jpg' width='700px' /><br/>
-Facebook has chosen to respond to whistleblower Frances Haugen in the most cowardly way possible: by hiding Mark Zuckerberg, the man ultimately responsible for Facebook's decisions, and beginning the process of trying to smear and discredit Haugen.
-<a href='https://www.theverge.com/2021/10/5/22711182/facebook-whistleblower-smear-pr-response'> Source <a/>

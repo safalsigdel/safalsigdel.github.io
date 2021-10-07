@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iD6GXTNNUfXXN2ifgQE8-nPmohA=/0x0:3360x2100/1200x800/filters:focal(1412x782:1948x1318)/cdn.vox-cdn.com/uploads/chorus_image/image/69959757/macro_mode_halide.0.png' width='700px' /><br/>
+Halide is one of the best photography apps on the iPhone, and the company has just updated its app with a new macro feature, designed to perfectly complement the new macro mode that Apple added with this year's iPhone 13 Pro models.
+<a href='https://www.theverge.com/2021/10/6/22711503/halide-iphone-13-pro-macro-mode-camera-app-update-older-devices'> Source <a/>

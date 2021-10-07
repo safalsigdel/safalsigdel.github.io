@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wHxT4ttqDzx7QJFj86lxzDTvWZk=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69958436/VRG_ILLO_Verge_2021_tech_survey.0.jpg' width='700px' /><br/>
-In a year of isolation, fear, sickness, and death, the tech industry provided many of the ways people stayed connected. It also made Americans very aware of their reliance on the major tech companies. So have our attitudes toward them shifted?
-<a href='https://www.theverge.com/2021/10/6/22702798/verge-tech-survey-2021-trust-privacy-security-facebook-amazon-google-apple-pandemic'> Source <a/>

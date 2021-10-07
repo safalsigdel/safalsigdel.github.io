@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e6DvficWEg1zZcJUDXCfQwEf7hM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69956897/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
-Twitter announced Tuesday that it's dropping a feature from its live broadcasts tool, but the company is removing it in service of making your video broadcast quality better.
-<a href='https://www.theverge.com/2021/10/5/22711672/twitter-live-video-quality-improvements-dropped-feature'> Source <a/>

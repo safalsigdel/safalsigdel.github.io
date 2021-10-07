@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7ZXKZcigiePugHhPPI6Nb5A5Im8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69956488/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-Amazon might be working on its own smart fridge, according to a new report from Insider. "Project Pulse," as the project is titled internally, is reportedly being developed by the same Amazon "physical-stores unit" that worked on the company's high-tech Amazon Go stores.
-<a href='https://www.theverge.com/2021/10/5/22711240/amazon-smart-fridge-cameras-go-stores'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jneQbBjwCJeeamfDZKFjfi-nfYU=/0x0:1424x876/1200x800/filters:focal(599x325:825x551)/cdn.vox-cdn.com/uploads/chorus_image/image/69955764/Screen_Shot_2021_10_05_at_2.45.15_PM.0.png' width='700px' /><br/>
-Scroll's ad-free subscription web service is shutting down as an independent entity in “approximately” 30 days, the company announced in an email to subscribers. The service — which was purchased by Twitter earlier this year — will instead be rolled into the burgeoning Twitter Blue premium subscription as “Ad-Free Articles.”
-<a href='https://www.theverge.com/2021/10/5/22711233/scroll-shutting-down-twitter-blue-standalone-subscription-ad-free-article-service'> Source <a/>

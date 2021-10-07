@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/23kAl2gSUVzYfdtkVi9G_-tyJIw=/0x0:4000x2661/1200x675/filters:focal(1680x1011:2320x1651)/cdn.vox-cdn.com/uploads/chorus_image/image/69959615/1232418314.0.jpg' width='700px' /><br/>
+Buying a gadget made with recycled plastic instead of brand-new materials might sound like an environmentally friendly investment, but it does very little to cut down on the heaps of plastic pollution and electronic waste that are trashing the environment and ending up everywhere — including in our own bodies.
+<a href='https://www.theverge.com/2021/10/6/22712435/recycling-e-waste-tech-plastic-pollution'> Source <a/>

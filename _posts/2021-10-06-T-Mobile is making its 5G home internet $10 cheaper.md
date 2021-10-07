@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y4WpLtDR1F3oVfbiTHiMDIse1Ls=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69957394/acastro_191108_1777_t-mobile_0001.0.0.jpg' width='700px' /><br/>
-T-Mobile has announced that it's cutting the price of its 5G-powered home internet service by $10, bringing it back to the $50 price that it charged during its pilot program. That $50 a month gets you internet with no data cap, speeds that T-Mobile estimates will be anywhere from 35 to 115 Mbps, and a router capable of turning 5G and LTE into Wi-Fi (which you'll have to return if you ever cancel the contract-free plan).
-<a href='https://www.theverge.com/2021/10/5/22711794/t-mobile-home-internet-no-fees-price-cut'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bowlhAr0wtAmLzi61lAJ9o4Ru3s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69962057/acastro_170621_1777_0006_v2.0.jpg' width='700px' /><br/>
+Syniverse, a telecom company that helps carriers like Verizon, T-Mobile, and AT&T route messages between each other and other carriers abroad, disclosed last week that it was the subject of a possible five year long hack. If the name Syniverse sounds familiar, the company was also responsible for the disappearance of a swath of Valentine's Day text messages in 2019.
+<a href='https://www.theverge.com/2021/10/6/22713543/syniverse-hack-five-years-text-messages'> Source <a/>

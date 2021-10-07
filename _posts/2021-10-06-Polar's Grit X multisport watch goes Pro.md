@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w0FQrtkc8ep_rXIXhzAxuWkV4ww=/0x0:2040x1351/1200x800/filters:focal(1039x490:1365x816)/cdn.vox-cdn.com/uploads/chorus_image/image/69958061/verge_DSC_6507__1__2040pxl.0.jpg' width='700px' /><br/>
-Polar is making a number of updates to its family of sport watches today. This includes the launch of the Polar Grit X Pro for outdoor multisport enthusiasts, alongside feature and design tweaks to the company's “premium” Vantage V2 multisport watch and Polar Unite fitness watch.
-<a href='https://www.theverge.com/2021/10/6/22710376/polar-grit-x-pro-hands-on-multisport-watch-price-date'> Source <a/>

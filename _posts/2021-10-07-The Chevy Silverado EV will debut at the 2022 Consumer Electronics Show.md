@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UHzTlld0Lk2I9adnnKkwdKFDU4I=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/69959725/1188353086.0.jpg' width='700px' /><br/>
+General Motors will debut the all-electric Chevy Silverado at the 2022 Consumer Electronics show in January in Las Vegas, Nevada, as part of CEO Mary Barra's opening keynote address.
+<a href='https://www.theverge.com/2021/10/6/22712710/general-motors-investor-day-chevy-silverado-ev-2022-consumer-electronics-show'> Source <a/>

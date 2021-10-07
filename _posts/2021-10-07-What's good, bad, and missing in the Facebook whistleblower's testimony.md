@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5HQaa7DLKK2x-8mb8BxPQqUq9tI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69959306/acastro_180406_1777_facebook_Congress_0001.0.jpg' width='700px' /><br/>
+Today let's talk about Facebook whistleblower Frances Haugen's testimony before the Senate: the good, the bad, and what ought to happen next.
+<a href='https://www.theverge.com/2021/10/6/22712512/facebook-whistleblower-testimony-analysis-congress-instagram-whatsapp'> Source <a/>

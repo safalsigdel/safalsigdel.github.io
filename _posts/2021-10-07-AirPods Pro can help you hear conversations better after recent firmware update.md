@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j4u1LuYyYsNzQoAJ3kK6ZedSZpY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69961292/cwelch_191031_3763_0001.0.jpg' width='700px' /><br/>
+Apple's promised Conversation Boost feature that uses the AirPods Pro to make it easier to hear people's voices is available now (via Macrumors). Support for the new feature was included as part of the same update that made it easier to find AirPods Pro and AirPods Max using the Find My app.
+<a href='https://www.theverge.com/2021/10/6/22713126/airpods-pro-conversation-boost-firmware-update'> Source <a/>
