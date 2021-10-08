@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EUegRbEEsHxlHM83__hyZzflbY0=/0x0:661x441/1200x800/filters:focal(279x169:383x273)/cdn.vox-cdn.com/uploads/chorus_image/image/69967932/xD2C8Qsdpb.0.jpg' width='700px' /><br/>
+Google Search now has a handy built-in tuner, letting you use the microphone on your phone or computer to tune a guitar, Android Police reports. To access the feature, which was added this week, just search for “Google tuner.” The interface is similar to the dozens of guitar tuning apps that are already available. You play a string on the guitar, and Google will detect the note you're aiming for, and tell you to “tune up” or “tune down” as required.
+<a href='https://www.theverge.com/2021/10/8/22716012/google-search-built-in-guitar-tuner'> Source <a/>

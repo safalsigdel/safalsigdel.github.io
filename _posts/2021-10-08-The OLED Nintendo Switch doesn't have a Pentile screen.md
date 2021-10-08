@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PDd6k5g9neoU2ZCywE0HddXPna0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69967930/cfaulkner_210921_4751_0011.0.jpg' width='700px' /><br/>
+The new Nintendo Switch OLED Model doesn't have a Pentile screen.
+<a href='https://www.theverge.com/2021/10/8/22715977/oled-nintendo-switch-no-pentile-screen-macro-photo'> Source <a/>
