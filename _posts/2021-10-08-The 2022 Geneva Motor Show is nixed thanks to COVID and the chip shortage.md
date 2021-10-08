@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LbnF-9DQWUBXryw20cV6VpwTJX4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69964984/koenigsegg_geneva19_vladsavov22.0.jpg' width='700px' /><br/>
-The 2022 Geneva International Motor Show, slated to happen in February, has been canceled as the COVID pandemic persists and the auto industry struggles with a global chip shortage.
-<a href='https://www.theverge.com/2021/10/7/22714787/2022-geneva-motor-show-canceled-covid-semiconductor-shortage'> Source <a/>
