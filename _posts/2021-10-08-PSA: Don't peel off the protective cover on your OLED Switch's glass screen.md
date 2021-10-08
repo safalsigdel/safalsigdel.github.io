@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/f84zYN-K6MvhA7rZ7ya9KNn6wRw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69968924/cfaulkner_210921_4751_0002.0.jpg' width='700px' /><br/>
+If you're the owner of a Nintendo Switch OLED console, make sure you don't try to peel off the integrated screen protector on your new device.
+<a href='https://www.theverge.com/2021/10/8/22715422/nintendo-switch-oled-anti-scattering-film-protective-cover'> Source <a/>
