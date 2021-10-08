@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A04us__XXEUXB9I7JcenV4EizOA=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69965451/lyft_tinder.0.jpeg' width='700px' /><br/>
-Dating app Tinder and ride-hailing company Lyft are partnering on a new feature that lets Tinder members buy a Lyft ride for a potential date. Tinder first teased the new feature in March and is now rolling it out to its subscribers as a way to “get back to making IRL connections.”
-<a href='https://www.theverge.com/2021/10/7/22714762/tinder-lyft-partner-match-free-ride'> Source <a/>
