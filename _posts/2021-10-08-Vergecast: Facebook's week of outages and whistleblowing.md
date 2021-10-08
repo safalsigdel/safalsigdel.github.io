@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WJMHRfhXQ9bSk08r1HqlGUoHOyY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69969284/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/ghvZmEa03RxvyTjC-aWN29Qsr24=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/69969284/acastro_180928_1777_facebook_hack_0001.5.jpg' width='700px' /><br/>
 Every Friday, The Verge publishes our flagship podcast, The Vergecast, where co-hosts Nilay Patel and Dieter Bohn discuss the week in tech news with the reporters and editors covering the biggest stories.
 <a href='https://www.theverge.com/2021/10/8/22716187/vergecast-podcast-470-facebook-whistleblower-hearing-outage'> Source <a/>
