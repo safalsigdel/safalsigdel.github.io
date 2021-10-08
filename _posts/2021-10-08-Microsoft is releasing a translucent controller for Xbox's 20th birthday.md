@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HYaAN3FSQxI6s1yGWTU4eAuVk8A=/0x0:1165x777/1200x800/filters:focal(490x296:676x482)/cdn.vox-cdn.com/uploads/chorus_image/image/69964037/xbox20thbirthday.0.jpg' width='700px' /><br/>
-Microsoft is celebrating the 20th birthday of Xbox with a couple of new, translucent accessories, including a wireless controller and a wired gaming headset. They'll launch on November 15th, 2021 — marking 20 years to the day — and preorders are available now.
-<a href='https://www.theverge.com/2021/10/7/22714394/microsoft-xbox-20th-anniversary-controller-headset-design-preorder-date'> Source <a/>

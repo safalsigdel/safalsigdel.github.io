@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_o7_WrXcxAEaO2k_rAK9ogct_ag=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69968062/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
+A developer who made a tool that let people automatically unfollow friends and groups on Facebook says he's been banned permanently from the social networking site.
+<a href='https://www.theverge.com/2021/10/8/22716044/facebook-unfollow-everything-tool-louis-barclay-banned-for-life'> Source <a/>
