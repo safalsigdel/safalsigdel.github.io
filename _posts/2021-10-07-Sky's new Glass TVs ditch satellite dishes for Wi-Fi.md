@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dKJAKjpo4RiOzny3BPOxIw5W8rw=/0x0:6000x3375/1200x800/filters:focal(2520x1208:3480x2168)/cdn.vox-cdn.com/uploads/chorus_image/image/69962841/Sky_Glass___Racing_green___Home_page.5.jpg' width='700px' /><br/>
-British Satellite broadcaster Sky is moving away from the satellite dishes that have defined its TV service for decades. Sky Glass is launching today, an ambitious effort to sell television sets that stream Sky TV content over Wi-Fi directly to consumers. There's no external box, no satellite dish, and no need for a soundbar. Sky calls the all-in-one TV “no fuss.”
-<a href='https://www.theverge.com/2021/10/7/22714076/sky-glass-tv-streaming-service-uk-pricing-release-date'> Source <a/>

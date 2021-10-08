@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KHbmoVwYB8qPtMAdY1PLHcJgaf8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69966521/dbohn_210816_4717_0009.0.jpg' width='700px' /><br/>
+Samsung has brought its Samsung Internet web browser to the new Wear OS-based Galaxy Watch 4 (via 9to5Google). Browsing on a watch doesn't sound like my ideal way to surf the web for a long period of time, but I could see how it could be useful for small tasks like checking a name or looking up a place.
+<a href='https://www.theverge.com/2021/10/7/22715337/samsung-internet-browser-wear-os-smartwatches-galaxy-watch-4-classic'> Source <a/>

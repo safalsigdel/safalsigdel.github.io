@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OKD9n4eS4bO2pbxYY5YxErNbIz0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69960655/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Brandon Silverman, the founder and CEO of the Facebook-owned analytics tool CrowdTangle, is leaving the company, according to an internal farewell post to colleagues posted Wednesday that was seen by The Verge.
-<a href='https://www.theverge.com/2021/10/6/22713109/facebook-crowdtangle-founder-brandon-silverman-leaves'> Source <a/>

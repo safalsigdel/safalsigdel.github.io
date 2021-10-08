@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KVMtypIuD6Kn4f0SFsHqO7PvsP0=/0x0:3840x1920/1200x800/filters:focal(1685x342:2299x956)/cdn.vox-cdn.com/uploads/chorus_image/image/69966467/Foundation_Photo_010201.0.jpg' width='700px' /><br/>
+Foundation has been renewed for a second season on Apple TV Plus, Apple announced today, ahead of the release of the fourth episode of the first season on Friday.
+<a href='https://www.theverge.com/2021/10/7/22715363/foundation-renewed-second-season-apple-tv-plus'> Source <a/>

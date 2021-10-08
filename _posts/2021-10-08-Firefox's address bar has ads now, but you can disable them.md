@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GdgnfRD3UYBrgZBrzC62yqx5fIQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69966531/acastro_200207_3900_firefox_0001.0.0.jpg' width='700px' /><br/>
+Mozilla introduced a new suggested search result feature in the Firefox address bar as part of the 93.0 release of its browser. That's not too surprising — Firefox Suggest, Mozilla's feature for “surfacing relevant information and sites to help you accomplish your goals,” is similar to suggestions offered by most browsers. But as How-To Geek spotted in the company's support pages, it also includes content from paid advertisers.
+<a href='https://www.theverge.com/2021/10/7/22715179/firefox-suggest-search-ads-browser'> Source <a/>

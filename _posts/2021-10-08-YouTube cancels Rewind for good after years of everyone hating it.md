@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hto4QAAIjCBtFQ0Lp6pY84AWGME=/0x0:1444x864/1200x800/filters:focal(607x317:837x547)/cdn.vox-cdn.com/uploads/chorus_image/image/69964472/Screen_Shot_2019_02_05_at_3.24.25_PM.0.png' width='700px' /><br/>
+YouTube Rewind — the company's annual year-end round-up of trends, creators, memes, and the most popular videos on the site — has been canceled for good, the company confirmed to TubeFilter today.
+<a href='https://www.theverge.com/2021/10/7/22714550/youtube-rewind-canceled-controversy-creators-annual-recap'> Source <a/>

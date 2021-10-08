@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xHe5V7Ny0ICZh9RnvE03L6IYo8c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69960517/acastro_210831_1777_0001.0.jpg' width='700px' /><br/>
-Apple will require developers that offer a way to create accounts in their apps to also offer a way to delete them, starting with app submissions on January 31st, 2022, the company shared Wednesday. The account deletion requirement was originally announced alongside several other changes to Apple's developer guidelines at WWDC 2021.
-<a href='https://www.theverge.com/2021/10/6/22712795/apple-developer-account-deletion-app-reporting'> Source <a/>

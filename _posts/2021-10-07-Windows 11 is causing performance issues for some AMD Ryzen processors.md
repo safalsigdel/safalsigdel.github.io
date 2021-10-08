@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bW3rvqMBNv3lu53xmnrKLUSvmLY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69961460/mchin_20190730_4573_0010.0.jpg' width='700px' /><br/>
-Windows 11 is officially out, but if you've got an AMD Ryzen processor, you might want to hold off on updating for a bit: the company is reporting that its chips might have issues with the new OS that could cause performance drops of up to 15 percent in some cases.
-<a href='https://www.theverge.com/2021/10/6/22713310/windows-11-amd-ryzen-processors-performance-issues-software-update-october'> Source <a/>

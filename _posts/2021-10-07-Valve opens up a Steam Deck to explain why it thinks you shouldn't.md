@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BC2DW3LS9R4jXqM67fkvcpOnWxU=/0x0:1918x1078/1200x0/filters:focal(0x0:1918x1078):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22905537/bdddb89899430cef189a44098fca1d4ec2f9512f.png' width='700px' /><br/>
-Valve has posted an official teardown of its upcoming handheld gaming PC, the Steam Deck. Before diving into the teardown, though, the company spends about a minute to strongly caution against taking one apart unless you're sure you know what you're doing.
-<a href='https://www.theverge.com/2021/10/6/22713075/valve-steam-deck-teardown-repair-open'> Source <a/>

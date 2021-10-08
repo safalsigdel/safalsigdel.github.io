@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/14SmT6BsL0Sz0TfqELvBYS5V0is=/0x0:780x430/1200x800/filters:focal(328x153:452x277)/cdn.vox-cdn.com/uploads/chorus_image/image/69965560/243689806_580600176613230_3239613562166238562_n.0.png' width='700px' /><br/>
+Facebook has announced a $10 million Creator Fund to encourage people to build experiences on its Horizon VR platform, which it is now calling Horizon Worlds. Although Horizon Worlds is still in beta, the company clearly wants to get more people making content for the platform to offer more experiences that could be interesting to users.
+<a href='https://www.theverge.com/2021/10/7/22714876/facebook-horizon-worlds-creators-fund-social-vr-platform-metaverse'> Source <a/>

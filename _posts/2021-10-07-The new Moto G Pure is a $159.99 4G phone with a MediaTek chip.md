@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pR3Ej84UHaQWSfAJkmhWS6fiAYk=/0x0:3508x2480/1200x800/filters:focal(1474x960:2034x1520)/cdn.vox-cdn.com/uploads/chorus_image/image/69963447/moto_g_pure_key_visual_horizontal.0.jpg' width='700px' /><br/>
-Just in time for the holiday shopping season, Motorola is squeezing in one more budget-friendly phone into its 2021 Moto G lineup — the Moto G Pure.
-<a href='https://www.theverge.com/2021/10/7/22709569/motorola-moto-g-pure-mediatek-4g-price-specs-features'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9gSW5PaD17lHjBWx98qgvYx-FBI=/0x0:2524x1345/1200x800/filters:focal(1061x472:1463x874)/cdn.vox-cdn.com/uploads/chorus_image/image/69962041/Screen_Shot_2021_10_06_at_4.12.41_PM.0.png' width='700px' /><br/>
-Netflix's immensely popular Squid Game is getting an edit after phone numbers shown in the series dialed real numbers, leading to what the company described as “unfortunate” prank dials.
-<a href='https://www.theverge.com/2021/10/6/22713623/netflix-edit-squid-game-phone-number-prank-calls'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8MIccUz3kI7TgbBgdE5ZzUjYPhU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69962831/acastro_210429_1777_0003.0.jpg' width='700px' /><br/>
-Microsoft's Xbox Cloud Gaming service (xCloud) is now fully powered by custom Xbox Series X hardware. Microsoft tells The Verge it recently completed the upgrade, which improves both framerates and game load times for players streaming Xbox games over the web.
-<a href='https://www.theverge.com/2021/10/7/22714067/xbox-cloud-gaming-custom-xbox-series-x-hardware-upgrade'> Source <a/>

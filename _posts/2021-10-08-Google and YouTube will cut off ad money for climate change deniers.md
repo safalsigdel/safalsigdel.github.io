@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R0DisMAoT1IM3jDDzEOQWIpfwGc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69965821/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
+Google will no longer allow advertisers, publishers, and YouTube creators to monetize content that denies the existence of climate change. The company detailed the changes in a support document on Thursday.
+<a href='https://www.theverge.com/2021/10/7/22715102/google-youtube-climate-change-deniers-ads-monetization'> Source <a/>

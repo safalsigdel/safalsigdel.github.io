@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MB1sDgOgyU03T5OedmIa0qrkvFQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69967246/acastro_180321_1777_youtube_0003.0.jpg' width='700px' /><br/>
+YouTube has announced that its automatic livestream captions should now be available for all creators, instead of being limited to channels with more than 1,000 subscribers like they were during the feature's initial rollout. This change, along with some future improvements the company details in its blog, should help make the platform more accessible to deaf or hard-of-hearing people.
+<a href='https://www.theverge.com/2021/10/7/22715511/youtube-live-stream-captions-transcripts-descriptive-audio'> Source <a/>

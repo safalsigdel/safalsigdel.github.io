@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KO5QzVcvDMwuB07ssZkuq75XqNI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69966949/acastro_200320_1777_huluStock_0001.0.0.jpg' width='700px' /><br/>
+Hulu's prices are going up beginning Friday, October 8th for both its monthly and annual subscription tiers.
+<a href='https://www.theverge.com/2021/10/7/22715403/hulu-price-increase-2021'> Source <a/>
