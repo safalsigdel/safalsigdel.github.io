@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mWdAeCpj3X8ShSet-Vyb7XsJ-Qg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69965416/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
-The ambiguous finish to the Epic v. Apple trial opened a tiny crack in Apple's control over in-app payments on the iPhone — and now, a small developer is trying to crawl through it.
-<a href='https://www.theverge.com/2021/10/7/22714677/apple-in-app-payment-competitor-paddle-epic-ruling'> Source <a/>
