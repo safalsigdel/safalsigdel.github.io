@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ny1HKS9zXXYNx14Z0Ols3LWlVEI=/0x0:3301x2160/1200x800/filters:focal(1121x5:1735x619)/cdn.vox-cdn.com/uploads/chorus_image/image/69965116/MGG_2021_06_14_scr_01.0.jpg' width='700px' /><br/>
-Eidos-Montrxc3xa9al and its subsidiary Eidos-Sherbrooke are switching to a four-day workweek, the game developer announced on Thursday. The Square Enix-owned company is currently working on the next big Marvel video game adaptation, Guardians of the Galaxy.
-<a href='https://www.theverge.com/2021/10/7/22714604/eidos-montreal-sherbrooke-four-day-week-game-development'> Source <a/>
