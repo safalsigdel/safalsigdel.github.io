@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cDk8rLL6d_Fsoeot7jt9yBljfVc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69995555/acastro_210329_1777_nft_0004.0.jpg' width='700px' /><br/>
-Secure messaging app Signal's founder Moxie Marlinspike is doing a bit of trolling by releasing an NFT that shows up differently depending on what platform you're looking at it on — and that will, allegedly, display as a poop emoji in your wallet if you actually buy it.
-<a href='https://www.theverge.com/2021/10/14/22726556/signal-founder-moxie-marlinspike-nft-whim-change-platform-shit-emoji-fragility'> Source <a/>
