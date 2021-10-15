@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LzNAn8dKb9BEZ81xpLnFxXMjCn8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69995369/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google is making it easier to doomscroll through search results by automatically loading newer results as you get to the end of the page. Previously, when you got to the end of a page of Google search results, there was a big “See more” button at the bottom you could tap to, well, see more results. With continuously loaded results, you'll be able to just keep on scrolling to see more.
-<a href='https://www.theverge.com/2021/10/14/22726625/google-search-results-continuous-scrolling-mobile-doomscroll'> Source <a/>

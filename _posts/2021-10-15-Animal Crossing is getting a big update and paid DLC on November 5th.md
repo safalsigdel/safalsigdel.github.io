@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-YGaj679_e4PmOZObvq_xo4JAws=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69999506/20211015_ACNH_Update_scrn_001.0.jpg' width='700px' /><br/>
+Nintendo just wrapped up a huge Direct presentation focused on new content coming to Animal Crossing: New Horizons, including the game's major 2.0 update and a significant paid DLC expansion. Both will be available on November 5th.
+<a href='https://www.theverge.com/2021/10/15/22727354/animal-crossing-switch-update-date'> Source <a/>
