@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cFcWaMF2ObZDXvDif8QMuD3d_g0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69999241/Screen_Shot_2021_06_13_at_11.42.28_AM.0.png' width='700px' /><br/>
+Microsoft's Xbox Series X-shaped mini fridge will be available to preorder next week. The Xbox Mini Fridge will be priced at $99.99 and available to preorder on October 19th in the US, UK, Canada, and Europe.
+<a href='https://www.theverge.com/2021/10/15/22727969/xbox-series-x-mini-fridge-price-release-date'> Source <a/>
