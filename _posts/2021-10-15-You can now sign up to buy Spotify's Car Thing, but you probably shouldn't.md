@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UcevU82kh_QgHGx9zUtPfQHbVOM=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/69995452/acarman_20210412_4524_0003.0.jpg' width='700px' /><br/>
-Spotify is making it easier to get ahold of its first hardware device, the Car Thing, by opening up a waitlist to purchase the device that anyone can join starting today. The catch is that now the streaming service's previously invite-only product is $79.99 when it used to be free with paid shipping and handling.
-<a href='https://www.theverge.com/2021/10/14/22726497/spotify-car-thing-hardware-waitlist'> Source <a/>
