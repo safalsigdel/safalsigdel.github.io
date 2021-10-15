@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aifYhcGjwaPEayTNgGe49nx2K9o=/0x0:2040x1360/1200x675/filters:focal(702x609:1028x935)/cdn.vox-cdn.com/uploads/chorus_image/image/69994114/akrales_211005_4774_0005.0.jpg' width='700px' /><br/>
-After years of focusing on business-oriented virtual reality, HTC is launching a $499 entertainment-focused headset called the Vive Flow in November, with preorders starting globally today.
-<a href='https://www.theverge.com/2021/10/14/22713276/htc-vive-flow-vr-headset-launch-price-hands-on'> Source <a/>

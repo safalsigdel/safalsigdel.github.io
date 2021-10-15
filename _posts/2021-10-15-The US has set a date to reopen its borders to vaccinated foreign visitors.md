@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rrQTNhvw6JvM6enu0yG-5XEAasY=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/69999345/1234594574.0.jpg' width='700px' /><br/>
+The White House is expected to announce Friday that the US is reopening its land and air borders to vaccinated foreign nationals on November 8th, Reuters reported.
+<a href='https://www.theverge.com/2021/10/15/22727979/us-date-reopen-borders-vaccine-foreign-visitors'> Source <a/>
