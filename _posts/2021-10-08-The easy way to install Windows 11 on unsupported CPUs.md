@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BBciJQgVYdfzIWaLVBSqDcZzFPg=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/69966582/windows_11_unsupported.0.jpg' width='700px' /><br/>
-Did you take one look at our hefty Windows 11 upgrade checklist and nope right out of there? It turns out there's a dramatically easier way to install Windows 11 on computers with older CPUs — with no need to reformat your drive, erase your files, or even burn the ISO to an external USB drive.
-<a href='https://www.theverge.com/22715331/how-to-install-windows-11-unsupported-cpu-intel-amd-registry-regedit'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xpr--rjDI6eQiLpEgKPM0sI7OUY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69996912/vpavic_4278_20201030_0150.0.jpg' width='700px' /><br/>
+Spotify has been a music streaming option on the PS5 since it launched in November, giving you the option to listen to your favorite music when playing games. Soon, though, the console might get support for another service: Apple Music.
+<a href='https://www.theverge.com/2021/10/14/22727126/apple-music-app-ps5-playstation-5'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y1xh4eGMYNArU8CRMt07QywvVU0=/0x0:3000x2003/1200x800/filters:focal(989x886:1469x1366)/cdn.vox-cdn.com/uploads/chorus_image/image/69967397/1200178032.0.jpg' width='700px' /><br/>
-In a tweet earlier today, Google SVP Hiroshi Lockheimer called on Apple to support RCS, the next-generation texting standard that's supposed to supplant SMS. He offered an “open invitation to the folks who can make this right” and said “we are here to help.” Translation: the “folks” are Apple and “we are here to help” is Google's offer to assist Apple in implementing the new standard.
-<a href='https://www.theverge.com/2021/10/7/22715696/svp-android-invitation-apple-rcs-texting-iphone'> Source <a/>

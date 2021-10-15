@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4ZllWIRoOC-KoEZyTRByrvz0y6g=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/69993593/1235442658.0.jpg' width='700px' /><br/>
+TSMC has announced plans to expand its chipmaking efforts with a new factory in Japan during its Q3 2021 earnings call, marking the latest expansion for what's already the world's largest chipmaker, via Reuters. But the news comes as the company also cautions that supply will be “tight” for chips throughout 2022 as a result on the ongoing shortage.
+<a href='https://www.theverge.com/2021/10/14/22726066/tsmc-new-chip-factory-fab-japan-shortage-supply-issues-2022'> Source <a/>

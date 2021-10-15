@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ipK82bohpubOhpX91TBjsilU0oA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69967936/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
-TikTok has launched an app for LG's 2020 and 2021 smart TVs, the TV manufacturer has announced. The app arrived on these recent webOS 5.0 and webOS 6.0 models with a firmware update that started rolling out on October 7th, but will also be coming to older 2019 TVs “in the coming months.”
-<a href='https://www.theverge.com/2021/10/8/22716017/tiktok-lg-webos-smart-tv-app-2020-2021-2019'> Source <a/>

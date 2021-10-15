@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4kH41vhnhmq9IZcovxBtpTRF5lc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69966675/sokane_181116_3101_fremont_0062.0.jpg' width='700px' /><br/>
-Tesla CEO Elon Musk said Thursday that the company is moving its headquarters from Silicon Valley to Austin, Texas, where it has been building a new factory for a little more than a year.
-<a href='https://www.theverge.com/22715458/tesla-move-headquarters-to-austin-texas'> Source <a/>

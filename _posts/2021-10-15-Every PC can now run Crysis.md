@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LGuBy43TJYVTtFFM1w7S6YfVf8g=/0x0:2048x1024/1200x800/filters:focal(861x349:1187x675)/cdn.vox-cdn.com/uploads/chorus_image/image/69993378/GFN_Thursday_Crysis_Remastered.0.jpg' width='700px' /><br/>
+But can it run Crysis? The answer is now yes, no matter what PC you own. Nvidia is bringing Crysis Remastered to its GeForce Now streaming service this week, alongside Crysis Remastered Trilogy, Crysis 2 Remastered, and Crysis 3 Remastered.
+<a href='https://www.theverge.com/2021/10/14/22725953/crysis-remastered-nvidia-geforce-now-available-streaming'> Source <a/>

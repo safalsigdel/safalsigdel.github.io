@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SbQj13EHaFiHP4PKLpxt2TXVrv8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69968838/acastro_190923_twitch_0001.0.0.jpg' width='700px' /><br/>
-Hackers have managed to deface Twitch for a few hours this morning, replacing a number of background game images with photos of Amazon CEO Jeff Bezos. Users reported seeing images of Bezos in the listings for GTA V, Dota 2, Smite, Minecraft, Apex Legends, and many more on the Amazon-owned service.
-<a href='https://www.theverge.com/2021/10/8/22716184/twitch-hack-jeff-bezos-pictures-defaced'> Source <a/>

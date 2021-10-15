@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DLGBy4QgDT5LEqdwLIoCqhLfygU=/0x0:900x506/1200x0/filters:focal(0x0:900x506):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22926907/disney_genie_app.jpg' width='700px' /><br/>
+Walt Disney World is offering yet another way to make your experience more magical (or more miserable, depending on how you look at it). Set to launch on October 19th, Disney's Genie service will grant you a number of wishes, including the ability to skip lines — once you pay up.
+<a href='https://www.theverge.com/2021/10/14/22726067/disney-genie-plus-skip-lines-walt-disney-world'> Source <a/>

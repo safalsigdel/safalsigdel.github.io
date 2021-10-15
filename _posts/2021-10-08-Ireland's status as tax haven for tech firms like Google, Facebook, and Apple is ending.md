@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zyVDQY1i9HlwLrqe87QDDPbUwq0=/0x0:5890x4000/1200x800/filters:focal(2474x1529:3416x2471)/cdn.vox-cdn.com/uploads/chorus_image/image/69966604/1233382967.0.jpg' width='700px' /><br/>
-Ireland said Thursday it would join an international agreement that sets taxes on profits for multinational corporations at a minimum rate of 15 percent. This is a major shift for the country that is the European headquarters for many large US pharmaceutical companies, as well as tech firms, including Google, Apple, and Facebook.
-<a href='https://www.theverge.com/2021/10/7/22715229/ireland-status-tax-haven-google-facebook-apple'> Source <a/>

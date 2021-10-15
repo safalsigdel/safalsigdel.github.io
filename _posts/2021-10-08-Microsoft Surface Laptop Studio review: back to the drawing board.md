@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vypy9uKy_tdnFfLdTgo3NinBga8=/0x0:3000x2000/1200x675/filters:focal(1247x1221:1727x1701)/cdn.vox-cdn.com/uploads/chorus_image/image/69969171/microsoft_surface_laptop_studio_4795_25.0.jpg' width='700px' /><br/>
-Microsoft's new Surface Laptop Studio is both familiar and unique at the same time. If you don't peer too closely, you'll see what appears to be a standard, clamshell laptop. The similarities to Apple's MacBook Pro designs are undeniable — the rounded corners, the layout of the keyboard and trackpad on the deck, even the port layouts all scream Apple.
-<a href='https://www.theverge.com/22716121/microsoft-surface-laptop-studio-review'> Source <a/>

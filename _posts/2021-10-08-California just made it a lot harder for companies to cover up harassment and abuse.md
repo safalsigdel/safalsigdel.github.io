@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5ZJ30vluI7OlVYX2ye4hDxTshH4=/0x0:4770x3414/1200x800/filters:focal(2004x1326:2766x2088)/cdn.vox-cdn.com/uploads/chorus_image/image/69967180/1340672342.0.jpg' width='700px' /><br/>
-California governor Gavin Newsom signed the Silenced No More Act on Thursday night— a historic piece of legislation, authored by state senator Connie Leyva (D-Chino), that should protect workers who speak out about harassment and discrimination even if they've signed a non-disclosure agreement.
-<a href='https://www.theverge.com/22715649/california-silenced-no-more-act-law-newsom-leyva-ndas-whistleblower'> Source <a/>

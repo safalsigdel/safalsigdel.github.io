@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Wearable gadgets live or die on whether they're actually comfortable to wear — it's tough to recommend a fitness tracker that gives me a rash or a headset constantly dragging my head down. So, for HTC's new, exceptionally light Vive Flow VR headset, the company wanted to show just how effortlessly it might fit into your life, commissioning pictures of men and women wearing it in their cozy living rooms without a care in the world.
+<a href='https://www.theverge.com/tldr/2021/10/14/22726604/htc-vive-flow-wearable-photoshopped-wearable-models-stock-images'> Source <a/>

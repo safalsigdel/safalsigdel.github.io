@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DBmmajqpxJnzsjuaZDQBXw3T3dk=/0x0:3313x1440/1200x800/filters:focal(1292x400:1822x930)/cdn.vox-cdn.com/uploads/chorus_image/image/69996389/deathloop.0.jpg' width='700px' /><br/>
+Deathloop is an incredible game but also one with its fair share of nasty issues, particularly on PC — where some have experienced seriously stuttery performance and a nasty crash just as you're supposed to crash the game's penultimate party. Now, it appears Arkane Studios is coming fast and furious with the fixes and a little something extra as well.
+<a href='https://www.theverge.com/2021/10/14/22726925/deathloop-update-dlss-dualsense-npc-hdr-colt-julianna'> Source <a/>

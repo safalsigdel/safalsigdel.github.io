@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pnG-1tj_wNM-tKqbfVGP0N-g9-s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69993945/acastro_180507_1777_microsoft_0001.5.jpg' width='700px' /><br/>
+Microsoft announced this morning that it's shutting down the localized version of LinkedIn for China that has been available there since 2014. The move comes after increasing claims from academics and reporters that they've received notifications stating their profiles on the service are blocked in China, as reported recently by The Wall Street Journal.
+<a href='https://www.theverge.com/2021/10/14/22726189/microsoft-linkedin-china-censorship-shut-down'> Source <a/>

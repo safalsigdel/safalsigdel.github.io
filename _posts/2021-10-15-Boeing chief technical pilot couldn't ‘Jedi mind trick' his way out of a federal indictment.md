@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ll81zUXRXJGf5MqmkaLhW4buJD4=/0x0:2700x1800/1200x800/filters:focal(1134x684:1566x1116)/cdn.vox-cdn.com/uploads/chorus_image/image/69997054/boeing_737_max.0.jpg' width='700px' /><br/>
+Boeing's former chief technical pilot, Mark Forkner, was indicted on two counts of fraud and four counts of wire fraud for his role in the Boeing 737 Max debacle. He's accused of withholding information from FAA evaluators about software on the Boeing 737 Max that was at the heart of two crashes that killed 346 people,
+<a href='https://www.theverge.com/2021/10/14/22727244/boeing-737-max-chief-technical-pilot-indictment'> Source <a/>
