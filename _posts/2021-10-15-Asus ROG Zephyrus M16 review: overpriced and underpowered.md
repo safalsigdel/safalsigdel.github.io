@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TU1Nrd7BUxdiwZhS-hsVfJbxEBM=/0x0:2032x1355/1200x675/filters:focal(822x665:1146x989)/cdn.vox-cdn.com/uploads/chorus_image/image/69995466/akrales_210824_4725_0020.0.jpg' width='700px' /><br/>
-I can't tell you how excited I was to test the Zephyrus M16. It takes the AMD-powered Zephyrus G15's exceptional chassis and adds the two things I most wish that laptop had: a 16:10 display and a webcam. That sounds like a great package on paper, but there's one other major thing that also differentiates the M16 from the G15: its Intel processor.
-<a href='https://www.theverge.com/22726307/asus-rog-zephyrus-m16-gaming-laptop-review'> Source <a/>
