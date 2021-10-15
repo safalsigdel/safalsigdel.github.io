@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ku5kRaf63xjt__ZDu7A7dy-i3A4=/0x0:1395x1200/1200x800/filters:focal(596x241:818x463)/cdn.vox-cdn.com/uploads/chorus_image/image/69994007/sword_spur_robot_dog_gun.0.jpeg' width='700px' /><br/>
-Quadrupedal robots are one of the most interesting developments in robotics in recent years. They're small, nimble, and able to traverse environments that frustrate wheeled machines. So, of course, it was only a matter oft time until someone put a gun on one.
-<a href='https://www.theverge.com/2021/10/14/22726111/robot-dogs-with-guns-sword-international-ghost-robotics'> Source <a/>
