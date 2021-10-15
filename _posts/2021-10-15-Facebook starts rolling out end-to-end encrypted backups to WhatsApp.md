@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2I96AqLejZXiF4jzfKwrcwUGo30=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69995993/acastro_210119_1777_whatsapp_0003.0.jpg' width='700px' /><br/>
-WhatsApp's end-to-end encrypted chat backups for iOS and Android are available starting Thursday, Facebook announced. The company has offered end-to-end encryption for chats for years, but with this new change, you can get that same level of encryption with your backups. The feature will be rolling out “slowly” for people on the latest version of the app.
-<a href='https://www.theverge.com/2021/10/14/22726803/facebook-whatsapp-end-to-end-encrypted-backups'> Source <a/>
