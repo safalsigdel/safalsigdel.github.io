@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/gwo8CUozcuYLg-uiaX0wIFO0tdM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70001708/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
 A Saudi human rights activist has filed a lawsuit against Twitter, alleging that the company hired two people who spied on behalf of the government of Saudi Arabia and accessed his personal information.
+<a href='https://www.theverge.com/2021/10/15/22728121/human-rights-activist-suing-twitter-saudi-spies'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/gwo8CUozcuYLg-uiaX0wIFO0tdM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70001708/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+A Saudi human rights activist has filed a lawsuit against Twitter, alleging that the company hired two people who spied on behalf of the government of Saudi Arabia and accessed his personal information.
 <a href='https://www.theverge.com/2021/10/15/22728121/human-rights-activist-suing-twitter-saudi-spies'> Source <a/>

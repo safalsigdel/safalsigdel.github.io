@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/l4Ba9ZjEwYXpZ95YdyBm_ae04b8=/0x301:2689x2689/1200x800/filters:focal(618x506:1048x936)/cdn.vox-cdn.com/uploads/chorus_image/image/70003425/lucy_in_the_sky2.0.jpg' width='700px' /><br/>
 NASA's Lucy space probe launched successfully from Cape Canaveral in Florida early Saturday, the beginning of a 12-year mission to study Jupiter's Trojan asteroids.
+<a href='https://www.theverge.com/2021/10/16/22729626/nasa-launches-lucy-probe-study-jupiter-trojan-asteroids'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/l4Ba9ZjEwYXpZ95YdyBm_ae04b8=/0x301:2689x2689/1200x800/filters:focal(618x506:1048x936)/cdn.vox-cdn.com/uploads/chorus_image/image/70003425/lucy_in_the_sky2.0.jpg' width='700px' /><br/>
+NASA's Lucy space probe launched successfully from Cape Canaveral in Florida early Saturday, the beginning of a 12-year mission to study Jupiter's Trojan asteroids.
 <a href='https://www.theverge.com/2021/10/16/22729626/nasa-launches-lucy-probe-study-jupiter-trojan-asteroids'> Source <a/>

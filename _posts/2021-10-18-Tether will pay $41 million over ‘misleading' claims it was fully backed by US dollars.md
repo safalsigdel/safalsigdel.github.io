@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/sj1bwSKbwzLVdEbNaQxkZIsWWcs=/0x0:4000x2670/1200x800/filters:focal(1680x1015:2320x1655)/cdn.vox-cdn.com/uploads/chorus_image/image/70000134/1233100485.0.jpg' width='700px' /><br/>
 Tether will pay $41 million to settle allegations by the US Commodity Futures Trading Commission (CFTC) that it made untrue or misleading statements when it claimed its stablecoins were fully backed by fiat currencies.
+<a href='https://www.theverge.com/2021/10/15/22728253/tether-41-million-misleading-statements-fiat-currency-bitfinex-cftc'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/sj1bwSKbwzLVdEbNaQxkZIsWWcs=/0x0:4000x2670/1200x800/filters:focal(1680x1015:2320x1655)/cdn.vox-cdn.com/uploads/chorus_image/image/70000134/1233100485.0.jpg' width='700px' /><br/>
+Tether will pay $41 million to settle allegations by the US Commodity Futures Trading Commission (CFTC) that it made untrue or misleading statements when it claimed its stablecoins were fully backed by fiat currencies.
 <a href='https://www.theverge.com/2021/10/15/22728253/tether-41-million-misleading-statements-fiat-currency-bitfinex-cftc'> Source <a/>
