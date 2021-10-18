@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-myqqTgstk-Y-3xfQNVczoiwPMA=/0x0:700x712/1200x800/filters:focal(293x82:405x194)/cdn.vox-cdn.com/uploads/chorus_image/image/69999462/ios15_iphone12_pro_settings_focus_crop__1_.0.png' width='700px' /><br/>
-These days, it is way too easy to be pulled from your work by notifications and other distractions. In order to help you keep your attention where you want it, Apple has added new Focus features to iOS 15.
-<a href='https://www.theverge.com/22726456/ios-15-iphone-focus-distractions-how-to'> Source <a/>

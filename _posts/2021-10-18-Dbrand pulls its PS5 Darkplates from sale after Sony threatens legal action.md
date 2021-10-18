@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/q90Ntol17oPa6KKQ1ORaKkxg6Lg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70002641/DSCF7516.5.jpg' width='700px' /><br/>
+Earlier this year, Dbrand started selling matte black PS5 side plates that it called Darkplates, and when it did, it baited Sony right on the product's info page to “Go ahead, sue us.” We got our hands on some, and they look exactly like you expect, making the sides of your PS5 black instead of white. They even have their own tongue-in-cheek take on the PlayStation icon microtexture.
+<a href='https://www.theverge.com/2021/10/16/22728936/dbrand-pulls-ps5-darkplates-from-sale-sony-threatens-legal-action'> Source <a/>

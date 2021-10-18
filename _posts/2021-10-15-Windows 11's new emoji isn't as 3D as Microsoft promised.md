@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H74qB4uSo8wB8pHVPtGCyifNdN8=/0x0:1160x668/1200x800/filters:focal(488x242:672x426)/cdn.vox-cdn.com/uploads/chorus_image/image/69998324/Emoji_Panel_New_Emoji_Hero.0.png' width='700px' /><br/>
-Microsoft originally promised new 3D emoji for Windows 11 and various other products earlier this year. Now the company has gone for a 2D flat look instead, with the new emoji debuting in Dev Channel builds of Windows 11 this week.
-<a href='https://www.theverge.com/2021/10/15/22727850/microsoft-windows-11-new-emoji-not-3d'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wNgW_0ug9ODw2SCvLgExxJUA-rk=/0x0:4325x2882/1200x800/filters:focal(1817x1095:2509x1787)/cdn.vox-cdn.com/uploads/chorus_image/image/69996121/1235582856.0.jpg' width='700px' /><br/>
-After months of hearings and negotiations, pressure is growing in the Senate to pass new laws banning online platforms from giving preference to their own products and services over those of their competitors. On Thursday, a bipartisan group of senators announced plans to introduce a nondiscrimination bill that could reshape Amazon's online marketplace.
-<a href='https://www.theverge.com/2021/10/14/22726897/amazon-apple-google-app-stores-marketplace-antitrust-competition-klobuchar-grassley'> Source <a/>

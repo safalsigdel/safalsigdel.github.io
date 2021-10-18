@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vPOwe8t7zGbKqsICbqJKAiemwvE=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/70001562/1235893124.0.jpg' width='700px' /><br/>
+Moscow launched “Face Pay” on Friday, a facial recognition payment system implemented in more than 240 Mosmetro stations, “the largest use of facial recognition technology in the world,” officials claim (via The Guardian). The service relies on stored photographs to validate metro payments, an obvious privacy concern given the previous uses of facial recognition technology by the Russian capital's law enforcement.
+<a href='https://www.theverge.com/2021/10/15/22728667/russia-face-pay-system-moscow-metro-privacy'> Source <a/>

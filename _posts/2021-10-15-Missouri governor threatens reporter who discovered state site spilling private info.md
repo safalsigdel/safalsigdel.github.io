@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R2sY63Rc2A4ctlPB-lNHK6Zbntw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69996667/acastro__171016_1777_0001_v1.0.jpg' width='700px' /><br/>
-Missouri Governor Mike Parson is threatening legal action against a reporter and newspaper that found and responsibly disclosed a security vulnerability that left teacher and educational staffs' social security numbers exposed and easily accessible.
-<a href='https://www.theverge.com/2021/10/14/22726866/missouri-governor-department-elementary-secondary-education-ssn-vulnerability-disclosure'> Source <a/>

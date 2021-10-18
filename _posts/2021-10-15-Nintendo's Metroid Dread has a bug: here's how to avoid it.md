@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EQoRwPyGzWZFJyBrro04-10Ajow=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/69998141/Switch_MetroidDread_screen_02.0.jpg' width='700px' /><br/>
-Nintendo is working to fix a bug in recently-released Metroid Dread that could halt your progression if you're unlucky enough to encounter it, the company has announced. According to a support page the bug causes the error message “The software was closed because an error occurred,” forcing it to close unexpectedly. Nintendo says the patch will be released before the end of the month.
-<a href='https://www.theverge.com/2021/10/15/22727796/metroid-dread-bug-nintendo-patch-progression-door-marker-door-destroy'> Source <a/>

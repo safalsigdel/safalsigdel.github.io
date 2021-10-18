@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ATPlnhqe6-adQyvNOQ96dqvaL4k=/0x0:2040x1360/1200x675/filters:focal(632x597:958x923)/cdn.vox-cdn.com/uploads/chorus_image/image/69999472/IMG_0033.0.jpg' width='700px' /><br/>
-Roku has replaced its Streaming Stick Plus, long one of the top recommendations for an affordable 4K streaming player, with the new Streaming Stick 4K. The name is different, but the hardware looks practically identical on the outside — not that design has any significance in this case. Like its predecessor, the 2021 model plugs into an HDMI port behind your TV and is forever hidden away from everyone watching entertainment on the screen.
-<a href='https://www.theverge.com/22727963/roku-streaming-stick-4k-review'> Source <a/>

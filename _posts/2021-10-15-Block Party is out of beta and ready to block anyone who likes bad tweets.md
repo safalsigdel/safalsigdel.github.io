@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nNDemCCZKGZ4B9k0Ow1cfRZ9aEQ=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/69997093/blockpartyleadimage.0.jpg' width='700px' /><br/>
-Block Party, the anti-harassment service that specializes in making Twitter more tolerable to use, is out of beta and available now. Block Party automates the time-consuming process of moderating your Twitter feed, filtering out content from people you don't want to see for later review and, starting today, blocking accounts that retweet or like a bad tweet of your choice with blocklists.
-<a href='https://www.theverge.com/2021/10/14/22726988/block-party-availble-now-block-lists-subscription'> Source <a/>
