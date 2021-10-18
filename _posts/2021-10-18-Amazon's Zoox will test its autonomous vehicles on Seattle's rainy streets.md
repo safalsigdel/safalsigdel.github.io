@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1Fd1pkSMlxa1KjHfc5VntokXWyo=/0x0:5110x3407/1200x800/filters:focal(2147x1296:2963x2112)/cdn.vox-cdn.com/uploads/chorus_image/image/70011311/Zoox_testing_its_L3_fleet_in_Seattle.0.jpg' width='700px' /><br/>
+Zoox, the autonomous vehicle company owned by Amazon, said it will test its vehicles on the hilly, rain-drenched streets of Seattle. The company also plans on opening an office there in 2022.
+<a href='https://www.theverge.com/2021/10/18/22732813/amazon-zoox-autonomous-vehicles-seattle-rain'> Source <a/>

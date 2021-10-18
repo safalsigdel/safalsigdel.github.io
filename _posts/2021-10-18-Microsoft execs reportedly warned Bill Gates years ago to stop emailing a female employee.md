@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WY_f2nTU54hkFl9k6n_TNUQ-oM8=/9x928:2913x2135/1200x800/filters:focal(590x1278:1056x1744)/cdn.vox-cdn.com/uploads/chorus_image/image/70011380/1183210445.0.jpg' width='700px' /><br/>
+Over 10 years before his departure from Microsoft's board amid an investigation over an affair with an employee, former CEO Bill Gates was warned by two company executives about inappropriate emails between him and another woman, The Wall Street Journal reported.
+<a href='https://www.theverge.com/2021/10/18/22732541/microsoft-execs-warned-bill-gates-2007-stop-email-female-employee'> Source <a/>
