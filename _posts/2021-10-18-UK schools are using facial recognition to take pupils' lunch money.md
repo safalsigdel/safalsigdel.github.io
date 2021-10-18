@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lVLd8MEseIRGsp-IDj5gH9z3aY8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70009631/jbareham_170417_1617_0001.0.jpg' width='700px' /><br/>
+A group of nine schools in the UK have started using facial recognition to verify children's payments for school meals. The schools in North Ayrshire in Scotland claim that using the technology is faster and more hygienic than taking payments using cards or fingerprint scanners, but privacy advocates warn that the move is normalizing biometric surveillance.
+<a href='https://www.theverge.com/2021/10/18/22732330/uk-schools-facial-recognition-lunch-payments-north-ayrshire'> Source <a/>
