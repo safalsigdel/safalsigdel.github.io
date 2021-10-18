@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/meUHWbDfDMRQHaEClX0EIwsQjSs=/0x0:2278x1260/1200x800/filters:focal(957x448:1321x812)/cdn.vox-cdn.com/uploads/chorus_image/image/70011927/Screen_Shot_2021_10_18_at_1.16.30_PM.0.png' width='700px' /><br/>
-Apple has officially announced its most powerful chip ever: the M1 Pro, a souped-up version of the M1 chip that it debuted last fall and the heart of its new MacBook Pro models.
-<a href='https://www.theverge.com/2021/10/18/22726444/apples-m1-pro-chip-processor-arm-macbook-fastest'> Source <a/>

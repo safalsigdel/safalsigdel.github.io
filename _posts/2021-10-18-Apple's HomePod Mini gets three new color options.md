@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YmiRQVIhPTJfvrhi9g2NkZmRxDk=/0x0:3000x1687/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/70011947/Apple_HomePod_mini_hero_5up_10182021.5.jpg' width='700px' /><br/>
+With Siri now socializing on other smart speakers, Apple took to the stage at its October event to announce a new look for its HomePod Mini smart speaker. In addition to white and black (space gray), you will soon be able to pick up a HomePod Mini in yellow, orange, and blue.
+<a href='https://www.theverge.com/2021/10/18/22723141/apple-homepod-mini-new-colors-price-release-date-features'> Source <a/>
