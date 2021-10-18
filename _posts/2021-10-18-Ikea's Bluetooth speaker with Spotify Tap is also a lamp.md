@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jiW_7NCEQA3TBKQnw4tqgTXHmQE=/0x0:1666x1090/1200x800/filters:focal(702x599:968x865)/cdn.vox-cdn.com/uploads/chorus_image/image/70009677/1_5_sec.0.png' width='700px' /><br/>
+Ikea's Vappeby Bluetooth speaker just leaked courtesy of an FCC filing. And because it's Ikea, this mushroom-shaped speaker with an IP65 rating — which means it'll resist dust, rain, and low pressure jets of water — also features an integrated 20 lumen (2700K) bulb to pull double-duty as a portable lamp. But that's not the only surprise.
+<a href='https://www.theverge.com/2021/10/18/22732334/ikea-bluetooth-speaker-lamp-vappeby-outdoor-price-date'> Source <a/>
