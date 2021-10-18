@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/r2aek04ja_EltHx7Nm0T6iZth3I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70009985/pulse3dmidnightblack.0.jpg' width='700px' /><br/>
+Sony's second colorway for the Pulse 3D headset for PS5 and PS4, clad in midnight black instead of white, is coming out this week. It's the same $99.99 price as before, and nothing is different about it that I've noticed, aside from the matte black headband. If you're one for embracing dark mode in both your apps and devices, you probably know if you want this already.
+<a href='https://www.theverge.com/2021/10/18/22726875/sony-ps5-playstation-5-ps4-pulse-3d-midnight-black-gaming-headset-features'> Source <a/>
