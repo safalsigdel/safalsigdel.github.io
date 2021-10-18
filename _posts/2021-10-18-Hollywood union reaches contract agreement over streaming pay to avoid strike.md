@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/nycGyA-1COrLsDwR78iExiWxq50=/0x92:4842x4275/1200x800/filters:focal(1413x1776:2415x2778)/cdn.vox-cdn.com/uploads/chorus_image/image/70007040/1235538501.0.jpg' width='700px' /><br/>
 The union representing thousands of film and television production workers has reached a tentative agreement with studios, averting an strike that was set to begin Monday.
-<a href='https://www.theverge.com/2021/10/17/22731087/hollywood-union-reaches-contract-agreement-iatse-avoids-strike'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/nycGyA-1COrLsDwR78iExiWxq50=/0x92:4842x4275/1200x800/filters:focal(1413x1776:2415x2778)/cdn.vox-cdn.com/uploads/chorus_image/image/70007040/1235538501.0.jpg' width='700px' /><br/>
-The union representing thousands of film and television production workers has reached a tentative agreement with studios, averting an strike that was set to begin Monday.
 <a href='https://www.theverge.com/2021/10/17/22731087/hollywood-union-reaches-contract-agreement-iatse-avoids-strike'> Source <a/>

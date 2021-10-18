@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/eN4qZ5ssWPC-8s3RRiDIw_fY8I0=/0x0:2592x1855/1200x800/filters:focal(1160x521:1574x935)/cdn.vox-cdn.com/uploads/chorus_image/image/70001554/1342270247.0.jpg' width='700px' /><br/>
 You can't always take Busta Rhymes literally, and sometimes you shouldn't take his questions seriously at all, but a tweet from this morning about NFTs is solidly in line with the disturbing reality of 2021.
-<a href='https://www.theverge.com/2021/10/15/22727956/busta-rhymes-nft-tweet-crypto-bored-evolved-ape'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/eN4qZ5ssWPC-8s3RRiDIw_fY8I0=/0x0:2592x1855/1200x800/filters:focal(1160x521:1574x935)/cdn.vox-cdn.com/uploads/chorus_image/image/70001554/1342270247.0.jpg' width='700px' /><br/>
-You can't always take Busta Rhymes literally, and sometimes you shouldn't take his questions seriously at all, but a tweet from this morning about NFTs is solidly in line with the disturbing reality of 2021.
 <a href='https://www.theverge.com/2021/10/15/22727956/busta-rhymes-nft-tweet-crypto-bored-evolved-ape'> Source <a/>

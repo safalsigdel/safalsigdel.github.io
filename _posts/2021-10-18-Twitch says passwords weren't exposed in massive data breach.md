@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/cb4ACAF6iKiKGBkzLqRzPNIynxA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69999720/acastro_200901_1777_twitch_0002.0.0.jpg' width='700px' /><br/>
 Twitch has definitively stated that passwords weren't exposed in last week's major data breach.
-<a href='https://www.theverge.com/2021/10/15/22728217/twitch-passwords-data-breach-secure'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/cb4ACAF6iKiKGBkzLqRzPNIynxA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/69999720/acastro_200901_1777_twitch_0002.0.0.jpg' width='700px' /><br/>
-Twitch has definitively stated that passwords weren't exposed in last week's major data breach.
 <a href='https://www.theverge.com/2021/10/15/22728217/twitch-passwords-data-breach-secure'> Source <a/>
