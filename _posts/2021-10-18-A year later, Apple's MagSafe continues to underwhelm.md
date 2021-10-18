@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4Mgu2iYAtIEdvR3Cz791ANTekJY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70002070/dbohn_201109_4283_0003.0.0.jpg' width='700px' /><br/>
-One year ago yesterday, I wrote how MagSafe could be the biggest reason to buy an iPhone 12. I believed it, too. It looked like Apple had cracked the code to effortlessly accessorize the iPhone and even add modular new capabilities. The company showed its pricey new MagSafe cases and wallets seemingly snapping into place, plus faster wireless charging. The future looked bright.
-<a href='https://www.theverge.com/2021/10/15/22728967/apple-magsafe-duo-wallet-cases-charging'> Source <a/>
