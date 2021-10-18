@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NCcug6fmuovtzDRflVZqkbvTXyc=/0x0:2040x1358/1200x800/filters:focal(857x516:1183x842)/cdn.vox-cdn.com/uploads/chorus_image/image/70010099/vpavic_4291_20201113_0337_Edit.0.jpg' width='700px' /><br/>
+It's been hard to be an Apple power user for the last half-decade. The glory days of the original Retina MacBook Pro have long since vanished into the sunset, and recent years have seen computers with too many compromises and too few ports.
+<a href='https://www.theverge.com/2021/10/18/22725287/apple-macbook-pro-power-user-m1-chips-processors-hardware-refresh-event'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LLn9bpC3wfFRnAYqw4AeBBHvPFI=/0x0:2880x1800/1200x800/filters:focal(1210x670:1670x1130)/cdn.vox-cdn.com/uploads/chorus_image/image/70000356/MS_Performance_Hero_Desktop.0.jpg' width='700px' /><br/>
-Tesla is now selling insurance to customers in Texas, two years after first launching the offering in its now-former home state of California. But the version in Texas is different. The company says it will evaluate driving behavior in real-time using the “Safety Score” feature that it recently launched to screen drivers who want to join the beta test of the company's “Full Self-Driving” beta software.
-<a href='https://www.theverge.com/2021/10/15/22728411/tesla-insurance-texas-safety-score-premiums-california'> Source <a/>
