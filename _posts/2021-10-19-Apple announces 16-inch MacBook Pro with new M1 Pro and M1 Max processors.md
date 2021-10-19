@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/r2WRxg3gJAkFFuBiwkKdYXRa9-8=/0x0:1908x1076/1200x800/filters:focal(802x386:1106x690)/cdn.vox-cdn.com/uploads/chorus_image/image/70012027/lcimg_982af7b3_d14a_4a82_8073_a94b6e73fdd5.0.jpg' width='700px' /><br/>
 Apple has introduced its new 16-inch MacBook Pro, promising an upgrade in both design and performance. Models will be available in silver and space gray next week, with a starting price of $2,499.
-<a href='https://www.theverge.com/2021/10/18/22727213/apple-macbook-pro-16-specs-features-price-release-date'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/r2WRxg3gJAkFFuBiwkKdYXRa9-8=/0x0:1908x1076/1200x800/filters:focal(802x386:1106x690)/cdn.vox-cdn.com/uploads/chorus_image/image/70012027/lcimg_982af7b3_d14a_4a82_8073_a94b6e73fdd5.0.jpg' width='700px' /><br/>
-Apple has introduced its new 16-inch MacBook Pro, promising an upgrade in both design and performance. Models will be available in silver and space gray next week, with a starting price of $2,499.
 <a href='https://www.theverge.com/2021/10/18/22727213/apple-macbook-pro-16-specs-features-price-release-date'> Source <a/>

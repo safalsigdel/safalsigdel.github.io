@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/nHiLv4_XG4LTAuX0DThA0AbVYqo=/0x0:1960x1274/1200x800/filters:focal(824x481:1136x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70012128/Apple_MacBook_Pro_MagSafe_10182021.0.jpg' width='700px' /><br/>
 Apple ditched MagSafe five years ago when it moved to USB-C charging on its new laptops, but MagSafe 3 brings the familiar quick-release connector back to this latest lineup of MacBook Pro laptops.
-<a href='https://www.theverge.com/2021/10/18/22733119/apple-new-macbook-pro-magsafe-back'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/nHiLv4_XG4LTAuX0DThA0AbVYqo=/0x0:1960x1274/1200x800/filters:focal(824x481:1136x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70012128/Apple_MacBook_Pro_MagSafe_10182021.0.jpg' width='700px' /><br/>
-Apple ditched MagSafe five years ago when it moved to USB-C charging on its new laptops, but MagSafe 3 brings the familiar quick-release connector back to this latest lineup of MacBook Pro laptops.
 <a href='https://www.theverge.com/2021/10/18/22733119/apple-new-macbook-pro-magsafe-back'> Source <a/>

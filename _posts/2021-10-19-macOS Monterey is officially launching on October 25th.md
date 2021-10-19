@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/w_YM3dJOCjQ6Pll5zl_KCbtL6cQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70012090/akrales_20210515_4583_0105.0.jpg' width='700px' /><br/>
 Following several beta releases, Apple announced that the next version of its macOS software, macOS Monterey, is about to release. It'll be rolling out as an update starting on Monday, October 25th.
-<a href='https://www.theverge.com/2021/10/18/22725047/macos-monterey-release-date-compatibility-features-m1-pro-max-chip'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/w_YM3dJOCjQ6Pll5zl_KCbtL6cQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70012090/akrales_20210515_4583_0105.0.jpg' width='700px' /><br/>
-Following several beta releases, Apple announced that the next version of its macOS software, macOS Monterey, is about to release. It'll be rolling out as an update starting on Monday, October 25th.
 <a href='https://www.theverge.com/2021/10/18/22725047/macos-monterey-release-date-compatibility-features-m1-pro-max-chip'> Source <a/>
