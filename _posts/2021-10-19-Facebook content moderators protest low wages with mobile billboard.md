@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yN-TYa7-ctrI8rnu7sRNCO-RYws=/0x0:3600x2400/1200x800/filters:focal(1734x816:2310x1392)/cdn.vox-cdn.com/uploads/chorus_image/image/70015213/1235960474.0.jpg' width='700px' /><br/>
+Facebook moderators are protesting low wages at contracting agency Accenture in the form of a mobile billboard and an internal letter, according to a tip received by The Verge. Most of all, moderators say they just want to be treated as humans.
+<a href='https://www.theverge.com/2021/10/19/22726915/facebook-content-moderators-protest-low-wages'> Source <a/>
