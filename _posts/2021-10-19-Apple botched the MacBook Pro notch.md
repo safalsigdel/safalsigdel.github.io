@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZtFJM8Fs7uACLLFayzTYYuah2Z8=/0x0:1960x1274/1200x800/filters:focal(824x481:1136x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70015767/Apple_MacBook_Pro_16_inch_Final_Cut_Pro_10182021.0.jpg' width='700px' /><br/>
+The day that many have been dreading has finally arrived. Apple has added a notch to its new MacBook Pros. And somehow, Apple — notch pros at this point — managed to utterly botch the notch. Because the new MacBook Pros completely missed out on the most important part of the notch: adding Face ID.
+<a href='https://www.theverge.com/2021/10/19/22734676/apple-macbook-pro-notch-botch-face-id-missing-feature-design'> Source <a/>
