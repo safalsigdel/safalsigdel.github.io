@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rQWcjdg3J8nDeWCT0HPkROkKrRE=/0x0:9033x4500/1200x800/filters:focal(3795x1528:5239x2972)/cdn.vox-cdn.com/uploads/chorus_image/image/70010309/Google_Pixel_6_Pro.0.jpg' width='700px' /><br/>
-We've seen the Pixel 6 and Pixel 6 Pro. Google's decision to announce and thoroughly tease its new high-end flagship was revealing and confusing but, given all the leaks that followed, ultimately not that consequential.
-<a href='https://www.theverge.com/2021/10/18/22722823/google-pixel-6-pro-event-android-12-magic-eraser-rumors'> Source <a/>

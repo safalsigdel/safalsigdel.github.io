@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Rsb1hig7EcJroA5TTw7xN0yuo34=/0x0:2040x1351/1200x675/filters:focal(884x827:1210x1153)/cdn.vox-cdn.com/uploads/chorus_image/image/67467034/verge_DSC_0771_2040pxl.0.jpg' width='700px' /><br/>
-Cowboy has returned with its third-generation e-bike. It's still the best-looking pedal-assisted electric bike with a removable battery that I've ever seen having carried forward the same physical design as the original Cowboy. While the Cowboy 2 from last year was sporty, the Cowboy 3 is mature, focusing on safety rather than fun.
-<a href='https://www.theverge.com/21454206/cowboy-3-electric-bike-review-price-features'> Source <a/>

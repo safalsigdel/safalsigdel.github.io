@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XNhY8JF63dFrhxM1OX6SOylzkV8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70006958/acastro_180604_1777_apple_wwdc_0001.5.jpg' width='700px' /><br/>
-Apple has announced an event for October 18th, with a video containing the title “Unleashed.” If you've been watching the rumor mill, it won't come as a surprise — the company still has a lot of products that are expected to come out this year but haven't shown up in an Apple keynote.
-<a href='https://www.theverge.com/2021/10/17/22725365/apple-october-macbook-event-unleashed-rumors-pro-airpods'> Source <a/>

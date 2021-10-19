@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5-vvW7L2wtJe6Q63Vn4iusRRSec=/0x0:1782x993/1200x800/filters:focal(749x355:1033x639)/cdn.vox-cdn.com/uploads/chorus_image/image/70011912/25cFLr6.0.png' width='700px' /><br/>
-Apple unveiled a new Voice plan for Apple Music during its Unleashed event on Monday that will be $4.99 per month. You can use only your voice and its Siri voice assistant to access all Apple Music content across Apple devices. It will be available later this fall in 17 countries.
-<a href='https://www.theverge.com/2021/10/18/22733053/apple-music-voice-plan-playlists-price-siri'> Source <a/>

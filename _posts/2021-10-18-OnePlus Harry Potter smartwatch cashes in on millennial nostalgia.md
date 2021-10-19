@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B3EJ4zYqSSjyVWC-8gV6me3kqcw=/0x0:1500x1000/1200x0/filters:focal(0x0:1500x1000):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22935324/watch_rotate_360.jpg' width='700px' /><br/>
-How much do you still like Harry Potter? Enough to put up with a device that our own Dan Siefert called “basic and boring” and which Gizmodo's Victoria Song called “the worst smartwatch I've ever used”? Well boy do I have a limited edition tie-in for you.
-<a href='https://www.theverge.com/2021/10/18/22732353/oneplus-harry-potter-limited-edition-smartwatch-watch-faces'> Source <a/>

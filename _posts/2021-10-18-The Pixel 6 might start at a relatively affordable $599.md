@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ehmwe-kpOfu53UIFn3TgOhCJ9HI=/0x0:7645x4500/1200x800/filters:focal(3212x1639:4434x2861)/cdn.vox-cdn.com/uploads/chorus_image/image/70009617/Google_Pixel_6__Portfolio_Shot.0.jpg' width='700px' /><br/>
-The Pixel 6's price could start at $599 with 128GB of storage, while the 128GB Pixel 6 Pro could start at $898, according to early US pricing at Target stores spotted by M. Brandon Lee and Evan Lei. Lei posted a photo of pricing already displayed on Target's shelves, while Lee has images of the retailer's inventory system showing the same prices. A “street date” for both phones (aka their release dates) is listed as October 28th.
-<a href='https://www.theverge.com/2021/10/18/22732322/pixel-6-pro-price-leak-us-eu'> Source <a/>

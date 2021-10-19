@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CfafDRM5E-LQZKFFACTf9UzW4Sw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70010559/vpavic_4278_20201030_0247.0.jpg' width='700px' /><br/>
-Sony's PS5 has become the first console to outsell the Nintendo Switch in the US in nearly three years. The PS5 outsold the Switch in September in the US, according to data from retail analytics firm The NPD Group. Nintendo's Switch had been the bestselling console in the US for 33 months in a row, even outselling both the PS5 and Xbox Series X during their launch periods.
-<a href='https://www.theverge.com/2021/10/18/22732577/ps5-nintendo-switch-npd-us-sales'> Source <a/>

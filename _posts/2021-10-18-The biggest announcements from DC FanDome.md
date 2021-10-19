@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AB_GcpjGCmAzBXuO0SnA288ub5w=/0x0:1870x992/1200x800/filters:focal(786x347:1084x645)/cdn.vox-cdn.com/uploads/chorus_image/image/70005059/black_adam.0.png' width='700px' /><br/>
-DC Comics and Warner Bros. held their second annual Fandome on Saturday, revealing new trailers for movies and shows coming up, including The Batman, The Flash, and Black Adam. We also got a look at the story trailer for the Suicide Squad: Kill the Justice League game. Here's a look at some of the biggest news that dropped.
-<a href='https://www.theverge.com/2021/10/16/22729057/biggest-announcements-dc-fandome-batman-black-adam-hbo-warner'> Source <a/>

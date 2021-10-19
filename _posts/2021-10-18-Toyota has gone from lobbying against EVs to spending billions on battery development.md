@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LcAoczfw9V58ZQFA4CgOEpn4EXs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70010944/akrales_180328_2351_0623.0.jpg' width='700px' /><br/>
-Toyota, the largest automaker in the world, announced that it will spend $3.4 billion on “automative batteries” in the US through 2030 — a little more than two months after it was revealed that the company was quietly lobbying elected officials in Washington, DC to slow the transition to electric vehicles.
-<a href='https://www.theverge.com/2021/10/18/22732641/toyota-ev-battery-factory-us-investment-spend-amount'> Source <a/>

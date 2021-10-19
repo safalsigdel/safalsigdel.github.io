@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-aNHOHS5o5rLoFKIRYZQADW8Qc0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70011914/acastro_181114_1777_amazon_hq2_0005.0.jpg' width='700px' /><br/>
-House lawmakers are giving Amazon one last chance to correct the record on whether it uses seller data to copy popular third-party products and manipulate marketplace search results in light of recent reporting.
-<a href='https://www.theverge.com/2021/10/18/22733031/amazon-prime-data-sellers-congress-judiciary-antitrust-klobuchar-cicilline'> Source <a/>
