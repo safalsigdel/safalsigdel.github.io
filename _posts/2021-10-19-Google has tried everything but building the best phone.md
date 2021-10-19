@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wibwNtQqE9yHrj9s8YcJCytA0s4=/0x0:7645x4500/1200x800/filters:focal(3212x1639:4434x2861)/cdn.vox-cdn.com/uploads/chorus_image/image/70014336/Google_Pixel_6__Portfolio_Shot.0.jpg' width='700px' /><br/>
+At 1PM ET, Google will try its best to convince millions of people to buy a Pixel 6 or Pixel 6 Pro instead of Apple's iPhone 13 or a Samsung Galaxy. Will it work? That depends on whether Google does something it's never managed to do with a phone launch: fire on every cylinder.
+<a href='https://www.theverge.com/2021/10/19/22734039/google-pixel-6-pro-price-marketing-premium-flagship-editorial'> Source <a/>
