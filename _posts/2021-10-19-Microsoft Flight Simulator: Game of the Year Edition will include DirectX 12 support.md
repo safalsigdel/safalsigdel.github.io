@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sudJowQwOAaY1P1dmbp-aEyWqvE=/0x0:660x440/1200x800/filters:focal(278x168:382x272)/cdn.vox-cdn.com/uploads/chorus_image/image/70015079/flightsimgoty.0.jpg' width='700px' /><br/>
+Microsoft Flight Simulator: Game of the Year Edition is arriving on November 18th with DirectX 12 support. The free update will include five new aircraft, eight new airports, and new discovery flights and tutorials. The big addition will be DirectX 12 support for PC players.
+<a href='https://www.theverge.com/2021/10/19/22734169/microsoft-flight-simulator-game-of-the-year-edition-directx-12-support-date'> Source <a/>
