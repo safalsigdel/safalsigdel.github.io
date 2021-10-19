@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KTJ6S1ch9VSnH-oPUjRJwdTz5j8=/0x0:7645x4500/1200x675/filters:focal(3212x1639:4434x2861)/cdn.vox-cdn.com/uploads/chorus_image/image/70016058/Google_Pixel_6__Portfolio_Shot.0.jpg' width='700px' /><br/>
+After leaks and pre-annoucements, ads and yet more leaks, the time has come for Google to officially launch the Pixel 6 and Pixel 6 Pro. We already know many details: the custom Tensor processor that powers it, the colors and many of the specs, and even some of the software features have all been officially announced. And rumors have filled in more details.
+<a href='https://www.theverge.com/2021/10/19/22733532/google-pixel-6-pro-event-live-blog'> Source <a/>
