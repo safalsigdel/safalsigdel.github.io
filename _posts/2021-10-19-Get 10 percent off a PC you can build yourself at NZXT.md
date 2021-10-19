@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+For the next 48 hours, NZXT is giving 10 percent off all of its pre-built BLD systems. This includes its pre-fab configurations, as well as any custom-tailored builds. With PC parts at something of a premium right now, a sale like this is fantastic for anyone that's been biding their time on investing in a new PC.
+<a href='https://www.theverge.com/good-deals/2021/10/19/22732659/get-10-percent-off-a-pc-you-can-build-yourself-at-nzxt-deal-sale'> Source <a/>
