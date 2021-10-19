@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/shWWm9VYM-wF6Dp4rAyRgPaRY-s=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70014236/Details_Page_v04.0.png' width='700px' /><br/>
+Google is one step closer to launching its new data privacy section for Play Store apps. App developers can now fill out the relevant details via Google's new “Data safety form” on the Play Console. The company says the required information will be visible to users from February 2022 and mandatory for developers to submit by April that same year.
+<a href='https://www.theverge.com/2021/10/19/22734153/google-play-store-app-data-privacy-briefings-launch-schedule'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n2pewUsCnuVwa1znHVto6cYZtgs=/0x0:1920x1080/1200x800/filters:focal(73x260:379x566)/cdn.vox-cdn.com/uploads/chorus_image/image/70014938/XGP_Touch_Controls_100.0.jpg' width='700px' /><br/>
+Microsoft now has more than 100 games on Xbox Game Pass that support Xbox touch controls. The software giant is adding 13 titles to the list of touch-enabled games today, bringing the total to beyond 100 — a new milestone for Xbox Game Pass.
+<a href='https://www.theverge.com/2021/10/19/22734392/xbox-touch-controls-game-pass-games-list'> Source <a/>

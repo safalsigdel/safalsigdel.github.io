@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0o0rBtRVRjclmQBvbQyhN4kkLN0=/0x0:1908x1076/1200x800/filters:focal(802x386:1106x690)/cdn.vox-cdn.com/uploads/chorus_image/image/70013271/8zIbrHP0R4.0.jpg' width='700px' /><br/>
+I nearly bought my first MacBook Pro in 2015. It would have been the first Mac I ever personally owned. But I convinced myself to wait another year for faster Intel chips — and in October 2016, Apple took away almost everything I admired about that Mac in one fell swoop.
+<a href='https://www.theverge.com/22733328/apple-macbook-pro-ports-professional-specs'> Source <a/>
