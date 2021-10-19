@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZYAuM9ewPLG1SbCMCZxJX8nT9xg=/0x0:3170x2155/1200x800/filters:focal(1332x825:1838x1331)/cdn.vox-cdn.com/uploads/chorus_image/image/70011702/pixel_6_phones.0.jpg' width='700px' /><br/>
-Google's upcoming phones have made early appearances in leaks over, and over, and over, and over, and over again, so it's really no surprise that someone seems to have obtained a retail-boxed Pixel 6 unit ahead of the fall launch event tomorrow.
-<a href='https://www.theverge.com/2021/10/18/22732866/google-pixel-6-leak-unboxing-sorta-seafoam'> Source <a/>
