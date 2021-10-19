@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UyVc0gbddpE2ZQguTn9qE08Fqrc=/0x0:1536x865/1200x800/filters:focal(646x311:890x555)/cdn.vox-cdn.com/uploads/chorus_image/image/70015385/NoviWordmark.0.png' width='700px' /><br/>
+Facebook is finally starting to roll out a “small pilot” of its Novi digital wallet today in the US and Guatemala, more than two years after it was first announced. The pilot program will let users send and receive money “instantly, securely, and with no fees” using the Paxos stablecoin, in partnership with Coinbase (which will be serving as the custody partner that holds the actual funds for the pilot).
+<a href='https://www.theverge.com/2021/10/19/22734487/facebook-novi-digital-wallet-pilot-program-payments-diem-cryptocurrency'> Source <a/>

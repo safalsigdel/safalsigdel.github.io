@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ScGXNdRttJ8XBeJvxc4iXoPjauc=/0x0:2250x1500/1200x800/filters:focal(945x570:1305x930)/cdn.vox-cdn.com/uploads/chorus_image/image/70013456/Darkplates_2.0___C.0.png' width='700px' /><br/>
-Dbrand has revealed a brand-new design for its PS5 Darkplates just days after yanking the originals from sale.
-<a href='https://www.theverge.com/22733642/dbrand-new-ps5-darkplates-sony-legal-threats'> Source <a/>

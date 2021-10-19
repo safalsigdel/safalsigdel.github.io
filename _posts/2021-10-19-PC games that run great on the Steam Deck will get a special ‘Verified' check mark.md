@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Cc6Z07y6RaqqdWIZA5iXVnNXwwY=/0x0:1000x602/1200x0/filters:focal(0x0:1000x602):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22937357/steam_deck_compatibility.jpg' width='700px' /><br/>
-As the Steam Deck's December 2021 launch approaches, Valve is taking time to make sure gamers know which titles will work on its portable machine. While its site still promises “Your Steam Library, anywhere,” we've had an interest — and a little skepticism — about whether or not games built for PCs will actually work well on a handheld device that runs Linux.
-<a href='https://www.theverge.com/2021/10/18/22733408/steam-deck-compatibility-verified-pc-gaming-valve'> Source <a/>

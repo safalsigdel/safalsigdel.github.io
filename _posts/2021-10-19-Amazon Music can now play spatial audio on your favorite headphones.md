@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u88s8eAy-WfRNuTqWgNFl_YOrbE=/0x0:992x558/1200x800/filters:focal(450x194:608x352)/cdn.vox-cdn.com/uploads/chorus_image/image/70014718/7P9wUy2fNzusM4MUjuKhBh.0.jpg' width='700px' /><br/>
-Amazon has announced that, beginning today, Amazon Music Unlimited subscribers will be able to listen to spatial audio music tracks with their favorite headphones with the Amazon Music app for Android and iOS. The company is supporting two formats of spatial audio: Dolby Atmos (which is also offered by Apple Music) and Sony's 360 Reality Audio.
-<a href='https://www.theverge.com/2021/10/19/22734261/amazon-music-spatial-audio-dolby-atmos-headphones'> Source <a/>
