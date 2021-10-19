@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HrBA4mg-9YpsMmY1ZuDaFHHNGlM=/0x0:1898x1066/1200x800/filters:focal(798x382:1100x684)/cdn.vox-cdn.com/uploads/chorus_image/image/70012529/Screen_Shot_2021_10_18_at_10.23.57_AM.0.png' width='700px' /><br/>
-The tech world may be abuzz regarding the 14- and 16-inch MacBook Pros, but the new AirPods — announced during Apple's “Unleashed” event today — have also conjured up a storm. Apple has finally announced a new pair of true wireless earbuds set to launch on October 26th for $179, while lowering the price of the entry-level AirPods 2 to $129.
-<a href='https://www.theverge.com/22665643/apple-airpods-3-preorder-how-to-buy-price-availability-release-date'> Source <a/>

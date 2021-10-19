@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UOKfxwquVXrSX9YomrculqRMq74=/0x0:2690x1502/1200x800/filters:focal(1130x536:1560x966)/cdn.vox-cdn.com/uploads/chorus_image/image/70012874/Screen_Shot_2021_06_07_at_2.07.23_PM.0.png' width='700px' /><br/>
-Universal Control, Apple's upcoming feature that lets you control multiple devices with the same mouse and keyboard, will probably not be launching at the same time as macOS Monterey. While Apple has said that the OS upgrade will be available on October 25th, its features page has been updated to say that Universal Control will be “available later this fall,” a change spotted by MacRumors.
-<a href='https://www.theverge.com/2021/10/18/22733044/macos-universal-control-later-this-fall-monterey-feature-delay'> Source <a/>

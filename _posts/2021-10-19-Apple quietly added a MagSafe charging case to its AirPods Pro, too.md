@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m3lSNLD1oPYU75hkv5fwVHwNvzU=/0x0:2124x1500/1200x800/filters:focal(893x581:1231x919)/cdn.vox-cdn.com/uploads/chorus_image/image/70012471/Screen_Shot_2021_10_18_at_2.19.16_PM.0.png' width='700px' /><br/>
-Apple just announced its third-generation AirPods with a new charging case that works with its MagSafe magnetic charging system, but the company also quietly announced that, starting today, it'll also be including the new case with its pricier $250 AirPods Pro model, too.
-<a href='https://www.theverge.com/2021/10/18/22733183/apple-magsafe-charging-case-airpods-pro-qi'> Source <a/>
