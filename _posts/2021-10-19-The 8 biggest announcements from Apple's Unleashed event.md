@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vDD6iqwhPpFuiYdu5H3O5i_TjXc=/0x0:1534x862/1200x0/filters:focal(0x0:1534x862):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22936637/1Rm4aV2YiD.png' width='700px' /><br/>
+Apple has just finished its October 2021 event, which was full of news and announcements from the company — including the long-awaited M1-equipped MacBook Pros. There was a whole lot of news, so if you want to get caught up on the biggest updates from the show, you can catch up with our roundup right here.
+<a href='https://www.theverge.com/2021/10/18/22724306/apple-macbook-pro-event-biggest-announcements-airpods-m1-pro-max'> Source <a/>
