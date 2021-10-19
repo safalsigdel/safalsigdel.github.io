@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bpQI3z27EO7qyd4yBiYiyGObXFs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70012407/akrales_190327_3315_0019.0.jpg' width='700px' /><br/>
-Apple announced its third-generation AirPods during today's big hardware event: a $179 set of earbuds that are much closer to the AirPods Pro in terms of features and design. Though, it's not all bad news if you don't want to spend that much on AirPods. As a result of this new set, Apple has permanently slashed the price of its second-gen AirPods that include a wired charging case from $159 to $129.
-<a href='https://www.theverge.com/2021/10/18/22733184/apple-second-generation-airpods-wired-charging-case-price-cut-129'> Source <a/>
