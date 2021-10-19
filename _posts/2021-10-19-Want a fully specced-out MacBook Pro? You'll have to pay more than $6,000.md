@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qoASZXFoxqR_xDjnkEE_AMbP4k4=/0x0:1960x1102/1200x800/filters:focal(1175x383:1487x695)/cdn.vox-cdn.com/uploads/chorus_image/image/70012918/Apple_MacBook_Pro_Photo_Edit_10182021.0.jpg' width='700px' /><br/>
-Apple announced new M1-equipped MacBook Pros on Monday, and they look like very good upgrades, with powerful chips, adaptive refresh rate displays, the return of some beloved ports, and more. They don't come cheap, though, with the 14-inch MBP starting at $1,999 and the 16-inch one starting at $2,499.
-<a href='https://www.theverge.com/2021/10/18/22733173/macbook-pro-specced-out-high-end-price'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Apple kicked off its MacBook Pro keynote a little differently today: with a sweet remix of classic Apple sound effects from the past 45 years of the company's history, created by artist A. G. Cook — using Apple's Pro Display XDR, MacBook Pro, and Logic Pro, of course.
-<a href='https://www.theverge.com/tldr/2021/10/18/22733238/start-up-ag-cook-apple-event-song-sound-effects-mac-ipod-hardware'> Source <a/>

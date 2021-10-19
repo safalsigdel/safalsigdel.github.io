@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zsvh4fXgrxTjZ0f2bPCHDKKyXxA=/0x0:2762x1786/1200x800/filters:focal(1161x673:1601x1113)/cdn.vox-cdn.com/uploads/chorus_image/image/70012886/ps_app_ps5_captures.0.png' width='700px' /><br/>
-Sony is testing a way to share screenshots and video captures taken on your PS5 with the PlayStation app, the company announced Monday. The new feature is part of a “limited-release beta” available to all PS5 users in Canada and Japan.
-<a href='https://www.theverge.com/2021/10/18/22733250/ps5-sony-playstation-app-captures-phone-sharing'> Source <a/>

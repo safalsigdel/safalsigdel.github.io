@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AfTmY4K5vxSOKku04yzg18aFLqU=/0x0:2096x1182/1200x800/filters:focal(881x424:1215x758)/cdn.vox-cdn.com/uploads/chorus_image/image/70014157/Google_Pixel_6_Pro__Alt_Angle_.0.jpg' width='700px' /><br/>
-Google is planning a major increase in its smartphone shipments with the impending launch of the Pixel 6, according to Nikkei. The Japanese publication says that Google has ordered more than 7 million Pixel 6 smartphones to be produced, roughly doubling its entire 2020 production. Nikkei cites figures from IDC saying that Google produced 3.7 million phones last year.
-<a href='https://www.theverge.com/2021/10/19/22734154/pixel-6-sales-shipments-new-pixelbook-report'> Source <a/>

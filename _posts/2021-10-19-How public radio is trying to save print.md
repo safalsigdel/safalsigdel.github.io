@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hj66HV077qDSgByzjp4o8XSt-E4=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70014500/newspaperRadio.0.jpg' width='700px' /><br/>
-The Chicago Sun-Times needs help. After being bought and sold several times over the last decade, the 73-year-old paper is looking for a more stable home to continue its award-winning reporting — and it may have finally found it in an unexpected place: a radio station.
-<a href='https://www.theverge.com/22732611/wbez-chicago-public-media-sun-times-deal-radio-print-journalism-podcast'> Source <a/>
