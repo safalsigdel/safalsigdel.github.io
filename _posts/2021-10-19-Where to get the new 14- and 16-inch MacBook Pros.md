@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7eSxMOdl3Watd577YoDmi1w51VM=/0x0:1534x862/1200x800/filters:focal(645x309:889x553)/cdn.vox-cdn.com/uploads/chorus_image/image/70012701/1Rm4aV2YiD.0.png' width='700px' /><br/>
+As expected, Apple's “Unleashed” event brought a number of new additions to Apple's lineup, including a pair of new laptops in the form of new versions of the 14- and 16-inch MacBook Pro, as well as a third-generation of AirPods.
+<a href='https://www.theverge.com/2021/10/18/22724608/apple-m1-pro-m1-max-macbook-pro-how-to-buy-price-availability-release-date'> Source <a/>

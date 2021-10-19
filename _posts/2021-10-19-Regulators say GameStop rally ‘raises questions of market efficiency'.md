@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DY8oMmFqaZaZ9JpB1G3nhaw33xk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70012904/acastro_210129_1777_robinhood_0001.0.jpg' width='700px' /><br/>
+On Monday, the Securities and Exchange Commission published an official staff report on the GameStop rally earlier this year, calling for more scrutiny of both short-seller activity and broker-dealers like Robinhood. The report is particularly harsh on Robinhood's “payment for order flow” system, which rewards the company for increasing the number of trades.
+<a href='https://www.theverge.com/2021/10/18/22733429/sec-gamestop-robinhood-report-pfof-meme-stock-rally'> Source <a/>

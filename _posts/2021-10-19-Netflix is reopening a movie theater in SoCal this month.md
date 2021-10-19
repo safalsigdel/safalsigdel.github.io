@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZudxASk3CYr8-WxUpkIdmsm3zPw=/0x0:1676x1040/1200x800/filters:focal(704x386:972x654)/cdn.vox-cdn.com/uploads/chorus_image/image/70012790/PV_BayTheater_ComingSoon_1676x1040_46__5_.0.jpg' width='700px' /><br/>
+Netflix will reopen the Bay Theatre at Palisades Village in Southern California beginning October 22nd, becoming the third physical theater with which the streamer has announced a partnership.
+<a href='https://www.theverge.com/2021/10/18/22733232/netflix-movie-theater-bay-palisades-village'> Source <a/>

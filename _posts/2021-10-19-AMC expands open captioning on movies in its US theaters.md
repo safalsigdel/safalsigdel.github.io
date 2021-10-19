@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Jf9Z2CR5QNqLIdRhX8-CjLkHO6k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70013378/acastro_210813_1777_amc_0001.0.jpg' width='700px' /><br/>
+AMC has expanded open captioning on some film showings to 240 cinemas in the US, including select showtimes for all of its newer releases. The expansion of support in its theaters across the US — which has been extended to more than 100 markets — is AMC's most significant push into captioned showings to date.
+<a href='https://www.theverge.com/2021/10/18/22733577/amc-open-caption-screenings-showtimes'> Source <a/>

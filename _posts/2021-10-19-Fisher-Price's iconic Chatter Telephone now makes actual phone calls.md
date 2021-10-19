@@ -1,0 +1,3 @@
+<img src='' width='700px' /><br/>
+Apple's iPhone 4 is often held up as a pinnacle of phone design, but what about the Fisher-Price Chatter Telephone? With its friendly features (a big smiley face painted on the front) and mobile design (thanks to its four wheels), the Chatter Telephone has long been the gadget of choice among the aesthetically discerning and the under-4s. This week, to celebrate the device's 60th anniversary, Fisher-Price has blown our minds once more with its courage and innovation: the Chatter Telephone now makes and receives phone calls.
+<a href='https://www.theverge.com/2021/10/19/22734179/fisher-price-chatter-telephone-bluetooth-accessory-phone-calls'> Source <a/>
