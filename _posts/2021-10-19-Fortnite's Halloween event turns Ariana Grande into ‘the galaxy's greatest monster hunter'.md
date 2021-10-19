@@ -1,0 +1,3 @@
+<img src='' width='700px' /><br/>
+Fortnite's big Halloween event, Fortnitemares, is making its return. But this year's edition comes with a fun twist: one-time Fortnite performer Ariana Grande is now officially part of the game's lore, with a questline that turns her into “the galaxy's greatest monster hunter.”
+<a href='https://www.theverge.com/2021/10/19/22733240/fortnite-fortnitemares-2021-halloween-event-ariana-grande'> Source <a/>
