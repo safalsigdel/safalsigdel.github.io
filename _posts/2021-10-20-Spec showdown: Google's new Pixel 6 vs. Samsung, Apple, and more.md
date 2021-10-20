@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x0YYjJosNNXyOkBaSAEw9CyT16Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70018001/cwelch_211015_4802_0002.0.jpg' width='700px' /><br/>
+At its fall event on Tuesday, Google announced the Pixel 6 and Pixel 6 Pro, which feature its custom Tensor processor and the first big camera upgrade for Google's phones since the Pixel 3. Since the Pixel 6s are available to preorder now, let's take a look at how Google's new phones compare on paper to their Android and iPhone competition.
+<a href='https://www.theverge.com/2021/10/19/22735208/google-pixel-6-pro-spec-comparison-iphone-samsung-oneplus-camera-battery-screen-size'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AbZ0D8MNrBEs2-_ZOMsXWMAtTU4=/0x0:2750x1440/1200x800/filters:focal(1155x500:1595x940)/cdn.vox-cdn.com/uploads/chorus_image/image/70016756/nikola_one_16.0.jpg' width='700px' /><br/>
+Hydrogen trucking startup Nikola is being allowed to continue its three-year-old $2 billion patent lawsuit against Tesla. A federal judge shelved the suit earlier this month after the two companies stopped responding to the court's orders.
+<a href='https://www.theverge.com/2021/10/19/22734970/nikola-tesla-2-billion-patent-lawsuit-desgn-infringement'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OyLb-_HLHt-2oz7RKVIk9KDVOhw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70016825/bfarsace_211014_4802_0044.0.jpg' width='700px' /><br/>
+Pre-orders for Google's new line of phones started at the same time as their launch event, but for most of us, trying to buy a Pixel 6 or Pixel 6 Pro has meant seeing nothing but error screens. Some unsteadiness is to be expected given the sudden demand, but at 1PM ET, the doors opened, and Google's store seemed to fall flat.
+<a href='https://www.theverge.com/2021/10/19/22735046/google-pixel6-store-r013-r008-error-preorder-buy'> Source <a/>
