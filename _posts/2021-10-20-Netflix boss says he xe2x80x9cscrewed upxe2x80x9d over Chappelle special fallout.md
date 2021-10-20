@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/85ld_tZ3qFw7yhKlvIaK5oc5FFE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70018989/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
-Mere hours before a planned walkout from Netflix's trans and allied workers over comments made by Dave Chappelle in a recent special, co-CEO Ted Sarandos has said he “screwed up” over his response to employers over outrage from within the company.
+Mere hours before a planned walkout from Netflix's trans and allied workers over comments made by Dave Chappelle in a recent special, co-CEO Ted Sarandos has said he “screwed up” over his response to employees over outrage from within the company.
 <a href='https://www.theverge.com/2021/10/20/22735949/netflix-boss-screwed-chappelle-special-the-closer-walkout'> Source <a/>
