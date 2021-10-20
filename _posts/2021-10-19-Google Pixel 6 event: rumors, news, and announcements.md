@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MqH4hOQnmguI5bKwwgA7aDLIsFc=/0x0:7645x4500/1200x800/filters:focal(3212x1639:4434x2861)/cdn.vox-cdn.com/uploads/chorus_image/image/70015027/Google_Pixel_6__Portfolio_Shot.0.jpg' width='700px' /><br/>
-Google may have already announced the Pixel 6 and 6 Pro, but it looks like the company may still have a few more surprises in store for us — or at least a few more details. Despite announcing the new phones earlier this year, the tech giant will hold a virtual Pixel event on October 19th at 1PM ET / 10AM PT.
-<a href='https://www.theverge.com/22722647/google-pixel-6-event-announcements-news-products'> Source <a/>

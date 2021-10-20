@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vzafF9zC3lnYj-Kp2r2m5nzuvRY=/0x0:2270x1416/1200x800/filters:focal(954x527:1316x889)/cdn.vox-cdn.com/uploads/chorus_image/image/70014409/Screen_Shot_2021_10_19_at_12.17.21_PM.0.png' width='700px' /><br/>
-Apple has updated the iMovie app for Macs to let users edit and adjust the focus in videos recorded using the iPhone 13's new “cinematic mode” — though you'll need to wait until you can update to the latest macOS Monterey on October 25th to take advantage.
-<a href='https://www.theverge.com/2021/10/19/22734219/apple-imovie-cinematic-mode-focus-support-adjust'> Source <a/>

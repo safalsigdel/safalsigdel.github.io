@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aiHoI_QDUCC1v05Aa7RwYXUeBGA=/0x0:3808x2479/1200x800/filters:focal(1600x936:2208x1544)/cdn.vox-cdn.com/uploads/chorus_image/image/70015719/1234971615.0.jpg' width='700px' /><br/>
-You may soon be able to watch your local teams' home games without cable TV, as the MLB is considering launching a web-based streaming service that will do exactly that (via New York Post). Shrinking viewership rates may be the main factor behind the potential streaming service. As the New York Post points out, the MLB viewership has dropped 12 percent this year in comparison to 2019.
-<a href='https://www.theverge.com/2021/10/19/22734293/mlb-streaming-service-local-games-launch'> Source <a/>

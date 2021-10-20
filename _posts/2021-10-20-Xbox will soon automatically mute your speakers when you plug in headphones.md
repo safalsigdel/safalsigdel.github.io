@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Oi4Lb2mD3ViqAJoYtu8UgTH4k3Q=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70017903/cfaulkner_210311_4469_0006.0.jpg' width='700px' /><br/>
+Microsoft is testing a feature that automatically mutes your speakers when you plug in headphones, fixing one of my biggest pet peeves with playing games on Xbox. The feature is rolling out to Xbox Insiders on the Alpha Skip-Ahead ring, which means it will very likely be available more broadly in the coming months.
+<a href='https://www.theverge.com/2021/10/19/22735389/xbox-mutes-speakers-plug-in-headphones-skip-ahead-ring'> Source <a/>

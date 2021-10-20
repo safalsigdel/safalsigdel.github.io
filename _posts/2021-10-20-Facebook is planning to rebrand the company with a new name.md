@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FVTO82jpMs2XlpIRTpxb_DzK1FM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70018752/acastro_072121_4674_zuckerberg.0.jpg' width='700px' /><br/>
+Facebook is planning to change its company name next week to reflect its focus on building the metaverse, according to a source with direct knowledge of the matter.
+<a href='https://www.theverge.com/2021/10/19/22735612/facebook-change-company-name-metaverse'> Source <a/>

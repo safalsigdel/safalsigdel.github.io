@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rRnTEUQqlGEsnu8Q6WNy6iRmL8s=/0x0:5760x2636/1200x800/filters:focal(860x811:1780x1731)/cdn.vox-cdn.com/uploads/chorus_image/image/70015988/04.5.png' width='700px' /><br/>
-Smart home company Wyze has revealed its latest category-breaking device, and this time, it's going straight for Ring's lunch with an impressive-sounding video doorbell that checks pretty much all the right boxes. Except maybe the “cool style and nice design” one.
-<a href='https://www.theverge.com/2021/10/19/22734238/wyze-video-doorbell-pro-price-specs-shipping'> Source <a/>

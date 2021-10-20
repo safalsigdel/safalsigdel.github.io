@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NKGpPmfF1Mv6Yvqw8PaQZdgzwCU=/0x0:1306x1044/1200x800/filters:focal(549x418:757x626)/cdn.vox-cdn.com/uploads/chorus_image/image/70015527/Apple_HomePod_mini_Apple_Music_Voice_AirPods_3rd_gen_10182021.0.jpg' width='700px' /><br/>
-The new Apple Music Voice plan that Apple announced at its “Unleashed” event on Monday is causing some confusion. I'm here to help you understand this new, cheaper option, which capitalizes on the power of Apple's smart voice assistant, Siri (don't laugh).
-<a href='https://www.theverge.com/2021/10/19/22734185/new-apple-music-voice-plan-price-features-app'> Source <a/>

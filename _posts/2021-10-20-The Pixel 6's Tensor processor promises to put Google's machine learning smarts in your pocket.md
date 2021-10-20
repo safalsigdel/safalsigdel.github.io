@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k-E2IHujN8ZiCVSYn0UI32nT05M=/0x0:1304x876/1200x800/filters:focal(548x334:756x542)/cdn.vox-cdn.com/uploads/chorus_image/image/70016541/Screen_Shot_2021_10_19_at_1.08.09_PM.0.png' width='700px' /><br/>
+Google's Pixel 6 and Pixel 6 Pro are officially here, and with them, the debut of Google's new Tensor chip. Google has finally revealed more information on what the new SoC can actually do, for the fastest Pixel phones ever.
+<a href='https://www.theverge.com/2021/10/19/22710844/google-pixel-6-pro-tensor-processor-ai-speed-specs-details'> Source <a/>

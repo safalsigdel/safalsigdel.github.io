@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s5KPLeMX8XPFcDwgXVFKl_fOgU0=/0x0:3840x1920/1200x800/filters:focal(1696x298:2310x912)/cdn.vox-cdn.com/uploads/chorus_image/image/70017847/SquidGame_Season1_Episode1_00_44_44_16.0.png' width='700px' /><br/>
+Netflix will change the public-facing metrics it uses to rank the most popular titles on its streaming service, the company announced Tuesday.
+<a href='https://www.theverge.com/2021/10/19/22735379/netflix-changing-ranking-metric-popular-titles-hours-viewed'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ttwxvFhPBDRBqVlBtGds4qpfqoQ=/0x0:1112x834/1200x800/filters:focal(468x329:644x505)/cdn.vox-cdn.com/uploads/chorus_image/image/70016899/snapchat_quick_tap_snap.5.png' width='700px' /><br/>
+At today's Pixel event, Google dove into the details about the Pixel 6 series devices and outlined a brand new feature that will make sending Snaps even faster. The new feature, called Quick Tap to Snap, adds a camera-only version of Snapchat directly to the lock screen of the Pixel.
+<a href='https://www.theverge.com/2021/10/19/22734993/pixel-6-snapchat-feature-tap-camera'> Source <a/>

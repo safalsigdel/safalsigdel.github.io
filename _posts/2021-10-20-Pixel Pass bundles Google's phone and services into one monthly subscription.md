@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kQXQzwa_lGJgq7AbIJfDX5ARd0g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70016175/bfarsace_211014_4802_0002.0.jpg' width='700px' /><br/>
+Google Pixel Pass is a new subscription bundle designed to let US customers pay for a Pixel phone in monthly installments while also getting access to Google's premium subscription services like 200GB of Google One cloud storage, YouTube Premium, YouTube Music Premium, and Google Play Pass.
+<a href='https://www.theverge.com/2021/10/19/22725981/google-pixel-pass-subscription-services-phone-monthly-payments-price'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WSdVi8eGRpQUJERNq9buwfVpaeU=/0x0:4200x2787/1200x800/filters:focal(1764x1058:2436x1730)/cdn.vox-cdn.com/uploads/chorus_image/image/70018395/1234304012.0.jpg' width='700px' /><br/>
+Activision Blizzard, facing a discrimination lawsuit from the California Department of Fair Employment and Housing (or DFEH), has filed an application to stay that lawsuit so it can investigate claims that DFEH lawyers engaged in ethical misconduct.
+<a href='https://www.theverge.com/2021/10/19/22735273/activision-blizzard-requests-stay-in-harassment-lawsuit-alleging-conflict-of-interest'> Source <a/>

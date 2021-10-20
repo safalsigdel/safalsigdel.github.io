@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rS_Rz1Ho8Xr4IBcEOR9FCBwhqJs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70015425/IMG_0229.0.jpg' width='700px' /><br/>
-Although the Wear OS watch market has been dominated by the likes of Fossil for many years now, Casio has quietly carved out a niche for itself as a purveyor of more rugged devices. The Japanese company first released its Smart Outdoor Watch all the way back in 2016 and has continued to iterate on the idea with Pro Trek-branded models.
-<a href='https://www.theverge.com/22732325/casio-g-shock-gsw-h1000-g-squad-pro-review'> Source <a/>
