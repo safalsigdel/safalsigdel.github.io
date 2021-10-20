@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iNrl7nDJmrjvX-Cayk3UBxLL6yo=/0x0:5184x3456/1200x800/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/70020646/1345139017.0.jpg' width='700px' /><br/>
+A UK watchdog has fined Facebook xc2xa350 million ($70 million USD) for purposely concealing information about its Giphy acquisition (via TechCrunch). Facebook began its $400 million acquisition of Giphy in 2020, and even members of Congress thought it was a bad idea.
+<a href='https://www.theverge.com/2021/10/20/22736236/facebook-giphy-uk-cma-fine'> Source <a/>

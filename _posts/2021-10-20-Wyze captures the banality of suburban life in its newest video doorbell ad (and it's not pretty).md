@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b75jTQdpiQQBNyhmhI4CbxIdehc=/0x0:1245x656/1200x0/filters:focal(0x0:1245x656):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22939494/Screen_Shot_2021_10_19_at_2.07.45_PM.png' width='700px' /><br/>
-The typical sell for a video doorbell is: “You need to see what's going on at your front door from your phone so no one steals your Amazon packages.” Smart home company Wyze has gone a step further, warning its prospective users: “You need a video doorbell so your neighborhood kids don't put flaming bags of poop on your doormat.”
-<a href='https://www.theverge.com/2021/10/19/22734875/wyze-video-doorbell-ad-funny-youtube-flaming-dog-poop'> Source <a/>
