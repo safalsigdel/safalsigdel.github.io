@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MXZ0YnZifhUDePZ_rfmN8yjz7Ak=/0x0:3848x2592/1200x800/filters:focal(1617x989:2231x1603)/cdn.vox-cdn.com/uploads/chorus_image/image/70017025/1234599696.0.jpg' width='700px' /><br/>
-Sinclair, the broadcast group that runs some of the most popular local channels across the US, experienced a nationwide outage during a ransomware attack on October 16th (via The Record). Viewers initially were informed technical difficulties caused the disruption, but the US Securities and Exchange Commission published a filing from Sinclair two days later, identifying ransomware as the source of the outage.
-<a href='https://www.theverge.com/2021/10/19/22734746/ransomware-sinclair-broadcast-group-tv-stations-outage'> Source <a/>

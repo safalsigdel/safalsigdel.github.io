@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ed5hhdSld5CqQmyMbdj4by4dun0=/0x0:7645x4500/1200x0/filters:focal(0x0:7645x4500):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22755114/Google_Pixel_6__Portfolio_Shot.jpg' width='700px' /><br/>
-Google just wrapped up its Pixel 6 Fall Launch event, where it announced two new phones as well as a wealth of features that are supported by its new Tensor processor. Here are the biggest things Google announced during its live stream.
-<a href='https://www.theverge.com/2021/10/19/22713338/google-pixel-6-event-top-announcements-tensor-processor-snapchat-pass'> Source <a/>
