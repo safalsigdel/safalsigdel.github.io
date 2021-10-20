@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BRf4V7GK47jnuzl48PdvGxdDhGo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70018965/DSCF7705.0.jpg' width='700px' /><br/>
+Oppo is developing its own high-end chips for flagship mobile phones, according to a report in Nikkei. Two people who spoke to the newspaper said that the plan was to release custom SoCs in 2023 or 2024 “depending on the speed of development.” Oppo reportedly wants to use TSMC's advanced 3nm process technology for the chips.
+<a href='https://www.theverge.com/2021/10/20/22735935/oppo-own-chip-development-google-tensor-qualcomm'> Source <a/>
