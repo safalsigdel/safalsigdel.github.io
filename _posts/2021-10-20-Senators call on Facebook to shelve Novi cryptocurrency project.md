@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8NvdgKsl48P5-33SNYIc20ukK9Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70017251/acastro_180406_1777_facebook_Congress_0002.0.jpg' width='700px' /><br/>
-Senate Democrats called on Facebook to end its digital wallet and cryptocurrency project in a letter to chief executive Mark Zuckerberg Tuesday, saying that the company “cannot be trusted to manage cryptocurrency.”
-<a href='https://www.theverge.com/2021/10/19/22735171/facebook-novi-diem-libra-calibra-cryptocurrency-digital-wallet-zuckerberg-senate'> Source <a/>

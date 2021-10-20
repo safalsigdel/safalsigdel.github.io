@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/whInxQjXWV0aCPn6Pn7usDiqOsc=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/70021160/ONV1Rbfo.0.jpeg' width='700px' /><br/>
+Microsoft and Adidas revealed a slick-looking pair of limited-edition Xbox sneakers earlier this month to celebrate Xbox's 20th anniversary, and now, we know what you need to do to actually try to win a pair for yourself.
+<a href='https://www.theverge.com/2021/10/20/22735619/xbox-adidas-sneaker-stockx-20th-anniversary'> Source <a/>

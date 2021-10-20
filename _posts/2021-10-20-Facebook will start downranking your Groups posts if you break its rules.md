@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3KtJjxHKwxEjVcYNEHusilnzH9A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70021135/mdoying_180118_2249_facebook_0708stills.0.jpg' width='700px' /><br/>
+Facebook will start demoting all Groups content from people who have violated its policies elsewhere across the platform. The move is supposed to limit rulebreakers from reaching other people in a community, and it builds on existing policies that prevent them from posting, commenting, or inviting others.
+<a href='https://www.theverge.com/2021/10/20/22736301/facebook-demote-groups-content-policy-violations-update'> Source <a/>
