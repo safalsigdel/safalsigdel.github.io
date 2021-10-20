@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1pEACZJx2Tpod-F9F9rWknks32I=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70020238/Screenshot__116___1_.0.png' width='700px' /><br/>
+Virtual desktops aren't new to Windows. In Windows 10, it was a simple matter to create a separate desktop so that, for example, you could have one desktop for one project and a second for another, or one for your work and a second for your personal apps.
+<a href='https://www.theverge.com/22728778/windows-11-virtual-desktop-workspace-how-to'> Source <a/>
