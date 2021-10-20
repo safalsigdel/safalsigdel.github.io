@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eP0ku1HC63RmDVlc_4Q5koC8yEI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70016832/bfarsace_211014_4802_0105.0.jpg' width='700px' /><br/>
-There's a lot that we already knew about the Google Pixel 6 and Pixel 6 Pro ahead of their debut at Google's October 2021 event. Some of the key specs, including the Tensor processor and the camera details, were made publicly available by Google itself. But of course, we know a lot more now than we did before.
-<a href='https://www.theverge.com/22724481/google-pixel-6-pro-specs-comparison-price'> Source <a/>

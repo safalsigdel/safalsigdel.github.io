@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Dm-OCshR5UsG0pX3brSFeClsRTI=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/70020384/Walgreens_Wing_07.0.jpeg' width='700px' /><br/>
+Drones will soon be buzzing overhead in Dallas-Fort Worth, bearing small containers filled with Tylenol and Band-Aids. Wing, a subsidiary of Google parent company Alphabet, is bringing its drone delivery service to the Texas city, its first densely populated market.
+<a href='https://www.theverge.com/2021/10/20/22736278/alphabet-wing-drone-delivery-dallas-walgreens'> Source <a/>
