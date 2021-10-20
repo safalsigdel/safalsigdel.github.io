@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nvhbXp6fU3wa6pMhPqGFwhgozIA=/0x0:6720x4480/1200x800/filters:focal(4546x1350:5620x2424)/cdn.vox-cdn.com/uploads/chorus_image/image/70018879/1235538479.0.jpg' width='700px' /><br/>
+Streaming services may pay up to 30 percent more to production workers as part of the International Alliance of Theatrical Stage Employees' (IATSE) deal with major Hollywood studios to avert a strike.
+<a href='https://www.theverge.com/2021/10/19/22735892/iatses-tentative-basic-agreement-streaming-pay'> Source <a/>
