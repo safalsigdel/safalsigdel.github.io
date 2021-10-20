@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lUMhSDiLD7lW3mYQ2ne4d0dwnUU=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22942003/51607636855_a89b1c912f_o.jpeg' width='700px' /><br/>
+One of Sony's best PlayStation games, God of War, is headed to PC. The game will be available on January 14th, 2022, and you can preorder it now on Steam and the Epic Games Store for $49.99.
+<a href='https://www.theverge.com/2021/10/20/22736518/god-of-war-sony-playstation-pc-steam-epic-games-store'> Source <a/>
