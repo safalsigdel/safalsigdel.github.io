@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oxcbEm81PM16k1WJmeQADkWLDTA=/0x0:2040x1360/1200x675/filters:focal(926x619:1252x945)/cdn.vox-cdn.com/uploads/chorus_image/image/70021638/akrales_211005_4787_0056.0.jpg' width='700px' /><br/>
+Many laptop manufacturers are making lofty statements about the sustainability of their products. But Acer's claims around the Aspire Vero are at a level we haven't seen before. It's an entire laptop targeted to, in Acer's words, “eco-minded users.” It's being advertised primarily as an eco-friendly laptop made of recycled materials.
+<a href='https://www.theverge.com/22736511/acer-aspire-vero-review-2021-15-inch-laptop-specs-features-price'> Source <a/>
