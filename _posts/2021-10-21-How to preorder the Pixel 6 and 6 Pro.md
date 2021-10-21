@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AvNyEviiSUrGJUTyTLIkZKxW3QU=/0x0:1919x1077/1200x800/filters:focal(807x386:1113x692)/cdn.vox-cdn.com/uploads/chorus_image/image/70016194/lcimg_e5568f90_70f5_4d74_938b_5d1c34060e11.5.jpeg' width='700px' /><br/>
-Google's new Pixel 6 and Pixel 6 Pro are freshly announced, and they're already up for preorder. These Pixels promise new designs, new cameras, a uniquely designed Google Tensor CPU, and more.
-<a href='https://www.theverge.com/22734748/google-pixel-6-pro-preorder-buy-how-to-price-availability-release-date'> Source <a/>

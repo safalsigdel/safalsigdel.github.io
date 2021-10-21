@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mTMjeVdl2CqjLdmXIEWi6EaVYHQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70025818/Seagate_SEC_Family.0.jpg' width='700px' /><br/>
+Microsoft is announcing new storage expansion card options for the Xbox Series X / S today. Made by Seagate, there will now be a smaller 512GB card priced at $139.99 and a larger 2TB card priced at $399.99. These expandable storage cards slot into the rear of both the Xbox Series X / S to match the internal SSD speed and provide extra storage for games.
+<a href='https://www.theverge.com/2021/10/21/22738266/microsoft-xbox-series-x-s-512gb-2tb-storage-expansion-cards-release-date-pricing'> Source <a/>
