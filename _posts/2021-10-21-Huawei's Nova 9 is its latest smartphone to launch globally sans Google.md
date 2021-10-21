@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yE41IMOMJQ8nEo99qqkOf2Mlu9M=/0x0:1440x960/1200x800/filters:focal(970x372:1200x602)/cdn.vox-cdn.com/uploads/chorus_image/image/70026002/huawei_nova_9_1_mob_2x.0.jpg' width='700px' /><br/>
+Huawei's Nova 9 is getting a global launch just under a month after the phone was announced for the Chinese market, the company said today. Huawei characterizes the Nova 9 as a “flagship smartphone for the younger generation,” compared to its Mate series (high-tech and premium) and P-series (photography) lineups.
+<a href='https://www.theverge.com/2021/10/21/22736182/huawei-nova-9-global-launch-harmony-os-smartphone-features'> Source <a/>
