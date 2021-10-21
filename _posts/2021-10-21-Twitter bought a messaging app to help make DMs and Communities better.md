@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Saz0eVCQfmo4VE8hqaztq-j-G7I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70026300/acastro_200715_1777_twitter_0003.0.0.jpg' width='700px' /><br/>
+In an effort to strengthen its Communities, Twitter has acquired Sphere, a group chat app founded in 2016 that aims to make conversations more interactive and organized. Terms of the deal were not disclosed, but Sphere's website describes the app as a place that “transforms groups into vibrant communities.”
+<a href='https://www.theverge.com/2021/10/21/22738124/twitter-sphere-messaging-app-communities-dm-features'> Source <a/>

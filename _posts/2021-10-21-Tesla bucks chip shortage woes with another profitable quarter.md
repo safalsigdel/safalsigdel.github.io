@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ooT2VjT4nE1nIYdFojDaJBPy8P0=/0x0:2880x1800/1200x800/filters:focal(1210x670:1670x1130)/cdn.vox-cdn.com/uploads/chorus_image/image/70022626/MX_Exterior_Hero_Desktop.0.jpg' width='700px' /><br/>
-Tesla's record third quarter brought its biggest three-month windfall ever, as the company announced Wednesday that it turned a $1.6 billion profit. That's despite a global semiconductor shortage and delays in the rollout of the refreshed Model S sedan and Model X SUV.
-<a href='https://www.theverge.com/2021/10/20/22736859/tesla-q3-earnings-profit-chip-shortage-sales-elon-musk'> Source <a/>
