@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Iv-YNFKXkFbq2BlaJMpvbelRpW0=/0x0:2000x1317/1200x0/filters:focal(0x0:2000x1317):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22943300/mecha_kit_demonstration_1.jpg' width='700px' /><br/>
+If you ever wanted to transform your self-balancing scooter into a mobile mini mech, now you can with Segway-Ninebot's Mecha Kit add-on. The kit is compatible with the Ninebot S and Ninebot S Kids and puts you in the pilot seat of your scooter-turned-turret.
+<a href='https://www.theverge.com/22737058/segway-mecha-kit-rolling-water-gun-turret'> Source <a/>

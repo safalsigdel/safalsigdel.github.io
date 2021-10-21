@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DSbccMBxk36jkb686bxP3ylKGkE=/0x0:4200x3161/1200x800/filters:focal(1764x1245:2436x1917)/cdn.vox-cdn.com/uploads/chorus_image/image/70022946/1234303832.0.jpg' width='700px' /><br/>
+After Activision Blizzard requested a stay in the discrimination case brought against it by the state of California, the California Department of Fair Employment and Housing (DFEH) has filed its response.
+<a href='https://www.theverge.com/2021/10/20/22737003/activision-blizzard-discrimination-lawsuit-dfeh-response'> Source <a/>

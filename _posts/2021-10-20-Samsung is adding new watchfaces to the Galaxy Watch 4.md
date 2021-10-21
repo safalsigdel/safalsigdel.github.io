@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JBY9FqvMRrtBvE6SdUOgve3Hebc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70020335/dbohn_210816_4717_0001.0.jpg' width='700px' /><br/>
-Samsung is bringing some new features to its Galaxy Watch 4 smartwatches in a new update, the company announced Wednesday. Perhaps the most significant change is four new watchfaces, which include a basic dashboard and a weather-focused one. You can see them in the GIF below from Samsung.
-<a href='https://www.theverge.com/2021/10/20/22735558/samsung-galaxy-watch-4-classic-faces-maison-kitsune'> Source <a/>

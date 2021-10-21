@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MuPlX3j1WUGuI3-sUlNVnG4eClM=/0x0:2220x1240/1200x0/filters:focal(0x0:2220x1240):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22942909/Screen_Shot_2021_10_20_at_3.49.00_PM.png' width='700px' /><br/>
+Hyper has announced a pair of over-the-top USB-C accessories: HyperJuice 245W USB-C Battery Pack and the HyperJuice 245W USB-C GaN Charger, each of which offers four USB-C ports for charging up all your gadgets at once.
+<a href='https://www.theverge.com/2021/10/20/22736571/hyper-hyperjuice-245w-usb-c-battery-pack-charger-indiegogo'> Source <a/>

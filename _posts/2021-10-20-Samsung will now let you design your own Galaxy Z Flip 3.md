@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n5pCs8pP2_0pwybrIaRO7yG5Mys=/0x0:1256x697/1200x800/filters:focal(528x249:728x449)/cdn.vox-cdn.com/uploads/chorus_image/image/70020327/60aaea24_159d_4298_8796_f8918ffa9918.0.jpeg' width='700px' /><br/>
-Samsung released the Galaxy Z Flip 3 in August, but if none of the colorways were exactly what you wanted, the company will let you make your own design with the new Z Flip 3 Bespoke Edition. The new phone was announced at the company's Unpacked Part 2 event on Wednesday.
-<a href='https://www.theverge.com/2021/10/20/22735494/samsung-galaxy-z-flip-3-bespoke-edition-design-unpacked-2'> Source <a/>

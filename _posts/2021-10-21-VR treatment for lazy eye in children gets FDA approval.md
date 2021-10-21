@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wcar2K0w6A_k_W9e6T7leBPvcpA=/0x0:1348x1800/1200x800/filters:focal(581x565:795x779)/cdn.vox-cdn.com/uploads/chorus_image/image/70022561/easy_to_use.0.jpeg' width='700px' /><br/>
+The Food and Drug Administration approved a virtual reality-based treatment for children with the visual disorder amblyopia, or lazy eye, the company behind the therapy announced today. Patients watch modified TV shows or movies through a virtual reality headset to improve their vision.
+<a href='https://www.theverge.com/2021/10/20/22736894/fda-vr-tv-movies-treatment-lazy-eye-amblyopia'> Source <a/>

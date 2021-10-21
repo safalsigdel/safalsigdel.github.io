@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PXAqGvpaqTDMbzm_nvuFPTZovm4=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70020007/No_Man_s_Sky_Emergence_Expedition_Screen_1.0.png' width='700px' /><br/>
-No Man's Sky is getting its fourth seasonal update with a new expedition called Emergence. Just in time for spooky season (and, coincidentally, the theatrical release of Dune) Emergence focuses on discovering, taming, and battling giant sandworms.
-<a href='https://www.theverge.com/2021/10/20/22736219/no-mans-sky-new-expedition-emergence-hello-games'> Source <a/>

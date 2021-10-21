@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fdtHlDHX-8Ja-jjmBrCs4ULjTCM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70023548/acastro_210115_1777_twitch_0002.0.jpg' width='700px' /><br/>
+One of the appeals of Twitch is watching things unfold live, but I can't count the number of times I've wished I could scrub back to see something again or a moment I might have missed. Soon, though, Twitch may have a solution to that problem, as it's currently testing a new Rewind the Stream button with some users.
+<a href='https://www.theverge.com/2021/10/20/22737098/twitch-testing-rewind-stream-button-remind-me-watch-trailer'> Source <a/>

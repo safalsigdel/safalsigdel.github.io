@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4ixxqFfPH3qNVFxprpNJON0icQA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70022360/acastro_190919_1777_instagram_0003.0.0.jpg' width='700px' /><br/>
+A top Democrat is demanding Facebook CEO Mark Zuckerberg or Instagram chief Adam Mosseri testify before the Senate to explain how the company plans to protect kids in light of new reports that platforms like Instagram can encourage harmful behavior in teens.
+<a href='https://www.theverge.com/2021/10/20/22737081/facebook-instagram-mark-zuckerberg-testify-senate-child-safety-frances-haugen'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u7rf9jjclNmNvd34fY-DG6j4WhY=/0x0:1111x457/1200x800/filters:focal(468x141:644x317)/cdn.vox-cdn.com/uploads/chorus_image/image/70023749/Screen_Shot_2020_09_09_at_4.21.36_PM.0.png' width='700px' /><br/>
+After numerous delays — and considerable vitriol from director Denis Villeneuve himself — Dune is finally about to stream on HBO Max. In fact, it's arriving a day early: October 21st at 6PM ET / 3PM PT, a rep confirms to The Verge.
+<a href='https://www.theverge.com/2021/10/20/22737133/dune-hbo-max-stream-it-early-denis-villenueve'> Source <a/>

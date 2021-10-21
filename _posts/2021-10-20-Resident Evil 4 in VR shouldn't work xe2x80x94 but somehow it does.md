@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RL9WkIKF5ThkO8XDBK6zSifgXpg=/0x0:2560x1440/1200x800/filters:focal(1190x295:1598x703)/cdn.vox-cdn.com/uploads/chorus_image/image/70019561/RE4_SCREENSHOTS_ELGIGANTE_TMP_007_2560X1440_LEGAL.0.png' width='700px' /><br/>
-I didn't have stellar hopes going into Resident Evil 4's virtual reality adaptation.
-<a href='https://www.theverge.com/22726158/resident-evil-4-vr-capcom-oculus-quest-2-review'> Source <a/>

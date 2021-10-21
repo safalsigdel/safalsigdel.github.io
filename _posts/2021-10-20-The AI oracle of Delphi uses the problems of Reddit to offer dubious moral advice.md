@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CSlt23b4ePOjiuHQbJh6zWq892U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70020569/acastro_181017_1777_brain_ai_0002.0.jpg' width='700px' /><br/>
-Got a moral quandary you don't know how to solve? Fancy making it worse? Why not turn to the wisdom of artificial intelligence, aka Ask Delphi: an intriguing research project from the Allen Institute for AI that offers answers to ethical dilemmas while demonstrating in wonderfully clear terms why we shouldn't trust software with questions of morality.
-<a href='https://www.theverge.com/2021/10/20/22734215/ai-ask-delphi-moral-ethical-judgement-demo'> Source <a/>
