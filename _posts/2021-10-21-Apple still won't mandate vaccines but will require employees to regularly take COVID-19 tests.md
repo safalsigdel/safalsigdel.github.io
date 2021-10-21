@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fDNok9xUuWPokMx8yccerKfxc0c=/0x0:4032x3024/1200x800/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/70026135/B2E53F34_14F4_4895_AECA_E72D86070E7C.0.jpeg' width='700px' /><br/>
+Apple is tightening its COVID-19 policies, requiring that unvaccinated employees (or employees who refuse to disclose their vaccination status) get daily COVID-19 tests to enter its offices, although the company still has yet to require workers to get vaccinated. Vaccinated employees will also have to do regular tests, but only once a week, Bloomberg reports.
+<a href='https://www.theverge.com/2021/10/21/22738265/apple-vaccine-requirement-daily-covid-19-tests'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mzvdxNG5xzGkpdNrCGY2itWZ7do=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70022464/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
-Facebook settled with the US Department of Justice following claims that it discriminated against US workers (via CNBC). The DOJ filed charges against Facebook in December 2020, alleging that Facebook reserved specific positions for temporary visa holders and discouraged US citizens from applying.
-<a href='https://www.theverge.com/2021/10/20/22736223/facebook-settlement-us-workers-discrimination'> Source <a/>
