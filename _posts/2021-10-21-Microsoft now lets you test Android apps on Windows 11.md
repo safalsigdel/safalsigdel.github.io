@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-7cbO8-9QJoDi8jaZDwatKDxTR4=/0x0:2116x1411/1200x800/filters:focal(889x537:1227x875)/cdn.vox-cdn.com/uploads/chorus_image/image/70021013/androidapps.0.jpg' width='700px' /><br/>
-Microsoft is now allowing Windows 11 testers to try out Android apps. A preview version of the Windows Subsystem for Android will be available to beta testers of Windows 11 today, providing access to apps from the Amazon Appstore. Testers with Intel, AMD, and Qualcomm processors will all be able to try out Android apps on Windows 11.
-<a href='https://www.theverge.com/2021/10/20/22736528/microsoft-android-apps-windows-11-test'> Source <a/>

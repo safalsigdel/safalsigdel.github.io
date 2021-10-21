@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UWq49bqcEnDDQ9KMnoI5nB3DoBQ=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70025336/dseifert_211017_4814_0006.0.jpg' width='700px' /><br/>
+Folding phones may be the future, but right now, they are still in their infancy. And in this weird time period where companies are still trying to figure out the best way for a folding phone to work, there are two camps: Samsung and others that fold a big screen down to a smaller, pocketable size, and Microsoft, which joins two screens with a hinge to create a digital book-like device.
+<a href='https://www.theverge.com/22738082/microsoft-surface-duo-2-review-folding-phone-dual-screen-multitasking'> Source <a/>
