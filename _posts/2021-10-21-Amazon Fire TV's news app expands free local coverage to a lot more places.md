@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3fzvh9Qu9sRmhIDGCuhY0OTrZfU=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70022764/1_MswigxHbznGaVa0XDbIiZw.0.png' width='700px' /><br/>
-Amazon announced today that it's doubling the number of local stations it supports through its news app on Fire TV, meaning more users will be able to easily find local news coverage for free.
-<a href='https://www.theverge.com/2021/10/20/22737087/amazon-fire-tv-news-app-free-local-stations-158-cities'> Source <a/>

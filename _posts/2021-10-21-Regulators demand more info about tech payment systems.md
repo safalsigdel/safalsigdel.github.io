@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0yIPtUjRIOWzuhpF25l2h6hiGyU=/0x0:4951x3301/1200x800/filters:focal(2080x1255:2872x2047)/cdn.vox-cdn.com/uploads/chorus_image/image/70026522/1176565198.0.jpg' width='700px' /><br/>
+The Consumer Financial Protection Bureau has issued a series of information-gathering orders on the business practices of major digital payments systems. Orders were issued to Amazon, Apple, Facebook, Google, PayPal, and Square, the bureau said in an announcement on Thursday morning. Chinese pay systems operated by WeChat and AliPay will also be studied but are not subject to any CFBP orders.
+<a href='https://www.theverge.com/2021/10/21/22738463/cfbp-payment-orders-amazon-apple-google-investigation-antitrust'> Source <a/>

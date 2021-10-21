@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iHiJ0anfIDPPPowIwY1N-haqDeg=/0x0:2560x1440/1200x0/filters:focal(0x0:2560x1440):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22943047/android1.png' width='700px' /><br/>
-Microsoft has released the first preview version of its Android apps support in Windows 11. It's available to testers in the Beta Channel version of Windows 11, which means you'll need to opt into the Windows Insider program to get access. I've installed the preview version on two systems — a gaming rig with a Core i9 11900K and Microsoft's Surface Pro X — to get a feel for exactly how well Android apps run on Windows 11.
-<a href='https://www.theverge.com/22737102/microsoft-windows-11-android-apps-support-feature-hands-on'> Source <a/>
