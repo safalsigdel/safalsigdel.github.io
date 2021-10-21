@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h-Quu2usmfSONPZxW3jeVb6YOJE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70021959/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-It can be hard to block off focus time during the workday. To help make scheduling dedicated work blocks a bit easier, Google is adding new dedicated focus time entries to Calendar.
-<a href='https://www.theverge.com/2021/10/20/22736837/google-calendar-focus-blocks-entries-auto-decline-meetings'> Source <a/>

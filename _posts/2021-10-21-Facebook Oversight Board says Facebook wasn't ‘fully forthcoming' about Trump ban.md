@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BHASFpaxZ8uGrvz0tLjPsb743X8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70025958/mdoying_180411_2400_0045still.0.jpg' width='700px' /><br/>
+The Facebook Oversight Board says it will review Facebook's “cross-check” program for high-profile users and criticized it for not disclosing enough information about the program.
+<a href='https://www.theverge.com/2021/10/21/22738248/facebook-oversight-board-cross-check-moderation-transparency-report'> Source <a/>
