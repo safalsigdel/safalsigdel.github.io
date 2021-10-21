@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BKOyeUFf9D8aNp2mTpeTsTcvbks=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70021379/akrales_190822_3612_0135.0.jpg' width='700px' /><br/>
-Google's Pixel 6 and Pixel 6 Pro are the company's most interesting devices in years. They might actually succeed at the Pixel's ultimate goal of being the shining example of what Android phones can and should be capable of.
-<a href='https://www.theverge.com/2021/10/20/22736665/google-pixel-watch-smartwatch-hardware-fitbit-wear-os'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4LtApDZjQtuXPgTyHwjlgvIMLAQ=/0x0:750x553/1200x800/filters:focal(325x260:445x380)/cdn.vox-cdn.com/uploads/chorus_image/image/70021528/fortnite_android.0.jpg' width='700px' /><br/>
-Epic Games launched its battle royale hit Fortnite on Android devices in 2018 with a big catch: it was exclusive to Samsung-made phones for a few days as a way to help market the then-new Samsung Galaxy Note 9.
-<a href='https://www.theverge.com/22736420/fortnite-android-google-install-how-to'> Source <a/>

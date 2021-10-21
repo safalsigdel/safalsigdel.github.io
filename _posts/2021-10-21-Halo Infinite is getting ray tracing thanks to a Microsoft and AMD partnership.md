@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jlnmVkxHd4gLWgPDbxEawoNI4Mg=/0x0:1430x804/1200x0/filters:focal(0x0:1430x804):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22944462/Picture2.png' width='700px' /><br/>
+Microsoft has selected AMD as its exclusive PC partner for Halo Infinite. While this means plenty of marketing opportunities, it's also fostered a closer engineering partnership with AMD that Microsoft says will improve frame rates in the campaign mode and eventually bring ray tracing to the game.
+<a href='https://www.theverge.com/2021/10/21/22738177/halo-infinite-raytracing-microsoft-amd-discord-razer-chroma'> Source <a/>
