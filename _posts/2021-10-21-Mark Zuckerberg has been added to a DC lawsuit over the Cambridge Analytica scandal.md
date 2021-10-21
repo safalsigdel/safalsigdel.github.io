@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JIEkszbpz1VDkw_Eo7yFpzOX-3U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70021247/acastro_180409_1777_facebook_zuckerberg_0002.0.jpg' width='700px' /><br/>
-District of Columbia Attorney General Karl Racine is adding Facebook CEO Mark Zuckerberg to a lawsuit over the Cambridge Analytica data-mining scandal. Racine announced the addition on Twitter this morning, saying his investigation had revealed that Zuckerberg was “personally involved in decisions related to Cambridge Analytica and Facebook's failure to protect user data.”
-<a href='https://www.theverge.com/2021/10/20/22736476/mark-zuckerberg-dc-attorney-general-facebook-cambridge-analytica-lawsuit'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6C1P0RO6DzbV5Z-j2qxN3b_eMu0=/0x0:2000x1495/1200x800/filters:focal(883x499:1203x819)/cdn.vox-cdn.com/uploads/chorus_image/image/70025440/tcl_5g_tablet.0.jpg' width='700px' /><br/>
+TCL, the company best known for its affordable Roku-equipped 4K TVs, has a new budget-oriented $399.99 5G tablet — the Tab Pro 5G. The device is available to order via Verizon's online “Buy More, Save More” promo, which takes $100 off if purchased with a qualifying Android device on a Verizon plan.
+<a href='https://www.theverge.com/2021/10/21/22736065/tcl-tab-pro-5g-verizon-mmwave-tablet-device'> Source <a/>
