@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ijd9o6dGAtUcWy0nVTXrrDEHA1g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70031422/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
+The US Department of Commerce announced a new rule to prevent the sale of hacking tools to China and Russia, The Washington Post reports. The Commerce Department outlined the change in a press release on Wednesday, which requires US companies to have a license in order to sell spyware and other hacking software to countries “of national security or weapons of mass destruction concern.”
+<a href='https://www.theverge.com/2021/10/22/22740155/commerce-departments-new-rule-hacking-tools-china-russia'> Source <a/>
