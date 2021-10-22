@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9YVEp14TWQPDYoV97TLftJ_I55E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70027683/acastro_180413_1777_android_0001.0.jpg' width='700px' /><br/>
-It can happen all too easily, especially if you've got an Android phone with less than 128GB of storage: one day, you try to install a cool new game or an intriguing new app, and you can't. You've run out of space.
-<a href='https://www.theverge.com/22738302/android-phone-storage-how-to'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WNfoZ2B3Fk-NjyWtwnepUAEPo8s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70032117/acastro_170726_1777_0012.0.jpg' width='700px' /><br/>
+Twitter bought out the email newsletter service, Revue, earlier this year, hoping to engage journalists and writers who want to share long-form content without feeling limited by Twitter's 280 character limit. Now, the newly integrated service is getting an update.
+<a href='https://www.theverge.com/2021/10/22/22740451/twitter-revue-subscribe-newsletter-tweet'> Source <a/>
