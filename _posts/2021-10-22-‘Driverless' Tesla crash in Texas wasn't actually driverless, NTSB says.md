@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PyC6oqTI-2l-E9_rvFySNQ_Pabo=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70027559/EzRSmWwVUAQVVNj__1_.0.jpeg' width='700px' /><br/>
-The driver and passenger seats were both occupied in a Tesla Model S that crashed into a tree outside of Houston on April 17th, killing both occupants, according to the National Transportation Safety Board.
-<a href='https://www.theverge.com/2021/10/21/22738834/tesla-crash-texas-driver-seat-occupied-ntsb'> Source <a/>
