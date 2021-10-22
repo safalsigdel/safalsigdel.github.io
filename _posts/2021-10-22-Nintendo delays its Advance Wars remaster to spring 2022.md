@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e4OEVqAV4iwlVe8i9iBP07p-DEo=/0x0:1187x720/1200x800/filters:focal(500x266:688x454)/cdn.vox-cdn.com/uploads/chorus_image/image/70030927/screenshot03.0.jpeg' width='700px' /><br/>
+Nintendo has delayed its upcoming remaster of the first two Advance Wars games. Advance Wars 1+2: Re-Boot Camp had been set to release on December 3rd, but it will now be coming out sometime in spring 2022. “The game just needs a little more time for fine tuning,” Nintendo said in a tweet on Friday.
+<a href='https://www.theverge.com/2021/10/22/22740195/nintendo-advance-wars-1-2-re-boot-camp-switch-switch-remaster-delay'> Source <a/>
