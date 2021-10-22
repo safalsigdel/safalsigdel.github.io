@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SkE1D89CN5gDVEEkMSTeEIcXHr4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70027866/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
+HBO Max is still growing — but the service appears to have felt the impact of its exit from Amazon Prime Channels earlier this quarter.
+<a href='https://www.theverge.com/2021/10/21/22738967/hbo-max-subscriptions-q3-2021-amazon-exit'> Source <a/>

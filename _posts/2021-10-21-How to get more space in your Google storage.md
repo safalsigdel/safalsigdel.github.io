@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ow0TJoPHgoXYhM8WS8UfVRkEi4E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68830587/acastro_210121_1777_google_0001.5.jpg' width='700px' /><br/>
-For many of us, Google storage is the modern-day hard drive. It's the place where our most important thoughts, documents, and memories reside. But just like with a traditional hard drive, the space isn't infinite, and running out of room can be a real problem.
-<a href='https://www.theverge.com/22286339/google-drive-storage-more-space-how-to-photos-files'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Tx5pKqawByHOkhaBoINtmMjca9M=/0x0:1500x844/1200x800/filters:focal(630x302:870x542)/cdn.vox-cdn.com/uploads/chorus_image/image/70023130/IMG_20210222_152813_2.0.jpg' width='700px' /><br/>
-Elon Musk's Boring Company just won approval from local officials to move forward with building a network of vehicle tunnels underneath Las Vegas. Dubbed the “Vegas Loop,” the system will allow passengers to hitch rides in Teslas to and from places like the hotel casinos on the Las Vegas Strip, the city's new football stadium, the Las Vegas Convention Center, and McCarran International Airport.
-<a href='https://www.theverge.com/2021/10/20/22737228/elon-musk-boring-company-las-vegas-loop-strip'> Source <a/>

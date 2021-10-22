@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/utnRHxviku6NXIYfx65Ub3qs6Tc=/0x0:3239x2160/1200x800/filters:focal(1361x821:1879x1339)/cdn.vox-cdn.com/uploads/chorus_image/image/70025364/Group_Effects_Header_Image.0.png' width='700px' /><br/>
-Facebook Messenger is adding “group effects” that allow everyone on a video call to participate in the same augmented reality experience at the same time. The effects are available now across Messenger video calls as well as Messenger Rooms, the service's Zoom-like videoconferencing feature, and are coming soon to Instagram, the company says.
-<a href='https://www.theverge.com/2021/10/21/22737991/facebook-messenger-group-calls-ar-effects-augmented-reality'> Source <a/>

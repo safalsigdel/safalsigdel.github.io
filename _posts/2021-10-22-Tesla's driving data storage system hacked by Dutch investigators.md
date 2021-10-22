@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6K5q--OSHj4e3fnVVZ0OStOh12o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70027175/acastro_180524_1777_tesla_0002.0.jpg' width='700px' /><br/>
+A team of Dutch forensic researchers have decrypted Tesla's data storage system, providing access to a trove of information that could be useful in crash investigations. (The news was first reported by Reuters.)
+<a href='https://www.theverge.com/2021/10/21/22738747/tesla-driving-data-hack-dutch-investigators-autopilot'> Source <a/>

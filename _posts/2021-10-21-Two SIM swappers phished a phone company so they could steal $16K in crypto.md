@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6eSGp6BoQPYMnC3s4ZT7I8LU5dA=/0x0:2040x1360/1200x800/filters:focal(866x565:1192x891)/cdn.vox-cdn.com/uploads/chorus_image/image/70023633/acastro_bitcoin_2.0.jpg' width='700px' /><br/>
-Twenty-year-old Kyell Bryan of Pennsylvania has pleaded guilty to aggravated identity theft for a SIM swapping and cryptocurrency theft scheme, according to the United States Attorney's Office of the District of Maryland.
-<a href='https://www.theverge.com/2021/10/20/22736474/sim-swapping-crypto-currency-wireless-thief-guilty'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O5LoToMwWJ_rS0QaapHYnzj2m_c=/0x0:2410x996/1200x0/filters:focal(0x0:2410x996):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22944479/Screen_Shot_2021_10_21_at_9.13.47_AM.png' width='700px' /><br/>
-After over a decade of development (and seven directors), it seems that Sony's Uncharted movie is finally, really, truly going to actually come out — and it has the trailer to prove it.
-<a href='https://www.theverge.com/2021/10/21/22738187/uncharted-movie-trailer-tom-holland-nathan-drake-mark-wahlberg'> Source <a/>

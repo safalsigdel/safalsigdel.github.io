@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n5CO0UjVladvxXh1Q3uWALDt-Ak=/0x0:1024x683/1200x800/filters:focal(431x261:593x423)/cdn.vox-cdn.com/uploads/chorus_image/image/70026179/6384937cv18d.0.jpeg' width='700px' /><br/>
-Best Buy's deal of the day for today features a range of Razer products worth considering for any of your gaming or streaming needs, and Amazon is matching or beating some of these prices. If retailers are competing, you're probably winning.
-<a href='https://www.theverge.com/good-deals/2021/10/21/22736802/razer-gaming-samsung-tv-galaxy-hp-lenovo-laptop-netgear-router-deal-sale'> Source <a/>

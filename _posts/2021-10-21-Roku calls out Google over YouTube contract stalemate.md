@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pXS6zTywcyCFW2LRPwlMoR0HcG0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70025931/cwelch_181128_3103_0677_2.0.jpg' width='700px' /><br/>
-Tensions between Roku and Google spilled over to customers in a new blog posted by the streaming service on Thursday. After months of failed negotiations for Roku to maintain the YouTube app, the company is accusing Google of anti-competitive demands.
-<a href='https://www.theverge.com/2021/10/21/22738333/roku-google-youtube-tv-app-contract-competition-klobuchar'> Source <a/>

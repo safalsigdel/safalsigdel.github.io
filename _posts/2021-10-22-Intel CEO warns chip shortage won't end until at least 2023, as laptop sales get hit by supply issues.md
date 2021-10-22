@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5Aum5-dqDdnujKezvmjUpexgWRs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70028315/acastro_210120_1777_intel_0002.0.jpg' width='700px' /><br/>
+The ongoing global chip shortage is going to be a problem for a lot longer, according to Intel CEO Pat Gelsinger, who reiterated today ahead of the company's Q3 earnings that he expects the shortage to extend until at least 2023.
+<a href='https://www.theverge.com/2021/10/21/22739192/intel-chip-shortage-q3-2021-earning-laptop-revenue'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/js0_oTjrfbeIiNrvt0T2qXKKgok=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70026831/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
+Workers at Amazon's warehouses in Staten Island, New York are preparing to file for a union election with the National Labor Relations Board on October 25th, after getting signatures on union authorization cards from more than 2,000 workers.
+<a href='https://www.theverge.com/2021/10/21/22738310/amazon-warehouse-workers-staten-island-union-election-nlrb'> Source <a/>

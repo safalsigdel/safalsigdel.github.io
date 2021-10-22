@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8VijksuiHWOcBNPDY4VVppt8sZc=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22944405/Razer_Hanbo_AIO_aRGB_360mm_Key_Visual_Updated.jpg' width='700px' /><br/>
+Razer is expanding into PC components today with the launch of all-in-one (AIO) liquid coolers, case fans, and even platinum-rated power supplies. As you'd expect, all three include RGB lighting, a signature of Razer hardware. There's even a PWM fan controller that will control up to eight fans and integrates into Razer's Synapse software.
+<a href='https://www.theverge.com/2021/10/21/22737544/razer-pc-components-coolers-case-fans-psus-pricing-release-date'> Source <a/>

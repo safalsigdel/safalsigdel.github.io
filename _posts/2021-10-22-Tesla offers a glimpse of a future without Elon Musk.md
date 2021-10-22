@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ybXr2lOl5JHUflIH5RwN8X51R5M=/0x0:5320x3547/1200x800/filters:focal(2235x1349:3085x2199)/cdn.vox-cdn.com/uploads/chorus_image/image/70028036/1232949449.0.jpg' width='700px' /><br/>
+Elon Musk may seem inseparable from Tesla, but on Wednesday night, the company offered the first real taste of what it might look like without its billionaire CEO.
+<a href='https://www.theverge.com/2021/10/21/22738763/tesla-q3-earnings-call-elon-musk-ceo-departure-succession'> Source <a/>

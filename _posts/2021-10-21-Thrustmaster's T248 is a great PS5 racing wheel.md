@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V8atWnSY4KWoe8-CE0YRSnGEnaI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70024898/DSCF7780.0.jpg' width='700px' /><br/>
-Thrustmaster's new $399.99 T248 is a force-feedback steering wheel and pedal setup designed for the PS5, PS4, and PC. While it's not quite as premium as some of the more extreme enthusiast gear out there, it's intended to be an all-in-one package that gets players started with a good quality racing wheel setup.
-<a href='https://www.theverge.com/2021/10/21/22736145/thrustmaster-t248-pc-ps5-racing-wheel-review'> Source <a/>
