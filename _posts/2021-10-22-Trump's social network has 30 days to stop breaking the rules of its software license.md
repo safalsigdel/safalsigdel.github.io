@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RH3O6bZ9xqYogS0ASZMB8KgCQaU=/0x0:6679x4808/1200x800/filters:focal(3064x519:4132x1587)/cdn.vox-cdn.com/uploads/chorus_image/image/70031811/1347355440.0.jpg' width='700px' /><br/>
+The Software Freedom Conservancy (SFC) says former President Donald Trump's new social network violated a free and open-source software licensing agreement by ripping off decentralized social network Mastodon. The Trump Media and Technology Group (TMTG) has 30 days to comply with the terms of the license before its access is terminated — forcing it to rebuild the platform or face legal action.
+<a href='https://www.theverge.com/2021/10/22/22740354/trump-truth-social-network-spac-mastodon-license-software-freedom-conservancy'> Source <a/>
