@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wAfjSPLzswDMpwL6_J5cWz_WBI0=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/70030066/intelcorei912900k.0.jpg' width='700px' /><br/>
+Intel hasn't even officially announced its new Core i9-12900K processor, but it's already been sold by a retailer. The unreleased CPU is expected to be the flagship for Intel's new line of Alder Lake processors, offering a chance to reclaim the performance crown from AMD.
+<a href='https://www.theverge.com/2021/10/22/22740060/intel-core-i9-12900k-sold-early'> Source <a/>
