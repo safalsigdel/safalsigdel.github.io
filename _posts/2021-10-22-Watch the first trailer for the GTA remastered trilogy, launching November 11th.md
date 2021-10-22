@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3Lb0si0NLgNtoO84_4gRNO-q9mw=/0x0:3240x2160/1200x0/filters:focal(0x0:3240x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22947220/tommyvremastered.jpg' width='700px' /><br/>
+Rockstar Games finally showed off a trailer for the remastered Grand Theft Auto trilogy, including GTA III, Vice City, and San Andreas, showcasing many graphical and quality-of-life improvements made to each game.
+<a href='https://www.theverge.com/2021/10/22/22739195/remastered-grand-theft-auto-trilogy-release-date-november-11th-gta3-vice-city-san-andreas'> Source <a/>
