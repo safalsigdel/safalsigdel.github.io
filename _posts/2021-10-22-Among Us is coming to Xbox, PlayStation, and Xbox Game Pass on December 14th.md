@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-CQPFXhhQdAebS7Fa9pX6XmHWEE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70026537/Among_Us_Hero_JPG.0.jpg' width='700px' /><br/>
-Among Us is arriving on Xbox and PlayStation on December 14th. The popular social deduction game will also launch on Xbox Game Pass on the same day and be available on Xbox One, Xbox Series S / X, PS4, and PS5 consoles. The announcement comes months after Sony confirmed Among Us was coming to its PlayStation consoles this year.
-<a href='https://www.theverge.com/2021/10/21/22738583/among-us-xbox-playstation-game-pass-release-date'> Source <a/>
