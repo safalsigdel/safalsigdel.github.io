@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/xXXK63E6kWYPs8sEQMjXJV1Tvj8=/0x0:1200x800/1200x800/filters:focal(293x258:485x450)/cdn.vox-cdn.com/uploads/chorus_image/image/70026801/34252546901_796261c8af_o.0.jpg' width='700px' /><br/>
 In his latest attempt to return to the social media spotlight, Donald Trump is now turning to a current darling of the startup world: the special purpose acquisition company, or SPAC.
+<a href='https://www.theverge.com/2021/10/21/22738240/donald-trump-truth-social-spac-dwac-stock-merger'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/xXXK63E6kWYPs8sEQMjXJV1Tvj8=/0x0:1200x800/1200x800/filters:focal(293x258:485x450)/cdn.vox-cdn.com/uploads/chorus_image/image/70026801/34252546901_796261c8af_o.0.jpg' width='700px' /><br/>
+In his latest attempt to return to the social media spotlight, Donald Trump is now turning to a current darling of the startup world: the special purpose acquisition company, or SPAC.
 <a href='https://www.theverge.com/2021/10/21/22738240/donald-trump-truth-social-spac-dwac-stock-merger'> Source <a/>

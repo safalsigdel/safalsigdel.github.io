@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/O6RerPeUO8C5lM6HCJXBr_OCTiA=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70027360/Apple_TV_Mythic_Quest_key_art.0.jpg' width='700px' /><br/>
 Mythic Quest has been renewed for a third and fourth season on Apple TV Plus, Apple announced today, marking the biggest commitment yet to one of its streaming originals.
+<a href='https://www.theverge.com/2021/10/21/22738881/mythic-quest-renewed-season-three-four-apple-tv-plus'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/O6RerPeUO8C5lM6HCJXBr_OCTiA=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70027360/Apple_TV_Mythic_Quest_key_art.0.jpg' width='700px' /><br/>
+Mythic Quest has been renewed for a third and fourth season on Apple TV Plus, Apple announced today, marking the biggest commitment yet to one of its streaming originals.
 <a href='https://www.theverge.com/2021/10/21/22738881/mythic-quest-renewed-season-three-four-apple-tv-plus'> Source <a/>
