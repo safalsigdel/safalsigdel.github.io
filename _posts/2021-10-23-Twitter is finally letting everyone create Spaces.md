@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wisom_2-7F8ywMf-Gk2HD9_NCB8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70028643/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter first launched Spaces in November 2020 as an attempt to eclipse Clubhouse's success with its own version of audio-centric chatrooms — but the ability to actually host a Space was limited to Twitter users with 600 followers or more. Now, almost one year later, Twitter is finally giving all of its users the ability to host a Space, which is a privilege that arguably should've been granted long ago.
-<a href='https://www.theverge.com/2021/10/21/22739249/twitter-finally-letting-everyone-create-spaces'> Source <a/>
