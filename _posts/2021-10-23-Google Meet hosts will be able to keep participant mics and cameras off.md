@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m5Dre2GP051hYH1FRL18yqX5-TI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70032666/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google Meet hosts will soon be able to turn off participants' microphones or cameras and prevent them from turning them back on, the company announced in a Workspace blog. The feature could be a useful way for hosts to keep noisy or rowdy attendees from continually interrupting meetings even after they have already been muted.
+<a href='https://www.theverge.com/2021/10/22/22740753/google-meet-lock-microphone-camera-mute-lock-all'> Source <a/>

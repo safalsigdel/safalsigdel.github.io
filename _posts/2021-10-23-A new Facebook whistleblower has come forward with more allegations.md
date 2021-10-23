@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3Ewj5fayFY4bkjbK8mmIOc6lnlQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70033486/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
+A second Facebook whistleblower has come forward with a new set of allegations about how the social media platform does business. First reported by the Washington Post, the person is a former member of Facebook's integrity team and says the company puts profits before efforts to fight hate speech and misinformation on its platform.
+<a href='https://www.theverge.com/2021/10/22/22741024/facebook-new-whistleblower-allegations-sec'> Source <a/>

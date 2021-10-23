@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zQH59YfNKWcwlUzEWwyppsQGvco=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70032393/akrales_20210526_4595_0223.0.jpg' width='700px' /><br/>
+Tennessee lawmakers have approved an $884 million incentive package for the “mega campus” near Memphis where Ford plans to make batteries and electric vehicles, according to the Tennessean.
+<a href='https://www.theverge.com/2021/10/22/22740610/tennessee-ford-blue-oval-city-incentive-package-884-million'> Source <a/>

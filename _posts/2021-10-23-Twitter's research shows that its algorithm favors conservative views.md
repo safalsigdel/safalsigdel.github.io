@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_J0I0RV5m2WNad5quRaMTpg5pn8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70033441/acastro_180130_1777_0008.0.jpg' width='700px' /><br/>
+A post on Twitter's blog reveals that Twitter's algorithm promotes right-leaning content more often than left — but the reasons for that remain unclear. The findings drew from an internal study on Twitter's algorithmic amplification of political content.
+<a href='https://www.theverge.com/2021/10/22/22740703/twitter-algorithm-right-wing-amplification-study'> Source <a/>
