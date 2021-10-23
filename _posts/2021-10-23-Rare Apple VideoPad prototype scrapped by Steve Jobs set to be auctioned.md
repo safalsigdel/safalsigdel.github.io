@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/05EKNGWPuOnrvQzHn9jygxTox14=/0x0:960x765/1200x800/filters:focal(404x307:556x459)/cdn.vox-cdn.com/uploads/chorus_image/image/70028462/AppleVideoPad.0.jpeg' width='700px' /><br/>
-The long-lost Apple VideoPad 2 prototype is going up for auction in November as part of a History of Science and Technology auction by Bonhams, an international auction house, in Los Angeles. The VideoPad will be auctioned alongside other Apple prototypes and Steve Jobs memorabilia and is estimated to sell between $8,000 and $12,000.
-<a href='https://www.theverge.com/2021/10/21/22738419/apple-videopad-auction-steve-jobs-bonhams-prototype'> Source <a/>
