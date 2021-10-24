@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JXRnLimhujSFW4K4_8zMPGFsCxw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70036383/acastro_180507_1777_microsoft_0001.5.jpg' width='700px' /><br/>
+Microsoft is reversing a decision to remove a key feature from its upcoming .NET 6 release, after a public outcry from the open source community. Microsoft angered the .NET open source community earlier this week by removing a key part of Hot Reload in the upcoming release of .NET 6, a feature that allows developers to modify source code while an app is running and immediately see the results.
+<a href='https://www.theverge.com/2021/10/23/22742282/microsoft-dotnet-hot-reload-u-turn-response'> Source <a/>

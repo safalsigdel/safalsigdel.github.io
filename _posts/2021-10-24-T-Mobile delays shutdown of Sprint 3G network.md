@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i88aISUDsIy367UGWF5kaKCEhr0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70035220/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
+T-Mobile said it will delay its planned shutdown of Sprint's 3G network by three months to ensure its “partners” have time to help customers with the transition. It had originally planned to phase out the network in January; that date has now been pushed to March 31st, 2022.
+<a href='https://www.theverge.com/2021/10/23/22741762/tmobile-delays-shutdown-sprint-3g-network-dish-boost'> Source <a/>
