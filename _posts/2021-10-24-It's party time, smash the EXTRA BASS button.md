@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pdd9-PIqyZbC6KS5KAMN4X3Y2K0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70030668/akrales_210916_4737_0043.0.jpg' width='700px' /><br/>
-The button is simple, almost plain. A flat black circle, simple dye-sublimated letters, and a small LED pinprick to let you know that it's on. “EXTRA BASS,” it declares in tall, bold capitals. For indeed, the EXTRA BASS button only does one blindingly obvious thing: it adds extra bass.
-<a href='https://www.theverge.com/2021/10/22/22732447/sony-extra-bass-party-speaker-button-loud-design'> Source <a/>

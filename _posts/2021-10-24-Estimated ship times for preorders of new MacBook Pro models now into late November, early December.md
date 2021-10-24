@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Eqm_z1QsuLhUfuEStEIJDNeQfm8=/0x0:1960x1274/1200x800/filters:focal(824x481:1136x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70038152/Apple_MacBook_Pro_16_inch_Final_Cut_Pro_10182021.0.jpg' width='700px' /><br/>
+Shipping estimates on the Apple Store for new 14-inch and 16-inch MacBook Pro pre-orders have started sliding into late November and early December. As of Sunday morning, estimates for the standard configurations of the 14-inch MacBook Pro were showing delivery dates between November 16th and 23rd. Customizing a 14-inch Pro could push the estimated delivery into mid-December.
+<a href='https://www.theverge.com/2021/10/24/22743137/apple-estimated-ship-times-preorders-new-macbook-pro-december-m1'> Source <a/>
