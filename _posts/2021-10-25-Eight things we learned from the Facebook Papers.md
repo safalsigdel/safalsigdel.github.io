@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4GKteDliGbNZMt8OVV3mIsY5m-c=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70042242/acastro_211024_4822_0001.0.jpg' width='700px' /><br/>
+For months, Facebook has been shaken by a steady leak of documents from whistleblower Frances Haugen, beginning in The Wall Street Journal but spreading to government officials and nearly any outlet with an interest in the company. Now, those documents are going much more public, giving us the most sweeping look at the operations of Facebook anyone not directly involved with the company has ever had.
+<a href='https://www.theverge.com/22740969/facebook-files-papers-frances-haugen-whistleblower-civic-integrity'> Source <a/>
