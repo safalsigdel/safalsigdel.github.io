@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QuoVbVdJ3DE3kjMCCxNk4fH6kJU=/0x0:1668x864/1200x800/filters:focal(701x299:967x565)/cdn.vox-cdn.com/uploads/chorus_image/image/70030546/Screen_Shot_2021_08_19_at_8.16.23_AM.5.png' width='700px' /><br/>
-Even though someone managed to secure early purchases of a couple of Core i9-12900K CPUs, we still didn't have detailed information about Intel's upcoming line of Alder Lake chips. A (now-removed, but shown below) sale page popped up on Micro Center, suggesting the chips will be available for $669.99 when they launch on November 4th.
-<a href='https://www.theverge.com/2021/10/22/22740133/intel-core-i9-12900k-spec-release-date-price-alder-lake'> Source <a/>
