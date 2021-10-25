@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iH1lZlFGacXBgzF78SNlkzPYIfM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70041272/1347936771.0.jpg' width='700px' /><br/>
+Rental car company Hertz has ordered 100,000 Teslas as part of an ambitious plan to electrify its fleet. A first tranche of Tesla's Model 3 sedans will be available to rent from Hertz in major US and European markets from early November, said the company in a press statement. The announcement comes just months after Hertz escaped bankruptcy.
+<a href='https://www.theverge.com/2021/10/25/22744504/hertz-tesla-order-100000-vehicles-electrify-fleet'> Source <a/>

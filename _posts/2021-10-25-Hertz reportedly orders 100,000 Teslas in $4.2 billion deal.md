@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iH1lZlFGacXBgzF78SNlkzPYIfM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70041272/1347936771.0.jpg' width='700px' /><br/>
-Rental car company Hertz has ordered a fleet of 100,000 Teslas worth around $4.2 billion, according to a report from Bloomberg. Citing anonymous sources familiar with the deal, Bloomberg says the cars will be delivered over the next 14 months, part of an ambitious plan by Hertz to electrify its fleet just months after the company escaped bankruptcy.
-<a href='https://www.theverge.com/2021/10/25/22744504/hertz-tesla-order-100000-vehicles-electrify-fleet'> Source <a/>
