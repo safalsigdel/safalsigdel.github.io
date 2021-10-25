@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/stI6daJdBOQD6C4HnrRrfo57iW8=/0x0:2040x1480/1200x800/filters:focal(857x577:1183x903)/cdn.vox-cdn.com/uploads/chorus_image/image/70030748/jtuohy_211012_4809_3.0.jpg' width='700px' /><br/>
-Indoor cameras are an awkward category. It's hard to find a way to fit one into your home without feeling like Big Brother is watching you. My family hates having them in the house and only grudgingly lets me set them up to test as long as I take them down as soon as possible. Despite my assurances that the devices are set to not record when we're home — they just don't quite believe me. And they're not alone.
-<a href='https://www.theverge.com/22739349/google-nest-indoor-cam-wired-review-smart-security-camera'> Source <a/>

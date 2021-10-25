@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WgE2yl5ANjw4y-Tqtij_t4UU_B0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70039536/acastro_180430_1777_tesla_0002.0.jpg' width='700px' /><br/>
+Tesla's decision to test its “Full Self Driving” advanced driver assistance software with untrained vehicle owners on public roads has attracted scrutiny and criticism, and that was before this latest release.
+<a href='https://www.theverge.com/2021/10/24/22743628/elon-musk-tesla-fsd-beta-10-3-rollback-issues-phantom-fcw'> Source <a/>
