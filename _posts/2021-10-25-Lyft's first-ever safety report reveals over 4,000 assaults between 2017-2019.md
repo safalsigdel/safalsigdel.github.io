@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tEiguLslwvG173nzCDLQ6y9paEQ=/0x0:4032x3024/1200x800/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/70032146/1310967778.0.jpg' width='700px' /><br/>
-Warning: this story contains descriptions of sexual assault that some readers may find disturbing.
-<a href='https://www.theverge.com/2021/10/22/22740609/lyft-safety-report-2017-2019-physical-sexual-assault-death'> Source <a/>
