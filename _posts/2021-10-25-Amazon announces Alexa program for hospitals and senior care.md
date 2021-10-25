@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZMY9v3O2wQBEidocQ54IGfyL5Og=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70041480/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
+Amazon has two new programs that integrate Alexa into hospitals and senior living communities, the company announced today. They're run through Alexa Smart Properties, which allows organizations to control a centralized Alexa system.
+<a href='https://www.theverge.com/2021/10/25/22740181/amazon-alexa-hospitals-senior-living'> Source <a/>

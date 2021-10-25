@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Co2VPZ7mj0HrTOsf2psvaX72tPI=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70041414/Xbox_Series_S___Xbox_Series_S_2021_10_25_13_32_38.0.png' width='700px' /><br/>
+Nvidia is unlocking access to its GeForce Now streaming service on Microsoft Edge today, allowing Xbox owners to play Steam PC games on their consoles. GeForce Now includes access to more than 1,000 PC games, and Nvidia has finally started supporting the Edge browser that now ships on Xbox in a beta update to GeForce Now today.
+<a href='https://www.theverge.com/2021/10/25/22738056/microsoft-xbox-pc-games-steam-nvidia-geforce-now-streaming'> Source <a/>
