@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zVgrHDgGvqVAYRpDicE1dedugEQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70041994/1336158138.0.jpg' width='700px' /><br/>
-Samsung foldable owners will soon have more options for repairing their devices, with over 100 Best Buy stores gearing up to offer repairs in “early November,” Samsung announced today. The retailer is also officially offering repairs of Galaxy S and Galaxy Note devices as of today. Although some Best Buy stores offered similar repairs of these devices in the past, Samsung says this was previously a pilot program.
-<a href='https://www.theverge.com/2021/10/25/22744407/best-buy-authorized-samsung-foldable-repairs'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LWtXRHw-FIQlyOslQg29K37EUY8=/0x0:1999x1224/1200x800/filters:focal(841x453:1159x771)/cdn.vox-cdn.com/uploads/chorus_image/image/70046442/media_159b13f6215d3c6ddfb408b50f83ebdc6f78da7a0.0.jpeg' width='700px' /><br/>
+Adobe is trying to make Creative Cloud's website into more of a hub for collaborating across teams. So today, it's announcing a few new tools headed to the platform: basic web-based versions of Photoshop and Illustrator, a new feature called Canvas that lets you make mood boards, and a feature called Spaces that lets teams arrange and synchronize assets for projects.
+<a href='https://www.theverge.com/2021/10/26/22738523/creative-cloud-canvas-spaces-adobe-announces'> Source <a/>
