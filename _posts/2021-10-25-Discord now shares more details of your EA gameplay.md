@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XASpbv1XKpMWTwKuIEhtLJEdSYw=/0x0:1456x970/1200x800/filters:focal(612x369:844x601)/cdn.vox-cdn.com/uploads/chorus_image/image/70040920/discord_status.png.adapt.1456w.0.jpg' width='700px' /><br/>
-EA is adding support for Discord's “Rich Presence” feature to some of its titles, which allows your Discord contacts to see more information about what you're up to in-game, the game maker has announced. It works by linking your Discord account with the EA App, the new launcher that's a successor to EA's Origin.
-<a href='https://www.theverge.com/2021/10/25/22744440/ea-games-discord-rich-presence'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U_zku_Qe74_MM6VmWjfqDRirUQE=/0x0:2040x1360/1200x675/filters:focal(1070x585:1396x911)/cdn.vox-cdn.com/uploads/chorus_image/image/70035010/jporter_211018_4812_0010.0.jpg' width='700px' /><br/>
-Solar-powered headphones are a tantalizing prospect. The battery life of wireless models has improved a lot over the years, but it's still far from perfect, and those wide headbands provide the perfect surface for a sheet of solar cells to provide continuous charging.
-<a href='https://www.theverge.com/22738229/urbanista-los-angeles-solar-powered-noise-cancelling-wireless-headphones-powerfoyle'> Source <a/>

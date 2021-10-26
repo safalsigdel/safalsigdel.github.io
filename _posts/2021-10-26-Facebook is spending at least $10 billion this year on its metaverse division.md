@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4_y0KsVD-JKzVboTs-Wbtw9D2AM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70044103/acasto_180123_1777_0002_v3.0.jpg' width='700px' /><br/>
+Facebook plans to spend at least $10 billion this year on Facebook Reality Labs, its metaverse division tasked with creating AR and VR hardware, software, and content.
+<a href='https://www.theverge.com/2021/10/25/22745381/facebook-reality-labs-10-billion-metaverse'> Source <a/>

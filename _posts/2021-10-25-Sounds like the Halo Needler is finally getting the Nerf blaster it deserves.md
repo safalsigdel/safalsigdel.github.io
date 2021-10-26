@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IudwMnx_LsNJ03dhYEDgcRwpPTc=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/70036750/halo_needler_nerf_lmtd.0.jpg' width='700px' /><br/>
-The Halo Needler is one of the most memorable video game weapons ever designed: an alien rifle that shoots homing spikes of crystalline plasma that explode. While clearly taking some inspiration from The Fifth Element's “replay gun” in shape and functionality, it's gained a following of its own. Now, Hasbro has announced a foam-firing Nerf replica of the Needler that might finally do it justice.
-<a href='https://www.theverge.com/2021/10/23/22742194/halo-needler-nerf-lmtd-announce-price-release-date'> Source <a/>

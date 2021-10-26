@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wg9QVTkUvPylAKesbtjAOkd0OPA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70044347/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
+Facebook CEO Mark Zuckerberg says he's redirected teams within his company to “make serving young adults their north star.” The comment, made on a call with investors this afternoon, speaks to Facebooks' concerns about declining usage among teens and young adults.
+<a href='https://www.theverge.com/2021/10/25/22745622/facebook-young-adults-refocusing-teams'> Source <a/>

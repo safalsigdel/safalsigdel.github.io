@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pIBVj4cbfHjQIHjmVOP6z4AN8Q4=/0x0:9997x6665/1200x800/filters:focal(4200x2534:5798x4132)/cdn.vox-cdn.com/uploads/chorus_image/image/70035963/clubhouse1.0.jpg' width='700px' /><br/>
-Clubhouse is making it possible for people to share outside links and monetize their work on the platform. Today at The Verge's On The Verge event, Clubhouse CEO Paul Davison and global head of marketing Maya Watson announced a new pinned links feature, which allows moderators to place outside links at the top of a room. These links can direct listeners to whatever moderators want, like a Patreon page, a news article, or a podcast.
-<a href='https://www.theverge.com/2021/10/23/22740627/clubhouse-pin-links-rooms-launch'> Source <a/>

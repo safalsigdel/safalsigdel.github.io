@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oj9IbGll0lBxL03TqGRgCtJHg9M=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70044519/dseifert_201025_4263_0001.0.0.jpg' width='700px' /><br/>
+When you buy a product labeled “smart,” it should be better than the “dumb” version, especially considering it costs twice as much (at least). But that's not the case with smart alarm clocks, which are very dumb in one specific way.
+<a href='https://www.theverge.com/22727055/alexa-google-smart-speaker-alarm-clocks-backup-battery'> Source <a/>

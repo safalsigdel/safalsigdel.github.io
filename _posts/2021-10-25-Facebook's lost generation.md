@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/87nq0VjxTiKlhhgK-zu9V8wzSiE=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70040980/acastro_211024_4821_0001.0.jpg' width='700px' /><br/>
-Earlier this year, a researcher at Facebook shared some alarming statistics with colleagues.
-<a href='https://www.theverge.com/22743744/facebook-teen-usage-decline-frances-haugen-leaks'> Source <a/>
