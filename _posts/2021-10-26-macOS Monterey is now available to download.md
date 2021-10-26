@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tppixtacp_lT5zjf15TiF12RDaA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70042778/akrales_20210515_4583_0105.0.jpg' width='700px' /><br/>
-The latest version of macOS, Monterey, is now available to download according to Apple. The software has been available in public beta for several months, but today's release means Apple thinks the software is ready for everyday use.
-<a href='https://www.theverge.com/2021/10/25/22744497/macos-12-monterey-apple-mac-download-available-now'> Source <a/>
