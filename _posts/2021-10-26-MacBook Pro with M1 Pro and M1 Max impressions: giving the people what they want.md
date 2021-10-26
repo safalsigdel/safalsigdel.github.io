@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8kiSPQPpmj2ptNOA9qinvYWPt8I=/0x0:2040x1366/1200x0/filters:focal(0x0:2040x1366):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22948088/akrales_211020_4803_0125.jpg' width='700px' /><br/>
-It's easy to be excited about the new MacBook Pros — it feels like Apple finally listened to everyone and brought back the best parts of the beloved 2015 MacBook Pro, while pushing the display and performance to new heights. I know a lot of people who ordered one sight unseen; the pent-up demand for a great pro Mac laptop has been growing since Apple released the MacBook Air and 13-inch MacBook Pro with M1 chips last year.
-<a href='https://www.theverge.com/22744023/macbook-pro-2021-m1-pro-m1-max-impressions'> Source <a/>

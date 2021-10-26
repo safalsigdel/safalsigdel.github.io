@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dz7Ws9ja1wwJSRKCLayY3I2E_xc=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/70046199/51595784865_fc7b54d339_o.0.jpg' width='700px' /><br/>
+Amazon's ambitious satellite venture, called Kuiper, is teaming up with Verizon to further expand 4G/LTE and 5G coverage to remote areas of the globe. Through the new partnership, Kuiper's future satellites could provide connectivity to future Verizon cell towers that don't require as much costly infrastructure to build.
+<a href='https://www.theverge.com/2021/10/26/22745637/amazon-kuiper-satellite-constellation-verizon-partnership-5g-cellular-backhaul'> Source <a/>
