@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/96Hdp9lczJYTtRo2RQDMiJfgLQg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70046352/acastro_211024_1777_amazonMusic_0001.0.jpg' width='700px' /><br/>
+Amazon is next on the list of companies getting into the live audio game. The company is building a new app, codenamed “Project Mic,” that gives anyone the ability to make and distribute a live radio show, complete with music, according to a presentation viewed by The Verge. This project's big goal is to democratize and reinvent the radio. The app will be focused on the US initially.
+<a href='https://www.theverge.com/2021/10/26/22744585/amazon-project-mic-launch-live-audio-app'> Source <a/>

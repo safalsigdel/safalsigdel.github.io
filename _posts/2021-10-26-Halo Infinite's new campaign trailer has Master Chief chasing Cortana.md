@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jBrsDHix4W2Lx2X5KB21qLaf2nE=/0x0:2428x1372/1200x0/filters:focal(0x0:2428x1372):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22953711/Screen_Shot_2021_10_25_at_9.06.41_AM.png' width='700px' /><br/>
-Microsoft has finally revealed a new look at Halo Infinite's campaign mode, marking the first time that developer 343 Industries has shown the campaign since its initial gameplay reveal in July 2020.
-<a href='https://www.theverge.com/2021/10/25/22744558/halo-infinite-campaign-overview-preview-trailer-master-chief-xbox-series-x'> Source <a/>
