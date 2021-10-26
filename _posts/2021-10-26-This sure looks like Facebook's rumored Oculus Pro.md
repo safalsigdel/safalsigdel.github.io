@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/BcjLxfa_AKC9fE2i-nCAfYUtkME=/0x0:800x500/1200x800/filters:focal(336x186:464x314)/cdn.vox-cdn.com/uploads/chorus_image/image/70042809/Oculus_Pro_leaked.0.png' width='700px' /><br/>
 Facebook has been teasing work on a pro version of its Oculus Quest headset for quite some time, and now a series of what appear to be setup videos for the unreleased product have leaked from its own servers.
+<a href='https://www.theverge.com/2021/10/25/22744959/facebook-oculus-pro-vr-leaked-setup-videos'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/BcjLxfa_AKC9fE2i-nCAfYUtkME=/0x0:800x500/1200x800/filters:focal(336x186:464x314)/cdn.vox-cdn.com/uploads/chorus_image/image/70042809/Oculus_Pro_leaked.0.png' width='700px' /><br/>
+Facebook has been teasing work on a pro version of its Oculus Quest headset for quite some time, and now a series of what appear to be setup videos for the unreleased product have leaked from its own servers.
 <a href='https://www.theverge.com/2021/10/25/22744959/facebook-oculus-pro-vr-leaked-setup-videos'> Source <a/>
