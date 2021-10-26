@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KZQv5nt1f1XP_paV3Xt0iaHMxb0=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/70042893/Galaxy_Book___Angle.0.jpg' width='700px' /><br/>
-Samsung has announced three new additions to its Galaxy Book line: the Galaxy Book, the Galaxy Book Odyssey, and the Galaxy Book Pro 360 5G. While none of the models have features that will knock your socks off, they seem like a natural progression of Samsung's recent efforts to bring the Galaxy Book line out of the enthusiast space and into the mainstream.
-<a href='https://www.theverge.com/2021/10/25/22744949/samsung-galaxy-book-odyssey-pro-360-5g-laptops'> Source <a/>
