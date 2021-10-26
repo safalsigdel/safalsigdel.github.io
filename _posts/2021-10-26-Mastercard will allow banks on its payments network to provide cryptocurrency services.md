@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/vtLnJnawxD-_KhB3dB8u81vEyIY=/0x0:4896x3264/1200x800/filters:focal(2057x1241:2839x2023)/cdn.vox-cdn.com/uploads/chorus_image/image/70042606/1231149620.0.jpg' width='700px' /><br/>
 Mastercard has signed a deal with cryptocurrency firm Bakkt to make crypto options available to merchants and banks across its payments network, the company announced Monday. The news was first reported by CNBC.
-<a href='https://www.theverge.com/2021/10/25/22744786/mastercard-allow-banks-payments-network-provide-cryptocurrency-services'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/vtLnJnawxD-_KhB3dB8u81vEyIY=/0x0:4896x3264/1200x800/filters:focal(2057x1241:2839x2023)/cdn.vox-cdn.com/uploads/chorus_image/image/70042606/1231149620.0.jpg' width='700px' /><br/>
-Mastercard has signed a deal with cryptocurrency firm Bakkt to make crypto options available to merchants and banks across its payments network, the company announced Monday. The news was first reported by CNBC.
 <a href='https://www.theverge.com/2021/10/25/22744786/mastercard-allow-banks-payments-network-provide-cryptocurrency-services'> Source <a/>

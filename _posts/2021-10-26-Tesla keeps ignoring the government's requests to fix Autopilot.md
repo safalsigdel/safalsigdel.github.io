@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/Z6CXRVlAldjXEAwjm6CtF5958So=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/70042965/1235987758.0.jpg' width='700px' /><br/>
 The National Transportation Safety Board is not happy with Tesla's failure to respond to its safety recommendations made four years ago concerning the company's controversial driver assist feature, Autopilot.
-<a href='https://www.theverge.com/2021/10/25/22744982/tesla-ntsb-inaction-autopilot-safety-recommendations'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/Z6CXRVlAldjXEAwjm6CtF5958So=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/70042965/1235987758.0.jpg' width='700px' /><br/>
-The National Transportation Safety Board is not happy with Tesla's failure to respond to its safety recommendations made four years ago concerning the company's controversial driver assist feature, Autopilot.
 <a href='https://www.theverge.com/2021/10/25/22744982/tesla-ntsb-inaction-autopilot-safety-recommendations'> Source <a/>
