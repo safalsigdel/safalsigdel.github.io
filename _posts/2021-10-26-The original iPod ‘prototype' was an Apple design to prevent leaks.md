@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FaW4gVtZJxYS7yTiRKMq-dpq_9g=/0x0:2560x1793/1200x800/filters:focal(1076x693:1484x1101)/cdn.vox-cdn.com/uploads/chorus_image/image/70042660/ipod_prototype_apple.0.jpg' width='700px' /><br/>
-It's hard to believe that the prototype for the original iPod is something that you can't even fit into your pocket. Panic, a software development group for macOS and iOS, dredged up the prototype for the original iPod — something that Apple probably never wanted to see again — in honor of the iPod's 20th anniversary (via 9to5Mac).
-<a href='https://www.theverge.com/2021/10/25/22744761/apple-ipod-prototype-original-design'> Source <a/>
