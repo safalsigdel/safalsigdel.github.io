@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z3mYFW8qRditTUUTukcJIrzV000=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70046639/acastro_180403_1777_youtube_0001.0.jpg' width='700px' /><br/>
+Hello, hello, and welcome back to the workweek. I hope everyone had a lovely weekend, and shout out to those of you who attended On The Verge. It was so nice to see people IRL and actually meet face to face. I hope we can do it again soon! Anyway, today's a busy one with a couple scoops and analyses. Off we go.
+<a href='https://www.theverge.com/2021/10/26/22746466/youtube-podcasting-kai-chuk-amazon-project-mic-live-audio-hot-pod'> Source <a/>
