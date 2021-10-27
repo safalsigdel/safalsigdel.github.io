@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/soCNxoQZLJ9YFqWItQa3Bvgn_pk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70047440/akrales_170313_1481_A_0069.0.jpg' width='700px' /><br/>
-General Motors will start making Chevy Bolts again on November 1st, after shutting down production in late August following a global recall of the electric vehicle due to battery fire risk. The production restart at the company's Orion assembly plant in Michigan will last for at least two weeks, as Reuters reports, though GM isn't saying what will happen after that.
-<a href='https://www.theverge.com/2021/10/26/22746583/gm-bolt-ev-restart-battery-production-recall-fires'> Source <a/>
