@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WSjE9yYnYIzNfZjh1wJPyOatWAQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70048482/acastro_210729_1777_blizzard_0003.0.jpg' width='700px' /><br/>
-The pandemic canceled BlizzCon 2021, and it appears that a planned online event next year from Blizzard will also be a scratch. An uncredited blog post says, “We've decided to take a step back and pause on planning the previously announced BlizzConline event scheduled for early next year.”
-<a href='https://www.theverge.com/2021/10/26/22746780/blizzard-blizzcon-harassment-cancel-warcraft-overwatch-blizzconline'> Source <a/>
