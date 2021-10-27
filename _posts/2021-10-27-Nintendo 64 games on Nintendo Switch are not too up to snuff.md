@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EejN-_hJZRUdgCJPpm-wNIAFPX8=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70049298/IMG_0122.0.jpeg' width='700px' /><br/>
-Monday evening, Nintendo released its latest features bundled into the Nintendo Switch Online subscription: Nintendo 64 and Sega Genesis games via an “Expansion Pack.”
-<a href='https://www.theverge.com/2021/10/26/22746897/nintendo-switch-online-n64-emulation-quality-bad'> Source <a/>
