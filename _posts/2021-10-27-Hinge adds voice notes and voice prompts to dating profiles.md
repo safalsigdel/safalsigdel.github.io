@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D0_-w1jIeBFMyOc-JWsFq7Jp_9s=/0x0:2048x1349/1200x800/filters:focal(861x512:1187x838)/cdn.vox-cdn.com/uploads/chorus_image/image/70051481/Hinge_Voice_Prompts.0.jpg' width='700px' /><br/>
+Dating app Hinge is adding new audio features, letting users answer the “getting to know you” prompts on their profile using audio clips and exchange voice notes in chat.
+<a href='https://www.theverge.com/2021/10/27/22746297/hinge-voice-notes-prompts-profile'> Source <a/>

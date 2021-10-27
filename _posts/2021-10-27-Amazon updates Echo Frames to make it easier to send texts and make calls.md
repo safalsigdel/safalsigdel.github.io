@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/_p-WjxPq1cgagxfzeuIVH6xGszw=/0x0:1997x1332/1200x800/filters:focal(840x507:1158x825)/cdn.vox-cdn.com/uploads/chorus_image/image/70051349/Modern_Tortoise__Sunglasses.0.jpg' width='700px' /><br/>
-Amazon's Echo Frames, the Alexa-enabled eyeglasses equipped with tiny speakers and microphones, are getting updated with new quality-of-life features like an automatic power-saving sleep mode and a shortcut to quickly phone a contact of your choosing.
+Amazon's Echo Frames, the Alexa-enabled eyeglasses equipped with tiny speakers and microphones, are getting updated with new quality-of-life features like the ability to automatically wake up from power-saving sleep mode when you put them on your face, and a shortcut to quickly phone a contact of your choosing.
 <a href='https://www.theverge.com/2021/10/27/22748242/amazon-echo-frames-sleep-mode-top-contact-auto-volume-wake-word-ios-sms'> Source <a/>
