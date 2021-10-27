@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u6MR-FVbLm22qV1-770e2yHwJGo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70052303/acastro_210429_1777_epicApple_0002.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/6fAIE3xckAqiBRicI4SJmbV3QQs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70052303/acastro_180604_1777_apple_wwdc_0002.5.jpg' width='700px' /><br/>
 Five Chinese students are suing Apple for not providing a charger with the iPhone 12, first reported by Vice. Apple stopped including EarPods and wall chargers with iPhones in 2020, opting only to include a USB-C to Lightning cable in its packaging. According to Apple, ditching the charger and EarPods is supposed to reduce carbon emissions and preserve raw materials.
 <a href='https://www.theverge.com/2021/10/27/22748474/chinese-students-sue-apple-including-charger-iphone-12'> Source <a/>
