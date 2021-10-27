@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wCiHf5llrJTYdEpYmtKzDy8igG8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70051676/cracked-iphone-stock-1198.0.0.jpg' width='700px' /><br/>
+The US Copyright Office is expanding a legal shield for fixing digital devices, including cars and medical devices. This morning, the office submitted new exemptions to Section 1201 of the Digital Millennium Copyright Act, which bars breaking software copy protection. The resulting rules include a revamped section on device repair, reflecting renewed government pressure around “right to repair” issues.
+<a href='https://www.theverge.com/2021/10/27/22747310/us-copyright-office-dmca-section-1201-exemption-rulemaking-report'> Source <a/>

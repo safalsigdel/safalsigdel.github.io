@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aJfHsekqFQwDHWskDmggCWZBYIU=/0x0:2612x1498/1200x800/filters:focal(1098x541:1514x957)/cdn.vox-cdn.com/uploads/chorus_image/image/70051654/Screen_Shot_2021_09_09_at_7.38.51_AM.0.png' width='700px' /><br/>
+Amazon is now making its own TVs, and today marks the release of the company's Omni and 4-Series Fire TVs. As the 4K HDR sets start making their way to customers, Amazon is making one more last-minute announcement: it plans to add support for Apple's AirPlay 2 and HomeKit features “soon.”
+<a href='https://www.theverge.com/2021/10/27/22747811/amazon-fire-tv-omni-4-series-apple-airplay-2-homekit'> Source <a/>
