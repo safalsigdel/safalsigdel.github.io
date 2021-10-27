@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZZMlc0sCOB86-8_wsA3T8juguFU=/0x0:5300x3533/1200x800/filters:focal(2226x1343:3074x2191)/cdn.vox-cdn.com/uploads/chorus_image/image/70047529/1010166416.0.jpg' width='700px' /><br/>
+A US Senate committee says manufacturer Seagate likely violated government sanctions by shipping hard drives to Chinese manufacturer Huawei.
+<a href='https://www.theverge.com/2021/10/26/22746603/seagate-huawei-hard-drive-sales-sanctions-violations-report-congress'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eGxtLymjLajC9MQ1eqJfReypLAk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70046708/ahawkins_20210503_4551_0002.0.jpg' width='700px' /><br/>
-General Motors will work with its network of dealers to help spur the installation of 40,000 electric vehicle chargers in the US, the company announced today. It will also begin selling its own “Ultium” branded Level 2 chargers for home or business uses.
-<a href='https://www.theverge.com/2021/10/26/22745575/gm-ev-charging-dealers-ultium-360-charge'> Source <a/>

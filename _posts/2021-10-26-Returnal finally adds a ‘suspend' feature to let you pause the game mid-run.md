@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TzdoOpWiYi3w0-58abrRu6YHb3A=/0x0:2898x1648/1200x800/filters:focal(1218x593:1680x1055)/cdn.vox-cdn.com/uploads/chorus_image/image/70046393/Screen_Shot_2021_10_26_at_8.23.00_AM.0.png' width='700px' /><br/>
-Returnal's 2.0 update is out today, bringing two of the most requested features for Housemarque's punishingly difficult sci-fi roguelike: the option to suspend the game in the middle of a run without losing progress, and a photo mode for capturing all of Atropos' most stunning visuals.
-<a href='https://www.theverge.com/2021/10/26/22746400/returnal-ps5-housemarque-suspend-feature-photo-mode-update'> Source <a/>

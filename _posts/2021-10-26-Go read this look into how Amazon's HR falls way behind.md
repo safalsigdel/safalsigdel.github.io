@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1Bsz93bzT-Cdl-1mwh8404o6XnE=/0x0:640x423/1200x800/filters:focal(269x161:371x263)/cdn.vox-cdn.com/uploads/chorus_image/image/70044266/amazon-event-2012-_1145.0.jpg' width='700px' /><br/>
-An email sent to Jeff Bezos from an Amazon warehouse worker began an internal investigation that found that the e-commerce giant falls behind when it comes to supporting its 1.3 million employees, according to The New York Times.
-<a href='https://www.theverge.com/2021/10/25/22745029/amazon-warehouse-hr-new-york-times'> Source <a/>

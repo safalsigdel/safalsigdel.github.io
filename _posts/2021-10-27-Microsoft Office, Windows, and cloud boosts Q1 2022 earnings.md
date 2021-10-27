@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8GjtPourSpMbVwPmh6VKDB0lytU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70048847/acastro_180507_1777_microsoft_0003.0.jpg' width='700px' /><br/>
+Microsoft posted the first quarter of its 2022 financial results today, reporting revenue of $45.3 billion and a net income of $20.5 billion (GAAP). Revenue is up 22 percent, and net income has increased by 48 percent. Microsoft has seen strong revenue performance in its cloud, server, and Office businesses this quarter.
+<a href='https://www.theverge.com/2021/10/26/22747241/microsoft-q1-2022-earnings-revenue-cloud-services-surface-gaming-xbox'> Source <a/>

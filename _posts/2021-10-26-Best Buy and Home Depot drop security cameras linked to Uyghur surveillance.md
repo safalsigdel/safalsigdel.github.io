@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KIlJvuA4eVZGFKxQ53ReMkuwJDI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70044089/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
-According to TechCrunch, Best Buy, Home Depot, and Lowes will no longer be selling security cameras from Lorex and Ezviz after the outlet reported on the brands' parent companies' involvement in supplying the Chinese government with surveillance tech.
-<a href='https://www.theverge.com/2021/10/25/22745068/best-buy-home-depot-lorex-ezviz-uyghur-surveillance-sales-dji'> Source <a/>

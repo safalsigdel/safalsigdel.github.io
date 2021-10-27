@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_bhfZwW3fBQNbOLkJBX1I-Zcrgw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70046512/cgartenberg_211020_4803_0006.0.jpg' width='700px' /><br/>
-It's been nearly three years since Amazon has updated its best (and bestselling) Kindle: the midtier Kindle Paperwhite, which is getting its biggest upgrade ever. On paper, at least, Amazon has finally built the ultimate Kindle.
-<a href='https://www.theverge.com/22745670/amazon-kindle-paperwhite-2021-review-usb-c-signature-edition-display-e-reader-books'> Source <a/>

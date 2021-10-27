@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cvdUaAPyQG_P-E--HxzQPzXFjtg=/0x0:2000x949/1200x800/filters:focal(840x315:1160x635)/cdn.vox-cdn.com/uploads/chorus_image/image/70044129/MagGo_Family.0.jpg' width='700px' /><br/>
-Bored by the few Apple-certified MagSafe accessories like the MagSafe Battery Pack,  MagSafe wallet (2021), or the MagSafe Duo Charger, and feel stifled by its small ecosystem? If you want to expand your MagSafe-compatible collection, you'll need to look to third-party accessory makers like Anker for some fresh ideas.
-<a href='https://www.theverge.com/2021/10/25/22744362/anker-magsafe-maggo-charging-car-home-iphone-mobile'> Source <a/>

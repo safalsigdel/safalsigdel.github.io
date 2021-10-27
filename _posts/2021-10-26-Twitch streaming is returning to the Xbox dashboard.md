@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oRf4g0rTHgUxaEv_1IF90-CuvGk=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/70045962/twitchxbox.0.jpg' width='700px' /><br/>
-Microsoft is bringing back Twitch streaming integration directly into the Xbox dashboard. Twitch first appeared directly integrated into the Xbox One dashboard in 2014, using the original Snap interface to allow players to stream directly to the service. Now it's coming back into the Xbox Guide interface, with similar integration and webcam support.
-<a href='https://www.theverge.com/2021/10/26/22746330/twitch-xbox-dashboard-integration-streaming'> Source <a/>

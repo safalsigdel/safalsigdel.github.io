@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6dEARhXjZ8ArkfdIjasqsBUzhes=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/70046440/Photoshop_on_the_web_Edititing.0.png' width='700px' /><br/>
-Adobe is bringing Photoshop and Illustrator to the web, letting you make changes to documents hosted in the cloud without having to download them and open up the app.
-<a href='https://www.theverge.com/2021/10/26/22738125/adobe-photoshop-illustrator-web-announced'> Source <a/>

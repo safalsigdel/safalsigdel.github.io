@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v6_b8UX1QQryXGIkyUC2ZUA5sF8=/0x0:600x800/1200x800/filters:focal(241x241:337x337)/cdn.vox-cdn.com/uploads/chorus_image/image/70046444/HERO_Oura_Ring_Gen3___LEDs_Zoomed.0.png' width='700px' /><br/>
-Oura's Generation 3 smart ring will have a whole new slate of features, including period prediction, blood oxygen monitoring, and real-time heart rate tracking. The new ring will jump from three to seven temperature sensors and add a pulse oxygen sensor, Oura CEO Harpreet Rai told The Verge.
-<a href='https://www.theverge.com/2021/10/26/22740187/oura-period-prediction-heart-rate-smart-ring'> Source <a/>

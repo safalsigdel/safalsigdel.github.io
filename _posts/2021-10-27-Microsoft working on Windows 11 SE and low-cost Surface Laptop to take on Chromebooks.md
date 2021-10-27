@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rl9QcvU1PEsUvPEti-nxXr1Mz0o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70047074/akrales_170502_1637_0519.0.0.jpg' width='700px' /><br/>
+Microsoft is about to compete even more directly with Chromebooks. The software giant is reportedly preparing to launch a new low-cost Surface Laptop aimed at education markets, specifically K-12, alongside a new edition of Windows 11 named Windows 11 SE.
+<a href='https://www.theverge.com/2021/10/26/22746644/microsoft-windows-11-se-surface-laptop-se-education-rumors'> Source <a/>

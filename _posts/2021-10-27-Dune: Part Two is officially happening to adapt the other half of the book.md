@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UkyRp3p59_xWS6CIouef_vMFT7A=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/70048203/download.0.jpeg' width='700px' /><br/>
+Dune is officially getting a sequel, with Warner Bros. and Legendary announcing that Dune: Part Two will continue the story (and, presumably, adapt the rest of the original novel) that began in the recently released film.
+<a href='https://www.theverge.com/2021/10/26/22739098/dune-part-two-denis-villeneuve-timothee-chalamet-paul-atreides-spice-sandworm'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/atn2fLxv9jWRB1n-tAx3iCju44s=/0x0:3840x2160/1200x800/filters:focal(1101x639:1715x1253)/cdn.vox-cdn.com/uploads/chorus_image/image/70046843/Boxing_MR.0.png' width='700px' /><br/>
-Supernatural, the Beat Saber-like VR app for the Oculus Quest and Quest 2 that gets you to work up a sweat by beating targets with virtual bats, has added another way to wreck a target: your fists. Boxing is the latest workout introduced on Supernatural and like the original bat-oriented “Flow” workout, it works up a sweat while being fun.
-<a href='https://www.theverge.com/2021/10/26/22746070/supernatural-vr-workout-app-adds-boxing-oculus-quest'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KU6VyUqoolXM7V_Hjue5UFl734M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70047368/akrales_211020_4803_0004.0.jpg' width='700px' /><br/>
+It is morning. The birds are chirping, a coffee percolator is bubbling, keyboards are clacking, and an Apple startup chime is ringing. The Verge's Dieter Bohn, Nilay Patel, and Monica Chin are also walking into the recording studio to chat about the new iteration of Apple's MacBook Pros.
+<a href='https://www.theverge.com/2021/10/26/22746563/macbook-pro-2021-review-vergecast-podcast'> Source <a/>

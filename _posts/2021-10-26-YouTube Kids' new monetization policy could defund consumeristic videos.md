@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oAJKVE4jqrUdG0o_wN7dHmZdX4A=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70046926/acastro_180202_1777_0002.0.jpg' width='700px' /><br/>
-YouTube is making it harder for kids' videos that it deems “low quality” to qualify for monetization (via Engadget). The platform outlined its updated policies in a post on the YouTube Blog, noting that channels with “made for kids” content will need to abide by a stricter set of guidelines if they want to stay in the YouTube Partnership Program (YPP).
-<a href='https://www.theverge.com/2021/10/26/22746433/youtube-kids-monetization-policy-defund-consumeristic-videos'> Source <a/>

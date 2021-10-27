@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VtUkNlKDwNxqp5PRCP92hzL4Tx4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70048825/acastro_180130_1777_0002.0.jpg' width='700px' /><br/>
+Google has done it again — raking in more money than ever before for the second quarter in a row as the COVID-19 pandemic continues on. Alphabet's Q3 2021 earnings show an all-time record revenue of $65.1 billion and record profits for the fifth quarter in a row at $18.9 billion.
+<a href='https://www.theverge.com/2021/10/26/22747193/google-q3-2021-earnings-record-revenue-profit'> Source <a/>

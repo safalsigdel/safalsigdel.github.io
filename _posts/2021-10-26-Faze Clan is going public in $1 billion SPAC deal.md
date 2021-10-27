@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d16_go4dMyt_xIeBe9FY7Tz5tHA=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/70043706/faze_clan.0.jpeg' width='700px' /><br/>
-Faze Clan is on track to become a publicly traded company. The competitive esports group is merging with B. Riley Principal 150 Merger Corp. in a deal that values the combined companies at $1 billion (via Markets Insider). As a part of the deal, Faze Clan estimates it can get up to $291 million to help fund its growth, according to a post on Faze Clan's website.
-<a href='https://www.theverge.com/2021/10/25/22745105/faze-clan-spac-ipo-publicly-traded-esports-entertainment'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X7iNpCyhK65Mgy5GIFnU1Aw0iE0=/0x0:5501x3668/1200x800/filters:focal(2311x1394:3191x2274)/cdn.vox-cdn.com/uploads/chorus_image/image/70047342/1144011213.0.jpg' width='700px' /><br/>
+President Joe Biden named acting Federal Communications Commissioner Chair Jessica Rosenworcel to officially head the agency on Tuesday, propping her up as the administration's leader to tackle broadband expansion and net neutrality. Biden also nominated progressive advocate Gigi Sohn as the third Democrat for the bench.
+<a href='https://www.theverge.com/2021/10/26/22746223/net-neutrality-fcc-jessica-rosenworcel-chair-gigi-sohn-ajit-pai-broadband'> Source <a/>

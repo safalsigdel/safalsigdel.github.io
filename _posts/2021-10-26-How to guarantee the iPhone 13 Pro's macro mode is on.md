@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uW3pZLTuE_8_wfdH7kSMNHFGqAU=/0x0:2040x1360/1200x800/filters:focal(924x609:1250x935)/cdn.vox-cdn.com/uploads/chorus_image/image/70046602/vpavic_210916_untitled_0016.0.jpg' width='700px' /><br/>
-The iPhone 13 Pro and Pro Max have great cameras, some of the best you can buy in a phone. They've also got an exclusive new feature Apple never offered before: a macro mode that lets you take extreme close-ups — just two centimeters away! — of intricate things you can barely see with the naked eye. Your pet's incredibly fine fur, the veins of leaves, and the sub-pixels in your computer monitor's screen are all now within reach.
-<a href='https://www.theverge.com/22745578/iphone-13-pro-macro-mode-how-to'> Source <a/>

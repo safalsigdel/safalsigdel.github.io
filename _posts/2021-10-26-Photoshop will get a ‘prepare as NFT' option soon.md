@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iaCK2u0-6l4e0fKByaKDCC2ITXU=/0x0:1440x986/1200x800/filters:focal(605x378:835x608)/cdn.vox-cdn.com/uploads/chorus_image/image/70046434/media_1dd91c848c1e0ed127468c10d0bd0646b4c3455d3.0.jpg' width='700px' /><br/>
-Adobe is launching a system built into Photoshop that can, among other things, help prove that the person selling an NFT is the person who made it. It's called Content Credentials, and NFT sellers will be able to link the Adobe ID with their crypto wallet, allowing compatible NFT marketplaces to show a sort of verified certificate proving the art's source is authentic.
-<a href='https://www.theverge.com/2021/10/26/22745506/adobe-nft-art-theft-content-credentials-opensea-rarible-photoshop'> Source <a/>
