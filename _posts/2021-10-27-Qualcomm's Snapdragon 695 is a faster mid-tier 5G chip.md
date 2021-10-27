@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2HphxT4t5yKIHneSd0HTubuMW0o=/0x0:7607x4500/1200x800/filters:focal(3196x1642:4412x2858)/cdn.vox-cdn.com/uploads/chorus_image/image/70047175/QRD_4_pack_version_4.0.jpg' width='700px' /><br/>
-Qualcomm is announcing a pile of new Snapdragon chips today across its mid- and entry-level product lineups: the Snapdragon 778 Plus, 695, 680, and 480 Plus, offering more options to device manufacturers when it comes to picking the best processor for a phone — and, in theory, more choice for customers when they're looking to buy one.
-<a href='https://www.theverge.com/2021/10/26/22740748/qualcomm-snapdragon-695-778-plus-480-680-5g-4g-smartphone-chips'> Source <a/>
