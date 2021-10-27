@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Lb0TbhN0duEkFdj0N-wkTHV6s9c=/0x0:1888x1258/1200x800/filters:focal(793x478:1095x780)/cdn.vox-cdn.com/uploads/chorus_image/image/70050858/VSQGmW0.5.jpg' width='700px' /><br/>
+Spotify now has 172 million paid subscribers and 381 million monthly active users, the company announced today in its latest earnings release. That's up from 165 million paid subscribers and 365 million monthly active users last quarter, with both figures up 19 percent year-over-year. Those are in line with what Spotify was expecting this quarter.
+<a href='https://www.theverge.com/2021/10/27/22746682/spotify-q3-2021-earnings-podcast-music-streaming-financials'> Source <a/>
