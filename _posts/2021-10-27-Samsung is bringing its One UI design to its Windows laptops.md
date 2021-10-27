@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yR3zwg8m4h-sWo3iKHwx1yXWULw=/0x0:2880x1617/1200x0/filters:focal(0x0:2880x1617):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22959055/990Suet.jpeg' width='700px' /><br/>
+Samsung is bringing its One UI 4 mobile interface design to its Galaxy Book series of Windows laptops. The new design changes will appear inside Samsung's Windows apps like Samsung Notes, Samsung Gallery, and Samsung Settings. The changes are designed to match the mobile interface that Samsung's bringing to its latest Android phones, to make it easier to switch between the two.
+<a href='https://www.theverge.com/2021/10/27/22748334/samsung-oneui-windows-apps-oneui-book-4-features'> Source <a/>
