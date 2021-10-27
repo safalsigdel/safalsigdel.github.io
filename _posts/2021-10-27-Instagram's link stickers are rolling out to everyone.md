@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GLZsTi5t0q90BrgmkEjuGU6jRAQ=/0x0:1619x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/70051997/Link_Sticker.0.png' width='700px' /><br/>
+Instagram's link stickers, which let you include hyperlinks in Stories in the form of stickers, will now be available to everyone on the platform, the Facebook-owned social media network has announced. Instagram started testing link stickers in June, but until now the feature has been limited to verified accounts or accounts with a large number of followers.
+<a href='https://www.theverge.com/2021/10/27/22748303/instagram-link-stickers-stories-everyone-rolling-out-test'> Source <a/>
