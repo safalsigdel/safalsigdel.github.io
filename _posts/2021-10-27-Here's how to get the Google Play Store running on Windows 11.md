@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rZ7-k9sZDDfLp24S6foc-8PMCwg=/0x0:2880x1920/1200x800/filters:focal(1210x730:1670x1190)/cdn.vox-cdn.com/uploads/chorus_image/image/70050876/Hdh35Ti.0.jpeg' width='700px' /><br/>
+A developer and design student has managed to get the Google Play Store working on Windows 11. Google's Android app store is fully functional within Windows 11 using this method, allowing you to install a game or app and run it alongside traditional Windows apps.
+<a href='https://www.theverge.com/2021/10/27/22748319/google-play-store-windows-11-android-apps-microsoft'> Source <a/>
