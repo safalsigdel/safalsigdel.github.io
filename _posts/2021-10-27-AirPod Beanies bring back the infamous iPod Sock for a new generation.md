@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pyH8nzgWTx1rFSzZ6RyNcJt_6C8=/0x0:1596x1116/1200x800/filters:focal(671x431:925x685)/cdn.vox-cdn.com/uploads/chorus_image/image/70047692/Screen_Shot_2021_10_26_at_12.17.24_PM.0.png' width='700px' /><br/>
-The infamous iPod Sock is getting a successor of sorts from accessory company Native Union, in the form of the “AirPods Beanies” — a cozy knit case where you can put your AirPods' existing case for an added layer of protection.
-<a href='https://www.theverge.com/2021/10/26/22746794/airpod-beanies-apple-ipod-sock-native-union'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ROjTAx9zJq6sTLtVZRivxECQ2x8=/399x0:1573x807/1200x800/filters:focal(808x251:1134x577)/cdn.vox-cdn.com/uploads/chorus_image/image/70051285/DJI_Action_2_KV___Studio_05__Front_touchscreen_.0.jpg' width='700px' /><br/>
+DJI has announced a follow-up to its Osmo Action camera, and it's got a completely new design — the Action 2 drops the Osmo name and focuses on modularity with a suite of additional parts and accessories that attach to the camera magnetically.
+<a href='https://www.theverge.com/2021/10/27/22745379/dji-action-2-camera-modular-magnetic-battery-screen-4k-gopro'> Source <a/>

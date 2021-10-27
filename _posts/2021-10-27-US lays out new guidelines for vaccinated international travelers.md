@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PMbCcYYfzOcf8kF8U2w2uwY6FLo=/0x0:5739x4000/1200x800/filters:focal(2411x1541:3329x2459)/cdn.vox-cdn.com/uploads/chorus_image/image/70047854/1236079894.0.jpg' width='700px' /><br/>
-Fully vaccinated international travelers will now be allowed to travel to the United States with proof of vaccination, the CDC announced on Monday. The order will go into effect on November 8th and applies to non-US citizens who are not immigrants, with an exemption for children under 18.
-<a href='https://www.theverge.com/2021/10/26/22746477/us-new-travel-guidelines-covid-19-vaccinated-international'> Source <a/>
