@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/78c83qxRfnu_cTbyAnilV0tRUto=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70051451/akrales_211020_4803_0004.0.jpg' width='700px' /><br/>
+Apple's new MacBook Pro notch is misbehaving. Early adopters have discovered inconsistencies in how Apple handles the notch across macOS and in individual apps, resulting in unexpected behavior where status bar items can get hidden under the notch. These inconsistencies make it feel like Apple has forgotten, in areas of macOS, that it has built a notch into the MacBook Pro.
+<a href='https://www.theverge.com/2021/10/27/22748371/apple-macbook-pro-notch-issues-inconsistencies-apps'> Source <a/>
