@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-T1tMr0A6po-wnW8EPAVTOVorQ0=/0x0:2040x1360/1200x800/filters:focal(895x936:1221x1262)/cdn.vox-cdn.com/uploads/chorus_image/image/70051325/dseifert_201020_4247_0003.0.0.jpg' width='700px' /><br/>
-You've got one of Amazon's Echo smart speakers set up and it's super handy for playing music, checking the weather, setting an egg timer — all hands-free. But then it starts flashing different colors at random times: red, green, yellow, orange... it's almost like it's trying to communicate with you. Which, in fact, it is.
-<a href='https://www.theverge.com/22747275/amazon-echo-speaker-alexa-flashing-green-red-orange-yellow'> Source <a/>
