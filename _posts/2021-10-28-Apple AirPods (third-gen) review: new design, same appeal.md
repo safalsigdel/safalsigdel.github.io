@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9720/IMG_0050.jpg' width='700px' /><br/>
-For the first time since their introduction in 2016, Apple's AirPods have a completely new design. The third-generation AirPods, priced at $179, bear a much closer resemblance to the AirPods Pro than the long-stemmed original and second-gen pairs. Apple has upgraded their sound, added new features like spatial audio head tracking, made them more durable with IPX4 water resistance, and lengthened their battery life.
-<a href='https://www.theverge.com/22744686/apple-airpods-third-gen-review'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rTpDbY83KLUNS-1xqlNeJkuC7fM=/0x0:1434x960/1200x800/filters:focal(603x366:831x594)/cdn.vox-cdn.com/uploads/chorus_image/image/70056566/BlueCruise_Mustang_Mach_E_01.0.jpg' width='700px' /><br/>
+BlueCruise, the “hands-free” driver assist feature that Ford sees as a viable competitor to GM's Super Cruise and Tesla's Autopilot, won't reach car owners until the first quarter of 2022, the company's executives said Wednesday night. The automaker had originally planned on pushing an over-the-air (OTA) software update activating BlueCruise for select Ford customers before the end of 2021.
+<a href='https://www.theverge.com/2021/10/28/22750476/ford-hands-free-bluecruise-2022-delay-adas-farley'> Source <a/>
