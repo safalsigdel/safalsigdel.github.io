@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Amc8Ewap1RsMGulCT6fm2d4UiQo=/0x0:1200x628/1200x800/filters:focal(504x218:696x410)/cdn.vox-cdn.com/uploads/chorus_image/image/70052917/smallblog_R1_Lifestyle_Front_V1_5000x3333.0.jpg' width='700px' /><br/>
+If you need to elevate the audio experience for your second guest bedroom's Roku TV, TCL's new soundbar may be the one for you. The Roku TV Wireless Soundbar (announced at CES 2021 as the Alto R1) is TCL's vision of a simple and easy audio drop-in solution for $179.99 that only works with Roku TVs but not any other Roku streaming box.
+<a href='https://www.theverge.com/2021/10/27/22748527/tcl-roku-tv-ready-wireless-soundbar'> Source <a/>

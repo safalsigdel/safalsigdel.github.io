@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Rj3CwG5JFKSTdYoMZSNo0nFRBoY=/0x0:1920x1200/1200x800/filters:focal(807x447:1113x753)/cdn.vox-cdn.com/uploads/chorus_image/image/70050737/windows11store.0.jpg' width='700px' /><br/>
-Microsoft is close to releasing Windows 11's new Microsoft Store for Windows 10 users. The software maker has now released this new app store to Windows 10 testers in the Release Preview ring, alongside a final version of the upcoming Windows 10 November 2021 Update.
-<a href='https://www.theverge.com/2021/10/27/22748243/microsoft-store-windows-10-update-windows-11-app-store'> Source <a/>

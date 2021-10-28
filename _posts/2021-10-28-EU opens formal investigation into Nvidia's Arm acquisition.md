@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B0ZjT0E2UArl6GmGI35lNmxJukQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70052856/acastro_180529_1777_nvidia_0001.0.0.jpg' width='700px' /><br/>
+The European Commission has opened a formal competition investigation into Nvidia's acquisition of chip designer Arm. The deal, which would see Nvidia purchase the UK-based company from SoftBank for $40 billion, was announced in September 2020.
+<a href='https://www.theverge.com/2021/10/27/22266504/nvidia-arm-deal-eu-formal-investigation-merger'> Source <a/>

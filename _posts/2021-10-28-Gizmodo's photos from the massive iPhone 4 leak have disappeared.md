@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gBEYDQQsK-jqfzExM1uNtvrPxiI=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70055257/VRG_ILLO_4489_003.0.jpg' width='700px' /><br/>
+Photographs from a historic moment in tech news history, the day a Gizmodo reporter published hands-on pics of the then-not-yet-announced iPhone 4, are now missing. And they're not alone — vast quantities of pictures from G/O Media sites like The Onion, Jalopnik, and Deadspin (as well as Gizmodo) have been removed, reportedly intentionally, according to Gawker.
+<a href='https://www.theverge.com/2021/10/27/22749706/gawker-media-iphone-4-leak-link-rot-buzzfeed'> Source <a/>

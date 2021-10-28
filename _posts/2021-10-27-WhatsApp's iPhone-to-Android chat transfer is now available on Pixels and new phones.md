@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DQXYcx9T8MvcNMeKNlSvPRMsOJ8=/193x0:1246x756/1200x800/filters:focal(628x250:826x448)/cdn.vox-cdn.com/uploads/chorus_image/image/70049387/Screen_Shot_2021_10_26_at_13.51.42.0.png' width='700px' /><br/>
-Google announced that WhatsApp's chat history migration feature to bring your messages from iPhones to Android is now available on “all Pixel phones” and that it'll “become available on new smartphones that launch with Android 12.” The feature was already available for Samsung phones but will make the experience of switching from iOS to Android easier, as you won't have to give up your messaging history.
-<a href='https://www.theverge.com/2021/10/26/22747446/whatsapp-chat-migrate-iphone-pixel-android-12'> Source <a/>

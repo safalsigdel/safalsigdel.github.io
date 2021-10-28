@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6nMbTi3WEUPkCBciY5MkLaeJNC8=/0x0:6265x4275/1200x800/filters:focal(1958x1348:2960x2350)/cdn.vox-cdn.com/uploads/chorus_image/image/70053724/1235538501.0.jpg' width='700px' /><br/>
+A Hollywood union representing tens of thousands of production workers will soon decide whether to ratify agreements that will, among other labor protections, enforce better pay from streaming services.
+<a href='https://www.theverge.com/2021/10/27/22749253/hollywood-union-itsea-amptp-vote-streaming-pay'> Source <a/>

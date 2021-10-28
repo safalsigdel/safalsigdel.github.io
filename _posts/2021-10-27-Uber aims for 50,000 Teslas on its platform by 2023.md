@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WeovmEsLzm456wS84JR37s6CfCs=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70050904/1347936910.0.jpg' width='700px' /><br/>
-Uber is acquiring 50,000 Tesla vehicles to rent to its drivers as part of an ambitious plan to electrify its fleet in the US by 2030. The ride-hailing company is working with rental car company Hertz, which announced yesterday that it had ordered 100,000 Teslas.
-<a href='https://www.theverge.com/2021/10/27/22747184/uber-tesla-rent-drivers-hertz-cost-2023'> Source <a/>

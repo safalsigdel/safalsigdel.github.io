@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m9o1R4e6CmSNwlZoowdTbxLjMdM=/0x0:4000x2666/1200x675/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/70050147/1235841569.0.jpg' width='700px' /><br/>
-Theranos said a lot of things to Lisa Peterson that made the company seem credible when she evaluated it on behalf of the crazy-wealthy DeVos family. One of the things that stood out as a reason to trust Theranos and Elizabeth Holmes? Its devices didn't need FDA approval.
-<a href='https://www.theverge.com/2021/10/26/22747918/theranos-devos-due-diligence-fraud-trial'> Source <a/>

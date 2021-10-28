@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JVusVmr98mNtn3eeUOz9PwpIXZ4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70050888/acastro_180109_1777_0001.0.jpg' width='700px' /><br/>
-A 10-month investigation following the closure of the dark web's largest illegal marketplace, DarkMarket, has resulted in the arrest of 150 suspected drug vendors and buyers.
-<a href='https://www.theverge.com/2021/10/27/22748317/darkmarket-closure-international-arrests-operation-dark-huntor'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ASFRzmfGBS_-dx8pJAURUcrlw5Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70050228/bfarsace_211014_4802_0012.0.jpg' width='700px' /><br/>
-Assuming you managed to order a Pixel 6 or Pixel 6 Pro, then you should know that once the phone is in your possession, you'll need a little extra time to get everything set up and working. That's because, as a post on the Google support forums points out (via 9to5Google), there is a software update to install.
-<a href='https://www.theverge.com/2021/10/26/22747834/google-pixel-6-pro-android-12-launch-update'> Source <a/>

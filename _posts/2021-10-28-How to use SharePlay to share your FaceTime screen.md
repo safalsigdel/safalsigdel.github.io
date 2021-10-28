@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ORMN0tL1BKTPeXl_6BO8zrrMq3s=/0x0:1858x1038/1200x800/filters:focal(781x371:1077x667)/cdn.vox-cdn.com/uploads/chorus_image/image/70054097/Screen_Shot_2021_10_27_at_3.39.30_PM.0.png' width='700px' /><br/>
+One of the new features that iOS 15 has promised to offer is the ability to share your iPhone and iPad screen during FaceTime sessions so that you can enjoy films, music, and other media along with friends and family. While this new feature, called SharePlay, did not ship with the first version of iOS 15, it has been included in iOS 15.1 and can now be enjoyed — to a limited extent.
+<a href='https://www.theverge.com/22749161/iphone-ios-15-facetime-share-play'> Source <a/>
