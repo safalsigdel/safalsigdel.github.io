@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7A_kLtEOZg2ek2TbL_UX-yvYPcs=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/70056913/sonylogo.0.jpg' width='700px' /><br/>
+Sony's PlayStation games on Steam are now published by PlayStation PC LLC instead of PlayStation Mobile. Forum posters at Resetera noticed the change yesterday, and it appears the PlayStation PC company was formed earlier this year. It could mean we'll see Sony use more PlayStation PC branding in the future.
+<a href='https://www.theverge.com/2021/10/28/22750577/sony-playstation-pc-games-label-steam'> Source <a/>
