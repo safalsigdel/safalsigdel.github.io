@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h15aISrU-xJ7BxOu2s0d2iHvGmU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70056021/acastro_180430_1777_tesla_0003.0.jpg' width='700px' /><br/>
+Tesla's Sentry mode, the feature that uses the car's cameras as a surveillance system to catch would-be thieves and vandals, has been upgraded to let owners view a livestream, Electrek reports. The “Sentry Mode Live Camera Access” feature is rolling out with Tesla's 2021.36.8 software update, but only appears to work with the manufacturer's iOS app at present. An Android release is yet to be confirmed.
+<a href='https://www.theverge.com/2021/10/28/22750362/tesla-sentry-mode-live-camera-access-premium-connectivity'> Source <a/>
