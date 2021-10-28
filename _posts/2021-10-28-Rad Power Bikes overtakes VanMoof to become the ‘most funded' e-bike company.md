@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VxiNQScee9c4c1xckTyKAbW2qw0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70056458/ahawkins_210914_4767_0010.0.jpg' width='700px' /><br/>
+Rad Power Bikes announced that it had raised $154 million from investors as it seeks to grow its e-bike empire in the US and abroad. The company now claims it is the “most funded electric bike company in the world,” a little more than a month after Amsterdam-based VanMoof made the same claim.
+<a href='https://www.theverge.com/2021/10/28/22749189/rad-power-bikes-investment-ebike-vanmoof'> Source <a/>
