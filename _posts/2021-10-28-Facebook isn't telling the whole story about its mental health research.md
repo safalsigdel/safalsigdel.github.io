@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wqsmtxzwoQ72MEaHMRuDwjyueV8=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70056763/acastro_170329_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Ever since The Wall Street Journal published internal Facebook research that found Instagram harmed the well-being of teenage girls, the company's defense has been to minimize and dismiss its own findings — saying documents were only relevant for internal product development. That's nonsense, social science researchers say.
+<a href='https://www.theverge.com/2021/10/28/22749357/facebook-mental-health-research-tobacco'> Source <a/>
