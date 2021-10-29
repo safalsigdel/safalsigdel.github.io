@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EFRjUEUYSwp_HwZvOmTQQ-bbMNI=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70062766/20211029_01_01.0.jpg' width='700px' /><br/>
+Toyota released new details about its upcoming electric compact SUV, the BZ4X, which includes an optional solar roof and a steering yoke similar to the one featured in the latest version of the Tesla Model S.
+<a href='https://www.theverge.com/2021/10/29/22752539/toyota-bz4x-electric-suv-steering-yoke-solar-roof'> Source <a/>
