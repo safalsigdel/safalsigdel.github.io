@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xwoz8C9kVRns3Fehp-PNDTZxdyo=/0x0:400x244/1200x800/filters:focal(168x90:232x154)/cdn.vox-cdn.com/uploads/chorus_image/image/70060348/_1x_1.0.jpg' width='700px' /><br/>
+In the first leaked images of Facebook's smartwatch, it's clear: there's a notch, which is the kind of thing people love to make fun of, and what appears to be a front-facing camera. In the photo, the watch's screen is off, but the beady little camera eye is clearly visible.
+<a href='https://www.theverge.com/2021/10/28/22751702/facebook-meta-smartwatch-camera-notch-image-leak-glasses-wearables'> Source <a/>

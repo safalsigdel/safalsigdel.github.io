@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/De_Si2lmIzGV4V-2TNSYbTEBhfo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70060374/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
+TikTok is experimenting with a new tool that allows TikTok users to tip some creators directly on their profiles.
+<a href='https://www.theverge.com/2021/10/28/22751715/tiktok-new-tips-feature-creators'> Source <a/>
