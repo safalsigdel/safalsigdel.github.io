@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zpdni5UrWxEv8k5GHxJ6nP6NPWw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70057956/2D_apps_in_Home.0.png' width='700px' /><br/>
-Facebook is adding 2D apps from third-party developers to its Oculus Quest virtual reality platform. The new feature is aimed at giving people more tools to work in VR using the Progressive Web App (PWA) framework. It's starting with Facebook, Instagram, collaboration app Smartsheet, and email client Spike, then adding Dropbox, Monday.com, Mural, My5, Pluto TV, and Slack in the future.
-<a href='https://www.theverge.com/2021/10/28/22748969/facebook-oculus-quest-vr-progressive-web-apps-slack-dropbox-instagram'> Source <a/>
