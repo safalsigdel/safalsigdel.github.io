@@ -1,0 +1,3 @@
+<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9725/akrales_211028_4820_0659sq.jpg' width='700px' /><br/>
+Let's start simply: the new MacBook Pros with M1 Pro and M1 Max chips are incredible — the fastest laptops we've ever tested in some tasks, with some of the longest battery life we've ever seen. Apple's big bet on moving away from Intel CPUs and AMD GPUs in favor of its own Apple Silicon chips is paying off in meaningful ways, and if you can afford one of these machines, you will be very happy with them. They're great.
+<a href='https://www.theverge.com/22751921/apple-macbook-pro-14-16-inch-2021-m1-pro-max-review'> Source <a/>

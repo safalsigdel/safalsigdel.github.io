@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j_ou6-iH-3dovBV6aa97R9-i9Ec=/0x0:1650x1100/1200x800/filters:focal(693x418:957x682)/cdn.vox-cdn.com/uploads/chorus_image/image/70058312/windows11main.0.jpg' width='700px' /><br/>
-Microsoft is rolling out Windows 11 to more PCs this week. After an initial launch to mostly new PCs earlier this month, Microsoft is gradually making the free Windows 11 upgrade available to more existing and eligible devices.
-<a href='https://www.theverge.com/2021/10/28/22751036/microsoft-windows-11-download-available-more-pcs-install'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/j_ou6-iH-3dovBV6aa97R9-i9Ec=/0x0:1650x1100/1200x800/filters:focal(693x418:957x682)/cdn.vox-cdn.com/uploads/chorus_image/image/70058312/windows11main.0.jpg' width='700px' /><br/>
-Microsoft is rolling out Windows 11 to more PCs this week. After an initial launch to mostly new PCs earlier this month, Microsoft is gradually making the free Windows 11 upgrade available to more existing and eligible devices.
-<a href='https://www.theverge.com/2021/10/28/22751036/microsoft-windows-11-download-available-more-pcs-install'> Source <a/>
