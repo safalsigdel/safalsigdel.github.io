@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vxmbLu2FaK9G2zxaTJPRtk4bxmA=/0x0:720x874/1200x800/filters:focal(303x380:417x494)/cdn.vox-cdn.com/uploads/chorus_image/image/70062387/jiophone_next_blue_edition.0.png' width='700px' /><br/>
+Google and Indian telecom company Jio Platforms finally unveiled their budget smartphone for India on Friday, the JioPhone Next. The phone is designed as an affordable 4G device to serve “the unique needs of the Indian consumer,” Android India engineering lead Ram Papatla said in a blog post.
+<a href='https://www.theverge.com/2021/10/29/22752388/india-google-smartphone-jiophone-pixel'> Source <a/>

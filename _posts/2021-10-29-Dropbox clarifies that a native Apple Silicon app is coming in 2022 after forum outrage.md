@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pa37Ri5snGeQTH5cdTAh6MtBmTA=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/70058893/dropbox_logo_2x.0.jpeg' width='700px' /><br/>
-Dropbox will finally be updating its Mac app to natively support Apple Silicon sometime in the first half of 2022, the company confirmed today. A previous forum thread saw Dropbox staffers claim that a native app would require “a bit more support before we share your suggestion with our team.”
-<a href='https://www.theverge.com/2021/10/28/22751178/dropbox-native-apple-silicon-app-m1-2022'> Source <a/>
