@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s7PPdeThfddbyxneHl6PhQjOcYo=/0x0:4000x2666/1200x800/filters:focal(601x1137:1241x1777)/cdn.vox-cdn.com/uploads/chorus_image/image/70053037/Shot_2_Dust.0.jpg' width='700px' /><br/>
-California startup Future Motion has revealed two new versions of its funky self-balancing electric rideable it calls Onewheel, with more range, power, and better ergonomics.
-<a href='https://www.theverge.com/2021/10/27/22749004/onewheel-gt-pint-x-price-specs-future-motion'> Source <a/>

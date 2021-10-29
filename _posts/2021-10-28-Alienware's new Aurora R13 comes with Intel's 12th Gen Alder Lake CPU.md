@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-P7QDXyo4dtaNxBhigMbwgBrNFQ=/0x0:3900x3750/1200x800/filters:focal(1638x1563:2262x2187)/cdn.vox-cdn.com/uploads/chorus_image/image/70054247/alien_ware_aurora_r13.0.png' width='700px' /><br/>
-Alienware's new Aurora R13 gaming desktop comes with Intel's newly released 12th Gen Alder Lake chip and a brand-new design. You can choose anything from the Core i5-12600KF up to an i9-1200KF, as well as a range of Nvidia graphics cards.
-<a href='https://www.theverge.com/2021/10/27/22749026/alienware-aurora-r13-alder-lake-dell-gaming-desktop-nvidia'> Source <a/>

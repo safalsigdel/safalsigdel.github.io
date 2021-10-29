@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/itbZSitLoJfLzQjYz3JqXQimdvg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70052085/acastro_180927_1777_apple_music_0002.0.jpg' width='700px' /><br/>
-Apple Music is coming to a gaming console, and it's the PlayStation 5. The new app lets Apple Music subscribers stream music on Sony's latest console, similar to what was already available with Spotify. Audio can play in the background while you're gaming or just play on its own. Instructions on how to set up Apple Music for your PS5 are available right here.
-<a href='https://www.theverge.com/2021/10/27/22727865/sony-ps5-apple-music-app-streaming-game-console'> Source <a/>

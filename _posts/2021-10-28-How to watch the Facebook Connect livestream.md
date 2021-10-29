@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RFBhF86kYfSqEIz3R3XNagspsYU=/0x0:3007x1669/1200x800/filters:focal(777x767:1257x1247)/cdn.vox-cdn.com/uploads/chorus_image/image/70056172/Facebook_Connect_splash.0.png' width='700px' /><br/>
-Facebook CEO Mark Zuckerberg is set to deliver the opening keynote to the Facebook Reality Labs event, Facebook Connect, this Thursday, October 28th at 1PM ET / 10AM PT.
-<a href='https://www.theverge.com/2021/10/28/22745465/facebook-connect-live-stream-how-to-watch'> Source <a/>

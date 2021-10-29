@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+The company formerly known as Facebook just revealed its new name, Meta. And while that change brings a whole lot of questions, there's one that many of us at The Verge have been pondering for about 30 minutes: how does the Meta name change the acronym used to refer to the biggest tech companies in one fell swoop?
+<a href='https://www.theverge.com/tldr/2021/10/28/22751274/facebook-meta-name-change-new-big-tech-acronym-faang'> Source <a/>

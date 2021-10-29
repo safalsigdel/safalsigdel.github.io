@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0Bu8AqAJOOZaMTgGoZgqRioUo0Y=/266x77:2905x1805/1200x800/filters:focal(1296x691:1776x1171)/cdn.vox-cdn.com/uploads/chorus_image/image/70055023/dseifert_4711_samsung_z_flip_3_25.0.jpg' width='700px' /><br/>
-In 2020, Samsung weathered the pandemic by posting a record high for revenue in the third quarter of 66.96 trillion won. The company just revealed that it set another record for the same period in 2021, reaching 73.98 trillion won, or about $63 billion. While its revenue was up about 10 percent, Samsung says its profits grew by 26 percent from last year to hit 15.82 trillion won ($13 billion).
-<a href='https://www.theverge.com/2021/10/27/22749880/samsung-q3-2021-earnings-record-revenue-memory-mobile'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lnPZEIyfVltTS6z8fUu4MF-z-vM=/0x0:2416x1462/1200x800/filters:focal(1353x224:1813x684)/cdn.vox-cdn.com/uploads/chorus_image/image/70054032/Screen_Shot_2021_10_27_at_12.46.16.0.png' width='700px' /><br/>
-Apple's App Privacy Report, announced at WWDC 2021, has made its way onto iPhones with the first release of the iOS 15.2 beta, according to MacRumors. The new screen in Settings gives users an overview of what information their apps have access to and what they're sharing.
-<a href='https://www.theverge.com/2021/10/27/22749352/apple-app-privacy-report-ios-15-2-beta-feature'> Source <a/>

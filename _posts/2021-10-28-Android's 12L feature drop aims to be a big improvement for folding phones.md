@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BahZkfwglrHxvQWJkPm4rBEzd6Y=/0x0:4000x2661/1200x800/filters:focal(1680x1011:2320x1651)/cdn.vox-cdn.com/uploads/chorus_image/image/70052398/1234620007.0.jpg' width='700px' /><br/>
-At this year's Android Dev Summit, Google announced an upcoming update for devices with larger screens, which includes tablets, foldables, and devices that run ChromeOS. Google is calling the update 12L, and it's supposed to make Android 12 run smoother on big screens. We first heard the possibility of a “12.1” update in late September, and it looks like many of the rumored features are true.
-<a href='https://www.theverge.com/2021/10/27/22746599/android-12l-feature-drop-big-screens'> Source <a/>

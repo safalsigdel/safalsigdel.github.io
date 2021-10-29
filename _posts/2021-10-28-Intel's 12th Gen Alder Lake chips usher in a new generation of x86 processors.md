@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zR-PEW4Ixkdx4rIdtCVspHczYNo=/0x0:1925x1284/1200x800/filters:focal(809x488:1117x796)/cdn.vox-cdn.com/uploads/chorus_image/image/70052379/i9_Gaming_Desktop___Box_Shot.0.jpeg' width='700px' /><br/>
-Intel's 12th Gen Alder Lake chips have finally arrived, ushering in a new era of the company's chips, lead by the flagship Core i9-12900K CPU, which Intel promises is the “world's best gaming processor.”
-<a href='https://www.theverge.com/2021/10/27/22747271/intel-12th-gen-alder-lake-chips-hybrid-architecture-price-release-date-i9-12900k'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1DoRPJ-vNmZCNUXlvUSgb32fDdw=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/70058241/twitterspacesrecordingfull.0.jpg' width='700px' /><br/>
+Twitter is now allowing hosts of Twitter Spaces chats to record and share their broadcasts. The feature is starting to roll out to a limited number of Twitter Spaces hosts on iOS and should be available to all hosts “within a few weeks.” The feature lets hosts record a Twitter Spaces conversation and share the recording in a tweet.
+<a href='https://www.theverge.com/2021/10/28/22750341/twitter-spaces-recording-feature-sharing-option'> Source <a/>

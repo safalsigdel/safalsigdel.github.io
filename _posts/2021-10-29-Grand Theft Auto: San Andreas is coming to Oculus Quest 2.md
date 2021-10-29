@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/351Zn-AHuMFxIh_IZ2LOx4Ztl74=/0x0:2554x1434/1200x800/filters:focal(1073x513:1481x921)/cdn.vox-cdn.com/uploads/chorus_image/image/70058092/image.0.png' width='700px' /><br/>
+During Facebook Connect 2021, Mark Zuckerberg announced that Grand Theft Auto: San Andreas is in development for the Oculus Quest 2 virtual reality headset. No other details, like price, release date, or even a brief snippet of the game running, were shown during the event. There's a blog post up at Oculus' site that confirms that the game is coming. It says, “This is a project many years in the making, and we can't wait to show you more of it.”
+<a href='https://www.theverge.com/2021/10/28/22751009/grand-theft-auto-san-andreas-oculus-quest-2'> Source <a/>

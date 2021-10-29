@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DuqnGk8E40haTtEFReYqwci6ENc=/0x0:2672x1857/1200x800/filters:focal(1124x134:1550x560)/cdn.vox-cdn.com/uploads/chorus_image/image/70055756/Screen_Shot_2021_10_28_at_1.13.50_AM.0.png' width='700px' /><br/>
-A new support document released yesterday details a “Scale to fit below built-in camera” option in macOS that will forcibly scale apps to only use the display below the notch. It's a temporary workaround for apps that don't currently play nice with the notch on Apple's new MacBook Pros.
-<a href='https://www.theverge.com/2021/10/28/22750236/apple-macbook-pro-hide-notch-fix-scale-to-fit'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uNM3HtDcbxFPKu-JNcHiC0kZayk=/0x0:2326x1306/1200x800/filters:focal(1633x394:2005x766)/cdn.vox-cdn.com/uploads/chorus_image/image/70058030/Screen_Shot_2021_10_28_at_10.29.10.0.png' width='700px' /><br/>
+Facebook has announced the Active Pack, a set of fitness-focused accessories for the Oculus Quest 2 that are designed to help turn the VR headset into a piece of gym equipment.
+<a href='https://www.theverge.com/2021/10/28/22749648/active-pack-oculus-quest-2-fitness-workouts-sweat-hygiene'> Source <a/>
