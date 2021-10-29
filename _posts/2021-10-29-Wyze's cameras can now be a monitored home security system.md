@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/A3qiaK-ZUwJCNnydU4355V66XqI=/0x0:920x614/1200x800/filters:focal(387x234:533x380)/cdn.vox-cdn.com/uploads/chorus_image/image/70058302/a8Vs2OrA.0.jpg' width='700px' /><br/>
 Smart home company Wyze continues its tradition of making every small to medium-sized home appliance under the sun, announcing a slew of new products this week in honor of its fourth birthday.
-<a href='https://www.theverge.com/2021/10/28/22750594/wyze-cams-monitored-security-smart-switches-price-release-date-specs'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/A3qiaK-ZUwJCNnydU4355V66XqI=/0x0:920x614/1200x800/filters:focal(387x234:533x380)/cdn.vox-cdn.com/uploads/chorus_image/image/70058302/a8Vs2OrA.0.jpg' width='700px' /><br/>
-Smart home company Wyze continues its tradition of making every small to medium-sized home appliance under the sun, announcing a slew of new products this week in honor of its fourth birthday.
 <a href='https://www.theverge.com/2021/10/28/22750594/wyze-cams-monitored-security-smart-switches-price-release-date-specs'> Source <a/>
