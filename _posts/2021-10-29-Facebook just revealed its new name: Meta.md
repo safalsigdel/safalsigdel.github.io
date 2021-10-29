@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3FKchYpMOISRqN_QSOiuFWSbvVs=/0x0:1623x974/1200x800/filters:focal(683x358:941x616)/cdn.vox-cdn.com/uploads/chorus_image/image/70058386/meta.10.jpg' width='700px' /><br/>
-Facebook CEO Mark Zuckerberg announced Thursday at his company's Connect event that its new name will be Meta. “We are a company that builds technology to connect,” Zuckerberg said. “Together, we can finally put people at the center of our technology. And together, we can unlock a massively bigger creator economy.”
-<a href='https://www.theverge.com/2021/10/28/22745234/facebook-new-name-meta-metaverse-zuckerberg-rebrand'> Source <a/>
