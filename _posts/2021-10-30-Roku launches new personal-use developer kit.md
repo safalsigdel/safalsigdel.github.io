@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M-TJb54Agye_g1SsLqSYy5oxDX0=/0x0:1500x1100/1200x800/filters:focal(630x430:870x670)/cdn.vox-cdn.com/uploads/chorus_image/image/70064866/Roku_Streaming_Stick_4K.0.jpg' width='700px' /><br/>
+Roku is launching a new independent developer kit that will allow developers to “experiment with and customize their devices” in personal-use capacities. Roku says it hopes the IDK will lead to innovation around internet-of-things applications, such as connecting a Roku device to a thermostat or game development.
+<a href='https://www.theverge.com/2021/10/29/22753332/roku-independent-developer-kit-idk'> Source <a/>

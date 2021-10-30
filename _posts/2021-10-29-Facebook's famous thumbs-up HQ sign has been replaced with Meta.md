@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-8_mWcW0O69Y0VxTfjjpWpy-Ufc=/0x0:6056x4038/1200x800/filters:focal(2544x1535:3512x2503)/cdn.vox-cdn.com/uploads/chorus_image/image/70058609/verge_vjeran_pavic_meta_3_20211028.0.jpg' width='700px' /><br/>
-Facebook just announced that it will change its company name to Meta. The new name comes with a new logo, a blue M that looks kind of like a pretzel, and now that logo has replaced the iconic thumbs-up Like icon at the company's global headquarters in Menlo Park.
-<a href='https://www.theverge.com/2021/10/28/22751143/facebook-thumbs-up-like-meta-sign-global-headquarters-replaced'> Source <a/>

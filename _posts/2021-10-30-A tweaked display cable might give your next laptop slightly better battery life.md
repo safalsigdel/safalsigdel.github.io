@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6z3VylRVtc9gWY5g7nlztU4oWz4=/99x0:1818x1298/1200x800/filters:focal(942x486:1268x812)/cdn.vox-cdn.com/uploads/chorus_image/image/70063697/cfaulkner_200714_4098_0010.0.0.jpg' width='700px' /><br/>
+Don't you love standards? I do, for the most part, particularly when they're fixing things, and the new VESA Embedded DisplayPort 1.5 (or eDP 1.5 for short) looks likely to do that in future fancy-screened laptops. It's promising more power savings with adaptive-sync screens, OLED panels, and displays that come with their own embedded memory for the battery saving Panel Self-Refresh (PSR) feature.
+<a href='https://www.theverge.com/2021/10/29/22752899/vesa-displayport-edp-1-5-panel-self-refresh-oled-adaptive-sync'> Source <a/>

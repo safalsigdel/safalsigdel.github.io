@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/efoe4mb5y4vFsR4zEMpxe2cjLeA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70064741/acastro_180507_1777_microsoft_0002.0.jpg' width='700px' /><br/>
+Microsoft surpassed Apple's market cap on Friday to become the world's most valuable public company. The change follows Apple's Thursday earnings, where the company posted strong results but revealed that it lost $6 billion to supply chain constraints. On Tuesday, Microsoft also shared positive earnings boosted by Office, Windows, and its cloud products.
+<a href='https://www.theverge.com/2021/10/29/22753251/microsoft-apple-market-cap-business-valuable-company'> Source <a/>

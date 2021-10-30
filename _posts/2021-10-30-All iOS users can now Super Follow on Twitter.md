@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pmaC87xgI4LUA-01Pd_Jl1Z871M=/0x0:6354x3261/1200x800/filters:focal(730x366:1746x1382)/cdn.vox-cdn.com/uploads/chorus_image/image/70065143/Hero_image__1_.0.png' width='700px' /><br/>
+Twitter is allowing all iOS users to Super Follow select creators. The feature, first released in September and only available in the US and Canada, allows users to monetize their Twitter account and create exclusive content through monthly subscriptions.
+<a href='https://www.theverge.com/2021/10/29/22753072/twitter-super-follows-subscription-ios'> Source <a/>

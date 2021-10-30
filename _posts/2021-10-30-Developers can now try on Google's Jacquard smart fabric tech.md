@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gxze_cozbPLP9x0v1EylgV3SCrk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70063715/vpavic_171005_2036_0013.0.jpg' width='700px' /><br/>
+Google's Project Jacquard touch-sensitive fabric technology, first revealed at Google I/O in 2015, now has a way for interested third-party developers to integrate the tech with their own software via the new Jacquard SDK.
+<a href='https://www.theverge.com/2021/10/29/22752461/google-atap-fabric-tech-jacquard-sdk-released'> Source <a/>

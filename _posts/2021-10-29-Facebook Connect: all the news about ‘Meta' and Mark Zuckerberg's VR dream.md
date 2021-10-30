@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6Zdywfb4AbLTkU8A0khgWRkNhJg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70059232/DSCF7685.0.jpg' width='700px' /><br/>
-Facebook held its virtual reality labs Connect event on Thursday, where CEO Mark Zuckerberg announced that the company would be rebranding as Meta and showed off his vision of a metaverse that inspired the name change.
-<a href='https://www.theverge.com/22751328/facebook-meta-rebrand-metaverse-vr-ar-oculus-gta-horizion'> Source <a/>

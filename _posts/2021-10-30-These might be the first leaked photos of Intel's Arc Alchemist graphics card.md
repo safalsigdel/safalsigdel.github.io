@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6qquI72jvsHa1dLjrPxHBg9Z4xU=/0x0:2560x1345/1200x800/filters:focal(1055x221:1463x629)/cdn.vox-cdn.com/uploads/chorus_image/image/70065417/Intel_Arc_Alchemist_DG2_512EU_Reference_Card.0.jpg' width='700px' /><br/>
+Intel is building dedicated gaming graphics cards, due out in Q1 2022, and we may have just gotten our first look at the big one, the Arc Alchemist. Here are some leaked images from YouTuber Moore's Law is Dead (via Videocardz):
+<a href='https://www.theverge.com/2021/10/29/22753512/intel-arc-alchemist-leaked-photos-moores-law-dead-youtube'> Source <a/>

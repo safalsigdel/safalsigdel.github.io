@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0eDhh6oubbW_h_JS_uJQB_qV-XQ=/0x0:6899x5235/1200x800/filters:focal(2899x2067:4001x3169)/cdn.vox-cdn.com/uploads/chorus_image/image/70064815/finallayout.0.jpg' width='700px' /><br/>
+I can't say I expected there to be more news about Apple's $19 Screen Polishing cloth, but here we are. Not only has iFixit given it the teardown treatment and a (perhaps slightly tongue-in-cheek) repair score, but it's apparently become one of Apple's hardest-to-get products. And yes, to reiterate, we are still talking about a cloth made to clean your devices' screens.
+<a href='https://www.theverge.com/2021/10/29/22753184/ifixit-apple-polishing-cloth-19-repair-backorder'> Source <a/>
