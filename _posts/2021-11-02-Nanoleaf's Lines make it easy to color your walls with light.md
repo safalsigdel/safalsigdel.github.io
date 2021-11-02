@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/und4_xavZcBJrmwDGEN06JONqPU=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70079602/jtuohy_211027_4855_0005.0.jpg' width='700px' /><br/>
+Indoor lighting has gone from functional to fun in the last few years, whether that involves simply screwing in a couple smart light bulbs or adding complicated, colorful effects that can change the entire mood of your home. Nanoleaf is one of many companies forging ahead with innovative, colorful smart lighting products, and its latest offering — the $199 Nanoleaf Lines — might just be the most entertaining yet.
+<a href='https://www.theverge.com/22758017/nanoleaf-lines-review-smart-light-bars'> Source <a/>
