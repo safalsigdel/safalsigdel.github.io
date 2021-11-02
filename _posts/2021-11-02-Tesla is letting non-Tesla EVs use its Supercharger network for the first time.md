@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-ETWCErES1TJWgLSrlLRao4zvc4=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/70074591/akrales_160419_1019_A_0257.0.0.png' width='700px' /><br/>
-Tesla launched a pilot project in the Netherlands this week in which non-Tesla electric vehicles will be allowed to use its Supercharger network, representing the first time that the automaker is opening up its proprietary charging stations to EVs from other companies.
-<a href='https://www.theverge.com/2021/11/1/22757159/tesla-supercharge-ev-pilot-netherlands'> Source <a/>

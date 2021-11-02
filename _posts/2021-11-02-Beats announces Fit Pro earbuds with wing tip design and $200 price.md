@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CXrxaVcat57SX9-TGAv4cgGmSb4=/0x0:1419x1024/1200x800/filters:focal(597x399:823x625)/cdn.vox-cdn.com/uploads/chorus_image/image/70074055/_BeatsFitPro_4FAM_Lifestyle_0036_WEB_v4.0.png' width='700px' /><br/>
-Beats today announced its latest wireless earbuds, the $199.99 Beats Fit Pro. The new product slots into the Apple-owned brand's lineup between the Studio Buds, which were released earlier this year, and the Powerbeats Pro / Powerbeats. The Fit Pros have active noise cancellation, IPX4 water and sweat resistance, and up to seven hours of continuous playback (or 30 hours of total listening when you include case recharges).
-<a href='https://www.theverge.com/2021/11/1/22753187/beats-fit-pro-announced-features-price'> Source <a/>

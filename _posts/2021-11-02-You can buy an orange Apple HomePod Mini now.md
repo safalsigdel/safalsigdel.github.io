@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2hrZh_jU7ryRpOA1FfN-3eLnmHY=/0x0:980x551/1200x800/filters:focal(412x198:568x354)/cdn.vox-cdn.com/uploads/chorus_image/image/70074128/apple_minis.0.jpg' width='700px' /><br/>
-You can now buy Apple's HomePod Mini in new colors yellow, orange, and blue (in addition to the standard white and space gray), and the $99.99 devices are available for in-store pickup today. Apple announced the new colors at its October Unleashed event, where it unveiled its new MacBook Pro models.
-<a href='https://www.theverge.com/2021/11/1/22754598/apple-homepod-mini-on-sale-yellow-orange-blue'> Source <a/>
