@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/52aXhBxCcMDtb80YGp6fc3Wrbyo=/0x0:815x588/1200x800/filters:focal(343x229:473x359)/cdn.vox-cdn.com/uploads/chorus_image/image/70076588/ecobee_thermostat_new_glass.0.jpg' width='700px' /><br/>
+Toronto-based smart home thermostat startup Ecobee is being acquired by Generac Holdings for $770 million, the companies announced Monday.
+<a href='https://www.theverge.com/2021/11/1/22758128/ecobee-acquired-generator-company-generac-smart-home-thermostat'> Source <a/>

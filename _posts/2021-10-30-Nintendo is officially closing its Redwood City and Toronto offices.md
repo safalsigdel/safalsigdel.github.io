@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LXWnO6lYkdFrje2KGEjxp0h9-GE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70065347/acastro_190530_1777_nintendo_0001.0.0.jpg' width='700px' /><br/>
-Nintendo is closing its Redwood City, California and Toronto, Canada offices, the company confirmed in a statement to The Verge. Kotaku reported on the closure of the Redwood City offices earlier on Friday.
-<a href='https://www.theverge.com/22753434/nintendo-closes-redwood-city-offices-california-toronto-canada'> Source <a/>

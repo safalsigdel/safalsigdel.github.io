@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Vj-NPURgkZTcka1oNdwuv9aFHTg=/0x0:1250x734/1200x800/filters:focal(525x267:725x467)/cdn.vox-cdn.com/uploads/chorus_image/image/70061270/Screen_Shot_2021_05_18_at_10.46.16_AM.0.png' width='700px' /><br/>
-Google is expanding several of its privacy and security features including Google Photos' secure Locked Folder feature, the VPN offered alongside Google One, and the Pixel's new centralized security hub. The plans were detailed in a blog post rounding up the company's security initiatives.
-<a href='https://www.theverge.com/2021/10/29/22752239/google-photos-locked-folder-one-vpn-security-hub'> Source <a/>

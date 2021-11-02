@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-iSG2hJdbqJtS4TeebPonL3w2-I=/0x0:8393x5595/1200x800/filters:focal(3526x2127:4868x3469)/cdn.vox-cdn.com/uploads/chorus_image/image/70063961/1236143330.0.jpg' width='700px' /><br/>
-Rep. Alexandria Ocasio-Cortez (D-NY) called Facebook a “cancer to democracy” in a tweet on Thursday shortly after the company announced that it was changing its corporate name to Meta to better represent its focus on building the metaverse.
-<a href='https://www.theverge.com/2021/10/29/22753046/facebook-meta-aoc-instagram-rebrand-france-haugen-blumenthal'> Source <a/>

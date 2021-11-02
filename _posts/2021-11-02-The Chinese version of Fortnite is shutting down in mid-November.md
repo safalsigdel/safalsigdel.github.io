@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yWd0BBUC5Sh-5cqiTKhM3kIB9uk=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70076715/1232034451.0.jpg' width='700px' /><br/>
+Epic Games, the developer behind Fortnite, is shutting down the battle royale in China in mid-November (via CNET). A translated post on Fortnite's website reveals that the “test” of the game “has come to an end.”
+<a href='https://www.theverge.com/2021/11/1/22758154/china-fortnite-shut-down-november'> Source <a/>

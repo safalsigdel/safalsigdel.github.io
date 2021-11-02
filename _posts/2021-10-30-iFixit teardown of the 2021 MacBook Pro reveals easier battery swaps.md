@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AF3fFxitwNLtCJZaeGQ000KW_j4=/0x0:7360x4912/1200x800/filters:focal(3092x1868:4268x3044)/cdn.vox-cdn.com/uploads/chorus_image/image/70064758/MBP_M1_2021_42e3.0.jpg' width='700px' /><br/>
-Online tech repair guide and parts retailer iFixit has published its latest teardown for the new 2021 MacBook Pro and reveals at least one small win for reparability: the ability to replace the battery pack modules.
-<a href='https://www.theverge.com/2021/10/29/22753063/macbook-pro-ifixit-teardown-battery-swaps-pull-tabs'> Source <a/>

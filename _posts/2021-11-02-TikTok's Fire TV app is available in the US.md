@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZMU-oYBzPQYuVAzAGBA0bbZCr3w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70075553/acastro_200803_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
+TikTok is making its way to Fire TVs in the US and Canada, according to a blog post from Amazon. This comes just four months after TikTok launched a Fire TV app in the UK, France, and Germany — a TikTok representative confirmed to The Verge that the US version is the same. Once you download TikTok from the Amazon Appstore, you can open the app by simply saying, “Alexa, open TikTok.”
+<a href='https://www.theverge.com/2021/11/1/22757449/tiktok-fire-tv-app-available-us'> Source <a/>

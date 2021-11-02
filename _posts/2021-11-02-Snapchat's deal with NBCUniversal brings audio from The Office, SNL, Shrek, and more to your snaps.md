@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1xSAtq4xsFlaG_R6S4E6uEWKfIA=/0x0:3840x2159/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70074593/Snapchat_Sounds_x_NBCU.0.jpg' width='700px' /><br/>
+Snapchat's newly signed deal with NBCUniversal will bring audio from The Office, Bridesmaids, Parks and Recreation, Saturday Night Live, and more to the platform (via The Hollywood Reporter). Users can add the audio clips to their snaps — just like TikTok — and then send them to their friends.
+<a href='https://www.theverge.com/2021/11/1/22757095/snapchat-nbcuniversal-audio-office-snl-shrek-tiktok'> Source <a/>

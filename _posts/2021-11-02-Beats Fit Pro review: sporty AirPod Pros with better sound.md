@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ReAPJGC0hugCYIAuHdgecXv2nW8=/0x0:2040x1360/1200x675/filters:focal(731x702:1057x1028)/cdn.vox-cdn.com/uploads/chorus_image/image/70074068/DSCF6022_Edited.0.jpg' width='700px' /><br/>
+Beats has been busy. After releasing the Studio Buds earlier this year, today the Apple-owned brand is back with the more premium Beats Fit Pro wireless earbuds. It's unusual to see two completely new products from Beats in a single year, but perhaps the company is trying to make a point that it's not idly sitting by and playing second fiddle to Apple's AirPods and AirPods Pro. If anything, the $200 Fit Pros demonstrate that Beats has found its focus.
+<a href='https://www.theverge.com/22753158/beats-fit-pro-earbuds-review-apple'> Source <a/>

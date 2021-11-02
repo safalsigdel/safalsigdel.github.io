@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CQqHW3xu2r-2e-1aRRG7sMPS74o=/0x0:3000x2000/1200x800/filters:focal(1281x611:1761x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/70065059/verge_vjeran_pavic_meta_3_20211028_3000.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where co-hosts Nilay Patel and Dieter Bohn discuss the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/2021/10/29/22753317/vergecast-facebook-meta-pixel-6-macbook-pro-review'> Source <a/>

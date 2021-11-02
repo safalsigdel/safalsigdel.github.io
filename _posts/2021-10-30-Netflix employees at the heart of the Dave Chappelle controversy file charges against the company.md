@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sFxH-ERfVoRdY7T14fslg8ppbbM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70064780/acastro_211025_1777_netflix_0001.0.jpg' width='700px' /><br/>
-Two Netflix employees at the heart of the Dave Chappelle controversy have filed labor charges against the company, alleging the streaming giant retaliated against them for engaging in protected activity.
-<a href='https://www.theverge.com/2021/10/29/22751847/netflix-employees-dave-chappelle-file-charges-nlrb'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ghHDbe1wk9HPYbPMV5y7SaNeKdM=/0x0:4928x3280/1200x800/filters:focal(2070x1246:2858x2034)/cdn.vox-cdn.com/uploads/chorus_image/image/70062349/1233713968.0.jpg' width='700px' /><br/>
-Cricket Wireless suddenly has several more options if you're looking for access to 5G on a prepaid wireless plan. That's because starting today, it will offer nationwide 5G access across all of its plans, which launched a year ago with support for only one device and only on its more expensive unlimited plans. Cricket Wireless also revealed it's added 2 million customers in the last two years and is now serving some 12.4 million subscribers.
-<a href='https://www.theverge.com/2021/10/29/22752383/cricket-wireless-5g-att-mvno-speed-limit'> Source <a/>

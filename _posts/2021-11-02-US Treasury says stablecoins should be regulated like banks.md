@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tXWDHS3xIuz2fRWZ3wMSHI9_RWQ=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70076241/acastro_170726_1777_0008.0.jpg' width='700px' /><br/>
+The US Treasury Department is urging Congress to pass legislation that would require stablecoins to be issued by banks subject to federal banking laws in a new report (.pdf) from the President's Working Group on Financial Markets, a panel headed by Treasury Secretary Janet Yellen.
+<a href='https://www.theverge.com/2021/11/1/22757899/us-treasury-stablecoins-regulated-banks-cryptocurrency-yellen-congress'> Source <a/>

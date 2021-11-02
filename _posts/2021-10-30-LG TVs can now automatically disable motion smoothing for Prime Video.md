@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d5lnOm4CNmqCkWHS9yodZbEUJEM=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/70061414/LG_Amazon_FFM.0.jpg' width='700px' /><br/>
-LG's 2020 and 2021 4K and 8K TVs can now turn on Filmmaker Mode automatically when you're watching content from Amazon's Prime Video streaming service, LG has announced. Filmmaker mode was launched in 2019 as a convenient way to turn off picture processing features like motion smoothing and image sharpening, which can create a horrid unnatural look often referred to as the “soap opera effect.”
-<a href='https://www.theverge.com/2021/10/29/22752280/lg-tvs-filmmaker-mode-prime-video-automatic-switching'> Source <a/>

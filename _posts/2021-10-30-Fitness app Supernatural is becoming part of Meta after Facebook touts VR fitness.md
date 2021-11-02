@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OVC3tIUcQ8jDlflzUJVS2sFnXk4=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70065320/Boxing_MR.0.png' width='700px' /><br/>
-Meta has announced that the studio behind VR workout game Supernatural will be joining the company, adding to the roster of studios owned by what used to be known as Facebook's Oculus division. The company says that Within, the company behind Supernatural, will continue to work on the popular fitness app and will also help Meta's Reality Labs “enhance future hardware to support VR fitness apps.”
-<a href='https://www.theverge.com/2021/10/29/22753403/supernatural-within-studio-facebook-meta-oculus-vr-fitness-experiences-metaverse'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8cp8lBEpPS2bEsQLNxthDoykXHY=/0x0:3989x2880/1200x800/filters:focal(1676x1121:2314x1759)/cdn.vox-cdn.com/uploads/chorus_image/image/70076487/1326376580.0.jpg' width='700px' /><br/>
+Chris Pratt's next big role has been revealed: he'll voice Garfield in a new animated film based on the famous comic strip cat, according to The Hollywood Reporter.
+<a href='https://www.theverge.com/2021/11/1/22758214/chris-pratt-garfield-movie-mario'> Source <a/>

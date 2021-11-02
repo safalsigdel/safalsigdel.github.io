@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZJoz3zmLi_OS9z--usm6mJj2mYs=/0x0:5568x3712/1200x800/filters:focal(2339x1411:3229x2301)/cdn.vox-cdn.com/uploads/chorus_image/image/70076353/DSC_9414.0.jpg' width='700px' /><br/>
+Apple is reportedly working on a new iPhone and Apple Watch feature that detects if you're in a car crash and dials 911 automatically. The current plan is to roll out such a feature next year, according to The Wall Street Journal.
+<a href='https://www.theverge.com/2021/11/1/22757102/apple-iphone-car-crash-detection-feature-onstar'> Source <a/>

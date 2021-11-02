@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tt7LLfUDaMH4Iol0TPJr_-bEtNs=/0x0:2404x1602/1200x800/filters:focal(1010x609:1394x993)/cdn.vox-cdn.com/uploads/chorus_image/image/70076380/tesla_j1772.0.jpg' width='700px' /><br/>
+Tesla has launched a new at-home wall charger that works with other electric vehicles, as spotted by Electrek. The new Level 2 wall charger was quietly added to the company's online store on the same day it started allowing non-Tesla EVs to charge at Supercharger stations in the Netherlands — the first step in a much larger plan to open up access to Tesla's charging network around the world.
+<a href='https://www.theverge.com/2021/11/1/22758131/tesla-j1772-level-2-home-charger-evs-compatibility'> Source <a/>

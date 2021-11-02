@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/duLGkT2_9mgCGTG6IgRDbnJ5n64=/0x0:1740x488/1200x0/filters:focal(0x0:1740x488):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22966410/Screen_Shot_2021_10_29_at_2.06.53_PM.png' width='700px' /><br/>
-Old snake hips, Mick Jagger, has met his robotic match. Boston Dynamics has released a tribute to The Rolling Stones' iconic music video for their 1981 hit “Start Me Up,” with band members replaced by the company's quadrupedal Spot robots.
-<a href='https://www.theverge.com/2021/10/29/22752389/boston-dynamics-spot-robot-dog-dancing-rolling-stones-start-me-up'> Source <a/>

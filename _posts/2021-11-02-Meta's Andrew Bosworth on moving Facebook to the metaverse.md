@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ffrKCk7dnuRCdO-ozpOR7jmNGgc=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70073882/VRG_ILLO_Decoder_AndrewBosworth_s.0.jpg' width='700px' /><br/>
+Last week, Facebook announced a major corporate rebrand by changing its company name to Meta. As CEO Mark Zuckerberg told The Verge, the new name is meant to solidify the social media giant's long-term bet on building the metaverse.
+<a href='https://www.theverge.com/22752986/meta-facebook-andrew-bosworth-interview-metaverse-vr-ar'> Source <a/>

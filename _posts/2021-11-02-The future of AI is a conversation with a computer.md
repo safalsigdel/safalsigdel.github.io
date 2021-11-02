@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lc9ktgDKGzh57msl5uEyZRBh16g=/0x0:1080x1920/1200x675/filters:focal(551x932:723x1104)/cdn.vox-cdn.com/uploads/chorus_image/image/70073884/VRG_ILLO_4851_10_Year_ai.0.jpg' width='700px' /><br/>
+How would an AI writing program start an article on the future of AI writing? Well, there's one easy way to find out: I used the best known of these tools, OpenAI's GPT-3, to do the job for me.
+<a href='https://www.theverge.com/22734662/ai-language-artificial-intelligence-future-models-gpt-3-limitations-bias'> Source <a/>
