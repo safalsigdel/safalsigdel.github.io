@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z_fdscwsfVHPlkgRSy9hPR5GF1Y=/0x0:2925x1950/1200x800/filters:focal(1229x741:1697x1209)/cdn.vox-cdn.com/uploads/chorus_image/image/70078604/bbcpodcasts.0.jpg' width='700px' /><br/>
+Wow, November 2nd. Can you believe it's Christmas already?!
+<a href='https://www.theverge.com/2021/11/2/22759039/apple-subscription-podcast-partners-bbc-studios-slate'> Source <a/>
