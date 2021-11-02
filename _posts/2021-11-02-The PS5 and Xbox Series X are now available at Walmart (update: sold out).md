@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4EcKLtMy-lgDIfUmrhUp6NgXcfM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70075551/acastro_210511_1777_psRestock_0004.0.jpg' width='700px' /><br/>
-Walmart's latest PS5 and Xbox Series X restocking event appears to be over. All of the three consoles link to dead pages, so we'll take that as a good indicator that it's wrapped up. We'll be keeping a look out for other restocks.
-<a href='https://www.theverge.com/2021/11/1/22639399/sony-playstation-ps5-xbox-series-x-console-disc-digital-edition-restock-walmart'> Source <a/>

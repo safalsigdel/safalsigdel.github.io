@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1abT_vb7mayFGBZJ90Do5sQecXY=/0x0:1558x874/1200x800/filters:focal(655x313:903x561)/cdn.vox-cdn.com/uploads/chorus_image/image/70079373/3EPTdvX.0.png' width='700px' /><br/>
+Microsoft is launching the stable version of its Edge browser for Linux this week. While preview versions of Edge for Linux have been available for more than a year, the official launch will now see Edge supported fully on Linux with regular stable channel updates.
+<a href='https://www.theverge.com/2021/11/2/22759123/microsoft-edge-linux-stable-channel'> Source <a/>

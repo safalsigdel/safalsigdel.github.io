@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rm_o6m7GzdATTQkgRVgHBlkaOgY=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70079363/oZ667Nh.0.jpeg' width='700px' /><br/>
+The biggest change to Microsoft's Office documents in decades is expanding into Microsoft Loop, a hub for a new way of working in Office. Microsoft Loop is the new branding for Microsoft's Fluid work, blocks of collaborative Office content that can live independently and be copied, pasted, and shared with others.
+<a href='https://www.theverge.com/2021/11/2/22758951/microsoft-loop-fluid-components-office-collaboration-app'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T5aJ5wDRTeV3kgJgx3x9_qZggKs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70079357/acastro_180507_1777_microsoft_0003.0.jpg' width='700px' /><br/>
+It's the AI system once deemed too dangerous to release to the public by its creators. Now, Microsoft is making an upgraded version of the program, OpenAI's autocomplete software GPT-3, available to business customers as part of its suite of Azure cloud tools.
+<a href='https://www.theverge.com/2021/11/2/22758963/microsoft-openai-gpt-3-azure-cloud-service-ai-language'> Source <a/>

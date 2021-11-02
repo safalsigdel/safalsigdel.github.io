@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-0mWdH79SbaMDltmTeyRt7UTz7A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70079333/acastro_180226_0001.0.jpg' width='700px' /><br/>
+Microsoft Excel used to only allow two types of data: text and numbers. After overhauling Excel with its own live custom data types last year, Microsoft is opening up Excel to give developers the freedom to create their own custom data types that can contain images, arrays, and more.
+<a href='https://www.theverge.com/2021/11/2/22759149/microsoft-excel-javascript-api-custom-data-types-feature'> Source <a/>
