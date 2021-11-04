@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6yw_SclGNSL6r3jTd-bUlmVEHRQ=/0x0:2040x1360/1200x675/filters:focal(877x742:1203x1068)/cdn.vox-cdn.com/uploads/chorus_image/image/70086231/jporter_211018_4805_0005.0.jpg' width='700px' /><br/>
-A Stack Overflow-branded keyboard with just three buttons (Ctrl, C, and V) is a great April Fools' gag that has no business being as neat and useful as it is. And yet Stack Overflow and manufacturer Drop have managed to turn The Key into a surprisingly competent little $29 accessory.
-<a href='https://www.theverge.com/22761188/stack-overflow-the-key-copy-paste-review-price-release-date-keyboard'> Source <a/>

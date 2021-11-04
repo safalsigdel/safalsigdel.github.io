@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IWwIht403Ne727UdZL05rpu5stA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70091637/cfaulkner_210921_4751_0013.0.jpg' width='700px' /><br/>
+Nintendo had a relatively quiet quarter for Switch sales, with 3.83 million units shipped between July and September. That's a big drop on the same period last year, when the company moved 6.86 million units. Nintendo has now sold 92.87 million Switch consoles to date.
+<a href='https://www.theverge.com/2021/11/4/22762933/nintendo-earnings-q2-2021-switch-sales-forecast'> Source <a/>
