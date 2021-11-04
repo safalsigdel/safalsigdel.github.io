@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J_s7dIT_MYV7JY93TTeYxsiKgiM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70076245/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
-Amazon is lifting its mask mandate for fully vaccinated warehouse workers in the US (via CNBC). The company reportedly sent out a notice to operations employees, stating that vaccinated workers are no longer required to wear masks starting November 2nd. Masks will still be required if state or local laws mandate them, however.
-<a href='https://www.theverge.com/2021/11/1/22757927/amazon-lifts-mask-mandates-vaccinated-warehouse-employees'> Source <a/>

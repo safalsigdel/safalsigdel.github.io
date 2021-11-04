@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WcGX7_7_AlJy3BdS8VkxqflE6e0=/0x0:2382x1340/1200x800/filters:focal(1001x480:1381x860)/cdn.vox-cdn.com/uploads/chorus_image/image/70087069/FDSQYWzVgAA0cEV.0.jpeg' width='700px' /><br/>
+The ice is thawing on a nine-year internet feud. When you share Instagram links on Twitter, you'll see a preview of the link that includes an image instead of just the URL text starting on Wednesday. The feature is rolling out on Android, iOS, and the web. I didn't see a preview when I tried sharing an Instagram post on my Twitter feed, so it might not work for you just yet.
+<a href='https://www.theverge.com/2021/11/3/22761713/instagram-twitter-link-card-previews'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FQYkHPnTwvswRYWw7a-Wklr8_PA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70086775/acastro_211103_1777_tugnstenCube_0001.0.jpg' width='700px' /><br/>
+What's 14.545 inches across, weighs one ton (around 907kg or 2,000lbs), and just sold to a group of anonymous crypto investors for roughly $250,000? Why, it's the biggest tungsten cube ever to be manufactured by Midwest Tungsten Service of Willowbrook, Illinois.
+<a href='https://www.theverge.com/2021/11/3/22761305/tungsten-cube-meme-nft-crypto-midwest'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/79PxIhSOnIYsZYUzwdIFCEwZdzg=/0x0:6016x4000/1200x800/filters:focal(2527x1519:3489x2481)/cdn.vox-cdn.com/uploads/chorus_image/image/70086841/The_Xbox_360_Forum_Mid_01_1.0.jpg' width='700px' /><br/>
+Microsoft is continuing to celebrate the 20th anniversary of the Xbox in style this year with a second themed Adidas sneaker: the Xbox 360 Forum Mid, which, as the name suggests, is inspired by the company's second console.
+<a href='https://www.theverge.com/2021/11/3/22761354/adidas-sneaker-xbox-360-design-anniversary-microsoft'> Source <a/>

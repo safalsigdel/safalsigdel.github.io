@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Mnro2LofsSOJ5btEdJasJGi6Gs0=/0x0:5487x3659/1200x800/filters:focal(2306x1392:3182x2268)/cdn.vox-cdn.com/uploads/chorus_image/image/70078635/Tempo_Move_Lifestyle_04.0.jpg' width='700px' /><br/>
-Tempo, the smart home gym that uses computer vision to track your workouts and offer guidance in real time, has gone on a diet. Today it's launching the Tempo Move, a new home workout setup that ditches the original's 42-inch touchscreen with Microsoft's Azure Kinect sensors built in, in favor of using existing TVs combined with the sensors built into the iPhone XS / XR and up.
-<a href='https://www.theverge.com/2021/11/2/22758939/tempo-move-iphone-smart-home-gym-workout-tracker-live-classes'> Source <a/>

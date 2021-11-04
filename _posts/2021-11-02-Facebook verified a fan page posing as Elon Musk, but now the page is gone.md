@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xx2sIT6UK2FFnBR5IHUpEypPZjo=/0x0:910x560/1200x800/filters:focal(383x208:527x352)/cdn.vox-cdn.com/uploads/chorus_image/image/70075820/Screen_Shot_2021_11_01_at_11.10.57_AM.0.png' width='700px' /><br/>
-A Facebook fan page for Elon Musk with 153,000 followers had been verified as the official page representing the Tesla Technoking — in violation of Facebook's own rules — but sometime after we first published this story on Monday, the page became inaccessible. It's unclear if Facebook took it down or the owners chose to make it unavailable.
-<a href='https://www.theverge.com/2021/11/1/22757771/meta-facebook-elon-musk-verified-fan-page-posing'> Source <a/>

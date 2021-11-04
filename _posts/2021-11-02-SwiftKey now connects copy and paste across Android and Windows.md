@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/N-DpLS7HnOQ3_jKOtgQsIrFxqrY=/0x0:2560x1696/1200x800/filters:focal(1076x644:1484x1052)/cdn.vox-cdn.com/uploads/chorus_image/image/70079193/twarren__windows11main_1.0.jpg' width='700px' /><br/>
-Microsoft SwiftKey is getting a handy new feature that syncs your clipboard across Android and Windows devices (via MSPoweruser). So if you use SwiftKey on your Android device, you'll be able to paste any text you've copied on your Windows computer (and vice versa).
-<a href='https://www.theverge.com/2021/11/2/22759034/swiftkey-copy-paste-android-windows'> Source <a/>

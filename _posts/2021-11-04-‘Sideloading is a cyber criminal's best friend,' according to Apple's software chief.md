@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hNWZGQkz5NDSYBzGVUiN6jkb2ZU=/0x0:770x428/1200x800/filters:focal(324x153:446x275)/cdn.vox-cdn.com/uploads/chorus_image/image/70087805/Screen_Shot_2021_11_03_at_9.59.39_AM.0.png' width='700px' /><br/>
+“Sideloading is a cyber criminal's best friend and requiring that on iPhone would be a gold rush for the malware industry,” according to Apple senior vice president Craig Federighi, who delivered a dramatic speech at Web Summit 2021 declaiming the security risks if Apple were required to let users sideload apps.
+<a href='https://www.theverge.com/2021/11/3/22761724/apple-craig-federighi-ios-sideloading-web-summit-2021-european-commission-digital-markets-act'> Source <a/>

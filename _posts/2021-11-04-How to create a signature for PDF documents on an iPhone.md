@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/51O_QlPSR_UU-zlQJfaopWQtcSs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70087982/akrales_210917_4760_0361.0.jpg' width='700px' /><br/>
+More and more official papers are being turned into PDF documents, and you may be asked to sign one electronically while you're away from your computer (here, by the way, is how to sign a PDF document using a Mac or a PC). If you're using an iPhone, it's actually not all that difficult; you can create a signature and reuse it by using the iPhone's built-in Markup tool.
+<a href='https://www.theverge.com/22761773/iphone-apple-pdf-signature-markup-how-to'> Source <a/>

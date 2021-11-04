@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vPYSyVucp7YL1neezw6lTZCREFs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70078723/akrales_210226_4440_0022.5.jpg' width='700px' /><br/>
-One of our favorite gaming laptops, the Asus ROG Zephyrus G15, is currently available for its lowest price ever at Best Buy. And this is the model to get, as it features an RTX 3070 graphics chip, 1TB of NVMe SSD storage, and 16GB of RAM. Topping it all off, the laptop is powered by an AMD Ryzen 9 5900HS processor, and it has a 1440p display with a 165Hz refresh rate.
-<a href='https://www.theverge.com/good-deals/2021/11/2/22757246/asus-zephyrus-g15-msi-gaming-laptop-xbox-game-pass-microsoft-deal-sale'> Source <a/>

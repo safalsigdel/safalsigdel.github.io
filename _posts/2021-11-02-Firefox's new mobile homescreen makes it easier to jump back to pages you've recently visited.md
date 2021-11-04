@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b9XYoOMfGd4QjZDfPYRri-hD-GA=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/70078679/Untitled_1.5.png' width='700px' /><br/>
-Mozilla is updating the homescreen on its Firefox mobile apps to help you more easily jump back to pages you had viewed recently. With Firefox 94, which will be available Tuesday, you'll be able to see things like your last open tab, recently-viewed bookmarks, and recent searches grouped by topic right on the mobile homescreen. You can get an idea of what it looks like in this image from Mozilla:
-<a href='https://www.theverge.com/2021/11/2/22758289/firefox-94-new-mobile-homescreen-mozilla'> Source <a/>

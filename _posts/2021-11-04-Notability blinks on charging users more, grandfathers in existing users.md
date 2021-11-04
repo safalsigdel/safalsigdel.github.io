@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qPDdh7bFZj9KRJqQC9qcPqfBZ3I=/0x0:1190x462/1200x800/filters:focal(491x134:681x324)/cdn.vox-cdn.com/uploads/chorus_image/image/70088693/1_iEH2dk4j_BQBsS4oYrXZZQ.0.png' width='700px' /><br/>
+Notability developer Ginger Labs announced today that, in a change of heart, its popular note-taking app wouldn't eventually require current users to switch to a subscription model. This news comes just two days after the developer announced a new subscription model where current app owners who wanted to keep the same features would be forced to start a $14.99 / month subscription by November 1st, 2022.
+<a href='https://www.theverge.com/2021/11/3/22761662/notability-notes-ginger-labs-subscription-rollback-apology'> Source <a/>

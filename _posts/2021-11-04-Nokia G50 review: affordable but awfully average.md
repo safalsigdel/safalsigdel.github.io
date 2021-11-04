@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SK6XI_V-6kcmXnQLkS8goxyZDjw=/0x0:2040x1368/1200x675/filters:focal(857x521:1183x847)/cdn.vox-cdn.com/uploads/chorus_image/image/70086665/akrales_211015_4805_0076.0.jpg' width='700px' /><br/>
+Finding a good budget 5G phone seems as elusive as finding a unicorn these days. Not only do manufacturers have to keep the price as low as possible, but the device also has to pull off some advanced 5G-compatible technologies. No wonder phone makers tend to compromise on other components, and the overall experience takes a hit as a result.
+<a href='https://www.theverge.com/22760873/nokia-g50-review-mobile-5g-sub6hz-android-smartphone'> Source <a/>

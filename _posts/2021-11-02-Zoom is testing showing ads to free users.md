@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ofWymyrosize06jt-D0yU8zQlNA=/0x0:1152x768/1200x800/filters:focal(484x292:668x476)/cdn.vox-cdn.com/uploads/chorus_image/image/70078551/ads_image.0.jpg' width='700px' /><br/>
-Zoom is piloting showing ads to users on its free “Basic” tier, the company has announced in a blog post. Ads will appear on the browser page shown to users at the end of a call. Zoom says ads are being rolled out to free users in “certain countries,” though its blog post doesn't detail exactly which these are. Users on the service's Basic tier will only see ads if they join a meeting hosted by another Basic tier user.
-<a href='https://www.theverge.com/2021/11/2/22759014/zoom-free-tier-ads-browser-advertising-pilot'> Source <a/>

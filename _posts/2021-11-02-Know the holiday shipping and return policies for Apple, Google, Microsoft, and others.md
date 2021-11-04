@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gy_k4tRX5CyYKljSqa3LNZWKAo8=/0x0:900x460/1200x800/filters:focal(378x158:522x302)/cdn.vox-cdn.com/uploads/chorus_image/image/67804923/experience_stores_middle_row1.0.0.jpg' width='700px' /><br/>
-With the holiday season right around the corner, everyone is double-checking their lists and figuring out the best places to fulfill those orders. Thankfully, there are often a number of options when it comes to retailers that have what you want. Because of this, online retailers aren't just dropping prices to compete with each other, but offering more generous shipping and return policies for their products.
-<a href='https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon'> Source <a/>

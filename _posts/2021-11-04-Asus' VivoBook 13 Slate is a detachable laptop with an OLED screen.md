@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aox5YNEYdKIbKdyuxLLsGxQm9i8=/572x428:3162x1988/1200x800/filters:focal(1470x887:2030x1447)/cdn.vox-cdn.com/uploads/chorus_image/image/70086432/Vivobook_13_Slate_OLED_T3300_Entertainment.0.jpg' width='700px' /><br/>
+Asus is known for delving into unconventional form factors, and its latest experiment is no exception. The VivoBook 13 Slate OLED is a 13.3-inch Windows tablet with an OLED screen and a detachable keyboard which starts at $599.99.
+<a href='https://www.theverge.com/2021/11/3/22761276/asus-vivobook-13-slate-oled-price-release-date-features-screen-stylus'> Source <a/>

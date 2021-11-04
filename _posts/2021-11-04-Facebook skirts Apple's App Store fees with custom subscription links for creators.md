@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NH0k2u1cFO-5VU0RKoZjqoWHV-w=/0x0:900x900/1200x800/filters:focal(378x378:522x522)/cdn.vox-cdn.com/uploads/chorus_image/image/70087033/250777847_389387596230472_4377046633797999619_n.0.jpg' width='700px' /><br/>
+Facebook has found a way to skirt Apple's 30 percent tax on in-app transactions.
+<a href='https://www.theverge.com/2021/11/3/22761620/facebook-apple-app-store-fees-subscription-links-creators'> Source <a/>

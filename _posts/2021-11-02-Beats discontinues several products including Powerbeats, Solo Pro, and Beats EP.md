@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5DS0tLlwD---DQ73SIR65WtyFws=/0x0:2040x1360/1200x800/filters:focal(934x643:1260x969)/cdn.vox-cdn.com/uploads/chorus_image/image/70076810/cwelch_191024_3759_0007.0.jpg' width='700px' /><br/>
-On the same day that it announced the new $200 Fit Pro earbuds, which are receiving universal praise in early reviews, Apple's Beats brand is thinning out the rest of its product lineup.
-<a href='https://www.theverge.com/2021/11/1/22758312/apple-discontinues-solo-pro-powerbeats-beats-ep'> Source <a/>

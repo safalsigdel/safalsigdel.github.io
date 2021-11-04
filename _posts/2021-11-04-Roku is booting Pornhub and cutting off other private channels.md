@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T_KS9n5wUF1sjgpSDz0qxZdV9aU=/0x0:2040x1360/1200x800/filters:focal(673x480:999x806)/cdn.vox-cdn.com/uploads/chorus_image/image/70088431/cwelch_20210428_4565_0003.5.jpg' width='700px' /><br/>
+After Roku announced last week that it will soon remove non-certified channels from its service, it appears the change will close a loophole that allowed apps like Pornhub to exist on the platform.
+<a href='https://www.theverge.com/2021/11/3/22762236/pornhub-roku-private-channels-march-2022'> Source <a/>

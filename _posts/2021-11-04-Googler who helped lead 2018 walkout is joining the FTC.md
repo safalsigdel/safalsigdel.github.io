@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kSmw5cahzl27NUUBTwB_d4R9nBU=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70081184/acastro_180320_1777_cambridge_analytica_0002.0.jpg' width='700px' /><br/>
+Update November 3rd, 3:04PM ET: Meredith Whittaker confirmed Wednesday that she will be joining the Federal Trade Commission as a senior advisor on AI.
+<a href='https://www.theverge.com/2021/11/2/22759776/google-meredith-whittaker-ftc-nomination-ai-ethics-regulation'> Source <a/>

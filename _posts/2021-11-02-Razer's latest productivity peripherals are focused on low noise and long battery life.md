@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yLgu_uorGZCN8xRyUOm3SGQ8AxY=/0x0:3540x2360/1200x800/filters:focal(1487x897:2053x1463)/cdn.vox-cdn.com/uploads/chorus_image/image/70079332/Key_Visual_1_crop.0.jpg' width='700px' /><br/>
-Razer has updated its suite of productivity peripherals with the new Pro Click Mini wireless mouse, the Pro Type Ultra wireless keyboard, and the Pro Glide XXL mouse mat (also wireless). Among the new features of the peripherals are sound dampening foam in the keyboard, “silent mechanical” switches in the mouse, and improved battery life across both models.
-<a href='https://www.theverge.com/2021/11/2/22757434/razer-pro-click-mini-type-ultra-glide-xxl-wireless-keyboard-mouse-mat-price-release-date-features'> Source <a/>

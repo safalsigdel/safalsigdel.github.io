@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C_OLWvr3cTxSXO_KVZ0Hi3etS9Q=/0x0:4096x2731/1200x800/filters:focal(1721x1039:2375x1693)/cdn.vox-cdn.com/uploads/chorus_image/image/70086533/DB2021AU00964_large.0.jpg' width='700px' /><br/>
+Volkswagen revealed the ID 5, a smaller, sportier version of its landmark ID 4 electric SUV that will only be available in Europe. It's the latest vehicle to join VW's growing “ID family” of electric vehicles as the company gets closer to its 2035 deadline to stop selling gas-powered vehicles in its home continent.
+<a href='https://www.theverge.com/2021/11/3/22761441/vw-id5-electric-suv-coupe-specs-price'> Source <a/>
