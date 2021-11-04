@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_sv9P-_CD2Wuu4G-9NK_JV-ec_k=/0x0:2640x1749/1200x675/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/70092881/tomwarren_corei9_12900K_1.0.jpg' width='700px' /><br/>
+Intel's had a hard time competing with AMD lately. AMD's Ryzen Zen 3 CPUs took the performance crown from Intel in gaming a year ago, and Intel's response with its 11th Gen Core i9-11900K earlier this year was lackluster, to say the least. While it bumped some game performance, overall, it wasn't enough to close the gap with AMD's Ryzen 9 5950X in both performance and power consumption. Some reviewers even labeled it “pathetic” and a “waste of sand.” Ouch.
+<a href='https://www.theverge.com/22763042/intel-core-i9-12900k-review'> Source <a/>
