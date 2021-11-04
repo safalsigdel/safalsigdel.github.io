@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D0PBxWQ07kN4puBpCLLR7_59jus=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70092048/VRG_4614_9_Dogecoin.0.jpg' width='700px' /><br/>
+The crypto world is full of dangers, with scammers lying in wait for newbies and novices. A recent report from security outfit Check Point Research highlights a potent form of attack: using Google Ads to direct users to fake crypto wallets. In its report, CPR said it has seen roughly half a million dollars siphoned off through these methods in just the last few days.
+<a href='https://www.theverge.com/2021/11/4/22763015/cryptocurrency-fake-wallet-phishing-scam-google-ads-phantom-metamask'> Source <a/>
