@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gJD_VIUavPUSxK_yEIe6GJNADdc=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/70086576/microsoftgithub.0.jpg' width='700px' /><br/>
-GitHub CEO Nat Friedman is stepping down after three years at the company. Friedman originally joined Microsoft after the company acquired Xamarin, which Friedman helped found. He then took over as the head of GitHub when Microsoft acquired GitHub three years ago.
-<a href='https://www.theverge.com/2021/11/3/22761493/microsoft-github-ceo-leaving'> Source <a/>
