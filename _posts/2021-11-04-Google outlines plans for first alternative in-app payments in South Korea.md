@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EaINm1w9uQx_rKpjheytoE9eN3g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70092300/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
+Google has announced changes it will make to its in-app payments options in South Korea — a significant step back for the tech giant as governments around the world seek to curb the control Google and Apple wield over their mobile ecosystems.
+<a href='https://www.theverge.com/2021/11/4/22763040/google-in-app-purchases-alternative-south-korea-payments'> Source <a/>
