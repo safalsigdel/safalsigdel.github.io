@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8Dte0pTCWRrK_Yy7LroInFKB4s4=/0x0:4200x2800/1200x800/filters:focal(1830x555:2502x1227)/cdn.vox-cdn.com/uploads/chorus_image/image/70085574/kriech_higdon_photo_9231.0.jpg' width='700px' /><br/>
-The smart kitchen is getting a little more intelligent this holiday season. Appliance manufacturer GE Appliances has a new Turkey Mode for its smart ovens that promises to take the prep and guesswork out of roasting that big bird. It arrives on over half a million GE Appliances connected ovens and ranges this week via an over-the-air software upgrade.
-<a href='https://www.theverge.com/2021/11/3/22761170/ge-smart-oven-turkey-mode-software-upgrade'> Source <a/>
