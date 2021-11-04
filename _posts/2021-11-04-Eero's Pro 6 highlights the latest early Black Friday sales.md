@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mQMA8jWB_iBRjua2AxLoQZx7xLQ=/0x0:1820x1024/1200x800/filters:focal(1101x366:1391x656)/cdn.vox-cdn.com/uploads/chorus_image/image/70086067/dseifert_201213_4337_0003.0.0.jpg' width='700px' /><br/>
-November has come roaring out of the gates with some strong deals and early Black Friday sales. It's not every year that you can start buying holiday gifts and know you're getting the best deals possible, even before we push the clocks back, but that's what we're looking at here with these discounts on Eero mesh routers.
-<a href='https://www.theverge.com/good-deals/2021/11/3/22761102/eero-pro-6-philips-hue-black-friday-brydge-apple-ipad-keyboard-amazon-gaming-deal-sale'> Source <a/>
