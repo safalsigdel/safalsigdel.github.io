@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XwBfv6OHKhUv_TOAKGV-72qCPMM=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70093238/_Aurora____Family_Photo.0.png' width='700px' /><br/>
+Aurora, the startup that was founded by the former head of Google's self-driving car project, has officially begun trading on the Nasdaq stock exchange under the ticker symbol “AUR.” It's a significant milestone for the AV industry, which has struggled with overinflated expectations, missed deadlines, shuttered businesses, and a host of technological challenges.
+<a href='https://www.theverge.com/2021/11/4/22763180/aurora-av-spac-merger-nasdaq-publicly-traded-urmson'> Source <a/>
