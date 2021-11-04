@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DnXP5iSGArn4a1hccYTqr6h0J-0=/0x0:1660x1080/1200x800/filters:focal(698x408:962x672)/cdn.vox-cdn.com/uploads/chorus_image/image/70093989/18BR_Jinx_Arcane_LoadingScreen_1920x1080_2.0.jpg' width='700px' /><br/>
+One of the biggest games in the world is getting a character from one of the other biggest games in the world. League of Legends' Jinx, a star of the upcoming Netflix series Arcane, is the latest gaming character to join Fortnite. You'll be able to buy her skin in the Fortnite item shop starting Thursday at 8PM ET.
+<a href='https://www.theverge.com/2021/11/4/22760266/league-of-legends-jinx-fortnite-netflix-arcane'> Source <a/>
