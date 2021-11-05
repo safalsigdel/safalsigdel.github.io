@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pjyNaoDKHI_4ltwrijW63FrX51I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70094218/bfarsace_211004_4777_0003.0.jpg' width='700px' /><br/>
+Microsoft has started warning Windows 11 users that certain features in the operating system are failing to load due to an expired certificate. The certificate expired on October 31st, and Microsoft warns that some Windows 11 users aren't able to open apps like the Snipping Tool, touch keyboard, or emoji panel.
+<a href='https://www.theverge.com/2021/11/4/22763641/microsoft-windows-11-expired-certificate-snipping-tool-emoji-picker-issues'> Source <a/>

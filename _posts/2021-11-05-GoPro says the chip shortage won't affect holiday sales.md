@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HaefMVQc4_ge4JRCTpSMAtdq0O4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70095788/bfarsace_210909_4746_0007.0.jpg' width='700px' /><br/>
+GoPro says the global chip and other supply chain shortages won't affect its holiday sales this year, meaning the action camera company is poised to finish one of its best years in recent memory in strong fashion.
+<a href='https://www.theverge.com/2021/11/4/22764144/gopro-hero10-holiday-chip-shortage-sales-q3-earnings-results'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8eieCYMKTWFfb_q6LBZmhmqYNXM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70094151/msingleton_180612_2663_0002.0.jpg' width='700px' /><br/>
+A new Alphabet company will use artificial intelligence methods for drug discovery, Google's parent company announced Thursday. It'll build off of the work done by DeepMind, another Alphabet subsidiary that has done groundbreaking work using AI to predict the structure of proteins.
+<a href='https://www.theverge.com/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai'> Source <a/>

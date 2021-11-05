@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6n0X6n1l8O8utN3LINUbw1rYsgc=/0x0:1270x775/1200x800/filters:focal(534x287:736x489)/cdn.vox-cdn.com/uploads/chorus_image/image/70095072/FDXPMHBUYAITXEz.0.jpeg' width='700px' /><br/>
+Riot Games' League of Legends, Valorant, Teamfight Tactics, and Legends of Runeterra are now available to download from the Epic Games Store, the two companies announced Thursday. They're free to download and play, just like they are from Riot. When you get them from the Epic Games Store, your computer will install the Riot Client, Riot's new unified launcher, which is where you can actually install and launch the individual games.
+<a href='https://www.theverge.com/2021/11/4/22763767/league-of-legends-valorant-epic-games-store'> Source <a/>

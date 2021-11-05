@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/97e4aLbEHORm-X5CC3SeoxlY9jc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70096346/SENSIFY_BREMBO_9.0.jpg' width='700px' /><br/>
+High-end Italian brake manufacturer Brembo announced in October its plan to release Sensify, an AI-enhanced braking system that promises both “driving pleasure and total safety” when it rolls out via an unnamed manufacturer in 2024. Going beyond anti-lock brakes, traction, and stability control, it replaces hydraulic controls with electronic ones for design flexibility and, potentially, more precise control.
+<a href='https://www.theverge.com/2021/11/4/22747353/brembo-sensify-ai-braking-car-system-2024'> Source <a/>

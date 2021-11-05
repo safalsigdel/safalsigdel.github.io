@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IeOpQs0Fapx9PWuJMyUkFOdSj0Y=/0x0:2040x1360/1200x800/filters:focal(831x685:1157x1011)/cdn.vox-cdn.com/uploads/chorus_image/image/70087599/jtuohy_211102_4860_0003.0.jpg' width='700px' /><br/>
-Three colorful HomePod Minis were announced last month and went on sale this week, adding yellow, orange, and blue options to our smart speaker home decor selections. I got to try out the trio of bright speakers, and have to say I quite like adding a pop of color to my smart home.
-<a href='https://www.theverge.com/22761626/apple-homepod-mini-hands-on'> Source <a/>

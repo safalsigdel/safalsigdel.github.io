@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AMfU5GOsTAfRNTcvqK6H2G6VYhU=/0x0:3400x2125/1200x800/filters:focal(809x1043:1353x1587)/cdn.vox-cdn.com/uploads/chorus_image/image/70096774/https___bucketeer_e05bbc84_baa3_437e_9518_adb32be77984.s3.amazonaws.com_public_images_e04ad522_42a5_43c9_9e1b_3bf39e6953b5_3400x2125.0.jpeg' width='700px' /><br/>
+Today let's talk about how two of the world's most important social networks settled an ancient grudge, and what it tells us about the prospects for a more open internet as tech giants work to build a metaverse.
+<a href='https://www.theverge.com/2021/11/4/22764539/instagram-twitter-timeline-image-preview-feud'> Source <a/>

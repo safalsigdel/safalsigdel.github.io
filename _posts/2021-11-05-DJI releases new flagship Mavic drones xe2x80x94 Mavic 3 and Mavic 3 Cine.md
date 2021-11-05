@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eyUy9Osx6Au6LktJRwFzw4t1NMw=/0x0:2048x1366/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/70097390/DJI_Mavic_3___Forest_11.0.jpg' width='700px' /><br/>
+One of the most anticipated drone releases is finally out. Actually, it's two drones. Today, DJI has released the Mavic 3 and Mavic 3 Cine.
+<a href='https://www.theverge.com/2021/11/4/22759660/dji-flagship-prores-mavic-3-cine-drone'> Source <a/>

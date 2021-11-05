@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/osU4u20YgVEZrYbxTVsrbaAWEi0=/0x0:2160x1080/1200x800/filters:focal(32x422:376x766)/cdn.vox-cdn.com/uploads/chorus_image/image/70095407/Screenshot_20211104_150854.0.png' width='700px' /><br/>
+Sometimes there's no way around it — you've got to use an app. If you need to sign a PDF document from your Android phone, that's simply how you've got to go — unlike iOS, which lets you create a signature using its built-in Markup app, you need to find a third-party source. There are a variety of apps available, but the most well-known is the free version of Adobe Acrobat Reader.
+<a href='https://www.theverge.com/22762041/android-signature-adobe-acrobat-pdf-how-to'> Source <a/>

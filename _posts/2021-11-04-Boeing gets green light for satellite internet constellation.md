@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NFMxL2xr7P8-a99ZLRvX1V9rtFo=/0x0:1761x1058/1200x800/filters:focal(741x389:1021x669)/cdn.vox-cdn.com/uploads/chorus_image/image/70088004/69486_boeingbuilding_987313.0.jpg' width='700px' /><br/>
-The Federal Communications Commission has authorized a satellite internet project from Boeing first proposed in 2017. Boeing can now move forward with building, launching, and operating its own broadband internet network from space, joining its main aerospace competitor SpaceX.
-<a href='https://www.theverge.com/2021/11/3/22761963/boeing-satellite-internet-network-constellation-spacex-amazon'> Source <a/>

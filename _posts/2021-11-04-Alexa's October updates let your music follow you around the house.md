@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MbZ3Cp7vdJEHgEjhzYO8YGcPBQ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70088429/dseifert_201020_4247_0003.0.0.jpg' width='700px' /><br/>
-Alexa's October update introduces a number of new helpful commands that let you start listening to audio in one room and continue listening on an Echo device in another. There are a few different commands for this, and the ones you use will depend on your situation.
-<a href='https://www.theverge.com/2021/11/3/22762103/alexa-october-updates-music-follow-around-house'> Source <a/>

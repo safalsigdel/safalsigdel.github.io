@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/g0BO7mBqsCgnqWHUj9tSMrL9sEE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70095276/acastro_190724_1777_doordash_0001.0.0.jpg' width='700px' /><br/>
+DoorDash is adding a set of tools for its delivery workers called “SafeDash,” which includes a way to contact an agent from the ADT security company or to call 911 through ADT. The company is first launching the tool in major cities like Detroit, Los Angeles, New York, and San Francisco, but says it'll roll out to all its US couriers by the end of the year.
+<a href='https://www.theverge.com/2021/11/4/22763690/doordash-safety-button-delivery-worker-rights-accountability-adt-911'> Source <a/>

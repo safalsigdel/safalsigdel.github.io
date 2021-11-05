@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ATLVZtv371GGM8mb-kwsTQTn6zM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70089957/20211015_ACNH_Update_scrn_009.0.jpg' width='700px' /><br/>
-The major 2.0 update for Animal Crossing: New Horizons is now available to download, which is somewhat surprising because Nintendo previously said it wouldn't be released until November 5th. That means you'll be able to dive into all the new features two days earlier than expected.
-<a href='https://www.theverge.com/2021/11/3/22762709/animal-crossing-2-0-update-released-early-nintendo'> Source <a/>
