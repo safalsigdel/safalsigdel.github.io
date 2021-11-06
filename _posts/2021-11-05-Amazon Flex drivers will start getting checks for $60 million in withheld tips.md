@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l-PgEB1GZ70HBjArHR7YVKAHJeY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70094542/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-The Federal Trade Commission will send out more than $60 million to drivers for Amazon's Flex program, representing tip money that the commission says was illegally withheld.
-<a href='https://www.theverge.com/2021/11/4/22763749/amazon-flex-drivers-pay-ftc-tips-lawsuit-settlement-prime-now-fresh'> Source <a/>

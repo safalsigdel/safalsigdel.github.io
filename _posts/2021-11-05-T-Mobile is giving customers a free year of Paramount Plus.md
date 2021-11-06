@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M0GXeIdihckms80bO6Ajwn9bTdg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70092478/Discovery_Doug_Jones_Sonequa_Martin_Green.0.jpg' width='700px' /><br/>
-T-Mobile is once again offering its customers a free streaming deal: starting on November 9th, any T-Mobile or Sprint customer (new or existing) on post-paid cellular or home internet plans can sign up to get a free year's subscription of Paramount Plus Essential.
-<a href='https://www.theverge.com/2021/11/4/22763109/tmobile-free-year-paramount-plus-essential-plan-promotion'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CTVONBuNF7q2pIa0R_V7dLRs4c8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70102064/vpavic_4291_20201113_0411.0.0.jpg' width='700px' /><br/>
+Since macOS Monterey was released, there have been several Apple users who said that installing the update bricked their computers. It was unclear what might have caused the issue until today, as Rene Ritchie reports, he has received this statement from Apple citing an issue with the firmware of its T2 security chip (via 9to5Mac).
+<a href='https://www.theverge.com/2021/11/5/22765759/apple-macos-monterey-t2-security-brick-bug'> Source <a/>

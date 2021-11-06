@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LD-N2uaaRBpltNqX3hdj1SjKDVk=/0x0:4032x3024/1200x800/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/70096234/1310967778.0.jpg' width='700px' /><br/>
-Uber is preparing to relaunch its carpooling service as a way to combat price increases, officials said in a call with investors. Uber Pool was shuttered in March 2020 in response to the COVID-19 pandemic and remained so even as vaccines became widely available and customers returned to the app.
-<a href='https://www.theverge.com/2021/11/4/22764246/uber-pool-prices-shared-ride-covid-earnings'> Source <a/>

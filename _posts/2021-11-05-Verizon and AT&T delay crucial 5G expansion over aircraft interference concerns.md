@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ls9zXfNLoYPDPj-yQbwSKQxKhis=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70094028/acastro_180430_1777_5G_0001.0.0.0.jpg' width='700px' /><br/>
-Verizon and AT&T are delaying the rollout of their wider 5G networks after the Federal Aviation Administration warned that the new wireless technology could interfere with the safety systems of some aircraft, The Wall Street Journal reports.
-<a href='https://www.theverge.com/2021/11/4/22763502/verizon-att-cband-5g-faa-delay-safety-aircraft'> Source <a/>

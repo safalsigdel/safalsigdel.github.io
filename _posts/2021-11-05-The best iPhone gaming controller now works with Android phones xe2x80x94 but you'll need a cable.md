@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/80hFirv1GXP6skha1wTHxNiY-Io=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70093792/cfaulkner_201016_4242_0001.0.0.jpg' width='700px' /><br/>
-Last year, a small company called Backbone Labs released arguably the best iPhone gaming controller on the market right now, the Backbone One. Starting Thursday, you'll be able to use that controller with many more devices — including Android phones — though it won't work exactly as you might expect and requires a new Backbone Plus subscription to set it up.
-<a href='https://www.theverge.com/2021/11/4/22753567/backbone-one-plus-iphone-gaming-controller-android-phones'> Source <a/>

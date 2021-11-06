@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E4-hzCABnY8O3yZPykxpO41bvos=/0x0:848x565/1200x800/filters:focal(555x33:689x167)/cdn.vox-cdn.com/uploads/chorus_image/image/70098949/IMG_1632_crop.0.png' width='700px' /><br/>
+Twitter has added a new search button on profile pages that makes it easier to search through tweets from a specific user. Social media consultant Matt Navarra noted that the button had started appearing for a small number of users last month, but now XDA Developers says that the feature has rolled out widely in the service's iOS app.
+<a href='https://www.theverge.com/2021/11/5/22764991/twitter-search-profile-button-ios-app'> Source <a/>

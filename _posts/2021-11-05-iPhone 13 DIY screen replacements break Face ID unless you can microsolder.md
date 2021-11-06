@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NrisRZi6NTzHhNm0Jpp1LPchzgw=/0x0:1995x1330/1200x800/filters:focal(839x506:1157x824)/cdn.vox-cdn.com/uploads/chorus_image/image/70096271/vpavic_210916_untitled_0031.0.jpg' width='700px' /><br/>
-Apple's new iPhone 13 lineup might pack a lot of new features, but they now have a major restriction that makes it much harder for independent repair shops to replace broken screens. If you try to swap the screen, Face ID just won't work — that is, unless you know how to microsolder and can successfully move a tiny microcontroller from the original screen to a new one, as detailed in an article from iFixit.
-<a href='https://www.theverge.com/2021/11/4/22764251/iphone-13-screen-replacements-break-face-id-microsolder'> Source <a/>

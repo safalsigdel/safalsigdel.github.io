@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YHs0R43VZlqnJd79mHfry1iejUw=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70102183/acastro_170726_1777_0008.0.jpg' width='700px' /><br/>
+The FBI is warning people of a new breed of scam involving cryptocurrency ATMs. A con artist convinces a person to put cash into a cryptocurrency ATM and send the purchased coins to the scammer using an address stored in a QR code (via CoinDesk). While the actual scamming is relatively low-tech, it's an interesting misuse of technology and shows how criminals are using crypto to “improve” on old methods.
+<a href='https://www.theverge.com/2021/11/5/22765900/crypto-scam-fbi-psa-atm-qr-code-wire-transfer-con-artist'> Source <a/>

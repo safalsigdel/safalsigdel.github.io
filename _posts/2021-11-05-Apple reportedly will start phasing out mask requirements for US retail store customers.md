@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LcRqzNVOP43BOSHH2LVrfxvqv7w=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/70095413/1232558252.0.jpg' width='700px' /><br/>
-Apple is reportedly planning to begin ending mask requirements for customers at some of its US retail stores as early as Friday (via Bloomberg). The company told employees about the change in an internal memo on Thursday, Bloomberg reported, saying the decision was based on a decline in coronavirus cases and a rise in vaccination rates.
-<a href='https://www.theverge.com/2021/11/4/22763958/apple-mask-requirements-retail-store-customers-coronavirus'> Source <a/>

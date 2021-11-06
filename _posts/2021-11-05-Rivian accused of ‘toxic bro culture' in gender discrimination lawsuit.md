@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gtG7jmjU5sas2QyI65PunNisJV4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70095964/mclark_210923_4776_0008.0.jpg' width='700px' /><br/>
-EV startup Rivian's former sales and marketing vice president has sued the Amazon-backed company for discrimination, claiming it has a “toxic bro culture that marginalizes women.” The suit, first reported by The Wall Street Journal, comes just days before Rivian is set to become a publicly traded company, and a few weeks after it started delivering its first electric vehicles to customers.
-<a href='https://www.theverge.com/2021/11/4/22764212/rivian-discrimination-lawsuit-toxic-bro-culture-rj-scaringe-ipo'> Source <a/>

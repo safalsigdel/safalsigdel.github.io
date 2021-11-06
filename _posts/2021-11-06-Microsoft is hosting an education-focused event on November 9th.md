@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_-gI0lAA3QxnmlSMv8fpOXUjSLE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70101982/vpavic_210930_4784_0064.0.jpg' width='700px' /><br/>
+Microsoft is hosting an event next week focused on education technology. It's taking place November 9th at 12PM ET.
+<a href='https://www.theverge.com/2021/11/5/22765901/microsoft-education-event-date-time'> Source <a/>

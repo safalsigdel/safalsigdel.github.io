@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wG1iV79C9g-LdBGMYas51k6zSbg=/0x0:2650x1328/1200x800/filters:focal(1113x452:1537x876)/cdn.vox-cdn.com/uploads/chorus_image/image/70094119/Screen_Shot_2021_11_03_at_18.29.40.0.png' width='700px' /><br/>
-Square has announced that people over 13 years old can use Cash App to deposit and spend money or send it to friends. The app was previously only available to people aged 18 or older, and while minors will have to get their parent or guardians' permission to use the app (and that parent-figure will have significant oversight), they'll still be able to use some of the app's most popular features.
-<a href='https://www.theverge.com/2021/11/4/22762613/square-cash-app-teens-13-parental-control'> Source <a/>

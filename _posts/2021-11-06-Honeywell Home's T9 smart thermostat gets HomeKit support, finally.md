@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8sb7P3poQc8wpIhIpp8f9pNOoAM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70102859/dseifert_190705_3501_5339.0.jpg' width='700px' /><br/>
+The Honeywell Home T9, Resideo's first consumer thermostat to support remote temperature sensors, has finally brought a long-promised feature to its users: HomeKit.
+<a href='https://www.theverge.com/2021/11/5/22766141/honeywell-home-t9-smart-thermostat-gets-homekit-support'> Source <a/>

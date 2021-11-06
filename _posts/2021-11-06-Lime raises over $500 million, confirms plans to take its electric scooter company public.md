@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3rqEflCc8-pgYoBsLbwfx2JwPlo=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70099993/LIME_SAN_FRANCISCO_STREET_DREAMS_120.0.jpg' width='700px' /><br/>
+Lime announced today that it raised $523 million in debt financing, a sign that investors are feeling more optimistic about the long-term survival of shared electric scooters in a post-pandemic world. Lime must be feeling more optimistic, too, because a spokesperson confirmed that the company plans on going public sometime in 2022.
+<a href='https://www.theverge.com/2021/11/5/22764064/lime-electric-scooter-investment-public'> Source <a/>

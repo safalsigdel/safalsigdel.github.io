@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PEGNQDdR4jU57wNWLifi3T7LmEA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70096109/jbareham_180313_1777_bitcoin_cryptocurrency_0002.0.jpg' width='700px' /><br/>
-New York City's mayor-elect Eric Adams said in a tweet Thursday that he wants his first three city paychecks paid in Bitcoin, in a bid to show up the mayor of Miami and indicate his hopes that New York will be a place where the cryptocurrency industry is welcome.
-<a href='https://www.theverge.com/2021/11/4/22764104/new-york-city-mayor-elect-eric-adams-announces-bitcoin-paycheck-miami'> Source <a/>

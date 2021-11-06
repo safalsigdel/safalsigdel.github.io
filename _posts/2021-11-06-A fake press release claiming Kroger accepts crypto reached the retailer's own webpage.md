@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0G7EbRzlNHFDuOTAuqGbmjTE454=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70099846/1234440443.0.jpg' width='700px' /><br/>
+Cryptocurrency and blockchain news presents many headlines that are hard to believe, so when a seemingly authentic press release ties a major retail outlet to second-tier crypto, it can take a moment to find out the truth. That was the case with a fake “Walmart takes Litecoin” release in September, and again this morning as PR Newswire published an illegitimate announcement claiming Kroger will start accepting Bitcoin Cash.
+<a href='https://www.theverge.com/2021/11/5/22765098/kroger-bitcoin-cash-cryptocurrency-hoax-pump-dump'> Source <a/>
