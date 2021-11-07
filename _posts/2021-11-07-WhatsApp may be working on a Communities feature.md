@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TegvCiWe2LNfddoXniqSqdVPuww=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70105879/acastro_210119_1777_whatsapp_0001.0.jpg' width='700px' /><br/>
+Evidence is mounting that WhatsApp may be working on a Communities feature. XDA Developers first spotted the possibility in October, but now WABetaInfo has come forward with similar findings.
+<a href='https://www.theverge.com/2021/11/6/22767242/whatsapp-working-communities-feature-groups'> Source <a/>

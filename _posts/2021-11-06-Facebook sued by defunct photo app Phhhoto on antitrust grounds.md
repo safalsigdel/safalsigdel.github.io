@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qSZDyJQnBbVEgW78RVo0q7M8XYY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70100271/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
-Defunct photo app Phhhoto is suing Meta, formerly Facebook, on antitrust grounds, claiming the social media platform feigned interest in working with it, but then copied its features and hid its name from search results, effectively driving it out of business.
-<a href='https://www.theverge.com/2021/11/5/22765116/facebook-meta-sued-defunct-photo-app-phhhoto-antitrust-out-of-business'> Source <a/>

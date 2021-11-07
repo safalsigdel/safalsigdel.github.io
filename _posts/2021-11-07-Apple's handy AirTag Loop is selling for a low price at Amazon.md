@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-RdGzbFEDPbxwxP261nshsclFZk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70104694/vpavic_4547_20210421_0070.0.jpg' width='700px' /><br/>
+iPhone owners planning on traveling or making lots of plans this holiday season may find today's AirTag Loop deal useful. Right now at Amazon, you can buy the handy loop made specifically to carry Apple's ultrawideband-capable Bluetooth tracker at an all-time low price of around $24 instead of $29. This deal is valid on the orange or deep navy colorways.
+<a href='https://www.theverge.com/good-deals/2021/11/6/22765943/apple-airtag-hitman-3-gopro-hero-10-black-xbox-elite-series-2-controller-amazon-omni-fire-deal-sale'> Source <a/>

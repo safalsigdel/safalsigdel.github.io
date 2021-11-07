@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nk6rfTTYzeHeYanq5xDfYQzt_gc=/0x0:1475x983/1200x800/filters:focal(620x374:856x610)/cdn.vox-cdn.com/uploads/chorus_image/image/70099127/stadia.0.jpg' width='700px' /><br/>
-Google is finally allowing Stadia players to join multiplayer games without needing an invite. This basic feature is available on most console platforms and PC launchers, but it has taken Google nearly two years to add it to Stadia. A new support page confirms the feature is live in Far Cry 6 on Stadia, so friends can join you without you having to dig into menus and issue an invite.
-<a href='https://www.theverge.com/2021/11/5/22765034/google-stadia-join-multiplayer-games-without-invite-feature'> Source <a/>

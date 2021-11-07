@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bCY4RjiCaFo_F-opSkQ8fSVFhpI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70104569/acastro_170731_1777_0006_v5.0.jpg' width='700px' /><br/>
+Apple hasn't been all that vocal about its electric car project, but according to Bloomberg, the iPhone maker is hiring Tesla's Autopilot software engineer to work on its EVs. Sources close to the matter told Bloomberg that Apple scooped up Christopher “CJ” Moore to work on its self-driving software. He'll report to Stuart Bowers, another Tesla ex-pat who previously served as the vice president of engineering.
+<a href='https://www.theverge.com/2021/11/6/22766733/apple-tesla-hiring-former-autopilot-software-director-musk'> Source <a/>

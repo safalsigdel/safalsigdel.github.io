@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/thcE8iZRuGC8XcQEJdAZ0JjjaGI=/0x0:1926x845/1200x800/filters:focal(840x340:1148x648)/cdn.vox-cdn.com/uploads/chorus_image/image/70105314/eleven_2.0.png' width='700px' /><br/>
+Netflix tweeted Saturday that Stranger Things 4 will premiere in the summer of 2022. While not a precise release date, it's at least something for fans of Netflix's flagship supernatural series, who have waited through months of delays and a seemingly endless parade of mysterious teasers.
+<a href='https://www.theverge.com/2021/11/6/22765226/stranger-things-4-netflix-trailer-eleven-netflix-release-date'> Source <a/>
