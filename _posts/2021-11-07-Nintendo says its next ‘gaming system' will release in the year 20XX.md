@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BCbGAwaIwQQWkycCbjySslJ51uE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70101275/cfaulkner_210921_4751_0004.0.jpg' width='700px' /><br/>
-The Nintendo Switch with an OLED screen isn't even a month old, but the company is already talking about some kind of successor to its wildly popular console / handheld hybrid — although vaguely.
-<a href='https://www.theverge.com/2021/11/5/22765498/nintendo-next-gaming-system-console-release-year-switch-oled'> Source <a/>

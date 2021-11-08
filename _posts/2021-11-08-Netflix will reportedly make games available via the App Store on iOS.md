@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fQvGs2RU98Sp8oMoNaPm7Paz_bI=/0x0:960x532/1200x800/filters:focal(404x190:556x342)/cdn.vox-cdn.com/uploads/chorus_image/image/70108590/Screen_Shot_2021_11_02_at_1.24.40_PM.0.png' width='700px' /><br/>
+Earlier this month, Netflix officially got into gaming by rolling out a mobile game service for Android users. While Netflix says that it's working on an iOS version of the service, Bloomberg tech reporter Mark Gurman says that Apple's App Store policies will prevent Netflix from making games available from its app.
+<a href='https://www.theverge.com/2021/11/7/22768521/netflix-reportedly-make-games-available-app-store'> Source <a/>

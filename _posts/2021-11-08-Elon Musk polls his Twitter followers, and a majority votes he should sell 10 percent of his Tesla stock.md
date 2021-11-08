@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UHRMhpdxn3BlMcnZ25qhUukKJPo=/0x0:3678x2706/1200x800/filters:focal(1323x1084:1911x1672)/cdn.vox-cdn.com/uploads/chorus_image/image/70108048/1234651136.0.jpg' width='700px' /><br/>
+Tesla CEO and wealthiest person in the world Elon Musk tweeted out a poll Saturday, asking his Twitter followers whether he should sell 10 percent of his stock in the automaker, ostensibly to pay more tax. When the poll closed Sunday afternoon, 57.9 percent of more than 3.5 million participants had voted “yes,” and 42.1 percent voted “no.”
+<a href='https://www.theverge.com/2021/11/7/22768364/elon-musk-poll-twitter-tesla-10-percent-billionaires-capital-gains-tax'> Source <a/>

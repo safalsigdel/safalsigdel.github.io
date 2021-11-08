@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BCPZ8X41iwqaTtkUtvAuyelcvkU=/0x0:4032x2678/1200x800/filters:focal(1694x1017:2338x1661)/cdn.vox-cdn.com/uploads/chorus_image/image/70100437/workhorse.0.jpg' width='700px' /><br/>
-The Department of Justice has opened an investigation into struggling electric vehicle startup Workhorse, according to The Wall Street Journal. The probe is reportedly being led by the US Attorney's office for the Southern District of New York, which often investigates financial crimes.
-<a href='https://www.theverge.com/2021/11/5/22765287/doj-investigation-ev-workhorse-accounting-fraud-short-seller-fuzzy-panda'> Source <a/>
