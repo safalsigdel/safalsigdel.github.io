@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nxeODqzVfW200yfZ8ENgB6R4dow=/127x97:869x479/1200x800/filters:focal(428x214:582x368)/cdn.vox-cdn.com/uploads/chorus_image/image/70110858/elon_musk_edge_lord.0.jpg' width='700px' /><br/>
+Is it fair that the world's richest people pay so little in tax? That in a time of extreme inequality, those that have so much contribute so little in proportion to their vast wealth? These are the questions motivating US Democratic Senator Ron Wyden, who's been calling for new taxes on billionaires.
+<a href='https://www.theverge.com/2021/11/8/22769731/elon-musk-billionaire-tax-stock-sell-off-ron-wyden-tweet'> Source <a/>
