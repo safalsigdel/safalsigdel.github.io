@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JoGQOqXCGvyg6m4ENsqC9xHumzU=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70102118/dseifert-nest-audio-4225-8.0.0.jpeg' width='700px' /><br/>
-Google has quietly removed its “Your News Update” feature from Assistant, axing the algorithmically personalized audio digest in favor of the company's existing (and more traditional) news briefings, as spotted by 9to5Google.
-<a href='https://www.theverge.com/2021/11/5/22765782/google-assistant-your-news-update-algorithmic-audio-digest'> Source <a/>
