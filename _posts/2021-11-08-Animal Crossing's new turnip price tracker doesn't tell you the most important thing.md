@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DqdeGSfw2l4rINFYUJhssp-LS5U=/0x0:1125x718/1200x800/filters:focal(473x269:653x449)/cdn.vox-cdn.com/uploads/chorus_image/image/70102801/IMG_1323.0.jpeg' width='700px' /><br/>
-Nintendo quietly added a turnip price tracker for Animal Crossing: New Horizons to the Nintendo Switch Online app, but it's not as useful as I was hoping. Disappointingly, the tracker doesn't show the current turnip price on your island. Instead, it lists historical prices over the past week.
-<a href='https://www.theverge.com/2021/11/5/22766105/animal-crossing-new-horizons-nintendo-switch-turnip-price-tracker-current-price'> Source <a/>
