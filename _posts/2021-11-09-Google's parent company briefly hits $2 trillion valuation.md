@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m126vwsMxV1Jt3DKeXbXtvypt64=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70113692/acastro_180130_1777_0001.0.jpg' width='700px' /><br/>
-Alphabet, Google's parent company, briefly hit a market cap of $2 trillion. The tech behemoth's market cap is currently at a comfortable $1.98 trillion, but crept over the $2 trillion mark midday Monday, later closing out at $2,987.03 per share. Alphabet's market cap has just about doubled from $1 trillion since January 2020.
-<a href='https://www.theverge.com/2021/11/8/22770569/alphabet-google-market-cap-hits-2-trillion'> Source <a/>

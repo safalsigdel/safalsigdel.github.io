@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FAl9CqikKF5_oBy_PTjJLO7OqG8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70114078/acastro_210129_1777_robinhood_0002.0.jpg' width='700px' /><br/>
-Trading platform Robinhood said Monday that personal information for more than 7 million customers was accessed during a data breach on November 3rd. The company said in a news release that it does not appear that Social Security numbers, bank account numbers, or debit card numbers were exposed, and no customers have had “financial loss” due to the incident.
-<a href='https://www.theverge.com/2021/11/8/22770861/robinhood-7-million-customers-hacker-breach-extortion-security'> Source <a/>
