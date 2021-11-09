@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P2m9MiOvlEVjhQx52uevsyzThzM=/0x0:1400x770/1200x800/filters:focal(588x273:812x497)/cdn.vox-cdn.com/uploads/chorus_image/image/70116025/FX_Design_Blog_Header_1400x770.0.jpg' width='700px' /><br/>
+Mozilla is bringing Firefox to Microsoft's Windows store today. Firefox is one of the first third-party alternatives available in the Microsoft Store, and it's using its own Gecko browser engine instead of Chromium alternatives like Opera or the many other alternatives that leverage Microsoft's Edge webview.
+<a href='https://www.theverge.com/2021/11/9/22771845/mozilla-firefox-microsoft-store-windows-download'> Source <a/>

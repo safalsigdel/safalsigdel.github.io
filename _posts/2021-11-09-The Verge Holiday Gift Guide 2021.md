@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vunB-iMzbsGd5tfrFntJfdB1vnU=/0x0:2500x1667/1200x675/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/70111594/VRG_Illo_4859_GG_Main_lede.0.jpg' width='700px' /><br/>
-Finding the perfect gift for everyone special in your life can be, frankly, a nightmare. Some people are easy to shop for, but others in your family or social spheres might be less forthcoming about their desires. You could do the leg work of asking what might make them a happy camper over the holidays, but who has time for that? That's a rhetorical question. No one has time for that, except for us.
-<a href='https://www.theverge.com/22759813/holiday-gift-guide-best-tech-gadget-unique-ideas'> Source <a/>

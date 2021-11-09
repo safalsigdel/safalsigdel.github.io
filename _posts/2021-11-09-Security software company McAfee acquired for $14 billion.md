@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CejVfZ6M3Xz8kkBJ41dpoTJXknw=/0x0:3888x2592/1200x800/filters:focal(1633x985:2255x1607)/cdn.vox-cdn.com/uploads/chorus_image/image/70111765/1236429078.0.jpg' width='700px' /><br/>
-Security software company McAfee is going private via a buyout from an investor group in a deal valued at more than $14 billion, the company announced Monday. Bloomberg first reported last week that a likely deal was imminent.
-<a href='https://www.theverge.com/2021/11/8/22769910/mcafee-private-investor-group-acquisition-software'> Source <a/>
