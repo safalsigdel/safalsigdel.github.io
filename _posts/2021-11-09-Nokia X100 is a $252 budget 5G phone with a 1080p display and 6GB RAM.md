@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KANXB3SurzlN10Jifcoi8lxh4Bk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70116060/nokia_x100_product_photo__2_.0.jpg' width='700px' /><br/>
+Starting November 19th, 2021, T-Mobile and Metro by T-Mobile will be adding another budget 5G phone to the lineup — the $252 Nokia X100 that is exclusive to T-Mobile.
+<a href='https://www.theverge.com/2021/11/9/22770393/nokia-x100-252-budget-5g-phone-1080p-display-6gb-ram-andriod-smartphone'> Source <a/>

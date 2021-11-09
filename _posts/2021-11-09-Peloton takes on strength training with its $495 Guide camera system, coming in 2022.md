@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x1q7c16dvdh8zNW9yqgiaXdOG8A=/0x0:1200x640/1200x800/filters:focal(504x224:696x416)/cdn.vox-cdn.com/uploads/chorus_image/image/70116114/Tiger_Announcement_Press_Image_11042021___01.0.jpeg' width='700px' /><br/>
+Peloton is moving into strength training with its latest product, the Peloton Guide, a TV-connected camera that can display workouts and track your movements in real time to help make sure you're doing things properly.
+<a href='https://www.theverge.com/2021/11/9/22771827/peloton-guide-camera-movement-tracking-price-release-date'> Source <a/>

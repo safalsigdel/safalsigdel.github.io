@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/38S5Z7Ve955UG4tymWsKqUnxQ3I=/0x0:2040x1360/1200x675/filters:focal(913x650:1239x976)/cdn.vox-cdn.com/uploads/chorus_image/image/70111790/akrales_211028_4820_0673.0.jpg' width='700px' /><br/>
-Downloading macOS Big Sur was a big change for me — visually, pragmatically, philosophically. It was the biggest macOS redesign we'd seen in years. And it was a new direction for the ecosystem in general; macOS looked and felt like iOS.
-<a href='https://www.theverge.com/22765988/apple-macos-12-monterey-review-macbook-pro-air-imac-m1'> Source <a/>
