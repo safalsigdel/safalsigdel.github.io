@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Qj4S3sknFiAM0XCgsTYzO-59rwo=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70110671/disneyplus.0.0.jpg' width='700px' /><br/>
-Disney Plus is offering a pretty killer deal for streamers who may have left or have yet to try its service. For new and eligible returning subscribers, one month of Disney Plus will cost just $2.
-<a href='https://www.theverge.com/2021/11/8/22766153/disney-plus-day-2-subscription-amc-theaters'> Source <a/>
