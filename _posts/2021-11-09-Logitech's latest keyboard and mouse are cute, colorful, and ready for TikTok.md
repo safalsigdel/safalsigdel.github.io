@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/r_tfugzz6Xw4Pf7OHVwgLH8ZOmE=/0x0:4599x3067/1200x800/filters:focal(1933x1167:2667x1901)/cdn.vox-cdn.com/uploads/chorus_image/image/70116349/POP_Combo_LIFE_Daydream_1_hand_TOP.0.jpg' width='700px' /><br/>
+Logitech has a trio of colorful new peripherals coming to the US this month: a $99.99 Pop Keys keyboard, a $39.99 Pop Mouse, and a $19.99 Desk Mat. In contrast with Logitech's usual sensibly styled and office-appropriate peripherals, these Studio Series devices are bright and cutesy. They're each available in three color-coordinate schemes: yellow and black; pink; and purple and yellow options.
+<a href='https://www.theverge.com/2021/11/9/22771677/logitech-studio-series-pop-keys-mouse-desk-mat-price-features-keyboard'> Source <a/>

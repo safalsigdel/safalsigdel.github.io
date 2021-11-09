@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TDC2b2mSa94RtHu08-h3FLmIB54=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70113610/acastro_181126_1777_bitcoin_0001.0.jpg' width='700px' /><br/>
-On Friday, Congress passed the $1.2 trillion infrastructure package, sending the legislation to President Joe Biden for his signature. But while the measure makes historic investments in roads and bridges, it also maintains a controversial new cryptocurrency tax reporting requirement that the Treasury Department could apply to miners.
-<a href='https://www.theverge.com/2021/11/8/22770798/biden-infrastructure-cryptocurrency-bitcoin-crypto-tax-irs-treasury'> Source <a/>

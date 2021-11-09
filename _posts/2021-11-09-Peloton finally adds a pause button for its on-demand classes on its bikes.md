@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f_6VgPPwr3EeCkQRB8nS_uLjdDI=/0x0:2434x1452/1200x800/filters:focal(1023x532:1411x920)/cdn.vox-cdn.com/uploads/chorus_image/image/70113323/Screen_Shot_2021_11_08_at_2.46.07_PM.0.png' width='700px' /><br/>
-Peloton has announced that it's finally added a pause button for its on-demand classes for its Bike and Bike Plus devices, allowing users to temporarily pause workouts in the middle of a class and then resume them.
-<a href='https://www.theverge.com/2021/11/8/22770666/peloton-pause-button-on-demand-classes-bike-plus'> Source <a/>
