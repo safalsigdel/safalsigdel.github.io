@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HPH3g9BPV2vWk-Zc_lr8cPEPj-s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70114155/vpavic_4278_20201030_0247.0.jpg' width='700px' /><br/>
+Hackers may have just made some big strides towards possibly jailbreaking the PlayStation 5 over the weekend, with the hacking group Fail0verflow claiming to have managed to obtain PS5 root keys allowing them to decrypt the console's firmware.
+<a href='https://www.theverge.com/2021/11/8/22770300/ps5-playstation-5-root-keys-debug-menu-hacks-exploits-jailbreak-sony'> Source <a/>

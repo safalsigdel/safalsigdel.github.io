@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oCOarcQE5p9Yuweq4Dgta4P1kHc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70108788/acastro_180226_0001.0.jpg' width='700px' /><br/>
-Microsoft says OneDrive users on Windows, 7, 8, or 8.1 will be unable to sync their content to the cloud starting on March 1st, 2022, according to a blog post on its Tech Community forum. OneDrive will also no longer receive updates if it's running on a system that doesn't have Windows 10 or Windows 11 installed.
-<a href='https://www.theverge.com/2021/11/7/22768667/onedrive-windows-7-8-stop-syncing-cloud-march'> Source <a/>

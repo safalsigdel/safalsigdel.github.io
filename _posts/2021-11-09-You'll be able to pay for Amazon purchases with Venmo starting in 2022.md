@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9k-cUrg0udkeyTkvpl9XEp4iCDA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70114110/akrales_170602_1743_0040.0.jpg' width='700px' /><br/>
+If you want to buy anything on Amazon.com, you'll generally need a credit or debit card — but in 2022, the online retailer will begin accepting Venmo as well. Venmo parent company PayPal announced the news (via GeekWire) during its Q3 earnings call on Monday.
+<a href='https://www.theverge.com/2021/11/8/22770949/amazon-venmo-us-purchases-2022-not-paypal'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m5x7H-PbKVmFokZz2K0gA7YTKqo=/0x0:4029x1040/1200x800/filters:focal(1375x267:2019x911)/cdn.vox-cdn.com/uploads/chorus_image/image/70112690/Metaverse_SmallFile.0.jpeg' width='700px' /><br/>
+Niantic is releasing a platform for building what it calls “real-world metaverse” apps. Called Lightship, the platform is “built around the parts necessary to stitch together the digital and the real world,” CEO John Hanke tells me.
+<a href='https://www.theverge.com/2021/11/8/22768925/niantic-lightship-developer-platform-john-hanke-pokemon-go'> Source <a/>

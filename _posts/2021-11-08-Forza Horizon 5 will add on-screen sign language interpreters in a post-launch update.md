@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NpX5DNIk8W1VuN5Qjb-lR19wq1o=/0x0:1881x861/1200x800/filters:focal(791x281:1091x581)/cdn.vox-cdn.com/uploads/chorus_image/image/70108395/forza_screen_cap.0.png' width='700px' /><br/>
-The developers of Forza Horizon 5 are planning to add on-screen sign language interpreters who would appear in a picture-in-picture display during the game's cutscenes. The feature won't be available when the game launches worldwide on November 9th, but Playground Games creative director Mike Brown wrote in a blog post on Xbox Wire that it would be “coming soon.”
-<a href='https://www.theverge.com/2021/11/7/22768466/forza-horizon-5-on-screen-sign-language-interpreters-cutscenes-xbox'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-59YZiPF-McAn4S-JHk5CvECow4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70105826/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
-Facebook's own internal research found 1 in 8 of its users reported compulsive social media use that interfered with their sleep, work, and relationships— what the social media platform calls “problematic use” but is more commonly known as “internet addiction,” the Wall Street Journal reported.
-<a href='https://www.theverge.com/2021/11/6/22766935/facebook-meta-aware-problematic-use-addiction-wellbeing'> Source <a/>

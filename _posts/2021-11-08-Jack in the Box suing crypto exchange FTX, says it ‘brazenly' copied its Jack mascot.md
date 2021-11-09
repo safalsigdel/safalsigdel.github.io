@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/898zWPqV8q3Y50B_xwHI-I-jiG8=/0x0:1035x479/1200x800/filters:focal(461x211:625x375)/cdn.vox-cdn.com/uploads/chorus_image/image/70105072/jack_mascots.0.png' width='700px' /><br/>
-Restaurant chain Jack in the Box says it is suing cryptocurrency exchange FTX because it “brazenly and illegally copied or derived its ‘Moon Man' mascot” from its established Jack mascot, and is doing damage to the Jack in the Box brand.
-<a href='https://www.theverge.com/2021/11/6/22766949/jack-in-the-box-suing-cryptocurrency-exchange-ftx-mascot-copyright-infringement'> Source <a/>

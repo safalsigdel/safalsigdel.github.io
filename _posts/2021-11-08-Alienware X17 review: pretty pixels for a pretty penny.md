@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pMxc6vpddqTXPiHqVE9GrQ8xCYc=/0x0:2040x1360/1200x675/filters:focal(889x597:1215x923)/cdn.vox-cdn.com/uploads/chorus_image/image/70104793/cfaulkner_211103_4757_0207.0.jpg' width='700px' /><br/>
-Alienware did it. Its latest 17.3-inch X17 gaming laptop can actually deliver an enjoyable 4K gaming experience.
-<a href='https://www.theverge.com/22765258/alienware-x17-review-4k-17-inch-gaming-laptop'> Source <a/>

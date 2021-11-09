@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8Q_idC6MDdQktz_UnPARf5LT_z0=/0x0:1728x960/1200x800/filters:focal(700x635:976x911)/cdn.vox-cdn.com/uploads/chorus_image/image/70113106/fleet_overlay_amazon_alzb8t.0.jpg' width='700px' /><br/>
+Rivian says it will start taking orders for its electric delivery vans in 2022 and will deliver them to fleet customers in “early 2023,” calling into question the status of Amazon's exclusive rights to the vehicle.
+<a href='https://www.theverge.com/2021/11/8/22765853/rivian-fleet-sales-amazon-exclusivity-van-r1t-r1s'> Source <a/>

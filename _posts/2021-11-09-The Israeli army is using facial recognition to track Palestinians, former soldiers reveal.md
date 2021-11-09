@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IKUw9pekVjvWeinUxu6fF6Xm3as=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70112185/acastro_210512_1777_deepfake_0001.0.jpg' width='700px' /><br/>
+The Israeli military has deployed an extensive facial recognition program to track Palestinians in the Israeli-occupied West Bank, according to a new report by The Washington Post.
+<a href='https://www.theverge.com/2021/11/8/22769933/israeli-army-facial-recognition-palestinians-track'> Source <a/>
