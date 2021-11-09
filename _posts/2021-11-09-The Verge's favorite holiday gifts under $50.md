@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/TByh_1NYOzUr64Wd18oe1kCU1tI=/0x0:2048x1367/1200x480/filters:focal(861x521:1187x847)/cdn.vox-cdn.com/uploads/chorus_image/image/70116340/Budget_50.0.jpg' width='700px' /><br/>
 Even though many of us are better off in some ways than we were in 2020, we're still in the midst of a pandemic. And for a good number of people, that means this holiday season will, like last year, be about celebrating on a budget.
-<a href='https://www.theverge.com/22748775/holiday-gift-guide-budget-cheap-tech-gadgets-ideas'> Source <a/>
+<a href='https://www.theverge.com/22748775/holiday-gift-guide-under-50-cheap-tech-gadgets-best-ideas'> Source <a/>
