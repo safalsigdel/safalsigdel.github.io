@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HBodg7x82y9brprMSXDNi0EJW3E=/0x0:2800x1866/1200x800/filters:focal(1176x709:1624x1157)/cdn.vox-cdn.com/uploads/chorus_image/image/70115570/_1x_1.0.jpg' width='700px' /><br/>
+This week, Netflix's iOS app is starting a test of a new feed for kids that's designed to show short clips taken from its library of children's content, Bloomberg News reports. The “Kids Clips” feature uses a similar interface to TikTok or Instagram Reels in an attempt to surface child-friendly content. But while competing services are primarily formatted for viewing in portrait, Kids Clips' videos are designed to be viewed in landscape.
+<a href='https://www.theverge.com/2021/11/9/22771727/netflix-kids-clips-tiktok-feed-fast-laughs-ios-app'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WIyLYL4c5bCsgjd_YRPUZbcHmnA=/1208x162:2212x843/1200x800/filters:focal(1151x255:1795x899)/cdn.vox-cdn.com/uploads/chorus_image/image/70115517/Metaverse_SmallFile.0.jpeg' width='700px' /><br/>
+Today let's talk about a concept that we can all agree is well defined and no one is yet sick of talking about: the metaverse.
+<a href='https://www.theverge.com/22771260/niantic-metaverse-meta-facebook-platformer'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gIOEodoy68soUJGtiYedhA7veIk=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/70115487/Omniverse_Avatar___Image__1_.0.jpg' width='700px' /><br/>
+Nvidia has announced a new platform for creating virtual agents named Omniverse Avatar. The platform combines a number of discrete technologies — including speech recognition, synthetic speech, facial tracking, and 3D avatar animation — which Nvidia says can be used to power a range of virtual agents.
+<a href='https://www.theverge.com/2021/11/9/22770165/nvidia-omniverse-avatar-technology-virtual-agents'> Source <a/>

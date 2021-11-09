@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2Yq7UOABEnAB7IDs-4laW__didU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70109225/pixel6.0.jpg' width='700px' /><br/>
-There's a lot to rave about with the Google Pixel 6 and 6 Pro, but their fingerprint scanners are not among those things. Since the Pixel 6 release in October, users have been complaining about its sluggish, unreliable fingerprint scanner that makes the phone a hassle to unlock. Google has finally responded to those complaints, and while it provided an explanation, it didn't really offer any solid solution (via Engadget).
-<a href='https://www.theverge.com/2021/11/7/22768853/google-explains-pixel-6-fingerprint-scanner-unreliable'> Source <a/>
