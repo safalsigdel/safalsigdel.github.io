@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GdQwwUuJFIQKfU7GNwjT8YA37No=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70116990/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
+All signs point to Sony's PlayStation store opening the floodgates for yet another PS5 restock today at 2PM ET / 11AM PT. Before you get too excited, however, keep in mind that the chances for just anyone to waltz in and get one at that time are low. That's because this one is apparently being hosted for people who received invites to purchase a console.
+<a href='https://www.theverge.com/2021/11/9/22772145/ps5-restock-sony-ps-direct-november-holiday-playstation-5-register-email'> Source <a/>

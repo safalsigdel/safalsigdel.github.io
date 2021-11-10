@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M8hUECcYgud5zXJn3jebTi8z0w4=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70116439/VRG_ILLO_Decoder_Steven_Yang_s.0.jpg' width='700px' /><br/>
-Anker is one of those companies that's endlessly fascinating to me — CEO Steven Yang founded it in 2011, and since then, it's turned into a 3,000-person company that operates all over the world by selling phone chargers and battery packs on Amazon and have since expanded to other categories like webcams, Bluetooth speakers, and smart home products.
-<a href='https://www.theverge.com/22769839/anker-battery-charger-gan-amazon-apple-mfi-lightning-iphone-magsafe-decoder'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4rs58kntMt_1i8y1khCeEGCu0fs=/0x0:2646x1746/1200x800/filters:focal(1112x662:1534x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/70115722/Screen_Shot_2021_08_02_at_3.19.53_PM.0.png' width='700px' /><br/>
-In August, Google announced its iOS Maps app would soon be getting a dark mode. But although the feature fully launched at the beginning of September, it arrived quietly enough that several Verge staffers hadn't even noticed its appearance until we started receiving in-app notices. If you've also been in the dark, rather than the dark mode (sorry), here's how to enable the feature.
-<a href='https://www.theverge.com/2021/11/9/22771759/how-to-enable-dark-mode-in-google-maps-ios-android'> Source <a/>

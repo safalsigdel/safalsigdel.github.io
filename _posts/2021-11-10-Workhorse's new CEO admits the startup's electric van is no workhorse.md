@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JnR8e83ZZa7fXk2yb0MXdPFssxY=/0x0:1600x1200/1200x800/filters:focal(672x472:928x728)/cdn.vox-cdn.com/uploads/chorus_image/image/70118519/E3nZHe_XMAED9jF.0.jpg' width='700px' /><br/>
+The new CEO of struggling EV startup Workhorse admitted Tuesday that he's not sure the company's C-1000 electric van can stand up to the kind of punishing work required by delivery companies. In other words, Workhorse's EV isn't a workhorse.
+<a href='https://www.theverge.com/2021/11/9/22772169/workhorse-sales-recall-q3-results-new-ceo-investigations'> Source <a/>

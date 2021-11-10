@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wd6itUzGpbt7b_IkKncjh2u0_dc=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70116020/jpeters_210914_4757_0007.0.jpg' width='700px' /><br/>
-Fitbit released its Charge 5 fitness tracker with a brand new design and a color screen in September, but it launched without two key software features: an electrocardiogram (ECG) app and Fitbit's new Daily Readiness Score, which recommends how hard you should work out. More than a month after the Charge 5's release, those features are now rolling out.
-<a href='https://www.theverge.com/2021/11/9/22765408/fitbit-charge-5-ecg-electrocardiogram-app-daily-readiness-score'> Source <a/>

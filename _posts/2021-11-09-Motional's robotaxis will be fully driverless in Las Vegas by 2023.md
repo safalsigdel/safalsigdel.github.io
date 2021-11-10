@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UQzGdjxHWNrbSBwt6Vb9s7KuXXo=/0x0:1877x1252/1200x800/filters:focal(789x476:1089x776)/cdn.vox-cdn.com/uploads/chorus_image/image/70116023/Motional1.0.jpg' width='700px' /><br/>
-Motional, the autonomous vehicle company that is a $4 billion joint venture between Hyundai and Aptiv, announced the city in which it would launch its fully driverless robotaxi service in 2023, and surprise, surprise, it's Las Vegas.
-<a href='https://www.theverge.com/2021/11/9/22770537/motional-robotaxi-lyft-driverless-las-vegas-2023'> Source <a/>

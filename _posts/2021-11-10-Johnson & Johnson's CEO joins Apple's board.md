@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AZBV7TIEYP1pqPGVWnaTdgLqHro=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70119331/acstro_190902_apple_event_0005.0.0.jpg' width='700px' /><br/>
+Apple has announced that Johnson & Johnson's current CEO, Alex Gorsky, will join its board of directors. Gorsky's move to Apple's leadership team (he'll step down from his role at J&J in January) comes at a time when the company is focusing even more on health and how it can make data more accessible to users and their doctors.
+<a href='https://www.theverge.com/2021/11/9/22773024/apple-alex-gorsky-johnson-and-johnson-health-wearables'> Source <a/>

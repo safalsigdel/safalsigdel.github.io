@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9QXvnRJTjSD7AqXIVlsoQanxUK4=/0x0:1600x1066/1200x0/filters:focal(0x0:1600x1066):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22999488/pasted_image_0__1_.png' width='700px' /><br/>
+Among Us — the incredibly easy-to-play, viral backstabbing game where you spend the majority of your time lying to your friends while doing cutesy inane tasks aboard a rickety deathtrap — is getting perhaps one of its biggest updates yet: one that will decidedly change the game and one that's more than a little inspired by a popular mod that got squashed under the momentum of the official franchise.
+<a href='https://www.theverge.com/2021/11/9/22772634/among-us-update-roles-scientist-engineer-angle-shapeshifter-town-of-us'> Source <a/>

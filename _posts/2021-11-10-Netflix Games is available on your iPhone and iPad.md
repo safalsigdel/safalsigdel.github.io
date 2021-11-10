@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ww1IOW25y8NI_qHbstdqtoQPsTA=/0x0:960x532/1200x800/filters:focal(404x190:556x342)/cdn.vox-cdn.com/uploads/chorus_image/image/70117698/Screen_Shot_2021_11_02_at_1.24.40_PM.0.png' width='700px' /><br/>
+Netflix just brought its new gaming service to all subscribers on Android, but now it has officially come to iOS. The service gives users access to a limited selection of mobile games without ads or in-app purchases.
+<a href='https://www.theverge.com/2021/11/9/22772480/netflix-games-apple-iphone-ipad-ios-subscription-app-store'> Source <a/>

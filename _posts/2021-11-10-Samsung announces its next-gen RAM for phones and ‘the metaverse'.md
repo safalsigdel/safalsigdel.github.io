@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-NuslVm5fF6kA90gL6XVFYN2Y-M=/0x0:2000x1415/1200x800/filters:focal(840x548:1160x868)/cdn.vox-cdn.com/uploads/chorus_image/image/70118222/Samsung_LPDDR5X_DRAM_3.0.jpg' width='700px' /><br/>
+Samsung has announced its next-generation RAM tech made for mobile devices, which it says can be used in future smartphones but also in servers, cars, and “the metaverse.” While Samsung's press release doesn't mention how its new LPDDR5X RAM chips could help people enter the “digital reality,” the tech should help make devices run faster and last longer.
+<a href='https://www.theverge.com/2021/11/9/22772477/samsung-next-gen-ram-lpddr5x-smartphones-14nm-metaverse-marketing'> Source <a/>

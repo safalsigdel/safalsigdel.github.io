@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S41GmG5ys6xn_CM4GHthSuuSPT4=/0x0:4000x2666/1200x675/filters:focal(1762x557:2402x1197)/cdn.vox-cdn.com/uploads/chorus_image/image/70119882/1235841861.0.jpg' width='700px' /><br/>
+Here's the thing about prostate-specific antigen: you do not expect to find it in blood test results for most women, because most women don't have prostates. So when Theranos' former lab director, Kingshuk Das, found that Theranos' devices kept reporting that women had detectable PSA levels, he assumed that meant there was something wrong with the devices.
+<a href='https://www.theverge.com/2021/11/9/22773393/elizabeth-holmes-theranos-fraud-lab-director'> Source <a/>

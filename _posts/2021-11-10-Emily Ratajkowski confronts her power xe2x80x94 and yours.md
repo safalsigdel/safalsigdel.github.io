@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vOGvoR90br-nUHK5Zq19Q6BXq6M=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70117540/EMILY_NEW.0.jpg' width='700px' /><br/>
+Emily Ratajkowski knows how to play the game. Walking out of a bathroom nude before she'd hit it big, she marvels at how a powerful fashion photographer has fallen right into her trap: dismissing her as dumb, wanting to see her naked, then being shocked and impressed at the sight of her body.
+<a href='https://www.theverge.com/2021/11/9/22765720/emily-ratajkowski-interview-book-my-body'> Source <a/>

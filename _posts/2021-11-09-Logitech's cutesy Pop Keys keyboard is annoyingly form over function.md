@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fS-_k4zHHL0r4LFiM1o8NAm6oP8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70116339/jporter_211105_4863_0003.0.jpg' width='700px' /><br/>
-Logitech's $99.99 Pop Keys is part of Logitech's new Studio Series lineup of cute computer accessories alongside the $39.99 Pop Mouse and $19.99 Logitech Desk Mat. The keyboard appears to be an attempt to pair Logitech's typically solid functionality, like multiyear battery life and easy cross-device compatibility, with a cutesy TikTok-friendly aesthetic and novelties like keys dedicated to typing emoji.
-<a href='https://www.theverge.com/22771694/logitech-pop-keys-review'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2SYnJteEJRaG4tTRd8TyxVt_BmA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70116073/mdoying_180411_2400_0035still.0.jpg' width='700px' /><br/>
-Hey hey, Tuesday's back again. Today's a relatively tame one, but Aria has a fun piece on the website that we'll tease below, along with a whole debacle around attributing podcast plays to Facebook. We're talking user agents, yes, and then we're getting into the wild world of podcast prefixes. It's gonna get wonky up in here; let's get to it.
-<a href='https://www.theverge.com/2021/11/9/22771499/facebook-podcast-ios-user-agent-analytics-hot-pod'> Source <a/>

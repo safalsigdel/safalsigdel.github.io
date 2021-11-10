@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Mvgk2HEeEAo-6CHGrQM_Onuu-1E=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/70116429/1236298812.0.jpg' width='700px' /><br/>
-After two months, the Elizabeth Holmes trial has settled into some particular rhythms. Reporters and curious onlookers line up in the early hours of the morning for access to the trial, clutching coffees from the Starbucks down the street. Holmes shows up in colorful masks, often holding hands with her mother. And Judge Edward Davila lectures everyone sitting in the public section of the courtroom about typing too loudly.
-<a href='https://www.theverge.com/2021/11/9/22770951/holmes-trial-jurors-loud-typing-laptops-macbook'> Source <a/>

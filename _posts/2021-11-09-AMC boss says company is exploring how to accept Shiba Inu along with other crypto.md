@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6_BpbX-ZMDFCl0Zv0s2TLG6N-y0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70114548/acastro_210813_1777_amc_0001.0.jpg' width='700px' /><br/>
-AMC boss Adam Aron said today that the theater chain is exploring how it can accept Shiba Inu in addition to other cryptocurrencies like Bitcoin and Dogecoin. In addition, AMC is evidently exploring its own cryptocurrency, which would truly cement the company as king of the memestocks.
-<a href='https://www.theverge.com/2021/11/8/22771149/amc-shiba-inu-cryptocurrency-bitcoin-litecoin-dogecoin'> Source <a/>

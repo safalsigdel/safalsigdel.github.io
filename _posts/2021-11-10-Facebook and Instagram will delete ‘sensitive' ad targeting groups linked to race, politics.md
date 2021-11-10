@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eihLajCEp3MFstjqcXqTJE4-mlQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70119635/acastro_211101_1777_meta_0004.0.jpg' width='700px' /><br/>
+Meta, the new name for the parent company that oversees Facebook and Instagram, suddenly wants to be less creepy. According to a post on the Meta for Business blog, the company is blocking advertisers from using detailed ad targeting options that show ads based on your engagement in “sensitive” areas including race or ethnicity, religious views, political beliefs, sexual orientation, health, and a whole lot more.
+<a href='https://www.theverge.com/2021/11/9/22773038/meta-detailed-targeting-ads-facebook-instagram-messenger'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VMRSxxxOzHzV1Fbid0hwTFsdOcw=/0x0:1844x1258/1200x800/filters:focal(775x482:1069x776)/cdn.vox-cdn.com/uploads/chorus_image/image/70118914/Screen_Shot_2021_11_09_at_5.00.23_PM.0.png' width='700px' /><br/>
+Sports-focused streaming TV service FuboTV has surpassed 1 million subscribers, the company announced today. The news came as part of FuboTV's third-quarter financial earnings report: it ended Q3 with 944,605 subscribers but crossed the million figure after the quarter closed.
+<a href='https://www.theverge.com/2021/11/9/22772953/fubotv-1-million-subscribers-announced'> Source <a/>

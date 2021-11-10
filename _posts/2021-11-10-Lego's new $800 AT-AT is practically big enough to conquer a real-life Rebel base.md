@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0jyxYOp3s8-Hc8TPwJG6qoQHlms=/0x0:4035x2691/1200x800/filters:focal(1696x1024:2340x1668)/cdn.vox-cdn.com/uploads/chorus_image/image/70117220/lego_ucs_at_at_20.0.jpg' width='700px' /><br/>
+Lego has announced its latest supersized Star Wars set: an $800, 6,785-piece replica of the iconic AT-AT tank, most famously seen assaulting the Rebel base on Hoth in The Empire Strikes Back.
+<a href='https://www.theverge.com/22772264/lego-star-wars-at-at-ultimate-collectors-edition-ucs-price-release-date-bricks'> Source <a/>

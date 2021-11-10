@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-n83Jn4pI4KXza0gFnlpneUUPUY=/0x0:4800x3600/1200x800/filters:focal(2016x1416:2784x2184)/cdn.vox-cdn.com/uploads/chorus_image/image/70117134/WIN22_Hybrid_Learning_11SE_008.0.jpg' width='700px' /><br/>
+Microsoft has created a new edition of Windows 11 designed for students and schools. Windows 11 SE will ship exclusively on low-cost laptops that are built for K-8 classrooms, and it marks another attempt by Microsoft to take on Google's range of Chromebooks and their popularity in US schools.
+<a href='https://www.theverge.com/2021/11/9/22771742/microsoft-windows-11-se-features-release-date'> Source <a/>

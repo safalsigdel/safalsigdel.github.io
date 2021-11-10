@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fSzENjoS0cUhuN-Rez-ldb8okNg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70119773/acastro_210429_1777_epicApple_0002.0.jpg' width='700px' /><br/>
+Epic v. Apple judge Yvonne Gonzalez Rogers says Apple must comply with an order to let developers add links and buttons to external payment options, denying the company's motion for a stay. “Apple's motion is based on a selective reading of this Court's findings and ignores all of the findings which supported the injunction,” her new order reads.
+<a href='https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules'> Source <a/>
