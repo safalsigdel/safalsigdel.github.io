@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nI6BDw8e7eEZy9Wwd8vl2QIB8lM=/0x0:5000x3333/1200x800/filters:focal(2537x1434:3337x2234)/cdn.vox-cdn.com/uploads/chorus_image/image/70116922/1235442625.0.jpg' width='700px' /><br/>
-TSMC is teaming up with Sony (specifically, Sony Semiconductor Solutions Corporation) on its new $7 billion chip factory in Japan, the companies jointly announced today. The new plant, as had been previously announced, will focus not on cutting edge chips but rather older 22nm and 28nm processes in an effort to meet supply shortfalls for older chips have has steadily impacted everything from cars to smartphones.
-<a href='https://www.theverge.com/2021/11/9/22772167/tsmc-sony-semiconductor-fab-factory-japan-2024-7-billion'> Source <a/>
