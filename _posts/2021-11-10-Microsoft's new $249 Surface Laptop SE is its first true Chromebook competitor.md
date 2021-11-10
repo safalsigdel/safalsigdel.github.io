@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DQXMW1DfAOu6s5lyw7fEUbQl24c=/0x0:8000x4500/1200x0/filters:focal(0x0:8000x4500):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22998165/COMR_Feature_03_RGB.jpg' width='700px' /><br/>
-Microsoft is going head to head with Chromebooks with a new $249 Surface Laptop SE, its most affordable Surface yet. While the software giant has attempted to compete with the popularity of Chrome OS in US schools for years, the Surface Laptop SE is the company's first true Chromebook competitor.
-<a href='https://www.theverge.com/2021/11/9/22771778/microsoft-surface-laptop-se-features-price-release-date'> Source <a/>
