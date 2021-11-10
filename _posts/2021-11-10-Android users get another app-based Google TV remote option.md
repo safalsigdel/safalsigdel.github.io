@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JbzJwUsCoBkF1mJcNy3s7bsuPdc=/0x0:3800x2850/1200x800/filters:focal(469x1000:1077x1608)/cdn.vox-cdn.com/uploads/chorus_image/image/70121000/image__6_.0.png' width='700px' /><br/>
+Google has updated its Google Home Android app to add a built-in remote for Android TV, Google TV, and other devices like the Nvidia Shield. The feature, which was spotted by 9to5Google, is a helpful option if you misplace a physical remote control. To use it, head to the page in the Google Home app for the device you want to control, and then tap “Open remote” in the bottom left corner of the page.
+<a href='https://www.theverge.com/2021/11/10/22774048/google-home-tv-android-software-remote'> Source <a/>
