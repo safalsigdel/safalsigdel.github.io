@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vJZMHCtmdyl2zqPkvx3D1gmw2hw=/0x0:2048x1367/1200x800/filters:focal(861x521:1187x847)/cdn.vox-cdn.com/uploads/chorus_image/image/70122851/VRG_ILLO_1777_twitter_bitcoin.0.0.jpg' width='700px' /><br/>
-Twitter is building a new division for “all things blockchain at Twitter,” called Twitter Crypto, and has hired Tess Rinearson as the team's engineering lead to “set the strategy for the future of crypto at (and on) Twitter,” the company said in a release Wednesday.
-<a href='https://www.theverge.com/2021/11/10/22774501/twitter-crypto-dedicated-team-dorsey-square-decentralization'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sag9li5VVTXrzZRnzFw6Nrn7J-c=/0x0:1024x576/1200x800/filters:focal(400x172:562x334)/cdn.vox-cdn.com/uploads/chorus_image/image/70122515/Exvh5P5WUAg5Nwy.0.jpeg' width='700px' /><br/>
-YouTube has announced that it'll be hiding public dislike counts on videos across its site, starting today. The company says the change is to keep smaller creators from being targeted by dislike attacks or harassment, and to promote “respectful interactions between viewers and creators.” The dislike button will still be there, but it'll be for private feedback, rather than public shaming.
-<a href='https://www.theverge.com/2021/11/10/22773299/youtube-dislike-button-hide-public-count-numbers-small-creator-protection'> Source <a/>
