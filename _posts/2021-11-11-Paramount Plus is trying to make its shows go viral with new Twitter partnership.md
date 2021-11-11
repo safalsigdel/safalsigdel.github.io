@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TvAyyZBbNhPG1nPc3jEKbopbGZQ=/0x0:1400x933/1200x800/filters:focal(588x355:812x579)/cdn.vox-cdn.com/uploads/chorus_image/image/70122500/paramount_plus.0.0.jpg' width='700px' /><br/>
-Paramount Plus has announced a new partnership with Twitter centered around better promoting its exclusive shows and events, in addition to hosting three Twitter Watch Parties with fans for “select highly-anticipated original series.”
-<a href='https://www.theverge.com/2021/11/10/22774446/twitter-paramount-plus-new-partnership-viral-shows'> Source <a/>
