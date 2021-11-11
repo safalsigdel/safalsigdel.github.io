@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KiFcYR8rvU_gpywk6szTBnWdb54=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70118095/mchin_181005_4093_0011.0.0.jpg' width='700px' /><br/>
-Tim Sweeney has made many headlines this year as the main character of Epic's turbulent courtroom war with Apple. But on Tuesday, the CEO appears to have revealed an equally noteworthy side of himself: He's a Dell XPS 17 user.
-<a href='https://www.theverge.com/2021/11/9/22772209/tim-sweeney-epic-games-dell-xps-17-laptop-cooling-tweet'> Source <a/>

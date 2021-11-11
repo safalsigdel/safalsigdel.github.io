@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5UmBTtDP1oLl_HshWUsoMtQ-yPk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70123275/acastro_180927_1777_uber_0001.0.jpg' width='700px' /><br/>
+Uber discriminates against people with disabilities by charging them a “wait time” fee while entering the vehicle, according to a new lawsuit filed by the US Justice Department against the ride-hailing company.
+<a href='https://www.theverge.com/2021/11/10/22774771/uber-disabled-discrimination-lawsuit-justice-department'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UBTnaEAtdxExhbDG4YMPVorko6U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70124378/acastro_180213_1777_0001.0.jpg' width='700px' /><br/>
+Spotify quietly updated its autoplay feature with a seriously frustrating quirk. When you play music on your Spotify Connect devices, autoplay is now enabled by default and there's no way to turn it off. This means that after your album, playlist, or your song selection is done playing on any device other than your phone or computer, Spotify will continue playing recommended tracks indefinitely.
+<a href='https://www.theverge.com/2021/11/10/22774897/spotify-connect-autoplay-default-speaker-music-streaming'> Source <a/>

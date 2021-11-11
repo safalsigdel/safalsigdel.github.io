@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2et_3GWew8NTc8dVyIrXBOeof2Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70125770/vpavic_4278_20201030_0206.0.jpg' width='700px' /><br/>
+Sony is struggling to make PlayStation 5 consoles and has internally lowered its production forecast for the current financial year, according to a report in Bloomberg. While the company was expecting to assemble 16 million units between April 2021 and March 2022, that figure is reportedly now at around 15 million.
+<a href='https://www.theverge.com/2021/11/11/22775829/sony-ps5-supply-chip-shortage-forecast-cut'> Source <a/>

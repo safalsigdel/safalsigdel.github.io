@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r8b2q1QLMfhISPStkzz8sSMQlD0=/0x0:6036x4024/1200x800/filters:focal(1403x1092:2367x2056)/cdn.vox-cdn.com/uploads/chorus_image/image/70116290/1232480552.0.jpg' width='700px' /><br/>
-This morning many Comcast Xfinity subscribers woke up without their usual services. Reports indicate the system was down, or at least unsteady, in areas stretching from Chicago to Philadelphia, New Jersey, and South Carolina. Looking at DownDetector, issues had been reported earlier in the Bay Area, but it's unclear if those are connected to the problems people saw this morning.
-<a href='https://www.theverge.com/2021/11/9/22771979/comcast-down-outage-internet-cable-tv-phone-xfinity'> Source <a/>

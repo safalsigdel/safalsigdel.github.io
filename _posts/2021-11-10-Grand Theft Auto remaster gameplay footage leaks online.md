@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/clP_fDBKTs_ywPJZb3QwaUqu8iU=/0x0:2558x1438/1200x800/filters:focal(424x597:832x1005)/cdn.vox-cdn.com/uploads/chorus_image/image/70120865/IkRyV0x71x.0.jpg' width='700px' /><br/>
-Gameplay footage from Rockstar's upcoming remaster of its PS2-era Grand Theft Auto trilogy has appeared online, after gameplay footage was apparently uploaded from early copies. VGC has collected together three YouTube uploads and one Reddit post, which between them show over an hour of footage of Grand Theft Auto III, Grand Theft Auto: Vice City, and Grand Theft Auto: San Andreas.
-<a href='https://www.theverge.com/2021/11/10/22773988/grand-theft-auto-remaster-definitive-edition-gameplay-footage-leak-youtube-reddit'> Source <a/>

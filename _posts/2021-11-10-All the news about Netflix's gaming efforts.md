@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aA4pcHJY5U6aK5b3PW7lMFxUhUI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70118178/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
-Netflix is making a big push into video games. The company first dabbled in games with interactive titles like Black Mirror: Bandersnatch and a Carmen Sandiego game, but in 2021, it made gaming a much bigger priority. Netflix hired a former EA exec in July to lead its gaming efforts and, in November, let people play a selection of mobile games for free as part of their subscriptions.
-<a href='https://www.theverge.com/22772589/netflix-video-games-app-news-updates'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K377TVHvsIKOcjfNhwZsZGetg-Q=/0x0:1332x888/1200x800/filters:focal(560x338:772x550)/cdn.vox-cdn.com/uploads/chorus_image/image/70123057/Share_any_window_zoomZoom2X.0.png' width='700px' /><br/>
+Microsoft is adding a useful new Microsoft Teams integration into Windows 11 soon. The software maker has started testing a feature in Windows 11 that will allow Teams users to hover over open windows on the taskbar and quickly share the window content on a Microsoft Teams call. It will make screen sharing a lot easier for Teams and other communication apps on Windows 11.
+<a href='https://www.theverge.com/2021/11/10/22774730/microsoft-windows-11-teams-integration-sharing-features'> Source <a/>

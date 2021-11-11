@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cbe9vg40cac-HbzuHm9DplecHKg=/0x0:3000x1870/1200x800/filters:focal(1260x695:1740x1175)/cdn.vox-cdn.com/uploads/chorus_image/image/70119439/FDx1CWLWYAgipIp.0.jpeg' width='700px' /><br/>
-Netflix has revealed five key cast members for its upcoming show based on the hugely popular manga and anime franchise One Piece. The cast, announced Tuesday, will play characters in the Straw Hats crew, the central group of the series.
-<a href='https://www.theverge.com/2021/11/9/22773096/netflix-one-piece-cast-straw-hats-live-action-show'> Source <a/>

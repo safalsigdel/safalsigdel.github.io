@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lRGRFJLl5g896iyRjSzSsrwqHLM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70121344/vpavic_4547_20210421_0131.0.jpg' width='700px' /><br/>
-Among the features added to iOS 15.2's second beta is a new option in the Find My app that lets you manually scan your surroundings for AirTags and other Find My-enabled devices that someone might be using to track you. The feature, which is detailed by MacRumors, is accessible via a new “Items That Can Track Me” option listed in the Find My app's Items menu.
-<a href='https://www.theverge.com/2021/11/10/22774124/ios-15-2-beta-2-airtag-tracker-scan-privacy-invasion'> Source <a/>

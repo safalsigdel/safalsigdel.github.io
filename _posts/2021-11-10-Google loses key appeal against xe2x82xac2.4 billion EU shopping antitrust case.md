@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FvBAsSc0Oma5OWHCuUb7lAzqH5U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70120921/acastro_201005_1777_googleAntiTrust_0002.0.0.jpg' width='700px' /><br/>
-The EU's second-most senior court, the General Court, has upheld a 2017 ruling by the European Commission which found that Google broke antitrust law in how it used its search engine to promote its shopping comparison service and demote those of its rivals.
-<a href='https://www.theverge.com/2021/11/10/22769823/google-eu-antitrust-shopping-comparison-loses-appeal'> Source <a/>

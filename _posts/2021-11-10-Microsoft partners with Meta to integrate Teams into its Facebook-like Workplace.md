@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-8QkZviE62haLrjE1-hQkmR02QY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70121834/Stylized_App.0.png' width='700px' /><br/>
-Microsoft is partnering with Meta, the company formerly known as Facebook, to integrate Microsoft Teams into Zuckerberg's Workplace platform. Facebook Workplace, or Workplace by Meta as it's now been rebranded, will soon integrate Microsoft Teams to livestream video into Workplace groups.
-<a href='https://www.theverge.com/2021/11/10/22774059/microsoft-teams-meta-facebook-workplace-integration'> Source <a/>

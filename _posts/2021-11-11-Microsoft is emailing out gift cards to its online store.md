@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EsNKOtd5zUESqGTIW11I6h97yvg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70124869/bfarsace_211004_4777_0035.0.jpg' width='700px' /><br/>
+It's November, which means it's officially the holiday season (according to Mariah Carey, at least), and Microsoft seems to already be celebrating by emailing people gift cards to the Microsoft Store. We've seen a few reports on Twitter of people receiving legitimate emails from Microsoft offering gift cards for $10 or even $100, and the Microsoft Store Twitter account confirmed the promotion in a direct message with The Verge.
+<a href='https://www.theverge.com/2021/11/10/22775341/microsoft-store-gift-card-email-promotion'> Source <a/>

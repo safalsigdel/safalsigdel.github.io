@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QBsRJmV_2Li_i_iuM-Gggd54jl8=/0x0:3499x2333/1200x800/filters:focal(1471x888:2029x1446)/cdn.vox-cdn.com/uploads/chorus_image/image/70118299/PROEJCT_RELATE_PRESS_IMAGE_005.0.jpg' width='700px' /><br/>
-Google launched a beta app today that people with speech impairments can use as a voice assistant while contributing to a multiyear research effort to improve Google's speech recognition. The goal is to make Google Assistant, as well as other features that use speech to text and speech to speech, more inclusive of users with neurological conditions that affect their speech.
-<a href='https://www.theverge.com/2021/11/9/22772535/google-project-relate-euphonia-voice-recognition-command-control-assistant'> Source <a/>

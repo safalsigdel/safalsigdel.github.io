@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6lKPDMm3R8Wqnjd0REaN2Fz1nmg=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/70124225/acastro_180213_1777_0004.0.jpg' width='700px' /><br/>
+Spotify is rolling out a new feature that will allow users to more easily block others on the platform. Previously, users had to contact customer support to block someone, but now the feature is easier to find on a user profile.
+<a href='https://www.theverge.com/2021/11/10/22775069/spotify-block-users-harassment-privacy'> Source <a/>

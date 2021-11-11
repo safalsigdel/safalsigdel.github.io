@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ARe-4sSwAwax9VdpXc8pV-qFVxY=/0x0:4795x2698/1200x800/filters:focal(2015x966:2781x1732)/cdn.vox-cdn.com/uploads/chorus_image/image/70123891/Claim_Request___iPad.0.jpg' width='700px' /><br/>
+Apple is solving a complicated problem with its latest iOS update: right of survivorship. Until now, when a loved one or family member dies, there was no easy way to access their iCloud account and absolutely no way of unlocking their phone without knowing their passcode. According to the iCloud terms of service, the deceased person's data goes with them even with a death certificate.
+<a href='https://www.theverge.com/2021/11/10/22774873/apple-digital-legacy-program-comes-to-ios15-iphones-macs'> Source <a/>

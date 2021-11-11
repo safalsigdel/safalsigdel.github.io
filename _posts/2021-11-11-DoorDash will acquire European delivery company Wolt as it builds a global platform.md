@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dvrsZ3k8ViA_yD0ia2sLpYZPynY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70123041/acastro_190724_1777_doordash_0002.0.0.jpg' width='700px' /><br/>
+DoorDash has agreed to acquire the food delivery company Wolt for xe2x82xac7 billion (about $8.1 billion) with plans to expand its reach to Europe (via TechCrunch). Founded in 2015, Wolt is a Finland-based company that contracts out couriers to deliver takeout, groceries, and other goods to customers in 23 countries mainly throughout Europe.
+<a href='https://www.theverge.com/2021/11/10/22774485/doordash-acquires-wolt-stock-europe-international'> Source <a/>
