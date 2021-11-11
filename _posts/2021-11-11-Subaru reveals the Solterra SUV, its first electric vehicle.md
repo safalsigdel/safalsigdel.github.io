@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xkWqp35eRUwPb3drcptGvkS72LU=/0x0:5112x3408/1200x800/filters:focal(2148x1296:2964x2112)/cdn.vox-cdn.com/uploads/chorus_image/image/70126764/1236489408.0.jpg' width='700px' /><br/>
+Here's our first good look at the 2022 Subaru Solterra, the Japanese automaker's first electric vehicle. Coming to the US, Canada, and Europe in 2022, the Solterra SUV will be powered by an electric vehicle platform that Subaru has been co-developing with Toyota.
+<a href='https://www.theverge.com/2021/11/11/22776173/subaru-solterra-electric-suv-specs-range'> Source <a/>
