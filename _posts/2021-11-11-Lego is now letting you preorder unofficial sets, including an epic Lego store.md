@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vER0u6kPocDDh7Cs_cKC1pNEM6w=/0x0:1200x900/1200x800/filters:focal(504x354:696x546)/cdn.vox-cdn.com/uploads/chorus_image/image/70122965/lego_store_bricklink.0.jpg' width='700px' /><br/>
-What do a Lego store, a beautiful abandoned windmill, a retro bowling alley, a miniature aquarium, and a pair of Venetian houses have in common? They've all just become incredibly limited edition Lego sets that you can preorder from the Lego company itself.
-<a href='https://www.theverge.com/2021/11/10/22774596/lego-ideas-bricklink-designer-program-round-2-preorder'> Source <a/>
