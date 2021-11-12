@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7ntrjWeJbkT86zh0QoCl11F4g9U=/0x0:4000x2667/1200x675/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70126670/1236479813.0.jpg' width='700px' /><br/>
-Rivian's hotly anticipated public debut is finally here, but the electric vehicle company is not generating the same kind of feverish online posting as its rival Tesla or other EV startups — and that's probably a good thing.
-<a href='https://www.theverge.com/2021/11/11/22774719/rivian-ipo-meme-stock-tesla-reddit-wallstreetbets'> Source <a/>
