@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zb79KjK0ACBYAmaLIDmvxaZImQ4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70132330/cfaulkner_210921_4751_0009.0.jpg' width='700px' /><br/>
+Last month, the PS5 ended the Nintendo Switch's nearly three-year-long reign as the best-selling console in the US. That proved to be short-lived, however. In October, thanks in large part to the release of the new OLED model of the Switch, Nintendo is back on top.
+<a href='https://www.theverge.com/2021/11/12/22776640/nintendo-switch-oled-sales-october-2021-doug-bowser-interview'> Source <a/>
