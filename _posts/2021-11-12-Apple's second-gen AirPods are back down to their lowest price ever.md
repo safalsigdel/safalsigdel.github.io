@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nrQFYFpAA61JfmQnSBtIAXkyKPc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70127041/akrales_190327_3315_0012.0.jpg' width='700px' /><br/>
-Grab the second-gen Apple AirPods at Walmart for just $89, matching the lowest price we've seen for these earbuds. This model normally costs around $120 and doesn't include the wireless charging case. This model of the ubiquitous white earbuds wasn't a big step forward compared to the first iteration, but our reviewer was still happy with their wireless performance and overall reliability.
-<a href='https://www.theverge.com/good-deals/2021/11/11/22774231/apple-airpods-samsung-tv-soundbar-bose-headphones-steelseries-deal-sale'> Source <a/>
