@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oMs7q8YsEubHpvzet1me9yUQegQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70127857/acastro_200318_1777_discord_0001.0.0.jpg' width='700px' /><br/>
-On Monday, Discord CEO Jason Citron struck fear (or joy) into the hearts of Discord fans by tweeting a screenshot of what appeared to be crypto wallets in the app, but Wednesday evening, he said the company doesn't actually plan to ship what he was showing off.
-<a href='https://www.theverge.com/2021/11/11/22776422/discord-ceo-crypto-nft-wallet-jason-citron-tweet'> Source <a/>
