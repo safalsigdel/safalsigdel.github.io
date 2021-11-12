@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MqQw7Vq5vV2qi2pyuUE-6Z_4VKM=/0x0:6526x4351/1200x675/filters:focal(2694x1984:3738x3028)/cdn.vox-cdn.com/uploads/chorus_image/image/70131814/akrales_211012_4763_0023.0.jpg' width='700px' /><br/>
+It wasn't too long ago that the idea of paying $800 for a Chromebook would get you laughed out of a room. In some circles, it still will. I myself have criticized all kinds of Chrome OS devices for being too expensive for what they offer, and I maintain that the $259.99 Chromebook Duet is one of the best bargains in today's laptop market.
+<a href='https://www.theverge.com/22776850/asus-chromebook-flip-cx5-review-the-15-inch-chromebook-to-beat'> Source <a/>
