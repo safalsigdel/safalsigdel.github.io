@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wsdHbZEOFmMgqI9ZKsDfAr7IX_U=/0x0:600x400/1200x800/filters:focal(252x152:348x248)/cdn.vox-cdn.com/uploads/chorus_image/image/70125145/REC_ASA3_CODE21_20210928_143439_0053_M.0.jpeg' width='700px' /><br/>
-Elon Musk has kicked off a cascading sale of his personal Tesla holdings after recently asking his Twitter followers if he should sell 10 percent of his stake in the company to pay taxes. According to 10 new filings with the Securities and Exchange Commission published Wednesday, the billionaire CEO has sold at least $5 billion worth of Tesla stock so far this week.
-<a href='https://www.theverge.com/2021/11/10/22775485/elon-musk-twitter-poll-tesla-stock-option-sold-taxes'> Source <a/>

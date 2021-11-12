@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/do57BTOpf18ED6zu4jPQSjZTw0I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70126104/acastro_190530_1777_xbox_0001.0.0.jpg' width='700px' /><br/>
-Microsoft will finally allow Windows users to install PC games from the Microsoft Store or Xbox Game Pass for PC to any folder of their choice with unrestricted access. The move will allow PC gamers to access the folders of games and mod them freely, or let Windows users move games freely to any folders or drives of their choice.
-<a href='https://www.theverge.com/2021/11/11/22776024/microsoft-xbox-app-windows-folder-install-uwp-options'> Source <a/>

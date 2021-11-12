@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TX8qU6E-ugMqgiwDUkB-FtP0Tf8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70123524/acastro_190919_1777_instagram_0003.0.0.jpg' width='700px' /><br/>
-Head of Instagram Adam Mosseri said Wednesday that the platform is testing the long-awaited Take a Break feature to give users reminders when they've spent a long time on the platform.
-<a href='https://www.theverge.com/2021/11/10/22774827/instagram-take-a-break-feature-test-meta-facebook'> Source <a/>

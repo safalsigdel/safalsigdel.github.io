@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8eurvBjGd3Qcl567aq1_DMZ129w=/0x0:1268x713/1200x800/filters:focal(533x256:735x458)/cdn.vox-cdn.com/uploads/chorus_image/image/70127839/hummer_ev_reveal_suv_gal_my23_hummer_suv_VP33__1_.0.jpg' width='700px' /><br/>
+The Hummer has been resurrected as an electric vehicle, and now its military counterpart may be as well. General Motors is making a prototype vehicle for the US military that is based on the forthcoming Hummer EV in 2022, CNBC reports.
+<a href='https://www.theverge.com/2021/11/11/22776324/general-motors-hummer-ev-us-military-prototype-defense'> Source <a/>

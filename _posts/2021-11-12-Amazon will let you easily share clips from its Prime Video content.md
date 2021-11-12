@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vBpmnFZCdZrNVnyqvwaZ6ieHHXU=/0x0:1320x743/1200x800/filters:focal(555x267:765x477)/cdn.vox-cdn.com/uploads/chorus_image/image/70128466/amazon.0.png' width='700px' /><br/>
+Amazon has announced that it'll let you easily share video clips showing up to 30 seconds of some of its Prime Video content, right from its iPhone app. The feature will only be available for a very limited number of shows initially, but letting users share video from shows is a very different attitude than the one displayed by some other streaming providers.
+<a href='https://www.theverge.com/2021/11/11/22776572/amazon-prime-video-share-clip-social-media-iphone-ipad'> Source <a/>

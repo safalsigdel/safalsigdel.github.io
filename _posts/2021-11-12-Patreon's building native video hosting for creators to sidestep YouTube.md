@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JVlP2YnncyolQmWaEwdjd0MU1w0=/0x0:1600x800/1200x800/filters:focal(672x272:928x528)/cdn.vox-cdn.com/uploads/chorus_image/image/70127711/International_Patreon_send.0.jpg' width='700px' /><br/>
+Patreon is building a video hosting solution and native player. CEO Jack Conte confirmed the project to The Verge, alongside news that he is joining many executives before him in launching a podcast called The Creator Economy.
+<a href='https://www.theverge.com/2021/11/11/22774301/patreon-jack-conte-video-player-podcast-youtube-launch'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4mop8agiZ4vhXN_Yltse8WMpxuY=/0x0:3160x1960/1200x800/filters:focal(1328x728:1832x1232)/cdn.vox-cdn.com/uploads/chorus_image/image/70130174/Screen_Shot_2021_11_11_at_4.39.39_PM.0.png' width='700px' /><br/>
+Cash-strapped EV startup Lordstown Motors is delaying the launch of its electric pickup truck, the Endurance, one day after announcing the sale of its Ohio factory to iPhone assembler Foxconn.
+<a href='https://www.theverge.com/2021/11/11/22777172/lordstown-motors-endurance-pickup-truck-delay-foxconn'> Source <a/>

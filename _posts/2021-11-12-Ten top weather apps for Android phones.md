@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UK0hciWjYHy_wElQY8SMp882vKM=/0x0:3000x2250/1200x800/filters:focal(1260x885:1740x1365)/cdn.vox-cdn.com/uploads/chorus_image/image/66996957/1215923322.jpg.0.jpg' width='700px' /><br/>
+One of the more popular uses for phones (besides taking photos and watching TikTok videos) is to check out the weather. As a result, there are myriad weather apps out there, making it really hard to pick which one to use. So we've put together this guide to what we think are some of the better ones out there.
+<a href='https://www.theverge.com/21307332/dark-sky-alternatives-weather-apps-apple-android'> Source <a/>

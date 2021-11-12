@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BJ2LcafzSgguaxUqQ75Bm_gVYrw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70125294/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
-Netflix now supports the AV1 codec when streaming to some TVs, the company announced on Tuesday. It's only available on certain devices to start with, though that list includes any TV connected to the PS4 Pro, so if you have one of those, you can give AV1 Netflix streaming a shot.
-<a href='https://www.theverge.com/2021/11/10/22775150/netflix-av1-codec-tv-streaming-ps4-pro'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-bZYNnGhCWPdV1Ir1V-epIlLrBg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70128447/vpavic_180125_2283_0037.0.jpg' width='700px' /><br/>
+MoviePass might be making a comeback soon, after Stacy Spikes (one of the service's original co-founders) successfully bought back the company out of bankruptcy earlier this week, according to a report from Insider. Spikes is hoping to relaunch the company sometime next year, although there are few details on that yet.
+<a href='https://www.theverge.com/2021/11/11/22776299/moviepass-co-founder-relaunch-bankruptcy-stacy-spikes-film-app-service'> Source <a/>

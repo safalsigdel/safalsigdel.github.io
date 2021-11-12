@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/92guNJKa42DP5BlbiSfMon_2ehg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70130154/vpavic_4278_20201030_0292.0.jpg' width='700px' /><br/>
+The global chip shortage has had a massive effect on the entire technology industry for more than a year, but a wave of gaming hardware news over the past week and change has shown that things aren't going to get better anytime soon. Gaming companies big and small are going to be feeling the sting well into next year, and it's not just Sony and Microsoft's next-gen consoles that could be hard to get a hold of.
+<a href='https://www.theverge.com/22777216/global-chip-supply-chain-shortage-holidays-christmas-shopping'> Source <a/>

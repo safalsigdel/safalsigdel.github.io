@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iIdFYiIwlVaqH9dc6QbFD0YDik0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70130095/acastro_180507_1777_microsoft_0001.0.jpg' width='700px' /><br/>
+Double-check your inbox and your spam folder because Microsoft might have left something in there for you. Earlier this week, a few people noticed gift cards for the Microsoft Store suddenly appearing via email, and the company has confirmed it sent out 50,000 of the codes to US customers.
+<a href='https://www.theverge.com/2021/11/11/22777161/microsoft-store-gift-card-email-holidays'> Source <a/>

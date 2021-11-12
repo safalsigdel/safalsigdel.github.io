@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uJW4MAkQmye-e6Dase8ADM4fav4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70124781/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter is dropping the crop on web. This is the same update that banished Twitter's awkward auto-cropping algorithm on its Android and iOS apps, which means that you'll see images in their entirety on your timeline as you scroll through Twitter on your web browser.
-<a href='https://www.theverge.com/2021/11/10/22775241/twitter-web-full-sized-images-no-crop-algorithm'> Source <a/>

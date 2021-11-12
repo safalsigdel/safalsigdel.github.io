@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WUYcuam1iDlBIyHetnRhpTdCv58=/0x0:1454x972/1200x800/filters:focal(611x370:843x602)/cdn.vox-cdn.com/uploads/chorus_image/image/70128502/F558C979_3BAF_4B2D_ADC3_CDFC275FFA64.0.jpeg' width='700px' /><br/>
+Panic has delayed the first shipments of its Playdate handheld, which is kind of like a Game Boy but with a crank, to early 2022. The company said that initial units shipped with batteries that didn't work as expected, forcing it to send the units back to Malaysia to get new batteries.
+<a href='https://www.theverge.com/2021/11/11/22776649/panic-playdate-delay-2022-handheld-battery-chip-shortage'> Source <a/>

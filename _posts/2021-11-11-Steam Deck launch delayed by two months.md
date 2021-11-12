@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1zLM5kEScUthLjl21Ps5bJNPvus=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/70123396/steam_deck.5.jpg' width='700px' /><br/>
-Valve is delaying the launch of the Steam Deck, its handheld gaming PC, by two months. The Steam Deck had been set to launch in December, but Valve now estimates that the first orders will start shipping in February 2022.
-<a href='https://www.theverge.com/2021/11/10/22774888/steam-deck-delayed-two-months-february-2022-launch-shipping'> Source <a/>

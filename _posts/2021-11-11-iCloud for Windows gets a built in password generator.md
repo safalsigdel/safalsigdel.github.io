@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RHvkuw3YRB0bkoJbCc5B-57Ez6c=/0x0:1198x798/1200x800/filters:focal(504x304:694x494)/cdn.vox-cdn.com/uploads/chorus_image/image/70125934/2021_11_10_18_45_58_Microsoft_Store.0.png' width='700px' /><br/>
-A new update for Apple's iCloud Windows app has added a password generator, as well as support for Apple's ProRaw and ProRes photo and video formats to the cloud storage utility. The update, which was first spotted by MacRumors, also adds the ability for participants of a shared iCloud Drive file or folder to add or remove other users.
-<a href='https://www.theverge.com/2021/11/11/22775976/icloud-for-windows-password-generator-prores-proraw'> Source <a/>

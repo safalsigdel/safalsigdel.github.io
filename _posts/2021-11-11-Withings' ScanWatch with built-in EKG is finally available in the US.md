@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VSuf5QJo4sOO5rGUcflh4eD0_3w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70124626/akrales_200916_4186_0153.0.0.jpg' width='700px' /><br/>
-After almost two years, the Withings ScanWatch is now available to purchase in the US after its announcement back at the beginning of 2020. The ScanWatch was waiting for clearance from the Food and Drug Administration, which it had received in October for its EKG and blood oxygen measurement features.
-<a href='https://www.theverge.com/2021/11/10/22772984/withings-scanwatch-blood-oxygen-sleep-apnea-watch-fda'> Source <a/>

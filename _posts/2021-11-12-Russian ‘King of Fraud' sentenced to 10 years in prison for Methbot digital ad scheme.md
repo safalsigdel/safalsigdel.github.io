@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KDe34yTtypBhNIU_66aZ53R6pO4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70128074/acastro_170621_1777_0001_fin.0.jpg' width='700px' /><br/>
+A Russian man convicted on wire fraud and money laundering charges for his role in the Methbot digital advertising scheme was sentenced to 10 years in prison on Wednesday.
+<a href='https://www.theverge.com/2021/11/11/22776481/russian-king-of-fraud-sentenced-10-years-prison-methbot-digital-ad-scheme'> Source <a/>

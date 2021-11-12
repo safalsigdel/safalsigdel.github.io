@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Nr2yY1hLwAaPJkjmjmQorQBEm3s=/0x0:3543x2257/1200x800/filters:focal(1489x846:2055x1412)/cdn.vox-cdn.com/uploads/chorus_image/image/70122315/1234731223.0.jpg' width='700px' /><br/>
-Airbnb has updated its search filters and accessibility review process with the goal of making it easier for people with disabilities to find accommodations on its platform, the company announced in a blog post.
-<a href='https://www.theverge.com/2021/11/10/22774180/airbnb-accessible-filters-accommodations-rentals'> Source <a/>
