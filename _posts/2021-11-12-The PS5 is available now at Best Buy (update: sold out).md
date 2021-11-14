@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JRsCp01cKNkgr3Gs0QYr0oMJX9k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70128072/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
-Update November 11th, 2:11PM ET: Best Buy has sold out of both PlayStation 5 consoles. We'll be sure to keep you up to date when we hear of another round of restocks.
-<a href='https://www.theverge.com/2021/11/11/22639500/playstation-5-ps5-restock-available-best-buy-queue'> Source <a/>

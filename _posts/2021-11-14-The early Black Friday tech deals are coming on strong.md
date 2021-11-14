@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ULa-DZ34Ykt5QfAwlVMJnZhDAd4=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/70137540/VRG_Illo_4859_GG_Main_lede.0.jpg' width='700px' /><br/>
+You made it to the weekend. Good job. In exchange for making it to arguably the best time of the week, we owe you some deals. That's just how it works. Below, you'll find a potent mixture of this week's best tech deals.
+<a href='https://www.theverge.com/good-deals/2021/11/13/22778411/google-nest-audio-smart-speaker-airpods-fully-jarvis-desk-amazon-deal-sale'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rkOuDsId-eA3LOt7P7HVlJ8Xgq8=/0x0:1280x720/1200x800/filters:focal(382x228:586x432)/cdn.vox-cdn.com/uploads/chorus_image/image/70128188/screenshot02.0.jpeg' width='700px' /><br/>
-There's now a Twitch app for the Nintendo Switch. It's a free download that's available now on the eShop.
-<a href='https://www.theverge.com/2021/11/11/22776560/twitch-app-nintendo-switch-launch'> Source <a/>

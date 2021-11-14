@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lLAOsQdTvarrAQ9UtHGAceiC6qc=/0x0:925x664/1200x800/filters:focal(402x307:594x499)/cdn.vox-cdn.com/uploads/chorus_image/image/70133056/Secretlab_TITAN_XXS_Main.0.jpg' width='700px' /><br/>
+When it comes to gaming chairs, most of the focus is on how they can support and comfort your next 5,000 IQ play, but the fact is that most of them are designed to be large and imposing. After teasing a miniaturized version of its Titan chair as an April Fools' joke, Secretlab decided to send it to production, creating this Titan XXS.
+<a href='https://www.theverge.com/2021/11/12/22778267/secretlab-xxs-gamer-chair-real-april-fools-joke'> Source <a/>

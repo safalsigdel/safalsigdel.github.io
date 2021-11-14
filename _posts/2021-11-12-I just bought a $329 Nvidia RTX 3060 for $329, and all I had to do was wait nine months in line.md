@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JHID8xbtzZ7cR_nHOdabuhkQaAU=/0x0:2791x2000/1200x800/filters:focal(1200x809:1646x1255)/cdn.vox-cdn.com/uploads/chorus_image/image/70129122/verge_sean_hollister_evga_rtx_3060_20211111_2.0.jpg' width='700px' /><br/>
-Nearly nine months ago, Nvidia said it would launch its most affordable RTX 3000 graphics card yet — the $329 RTX 3060. Good luck actually finding one at that price, right? That's why I subtitled my review “$329 with an asterisk sign.” And sure enough, they were nigh-impossible to find on launch day for Nvidia's sticker price.
-<a href='https://www.theverge.com/2021/11/11/22776567/evga-line-queue-to-get-nvidia-rtx-3000-graphics-card-works'> Source <a/>

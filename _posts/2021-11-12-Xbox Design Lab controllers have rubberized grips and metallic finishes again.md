@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EpsKc_SyUWXF63aU_ke4IERdA-0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70131676/XBOX_DESIGN_LAB_HORIZ_JPG.0.jpg' width='700px' /><br/>
-Microsoft is bringing back options for rubberized grips and metallic finishes on Xbox Design Lab controllers. The Xbox maker originally paused its Design Lab program ahead of the Xbox Series X launch last year, before bringing it back in June without the rubberized grips and metallic finishes options.
-<a href='https://www.theverge.com/2021/11/12/22777936/microsoft-xbox-design-lab-ruberized-grips-metallic-finishes'> Source <a/>

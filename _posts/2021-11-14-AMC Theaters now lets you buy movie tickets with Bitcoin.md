@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JB_4ja9fFNwvricsJzVHvzaH_oM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70136072/acastro_210813_1777_amc_0001.0.jpg' width='700px' /><br/>
+AMC Theaters, which is perhaps the king of the memestocks, promised in August that you'd be able to pay for tickets and concessions with Bitcoin by the end of the year, and now, you can do just that.
+<a href='https://www.theverge.com/2021/11/12/22779137/amc-theaters-movie-tickets-cryptocurrency-bitcoin-cash-ethereum-litecoin'> Source <a/>

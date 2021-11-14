@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bL7cSQkrt1owW_-D-vpwT9b6_EQ=/0x0:2050x1367/1200x800/filters:focal(858x764:1186x1092)/cdn.vox-cdn.com/uploads/chorus_image/image/70135911/dseifert_201025_4263_00014.0.0.jpg' width='700px' /><br/>
+Starting this week, newer Echo and Echo Dot speakers can use ultrasound to detect occupancy in your home and turn on and off other connected devices such as lights or your Fire TV. First mentioned at Amazon's fall hardware event in September, the Echo and Echo Dot fourth-gen speakers can now emit an “inaudible ultrasound wave” to detect if there are people present in a room.
+<a href='https://www.theverge.com/2021/11/12/22779044/amazon-echo-speakers-ultrasound-people-detection'> Source <a/>

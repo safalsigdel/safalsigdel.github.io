@@ -1,3 +1,0 @@
-<img src='https://cdn0.vox-cdn.com/hermano/verge/product/image/9737/vpavic_211103_4871_0011.jpg' width='700px' /><br/>
-DJI may have a wide range of drones in its portfolio, but it's the Mavic line that symbolizes the beginning of a new era for DJI drones. With the latest Mavic 3, DJI is introducing dual camera systems with hybrid zoom lenses, built-in SSDs, ability to shoot ProRes video, and better autonomous features. It's a blend of pro-focused photo and video features with an easy-to-fly and easy-to-transport drone.
-<a href='https://www.theverge.com/22775194/dji-mavic-3-cine-review-prores-drone-price'> Source <a/>

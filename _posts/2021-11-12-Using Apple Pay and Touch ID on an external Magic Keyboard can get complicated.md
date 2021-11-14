@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MmVlQR3QMRr493lzTTXh31sg4Oc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70129373/akrales_20210515_4583_0001.0.jpg' width='700px' /><br/>
-Publications like 9to5Mac and Macworld have reported some odd behavior when trying to use Apple's Magic Keyboard with Touch ID to authenticate for Apple Pay — specifically, that it won't work if you're trying to do it with a MacBook that has its display closed, as it would be while running it in “clamshell mode” hooked up to an external monitor.
-<a href='https://www.theverge.com/2021/11/11/22776778/apple-pay-magic-keyboard-with-touch-id-apple-silicon-macbook-clamshell'> Source <a/>

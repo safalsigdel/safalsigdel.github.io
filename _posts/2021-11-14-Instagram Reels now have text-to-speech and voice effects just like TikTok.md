@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8RapoYAzifk522aTgTY7oxCccCI=/0x0:726x912/1200x0/filters:focal(0x0:726x912):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23008827/voice_effect.PNG' width='700px' /><br/>
+Instagram has added text-to-speech and voice effects to its TikTok competitor Reels, two features TikTok has had for some time. The robotic voice-overs used as narration for videos grew so ubiquitous on TikTok in fact, that voice actor Bev Standing sued the company in May, saying it didn't have permission to use her voice. In September, TikTok reached a settlement with Standing that included a licensing agreement.
+<a href='https://www.theverge.com/2021/11/12/22778073/instagram-reels-text-to-voice-effects-tiktok-creators'> Source <a/>

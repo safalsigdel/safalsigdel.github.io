@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BXmUbRkkK5xafbumoN5YmSWgQiU=/0x0:768x512/1200x800/filters:focal(323x195:445x317)/cdn.vox-cdn.com/uploads/chorus_image/image/70131930/msedge_8C53o6F5aS.0.png' width='700px' /><br/>
-A modified iPhone X that has a USB-C port instead of a Lightning port has sold on eBay for the princely sum of $86,001. The phone, which is the work of robotics engineering student Kenn Pillonel, can use the physical connector for both charging and transferring data. But Pillonel warns that the buyer shouldn't use the groundbreaking device as a regular phone, take it apart, or update the OS — any of which could risk breaking it.
-<a href='https://www.theverge.com/2021/11/12/22777988/usb-c-iphone-x-lightning-ebay-auction-86001'> Source <a/>

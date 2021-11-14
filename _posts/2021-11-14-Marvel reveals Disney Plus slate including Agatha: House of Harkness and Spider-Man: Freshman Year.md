@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4C4Obe-I9lOimlw6rLDyDI6pnHc=/0x0:1000x1000/1200x800/filters:focal(420x420:580x580)/cdn.vox-cdn.com/uploads/chorus_image/image/70133557/slack_imgs.0.jpg' width='700px' /><br/>
+As part of its Disney Plus Day — which included a number of new releases hitting the streaming service today — Marvel revealed a big slate of upcoming projects, some new, some previously announced. That includes the official title for WandaVision's Agatha spinoff, and a new Spider-Man animated series. Unfortunately there aren't any new trailers, but instead a whole lot of logos. Here's the full list, courtesy of Marvel:
+<a href='https://www.theverge.com/2021/11/12/22777033/marvel-disney-plus-agatha-spider-man'> Source <a/>

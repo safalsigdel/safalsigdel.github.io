@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5I3ymAUU4p_tO72sbtnRVKi8sHo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70130117/cgartenberg_210917_4762_0003.0.jpg' width='700px' /><br/>
-Apple's fall software updates, iOS 15 and macOS Monterey, are officially out in the world for everyone. But Apple's latest software has arrived with more of a whimper than a bang; the two updates aren't so much bad as they are boring. Which has me wondering: why is Apple still clinging to its annual release schedule at all?
-<a href='https://www.theverge.com/22771079/apple-macos-monteray-ios-15-mac-iphone-software-operating-system-updates-space-out-features'> Source <a/>

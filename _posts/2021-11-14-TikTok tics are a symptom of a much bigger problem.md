@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fztK-9ZI9jeyRtHiPUU6PwQBYp8=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70132987/acastro_211111_4875_0001.0.jpg' width='700px' /><br/>
+Reports of teens developing tic-like behaviors after watching TikTok videos highlight something most of us don't consider about mental health: symptoms can be social.
+<a href='https://www.theverge.com/2021/11/12/22772157/tiktok-tics-suggestible-distress-teens'> Source <a/>

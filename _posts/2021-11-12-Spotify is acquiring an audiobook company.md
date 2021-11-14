@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aEBRbK5O60EXUKszU5Z4lG4XxxU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70129486/acastro_180213_1777_0006.0.jpg' width='700px' /><br/>
-Spotify has announced plans to acquire the audiobook services and distribution company Findaway for an undisclosed price. The company operates multiple businesses, including distributing audiobooks to various platforms and offering audiobook creation services under its business Findaway Voices. The company pairs authors with narrators, which could become a new and valuable source of revenue for Spotify.
-<a href='https://www.theverge.com/2021/11/11/22776777/spotify-findaway-acquire-audiobooks-podcasts-buy'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OYWWPZzNCgA_eTZ7nMxLlJlfQ3Q=/0x0:828x1200/1200x800/filters:focal(527x88:659x220)/cdn.vox-cdn.com/uploads/chorus_image/image/70133596/FEAcf4dUcAET6lR.0.jpg' width='700px' /><br/>
+The classic X-Men: The Animated Series is getting a sequel series on Disney Plus in 2023: the newly announced X-Men ‘97, which “explores new stories in the iconic ‘90s timeline of the original series.” The announcement was made in the most fitting of fashions, of course: the “Sad Wolverine” meme from the original show.
+<a href='https://www.theverge.com/2021/11/12/22778385/marvel-disney-plus-x-men-animated-series-97-sad-wolverine-meme-2023'> Source <a/>

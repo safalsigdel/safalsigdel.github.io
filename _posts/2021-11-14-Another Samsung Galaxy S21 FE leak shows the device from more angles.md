@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OpgWc3GtOg8me64gddh3EQ0Cc5c=/0x0:1414x2000/1200x800/filters:focal(594x887:820x1113)/cdn.vox-cdn.com/uploads/chorus_image/image/70138066/galaxy_s21_fe_leak_1.0.png' width='700px' /><br/>
+The yet-to-be-announced Samsung Galaxy S21 Fan Edition (FE) has become the victim of another leak, according to a report by Android Police. Just like its S20 FE predecessor, which serves as the affordable counterpart to the S20, the S21 FE is supposed to be the budget-friendly alternative to the flagship S21.
+<a href='https://www.theverge.com/2021/11/13/22779911/samsung-galaxy-s21-fe-leak-shows-device'> Source <a/>

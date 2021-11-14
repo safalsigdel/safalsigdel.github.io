@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f280G8eMc3defd42-NQ4OY6Bj5s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70131609/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
-Instagram is offering massive sums of money to creators to post videos on its TikTok competitor Reels, as highlighted in a pair of reports from TechCrunch and Business Insider. Instagram announced its bonus program for Reels in July when Meta CEO Mark Zuckerberg said the company would be paying $1 billion to creators through 2022.
-<a href='https://www.theverge.com/2021/11/12/22777899/instagram-reels-bonus-program-35000-dollars-creators-tiktok-competitors'> Source <a/>
