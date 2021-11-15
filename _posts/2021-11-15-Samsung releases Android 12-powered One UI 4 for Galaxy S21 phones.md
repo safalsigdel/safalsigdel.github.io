@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/k3BHh3PM71JWrw6lQyciMZ2_8gI=/0x0:1377x918/1200x800/filters:focal(579x349:799x569)/cdn.vox-cdn.com/uploads/chorus_image/image/70143279/image5.0.jpg' width='700px' /><br/>
+Samsung is making its One UI 4 software update available for the Galaxy S21, S21 Plus, and S21 Ultra starting today, the company has announced. The update is based on this year's Android 12, was released in public beta in September, and adds new theming options, keyboard tweaks, and privacy settings.
+<a href='https://www.theverge.com/2021/11/15/22782772/samsung-one-ui-4-android-12-galaxy-s21-plus-ultra-release-date-features'> Source <a/>
