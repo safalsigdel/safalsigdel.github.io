@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Uc-N0hrXJHz5Mxtl9eArUr_5RHM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70133598/497506844.0.jpg' width='700px' /><br/>
-President Biden has selected Robert Califf as his pick for the next head of the Food and Drug Administration, the White House announced today. Califf is currently a senior advisor for Verily Life Sciences and Google Health, two divisions of parent company Alphabet. He was brought on in 2019 to lead health strategy and policy for the groups.
-<a href='https://www.theverge.com/2021/11/12/22778342/califf-fda-head-alphabet-google'> Source <a/>
