@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FUAxYq5z8_wcx1MmgfYgpSFszMk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70133767/FD7Q40MXsAMPykq.0.jpg' width='700px' /><br/>
-Senator Joe Manchin (D-WV) wants to kill a $4,500 federal tax credit for union-made electric vehicles because he thinks they're “wrong” and “not American.” And he picked an awfully tone-deaf moment to say this: at an event hosted by Toyota celebrating a $240 million investment in its West Virginia facility, where he accepted three giant novelty checks for charity from the Japanese automaker.
-<a href='https://www.theverge.com/2021/11/12/22776841/joe-manchin-union-tax-credit-electric-cars-toyota'> Source <a/>
