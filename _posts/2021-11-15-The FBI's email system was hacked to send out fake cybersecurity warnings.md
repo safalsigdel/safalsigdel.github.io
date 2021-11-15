@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FoRh7XQG1F7TH6zDYyTU--9HBHU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70140777/acastro_180109_1777_0003_v2.0.jpg' width='700px' /><br/>
+Hackers targeted the Federal Bureau of Investigation's (FBI) email servers, sending out thousands of phony messages that say its recipients have become the victims of a “sophisticated chain attack,” first reported by Bleeping Computer. The emails were initially uncovered by The Spamhaus Project, a nonprofit organization that investigates email spammers.
+<a href='https://www.theverge.com/2021/11/14/22781341/fbi-email-system-hacked-fake-cybersecurity-warnings'> Source <a/>

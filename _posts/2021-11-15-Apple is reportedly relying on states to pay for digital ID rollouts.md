@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0KB3Ty_UArVVre0lXRpr1024wnE=/0x0:3000x1828/1200x800/filters:focal(1260x674:1740x1154)/cdn.vox-cdn.com/uploads/chorus_image/image/70141340/license.0.jpg' width='700px' /><br/>
+Apple will soon let users in participating states digitally store their driver's licenses or state IDs on their iPhone's wallet, but according to a report by CNBC, the initiative will be partially funded by the states — and their taxpayers.
+<a href='https://www.theverge.com/2021/11/14/22781570/apple-making-states-pay-digital-id-service'> Source <a/>
