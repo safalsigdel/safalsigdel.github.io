@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dgtKJ-Aq35CZWsaHk-WLDco7wTY=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70146440/Home_charging_convert_default.0.jpg' width='700px' /><br/>
+Faraday Future is launching an investigation into recent allegations of financial fraud at the startup, including claims from a recent short-seller report by J Capital. The EV startup's board of directors has formed a “special committee of independent directors,” which has hired a law firm to perform the investigation.
+<a href='https://www.theverge.com/2021/11/15/22784038/faraday-future-fraud-investigation-j-capital-short-seller'> Source <a/>

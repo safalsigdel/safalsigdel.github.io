@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wWTPmzP1D2l7VybODVOqJ50gDoQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70143562/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
-Microsoft has already made it more difficult to switch default browsers in Windows 11, and now the company is going a step further by blocking apps like EdgeDeflector. Third-party apps like EdgeDeflector and even Firefox have offered workarounds to Microsoft forcing people to use Edge in Start menu search results, even if their default browser is not Edge.
-<a href='https://www.theverge.com/2021/11/15/22782802/microsoft-block-edgedeflector-windows-11'> Source <a/>

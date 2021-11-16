@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0n9zqreExg1PZBm_hHVQET812lc=/0x0:1370x815/1200x800/filters:focal(550x370:768x588)/cdn.vox-cdn.com/uploads/chorus_image/image/70136395/steam_deck_developer_summit.0.jpg' width='700px' /><br/>
-On Friday, PC gaming giant Valve invited the developer community to learn more about its Steam Deck, a $400 handheld gaming PC with a comparatively powerful AMD chip. It's akin to the Nintendo Switch of gaming PCs, and there's a lot we already knew about the delayed handheld from its announcement, our trip to Valve's headquarters, and an official teardown. But today, we learned even more.
-<a href='https://www.theverge.com/22779252/steam-deck-things-we-learned-from-valve-developer-summit'> Source <a/>

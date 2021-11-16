@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w1UAt3szZiZXZbnbUSChOvASUNA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70145255/acastro_190530_1777_xbox_0001.0.0.jpg' width='700px' /><br/>
+Microsoft is enabling its Xbox FPS Boost mode on 37 more games today, bringing the total well beyond 100 games. Titles getting FPS Boost include the entire Gears of War franchise, the original Assassin's Creed, Alan Wake, Fallout 3, and Fallout: New Vegas (the full list of games getting FPS Boost is available below).
+<a href='https://www.theverge.com/2021/11/15/22782755/microsoft-xbox-fps-boost-mode-37-new-games'> Source <a/>

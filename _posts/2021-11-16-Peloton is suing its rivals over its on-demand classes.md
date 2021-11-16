@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eL1mta3R8KcWawE55yym7YTYsa0=/0x0:2040x1360/1200x800/filters:focal(924x445:1250x771)/cdn.vox-cdn.com/uploads/chorus_image/image/70146913/akrales_190328_3240_0103.0.jpg' width='700px' /><br/>
+Peloton isn't too happy with its rivals. The company has filed lawsuits against Echelon and iFit, claiming each company violated patents related to Peloton's on-demand classes, Bloomberg Law reports.
+<a href='https://www.theverge.com/2021/11/15/22783952/peloton-fitness-tech-echelon-ifit-nordictrack'> Source <a/>

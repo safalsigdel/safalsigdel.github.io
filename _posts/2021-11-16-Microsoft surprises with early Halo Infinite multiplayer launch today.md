@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EYoE4mbR9L74e81AcG9rFt3qmo0=/0x0:2155x1440/1200x800/filters:focal(906x548:1250x892)/cdn.vox-cdn.com/uploads/chorus_image/image/70145378/haloinfinitemp.0.jpg' width='700px' /><br/>
+Microsoft is surprising Xbox fans today with an early launch for Halo Infinite multiplayer. Rumors of the early Halo Infinite multiplayer drop appeared over the weekend, and Microsoft is now making it official as part of today's 20-year Xbox anniversary.
+<a href='https://www.theverge.com/2021/11/15/22782786/halo-infinite-multiplayer-available-download-launch'> Source <a/>

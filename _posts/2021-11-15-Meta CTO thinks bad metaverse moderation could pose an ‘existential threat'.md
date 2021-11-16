@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TkAZkEURi606fnaPnm623AtIfRw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70135737/acastro_211101_1777_meta_0001.0.jpg' width='700px' /><br/>
-Meta (formerly Facebook) CTO Andrew Bosworth warned employees that creating safe virtual reality experiences was a vital part of its business plan — but also potentially impossible at a large scale.
-<a href='https://www.theverge.com/2021/11/12/22779006/meta-facebook-cto-andrew-bosworth-memo-metaverse-disney-safety-content-moderation-scale'> Source <a/>

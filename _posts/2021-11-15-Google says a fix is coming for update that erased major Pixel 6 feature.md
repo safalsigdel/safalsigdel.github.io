@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BepYh3n5a_bNnX3_rZkjT6T1IAM=/0x0:2040x1360/1200x800/filters:focal(1053x660:1379x986)/cdn.vox-cdn.com/uploads/chorus_image/image/70135495/akrales_211022_4802_0839.0.jpg' width='700px' /><br/>
-According to reports from some users, an update to Google Photos removed one of the Pixel 6's big features: the Magic Eraser tool that lets you remove unwanted objects or people from your photos. If your Pixel downloaded the affected version (5.67, according to Android Central), fear not: Google says it's working on a fix.
-<a href='https://www.theverge.com/2021/11/12/22778869/google-pixel-6-pro-magic-eraser-feature-gone-photos-update-fix'> Source <a/>

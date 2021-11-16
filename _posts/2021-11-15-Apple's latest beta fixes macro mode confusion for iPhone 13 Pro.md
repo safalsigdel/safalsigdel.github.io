@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-F-LUU9YsKjq0jaEEreKkBbN9oU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70134950/vpavic_210916_untitled_0016.0.jpg' width='700px' /><br/>
-Apple's latest iOS 15.2 beta is making the iPhone 13 Pro's macro mode simple by adding a button to let you turn it on and off (via 9to5Mac). The icon, which looks like a little flower, pops up whenever you're close enough to an object to take a macro photo and lets you easily switch between having Auto Macro mode on and off without having to go into settings.
-<a href='https://www.theverge.com/2021/11/12/22778650/apple-iphone-13-pro-beta-macro-mode-button-auto-switching'> Source <a/>

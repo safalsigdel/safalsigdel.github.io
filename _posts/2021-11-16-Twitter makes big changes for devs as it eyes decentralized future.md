@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ogpY8SQnhJxyMxnDWM5MFqvYjiw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70145566/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Twitter has announced that the second version of its application programming interface, or API, is ready to come out of early access and become the default for developers. When Twitter announced API v2 in August 2020, it seemed like a chance to rebuild not only the infrastructure on which developers build their apps and bots, but Twitter's relationship with the people using its platform as well.
+<a href='https://www.theverge.com/2021/11/15/22779149/twitter-api-version-2-official-decentralized'> Source <a/>

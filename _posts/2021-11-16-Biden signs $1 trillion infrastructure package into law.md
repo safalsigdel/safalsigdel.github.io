@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/88QUNa-T1O2sTGFSOcavxtrIizs=/0x0:4000x3200/1200x800/filters:focal(1680x1280:2320x1920)/cdn.vox-cdn.com/uploads/chorus_image/image/70146114/1236584326.0.jpg' width='700px' /><br/>
+On Monday, President Biden signed a historic $1 trillion infrastructure bill aimed at repairing the nation's roads and bridges along with investing billions into expanding access to broadband internet and bolstering the electrical grid.
+<a href='https://www.theverge.com/2021/11/15/22783684/biden-infrastructure-bill-bipartisan-broadband-ev-electrical-grid-climate'> Source <a/>

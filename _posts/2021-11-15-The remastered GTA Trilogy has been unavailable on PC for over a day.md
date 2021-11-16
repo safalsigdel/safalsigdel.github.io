@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3j2Ugqjw9y2RmRCxeVR-YPD6sAc=/0x0:1650x928/1200x800/filters:focal(693x332:957x596)/cdn.vox-cdn.com/uploads/chorus_image/image/70137666/unnamed.0.jpg' width='700px' /><br/>
-Grand Theft Auto: The Trilogy - Definitive Edition became unavailable on the Rockstar Games store the same day it launched. The Trilogy, which comes packaged with the remastered versions of GTA III, GTA: Vice City, and GTA: San Andreas, was supposed to be playable on November 11th, but due to maintenance and other issues, it's been anything but that.
-<a href='https://www.theverge.com/2021/11/13/22779798/remastered-gta-trilogy-unavailable-pc'> Source <a/>

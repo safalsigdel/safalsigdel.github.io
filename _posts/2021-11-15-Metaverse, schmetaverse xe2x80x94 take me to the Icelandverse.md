@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Mark Zuckerberg's extensive video about Facebook / Meta's pivot to the metaverse has become something of a meme, but perhaps the best parody of the presentation was done this week by, of all places, the country of Iceland.
-<a href='https://www.theverge.com/tldr/2021/11/12/22778984/facebook-meta-metaverse-parody-video-iceland-icelandverse'> Source <a/>

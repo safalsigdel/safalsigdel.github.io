@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RmJPw2R5hI5ifDQhJSMJULLoJ70=/0x0:4000x2667/1200x800/filters:focal(2041x1353:2681x1993)/cdn.vox-cdn.com/uploads/chorus_image/image/70147196/1236517234.0.jpg' width='700px' /><br/>
+A major Hollywood union has voted to ratify a pair of contracts to improve labor conditions for production workers — though narrowly — after previously voting to authorize a strike over stalled negotiations with major studios.
+<a href='https://www.theverge.com/2021/11/15/22784345/iatse-members-ratify-contracts-following-strike-authorization'> Source <a/>

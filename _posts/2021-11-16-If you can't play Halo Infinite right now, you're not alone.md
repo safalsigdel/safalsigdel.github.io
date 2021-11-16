@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QX2k20f4mgJOvX-QyIkTA3jSlEg=/0x0:3840x2036/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70145678/HaloInfinite_RXJtJxSVSl.0.jpg' width='700px' /><br/>
+Microsoft surprise-launched Halo Infinite's free-to-play multiplayer beta on Monday, but if you're having trouble jumping into the game, you're not the only one.
+<a href='https://www.theverge.com/2021/11/15/22783654/halo-infinite-multiplayer-blue-screen-error-download-xbox-pc-windows'> Source <a/>

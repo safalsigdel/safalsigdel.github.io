@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V8Rt0R59FAbO-_xwPQKyt158w4I=/0x0:1500x1500/1200x800/filters:focal(989x593:1229x833)/cdn.vox-cdn.com/uploads/chorus_image/image/70145616/713t73yvUpL._AC_SL1500_.0.jpg' width='700px' /><br/>
+A new line of Amazon Basics Smart Switches has landed on Amazon.com, bringing the Amazon-branded smart home gadgets count up to seven, including the new smart thermostat and smart indoor air quality monitor. That's a big leap from the one, lonely Amazon smart plug the company had left after discontinuing its indoor smart security camera last year.
+<a href='https://www.theverge.com/2021/11/15/22783275/amazon-basics-smart-switches-price-release-date-specs'> Source <a/>

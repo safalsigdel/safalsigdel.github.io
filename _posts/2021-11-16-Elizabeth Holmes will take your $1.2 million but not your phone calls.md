@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d99sxKLgNziLGx27WMP-HIxHVjM=/0x0:2496x3254/1200x675/filters:focal(1071x399:1469x797)/cdn.vox-cdn.com/uploads/chorus_image/image/70146698/1341968234.0.jpg' width='700px' /><br/>
+Lately I have been reflecting on Alan Eisenman, Theranos investor and human cowboy boot. He's wealthy, the kind of character Matthew McConaughey will play in about 15 years; on the stand, his hair was almost as white as his shirt, which was unbuttoned at the top. (No tie, of course.) He seemed like someone that would be fun to drink a whiskey with, as long as he got to do all the talking.
+<a href='https://www.theverge.com/2021/11/15/22783989/elizabeth-holmes-theranos-trial-investor-testimony'> Source <a/>

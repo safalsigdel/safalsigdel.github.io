@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0EmM6odboANkzNe1m4Jtzs8ZlzI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70143282/jporter_211111_4874_0004.0.jpg' width='700px' /><br/>
-OnePlus has announced a special Pac-Man Edition of the Nord 2. It's a new version of the company's latest mid-range smartphone with design tweaks inspired by the classic ‘80s arcade game. But underneath the new theme this is fundamentally the same hardware as the excellent OnePlus Nord 2 released in July this year.
-<a href='https://www.theverge.com/2021/11/15/22778380/oneplus-nord-2-pac-man-edition'> Source <a/>

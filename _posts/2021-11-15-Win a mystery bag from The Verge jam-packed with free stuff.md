@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VhAjMxbVEbQP7bbw1qIfT0guYMo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70143844/akrales_211105_4862_0002.0.jpg' width='700px' /><br/>
-Everybody loves bags. They are essential in our day-to-day lives, and there are a million styles out there to suit everyone's individual tastes. Do you know how bags can get even better, though? When The Verge loads them with free tech and gives them away to one of our lucky readers!
-<a href='https://www.theverge.com/2021/11/15/22771977/mystery-bag-sweepstakes-gear-tech-entry-rules-black-friday-2021-holidays'> Source <a/>
