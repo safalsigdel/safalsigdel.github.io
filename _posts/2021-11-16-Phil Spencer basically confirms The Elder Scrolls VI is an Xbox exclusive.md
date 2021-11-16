@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-hX2eEqnMHvoW_0RJcGRYiI7ck0=/0x0:4000x2667/1200x800/filters:focal(1651x368:2291x1008)/cdn.vox-cdn.com/uploads/chorus_image/image/70145335/971159754.0.jpg' width='700px' /><br/>
-Xbox chief Phil Spencer basically confirmed that The Elder Scrolls VI will be an Xbox exclusive in an interview with GQ.
-<a href='https://www.theverge.com/2021/11/15/22783314/elder-scrolls-6-xbox-exclusive-pc-phil-spencer'> Source <a/>

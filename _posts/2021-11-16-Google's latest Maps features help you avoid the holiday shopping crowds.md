@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2pmYFa_7VaFmW6rxdZZhbE5Zskc=/0x0:1688x1125/1200x800/filters:focal(620x339:890x609)/cdn.vox-cdn.com/uploads/chorus_image/image/70148222/image__7_.0.jpg' width='700px' /><br/>
+Google is adding a handful of new features to Google Maps in time for the holiday season, which collectively should make getting around a slightly less fraught experience. The new features were announced in a blog post today.
+<a href='https://www.theverge.com/2021/11/16/22784951/google-maps-area-busyness-directory-grocery-pickups-restaurant-reviews'> Source <a/>
