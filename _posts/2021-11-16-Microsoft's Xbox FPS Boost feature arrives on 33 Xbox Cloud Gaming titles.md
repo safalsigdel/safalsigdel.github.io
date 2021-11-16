@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XVwfBBskgka3ljcN6vEhv53w52Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70145289/acastro_210429_1777_0003.0.jpg' width='700px' /><br/>
-Microsoft is bringing its Xbox FPS Boost mode to the cloud. The Xbox maker is rolling out FPS Boost to 33 games on Xbox Cloud Gaming (xCloud) today, as part of a big push for Xbox backward compatibility that sees 76 new game additions for modern Xbox consoles. FPS Boost will be enabled on Xbox Cloud Gaming titles like Fallout 4, Fallout 76, and The Evil Within 2.
-<a href='https://www.theverge.com/2021/11/15/22782759/microsoft-xbox-fps-boost-xbox-cloud-gaming-xcloud-games-list'> Source <a/>
