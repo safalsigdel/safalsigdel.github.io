@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-evKkkUn2YByBvfQ0PL_3ssyQvA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70149393/vsong_211112_4882_0004.0.jpg' width='700px' /><br/>
+Starting with watchOS 8, Apple introduced a new accessibility feature called Assistive Touch. The cool thing about this feature is that it allows you to control the watch via gestures and your arm movements. Meaning, now you don't even need to touch the Apple Watch screen to use it.
+<a href='https://www.theverge.com/22778189/apple-watch-assistive-touch-accessibility'> Source <a/>
