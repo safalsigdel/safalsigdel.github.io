@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-fJweoRMzv-xMGJXU5h0psFO8UQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70145976/acastro_191108_1777_t-mobile_0001.0.0.jpg' width='700px' /><br/>
-T-Mobile has announced that its “Ultra Capacity” 5G network now covers over 200 million people in the US, a goal the company had previously set to reach before the end of 2021.
-<a href='https://www.theverge.com/2021/11/15/22783712/t-mobile-5g-ultra-capacity-mmwave-200-million-coverage'> Source <a/>

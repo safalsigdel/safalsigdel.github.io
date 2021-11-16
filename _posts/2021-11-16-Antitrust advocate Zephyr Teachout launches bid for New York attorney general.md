@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IapN1ivEecaEpdzzlXk17l2BKA0=/0x0:4696x3131/1200x800/filters:focal(1973x1191:2723x1941)/cdn.vox-cdn.com/uploads/chorus_image/image/70146061/1013294870.0.jpg' width='700px' /><br/>
-On Monday, progressive tech critic Zephyr Teachout announced that she will run for New York attorney general in 2022. A law professor at Fordham University and a scholar on corruption and antitrust laws, Teachout could push for more strenuous penalties in several major tech antitrust cases.
-<a href='https://www.theverge.com/2021/11/15/22783872/antitrust-big-tech-new-york-attorney-general-zephyr-teachout-facebook-google'> Source <a/>

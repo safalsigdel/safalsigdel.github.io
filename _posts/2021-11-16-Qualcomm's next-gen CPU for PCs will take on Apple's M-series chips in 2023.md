@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fInGGfcUt_Q69LU5VJrrZoduJtU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70149216/acastro_180529_1777_qualcomm_0001.0.0.jpg' width='700px' /><br/>
+Qualcomm is looking to seriously beef up its PC processors, with the company announcing plans for a next-generation Arm-based SoC “designed to set the performance benchmark for Windows PCs” that would be able to go head to head with Apple's M-series processors.
+<a href='https://www.theverge.com/2021/11/16/22785181/qualcomm-next-gen-cpu-pc-apple-m1-competitor-2023'> Source <a/>

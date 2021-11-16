@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DHx6MZ0bYDcyJCJTvpkxthWtB9s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70149113/cwelch_202109_4775_5625.0.jpg' width='700px' /><br/>
+Some of the best noise-canceling headphones you can buy right now are Bose's QuietComfort 45, and they're selling at the lowest price we've seen yet. Just two months following their release, you can buy them for $279 from Amazon, Best Buy, and Adorama as a part of their early Black Friday sales. It's a solid $50 price drop.
+<a href='https://www.theverge.com/good-deals/2021/11/16/22783337/bose-headphones-samsung-frame-mac-mini-acer-chromebook-spin-deal-sale'> Source <a/>

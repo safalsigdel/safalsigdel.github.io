@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PtWgGfOEHLH6VZP4huuP2H_7NcQ=/0x0:2424x1168/1200x800/filters:focal(849x99:1235x485)/cdn.vox-cdn.com/uploads/chorus_image/image/70145415/Screen_Shot_2021_11_15_at_1.26.34_PM.0.png' width='700px' /><br/>
-The long-in-the-works Halo TV series finally has its first — very brief — teaser trailer, revealed today at Microsoft's 20th anniversary Xbox event, giving a first glimpse at the live-action adaptation of the iconic games.
-<a href='https://www.theverge.com/2021/11/15/22783546/halo-tv-show-paramount-plus-live-action-teaser-trailer'> Source <a/>

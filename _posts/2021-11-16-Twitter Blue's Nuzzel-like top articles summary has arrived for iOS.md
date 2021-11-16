@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eHgNQj9tR4Fep3dwDJTy6GmYTzQ=/0x0:4320x4320/1200x800/filters:focal(1735x645:2425x1335)/cdn.vox-cdn.com/uploads/chorus_image/image/70145891/3_Twitter_Blue_Blue_BG_Top_Articles.0.png' width='700px' /><br/>
-Twitter's Top Articles feature, which creates a report of articles popular in Blue subscribers' networks, is now available on iOS after the company promised last week that it'd be coming “very soon.” It's been available on Android and the web, but now everyone who subscribes to Twitter's paid service should be able to see a roundup of what people were reading and tweeting about over the past day.
-<a href='https://www.theverge.com/2021/11/15/22783594/twitter-blue-nuzzel-top-articles-ios-arrivial-top-articles'> Source <a/>
