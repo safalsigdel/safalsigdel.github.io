@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rsRgGS0fl0F_SlzrWFItRE46hbs=/0x0:1500x1005/1200x800/filters:focal(630x383:870x623)/cdn.vox-cdn.com/uploads/chorus_image/image/70153096/thum_02.0.jpg' width='700px' /><br/>
+Fujifilm has announced the Instax Mini Evo, a new digital camera that prints to Instax Mini film. The company describes it as a new Instax flagship that has been “designed with a premium and classical touch;” and it has several retro elements including top-mounted dials and a print control that works like a film advance lever.
+<a href='https://www.theverge.com/2021/11/17/22786676/fujifilm-instax-mini-evo-announced-price-release-date'> Source <a/>
