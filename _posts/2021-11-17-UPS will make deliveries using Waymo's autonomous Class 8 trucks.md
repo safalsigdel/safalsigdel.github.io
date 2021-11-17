@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iifdvAQBvrdyE3zcjk1OCVxaeLk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70154868/vpavic_191202_3827_0042.0.jpeg' width='700px' /><br/>
+Waymo and UPS are expanding their nearly two-year-old partnership to include deliveries made using the Alphabet company's fleet of autonomous Class 8 trucks. The companies had previously only conducted local deliveries using Waymo's self-driving minivans; now, they will work together on longer-distance freight hauling.
+<a href='https://www.theverge.com/2021/11/17/22787278/ups-waymo-autonomous-truck-freight-texas-deliveries'> Source <a/>

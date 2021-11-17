@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mQvGDvh8jkzY5WP8yTiW01WJNHI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70151046/acastro_210729_1777_blizzard_0004.0.jpg' width='700px' /><br/>
-Hours after The Wall Street Journal published a shocking report alleging Activision Blizzard CEO Bobby Kotick was aware of sexual misconduct allegations at the company, the company's board of directors posted a statement voicing its support of the CEO.
-<a href='https://www.theverge.com/2021/11/16/22785776/activision-blizzard-board-statement-ceo-bobby-kotick'> Source <a/>
