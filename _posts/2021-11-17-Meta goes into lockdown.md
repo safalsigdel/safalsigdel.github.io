@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m56nKi7_7sYx3K9vR4MmzmgIUHc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70150102/acastro_211114_4877_0001.0.jpg' width='700px' /><br/>
-Last month, a researcher for Meta prepared a talk for colleagues that they knew would hit close to home. The subject: how to cope as a researcher when the company you work for is constantly receiving negative press.
-<a href='https://www.theverge.com/2021/11/16/22785397/meta-facebook-leak-lockdown'> Source <a/>

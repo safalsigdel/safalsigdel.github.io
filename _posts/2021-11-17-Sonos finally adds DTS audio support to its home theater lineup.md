@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4B2GRGS-aX-imxbffOsUov5LWAg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70153470/cwelch_290921_4780_5672.0.jpg' width='700px' /><br/>
+Sonos' latest update contains big news for surround sound fans: the addition of DTS audio support for its home theater speakers. These include not just newer speakers like the second-generation Beam and Arc, but also older devices like the first-gen Beam, the Playbar, and the Playbase. Even the Sonos Amp is getting in on the DTS action.
+<a href='https://www.theverge.com/2021/11/17/22786914/sonos-dts-audio-support-beam-playbar-playbase-arc-amp-battery-saver-mode-13-4-update'> Source <a/>
