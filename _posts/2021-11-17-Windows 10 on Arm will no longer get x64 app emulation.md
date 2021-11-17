@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yvFga7qQYUdIL_UJ3VUX6lvbWbk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70150315/akrales_190930_3688_0196.0.jpg' width='700px' /><br/>
+Microsoft started testing x64 emulation for Windows 10 on Arm nearly a year ago, but the company is now limiting the feature to Windows 11. The planned feature allows x64 apps that haven't been compiled for Arm-powered machines to run, allowing devices like the Surface Pro X to access even more apps.
+<a href='https://www.theverge.com/2021/11/16/22785453/microsoft-windows-10-on-arm-x64-app-emulation'> Source <a/>

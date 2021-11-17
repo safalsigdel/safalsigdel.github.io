@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sMhZiVTM4MoISBQ0pQH-GjC0bgM=/0x0:2640x1749/1200x800/filters:focal(1284x1037:1706x1459)/cdn.vox-cdn.com/uploads/chorus_image/image/70148694/twarren_rtx3080_3_2.0.jpg' width='700px' /><br/>
-Nvidia wants you to know that AMD's FidelityFX Super Resolution (FSR) is a mere pretender, nothing like the Nvidia Deep Learning Super Sampling (DLSS) technique its GPUs can use to boost the framerate and/or image quality of your games. To prove it, Nvidia is trying an interesting new tactic by releasing a remarkably powerful image comparison tool called Nvidia ICAT, for free, so that anyone can see for themselves.
-<a href='https://www.theverge.com/2021/11/16/22784404/nvidia-icat-dlss-spatial-temporal-upscaling-graphics'> Source <a/>

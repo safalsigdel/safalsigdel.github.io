@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qMFXhlnM1-BI8lUV22I8D9Z5HfQ=/0x0:3000x2063/1200x800/filters:focal(1084x594:1564x1074)/cdn.vox-cdn.com/uploads/chorus_image/image/70150525/479841492.0.jpg' width='700px' /><br/>
+Activision Blizzard CEO Bobby Kotick has been aware of sexual misconduct allegations at the company for years and has had his own history of harassment and abusive behavior, according to a bombshell report in The Wall Street Journal.
+<a href='https://www.theverge.com/2021/11/16/22785457/activision-blizzard-bobby-kotick-ceo-wall-street-journal-wsj-report-allegations'> Source <a/>

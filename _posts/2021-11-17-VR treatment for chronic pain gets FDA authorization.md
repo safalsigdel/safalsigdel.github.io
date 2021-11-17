@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IYyHKEozlWVTHtU0WBwYHOQMwBk=/0x0:880x587/1200x800/filters:focal(370x224:510x364)/cdn.vox-cdn.com/uploads/chorus_image/image/70150631/AppliedVR_shot_1.0.png' width='700px' /><br/>
+The Food and Drug Administration authorized a virtual reality system as a prescription treatment for chronic back pain, the agency announced today. The therapy, called EaseVRx, joins the short list of digital therapeutics cleared by the agency over the past few years.
+<a href='https://www.theverge.com/2021/11/16/22785609/vr-chronic-pain-fda'> Source <a/>

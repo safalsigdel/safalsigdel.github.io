@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VNVcDKPQjhwQtbOsKKFXFv-D_Mo=/0x0:1995x1330/1200x800/filters:focal(859x544:1177x862)/cdn.vox-cdn.com/uploads/chorus_image/image/70152318/vpavic_210916_untitled_0031.0.jpg' width='700px' /><br/>
+Apple told The Verge last week that it would be rolling out a software update to iPhone 13 devices to make it easier to replace their screens without breaking Face ID, but it didn't specify when that update might arrive. Fortunately, we may not have to wait long, as repair experts say they have successfully completed the easier screen swaps on iPhone 13 handsets running the iOS 15.2 beta.
+<a href='https://www.theverge.com/2021/11/16/22786274/apple-iphone-13-screen-replacement-face-id-ios-15-2-beta-fixes'> Source <a/>

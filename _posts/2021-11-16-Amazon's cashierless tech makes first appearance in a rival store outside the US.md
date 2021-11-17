@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ugJi4KiZPj8twHKj837vJVuGHtY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70148379/vpavic_181024_3050_0018.0.jpg' width='700px' /><br/>
-Amazon has reportedly landed its first customer outside the US for its cashierless retail technology. According to Bloomberg News, the UK's second largest supermarket chain, Sainsbury's, will use Amazon's system of AI-powered surveillance cameras to power a cashierless grocery store in London.
-<a href='https://www.theverge.com/2021/11/16/22784994/amazon-cashierless-technology-uk-customers-sainsburys'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3axyurfKGelsvbRKPb7JX6yz0cY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70151616/ahawkins_210623_4646_0016.0.jpg' width='700px' /><br/>
+Four years after Ford was reportedly considering buying Lucid Motors, the EV startup is now worth more than the Detroit automaker. Lucid Motors' market capitalization passed Ford's on Tuesday, one day after the startup reported its first quarterly financial results as a publicly traded company and just a few weeks after it started shipping its luxury electric sedan, the Air.
+<a href='https://www.theverge.com/2021/11/16/22784017/lucid-motors-valuation-ford-spac-air-sedan-deliveries'> Source <a/>

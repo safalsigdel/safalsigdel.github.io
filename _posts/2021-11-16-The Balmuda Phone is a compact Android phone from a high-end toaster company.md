@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ugX-7oSoT7FX93Kfu0T8DLFOMuY=/0x0:3339x2226/1200x800/filters:focal(1403x846:1937x1380)/cdn.vox-cdn.com/uploads/chorus_image/image/70148022/7ABABA5A_D83B_498D_9F33_08E0C80D8CE5.0.jpeg' width='700px' /><br/>
-Japanese design company Balmuda today announced its first smartphone at a press event in Tokyo. The straightforwardly titled Balmuda Phone is the debut product from Balmuda Technologies, a new division of the company previously known for stylish, premium home appliances like air purifiers and rice cookers. Balmuda's toaster in particular has a cult following in Japan.
-<a href='https://www.theverge.com/2021/11/16/22784878/balmuda-phone-announced-specs-price-toaster-japan'> Source <a/>

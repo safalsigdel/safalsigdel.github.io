@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mAaPVyrVeZ-1SQuJoasgfq1QDJw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70150143/akrales_200904_4160_0135.0.0.jpg' width='700px' /><br/>
+Meta has sold 10 million Oculus Quest 2 headsets, according to Qualcomm CEO Cristiano Amon at the company's 2021 investor day, giving the best benchmark yet for sales of Meta's standalone VR platform since it launched last October.
+<a href='https://www.theverge.com/2021/11/16/22785469/meta-oculus-quest-2-10-million-units-sold-qualcomm-xr2'> Source <a/>

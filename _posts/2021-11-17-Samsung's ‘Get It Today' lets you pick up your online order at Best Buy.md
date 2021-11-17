@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LL1CaGyG4Qp-95ztV9zAYQ2H-Qc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70150609/cgartenberg_210111_4368_0009.0.jpg' width='700px' /><br/>
+If you're tired of long shipping times, Samsung is now partnering with Best Buy to offer a “Get It Today” pickup option. This lets you make a purchase on Samsung's online store and then pick it up for free within just a few hours at your local Best Buy.
+<a href='https://www.theverge.com/2021/11/16/22785487/samsung-best-buy-get-it-today-pickup-service'> Source <a/>

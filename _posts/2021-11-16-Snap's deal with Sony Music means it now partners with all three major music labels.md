@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5KuKHNaCAxfKEMQU0yxHoYOLUh0=/0x0:2844x1906/1200x800/filters:focal(1195x726:1649x1180)/cdn.vox-cdn.com/uploads/chorus_image/image/70149152/snapchat_sony_deal.0.png' width='700px' /><br/>
-Snapchat is adding audio from Sony Music Entertainment to its Sounds library, according to a report by Variety. This means that Snap has now inked deals with all three major music labels: Sony Music Entertainment, Universal Music Group, and Warner Music Group. Aside from the Big Three, the platform also partners with Warner Chappell, BMG, Kobalt, and more.
-<a href='https://www.theverge.com/2021/11/16/22785043/snapchat-sony-music-major-labels'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1Ym0QyMqAWTX5N00l3FyziHOL18=/0x0:2560x1600/1200x800/filters:focal(1076x596:1484x1004)/cdn.vox-cdn.com/uploads/chorus_image/image/70148705/Dark___1Password_8_for_Windows_hero_image__unlocked.0.png' width='700px' /><br/>
-1Password is getting its first major design update in more than three years today, with the launch of 1Password 8 for Windows. It includes a new design with a dark mode that better matches some of the recent UI improvements across Windows 10 and Windows 11. 1Password is also now built on Rust, to improve performance.
-<a href='https://www.theverge.com/2021/11/16/22784996/1password-version-8-windows-release-download-features'> Source <a/>

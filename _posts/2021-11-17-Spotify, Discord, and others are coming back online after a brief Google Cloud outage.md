@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BQPhH2iM64YB23vrmCE3isBG35Q=/0x0:796x440/1200x800/filters:focal(335x157:461x283)/cdn.vox-cdn.com/uploads/chorus_image/image/70150359/image.0.png' width='700px' /><br/>
+Sites and services like Spotify, Discord, Snapchat, and Etsy seem to be recovering after an outage that brought them, and many other sites, down for a little less than an hour on Tuesday.
+<a href='https://www.theverge.com/2021/11/16/22785599/google-cloud-outage-spotify-discord-snapchat-google-cloud'> Source <a/>

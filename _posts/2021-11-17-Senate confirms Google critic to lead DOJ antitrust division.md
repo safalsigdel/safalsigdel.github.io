@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mobKUSjBdW0j3GU5XO4AzHJEUkM=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/70151852/1345165235.0.jpg' width='700px' /><br/>
+On Tuesday, the Senate confirmed Google critic and competition lawyer Jonathan Kanter to lead the Justice Department's antitrust division, marking yet another progressive win in antitrust enforcement under the Biden administration.
+<a href='https://www.theverge.com/2021/11/16/22786079/google-jonathan-kanter-justice-department-antitrust-division-facebook-lina-khan'> Source <a/>

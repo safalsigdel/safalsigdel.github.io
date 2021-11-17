@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6_prtByVc28qicyhLl0ggzro7gA=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/70146865/Canoo_MPDV_Front.0.jpg' width='700px' /><br/>
-EV startup Canoo is moving its headquarters from California to Walmart's hometown of Bentonville, Arkansas — though it didn't announce any deal with the retail giant. Canoo said it will open a new manufacturing facility in Bentonville but didn't say much about what will be done there or who will build it. The startup also said Monday that it is moving up its timeline for making its first electric vehicles to “before Q4 2022.”
-<a href='https://www.theverge.com/2021/11/15/22783974/canoo-moves-to-walmart-hometown'> Source <a/>

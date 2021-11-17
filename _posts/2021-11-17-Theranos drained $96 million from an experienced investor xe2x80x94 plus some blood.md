@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yParmCHegzN80BeWlOOQvLa0u4s=/0x0:4000x2666/1200x675/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/70152538/1235841861.0.jpg' width='700px' /><br/>
+Brian Grossman had 20 years of experience in the healthcare space — but his firm, PFM Health Sciences, invested $96 million in Theranos anyway. On the stand, he explained that his firm had relied on Elizabeth Holmes' information about Theranos, as well as financial models provided by the company, to make the call.
+<a href='https://www.theverge.com/2021/11/16/22786461/elizabeth-holmes-theranos-trial-brian-grossman-pfm-investor-testimony'> Source <a/>

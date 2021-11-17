@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Uvw-vT7oM7oQius5Cqz-SQrXXmc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70147364/acastro_191204_1777_elon_legal_0003.0.0.jpg' width='700px' /><br/>
-JPMorgan has sued Tesla, claiming that the electric car company owes the bank $162 million related to a 2014 stock warrant agreement. The dispute centers around adjustments the companies made to the agreement following Tesla CEO Elon Musk's 2018 “[f]unding secured” tweet and the resulting fallout.
-<a href='https://www.theverge.com/2021/11/15/22784319/jpmorgan-tesla-lawsuit-162-million-stock-warrants-musk'> Source <a/>

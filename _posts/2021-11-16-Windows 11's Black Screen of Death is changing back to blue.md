@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VQGoCAFUfjkC73O1IcMNnpnmGhw=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/70148383/windows11bsod.0.jpg' width='700px' /><br/>
-Microsoft is changing its Black Screen of Death in Windows 11 back to the original blue color. The software giant originally changed its infamous Blue Screen of Death (BSOD) to black in Windows 11 earlier this year, to match the new black logon and shutdown screens. It was the first major change to the BSOD since Microsoft added a sad face to the screen in Windows 8.
-<a href='https://www.theverge.com/2021/11/16/22785021/microsoft-windows-11-blue-screen-of-death-black-change'> Source <a/>

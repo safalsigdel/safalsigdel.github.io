@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dmMnr_JZ3YnPF_bsCM77CqgxG3E=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70150323/RL___Haptic_Glove_2.0.jpg' width='700px' /><br/>
+You cannot pet a dog in Meta's new, high-tech virtual reality gloves. But researchers are getting closer.
+<a href='https://www.theverge.com/2021/11/16/22782860/meta-facebook-reality-labs-soft-robotics-haptic-glove-prototype'> Source <a/>
