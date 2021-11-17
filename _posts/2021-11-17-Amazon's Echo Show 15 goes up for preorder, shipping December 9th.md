@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wYldp3NDfpUvkHqb1rGXWicsN9E=/0x0:8000x4500/1200x800/filters:focal(3360x1610:4640x2890)/cdn.vox-cdn.com/uploads/chorus_image/image/70154571/echo_show_15_media_lifestyle_6.0.png' width='700px' /><br/>
+Today, Amazon is opening up preorders for its largest Alexa-enabled smart display yet, the Echo Show 15. The $249.99 device has a 15.6-inch 1080p touchscreen that can be oriented in portrait or landscape, and can either be mounted on a wall or placed on a countertop.
+<a href='https://www.theverge.com/2021/11/17/22786975/amazon-echo-show-15-release-date-preorder-smart-display-alexa'> Source <a/>
