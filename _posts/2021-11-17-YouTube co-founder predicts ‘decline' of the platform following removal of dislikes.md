@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P-xnBsHD6-phP_8djV4jE7ov_mA=/0x0:480x360/1200x800/filters:focal(202x142:278x218)/cdn.vox-cdn.com/uploads/chorus_image/image/70154352/jawed_karim_at_the_zoo.0.jpeg' width='700px' /><br/>
+Jawed Karim, the third co-founder of YouTube, has condemned the platform's removal of public dislike counts on videos, suggesting that the change will lead to YouTube's decline.
+<a href='https://www.theverge.com/2021/11/17/22787080/youtube-dislikes-criticism-cofounder-jawed-karim-first-video-description-zoo'> Source <a/>
