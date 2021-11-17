@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lAlS4lvBa134GFflP0xkbQ8GjBA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70150268/VRG_ILLO_4030_Windows_10_Guide_001.0.jpg' width='700px' /><br/>
-Microsoft says it's planning to update Windows 10 annually with any future feature updates. Starting today, Microsoft is releasing the Windows 10 November 2021 update, and the next major update after that will be available later in 2022. This update cadence matches the same used by Windows 11, which will also introduce new features on an annual basis.
-<a href='https://www.theverge.com/2021/11/16/22785452/microsoft-windows-10-future-feature-updates-annual-2022'> Source <a/>
