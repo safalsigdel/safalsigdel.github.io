@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uZuCvZeoHnFabnmU88hoShKcTyI=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70150421/MainScreen.0.png' width='700px' /><br/>
-Microsoft has created a new Media Player app for Windows 11, and it's beginning to test the app with Windows Insiders in the Dev Channel today. The redesigned Media Player app will support both audio and video, and it includes a design that better matches Windows 11's UI improvements.
-<a href='https://www.theverge.com/2021/11/16/22785617/microsoft-windows-11-media-player-app-audio-video-features'> Source <a/>
