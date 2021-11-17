@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M-moQxMLKcvjWnChlGZrxbEEer4=/0x0:4001x2250/1200x800/filters:focal(1681x805:2321x1445)/cdn.vox-cdn.com/uploads/chorus_image/image/70150954/still_mobile_EN.0.png' width='700px' /><br/>
-After announcing last month that it will begin to shift the way it ranks its top titles, Netflix today is launching a new website where it will share those metrics every week.
-<a href='https://www.theverge.com/2021/11/16/22785623/netflix-launches-top-10-titles-website'> Source <a/>
