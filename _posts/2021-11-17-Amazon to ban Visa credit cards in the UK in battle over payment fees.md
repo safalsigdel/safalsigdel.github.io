@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/d4SXDaYZUABmWNOX2FIifu9yjmE=/0x0:3192x1931/1200x800/filters:focal(1341x711:1851x1221)/cdn.vox-cdn.com/uploads/chorus_image/image/70153573/94970658.0.jpg' width='700px' /><br/>
+Amazon will stop accepting payments from Visa credit cards issued in the UK from January 19th, 2022. Customers will still be able to use Visa debit cards issued in the UK, as well as credit cards issued by MasterCard, American Express, and other firms.
+<a href='https://www.theverge.com/2021/11/17/22786966/amazon-visa-credit-card-ban-alternatives-fees'> Source <a/>
