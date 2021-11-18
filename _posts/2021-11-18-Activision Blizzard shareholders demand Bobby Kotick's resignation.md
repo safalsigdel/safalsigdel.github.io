@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2JdEI9OJrsLvL6adpNo9JQCJo-M=/0x0:3191x2127/1200x800/filters:focal(1007x504:1517x1014)/cdn.vox-cdn.com/uploads/chorus_image/image/70155442/1154931423.5.jpg' width='700px' /><br/>
-Activision Blizzard shareholders issued a letter calling for the resignation of CEO Bobby Kotick and two long-serving members of the board of directors a day after the Wall Street Journal reported Kotick not only knew about numerous cases of sexual harassment at the company but worked to cover them up.
-<a href='https://www.theverge.com/2021/11/17/22787484/activision-blizzard-shareholders-demand-ceo-bobby-kotick-resignation'> Source <a/>

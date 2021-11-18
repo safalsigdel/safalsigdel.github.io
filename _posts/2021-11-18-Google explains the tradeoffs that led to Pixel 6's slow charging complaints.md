@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/25vQ2CuoinI5jAvoR1vqaehgJwc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70158792/bfarsace_211014_4802_0054.0.jpg' width='700px' /><br/>
+Google has responded to allegations that the Pixel 6 and Pixel 6 Pro don't charge as fast as some have expected, confirming that their charging speeds are a deliberate tradeoff for better battery life. It follows a report from Android Authority which found that the phones' maximum power draw was around 22W, well short of the 30W that Google's latest USB-C charging brick is technically capable of.
+<a href='https://www.theverge.com/2021/11/18/22788960/pixel-6-pro-charging-speeds-30w-21w-23w-slow-charge-battery-life'> Source <a/>
