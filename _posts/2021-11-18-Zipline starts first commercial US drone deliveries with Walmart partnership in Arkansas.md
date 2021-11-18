@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gB6LupkWQUZ4EOJ-Iq5UadE5sLQ=/0x0:5097x3398/1200x800/filters:focal(2142x1292:2956x2106)/cdn.vox-cdn.com/uploads/chorus_image/image/70158861/Zip_launch.0.jpg' width='700px' /><br/>
+Walmart and drone delivery company Zipline are launching a delivery service in Pea Ridge, Arkansas — the first commercial drone delivery service offered by Zipline in the US. Customers will be able to choose from “thousands of products,” though are restricted to health and wellness items like “over the counter allergy medicine, bandages, ibuprofen.”
+<a href='https://www.theverge.com/2021/11/18/22786919/walmart-zipline-drone-delivery-commercial-service-arkansas'> Source <a/>

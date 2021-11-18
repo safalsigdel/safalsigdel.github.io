@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pj0QF8BXBo02JXndm0vK2s6eCZc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70155448/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
-Update November 17th, 1:00PM ET: Verizon's waves of PlayStation 5 consoles on its site have ended for today, as it now only shows out of stock. We'll be sure to keep you up to date when we hear about the next restocks from Verizon and all the usual retailers.
-<a href='https://www.theverge.com/good-deals/2021/11/17/22759382/playstation-5-restock-availability-verizon-order-where-to-buy'> Source <a/>
