@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UVTMIKq-HgcaghH0lR2C5QI4q70=/0x0:3395x2147/1200x800/filters:focal(1427x803:1969x1345)/cdn.vox-cdn.com/uploads/chorus_image/image/70155884/48639_HyundaiMotorUnveilsSEVENConceptSegment_bustingSUEVfortheIONIQBrand.0.jpg' width='700px' /><br/>
+Hyundai revealed a new electric vehicle concept at the 2021 Los Angeles Auto Show, showing how its scalable EV platform can be stretched to accommodate extra-large SUVs. The Hyundai Seven is built on the automaker's Electric-Global Modular Platform (E-GMP), which also underpins the upcoming Ioniq 5, Kia EV6, and Genesis GV60.
+<a href='https://www.theverge.com/2021/11/17/22787672/hyundai-seven-electric-suv-concept-la-auto-show-2021'> Source <a/>

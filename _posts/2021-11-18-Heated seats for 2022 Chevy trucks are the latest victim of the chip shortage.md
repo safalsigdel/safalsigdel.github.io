@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lw8zYsQKjdgGt7u4VgycZw1UwzI=/0x0:2040x1360/1200x800/filters:focal(854x515:1180x841)/cdn.vox-cdn.com/uploads/chorus_image/image/70156292/akrales_170313_1481_A_0013.0.jpg' width='700px' /><br/>
+If you're looking to buy a 2022 Chevrolet (or nearly any GM vehicle) this winter, you might want to invest in a warmer pair of sweatpants: the company has announced that due to the ongoing chip shortage, it'll no longer be able to offer heated or ventilated seats on virtually all its upcoming SUVs and pickups, as first reported by Automotive News.
+<a href='https://www.theverge.com/2021/11/17/22787339/chevrolet-trucks-heated-seats-2022-models-chip-shortage-supply-chain-issues'> Source <a/>

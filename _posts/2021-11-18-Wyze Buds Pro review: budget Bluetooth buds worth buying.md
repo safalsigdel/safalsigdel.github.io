@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RdCvWcI-CcoHAYUlXFMqiqQ71yQ=/0x0:2040x1360/1200x800/filters:focal(831x574:1157x900)/cdn.vox-cdn.com/uploads/chorus_image/image/70156537/shollister_211109_4884_0002.0.jpg' width='700px' /><br/>
+Wyze has built a reputation for astonishingly affordable gadgets. Sure, they don't always knock it out of the park: while the company's $20 security cam put an entire industry on notice, we ultimately decided the barebones $20 Wyze Watch was too much a work-in-progress to give it a review.
+<a href='https://www.theverge.com/22787814/wyze-buds-pro-review-earbuds-headphones-audio-price'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3_S3NksxIEiEPENSJG-oC1dssgg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70155944/acastro_210129_1777_discord_0001.0.jpg' width='700px' /><br/>
+Discord has been quietly building its own app platform based on bots over the past few years. More than 30 percent of Discord servers now use bots, and 430,000 of them are used every week across Discord by its 150 million monthly active users. Now that bots are an important part of Discord, the company is embracing them even further with the ability to search and browse for bots on Discord.
+<a href='https://www.theverge.com/2021/11/17/22787018/discord-bots-app-discovery-platform'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OqHYIq49UCjYyaSRCE75gTzVzLE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70156306/akrales_200916_4186_0036.0.0.jpg' width='700px' /><br/>
+In order to use the EKG feature on the newly available Withings ScanWatch, people have to first get the tool unlocked through a prescription from a healthcare provider — a first for EKG-enabled smartwatches on the market. Other smartwatches like the Apple Watch let people start using the feature right out of the box.
+<a href='https://www.theverge.com/2021/11/17/22787159/withings-scanwatch-ekg-review-fda'> Source <a/>

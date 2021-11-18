@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5CoD7NGjvxFnwjKr695s6TyabRQ=/0x0:1746x1164/1200x800/filters:focal(734x443:1012x721)/cdn.vox-cdn.com/uploads/chorus_image/image/70157079/constdao.0.jpg' width='700px' /><br/>
+Say you want to buy an early printing of the US Constitution, but you've only got a couple of bucks. Normally, you'd be out of luck, but maybe not today: over the last week, a collective has formed to raise enough money to buy a rare early printing of the Constitution at auction, raising money from anyone who wants to chip in online.
+<a href='https://www.theverge.com/2021/11/17/22787993/constitutiondao-crypto-buy-us-constitution-copy-sothebys-ethereum'> Source <a/>

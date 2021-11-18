@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PZ9bpklKiR61r86MwEI0NFYbxcE=/0x0:2200x1500/1200x800/filters:focal(1028x549:1380x901)/cdn.vox-cdn.com/uploads/chorus_image/image/70154168/tidal.0.jpg' width='700px' /><br/>
-Tidal is making some significant changes to its subscription plans and introducing a free, ad-sponsored tier for the first time. The new Tidal Free plan launches today, is exclusive to the US, and the company says it offers “access to our entire music catalog and playlists, with limited interruptions.” Streaming quality tops out at 160kbps, however, so it's not much for Tidal's paid options on that front.
-<a href='https://www.theverge.com/2021/11/17/22787051/tidal-free-hifi-plus-announced-features-artist-payments'> Source <a/>

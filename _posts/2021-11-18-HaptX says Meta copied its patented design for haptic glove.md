@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Pe1ShbPb19u5hv3nqCVscM6c6rs=/0x0:2000x1335/1200x800/filters:focal(840x508:1160x828)/cdn.vox-cdn.com/uploads/chorus_image/image/70157002/RL___Haptic_Glove_1scaled.0.jpg' width='700px' /><br/>
+Haptics company HaptX claims Meta (formerly Facebook) copied its patented designs in a glove that the tech giant revealed yesterday. HaptX — a longtime player in the virtual and augmented reality industry — says parts of the glove appear “substantively identical” to its own work using pneumatics to simulate physical touch.
+<a href='https://www.theverge.com/2021/11/17/22788052/haptx-haptic-glove-design-meta-facebook-patent-infringement-allegation'> Source <a/>

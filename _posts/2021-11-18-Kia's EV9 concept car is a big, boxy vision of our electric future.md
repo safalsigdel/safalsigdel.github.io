@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ScyM1ApeGXcbjCXDEFKf56rW2Zw=/0x0:6192x4128/1200x800/filters:focal(2601x1569:3591x2559)/cdn.vox-cdn.com/uploads/chorus_image/image/70156471/18205_Concept_EV9.0.jpg' width='700px' /><br/>
+Kia revealed the EV9 SUV, an extra-large concept EV with Soul-like angularity and an estimated range of up to 300 miles. Like the previously unveiled EV6, the EV9 will be built on Hyundai's new Electric-Global Modular Platform (E-GMP) that the automaker says will serve as the basis for an entire family of planned EVs. The concept made its debut at the 2021 Los Angeles Auto Show.
+<a href='https://www.theverge.com/2021/11/17/22787843/kia-ev9-concept-electric-suv-specs-size-la-auto-show'> Source <a/>

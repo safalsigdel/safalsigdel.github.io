@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zqtzKy3EceNqFYCcOEqKXn7daBs=/0x0:2332x1136/1200x800/filters:focal(980x382:1352x754)/cdn.vox-cdn.com/uploads/chorus_image/image/70154659/one_stop_shop_for_health.0.jpg' width='700px' /><br/>
-The original Motorola Moto 360 was one of the few good Wear OS (then Android Wear) smartwatches. At least, it was until Motorola quit the smartwatch game in 2016. It got a remake in 2019 under a different company, and two years later, eBuyNow just announced the Moto Watch 100, a cheaper, entry-level smartwatch. And for the first time, it will not run Wear OS.
-<a href='https://www.theverge.com/2021/11/17/22787071/wearos-moto-watch-100-smartwatches'> Source <a/>

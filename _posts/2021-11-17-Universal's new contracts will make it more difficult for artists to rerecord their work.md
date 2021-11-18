@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0sffIAKoLPPTcngy0_DsBT49zx4=/524x361:2424x1685/1200x800/filters:focal(1226x464:1706x944)/cdn.vox-cdn.com/uploads/chorus_image/image/70151693/1236560335.0.jpg' width='700px' /><br/>
-Universal Music Group is modifying its contracts to extend the period in which an artist can rerecord their music, The Wall Street Journal reported. The move comes after the success of Taylor Swift's rerecorded albums and the music label's effort to gain more rights from artists who decide to rerecord their work.
-<a href='https://www.theverge.com/2021/11/16/22783954/universal-contracts-music-taylor-swift-taylors-version'> Source <a/>

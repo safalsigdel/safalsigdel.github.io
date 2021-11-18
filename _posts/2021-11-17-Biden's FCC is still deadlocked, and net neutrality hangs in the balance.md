@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xwkMvmQOwesiLSsWjhgZBCPgyWg=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/70154776/1251769310.0.jpg' width='700px' /><br/>
-After nearly 11 suspenseful months, the Senate is expected to hold a confirmation hearing on Biden's recently appointed Federal Communications Commission chair on Wednesday. But the new chair will arrive in the middle of an agency stalemate that's put net neutrality work on pause for Biden's entire first year in office.
-<a href='https://www.theverge.com/2021/11/17/22787261/biden-fcc-net-neutrality-jessica-rosenworcel-gigi-sohn-broadband'> Source <a/>

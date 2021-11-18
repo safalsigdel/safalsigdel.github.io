@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j62wDNJdarEV1j7yJSKsNtqju_0=/0x0:2048x1365/1200x675/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/70155434/VRG_ILLO_4878_Netflix_Bitrate.0.jpg' width='700px' /><br/>
+As hundreds of thousands of households worldwide tapped into Netflix's Squid Game last month, viewers may have taken something fairly extraordinary for granted. Netflix didn't buckle under the unprecedented demand for the dystopian drama that would become its most successful title to date — even as other services have struggled to keep their products sturdy under less demanding circumstances.
+<a href='https://www.theverge.com/22787426/netflix-cdn-open-connect'> Source <a/>

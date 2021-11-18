@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sANy_MUpyOdHMUi2Z8_dQrihgb8=/0x0:4724x3149/1200x675/filters:focal(1985x1198:2739x1952)/cdn.vox-cdn.com/uploads/chorus_image/image/70154207/1041978360.0.jpg' width='700px' /><br/>
-Doctors aren't usually in the business of publishing photography guides. But Jenna Lester, a dermatologist at the University of California San Francisco, was growing frustrated with the poor quality images she'd receive of her dark-skinned patients. It wasn't just a cosmetic issue — the bad photos meant darker-skinned people weren't getting the same quality of care.
-<a href='https://www.theverge.com/22778114/medical-photography-racial-bias'> Source <a/>

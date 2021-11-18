@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b8hxNDWotpPq9PK4XQGpKYmCgYY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70155511/acastro_210201_1777_robinhood_0003.0.jpg' width='700px' /><br/>
+Robinhood has revealed that “several thousand entries” in a list obtained by hackers included phone numbers, indicating that a November 3rd security breach compromised more information than the company originally reported. More precisely, the list contains around 4,400 phone numbers according to Motherboard, which reportedly obtained the list from a “proxy for the hackers.”
+<a href='https://www.theverge.com/2021/11/17/22786405/robinhood-hack-user-phone-numbers-text-entries-investigtation'> Source <a/>

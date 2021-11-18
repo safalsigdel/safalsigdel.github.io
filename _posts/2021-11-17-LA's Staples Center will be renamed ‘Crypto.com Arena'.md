@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AhG6o2bGzi-pe9uEbosID3xmwVY=/0x0:4256x2832/1200x800/filters:focal(1788x1076:2468x1756)/cdn.vox-cdn.com/uploads/chorus_image/image/70153269/521074336.0.jpg' width='700px' /><br/>
-The Staples Center, home to Los Angeles sports teams including the Lakers, Clippers, Kings, and Sparks, is getting a new name: “Crypto.com Arena.” Yes, Crypto Dot Com Arena. The cryptocurrency exchange paid more than $700 million for 20-year naming rights, according to the LA Times, making it one of the largest such deals ever. Staples paid $100 million for the rights for 10 years in 1999.
-<a href='https://www.theverge.com/2021/11/17/22786809/staples-center-arena-los-angeles-renaming-crypto-com'> Source <a/>

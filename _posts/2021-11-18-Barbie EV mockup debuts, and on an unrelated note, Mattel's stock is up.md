@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+Here are some facts. Mattel promoted a new toy Barbie car on Wednesday by showing off a full-size mockup at the 2021 LA Auto Show. The mockup was, according to Roadshow, based on an all-electric Fiat 500e. Not long after, Mattel's stock pared back early-morning losses and finished the day's trading slightly in the green.
+<a href='https://www.theverge.com/tldr/2021/11/17/22788069/mattel-barbie-toy-car-ev-stock-price-la-auto-show'> Source <a/>

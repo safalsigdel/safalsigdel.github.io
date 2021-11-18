@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dLE5osqskiC7ncSkl7-O6vyMNEQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70156170/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+Instagram head Adam Mosseri said Wednesday that the company has added two new features to improve user experience, including a “rage shake” that will let users report a problem more quickly. If you're using the app and it isn't working as it's supposed to, shake the phone while the app is open, and a pop-up screen will ask, “Did something go wrong?” with space for you to report the issue.
+<a href='https://www.theverge.com/2021/11/17/22787739/instagram-photo-carousel-new-feature-rage-shake-report-problem'> Source <a/>

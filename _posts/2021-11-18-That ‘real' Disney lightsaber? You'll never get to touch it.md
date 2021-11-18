@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G5Y9He5wqCnHd_T-BZ3lixBYP-8=/0x0:1500x811/1200x0/filters:focal(0x0:1500x811):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23023485/3908176_swgslightsabertraining.jpg' width='700px' /><br/>
+I have some terrible news: Disney has confirmed you'll never get to try the “real” retractable lightsaber whose very existence, subsequent reveal, and patented design made us giddy back in April and May of this year.
+<a href='https://www.theverge.com/2021/11/17/22788415/disney-star-wars-real-lightsaber-galactic-starcruiser'> Source <a/>

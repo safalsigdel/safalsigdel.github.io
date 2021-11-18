@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1eGXIaEHoiMd6IqGAoU8S-ALKNA=/0x0:5196x3387/1200x800/filters:focal(2183x1279:3013x2109)/cdn.vox-cdn.com/uploads/chorus_image/image/70154603/Nissan_Ariya_006a.0.jpg' width='700px' /><br/>
-The 2023 Nissan Ariya, the automaker's upcoming electric crossover SUV, finally has a sticker price. The company announced that the EV will start at $47,125, and that reservations are now being accepted.
-<a href='https://www.theverge.com/2021/11/17/22787170/nissan-ariya-ev-price-specs-trim-reservations-deposit'> Source <a/>

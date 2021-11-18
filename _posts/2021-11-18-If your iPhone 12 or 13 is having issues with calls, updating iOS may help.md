@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wFzM6Ui7j9SQo-_bZIKMkH1u-Sg=/0x0:2019x1346/1200x800/filters:focal(849x512:1171x834)/cdn.vox-cdn.com/uploads/chorus_image/image/70156364/vpavic_210916_4760_0069.0.jpg' width='700px' /><br/>
+A new iOS update is starting to hit phones — no, not the seemingly feature-packed iOS 15.2, but iOS 15.1.1, which Apple says will solve an issue with calls dropping. According to the update note, the new version of iOS “improves call drop performance on iPhone 12 and iPhone 13 models.”
+<a href='https://www.theverge.com/2021/11/17/22787756/iphone-ios-update-15-1-1-call-dropping-issue'> Source <a/>
