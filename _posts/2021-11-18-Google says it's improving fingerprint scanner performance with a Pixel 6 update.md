@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Oji4MJNkci2DTHMbT9ozDhQ-QwU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70156270/bfarsace_211014_4802_0002.0.jpg' width='700px' /><br/>
-Google quietly rolled out a Pixel 6 update that addresses fingerprint scanner issues, as first reported by XDA Developers. The update details have been confirmed in a post on a Google Support page, which vaguely notes that it includes “minor bug fixes and some fingerprint sensor performance improvements for Pixel 6 and 6 Pro,” without really giving us any details about how the sensor was improved.
-<a href='https://www.theverge.com/2021/11/17/22787537/google-pixel-6-pro-update-fingerprint-scanner-slow'> Source <a/>
