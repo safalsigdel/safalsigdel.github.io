@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PAD915MaMSbVpMb2DEEiI3omWhY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70158729/acastro_190530_1777_xbox_0003.0.0.jpg' width='700px' /><br/>
+Microsoft is rolling out a new November update for Xbox consoles that will make it a lot easier to swap your controller between a console and a PC or laptop. Instead of having to trawl through menus to change connections, the update lets you switch between previously connected devices by simply double tapping the controller's pair button.
+<a href='https://www.theverge.com/2021/11/18/22788956/xbox-november-update-controller-firmware-dli-features'> Source <a/>
