@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xrQxuyZ93xHuMah_Q9yx_0JsauQ=/0x0:5120x2879/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/70159366/AMD_Ryzen_5000_Series_Lidded_5.0.png' width='700px' /><br/>
+The AMD Ryzen 7 5800X has been discounted at Newegg, letting you save up to $75 with the promo code BFPAYA526. This brings the total down to $374, the lowest price we've seen for this particular processor. As an added bonus, this CPU comes packaged with a free month of Xbox Game Pass Ultimate.
+<a href='https://www.theverge.com/good-deals/2021/11/18/22787315/amd-5800x-zen3-oneplus-8t-bose-headphones-msi-monitor-razer-deal-sale'> Source <a/>
