@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7w6YdHbIZZ1p3c61iCsJC20TPBE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70164963/ajohnson_210813_4713_0002.0.jpg' width='700px' /><br/>
+Google has launched its early Black Friday deals, and there's a lot to like if you're in the market for a Pixel, Chromecast, or Nest device. The search giant kicked off the deals in the Google Store, and now many of the big-name retailers are offering equivalent deals on the same items. Google even advertises these deals as running until December 1st, a few days after Cyber Monday.
+<a href='https://www.theverge.com/22788031/google-black-friday-2021-deals-cyber-monday'> Source <a/>
