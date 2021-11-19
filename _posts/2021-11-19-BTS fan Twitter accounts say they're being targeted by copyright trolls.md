@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GnDTD0ffcMjS-azzFMnJKjS2oxI=/0x0:6204x4056/1200x800/filters:focal(2606x1532:3598x2524)/cdn.vox-cdn.com/uploads/chorus_image/image/70160573/1319740646.0.jpg' width='700px' /><br/>
-In the past several days, a number of headers, profile pictures, and tweets have disappeared across the wide network of BTS fan Twitter accounts. The culprit, the account owners say, is a recent barrage of fake DMCA takedown notices. Outcry from fans resulted in #TwitterMaliciousDMCA trending worldwide on Wednesday night.
-<a href='https://www.theverge.com/2021/11/18/22789201/bts-fan-accounts-dmca-takedowns-twitter-copyright-suspension-allegation'> Source <a/>

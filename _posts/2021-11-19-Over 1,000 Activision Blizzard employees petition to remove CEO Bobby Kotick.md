@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NGn-gtMIokA0RhvAceAkbNuzmZQ=/0x0:4200x3073/1200x800/filters:focal(1764x1201:2436x1873)/cdn.vox-cdn.com/uploads/chorus_image/image/70161005/1234303774.0.jpg' width='700px' /><br/>
-Over 1,000 employees and contractors at Activision Blizzard have now signed and published a petition to remove CEO Bobby Kotick from the company, doubling the number of signatures since the petition was made public.
-<a href='https://www.theverge.com/2021/11/18/22789679/activision-blizzard-ceo-bobby-kotick-employees-petition-removal'> Source <a/>
