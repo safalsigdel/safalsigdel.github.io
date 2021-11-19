@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DeLCBdm_6OLUKE1IuBSxlygsCXo=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/70165716/google_everyday_robot.0.jpg' width='700px' /><br/>
+What does Google's parent company Alphabet want with robots? Well, it would like them to clean up around the office, for a start.
+<a href='https://www.theverge.com/2021/11/19/22791267/alphabet-google-everyday-robot-project-cleaning-office-prototype'> Source <a/>
