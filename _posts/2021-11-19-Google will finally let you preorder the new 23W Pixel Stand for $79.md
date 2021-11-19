@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dLgEe4lO8PAtbVP60rlUevdDljg=/0x0:1440x719/1200x800/filters:focal(706x133:936x363)/cdn.vox-cdn.com/uploads/chorus_image/image/70159859/pixelstand2.0.jpg' width='700px' /><br/>
-Despite more than a few issues with the preorder process and shipping, Google's Pixel 6 and Pixel 6 Pro have made their way into the world, and now the company is ready to sell an upgraded version of its Pixel Stand for wireless charging on your desk or side table. This new stand costs $79, just like the first-gen model did when it launched in 2018 with the Pixel 3.
-<a href='https://www.theverge.com/2021/11/18/22788072/google-pixel-6-stand-wireless-charging-fast-23w-qi'> Source <a/>
