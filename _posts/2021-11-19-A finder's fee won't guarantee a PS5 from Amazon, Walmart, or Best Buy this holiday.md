@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pHtDqR3cvO2xb2w2SDJCrF5Mv-o=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/70165433/vpavic_4261_20201023_0058.0.jpg' width='700px' /><br/>
+It's still difficult to find a PS5, Xbox Series X, Nintendo Switch OLED, or practically any desktop graphics card made in the last three years. So difficult that many people resort to paying scalpers far more than it should cost to get one. This trend has stuck around since the early days of the pandemic, and it might not change any time soon.
+<a href='https://www.theverge.com/2021/11/19/22771984/ps5-restock-xbox-best-buy-walmart-amazon-subscription'> Source <a/>
