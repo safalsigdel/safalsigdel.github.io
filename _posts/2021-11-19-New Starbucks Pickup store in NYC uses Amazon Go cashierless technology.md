@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XWKp801FbwK0fFci0FwERMyCtRg=/0x0:1024x683/1200x800/filters:focal(431x261:593x423)/cdn.vox-cdn.com/uploads/chorus_image/image/70160041/Starbucks_Pickup_with_Amazon_Go_003_1024x683.0.jpeg' width='700px' /><br/>
-Starbucks has opened a new “pickup cafe” in New York City that uses Amazon's “just walk out” cashierless tech, the companies said Thursday. The store in midtown Manhattan is designed for customers who want to buy coffee or a snack quickly and can't possibly wait the extra minutes they'd normally spend interacting with a barista or cashier.
-<a href='https://www.theverge.com/2021/11/18/22789116/starbucks-pickup-store-amazon-go-cashierless-technology'> Source <a/>

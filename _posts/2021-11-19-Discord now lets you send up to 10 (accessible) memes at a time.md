@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ym0bIDJIh_5mwhAcwN0TZrWzh3o=/0x0:989x659/1200x800/filters:focal(416x251:574x409)/cdn.vox-cdn.com/uploads/chorus_image/image/70164530/Discord_47Z2dGAzDg.0.png' width='700px' /><br/>
+Discord has updated its Windows and macOS desktop clients to let users add alt text for image attachments, the service has announced on Twitter. It's a helpful accessibility feature for users that rely on screen readers and arrives alongside the ability to preview and upload up to 10 files at a time.
+<a href='https://www.theverge.com/2021/11/19/22791035/discord-alt-text-support-10-image-uploads-at-a-time'> Source <a/>
