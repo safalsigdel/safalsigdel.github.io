@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/shrpbrz3ZRryTXad_yzy4yJfSJE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70164390/Xbox_App_Preview_11_17_21.0.jpg' width='700px' /><br/>
+Microsoft is now allowing testers to access a new Xbox app for Windows that greatly improves the game install process from the Windows store. As we reported earlier this month, the updated app allows PC gamers to install titles into any folder of their choice with unrestricted access to game files.
+<a href='https://www.theverge.com/2021/11/19/22791013/microsoft-xbox-app-windows-install-folders'> Source <a/>
