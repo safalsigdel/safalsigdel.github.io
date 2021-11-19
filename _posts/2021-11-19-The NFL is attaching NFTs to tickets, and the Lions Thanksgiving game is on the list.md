@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T6UXWeKLrZVhdXCNBhC-1tFr4fQ=/0x0:4662x3108/1200x800/filters:focal(1525x363:2269x1107)/cdn.vox-cdn.com/uploads/chorus_image/image/70160164/1350898110.0.jpg' width='700px' /><br/>
+Along with their usual dose of sports, beer, and violence, NFL fans will also get a digital token included with the purchase of tickets to certain games this season. Yes, they are NFTs from the NFL.
+<a href='https://www.theverge.com/2021/11/18/22789265/nft-nfl-football-commerative-ticketmaster'> Source <a/>

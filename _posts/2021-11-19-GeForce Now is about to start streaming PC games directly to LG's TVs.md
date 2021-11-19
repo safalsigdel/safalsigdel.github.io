@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FSRRVSknmC3CD6-ER6d_DKFv41s=/0x0:1600x930/1200x800/filters:focal(672x337:928x593)/cdn.vox-cdn.com/uploads/chorus_image/image/70162770/LG_NVIDIA_GeForce_NOW_01.0.jpg' width='700px' /><br/>
+LG first said in January that Nvidia's GeForce Now cloud gaming service was headed to some of its TVs, and now, it's finally here — though as a beta. LG is rolling out the beta this week for “select 2021 LG 4K OLED, QNED Mini LED, and NanoCell TV models in 80 markets,” according to a press release.
+<a href='https://www.theverge.com/2021/11/18/22790223/geforce-now-lg-tv-webos-beta'> Source <a/>

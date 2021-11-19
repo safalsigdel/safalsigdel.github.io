@@ -1,3 +1,0 @@
-<img src='' width='700px' /><br/>
-EV startup Fisker Inc. has revealed the production version of its first electric vehicle, the Ocean SUV, at the 2021 LA Auto Show. It's largely similar to the first prototype that debuted at the 2020 Consumer Electronics Show, though there are a few new standout features — including a 17.1-inch touchscreen that rotates from portrait to landscape orientation.
-<a href='https://www.theverge.com/2021/11/17/22787670/fiskers-electric-ocean-suv-rotating-touchscreen-la-auto-show'> Source <a/>

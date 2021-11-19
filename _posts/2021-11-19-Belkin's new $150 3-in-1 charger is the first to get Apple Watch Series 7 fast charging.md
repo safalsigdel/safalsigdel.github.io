@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/95sNmFNPamfT18Z0g5jMlFVpyTs=/0x0:2100x1234/1200x800/filters:focal(882x449:1218x785)/cdn.vox-cdn.com/uploads/chorus_image/image/70160691/Screen_Shot_2021_11_18_at_11.40.18_AM.0.png' width='700px' /><br/>
+Belkin has a pair of new wireless Apple Watch chargers it's announcing today, which are notably the first third-party chargers to support the newly added fast charging on the Apple Watch Series 7.
+<a href='https://www.theverge.com/2021/11/18/22785707/belkin-apple-watch-series-7-fast-charging-magsafe-charger-boost-charge'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l8tB8hs1fEb_nv5rV3v4BUKqET8=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/70158786/tomwarren_VLS_4504.0.jpg' width='700px' /><br/>
-Microsoft has been having a hell of a time celebrating 20 years of Xbox this week, adding 76 new games to the Xbox backward compatibility library, launching a Halo-themed Xbox Series X, and a 20th anniversary translucent controller. But, true to the company's habit of corporate mischief, it's also been leavening its announcements with plenty of Easter eggs.
-<a href='https://www.theverge.com/2021/11/18/22785059/microsoft-halo-xbox-translucent-controller-hands-on'> Source <a/>

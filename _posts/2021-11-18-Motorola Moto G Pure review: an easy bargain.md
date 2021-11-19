@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/X06NzDUcMuurvpmzXTCgcxAv3RQ=/0x0:2040x1360/1200x675/filters:focal(854x841:1180x1167)/cdn.vox-cdn.com/uploads/chorus_image/image/70159413/gsin_190209_4806_0008.0.jpg' width='700px' /><br/>
-The Moto G Pure is the rare $160 phone that works well enough that you forget you're using a sub-$200 device. Yes, Motorola made some compromises to deliver a phone at this low price point, but it still nails all the basics that you should care about: good build quality, good battery life, and good cameras for the price.
-<a href='https://www.theverge.com/22787370/moto-g-pure-review-4g-android-budget-phone'> Source <a/>

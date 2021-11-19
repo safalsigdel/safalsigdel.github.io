@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EktvaM6B-Q5zc7YvXjAtps8c-qU=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70156558/1192349807.0.jpg' width='700px' /><br/>
-PlayStation leadership has asked Activision Blizzard how it will address the allegations in the shocking Wall Street Journal report about the embattled studio, according to Bloomberg. PlayStation boss Jim Ryan reportedly informed employees of the action in an email.
-<a href='https://www.theverge.com/2021/11/17/22787848/playstation-boss-jim-ryan-calls-out-activision-blizzard-staff-memo'> Source <a/>

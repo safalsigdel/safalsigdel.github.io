@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T029zjTmrvVqwy26qbehq071L38=/0x0:1746x1164/1200x800/filters:focal(734x443:1012x721)/cdn.vox-cdn.com/uploads/chorus_image/image/70163156/constdao.0.jpg' width='700px' /><br/>
+A quickly assembled group of crypto enthusiasts who crowdfunded an astonishing $47 million in funds to bid for a rare copy of the US Constitution lost out to a bidder with deeper pockets.
+<a href='https://www.theverge.com/2021/11/18/22790452/constitutiondao-loses-auction-for-rare-us-constitution-copy-sothebys'> Source <a/>
