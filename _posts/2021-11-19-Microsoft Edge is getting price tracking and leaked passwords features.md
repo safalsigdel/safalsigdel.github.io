@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oaE1GB76m_DxFiRUDsAa-pbFevw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70160317/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
+Microsoft is planning to add a new price tracker to its Edge browser, as well as a new feature that will let people easily change their passwords if they've been leaked online. The price tracking feature will be available soon and is designed to track products you've recently viewed and alert you of price changes.
+<a href='https://www.theverge.com/2021/11/18/22788952/microsoft-edge-price-tracking-leaked-password-features'> Source <a/>

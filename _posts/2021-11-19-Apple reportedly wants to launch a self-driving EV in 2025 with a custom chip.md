@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fTANyx2DVC9OHmzv0M-yLCk-QKc=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/70160940/acstro_190902_apple_event_0003.0.0.jpg' width='700px' /><br/>
+Apple has completed “much of the core work” on a new processor meant to power its secretive autonomous electric car project known as Titan, Bloomberg's Mark Gurman reports. The milestone comes as Apple is reportedly now accelerating its timeline for the autonomous car it's developing, with a new target of launching it in just four years.
+<a href='https://www.theverge.com/2021/11/18/22789615/apple-self-driving-car-project-titan-custom-processor-ev'> Source <a/>

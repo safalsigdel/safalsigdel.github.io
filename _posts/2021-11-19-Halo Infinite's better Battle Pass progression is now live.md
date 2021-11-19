@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vX753VFGkbshP17q5EvrA372-dM=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70158974/HaloInfinite_RXJtJxSVSl.0.jpg' width='700px' /><br/>
+If you're still stuck on level 1 of the Halo Infinite Battle Pass, fear not, as 343 Industries's promised changes to progression are now live.
+<a href='https://www.theverge.com/2021/11/18/22788990/halo-infinite-battle-pass-progression-xp-changes'> Source <a/>
