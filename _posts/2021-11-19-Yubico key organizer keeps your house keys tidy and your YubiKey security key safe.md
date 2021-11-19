@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uQrXqH6Q0V6GKyl56G_FCkGLZXk=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/70165586/keyport_003.0.jpg' width='700px' /><br/>
+Yubico has teamed up with Keyport on a new key organizer that's designed to safely stash your YubiKey security key (a small dongle that can act as an extra layer of security for your logins) alongside your house keys in one compact little enclosure.
+<a href='https://www.theverge.com/2021/11/19/22791271/yubico-x-keyport-pivot-2-0-key-organizer-yubikey-security-key'> Source <a/>
