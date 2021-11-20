@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-One day you're just another Brute on the Halo ring minding your own business, and the next you're a rock star. That's Craig, Halo Infinite's infamous Brute that appeared in the notorious trailer last year. He might have originally represented the poor quality of graphics in the original Halo Infinite trailer, but now he has been memorialized as a rock star inside the game in an Easter egg.
-<a href='https://www.theverge.com/tldr/2021/11/19/22791194/halo-infinite-craig-easter-egg-tower'> Source <a/>
