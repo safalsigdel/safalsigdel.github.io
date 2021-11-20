@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ALIjQ8PEmYAoJklOS6KFMeU6Zro=/0x0:1774x1022/1200x800/filters:focal(746x370:1028x652)/cdn.vox-cdn.com/uploads/chorus_image/image/70162444/Screen_Shot_2021_11_18_at_5.12.45_PM.0.png' width='700px' /><br/>
-MediaTek has just announced its latest flagship processor: the Dimensity 9000, the company's most powerful chip ever that looks like it should be able to go head to head with the best chips that more popular competitors like Qualcomm and Samsung offer.
-<a href='https://www.theverge.com/2021/11/18/22790189/mediatek-dimensity-9000-flagship-chip-qualcomm-snapdragon-competition-arm'> Source <a/>

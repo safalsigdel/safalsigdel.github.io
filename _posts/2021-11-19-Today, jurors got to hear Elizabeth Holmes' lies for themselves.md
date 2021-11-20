@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MI3feWTvhhhz9bYfJb15azz3KYs=/0x0:3849x2748/1200x675/filters:focal(1460x616:2074x1230)/cdn.vox-cdn.com/uploads/chorus_image/image/70163269/1353830876.0.jpg' width='700px' /><br/>
-Today we heard Elizabeth Holmes speak in court — through recordings made for a Fortune article by Roger Parloff. In those recordings, Holmes claims that Theranos worked with the military, was currently working with pharmaceutical companies, that the company could do more than a thousand tests on its proprietary machines, and that the results were “at the highest level of quality.”
-<a href='https://www.theverge.com/2021/11/18/22790541/elizabeth-holmes-fraud-lies-recording'> Source <a/>

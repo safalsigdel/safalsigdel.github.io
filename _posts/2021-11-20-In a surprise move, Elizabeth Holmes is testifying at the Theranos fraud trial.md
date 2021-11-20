@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6y5qagsIdBWF74eAJ984TzLivSA=/0x0:4781x3430/1200x800/filters:focal(2058x591:2822x1355)/cdn.vox-cdn.com/uploads/chorus_image/image/70168695/1341968229.0.jpg' width='700px' /><br/>
+Elizabeth Holmes, the founder and CEO of disgraced blood-testing company Theranos, took the stand in her own defense late Friday, in a surprise move by the defense team. Holmes is being tried on charges of wire fraud and conspiracy to commit wire fraud, for allegedly misleading investors and patients about Theranos' blood testing device.
+<a href='https://www.theverge.com/2021/11/19/22792356/surprise-elizabeth-holmes-testifying-theranos-fraud-trial'> Source <a/>

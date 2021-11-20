@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ec6NE7l6jJa7eKCEA3HWWG8Wlck=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70161314/acastro_210511_1777_psRestock_0004.0.jpg' width='700px' /><br/>
-Update November 18th, 3:55PM ET: Walmart has sold out of both PlayStation 5 consoles and the Xbox Series X. We'll be sure to keep you updated when we hear of another round of free or paywalled restocks.
-<a href='https://www.theverge.com/2021/11/18/22789807/playstation-5-ps5-xbox-series-x-consoles-restock-walmart-plus-availability-order-where-to-buy'> Source <a/>

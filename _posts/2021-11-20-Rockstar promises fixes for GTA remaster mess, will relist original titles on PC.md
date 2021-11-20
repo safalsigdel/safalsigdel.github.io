@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cAMkYYQVgcd0a28RbZwwskIf5IA=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70166645/GTAVC_PC_Retail_6.0.jpeg' width='700px' /><br/>
+Rockstar has published a blog post apologizing for the rocky launch of Grand Theft Auto: The Trilogy — Definitive Edition, which packages together remastered versions GTA III, GTA: Vice City, and GTA: San Andreas. The company is promising a “Title Update” in the coming days that will “address a number of issues” and plans to make the original PC versions of the three games available as a bundle “shortly.”
+<a href='https://www.theverge.com/2021/11/19/22791656/rockstar-gta-trilogy-remaster-mess-re-list-original-titles-pc'> Source <a/>

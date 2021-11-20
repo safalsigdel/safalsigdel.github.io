@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3uBDVo_pbotPlKQ6DzcMzav3dgo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70167505/mclark_210923_4776_0003.0.jpg' width='700px' /><br/>
+Ford no longer plans to make an electric vehicle with EV startup Rivian, CEO Jim Farley tells Automotive News. The Detroit automaker originally announced it wanted to make a Rivian-powered EV in 2019 when it made its first investment of $500 million into the startup. Ford and Rivian already canceled a vehicle they planned to make for the Lincoln luxury brand in 2020.
+<a href='https://www.theverge.com/2021/11/19/22791984/ford-rivian-ev-canceled-investment-ipo-jim-farley'> Source <a/>

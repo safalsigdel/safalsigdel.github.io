@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v4-oCrTETMTZmM258HYWQwR-7hg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70167636/acastro_210511_1777_psRestock_0004.0.jpg' width='700px' /><br/>
+A year ago, the next generation of console gaming was supposed to have arrived. The Xbox Series X (and Series S) and PlayStation 5 strode boldly onto the scene, with massive chassis and even bigger promises of games with better graphics, shorter loading times, and revolutionary new breakthroughs.
+<a href='https://www.theverge.com/2021/11/19/22791886/ps5-xbox-series-x-next-gen-consoles-games-delays-supply-shorage'> Source <a/>

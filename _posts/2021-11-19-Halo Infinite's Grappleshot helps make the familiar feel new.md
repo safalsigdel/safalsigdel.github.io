@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aS1knMb_lJQXs085W40-94KNLXE=/0x0:2560x1440/1200x675/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70164176/8KMUico.0.jpeg' width='700px' /><br/>
-I wasn't ready to start sneaking around a Banished warship in my first few minutes in Halo Infinite's campaign, but there I was facing down an army of Grunts, Jackals, Brutes, and Elites. The initial thrill of the classic Halo music and the familiarity of the enemies was a nostalgia overload for a good few minutes, but after it all wore off I noticed the new Grappleshot. Oh, boy.
-<a href='https://www.theverge.com/2021/11/19/22789035/halo-infinite-campaign-preview'> Source <a/>

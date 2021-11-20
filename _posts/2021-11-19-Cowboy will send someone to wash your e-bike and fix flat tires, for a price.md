@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yc0pmjyvlTyLG0upxV8ysqxus6c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70164965/ahawkins_210919_4769_0009.0.jpg' width='700px' /><br/>
-Cowboy, one of Europe's premier makers of electric commuter bikes, is now offering a mobile support service in 22 cities with more to follow; 14 in the EU and eight in the US where Cowboy only recently set up operations.
-<a href='https://www.theverge.com/2021/11/19/22791091/cowboy-care-c4-e-bike-mobile-support-network-price-date'> Source <a/>
