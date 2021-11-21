@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/cQCcknJ4iouHkQqdSdp0wFQ6ynI=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70171702/1234610871.0.jpg' width='700px' /><br/>
+DuckDuckGo's new tool aims to prevent apps from tracking Android users, first reported by Wired. The tool, called App Tracking Protection, is essentially a watered-down version of Apple's App Tracking Transparency feature, which gives users the choice to opt-out of data tracking within apps.
+<a href='https://www.theverge.com/2021/11/20/22793068/duckduckgo-tool-prevent-apps-tracking-android-users'> Source <a/>

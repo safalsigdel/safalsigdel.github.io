@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BjliHGIu6Lmcv8_KzMmcCd-qG00=/0x0:3900x2601/1200x800/filters:focal(1638x989:2262x1613)/cdn.vox-cdn.com/uploads/chorus_image/image/70165592/1219014464.0.jpg' width='700px' /><br/>
-The Miami City Commission has voted to end its multiyear experiment with shared electric scooters. In a four to five vote, the commission approved a “pocket item” (a last-minute legislative maneuver) to end the Miami scooter pilot. The ordinance went into effect at midnight November 18th.
-<a href='https://www.theverge.com/2021/11/19/22791237/miami-vote-end-electric-scooter-pilot-lyft'> Source <a/>

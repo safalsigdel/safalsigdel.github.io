@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ybv0BBZak1gyv1uNEz-u-RGKdZ0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70165959/vpavic_4243_20201018_0121.0.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where co-hosts Nilay Patel and Dieter Bohn discuss the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/2021/11/19/22791309/broadband-policy-russian-satellite-apple-iphone-repair-manual-vergecast-podcast-476'> Source <a/>
