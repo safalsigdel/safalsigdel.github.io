@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C-E-M9K1bu2_00MWEyM8EyR0qYc=/0x0:1475x983/1200x800/filters:focal(620x374:856x610)/cdn.vox-cdn.com/uploads/chorus_image/image/70166222/stadia.0.jpg' width='700px' /><br/>
-On November 19th, 2019, Google launched its Stadia cloud gaming service as a work in progress, and it's arguably still one today. But one thing that's consistently improved is the price of entry, and Google's bringing it down even further to celebrate Stadia's second birthday.
-<a href='https://www.theverge.com/2021/11/19/22790946/google-stadia-birthday-premiere-edition-price-free'> Source <a/>
