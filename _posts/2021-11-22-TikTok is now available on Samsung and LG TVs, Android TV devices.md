@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fpmmRVc5fv__1JZrENKUZQCLCrg=/0x0:1920x1080/1200x800/filters:focal(507x293:813x599)/cdn.vox-cdn.com/uploads/chorus_image/image/70177664/tikTV.0.png' width='700px' /><br/>
+TikTok is expanding its presence on TV screens in a major way. After initially launching in North America on Amazon's Fire TV platform, the TikTok TV app is today available on Samsung and LG smart TVs — plus Android TV devices, including the Chromecast with Google TV.
+<a href='https://www.theverge.com/2021/11/22/22796353/tiktok-tv-app-now-available-samsung-lg-google-android-tv'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V2zGu_tEuokhA3uiqYPUNtj2uRk=/0x0:2362x1575/1200x800/filters:focal(990x599:1366x975)/cdn.vox-cdn.com/uploads/chorus_image/image/70177649/1232204951.0.jpg' width='700px' /><br/>
+Uber is partnering with a cannabis retailer in Canada to allow cannabis purchases via its Uber Eats food delivery platform. The arrangement does not include delivery of weed orders, however, but makes it possible for users in Ontario to order products from Tokyo Smoke in a dedicated section on the Uber Eats app.
+<a href='https://www.theverge.com/2021/11/22/22796271/uber-eats-order-weed-cannabis-marijuana-app-ontario-canada-no-delivery'> Source <a/>
