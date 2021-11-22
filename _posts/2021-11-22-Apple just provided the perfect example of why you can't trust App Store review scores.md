@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kh2OGx4uzEUPM2SX-dABYCl96-A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70168317/acastro_210817_4721_0001.0.jpg' width='700px' /><br/>
-You pissed off people by somewhat breaking your app, and they're leaving angry reviews. How can you salvage your reputation? Apple just found one incredibly effective way — get listeners to submit better reviews by interrupting their podcast experience with an in-app prompt to submit a rating.
-<a href='https://www.theverge.com/2021/11/19/22791968/apple-podcasts-star-score-review-prompt'> Source <a/>
