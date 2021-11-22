@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ffl754yuq54F-l007jyr3Lq80iM=/0x0:4135x2757/1200x800/filters:focal(1738x1049:2398x1709)/cdn.vox-cdn.com/uploads/chorus_image/image/70174329/1236478389.0.jpg' width='700px' /><br/>
+Spotify has stopped shuffling albums by default following a request from Adele, according to a report by BBC. Previously, when viewing an album on Spotify, you'd see a small shuffle icon within the larger “Play” button. This indicated that Spotify would begin playing the album's songs in a random order, which isn't always what users would expect (or want) it to do.
+<a href='https://www.theverge.com/2021/11/21/22794838/spotify-adele-stop-shuffling-albums'> Source <a/>
