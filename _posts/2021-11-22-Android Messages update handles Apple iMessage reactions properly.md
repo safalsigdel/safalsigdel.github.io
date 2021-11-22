@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/89YMhFAvFP_pGe_5KojiwDzdFSc=/0x0:975x650/1200x800/filters:focal(349x249:505x405)/cdn.vox-cdn.com/uploads/chorus_image/image/70176818/IMG_1706.0.jpg' width='700px' /><br/>
+An update to Google Messages on Android allows it to properly display emoji reactions sent from the iPhone's Messages app, 9to5Google reports.
+<a href='https://www.theverge.com/2021/11/22/22796112/google-android-messages-imessage-emoji-reactions-formatting'> Source <a/>
