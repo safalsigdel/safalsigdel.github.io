@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uu-BDik-A6BvetNklrV0R78N0A0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70177043/vpavic_4278_20201030_0292.0.jpg' width='700px' /><br/>
+Sony has filed a patent for its PS5 faceplates. The design patent was originally filed just a week before the PS5's November launch last year, and it was subsequently published in the United States Patent and Trademark Office (USPTO) on November 16th. It has fueled speculation that Sony will create its own PS5 faceplates or skins.
+<a href='https://www.theverge.com/2021/11/22/22796166/sony-ps5-faceplates-design-patent-playstation-5'> Source <a/>
