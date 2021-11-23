@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Vuo27kYFeXoAqwJ_p208WsazM5A=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/70182552/jvincent_160412_1017_8176.0.0.1484136509.0.png' width='700px' /><br/>
+Sustainable smartphone manufacturer Fairphone has released an Android 10 update for the six-year-old Fairphone 2, a device that originally launched with Android 5 in 2015. The update is in beta for the time being, but the company says it hopes to release a stable version early next year. Alongside it, the company also plans to start beta testing an Android 11 update for the 2019 Fairphone 3 and 2020 Fairphone 3 Plus.
+<a href='https://www.theverge.com/2021/11/23/22798512/fairphone-2-android-10-beta'> Source <a/>
