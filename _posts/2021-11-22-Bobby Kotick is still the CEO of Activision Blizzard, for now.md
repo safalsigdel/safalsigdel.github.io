@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ov_vSF4kK5JRcHR8QzY_2wHDUQ0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70175271/acastro_210729_1777_blizzard_0002.0.jpg' width='700px' /><br/>
-Bobby Kotick is still the CEO of Activision Blizzard, despite a Wall Street Journal report that detailed Kotick's history of harassment and abusive behavior while also saying he knew about allegations and incidents of abuse within the company for years.
-<a href='https://www.theverge.com/2021/11/21/22795286/activision-ceo-bobby-kotick-is-not-resigning-yet'> Source <a/>

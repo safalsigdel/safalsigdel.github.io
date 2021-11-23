@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G609DrQH3lliwKwwrIjb9Efdv04=/0x0:2844x1198/1200x800/filters:focal(1195x372:1649x826)/cdn.vox-cdn.com/uploads/chorus_image/image/70179423/hitman_3_vr.0.png' width='700px' /><br/>
+Hitman 3 VR will become available on PC next year, according to an announcement by game developer IO Interactive, which outlines the roadmap of content that players can expect in Hitman 3's second year.
+<a href='https://www.theverge.com/2021/11/22/22796927/hitman-3-vr-pc-2022'> Source <a/>

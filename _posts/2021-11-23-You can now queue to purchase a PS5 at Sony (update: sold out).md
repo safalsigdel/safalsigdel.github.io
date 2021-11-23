@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/du85yn_JZiNNVJN_GtbMDlvKrs4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70180615/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
+Update November 22nd, 8:25PM ET: Sony appears to have sold out of PS5 consoles for the day. We'll make sure to let you know when the next opportunity comes up.
+<a href='https://www.theverge.com/2021/11/22/22714928/sony-ps5-playstation-console-disc-digital-edition-restock-sale'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xMYTMBvukIi7RFVyEF5uKXE7JjA=/0x0:5262x2568/1200x800/filters:focal(2211x864:3051x1704)/cdn.vox-cdn.com/uploads/chorus_image/image/70175277/1223659176.0.jpg' width='700px' /><br/>
-One of the biggest esports events in the world will be spread across four North American cities next year. Riot Games has announced that the 2022 edition of the League of Legends World Championship will take place in New York, Toronto, Mexico City, and San Francisco. The announcement was made ahead of an NBA match between the Warriors and Raptors at the Chase Center in San Francisco.
-<a href='https://www.theverge.com/2021/11/21/22791688/league-of-legends-2022-wold-championship-new-york-toronto-sf'> Source <a/>

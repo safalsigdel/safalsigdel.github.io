@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dRqKhswtRqCcXAlP0fa4pwlFBwY=/0x0:688x400/1200x800/filters:focal(289x145:399x255)/cdn.vox-cdn.com/uploads/chorus_image/image/70178167/eye_688.0.jpeg' width='700px' /><br/>
+Qualcomm has announced some key changes to how it brands its Snapdragon chips, including a shift away from the three-digit numbering system it's been using to differentiate between its products for years. The news comes ahead of the company's expected next-gen flagship chip debut at the Snapdragon Tech Summit on November 30th.
+<a href='https://www.theverge.com/2021/11/22/22796541/qualcomm-snapdragon-branding-naming-scheme-changes-updates'> Source <a/>

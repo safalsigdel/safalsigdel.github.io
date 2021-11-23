@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9lqojXOGXN1nygdotY-CQN9qk5k=/0x0:3840x1920/1200x675/filters:focal(1101x617:1715x1231)/cdn.vox-cdn.com/uploads/chorus_image/image/70170358/Foundation_Photo_011003.0.jpg' width='700px' /><br/>
-Foundation's first season has officially wrapped with its season finale, which saw the first chapter of Apple TV Plus' most ambitious show come to a conclusion.
-<a href='https://www.theverge.com/2021/11/20/22791979/foundation-season-1-review-apple-tv-plus'> Source <a/>

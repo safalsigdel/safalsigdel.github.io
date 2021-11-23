@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/b-F6IfqtwMY5nrmduS3zKONQFTg=/0x0:2546x1506/1200x800/filters:focal(1070x550:1476x956)/cdn.vox-cdn.com/uploads/chorus_image/image/70170469/astra_reaches_orbit.0.png' width='700px' /><br/>
-Astra is now on the list of privately-owned space companies that have successfully reached orbit. Its Launch Vehicle 0007 (LV0007), which was carrying a test payload for the US military, took off from the Pacific Spaceport Complex in Kodiak Island, Alaska on Saturday at 1:16AM ET. Following a smooth liftoff, the 43-foot rocket achieved orbit around nine minutes later at 500km above Earth.
-<a href='https://www.theverge.com/2021/11/20/22792942/astra-reaches-orbit-first-time-lv0007-rocket'> Source <a/>

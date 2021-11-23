@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rCHyZe0Z60u5tyWBlEDBMa0MM7k=/0x0:4617x3072/1200x675/filters:focal(1778x509:2516x1247)/cdn.vox-cdn.com/uploads/chorus_image/image/70180473/1236737577.0.jpg' width='700px' /><br/>
+So far, Elizabeth Holmes' defense has been at pains to show us that Theranos had a real device and worked with real pharmaceutical companies. That actually hasn't been in question, particularly in the time period the defense was asking about. Still, the point seems to be hey, look, some things at Theranos were real.
+<a href='https://www.theverge.com/2021/11/22/22797596/elizabeth-holmes-pharma-company-studies-theranos'> Source <a/>

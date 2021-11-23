@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rZLvO6Mr0mPgWIBiGpFNkPgmNqc=/0x0:2040x1360/1200x675/filters:focal(828x815:1154x1141)/cdn.vox-cdn.com/uploads/chorus_image/image/70177315/akrales_211116_4879_0310.0.jpg' width='700px' /><br/>
-Nreal has sold me on the appeal of watching TV with a pair of glasses, and I wish I could recommend buying the glasses that did it.
-<a href='https://www.theverge.com/22791981/nreal-light-augmented-mixed-reality-glasses-review'> Source <a/>

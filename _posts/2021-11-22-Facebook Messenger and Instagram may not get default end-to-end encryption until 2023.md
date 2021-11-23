@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x6dt7LgW1Uii_y341amkWcTAS_4=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70174183/1232053428.0.jpg' width='700px' /><br/>
-Meta — Facebook, Instagram, and WhatsApp's parent company — doesn't plan to roll out end-to-end encryption (E2EE) by default on Messenger and Instagram until 2023, first reported by The Guardian.
-<a href='https://www.theverge.com/2021/11/21/22794622/messenger-instagram-end-to-end-encryption-default-2023'> Source <a/>

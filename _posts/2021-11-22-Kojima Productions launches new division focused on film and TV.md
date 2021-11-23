@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g0COysGlcMJcg6PuS-EZdj0EAzs=/0x0:1919x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70177416/death_stranding_screen_09_ps4_us_28may19.0.jpeg' width='700px' /><br/>
-Death Stranding studio Kojima Productions has announced a brand-new division as it looks beyond video games. No new projects have been announced, but the company says the Los Angeles-based office “will focus on securing opportunities in the film and television space.”
-<a href='https://www.theverge.com/2021/11/22/22796261/kojima-productions-film-tv-death-stranding'> Source <a/>

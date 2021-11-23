@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/idtbWdg7B9kGQCVK8GaJ-8OreNU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70171306/shollister_201030_42850012.0.0.jpg' width='700px' /><br/>
-The Samsung Odyssey G9 gaming monitor is on sale right now for $999 on Amazon, down $400 from its original $1399 price tag.
-<a href='https://www.theverge.com/2021/11/20/22793196/samsung-odyssey-g9-gaming-monitor-sale'> Source <a/>

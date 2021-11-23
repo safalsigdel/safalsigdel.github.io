@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mYsNciLn766SiDsCzn3AlWWWKi8=/0x0:4575x3089/1200x675/filters:focal(1467x1587:2199x2319)/cdn.vox-cdn.com/uploads/chorus_image/image/70169176/1353830012.0.jpg' width='700px' /><br/>
-Elizabeth Holmes, her hair down and her makeup muted relative to her Theranos days, spelled her name for the court. After the prosecution rested its case in the morning, the defense called her as their third witness, about an hour before the end of the day. She wore a navy blazer with a white blouse — not one of the famous black turtlenecks has made an appearance in court during the months the case against her has dragged on.
-<a href='https://www.theverge.com/2021/11/19/22792606/elizabeth-holmes-fraud-witness-stand-surprise'> Source <a/>

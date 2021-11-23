@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RDg86ZbDvssPyw5dFLQQkPnvIgo=/0x0:5120x2880/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/70170840/google_pixel_6a_leak.0.jpeg' width='700px' /><br/>
-Rendered images of the Google Pixel 6A have been leaked by reliable leaker Steve Hemmerstoffer (@OnLeaks), and give us a glimpse at what the midrange device may look like, first reported by 91Mobiles.
-<a href='https://www.theverge.com/2021/11/20/22793079/google-pixel-6a-leak-compact-mobile-no-headphone-jack'> Source <a/>
