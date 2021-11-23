@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ia0NXDBA0x24y6qubpu1HLBDl-k=/0x0:1996x1153/1200x800/filters:focal(839x418:1157x736)/cdn.vox-cdn.com/uploads/chorus_image/image/70182281/HGWv24g.0.jpeg' width='700px' /><br/>
+Microsoft has created an Xbox metaverse museum where you can roam around and discover the history of Xbox consoles. It's designed to celebrate 20 years of Xbox and includes some infamous mistakes like the Xbox 360 red ring of death or Microsoft's attempt to acquire Nintendo in spring 2000.
+<a href='https://www.theverge.com/2021/11/23/22798429/xbox-museum-20th-anniversary-stats-achievements'> Source <a/>
