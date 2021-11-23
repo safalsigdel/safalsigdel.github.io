@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/njOZJolNeifRO-XJvP6i3RQHmoU=/0x0:2500x1122/1200x800/filters:focal(1050x361:1450x761)/cdn.vox-cdn.com/uploads/chorus_image/image/70179573/Pure_Watercraft_Electric_Outboard_Motor.0.jpg' width='700px' /><br/>
 General Motors has taken a 25 percent stake in Pure Watercraft, a Seattle-based startup that makes electric outboard motors and batteries for boats, CNBC reports.
+<a href='https://www.theverge.com/2021/11/22/22796986/gm-pure-watercraft-investment-electric-boats'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/njOZJolNeifRO-XJvP6i3RQHmoU=/0x0:2500x1122/1200x800/filters:focal(1050x361:1450x761)/cdn.vox-cdn.com/uploads/chorus_image/image/70179573/Pure_Watercraft_Electric_Outboard_Motor.0.jpg' width='700px' /><br/>
+General Motors has taken a 25 percent stake in Pure Watercraft, a Seattle-based startup that makes electric outboard motors and batteries for boats, CNBC reports.
 <a href='https://www.theverge.com/2021/11/22/22796986/gm-pure-watercraft-investment-electric-boats'> Source <a/>
