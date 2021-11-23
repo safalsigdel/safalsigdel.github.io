@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Yljho2CVcHIDAqLoTFY2X5kK3-o=/0x0:2040x1360/1200x675/filters:focal(863x879:1189x1205)/cdn.vox-cdn.com/uploads/chorus_image/image/70181551/jporter_211111_4873_0007.0.jpg' width='700px' /><br/>
+Like most PC gamers, I split my time between playing using a mouse and keyboard and a console controller. Nothing beats the precision of a mouse in first- and third-person shooters, but for me, a keyboard is no match for an analog stick in racing games or platformers. They both have different strengths.
+<a href='https://www.theverge.com/22796553/wooting-two-he-review-analog-mechanical-keyboard-lekker-switches-hall-effect'> Source <a/>
