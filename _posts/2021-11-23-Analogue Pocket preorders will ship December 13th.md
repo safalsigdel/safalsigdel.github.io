@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c1UQgXE9jXUmkWo5WviX-3G7W6c=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/70177596/9_Pocket_3_4.0.jpg' width='700px' /><br/>
-Analogue Pocket preorders will start shipping on December 13th. In a brief blog post, Analogue, manufacturers of the retro handheld Pocket, wrote, “Due to unprecedented shipping congestion, your order will ship and be delivered between December 14th - December 30th.”
-<a href='https://www.theverge.com/2021/11/22/22796303/analogue-pocket-preorder-ship-date'> Source <a/>
