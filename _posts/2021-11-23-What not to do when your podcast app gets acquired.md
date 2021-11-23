@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mS-z-CA3sMoeNVuCyaTACj5gGyI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70182145/acast_radiopublic.0.jpg' width='700px' /><br/>
+Hello, hello. Welcome back to Tuesday; I hope everyone has found ways to keep “working” ahead of the holiday and isn't daydreaming too much about the hoards of food we here in the US will be eating in just a couple days. Today's issue is a hodgepodge of things — a nice mix. Today, we're talking about what happens when a podcast app gets acquired, ExxonMobil “duping” The Daily, and more.
+<a href='https://www.theverge.com/2021/11/23/22797808/podcast-app-acquire-radiopublic-acast-rss-feed-hot-pod'> Source <a/>

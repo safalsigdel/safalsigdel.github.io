@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mlfNQu74uAtAyBrmP6QvBnUvo-U=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70178182/pasted_image_0__3_.0.jpg' width='700px' /><br/>
-Twitter is hosting its first shopping livestream on November 28th at 7PM ET, the company announced today as it becomes the latest social media platform to embrace the trend.
-<a href='https://www.theverge.com/2021/11/22/22796037/twitter-cyber-deals-sunday-shopping-livestream-walmart-jason-derulo'> Source <a/>
