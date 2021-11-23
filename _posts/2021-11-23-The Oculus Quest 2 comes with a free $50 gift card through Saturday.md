@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CYlgrfz9PON9zV6XCYGwucUK1yw=/0x0:2040x1360/1200x800/filters:focal(842x439:1168x765)/cdn.vox-cdn.com/uploads/chorus_image/image/70173325/akrales_200904_4160_0135.0.0.jpg' width='700px' /><br/>
+Updated 10:30AM ET, November 23rd: In case you haven't already plopped down cash on one of these bundles, Amazon's promo is the best we've seen yet. It includes the 128GB headset, the $49 zip-up case and a $50 Amazon credit for $299.99. That's $100 in savings, making it the easy choice if you're trying to get the most bang for your buck.
+<a href='https://www.theverge.com/good-deals/2021/11/21/22789487/oculus-quest-2-vr-headset-50-gift-card-black-friday-promo'> Source <a/>
