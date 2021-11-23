@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bjLfjym-xrJKKlW4NjsKjXqkw-A=/0x0:4000x2670/1200x800/filters:focal(1680x1015:2320x1655)/cdn.vox-cdn.com/uploads/chorus_image/image/70177520/1232708607.0.jpg' width='700px' /><br/>
-Roku serves as a gateway to access various streaming services, but now, a report from The Wall Street Journal reveals that the service wants to develop over 50 original series in the next two years, expanding the original content that it already has on its free Roku Channel.
-<a href='https://www.theverge.com/2021/11/22/22795069/roku-originals-new-shows-free-channel-streaming'> Source <a/>

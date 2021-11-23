@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9wJBFVc2zlLbYeMe8UZzSC54ccY=/0x0:1600x1067/1200x800/filters:focal(672x406:928x662)/cdn.vox-cdn.com/uploads/chorus_image/image/70181571/WindowsBlog_EmojiHero_1600x1067.0.png' width='700px' /><br/>
+Microsoft is making its Fluent-style emoji available in Windows 11 this week. A new optional update for the OS is rolling out that includes a number of important bug fixes and the new emoji Microsoft previewed earlier this year. While it's a totally new style, it's not the 3D look that Microsoft previously promised — the company opted for 2D instead.
+<a href='https://www.theverge.com/2021/11/23/22798204/microsoft-new-emoji-windows-11-now-available'> Source <a/>
