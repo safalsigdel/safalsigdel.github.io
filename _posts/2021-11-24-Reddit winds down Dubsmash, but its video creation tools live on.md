@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4uytzl2rqcsGgedBS0An7cg9kPI=/0x0:1600x1120/1200x800/filters:focal(672x432:928x688)/cdn.vox-cdn.com/uploads/chorus_image/image/70182697/reddit_new_filters.0.png' width='700px' /><br/>
-Reddit will shut down its short-form video platform, Dubsmash, on February 22nd, 2022. After February, the app will no longer be available on apps stores and will stop functioning on devices that already have the app.
-<a href='https://www.theverge.com/2021/11/23/22796234/reddit-dubsmash-video-creation-tools'> Source <a/>
