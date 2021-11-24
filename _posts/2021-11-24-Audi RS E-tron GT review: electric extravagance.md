@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W_qioLfc8PhJHEaJm87bwqn7AcQ=/0x0:2040x1530/1200x675/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70183399/pesposito_211027_4857_0018.0.jpg' width='700px' /><br/>
-I won't mince words: the 2021 Audi RS E-tron GT is hands down one of the best electric cars I've ever driven. It's gorgeous, sophisticated, incredibly powerful, but it is also very, very expensive.
-<a href='https://www.theverge.com/2021/11/23/22798695/audi-rs-etron-gt-review-ev-specs-price'> Source <a/>
