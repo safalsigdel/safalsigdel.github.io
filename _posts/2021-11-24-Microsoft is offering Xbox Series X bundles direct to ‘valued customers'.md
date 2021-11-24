@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SaDsEXROuAfOI6_GwnUyno-WTGg=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/70186651/twarren_xboxseriesxhandson.0.jpg' width='700px' /><br/>
+If you're hunting for an Xbox Series X, you might want to check your email inbox. Microsoft has been emailing out special links over the past week to the Microsoft Store, that let you directly order an Xbox Series X bundle. Microsoft says it has a “limited supply of Xbox Series X bundles” that are available to “valued Microsoft customers” in the US.
+<a href='https://www.theverge.com/2021/11/24/22800255/microsoft-xbox-series-x-bundles-email'> Source <a/>

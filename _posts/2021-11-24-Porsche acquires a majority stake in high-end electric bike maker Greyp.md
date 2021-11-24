@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uNQ4bDcpFHcp6Y3Y9dZ_JLy5jzU=/0x0:1200x798/1200x800/filters:focal(504x303:696x495)/cdn.vox-cdn.com/uploads/chorus_image/image/70182726/download__3_.0.jpeg' width='700px' /><br/>
-Croatian electric bike manufacturer Greyp Bikes has a new majority shareholder: Porsche. The sports car manufacturer's venture capital arm, Porsche Ventures, has held a stake of around 10 percent in the e-bike company since 2018.
-<a href='https://www.theverge.com/2021/11/23/22798553/porsche-controlling-stake-greyp-ebike-rimac'> Source <a/>

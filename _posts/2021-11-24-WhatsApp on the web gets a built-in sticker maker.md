@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TicnlMbFTAGxxu4n5faIOAlLQw8=/0x0:1619x1079/1200x800/filters:focal(924x414:1182x672)/cdn.vox-cdn.com/uploads/chorus_image/image/70186671/WhatsApp_Sticker_Tool_1.0.jpg' width='700px' /><br/>
+WhatsApp's web version has been updated with a built-in custom Sticker Maker, which lets you turn ordinary images from your computer into stickers that can be sent via the messaging service. To access it, click the paperclip (attachments) icon, select Sticker, and then pick an image to upload. As well as WhatsApp's web version, the feature is also coming to its Desktop apps in the next week.
+<a href='https://www.theverge.com/2021/11/24/22800242/whatsapp-web-native-sticker-maker-desktop'> Source <a/>
