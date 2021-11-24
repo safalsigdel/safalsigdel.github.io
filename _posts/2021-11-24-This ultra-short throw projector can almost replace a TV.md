@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4_2eqj0loHd0-3UCSAhp8bH-k2I=/0x0:1859x1394/1200x675/filters:focal(782x549:1078x845)/cdn.vox-cdn.com/uploads/chorus_image/image/70186373/verge_IMG20211123171031_2040pxl.0.jpg' width='700px' /><br/>
+Televisions are ugly. A 55-inch television creates about 1,300 square-inches of eyesore when not in use. Many don't care, but my spouse does, which meant living with a tiny TV for longer than I care to admit.
+<a href='https://www.theverge.com/22798489/xgimi-aura-projector-review-price-specs'> Source <a/>
