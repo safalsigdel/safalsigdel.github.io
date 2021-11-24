@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sYyO-GQWQqfp4GPEbwtGBrDYhFc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70187357/18BR_Chapter2Finale_TheEnd_notext.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/UVb7a2I-CwDbKil_UOIYhC93_WQ=/0x0:3840x2160/1200x0/filters:focal(0x0:3840x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22134837/Fortnite_20201201161237.jpg' width='700px' /><br/>
 Fortnite's next big in-game event won't just mark the end of the latest season — it'll also draw chapter 2 to a close as well. Called, appropriately, “The End,” the one-time-only event will take place on December 4th at 4PM ET. Developer Epic describes it as “one last stand for the fate of the island,” suggesting that players will soon be playing on a brand-new map.
 <a href='https://www.theverge.com/2021/11/24/22799221/fortnite-chapter-2-end-date'> Source <a/>
