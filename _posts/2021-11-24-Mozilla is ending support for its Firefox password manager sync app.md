@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pPV_Mq9ecZZvDsLK8CypljO0G8M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70183797/acastro_200207_3900_firefox_0001.0.0.jpg' width='700px' /><br/>
+Mozilla announced last week via a support article that its Firefox Lockwise password manager app will reach end-of-life on December 13th. The final release versions are 1.8.1 (iOS) and 4.0.3 (Android) and will no longer be available to download or reinstall after that date.
+<a href='https://www.theverge.com/2021/11/23/22798811/mozilla-is-ending-support-for-firefox-lockwise-password-manager'> Source <a/>

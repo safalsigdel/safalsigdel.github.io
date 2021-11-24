@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OHOvO1bHaJrEqyvfEeogKGXlArs=/0x0:5000x3750/1200x800/filters:focal(2100x1475:2900x2275)/cdn.vox-cdn.com/uploads/chorus_image/image/70179762/1291299299.0.jpg' width='700px' /><br/>
-Dodge will cease production of its gas-powered Charger sedan and Challenger coupe in 2024 in order to make way for the automaker's first electric vehicles.
-<a href='https://www.theverge.com/2021/11/22/22797134/dodge-challenger-charger-phase-out-production-2024'> Source <a/>

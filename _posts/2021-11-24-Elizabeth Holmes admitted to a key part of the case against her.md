@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Hl1lmrwwn10YrOTjmewd8hQRv80=/0x0:2971x3525/1200x675/filters:focal(1405x675:1879x1149)/cdn.vox-cdn.com/uploads/chorus_image/image/70185607/1236751419.0.jpg' width='700px' /><br/>
+Who added the Schering-Plough and Pfizer logos to the Theranos-produced lab reports that investors received? Why, none other than Elizabeth Holmes.
+<a href='https://www.theverge.com/2021/11/23/22799756/elizabeth-holmes-pfizer-logo-confession'> Source <a/>

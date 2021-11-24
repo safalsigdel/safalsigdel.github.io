@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TMyFyruKTU9DkDwHHdpyKeWDn5c=/0x0:2708x1523/1200x800/filters:focal(1138x546:1570x978)/cdn.vox-cdn.com/uploads/chorus_image/image/70154122/LG_C1_Lifestyle_Photo.5.jpeg' width='700px' /><br/>
-As Black Friday approaches, several retailers are already offering significant discounts — and Walmart is no exception. Right now, the retail giant is dropping early Black Friday deals on everything from the AirPods Pro to the most popular TVs and streaming devices.
-<a href='https://www.theverge.com/22784126/walmart-black-friday-2021-tech-cyber-monday-deals'> Source <a/>

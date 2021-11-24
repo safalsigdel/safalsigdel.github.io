@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v6orQbOrtecA2-2YzntiikT_x6Y=/0x0:1839x787/1200x800/filters:focal(712x259:1006x553)/cdn.vox-cdn.com/uploads/chorus_image/image/70183498/640858.0.jpeg' width='700px' /><br/>
+Polestar teased its gorgeous sedan concept, the Polestar Precept, giving it a new name — Polestar 5 — and a 2024 production date.
+<a href='https://www.theverge.com/2021/11/23/22798880/polestar-5-precept-electric-sedan-tease-2024'> Source <a/>

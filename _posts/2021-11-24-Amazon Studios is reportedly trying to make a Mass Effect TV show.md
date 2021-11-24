@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jOB4WMEwvghcxeXr0lFsn-telNE=/0x0:768x432/1200x800/filters:focal(323x155:445x277)/cdn.vox-cdn.com/uploads/chorus_image/image/70185127/MassEffect_LE_Key_Art_16x9_RGB_768x432.0.jpg' width='700px' /><br/>
+According to a report by Deadline, Amazon isn't relying on the just-launched Wheel of Time series and its upcoming Lord of the Rings show to pull in sci-fi/fantasy viewers. The entertainment news outlet reports that Amazon is “nearing a deal to develop a series” based on the Mass Effect games.
+<a href='https://www.theverge.com/2021/11/23/22799583/mass-effect-bioware-tv-show-movie-amazon-studios-rumor'> Source <a/>

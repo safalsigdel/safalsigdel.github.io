@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1PUM7SWmCEodQKPxL3sODyx5KoU=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70183192/AR_Marketing_Subway.0.png' width='700px' /><br/>
+Have you ever played Pokxc3xa9mon Go and thought “I wish this game let you earn small amounts of Bitcoin by engaging with internet finance memes and a cryptocurrency debit card system”? If so, I don't believe you, but I have good news.
+<a href='https://www.theverge.com/2021/11/23/22798523/niantic-fold-ar-metaverse-mobile-game-bitcoin-earning'> Source <a/>

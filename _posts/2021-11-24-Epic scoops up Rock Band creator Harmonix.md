@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b3tFIkiYcjvEOhuD3QJcrtyB37A=/0x0:3515x2344/1200x800/filters:focal(1477x891:2039x1453)/cdn.vox-cdn.com/uploads/chorus_image/image/70183320/113209556.0.jpg' width='700px' /><br/>
+Fortnite maker Epic Games has announced its latest acquisition: Harmonix, the studio behind iconic music games like Guitar Hero and Rock Band.
+<a href='https://www.theverge.com/2021/11/23/22798851/epic-acquisition-harmonix-rock-band-guitar-hero'> Source <a/>

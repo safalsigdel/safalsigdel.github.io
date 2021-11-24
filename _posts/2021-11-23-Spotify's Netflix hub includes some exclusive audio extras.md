@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O7LurTCCWq7qvPyrYDX_n3ztWFg=/0x0:2048x1296/1200x800/filters:focal(861x485:1187x811)/cdn.vox-cdn.com/uploads/chorus_image/image/70182324/netflix_spotify_music.0.png' width='700px' /><br/>
-Spotify has introduced a new hub that's home to all the music from Netflix's shows and movies. A post on Spotify's newsroom explains that both free and premium users can access the Netflix hub by searching for “Netflix” on Spotify.
-<a href='https://www.theverge.com/2021/11/23/22798338/spotify-netflix-hub-exclusive-audio-extras'> Source <a/>

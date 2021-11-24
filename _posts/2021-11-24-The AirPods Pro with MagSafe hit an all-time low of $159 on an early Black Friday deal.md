@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VL5uDrEYp2C4bQLpj9pnwrBOJbw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70183081/cwelch_191031_3763_0002.0.jpg' width='700px' /><br/>
+The Black Friday season just keeps on rolling, and we keep seeing such exceptional early deals day in and day out. If things keep up at this rate, we may all go broke by the time Black Friday actually arrives — but wow, will we have saved so much money on the coolest tech in the process.
+<a href='https://www.theverge.com/good-deals/2021/11/23/22798342/apple-airpods-pro-backbone-one-iphone-controller-razer-kishi-black-friday-deal-sale'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TEGSyMcXWTlXFrrvTg7kUcBlvFA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70185173/acastro_170726_1777_0012_v2.0.jpg' width='700px' /><br/>
+Twitter verified a fake account for Norway's new Minister of Finance, but apparently, it's not Twitter's fault. As first reported by Norwegian tech site NRKbeta, the Prime Minister's Office and Norway's Security Authority (NSM) mistakenly passed along a fake account for verification.
+<a href='https://www.theverge.com/2021/11/23/22799403/twitter-verified-fake-account-norwegian-government'> Source <a/>

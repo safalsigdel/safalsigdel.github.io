@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BWPjBdBOl8FZVNfK3ARlWLU9ap8=/0x0:1200x628/1200x800/filters:focal(504x218:696x410)/cdn.vox-cdn.com/uploads/chorus_image/image/70180826/Roku_OS_10.5.0.jpg' width='700px' /><br/>
-Roku says it's working to fix issues that users have been reporting following its 10.5 software update. TechCrunch reported the problems earlier on Monday, citing posts on Reddit and Roku forums where users said that apps like HBO Max, ESPN, Disney Plus, and more wouldn't allow them to watch any video content after updating the OS on their smart TVs.
-<a href='https://www.theverge.com/2021/11/22/22797659/roku-10-5-update-tv-ultra-devices-streaming-issues-fix-youtube-tv'> Source <a/>

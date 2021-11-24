@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/98rtkh6VbeMs999wLGx3MoJVaWo=/0x0:2239x1498/1200x800/filters:focal(941x570:1299x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70181605/Windows_10_ARM_Microsoft_Qualcomm.0.jpg' width='700px' /><br/>
-Qualcomm reportedly has an exclusivity deal with Microsoft for Windows on Arm licenses. The pair launched Windows on Arm laptops in 2016, and so far we haven't seen any devices launch without a Qualcomm chip. XDA-Developers reports that Qualcomm has had an exclusivity deal on Windows on Arm, but that it's set to expire soon.
-<a href='https://www.theverge.com/2021/11/23/22798231/microsoft-qualcomm-exclusivity-deal-windows-on-arm'> Source <a/>

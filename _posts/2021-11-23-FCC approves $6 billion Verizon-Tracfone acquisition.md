@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2lTViYSoXRjtAZsTNgBXR5g4C3o=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70180044/acastro_200109_1777_verizon_0002.0.0.jpg' width='700px' /><br/>
-On Monday, the Federal Communications Commission voted to approve Verizon Wireless' purchase of Tracfone in a deal worth more than $6 billion, positioning Verizon to become one of the largest prepaid service providers in the US.
-<a href='https://www.theverge.com/2021/11/22/22797281/fcc-verizon-tracfone-wireless-5g-deal-approval-lifeline'> Source <a/>
