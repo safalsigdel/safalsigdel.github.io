@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/KLqg5Yok5k9sd1-ncjRnVyQU1Zo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70188845/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
 Instagram chief Adam Mosseri will testify before Congress for the first time next month, as first reported by The New York Times on Wednesday.
+<a href='https://www.theverge.com/2021/11/24/22800901/instagram-chief-adam-mosseri-testify-congress-facebook-meta-zuckerberg'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/KLqg5Yok5k9sd1-ncjRnVyQU1Zo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70188845/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
+Instagram chief Adam Mosseri will testify before Congress for the first time next month, as first reported by The New York Times on Wednesday.
 <a href='https://www.theverge.com/2021/11/24/22800901/instagram-chief-adam-mosseri-testify-congress-facebook-meta-zuckerberg'> Source <a/>
