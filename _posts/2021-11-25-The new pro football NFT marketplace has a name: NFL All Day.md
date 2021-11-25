@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CSmHxfb7jTOyY1wfysolCJOeyC8=/0x0:3117x2190/1200x800/filters:focal(698x242:1196x740)/cdn.vox-cdn.com/uploads/chorus_image/image/70190319/1354725238.0.jpg' width='700px' /><br/>
+It has been less than a year since NBA Top Shot served as an introduction for many sports fans into the world of NFTs, and now the NFL is lining up a similar arrangement. In September, the league announced a partnership with the company that runs Top Shot, Dapper Labs, and now we know the name of the service that will distribute the video highlight clips that make up the “Moments” that become NFTs: NFL All Day.
+<a href='https://www.theverge.com/2021/11/24/22801332/nfl-all-day-nft-sports-top-shot-collectible-dapper-labs'> Source <a/>

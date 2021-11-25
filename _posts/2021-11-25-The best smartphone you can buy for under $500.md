@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dPsvTmAv_-fSce27tA3Xb-8Y-8s=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67732463/best_phone_grid_16x9.5.jpg' width='700px' /><br/>
+Black Friday is nearly here and there are a lot of phones discounted for it, including our picks for the best iPhone and Android under $500, 5G under $300, budget phone with a stylus, and 4G phone under $200 are all on sale. You can see all of the current phone deals for Black Friday here and check out our coverage for other Black Friday sales here.
+<a href='https://www.theverge.com/21420196/best-budget-smartphone-cheap'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pfAdGam822z6M43Al0EKirQMcm8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70183456/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
-Now Apple has followed WhatsApp and its parent company Meta (formerly known as Facebook) in suing Pegasus spyware maker NSO Group. Along with promising new information about how NSO Group infected targeted iPhones via a zero-click exploit that researchers later dubbed ForcedEntry, Apple says it's “seeking a permanent injunction to ban NSO Group from using any Apple software, services, or devices.”
-<a href='https://www.theverge.com/2021/11/23/22798917/apple-nso-group-spyware-pegasus-cybersecurity-research'> Source <a/>

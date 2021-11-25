@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4AQTjgYZwuYHkH3wv9kg8KlZFJ4=/0x0:2040x1360/1200x675/filters:focal(872x708:1198x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/69461641/dseifert_191123_3810_0011.0.jpg' width='700px' /><br/>
+Black Friday is nearly here and unsurprisingly, there are a lot of deals to find on smart displays. Amazon, Google, and Facebook are discounting their popular models, and you can find the full list of smart home deals here. Be sure to also check out our list of the best early Black Friday deals available now.
+<a href='https://www.theverge.com/22535003/best-smart-displays-alexa-google-echo-nest'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QcQHp9t1DcLxVW2EoRvIt5UNCQk=/0x0:1145x763/1200x800/filters:focal(482x291:664x473)/cdn.vox-cdn.com/uploads/chorus_image/image/70183467/msedge_5BtFPuHiJl.0.jpg' width='700px' /><br/>
-The Asus ROG Phone 5S and ROG Phone 5S Pro are finally available in the US. You can snag the 5S model with 16GB of RAM for $1,099 on Amazon and Mobile Advance. The 5S model also has an option for 12GB of RAM, but there's currently no option to order that one on either site.
-<a href='https://www.theverge.com/2021/11/23/22798615/asus-rog-5s-gaming-phone-available'> Source <a/>

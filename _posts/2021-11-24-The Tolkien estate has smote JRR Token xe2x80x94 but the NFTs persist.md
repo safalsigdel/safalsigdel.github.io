@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Kf9OiZB7DGQAHDGDMKRMB_-awck=/0x0:2880x1558/1200x800/filters:focal(1210x549:1670x1009)/cdn.vox-cdn.com/uploads/chorus_image/image/70185838/Screen_Shot_2021_08_03_at_6.26.43_PM.0.png' width='700px' /><br/>
-It seems our prediction that a Lord of the Rings-themed “JRR Token” cryptocurrency was destined for the fires of Mount Doom was accurate — the World Intellectual Property Organization (or WIPO) has declared that it violated a trademark belonging to the estate of author J.R.R. Tolkien, and ordered that one of the project's web domains be transferred to that estate (via the Financial Times).
-<a href='https://www.theverge.com/22799580/jrr-token-tolkien-estate-cryptocurrency-coin-nft-trademark'> Source <a/>

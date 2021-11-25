@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9kyy_npGRVmk93TkO6zhlP8Ux-M=/0x0:2031x1354/1200x800/filters:focal(874x646:1198x970)/cdn.vox-cdn.com/uploads/chorus_image/image/70186371/vpavic_210916_untitled_0058.0.jpg' width='700px' /><br/>
-Apple is planning to partner with Taiwan Semiconductor Manufacturing Co. for the production of its own 5G modems for future iPhones, according to a new report in Nikkei. Apple is said to be planning to use TSMC's 4nm process node, which hasn't yet been deployed for any commercial product; the modem is apparently being designed and tested at 5nm before moving to mass production in 2023 at 4nm.
-<a href='https://www.theverge.com/2021/11/24/22800144/apple-own-iphone-modem-2023-tsmc-4nm'> Source <a/>

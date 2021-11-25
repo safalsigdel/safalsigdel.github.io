@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1B84srW7rGJEfJp4fyrDJC7K3U4=/0x0:694x463/1200x800/filters:focal(292x177:402x287)/cdn.vox-cdn.com/uploads/chorus_image/image/70181591/main_visual1.0.jpg' width='700px' /><br/>
-Samsung officially announced a new advanced chip-making plant in Texas, that's estimated to cost around $17 billion and could create 1,800 jobs, as reported previously by The Wall Street Journal. The new plant will be located in the city of Taylor, roughly 30 miles away from Austin, where Samsung has an existing facility. The new site is roughly 1,200 acres in size, making it larger than Samsung's Austin plant, the WSJ notes.
-<a href='https://www.theverge.com/2021/11/23/22245325/samsung-building-chipmaking-fab-texas-taylor'> Source <a/>

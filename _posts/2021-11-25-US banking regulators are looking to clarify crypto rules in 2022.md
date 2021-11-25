@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oRprdXtlVjibuUOiqFysoohlb6s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70189543/acastro_bitcoin_2.0.jpg' width='700px' /><br/>
+The Federal Reserve, Federal Deposit Insurance Corporation (or FDIC), and Office of the Comptroller of the Currency (OCC) have issued a joint statement announcing a plan to clarify the rules and regulations around how banks can use cryptocurrencies over the next year (via Bloomberg).
+<a href='https://www.theverge.com/2021/11/24/22800740/cryptocurrency-us-banking-regulation-clarification-financial-institutions-stablecoins'> Source <a/>

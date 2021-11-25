@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/72hBtub-Slobz3xXXlsB0qUPu0Q=/0x0:1423x1418/1200x800/filters:focal(633x620:859x846)/cdn.vox-cdn.com/uploads/chorus_image/image/70184874/lcimg_f986f942_4ae9_4c26_ad87_37d148f9859d.0.jpg' width='700px' /><br/>
-Apple's digital driver's license / ID feature won't be coming until “early 2022,” according to an update to Apple's iOS 15 page that MacRumors noticed. The change comes after news broke that Apple was looking for strict control over how states roll out the feature, which was previously listed as coming late this year.
-<a href='https://www.theverge.com/2021/11/23/22799338/apple-digital-driver-license-delay-2022-ios-15'> Source <a/>

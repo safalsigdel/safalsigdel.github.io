@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VPuqFWVsiJxxtl-wJ5i8mztTga8=/0x0:1306x734/1200x675/filters:focal(549x263:757x471)/cdn.vox-cdn.com/uploads/chorus_image/image/68490964/Best_Phone_Grid_Fall_2021_16x9.10.jpg' width='700px' /><br/>
+Black Friday is nearly here and there are a lot of phones discounted for it, including our picks for the best iPhone and Android of 2021, best phones for photography, best small smartphone, the best phone with a stylus, as well as the best flip and foldable phone — yes, nearly everything in this guide is on sale. You can see all of the current phone deals for Black Friday here and check out our coverage for other Black Friday sales here.
+<a href='https://www.theverge.com/22163811/best-phone'> Source <a/>

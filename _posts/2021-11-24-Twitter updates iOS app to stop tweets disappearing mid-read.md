@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6ddNTCSSdtEyd76GVBCWCGitM5c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70186399/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter has updated its iOS app to prevent those annoying situations where tweets disappear as you're trying to read them, the company has announced. “Now when you pause your timeline scrolling to look at a Tweet, it should stay put!” the company tweeted.
-<a href='https://www.theverge.com/2021/11/24/22800151/twitter-disappearing-tweets-ios-app-update-fix'> Source <a/>

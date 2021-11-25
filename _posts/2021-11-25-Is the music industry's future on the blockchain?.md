@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GVeBwl0DFqM0ue88WvB6QA-ATdE=/0x0:3000x1856/1200x800/filters:focal(1187x749:1667x1229)/cdn.vox-cdn.com/uploads/chorus_image/image/70189173/599070892.0.jpg' width='700px' /><br/>
+One big knock on cryptocurrencies is that they're a technology in search of a problem. Venture capitalists want to put everything on the blockchain and generate big returns, but why not just use a database instead? To skeptics, everything else in the space looks like noise — a bunch of grifters and try-hards changing their Twitter profile pictures to pixelated punks and apes in an effort to eventually flip those NFTs to a greater fool.
+<a href='https://www.theverge.com/22800746/music-industry-royalties-blockchain-crypto-royal-paradigm'> Source <a/>

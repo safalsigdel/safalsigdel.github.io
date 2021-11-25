@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cFgDjU7XGnuQ0MOyHAfJpR4o4qE=/29x143:993x1121/1200x800/filters:focal(442x407:604x569)/cdn.vox-cdn.com/uploads/chorus_image/image/70187073/the_verge_logomark_shirt__1_.0.png' width='700px' /><br/>
-We relaunched The Verge Merch Store a month ago for our 10th anniversary — and now, we're giving Verge fans an extra special treat for Black Friday / Cyber Monday.
-<a href='https://www.theverge.com/22785870/verge-merch-store-black-friday-sale-2021-code-cyber-monday'> Source <a/>

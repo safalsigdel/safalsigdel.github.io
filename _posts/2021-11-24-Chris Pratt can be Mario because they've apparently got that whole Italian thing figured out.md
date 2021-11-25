@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Chris Pratt's voice as Mario is “phenomenal,” says one of the men who has the most to gain if that's true. But Pratt likely won't be putting on Mario's familiar fake Italian accent for the majority of the film.
-<a href='https://www.theverge.com/2021/11/23/22799382/chris-pratt-voice-super-mario-movie-nintendo-illumination-ceo'> Source <a/>

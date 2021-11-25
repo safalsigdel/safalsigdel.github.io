@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UzbqbB_-9C1wXr0ecd_8YvfjKvA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70189047/bfarsace_211014_4802_0012.0.jpg' width='700px' /><br/>
+If you're a long-time Android user, you're used to long-pressing the power button to (logically) power your phone on or off. For a while, long-pressing the button while the phone was on also enabled you to restart it, lock it down, or signal an emergency. (For a short time during Android 10, you could also use it to take screenshots.)
+<a href='https://www.theverge.com/22800345/android-12-power-button-google-assistant-how-to'> Source <a/>

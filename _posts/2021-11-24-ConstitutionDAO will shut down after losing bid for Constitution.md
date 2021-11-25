@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gaPyhk-rqhmKigfFZAoESRLCNIg=/0x0:1746x1164/1200x800/filters:focal(734x443:1012x721)/cdn.vox-cdn.com/uploads/chorus_image/image/70184154/constdao.0.jpg' width='700px' /><br/>
-The organizers behind ConstitutionDAO have decided to shut the group down after raising $47 million in cryptocurrency and then failing to win an auction for a rare copy of the US Constitution.
-<a href='https://www.theverge.com/2021/11/23/22799192/constitutiondao-shutting-down-lost-auction-refunds'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/eIrzmmDdAfRIZOR2t3vuC7Q96ds=/0x0:7360x4912/1200x800/filters:focal(3092x1868:4268x3044)/cdn.vox-cdn.com/uploads/chorus_image/image/70183860/McMurdo_2.12.13_a_HR.0.jpg' width='700px' /><br/>
-On a volcanic rock just off the coast of Antarctica, McMurdo Station is abuzz with scientific research this time of year. Run by the US National Science Foundation, the station sees up to 1,000 visitors in the Antarctic summer from October to February, who travel here to conduct research on topics ranging from climate to ocean science.
-<a href='https://www.theverge.com/2021/11/23/22765471/antarctica-internet-mcmurdo-station-research'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oBEz34j1A1kakCU9R4Tsp6fYGE4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70166147/cwelch_191031_3763_0003.0.jpg' width='700px' /><br/>
+Ironically, if you're looking for a great Apple deal this Black Friday season, you shouldn't shop at Apple. That's because Apple doesn't typically offer discounts on its new products in-store or on its website, at least outside of the occasional educational discount. Don't fear, however, as there are plenty of reliable third-party retailers like Amazon, B&H Photo, and Best Buy that do.
+<a href='https://www.theverge.com/22787892/apple-black-friday-2021-deals-macbook-ipad-airpods-cyber-monday'> Source <a/>
