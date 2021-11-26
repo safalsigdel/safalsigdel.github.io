@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mKrwWQjTmKdixQYcmvNu2smILJc=/0x0:2040x1360/1200x675/filters:focal(1053x755:1379x1081)/cdn.vox-cdn.com/uploads/chorus_image/image/70188696/jtuohy_211123_4886_0021.0.jpg' width='700px' /><br/>
-I am a big fan of Ring Alarm. Mainly because the inexpensive, easy-to-use security system is an excellent smart home hub in disguise. Since the first generation of the product launched in 2018, it's been packed with useful smart home radios, including Bluetooth, RF, cellular, Zigbee, and Z-Wave, some of which are capable of connecting to a nice selection of smart home and security devices.
-<a href='https://www.theverge.com/22798830/ring-alarm-pro-review-smart-home-security-alexa'> Source <a/>

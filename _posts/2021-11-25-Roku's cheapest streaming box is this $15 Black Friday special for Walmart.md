@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6_pUp55rN0BZO-Y-ku3LlaBnNCw=/0x0:1500x882/1200x800/filters:focal(630x321:870x561)/cdn.vox-cdn.com/uploads/chorus_image/image/70188294/Roku_LE.0.jpg' width='700px' /><br/>
-Ever since it appeared as the original Netflix streaming box, Roku has delivered internet video via box, stick, or embedded TV software. However, for Black Friday this year, Roku is releasing its cheapest device that I can remember seeing, the $15 Roku LE Streaming Player.
-<a href='https://www.theverge.com/2021/11/24/22786245/roku-le-walmart-black-friday-deal'> Source <a/>

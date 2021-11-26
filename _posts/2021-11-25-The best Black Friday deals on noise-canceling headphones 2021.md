@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OMkkA8WD-1dzE5EGd2UhBf97QT4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70177197/cwelch_202109_4775_5619.0.jpg' width='700px' /><br/>
-Whether you're overdue for a new pair or are just trying to cancel out the usual onslaught of holiday music, Black Friday season is a great time to invest in some noise-canceling headphones. You'll find significant discounts on many of our favorite headphones featured in our noise-canceling headphones buying guide. These include picks from Sony, Bose, Apple, Sennheiser, and others. In some cases, these deals will save you $100 or more.
-<a href='https://www.theverge.com/22796131/black-friday-headphones-2021-deals-cyber-monday'> Source <a/>
