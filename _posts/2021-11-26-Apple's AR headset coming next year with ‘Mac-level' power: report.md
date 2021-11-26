@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X9FbYoqdPjLmniTftMWWnsGTvek=/0x0:2040x1360/1200x800/filters:focal(872x543:1198x869)/cdn.vox-cdn.com/uploads/chorus_image/image/70193991/acastro_20200818_1777_epicApple_0004.0.0.jpg' width='700px' /><br/>
+Apple's first AR headset will be released in the fourth quarter of 2022, according to a research note from analyst Ming-chi Kuo seen by MacRumors and 9to5Mac. Kuo predicted back in March that the headset would be released sometime next year, and is now also providing more technical information on the device.
+<a href='https://www.theverge.com/2021/11/26/22802981/apple-ar-headset-m1-processor-release-date-specs'> Source <a/>

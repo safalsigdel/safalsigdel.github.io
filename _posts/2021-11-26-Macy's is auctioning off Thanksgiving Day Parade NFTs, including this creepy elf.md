@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n0xdYnboL8W7ARkh__BZt4STp7o=/0x0:1102x846/1200x800/filters:focal(632x313:808x489)/cdn.vox-cdn.com/uploads/chorus_image/image/70189711/Screen_Shot_2021_11_24_at_2.20.49_PM.0.png' width='700px' /><br/>
-Macy's department stores might be closed this Thanksgiving, but that doesn't mean the company has run out of things to sell. The retailer is auctioning off 10 one-of-a-kind NFTs to mark the 95th year of the Macy's Thanksgiving Day Parade.
-<a href='https://www.theverge.com/2021/11/24/22800985/macys-thanksgiving-day-parade-nfts-auction'> Source <a/>
