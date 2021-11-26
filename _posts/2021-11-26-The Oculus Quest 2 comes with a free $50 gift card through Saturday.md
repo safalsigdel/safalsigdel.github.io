@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CYlgrfz9PON9zV6XCYGwucUK1yw=/0x0:2040x1360/1200x800/filters:focal(842x439:1168x765)/cdn.vox-cdn.com/uploads/chorus_image/image/70173325/akrales_200904_4160_0135.0.0.jpg' width='700px' /><br/>
-Updated 5:33PM ET, November 24th: Amazon now has an actual price cut on the 128GB model, dropping from $299.99 to $249.99. Not only can you currently get this price, but entering OCULUS50 at checkout will earn you a $50 Amazon credit.
-<a href='https://www.theverge.com/good-deals/2021/11/21/22789487/oculus-quest-2-vr-headset-50-gift-card-black-friday-promo'> Source <a/>
