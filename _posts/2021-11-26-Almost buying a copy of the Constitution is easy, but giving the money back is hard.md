@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XKNxvcPp0UdX-QZJmiuStJZAPkQ=/0x0:1746x1164/1200x800/filters:focal(734x443:1012x721)/cdn.vox-cdn.com/uploads/chorus_image/image/70190317/constdao.0.jpg' width='700px' /><br/>
-As of last Thursday night, ConstitutionDAO found itself in possession of around $49.8 million it wasn't able to spend. The group's organizers only had a mandate to spend the crowdfunded money on one thing — a rare copy of the US Constitution that they failed to win at auction — so instead of trying to get community approval to use the money toward some other goal, they instead began the process of returning the funds to backers.
-<a href='https://www.theverge.com/2021/11/24/22800995/constitutiondao-refund-progress-steep-gas-fees-cryptocurrency'> Source <a/>
