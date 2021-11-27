@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m70nv5IysAJDd1dhLIHmCmBvYXI=/0x0:2040x1530/1200x800/filters:focal(1257x538:1583x864)/cdn.vox-cdn.com/uploads/chorus_image/image/70192420/shollister_toaster_20211123.0.jpg' width='700px' /><br/>
-My colleague Tom once introduced you to a modern toaster with two seemingly ingenious buttons: one to briefly lift your bread to check its progress, and another to toast it “a bit more.” I respectfully submit you shouldn't need a button at all.
-<a href='https://www.theverge.com/22801890/sunbeam-radiant-control-toaster-t20-t35-vista'> Source <a/>

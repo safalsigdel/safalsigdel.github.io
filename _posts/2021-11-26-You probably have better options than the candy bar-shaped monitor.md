@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Another day, another interesting gadget making the rounds on the internet — this one is a very tall (aspect ratio-wise anyway) portable monitor with an 8.8-inch display running at a resolution of 420 by 1920. It's called the Elsonic EK-MD088, and while its size, shape, and built-in stand make it intriguing, it also raises the question: what would you even use such a narrow monitor for? And are there better ways to spend your 14,800 yen (around $130 US dollars)?
-<a href='https://www.theverge.com/tldr/2021/11/24/22800807/tall-monitor-elsonic-twitter-scrolling-alternatives'> Source <a/>

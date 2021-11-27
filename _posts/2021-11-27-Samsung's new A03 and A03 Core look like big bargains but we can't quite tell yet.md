@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xurjom_hOHu94hewR9okXpTa8BI=/0x27:650x494/1200x800/filters:focal(264x120:368x224)/cdn.vox-cdn.com/uploads/chorus_image/image/70195940/samsung_galaxy_ao03_core.0.jpeg' width='700px' /><br/>
+Samsung has quietly added two new devices to its entry-level A-series lineup: the Galaxy A03 and Galaxy A03 Core. And while both devices don't yet have a set price, we can predict that they'll both be pretty affordable, considering how Samsung prices the rest of its A-series devices.
+<a href='https://www.theverge.com/2021/11/26/22803391/samsung-galaxy-a03-core-bargains'> Source <a/>

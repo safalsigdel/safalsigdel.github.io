@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kv2bC3p1yAxXP478OXK3Ok5hrK4=/0x0:2043x2043/1200x800/filters:focal(859x859:1185x1185)/cdn.vox-cdn.com/uploads/chorus_image/image/70195571/blacksharkv2sq.0.jpg' width='700px' /><br/>
+If you're looking to expand your armory of gaming peripherals, you've come to the right place. Several retailers have a wide variety of gaming peripherals available at a deep discount, some of which are seeing their lowest prices ever. This list isn't about price breaks on gaming PCs or componentry, but if it's something you can connect, attach, or plug into your computer, you'll find it here.
+<a href='https://www.theverge.com/22792008/black-friday-2021-pc-accessories-computer-cyber-monday'> Source <a/>

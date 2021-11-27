@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/27_imk-xgbBb9f5iPQxMf3sJogo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70192050/cgartenberg_211119_4889_0003.0.jpg' width='700px' /><br/>
-Few gadgets are more hated than the alarm clock, a device whose primary purpose is to rudely rip you from the pleasant world of sleep into the cold, harsh, unforgiving reality that we live in every day — and whose level of functionality is directly proportional to how goddamn annoying the beeping sound it can make is.
-<a href='https://www.theverge.com/22800691/snooze-button-alarm-clock-sleep-gadget-worst-best'> Source <a/>
