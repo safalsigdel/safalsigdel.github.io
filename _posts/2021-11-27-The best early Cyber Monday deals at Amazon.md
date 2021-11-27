@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6ieU0pCRds3ZczcPmjUKVTe-VPY=/0x0:2198x1222/1200x800/filters:focal(924x436:1274x786)/cdn.vox-cdn.com/uploads/chorus_image/image/70154110/Screen_Shot_2021_11_15_at_11.42.05_AM.5.png' width='700px' /><br/>
-If you've been tracking Amazon's lead-up to Black Friday like we have, you've likely seen the online retail giant rebrand its “Deal of the Day” page to “Epic Daily Deals” and finally full on “Black Friday Deals.” We're now past Black Friday, and that landing page has transformed once again ii this time to Cyber Monday. Amazon has a slew of deals worth jumping on now if time is of the essence.
-<a href='https://www.theverge.com/22784145/amazon-black-friday-2021-best-deals-tech-cyber-monday'> Source <a/>
