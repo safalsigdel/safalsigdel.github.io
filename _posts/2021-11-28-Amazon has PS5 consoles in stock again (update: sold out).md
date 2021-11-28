@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aY3LEw5QwaQuLxzwwdtQ0g9GJRU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70198675/vpavic_4278_20201030_0281.0.jpg' width='700px' /><br/>
+Update November 27th, 2:20PM ET: Amazon has sold out of PlayStation 5 consoles. We'll be sure to keep you up to date when we hear of another round of restocks.
+<a href='https://www.theverge.com/2021/11/27/22798655/sony-ps5-playstation-5-console-restock-amazon'> Source <a/>

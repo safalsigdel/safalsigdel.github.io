@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/56PCAvk_-5qqLgWnRfnzCnUqe1g=/0x0:945x472/1200x800/filters:focal(398x161:548x311)/cdn.vox-cdn.com/uploads/chorus_image/image/70199014/E68eGLR.0.png' width='700px' /><br/>
+Microsoft-owned GitHub experienced a more than two-hour long outage today, affecting thousands or potentially millions of developers that rely on its many services. GitHub started experiencing issues at around 3:45PM ET, with Git operations, API requests, GitHub actions, packages, pages, and pull requests all affected.
+<a href='https://www.theverge.com/2021/11/27/22805076/github-down-outage-service-issues'> Source <a/>

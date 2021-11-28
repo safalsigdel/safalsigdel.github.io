@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C5GWkeC0-tzjMw8_29QvcA5zpPA=/0x0:6033x4022/1200x800/filters:focal(2535x1529:3499x2493)/cdn.vox-cdn.com/uploads/chorus_image/image/70178331/dseifert_4619_echo_show_2nd_gen_2.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/ta3I-SA2lI7aYtwe1oEBvxytBBk=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70178331/dseifert_201025_4263_0001.0.5.jpg' width='700px' /><br/>
 There is never a better time to dive into the smart home than Black Friday and its close cousin Cyber Monday. Traditionally, tech deals on home gadgets are huge this time of year, plus, it's the only time you'll find real bargains on gear from some of the smaller companies, such as Eve, Level, and Nanoleaf.
 <a href='https://www.theverge.com/22789311/black-friday-2021-smart-home-tech-speakers-cameras-cyber-monday'> Source <a/>

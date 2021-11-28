@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W14QlQ7LYPdbRFn1fXq-6ACzfF0=/0x0:1280x720/1200x800/filters:focal(558x331:762x535)/cdn.vox-cdn.com/uploads/chorus_image/image/70195766/IMG_3235.0.jpeg' width='700px' /><br/>
-Today through November 30th (next Tuesday), some of our favorite virtual shopkeepers are having a “Nook Friday” sale in Animal Crossing: New Horizons (via Eurogamer). If you've been drawn back in by the game's recent update, it could be a chance to save 30 percent on items for your island or on in-game gifts — I'm currently trying to decide whether my wife would rather have a virtual train set, or a real-life air fryer.
-<a href='https://www.theverge.com/2021/11/26/22803515/animal-crossing-new-horizons-nook-friday-sale-black-friday-gifts'> Source <a/>

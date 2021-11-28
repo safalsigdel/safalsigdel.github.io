@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WT1xm-yN3fU4M4hX-J0EpjhMYsQ=/0x0:4571x3047/1200x800/filters:focal(2464x1492:3194x2222)/cdn.vox-cdn.com/uploads/chorus_image/image/70196396/DSCF0460.0.jpg' width='700px' /><br/>
-Spotify says it's retiring its Car View feature, which was introduced at the beginning of 2019 as a way to make the app less distracting and easier to control while driving (via 9to5Google). It's currently unclear if the feature is going away on all platforms or just Android, and while some users won't miss it, many others are unhappy it's being removed without a reasonable replacement.
-<a href='https://www.theverge.com/2021/11/26/22803670/spotify-retiring-car-view-android-mobile-playback-auto-driving'> Source <a/>

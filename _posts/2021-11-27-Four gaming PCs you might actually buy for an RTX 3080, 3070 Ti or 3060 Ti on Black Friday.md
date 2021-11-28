@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/afAOzFXWDWBGnXuUQ7j0_Wc1aiU=/0x0:2640x1749/1200x800/filters:focal(1057x757:1479x1179)/cdn.vox-cdn.com/uploads/chorus_image/image/70196273/twarren_rtx3080_3_2.0.jpg' width='700px' /><br/>
-Good gaming GPUs are still selling for ridiculous sums on eBay, because they're practically impossible to find at retail — particularly for anything close to their MSRP. But if you're willing to buy an entire prebuilt gaming PC instead, there are four specific Black Friday deals I think are worthy of bringing to your attention.
-<a href='https://www.theverge.com/2021/11/26/22803778/black-friday-gaming-pc-prebuilt-sales-deals-rtx-3080-3070-3060'> Source <a/>

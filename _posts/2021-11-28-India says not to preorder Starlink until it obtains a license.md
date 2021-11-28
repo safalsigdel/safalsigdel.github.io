@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/56zCtZP5CnIU9PVQCSCePdC6b9w=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70198774/npatel_20210512_4552_0069.0.jpg' width='700px' /><br/>
+India has instructed the public not to preorder Starlink, SpaceX's satellite-based internet service, according to a report from Reuters. As the report notes, the Indian government says that the company needs to obtain a license to operate in the country before it starts deploying its services.
+<a href='https://www.theverge.com/2021/11/27/22804830/starlink-india-not-to-subscribe-license'> Source <a/>
