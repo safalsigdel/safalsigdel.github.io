@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oTuUPk-tPrADFLwTszuCEtnOKp8=/0x0:1777x903/1200x800/filters:focal(544x265:828x549)/cdn.vox-cdn.com/uploads/chorus_image/image/70198131/birdsofprey.0.jpg' width='700px' /><br/>
-HBO mistakenly added the censored version of Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) to its streaming service, but said it will replace it with the R-rated version soon, as reported by CBR.
-<a href='https://www.theverge.com/2021/11/27/22804567/hbo-max-accidentally-added-clean-version-birds-of-prey'> Source <a/>
