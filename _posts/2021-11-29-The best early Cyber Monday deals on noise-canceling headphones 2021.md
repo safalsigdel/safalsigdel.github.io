@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-sJVYlXhq674vaIFYdDM8Kh5q3c=/0x0:808x532/1200x800/filters:focal(340x202:468x330)/cdn.vox-cdn.com/uploads/chorus_image/image/70177197/Screenshot_2021_11_27_114547.5.jpg' width='700px' /><br/>
-Whether you're overdue for a new pair or are just trying to cancel out the usual onslaught of holiday music, Cyber Monday is a great time to invest in some noise-canceling headphones. You'll find significant discounts on many of our favorite headphones featured in our noise-canceling headphones buying guide. These include picks from Sony, Bose, Apple, Sennheiser, and others. In some cases, these deals will save you $100 or more.
-<a href='https://www.theverge.com/22796131/black-friday-headphones-2021-deals-cyber-monday'> Source <a/>
