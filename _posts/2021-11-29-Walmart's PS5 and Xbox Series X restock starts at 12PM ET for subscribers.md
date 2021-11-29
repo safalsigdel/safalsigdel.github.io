@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/l0vgTcdkB79AlQa2nyUZeTdNzPo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70204323/acastro_210511_1777_psRestock_0004.0.jpg' width='700px' /><br/>
+Walmart is back with a Cyber Monday console drop. Starting at 12PM ET / 9AM PT, you can have a go at snagging a PlayStation 5 (both the $499.99 disc-based version and $399.99 digital version are available) or the $499.99 Xbox Series X console.
+<a href='https://www.theverge.com/good-deals/2021/11/29/22798675/playstation-5-ps5-walmart-plus-xbox-series-x-restock-early-access-cyber-monday'> Source <a/>
