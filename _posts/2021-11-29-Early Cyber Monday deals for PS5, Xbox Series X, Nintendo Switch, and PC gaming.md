@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XVrJ8aELPDhpWpu7ulzwg8FQ3e8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70188077/acastro_210113_1777_gamingstock_0001.5.jpg' width='700px' /><br/>
+Gamers are served up all kinds of great deals throughout the year. It's not uncommon for recently released games to drop as much as 20 percent off in the first few months of release or to snag the occasional one-off deal on a controller or headset. But Black Friday and Cyber Monday are something special — a chance to get in on the year's best offers all at once.
+<a href='https://www.theverge.com/22792017/black-friday-2021-best-game-gaming-console-deals-cyber-monday'> Source <a/>
