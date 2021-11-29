@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oTuUPk-tPrADFLwTszuCEtnOKp8=/0x0:1777x903/1200x800/filters:focal(544x265:828x549)/cdn.vox-cdn.com/uploads/chorus_image/image/70198131/birdsofprey.0.jpg' width='700px' /><br/>
+HBO mistakenly added the censored version of Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) to its streaming service at some point. But now it has finally replaced it with the R-rated version, letting viewers indulge in all the curse words and crude gestures featured within the Suicide Squad spinoff.
+<a href='https://www.theverge.com/2021/11/27/22804567/hbo-max-accidentally-added-clean-version-birds-of-prey'> Source <a/>

@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/56pDkA7QHwZJjUdwU_6LLps_BYM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70188517/akrales_190117_3163_0010.10.jpg' width='700px' /><br/>
-Cameras and lenses can be a tricky thing to shop for around Black Friday. They are no small investment, though if you're shopping for that lucky someone — or for yourself — there are some deals to be had that can save you a lot of money.
+Cameras and lenses can be a tricky thing to shop for around Cyber Monday. They are no small investment, though if you're shopping for that lucky someone — or for yourself — there are some deals to be had that can save you a lot of money.
 <a href='https://www.theverge.com/22792032/camera-deals-black-friday-2021-mirrorless-slr-cyber-monday'> Source <a/>

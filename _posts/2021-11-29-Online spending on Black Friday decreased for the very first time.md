@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nhuOBGpI-XMwKLKnZPeH2fV1kUs=/0x0:6179x4119/1200x800/filters:focal(2596x1566:3584x2554)/cdn.vox-cdn.com/uploads/chorus_image/image/70201500/1229805837.0.jpg' width='700px' /><br/>
+Online sales during Black Friday took a bit of a tumble this year, marking the first time that spending has dipped lower than the previous year, as noted in a holiday shopping report by Adobe Analytics. Online shoppers reportedly spent a total of $8.9 billion this year, falling a little short of the $9 billion that was spent in 2020.
+<a href='https://www.theverge.com/2021/11/28/22806233/black-friday-online-spending-decreased-first-time'> Source <a/>

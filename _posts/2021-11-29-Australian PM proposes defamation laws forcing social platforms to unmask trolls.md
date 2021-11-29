@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UFWTryz2locedbGok8g-9mKLBqc=/0x0:1100x729/1200x800/filters:focal(462x277:638x453)/cdn.vox-cdn.com/uploads/chorus_image/image/70202024/hacker-stock1_2040.5.jpg' width='700px' /><br/>
+Australian Prime Minister Scott Morrison is introducing new defamation laws that would force online platforms to reveal the identities of trolls, or else pay the price of defamation. As ABC News Australia explains, the laws would hold social platforms, like Facebook or Twitter, accountable for defamatory comments made against users.
+<a href='https://www.theverge.com/2021/11/28/22806369/australia-proposes-defamation-laws-unmask-trolls'> Source <a/>

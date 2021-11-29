@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q2we7TLLwxCBgthZPqnN89_KOz0=/0x0:3000x2000/1200x800/filters:focal(1522x963:2002x1443)/cdn.vox-cdn.com/uploads/chorus_image/image/70200960/dseifert_4711_samsung_z_flip_3_3.0.jpg' width='700px' /><br/>
-Samsung's Galaxy Z Flip 3 is the company's lowest-priced foldable yet at its normal $999.99, but today you can get the trendy phone for way, way less than that. In an early Cyber Monday 2021 deal, the unlocked Z Flip 3 is available from Best Buy for $599.99 if you activate service on the device with your purchase.
-<a href='https://www.theverge.com/2021/11/28/22806048/samsung-galaxy-z-flip-3-cyber-monday-deal-2021'> Source <a/>

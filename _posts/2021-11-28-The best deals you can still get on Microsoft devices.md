@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MwtvIBx1Tf6UA2FGp0y7sBVV6zc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70179719/akrales_190930_3688_0218.0.jpg' width='700px' /><br/>
-Many of Microsoft's Black Friday deals are still live, offering some solid discounts on its line of Surface laptops and related accessories, with some models being discounted by as much as $600. Many of these models are also available as a bundle deal that allows you to get discounts on services like Microsoft 365 and accessories like the Surface Headphones 2 and the Surface Pen.
-<a href='https://www.theverge.com/22796308/microsoft-black-friday-2021-deals-laptops-cyber-monday'> Source <a/>
