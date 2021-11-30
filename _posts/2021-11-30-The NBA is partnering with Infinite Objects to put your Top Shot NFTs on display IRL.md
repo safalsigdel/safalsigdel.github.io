@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eLAAoFq2eRZT8ip-DU2rsS1RSgo=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70208767/NBATopshot_IOxTS_Durant_James_still.0.jpg' width='700px' /><br/>
+NBA Top Shot moments are one of the most high-profile NFT successes so far, part of the initial early hype wave for the blockchain-based art that's become one of the biggest buzzwords of 2021. And thanks to a new partnership with Infinite Objects, Top Shot owners will soon be able to immortalize their favorite clips in the real world with officially licensed looping video frames from Infinite Objects.
+<a href='https://www.theverge.com/2021/11/30/22807937/nba-top-shot-moments-nft-infinite-objects-display'> Source <a/>
