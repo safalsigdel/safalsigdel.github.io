@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/5VcKVZiDlsUrJor1ZLuOn8VmhdY=/0x0:1436x805/1200x800/filters:focal(604x289:832x517)/cdn.vox-cdn.com/uploads/chorus_image/image/70206532/gog_galaxy.0.png' width='700px' /><br/>
 CD Projekt says its GOG games storefront will put more focus on offering “a handpicked selection of games” and transfer some developers to other projects, following ongoing financial losses at the division.
+<a href='https://www.theverge.com/2021/11/29/22808199/cd-projekt-gog-losses-restructuring-earnings-2021'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/5VcKVZiDlsUrJor1ZLuOn8VmhdY=/0x0:1436x805/1200x800/filters:focal(604x289:832x517)/cdn.vox-cdn.com/uploads/chorus_image/image/70206532/gog_galaxy.0.png' width='700px' /><br/>
+CD Projekt says its GOG games storefront will put more focus on offering “a handpicked selection of games” and transfer some developers to other projects, following ongoing financial losses at the division.
 <a href='https://www.theverge.com/2021/11/29/22808199/cd-projekt-gog-losses-restructuring-earnings-2021'> Source <a/>

@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/ssOLOAEslejhH1o0Ggd0_KCQKuI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70207097/acastro_211129_4896_0001.0.jpg' width='700px' /><br/>
 Twitter has a new CEO: Parag Agrawal, who'll be taking over for Twitter co-founder Jack Dorsey, the longest-serving chief executive in the company's 15-plus-year history.
+<a href='https://www.theverge.com/2021/11/29/22808756/twitter-ceo-parag-agrawal-jack-dorsey-bluesky-moderation'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/ssOLOAEslejhH1o0Ggd0_KCQKuI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70207097/acastro_211129_4896_0001.0.jpg' width='700px' /><br/>
+Twitter has a new CEO: Parag Agrawal, who'll be taking over for Twitter co-founder Jack Dorsey, the longest-serving chief executive in the company's 15-plus-year history.
 <a href='https://www.theverge.com/2021/11/29/22808756/twitter-ceo-parag-agrawal-jack-dorsey-bluesky-moderation'> Source <a/>

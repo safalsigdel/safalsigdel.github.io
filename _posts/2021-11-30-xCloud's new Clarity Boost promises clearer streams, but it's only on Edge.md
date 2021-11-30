@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/_GJ-ImANYA_T8J91QfBzOg-pWdk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70207214/acastro_190530_1777_xbox_0003.0.0.jpg' width='700px' /><br/>
 Microsoft's new Clarity Boost feature for Xbox Cloud Gaming (aka xCloud) is intended to make your cloud gaming streams a little bit less fuzzy, but it will only be available on the company's Edge browser.
+<a href='https://www.theverge.com/2021/11/29/22808656/xbox-cloud-gaming-xcloud-clarity-boost-microsoft-edge-canary'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/_GJ-ImANYA_T8J91QfBzOg-pWdk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70207214/acastro_190530_1777_xbox_0003.0.0.jpg' width='700px' /><br/>
+Microsoft's new Clarity Boost feature for Xbox Cloud Gaming (aka xCloud) is intended to make your cloud gaming streams a little bit less fuzzy, but it will only be available on the company's Edge browser.
 <a href='https://www.theverge.com/2021/11/29/22808656/xbox-cloud-gaming-xcloud-clarity-boost-microsoft-edge-canary'> Source <a/>
