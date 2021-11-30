@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/muxuXVNwl1Mg3hSgDruyn6uEuSs=/0x0:4196x2797/1200x800/filters:focal(1709x807:2379x1477)/cdn.vox-cdn.com/uploads/chorus_image/image/70204347/1233272419.0.jpg' width='700px' /><br/>
-Jack Dorsey is expected to step down as CEO of Twitter “in the near term,” according to CNBC's David Faber, who cited “a number of different people familiar with the situation.” Faber said he doesn't “know much else” beyond that and wasn't sure who might be brought in to replace him. The Verge has reached out to Twitter for comment.
-<a href='https://www.theverge.com/2021/11/29/22807578/jack-dorsey-rumor-resign-twitter-ceo-square-web3'> Source <a/>

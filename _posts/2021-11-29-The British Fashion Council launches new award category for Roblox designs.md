@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i0LyLItiCW5FZ1sXNLdaRaNYpaU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70203772/Alessandro_Michele__Gucci__and_Roblox_creators_nominated_for_the_award.0.png' width='700px' /><br/>
-As part of its annual fashion awards, the British Fashion Council is adding a new category for 2021: an award for “metaverse design.” As broad as that might sound, the award was actually created in partnership with Roblox, and as such, the shortlist is limited to five Roblox creators. The winner, cSapphire, operates an in-app clothing boutique.
-<a href='https://www.theverge.com/2021/11/29/22800523/british-fashion-council-awards-roblox'> Source <a/>

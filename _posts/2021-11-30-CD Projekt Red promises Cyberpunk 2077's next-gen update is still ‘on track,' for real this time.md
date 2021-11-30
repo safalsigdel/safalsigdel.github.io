@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jmOhGUt0G3EaKPqA_u6xI5cyYmA=/0x0:1587x970/1200x800/filters:focal(668x359:920x611)/cdn.vox-cdn.com/uploads/chorus_image/image/70205693/Cyberpunk2077_Im_your_fixer_RGB_en.0.jpeg' width='700px' /><br/>
+Cyberpunk 2077 developer CD Projekt Red assured investors and players during its latest quarterly earnings that the already-delayed next-gen update for the game is “on track” for the first quarter of 2022. CDPR originally announced a late 2021 target launch for the update in September but said in October that the release would slip into next year.
+<a href='https://www.theverge.com/2021/11/29/22808038/cd-projekt-red-cyberpunk-2077-next-gen-update-release-date'> Source <a/>

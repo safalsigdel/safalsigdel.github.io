@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vbyonvPSyVlWnWIEactgWARKB_I=/0x0:5657x3771/1200x800/filters:focal(4151x2352:5055x3256)/cdn.vox-cdn.com/uploads/chorus_image/image/70207587/1233272189.0.jpg' width='700px' /><br/>
+One day in 2011, Jack Dorsey called an all-hands meeting at Twitter. The company was in the middle of a push to redesign Twitter's mobile apps, and the effort had led to anger and burnout. Dorsey, who had co-founded the company in 2006 with Ev Williams, Biz Stone, and Noah Glass, was then serving as its executive chairman.
+<a href='https://www.theverge.com/2021/11/29/22808979/twitter-jack-dorsey-steps-back-platformer'> Source <a/>
