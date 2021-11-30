@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HhvhPU8qDBQGjZPmzjo5wsnsn0Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70204030/Cyber_Monday_Deals.0.jpg' width='700px' /><br/>
-Cyber Monday isn't over yet, even if some deals are becoming more difficult to find. We've adapted our coverage to make sure that you're only seeing the latest and best deals on tech that you want — and that we recommend — whether you're on the hunt for a pair of wireless earbuds, a 4K TV, games, phones, or something else entirely. The occasional Nerf blaster might find its way in here, too.
-<a href='https://www.theverge.com/22796651/cyber-monday-2021-best-deals-sales-tech-gadgets-laptops-phones-tvs-headphones-gaming'> Source <a/>
