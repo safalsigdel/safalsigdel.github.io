@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z9anoIMO6WbSG18damSh2584vOs=/0x0:5878x3911/1200x800/filters:focal(2469x1486:3409x2426)/cdn.vox-cdn.com/uploads/chorus_image/image/70205744/1235261173.0.jpg' width='700px' /><br/>
-Mobile kitchens that cater solely to food delivery services, like Uber Eats and DoorDash, sound like a great idea in theory, as dedicated delivery kitchens can push out food faster without having to worry about passing meals along to servers. But a report from The Wall Street Journal details some of the mishaps associated with one trailer-bound ghost kitchen company, Reef, which involves third-degree burns and regulatory violations.
-<a href='https://www.theverge.com/2021/11/29/22807607/go-read-ghost-kitchens-uber-eats-doordash'> Source <a/>
