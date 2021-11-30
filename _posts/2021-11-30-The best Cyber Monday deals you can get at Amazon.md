@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y5uipyotKHN3-r3KHMGYP_R3z74=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70154110/cgartenberg_211020_4803_0006.10.jpg' width='700px' /><br/>
-Now that we're past Black Friday, Amazon has shifted its deals — this time to Cyber Monday. Amazon has a slew of deals worth jumping on now if time is of the essence.
-<a href='https://www.theverge.com/22784145/amazon-black-friday-2021-best-deals-tech-cyber-monday'> Source <a/>
