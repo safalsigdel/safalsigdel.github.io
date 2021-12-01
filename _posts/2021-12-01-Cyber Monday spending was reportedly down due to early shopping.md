@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/EktcaYRWMixUllbSLNqZ8UUR3Ns=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70211064/amazon-stock-0839.0.0.jpg' width='700px' /><br/>
 Cyber Monday sales were down 1.4 percent year over year, according to a report from Adobe Analytics. Shoppers spent $10.7 billion this year, $100 million less than the $10.8 billion consumers spent in 2020.
-<a href='https://www.theverge.com/2021/11/30/22810083/cyber-monday-spending-down-early-shopping'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/EktcaYRWMixUllbSLNqZ8UUR3Ns=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70211064/amazon-stock-0839.0.0.jpg' width='700px' /><br/>
-Cyber Monday sales were down 1.4 percent year over year, according to a report from Adobe Analytics. Shoppers spent $10.7 billion this year, $100 million less than the $10.8 billion consumers spent in 2020.
 <a href='https://www.theverge.com/2021/11/30/22810083/cyber-monday-spending-down-early-shopping'> Source <a/>
