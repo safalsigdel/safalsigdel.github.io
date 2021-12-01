@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/eT85T6o8UJBWuYNWfM16K0e33_0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70210327/afa2de9642866521f4d2.0.jpeg' width='700px' /><br/>
 Rockstar's next Title Update for Grand Theft Auto: The Trilogy xe2x80x93 The Definitive Edition looks to address a huge list of issues with the buggy remasters.
-<a href='https://www.theverge.com/2021/11/30/22809948/gta-trilogy-patch-title-update-1-03-fixes-spelling-errors-rain-cjs-face'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/eT85T6o8UJBWuYNWfM16K0e33_0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70210327/afa2de9642866521f4d2.0.jpeg' width='700px' /><br/>
-Rockstar's next Title Update for Grand Theft Auto: The Trilogy xe2x80x93 The Definitive Edition looks to address a huge list of issues with the buggy remasters.
 <a href='https://www.theverge.com/2021/11/30/22809948/gta-trilogy-patch-title-update-1-03-fixes-spelling-errors-rain-cjs-face'> Source <a/>
