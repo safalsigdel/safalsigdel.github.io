@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P0fvSAlZLnxSdnwPJTXdjbU3YQI=/0x0:7695x5130/1200x800/filters:focal(3233x1950:4463x3180)/cdn.vox-cdn.com/uploads/chorus_image/image/70213823/Nothing__1__black_edition_closed_case.0.jpg' width='700px' /><br/>
+Nothing's Ear 1 earbuds, which launched earlier this year in a fetching white and transparent plastic color scheme, will soon come in black. The new Nothing Ear 1 black edition still features transparent plastic in its construction, but now it's accompanied by matte black plastic. The new color scheme will be widely available from December 13th at the same price as the original white versions: $99 / xc2xa399.
+<a href='https://www.theverge.com/2021/12/1/22802107/nothing-ear-1-black-edition-price'> Source <a/>

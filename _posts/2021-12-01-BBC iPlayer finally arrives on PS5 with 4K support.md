@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/V1aIf1cmopkNR04n1507jXAbJpg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70208556/vpavic_4278_20201030_0247.0.jpg' width='700px' /><br/>
-The BBC is finally bringing its iPlayer app to the PS5 in the UK today, more than a year after the console's original release. Brits have been waiting patiently for BBC iPlayer on the PS5, especially as the app is already available on more than 15,000 devices, including Xbox Series X / S consoles.
-<a href='https://www.theverge.com/2021/11/30/22809494/bbc-iplayer-ps5-release-available-4k-support'> Source <a/>
