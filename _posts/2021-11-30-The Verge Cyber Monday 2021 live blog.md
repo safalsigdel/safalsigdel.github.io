@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XuNS7wBKXPThrJjK3YPpJwLUhUw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70204881/IMG_0044.5.jpg' width='700px' /><br/>
-Update November 29th, 8:05PM ET: our Cyber Monday live blog has ended, though, many of the deals we flagged below remain. For more highlights, be sure to check out our guide to the best Cyber Monday deals available now and our ongoing Cyber Monday coverage.
-<a href='https://www.theverge.com/22807793/cyber-monday-2021-live-blog-lightning-deals-tech'> Source <a/>

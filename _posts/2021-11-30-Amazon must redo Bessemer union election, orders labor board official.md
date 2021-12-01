@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/meKY_soLg6zplT_vU3VH9rxjC4Q=/0x0:5154x3436/1200x800/filters:focal(2165x1306:2989x2130)/cdn.vox-cdn.com/uploads/chorus_image/image/70206606/1232001976.0.jpg' width='700px' /><br/>
-The National Labor Relations Board (NLRB) has ordered a new election at Amazon's Bessemer, Alabama site, a tentative victory for organizers who had sought to unionize workers at the company's fulfillment locations. The decision, issued by the regional director overseeing the case, builds on a previous recommendation from the hearing officer assigned to the case.
-<a href='https://www.theverge.com/2021/11/29/22565851/amazon-bessemer-union-vote-nlrb-appeal-overturned-second-election'> Source <a/>

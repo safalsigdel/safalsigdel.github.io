@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lrbnT5XcUQsGzBTcgQrWdJrd5dM=/0x0:2040x1351/1200x800/filters:focal(907x533:1233x859)/cdn.vox-cdn.com/uploads/chorus_image/image/70206809/twarren_20210601_4611_0010.0.jpg' width='700px' /><br/>
-On Black Friday, I introduced you to an extremely curated selection of gaming PCs that might actually be good value for the money and deliver serious GPU oomph at a time when those GPUs are incredibly expensive and hard to find. Let's do it again for Cyber Monday, shall we?
-<a href='https://www.theverge.com/good-deals/2021/11/29/22808536/cyber-monday-gaming-pc-prebuilt-sales-deals-rtx-3080-3070-3060-ti'> Source <a/>

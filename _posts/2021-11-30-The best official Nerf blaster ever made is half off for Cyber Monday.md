@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jCUCbqrSo2CDqc9rofCohX8r86E=/0x0:1789x1193/1200x800/filters:focal(752x454:1038x740)/cdn.vox-cdn.com/uploads/chorus_image/image/70206233/nerf_rival_perses.0.jpg' width='700px' /><br/>
-You want to bring a badass foam blaster to your next Nerf war — or gift one to a very grateful kid or kid-at-heart this holiday. Good news: the Nerf Rival Perses, arguably the best official blaster ever made, is just $50 during Walmart's Cyber Monday sale.
-<a href='https://www.theverge.com/good-deals/2021/11/29/22663746/cyber-monday-nerf-best-rival-perses-sale-price'> Source <a/>

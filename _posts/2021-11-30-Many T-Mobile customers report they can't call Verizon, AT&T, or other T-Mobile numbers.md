@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/humyxLg-MAwfETtyz9of2ImHdU8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70207226/acasatro_180430_1777_sprint_Tmobile_0002.0.jpg' width='700px' /><br/>
-T-Mobile customers have been reporting issues making and receiving calls all afternoon, with problems frequently linked to Verizon numbers.
-<a href='https://www.theverge.com/2021/11/29/22808526/t-mobile-outage-verizon-att-call-cant-connect'> Source <a/>

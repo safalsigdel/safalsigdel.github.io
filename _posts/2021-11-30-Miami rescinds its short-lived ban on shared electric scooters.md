@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gW_ZFuhMOS2GDiGcv2NejDkZNt8=/0x0:2000x1570/1200x800/filters:focal(642x843:962x1163)/cdn.vox-cdn.com/uploads/chorus_image/image/70206250/1157211220.0.jpg' width='700px' /><br/>
-The Miami City Commission voted to end its short-lived ban on shared electric scooters Monday after some new safety measures were put in place.
-<a href='https://www.theverge.com/2021/11/29/22808390/miami-electric-scooters-rescinds-ban-lime'> Source <a/>
