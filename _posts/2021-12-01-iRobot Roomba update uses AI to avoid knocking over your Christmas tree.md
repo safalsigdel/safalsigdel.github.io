@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/llnOXLP9KfOAwbpgI1zb6uGbhmk=/0x0:2048x1541/1200x800/filters:focal(1022x788:1348x1114)/cdn.vox-cdn.com/uploads/chorus_image/image/70208632/Roomba_j7__Lifestyle_Hero.0.jpg' width='700px' /><br/>
-iRobot has released a holiday-themed update for its latest robot vacuum cleaners to help them handle the cleaning demands of Christmas trees. The j7 and j7 Plus robovacs can also now identify and avoid shoes and socks.
-<a href='https://www.theverge.com/2021/11/30/22809454/irobot-roomba-j7-plus-christmas-tree-clean-pine-needles-socks-shoes-transfer-mapping-data'> Source <a/>
