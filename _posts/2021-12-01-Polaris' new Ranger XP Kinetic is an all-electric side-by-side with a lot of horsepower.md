@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/YEggRh9x7cYxaAWdY1EPDpAX9pA=/0x0:2000x1334/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/70213691/2023_ranger_xp_kinetic_icy_blue_pearl_image_riding_SIX6631_04983.0.jpg' width='700px' /><br/>
 Polaris has unveiled the Ranger XP Kinetic, an all-electric side-by-side and the first vehicle to emerge from the collaboration between the Minneapolis-based company and Zero Motorcycles.
+<a href='https://www.theverge.com/2021/12/1/22809628/polaris-ranger-xp-kinetic-electric-utv-price-specs-zero'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/YEggRh9x7cYxaAWdY1EPDpAX9pA=/0x0:2000x1334/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/70213691/2023_ranger_xp_kinetic_icy_blue_pearl_image_riding_SIX6631_04983.0.jpg' width='700px' /><br/>
+Polaris has unveiled the Ranger XP Kinetic, an all-electric side-by-side and the first vehicle to emerge from the collaboration between the Minneapolis-based company and Zero Motorcycles.
 <a href='https://www.theverge.com/2021/12/1/22809628/polaris-ranger-xp-kinetic-electric-utv-price-specs-zero'> Source <a/>

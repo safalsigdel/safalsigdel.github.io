@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/M6IALWNTYwQSxaaChdSpNT5HFU0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70209866/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
 Three ex-Google employees claim that Google has a contractual obligation to abide by its well-known “don't be evil” policy, and they are suing the company for allegedly terminating them for calling out Google's “evil” doings, via NPR.
+<a href='https://www.theverge.com/2021/11/30/22809577/google-employees-sue-dont-be-evil-policy'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/M6IALWNTYwQSxaaChdSpNT5HFU0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70209866/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Three ex-Google employees claim that Google has a contractual obligation to abide by its well-known “don't be evil” policy, and they are suing the company for allegedly terminating them for calling out Google's “evil” doings, via NPR.
 <a href='https://www.theverge.com/2021/11/30/22809577/google-employees-sue-dont-be-evil-policy'> Source <a/>
