@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_bZqZoCl__6gqYzlfA9FA-tyFXo=/0x0:1615x903/1200x800/filters:focal(679x323:937x581)/cdn.vox-cdn.com/uploads/chorus_image/image/70218449/WFLnzpB.0.jpeg' width='700px' /><br/>
+Tesla has quietly launched a $1,900 four-wheel ATV for kids. The Cyberquad for Kids is available to order right now from Tesla's website, and will begin shipping in two to four weeks. The surprise announcement comes more than two year after Tesla announced a fullsize Cyberquad ATV to compliment its futuristic Cybertruck. The Cyberquad has not yet shipped.
+<a href='https://www.theverge.com/2021/12/2/22813719/tesla-cyberquad-for-kids-pricing-features-availability'> Source <a/>
