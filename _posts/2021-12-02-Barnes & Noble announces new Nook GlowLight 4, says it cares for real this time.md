@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z72iIB2PAt3x5QddrhcPsB0R7y8=/0x0:1431x733/1200x800/filters:focal(602x253:830x481)/cdn.vox-cdn.com/uploads/chorus_image/image/70215010/nook.0.png' width='700px' /><br/>
+Barnes & Noble has once again remembered that it ostensibly wants to sell e-readers and has announced the Nook GlowLight 4, a $149 e-reader that offers a refreshed design, more onboard storage, and USB-C charging to the company's lineup.
+<a href='https://www.theverge.com/2021/12/1/22811857/barnes-noble-nook-glowlight-4-e-reader-price-release-date'> Source <a/>

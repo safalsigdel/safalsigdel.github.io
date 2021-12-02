@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vZJBc0XsxFvYFImyzYHJ0D7E5qs=/0x0:560x393/1200x800/filters:focal(236x153:324x241)/cdn.vox-cdn.com/uploads/chorus_image/image/70215881/titanfall-560.0.jpg' width='700px' /><br/>
+Respawn Entertainment has decided to end sales of the original Titanfall game.
+<a href='https://www.theverge.com/2021/12/1/22812187/respawn-titanfall-delisted-apex-legends'> Source <a/>

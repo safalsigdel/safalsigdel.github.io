@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZBTjfpW7OCFMSqT12BUML5tFrWY=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/70211482/RN_20200303_16805r6a.0.jpg' width='700px' /><br/>
-Netflix's heist drama Red Notice has officially overthrown Bird Box as the streaming service's biggest movie debut to date, with over 328 million total hours viewed as of today. That beats out Bird Box's prior record — 282 million hours in its first 28 days — by a good margin, and Red Notice still has ample time to expand its debut-month record.
-<a href='https://www.theverge.com/22808720/red-notice-netflix-bird-box-most-watched-film'> Source <a/>

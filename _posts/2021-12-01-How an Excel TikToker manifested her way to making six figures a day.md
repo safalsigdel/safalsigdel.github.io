@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/liLji2w0-kQNENbPwdRlufl2d18=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70209601/VRG_ILLO_Decoder_Kat_Norton_s.0.jpg' width='700px' /><br/>
-Kat Norton is a Microsoft Excel influencer. She has over a million followers on TikTok and Instagram, where she goes by the name Miss Excel, and she's leveraged that into a software training business that is now generating up to six figures of revenue a day. That's six figures a day. And she's only been doing this since June 2020.
-<a href='https://www.theverge.com/22807858/tiktok-influencer-microsoft-excel-instagram-decoder-podcast'> Source <a/>

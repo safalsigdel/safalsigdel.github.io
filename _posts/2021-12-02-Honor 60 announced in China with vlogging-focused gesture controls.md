@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XR1Er9OtT67cUXJSsq6F75qCjZQ=/0x0:5999x4000/1200x800/filters:focal(2521x1521:3479x2479)/cdn.vox-cdn.com/uploads/chorus_image/image/70216452/HONOR_60_All.0.jpg' width='700px' /><br/>
+Honor, the former Huawei sub-brand that split from the Chinese tech giant last year, has announced its latest handsets for the Chinese market. The Honor 60 and Honor 60 Pro are two midrange handsets powered by Qualcomm's recent Snapdragon 778G Plus processor, but otherwise, they're very similar to the Honor 50 series phones released earlier this year, right down to having similar dual-ring camera bumps on the rear of each phone.
+<a href='https://www.theverge.com/2021/12/1/22811963/honor-60-pro-china-release-date-news-features-price'> Source <a/>

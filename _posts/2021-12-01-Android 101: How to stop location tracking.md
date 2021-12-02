@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/y1Utmf4-pYDNgHAoeGQ9FVbg6TA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67293305/acastro_180413_1777_android_0001.0.jpg' width='700px' /><br/>
-Location tracking can be very handy — it's convenient when an app can tell you, say, where the nearby restaurants or gas stations are — but it's also a privacy issue. Do you want all your wanderings registered by Google? Are you comfortable knowing that Mark Zuckerberg's minions know where you are at all times? (Well, not that Mark Zuckerberg has minions, but you know what I mean.)
-<a href='https://www.theverge.com/21401280/android-101-location-tracking-history-stop-how-to'> Source <a/>

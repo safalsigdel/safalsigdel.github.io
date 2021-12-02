@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KC_5Q1rmLii7Obz-wvFvMzrq448=/0x0:2048x1152/1200x800/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/70216673/PR_2021_TopArtist_B_1_2048x1152.0.jpeg' width='700px' /><br/>
+It's December 1st, which for Spotify users, means the annual tradition of the music streaming service's Spotify Wrapped roundup: customized, flashy infographics of the top songs, playlists, artists, and podcast that you've listened to over the last year, chock-full of data, mood boards, and just a sprinkling of judgment.
+<a href='https://www.theverge.com/2021/12/1/22812079/apple-music-year-in-review-spotify-wrapped-social-media'> Source <a/>

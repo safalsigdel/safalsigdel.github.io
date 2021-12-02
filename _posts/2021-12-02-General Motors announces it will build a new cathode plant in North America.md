@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4RDcinZhU1ScSF92fcE2H1E_8zM=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70215017/1236631423.0.jpg' width='700px' /><br/>
+General Motors announced that it will construct a new cathode factory in North America for its electric vehicle batteries. The factory, which will be built under a joint venture with South Korea's Posco Chemical, will process cathode active material (CAM), which represents about 40 percent of the cost of an EV battery cell.
+<a href='https://www.theverge.com/2021/12/1/22811902/general-motors-cathode-factory-ev-battery-posco'> Source <a/>

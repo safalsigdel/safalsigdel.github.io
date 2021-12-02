@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/25228WHmWh4JULKneGbs4l8GbKM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70209926/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-Twitter will now let private individuals request takedowns of pictures or videos featuring them. The company announced the change this morning, extending an existing ban on private information to cover media. It's aimed at preventing harassment or invasions of privacy and includes exceptions for posts that are “shared in the public interest or add value to public discourse.”
-<a href='https://www.theverge.com/2021/11/30/22809746/twitter-ban-personal-information-private-media-photo-videos-harassment'> Source <a/>

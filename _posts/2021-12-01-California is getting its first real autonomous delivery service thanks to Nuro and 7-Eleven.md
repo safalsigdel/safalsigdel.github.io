@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/P85mYLgXZhU065APvyzmW24JFzA=/0x0:5792x3854/1200x800/filters:focal(2433x1464:3359x2390)/cdn.vox-cdn.com/uploads/chorus_image/image/70214033/Nuro_7_11_partnership_image2.0.jpg' width='700px' /><br/>
-Nuro, a leader in autonomous delivery vehicles, is kicking off a new service in California in partnership with 7-Eleven. The company will deliver convenience store products to customers in its autonomous Toyota Prius vehicles, which will include a safety driver behind the wheel, before eventually shifting over to its fully driverless R2 delivery vehicles.
-<a href='https://www.theverge.com/2021/12/1/22810674/nuro-7-eleven-autonomous-vehicle-delivery-california'> Source <a/>

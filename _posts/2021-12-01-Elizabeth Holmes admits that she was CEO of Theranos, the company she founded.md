@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Iq84IDh90Ya8I21ZkUGM582wfEY=/0x0:4000x2666/1200x675/filters:focal(1306x616:1946x1256)/cdn.vox-cdn.com/uploads/chorus_image/image/70213084/1236914484.0.jpg' width='700px' /><br/>
-No one was more invested in Theranos than CEO and founder Elizabeth Holmes, she testified today. She owned the most stock. She could even fire the entire board of directors — and basically anyone else at the company.
-<a href='https://www.theverge.com/2021/11/30/22811246/elizabeth-holmes-texts-control-theranos-money'> Source <a/>
