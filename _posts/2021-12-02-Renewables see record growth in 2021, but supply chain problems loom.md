@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6GYK1_0e7XYsxtjCBK1ZIO3hnzc=/0x0:5464x3070/1200x800/filters:focal(2295x1098:3169x1972)/cdn.vox-cdn.com/uploads/chorus_image/image/70215387/1235228776.0.jpg' width='700px' /><br/>
-2021 is on course to break a global record for renewable energy growth, according to the International Energy Agency's latest Renewables Market Report. That's despite skyrocketing commodity prices, which could bog down the transition to clean energy in the future.
-<a href='https://www.theverge.com/2021/12/1/22811869/renewable-energy-electricity-record-growth-2021-supply-chain-problems'> Source <a/>

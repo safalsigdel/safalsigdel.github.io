@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vC7chPDvh920E4WZoEd27ZUPjc0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70215552/acastro_180604_1777_xbox_0001.0.jpg' width='700px' /><br/>
-Microsoft is opening up its invite-only Xbox testing rings for more console testers to get access to the very latest features. Xbox testing includes many levels, and the Alpha and Alpha Skip-Ahead rings typically include the bleeding edge of Xbox dashboard features that may not debut publicly for months.
-<a href='https://www.theverge.com/2021/12/1/22812230/xbox-skip-ahead-alpha-testing-sign-up-open-microsoft'> Source <a/>

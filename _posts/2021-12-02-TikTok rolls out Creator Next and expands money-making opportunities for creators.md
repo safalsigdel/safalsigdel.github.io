@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sDLMUH6wGAgCMXMpliBY5vJCLBw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70215619/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
-TikTok has announced that it's rolling out Creator Next, a single hub for all of the platform's monetization tools, and it also outlined some updates for its existing creator tools (via TechCrunch). In a post on TikTok's newsroom, the short-form video platform explains that alongside Creator Next, it's also widely introducing its tipping feature, which lets users send money directly to their favorite creators.
-<a href='https://www.theverge.com/2021/12/1/22811973/tiktok-creator-next-monetization-tips-video-gifts'> Source <a/>
