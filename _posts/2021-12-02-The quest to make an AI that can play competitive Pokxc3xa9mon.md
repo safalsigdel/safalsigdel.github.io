@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BH-ks_uPdLc1U5H9iUxVBlROVj0=/0x0:5853x3762/1200x675/filters:focal(2459x1413:3395x2349)/cdn.vox-cdn.com/uploads/chorus_image/image/70219256/Switch_PokemonSwordPokemonShield_artwork_01.0.jpg' width='700px' /><br/>
+An AI can beat a chess grandmaster. An AI can become the StarCraft esports champion. But creating an AI that could play Pokxc3xa9mon at the competitive level has been a more elusive problem.
+<a href='https://www.theverge.com/2021/12/2/22811849/pokemon-competitive-ai-nintendo-game-freak'> Source <a/>
