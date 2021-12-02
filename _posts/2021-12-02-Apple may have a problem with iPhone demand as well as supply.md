@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KsnL-D4sbqzcBDipfb_jDS5Gxeo=/0x0:2002x1335/1200x800/filters:focal(821x579:1141x899)/cdn.vox-cdn.com/uploads/chorus_image/image/70218008/vpavic_210916_4760_0240.0.jpg' width='700px' /><br/>
+Apple is indicating to its iPhone 13 component suppliers that it may not order as many units as expected due to a drop in demand, according to a report in Bloomberg.
+<a href='https://www.theverge.com/2021/12/1/22813347/apple-iphone-demand-suppliers-chip-shortage-report'> Source <a/>

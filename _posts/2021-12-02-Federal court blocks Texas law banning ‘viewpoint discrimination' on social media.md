@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OUQm_33UzV9w9OVwfem7sPMd8As=/0x0:6670x4447/1200x800/filters:focal(2066x2143:3132x3209)/cdn.vox-cdn.com/uploads/chorus_image/image/70217788/1236278969.0.jpg' width='700px' /><br/>
+A federal judge has blocked a Texas law that aimed to limit large social platforms' ability to moderate content on the grounds that it is likely to violate the First Amendment. The order, issued by a federal district court in Austin on Wednesday night, granted an injunction proposed by NetChoice and the CCIA that puts the HB 20 law on hold until the conclusion of the case.
+<a href='https://www.theverge.com/2021/12/1/22809654/texas-law-blocked-netchoice-ccia-injunction-viewpoint-discrimination'> Source <a/>

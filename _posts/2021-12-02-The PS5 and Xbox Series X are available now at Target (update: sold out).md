@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ivEqRLy5NHqaZ1VP_c1P6vOrxMU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70218664/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
+Update 8:50AM ET, December 2nd: Target appears to have sold out of consoles for now.
+<a href='https://www.theverge.com/2021/12/2/22812631/playstation-5-xbox-series-x-restock-target-where-to-buy'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bNXLep458tSXaBFJ7ZxtxViBXUM=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70217041/dseifert_201025_4263_00011.0.0.jpg' width='700px' /><br/>
+Amazon has expanded sound detection for routines, as well as made Alexa's prescription refill skill available to Amazon Pharmacy customers. The company described the changes in its Alexa monthly roundup for November, which also includes mentions the US rollout of Conversation Mode, and that the wall-mountable Echo Show 15 will start shipping next week.
+<a href='https://www.theverge.com/2021/12/1/22812495/amazon-alexa-custom-sound-detection-live'> Source <a/>
