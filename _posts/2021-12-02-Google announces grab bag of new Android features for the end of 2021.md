@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/F9Ux-QwUGjm8QLrJdwyunP62PfY=/0x0:1516x853/1200x800/filters:focal(637x306:879x548)/cdn.vox-cdn.com/uploads/chorus_image/image/70215140/Untitled__4_.0.png' width='700px' /><br/>
-Google has a bevy of new features coming soon to Android, including new widgets for YouTube Music, Google Play Books, and Google Photos; new Android Auto features; and updates for Google Assistant and Google Photos. The company detailed the new features in a blog post.
-<a href='https://www.theverge.com/2021/12/1/22811617/google-android-auto-widgets-assistant-family-bell-updates-december-2021'> Source <a/>

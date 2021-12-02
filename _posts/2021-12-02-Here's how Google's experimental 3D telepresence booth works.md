@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pcSvNf8_3s2adT8JObM6wXX_HVM=/0x0:1259x839/1200x0/filters:focal(0x0:1259x839):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23057671/msedge_R8BM20N2BK.jpg' width='700px' /><br/>
+In a new research paper, Google has detailed the tech behind its impressive Project Starline demo from this year's I/O conference. Project Starline is essentially a 3D video chat booth that aims to replace a one-on-one 2D video conference call with an experience that feels like you're actually sitting in front of a real human being.
+<a href='https://www.theverge.com/2021/12/2/22813731/google-project-starline-specs-features-research-paper-8k-tv-microphones-camera-capture-pods'> Source <a/>

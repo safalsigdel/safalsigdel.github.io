@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D8xquU0iMutUk90DegGJC7CckUI=/0x0:1400x933/1200x800/filters:focal(588x355:812x579)/cdn.vox-cdn.com/uploads/chorus_image/image/70218552/chromedownloadprompt.0.jpg' width='700px' /><br/>
+Microsoft has never been a fan of Windows users downloading Chrome instead of using Edge, but the company has now stepped up its campaign to keep people using its built-in browser. Windows 10 and Windows 11 have both started displaying new prompts when people navigate to the Chrome download page, in an effort to discourage people from installing Google's rival browser.
+<a href='https://www.theverge.com/2021/12/2/22813733/microsoft-windows-edge-download-chrome-prompts'> Source <a/>
