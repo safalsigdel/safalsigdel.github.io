@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kLZIksDAISpASjLvS7EQdjquR2g=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70218960/acastro_211130_4903_0002.0.jpg' width='700px' /><br/>
-On Monday, Twitter CEO Jack Dorsey announced that he would be stepping down from the company he co-founded over 15 years ago.
-<a href='https://www.theverge.com/2021/12/2/22812641/jack-dorsey-twitter-facebook-amazon-zuckerberg-bezos-congress-resign'> Source <a/>

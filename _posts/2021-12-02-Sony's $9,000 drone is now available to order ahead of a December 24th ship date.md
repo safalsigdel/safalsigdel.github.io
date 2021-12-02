@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JYtFORIxrsZrVVVvj__HFMUF3eQ=/0x0:1108x624/1200x800/filters:focal(466x224:642x400)/cdn.vox-cdn.com/uploads/chorus_image/image/70217238/download.0.jpeg' width='700px' /><br/>
-Sony's $9,000 Airpeak S1 drone is now available to order, the company announced Wednesday. It's expected to ship starting December 24th.
-<a href='https://www.theverge.com/2021/12/1/22812739/sony-airpeak-s1-drone-now-available-to-order-ship-date'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/JYtFORIxrsZrVVVvj__HFMUF3eQ=/0x0:1108x624/1200x800/filters:focal(466x224:642x400)/cdn.vox-cdn.com/uploads/chorus_image/image/70217238/download.0.jpeg' width='700px' /><br/>
-Sony's $9,000 Airpeak S1 drone is now available to order, the company announced Wednesday. It's expected to ship starting December 24th.
-<a href='https://www.theverge.com/2021/12/1/22812739/sony-airpeak-s1-drone-now-available-to-order-ship-date'> Source <a/>

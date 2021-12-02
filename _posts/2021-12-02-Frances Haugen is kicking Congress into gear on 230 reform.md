@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oe-fB6sP29Ki5wt1-b6DUQvViI4=/0x0:6978x4654/1200x800/filters:focal(2931x1769:4047x2885)/cdn.vox-cdn.com/uploads/chorus_image/image/70216805/1356609708.0.jpg' width='700px' /><br/>
-Facebook whistleblower Frances Haugen testified for the second time before Congress on Wednesday. But instead of explaining Facebook's harms, Haugen provided guidance on how to fix the problems the platform created.
-<a href='https://www.theverge.com/2021/12/1/22812719/frances-haugen-congress-section-230-moderation-reform'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/oe-fB6sP29Ki5wt1-b6DUQvViI4=/0x0:6978x4654/1200x800/filters:focal(2931x1769:4047x2885)/cdn.vox-cdn.com/uploads/chorus_image/image/70216805/1356609708.0.jpg' width='700px' /><br/>
-Facebook whistleblower Frances Haugen testified for the second time before Congress on Wednesday. But instead of explaining Facebook's harms, Haugen provided guidance on how to fix the problems the platform created.
-<a href='https://www.theverge.com/2021/12/1/22812719/frances-haugen-congress-section-230-moderation-reform'> Source <a/>
