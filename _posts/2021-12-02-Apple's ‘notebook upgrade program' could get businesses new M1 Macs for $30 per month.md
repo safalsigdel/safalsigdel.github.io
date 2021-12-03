@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8YqN7j8HDZIcNnmTq_TcHrZnB8M=/0x0:1162x1034/1200x800/filters:focal(489x425:673x609)/cdn.vox-cdn.com/uploads/chorus_image/image/70217416/FFXiWQ5VgAcOtih.0.jpeg' width='700px' /><br/>
-Apple has apparently introduced a business-only program that enables members to obtain and eventually upgrade computers for a relatively low monthly fee. A tweet from writer Max Weinbach shows an image of Apple's “New Mac Notebook Upgrade Program” promotional material that popped up for a customer with access to a business portal (via MacRumors).
-<a href='https://www.theverge.com/2021/12/1/22808771/apple-m1-mac-notebook-upgrade-program-small-business'> Source <a/>

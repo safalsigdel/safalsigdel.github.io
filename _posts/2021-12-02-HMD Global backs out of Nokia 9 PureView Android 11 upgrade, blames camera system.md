@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vGxofhQwcFDdD4ncUrTulK-uctU=/0x0:2040x1360/1200x800/filters:focal(1055x497:1381x823)/cdn.vox-cdn.com/uploads/chorus_image/image/70216531/bfarsace_190210_3229_0005.0.jpg' width='700px' /><br/>
-HMD Global is not only reneging on its promise to bring Android 11 to the Nokia 9 PureView, but it is also dangling a discount for a new phone at customers who just found out their current devices are no longer supported.
-<a href='https://www.theverge.com/2021/12/1/22811988/hmd-global-nokia-9-pureview-android-11-software'> Source <a/>

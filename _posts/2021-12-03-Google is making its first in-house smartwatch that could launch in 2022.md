@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6s6bEZlzUbN4Iv9Xvl3FESli7lI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70220490/akrales_190822_3612_0135.0.jpg' width='700px' /><br/>
+Google is finally making its own in-house smartwatch that's set to launch in 2022, according to a person familiar with the matter and a new report from Insider.
+<a href='https://www.theverge.com/2021/12/2/22814461/google-pixel-watch-wear-os-2022-rohan'> Source <a/>

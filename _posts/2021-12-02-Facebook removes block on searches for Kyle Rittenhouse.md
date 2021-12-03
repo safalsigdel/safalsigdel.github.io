@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BH61iSBChanBiW2z7YHpEgO4kJk=/0x0:5289x3277/1200x800/filters:focal(2222x1216:3068x2062)/cdn.vox-cdn.com/uploads/chorus_image/image/70216480/1236665464.0.jpg' width='700px' /><br/>
-Facebook on Wednesday removed a block on searches for the name Kyle Rittenhouse that it had put into place following his arrest for an August 2020 shooting in Wisconsin that left two people dead and a third seriously injured. Last month, a jury in Kenosha acquitted Rittenhouse on all charges.
-<a href='https://www.theverge.com/2021/12/1/22782911/rittenhouse-verdict-policy-facebook-praise-block-page'> Source <a/>

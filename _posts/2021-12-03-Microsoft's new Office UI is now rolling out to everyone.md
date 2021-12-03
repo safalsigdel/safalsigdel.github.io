@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ps6IIUh5EEt0jPCUODck5M0_WaY=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70219623/office_excel_powerpoint_windows_11_0A00000001674833.0.jpg' width='700px' /><br/>
+Microsoft is starting to roll out its new Office UI to all users this week. The visual update was originally announced earlier this year and went into testing over the summer. Now it's starting to roll out to all Office 365 and Office 2021 users.
+<a href='https://www.theverge.com/2021/12/2/22814069/microsoft-new-office-ui-rounded-available-now'> Source <a/>

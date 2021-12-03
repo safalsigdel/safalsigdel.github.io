@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0jtj3QEoxfU-zBaA9WxRhKzlLxE=/0x0:2500x1312/1200x800/filters:focal(1050x456:1450x856)/cdn.vox-cdn.com/uploads/chorus_image/image/70220048/5c_MattRonge_Astropad_r1_MSP29856_e1637257561528.0.jpeg' width='700px' /><br/>
+Luna Display's latest update adds a helpful new feature: allowing you to hook up a Windows PC to a Mac laptop or desktop (including Apple's flash M1 iMacs) to use as a secondary display. The new update also enables 4K and 5K resolution options (assuming you've got a screen that supports it).
+<a href='https://www.theverge.com/2021/12/2/22813992/luna-display-update-pc-mac-second-display-4k-5k-imac-m1'> Source <a/>

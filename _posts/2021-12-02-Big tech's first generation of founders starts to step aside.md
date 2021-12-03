@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6Aj5h-nTy5BNsb5RpYcs4_ItWfs=/0x0:2138x1425/1200x800/filters:focal(754x159:1096x501)/cdn.vox-cdn.com/uploads/chorus_image/image/70214190/1193819818.0.jpg' width='700px' /><br/>
-Massive tech companies like Google, Amazon, Netflix, and more have had a huge impact on the way we live our lives, and have had incredible levels of financial success. Another thing many of these companies have in common is that their founders are no longer necessarily in control; they've either stepped down, started sharing power with others, or in some cases possibly even been pushed out.
-<a href='https://www.theverge.com/2021/12/1/22810769/big-tech-founders-stepping-down-trend-salesforce-tiktok-amazon'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KLgZgXMkD420XIRjDM5LIQE_aEk=/0x0:6000x3375/1200x800/filters:focal(2520x1208:3480x2168)/cdn.vox-cdn.com/uploads/chorus_image/image/70217077/Snapdragon_8cx_Gen_3_Hero_Image.0.png' width='700px' /><br/>
-Qualcomm has announced its latest flagship chip for PCs: the Snapdragon 8cx Gen 3, which, as the name implies, succeeds last year's 8cx Gen 2 model and offers some substantial jumps in performance.
-<a href='https://www.theverge.com/2021/12/1/22811736/qualcomm-snapdragon-8cx-gen-3-announcement-laptop-arm-chip-processor'> Source <a/>

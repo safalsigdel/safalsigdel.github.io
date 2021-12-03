@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CWgeWpf5J-HPvUFRbu6fo0csYFI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70221729/7e80e144f730c0cb160c03beb2a6dfe8ffcd503b.0.jpeg' width='700px' /><br/>
+Valve has shared a preview of the Steam Deck's final package design ahead of the handheld gaming PC's recently delayed launch date.
+<a href='https://www.theverge.com/2021/12/2/22814910/steam-deck-box-package-power-adapter'> Source <a/>

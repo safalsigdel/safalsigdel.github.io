@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f9Y7kYl7i6ZfsIfdqrobFM0ci3Y=/0x0:1100x742/1200x800/filters:focal(462x283:638x459)/cdn.vox-cdn.com/uploads/chorus_image/image/70217383/blind-justice3.0.jpg' width='700px' /><br/>
-Five major publishers have sued Shopify over pirated learning materials like PDFs of ebooks and test materials, saying the e-commerce platform fails to remove listings and stores that violate the publishers' trademarks and copyrights. The lawsuit, filed today in the US District Court for Eastern Virginia, claims statutory damages higher than $500 million.
-<a href='https://www.theverge.com/2021/12/1/22812956/shopify-textbook-publishers-lawsuit-piracy-copyright'> Source <a/>
