@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kN05zz5zRU0k77En8Pqna3GAJYE=/0x0:1500x1029/1200x800/filters:focal(39x0:279x240)/cdn.vox-cdn.com/uploads/chorus_image/image/70223284/Hello__World_.0.jpg' width='700px' /><br/>
+Wikipedia co-founder Jimmy Wales is selling a non-fungible token (or NFT) based on his first edit of the free encyclopedia. Auction house Christie's will hold a sale of the token from December 3rd to 15th, auctioning it alongside the Strawberry iMac Wales was using around Wikipedia's launch. The funds will go toward charitable causes and WT.Social, a donation-backed social network that Wales launched in 2019.
+<a href='https://www.theverge.com/2021/12/3/22808679/jimmy-wales-nft-first-wikipedia-edit-imac-christies-auction'> Source <a/>
