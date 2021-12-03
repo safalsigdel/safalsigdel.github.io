@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qmJvJeyUquwpWiILeXDTmrQfp44=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70223962/DSC02786_dbohn_verge.0.jpg' width='700px' /><br/>
+Today marks one week since Black Friday (good riddance). The shopping weekend and Thanksgiving holiday may already feel as though they happened ages ago, but some deals have stuck around while new ones continue to crop up. We can't stop time from flying by, but we can keep serving you the best tech deals possible.
+<a href='https://www.theverge.com/good-deals/2021/12/3/22814157/apple-magsafe-battery-pack-oculus-quest-acer-swift-razer-blade-ember-mug-tile-nest-deal-sale'> Source <a/>
