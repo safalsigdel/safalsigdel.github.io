@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/IdvEJ2ES8ky44IbN70SjGMvi3oU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70222796/jbareham_160711_1134_0119_02.0.0.jpg' width='700px' /><br/>
 A new update to Pokxc3xa9mon Go for iOS lets you run the game at higher frame rates. With version 1.191.0, the “advanced settings” section of the app now includes an option that reads “Unlock your device's native refresh rate for higher FPS.”
+<a href='https://www.theverge.com/2021/12/3/22815472/pokemon-go-frame-rate-ios-update-released'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/IdvEJ2ES8ky44IbN70SjGMvi3oU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70222796/jbareham_160711_1134_0119_02.0.0.jpg' width='700px' /><br/>
+A new update to Pokxc3xa9mon Go for iOS lets you run the game at higher frame rates. With version 1.191.0, the “advanced settings” section of the app now includes an option that reads “Unlock your device's native refresh rate for higher FPS.”
 <a href='https://www.theverge.com/2021/12/3/22815472/pokemon-go-frame-rate-ios-update-released'> Source <a/>
