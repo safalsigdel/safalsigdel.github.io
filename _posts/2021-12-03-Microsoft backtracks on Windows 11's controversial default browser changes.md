@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/em8HYz5OTzTKGNxu6zkSHZZ8Jd8=/0x0:1580x983/1200x800/filters:focal(664x366:916x618)/cdn.vox-cdn.com/uploads/chorus_image/image/70223162/windows11defaultbrowserchanges.0.jpg' width='700px' /><br/>
+Microsoft is backtracking on changes it made to Windows 11 that made it more difficult to switch default browsers. A new test build of Windows 11 now allows users of Chrome, Firefox, and other browsers to set a default browser with a single button, which is a far simpler process.
+<a href='https://www.theverge.com/2021/12/3/22815209/microsoft-windows-11-default-browser-button-changes'> Source <a/>
