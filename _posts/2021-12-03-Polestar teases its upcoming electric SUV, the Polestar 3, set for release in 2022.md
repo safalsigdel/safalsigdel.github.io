@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/H6huWrJ6jFWTAG9qC9gN-GW0edE=/0x0:8609x6456/1200x800/filters:focal(3617x2540:4993x3916)/cdn.vox-cdn.com/uploads/chorus_image/image/70220298/642080_20211202_Polestar_3_preview.0.jpg' width='700px' /><br/>
 Polestar offered a glimpse of its upcoming electric SUV, the Polestar 3, which will be the Volvo performance sub-brand's first car manufactured in the United States.
+<a href='https://www.theverge.com/2021/12/2/22814368/polestar-3-electric-suv-tease-volvo'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/H6huWrJ6jFWTAG9qC9gN-GW0edE=/0x0:8609x6456/1200x800/filters:focal(3617x2540:4993x3916)/cdn.vox-cdn.com/uploads/chorus_image/image/70220298/642080_20211202_Polestar_3_preview.0.jpg' width='700px' /><br/>
+Polestar offered a glimpse of its upcoming electric SUV, the Polestar 3, which will be the Volvo performance sub-brand's first car manufactured in the United States.
 <a href='https://www.theverge.com/2021/12/2/22814368/polestar-3-electric-suv-tease-volvo'> Source <a/>
