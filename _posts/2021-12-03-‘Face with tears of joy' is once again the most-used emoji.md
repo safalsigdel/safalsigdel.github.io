@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Nsishra1jaur4zqs5I1ejm-5T2Y=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/70224783/emoji.0.png' width='700px' /><br/>
+Until recently, I was a firm believer in the traditional smiley emoji. “It's cute!” I used to think, as I happily used it to indicate my gentle amusement at everything from puns to fun weekend plans. But apparently, this was a mistake, and when I thought I was expressing sincere happiness, I was actually sending an emoji that's “colossally insulting in every conceivable way,” according to The Guardian.
+<a href='https://www.theverge.com/2021/12/3/22816001/most-popular-emoji-2021-face-with-tears-of-joy'> Source <a/>

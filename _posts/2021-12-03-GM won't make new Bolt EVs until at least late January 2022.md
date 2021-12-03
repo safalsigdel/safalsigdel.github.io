@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aGcUC6XrRcy6BV-WFG3oA3UiAxM=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70219791/aliptak_180919_2960_5232.0.jpg' width='700px' /><br/>
-General Motors won't build any new Chevy Bolt EVs until at least the end of January 2022. The automaker will instead stay focused on making replacement batteries for the 140,000-plus Bolts that were recalled earlier this year after a series of fires.
-<a href='https://www.theverge.com/2021/12/2/22814089/gm-chevy-bolt-recall-shutdown-sales-2022'> Source <a/>
