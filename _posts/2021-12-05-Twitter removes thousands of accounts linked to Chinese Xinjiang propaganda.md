@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W_jozDnz7AqzZzp4Jg6mnJCD0_4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70223777/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
-Twitter has removed a total of 2,160 accounts linked to Chinese regional and state propaganda campaigns, the social network has announced as part of its latest data release on misinformation campaigns. The accounts were attempting to push back against allegations of human rights abuses by the Chinese government against the Uyghur population in Xinjiang.
-<a href='https://www.theverge.com/2021/12/3/22815606/twitter-china-misinformation-campaign-uyghur-muslims-xinjiang-propaganda'> Source <a/>
