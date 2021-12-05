@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VDipnBYE2OO-F2W-fgclDV18poA=/0x0:2224x1465/1200x800/filters:focal(940x505:1294x859)/cdn.vox-cdn.com/uploads/chorus_image/image/70221819/signal_sustainer.0.png' width='700px' /><br/>
-Secure messaging app Signal has launched a new feature that allows users to make donations within the app, the company announced. As a nonprofit, Signal doesn't receive financial support from any advertisers or shareholders, a new blog post notes, and relies on users for donations.
-<a href='https://www.theverge.com/2021/12/2/22814934/signal-launches-in-app-sustainer-program-donations-messaging-secure'> Source <a/>

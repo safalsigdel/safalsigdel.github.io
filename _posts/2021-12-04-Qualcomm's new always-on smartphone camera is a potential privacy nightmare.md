@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PqaD_8MEG1dmEfX_xVnG2fQhM6A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70214590/akrales_190819_3594_0298.0.jpg' width='700px' /><br/>
-“Your phone's front camera is always securely looking for your face, even if you don't touch it or raise to wake it.” That's how Qualcomm Technologies vice president of product management Judd Heape introduced the company's new always-on camera capabilities in the Snapdragon 8 Gen 1 processor set to arrive in top-shelf Android phones early next year.
-<a href='https://www.theverge.com/22811740/qualcomm-snapdragon-8-gen-1-always-on-camera-privacy-security-concerns'> Source <a/>

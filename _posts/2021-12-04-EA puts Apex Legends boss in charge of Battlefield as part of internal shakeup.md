@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ts3N4SFT4kvT7NrwZMU3xFFG-1k=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70220753/1148645918.0.jpg' width='700px' /><br/>
-EA is making a big change to the management of the Battlefield franchise by putting Vince Zampella, the CEO of Titanfall and Apex Legends-maker Respawn Entertainment, in charge of the series, according to a GameSpot article published Thursday.
-<a href='https://www.theverge.com/2021/12/2/22814517/ea-battlefield-vince-zampella-apex-legends-respawn-boss-ceo-shakeup'> Source <a/>

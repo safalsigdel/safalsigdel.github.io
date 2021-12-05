@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3ydhPIoQwCfnER4aBZLOwyDjDbw=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70221526/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
-Zoom has reached a settlement (PDF) in a class-action lawsuit over alleged privacy and security issues, and if you used the videoconferencing app before July, then you could be eligible to receive money as a result. The company has agreed to pay $85 million while continuing to deny the allegations and any liability.
-<a href='https://www.theverge.com/2021/12/2/22814758/zoom-class-action-lawsuit-zoombombing-encryption-settled'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QYd1kRZBXI6AJvOHku_hsT6yjgM=/0x0:3000x3000/1200x800/filters:focal(1436x1161:1916x1641)/cdn.vox-cdn.com/uploads/chorus_image/image/70220709/DXMA1902091_A1.0.jpg' width='700px' /><br/>
-If you didn't know that tool manufacturer DeWalt made wireless headphones, don't worry — we hadn't either until they started catching on fire. The DeWalt-branded Jobsite Pro Wireless Earphones are being recalled by manufacturer E-filliate for safety concerns of overheating. The company said the recall affects about 301,000 units, which were were sold in stores including Home Depot and Lowes between December 2019 and July 2021.
-<a href='https://www.theverge.com/2021/12/2/22814095/dewalt-jobsite-pro-recall-overheating-fire'> Source <a/>

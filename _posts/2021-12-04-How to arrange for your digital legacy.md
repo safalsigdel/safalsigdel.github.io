@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FNO8zNMrjQV0e1wh4b5uAGaEOMo=/0x0:1000x667/1200x800/filters:focal(420x254:580x414)/cdn.vox-cdn.com/uploads/chorus_image/image/70221034/shutterstock_13456018.0.jpg' width='700px' /><br/>
-I'm about to introduce a topic that most of us would rather avoid: our digital legacy. In other words, what happens to all our digital stuff after we die? (And if your answer is “That's not gonna happen,” you haven't been paying a lot of attention lately, have you?)
-<a href='https://www.theverge.com/22812264/digital-legacy-death-estate-google-apple-how-to'> Source <a/>

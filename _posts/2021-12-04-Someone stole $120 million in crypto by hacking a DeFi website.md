@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8waL4lUlqETH2OVnagNeFpqvjHA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70222065/acastro_170726_1777_0007_v4.0.jpg' width='700px' /><br/>
-On Wednesday night, someone drained funds from multiple cryptocurrency wallets connected to the decentralized finance platform BadgerDAO. According to the blockchain security and data analytics Peckshield, which is working with Badger to investigate the heist, the various tokens stolen in the attack are worth about $120 million.
-<a href='https://www.theverge.com/2021/12/2/22814849/badgerdao-defi-120-million-hack-bitcoin-ethereum'> Source <a/>
