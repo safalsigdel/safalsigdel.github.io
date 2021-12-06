@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LwqPhLqm8l8OF2ALfl9LonpIr8Y=/0x0:3491x2327/1200x800/filters:focal(1467x885:2025x1443)/cdn.vox-cdn.com/uploads/chorus_image/image/70234607/DisappearingMessagesComms_Web_Website_Static_en.0.jpg' width='700px' /><br/>
+WhatsApp is adding new functionality to its disappearing messages feature, which lets users set messages in a chat to automatically be deleted after a set period of time. WhatsApp says users will now have the option to turn on disappearing messages automatically for all their new one-on-one chats, so that all future messages will be automatically deleted from the service.
+<a href='https://www.theverge.com/2021/12/6/22820138/whatsapp-disappearing-messages-by-default-24-hours-90-days'> Source <a/>
