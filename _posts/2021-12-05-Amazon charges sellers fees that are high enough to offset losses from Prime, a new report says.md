@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q_xaFOJ8jqd_fT-EqP3mBkhzKpI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70224342/acastro_181114_1777_amazon_hq2_0003.0.jpg' width='700px' /><br/>
-The massive reach of Amazon's e-commerce platform is appealing for any small business that wants to sell its products online. But a new report suggests that the cost of doing business can become a Faustian bargain for a third-party seller, as the fees that Amazon charges them can quickly eat into profits.
-<a href='https://www.theverge.com/2021/12/3/22813872/amazon-profit-small-business-fees-sellers-prime'> Source <a/>
