@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/zkjCTEDeuR-oKWj7d1jeaEZbQL4=/0x0:4032x3024/1200x800/filters:focal(683x949:1327x1593)/cdn.vox-cdn.com/uploads/chorus_image/image/70225908/PXL_20211203_200442272.0.jpg' width='700px' /><br/>
 Did you know the YouTube app on your older Chromecast has a hidden remote control that lets you surface an entire YouTube app that you can scroll?
+<a href='https://www.theverge.com/2021/12/3/22816424/youtube-chromecast-update-phone-remote-control'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/zkjCTEDeuR-oKWj7d1jeaEZbQL4=/0x0:4032x3024/1200x800/filters:focal(683x949:1327x1593)/cdn.vox-cdn.com/uploads/chorus_image/image/70225908/PXL_20211203_200442272.0.jpg' width='700px' /><br/>
+Did you know the YouTube app on your older Chromecast has a hidden remote control that lets you surface an entire YouTube app that you can scroll?
 <a href='https://www.theverge.com/2021/12/3/22816424/youtube-chromecast-update-phone-remote-control'> Source <a/>
