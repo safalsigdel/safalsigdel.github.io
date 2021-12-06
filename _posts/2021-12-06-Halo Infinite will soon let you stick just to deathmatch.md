@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xLvU6j4dySTIcVilHHhByIW0cNI=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70226292/HaloInfinite_2021_10_03_21_02_12_131.0.jpg' width='700px' /><br/>
-Halo Infinite's multiplayer beta has been a blast so far, but one common criticism is that you can't pick a dedicated playlist for Slayer, the game's deathmatch mode. Fortunately, that will be changing soon, but not until next year.
-<a href='https://www.theverge.com/2021/12/3/22816491/halo-infinite-multiplayer-deathmatch-slayer-dedicated-playlist'> Source <a/>

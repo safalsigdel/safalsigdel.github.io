@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ewjCWfnIju5bratRkE459EZGgMY=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70229216/TGA2020_PosterPack1_PosterB_HD.0.jpg' width='700px' /><br/>
-Geoff Keighley, the executive producer and host of The Game Awards, sent out a tweet to confirm that outside of its nominations, Activision Blizzard “will not be a part of this year's #TheGameAwards.” This is in light of claims about the company's toxic culture, as well as allegations of CEO Bobby Kotick's history of abuse and harassment.
-<a href='https://www.theverge.com/2021/12/4/22817651/activision-blizzard-the-game-awards-harassment'> Source <a/>

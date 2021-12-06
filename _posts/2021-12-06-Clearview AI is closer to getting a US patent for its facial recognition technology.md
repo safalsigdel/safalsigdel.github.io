@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s8K-Ktyyr8wZEdfdkWTa80DdU5Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70232334/acastro_210512_1777_deepfake_0001.0.jpg' width='700px' /><br/>
-Clearview AI is on track to receive a US patent for its facial recognition technology, according to a report from Politico. The company was reportedly sent a “notice of allowance” by the US Patent and Trademark Office, which means that once it pays the required administration fees, its patent will be officially approved.
-<a href='https://www.theverge.com/2021/12/5/22819097/clearview-ai-facial-recognition-patent'> Source <a/>
