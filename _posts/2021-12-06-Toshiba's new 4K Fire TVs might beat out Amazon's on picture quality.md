@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4Wm_iFnsX1BsXYL3aMyrUkxYMbY=/0x0:2687x2015/1200x800/filters:focal(1118x688:1546x1116)/cdn.vox-cdn.com/uploads/chorus_image/image/70234361/5BD114DD_2731_4221_9DC1_64B368AD1A62.0.jpeg' width='700px' /><br/>
+One of Amazon's Fire TV partners just announced a new model that might outshine the tech giant's own self-branded TVs that launched only weeks ago. Today Toshiba is introducing the first Fire TV 4K TVs to feature local dimming, a backlight technology that produces improved contrast and black levels compared to the direct LED method used by cheaper sets and Amazon's new Fire TV Omni series.
+<a href='https://www.theverge.com/2021/12/6/22819381/toshiba-m-series-fire-tv-announced-specs-local-dimming'> Source <a/>
