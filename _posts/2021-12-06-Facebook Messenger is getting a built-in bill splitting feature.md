@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lajyChDv-aMgFg_3m_CMVxOKysQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70225140/acastro_180522_facebook_0002.0.jpg' width='700px' /><br/>
-Facebook parent company Meta is introducing a built-in bill splitting feature in Facebook Messenger that it will test with users in the US beginning next week. The feature could be useful for situations like divvying up a restaurant bill with your friends or splitting a bill with roommates.
-<a href='https://www.theverge.com/2021/12/3/22815981/facebook-messenger-bill-splitting-feature-meta-group-effects'> Source <a/>
