@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/7Fsx3EfCHUSi3_-_3cxpFghWR3A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70233480/acastro_20200723_1777_duolingo_0001.0.jpg' width='700px' /><br/>
 Language learning app Duolingo said its phrase of the year is “I am mentally exhausted,” which appears as part of its Japanese course and does seem to nicely sum up 2021.
+<a href='https://www.theverge.com/2021/12/6/22815794/duolingo-interprets-tiktok-squid-game-netflix-year-in-review'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/7Fsx3EfCHUSi3_-_3cxpFghWR3A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70233480/acastro_20200723_1777_duolingo_0001.0.jpg' width='700px' /><br/>
+Language learning app Duolingo said its phrase of the year is “I am mentally exhausted,” which appears as part of its Japanese course and does seem to nicely sum up 2021.
 <a href='https://www.theverge.com/2021/12/6/22815794/duolingo-interprets-tiktok-squid-game-netflix-year-in-review'> Source <a/>
