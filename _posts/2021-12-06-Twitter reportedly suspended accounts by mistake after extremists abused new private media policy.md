@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/g_X171lomleV0XZDFC2SWeiJXbk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70228617/acastro_200715_1777_twitter_0001.0.0.jpg' width='700px' /><br/>
 Twitter has reportedly suspended a number of accounts by mistake after far-right extremists began exploiting the platform's new private media policy, according to a report by The Washington Post.
-<a href='https://www.theverge.com/2021/12/4/22817386/twitter-suspended-accounts-extremists'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/g_X171lomleV0XZDFC2SWeiJXbk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70228617/acastro_200715_1777_twitter_0001.0.0.jpg' width='700px' /><br/>
-Twitter has reportedly suspended a number of accounts by mistake after far-right extremists began exploiting the platform's new private media policy, according to a report by The Washington Post.
 <a href='https://www.theverge.com/2021/12/4/22817386/twitter-suspended-accounts-extremists'> Source <a/>
