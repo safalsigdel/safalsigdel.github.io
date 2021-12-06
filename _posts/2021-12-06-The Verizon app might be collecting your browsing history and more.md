@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XDUFmL_gGGkcuuMOUS5KouRMTpA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70231633/acastro_200109_1777_verizon_0004.0.0.jpg' width='700px' /><br/>
+The My Verizon app might be collecting information about your browsing history, location, apps, and your contacts, all in the name of helping the company “understand your interests,” first spotted by Input. The program, which Verizon appears to automatically opt customers into, is called Verizon Custom Experience and lays buried in the privacy settings on the app.
+<a href='https://www.theverge.com/2021/12/5/22818783/verizon-app-data-collection-browsing-history'> Source <a/>
