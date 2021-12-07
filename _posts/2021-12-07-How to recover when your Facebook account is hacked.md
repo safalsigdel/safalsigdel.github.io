@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oqeMkDlaWJY-w92i2oviqbHMj7U=/0x0:2048x1365/1200x675/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/70239187/VRG_Illo_4902_Security_Facebook.0.jpg' width='700px' /><br/>
+Hopefully, the day will never come when you find your Facebook account has been hacked or taken over. It is an awful feeling, and I feel for you, for the world of hurt that you will experience in time and perhaps money to return your account to your rightful control.
+<a href='https://www.theverge.com/22785819/facebook-hacked-security-privacy-recover'> Source <a/>

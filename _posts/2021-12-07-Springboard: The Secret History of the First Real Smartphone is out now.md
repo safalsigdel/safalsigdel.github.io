@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/23068103/VRG_OTT_LandingPage_YOUTUBE.jpg' width='700px' /><br/>
+A decade before Steve Jobs introduced the iPhone, a tiny team of renegades imagined and tried to build the modern smartphone. Nearly forgotten by history, a little startup called Handspring tried to make the future before it was ready. In Springboard: the secret history of the first real smartphone, The Verge's Dieter Bohn talks to the visionaries at Handspring and dives into their early successes and eventual failures.
+<a href='https://www.theverge.com/2021/10/7/22711230/springboard-handspring-documentary-secret-history-first-real-smartphone'> Source <a/>
