@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zca6s88UA_B6CR7E40-QLYvu0NY=/0x0:1629x1086/1200x800/filters:focal(685x413:945x673)/cdn.vox-cdn.com/uploads/chorus_image/image/70238700/gmail_calls.0.jpg' width='700px' /><br/>
+One-on-one voice and video calls are now rolling out for Google Chat inside the Gmail app on iOS and Android, Google has announced. The feature was first announced in September, but as of December 6th it's started rolling out for anyone with Google Workspace, G Suite, or personal Google accounts.
+<a href='https://www.theverge.com/2021/12/7/22821985/gmail-audio-video-calls-google-chat-meet'> Source <a/>
