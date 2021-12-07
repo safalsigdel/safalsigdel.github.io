@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vdKSWu0q_lR0-WmLiYlhUflJVko=/0x0:1600x900/1200x0/filters:focal(0x0:1600x900):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23069957/51728813547_009dd31431_h.jpeg' width='700px' /><br/>
+Sony has officially announced a release date for its remastered Uncharted: Legacy of Thieves Collection for PlayStation 5: it'll be out on Janaury 28th. That release date is only for the PS5 version, though. Sony still hasn't put a date on the PC port beyond the same vague “2022” date it had originally announced.
+<a href='https://www.theverge.com/2021/12/7/22822130/uncharted-legacy-of-thieves-collection-ps5-remaster-price-release-date-upgrade'> Source <a/>
