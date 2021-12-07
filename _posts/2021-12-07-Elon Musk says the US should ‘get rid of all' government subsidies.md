@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/lzBq0I4vUWAWoKfbCL9sVgt0IWE=/0x0:3926x3123/1200x800/filters:focal(1649x1248:2277x1876)/cdn.vox-cdn.com/uploads/chorus_image/image/70237785/1234657391.0.jpg' width='700px' /><br/>
 Elon Musk said Monday at the Wall Street Journal's CEO summit that he doesn't think the United States needs the Biden administration's infrastructure bill — or any government subsidies, for that matter. “Just delete them all,” he said.
+<a href='https://www.theverge.com/2021/12/6/22821532/elon-musk-biden-infrastructure-government-subsidies'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/lzBq0I4vUWAWoKfbCL9sVgt0IWE=/0x0:3926x3123/1200x800/filters:focal(1649x1248:2277x1876)/cdn.vox-cdn.com/uploads/chorus_image/image/70237785/1234657391.0.jpg' width='700px' /><br/>
+Elon Musk said Monday at the Wall Street Journal's CEO summit that he doesn't think the United States needs the Biden administration's infrastructure bill — or any government subsidies, for that matter. “Just delete them all,” he said.
 <a href='https://www.theverge.com/2021/12/6/22821532/elon-musk-biden-infrastructure-government-subsidies'> Source <a/>
