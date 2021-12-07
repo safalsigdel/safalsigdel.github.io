@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f5r8j7tNG4ESLQ9FiwWK6y26O0I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70236697/acastro_211101_1777_meta_0001.0.jpg' width='700px' /><br/>
-In an open letter to Mark Zuckerberg published Monday, a group of academics called for Meta to be more transparent about its research into how Facebook, Instagram, and WhatsApp affect the mental health of children and adolescents. The letter calls for the company to allow independent reviews of its internal work, contribute data to external research projects, and set up an independent scientific oversight group.
-<a href='https://www.theverge.com/2021/12/6/22820675/open-letter-meta-mental-health-research'> Source <a/>
