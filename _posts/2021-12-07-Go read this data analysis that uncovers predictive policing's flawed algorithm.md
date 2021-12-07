@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wvPR9zz0FBaY7muqTcXNboixgCs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70236863/acastro_190204_1777_privacy_0001.0.jpg' width='700px' /><br/>
-Gizmodo released a deep-dive look into the data collection process behind its co-reported investigation with The Markup into PredPol, a software company specializing in predictive policing (hence the name, which it has since changed to Geolitica) through machine learning.
-<a href='https://www.theverge.com/2021/12/6/22814409/go-read-this-gizmodo-analysis-predpol-software-disproportionate-algorithm'> Source <a/>

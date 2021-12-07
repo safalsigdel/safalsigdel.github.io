@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-LZJy_HPEjqakdpI6Pv3SfVT1yY=/0x0:1200x1199/1200x800/filters:focal(504x504:696x696)/cdn.vox-cdn.com/uploads/chorus_image/image/70239638/ember_cup_with_phone.0.jpeg' width='700px' /><br/>
+We all have stuff that we've bought ourselves — or asked others to buy for us — that makes us happy, even if we suspect our friends may not understand why it's so great. It could be a $100-plus coffee cup that keeps your liquid at the exact right temperature. Or a video game that you've been playing for years. Or a hair styler that is way expensive but would make you look fabulous.
+<a href='https://www.theverge.com/22820219/guilty-pleasures-ice-halo-dyson-sims'> Source <a/>
