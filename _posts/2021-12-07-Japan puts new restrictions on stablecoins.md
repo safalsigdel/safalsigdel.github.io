@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/xEIspeJh1ntuEw2AaDZHm-P_lXI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70237351/acastro_170726_1777_0008.0.jpg' width='700px' /><br/>
 Japan is proposing new restrictions that would only allow banks and wire transfer services to issue stablecoins, first reported by Nikkei Asia.
-<a href='https://www.theverge.com/2021/12/6/22821188/japan-puts-new-restrictions-on-stablecoins'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/xEIspeJh1ntuEw2AaDZHm-P_lXI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70237351/acastro_170726_1777_0008.0.jpg' width='700px' /><br/>
-Japan is proposing new restrictions that would only allow banks and wire transfer services to issue stablecoins, first reported by Nikkei Asia.
 <a href='https://www.theverge.com/2021/12/6/22821188/japan-puts-new-restrictions-on-stablecoins'> Source <a/>
