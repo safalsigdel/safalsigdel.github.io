@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/bxfxDZxohznf38kx2KN1E-1xnuc=/0x0:2000x1073/1200x800/filters:focal(840x377:1160x697)/cdn.vox-cdn.com/uploads/chorus_image/image/70235827/press_solar_roof.0.jpg' width='700px' /><br/>
 The US Securities and Exchange Commission (SEC) is looking into a claim that Tesla didn't appropriately inform its shareholders and the public about potential fire risks that its solar panel systems may pose, according to a report by Reuters.
-<a href='https://www.theverge.com/2021/12/6/22820295/tesla-sec-solar-panel-alleged-defects'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/bxfxDZxohznf38kx2KN1E-1xnuc=/0x0:2000x1073/1200x800/filters:focal(840x377:1160x697)/cdn.vox-cdn.com/uploads/chorus_image/image/70235827/press_solar_roof.0.jpg' width='700px' /><br/>
-The US Securities and Exchange Commission (SEC) is looking into a claim that Tesla didn't appropriately inform its shareholders and the public about potential fire risks that its solar panel systems may pose, according to a report by Reuters.
 <a href='https://www.theverge.com/2021/12/6/22820295/tesla-sec-solar-panel-alleged-defects'> Source <a/>

@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/yAnINFEBRgJedL5TL8NYqbSIi8E=/0x0:937x527/1200x800/filters:focal(395x190:543x338)/cdn.vox-cdn.com/uploads/chorus_image/image/70235774/image002__1_.0.png' width='700px' /><br/>
 Google TV is adding yet another cord-cutting option to its live TV tab. With the addition of Pluto TV, Google TV users now have even more live TV channels to choose from.
-<a href='https://www.theverge.com/2021/12/6/22820622/google-tv-pluto-live-tab'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/yAnINFEBRgJedL5TL8NYqbSIi8E=/0x0:937x527/1200x800/filters:focal(395x190:543x338)/cdn.vox-cdn.com/uploads/chorus_image/image/70235774/image002__1_.0.png' width='700px' /><br/>
-Google TV is adding yet another cord-cutting option to its live TV tab. With the addition of Pluto TV, Google TV users now have even more live TV channels to choose from.
 <a href='https://www.theverge.com/2021/12/6/22820622/google-tv-pluto-live-tab'> Source <a/>

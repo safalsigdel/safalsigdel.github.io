@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/7U9zIkgmkYIu7Yz3U4P3s-A_7sY=/0x0:1974x1426/1200x800/filters:focal(822x307:1136x621)/cdn.vox-cdn.com/uploads/chorus_image/image/70235759/MazeCreator1.0.jpg' width='700px' /><br/>
 Pac-Man Community is a new multiplayer-focused spin on the classic arcade game that you'll be able to play right on Facebook.
-<a href='https://www.theverge.com/2021/12/6/22815006/pac-man-community-multiplayer-facebook-gaming-livestream-meta'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/7U9zIkgmkYIu7Yz3U4P3s-A_7sY=/0x0:1974x1426/1200x800/filters:focal(822x307:1136x621)/cdn.vox-cdn.com/uploads/chorus_image/image/70235759/MazeCreator1.0.jpg' width='700px' /><br/>
-Pac-Man Community is a new multiplayer-focused spin on the classic arcade game that you'll be able to play right on Facebook.
 <a href='https://www.theverge.com/2021/12/6/22815006/pac-man-community-multiplayer-facebook-gaming-livestream-meta'> Source <a/>
