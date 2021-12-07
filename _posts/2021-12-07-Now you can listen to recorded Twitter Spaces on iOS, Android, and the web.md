@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tISFLMer9alZF3sBXvTtm8DoeRA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70239540/acastro_170726_1777_0010.0.jpg' width='700px' /><br/>
+Twitter is now letting all users across iOS, Android, and web listen to recordings of Spaces, which can come in handy for listeners who are late to a live broadcast. This comes after Clubhouse rolled out recordings for its audio-only chatrooms in September.
+<a href='https://www.theverge.com/2021/12/7/22822078/twitter-spaces-recorded-ios-android-web'> Source <a/>
