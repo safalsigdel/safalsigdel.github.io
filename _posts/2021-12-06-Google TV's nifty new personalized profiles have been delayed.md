@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bmB49QjAQfHpJ2dv1sGl5sdX_-4=/0x0:848x477/1200x800/filters:focal(357x172:491x306)/cdn.vox-cdn.com/uploads/chorus_image/image/70226748/image004__3_.0.png' width='700px' /><br/>
-The individual user profiles that were expected to arrive on Google TV last month have been delayed, meaning those personalized content recommendations are unfortunately on hold.
-<a href='https://www.theverge.com/2021/12/3/22816719/google-tv-profiles-delayed'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/bmB49QjAQfHpJ2dv1sGl5sdX_-4=/0x0:848x477/1200x800/filters:focal(357x172:491x306)/cdn.vox-cdn.com/uploads/chorus_image/image/70226748/image004__3_.0.png' width='700px' /><br/>
-The individual user profiles that were expected to arrive on Google TV last month have been delayed, meaning those personalized content recommendations are unfortunately on hold.
-<a href='https://www.theverge.com/2021/12/3/22816719/google-tv-profiles-delayed'> Source <a/>

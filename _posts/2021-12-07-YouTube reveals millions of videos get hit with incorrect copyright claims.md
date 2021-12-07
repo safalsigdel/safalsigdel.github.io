@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fXCpKpFi3l82Mz1nOojRmXHZfEE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70235306/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
+Over 2.2 million YouTube videos were hit with copyright claims that were later overturned between January and June of this year, according to a new report published by the company today. The Copyright Transparency Report is the first of its kind published by YouTube, which says it will update biannually going forward.
+<a href='https://www.theverge.com/2021/12/6/22820318/youtube-copyright-claims-transparency-report'> Source <a/>

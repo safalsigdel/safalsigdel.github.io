@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fQDDF90qsiR0Sl2OUOdvZBqUZ-I=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/70230975/1234603350.0.jpg' width='700px' /><br/>
-eBay inadvertently suspended an unspecified number of users on December 3rd. The platform has since acknowledged the incident, noting that users who were accidentally suspended have received a notification so they can resolve the issue.
-<a href='https://www.theverge.com/2021/12/5/22818588/ebay-suspended-users-glitch'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/fQDDF90qsiR0Sl2OUOdvZBqUZ-I=/0x0:4000x2666/1200x800/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/70230975/1234603350.0.jpg' width='700px' /><br/>
-eBay inadvertently suspended an unspecified number of users on December 3rd. The platform has since acknowledged the incident, noting that users who were accidentally suspended have received a notification so they can resolve the issue.
-<a href='https://www.theverge.com/2021/12/5/22818588/ebay-suspended-users-glitch'> Source <a/>
