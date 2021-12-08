@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j01d2u8zn3F5if-KxuBO7-DG5vw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70237016/bfarsace_290921_4781_01963.0.jpg' width='700px' /><br/>
-The global chip shortage has claimed yet another camera from Sony's lineup. This time, Sony is suspending orders for the ZV-E10, a mirrorless vlogging camera that the company released in August, as reported by Digital Photography Review.
-<a href='https://www.theverge.com/2021/12/6/22820922/sony-digital-camera-chip-shortage'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ndGtl_IJB5aoATWK-ss3_FvT1tc=/0x0:1536x864/1200x800/filters:focal(646x310:890x554)/cdn.vox-cdn.com/uploads/chorus_image/image/70239101/Header_Image.0.png' width='700px' /><br/>
-Messenger Kids, the child-friendly version of Meta's Messenger service (aka Facebook Messenger), is being updated with a dark mode, as well as new audio effects for voice messages, the service has announced.
-<a href='https://www.theverge.com/2021/12/7/22822033/messenger-kids-dark-mode-voice-effects-games-chat'> Source <a/>

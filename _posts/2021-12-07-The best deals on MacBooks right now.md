@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sDcGV31ySLpQEmOZbUBc9ewaWTs=/0x0:2040x1358/1200x800/filters:focal(857x516:1183x842)/cdn.vox-cdn.com/uploads/chorus_image/image/69195508/vpavic_4291_20201113_0337_Edit.0.jpg' width='700px' /><br/>
-With multiple configurations and various models to choose from, including ones equipped with Apple's M1 processor, finding a deal on a MacBook or Mac Mini is not all that difficult. It's a slightly different story for the newer M1 Pro and M1 Max-equipped MacBook Pros, but any bit of savings you can get on the hit new Pro models is sure to be worthwhile.
-<a href='https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals'> Source <a/>

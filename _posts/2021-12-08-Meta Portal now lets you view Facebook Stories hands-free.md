@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U34TqjIB3xQprdmG6w3aDniuqy0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70242098/portal_calling_features_new.0.jpeg' width='700px' /><br/>
+The Meta (formerly Facebook) Portal is getting a number of updates, including one that lets you browse through your Facebook friends' stories hands-free, as detailed in a post on the About Facebook blog. You can access the feature by saying, “Hey Portal, show me Stories.”
+<a href='https://www.theverge.com/2021/12/7/22822879/facebook-portal-stories-hands-free'> Source <a/>

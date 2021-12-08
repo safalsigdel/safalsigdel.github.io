@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EUoqnwFIVXzzjlpMrPKq2SauKhk=/0x0:1717x1080/1200x800/filters:focal(722x403:996x677)/cdn.vox-cdn.com/uploads/chorus_image/image/70240841/Screen_Shot_2021_12_07_at_10.44.15_AM.0.png' width='700px' /><br/>
+Apple seems to be close to rolling out the Apple Music Voice Plan, a more affordable tier of Apple Music that lets you access music using only your voice and the company's Siri assistant. The new plan appeared in the update notes for the iOS 15.2 release candidate, according to MacStories editor-in-chief Federico Viticci, which suggests it will be available widely sometime soon.
+<a href='https://www.theverge.com/2021/12/7/22822631/apple-music-voice-plan-ios-15-2-release-candidate'> Source <a/>

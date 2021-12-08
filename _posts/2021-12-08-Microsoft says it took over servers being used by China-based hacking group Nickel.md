@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bFD1-fUGx45NYFTbPGtR7ZBYabo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70240732/acastro_200915_1777_hacking_0001.0.jpg' width='700px' /><br/>
+The Microsoft Digital Crimes Unit (DCU) has seized 42 websites that the China-based hacking group Nickel used to attack organizations in the US, as well as around the world, according to a report on Microsoft's blog (via Bleeping Computer). Microsoft says that the attacks were likely carried out to gather intelligence from government agencies, think tanks, and human rights groups.
+<a href='https://www.theverge.com/2021/12/7/22822255/microsoft-hackers-china-nickel-apt15'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Qmng4BpDQY2Jn57EgfuHAr1H9xg=/0x0:8000x4500/1200x800/filters:focal(3360x1610:4640x2890)/cdn.vox-cdn.com/uploads/chorus_image/image/70239221/Alexa_Together_app.0.png' width='700px' /><br/>
-First announced at Amazon's fall hardware event, Alexa Together is officially launching today, Tuesday, December 7th. A new subscription service that expands on the existing Alexa Care Hub, Alexa Together is designed to offer a minimally invasive way to use Amazon's voice assistant and associated Echo speakers to both assist and keep tabs on an elderly loved one or other person who requires a caregiver.
-<a href='https://www.theverge.com/2021/12/7/22822026/amazon-alexa-together-elder-care-price-features-release-date'> Source <a/>
