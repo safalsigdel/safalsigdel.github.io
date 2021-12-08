@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Nic_1Fw2orze1AFIRqDhYc46c8E=/0x0:1000x1000/1200x800/filters:focal(447x400:607x560)/cdn.vox-cdn.com/uploads/chorus_image/image/70240587/jtuohy_211115_4885_0009sq.0.jpeg' width='700px' /><br/>
-Amazon's new smart thermostat just received its first-ever price break. Normally, this thermostat costs $59.99 but is currently on sale for $47.99 at Amazon. It's the best price we've seen yet for this particular device, and considering it didn't get a discount during Black Friday, this sale may not last.
-<a href='https://www.theverge.com/good-deals/2021/12/7/22822467/amazon-thermostat-echo-dot-show-deal-sale'> Source <a/>
