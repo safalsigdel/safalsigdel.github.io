@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AJYyrupokugYnRoYpSdT-C6wO5E=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70243386/https___bucketeer_e05bbc84_baa3_437e_9518_adb32be77984.s3.amazonaws.com_public_images_169a836c_b9ff_4146_bdcb_63815b48f97a_1920x1080.0.png' width='700px' /><br/>
+More than other recent years, in 2021 the tech industry focused a great deal of its energy on a single question: who will build and own the next generation of the internet?
+<a href='https://www.theverge.com/2021/12/8/22823248/how-snap-is-sidestepping-the-metaverse'> Source <a/>
