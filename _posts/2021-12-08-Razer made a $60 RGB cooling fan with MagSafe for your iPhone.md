@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LzkqKc_8HwNh1fhbUjcxvp3B91A=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/70240062/https___hybrismediaprod.blob.core.windows.net_sys_master_phoenix_images_container_h7e_h83_9276684894238_211207_Phone_Cooler_Chroma_MagSafe_Compatible_1.0.jpg' width='700px' /><br/>
-Razer has announced its latest smartphone accessory: the Razer Phone Cooler Chroma, an RGB-light infused cooling fan for your iPhone or Android device that's designed to help cool down your phone during intense gaming.
-<a href='https://www.theverge.com/2021/12/7/22822353/razer-phone-cooler-chroma-rgb-cooling-fan-magsafe'> Source <a/>
