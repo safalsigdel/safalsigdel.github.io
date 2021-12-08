@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mtcVJueYfZpUiovNNXLUjDnENLI=/0x0:1119x746/1200x800/filters:focal(471x284:649x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70243252/Screenshot_2021_12_08_at_16.19.32.0.png' width='700px' /><br/>
+Oppo has released a brief video hinting at a new type of camera design for smartphones. The company's “self-developed retractable camera” is shown extending from the phone's body before retracting back inside. The video suggests that the mechanism is waterproof and that it'll automatically retract the camera if the phone is dropped.
+<a href='https://www.theverge.com/2021/12/8/22823689/oppo-retractable-phone-camera-teaser-inno-day-2021'> Source <a/>
