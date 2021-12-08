@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M8MbXBgsSGzboDqYrLHFU5y03rg=/0x0:2696x1508/1200x800/filters:focal(1133x539:1563x969)/cdn.vox-cdn.com/uploads/chorus_image/image/70241558/ebay_3d_viewing_sneaker.0.png' width='700px' /><br/>
-eBay now lets you get a 360-degree look at some of the sneakers it has for sale, all thanks to its handy new 3D viewing tool, called eBay 3D true view. In a post on eBay's website, the e-commerce platform said that the feature will let sellers add interactive images of their sneakers to listings. It's partnering with Unity, a platform that can be used for real-time 3D modeling, to pilot the feature.
-<a href='https://www.theverge.com/2021/12/7/22822678/ebay-sneaker-viewer-3d'> Source <a/>
