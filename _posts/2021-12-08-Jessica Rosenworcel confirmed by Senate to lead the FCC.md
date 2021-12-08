@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9O5CFvzHw-Ca3LbRGY5_9_aXdoI=/0x0:4574x3049/1200x800/filters:focal(2440x592:3170x1322)/cdn.vox-cdn.com/uploads/chorus_image/image/70240231/1222449901.0.jpg' width='700px' /><br/>
-On Tuesday, the Senate voted 68 to 31 to confirm Jessica Rosenworcel's re-appointment to the Federal Communications Commission, putting her in place to be the first permanent chair of the agency under President Biden. Rosenworcel will also be the first female chair in the 86-year history of the FCC.
-<a href='https://www.theverge.com/2021/12/7/22820873/jessica-rosenworcel-fcc-chair-confirmed-biden-net-neutrality'> Source <a/>
