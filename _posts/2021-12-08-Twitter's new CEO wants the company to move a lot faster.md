@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/I15VgEuUekQQKc1fUBFZVeZhFmw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70242325/acastro_211129_4896_0001.0.jpg' width='700px' /><br/>
 The new CEO of Twitter, Parag Agrawal, has a clear message: expect the social network to move a lot faster than it has in the past.
-<a href='https://www.theverge.com/2021/12/7/22823093/twitter-new-ceo-parag-agrawal-move-faster-interview'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/I15VgEuUekQQKc1fUBFZVeZhFmw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70242325/acastro_211129_4896_0001.0.jpg' width='700px' /><br/>
-The new CEO of Twitter, Parag Agrawal, has a clear message: expect the social network to move a lot faster than it has in the past.
 <a href='https://www.theverge.com/2021/12/7/22823093/twitter-new-ceo-parag-agrawal-move-faster-interview'> Source <a/>
