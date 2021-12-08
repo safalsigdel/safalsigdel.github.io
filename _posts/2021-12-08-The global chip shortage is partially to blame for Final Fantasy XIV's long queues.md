@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xOmaj1gum5kCPPLjZ48wbUx1-gQ=/0x0:1212x850/1200x800/filters:focal(510x329:702x521)/cdn.vox-cdn.com/uploads/chorus_image/image/70241624/9b6e6f1b787a32e4291e1cc7e7e0719e_1920_KR.0.jpeg' width='700px' /><br/>
+Many players eager to jump into Final Fantasy XIV's highly anticipated Endwalker expansion have hit big queues since the game launched in early access on Friday. Part of the reason for the long waits is that the global chip shortage has prevented Square Enix from getting enough servers to handle demand, according to a blog post from producer and director Naoki Yoshida.
+<a href='https://www.theverge.com/2021/12/7/22822825/final-fantasy-xiv-14-endwalker-global-chip-shortage-server-queue'> Source <a/>
