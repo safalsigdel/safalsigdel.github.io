@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O7-5D0h8gpXAS9u_WyIQBHv9Edc=/0x0:6017x5099/1200x800/filters:focal(2528x2069:3490x3031)/cdn.vox-cdn.com/uploads/chorus_image/image/70244015/1234776902.0.jpg' width='700px' /><br/>
+Sonos announced plans today to make its speakers and other products last longer and use less energy. It's part of the company's larger plan to make itself more sustainable, with a focus on minimizing e-waste and the pollution that drives climate change.
+<a href='https://www.theverge.com/2021/12/8/22822858/sonos-speakers-repair-recycle-energy-emissions'> Source <a/>

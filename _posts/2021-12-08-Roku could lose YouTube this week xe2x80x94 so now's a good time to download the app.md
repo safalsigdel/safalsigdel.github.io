@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jY2vY_XFc3Z9FSyhHE04nEc8jZY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70240837/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
-An escalating feud that has pitted YouTube, one of the most popular streaming apps in the world, against Roku, a leader in TV streaming devices, could be about to boil over. Both companies have said that unless they can reach a new distribution agreement in the coming days, the YouTube app will be removed from Roku's channel store for new users on December 9th.
-<a href='https://www.theverge.com/2021/12/7/22820988/roku-google-youtube-december-9-deadline'> Source <a/>
