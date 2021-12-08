@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fIxRJdc59dJndNspa9grPnzCYfw=/0x0:1648x927/1200x800/filters:focal(693x333:955x595)/cdn.vox-cdn.com/uploads/chorus_image/image/70240233/mobileye_av_nyc_intel_24.jpg.rendition.intel.web.1648.927.0.jpg' width='700px' /><br/>
-Intel announced that it will take public its self-driving technology company Mobileye, the Israeli company it acquired for $15.3 billion in 2017. The chipmaker said that by listing Mobileye's shares on the stock market, it hopes to unlock more value for Intel's shareholders. Intel will remain the majority shareholder in Mobileye.
-<a href='https://www.theverge.com/2021/12/7/22822279/intel-mobileye-ipo-2022-autonomous-vehicles-robotaxi'> Source <a/>
