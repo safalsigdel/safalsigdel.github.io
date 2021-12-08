@@ -1,0 +1,5 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UU7hpIsZM5kQCK-4Z53Zz2FqBcw=/0x0:3341x2506/1200x800/filters:focal(1404x986:1938x1520)/cdn.vox-cdn.com/uploads/chorus_image/image/70244440/IMG_0832.0.jpeg' width='700px' /><br/>
+Tesla updated its software allowing vehicle occupants to play video games on the center touchscreen while in motion, raising questions about safety and driver distraction. Previously, video games were only playable while the vehicle was in park.
+<a href='https://www.theverge.com/2021/12/8/22823127/tesla-car-arcade-games-safety-nhtsa'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/UU7hpIsZM5kQCK-4Z53Zz2FqBcw=/0x0:3341x2506/1200x800/filters:focal(1404x986:1938x1520)/cdn.vox-cdn.com/uploads/chorus_image/image/70244440/IMG_0832.0.jpeg' width='700px' /><br/>
+Tesla updated its software allowing vehicle occupants to play video games on the center touchscreen while in motion, raising questions about safety and driver distraction. Previously, video games were only playable while the vehicle was in park.
+<a href='https://www.theverge.com/2021/12/8/22823127/tesla-car-arcade-games-safety-nhtsa'> Source <a/>

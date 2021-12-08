@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/wL5vpJkbpc0Ucm7avuz7zUT09CY=/0x0:2053x946/1200x800/filters:focal(248x353:576x681)/cdn.vox-cdn.com/uploads/chorus_image/image/70242235/NotepadDarkFindReplace.0.png' width='700px' /><br/>
 Microsoft is testing a redesign of its venerable Notepad app, adding some welcomed modern features like a dark mode, a better search / find and replace interface, better undoing, and more.
+<a href='https://www.theverge.com/2021/12/7/22822651/microsoft-windows-11-notepad-redesign-find-replace-insider'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/wL5vpJkbpc0Ucm7avuz7zUT09CY=/0x0:2053x946/1200x800/filters:focal(248x353:576x681)/cdn.vox-cdn.com/uploads/chorus_image/image/70242235/NotepadDarkFindReplace.0.png' width='700px' /><br/>
+Microsoft is testing a redesign of its venerable Notepad app, adding some welcomed modern features like a dark mode, a better search / find and replace interface, better undoing, and more.
 <a href='https://www.theverge.com/2021/12/7/22822651/microsoft-windows-11-notepad-redesign-find-replace-insider'> Source <a/>
