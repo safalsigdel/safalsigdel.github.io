@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z2Hyo1QUl4NqXuhZ7OdUTu6SScM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70248441/acastro_170731_1777_0005_v4.0.jpg' width='700px' /><br/>
+Apple's widely rumored upcoming mixed reality headset will make use of 3D sensors for advanced hand tracking, according to analyst Ming-chi Kuo, whose latest research note has been reported on by MacRumors and 9to5Mac. The headset is said to have four sets of 3D sensors, compared to the iPhone's single unit, which should give it more accuracy than the TrueDepth camera array currently used for Face ID.
+<a href='https://www.theverge.com/2021/12/9/22825675/apple-ar-headset-hand-tracking-controllers-kuo-report'> Source <a/>
