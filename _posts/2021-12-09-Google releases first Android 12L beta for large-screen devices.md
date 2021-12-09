@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Embp05UoqCLg7IP_YxQPkFbbwGc=/0x0:1600x848/1200x800/filters:focal(672x296:928x552)/cdn.vox-cdn.com/uploads/chorus_image/image/70245385/Untitled_3.0.png' width='700px' /><br/>
-Google has announced its Android 12L update — the one designed to give its OS a better experience on tablets and large folding phones — is getting its first beta release today. While Beta 1 still seems very much pointed toward developers, it could be a chance to see what Google's working on in a (slightly) more polished state than the developer preview.
-<a href='https://www.theverge.com/2021/12/8/22824287/google-android-12-beta-1-release-large-screen-devices-tablet-pixel'> Source <a/>
