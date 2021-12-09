@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rJIsNumO0eT9dXJ-lzGIQrxXlKo=/0x0:1120x630/1200x800/filters:focal(471x226:649x404)/cdn.vox-cdn.com/uploads/chorus_image/image/70247591/Paramount_Plus.0.png' width='700px' /><br/>
+Wattpad has long been a pipeline bringing content adaptations of stories by emerging writers to streaming services like Netflix and Hulu. Now, ViacomCBS and Wattpad's studio arm are teaming up to spin out a slate of original series from successful titles on Wattpad and Webtoon.
+<a href='https://www.theverge.com/2021/12/8/22825153/wattpad-webtoon-originals-paramount-plus-viacomcbs'> Source <a/>

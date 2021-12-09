@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MCawmJ9rLBwsj7VLUklzBCoDiWA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70245840/acastro_210729_1777_blizzard_0002.0.jpg' width='700px' /><br/>
+Today, in front of Blizzard Entertainment's Irvine, California headquarters, Christine (her last name withheld to protect her privacy) held a press conference in which she spoke about her experiences of sexual harassment and retaliation while employed at the embattled game developer.
+<a href='https://www.theverge.com/2021/12/8/22823991/activision-blizzard-sexual-harassment-victim-press-conference'> Source <a/>

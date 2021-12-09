@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4YBqvr1DDj50LHWfK9q8vYU5CxM=/0x0:3497x2332/1200x800/filters:focal(1470x887:2028x1445)/cdn.vox-cdn.com/uploads/chorus_image/image/70246057/1236627157.0.jpg' width='700px' /><br/>
+President Joe Biden signed an executive order Wednesday outlining a sweeping plan for the federal government to achieve carbon neutrality by 2050. Under the plan, the government would spend billions of dollars to purchase electric vehicles, upgrade federal buildings, and leverage the power of the government to shift to cleaner forms of electricity.
+<a href='https://www.theverge.com/2021/12/8/22824500/biden-executive-order-climate-change-carbon-emissions-electric-vehicles'> Source <a/>

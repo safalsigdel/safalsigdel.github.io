@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oE8Edlq7_u5tFwQ0ImHyEnBjD8E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70236773/vpavic_4278_20201030_0247.10.jpg' width='700px' /><br/>
+Update 12:55PM ET, December 8th: Walmart has cleared through its stock of consoles reserved for its Walmart Plus subscribers. I hope that you lucked out today!
+<a href='https://www.theverge.com/2021/12/6/22821037/ps5-playstation-5-restock-available-walmart-plus-queue-deal-sale'> Source <a/>

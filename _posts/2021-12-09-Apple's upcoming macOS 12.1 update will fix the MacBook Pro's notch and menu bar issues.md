@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R2SA3MYsidEVim4BuRPsPa0A5zc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70247197/akrales_211020_4803_0004.0.jpg' width='700px' /><br/>
+Apple's upcoming macOS 12.1 update will fix some odd interactions between its new MacBook Pros' notched displays and menu bar apps, which should no longer be blocked behind the notch, according to MacRumors.
+<a href='https://www.theverge.com/2021/12/8/22824702/apple-macos-12-1-update-macbook-pro-notch-m1-menu-bar-issue-fix'> Source <a/>

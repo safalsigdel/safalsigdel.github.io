@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E5qUL6Khsdd8BDMVVNXwtTOVfeU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70243371/jbareham_180301_2346_nintendo_switch_0065_mario.0.jpg' width='700px' /><br/>
-Canadian hacker Gary Bowser has agreed to pay $10 million to settle a Nintendo lawsuit against him over piracy charges. Bowser is a member of the Team Xecuter group that have created mod chips or jailbroken the Nintendo Switch, 3DS, NES Classic Edition, and other consoles.
-<a href='https://www.theverge.com/2021/12/8/22823767/team-xecuter-gary-bowser-nintendo-lawsuit-10-million'> Source <a/>

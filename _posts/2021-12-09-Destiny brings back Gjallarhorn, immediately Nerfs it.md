@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sYo3R5clAwXZFjq5Q6Nu24HhyIA=/0x0:1000x667/1200x800/filters:focal(420x254:580x414)/cdn.vox-cdn.com/uploads/chorus_image/image/70247297/nerf_gjallarhorn_01_1000x1000.0.jpg' width='700px' /><br/>
+In Destiny, the legendary rocket launcher Gjallarhorn was the ultimate weapon for a time. Its ability to create explosions filled with more explosions was unparalleled — and, some would argue, in desperate need of a nerf. Amusingly, Bungie and toymaker Hasbro are now taking that part literally: the Gjallarhorn is now slated to become an official Nerf blaster, complete with Wolfpack Round-like cluster missiles of its own.
+<a href='https://www.theverge.com/2021/12/8/22824897/destiny-gjallarhorn-nerf-blaster-hasbro-bungie'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U_gC_fBtUOFVXTB3UROIkvnYFTs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70246746/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+During a hearing before a Senate subcommittee on Wednesday, Instagram head Adam Mosseri said the company is working on a version of its feed that would show users' posts in chronological order, unlike its current ranking algorithm that sorts posts based on user preferences.
+<a href='https://www.theverge.com/2021/12/8/22824609/instagram-chronological-feed-adam-mosseri'> Source <a/>

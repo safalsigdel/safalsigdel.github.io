@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pBtF6fvrtlEdR0ijW_lR7xLhBbQ=/0x0:3000x2102/1200x675/filters:focal(1260x811:1740x1291)/cdn.vox-cdn.com/uploads/chorus_image/image/70243677/laptent.0.jpg' width='700px' /><br/>
-Ana* and her three-year-old son arrived at the shelter for migrant and refugee women in the northern Mexican city of Monterrey in early October. Every morning, the 14 women at the shelter — mainly from El Salvador and Honduras — share the house chores: sweeping, cooking, and babysitting the children of their compaxc3xb1eras working informal jobs to save enough money to cross into the United States.
-<a href='https://www.theverge.com/22812795/refugee-cell-phone-sim-card-border-problems-connectivity'> Source <a/>
