@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GeQn960HgSiwft-jBsT1vYAdhc4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70249539/akrales_170620_1794_0029.0.jpg' width='700px' /><br/>
+Apple is about to add a new feature to iPhones informing users if the device was previously repaired and whether a genuine screen or battery was used (via 9to5Mac). A new parts and service history section will appear (under Settings > General > About) with the upcoming iOS 15.2 update for iPhone — providing some insight and peace of mind for buyers of used or refurbished iPhones hoping to get a proper quality OEM unit.
+<a href='https://www.theverge.com/2021/12/9/22824733/apple-iphone-part-service-history-ios-15-2'> Source <a/>
