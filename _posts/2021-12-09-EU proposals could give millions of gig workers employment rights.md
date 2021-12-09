@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4jYZh4DuMfkCrrYYNtTm_RulIuY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70249044/acastro_1800724_1777_EU_0001.0.jpg' width='700px' /><br/>
+The European Commission, the executive arm of the European Union, has put forward a series of proposals that could lead to millions of gig workers across the bloc getting similar legal protections to traditional employees. In a press release, the Commission says these rights would include a minimum wage (where applicable), collective bargaining, paid leave, unemployment and sickness benefits, and pensions.
+<a href='https://www.theverge.com/2021/12/9/22825827/european-union-comission-gig-workers-employees-benefits'> Source <a/>
