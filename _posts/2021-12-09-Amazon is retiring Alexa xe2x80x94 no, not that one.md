@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EX9vYqHSQTjHVCqK-CzRkBUEljs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70248593/acastro_180608_1777_net_neutrality_0001.0.jpg' width='700px' /><br/>
+Amazon is shutting down Alexa Internet, a service that has provided web traffic analysis for more than two decades. Alexa was founded in 1996 and bought by Amazon in 1999 (15 years before the shopping giant revealed its digital assistant of the same name).
+<a href='https://www.theverge.com/2021/12/9/22825744/amazon-retiring-alexa-web-ranking-sevice'> Source <a/>
