@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QtsYAv71QSWVBPNHe6RfxCyv9KM=/0x0:3008x2006/1200x800/filters:focal(1264x763:1744x1243)/cdn.vox-cdn.com/uploads/chorus_image/image/70248661/Weather_2.0.png' width='700px' /><br/>
+Microsoft is bringing back its weather widget on the Windows 11 taskbar. It's a feature that originally debuted in Windows 10, providing live weather conditions and quick access to the broader widget and news feed. Windows 11 removed this taskbar integration in favor of a separate widgets panel, though.
+<a href='https://www.theverge.com/2021/12/9/22825760/microsoft-windows-11-weather-widget-taskbar-voice-access-features'> Source <a/>
