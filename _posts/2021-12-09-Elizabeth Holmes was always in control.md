@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LiS8vqO8tivEfApNGYus8wJN23c=/0x0:2048x1368/1200x675/filters:focal(837x310:1163x636)/cdn.vox-cdn.com/uploads/chorus_image/image/70248965/VRG_ILLO_4914_Holmes_Trial.0.jpg' width='700px' /><br/>
+Control and image are important to Elizabeth Holmes. They were important to the PR effort around Theranos when she was portrayed as the second coming of Steve Jobs. They were important when she delegated reprimands to maintain her friendly image. And they are important now — as a jury is about to decide whether she's guilty of wire fraud and conspiracy to commit wire fraud.
+<a href='https://www.theverge.com/2021/12/9/22820995/elizabeth-holmes-theranos-trial-testimony-defense-abuse'> Source <a/>
