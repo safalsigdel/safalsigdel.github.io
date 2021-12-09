@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ljkepWIUvxlto0HPdXnK2mfJ2uI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70249158/cgartenberg_211207_4916_0002.0.jpg' width='700px' /><br/>
+E Ink displays, with their ultra crisp resolutions and black and white limitations, have been a natural fit for replacing pen and paper for years. It's no wonder that the most common uses of the display technology in consumer technology has been for e-readers and digital paper, attempts to try to slash through paper's thousand-year hegemony as a dominant technology for writing down information.
+<a href='https://www.theverge.com/22824803/kobo-elipsa-sage-e-readers-eink-stylus-review'> Source <a/>
