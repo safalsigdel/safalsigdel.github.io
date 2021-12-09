@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yge9sVukg-Ud4dO_JO8UM9vD3yo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70248609/acastro_181114_1777_amazon_hq2_0003.0.jpg' width='700px' /><br/>
+Amazon has been fined $1.3 billion (xe2x82xac1.1 billion) by antitrust regulators in Italy. The company is accused of using its dominance in the online shopping world to steer Italian sellers into using its logistics service, Fulfilment by Amazon (FBA). Amazon says it will appeal the decision.
+<a href='https://www.theverge.com/2021/12/9/22825759/amazon-antitrust-fine-italy-1-3-billion'> Source <a/>
