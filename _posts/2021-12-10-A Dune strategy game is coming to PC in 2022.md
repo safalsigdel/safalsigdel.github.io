@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wMUyLqGk2SZDws1V53cjc_7izd0=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70253014/4_DSW_Announce_Orni.0.png' width='700px' /><br/>
+Dune: Spice Wars is a new real-time strategy game for PC set in the Dune universe. It will be available in early access in 2022.
+<a href='https://www.theverge.com/2021/12/9/22825177/dune-spice-wars-strategy-game-rts-funcom-shiro-games-early-access'> Source <a/>

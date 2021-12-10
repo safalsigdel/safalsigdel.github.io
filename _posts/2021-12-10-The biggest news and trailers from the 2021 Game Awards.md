@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vQTVOgZzeEF9hC1GRXMOsBcISoU=/0x0:3718x2479/1200x675/filters:focal(1562x943:2156x1537)/cdn.vox-cdn.com/uploads/chorus_image/image/70253239/1193629356.0.jpg' width='700px' /><br/>
+It's that time of the year: The Game Awards, a three hour-long event where the awards take backstage to trailers and reveals. This year's show was a busy one, with news covering everything from Star Wars and The Expanse to Halo and Among Us. We even got a new Alan Wake. Also, Sting was there.
+<a href='https://www.theverge.com/2021/12/9/22815755/the-game-awards-2021-trailers-news-announcements'> Source <a/>

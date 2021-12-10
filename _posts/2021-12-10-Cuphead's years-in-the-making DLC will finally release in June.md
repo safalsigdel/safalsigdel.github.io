@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kJ44OA_98xa5-9sK096Lf3M9ycI=/0x0:1920x1080/1200x800/filters:focal(997x348:1303x654)/cdn.vox-cdn.com/uploads/chorus_image/image/70252901/cuphead_dlc_screenshot_1080_4.0.png' width='700px' /><br/>
+Cuphead's long-in-the-works The Delicious Last Course DLC will finally be released in June, Studio MDHR announced at The Game Awards Thursday. You'll be able to play through new levels, take on new bosses, and use a new character named Ms. Chalice when the DLC is released on June 30th, 2022, which is nearly five years after the initial release of the original game.
+<a href='https://www.theverge.com/2021/12/9/22816788/cuphead-the-delicious-last-course-dlc-ms-chalice-release-date'> Source <a/>

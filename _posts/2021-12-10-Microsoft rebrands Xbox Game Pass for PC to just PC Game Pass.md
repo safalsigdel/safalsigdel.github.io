@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YZywLSLITPJakoxokqI4gP0_f_c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70252870/acastro_180604_1777_xbox_0001.0.jpg' width='700px' /><br/>
+Microsoft is rebranding its Xbox Game Pass for PC subscription to just PC Game Pass. The new name drops the Xbox branding in favor of a simplified PC Game Pass name that should make things less confusing for PC gamers.
+<a href='https://www.theverge.com/2021/12/9/22827140/microsoft-pc-game-pass-naming-rebrand'> Source <a/>

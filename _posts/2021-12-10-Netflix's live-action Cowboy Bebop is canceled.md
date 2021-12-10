@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oUR_-Gft4cq9ipHcFcom6vIfUYk=/0x0:2400x2568/1200x800/filters:focal(1039x860:1423x1244)/cdn.vox-cdn.com/uploads/chorus_image/image/70252595/COWBOYBEB_ArtDept_01192RC4__1__long.0.jpg' width='700px' /><br/>
+Netflix has canceled its live-action adaptation of the Cowboy Bebop anime. The show, starring Jon Cho as Spike Spiegel, will not be renewed for a second season, according to The Hollywood Reporter. Though a lot of shows on Netflix are not renewed, The Hollywood Reporter alluded to the show's poor reception as the reason for its abrupt cancellation.
+<a href='https://www.theverge.com/2021/12/9/22827010/cowboy-bebop-netflix-live-action-cancel'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Jw3Kvd_c4p4BpuPn0TZKrGDHAXA=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/70251942/Web_Publishing_XfinityFlex_YouTubeTVLaunch_16x9_Social.0.jpg' width='700px' /><br/>
+Comcast is introducing YouTube TV to its Xfinity Flex devices, providing users another avenue for opting out of traditional cable.
+<a href='https://www.theverge.com/2021/12/9/22826856/comcast-xfinity-flex-youtube-tv'> Source <a/>

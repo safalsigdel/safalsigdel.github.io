@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/S9L9PYMH7GWVNchCiRyapiMDdhw=/0x0:1497x918/1200x800/filters:focal(630x340:868x578)/cdn.vox-cdn.com/uploads/chorus_image/image/70252799/Screen_Shot_2021_12_09_at_8.28.18_PM.0.png' width='700px' /><br/>
+Wonder Woman will be starring in her own game developed by Monolith Productions, a studio best-known for Middle-earth: Shadow of Mordor and Middle-earth: Shadow of War. The new game was announced at The Game Awards on Thursday.
+<a href='https://www.theverge.com/2021/12/9/22827161/wonder-woman-game-warner-bros-monolith-productions-the-game-awards'> Source <a/>

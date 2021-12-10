@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UsvWk2_pzY7CfFgVOYv16srGars=/0x0:1683x1122/1200x800/filters:focal(708x427:976x695)/cdn.vox-cdn.com/uploads/chorus_image/image/70248673/FGHzidMVcAEqPAY.0.jpg' width='700px' /><br/>
-WhatsApp has launched a new pilot that lets a “limited number” of people in the US send and receive money from within a chat using cryptocurrency. The feature is powered by Novi, Meta's digital wallet that launched as a pilot six weeks ago, with payments made using Pax Dollars (USDP), a stablecoin pegged to the US dollar issued by Paxos. The news was announced by Novi's incoming head Stephane Kasriel and WhatsApp's Will Cathcart.
-<a href='https://www.theverge.com/2021/12/9/22825766/whatsapp-novi-digital-payments-us-pilot-paxos-stablecoin'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sMppQ_QraB5NvXw51164AL-k5tM=/0x0:1320x880/1200x675/filters:focal(583x190:793x400)/cdn.vox-cdn.com/uploads/chorus_image/image/70251799/xcloud.0.jpg' width='700px' /><br/>
+Remember when Apple pretended like it would let cloud gaming services like Microsoft xCloud and Google Stadia into the App Store, while effectively tearing their business models to shreds? Know how Microsoft replied that forcing gamers to download hundreds of individual apps to play a catalog of cloud games would be a bad experience?
+<a href='https://www.theverge.com/2021/12/9/22826297/microsoft-xbox-xcloud-streaming-exclusives-iphone-ipad-gamepas'> Source <a/>

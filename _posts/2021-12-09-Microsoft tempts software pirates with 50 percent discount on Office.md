@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FhwUp-K5li-w07R3O3y3UndoyDo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70248713/DSCF1179.0.0.jpg' width='700px' /><br/>
-In a bold bid to turn digital crooks away from a life of crime, Microsoft is offering a 50 percent discount on its Office suite to some people using pirated versions. Ghacks reports that a new message in the Office ribbon bar is appearing on pirated Office apps, tempting people with a 50 percent discount on a genuine Microsoft 365 subscription.
-<a href='https://www.theverge.com/2021/12/9/22825774/microsoft-office-pirated-software-discount-offer'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XxGjgceIkBasDkVGCPWnz5KZNBQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70251902/acastro_200714_1777_peacock_0001.0.jpg' width='700px' /><br/>
+NBCUniversal committed to adding the “majority” of films from Universal Pictures, Focus Features, Illumination, and DreamWorks Animation Films to its Peacock streaming service as soon as 45 days after they hit theaters, according to a press release. The new strategy kicks off with its 2022 slate of films.
+<a href='https://www.theverge.com/2021/12/9/22826752/peacock-stream-nbcuniversal-movies-films-45-days-after-theatrical-release'> Source <a/>

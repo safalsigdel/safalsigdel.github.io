@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-NDhrN8KB0hLk9deEiPAVA2JHdU=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70253063/ffT36Kl.0.png' width='700px' /><br/>
+Google is planning to bring Android games to Windows PCs next year. A Google Play Games app will be available in 2022, built by Google to allow games from Google Play to run on Windows laptops, tablets, and PCs.
+<a href='https://www.theverge.com/2021/12/9/22827037/google-android-games-windows-pc-google-play-games'> Source <a/>

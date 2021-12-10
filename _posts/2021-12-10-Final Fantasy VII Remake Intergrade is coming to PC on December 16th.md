@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m7F65j10u4RxQLKbIRTQm5_MvUk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70252839/FINAL_FANTASY_VII_REMAKE_E3_2019_screenshot_6.0.png' width='700px' /><br/>
+The previously PlayStation-exclusive Final Fantasy VII Remake is coming to PC. Final Fantasy VII Remake Intergrade will be available on the Epic Games Store, and it's coming soon — in just one week, on December 16th.
+<a href='https://www.theverge.com/2021/12/9/22827234/final-fantasy-7-remake-intergrade-pc-epic-games-store'> Source <a/>

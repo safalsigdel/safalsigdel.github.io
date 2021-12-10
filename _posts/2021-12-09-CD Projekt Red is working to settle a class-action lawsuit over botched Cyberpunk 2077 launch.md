@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DV19s5C6TYscPnuuuN8VmMF8Mrs=/0x0:1490x953/1200x800/filters:focal(626x358:864x596)/cdn.vox-cdn.com/uploads/chorus_image/image/70247074/Cyberpunk2077_The_man_with_the_silver_hand_RGB_en.0.jpeg' width='700px' /><br/>
-Cyberpunk 2077 developer CD Projekt Red has entered negotiations to settle a class-action lawsuit over the game's bungled launch.
-<a href='https://www.theverge.com/2021/12/8/22824847/cd-projekt-red-settle-class-action-lawsuit-cyberpunk-2077-launch'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VSPsPCuBdB1IoXKXuIANR_seDfE=/0x0:5100x3400/1200x800/filters:focal(2142x1292:2958x2108)/cdn.vox-cdn.com/uploads/chorus_image/image/70245867/apple_hyatt_hotel_keys.0.jpeg' width='700px' /><br/>
-Apple is partnering with Hyatt to give some hotel guests the ability to store their room keys in their Apple Wallets, as announced in a post on Hyatt's newsroom. Instead of checking your pockets for your room key, you'll now be able to use your iPhone or Apple Watch to unlock your room, as well as any other areas around the hotel that require a key for entry.
-<a href='https://www.theverge.com/2021/12/8/22824367/apple-wallet-hyatt-hotel-key'> Source <a/>
