@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BSDrUszPFD-TBAWQHR3utwhbNXY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70251539/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple closed one of its Southlake, Texas retail stores Wednesday after many staff members contracted COVID-19, according to NBC News' Zoe Schiffer. A manager told employees Wednesday that 22 staffers “have shared that they're positive for COVID-19,” NBC News reported, and four of the store's 151 employees reported positive cases right after Black Friday. The store will be closed through Sunday.
-<a href='https://www.theverge.com/2021/12/9/22826604/apple-store-closed-southlake-texas-covid-19-outbreak-black-friday'> Source <a/>
