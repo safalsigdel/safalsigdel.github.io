@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wp4OEaiEXWHb_YLnh2Rg71a5O7E=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70254136/jpeters_210912_4757_0002.0.jpg' width='700px' /><br/>
+Many of Fitbit's wearables are currently enjoying solid discounts at multiple retailers. A pair of highlights we noticed include the Fitbit Charge 5, normally $179.99, which has been discounted to just $130 at Amazon and Best Buy. Additionally, the Fitbit Versa 3 has been lowered to $179.99 from its regular $229.99 price tag at Best Buy.
+<a href='https://www.theverge.com/good-deals/2021/12/10/22826319/fitbit-versa-charge-sony-headphones-samsung-tablet-logitech-headset-deal-sale'> Source <a/>
