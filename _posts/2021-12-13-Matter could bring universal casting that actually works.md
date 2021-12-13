@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mtbx9BSfd90gu1_CfnBaJRSUIEY=/0x0:2040x1530/1200x675/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70249409/verge_IMG_8670_2040pxl.0.jpg' width='700px' /><br/>
+The new smart home standard Matter is making a lot of grand promises, chief among them are fixing the interoperability mess the smart home is currently in and making Apple, Samsung, Google, and Amazon talk to each other. Big jobs. But it's also tackling one of the other pain points in the connected home: TV control.
+<a href='https://www.theverge.com/2021/12/9/22824559/matter-tv-streaming-devices-smart-home-casting-protocol-support'> Source <a/>

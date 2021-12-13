@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C1BCz1S0D4MxcnWGVV96ErP-Cck=/0x0:908x573/1200x800/filters:focal(382x215:526x359)/cdn.vox-cdn.com/uploads/chorus_image/image/70252880/3.Mortar_1024x576.0.jpg' width='700px' /><br/>
-The original PlayerUnknown's Battlegrounds (aka PUBG) is moving to a free-to-play model beginning January 12st, 2022, developer Krafton announced at The Game Awards Thursday.
-<a href='https://www.theverge.com/2021/12/9/22821220/pubg-playerunknowns-battlegrounds-free-to-play-release-date'> Source <a/>

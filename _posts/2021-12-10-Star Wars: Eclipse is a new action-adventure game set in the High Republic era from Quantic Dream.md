@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UtPdxhl0OahKPIM5BBtc2Ozz3zc=/0x0:3840x1600/1200x0/filters:focal(0x0:3840x1600):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23077646/star_wars_eclipse_still_13.jpg' width='700px' /><br/>
-Quantic Dream's rumored Star Wars title has been officially announced at the 2021 Game Awards: Star Wars: Eclipse, which will be set in the “High Republic” era of the Star Wars universe, hundreds of years before the Skywalker Saga during the golden age of the Jedi Order and the Republic.
-<a href='https://www.theverge.com/2021/12/9/22827178/quantic-dream-star-wars-eclipse-high-republic-announcement-game-awards'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f6AE94IGb2bQ72EoRk2hBAhUV7Q=/0x0:6390x4260/1200x800/filters:focal(2684x1619:3706x2641)/cdn.vox-cdn.com/uploads/chorus_image/image/70252293/1236892446.0.jpg' width='700px' /><br/>
-Amazon is expanding its empire of warehouses at breakneck speed, and it's building most of them in neighborhoods of color, according to a new investigation by Consumer Reports. That ultimately burdens Black and brown communities with the truck traffic, noise, and pollution that warehouses bring.
-<a href='https://www.theverge.com/2021/12/9/22826615/investigation-environmental-racism-amazon-warehouses'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jT9qoU0xFm4fNPa887FmxueotxI=/0x0:4000x2399/1200x800/filters:focal(1680x880:2320x1520)/cdn.vox-cdn.com/uploads/chorus_image/image/70259137/1237160688.0.jpg' width='700px' /><br/>
+An Amazon warehouse in Edwardsville, Illinois collapsed following a bout of severe weather and tornados that ripped across the Midwest and South on Friday night. According to a report from Reuters, at least six deaths have been confirmed, and a number of workers are still unaccounted for.
+<a href='https://www.theverge.com/2021/12/11/22829363/amazon-warehouse-tornado-collapse-edwardsville-illinois'> Source <a/>

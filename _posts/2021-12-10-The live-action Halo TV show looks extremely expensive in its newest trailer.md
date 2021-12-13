@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mfM8Gl2en_21kaBYmUFjvGXu3tA=/0x0:604x870/1200x0/filters:focal(0x0:604x870):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23077626/image2.jpg' width='700px' /><br/>
-After a short teaser last month, Paramount Plus has debuted the first full trailer for the upcoming live-action Halo TV series at the 2021 Game Awards, ahead of the show's streaming debut in 2022.
-<a href='https://www.theverge.com/2021/12/9/22826806/halo-tv-show-live-action-trailer-2022-game-awards-master-chief'> Source <a/>

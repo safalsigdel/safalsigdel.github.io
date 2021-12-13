@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B2CPrcDyF2Qr23Eeudk3efMXwPE=/0x0:1911x1066/1200x800/filters:focal(804x381:1108x685)/cdn.vox-cdn.com/uploads/chorus_image/image/70253306/2021_12_09__31_.0.png' width='700px' /><br/>
-Josef Fares is known for making award-winning co-op gaming experiences. He's also known for showing up at The Game Awards and dropping some well-placed f-bombs. Tonight, Fares followed up his famous 2017 “Fuck the Oscars” rant with an equally passionate and expletive-sprinkled acceptance speech for the Game of the Year award.
-<a href='https://www.theverge.com/2021/12/10/22826987/josef-fares-hazelight-studios-it-takes-two-game-of-the-year'> Source <a/>

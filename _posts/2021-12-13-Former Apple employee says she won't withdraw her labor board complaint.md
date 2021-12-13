@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pGdBWDyxuj2V0ZV5YzOyf19n678=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70251638/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
+Former Apple employee Cher Scarlett says the company didn't adequately live up to its half of a settlement, so she won't withdraw her complaint to the National Labor Relations Board as agreed, according to Forbes.
+<a href='https://www.theverge.com/2021/12/9/22826620/apple-labor-cher-scarlett-settlement-nlrb-complaint'> Source <a/>

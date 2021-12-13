@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SNQlkHZkZrsL_3nzpo5VDEqwH3c=/0x0:2040x1360/1200x800/filters:focal(895x620:1221x946)/cdn.vox-cdn.com/uploads/chorus_image/image/70257066/vpavic_191126_untitled_0011_2_Edit.0.jpg' width='700px' /><br/>
+In 2017 — long before Apple declared that cloud gaming could only exist on the iPhone if it jumped through gigantic hoops — Sony was preparing to launch its PlayStation Now cloud gaming service on mobile phones, a confidential document reveals.
+<a href='https://www.theverge.com/22828526/sony-playstation-ps-now-cloud-gaming-mobile-apple-epic'> Source <a/>

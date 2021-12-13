@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GVHddm5GE1ClUuEQgwKkJT3HlmM=/0x0:1280x800/1200x800/filters:focal(538x298:742x502)/cdn.vox-cdn.com/uploads/chorus_image/image/70252321/1__9_tE5HVEXnSUwgJs75nUw.0.jpg' width='700px' /><br/>
-Coinbase has announced that it'll let users earn interest on their cryptocurrency by lending it to a decentralized finance app called Compound (via Bloomberg). The program isn't currently available to US users, though, after plans for a similar feature got the company into trouble with the Securities and Exchange Commission.
-<a href='https://www.theverge.com/2021/12/9/22826888/coinbase-defi-interest-non-us-compound-lending-program'> Source <a/>

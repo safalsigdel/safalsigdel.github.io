@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vPyjOcyWhXNzkG7xNOYtqFBXyPg=/0x0:1394x971/1200x800/filters:focal(580x348:802x570)/cdn.vox-cdn.com/uploads/chorus_image/image/70252423/Screen_Shot_2021_12_09_at_3.05.00_PM.0.png' width='700px' /><br/>
-The Epic Games Store finally has a shopping cart, Epic announced Thursday, meaning you're now able to buy multiple games in a single transaction. The feature arrives just over three years after the store's December 2018 launch.
-<a href='https://www.theverge.com/2021/12/9/22826563/epic-games-store-shopping-cart'> Source <a/>

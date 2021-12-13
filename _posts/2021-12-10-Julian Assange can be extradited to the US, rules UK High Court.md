@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/boiAGuikaXxMQK1tGXku3zZYU7Y=/0x0:4500x3021/1200x800/filters:focal(1890x1151:2610x1871)/cdn.vox-cdn.com/uploads/chorus_image/image/70253735/685315670.jpg.0.jpg' width='700px' /><br/>
-The UK's High Court has approved the extradition of Julian Assange to the US. The decision reverses a ruling by a lower court in the UK that blocked the extradition on the grounds that imprisonment in the US was a threat to Assange's mental health and increased his risk of suicide.
-<a href='https://www.theverge.com/2021/12/10/22827619/julian-assange-extradited-us-approved-appeal'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1Qm6F022JCVY5ktt-VkLsuvD858=/0x0:1930x1086/1200x800/filters:focal(811x389:1119x697)/cdn.vox-cdn.com/uploads/chorus_image/image/70252164/Live_TV_Desktop_Star_Trek.0.png' width='700px' /><br/>
-Paramount Plus is rolling out its own linear channels feature that'll serve up linear movies and TV with a similar feel to traditional cable TV.
-<a href='https://www.theverge.com/2021/12/9/22826909/paramount-plus-live-channels-linear-streaming'> Source <a/>
