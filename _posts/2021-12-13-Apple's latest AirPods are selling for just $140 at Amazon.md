@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+Things have chilled out considerably this week, both in terms of how cold it has become in parts of the US and how few deals there are compared to the hectic Black Friday and Cyber Monday extravaganza. However, that's not to say there aren't some fantastic offers happening both in-store and online. We'll be keeping a close eye on deals in the next few weeks to make sure you get what you're looking for ahead of the holidays.
+<a href='https://www.theverge.com/good-deals/2021/12/11/22827785/apple-airpods-third-gen-wireless-earbuds-xbox-series-s-surface-pro-8-gaming-laptop-deal-sale'> Source <a/>

@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/J18wskIt0jpU8M4LrNDBXRUFjQk=/0x0:2040x1360/1200x800/filters:focal(989x486:1315x812)/cdn.vox-cdn.com/uploads/chorus_image/image/70257149/bfarsace_4481_20210317_0061_Edit.0.jpg' width='700px' /><br/>
 OnePlus released the Android 12-based OxygenOS 12 to the OnePlus 9 and 9 Pro this week, but the company has already pulled it following reports of bugs and issues from users.
+<a href='https://www.theverge.com/2021/12/10/22828553/oneplus-buggy-oxygenos-android-12-update-9-pro'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/J18wskIt0jpU8M4LrNDBXRUFjQk=/0x0:2040x1360/1200x800/filters:focal(989x486:1315x812)/cdn.vox-cdn.com/uploads/chorus_image/image/70257149/bfarsace_4481_20210317_0061_Edit.0.jpg' width='700px' /><br/>
+OnePlus released the Android 12-based OxygenOS 12 to the OnePlus 9 and 9 Pro this week, but the company has already pulled it following reports of bugs and issues from users.
 <a href='https://www.theverge.com/2021/12/10/22828553/oneplus-buggy-oxygenos-android-12-update-9-pro'> Source <a/>
