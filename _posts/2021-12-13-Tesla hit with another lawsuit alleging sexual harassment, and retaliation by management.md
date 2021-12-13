@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/980dvRkj061CLr3zBZxB3fOmefg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70261757/acastro_180430_1777_tesla_0001.0.jpg' width='700px' /><br/>
+A second Tesla employee within one month has filed a lawsuit alleging sexual harassment at the workplace, according to reports by Reuters and Business Insider. Erica Cloud, an assembly line worker at Tesla, filed a lawsuit in California's Alameda County Superior Court, claiming that she experienced “continuous and pervasive” sexual harassment in the factory where she worked.
+<a href='https://www.theverge.com/2021/12/12/22830673/tesla-sued-lawsuit-sexual-harassment-allegations'> Source <a/>

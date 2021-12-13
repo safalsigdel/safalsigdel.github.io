@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ukK-YsVe8Jj97UR2KKKWkHBwpV4=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/70259864/HaloInfinite_Inline3.0.jpg' width='700px' /><br/>
+Halo Infinite is getting Slayer, Free-For-All (FFA), Tactical Slayer (SWAT), and Fiesta playlists, according to a Reddit post from u/ske7ch343, otherwise known as 343 Industries' community director Brian Jarrard (via Windows Central). Jarrard confirmed that the four playlists are coming to the game via an update on December 14th.
+<a href='https://www.theverge.com/2021/12/11/22829744/halo-infinite-playlists-slayer'> Source <a/>

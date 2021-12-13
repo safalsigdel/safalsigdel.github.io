@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OVQdkVUHYUEkK5u2Ex11_XPks4I=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/70261485/jtuohy_20211211_4924_0004.0.jpg' width='700px' /><br/>
+Echo smart speakers and smart displays have a handy feature that can show and tell you when there's a package sitting on your doorstep and even what's in it. While this can be helpful most of the time, around the holidays it could seriously ruin some surprises.
+<a href='https://www.theverge.com/22828561/how-to-stop-alexa-from-announcing-packages'> Source <a/>
