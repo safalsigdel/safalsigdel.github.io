@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bispsOcu-KBy98yO0iKFJqaJM94=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70256904/vsavov_pixel3_multitasking.0.jpg' width='700px' /><br/>
-Sometimes when technology bugs out, I like a good and heavy analysis on why something didn't work as intended. Mishaal Rahman, former editor in chief at XDA Developers, wrote an excellent explainer on why a 911 call on a Google Pixel 3 with Microsoft Teams failed during a real emergency — aptly titled: “How a bug in Android and Microsoft Teams could have caused this user's 911 call to fail.”
-<a href='https://www.theverge.com/2021/12/10/22828234/microsoft-teams-android-bug-blocked-911-call-go-read-this'> Source <a/>
