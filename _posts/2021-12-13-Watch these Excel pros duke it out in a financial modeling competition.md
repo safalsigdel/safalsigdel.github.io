@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Vxcaqk5PNYG1In4DIYqh88bDJQc=/0x0:2880x1610/1200x800/filters:focal(627x517:1087x977)/cdn.vox-cdn.com/uploads/chorus_image/image/70258818/ms_excel_modeling_competition.0.png' width='700px' /><br/>
-Microsoft is sponsoring an esports competition with prizes totaling $10,000. The game? Well, it's not exactly a game — it's Microsoft Excel.
-<a href='https://www.theverge.com/2021/12/11/22829228/excel-pros-financial-modeling-world-cup'> Source <a/>
