@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v4Rpfe1FLXk1CHcgs-E8xmxfZOc=/0x0:1600x900/1200x0/filters:focal(0x0:1600x900):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23080419/51737478995_0f7258ab4a_h.jpg' width='700px' /><br/>
-The Matrix Awakens single-handedly proves next-gen graphics are within reach of Sony and Microsoft's new game consoles. It's unlike any tech demo you've ever tried before. When we said the next generation of gaming didn't actually arrive with Xbox Series X and PS5, this is the kind of push that has the potential to turn that around. And it's free to download on those consoles right now, so you should really give it a go.
-<a href='https://www.theverge.com/22828860/the-matrix-awakens-ps5-xbox-series-x-free-next-gen'> Source <a/>
