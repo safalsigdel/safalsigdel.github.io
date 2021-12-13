@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ywXWpdqZwBDaHWW1AuTWTTJWgUs=/0x0:1090x1941/1200x0/filters:focal(0x0:1090x1941):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23076530/748B46D9_AF01_4676_A87D_B70CCADDE19C.jpg' width='700px' /><br/>
+In January 2020, Jade Myers, a successful seller of secondhand clothes on Poshmark, came across a trove of designer swimwear and apparel at a thrift store that she knew would be a hit with her shoppers. She shelled out for dozens of pieces, prepared and photographed them, and listed them on her shop, Ornamental Stone. Within days, the listings turned into an intellectual property nightmare.
+<a href='https://www.theverge.com/2021/12/13/22826114/takedown-notices-online-thrift-shops-copyright-trademark'> Source <a/>

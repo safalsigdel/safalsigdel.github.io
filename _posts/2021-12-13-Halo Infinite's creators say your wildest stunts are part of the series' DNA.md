@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_1bQd4CTlQEHpo47b5XsG6Lqfto=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70258278/Screen_Shot_2021_12_09_at_3.51.34_PM.0.png' width='700px' /><br/>
-On Monday, a jaw-dropping Halo Infinite video kept showing up on my Twitter feed that looked like something out of a Legend of Zelda: Breath of the Wild speedrun.
-<a href='https://www.theverge.com/2021/12/11/22827053/halo-infinite-developers-wild-stunts-series-dna'> Source <a/>

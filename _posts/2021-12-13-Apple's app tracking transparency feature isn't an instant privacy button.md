@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HR9ydJFYX3iP2CrAYraZe8DpprI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70259173/FB_ATT_Prompt.001.0.png' width='700px' /><br/>
-A report from the Financial Times acts as a reminder of what Apple's App Tracking Transparency settings do and do not do to protect your privacy (via Ars Technica). While asking apps to not track you does keep them from collecting and selling data tied to your personal advertising identity, it doesn't keep developers from collecting any information about you at all.
-<a href='https://www.theverge.com/2021/12/11/22828713/apple-app-tracking-transparancy-psa-privacy-ads-cohorts'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ixfyQQ31C2MomdnulhYE57FIa9Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70259493/acastro_181114_1777_amazon_hq2_0001.0.jpg' width='700px' /><br/>
-Amazon Web Services (AWS) has provided an explanation as to what caused the outage that downed parts of its own services, as well as the third-party websites and online platforms that utilize AWS. In a post on the AWS website, the company explains that an automated process caused the outage, which began around 10:30AM ET in the Northern Virginia (US-EAST-1) region.
-<a href='https://www.theverge.com/2021/12/11/22829544/amazon-web-services-overwhelmed-network-outage'> Source <a/>
