@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/M-JI6uZz5smov6Qq_vNarBXtKkU=/155x65:995x648/1200x800/filters:focal(489x354:677x542)/cdn.vox-cdn.com/uploads/chorus_image/image/70264946/bored_ape_nft_accidental_.0.jpg' width='700px' /><br/>
-How much have you ever lost on a typo? Probably not hundreds of thousands of dollars. But that's just what happened to one unlucky individual this weekend, who accidentally sold a Bored Ape NFT for $3,000 instead of $300,000 — all because of a misplaced decimal point.
-<a href='https://www.theverge.com/2021/12/13/22832146/bored-ape-nft-accidentally-sold-300000-fat-finger'> Source <a/>
