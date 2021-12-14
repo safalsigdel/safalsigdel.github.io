@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Cqj5bbVEjjB8jUi2ArGZhHm2IIo=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70268823/acastro_211213_4927_0001.0.jpg' width='700px' /><br/>
+Fxc3xbcm is the type of product that traditionally sells well through podcast ads. It's a smoking cessation device, and when paired with a podcaster who uses it themselves, people buy. That's why Adam McNeil, PR manager at the company, says he went from spending $3,000 per month on podcast ads at the beginning of this year to between $25,000 and $30,000 by the end. “It's become our number one revenue source,” he says.
+<a href='https://www.theverge.com/2021/12/14/22832670/podcast-ads-direct-response-brands-industry-hot-pod'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hAShDe_NzkBmQDZI9F9EvYJmX4I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70268909/acastro_210217_1777_passwords_0002.0.jpg' width='700px' /><br/>
+LogMeIn plans to spin out password management tool LastPass as a standalone company, it announced Tuesday. With the change, LastPass is promising that customers will receive enhancements on an “accelerated timeline” next year. “With a team solely dedicated to its continued innovation and growth, [LastPass] will be able to deliver even more strongly for users,” a spokesperson said.
+<a href='https://www.theverge.com/2021/12/14/22833319/lastpass-independent-company-logmein'> Source <a/>

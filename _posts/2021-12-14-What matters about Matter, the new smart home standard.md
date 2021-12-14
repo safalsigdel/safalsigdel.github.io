@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u1XaW6cUUL5xMHpAilwrScyxfoY=/0x0:1600x1067/1200x675/filters:focal(672x406:928x662)/cdn.vox-cdn.com/uploads/chorus_image/image/70268940/f7484de0_fd1a_11eb_8eb4_4d8ac557fa35.0.jpg' width='700px' /><br/>
+Matter, the coming smart home standard that aims to be the answer to many of today's smart home headaches, is supported by a long list of companies. From platform owners like Apple, Google, and Amazon to major manufacturers such as Samsung and LG and smaller, accessory-focused players like Nanoleaf, Eve, and Wyze, there's an unprecedented industry coalition behind Matter.
+<a href='https://www.theverge.com/22832127/matter-smart-home-products-thread-wifi-explainer'> Source <a/>
