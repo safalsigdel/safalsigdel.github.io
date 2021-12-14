@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pgiyhbLV4FG6GmNiwJUurirrZXw=/0x0:2040x1360/1200x675/filters:focal(860x726:1186x1052)/cdn.vox-cdn.com/uploads/chorus_image/image/70264877/vpavic_211129_4897_0010.0.jpg' width='700px' /><br/>
-For the last week or so, I've been buried in cartridges from my youth. I've spent hours slicing through cute blue slimes in Dragon Warrior III and reacquainting myself with a decades-old team of monsters in Pokxc3xa9mon Yellow. While all my friends have been raving about Halo Infinite, I've instead been reminding myself just how inexplicably good Tony Hawk's Pro Skater was on the Game Boy Advance.
-<a href='https://www.theverge.com/22831589/analogue-pocket-review'> Source <a/>
