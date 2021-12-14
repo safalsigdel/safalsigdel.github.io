@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pFW1KC_momQ1nFLvl5gi8P9UtPc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70268623/wjoel_1777_180403_youtube_006.0.jpg' width='700px' /><br/>
-Google has warned that YouTube TV could lose access to over a dozen Disney-owned channels later this week if it's unable to renew its agreement with the company. In a blog post, YouTube TV says its current deal with Disney is due to expire this Friday, December 17th, after which the channels could disappear if it's unable to reach a new agreement.
-<a href='https://www.theverge.com/2021/12/14/22833849/youtube-tv-disney-carrier-dispute-abc-news-espn-december-17'> Source <a/>

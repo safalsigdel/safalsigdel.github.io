@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gyyOgNFupm7cxGG89biAe9AUVmM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70266776/1237162477.0.jpg' width='700px' /><br/>
-The Occupational Safety and Health Administration (OSHA) has opened an investigation into the collapse of an Amazon warehouse in Illinois that left six people dead. The damage was caused by a tornado that swept through the area Friday evening, leaving a path of destruction across three states.
-<a href='https://www.theverge.com/2021/12/13/22833012/amazon-fatal-warehouse-collapse-osha-investigation-illinois-tornado'> Source <a/>

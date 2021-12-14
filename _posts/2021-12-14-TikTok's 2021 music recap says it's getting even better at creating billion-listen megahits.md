@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k0vvlJC1G9DEBa_Cixi2QCuJUdA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70265997/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
-TikTok says that around 430 songs exceeded 1 billion video views on the platform this year, three times as many songs as last year, as noted in 2021's Year on TikTok Music Report. Some of the most popular songs in this bracket garnered around or above 20 billion views in videos that use them as soundtracks.
-<a href='https://www.theverge.com/2021/12/13/22832231/tiktok-2021-roundup-music-songs'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/O-OfFzXSv-3oqkoy2GCceTbNUHw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70265887/acastro_210511_1777_psRestock_0004.0.jpg' width='700px' /><br/>
-Update 4:20PM ET, December 13th: Walmart has run out of both PlayStation 5 and Xbox Series X consoles for today. It seems many people had success with this restock, and we hope you had some luck on your side!
-<a href='https://www.theverge.com/2021/12/13/22832709/ps5-playstation-5-xbox-series-x-xsx-restock-walmart-availability'> Source <a/>
