@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/24szwhtmG4k_AE1F4ZgXr4l1ppE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70264922/CC_Express_Social.0.jpg' width='700px' /><br/>
-Adobe knows there's a bigger audience of would-be creators out there than full-on pros, so it's launching a new app that attempts to open up some of its more powerful tools to amateurs. The app, called Creative Cloud Express, offers basic versions of image and video editing tools, letting users work with layers, AI effects, and a huge font library, all with a simplified interface that's supposed to make the features easier to use.
-<a href='https://www.theverge.com/2021/12/13/22828544/adobe-creative-cloud-express-app-announced-launch'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_wlbiUSByFXKpY8zA7zB3_t5II8=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70268469/1345757982.0.jpg' width='700px' /><br/>
+Today, as the year winds down, let's talk about what we learned in 2021 about the relationship between tech and democracy — and about where the most urgent questions lie as we head into 2022.
+<a href='https://www.theverge.com/2021/12/14/22833467/deplatforming-trump-didnt-work'> Source <a/>
