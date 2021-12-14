@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PmoU0WLYIdOulH74DfAadmXwSVc=/0x0:8272x6200/1200x800/filters:focal(3475x2439:4797x3761)/cdn.vox-cdn.com/uploads/chorus_image/image/70267439/Large_45017_HyundaiIONIQ5RedefinesElectricMobilityLifestyle.0.jpg' width='700px' /><br/>
+The Ioniq 5 is Hyundai's first electric car built on the company's new E-GMP platform, and its price tag has finally been confirmed. A press release from Hyundai reveals that the Ioniq 5 could set you back anywhere from $39,700 to $54,500, depending on which model you choose (via EV Pulse).
+<a href='https://www.theverge.com/2021/12/13/22833165/hyundai-ioniq-5-pricing-ev'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b-0sjhiaRyR_EBIF1jupm1umQLs=/0x0:2028x1024/1200x800/filters:focal(852x350:1176x674)/cdn.vox-cdn.com/uploads/chorus_image/image/70266679/FGSDy6WVkAET_Cv.0.jpeg' width='700px' /><br/>
+Instagram has added another strikingly familiar feature to Reels: the ability to add a user comment to a video (via TechCrunch). Now, if a user comments on a reel you've posted, tapping the “reply” button will let you add a sticker of the comment into a new reel, which you can then move around or change its color.
+<a href='https://www.theverge.com/2021/12/13/22832529/instagram-reels-visual-replies-feature-tiktok-copy'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BsoDtuZsJhyYYvpyghcqWeYjhFI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70266875/acastro_210119_1777_whatsapp_0003.0.jpg' width='700px' /><br/>
+WhatsApp is rolling out a new privacy measure that hides your “last seen” status from people you don't know or haven't chatted with in the app (via WABetaInfo). Previously, WhatsApp set the feature on “Everyone” by default, allowing anyone on WhatsApp to see your status. WhatsApp's new update limits the visibility of your status to the people you've added on the platform, and sets the feature to “My Contacts” by default instead.
+<a href='https://www.theverge.com/2021/12/13/22832943/whatsapp-privacy-last-seen-status'> Source <a/>

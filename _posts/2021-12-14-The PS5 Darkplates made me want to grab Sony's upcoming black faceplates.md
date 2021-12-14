@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/joSipIV6MHD_1E86LVTy1OAM7fI=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70266464/jpeters_211213_4919_0001.0.jpg' width='700px' /><br/>
+Sony has finally announced official PS5 faceplates in different colors, including red, pink, blue, purple, and — thankfully — black. But if you're looking for an easy way to change up the PS5's popped-collar aesthetic, you might want to check out Dbrand's new PS5 Darkplates 2.0, which are more rounded and add a grille on each side.
+<a href='https://www.theverge.com/2021/12/13/22832727/ps5-playstation-5-darkplates-2-0-dbrand-design'> Source <a/>

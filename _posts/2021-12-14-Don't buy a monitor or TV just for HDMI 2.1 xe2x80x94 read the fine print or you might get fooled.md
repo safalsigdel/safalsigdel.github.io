@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XY3VdL4FdOGVf2-i2lTEDeDvnIk=/0x0:1000x670/1200x800/filters:focal(420x255:580x415)/cdn.vox-cdn.com/uploads/chorus_image/image/70267758/shutterstock_123837283.1419979871.0.jpg' width='700px' /><br/>
+Four years running, we've been jazzed by the potential of HDMI 2.1 — the relatively new video connector standard that can provide variable refresh rates (VRR), automatic low latency connections (ALLM), and of course, a giant pipe with 48Gbps of bandwidth (and fixed rate signaling) to deliver up to 10K resolution and up to a 120Hz refresh rate depending on your cable and compression.
+<a href='https://www.theverge.com/2021/12/13/22833233/hdmi-2-1-fake-marketing-brand-frl-vrr-allm-bandwidth'> Source <a/>

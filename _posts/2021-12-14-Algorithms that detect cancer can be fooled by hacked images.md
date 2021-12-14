@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YbGB5ZnyTCdCAse5zdSm1xMrpLw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70268559/acastro_170629_1777_0008.0.jpg' width='700px' /><br/>
+Artificial intelligence programs that check medical images for evidence of cancer can be duped by hacks and cyberattacks, according to a new study. Researchers demonstrated that a computer program could add or remove evidence of cancer from mammograms, and  those changes fooled both an AI tool and human radiologists.
+<a href='https://www.theverge.com/2021/12/14/22831966/hackers-mammogram-ai-cancer-fake-images'> Source <a/>
