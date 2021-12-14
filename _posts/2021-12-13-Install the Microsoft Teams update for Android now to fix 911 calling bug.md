@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cQnT_jv_uGS2TDagboJWBDtuV4c=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70261418/1208744069.0.jpg' width='700px' /><br/>
-Microsoft Teams has rolled out a fix for the dangerous bug that could prevent Android users from calling 911 — and you'll want to install it ASAP (via Android Police). In his analysis of the issue on Medium, Mishaal Rahman, the senior technical editor at Esper, explains that Microsoft has corrected the issue in an update for the Teams app.
-<a href='https://www.theverge.com/2021/12/12/22830599/microsoft-teams-911-calling-bug-update'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Voq6u50Wn86VxoiAN0e37i5SvIU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70265537/acastro_210113_1777_gamingstock_0002.0.jpg' width='700px' /><br/>
+We've heard you: many of you are still trying to secure a new video game system, and we've done what we can to help people find them. But now, a year after the “next-gen” PlayStation 5, Xbox Series X, and Xbox Series S consoles debuted, they're still in short supply — and the same goes for Nintendo's Switch and Switch OLED.
+<a href='https://www.theverge.com/2021/12/13/22832376/ps5-xbox-series-x-s-nintendo-switch-hardware-sales-npd'> Source <a/>

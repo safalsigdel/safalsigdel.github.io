@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WGwwifmOuZ4xT0Bz_i3azOie2hk=/0x0:2040x1360/1200x800/filters:focal(1028x381:1354x707)/cdn.vox-cdn.com/uploads/chorus_image/image/70263746/akrales210108_4344_0103.0.jpg' width='700px' /><br/>
-Peloton has responded to a plot-line in HBO Max's new Sex and the City reboot, And Just Like That..., turning around a commercial in less than 48 hours after the company's stock continued to plummet in reaction to events on the TV show over the weekend.
-<a href='https://www.theverge.com/2021/12/13/22831861/peloton-and-just-like-that-big-commercial-response'> Source <a/>

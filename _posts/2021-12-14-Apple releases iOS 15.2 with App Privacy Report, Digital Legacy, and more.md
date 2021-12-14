@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sMH9WlmAL8yfHUQQ7Z6Sq5czBPg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70265498/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
+Apple's iOS 15.2, which includes a ton of features and fixes, has started to become roll out to iPhones after an extensive beta period. According to Apple's release notes, posted by 9to5Mac and MacRumors, the update includes:
+<a href='https://www.theverge.com/2021/12/13/22828226/apple-ios-15-2-iphone-update-digital-legacy-music-macro-app-privacy'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/20OGDXArG9UNrtauZj-1OBjqp70=/0x0:4096x2728/1200x800/filters:focal(1721x1037:2375x1691)/cdn.vox-cdn.com/uploads/chorus_image/image/70262209/1228795725.0.jpg' width='700px' /><br/>
-Long-time Fox News Sunday host Chris Wallace is leaving the network to join CNN's upcoming streaming service, CNN Plus, as noted in a press release from CNN.
-<a href='https://www.theverge.com/2021/12/12/22830975/chris-wallace-cnn-plus-streaming'> Source <a/>

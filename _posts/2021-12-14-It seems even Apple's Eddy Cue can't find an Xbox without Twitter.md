@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+More than a year after their release, the Xbox Series X and Series S consoles are still very difficult to find — and it seems that even Eddy Cue, Apple's senior vice president of services, is looking for some tips on Twitter on how to snag one of the elusive consoles. According to the Big Tech Alert Twitter account, he followed @XboxStockAlerts, an account that posts about Xbox console restocks, on Monday evening.
+<a href='https://www.theverge.com/tldr/2021/12/13/22833362/apple-eddy-cue-xbox-help-twitter-stock-alerts'> Source <a/>

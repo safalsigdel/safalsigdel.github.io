@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e9LpQJ_o7tPq1hGj23zx_RoAuSI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70266865/bfarsace_211014_4802_0002.0.jpg' width='700px' /><br/>
+The Pixel 6 and Pixel 6 Pro are today receiving their most significant software update since Google released the phones in October. Last week, the company detailed a very lengthy list of bug fixes and improvements that are included in the December update, which has now started rolling out to both devices according to Redditors.
+<a href='https://www.theverge.com/2021/12/13/22832212/google-pixel-6-pro-december-update-bug-fixes-fingerprint-sensor'> Source <a/>

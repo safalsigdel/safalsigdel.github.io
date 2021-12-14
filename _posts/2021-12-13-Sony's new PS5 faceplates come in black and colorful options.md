@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wu4vHFGO8zItQYh0tNj46yMFnZ4=/0x0:2048x1152/1200x0/filters:focal(0x0:2048x1152):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23084158/1790751e1d0cf704f4a5ce139e562c0f63df5762_scaled.jpg' width='700px' /><br/>
-Sony is finally announcing its own custom covers for the PS5. The console covers will be available in black, red, pink, blue, and purple, and will work on both the regular PS5 and PS5 Digital Edition. Sony is releasing the black and red PS5 console covers in January in most markets where the PS5 is sold, with the other colors to follow in the first half of 2022.
-<a href='https://www.theverge.com/2021/12/13/22831965/sony-ps5-covers-faceplates-colors-new-controllers'> Source <a/>
