@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eYjOMcNz6_qgGqmDScYlOPkY6ME=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/70273711/IBM_VTFET_06_Edit.0.jpg' width='700px' /><br/>
+IBM and Samsung have announced their latest advance in semiconductor design: a new way to stack transistors vertically on a chip (instead of lying flat on the surface of the semiconductor).
+<a href='https://www.theverge.com/2021/12/14/22834895/ibm-samsung-vtfet-transistor-technology-advancement-battery-life-smartphone-semiconductor'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ugaYqyFM7DTAy4P0c9bLRsUdd40=/0x0:3822x2400/1200x800/filters:focal(1847x701:2457x1311)/cdn.vox-cdn.com/uploads/chorus_image/image/70270201/android12_go_edition.0.png' width='700px' /><br/>
+Android Go, the lightweight version of the full-featured OS, has officially reached over 200 million daily users. Google first launched Android Go in 2017, offering a smoother Android experience for users on entry-level devices with 2GB of RAM or less.
+<a href='https://www.theverge.com/2021/12/14/22833932/android-go-edition-200-million-daily-users-12-update'> Source <a/>

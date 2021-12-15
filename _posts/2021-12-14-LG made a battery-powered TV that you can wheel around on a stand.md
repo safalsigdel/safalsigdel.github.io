@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1M8n7sbMSN3DjKKHaAfva32iIBc=/0x0:2040x1318/1200x800/filters:focal(527x164:853x490)/cdn.vox-cdn.com/uploads/chorus_image/image/70267630/LG_StanbyME_Kitchen.0.jpg' width='700px' /><br/>
-CES 2022 is only a few short weeks away, and you can bet we'll see a ton of news surrounding the latest, flashiest TVs with OLED, Mini LED, MicroLED, and more. But before we get there, LG is making an early announcement to put a spotlight on two unconventional TVs that are coming next year in addition to whatever the company has in store for CES.
-<a href='https://www.theverge.com/2021/12/13/22832356/lg-stanbyme-portable-tv-objet-announced-design-specs'> Source <a/>

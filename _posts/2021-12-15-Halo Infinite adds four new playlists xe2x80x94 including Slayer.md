@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ukK-YsVe8Jj97UR2KKKWkHBwpV4=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/70259864/HaloInfinite_Inline3.0.jpg' width='700px' /><br/>
+Update December 14th, 2:45PM ET: The new playlists are now available. As noted in Halo Waypoint, there are also five new playlist-specific challenges that let you earn XP based on performance and gameplay.
+<a href='https://www.theverge.com/2021/12/11/22829744/halo-infinite-playlists-slayer'> Source <a/>

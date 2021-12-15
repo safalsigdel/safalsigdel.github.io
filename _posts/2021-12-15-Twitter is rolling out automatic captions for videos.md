@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uqDKBkpLBWwYGIx5O4L4Zv_DoYs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70270186/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+In a major boon for accessibility, Twitter is now rolling out automatic captions for videos, the company announced Tuesday. Auto captions will be available globally on iOS, Android, and the web in “most languages,” according to Twitter.
+<a href='https://www.theverge.com/2021/12/14/22834366/twitter-automatic-live-captions-videos'> Source <a/>

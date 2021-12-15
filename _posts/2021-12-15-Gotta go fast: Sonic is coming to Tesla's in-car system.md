@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RqFspRaiZKeAwe1G0l3u6KwZtbA=/0x0:4032x3024/1200x800/filters:focal(1711x1305:2355x1949)/cdn.vox-cdn.com/uploads/chorus_image/image/70271209/IMG_0936.0.jpeg' width='700px' /><br/>
+Sega is bringing back the original 1991 Sonic the Hedgehog game — this time for Tesla Arcade. A PR representative for the company told The Verge that Sonic the Hedgehog 1 will be available on all Tesla models but did not share a timeline.
+<a href='https://www.theverge.com/2021/12/14/22834023/sega-genesis-sonic-1-tesla-arcade'> Source <a/>

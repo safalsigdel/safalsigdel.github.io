@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4LLljkNnNoKmghBSXSgFNJY5-_0=/0x0:1967x1311/1200x800/filters:focal(827x499:1141x813)/cdn.vox-cdn.com/uploads/chorus_image/image/70270101/snap_story_studio.0.jpg' width='700px' /><br/>
+Snap has launched a standalone video editing app called Story Studio, which is meant to give creators more precise editing control over vertical videos and allow them to add elements like text, trending audio, and AR lenses. First announced in May, the app is now available as an “early version” to iOS users in the US, UK, and Canada.
+<a href='https://www.theverge.com/2021/12/14/22834234/snap-story-studio-video-editing-app-mobile'> Source <a/>

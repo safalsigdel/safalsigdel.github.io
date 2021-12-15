@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D-zIpkPnjVEdfz2HrEPOIH4YGlk=/0x0:1666x1032/1200x800/filters:focal(700x383:966x649)/cdn.vox-cdn.com/uploads/chorus_image/image/70270871/Screen_Shot_2021_12_14_at_2.32.32_PM.0.png' width='700px' /><br/>
+Adobe has updated Photoshop for the iPad with two crucial new tools — the smudge and sponge tools, which have been mainstays on the desktop version of the app but absent on mobile until now.
+<a href='https://www.theverge.com/2021/12/14/22834232/adobe-photoshop-ipad-smudge-sponge-tools-premiere-pro-m1-macs'> Source <a/>

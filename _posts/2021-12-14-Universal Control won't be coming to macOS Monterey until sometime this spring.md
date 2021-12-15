@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JcaLhhISgzlhY77ydyqoUSMNJWo=/0x0:1630x1102/1200x800/filters:focal(685x421:945x681)/cdn.vox-cdn.com/uploads/chorus_image/image/70266228/Screen_Shot_2021_06_07_at_7.37.19_PM.0.png' width='700px' /><br/>
-Apple's Universal Control feature has been delayed again, with the company's website updating today to note that the drag-and-drop feature won't be arriving until sometime “this spring,” as spotted by the AppleSWUpdates Twitter account.
-<a href='https://www.theverge.com/2021/12/13/22832765/universal-control-apple-macos-monterey-ipad-delay-spring'> Source <a/>

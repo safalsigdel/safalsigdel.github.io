@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7lXgUSGK_-3AMdPMsWfK1oqzVRM=/0x0:720x480/1200x800/filters:focal(303x183:417x297)/cdn.vox-cdn.com/uploads/chorus_image/image/70273793/NOAA-sea-ice-loss.0.jpg' width='700px' /><br/>
+Climate change continues to create “cascading disruptions” in the Arctic as the region experiences rapid warming, the National Oceanic and Atmospheric Association (NOAA) writes in its 16th annual Arctic Report Card released earlier today.
+<a href='https://www.theverge.com/2021/12/14/22834760/arctic-rising-temperatures-noaa-climate-change'> Source <a/>

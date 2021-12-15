@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NkMoJwGYAMQcdfHDQclrMrnl6jY=/0x0:1920x1218/1200x800/filters:focal(807x456:1113x762)/cdn.vox-cdn.com/uploads/chorus_image/image/70268393/3._OPPO_Air_Glass_Weather_Notification.0.jpg' width='700px' /><br/>
-Oppo has announced the Air Glass, an AR device that'll go on sale early next year. Oppo describes the Air Glass as an “assisted reality” product, as opposed to augmented reality, meaning it projects 2D information into your field of view rather than overlaying 3D objects onto the real world. (Yes, sort of like Google Glass.)
-<a href='https://www.theverge.com/2021/12/14/22833796/oppo-air-glass-ar-glasses-announced-china-release-date'> Source <a/>

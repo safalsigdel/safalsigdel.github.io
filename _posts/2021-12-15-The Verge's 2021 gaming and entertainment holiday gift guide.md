@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_RGcrzqIwQH1fWUD4htIq9YheXk=/0x0:2048x1367/1200x480/filters:focal(861x521:1187x847)/cdn.vox-cdn.com/uploads/chorus_image/image/70144179/Gaming.0.jpg' width='700px' /><br/>
+For better or worse, all of our recent time indoors has turned many of us into gamers and entertainment connoisseurs, whether that means tucking into a crossword puzzle on a regular basis or putting a high-end gaming desktop through its paces. Thankfully, if you're looking to gift something great this holiday season or treat yourself, we have a few suggestions that should appease that special nerd in your life.
+<a href='https://www.theverge.com/22747287/gaming-entertainment-gift-guide-2021-nintendo-playstation-xbox-gadgets-accessories'> Source <a/>
