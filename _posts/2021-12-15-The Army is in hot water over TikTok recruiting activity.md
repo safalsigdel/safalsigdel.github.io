@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ihy66M_FQKnLfQeXZibwaRuNX_c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70270065/acastro_200713_1777_tikTok_0001.0.0.jpg' width='700px' /><br/>
-The US Army is facing pressure from Sen. Marco Rubio (R-FL) after recruiters were caught using TikTok to find leads on young Americans to enlist, despite orders banning the app's use on government devices.
-<a href='https://www.theverge.com/2021/12/14/22834405/tiktok-army-marco-rubio-ban-report-government-personal-devices'> Source <a/>
