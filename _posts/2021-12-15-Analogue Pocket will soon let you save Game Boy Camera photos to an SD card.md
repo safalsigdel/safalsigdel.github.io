@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v1a9quK2vnU2Gg_9ViaUq2wo8rU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70275245/vpavic_211129_4897_0030.0.jpg' width='700px' /><br/>
-The Analogue Pocket, a modern handheld console that can play old Game Boy cartridges, already supports Nintendo's classic 1998 Game Boy Camera accessory. But with an upcoming firmware update, Gizmodo reports that you'll be able to actually do something with the low-resolution, grayscale, and yet utterly cool photographs it takes. Namely: transfer them to a microSD card.
-<a href='https://www.theverge.com/2021/12/15/22837237/analogue-pocket-game-boy-camera-microsd-sd-card-photos-transfer'> Source <a/>

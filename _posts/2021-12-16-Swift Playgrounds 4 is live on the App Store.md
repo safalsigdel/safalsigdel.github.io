@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gnr_mqFjF1cbk1JPvF77nzfjx3Y=/0x0:2400x1714/1200x800/filters:focal(1008x665:1392x1049)/cdn.vox-cdn.com/uploads/chorus_image/image/70278649/12152021_iPad_Swift_Launch_create_ipad_screen.0.png' width='700px' /><br/>
+Apple's Swift Playgrounds 4 is upon us. Announced earlier this year at Apple's WWDC, the new app allows users to develop apps for iOS and iPadOS directly on an iPad. You can preview apps in real time while you work on them and send them directly to the App Store when you're done. The program is now live on the App Store for iPad.
+<a href='https://www.theverge.com/2021/12/15/22838251/apple-swift-playgrounds-4-ipad-apps-coding-xcode'> Source <a/>

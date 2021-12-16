@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RGnykx4i_DR90OmHw2z7fGP8Gq0=/0x0:2040x1360/1200x675/filters:focal(895x749:1221x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/70275621/akrales_211207_4912_0055.0.jpg' width='700px' /><br/>
-The Amazon Halo View looks like a Fitbit and acts like a Fitbit, and if that's all it did, that would've been fine. But despite all appearances, this is not a Fitbit. To stand apart from the crowd, Amazon added a few exclusive features to its Halo platform with some admittedly impressive technology. However, instead of a straightforward, budget fitness tracker, Amazon created a baffling device that doesn't quite know what it's supposed to be.
-<a href='https://www.theverge.com/22834452/amazon-halo-view-review-fitness-trackers'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XS92XLiBCG8GfldVdAV4vcP2uDk=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70275149/maxresdefault.0.jpg' width='700px' /><br/>
-Microsoft is planning to make its Windows Terminal the default command line experience in Windows 11 next year. While Windows 11 currently supports setting Windows Terminal as default, the default terminal emulator has always been the Windows Console Host. Microsoft hasn't ever officially supported replacing this console host, meaning that command prompt and PowerShell always open in Windows Console Host.
-<a href='https://www.theverge.com/2021/12/15/22837218/microsoft-windows-terminal-default-windows-11-changes'> Source <a/>

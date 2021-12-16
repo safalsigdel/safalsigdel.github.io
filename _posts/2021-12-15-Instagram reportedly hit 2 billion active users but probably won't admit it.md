@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NBWtSiNOSg40rvuN9CPLq_9HZRs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70273743/acastro_190919_1777_instagram_0003.0.0.jpg' width='700px' /><br/>
-Instagram has reportedly climbed to 2 billion monthly active users, that is according to anonymous employees who broke the news to CNBC. The Meta-owned company hasn't — and probably won't — officially disclosed these numbers, as it has spent the last several months under scrutiny for potentially causing harm to kids and teens.
-<a href='https://www.theverge.com/2021/12/14/22834571/instagram-2-billion-active-users'> Source <a/>

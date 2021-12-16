@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2dGmdkkSTMH70cMOqYmFweHksyM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70275103/IMG_1126.0.jpg' width='700px' /><br/>
-After teasing its first folding phone last week, Oppo is revealing the Find N in full today. Oppo's chief product officer Pete Lau told reporters in a briefing that the company has been working on this phone since 2018, with the final Find N the result of six generations of internal development. I can believe it — I've been using it since last week, and it's a surprisingly impressive and refined product.
-<a href='https://www.theverge.com/2021/12/15/22837149/oppo-find-n-hands-on-announcement-specs-price'> Source <a/>

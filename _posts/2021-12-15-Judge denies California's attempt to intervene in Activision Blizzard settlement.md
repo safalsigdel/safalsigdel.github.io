@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HnOWJ7k6kYoexOY2eJBmwD4m0M8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70271587/acastro_210729_1777_blizzard_0001.0.jpg' width='700px' /><br/>
-Today in federal court, a judge said she will deny the state of California's attempt to intervene in the $18 million settlement between Activision Blizzard and the EEOC, according to a report from Bloomberg.
-<a href='https://www.theverge.com/2021/12/14/22834691/judge-denies-california-dfeh-block-activision-blizzard-eeoc-lawsuit-settlement'> Source <a/>

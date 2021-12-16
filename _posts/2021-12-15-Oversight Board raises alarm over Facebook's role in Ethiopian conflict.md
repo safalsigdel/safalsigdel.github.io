@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5KX5Et8qD9t-C6gR3XEPfDuxBpE=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70270267/acastro_180928_1777_facebook_hack_0001.0.jpg' width='700px' /><br/>
-The Oversight Board set up by Facebook issued a decision today calling on the platform to begin an independent assessment of the platform's role in heightening the risk of violence in Ethiopia, as part of a more specific ruling on a post that made unfounded claims about Tigrayan civilians.
-<a href='https://www.theverge.com/2021/12/14/22834290/facebook-ethiopia-tigray-hate-speech-moderation-oversight-board-ruling'> Source <a/>

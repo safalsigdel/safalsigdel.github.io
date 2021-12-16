@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xZGj4ajWx4SIoK4P7peLnambqac=/0x0:2100x1500/1200x800/filters:focal(882x582:1218x918)/cdn.vox-cdn.com/uploads/chorus_image/image/70279144/5g_snake_2.0.jpg' width='700px' /><br/>
+AT&T has re-imagined the classic Snake game in a new, interactive, and wholly unnecessary way in an effort to promote the capabilities of its 5G network. Called Warp Speed Worm, it's an AR effect that can be used on Instagram and Facebook Messenger video calls.
+<a href='https://www.theverge.com/2021/12/15/22837902/att-5g-ar-snake-warp-speed-worm-messenger-instagram'> Source <a/>

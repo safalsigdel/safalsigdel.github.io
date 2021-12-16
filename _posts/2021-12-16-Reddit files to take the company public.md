@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xh88QXJ1Uy9y-xNnLbRnguMk6GQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70279872/acastro_180413_1777_reddit_0001.0.jpg' width='700px' /><br/>
+Reddit announced late Wednesday that it has started the process of taking the company public, by filing a confidential S-1 with the Securities and Exchange Commission.
+<a href='https://www.theverge.com/2021/12/15/22838901/reddit-going-public-sec-s-1-filing-confidential'> Source <a/>

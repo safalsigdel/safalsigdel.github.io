@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/56GaLLSxO7lBeKHTjbCL6bNwHTU=/0x0:1024x683/1200x800/filters:focal(431x261:593x423)/cdn.vox-cdn.com/uploads/chorus_image/image/70270315/ps4.0.0.0.jpg' width='700px' /><br/>
-Hackers have jailbroken the PS4 with a new kernel exploit, according to Wololo.net, a website that covers jailbreaking news, seemingly opening the door for people to run things like homebrew apps on Sony's last-gen consoles. The jailbreak is called “pOOBs4.”
-<a href='https://www.theverge.com/2021/12/14/22834264/ps4-ps5-jailbreak-playstation-poobs4'> Source <a/>

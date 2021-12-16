@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kqy2CaljV6jh85JU-RIRUM8P3sM=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/70270758/microsoftteams.0.jpg' width='700px' /><br/>
-Microsoft is rolling out end-to-end encryption (E2EE) support for Microsoft Teams. After announcing the feature earlier this year and testing a public preview since October, Microsoft Teams is getting the added E2EE security support for all one-to-one calls. An update is rolling out to all Teams users today, giving IT admins the option to enable and control E2EE for one-to-one calls.
-<a href='https://www.theverge.com/2021/12/14/22834634/microsoft-teams-end-to-end-encryption-support-e2ee-available-now'> Source <a/>

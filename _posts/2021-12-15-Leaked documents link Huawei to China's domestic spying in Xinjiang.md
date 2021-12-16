@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/E7QGHY1PHiTRXQGPAnfbYUmNcLc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70274071/acastro_190521_1777_huawei_0003.0.0.jpg' width='700px' /><br/>
-Huawei was involved in building technology for labor and reeducation camps, as well as surveillance systems in China's Xinjiang region, according to PowerPoint presentations obtained and translated by The Washington Post. The report shows some of the ways the tech giant's work may have been involved in the persecution against ethnic minorities in the region.
-<a href='https://www.theverge.com/2021/12/14/22834860/huawei-leaked-documents-xinjiang-region-uyghur-facial-recognition-prisons-surveillance'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EekBbvUOCrL7WqdgurWdrq7p8bg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70270379/acastro_190530_1777_wwdc_2019_0001.0.0.png' width='700px' /><br/>
-Apple is again requiring customers to wear masks in all its US retail stores after it had reportedly rolled back the mandate for around half of its locations. In an email to The Verge, the company said that “amid rising cases in many communities, we now require that all customers join our team members in wearing masks while visiting our stores.”
-<a href='https://www.theverge.com/2021/12/14/22834419/apple-retail-store-mask-requirement-december-2021-omicron-covid'> Source <a/>

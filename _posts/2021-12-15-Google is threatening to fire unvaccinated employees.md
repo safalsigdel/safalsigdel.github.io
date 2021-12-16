@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AOM-j0C_Rerk42KnhuVhiljXhx8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70274649/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Google employees who haven't been vaccinated could be put on forced leave and then let go from the company if they fail to follow its COVID-19 rules, according to an internal memo obtained by CNBC. The policy will reportedly affect employees that would have fallen under the jurisdiction of President Biden's vaccine mandate, which is currently facing challenges in the Senate and court system.
-<a href='https://www.theverge.com/2021/12/14/22836575/google-unvaccinated-employees-mandate-unpaid-leave-termination-remote-work'> Source <a/>

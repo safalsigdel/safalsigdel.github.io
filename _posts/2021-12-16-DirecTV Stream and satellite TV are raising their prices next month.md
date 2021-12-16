@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tEdhOxuiLZBpbJpbEJiBGoLZS7s=/0x0:4000x2667/1200x800/filters:focal(2660x1399:3300x2039)/cdn.vox-cdn.com/uploads/chorus_image/image/70279287/488453459.0.jpg' width='700px' /><br/>
+DirecTV's satellite and Stream services are getting price increases in January — hikes that the company attributed to rising programming costs as well as “higher-than-normal inflation across our suppliers.”
+<a href='https://www.theverge.com/2021/12/15/22838593/directv-stream-satellite-price-increase-january-2022'> Source <a/>
