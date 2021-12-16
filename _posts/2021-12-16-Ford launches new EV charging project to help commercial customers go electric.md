@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D-SU9gCSywrZhqFpz16imdlbfHU=/0x0:6038x3396/1200x800/filters:focal(2536x1215:3502x2181)/cdn.vox-cdn.com/uploads/chorus_image/image/70280442/FordPro_Depot_Charging.0.jpg' width='700px' /><br/>
+Ford is launching a new project to help its commercial customers switch to electric vehicles by selling them EV charging installation equipment and software management tools.
+<a href='https://www.theverge.com/2021/12/16/22838465/ford-pro-charging-ev-f150-lightning-e-transit-commercial'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/D9GW7oiiXSdwhiP3jqTfvGz_kCQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70280364/acastro_190723_1777_tiktok_0003.0.0.jpg' width='700px' /><br/>
+TikTok is testing a new piece of desktop streaming software called TikTok Live Studio that lets users broadcast live footage from games and other desktop applications, TechCrunch reports. The software is currently being tested with a small number of users across some Western markets, TikTok says, but its official page on TikTok's site appears to have been taken down as of publication.
+<a href='https://www.theverge.com/2021/12/16/22839213/tiktok-live-studio-desktop-live-streaming-twitch'> Source <a/>

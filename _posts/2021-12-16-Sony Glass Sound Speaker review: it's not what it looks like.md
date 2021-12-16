@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ejKRiLau4xxKxjDk7Pl64fXdv54=/0x0:2040x1360/1200x675/filters:focal(907x603:1233x929)/cdn.vox-cdn.com/uploads/chorus_image/image/70277377/DSCF6956_2.0.jpg' width='700px' /><br/>
-Every so often, you get a reminder that Weird Sony is still alive and well. The company might be releasing best-in-class wireless earbuds, gorgeous OLED TVs, and premium soundbars, but it also still dabbles in unusual gadgets that stand no chance of appealing to a mass audience.
-<a href='https://www.theverge.com/22834645/sony-glass-sound-speaker-lspxs3-review'> Source <a/>
