@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nKbgJrMesaZzQjZJwnFF29OIik0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70278294/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
+Apple has closed three of its retail stores following increased COVID-19 exposures and cases among employees, according to Bloomberg.
+<a href='https://www.theverge.com/2021/12/15/22838172/apple-stores-close-retail-covid-19-cases-infections'> Source <a/>

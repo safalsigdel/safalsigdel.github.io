@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/C5TUsfky8B9Zo10LXil5TbwxnrA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70277440/GMC_Electric_Sierra_Denali.0.jpg' width='700px' /><br/>
 The GMC Sierra Denali full-size pickup truck is going electric. The automaker teased the first image of the upcoming EV much in the same way it did with the Hummer EV truck — by only showing off its front end.
+<a href='https://www.theverge.com/2021/12/15/22837827/gmc-sierra-denali-ev-electric-pickup-truck-tease'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/C5TUsfky8B9Zo10LXil5TbwxnrA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70277440/GMC_Electric_Sierra_Denali.0.jpg' width='700px' /><br/>
+The GMC Sierra Denali full-size pickup truck is going electric. The automaker teased the first image of the upcoming EV much in the same way it did with the Hummer EV truck — by only showing off its front end.
 <a href='https://www.theverge.com/2021/12/15/22837827/gmc-sierra-denali-ev-electric-pickup-truck-tease'> Source <a/>
