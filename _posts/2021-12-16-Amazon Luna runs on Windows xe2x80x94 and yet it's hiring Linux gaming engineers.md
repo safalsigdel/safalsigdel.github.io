@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E8I1Gq-C1B4mpanPfRHAiwq5Bu4=/0x0:861x656/1200x800/filters:focal(363x260:499x396)/cdn.vox-cdn.com/uploads/chorus_image/image/70278733/msedge_r3ufclrsdh.0.jpg' width='700px' /><br/>
+When Amazon's cloud gaming service Luna launched last October, the fact it ran on Windows set it apart. Unlike Google Stadia, it wouldn't necessarily need to convince developers to painstakingly port their games to an unproven platform. But it now appears that Amazon is considering a shift to Linux-based servers, too — the company is hiring three software engineers to bring Windows games to Linux (via Phoronix).
+<a href='https://www.theverge.com/2021/12/15/22827185/amazon-luna-linux-windows-proton-cloud-gaming-jobs-hiring'> Source <a/>
