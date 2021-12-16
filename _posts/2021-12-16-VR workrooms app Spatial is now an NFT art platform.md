@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7fWj2wsnzI90627GcVz2s708Ae0=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70278228/RVML7Los.0.png' width='700px' /><br/>
-Spatial, an early player in virtual reality workroom apps, is changing its focus to virtual art galleries showcasing non-fungible tokens, or NFTs. The company announced the news yesterday alongside a $25 million funding round. It's a potential indication of where some “metaverse” tech might be going in the near future — namely, away from VR-heavy, work-focused experiences and toward more entertainment.
-<a href='https://www.theverge.com/2021/12/15/22834652/spatial-vr-nft-virtual-world-galleries-pivot'> Source <a/>

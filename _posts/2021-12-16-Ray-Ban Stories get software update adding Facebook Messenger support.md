@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WrirbS2uvSItV849xPz75nX27rA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70278490/alopez_210907_4736_0006.0.jpg' width='700px' /><br/>
-The Ray-Ban Stories smart glasses are getting the ability to let you send and receive Facebook Messenger messages right from your face, according to a Wednesday post by Meta CEO Mark Zuckerberg. He says that the features being rolled out are just the beginning for the product, which was made in partnership with eyewear titan Luxottica.
-<a href='https://www.theverge.com/2021/12/15/22838234/ray-bans-stories-meta-facebook-messenger-read-send-texts-volume-control'> Source <a/>
