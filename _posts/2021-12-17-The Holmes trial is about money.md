@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1cdrXQ3JHwp7kFlYdkqMaKOpiKk=/0x0:4000x2666/1200x675/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/70284418/1237270984.0.jpg' width='700px' /><br/>
-Prosecutor Jeffrey Schenk opened his closing arguments in the case against Elizabeth Holmes by talking about a banker. Holmes knew Theranos, the company she founded, was running out of money, and she was on the phone asking her banker to clear a check early.
-<a href='https://www.theverge.com/2021/12/16/22840697/holmes-trial-theranos-closing-arguments'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/1cdrXQ3JHwp7kFlYdkqMaKOpiKk=/0x0:4000x2666/1200x675/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/70284418/1237270984.0.jpg' width='700px' /><br/>
-Prosecutor Jeffrey Schenk opened his closing arguments in the case against Elizabeth Holmes by talking about a banker. Holmes knew Theranos, the company she founded, was running out of money, and she was on the phone asking her banker to clear a check early.
-<a href='https://www.theverge.com/2021/12/16/22840697/holmes-trial-theranos-closing-arguments'> Source <a/>
