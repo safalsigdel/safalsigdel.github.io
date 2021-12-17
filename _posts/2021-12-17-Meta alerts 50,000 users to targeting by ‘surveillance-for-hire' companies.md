@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/41tqnTCrCLz7ZnJ-QqGtmBcSVs0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70283497/acastro_211101_1777_meta_0002.0.jpg' width='700px' /><br/>
 Facebook's parent company Meta has alerted 50,000 users of Facebook and Instagram that their accounts were spied on by commercial “surveillance-for-hire” schemes around the globe.
+<a href='https://www.theverge.com/2021/12/16/22840296/meta-alerts-50000-users-targeting-by-surveillance-for-hire-nso'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/41tqnTCrCLz7ZnJ-QqGtmBcSVs0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70283497/acastro_211101_1777_meta_0002.0.jpg' width='700px' /><br/>
+Facebook's parent company Meta has alerted 50,000 users of Facebook and Instagram that their accounts were spied on by commercial “surveillance-for-hire” schemes around the globe.
 <a href='https://www.theverge.com/2021/12/16/22840296/meta-alerts-50000-users-targeting-by-surveillance-for-hire-nso'> Source <a/>
