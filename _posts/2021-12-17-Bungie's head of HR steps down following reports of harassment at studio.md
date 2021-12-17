@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/szOZsPG6pApH4FKaG_gcPKF6k8U=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70282604/696030068.0.jpg' width='700px' /><br/>
 Days after IGN's report highlighting Bungie's years-long struggle with harassment, abuse, and crunch conditions, Gayle d'Hondt, head of HR, is stepping down.
+<a href='https://www.theverge.com/2021/12/16/22839888/bungie-toxic-work-culture-hr-head-steps-down-destiny-2'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/szOZsPG6pApH4FKaG_gcPKF6k8U=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70282604/696030068.0.jpg' width='700px' /><br/>
+Days after IGN's report highlighting Bungie's years-long struggle with harassment, abuse, and crunch conditions, Gayle d'Hondt, head of HR, is stepping down.
 <a href='https://www.theverge.com/2021/12/16/22839888/bungie-toxic-work-culture-hr-head-steps-down-destiny-2'> Source <a/>
