@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B8U5l5kYRettKwckKlTbgrX6etc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70283388/acastro_210512_1777_deepfake_0001.0.jpg' width='700px' /><br/>
-France's foremost privacy regulator has ordered Clearview AI to delete all its data relating to French citizens, as first reported by TechCrunch.
-<a href='https://www.theverge.com/2021/12/16/22840179/france-cnil-clearview-ai-facial-recognition-privacy-gdpr'> Source <a/>
