@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gd_rWLcLDiEq5JdaNltajVEYb3U=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70282875/VRG_1777_Android_12_002.0.jpg' width='700px' /><br/>
+HMD Global offered its first Android 12 update this week, starting with the midrange Nokia X20. The company says users in this first wave will receive the update by December 17th.
+<a href='https://www.theverge.com/2021/12/16/22839883/nokia-x20-android-12-update'> Source <a/>

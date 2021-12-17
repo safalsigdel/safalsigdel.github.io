@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sRaIf1B-hIr6W1_syDX2dwlFDBY=/0x0:1800x1197/1200x800/filters:focal(728x315:1016x603)/cdn.vox-cdn.com/uploads/chorus_image/image/70284664/LG_OLED_Pro_Monitor_00_1200.0.jpg' width='700px' /><br/>
+In 2021 LG added an OLED-based monitor for pros to its lineup, and now the company has revealed the follow-up UltraFine OLED Pro monitors it's planned for 2022. While its first effort was only available as a $3,999 31.5-inch 4K monitor, next year's version will include a 27-inch variant.
+<a href='https://www.theverge.com/2021/12/16/22840813/lg-ultrafine-oled-pro-monitor-2022-ces'> Source <a/>
