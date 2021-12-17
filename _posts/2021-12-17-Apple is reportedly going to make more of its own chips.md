@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dNH6LAnMptUUkPwkUwOjoKpl-3k=/0x0:2028x1352/1200x800/filters:focal(852x514:1176x838)/cdn.vox-cdn.com/uploads/chorus_image/image/70282305/vpavic_210916_4760_0082.0.jpg' width='700px' /><br/>
-Apple is reportedly working to design more chip components in-house, with the company said to be establishing a new office with the aim of replacing components that Apple currently sources from Broadcom and Skyworks, according to Bloomberg.
-<a href='https://www.theverge.com/2021/12/16/22839850/apple-office-develop-chips-in-house-broadcom-skyworks'> Source <a/>
