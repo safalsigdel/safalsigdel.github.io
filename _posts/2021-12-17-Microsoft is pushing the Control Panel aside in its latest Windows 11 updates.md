@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lpImwVgWMIaqwcIQZXUaDwT5kQM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70285034/VRG_ILLO_4030_Windows_10_Guide_001.0.jpg' width='700px' /><br/>
-Microsoft is finally signaling the end of the legacy Control Panel in Windows 11. The software giant introduced a number of changes in its Settings section of Windows 11 earlier this year, and this month the company has started testing even more ways to replace Control Panel functionality.
-<a href='https://www.theverge.com/2021/12/17/22841028/microsoft-windows-11-control-panel-changes'> Source <a/>

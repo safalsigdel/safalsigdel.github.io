@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8FQBDUkhpHBKRzaCXeVpDlRYVJM=/0x0:2160x1447/1200x800/filters:focal(908x552:1252x896)/cdn.vox-cdn.com/uploads/chorus_image/image/70284320/Supernatural_VR.0.jpg' width='700px' /><br/>
-The U.S. Federal Trade Commission has opened an in-depth antitrust probe of Meta's plan to buy the popular VR fitness app Supernatural, according to a new report by The Information.
-<a href='https://www.theverge.com/2021/12/16/22840635/ftc-opens-antitrust-probe-meta-deal-vr-fitness-app-supernatural'> Source <a/>
