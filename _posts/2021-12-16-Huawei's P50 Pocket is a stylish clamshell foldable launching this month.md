@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iuJn6PySy_FE2PBbKBwcMEvUEL0=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/70280497/001RBNXygy1gxfadt3cfyj61hc0u07ee02.0.jpg' width='700px' /><br/>
-Huawei is set to announce a new foldable phone later this month called the Huawei P50 Pocket, according to a post on the company's official Weibo account. Unlike its previous Mate X foldables, which fold from a device the size of a tablet into a smartphone, the P50 Pocket has a clamshell design that folds out to the size of a smartphone. It's a similar design to Samsung's Z Flip devices, or the Motorola Razr.
-<a href='https://www.theverge.com/2021/12/16/22839272/huawei-p50-pocket-china-launch-foldable'> Source <a/>

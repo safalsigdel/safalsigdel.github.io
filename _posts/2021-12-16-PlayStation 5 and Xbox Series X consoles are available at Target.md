@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-iVJMbm6yFznuQjJuIAaFszO0kQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70280625/acastro_210511_1777_psRestock_0004.0.jpg' width='700px' /><br/>
-Look, nobody is happy about the current state of new consoles and their availability. While the hunt for a good deal is something we're all about, having to search just to find a normal, full-price product is a whole lot less fun. That's why we are always doing our best to help you score a new console whenever the chance arises, and today is no different.
-<a href='https://www.theverge.com/2021/12/16/22820987/playstation-5-xbox-series-x-console-restock-target-stock-check-availability'> Source <a/>

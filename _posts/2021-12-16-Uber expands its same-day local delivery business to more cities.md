@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3wyoTcS7wZfA3r1hKcunPZXdlRo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70280398/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
-Uber Connect, the ride-hail company's same-day courier service, is expanding to more cities. It's also getting a few new features to make sending and receiving items easier for customers and drivers.
-<a href='https://www.theverge.com/2021/12/16/22838302/uber-connect-cities-same-day-delivery-expand'> Source <a/>

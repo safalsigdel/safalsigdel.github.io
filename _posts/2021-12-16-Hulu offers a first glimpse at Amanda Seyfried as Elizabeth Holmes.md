@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iQlFujKXjwSAVhg-HU82athlIME=/0x0:800x533/1200x800/filters:focal(129x78:257x206)/cdn.vox-cdn.com/uploads/chorus_image/image/70279037/hulu_theranos_the_dropout.0.jpg' width='700px' /><br/>
-Hulu has finally given us a glimpse of Amanda Seyfried as Elizabeth Holmes in its own take on the real-life Silicon Valley drama. The Dropout is a limited series that centers around Holmes' fraudulent blood-testing startup, Theranos, and is based on an ABC podcast that goes by the same name.
-<a href='https://www.theverge.com/2021/12/15/22838297/hulu-amanda-seyfried-elizabeth-holmes-theranos'> Source <a/>

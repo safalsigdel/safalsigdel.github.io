@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6zrrO7Wo711wAFSz6YkKln4pJ8g=/0x0:4032x3024/1200x800/filters:focal(1022x1165:1666x1809)/cdn.vox-cdn.com/uploads/chorus_image/image/70283046/1179219559.0.jpg' width='700px' /><br/>
+Sidewalk Labs CEO Dan Doctoroff is stepping down for health reasons, and the six-year-old company and its products will be folded into Google, he wrote in a blog post Thursday. Doctoroff says he's been diagnosed with what may be ALS and wants to spend more time with his family.
+<a href='https://www.theverge.com/2021/12/16/22840028/sidewalk-labs-google-doctoroff-health-toronto-quayside'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/k4AZwhZhpbHRH8uHRCP7kkn3dhM=/0x0:3600x2400/1200x800/filters:focal(1512x912:2088x1488)/cdn.vox-cdn.com/uploads/chorus_image/image/70280304/aO_metaverese_BlackHoodie_400_01_copy.0.jpg' width='700px' /><br/>
-Adidas is getting into the NFT game. The apparel company is launching a line of NFTs on Friday, called Into the Metaverse, which will offer buyers access to what's essentially a very exclusive fan club. NFT holders will be able to purchase special merch drops, and Adidas says members will help to shape what kinds of products and experiences the company puts together for its NFT-owning community.
-<a href='https://www.theverge.com/2021/12/16/22822143/adidas-nft-launch-into-the-metaverse-price-release-date'> Source <a/>
