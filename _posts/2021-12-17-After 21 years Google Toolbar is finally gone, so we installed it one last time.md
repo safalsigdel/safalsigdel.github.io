@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MiPv_F49fmQGFNd7a4UC5FLgnOs=/0x0:982x584/1200x800/filters:focal(0x0:156x156)/cdn.vox-cdn.com/uploads/chorus_image/image/70282161/gdesktop14.0.png' width='700px' /><br/>
-I was lost and in search of myself after hearing the devastating news on Ars Technica: Google Toolbar had been put down by the search giant after nearly 21 years — longer than most projects the company lets live. (A recent newsletter effort didn't make it past three months).
-<a href='https://www.theverge.com/2021/12/16/22835641/google-shut-down-toolbar-internet-explorer'> Source <a/>
