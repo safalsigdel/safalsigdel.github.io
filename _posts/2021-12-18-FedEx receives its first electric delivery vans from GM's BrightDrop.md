@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/IWUfSVVC5aBtdShEKW6T0x9bbaY=/0x0:8509x5985/1200x800/filters:focal(3575x2313:4935x3673)/cdn.vox-cdn.com/uploads/chorus_image/image/70285629/BrightDrop_EV600_with_FedEx_Express_Branding.0.jpeg' width='700px' /><br/>
 FedEx is the first customer to receive electric delivery vans from General Motors' new EV-focused company BrightDrop. The logistics giant says it will integrate the EVs into its fleet starting in 2022.
+<a href='https://www.theverge.com/2021/12/17/22839470/fedex-gm-brightdrop-electric-delivery-van-ev600'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/IWUfSVVC5aBtdShEKW6T0x9bbaY=/0x0:8509x5985/1200x800/filters:focal(3575x2313:4935x3673)/cdn.vox-cdn.com/uploads/chorus_image/image/70285629/BrightDrop_EV600_with_FedEx_Express_Branding.0.jpeg' width='700px' /><br/>
+FedEx is the first customer to receive electric delivery vans from General Motors' new EV-focused company BrightDrop. The logistics giant says it will integrate the EVs into its fleet starting in 2022.
 <a href='https://www.theverge.com/2021/12/17/22839470/fedex-gm-brightdrop-electric-delivery-van-ev600'> Source <a/>
