@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5XwKSWxtggvnFjwvNM1IOBa7vtc=/0x0:2346x1732/1200x800/filters:focal(986x679:1360x1053)/cdn.vox-cdn.com/uploads/chorus_image/image/70293890/Latitude___Midieval_Problems.0.png' width='700px' /><br/>
+Latitude, the startup behind text game AI Dungeon, is expanding into a new artificial intelligence-powered game platform called Voyage. The company announced the closed beta on Friday, opening a waitlist for current AI Dungeon users. It's the next step for a company that began with a university hackathon project, but that ultimately hopes to help other people create their own games using trained AI models.
+<a href='https://www.theverge.com/2021/12/19/22836418/latitude-ai-dungeon-voyage-ai-powered-game-platform-launch'> Source <a/>
