@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/W6dQM-5bzNINb4-eHqkTwbkYXlw=/0x91:2880x1697/1200x800/filters:focal(1210x670:1670x1130)/cdn.vox-cdn.com/uploads/chorus_image/image/70294070/halo_infinite_tournament_raleigh.0.png' width='700px' /><br/>
+Microsoft is apparently having just as much trouble procuring Xbox consoles as everyone else, as some of the players at the first major Halo Infinite tournament in Raleigh, North Carolina are forced to play on Xbox Series X development kits (via Kotaku). Game dev kits consist of hardware that developers use to create games and typically aren't available to the public, let alone used at official gaming tournaments.
+<a href='https://www.theverge.com/2021/12/19/22844958/halo-infinite-tournament-dev-kits-raleigh'> Source <a/>
