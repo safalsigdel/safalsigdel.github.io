@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wuW7havEP0Qa8qDWNlWs9CRYdAg=/140x88:1165x717/1200x800/filters:focal(538x325:742x529)/cdn.vox-cdn.com/uploads/chorus_image/image/70291571/gm_hummer_ev_pickup.0.jpg' width='700px' /><br/>
-GM has officially started sending its Hummer EV Edition 1 pickup trucks out of the factory and into the driveways of customers, according to a press release on the company's website. Built on the Ultium platform, the Hummer EV Edition 1 model comes with a hefty $110,295 price tag, along with up to 1,000 horsepower, 11,500 lb-ft of torque, and an estimated 329-mile range.
-<a href='https://www.theverge.com/2021/12/18/22843805/gm-ev-hummer-pickup-truck-delivery'> Source <a/>

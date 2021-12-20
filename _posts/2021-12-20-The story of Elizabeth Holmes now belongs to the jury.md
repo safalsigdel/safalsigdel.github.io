@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tP8xFYOz8w8fdJnwKLeXs70qYPM=/0x0:3883x2748/1200x675/filters:focal(1632x1064:2252x1684)/cdn.vox-cdn.com/uploads/chorus_image/image/70289828/1359543294.0.jpg' width='700px' /><br/>
-From the beginning, Elizabeth Holmes knew how to tell a good story. She launched her blood testing company, Theranos, with a tale of a powerful vision to revolutionize health care and change an old, outdated industry. She presented herself as Steve Jobs, part two. She sketched out a picture of someone in control.
-<a href='https://www.theverge.com/2021/12/17/22843225/elizabeth-holmes-theranos-trial-jury-deliberations'> Source <a/>
