@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/gEz2GO2NJfkTVdnVQJiJy_tZl6M=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/70294740/1229688203.0.jpg' width='700px' /><br/>
 Disney and YouTube TV have reached a deal today to put more than a dozen Disney-owned channels back on Google's internet TV streaming service.
-<a href='https://www.theverge.com/2021/12/19/22845373/youtube-tv-disney-espn-channel-fx-abc-restored'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/gEz2GO2NJfkTVdnVQJiJy_tZl6M=/0x0:8192x5464/1200x800/filters:focal(3441x2077:4751x3387)/cdn.vox-cdn.com/uploads/chorus_image/image/70294740/1229688203.0.jpg' width='700px' /><br/>
-Disney and YouTube TV have reached a deal today to put more than a dozen Disney-owned channels back on Google's internet TV streaming service.
 <a href='https://www.theverge.com/2021/12/19/22845373/youtube-tv-disney-espn-channel-fx-abc-restored'> Source <a/>
