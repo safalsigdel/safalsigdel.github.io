@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zq9Et8GJxyA-vQMhL7J0kLP2_3E=/0x0:2000x1333/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/70296147/LG_UltraGear_Gaming_0001.0.jpg' width='700px' /><br/>
-LG has announced what it's calling its “first gaming laptop,” the UltraGear 17G90Q. The 17-inch laptop is powered by a combination of an 11th Gen Intel Tiger Lake H CPU and an Nvidia GeForce RTX 3080 Max-Q graphics card, and can be configured with up to 32GB of RAM and 1TB of storage
-<a href='https://www.theverge.com/2021/12/20/22846139/lg-ultragear-17g90q-rtx-3080-gpu-11th-gen-intel-cpu-storage-gaming-laptop'> Source <a/>
