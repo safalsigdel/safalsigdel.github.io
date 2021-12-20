@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/Q8LRADcIqO11N8P69r6whxmiAnA=/0x0:1000x700/1200x800/filters:focal(635x265:795x425)/cdn.vox-cdn.com/uploads/chorus_image/image/70295204/garmin_watches_lineup.0.jpg' width='700px' /><br/>
 A trove of leaked images shows what Garmin's upcoming 2022 smartwatch lineup may look like. A report by German technology site Winfuture shows the supposed images of the Garmin Fenix 7 series, Venu 2 Plus, Epix Gen2, and Instinct 2 series smartwatches.
+<a href='https://www.theverge.com/2021/12/19/22845465/garmin-fenix-7-smartwatch-leak'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/Q8LRADcIqO11N8P69r6whxmiAnA=/0x0:1000x700/1200x800/filters:focal(635x265:795x425)/cdn.vox-cdn.com/uploads/chorus_image/image/70295204/garmin_watches_lineup.0.jpg' width='700px' /><br/>
+A trove of leaked images shows what Garmin's upcoming 2022 smartwatch lineup may look like. A report by German technology site Winfuture shows the supposed images of the Garmin Fenix 7 series, Venu 2 Plus, Epix Gen2, and Instinct 2 series smartwatches.
 <a href='https://www.theverge.com/2021/12/19/22845465/garmin-fenix-7-smartwatch-leak'> Source <a/>

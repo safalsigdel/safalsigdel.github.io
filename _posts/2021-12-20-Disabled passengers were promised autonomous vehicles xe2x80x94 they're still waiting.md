@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/P1hp3LW-BbaSF12IHn14N-m32VM=/0x0:3360x2243/1200x0/filters:focal(0x0:3360x2243):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23085484/1172382355.jpg' width='700px' /><br/>
+For years, people with disabilities have been promised that autonomous vehicles are right around the corner. Self-driving cars will open up new possibilities for people with vision, hearing, and mobility impairments. Help was on the way.
+<a href='https://www.theverge.com/22832657/autonomous-vehicles-disabled-accessible-challenges-design'> Source <a/>

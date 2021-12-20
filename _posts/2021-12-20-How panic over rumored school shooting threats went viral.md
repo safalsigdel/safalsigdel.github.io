@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/CSn9XaD4RfBLhjSN_9BVbLFu2Ao=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70289526/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
 For many students across the US, what should have been the last day of school before winter break instead became a day filled with fear and rumors of imminent danger.
+<a href='https://www.theverge.com/2021/12/17/22841370/why-tiktok-school-shooting-warnings-went-viral-december-17'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/CSn9XaD4RfBLhjSN_9BVbLFu2Ao=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70289526/acastro_200803_1777_tikTok_0002.0.0.jpg' width='700px' /><br/>
+For many students across the US, what should have been the last day of school before winter break instead became a day filled with fear and rumors of imminent danger.
 <a href='https://www.theverge.com/2021/12/17/22841370/why-tiktok-school-shooting-warnings-went-viral-december-17'> Source <a/>
