@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A2JFBnyOwVOjF7OfbLW7Vhj3Ens=/0x0:3000x2000/1200x800/filters:focal(998x783:1478x1263)/cdn.vox-cdn.com/uploads/chorus_image/image/70286388/897291354.0.jpg' width='700px' /><br/>
-Tax preparation service H&R Block filed a lawsuit against Block, Inc. (formerly Square, Inc.) for trademark infringement on Thursday, CNBC reported.
-<a href='https://www.theverge.com/2021/12/17/22841182/square-block-hr-block-trademark-lawsuit-jack-dorsey'> Source <a/>

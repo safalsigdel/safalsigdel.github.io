@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WRzAVBiG0_chMj8Kok7Aj7PWENE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70286220/acastro_180508_1777_google_IO_0002.0.jpg' width='700px' /><br/>
-The California Department of Fair Employment and Housing (DFEH) is looking into how Google treats its Black female employees, according to a report by Reuters. The report says that the regulator has been asking employees questions about harassment and discrimination, after receiving formal complaints.
-<a href='https://www.theverge.com/2021/12/17/22841166/google-california-dfeh-black-female-employee-harassment-discrimination-investigation'> Source <a/>
