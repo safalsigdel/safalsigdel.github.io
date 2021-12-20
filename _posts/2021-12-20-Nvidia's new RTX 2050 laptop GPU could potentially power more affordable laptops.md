@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/izbn0HT4QxedH6ofD0uhTXouw2Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70292247/acastro_180529_1777_nvidia_0001.0.5.jpg' width='700px' /><br/>
+Nvidia's upcoming RTX 2050 laptop GPUs don't sound “new” at all, considering that the company already released the RTX 3050 and 3050 Ti GPUs for laptops earlier this year (via VideoCardz). But it's clear that Nvidia isn't ready to retire its 20 series GPUs just yet — Nvidia says that the RTX 2050 will be available in laptops starting in the spring of 2022.
+<a href='https://www.theverge.com/2021/12/18/22844091/nvidia-rtx-2050-laptop-gpu-chip-shortage'> Source <a/>

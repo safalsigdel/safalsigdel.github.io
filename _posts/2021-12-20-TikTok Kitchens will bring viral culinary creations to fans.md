@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uDB0tMhf_QtA0ILUr9vtGpOrcvk=/0x201:2991x2595/1200x800/filters:focal(1173x1238:1651x1716)/cdn.vox-cdn.com/uploads/chorus_image/image/70294486/tiktok_kitchens_food_samples.5.jpg' width='700px' /><br/>
+TikTok is partnering with Virtual Dining Concepts (VDC) to launch TikTok Kitchens, a delivery-only service that will cook up some of the trendiest recipes on the app, first reported by Bloomberg. TikTok and VDC will reportedly open around 300 locations across the US to start, but plan on expanding to around 1,000 by the end of 2022.
+<a href='https://www.theverge.com/2021/12/19/22845154/tiktok-kitchens-viral-food-ghost-kitchens'> Source <a/>

@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/zxIzzg2eeNYrsB6SgziI7dYpDUI=/0x0:2699x2024/1200x800/filters:focal(1135x797:1565x1227)/cdn.vox-cdn.com/uploads/chorus_image/image/70287027/Chipotle2_1639602514933_HR.0.jpg' width='700px' /><br/>
 Chipotle announced it's opening a new “Digital Kitchen” restaurant this month in Cuyahoga Falls, Ohio (about 40 miles south of Cleveland) — which will exclusively accept online orders.
+<a href='https://www.theverge.com/2021/12/17/22840498/chipotle-digital-kitchen-app-delivery-only-ohio'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/zxIzzg2eeNYrsB6SgziI7dYpDUI=/0x0:2699x2024/1200x800/filters:focal(1135x797:1565x1227)/cdn.vox-cdn.com/uploads/chorus_image/image/70287027/Chipotle2_1639602514933_HR.0.jpg' width='700px' /><br/>
+Chipotle announced it's opening a new “Digital Kitchen” restaurant this month in Cuyahoga Falls, Ohio (about 40 miles south of Cleveland) — which will exclusively accept online orders.
 <a href='https://www.theverge.com/2021/12/17/22840498/chipotle-digital-kitchen-app-delivery-only-ohio'> Source <a/>
