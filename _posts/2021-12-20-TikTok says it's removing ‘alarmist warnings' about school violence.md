@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t8YAM8bhfTiyW9OLvQBNqfvsWE4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70286675/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-TikTok said Friday that it's working to remove “alarmist warnings” about a supposed day of school violence that was rumored to take place on Friday, December 17th. A supposed threat of a nationwide day of violence at schools across the country, that allegedly started as a TikTok challenge, prompted some districts to cancel classes Friday even as law enforcement mostly determined that the threats were not credible.
-<a href='https://www.theverge.com/2021/12/17/22841431/tiktok-removes-school-violence-challenge-warnings'> Source <a/>
