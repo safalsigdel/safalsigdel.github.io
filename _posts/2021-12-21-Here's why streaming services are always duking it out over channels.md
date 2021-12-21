@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/E5jTFZoW7gb2gFfg9PTzSfkpYjc=/0x0:5123x3415/1200x800/filters:focal(2153x1299:2971x2117)/cdn.vox-cdn.com/uploads/chorus_image/image/70297872/1230436485.0.jpg' width='700px' /><br/>
+There's something extraordinarily frustrating about subscribing to a TV service only for that service to lose the programming you signed up for. But that threat of lost channels — or worse, the actual loss of major networks — is a recurring problem for internet TV services, and it comes up a lot.
+<a href='https://www.theverge.com/2021/12/20/22846634/youtube-tv-disney-streaming-channels-dispute-espn-fx'> Source <a/>

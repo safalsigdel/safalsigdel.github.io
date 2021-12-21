@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FPqw9bDUvPi_h05wy79u4Aq-Cgs=/0x0:719x387/1200x800/filters:focal(303x160:417x274)/cdn.vox-cdn.com/uploads/chorus_image/image/70297463/waze_ev_charging_station_search.0.jpg' width='700px' /><br/>
+Waze can finally help you locate and drive to nearby electric vehicle (EV) charging stations across the US, letting you find EV pit stops just as easily as you would a gas station. You can also search for charging stations along your route, which should make it a bit less stressful to find a place to juice up your EV if Waze is your preferred navigation app.
+<a href='https://www.theverge.com/2021/12/20/22846386/waze-ev-charging-station-driving-map'> Source <a/>

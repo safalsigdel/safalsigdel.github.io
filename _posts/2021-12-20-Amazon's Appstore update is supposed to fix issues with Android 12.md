@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7xQ6U_4wCX3l85PDEH7CqOax5Ug=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70291802/acastro_190920_1777_amazon_0001.0.0.png' width='700px' /><br/>
-Amazon has finally rolled out an update for its Appstore, and it's supposed to fix the issues that have been plaguing Android 12 users for over a month (via Engadget). After users downloaded Android 12, they noticed that the Amazon Appstore wasn't functioning correctly, an issue likely caused by the lack of compatibility between Amazon's built-in DRM and the operating system.
-<a href='https://www.theverge.com/2021/12/18/22843977/amazon-appstore-android-12'> Source <a/>

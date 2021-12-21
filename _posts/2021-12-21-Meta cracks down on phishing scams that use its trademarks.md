@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nkA6fRBnI8A8bLS9wAqKeRToGOo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70299091/acastro_211101_1777_meta_0002.0.jpg' width='700px' /><br/>
+Meta is taking legal action against the bad actors who allegedly impersonated Facebook, Messenger, WhatsApp, and Instagram to conduct a phishing scam. The company claims that since 2019, the defendants created over 39,000 websites in an attempt to replicate Meta's services, subsequently deceiving users and collecting their login information.
+<a href='https://www.theverge.com/2021/12/20/22846952/meta-lawsuit-phishing-attacks'> Source <a/>
