@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sBF1mhDenEZI0jvJXCXBNjVTtWg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70299626/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-Live Studio, TikTok's new livestreaming app for Windows, supposedly uses code from the free livestreaming program Open Broadcaster Software (OBS) (via Protocol). This would typically not pose an issue when done properly because OBS is open source — however, TikTok purportedly fails to adhere to OBS' licensing requirements.
-<a href='https://www.theverge.com/2021/12/20/22847213/tiktoks-live-studio-obs-open-source-policy'> Source <a/>

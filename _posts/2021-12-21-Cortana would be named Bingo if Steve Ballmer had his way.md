@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G0Z9Eox8V6MMgc5vCd_JLT-vkRg=/0x0:640x424/1200x800/filters:focal(264x153:366x255)/cdn.vox-cdn.com/uploads/chorus_image/image/70298846/cortanawp811_640.0.jpg' width='700px' /><br/>
-Steve Ballmer wanted Microsoft's Cortana AI to be called “Bingo” so it would be more Microsoft-branded, according to the Big Bets newsletter. That's according to former Microsoft product manager Sandeep Paruchuri, who recounted the story of how Microsoft's AI assistant got its name to writer Alice Newton Rex as part of a deep dive into Cortana's origins.
-<a href='https://www.theverge.com/2021/12/20/22846906/steve-ballmer-cortana-windows-phone-assistant-name-bingo-alyx-microsoft'> Source <a/>
