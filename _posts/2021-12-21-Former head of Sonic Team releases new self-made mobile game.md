@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CDsnUEHt96T5quzpZW5wWagfex0=/0x0:4032x3024/1200x800/filters:focal(417x1352:1061x1996)/cdn.vox-cdn.com/uploads/chorus_image/image/70298648/FG5AXYJacAIKwLq.0.jpeg' width='700px' /><br/>
+Yuji Naka — former head of Sonic Team — released a new game under his one-man studio Prope called Shot2048. Naka was the lead programmer for the original Sonic the Hedgehog (which seems to be playable everywhere nowadays) and most recently left his short stay at Square Enix to spend his time working on this hyper-casual title for mobile.
+<a href='https://www.theverge.com/2021/12/20/22846465/yuji-naka-sega-sonic-team-shot2048-iphone-android'> Source <a/>

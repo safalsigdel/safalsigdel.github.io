@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DIzz0KhQYUdtDz3QX5KdEz3ovmE=/0x0:2040x1149/1200x800/filters:focal(857x412:1183x738)/cdn.vox-cdn.com/uploads/chorus_image/image/70298346/Canoo_MPDV_Family.0.jpg' width='700px' /><br/>
+EV startup Canoo is losing three top executives, including its chief technology officer Peter Savagian, as part of an apparent shakeup of its leadership team. Savagian, the former chief engineer of General Motors EV1 electric car, will leave Canoo by the end of the year, according to the last line of a press release published Monday.
+<a href='https://www.theverge.com/2021/12/20/22839732/canoo-cto-cofounders-resign-shakeup-leadership-tony-aquila'> Source <a/>

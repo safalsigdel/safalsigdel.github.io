@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/bKfVAXx4wWWDd7f5lwuXj8sCc68=/0x0:1260x840/1200x800/filters:focal(530x320:730x520)/cdn.vox-cdn.com/uploads/chorus_image/image/70297161/RearMidtown.0.jpg' width='700px' /><br/>
 The Ford Mustang Mach-E is hitting the streets of New York City as the latest electric vehicle to join the ranks of the city's iconic yellow taxi fleet.
+<a href='https://www.theverge.com/2021/12/20/22846324/ford-mustang-mach-e-yellow-taxi-nyc-gravity'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/bKfVAXx4wWWDd7f5lwuXj8sCc68=/0x0:1260x840/1200x800/filters:focal(530x320:730x520)/cdn.vox-cdn.com/uploads/chorus_image/image/70297161/RearMidtown.0.jpg' width='700px' /><br/>
+The Ford Mustang Mach-E is hitting the streets of New York City as the latest electric vehicle to join the ranks of the city's iconic yellow taxi fleet.
 <a href='https://www.theverge.com/2021/12/20/22846324/ford-mustang-mach-e-yellow-taxi-nyc-gravity'> Source <a/>
