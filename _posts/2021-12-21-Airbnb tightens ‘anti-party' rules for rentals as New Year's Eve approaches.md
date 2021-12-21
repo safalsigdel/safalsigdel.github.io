@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IUyD0HjMRwuJRtjLjxcV8pPUTpE=/0x0:3543x2257/1200x800/filters:focal(1489x846:2055x1412)/cdn.vox-cdn.com/uploads/chorus_image/image/70297545/1234731223.0.jpg' width='700px' /><br/>
-Airbnb said Monday it's tightening its policy restrictions on New Year's Eve parties, adding “anti-party” restrictions to some three-night rentals for guests without a history of positive reviews on the platform.
-<a href='https://www.theverge.com/2021/12/20/22846414/airbnb-party-night-rentals-new-years-eve-restrictions'> Source <a/>
