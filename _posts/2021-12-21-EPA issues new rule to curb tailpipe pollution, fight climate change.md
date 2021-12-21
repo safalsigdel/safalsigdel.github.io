@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K390m--7CnA51lg6RiWbp8ljtdo=/0x0:3501x2336/1200x800/filters:focal(1471x888:2031x1448)/cdn.vox-cdn.com/uploads/chorus_image/image/70297559/78713689.0.jpg' width='700px' /><br/>
-The Environmental Protection Agency issued a new rule today aimed at reducing tailpipe pollution from cars and light-duty trucks — an effort by President Joe Biden to return to the fuel economy standards put in place by Barack Obama nearly a decade ago.
-<a href='https://www.theverge.com/2021/12/20/22846556/epa-rule-tailpipe-carbon-emissions-biden'> Source <a/>
