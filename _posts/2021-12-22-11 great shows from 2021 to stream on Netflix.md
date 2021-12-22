@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BtgxYb20U7vdNftDlrcrO1WX6Q0=/0x0:3000x2000/1200x675/filters:focal(989x955:1469x1435)/cdn.vox-cdn.com/uploads/chorus_image/image/70301174/VRG_ILLO_2021_RoundUp_NETFLIX.0.jpg' width='700px' /><br/>
-As Netflix has become more ubiquitous, it's also become more of a challenge to sift through the seemingly never-ending list of shows on the service. There's a lot, from reality shows about questionable animal tycoons to a plethora of video game adaptations. Sure, the really big stuff rises to the top — Squid Game, Bridgerton, etc. — but there's also a lot that's easy to miss.
-<a href='https://www.theverge.com/22839468/netflix-best-shows-2021'> Source <a/>
