@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UtykMLVxHK6FeGO0POLYggoh3so=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/70303226/akrales_160419_1019_A_0257.0.0.png' width='700px' /><br/>
+Tesla announced an early Christmas present for all those pre-dawn road trippers: free vehicle charging at certain Supercharger locations if you get there before 10AM (or after 7PM if you're more of a night rider).
+<a href='https://www.theverge.com/2021/12/21/22848149/tesla-free-supercharging-holiday-rush'> Source <a/>

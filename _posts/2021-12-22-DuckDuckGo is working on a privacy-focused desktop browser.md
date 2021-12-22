@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lB1RYrtjRhyl0Ucp-SV3Z4tUFo4=/0x0:1600x900/1200x800/filters:focal(593x270:849x526)/cdn.vox-cdn.com/uploads/chorus_image/image/70301902/duckduckgo_desktop_app.0.png' width='700px' /><br/>
+DuckDuckGo, the company best known for its privacy-focused search engine of the same name, is working on a desktop browser that should bring the same focus on avoiding being tracked to your entire web experience. In a post on its blog, DuckDuckGo CEO Gabriel Weinberg offers a glimpse at what the upcoming browser will look like and notes that we can expect it to perform the same way its browsing app does on mobile.
+<a href='https://www.theverge.com/2021/12/21/22848133/duckduckgo-browser-pc-mac-beta-privacy-default-settings'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UqXVo41Bp0p1fdttNjnYToe_F8o=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/70303238/akrales170713_1851_0005.0.jpg' width='700px' /><br/>
+When Apple introduced its updated Apple Wallet in June, the company said it was working to ensure you could use it to get through airport security — and now, we have our first word from the Transportation Security Administration (TSA) on exactly when that will happen.
+<a href='https://www.theverge.com/2021/12/21/22848300/apple-wallet-tsa-id-check-airport-security-support-mid'> Source <a/>
