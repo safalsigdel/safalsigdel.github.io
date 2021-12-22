@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8nOED3KownQ1W1ot0gcctkcdYCg=/0x0:1200x951/1200x800/filters:focal(640x299:832x491)/cdn.vox-cdn.com/uploads/chorus_image/image/70302377/Xbox_ForumTechBoost_Media_01_JPG_1200.0.jpg' width='700px' /><br/>
-Adidas and Microsoft have collaborated on three different pairs of shoes this year to commemorate the 20th anniversary of Xbox, and now the final shoe from that partnership has been officially revealed. Unlike the previous releases, these Forum Tech Boost Series X shoes are available for purchase globally, going on sale from Adidas and other retailers, and are currently in stock on Microsoft.com for $140.
-<a href='https://www.theverge.com/2021/12/21/22848462/adidas-forum-tech-boost-xbox-series-x-sneakers'> Source <a/>

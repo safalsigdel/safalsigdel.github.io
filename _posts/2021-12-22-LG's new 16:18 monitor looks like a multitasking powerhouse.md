@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Q1BsrE26j1qN4dWZwQY1sGykJMA=/0x0:1178x661/1200x800/filters:focal(495x237:683x425)/cdn.vox-cdn.com/uploads/chorus_image/image/70304260/LG_DualUp_Lifestyle_00.0.jpg' width='700px' /><br/>
-Are monitors with traditional aspect ratios just not getting the job done for you? LG might have the answer. Today the company has announced what it touts as “a completely new format in the monitor market” called the DualUp. With a unique 16:18 aspect ratio, LG claims the DualUp gives you “the same screen real estate as two 21.5-inch displays and has a vertical split view function that lets users see more in one glance.”
-<a href='https://www.theverge.com/2021/12/21/22848957/lg-dualup-32-inch-4k-ultra-fine-monitors-announced-specs'> Source <a/>

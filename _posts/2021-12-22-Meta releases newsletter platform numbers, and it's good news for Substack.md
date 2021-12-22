@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IHUjduGfctF-JyvRjg4IiA-4Sr4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70302961/acastro_211101_1777_meta_0001.0.jpg' width='700px' /><br/>
-A new blog post from Meta marks the six-month anniversary of its newsletter publishing platform, Bulletin. Amid its plugs for the writers who publish work on the service, the company lets us know just how many publishers it has on board to help compete with companies like Substack and Twitter: 115.
-<a href='https://www.theverge.com/2021/12/21/22846914/meta-bulletin-six-months-115-users-substack-newsletters-expansion'> Source <a/>

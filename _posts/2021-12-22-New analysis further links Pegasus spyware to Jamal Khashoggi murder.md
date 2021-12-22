@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/77iNFQpVyzvSlEFKwqvdPhj-UUQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70302481/acastro_180109_1777_0001.0.jpg' width='700px' /><br/>
-New forensic analysis indicates that representatives of the United Arab Emirates government installed Pegasus spyware on the phone of Hanan Elatr, wife of murdered journalist Jamal Khashoggi, just months before her husband was killed. The analysis was conducted by Toronto-based privacy and security research laboratory Citizen Lab on behalf of The Washington Post, which reported the findings on Tuesday.
-<a href='https://www.theverge.com/2021/12/21/22848485/pegasus-spyware-jamal-khashoggi-murder-nso-hanan-elatr-new-analysis'> Source <a/>
