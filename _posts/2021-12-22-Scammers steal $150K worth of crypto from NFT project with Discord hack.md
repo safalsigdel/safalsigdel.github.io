@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/59vl4Mdvhkejxvoju4k_MgmsgPc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70303258/acastro_211115_4866_0001.0.jpg' width='700px' /><br/>
+Buyers hoping to get a limited-edition NFT from Fractal, a new marketplace for game item NFTs, were given an unpleasant and costly surprise on Tuesday morning when it was revealed that a link sent through the project's official Discord channel was a scam set up to steal crypto.
+<a href='https://www.theverge.com/2021/12/21/22848840/scammers-steal-crypto-nft-project-fractal-discord-hack-solana'> Source <a/>

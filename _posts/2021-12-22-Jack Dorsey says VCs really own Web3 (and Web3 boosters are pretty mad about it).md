@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EZlinrwrYHSYWFpnKlA1XZbm4Vs=/0x0:5678x3785/1200x800/filters:focal(1580x750:2488x1658)/cdn.vox-cdn.com/uploads/chorus_image/image/70302577/1236804471.0.jpg' width='700px' /><br/>
+“Habanero” Jack Dorsey did some spicy tweets last night.
+<a href='https://www.theverge.com/2021/12/21/22848162/jack-dorsey-web3-criticism-a16z-ownership-venture-capital-twitter'> Source <a/>

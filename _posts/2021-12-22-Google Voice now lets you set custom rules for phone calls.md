@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1TmHgvAAQG_WkkD5xbT2D3tdL9Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70303158/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google Voice now lets you create rules that dictate how the service responds to incoming calls from specific contacts. And yes, this includes having Google Voice automatically ignore certain contacts for you.
+<a href='https://www.theverge.com/2021/12/21/22848567/google-voice-custom-rules-phone-calls'> Source <a/>

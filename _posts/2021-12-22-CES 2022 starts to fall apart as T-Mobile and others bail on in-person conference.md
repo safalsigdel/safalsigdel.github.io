@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M6lifwX3-m7BbRMQDmcYhQQgSbA=/0x0:2040x1360/1200x800/filters:focal(877x480:1203x806)/cdn.vox-cdn.com/uploads/chorus_image/image/70304212/CES-2016-stock-verge-10.0.0.jpg' width='700px' /><br/>
+Another year, another gigantic tech tradeshow that looks like it may be falling apart as the COVID-19 pandemic continues — now that T-Mobile CEO Mike Sievert, one of the Consumer Electronics Show's featured speakers, has publicly announced that his company won't be attending the world's largest electronics show next month.
+<a href='https://www.theverge.com/2021/12/21/22849223/ces-2022-t-mobile-bailed-keynote-meta-pinterest-twitter-iheart'> Source <a/>
