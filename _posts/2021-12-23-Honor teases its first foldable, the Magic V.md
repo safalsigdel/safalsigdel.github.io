@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8_8JA4Eku6gm-R23hmuv8VVhS5Y=/0x0:9999x6666/1200x800/filters:focal(4201x2534:5799x4132)/cdn.vox-cdn.com/uploads/chorus_image/image/70304932/HONOR_Magic_V.0.jpg' width='700px' /><br/>
-Former Huawei sub-brand Honor has teased the launch of its first foldable smartphone, the Honor V. An image shared on its Weibo and Twitter accounts teases the design of the device, showing a telltale hinge between the two halves of the device. The Weibo post says the “folding flagship is about to be released,” though no exact launch date has been announced and Honor declined to comment.
-<a href='https://www.theverge.com/2021/12/22/22849677/honor-magic-v-foldable-china-launch'> Source <a/>
