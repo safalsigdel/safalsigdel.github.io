@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Lyw5IoeMksXpYtzmppx0tM6aFWY=/0x0:7680x4320/1200x800/filters:focal(3226x1546:4454x2774)/cdn.vox-cdn.com/uploads/chorus_image/image/70305530/DT_Packaging_ProductSuite_C_Comp_A_Output_v001.0.jpg' width='700px' /><br/>
-A new medical testing startup called Detect began selling at-home molecular COVID-19 tests through its website last week. The company also announced its CEO — Hugo Barra, a former executive at companies like Meta and Google who previously worked on hardware products like smartphones and virtual reality.
-<a href='https://www.theverge.com/2021/12/22/22849030/covid-test-detect-startup-meta-google'> Source <a/>
