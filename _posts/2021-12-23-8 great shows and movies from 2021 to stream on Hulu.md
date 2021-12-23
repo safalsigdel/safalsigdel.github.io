@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vVGdKYtvZg7OJvdpbTjmI94IS7A=/0x0:3000x2000/1200x675/filters:focal(978x970:1458x1450)/cdn.vox-cdn.com/uploads/chorus_image/image/70305495/RoundUpArt_HULU.0.jpg' width='700px' /><br/>
-When reuniting with loved ones for the holidays, a post-festivities, good old-fashioned movie night may be in order. But the massive libraries many of us have to choose from on our favorite streaming services can feel downright overwhelming — particularly when the whole family is weighing in on what to watch.
-<a href='https://www.theverge.com/22828687/hulu-best-shows-movies-2021'> Source <a/>
