@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tI6yCm284bnpJ6h_GggfmFtpojs=/0x0:1500x881/1200x800/filters:focal(630x321:870x561)/cdn.vox-cdn.com/uploads/chorus_image/image/70309472/xpg_ddr5_adata_ssd.0.jpg' width='700px' /><br/>
+Samsung and Adata are both teasing PCIe 5.0 SSDs ahead of January's big CES event. With read/write speeds up to 14/12 GBps, this new generation of solid state storage is essentially twice as fast as the fastest PCIe 4.0 drives.
+<a href='https://www.theverge.com/2021/12/23/22851422/samsung-adata-pcie-5-0-ssd-ces-speed-date'> Source <a/>
