@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FuHW7OnFysF7J20FQZDme-Dw8JU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70305352/acastro_181114_1777_amazon_hq2_0003.0.jpg' width='700px' /><br/>
+Amazon's crucial web services business AWS has experienced problems today due to a power outage, affecting services like Slack, Imgur, and the Epic Games store for some users. It's not looking good if you're working from home, with some Slack users unable to view or upload images and work management tool Asana also hit by the outages.
+<a href='https://www.theverge.com/2021/12/22/22849780/amazon-aws-is-down-outage-slack-imgur-hulu-asana-epic'> Source <a/>

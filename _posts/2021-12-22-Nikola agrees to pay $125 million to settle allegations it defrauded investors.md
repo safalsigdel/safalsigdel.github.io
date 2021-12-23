@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RZiktdJkiWaYFj5a5QoPhMK3Tfs=/0x0:2750x1440/1200x800/filters:focal(1155x500:1595x940)/cdn.vox-cdn.com/uploads/chorus_image/image/70301465/nikola_one_16.0.jpg' width='700px' /><br/>
-Hydrogen trucking startup Nikola Corp. agreed to pay $125 million to settle charges that it defrauded investors by misleading them about its products and technical achievements, the US Securities and Exchange Commission announced Tuesday.
-<a href='https://www.theverge.com/2021/12/21/22848108/nikola-settlement-sec-fraud-trevor-milton-investors'> Source <a/>

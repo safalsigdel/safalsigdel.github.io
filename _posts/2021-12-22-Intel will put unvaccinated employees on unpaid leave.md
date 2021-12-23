@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XT2sHBj-f_h6bM8Sm0IqY4hkYhs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70304135/acastro_210120_1777_intel_0002.0.jpg' width='700px' /><br/>
-Intel has reportedly notified employees that anyone who remains unvaccinated will need to get the COVID-19 vaccine or submit an exemption by January 4th. Otherwise, they face being put on unpaid leave, according to The Associated Press and The Oregonian.
-<a href='https://www.theverge.com/2021/12/21/22849074/intel-unvaccinated-employees-unpaid-leave'> Source <a/>

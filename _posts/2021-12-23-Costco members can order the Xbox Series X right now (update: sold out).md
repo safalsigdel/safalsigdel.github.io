@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FklG3wzVMOM-FKGkb_Kxoft51bo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70305920/acastro_210511_1777_xboxRestock_0001.0.jpg' width='700px' /><br/>
+Update 11:57AM ET, December 22nd: Costco has sold out of consoles for now.
+<a href='https://www.theverge.com/2021/12/22/22823914/microsoft-xbox-series-x-console-restock-costco-availability'> Source <a/>

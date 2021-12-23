@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ck_tX-DJxoSMVA3doUEBli1Gfg0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70306172/acastro_180430_1777_tesla_0003.0.jpg' width='700px' /><br/>
+The US government says it is investigating more than half a million Tesla vehicles sold since 2017, following reports that drivers can play video games available on its main display screen while driving.
+<a href='https://www.theverge.com/2021/12/22/22849963/tesla-investigation-drivers-play-video-games-vehicles-in-motion'> Source <a/>

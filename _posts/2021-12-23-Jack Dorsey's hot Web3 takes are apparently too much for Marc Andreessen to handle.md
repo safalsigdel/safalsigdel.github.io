@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qcc7H1K1s_Xea1b0EGP4wx21IEo=/0x0:5631x3754/1200x800/filters:focal(2074x670:2974x1570)/cdn.vox-cdn.com/uploads/chorus_image/image/70307708/1233275199.0.jpg' width='700px' /><br/>
+Who knew that leaving the top spot at Twitter could make someone a more interesting follow? The co-founder and (for the second time) former CEO of Twitter Jack Dorsey recently opened up about his issues with so-called “Web3” projects that aren't decentralized to his liking and the venture capitalists that he says own the whole thing, creating “ultimately a centralized entity with a different label.”
+<a href='https://www.theverge.com/2021/12/22/22850558/jack-pmarca-a16z-web3-block-twitter'> Source <a/>

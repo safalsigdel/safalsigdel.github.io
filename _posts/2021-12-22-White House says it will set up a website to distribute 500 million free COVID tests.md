@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1LIOWJ9-lnceQri8V1rpe3q2EtE=/0x0:4955x3303/1200x800/filters:focal(2082x1256:2874x2048)/cdn.vox-cdn.com/uploads/chorus_image/image/70303617/1237370022.0.jpg' width='700px' /><br/>
-President Biden said today that Americans will soon be able to order free COVID tests from a government-run website, which is not yet available. “We'll have websites where you can get them delivered to your home,” he said of the 500 million at-home tests the government is purchasing to combat the Omicron surge.
-<a href='https://www.theverge.com/2021/12/21/22848887/joe-biden-google-free-covid-test-near-me'> Source <a/>
