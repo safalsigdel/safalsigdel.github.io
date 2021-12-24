@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NYHE_zEbVcle2QBiDtILS4aZW4A=/0x0:2356x1570/1200x800/filters:focal(990x597:1366x973)/cdn.vox-cdn.com/uploads/chorus_image/image/70307610/Screen_Shot_2021_12_22_at_1.20.41_PM.0.png' width='700px' /><br/>
-The other day, I was watching the documentary The Beatles: Get Back, which flashes on the screen the names of the songs being played and happened to miss the identification of a song I didn't recognize. “What was that?” I asked my partner. He didn't know either.
-<a href='https://www.theverge.com/22849833/pixel-music-now-playing-android'> Source <a/>
