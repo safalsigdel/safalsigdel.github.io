@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XCa9PY9qI3Ea41RPcuXyUwMgPgw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70313742/acastro_211205_4931_0001.0.jpg' width='700px' /><br/>
+This holiday season, let's talk about the gadgets that are no longer with us anymore — not because they were bad or became obsolete or were the victims of an upgrade offer too good to refuse, but because they met their demise in a delightfully destructive way.
+<a href='https://www.theverge.com/22848431/verge-broken-gadget-phone-camera-car-pda-stories'> Source <a/>
