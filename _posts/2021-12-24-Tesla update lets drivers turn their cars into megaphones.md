@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Emo9vSswvr0jZEs3TwchHLYuES0=/0x0:5000x3327/1200x800/filters:focal(2100x1264:2900x2064)/cdn.vox-cdn.com/uploads/chorus_image/image/70313478/1237080438.0.jpg' width='700px' /><br/>
+As part of its annual holiday software update, Tesla has released a new feature that lets drivers turn their cars into megaphones.
+<a href='https://www.theverge.com/2021/12/24/22852794/tesla-holiday-software-update-megaphone-feature-speakers'> Source <a/>
