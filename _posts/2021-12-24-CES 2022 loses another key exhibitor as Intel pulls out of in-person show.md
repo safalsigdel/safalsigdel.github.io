@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wiD-kde6kdOoKcu7sIxMXKf1zPg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70311636/acastro_210120_1777_intel_0002.0.jpg' width='700px' /><br/>
+CES 2022's exodus of exhibitors over rising COVID-19 concerns continues, with the latest withdrawal coming from Intel. The company typically has one of the biggest presences of major tech companies at the show. Intel joins a slew of other key companies skipping this year's show in-person, which also includes Lenovo, Hisense, T-Mobile, AT&T, Amazon, Waymo, Meta, Twitter, Pinterest, and iHeartRadio.
+<a href='https://www.theverge.com/2021/12/23/22852045/ces-2022-intel-skipping-show-covid-19'> Source <a/>

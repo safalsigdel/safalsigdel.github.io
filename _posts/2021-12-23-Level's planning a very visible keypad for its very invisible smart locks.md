@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tRd9oUxeFiwNfNgL-kzw_NipvHg=/0x0:1920x907/1200x800/filters:focal(1178x397:1484x703)/cdn.vox-cdn.com/uploads/chorus_image/image/70307239/hero_keypad.0.jpg' width='700px' /><br/>
-Level teased a new keypad product on its website today (via HomeKit News) that will give owners of the company's elegant and discreet Level Touch smart locks another way to access their homes. The Level Keypad will also apparently work with previous models, including the original design that hid inside existing deadbolt hardware.
-<a href='https://www.theverge.com/2021/12/22/22849966/level-invisible-smart-locks-new-keypad'> Source <a/>

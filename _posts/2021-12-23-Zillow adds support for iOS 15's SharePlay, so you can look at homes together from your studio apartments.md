@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qKf-oRtUUobh9ZZYnKbg662SrxE=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70306019/FINAL_Zillow_SharePlay_Screenshot_1920x1080_122121.0.jpeg' width='700px' /><br/>
-Have you ever wanted to aimlessly scroll through Zillow and admire all the heinously expensive houses that you'll never be able to afford thanks to the skyrocketing price of real estate — but also share that experience with a friend or loved one who isn't able to join you in your delusional aspirational browsing in real life?
-<a href='https://www.theverge.com/2021/12/22/22848783/zillow-ios-15-shareplay-app-update-facetime-sharing-houses-browsing'> Source <a/>
