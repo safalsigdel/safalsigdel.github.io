@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wGOkq-rNEahelqAm2y9f9H4ajhY=/0x0:3000x2000/1200x675/filters:focal(986x946:1466x1426)/cdn.vox-cdn.com/uploads/chorus_image/image/70315847/RoundUpArt_XBOX.0.jpg' width='700px' /><br/>
+The latest generation of Xbox consoles recently celebrated their one-year birthday, though like the PS5, your chances of easily buying one aren't so great (the $300 Series S is far easier to find in stock than the $500 Series X is). Nevertheless, there have been some must-play games released on Xbox in the past year that make searching for one of these consoles worth the effort.
+<a href='https://www.theverge.com/22825913/xbox-series-x-s-best-games-microsoft-2021'> Source <a/>
