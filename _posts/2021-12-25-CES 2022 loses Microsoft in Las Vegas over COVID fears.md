@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gTThevwk0AWXlCUuzavFUdRO9pk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70314598/CES-2016-stock-verge-09.0.0.jpg' width='700px' /><br/>
+Microsoft is the latest company to drop a physical presence at CES, as the increased prevalence of COVID-19 spooks exhibitors. It joins a growing list of major companies ditching the world's largest technology show.
+<a href='https://www.theverge.com/2021/12/24/22853157/ces-microsoft-canceled-omicron-covid'> Source <a/>

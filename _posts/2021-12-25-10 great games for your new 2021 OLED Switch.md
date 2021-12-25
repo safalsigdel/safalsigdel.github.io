@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/II6wCEWSalf8ZKd9Jt0J-IZVkqo=/0x0:3000x2000/1200x675/filters:focal(962x920:1442x1400)/cdn.vox-cdn.com/uploads/chorus_image/image/70315692/RoundUpArt_NintendoSwitch.0.jpg' width='700px' /><br/>
+The recent release of the Nintendo Switch OLED has many people rediscovering their love for the versatile handheld or experiencing what it has to offer for the first time. Whether you're a seasoned veteran or have never previously owned a Nintendo console, we've rounded up some of our favorite titles for Nintendo Switch.
+<a href='https://www.theverge.com/22785298/nintendo-switch-best-games-2021'> Source <a/>
