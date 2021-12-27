@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VHOZQLFuwb_nZM6HzdRB85hjyjQ=/0x0:1500x1000/1200x800/filters:focal(662x344:902x584)/cdn.vox-cdn.com/uploads/chorus_image/image/70320192/1127310221.0.jpg' width='700px' /><br/>
+Several members of political opposition groups in Poland have produced evidence that they were hacked by Pegasus spyware, raising alarming questions about the Polish government's use of the software.
+<a href='https://www.theverge.com/2021/12/27/22855390/poland-pegasus-spyware-opposition-brejza-nso'> Source <a/>
