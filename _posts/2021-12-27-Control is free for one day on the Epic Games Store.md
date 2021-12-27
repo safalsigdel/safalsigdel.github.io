@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nOJh4B7DsaVNpYSa5cRWKuu32Vk=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70318393/March_PR_Beat_039_combat.0.png' width='700px' /><br/>
+The Epic Games Store is offering Control for free as part of its 15 days of free games promotion — the game is only available for free until December 27th at 11AM. To get the game, simply log in to the Epic Games Store (or create an account), navigate to Control's game page, and then hit “Get” to add the game to your library for free.
+<a href='https://www.theverge.com/2021/12/26/22854581/control-free-epic-games-store'> Source <a/>

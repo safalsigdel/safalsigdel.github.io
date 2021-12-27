@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g792K6Z7zjn0NrKU0WKyEaPvl2Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70310901/acastro_180213_1777_0004.0.jpg' width='700px' /><br/>
-2021 will have been the year that Apple finally embraced lossless music streaming and prices for hi-fi listening came down at Amazon and Tidal. But the biggest subscription music service of all, Spotify, seems likely to miss its original target for launching a higher-quality streaming plan.
-<a href='https://www.theverge.com/2021/12/23/22851667/spotify-hifi-lossless-hi-fi-streaming'> Source <a/>
