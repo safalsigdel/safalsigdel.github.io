@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PKSO86Z1rlP-V0mV1kBqgavhWk8=/0x0:3000x2000/1200x675/filters:focal(978x998:1458x1478)/cdn.vox-cdn.com/uploads/chorus_image/image/70319901/RoundUpArt_PCGames.0.jpg' width='700px' /><br/>
+Getting a new gaming PC is a bit like opening Pandora's Box when it comes to deciding what to play. With frequent releases on Steam, a never-ending flow of free games on the Epic Games Store, a plethora of indie arthouse games on itch.io, and countless other launchers and storefronts to install and choose from, it can feel like the Netflix effect of paralysis by choice.
+<a href='https://www.theverge.com/22803171/gaming-pc-computer-best-games-2021'> Source <a/>
