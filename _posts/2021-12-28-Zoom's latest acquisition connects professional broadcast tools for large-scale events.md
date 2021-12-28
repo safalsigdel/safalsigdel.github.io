@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SeILbUBGKJOx7wtpr33TmH5OxT0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70320494/acastro_200331_1777_zoom_0003.0.0.jpg' width='700px' /><br/>
+Zoom has acquired the Zoom-based broadcast tools created by the startup Liminal, along with two of the company's co-founders, the videoconferencing platform announced in a post on its blog. Liminal's add-ons, ZoomOSC and ZoomISO, are built for creating professional virtual events, which Zoom will likely natively integrate into its software as part of the acquisition.
+<a href='https://www.theverge.com/2021/12/27/22855426/zoom-liminal-acquisition-professional-broadcast-tools-events'> Source <a/>

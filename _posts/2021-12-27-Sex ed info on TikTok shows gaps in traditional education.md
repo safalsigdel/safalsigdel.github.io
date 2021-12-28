@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J-XzbVGctk4pTQmTKVSxUC24Rpc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70313867/acastro_190723_1777_tiktok_0003.0.0.jpg' width='700px' /><br/>
-Teens and adolescents might be turning to TikTok to learn about sex when their typical sex education isn't sufficient. But the videos on the platform aren't screened for misinformation and don't give teens ways to ask additional questions, notes a new analysis.
-<a href='https://www.theverge.com/2021/12/24/22851540/tiktok-sex-education-gaps-misinformation'> Source <a/>

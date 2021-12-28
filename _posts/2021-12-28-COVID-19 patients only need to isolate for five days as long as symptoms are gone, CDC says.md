@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M5jtf_lV3a6kJ-nzZQO97rcGiag=/0x0:3000x1969/1200x800/filters:focal(1260x745:1740x1225)/cdn.vox-cdn.com/uploads/chorus_image/image/70321542/1237390695.0.jpg' width='700px' /><br/>
+People who test positive for COVID-19 only need to isolate for five days as long as their symptoms have stopped, the Centers for Disease Control and Prevention said Monday. The change to isolation guidelines from 10 days to five is based on data showing people with COVID-19 are most likely to be contagious to others during the few days before and after they start showing symptoms, the agency said in a statement.
+<a href='https://www.theverge.com/2021/12/27/22856114/cdc-covid-isolation-guidelines-shortened-omicron'> Source <a/>

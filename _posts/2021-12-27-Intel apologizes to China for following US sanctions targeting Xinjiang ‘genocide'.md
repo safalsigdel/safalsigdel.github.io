@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/A2jNMP4CBOJiplBmXR5vID1O1is=/0x0:4800x3278/1200x800/filters:focal(2016x1255:2784x2023)/cdn.vox-cdn.com/uploads/chorus_image/image/70313452/1237391676.0.jpg' width='700px' /><br/>
-Intel has issued an apology to partners and customers in China after it told local suppliers it would not be using labor or goods sourced from the country's Xinjiang region. The company has deleted the statement that resulted in the original backlash.
-<a href='https://www.theverge.com/2021/12/24/22852773/intel-apology-china-xinjiang-labor-goods'> Source <a/>
