@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xYK-UfPcKCUy9bbLZCqIOfIs4No=/0x0:2040x1483/1200x800/filters:focal(857x579:1183x905)/cdn.vox-cdn.com/uploads/chorus_image/image/70326370/TCL_Roku_TV_Wireless_Soundbar_Lifestyle.0.jpg' width='700px' /><br/>
+Roku today announced the expansion of its “Roku TV Ready” certification program, bringing in newcomer brands Polk Audio and Westinghouse early next year (and joining recent manufacturers Philips, JVC, and Element).
+<a href='https://www.theverge.com/2021/12/29/22857104/roku-tv-ready-program-expansion'> Source <a/>
