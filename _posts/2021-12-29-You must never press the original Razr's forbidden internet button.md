@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aJ_qevBGqhdfvbLPcObNo068-Dc=/0x0:2040x1360/1200x800/filters:focal(813x503:1139x829)/cdn.vox-cdn.com/uploads/chorus_image/image/70326289/akrales_211228_4946_0050.0.jpg' width='700px' /><br/>
+The first phone I ever owned was a Motorola Razr. The Razr's buttons are some of the finest ever to grace a mobile device. The keypad is laser-etched out of a sheet of shimmering aluminum, and when pressed, ignites in a lambent blue glow that looked like the sci-fi future.
+<a href='https://www.theverge.com/2021/12/29/22857413/motorola-razr-internet-button-flip-phone-data-cellular-charges'> Source <a/>
