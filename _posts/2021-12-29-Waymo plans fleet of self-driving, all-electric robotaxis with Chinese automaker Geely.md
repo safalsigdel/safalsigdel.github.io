@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y-PKppuuC7zWbXiBqo2dqnyt40Y=/0x0:3072x1728/1200x800/filters:focal(1291x619:1781x1109)/cdn.vox-cdn.com/uploads/chorus_image/image/70326006/Waymo_Geely_Exterior_Studio.0.jpeg' width='700px' /><br/>
+Alphabet's self-driving car company Waymo is partnering with Chinese automaker Geely to create a fleet of all-electric, self-driving robotaxis.
+<a href='https://www.theverge.com/2021/12/29/22858144/waymo-geely-partnership-all-electric-self-driving-minivans-zeekr'> Source <a/>
