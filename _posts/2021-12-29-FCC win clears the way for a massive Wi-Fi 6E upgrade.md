@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PhnvlD28LJS-LEntB220Ct18s4w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70325566/acastro__171016_1777_0001_v6.0.jpg' width='700px' /><br/>
+A ruling (pdf) on Tuesday by the U.S. Court of Appeals for the District of Columbia Circuit has backed up an April 2020 decision by the FCC to open up 1,200MHz of spectrum in the 6GHz band for unlicensed use. Unlicensed means anyone can use it, as long as they do so responsibly, covering uses like your future Wi-Fi 6E home network.
+<a href='https://www.theverge.com/2021/12/28/22857852/6ghz-wifi-win-fcc-wi-fi-6e-7-att-spectrum'> Source <a/>
