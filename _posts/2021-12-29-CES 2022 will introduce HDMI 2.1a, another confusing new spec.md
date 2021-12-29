@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1D9K4AgSXzUYejbxYannD3fl66s=/0x0:1000x670/1200x800/filters:focal(420x255:580x415)/cdn.vox-cdn.com/uploads/chorus_image/image/70326441/shutterstock_123837283.0.jpg' width='700px' /><br/>
+The HDMI standards are a mess. HDMI 2.1, in particular, is a uniquely frustrating mess, with haphazard support among TV manufacturers, cable makers, and devices that make setting up, say 120Hz gaming on a PS5 or Xbox Series X a uniquely harrowing experience.
+<a href='https://www.theverge.com/2021/12/29/22856103/hdmi-2-1a-spec-standard-mess-cables-source-based-tone-mapping-ces-2022'> Source <a/>
