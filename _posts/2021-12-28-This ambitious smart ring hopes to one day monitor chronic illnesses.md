@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0IogkXA9TiWiaAnaApa0mf_IbMQ=/0x0:2400x1500/1200x800/filters:focal(1008x558:1392x942)/cdn.vox-cdn.com/uploads/chorus_image/image/70319586/Offset_Ad.0.png' width='700px' /><br/>
-The Oura Ring isn't the only smart ring on the block anymore. For CES 2022, health tech company Movano is announcing the Movano Ring, a wearable that aims to help people affordably monitor chronic illnesses and better understand their data.
-<a href='https://www.theverge.com/2021/12/27/22850147/movano-ring-smart-ring-chronic-illnesses-ces-2022'> Source <a/>

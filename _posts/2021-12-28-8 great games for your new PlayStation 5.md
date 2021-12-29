@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TTr54uEccyTITqhJeYJJDjMEFHM=/0x0:3000x2000/1200x675/filters:focal(961x981:1441x1461)/cdn.vox-cdn.com/uploads/chorus_image/image/70315775/RoundUpArt_PS5.0.jpg' width='700px' /><br/>
-The PlayStation 5 was released in November 2020, but it's still incredibly hard to get. The chip shortage has rendered it nearly impossible to log onto your favorite retailer's site and order one. In other words, among the no-doubt massive amount of people who want a PS5, very few are actually able to get one these days.
-<a href='https://www.theverge.com/22825859/ps5-best-games-playstation-5-sony-2021'> Source <a/>

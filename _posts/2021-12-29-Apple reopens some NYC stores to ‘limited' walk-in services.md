@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pXHpzk60MkAanrnGikGoLOMe5EY=/0x0:5017x3470/1200x800/filters:focal(3121x591:3923x1393)/cdn.vox-cdn.com/uploads/chorus_image/image/70321422/1306792576.0.jpg' width='700px' /><br/>
+As initially reported by Bloomberg's Mark Gurman on Monday, all of New York City's Apple Stores joined the list of locations closing their doors to most customers amid a spike in the number of COVID-19 infections. Gurman tweeted again on Tuesday, noting the stores have updated their listings, saying they are available for “limited” walk-in services for shopping and Genius Bar tech support.
+<a href='https://www.theverge.com/2021/12/27/22856059/apple-store-new-york-city-online-order-only'> Source <a/>

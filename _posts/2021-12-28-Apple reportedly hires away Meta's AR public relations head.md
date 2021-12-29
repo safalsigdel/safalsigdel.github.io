@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gz1TjYpBiu8hxFmR9fkr6Ahni6Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70318198/acastro_170731_1777_0004_v4.0.jpg' width='700px' /><br/>
-Apple has reportedly hired Andrea Schubert, Meta's communications and public relations lead for its augmented reality (AR) products, according to Bloomberg reporter Mark Gurman in his Power On newsletter. Schubert's LinkedIn page indicates that she's been working for Meta for nearly six years.
-<a href='https://www.theverge.com/2021/12/26/22854541/apple-hires-meta-ar-communications-headset'> Source <a/>

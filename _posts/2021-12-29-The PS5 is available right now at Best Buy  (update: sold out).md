@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7XdFayhiuEqSMFhI2eA_pfQ6UsY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70323707/acastro_210511_1777_psRestock_0005.0.jpg' width='700px' /><br/>
+Update 12:59PM ET, December 28th: Best Buy has sold out of PS5s for now, but it has started selling the Xbox Series X.
+<a href='https://www.theverge.com/2021/12/28/22848656/ps5-holiday-restock-best-buy-playstation-5-console'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GWc1m5h5vtJNOR-xCEnRhINYDuc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70323608/cwelch_191016_3738_0008.0.jpg' width='700px' /><br/>
+Amazon's Alexa told a child to touch a penny to the exposed prongs of a phone charger plugged into the wall, according to one parent who posted screenshots of their Alexa activity history showing the interaction (via Bleeping Computer). The device seemingly pulled the idea for the challenge from an article describing it as dangerous, citing news reports about an alleged challenge trending on TikTok.
+<a href='https://www.theverge.com/2021/12/28/22856832/amazon-alexa-challenge-child-dangerous-electricity-algorithm'> Source <a/>

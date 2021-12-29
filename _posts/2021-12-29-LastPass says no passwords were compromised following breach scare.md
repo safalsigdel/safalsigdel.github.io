@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fTXZVSe3JyuE4T0EYT3KCI1ZefU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70324986/acastro_170629_1777_0008.0.jpg' width='700px' /><br/>
+LastPass says there's no evidence of a data breach following users' reports that they were notified of unauthorized login attempts, as reported by AppleInsider. The password manager maintains that it was never compromised, and users' accounts haven't been accessed by bad actors.
+<a href='https://www.theverge.com/2021/12/28/22857485/lastpass-compromised-breach-scare'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xq79z5lMbwD9NtYjTti97SVWz80=/0x0:2040x1360/1200x800/filters:focal(533x549:859x875)/cdn.vox-cdn.com/uploads/chorus_image/image/70324234/cgartenberg_210111_4368_0011.0.jpg' width='700px' /><br/>
+Samsung is starting to roll out its Android 12-based One UI 4 update again after the company paused its original release due to reports of bugs and soft bricks from users, according to XDA Developers. The update, which is hopefully a bit more stable, should soon be available for Galaxy S21 phones (including the S21 Plus and Ultra), along with the Galaxy Z Flip 3 and Z Fold 3.
+<a href='https://www.theverge.com/2021/12/28/22857057/samsung-android-12-galaxy-s21-z-flip-fold-one-ui-4'> Source <a/>
