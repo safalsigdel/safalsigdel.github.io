@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/RGXucPgq7LKjibVObt0uR9ypjW8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70323488/acastro_210511_1777_xboxRestock_0001.0.jpg' width='700px' /><br/>
 Update 12:58PM ET, December 28th: Costco has sold out of consoles for now, but Best Buy is now offering them.
-<a href='https://www.theverge.com/2021/12/28/22857003/microsoft-xbox-series-x-console-restock-costco-availability'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/RGXucPgq7LKjibVObt0uR9ypjW8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70323488/acastro_210511_1777_xboxRestock_0001.0.jpg' width='700px' /><br/>
-Update 12:58PM ET, December 28th: Costco has sold out of consoles for now, but Best Buy is now offering them.
 <a href='https://www.theverge.com/2021/12/28/22857003/microsoft-xbox-series-x-console-restock-costco-availability'> Source <a/>
