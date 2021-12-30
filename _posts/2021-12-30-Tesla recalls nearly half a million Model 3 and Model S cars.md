@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XNcMFfB-GGHEdDfQZu-yt-5kf40=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70330040/acastro_180430_1777_tesla_0001.0.jpg' width='700px' /><br/>
+Tesla has issued voluntary recalls for nearly half a million vehicles to address potential failures in its trunk latching systems, as first reported by Barron's. The recalls apply to all Model 3 units released between 2017 and 2020, as well as certain Model S units.
+<a href='https://www.theverge.com/2021/12/30/22859717/tesla-model-3-s-recall-trunk-latch-failure-nhtsa'> Source <a/>
