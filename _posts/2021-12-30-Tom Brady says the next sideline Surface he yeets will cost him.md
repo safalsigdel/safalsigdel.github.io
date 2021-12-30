@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DhFbE18RanFvt8w1tOypyJb1JuI=/0x0:8192x5464/1200x800/filters:focal(4016x1106:5326x2416)/cdn.vox-cdn.com/uploads/chorus_image/image/70328812/1359916928.0.jpg' width='700px' /><br/>
+On the Sunday Night Football stage, December 19th, Tom Brady and the Buccaneers were swept for the second consecutive regular season against the Saints — a frustrating shut-out loss that had Brady spiking a poor Microsoft Surface tablet on the sideline.
+<a href='https://www.theverge.com/2021/12/29/22858818/microsoft-surface-nfl-tom-brady-fine-broken-tablet-football'> Source <a/>
