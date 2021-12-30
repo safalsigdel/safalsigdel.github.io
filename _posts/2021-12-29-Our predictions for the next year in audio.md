@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1xL0mgRrCNTlax4-ieiOqdfDZu0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70322967/acastro_211217_1777_0002.0.jpg' width='700px' /><br/>
-Hello, hello. I hope you all had a nice holiday and are ready for another one. Last week we looked back on 2021, and this week, we're looking forward to 2022. We have a couple quick news hits from last week to get through first, but then Aria and I will offer our predictions for the year to come. Off we go.
-<a href='https://www.theverge.com/22856066/podcast-audio-predictions-2022-hot-pod'> Source <a/>

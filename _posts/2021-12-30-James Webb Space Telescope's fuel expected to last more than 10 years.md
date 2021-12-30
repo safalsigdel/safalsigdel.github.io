@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1RjYK7KGYiodDqPAtmuXrTOe2k0=/0x0:1100x702/1200x800/filters:focal(462x263:638x439)/cdn.vox-cdn.com/uploads/chorus_image/image/70327881/mirror44_lg.1419965238.0.jpg' width='700px' /><br/>
+Following the revolutionary and successful launch of the James Webb Space Telescope, or JWST, into space on Christmas day, NASA announced some unexpected news about the telescope's future: its science mission is likely to last “significantly more” than 10 years — more than double the minimum time for the mission.
+<a href='https://www.theverge.com/2021/12/29/22858406/nasa-james-webb-space-telescope-mission'> Source <a/>

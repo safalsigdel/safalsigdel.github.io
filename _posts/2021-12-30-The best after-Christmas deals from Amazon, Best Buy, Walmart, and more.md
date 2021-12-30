@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iSC7aG9shZgfLR_EVMvXaA_bCaM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70328195/DSCF4084_Edited.0.jpg' width='700px' /><br/>
+Whether you've got a stack of gift cards burning a hole in your pocket or ended up with two air fryers that you don't have room for, there are still plenty of deals to help you stretch your spending before the new year. Below we've outlined some of the best tech deals, sales, and promotions from a variety of retailers across a number of categories to make sure you don't end up with two stand mixers when you didn't even need one.
+<a href='https://www.theverge.com/good-deals/2021/12/29/22857133/best-tech-deals-post-christmas-holiday'> Source <a/>
