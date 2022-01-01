@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OEdE87gg-EO0onbWPvuHXM3BLxE=/0x0:1000x708/1200x800/filters:focal(420x274:580x434)/cdn.vox-cdn.com/uploads/chorus_image/image/70331437/PCIe_5.0_SSD_main2.0.jpg' width='700px' /><br/>
+PCIe 5.0 SSDs have already started to get announced ahead of CES 2022, with Samsung and Adata teasing early hardware that supports the new standard. But it's not just theoretical: Intel has released a new demo video showing off Samsung's new PM1743 PCIe NVMe SSD in action (together with Intel's Core i9-12900K CPU, of course) to hit data speeds over 13GB/s in the real world.
+<a href='https://www.theverge.com/2021/12/30/22860374/intel-samsung-ces-2022-demo-pcie-5-0-ssd-setup-speed-test'> Source <a/>
