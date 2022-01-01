@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/n2oHANaYAVFoyyayJa0Z2MYSet8=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70333313/1164608304.0.jpg' width='700px' /><br/>
 Apple is sending independent auditors to investigate an iPhone assembly facility in India, after poor working and living conditions at the plant prompted workers to go on strike.
+<a href='https://www.theverge.com/2021/12/31/22861167/apple-investigates-iphone-plant-strike-food-poisoning'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/n2oHANaYAVFoyyayJa0Z2MYSet8=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70333313/1164608304.0.jpg' width='700px' /><br/>
+Apple is sending independent auditors to investigate an iPhone assembly facility in India, after poor working and living conditions at the plant prompted workers to go on strike.
 <a href='https://www.theverge.com/2021/12/31/22861167/apple-investigates-iphone-plant-strike-food-poisoning'> Source <a/>
