@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/yMckVxnIHkka5-DH0JYBauCw9C0=/0x0:1675x1196/1200x800/filters:focal(704x464:972x732)/cdn.vox-cdn.com/uploads/chorus_image/image/70333047/g04.0.jpg' width='700px' /><br/>
 Here's something for the gamer that has everything: a tabletop hand massager that can be used to remove fatigue from your aching mitts and keep you on top form.
-<a href='https://www.theverge.com/2021/12/31/22861124/tabletop-hand-massager-for-gamers-bauhutte'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/yMckVxnIHkka5-DH0JYBauCw9C0=/0x0:1675x1196/1200x800/filters:focal(704x464:972x732)/cdn.vox-cdn.com/uploads/chorus_image/image/70333047/g04.0.jpg' width='700px' /><br/>
-Here's something for the gamer that has everything: a tabletop hand massager that can be used to remove fatigue from your aching mitts and keep you on top form.
 <a href='https://www.theverge.com/2021/12/31/22861124/tabletop-hand-massager-for-gamers-bauhutte'> Source <a/>
