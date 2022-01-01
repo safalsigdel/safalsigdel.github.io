@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3PxNXOdy0uBgHarKAUbNvsT_rA0=/0x0:960x618/1200x800/filters:focal(404x233:556x385)/cdn.vox-cdn.com/uploads/chorus_image/image/70325923/110411_57576_1754.0.jpg' width='700px' /><br/>
-LG is the maker of some of our favorite OLED TVs, so when the company says it's improved on its basic panel technology, it's worth paying attention. Today it did just that, with LG Display announcing its next-generation OLED technology — dubbed OLED EX — which the company says will increase brightness by up to 30 percent, boost picture accuracy, and allow for smaller bezels in finished products.
-<a href='https://www.theverge.com/2021/12/29/22858131/lg-oled-ex-technology-improved-brightness-accuracy-ces-2022'> Source <a/>

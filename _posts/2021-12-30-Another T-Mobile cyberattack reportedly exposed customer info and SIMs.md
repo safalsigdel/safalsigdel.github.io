@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-dgqaivgb6hBXiaC-D0blqmgHqU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70325031/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
-T-Mobile has suffered another cyberattack after being rocked by a massive data breach in August. This time around, attackers accessed “a small number of” customers' accounts,  according to documents posted by The T-Mo Report.
-<a href='https://www.theverge.com/2021/12/28/22857619/t-mobile-cyberattack-data-breach-december-2021-cpni-sim-swap'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ttEEYEaCotyp9M4C_CY-WwlvnTw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70333150/akrales_180531_2598_0178.0.jpg' width='700px' /><br/>
+Dear friends, we're gathered here today to mourn the death of that once-beloved monarch of the mobile world: BlackBerry. And, yes, I realize that this is not the first time we've announced the death of the company or its devices (and, for reasons I'll explain below, it likely won't be the last) but this is a very definite ending for legacy BlackBerry hardware.
+<a href='https://www.theverge.com/2021/12/31/22861141/blackberry-legacy-devices-dead-lose-functionality-january-4th'> Source <a/>

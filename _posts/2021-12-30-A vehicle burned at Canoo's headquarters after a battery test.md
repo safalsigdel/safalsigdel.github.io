@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dyfaaix7p9YLJYINYkqCvO3R6Z0=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70328780/canoo_Design_Exterior_03.0.jpg' width='700px' /><br/>
-A vehicle at EV startup Canoo burned on August 24th after lithium-ion batteries left inside the car started a fire. The local fire department was able to extinguish the blaze and no one was injured, according to an incident report obtained by The Verge.
-<a href='https://www.theverge.com/2021/12/29/22846610/canoo-fire-california-august-startup-battery-lithium-ion'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1Qkgv4DN3gi3ZKFA28SKigQ2HdI=/0x0:3000x2000/1200x675/filters:focal(1015x946:1495x1426)/cdn.vox-cdn.com/uploads/chorus_image/image/70329999/RoundUpArt_Windows_Apps.0.jpg' width='700px' /><br/>
-This year marked the launch of Windows 11. Stock permitting, there are a variety of PCs and laptops available with Microsoft's new operating system, and while the updated Microsoft Store fills out with apps, we figured we'd put together a list of our 11 favorite apps for a new Windows 11 PC.
-<a href='https://www.theverge.com/22837232/windows-11-pc-best-apps-microsoft-2021'> Source <a/>

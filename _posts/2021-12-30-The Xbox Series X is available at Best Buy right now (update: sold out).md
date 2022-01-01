@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iWvsRwcvL1jbFyQvTil7kUqEr5w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70323821/vpavic_201103_4275_0182.0.jpg' width='700px' /><br/>
-Update 3:11PM ET, December 28th: Best Buy has sold out of consoles for now.
-<a href='https://www.theverge.com/2021/12/28/22857179/microsoft-xbox-series-x-console-restock-availability-check'> Source <a/>

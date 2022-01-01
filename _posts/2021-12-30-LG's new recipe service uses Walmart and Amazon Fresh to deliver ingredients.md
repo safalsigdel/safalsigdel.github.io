@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4q5SH06JtFT_TjclqM4bZbZYRXE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70325845/New_Kitchen_Duo_2.0.jpg' width='700px' /><br/>
-LG just announced its latest lineup of smart kitchen appliances. Fine, but what's notable this time is a service that could make life just a little bit easier. LG says the ThinQ Recipe app and service is “new for 2022” and will let users seamlessly select from thousands of recipes for delivery directly from Walmart or Amazon Fresh without ever leaving the app.
-<a href='https://www.theverge.com/2021/12/29/22858099/lg-recipe-delivery-service-walmart-amazon-fresh-2022'> Source <a/>

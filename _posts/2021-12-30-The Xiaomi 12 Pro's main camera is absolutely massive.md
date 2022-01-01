@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TvIusuQe1BWkyGnptdDG7PMAogw=/0x0:686x590/1200x800/filters:focal(289x241:397x349)/cdn.vox-cdn.com/uploads/chorus_image/image/70328002/23b7af4f9dcbdb453c205e6c51479e5a.0.png' width='700px' /><br/>
-Xiaomi is at it again — putting another fantastically huge camera on a flagship phone. This time, it's the Xiaomi 12 Pro with a 50-megapixel main sensor and f/1.9 standard wide lens. It's not the very biggest sensor Xiaomi has used in a phone, but the combination of a wide aperture lens and sizable imaging chip makes it... well, just look at the thing.
-<a href='https://www.theverge.com/2021/12/29/22858529/xiaomi-12-pro-camera-specifications-price'> Source <a/>
