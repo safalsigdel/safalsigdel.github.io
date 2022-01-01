@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Uum7wcneywkElL2usFVYU1Wep5U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70330789/sokane_210125_4386_1985.0.jpg' width='700px' /><br/>
-On Wednesday, New York City announced it has ordered 184 fully electric Ford Mustang Mach-Es for use by law enforcement and emergency response workers. The vehicles are set to be delivered by June 2022, as part of an $11.5 million contract that will remain in place for five years.
-<a href='https://www.theverge.com/2021/12/30/22860068/nyc-police-car-electric-ford-mustang-mach-e'> Source <a/>
