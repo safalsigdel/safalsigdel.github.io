@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/CImzTfDiBAQxDfoeXH-SsmjpnGY=/0x0:2040x1360/1200x800/filters:focal(690x585:1016x911)/cdn.vox-cdn.com/uploads/chorus_image/image/70339936/DSCF1198-3.0.0.jpg' width='700px' /><br/>
 In an ongoing battle pitting the FAA and airlines against the FCC, Verizon, and AT&T over their planned launch of mid-band 5G service, the mobile carriers are declining a request by the FAA for a two-week delay.
-<a href='https://www.theverge.com/2022/1/2/22863964/faa-fcc-verizon-att-c-band-5g-airports-proposal-rejected'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/CImzTfDiBAQxDfoeXH-SsmjpnGY=/0x0:2040x1360/1200x800/filters:focal(690x585:1016x911)/cdn.vox-cdn.com/uploads/chorus_image/image/70339936/DSCF1198-3.0.0.jpg' width='700px' /><br/>
-In an ongoing battle pitting the FAA and airlines against the FCC, Verizon, and AT&T over their planned launch of mid-band 5G service, the mobile carriers are declining a request by the FAA for a two-week delay.
 <a href='https://www.theverge.com/2022/1/2/22863964/faa-fcc-verizon-att-c-band-5g-airports-proposal-rejected'> Source <a/>
