@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SZRxIJiGcFKUYCdzBciVjWlH2RQ=/0x0:3000x2000/1200x800/filters:focal(1866x456:2346x936)/cdn.vox-cdn.com/uploads/chorus_image/image/70341420/KOHLER_PerfectFill_aad89908_rgb.0.jpg' width='700px' /><br/>
+Kohler's long-touted PerfectFill technology is finally here, and frazzled parents everywhere can breathe a sigh of relief. The company announced the availability of its smart bath tech at CES 2022 this week, which lets you fill up a bathtub with a simple voice command. So, if you're downstairs cooking dinner and want to get the kids' bath going, you can just ask Alexa or Google to run the bath for you.
+<a href='https://www.theverge.com/2022/1/3/22858257/kohler-ces-2022-smart-bathroom-perfectfill'> Source <a/>
