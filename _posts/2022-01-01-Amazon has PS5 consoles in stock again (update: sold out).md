@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J8W69qVkDKhL3yz2lA6ceMWH7pw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70330580/vpavic_4261_20201023_0040.0.jpg' width='700px' /><br/>
-Update December 30th, 11:48AM ET: And it appears that due to an astounding lack of defenses against bots, Amazon is already sold out, again.
-<a href='https://www.theverge.com/2021/12/30/22856985/sony-playstation-5-amazon-disc-edition-console-restock-availability'> Source <a/>

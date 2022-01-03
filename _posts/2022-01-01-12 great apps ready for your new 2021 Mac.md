@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SaJPBK9Hc-BOOlnRVhZ6LFBFOSw=/0x0:3000x2000/1200x675/filters:focal(989x946:1469x1426)/cdn.vox-cdn.com/uploads/chorus_image/image/70330300/RoundUpArt_MacApps.0.jpg' width='700px' /><br/>
-With Apple's fancy new MacBook Pros, its colorful new iMacs, and of course, 2020's still-excellent M1 MacBook Air all offering incredible performance and battery life, it's never been a better time to give (or receive) a new Mac.
-<a href='https://www.theverge.com/22814365/mac-best-apps-apple-2021'> Source <a/>

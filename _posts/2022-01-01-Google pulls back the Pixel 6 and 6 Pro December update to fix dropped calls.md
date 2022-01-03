@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UtGKdt8anYpJP97F-wSrWC32qbA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70331127/akrales_211020_4802_0082.0.jpg' width='700px' /><br/>
-The rollout of the first major update for Google's Pixel 6 and Pixel 6 Pro has been slow and plagued by reports of problems. Now the company says it paused releasing the December 2021 update to investigate reports of calls dropping and disconnecting.
-<a href='https://www.theverge.com/2021/12/30/22860191/pixel-6-pro-google-december-feature-update-paused'> Source <a/>

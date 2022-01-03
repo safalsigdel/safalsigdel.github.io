@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EdB6c9TgkgGAWTKARnm_IONY7II=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70339888/acastro_180507_1777_microsoft_0002.0.jpg' width='700px' /><br/>
+If you woke up on January 1st, 2022, and found that your work email's inbox was unusually empty, you aren't alone. Microsoft rang in the New Year with a bug that prevents Exchange servers from sending emails, but fortunately, a fix has since been issued, as detailed in a report by Bleeping Computer.
+<a href='https://www.theverge.com/2022/1/2/22863950/microsoft-exchange-y2k22-bug'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zp-DxB7Mz3dCmKFjttTY_C0q3Ww=/0x0:1445x963/1200x800/filters:focal(547x345:777x575)/cdn.vox-cdn.com/uploads/chorus_image/image/70332119/1DXbody_3Q_hiRes.0.jpg' width='700px' /><br/>
-When Canon revealed the EOS-1D X Mark III in January 2020, we proclaimed that the DSLR “still isn't dead,” but that camera will mark the end of the line for a flagship model that some pro photographers still swear by to capture everything from sporting events to wild animals.
-<a href='https://www.theverge.com/2021/12/30/22860537/canon-dslr-mirrorless-eos-1d-x-mark-iii-development-production-end'> Source <a/>
