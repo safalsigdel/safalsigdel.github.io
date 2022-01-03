@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/Arv7n16SlMBrLKKzlL90hRMPqHg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70339587/jbareham_180213_2301_0109.0.jpg' width='700px' /><br/>
 Tesla delivered a record 936,172 vehicles in 2021, as outlined in a report from Tesla, representing an 87 percent increase over the 499,550 vehicle deliveries Tesla made in 2020.
+<a href='https://www.theverge.com/2022/1/2/22863751/tesla-delivered-one-million-vehicles-2021'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/Arv7n16SlMBrLKKzlL90hRMPqHg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70339587/jbareham_180213_2301_0109.0.jpg' width='700px' /><br/>
+Tesla delivered a record 936,172 vehicles in 2021, as outlined in a report from Tesla, representing an 87 percent increase over the 499,550 vehicle deliveries Tesla made in 2020.
 <a href='https://www.theverge.com/2022/1/2/22863751/tesla-delivered-one-million-vehicles-2021'> Source <a/>
