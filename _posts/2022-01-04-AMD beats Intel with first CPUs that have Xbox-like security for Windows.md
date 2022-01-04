@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/u-68ueKr3GbzoPOJlE7G0tZB7Y0=/0x0:1163x610/1200x800/filters:focal(489x212:675x398)/cdn.vox-cdn.com/uploads/chorus_image/image/70345993/ZwVORCZ.0.png' width='700px' /><br/>
+AMD is launching its Ryzen 6000 laptop processors today, and they're the first to include Microsoft's new Pluton security processor. It's a new security chip that's designed to bring Xbox-like security to Windows PCs, to secure hardware and cryptographic keys.
+<a href='https://www.theverge.com/2022/1/4/22866687/amd-ryzen-6000-microsoft-pluton-xbox-security-features-ces-2022'> Source <a/>

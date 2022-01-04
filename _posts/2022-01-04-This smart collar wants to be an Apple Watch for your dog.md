@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZEoH-U4goX_sB7SztTys9Q_oIhM=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70344312/Smart_Dog_Collar_Logo___Invoxia.0.jpg' width='700px' /><br/>
-Pet trackers have been around for ages, but Invoxia is looking to shake things up at CES 2022 with a new smart collar that can also monitor your dog's vital signs. And of course, the smart collar also doubles as a GPS and activity tracker for your pooch.
-<a href='https://www.theverge.com/2022/1/3/22857166/invoxia-pet-tracker-smart-collar-heart-rate-dogs'> Source <a/>

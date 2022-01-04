@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ueWzsatTxSHIyg18tA2qvc-mVCk=/0x0:2350x1304/1200x800/filters:focal(987x464:1363x840)/cdn.vox-cdn.com/uploads/chorus_image/image/70346004/Screen_Shot_2022_01_04_at_9.23.31_AM.0.png' width='700px' /><br/>
+AMD has a new entry-level RX 6000-series GPU, the $199 RX 6500 XT, which shaves off a considerable $179 from the company's previous cheapest RDNA 2 GPU, the $379 RX 6600 XT released over the summer.
+<a href='https://www.theverge.com/2022/1/4/22865817/amd-radeon-rx-6500-xt-rdna-2-price-release-date'> Source <a/>
