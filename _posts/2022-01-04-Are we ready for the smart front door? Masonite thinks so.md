@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tBzakz2sNUIBYRzdBmGjPKpX2VQ=/0x0:1280x853/1200x800/filters:focal(538x325:742x529)/cdn.vox-cdn.com/uploads/chorus_image/image/70345069/Masonite_MPwer_Shot2b.0.png' width='700px' /><br/>
+Door manufacturer Masonite is showcasing the first residential smart door at CES 2022, highlighting the home building industry's shift toward embracing connected technology. The concept was announced earlier in 2021, but CES is the first chance most will have to see the door in action.
+<a href='https://www.theverge.com/2022/1/4/22858256/masonite-smart-door-ring-yales-ces-2022'> Source <a/>
