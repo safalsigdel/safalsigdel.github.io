@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T0nzjkg_3UdRecbQV0KI1tAVFFI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67755677/vpavic_4278_20201030_0345.0.jpg' width='700px' /><br/>
-The PlayStation 5 is becoming more available than it once was, but even with the increased frequency of restocks, Sony's next-gen console remains difficult to find. If you were lucky enough to secure a launch unit or receive a PS5 as a holiday gift, however, picking up a few accessories can help ensure you get the most out of your new console.
-<a href='https://www.theverge.com/21550907/ps5-wireless-controller-ssd-hard-drive-accessories-sony'> Source <a/>

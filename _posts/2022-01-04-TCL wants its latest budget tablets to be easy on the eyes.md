@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tRm6sYB1fEVyCV1lBz5fuSbU7y4=/0x220:2480x1750/1200x800/filters:focal(1042x677:1438x1073)/cdn.vox-cdn.com/uploads/chorus_image/image/70345532/tcl_nxtpaper10s_ces2022.0.jpg' width='700px' /><br/>
+TCL introduced a lineup of new tablets at CES this year, which includes its latest iteration of the NxtPaper and budget-friendly Tab series.
+<a href='https://www.theverge.com/2022/1/4/22856038/tcl-tablet-nxtpaper10s-tab8-10l-tkee-ces-2022'> Source <a/>

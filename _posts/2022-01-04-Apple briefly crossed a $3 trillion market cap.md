@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/o-rAPBZdp859RAQk6ym1MbAstBM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70342843/acastro_180604_1777_apple_wwdc_0003.0.jpg' width='700px' /><br/>
-Apple's market cap briefly passed $3 trillion on Monday more than a year after it surpassed the $2 trillion mark and three years after eclipsing $1 trillion.
-<a href='https://www.theverge.com/2022/1/3/22828277/apple-3-trillion-market-cap-company-earnings'> Source <a/>

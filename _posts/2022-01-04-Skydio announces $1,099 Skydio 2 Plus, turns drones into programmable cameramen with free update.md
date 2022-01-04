@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tIeN_xl3BGL-QoAiAw3sdji3f6M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70345512/vpavic_220103_4953_0016.0.jpg' width='700px' /><br/>
+Skydio, the US company building self-flying, obstacle-dodging drones that a three-year-old can pilot without fear, is making two announcements today during CES 2022. One of them is an expensive fix for the Skydio 2's single biggest shortcoming — the other, a totally free update that adds one of the most exciting features yet.
+<a href='https://www.theverge.com/2022/1/4/22866022/skydio-2-plus-drone-keyframe-free-update-price-specs-release'> Source <a/>

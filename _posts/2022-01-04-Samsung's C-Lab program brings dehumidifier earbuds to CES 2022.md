@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T0tF_Ya3jP0kC_vjqFktwCHLbvo=/0x0:6873x5162/1200x800/filters:focal(2888x2032:3986x3130)/cdn.vox-cdn.com/uploads/chorus_image/image/70343753/CES_2022_C_Lab_1__1_.0.jpg' width='700px' /><br/>
-For CES 2022, Samsung revealed a new C-Lab startup lineup that includes pet and baby tech with a spin on promoting additional wearable tech promoting safety features.
-<a href='https://www.theverge.com/2022/1/3/22865185/samsung-c-lab-ces-2022-dearbuds-prinker-startup'> Source <a/>

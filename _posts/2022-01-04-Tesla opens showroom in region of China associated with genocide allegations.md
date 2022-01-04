@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ap4FKN_UsCBhd7LtYgyvGuYv4mU=/0x0:3632x2678/1200x800/filters:focal(1526x1049:2106x1629)/cdn.vox-cdn.com/uploads/chorus_image/image/70342717/1328265762.0.jpg' width='700px' /><br/>
-The Wall Street Journal points out that on New Year's Eve, Tesla revealed on its Weibo page the launch of a new dealership in Xinjiang, a region where the Chinese government has been accused of human rights violations against Uyghur Muslims.
-<a href='https://www.theverge.com/2022/1/3/22864951/tesla-china-xinjiang-uyghur-ev-showroom'> Source <a/>
