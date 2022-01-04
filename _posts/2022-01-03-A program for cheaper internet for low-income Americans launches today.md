@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NzeOlA6n1pPerAfKbMMtlEcECWw=/0x0:7654x5105/1200x800/filters:focal(3215x1941:4439x3165)/cdn.vox-cdn.com/uploads/chorus_image/image/70333953/1333633935.0.jpg' width='700px' /><br/>
-Starting today, eligible US residents can apply for help with their internet bills under the new Affordable Connectivity Program. The program launched today with $14.2 billion from the bipartisan infrastructure law passed in November.
-<a href='https://www.theverge.com/2021/12/31/22861200/application-now-open-discounted-internet-bills-fcc-affordable-connectivity-program'> Source <a/>

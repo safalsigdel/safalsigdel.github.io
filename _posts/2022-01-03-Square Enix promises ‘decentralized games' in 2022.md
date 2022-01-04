@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_Q8E65tDz0i2lKp8RwrHaGn6fzU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70337246/WiiU_SuperSmashBros_111215_screen_01_bmp_jpgcopy.0.0.jpg' width='700px' /><br/>
-What would a Final Fantasy, Tomb Raider, or Deus Ex look like if it were partly powered by the blockchain, so gamers could make money from their contributions? You may get to find out: Square Enix president Yosuke Matsuda has revealed that the company's New Year's resolution is to release “decentralized games” starting in 2022.
-<a href='https://www.theverge.com/2022/1/1/22862646/square-enix-2022-new-years-letter-metaverse-nfts-decentralized-gaming'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JSiQh4m-VMuAtkwsCMGs2vAWyyw=/0x0:6240x4160/1200x800/filters:focal(2701x967:3699x1965)/cdn.vox-cdn.com/uploads/chorus_image/image/70342363/DSCF1306.0.jpg' width='700px' /><br/>
+While you might not expect it, L'Oreal has been a regular at CES these past few years, launching everything from wearable UV and pH sensors to an AI-powered skin care gadget. This year, the company is back with yet another invention, the Colorsonic — a device meant to make dying your hair at home a hell of a lot more convenient.
+<a href='https://www.theverge.com/2022/1/3/22851991/loreal-ces-2022-colorsonic-hair-color-beauty-tech'> Source <a/>

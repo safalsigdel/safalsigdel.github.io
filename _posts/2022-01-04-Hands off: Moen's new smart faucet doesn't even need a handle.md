@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ei0na1T5koVn1ujkliOH23EDFX8=/0x0:2100x2800/1200x800/filters:focal(1336x1300:1672x1636)/cdn.vox-cdn.com/uploads/chorus_image/image/70343560/Moen_Smart_Faucet_with_Motion_Control___No_Handle___Brushed_Gold.0.jpg' width='700px' /><br/>
+Moen revealed its latest smart faucet at CES this week: the Moen Smart Faucet with Motion Control. The new feature adds completely handle-free operation, using gestures to control temperature as well as flow. But you can still have a handle if you really want one.
+<a href='https://www.theverge.com/2022/1/3/22858262/moen-smart-faucet-motion-control-smart-water-network-ces2022'> Source <a/>

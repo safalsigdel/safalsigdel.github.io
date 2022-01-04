@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gP_zKvcRDDdQ4zQqTJz_fIx_AiY=/0x0:5500x3402/1200x800/filters:focal(2310x1261:3190x2141)/cdn.vox-cdn.com/uploads/chorus_image/image/70342630/Keypad_sensors_final_V3.0.png' width='700px' /><br/>
+Arlo announced the impending arrival of its long-awaited home security system at CES 2022 this week, and the product even got a nod as a 2022 CES Innovation Award honoree. The company, known for its top-quality smart security cameras, also announced its support for Matter, a possible indication that a Matter specification for security cameras isn't too far away.
+<a href='https://www.theverge.com/2022/1/3/22865040/arlo-smart-home-security-system-price-availability-ces2022'> Source <a/>

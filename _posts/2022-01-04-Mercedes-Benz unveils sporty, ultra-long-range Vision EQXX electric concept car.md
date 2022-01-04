@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3F8LfTp_qXJ8FuC8t-AL5saagFY=/0x0:4961x2791/1200x675/filters:focal(2085x1000:2877x1792)/cdn.vox-cdn.com/uploads/chorus_image/image/70342355/2021_12_07_Image_22C0001_150.0.jpg' width='700px' /><br/>
+Mercedes-Benz is the latest automaker to make a grab for the title of the longest-range electric vehicle with the reveal of the Vision EQXX, a solar-powered concept car capable of exceeding 1,000 kilometers (648 miles) on a single charge.
+<a href='https://www.theverge.com/2022/1/3/22855555/mercedes-benz-vision-eqxx-ev-range-ces-2022'> Source <a/>

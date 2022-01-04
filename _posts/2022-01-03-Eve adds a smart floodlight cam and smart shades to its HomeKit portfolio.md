@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SXGW0xE1jZHt0WtehewfHw3oEDM=/0x0:5472x3648/1200x800/filters:focal(802x347:1676x1221)/cdn.vox-cdn.com/uploads/chorus_image/image/70341689/Eve_Outdoorcam_Motiv_Lifestyle_1_RGB.0.jpg' width='700px' /><br/>
-Smart home company Eve Systems has announced its first outdoor camera and the availability of its Thread-powered smart shades at CES 2022 this week.
-<a href='https://www.theverge.com/2022/1/3/22858260/eve-ces2022-homekit-floodlight-camera-matter-smart-shades'> Source <a/>

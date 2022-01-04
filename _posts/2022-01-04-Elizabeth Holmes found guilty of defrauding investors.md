@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bJ6DaWKaMj_l3rHi6zushM5BwMI=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70344123/1237402952.0.jpg' width='700px' /><br/>
+Elizabeth Holmes deliberately misled investors about the capabilities of the blood testing technology at Theranos and is guilty of three counts of wire fraud, a jury found today. She is also guilty of conspiracy to defraud investors with her co-defendant, Sunny Balwani.
+<a href='https://www.theverge.com/2022/1/3/22865362/theranos-elizabeth-holmes-wire-fraud-verdict-guilty'> Source <a/>

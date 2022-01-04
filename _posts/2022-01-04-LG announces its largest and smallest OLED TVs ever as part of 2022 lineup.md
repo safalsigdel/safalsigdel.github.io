@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/92ljzuO8NN1kxFA1rBqL6YjtYNE=/0x0:2040x1360/1200x675/filters:focal(848x503:1174x829)/cdn.vox-cdn.com/uploads/chorus_image/image/70344384/cwelch_211209_4929_0028.0.jpg' width='700px' /><br/>
+It's a new year, and that means today LG is announcing its latest series of OLED TVs. For 2022, the company is adding new screen sizes, ratcheting up the brightness (again) on the G series, and bringing some additional features — like multiuser profiles — to the webOS software that runs on its TVs.
+<a href='https://www.theverge.com/2022/1/3/22856102/lg-97-42-inch-oled-4k-8k-qned-tvs-announced-features'> Source <a/>

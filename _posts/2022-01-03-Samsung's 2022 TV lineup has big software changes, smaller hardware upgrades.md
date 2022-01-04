@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fEP4CaR3PFwQpQThSUw9UiYsfMU=/0x0:2040x1239/1200x800/filters:focal(857x457:1183x783)/cdn.vox-cdn.com/uploads/chorus_image/image/70340523/samsung2022tv.0.jpg' width='700px' /><br/>
-Samsung introduced its first TVs with Mini LED technology at CES 2021, and they wound up being perhaps the best sets that the company has produced yet — not counting the exorbitantly priced The Wall, that is. So this year, Samsung is opting for a different approach: it's taking smaller strides in hardware and focusing more of its efforts on software refinement and new features.
-<a href='https://www.theverge.com/2022/1/2/22863489/samsung-2022-neo-qled-8k-4k-tvs-announced-features'> Source <a/>

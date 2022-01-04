@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hlZOqxM_ByWMMkpITpHhZ3MNAdE=/0x0:6750x4500/1200x800/filters:focal(2835x1710:3915x2790)/cdn.vox-cdn.com/uploads/chorus_image/image/70344235/OnePlus_10_Pro.0.jpg' width='700px' /><br/>
+The rear camera layout of OnePlus's next flagship, the OnePlus 10 Pro, has been shown off in a teaser image for the smartphone. The handset is due to launch in China on January 11th before coming to the rest of the world later in the year. OnePlus CEO Pete Lau previously confirmed that the phone would be revealed in January in a post on Weibo.
+<a href='https://www.theverge.com/2022/1/3/22849868/oneplus-pro-china-launch-january-11th-design'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W_Xl1iD-n2AcRvhcnshvnIOB6Go=/0x0:2659x1488/1200x800/filters:focal(1118x532:1542x956)/cdn.vox-cdn.com/uploads/chorus_image/image/70340148/asus_z690_hero_motherboard_burning.0.png' width='700px' /><br/>
-A YouTuber who goes by the name of Buildzoid on the Actually Hardcore Overlocking channel has figured out that a backward capacitor on the Asus ROG Maximus Z690 Hero motherboard is causing it to melt down, according to a report by Tom's Hardware. Asus has since acknowledged the issue in a post on its site and plans on issuing replacements to customers with affected motherboards.
-<a href='https://www.theverge.com/2022/1/2/22864072/asus-z690-hero-motherboards-meltdown-backward-capacitors'> Source <a/>

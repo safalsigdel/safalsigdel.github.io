@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aUjFLHpu2VStMMFpFtXTd6uuoz0=/0x0:8024x5352/1200x800/filters:focal(3925x2663:5207x3945)/cdn.vox-cdn.com/uploads/chorus_image/image/70339168/1353869875.0.jpg' width='700px' /><br/>
-Twitter has permanently suspended Georgia Congresswoman Marjorie Taylor Greene's personal account for repeatedly violating the platform's rules on COVID-19 misinformation, as noted in a report by CNN. Since the ban only affects Greene's personal Twitter account, @mtgreenee, she can still access and tweet from her governmental account, @RepMTG.
-<a href='https://www.theverge.com/2022/1/2/22863583/twitter-marjorie-taylor-greene-banned-covid-19-misinformation'> Source <a/>

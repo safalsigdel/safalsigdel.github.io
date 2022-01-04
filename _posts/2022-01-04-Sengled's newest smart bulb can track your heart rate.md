@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Kv6fzzUKSDcsxBL9aQCukmWnz6c=/0x0:2756x1837/1200x800/filters:focal(1158x699:1598x1139)/cdn.vox-cdn.com/uploads/chorus_image/image/70344166/HEALTH_MONITORING_LIGHT.0.png' width='700px' /><br/>
+Sengled, the smart lighting company that's hedged its protocol bets by making Zigbee, Wi-Fi, and Bluetooth smart bulbs, has announced a slew of new products at CES 2022. The most intriguing is the Smart Health Monitoring bulb, and the most fun is the Wi-Fi Video-Sync TV light strips. Sengled has also pledged its support for Matter, the new smart home standard, adding a fourth protocol to its package.
+<a href='https://www.theverge.com/2022/1/3/22864783/sengled-smart-health-monitoring-smart-bulb-ces2022'> Source <a/>

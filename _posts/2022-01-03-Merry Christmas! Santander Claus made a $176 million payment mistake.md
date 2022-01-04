@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g3yMKn7vDefpuq6kpmoh_-A6_F4=/0x0:5461x3640/1200x800/filters:focal(2295x1384:3167x2256)/cdn.vox-cdn.com/uploads/chorus_image/image/70335232/1237483801.0.jpg' width='700px' /><br/>
-Some tens of thousands of people woke up on Christmas Day to doubled wages and a higher-than-expected bank balance after Santander did an oopsie, depositing xc2xa3130 million ($176 million) into accounts held by its UK customers. Santander would now like the money back, please.
-<a href='https://www.theverge.com/2021/12/31/22861939/santander-uk-mistake-payment-account'> Source <a/>

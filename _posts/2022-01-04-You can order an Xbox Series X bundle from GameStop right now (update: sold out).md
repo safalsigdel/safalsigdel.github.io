@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Vr7_g7i54BevX6xZhVXRDH6JWdg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70342114/vpavic_4275_20201030_0036.0.jpg' width='700px' /><br/>
+Update 11:55AM ET, January 3rd: GameStop has sold out of this Xbox Series X bundle for now.
+<a href='https://www.theverge.com/2022/1/3/22864924/microsoft-xbox-series-x-restock-gamestop-console-bundle-availability'> Source <a/>
