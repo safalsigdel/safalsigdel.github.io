@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Gnq2xANz9U-8eKBRrTSJh5Od5cQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70345432/tapo_homekit_4.001.0.jpeg' width='700px' /><br/>
+TP-Link has announced a new lineup of smart home products for the US at CES 2022 under its Tapo brand — including HomeKit-enabled smart lights, plugs, and a smart switch.
+<a href='https://www.theverge.com/2022/1/4/22865369/tp-link-tapo-smart-home-products-homekit'> Source <a/>

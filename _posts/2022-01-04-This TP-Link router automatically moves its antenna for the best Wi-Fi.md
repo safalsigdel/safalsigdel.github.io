@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5FTG0LoCMNBFe1zcBoLNdUnSgp8=/0x0:640x313/1200x800/filters:focal(269x106:371x208)/cdn.vox-cdn.com/uploads/chorus_image/image/70345443/Screenshot_2021_12_29_155732.0.png' width='700px' /><br/>
+In what is likely one of the stranger innovations at CES this year, TP-Link is showing off the prototype for its new Archer AXE200 Omni router. There are plenty of new routers taking advantage of 6E connectivity debuting at this year's CES, but the engineering of this particular router is sure to raise some eyebrows.
+<a href='https://www.theverge.com/2022/1/4/22858926/tp-link-archer-axe200-omni-wifi-6e-ces-2022'> Source <a/>

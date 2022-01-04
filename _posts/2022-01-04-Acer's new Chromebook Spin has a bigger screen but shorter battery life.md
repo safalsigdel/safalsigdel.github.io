@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fG1gEyapqv7Sky4-pDwfAki_JpU=/0x0:3000x2400/1200x800/filters:focal(1260x960:1740x1440)/cdn.vox-cdn.com/uploads/chorus_image/image/70342392/acer_chromebook_spin_513.0.jpg' width='700px' /><br/>
-Acer announced that it's updating its existing lineup of Chromebooks with three new devices at CES 2022, each of which comes with slight changes when compared to its predecessors.
-<a href='https://www.theverge.com/2022/1/3/22864952/acer-chromebook-spin-chrome-os-ces-2022'> Source <a/>

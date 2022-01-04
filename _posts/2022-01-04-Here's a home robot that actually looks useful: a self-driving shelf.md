@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mIz1itUVOqlTLW8sw8AWc8_bF44=/0x0:5100x3400/1200x0/filters:focal(0x0:5100x3400):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23144084/Kitchen_Scene___Press.jpg' width='700px' /><br/>
+Most home robots unveiled at CES tend to over-promise and under-deliver. Every year, we're treated to staged demos of prototype “robot butlers” that always fail to materialize as real products. But two new bots created by a startup named Labrador Systems look like they'll break this cycle. Why? Because the company has kept things simple — extremely simple — by building what are essentially self-driving shelves.
+<a href='https://www.theverge.com/2022/1/4/22858402/home-robot-labrador-caddie-retriever-smart-self-driving-shelf'> Source <a/>

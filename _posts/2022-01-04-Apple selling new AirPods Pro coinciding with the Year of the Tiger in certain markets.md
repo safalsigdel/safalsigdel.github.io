@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SmyHNH2jGnVvFJMn6N66CmVM_bE=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/70342688/MN6U3_AV1.0.jpeg' width='700px' /><br/>
-Apple is now selling a new set of special edition AirPod Pros (via 9to5Mac) in time for the Chinese New Year, which begins on February 1st, 2022. Just as the previous Year of the Ox, Apple is engraving a special emoji on the AirPods Pro case — this time, themed for the Year of the Tiger.
-<a href='https://www.theverge.com/2022/1/3/22864887/apple-new-airpods-pro-year-of-the-tiger'> Source <a/>

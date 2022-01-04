@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zfzJAxRDroxNgMkUcPqVTTJz_Rc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70342715/acastro_190218_1777_apple_streaming_0002.0.jpg' width='700px' /><br/>
-You should always be wary of invites to a stranger's Home.
-<a href='https://www.theverge.com/2022/1/3/22865145/apple-ios-vulnerability-homekit-devices-bug-crash'> Source <a/>
