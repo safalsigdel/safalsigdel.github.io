@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9RsoTnrVBoGEWEMtzrRA08V9rmQ=/0x0:396x266/1200x800/filters:focal(81x104:143x166)/cdn.vox-cdn.com/uploads/chorus_image/image/70344212/Screenshot_2021_12_20_143606.0.png' width='700px' /><br/>
-Whether you wanted it or not, NFTs are finding ways of creeping into just about every aspect of our lives. Something that began as a curiosity has quickly expanded to include networking giant Netgear and its connected smart frame, Meural.
-<a href='https://www.theverge.com/2022/1/3/22846732/netgear-meural-smart-frame-nft-ces-2022'> Source <a/>

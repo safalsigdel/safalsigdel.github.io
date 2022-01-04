@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Wq01Vy6uPUjIkqFxVHjKZRRIwA0=/0x0:2040x1240/1200x800/filters:focal(857x457:1183x783)/cdn.vox-cdn.com/uploads/chorus_image/image/70345784/sonyminiled.0.jpg' width='700px' /><br/>
+Sony makes arguably the best OLED TVs that you can buy. They outperform LG's own OLED sets in picture quality despite the fact that both companies use very similar panels from LG Display. That's because Sony applies its own image processing to everything that you see on-screen. Even when the company adopts a new display technology, it leans on decades' worth of TV hardware expertise to fine-tune everything.
+<a href='https://www.theverge.com/2022/1/4/22866348/sony-bravia-xr-x90k-x95k-led-tv-features-specs'> Source <a/>
