@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XSzbIQmwT6Va0FjZKyFFZRxeplg=/0x0:2048x1366/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/70345109/image.0.jpeg' width='700px' /><br/>
+Ahead of their press conferences at this year's truncated and part-virtual CES, AMD and Intel are teasing big CPU announcements for the show. AMD's “product premiere” is due to take place at 10am ET today, while Intel has a “digital-first live experience” scheduled for slightly later at 1pm ET.
+<a href='https://www.theverge.com/2022/1/4/22866452/intel-amd-cpu-ces-2022-core-i9-12900ks-ryzen-processor'> Source <a/>
