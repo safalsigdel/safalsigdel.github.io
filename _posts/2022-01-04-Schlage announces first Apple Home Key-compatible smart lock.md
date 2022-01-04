@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3673iHie2vh60eUFz8eVkhzQkik=/0x0:4171x2923/1200x800/filters:focal(1753x1129:2419x1795)/cdn.vox-cdn.com/uploads/chorus_image/image/70345551/Schlage_Encode_Plus_with_home_keys_phone_TaptoUnlock__1_.0.jpg' width='700px' /><br/>
+At CES 2022 this week, lock manufacturer Schlage announced it is launching the first lock in North America to support Apple's Home Key. The Schlage Encode Plus Smart WiFi Deadbolt is an updated version of the popular Schlage Encode WiFi smart lock, adding an NFC chip for the Home Key function, as well as a Thread radio to support HomeKit over Thread.
+<a href='https://www.theverge.com/2022/1/4/22860197/apple-home-key-schlage-encode-plus-smart-door-lock-thread-ces2022'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/q99i3Ia6b-d_ED-UjNKjNr67Wjk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70343815/acastro_210813_1777_theater_0002.0.jpg' width='700px' /><br/>
-Cineplex, the largest theater chain in Canada, is preparing to temporarily shutter its Ontario auditoriums in response to a government mandate limiting indoor business to help curb the spread of omicron.
-<a href='https://www.theverge.com/2022/1/3/22865701/canada-cineplex-theater-closures-omicron-boba-fett-peacemaker'> Source <a/>
