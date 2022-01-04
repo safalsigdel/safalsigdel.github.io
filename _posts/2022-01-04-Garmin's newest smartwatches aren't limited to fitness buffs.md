@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9jkHHPX65jKvVhuZ70HDARsJFgw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70345131/vsong_211229_4950_0001.0.jpg' width='700px' /><br/>
+When you think of Garmin wearables, you're probably thinking of its running smartwatches — durable and a little bulky, but with excellent GPS, detailed metrics, and long battery life. The company has made strides in recent years to expand beyond its fitness niche, but it seems to have finally hit its stride at CES 2022 with the Venu 2 Plus and the entry-level Vivomove Sport.
+<a href='https://www.theverge.com/2022/1/4/22859098/garmin-venu-2-plus-vivomove-sport-smartwatches'> Source <a/>
