@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ajiL18jeSADfrvNHlJ4gaYSIbew=/0x0:2345x1515/1200x800/filters:focal(986x571:1360x945)/cdn.vox-cdn.com/uploads/chorus_image/image/70345505/Book14_3.0.jpg' width='700px' /><br/>
-TCL, which is perhaps best known for its lower-cost TVs, smartphones, and tablets, is expanding into laptops with the TCL Book 14 Go. The company is also targeting an affordable cost with this new laptop, pricing it at $349 — though that budget price means it doesn't have the most impressive specs.
-<a href='https://www.theverge.com/2022/1/4/22865104/tcl-book-14-go-first-laptop'> Source <a/>

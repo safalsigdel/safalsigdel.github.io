@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/56jBaUmvr7SithgQx1HU7T47EXo=/0x0:1600x640/1200x800/filters:focal(862x234:1118x490)/cdn.vox-cdn.com/uploads/chorus_image/image/70345539/CYNC_Release_Header_v3.png.0.jpg' width='700px' /><br/>
-Cync, the brand born from C by GE, showed off a huge expansion of its smart lighting line at CES 2022 (yes, in person). Eleven new smart bulbs join its already comprehensive offerings. Plus, the company is expanding further into the smart home with a new outdoor camera and the release of its first smart thermostat, complete with room sensors.
-<a href='https://www.theverge.com/2022/1/4/22860472/cync-gelighting-smart-bulbs-thermostat-camera-ces2022'> Source <a/>

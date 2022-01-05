@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AJR3HCgBurKvpXXLtPpZ_GhLWbw=/0x0:1900x1086/1200x800/filters:focal(798x391:1102x695)/cdn.vox-cdn.com/uploads/chorus_image/image/70348013/Screen_Shot_2022_01_04_at_12.26.01.0.png' width='700px' /><br/>
+Dell's new 32-inch UltraSharp videoconferencing monitor supports 4K in more ways than one — the first, obvious for a display, is its 3840 x 2160 panel. But it also has a built-in 4K webcam, perfect for the age of Zoom meetings and working from home. Better still, you can connect to the monitor with a single USB-C cable, which will provide a video signal to the screen and send 90W of power back to your laptop.
+<a href='https://www.theverge.com/2022/1/4/22867289/dell-videoconferencing-monitor-sony-4k-webcam-u3223qz'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7gvA9RvNJ4GB-zmKVdzBeTSCPns=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70344447/vzw-042.0.0.jpg' width='700px' /><br/>
-In a standoff that's pitting Verizon, AT&T, and the FCC versus the FAA and the airline industry over the two carrier's plans to upgrade their 5G wireless services, the mobile companies now say they've reached an agreement with the Department of Transportation. For Verizon, delaying the launch of the “C-band” spectrum means canceling a celebration scheduled for 1PM ET on Tuesday, marking the beginning of its spectrum upgrade.
-<a href='https://www.theverge.com/2022/1/3/22866098/faa-dot-verizon-fcc-att-5g-c-band-delay-airplane-safety'> Source <a/>

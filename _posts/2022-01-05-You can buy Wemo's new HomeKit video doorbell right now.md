@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2Z8ER9BY1ldRVGk_6Bo5FMW11Wc=/0x0:9000x6000/1200x800/filters:focal(3780x2280:5220x3720)/cdn.vox-cdn.com/uploads/chorus_image/image/70348383/Wemo_Doorbell_environmental_1.0.jpg' width='700px' /><br/>
+And then there were three... At CES 2022 this week, Wemo announced the immediate availability of the Wemo Smart Video Doorbell, a HomeKit video doorbell that works with HomeKit Secure Video. It joins the Logitech Circle View and Netatmo Smart Video Doorbell camera as the only currently available residential HomeKit video doorbells.
+<a href='https://www.theverge.com/2022/1/4/22865546/wemo-homekit-video-doorbell-price-specs'> Source <a/>

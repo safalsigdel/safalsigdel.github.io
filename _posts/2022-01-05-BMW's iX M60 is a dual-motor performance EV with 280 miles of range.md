@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_o3cZB0004UfJz1frI_N14cDPtw=/0x0:4961x3309/1200x675/filters:focal(2085x1259:2877x2051)/cdn.vox-cdn.com/uploads/chorus_image/image/70348473/BMW_202111__1251.0.jpg' width='700px' /><br/>
+BMW announced the iX M60, the German automaker's latest performance electric vehicle, and the second EV to be released under its racing-inspired M branding. When it comes out in the summer of 2022, the iX M60 will feature two electric motors, 610 braking horsepower, and will get up to 280 miles of range on a single charge.
+<a href='https://www.theverge.com/2022/1/4/22866219/bmw-ix-m60-electric-vehicle-range-specs-date'> Source <a/>

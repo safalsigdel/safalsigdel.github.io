@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zZ7IplSIZo8Iyl9jMKLIFScc2ps=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70345440/VRG_ILLO_4937_K_Radtke_Megaphone.0.jpg' width='700px' /><br/>
-The podcast industry is working up to something big; you can see it in the acquisitions. All the industry's major players have, over the past two years, acquired companies focused on one feature: inserting ads into podcasts.
-<a href='https://www.theverge.com/2022/1/4/22865034/podcast-programmatic-spotify-ad-network'> Source <a/>

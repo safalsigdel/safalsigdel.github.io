@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uvBGMe5iKr5d1J_z66ms5sa2tZk=/0x0:2304x1536/1200x800/filters:focal(968x584:1336x952)/cdn.vox-cdn.com/uploads/chorus_image/image/70349281/V23_Series_Lifestyle_CGI___10.0.jpg' width='700px' /><br/>
+Vivo has announced the V23 and V23 Pro, the latest phones in the company's mainstream V series that sells a ton in India and other Asian countries.
+<a href='https://www.theverge.com/2022/1/5/22868114/vivo-v23-pro-announced-india-specs-price'> Source <a/>

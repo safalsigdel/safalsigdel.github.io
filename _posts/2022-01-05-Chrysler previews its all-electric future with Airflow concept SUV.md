@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LV52pYfDgixExf6D1PeyUhnjZBM=/0x0:3000x1688/1200x675/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/70349091/CN021_010CH.0.jpg' width='700px' /><br/>
+Chrysler, the iconic American brand owned by Stellantis, will only sell electric vehicles by 2028, the company announced at the 2022 Consumer Electronics Show.
+<a href='https://www.theverge.com/2022/1/5/22862387/chrysler-electric-only-2028-airflow-concept-ces-2022'> Source <a/>

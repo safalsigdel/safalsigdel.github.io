@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vSlBtlaBrS466ocgcprC0UAyTvE=/0x0:2774x1554/1200x800/filters:focal(1166x556:1608x998)/cdn.vox-cdn.com/uploads/chorus_image/image/70346002/Screen_Shot_2022_01_04_at_8.02.34_AM.0.png' width='700px' /><br/>
-AMD teased its next-generation desktop chips at CES 2022, with CEO Lisa Su announcing that its Ryzen 7000 chips, using the company's upcoming Zen 4 architecture and built on a new 5nm process, will be arriving in the second half of 2022.
-<a href='https://www.theverge.com/2022/1/4/22856151/amd-ryzen-7000-desktop-cpu-5nm-next-gen-zen-4-release-date-ces-2022'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/K5czU_gvnBA2qONa7RCfDnX91uQ=/0x0:6750x4500/1200x800/filters:focal(2835x1710:3915x2790)/cdn.vox-cdn.com/uploads/chorus_image/image/70348559/OnePlus_10_Pro.0.jpg' width='700px' /><br/>
+Rather than announce all of the details of the OnePlus 10 Pro flagship, OnePlus is choosing to space out the details in drips and drabs. First, it released an official teaser image that revealed the design of the phone alongside a China release date of January 11th. Now, it's announcing the phone's specs, which include the newest Snapdragon 8 Gen 1 processor, ultra fast charging, and a 5,000mAh battery.
+<a href='https://www.theverge.com/2022/1/4/22855743/oneplus-10-pro-android-specs'> Source <a/>

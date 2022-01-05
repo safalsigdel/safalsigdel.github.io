@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Tqqi6CTXMVRptK4qDNAhOyDWb_4=/0x0:2040x1328/1200x800/filters:focal(877x498:1203x824)/cdn.vox-cdn.com/uploads/chorus_image/image/70345787/tcl98.0.jpg' width='700px' /><br/>
-Last year, TCL announced an “XL” TV series that aimed to offer very big 85-inch displays for prices below what you'd pay for a similarly enormous set from, say, Samsung or LG. And in the first week of 2022, the XL lineup is going even larger. Today TCL is introducing a new 98-inch 4K QLED TV that's available for purchase immediately. The 98R754 is a Google TV-based set that offers features like 4K gaming at 120Hz.
-<a href='https://www.theverge.com/2022/1/4/22866323/tcl-98-inch-qled-google-tv-features-price'> Source <a/>

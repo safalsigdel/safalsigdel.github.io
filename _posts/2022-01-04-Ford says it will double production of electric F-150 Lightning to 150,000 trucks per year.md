@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PnrGIxooaJHGQVSxoB6-nTY9VA4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70345011/akrales_20210526_4595_0008.0.jpg' width='700px' /><br/>
-Ford says its planning to double production of its upcoming electric pickup truck, the F-150 Lightning, to 150,000 vehicles per year by 2023. The news comes as the automaker prepares to start making and shipping its new EV in the first half of 2022.
-<a href='https://www.theverge.com/2022/1/4/22865664/ford-f150-lightning-double-production-150000-annual'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Iw1HsIW2lcoQotZoMj91YHdn2oo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70345579/acastro_210430_1777_audioApps_0002.0.jpg' width='700px' /><br/>
-Hello and welcome to 2022. It remains winter, y'all. I haven't seen the sun in seemingly weeks, but we're pushing through, surviving on podcast news for warmth and cheeriness.
-<a href='https://www.theverge.com/2022/1/4/22865820/podcast-hot-pod-news-roundup-audio-disney-spotify-siriusxm'> Source <a/>

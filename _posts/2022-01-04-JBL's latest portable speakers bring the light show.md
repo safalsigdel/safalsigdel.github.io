@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MWcW05SBHCksXJIcVTo3inIXPFo=/0x0:4096x2732/1200x0/filters:focal(0x0:4096x2732):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23131831/JBL_Partybox_Encore_Lifestyle_with_mic.jpg' width='700px' /><br/>
-Today JBL is taking the wraps off three new portable speakers. The diminutive Pulse 5 and more powerful PartyBox Encore feature integrated light shows, while the BoomBox 3 tries to split the difference with a more stoic, bass-focused design.
-<a href='https://www.theverge.com/2022/1/4/22858138/jbl-pulse-5-boombox-3-partybox-encore-price-dates'> Source <a/>
