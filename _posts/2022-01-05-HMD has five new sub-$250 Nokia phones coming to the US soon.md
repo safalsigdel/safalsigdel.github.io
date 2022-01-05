@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EMWqtWKpe_-dVZqAPp0HQPDwUS0=/0x0:1620x1080/1200x800/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/70349807/HMD_New2022_Packshot.0.jpg' width='700px' /><br/>
+HMD, the company behind modern Nokia-branded phones, has announced five new “US exclusive” phones coming in the first half of this year. None of these are flagships: there's only one 5G device, and all five are set to retail for under $250. HMD has also revived a classic Nokia design as a modern feature phone — the Nokia 2760 — a flip phone that inherits its name from the original 2007 handset.
+<a href='https://www.theverge.com/2022/1/5/22868151/hmd-nokia-2760-flip-c100-c200-g100-g400-4g-5g-smartphones-release-date-price'> Source <a/>
