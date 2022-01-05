@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ryHVPdVh6wIVDXQKl9bYjuI_eYU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70347938/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-The highly addictive clock app is testing a feature that should save you the trouble of having to DM the most share-worthy clips from your For You page with friends. TikTok has introduced a “Repost” button that works a little like Twitter's retweet feature — but it doesn't appear to be available to everyone yet.
-<a href='https://www.theverge.com/2022/1/4/22867456/tiktok-share-repost-retweet'> Source <a/>
