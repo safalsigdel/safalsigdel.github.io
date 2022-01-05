@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+There's a video doing the rounds on Twitter today that supposedly shows “how Walmart envisions Shopping in the #Metaverse.” In it, a virtual avatar browses shelves of virtual groceries, picking and tossing items into a shopping cart with all the grace of stop motion skeleton in a '50s adventure film. Responses to the clip have been suitably mocking, criticizing the VR experience for its pointless skeuomorphism and outdated visuals.
+<a href='https://www.theverge.com/tldr/2022/1/5/22868323/walmart-metaverse-shopping-video-viral-old'> Source <a/>
