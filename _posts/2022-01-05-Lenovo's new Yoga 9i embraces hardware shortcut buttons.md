@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yGdyXWCfmKBcyrqAMPxo7r2_KE0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70350394/mchin_200331_4955_0026.0.jpg' width='700px' /><br/>
+Lenovo's newest Yoga 9i convertible laptop is embracing one of the more fun trends of ‘90s and early ‘00s computer design: shortcut keys. While plenty of laptops have added handy shortcuts to the Function row on the keyboard, few are making keys that have one express purpose. Now Lenovo is planning to release a laptop in 2022 with five of them.
+<a href='https://www.theverge.com/2022/1/5/22858248/lenovo-yoga-9i-shortcut-keys-ces2022'> Source <a/>
