@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5uVvqAj3291M5ESnmSaoR4x8J1w=/0x0:5000x2813/1200x800/filters:focal(2100x1007:2900x1807)/cdn.vox-cdn.com/uploads/chorus_image/image/70347909/CES2022_KV_2._MoT_ecosystem.0.jpg' width='700px' /><br/>
+Hyundai has already showed off some practical robotics concepts last month in the lead-up to the 2022 Consumer Electronics Show. Now the South Korean automaker is going full galaxy brain with the introduction of a new “Mobility of Things” concept that it claims will power a whole slew of objects, from household plants and book shelves, to ambulances and autonomous passenger pods.
+<a href='https://www.theverge.com/2022/1/4/22866831/hyundai-robot-mobility-pnd-dnl-autonomous-ces'> Source <a/>
