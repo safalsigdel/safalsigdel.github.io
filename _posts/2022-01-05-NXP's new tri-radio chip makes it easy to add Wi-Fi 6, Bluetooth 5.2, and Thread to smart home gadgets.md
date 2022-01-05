@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sjEMfdNX90JWgEXIB70sLqm89Y8=/0x0:6048x4024/1200x800/filters:focal(2541x1529:3507x2495)/cdn.vox-cdn.com/uploads/chorus_image/image/70347556/nxp_advances_iot_connectivity_with_industrys_first_secure_tr.0.jpeg' width='700px' /><br/>
-NXP has a new tri-radio SoC that it's announcing at CES 2022 that's designed to serve as a silver bullet for comprehensive smart home connectivity in a single chip, offering out-of-the-box support for Wi-Fi 6, Bluetooth LE 5.2, and 802.15.4 (i.e., Thread) all at once.
-<a href='https://www.theverge.com/2022/1/4/22865815/nxp-tri-radio-chip-wi-fi-6-bluetooth-5-2-thread-smart-home-gadgets-ces-2022'> Source <a/>
