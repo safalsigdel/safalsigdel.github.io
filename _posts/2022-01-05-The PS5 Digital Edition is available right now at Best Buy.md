@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/dYpu2C4OGi8r6IQKtjCG0mWYEIM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70350466/acastro_210511_1777_psRestock_0005.0.jpg' width='700px' /><br/>
-If you're currently shopping for a PlayStation 5 console, you have another chance right now at Best Buy. The electronics retailer just opened up a fresh batch of PlayStation 5 consoles for $499.99, and as of 11:40AM ET, also started selling the even-harder-to-get $399.99 PS5 Digital Edition.
+Update January 5th, 11:45AM ET: Both versions of Sony's console are on sale at Best Buy, although availability will vary by location.
 <a href='https://www.theverge.com/2022/1/5/22859968/sony-playstation-5-restock-best-buy-ps5-console'> Source <a/>
