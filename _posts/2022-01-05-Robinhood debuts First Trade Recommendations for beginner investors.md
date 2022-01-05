@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/0GyzHWUWgg3LRuad4oZHdw4rS5A=/0x0:2436x1328/1200x800/filters:focal(1024x470:1412x858)/cdn.vox-cdn.com/uploads/chorus_image/image/70348391/robinhood_first_trade_recommendation.0.png' width='700px' /><br/>
 Robinhood has introduced a new experience geared towards trading noobs, and the company says its personalized stock recommendations could help beginners get a sense of the technical side of trading.
-<a href='https://www.theverge.com/2022/1/4/22867424/robinhood-first-trade-recommendations-beginner-investors'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/0GyzHWUWgg3LRuad4oZHdw4rS5A=/0x0:2436x1328/1200x800/filters:focal(1024x470:1412x858)/cdn.vox-cdn.com/uploads/chorus_image/image/70348391/robinhood_first_trade_recommendation.0.png' width='700px' /><br/>
-Robinhood has introduced a new experience geared towards trading noobs, and the company says its personalized stock recommendations could help beginners get a sense of the technical side of trading.
 <a href='https://www.theverge.com/2022/1/4/22867424/robinhood-first-trade-recommendations-beginner-investors'> Source <a/>

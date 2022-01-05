@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/A9nK5aSBYonbXVhxbQ3j8KcTxGQ=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/70348508/detroit_auto_show_2018_trucks_8751.0.jpg' width='700px' /><br/>
 General Motors is no longer the top seller of vehicles in the US as reported Tuesday by CNBC. The Detroit powerhouse lost the crown to Toyota, which reportedly sold about 114,000 more vehicles than GM in 2021.
-<a href='https://www.theverge.com/2022/1/4/22867285/gm-toyota-us-top-selling-automaker-chip-shortage'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/A9nK5aSBYonbXVhxbQ3j8KcTxGQ=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/70348508/detroit_auto_show_2018_trucks_8751.0.jpg' width='700px' /><br/>
-General Motors is no longer the top seller of vehicles in the US as reported Tuesday by CNBC. The Detroit powerhouse lost the crown to Toyota, which reportedly sold about 114,000 more vehicles than GM in 2021.
 <a href='https://www.theverge.com/2022/1/4/22867285/gm-toyota-us-top-selling-automaker-chip-shortage'> Source <a/>
