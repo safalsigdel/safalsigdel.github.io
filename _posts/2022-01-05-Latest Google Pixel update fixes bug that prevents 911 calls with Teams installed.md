@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ELaC3wvv8Viwaoffb8ro6R66KAY=/0x0:2040x1360/1200x800/filters:focal(853x619:1179x945)/cdn.vox-cdn.com/uploads/chorus_image/image/70347708/akrales_190318_3299_0011.0.jpg' width='700px' /><br/>
-Google is bringing an update to older Pixel devices to fix a dangerous bug that prevents users from calling 911, as noted by a post on a Google support page. The bug stems from an unintended interaction between the Android OS and Microsoft Teams — it only affects devices with Android 10 or later and could occur if you have Teams installed but aren't signed in.
-<a href='https://www.theverge.com/2022/1/4/22867143/google-pixel-update-911-call-teams-bug'> Source <a/>
