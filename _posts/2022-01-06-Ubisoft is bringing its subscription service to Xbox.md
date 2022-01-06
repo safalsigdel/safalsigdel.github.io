@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wZK4oOndrHshPS90DmpZXpNmSug=/0x0:960x540/1200x800/filters:focal(404x194:556x346)/cdn.vox-cdn.com/uploads/chorus_image/image/70350833/Ubisoft__Rebranding.0.jpg' width='700px' /><br/>
-Ubisoft is bringing its Ubisoft Plus subscription service to Xbox in the future, and announcing that Rainbow Six: Extraction will be coming to Xbox Game Pass at launch. Ubisoft Plus originally launched for PC and includes access to more than 100 Ubisoft games, including titles like Far Cry 6, for $14.99 per month.
-<a href='https://www.theverge.com/2022/1/5/22868704/ubisoft-plus-xbox-launch-rainbow-six-extraction-xbox-game-pass'> Source <a/>
