@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WmdiBAYzEcyvrdeSFNTXjaFYEd8=/0x0:1600x902/1200x800/filters:focal(672x323:928x579)/cdn.vox-cdn.com/uploads/chorus_image/image/70350956/0a._Multi_device_experiences_2.0.png' width='700px' /><br/>
-Google is announcing no fewer than 13 different new software features at CES 2022, ranging from AirPods-like fast switching to promised software that will mirror your Android text apps on a Chromebook. It's part of an initiative that Google calls “Better Together” but that the rest of the industry is more likely to refer to as “catching up to Apple's ecosystem.”
-<a href='https://www.theverge.com/2022/1/5/22864892/google-2022-ecosystem-android-chromebook-ces-features'> Source <a/>
