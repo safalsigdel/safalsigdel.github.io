@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WsKK0-jF2TiW_eNfPpaxiYY__Es=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70350667/acastro_210104_1777_google_0001.0.jpg' width='700px' /><br/>
-Google's $500 million acquisition of Israel-based startup Siemplify is supposed to help the company bolster its own cloud security initiative, Chronicle, according to a report from Reuters. In a blog post announcing the deal, Google describes Siemplify as a security orchestration, automation, and response (SOAR) organization and plans to integrate its capabilities into Chronicle.
-<a href='https://www.theverge.com/2022/1/5/22868284/google-chronicle-siemplify-acquisition-security'> Source <a/>
