@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/0wlCPp7PfenZp14voBSccEoToAU=/0x0:2570x1446/1200x800/filters:focal(900x598:1310x1008)/cdn.vox-cdn.com/uploads/chorus_image/image/70348777/Samsung_Home_Hub.0.jpg' width='700px' /><br/>
-Samsung introduced its first standalone SmartThings smart home controller at CES 2022. The Samsung Home Hub is designed to be a central place for a household to control and monitor their smart home without having to buy a $4,000 smart fridge.
+Samsung introduced its first standalone SmartThings smart home controller at its CES 2022 keynote this week. The Samsung Home Hub is designed to be a central place for a household to control and monitor their smart home without having to buy a $4,000 smart fridge.
 <a href='https://www.theverge.com/2022/1/4/22865808/samsung-smartthings-smart-home-hub-dashboard-ces2022'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RHe0QMbhjoGF-grrURX_t3l4gH8=/0x0:5000x2814/1200x800/filters:focal(2100x1007:2900x1807)/cdn.vox-cdn.com/uploads/chorus_image/image/70350415/Lenovo_FWT_laptop_PR2.0.jpg' width='700px' /><br/>
-No one likes misplacing expensive gadgets, but especially not a laptop. If you were thinking about copping one of Lenovo's newly announced ThinkPad X1s, good news. Tile and Lenovo are teaming up to make the computers findable via the Tile app, even when the laptops are offline.
-<a href='https://www.theverge.com/2022/1/5/22859022/tile-lenovo-thinkpad-x1-findable-laptops-lost'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UN6zetd81FE6FzgigOpTS9RVao8=/0x0:8688x5792/1200x800/filters:focal(3649x2201:5039x3591)/cdn.vox-cdn.com/uploads/chorus_image/image/70350771/22_3271_0146.0.jpg' width='700px' /><br/>
+Walmart struck a deal with General Motors-backed BrightDrop to reserve 5,000 of the company's electric delivery vans, the companies announced today. The retail giant says it will integrate the EVs into its fleet in the coming years.
+<a href='https://www.theverge.com/2022/1/5/22867087/walmart-brightdrop-electric-delivery-van-gm-fedex'> Source <a/>

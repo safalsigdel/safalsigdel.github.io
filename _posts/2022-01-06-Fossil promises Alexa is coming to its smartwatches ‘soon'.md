@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZKXjO72XbFYtGa-bkYYRfjCl43g=/0x0:4030x3022/1200x800/filters:focal(1895x1468:2539x2112)/cdn.vox-cdn.com/uploads/chorus_image/image/70351869/Image_from_iOS_watermarked.0.jpg' width='700px' /><br/>
+Although Fossil launched two new smartwatches at CES today, there's one big elephant in the room: the upgrade to Wear OS 3 won't arrive for several months. To take the sting out of the wait, Fossil snuck in another new feature for its Gen 6 smartwatches: Amazon Alexa. As for when Alexa will arrive, you'll have to settle for “coming soon.” Hopefully before Wear OS 3.
+<a href='https://www.theverge.com/2022/1/5/22868976/fossil-wear-os-amazon-alexa-smartwatches'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fqiWWdAXlmDizva5eGbfa-fMGoU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70350374/lenovolegion5pro1.0.jpg' width='700px' /><br/>
-Lenovo impressed us in 2021 with its Legion 5 Pro, a 16-inch QHD+ laptop that delivered excellent gaming performance at a price that undercut many of its key competitors, like Razer and Asus. It also got bonus points for being powerful without being too thick or heavy.
-<a href='https://www.theverge.com/2022/1/5/22859802/lenovo-legion-5-5i-pro-amd-ryzen-9-intel-12th-gen-rtx-3070-ti-specs-gaming-laptop'> Source <a/>

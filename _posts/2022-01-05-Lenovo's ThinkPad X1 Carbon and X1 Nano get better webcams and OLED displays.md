@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5j0KME9H397-MXNLKYOmWzFNfDE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70350379/mchin_200331_4955_0018.0.jpg' width='700px' /><br/>
-At CES 2022, Lenovo announced updates to three of its most premium laptops on the market: the ThinkPad X1 Carbon 10th-gen (that's right, this is the tenth one), the ThinkPad X1 Yoga seventh-gen, and the ThinkPad X1 Nano second-gen. The Carbon and the Yoga will be available in March (starting at $1,639 and $1,749, respectively), and the Nano is coming in April (starting at $1,659).
-<a href='https://www.theverge.com/2022/1/5/22868089/lenovo-thinkpad-x1-carbon-nano-yoga-laptops-ces-2022'> Source <a/>

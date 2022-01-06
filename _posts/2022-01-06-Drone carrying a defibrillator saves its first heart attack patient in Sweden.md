@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/euk4vKPngEVcdEut6UsGaJtgl7U=/0x0:5917x3907/1200x800/filters:focal(2486x1481:3432x2427)/cdn.vox-cdn.com/uploads/chorus_image/image/70351713/1sN1qEZA.0.jpeg' width='700px' /><br/>
+A man in Sweden is alive today thanks to — in part — a drone. The 71-year-old had a heart attack while shoveling snow in December and was resuscitated by a nearby doctor after a drone flew in a defibrillator, Everdrone reported Tuesday.
+<a href='https://www.theverge.com/2022/1/5/22868777/everdrone-drone-defibrillator-health-tech-sweden'> Source <a/>

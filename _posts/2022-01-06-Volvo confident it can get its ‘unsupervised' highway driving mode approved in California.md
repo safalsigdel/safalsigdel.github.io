@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EojBdTP9_o2LKLaT_0W209PaZoY=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70351053/ahawkins_201221_4352_6501.0.jpg' width='700px' /><br/>
+Volvo announced a new advanced driver assist system called Ride Pilot system, in which its vehicles drive themselves on certain highways without any human supervision. Ride Pilot will be available as a subscription service to customers in California, the company announced at the 2022 Consumer Electronics Show.
+<a href='https://www.theverge.com/2022/1/5/22866190/volvo-ride-pilot-level-3-autonomous-subscription-california'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4Lcc0maqKjSe-AokwwMFTKiHLOg=/0x0:6142x4095/1200x800/filters:focal(2354x1687:3336x2669)/cdn.vox-cdn.com/uploads/chorus_image/image/70352163/1340831882.0.jpg' width='700px' /><br/>
+Both the Grammy Awards and the Sundance Film Festival have changed their 2022 plans due to a rise in COVID-19 cases across the country (via CNBC and Indiewire). The Grammy Awards show has been postponed until further notice, and the Sundance Film Festival will go virtual, rather than risk an in-person event.
+<a href='https://www.theverge.com/2022/1/5/22869140/grammys-sundance-film-festival-postponed-virtual-omicron-coronavirus'> Source <a/>

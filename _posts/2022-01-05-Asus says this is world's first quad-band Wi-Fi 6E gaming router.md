@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/j4bjAY-gsivKzPjSHJ64szaDGh0=/0x0:2500x1666/1200x800/filters:focal(1050x633:1450x1033)/cdn.vox-cdn.com/uploads/chorus_image/image/70349447/GT_AXE16000_B.0.jpg' width='700px' /><br/>
-Asus' latest router is the ROG Rapture GT-AXE16000, and it says it's the “world's first quad-band Wi-Fi 6E gaming router.” That doesn't quite make it the world's first quad-band Wi-Fi 6E router overall (Netgear announced a quad-band Orbi system last October which you can already buy), but this is the first such system to specifically target gamers, and as a standalone router its starting price is cheaper than comparable mesh systems.
-<a href='https://www.theverge.com/2022/1/5/22868194/asus-rog-rapture-gt-axe16000-quad-band-gaming-router'> Source <a/>

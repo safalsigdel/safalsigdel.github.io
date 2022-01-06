@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zxxiv3gNifxVs9wjc19JtBiYkmg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70352646/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
+AT&T's latest subscriber figures make it seem like HBO and its sister service HBO Max are doing pretty well — great, even! In a regulatory filing this week, AT&T revealed that it beat its projected year-end goal with 73.8 million total subscribers between HBO and HBO Max (even after its breakup with Amazon). Not too bad, right?
+<a href='https://www.theverge.com/2022/1/5/22869125/hbo-max-73-million-subscribers-streaming-data'> Source <a/>
