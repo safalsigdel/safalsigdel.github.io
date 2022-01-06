@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Nv--9VFPIV7mQy5MLDYjyzE5b8E=/0x0:1566x1044/1200x800/filters:focal(658x397:908x647)/cdn.vox-cdn.com/uploads/chorus_image/image/70353730/s22_lineup.0.jpg' width='700px' /><br/>
+A video from Unbox Therapy has shown off what appears to be three dummy units of Samsung's upcoming Galaxy S22 series of phones, giving an early look at the design of the handsets. Although the video has now been delisted, it's been reuploaded on other channels, and a screenshot was taken by 9to5Google. The video emerged alongside other details of the upcoming phones, including camera specs, and images of a new fast charger.
+<a href='https://www.theverge.com/2022/1/6/22870027/samsung-s22-series-unofficial-dummy-leak-design-camera-specs'> Source <a/>
