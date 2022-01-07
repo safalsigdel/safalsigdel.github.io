@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2Kjgr7iVe0DKp_pbQFNQ2oJkEr8=/0x0:2032x1355/1200x800/filters:focal(854x516:1178x840)/cdn.vox-cdn.com/uploads/chorus_image/image/70356799/akrales_210917_4760_0175.0.jpg' width='700px' /><br/>
+Rumors for Apple's upcoming 2022 iPhone refresh are continuing to roll, with Twitter leaker DylanDKT claiming that the iPhone 14 Pro lineup will feature a pill-shaped hole-punch design for its front-facing camera, with the bulk of Apple's Face ID hardware being placed under the display (instead of an eyesore of a notch).
+<a href='https://www.theverge.com/2022/1/6/22870473/iphone-14-pro-hole-punch-camera-hide-face-id-under-the-screen'> Source <a/>

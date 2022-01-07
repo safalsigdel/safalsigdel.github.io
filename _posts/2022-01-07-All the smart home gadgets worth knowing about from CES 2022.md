@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gcKS2EY8rp9DWH0kME4nqnz29yk=/0x0:6720x4480/1200x675/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/70355138/Image_Roborock_S7_MaxV_Ultra_Lifestyle_3.0.jpg' width='700px' /><br/>
+The smart home kicked into high gear at CES 2022 this week, with new products for every corner of the home making their way onto the show floor (virtually in most cases). We've covered the most promising products in separate articles, but we've collated those here, and added in a few other noteworthy launches and announcements.
+<a href='https://www.theverge.com/22870187/smart-home-gadget-ces-2022-roundup-samsung-wemo-eve'> Source <a/>

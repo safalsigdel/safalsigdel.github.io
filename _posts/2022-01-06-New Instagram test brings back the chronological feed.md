@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c24lucw9R7Dwm4L8z1Tun_JuShc=/0x0:1438x952/1200x800/filters:focal(404x326:634x556)/cdn.vox-cdn.com/uploads/chorus_image/image/70351199/Screen_Shot_2022_01_05_at_1.30.42_PM.0.png' width='700px' /><br/>
-Instagram head Adam Mosseri says the company has started testing two new feed settings, including the much-requested chronological option.
-<a href='https://www.theverge.com/2022/1/5/22868889/new-instagram-chronological-feed-algorithm-tests'> Source <a/>

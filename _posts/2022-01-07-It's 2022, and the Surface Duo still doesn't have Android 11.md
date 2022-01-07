@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b7n3h6u51eO6VdXKdPPkS_ee2e0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70337262/vpavic_4176_20200905_0114.0.jpg' width='700px' /><br/>
+We are officially in 2022. Know what that means? That's right: It means Microsoft has failed at its stated goal of bringing Android 11 to the Surface Duo by the end of 2021.
+<a href='https://www.theverge.com/2022/1/1/22862649/microsoft-surface-duo-android-11-missed-update'> Source <a/>

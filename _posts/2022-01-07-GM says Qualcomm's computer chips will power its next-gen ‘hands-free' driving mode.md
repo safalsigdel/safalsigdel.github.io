@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lAXBIAKne1SqhLWAQn1bmazlQ14=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70355617/cadillac_2021_escalade_0433.0.jpg' width='700px' /><br/>
+General Motors completely redesigned the compute architecture that powers its next-generation “hands-free” driving system thanks to US semiconductor company Qualcomm.
+<a href='https://www.theverge.com/2022/1/6/22870416/gm-ultra-cruise-qualcomm-snapdragon-compute-adas'> Source <a/>

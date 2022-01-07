@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ktBbnaRwP83ouKkmVYhZ5VvJL2c=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70350964/Project_Sophia_Key_Visual_08.0.jpg' width='700px' /><br/>
-Razer is no stranger to wild CES prototypes, and CES 2022 is no exception: the company revealed its new Project Sophia concept, which aims to build an entire modular desktop computer into a desk that looks like a Star Trek LCARS console come to life.
-<a href='https://www.theverge.com/2022/1/5/22865562/razer-project-sophia-prototype-concept-modular-computer-ces-2022'> Source <a/>

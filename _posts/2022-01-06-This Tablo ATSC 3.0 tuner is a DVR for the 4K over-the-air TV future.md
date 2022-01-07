@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ua_-yQust8uo_ZBVMmQPwuSTWLk=/0x0:1200x512/1200x800/filters:focal(361x203:553x395)/cdn.vox-cdn.com/uploads/chorus_image/image/70351825/tablo_atsc3_hdmi_insitu.0.png' width='700px' /><br/>
-The new Tablo ATSC 3.0 Quad HDMI is a DVR meant for the next generation of broadcast TV — which, if all goes according to plan, will involve 4K HDR content being sent out over the airwaves for free. It can record up to four channels at once onto an external hard drive, letting you watch programs back on your schedule, not broadcasters'.
-<a href='https://www.theverge.com/2022/1/5/22867033/tablo-atsc-3-quad-hdmi-dvr-next-gen-broadcast-tv-ad-skipping'> Source <a/>

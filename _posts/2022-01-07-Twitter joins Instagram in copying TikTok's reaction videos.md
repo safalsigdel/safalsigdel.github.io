@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/B_7xB5K3B8i5HKZ9F9808qeLJbg=/0x0:1920x1080/1200x800/filters:focal(727x365:1033x671)/cdn.vox-cdn.com/uploads/chorus_image/image/70356569/FIcfXhPXoAQ3oJp.0.jpeg' width='700px' /><br/>
+Twitter has announced that it's testing a feature called “quote tweet with reaction,” where you can embed a copy of a tweet into a photo or video instead of just replying to it with text.
+<a href='https://www.theverge.com/2022/1/6/22870872/twitter-quote-tweet-with-reaction-tiktok-video-photo'> Source <a/>
