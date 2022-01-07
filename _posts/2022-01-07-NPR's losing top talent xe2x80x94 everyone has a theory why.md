@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/htLqDEkiI8RxIgu6SeJGdXwPi0Q=/0x0:2076x2964/1200x800/filters:focal(833x655:1165x987)/cdn.vox-cdn.com/uploads/chorus_image/image/70355595/533466894.0.jpg' width='700px' /><br/>
 This story originally appeared in Hot Pod Insider, The Verge's subscription audio industry newsletter. For more stories like this, you can subscribe here.
+<a href='https://www.theverge.com/2022/1/6/22870634/npr-audie-cornish-all-things-considered-host-departures'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/htLqDEkiI8RxIgu6SeJGdXwPi0Q=/0x0:2076x2964/1200x800/filters:focal(833x655:1165x987)/cdn.vox-cdn.com/uploads/chorus_image/image/70355595/533466894.0.jpg' width='700px' /><br/>
+This story originally appeared in Hot Pod Insider, The Verge's subscription audio industry newsletter. For more stories like this, you can subscribe here.
 <a href='https://www.theverge.com/2022/1/6/22870634/npr-audie-cornish-all-things-considered-host-departures'> Source <a/>
