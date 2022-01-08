@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CLzdap1ot4v48VvB3py_zCSWnvA=/0x0:3214x1808/1200x800/filters:focal(1350x647:1864x1161)/cdn.vox-cdn.com/uploads/chorus_image/image/70356340/1321405595.0.jpg' width='700px' /><br/>
-One of the paid subscription services that experienced sudden growth during the pandemic has been iRacing. While real-life racing leagues were on hiatus, they used the detailed and realistic sim racing service as an esports broadcasting platform, and enough new people started playing to grow its base of racers on PC from 110,000 at the beginning of 2020 to over 200,000 today.
-<a href='https://www.theverge.com/2022/1/6/22870743/iracing-pc-racing-sim-nascar-f1-ps5-xbox-monster-games'> Source <a/>

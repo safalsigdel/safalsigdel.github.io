@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7t9YSbvyRmqDMomGgfzgkS9COJk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70358323/VRG_ILLO_4030_Windows_10_Guide_001.0.jpg' width='700px' /><br/>
-Microsoft is updating PowerToys this week to include a new Always On Top feature and web search functionality in its Spotlight-like launcher. Version 0.53.1 includes the two highly-requested features, alongside a long list of bug fixes and improvements to Microsoft's 12 PowerToys tools.
-<a href='https://www.theverge.com/2022/1/7/22871732/microsoft-powertoys-always-on-top-run-launcher-web-search-features'> Source <a/>

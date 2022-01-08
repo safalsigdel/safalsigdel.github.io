@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-v2SILnRmGupuipjpMw_TLU9dgo=/0x0:768x432/1200x800/filters:focal(323x155:445x277)/cdn.vox-cdn.com/uploads/chorus_image/image/70361832/roku_channel.0.jpg' width='700px' /><br/>
+Scott Rosenberg, a prominent Roku executive who helped launch the Roku Channel, is stepping down after nearly a decade at one of the largest streaming names in the business.
+<a href='https://www.theverge.com/2022/1/7/22872850/roku-scott-rosenberg-stepping-down'> Source <a/>

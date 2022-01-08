@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IKnh5tZVFFFtfYMjngwml1T2WhI=/0x0:1320x743/1200x800/filters:focal(555x267:765x477)/cdn.vox-cdn.com/uploads/chorus_image/image/70357532/sidewalk.0.jpg' width='700px' /><br/>
-After going very quiet on its once much-touted connectivity network Sidewalk, Amazon is starting 2022 with a bang. Today it launched the Amazon Sidewalk Bridge Pro powered by Ring (doesn't that just roll off the tongue?).
-<a href='https://www.theverge.com/2022/1/6/22871031/amazon-launches-ring-sidewalk-bridge-pro'> Source <a/>

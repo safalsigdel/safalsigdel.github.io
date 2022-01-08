@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5jCZoM7XH5ATiHm2nSTgAoD8-bk=/0x0:3000x2001/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/70357398/1345757904.0.jpg' width='700px' /><br/>
-Former President Donald Trump's new social network, Truth Social, will launch on iOS on February 21st, according to a listing on the App Store. (That's Presidents Day, if you didn't know. Subtle.) The app is being made by the Trump Media and Technology Group (TMTG), Trump's new media company led by former US Rep. Devin Nunes.
-<a href='https://www.theverge.com/2022/1/6/22871167/trump-truth-social-app-network-launch-february-tmtg'> Source <a/>
