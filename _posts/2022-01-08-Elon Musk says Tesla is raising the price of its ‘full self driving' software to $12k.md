@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4OYF5HCQ1pdzKWQByfExZoAAKz4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70361882/acastro_180430_1777_tesla_0003.0.jpg' width='700px' /><br/>
-Tesla CEO Elon Musk says the company is raising the price of its “full self driving” (FSD) software to $12,000. Musk tweeted Friday that the new price, which is an increase of $2,000, will take effect January 17th for customers “only in the US.” He said the monthly subscription price of $199 for FSD would rise as the software got closer to wide release.
-<a href='https://www.theverge.com/2022/1/7/22872865/elon-musk-tesla-raise-price-full-self-driving-software'> Source <a/>
