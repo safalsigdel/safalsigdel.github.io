@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CZ_oreWnGZSqFGwos9tbDW-ozMI=/0x0:1440x960/1200x0/filters:focal(0x0:1440x960):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23152127/Stephen_Hawking_s_80th_Birthday.jpg' width='700px' /><br/>
-This weekend, Google will release a Doodle celebrating what would have been Stephen Hawking's 80th birthday. The two and a half minute-long video will go live in the US at midnight ET tonight (9pm PT) and includes a narration in the physicist's own computer-generated voice (created and used with permission from his estate) outlining his work and painting a message of hope for the future.
-<a href='https://www.theverge.com/2022/1/7/22871739/google-stephen-hawking-80th-birthday-doodle'> Source <a/>
