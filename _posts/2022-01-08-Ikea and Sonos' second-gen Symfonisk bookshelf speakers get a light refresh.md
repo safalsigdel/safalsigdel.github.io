@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/ar_isNsVoIoYRZiqoE8tktxivoo=/0x0:1794x1088/1200x800/filters:focal(754x401:1040x687)/cdn.vox-cdn.com/uploads/chorus_image/image/70360296/Screen_Shot_2022_01_07_at_1.06.26_PM.0.png' width='700px' /><br/>
 Ikea has quietly updated its Sonos-partnered Symfonisk bookshelf speakers with a second-generation version that's already available in the Netherlands, via Dutch tech website Tweakers.
-<a href='https://www.theverge.com/2022/1/7/22872141/ikea-sonos-second-gen-symfonisk-bookshelf-speaker-update'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/ar_isNsVoIoYRZiqoE8tktxivoo=/0x0:1794x1088/1200x800/filters:focal(754x401:1040x687)/cdn.vox-cdn.com/uploads/chorus_image/image/70360296/Screen_Shot_2022_01_07_at_1.06.26_PM.0.png' width='700px' /><br/>
-Ikea has quietly updated its Sonos-partnered Symfonisk bookshelf speakers with a second-generation version that's already available in the Netherlands, via Dutch tech website Tweakers.
 <a href='https://www.theverge.com/2022/1/7/22872141/ikea-sonos-second-gen-symfonisk-bookshelf-speaker-update'> Source <a/>
