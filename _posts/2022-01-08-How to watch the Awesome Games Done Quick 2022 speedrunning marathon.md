@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YbCZFflKqeFUG6aMyNS9YPMXl0A=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70360043/200107_ESC_05244_2.0.jpg' width='700px' /><br/>
-Awesome Games Done Quick (AGDQ), the annual week-long speedrunning marathon for charity, kicks off on Sunday, and if this year's schedule is anything to go by, the event promises to be another exciting event of jaw-dropping gaming.
-<a href='https://www.theverge.com/2022/1/7/22872064/awesome-games-done-quick-agdq-2022-speedrunning-marathon-how-to-watch'> Source <a/>

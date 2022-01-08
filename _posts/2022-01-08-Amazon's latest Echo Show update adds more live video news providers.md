@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/53rHBNteir6sWvFNR-azKs9nPBw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70358745/dseifert_210219_4433_0012.0.jpg' width='700px' /><br/>
-Amazon has announced a couple of small quality of life improvements for different Alexa devices. Its Echo Show lineup of smart displays are getting more live video news content in the US and an easier way to navigate news channels. Meanwhile, mobile Alexa devices are also gaining the ability to share your ETA while you're using their navigation features.
-<a href='https://www.theverge.com/2022/1/7/22871785/amazon-echo-show-update-people-tv-et-live-bloomberg-tv-plus-visual-id-navigation-eta-sharing'> Source <a/>
