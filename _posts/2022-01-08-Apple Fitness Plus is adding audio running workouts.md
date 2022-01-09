@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Zy2wUqseAC8xkngESdyT8wnyCzA=/0x0:1960x1102/1200x800/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/70359413/Apple_fitness_plus_winter_update_TTR.0.jpg' width='700px' /><br/>
-After launching Fitness Plus in December 2020, Apple has continuously added new features, including audio walks with celebrities and new workout programs for pregnant and older users. Today, it's announcing a few more additions, with the standout being audio running experiences dubbed Time to Run.
-<a href='https://www.theverge.com/2022/1/7/22871851/apple-time-to-run-fitness-plus-apple-watch'> Source <a/>
