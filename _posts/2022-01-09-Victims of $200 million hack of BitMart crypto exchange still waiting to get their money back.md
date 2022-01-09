@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fGlDdYCQdp0kWUDQAXjAXxt4aHE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70366520/acastro_170621_1777_0008.0.jpg' width='700px' /><br/>
+Cryptocurrency exchange BitMart promised a full reimbursement to the victims of the platform-wide $200 million hack, but some users still haven't gotten their money back, according to a report from CNBC. Hackers made off with a variety of tokens on December 4th after using a stolen privacy key to gain access to one of BitMart's hot wallets, otherwise known as a crypto wallet that's connected to the internet.
+<a href='https://www.theverge.com/2022/1/9/22874734/bitmart-crypto-hack-victims-200-million'> Source <a/>
