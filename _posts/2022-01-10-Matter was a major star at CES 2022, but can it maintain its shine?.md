@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rG6n_xypGr7L6SEy7cu_IlKFKqY=/0x14:2092x1184/1200x800/filters:focal(746x359:1148x761)/cdn.vox-cdn.com/uploads/chorus_image/image/70363137/Matter_Samsung.0.png' width='700px' /><br/>
+Two years ago, on the floor of CES 2020, there was a lot of buzz about a chip — not the latest AMD or Intel announcement, but a new alliance of major tech companies that called itself Project Connected Home over IP, or CHIP for short. Its promise was to develop an open-source smart home standard that would make every connected home device work together, simply and securely, regardless of who made them. The buzz was: “That's never gonna happen.”
+<a href='https://www.theverge.com/2022/1/8/22872311/matter-smart-home-ces-2022'> Source <a/>

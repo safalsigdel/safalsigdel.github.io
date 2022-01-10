@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WqR9NM5QZCXNmbF9zpiTb6uNADY=/0x0:1280x692/1200x800/filters:focal(538x244:742x448)/cdn.vox-cdn.com/uploads/chorus_image/image/70362012/Scott_Pilgrim_Vs._The_World___Official_Trailer_0_8_screenshot.0.png' width='700px' /><br/>
+Netflix is developing an anime adaptation of the Scott Pilgrim graphic novel series, according to a report from The Hollywood Reporter. The adaptation doesn't have a series order yet, THR says, and there aren't any details about when it could hit the streaming service.
+<a href='https://www.theverge.com/2022/1/7/22872921/scott-pilgrim-anime-adaptation-in-development-netflix'> Source <a/>
