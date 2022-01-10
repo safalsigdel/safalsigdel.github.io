@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2HJFKAUT_R1eCkG-mM5H-ojvsxQ=/0x0:3000x1682/1200x800/filters:focal(1883x568:2363x1048)/cdn.vox-cdn.com/uploads/chorus_image/image/70369171/surfacego3black.0.jpg' width='700px' /><br/>
+Microsoft appears to be readying a matte black version of the Surface Go 3. Leaked images from Aggiornamenti Lumia on Twitter show the 10.5-inch Surface Go 3 with a new matte black finish. The device looks identical to the Surface Go 3 otherwise, and the marketing images could suggest a launch is imminent.
+<a href='https://www.theverge.com/2022/1/10/22876137/microsoft-surface-go-3-matte-black-leak-images'> Source <a/>
