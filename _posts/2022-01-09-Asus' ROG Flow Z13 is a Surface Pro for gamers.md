@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mceiWY9PUYUQmvZ7hsYnNJ-dQ90=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70359986/akrales_220106_4956_0011.0.jpg' width='700px' /><br/>
-Asus has announced its ROG Flow Z13, which it's touting as the “world's most powerful gaming tablet.” Yes, you read that correctly — it's a tablet for gaming. Not mobile gaming, but PC gaming. It's got an RTX 3050 Ti inside, and you can hook it up to Asus' ROG XG Mobile external GPU for even more frames.
-<a href='https://www.theverge.com/2022/1/7/22869168/asus-rog-flow-z13-gaming-tablet-convertible-hands-on'> Source <a/>

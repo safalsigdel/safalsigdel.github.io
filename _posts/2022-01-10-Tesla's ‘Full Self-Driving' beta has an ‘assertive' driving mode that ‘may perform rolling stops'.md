@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3ZnDw_AX3ocFwaM_T_ktYxsiblk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70367882/tesla_model_y_3605.0.jpg' width='700px' /><br/>
+Tesla's Full Self-Driving (FSD) beta lets you choose from three driving “profiles” that dictate how the car will react to certain situations on the road. Each mode, “Chill,” “Average,” and “Assertive,” varies in terms of aggressiveness (and potentially safety).
+<a href='https://www.theverge.com/2022/1/9/22875382/tesla-full-self-driving-beta-assertive-profile'> Source <a/>
