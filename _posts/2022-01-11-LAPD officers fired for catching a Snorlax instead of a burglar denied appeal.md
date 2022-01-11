@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/sFkuC5f-p68orMoML98u_cYpLAU=/0x0:1920x1280/1200x800/filters:focal(722x452:1028x758)/cdn.vox-cdn.com/uploads/chorus_image/image/70372302/pokemoncop.0.jpg' width='700px' /><br/>
 Two LAPD officers who were fired from their jobs in 2017 for playing Pokxc3xa9mon Go while on duty have had their appeal for reinstatement denied by a California judge.
+<a href='https://www.theverge.com/2022/1/10/22877217/lapd-officers-fired-for-playing-pokemon-go'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/sFkuC5f-p68orMoML98u_cYpLAU=/0x0:1920x1280/1200x800/filters:focal(722x452:1028x758)/cdn.vox-cdn.com/uploads/chorus_image/image/70372302/pokemoncop.0.jpg' width='700px' /><br/>
+Two LAPD officers who were fired from their jobs in 2017 for playing Pokxc3xa9mon Go while on duty have had their appeal for reinstatement denied by a California judge.
 <a href='https://www.theverge.com/2022/1/10/22877217/lapd-officers-fired-for-playing-pokemon-go'> Source <a/>
