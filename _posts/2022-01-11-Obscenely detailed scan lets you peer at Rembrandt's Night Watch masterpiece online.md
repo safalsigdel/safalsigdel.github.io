@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+The Rijksmuseum has released what it claims is the “largest and most detailed photograph of any artwork,” and it's viewable for free on its website. The scan is of Rembrandt van Rijn's 1642 masterpiece The Night Watch, a roughly 12 by 14 foot painting which is currently the focus of a massive research and restoration project called “Operation Night Watch.”
+<a href='https://www.theverge.com/tldr/2022/1/11/22877951/rembrandt-night-watch-digital-gigapixel-scan'> Source <a/>
