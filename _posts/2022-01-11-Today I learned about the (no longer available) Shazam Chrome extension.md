@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XnwW8aKNDG1kh5NssOyp1ov59yA=/0x0:640x400/1200x800/filters:focal(269x149:371x251)/cdn.vox-cdn.com/uploads/chorus_image/image/70370902/unnamed.0.jpg' width='700px' /><br/>
+Update January 10th, 3:44PM ET: Shortly after this article was published, the extension was made unavailable from the Chrome Web Store. At the moment, the apps page on Shazam's website still advertises the extension, but the link to it leads to a 404 error. We've reached out to Apple (which owns Shazam) to ask what happened, and will update this story again if we hear back, or if the extension is re-listed on the store.
+<a href='https://www.theverge.com/22876655/shazam-music-identification-chrome-extension-youtube-wikipedia'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/66CefKbRbn8hzY4Ll9cfkQubHjs=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/70363979/webb_telescope_2020.0.jpg' width='700px' /><br/>
-The James Webb Telescope (JWST) has finished unfolding its primary mirror, ending a series of major deployments that took place over the span of two weeks. All of those deployments needed to go perfectly in order for the massive space telescope, which was decades in the making, to function.
-<a href='https://www.theverge.com/2022/1/8/22873592/james-webb-telescope-final-mirror-deployment-conclusion'> Source <a/>

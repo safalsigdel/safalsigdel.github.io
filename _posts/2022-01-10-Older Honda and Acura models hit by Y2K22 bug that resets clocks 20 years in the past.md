@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AlDNhXXTMtmJwOiEA-n_6erDYzo=/0x0:800x532/1200x800/filters:focal(336x202:464x330)/cdn.vox-cdn.com/uploads/chorus_image/image/70363709/steeringwheelVERGE.0.jpg' width='700px' /><br/>
-Owners of older Honda and Acura models started up their cars on New Year's Day, only to find that their vehicles turned into time machines, according to a report from Jalopnik. Instead of seamlessly transitioning to the year 2022, cars' clocks jumped 20 years back in time, and Honda says a fix could be months away.
-<a href='https://www.theverge.com/2022/1/8/22873403/honda-acuras-y2k22-bug-clocks-reset-2002'> Source <a/>

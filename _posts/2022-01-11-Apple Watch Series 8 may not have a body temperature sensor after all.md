@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sLlylARphqiUPGsuZSvVBXChNeI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70370411/vpavic_211006_4796_0039.0.jpg' width='700px' /><br/>
+If you were hoping for more exciting updates with the Apple Watch Series 8, you might have to start tempering expectations. While it was initially thought that the next-generation watch would have a body temperature sensor, it's looking like that may not be the case after all.
+<a href='https://www.theverge.com/2022/1/10/22876324/apple-watch-series-8-body-temperature-smartwatch'> Source <a/>

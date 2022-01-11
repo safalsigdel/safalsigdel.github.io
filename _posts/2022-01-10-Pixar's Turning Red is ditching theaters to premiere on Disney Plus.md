@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vjLS_2a5AsmPps1JrBv-LB-k_V0=/0x0:1100x682/1200x800/filters:focal(385x218:561x394)/cdn.vox-cdn.com/uploads/chorus_image/image/70361019/turningred_pixar.0.jpg' width='700px' /><br/>
-Late last year, movie studios seemed set on returning to theatrical premieres for all movies for the first time since the pandemic started, but now Disney has announced a change of plans for an upcoming family flick, Pixar's Turning Red. Instead of coming to theaters on March 11th, now it “will premiere exclusively in homes worldwide” on Disney Plus, but still on March 11th.
-<a href='https://www.theverge.com/2022/1/7/22872585/disney-plus-turning-red-pixar-premiere-streaming'> Source <a/>
