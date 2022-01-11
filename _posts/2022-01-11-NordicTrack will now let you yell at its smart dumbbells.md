@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bLjXh1MO6D6pEl6Z-hZ1QcYJP14=/0x0:2048x1536/1200x800/filters:focal(861x605:1187x931)/cdn.vox-cdn.com/uploads/chorus_image/image/70373781/Female_Twist_NordicTrack_iSelect_Voice_Controlled_Dumbbells.0.png' width='700px' /><br/>
+Smart dumbbells aren't new in connected fitness, but today, NordicTrack is announcing a unique take on the product. The NordicTrack iSelect Adjustable Dumbbells are voice-controlled weights that work with Amazon Alexa. As in, you can now ask Alexa to adjust how heavy your dumbbells are instead of having to do it yourself.
+<a href='https://www.theverge.com/2022/1/11/22876686/nordictrack-ifit-alexa-adjustable-dumbbells-fitness'> Source <a/>
