@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nOZfakhI1QUDLNEa7XfQCX-sFkw=/0x0:4896x3264/1200x800/filters:focal(2057x1241:2839x2023)/cdn.vox-cdn.com/uploads/chorus_image/image/70373468/1165707843.0.jpg' width='700px' /><br/>
+US Senator Marco Rubio (R-FL) has threatened the government funding of chipmaker Intel after the company made what Rubio described as “humiliating apologies” to China.
+<a href='https://www.theverge.com/2022/1/11/22877916/intel-xinjiang-apology-marco-rubio-threatens-funding-chips-act'> Source <a/>
