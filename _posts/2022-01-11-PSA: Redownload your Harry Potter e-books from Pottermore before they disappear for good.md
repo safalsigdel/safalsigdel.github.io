@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IECB-H8zDwVnjkRNDQResfq-MFA=/0x0:1277x852/1200x800/filters:focal(537x324:741x528)/cdn.vox-cdn.com/uploads/chorus_image/image/70373454/Screen_Shot_2022_01_11_at_9.09.22_AM.0.jpg' width='700px' /><br/>
+If you own digital Harry Potter books purchased on Pottermore, you might want to redownload your copies before the option disappears for good at the end of the month. The site is emailing its customers to warn them that the books will no longer be available to redownload after January 31st, since being removed from sale in September last year.
+<a href='https://www.theverge.com/2022/1/11/22877914/harry-potter-ebooks-pottermore-psa-january-31st'> Source <a/>
