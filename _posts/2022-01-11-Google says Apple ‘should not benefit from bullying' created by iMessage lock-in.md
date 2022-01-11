@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/bGOQyD523sWtNMEpUjcwzIXBbu8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70368828/akrales_181218_2952_0084.0.jpg' width='700px' /><br/>
 Google has accused Apple of benefiting from bullying as part of a deliberate strategy to make Android users into second-class citizens on the iPhone-maker's iMessage service.
-<a href='https://www.theverge.com/2022/1/10/22876067/google-apple-ios-android-imessages-bullying-lockheimer'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/bGOQyD523sWtNMEpUjcwzIXBbu8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70368828/akrales_181218_2952_0084.0.jpg' width='700px' /><br/>
-Google has accused Apple of benefiting from bullying as part of a deliberate strategy to make Android users into second-class citizens on the iPhone-maker's iMessage service.
 <a href='https://www.theverge.com/2022/1/10/22876067/google-apple-ios-android-imessages-bullying-lockheimer'> Source <a/>
