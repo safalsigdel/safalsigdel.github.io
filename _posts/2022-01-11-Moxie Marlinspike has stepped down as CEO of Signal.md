@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/wOowkjp9XEFcK2c_fa10fGCyzTM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70370950/acastro_210125_1777_signal_0002.0.jpg' width='700px' /><br/>
 Signal founder Moxie Marlinspike is stepping down as CEO of the company, he announced in a blog post on Monday. Executive chairman Brian Acton will serve as acting CEO until a replacement is found.
-<a href='https://www.theverge.com/2022/1/10/22876891/signal-ceo-steps-down-moxie-marlinspike-encryption-cryptocurrency'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/wOowkjp9XEFcK2c_fa10fGCyzTM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70370950/acastro_210125_1777_signal_0002.0.jpg' width='700px' /><br/>
-Signal founder Moxie Marlinspike is stepping down as CEO of the company, he announced in a blog post on Monday. Executive chairman Brian Acton will serve as acting CEO until a replacement is found.
 <a href='https://www.theverge.com/2022/1/10/22876891/signal-ceo-steps-down-moxie-marlinspike-encryption-cryptocurrency'> Source <a/>
