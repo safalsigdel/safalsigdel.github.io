@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uUN08Yakm8KR5q_Z7apzGvUEzTI=/0x0:750x500/1200x800/filters:focal(315x190:435x310)/cdn.vox-cdn.com/uploads/chorus_image/image/70368755/3.0.jpg' width='700px' /><br/>
-Key specs for Samsung Display's new QD-OLED TVs have been revealed by third-party certification company SGS, the South Korean display manufacturer has announced. According to SGS the new panels are capable of hitting a brightness of 1,000 nits, and can display over 90 percent of the BT.2020 color space, which both represent substantial improvements over current OLED TVs on the market, otherwise known as WOLEDs.
-<a href='https://www.theverge.com/2022/1/10/22876061/samsung-qd-oled-quantum-dot-tv-panels-sgs-certification-brightness-color-viewing-angles'> Source <a/>
