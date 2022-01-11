@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BXRbWf6jWJnV-QGJqqn2eOwLj-0=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/70374077/twarren_rtx3080.0.jpg' width='700px' /><br/>
+Nvidia is launching a new 12GB model of its RTX 3080 today. Revealed initially in Nvidia's latest GeForce drivers, the new 12GB model goes on sale today from select board partners and offers 2GB more memory than the original 10GB RTX 3080.
+<a href='https://www.theverge.com/22878021/nvidia-rtx-3080-12gb-model-release-date-specs-price'> Source <a/>
