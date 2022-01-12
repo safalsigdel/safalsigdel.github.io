@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Huzv11ZA0p1g3DQMgF8r6_Hh64Y=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70378638/acastro_220111_4960_0001.0.jpg' width='700px' /><br/>
+In the same week, Katylin has seen a banana and a boat given away between neighbors, no strings attached. In her local Buy Nothing group in Seattle, neighbors share what they have to give — vacations, gift wrap, symphony tickets, Airbnb accommodations — up for grabs to whoever wants or needs it.
+<a href='https://www.theverge.com/tech/2022/1/12/22878353/buy-nothing-groups-facebook-app'> Source <a/>

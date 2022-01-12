@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aoI34ZbnJVlxakvOgsVSjxuluNU=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70378712/VRG_ILLO_BeccaData.0.jpg' width='700px' /><br/>
+After working on a data piece analyzing everything The Verge has ever written, I thought it might be fun to look at some other Verge data to see what I could find.
+<a href='https://www.theverge.com/20961163/becca-farsace-buds-youtube-data-language-video-host'> Source <a/>
