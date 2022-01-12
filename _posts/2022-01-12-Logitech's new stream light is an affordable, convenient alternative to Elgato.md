@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KvitqWTOfSpWl3xwDXV3t9Fzrjw=/0x0:495x331/1200x0/filters:focal(0x0:495x331):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23163163/tonzy_using_streaming_light.jpg' width='700px' /><br/>
+Logitech's Litra Glow is a small LED light that's designed to illuminate you while you're sitting at your desk. It's designed primarily with content creators like Twitch streamers or YouTubers in mind, but should work just as well for smartening you up on a Zoom call. In other words, it looks like a competitor to Elgato's $129.99 Key Light Air, but at a more affordable $59.99 (xe2x82xac69) price point.
+<a href='https://www.theverge.com/2022/1/12/22879811/logitech-litra-glow-elgato'> Source <a/>
