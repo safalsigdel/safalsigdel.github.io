@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pGCipwsgdxkQ3dZ17636SqUlxuY=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70378029/DSC_0944.0.jpeg' width='700px' /><br/>
+Lime's next-generation electric bikes are finally making their North American debut. Nearly a year after announcing its plans to spend $50 million on a major e-bike expansion, the San Francisco-based micromobility company says it will deploy the first wave of new bikes in Washington, DC, starting this week.
+<a href='https://www.theverge.com/2022/1/12/22878726/lime-ebike-specs-hands-on-micromobility-scooter'> Source <a/>
