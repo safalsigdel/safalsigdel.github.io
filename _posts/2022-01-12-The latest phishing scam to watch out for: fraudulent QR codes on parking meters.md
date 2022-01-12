@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/isdHfRvLWm_SH8TnFt5cXHLULTs=/0x0:4400x3148/1200x800/filters:focal(1848x1222:2552x1926)/cdn.vox-cdn.com/uploads/chorus_image/image/70377885/1331145067.0.jpg' width='700px' /><br/>
+Police in several US cities are warning residents not to pay for their parking using QR codes stuck to parking meters. That's because these codes have been placed there by scammers, who are using them to direct people to fraudulent sites that capture their payment details.
+<a href='https://www.theverge.com/2022/1/12/22879728/phishing-scam-parking-meter-qr-code-austin-san-antonio'> Source <a/>
