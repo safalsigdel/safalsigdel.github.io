@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/B5qgVPtSk7z9I090JKs3eZ0PvqE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70374197/acastro_210430_1777_semiCon_0003.0.jpg' width='700px' /><br/>
 It's a new year, and like clockwork, 2022 has brought with it a plethora of new chips for laptops, desktops, phones, and more.
+<a href='https://www.theverge.com/2022/1/11/22878059/chips-processors-cpu-gpu-2022-intel-amd-nvidia-qualcomm-apple-arm-x86'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/B5qgVPtSk7z9I090JKs3eZ0PvqE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70374197/acastro_210430_1777_semiCon_0003.0.jpg' width='700px' /><br/>
+It's a new year, and like clockwork, 2022 has brought with it a plethora of new chips for laptops, desktops, phones, and more.
 <a href='https://www.theverge.com/2022/1/11/22878059/chips-processors-cpu-gpu-2022-intel-amd-nvidia-qualcomm-apple-arm-x86'> Source <a/>
