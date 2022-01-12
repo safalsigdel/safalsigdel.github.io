@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_dRe9oHZhmt4nKh4lCL4lQ-q72s=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/68774579/VRG_ILL_4947_best_gadget_recommendations.6.jpg' width='700px' /><br/>
+It's been nearly two years since many of us started working from home due to the pandemic, and if you haven't yet adjusted your workspace to accommodate your needs, then it's probably time to get to it.
+<a href='https://www.theverge.com/22252470/work-from-home-remote-gadgets-recommendations'> Source <a/>
