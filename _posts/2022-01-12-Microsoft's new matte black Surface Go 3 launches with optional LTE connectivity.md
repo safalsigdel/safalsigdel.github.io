@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U1M3ClTbSIkVfsdcXglabB9qPUU=/0x0:2640x1760/1200x800/filters:focal(1109x669:1531x1091)/cdn.vox-cdn.com/uploads/chorus_image/image/70374631/surfacego3blacklte.5.jpg' width='700px' /><br/>
-Microsoft is announcing a new matte black option of its Surface Go 3 today, with optional LTE connectivity. The announcement comes just a day after images of the new Surface Go 3 model leaked online, with a new matte black finish. The new color option and LTE connectivity are the only changes, as it's identical to the regular Surface Go 3 otherwise.
-<a href='https://www.theverge.com/22878315/microsoft-surface-go-3-matte-black-lte-feature-release-date-pricing'> Source <a/>

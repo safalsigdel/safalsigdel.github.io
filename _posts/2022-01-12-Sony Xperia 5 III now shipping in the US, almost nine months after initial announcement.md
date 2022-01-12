@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fBlrwepBeyaHVxuXw_zZMJ9Jt8w=/0x0:1484x990/1200x0/filters:focal(0x0:1484x990):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23160681/auto.jpg' width='700px' /><br/>
-Sony's Xperia 5 III, the compact counterpart to its Xperia 1 III, is now on sale in the US, almost nine months after the company initially announced the device in April 2021. The phone retails for $999.99 and will be available in black or green, with the latter exclusive to Sony's own online store. The phone went on sale in the second half of last year in the UK and Europe.
-<a href='https://www.theverge.com/2022/1/11/22878181/sony-xperia-5-iii-us-price-release-date-specs-features'> Source <a/>
