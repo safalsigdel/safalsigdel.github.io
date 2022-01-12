@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/yIPlbH1XH2Vlojbk9V9wHKQ_JBY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70372165/acastro_191108_1777_t-mobile_0002.0.0.jpg' width='700px' /><br/>
-T-Mobile appears to be blocking some iPhone users from enabling iCloud Private Relay, a feature that lets you hide the websites you visit from third parties, according to a report from 9to5Mac. The block doesn't appear to be malicious, however — without it, some T-Mobile services couldn't operate, according to The T-Mo Report.
+T-Mobile said Tuesday that it had not blocked iCloud Private relay, and that it had identified what was causing some iPhone users to appear blocked from using the feature.
 <a href='https://www.theverge.com/2022/1/10/22877211/t-mobile-iphone-private-relay-block'> Source <a/>

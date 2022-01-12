@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qDe8Q9Ii-ecBI1RKsiN_QPH0el0=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/70370988/beats-pill-plus-0797.0.0.jpg' width='700px' /><br/>
-Apple appears to have quietly discontinued the Beats Pill Plus, with the portable wireless speaker no longer appearing on either Apple or Beats' websites, as spotted by 9to5Mac.
-<a href='https://www.theverge.com/2022/1/10/22876792/apple-beats-pill-plus-battery-powered-speaker-discontinued'> Source <a/>

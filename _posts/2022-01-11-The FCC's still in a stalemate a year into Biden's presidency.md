@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QfGEN5sWxgpJtNLyDlvXzRzgUIc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70370246/acastro_170711_1777_0004.0.jpg' width='700px' /><br/>
-After nearly a year into Joe Biden's presidency, new pressure is mounting on the Senate to expeditiously confirm nominations for positions at two of the federal government's top agencies with control over broadband and data privacy.
-<a href='https://www.theverge.com/22876628/fcc-biden-ftc-gigi-sohn-alvaro-bedoya-rosenworcel-net-neutrality'> Source <a/>

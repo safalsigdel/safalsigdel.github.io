@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IaMNWaFPU5MXXaK00OtuA7d7KDE=/281x0:2418x1154/1200x800/filters:focal(1033x174:1493x634)/cdn.vox-cdn.com/uploads/chorus_image/image/70372720/Screen_Shot_2022_01_10_at_17.09.58.0.png' width='700px' /><br/>
-There's a new teaser for the first season of Super Pumped, Showtime's upcoming anthology show about Silicon Valley startups that hit it big. As we saw in the teaser from December, season one will revolve around Uber and its former CEO Travis Kalanick, played by Joseph Gordon-Levitt.
-<a href='https://www.theverge.com/2022/1/10/22877447/super-pumped-season-one-teaser-trailer-uber-travis-kalanick-showtime'> Source <a/>

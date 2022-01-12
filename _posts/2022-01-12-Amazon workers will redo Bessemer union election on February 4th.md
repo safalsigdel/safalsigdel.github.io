@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/c77Y2U11p4Q8c0OcZq_Lan_hV-8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70375181/acastro_181114_1777_amazon_hq2_0001.0.jpg' width='700px' /><br/>
+The second union election at an Amazon warehouse in Bessemer, Alabama will begin on February 4th, according to a notice posted Tuesday by the National Labor Relations Board (NLRB), which you can read below. The election is a redo of the one that was carried out in 2021, the results of which were declared invalid by the regulatory agency after reports that Amazon had broken labor laws during the union drive.
+<a href='https://www.theverge.com/2022/1/11/22878457/amazon-bessemer-alabama-union-election-redo-february-fourth'> Source <a/>

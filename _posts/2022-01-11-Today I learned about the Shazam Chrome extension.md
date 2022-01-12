@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XnwW8aKNDG1kh5NssOyp1ov59yA=/0x0:640x400/1200x800/filters:focal(269x149:371x251)/cdn.vox-cdn.com/uploads/chorus_image/image/70370902/unnamed.0.jpg' width='700px' /><br/>
-Today I learned about Shazam's Chrome extension, which seems to have been out for about a month and can help you identify music playing on the webpage you're viewing. Having the app directly in Chrome could help you figure out what song is playing in an ad, trailer, or livestream without having to mess around with your phone. (Thanks to 9to5Google for finding and pointing out this nifty tool.)
-<a href='https://www.theverge.com/22876655/shazam-music-identification-chrome-extension-youtube-wikipedia'> Source <a/>
