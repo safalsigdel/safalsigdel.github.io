@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/1XhxMzdQkNBqwsDAm-MC68Hd614=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70376042/acastro_211101_1777_meta_0004.0.jpg' width='700px' /><br/>
 A federal judge says the US Federal Trade Commission can proceed with an antitrust lawsuit against Meta, formerly known as Facebook, after dismissing the suit last year.
+<a href='https://www.theverge.com/2022/1/11/22878808/ftc-meta-facebook-lawsuit-ruling-revised-complaint-discovery'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/1XhxMzdQkNBqwsDAm-MC68Hd614=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70376042/acastro_211101_1777_meta_0004.0.jpg' width='700px' /><br/>
+A federal judge says the US Federal Trade Commission can proceed with an antitrust lawsuit against Meta, formerly known as Facebook, after dismissing the suit last year.
 <a href='https://www.theverge.com/2022/1/11/22878808/ftc-meta-facebook-lawsuit-ruling-revised-complaint-discovery'> Source <a/>
