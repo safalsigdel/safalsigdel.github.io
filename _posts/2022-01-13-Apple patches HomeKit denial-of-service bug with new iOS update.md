@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/_XitX_XIXlhwA7pHNx2Dz3-ztMc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70380018/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
 On Wednesday, Apple released the 15.2.1 version of iOS, a minor update to the mobile operating system that fixes bugs, including a denial-of-service vulnerability previously reported by The Verge.
-<a href='https://www.theverge.com/2022/1/12/22880493/apple-15-2-1-patch-ios-homekit-denial-of-service-vulnerability-fix'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/_XitX_XIXlhwA7pHNx2Dz3-ztMc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70380018/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-On Wednesday, Apple released the 15.2.1 version of iOS, a minor update to the mobile operating system that fixes bugs, including a denial-of-service vulnerability previously reported by The Verge.
 <a href='https://www.theverge.com/2022/1/12/22880493/apple-15-2-1-patch-ios-homekit-denial-of-service-vulnerability-fix'> Source <a/>

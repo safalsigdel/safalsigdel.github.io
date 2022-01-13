@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/qzmKntun9mT8aiVQv1qSrcc_cxE=/0x0:3744x2496/1200x800/filters:focal(1573x949:2171x1547)/cdn.vox-cdn.com/uploads/chorus_image/image/70379979/1363303992.0.jpg' width='700px' /><br/>
 On Wednesday, a senior White House adviser said that a government-run website to order COVID-19 rapid tests “should be online by this weekend,” according to new reporting from PBS NewsHour. Tests should start arriving this month.
-<a href='https://www.theverge.com/2022/1/12/22880467/white-house-covid-coronavirus-testing-website-order-rapid-tests'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/qzmKntun9mT8aiVQv1qSrcc_cxE=/0x0:3744x2496/1200x800/filters:focal(1573x949:2171x1547)/cdn.vox-cdn.com/uploads/chorus_image/image/70379979/1363303992.0.jpg' width='700px' /><br/>
-On Wednesday, a senior White House adviser said that a government-run website to order COVID-19 rapid tests “should be online by this weekend,” according to new reporting from PBS NewsHour. Tests should start arriving this month.
 <a href='https://www.theverge.com/2022/1/12/22880467/white-house-covid-coronavirus-testing-website-order-rapid-tests'> Source <a/>

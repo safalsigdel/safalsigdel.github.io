@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/j1y6t3AtNIwdQxxGb_VX2PrSBSc=/0x0:2880x1248/1200x800/filters:focal(1210x394:1670x854)/cdn.vox-cdn.com/uploads/chorus_image/image/70379647/ML_Teaser_Desktop.0.png' width='700px' /><br/>
 Augmented reality headset maker Magic Leap has announced early partners for its Magic Leap 2 headset — a signal that the once consumer-focused company is still moving ahead with its enterprise-focused business.
-<a href='https://www.theverge.com/2022/1/12/22880090/magic-leap-2-ar-headset-rollout-healthcare-companies'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/j1y6t3AtNIwdQxxGb_VX2PrSBSc=/0x0:2880x1248/1200x800/filters:focal(1210x394:1670x854)/cdn.vox-cdn.com/uploads/chorus_image/image/70379647/ML_Teaser_Desktop.0.png' width='700px' /><br/>
-Augmented reality headset maker Magic Leap has announced early partners for its Magic Leap 2 headset — a signal that the once consumer-focused company is still moving ahead with its enterprise-focused business.
 <a href='https://www.theverge.com/2022/1/12/22880090/magic-leap-2-ar-headset-rollout-healthcare-companies'> Source <a/>
