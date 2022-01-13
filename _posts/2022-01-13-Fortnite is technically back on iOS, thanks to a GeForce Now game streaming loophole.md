@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0C98yjGKxP69KAtM8tzGI_JzmWw=/0x0:2048x1024/1200x800/filters:focal(861x349:1187x675)/cdn.vox-cdn.com/uploads/chorus_image/image/70383282/GFN_Thursday_January_13.0.jpg' width='700px' /><br/>
+Fortnite is back on iOS today... sort of. The popular battle royale game isn't back on the App Store (where it's been missing since Apple pulled the app from its storefront in August 2020), but iPhone and iPad owners can now stream Fortnite to play on their phones and tablets through Nvidia's GeForce Now service, which opened up a closed beta today to test the new streaming version of the game.
+<a href='https://www.theverge.com/2022/1/13/22881796/fortnite-ios-nvidia-geforce-now-game-streaming-epic-apple'> Source <a/>
