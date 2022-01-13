@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1XTO1gDSlGWbxnANlPzi80RykY8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70378483/akrales_200904_4160_0390.0.0.jpg' width='700px' /><br/>
-Just over 13 months ago, the Trump-era Federal Trade Commission sought to break up Facebook. The lawsuit was a long time in coming — it sought to unwind acquisitions that were made in 2012 (Instagram) and 2014 (WhatsApp) — and, in its initial form, was laughed out of court. The FTC had not plausibly demonstrated that Facebook had a monopoly, Judge James E. Boasberg ruled at the time, and thus could not proceed.
-<a href='https://www.theverge.com/22879623/meta-facebook-antitrust-problems-ftc-vr-virtual-reality'> Source <a/>
