@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S8yX1nrltYOIx1Wapq5j_Ben0FI=/0x0:900x600/1200x800/filters:focal(378x228:522x372)/cdn.vox-cdn.com/uploads/chorus_image/image/70378593/twitter.0.0.png' width='700px' /><br/>
-In February 2020,  I found that that it was possible not only to mute conversations or other accounts on Twitter, but (courtesy of a tweet by @nonprofWHIT ) that you could also mute a specific word. And you could do it straight from a tweet.
-<a href='https://www.theverge.com/22878708/twitter-mute-tweets-word-name-tag-how-to'> Source <a/>
