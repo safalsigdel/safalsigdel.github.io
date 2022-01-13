@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jqsJhVuDVv90-Ua0gXpFFYZUICA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70382376/akrales_190930_3689_0056.0.jpg' width='700px' /><br/>
+The PC market experienced its first big growth in a decade during 2020, when the pandemic began to force people to work and learn from home. Market research firms Gartner and IDC are now reporting that the worldwide PC market has grown again throughout 2021, as demand for traditional PCs continued during a global chip shortage.
+<a href='https://www.theverge.com/2022/1/13/22881569/pc-sales-shipments-2021-growth-idc-gartner-pandemic-demand'> Source <a/>

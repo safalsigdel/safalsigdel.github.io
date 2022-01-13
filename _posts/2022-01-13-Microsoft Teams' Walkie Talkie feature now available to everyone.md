@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qR_hUtrFz01s6ByzG4c53CHMoWw=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/70378359/microsoftteamswalkietalkie.0.jpg' width='700px' /><br/>
-Microsoft is making its Walkie Talkie feature of Microsoft Teams generally available to all users of its communications app today. Walkie Talkie lets Microsoft Teams users turn smartphones or tablets into a walkie-talkie that works over cellular data or Wi-FI. It was originally announced two years ago, and has been in preview until today.
-<a href='https://www.theverge.com/2022/1/12/22879777/microsoft-teams-walkie-talkie-launch-ios-app'> Source <a/>
