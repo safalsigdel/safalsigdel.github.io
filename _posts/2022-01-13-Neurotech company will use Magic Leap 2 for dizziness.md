@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sNQPiwf1LhSW95va6Cqnll_U8_M=/0x0:750x422/1200x800/filters:focal(315x151:435x271)/cdn.vox-cdn.com/uploads/chorus_image/image/70382965/magic_leap_2_image.0.jpeg' width='700px' /><br/>
+Magic Leap announced Tuesday that it was giving four healthcare partners early access to its next-gen augmented reality headset, including neurotechnology company SyncThink. With the new partnership, the company is interested in targeting vestibular disorders, which cause dizziness, SyncThink chief clinical officer Scott Anderson told The Verge.
+<a href='https://www.theverge.com/2022/1/13/22881677/magic-leap-2-neurotech-syncthink-dizziness'> Source <a/>
