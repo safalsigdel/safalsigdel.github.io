@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1Q6Nq47xUjX60ls1IPTyWMAcmyw=/0x0:1520x1013/1200x800/filters:focal(497x384:739x626)/cdn.vox-cdn.com/uploads/chorus_image/image/70380502/DSCF4677_Edited.0.jpg' width='700px' /><br/>
+Multipoint support on earbuds has long been one of Jabra's hallmarks, but slowly we're starting to see other brands add the convenience to their buds. The latest is OnePlus, which is adding “dual connection” to its flagship OnePlus Buds Pro with a new firmware update.
+<a href='https://www.theverge.com/2022/1/12/22880464/oneplus-buds-pro-multipoint-dual-connection-now-available'> Source <a/>

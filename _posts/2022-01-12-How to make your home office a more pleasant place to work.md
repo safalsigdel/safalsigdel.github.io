@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gemTNPdoe9PwtnvcDe4abfZD6GA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70378182/VRG_ILL_4947_Pleasant_home_office.0.jpg' width='700px' /><br/>
-This pandemic has more people working from home than ever before, but it's not all lollipops and daffodils. While there may have been some early excitement about not commuting or being breathed on by Chet the Xerox Tech, an actual home office can be downright depressing and / or uncomfortable. I should know.
-<a href='https://www.theverge.com/22867128/home-office-better-light-desk-chair-snacks-massage-plants'> Source <a/>

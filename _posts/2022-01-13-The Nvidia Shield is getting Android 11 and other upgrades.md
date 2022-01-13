@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qf5jm2hxMdPUER-VENNEdk3UCfQ=/0x0:1280x680/1200x800/filters:focal(538x238:742x442)/cdn.vox-cdn.com/uploads/chorus_image/image/70379534/SHIELD_TV_Experience_9.0_1280x680.0.jpg' width='700px' /><br/>
+The seemingly indefatigable Nvidia Shield is getting another major Android update, with the new Shield Software Experience Upgrade 9.0 that adds Android 11 and a host of other upgrades.
+<a href='https://www.theverge.com/2022/1/12/22880057/nvidia-shield-android-11-update-set-top-box-streaming'> Source <a/>

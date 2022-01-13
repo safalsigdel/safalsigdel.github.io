@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IYk3XTBObDDfUEqqA648tKqoH1c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70375457/DSCF6033_Edited.0.jpeg' width='700px' /><br/>
-Beats' best earbuds yet, the Beats Fit Pro, were only available in the United States immediately upon their release a few months ago. Apple then launched the earbuds in China, but now they're set to become much more widely available on January 28th. That's when the Beats Fit Pro will launch across Canada, Europe, and Japan.
-<a href='https://www.theverge.com/2022/1/11/22878599/apple-beats-fit-pro-earbuds-global-release-date-january-28'> Source <a/>

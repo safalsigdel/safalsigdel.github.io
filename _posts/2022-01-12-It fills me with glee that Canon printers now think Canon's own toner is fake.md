@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Printers are the worst. They're unreliable, they guzzle reportedly $12,000-a-gallon ink, and their manufacturers have been known to use dirty tricks, scare tactics, and DRM to strongly encourage you to buy cartridges exclusively from them. But Canon is now getting a taste of its own medicine. Some of Canon's own toner cartridges are now being detected as fakes — and they're forcing the company to teach customers how to bypass its own DRM (via Techdirt).
-<a href='https://www.theverge.com/tldr/2022/1/11/22878850/canon-printer-ink-toner-break-drm-chip-shortage-fake'> Source <a/>
