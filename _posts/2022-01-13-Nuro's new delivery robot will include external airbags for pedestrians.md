@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5NwSmYcKbvhCd3mwSbOZECQbY70=/0x0:4096x2160/1200x800/filters:focal(1721x753:2375x1407)/cdn.vox-cdn.com/uploads/chorus_image/image/70378404/Nuro_Rendered_Airbag.0.png' width='700px' /><br/>
-Nuro, the autonomous delivery company, announced its third-generation autonomous vehicle with a host of new improvements, including a bizarre-looking external airbag for pedestrians.
-<a href='https://www.theverge.com/2022/1/12/22878565/nuro-driverless-delivery-vehicle-third-generation-air-bag'> Source <a/>

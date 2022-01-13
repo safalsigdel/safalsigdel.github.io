@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KcA-W0XnGsm8BKwczYTrG94RHDs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70382414/acastro_200715_1777_twitter_0003.0.0.jpg' width='700px' /><br/>
+Nigeria has lifted its ban on Twitter, first instated on June 5th, 2021. The Nigerian government says Twitter has agreed to meet all of its demands, according to a report from CNN. These include Twitter opening a local office in Nigeria, addressing concerns over its tax payments, and “managing prohibited publication in line with Nigerian law.”
+<a href='https://www.theverge.com/2022/1/13/22881580/nigeria-twitter-ban-agreed-government-demands-local-office-tax'> Source <a/>

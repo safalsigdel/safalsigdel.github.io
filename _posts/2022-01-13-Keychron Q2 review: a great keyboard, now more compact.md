@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qCH_zumBc4A46z3P9lUpE_pJ6Uw=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70378418/jporter_220110_4961_0008.0.jpg' width='700px' /><br/>
-Last year, Keychron entered the world of high-end mechanical keyboards with the excellent Q1. It was compact, it was hot-swappable, it was easy to customize, and it felt amazing to type on. Now it's taking a second swing at the premium market with the Q2, an even more compact keyboard that inherits much of what made the Q1 great.
-<a href='https://www.theverge.com/22877979/keychron-q2-review'> Source <a/>
