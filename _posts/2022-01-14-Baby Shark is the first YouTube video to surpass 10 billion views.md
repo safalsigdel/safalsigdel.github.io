@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dBt3zfxZgYP-W9QqSL4zImo6cB0=/0x0:1399x918/1200x800/filters:focal(589x348:811x570)/cdn.vox-cdn.com/uploads/chorus_image/image/70383940/Baby_Shark_Dance____babyshark_Most_Viewed_Video___Animal_Songs___PINKFONG_Songs_for_Children_0_18_screenshot__1_.0.png' width='700px' /><br/>
-“Baby Shark” became the most-viewed YouTube video of all time in November 2020, and just over a year later, it has achieved another huge milestone: it has become the first YouTube video to surpass 10 billion views.
-<a href='https://www.theverge.com/2022/1/13/22881970/baby-shark-youtube-video-10-billion-views'> Source <a/>
