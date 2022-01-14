@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xNCqu9ES-nB6mqzbhpATBCIJtmo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70384389/acastro_210201_1777_robinhood_0003.0.jpg' width='700px' /><br/>
-Jose Batista, a retail investor, was awarded almost $30,000 from Robinhood after filing a complaint using the Financial Industry Regulatory Authority's (or FINRA's) arbitration service. His case may end up being an example for other retail traders who are still upset at the trading platform's actions in January of 2021.
-<a href='https://www.theverge.com/2022/1/13/22880914/robinhood-finra-arbitration-ruling-meme-stocks-koss-express-restrictions'> Source <a/>
