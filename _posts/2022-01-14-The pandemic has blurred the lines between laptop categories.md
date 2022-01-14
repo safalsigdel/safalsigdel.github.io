@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TtACM9hviRRmqDSc4mYwwn7KGA0=/0x0:2048x1365/1200x800/filters:focal(861x520:1187x846)/cdn.vox-cdn.com/uploads/chorus_image/image/70382871/3.0.jpeg' width='700px' /><br/>
-HP had one of the most expansive laptop launches of this year's CES. The headliners included two Elite Dragonfly models, a whole gaggle of Windows 11 Elitebooks, and a dump of gaming laptpos and desktops (as well as accessories). We saw the usual spec upgrades: better chips, smaller bezels, better battery life, bigger touchpads, etc.
-<a href='https://www.theverge.com/22872486/hp-president-alex-cho-hp-business-consumer-laptops'> Source <a/>
