@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OecfkmkY5qmLWK6RXFtCMXMRSTk=/0x0:5200x3467/1200x800/filters:focal(2184x1318:3016x2150)/cdn.vox-cdn.com/uploads/chorus_image/image/70384008/1136463264.0.jpg' width='700px' /><br/>
+Democrats and Republicans are getting behind a new bill, introduced Thursday, that would force tech companies to simplify the language in their terms of service agreements, making it easier for consumers to understand.
+<a href='https://www.theverge.com/2022/1/13/22882110/tldr-act-lori-trahan-lujan-cassidy-facebook-twitter-terms-of-service-agreement'> Source <a/>

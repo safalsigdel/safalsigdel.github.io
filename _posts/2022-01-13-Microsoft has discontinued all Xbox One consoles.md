@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BCvR_J5_U1dqSy0dO99yN8iq7D8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70382429/tpina_160731_1175_0065.0.0.jpg' width='700px' /><br/>
-Microsoft has stopped manufacturing all Xbox One consoles. The software giant originally discontinued the Xbox One X and digital Xbox One S ahead of the Xbox Series X launch, then quietly stopped manufacturing the Xbox One S at the end of 2020, leaving retailers to sell out their remaining stock.
-<a href='https://www.theverge.com/2022/1/13/22881211/microsoft-discontinues-xbox-one-consoles-2020'> Source <a/>

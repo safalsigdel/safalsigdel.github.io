@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kMLkmNIjqkTEBOQhs0sqxVltTs0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70380696/acastro_200406_1777_gm_0001.0.0.jpg' width='700px' /><br/>
-The used car market is red hot, and it seems General Motors wants to compete squarely with used vehicle sites like Carvana with a new website called CarBravo. GM is beginning to enroll dealers now to be a part of the site, which is set to launch in “spring 2022,” according to a press release.
-<a href='https://www.theverge.com/2022/1/12/22880695/gm-general-motors-carbravo-online-used-car-marketplace-website'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qWauUbKMj1zerUnlSGRAC5rcaGc=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/70382334/dropbox_logo_2x.0.jpeg' width='700px' /><br/>
-Dropbox's latest beta has added native support for Macs with M1 processors, 9to5Mac reports. The addition was confirmed by a Dropbox community manager on the company's forums, and we've verified it by installing the latest beta of the macOS app. You can grab it yourselves from this Dropbox forum.
-<a href='https://www.theverge.com/2022/1/13/22881547/dropbox-beta-m1-mac-support-macos'> Source <a/>

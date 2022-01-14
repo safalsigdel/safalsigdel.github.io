@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-We're still waiting on the Portal movie that's apparently been years in the making, but if you must see Portal icon / villain GLaDOS in some sort of cinematic, there's a new Geico ad you can watch right here or at the top of this post. Yes, you read that correctly — Geico actually made a Portal-themed ad featuring GLaDOS, and the insurance company even got voice actor Ellen McLain to reprise her role as the famous robot.
-<a href='https://www.theverge.com/tldr/2022/1/12/22881121/geico-portal-ad-never-asked-for-gecko-glados'> Source <a/>

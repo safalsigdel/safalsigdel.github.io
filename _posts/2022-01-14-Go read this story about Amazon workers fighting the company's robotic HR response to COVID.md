@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e_efFsj-uyvo8B-xWJjdlELuv-Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70385980/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
+NBC News has published a great report on the struggles Amazon employees face trying to get tested for COVID after the company stopped onsite testing last summer, and the HR quagmire they could end up in when reporting their results or dealing with illness-related PTO. The story is well worth a read, as it delves into Amazon's policies and systems, and gives a voice to the employees they affect.
+<a href='https://www.theverge.com/2022/1/13/22882707/go-read-this-amazon-workers-covid-hr-system-testing-helpline'> Source <a/>

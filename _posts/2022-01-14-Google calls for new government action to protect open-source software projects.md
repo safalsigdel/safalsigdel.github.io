@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J7dItbZG8jMMjNL6PF2uwj6_Qeo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70384742/acastro_180508_1777_google_IO_0001.0.jpg' width='700px' /><br/>
+Following a summit on open-source security hosted at the White House Thursday, Google has called for increasing government involvement in identifying and securing critical open-source software projects.
+<a href='https://www.theverge.com/2022/1/13/22882176/google-government-action-protect-open-source-software-funding-security'> Source <a/>

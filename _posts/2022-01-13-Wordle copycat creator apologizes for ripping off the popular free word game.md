@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AN9h6UN1hNOsM24ZXz3vpgy0ZfQ=/0x0:1125x729/1200x800/filters:focal(473x275:653x455)/cdn.vox-cdn.com/uploads/chorus_image/image/70379830/IMG_3664.0.jpg' width='700px' /><br/>
-Developer Zach Shakked — the creator of one of several controversial copycat versions of Josh Wardle's popular free word-guessing game — has responded to Apple removing his app from the App Store after an internet backlash that followed his boasting about the money-making potential of his clone.
-<a href='https://www.theverge.com/2022/1/12/22880353/wordle-copycat-creator-apology-word-game-app-store-apple'> Source <a/>

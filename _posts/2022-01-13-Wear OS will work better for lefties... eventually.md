@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SqTfCU0VR_7mwYzdu5QqRSqGY-0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70380113/dbohn_211105_4864_0002.0.jpg' width='700px' /><br/>
-Good news for Wear OS southpaws: Google is adding the ability to rotate the screen on Wear OS watches 180 degrees. There is, however, a catch — you might have to upgrade to get the feature.
-<a href='https://www.theverge.com/2022/1/12/22879994/wear-os-lefties-smartwatches-fossil-google'> Source <a/>

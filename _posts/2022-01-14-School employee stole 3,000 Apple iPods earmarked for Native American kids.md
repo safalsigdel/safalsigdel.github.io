@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/J4q5f1iaxboW4qElo9LaJXOHOto=/0x0:1020x680/1200x800/filters:focal(281x395:443x557)/cdn.vox-cdn.com/uploads/chorus_image/image/70385966/IMG_6762.0.jpg' width='700px' /><br/>
+She ran a program that used iPods to teach reading and math to underprivileged Native American schoolkids living on tribal land. Now, 46-year-old Kristy Stock of New Mexico is getting 18 months in prison for stealing 3,000 of them, which she resold for a personal gain of over $800,000 between 2013 and 2018.
+<a href='https://www.theverge.com/22882758/ipod-theft-kristy-stock-native-american-students-new-mexico-school-district'> Source <a/>

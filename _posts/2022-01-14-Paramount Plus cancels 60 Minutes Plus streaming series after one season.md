@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/53V_RVjB5Xnuc5VLDunrsm4Qrmk=/0x0:3888x2592/1200x800/filters:focal(1633x985:2255x1607)/cdn.vox-cdn.com/uploads/chorus_image/image/70385783/1233727583.0.jpg' width='700px' /><br/>
+ViacomCBS has canceled 60 Minutes Plus at its tentpole streaming service Paramount Plus, axing a title that was touted as one of the service's premium exclusives.
+<a href='https://www.theverge.com/2022/1/13/22882810/paramount-plus-streaming-60-minutes-plus-one-season'> Source <a/>
