@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gVxpH-jDefH_jJsYU4Fd_iUx9Ik=/0x0:3000x2002/1200x800/filters:focal(1260x761:1740x1241)/cdn.vox-cdn.com/uploads/chorus_image/image/70382840/Leica_M11_Ambient_03_RGB.0.jpg' width='700px' /><br/>
-Leica has introduced the latest generation of its venerated M rangefinder camera, the new M11. The M11 is very similar in appearance to the M10 line it's replacing, with much of the claimed 40 new improvements found on the inside. Leica says the M11 will be available starting today, January 13th, 2022, with a price tag of $8,995.
-<a href='https://www.theverge.com/2022/1/13/22879207/leica-m11-rangefinder-camera-news-announcement-features-price'> Source <a/>
