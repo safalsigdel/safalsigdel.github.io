@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u5hxOWfigKnZTCyh3iX06hFk7kM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70383280/acastro_210708_4663_0001.0.jpg' width='700px' /><br/>
-The White House will meet with leaders of major tech companies including Apple, Google, Amazon, Meta, IBM, and Microsoft on Thursday to discuss the security of open-source software. The issue has become urgent in the wake of the extremely serious Log4j vulnerability, discovered in December 2021.
-<a href='https://www.theverge.com/2022/1/13/22881813/white-house-tech-summit-apple-google-meta-amazon-open-source-security'> Source <a/>
