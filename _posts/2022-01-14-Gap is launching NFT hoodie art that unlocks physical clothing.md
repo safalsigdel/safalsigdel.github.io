@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0i8xP7Us7B5Ps5bfPsIDUY9irlU=/0x0:1600x1067/1200x800/filters:focal(672x406:928x662)/cdn.vox-cdn.com/uploads/chorus_image/image/70383671/gap_hoodie_nft_collection_frank_ape.0.jpeg' width='700px' /><br/>
-Gap is selling NFTs, following other clothing retailers like Adidas, Nike, and Macy's that in recent months have jumped into the NFT space. The NFTs are built on the Tezos blockchain, which touts itself as a more energy-efficient option.
-<a href='https://www.theverge.com/2022/1/13/22881943/gap-nft-hoodies-frank-ape'> Source <a/>
