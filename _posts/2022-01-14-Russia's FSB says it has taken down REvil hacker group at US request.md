@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/p2xQ6JBrU-JFwrRMfXNRQSpiBpg=/0x0:1100x729/1200x800/filters:focal(462x277:638x453)/cdn.vox-cdn.com/uploads/chorus_image/image/70388600/hacker-stock1_2040.0.jpg' width='700px' /><br/>
+Russia's domestic security service, the FSB, has arrested numerous members of the REvil hacking group at the request of the US government, the FSB said on Friday. The move, which marks an unusual degree of cooperation between Russian and US agencies, comes amid increasingly aggressive Russian military activity on the Ukrainian border and tense diplomacy as the United States attempts to prevent armed conflict.
+<a href='https://www.theverge.com/2022/1/14/22883675/russia-fsb-revil-hacker-group-ransomware-us-request-fbi-doj'> Source <a/>
