@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Did you struggle with Wordle today? I sure as hell did, racking up my second ever failure since I started playing the game at the beginning of the year. I was annoyed at myself more than the puzzle and eased that frustration by sharing my results on Twitter.
-<a href='https://www.theverge.com/tldr/22881995/wordle-emoji-results-auto-generated-tell-a-story'> Source <a/>
