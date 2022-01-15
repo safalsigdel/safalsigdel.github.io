@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Uh532yNv87OtkFr27yPEx0oDFwU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70390997/acastro_211025_1777_netflix_0001.0.jpg' width='700px' /><br/>
+Netflix is raising prices across all of its plans in the US today. The company's standard plan will rise to $15.50 per month from $14, while the 4K plan will rise to $20 per month from $18. The basic plan, which doesn't include HD, is also rising to $10 per month from $9. Prices are rising in Canada as well.
+<a href='https://www.theverge.com/2022/1/14/22884263/netflix-price-increases-2021-us-canada-all-plans-hd-4k'> Source <a/>
