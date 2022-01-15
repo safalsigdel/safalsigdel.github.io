@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/QCmfnSHwHLcTwaNyb2FdZbtv920=/0x0:1125x959/1200x800/filters:focal(473x390:653x570)/cdn.vox-cdn.com/uploads/chorus_image/image/70388488/IMG_3651.0.jpg' width='700px' /><br/>
 Every Friday, The Verge publishes our flagship podcast, The Vergecast, where we discuss the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/2022/1/14/22883590/vergecast-podcast-481-wordle-clones-ftc-antitrust-lawsuit-proceeds-pc-market-growth'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/QCmfnSHwHLcTwaNyb2FdZbtv920=/0x0:1125x959/1200x800/filters:focal(473x390:653x570)/cdn.vox-cdn.com/uploads/chorus_image/image/70388488/IMG_3651.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where we discuss the week in tech news with the reporters and editors covering the biggest stories.
 <a href='https://www.theverge.com/2022/1/14/22883590/vergecast-podcast-481-wordle-clones-ftc-antitrust-lawsuit-proceeds-pc-market-growth'> Source <a/>
