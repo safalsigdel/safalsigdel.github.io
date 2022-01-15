@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v5zqkSu5QgBvlxeZdsefivmUwu8=/0x0:1844x1190/1200x800/filters:focal(794x96:1088x390)/cdn.vox-cdn.com/uploads/chorus_image/image/70386816/giga_doge.5.jpg' width='700px' /><br/>
-Tesla now lets customers buy select items of merchandise using Dogecoin, the company's CEO Elon Musk has announced. Products buyable with the meme-based cryptocurrency include the Cyberquad for Kids (12,020 doge / around $2,320), the Giga Texas Belt Buckle (835 doge / around $161) and the Cyberwhistle (300 doge / around $58). Business Insider notes that Dogecoin was up 16 percent to around $0.20 following the news.
-<a href='https://www.theverge.com/2022/1/14/22849725/tesla-dogecoin-cryptocurrency-merchandise-sales'> Source <a/>

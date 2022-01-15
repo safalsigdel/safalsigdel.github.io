@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0-LRfoFx66DLbGuTx6K5afvgz9k=/0x0:1020x681/1200x800/filters:focal(429x260:591x422)/cdn.vox-cdn.com/uploads/chorus_image/image/70394217/theverge3_1020.0.jpg' width='700px' /><br/>
+Apple now requires store and corporate employees to get a COVID-19 booster shot, the company announced in an internal email seen by The Verge.
+<a href='https://www.theverge.com/2022/1/15/22885181/apple-vaccine-covid-19-booster-shot-employees'> Source <a/>
