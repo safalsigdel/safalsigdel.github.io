@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/EIbEcTpNoltv6EErKT14eEnjz7U=/0x0:4774x3235/1200x800/filters:focal(2006x1237:2768x1999)/cdn.vox-cdn.com/uploads/chorus_image/image/70394714/1187777086.0.jpg' width='700px' /><br/>
 AT&T, Dish, and T-Mobile dropped billions of dollars in a Federal Communications Commission (FCC) auction to acquire more 5G spectrum licenses in the midrange 3.45GHz to 3.55GHz band, according to a report by the Wall Street Journal (WSJ).
-<a href='https://www.theverge.com/2022/1/15/22885320/att-dish-tmobile-5g-spectrum-billions-auction'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/EIbEcTpNoltv6EErKT14eEnjz7U=/0x0:4774x3235/1200x800/filters:focal(2006x1237:2768x1999)/cdn.vox-cdn.com/uploads/chorus_image/image/70394714/1187777086.0.jpg' width='700px' /><br/>
-AT&T, Dish, and T-Mobile dropped billions of dollars in a Federal Communications Commission (FCC) auction to acquire more 5G spectrum licenses in the midrange 3.45GHz to 3.55GHz band, according to a report by the Wall Street Journal (WSJ).
 <a href='https://www.theverge.com/2022/1/15/22885320/att-dish-tmobile-5g-spectrum-billions-auction'> Source <a/>
