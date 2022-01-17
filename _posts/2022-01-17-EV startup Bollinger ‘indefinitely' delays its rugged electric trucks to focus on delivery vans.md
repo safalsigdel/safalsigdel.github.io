@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MXP2j9pbBKS0N3ElwEYp-1-sdAI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70387936/sokane_170711_1870_0014.0.jpg' width='700px' /><br/>
-Bollinger, a Michigan-based startup, announced today that it was postponing its plans to manufacture electric trucks in order to focus on commercial delivery vans.
-<a href='https://www.theverge.com/2022/1/14/22881883/bollinger-electric-truck-postpone-delivery-van'> Source <a/>
