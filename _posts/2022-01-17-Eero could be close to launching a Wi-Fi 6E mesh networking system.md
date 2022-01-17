@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dw6AL3XEUZZ4XdYbM9tOwOUfb1M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70390602/dseifert_201213_4337_0002.0.jpg' width='700px' /><br/>
-Amazon-owned Eero seems to be close to announcing new routers sometime soon, as new FCC filings appeared this week for devices that appear to be called the Eero 6 Plus and the Eero Pro 6E. That 6E branding for the Pro could indicate it will support Wi-Fi 6E, meaning it can take advantage of 6GHz spectrum for faster connections.
-<a href='https://www.theverge.com/2022/1/14/22884043/eero-pro-6e-6-plus-fcc-filings-wi-fi-support'> Source <a/>
