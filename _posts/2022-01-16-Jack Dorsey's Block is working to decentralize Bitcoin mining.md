@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jmm_WzrqqL2ylc47FsXhLn8h2Rs=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70387360/1321753348.0.jpg' width='700px' /><br/>
-Block, the payment company formerly known as Square, is working on building an “open Bitcoin mining system,” its CEO Jack Dorsey has announced. In a thread, Block's general manager for hardware Thomas Templeton outlined the company's goals for the system, which is for it to be easily available, reliable, performant, and relatively power efficient compared to its hashrate.
-<a href='https://www.theverge.com/2022/1/14/22883500/jack-dorsey-block-bitcoin-mining-system-open-source-mainstream'> Source <a/>

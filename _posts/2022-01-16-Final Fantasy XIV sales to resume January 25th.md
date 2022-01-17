@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8AAQk3HyMD6KG5rt6G1cmYC1zD8=/0x0:1920x1080/1200x800/filters:focal(1052x227:1358x533)/cdn.vox-cdn.com/uploads/chorus_image/image/70387795/2022_01_12_16_44_38_Greenshot.0.jpg' width='700px' /><br/>
-Your case of Final Fantasy XIV FOMO is nearing its end. Last night, game director Naoki Yoshida wrote on the Final Fantasy XIV website that Square Enix will resume digital sales of the popular MMO on January 25th.
-<a href='https://www.theverge.com/2022/1/14/22883544/final-fantasy-14-date-digital-sales-server-expansion'> Source <a/>

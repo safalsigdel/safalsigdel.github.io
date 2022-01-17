@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DNo6JUD9w2SdsJOnxJjIJADcaNY=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70387322/VRG_ILL_4947_slack_direct_messaging.0.jpg' width='700px' /><br/>
-While Slack began as a workplace instant-messaging tool, over the last few years it has become popular as a way for anyone to keep in contact with a group of friends, colleagues, or family. It now even offers a way for groups to create in-the-moment “huddles,” in which two or more people can move from text to audio — if you're on a paid plan.
-<a href='https://www.theverge.com/22857495/slack-private-messages-make-calls-how-to'> Source <a/>

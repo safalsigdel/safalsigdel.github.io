@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7GNKEfBIEJYyqXQaXglxCioghEY=/0x0:2100x1330/1200x800/filters:focal(882x497:1218x833)/cdn.vox-cdn.com/uploads/chorus_image/image/70396773/samsung_galaxy_s8_ultra_tab.0.png' width='700px' /><br/>
+Samsung might be adding its first-ever “Ultra” model to its upcoming Galaxy Tab S8 lineup, which will also include a Tab S8 and S8 Plus, as rumored by WinFuture.
+<a href='https://www.theverge.com/2022/1/16/22886595/samsung-tablet-lineup-ultra-notch-rumor'> Source <a/>
