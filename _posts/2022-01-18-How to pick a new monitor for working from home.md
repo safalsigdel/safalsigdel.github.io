@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/WYxQoo2OTIgOA4QjjLA4OBIF7-A=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70399616/VRG_ILL_4947_How_to_pick_a_new_monitor.0.jpg' width='700px' /><br/>
 The shift to remote work has sent millions scrambling to improve their home office. There are many ways to do this, but the most important upgrade is the most obvious: the monitor.
+<a href='https://www.theverge.com/22877788/best-monitor-work-from-home-screen-choice-4k-qhd-refresh-rate-ultrawide'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/WYxQoo2OTIgOA4QjjLA4OBIF7-A=/0x0:3000x2000/1200x675/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70399616/VRG_ILL_4947_How_to_pick_a_new_monitor.0.jpg' width='700px' /><br/>
+The shift to remote work has sent millions scrambling to improve their home office. There are many ways to do this, but the most important upgrade is the most obvious: the monitor.
 <a href='https://www.theverge.com/22877788/best-monitor-work-from-home-screen-choice-4k-qhd-refresh-rate-ultrawide'> Source <a/>
