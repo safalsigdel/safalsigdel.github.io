@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/6niS3aRq-b15b5h3BasXYsBzUtM=/0x0:1450x900/1200x800/filters:focal(609x334:841x566)/cdn.vox-cdn.com/uploads/chorus_image/image/70402000/exynos.0.jpg' width='700px' /><br/>
 Samsung has announced the Exynos 2200, its new in-house mobile processor for smartphones. It's the first mobile system-on-a-chip to include a GPU with AMD's RDNA 2 graphics architecture, enabling features like hardware-accelerated ray tracing.
+<a href='https://www.theverge.com/2022/1/17/22888966/samsung-exynos-2200-soc-chip-announced-amd-gpu-rdna-2'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/6niS3aRq-b15b5h3BasXYsBzUtM=/0x0:1450x900/1200x800/filters:focal(609x334:841x566)/cdn.vox-cdn.com/uploads/chorus_image/image/70402000/exynos.0.jpg' width='700px' /><br/>
+Samsung has announced the Exynos 2200, its new in-house mobile processor for smartphones. It's the first mobile system-on-a-chip to include a GPU with AMD's RDNA 2 graphics architecture, enabling features like hardware-accelerated ray tracing.
 <a href='https://www.theverge.com/2022/1/17/22888966/samsung-exynos-2200-soc-chip-announced-amd-gpu-rdna-2'> Source <a/>
