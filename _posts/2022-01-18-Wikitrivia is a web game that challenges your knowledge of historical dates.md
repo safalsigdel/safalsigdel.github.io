@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
 If you're a history buff, or are looking for a new web game to play, Wikitrivia may be worth your time. The game's creator, Tom Watson, describes it on his site as “Wikidata as a trivia card game,” and the tweet that brought it to our attention called it an “online clone of the card game Timeline.”
+<a href='https://www.theverge.com/tldr/2022/1/17/22888461/wikitrivia-web-game-timeline-wikidata-events-fixing-data'> Source <a/><img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
+If you're a history buff, or are looking for a new web game to play, Wikitrivia may be worth your time. The game's creator, Tom Watson, describes it on his site as “Wikidata as a trivia card game,” and the tweet that brought it to our attention called it an “online clone of the card game Timeline.”
 <a href='https://www.theverge.com/tldr/2022/1/17/22888461/wikitrivia-web-game-timeline-wikidata-events-fixing-data'> Source <a/>
