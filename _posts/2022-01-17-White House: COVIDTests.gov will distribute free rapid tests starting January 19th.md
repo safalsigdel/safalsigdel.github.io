@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y96hdcQaZqEqoAYcXIxwPRYQVdY=/0x0:1864x1166/1200x800/filters:focal(783x434:1081x732)/cdn.vox-cdn.com/uploads/chorus_image/image/70391115/Screen_Shot_2022_01_14_at_11.41.43.0.png' width='700px' /><br/>
-The White House has announced that people will be able to order free COVID-19 tests from COVIDTests.gov starting on Wednesday, January 19th. This follows a promise that the government would be setting up a website to distribute 500 million tests, which President Joe Biden announced in December.
-<a href='https://www.theverge.com/2022/1/14/22884217/free-covid-19-test-biden-500-million-january-19-usps'> Source <a/>
