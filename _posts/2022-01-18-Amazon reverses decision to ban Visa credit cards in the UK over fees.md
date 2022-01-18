@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/83cp5rjQrm6w50083b1qK9RQJyU=/0x0:5000x3283/1200x800/filters:focal(2100x1242:2900x2042)/cdn.vox-cdn.com/uploads/chorus_image/image/70399287/1237281038.0.jpg' width='700px' /><br/>
 Amazon says it will continue to accept payment in the UK from Visa credit cards, reversing a decision to ban the cards that was announced last November and due to kick in this week on Wednesday, January 19th.
+<a href='https://www.theverge.com/2022/1/17/22887637/amazon-uk-visa-credit-card-ban-reversed-deal'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/83cp5rjQrm6w50083b1qK9RQJyU=/0x0:5000x3283/1200x800/filters:focal(2100x1242:2900x2042)/cdn.vox-cdn.com/uploads/chorus_image/image/70399287/1237281038.0.jpg' width='700px' /><br/>
+Amazon says it will continue to accept payment in the UK from Visa credit cards, reversing a decision to ban the cards that was announced last November and due to kick in this week on Wednesday, January 19th.
 <a href='https://www.theverge.com/2022/1/17/22887637/amazon-uk-visa-credit-card-ban-reversed-deal'> Source <a/>
