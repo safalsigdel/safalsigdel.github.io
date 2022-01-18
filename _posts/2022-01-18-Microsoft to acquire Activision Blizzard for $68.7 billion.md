@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8DOYriU2-EmhW5oVxU3EWo6kRFk=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70402798/header_jan18_1.0.jpg' width='700px' /><br/>
+Microsoft is acquiring Activision, the troubled publisher of Call of Duty, World of Warcraft, and Diablo. The deal will value Activision at $68.7 billion, far in excess of the $26 billion Microsoft paid to acquire LinkedIn in 2016. It's Microsoft's biggest push into gaming, and the company says it will be the “third-largest gaming company by revenue, behind Tencent and Sony” once the deal closes.
+<a href='https://www.theverge.com/2022/1/18/22889258/microsoft-activision-blizzard-xbox-acquisition-call-of-duty-overwatch'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xj5dqAJC4HirPrHgkblx68ltAyM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70392556/bfarsace_190903_3639_0007.0.jpg' width='700px' /><br/>
-With many people working from home than they used to, owning a good pair of noise-canceling headphones has become more appealing than ever. However, they can be expensive and difficult to shop for due to the range of available models, many of which cater to different lifestyles and priorities. Some are better suited for long-haul flights, while others are ideal for multitasking and marathon listening sessions.
-<a href='https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale'> Source <a/>

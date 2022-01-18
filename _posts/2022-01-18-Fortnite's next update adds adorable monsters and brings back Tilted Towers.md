@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qu6g5mEQnMeyad7Txr5IqdbEWQo=/0x0:1920x1080/1200x800/filters:focal(342x425:648x731)/cdn.vox-cdn.com/uploads/chorus_image/image/70402448/19BR_Klombos.0.jpg' width='700px' /><br/>
+The next big update for Fortnite brings back something old and adds something new. As fans have long expected, the snow on the battle royale island has slowly melted, revealing the return of Tilted Towers, an iconic urban area that dates back to Fortnite's first island.
+<a href='https://www.theverge.com/2022/1/18/22888226/fortnite-update-tilted-towers-monsters-kaws'> Source <a/>

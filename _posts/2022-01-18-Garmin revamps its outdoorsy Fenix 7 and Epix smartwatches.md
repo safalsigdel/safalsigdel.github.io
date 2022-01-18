@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1-RPY7D907LJ0008vz1k_dVgGoY=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70402552/47433_FENIX.0.jpg' width='700px' /><br/>
+Despite being leaked to hell and back, the Garmin Fenix 7 series was a no-show at CES 2022. That's because Garmin decided to wait until today to separately announce its revamped multisport GPS smartwatches. On top of an updated flagship Fenix 7 lineup, Garmin is also launching the Epix — a rugged outdoors smartwatch with an always-on color display.
+<a href='https://www.theverge.com/2022/1/18/22883556/garmin-fenix-7-epix-gps-smartwatches-outdoors-fitness'> Source <a/>
