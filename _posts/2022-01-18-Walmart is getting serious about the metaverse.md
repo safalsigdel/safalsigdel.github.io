@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/_t8s-55CLh_ykH7nlqH7GthCZzw=/0x0:4603x3069/1200x800/filters:focal(1934x1167:2670x1903)/cdn.vox-cdn.com/uploads/chorus_image/image/70397593/1183648613.0.jpg' width='700px' /><br/>
 Walmart appears to be getting ready for a leap into the metaverse. Recent trademark applications indicate the company is looking to establish its own NFTs and cryptocurrency, according to a report from CNBC.
-<a href='https://www.theverge.com/2022/1/16/22887011/walmart-metaverse-nft-cryptocurrency'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/_t8s-55CLh_ykH7nlqH7GthCZzw=/0x0:4603x3069/1200x800/filters:focal(1934x1167:2670x1903)/cdn.vox-cdn.com/uploads/chorus_image/image/70397593/1183648613.0.jpg' width='700px' /><br/>
-Walmart appears to be getting ready for a leap into the metaverse. Recent trademark applications indicate the company is looking to establish its own NFTs and cryptocurrency, according to a report from CNBC.
 <a href='https://www.theverge.com/2022/1/16/22887011/walmart-metaverse-nft-cryptocurrency'> Source <a/>

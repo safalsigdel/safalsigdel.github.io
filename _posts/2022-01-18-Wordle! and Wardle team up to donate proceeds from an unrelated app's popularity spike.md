@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/edJ0_peQI_x88XRM395ARXF6gdc=/0x0:4000x2668/1200x800/filters:focal(2030x1007:2670x1647)/cdn.vox-cdn.com/uploads/chorus_image/image/70396481/1237669516.0.jpg' width='700px' /><br/>
 Wordle is a free browser game, and a browser game only — it has no accompanying apps, something that some people (myself included, regrettably) might not realize during a time when nearly everything has an app.
-<a href='https://www.theverge.com/2022/1/16/22886523/wordle-wardle-app-donate-charity-popularity-spike'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/edJ0_peQI_x88XRM395ARXF6gdc=/0x0:4000x2668/1200x800/filters:focal(2030x1007:2670x1647)/cdn.vox-cdn.com/uploads/chorus_image/image/70396481/1237669516.0.jpg' width='700px' /><br/>
-Wordle is a free browser game, and a browser game only — it has no accompanying apps, something that some people (myself included, regrettably) might not realize during a time when nearly everything has an app.
 <a href='https://www.theverge.com/2022/1/16/22886523/wordle-wardle-app-donate-charity-popularity-spike'> Source <a/>
