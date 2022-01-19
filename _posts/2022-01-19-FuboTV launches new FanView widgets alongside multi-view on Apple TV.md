@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QpovDUurbhkGhuzq2X-wdclYzZw=/0x0:2148x1389/1200x800/filters:focal(903x524:1245x866)/cdn.vox-cdn.com/uploads/chorus_image/image/70407493/fuboTV_Multiview_FanView.Jan_2022.0.png' width='700px' /><br/>
+Live streaming app FuboTV is bringing its FanView widgets to Apple TV users, allowing them to view stats alongside single or multi-view match streams.
+<a href='https://www.theverge.com/2022/1/19/22890444/fubotv-fanview-widgets-multiview-apple-tv'> Source <a/>
