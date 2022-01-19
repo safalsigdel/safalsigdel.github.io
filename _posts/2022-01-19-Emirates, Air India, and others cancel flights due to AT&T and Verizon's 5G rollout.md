@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M5zU9CEPioNW8zwspIo3WMVKEQE=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70405819/1237645376.0.jpg' width='700px' /><br/>
+Emirates, Air India, ANA, and Japan Airlines have all announced they're canceling some flights to the US due to this week's rollout of C-band 5G over concerns it could potentially interfere with some instruments, particularly on Boeing 777 aircraft. This comes as cell carriers, federal agencies, airlines, and airplane manufacturers struggle to reach an agreement on policies regarding how the rollout should be handled.
+<a href='https://www.theverge.com/2022/1/18/22890080/5g-flight-cancel-att-verizon-c-band-emirates-air-india-ana-japan'> Source <a/>
