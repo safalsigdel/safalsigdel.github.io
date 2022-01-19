@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rHy1jifjOdf5vNZkr7v6XyN791I=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70408166/1206664154.0.jpg' width='700px' /><br/>
+The US government will make 400 million N95 face masks available for free at pharmacies and health centers, sourcing them from the Strategic National Stockpile, the White House tweeted on Wednesday.
+<a href='https://www.theverge.com/2022/1/19/22891165/white-house-free-n95-masks-pharmacies-coronavirus-covid'> Source <a/>
