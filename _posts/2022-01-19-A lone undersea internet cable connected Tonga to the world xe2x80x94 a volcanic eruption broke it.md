@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6-RzsAlaYoFBoV5LT3XmS6UdWgE=/316x297:8375x5512/1200x800/filters:focal(4487x2719:5879x4111)/cdn.vox-cdn.com/uploads/chorus_image/image/70407481/1237820761.0.jpg' width='700px' /><br/>
+The effects of a colossal volcanic eruption in the Pacific archipelago of Tonga are still being calculated, but one consequence is clear: Tonga has been cut off from the internet, after the lone undersea cable that connects the country to the rest of the web was damaged during the eruption.
+<a href='https://www.theverge.com/22891031/tonga-volcano-eruption-broke-undersea-internet-cable-repair'> Source <a/>
