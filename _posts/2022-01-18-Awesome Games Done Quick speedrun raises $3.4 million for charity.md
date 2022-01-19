@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/si0vqNaxu25Dz5FaUIdvdpHXXpA=/0x0:2880x1800/1200x800/filters:focal(1210x670:1670x1130)/cdn.vox-cdn.com/uploads/chorus_image/image/70399972/awesome_games_done_quick_charity_stream.0.png' width='700px' /><br/>
-Games Done Quick has raised $3.4 million for the Prevent Cancer Foundation at its annual video game speedrunning event, Awesome Games Done Quick (AGDQ), the most money ever raised at a single Games Done Quick event (via IGN).
-<a href='https://www.theverge.com/2022/1/17/22887698/awesome-games-done-quick-speedrunning-stream-record-charity-donation'> Source <a/>

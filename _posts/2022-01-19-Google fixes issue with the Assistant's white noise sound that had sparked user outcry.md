@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R0YUmXnEF95qEOls0ZsZZz0Aq-g=/0x0:4990x3327/1200x800/filters:focal(2096x1265:2894x2063)/cdn.vox-cdn.com/uploads/chorus_image/image/70401324/dseifert-nest-audio-4225-9.0.0.jpeg' width='700px' /><br/>
+Google offers many ambient sounds from the Google Assistant, including one for white noise that might help block out noise to make it easier to sleep or study. The company seemingly changed its white noise sound last week, and many expressed frustration with the update, as reported by 9to5Google. But Google tells us it has fixed what it describes as an issue, and the sound should work like it used to.
+<a href='https://www.theverge.com/2022/1/17/22888423/google-assistant-white-noise-sound-changed'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dL3ywlAEX0MiWQjZbBOXVbeqTZs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70397171/acastro_200207_3900_Safari_0001.0.0.jpg' width='700px' /><br/>
-A bug in Safari 15 can leak your browsing activity, and can also reveal some of the personal information attached to your Google account, according to findings from FingerprintJS, a browser fingerprinting and fraud detection service (via 9to5Mac). The vulnerability stems from an issue with Apple's implementation of IndexedDB, an application programming interface (API) that stores data on your browser.
-<a href='https://www.theverge.com/2022/1/16/22886809/safari-15-bug-leak-browsing-history-personal-information'> Source <a/>

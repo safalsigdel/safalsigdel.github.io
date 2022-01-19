@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X4DnXZbYW6hZ2WsdS3xrZTJEZlE=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70403768/cwelch_211209_4929_0011.0.jpg' width='700px' /><br/>
+Every year after CES, there can be a new pile of buzzwords and technology shorthand that can go up and over the head of many consumers — even when those acronyms often describe meaningful advancements that are worth knowing about.
+<a href='https://www.theverge.com/22884014/tv-features-hardware-screens-hdmi-hdr-vrr-oled-mini-led'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Y96hdcQaZqEqoAYcXIxwPRYQVdY=/0x0:1864x1166/1200x800/filters:focal(783x434:1081x732)/cdn.vox-cdn.com/uploads/chorus_image/image/70391115/Screen_Shot_2022_01_14_at_11.41.43.0.png' width='700px' /><br/>
+Update January 18th, 12:15PM ET: The site and ordering page are live now, one day earlier than expected.
+<a href='https://www.theverge.com/2022/1/14/22884217/free-covid-19-test-biden-500-million-january-19-usps'> Source <a/>

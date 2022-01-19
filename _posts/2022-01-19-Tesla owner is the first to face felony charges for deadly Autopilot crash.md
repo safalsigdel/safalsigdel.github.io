@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/43kbK25y15obURG5lZiGTwABmcA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70405073/tesla_model_y_3543.0.jpg' width='700px' /><br/>
+California prosecutors filed two felony charges against the owner of Tesla Model S for a deadly crash in 2019 that involved the vehicle's Autopilot system, marking the first time that a Tesla owner has been criminally charged in the US in a case involving the automaker's advanced driver assist system. The charges were first reported by the AP.
+<a href='https://www.theverge.com/2022/1/18/22889768/tesla-autopilot-criminal-charges-la-fatal-crash'> Source <a/>

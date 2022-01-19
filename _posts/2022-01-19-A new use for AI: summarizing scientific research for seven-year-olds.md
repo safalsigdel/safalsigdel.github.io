@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Nc-bsESpI0OgQjp2uwA_edHEqPg=/102x0:778x455/1200x675/filters:focal(365x197:503x335)/cdn.vox-cdn.com/uploads/chorus_image/image/70403553/tldr_paper_hero.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/JTngBOIw_YkVTsSplMWje-A7Pv4=/102x0:778x455/1200x675/filters:focal(374x130:512x268)/cdn.vox-cdn.com/uploads/chorus_image/image/70403553/tldr_paper_hero.0.jpg' width='700px' /><br/>
 Academic writing often has a reputation for being hard to follow, but what if you could use machine learning to summarize arguments in scientific papers so that even a seven-year-old could understand them? That's the idea behind tl;dr papers — a project that leverages recent advances in AI language processing to simplify science.
 <a href='https://www.theverge.com/2022/1/18/22889180/ai-language-summary-scientific-research-tldr-papers'> Source <a/>

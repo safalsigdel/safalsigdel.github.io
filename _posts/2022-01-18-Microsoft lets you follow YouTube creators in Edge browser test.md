@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9z4MMmWr0zP6ZG0g-vjfDMW9n-k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70399207/acastro_200207_3900_Edge_0001.0.0.jpg' width='700px' /><br/>
-Microsoft has started testing some deeper YouTube integration in its Edge browser. The latest Canary developer builds of Edge include a new “followable web” feature that lets you easily follow your favorite content creators on YouTube.
-<a href='https://www.theverge.com/2022/1/17/22887626/microsoft-edge-youtube-intergration-following-feature-canary-test'> Source <a/>
