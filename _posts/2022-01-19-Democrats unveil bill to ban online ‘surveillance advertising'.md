@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/NgE80fDPw7DZwTHeQPTIRahaH5k=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70405143/1212981411.0.jpg' width='700px' /><br/>
 On Tuesday, Democrats introduced a new bill that would ban nearly all use of digital advertising targeting on ad markets hosted by platforms like Facebook, Google, and other data brokers.
+<a href='https://www.theverge.com/2022/1/18/22889903/democrats-targeted-advertising-facebook-google-surveillance'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/NgE80fDPw7DZwTHeQPTIRahaH5k=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70405143/1212981411.0.jpg' width='700px' /><br/>
+On Tuesday, Democrats introduced a new bill that would ban nearly all use of digital advertising targeting on ad markets hosted by platforms like Facebook, Google, and other data brokers.
 <a href='https://www.theverge.com/2022/1/18/22889903/democrats-targeted-advertising-facebook-google-surveillance'> Source <a/>

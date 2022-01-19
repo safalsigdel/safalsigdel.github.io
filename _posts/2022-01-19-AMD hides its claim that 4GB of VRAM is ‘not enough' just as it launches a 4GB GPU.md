@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ILHqPn9bXCHviFvxzbisBQoM09s=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/70407619/amd4gbofvramoops.0.jpg' width='700px' /><br/>
+AMD claimed back in 2020 that 4GB of VRAM was “insufficient” for modern PC games and could result in error messages, warning limits, lower framerates, and even gameplay stutter or pop-in issues. Today, AMD is launching the $199 RX 6500 XT with... 4GB of VRAM, and the blog post featuring AMD's original claims has mysteriously disappeared.
+<a href='https://www.theverge.com/2022/1/19/22891092/amd-4g-vram-claim-gpu-launch-rx-6500-xt'> Source <a/>

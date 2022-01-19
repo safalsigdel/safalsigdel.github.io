@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ukUxQ8tcgdAgSp5tRQ8oQJwRm7E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70404261/akrales_190206_3175_0004.0.jpg' width='700px' /><br/>
-Coinbase is partnering with Mastercard to allow card payments on its upcoming NFT marketplace. This means you'll be able to directly purchase an NFT with fiat currency (also known as a government-issued currency, such as the USD) using your Mastercard credit or debit card, all without having to buy cryptocurrency first.
-<a href='https://www.theverge.com/2022/1/18/22889359/coinbase-mastercard-nft-marketplace-payments'> Source <a/>
