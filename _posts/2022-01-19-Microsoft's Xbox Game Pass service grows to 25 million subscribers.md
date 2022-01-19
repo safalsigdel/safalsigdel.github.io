@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HRmgC7TLtdwh_O1gqyBKVnj90EQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70403393/acastro_190530_1777_xbox_0002.0.0.jpg' width='700px' /><br/>
-Microsoft's Xbox Game Pass service now has 25 million subscribers. That's up from the 18 million Microsoft previously reported in January last year. The Xbox Game Pass all-you-can-eat catalog of downloadable games — or the “Netflix for video games” as it's often described — continues to attract new subscribers as Microsoft looks to extend the service.
-<a href='https://www.theverge.com/2022/1/18/22406059/xbox-game-pass-subscribers-25-million-microsoft-activision'> Source <a/>
