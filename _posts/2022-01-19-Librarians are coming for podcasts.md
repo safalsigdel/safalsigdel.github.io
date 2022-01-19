@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gjCyFfC1DNnGgHcJEoZBvtyTSLo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70404469/acastro_211024_1777_amazonMusic_0001.0.jpg' width='700px' /><br/>
-Well, hi, everyone! You've got Aria. Real excited to be here with y'all.
-<a href='https://www.theverge.com/22889572/podcast-librarians-podcash-sponsorship-fund-bongino-youtube-suspension'> Source <a/>

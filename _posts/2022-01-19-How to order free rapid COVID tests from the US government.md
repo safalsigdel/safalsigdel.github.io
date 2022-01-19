@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JYun9gF3Aykhlhj3215Ot7E6xU8=/0x0:2596x1524/1200x800/filters:focal(1091x555:1505x969)/cdn.vox-cdn.com/uploads/chorus_image/image/70404906/Screen_Shot_2022_01_18_at_1.39.58_PM.0.png' width='700px' /><br/>
-With the rise of the Omicron variant, we've been urged to use COVID-19 rapid antigen tests to make sure that we don't spread the virus to friends and family. However, it's been very difficult to follow that suggestion, what with long lines at COVID testing stations and high prices for home kits — when you can find them.
-<a href='https://www.theverge.com/22889745/rapid-covid-tests-free-website-how-to'> Source <a/>

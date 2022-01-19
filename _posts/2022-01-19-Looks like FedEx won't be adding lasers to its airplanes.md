@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1H5xP5PUL8MPvy_fMzs4hZUpL8A=/0x0:4000x2299/1200x800/filters:focal(1571x620:2211x1260)/cdn.vox-cdn.com/uploads/chorus_image/image/70406329/1230688732.0.jpg' width='700px' /><br/>
-It looks like the FAA may have made a whoopsie. Remember when the US aviation authority suggested that FedEx might possibly potentially maybe be able to stick a laser onto its cargo planes to knock missiles out of the sky? Yeah, no: “further internal study is necessary,” the FAA wrote on Thursday (via Reuters), adding that the proposal “is not moving forward at this time.”
-<a href='https://www.theverge.com/2022/1/18/22890463/fedex-laser-missile-defense-infrared-airplane-faa'> Source <a/>

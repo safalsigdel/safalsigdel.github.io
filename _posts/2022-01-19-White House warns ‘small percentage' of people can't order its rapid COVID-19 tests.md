@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bXF_b8ZKUpbI0lyybvnNHfvdkgA=/0x0:5418x3612/1200x800/filters:focal(2276x1373:3142x2239)/cdn.vox-cdn.com/uploads/chorus_image/image/70405328/1364441499.0.jpg' width='700px' /><br/>
-Nearly a month after President Joe Biden first announced that Americans would be able to order rapid at-home COVID-19 tests for free from the government, the administration's website finally went live on Tuesday. But hours after the site's launch, users struggled to place orders to homes or apartment buildings where other tenants may have already placed an order.
-<a href='https://www.theverge.com/2022/1/18/22890031/white-house-rapid-covid-tests-apartment-bug-usps'> Source <a/>
