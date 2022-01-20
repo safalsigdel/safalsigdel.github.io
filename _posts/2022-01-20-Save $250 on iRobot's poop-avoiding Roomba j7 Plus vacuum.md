@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ohPTGie0vwq08TgPTtTlbqD7RKI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70411999/vtuohy_211029_4963_0014.0.jpg' width='700px' /><br/>
+Let's get down to the dirty business of things and keep it professional. Here's a deal on a robot vacuum that detects doo-doo.
+<a href='https://www.theverge.com/good-deals/2022/1/20/22891218/irobot-roomba-j7-plus-vacuum-jbl-charge-5-logitech-keyboard-nanoleaf-deal-sale'> Source <a/>
