@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0AoGZFTeDh4hai0jOIddWkxytIU=/0x0:1179x786/1200x800/filters:focal(496x299:684x487)/cdn.vox-cdn.com/uploads/chorus_image/image/70411083/Canon_EOS_R5_C_with_BG_R10_battery_grip.0.jpeg' width='700px' /><br/>
-Canon has announced a new camera that brings cinema-grade video capabilities to a conventional full-frame mirrorless body. The EOS R5C looks a lot like the EOS R5, which in turn looked a lot like a Canon DSLR, but it's much bulkier in the back. This is to accommodate an active cooling system so it can shoot for long stretches without overheating.
-<a href='https://www.theverge.com/2022/1/20/22892766/canon-eos-r5c-announced-specs-release-date-cost'> Source <a/>

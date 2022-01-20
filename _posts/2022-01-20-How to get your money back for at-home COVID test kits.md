@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7Vv8XHRPga0FBr6saEUjIrUZsQs=/0x0:456x237/1200x800/filters:focal(192x83:264x155)/cdn.vox-cdn.com/uploads/chorus_image/image/70411786/home_test_hero.2099b1df64ebd24bb68a.0.jpg' width='700px' /><br/>
-While it's nice that the government will be sending us four free at-home rapid COVID test kits a month, that's not going to be enough for many households. However, if you've got private insurance through an employer or a group, you do have an alternative: you can get a reimbursement for — or pick up free at approved retailers — up to eight FDA-authorized at-home COVID tests per person per month.
-<a href='https://www.theverge.com/22891974/covid-test-kits-purchase-reimbursement-insurance'> Source <a/>

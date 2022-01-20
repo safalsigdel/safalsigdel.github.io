@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KFy_-Swn4pGtXWziYYbTWV4Ka5A=/0x0:1396x1000/1200x800/filters:focal(121x409:343x631)/cdn.vox-cdn.com/uploads/chorus_image/image/70410342/disney_plus.0.png' width='700px' /><br/>
-Disney has named Joe Earley, a former EVP of its tentpole streaming service Disney Plus, to the position of president of Hulu.
-<a href='https://www.theverge.com/2022/1/19/22892271/disney-plus-hulu-reorganization-joe-earley-michael-paull-rebecca-campbell'> Source <a/>
