@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/H3QfJ_zCDgwuATaGlV3Uae6fCsA=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/70411204/sonylogo.0.jpg' width='700px' /><br/>
+Sony has responded to Microsoft's blockbuster proposal to buy Activision Blizzard with a comment on what that might mean for the future games like Call of Duty on PlayStation consoles. “We expect that Microsoft will abide by contractual agreements and continue to ensure Activision games are multiplatform,” a spokesperson tells The Wall Street Journal.
+<a href='https://www.theverge.com/2022/1/20/22892860/sony-microsoft-activision-blizzard-acquisition-comment-response'> Source <a/>

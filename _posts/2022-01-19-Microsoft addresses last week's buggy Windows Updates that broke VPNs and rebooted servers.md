@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lJ_ISDu8UyepW7CK77u_t41q2SE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70405578/acastro_180507_1777_microsoft_0002.0.jpg' width='700px' /><br/>
-Microsoft released an out-of-band (OOB) update yesterday to fix some Windows issues caused by last week's monthly patching cycle on Patch Tuesday.
-<a href='https://www.theverge.com/2022/1/18/22889670/microsoft-windows-server-update-vpn-refs-domain-patch'> Source <a/>

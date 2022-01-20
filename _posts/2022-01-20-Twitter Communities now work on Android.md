@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2hJnLqyTjMwJery7fNtSxhfLFTc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70411370/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Twitter is rolling out its Communities feature, a rival to Facebook Groups and Reddit, to Android users worldwide. Since its launch in September, Twitter Communities has been limited to iOS or the web, meaning Android users could only join and participate in communities through a browser and not the native Twitter app.
+<a href='https://www.theverge.com/2022/1/20/22892904/twitter-communities-android-release'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jqzpasOpM9gtyE1zgUvgdtKVLoY=/0x0:456x237/1200x800/filters:focal(192x83:264x155)/cdn.vox-cdn.com/uploads/chorus_image/image/70405278/home_test_hero.2099b1df64ebd24bb68a.0.jpg' width='700px' /><br/>
-The US government's site to claim free COVID tests, which has started accepting orders a day before it was scheduled to, is drawing in a lot of visitors — more than every other government page combined, according to the government's own analytics site.
-<a href='https://www.theverge.com/2022/1/18/22889769/us-government-free-covid-test-website-massive-page-viewcount'> Source <a/>

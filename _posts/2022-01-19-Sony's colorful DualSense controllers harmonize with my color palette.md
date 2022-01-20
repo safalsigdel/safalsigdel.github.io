@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i64C4st0uzYpLLQLPkMANcU-II8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70407888/cfaulkner_141231_4974_0004.0.jpg' width='700px' /><br/>
-I'm not usually the kind of person who's easily persuaded by new colorways of controllers that I already own. But Sony's new DualSense colors are a little different — or, they're not, actually. I just found a reason to care about them. The three vibrant, wintery-hued controllers are my colors.
-<a href='https://www.theverge.com/22878067/sony-dualsense-controller-color-purple-blue-pink-hands-on'> Source <a/>

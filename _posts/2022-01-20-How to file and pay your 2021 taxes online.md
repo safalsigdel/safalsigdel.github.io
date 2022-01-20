@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZHbY2UxyLf-Wfzu-0nubG0FMP4U=/0x0:1100x737/1200x800/filters:focal(462x281:638x457)/cdn.vox-cdn.com/uploads/chorus_image/image/70408964/irs.0.jpg' width='700px' /><br/>
+In 2020, the COVID-19 pandemic took everyone, including the IRS, by surprise, and the filing deadline for federal tax payments was moved from the usual mid-April date to July 15th. In 2021, the due date was pushed back to May 17th, 2021. Right now, however, it looks like we'll be back to the traditional mid-April due dates.
+<a href='https://www.theverge.com/22889295/taxes-irs-file-pay-online-2021-how-to'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MpzZ_evILUPDpY-cYvNVQRRCzKc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70407861/snapChatPattern_BW.0.jpg' width='700px' /><br/>
-Snapchat is implementing a new safety feature that limits the friend suggestions teenagers see in the app (via 9to5Mac). Kids aged 13 to 17 years old will now only receive suggestions that have “a certain number of friends in common with that person” through Snapchat's friend suggestion feature, called Quick Add.
-<a href='https://www.theverge.com/2022/1/19/22891104/snapchat-friend-suggestion-limit-teenagers-safety-parental-controls'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sFGdCSHrAtEcvYeGRgOFYJ9bvBE=/0x0:5023x3576/1200x800/filters:focal(2111x1387:2913x2189)/cdn.vox-cdn.com/uploads/chorus_image/image/70405969/1237547519.0.jpg' width='700px' /><br/>
-As the Senate Judiciary Committee inches towards passing legislation that could loosen Big Tech's grasp on consumers, Big Tech is expectedly outraged. Both Apple and Google have written letters publicly opposing new pieces of legislation, while a coalition of smaller tech companies has voiced their support.
-<a href='https://www.theverge.com/2022/1/18/22890100/antitrust-bill-apple-google-big-tech-senate'> Source <a/>
