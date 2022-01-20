@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/EBYfzQtcg7L2_oBPr30dhoIDFGE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70411424/acastro_211101_1777_meta_0004.0.jpg' width='700px' /><br/>
 Social media conglomerate Meta is exploring plans to let users create, showcase, and sell NFTs on Facebook and Instagram, according to a report from The Financial Times.
-<a href='https://www.theverge.com/2022/1/20/22892917/meta-facebook-instagram-plans-make-show-case-sell-nfts'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/EBYfzQtcg7L2_oBPr30dhoIDFGE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70411424/acastro_211101_1777_meta_0004.0.jpg' width='700px' /><br/>
-Social media conglomerate Meta is exploring plans to let users create, showcase, and sell NFTs on Facebook and Instagram, according to a report from The Financial Times.
 <a href='https://www.theverge.com/2022/1/20/22892917/meta-facebook-instagram-plans-make-show-case-sell-nfts'> Source <a/>

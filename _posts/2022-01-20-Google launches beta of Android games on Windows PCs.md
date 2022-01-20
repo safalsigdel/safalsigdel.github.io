@@ -1,5 +1,3 @@
 <img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
 Google is launching a limited beta of its app to bring Android games to Windows PCs. Google Play Games will be available in beta in Hong Kong, South Korea, and Taiwan today, allowing Windows PC owners to play popular Android games like Mobile Legends, Summoners War, State of Survival, and Three Kingdoms Tactics.
-<a href='https://www.theverge.com/2022/1/19/22891046/google-play-games-android-games-windows-pc-beta-launch'> Source <a/><img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Google is launching a limited beta of its app to bring Android games to Windows PCs. Google Play Games will be available in beta in Hong Kong, South Korea, and Taiwan today, allowing Windows PC owners to play popular Android games like Mobile Legends, Summoners War, State of Survival, and Three Kingdoms Tactics.
 <a href='https://www.theverge.com/2022/1/19/22891046/google-play-games-android-games-windows-pc-beta-launch'> Source <a/>

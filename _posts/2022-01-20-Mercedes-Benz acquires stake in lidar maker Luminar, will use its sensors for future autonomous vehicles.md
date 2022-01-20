@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/-T50csazDKUvQVwAbC44_DPuH30=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70411659/VRG05AH_210614_4634_006.0.jpg' width='700px' /><br/>
 Mercedes-Benz announced it will integrate Luminar's lidar sensors into future production vehicles to enable autonomous driving capabilities.
-<a href='https://www.theverge.com/2022/1/20/22891314/mercedes-benz-luminar-equity-stake-lidar-autonomous-vehicles'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/-T50csazDKUvQVwAbC44_DPuH30=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70411659/VRG05AH_210614_4634_006.0.jpg' width='700px' /><br/>
-Mercedes-Benz announced it will integrate Luminar's lidar sensors into future production vehicles to enable autonomous driving capabilities.
 <a href='https://www.theverge.com/2022/1/20/22891314/mercedes-benz-luminar-equity-stake-lidar-autonomous-vehicles'> Source <a/>
