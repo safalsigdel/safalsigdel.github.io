@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Lp8HaFRWE05E5--exK8mZmjF0E4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70409598/akrales_200904_4160_0265.0.0.jpg' width='700px' /><br/>
+Meta is adding a new feature to its Quest virtual reality headsets that lets you pinch your fingers to access the Quick Action menu, according to a blog post published Wednesday. The Quick Action menu functions similarly to the Control Center on iOS, so this new feature should give you an easier way to access some top-level settings.
+<a href='https://www.theverge.com/2022/1/19/22891825/meta-quest-update-v37-quick-action-pinch-link-sharing-apple-magic-keyboard'> Source <a/>

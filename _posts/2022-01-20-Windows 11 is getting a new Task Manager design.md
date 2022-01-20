@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vYiFaY0KmtUK00DfGSKSURn0LJQ=/0x0:1530x920/1200x800/filters:focal(643x338:887x582)/cdn.vox-cdn.com/uploads/chorus_image/image/70411263/unknown.0.png' width='700px' /><br/>
+Microsoft is getting ready to overhaul the Task Manager in Windows 11. Like the rest of the operating system, the Task Manager is getting a new design that matches Microsoft's new Fluent Design language. It seems Microsoft hid the new design in the bowels of recent Windows 11 builds, but engineering student Gustave Monce, who previously got Windows 11 running on a phone, uncovered the work-in-progress and shared it on Discord this week.
+<a href='https://www.theverge.com/2022/1/20/22892879/microsoft-windows-11-new-task-manager-design'> Source <a/>

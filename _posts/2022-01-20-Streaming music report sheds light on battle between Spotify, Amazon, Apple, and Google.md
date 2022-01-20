@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NnqxuoYqj6aQLJ1tqHU6vh61N0k=/0x0:1600x1066/1200x800/filters:focal(771x485:1027x741)/cdn.vox-cdn.com/uploads/chorus_image/image/70411566/music_streaming_market_share.0.jpg' width='700px' /><br/>
+Spotify was the largest music streaming service in the world as of the second quarter of 2021 with a market share of 31 percent, with Apple Music in second place at 15 percent, and Amazon Music and Tencent Music each tied at third with 13 percent apiece. That's according to a report from Midia Research, a media and entertainment-focused research and analysis agency.
+<a href='https://www.theverge.com/2022/1/20/22892939/music-streaming-services-market-share-q2-2021-spotify-apple-amazon-tencent-youtube'> Source <a/>
