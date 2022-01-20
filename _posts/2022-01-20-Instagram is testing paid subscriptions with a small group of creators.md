@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HBRd8vJxYjREHC3mHGb2HmpDbnw=/0x0:1024x768/1200x800/filters:focal(431x303:593x465)/cdn.vox-cdn.com/uploads/chorus_image/image/70409100/FJfCrvxVQAQkLQv.0.jpeg' width='700px' /><br/>
-US Instagram users will soon be able to subscribe to a small number of creators and influencers to access exclusive content and features. In a blog post, the company says it's launching a test of subscriptions today, with more creators being added in the coming weeks.
-<a href='https://www.theverge.com/2022/1/19/22891722/instagram-paid-subscriptions-test'> Source <a/>
