@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3LRCpcX3FLvuPkrpaisZVn8Zrmo=/0x0:1200x675/1200x800/filters:focal(504x242:696x434)/cdn.vox-cdn.com/uploads/chorus_image/image/70410504/FJe_bFrVUAEqToY__1_.0.jpeg' width='700px' /><br/>
-Panic, the maker of the quirky Playdate handheld, has released a public beta of its Playdate Pulp in-browser game builder. The company describes it as “a friendly tool for making tiny but visually and narratively rich games for Playdate,” in its developer documentation.
-<a href='https://www.theverge.com/2022/1/19/22892269/panic-playdate-pulp-in-browser-game-builder-available-now-public-beta'> Source <a/>

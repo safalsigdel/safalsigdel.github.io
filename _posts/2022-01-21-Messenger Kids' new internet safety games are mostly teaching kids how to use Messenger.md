@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/da96BUKnGBwjwghjEnKTPf13Zqs=/0x0:5000x3750/1200x800/filters:focal(2100x1475:2900x2275)/cdn.vox-cdn.com/uploads/chorus_image/image/70412324/1237277727.0.jpg' width='700px' /><br/>
+Facebook parent company Meta has launched new activities on its Messenger Kids platform aimed at teaching internet etiquette to children. According to a blog post by Erik Michael Weitzman, director of product management at Messenger Kids, the new gamified activities will “help kids learn how to use the internet safely and practice making healthy decisions online.”
+<a href='https://www.theverge.com/2022/1/20/22893059/messenger-new-kids-internet-safety-games-facebook-meta'> Source <a/>

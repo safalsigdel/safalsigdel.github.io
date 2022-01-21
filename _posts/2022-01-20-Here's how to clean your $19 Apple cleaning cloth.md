@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Here's the scenario: you managed to get your hands on Apple's hottest product, its $19 polishing cloth meant for cleaning nano-texture screens and other Apple devices. But oh no! Instead of hanging it up with the rest of your priceless artifacts, you accidentally used it to actually clean something, and now it's dirty. Thankfully, Apple has bestowed us with a guide on how to make our cloth good as new, and 9to5Mac has brought those instructions to our attention.
-<a href='https://www.theverge.com/tldr/2022/1/19/22892259/how-to-clean-apple-polishing-cloth-official-instructions-and-also-sarcasm'> Source <a/>

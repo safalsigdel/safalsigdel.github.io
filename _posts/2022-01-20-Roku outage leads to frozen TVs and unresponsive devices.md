@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HxSVqWJNWYmSbTn3XATivb_fleg=/0x0:2040x1360/1200x800/filters:focal(654x540:980x866)/cdn.vox-cdn.com/uploads/chorus_image/image/70410748/DSCF3624_Edited.0.jpg' width='700px' /><br/>
-Roku experienced a significant service disruption on Wednesday evening, which resulted in some of the company's streaming devices and even Roku TVs getting stuck on the loading screen or going through a reboot loop and becoming effectively useless. Roku TV sets from TCL, Hisense, and other manufacturers were affected.
-<a href='https://www.theverge.com/2022/1/19/22892590/roku-service-outage-frozen-tv-streaming-sticks'> Source <a/>

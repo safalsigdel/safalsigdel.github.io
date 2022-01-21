@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/i9XJ331zScAhaC3afBjLZ2AAYi0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70413311/acastro_20200818_1777_epicApple_0002.0.0.jpg' width='700px' /><br/>
+Epic Games has filed its opening brief to the Ninth Circuit Court of Appeals, seeking to overturn the previous ruling that Apple's control over the iOS App Store does not qualify as a monopoly. The company first gave notice of it appeal in September, but Thursday's filing is the first time it has laid out its argument at length.
+<a href='https://www.theverge.com/2022/1/20/22893546/epic-apple-fortnite-appeal-app-store-restrictions'> Source <a/>

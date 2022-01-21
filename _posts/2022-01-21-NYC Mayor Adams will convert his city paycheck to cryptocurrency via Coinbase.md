@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/__1K39NTjTbtpkOg4N8mDlC982M=/0x0:5289x3502/1200x800/filters:focal(2089x576:2935x1422)/cdn.vox-cdn.com/uploads/chorus_image/image/70412594/1365216853.0.jpg' width='700px' /><br/>
+Following through on a plan he announced before he took office, New York City Mayor Eric Adams said Thursday that his first paycheck, which arrives on Friday, will be converted from US dollars into cryptocurrency. The transaction will take place on Coinbase, the largest cryptocurrency exchange in the US, and will convert Adams' pay into Bitcoin and Ethereum.
+<a href='https://www.theverge.com/2022/1/20/22893275/nyc-mayor-adams-convert-paycheck-cryptocurrency-coinbase-bitcoin-ethereum'> Source <a/>

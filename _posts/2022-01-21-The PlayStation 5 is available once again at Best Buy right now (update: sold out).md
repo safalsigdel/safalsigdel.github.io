@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w7-8XUWYn0eZM0THrTChWqzTSAU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70413159/vpavic_4278_20201030_0247.0.jpg' width='700px' /><br/>
+Update January 20th, 3:29PM ET: Best Buy has sold out of its stock of PlayStation 5 consoles for the day. We hope that you scored one. But if not, we'll try to help you get one next time.
+<a href='https://www.theverge.com/2022/1/20/22876424/sony-playstation-5-consoles-restock-best-buy-sale-availability-check'> Source <a/>

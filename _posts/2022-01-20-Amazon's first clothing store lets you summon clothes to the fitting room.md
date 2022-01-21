@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7JG0UDBdjaZaJDbG7mKg2gVDpJU=/0x0:951x634/1200x0/filters:focal(0x0:951x634):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23181750/Screen_Shot_2022_01_20_at_11.25.18_AM.jpg' width='700px' /><br/>
-Amazon Style is a new kind of physical store from the online shopping giant that will focus on clothing, footwear, and other fashion accessories, the company announced today. It's due to open at The Americana at Brand shopping mall in Los Angeles later this year, where it will be Amazon's “first-ever physical apparel store.”
-<a href='https://www.theverge.com/2022/1/20/22892880/amazon-style-fashion-apperal-retail-los-angeles-fitting-room'> Source <a/>
