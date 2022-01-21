@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/J6FOjuiqw7bpoZw36ejErrC88ck=/0x0:1080x700/1200x800/filters:focal(454x264:626x436)/cdn.vox-cdn.com/uploads/chorus_image/image/70414133/s22U.0.jpg' width='700px' /><br/>
 For the launch of Samsung's next flagship smartphones — the Galaxy S22, S22 Plus, and S22 Ultra, we think — the Korean electronics giant will once again let you signal your intent to buy its phones before they're even announced, much less go on sale.
-<a href='https://www.theverge.com/2022/1/20/22893756/samsung-galaxy-s22-2022-preorders'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/J6FOjuiqw7bpoZw36ejErrC88ck=/0x0:1080x700/1200x800/filters:focal(454x264:626x436)/cdn.vox-cdn.com/uploads/chorus_image/image/70414133/s22U.0.jpg' width='700px' /><br/>
-For the launch of Samsung's next flagship smartphones — the Galaxy S22, S22 Plus, and S22 Ultra, we think — the Korean electronics giant will once again let you signal your intent to buy its phones before they're even announced, much less go on sale.
 <a href='https://www.theverge.com/2022/1/20/22893756/samsung-galaxy-s22-2022-preorders'> Source <a/>

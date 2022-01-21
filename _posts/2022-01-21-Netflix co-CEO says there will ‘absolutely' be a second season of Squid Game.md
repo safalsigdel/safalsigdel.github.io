@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/01YVF5VscBNzL1Hs3baPxXaWwMw=/0x200:3886x2773/1200x800/filters:focal(1115x736:1735x1356)/cdn.vox-cdn.com/uploads/chorus_image/image/70414393/SquidGame_Unit_101_1792.0.jpg' width='700px' /><br/>
 Hold on to your jumpsuits — Netflix's wildly popular Squid Game series has been confirmed by the company for a second season.
-<a href='https://www.theverge.com/2022/1/20/22894073/squid-game-season-two-netflix-ted-sarandos-confirmed'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/01YVF5VscBNzL1Hs3baPxXaWwMw=/0x200:3886x2773/1200x800/filters:focal(1115x736:1735x1356)/cdn.vox-cdn.com/uploads/chorus_image/image/70414393/SquidGame_Unit_101_1792.0.jpg' width='700px' /><br/>
-Hold on to your jumpsuits — Netflix's wildly popular Squid Game series has been confirmed by the company for a second season.
 <a href='https://www.theverge.com/2022/1/20/22894073/squid-game-season-two-netflix-ted-sarandos-confirmed'> Source <a/>
