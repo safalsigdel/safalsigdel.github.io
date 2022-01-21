@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2LpRLpqDvwX9ijKoF6X4whvcT8g=/0x290:1773x1575/1200x800/filters:focal(692x489:974x771)/cdn.vox-cdn.com/uploads/chorus_image/image/70414304/hLCgtLL.0.jpeg' width='700px' /><br/>
+Though Legendary's Godzilla vs. Kong made waves last summer by debuting on HBO Max and quickly becoming one of the platform's top performing features, the next time we see the titanic monster and his fellow kaiju, they'll be calling new streamer home: Apple Plus.
+<a href='https://www.theverge.com/22893967/apple-tv-plus-godzilla-titans-monsterverse'> Source <a/>
