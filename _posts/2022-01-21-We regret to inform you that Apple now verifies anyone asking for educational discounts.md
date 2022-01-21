@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PJJ3wEdiTMrhE7rwGJhX-U2V4xU=/0x0:1768x1179/1200x800/filters:focal(743x449:1025x731)/cdn.vox-cdn.com/uploads/chorus_image/image/70415568/billboard_202101_intro.0.jpg' width='700px' /><br/>
-Apple has introduced a new verification process in the US to ensure that customers who want to benefit from its discounted education pricing are actually involved in education. It's not clear exactly when its policy changed, but at some point this month, some Reddit users noticed that Apple's education pricing page was updated to note that customers will now be checked by Unidays, a third-party verification service.
-<a href='https://www.theverge.com/2022/1/21/22894665/apple-education-discount-unidays-verification'> Source <a/>

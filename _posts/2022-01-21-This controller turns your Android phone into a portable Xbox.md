@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DNqF_KR12Fg-b-k_qNAglAVn-Mo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70415398/IMG_1853.0.jpg' width='700px' /><br/>
-It seems unlikely that Microsoft will ever make a portable Xbox. Between Sony's failure with the Vita, Nintendo's dominance of the market with the Switch, and Microsoft's device-agnostic business model, there isn't really much need for such a product.
-<a href='https://www.theverge.com/2022/1/21/22894588/nacon-rig-mg-x-review-xbox-mobile-controller'> Source <a/>
