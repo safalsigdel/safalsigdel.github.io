@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/BDzAKVS2KqaNL9-NbUt0cxJvP-o=/0x0:1358x817/1200x800/filters:focal(571x301:787x517)/cdn.vox-cdn.com/uploads/chorus_image/image/70413203/twitter_nft_hex.0.jpg' width='700px' /><br/>
 Twitter said in September that it would add a way for users to authenticate non-fungible tokens (NFT), and now the feature is live — if you pay for a $2.99 Twitter Blue subscription and are using an iOS device.
+<a href='https://www.theverge.com/2022/1/20/22893502/nft-twitter-profile-picture-crypto-wallet-opensea-coinbase-right-click'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/BDzAKVS2KqaNL9-NbUt0cxJvP-o=/0x0:1358x817/1200x800/filters:focal(571x301:787x517)/cdn.vox-cdn.com/uploads/chorus_image/image/70413203/twitter_nft_hex.0.jpg' width='700px' /><br/>
+Twitter said in September that it would add a way for users to authenticate non-fungible tokens (NFT), and now the feature is live — if you pay for a $2.99 Twitter Blue subscription and are using an iOS device.
 <a href='https://www.theverge.com/2022/1/20/22893502/nft-twitter-profile-picture-crypto-wallet-opensea-coinbase-right-click'> Source <a/>
