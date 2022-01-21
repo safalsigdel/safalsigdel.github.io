@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/1UT7gD_QoIrGA8vM717h3zfL9pw=/0x0:2040x1147/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/70415580/vpavic_4261_20201023_0018.0.jpg' width='700px' /><br/>
-Update 8:12AM ET, January 21st: Target has sold out of consoles for now. We hope you had some luck on your side today.
+Update 8:12AM ET, January 21st: Target has sold out of PlayStation 5 consoles for now. We hope you had some luck on your side today.
 <a href='https://www.theverge.com/2022/1/21/22878518/sony-ps5-x-target-console-restock-availability-where-to-buy'> Source <a/>
