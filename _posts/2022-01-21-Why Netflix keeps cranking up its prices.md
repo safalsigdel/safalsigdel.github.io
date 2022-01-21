@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CNcpZgCfytvDIKrI6OQbFhwO0Mk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70412802/acastro_181101_1777_netflix_0001.0.jpg' width='700px' /><br/>
-Every year, the cost of streaming gets more and more expensive — and just last week, prices started going up again. Netflix announced that all of its tiers would get an immediate price hike for new subscribers, boosting its most expensive plan to $20 per month. It's the third price increase since 2019.
-<a href='https://www.theverge.com/2022/1/20/22893419/netflix-price-increase-q1-2022-earnings'> Source <a/>

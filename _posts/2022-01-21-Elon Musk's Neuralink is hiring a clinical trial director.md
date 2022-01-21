@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IQYqhrnixnAhSEQJRU9kn4BAtPc=/0x0:4978x3490/1200x800/filters:focal(2091x1347:2887x2143)/cdn.vox-cdn.com/uploads/chorus_image/image/70413015/1234657348.0.jpg' width='700px' /><br/>
-Elon Musk's brain-machine interface company Neuralink has a new job posting for a clinical trial director, a position that could help the company move towards its stated goal of testing its brain implant in actual people.
-<a href='https://www.theverge.com/2022/1/20/22893444/neuralink-human-clinical-trials-musk'> Source <a/>

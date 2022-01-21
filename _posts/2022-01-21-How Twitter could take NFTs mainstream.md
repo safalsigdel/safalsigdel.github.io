@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5UoEaW3QYQhz5u1qwyihh2pZlS4=/0x0:800x648/1200x800/filters:focal(336x260:464x388)/cdn.vox-cdn.com/uploads/chorus_image/image/70415826/twitter_nft.0.jpg' width='700px' /><br/>
+Today, just four months after announcing it was exploring the idea, Twitter began letting some people use non-fungible tokens as their profile pictures. Subscribers to the $2.99-a-month Twitter Blue service can now connect a crypto wallet, and display any NFTs they own in their profile. These users are easily distinguished from those yet to be crypto-pilled by the shape of their avatars: a hexagon, rather than the traditional circle.
+<a href='https://www.theverge.com/2022/1/21/22894142/twitter-nft-profile-picture-hexagon-circle-mainstream'> Source <a/>
