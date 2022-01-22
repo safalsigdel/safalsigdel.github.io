@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XhhsRAezT-Kr2FwWwcqMqPitXVM=/0x0:3263x1835/1200x800/filters:focal(1371x657:1893x1179)/cdn.vox-cdn.com/uploads/chorus_image/image/70417117/Screen_Shot_2022_01_20_at_8.06.18_PM.0.jpeg' width='700px' /><br/>
+Digital password manager company 1Password announced this week intentions to expand the login features of its services — starting with something the company calls Universal Sign On that it says can make logging into different websites or services even easier.
+<a href='https://www.theverge.com/2022/1/21/22893678/1password-enterprise-universal-sign-on-security-okta-active-directory'> Source <a/>

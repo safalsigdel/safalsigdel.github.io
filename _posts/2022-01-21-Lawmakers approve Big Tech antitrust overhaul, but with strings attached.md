@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sg1TC8DBLDX_rDDljvrTV36GgS4=/0x0:4229x2819/1200x800/filters:focal(1777x1072:2453x1748)/cdn.vox-cdn.com/uploads/chorus_image/image/70413294/1365492770.0.jpg' width='700px' /><br/>
-Congress is one step closer to actualizing transformative antitrust reform for the tech industry after sending their most viable bill to the Senate floor.
-<a href='https://www.theverge.com/2022/1/20/22893641/antitrust-big-tech-reform-amazon-google-apple-klobuchar-grassley'> Source <a/>
