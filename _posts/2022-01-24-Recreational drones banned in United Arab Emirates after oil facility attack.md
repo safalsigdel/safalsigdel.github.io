@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hkS2pH44uwD2xnyaOgw1uHzu3gA=/0x0:2500x1667/1200x800/filters:focal(1050x634:1450x1034)/cdn.vox-cdn.com/uploads/chorus_image/image/70424844/best-drone-phantom-3dr-.0.0.jpg' width='700px' /><br/>
+The United Arab Emirates (UAE) has banned the flying of consumer drones by hobbyists. The news comes after a suspected drone attack hit an oil facility and airport in the country's capital, Abu Dhabi, last week.
+<a href='https://www.theverge.com/2022/1/24/22898614/united-arab-emirates-uae-ban-recreational-drone-attack'> Source <a/>
