@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/q-2DFJpSauy_rbzQzPdeXU89Kac=/0x0:5000x3348/1200x800/filters:focal(2164x2018:2964x2818)/cdn.vox-cdn.com/uploads/chorus_image/image/70419081/1232471340.0.jpg' width='700px' /><br/>
 A digital dollar backed by the US government might lead to faster money transfers, and be more accessible than the current banking system, according to a new paper from the Federal Reserve (via CNBC).
+<a href='https://www.theverge.com/2022/1/21/22894101/federal-reserve-us-government-digital-dollar-central-bank-currency'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/q-2DFJpSauy_rbzQzPdeXU89Kac=/0x0:5000x3348/1200x800/filters:focal(2164x2018:2964x2818)/cdn.vox-cdn.com/uploads/chorus_image/image/70419081/1232471340.0.jpg' width='700px' /><br/>
+A digital dollar backed by the US government might lead to faster money transfers, and be more accessible than the current banking system, according to a new paper from the Federal Reserve (via CNBC).
 <a href='https://www.theverge.com/2022/1/21/22894101/federal-reserve-us-government-digital-dollar-central-bank-currency'> Source <a/>
