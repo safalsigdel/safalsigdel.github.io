@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZyK8PDtjEN3lRU3EDrXA3jL4Bew=/0x0:9375x4688/1200x800/filters:focal(3938x1594:5438x3094)/cdn.vox-cdn.com/uploads/chorus_image/image/70424856/Wisk_Aero_Media_Kit_Primary_Image_HD.0.png' width='700px' /><br/>
+Wisk Aero, the electric air taxi startup, raised $450 million from Boeing in a new funding round that it claims will make it “one of the most well-funded [advanced air mobility] companies in the world.”
+<a href='https://www.theverge.com/2022/1/24/22865280/boeing-wisk-aero-funding-evtol-air-taxi'> Source <a/>
