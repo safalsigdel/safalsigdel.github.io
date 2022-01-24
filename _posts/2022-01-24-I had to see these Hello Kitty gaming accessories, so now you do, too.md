@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IBrkQxgk73xXbZvDlHrJj26IbZ8=/0x0:8256x5504/1200x800/filters:focal(3468x2092:4788x3412)/cdn.vox-cdn.com/uploads/chorus_image/image/70416959/HeadsetFocus_OnDesk.0.png' width='700px' /><br/>
-Razer is known for making some of the best, flashiest gaming gear on the market, from the category-topping Basilisk V3 to the mind-blowingly powerful and portable Razer Blade 14. Today, it's announcing something, well, slightly different. The company has partnered with Sanrio to release a line of Hello Kitty-themed gaming accessories.
-<a href='https://www.theverge.com/2022/1/21/22894983/razer-hello-kitty-gaming-accessories-collaboration'> Source <a/>

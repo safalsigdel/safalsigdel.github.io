@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wAdCjXcEeETTyoVB0SbMb5d1Ang=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/70424767/ss_02_1.0.jpg' width='700px' /><br/>
+Toshihiro Nagoshi, former chief creative officer at Sega, where he led development of the Yakuza series as general director of Ryu Ga Gotoku Studio, has announced his next move. He's started up his own studio, simply titled Nagoshi Studio, which is being wholly funded by Chinese internet and gaming company NetEase.
+<a href='https://www.theverge.com/2022/1/24/22898579/toshihiro-nagoshi-studio-yakuza-series-netease-announced'> Source <a/>
