@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/j8zTsC21KyTulGrvaJdf8gng9So=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70416961/Optix_MAG321CQR_Press_Image.6.jpg' width='700px' /><br/>
 Update January 21st, 5:03PM ET: Woot has sold through its available stock of the Xbox Series S.
-<a href='https://www.theverge.com/good-deals/2022/1/21/22894802/xbox-series-s-razer-roccat-keyboard-irobot-roomba-j7-msi-gaming-monitor-deal-sale'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/j8zTsC21KyTulGrvaJdf8gng9So=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70416961/Optix_MAG321CQR_Press_Image.6.jpg' width='700px' /><br/>
-Update January 21st, 5:03PM ET: Woot has sold through its available stock of the Xbox Series S.
 <a href='https://www.theverge.com/good-deals/2022/1/21/22894802/xbox-series-s-razer-roccat-keyboard-irobot-roomba-j7-msi-gaming-monitor-deal-sale'> Source <a/>

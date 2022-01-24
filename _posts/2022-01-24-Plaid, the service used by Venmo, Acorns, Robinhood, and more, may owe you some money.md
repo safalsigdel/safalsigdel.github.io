@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/zQ-ekZNAwgfqAwQIXyD5E8NbL2c=/0x0:5000x3333/1200x800/filters:focal(2105x1588:2905x2388)/cdn.vox-cdn.com/uploads/chorus_image/image/70423810/1227801650.0.jpg' width='700px' /><br/>
 If you've connected your bank account to financial apps like Robinhood, Acorns, Venmo, American Express, Coinbase, and Credit Karma, you may be entitled to some cash, according to a report by Fast Company.
-<a href='https://www.theverge.com/2022/1/23/22898009/plaid-financial-venmo-acorns-robinhood-class-action-lawsuit'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/zQ-ekZNAwgfqAwQIXyD5E8NbL2c=/0x0:5000x3333/1200x800/filters:focal(2105x1588:2905x2388)/cdn.vox-cdn.com/uploads/chorus_image/image/70423810/1227801650.0.jpg' width='700px' /><br/>
-If you've connected your bank account to financial apps like Robinhood, Acorns, Venmo, American Express, Coinbase, and Credit Karma, you may be entitled to some cash, according to a report by Fast Company.
 <a href='https://www.theverge.com/2022/1/23/22898009/plaid-financial-venmo-acorns-robinhood-class-action-lawsuit'> Source <a/>
