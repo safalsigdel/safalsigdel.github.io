@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QbCaHujX5Lt2nuzMLi-eZpwybGo=/0x0:2040x1360/1200x675/filters:focal(896x583:1222x909)/cdn.vox-cdn.com/uploads/chorus_image/image/70415836/akrales_211105_4818_0010.0.jpg' width='700px' /><br/>
-MSI's Creator Z16 is one of a new cadre of “creator” laptops that have been popping up from companies that are traditionally gaming-oriented over the past two years. They tend to take the sorts of specs that you might see in a gaming laptop and cram them into a thinner chassis that looks more like something one might bring into a boardroom.
-<a href='https://www.theverge.com/22893308/msi-creator-z16-2021-review'> Source <a/>

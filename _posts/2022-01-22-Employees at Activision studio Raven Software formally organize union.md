@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/487DpBEvmMZ3-RAdaPULhwJoMek=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70416792/04C_IN_GAME_MODES_BR_TOUT.0.jpg' width='700px' /><br/>
-After five weeks of striking, the QA testers at Raven Software, a subsidiary of Activision Blizzard, have formed one of the first unions in a AAA game publisher. The union, known as the Game Workers Alliance, was formed in association with the Communications Workers of America (CWA), a labor union that represents telecommunications and digital media workers.
-<a href='https://www.theverge.com/2022/1/21/22894964/activision-blizzard-raven-software-employees-create-game-workers-alliance-union'> Source <a/>

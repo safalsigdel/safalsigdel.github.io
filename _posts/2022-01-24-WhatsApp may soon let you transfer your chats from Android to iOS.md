@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YkokR6t-qVs6K-HNyyluZ_hAIjM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70421196/acastro_210119_1777_whatsapp_0002.0.jpg' width='700px' /><br/>
+WhatsApp might be working on a feature that lets you migrate your chat history from Android to iOS, as reported by WABetaInfo via (Android Central).
+<a href='https://www.theverge.com/2022/1/22/22896666/whatsapp-android-to-ios-transfer-feature-rumor'> Source <a/>

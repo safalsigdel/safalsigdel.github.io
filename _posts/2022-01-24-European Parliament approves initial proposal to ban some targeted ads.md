@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CNfnjT38XMhVyzlWYe3kmqyG6lI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70422752/acastro_1800724_1777_EU_0001.0.jpg' width='700px' /><br/>
+On Thursday, the European Parliament voted to approve the initial draft of a bill that aims to curb Big Tech's invasive advertising practices (via Bloomberg). The Parliament adopted the draft with 530 votes of approval, 78 against, and 80 absentations.
+<a href='https://www.theverge.com/2022/1/23/22897574/european-parliament-eu-digital-services-act-big-tech'> Source <a/>

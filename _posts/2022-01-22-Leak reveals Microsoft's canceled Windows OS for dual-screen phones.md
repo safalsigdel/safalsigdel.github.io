@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8Qg0DiTgt0IxMIZtLObtjoWjQbg=/0x0:1600x946/1200x0/filters:focal(0x0:1600x946):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23184378/andromeda_os_screenshots_2.jpg' width='700px' /><br/>
-Microsoft was working on a secret “pocketable” Surface device powered by a custom Windows OS before the company turned to Android for its Surface Duo. Codenamed Andromeda, the device appeared in leaked emails, patents, reports, and throughout various references to it in Microsoft's Windows operating system.
-<a href='https://www.theverge.com/2022/1/21/22894713/microsoft-windows-andromeda-os-dual-screen-devices-video'> Source <a/>

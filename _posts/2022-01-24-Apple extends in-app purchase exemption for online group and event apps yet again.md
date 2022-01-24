@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/w6fEH2CHsullcCt_vi56HywOjgY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70423064/acastro_210831_1777_0003.0.jpg' width='700px' /><br/>
+Apple has extended its deadline requiring online group and event apps to comply with the company's in-app purchase policy once again, as announced in a post on the company's developer's blog (via 9to5Mac). Apps in this category can now use alternate payment options until June 30th, allowing them to skirt Apple's 15 to 30 percent cut the company takes out of in-app purchases.
+<a href='https://www.theverge.com/2022/1/23/22896736/apple-in-app-purchase-exemption-deadline-online-group-services-extended'> Source <a/>

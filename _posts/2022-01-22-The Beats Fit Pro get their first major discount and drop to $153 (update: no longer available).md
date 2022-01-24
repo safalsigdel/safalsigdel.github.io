@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Tmnd7cMGCHg3iJ_sbyKw9xVejW0=/0x0:1419x1024/1200x800/filters:focal(597x399:823x625)/cdn.vox-cdn.com/uploads/chorus_image/image/70416263/_BeatsFitPro_4FAM_Lifestyle_0036_WEB_v4.0.png' width='700px' /><br/>
-Update January 21st, 1:05PM ET: The Beats Fit Pro deals at both Amazon and Walmart are no longer available at this time.
-<a href='https://www.theverge.com/good-deals/2022/1/21/22894748/beats-fit-pro-wireless-earbuds-apple-airpods-deal-sale'> Source <a/>
