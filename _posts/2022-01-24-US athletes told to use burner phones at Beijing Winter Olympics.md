@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/abj11jDi-RqzXEvJ4NSQVDJEPvk=/0x0:4096x3072/1200x800/filters:focal(1530x1360:2184x2014)/cdn.vox-cdn.com/uploads/chorus_image/image/70420899/1364561792.0.jpg' width='700px' /><br/>
 The United States Olympic and Paralympic Committee is telling athletes to ditch their personal phones for burners ahead of next month's Winter Olympics in China, according to a report from the Wall Street Journal (via Android Central).
+<a href='https://www.theverge.com/2022/1/22/22896398/winter-olympics-2022-beijing-us-athletes-burner-phones'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/abj11jDi-RqzXEvJ4NSQVDJEPvk=/0x0:4096x3072/1200x800/filters:focal(1530x1360:2184x2014)/cdn.vox-cdn.com/uploads/chorus_image/image/70420899/1364561792.0.jpg' width='700px' /><br/>
+The United States Olympic and Paralympic Committee is telling athletes to ditch their personal phones for burners ahead of next month's Winter Olympics in China, according to a report from the Wall Street Journal (via Android Central).
 <a href='https://www.theverge.com/2022/1/22/22896398/winter-olympics-2022-beijing-us-athletes-burner-phones'> Source <a/>
