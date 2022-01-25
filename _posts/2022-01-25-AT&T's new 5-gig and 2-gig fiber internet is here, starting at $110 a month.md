@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QUQO9aJlDNaYIEDBxaIIQBbh5lo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70426120/acastro_180322_1777_0001.0.jpg' width='700px' /><br/>
-AT&T is rolling out 2Gbps and 5Gbps speed tiers for its fiber-optic internet option. The company made the announcement to kick off its Life Gigified event, where it said new and existing AT&T Fiber customers will soon be able to take advantage of these multi-gig connections.
-<a href='https://www.theverge.com/2022/1/24/22898876/att-fiber-multi-gig-connections-speeds'> Source <a/>
