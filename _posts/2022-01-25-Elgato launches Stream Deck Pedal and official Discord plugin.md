@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QGL4QDZEzhK1LdYd_-v6leZL-R4=/0x0:1920x1320/1200x800/filters:focal(807x507:1113x813)/cdn.vox-cdn.com/uploads/chorus_image/image/70429489/streamdeckpedal.0.jpg' width='700px' /><br/>
+Elgato is launching a new Stream Deck Pedal today, alongside official Discord integration. The Stream Deck Pedal is an $89.99 pad that has three pedals that can control software, hardware, and more. It looks ideal for streamers wanting to trigger effects, switch scenes, or even toggle cameras.
+<a href='https://www.theverge.com/2022/1/25/22900641/elgao-stream-deck-discord-plugin-pedal-hardware-features'> Source <a/>
