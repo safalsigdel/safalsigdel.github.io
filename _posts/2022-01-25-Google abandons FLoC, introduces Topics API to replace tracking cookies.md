@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Oa2TdcSrPoiRmihqXscEHJnU_zE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70429956/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google is walking back plans to replace third-party cookies with FLoC by instead proposing the Topics API, a new system for interest-based advertising. Topics works by pinpointing five of your interests, such as “Fitness” or “Travel & Transportation,” based on your web activity, as measured by participating sites, for one week.
+<a href='https://www.theverge.com/2022/1/25/22900567/google-floc-abandon-topics-api-cookies-tracking'> Source <a/>
