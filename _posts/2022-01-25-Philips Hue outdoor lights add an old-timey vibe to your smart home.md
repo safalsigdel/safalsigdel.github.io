@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/1CTyLjilXLUcSjlCKxeCebQqzVo=/0x0:3500x3500/1200x800/filters:focal(1194x974:1754x1534)/cdn.vox-cdn.com/uploads/chorus_image/image/70427725/Philips_Hue_Inara.0.jpeg' width='700px' /><br/>
 Spring is coming (soon, we promise), and smart lighting company Philips Hue has some new products that can help you spruce up your outdoor space, so you can enjoy spending more time outside when the ice finally melts.
-<a href='https://www.theverge.com/2022/1/24/22899576/philips-hue-smart-outdoor-filament-light-price-release-date-specs'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/1CTyLjilXLUcSjlCKxeCebQqzVo=/0x0:3500x3500/1200x800/filters:focal(1194x974:1754x1534)/cdn.vox-cdn.com/uploads/chorus_image/image/70427725/Philips_Hue_Inara.0.jpeg' width='700px' /><br/>
-Spring is coming (soon, we promise), and smart lighting company Philips Hue has some new products that can help you spruce up your outdoor space, so you can enjoy spending more time outside when the ice finally melts.
 <a href='https://www.theverge.com/2022/1/24/22899576/philips-hue-smart-outdoor-filament-light-price-release-date-specs'> Source <a/>

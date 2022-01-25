@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/tlk2yW9tlPrQbLZ5jkTaChY1tvY=/0x0:3000x2184/1200x800/filters:focal(1260x852:1740x1332)/cdn.vox-cdn.com/uploads/chorus_image/image/70428918/1174743421.0.jpg' width='700px' /><br/>
 After the gold rush of signing Joe Rogan, Spotify now has to deal with the harvest.
-<a href='https://www.theverge.com/2022/1/25/22900437/neil-young-spotify-joe-rogan-vaccine-misinformation'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/tlk2yW9tlPrQbLZ5jkTaChY1tvY=/0x0:3000x2184/1200x800/filters:focal(1260x852:1740x1332)/cdn.vox-cdn.com/uploads/chorus_image/image/70428918/1174743421.0.jpg' width='700px' /><br/>
-After the gold rush of signing Joe Rogan, Spotify now has to deal with the harvest.
 <a href='https://www.theverge.com/2022/1/25/22900437/neil-young-spotify-joe-rogan-vaccine-misinformation'> Source <a/>
