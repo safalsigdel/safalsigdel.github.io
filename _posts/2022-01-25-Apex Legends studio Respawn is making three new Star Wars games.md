@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7K_u9JVQbHQ0gmMnU7oSq-Dw48M=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70429434/DXRYZanw.0.jpg' width='700px' /><br/>
+Respawn, the studio behind games like Apex Legends and Titanfall, is making a big push into the Star Wars universe. The developer announced that it's working on three new Star Wars titles, including a sequel to 2019 action-adventure game Star Wars Jedi: Fallen Order.
+<a href='https://www.theverge.com/2022/1/25/22900615/respawn-star-wars-games-jedi-fallen-order-sequel'> Source <a/>
