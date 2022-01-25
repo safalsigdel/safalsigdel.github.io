@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HZMHSe02YcOnqdqmPMq5gcXwT_E=/0x0:1100x721/1200x675/filters:focal(462x273:638x449)/cdn.vox-cdn.com/uploads/chorus_image/image/70420139/intelchips.1419963683.0.jpg' width='700px' /><br/>
-On Friday, Intel announced it would build the “largest silicon manufacturing location on the planet” here in the United States, on a 1,000-acre plot of land in New Albany, Ohio.
-<a href='https://www.theverge.com/2022/1/22/22895447/intel-ohio-chip-fab-manufacturing-cpu-processor-explained'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/HZMHSe02YcOnqdqmPMq5gcXwT_E=/0x0:1100x721/1200x675/filters:focal(462x273:638x449)/cdn.vox-cdn.com/uploads/chorus_image/image/70420139/intelchips.1419963683.0.jpg' width='700px' /><br/>
-On Friday, Intel announced it would build the “largest silicon manufacturing location on the planet” here in the United States, on a 1,000-acre plot of land in New Albany, Ohio.
-<a href='https://www.theverge.com/2022/1/22/22895447/intel-ohio-chip-fab-manufacturing-cpu-processor-explained'> Source <a/>

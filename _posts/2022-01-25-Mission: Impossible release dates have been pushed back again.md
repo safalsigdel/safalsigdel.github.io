@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jxzJhre-TDHoFCwysKMc0BV-KtM=/0x0:8192x4320/1200x800/filters:focal(3441x1505:4751x2815)/cdn.vox-cdn.com/uploads/chorus_image/image/70427875/mi6-ff-h055rb.0.0.jpg' width='700px' /><br/>
+The release dates of the seventh and eighth installments of the Mission: Impossible series have been pushed back again due to pandemic-related delays, Deadline reported. The two flicks are the latest in a long list of movies to be delayed by the pandemic, which upended Hollywood as it has struggled to deal with closed movie theaters and halted or scaled back productions.
+<a href='https://www.theverge.com/2022/1/24/22899256/mission-impossible-7-8-delayed-movie-tom-cruise-paramount'> Source <a/>

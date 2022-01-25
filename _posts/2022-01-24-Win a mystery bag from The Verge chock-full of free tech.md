@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LTpSzcnS20GI6hjKkYEbFCsGmzE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70425519/akrales_211105_4862_0044.0.jpg' width='700px' /><br/>
-Did you think the season of giving was over? Not at The Verge! Not only are we continuing to give you a heads-up regarding discounts and sales on the latest gadgets, but we have another mystery bag stuffed full of freebies to give away to one lucky reader.
-<a href='https://www.theverge.com/2022/1/24/22881792/tech-bag-sweepstakes-mystery-gear-entry-rules-january-2022'> Source <a/>

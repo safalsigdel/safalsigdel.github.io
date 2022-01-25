@@ -1,0 +1,5 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KzUKZiFT1dENh4Q0JKzUek-Dnlo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70427227/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
+Update January 24th, 4:56PM ET: Costco's listing sold out at this time and has been removed from its site for now. We are continuing to keep an eye out for more restocks happening soon.
+<a href='https://www.theverge.com/2022/1/24/22824105/sony-playstation-ps5-console-restock-costco-availability'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/KzUKZiFT1dENh4Q0JKzUek-Dnlo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70427227/acastro_210511_1777_psRestock_0006.0.jpg' width='700px' /><br/>
+Update January 24th, 4:56PM ET: Costco's listing sold out at this time and has been removed from its site for now. We are continuing to keep an eye out for more restocks happening soon.
+<a href='https://www.theverge.com/2022/1/24/22824105/sony-playstation-ps5-console-restock-costco-availability'> Source <a/>

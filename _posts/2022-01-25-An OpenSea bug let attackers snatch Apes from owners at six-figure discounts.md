@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9pRveHfVSSjeYH9mvqb8bReQzrg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70426147/acastro_210914_4753_0001.0.jpg' width='700px' /><br/>
+A bug in OpenSea, the popular NFT marketplace, has let hackers buy rare NFTs for well below market value, in some cases leading to hundreds of thousands of dollars in losses for the original owners — and hundreds of thousands of dollars in profits for the apparent thieves.
+<a href='https://www.theverge.com/2022/1/24/22899125/opensea-bug-bored-ape-nfts-smart-contract-listings-cancellation'> Source <a/>

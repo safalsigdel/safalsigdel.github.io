@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GqW9zZtef66l99ht6pUw3buvM7I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70417203/akrales_171113_2119_0074.0.jpg' width='700px' /><br/>
-Light sensors used to track heart rate in wearable devices like the Apple Watch Series 5 and the Fitbit Versa 2 don't work as well on darker skin or people with obesity, according to modeling done in a new study.
-<a href='https://www.theverge.com/2022/1/21/22893133/apple-fitbit-heart-rate-sensor-skin-tone-obesity'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/GqW9zZtef66l99ht6pUw3buvM7I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70417203/akrales_171113_2119_0074.0.jpg' width='700px' /><br/>
-Light sensors used to track heart rate in wearable devices like the Apple Watch Series 5 and the Fitbit Versa 2 don't work as well on darker skin or people with obesity, according to modeling done in a new study.
-<a href='https://www.theverge.com/2022/1/21/22893133/apple-fitbit-heart-rate-sensor-skin-tone-obesity'> Source <a/>

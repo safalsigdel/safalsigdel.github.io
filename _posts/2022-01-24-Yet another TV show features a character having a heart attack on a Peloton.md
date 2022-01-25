@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QL4VwkSPoE8_GMpni72NdE044gc=/0x0:2880x1608/1200x800/filters:focal(1618x281:2078x741)/cdn.vox-cdn.com/uploads/chorus_image/image/70422705/Screen_Shot_2022_01_21_at_18.03.12.0.png' width='700px' /><br/>
-Spoilers ahead for And Just Like That... and Billions.
-<a href='https://www.theverge.com/2022/1/23/22895860/peloton-billions-heart-attack-mr-big-showtime-tv'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/QL4VwkSPoE8_GMpni72NdE044gc=/0x0:2880x1608/1200x800/filters:focal(1618x281:2078x741)/cdn.vox-cdn.com/uploads/chorus_image/image/70422705/Screen_Shot_2022_01_21_at_18.03.12.0.png' width='700px' /><br/>
-Spoilers ahead for And Just Like That... and Billions.
-<a href='https://www.theverge.com/2022/1/23/22895860/peloton-billions-heart-attack-mr-big-showtime-tv'> Source <a/>

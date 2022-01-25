@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zSmYXAKASNFqfnjjPLtDZGyQW34=/0x0:6277x3245/1200x800/filters:focal(2637x1121:3641x2125)/cdn.vox-cdn.com/uploads/chorus_image/image/70425991/Ford_Maverick_2L_EcoBoost_AWD_Lariat_01.0.jpg' width='700px' /><br/>
+Ford's hot-in-demand 2022 Maverick pickup truck appears to be sold out, with The Wall Street Journal reporting that the automaker has taken the unusual step of suspending reservations.
+<a href='https://www.theverge.com/2022/1/24/22899073/ford-maverick-hybrid-truck-suspend-reservation-sold-out'> Source <a/>
