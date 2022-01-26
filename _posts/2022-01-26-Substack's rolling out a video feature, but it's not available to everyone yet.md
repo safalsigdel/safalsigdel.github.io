@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gj8Sc5GCP82tubS1wJAsMKdECSk=/0x0:2448x1382/1200x800/filters:focal(1029x496:1419x886)/cdn.vox-cdn.com/uploads/chorus_image/image/70434697/substack_video_beta.0.png' width='700px' /><br/>
+Substack, the platform where creators can share free or paid newsletters, has announced a  new video feature that's currently in a private beta (via TechCrunch). The feature will let users upload or record videos directly in Substack and then publish them within their posts.
+<a href='https://www.theverge.com/2022/1/26/22902447/substack-video-private-beta'> Source <a/>
