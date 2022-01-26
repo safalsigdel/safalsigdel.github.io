@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s9BlfDSJX5gVI5VNMKMq51HSDDg=/0x0:1651x1101/1200x800/filters:focal(694x419:958x683)/cdn.vox-cdn.com/uploads/chorus_image/image/70428986/Amazon_Go_Mill_Creek__WA_Rendering_2.0.jpg' width='700px' /><br/>
-Amazon is bringing its cashierless Just Walk Out technology to a new format of stores aimed at suburbs, the company announced today. The new stores will use the Amazon Go branding that the company already uses for its locations in city centers, but will instead be located further afield where they'll sell food, snacks, alcohol, and “a few every day essentials.”
-<a href='https://www.theverge.com/2022/1/25/22900453/amazon-go-convenience-store-suburbs-cashierless-just-walk-out'> Source <a/>

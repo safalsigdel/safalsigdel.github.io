@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HZsNRG4dp4ZwLOCUku78bOlvoGU=/0x0:2040x1360/1200x800/filters:focal(801x468:1127x794)/cdn.vox-cdn.com/uploads/chorus_image/image/70430887/acastro_210430_1777_semiCon_0002.0.jpg' width='700px' /><br/>
+Today, the White House is saying out loud what you've likely already heard: the chip shortage won't end anytime soon. “We aren't even close to being out of the woods,” said US Commerce Secretary Gina Raimondo in a briefing with reporters today, according to Bloomberg, The Washington Post, and others.
+<a href='https://www.theverge.com/2022/1/25/22900987/chip-shortage-report-biden-commerce-secretary-raimondo'> Source <a/>

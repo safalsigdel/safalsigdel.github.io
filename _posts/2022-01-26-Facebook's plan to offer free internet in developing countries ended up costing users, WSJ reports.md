@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FcbJHdpnC7k4uSFHU_EEXQEpGok=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70431123/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook partners with mobile carriers in developing countries like Indonesia, the Philippines, and Pakistan to give users free access to Facebook and a few other websites, but users have been unknowingly getting charged by their cellular providers, according to a report from The Wall Street Journal.
+<a href='https://www.theverge.com/2022/1/25/22900924/facebooks-free-internet-less-developed-costing-users-wsj'> Source <a/>

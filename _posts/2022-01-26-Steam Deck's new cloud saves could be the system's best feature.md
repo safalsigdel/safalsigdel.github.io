@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nLI0PXO8DF1S7bBe_JFhSck9Od0=/0x0:1852x1036/1200x800/filters:focal(778x370:1074x666)/cdn.vox-cdn.com/uploads/chorus_image/image/70427592/Screen_Shot_2022_01_24_at_1.44.26_PM.0.png' width='700px' /><br/>
-Ahead of the Steam Deck's launch, Valve has detailed a new feature for Steam's cloud saves that should carry over your progress from your Steam Deck back to your PC (or another Steam Deck) even when you put your Steam Deck into suspend mode without fully exiting a game. Valve has talked about this intriguing idea before, but now it has a name — Dynamic Cloud Sync.
-<a href='https://www.theverge.com/2022/1/24/22899721/valve-steam-deck-dynamic-cloud-sync-games-pc'> Source <a/>
