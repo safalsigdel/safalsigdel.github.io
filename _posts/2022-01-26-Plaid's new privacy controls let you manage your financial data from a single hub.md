@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t7Yy895n-ROswcNGWIqvsRnQHTE=/0x0:1944x2134/1200x800/filters:focal(735x812:1045x1122)/cdn.vox-cdn.com/uploads/chorus_image/image/70429090/plaid_privacy_portal.0.png' width='700px' /><br/>
-Plaid, a go-between for financial apps like Robinhood, Venmo, and Betterment and bank accounts, has created a privacy hub where you can manage all of your financial connections. The settlement requires Plaid to prominently display the privacy hub on its site.
-<a href='https://www.theverge.com/2022/1/25/22899801/plaid-privacy-portal-manage-your-financial'> Source <a/>

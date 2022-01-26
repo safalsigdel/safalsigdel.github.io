@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3kQ3TAQu5gCaPVDVCPYgHl2hBcg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70429311/acastro_180321_1777_youtube_0003.0.jpg' width='700px' /><br/>
-YouTube NFTs may be in the works. In a letter published today, YouTube CEO Susan Wojcicki suggested the company is looking to branch into NFTs in the future as another source of revenue for creators.
-<a href='https://www.theverge.com/2022/1/25/22899586/youtube-nfts-crypto-susan-wojcicki'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UPbcC4luNZ1pl-MuPX-AkW1uMsA=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70429331/akrales_220124_4985_0005.0.jpg' width='700px' /><br/>
-Well, it's that time of year again. Intel has come out with a new line of mobile processors, and we're all on the edge of our seats wondering whether they'll be able to stay afloat in a field that includes AMD's powerhouse Ryzen chips and Apple's monstrous M1 Pro and M1 Max — or even take back the crown.
-<a href='https://www.theverge.com/22900362/msi-ge76-raider-review-alder-lake-17-inch-gaming-laptop'> Source <a/>
