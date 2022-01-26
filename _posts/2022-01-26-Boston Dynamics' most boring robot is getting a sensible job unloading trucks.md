@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VDw8eE7aKBq_nRkd3oIUGNYV0sc=/0x0:6000x3375/1200x800/filters:focal(2520x1208:3480x2168)/cdn.vox-cdn.com/uploads/chorus_image/image/70434572/bd_dhl_final.0.jpg' width='700px' /><br/>
+Boston Dynamics is synonymous with four-legged robots, particularly its consumer model Spot. But in the past few years, the company has been expanding into logistics — one of the most challenging and potentially lucrative sectors in modern robotics.
+<a href='https://www.theverge.com/2022/1/26/22902568/boston-dynamics-stretch-robot-logistics-dhl-deal'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/96HNRS6JiPCKU8NX8pEsRupB4RM=/0x0:1548x1104/1200x800/filters:focal(773x431:1019x677)/cdn.vox-cdn.com/uploads/chorus_image/image/70429872/Screen_Shot_2022_01_24_at_6.35.51_PM.0.png' width='700px' /><br/>
-Hello, hello. I'm back! Welcome to the week from sunny Los Angeles. My trip through California had me disconnecting from the internet, spotting Michael Keaton at a Santa Barbara restaurant inside a furniture store, and, naturally, ending up in multiple conversations about Joe Rogan. Just the R&R I needed :~). Anyway, I'm happy to be back with you and the podcast news. Let's get into it.
-<a href='https://www.theverge.com/2022/1/25/22900145/amazon-music-my-favorite-murder-podcast-deal-hot-pod'> Source <a/>

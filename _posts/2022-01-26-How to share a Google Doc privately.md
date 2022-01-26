@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1aaw-xEeXYiRWIGufCIP2XeMJ7g=/0x0:2020x1402/1200x800/filters:focal(849x540:1171x862)/cdn.vox-cdn.com/uploads/chorus_image/image/70430028/Screen_Shot_2022_01_25_at_10.47.48_AM.0.png' width='700px' /><br/>
-Recently, I got Slacked by a colleague who was really annoyed and had to let off a bit of steam. It seems that a writer had shared a new Google Docs article with them (a usual way of submitting a freelance piece), and when my colleague opened the article, they found another, unknown person was already reading it — somebody who was definitely not on our staff.
-<a href='https://www.theverge.com/22898818/google-doc-share-how-to'> Source <a/>
