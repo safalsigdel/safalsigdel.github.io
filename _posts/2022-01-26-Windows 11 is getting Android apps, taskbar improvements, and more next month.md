@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KHb6HXL6NKwx3Gpk5EyJO3_mHFE=/0x0:1650x1100/1200x800/filters:focal(693x418:957x682)/cdn.vox-cdn.com/uploads/chorus_image/image/70434120/windows11main.0.jpg' width='700px' /><br/>
+Microsoft is planning to launch a public preview of its Android apps for Windows 11 next month, alongside some taskbar improvements and redesigned Notepad and Media Player apps. Windows chief Panos Panay outlined the upcoming changes to Windows 11 in a blog post today, and they appear to be part of Windows 11's first big update.
+<a href='https://www.theverge.com/2022/1/26/22902477/microsoft-windows-11-update-android-apps-preview-taskbar-notepad-media-player'> Source <a/>

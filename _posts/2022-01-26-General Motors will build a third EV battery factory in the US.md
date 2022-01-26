@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/jtGVQmF0kABUWn0gTyDeTKagGsY=/0x0:5140x3427/1200x800/filters:focal(2159x1303:2981x2125)/cdn.vox-cdn.com/uploads/chorus_image/image/70429858/1236626057.0.jpg' width='700px' /><br/>
 General Motors announced a $7 billion investment in growing its electric vehicle manufacturing capabilities in Michigan, calling it “the single largest investment announcement in GM history.”
-<a href='https://www.theverge.com/2022/1/25/22900729/gm-ev-battery-factory-invest-michigan-us'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/jtGVQmF0kABUWn0gTyDeTKagGsY=/0x0:5140x3427/1200x800/filters:focal(2159x1303:2981x2125)/cdn.vox-cdn.com/uploads/chorus_image/image/70429858/1236626057.0.jpg' width='700px' /><br/>
-General Motors announced a $7 billion investment in growing its electric vehicle manufacturing capabilities in Michigan, calling it “the single largest investment announcement in GM history.”
 <a href='https://www.theverge.com/2022/1/25/22900729/gm-ev-battery-factory-invest-michigan-us'> Source <a/>
