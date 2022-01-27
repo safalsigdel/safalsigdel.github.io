@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UvgIR9ESIXDKgEt_9Mz77Oh26Fg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70435094/acastro_190411_1777_Disney_Streaming_0001.0.0.jpg' width='700px' /><br/>
-Disney is planning to launch Disney Plus in 42 countries and 11 territories this summer, according to The Hollywood Reporter. It's a significant expansion that could keep the pressure on other streaming services like Netflix and HBO Max.
-<a href='https://www.theverge.com/2022/1/26/22902690/disney-launch-more-countries-territories-this-summer'> Source <a/>

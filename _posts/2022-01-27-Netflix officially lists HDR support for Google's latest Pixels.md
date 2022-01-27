@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KE4XF6Sqd8hcquVvghvAsM35Il4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70438538/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+Fans of inky blacks and bright highlights rejoice: Netflix now officially lists HDR support for Google's Pixel 6, 6 Pro, and more affordable 5A. That's according to one of the streaming giant's support pages, spotted by 9to5Google, which appears to have been updated some time after January 14th. The update also appears to have listed the phones as supporting HD on the service.
+<a href='https://www.theverge.com/2022/1/27/22904260/netflix-google-pixel-6-pro-5a-hdr-support'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HqDWiaEsYP4CTNpii516Yui9IyE=/0x0:1774x1184/1200x800/filters:focal(746x451:1028x733)/cdn.vox-cdn.com/uploads/chorus_image/image/70438641/GFN_Thursday_January_27.0.jpg' width='700px' /><br/>
+Nvidia's GeForce Now app for LG TVs has exited beta, the graphics card manufacturer announced today. The cloud gaming service was released in beta last November for select LG televisions, and lets you stream games off Nvidia's servers bought on stores like Steam and the Epic Games Store.
+<a href='https://www.theverge.com/2022/1/27/22904126/geforce-now-lg-tvs-exits-beta-nvidia'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/unXqm-N3PBm182bLfdHiIGMX-oU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70435310/wjoel_200527_1777_hbomax_0001.0.jpg' width='700px' /><br/>
-HBO Max reached 73.8 million subscribers at the end of 2021, 46.8 million of which are located in the US, marking a 5.3 million increase over a full year. The numbers were shared as part of AT&T's (HBO Max's parent company) fourth-quarter earnings for 2021.
-<a href='https://www.theverge.com/2022/1/26/22902713/hbo-max-dune-matrix-succession-73-million-subscribers'> Source <a/>
