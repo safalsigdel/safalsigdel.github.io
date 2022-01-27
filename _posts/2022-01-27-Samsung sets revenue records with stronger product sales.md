@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/00S78OkTV1qVvQAPJrQhQQ4pAVk=/0x0:2040x1360/1200x800/filters:focal(813x572:1139x898)/cdn.vox-cdn.com/uploads/chorus_image/image/70437764/vpavic_210118_4378_0190.0.jpg' width='700px' /><br/>
+Samsung Electronics broke both its quarterly and annual records for revenue in the fourth quarter of 2021, making 13.87 trillion won (~$11.5 billion) in operating profit off 76.57 trillion won (~$63.6 billion) in revenue in the three-month period. The full-year numbers were 51.63 trillion won ($42.9 billion) in operating profit and 279.6 trillion won (~$232.4 billion) in revenue.
+<a href='https://www.theverge.com/2022/1/26/22902283/samsung-earnings-q4-2021-record-revenue-galaxy-s22'> Source <a/>

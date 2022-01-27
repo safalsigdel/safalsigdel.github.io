@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/J1HESVrrcIQjkZU3NwiikwvaRBc=/0x0:1792x828/1200x800/filters:focal(753x271:1039x557)/cdn.vox-cdn.com/uploads/chorus_image/image/70434581/Endeavor_Soup.0.jpg' width='700px' /><br/>
-Akili Interactive, the company behind the first video game to get approved as a medical treatment, announced today that it will go public through a merger with Social Capital Suvretta Holdings Corp, which is run by former Facebook executive Chamath Palihapitiya. The deal values the company at $1 billion.
-<a href='https://www.theverge.com/2022/1/26/22902537/prescription-video-game-adhd-spac-public-company'> Source <a/>

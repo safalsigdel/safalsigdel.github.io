@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KowOn0PYhDQI4ms32T8JwTxY03s=/0x0:770x513/1200x800/filters:focal(324x196:446x318)/cdn.vox-cdn.com/uploads/chorus_image/image/70433794/Redmi_Note_11_Series_01.0.jpg' width='700px' /><br/>
-Xiaomi has announced the Redmi Note 11 series, continuing its popular line of budget-friendly handsets that sell in huge numbers in India and various other markets.
-<a href='https://www.theverge.com/2022/1/26/22902358/xiaomi-redmi-note-11-pro-5g-series-announced-specs'> Source <a/>

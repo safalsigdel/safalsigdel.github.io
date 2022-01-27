@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xN-76Gl9cCDkOG7AMBhEujmLGdQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70432061/acastro_200302_3922_SuperTuesday_gavel.0.0.jpg' width='700px' /><br/>
-The Federal Trade Commission (FTC) has fined Fashion Nova, a California fast-fashion retailer, $4.2 million to settle allegations that it blocked negative product reviews from being posted on its website. The agency says this is its first case to challenge the practice of suppressing negative customer reviews.
-<a href='https://www.theverge.com/2022/1/25/22901435/ftc-fines-fashion-nova-allegedly-blocking-negative-customer-reviews'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oTcIqU_xi83rcd74DOu0spZ2Wqw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70432796/VRG_ILLO_3512_001.0.jpg' width='700px' /><br/>
-More than two years after it was first announced, the Facebook-sponsored cryptocurrency formerly known as Libra appears to be coming to an end. The Diem Association set up by Facebook to manage the digital token is exploring a sale of its assets after meeting resistance by regulators who opposed the initiative, according to a new report by Bloomberg.
-<a href='https://www.theverge.com/2022/1/25/22901830/facebook-meta-libra-diem-crypto-project-explores-sale'> Source <a/>

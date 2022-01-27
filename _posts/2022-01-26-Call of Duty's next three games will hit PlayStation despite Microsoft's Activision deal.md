@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QxhUkWTlEmxwZcMdfmapWdJ0OH0=/0x0:2040x1360/1200x800/filters:focal(854x410:1180x736)/cdn.vox-cdn.com/uploads/chorus_image/image/70432512/vpavic_4278_20201030_0247.0.jpg' width='700px' /><br/>
-Activision plans to release at least the next three Call of Duty games on both Sony and Microsoft consoles, Bloomberg reports. The new report should be a sigh of relief to fans who were worried Microsoft would immediately make new Call of Duty games Xbox exclusive if its blockbuster acquisition of Activision goes through.
-<a href='https://www.theverge.com/2022/1/25/22901676/call-of-duty-sony-playstation-microsoft-xbox-activision-acquisition-deal'> Source <a/>

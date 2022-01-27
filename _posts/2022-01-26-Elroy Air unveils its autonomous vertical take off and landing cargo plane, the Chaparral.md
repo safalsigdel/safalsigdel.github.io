@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TgtCdomopdT8AbXvMv37afRfKXk=/0x0:4500x3000/1200x800/filters:focal(1890x1140:2610x1860)/cdn.vox-cdn.com/uploads/chorus_image/image/70434019/ElroyAirChaparral_4.0.jpg' width='700px' /><br/>
-Elroy Air, a startup that wants to make cargo deliveries using autonomous hybrid-electric aircraft, has unveiled its pre-production craft: the Chapparral.
-<a href='https://www.theverge.com/2022/1/26/22902351/elroy-air-chaparral-autonomous-vtol-electric-hybrid-cargo-plane'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/eWE2sb2fUwel_ZXYV7hAE-q3BTs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70437117/acastro_210831_1777_0001.0.jpg' width='700px' /><br/>
+Apple has identified and is rolling out a fix for the bug that intermittently prevented third-party apps from syncing in iCloud (via 9to5Mac). In a response to a developer on Apple's community forum, Apple says it has “investigated this issue on the CloudKit backend, and have implemented a fix.”
+<a href='https://www.theverge.com/2022/1/26/22903351/apple-fix-icloud-syncing-problems'> Source <a/>

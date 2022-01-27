@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bGhoQYgNYtKgXItJdm4CZR_5MCQ=/0x0:5248x3499/1200x800/filters:focal(2904x1398:3742x2236)/cdn.vox-cdn.com/uploads/chorus_image/image/70436415/dseifert-nest-audio-4225-1.0.0.jpeg' width='700px' /><br/>
+If your Google Assistant-powered smart home display or speaker is rambling on and on after you asked it for the weather, you can now tell it to “stop” without having to say “Hey Google” first. It's a small, but welcome, change and one that makes interacting with a digital assistant just a little more natural.
+<a href='https://www.theverge.com/2022/1/26/22902901/google-assistant-stop-command-no-hey-google-alarms'> Source <a/>

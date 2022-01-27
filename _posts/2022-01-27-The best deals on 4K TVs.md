@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LVTeLlXAd707GKGXPrt4q0fZiGM=/0x0:2708x1523/1200x800/filters:focal(1138x546:1570x978)/cdn.vox-cdn.com/uploads/chorus_image/image/69151214/LG_C1_Lifestyle_Photo.23.jpeg' width='700px' /><br/>
+With CES 2022 having just wrapped, the future looks bright if you're looking to nab a great TV deal. At CES, many manufacturers — including LG and Samsung — announced new versions of some of their most popular models, ranging from The Frame to LG's new C2 lineup. That means we're probably going to start seeing prices fall on last-gen models as newer models become available throughout the rest of the year.
+<a href='https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl'> Source <a/>

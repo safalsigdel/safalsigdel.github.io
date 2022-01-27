@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1AVOMfKMMgZPZeXcetxdEx78dK4=/0x0:2160x1440/1200x800/filters:focal(908x548:1252x892)/cdn.vox-cdn.com/uploads/chorus_image/image/70436901/Cybertruck_6.0.jpg' width='700px' /><br/>
+Tesla's Cybertruck and Roadster will be delayed to “hopefully next year,” the company's CEO Elon Musk said in an earnings call Wednesday. The announcement confirms earlier reports that the electric pickup truck would miss its earlier production date of late 2022.
+<a href='https://www.theverge.com/2022/1/26/22903314/q4-2021-tesla-cybertruck-delayed-until-2023-elon-musk-earnings-call'> Source <a/>

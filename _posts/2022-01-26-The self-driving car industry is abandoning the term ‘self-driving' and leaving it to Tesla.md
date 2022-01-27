@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GRdX9H359sXb2AJVBwCnFiWSp4c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70433672/vpavic_181127_3122_0015.0.jpg' width='700px' /><br/>
-So long, Self-Driving Coalition for Safer Streets; hello, Autonomous Vehicle Industry Association!
-<a href='https://www.theverge.com/2022/1/26/22901349/self-driving-coaltion-rebrand-autonomous-vehicle-industry-tesla'> Source <a/>
