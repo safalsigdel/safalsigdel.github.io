@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uzGaYsMXcCd7PGOgCg2OOMrz0nY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70438123/ahawkins_211006_4810_0003.0.jpg' width='700px' /><br/>
-Lamborghini is accelerating into the world of the blockchain with the release of its first NFT (non-fungible token) next month. The Italian automaker, which is in the midst of an ambitious shift to hybrid and electric sports cars, announced that it would auction off a series of NFTs that it produced in collaboration with Swiss artist Fabian Oefner, as well as NFT Pro and Sotheby's.
-<a href='https://www.theverge.com/2022/1/27/22901181/lamborghini-nft-crypto-blockchain-winkelmann-interview'> Source <a/>

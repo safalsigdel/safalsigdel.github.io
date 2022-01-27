@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pZWBVlXTjzU8koJ-p2QIQSUGRKE=/0x0:3000x2000/1200x800/filters:focal(1281x577:1761x1057)/cdn.vox-cdn.com/uploads/chorus_image/image/70436827/1176615377.0.jpg' width='700px' /><br/>
-This week, Neil Young published an open letter demanding Spotify remove his music because he didn't want to share the platform with podcaster Joe Rogan. It appears Young is getting his wish, as Spotify is now removing his music, according to The Wall Street Journal.
-<a href='https://www.theverge.com/2022/1/26/22903354/spotify-joe-rogan-removing-neil-young-music'> Source <a/>

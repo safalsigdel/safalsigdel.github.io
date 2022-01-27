@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CtaYpcO9_WjNG2DQ_y5n5XrnjNI=/0x0:2040x1360/1200x675/filters:focal(731x369:1057x695)/cdn.vox-cdn.com/uploads/chorus_image/image/70438882/lvogel_220119_4968_0005.0.jpg' width='700px' /><br/>
-There are very few issues with the power to transcend partisan politics in Washington — and even fewer with the power to fracture parties and make bedfellows of Amy Klobuchar (D-MN) and Josh Hawley (R-MO). In an interview with The Verge on Tuesday, Klobuchar described how reigning in Big Tech has done just that.
-<a href='https://www.theverge.com/2022/1/27/22904320/amy-klobuchar-amazon-apple-facebook-google-antitrust-competition-bill'> Source <a/>
