@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wxoQO3jDhN16iyTBWoybko1UXM4=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70435471/495453921.0.jpg' width='700px' /><br/>
-Major tech companies are weighing in on a high-profile climate case in support of EPA greenhouse gas regulations. Apple, Amazon, Google, Meta, Microsoft, Netflix, Tesla, Paypal, and Salesforce are among the companies that filed a brief yesterday asking the Supreme Court to uphold the agency's authority to regulate the pollution causing climate change.
-<a href='https://www.theverge.com/2022/1/26/22902685/scotus-big-tech-epa-regulate-co2-emissions-climate'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/G0z-foOfxpGTzTz46eR66kgMLnc=/0x0:2040x1360/1200x800/filters:focal(1000x579:1326x905)/cdn.vox-cdn.com/uploads/chorus_image/image/70438935/cfaulkner_141231_4986_0005.0.jpg' width='700px' /><br/>
+Master & Dynamic has released a wireless gaming headset that could be easily mistaken for a set of deluxe headphones. It's called the MG20, and compared to the likes of Sony's 1000XM4 and Bose's QC45s, it aims higher in terms of build quality, with materials like steel and leather in place of plastic and leatherette.
+<a href='https://www.theverge.com/22900752/master-dynamic-mg20-review-gaming-headset-specs-performance'> Source <a/>
