@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MsE80AN1Bj4Zb7Qix9rKJgrdH7Q=/0x0:2436x1125/1200x800/filters:focal(1034x350:1422x738)/cdn.vox-cdn.com/uploads/chorus_image/image/70443231/IMG_1764.0.jpeg' width='700px' /><br/>
+Fortnite hasn't been available on iOS since Apple yanked it from the App Store in August 2020, but I've been able to play it on my iPhone once again thanks to a closed beta on Nvidia's GeForce Now cloud gaming service. While it's not quite as seamless an experience as using a native app, this GeForce Now loophole works a lot better than I expected.
+<a href='https://www.theverge.com/2022/1/28/22905241/fortnite-ios-geforce-now-closed-beta'> Source <a/>
