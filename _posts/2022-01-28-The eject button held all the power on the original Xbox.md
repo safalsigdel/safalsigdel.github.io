@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JcwVVCmYWwAFWYTgdVuJlUa10bE=/0x0:2040x1360/1200x800/filters:focal(1328x550:1654x876)/cdn.vox-cdn.com/uploads/chorus_image/image/70443354/akrales_220124_4964_0049.0.jpg' width='700px' /><br/>
+The most important button on the original Xbox wasn't the power button: it was the button to eject the disc tray.
+<a href='https://www.theverge.com/2022/1/28/22882755/microsoft-xbox-disc-tray-eject-button-gaming-change'> Source <a/>
