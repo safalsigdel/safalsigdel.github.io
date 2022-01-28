@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/T6nTSwLG2z2-sNrDpw-P6UK_LUM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70439767/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
+Understanding your broadband speeds could be just as simple as reading the nutrition label on the back of the food you buy at the grocery store as soon as the end of this year.
+<a href='https://www.theverge.com/2022/1/27/22904705/broadband-nutrition-labels-internet-service-rosenworcel-biden-competition'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o9GmBL5UOB06eCt1HueoXRnZ7tY=/0x0:2040x1361/1200x675/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/70440340/adbenedetto_220119_4976_0012.0.jpg' width='700px' /><br/>
+Antonio G. Di Benedetto is relatively new to The Verge, but he brings with him a load of talent in a variety of specialties. Besides being a commerce writer, he is an experienced photographer, a tech experimenter, a gamer, and a fountain pen enthusiast.
+<a href='https://www.theverge.com/22901281/desk-tour-setup-tech-gadgets-antonio-di-benedetto-cameras'> Source <a/>

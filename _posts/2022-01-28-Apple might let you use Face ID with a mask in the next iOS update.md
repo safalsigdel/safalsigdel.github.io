@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O9WVYkzIbwr6yt3Z0djaHs8gQXM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70440338/akrales_201017_4238_0054.0.0.jpg' width='700px' /><br/>
+Apple appears to be testing a feature that will let you use Face ID to unlock the phone even when wearing a mask. The first developer beta for iOS 15.4 has a screen that asks if you want to be able to use Face ID while wearing a mask, at the cost of reduced security, according to photos from Brandon Butch on Twitter and MacRumors. Unfortunately, the feature will only be available if you've got a newer device according to 9to5Mac.
+<a href='https://www.theverge.com/2022/1/27/22904908/apple-ios-15-4-beta-1-developer-face-id-mask'> Source <a/>

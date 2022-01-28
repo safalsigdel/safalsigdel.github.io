@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/e2tMIMpfnY2rH3jylZpxQIjzJKQ=/0x0:1300x1300/1200x800/filters:focal(451x414:659x622)/cdn.vox-cdn.com/uploads/chorus_image/image/70440791/new_emojis_ios_15_4_emojiepdia.0.jpg' width='700px' /><br/>
+iOS 15.4 will include a new crop of emoji, including a melting face, someone saluting, beans, and a slightly uncomfortable biting lip icon. As usual, the new emoji and variations of existing emoji are coming thanks to a new version of the Unicode standard that dictates the standard set of pictographs that get added to our devices.
+<a href='https://www.theverge.com/2022/1/27/22904966/emoji-14-ios-15-4-biting-lip-bubbles-unicode'> Source <a/>

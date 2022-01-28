@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/77XDzUia0Wvsr3PBJn4dVYevWJY=/0x0:1080x720/1200x800/filters:focal(678x276:850x448)/cdn.vox-cdn.com/uploads/chorus_image/image/70440821/wyze_cam_6.0.jpg' width='700px' /><br/>
+The original giant killer in the smart home camera space, the WyzeCam (v1), is saying sayonara just shy of its fifth birthday. The company emailed its customers this week to say it will no longer sell or support its original product, as the camera can't support a necessary security update.
+<a href='https://www.theverge.com/2022/1/27/22904844/wyze-discontinues-smart-security-camera-wyzecam-v1'> Source <a/>

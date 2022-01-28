@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ORR6KWWKoSM4AURdrLE_QsNUJXs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70440999/acastro_200714_1777_peacock_0001.0.jpg' width='700px' /><br/>
+Comcast executives announced today that Peacock reached 24.5 million monthly active accounts in the US at the end of 2021, with more than 9 million of those being paid members. To continue growing that number, Peacock plans to double its content budget to around $3 billion in 2022 alone.
+<a href='https://www.theverge.com/2022/1/27/22905079/peacock-24-5-million-subscribers-9-million-paid-q4-earnings-2022'> Source <a/>

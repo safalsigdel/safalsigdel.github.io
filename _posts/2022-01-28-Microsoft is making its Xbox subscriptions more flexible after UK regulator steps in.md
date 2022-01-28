@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KvgUMNE7Uv9J6mZpqQfR2Q1xO3I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70439967/acastro_210429_1777_0003.0.jpg' width='700px' /><br/>
+Microsoft is making its Xbox subscriptions a little more flexible after a UK regulator raised concerns. The UK's Competition and Markets Authority (CMA) “has secured undertakings with Microsoft” that will improve accidental renewals for Xbox Live Gold or Xbox Game Pass subscriptions.
+<a href='https://www.theverge.com/2022/1/27/22904713/microsoft-xbox-subscriptions-changes-uk-cma-regulator'> Source <a/>

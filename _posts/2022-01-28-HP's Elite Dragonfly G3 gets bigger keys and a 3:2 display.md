@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kjnv7gSv0Ojl0N2VRe3KokUIOjU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70441242/akrales_220126_4991_0035.0.jpg' width='700px' /><br/>
+HP has overhauled its Elite Dragonfly with some significant changes, some of which will likely be welcome in consumer and business circles alike, and some of which may be... controversial. We got a chance to try out a prototype of the new Elite Dragonfly G3, which isn't performance-ready but gives us an idea of what the new chassis will look and feel like.
+<a href='https://www.theverge.com/2022/1/27/22905107/hp-elite-dragonfly-g3-aspect-ratio-keyboard-intel-12th-gen-update-hands-on'> Source <a/>

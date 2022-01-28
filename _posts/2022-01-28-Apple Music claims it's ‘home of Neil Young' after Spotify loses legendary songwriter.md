@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Kfs8Tisqr8ekIIkxqoOOwhh0eT4=/0x0:2278x1134/1200x800/filters:focal(359x59:723x423)/cdn.vox-cdn.com/uploads/chorus_image/image/70442835/Screenshot_2022_01_28_at_11.24.08.0.png' width='700px' /><br/>
+Earlier this week, Neil Young pulled his music from Spotify after falling out with the platform over its hosting of Joe Rogan and COVID misinformation. So now, of course, rival streamer Apple Music is courting Young and his fans, sending out tweets, playlists, and even push notifications to brand itself as “The home of Neil Young.”
+<a href='https://www.theverge.com/2022/1/28/22906063/spotify-neil-young-apple-music-joe-rogan-feud'> Source <a/>
