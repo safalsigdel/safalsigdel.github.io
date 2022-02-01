@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QmgNCS9CpkO4mKO268Xq-I8fhk4=/0x0:5000x3327/1200x800/filters:focal(2100x1264:2900x2064)/cdn.vox-cdn.com/uploads/chorus_image/image/70456886/1237080438.0.jpg' width='700px' /><br/>
+Tesla is disabling a self-driving feature in nearly 54,000 vehicles that can prompt cars to autonomously perform a “rolling stop” — a maneuver in which the vehicle moves slowly through a stop sign without coming to a full stop.
+<a href='https://www.theverge.com/2022/2/1/22912099/tesla-rolling-stop-disable-recall-nhtsa-update'> Source <a/>

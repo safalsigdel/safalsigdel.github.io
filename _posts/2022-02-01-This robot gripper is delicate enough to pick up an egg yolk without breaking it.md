@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qStRajeV8a58Ij-cCn-d3liZZc4=/0x0:1000x751/1200x800/filters:focal(420x296:580x456)/cdn.vox-cdn.com/uploads/chorus_image/image/70452981/Jie_Yin_gripper_yolk_CROPEDIT.0.png' width='700px' /><br/>
-Designing robots that can handle fragile items is a big challenge for engineers. For warehouses, robots have been developed that use soft rubber fingers to grab items like fruit, but what about targets that are even more delicate? Like, say, a raw egg yolk?
-<a href='https://www.theverge.com/2022/1/31/22910269/robot-gripper-kirigami-egg-yolk-north-carolina-state'> Source <a/>

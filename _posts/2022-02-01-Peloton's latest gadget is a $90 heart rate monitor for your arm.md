@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U4qicWeGLvTGlAHh0ouUy5mFjKw=/0x0:8011x5343/1200x800/filters:focal(3629x2069:4909x3349)/cdn.vox-cdn.com/uploads/chorus_image/image/70452931/Peloton_Heart_Rate_Band_embargo_1.31_930amET.0.jpg' width='700px' /><br/>
-It's not a rower or the forthcoming Peloton Guide, but Peloton announced today that it's releasing a new Bluetooth heart rate monitor. Unlike its existing chest strap, the Peloton Heart Rate Band is meant to be worn on a user's forearm and features optical heart rate sensors.
-<a href='https://www.theverge.com/2022/1/31/22906352/peloton-heart-rate-band-fitness-tracking'> Source <a/>
