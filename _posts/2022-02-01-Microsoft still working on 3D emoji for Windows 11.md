@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/n-9p_UOTRQ3cSUUiLp8dxb6O_sM=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70452325/3demoji.0.jpg' width='700px' /><br/>
-Microsoft appears to still be working on true 3D emoji for Windows after first teasing it last year and then only shipping 2D versions in Windows 11. Nando Costa, a distinguished designer at Microsoft, revealed recently that the company is still working on making Windows 11's emoji look more 3D.
-<a href='https://www.theverge.com/2022/1/31/22910171/microsoft-3d-emoji-windows-11-work'> Source <a/>
