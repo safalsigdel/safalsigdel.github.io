@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bbmCIbIl5I50M269r62zB6IKlUw=/0x0:1609x905/1200x800/filters:focal(677x325:933x581)/cdn.vox-cdn.com/uploads/chorus_image/image/70455351/Screen_Shot_2022_01_31_at_3.29.19_PM.0.jpeg' width='700px' /><br/>
+Tesla last week released its latest distraction product: a set of karaoke microphones dubbed TeslaMic for use in its vehicles (via Electrek) and works with accompanied in-car software. The accessory, which is only available in China for now, was released alongside a Chinese New Year software update that includes a companion karaoke app called Leishi KTV.
+<a href='https://www.theverge.com/2022/1/31/22910462/tesla-karaoke-microphones-teslamic-distraction-merchandise-roundup'> Source <a/>

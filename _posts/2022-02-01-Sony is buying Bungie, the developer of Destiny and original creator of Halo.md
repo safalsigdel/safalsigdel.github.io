@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Of3wXIeS_ohi558ovfesUAP4tmU=/0x0:1088x612/1200x800/filters:focal(457x219:631x393)/cdn.vox-cdn.com/uploads/chorus_image/image/70453863/8f2d141dbfa9c1dd61befc2de0a92266.5.jpeg' width='700px' /><br/>
+Sony is buying Bungie, the developer of Destiny and the original creator of Halo, for $3.6 billion. The acquisition arrives shortly after Microsoft's announcement that it intends to acquire Activision Blizzard in a deal worth $68.7 billion. Bungie will “continue to independently publish and creatively develop our games,” Bungie CEO Pete Parsons writes in a blog post.
+<a href='https://www.theverge.com/22910846/sony-bungie-acquisition-playstation-destiny-halo'> Source <a/>

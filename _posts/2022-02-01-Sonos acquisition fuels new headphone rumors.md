@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dbU0lmj0G8cYSIBjqL4OoAI5Sm4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70456617/sonoslede.0.jpg' width='700px' /><br/>
+Sonos has acquired the Bluetooth audio startup T2 Software, Protocol reports, adding fuel to rumors that Sonos is developing its own headphones. T2 had been working on implementations of the new Bluetooth LE Audio standard and LC3 codec, which delivers better audio quality at lower bitrates for improved headphone battery life.
+<a href='https://www.theverge.com/2022/2/1/22912007/sonos-t2-software-bluetooth-startup-le-audio-lc3-codec'> Source <a/>

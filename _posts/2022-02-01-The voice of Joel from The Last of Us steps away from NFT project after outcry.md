@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4PoTN8H7dEF_pbGvhou_12x5aAc=/0x0:3600x2396/1200x800/filters:focal(2012x857:2588x1433)/cdn.vox-cdn.com/uploads/chorus_image/image/70454228/1179060049.0.jpg' width='700px' /><br/>
+Troy Baker, a prominent voice actor perhaps best known for playing Joel in The Last of Us, is stepping away from an NFT partnership following significant outcry. In the early hours of January 14th, Baker announced on Twitter that he would be partnering with a company called Voiceverse, which creates “Voice NFTs” that each have a “unique AI-generated voice map,” but he now says he won't continue the partnership.
+<a href='https://www.theverge.com/2022/1/31/22910633/troy-baker-voiceverse-nft-voice-actor-project-the-last-of-us'> Source <a/>

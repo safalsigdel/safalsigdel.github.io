@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hZ8zCQlgw1sFTWn14JCVyhi62i0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70455230/jbareham_180213_2301_0139.0.jpg' width='700px' /><br/>
+Tesla's new vehicles rolling out of the factory will include a bizarre feature designed to prevent abuse of the seat adjustment controls. The new seats will track and measure the amount of adjustments users make and will disable the controls if they detect “excessive” changes. The feature was first identified by @greentheonly, an anonymous hacker and researcher, and subsequently covered by Jalopnik.
+<a href='https://www.theverge.com/2022/1/31/22911072/tesla-seat-controls-disable-lock-out-brose'> Source <a/>
