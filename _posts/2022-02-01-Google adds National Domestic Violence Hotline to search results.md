@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0GtHa5AtW2rvzUhgGT6XrU-5mOo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70458066/acastro_210121_1777_google_0001.0.jpg' width='700px' /><br/>
+Google search results for domestic violence-related topics now show a box with contact information for the National Domestic Violence Hotline, the tech giant and the hotline announced today.
+<a href='https://www.theverge.com/2022/2/1/22912167/google-domestic-violence-hotline-search'> Source <a/>
