@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mBa2U0SMEBcdulqiC5rFKs_o2uo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70453330/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
-A Charlotte, North Carolina man has pleaded guilty to charges of mail fraud after stealing and reselling merchandise from an Amazon warehouse, the Department of Justice said in a news release.
-<a href='https://www.theverge.com/2022/1/31/22910289/amazon-warehouse-manager-pleads-guilty-mail-fraud'> Source <a/>
