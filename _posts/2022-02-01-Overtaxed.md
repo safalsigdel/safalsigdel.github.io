@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IJ2aj87_XzDNjEneIby-VkrIkB8=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70452545/acastro_220128_4980_0001.0.jpg' width='700px' /><br/>
+Browsing r/Accounting, two things become apparent: first, we are entering what accountants call “busy season,” and second, a lot of public accountants are triumphantly quitting. In one recent post, titled “Put in my notice, I am fleeing public accounting baby!!,” commenters congratulate the poster on their escape. “I think I am about to be done,” reads another post. “When is the best time to bail from PA?” asks a third.
+<a href='https://www.theverge.com/2022/1/31/22903016/public-accountants-big-quit-memes-reddit'> Source <a/>

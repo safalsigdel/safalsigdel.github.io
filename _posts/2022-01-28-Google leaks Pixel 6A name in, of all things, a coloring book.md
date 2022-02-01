@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FZXU2sQrE7UGBxLV37Hpr_bnTK8=/0x0:5120x2880/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/70442668/google_pixel_6a_leak.0.jpeg' width='700px' /><br/>
-A Google-produced coloring book may have just offered the first official mention of the Pixel 6A, the rumored affordable followup to last year's flagship Pixel 6 and 6 Pro, Droid-Life reports. The coloring book was sent out alongside a Nest Audio smart speaker to members of Google's Pixel Superfans group, which was launched last year to provide a “VIP experience for Pixel lovers” including access to “limited-edition swag.”
-<a href='https://www.theverge.com/2022/1/28/22906019/pixel-6a-coloring-book-leak'> Source <a/>

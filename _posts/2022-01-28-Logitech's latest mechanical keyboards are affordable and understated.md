@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1lTLM4u6qTfJuvTVOJQbIeXz7fw=/0x0:6657x4438/1200x800/filters:focal(4351x1601:5415x2665)/cdn.vox-cdn.com/uploads/chorus_image/image/70442779/High_Resolution_PNG_G413_TKL_FOB_US.0.jpg' width='700px' /><br/>
-Logitech has announced a pair of new wired mechanical keyboards, G413 SE and G413 TKL. The first is a fullsize keyboard costing $79.99, and the second is a tenkeyless model, which omits the numpad for a more compact footprint and costs $69.99.
-<a href='https://www.theverge.com/2022/1/28/22906058/logitech-g413-se-tkl-wired-mechanical-keyboards'> Source <a/>

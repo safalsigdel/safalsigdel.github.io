@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ANZOlvQ0ovtgmngkGCdIQAnzbMg=/0x0:878x584/1200x800/filters:focal(369x222:509x362)/cdn.vox-cdn.com/uploads/chorus_image/image/70454928/boe_500_hz_monitor.0.jpg' width='700px' /><br/>
+The world's fastest esports gaming monitors can refresh at 360Hz — that's 360 times every second — but display panel manufacturer BOE thinks it can do better. This past week, it revealed a 27-inch prototype monitor with a 500Hz refresh rate, according to a Sina.com news report from an account dubbed OLEDIndustry (via Videocardz and Wccftech).
+<a href='https://www.theverge.com/2022/1/31/22911067/boe-500-hz-gaming-monitor-high-refresh-rate'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Tv5qI3J9VbcEX31RglUjXIfbVZg=/0x0:5255x3582/1200x800/filters:focal(709x2349:1549x3189)/cdn.vox-cdn.com/uploads/chorus_image/image/70441662/1233237286.0.jpg' width='700px' /><br/>
-In the lead-up to AT&T and Verizon's rollout of their upgraded 5G C-band equipment, it seemed like the sky was falling.
-<a href='https://www.theverge.com/2022/1/27/22899835/att-verizon-5g-rollout-major-airlines-regional-airports-faa-restrictions'> Source <a/>

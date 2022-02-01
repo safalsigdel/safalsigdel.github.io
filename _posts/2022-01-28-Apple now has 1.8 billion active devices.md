@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D--vlKbxkH_UpciFXk7A9wOML5U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70442801/acastro_190218_1777_apple_streaming_0003.0.jpg' width='700px' /><br/>
-Apple made more money than ever during the holiday season, and its growth during 2021 has helped the company add 150 million more active devices. During an earnings call with investors last night, Apple CEO Tim Cook revealed that Apple now has 1.8 billion active devices.
-<a href='https://www.theverge.com/2022/1/28/22906071/apple-1-8-billion-active-devices-stats'> Source <a/>

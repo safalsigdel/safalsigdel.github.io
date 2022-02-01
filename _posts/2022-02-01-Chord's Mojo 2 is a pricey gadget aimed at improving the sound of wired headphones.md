@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1CVNztJGAHDiaprJcKq9IKuPzxA=/0x0:3403x2269/1200x800/filters:focal(1430x863:1974x1407)/cdn.vox-cdn.com/uploads/chorus_image/image/70452281/_KE20231_HDR.0.jpg' width='700px' /><br/>
+British audio manufacturer Chord has announced a successor to the excellent Mojo, a battery-powered accessory that aims to improve the sound of your wired headphones or speakers when paired with your phone, laptop, tablet, or other digital media source. New features for the Mojo 2 include a USB-C input, better battery life, and new tone controls that effectively work like an equalizer to customize the sound it puts out.
+<a href='https://www.theverge.com/2022/1/31/22906141/chord-mojo-2-dac-digital-analogue-converter-wired-headphones-audio'> Source <a/>

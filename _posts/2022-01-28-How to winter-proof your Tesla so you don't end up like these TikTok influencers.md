@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AX9Wu-FBlAXlriQJKT4BEAPSRSI=/0x0:962x721/1200x800/filters:focal(238x290:390x442)/cdn.vox-cdn.com/uploads/chorus_image/image/70440712/IMG_1130.0.jpeg' width='700px' /><br/>
-Online influencers have been vital to the success of many products on the market today, none more so than Tesla. Online creators are fond of showing off the car and its features, which helped spur Elon Musk into the spotlight as our first influencer CEO. But now that it's wintertime, some influencers are noticing their Teslas aren't faring that well in icy conditions.
-<a href='https://www.theverge.com/22903498/tesla-ev-winter-tips-electric-cars-tiktok'> Source <a/>

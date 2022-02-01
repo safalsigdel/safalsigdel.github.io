@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6K5JX2TMhtZzLqxmvWEKkkgZpRE=/0x0:6016x3384/1200x800/filters:focal(2527x1211:3489x2173)/cdn.vox-cdn.com/uploads/chorus_image/image/70440022/hyper_scape_2.0.jpg' width='700px' /><br/>
-In a move no one saw coming because not that many people were playing the game in the first place, Hyper Scape, Ubisoft's attempt to get in on the increasingly bloated battle royale market, will be shutting down on April 28th. On Hyper Scape's website, the announcement reads:
-<a href='https://www.theverge.com/2022/1/27/22904775/ubisoft-hyper-scape-cancelled-battle-royale'> Source <a/>

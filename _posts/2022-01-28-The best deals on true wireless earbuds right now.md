@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gq8ZYjFQX9KVdjmnG0le0SLqUlk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/68898292/bfarsace_201130_4322_0001.0.0.jpg' width='700px' /><br/>
-When it comes to true wireless earbuds, there are a ton of brands and products to choose from. Whether you need something fitness-oriented, like the Beats Powerbeats Pro, or a pair with powerful noise cancellation, like Sony's WF-1000XM4, there's a pair of wireless earbuds for just about everyone. Some, like the UE Fits, even comfort to the shape of your ears, offering a level of fit and comfort that is second to none.
-<a href='https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats'> Source <a/>

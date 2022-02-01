@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D08rsrL82cofAHPWMSsspabWSH8=/0x0:2148x1522/1200x800/filters:focal(903x590:1245x932)/cdn.vox-cdn.com/uploads/chorus_image/image/70442103/dewalt_dcb094k.0.jpg' width='700px' /><br/>
-Power tool batteries are some of the densest lithium-ion packs lying around your house (or construction site), but they rarely play nice with the kind of chargers and batteries that top up your laptop, phone and PC. That might be about to change — Ryobi and DeWalt are testing the waters with USB-C powered battery options, and one of them looks seriously neat.
-<a href='https://www.theverge.com/2022/1/27/22905482/dewalt-ryobi-milwaukee-usb-c-power-tool-batteries'> Source <a/>

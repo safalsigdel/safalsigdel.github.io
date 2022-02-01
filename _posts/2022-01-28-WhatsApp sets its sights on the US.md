@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bbWcp_BtEF61g1NueW1JarCUp-g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70442959/acastro_210119_1777_whatsapp_0003.0.jpg' width='700px' /><br/>
-With more than 2 billion users, WhatsApp is already one of the most popular messaging apps in the world. But its largest markets are all outside of the US. Now, Facebook, the parent company of WhatsApp that recently rebranded to Meta, is hoping to change that.
-<a href='https://www.theverge.com/2022/1/28/22904967/whatsapp-meta-us-marketing-push-apple-imessage'> Source <a/>
