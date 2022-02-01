@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SH2UvtZVladytXJla4UUC-N7kRE=/0x0:5035x3356/1200x800/filters:focal(2116x1276:2920x2080)/cdn.vox-cdn.com/uploads/chorus_image/image/70455809/1182969931.0.jpg' width='700px' /><br/>
-After multiple rebrands, congressional hearings, and several high-profile staff departures, the Meta-backed cryptocurrency known as Diem is calling it quits.
-<a href='https://www.theverge.com/2022/1/31/22911426/meta-diem-cryptocurrency-confirms-sale'> Source <a/>

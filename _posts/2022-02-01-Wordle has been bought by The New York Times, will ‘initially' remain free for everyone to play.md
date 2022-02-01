@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gkzGZzKyXQTAwjJoa81ZY3Y9o2I=/0x0:1664x1010/1200x800/filters:focal(699x372:965x638)/cdn.vox-cdn.com/uploads/chorus_image/image/70455196/Screen_Shot_2022_01_31_at_4.43.22_PM.0.png' width='700px' /><br/>
-The smash online word game Wordle has been bought by The New York Times, which will integrate the daily word puzzle into The New York Times Games suite of word games, creator Josh Wardle announced today.
-<a href='https://www.theverge.com/2022/1/31/22911274/wordle-new-york-times-free-word-game-acquisition'> Source <a/>

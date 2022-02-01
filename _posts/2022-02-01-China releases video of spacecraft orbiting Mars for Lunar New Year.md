@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Jzb4ayNl-rrLCrziFdfw7sVLoLk=/0x0:2506x1422/1200x800/filters:focal(1053x511:1453x911)/cdn.vox-cdn.com/uploads/chorus_image/image/70454066/Screen_Shot_2022_01_31_at_12.31.34_PM.0.png' width='700px' /><br/>
-China's first Mars orbiter, Tianwen-1, is showing off its journey around the Red Planet in a newly released selfie video ahead of the Chinese Lunar New Year. The brief clip, released Monday by the China National Space Administration, shows a good portion of the spacecraft's body, engines, and solar array zooming through space, with portions of Mars' surface appearing in the background.
-<a href='https://www.theverge.com/2022/1/31/22910712/china-tianwen-1-spacecraft-mars-orbiter-selfie-video'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Sm-bhEOaIzHy3dn_1ZdRMJMUloM=/0x0:2400x1600/1200x800/filters:focal(1008x608:1392x992)/cdn.vox-cdn.com/uploads/chorus_image/image/70457120/corsairps5ssd1.0.jpg' width='700px' /><br/>
-Corsair has launched a new line of PCIe 4.0 M.2 2280 SSDs made with PS5 compatibility in mind. The MP600 Pro LPX is now available in four capacities: 500GB, 1TB, 2TB, and a big 4TB drive. Each of these drives comes with an elegant heatsink pre-installed, making it easy to know that it'll have thermal protection, whether you put it in a PS5 or your PC.
-<a href='https://www.theverge.com/2022/2/1/22900857/corsair-ps5-m-2-pcie-4-ssd-speed-price-features'> Source <a/>
