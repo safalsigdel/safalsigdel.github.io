@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YYs25g5DtEURuodbG_mahE2r0Nw=/0x0:3000x2220/1200x800/filters:focal(1260x870:1740x1350)/cdn.vox-cdn.com/uploads/chorus_image/image/70456543/1183198474.0.jpg' width='700px' /><br/>
+Yahoo Japan has announced that most of its online services will cease to be accessible in the European Economic Area and the UK as of April 6th. The company's email, credit card, and ebook services will continue to be available, but everything else is going dark.
+<a href='https://www.theverge.com/2022/2/1/22911965/yahoo-japan-europe-offline-regulations-compliance-gdpr'> Source <a/>
