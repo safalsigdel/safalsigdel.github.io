@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sxkaZpb2knCINhnIGPobu7K3We0=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70459672/hextechmayhem.0.png' width='700px' /><br/>
+Netflix has announced that it's adding two new titles to its small but steadily growing lineup of mobile games — including Riot's newest League of Legends spinoff. Starting today, users can play Dungeon Dwarves and Hextech Mayhem on Android and iOS devices for free with a Netflix subscription.
+<a href='https://www.theverge.com/2022/2/1/22912706/riot-games-hextech-mayhem-netflix-mobile-exclusive'> Source <a/>

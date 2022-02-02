@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QJXHG3hKeW_4Yf7iDfVynep3h9A=/0x0:1878x1016/1200x800/filters:focal(789x358:1089x658)/cdn.vox-cdn.com/uploads/chorus_image/image/70459139/Screen_Shot_2022_02_01_at_2.56.52_PM.0.png' width='700px' /><br/>
+Netflix has finally added the option for users to manually delete shows and movies from their “Continue Watching” row. That means you can finally get rid of the half-finished documentaries that you gave up on or binge-watched TV shows that you never quite got around to finishing that haunt the row of Netflix's user interface.
+<a href='https://www.theverge.com/2022/2/1/22912474/netflix-continue-watching-row-remove-tv-shows-movies-update'> Source <a/>

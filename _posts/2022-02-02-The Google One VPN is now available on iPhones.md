@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-4-kUkLPTCXkvGu_uwT4CV_F5YY=/0x0:1718x1270/1200x800/filters:focal(722x498:996x772)/cdn.vox-cdn.com/uploads/chorus_image/image/70458594/Screen_Shot_2022_02_01_at_09.11.40.0.png' width='700px' /><br/>
+The VPN service that's included with a Google One Premium subscription is finally available on iPhones after Google's promise in October 2020 that it would come to iOS. While a Google-run VPN has been available on the platform for months via the Google Fi cell service, today's update means that anyone who pays for 2TB or more of Google One storage should now also get a VPN for their phone.
+<a href='https://www.theverge.com/2022/2/1/22912595/google-one-vpn-ios-iphone-new-features-safe-disconnect'> Source <a/>
