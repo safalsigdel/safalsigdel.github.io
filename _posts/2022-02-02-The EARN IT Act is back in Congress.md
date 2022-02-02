@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/s5QTOMkjsFga1nbFqeAA3Qqm53E=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70457953/VRG_ILLO_4450__001.0.jpg' width='700px' /><br/>
 Senators Richard Blumenthal (D-CT) and Lindsey Graham (R-SC) have reintroduced the EARN IT Act, a bill that would undercut Section 230 of the Communications Decency Act.
+<a href='https://www.theverge.com/2022/2/1/22912387/earn-it-act-section-230-amendment-reintroduced'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/s5QTOMkjsFga1nbFqeAA3Qqm53E=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70457953/VRG_ILLO_4450__001.0.jpg' width='700px' /><br/>
+Senators Richard Blumenthal (D-CT) and Lindsey Graham (R-SC) have reintroduced the EARN IT Act, a bill that would undercut Section 230 of the Communications Decency Act.
 <a href='https://www.theverge.com/2022/2/1/22912387/earn-it-act-section-230-amendment-reintroduced'> Source <a/>
