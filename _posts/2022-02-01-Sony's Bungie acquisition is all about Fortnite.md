@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PqsxLKcErWn1XzP9MnciHb5iNlA=/0x0:1920x1080/1200x675/filters:focal(1052x0:1358x306)/cdn.vox-cdn.com/uploads/chorus_image/image/70457107/destiny_2_witch_queen__16_.0.jpg' width='700px' /><br/>
-Microsoft has Minecraft, Epic Games has Fortnite, and Sony now has Destiny. In a $3.6 billion deal, Sony is acquiring Bungie, the game studio famous for creating the Halo and Destiny universes. It's a big deal, in a month already full of massive deals. It's also backed by some equally big promises from Bungie about its independence, the future of Destiny, and commitments to multiplatform games.
-<a href='https://www.theverge.com/2022/2/1/22912075/sony-bungie-acquisition-fortnite-playstation-destiny-live-service-games'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/68L79SH7OlcwW4UH3OPPlE7jRZg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70459591/acastro_180130_1777_0001.0.jpg' width='700px' /><br/>
+Google parent company Alphabet hit a new record for annual revenue in 2021, showing no ill effects from the lingering coronavirus pandemic or ongoing issues with the global supply chain. For full-year 2021, the company saw a 41 percent year-over-year jump in revenue to $257 billion. The company reported revenue of $75.3 billion in the fourth quarter of 2021, up 32 percent from the year earlier.
+<a href='https://www.theverge.com/2022/2/1/22912196/google-alphabet-200-billion-annual-revenue-youtube-pixel-search'> Source <a/>
