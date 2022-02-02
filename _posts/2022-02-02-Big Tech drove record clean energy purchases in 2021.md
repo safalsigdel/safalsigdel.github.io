@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/RFCnDcDkxoiltCAoMvVujtILOYY=/0x0:3504x2336/1200x800/filters:focal(1472x888:2032x1448)/cdn.vox-cdn.com/uploads/chorus_image/image/70458140/794645427.0.jpg' width='700px' /><br/>
 Tech companies drove a surge in corporate purchases of clean energy last year, according to a new analysis by BloombergNEF.
+<a href='https://www.theverge.com/2022/2/1/22912183/big-tech-record-clean-energy-purchases-2021'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/RFCnDcDkxoiltCAoMvVujtILOYY=/0x0:3504x2336/1200x800/filters:focal(1472x888:2032x1448)/cdn.vox-cdn.com/uploads/chorus_image/image/70458140/794645427.0.jpg' width='700px' /><br/>
+Tech companies drove a surge in corporate purchases of clean energy last year, according to a new analysis by BloombergNEF.
 <a href='https://www.theverge.com/2022/2/1/22912183/big-tech-record-clean-energy-purchases-2021'> Source <a/>
