@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nOK4iHdqiwd2Qtv_-mCzmCfFW2Q=/0x0:4400x2475/1200x800/filters:focal(0x949:704x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/70461804/GoTo_App___Meeting_Settings__In_Session__.0.png' width='700px' /><br/>
+LogMeIn, the company that owns remote collaboration software like GoTo Meeting and password management company LastPass is changing its name to GoTo. The rebranding comes after the company reported over $1 billion in revenue and that “GoTo” product usage is growing — including a 36 percent year-over-year sales increase of its GoTo Connect VoIP, video conferencing, and collaboration platform.
+<a href='https://www.theverge.com/2022/2/2/22912367/logmein-rebranding-as-goto-like-gotomeeting'> Source <a/>
