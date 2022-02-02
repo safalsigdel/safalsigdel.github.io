@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-3Gl9T8Qpj_FXEMX9cMBTkuzMks=/0x0:2040x1360/1200x800/filters:focal(883x585:1209x911)/cdn.vox-cdn.com/uploads/chorus_image/image/70461567/ajohnson_220124_4990_0002.0.jpg' width='700px' /><br/>
+The Galaxy A13 5G doesn't offer much in the way of surprises, good or bad. For $249, it's a reliable device with good performance, healthy battery life, and a decent camera. None of this comes as a surprise because Samsung makes a lot of these kinds of phones, and it's something the company is very good at.
+<a href='https://www.theverge.com/22907086/samsung-galaxy-a13-5g-review-price-screen-specs'> Source <a/>

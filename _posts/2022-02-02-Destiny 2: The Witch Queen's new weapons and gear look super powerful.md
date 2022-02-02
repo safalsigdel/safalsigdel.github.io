@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zkm_QKbitucLQGgA2KqwisN9fSo=/0x0:2560x1440/1200x0/filters:focal(0x0:2560x1440):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23209797/86zQjiM.jpeg' width='700px' /><br/>
-Hot off the heels of Sony's Bungie acquisition news, Bungie is in full teaser mode for Destiny 2: The Witch Queen. The latest Destiny 2 expansion launches on February 22nd, and it's set to include a trio of new exotic weapons. Destiny 2 already has some incredibly unique weapons, but these three look like they will up the ante.
-<a href='https://www.theverge.com/2022/2/1/22912334/destiny-2-the-witch-queen-exotic-weapons-grand-overture-parasite-osteo-striga'> Source <a/>
