@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IXjR5dvirS-QL-d1LvYZmGoohB8=/0x0:815x514/1200x800/filters:focal(343x192:473x322)/cdn.vox-cdn.com/uploads/chorus_image/image/70458847/wordle_right_click_save.0.jpg' width='700px' /><br/>
-Wordle is the pandemic game we didn't know we needed, so there's understandably some fear that its brand-new owner, The New York Times, might eventually ruin it somehow.
-<a href='https://www.theverge.com/2022/2/1/22912711/wordle-web-save-download-webpage-local-personal'> Source <a/>

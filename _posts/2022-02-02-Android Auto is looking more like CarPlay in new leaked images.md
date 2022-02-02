@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mHfZxMuuNEB5TfigDhLdTpwLass=/0x298:4000x2379/1200x800/filters:focal(1680x1180:2320x1820)/cdn.vox-cdn.com/uploads/chorus_image/image/70458973/android_auto_coolwalk.0.jpeg' width='700px' /><br/>
-More images of Android Auto's next major redesign have been leaked, and it looks like Google has been taking some notes from Apple CarPlay (via XDA Developers). As seen in images from AndroidWorld and Reddit user u/RegionRat91, the redesign, codenamed “Coolwalk,” could come with several practical changes.
-<a href='https://www.theverge.com/2022/2/1/22912496/android-auto-coolwalk-ui-carplay-leaked-images'> Source <a/>

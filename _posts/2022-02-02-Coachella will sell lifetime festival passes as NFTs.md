@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SxPqasqkrLn8ZyGST8EEmvrQcmo=/0x0:2000x1000/1200x800/filters:focal(849x121:1169x441)/cdn.vox-cdn.com/uploads/chorus_image/image/70458270/Coachella_NFTs__HERO_.0.png' width='700px' /><br/>
-Coachella is selling lifetime festival passes for the first time — but you have to buy an NFT to get one. The music festival today launched an NFT marketplace built by FTX US, with three collections of NFTs going on sale on February 4th.
-<a href='https://www.theverge.com/2022/2/1/22912255/coachella-lifetime-passes-nfts'> Source <a/>
