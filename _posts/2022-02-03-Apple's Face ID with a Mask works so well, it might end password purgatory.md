@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/qLV8yuEVaqjyloWOVBDpMZjAirM=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/70462662/_DSC7975_2.0.jpg' width='700px' /><br/>
 Nearly two years into the COVID-19 pandemic, Apple has made Face ID useful again in iOS 15.4 by finally adding the ability to use the face unlock feature while wearing a face mask.
+<a href='https://www.theverge.com/2022/2/2/22912677/apple-face-id-mask-update-ios-15-4-beta-hands-on-impressions'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/qLV8yuEVaqjyloWOVBDpMZjAirM=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/70462662/_DSC7975_2.0.jpg' width='700px' /><br/>
+Nearly two years into the COVID-19 pandemic, Apple has made Face ID useful again in iOS 15.4 by finally adding the ability to use the face unlock feature while wearing a face mask.
 <a href='https://www.theverge.com/2022/2/2/22912677/apple-face-id-mask-update-ios-15-4-beta-hands-on-impressions'> Source <a/>

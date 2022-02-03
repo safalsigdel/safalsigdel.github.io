@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/2cn7UJ4iatxorwlQTXErGLBMhRg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70462530/tesla_model_y_3543.0.jpg' width='700px' /><br/>
 Tesla vehicles are inexplicably slamming on their brakes for no reason, frightening owners and eliciting over 100 complaints to the federal government in the last three months alone, according to The Washington Post.
+<a href='https://www.theverge.com/2022/2/2/22914236/tesla-phantom-braking-complaints-nhtsa-fsd'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/2cn7UJ4iatxorwlQTXErGLBMhRg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70462530/tesla_model_y_3543.0.jpg' width='700px' /><br/>
+Tesla vehicles are inexplicably slamming on their brakes for no reason, frightening owners and eliciting over 100 complaints to the federal government in the last three months alone, according to The Washington Post.
 <a href='https://www.theverge.com/2022/2/2/22914236/tesla-phantom-braking-complaints-nhtsa-fsd'> Source <a/>
