@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uA5eHi25vXWgE4xuB6wCgBDZbDQ=/0x0:1920x1080/1200x800/filters:focal(496x370:802x676)/cdn.vox-cdn.com/uploads/chorus_image/image/70466645/19BR_Sleek_Screenshot_Social.0.jpg' width='700px' /><br/>
+The celebrity ranks of Fortnite's battle royale continue to grow, with the game adding two more musical stars in the form of Bruno Mars and Anderson .Paak. The duo, who perform together under the moniker Silk Sonic, will be available in the Fortnite item shop starting on February 10th. (Though players will have a chance to get them early via an in-game tournament on February 7th.)
+<a href='https://www.theverge.com/2022/2/3/22915003/fortnite-bruno-mars-anderson-paak'> Source <a/>
