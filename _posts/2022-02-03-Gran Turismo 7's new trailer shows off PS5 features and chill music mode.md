@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bF8w03hk67vJd8b2sFgFl3BTeJI=/0x0:3240x2160/1200x0/filters:focal(0x0:3240x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23210589/BrandCentral_02.jpg' width='700px' /><br/>
+Sony's latest State of Play presentation offered a closer look at the cars, tracks, and game modes that Gran Turismo 7 will deliver when it launches on PS5 and PS4 on March 4th, 2022. Beyond offering a deep car simulator experience with a hefty amount of customization options for each car, there are some new and returning features that should give returning fans (or first-time players) plenty to do.
+<a href='https://www.theverge.com/2022/2/2/22911417/gran-turismo-7-modes-multiplayer-graphics-cars-trailer-state-of-play'> Source <a/>

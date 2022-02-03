@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0EsT4vK9UXiLcGswL39K7K_o-7s=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70464215/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
+Workers at a second Amazon warehouse on Staten Island in New York City have petitioned the National Labor Relations Board (NLRB) to join a union, according to the Amazon Labor Union. The group tweeted it had electronically filed a petition for election for workers at the LDJ5 warehouse. NLRB spokesperson Kayla Blado said Wednesday afternoon it had not yet received the petition, however.
+<a href='https://www.theverge.com/2022/2/2/22914807/amazon-workers-warehouse-nyc-petition-nlrb-union-organize'> Source <a/>

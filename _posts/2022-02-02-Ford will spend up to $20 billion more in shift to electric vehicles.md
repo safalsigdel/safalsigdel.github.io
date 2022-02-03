@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tALpaUHQ0ua9BkksezRVdHZ4FLI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70459025/akrales_20210526_4595_0029.0.jpg' width='700px' /><br/>
-Ford will spend as much as $20 billion to reorganize its business for the electric future, according to Bloomberg. The automaker is also mulling whether to spin off some of its EV business as a special acquisition company (SPAC) in order to attract more investment. Ford has previously stated that it would spend $30 billion on electric and autonomous vehicle development by 2025.
-<a href='https://www.theverge.com/2022/2/1/22912841/ford-electric-vehicle-reorganization-investment'> Source <a/>

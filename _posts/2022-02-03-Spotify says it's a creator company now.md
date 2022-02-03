@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vpbReh-EAgQ2K8MmmhPryM30bro=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70464533/acastro_180213_1777_0001.0.jpg' width='700px' /><br/>
+Spotify released its quarterly earnings today during a particularly fraught time for the company. Its star podcaster, Joe Rogan, spurred multiple musicians to pull their discographies from the platform over his show's spreading of misinformation; Spotify-employed podcasters themselves spoke out, and even the White House responded.
+<a href='https://www.theverge.com/2022/2/2/22914720/spotify-q4-earnings-creators-audio-podcast-joe-rogan'> Source <a/>

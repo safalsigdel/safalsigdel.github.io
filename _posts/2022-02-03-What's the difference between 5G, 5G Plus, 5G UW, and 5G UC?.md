@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M9Ka6-ep4eaVtqn9jTDCcWLfOto=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70464383/acastro_180430_1777_5G_0001.0.0.0.jpg' width='700px' /><br/>
+If you've noticed cryptic new icons popping up on your phone next to the 5G logo, you're not alone. Carriers are expanding their 5G networks in a big way this year, and those little “UW” and “UC” logos you're suddenly seeing represent the different varieties of 5G you're encountering in the wild. Like Pokxc3xa9mon, but way more confusing.
+<a href='https://www.theverge.com/22914668/5g-uw-uc-icon-meaning-verizon-att-t-mobile'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UFqY8c5Ee0Zs9MWZFDjIM5k7IuI=/0x0:4966x3275/1200x800/filters:focal(2086x1241:2880x2035)/cdn.vox-cdn.com/uploads/chorus_image/image/70463385/1238132585.0.jpg' width='700px' /><br/>
+The European Commission inflamed tensions over what role nuclear energy and gas should play in the clean energy transition when it proposed new rules today on what can be labeled a “green investment.” After more than a year of heated debate, it decided to consider gas and nuclear “sustainable” under certain conditions.
+<a href='https://www.theverge.com/2022/2/2/22914195/eu-nuclear-energy-gas-sustainable-climate-investment'> Source <a/>
