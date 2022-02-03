@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/77QKfQM048i3YaG12r6_eSCrfyA=/0x0:2200x1467/1200x800/filters:focal(924x558:1276x910)/cdn.vox-cdn.com/uploads/chorus_image/image/70466023/20170822_Sean_Hollister_Verge_2.0.jpg' width='700px' /><br/>
+GameStop plans to launch its own marketplace for non-fungible tokens (or NFTs) and is co-creating an “up to $100 million” fund for game developers who use it. The marketplace will mark GameStop's expansion from a popular meme stock to a company that dabbles in cryptocurrency and Web3 tech — although it may also provoke the wrath of gamers who are stridently opposed to NFTs.
+<a href='https://www.theverge.com/2022/2/3/22914855/gamestop-nft-marketplace-immutable-x-ethereum-announcement'> Source <a/>

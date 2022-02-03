@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YvFrr0gR_1UsAYdyy4QG6ieD0lM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70461616/vpavic_4278_20201030_0120.5.jpg' width='700px' /><br/>
-Sony's surprise acquisition of Bungie earlier this week for $3.6 billion was about a lot more than just Destiny. In an investor call today, Sony has revealed it plans to launch more than 10 new live service games by March 2026. That's a hugely ambitious plan, and marks a major expansion for Sony's PlayStation games beyond its traditional console exclusives.
-<a href='https://www.theverge.com/2022/2/2/22914016/sony-playstation-live-service-games-launch-march-2026'> Source <a/>
