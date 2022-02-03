@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gPaRB7eTBXjIQJhuSNmFnCcFgRk=/0x0:5000x3335/1200x800/filters:focal(2100x1268:2900x2068)/cdn.vox-cdn.com/uploads/chorus_image/image/70461239/Polestar_2_Arctic_Circle_A__1_.0.jpg' width='700px' /><br/>
-Polestar, the electric automaker jointly owned by Volvo and Geely, likes one-offs. There was the more powerful version of its electric fastback Polestar 2 sedan made for the Goodwood Festival of Speed. And now there's the Arctic Circle, a high-riding, studded winter-tire-sporting, icy blast of winter racing prowess from the company's Swedish engineers (who know how to design a vehicle for snow riding).
-<a href='https://www.theverge.com/2022/2/2/22913533/polestar-arctic-circle-electric-fastback-one-off-snow-test'> Source <a/>
