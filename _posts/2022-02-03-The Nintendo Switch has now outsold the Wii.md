@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Th5I0Q9NS13AgAel-QhsRi2zFyw=/0x0:2040x1360/1200x800/filters:focal(1193x532:1519x858)/cdn.vox-cdn.com/uploads/chorus_image/image/70465761/cfaulkner_210921_4751_0003.0.jpg' width='700px' /><br/>
+The Nintendo Switch had a relatively strong holiday quarter, with 10.67 million units shipped between October and December despite the global semiconductor shortage. That brings the system's lifetime total to 103.54 million units shipped, meaning it took just under five years to overtake the Wii's 101.63 million.
+<a href='https://www.theverge.com/2022/2/3/22915715/nintendo-earnings-q3-2021-switch-sales-forecast'> Source <a/>

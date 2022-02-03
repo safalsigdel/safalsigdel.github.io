@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/xVHGqe5TXucvvRDSYLP8Nhz_-Us=/0x0:2560x1435/1200x800/filters:focal(1076x514:1484x922)/cdn.vox-cdn.com/uploads/chorus_image/image/70462486/vizio_pseries_quantum_2021.0.png' width='700px' /><br/>
 Hump Day is better when it's paired with excellent deals, and excellent deals are all the better when one of them is a great TV for a new low price.
-<a href='https://www.theverge.com/good-deals/2022/2/2/22914043/vizio-p-series-tv-apple-airpods-max-samsung-galaxy-buds-pro-anker-soundcore-liberty-deal-sale'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/xVHGqe5TXucvvRDSYLP8Nhz_-Us=/0x0:2560x1435/1200x800/filters:focal(1076x514:1484x922)/cdn.vox-cdn.com/uploads/chorus_image/image/70462486/vizio_pseries_quantum_2021.0.png' width='700px' /><br/>
-Hump Day is better when it's paired with excellent deals, and excellent deals are all the better when one of them is a great TV for a new low price.
 <a href='https://www.theverge.com/good-deals/2022/2/2/22914043/vizio-p-series-tv-apple-airpods-max-samsung-galaxy-buds-pro-anker-soundcore-liberty-deal-sale'> Source <a/>
