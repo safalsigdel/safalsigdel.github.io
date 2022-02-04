@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OOUAIzg1fq5flTLsXXOL74lhJv8=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70467967/vpavic_4412_20210111_0003.0.jpg' width='700px' /><br/>
+On Wednesday, Congress held its first hearing on autonomous vehicles in over two years, and there was not a lot to show for it. At the end of the four-and-a-half-hour event, there was no indication that lawmakers were any closer to a consensus on how best to regulate this rapidly emerging technology.
+<a href='https://www.theverge.com/2022/2/3/22916045/congress-autonomous-vehicle-hearing-av-start-legislation'> Source <a/>

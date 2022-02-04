@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ooF8IN5t5k1wQEopfAsgNIqprIk=/0x0:2040x1360/1200x675/filters:focal(872x643:1198x969)/cdn.vox-cdn.com/uploads/chorus_image/image/70467582/akrales_210928_4764_0003.0.jpg' width='700px' /><br/>
+If you like the look of MSI's powerhouse, RGB-packed GE76 Raider, but the price tag and the massive chassis are too much for you to stomach, the GS76 Stealth may be more your speed. This laptop is the GE76 junior, in specs, weight, and also price.
+<a href='https://www.theverge.com/22916188/msi-gs76-stealth-review-17-inch-gaming-laptop-qhd'> Source <a/>

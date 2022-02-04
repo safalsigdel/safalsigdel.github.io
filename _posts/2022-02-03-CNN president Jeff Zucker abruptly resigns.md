@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gHTAfA3K9CDZQitsJQsMx88fPaM=/0x141:2595x1985/1200x800/filters:focal(953x618:1367x1032)/cdn.vox-cdn.com/uploads/chorus_image/image/70463115/1195415843.0.jpg' width='700px' /><br/>
-CNN president Jeff Zucker, a leading proponent of forthcoming streaming service CNN Plus, has resigned from the company following the discovery of a consensual relationship with another high-ranking executive.
-<a href='https://www.theverge.com/2022/2/2/22914592/cnn-jeff-zucker-resigns-romantic-relationship-colleague'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OD_2Rfl_MEUdnCkHRLhNDMSTpJ0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70464079/acastro_210817_4721_0001.0.jpg' width='700px' /><br/>
-Here are some recent five-star reviews of the Apple Podcasts app in Apple's own App Store.
-<a href='https://www.theverge.com/2022/2/2/22914612/apple-podcasts-app-rating-user-reviews-problem'> Source <a/>

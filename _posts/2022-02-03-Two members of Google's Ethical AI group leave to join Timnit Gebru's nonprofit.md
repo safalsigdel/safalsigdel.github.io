@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_7IvybxrKkPwYGnzozJpVkeu-xM=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/70464654/1028811892.0.jpg' width='700px' /><br/>
-Two members of Google's Ethical AI group have announced their departures from the company, according to a report from Bloomberg. Senior researcher Alex Hanna, and software engineer Dylan Baker, will join Timnit Gebru's nonprofit research institute, Distributed AI Research (DAIR).
-<a href='https://www.theverge.com/2022/2/2/22915079/google-ethical-ai-group-departure-timnit-gebru'> Source <a/>

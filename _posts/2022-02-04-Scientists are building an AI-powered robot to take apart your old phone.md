@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OlRkWO7PrLt04vx-2YAZboYQkMM=/0x0:5000x3750/1200x800/filters:focal(2021x1563:2821x2363)/cdn.vox-cdn.com/uploads/chorus_image/image/70466872/1084203064.0.jpg' width='700px' /><br/>
+In 2016, Apple announced that it had developed a recycling robot, called Liam, that could deconstruct an iPhone in 11 seconds. Six years and several machine generations later, Apple still won't disclose how many iPhones its robots have recycled for parts.
+<a href='https://www.theverge.com/2022/2/3/22914422/smartphone-recycling-robot-ai-ewaste'> Source <a/>

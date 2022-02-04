@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QgOS_fzHZ435KK4iDewMyYvjM_Q=/0x0:2040x1360/1200x800/filters:focal(1208x584:1534x910)/cdn.vox-cdn.com/uploads/chorus_image/image/70468388/vpavic_201214_4405_0361.0.jpg' width='700px' /><br/>
+If you've ever wondered whether drug dealers might just fly packets of powder over the border wall with inexpensive consumer drones, wonder no more — the US Border Patrol caught a DJI Mini 2 dead to rights dropping off its own weight in meth last October.
+<a href='https://www.theverge.com/2022/2/3/22916246/dji-mini-2-drone-smuggle-meth-us-mexico-border-wall'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RUNRTDl_F9y-ccLySk58n0L3HWU=/0x0:3360x2100/1200x800/filters:focal(1412x782:1948x1318)/cdn.vox-cdn.com/uploads/chorus_image/image/70466380/Untitled.0.png' width='700px' /><br/>
-Motorola is back with its latest refresh of its budget stylus phone, the Moto G Stylus. The new 2022 model keeps the same $299 price tag as last year's version, but promises improvements in battery life, a faster refresh rate, and upgraded cameras over the old model.
-<a href='https://www.theverge.com/2022/2/3/22914918/motorola-2022-moto-g-stylus-refresh-90hz-display-battery-processor-camera'> Source <a/>

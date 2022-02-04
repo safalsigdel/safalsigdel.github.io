@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T0dGongAg6aXIjrpHYdD0lwz_7M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70466039/acastro_180509_1777_steam_0002.0.jpg' width='700px' /><br/>
-Valve is starting to let Steam users see the size of a game before they attempt to install it. Library pages of games will finally list the total space required for a game, without having to first click install to see the disk space details and estimated download time. It's a minor change that's rolling out as part of a beta update to Steam this week, meaning it should be live for all Steam users in the coming weeks.
-<a href='https://www.theverge.com/2022/2/3/22915826/steam-game-size-before-download-or-install-ui-change'> Source <a/>
