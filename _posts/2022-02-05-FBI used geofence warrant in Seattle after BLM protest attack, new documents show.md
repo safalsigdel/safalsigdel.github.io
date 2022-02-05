@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SwDnw0N317tozbA-vB_NJMJyrzU=/0x0:4200x2800/1200x800/filters:focal(1764x1064:2436x1736)/cdn.vox-cdn.com/uploads/chorus_image/image/70474676/1228279206.0.jpg' width='700px' /><br/>
+Federal investigators served Google with a geofence warrant as part of an investigation into an attempted arson against a police union headquarters in Seattle during protests of the shooting of Jacob Blake, as shown by documents unsealed today in federal court.
+<a href='https://www.theverge.com/2022/2/5/22918487/fbi-geofence-seattle-blm-protest-police-guild-attack'> Source <a/>
