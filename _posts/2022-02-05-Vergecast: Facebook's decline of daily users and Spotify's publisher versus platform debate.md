@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/UdxmO4lPxZteyMGpdRb5mMz0yVQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70471494/Facebook_ads.0.jpg' width='700px' /><br/>
 Every Friday, The Verge publishes our flagship podcast, The Vergecast, where we discuss the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/2022/2/4/22917738/meta-earnings-spotify-joe-rogan-controversy-vergecast-podcast-484'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/UdxmO4lPxZteyMGpdRb5mMz0yVQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70471494/Facebook_ads.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where we discuss the week in tech news with the reporters and editors covering the biggest stories.
 <a href='https://www.theverge.com/2022/2/4/22917738/meta-earnings-spotify-joe-rogan-controversy-vergecast-podcast-484'> Source <a/>
