@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/F1tQlpmAPIQfMVOc_bGJhOqkoa4=/0x0:1358x764/1200x800/filters:focal(571x274:787x490)/cdn.vox-cdn.com/uploads/chorus_image/image/70470986/roku_stream_bar_pro.0.jpeg' width='700px' /><br/>
 We've arrived at the end of another week, folks. And while today may be unapologetically February, we can always brighten things up a bit with some deals.
-<a href='https://www.theverge.com/2022/2/4/22915989/roku-streambar-pro-soundbar-apple-watch-samsung-galaxy-watch-4-xbox-deal-sale'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/F1tQlpmAPIQfMVOc_bGJhOqkoa4=/0x0:1358x764/1200x800/filters:focal(571x274:787x490)/cdn.vox-cdn.com/uploads/chorus_image/image/70470986/roku_stream_bar_pro.0.jpeg' width='700px' /><br/>
-We've arrived at the end of another week, folks. And while today may be unapologetically February, we can always brighten things up a bit with some deals.
 <a href='https://www.theverge.com/2022/2/4/22915989/roku-streambar-pro-soundbar-apple-watch-samsung-galaxy-watch-4-xbox-deal-sale'> Source <a/>

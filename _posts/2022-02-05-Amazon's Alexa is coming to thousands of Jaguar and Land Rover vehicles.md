@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/a5DKobk4w0IWVu4Oucvw08LaK00=/0x0:2075x1383/1200x800/filters:focal(872x526:1204x858)/cdn.vox-cdn.com/uploads/chorus_image/image/70472717/Jag_I_PACE_Alexa_Interior_020222_02_0.0.jpeg' width='700px' /><br/>
 Jaguar Land Rover announced a software update this week that offers deep Alexa integration for newer vehicle models (via Bloomberg).
-<a href='https://www.theverge.com/2022/2/4/22917857/jaguar-land-rover-alexa-ota-software-update'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/a5DKobk4w0IWVu4Oucvw08LaK00=/0x0:2075x1383/1200x800/filters:focal(872x526:1204x858)/cdn.vox-cdn.com/uploads/chorus_image/image/70472717/Jag_I_PACE_Alexa_Interior_020222_02_0.0.jpeg' width='700px' /><br/>
-Jaguar Land Rover announced a software update this week that offers deep Alexa integration for newer vehicle models (via Bloomberg).
 <a href='https://www.theverge.com/2022/2/4/22917857/jaguar-land-rover-alexa-ota-software-update'> Source <a/>
