@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AGgoJMKBvknrsVYiSzeoW1OuQfw=/0x0:3606x2404/1200x800/filters:focal(838x1332:1414x1908)/cdn.vox-cdn.com/uploads/chorus_image/image/70472484/1298903274.0.jpg' width='700px' /><br/>
+On Thursday, after a month of confusion, delays, and canceled flights related to Verizon and AT&T's rollout of 5G C-Band networks, the House Committee on Transportation and Infrastructure held a hearing to “discuss the impact that deployment of 5G technologies has on the aviation industry.”
+<a href='https://www.theverge.com/2022/2/4/22917018/5g-c-band-airplanes-house-committee-transportation-infrastructure-faa-fcc'> Source <a/>
