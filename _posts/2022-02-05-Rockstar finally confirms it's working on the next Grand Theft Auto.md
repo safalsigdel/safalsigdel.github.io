@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dDhFttGKObfmGnCnI6oZD8MhwiM=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70471352/480_3840.0.jpg' width='700px' /><br/>
+A new entry in the Grand Theft Auto series is in active development, Rockstar Games has confirmed. “We are pleased to confirm that active development for the next entry in the Grand Theft Auto series is well underway,” the company wrote in a post on its website. In the more immediate future, GTAV and Grand Theft Auto Online will release on PS5 and Xbox Series X and S on March 15th.
+<a href='https://www.theverge.com/2022/2/4/22917783/rocstar-games-gta6-active-development-gta5-ps5-xbox-series-x-patch'> Source <a/>

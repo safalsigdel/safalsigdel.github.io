@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/g4C2O1FJn1GOLeQW6luceDpOumo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70466917/acastro_211101_1777_meta_0004.0.jpg' width='700px' /><br/>
-The price of shares in Meta — the parent company of Facebook, WhatsApp, Instagram, and Meta Quest (fka Oculus) — dropped more than 25 percent at the start of trading on Thursday, after it revealed its first-ever sequential decline in Facebook's daily active users. By the time the markets closed, the company had seen $230 billion in market value wiped out, the biggest one-day loss ever by a US company.
-<a href='https://www.theverge.com/2022/2/3/22916007/facebook-meta-stock-drop-history-invest'> Source <a/>

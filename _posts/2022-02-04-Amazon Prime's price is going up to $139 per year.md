@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2NxV2jI9VyWpzjaWsssS0fW20qI=/0x0:920x613/1200x800/filters:focal(387x234:533x380)/cdn.vox-cdn.com/uploads/chorus_image/image/70468384/acastro_190920_1777_amazon_0003.0.0.0.jpg' width='700px' /><br/>
-Amazon is raising the price of Prime in the US to $139 per year, up from the $119 annual fee that was instated four years ago. The price hike is meant to address higher costs Amazon is facing across the board, from shipping to labor to construction, according to analysts.
-<a href='https://www.theverge.com/2022/2/3/22916438/amazon-prime-price-increase-139-us'> Source <a/>

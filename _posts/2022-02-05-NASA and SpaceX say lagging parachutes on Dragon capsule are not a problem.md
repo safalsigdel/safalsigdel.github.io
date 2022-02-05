@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Fgau9uG9VSm9Ljhxc575j4f5Xpw=/0x0:2532x1398/1200x800/filters:focal(1064x497:1468x901)/cdn.vox-cdn.com/uploads/chorus_image/image/70472527/Screen_Shot_2022_02_04_at_1.36.24_PM.0.png' width='700px' /><br/>
+NASA and SpaceX say they are looking into a recurring issue with lagging parachutes on SpaceX's Crew Dragon capsule — critical features the spacecraft needs to land when it returns from orbit. However, the two spaceflight partners are downplaying the seriousness of the problem, claiming that the parachutes are still behaving safely despite the behavior.
+<a href='https://www.theverge.com/2022/2/4/22914726/spacex-crew-dragon-lagging-parachutes-nasa-landing'> Source <a/>

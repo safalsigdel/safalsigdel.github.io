@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nWwvQENJyHioKgRgekmPqP7BdyI=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70467731/windows11darkmode.0.jpg' width='700px' /><br/>
-After revealing last week that Windows 11 is getting a bigger than usual update in February with Android apps, taskbar improvements, and much more, Microsoft is now detailing its plans for Windows 11 testing throughout 2022. The software maker says it plans to experiment more with features for Windows 11 testers to evaluate that may never ship.
-<a href='https://www.theverge.com/2022/2/3/22916118/microsoft-new-windows-11-features-experiment-test'> Source <a/>

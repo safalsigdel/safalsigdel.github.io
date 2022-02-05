@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OChYyrgd8lYv6yBYcFOqrEWF_8k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70468778/acastro_190723_1777_tiktok_0001.0.0.jpg' width='700px' /><br/>
-Snapchat invented the Stories format of sharing pictures and videos that disappear. Now the company is indicating, along with Facebook, that the future of social media looks more like TikTok.
-<a href='https://www.theverge.com/creators/2022/2/3/22916642/snapchat-and-facebook-future-of-social-media-tiktok'> Source <a/>

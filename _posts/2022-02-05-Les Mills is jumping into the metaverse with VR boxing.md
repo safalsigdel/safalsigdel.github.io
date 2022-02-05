@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3gRWp60ZGuhJZ5TSrkn3b8__QsE=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70471557/Les_Mills.0.jpg' width='700px' /><br/>
+Popular fitness club Les Mills is punching and kicking its way into the metaverse with a new VR game, BODYCOMBAT VR. The $29.99 game is an extension of an existing workout series that combines shadowboxing with martial arts and is available on the Meta Quest platform.
+<a href='https://www.theverge.com/2022/2/4/22917669/les-mills-quest-meta-fitness-vr-boxing-metaverse'> Source <a/>

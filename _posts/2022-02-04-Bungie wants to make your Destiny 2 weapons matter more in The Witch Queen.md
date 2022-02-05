@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Bt2XUtXSr454Zp0RnF7f9mPOOVo=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/70467711/image2.0.jpg' width='700px' /><br/>
-Bungie is getting ready to launch what could be one of the biggest expansions to Destiny 2 we've ever seen later this month, The Witch Queen. While the expansion will follow the story of Savathxc3xbbn, it also introduces new exotic weapons, weapon crafting, and big changes to the Destiny 2 sandbox.
-<a href='https://www.theverge.com/2022/2/3/22916193/destiny-2-the-witch-queen-weapons-sandbox-changes'> Source <a/>

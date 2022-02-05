@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rIHJMkOqnNlE2HKpjJ7bWnd_Mak=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70466760/cwelch_220130_4998_0005.0.jpg' width='700px' /><br/>
-TCL's first Google TVs were supposed to be a triumphant flex for the second most popular TV manufacturer in the US. Long known for its easy-to-use Roku TVs, TCL has been trying to push the message that it's adopting a platform-agnostic approach and will offer sets with software from either Roku or Google. (The company has already released many Android TV models internationally.)
-<a href='https://www.theverge.com/22914122/tcl-6-series-google-tv-r646-review-mini-led'> Source <a/>

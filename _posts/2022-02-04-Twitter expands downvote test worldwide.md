@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HHs8Sfz45aV-yqynpPDDO5RoYjc=/0x1240:3308x3308/1200x800/filters:focal(1393x1166:1921x1694)/cdn.vox-cdn.com/uploads/chorus_image/image/70470172/FKs9bP1X0AYbY4D.0.jpeg' width='700px' /><br/>
-If you've seen the option to downvote replies on Twitter, you're not alone. The experimental feature, which Twitter started testing last year, is now being shown to a global audience, says the company.
-<a href='https://www.theverge.com/2022/2/4/22917511/twitter-downvotes-test-experiment-feature-relevant-replies'> Source <a/>

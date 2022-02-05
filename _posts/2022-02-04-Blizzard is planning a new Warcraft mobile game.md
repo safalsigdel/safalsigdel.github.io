@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_4HMUPMS-Ky739-M8T6p3tW6MeM=/0x0:1000x600/1200x800/filters:focal(420x220:580x380)/cdn.vox-cdn.com/uploads/chorus_image/image/70468662/wow_movie_screenwriter.0.jpg' width='700px' /><br/>
-Nestled in today's Activision Blizzard's quarterly earnings report (which was curiously delivered as a press release and not a traditional call ostensibly because of its pending acquisition by Microsoft and possibly the myriad other things going on over there) is the news Blizzard is working on a new Warcraft mobile title slated for a 2022 release.
-<a href='https://www.theverge.com/2022/2/3/22916663/activision-blizzard-warcraft-mobile-game-2022-release-date'> Source <a/>

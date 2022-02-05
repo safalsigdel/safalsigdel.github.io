@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GfVycORJeZfNvQnXwdaiKX1z5I0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70467357/acastro_210319_1777_nft_0001.0.jpg' width='700px' /><br/>
-On Wednesday, the decentralized finance (DeFi) platform Wormhole became the victim of the largest cryptocurrency theft this year — and among the top five largest crypto hacks of all time — when an attacker exploited a security flaw to make off with close to $325 million.
-<a href='https://www.theverge.com/2022/2/3/22916111/wormhole-hack-github-error-325-million-theft-ethereum-solana'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oXgTM7H98GlBrsmdVMXZCLaizjU=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70467828/Halo_Infinite_Multiplayer_4_4K_3840x2160_scaled.0.jpg' width='700px' /><br/>
-If you ask me, the best part of Halo Infinite is Big Team Battle, an epic 24-player mode that lets you squad up with up to 11 friends across Xbox, cloud, and Windows PC — but it's been riddled with matchmaking bugs that keep games from starting, kick out your buddies, or even crash the game. Today, 343 Industries is taking another stab at making things better with a new patch that's now live.
-<a href='https://www.theverge.com/2022/2/3/22916398/halo-infinite-patch-update-fix-big-team-battle-matchmaking'> Source <a/>

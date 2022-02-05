@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UlnQNUD7pHaFJuamR1HIMOnhtyA=/0x0:1000x417/1200x800/filters:focal(420x129:580x289)/cdn.vox-cdn.com/uploads/chorus_image/image/70469147/003_ESU_Chromebook_Repair_Program_Blog_Hea.max_1000x1000.0.png' width='700px' /><br/>
-Google announced today via its Google for Education blog that it's starting a repairability program to help schools fix Chromebooks in-house, and turn it into a valuable training opportunity for students looking into the IT field.
-<a href='https://www.theverge.com/2022/2/3/22916352/google-chromebook-repair-program-for-education-vs-windows'> Source <a/>
