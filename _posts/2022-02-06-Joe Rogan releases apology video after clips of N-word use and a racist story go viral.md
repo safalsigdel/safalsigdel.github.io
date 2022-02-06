@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xBHzCKfypY1-PFc2ULx1HpJ_ONg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70475249/mdoying_180308_1437_0030still.0.jpg' width='700px' /><br/>
+Just after Spotify removed around 70 episodes of Joe Rogan's podcast without offering an explanation, Rogan posted a video on Instagram apologizing for saying the N-word on his show in the past (via New York Times). In his apology, Rogan specifically addresses a clip compilation, which was shared by singer India Arie, that shows Rogan saying the N-word repeatedly during podcast episodes over several years.
+<a href='https://www.theverge.com/2022/2/5/22919271/spotify-joe-rogan-experience-slur-planet-of-the-apes'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GtHSdIFKAK9NzeSg8h3FkUjkQNQ=/590x0:1932x1012/1200x800/filters:focal(793x337:1115x659)/cdn.vox-cdn.com/uploads/chorus_image/image/70475524/chrome_logo_change.0.jpeg' width='700px' /><br/>
+Chrome is changing its logo for the first time since 2014, and if you squint really hard, you might actually be able to see what's different. Elvin Hu, a designer for Google Chrome, offers a first look at the logo's redesign in a thread on Twitter, as well as some of the thinking behind the ever-so-subtle changes.
+<a href='https://www.theverge.com/2022/2/5/22919398/chrome-logo-change-eight-years'> Source <a/>

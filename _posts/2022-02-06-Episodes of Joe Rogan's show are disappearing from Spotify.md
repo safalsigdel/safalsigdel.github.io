@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_Rt6D4mK0QyxopvAQ5YWMoBPCqE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70473868/acastro_180213_1777_0003.0.jpg' width='700px' /><br/>
+Update February 5th, 1PM ET: Spotify has not addressed the missing episodes, but since this story was published, Joe Rogan posted a five-minute apology video to Instagram addressing his use of the n-word and a story from a past podcast that called “a racist thing to say.”
+<a href='https://www.theverge.com/22918697/joe-rogan-experience-podcast-episodes-disappear-controversy'> Source <a/>

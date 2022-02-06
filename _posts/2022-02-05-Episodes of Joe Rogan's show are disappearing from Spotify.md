@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_Rt6D4mK0QyxopvAQ5YWMoBPCqE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70473868/acastro_180213_1777_0003.0.jpg' width='700px' /><br/>
-Around 70 episodes of Joe Rogan's podcast mysteriously disappeared from Spotify on Friday, as spotted by JREMissing.com, a web tool that tracks missing episodes. The show (and Spotify's relationship to it) have faced heavy criticism over the past few weeks, but there's no clear connection between that and the missing episodes, nor is there any immediately apparent link between the episodes that were removed.
-<a href='https://www.theverge.com/22918697/joe-rogan-experience-podcast-episodes-disappear-controversy'> Source <a/>
