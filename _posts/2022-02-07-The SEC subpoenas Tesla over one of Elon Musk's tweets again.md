@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RDNIsSJwi2BX13NjAjozWmR97O4=/0x0:3678x2706/1200x800/filters:focal(1545x1059:2133x1647)/cdn.vox-cdn.com/uploads/chorus_image/image/70479529/1234732042.0.jpg' width='700px' /><br/>
+The Securities and Exchange Commission issued a subpoena to Tesla over Elon Musk's 2018 tweet about taking the company private, according to Bloomberg.
+<a href='https://www.theverge.com/2022/2/7/22921648/tesla-sec-elon-musk-subpoena-tweet-poll-shares'> Source <a/>
