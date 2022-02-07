@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qi4u-66gSXu7nDnn6Z64NNKu1AM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70477296/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
+Twitter is exploring a new way to send DMs on iOS, and it involves letting users slide into your inbox through a link on your tweets, bypassing the DM button on your profile. The platform says this will make it easier to “start a conversation” from your timeline — but you can probably see how this can go very, very wrong.
+<a href='https://www.theverge.com/2022/2/6/22920547/twitter-direct-dm-test-terrible-idea-bullying-harassment'> Source <a/>

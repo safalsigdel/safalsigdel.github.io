@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0Gm3Wz31PN9gcmGKfBUhEv9M3kI=/0x0:3000x2000/1200x800/filters:focal(1273x121:1753x601)/cdn.vox-cdn.com/uploads/chorus_image/image/70478333/1327904144.0.jpg' width='700px' /><br/>
+Spotify CEO Daniel Ek addressed staff in a late night memo addressing Joe Rogan's use of the n-word and the mysterious removal of 70 podcast episodes earlier this week. The total number of deleted Joe Rogan Experience episodes is now 113, according to the website jremissing.com.
+<a href='https://www.theverge.com/2022/2/6/22921203/spotify-joe-rogan-episode-removal-internal-memo'> Source <a/>

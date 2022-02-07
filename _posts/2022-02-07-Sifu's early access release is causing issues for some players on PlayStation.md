@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aBlh63KaRDSsfVhIyf4XPvkCwRI=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70477852/SIFU_Reveal_Screenshot_1920x1080_CorridorAfter.0.png' width='700px' /><br/>
+Sifu was released today for anyone who preordered the deluxe edition of the kung-fu action-adventure, but those who bought it on PlayStation experienced some trouble downloading it (via TheGamer). While PlayStation says it has since resolved the issue, it looks like there are still some players having problems accessing the game.
+<a href='https://www.theverge.com/2022/2/6/22920844/sifu-early-access-release-playstation-problems'> Source <a/>

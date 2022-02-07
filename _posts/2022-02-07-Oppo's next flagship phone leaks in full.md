@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZhUnx3JjCd4pHnJLyYMan6hPU8Q=/0x0:420x266/1200x800/filters:focal(177x204:243x270)/cdn.vox-cdn.com/uploads/chorus_image/image/70477611/Oppo_Find_X5_Pro_5G_leak.0.png' width='700px' /><br/>
+After getting a glimpse at Oppo's upcoming flagship phone in January (which is said to be called the Find X5 Pro), a new leak from WinFuture gives us a pretty solid picture of what to expect, both in terms of design and technical specifications.
+<a href='https://www.theverge.com/2022/2/6/22920716/oppo-flagship-phone-leak-find-x5-pro-5g'> Source <a/>
