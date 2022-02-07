@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lgPNaG89E_E2qQ1hxFyIkAHZfH0=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/70473062/acastro_180213_1777_0004.0.jpg' width='700px' /><br/>
-All right, listen. This is not for those of you with Dewey Decimal mental filing systems or expertly curated music playlists that easily identify the music contained therein. But hear me out: we need music browser tabs in our music player apps.
-<a href='https://www.theverge.com/2022/2/4/22918410/browser-tabs-music-player-apps'> Source <a/>
