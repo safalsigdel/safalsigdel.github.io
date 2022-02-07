@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V5OukcNPbyL-47jHMAVZtm7BEtA=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70479148/VRG_ILLO_5000_ClaudiaCAkole_MIW3_GeesBendQuilts.0.jpg' width='700px' /><br/>
+Quilts made by generations of women in Gee's Bend, Alabama, have hung in the Met, the Whitney, and the Smithsonian Museum of Art. They've been shown at galleries and art fairs around the world. But if the quilters want to directly sell their world-famous quilts — vibrant, often asymmetrical, charismatic works, originally hand-stitched for warmth from scavenged fabric — they've had to wait for prospective buyers to come to them.
+<a href='https://www.theverge.com/22905288/gees-bend-quilters-etsy-online-sales'> Source <a/>

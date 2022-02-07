@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GKtOZGPW25ZxIgjqd5PIVGbmTME=/0x0:4000x2668/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70472386/1229664397.0.jpg' width='700px' /><br/>
-Electric and hybrid vehicles drove emissions from new cars in the UK down to a record low in 2021, according to new data from a local industry group. But more investments in charging stations and public transport are needed for the UK to meet its goal of cutting emissions by 78 percent by 2035.
-<a href='https://www.theverge.com/2022/2/4/22917801/emissions-new-cars-record-low-uk-electric-vehicles'> Source <a/>
