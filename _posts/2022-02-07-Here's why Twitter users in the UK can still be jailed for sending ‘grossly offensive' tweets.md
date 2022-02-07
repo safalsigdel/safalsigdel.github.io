@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O27xJ4Nn_E7z7itQpHjIqQp2a8E=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70479839/acastro_200715_1777_twitter_0003.0.0.jpg' width='700px' /><br/>
+It comes as a shock to many, but sending nasty tweets can be a criminal offense in the United Kingdom. Those found guilty can face fines, community service, and even time in jail.
+<a href='https://www.theverge.com/2022/2/7/22912054/uk-grossly-offensive-tweet-prosecution-section-127-2003-communications-act'> Source <a/>
