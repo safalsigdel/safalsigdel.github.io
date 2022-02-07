@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rU5wrh22omOt_i98_29xPG2mqOk=/0x0:1756x1170/1200x800/filters:focal(738x445:1018x725)/cdn.vox-cdn.com/uploads/chorus_image/image/70478635/Screen_Shot_2022_02_07_at_9.25.10_AM.0.jpg' width='700px' /><br/>
+Six Dr. Dre tracks that made their first appearance in GTA Online's The Contract update from last year are now available on music streaming services including Apple Music and Spotify, Rockstar Games has announced. As well as Dre himself, the tracks include appearances from guest artists like Eminem, Snoop Dogg, Anderson .Paak, Busta Rhymes, Nipsey Hussle, and Ty Dolla $ign.
+<a href='https://www.theverge.com/2022/2/7/22921413/gta-online-dr-dre-tracks-spotify-apple-music-streaming'> Source <a/>
