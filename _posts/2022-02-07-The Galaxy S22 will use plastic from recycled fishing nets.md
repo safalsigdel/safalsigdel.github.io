@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RR4jFGgLRq38d86TGC2rHPl5vrs=/0x0:1080x700/1200x800/filters:focal(454x264:626x436)/cdn.vox-cdn.com/uploads/chorus_image/image/70478551/s22U.0.jpg' width='700px' /><br/>
+The Galaxy S22 has leaked extensively, but there's only so much you can tell from renders. For example, it turns out that Samsung has created a “new material” to use in the product — one made from the plastic in discarded fishing nets.
+<a href='https://www.theverge.com/2022/2/7/22921361/galaxy-s22-plastic-recycled-fishing-nets'> Source <a/>
