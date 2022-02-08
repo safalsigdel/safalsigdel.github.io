@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/haglBHGz2cjszvzK65GRWC37UDU=/0x0:3684x2687/1200x800/filters:focal(1548x1050:2136x1638)/cdn.vox-cdn.com/uploads/chorus_image/image/70481619/Steam_Deck_case.0.jpg' width='700px' /><br/>
-Valve will finally start selling the $400 Steam Deck gaming handheld on February 25th, after a two-month delay — but you won't have to wait another minute to see hardware in reviewers' hands. GamersNexus, Linus Tech Tips, and The Phawx have now published extensive impressions to YouTube with the final version of the Steam Deck, giving us their thoughts on ergonomics, performance, battery life, and more.
-<a href='https://www.theverge.com/2022/2/7/22921979/valve-steam-deck-early-reviews-handheld-gaming-pc'> Source <a/>

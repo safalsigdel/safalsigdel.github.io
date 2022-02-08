@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/mI_o3KDL0_pYLVabZStkalb9KQM=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/70481708/1238248851.0.jpg' width='700px' /><br/>
-FuboTV is temporarily testing a new quarterly format that lumps together three months at once rather than the monthly subscriptions it usually offers. The change conveniently arrives just in time for two of the biggest sports events of the year: Super Bowl LVI and the Beijing 2022 Winter Olympics.
-<a href='https://www.theverge.com/2022/2/7/22922523/super-bowl-lvi-streaming-winter-olympics-fubotv-testing-quarterly-plans'> Source <a/>

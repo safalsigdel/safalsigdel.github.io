@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ynGBDDZvjmYGFly35E9avvu44zQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70483761/acastro_180828_1777_facebook_0001.0.jpg' width='700px' /><br/>
+In an opinion issued on Tuesday, the Oversight Board called on Facebook and Instagram to place tighter restrictions on sharing the addresses of private homes, intended as a protection against doxxing and targeted harassment.
+<a href='https://www.theverge.com/2022/2/8/22923388/facebook-doxxing-oversight-board-home-address-sharing-policy'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xbetLjDt9ZwbkHJQ0OE4K9bf9PA=/0x0:3000x2073/1200x800/filters:focal(1260x797:1740x1277)/cdn.vox-cdn.com/uploads/chorus_image/image/70480991/996295570.0.jpg' width='700px' /><br/>
-Frontier Airlines plans to acquire Spirit Airlines, both of which are known for offering cheaper flights than other airlines, in a deal worth $6.6 billion, the two companies announced Monday. While Frontier and Spirit claim they will become “America's most competitive ultra-low fare airline,” the acquisition will ultimately remove one airline from the market and potentially create less competition for more affordable flights.
-<a href='https://www.theverge.com/2022/2/7/22922142/frontier-spirit-airlines-acquisition'> Source <a/>

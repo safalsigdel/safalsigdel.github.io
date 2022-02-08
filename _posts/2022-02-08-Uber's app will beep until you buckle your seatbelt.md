@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_KGjbaMJV6fELPhqdIZzvEUaPNc=/0x0:4032x3024/1200x800/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/70483757/1310967778.0.jpg' width='700px' /><br/>
+Uber has no qualms about annoying its customers to pressure them to do something. The latest example is a new feature that will emit a series of chimes until passengers buckle their seatbelts.
+<a href='https://www.theverge.com/2022/2/8/22922484/uber-seatbelt-app-notifications-safety'> Source <a/>

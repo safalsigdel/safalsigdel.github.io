@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IqUONSLJmp_2KsTSfa_zfFXkuj4=/0x0:1429x802/1200x800/filters:focal(601x287:829x515)/cdn.vox-cdn.com/uploads/chorus_image/image/70483659/image001.0.jpg' width='700px' /><br/>
+Samsung is holding its Unpacked event on February 9th at 10AM ET / 7AM PT, where it's expected to announce its Galaxy S22 line of phones, alongside new Tab S8 tablets. The leaks and rumors (and hints from Samsung itself) make it seem unlikely that we'll be seeing a new Galaxy Note, but we could see an S22 Ultra that's more Note-like than ever.
+<a href='https://www.theverge.com/2022/2/8/22922789/samsung-unpacked-galaxy-s22-tab-s8-ultra-rumors-leaks-news'> Source <a/>

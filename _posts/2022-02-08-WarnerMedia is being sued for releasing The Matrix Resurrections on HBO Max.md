@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qO3Zd3NkzwBL1pRy4gyfyVkU1Os=/0x0:2700x1117/1200x800/filters:focal(852x326:1284x758)/cdn.vox-cdn.com/uploads/chorus_image/image/70481118/rev_1_MX4_TRLR_013rv2_High_Res_JPEG.0.jpeg' width='700px' /><br/>
-Another major studio is facing a lawsuit over the day-and-date releases of a highly anticipated title. Village Roadshow Films, which co-produced The Matrix Resurrections with Warner Bros., is suing WarnerMedia for releasing the film on HBO Max the same day it debuted in theaters.
-<a href='https://www.theverge.com/2022/2/7/22922237/warnermedia-warner-bros-sued-matrix-resurrections-hbo-max-release'> Source <a/>
