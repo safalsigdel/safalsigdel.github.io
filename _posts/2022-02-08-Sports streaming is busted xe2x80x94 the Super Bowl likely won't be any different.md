@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YsJwxjwELCtGkXJZ196vywYR-TY=/0x0:5472x3648/1200x800/filters:focal(2777x911:3651x1785)/cdn.vox-cdn.com/uploads/chorus_image/image/70480378/1238091558.0.jpg' width='700px' /><br/>
-There's a lot that can go wrong for cord-cutters, particularly when it comes to live sports:  buffering, crashing, login issues, you name it. It's almost certain that the next big US sporting event, Super Bowl LVI, will face many of the same hiccups — and that's especially true for anyone hoping to place bets on the big game.
-<a href='https://www.theverge.com/22910839/super-bowl-streaming-issues-sports-broken-lvi'> Source <a/>
