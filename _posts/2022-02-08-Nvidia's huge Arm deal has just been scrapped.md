@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/smJRDpQi-YGJeSpBTPO0o6v-G6Q=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70482117/957037018.5.jpg' width='700px' /><br/>
+Graphics giant Nvidia will no longer be spending $40 billion to acquire Arm, parent company SoftBank has announced, citing “significant regulatory challenges.” The news was first reported by the Financial Times.
+<a href='https://www.theverge.com/2022/2/7/22922731/nvidia-no-longer-buying-acquiring-arm-reportedly'> Source <a/>

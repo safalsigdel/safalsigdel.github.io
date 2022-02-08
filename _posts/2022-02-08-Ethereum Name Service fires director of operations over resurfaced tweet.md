@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iWjwVS0WJldr7ezg5K6JpP0B014=/0x0:2971x1981/1200x800/filters:focal(872x885:1346x1359)/cdn.vox-cdn.com/uploads/chorus_image/image/70480409/1235570383.0.jpg' width='700px' /><br/>
+Ethereum Name Service (ENS) fired its director of operations, Brantly Millegan, over derogatory comments he made about the LGBTQ community, according to CoinDesk. ENS founder Nick Johnson announced that True Names Limited, the nonprofit that backs the decentralized autonomous organization (DAO), terminated Millegan's contract.
+<a href='https://www.theverge.com/2022/2/7/22921674/ethereum-name-service-ens-remove-director-operations-resurfaced-tweet-brantly-millegan'> Source <a/>

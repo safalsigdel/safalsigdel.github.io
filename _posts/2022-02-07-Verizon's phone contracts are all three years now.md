@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/noK1tOamVGTALSiNTsoxecxTdE0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70477048/acastro_200109_1777_verizon_0002.0.0.jpg' width='700px' /><br/>
-If you're looking to buy a new phone at Verizon, you now only have two options: buy the device outright, or pay monthly installments for three years. As reported by Droid Life (via Android Police), Verizon appears to have gotten rid of its 24- and 30-month contracts for all devices — including phones, hot spots, and smartwatches — and has instead extended it to 36 months.
-<a href='https://www.theverge.com/2022/2/6/22920445/verizon-phone-contracts-three-years-36-months-payments'> Source <a/>

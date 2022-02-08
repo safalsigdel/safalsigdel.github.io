@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iZIfaN9TrSWU088wJIEYwsEG2gU=/0x0:6000x4000/1200x800/filters:focal(3079x1342:4039x2302)/cdn.vox-cdn.com/uploads/chorus_image/image/70481470/1167010564.0.jpg' width='700px' /><br/>
+Venture capitalist Peter Thiel is stepping down from his long-standing role on Meta's (formerly Facebook's) board of directors. The New York Times reported the news on Monday, and Meta confirmed it in a press release, saying Thiel would continue to serve until the company's annual stockholder meeting.
+<a href='https://www.theverge.com/2022/2/7/22922425/peter-thiel-retiring-meta-facebook-board-directors'> Source <a/>

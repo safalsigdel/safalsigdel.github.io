@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WohrDXhG_5Pumohttv7EwrzJE2g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70480874/acastro_180730_1777_facial_recognition_0003.0.jpg' width='700px' /><br/>
+The Internal Revenue Service has announced that it will transition away from the use of third-party facial recognition services for the verification of taxpayers' identities, effectively ending a contract with facial recognition company ID.me that had received widespread criticism.
+<a href='https://www.theverge.com/2022/2/7/22922212/irs-id-me-facial-recognition-end-privacy-concerns'> Source <a/>

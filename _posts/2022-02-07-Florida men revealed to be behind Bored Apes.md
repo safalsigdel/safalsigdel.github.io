@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/djj0SL85_fd6rlHq6WF8u_hH_DE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70475873/acastro_210914_4753_0001.0.jpg' width='700px' /><br/>
-The makers behind the Bored Apes Yacht Club (BAYC) are no longer a mystery — a BuzzFeed News report reveals them as Greg Solano and Wylie Aronow, two men from Florida. Solano is a 32-year-old writer and editor behind the pseudonym Gargamel, while the 35-year-old Aronow goes by Gordon Goner.
-<a href='https://www.theverge.com/2022/2/5/22919612/bored-apes-yacht-club-florida-men-identities-revealed'> Source <a/>

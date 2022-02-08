@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/12uJtKtMlRFnVUinLdmqC8EOj1I=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70479023/VRG_ILLO_5000_ClaudiaCAkole_MIW3_KeycapCounterfeits.0.jpg' width='700px' /><br/>
-Olivia Briggs was almost flattered the first time she saw her keycap designs imitated by another manufacturer.
-<a href='https://www.theverge.com/22905351/mechanical-keyboard-keycap-clones-imitators-knockoffs-olivia-biip'> Source <a/>

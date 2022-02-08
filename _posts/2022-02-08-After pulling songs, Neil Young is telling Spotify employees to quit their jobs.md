@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YSHF0R2v5H3qnlLBHXTNjQly-pM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70482231/acastro_180213_1777_0001.0.jpg' width='700px' /><br/>
+Neil Young has told Spotify workers that the company's CEO — not Joe Rogan — is the real problem, and is urging them to “get out of that place before it eats up your soul” (via Variety). This comes after Young pulled his music from Spotify, claiming the company was “spreading fake information about vaccines” through Joe Rogan's podcast.
+<a href='https://www.theverge.com/22922714/neil-young-spotify-letter-ceo-daniel-ek-employees-joe-rogan'> Source <a/>

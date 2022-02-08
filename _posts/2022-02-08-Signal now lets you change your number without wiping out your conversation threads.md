@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/m1jj5_D1AbYdzRFgYxSSwTB9pRI=/0x0:2224x1465/1200x800/filters:focal(935x556:1289x910)/cdn.vox-cdn.com/uploads/chorus_image/image/70481710/change_number.0.png' width='700px' /><br/>
+Signal is rolling out a new feature that allows users to switch phone numbers on their account without losing all their existing chats, groups, and messages within the secure messaging app.
+<a href='https://www.theverge.com/2022/2/7/22922564/signal-change-number-feature-conversation-threads-messaging-app'> Source <a/>
