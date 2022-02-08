@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z2ST4IV2dR9u_ULN8oOBD6e0xOQ=/0x0:1920x1371/1200x800/filters:focal(807x533:1113x839)/cdn.vox-cdn.com/uploads/chorus_image/image/70483989/TS4_Thunderbolt_4_Dock_Refreshed_1920p.0.jpg' width='700px' /><br/>
+CalDigit makes the biggest, best Thunderbolt docks around, and it's finally getting on the Thunderbolt 4 train with its new TS4 dock — a $359.95 dock that offers a whopping 18 total ports to handle any accessory you can throw at it, along with 98W of passthrough power for keeping your laptop charged.
+<a href='https://www.theverge.com/2022/2/8/22923422/caldigit-ts4-thunderbolt-4-dock-usb-c-price-specs-monitor'> Source <a/>

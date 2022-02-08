@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GdeJe6JBP2F5SpbNUhHqFVAhGGY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70481887/acastro_170621_1777_0008.0.jpg' width='700px' /><br/>
-CoinDesk has fixed an exploit that allowed anyone to view unpublished headlines, create drafts, and edit articles on the website. In a post on its site, CoinDesk says the vulnerability could've let “unidentified actors” view non-public information, allowing them to make trading decisions they could profit from.
-<a href='https://www.theverge.com/2022/2/7/22922219/coindesk-cms-leak-api-unpublished-insider-trading'> Source <a/>
