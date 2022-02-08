@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qbMO9w6DiDY312otrPZyqvzsrY0=/0x0:5172x3448/1200x800/filters:focal(1617x684:2443x1510)/cdn.vox-cdn.com/uploads/chorus_image/image/70480732/1223897013.0.jpg' width='700px' /><br/>
-The Joe Rogan situation at Spotify keeps getting more confused.
-<a href='https://www.theverge.com/2022/2/7/22921608/spotify-joe-rogan-moderation-guidelines-episode-deletion'> Source <a/>

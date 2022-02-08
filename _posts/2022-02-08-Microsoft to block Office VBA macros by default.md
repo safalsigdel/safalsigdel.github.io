@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AHYd-qofw7NwEhVpl-6uiW4PJW8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70480503/acastro_180226_0001.0.jpg' width='700px' /><br/>
-Microsoft is finally planning to block Visual Basic for Applications (VBA) macros by default in a variety of Office apps. The change will apply to Office files that are downloaded from the internet and include macros, so Office users will no longer be able to enable certain content with a simple click of a button.
-<a href='https://www.theverge.com/2022/2/7/22922032/microsoft-block-office-vba-macros-default-change'> Source <a/>
