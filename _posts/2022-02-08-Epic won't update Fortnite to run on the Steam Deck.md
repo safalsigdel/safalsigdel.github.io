@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uJU4qZ59hFWGyToK051dFu58Xdc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70482847/shollister_210805_4698_0006.0.jpg' width='700px' /><br/>
+Epic Games doesn't plan to update Fortnite so that it runs on SteamOS, according to CEO Tim Sweeney, meaning owners of the upcoming Valve Steam Deck will likely have to install Windows to play the popular battle-royale game.
+<a href='https://www.theverge.com/2022/2/8/22923163/fortnite-steam-deck-update-epic-tim-sweeney'> Source <a/>
