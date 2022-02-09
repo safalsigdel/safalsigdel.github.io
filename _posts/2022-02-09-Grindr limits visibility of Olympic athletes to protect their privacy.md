@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/dgr4tXeNr08grW1czjwtWcciuxY=/0x0:3719x2479/1200x800/filters:focal(1563x943:2157x1537)/cdn.vox-cdn.com/uploads/chorus_image/image/70487497/1238112268.5.jpg' width='700px' /><br/>
 LGBTQ dating app Grindr has limited the global visibility of users logging in from the Beijing Olympics Village in order to protect athletes from potential outing and harassment.
+<a href='https://www.theverge.com/2022/2/9/22925073/grindr-limits-visibility-beijing-olympics-village'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/dgr4tXeNr08grW1czjwtWcciuxY=/0x0:3719x2479/1200x800/filters:focal(1563x943:2157x1537)/cdn.vox-cdn.com/uploads/chorus_image/image/70487497/1238112268.5.jpg' width='700px' /><br/>
+LGBTQ dating app Grindr has limited the global visibility of users logging in from the Beijing Olympics Village in order to protect athletes from potential outing and harassment.
 <a href='https://www.theverge.com/2022/2/9/22925073/grindr-limits-visibility-beijing-olympics-village'> Source <a/>
