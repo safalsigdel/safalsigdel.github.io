@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/QYhXpnNzfv9Rmz2ejzqv-OqjasM=/0x0:4500x3053/1200x800/filters:focal(1890x1167:2610x1887)/cdn.vox-cdn.com/uploads/chorus_image/image/70486314/1231167449.0.jpg' width='700px' /><br/>
 Elon Musk's satellite internet service Starlink just got dealt an expensive blow — the company's currently estimating that 40 of the 49 Starlink satellites it launched on February 3rd will be destroyed because of a geomagnetic storm.
+<a href='https://www.theverge.com/2022/2/8/22924561/spacex-starlink-satellites-geomagnetic-storm'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/QYhXpnNzfv9Rmz2ejzqv-OqjasM=/0x0:4500x3053/1200x800/filters:focal(1890x1167:2610x1887)/cdn.vox-cdn.com/uploads/chorus_image/image/70486314/1231167449.0.jpg' width='700px' /><br/>
+Elon Musk's satellite internet service Starlink just got dealt an expensive blow — the company's currently estimating that 40 of the 49 Starlink satellites it launched on February 3rd will be destroyed because of a geomagnetic storm.
 <a href='https://www.theverge.com/2022/2/8/22924561/spacex-starlink-satellites-geomagnetic-storm'> Source <a/>

@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/TviqZ_oJlgzwy5rNf27acdU71pg=/0x0:800x512/1200x800/filters:focal(336x192:464x320)/cdn.vox-cdn.com/uploads/chorus_image/image/70487356/AR023_018TNq2q44hcn6ijr19qd0trlca2mgv__mid.0.jpg' width='700px' /><br/>
 The Alfa Romeo Tonale SUV is the “first car on the market” to come with an NFT digital certificate, that the Italian automaker says will increase the car's residual value.
+<a href='https://www.theverge.com/2022/2/9/22925040/alfa-romeo-nft-service-history-vehicle-data-second-hand-prices'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/TviqZ_oJlgzwy5rNf27acdU71pg=/0x0:800x512/1200x800/filters:focal(336x192:464x320)/cdn.vox-cdn.com/uploads/chorus_image/image/70487356/AR023_018TNq2q44hcn6ijr19qd0trlca2mgv__mid.0.jpg' width='700px' /><br/>
+The Alfa Romeo Tonale SUV is the “first car on the market” to come with an NFT digital certificate, that the Italian automaker says will increase the car's residual value.
 <a href='https://www.theverge.com/2022/2/9/22925040/alfa-romeo-nft-service-history-vehicle-data-second-hand-prices'> Source <a/>
