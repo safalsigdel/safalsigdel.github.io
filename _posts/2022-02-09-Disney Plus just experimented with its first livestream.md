@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/NOmINxLUtSbjOU2NHYvmH1aOy9U=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/70486007/1238248875.0.jpg' width='700px' /><br/>
-Disney Plus is experimenting with live streams, dedicating its first to Academy Award nominations.
+Disney Plus is experimenting with livestreams, dedicating its first to Academy Award nominations.
 <a href='https://www.theverge.com/2022/2/8/22924369/disney-plus-first-live-feed'> Source <a/>
