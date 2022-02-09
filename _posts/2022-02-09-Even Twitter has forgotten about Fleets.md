@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
 Remember Fleets, Twitter's disappearing tweets feature that was shut down just eight and a half months after it launched for everyone? No? Well, Twitter is pretending it doesn't either — at least according to a tweet from the official @Twitter account on Tuesday:
-<a href='https://www.theverge.com/tldr/2022/2/8/22923882/twitter-fleets-forgotten-tweets-account'> Source <a/><img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Remember Fleets, Twitter's disappearing tweets feature that was shut down just eight and a half months after it launched for everyone? No? Well, Twitter is pretending it doesn't either — at least according to a tweet from the official @Twitter account on Tuesday:
 <a href='https://www.theverge.com/tldr/2022/2/8/22923882/twitter-fleets-forgotten-tweets-account'> Source <a/>

@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/FgRgsrydZeGSJWAOgMNQO38EKKg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70485304/vpavic_4278_20201030_0247.0.jpg' width='700px' /><br/>
 Sony announced that it will begin rolling out its second PS5 software beta on Wednesday, bringing changes including party chat updates, new UI settings, and a preview of a voice command feature.
-<a href='https://www.theverge.com/2022/2/8/22924049/ps5-beta-voice-commands-party-chats'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/FgRgsrydZeGSJWAOgMNQO38EKKg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70485304/vpavic_4278_20201030_0247.0.jpg' width='700px' /><br/>
-Sony announced that it will begin rolling out its second PS5 software beta on Wednesday, bringing changes including party chat updates, new UI settings, and a preview of a voice command feature.
 <a href='https://www.theverge.com/2022/2/8/22924049/ps5-beta-voice-commands-party-chats'> Source <a/>
