@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dPsvTmAv_-fSce27tA3Xb-8Y-8s=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/67732463/best_phone_grid_16x9.5.jpg' width='700px' /><br/>
-If you're shopping for a new phone on a budget, we've got good news: you're more likely to find mid-range sub-$500 phones available in these days of crunched supply chains than many of the recent flagships.
-<a href='https://www.theverge.com/21420196/best-budget-smartphone-cheap'> Source <a/>

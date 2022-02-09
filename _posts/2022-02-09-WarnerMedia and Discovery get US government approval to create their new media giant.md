@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5pXOSHCoGIlSyO2WqT32dPvHGbk=/0x0:3888x2592/1200x800/filters:focal(1633x985:2255x1607)/cdn.vox-cdn.com/uploads/chorus_image/image/70488857/1238168240.0.jpg' width='700px' /><br/>
+The merger of Discovery and WarnerMedia got one step closer to fruition on Wednesday, with the deal clearing an antitrust review from US government agencies, according to a filing with the Securities and Exchange Commission (SEC). Once finalized, the merged company will be one of the biggest media conglomerates in the US, blending Warner Bros.' TV and movie assets with Discovery's huge catalog of television programming.
+<a href='https://www.theverge.com/2022/2/9/22925327/discovery-warnermedia-att-merger-antitrust-clearance-ftc'> Source <a/>

@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/68Rd-DB9nZfZSH3eArX7Z6UuRSI=/0x0:6566x4378/1200x800/filters:focal(2758x1664:3808x2714)/cdn.vox-cdn.com/uploads/chorus_image/image/70488726/1_19_Galaxy_S22_Ultra_Group_Image2_design_HI.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/Vdmd7_euZNG-R6BFqnLkdCdNq3w=/0x0:6566x4378/1200x0/filters:focal(0x0:6566x4378):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23227150/1_09_Galaxy_S22_Plus_Group_Image1_design_HI.jpg' width='700px' /><br/>
 At Samsung's first Galaxy Unpacked event for 2022, the company introduced a new lineup of Galaxy S22 phones: the Galaxy S22 and Galaxy S22 Plus. Samsung also announced the Galaxy S22 Ultra with an included stylus. It is essentially a successor to the once-popular Galaxy Note line.
 <a href='https://www.theverge.com/2022/2/9/22925259/samsung-galaxy-s22-ultra-unpacked-2022-biggest-announcements'> Source <a/>
