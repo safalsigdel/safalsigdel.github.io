@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/88_9iTtOTDO_N5agQBbNnLgZSR0=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70488170/133569375.0.jpg' width='700px' /><br/>
+The estates of Robin Williams and George Carlin have filed lawsuits accusing Pandora of streaming the late comedians' jokes without the proper licenses. The suits are joined by complaints from Andrew Dice Clay, Ron White, and Bill Engvall, who also allege they weren't given “a fraction of a penny” for their work as a result of Pandora's “willful” wrongdoing.
+<a href='https://www.theverge.com/2022/2/9/22923940/robin-williams-estate-pandora-comedy-licenses-lawsuit'> Source <a/>
