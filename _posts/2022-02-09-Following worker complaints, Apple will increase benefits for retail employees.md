@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6LFQrkjJ59Vi3kwF0cjbCQ-JS9U=/0x0:5200x3468/1200x800/filters:focal(2184x1318:3016x2150)/cdn.vox-cdn.com/uploads/chorus_image/image/70484585/1237558933.0.jpg' width='700px' /><br/>
-Apple is increasing its time off benefits for full- and part-time retail employees, according to a new Bloomberg report and information separately shared by a source to The Verge.
-<a href='https://www.theverge.com/2022/2/8/22923719/apple-store-retail-workers-sick-days-parental-leave-benefits'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/6LFQrkjJ59Vi3kwF0cjbCQ-JS9U=/0x0:5200x3468/1200x800/filters:focal(2184x1318:3016x2150)/cdn.vox-cdn.com/uploads/chorus_image/image/70484585/1237558933.0.jpg' width='700px' /><br/>
-Apple is increasing its time off benefits for full- and part-time retail employees, according to a new Bloomberg report and information separately shared by a source to The Verge.
-<a href='https://www.theverge.com/2022/2/8/22923719/apple-store-retail-workers-sick-days-parental-leave-benefits'> Source <a/>

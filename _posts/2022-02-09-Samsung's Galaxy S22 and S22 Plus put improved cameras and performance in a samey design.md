@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/KI3WcWZqeuaKM1ju6Vtv9An8r0Q=/0x0:2040x1360/1200x675/filters:focal(831x614:1157x940)/cdn.vox-cdn.com/uploads/chorus_image/image/70487998/cwelch_220204_5008_0004.0.jpg' width='700px' /><br/>
+By most accounts, last year's Galaxy S21 lineup didn't measure up to Samsung's sales expectations. Flanked by more Android competition than ever before, the S21 and S21 Plus struggled to stand out on their own merits. It didn't help matters that Samsung gave the base model a “cheap” first impression by using plastic materials on the back instead of glass.
+<a href='https://www.theverge.com/2022/2/9/22922028/samsung-galaxy-s22-plus-price-features-specs'> Source <a/>

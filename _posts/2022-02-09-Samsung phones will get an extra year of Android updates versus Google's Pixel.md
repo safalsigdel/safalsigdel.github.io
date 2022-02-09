@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/N7b_5EOHOmem6VwsXRsnPfrd0CI=/0x0:6566x4378/1200x800/filters:focal(2758x1664:3808x2714)/cdn.vox-cdn.com/uploads/chorus_image/image/70488041/1_19_Galaxy_S22_Ultra_Group_Image2_design_HI.0.jpg' width='700px' /><br/>
+Samsung announced today during its Galaxy Unpacked 2022 event that the new Galaxy S22 phones and other recent devices will get up to four generations of Android OS upgrades.
+<a href='https://www.theverge.com/2022/2/9/22923577/samsung-galaxy-unpacked-android-upgrades-4-years'> Source <a/>

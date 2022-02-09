@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/t7DV9skZue0QqVRRaJgG2l_hQT0=/0x0:4096x2304/1200x800/filters:focal(1023x154:1677x808)/cdn.vox-cdn.com/uploads/chorus_image/image/70488039/FHDpwPOXMAUQIu1.0.jpeg' width='700px' /><br/>
+Andrew Belton makes a living playing Madden, a game he does not particularly like.
+<a href='https://www.theverge.com/22921824/madden-nfl-football-trash-talk-youtube-backlash'> Source <a/>
