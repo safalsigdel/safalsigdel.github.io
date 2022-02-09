@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HS7Ek0mD6jUtzXmEdZnG0ZRbN_g=/0x0:1088x612/1200x800/filters:focal(457x219:631x393)/cdn.vox-cdn.com/uploads/chorus_image/image/70488879/00_PlayStation_FAQ_featured_imag.0.jpg' width='700px' /><br/>
+Microsoft says the Call of Duty franchise and other popular cross-platform Activision Blizzard games will remain available on PlayStation if and when its $68.7 billion acquisition goes through.
+<a href='https://www.theverge.com/2022/2/9/22925510/microsoft-activision-sony-nintendo-app-store-antitrust-policies'> Source <a/>

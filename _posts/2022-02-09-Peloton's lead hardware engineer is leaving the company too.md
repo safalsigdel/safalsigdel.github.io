@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sd5xTGJ4uNGXnmmZWz6qwv4qhEA=/0x0:2040x1360/1200x800/filters:focal(1064x648:1390x974)/cdn.vox-cdn.com/uploads/chorus_image/image/70486304/akrales_190328_3240_0139.0.jpg' width='700px' /><br/>
-Peloton's vice president of hardware engineering, Sam Bowen, and its commercial operations executive, Rob Barker, are leaving the company, according to a report from Bloomberg.
-<a href='https://www.theverge.com/2022/2/8/22924180/peloton-hardware-commercial-operations-executives-vice-presidents-leave-company'> Source <a/>
