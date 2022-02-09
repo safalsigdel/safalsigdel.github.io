@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/PEgpjlfdZG95syJcmyrPIVSnoMk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70485525/acastro_190723_1777_tiktok_0003.0.0.jpg' width='700px' /><br/>
-TikTok is updating its community guidelines and rolling out new features that the company says will support the well-being of its users. Some of the policy changes crack down on content the company has previously come under fire for, including videos that critics say glorify eating disorders and dangerous viral challenges.
-<a href='https://www.theverge.com/2022/2/8/22924019/tiktok-bans-misgendering-deadnaming-disordered-eating'> Source <a/>
