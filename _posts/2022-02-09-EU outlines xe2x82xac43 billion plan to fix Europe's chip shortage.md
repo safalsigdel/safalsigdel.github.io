@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z9m0T2MGEQ-X6Sj2OM3egVF3Vk0=/0x0:5184x3456/1200x800/filters:focal(2178x1314:3006x2142)/cdn.vox-cdn.com/uploads/chorus_image/image/70487372/1320074520.0.jpg' width='700px' /><br/>
+The European Union has outlined an ambitious new industrial policy that aims to make the bloc a significant player in the global semiconductor industry.
+<a href='https://www.theverge.com/2022/2/9/22925010/eu-chips-act-plan-43-billion-funding-shortage-supply-chain'> Source <a/>

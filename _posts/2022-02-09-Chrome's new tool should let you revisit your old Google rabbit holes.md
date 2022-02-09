@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jK6jQVSNhy0jj9vIh9KgXbQjnQw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70484205/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
-Google Chrome is rolling out Journeys, a feature that lets you revisit your old browsing sessions based on the subject matter you were searching for. If you type a word in the address bar that's related to some convoluted rabbit hole you've been down in the past, you'll see a “Resume your research” option that links you to the related sites you've visited before.
-<a href='https://www.theverge.com/2022/2/8/22923323/google-chrome-journeys-revisit-old-browsing-sessions'> Source <a/>
