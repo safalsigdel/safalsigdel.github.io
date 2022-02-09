@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/RMgVgoxDgHd2wCZEo4JM9U_ivHo=/0x0:3057x1720/1200x800/filters:focal(1285x616:1773x1104)/cdn.vox-cdn.com/uploads/chorus_image/image/70482031/Screen_Shot_2022_02_07_at_2.31.03_PM__1_.0.jpeg' width='700px' /><br/>
-Amazon's Super Bowl LVI ad features real-life celebrity couple Scarlett Johansson and Colin Jost, imagining how a mind-reading Alexa could wreck their relationship by revealing unfiltered thoughts to each other.
-<a href='https://www.theverge.com/2022/2/7/22922002/amazon-alexa-super-bowl-ad-2022-mind-reading-scarlett-johansson-colin-jost'> Source <a/>

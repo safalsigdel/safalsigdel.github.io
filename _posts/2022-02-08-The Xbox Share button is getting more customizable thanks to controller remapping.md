@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Svqof2OmYCMayuK2XkMmdDV1rt4=/0x0:1525x864/1200x0/filters:focal(0x0:1525x864):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23226019/6a4FhGX.png' width='700px' /><br/>
-Microsoft will soon allow Xbox Series X / S owners to fully customize the Share button on their controllers. While you've been able to use the Xbox Share button to create screenshots or game clips, you'll soon be able to map it to lots of Xbox features including controlling the TV volume, accessing search, or switching on Night Mode.
-<a href='https://www.theverge.com/2022/2/8/22923287/xbox-share-button-remap-controller-customization-feature'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NQl-PjQAp0dVkhr2QIHEslKmzWw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70484190/acastro_180213_1777_0002.0.jpg' width='700px' /><br/>
+This story originally ran in Hot Pod, The Verge's preeminent audio industry newsletter. You can subscribe here for more scoops, analysis, and reporting.
+<a href='https://www.theverge.com/2022/2/8/22923525/spotify-daniel-ek-mission-statement-talent-recruitment'> Source <a/>

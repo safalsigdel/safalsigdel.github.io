@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9mt47VrzssAdzLwsXjF6konZcw0=/0x0:2040x1360/1200x800/filters:focal(825x176:1151x502)/cdn.vox-cdn.com/uploads/chorus_image/image/70482949/akrales_170407_1569_0850.0.5.jpg' width='700px' /><br/>
-Peloton is replacing its CEO and losing about 2,800 jobs among other cost-cutting measures, according to a press release issued by the company. The job cuts amount to around 20 percent of the former pandemic darling's corporate workforce, but will not affect the company's lauded roster of instructors or fitness content. The news was first reported by the Wall Street Journal.
-<a href='https://www.theverge.com/2022/2/8/22923229/peloton-layoff-new-ceo-mccarthy'> Source <a/>

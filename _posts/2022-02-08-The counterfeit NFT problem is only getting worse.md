@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e42m7YDYmT2_OuGHTPLQ8ogHO88=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70483135/VRG_ILLO_5000_ClaudiaCAkole_StolenNFTArt.0.jpg' width='700px' /><br/>
-Aja Trier is used to getting her art stolen — published without attribution, ripped off on T-shirts, and even printed on phone cases.
-<a href='https://www.theverge.com/22905295/counterfeit-nft-artist-ripoffs-opensea-deviantart'> Source <a/>

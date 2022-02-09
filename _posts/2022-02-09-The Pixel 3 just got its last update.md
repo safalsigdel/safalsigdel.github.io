@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NdH0U4Z2bPj8d9qBUGfuocLUTBg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70485453/jbareham_181010_2989_0349.0.jpg' width='700px' /><br/>
+This month's security update is the last for Google's Pixel 3 and 3 XL, as noted by 9to5google. That's actually one more update than the company promised — official support was only guaranteed through October last year. Yet with one last OS update to Android 12 and this final security patch, Google has finally retired the devices.
+<a href='https://www.theverge.com/2022/2/8/22922492/google-pixel-3-xl-february-security-update-support'> Source <a/>

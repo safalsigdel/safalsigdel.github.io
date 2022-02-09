@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ojzAwlsOgfIPJPGnI0XWSVl7_8w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70483600/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
-Amazon's virtual healthcare program, Amazon Care, is now available nationwide, the company announced today. The hybrid service, which pairs virtual care with the option for an in-home nurse's visit, will be available in 20 additional cities in 2022, according to a blog post. That in-person component is already up and running in eight cities, including Seattle and Los Angeles.
-<a href='https://www.theverge.com/2022/2/8/22923381/amazon-care-telehealth-nurse-locations'> Source <a/>

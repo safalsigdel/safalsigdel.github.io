@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XX59ZVETkgzieDpPAzPlP3pe6JE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70482883/acastro_ageID.0.jpg' width='700px' /><br/>
-The UK government has revived plans for porn sites to verify users' ages — an initiative that was scrapped in 2019 due to technical challenges and criticism from privacy campaigners.
-<a href='https://www.theverge.com/2022/2/8/22923203/uk-porn-sites-verify-age-id-check-online-safety-bill'> Source <a/>

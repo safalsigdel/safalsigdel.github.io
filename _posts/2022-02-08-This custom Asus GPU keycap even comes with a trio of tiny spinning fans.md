@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CFov1lN37BoW0vRqFcJL0d57DIY=/0x0:2152x1216/1200x800/filters:focal(904x436:1248x780)/cdn.vox-cdn.com/uploads/chorus_image/image/70482955/Screenshot_2022_02_08_at_10.40.53.0.png' width='700px' /><br/>
-If you can't get your hands on a new GPU right now, you could at least have a miniature version sitting at your fingertips. As seen via Tom's Hardware, a new custom keycap in the form of an Asus ROG Strix brand GPU is now on sale in China. It replaces the right-shift key on your keyboard and comes with three miniature spinning cooling fans (though, sadly, there are no tiny customizable LED lights).
-<a href='https://www.theverge.com/2022/2/8/22923216/gpu-custom-keycap-asus-rog-strix'> Source <a/>

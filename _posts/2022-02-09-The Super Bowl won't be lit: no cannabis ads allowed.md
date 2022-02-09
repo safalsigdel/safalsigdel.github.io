@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8FiK2PpC6b-jxa6BhtEORp59tkw=/0x0:5000x3338/1200x800/filters:focal(2100x1269:2900x2069)/cdn.vox-cdn.com/uploads/chorus_image/image/70484488/1237915530.0.jpg' width='700px' /><br/>
+If a brand wants to reach — or offend — a large swath of Americans all at once, there are few better venues than a Super Bowl ad. There are plenty of brands advertising this year that wouldn't have been allowed in the big game just a few years ago, such as hard liquor or sports betting apps. This year's ad lineup even includes ads for cryptocurrencies, a product still far from the American mainstream despite what your laser-eyed Twitter followers may tell you.
+<a href='https://www.theverge.com/2022/2/8/22911200/super-bowl-ads-cannabis-weed'> Source <a/>
