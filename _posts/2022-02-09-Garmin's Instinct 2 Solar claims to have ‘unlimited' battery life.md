@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Tn8OrVTuN8-sVsO-LQSBlzFpU-0=/0x0:1296x729/1200x800/filters:focal(926x190:1132x396)/cdn.vox-cdn.com/uploads/chorus_image/image/70488231/Instinct_2_Series_Press_Release_Newsroom_copy_2.0.jpg' width='700px' /><br/>
-Garmin's back with yet another multisport smartwatch lineup. The Instinct 2 series is billed for “rugged individualists,” but this time there's an interesting twist. The company says the solar models of the smartwatch can get unlimited battery life thanks to improvements in their solar technology.
-<a href='https://www.theverge.com/2022/2/9/22925125/garmins-instinct-2-solar-power-fitness-tracker-smartwatches'> Source <a/>

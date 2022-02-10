@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gnHsrtPQNm4gyNCt0vyP0JaNNz0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70486015/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
+Apple has acknowledged an iOS 15 bug that may have recorded interactions with Siri on some devices, regardless of whether the user opted out, according to a report from ZDNet. The bug automatically enabled the Improve Siri & Dictation setting that gives Apple permission to record, store, and review your conversations with Siri.
+<a href='https://www.theverge.com/2022/2/8/22924225/apple-ios-15-bug-recorded-interactions-siri'> Source <a/>

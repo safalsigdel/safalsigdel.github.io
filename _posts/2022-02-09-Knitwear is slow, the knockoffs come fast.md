@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rWcqQsyjxzxnEQpix1kqqFGiWG0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70487808/VRG_ILLO_5000_ClaudiaCAkole_MIW3_KnitwearRipoffsD.0.jpg' width='700px' /><br/>
-When the knitwear designer Crochet Bao posted her latest creation to Instagram last May, fans fawned over what they saw: a red and white cardigan with gingham-checked sleeves, chunky accents, and big strawberries patterned across the body. “A lot of people were DMing me and asking for a pattern, but some people were willing to pay for it as well,” Crochet Bao said.
-<a href='https://www.theverge.com/22905293/knitwear-knockoffs-designers-fast-fashion'> Source <a/>

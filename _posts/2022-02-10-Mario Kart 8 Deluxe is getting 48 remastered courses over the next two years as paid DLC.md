@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PJd5xi4D3wQX4v3XyemtzsgVVCY=/0x0:2444x1362/1200x0/filters:focal(0x0:2444x1362):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23230663/Screen_Shot_2022_02_09_at_5.42.02_PM.png' width='700px' /><br/>
+Mario Kart 8 Deluxe for the Nintendo Switch is getting a massive influx of new content, with Nintendo announcing that it'll be steadily adding 48 remastered courses from previous Mario Kart games to the title over the next two years as part of its new “Booster Course Pass” DLC.
+<a href='https://www.theverge.com/2022/2/9/22926173/mario-kart-8-deluxe-is-48-remastered-courses-over-the-next-two-years-as-paid-dlc'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c9lr7ijwH0bV6vDzBn3rkbNskHE=/0x0:953x613/1200x0/filters:focal(0x0:953x613):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23226804/article_2_spaces_PC_920x613.png' width='700px' /><br/>
-Samsung is holding a Galaxy Unpacked event this Wednesday, February 9th, at 10AM ET / 7AM PT, where it is expected to reveal the latest flagship Galaxy S22 devices, which may include a proper replacement for the Galaxy Note series that we missed in 2021.
-<a href='https://www.theverge.com/2022/2/9/22923425/samsung-galaxy-s22-event-unpacked-watch-livestream-start-time'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/c_amE0NW3QhXqVWS0o0FCgvc0ko=/0x0:5955x3914/1200x800/filters:focal(2525x1959:3477x2911)/cdn.vox-cdn.com/uploads/chorus_image/image/70489389/1348137525.0.jpg' width='700px' /><br/>
+Tech giants' climate plans aren't as aggressive as they sound, according to an assessment of 25 of the world's biggest companies published on Monday. The plans many companies have put together rely too much on offsetting their emissions through unreliable methods rather than setting specific targets to prevent pollution in the first place.
+<a href='https://www.theverge.com/2022/2/9/22925436/big-tech-climate-change-goals-weak-report'> Source <a/>

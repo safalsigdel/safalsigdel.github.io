@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ql9nMR9yyye9IQHqsTaNlhhgu3E=/0x0:5760x3240/1200x800/filters:focal(2420x1160:3340x2080)/cdn.vox-cdn.com/uploads/chorus_image/image/70490786/Switch_NintendoSwitchSports_screen_03.0.jpg' width='700px' /><br/>
+Fresh off of launching the much-anticipated Pokxc3xa9mon Legends: Arceus, Nintendo held its first Direct presentation of 2022. And it was a big one: the livestream was 40 minutes long and featured surprises like a portable take on No Man's Sky, the return of Super Mario Strikers, and a Wii Sports revival. Oh, and Mario Kart 8 is about to get a whole lot bigger.
+<a href='https://www.theverge.com/2022/2/9/22925180/nintendo-direct-february-2022-mario-kart-wii-sports-xenoblade'> Source <a/>

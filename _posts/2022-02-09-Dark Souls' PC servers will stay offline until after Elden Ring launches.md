@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ly5cLNuG7dCPhQ-Jpf3AZBx0Zm8=/0x0:5760x3240/1200x800/filters:focal(1256x1122:2176x2042)/cdn.vox-cdn.com/uploads/chorus_image/image/70488464/dark-souls-3-screenshot-12.0.0.jpg' width='700px' /><br/>
-Dark Souls' servers on PC will remain offline until after the February 25th release of Elden Ring, Bandai Namco and FromSoftware announced on Twitter. The game publisher and developer are also investigating the upcoming Elden Ring for the same issue that shut down Dark Souls: a remote code execution (RCE) exploit that could let bad actors infiltrate your system.
-<a href='https://www.theverge.com/2022/2/9/22925231/dark-souls-servers-offline-elden-ring-release'> Source <a/>

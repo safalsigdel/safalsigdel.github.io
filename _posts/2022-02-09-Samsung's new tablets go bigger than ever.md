@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Fk0Vav0dOBnaaMXNOzJX29iOgOk=/0x0:6421x4280/1200x800/filters:focal(2698x1627:3724x2653)/cdn.vox-cdn.com/uploads/chorus_image/image/70488045/1_004_lifestyle_Tab_S8_Ultra_Graphite_Tab_S8__Graphite_Tab_S8_Silver_HI.0.jpg' width='700px' /><br/>
-Samsung thinks your tablet is too small. So the company is announcing the Galaxy Tab S8 Ultra, a slim tablet with a massive 14.6-inch screen. The $1,099.99 Tab S8 Ultra sits at the top of the Tab S8 line, which includes the more pedestrian-sized Tab S8 and Tab S8 Plus, successors to the Tab S7 models from 2020.
-<a href='https://www.theverge.com/2022/2/9/22923565/samsung-galaxy-tab-s8-ultra-plus-tablets-android-price-specs-features'> Source <a/>

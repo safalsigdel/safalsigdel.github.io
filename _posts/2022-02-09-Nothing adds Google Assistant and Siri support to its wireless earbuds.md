@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kI8sViGEk0UsmqOuyly9A0hADSM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70487415/DSCF4370_Edited.0.jpeg' width='700px' /><br/>
-Nothing has added voice assistant support to its Ear 1 earbuds, allowing you to summon either Google Assistant or Siri with a triple-tap, the company announced on Twitter. The addition comes as something of a surprise given Nothing originally told Android Central it had no plans to add voice assistant support to the Ear 1.
-<a href='https://www.theverge.com/2022/2/9/22925076/nothing-google-assistant-siri-alexa-ear-1'> Source <a/>

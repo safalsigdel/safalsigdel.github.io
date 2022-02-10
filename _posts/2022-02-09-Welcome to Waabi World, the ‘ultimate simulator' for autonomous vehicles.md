@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WfNHp6A0OstKgYi2yf1mM02bhjk=/0x0:2000x1072/1200x800/filters:focal(840x376:1160x696)/cdn.vox-cdn.com/uploads/chorus_image/image/70487340/Screen_Shot_2022_02_08_at_6.24.38_PM.0.png' width='700px' /><br/>
-Raquel Urtasun, the former chief scientist at Uber's Advanced Technologies Group, promised an “AI-centric approach” to autonomous vehicles when she founded her own company last year, Waabi. Now, she's ready to deliver on that promise with the announcement of the company's first product: a virtual world in which to test its autonomous vehicles called “Waabi World.”
-<a href='https://www.theverge.com/2022/2/9/22923904/waabi-world-virtual-simulation-autonomous-vehicle-urtasun'> Source <a/>

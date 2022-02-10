@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nXt4Epy67KFKHaVV95HN13MCLP0=/0x0:2040x1360/1200x0/filters:focal(0x0:2040x1360):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23227009/vpavic_220201_5008_0040.jpg' width='700px' /><br/>
-The Samsung Galaxy S22 Ultra has shaped up to be everything that leaks, hints, and speculation indicated it would be: a Samsung Galaxy Note, minus the Note branding. It offers a 6.8-inch screen, a built-in S pen stylus, a boatload of cameras, a $1,199 price tag, and a boxy shape straight from the Galaxy Note series.
-<a href='https://www.theverge.com/2022/2/9/22917015/samsung-galaxy-s22-ultra-screen-price-specs-note'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UqobydeA_4esmiIccKpQ9wlFTCE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70489855/vpavic_220201_5008_0023_Edit.0.jpg' width='700px' /><br/>
+Samsung just announced its highly anticipated Galaxy S22 lineup, but many who have tried to preorder the new smartphones report that they can't actually complete their purchases. Many are reporting issues or just a blank screen that seems to load indefinitely at checkout, and that's also where I ran into problems when trying to buy a few combinations of both locked and unlocked models of the phones.
+<a href='https://www.theverge.com/2022/2/9/22925827/samsung-galaxy-s22-plus-ultra-preorder-site-down'> Source <a/>

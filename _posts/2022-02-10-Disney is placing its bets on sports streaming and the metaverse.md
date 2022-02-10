@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/63EQFS4WGH03OTGptd0HEYlryjw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70490890/acastro_190411_1777_Disney_Streaming_0003.0.0.jpg' width='700px' /><br/>
+Disney today reiterated its commitment to expanding its sports streaming portfolio, with Disney boss Bob Chapek confirming that the company is bidding for the NFL Sunday Ticket. Disney also plans to innovate its product around sports-centric features and its still-vague metaverse plans.
+<a href='https://www.theverge.com/2022/2/9/22926245/disney-espn-sports-streaming-betting-metaverse'> Source <a/>

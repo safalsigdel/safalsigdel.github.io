@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fqljOC15zftF2lbG2pbNO6YDF3k=/0x0:2040x1360/1200x800/filters:focal(778x346:1104x672)/cdn.vox-cdn.com/uploads/chorus_image/image/70491304/vpavic_4278_20201030_0292.0.jpg' width='700px' /><br/>
+Sony's latest PS5 beta, which began rolling out Wednesday, adds support for a new “Hey PlayStation!” voice command you can use to open games, apps, and settings and control movies and songs. I've been able to test the new feature, and to my surprise, it actually works quite well, and I could see it being a genuinely useful way to navigate the console's UI.
+<a href='https://www.theverge.com/2022/2/9/22926345/playstation-5-ps5-beta-voice-command-feature'> Source <a/>

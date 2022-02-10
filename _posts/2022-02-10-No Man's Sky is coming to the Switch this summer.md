@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iwrYcBaEKik-IbkRtzWqY_gcfPk=/0x0:2902x1358/1200x0/filters:focal(0x0:2902x1358):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23230678/Screen_Shot_2022_02_09_at_4.48.30_PM.png' width='700px' /><br/>
+No Man's Sky is coming to the Nintendo Switch, developer Hello Games revealed during the latest Nintendo Direct announcement. The Switch port is set to be released sometime this summer.
+<a href='https://www.theverge.com/2022/2/9/22926027/no-mans-sky-nintendo-switch-port-hello-games-space-exploration'> Source <a/>
