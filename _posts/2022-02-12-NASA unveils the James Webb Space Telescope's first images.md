@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/79-nXJ3x_f_aXPi--_fIt1nawkY=/0x0:4961x3390/1200x800/filters:focal(2085x1299:2877x2091)/cdn.vox-cdn.com/uploads/chorus_image/image/70498741/51412123217_ba966ac1c2_o__3_.0.png' width='700px' /><br/>
-NASA unveiled a mosaic of the first images captured by the revolutionary James Webb Space Telescope, or JWST, today. The image represents the early stages of the telescope's 18 main mirror segments properly aligning before JWST reaches its full potential.
-<a href='https://www.theverge.com/2022/2/11/22929054/nasa-james-webb-space-telescope-first-images'> Source <a/>

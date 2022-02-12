@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ESIO96V_yd6WnNljR5wOroeJhfY=/0x0:5000x3335/1200x800/filters:focal(2100x1268:2900x2068)/cdn.vox-cdn.com/uploads/chorus_image/image/70500662/1234017289.0.jpg' width='700px' /><br/>
-Forbes has announced that Binance, “one of the world's largest cryptocurrency and blockchain infrastructure providers,” is making a $200 million investment to own a part of an “iconic business information brand.” That money is part of a $400 million private investment in public equity (PIPE) arrangement set up for Forbes to go public by merging with a special purpose acquisition company, or SPAC.
-<a href='https://www.theverge.com/2022/2/11/22929860/forbes-binance-spac-razzlekhan-web3-cryptocurrency'> Source <a/>

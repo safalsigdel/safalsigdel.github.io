@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dxpt6BY2pG4zQ5S4I5kFVgQHxT8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70497926/acastro_181026_1777_twitch_0003.0.jpg' width='700px' /><br/>
-Video streaming website Twitch has updated its policy to ban usernames that have explicit references to sex or hard drugs. According to a blog post on the Amazon-owned platform, “usernames really matter on Twitch,” and given their visibility across the site, Twitch believes usernames “must be held to a universal and higher standard than other places people express themselves,” such as chat.
-<a href='https://www.theverge.com/2022/2/11/22929106/twitch-changes-rules-usernames-sex-drugs'> Source <a/>
