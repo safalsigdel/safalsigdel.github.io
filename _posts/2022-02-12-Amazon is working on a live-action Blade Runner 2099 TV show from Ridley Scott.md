@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/SuEpsyvGwvWW_oE6XhUvvrL-aHc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70498785/TRI-09454_2040.0.0.jpg' width='700px' /><br/>
 Blade Runner's next act will apparently be a live-action TV series from Amazon, with original director Ridley Scott set to return as an executive producer on the project, Blade Runner 2099, Variety reports.
-<a href='https://www.theverge.com/2022/2/11/22929435/amazon-blade-runner-2099-live-action-tv-show-ridley-scott-sequel'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/SuEpsyvGwvWW_oE6XhUvvrL-aHc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70498785/TRI-09454_2040.0.0.jpg' width='700px' /><br/>
-Blade Runner's next act will apparently be a live-action TV series from Amazon, with original director Ridley Scott set to return as an executive producer on the project, Blade Runner 2099, Variety reports.
 <a href='https://www.theverge.com/2022/2/11/22929435/amazon-blade-runner-2099-live-action-tv-show-ridley-scott-sequel'> Source <a/>
