@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FVKjlggBBrQ-pWoLU3HYU3E18EY=/0x0:4032x3024/1200x800/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/70499265/1310967778.0.jpg' width='700px' /><br/>
+Uber and Lyft have been operating on parallel tracks for a long time. Drivers moonlight for both services, customers toggle between the two apps, and despite Lyft's efforts to position itself as a “woke” alternative to Uber, the two companies essentially operate identical ride-sharing services in the US.
+<a href='https://www.theverge.com/2022/2/11/22929555/uber-lyft-2021-q4-earnings-delivery-bikeshare'> Source <a/>
