@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3SjJtvM5hWxy_pu066XRfFZkEEc=/0x0:960x640/1200x800/filters:focal(404x244:556x396)/cdn.vox-cdn.com/uploads/chorus_image/image/70490676/AG_1056_1200x800.0.jpg' width='700px' /><br/>
-Yesterday, the Department of Justice announced it had finally recovered almost all the Bitcoin stolen in the 2016 Bitfinex hack with its “largest financial seizure ever.” The DOJ was, however, immediately upstaged — when people discovered that one of the people accused of helping launder billions of dollars of Bitcoin had posted rap videos to the internet.
-<a href='https://www.theverge.com/22924237/razzlekhan-bitfinex-hack-laundering-bitcoin-explained-rapper-heather-morgan'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bRx-_wH91QxDBOe9FZaFeh6miQM=/0x0:2988x1990/1200x800/filters:focal(1255x756:1733x1234)/cdn.vox-cdn.com/uploads/chorus_image/image/70488847/1174706815.0.jpg' width='700px' /><br/>
-AI agents have bested humans at many games, from chess to Go to poker. Now, the machines can claim a new high score on the classic racing video game series Gran Turismo.
-<a href='https://www.theverge.com/2022/2/9/22925420/sony-ai-gran-turismo-driving-gt-sophy-nature-paper'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C-f673ivlbFyT7AikHwLd5VI-IA=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70496985/cfaulkner_141231_5006_0012.0.jpg' width='700px' /><br/>
+A welcome trend is well underway in the realm of gaming laptops: some of them are getting smaller. The latest company to get on board with this is Alienware and its new X14. This is a thin 14-inch gaming laptop that's completely different from anything else that the company offers. There's now something on Alienware's menu for people who still see gaming as the main course yet also hold portability in high regard.
+<a href='https://www.theverge.com/22928060/alienware-x14-review-gaming-laptop'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TPpb_PPvdDsT6oJlyTjnLXPDq94=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70497199/acastro_220209_5013_0001.0.jpg' width='700px' /><br/>
+When Richard Lee first brought his business proposal to Backpack Boyz, he could sense skepticism from the California-based cannabis company.
+<a href='https://www.theverge.com/2022/2/11/22925408/bored-ape-yacht-club-cannabis-copyright'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Gww9zhS7cL-gUuGd3SHlleN0HVg=/0x0:2040x1360/1200x675/filters:focal(872x696:1198x1022)/cdn.vox-cdn.com/uploads/chorus_image/image/70497506/akrales_220120_4970_0010.0.jpg' width='700px' /><br/>
+While running on the Peloton Tread, I couldn't help but think about how Peloton the company was spiraling out of control. Under my feet was this sleek, well-built treadmill. In front of me was a slick screen where a peppy instructor was encouraging me to dig deep to push it a little further. But even as I cranked up the speed, I couldn't reconcile this excellent treadmill with the corporate disaster unfolding in my news feed.
+<a href='https://www.theverge.com/22927723/peloton-tread-review-connected-fitness-treadmill'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9VHEsCqo-MEwJlJblwUBD_fGU8g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70490714/akrales_170407_1569_0850.0.0.jpg' width='700px' /><br/>
-New Peloton CEO Barry McCarthy's first day is not off to a good start.
-<a href='https://www.theverge.com/2022/2/9/22926095/peloton-ceo-all-hands-fired-employees'> Source <a/>

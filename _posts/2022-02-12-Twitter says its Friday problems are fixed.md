@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jLEaCDUNiSJFHn11C3TlxX98hdo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70498547/acastro_180827_1777_0004.0.jpg' width='700px' /><br/>
+Twitter had some issues Friday; it wasn't working on desktop for some people, and the problems seemed more prevalent on the West Coast. But about an hour after I first noticed problems, Twitter said things were fixed.
+<a href='https://www.theverge.com/2022/2/11/22929356/twitter-down-outage-west-coast'> Source <a/>

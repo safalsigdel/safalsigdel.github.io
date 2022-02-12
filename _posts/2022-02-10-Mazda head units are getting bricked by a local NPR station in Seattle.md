@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/it3IL3ITdGQxwhefNvYaQjUMVRM=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/70490630/1237857230.0.jpg' width='700px' /><br/>
-Some Mazda drivers in and around Seattle this week discovered they could no longer change the radio station or play anything else in their cars after listening to the local NPR station KUOW (via GeekWire).
-<a href='https://www.theverge.com/2022/2/9/22925619/mazda-head-units-bricked-npr-seattle-need-ota-updates'> Source <a/>

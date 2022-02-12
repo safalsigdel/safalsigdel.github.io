@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FlKx4nD4tVNcxl6aG2QhKzIyXok=/0x0:1440x944/1200x800/filters:focal(605x357:835x587)/cdn.vox-cdn.com/uploads/chorus_image/image/70490775/reddit_talk_recording_mobile.0.png' width='700px' /><br/>
-Reddit Talk, the platform's audio-only chatrooms, now support recordings. As outlined in a post on Reddit's blog, this means you can now listen to previous talks as well as use playback tools that let you jump to certain timestamps, pause / unpause recordings, and fast-forward or rewind them. This should make it even easier for users to record and distribute live podcast-like sessions.
-<a href='https://www.theverge.com/2022/2/9/22925935/reddit-clubhouse-clone-recordings-web-features'> Source <a/>

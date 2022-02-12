@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nTqCzeVi1MjjP4D4ZWAYnBY58uk=/0x0:6240x4160/1200x800/filters:focal(2621x1581:3619x2579)/cdn.vox-cdn.com/uploads/chorus_image/image/70490542/1369598860.0.jpg' width='700px' /><br/>
-Canada Unity 2022, the group of anti-vaccine protestors who have snarled traffic in Ottawa and earned accolades in the right-wing media, wants to talk to you about Bitcoin.
-<a href='https://www.theverge.com/2022/2/9/22925823/canadian-trucker-convoy-anti-vaxx-bitcoin-press-conference'> Source <a/>

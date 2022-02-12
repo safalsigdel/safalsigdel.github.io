@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fCPhqrXc-b_qtmSPu899aklgq18=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/67061349/1202324974.jpg.0.jpg' width='700px' /><br/>
+You may be switching jobs, or maybe you've decided to stop using a specific email account, or maybe you just want a copy of all your emails just in case. Whatever your reasons, it's not a bad idea to back up and export your Gmail and other Google accounts using Google's Takeout feature. In fact, you can set your accounts to back up regularly, which is a good practice in general.
+<a href='https://www.theverge.com/21324801/gmail-download-data-back-up-save-email'> Source <a/>
