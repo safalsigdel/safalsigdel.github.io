@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uAqzZTk1VDGRKcll8F078Szxug4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70501753/acastro_210813_1777_theater_0002.0.jpg' width='700px' /><br/>
+MoviePass is set to return this summer after being swooped up and resuscitated by its original co-founder Stacy Spikes. During a launch presentation on Thursday, Spikes took the stage in New York to hype the relaunch of his embattled movie ticket subscription service. There was plenty of fanfare and, somewhat bizarrely, references to Web3 technology. But one thing that Stacy didn't mention on stage was MoviePass' metaverse aims.
+<a href='https://www.theverge.com/22929876/moviepass-stacy-spikes-interview-metaverse'> Source <a/>
