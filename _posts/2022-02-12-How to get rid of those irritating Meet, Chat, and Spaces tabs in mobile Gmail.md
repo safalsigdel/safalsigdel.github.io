@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IJkLX1CLgEgYnXdGJE7bFiTxKV0=/0x0:1216x776/1200x800/filters:focal(511x291:705x485)/cdn.vox-cdn.com/uploads/chorus_image/image/67190054/google_meet_poup.0.jpg' width='700px' /><br/>
-I have nothing against Google's Meet videoconferencing platform — in fact, I've used it a few times — but I can't help being annoyed when the feature is pushed at me via other apps. Specifically, Gmail. Meet first appeared on the desktop Gmail app in the spring of 2020, but it did not take up much space and was reasonably easy to ignore (or remove from your screen, if you so wished).
-<a href='https://www.theverge.com/21363976/google-meet-gmail-tab-how-to-android-ios'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s-kBmlS0-Weszd_J3bmQn-eJF60=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70502405/acastro_200331_1777_zoom_0001.0.0.jpg' width='700px' /><br/>
+If you're using Zoom on a Mac, now's the time to make sure it's updated to version 5.9.3. Zoom has acknowledged a bug that appears to cause the microphone on Macs running macOS Monterey to stay on even after leaving a meeting, first reported by The Register (via 9to5Mac).
+<a href='https://www.theverge.com/2022/2/12/22930588/zoom-update-psa-macos-monterey-mic-indicator-light-bug'> Source <a/>
