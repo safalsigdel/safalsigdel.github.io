@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FzdmaZnS7GnMaNzVvVH_jdrLPAQ=/0x0:1600x801/1200x800/filters:focal(672x273:928x529)/cdn.vox-cdn.com/uploads/chorus_image/image/70505295/google_d_light_lamp.0.jpeg' width='700px' /><br/>
+If you're in the market for a Google Assistant-supported smart lamp, you'll be sorely disappointed to know that Google created one, but it's only for employees, as reported by 9to5Google. Google designer Ben Gold tweeted out an image of the lamp, cleverly called the dLight, noting it “will likely never be for sale outside of the company.”
+<a href='https://www.theverge.com/2022/2/13/22932202/google-smart-lamp-d-light'> Source <a/>
