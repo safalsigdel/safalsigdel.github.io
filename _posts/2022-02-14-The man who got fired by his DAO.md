@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/r2VA1ozQ7LqrO8N44L0Rs-JI6lQ=/0x0:2971x1981/1200x800/filters:focal(1249x754:1723x1228)/cdn.vox-cdn.com/uploads/chorus_image/image/70498488/1235570383.0.jpg' width='700px' /><br/>
-One of the many aspirations for “web3” is that you could potentially take certain messy, emotional human processes and clean them up by putting them on the blockchain. “Smart contracts” write their terms directly into code, and actions they take are both public and irreversible. Enthusiasts believe this sort of “trustless” system can enable people come together to work on projects that they otherwise might not.
-<a href='https://www.theverge.com/22928769/web3-ethereum-name-service-ens-tokens-voting-dao'> Source <a/>
