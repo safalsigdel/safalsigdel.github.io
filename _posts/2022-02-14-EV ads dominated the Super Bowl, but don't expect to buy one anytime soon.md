@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6yk9-zy5RVPPE_N-7vQW7RVO9LI=/0x0:882x900/1200x800/filters:focal(371x380:511x520)/cdn.vox-cdn.com/uploads/chorus_image/image/70507610/18383_KIA_AMERICA_S_ALL_NEW_ALL_ELECTRIC_EV6_FEATURED_IN_SUPER_BOWL_LVI_SPOT__1_.0.jpg' width='700px' /><br/>
+The Super Bowl was lousy with electric car ads this year, with major automakers from General Motors to Nissan to BMW showing off their new electron-powered offerings. But before you rush down to the local dealership to check out the new EV from your favorite ad, be forewarned: don't believe everything you see on TV.
+<a href='https://www.theverge.com/2022/2/14/22933092/super-bowl-electric-car-ad-commercials-evs-available'> Source <a/>
