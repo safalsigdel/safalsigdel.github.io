@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lqJi19mE_iHcoy5JwnH6MUi4Cu8=/0x0:1650x550/1200x800/filters:focal(693x143:957x407)/cdn.vox-cdn.com/uploads/chorus_image/image/70511083/KaushalMehtaLYNC_1_1644856360366.0.png' width='700px' /><br/>
+Microsoft Teams is getting new 3D emoji today. The software giant has started refreshing its more than 1,800 emoji in Microsoft Teams with new Fluent design ones. The 3D emoji design is available in preview today in Teams, and it's the same as Microsoft announced last year for both Windows and Teams.
+<a href='https://www.theverge.com/2022/2/15/22934720/microsoft-teams-3d-emoji-fluent-design'> Source <a/>

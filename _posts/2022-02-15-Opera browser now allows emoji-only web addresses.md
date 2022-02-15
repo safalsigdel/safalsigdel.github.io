@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Il3UO2ymzBCVBXfPNjokuFm-2Bo=/0x0:1920x1080/1200x800/filters:focal(748x459:1054x765)/cdn.vox-cdn.com/uploads/chorus_image/image/70507017/PR_visual_03_desktop_03_05.0.png' width='700px' /><br/>
-Web browser company Opera said Monday it will enable emoji-only based web addresses “to bring a new level of creativity to the internet.” The integration is part of a partnership with Yat, a company that sells URLs with strings of emoji in them.
-<a href='https://www.theverge.com/2022/2/14/22932918/opera-browser-emoji-only-web-addresses-urls-yat'> Source <a/>
