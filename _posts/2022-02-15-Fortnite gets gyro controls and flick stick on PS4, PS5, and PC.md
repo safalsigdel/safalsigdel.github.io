@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SrdGm_gYiGIH7r8XeYYzhk9SKOc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70510577/fortnite_gyro_controls_1920x1080_b1886a26ee0c.0.jpg' width='700px' /><br/>
+Epic Games is bringing gyro-based motion controls for Fortnite to the PS4, PS5, and PC today. Gyro controls have existed on the Nintendo Switch and Android previously, and this new expansion to PlayStation and PC includes more robust gyro controls and a new flick stick option.
+<a href='https://www.theverge.com/22934611/fortnite-gyro-controls-flick-stick-ps4-ps5-pc-support'> Source <a/>

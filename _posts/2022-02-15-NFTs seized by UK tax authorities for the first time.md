@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IqRYynejyg1MbguDKb-_qYvZo0A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70506373/acastro_211115_4866_0001.0.jpg' width='700px' /><br/>
-The UK's tax department, Her Majesty's Revenue and Customs (HMRC), says it's the first authority in the country to seize an NFT, BBC News reports. The seizure was made as part of a xc2xa31.4 million (roughly $1.9 million) fraud case, in which three individuals have been arrested. The authority seized xc2xa35,000 worth of crypto assets (around $6,762) alongside three NFT artworks which have yet to be valued.
-<a href='https://www.theverge.com/2022/2/14/22932824/hmrc-nft-seizure-fraud-investigation'> Source <a/>

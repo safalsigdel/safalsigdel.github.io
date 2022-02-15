@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/naE9xeOO2X2KyJwHjSTW6n_YH9U=/0x0:3360x2100/1200x800/filters:focal(1412x782:1948x1318)/cdn.vox-cdn.com/uploads/chorus_image/image/70510610/horizon2.0.png' width='700px' /><br/>
+Lego is teaming up with Guerrilla Games on a Horizon Forbidden West set, which transforms the overgrown wildernesses and robotic dinosaurs of the games into a new, Lego form.
+<a href='https://www.theverge.com/2022/2/15/22933964/lego-horizon-forbidden-west-set-guerilla-games-collaboration'> Source <a/>
