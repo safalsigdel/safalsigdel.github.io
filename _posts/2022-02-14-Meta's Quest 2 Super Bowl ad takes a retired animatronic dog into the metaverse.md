@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kujtdGFQn0wZSxQKCnGfOjzsyrQ=/0x0:2148x1174/1200x0/filters:focal(0x0:2148x1174):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23238050/meta_super_bowl_trash_compactor.png' width='700px' /><br/>
-Meta has debuted its Quest 2 Super Bowl ad ahead of the big game, and it's hard to get a grasp on how exactly it's supposed to promote the metaverse (via Wall Street Journal). It evokes a strange mix of nostalgia — and the slight fear — associated with a childhood spent around unsettling animatronics, all while simultaneously giving off Five Nights at Freddy's and Black Mirror vibes.
-<a href='https://www.theverge.com/2022/2/12/22930776/metas-quest-2-super-bowl-metaverse-ad-animatronic-dog-virtual-reality'> Source <a/>

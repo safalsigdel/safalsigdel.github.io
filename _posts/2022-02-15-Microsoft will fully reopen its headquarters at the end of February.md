@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1cuiZdzSayZN9twZTDEizPxtbJg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70508552/acastro_180507_1777_microsoft_0001.0.jpg' width='700px' /><br/>
+Microsoft plans to fully reopen its offices in Washington state, where it is headquartered, on February 28th. The company's reopening plans shifted many times in 2021 before being delayed indefinitely in September, but now Microsoft is committing to a firm date.
+<a href='https://www.theverge.com/2022/2/14/22933452/microsoft-fully-reopen-washington-state-offices-february'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qty1r_mM46Bl9_wVgKLsGd7Qo4U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70504789/qdoledhero.0.jpeg' width='700px' /><br/>
-Alienware's upcoming 34-inch gaming monitor is the first of its kind to come with Samsung's new Quantum Dot OLED panel, and it will cost you a reasonable $1,299, according to a report from Ars Technica. The Dell-owned company debuted the monitor (AW3423DW) at CES this year and will start shipping it out this spring.
-<a href='https://www.theverge.com/2022/2/13/22932031/alienwares-qd-oled-monitor-price-tag'> Source <a/>

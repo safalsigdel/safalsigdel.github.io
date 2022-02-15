@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ro2_ADeA5mqD1kf2CJYLwj0ASJI=/0x0:2646x1540/1200x800/filters:focal(1208x311:1630x733)/cdn.vox-cdn.com/uploads/chorus_image/image/70502075/razzlekahn_crypto_laundering_rapper.0.png' width='700px' /><br/>
-Netflix is gearing up to create a documentary series about the couple who allegedly laundered $4.5 billion worth of stolen Bitcoin (via Variety). This comes just days after Ilya Lichtenstein and Heather Morgan were arrested in connection with the crimes — and not long after many of us (regrettably) became aware of Morgan's rapping alter-ego, Razzlekhan, aka the “Crocodile of Wall Street.”
-<a href='https://www.theverge.com/2022/2/12/22930501/netflix-crypto-laundering-couple-docuseries-razzlekhan'> Source <a/>

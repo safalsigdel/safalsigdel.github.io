@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/paBHnoWYpEBqX1y-5WFzL3R6Dio=/0x0:2048x1536/1200x800/filters:focal(861x605:1187x931)/cdn.vox-cdn.com/uploads/chorus_image/image/70509628/penkesu.computer_heroshot.0.jpg' width='700px' /><br/>
+There aren't a lot of ultra-portable handheld PCs anymore, outside of the GDP pocket and its gaming-focused successors. With tablets, smartphones, and even handhelds like the Steam Deck diluting the marketable needs of owning a laptop, there isn't much space for mini laptops beyond the simple joy of owning a fun-sized version of a traditional computer.
+<a href='https://www.theverge.com/2022/2/14/22933735/penkesu-diy-ultracompact-computer-with-mechanical-keyboard'> Source <a/>

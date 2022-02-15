@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/X5OQ0BiQPunWYlwv6GSOfMvU2Us=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70509259/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+Instagram is rolling out a new feature it calls Private Story Likes, which lets you like somebody's Insta Story without sending them a DM. Previously, any response you sent to someone about a Story — whether it was an emoji or a full-on message — showed up as a response in their DM inbox; with this new feature, you can show some appreciation for a Story without clogging up the user's DMs.
+<a href='https://www.theverge.com/2022/2/14/22933888/instagram-stories-story-likes-respond-without-sending-dm'> Source <a/>

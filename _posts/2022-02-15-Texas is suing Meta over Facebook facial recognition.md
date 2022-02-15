@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_qaiz7pEWl9ECCk501h2AUZO6n4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70507892/acastro_180730_1777_facial_recognition_0001.0.jpg' width='700px' /><br/>
+Texas Attorney General Ken Paxton has sued Meta over its use of facial recognition. The lawsuit, filed today in state district court, claims Meta's Facebook photo tagging system violated the Texas Capture or Use of Biometric Identifier (CUBI) Act. It's seeking financial damages and an end to any unauthorized use of Texans' biometric data.
+<a href='https://www.theverge.com/2022/2/14/22933279/texas-attorney-general-facebook-meta-facial-recognition-photo-tagging'> Source <a/>

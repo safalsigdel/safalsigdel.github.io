@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/38hxqPa5QMSeB0CrC1_H4naxCQE=/0x0:7176x4784/1200x800/filters:focal(3014x1818:4162x2966)/cdn.vox-cdn.com/uploads/chorus_image/image/70508951/1238481639.0.jpg' width='700px' /><br/>
+GiveSendGo, a crowdfunding website that was being used to source donations for the “Freedom Convoy” protest mounted by Canadian truckers, has been taken offline in an apparent hack and information about alleged donors leaked online.
+<a href='https://www.theverge.com/2022/2/14/22933772/givesendgo-funding-freedom-convoy-hacked-donor-leaked'> Source <a/>

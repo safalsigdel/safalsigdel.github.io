@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WQYz3toBQeaerdgQC-Yc8tamDII=/0x0:1170x2532/1200x0/filters:focal(0x0:1170x2532):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23239755/Image_from_iOS.png' width='700px' /><br/>
-Coinbase just made its Super Bowl debut with a remarkable clever QR code ad that might have been too popular: the company's “Less talk, more Bitcoin,” campaign appears to have temporarily knocked out its app following the ad airing during the broadcast
-<a href='https://www.theverge.com/2022/2/13/22932397/coinbases-qr-code-super-bowl-ad-app-crash'> Source <a/>
