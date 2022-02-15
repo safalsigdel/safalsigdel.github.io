@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7SIeX6tZG5sGje18HzTJBGRb5RE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70506769/snapChatPattern_BW.0.jpg' width='700px' /><br/>
-Snapchat is introducing a new way for creators on the app to earn money. The platform is testing mid-roll ads that appear in the Stories of a small group of US creators, with a wider rollout happening in the coming months.
-<a href='https://www.theverge.com/2022/2/14/22927656/snapchat-snap-stars-stories-ads'> Source <a/>

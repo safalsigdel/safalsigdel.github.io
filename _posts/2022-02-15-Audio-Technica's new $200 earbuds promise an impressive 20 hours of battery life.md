@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yy_27PlQOJYxdz0QAXNiF6EHyC0=/0x160:2000x1878/1200x800/filters:focal(784x825:1104x1145)/cdn.vox-cdn.com/uploads/chorus_image/image/70510815/audio_technica_true_wireless_headphones.0.jpg' width='700px' /><br/>
+Audio-Technica's new pair of wireless earbuds (ATH-CKS50TW) cost $200 and stand out by claiming to have impressive battery life, offering up to 20 hours of audio playback and 15 hours when using the buds' active noise-cancellation feature. With the charging case, Audio-Technica says battery life can reach up to 50 hours.
+<a href='https://www.theverge.com/2022/2/15/22933567/audio-technica-ath-cks50tw-earbuds-anc-battery-life-price'> Source <a/>
