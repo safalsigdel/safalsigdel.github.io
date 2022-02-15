@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gRMDqz9kYpba79CIqjCkCTXDrkM=/0x0:1240x612/1200x800/filters:focal(521x207:719x405)/cdn.vox-cdn.com/uploads/chorus_image/image/70511013/Screen_Shot_2022_02_15_at_8.59.52_AM.0.png' width='700px' /><br/>
+Intel has announced that it's buying Tower Semiconductor, an Israeli chipmaking company that focuses on specialty products like radio frequency (RF) chips, CMOS image sensors, and power management parts, for $5.4 billion.
+<a href='https://www.theverge.com/2022/2/15/22934628/intel-tower-semiconductor-acquisition-chips-third-party-foundry'> Source <a/>
