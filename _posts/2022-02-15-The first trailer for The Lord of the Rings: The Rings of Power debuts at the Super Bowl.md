@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HSj6xmT8oh1XeCedDPYpCVvxkhc=/0x0:3360x1354/1200x0/filters:focal(0x0:3360x1354):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23239871/Screen_Shot_2022_02_13_at_8.44.51_PM.png' width='700px' /><br/>
-It's time to return to Middle Earth: the first trailer for Amazon's incredibly ambitious The Lord of the Rings: The Rings of Power has finally arrived during the Super Bowl LVI, giving a first good look at the upcoming prequel series.
-<a href='https://www.theverge.com/2022/2/13/22923339/lord-of-the-rings-trailer-super-bowl-amazon'> Source <a/>
