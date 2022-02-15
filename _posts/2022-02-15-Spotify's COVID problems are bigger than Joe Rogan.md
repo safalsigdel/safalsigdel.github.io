@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LJMHrCRFfs-1kGGUx8quN9TWbeQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70511342/mdoying_180308_1437_0084still.0.jpg' width='700px' /><br/>
+Wow, we're already mid-way through February, and Hot Pod Summit is next week. It's been a marathon over here, not including my Love Is Blind binge time. Today, we have various stories all connected around the idea of money — making and spending it. Let's get right to it.
+<a href='https://www.theverge.com/2022/2/15/22934779/spotify-covid-vaccine-music-moderation-hot-pod'> Source <a/>
