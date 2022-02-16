@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1NolzZcsx56-HtaQiho-SlSIZzs=/0x0:6000x3375/1200x800/filters:focal(2305x1360:3265x2320)/cdn.vox-cdn.com/uploads/chorus_image/image/70516284/JLR_NVIDIA_Key_Visual_RR_I_PACE_160222_16x9.0.jpg' width='700px' /><br/>
+Jaguar Land Rover is teaming up with Nvidia to install high-powered computers in its vehicles to enable advanced driver assistance and autonomous driving features. Starting in 2025, all JLR vehicles will come with Nvidia's end-to-end Drive Hyperion platform installed, the companies said.
+<a href='https://www.theverge.com/2022/2/16/22934920/jaguar-land-rover-nvidia-drive-hyperion-autonomous-driving'> Source <a/>

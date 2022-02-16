@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iNLJTWekisS0GwPicW2m6ALZvJw=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70516213/NMS_Sentinel_Thumbnail.0.png' width='700px' /><br/>
+No Man's Sky is getting its first update of the year on Wednesday, dubbed Sentinel, and developer Hello Games is promising some big changes to combat and enemies.
+<a href='https://www.theverge.com/2022/2/16/22936506/no-mans-sky-sentinel-update-combat-enemies-changes-hello-games'> Source <a/>

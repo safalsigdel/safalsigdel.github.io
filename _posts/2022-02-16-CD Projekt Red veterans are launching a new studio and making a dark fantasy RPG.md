@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HCZffHhuVx3oGO0J9dx1tx0RAcY=/0x543:3056x2443/1200x800/filters:focal(1284x1031:1772x1519)/cdn.vox-cdn.com/uploads/chorus_image/image/70516230/Rebel_Wolves_Teaser_Key_Art.0.png' width='700px' /><br/>
+Veterans of CD Projekt Red (CDPR) are launching a new studio called Rebel Wolves, and they shared the first details about the new venture on Wednesday. Fans of CDPR's The Witcher 3: Wild Hunt might be pleased to hear that Rebel Wolves' first game sounds like it could be a spiritual successor to the hit title.
+<a href='https://www.theverge.com/2022/2/16/22933813/cd-projekt-red-former-developers-new-studio-rebel-wolves'> Source <a/>

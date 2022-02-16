@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Valve's $400-and-up Steam Deck handheld is less than two weeks away from launch, but you can already see its guts spread across a table in no fewer than four teardown videos, including a new one published today by our friends at iFixit. What's more, Valve has announced today that it's making good on its promise to sell replacement parts for the Steam Deck so you can repair it yourself, and it has made iFixit the first authorized seller of parts for both the new Deck and the existing Valve Index VR headset.
-<a href='https://www.theverge.com/2022/2/15/22935171/valve-steam-deck-replacement-parts-teardown-ifixit'> Source <a/>
