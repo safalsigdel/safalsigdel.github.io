@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qxZglaygROKCQk3hkYd9r7kVUB8=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/70516019/l0TEONPIa91ArDRDb6auO2xauuyZazzBe0it9tqwEIA7UkUxVOGiRHph8UBxKvs_HRkRqYY5ZXOXuhKbOTUVad5wHY_3OSs5qx9ukhhkx1Fej_4B_sHIQQRpN4o__qW3fZk_y6ahf0OdENfCodwbzRwyADREunTnPyQGl90bRsxOBCmG.0.png' width='700px' /><br/>
+Waymo announced a new partnership with CH Robinson, a Fortune 500 company and global logistics provider, to test its autonomous trucks in Texas. It's the latest deal that highlights the Alphabet company's growing autonomous truck venture, Waymo Via.
+<a href='https://www.theverge.com/2022/2/16/22934958/waymo-ch-robinson-autonomous-truck-pilot-texas'> Source <a/>
