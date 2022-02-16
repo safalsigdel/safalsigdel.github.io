@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6FwLfZhWw339pwk8vcZ97mnTaZ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70508913/acastro_200109_1777_verizon_0003.0.0.jpg' width='700px' /><br/>
-Verizon says it has fixed a major outage that appeared to affect Georgia and parts of Florida. Wireless customers reported they couldn't make calls, connect to data service, or send and receive text messages for hours.
-<a href='https://www.theverge.com/2022/2/14/22933802/georgia-verizon-wireless-down-network-outage'> Source <a/>

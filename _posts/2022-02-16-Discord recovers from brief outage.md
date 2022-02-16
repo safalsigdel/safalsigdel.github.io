@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ndU-nZoL22VQ6cN94AGKqOjS1bs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70513330/acastro_210129_1777_discord_0002.0.jpg' width='700px' /><br/>
+Discord has recovered from a brief outage, after many users experienced connectivity issues. “We're looking into issues with people sending messages, logging in, streaming videos, etc.,” reads a Discord status message, before the service was back online 30 minutes later.
+<a href='https://www.theverge.com/2022/2/15/22935930/discord-down-outage-connectivity-issues-problems'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/H_SCCoSUBg4CDK_uHBJnZ6n4NDw=/0x0:9000x6000/1200x800/filters:focal(3780x2280:5220x3720)/cdn.vox-cdn.com/uploads/chorus_image/image/70513657/121639_S3W5D1_TorontoDefiantVsAtlantaReign_Stewart_VollandB.0.jpg' width='700px' /><br/>
+In light of Activision Blizzard's pending acquisition by Microsoft, flagging interest, sponsorship troubles, a global pandemic, uncertainty regarding Overwatch 2, and talent layoffs and departures, the Overwatch League has had a giant question mark hanging over its head. Today, in a community update, the League confirmed its fifth season is indeed happening, with an opening day set for May 5th.
+<a href='https://www.theverge.com/2022/2/15/22935230/the-overwatch-league-opening-day-may-5'> Source <a/>

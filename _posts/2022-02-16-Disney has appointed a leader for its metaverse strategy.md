@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EBqfyGOViI4ogRN6nYh5jFQwK3E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70513485/acastro_190411_1777_Disney_Streaming_0003.0.0.jpg' width='700px' /><br/>
+Disney is appointing an executive to head up its metaverse plans, according to a memo CEO Bob Chapek sent to employees (via Reuters and CNBC). Mike White, who previously held the title of SVP of consumer experiences and platforms, will now be SVP of next generation storytelling and consumer experiences.
+<a href='https://www.theverge.com/2022/2/15/22935445/disney-metaverse-strategy-plans-mike-white-memo'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PvJDzvGh0jh7ItO142EMF5zORB8=/0x0:4000x2250/1200x800/filters:focal(1680x805:2320x1445)/cdn.vox-cdn.com/uploads/chorus_image/image/70513304/ixpe_003.0.jpeg' width='700px' /><br/>
+On Monday, NASA released the first science images from its new Imaging X-ray Polarimetry Explorer, or IXPE. A look at the Cassiopeia A supernova — the bright remnants of a star that exploded in space in the 17th century — the image provides a first glimpse of what the space agency's new X-ray mission will teach us about some of the most extreme events in the cosmos, like supernova explosions and cosmic collisions.
+<a href='https://www.theverge.com/2022/2/15/22934793/nasa-supernova-ixpe-cassiopeia-stars-images'> Source <a/>

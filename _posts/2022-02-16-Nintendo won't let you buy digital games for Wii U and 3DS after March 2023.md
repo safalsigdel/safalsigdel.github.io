@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ovqoWlFK_dJiqg6A-R6VfXZQWsM=/0x0:555x368/1200x800/filters:focal(234x140:322x228)/cdn.vox-cdn.com/uploads/chorus_image/image/70514970/DSC_2612-555px.0.jpg' width='700px' /><br/>
+The Nintendo Switch has been Nintendo's main console for years now, but the company has still kept the Wii U and Nintendo 3DS's eShop open for people who want to buy games on those platforms. In March 2023, though, that will no longer be the case — Nintendo won't let you buy things on the Wii U or Nintendo 3DS eShop “as of late March 2023,” the company announced on Tuesday.
+<a href='https://www.theverge.com/2022/2/15/22936552/nintendo-eshop-wii-u-3ds-no-new-purchases-late-march-2023'> Source <a/>

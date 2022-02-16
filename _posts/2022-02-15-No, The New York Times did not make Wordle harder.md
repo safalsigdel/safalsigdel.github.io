@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/uploads/chorus_image/image/50858597/tldr-logo.1473954443.png' width='700px' /><br/>
-Wordle — the viral daily word guessing game that was recently bought by The New York Times — has been on a tear in the past few days. Brainteasers like “ULTRA,” “ULCER,” and “ALOFT” have appeared, frustrating players, many of whom have taken to Twitter to complain that the game's new owners are intentionally amping up the difficulty.
-<a href='https://www.theverge.com/tldr/2022/2/14/22933007/wordle-new-york-times-harder-words-debunk-guesses'> Source <a/>

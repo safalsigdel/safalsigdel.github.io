@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/91vetNnffTR2RqRkK9G3n4vKTss=/0x0:3081x2055/1200x800/filters:focal(1295x782:1787x1274)/cdn.vox-cdn.com/uploads/chorus_image/image/70514328/1237987815.0.jpg' width='700px' /><br/>
+TSMC's new Arizona chip-making plant has run into construction delays, according to a new report from Nikkei Asia, which notes work has fallen three to six months behind schedule due to a mixture of labor shortages, COVID-19 surges, and complexities in obtaining construction licenses.
+<a href='https://www.theverge.com/2022/2/15/22935172/tsmc-arizona-factory-fab-construction-delays-semiconductor-shortage'> Source <a/>

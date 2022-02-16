@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bHMIXY-3X7yCaLta9eTadSa3iz8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70513746/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+Twitter is significantly expanding the beta of its Safety Mode feature, the company announced Tuesday. Safety Mode, which initially rolled out in September, lets you temporarily autoblock accounts that send you harmful or abusive tweets.
+<a href='https://www.theverge.com/2022/2/15/22936021/twitter-autoblocking-safety-mode-beta'> Source <a/>

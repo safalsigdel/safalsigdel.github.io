@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/rZZ2TSS1bb0owqYfYk0wGzEOkJY=/0x0:1200x858/1200x800/filters:focal(504x333:696x525)/cdn.vox-cdn.com/uploads/chorus_image/image/70510256/4855086738.0.jpg' width='700px' /><br/>
-OM Digital Solutions, the new company formed after Olympus sold off its camera business to a Japanese investment fund, has announced its first camera. The OM System OM-1 is a flagship Micro Four Thirds mirrorless camera that serves as a successor to previous high-end Olympus models like the O-MD E-M1 Mark III.
-<a href='https://www.theverge.com/2022/2/15/22934471/om-system-om-1-announced-olympus-specs-price'> Source <a/>

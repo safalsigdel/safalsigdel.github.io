@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m9jvpv7C2SyB0nV3P3vZStSO8lM=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/70510671/1238243934.0.jpg' width='700px' /><br/>
-Wordle's acquisition by The New York Times has already stirred up controversy, from broken streaks to accusations the game has become harder. But here's a big change the NYT isn't shouting about: it's altered Wordle's solutions. As of today, February 15th (game number 241), the New York Times version of Wordle and the original version hosted at powerlanguage.co.uk/wordle have diverged and will now continue forever out of step.
-<a href='https://www.theverge.com/2022/2/15/22934587/wordle-solutions-changed-new-york-times'> Source <a/>

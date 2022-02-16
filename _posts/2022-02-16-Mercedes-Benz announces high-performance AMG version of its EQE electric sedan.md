@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/x52q2UsMHOOjYJpRiZlLgsjzHcI=/0x0:4961x3307/1200x800/filters:focal(2085x1258:2877x2050)/cdn.vox-cdn.com/uploads/chorus_image/image/70514481/2022_01_14_Image_21C0616_014.0.jpg' width='700px' /><br/>
+Mercedes-Benz continues to make good on its promise to go all-electric by 2030 with the announcement of the AMG EQE, a high-performance version of the automaker's electric E-class sedan.
+<a href='https://www.theverge.com/2022/2/15/22934863/mercedes-benz-amg-eqe-electric-sedan-ev'> Source <a/>

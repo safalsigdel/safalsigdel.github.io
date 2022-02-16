@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/v57-CworSYVLMkRxd1w4-3B5dY8=/0x0:4096x2843/1200x800/filters:focal(2783x1034:3437x1688)/cdn.vox-cdn.com/uploads/chorus_image/image/70512002/FLpouLGWQAcK7GW.0.jpeg' width='700px' /><br/>
+Netflix, 2K, and Take-Two Interactive announced Tuesday that they will be partnering to make a live-action film adaptation of BioShock. While it's a potentially exciting announcement, details beyond the existence of the movie are extremely light.
+<a href='https://www.theverge.com/2022/2/15/22935020/netflix-bioshock-movie-film-adaptation-2k-take-two'> Source <a/>

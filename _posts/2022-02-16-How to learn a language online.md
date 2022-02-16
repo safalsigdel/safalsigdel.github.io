@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JHNB44TxTnRdUCt0yLL-zUyfGZA=/0x0:2040x1360/1200x800/filters:focal(930x457:1256x783)/cdn.vox-cdn.com/uploads/chorus_image/image/70513306/acastro_20200723_1777_duolingo_0001.0.jpg' width='700px' /><br/>
+Last year, I decided to start learning Korean. It was entirely on a whim — I don't live in Korea and have no reason I'd ever need to go there. Nonetheless, it's been an incredibly rewarding experience, and I've gotten to a point where I can speak, read, and write comfortably much faster than I ever thought I could.
+<a href='https://www.theverge.com/22933094/language-learn-online-apps-duolingo-pimsleur-rosetta-stone-hellotalk'> Source <a/>
