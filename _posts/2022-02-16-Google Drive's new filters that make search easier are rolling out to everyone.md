@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yW-pmtTtiIaOWmXZcxc0W8ij2_Q=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70513764/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Search chips, a feature that's supposed to make it easier to search for files in Google Drive, is becoming available to all Workspace users, including G Suite Basic and Business users. It was first released as a beta in November and should let you narrow down your search results by location, file type, date modified, people, tasks, and shared label.
-<a href='https://www.theverge.com/2022/2/15/22935837/google-drive-search-chips-filters-available-all-users'> Source <a/>

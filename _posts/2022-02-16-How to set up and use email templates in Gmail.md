@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Yd8zkqdKEhLWtIfm5YlLjT4ndmA=/0x0:2748x1702/1200x800/filters:focal(1155x632:1593x1070)/cdn.vox-cdn.com/uploads/chorus_image/image/67042702/1193598790.jpg.0.jpg' width='700px' /><br/>
-If you, like me, find yourself writing the same email over and over again or copying and pasting the same message multiple times, Gmail gives you an easier option. By creating and saving email templates, you can insert them the next time you compose a message and save yourself some time.
-<a href='https://www.theverge.com/21318890/gmail-template-compose-write-messages-automatic-reply-email-google'> Source <a/>
