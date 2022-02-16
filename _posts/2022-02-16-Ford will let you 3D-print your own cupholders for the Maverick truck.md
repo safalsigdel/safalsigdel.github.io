@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OsAWJ1LR7RY_IoHKUE2dZWMDlU4=/0x0:2803x2102/1200x800/filters:focal(1178x827:1626x1275)/cdn.vox-cdn.com/uploads/chorus_image/image/70516632/Cupholder.0.jpeg' width='700px' /><br/>
+Ford is encouraging its customers to 3D-print new accessories for the company's new 2022 Maverick truck. This week, Ford released CAD files of the Maverick's storage area under the rear seats and also for its slotted accessories called the Ford Integrated Tether System (FITS).
+<a href='https://www.theverge.com/2022/2/16/22936380/ford-maverick-cupholders-3d-print-accessories-cad-fits'> Source <a/>
