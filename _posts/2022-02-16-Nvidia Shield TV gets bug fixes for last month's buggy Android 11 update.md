@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nkxYhros_Q46xJW41XJCOM5mAqQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70513709/DSCF4370.0.jpg' width='700px' /><br/>
-Today, Nvidia's Shield TV got some software fixes with the rollout of Shield Experience Upgrade 9.0.1 (via 9to5Google), a much-needed patch to last month's buggy 9.0 release based on Android 11. Nvidia posted release notes on its forum today that detail some more fixes and details in another post some known issues that still lurk in the update.
-<a href='https://www.theverge.com/2022/2/15/22934964/nvidia-shield-tv-experience-9-0-1-plex-storage'> Source <a/>

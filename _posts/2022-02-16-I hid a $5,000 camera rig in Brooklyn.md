@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Xj2HxmL1d6aVXDviYr2-V7s5n0s=/0x0:2040x1135/1200x800/filters:focal(857x405:1183x731)/cdn.vox-cdn.com/uploads/chorus_image/image/70516556/MAINIMAGE_WILDLIFE_640x960_v02.0.jpg' width='700px' /><br/>
+When I think of wildlife photography, I think of powerful animals photographed using long lenses in epic environments. That was until I met ex-ventriloquist-turned-wildlife-conservation-photographer Carla Rhodes. She has captured over 25 different species of wild animals in the backyard of her Catskills home, and most of the time, she isn't even there to hit the shutter button.
+<a href='https://www.theverge.com/22926074/wildlife-photography-camera-trap-full-frame-becca-farsace'> Source <a/>
