@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V-I-OtJLDZxvlB2KZyAzj5x-Mng=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70515636/IMG_2020.0.jpg' width='700px' /><br/>
+Realme has announced the Realme 9 Pro and Pro Plus, two new phones that now sit at the top of its extremely popular mid-range numbered series. We reviewed the 8 Pro last year and found it to be one of the best value phones available anywhere — except the US, of course, where Realme doesn't have a presence.
+<a href='https://www.theverge.com/2022/2/16/22936918/realme-9-pro-plus-launch-specs-details-camera-color'> Source <a/>

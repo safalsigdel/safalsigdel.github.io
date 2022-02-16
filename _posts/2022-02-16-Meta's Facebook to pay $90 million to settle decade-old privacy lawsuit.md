@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wgfKHKCbFLi0fWYoVoVgwOO9GSk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70512127/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Meta, Facebook's parent company, agreed to pay $90 million to settle a 2012 lawsuit accusing the company of tracking users even after they logged out of their accounts.
-<a href='https://www.theverge.com/2022/2/15/22935147/meta-facebook-privacy-like-tracking-data-settlement'> Source <a/>

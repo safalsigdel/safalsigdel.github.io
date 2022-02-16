@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WVDDikHErog6k4oSlt7dm8J8vfI=/0x0:830x554/1200x800/filters:focal(349x211:481x343)/cdn.vox-cdn.com/uploads/chorus_image/image/70515760/Screen_Shot_2022_02_16_at_11.02.45_AM.0.jpg' width='700px' /><br/>
+A month and a half into 2022, Apple Music's roundup of your listening habits throughout the year is already live, 9to5Mac reports. Unlike Spotify, whose Wrapped feature launches each December, Apple's competing Music Replay feature is available from now until the end of the year. So if you're an Apple Music subscriber keen to see what your music tastes have been like over the past 47 days, now's the time.
+<a href='https://www.theverge.com/2022/2/16/22936997/apple-music-replay-2022-now-available-spotify-wrapped'> Source <a/>

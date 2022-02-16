@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Vj76anUH6TCoTYLD1wkakRWmzzU=/0x0:1124x544/1200x800/filters:focal(473x183:651x361)/cdn.vox-cdn.com/uploads/chorus_image/image/70512751/Screen_Shot_2022_02_15_at_09.28.34.0.png' width='700px' /><br/>
-Meta is changing the name of Facebook's News Feed, the primary part of the service that users scroll through to see what their friends and family have shared. Going forward, it'll just be called the “Feed,” according to a tweet from the company on Tuesday. The “News Feed” name had been in place since the feature was first introduced more than 15 years ago.
-<a href='https://www.theverge.com/2022/2/15/22935080/facebook-meta-news-feed-renaming-branding-political-content-misinformation'> Source <a/>
