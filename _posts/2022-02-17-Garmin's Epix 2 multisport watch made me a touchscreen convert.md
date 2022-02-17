@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1bnPbOcpOyfy387lNEQ8wJDM_lE=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70516883/tricker_220129_5015_0001.0.jpg' width='700px' /><br/>
+The Apple Watch might bill itself as a fitness-focused smartwatch, but none of my extremely fit friends wear one. That's because we prefer Garmin's lineup of rugged, big-button smartwatches with sunlight-readable displays. While Apple dominates the casual fitness smartwatch market, Garmin is the go-to brand for hardcore athletes that want to look like hardcore athletes.
+<a href='https://www.theverge.com/22934516/garmin-epix-2-review'> Source <a/>

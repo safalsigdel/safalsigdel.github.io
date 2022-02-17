@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VIIwjHTSQqtMP_zSqR5cJ06VyI8=/0x0:1596x990/1200x800/filters:focal(671x368:925x622)/cdn.vox-cdn.com/uploads/chorus_image/image/70517937/AAT.0.jpg' width='700px' /><br/>
+In September, Twitter launched an experiment of labels for automated (aka bot) accounts to make it easier to know when an account was running on its own. That experiment has apparently proved to be a success, as Twitter will let developers add labels to their automated accounts beginning Wednesday. You'll see the label on the account's profile and under the account's name in your feed.
+<a href='https://www.theverge.com/2022/2/16/22937435/twitter-labels-automated-bot-accounts'> Source <a/>

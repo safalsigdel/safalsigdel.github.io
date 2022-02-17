@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dn9NANZ-XCRfj3TckBZZljhtJkU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70514382/acastro_180109_1777_0001.0.jpg' width='700px' /><br/>
-On Tuesday, Ukraine's Ministry of Defence suffered from a DDoS attack that prevented users from accessing its website, and two Ukrainian banks lost access to online banking services, according to statements from the government.
-<a href='https://www.theverge.com/2022/2/15/22936192/ukraine-defense-ministry-ddos-russia-conflict-de-escalation'> Source <a/>

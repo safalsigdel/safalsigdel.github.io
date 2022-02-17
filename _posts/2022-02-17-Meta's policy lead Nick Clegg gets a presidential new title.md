@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TA64ms6ZDLiNO084n5cH5ew9XfY=/0x0:5342x3623/1200x800/filters:focal(2757x1502:3611x2356)/cdn.vox-cdn.com/uploads/chorus_image/image/70518466/1194882390.0.jpg' width='700px' /><br/>
+Nick Clegg — Meta's head of policy and communications — is getting a fancy new title: he's being upgraded from vice president of global affairs to president of global affairs. The move seems less about elevating Clegg's responsibilities and more about positioning him (rather than CEO Mark Zuckerberg or COO Sheryl Sandberg) front and center for Meta's major policy decisions and interactions with governments.
+<a href='https://www.theverge.com/2022/2/16/22937673/meta-policy-lead-nick-clegg-promoted-new-title-policy'> Source <a/>

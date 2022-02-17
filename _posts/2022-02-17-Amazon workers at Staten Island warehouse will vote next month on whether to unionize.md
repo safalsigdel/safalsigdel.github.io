@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GEIYIDTdSbYfZTPlb_k544CJNpg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70517307/acastro_181114_1777_amazon_hq2_0004.0.jpg' width='700px' /><br/>
+Workers at an Amazon warehouse on Staten Island in New York City will hold an election next month to decide whether to unionize, the Amazon Labor Union (ALU) said Wednesday. Workers at the warehouse, called JFK8, will vote between March 25th and March 30th, according to the ALU, which is representing the workers. The election will be held in person at a tent outside the warehouse, the ALU tweeted.
+<a href='https://www.theverge.com/2022/2/16/22937440/amazon-jfk8-staten-island-union-election-march-25th'> Source <a/>

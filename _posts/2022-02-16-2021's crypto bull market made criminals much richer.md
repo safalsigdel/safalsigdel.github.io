@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jjauOr-0XjyjzPXBKJk9VIewBLQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70515981/acastro_bitcoin_2.0.jpg' width='700px' /><br/>
-At the end of 2021, cybercriminals had over $11 billion in cryptocurrency tied to illicit activity, a meteoric rise from the $3 billion they held at the end of 2020, according to a report from blockchain data company Chainalysis. The most lucrative crime was theft — 93 percent of the funds in criminals' crypto wallets were made up of stolen coins worth $9.8 billion, according to the firm.
-<a href='https://www.theverge.com/2022/2/16/22936322/cryptocurrency-criminal-illicit-holdings-2021-chainalysis'> Source <a/>

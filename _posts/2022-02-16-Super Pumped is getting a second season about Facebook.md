@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_fopKeLrBD5o7OSJdL6PCoLcZio=/0x0:5512x3893/1200x800/filters:focal(2316x1507:3196x2387)/cdn.vox-cdn.com/uploads/chorus_image/image/70514558/1327685501.0.jpg' width='700px' /><br/>
-Showtime's anthology series Super Pumped is getting a second season, and this one will be about Facebook with a focus on founder and CEO Mark Zuckerberg's relationship with COO Sheryl Sandberg, according to The Hollywood Reporter.
-<a href='https://www.theverge.com/2022/2/15/22936393/super-pumped-second-season-facebook-meta-mark-zuckerberg-sheryl-sandberg'> Source <a/>

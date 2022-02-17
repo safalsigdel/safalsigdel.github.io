@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CHbRJRuDGUkm_jaiefAQks9RBIU=/0x0:5700x3317/1200x800/filters:focal(2394x1203:3306x2115)/cdn.vox-cdn.com/uploads/chorus_image/image/70517773/2022_GMC_HUMMER_EV_001.0.jpg' width='700px' /><br/>
+We always knew that when General Motors decided to resurrect the Hummer brand as an electric truck, we were still going to get something excessively massive, as per its namesake. But I don't think we were adequately prepared for the amount of truck bloat encapsulated in the Hummer EV.
+<a href='https://www.theverge.com/2022/2/16/22937491/hummer-ev-electric-truck-battery-weight-truck-bloat'> Source <a/>

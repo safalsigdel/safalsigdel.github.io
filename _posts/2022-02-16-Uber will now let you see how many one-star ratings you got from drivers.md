@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zZ5VCvcFunKsmrsKNURfSNsCx7c=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70515667/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
-For the first time, Uber is allowing its customers to see how many five-star ratings they've received from drivers  — as well as how many shameful one-star reviews they've racked up.
-<a href='https://www.theverge.com/2022/2/16/22935861/uber-five-star-rating-breakdown-customers-privacy'> Source <a/>

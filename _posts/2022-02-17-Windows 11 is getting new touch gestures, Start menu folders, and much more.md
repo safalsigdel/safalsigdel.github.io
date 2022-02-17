@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oESgqAFn3LztRDnEJykzRQt5IaM=/0x0:1129x759/1200x800/filters:focal(475x290:655x470)/cdn.vox-cdn.com/uploads/chorus_image/image/70517612/Start_Folders.0.png' width='700px' /><br/>
+Microsoft is bringing new touch gestures, Start menu folders, a redesigned Task Manager, and lots more improvements to Windows 11. A new build of Windows 11 is available to testers today, and it's full of new features that look like they will significantly improve the usability of Windows 11 overall.
+<a href='https://www.theverge.com/2022/2/16/22937573/microsoft-windows-11-start-menu-folders-new-touch-gestures-features'> Source <a/>

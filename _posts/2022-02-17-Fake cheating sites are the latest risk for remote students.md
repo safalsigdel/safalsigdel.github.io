@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nqshXNuxQxv13EHAW0ZGmZAGCSg=/0x0:5474x3650/1200x800/filters:focal(2300x1388:3174x2262)/cdn.vox-cdn.com/uploads/chorus_image/image/70517583/1228454781.0.jpg' width='700px' /><br/>
+Remote testing service Honorlock is using fake answer sites to tempt and catch students who try to cheat on online exams, according to a report by The Markup. When a student visits one of these “honeypot” sites during an online test, the site automatically sends data back to the student's remote testing software, indicating that the student is attempting to cheat.
+<a href='https://www.theverge.com/2022/2/16/22937125/honorlock-remote-proctor-cheating-honeypot-fake-test-answers'> Source <a/>

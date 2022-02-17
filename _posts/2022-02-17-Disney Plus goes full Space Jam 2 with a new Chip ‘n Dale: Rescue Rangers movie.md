@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vUQJioZat_XnAcRsyXZlnaU3YaU=/404x0:2880x1176/1200x800/filters:focal(1379x379:1839x839)/cdn.vox-cdn.com/uploads/chorus_image/image/70517816/Screen_Shot_2022_02_16_at_10.05.50.0.png' width='700px' /><br/>
+Disney has released a trailer for the Disney Plus exclusive movie Chip ‘n Dale: Rescue Rangers, and it seems it's following in the grand tradition of Space Jam 2 by being squarely targeted toward the age bracket that remembers the characters from late '80s and early '90s cartoons.
+<a href='https://www.theverge.com/2022/2/16/22937546/disney-plus-chip-n-dale-rescue-rangers-movie-reboot'> Source <a/>

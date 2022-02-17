@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/upxEqQFbnxO-r2146dGde9EEmOM=/0x0:1898x1068/1200x800/filters:focal(798x383:1100x685)/cdn.vox-cdn.com/uploads/chorus_image/image/70518071/Screen_Shot_2022_02_10_at_12.05.58_PM.0.0.png' width='700px' /><br/>
+After previously announcing that it would not release a new The Sims 4 wedding pack in Russia due to the country's anti-LGBTQ laws, EA has reversed course saying it will now sell My Wedding Stories in Russia with all its LGBTQ content and marketing intact.
+<a href='https://www.theverge.com/2022/2/16/22937697/ea-the-sims-4-my-wedding-stories-relesase-russia'> Source <a/>

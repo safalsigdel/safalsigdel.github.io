@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Q-KHRQ2HUDu9TVYrGtRckRunnWM=/0x0:1190x605/1200x800/filters:focal(406x178:596x368)/cdn.vox-cdn.com/uploads/chorus_image/image/70518687/google_docs_pageless.0.jpg' width='700px' /><br/>
+During Google's I/O event last year, the company laid out plans to significantly revamp the look and feel of its Workspace cloud apps (they were called G Suite until a 2020 name change). That includes a new look for Gmail that's starting to roll out this month, search chips (you can just call them filters) for Google Drive, and a set of changes that are about to arrive for Google Docs and Google Sheets.
+<a href='https://www.theverge.com/2022/2/16/22935824/google-workspace-pageless-smart-canvas-ai-sheets-office-docs-sheets'> Source <a/>

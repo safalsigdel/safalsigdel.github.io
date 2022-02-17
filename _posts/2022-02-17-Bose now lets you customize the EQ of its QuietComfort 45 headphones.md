@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EtNgs1NGYjC_81eYaLfanunGYhM=/0x0:2040x1360/1200x800/filters:focal(942x667:1268x993)/cdn.vox-cdn.com/uploads/chorus_image/image/70517370/cwelch_202109_4775_5635.0.jpg' width='700px' /><br/>
+Owners of Bose's QuietComfort 45 noise-canceling headphones can now customize the bass, mid-range, and treble EQ settings to their liking. With a new firmware update released yesterday, the QC45s are no longer stuck on their default, out-of-the-box tuning. You can dial in your preferred settings or choose from a few of Bose's own presets, including bass boost, treble reducer, and so on.
+<a href='https://www.theverge.com/2022/2/16/22937488/bose-qc45-custom-eq-bass-mid-treble-now-available'> Source <a/>

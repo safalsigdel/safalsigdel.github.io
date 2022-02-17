@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/R4x4f1n8h11dPiE8NCVFrCs_olc=/0x0:1399x918/1200x800/filters:focal(589x348:811x570)/cdn.vox-cdn.com/uploads/chorus_image/image/70514437/Baby_Shark_Dance____babyshark_Most_Viewed_Video___Animal_Songs___PINKFONG_Songs_for_Children_0_18_screenshot__1_.0.png' width='700px' /><br/>
-“Baby Shark” — the impossibly catchy viral earworm of a children's song that's also the most-watched YouTube video in history — is getting a full-length film, set for release in 2023, Paramount announced.
-<a href='https://www.theverge.com/2022/2/15/22936250/baby-shark-movie-paramount-plus-announcement'> Source <a/>

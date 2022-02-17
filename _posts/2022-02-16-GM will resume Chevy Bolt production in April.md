@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZqnNlOJ08FtFlvvD3kFZNV6eths=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70514554/aliptak_180919_2960_5229.0.jpg' width='700px' /><br/>
-GM is set to resume production of its electric Chevy Bolt in April after halting production to address a battery recall, according to reports from the Wall Street Journal and The Detroit News. The automaker originally predicted it wouldn't start building Bolts until at least the end of January 2022.
-<a href='https://www.theverge.com/2022/2/15/22936174/gm-chevy-bolt-production-april'> Source <a/>

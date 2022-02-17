@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Wn7dpYfh-1ETpOkaD_RWeLjQgiM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70516688/acastro_190723_1777_tiktok_0003.0.0.jpg' width='700px' /><br/>
-If you've decided to delete your TikTok account for whatever reason, there's good news — it's relatively easy to do and should only take a few minutes (provided you're already logged in or remember your password). The process can be done either in the app or on the web — here's how:
-<a href='https://www.theverge.com/22933815/how-to-delete-tiktok-account-backup-data-recover'> Source <a/>

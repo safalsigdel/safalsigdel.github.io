@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zi5a9oP65O3TdlDy_kK8jvbJHPA=/0x0:1894x919/1200x800/filters:focal(796x309:1098x611)/cdn.vox-cdn.com/uploads/chorus_image/image/70516705/wordle.0.png' width='700px' /><br/>
-As a fairly enthusiastic — if not very expert — Wordle player, I wasn't thrilled with the idea that The New York Times was adding the word game to its quiver. But I understood why the Times would want it, and why the game's creator would want to not have to deal with its unexpected popularity. So I heaved a sigh, and prepared to continue to play on the new site.
-<a href='https://www.theverge.com/22937132/wordle-nytimes-game-chrome-firefox-cookies'> Source <a/>

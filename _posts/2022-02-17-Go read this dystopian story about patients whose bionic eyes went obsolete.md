@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/n3bG75fqxpdOgUviKriN6jJPEYc=/0x0:2835x2015/1200x800/filters:focal(1192x782:1644x1234)/cdn.vox-cdn.com/uploads/chorus_image/image/70518104/480490356.0.jpg' width='700px' /><br/>
+More than 350 blind people around the world have implants in their eyes made by the company Second Sight Medical Products, which could help partially restore aspects of sight. But the company abandoned the technology a few years ago when it was teetering on the verge of bankruptcy, according to a new investigation from IEEE Spectrum. Now, if something goes wrong with the implants, users are left stranded.
+<a href='https://www.theverge.com/2022/2/16/22937198/bionic-eye-company-defunct-ieee-spectrum-go-read-this'> Source <a/>

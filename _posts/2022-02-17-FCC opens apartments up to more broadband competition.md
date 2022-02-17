@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hTezcb0sVygZKBbgCSfbCcFEvWM=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70518057/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
+Many Americans living in apartment buildings only have one choice of internet provider, and there's very little tenants can do if they want to switch companies. But consumers could soon find cheaper and hardier service after the Federal Communications Commission approved new rules to bolster competition this week.
+<a href='https://www.theverge.com/2022/2/16/22937733/fcc-broadband-competition-apartments-landlords-agreements'> Source <a/>

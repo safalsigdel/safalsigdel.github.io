@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kVY0xGRabZCOfNqLkJ4jTJAblGI=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70517767/p4gassets_3186433b.0.jpg' width='700px' /><br/>
+Valve's Steam Deck portable game system, launching February 25th, won't necessarily play every Windows game you own — but a brand-new release of Valve's Proton compatibility layer, version 7.0, is making the PC versions of PlayStation Vita hit Persona 4 Golden, Nintendo Switch darling Monster Hunter Rise, and Xbox favorite Forza Horizon 5 playable. Heck, we might even be getting Apex Legends as well.
+<a href='https://www.theverge.com/2022/2/16/22937525/steam-deck-proton-linux-persona-4-golden-monster-hunter-rise-forza-horizon-5'> Source <a/>
