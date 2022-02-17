@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4dZm1ZM6Z0rvN7afhUH9KZJ8Rmo=/0x0:5464x3640/1200x800/filters:focal(2295x1383:3169x2257)/cdn.vox-cdn.com/uploads/chorus_image/image/70517715/1262738334.0.jpg' width='700px' /><br/>
-Renewable energy growth in the US in 2021 fell far short of what's needed to reach climate goals, according to a new report by trade group American Clean Power.
-<a href='https://www.theverge.com/2022/2/16/22937248/biden-climate-goals-renewable-energy-growth-us-lags-solar-wind-batteries'> Source <a/>
