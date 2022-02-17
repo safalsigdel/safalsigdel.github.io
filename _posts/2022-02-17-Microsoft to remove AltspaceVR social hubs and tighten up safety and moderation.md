@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EasPLw43ZmDiJtMGkOyWFde3A8E=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70516770/maxresdefault.0.jpg' width='700px' /><br/>
-Microsoft is removing all social hubs hosted in AltspaceVR and requiring users to log into the virtual reality app using a Microsoft account. The changes are designed to improve safety and moderation on AltspaceVR, and Microsoft will also turn its existing safety bubble feature on by default and mute attendees joining meetings in AltspaceVR by default.
-<a href='https://www.theverge.com/2022/2/16/22937192/microsoft-altspacevr-social-hubs-safety-changes'> Source <a/>

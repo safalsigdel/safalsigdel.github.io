@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IFU7CNkocGCxcDbFaofq-3USi4g=/0x0:1200x800/1200x800/filters:focal(504x304:696x496)/cdn.vox-cdn.com/uploads/chorus_image/image/70519712/fx5.0.jpg' width='700px' /><br/>
+Oppo has released official images of its latest flagship phone, which will be part of the Find X5 series. The company posted pictures of black and white versions of the device along with details on its launch event, which will take place at 6am ET on February 24th, just ahead of Mobile World Congress 2022 in Barcelona.
+<a href='https://www.theverge.com/2022/2/17/22938600/oppo-find-x5-pro-official-images-launch-event-date-time'> Source <a/>
