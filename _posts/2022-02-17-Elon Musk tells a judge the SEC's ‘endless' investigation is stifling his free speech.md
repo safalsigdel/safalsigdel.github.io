@@ -1,3 +1,3 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BJ-XVXIshATcfrAIHpW0wG64K38=/0x0:6048x4024/1200x800/filters:focal(1961x1587:2927x2553)/cdn.vox-cdn.com/uploads/chorus_image/image/70520593/1238367009.0.jpg' width='700px' /><br/>
+<img src='https://cdn.vox-cdn.com/thumbor/EbXF5uT4VDqLZw7sgnqUopfA6kc=/0x0:4978x3490/1200x800/filters:focal(1746x1658:2542x2454)/cdn.vox-cdn.com/uploads/chorus_image/image/70520593/1234657348.5.jpg' width='700px' /><br/>
 Tesla and SpaceX CEO Elon Musk, one of the wealthiest men in the world (depending on the day) says the Securities and Exchange Commission (SEC) has tried to “chill” his free speech in an “unrelenting investigation” of him and the automaker he co-founded. The SEC, Musk's attorneys allege, “has broken its promises” in a 2018 settlement over a tweet Musk posted saying he had funding secured to take Tesla private.
 <a href='https://www.theverge.com/2022/2/17/22938823/elon-musk-sec-investigation-free-speech-tesla'> Source <a/>
