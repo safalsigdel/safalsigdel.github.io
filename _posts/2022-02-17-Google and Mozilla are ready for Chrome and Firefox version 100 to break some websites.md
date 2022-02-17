@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jn2PDCF3nmdGlCnGgHB7JSRimis=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70519991/acastro_180416_1777_chrome_0001.0.jpg' width='700px' /><br/>
+Chrome, Firefox, and Edge are about to hit version 100, in a triple release that could break some websites. The move to version 100 in the coming weeks could result in bugs or compatibility issues on some websites not ready to read triple-digit user-agent strings. Google, Mozilla, and Microsoft are busy trying preempt any big issues.
+<a href='https://www.theverge.com/2022/2/17/22938721/chrome-firefox-edge-version-100-websites-bug-compatibility-issues-mozilla-google-microsoft'> Source <a/>

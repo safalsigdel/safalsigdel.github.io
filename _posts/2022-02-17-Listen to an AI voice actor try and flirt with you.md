@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Qlz4voLjxGEKd9f1KKzFNUDPOPg=/25x140:2880x1625/1200x800/filters:focal(1210x670:1670x1130)/cdn.vox-cdn.com/uploads/chorus_image/image/70520099/Screenshot_2022_02_17_at_10.42.01.0.png' width='700px' /><br/>
+The quality of AI-generated voices has improved rapidly in recent years, but there are still aspects of human speech that escape synthetic imitation. Sure, AI actors can deliver smooth corporate voiceovers for presentations and adverts, but more complex performances — a convincing rendition of Hamlet, for example — remain out of reach.
+<a href='https://www.theverge.com/2022/2/17/22936978/ai-voice-speech-synthesis-audio-deepfake-sonantic-flirtation'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Rbwauzaa-_U2Wyr7CnicdGrEchc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70517581/acastro_170621_1777_0003_fin.0.jpg' width='700px' /><br/>
-Russian state-sponsored hackers have been targeting security-cleared US defense contractors for at least two years, according to an alert released Wednesday by the Cybersecurity and Infrastructure Agency (CISA), Federal Bureau of Investigation (FBI), and National Security Agency (NSA).
-<a href='https://www.theverge.com/2022/2/16/22937554/russian-hackers-target-us-defense-contractors-nsa-cisa'> Source <a/>

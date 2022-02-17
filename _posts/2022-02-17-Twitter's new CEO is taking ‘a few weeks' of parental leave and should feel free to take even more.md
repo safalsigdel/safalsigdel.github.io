@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/v46yfkq9YMO7An3l7LPU4id1lUM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70516975/acastro_211129_4896_0001.0.jpg' width='700px' /><br/>
-Twitter CEO Parag Agrawal plans to take “a few weeks” of paternity leave for the birth of his second child, the company confirmed Wednesday. First reported by The Washington Post, Agrawal announced he was taking the leave at a company all-hands meeting last week, although he apparently will take less than the full 20 weeks that Twitter provides.
-<a href='https://www.theverge.com/2022/2/16/22937113/twitter-ceo-paternity-leave-tech'> Source <a/>

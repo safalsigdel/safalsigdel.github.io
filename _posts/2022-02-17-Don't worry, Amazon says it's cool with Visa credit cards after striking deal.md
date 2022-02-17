@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VHPHV4bcwz8NU4XxceuzSCNEPCw=/0x0:5000x3333/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70519977/1365234963.0.jpg' width='700px' /><br/>
+Amazon will continue to accept Visa credit cards after reaching a global deal, just weeks after the retail giant threatened to stop accepting Visa credit cards in the UK. Bloomberg reports that Amazon will also stop charging Visa credit cardholders an extra fee on purchases made in Singapore and Australia.
+<a href='https://www.theverge.com/2022/2/17/22938726/amazon-visa-payment-transaction-fee-deal'> Source <a/>
