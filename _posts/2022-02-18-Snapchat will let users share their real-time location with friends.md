@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QUdP2whzPr3WB_j1Xw0xxMSVsl8=/0x0:1920x1080/1200x800/filters:focal(810x298:1116x604)/cdn.vox-cdn.com/uploads/chorus_image/image/70524755/1920_x_1080_TLLS_Blog_Asset.0.jpg' width='700px' /><br/>
+Snapchat users will have a new way of keeping tabs on friends. The company announced today it would introduce real-time location sharing, meant to be used as a temporary buddy system while friends and family are en route to a date or headed home, for example.
+<a href='https://www.theverge.com/2022/2/18/22937338/snapchat-live-location-sharing'> Source <a/>

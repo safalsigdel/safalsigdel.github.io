@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sj-npFN0vj_UFNbQkNFlWX0NwRs=/0x0:2040x1360/1200x675/filters:focal(862x628:1188x954)/cdn.vox-cdn.com/uploads/chorus_image/image/70520377/akrales_220215_5022_0019.0.jpg' width='700px' /><br/>
-Well, I'll be damned. Asus did it. It fixed literally every problem I've ever had with the Zephyrus G14. It added a webcam. It made the screen taller. It made the screen brighter and the touchpad way bigger. When it comes to the features and chassis, I'm basically out of complaints.
-<a href='https://www.theverge.com/22938516/asus-rog-zephyrus-g14-gaming-laptop-review'> Source <a/>

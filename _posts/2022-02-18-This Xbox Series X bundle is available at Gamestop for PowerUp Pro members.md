@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/oPCpflPSpTf6aMSAwXORPutMoQQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70524715/acastro_210511_1777_xboxRestock_0001.0.jpg' width='700px' /><br/>
+If you're a member of GameStop's PowerUp Pro Rewards program, you can grab an Xbox Series X bundle if you head down to your local Gamestop. This exclusively in-store event begins when their doors open, and while some GameStop stores don't open until 11 AM local time, some can open as early as 9 AM, so check the hours of your local participating GameStop to plan accordingly.
+<a href='https://www.theverge.com/2022/2/18/22916191/xbox-series-x-bundle-restock-gamestop-powerup-pro-members'> Source <a/>

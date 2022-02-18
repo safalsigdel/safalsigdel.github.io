@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pmbau-fwC_TyaLDarDmCwEXDRBc=/0x0:2040x1360/1200x675/filters:focal(609x1034:935x1360)/cdn.vox-cdn.com/uploads/chorus_image/image/70520322/jporter_220211_5019_0003.0.jpg' width='700px' /><br/>
-OnePlus has changed a lot. The brand originally started out by releasing a single flagship phone a year sold at a substantially lower price to its more established competitors. Lately that's less true. It now has multiple flagship smartphones, like the OnePlus 9 and 9 Pro that are priced similarly to rivals from Samsung, and it also offers a lineup of around half a dozen mid-range and affordable smartphones under its Nord brand from its UK store.
-<a href='https://www.theverge.com/22937302/oneplus-nord-ce-2-review'> Source <a/>
