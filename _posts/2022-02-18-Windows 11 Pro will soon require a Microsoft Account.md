@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/O1hE-g7MC-bFEV5F9RwnD6dyxGw=/0x0:1320x880/1200x800/filters:focal(555x335:765x545)/cdn.vox-cdn.com/uploads/chorus_image/image/70524298/windowslogo.0.jpg' width='700px' /><br/>
+Microsoft says it's planning to update Windows 11 Pro so it will require an internet connection and a Microsoft Account during the initial setup phase. The changes will mirror the same requirements Microsoft originally added to Windows 11 Home last year, meaning you won't be able to avoid Microsoft Accounts by creating a local user account during setup.
+<a href='https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection'> Source <a/>
