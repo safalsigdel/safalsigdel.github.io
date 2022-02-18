@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bS-rdHc8u4Hbt3lfGYwiy6LVpsk=/0x0:4794x3196/1200x800/filters:focal(2014x1215:2780x1981)/cdn.vox-cdn.com/uploads/chorus_image/image/70518433/1235093469.0.jpg' width='700px' /><br/>
-The Securities and Exchange Commission (SEC) is investigating the relationship between the US branch of cryptocurrency exchange Binance and two trading firms that have ties to Binance CEO Changpeng Zhao, as reported by The Waall Street Journal. The two firms, Merit Peak Ltd. and Sigma Chain AG, serve as market makers that continually buy and sell crypto on Binance.US, helping to lower price volatility.
-<a href='https://www.theverge.com/2022/2/16/22937534/binance-sec-investigation-cryptocurrency-relationship-trading-firms-changpen-zhao'> Source <a/>

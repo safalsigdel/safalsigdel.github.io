@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sfM57sdBK_mBOTycv3XFwfJl7mc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70517964/akrales_220209_5005_0073.0.jpg' width='700px' /><br/>
-If you've been shopping around for a gaming keyboard in the past couple of years, odds are you've happened upon a model from Razer, Corsair, or Logitech which have really dominated this space. Asus and its gaming brand, Republic of Gamers, have been around just as long as the competition but typically aren't the first names that come to mind when buying a new mechanical keyboard for your setup.
-<a href='https://www.theverge.com/22913232/asus-rog-strix-flare-ii-animate-gaming-keyboard-review'> Source <a/>

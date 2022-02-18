@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t03epsGXgkAmJ5UDJMHiJBFd1RY=/0x0:1038x673/1200x800/filters:focal(436x254:602x420)/cdn.vox-cdn.com/uploads/chorus_image/image/70518142/FAP2LyDVkAYpEm3.0.jpeg' width='700px' /><br/>
-HBO's upcoming The Last of Us series seems like it will be a faithful adaptation of the hit video game — but unfortunately, it won't be airing this year, according to comments HBO chief content officer Casey Bloys made to The Hollywood Reporter.
-<a href='https://www.theverge.com/2022/2/16/22937730/the-last-of-us-hbo-tv-show-series-release-date-2023'> Source <a/>

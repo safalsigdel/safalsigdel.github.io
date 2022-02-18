@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/uZ21AIZew3nKsZ_AkHXLZ9yGvfI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70520855/tesla_model_y_3454.0.jpg' width='700px' /><br/>
+The National Highway Traffic Safety Administration says it is investigating 416,000 Tesla vehicles after receiving hundreds of complaints of unexpected braking. The investigation covers all Tesla Model 3 and Model Y vehicles released in 2021 and 2022.
+<a href='https://www.theverge.com/2022/2/17/22938944/tesla-phantom-braking-nhtsa-investigation-defect'> Source <a/>

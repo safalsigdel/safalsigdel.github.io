@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fdM5hZCOjKuQU8tnlBuK9DcvwQ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70521293/sokane_210125_4386_0024.0.jpg' width='700px' /><br/>
+Consumer Reports is swapping the Tesla Model 3 for the Ford Mustang Mach-E as its new top electric vehicle pick for 2022. The designation is sure to give Ford a morale boost as it seeks to outpace Tesla in the race to become the number one EV manufacturer in the US.
+<a href='https://www.theverge.com/2022/2/17/22939085/ford-mustang-mach-e-tesla-model-3-consumer-reports'> Source <a/>

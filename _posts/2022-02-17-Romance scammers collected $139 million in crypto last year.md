@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/90UEWhYTxKrAbeD4pTDxrTpo4_4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70507858/acastro_bitcoin_2.0.jpg' width='700px' /><br/>
-Romance scammers made off with a total of $139 million in cryptocurrency last year, five times more than the amount stolen in 2020, according to a new report from the Federal Trade Commission (FTC). The total amount of money lost through cryptocurrency payments made up the largest piece of the $547 million lost to scammers in 2021. On average, victims who paid via cryptocurrency lost $9,770.
-<a href='https://www.theverge.com/2022/2/14/22933056/crypto-romance-scammers-139-million-fraud'> Source <a/>

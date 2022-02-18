@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QGz7WqIeLRY-4kK40zpNXasumVU=/0x0:2276x1707/1200x800/filters:focal(956x672:1320x1036)/cdn.vox-cdn.com/uploads/chorus_image/image/70519898/Surface_Laptop_Studio___Gaming.0.jpg' width='700px' /><br/>
-Microsoft's big upcoming feature list for Windows 11 includes some important optimizations and improvements behind the scenes for PC games. The software giant is planning to bring its Xbox HDR Game Calibration app to Windows 11, and make older games run with less input lag, Auto HDR, and Variable Refresh Rate (VRR) if they're running windowed instead of fullscreen.
-<a href='https://www.theverge.com/2022/2/17/22938703/windows-11-xbox-hdr-calibration-app-windowed-gaming-optimizations'> Source <a/>

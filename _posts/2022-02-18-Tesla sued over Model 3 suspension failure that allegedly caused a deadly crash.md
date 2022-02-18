@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/CNrGHj8ELvdrO7UbB4ln83x5dI8=/205x205:2013x1426/1200x800/filters:focal(861x605:1187x931)/cdn.vox-cdn.com/uploads/chorus_image/image/70521851/HWY21FH011_img_2.0.jpg' width='700px' /><br/>
+A civil lawsuit has been filed accusing Tesla and a service manager at one of its stores of negligence stemming from a fiery crash that killed a 20-year-old man, Reuters reports.
+<a href='https://www.theverge.com/2022/2/17/22938877/tesla-model-3-lawsuit-suspension-ev-fire-crash-florida'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/86uksmiUMmtVfc582h9PHkEbKqs=/0x0:800x450/1200x800/filters:focal(336x161:464x289)/cdn.vox-cdn.com/uploads/chorus_image/image/70523061/Horizon_Worlds.0.jpg' width='700px' /><br/>
+Facebook has bet its future on virtual reality and the metaverse, rebranding to Meta and spending billions a year to build hardware and software that extends beyond traditional social media. But the company has, at least so far, shared little with the public about how well its early bets are performing.
+<a href='https://www.theverge.com/2022/2/17/22939297/meta-social-vr-platform-horizon-300000-users'> Source <a/>
