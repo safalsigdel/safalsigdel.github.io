@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yA5NI3X66Z7v5adQ34qMtFETdds=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70525813/jpeters_211215_4935_0007.0.jpg' width='700px' /><br/>
+Platform-exclusive content is one of the best ways to juice hardware sales, and Ye, the artist formerly known as Kanye West, announced via Instagram that his next album, Donda 2, “will only be available on my own platform, the Stem Player. Not on Apple Amazon Spotify or YouTube.”
+<a href='https://www.theverge.com/2022/2/18/22940748/donda-2-stem-player-kanye-west-exclusive-music'> Source <a/>

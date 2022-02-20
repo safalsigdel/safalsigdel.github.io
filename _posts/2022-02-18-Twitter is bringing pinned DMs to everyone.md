@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x0Ly_OcjSTaV3WpJjrPe-Gj36Yc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70522172/acastro_170726_1777_0012.0.jpg' width='700px' /><br/>
-Twitter is now rolling out pinned DMs, the company announced Thursday. The feature was previously only available to Twitter Blue subscribers, but it's now coming to everyone on Android, iOS, and the web.
-<a href='https://www.theverge.com/2022/2/17/22939492/twitter-pinned-dms-blue-labs'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ojKl5vUr7skA7s63C2fxngT8FYE=/0x0:1660x932/1200x800/filters:focal(698x334:962x598)/cdn.vox-cdn.com/uploads/chorus_image/image/70524536/Screen_Shot_2020_12_10_at_6.01.43_PM.0.png' width='700px' /><br/>
-FX's upcoming TV series based on the Alien films will be set on Earth “70-odd years from now” which is before Sigourney Weaver's Ellen Ripley character in the franchise's timeline, FX chairman John Landgraf tells The Hollywood Reporter.
-<a href='https://www.theverge.com/2022/2/18/22940575/alien-tv-show-fx-earth-pre-ripley'> Source <a/>

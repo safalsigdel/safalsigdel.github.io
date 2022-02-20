@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U8IO-k0Cucxy5uOb08ALnJjAdzo=/0x0:2040x1530/1200x675/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70525392/jpeters_210910_4757_0001.0.jpg' width='700px' /><br/>
+Picking a fitness tracker is a deeply personal choice. Unlike most gadgets, you're meant to wear these all the time. And while many of us share similar health goals, our bodies and needs are highly individualized. The fitness tracker that everyone else raves about may not work for you and vice versa.
+<a href='https://www.theverge.com/22940671/fitness-tracker-how-to-choose-specs-price-features-smartwatch'> Source <a/>

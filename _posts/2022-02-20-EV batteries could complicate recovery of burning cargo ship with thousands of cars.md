@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wb2akpzOho62MCCfjn7JD2JbRqI=/0x0:1024x484/1200x800/filters:focal(431x161:593x323)/cdn.vox-cdn.com/uploads/chorus_image/image/70525838/_1x_1.0.jpg' width='700px' /><br/>
+A bunch of burning lithium-ion batteries could complicate the recovery of the massive, abandoned cargo ship in the Atlantic Ocean containing thousands of Porsches, Volkswagens, Bentleys, and Lamborghinis.
+<a href='https://www.theverge.com/2022/2/18/22940790/cargo-ship-fire-vw-porsche-lamborghini-ev-battery'> Source <a/>

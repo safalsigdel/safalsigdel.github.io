@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dPbiCGBt5M-fp9Ba-9H2M2lWUL8=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/70521273/acastro_180213_1777_0004.0.jpg' width='700px' /><br/>
-This story originally ran in Hot Pod, The Verge's preeminent audio industry newsletter. You can subscribe here for more scoops, analysis, and reporting.
-<a href='https://www.theverge.com/2022/2/17/22939137/spotify-google-youtube-podsights-chartable-acquisitions'> Source <a/>

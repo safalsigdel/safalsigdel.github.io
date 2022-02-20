@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U1m3_8KWkXSrYDq7oDXyGduMxYo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70522206/ahawkins_211025_4857_0005.0.jpg' width='700px' /><br/>
-The National Highway and Traffic Safety Administration (NHTSA) announced a final ruling this week that permits automakers to finally add Adaptive Driving Beams (ADB) for vehicles on US roads.
-<a href='https://www.theverge.com/2022/2/17/22937489/nhtsa-allows-adb-adaptive-driving-beam-technology'> Source <a/>

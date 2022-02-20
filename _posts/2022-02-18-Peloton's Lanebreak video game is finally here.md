@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LDaqYc-rfjxD9jeFWujTsUt2Y9I=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70521739/In_Game___Breakers___EN.0.jpg' width='700px' /><br/>
-Finally, some less dramatic news from Peloton: its Lanebreak in-app video game is finally here for Peloton Bike and Bike Plus owners.
-<a href='https://www.theverge.com/2022/2/17/22939177/peloton-lanebreak-video-game-fitness-bikes'> Source <a/>

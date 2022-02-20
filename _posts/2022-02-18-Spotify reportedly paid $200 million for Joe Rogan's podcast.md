@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gBX48-LKGB2g5jYF60e713AwzIc=/0x0:3000x2400/1200x800/filters:focal(1260x960:1740x1440)/cdn.vox-cdn.com/uploads/chorus_image/image/70522501/1166802146.0.jpg' width='700px' /><br/>
-Spotify reportedly paid Joe Rogan at least $200 million to commit to podcasting on the platform exclusively for three and a half years, according to a New York Times report. That number, while astronomical, is double what had previously been reported in The Wall Street Journal as Rogan's deal price — $100 million — and has continued to be used widely in the media without correction from Spotify's team.
-<a href='https://www.theverge.com/2022/2/17/22939587/joe-rogan-experience-spotify-podcast-deal'> Source <a/>

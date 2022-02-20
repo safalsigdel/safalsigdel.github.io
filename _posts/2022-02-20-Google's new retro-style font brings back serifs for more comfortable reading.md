@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/arH1UTgOx54_9GF7zXvSDiOiLl4=/0x0:1064x665/1200x800/filters:focal(447x248:617x418)/cdn.vox-cdn.com/uploads/chorus_image/image/70526406/unnamed__1_.0.png' width='700px' /><br/>
+Google has a new version of its Roboto font, and it's bringing serifs back: the aptly named Roboto Serif, designed in collaboration with Greg Gazdowicz of Commercial Type to create a more readable serif companion to its Roboto Sans typeface.
+<a href='https://www.theverge.com/2022/2/18/22940753/google-roboto-serif-font-typeface-design-easier-reading-retro'> Source <a/>
