@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xHbgZMTwSUfxDBLkXlxbruA13BQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70530028/akrales_190328_3240_0067.0.jpg' width='700px' /><br/>
-Barry McCarthy, Peloton's new CEO, weighs an app store and new subscription model as potential ways to kickstart the company's stagnant sales, as stated in an interview with the New York Times' DealBook.
-<a href='https://www.theverge.com/2022/2/19/22942449/pelotons-new-ceo-subscriptions-open-app-store-barry-mccarthy'> Source <a/>

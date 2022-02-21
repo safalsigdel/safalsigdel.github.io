@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3ytvn3BV9I1WIT6rQu_FcWX8SFA=/0x0:5184x3320/1200x675/filters:focal(1606x1443:2434x2271)/cdn.vox-cdn.com/uploads/chorus_image/image/70528766/1238598228.0.jpg' width='700px' /><br/>
-After more than two weeks of chaotic protest, this week, the Canadian government pushed back. On Tuesday, Canadian Prime Minister Justin Trudeau invoked the country's Emergencies Act, enabling new financial restrictions on the protests and signaling harsh new penalties against anyone involved.
-<a href='https://www.theverge.com/2022/2/19/22941291/facebook-canada-trucker-convoy-gofundme-groups-viral-sharing'> Source <a/>

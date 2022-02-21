@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qAyVTGZArxhSa76jwE35hQxEd8M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70531631/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-Apple is reportedly gearing up to release several new Macs with an M2 chip later this year, according to Bloomberg reporter Mark Gurman's Power On newsletter. Gurman expects the company to debut a 13-inch MacBook Pro, Mac Mini, 24-inch iMac, and a redesigned MacBook Air, all outfitted with the rumored M2 chip.
-<a href='https://www.theverge.com/2022/2/20/22943411/apple-m2-chip-new-macs-rumor'> Source <a/>

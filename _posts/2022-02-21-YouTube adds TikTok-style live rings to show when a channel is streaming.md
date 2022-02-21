@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NlJRRTm3I9i3mTzkbxEsZMwsH8Y=/0x0:625x417/1200x800/filters:focal(6x312:106x412)/cdn.vox-cdn.com/uploads/chorus_image/image/70532897/FL5tSVtWYAksMK2.0.jpg' width='700px' /><br/>
-YouTube is adding a new indicator to show when a channel is live streaming on the platform, its chief product officer Neal Mohan has announced on Twitter. It consists of showing a ring with the word “Live” on it around a channel's profile picture when they're live streaming, which you can tap to jump straight into the live broadcast. The feature should make it easier to find currently live content as you browse YouTube.
-<a href='https://www.theverge.com/2022/2/21/22944111/youtube-live-rings-tiktok-instagram'> Source <a/>
