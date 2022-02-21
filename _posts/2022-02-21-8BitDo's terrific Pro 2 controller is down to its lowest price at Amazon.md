@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CLjqQuO6-V-OeXOVoWr3QQBqa8s=/0x0:1476x974/1200x800/filters:focal(620x369:856x605)/cdn.vox-cdn.com/uploads/chorus_image/image/70524991/Screen_Shot_2022_02_17_at_3.41.22_PM.0.png' width='700px' /><br/>
-The Nintendo Switch is a great console, but its Joy-Con controllers aren't exactly made for traditionalists looking for a more familiar controller design. Thankfully, there are excellent third-party alternatives like 8BitDo's Pro 2, which is currently on sale at Amazon for $44.99 instead of $49.99 when you clip the on-page coupon located below the price.
-<a href='https://www.theverge.com/good-deals/2022/2/18/22938974/macbook-pro-samsung-galaxy-buds-2-kindle-paperwhite-8bitdo-pro-2-youtube-tv-deal-sale'> Source <a/>
