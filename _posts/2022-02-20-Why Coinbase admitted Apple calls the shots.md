@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Abu2dxjoNOVMb4DZCxpPpAgD7E8=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70524665/acastro_220204_STK008_0001.0.jpg' width='700px' /><br/>
-One of Web3's benefits, according to boosters such as Jack Dorsey, is that it's censorship-resistant. Because it is decentralized, this argument goes, it is impossible to censor anyone. But it isn't true that cryptocurrency is decentralized. Right now, Web3 has a choke point: Big Tech.
-<a href='https://www.theverge.com/22939290/web3-coinbase-apple-moderation-nfts'> Source <a/>
