@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xTLoVggBx0gfW8-zXVE6hlRe_r8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70527991/acastro_170726_1777_0007_v4.0.jpg' width='700px' /><br/>
+The story of BitConnect doesn't include any rapping Forbes bloggers slash money launderers or dubiously-obtained ape JPGs, but this “pyramid-on-Ponzi” case has spawned a court ruling (PDF, embedded below, via @stephendpalley) that should serve as a warning for influencers: they could be held liable for peddling shady crypto investments.
+<a href='https://www.theverge.com/2022/2/18/22941470/bitconnect-ponzi-bitcoin-securities-act-sec-lawsuit-influencers-youtube-tiktok'> Source <a/>

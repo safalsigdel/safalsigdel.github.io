@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TFxYIVPH0L9wljA-sXxUdLfJzME=/0x0:3000x1687/1200x800/filters:focal(1260x604:1740x1084)/cdn.vox-cdn.com/uploads/chorus_image/image/70532841/Liberty_built_in_Lifestyle_2__2_.0.jpg' width='700px' /><br/>
+Zens is expanding its excellent alternative to Apple's failed AirPower charger, the Liberty wireless charger, with a new model: the Liberty Built-in charger — which, as the name implies, is designed to be integrated directly into your desk itself for an even more streamlined look.
+<a href='https://www.theverge.com/2022/2/21/22938809/zen-libery-wireless-charger-built-in-airpower-price'> Source <a/>

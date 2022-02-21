@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9jZ3mc6l_NDwkxJOL6tWGl9x3uU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70529337/acastro_20200818_1777_epicApple_0002.0.0.jpg' width='700px' /><br/>
+Epic Games is hiring its US-based contingent workers full-time and with benefits, Epic confirmed to The Verge. The Fortnite developer is extending the offer to quality assurance (QA) testers, as well as other “eligible” contract-based employees.
+<a href='https://www.theverge.com/2022/2/19/22942053/epic-games-full-time-employment-contingent-workers'> Source <a/>

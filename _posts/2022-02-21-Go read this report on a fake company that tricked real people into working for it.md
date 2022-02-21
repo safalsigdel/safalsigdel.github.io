@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ep2p8flYpNErSEQ7tgniq9eWPyU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70532965/image.0.png' width='700px' /><br/>
+BBC News has just published an investigation into Madbird, a supposedly hip design agency led by a charismatic social media influencer called Ali Ayad. But while the company had dozens of real employees across the world, the BBC reports that much of its existence was faked, and used to lure real people into working for months for no pay in the hope of eventually making money after landing big projects.
+<a href='https://www.theverge.com/2022/2/21/22944137/bbc-news-fake-company-investigation-jobfished-madbird'> Source <a/>

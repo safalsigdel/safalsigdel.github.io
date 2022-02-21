@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/783lQARkmHzj2DY7FOacXWC5KO8=/0x0:4411x3186/1200x800/filters:focal(1854x1241:2558x1945)/cdn.vox-cdn.com/uploads/chorus_image/image/70526116/1364875196.0.jpg' width='700px' /><br/>
 Former President Donald Trump's upcoming social network, called Truth Social, is currently listed on the App Store with an “expected” February 21st launch date (Presidents' Day), but The New York Times reports that the release has been pushed to March.
+<a href='https://www.theverge.com/2022/2/18/22940947/trump-twitter-clone-truth-social-delayed'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/783lQARkmHzj2DY7FOacXWC5KO8=/0x0:4411x3186/1200x800/filters:focal(1854x1241:2558x1945)/cdn.vox-cdn.com/uploads/chorus_image/image/70526116/1364875196.0.jpg' width='700px' /><br/>
+Former President Donald Trump's upcoming social network, called Truth Social, is currently listed on the App Store with an “expected” February 21st launch date (Presidents' Day), but The New York Times reports that the release has been pushed to March.
 <a href='https://www.theverge.com/2022/2/18/22940947/trump-twitter-clone-truth-social-delayed'> Source <a/>
