@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vGQ00e0YYou1Iu-53dgRvJZLGr8=/0x0:825x550/1200x800/filters:focal(347x209:479x341)/cdn.vox-cdn.com/uploads/chorus_image/image/70535549/gh6_top_slider02.0.jpg' width='700px' /><br/>
+Panasonic has announced its latest video-focused Micro Four Thirds camera, the Lumix GH6, after a delay. The new numbered entry in the popular GH line was teased almost a year ago alongside the launch of the GH5 Mark II; Panasonic confirmed at the time that it would shoot up to 10-bit 4:2:0 4K at 120fps, 10-bit 4:2:2 4K at 60fps, and 10-bit 5.7K at 60fps.
+<a href='https://www.theverge.com/2022/2/22/22945365/panasonic-lumix-gh6-announced-price-specs-release-date'> Source <a/>

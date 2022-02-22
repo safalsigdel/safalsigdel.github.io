@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lQX0Cd0wUQlccPpX9SkMMWJo-rw=/0x0:2904x1936/1200x800/filters:focal(1220x736:1684x1200)/cdn.vox-cdn.com/uploads/chorus_image/image/70527671/1237655113.0.jpg' width='700px' /><br/>
-Skype announced this week that its US users can use it to dial 911 from their home computer, and that its software can share their location with emergency services if needed. The US is the latest addition to the list of regions with Skype emergency service calling; until now it was only available in Australia, Denmark, Finland, and the UK.
-<a href='https://www.theverge.com/2022/2/18/22939665/skype-emergency-calls-911-safety-video-call'> Source <a/>
