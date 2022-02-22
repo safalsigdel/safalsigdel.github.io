@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SrMWdqvrl6GmY7DUHIUEtqreIvw=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/70534570/_DSC6805_2.0.jpg' width='700px' /><br/>
+Amazon is tying two of its big gaming efforts, the Twitch streaming platform and its Luna cloud gaming service, a bit closer together. If you're looking at a game's page on Twitch and that game is available on Luna, you might now see a “Play on Luna” button that takes you to the title on the cloud gaming service (via 9to5Google).
+<a href='https://www.theverge.com/2022/2/21/22944703/amazon-play-on-luna-twitch-button'> Source <a/>

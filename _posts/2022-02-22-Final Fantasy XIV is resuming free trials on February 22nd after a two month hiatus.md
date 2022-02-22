@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/soSbLZIGR1xgsUeEtBjToYYGfFM=/0x0:1920x1080/1200x800/filters:focal(832x188:1138x494)/cdn.vox-cdn.com/uploads/chorus_image/image/70533761/FFXIV_PUB_DIGITAL_FANFESTIVAL_2021_32.0.png' width='700px' /><br/>
+Final Fantasy XIV is finally getting its free trial back on February 22nd, over two months after Square Enix stopped offering it to reduce player load after the incredibly popular Endwalker expansion. The news comes from FFXIV's latest Letter from the Producer Livestream from director and producer Naoki Yoshida that took place over the weekend, via NME.
+<a href='https://www.theverge.com/2022/2/21/22944364/final-fantasy-xiv-free-trials-february-22nd-resume-back-ff-14'> Source <a/>

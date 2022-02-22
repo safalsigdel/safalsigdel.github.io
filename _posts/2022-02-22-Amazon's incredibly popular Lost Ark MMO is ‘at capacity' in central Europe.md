@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mdLIeRkj6ZIw-AswkpQ4zgRUjGc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70534304/LA_SS_05_XL.0.jpeg' width='700px' /><br/>
+The free-to-play MMO Lost Ark has had a huge debut in the West, hitting the second-most concurrent players in Steam history just 24 hours after its February 11th release. Unfortunately, that popularity has meant that players in Europe have had to wait in long queues to play, though developer Smilegate and the game's Western publisher, Amazon Games, are working to try and fix things.
+<a href='https://www.theverge.com/2022/2/21/22944611/lost-ark-mmo-long-queue-times-smilegate-amazon-games'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/sd4Kc5jUbkW7mk0h0v4XUWMQTVw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70526302/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
-The medical journal Health Affairs spent years planning its special issue on health and racism, which it published at the beginning of February. The journal wanted to reach new readers by promoting the issue through targeted advertisements on Twitter and YouTube.
-<a href='https://www.theverge.com/2022/2/18/22937318/twitter-google-ad-blocked-racism-health-journal'> Source <a/>

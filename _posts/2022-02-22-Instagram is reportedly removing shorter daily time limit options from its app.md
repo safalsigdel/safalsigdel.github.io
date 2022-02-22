@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MD_GEwaCYmOxdPygpNTDZgMK1Co=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70534443/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
+Instagram is discontinuing some app time limit options and encouraging users to update their settings, according to a report from TechCrunch. Originally, users were able to select a time limit as low as five minutes a day, while the new options begin at 30 minutes and go up to three hours.
+<a href='https://www.theverge.com/2022/2/21/22944603/instagram-daily-time-limit-options-removed-30-minutes'> Source <a/>

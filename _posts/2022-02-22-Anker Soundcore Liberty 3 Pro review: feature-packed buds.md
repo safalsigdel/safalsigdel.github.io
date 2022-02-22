@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IFFf1_I2fVLL1MSoq2EsPO7u2Ko=/0x0:2040x1360/1200x675/filters:focal(913x701:1239x1027)/cdn.vox-cdn.com/uploads/chorus_image/image/70534130/DSCF7274.0.jpg' width='700px' /><br/>
+Anker has managed to hold its own against giant tech rivals by delivering better-than-expected sound and cramming features into its Soundcore-branded wireless earbuds — all while pricing them lower than the competition. The Liberty 3 Pros are the latest example of this and a showcase of how far the company has come in designing audio products.
+<a href='https://www.theverge.com/22941399/anker-soundcore-liberty-3-pro-earbuds-review'> Source <a/>

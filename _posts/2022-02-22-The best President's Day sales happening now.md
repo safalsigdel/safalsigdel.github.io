@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NWX1Kjql7IrjG7F1O4ywW6tkTmc=/0x0:2040x1360/1200x800/filters:focal(831x749:1157x1075)/cdn.vox-cdn.com/uploads/chorus_image/image/70523038/akrales_211028_4820_0523.0.jpg' width='700px' /><br/>
+President's Day is here, and while it was originally established as a holiday to celebrate the birthday of George Washington, the passage of time has transformed it into a day when we distract ourselves from the foibles of our democratically elected leadership by treating ourselves to some of the best deals of the year.
+<a href='https://www.theverge.com/good-deals/22939133/presidents-day-best-sales-2022-tech-deals-headphones-laptops-tvs-gaming'> Source <a/>
