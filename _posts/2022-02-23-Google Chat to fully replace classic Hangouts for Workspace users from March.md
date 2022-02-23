@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EXKJCSo8uKRU4JIShejiYipmakc=/0x0:640x380/1200x800/filters:focal(269x139:371x241)/cdn.vox-cdn.com/uploads/chorus_image/image/70539859/hangouts.0.jpg' width='700px' /><br/>
+If you're a Google Workspace user, the classic Hangouts messaging service will start to disappear next month as part of the transition to Google Chat. Google has announced that it'll make Google Chat its default chat application beginning March 22nd, meaning users will be redirected to Chat when they try to visit Hangouts in Gmail on the web, or try to use the old Hangouts mobile apps.
+<a href='https://www.theverge.com/2022/2/23/22947115/google-chat-classic-hangouts-gmail-workspace'> Source <a/>
