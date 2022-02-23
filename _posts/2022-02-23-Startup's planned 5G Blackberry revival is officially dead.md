@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iNaxlwYLt4WYH25ZWNAUaT_STR8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70535754/verge-2015-11-06_15-38-09.0.0.jpg' width='700px' /><br/>
-OnwardMobility, the startup hoping to revive Blackberry phones with a 5G keyboard-equipped Android device, is ending its work on the phone and shutting down as a company. “It is with great sadness that we announce that OnwardMobility will be shutting down, and we will no longer be proceeding with the development of an ultra-secure smartphone with a physical keyboard,” the company wrote in a statement on its website.
-<a href='https://www.theverge.com/2022/2/22/22945425/5g-blackberry-revival-cancelled-onwardmobility'> Source <a/>
