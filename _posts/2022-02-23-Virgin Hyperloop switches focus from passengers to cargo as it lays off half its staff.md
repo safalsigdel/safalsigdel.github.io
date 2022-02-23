@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9fHDRdzE4_YgCLWttR5-U6Xo8CQ=/0x0:4160x2759/1200x800/filters:focal(1748x1048:2412x1712)/cdn.vox-cdn.com/uploads/chorus_image/image/70535685/1235722791.0.jpg' width='700px' /><br/>
-Virgin Hyperloop has laid off almost half its staff as the company switches its focus from transporting passengers to shifting freight. Cuts totaling 111 jobs were confirmed by Virgin Hyperloop to The Financial Times, which spoke to former employees at the company. They described the scale of the redundancies as “definitely not expected.”
-<a href='https://www.theverge.com/2022/2/22/22945405/virgin-hyperloop-freight-passenger-focus-lays-off-half-staff'> Source <a/>

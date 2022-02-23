@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8OVQHOWYW4vPwQxaRja8fWle5Cc=/0x0:2953x1969/1200x800/filters:focal(1241x749:1713x1221)/cdn.vox-cdn.com/uploads/chorus_image/image/70539687/5._iQOO_9_Pro.0.jpg' width='700px' /><br/>
+iQOO, Vivo's gaming-focused sub-brand, has announced its latest flagship phones for launch in India, the iQOO 9 and 9 Pro. Like previous iQOO devices, they don't really look like conspicuously gamer-style phones but are focused on performance nonetheless. iQOO is pushing that in its marketing through a tie-in partnership with BMW M Motorsport and a white model with three rally stripes.
+<a href='https://www.theverge.com/2022/2/23/22946939/vivo-iqoo-9-pro-india-launch-specs-price'> Source <a/>
