@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/30oc3VXnWMYUYx9UYwIjvbjNzZY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70540423/DSCF2223.0.0.jpg' width='700px' /><br/>
+Presidents' Day weekend may be over, but thankfully, there are still some sales you can take advantage of. If you've been on the hunt for a pair of good (and very unique) earbuds, Ultimate Ears' Presidents' Day sale involved a solid deal on the UE Fits that's definitely worth a look.
+<a href='https://www.theverge.com/good-deals/2022/2/23/22945655/apple-watch-omni-fire-tv-acer-spin-713-breath-of-the-wild-ue-fits-earbuds-deal-sale'> Source <a/>
