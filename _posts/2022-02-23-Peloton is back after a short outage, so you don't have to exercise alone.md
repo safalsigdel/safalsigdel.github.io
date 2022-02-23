@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fq7gXy3tfATehkaoy5GbCWU23IY=/0x0:4827x3464/1200x800/filters:focal(2028x1346:2800x2118)/cdn.vox-cdn.com/uploads/chorus_image/image/70536880/1217255156.0.jpg' width='700px' /><br/>
-There was nothing but disappointment for anyone hoping to sneak in a Peloton ride during the Slack outage on Tuesday. In some unfortunate timing, Peloton said it, too, had a number of issues that stymied anyone trying to stream one of its classes.
-<a href='https://www.theverge.com/2022/2/22/22945849/peloton-down-outage-workout-fitness'> Source <a/>
