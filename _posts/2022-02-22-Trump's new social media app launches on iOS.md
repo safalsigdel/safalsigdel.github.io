@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qjxWJQe6nCwgzgNovarA76pmjlg=/0x0:1098x732/1200x800/filters:focal(462x279:636x453)/cdn.vox-cdn.com/uploads/chorus_image/image/70533295/Screen_Shot_2022_02_21_at_12.34.51_PM.0.jpg' width='700px' /><br/>
-Truth Social, a social media network developed by former president Donald Trump's new media company, is now live on the iOS App Store in the US. Reuters reports that the iOS app was available to download shortly before midnight, eastern time, prior to Presidents Day on February 21st.
-<a href='https://www.theverge.com/2022/2/21/22944179/truth-social-launch-ios-donald-trump-twitter-platform'> Source <a/>

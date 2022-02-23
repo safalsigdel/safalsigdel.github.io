@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M19EmuneHzwaZRUaPXPSeK33my0=/0x0:5359x3482/1200x800/filters:focal(2252x1313:3108x2169)/cdn.vox-cdn.com/uploads/chorus_image/image/70537753/1238551725.0.jpg' width='700px' /><br/>
+The controversial proctoring platform Proctorio has filed a broad subpoena against the prominent digital rights nonprofit Fight for the Future as part of its legal battle with Miami University student Erik Johnson, in what the group describes as an effort to silence critics through legal maneuvering.
+<a href='https://www.theverge.com/2022/2/22/22945634/proctorio-fight-for-the-future-twitter-copyright-lawsuit-subpoena-remote-proctoring'> Source <a/>

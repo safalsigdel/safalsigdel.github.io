@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BaDpwchyrXh_zWhhJtWsZWMv-_M=/0x0:3648x2432/1200x800/filters:focal(1576x503:2158x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/70531416/1358939134.0.jpg' width='700px' /><br/>
-Facebook is the subject of two new Security and Exchange Commission (SEC) complaints filed by Whistleblower Aid, the nonprofit that represents Facebook whistleblower Frances Haugen, first reported by The Washington Post. The complaints accuse Facebook, now Meta, of misleading investors about its efforts to tackle misinformation about climate change and COVID-19.
-<a href='https://www.theverge.com/2022/2/20/22943279/facebook-whistleblower-climate-change-misinformation-frances-haugen-sec'> Source <a/>

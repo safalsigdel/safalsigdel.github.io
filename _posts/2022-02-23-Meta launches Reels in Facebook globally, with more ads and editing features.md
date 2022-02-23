@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xnK67JlebGKyVvAWdnHrS7Z2TFQ=/0x0:1100x1064/1200x800/filters:focal(462x444:638x620)/cdn.vox-cdn.com/uploads/chorus_image/image/70536906/Facebook_Reels_Ads.0.png' width='700px' /><br/>
+Meta is launching its TikTok-clone Reels worldwide on Facebook, making the feature available through the service's iOS and Android apps in more than 150 countries.
+<a href='https://www.theverge.com/2022/2/22/22945800/meta-facebook-reels-tiktok-clone-global-launch'> Source <a/>

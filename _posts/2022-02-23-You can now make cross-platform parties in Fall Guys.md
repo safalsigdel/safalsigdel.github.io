@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vdlW7LJTad_LGWYJGA3Zz0OVY6c=/0x0:1073x597/1200x800/filters:focal(452x214:622x384)/cdn.vox-cdn.com/uploads/chorus_image/image/70538107/crossplaysmol_1920x1080_23007d5e7fa9.0.jpeg' width='700px' /><br/>
+Fall Guys: Ultimate Knockout has significantly expanded its crossplay functionality between PlayStation and PC, developer Mediatonic (which is owned by Epic Games) announced on Tuesday. As part of the game's season 6 mid-season update, you can now make cross-platform parties in “any of our applicable playlists in Fall Guys—from Squads, to Duos, to Main Show and beyond,” Mediatonic said in a blog post.
+<a href='https://www.theverge.com/2022/2/22/22946154/fall-guys-crossplay-expansion-pc-playstation'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/byOsFpeBtzlCFGpt_sQcDO_2nHo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70538726/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Users are beginning to see Google's new pitch-black dark mode, 9to5Google reported. The previous dark mode was a gray that was soothing on the eyes, but Google switched to a true black (#000000) that should really pop on OLED and AMOLED displays.
+<a href='https://www.theverge.com/2022/2/22/22945940/google-dark-mode-pitch-black-search'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EWlqyh3LwjpckBhsC4n0lcyfglY=/0x0:1478x1110/1200x800/filters:focal(471x479:707x715)/cdn.vox-cdn.com/uploads/chorus_image/image/70533932/Screen_Shot_2022_02_21_at_10.05.17_AM.0.png' width='700px' /><br/>
-The US Copyright Office has rejected a request to let an AI copyright a work of art. Last week, a three-person board reviewed a 2019 ruling against Steven Thaler, who tried to copyright a picture on behalf of an algorithm he dubbed Creativity Machine. The board found that Thaler's AI-created image didn't include an element of “human authorship” — a necessary standard, it said, for protection.
-<a href='https://www.theverge.com/2022/2/21/22944335/us-copyright-office-reject-ai-generated-art-recent-entrance-to-paradise'> Source <a/>

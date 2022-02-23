@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D-VpPbb8YWz7ipf0WkIiQmRqGHQ=/0x0:3000x2000/1200x800/filters:focal(1971x233:2451x713)/cdn.vox-cdn.com/uploads/chorus_image/image/70531818/1304610267.0.jpg' width='700px' /><br/>
-Former President Donald Trump's social media app, Truth Social, is expected to make its debut on Presidents' Day, according to a report from Reuters. In a test version of the app viewed by Reuters, the outlet saw a post from the network's chief product officer (CPO) indicating the app's February 21st launch.
-<a href='https://www.theverge.com/2022/2/20/22943510/trump-social-network-truth-social-presidents-day-launch'> Source <a/>

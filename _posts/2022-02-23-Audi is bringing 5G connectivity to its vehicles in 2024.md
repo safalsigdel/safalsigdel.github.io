@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PUYMZI6JXHP3gptq1hLaO6f9jsg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70537079/pesposito_210615_4857_0016.0.jpg' width='700px' /><br/>
+Audi of America and Verizon are teaming up to add 5G connectivity to the automaker's lineup by 2024, the companies announced. The improved connectivity will mean better software performance, enhanced navigation, and faster music and video streaming capabilities.
+<a href='https://www.theverge.com/2022/2/22/22945823/audi-verizon-5g-connectivity-2024-v2x'> Source <a/>

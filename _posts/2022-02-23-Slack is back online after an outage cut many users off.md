@@ -1,3 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/fYeaIPehuVVh1yknEAA6Y_HQAHY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70536278/acastro_190412_1777_slack_0001.0.jpg' width='700px' /><br/>
-Slack is experiencing some issues, making it difficult for users to send and receive messages, as well as access the platform altogether. Across social media, users have complained that trying to access work-related chatrooms meets long load times, the inability to view threads, and issues when trying to send a message to colleagues.
+Slack was experiencing some issues on Tuesday that made it difficult for users to send and receive messages as well as access the platform altogether. Across social media, users have complained that trying to access work-related chatrooms met long load times and the inability to view threads.
 <a href='https://www.theverge.com/2022/2/22/22945594/slack-down-outage-connection-errors'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zbenSc2xmZuO8s4YjWYcP-OqjzQ=/0x0:5976x3984/1200x800/filters:focal(3594x1456:4550x2412)/cdn.vox-cdn.com/uploads/chorus_image/image/70538883/1371393373.0.jpg' width='700px' /><br/>
+Apple will no longer require customers to wear masks in a number of Apple stores across the US, including in Ohio, Kansas, Kentucky, North Carolina, Georgia, and other states that have recently dropped local mask mandates, according to a report by Bloomberg. Employees at Apple stores will still be required to wear masks regardless of vaccination status, however.
+<a href='https://www.theverge.com/2022/2/22/22946560/apple-store-mask-mandate-customers-employees'> Source <a/>

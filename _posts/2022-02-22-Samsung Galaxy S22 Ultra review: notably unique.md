@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WFBfXHbh1x0cqPw4dKv82in7Chg=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23256276/ajohnson_220216_5032_0004sq.jpg' width='700px' /><br/>
-Phones in a flagship lineup have come to feel like variations on a theme. There's the base model, the bigger base model, and then the biggest model with an extra camera and some other minor hardware upgrades. Features, screen size, and cost all increase in increments as you go up the chain, but you're more or less getting the same phone in three different flavors.
-<a href='https://www.theverge.com/22941246/samsung-galaxy-s22-ultra-review-price-screen-specs-stylus'> Source <a/>
