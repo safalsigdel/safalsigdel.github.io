@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nnyvBnuo-cG1EbvdTKyEoBMpZp8=/0x0:2040x1360/1200x675/filters:focal(846x815:1172x1141)/cdn.vox-cdn.com/uploads/chorus_image/image/70540361/cfaulkner_141231_5037_0009.0.jpg' width='700px' /><br/>
-If you're after a minimalist, dead-serious-looking gaming laptop, Razer's Blade is still the one to get. Its aluminum-clad design looks more akin to Microsoft's Surface Laptop 4 than a laptop that was made for gaming. The Blade line is also untouchable to the competition when it comes to build quality, port selection, and for having an excellent keyboard and trackpad combo.
-<a href='https://www.theverge.com/22946280/razer-blade-17-2022-review-specs-12th-gen-performance-nvidia-rtx-3080-ti-gaming-laptop'> Source <a/>

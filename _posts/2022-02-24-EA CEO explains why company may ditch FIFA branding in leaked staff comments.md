@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sTkXAwYoz_SdzF-UktsyXQ7SRR0=/0x0:5000x3334/1200x800/filters:focal(2100x1267:2900x2067)/cdn.vox-cdn.com/uploads/chorus_image/image/70543961/1232967391.0.jpg' width='700px' /><br/>
+In newly-leaked comments, EA CEO Andrew Wilson has explained why the company is considering ending its licensing deal with FIFA. The comments come after EA publicly announced in October it was reviewing its agreement with FIFA, and considering renaming the title of its popular soccer franchise. The comments, which are the CEO's most candid remarks yet, were made in a company meeting last November and made public in a report from VGC this week.
+<a href='https://www.theverge.com/2022/2/24/22948808/ea-ceo-fifa-branding-andrew-wilson-comments'> Source <a/>

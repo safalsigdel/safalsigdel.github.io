@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xu9kxHIczfYIpiriC6EzAWyj-KU=/0x0:3742x2494/1200x800/filters:focal(1738x387:2336x985)/cdn.vox-cdn.com/uploads/chorus_image/image/70540464/1362154823.0.jpg' width='700px' /><br/>
-Rapper, actor, and serial celebrity endorser Ja Rule has attached his name to many things. There was that random Greek restaurant, a tax prep company, and, of course, his ill-fated ventures with fraudster Billy McFarland as a co-founder of the infamous Fyre Festival. And last year, long before the wave of recent celebrities jumped in on the craze, Ja Rule added an NFT project to his portfolio — without much fanfare or media coverage.
-<a href='https://www.theverge.com/2022/2/23/22946223/ja-rule-nft-fyre-festival'> Source <a/>

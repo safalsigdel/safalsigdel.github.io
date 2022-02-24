@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/acii_EUrL3dIqWDoLwxiDqllIYo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70543981/IMG_2069.0.jpg' width='700px' /><br/>
+After extensive leaks and teases, Oppo has officially announced the Find X5 Pro, its flagship phone for 2022. It's a fairly iterative follow-up to last year's Find X3 Pro, but that was a great phone, and after spending more than a week with a not-yet-final version of its successor I'm expecting the same to hold true.
+<a href='https://www.theverge.com/2022/2/24/22948778/oppo-find-x5-pro-announced-specs-features-camera'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jPgRlAKxxQQyZKJg-suevaXeKsM=/0x0:2880x1607/1200x0/filters:focal(0x0:2880x1607):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23266606/Screen_Shot_2022_02_23_at_1.52.32_PM.png' width='700px' /><br/>
+Netflix's latest game is an addictive trivia title from the creators of Bandersnatch — an interactive experience called Cat Burglar where correct choices help move the story forward. More of this hybrid game-based storytelling is on the way, and Netflix thinks it could help push more of its users to think of the service as a place for games.
+<a href='https://www.theverge.com/2022/2/24/22948094/netflix-launches-trivia-game-bandersnatch-creators'> Source <a/>

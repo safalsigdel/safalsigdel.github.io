@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ls7gp5vWlg4B5cLcs0PUa_lFLqI=/0x0:5834x2334/1200x800/filters:focal(2192x668:3124x1600)/cdn.vox-cdn.com/uploads/chorus_image/image/70544520/Blog_Header.0.png' width='700px' /><br/>
+Reddit today introduced a new Discover tab feature for the official Reddit iOS and Android apps. The new feature curates pictures, GIFs, and videos in a scrollable grid to help Reddit users find new content and communities that they may be interested in, in a way that's reminiscent of Instagram's explore page or Pinterest.
+<a href='https://www.theverge.com/2022/2/24/22947781/reddit-discover-tab-mobile-app-social-media-feature'> Source <a/>

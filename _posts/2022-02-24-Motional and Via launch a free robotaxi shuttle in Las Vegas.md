@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6JbWLko0MuZ1bTaN53piA-DuZIM=/0x0:4032x3024/1200x800/filters:focal(1694x1190:2338x1834)/cdn.vox-cdn.com/uploads/chorus_image/image/70544417/Motional_Via__1_.0.jpg' width='700px' /><br/>
+Motional and Via are teaming up to launch a free robotaxi shuttle service in Las Vegas. The news comes almost a year and a half after the two companies announced their intention to link up to study how autonomous vehicles could interact with public transit networks.
+<a href='https://www.theverge.com/2022/2/24/22947997/motional-via-autonomous-shuttle-las-vegas-free'> Source <a/>
