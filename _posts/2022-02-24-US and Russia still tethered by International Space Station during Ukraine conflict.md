@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hGSrCaFPFd-kyHzQKKZlnp6uJfg=/0x0:5150x3148/1200x800/filters:focal(2163x1162:2987x1986)/cdn.vox-cdn.com/uploads/chorus_image/image/70545182/51750549427_63b21c49b5_o.0.jpg' width='700px' /><br/>
+Following Russia's invasion of Ukraine, tensions between the US and Russia are more strained than ever here on Earth, prompting concerns that friction could inevitably spill over into the two countries' longstanding partnership in space. For now, both NASA and Russia say they are still working together to keep the International Space Station operational, as they've done during past international turmoil.
+<a href='https://www.theverge.com/2022/2/24/22947884/nasa-russia-space-cooperation-international-space-station-invasion'> Source <a/>

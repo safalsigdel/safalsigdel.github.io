@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6QTg0fRYphUu68jDfGihx0e544E=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70545175/2020040516283500_02CB906EA538A35643C1E1484C4B947D.0.jpg' width='700px' /><br/>
+While people are now venturing out after two years of the pandemic, many are still enjoying Animal Crossing: New Horizons by spending time on the game's virtual islands and their anthropomorphic animal residents. And the game's easy-to-use multiplayer mode that lets you host up to seven guests on an island is still a good way to throw real-world events like birthday parties and even weddings.
+<a href='https://www.theverge.com/22948970/how-to-throw-a-party-in-animal-crossing-new-horizons'> Source <a/>
