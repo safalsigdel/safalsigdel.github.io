@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yybpIH1T4LmlNcb-CkXwKgH6H-k=/0x0:1500x500/1200x800/filters:focal(630x130:870x370)/cdn.vox-cdn.com/uploads/chorus_image/image/70541293/1500x500.0.jpeg' width='700px' /><br/>
-Visible, Verizon's app-based affordable mobile carrier alternative, appears to have canceled users' accounts in lieu of denying them access to a promotion. This news came to light after a number of Visible customers posted complaints on Twitter and Reddit, claiming their service was canceled without explanation, as first reported by Best MVNO (via XDA Developers).
-<a href='https://www.theverge.com/2022/2/23/22947210/verizon-visible-accounts-canceled-without-warning-promotion'> Source <a/>
