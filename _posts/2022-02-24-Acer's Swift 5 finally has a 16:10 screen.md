@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lqXoBmn4KNmUJvOowXTZnNqiGWc=/0x0:1818x1441/1200x800/filters:focal(764x576:1054x866)/cdn.vox-cdn.com/uploads/chorus_image/image/70545333/Swift_5_SF514_56_right_facing.0.png' width='700px' /><br/>
+Acer has announced updates to its Swift consumer line. The big news is that the Swift 5, its consumer flagship, has finally moved from a 16:9 aspect ratio screen to the taller and roomier 16:10. It's the latest of many premium flagship products to take this jump.
+<a href='https://www.theverge.com/2022/2/24/22947886/acer-swift-5-announced-price-specs-release-date'> Source <a/>

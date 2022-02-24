@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/B2wYvttT-REvsUw6mHtepLxjd2U=/193x175:1782x1198/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70541313/acastro_200730_1777_ai_0001.0.jpg' width='700px' /><br/>
-Meta, the owner of Facebook, Instagram, and WhatsApp, has announced an ambitious new AI research project to create translation software that works for “everyone in the world.” The project was announced as part of an event focusing on the broad range of benefits Meta believes AI can offer the company's metaverse plans.
-<a href='https://www.theverge.com/2022/2/23/22947368/meta-facebook-ai-universal-speech-translation-project'> Source <a/>
