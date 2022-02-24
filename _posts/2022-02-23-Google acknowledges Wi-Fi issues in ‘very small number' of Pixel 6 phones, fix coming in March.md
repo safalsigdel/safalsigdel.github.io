@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5WGYJNd55gkxlfjVHVLk_ayxvpI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70538044/bfarsace_211014_4802_0002.0.jpg' width='700px' /><br/>
-Google says a fix is on the way for Pixel 6 owners who are dealing with Wi-Fi and Bluetooth connectivity issues after installing a security patch earlier this month, as reported by 9to5Google. In response to a user on Reddit, Google acknowledges the problem and says it's bundling a fix in a March software update.
-<a href='https://www.theverge.com/2022/2/22/22946139/pixel-6-google-wi-fi-issues-phone-fix-march-update'> Source <a/>

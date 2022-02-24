@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-90-0OYXKZRs_SpswaCGiDAYMxc=/0x0:2062x1134/1200x800/filters:focal(867x403:1195x731)/cdn.vox-cdn.com/uploads/chorus_image/image/70538070/netflix_fast_laughs_homepage.0.png' width='700px' /><br/>
-Netflix is testing Fast Laughs, a stream of comedy clips hand-picked by Netflix, on its TV app. The feature lets you sift through a collection of funny short videos — each about 30 seconds or longer — from shows and movies on Netflix, with the goal of introducing you to new content or helping you decide on what to watch.
-<a href='https://www.theverge.com/2022/2/22/22937776/netflix-fast-laughs-test-tv-comedy-funny-clips-stream'> Source <a/>

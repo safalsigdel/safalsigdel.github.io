@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_mAUGHobe6t6SvfEfe_BxZG64pU=/0x0:1300x753/1200x800/filters:focal(546x273:754x481)/cdn.vox-cdn.com/uploads/chorus_image/image/70542334/1password_phantom_wallet_update.0.png' width='700px' /><br/>
+A 1Password update brings a specific item type dedicated to crypto and digital assets to the password manager's interface. This could make it easier to store details attached to your cryptocurrency wallet, although it's usually best to store your wallet's information offline.
+<a href='https://www.theverge.com/2022/2/23/22947693/1password-cryptocurrency-wallet-storage-password-manager-security'> Source <a/>

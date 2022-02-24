@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RF53xA_IYdvnhr9SyuA-UH8P3vY=/0x0:1024x576/1200x800/filters:focal(431x207:593x369)/cdn.vox-cdn.com/uploads/chorus_image/image/70541149/apex_mobile_beta_registration_screenshot_2.jpg.adapt.1024w.0.jpg' width='700px' /><br/>
+Apex Legends Mobile will soon be available in more countries. The game first debuted in a closed beta last year that was available in a few countries, but starting next week, the game will be available in a “limited regional launch” as a free download in 10 countries on iOS and Android.
+<a href='https://www.theverge.com/2022/2/23/22947472/apex-legends-mobile-limited-regional-launch-10-countries'> Source <a/>

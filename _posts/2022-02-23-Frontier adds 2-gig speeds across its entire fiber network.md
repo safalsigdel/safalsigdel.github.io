@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_ynWbjdQoxQPiOF09zmk4KUSctc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70538666/acastro_170711_1777_0005.0.jpg' width='700px' /><br/>
-Frontier Communications is rolling out 2-gig speeds across its existing fiber-optic network, which currently spans six states, including Texas, Florida, California, Indiana, West Virginia, and Connecticut (via Light Reading). The plan comes with symmetrical 2-gig downloads and uploads for $149.99 / month, along with the free installation of a Wi-Fi 6E-compatible router and extender.
-<a href='https://www.theverge.com/2022/2/22/22946356/frontier-2-gig-speed-fiber-internet-fios'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ie8HcpWFYjSD1AI2xTeNnM3tg28=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70537114/vpavic_201103_4275_0182.0.jpg' width='700px' /><br/>
-Update 2:26PM ET, February 22nd: Best Buy has sold out of its allotment of Totaltech-exclusive Xbox Series X consoles for now.
-<a href='https://www.theverge.com/2022/2/22/22884504/microsoft-xbox-series-x-console-best-buy-totaltech-restock-availability-check'> Source <a/>

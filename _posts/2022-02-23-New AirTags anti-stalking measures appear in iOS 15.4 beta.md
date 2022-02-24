@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UzaiuV5i22FPFviRA6zzbrJPqvQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70539767/vpavic_4547_20210421_0131.0.jpg' width='700px' /><br/>
-The latest beta for iOS 15.4 includes new features designed to prevent Apple's AirTags from being used to stalk people, 9to5Mac reports. Most notably, there's a new privacy notice during their setup which warns that using AirTags to track someone without their consent could be a crime, and that law enforcement can request details on an unknown AirTags' owner. “AirTag is Linked To Your Apple ID,” the notice reads.
-<a href='https://www.theverge.com/2022/2/23/22947063/airtags-anti-stalking-ios-15-4-beta-4-privacy-notice'> Source <a/>

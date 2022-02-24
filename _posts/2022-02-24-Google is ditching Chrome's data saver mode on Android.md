@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YBHd8ncF4CaXHRKETl61zQeVz-c=/0x0:2040x1360/1200x800/filters:focal(895x403:1221x729)/cdn.vox-cdn.com/uploads/chorus_image/image/70540905/bking_200306_3928_0012.0.jpg' width='700px' /><br/>
+Google has announced it will soon remove a feature of Chrome for Android that for years helped people cut down on their mobile data usage. Per 9to5Google, Chrome's “Lite mode” will go away with the release of Chrome version M100 in late March. Lite mode was originally known as Data Saver when Google first introduced it on Android back in 2014.
+<a href='https://www.theverge.com/2022/2/23/22947441/google-lite-mode-data-saver-chrome-android-discontinued'> Source <a/>

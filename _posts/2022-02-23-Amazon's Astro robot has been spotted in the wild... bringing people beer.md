@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/colfos0k9CWJuTDzMUPrt10IZYA=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70538506/amazon_astro_home_robot_4773_9.0.jpg' width='700px' /><br/>
-Photos and videos of Amazon's home robot Astro in the real world have begun to emerge as early adopters of the invite-only smart home gadget start to play around with their new bot.
-<a href='https://www.theverge.com/2022/2/22/22945814/amazon-astro-home-robot-photo-video'> Source <a/>

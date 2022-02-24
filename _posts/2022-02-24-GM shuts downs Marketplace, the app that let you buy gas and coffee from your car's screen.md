@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZciN8fPQJaKfVou15ah2WliDKro=/0x0:3913x2320/1200x800/filters:focal(1644x847:2270x1473)/cdn.vox-cdn.com/uploads/chorus_image/image/70540657/Marketplace_FBO_Hero_4.0.0.jpg' width='700px' /><br/>
+General Motors is shutting down its in-car shopping app, Marketplace, which allowed customers to buy coffee, pay for gas, or make restaurant reservations from the infotainment screen of their vehicles. The service will be discontinued March 2022. (The news was first reported by CNBC.)
+<a href='https://www.theverge.com/2022/2/23/22946295/gm-marketplace-shut-down-app-screen-shopping-gas'> Source <a/>

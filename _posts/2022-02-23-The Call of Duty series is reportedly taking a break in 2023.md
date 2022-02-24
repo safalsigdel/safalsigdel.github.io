@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ur0vAMQtoLKbspK_ga7YIbbD8-4=/0x0:960x540/1200x800/filters:focal(404x194:556x346)/cdn.vox-cdn.com/uploads/chorus_image/image/70538810/025d6f6199fb817e05158e20b9640808_CODVG_Reveal_Standard_Keyart_Textless_Bnet_Shop_Product_Browsing_Card_960x540.0.jpeg' width='700px' /><br/>
-There has been a new mainline Call of Duty title every year since 2005, but that will apparently change next year. Activision Blizzard is delaying a Call of Duty title that had been scheduled to release in 2023, according to Bloomberg's Jason Schreier.
-<a href='https://www.theverge.com/2022/2/22/22946505/call-of-duty-2023-delayed-annual-release-activision-blizzard'> Source <a/>

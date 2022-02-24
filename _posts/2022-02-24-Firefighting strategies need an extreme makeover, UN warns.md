@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-GuNehu5sldR5fgG2_0Fy4cDAP4=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/70542076/1279741560.0.jpg' width='700px' /><br/>
+Nations need to spend more money learning to live with wildfires rather than burning through cash fighting them, says a new United Nations report. The report predicts a dramatic rise in “extreme” fires and warns that there needs to be a “radical” shift in how governments address them.
+<a href='https://www.theverge.com/2022/2/23/22947511/firefighting-budgets-united-nations-report-climate-change'> Source <a/>

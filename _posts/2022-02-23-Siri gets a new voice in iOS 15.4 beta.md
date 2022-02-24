@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nnwrOgZXIjvd5j2H21_k0OnhfqM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70540086/acastro_180510_1777_siri_0001.0.jpg' width='700px' /><br/>
-The latest beta of iOS 15.4 adds a fifth American voice for its Siri voice assistant. Apple's user-facing interface simply calls it “Voice 5,” but iOS developer Steve Moser reports that its filename refers to the new voice as “Quinn.” The voice has arrived a little under a year after Apple added its last two American Siri voices, and stopped defaulting to using a female-sounding voice.
-<a href='https://www.theverge.com/2022/2/23/22947150/ios-15-4-quinn-siri-voice-5-american'> Source <a/>

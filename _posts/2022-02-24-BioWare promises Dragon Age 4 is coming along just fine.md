@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_ONtDlV5KEghyDKdUVlsdp3u4EE=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70541845/Dragon-Age-Inquisition-Preview-08.0.0.jpg' width='700px' /><br/>
+Production on Dragon Age 4 seems to be coming along nicely, according to an update from BioWare.
+<a href='https://www.theverge.com/2022/2/23/22947737/bioware-dragon-age-4-production-update'> Source <a/>

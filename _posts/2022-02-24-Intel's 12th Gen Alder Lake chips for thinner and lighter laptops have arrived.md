@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZdNGxGpUwdAf8BJzFDJRkHyFcMg=/0x0:4000x2250/1200x800/filters:focal(1680x805:2320x1445)/cdn.vox-cdn.com/uploads/chorus_image/image/70540813/12thgen_chip_p_28w_pose_3_4000px.0.jpg' width='700px' /><br/>
+Intel launched the first wave of its 12th Gen Alder Lake chips at CES 2022 — but only for its H-series lineup of chips, destined for the most powerful and power-hungry laptops. And now, it's rolling out the rest of its Alder Lake laptop lineup: the P-series and U-series models it briefly showed off in January, which are set to power the thinner, lighter, and cheaper laptops of 2022.
+<a href='https://www.theverge.com/2022/2/23/22941383/intel-12th-gen-alder-chips-p-series-u-laptops-release-date'> Source <a/>

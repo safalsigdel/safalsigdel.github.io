@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7EWoDkkWCnm4H1nPhXl8F-Bnv3c=/0x0:6048x4024/1200x800/filters:focal(2541x1529:3507x2495)/cdn.vox-cdn.com/uploads/chorus_image/image/70537864/1238367031.0.jpg' width='700px' /><br/>
-Elon Musk is escalating his war of words with the Securities and Exchange Commission, accusing the agency of “leaking” information from a federal investigation in retaliation against him for his public criticisms.
-<a href='https://www.theverge.com/2022/2/22/22946117/elon-musk-sec-accuse-leak-information-tesla'> Source <a/>

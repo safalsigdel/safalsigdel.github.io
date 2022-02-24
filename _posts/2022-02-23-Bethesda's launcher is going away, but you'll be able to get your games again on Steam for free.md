@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VkIj2YUZaQWxmUvUAazSe_Cswo8=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70537592/ss_5d19c69d33abca6f6271d75f371d4241c0d6b2d1.0.jpeg' width='700px' /><br/>
-Bethesda is retiring its Bethesda.net Launcher this year and will let people move their games and Wallet to Steam starting in early April, the company announced Tuesday. You'll be able to access and play games on the Bethesda launcher until May.
-<a href='https://www.theverge.com/2022/2/22/22945874/bethesda-launcher-steam-migrate-games-wallet'> Source <a/>
