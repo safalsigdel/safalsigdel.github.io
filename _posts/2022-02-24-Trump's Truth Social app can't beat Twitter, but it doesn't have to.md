@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AYae_gjKEKk2_ihJs6va9dXgPgc=/0x0:3500x2333/1200x800/filters:focal(1470x887:2030x1447)/cdn.vox-cdn.com/uploads/chorus_image/image/70541761/1057825656.5.jpg' width='700px' /><br/>
-After months of speculation, tribulation, and hype, former President Donald Trump launched his long-awaited social media platform — Truth Social — on Monday. The app, a shameless Twitter clone, is available for download on the Apple App Store and sits at the top of Apple's download charts as of publication on Wednesday.
-<a href='https://www.theverge.com/2022/2/23/22947756/truth-social-donald-trump-facebook-twitter-talk-radio-rush-limbaugh'> Source <a/>

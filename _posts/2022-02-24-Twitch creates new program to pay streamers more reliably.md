@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/IMpnHSRmcRlWiitjmk810U9Ti7M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70541403/acastro_210115_1777_twitch_0003.0.jpg' width='700px' /><br/>
-Twitch is implementing a new initiative that could alleviate one of the biggest stressors of content creation: unreliable income.
-<a href='https://www.theverge.com/2022/2/23/22947490/twitch-ad-incentive-program-guranteed-monthly-payments'> Source <a/>

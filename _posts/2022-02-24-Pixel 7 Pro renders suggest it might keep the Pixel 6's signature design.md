@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/C_KCmYUY_e8UX8wjddz0088XdLQ=/0x0:2560x1440/1200x800/filters:focal(1076x516:1484x924)/cdn.vox-cdn.com/uploads/chorus_image/image/70542862/pixel_7_pro_leaks.0.jpeg' width='700px' /><br/>
-Reliable leaker OnLeaks has offered a glimpse at what the Google Pixel 7 Pro might look like in a set of leaked 3D renders, first reported by SmartPrix (via 9to5Google). So far, the upcoming device appears to share several similarities with its Pixel 6 predecessor, including the same prominent camera bar on the rear of the phone.
-<a href='https://www.theverge.com/2022/2/23/22948008/pixel-7-renders-leak-rumors-google-pixel-6'> Source <a/>

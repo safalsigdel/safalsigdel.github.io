@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/QB7Xipm3eElz0-Bq-ZnI9fK3qZs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70545036/acastro_210511_1777_psRestock_0004.0.jpg' width='700px' /><br/>
+Update 2:32PM ET, February 24th: Walmart has sold out of its PS5 and Xbox consoles for now.
+<a href='https://www.theverge.com/2022/2/24/22949041/sony-playstation-5-ps5-microsoft-xbox-series-x-console-restock-walmart-plus-availability-check'> Source <a/>

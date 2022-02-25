@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c8Q9gzraCVQlFK7eKYKfCU9aBNA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70541735/vpavic_4278_20201030_0247.0.jpg' width='700px' /><br/>
-Following a brief appearance in January, Sony is officially bringing the ability to have your PS5 screenshots and videos auto-uploaded to the PlayStation mobile app to more countries. Sony began testing the feature in Canada and Japan in October.
-<a href='https://www.theverge.com/2022/2/23/22947722/sony-playstation-ps5-captures-screenshots-videos-app'> Source <a/>

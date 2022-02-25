@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cRN9mRX8aW-EnVmtQ1IwCX7hkJI=/0x0:1072x714/1200x800/filters:focal(451x272:621x442)/cdn.vox-cdn.com/uploads/chorus_image/image/70542366/hardware_accssories.0.jpeg' width='700px' /><br/>
-The first orders for the Steam Deck, Valve's handheld gaming PC, will begin on Friday, but the company's official dock for the device won't be available at that time.
-<a href='https://www.theverge.com/2022/2/23/22947985/valve-steam-deck-dock-launch-details-order-time'> Source <a/>

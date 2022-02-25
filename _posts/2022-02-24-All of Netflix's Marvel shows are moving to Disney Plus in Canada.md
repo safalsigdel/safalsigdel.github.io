@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gBUcwnXskB2mbKLXoBu7jnP2Wtg=/0x0:2922x1948/1200x800/filters:focal(1228x741:1694x1207)/cdn.vox-cdn.com/uploads/chorus_image/image/70543228/059_GT_107_Unit_00063R.0.jpeg' width='700px' /><br/>
-With the rights to all of Netflix's Marvel cape shows set to revert back to Disney, the big question looming over them all has been whether they would finally make the jump over to Disney Plus to live alongside the rest of the studios' heroes. Unsurprisingly, the answer is “yes,” but with some important caveats.
-<a href='https://www.theverge.com/2022/2/23/22948263/netflix-marvel-disney-plus-canada'> Source <a/>

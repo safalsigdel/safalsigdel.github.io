@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-bpPWfhuUMTXmH2Cm7IxWG3gcSQ=/0x0:3000x2000/1200x800/filters:focal(1703x594:2183x1074)/cdn.vox-cdn.com/uploads/chorus_image/image/70541519/1304610267.0.jpg' width='700px' /><br/>
-Today, let's talk about some of the less obvious ways that conservative social networks keep slipping up — and whether Truth Social, which has the backing of President Trump, can manage to avoid their fate.
-<a href='https://www.theverge.com/22947686/donald-trump-truth-social-network-parler-gettr-ceo-interview'> Source <a/>

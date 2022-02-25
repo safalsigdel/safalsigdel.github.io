@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nnsHQYXukjJcHD8apwQzaOoWx5s=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70541421/vpavic_4412_20210111_0004.0.jpg' width='700px' /><br/>
-Waymo is allowed to keep some of its autonomous vehicle safety data secret after a California court ruled in the Alphabet company's favor in a lawsuit filed against the state's Department of Motor Vehicles (via TechCrunch).
-<a href='https://www.theverge.com/2022/2/23/22947595/waymo-lawsuit-california-dmv-secret-win-injunction'> Source <a/>

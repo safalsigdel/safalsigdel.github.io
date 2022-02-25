@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FY405Vw9WaVprjVplvoxnjvSIRI=/0x0:650x364/1200x800/filters:focal(273x130:377x234)/cdn.vox-cdn.com/uploads/chorus_image/image/70541649/Screen_Shot_2011-10-02_at_3.22.44_PM.0.png' width='700px' /><br/>
-The United States Postal Service authorized the replacement of its mail truck fleet with nearly all gasoline-powered vehicles, rejecting a plea from President Joe Biden to include more electric vehicles in its purchase.
-<a href='https://www.theverge.com/2022/2/23/22947717/usps-biden-dejoy-electric-mail-trucks-reject-oshkosh'> Source <a/>

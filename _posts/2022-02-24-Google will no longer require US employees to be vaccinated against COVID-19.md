@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wBC7nSkdSY-WehTUHJEDw3ywM78=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70543024/acastro_170808_1777_google_logo_03.0.jpg' width='700px' /><br/>
-Google is no longer requiring its US-based workers to be vaccinated against COVID-19, according to CNBC. However, a policy that requires staffers to be vaccinated to return to the office is still in place, according to The New York Times.
-<a href='https://www.theverge.com/2022/2/23/22948219/google-covid-19-vaccine-mandate-employees-mask-policy'> Source <a/>
