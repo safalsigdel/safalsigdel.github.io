@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yCb342h8kN3OBmjINY7vGi2C_l4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70545846/bfarsace_211004_4777_0007.0.jpg' width='700px' /><br/>
-Microsoft is making the Windows 11 taskbar a little more tablet-friendly soon. The software giant has started testing a new taskbar that's designed for tablet use, with a smaller collapsed state that only shows critical information like the time and date or network and battery status.
-<a href='https://www.theverge.com/2022/2/24/22949381/microsoft-windows-11-tablet-touch-friendly-taskbar-changes'> Source <a/>

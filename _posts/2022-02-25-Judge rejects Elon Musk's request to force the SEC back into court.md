@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p82bZQSZbvqK8-u5hdzxJc7qImk=/0x0:2827x2023/1200x800/filters:focal(1188x786:1640x1238)/cdn.vox-cdn.com/uploads/chorus_image/image/70546405/1358883297.0.jpg' width='700px' /><br/>
-A federal judge denied Tesla CEO Elon Musk's request to force the Securities and Exchange Commission into court to address his allegations about unpaid settlement funds.
-<a href='https://www.theverge.com/2022/2/24/22949561/elon-musk-sec-judge-request-court-denied'> Source <a/>

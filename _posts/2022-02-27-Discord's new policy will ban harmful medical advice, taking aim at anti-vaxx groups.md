@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LS-cdXTorkz13EOxa-ANV75cmkY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70550646/acastro_200318_1777_discord_0002.0.0.jpg' width='700px' /><br/>
+Discord is overhauling its policies and community guidelines to tackle health misinformation, off-platform behavior, and hate speech, the company announced on Friday. It's the first big policy update for Discord in nearly two years and is designed to target groups or individuals that participate in organized violence, spread harmful anti-vaccination material, or harass other Discord users with hate speech.
+<a href='https://www.theverge.com/2022/2/25/22950432/discord-new-privacy-policy-community-guidelines'> Source <a/>

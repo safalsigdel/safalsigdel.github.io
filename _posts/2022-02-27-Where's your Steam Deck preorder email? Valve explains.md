@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5svIAQpv5K3xk8xkzgo_J-wbOQQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70552389/vpavic_220210_5030_0090.0.jpg' width='700px' /><br/>
+Valve's $400-and-up portable gaming PC the Steam Deck went on sale this morning... but you didn't get an email from Valve, I'm guessing? I didn't either — and as Valve's just now explaining, that's because they're going out in small batches rather than all at once; the next batch won't be arriving until Monday, March 7th; and then they'll go out in weekly batches each Monday, presumably through the month of June.
+<a href='https://www.theverge.com/2022/2/25/22951492/steam-deck-order-email-q1-q2-after'> Source <a/>

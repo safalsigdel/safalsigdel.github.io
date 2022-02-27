@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b8WC32-KJRf25JFzvsHbAvGJxdM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70552555/vpavic_180225_2334_0048.0.jpg' width='700px' /><br/>
+Mobile World Congress organizers will ban some Russian companies from the world's largest mobile technology show which will run from February 28th to March 3rd, Reuters reports.
+<a href='https://www.theverge.com/2022/2/25/22951426/mobile-world-congress-organizers-ban-russian-pavillion-ukraine-invasion'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wY2fEydhF1SeDXaAydZAVnIaxi4=/0x0:6000x4000/1200x675/filters:focal(4183x807:5143x1767)/cdn.vox-cdn.com/uploads/chorus_image/image/70550292/dropout_105_bd_01682rt.0.jpeg' width='700px' /><br/>
+Theranos founder Elizabeth Holmes was a subject of fascination within Silicon Valley and the tech press even before her eventual downfall and recent conviction for defrauding investors. But Hulu's The Dropout is confident there are still people out there dying to know more about the woman behind the disruptive medtech unicorn that could have been.
+<a href='https://www.theverge.com/2022/2/25/22948048/the-dropout-review-hulu-elizabeth-holmes'> Source <a/>

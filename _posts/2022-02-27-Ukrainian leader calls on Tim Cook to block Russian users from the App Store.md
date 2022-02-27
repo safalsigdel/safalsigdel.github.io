@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/407FGt3hIdYN067H4ScngFYwWPI=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/70552215/1238755755.0.jpg' width='700px' /><br/>
+In an open letter published Friday afternoon, the Vice Prime Minister of Ukraine, Mykhailo Fedorov, called on Apple to stop supplying products and services to Russian users as a response to the country's ongoing invasion.
+<a href='https://www.theverge.com/2022/2/25/22951413/ukraine-russia-apple-app-store-block-fedorov'> Source <a/>

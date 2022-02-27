@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DqilVM8HkaIckk1-x1JF495qsH8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70550382/VRG_Illo_STK010_K_Radtke_Russia_Glitch.0.jpg' width='700px' /><br/>
+The Russian government has partially blocked access to Facebook in the country after it claims the social network “restricted” the accounts of four Russian media outlets.
+<a href='https://www.theverge.com/2022/2/25/22950874/russia-facebook-blocked-roskomnadzor-media-censorship'> Source <a/>

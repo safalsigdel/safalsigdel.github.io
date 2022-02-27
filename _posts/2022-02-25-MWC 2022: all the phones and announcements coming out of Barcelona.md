@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cr-jcZ24ySWQQsU_Ph11POWJceI=/0x0:2040x1360/1200x800/filters:focal(1129x537:1455x863)/cdn.vox-cdn.com/uploads/chorus_image/image/70546500/vpavic_180225_2334_0048.0.jpg' width='700px' /><br/>
-MWC is back in full swing this year in Barcelona from Monday, February 28th, through Thursday, March 3rd.
-<a href='https://www.theverge.com/2022/2/24/22949007/mwc-barcelona-2022-news-rumors-products-annoucements'> Source <a/>

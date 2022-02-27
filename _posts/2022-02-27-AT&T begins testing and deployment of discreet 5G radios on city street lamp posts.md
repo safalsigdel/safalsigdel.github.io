@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5uzfgmbDgd__LvVehz2V-jvs_9o=/0x0:768x475/1200x800/filters:focal(323x177:445x299)/cdn.vox-cdn.com/uploads/chorus_image/image/70552296/Ericsson_Ubicquia_Street_Radio_Aerial_Install.0.jpg' width='700px' /><br/>
+AT&T today announced it's field testing new 5G small cell radios that can hide on top of street lamp posts. The new radios were born out of a partnership between AT&T, mobile technology manufacturer Ericsson, and urban solutions provider Ubicquia.
+<a href='https://www.theverge.com/2022/2/25/22951088/att-testing-5g-small-cell-radios-street-lights'> Source <a/>

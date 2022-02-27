@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ucca0mM2oH5uS4zw0LTyuBK9CPQ=/0x0:4347x2512/1200x800/filters:focal(1827x909:2521x1603)/cdn.vox-cdn.com/uploads/chorus_image/image/70545276/belkin.0.jpg' width='700px' /><br/>
-Belkin is the latest company to get on the Thunderbolt 4 dock train with its new $399 Connect Pro Thunderbolt 4 Dock, which replaces the company's previous Thunderbolt 3 Dock Pro, adding more ports and power than the old model.
-<a href='https://www.theverge.com/2022/2/24/22938833/belkin-connect-pro-thunderbolt-4-dock-price-release-date-dongle-usb-c'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wVuDwIIQSSqpVkxsZwGoiK6G7CU=/0x0:2040x1360/1200x800/filters:focal(714x638:1040x964)/cdn.vox-cdn.com/uploads/chorus_image/image/70550236/jtuohy_220217_5036_0008.0.jpg' width='700px' /><br/>
+Video doorbells are handy devices, alerting you to events at your front door via your smartphone, wherever in the world you are. But when you're just chilling out at home it's often easier to turn to your Echo Show or Google Nest Hub to see what's going on outside, rather than pulling out your phone — or actually getting off the sofa.
+<a href='https://www.theverge.com/22949565/doorbell-video-nest-echo-show-alexa-google-how-to'> Source <a/>

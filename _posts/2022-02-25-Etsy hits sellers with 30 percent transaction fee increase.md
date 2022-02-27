@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qJUHcOVJrVcGCMQsOste5zKFulE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70546774/etsy4_2040.0.0.jpg' width='700px' /><br/>
-Following a record-breaking 2021 fourth quarter, Etsy is raising seller transaction fees from 5 percent to 6.5 percent, the company announced today. In a report to investors today, the company says the 30 percent increase will take effect beginning on April 11th. The transaction fee is the percentage of the total order amount Etsy charges when a seller makes a sale.
-<a href='https://www.theverge.com/2022/2/24/22949707/etsy-sellers-transaction-fee-increase'> Source <a/>

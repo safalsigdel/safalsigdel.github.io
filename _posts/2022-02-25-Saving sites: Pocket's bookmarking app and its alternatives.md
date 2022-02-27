@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YgBaXijFRDft0fLD7dN_F7bPCvo=/0x0:1956x1348/1200x800/filters:focal(822x518:1134x830)/cdn.vox-cdn.com/uploads/chorus_image/image/70544285/Screen_Shot_2022_02_23_at_11.00.46_AM.0.png' width='700px' /><br/>
-It's hard to keep up with all the interesting, important, or just plain fun things you come across on the web. You may come across something you just don't have time to read right now or want to save because it will come in handy later. But, as most of us have discovered, creating a bookmark on a browser for each article and site that we want to read later can result in a huge bookmarky mess.
-<a href='https://www.theverge.com/22927750/bookmarks-pocket-firefox-instapaper-raindrop'> Source <a/>

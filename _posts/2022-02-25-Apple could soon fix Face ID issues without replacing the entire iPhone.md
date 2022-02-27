@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t2XAeXlKRTaTKmTSJKjkGRNg9PA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70545973/face_id.0.jpeg' width='700px' /><br/>
-Authorized Apple service technicians might be able to make Face ID repairs on iPhone XS and newer phones without needing to replace the entire device, MacRumors reports.
-<a href='https://www.theverge.com/2022/2/24/22949183/apple-face-id-repairs-iphone-xs'> Source <a/>

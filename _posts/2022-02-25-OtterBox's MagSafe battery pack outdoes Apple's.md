@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/oIHvZIAlHIDHbVT3HsWQlbZRVn0=/0x0:1000x600/1200x800/filters:focal(420x220:580x380)/cdn.vox-cdn.com/uploads/chorus_image/image/70545921/otterbox_wireless_charger_2.0.jpg' width='700px' /><br/>
-When Dieter Bohn reviewed Apple's MagSafe battery pack, he wasn't exactly thrilled with its performance. Unfortunately, the relatively small battery pack didn't have enough juice to top off an iPhone 12 even once. And, like most things from Apple, it came with an unusually high price tag and only worked with a proprietary Lightning cable for charging.
-<a href='https://www.theverge.com/2022/2/24/22949219/otterbox-magsafe-battery-pack-apple'> Source <a/>

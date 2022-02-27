@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YXOldtef-eu2xeopgmBnn66V-w4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70551950/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+Twitter is giving all users access to the content warning feature it tested last year. The feature lets you obscure individual photos and videos behind warnings for nudity, violence, and “sensitive” content, rather than adding a blanket warning to all multimedia tweets. It's available on Twitter's Android and iOS apps as well as its web client.
+<a href='https://www.theverge.com/2022/2/25/22951334/twitter-sensitive-content-warning-individual-tweet-update-ios-android-web'> Source <a/>
