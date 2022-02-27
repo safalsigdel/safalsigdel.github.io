@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/bzqIK4HpKzV_v1KWUg1erC6XbOY=/0x0:1107x466/1200x800/filters:focal(466x145:642x321)/cdn.vox-cdn.com/uploads/chorus_image/image/70556628/Screen_Shot_2022_02_27_at_9.18.53_AM.0.png' width='700px' /><br/>
+Surprise! There are even more Pokxc3xa9mon games on the way. At a livestreamed event on Sunday morning, the Pokxc3xa9mon Company teased two new titles: Pokxc3xa9mon Scarlet and Violet. The games are expected to launch on the Nintendo Switch in late 2022, and the brief teaser looked reminiscent of 2019's Pokxc3xa9mon Sword and Shield. Unfortunately, there's little else in the way of detail right now.
+<a href='https://www.theverge.com/2022/2/27/22953414/pokemon-scarlet-violet-nintendo-switch-2022'> Source <a/>
