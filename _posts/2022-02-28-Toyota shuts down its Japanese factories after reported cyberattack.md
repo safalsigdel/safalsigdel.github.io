@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nGx5Nno2Z-4UETZg22-yozn629I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70560241/akrales_180328_2351_0623.0.jpg' width='700px' /><br/>
+A cyberattack has forced Toyota to shut down its factories in Japan, forcing the automaker to lose about 13,000 cars of output, Reuters reports. The attack was directed at a key supplier of plastic and electronic components to the company.
+<a href='https://www.theverge.com/2022/2/28/22954688/toyota-cyberattack-factory-shut-down-cars-output'> Source <a/>

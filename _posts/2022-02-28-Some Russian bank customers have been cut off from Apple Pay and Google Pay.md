@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OFarlUyhbBjOCQwiccf06rc3L1k=/0x0:6720x4480/1200x800/filters:focal(2223x1907:3297x2981)/cdn.vox-cdn.com/uploads/chorus_image/image/70554748/1322363774.0.jpg' width='700px' /><br/>
-Customers at a number of banks in Russia can no longer use their bank cards with Google Pay and Apple Pay due to newly-imposed financial sanctions on the country, as reported by Insider. According to a press release from Russia's Central Bank, affected financial institutions include VTB Group, Sovcombank, Novikombank, Promsvyazbank, and Otkritie FC Bank.
-<a href='https://www.theverge.com/2022/2/26/22952191/russian-bank-customers-apple-pay-google-pay-financial-sanctions-ukraine'> Source <a/>
