@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ywLEvPAasnjuYnC3yv8iY9jvDHU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70558842/mchin_200512_5050_0009.0.jpg' width='700px' /><br/>
+Lenovo has dumped a whole bunch of new ThinkPads into the world, and there's some exciting stuff in there. We're getting a brand-new ThinkPad X13s powered by Snapdragon chips, a fifth-generation ThinkPad X1 Extreme with a WQXGA 165Hz screen option, and new additions to the P-series and T-series as well.
+<a href='https://www.theverge.com/2022/2/28/22951154/lenovo-thinkpad-x1-extreme-x13s-laptops-specs-price'> Source <a/>
