@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2xluTT44SSsRbm4qoxke5qhMHuk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70560180/vpavic_200807_4133_0116.0.0.jpg' width='700px' /><br/>
+Samsung is officially killing off the Galaxy Note... brand name. The news was confirmed by Samsung's smartphone chief Roh Tae-moon, who told reporters at Mobile World Congress 2022 that “Galaxy Note will come out as Ultra” going forward, referring to Samsung's recently released Galaxy S22 Ultra, via Dailian.
+<a href='https://www.theverge.com/2022/2/28/22954605/samsung-galaxy-note-brand-name-ended-s22-ultra-mwc-2022'> Source <a/>
