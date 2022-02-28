@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YilzT3qFa1q-itELa_TPQy4YmDI=/0x0:4000x2667/1200x800/filters:focal(1675x1375:2315x2015)/cdn.vox-cdn.com/uploads/chorus_image/image/70555351/1189454319.0.jpg' width='700px' /><br/>
-Russian space agency Roscosmos has announced that it's temporarily halting Soyuz rocket launches in French Guiana due to sanctions imposed by the European Union, according to a report by Space.com.
-<a href='https://www.theverge.com/2022/2/26/22952535/russia-suspends-soyuz-rocket-launches-european-sanctions-ukraine-conflict'> Source <a/>
