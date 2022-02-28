@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xf9ilcc3QCrt39N9gt8hZfYxFgw=/0x0:2434x1447/1200x800/filters:focal(1023x530:1411x918)/cdn.vox-cdn.com/uploads/chorus_image/image/70559600/Hero_Image__Snapdragon_X70_5G_Modem_RF_System.0.jpg' width='700px' /><br/>
+Qualcomm is using Mobile World Congress to show off some new technology that should improve 5G connectivity and wireless audio. These new capabilities — and the chips that make them possible — are likely to land in the next generation of earbuds and high-end Android phones starting in the second half of this year.
+<a href='https://www.theverge.com/2022/2/28/22951127/qualcomm-snapdragon-sound-x70-modem-rf-5g-ai'> Source <a/>

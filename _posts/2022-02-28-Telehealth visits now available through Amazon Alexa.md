@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_mv_TH-HuSjgcdGcFF_zrGQJmBo=/0x0:2050x1367/1200x800/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70559703/dseifert_201025_4263_0002.0.0.jpg' width='700px' /><br/>
+Amazon customers can now connect with healthcare providers through Echo devices, the companies announced today. The service is provided by telemedicine company Teladoc, one of the largest telemedicine companies in the United States.
+<a href='https://www.theverge.com/2022/2/28/22950636/amazon-alexa-telehealth-teladoc-echo'> Source <a/>

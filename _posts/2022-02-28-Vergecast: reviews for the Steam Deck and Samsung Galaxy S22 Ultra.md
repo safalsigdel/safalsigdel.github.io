@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8C1BpQNZjcIr_X-gjXdRHdXlvW4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70552156/vpavic_220210_5030_0092.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where co-hosts Nilay Patel and Dieter Bohn discuss the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/2022/2/25/22950938/vergecast-podcast-steam-deck-samsung-galaxy-s22-ultra-review'> Source <a/>

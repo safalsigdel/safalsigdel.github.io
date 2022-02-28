@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7fk-Akzjatxr9bRWXfH802NzZK4=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/70559449/HONOR_Magic4_series.0.jpg' width='700px' /><br/>
+Honor's latest flagship smartphone, the Magic 4 Pro, can be fast-charged wirelessly at 100W, allowing it to be charged to 50 percent in just 15 minutes, the former Huawei sub-brand announced today. As well as 100W wireless charging, the phone is also equipped with 100W wired charging, which Honor says can fully charge the device's 4,600mAh battery in 30 minutes.
+<a href='https://www.theverge.com/2022/2/28/22950493/honor-magic-4-pro-100w-wireless-fast-charging-release-date-news-features-price'> Source <a/>
