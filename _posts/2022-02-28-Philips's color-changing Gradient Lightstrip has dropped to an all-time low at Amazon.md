@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/LhG5C4mJii_zqFuIPe4FTBBydmA=/0x0:6720x4480/1200x800/filters:focal(2823x1703:3897x2777)/cdn.vox-cdn.com/uploads/chorus_image/image/70554124/Behind_the_TV_light_on.0.jpg' width='700px' /><br/>
-Philips Hue smart lighting has long been one of the preferred smart home accessories for passionate aficionados and newbies alike. That's because the lights are relatively easy to start off your home automation with, expansive enough to build off of, and they just look cool.
-<a href='https://www.theverge.com/good-deals/2022/2/26/22950697/philips-hue-lightstrip-roku-express-streaming-stick-4k-logitech-webcam-apple-watch-charger-deal-sale'> Source <a/>

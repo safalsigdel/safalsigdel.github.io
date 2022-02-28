@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SEagHVMN4rSNo4KtDKuGGBZHzE4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70554192/acastro_180522_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook is blocking state-run Russian media outlets from advertising and monetizing content on the platform amid the ongoing conflict in Ukraine (via Reuters).
-<a href='https://www.theverge.com/2022/2/26/22952038/facebook-russian-state-media-blocked-advertising-monetization-ukraine-conflict'> Source <a/>

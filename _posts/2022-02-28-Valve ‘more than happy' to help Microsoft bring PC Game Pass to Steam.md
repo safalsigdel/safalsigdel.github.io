@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/EBG8jC2y-lWLn4UzrDAPa1inNgI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70554059/acastro_180509_1777_steam_0002.0.jpg' width='700px' /><br/>
-Valve CEO Gabe Newell is open to Microsoft launching its PC Game Pass service on Steam. In an interview with PC Gamer, Newell says Valve has no plans for an Xbox Game Pass competitor, but that it would be happy to work with Microsoft to bring PC Game Pass to Steam.
-<a href='https://www.theverge.com/2022/2/26/22952086/valve-microsoft-pc-game-pass-steam-comments'> Source <a/>
