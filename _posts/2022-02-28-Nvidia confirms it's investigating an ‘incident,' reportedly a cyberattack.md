@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uvZLILqNSEYc3RrPkPgbaYAuyH8=/0x0:2000x1334/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/70552183/NVIDIA_Endeavor_building_logo.0.jpg' width='700px' /><br/>
-Nvidia is confirming to The Verge, Bloomberg, Reuters, and others that it's investigating an “incident” — hours after The Telegraph reported that the graphics chipmaking giant had experienced a devastating cyberattack that “completely compromised” the company's internal systems over the past two days.
-<a href='https://www.theverge.com/2022/2/25/22951376/nvidia-incident-alleged-cyberattack-february-2022'> Source <a/>
