@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TExlWkkZ2QoKxWEEXizTSCzU5Qk=/0x0:4696x3191/1200x800/filters:focal(1973x1221:2723x1971)/cdn.vox-cdn.com/uploads/chorus_image/image/70555238/898915230.0.jpg' width='700px' /><br/>
-A coalition of NATO-aligned countries has committed to new measures meant to sever Russia from the global financial system, countries announced in a joint letter today. The letter, signed by the United States, UK, Canada, and European allies, lays out new measures to isolate Russia's central bank, and announces a new trans-Atlantic task force to freeze the foreign assets of sanctioned individuals.
-<a href='https://www.theverge.com/2022/2/26/22949156/russia-expelled-swift-ukraine-sanctions'> Source <a/>
