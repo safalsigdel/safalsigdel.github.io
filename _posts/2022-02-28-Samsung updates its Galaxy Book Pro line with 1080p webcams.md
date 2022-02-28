@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/22T34RP5-aesUBGx8Gnlrd8ZZLQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70557133/mchin_200521_5049_0001.0.jpg' width='700px' /><br/>
+Samsung has announced two updates to its premium Galaxy Book line: the Galaxy Book 2 Pro and Galaxy Book 2 Pro 360. The devices will start at $1,049.99 and $1,249.99 respectively; they hit shelves on April 1st with preorders beginning on March 18th. A budget-oriented Galaxy Book 2 360, a convertible version of the regular Galaxy Book, will also ship April 1st with a starting price of $899.99.
+<a href='https://www.theverge.com/2022/2/27/22950976/samsung-galaxy-book2-pro-360-price-features-ports-specs-intel-evo'> Source <a/>

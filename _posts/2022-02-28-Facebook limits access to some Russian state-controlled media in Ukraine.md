@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ou1Cb74kbTGKMU6HY4iexcI69S8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70557726/acastro_180828_1777_facebook_0001.0.0.jpg' width='700px' /><br/>
+Facebook has blocked access to a number of accounts in Ukraine, some of which are associated with Russian state-backed media outlets. It's also reviewing other governments' requests to restrict access to these accounts in their countries.
+<a href='https://www.theverge.com/2022/2/27/22953790/facebook-restricts-access-russian-state-controlled-media-ukraine'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ngbIZQRL1s23-j9ddh8-C8jNLEk=/0x0:2480x1654/1200x800/filters:focal(1042x629:1438x1025)/cdn.vox-cdn.com/uploads/chorus_image/image/70556829/30s_2B.0.jpg' width='700px' /><br/>
+TCL, the Chinese manufacturer best known for its lineup of smart TVs, has announced five new affordable Android smartphones as part of its 30 Series. Unlike the TCL 30 XE 5G and TCL 30 V 5G announced earlier this year for the US market, the five new handsets are focused on Europe, and their starting prices range from xe2x82xac139 to xe2x82xac249.
+<a href='https://www.theverge.com/2022/2/27/22949558/tcl-30-series-affordable-handsets-5g-plus-se-e-release-date-news-features'> Source <a/>

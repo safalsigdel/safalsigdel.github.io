@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WUFtNGj0IN71Rb62YoGdGqtQY8U=/0x0:5106x3404/1200x800/filters:focal(1709x1341:2525x2157)/cdn.vox-cdn.com/uploads/chorus_image/image/70557154/1238808491.0.jpg' width='700px' /><br/>
+European Commission President Ursula von der Leyen announced on Twitter that the European Union will ban Russian state-run media outlets from airing in the EU, as well as bar Russian aircraft from flying in EU airspace.
+<a href='https://www.theverge.com/2022/2/27/22953563/eu-ban-russia-aircraft-state-backed-media-ukraine-sanctions'> Source <a/>
