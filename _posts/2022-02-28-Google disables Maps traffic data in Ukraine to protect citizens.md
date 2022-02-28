@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zL6QECYAijhWViGNYdAqIaGr0h8=/0x0:4620x3075/1200x800/filters:focal(1941x1169:2679x1907)/cdn.vox-cdn.com/uploads/chorus_image/image/70559022/1238803596.0.jpg' width='700px' /><br/>
+Google has temporarily disabled live traffic features offered by Google Maps in Ukraine to protect users' safety as the country is invaded by neighboring Russia.
+<a href='https://www.theverge.com/2022/2/28/22954426/google-disables-maps-traffic-data-in-ukraine-to-protect-citizens'> Source <a/>
