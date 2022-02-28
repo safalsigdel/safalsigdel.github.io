@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GkoiayV9FyNuQaY2Y0SwFtUP6sw=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70555098/acastro_180202_1777_0001.0.jpg' width='700px' /><br/>
-YouTube is blocking state-backed Russian media outlets from advertising and earning money on the platform, as first reported by Reuters. As Russian troops continue to invade Ukraine, YouTube told Reuters it's “pausing a number of channels' ability to monetize on YouTube, including several Russian channels affiliated with recent sanctions.”
-<a href='https://www.theverge.com/2022/2/26/22952439/youtube-bans-ads-rt-russia-channels-google-ukraine'> Source <a/>
