@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JTx8d5Lj2uY2ddmV7xfzZTBSzns=/0x0:4000x2789/1200x800/filters:focal(1680x1075:2320x1715)/cdn.vox-cdn.com/uploads/chorus_image/image/70569545/646266_20220302_Polestar_O2_electric_performance_roadster_concept.0.jpg' width='700px' /><br/>
+Polestar, the Swedish electric automaker, announced a new roadster concept called the Polestar O2. The hardtop convertible, which made its debut in Los Angeles today, is designed to showcase the automaker's bonded aluminum platform, which it produces in-house, as well as some quirkier innovations, like an integrated drone for aerial filming.
+<a href='https://www.theverge.com/2022/3/2/22956775/polestar-o2-electric-roadster-concept-drone'> Source <a/>
