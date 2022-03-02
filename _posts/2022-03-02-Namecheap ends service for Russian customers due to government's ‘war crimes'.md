@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p5oeU3g-IQ1Pr3X-UblWldV-0Lk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70565937/VRG_Illo_STK010_K_Radtke_Russia_Glitch.0.jpg' width='700px' /><br/>
-Domain registrar and hosting provider Namecheap is terminating service provision for customers based in Russia in the face of what it describes as “war crimes” committed in Ukraine.
-<a href='https://www.theverge.com/2022/3/1/22956581/russia-ukraine-namecheap-ends-service-war-crimes'> Source <a/>
