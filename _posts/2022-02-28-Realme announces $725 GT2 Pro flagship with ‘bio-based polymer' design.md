@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ym2YdDQgtWQuE1ba2GVx685tIDE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70559039/IMG_2106.0.jpg' width='700px' /><br/>
-Realme has announced the GT2 Pro, its latest flagship phone and the followup to last year's impressive GT. The former Oppo sub-brand describes it as “the most premium flagship ever by Realme,” and it's difficult to disagree with that assessment.
-<a href='https://www.theverge.com/2022/2/28/22954417/realme-gt2-pro-announced-specs-design-cameras'> Source <a/>

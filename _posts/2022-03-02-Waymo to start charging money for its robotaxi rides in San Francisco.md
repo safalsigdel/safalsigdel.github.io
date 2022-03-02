@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mVbKNftrUm6jeWOZqQBbiAr3nPY=/0x0:2040x1530/1200x800/filters:focal(857x602:1183x928)/cdn.vox-cdn.com/uploads/chorus_image/image/70565328/vpavic_4412_20210111_0002.0.jpg' width='700px' /><br/>
+Waymo, the autonomous vehicle unit of Alphabet, got the green light to start charging for rides in its autonomous taxis in San Francisco. The California Public Utilities Commission awarded the company a permit that allows them to charge for rides as long as there's a human safety driver behind the wheel.
+<a href='https://www.theverge.com/2022/3/1/22956335/waymo-robotaxi-rides-paid-san-francisco-cpuc'> Source <a/>

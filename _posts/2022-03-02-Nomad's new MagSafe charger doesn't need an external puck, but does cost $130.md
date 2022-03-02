@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DAQFv9M8NGo4KE6lM__pTXli33k=/0x0:4994x3493/1200x800/filters:focal(2098x1348:2896x2146)/cdn.vox-cdn.com/uploads/chorus_image/image/70565479/856500011509_01.0.jpg' width='700px' /><br/>
+Nomad has finally revealed its first officially licensed MagSafe charger, the Base One (that is to say, one that actually has the Apple MFi-approved MagSafe module built in, and not one with a separate charging cable threaded through). Unfortunately, that convenience doesn't come cheap: the Base One costs $129.95.
+<a href='https://www.theverge.com/2022/3/1/22937394/nomad-magsafe-charger-base-one-price-mfi-iphone'> Source <a/>

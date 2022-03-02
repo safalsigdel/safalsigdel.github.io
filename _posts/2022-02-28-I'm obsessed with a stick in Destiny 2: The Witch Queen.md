@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Sug2L4dkvvb7kAT5weK5Fair2RE=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70560533/2022_TWQ_Gear_Large15.0.jpg' width='700px' /><br/>
-I'm obsessed with a stick in Destiny 2: The Witch Queen. That's a sentence I never thought I'd utter before the new glaive weapon arrived in the game last week. Released as part of The Witch Queen expansion, the glaive is a powerful and versatile... stick. Or “stabby stabby murder sticks,” as Bungie described the glaives last week. You can melee with it and slay enemies at close range, shoot a projectile from afar, or block an attack.
-<a href='https://www.theverge.com/2022/2/28/22954604/destiny-2-the-witch-queen-glaive-review'> Source <a/>

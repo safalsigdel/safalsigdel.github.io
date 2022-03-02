@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/x1LV4wG23QMabsHHOYLV59aYres=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70559359/acastro_180720_1777_facebook_0001.0.jpg' width='700px' /><br/>
-Facebook says it's dismantled a misinformation network comprised of individuals and sites pushing fake news about the Russian invasion of Ukraine.
-<a href='https://www.theverge.com/2022/2/28/22954451/facebook-twitter-remove-misinformation-network-russian-propaganda-ukraine-invasion'> Source <a/>

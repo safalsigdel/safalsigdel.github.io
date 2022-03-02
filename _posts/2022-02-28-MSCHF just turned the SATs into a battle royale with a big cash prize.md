@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MQSQXqCGrR7F1Ja3Tqvg7fTI_7Q=/0x0:1832x1242/1200x800/filters:focal(770x475:1062x767)/cdn.vox-cdn.com/uploads/chorus_image/image/70560343/Screenshot_2022_02_28_at_14.58.02.0.png' width='700px' /><br/>
-It'll cost $52 for you to enter, but you could take home thousands — at least. This is the latest project from art collective MSCHF: a one-off, winner-takes-all, massively multiplayer version of the SATs named the MSAT.
-<a href='https://www.theverge.com/2022/2/28/22954638/msch-mmo-sat-msat-competition-drop-winner-takes-all'> Source <a/>

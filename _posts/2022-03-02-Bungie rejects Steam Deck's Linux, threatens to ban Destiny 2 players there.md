@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dR6xOH6UNNCSBHWUihA2_uq5BTI=/0x0:1920x1080/1200x800/filters:focal(881x216:1187x522)/cdn.vox-cdn.com/uploads/chorus_image/image/70567552/2022_TWQ_PreviewLucentBrood.0.jpg' width='700px' /><br/>
+When will Bungie let Destiny 2 come to Valve's Steam Deck handheld gaming PC? It's looking like the answer is never — because the soon-to-be Sony subsidiary has published an help page that not only says the game's unsupported, but outright threatens to ban prospective Steam Deck players (via Wario64).
+<a href='https://www.theverge.com/22957294/bungie-destiny-2-steam-deck-game-ban'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/2ZUsYbyZR8ZYAdvjkG7E5nwoMlI=/0x0:1080x1080/1200x800/filters:focal(449x615:621x787)/cdn.vox-cdn.com/uploads/chorus_image/image/70565983/1080x1080_Consumption_new_posted_video_in__feed.0.jpg' width='700px' /><br/>
+Instagram head Adam Mosseri said Tuesday the company is adding auto-generated captions to the videos in your feed. He acknowledged the captions have been “a long time coming” — rival TikTok introduced auto-captions last April — and said the captions will be on by default for creators on the platform.
+<a href='https://www.theverge.com/2022/3/1/22956660/instagram-auto-generated-captions-videos-accessibility'> Source <a/>

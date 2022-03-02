@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/BQ_WqmomM8MVrqXQ2IPnSbTKrbQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70557276/acastro_170731_1777_0003_v1.0.jpg' width='700px' /><br/>
-Apple may be working on a device with a 20-inch foldable display, which Apple tracker Mark Gurman describes as an “iPad / MacBook hybrid” in Bloomberg's Power On newsletter.
-<a href='https://www.theverge.com/2022/2/27/22953546/apple-reportedly-working-device-foldable-20-inch-display-rumors'> Source <a/>

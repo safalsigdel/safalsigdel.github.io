@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/rsLUkYDH9B7--Q7eMVAAHfae714=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70567337/bfarsace_211014_4802_0002.0.jpg' width='700px' /><br/>
+Google has begun rolling out a new fast emergency dialer (FED) feature designed to help users traveling internationally quickly access police, fire, and medical services, 9to5Google reported. The dialer was reportedly first seen last year through the Pixel's emergency app, but Google confirmed to Android Police that FED is currently rolling out to a wider release.
+<a href='https://www.theverge.com/2022/3/1/22956671/google-pixel-fast-emergency-dialer-phone'> Source <a/>

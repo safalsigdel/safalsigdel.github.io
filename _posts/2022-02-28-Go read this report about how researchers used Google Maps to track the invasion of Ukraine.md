@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Iplxqq3N0p3M6qukTDkSPuzEobA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70556904/akrales_190515_3424_0008.0.jpg' width='700px' /><br/>
-This report from The Washington Post details how a team of researchers used a combination of Google Maps and radar imagery to track the movement of Russian troops, tipping them off to an invasion of Ukraine before the general public got word of the situation.
-<a href='https://www.theverge.com/2022/2/27/22953398/go-read-this-researchers-google-maps-russian-troops-ukraine-invasion'> Source <a/>

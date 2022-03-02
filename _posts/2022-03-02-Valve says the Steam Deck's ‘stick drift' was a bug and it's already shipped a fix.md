@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/WiiXETqwQAKE218Cppq7RSWiLvc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70566778/vpavic_220210_5030_0079.0.jpg' width='700px' /><br/>
+The first batch of Steam Decks is starting to arrive to the lucky few who could order them on Friday, and a handful of owners have reported stick drift on their devices. But Valve now tells us that what's going on is a “deadzone calibration issue” — which indicates this is a software problem, not a hardware one — and that the team has already shipped a fix for it.
+<a href='https://www.theverge.com/2022/3/1/22956866/valve-steam-deck-stick-drift-replacement'> Source <a/>

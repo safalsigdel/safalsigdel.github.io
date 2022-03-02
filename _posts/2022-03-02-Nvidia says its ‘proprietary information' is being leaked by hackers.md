@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JhsSjBjO9RbtcZrexe8krlb0axM=/0x0:3680x2456/1200x800/filters:focal(1546x934:2134x1522)/cdn.vox-cdn.com/uploads/chorus_image/image/70567841/1238281392.0.jpg' width='700px' /><br/>
+Nvidia has confirmed that it was hacked — and that the actor behind last week's “incident” is leaking employee credentials and proprietary information onto the internet. In a statement to PCMag, Bloomberg, and VideoCardz, the company says it became aware of the breach on February 23rd, and that it does “not anticipate any disruption to [its] business or our ability to serve our customers as a result of the incident.”
+<a href='https://www.theverge.com/2022/3/1/22957212/nvidia-confirms-hack-proprietary-information-lapsus'> Source <a/>
