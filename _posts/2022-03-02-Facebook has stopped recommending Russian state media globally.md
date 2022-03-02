@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Ix7bjB2hXoApeEQIXQg8A8fa-Go=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70565623/acastro_171002_1777_0004_v5.5.jpg' width='700px' /><br/>
-Meta has stopped recommending content by Russian state media to all users of Facebook, and soon Instagram, as the country's ongoing invasion of Ukraine wages on.
-<a href='https://www.theverge.com/2022/3/1/22956532/facebook-russian-state-media-global-recommendation-suspension'> Source <a/>

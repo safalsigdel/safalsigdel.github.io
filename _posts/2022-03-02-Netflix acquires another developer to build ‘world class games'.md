@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8_LrHUqofRS1wKL8bMg84u1Tqpo=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70568915/image.0.png' width='700px' /><br/>
+Netflix has made an offer to acquire Next Games, the Finland-based developer behind mobile puzzle RPG Stranger Things: Puzzle Tales. In a blog post, Netflix's VP of games Mike Verdu said that the acquisition was to help the company “build a library of great games for our members to enjoy.” Next Games has also developed a pair of Walking Dead-themed mobile games.
+<a href='https://www.theverge.com/2022/3/2/22957953/netflix-next-games-acquisition-stranger-things-mobile-puzzle-rpg'> Source <a/>
