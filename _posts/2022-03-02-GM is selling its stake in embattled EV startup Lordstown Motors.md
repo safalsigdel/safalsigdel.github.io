@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3-AxaCPPlJfik06eK3iY7KtIwmo=/0x0:4000x2670/1200x800/filters:focal(1680x1015:2320x1655)/cdn.vox-cdn.com/uploads/chorus_image/image/70567202/1232963600.0.jpg' width='700px' /><br/>
-General Motors is selling its stake in Lordstown Motors, an electric vehicle startup that has struggled to produce its first vehicle. GM owned 7.5 million shares, or less than 5 percent of the company, with an initial equity value of $75 million. The news was first reported by the Detroit Free Press.
-<a href='https://www.theverge.com/2022/3/1/22957094/gm-sell-stake-lordstown-motors-ev-factory-foxconn'> Source <a/>

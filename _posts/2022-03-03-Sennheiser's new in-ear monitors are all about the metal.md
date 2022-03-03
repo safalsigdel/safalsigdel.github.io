@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ck7In0BGDkJoOMpnS42DS-q-Ks4=/0x0:2400x2400/1200x800/filters:focal(1008x1008:1392x1392)/cdn.vox-cdn.com/uploads/chorus_image/image/70570285/Sennheiser_IE_600_Mood_Shot_1x1_P1120993_web.0.jpg' width='700px' /><br/>
+Sennheiser's new earbuds are 3D printed with the same material used in the drill bits for the Mars rover. The IE 600 earbuds have a shell that's composed of ZR01 amorphous zirconium, lending it a unique aesthetic and remarkable durability.
+<a href='https://www.theverge.com/2022/3/2/22954718/sennheiser-earbuds-metal-zirconium-audiophile'> Source <a/>

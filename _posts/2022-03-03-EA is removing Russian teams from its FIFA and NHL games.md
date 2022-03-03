@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xoLoJf_KpbGFtl5sRXhvHwMgLiM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70570366/ss_2cdf78a2091db6adb7ec405f4c5438fd621266a9.0.jpg' width='700px' /><br/>
+Electronic Arts has announced that it's in the process of removing both Russian national teams and the country's professional clubs from some of its biggest sports games.
+<a href='https://www.theverge.com/2022/3/2/22958329/ea-sports-fifa-nhl-russia'> Source <a/>

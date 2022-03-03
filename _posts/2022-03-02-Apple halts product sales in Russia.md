@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_DbYwOOoVVBrcp7C1PxtojVNd74=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70566695/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
-Apple has paused sales of its physical products in Russia following the invasion of Ukraine, according to a statement from the company. This is Apple's latest step after it imposed limitations for Apple Pay in Russia in accordance with sanctions, and it pulled some Russian news apps from the App Store outside of the country.
-<a href='https://www.theverge.com/2022/3/1/22957000/apple-russia-ukraine-invasion-halt-product-sales-app-store'> Source <a/>

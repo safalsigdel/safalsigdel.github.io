@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/7q8qVDvr6uDt-Qa2CiRWrc9L3UU=/0x0:2398x1114/1200x800/filters:focal(1008x366:1390x748)/cdn.vox-cdn.com/uploads/chorus_image/image/70566237/Screen_Shot_2022_03_01_at_1.34.08_PM.0.png' width='700px' /><br/>
-MediaTek might have just beaten out Qualcomm to claim the biggest market share of any chipmaker for Android phones in the United States — at least, according to one analyst group.
-<a href='https://www.theverge.com/2022/3/1/22956593/mediatek-qualcomm-android-processor-smartphone-marketshare-united-states-dimensity'> Source <a/>

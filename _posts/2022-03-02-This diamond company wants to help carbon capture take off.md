@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/t83NRStcDxtPD7uwyrVFwFWgwcA=/0x0:3573x2166/1200x675/filters:focal(1502x798:2072x1368)/cdn.vox-cdn.com/uploads/chorus_image/image/70568714/Aether_Tweezers.0.jpg' width='700px' /><br/>
-Luxury diamond producers are usually way more focused on sparkly chunks of rock in the ground than carbon dioxide emissions in the atmosphere. But one diamond company is trying to recast the gems as a crucial lever in the climate fight by growing diamonds from carbon sucked straight out of the air.
-<a href='https://www.theverge.com/2022/3/2/22951332/aether-diamonds-carbon-capture-air-climate-change'> Source <a/>

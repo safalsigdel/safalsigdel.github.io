@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OAVO3WU0fK97UzAB4bLTZTqH7-4=/0x0:1870x1240/1200x800/filters:focal(786x471:1084x769)/cdn.vox-cdn.com/uploads/chorus_image/image/70566299/Screen_Shot_2022_03_01_at_11.07.03_AM.0.png' width='700px' /><br/>
-Good news: in a rare discount, Paramount Plus is celebrating its first birthday by offering an 80 percent discount to new and returning customers.
-<a href='https://www.theverge.com/2022/3/1/22956763/paramount-plus-first-anniversary-discount'> Source <a/>

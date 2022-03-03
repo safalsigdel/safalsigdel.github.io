@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wyP6yp7vo2kCYTobXbkSkp09naw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70570376/DSCF4372_Edited.0.jpeg' width='700px' /><br/>
+Nothing, the consumer tech brand led by OnePlus co-founder Carl Pei, is planning to launch its debut smartphone by next month, according to a report from TechCrunch. The company has reportedly been working on the phone for over a year, and Pei is said to have shown off a prototype to executives from companies including Qualcomm at this week's Mobile World Congress in Barcelona.
+<a href='https://www.theverge.com/2022/3/2/22958333/carl-pei-nothing-oneplus-android-smartphone-launch'> Source <a/>

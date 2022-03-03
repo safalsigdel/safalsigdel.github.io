@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/CIehrfxP-UJTPg6Yd3ci1I6rtg0=/0x0:2880x1616/1200x800/filters:focal(676x661:1136x1121)/cdn.vox-cdn.com/uploads/chorus_image/image/70567276/kodi_case.0.0.png' width='700px' /><br/>
-Adam Lackman, the self-described “former pirate” behind the Kodi add-on repository TVAddons, has agreed to pay $19.5 million ($25 million CAD) to a group of Canadian telecom giants over copyright infringement, according to a report from TorrentFreak.
-<a href='https://www.theverge.com/2022/3/1/22956219/kodi-tvaddons-creator-fined-19-million-copyright-infringement-piracy'> Source <a/>

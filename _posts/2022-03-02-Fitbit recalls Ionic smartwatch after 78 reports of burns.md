@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/aWeBz89DYANhmtMJSaI7_e2ajo4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70569062/vpavic_170925_2023_0082.0.jpg' width='700px' /><br/>
-Fitbit announced today that it's working with the Consumer Product Safety Commission to voluntarily recall its Ionic smartwatch. The company says it's received over 100 reports of the watch's lithium-ion battery overheating, as well as 78 reports of burn injuries to customers.
-<a href='https://www.theverge.com/2022/3/2/22957989/fitbit-ionic-recall-burns-smartwatch-fitness-tracker-refund'> Source <a/>

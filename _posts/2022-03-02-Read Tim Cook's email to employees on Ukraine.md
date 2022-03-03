@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/l82cIVSQwwfg4EtmPtHaLnbbV8A=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70567969/acastro_180604_1777_apple_wwdc_0002.0.jpg' width='700px' /><br/>
-Tim Cook sent out an email to employees this morning addressing the Russian invasion of Ukraine and explaining the actions Apple has taken in reaction to the events of the past two weeks. The email also tells employees that Apple will be matching donations they make to certain humanitarian relief funds two to one, and will do so retroactively for donations made since February 25th.
-<a href='https://www.theverge.com/2022/3/1/22957538/apple-tim-cook-ukraine-email-employees'> Source <a/>

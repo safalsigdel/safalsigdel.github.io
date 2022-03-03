@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/YkdKTJRsex_1AhKOrqY9F2Li0Js=/0x0:6422x4283/1200x800/filters:focal(2698x1629:3724x2655)/cdn.vox-cdn.com/uploads/chorus_image/image/70566379/1356621480.0.jpg' width='700px' /><br/>
-The White House announced Tuesday that Facebook whistleblower Frances Haugen will be among the guests of first lady Jill Biden at President Biden's first official State of the Union address.
-<a href='https://www.theverge.com/2022/3/1/22956830/biden-state-of-the-union-address-facebook-whistleblower-frances-haugen-jill'> Source <a/>

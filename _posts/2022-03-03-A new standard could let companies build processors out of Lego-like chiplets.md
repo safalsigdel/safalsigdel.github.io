@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/JZMpVBiFzxldP2le2qaqPRUnQPU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70570340/acastro_210430_1777_semiCon_0001.0.jpg' width='700px' /><br/>
+The world's biggest chipmakers are coming together to create a new Universal Chiplet Interconnect Express (UCIe) system for integrating chiplets together in future semiconductor designs.
+<a href='https://www.theverge.com/2022/3/2/22958049/ucie-chiplet-standard-processors-soc-intel-tsmc-samsung-arm'> Source <a/>

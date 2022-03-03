@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9kg7FKFa-vTVhqtn6k0dS3xm5Yo=/0x0:1920x1440/1200x800/filters:focal(807x567:1113x873)/cdn.vox-cdn.com/uploads/chorus_image/image/70567528/ince_ncio_navio_ac_ores_7.0.jpeg' width='700px' /><br/>
-A cargo ship carrying thousands of vehicles across the Atlantic Ocean has sunk, according to the company that operated the ship (via Insider). A fire broke out on the ship, Felicity Ace, on February 16th as it was traveling from Germany to the USA.
-<a href='https://www.theverge.com/2022/3/1/22957178/cargo-ship-thousands-cars-vehicles-sinks-atlantic-felicity-ace'> Source <a/>

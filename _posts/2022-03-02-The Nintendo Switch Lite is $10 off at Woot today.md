@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hssz9K6BuBsI1fmJ4ReC4ZZed-U=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70569380/akrales_190820_3597_0150.0.jpg' width='700px' /><br/>
-The Nintendo Switch Lite is seeing a very rare discount today. The handheld-only variant of the popular Switch normally sells for $199.99, but Woot is offering it today for $189.99 if you're an Amazon Prime subscriber. That $10 discount may not sound like much, but Nintendo hardware sales are quite uncommon, with sales on the Switch Lite being even rarer. This deal is only for today or until it sells out.
-<a href='https://www.theverge.com/good-deals/2022/3/2/22958011/nintendo-switch-lite-woot-amazon-prime-discount-deal-sale'> Source <a/>

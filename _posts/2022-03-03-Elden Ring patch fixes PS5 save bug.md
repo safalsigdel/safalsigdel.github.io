@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3CHftuXAz-EbnWpbk-1zYSxt3CE=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70570804/elden_ring_2.0.jpg' width='700px' /><br/>
+Elden Ring developers, FromSoftware, have rolled out a fix for the bug that caused the loss of game save data on PS5 (via Polygon). In a tweet, developers confirmed that they've made “changes to save progression even when the game is not terminated” on PS5, in addition to issuing a few other patches on PC.
+<a href='https://www.theverge.com/2022/3/2/22958240/elden-ring-ps5-save-bug-patch-fix'> Source <a/>

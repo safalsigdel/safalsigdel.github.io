@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U04AcmAy11C377O2G2YTff3dpo8=/0x0:3240x2160/1200x800/filters:focal(1361x821:1879x1339)/cdn.vox-cdn.com/uploads/chorus_image/image/70570046/RE7_biohazard_New_Gen__4K_.0.jpg' width='700px' /><br/>
+Later in 2022, Capcom will release free graphical updates for its remakes of Resident Evil 2 and Resident Evil 3, along with Resident Evil 7, that introduce ray tracing, a high frame rate mode, and 3D audio on the PS5, Xbox Series X / S, and PC.
+<a href='https://www.theverge.com/2022/3/2/22958218/capcom-resident-evil-remake-ray-tracing-ps4-xbox-series-pc-update-graphics'> Source <a/>

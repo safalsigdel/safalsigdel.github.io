@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6Z6m8JshHXc_na4GPNk3gd_C17U=/0x0:2040x1360/1200x675/filters:focal(866x777:1192x1103)/cdn.vox-cdn.com/uploads/chorus_image/image/70568841/DSCF5692_3.0.jpg' width='700px' /><br/>
-TV speakers continue to sound lousy and underwhelming in 2022. Even on sets that have gorgeous picture quality, the built-in audio rarely does the visual side justice. This ultimately comes down to physics: With TVs continuing to get slimmer and sleeker than ever before, there's just not much room for powerful drivers. Some TV makers like Sony offer legitimately great-sounding speakers in their most premium models, but they cost thousands of dollars.
-<a href='https://www.theverge.com/22950789/best-soundbar'> Source <a/>

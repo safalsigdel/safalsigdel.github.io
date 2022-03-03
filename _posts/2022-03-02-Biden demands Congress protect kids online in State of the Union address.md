@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/f1vF7QukBdU1k9WaPXwwlES8kJQ=/0x0:4873x3249/1200x800/filters:focal(2048x1236:2826x2014)/cdn.vox-cdn.com/uploads/chorus_image/image/70567914/1375574620.0.jpg' width='700px' /><br/>
-President Joe Biden called on Congress to pass new rules to enhance child safety on social media platforms like Facebook and Instagram in his first State of the Union address on Tuesday. It's the first time Biden has called for these rules, and the White House plans to make specific funding requests to study and improve children's online safety.
-<a href='https://www.theverge.com/2022/3/1/22957505/biden-children-kids-privacy-tech-facebook-instagram-frances-haugen-sotu'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/U6pJwGgSFaApw19zIb8B_to7Uvo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70566806/hp_chromebook_x2_11_29.0.jpg' width='700px' /><br/>
-The Universal Stylus Initiative (USI) announced this week that it's established a new USI 2.0 open stylus standard, which includes new features that will make way for better writing experiences on Chromebooks.
-<a href='https://www.theverge.com/2022/3/1/22956294/chromebook-stylus-usi-2-0-wireless-charging-nfc'> Source <a/>

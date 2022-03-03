@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/p4vE7pDwQx4pbFqO3ValIgoqkiA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70567882/cwelch_20210428_4565_0003.0.jpg' width='700px' /><br/>
-After initially dropping the Russia-backed news channel RT in Europe, Roku says it is now dropping the channel from its Roku Channel Store everywhere — including in its US market.
-<a href='https://www.theverge.com/2022/3/1/22957443/roku-directv-russia-ukraine-rt'> Source <a/>
