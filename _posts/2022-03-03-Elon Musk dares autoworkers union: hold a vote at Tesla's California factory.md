@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ifhs0az9HHmtiwbFLfP76-O_71I=/0x0:6048x4024/1200x800/filters:focal(2541x1529:3507x2495)/cdn.vox-cdn.com/uploads/chorus_image/image/70573221/1238367618.0.jpg' width='700px' /><br/>
+Elon Musk has invited the United Auto Workers (UAW) labor union to hold a vote to unionize at Tesla's Fremont factory in California.
+<a href='https://www.theverge.com/2022/3/3/22959592/elon-musk-tesla-union-challenges-uaw-california-factory-vote'> Source <a/>
