@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/V3ObZKspS-o8v0xD9bTjLrt4RU0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70574605/jporter_220301_5056_0002.0.jpg' width='700px' /><br/>
+Azio has never produced the most typical keyboards. Whether it's their odd typewriter-style Retro Classic devices or the shiny, yet ultimately cheap-feeling Izo, the manufacturer has often prioritized form over function with its designs.
+<a href='https://www.theverge.com/22958088/azio-cascade-review-wireless-mechanical-keyboard-75-percent-kickstarter'> Source <a/>

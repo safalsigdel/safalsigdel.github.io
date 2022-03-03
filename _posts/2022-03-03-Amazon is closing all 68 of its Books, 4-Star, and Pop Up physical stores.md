@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HN2FQ4m5b3trpRlyBzxdi0oNqgs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70571654/akrales_180927_2984_0008.0.jpg' width='700px' /><br/>
-Amazon is closing most of its physical stores, the company announced today, with all 68 of its Amazon Books, Amazon 4-Star, and Amazon Pop Up locations across the US and the UK set to close while the company refocuses on its grocery and fashion stores, Reuters reports.
-<a href='https://www.theverge.com/2022/3/2/22958745/amazon-book-4-star-pop-up-physical-retail-locations-closing'> Source <a/>
