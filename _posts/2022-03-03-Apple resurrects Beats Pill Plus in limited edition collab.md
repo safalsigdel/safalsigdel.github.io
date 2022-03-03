@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/XALuHtKCaGeQ8FrJCRqabFglytA=/4x438:1296x1222/1200x800/filters:focal(681x714:887x920)/cdn.vox-cdn.com/uploads/chorus_image/image/70572157/Stussy_Beats___Still_Life___Web_Res___3_1296x.0.jpeg' width='700px' /><br/>
 Beats is releasing a limited-edition model of its discontinued Beats Pill Plus in collaboration with fashion brand Stxc3xbcssy. The release comes not long after Apple discontinued the Beats Pill Plus in January.
+<a href='https://www.theverge.com/2022/3/2/22958728/apple-beats-pill-speaker-stussy-sale-limited'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/XALuHtKCaGeQ8FrJCRqabFglytA=/4x438:1296x1222/1200x800/filters:focal(681x714:887x920)/cdn.vox-cdn.com/uploads/chorus_image/image/70572157/Stussy_Beats___Still_Life___Web_Res___3_1296x.0.jpeg' width='700px' /><br/>
+Beats is releasing a limited-edition model of its discontinued Beats Pill Plus in collaboration with fashion brand Stxc3xbcssy. The release comes not long after Apple discontinued the Beats Pill Plus in January.
 <a href='https://www.theverge.com/2022/3/2/22958728/apple-beats-pill-speaker-stussy-sale-limited'> Source <a/>
