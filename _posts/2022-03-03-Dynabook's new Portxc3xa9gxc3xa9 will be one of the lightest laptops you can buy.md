@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lDKYVrVNl3OguwbmJg_9zMmxqWI=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70573591/Portege_X40LK_00005.0.png' width='700px' /><br/>
+Dynabook has announced its newest 14-inch flagship, the Portxc3xa9gxc3xa9 X40L-K. The device will start at $1,799.99 and hits shelves in April. I haven't seen a full breakdown of the configurations that will be offered, but I'm certainly curious how expensive it will go.
+<a href='https://www.theverge.com/2022/3/3/22958980/dynabook-portege-x40l-k-laptop-prirce-release-date-specs'> Source <a/>

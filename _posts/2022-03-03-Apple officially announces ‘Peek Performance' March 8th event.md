@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DeTcdb54TuPIUKNwMPoHLm0qIlo=/0x0:1198x728/1200x800/filters:focal(504x269:694x459)/cdn.vox-cdn.com/uploads/chorus_image/image/70570301/Screen_Shot_2022_03_02_at_12.03.10_PM.0.jpg' width='700px' /><br/>
-Apple will be holding its next event online on March 8th, the company announced today with an invite featuring the “peek performance” tagline, and multicolored Apple logo that could hint at the colors of new devices.
-<a href='https://www.theverge.com/2022/3/2/22949618/apple-iphone-se-ipad-air-face-id-mask-spring-event-peek-performance'> Source <a/>
