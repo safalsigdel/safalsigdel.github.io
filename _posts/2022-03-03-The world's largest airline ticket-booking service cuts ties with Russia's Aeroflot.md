@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ehnMsMbuuOQpMk4AkYRDTv199AE=/0x0:5179x3394/1200x800/filters:focal(2176x1283:3004x2111)/cdn.vox-cdn.com/uploads/chorus_image/image/70574200/1376620977.0.jpg' width='700px' /><br/>
+Sabre, one of the largest airline ticket booking companies in the world, is terminating its distribution agreement with Russian air carrier Aeroflot, the company announced Thursday. The move could further restrict Russian air travel, which has already seen its planes banned from most Western countries' airspace.
+<a href='https://www.theverge.com/2022/3/3/22959816/sabre-cuts-ties-aeroflot-russian-invasion-ukraine'> Source <a/>
