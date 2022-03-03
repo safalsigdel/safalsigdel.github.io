@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z1ZUGicp431TKD3H_4kjIfFj6mM=/0x0:2040x1360/1200x800/filters:focal(913x702:1239x1028)/cdn.vox-cdn.com/uploads/chorus_image/image/70574289/akrales_190903_3635_0013.0.jpg' width='700px' /><br/>
+For a lot of people, music is an integral part of working out. But not everyone wants to schlep their phone around while hitting the trails or working up a sweat. That's where smartwatches can come in pretty handy. While nearly every smartwatch lets you control music on your phone, a good number can also play music on-device.
+<a href='https://www.theverge.com/22959795/music-smartwatch-apple-samsung-fitbit-garmin-wear-os'> Source <a/>
