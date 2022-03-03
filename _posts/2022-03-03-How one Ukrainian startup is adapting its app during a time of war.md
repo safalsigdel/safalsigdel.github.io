@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3W0hRZ_ID_ZjfEGiapq8Vj4sYhM=/0x0:7848x4816/1200x675/filters:focal(1328x1508:2582x2762)/cdn.vox-cdn.com/uploads/chorus_image/image/70569442/1238871309.0.jpg' width='700px' /><br/>
-Like so many Ukrainians, Dima Shvets was awoken last Thursday by the sound of bombs. At around 5AM local time, Russian troops began shelling key targets in his country, escalating a military assault that had begun eight years ago into a full-fledged invasion. As air raid sirens rang out in cities across Ukraine, Shvets reached out to friends, family, and colleagues to find out what was happening.
-<a href='https://www.theverge.com/2022/3/2/22957920/ukraine-startup-reface-app-adapt-russia-invasion'> Source <a/>
