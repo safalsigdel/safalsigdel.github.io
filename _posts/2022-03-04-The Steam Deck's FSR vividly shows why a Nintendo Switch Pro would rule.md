@@ -1,5 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W8USSEXdNcV7wKKVedcQRIh5l5Q=/0x0:2160x1440/1200x800/filters:focal(908x548:1252x892)/cdn.vox-cdn.com/uploads/chorus_image/image/70574026/switch_oled.0.jpg' width='700px' /><br/>
-The Nintendo Switch turns five years old today — five years without ever addressing the fact some of its biggest games tend to chug and don't look great on a big screen TV.
-<a href='https://www.theverge.com/22959533/steam-deck-fsr-upscaling-nintendo-switch-pro-dlss'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/W8USSEXdNcV7wKKVedcQRIh5l5Q=/0x0:2160x1440/1200x800/filters:focal(908x548:1252x892)/cdn.vox-cdn.com/uploads/chorus_image/image/70574026/switch_oled.0.jpg' width='700px' /><br/>
-The Nintendo Switch turns five years old today — five years without ever addressing the fact some of its biggest games tend to chug and don't look great on a big screen TV.
-<a href='https://www.theverge.com/22959533/steam-deck-fsr-upscaling-nintendo-switch-pro-dlss'> Source <a/>

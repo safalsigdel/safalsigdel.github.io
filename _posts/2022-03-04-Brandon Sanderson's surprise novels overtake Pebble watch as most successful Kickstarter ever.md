@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4fOYQC45iePPiPkUY4Ex-iJnJnk=/0x0:680x383/1200x800/filters:focal(286x138:394x246)/cdn.vox-cdn.com/uploads/chorus_image/image/70577716/a3e890c642960d634867aa7c88b10ddf_original.0.jpeg' width='700px' /><br/>
+Prolific fantasy author Brandon Sanderson has just broken the Kickstarter record for the most successful crowdfunded project of all time, cracking the $20,338,986 milestone set by the Pebble Time all the way back in 2015.
+<a href='https://www.theverge.com/2022/3/4/22960365/brandon-sanderson-fantasy-novels-kickstarter-cosmere'> Source <a/>

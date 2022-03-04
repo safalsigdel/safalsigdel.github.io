@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/UdjB0heVrGz1Qc4s8vTUnysI07I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70574462/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
 A small group of US Twitter users will now see crowdsourced notes under tweets flagged as misleading. The user-generated notes are part of a program called Birdwatch, launched in 2021 by Twitter to address misinformation on the platform.
-<a href='https://www.theverge.com/2022/3/3/22959888/twitter-birdwatch-crowdsourcing-fact-checking'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/UdjB0heVrGz1Qc4s8vTUnysI07I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70574462/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-A small group of US Twitter users will now see crowdsourced notes under tweets flagged as misleading. The user-generated notes are part of a program called Birdwatch, launched in 2021 by Twitter to address misinformation on the platform.
 <a href='https://www.theverge.com/2022/3/3/22959888/twitter-birdwatch-crowdsourcing-fact-checking'> Source <a/>

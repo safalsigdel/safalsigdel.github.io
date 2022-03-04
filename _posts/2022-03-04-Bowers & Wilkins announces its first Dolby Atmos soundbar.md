@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/1nVqyrcYtkU5NYx0Vc-2NdO0ZtA=/0x0:2034x1273/1200x800/filters:focal(805x714:1129x1038)/cdn.vox-cdn.com/uploads/chorus_image/image/70574592/BW1.0.jpg' width='700px' /><br/>
 Bowers & Wilkins is today announcing its first Dolby Atmos soundbar. The Panorama 3 is the company's answer to the Sonos Arc and other high-end Atmos speakers — and it's priced accordingly at $999.
-<a href='https://www.theverge.com/2022/3/3/22957586/bowers-wilkins-panorama-3-dolby-atmos-soundbar-announced'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/1nVqyrcYtkU5NYx0Vc-2NdO0ZtA=/0x0:2034x1273/1200x800/filters:focal(805x714:1129x1038)/cdn.vox-cdn.com/uploads/chorus_image/image/70574592/BW1.0.jpg' width='700px' /><br/>
-Bowers & Wilkins is today announcing its first Dolby Atmos soundbar. The Panorama 3 is the company's answer to the Sonos Arc and other high-end Atmos speakers — and it's priced accordingly at $999.
 <a href='https://www.theverge.com/2022/3/3/22957586/bowers-wilkins-panorama-3-dolby-atmos-soundbar-announced'> Source <a/>
