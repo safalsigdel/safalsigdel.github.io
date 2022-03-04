@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lBw8tDBX73t4ekY5P4HMapiFJK0=/0x0:5000x3151/1200x800/filters:focal(2100x1176:2900x1976)/cdn.vox-cdn.com/uploads/chorus_image/image/70577792/1237793043.0.jpg' width='700px' /><br/>
+The BBC is resorting to broadcasting news bulletins over shortwave radio in Russia after the country blocked access to BBC websites, The Guardian reports. The BBC announced it was bringing back the WWII-era broadcasting technology in the region just hours before its sites were banned. News of the ban was also reported by Russian state news agency RIA.
+<a href='https://www.theverge.com/2022/3/4/22961286/bbc-news-blocked-in-russia-ukraine-invasion-shortwave-radio'> Source <a/>
