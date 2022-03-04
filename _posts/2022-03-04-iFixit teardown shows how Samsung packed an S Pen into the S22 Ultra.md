@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Wx2w6aJqKkTby1N0UF48DS_JtcU=/0x0:3000x2000/1200x0/filters:focal(0x0:3000x2000):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23287725/Galaxy_S22_Ultra_internals_blog_1365x2048.jpg' width='700px' /><br/>
+The release of Samsung's latest flagship smartphone means we've got another excellent iFixit teardown to enjoy, which offers a great look at the insides of the Galaxy S22 and S22 Ultra.
+<a href='https://www.theverge.com/2022/3/4/22961325/ifixit-galaxy-s22-ultra-teardown-repairability-s-pen-stylus'> Source <a/>
