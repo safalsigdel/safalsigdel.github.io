@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/0M3kt7I1mnC-1MUcXT7JDvkHXys=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70575413/akrales210108_4344_0020.0.jpg' width='700px' /><br/>
 Coming off a fraught month, Peloton is now extending free at-home trials for its Bike, Bike Plus, and Tread from 30 to 100 days.
+<a href='https://www.theverge.com/2022/3/3/22960205/peloton-free-trial-bike-treadmill-fitness'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/0M3kt7I1mnC-1MUcXT7JDvkHXys=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70575413/akrales210108_4344_0020.0.jpg' width='700px' /><br/>
+Coming off a fraught month, Peloton is now extending free at-home trials for its Bike, Bike Plus, and Tread from 30 to 100 days.
 <a href='https://www.theverge.com/2022/3/3/22960205/peloton-free-trial-bike-treadmill-fitness'> Source <a/>
