@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kzqMXIGin1uQZ1Q0xVE_yTorNxI=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70571688/1372469137.0.jpg' width='700px' /><br/>
-HBO Max is adding more sports coverage to its programming slate. Turner Sports, an arm of WarnerMedia, has reached a deal with the US Soccer Federation to air matches exclusively on TNT, TBS, and HBO Max.
-<a href='https://www.theverge.com/2022/3/2/22958781/hbo-max-us-soccer-federation-deal'> Source <a/>

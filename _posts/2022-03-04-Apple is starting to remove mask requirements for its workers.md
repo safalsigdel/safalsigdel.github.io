@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6cdzXXVf99i5WQUb8pQng5pm_D4=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/70576378/1236193308.0.jpg' width='700px' /><br/>
+Apple is beginning to change its mask requirements for employees, according to Bloomberg. Vaccinated corporate staffers will not have to wear a mask at offices where “local indoor-mask mandates have been eliminated,” while masks will be optional for retail workers at “a small number of locations” beginning Friday, the publication says.
+<a href='https://www.theverge.com/2022/3/3/22960610/apple-remove-mask-requirements-corporate-retail-workers'> Source <a/>

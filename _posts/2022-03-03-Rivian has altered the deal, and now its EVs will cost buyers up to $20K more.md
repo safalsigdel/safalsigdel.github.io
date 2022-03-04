@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SIbNYPnl0ULYCYAOmsASMUFKM1k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70571872/mclark_210923_4776_0010.0.jpg' width='700px' /><br/>
-Update March 3rd, 10:23AM ET: On March 3rd Rivian apologized for the price increase. In a letter released via Businesswire, President RJ Scaringe said the pricing increase “broke the trust” Rivian had worked to build with customers. He said the company would honor all original prices for vehicles pre-ordered before March 1st. Our original story is below.
-<a href='https://www.theverge.com/2022/3/2/22958066/rivian-price-increase-r1t-r1s-for-new-and-existing-reservations'> Source <a/>

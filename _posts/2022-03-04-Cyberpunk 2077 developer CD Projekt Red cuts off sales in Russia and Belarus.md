@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ey3MP41X0gjJm8JnZ4WCtQ8x-Fc=/0x0:1710x1077/1200x800/filters:focal(719x403:991x675)/cdn.vox-cdn.com/uploads/chorus_image/image/70574868/Cyberpunk2077_Catching_a_break_RGB_en.0.jpeg' width='700px' /><br/>
+CD Projekt Red, the Poland-based developer of popular games like Cyberpunk 2077 and the operator of the GOG store, is cutting off sales of its products to Russia and Belarus.
+<a href='https://www.theverge.com/2022/3/3/22959975/cd-projekt-red-gog-cuts-off-sales-russia-belarus-mykhailo-fedorov'> Source <a/>

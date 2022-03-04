@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1YqpF28C_USTGdN-aNnRigwRjgw=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/70572065/wordle.0.png' width='700px' /><br/>
-The Wordle clones are back on the App Store, just a few weeks after Apple wiped out nearly all the copycat games in January.
-<a href='https://www.theverge.com/2022/3/2/22958907/wordle-rip-offs-app-store-apple-new-york-times-word-game-moderation'> Source <a/>

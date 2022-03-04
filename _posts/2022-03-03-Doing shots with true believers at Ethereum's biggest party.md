@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/AQ4Mi1DUMGx2DwIVdBP2X3ElFFE=/0x0:4000x2666/1200x675/filters:focal(1680x1013:2320x1653)/cdn.vox-cdn.com/uploads/chorus_image/image/70573480/1238634671.0.jpg' width='700px' /><br/>
-I knew I was in the right place when l saw a flier taped to a streetlamp advertising the “world's first NFT bong.”
-<a href='https://www.theverge.com/2022/3/3/22958406/ethereum-ethdenver-crypto-vitalik-buterin-parties'> Source <a/>

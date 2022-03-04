@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/6B6rs9BRaYMAS-6DAPnGHcEElWg=/0x0:1712x1080/1200x800/filters:focal(720x404:992x676)/cdn.vox-cdn.com/uploads/chorus_image/image/70575050/Screen_Shot_2022_03_03_at_12.49.13_PM.0.png' width='700px' /><br/>
+One of my biggest computer pet peeves is copying and pasting text. Not the actual mechanism of getting words from one document to another, but the way that modern computers insist on trying to be overly helpful and copying not just the text I want, but all the formatting that comes with it, mucking up my emails and my documents.
+<a href='https://www.theverge.com/2022/3/3/22959920/pure-paste-menubar-app-macos-useless-copy-formatted-text'> Source <a/>
