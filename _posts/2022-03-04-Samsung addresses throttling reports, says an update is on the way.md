@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mjUAI90uglTTqCIaQUc4PjiwU-Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70578287/cwelch_220204_5008_0018.0.jpg' width='700px' /><br/>
+Samsung has addressed reports that it is throttling the performance of thousands of popular apps, saying a software update will return control to users.
+<a href='https://www.theverge.com/2022/3/4/22961273/samsung-game-optimizing-service-throttling-s22-devices-update-disable'> Source <a/>
