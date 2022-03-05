@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XI5FTGJkehkxQyaK9MJbed6XnS0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70580429/acastro_190530_1777_nintendo_0002.0.0.jpg' width='700px' /><br/>
+Nintendo has temporarily put its Russian eShop into maintenance mode, the company said in a notice on its Russian website, which appears to mean that players in the country can't buy digital games from the store.
+<a href='https://www.theverge.com/2022/3/4/22961869/nintendo-eshop-russia-maintenance-mode'> Source <a/>

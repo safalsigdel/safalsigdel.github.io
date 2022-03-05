@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/IjjSaxUNNhqogcCcx80y3fT0hsk=/0x0:2366x1418/1200x800/filters:focal(1011x584:1389x962)/cdn.vox-cdn.com/uploads/chorus_image/image/70581707/Screen_Shot_2022_03_04_at_16.39.02.0.png' width='700px' /><br/>
+Snap has announced that it's temporarily turning off Snapchat's “heatmap” feature for Ukraine, making it so the app no longer shows how many snaps are being taken in particular locations. The company says that the move is “a safety precaution” and that there will still be a curated public feed of snaps submitted by Ukrainians.
+<a href='https://www.theverge.com/2022/3/4/22962384/snapchat-heatmap-ukraine-disabled-privacy-advertising'> Source <a/>

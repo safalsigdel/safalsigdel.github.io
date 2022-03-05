@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tEJHTtlzj2FINNL0PPVB5lMFrjw=/0x0:2000x1334/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/70581322/NVIDIA_Endeavor_building_logo.0.jpg' width='700px' /><br/>
+Nvidia never denied that it got hacked. The GPU giant just didn't say all that much about what happened, either.
+<a href='https://www.theverge.com/2022/3/4/22962217/nvidia-hack-lapsus-have-i-been-pwned-email-breach-password'> Source <a/>

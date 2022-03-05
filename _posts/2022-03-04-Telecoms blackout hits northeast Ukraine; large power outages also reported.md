@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qEiEVH1gFacR28aKN5YMZiD3-yE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70575780/VRG_Illo_STK010_K_Radtke_Ukraine_Glitch.0.jpg' width='700px' /><br/>
-A telecoms blackout has reportedly hit Sumy Oblast in northeastern Ukraine, marking one of the most serious communications disruptions of the conflict so far.
-<a href='https://www.theverge.com/2022/3/3/22960374/telecoms-blackout-northeast-ukraine-power-outage-sumy'> Source <a/>

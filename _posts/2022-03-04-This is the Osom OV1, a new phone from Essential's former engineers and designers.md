@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2zPByS-HwTduZPiCza0FHNTtauE=/0x0:1440x960/1200x800/filters:focal(380x454:610x684)/cdn.vox-cdn.com/uploads/chorus_image/image/70575861/Spec_reveal_2.0.jpeg' width='700px' /><br/>
-Osom, the company formed by Essential's employees after the startup went under, has released new details about its upcoming OV1 phone, including a very familiar list of build materials. Meant to compete with flagships from Apple, Google, and Samsung, the OV1 will have a stainless steel and titanium housing, a ceramic back, Corning Victus cover glass, and a Qualcomm processor.
-<a href='https://www.theverge.com/2022/3/3/22960151/osom-ov1-soc-titanium-steel-ceramic-design-essential-phone'> Source <a/>

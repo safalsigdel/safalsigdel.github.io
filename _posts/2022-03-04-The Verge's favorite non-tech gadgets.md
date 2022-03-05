@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/cjzMmjneS5SKHVFZlQYOcvetOIY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70578471/VRG_Illo_5062_K_Radtke_Fav_Non_Tech_Gadgets.0.jpg' width='700px' /><br/>
-Let's admit it — most, if not all, of the people who work here at The Verge are gadget enthusiasts. But while most of those gadgets come under the heading of tech — headphones, smartphones, laptops, speakers, and all the other electronic gear that we love to play with — there are also some really interesting, fun, and useful gadgets out there that we don't usually think of as tech, per se.
-<a href='https://www.theverge.com/22958216/kitchen-tools-personal-gear-gadgets-favorites'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/73ApBTxCRjYEuuMqxSg3mbWi574=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70579338/acstro_190902_apple_event_0005.0.0.jpg' width='700px' /><br/>
+Apple will begin phasing in its planned hybrid work pilot on April 11th, bringing employees back to the office one day a week to start, according to an email from CEO Tim Cook to Apple employees, which was seen by The Verge. Apple originally announced its plans for a hybrid work pilot in November.
+<a href='https://www.theverge.com/2022/3/4/22961592/apple-april-11-return-office-corporate-pandemic-tim-cook'> Source <a/>

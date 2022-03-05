@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z1PdBQ_60bcpTLv3TTWBXI36yMs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70578704/acastro_180507_1777_microsoft_0003.0.jpg' width='700px' /><br/>
-In a blog post published Friday morning, Microsoft president Brad Smith confirmed the company “will suspend all new sales of Microsoft products and services in Russia.”
-<a href='https://www.theverge.com/2022/3/4/22961445/microsoft-russia-ukraine-sales-ban-xbox-azure-windows-office'> Source <a/>

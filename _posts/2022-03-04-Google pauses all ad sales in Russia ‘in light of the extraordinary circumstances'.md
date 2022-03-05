@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/s5CIzgmNeYdz7uuJW-MLz2dC_Nc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70577954/acastro_180508_1777_google_IO_0003.0.jpg' width='700px' /><br/>
-Google has paused all ad sales in Russia in response to the ongoing crisis in Ukraine.
-<a href='https://www.theverge.com/2022/3/4/22961302/google-pauses-all-ad-sales-russia-search-youtube'> Source <a/>

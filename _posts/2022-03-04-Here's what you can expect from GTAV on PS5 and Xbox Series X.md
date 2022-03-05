@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GdLB10li9cQJNMYmtPth5izx4sU=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70578733/Grand_Theft_Auto_V___3_4_2022___Image_2.0.jpg' width='700px' /><br/>
-The PS5 and Xbox Series X / S versions of Grand Theft Auto V will launch on Tuesday, March 15th, as will a separate version of GTA Online that — for the first time — won't require the base game to play.
-<a href='https://www.theverge.com/2022/3/4/22960309/grand-theft-auto-5-ps5-xbox-series-x-s-update-graphics-online'> Source <a/>

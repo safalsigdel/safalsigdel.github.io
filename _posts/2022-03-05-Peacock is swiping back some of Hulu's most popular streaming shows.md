@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4DDS_VN4yQCMWoWjxeakH9SCfDE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70580696/acastro_200714_1777_peacock_0001.0.jpg' width='700px' /><br/>
+Some of the most popular programming on Hulu will now head to Peacock. A contract between the streaming services' parent companies Disney and Comcast to stream NBCUniversal shows to Hulu has been terminated.
+<a href='https://www.theverge.com/2022/3/4/22929440/peacock-hulu-snl-streaming-disney-comcast'> Source <a/>
