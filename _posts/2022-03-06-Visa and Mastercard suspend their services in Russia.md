@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vJqhSGmeVAF-rIyIjbLTHDRtJmg=/0x0:3660x2440/1200x800/filters:focal(1538x928:2122x1512)/cdn.vox-cdn.com/uploads/chorus_image/image/70584426/1192224352.0.jpg' width='700px' /><br/>
+Visa and Mastercard are suspending operations in Russia in another major blow to the country's financial system, according to a report from the Associated Press.
+<a href='https://www.theverge.com/2022/3/5/22963433/visa-mastercard-suspend-services-russia-ukraine'> Source <a/>

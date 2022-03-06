@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/i0cL2xj8YaQ1uQpbUThc7s94gkQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70579893/akrales_211027_4820_0151.0.jpg' width='700px' /><br/>
-Gadgets are getting too thin, again.
-<a href='https://www.theverge.com/22960574/tech-thinness-battery-life-cooling-durability-galaxy-s22-xps-15-iphone-13-end'> Source <a/>

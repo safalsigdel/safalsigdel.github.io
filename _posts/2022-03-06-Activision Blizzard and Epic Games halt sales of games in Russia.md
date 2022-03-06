@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/45ohkEfBRwVEAd41d_H2-RenPwA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70584078/acastro_210729_1777_blizzard_0002.0.jpg' width='700px' /><br/>
+Activision Blizzard is suspending new sales “of and in” its games in Russia, the game company's president Daniel Alegre announced in a publicly-shared letter to employees (via Eurogamer). The move bars Russians from any new transactions with the company, which includes both the sales of its games and in-game purchases.
+<a href='https://www.theverge.com/2022/3/5/22963195/activision-blizzard-halts-new-game-sales-russia-ukraine-invasion'> Source <a/>

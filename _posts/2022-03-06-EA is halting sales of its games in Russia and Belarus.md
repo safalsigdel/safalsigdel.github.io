@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3AGs96xv6eFNM0XvXqO9W5R8tD8=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/70579564/1237483585.0.jpg' width='700px' /><br/>
-EA is halting sales of its games and content in Russia and Belarus in response to the invasion of Ukraine, the publisher announced Friday. On Wednesday, the company said that it was removing Russian teams from its FIFA and NHL games, but Friday's actions go a significant step further.
-<a href='https://www.theverge.com/2022/3/4/22961673/ea-halting-sales-games-content-currency-russia-belarus'> Source <a/>
