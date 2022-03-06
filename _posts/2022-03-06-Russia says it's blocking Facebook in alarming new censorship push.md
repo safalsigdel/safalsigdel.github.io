@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FOHuLIAhcGha2zmzE3uP4bety30=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70579897/acastro_171002_1777_0002_v9.6.jpg' width='700px' /><br/>
-Russia's communications agency Roskomnadzor announced Friday that it is blocking access to Facebook in Russia. It cited 26 cases of “discrimination against Russian media and information resources by Facebook” since October 2020, in addition to the more-recent restrictions Facebook has placed on Russian state media outlets.
-<a href='https://www.theverge.com/2022/3/4/22960739/russia-internet-block-facebook-meta-roskomnadzor-ukraine'> Source <a/>
