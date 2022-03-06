@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y1HWVes_X8g30zff3naq2dHKvIk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70585531/acastro_180321_1777_youtube_0002.0.jpg' width='700px' /><br/>
+YouTube is reportedly offering money to podcasters in a bid to get them to create video versions of their shows, according to a report from Bloomberg. People close to the situation told Bloomberg that YouTube is offering individual shows $50,000 and up to $300,000 for podcast networks, potentially to fund filmed episodes and other video-based content.
+<a href='https://www.theverge.com/2022/3/6/22963320/youtube-reportedly-paying-podcasters-create-video-versions-shows'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-Dtj49WSBf446NX10AkKWdN_J-I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70579928/akrales_220228_5027_0124.0.jpg' width='700px' /><br/>
-The thing nobody tells you about working as a professional laptop reviewer is that everyone in your life who you are even somewhat acquainted with will, at some point, ask you what laptop they should buy.
-<a href='https://www.theverge.com/22960434/laptop-buying-guide-how-to-price-specs-screen-ports'> Source <a/>
