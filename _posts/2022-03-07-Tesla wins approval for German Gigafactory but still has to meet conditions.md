@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G40whamlR5VeVBAr-9NXGKcukHA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70581314/acastro_180430_1777_tesla_0004.0.jpg' width='700px' /><br/>
-Tesla's Gigafactory in Germany won approval from local officials on Friday, but the company still has to meet several requirements before the plant can begin production of vehicles, Reuters reported, including concerns about the plant's water use.
-<a href='https://www.theverge.com/2022/3/4/22962131/tesla-wins-approval-germany-gigafactory-conditions-environment'> Source <a/>

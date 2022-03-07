@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GhsmccIZet_WKoB7NG5GeNZCEeY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70587996/ajohnson_220216_5032_0004.0.jpg' width='700px' /><br/>
+Hackers have successfully stolen internal company data and source code for Galaxy devices from Samsung, the South Korean tech giant confirmed today.
+<a href='https://www.theverge.com/2022/3/7/22965220/samsung-hack-lapsus-galaxy-source-code-confirmed-nvidia'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ri46sYU--h1ZNpf2fKmjnPPnux8=/0x0:900x600/1200x800/filters:focal(378x228:522x372)/cdn.vox-cdn.com/uploads/chorus_image/image/70588032/Screen_Shot_2022_03_07_at_10.58.37_AM.0.jpg' width='700px' /><br/>
+Nintendo has updated its Switch Online mobile apps for iOS and Android to version 2.0, which brings a tweaked design as well as some minor quality-of-life improvements. The app launched shortly after the Nintendo Switch in 2017. It's designed to work in tandem with the console, offering features like online voice chat that aren't available on the Switch itself.
+<a href='https://www.theverge.com/2022/3/7/22965222/nintendo-switch-online-app-ios-android-version-2-update-friend-code-friend-status'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z0dUHuB5a2Y608cA7W0cjU706CM=/0x0:5820x3176/1200x800/filters:focal(2445x1123:3375x2053)/cdn.vox-cdn.com/uploads/chorus_image/image/70580753/Yandex_Self_driving_Sonata_Ann_Arbor_30.0.png' width='700px' /><br/>
-Russian technology company Yandex said that it was “pausing” its autonomous vehicle and sidewalk robot testing in the US. The news was first reported by Automotive News.
-<a href='https://www.theverge.com/2022/3/4/22962016/yandex-autonomous-vehicle-pause-ann-arbor-russia'> Source <a/>

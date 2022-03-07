@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5xT0B3IXtLa2HLPLLPl729cUc80=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70581557/ajohnson_220216_5033_0010.0.jpg' width='700px' /><br/>
-Samsung is suspending shipments of all of its products to Russia, the company announced Friday. “Due to the current geopolitical developments, shipments to Russia have been suspended,” reads a statement from an unnamed Samsung representative, via Samsung's generic PR email address. “We continue to actively monitor this complex situation to determine our next steps.”
-<a href='https://www.theverge.com/2022/3/4/22962282/samsung-suspending-shipments-russia-smartphones-chips'> Source <a/>

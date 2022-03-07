@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Sx5GVpA03BoXvku-eC5cA1PaB_k=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70580972/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
-Voting is open for workers for a Google Fiber subcontractor in Missouri, who are deciding whether to unionize as part of the Alphabet Workers Union (AWU), a division of the Communication Workers of America. If successful, the 12 workers, who are employed by staffing agency BDS Connected Solutions as workers at Google Fiber stores, would be the AWU's first bargaining unit to be recognized by the National Labor Relations Board (NLRB).
-<a href='https://www.theverge.com/2022/3/4/22961704/google-fiber-workers-contractors-union-bds'> Source <a/>

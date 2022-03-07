@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/1yNwO1dvg7xCevATyoSxFZAEFxI=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/70589272/Apple_TV_Plus_on_Xfinity_1.0.jpg' width='700px' /><br/>
+Last fall, Comcast announced Apple's streaming TV network would appear on its X1 platform along with Netflix, Amazon, Disney Plus, Hulu, Spotify, and all the other services it already offers, and now the day is here. According to a press release, the Apple TV Plus rollout on Xfinity X1, Xfinity Flex, and XClass TV starts today and should appear on eligible devices “in the coming days.”
+<a href='https://www.theverge.com/2022/3/7/22965523/xfinity-comcast-x1-apple-tv-plus-streaming-xclass-tv-app'> Source <a/>
