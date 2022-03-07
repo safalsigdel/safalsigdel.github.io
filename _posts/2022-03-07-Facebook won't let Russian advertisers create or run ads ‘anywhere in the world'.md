@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KWesHwvtODqQTREZEbmcBR3obkM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70581674/acasto_180123_1777_0003_v8.0.jpg' width='700px' /><br/>
-Facebook is cutting off ads in Russia. It's pausing ads that target people in the country and is no longer letting advertisers in Russia “create or run ads anywhere in the world, including within Russia,” the company announced on Friday. The moves mark a big escalation of its actions against the country and could help prevent Russian misinformation tied to its invasion of Ukraine from appearing in Facebook ads.
-<a href='https://www.theverge.com/2022/3/4/22962380/facebook-russian-advertisers-create-make-run-ads-world'> Source <a/>
