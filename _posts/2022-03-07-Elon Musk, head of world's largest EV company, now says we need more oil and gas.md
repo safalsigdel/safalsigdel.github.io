@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jBEIn0cEmmr_nTRRgOoRzE01gGw=/0x0:2040x1360/1200x800/filters:focal(913x427:1239x753)/cdn.vox-cdn.com/uploads/chorus_image/image/70581664/elon_musk_tesla_3036.0.jpg' width='700px' /><br/>
-Elon Musk — the man whose Tesla and Tesla Solar have basically devoted their existence to competing with gas-guzzling cars, oil, and coal, and which briefly reached a market cap of $1 trillion and delivered nearly 1 million EVs last year — is now publicly in favor of increasing oil and gas production.
-<a href='https://www.theverge.com/2022/3/4/22962398/elon-musk-tesla-says-more-oil-gas-needed'> Source <a/>
