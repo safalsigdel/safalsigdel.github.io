@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GmUs6e22f_C1Ig7ouwLX79nmrK8=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70586719/HaloInfinite_Campaign04_3840x2160_WM.0.png' width='700px' /><br/>
+Halo Infinite's second season won't ship with online campaign co-op when it launches on May 3rd, 343 Industries announced. It's set to launch “later” during season two, with no word on an exact release date.
+<a href='https://www.theverge.com/2022/3/6/22964321/halo-infinite-campaign-co-op-season-two-may'> Source <a/>

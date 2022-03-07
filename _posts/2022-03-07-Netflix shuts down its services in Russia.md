@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pvpwmASJee-4ZRkQQVKLKBATxBM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70586703/acastro_181101_1777_netflix_0002.0.jpg' width='700px' /><br/>
+Netflix is suspending its services in Russia over the country's invasion of Ukraine, as first reported by Variety.
+<a href='https://www.theverge.com/2022/3/6/22964565/netflix-shuts-down-services-russia-ukraine-invasion'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/gr6gL-gnwp29xQg6cSDpvXvMnf8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70586376/acastro_190723_1777_tiktok_0002.0.0.jpg' width='700px' /><br/>
+TikTok is suspending new video uploads and livestreams on its app in Russia, citing the country's newly-passed “fake news” law as the reason for the change.
+<a href='https://www.theverge.com/2022/3/6/22964418/tiktok-suspends-creation-new-video-content-russia-ukraine'> Source <a/>
