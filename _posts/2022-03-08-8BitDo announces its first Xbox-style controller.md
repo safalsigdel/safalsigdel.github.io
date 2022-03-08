@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/okkf9i39NTewnmQjruoo64RgXM0=/0x0:2560x1708/1200x800/filters:focal(1076x650:1484x1058)/cdn.vox-cdn.com/uploads/chorus_image/image/70594052/rVnPKr3g.0.jpeg' width='700px' /><br/>
+8BitDo has announced its first controller with an Xbox-style layout. There's already an Xbox-specific version of 8BitDo's excellent Pro 2 controller, but that has the symmetrical stick layout more commonly associated with PlayStation consoles. The “Ultimate Wired Controller for Xbox,” on the other hand, is more in line with Microsoft's official options.
+<a href='https://www.theverge.com/2022/3/8/22966831/8bitdo-ultimate-wired-controller-for-xbox-announced-price-release-date'> Source <a/>
