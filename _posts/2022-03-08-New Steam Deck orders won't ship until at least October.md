@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zm5k9_C6cyMUkOC1To15Q3oYZBY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70590242/vpavic_220210_5030_0096.0.jpg' width='700px' /><br/>
-If you're interested in a Steam Deck but haven't reserved one yet, you might want to make a reservation sometime soon. Valve has updated the Steam Deck page to show that any reservations placed now won't be able to actually make an order until sometime “after Q3 2022,” which means you shouldn't expect to get one of the handheld gaming PCs of your own until at least October.
-<a href='https://www.theverge.com/2022/3/7/22965793/valve-steam-deck-reservation-q3-order-window-october-countries-expansion'> Source <a/>

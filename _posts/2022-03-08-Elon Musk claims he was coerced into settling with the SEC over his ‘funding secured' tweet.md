@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vaq4I7LLcond3cged11Vh-5DKHc=/0x0:6048x4024/1200x800/filters:focal(2541x1529:3507x2495)/cdn.vox-cdn.com/uploads/chorus_image/image/70594145/1238367308.0.jpg' width='700px' /><br/>
+Tesla CEO Elon Musk is asking a federal judge to toss a consent decree with the Securities and Exchange Commission that requires his tweets to be approved by a lawyer before he can post them.
+<a href='https://www.theverge.com/2022/3/8/22967122/elon-musk-tesla-sec-tweet-court-subpoena-investigation'> Source <a/>
