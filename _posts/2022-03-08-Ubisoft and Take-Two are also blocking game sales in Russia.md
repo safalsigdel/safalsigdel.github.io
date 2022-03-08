@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/wtFAgX7Ho7aWqprsyw5hxZXlFrw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70590326/acastro_190528_1777_ubisoft_0001.0.0.jpg' width='700px' /><br/>
 Ubisoft and Take-Two Interactive are suspending game sales in Russia in light of its invasion of Ukraine, joining a growing list of companies that have decided to cut ties with the country (via Engadget).
+<a href='https://www.theverge.com/2022/3/7/22965890/ubisoft-take-two-blocking-game-sales-russia-ukraine-invasion'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/wtFAgX7Ho7aWqprsyw5hxZXlFrw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70590326/acastro_190528_1777_ubisoft_0001.0.0.jpg' width='700px' /><br/>
+Ubisoft and Take-Two Interactive are suspending game sales in Russia in light of its invasion of Ukraine, joining a growing list of companies that have decided to cut ties with the country (via Engadget).
 <a href='https://www.theverge.com/2022/3/7/22965890/ubisoft-take-two-blocking-game-sales-russia-ukraine-invasion'> Source <a/>
