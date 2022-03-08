@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Pnc0Xs2S5FWg2TID1Mu5zmD6bpM=/0x0:6016x4016/1200x800/filters:focal(2527x1527:3489x2489)/cdn.vox-cdn.com/uploads/chorus_image/image/70592813/910723618.0.jpg' width='700px' /><br/>
+Today's Apple event could see the announcement of an all-new “Mac Studio” as well as a new standalone monitor, possibly called the “Studio Display,” according to a variety of last-minute rumors and tweets from Bloomberg's Mark Gurman.
+<a href='https://www.theverge.com/2022/3/8/22966832/apple-mac-studio-prodisplay-monitor-march-2022-event-iphone-se'> Source <a/>
