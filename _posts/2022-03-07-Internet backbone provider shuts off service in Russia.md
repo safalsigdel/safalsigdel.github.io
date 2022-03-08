@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SxjBcr77OTQoAcGNvtG73tURYyI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70583593/acastro_180608_1777_net_neutrality_0001.0.jpg' width='700px' /><br/>
-Cogent Communications, an internet backbone provider that routes data across intercontinental connections, has cut ties with Russian customers over its invasion of Ukraine, as first reported by The Washington Post. The US-based company is one of the world's largest internet backbone providers and serves customers in 50 countries, including a number of high-profile Russian companies.
-<a href='https://www.theverge.com/2022/3/5/22962822/internet-backbone-provider-cogent-shuts-off-service-russia'> Source <a/>

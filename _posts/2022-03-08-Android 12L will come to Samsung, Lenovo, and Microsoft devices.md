@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YbsOxRO1qZxdBq7fhO8Ox-w6UUg=/0x0:2096x1182/1200x800/filters:focal(881x424:1215x758)/cdn.vox-cdn.com/uploads/chorus_image/image/70589778/0._12L_blog_header.0.png' width='700px' /><br/>
+Samsung, Lenovo, and Microsoft are the first device manufacturers to commit to shipping Android 12L, the new version of Android designed to be better optimized for tablets and foldable devices. Google's VP of engineering for Android, Andrei Popescu, announced the news in a blog post, saying that 12L would ship to devices from the three companies later this year.
+<a href='https://www.theverge.com/2022/3/7/22965155/android-12l-update-release-devices-lenovo-microsoft-samsung-google'> Source <a/>

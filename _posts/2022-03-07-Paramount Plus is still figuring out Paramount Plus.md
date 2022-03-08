@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ShapuGzdL7VlAMHrRMKn7Li0Bqg=/0x0:4100x2929/1200x800/filters:focal(1722x1137:2378x1793)/cdn.vox-cdn.com/uploads/chorus_image/image/70582856/1231635819.0.jpg' width='700px' /><br/>
-Paramount Plus celebrated its first birthday yesterday. During its first year, the service debuted a SpongeBob movie, added original shows like 1883, and occasionally surprised us with exclusives like the second season of Evil, which was originally a CBS exclusive show. Plus, Paramount Plus managed to swipe the highly anticipated live-action Halo series — set to debut this month — from sister service Showtime.
-<a href='https://www.theverge.com/2022/3/5/22962196/paramount-plus-first-year-yellowstone-star-trek-1883-spongebob'> Source <a/>

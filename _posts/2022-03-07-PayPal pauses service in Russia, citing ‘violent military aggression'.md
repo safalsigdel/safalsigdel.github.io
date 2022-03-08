@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/srQ8buar0iNoJozG0WWyjOLEhhg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70583092/acastro_180410_1777_payapl_0002.0.jpg' width='700px' /><br/>
-PayPal is suspending its services in Russia in response to the country's “violent military aggression in Ukraine,” according to a report from Reuters. Ukraine's vice prime minister Mykhailo Fedorov tweeted out a letter from PayPal CEO Dan Schulman, confirming the company's decision to shut down its operations in Russia.
-<a href='https://www.theverge.com/2022/3/5/22962848/paypal-pauses-service-russia-ukraine-invasion'> Source <a/>
