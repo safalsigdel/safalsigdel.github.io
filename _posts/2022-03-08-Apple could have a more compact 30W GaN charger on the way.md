@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/wuocaJE5NvM3EUOtrIJNGuzqEbw=/0x0:800x534/1200x800/filters:focal(336x203:464x331)/cdn.vox-cdn.com/uploads/chorus_image/image/70592947/MY1W2_AV2.0.jpg' width='700px' /><br/>
+Apple could release a new 30W charger this year that uses gallium nitride (GaN) in its construction, according to Apple analyst Ming-Chi Kuo. Gallium nitride is a material that allows chargers to produce less heat, which means they can be smaller while still offering high wattages. Kuo notes that the new charger could have “a new form factor design” which would presumably make it smaller than Apple's current 30W charger.
+<a href='https://www.theverge.com/2022/3/8/22966880/apple-30w-gan-charger-ming-chi-kuo'> Source <a/>
