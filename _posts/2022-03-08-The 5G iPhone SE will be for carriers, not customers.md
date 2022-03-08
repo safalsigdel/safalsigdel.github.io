@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/1g8Rr7NTjkRe18nccMN79YF8o4M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70588801/vpavic_042020_3980_0040.0.jpg' width='700px' /><br/>
-Apple is widely expected to release a new iPhone SE model this week, the company's third — and its quickest update yet for its cheapest line of smartphones.
-<a href='https://www.theverge.com/2022/3/7/22958173/apple-5g-iphone-se-event-carriers-customers'> Source <a/>

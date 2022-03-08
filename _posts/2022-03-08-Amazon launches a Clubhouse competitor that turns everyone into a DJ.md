@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/zG4SAvcCtbb7fdY-JNtmMEuhCQw=/0x0:2440x1372/1200x800/filters:focal(1025x491:1415x881)/cdn.vox-cdn.com/uploads/chorus_image/image/70593391/Amp_Screen1.0.jpg' width='700px' /><br/>
+Amazon is launching its long-rumored Clubhouse competitor today: a new app called Amp that's more about listening to music than sitting around and chatting.
+<a href='https://www.theverge.com/2022/3/8/22966229/amazon-amp-live-audio-radio-dj-clubhouse-competitor-ios-app'> Source <a/>

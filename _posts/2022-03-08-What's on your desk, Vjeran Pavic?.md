@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MtXhFZbt17Z-1YPFz8xeIth0itg=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70593410/vpavic_220228_5057_0010.0.jpg' width='700px' /><br/>
+Video is an important part of The Verge, and Vjeran Pavic is an important part of our video team. His official title is senior video director; for the most part, he's the one behind the lens creating videos and photos for our site. He is also (unofficially) our in-house drone expert. His workspace at home is deceptively simple; we asked him for a tour.
+<a href='https://www.theverge.com/22960514/desk-mac-tech-bloodborne-vjeran-pavic-video-director'> Source <a/>

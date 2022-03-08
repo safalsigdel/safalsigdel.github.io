@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mnjiR0jbouWKAOsnMhE5yTgDD3I=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70593058/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
+Google is buying cybersecurity company Mandiant in an all-cash transaction valued at approximately $5.4 billion.
+<a href='https://www.theverge.com/2022/3/8/22966907/google-buying-mandiant-cybersecurity-outfit-5-4-billion'> Source <a/>

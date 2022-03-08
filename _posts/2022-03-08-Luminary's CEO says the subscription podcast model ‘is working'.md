@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qt8QKieU5EcJ_utgFkyIBaDUGtM=/0x0:2040x1360/1200x800/filters:focal(959x650:1285x976)/cdn.vox-cdn.com/uploads/chorus_image/image/70593611/akrales_190422_3386_0017.0.jpg' width='700px' /><br/>
+Hi again, everyone. With today's issue, I've officially completed my first week as guest writer for Hot Pod. I want to thank everyone who's been emailing me news and responses already — it's made this newsletter a blast to write. Aria will be back for this week's Insiders, but you'll be hearing more from me soon enough. Now, for today's newsxe2x80xa6
+<a href='https://www.theverge.com/2022/3/8/22966998/hot-pod-luminary-ceo-interview-amazon-amp'> Source <a/>

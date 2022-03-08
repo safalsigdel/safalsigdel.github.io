@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/kBG06i6v8P5ItNBGKg8-MQHgzhE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70593802/acastro_170621_1777_0007_v2_0001_2.0.jpg' width='700px' /><br/>
+A technically advanced hacking group backed by the Chinese government has compromised the computer systems of at least six US state governments, according to a newly published threat report from cybersecurity firm Mandiant.
+<a href='https://www.theverge.com/2022/3/8/22966517/china-hack-government-networks-apt41-usaherd'> Source <a/>

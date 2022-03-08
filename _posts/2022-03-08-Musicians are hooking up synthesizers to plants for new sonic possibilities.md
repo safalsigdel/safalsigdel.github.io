@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/a5keHBaLyPJscrv6gpfS0Utw6wM=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70593110/VRG_Illo_5012_DIY_Plant_Music.0.jpg' width='700px' /><br/>
+When Stan Smeets posted a video titled “I made a synthesizer that plays plant-based music using microscopes and sensors” to a synthesizer Reddit group, the users thought it was funny that he had stumbled into a meme. “[There's a] stereotype of synth people loving plants,” one user explained to him.
+<a href='https://www.theverge.com/22922189/plant-music-sythesizers'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3F8BTge9bZTdWwMxn7WFpYKDlTA=/0x0:1198x728/1200x800/filters:focal(504x269:694x459)/cdn.vox-cdn.com/uploads/chorus_image/image/70593011/Screen_Shot_2022_03_02_at_12.03.10_PM.0.jpg' width='700px' /><br/>
+After much anticipation and rumors, Apple officially announced that it is holding its first event of 2022 on Tuesday, March 8th. The presented tagline for the upcoming event is “Peek Performance,” a supposed play on words for a sneak peek. We'll likely get a peek (sorry) at a new iPhone SE with 5G and possibly a new iPad Air or Mac Mini.
+<a href='https://www.theverge.com/2022/3/8/22958407/apple-event-peek-performance-live-stream-watch-how-to-start-time'> Source <a/>

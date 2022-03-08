@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3um17mNvbvLq39lrYPha5qHd6K0=/0x0:2662x1402/1200x800/filters:focal(1119x489:1543x913)/cdn.vox-cdn.com/uploads/chorus_image/image/70588898/Screen_Shot_2022_03_07_at_9.06.17_AM.0.png' width='700px' /><br/>
-Last weekend, I was scrolling through my email, listening to the rain and wondering whether I was feeling too lazy to vacuum the rug, when I came across one with the subject line “Turn on Facebook Protect.”
-<a href='https://www.theverge.com/22965320/facebook-protect-how-to-security'> Source <a/>

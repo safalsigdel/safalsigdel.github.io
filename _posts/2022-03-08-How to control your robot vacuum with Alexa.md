@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/w5624f1fKIYHiXfR-tkOCOd28Mo=/0x0:2048x1536/1200x800/filters:focal(861x605:1187x931)/cdn.vox-cdn.com/uploads/chorus_image/image/70589382/Roomba_j7__Alexa.0.jpg' width='700px' /><br/>
-Connecting your robot vacuum to Amazon's Alexa voice assistant levels up your hands-free cleaning experience. Once set up, you won't need to open an app on your smartphone or push a button on the bot to get the cleaning party started. With a voice assistant on tap, just say a command, and your bot will do.
-<a href='https://www.theverge.com/22961597/robot-vacuum-connect-control-amazon-alexa-assistant-roomba-roborock-how-to'> Source <a/>
