@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5sz9s7vOs_H3wekCf9AHIEfC4PE=/0x0:1960x1400/1200x800/filters:focal(824x544:1136x856)/cdn.vox-cdn.com/uploads/chorus_image/image/70595377/Apple_Studio_Display_5K_Retina_220308.0.jpg' width='700px' /><br/>
-Apple has just announced its new Studio Display, a 27-inch 5K Retina display with a built-in webcam. While it isn't quite as high-end as Apple's Pro Display XDR, the Studio Display has one big advantage over it: for the $1,599 you'll pay for the monitor, you'll also get an included stand.
-<a href='https://www.theverge.com/2022/3/8/22967455/apple-march-event-mac-studio-display-stand-price'> Source <a/>
