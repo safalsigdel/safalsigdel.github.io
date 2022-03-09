@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/tHlBPvrmF0CdXppPkP1ifMUz2Xw=/0x0:2000x2000/1200x800/filters:focal(840x840:1160x1160)/cdn.vox-cdn.com/uploads/chorus_image/image/70595937/MMMP3.0.jpeg' width='700px' /><br/>
-Apple announced a new Mac and monitor at its Peek Performance event, but let's talk about what we were all really hoping for in our heart of hearts: a black version of the Magic Trackpad. Please hold your applause, and let the darkness consume you.
-<a href='https://www.theverge.com/2022/3/8/22967472/apple-black-magic-trackpad-peripherals-mouse-charging'> Source <a/>

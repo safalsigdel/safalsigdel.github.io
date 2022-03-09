@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fH9cu8s1y01DoDR_T_rhW_C2pjI=/0x0:1960x1198/1200x800/filters:focal(824x443:1136x755)/cdn.vox-cdn.com/uploads/chorus_image/image/70598841/Apple_new_iphone_se_black_camera_and_touch_id_04152020.0.jpg' width='700px' /><br/>
+Apple's new iPhone SE was a predictable upgrade in almost every way except one: for the first time in the SE's history, Apple has raised the price of its cheapest iPhone from $399 to $429, a $30 increase.
+<a href='https://www.theverge.com/2022/3/9/22968695/apple-iphone-se-price-increase-5g-tax'> Source <a/>
