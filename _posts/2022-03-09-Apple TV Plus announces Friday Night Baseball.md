@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M4828oe9KRTuETO5OVtT0bXW9t8=/0x0:1632x918/1200x800/filters:focal(686x329:946x589)/cdn.vox-cdn.com/uploads/chorus_image/image/70594905/Apple_introduces_apple_tv_plus_03252019_big.jpg.large_2x.0.jpg' width='700px' /><br/>
+Apple announced today it's bringing weekly baseball games to subscribers of Apple TV Plus.
+<a href='https://www.theverge.com/2022/3/8/22967483/apple-tv-plus-friday-night-baseball'> Source <a/>

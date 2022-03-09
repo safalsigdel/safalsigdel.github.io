@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j35yL3qML6hbAXhx8OR_IwbrcHk=/0x0:1400x927/1200x800/filters:focal(588x352:812x576)/cdn.vox-cdn.com/uploads/chorus_image/image/70596699/Apple_Magic_Mouse_Bad_Design_2.0.0.jpg' width='700px' /><br/>
+Apple launched a new Magic Mouse today, March 8th, 2022. It's a slick-looking black version. It also still has its charging port on the bottom — meaning that six and a half years after its introduction, Apple still seems to think that the best way to charge the mouse is by flipping it over (rendering it useless) and plugging in a Lightning cable.
+<a href='https://www.theverge.com/22967776/apple-magic-mouse-charging-port-bottom-upside-down-its-2022'> Source <a/>

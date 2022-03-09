@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/z9RpvcrJwpJskrtQAqvr7dX-_DU=/0x0:1960x1266/1200x800/filters:focal(824x477:1136x789)/cdn.vox-cdn.com/uploads/chorus_image/image/70594872/Apple_iPhone13_family_lineup_220308.5.jpg' width='700px' /><br/>
+Apple announced at its “Peek Performance” event on Tuesday that the iPhone 13 and 13 Pro will each soon come in a green finish. The iPhone 13 lineup will be available in green, while the Pro phones will come in an “alpine green.” You'll be able to preorder them on Friday, March 11th, and they'll be available on March 18th.
+<a href='https://www.theverge.com/2022/3/8/22959215/apple-iphone-13-mini-new-colors-green-alpine-price-release-date'> Source <a/>

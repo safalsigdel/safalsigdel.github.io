@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/u8KJ6mcx0aeoffFHCWN9Z8-PvuA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70590884/vpavic_211129_4897_0030.0.jpg' width='700px' /><br/>
-Analogue has announced that it'll be shipping out a new wave of Pocket handhelds at the end of March to people who got in early during its December presale. The company tweeted that Group A preorders will start to ship out the last week of March and would all be shipped by the end of the month.
-<a href='https://www.theverge.com/2022/3/7/22966008/analogue-pocket-preorder-groups-late-march-q1'> Source <a/>

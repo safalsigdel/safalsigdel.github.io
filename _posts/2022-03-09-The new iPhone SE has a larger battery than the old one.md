@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ur0COWfCZDtD2KSQVxgAFtyJa4A=/0x0:1960x1102/1200x800/filters:focal(824x395:1136x707)/cdn.vox-cdn.com/uploads/chorus_image/image/70596348/Apple_iPhoneSE_hero_3up_220308.0.jpg' width='700px' /><br/>
+Apple just introduced the third-generation iPhone SE, and it has some nice improvements, including support for sub-6GHz 5G and an A15 processor. But Apple is also claiming it has longer battery life, and it seems that's in part because the phone has a physically larger battery — a fact about the new iPhone SE that the company confirmed on background in a group briefing with reporters.
+<a href='https://www.theverge.com/2022/3/8/22967821/iphone-se-third-generation-larger-battery'> Source <a/>

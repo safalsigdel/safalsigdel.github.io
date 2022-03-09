@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/DKBPMFKN1JXd6nLrQdVVLEwch_c=/0x0:890x589/1200x800/filters:focal(373x268:515x410)/cdn.vox-cdn.com/uploads/chorus_image/image/70594876/02_Share_friction.0.jpg' width='700px' /><br/>
+Instagram has started hiding follower information for private accounts in Russia and Ukraine, the latest response by the social app to the ongoing invasion of Ukraine by Russian troops.
+<a href='https://www.theverge.com/2022/3/8/22967414/instagram-russia-ukraine-followers-private-accounts-hides'> Source <a/>

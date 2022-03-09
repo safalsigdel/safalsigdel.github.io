@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/D4408VhQ1fwgbXhmYXobJIskvNk=/0x0:1920x1080/1200x800/filters:focal(549x496:855x802)/cdn.vox-cdn.com/uploads/chorus_image/image/70591593/gow_screens_review_02.0.jpg' width='700px' /><br/>
-Amazon Prime Video is reportedly in talks with Sony to develop a live-action series based on the God of War games, according to a report from Deadline.
-<a href='https://www.theverge.com/2022/3/7/22966267/sony-god-of-war-amazon-prime-tv-show'> Source <a/>

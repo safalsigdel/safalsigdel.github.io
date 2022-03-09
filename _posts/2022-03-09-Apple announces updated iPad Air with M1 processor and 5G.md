@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YbdeiuBqxrfnct4AP2Y8CbN4FT8=/0x0:2722x1522/1200x800/filters:focal(1144x544:1578x978)/cdn.vox-cdn.com/uploads/chorus_image/image/70594895/Screen_Shot_2022_03_08_at_6.16.14_PM.0.png' width='700px' /><br/>
+Apple has announced an update to the iPad Air a year and a half after it gave the tablet an iPad Pro-style redesign. Much of that redesign is still intact, but the new iPad Air model has been updated with a faster M1 processor, first seen in Apple's Macs. It also supports 5G, and the USB-C port is up to twice as fast with 10Gbps of data transfer speeds.
+<a href='https://www.theverge.com/2022/3/8/22961680/apple-ipad-air-2022-release-date-price-features-specs-m1'> Source <a/>

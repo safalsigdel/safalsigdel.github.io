@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/goD0ICwQKNM-S2bfiqVRYXQA8iQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70595665/DSC01539.0.jpg' width='700px' /><br/>
+Apple has finally discontinued the 27-inch iMac. Minutes after Apple's Peek Performance event wrapped, the last of the Intel iMacs disappeared from its online store.
+<a href='https://www.theverge.com/2022/3/8/22967616/apple-27-inch-imac-studio-desktop'> Source <a/>

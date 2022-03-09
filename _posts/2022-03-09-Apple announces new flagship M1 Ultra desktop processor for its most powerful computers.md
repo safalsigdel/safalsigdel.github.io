@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XJno3rbF4lKpbtaNmXyWZDDHhuk=/0x0:2206x1258/1200x800/filters:focal(927x453:1279x805)/cdn.vox-cdn.com/uploads/chorus_image/image/70594947/Screen_Shot_2022_03_08_at_1.26.07_PM.0.png' width='700px' /><br/>
+The next generation of Apple Silicon chips has arrived with the announcement of the company's new M1 Ultra SoC (system on a chip), the latest entry to Apple's M1 chipset lineup that's even more powerful than the M1, M1 Pro, and M1 Max chips it's released so far.
+<a href='https://www.theverge.com/2022/3/8/22958174/apple-silicon-m1-ultra-chip-soc-processor-cpu-gpu-update'> Source <a/>

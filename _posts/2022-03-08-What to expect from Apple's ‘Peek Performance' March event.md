@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/3hdOrD2V50xZHae3K5CDsbVG2uY=/0x0:1198x728/1200x800/filters:focal(504x269:694x459)/cdn.vox-cdn.com/uploads/chorus_image/image/70585589/Screen_Shot_2022_03_02_at_12.03.10_PM.0.jpg' width='700px' /><br/>
-Apple is poised for its first livestream event of 2022 on Tuesday, March 8th at 1PM ET. The company sent out press invitation emails for the event titled “Peek Performance,” with rumors strongly suggesting Apple will announce a new third-generation iPhone SE with 5G.
-<a href='https://www.theverge.com/2022/3/6/22960325/apple-march-2022-event-iphone-se-peek-performance-rumors-announcements'> Source <a/>

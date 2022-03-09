@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ksy6gw4_7tllv0e6htJp4L_sf4I=/0x0:1872x1382/1200x800/filters:focal(226x493:524x791)/cdn.vox-cdn.com/uploads/chorus_image/image/70593833/gender_pay_gap_bot_twitter.0.png' width='700px' /><br/>
-As just about every large company turns to Twitter to shout out its female workers during International Women's Day (IWD), the clever Gender Pay Gap Bot is quote tweeting their posts with data about the pay disparity between men and women at each organization.
-<a href='https://www.theverge.com/2022/3/8/22966966/twitter-bot-pay-disparity-company-data-international-womens-day'> Source <a/>
