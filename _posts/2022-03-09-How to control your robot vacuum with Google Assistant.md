@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/AGrTI0_rQk8LmGiVMTYXXLYmRTw=/0x0:2048x1555/1200x800/filters:focal(861x615:1187x941)/cdn.vox-cdn.com/uploads/chorus_image/image/70598867/i3_Photo_InSitu_Google.0.jpg' width='700px' /><br/>
+Robot vacuums are great for getting the dirty work done for you (admit it, you never cleaned under the couch before you got one, right?). And while these busy little bots can be set on a schedule in their accompanying smartphone apps, or sent on a run with a push of their button, connecting them to Google Home gives you more ways to command them to do your bidding, including just with your voice.
+<a href='https://www.theverge.com/22968709/robot-vacuum-connect-google-assistant-roomba-roborock-how-to'> Source <a/>
