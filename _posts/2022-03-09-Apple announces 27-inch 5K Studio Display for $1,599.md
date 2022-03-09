@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h0UXpovODbCgWB-HCqRDHkVkk8A=/0x0:1710x944/1200x800/filters:focal(1035x373:1307x645)/cdn.vox-cdn.com/uploads/chorus_image/image/70595039/Screen_Shot_2022_03_08_at_1.45.57_PM.0.png' width='700px' /><br/>
-Apple just announced a new external display during its “Peek Performance” event. The Studio Display is designed to be the ideal companion for the company's Mac lineup — including the brand new Mac Studio desktop powered by the M1 Ultra chip. With a starting price of $1,599, this is Apple's first monitor targeted at prosumers in many years.
-<a href='https://www.theverge.com/2022/3/8/22962052/apple-studio-display-specs-price-release-date'> Source <a/>

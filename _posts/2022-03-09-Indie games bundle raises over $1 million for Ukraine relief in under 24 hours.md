@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/8XOQnQqHObrVQamzdLgRRYhcgew=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70594955/itch.io__1_.0.png' width='700px' /><br/>
-An indie developer-led initiative to raise money for charities providing relief in Ukraine has already raised over $1 million in a little over 16 hours. Over 700 creators on itch.io put together the Bundle for Ukraine, a collection of over 900 indie games and more with all proceeds going to charities providing relief assistance in the country.
-<a href='https://www.theverge.com/2022/3/8/22967069/itch-io-ukraine-bundle-support-charity'> Source <a/>

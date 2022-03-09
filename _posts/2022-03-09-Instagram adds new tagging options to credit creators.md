@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/MIFL96K_MfvHdkJvDA7cUaLGgvE=/0x0:6496x4080/1200x800/filters:focal(2943x1510:3981x2548)/cdn.vox-cdn.com/uploads/chorus_image/image/70595347/download.0.png' width='700px' /><br/>
-Instagram has introduced new tagging options that can display more detail about a person to help credit collaborators. Enhanced tags will show the roles of collaborators — like photographers, artists, writers and others — who work on content but aren't always immediately visible unless mentioned by a post's creator.
-<a href='https://www.theverge.com/2022/3/8/22967484/instagram-enhanced-creator-tags'> Source <a/>

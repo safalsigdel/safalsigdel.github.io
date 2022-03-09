@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/42Law3AAgduoNm0NaCyqIfp3DSs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70598052/acastro_180608_1777_net_neutrality_0003.0.jpg' width='700px' /><br/>
+Lumen, a US firm that provides essential internet services, says it's pulling out of Russia in response to the country's invasion of Ukraine. It's the second major company of its kind to do so in less than a week, following a similar announcement from rival Cogent last Friday, and is the latest example of a ‘digital Iron Curtain' growing between Russia and the West.
+<a href='https://www.theverge.com/2022/3/9/22968634/lumen-internet-backbone-provider-shutting-down-russia-digital-iron-curtain'> Source <a/>

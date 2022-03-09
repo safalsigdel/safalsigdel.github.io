@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ldl60gAOuD5gWIqgk8Zhct0wOgc=/0x0:2206x1258/1200x800/filters:focal(927x453:1279x805)/cdn.vox-cdn.com/uploads/chorus_image/image/70598460/Screen_Shot_2022_03_08_at_1.26.07_PM.0.png' width='700px' /><br/>
+Apple's M1 Pro and M1 Max chips were a GPU-shaped warning to Nvidia and AMD last year, and now Apple has cranked up the heat with its new M1 Ultra. Apple claims it will rival Nvidia's giant RTX 3090 graphics card, the fastest GPU on the market right now. But how does Apple think it can beat an RTX 3090? It turns out, last year's M1 Max has some secret sauce inside.
+<a href='https://www.theverge.com/2022/3/9/22968611/apple-m1-ultra-gpu-nvidia-rtx-3090-comparison'> Source <a/>

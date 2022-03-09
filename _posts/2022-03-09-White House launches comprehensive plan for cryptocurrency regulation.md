@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GJ1GnHsJEyaSk6chvixqa3eLE5E=/0x0:3000x2000/1200x800/filters:focal(1075x353:1555x833)/cdn.vox-cdn.com/uploads/chorus_image/image/70598186/51903900838_196359e718_o.0.jpg' width='700px' /><br/>
+President Biden is poised to issue a new comprehensive strategy for the federal government's treatment of cryptocurrency, the White House announced on Wednesday. The White House described the pending executive order as “the first ever, whole-of-government approach to addressing the risks and harnessing the potential benefits of digital assets and their underlying technology.”
+<a href='https://www.theverge.com/2022/3/9/22966006/cryptocurrency-regulation-white-house-biden-treasury-commerce'> Source <a/>

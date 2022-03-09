@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kPlXQWNhT9Fq_PW2RLLgdmILXMw=/0x0:2000x1125/1200x800/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/70594979/lcimg_7c6d2fd7_bef2_47c0_af2d_eda6264d376c.6.jpg' width='700px' /><br/>
-Apple has announced the Mac Studio, a desktop system that looks like the Mac Mini on the outside but packs a lot more power on the inside. The Mac Studio features both Apple's M1 Max chip and a new, even more powerful processor, the M1 Ultra. It looks a bit similar to the Mac Mini, but Apple claims that the new device will be faster than even its top-of-the-line Mac Pro.
-<a href='https://www.theverge.com/2022/3/8/22962081/apple-mac-studio-m1-max-ultra-price-specs-processor-release-date'> Source <a/>
