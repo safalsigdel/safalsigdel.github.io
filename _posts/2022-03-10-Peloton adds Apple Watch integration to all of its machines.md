@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/kj0147fYPIfyGMd5rrLSBLHGCfs=/0x0:1830x1058/1200x800/filters:focal(769x383:1061x675)/cdn.vox-cdn.com/uploads/chorus_image/image/70601488/step4_1830x1058.0.png' width='700px' /><br/>
 Peloton's making it easier for Apple Watch users to close their rings. Today, the company announced a new Apple Watch integration for the original Bike, Bike Plus, and Tread.
+<a href='https://www.theverge.com/2022/3/9/22969632/apple-watch-peloton-fitness-wearables'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/kj0147fYPIfyGMd5rrLSBLHGCfs=/0x0:1830x1058/1200x800/filters:focal(769x383:1061x675)/cdn.vox-cdn.com/uploads/chorus_image/image/70601488/step4_1830x1058.0.png' width='700px' /><br/>
+Peloton's making it easier for Apple Watch users to close their rings. Today, the company announced a new Apple Watch integration for the original Bike, Bike Plus, and Tread.
 <a href='https://www.theverge.com/2022/3/9/22969632/apple-watch-peloton-fitness-wearables'> Source <a/>
