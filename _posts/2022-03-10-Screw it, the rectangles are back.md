@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hujppvgUN6UiqccxA-vdE2JbiBE=/0x0:1960x1306/1200x800/filters:focal(1041x657:1353x969)/cdn.vox-cdn.com/uploads/chorus_image/image/70603988/Apple_Mac_Studio_back_220308.0.jpg' width='700px' /><br/>
+Rejoice, peasants! Your proletarian gadgets may live another year yet!
+<a href='https://www.theverge.com/2022/3/10/22967995/apple-mac-studio-usb-a-ports-display-macbook-pro-imac-2022-connectivity'> Source <a/>
