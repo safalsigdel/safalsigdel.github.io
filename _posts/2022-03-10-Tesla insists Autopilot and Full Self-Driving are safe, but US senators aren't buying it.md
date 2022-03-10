@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/h4Sosb-Uw6N4Hb4LA91_H8-w5j4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70600758/acastro_180524_1777_tesla_0001.0.jpg' width='700px' /><br/>
-Tesla's Autopilot and Full Self-Driving features are safe, the company insists in a letter to two top Senate Democrats. Like, really safe. Safer than human driving. Unfortunately, the senators aren't really buying it.
-<a href='https://www.theverge.com/2022/3/9/22969297/tesla-autopilot-fsd-letter-safety-blumenthal-markey'> Source <a/>
