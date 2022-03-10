@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DZideEVCKiyBmsEZB-QBKWMb788=/0x0:4898x2887/1200x800/filters:focal(2058x1053:2840x1835)/cdn.vox-cdn.com/uploads/chorus_image/image/70600624/1031868478.0.jpg' width='700px' /><br/>
-If Congress' sweeping new spending bill is signed, it would finally provide full funding to some major NASA projects that have been underfunded over the last few years. Notably, NASA's program to develop a new human lunar lander would be fully funded as the president's budget requested, as will a program to develop new commercial space stations in low Earth orbit.
-<a href='https://www.theverge.com/2022/3/9/22968740/nasa-omnibus-spending-bill-human-lunar-lander-space-station'> Source <a/>
