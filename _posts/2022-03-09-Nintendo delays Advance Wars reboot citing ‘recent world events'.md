@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6G0OboQa7GTaxMr-0gU6poWZsiE=/0x0:3179x1790/1200x800/filters:focal(1203x611:1711x1119)/cdn.vox-cdn.com/uploads/chorus_image/image/70598810/Switch_Advance_Wars1_2Re_BootCamp_artwork_12.0.jpg' width='700px' /><br/>
-Citing “recent world events”, Nintendo has announced it will delay the release of Advance Wars 1+2: Re-Boot Camp.
-<a href='https://www.theverge.com/2022/3/9/22968762/nintendo-advance-wars-release-delay-1-2-reboot-camp'> Source <a/>

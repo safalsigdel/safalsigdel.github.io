@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/slv0A14OwnoEoIlceu6RGU9HYKk=/0x0:766x510/1200x800/filters:focal(322x194:444x316)/cdn.vox-cdn.com/uploads/chorus_image/image/70597841/MWP02.0.jpg' width='700px' /><br/>
-Apple is listing a new 3-meter Thunderbolt 4 Pro cable on its store for $159, which is arguably far too much for a cable. But given the scarcity of other Thunderbolt 4 cable options over 2 meters in length, it might be your only option.
-<a href='https://www.theverge.com/2022/3/9/22968576/apple-3m-thunderbolt-4-cable'> Source <a/>

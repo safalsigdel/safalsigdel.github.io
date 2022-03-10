@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/fDooBloerHeK_4bVeg70cKIRqL4=/0x0:1788x1059/1200x800/filters:focal(751x387:1037x673)/cdn.vox-cdn.com/uploads/chorus_image/image/70598748/rtx3090Ti.0.jpg' width='700px' /><br/>
-Nvidia announced its RTX 3090 Ti at CES earlier this year, promising more information by the end of January. Nvidia has since remained silent about pricing or a release date for the RTX 3090 Ti after rumors suggested the card had been delayed due to hardware issues.
-<a href='https://www.theverge.com/2022/3/9/22968811/nvidia-rtx-3090-ti-launch-date-price-availability-rumors'> Source <a/>

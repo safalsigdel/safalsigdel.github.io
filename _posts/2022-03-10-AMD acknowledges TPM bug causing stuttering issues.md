@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3EWbJtbHavuhTEiSzxXI5xfSchk=/0x0:5120x2879/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/70601171/586681_vermeer_03_0014_5K.0.png' width='700px' /><br/>
+AMD has acknowledged a stuttering issue on Ryzen systems caused by its firmware trusted platform module (fTPM), as reported by TechPowerUp (via Windows Central). A permanent fix, which will come as a BIOS update, isn't expected until May.
+<a href='https://www.theverge.com/2022/3/9/22968703/amd-issues-workaround-tpm-bug-windows-10-11-performance-issues-stuttering'> Source <a/>

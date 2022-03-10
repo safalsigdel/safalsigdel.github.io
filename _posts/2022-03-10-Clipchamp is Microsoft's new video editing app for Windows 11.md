@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tOfLWXjVnjOeT9PVvT1NHwbthcc=/0x0:1650x1100/1200x800/filters:focal(693x418:957x682)/cdn.vox-cdn.com/uploads/chorus_image/image/70600277/windows11main.0.jpg' width='700px' /><br/>
+If you've been waiting for Microsoft to resurrect Windows Movie Maker, Clipchamp might be the next best thing. After acquiring Clipchamp last year, Microsoft is now bundling the app into Windows 11. It's a browser-based app that supports trimming, splitting, transitions, and even has a screen recorder feature.
+<a href='https://www.theverge.com/2022/3/9/22969250/clipchamp-windows-11-microsoft-video-editing-app'> Source <a/>

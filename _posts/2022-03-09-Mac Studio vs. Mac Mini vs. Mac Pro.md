@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ewU_GJh2kIutn55Eg14_X_BNT_k=/0x0:2525x1224/1200x800/filters:focal(1061x410:1465x814)/cdn.vox-cdn.com/uploads/chorus_image/image/70596625/Apple_Lineup.0.png' width='700px' /><br/>
-Lining up with many of the last-minute rumors, Apple's Peek Performance event revealed that we'll have a new compact Mac machine to look forward to. As you might expect, the new Mac Studio can be equipped with either the M1 Max or the new M1 Ultra CPU. In addition to a new processor, the Mac Studio boasts an impressive number of connectivity options.
-<a href='https://www.theverge.com/2022/3/8/22967132/apple-mac-studio-vs-mini-pro-comparison-upgrade'> Source <a/>

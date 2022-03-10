@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b59DGZ3dBHysTvXWrIu2CCSvl1g=/0x0:1960x1400/1200x800/filters:focal(824x544:1136x856)/cdn.vox-cdn.com/uploads/chorus_image/image/70599934/Apple_iPad_family_lineup_220308.0.jpg' width='700px' /><br/>
+Apple announced a new iPad Air during its “Peek Performance” event on March 8th. While the design is similar to that of the last-gen Air, Apple did introduce a few iterative changes.
+<a href='https://www.theverge.com/2022/3/9/22967629/apple-ipad-air-2022-pro-mini-specs-comparison'> Source <a/>

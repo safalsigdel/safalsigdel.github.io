@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/51GQ5-y58r5aOx2IRd9jzuSD32k=/0x0:2088x1296/1200x800/filters:focal(877x481:1211x815)/cdn.vox-cdn.com/uploads/chorus_image/image/70598732/Screen_Shot_2022_03_09_at_9.20.02_AM.0.png' width='700px' /><br/>
-Gotham Knights, Warner Bros. Games Montreal's next open-world Batman-themed RPG, has gotten a new release date: October 25th.
-<a href='https://www.theverge.com/2022/3/9/22968777/gotham-knights-batman-spinoff-game-rpg-release-date'> Source <a/>

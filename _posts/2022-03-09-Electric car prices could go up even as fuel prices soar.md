@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/75_R28LXzWoqphEDTPY3t90UK08=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70596845/ahawkins_20210503_4551_0005.0.jpg' width='700px' /><br/>
-As US gas prices hit record highs in the wake of Russia's invasion of Ukraine, it seems like electric vehicles may not be a safe haven for those looking to save money. That's because Russia plays an important part in the production of the nickel that ends up in batteries used by many electric vehicles — a metal that's rocketed up in price even faster than oil.
-<a href='https://www.theverge.com/2022/3/8/22967402/electric-vehicle-prices-nickel-trading-ukraine-russia'> Source <a/>

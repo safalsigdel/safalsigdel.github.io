@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lNJtlgmWFN3Dyn6ErgIsggoVV1E=/0x0:1820x1213/1200x800/filters:focal(765x462:1055x752)/cdn.vox-cdn.com/uploads/chorus_image/image/70595098/acastro_180213_1777_0004.0.jpg' width='700px' /><br/>
-If you can't connect to Spotify or Discord, then no, it's not just you or your internet connection. Both services acknowledged problems on Tuesday afternoon. However, this time, the culprit doesn't appear to be any kind of massive DNS or Amazon Web Services (AWS) problem. Sure, Apple's event servers are still operational, and we haven't lost access to security cameras or robot vacuums, but the coincidence is still unusual.
-<a href='https://www.theverge.com/2022/3/8/22967531/spotify-discord-logout-outage-offline-server-problem'> Source <a/>

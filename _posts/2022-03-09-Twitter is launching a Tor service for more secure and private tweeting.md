@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/bmubAvUv7YQTYwvkNvRuDFdoIKE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70596565/acastro_200207_3900_Tor_0001.0.0.jpg' width='700px' /><br/>
-Twitter is launching a version of its site as a Tor onion service, optimizing it for the privacy-protecting and censorship-evading network. Software engineer Alec Muffett announced the news today on Twitter, describing it as “possibly the most important and long-awaited tweet that I've ever composed.” The Tor network has also been added to Twitter's supported browsers page.
-<a href='https://www.theverge.com/2022/3/8/22967843/twitter-tor-onion-service-version-launch'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/b0bzAj0tG2t6jN66Fq6eYbEMBMI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70601304/vpavic_4278_20201030_0247.0.jpg' width='700px' /><br/>
+Sony Interactive Entertainment, the arm of Sony that manages its popular PlayStation console, is halting all software and hardware shipments in Russia because of the country's invasion of Ukraine.
+<a href='https://www.theverge.com/2022/3/9/22969600/sony-interactive-entertainment-playstation-suspending-hardware-software-shipments-russia-store'> Source <a/>

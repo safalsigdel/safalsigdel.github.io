@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/e0KHo6hYS2aOCp4n6BKOG8z-9aI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70597599/vpavic_4291_20201113_0380.0.0.jpg' width='700px' /><br/>
-TF International Securities analyst Ming-Chi Kuo “strongly believes” that the upcoming MacBook Air redesign will feature an M1 chip, instead of the widely expected “M2” upgrade. Kuo made the comment to 9to5Mac following a tweet where he predicted an “all-new” design for the laptop with more color options and no Mini LED display.
-<a href='https://www.theverge.com/2022/3/9/22968489/m2-macbook-air-redesign-m1-ming-chi-kuo'> Source <a/>

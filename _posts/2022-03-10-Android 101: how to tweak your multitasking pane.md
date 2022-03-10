@@ -1,0 +1,3 @@
+<img src='' width='700px' /><br/>
+As of Android 10, we've been able to choose different ways to access your multitasking pane — that handy flow of thumbnails that lets us view all our active apps, choose which one you want to use, and swipe off any you want to close — and to navigate your home screen. Until then, we mostly navigated Android screens using buttons at the bottom of the screen. Since then, we've been able to either swipe to navigate or opt to continue using those same buttons.
+<a href='https://www.theverge.com/21495830/android-11-multitasking-pane-recent-apps-screenshots-google-how-to'> Source <a/>

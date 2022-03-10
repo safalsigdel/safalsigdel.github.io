@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Rjcn6ZLhM9DRbbNS04sf2j_SqMk=/0x0:4478x2322/1200x800/filters:focal(1881x803:2597x1519)/cdn.vox-cdn.com/uploads/chorus_image/image/70599932/6_Four_Screens.0.png' width='700px' /><br/>
+Loyal Substack readers now have a way to keep all of their subscriptions in a dedicated place: the new Substack reader app. The app is only available on iOS for now; Android users can sign up for a waitlist.
+<a href='https://www.theverge.com/2022/3/9/22968832/substack-reader-app-inbox'> Source <a/>

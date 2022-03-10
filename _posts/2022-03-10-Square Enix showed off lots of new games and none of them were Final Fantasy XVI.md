@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sy0HSerz9A3Hqw7kZK1VgIhtYZo=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70601852/ffxvi.0.jpg' width='700px' /><br/>
+During Sony's March State of Play presentation, Square Enix debuted two new games, showed off gameplay trailers for two more, and completely ignored the two games most people were looking forward to.
+<a href='https://www.theverge.com/2022/3/9/22969466/final-fantasy-square-enix-sony-march-2022-state-of-play'> Source <a/>

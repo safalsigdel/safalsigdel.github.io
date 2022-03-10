@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hlqBKeHHqQr3XmtpdbW9qHmrIjc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70598211/DSCF4331_Edited.0.jpeg' width='700px' /><br/>
-Nothing, the startup lead by OnePlus co-founder Carl Pei, will announce its product roadmap for the year on March 23rd at 9AM ET, the company announced today. Nothing is calling the event “The Truth” and says attendees can RSVP via its website: nothing.tech. The company is also announcing a new $70 million funding round today, which Pei says will give it “the fuel to realize the next phase of our vision of a seamless digital future.”
-<a href='https://www.theverge.com/2022/3/9/22966906/nothing-product-roadmap-2022-android-smartphone'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vdKQbj6BCR1gG2sq9gP8VMJc1G0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70596649/acastro_180413_1777_android_0001.0.jpg' width='700px' /><br/>
-Google is working on a tool that should let you “archive” certain apps to help free up space on your device. In a blog post, Google explains any app with the feature will let you partially uninstall it, shrinking the app down by about 60 percent without removing it completely.
-<a href='https://www.theverge.com/2022/3/8/22967924/androids-archive-feature-partially-uninstall-apps'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QzPdr3LOHyfkPy32fOasVSAxpKk=/0x0:4800x3200/1200x800/filters:focal(2016x1216:2784x1984)/cdn.vox-cdn.com/uploads/chorus_image/image/70597627/TN_QuickHaul_Commuting2.0.jpg' width='700px' /><br/>
-Taiwanese electric bike company Tern announced a more affordable version of its popular line of cargo bikes. The Tern Quick Haul is as slim and approachable as the company's other bikes, but with a slightly discounted sticker price.
-<a href='https://www.theverge.com/2022/3/9/22967229/tern-quick-haul-electric-cargo-bike-price-specs'> Source <a/>

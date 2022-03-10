@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Mcok25OmuCCZo4aY20MdmREUdl8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70598220/akrales_211207_4904_0033.0.jpg' width='700px' /><br/>
-It's impossible to review an HP laptop without spending a chunk of time on its design. HP knows how to make a gorgeous laptop, and the Envy x360 15 is no exception.
-<a href='https://www.theverge.com/22967204/hp-envy-x360-15-amd-ryzen-laptop-review-price-specs-features-design'> Source <a/>

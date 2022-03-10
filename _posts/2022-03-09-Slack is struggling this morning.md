@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/m8HBa4dNtMi6C2hudBvZWgv1ChI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70598758/acastro_200331_1777_slack_0001.0.0.jpg' width='700px' /><br/>
-Some people are back in the office while others are operating remotely, but for many workers, no matter where they are, Slack is still a default method of communication, and on this Wednesday morning, it is not working very well.
-<a href='https://www.theverge.com/2022/3/9/22968785/slack-down-outage-messages-edit-chat-connection-problem'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/hjzuOZs_4VtX7A0kUae2sILJ9fg=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70600310/acastro_190920_1777_amazon_0002.0.0.jpg' width='700px' /><br/>
+Amazon is suspending shipments to Russia and Belarus due to the ongoing invasion of Ukraine, the company announced in a blog post (via Bloomberg). It's also barring access to Amazon Prime Video in Russia.
+<a href='https://www.theverge.com/2022/3/9/22969220/amazon-russia-belarus-ukraine-invasion-prime-video-stops-sending-orders'> Source <a/>
