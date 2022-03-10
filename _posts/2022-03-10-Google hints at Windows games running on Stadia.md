@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0QzoZg7ShHSRcgenBYignu-mLmE=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70599758/googlestadia.0.jpg' width='700px' /><br/>
-Google appears to have built its own solution for running Windows games on Stadia. Google is planning to detail its Windows “emulator” for Linux next week at the company's Google for Games Developer Summit on March 15th. Reddit users have spotted a session at the summit that will detail “how to write a Windows emulator for Linux from scratch.”
-<a href='https://www.theverge.com/2022/3/9/22969081/google-windows-games-stadia-emulator'> Source <a/>

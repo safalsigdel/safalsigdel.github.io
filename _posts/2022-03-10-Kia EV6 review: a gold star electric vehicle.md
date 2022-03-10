@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/U-ghI8eCOVN5m9t3x_nUPHVkff0=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70603296/rbaldwin_220217_5051_0011.0.jpg' width='700px' /><br/>
+The Kia EV6 is designed to be seen. Fortunately, it was also engineered to be enjoyed while behind the wheel.
+<a href='https://www.theverge.com/22960060/kia-ev6-review-electric-specs-price'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GsPOeB9Z4QNwy79kHLHmmQ3QCJo=/0x0:1900x1360/1200x675/filters:focal(798x528:1102x832)/cdn.vox-cdn.com/uploads/chorus_image/image/70600107/alopez_220304_4996_0007.0.jpg' width='700px' /><br/>
-After five years of teases, the long-awaited debut of the Volkswagen ID Buzz is finally here. The German automaker revealed the all-electric van at a virtual event on Wednesday, where it positioned the ID Buzz as a recreation of its iconic Type 2 Microbus — think hippies, flower power, and peace signs — for a more modern era.
-<a href='https://www.theverge.com/2022/3/9/22967468/volkswagen-id-buzz-electric-microbus-photos-specs'> Source <a/>

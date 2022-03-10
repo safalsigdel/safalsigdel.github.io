@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_XEeONeBA4b_Yvno_t1uUufhRcs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70603310/bfarsace_211014_4802_0002.0.jpg' width='700px' /><br/>
+If you're interested in getting early access to Android features, then Google has a new beta program for Pixel owners. The search giant has just announced the release of the first beta for its upcoming Quarterly Platform Release (QPR), which are branded as Feature Drops when released to Pixel devices. 9to5Google reports that these features may end up being officially released as part of the Google Pixel's June update.
+<a href='https://www.theverge.com/2022/3/10/22970537/google-pixel-qpr3-beta-1-release-feature-drop'> Source <a/>

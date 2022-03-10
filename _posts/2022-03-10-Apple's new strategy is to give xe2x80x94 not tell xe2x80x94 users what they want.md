@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_6e5SSyKJeXl0mIRGUiKHk9lwvQ=/0x0:1960x1306/1200x800/filters:focal(824x497:1136x809)/cdn.vox-cdn.com/uploads/chorus_image/image/70600253/Apple_Mac_Studio_back_220308.0.jpg' width='700px' /><br/>
-There was a time not long ago when it seemed like Apple spent more time telling its customers what they wanted rather than just giving it to them.
-<a href='https://www.theverge.com/2022/3/9/22968839/apple-mac-studio-display-m1-ultra-strategy-users'> Source <a/>

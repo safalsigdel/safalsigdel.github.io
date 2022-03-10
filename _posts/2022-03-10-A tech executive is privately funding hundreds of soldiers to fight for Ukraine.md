@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/z2iL7_Zl1BTUY_yRtiYWmWFVgZA=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70600207/acastro_220309_5075_0001.0.jpg' width='700px' /><br/>
-As Russian forces continue to wreak havoc in Ukraine, one tech executive is arranging financial support for volunteers interested in fighting the invasion.
-<a href='https://www.theverge.com/2022/3/9/22969195/ukraine-russia-reddit-discord-anthony-capone-volunteers-subreddit-veterans'> Source <a/>

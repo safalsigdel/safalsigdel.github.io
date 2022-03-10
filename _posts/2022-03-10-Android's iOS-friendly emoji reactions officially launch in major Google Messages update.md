@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/pjcvAxq3RjY4UiPJTB3dgZsiDfw=/0x0:1336x891/1200x800/filters:focal(562x340:774x552)/cdn.vox-cdn.com/uploads/chorus_image/image/70603460/Untitled_2.0.jpg' width='700px' /><br/>
+We've known for months that Google has been working to make its Messaging app properly display emoji reactions sent by iPhone users. Now Google is making the feature available to all as part of a host of new and updated features for its Messages app that are rolling out over the coming weeks.
+<a href='https://www.theverge.com/2022/3/10/22970470/android-ios-messages-emoji-reactions'> Source <a/>

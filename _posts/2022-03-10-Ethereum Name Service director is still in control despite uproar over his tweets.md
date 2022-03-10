@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QQnKwqNtmeYm6gWvgyJQiIseI1w=/0x0:3543x2362/1200x800/filters:focal(1754x611:2320x1177)/cdn.vox-cdn.com/uploads/chorus_image/image/70599881/1233265488.0.jpg' width='700px' /><br/>
-Ethereum Name Service (ENS) director Brantly Millegan remains in his position following a vote to remove him over a number of controversial tweets. A snapshot of the vote shows 1.6 million governance tokens pledged against his removal, with 1.4 million for it, a margin of 5.88 percent.
-<a href='https://www.theverge.com/2022/3/9/22968858/ethereum-name-service-fails-boot-director-ens-brantly-millegan-dao'> Source <a/>
