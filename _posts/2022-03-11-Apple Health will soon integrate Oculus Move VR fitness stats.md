@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5j6v3pxHnoNqPFsJLLXg7i33Kdc=/0x0:2160x1447/1200x800/filters:focal(787x422:1131x766)/cdn.vox-cdn.com/uploads/chorus_image/image/70604706/Supernatural_VR.0.jpg' width='700px' /><br/>
-Meta is making another big push for VR fitness. Starting in April, the company will make it possible to see your VR fitness stats from Oculus Move in more places instead of just within a VR app on the Quest and Quest 2 headset. You'll be able to opt in to see metrics (calories burned, minutes spent working out, and your VR fitness goals) within the Oculus mobile app for iOS and Android.
-<a href='https://www.theverge.com/2022/3/10/22969467/oculus-move-vr-fitness-metrics-apple-health-ios-quest'> Source <a/>

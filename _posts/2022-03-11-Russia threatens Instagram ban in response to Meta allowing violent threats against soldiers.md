@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/UuIueAOeL-xRMB1o1_K6_3jXBVU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70608233/acastro_190919_1777_instagram_0001.0.0.jpg' width='700px' /><br/>
+Russian officials have called on Instagram to be banned and for parent company Meta to be designated an “extremist organization,” according to Russian news agency Interfax and state-owned news agency TASS.
+<a href='https://www.theverge.com/2022/3/11/22972460/russia-threatens-instagram-ban-meta-violent-threats-russian-soldiers'> Source <a/>

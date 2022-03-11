@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/5gurVqwB3YzZksarTsjs9ncAhHs=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/70603911/LSM_PR_Image_2HY22_5.0.jpg' width='700px' /><br/>
-Lego's interactive Super Mario universe is getting even bigger today with the addition of a Lego Princess Peach starter kit, which adds the Mushroom Kingdom's ruling royal to the ever-expanding array of modular sets.
-<a href='https://www.theverge.com/2022/3/10/22970538/princess-peach-lego-super-mario-sets-announcement-price-release-date-interactive'> Source <a/>

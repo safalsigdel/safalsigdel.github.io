@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2L9QaBox81znGcyhglg9o9l-v5A=/0x0:4918x3279/1200x800/filters:focal(2066x1247:2852x2033)/cdn.vox-cdn.com/uploads/chorus_image/image/70604518/1237512016.0.jpg' width='700px' /><br/>
-The Biden administration is preparing to extend the mask mandate on airplanes and public transportation, according to multiple media accounts. The mandate, which was set to expire on March 18th, will be extended another month as officials continue to monitor the drop in COVID-19 cases across the country.
-<a href='https://www.theverge.com/2022/3/10/22970925/biden-airplane-public-transportation-mask-mandate-extend'> Source <a/>

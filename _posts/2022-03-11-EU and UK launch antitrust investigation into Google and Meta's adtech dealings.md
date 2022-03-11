@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lmcbSPVM3USVVdoEx1ZNcBdMg20=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70607774/acastro_201005_1777_googleAntiTrust_0001.0.0.jpg' width='700px' /><br/>
+Google and Meta are being investigated by antitrust regulators in the EU and UK over “Jedi Blue” — a deal between the two firms that critics say allowed them to block smaller tech companies from gaining a foothold in the online ad market.
+<a href='https://www.theverge.com/2022/3/11/22972384/eu-uk-antitrust-investigation-google-meta-facebook-jedi-blue-adtech-deal'> Source <a/>
