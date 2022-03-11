@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YRv2F90gILMJAuyPGUUAzNtian4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70604767/akrales210108_4344_0002.0.jpg' width='700px' /><br/>
+Peloton CEO Barry McCarthy hasn't been coy about how he plans to get the struggling fitness company back on course. A few weeks ago, McCarthy both quashed sale rumors and dangled the idea of shaking up Peloton's subscription models. Now, Peloton says it'll pilot a new subscription model called One Peloton Club in select states starting Friday.
+<a href='https://www.theverge.com/2022/3/10/22970905/peloton-bike-fitness-subscription-model'> Source <a/>

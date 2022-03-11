@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/d9icOFu_7YMmNj04ljtq0Y4ZR3Y=/0x0:3900x3185/1200x800/filters:focal(1638x1281:2262x1905)/cdn.vox-cdn.com/uploads/chorus_image/image/70601339/Roblox_Avatar_Lineup_3900x4984.0.jpg' width='700px' /><br/>
-Roblox is a hugely popular game — nearly 50 million users play it every day, according to Roblox (the company) — and that's in part because it's free and available on many different platforms, including iOS, Android, PC, and Xbox. One very conspicuous absence from that list is PlayStation, but that could be changing sometime soon, as Roblox has posted a job listing for a “Senior Software Engineer, PlayStation Console.”
-<a href='https://www.theverge.com/2022/3/9/22969412/roblox-hiring-playstation-engineer'> Source <a/>

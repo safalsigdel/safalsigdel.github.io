@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TdbAO7E-i882okunMHFWRTAk9EU=/0x0:3584x2024/1200x800/filters:focal(1506x726:2078x1298)/cdn.vox-cdn.com/uploads/chorus_image/image/70603593/hero__d0yd117u6qy6_large_2x.0.jpeg' width='700px' /><br/>
-The ports have won. After years of Apple's USB-C experiments, the past few months have seen a decisive victory for the concept of “being able to plug things into your computer without a complicated array of dongles and adapters” — marked in particularly by the latest announcement of Apple's new Mac Studio desktop.
-<a href='https://www.theverge.com/2022/3/10/22969574/mac-studio-apple-ports-hdmi-usb-c-design-dongles-back'> Source <a/>

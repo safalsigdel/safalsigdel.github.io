@@ -1,3 +1,0 @@
-<img src='data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs' width='700px' /><br/>
-Google Photos' portrait blur feature on Android will soon be able to blur backgrounds in a wider range of photos, including pictures of pets, food, and — my personal favorite — plants. It's one of a host of updates coming to Google's apps and services on Android, which also includes tweaks to Google TV, a new screen time widget, and wider deployment of a Gboard feature that helps improve your grammar.
-<a href='https://www.theverge.com/2022/3/10/22970504/google-android-update-tv-photos-auto-parking-gboard'> Source <a/>

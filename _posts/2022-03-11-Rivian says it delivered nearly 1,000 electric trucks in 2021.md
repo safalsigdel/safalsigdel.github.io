@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3vEQo2Op3M5zyXQcbQyKlDmNUdc=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/70606037/K._Rivian_R1T_Fun_In_Dirt_2.0.jpg' width='700px' /><br/>
+Rivian, the buzzy electric vehicle company backed by Ford and Amazon, delivered 909 vehicles to customers in the fourth quarter of 2021, the company said in its second earnings report since its historic IPO last year. The company says it has delivered a total of 920 vehicles in 2021.
+<a href='https://www.theverge.com/2022/3/10/22971092/rivian-electric-truck-deliveries-earnings-q4-2021'> Source <a/>

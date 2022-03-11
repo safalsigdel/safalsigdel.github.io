@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ohAjpJ_oTX12oFRvTYOFKXSLHHY=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/70605613/twarren_170224_1442_C_0004.0.0.jpg' width='700px' /><br/>
+The lock screen of your Android phone can be very useful, showing notifications and letting you access certain features without having to unlock your phone first. (Something that may be even more useful if you've got a Pixel 6 or 6 Pro and are still having problems with the fingerprint sensor.)
+<a href='https://www.theverge.com/22970641/android-lockscreen-phone-display-notification'> Source <a/>

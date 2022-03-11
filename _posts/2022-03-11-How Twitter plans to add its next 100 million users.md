@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/vH8sFIGZwHFlrwTfFPn4HGuvoPM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70604361/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+Twitter has an enormous goal: the company wants to add another 100 million daily users by the end of 2023 — a growth of about 50 percent from where it is today. To do that, Twitter is going to need to add users at a far faster pace than it has in recent years, launching and iterating on new products and getting users to engage with the app more regularly.
+<a href='https://www.theverge.com/2022/3/10/22970043/twitter-product-leadership-interview'> Source <a/>

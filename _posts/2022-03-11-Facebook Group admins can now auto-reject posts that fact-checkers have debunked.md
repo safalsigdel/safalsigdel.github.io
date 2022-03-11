@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Pxf3RgY3vAGkU_cJ7wrULlTR6yM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70604261/acastro_180522_facebook_0001.0.jpg' width='700px' /><br/>
+Facebook has added new features for Groups aimed at helping reduce the amount of misinformation shared among group members, parent company Meta announced. One of the options allows Group admins to auto-decline posts that third-party fact-checkers have determined contain false information so that the post isn't shown to other members within the Group.
+<a href='https://www.theverge.com/2022/3/10/22970715/facebook-meta-adds-new-tools-groups-admins-misinformation'> Source <a/>

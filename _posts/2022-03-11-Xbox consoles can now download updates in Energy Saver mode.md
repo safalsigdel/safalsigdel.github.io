@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/55fPXcTXPX54V-BjNKExaGU9jJs=/0x0:2040x1351/1200x800/filters:focal(857x513:1183x839)/cdn.vox-cdn.com/uploads/chorus_image/image/70605165/twarren_200909_4177_0030.0.0.jpg' width='700px' /><br/>
+Microsoft is making improvements to its Energy Saver mode on Xbox consoles. While Xbox owners have traditionally had to enable Standby mode to continue getting game and system updates while consoles are powered off, the Energy Saver mode will now support downloading updates in the background.
+<a href='https://www.theverge.com/2022/3/10/22971187/xbox-energy-saver-mode-download-updates-microsoft'> Source <a/>

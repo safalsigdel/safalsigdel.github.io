@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/uJhfDu6vQrattDs9cWpknHkDMAA=/0x0:2040x1147/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/70603200/vpavic_4261_20201023_0018.0.jpg' width='700px' /><br/>
-Update 8:12AM ET, March 10th: Both the regular PlayStation 5 and Digital Edition have sold out on Target's site. There is one more confirmed chance to get a PS5 this week at GameStop's in-store restock happening tomorrow.
-<a href='https://www.theverge.com/2022/3/10/22937311/sony-playstation-5-console-restock-ps5-target-avaibility-check-inventory'> Source <a/>

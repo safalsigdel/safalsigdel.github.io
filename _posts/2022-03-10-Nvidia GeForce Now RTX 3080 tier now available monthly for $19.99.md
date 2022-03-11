@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2BwyQlYCdtsuYVEzlb7V0R8jQ8w=/0x0:1280x680/1200x800/filters:focal(538x238:742x442)/cdn.vox-cdn.com/uploads/chorus_image/image/70603463/GeForce_NOW_Ecosystem_5168761692b8ce49157.58524673.0.jpg' width='700px' /><br/>
-Nvidia is making its top GeForce Now RTX 3080 membership tier available on a monthly basis. The service, which uses RTX 3080-level hardware to stream games from Steam or Epic Games Store, will now be available for $19.99 per month. That means you can try out the top RTX 3080 tier for a month, instead of signing up to the service for six months.
-<a href='https://www.theverge.com/22970496/nvidia-geforce-now-rtx-3080-monthly-membership-pricing-details'> Source <a/>

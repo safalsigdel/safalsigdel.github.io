@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/3Wj9I53OGYjXc3QFUjDuGRIZQMI=/0x0:2048x1536/1200x800/filters:focal(861x605:1187x931)/cdn.vox-cdn.com/uploads/chorus_image/image/70605792/i3_i3__Photo_InSitu_TopView.0.jpg' width='700px' /><br/>
+iRobot's excellent, more affordable Roomba i3 robot vacuum received a firmware update this week that gives it new powers. Existing users and anyone who picks up the $349.99 Roomba i3 can now use smart maps to tell their robot exactly where to clean.
+<a href='https://www.theverge.com/2022/3/10/22967391/irobot-roomba-i3-update-smart-mapping'> Source <a/>

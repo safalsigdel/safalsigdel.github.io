@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_X8YEHfUbpkb7OipxXUoI3Rja4M=/0x0:6720x4480/1200x675/filters:focal(2417x1584:3491x2658)/cdn.vox-cdn.com/uploads/chorus_image/image/70603658/akrales_220303_5041_0409.0.jpg' width='700px' /><br/>
-Sometimes, Nicole Kelner's watercolor art demonstrates the shrinking population of monarch butterflies, or calls attention to the benefits associated with certain kinds of green energy, like ground-source heat pumps. Other times, it reflects jarring data about the warming of the Earth. But every stroke Kelner makes with her razor-thin paintbrush represents a bigger picture than what's on the page.
-<a href='https://www.theverge.com/22960579/colors-of-climate-nicole-kelner-watercolors-diy'> Source <a/>

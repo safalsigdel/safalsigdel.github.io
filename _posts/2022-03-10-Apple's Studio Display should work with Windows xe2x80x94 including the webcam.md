@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KiPC4sv9juI5w5cD19lph2eVF7Q=/0x0:600x400/1200x800/filters:focal(252x152:348x248)/cdn.vox-cdn.com/uploads/chorus_image/image/70601889/Apple_Studio_Display.0.png' width='700px' /><br/>
-Apple's site says that its new 27-inch, 5K Studio Display is compatible with a wide range of Macs (and even some iPads), but the company has also told The Verge that it should also work fine when plugged into a Windows PC. There are a few caveats, of course, but if your PC is capable of outputting to it, the Studio Display should act like any normal monitor with a built-in webcam and speakers.
-<a href='https://www.theverge.com/2022/3/9/22969789/apple-studio-display-windows-pc-compatibility-camera-5k-thunderbolt'> Source <a/>

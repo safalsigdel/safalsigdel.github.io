@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XX3xUinlaZ2T_FSNtq-im_Eo4OI=/0x0:1464x901/1200x800/filters:focal(615x334:849x568)/cdn.vox-cdn.com/uploads/chorus_image/image/70602936/tabsfilexplorer.0.jpg' width='700px' /><br/>
-Microsoft has started testing tabs in File Explorer on Windows 11. Rafael Rivera, one of the developers of the EarTrumpet Windows app, has discovered the new tabs support hidden inside Microsoft's latest Windows 11 test build. This feature appears to be one of the secret additions Microsoft has started testing in Windows 11 recently.
-<a href='https://www.theverge.com/22970473/microsoft-windows-11-file-explorer-tabs'> Source <a/>

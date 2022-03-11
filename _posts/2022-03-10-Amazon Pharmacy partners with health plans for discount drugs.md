@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/6kw_aaFpW2alCq6V5enBfRjcssU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70603646/acastro_190920_1777_amazon_0003.0.0.jpg' width='700px' /><br/>
-Amazon Pharmacy is offering a prescription drug discount card to Blue Cross Blue Shield insurance customers in five states, Nworah Ayogu, chief medical officer for Amazon Pharmacy, said in an interview at a health technology conference this week.
-<a href='https://www.theverge.com/2022/3/10/22970580/amazon-pharmacy-discount-drug-card'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dWVV59NARYL1LTzSzrVJf796KG8=/0x0:4000x2670/1200x800/filters:focal(1706x1776:2346x2416)/cdn.vox-cdn.com/uploads/chorus_image/image/70601593/1231061423.0.jpg' width='700px' /><br/>
-Uber Eats is getting a group order and bill splitting feature that should make it easier to ensure your friends and family members are picking up their share of the tab.
-<a href='https://www.theverge.com/2022/3/9/22969561/uber-eats-bill-splitting-deliveries-takeout'> Source <a/>

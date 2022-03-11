@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/HGnHnQAapZnqmEOWgH-sTTGlL7o=/0x0:2000x1215/1200x800/filters:focal(705x413:1025x733)/cdn.vox-cdn.com/uploads/chorus_image/image/70604926/SNW_Key_Art_2000.0.jpg' width='700px' /><br/>
+Universal Studios Hollywood will be the first US park with a Super Nintendo World when it opens its doors next year. Last year, the first Nintendo-style theme park made its debut at a Universal Studios location in Osaka, Japan, despite a number of delays and a global pandemic, and we've been waiting since the partnership was announced in 2015 to find out when there would be one in the US.
+<a href='https://www.theverge.com/2022/3/10/22971096/super-nintendo-world-america-universal-studios-hollywood-theme-park'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/MG1QIzCbhYM1vZo45tPNLyQAsuo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70604896/vpavic_042020_3980_0037.0.jpg' width='700px' /><br/>
+It's hard to be too disappointed by the iPhone SE. It's cute, has great specs for the price, and now has 5G. It, along with the iPhone 13 Mini, fills that small phone niche for people with tiny hands. But as a big phone convert, I'm cheesed that the SE only comes in one size.
+<a href='https://www.theverge.com/2022/3/10/22967827/apple-iphone-se-bigger-smartphone'> Source <a/>

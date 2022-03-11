@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/NThPTxR8GcE4hZDWQLu3dKlX8ak=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70605299/xboxsteamdeck.0.jpg' width='700px' /><br/>
+Microsoft is providing an update on its support for Valve's Steam Deck today. Most Xbox Game Studios titles will run on the Steam Deck, but Microsoft says Gears 5, Halo: The Master Chief Collection, Halo Infinite, and Microsoft Flight Simulator X are unsupported. These titles don't work on the Steam Deck due to anti-cheat systems, and it's not clear if they'll ever be supported in the future.
+<a href='https://www.theverge.com/2022/3/10/22971257/microsoft-steam-deck-xbox-game-studios-list'> Source <a/>
