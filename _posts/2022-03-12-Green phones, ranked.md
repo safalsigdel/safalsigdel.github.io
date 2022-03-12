@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/kRoIvUr-HQDsIQYGf4so4M6ZoLw=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70608446/ajohnson_220310_5073_0001.0.jpg' width='700px' /><br/>
-“So, is there some kind of promotional tie-in?” My husband was searching for answers. “No. They're just green phones.” This was not a satisfying answer, so he continued.
-<a href='https://www.theverge.com/2022/3/11/22970820/apple-iphone-13-pro-alpine-green-samsung-s22-compared-ranked'> Source <a/>
