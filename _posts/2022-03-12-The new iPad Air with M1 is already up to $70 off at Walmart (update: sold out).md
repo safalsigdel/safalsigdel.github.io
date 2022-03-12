@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/PQ41Uqrqux8qGXp0qfWVAz6BKlY=/0x0:2722x1522/1200x800/filters:focal(1144x544:1578x978)/cdn.vox-cdn.com/uploads/chorus_image/image/70608927/Screen_Shot_2022_03_08_at_6.16.14_PM.0.png' width='700px' /><br/>
 Update 7:53PM ET, March 11th: Preorders for both the 64GB and the 256GB iPad Air have sold out on Walmart's site.
-<a href='https://www.theverge.com/good-deals/2022/3/11/22972665/apple-ipad-air-m1-new-2022-walmart-preorder-deal-sale'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/PQ41Uqrqux8qGXp0qfWVAz6BKlY=/0x0:2722x1522/1200x800/filters:focal(1144x544:1578x978)/cdn.vox-cdn.com/uploads/chorus_image/image/70608927/Screen_Shot_2022_03_08_at_6.16.14_PM.0.png' width='700px' /><br/>
-Update 7:53PM ET, March 11th: Preorders for both the 64GB and the 256GB iPad Air have sold out on Walmart's site.
 <a href='https://www.theverge.com/good-deals/2022/3/11/22972665/apple-ipad-air-m1-new-2022-walmart-preorder-deal-sale'> Source <a/>

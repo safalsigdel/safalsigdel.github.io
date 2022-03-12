@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/QD5KMFJYbVYKqEe28w0o6pH6ttM=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/70609030/mac_studio_angle.0.jpg' width='700px' /><br/>
 Every Friday, The Verge publishes our flagship podcast, The Vergecast, where Verge editor-in-chief Nilay Patel discusses the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/2022/3/11/22972630/vergecast-apples-peek-performance-event-specs-ports'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/QD5KMFJYbVYKqEe28w0o6pH6ttM=/0x0:1500x1000/1200x800/filters:focal(630x380:870x620)/cdn.vox-cdn.com/uploads/chorus_image/image/70609030/mac_studio_angle.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where Verge editor-in-chief Nilay Patel discusses the week in tech news with the reporters and editors covering the biggest stories.
 <a href='https://www.theverge.com/2022/3/11/22972630/vergecast-apples-peek-performance-event-specs-ports'> Source <a/>
