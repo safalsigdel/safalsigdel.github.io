@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qYRdswSj2owE61IWplTGwkomCG8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70611454/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
-Uber is adding a “temporary fuel surcharge” to fares to help drivers pay for record-high gas prices around the country, the company announced Friday. “Rides customers will pay a surcharge of either $0.45 or $0.55 on each Uber trip, and Eats customers will pay either $0.35 or $0.45 on each Uber Eats order, depending on their location,” Uber's head of driver operations in US and Canada, Liza Winship, said in a blog post.
-<a href='https://www.theverge.com/2022/3/11/22973474/uber-temporary-fuel-surcharge-fee-ev'> Source <a/>

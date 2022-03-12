@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DQKkO4bhcN39J6AsWmPOHZsSlSg=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70608820/dseifert_4630_amazon_echo_show_5_2nd_gen_2.0.jpg' width='700px' /><br/>
-It's Friday, so it's nearly time to put this busy week in the books. We hope you have a chance for some rest and relaxation this upcoming weekend, and we've got a couple deals for you that may help.
-<a href='https://www.theverge.com/good-deals/2022/3/11/22970992/amazon-echo-show-5-bose-sleepbuds-fire-tv-cube-stick-microsoft-xbox-series-s-razer-kaira-deal-sale'> Source <a/>
