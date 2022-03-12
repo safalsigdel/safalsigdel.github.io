@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/0pmL8LwUDA-mVCaTDzNdlC8WmDI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70605379/acastro_180509_1777_steam_0001.0.jpg' width='700px' /><br/>
-What happens if you're gaming on your desktop Windows PC but want to continue the game from a different part of the house — or even out of the house? If you're using Steam, Valve's PC gaming destination, you can get around the first part of this dilemma by using Steam Link, an in-home game streaming solution that uses your local network. And now, there's a way around the second as well — with some caveats.
-<a href='https://www.theverge.com/22962051/steam-games-remote-play-windows-ios-android-macos-streaming'> Source <a/>

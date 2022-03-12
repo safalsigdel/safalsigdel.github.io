@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZyFdWEutfMJFS27ABgt6L0bqCpQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70611691/Screen_Shot_2022_03_11_at_5.00.08_PM.0.png' width='700px' /><br/>
+EA announced an early 2023 “arrival window” for the next-gen remake of its survival horror hit Dead Space on Friday. The announcement was made as part of a developer livestream focused largely on the game's audio.
+<a href='https://www.theverge.com/2022/3/11/22973541/ea-dead-space-remake-released-early-2023'> Source <a/>

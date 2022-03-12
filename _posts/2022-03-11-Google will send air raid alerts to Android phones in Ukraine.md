@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hUaxswCw_ZCTPrC-TWCHKaikc_Y=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70605515/acastro_180413_1777_android_0001.0.jpg' width='700px' /><br/>
-Android users in Ukraine will get air raid alerts directly on their phones before expected attacks happen near them, Google announced today. In an updated blog post, the company said it's working with the Ukrainian government to roll out an alert system for Android phones in the country. The feature was first spotted by XDA-Developers.
-<a href='https://www.theverge.com/2022/3/10/22971213/google-ukraine-android-air-raid-alerts'> Source <a/>

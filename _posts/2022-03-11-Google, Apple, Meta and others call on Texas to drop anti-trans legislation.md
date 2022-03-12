@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DXf18VIPZjVcps-jj6HdxMgbUEE=/0x0:1758x916/1200x800/filters:focal(739x318:1019x598)/cdn.vox-cdn.com/uploads/chorus_image/image/70607933/Screenshot_2022_03_11_at_10.22.01.0.png' width='700px' /><br/>
-Google, Apple, and Meta are among more than 60 companies asking Texas governor Greg Abbott to abandon recent legislation that defines gender-affirming medical treatments for transgender minors as “child abuse.”
-<a href='https://www.theverge.com/2022/3/11/22972413/google-meta-apple-microsoft-texas-anti-trans-legislation-opposition'> Source <a/>

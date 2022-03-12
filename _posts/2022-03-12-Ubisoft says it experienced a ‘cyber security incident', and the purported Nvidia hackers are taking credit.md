@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4Lc0_YCNF0vAhnuaY9WVPQzQ4JY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70609496/acastro_190528_1777_ubisoft_0002.0.0.jpg' width='700px' /><br/>
+Ubisoft experienced a “cyber security incident” last week that temporarily disrupted some games, systems, and services, the company reported Thursday. Ubisoft hasn't said who might be responsible, but on Friday evening, the group who purportedly hacked Nvidia took credit.
+<a href='https://www.theverge.com/2022/3/11/22972768/ubisoft-cyber-security-incident-hack'> Source <a/>

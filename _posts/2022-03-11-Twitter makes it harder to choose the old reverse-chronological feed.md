@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/VNvDbMApz_QnOz-9n4gvr1XHejs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70605981/acastro_180827_1777_0002.0.jpg' width='700px' /><br/>
-Twitter is rolling out a change that, frustratingly, makes it a bit more difficult to see your chronological feed.
-<a href='https://www.theverge.com/2022/3/10/22971307/twitter-home-timeline-algorithmic-reverse-chronological-feed'> Source <a/>

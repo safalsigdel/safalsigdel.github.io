@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4JSMykSG93-8E0l-_Bn5UmMXOy0=/0x0:1920x1192/1200x800/filters:focal(807x443:1113x749)/cdn.vox-cdn.com/uploads/chorus_image/image/70606344/WZ_CODM_TOUT.0.jpeg' width='700px' /><br/>
-Activision is bringing its hit battle royale shooter Call of Duty: Warzone to mobile phones, the company announced Thursday. “We are creating an all-new, AAA mobile experience that will bring the thrilling, fluid and large-scale action of Call of Duty: Warzone to players on the go,” Activision said in a post on its website.
-<a href='https://www.theverge.com/2022/3/10/22971593/activision-call-of-duty-warzone-mobile'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/FqkJ5YR_9dzZhphenv5idDAo39M=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70609710/acastro_180403_1777_youtube_0002.0.jpg' width='700px' /><br/>
+YouTube says that it will start completely blocking YouTube channels funded by the Russian government, after it blocked channels like RT and Sputnik in Europe earlier this month. The company also announced that it would be removing content about the Russian invasion of Ukraine that denies, minimizes, or trivializes “well-documented violent events.”
+<a href='https://www.theverge.com/2022/3/11/22972911/youtube-rt-russian-sputnik-block-state-media-globally'> Source <a/>
