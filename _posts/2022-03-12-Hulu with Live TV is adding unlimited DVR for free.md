@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/NJ6qPvCM0sJ2fef6MY4l1ZUpxP0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70609990/acastro_200320_1777_huluStock_0003.0.0.jpg' width='700px' /><br/>
 Hulu with Live TV is giving its users unlimited DVR starting next month at no additional cost — a feature that'll allow it to compete more directly with cord-cutting rival YouTube TV.
+<a href='https://www.theverge.com/2022/3/11/22973002/hulu-with-live-tv-unlimited-dvr-youtube'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/NJ6qPvCM0sJ2fef6MY4l1ZUpxP0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70609990/acastro_200320_1777_huluStock_0003.0.0.jpg' width='700px' /><br/>
+Hulu with Live TV is giving its users unlimited DVR starting next month at no additional cost — a feature that'll allow it to compete more directly with cord-cutting rival YouTube TV.
 <a href='https://www.theverge.com/2022/3/11/22973002/hulu-with-live-tv-unlimited-dvr-youtube'> Source <a/>

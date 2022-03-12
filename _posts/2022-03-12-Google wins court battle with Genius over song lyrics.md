@@ -1,3 +1,5 @@
 <img src='https://cdn.vox-cdn.com/thumbor/M7gSOp4GQ0MksV5lUpDLcnz0zJ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70611239/acastro_210104_1777_google_0001.0.jpg' width='700px' /><br/>
 Google has once again prevailed in an ongoing legal battle with song lyrics website Genius, which claimed that Google was using its transcribed lyrics without permission in search results.
+<a href='https://www.theverge.com/2022/3/11/22973282/google-wins-court-battle-genius-song-lyrics-copyright'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/M7gSOp4GQ0MksV5lUpDLcnz0zJ8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70611239/acastro_210104_1777_google_0001.0.jpg' width='700px' /><br/>
+Google has once again prevailed in an ongoing legal battle with song lyrics website Genius, which claimed that Google was using its transcribed lyrics without permission in search results.
 <a href='https://www.theverge.com/2022/3/11/22973282/google-wins-court-battle-genius-song-lyrics-copyright'> Source <a/>
