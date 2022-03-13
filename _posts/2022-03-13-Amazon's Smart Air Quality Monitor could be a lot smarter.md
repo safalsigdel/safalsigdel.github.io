@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/hggSDKZtDOTdjYW0uTWmo6fQIQs=/0x0:2040x1360/1200x800/filters:focal(1111x544:1437x870)/cdn.vox-cdn.com/uploads/chorus_image/image/70608996/jtuohy_220210_5065_0006.0.jpg' width='700px' /><br/>
-Amazon's $69.99 Smart Air Quality Monitor is the company's first foray into the increasingly popular category of indoor air quality monitors (IAQs). And, based on my experience with the product, it's a bandwagon-jumping move. While relatively inexpensive and helpful thanks to voice control, the Smart Monitor doesn't add anything particularly innovative or useful to the concept of a consumer air quality monitor.
-<a href='https://www.theverge.com/22971411/amazon-smart-air-quality-monitor-iaq-review'> Source <a/>
