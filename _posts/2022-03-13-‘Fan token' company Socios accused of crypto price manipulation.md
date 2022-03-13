@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/EJoStXXpPGItoKlvd62WiSj6_Wc=/0x0:3543x2362/1200x800/filters:focal(1489x898:2055x1464)/cdn.vox-cdn.com/uploads/chorus_image/image/70614332/1238537158.0.jpg' width='700px' /><br/>
+Alexandre Dreyfus, the CEO and founder of fan token site Socios, has been accused of withholding payments in order to maintain the price of Chiliz (CHZ), the cryptocurrency used by the Socios community, according to a report from Off the Pitch.
+<a href='https://www.theverge.com/2022/3/12/22974337/fan-token-company-socios-accused-cryptocurrency-price-manipulation'> Source <a/>

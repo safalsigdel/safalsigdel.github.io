@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wZP74T4tNkT5BGh86v7cV0sg2jk=/0x0:640x360/1200x800/filters:focal(269x129:371x231)/cdn.vox-cdn.com/uploads/chorus_image/image/70608637/cnn_plus_3d_whiteplus_redbg_pr_email_logo_640x360.0.jpg' width='700px' /><br/>
-CNN Plus, the streaming platform from the cable news giant, will debut in the US on March 29th, the company said Friday in a news release. For early subscribers — those who sign up in the first four weeks of its launch— the service will cost $2.99 per month, and they'll lock in that price for as long as they subscribe. The standard price will be $5.99 per month or $59.99 per year.
-<a href='https://www.theverge.com/2022/3/11/22972566/cnn-plus-launch-march-29-streaming'> Source <a/>
