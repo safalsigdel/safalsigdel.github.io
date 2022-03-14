@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/j3flKJqGDdmMtAf1QNl2FY0zcYo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70620297/acastro_200602_1777_HBOMax_0003.0.0.jpg' width='700px' /><br/>
+It really shouldn't surprise anyone that when the merger of Discovery and WarnerMedia closes, the two companies' streaming apps will experience a merger of their own. As noted by Variety, Discovery CFO Gunnar Wiedenfels confirmed the move when speaking at the Deutsche Bank 30th Annual Media, Internet, & Telecom Conference (that's a mouthful) on Monday.
+<a href='https://www.theverge.com/2022/3/14/22976876/hbo-max-discovery-plus-merge-app-confirmed'> Source <a/>
