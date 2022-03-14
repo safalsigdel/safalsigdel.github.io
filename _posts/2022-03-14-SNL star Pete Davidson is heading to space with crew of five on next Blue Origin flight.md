@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ImkHzHsZjHUGC3WaS01OIlKetxI=/0x0:3000x2000/1200x800/filters:focal(1281x353:1761x833)/cdn.vox-cdn.com/uploads/chorus_image/image/70619851/1232777398.0.jpg' width='700px' /><br/>
+Saturday Night Live star Pete Davidson will actually go to space this month instead of just pretending to on live television. Space tourism venture Blue Origin announced the latest crew to head to the edge of space on the company's New Shepard rocket, and as rumored, Davidson is the latest celebrity guest to join the crew's ranks.
+<a href='https://www.theverge.com/2022/3/14/22976721/pete-davidson-blue-origin-space-new-shepard-launch-march-snl'> Source <a/>
