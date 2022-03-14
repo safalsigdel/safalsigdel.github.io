@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/BQkkR-wc_JHLcFI2N47306BqCug=/0x0:2048x1353/1200x800/filters:focal(861x514:1187x840)/cdn.vox-cdn.com/uploads/chorus_image/image/70616116/instagram_moderators_live.0.png' width='700px' /><br/>
+Instagram is finally letting Live creators appoint moderators during their streams. Mods will have the ability to report comments, remove viewers from the stream, as well as turn off comments for a specific viewer.
+<a href='https://www.theverge.com/2022/3/13/22974597/instagram-finally-letting-livestreamers-add-moderators-live'> Source <a/>

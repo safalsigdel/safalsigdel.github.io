@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Ckjk4pGupqKx3BGvUH1T4ZbjExg=/0x1345:1440x2492/1200x800/filters:focal(601x2001:831x2231)/cdn.vox-cdn.com/uploads/chorus_image/image/70617511/Galaxy_A_Event_2022_Invite.0.jpg' width='700px' /><br/>
+Samsung has started sending out invites for its second event of the year, which is set to air online on Thursday, March 17th, 2022 at 10AM ET. It's called the Awesome Galaxy A Event on the invite, and it's dedicated to the phonemaker's midrange A-series devices, in case you couldn't tell.
+<a href='https://www.theverge.com/2022/3/13/22975452/samsung-galaxy-awesome-unpacked-a-series-event-march-17'> Source <a/>

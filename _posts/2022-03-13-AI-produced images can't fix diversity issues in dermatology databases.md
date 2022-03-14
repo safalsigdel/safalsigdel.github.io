@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/G2erwlTpzXreP9t1zHsDkkECKS8=/0x0:4013x3010/1200x800/filters:focal(1686x1184:2328x1826)/cdn.vox-cdn.com/uploads/chorus_image/image/70609374/1296572722.0.jpg' width='700px' /><br/>
-Image databases of skin conditions are notoriously biased towards lighter skin. Rather than wait for the slow process of collecting more images of conditions like cancer or inflammation on darker skin, one group wants to fill in the gaps using artificial intelligence. It's working on an AI program to generate synthetic images of diseases on darker skin — and using those images for a tool that could help diagnose skin cancer.
-<a href='https://www.theverge.com/2022/3/11/22971207/dermatology-ai-diversity-skin-tone-synthetic-images'> Source <a/>
