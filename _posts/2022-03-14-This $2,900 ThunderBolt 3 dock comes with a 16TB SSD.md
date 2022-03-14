@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/C6mH_Eu6KUA24QQWkKBEHFptRBc=/0x0:2000x1334/1200x800/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/70620020/Main_7.0.jpg' width='700px' /><br/>
+Sabrent has released a new Thunderbolt 3 dock, which includes up to 16TB of storage alongside a more typical array of dock ports. That storage doesn't come cheap, however. Although the 2TB version of the docking station is listed for $499.99 on Sabrent's site, opting for the full 16TB of storage sets you back an eye-watering $2,900.
+<a href='https://www.theverge.com/2022/3/14/22976885/sabrent-thunderbolt-3-dock-16tb-storage-price-release-date-features'> Source <a/>
