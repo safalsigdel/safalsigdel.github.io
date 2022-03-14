@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yKmhVWHyR0FvBwdDfappTM9NDcg=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70621039/61b4648f65ed5Combat.0.jpeg' width='700px' /><br/>
+Tiny Tina's Wonderlands, a new spinoff in the popular Borderlands series, is set to launch on PlayStation, Xbox, and PC on March 25th, and when it's available, it will support crossplay for all platforms — including PlayStation.
+<a href='https://www.theverge.com/2022/3/14/22977436/tiny-tinas-wonderlands-crossplay-playstation-xbox-pc'> Source <a/>
