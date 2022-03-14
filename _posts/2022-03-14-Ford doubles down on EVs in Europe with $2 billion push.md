@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4QTjtxVsJnsfUboF-qR5fZQ3Z9s=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70619943/All_electric_passenger_cars_no_text.0.jpg' width='700px' /><br/>
+Ford announced plans to introduce seven new electric vehicles in Europe as part of a $2 billion investment. The automaker aims to sell 600,000 battery-powered vehicles on the continent by 2026, building toward a goal of all EV sales and complete carbon neutrality across its production footprint by 2035.
+<a href='https://www.theverge.com/2022/3/14/22976790/ford-electric-europe-investment-new-models-year-ev'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UWpWy9_t-YjcjCho-nJ1fEsAb1w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70611187/acastro_2203011_5082_0001.0.jpg' width='700px' /><br/>
-Yuga Labs, the creator of Bored Ape Yacht Club, announced today that it had acquired CryptoPunks and Meebits from Larva Labs. CryptoPunks is one of the oldest and most valuable brands in the NFT world, and Meebits quickly joined the list of most valuable NFT collections after launching last May.
-<a href='https://www.theverge.com/2022/3/11/22973394/bored-ape-yacht-club-cryptopunks-meebits-nft'> Source <a/>
