@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RQvMJ_dKVOpbO91ZsE8YPRe8VYs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70619224/acastro_190919_1777_instagram_0002.0.0.png' width='700px' /><br/>
+Russia's promised ban on Instagram has kicked into effect today, with the social media platform inaccessible for the vast majority of the country's population, according to internet monitoring service GlobalCheck.
+<a href='https://www.theverge.com/2022/3/14/22976603/russia-bans-instagram-facebook-meta-call-to-violence'> Source <a/>
