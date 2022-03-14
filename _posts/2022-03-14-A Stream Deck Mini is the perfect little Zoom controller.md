@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qaN_Q1Wxn7D-odb-U6OHY0VxAC8=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70619794/stream_deck_mini_4.0.jpg' width='700px' /><br/>
+One of my missions during the extended work-from-home transition of the past few years has been to find little ways to make the annoying parts of the experience slightly better and less annoying. Like many others, I've found a comfortable, ergonomic chair, set up a dedicated standing desk that is only used for work, and explored leveling up my video call quality by repurposing a mirrorless camera as a webcam.
+<a href='https://www.theverge.com/22974570/elgato-stream-deck-mini-zoom-video-call-controls-work-from-home'> Source <a/>
