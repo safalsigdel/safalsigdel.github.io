@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/SV8Bl-vZDE7MS-v67lldS64kZIY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70625437/acastro_180510_1777_google_assistant_0003.0.jpg' width='700px' /><br/>
+You're sitting in your office and decide to find out when your next appointment is. You pick up your phone and murmur quietly, “OK Google, when's my next appointment?” And then, loud enough to be heard over the entire room, your Google Assistant announces, “Next up, you have an appointment with your urologist on September 3rd at 9AM.”
+<a href='https://www.theverge.com/22979075/google-assistant-mute-android-phone-how-to'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/jhIhzczYgnunKqFSGcgYAq1GkOE=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70621288/iss065e170118_large.0.jpeg' width='700px' /><br/>
-Last week, a flurry of news reports worryingly claimed that Russia was threatening to strand an American astronaut on the International Space Station in direct response to sanctions placed on the country as it continues to invade neighboring Ukraine. But Russia's state space corporation Roscosmos is trying to put those fears to rest, saying that it will bring home the astronaut as planned.
-<a href='https://www.theverge.com/2022/3/14/22977362/russia-roscosmos-nasa-space-station-mark-vande-hei'> Source <a/>
