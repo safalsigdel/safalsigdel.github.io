@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ADRcvvlYWyz4wP4mIYP8_gbQIfI=/0x0:5760x3840/1200x800/filters:focal(3039x629:3959x1549)/cdn.vox-cdn.com/uploads/chorus_image/image/70625379/615382646.0.jpg' width='700px' /><br/>
+David Mamet is known for plays like Glengarry Glen Ross and Speed-the-Plow, films like The Spanish Prisoner and Heist, books like On Directing Film and The Wicked Son, and as of last week, a short story about a lost airplane pilot filed as a legal brief supporting social media regulation in Texas.
+<a href='https://www.theverge.com/2022/3/15/22979026/david-mamet-amicus-brief-texas-hb20-social-media-regulation-texas'> Source <a/>
