@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NM2Z24QXmkmXjqmdeOmJxsNHwXk=/0x0:3000x2003/1200x800/filters:focal(886x980:1366x1460)/cdn.vox-cdn.com/uploads/chorus_image/image/70614549/905458560.0.jpg' width='700px' /><br/>
-The next-generation Subaru WRX STI could be electric. In a press release shared by the automaker on Friday, Subaru says it has no plans to build a gas-powered STI based on this generation's WRX platform.
-<a href='https://www.theverge.com/2022/3/12/22974617/subaru-retires-wrx-sti-explores-electrification-ev'> Source <a/>

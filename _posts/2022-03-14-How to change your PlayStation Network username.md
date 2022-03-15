@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iaOZ8HTEa4G71_pLbsAgQu5iPDA=/0x0:2040x1148/1200x800/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/70613943/vpavic_4261_20201023_0058.0.jpg' width='700px' /><br/>
-It wasn't always easy to change your PlayStation Network (PSN) account name. Actually, it wasn't until April 2019 that Sony allowed account holders to do it at all. Now, each account is allowed to change its username once for free. Any changes after that come at a cost: $4.99 if you're a PlayStation Plus subscriber, or $9.99 for everyone else.
-<a href='https://www.theverge.com/22962038/playstation-network-how-to-change-psn-username-gamertag'> Source <a/>

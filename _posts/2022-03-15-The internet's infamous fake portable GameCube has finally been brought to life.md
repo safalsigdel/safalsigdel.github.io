@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/5ZgUpEfzJsybFuwbrH8WZLxxN0U=/0x0:1280x720/1200x0/filters:focal(0x0:1280x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23315534/maxresdefault.jpeg' width='700px' /><br/>
+The “Nintendo GameCube Advance” is a strange piece of internet gaming history: a fanciful render of a portable version of the GameCube that has made the rounds online since 2005. But while the render has long been dismissed as a fan-made fake, YouTuber GingerOfOz has  taken matters into his own hands and built a real, functional version of the concept, as spotted by Eurogamer.
+<a href='https://www.theverge.com/2022/3/14/22977421/gamecube-portable-fake-image-2005-hardware-hack-gingerofoz-real'> Source <a/>

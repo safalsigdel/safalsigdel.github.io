@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HH8GOoZMnvMCeztIo-DlTS0m-PE=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70615702/VRG_Photo_5083_magazine.0.jpg' width='700px' /><br/>
-Apple's announcement of the Mac Studio on Tuesday may have fulfilled a dream that some Mac users have been clinging to for a couple of decades. Finally, there's a modular desktop Mac that's more powerful than the Mac mini without carrying the Mac Pro's high price tag.
-<a href='https://www.theverge.com/22974998/apple-xmac-myth-midrange-mid-tower-mac-studio'> Source <a/>

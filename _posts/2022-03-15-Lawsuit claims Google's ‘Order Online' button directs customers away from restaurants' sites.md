@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Z4bboCyxcHFrOUdo7F-GnrWXBqU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70622632/acastro_210121_1777_google_0001.0.jpg' width='700px' /><br/>
+Google is facing a lawsuit from a Florida restaurant chain owner that accuses the company of directing users to “unauthorized” Google-branded food ordering webpages, where it uses restaurants names “without their approval,” as first reported by Ars Technica.
+<a href='https://www.theverge.com/2022/3/14/22977512/google-lawsuit-bait-switch-tactic-customers-away-restaurants'> Source <a/>

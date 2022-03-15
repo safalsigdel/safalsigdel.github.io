@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/2rzLs7vGnldeo4oOJFreqA_jimE=/0x0:1846x1184/1200x800/filters:focal(681x378:975x672)/cdn.vox-cdn.com/uploads/chorus_image/image/70613613/crunchyroll_pause_service_russia.0.png' width='700px' /><br/>
-Sony Pictures Entertainment (SPE) has suspended all operations in Russia, halting home entertainment releases, such as Spider-Man: No Way Home, and temporarily blocking access to its anime streaming service, Crunchyroll, according to a report from Variety. The move will also pause any TV distribution deals in the country.
-<a href='https://www.theverge.com/2022/3/12/22974228/sony-halts-crunchyroll-theatrical-releases-russia-ukraine'> Source <a/>

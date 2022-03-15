@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OCYUEEc5odYKWErorN0WNvLa9po=/0x0:2032x1355/1200x800/filters:focal(854x516:1178x840)/cdn.vox-cdn.com/uploads/chorus_image/image/70617253/akrales_210917_4760_0175.0.jpg' width='700px' /><br/>
-The iPhone 14 Pro and 14 Pro Max may be the only models in the upcoming lineup to carry a new A16 chip, according to reliable Apple analyst Ming-Chi Kuo (via 9to5Mac). In a tweet, Kuo indicates that the standard iPhone 14 and 14 Max will be left with the A15 chipset that comes in all models of the iPhone 13.
-<a href='https://www.theverge.com/2022/3/13/22975719/iphone-14-pro-max-models-a16-chip-kuo-apple-rumors'> Source <a/>
