@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wKLCqJUk721QlIozqj46rjJ34KA=/0x0:5760x3840/1200x800/filters:focal(2420x1460:3340x2380)/cdn.vox-cdn.com/uploads/chorus_image/image/70618507/1096286350.0.jpg' width='700px' /><br/>
-Foxconn and other manufacturers are suspending operations in the Chinese tech hub of Shenzhen after authorities announced a partial lockdown due to a rise in COVID-19 cases. Businesses providing non-essential services have been ordered to close and everyone in the city of 17 million will be tested for COVID-19 following the reporting of 60 new infections on Sunday.
-<a href='https://www.theverge.com/2022/3/13/22976414/foxconn-production-shenzhen-lockdown-apple-china-covid'> Source <a/>
