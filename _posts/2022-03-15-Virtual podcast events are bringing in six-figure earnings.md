@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/GIvP_6lWww0osdQTrS35Ms0STnY=/0x0:2040x1360/1200x800/filters:focal(907x416:1233x742)/cdn.vox-cdn.com/uploads/chorus_image/image/70625158/akrales_210226_4438_0170.0.jpg' width='700px' /><br/>
+Howdy, team! I'm here, on a Tuesday. And what a day to have a platform, because now I can tell you to go watch / listen to the premiere of MUNA's new song at 11:45AM ET. May we sob together. (The teaser made the music sound somewhat upbeat, but you really never know.)
+<a href='https://www.theverge.com/2022/3/15/22979006/moment-house-virtual-events-gumball-host-read-marketplace-podcast'> Source <a/>
