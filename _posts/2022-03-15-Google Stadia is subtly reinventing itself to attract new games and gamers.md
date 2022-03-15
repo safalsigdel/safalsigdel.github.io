@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Aq5QSkfoxljkycirmMw7tgfH0m8=/0x0:1475x983/1200x800/filters:focal(660x402:896x638)/cdn.vox-cdn.com/uploads/chorus_image/image/70625543/stadia.0.jpg' width='700px' /><br/>
+Google's Stadia cloud gaming service didn't stick the landing, and it's been a rough ride since. But today, at the Google for Games Summit, it feels like Stadia might be moving in a promising direction — one that gives both gamers and game developers a reason to pay attention. And the magic word is “free.” Free demos, free trials, free for developers to offer, and hopefully free of the friction that made Stadia a difficult investment to start.
+<a href='https://www.theverge.com/2022/3/15/22978719/google-stadia-cloud-gaming-free-trial'> Source <a/>

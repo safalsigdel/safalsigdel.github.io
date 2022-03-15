@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/zvfhVgnetGBNZfD0Zx2mDXBUnC8=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70621471/acastro_180927_1777_lyft_0003.0.jpg' width='700px' /><br/>
-Lyft plans to add a temporary fuel surcharge to fares amid rising fuel prices around the country, the company confirmed to The Verge on Monday.
-<a href='https://www.theverge.com/2022/3/14/22977744/lyft-temporary-fuel-surcharge-fares-uber'> Source <a/>
