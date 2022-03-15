@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/_9zzutrFrMd7PO49Cqb64igDvUk=/400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23311209/se_sq.jpg' width='700px' /><br/>
-Everything about the iPhone SE is designed for the next few years except for one very important component: the screen. More specifically, the thick bezels that border the 4.7-inch LCD on the top and bottom. It's a tired design straight out of 2017 that makes an already-small screen feel even smaller than it could be.
-<a href='https://www.theverge.com/22975531/apple-iphone-se-2022-review-price-specs-screen-battery'> Source <a/>

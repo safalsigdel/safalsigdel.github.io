@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VjblaDZ8QirvxU0Qx-MzYr5JgfI=/0x0:4000x2762/1200x800/filters:focal(1680x1061:2320x1701)/cdn.vox-cdn.com/uploads/chorus_image/image/70624711/Starbucks_C40.0.jpg' width='700px' /><br/>
+In the not too distant future, you'll be able to sip coffee while your electric vehicle sips electrons. That's because Volvo is teaming up with ChargePoint to build a network of EV chargers at Starbucks locations across five US states.
+<a href='https://www.theverge.com/2022/3/15/22977536/volvo-chargepoint-ev-chargers-starbucks-dc-fast'> Source <a/>
