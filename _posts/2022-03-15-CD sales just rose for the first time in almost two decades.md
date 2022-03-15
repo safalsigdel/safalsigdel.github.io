@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/yb1BxhEuko_eTLNM5ExPcaTJ_Ck=/0x0:1055x703/1200x800/filters:focal(444x268:612x436)/cdn.vox-cdn.com/uploads/chorus_image/image/70618945/Screen_Shot_2022_03_14_at_9.16.02_AM.0.jpg' width='700px' /><br/>
-CD sales in the US for 2021 increased for the first time in almost two decades, according to data published by the Recording Industry Association of America (RIAA). Shipments rose from 31.6 million in 2020 to 46.6 million in 2021, and revenue from the format rose from $483.2 million to $584.2 million. The RIAA's numbers corroborate a similar report from MRC Data published earlier this year.
-<a href='https://www.theverge.com/2022/3/14/22976557/cd-sales-increase-2021-recording-industry-association-of-america'> Source <a/>
