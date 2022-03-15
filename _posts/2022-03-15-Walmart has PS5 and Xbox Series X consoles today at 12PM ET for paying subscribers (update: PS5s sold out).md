@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/08y0GucNJYMDn7E4AJvRHfA6bwo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70619847/vpavic_4261_20201023_0084.0.jpg' width='700px' /><br/>
-Update 2:10PM ET, March 14th: Walmart's site is sold out of both versions of PlayStation 5 consoles. The Xbox Series X is still available for Walmart Plus subscribers at this time.
-<a href='https://www.theverge.com/2022/3/14/22976676/sony-playstation-5-ps5-microsoft-xbox-series-x-walmart-plus-console-restock-availability-check'> Source <a/>
