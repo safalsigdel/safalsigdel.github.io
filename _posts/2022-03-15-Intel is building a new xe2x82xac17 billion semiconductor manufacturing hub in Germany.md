@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/lZgjCZx0tW2OaeWOhpbNVmFs13Q=/0x0:1648x927/1200x800/filters:focal(693x333:955x595)/cdn.vox-cdn.com/uploads/chorus_image/image/70624900/eu_rendering_1_16x9.jpg.rendition.intel.web.1648.927.0.jpg' width='700px' /><br/>
+Intel has announced a massive new investment in its European manufacturing sites, with a new xe2x82xac17 billion “leading-edge semiconductor fab mega-site” in Germany, and a xe2x82xac12 billion expansion of its existing Ireland fab.
+<a href='https://www.theverge.com/2022/3/15/22978954/intel-semiconductor-manufacturing-hub-germany-fab-europe-investment'> Source <a/>
