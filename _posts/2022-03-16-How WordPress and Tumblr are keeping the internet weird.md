@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/H9fIcFqWs7PJEpWL-mE-CEpvL3c=/0x0:2050x1367/1200x675/filters:focal(861x520:1189x848)/cdn.vox-cdn.com/uploads/chorus_image/image/70625032/VRG_ILLO_Decoder_Matt_Mullenweg_s.0.jpg' width='700px' /><br/>
-Matt Mullenweg is the CEO of Automattic, the company that owns WordPress.com, which he co-founded, and Tumblr, the irrepressible social network it acquired from the wreckage of AOL, Yahoo, and Verizon.
-<a href='https://www.theverge.com/2022/3/15/22977857/wordpress-tumblr-simplenote-internet-automattic-matt-mullenweg-interview'> Source <a/>

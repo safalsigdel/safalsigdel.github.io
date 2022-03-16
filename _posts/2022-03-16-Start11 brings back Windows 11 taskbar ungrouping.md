@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/nCpeyy_Wsbwr1h_tfW5tKlLuw4g=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70630124/start11_v12_ss05.0.png' width='700px' /><br/>
+If you're like me and you're disappointed by the taskbar in Windows 11, there are plenty of apps to bring back missing functionality. One of the most fully featured is Stardock's Start11, and it's being updated today (version 1.2 beta) to include support for ungrouping apps on the taskbar in Windows 11.
+<a href='https://www.theverge.com/2022/3/16/22980730/start11-windows-11-taskbar-ungrouping-features'> Source <a/>

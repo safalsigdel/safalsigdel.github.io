@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LYyND4_2rr1Hwv0F37lWtQwzLyU=/0x0:1242x828/1200x800/filters:focal(522x315:720x513)/cdn.vox-cdn.com/uploads/chorus_image/image/70630099/1QuickAccess_02_2x.0.jpg' width='700px' /><br/>
+Slack is giving its iPad app a much needed upgrade that will see it inherit many features of its desktop version, the company has announced. The app is getting a new two-column layout that shows a list of available channels and messages on the left, and their contents on the right. The left-hand sidebar is also being updated, and the app is getting better support for accessibility features like Apple's VoiceOver screen reader.
+<a href='https://www.theverge.com/2022/3/16/22978839/slack-ipad-app-update-two-columns-accessibility-sidebar'> Source <a/>
