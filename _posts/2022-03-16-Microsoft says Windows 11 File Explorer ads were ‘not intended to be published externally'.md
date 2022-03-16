@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/LCtx8sDN3wGL45fSB0IEohk32o8=/0x0:1280x720/1200x800/filters:focal(538x258:742x462)/cdn.vox-cdn.com/uploads/chorus_image/image/70625867/windows11darkmode.0.jpg' width='700px' /><br/>
+Microsoft appears to be testing a new type of ad inside File Explorer on Windows 11. Microsoft MVP and Twitter user Florian Beaubois discovered an ad in the latest test build of Windows 11, prompting users to check out the Microsoft Editor. While the ads might have appeared for some Windows 11 users, Microsoft says it was a mistake.
+<a href='https://www.theverge.com/2022/3/15/22979251/microsoft-file-explorer-ads-windows-11-testing'> Source <a/>

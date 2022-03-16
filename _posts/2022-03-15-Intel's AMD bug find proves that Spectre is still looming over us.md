@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TdbmH9mMcFQIRZHTBLjqYXvzDAQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70624874/acastro_210120_1777_intel_0001.0.jpg' width='700px' /><br/>
-When doing some of its own research, Intel's security team discovered a flaw in AMD's years-old patch against Spectre-based vulnerabilities, according to a report by Tom's Hardware. AMD has since provided an update on its security bulletin in response, where it suggests using an alternate mitigation option and has additional advice for software developers.
-<a href='https://www.theverge.com/2022/3/15/22977989/intel-amd-bug-spectre'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/c8qLbA-dEJQ-fRU1dchEAs23iJ0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70623039/980pro.0.jpg' width='700px' /><br/>
-18 months ago, Microsoft revealed that one of the most important advancements in its new Xbox Series X console would be coming to PC — the ability to stream tremendous amounts of data from a blazing fast NVMe solid state drive to your GPU, instead of relying on your pesky CPU to decompress it first. The so-called “DirectStorage API” would let games load more detailed worlds, and load them more quickly than before.
-<a href='https://www.theverge.com/2022/3/14/22978223/microsoft-directstorage-api-xbox-velocity-windows-pc-nvme-load-times'> Source <a/>

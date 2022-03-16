@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/-radEoHPh9yjDlO6G6177jSwDKc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70624720/IMG_2235.0.jpg' width='700px' /><br/>
-Xiaomi has announced the international version of the Xiaomi 12 Pro, its first global flagship phone since dropping the “Mi” branding. As with earlier phones in the Mi series like last year's Mi 11, it's a high-end device that seeks to beat competitors like Samsung on price-performance ratio.
-<a href='https://www.theverge.com/2022/3/15/22978767/xiaomi-12-pro-international-price-specs-features'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ci76vkveJrCJdxASQh4pr1wNvQU=/0x0:2000x1500/1200x800/filters:focal(648x464:968x784)/cdn.vox-cdn.com/uploads/chorus_image/image/70621836/9F33374D_FC91_4816_85F3_50D4E581D2C4.0.jpeg' width='700px' /><br/>
-Apple is releasing cool new desktop Macs again, but people are still doing plenty of fun projects using older Apple machines. A fun example that we spotted recently (h/t Input) was this mod by someone named Connor, who took the internals of an M1 Mac Mini and put them into one of Apple's most iconic desktops, the iMac G4.
-<a href='https://www.theverge.com/2022/3/14/22973567/m1-imac-g4-mod-apple-desktop-computer-project'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/T6fcIR9v9MA2LpvoUlSO8kUbMXs=/0x0:3840x2160/1200x800/filters:focal(1613x773:2227x1387)/cdn.vox-cdn.com/uploads/chorus_image/image/70624718/1292976_Ryzen_5800X3D_slide.0.jpg' width='700px' /><br/>
-AMD's latest desktop processor, the Ryzen 7 5800X3D, has finally gotten a release date and price after being announced earlier this year at CES 2022. It'll hit stores next month on April 20th for $449, ushering in what AMD proudly declares to be the “world's fastest gaming processor.
-<a href='https://www.theverge.com/2022/3/15/22978087/amd-ryzen-7-5800x3d-processor-price-release-date-stacking-v-cache'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DlV54lz2tqgnpvxOu3YmUX9YY_g=/0x0:1541x1016/1200x800/filters:focal(623x367:869x613)/cdn.vox-cdn.com/uploads/chorus_image/image/70622735/Destiny_2_Witch_Queen.0.png' width='700px' /><br/>
-If you're playing Destiny 2 on more than one platform, enabling cross-save allows you to maintain your progression regardless of which platform you're playing on, meaning you can finally move your Guardians, with all of their loot, to a different platform and freely jump between console and PC at your leisure. Here's how to do it, whether you want to transfer your account data between a PC and console or vice-versa.
-<a href='https://www.theverge.com/22966324/destiny-2-how-to-cross-save-game-pc-xbox-ps4-steam-data'> Source <a/>

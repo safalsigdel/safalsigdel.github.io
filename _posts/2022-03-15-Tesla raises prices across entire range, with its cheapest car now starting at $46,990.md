@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JIfEklfvl54-kfLB7B0ZPVvR2kY=/0x0:5472x3648/1200x800/filters:focal(2299x1387:3173x2261)/cdn.vox-cdn.com/uploads/chorus_image/image/70624273/1239204547.0.jpg' width='700px' /><br/>
-Tesla has raised prices across its entire line-up of electric vehicles. Prices have increased by between 5 to 10 percent, with the cheapest car the company sells — the Model 3 Rear-Wheel Drive — now starting at $46,990, while its top-end Model X Tri motor saw a price increase of $12,500, from $126,490 to $138,990.
-<a href='https://www.theverge.com/2022/3/15/22978817/tesla-ev-price-increase-raw-materials-inflation'> Source <a/>

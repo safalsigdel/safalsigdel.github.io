@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/8_WwNK7P785VyZq2HataY0JI_PI=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70625661/vpavic_210119_4378_0231.0.jpg' width='700px' /><br/>
+Samsung is bringing some of the camera features that come with the flagship Galaxy S22 to older devices, the company announced on its site. The One UI 4.1 update will extend to a wide range of phones, including the Galaxy S20, Galaxy S21, Galaxy S10, Note 20, and a portion of the Galaxy Z Fold and Z Flip families.
+<a href='https://www.theverge.com/2022/3/15/22979047/samsung-one-ui-4-1-update-s21-s20-z-fold-flip-older-devices'> Source <a/>

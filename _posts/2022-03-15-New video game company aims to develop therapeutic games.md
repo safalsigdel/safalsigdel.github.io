@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/wYW3rjYB4Jjf6--1wgCyO9xLlY4=/0x0:2560x1920/1200x800/filters:focal(1076x756:1484x1164)/cdn.vox-cdn.com/uploads/chorus_image/image/70624292/DeepWell_Logo_Standard.0.jpg' width='700px' /><br/>
-Devolver Digital founder Mike Wilson is partnering with medical device expert Ryan Douglas to launch DeepWell Digital Therapeutics, a video game company that will both develop games that can treat health conditions. The company will also help outside companies identify existing games that have therapeutic value, the founders say.
-<a href='https://www.theverge.com/2022/3/15/22976720/mental-health-video-game-treatment-deepwell-devolver-digital'> Source <a/>
