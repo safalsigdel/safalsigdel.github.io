@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/9gO5I8HderHWtz-bMZ6zIVgA0ow=/0x0:1920x1081/1200x800/filters:focal(788x551:1094x857)/cdn.vox-cdn.com/uploads/chorus_image/image/70630493/1763_GDU_UI__4_BW_V2_01__2_.0.png' width='700px' /><br/>
+Imagine if your old trig worksheets stepped in to help you out when you were stumped on a question. That's Practice Sets, the newest Google Classroom tool, in a nutshell.
+<a href='https://www.theverge.com/2022/3/16/22980116/google-classroom-practice-sets-beta-release-education'> Source <a/>

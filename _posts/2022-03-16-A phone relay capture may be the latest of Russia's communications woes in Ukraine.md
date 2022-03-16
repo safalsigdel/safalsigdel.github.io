@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gJ_cRu07NphTnKOvKEy-JQmCHMs=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70626296/VRG_Illo_STK010_K_Radtke_Russia_Glitch.0.jpg' width='700px' /><br/>
-In the latest communications setback to hit the Russian military, the Security Service of Ukraine (abbreviated as SBU) claims to have captured a hacker who was helping to provide communications services for Russian troops inside Ukrainian territory, VICE reports.
-<a href='https://www.theverge.com/2022/3/15/22979381/phone-relay-capture-russia-military-unencrypted-communications-ukraine'> Source <a/>
