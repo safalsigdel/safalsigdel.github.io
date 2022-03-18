@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/4wGHysFZcn2GQjNlyjeqEvezEKE=/0x0:2048x1536/1200x800/filters:focal(861x605:1187x931)/cdn.vox-cdn.com/uploads/chorus_image/image/70641360/308_full_suite_newsroom.5.jpeg' width='700px' /><br/>
+It's hard to escape the Dyson Airwrap online. Beauty influencers gush about its powers all over TikTok, Instagram, and YouTube. But you may want to hold off on investing in one. Dyson announced on Thursday that it's coming out with a new version of the Airwrap later this summer — and this one will be able to curl hair in both directions. The new Airwrap with all the attachments will cost $599.
+<a href='https://www.theverge.com/2022/3/18/22984636/dyson-airwrap-2022-beauty-tech-hair-curler'> Source <a/>
