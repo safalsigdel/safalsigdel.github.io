@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iNsm19HHceYh1qThJmeNYwz0SUE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70641332/sokane_191127_3819_5743.0.jpg' width='700px' /><br/>
+In a rare move, Porsche announced that it is planning on building its own network of electric vehicle charging stations. It also announced that it aims to have 80 percent of its sales be electric vehicles by 2030.
+<a href='https://www.theverge.com/2022/3/18/22984659/porsche-ev-charging-macan-718'> Source <a/>
