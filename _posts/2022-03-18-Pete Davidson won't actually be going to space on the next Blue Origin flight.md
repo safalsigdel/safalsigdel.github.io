@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/RWqe18YYdWW-u8ehB-Ix75UJBNI=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70639696/1232777398.0.jpg' width='700px' /><br/>
+Saturday Night Live star Pete Davidson is no longer scheduled to fly on Blue Origin's space flight later this month, the space tourism venture has announced. No reason was given for Davidson's departure, only that the date of the launch has shifted from its original March 23rd date.
+<a href='https://www.theverge.com/2022/3/18/22984441/blue-origin-space-pete-davidson-new-shepard'> Source <a/>
