@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/lrTzHKObCA2p2x1e-YOWcEwtl14=/0x0:5262x3466/1200x800/filters:focal(2211x1313:3051x2153)/cdn.vox-cdn.com/uploads/chorus_image/image/70626500/1238482549.0.jpg' width='700px' /><br/>
-On Tuesday, the Federal Communications Commission rolled out new rules requiring broadcasters to disclose when foreign governments lease time on their airwaves, an issue that has become more urgent following Russia's invasion of Ukraine.
-<a href='https://www.theverge.com/2022/3/15/22979504/fcc-jessica-rosenworcel-disclosures-foreign-broadcasts-russia-ukraine'> Source <a/>

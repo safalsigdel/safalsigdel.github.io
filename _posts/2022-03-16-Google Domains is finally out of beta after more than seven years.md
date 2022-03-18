@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/9LGtsQ9VArZUk2cdVpBpOJaEl1w=/0x0:2096x1182/1200x800/filters:focal(881x424:1215x758)/cdn.vox-cdn.com/uploads/chorus_image/image/70627741/JSL001_GoogleDomains_Social_Keyw.0.jpeg' width='700px' /><br/>
-Google Domains, the company's domain registration service, is losing the beta tag after first launching more than seven years ago, Google announced Tuesday. The service is now generally available in 26 countries, and the company says it already has “millions of active registrations.”
-<a href='https://www.theverge.com/2022/3/15/22979998/google-domains-out-of-beta'> Source <a/>

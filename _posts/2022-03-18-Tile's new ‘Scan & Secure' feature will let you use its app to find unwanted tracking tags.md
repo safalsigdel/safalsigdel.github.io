@@ -1,0 +1,5 @@
+<img src='https://cdn.vox-cdn.com/thumbor/jBmSNPcFF1eQZDAt_wg8e6weuYM=/0x0:1503x909/1200x800/filters:focal(632x335:872x575)/cdn.vox-cdn.com/uploads/chorus_image/image/70636369/Untitled.0.jpg' width='700px' /><br/>
+Tile has announced that it's rolling out its new “Scan & Secure” feature in its app this week, allowing anyone with the Tile app to run a scan to see if there are any unwanted Tile tags or trackers near you that shouldn't be there.
+<a href='https://www.theverge.com/2022/3/17/22983073/tile-scan-secure-feature-app-unwanted-tracking-tags-update'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/jBmSNPcFF1eQZDAt_wg8e6weuYM=/0x0:1503x909/1200x800/filters:focal(632x335:872x575)/cdn.vox-cdn.com/uploads/chorus_image/image/70636369/Untitled.0.jpg' width='700px' /><br/>
+Tile has announced that it's rolling out its new “Scan & Secure” feature in its app this week, allowing anyone with the Tile app to run a scan to see if there are any unwanted Tile tags or trackers near you that shouldn't be there.
+<a href='https://www.theverge.com/2022/3/17/22983073/tile-scan-secure-feature-app-unwanted-tracking-tags-update'> Source <a/>

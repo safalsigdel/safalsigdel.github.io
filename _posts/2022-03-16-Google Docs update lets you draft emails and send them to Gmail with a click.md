@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/TWoeUSnzToluBMXaoEy89cRIKK4=/0x0:657x438/1200x800/filters:focal(277x167:381x271)/cdn.vox-cdn.com/uploads/chorus_image/image/70629346/Screen_Shot_2022_03_16_at_11.53.31_AM.0.jpg' width='700px' /><br/>
-Google is rolling out a new feature in its Docs that's designed to make it easier to use its word processor to draft emails, the company has announced. It's part of Google's “smart canvas” initiative, which aims to seamlessly weave together the search giant's productivity software like Meet, Docs, and Gmail.
-<a href='https://www.theverge.com/2022/3/16/22980693/google-docs-gmail-draft-smart-canvas-chips'> Source <a/>

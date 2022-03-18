@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ySwlKYWRegICh5Zqg5OPXaX-qwQ=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70629030/Screenshot_2022_03_16_at_09.02.56__2_.0.png' width='700px' /><br/>
-Tesla has a complicated relationship with customers who pay to test the beta version of its “Full Sell Driving” software. Often, these people are diehard fans, keen to promote the company's prowess and show off its new driver assist features. Sometimes, though, they overshare — posting videos that show exactly when and how Tesla's software gets it wrong.
-<a href='https://www.theverge.com/2022/3/16/22980580/tesla-fired-employee-john-bernal-ai-addict-youtube-full-self-driving-beta-reviews'> Source <a/>
