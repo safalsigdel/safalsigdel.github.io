@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/y_6ZiRupULGY2yJCu6Hf9BtgvzY=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70640460/VRG_ILLO_5090_The_best_Fitbit_for_your_fitness_and_health.0.jpg' width='700px' /><br/>
+In 2022, Fitbit's current range of devices is meant to suit every budget, health goal, and lifestyle. You can find basic trackers meant to monitor the simplest of metrics, as well as smartwatches that can take EKGs and generate wellness reports for your doctors.
+<a href='https://www.theverge.com/22982833/best-fitbit-watch-fitness-tracker'> Source <a/>
