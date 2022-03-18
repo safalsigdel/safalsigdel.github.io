@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TIEsoUqcORQ4dLzS7EpvcAYTTHA=/0x0:1278x960/1200x800/filters:focal(537x378:741x582)/cdn.vox-cdn.com/uploads/chorus_image/image/70639891/002_product_image_Galaxy_A73_5G_1278x960.0.jpg' width='700px' /><br/>
+Alongside its Galaxy A53 5G and A33 5G, Samsung also snuck out an announcement for the Galaxy A73 5G, a new top-tier phone in the midrange A-series with a high resolution 108-megapixel camera. According to the company's press release, the Galaxy A73 5G will be available in “select markets” from April 22nd, at a price that's yet to be announced.
+<a href='https://www.theverge.com/2022/3/18/22984479/samsung-galaxy-a73-5g-release-date-news-features-specs-108-megapixel-camera'> Source <a/>
