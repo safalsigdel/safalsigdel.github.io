@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/c7RtKh7vsJKJr90-ForOr5mvkiA=/0x0:2048x1152/1200x800/filters:focal(861x413:1187x739)/cdn.vox-cdn.com/uploads/chorus_image/image/70641260/49996342761_297d9102c8_k.0.jpg' width='700px' /><br/>
+Gran Turismo 7, one of the biggest PlayStation 4 and PlayStation 5 games of the year so far, is back online after a 30-hour outage. A broken update resulted in longer than expected server maintenance yesterday, leaving players frustrated at the limited offline mode available in Gran Turismo 7.
+<a href='https://www.theverge.com/2022/3/18/22984770/gran-turismo-7-down-outage-back-online'> Source <a/>
