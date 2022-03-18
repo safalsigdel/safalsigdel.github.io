@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Zt3F96MBuQCQ9yxl2Gfswoh-oCE=/0x0:4096x2534/1200x800/filters:focal(1721x940:2375x1594)/cdn.vox-cdn.com/uploads/chorus_image/image/70640165/KV1_3.0.png' width='700px' /><br/>
+While Withings isn't a stranger to wrist-based sleep tracking, the company announced today that it's adding a new diary feature to its most novel sleep monitoring gadget — the Withings Sleep mat.
+<a href='https://www.theverge.com/2022/3/18/22983254/withings-sleep-mat-diary-tracking'> Source <a/>

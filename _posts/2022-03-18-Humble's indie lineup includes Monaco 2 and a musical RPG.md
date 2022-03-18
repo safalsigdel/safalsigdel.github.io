@@ -1,3 +1,0 @@
-<img src='' width='700px' /><br/>
-It may be best known for its regular bundles of games and other entertainment, but Humble Games is also an indie publishing label. And today the company detailed its upcoming slate of games which includes everything from a sequel to the classic heist game Monaco to a roleplaying musical called Stray Gods.
-<a href='https://www.theverge.com/2022/3/17/22981048/humble-games-indie-showcase-monaco-2-stray-gods'> Source <a/>
