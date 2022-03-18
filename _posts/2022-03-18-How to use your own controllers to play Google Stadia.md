@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_iZAhLeK7CjKNs6iusECkOKHdUc=/0x0:2040x1360/1200x800/filters:focal(784x632:1110x958)/cdn.vox-cdn.com/uploads/chorus_image/image/70640960/akrales_191113_3779_0284.0.jpg' width='700px' /><br/>
+The free tier of Google Stadia launched back in 2020, so access to Google's cloud game streaming service is readily available to a wide range of people across a list of countries. If you want to try it out yourself but don't feel like ponying-up the $69 for the official Stadia Controller, you thankfully don't need to let that stop you.
+<a href='https://www.theverge.com/22982878/google-stadia-controller-how-to-pair-bluetooth-ps4-ps5-xbox'> Source <a/>
