@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/s2zqd3vVoEWx_4xbhUEs4JIrpW8=/0x0:2040x1148/1200x675/filters:focal(857x411:1183x737)/cdn.vox-cdn.com/uploads/chorus_image/image/70641086/IMG_2179_3.0.jpg' width='700px' /><br/>
+Portable gaming PCs have come a long way. Much of the recent attention has fallen on Valve's Steam Deck, which just started shipping, but Valve didn't invent the category — it's following in the footsteps of several other products from smaller companies.
+<a href='https://www.theverge.com/22972334/aya-neo-next-review-vs-steam-deck-windows'> Source <a/>
