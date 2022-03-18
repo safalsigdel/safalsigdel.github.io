@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/ZWtXTYGZ2K5zUrY58tn4lH5myXg=/0x0:5120x2880/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/70636091/The_Quarry___Screenshot___Chris_Hackett_in_Office.0.png' width='700px' /><br/>
 Supermassive Games, the studio behind interactive horror games like Until Dawn and The Dark Pictures Anthology, has announced its next foray into the genre: The Quarry.
-<a href='https://www.theverge.com/2022/3/17/22980954/the-quarry-supermassive-horror-game-release-date-ps5-xbox-steam'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/ZWtXTYGZ2K5zUrY58tn4lH5myXg=/0x0:5120x2880/1200x800/filters:focal(2151x1031:2969x1849)/cdn.vox-cdn.com/uploads/chorus_image/image/70636091/The_Quarry___Screenshot___Chris_Hackett_in_Office.0.png' width='700px' /><br/>
-Supermassive Games, the studio behind interactive horror games like Until Dawn and The Dark Pictures Anthology, has announced its next foray into the genre: The Quarry.
 <a href='https://www.theverge.com/2022/3/17/22980954/the-quarry-supermassive-horror-game-release-date-ps5-xbox-steam'> Source <a/>
