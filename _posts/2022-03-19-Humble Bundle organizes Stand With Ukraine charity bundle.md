@@ -1,5 +1,3 @@
 <img src='https://cdn.vox-cdn.com/thumbor/k1bK7IagS_x2UF0XXe0kzMR1DFk=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70642334/ukraine.0.png' width='700px' /><br/>
 With the war in Ukraine entering its third week, Humble Bundle is releasing a charity game bundle with all proceeds supporting relief efforts in the country. In the announcement, Humble wrote:
-<a href='https://www.theverge.com/2022/3/18/22983137/humble-bundle-stand-with-ukraine-charity-bundle-price'> Source <a/><img src='https://cdn.vox-cdn.com/thumbor/k1bK7IagS_x2UF0XXe0kzMR1DFk=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70642334/ukraine.0.png' width='700px' /><br/>
-With the war in Ukraine entering its third week, Humble Bundle is releasing a charity game bundle with all proceeds supporting relief efforts in the country. In the announcement, Humble wrote:
 <a href='https://www.theverge.com/2022/3/18/22983137/humble-bundle-stand-with-ukraine-charity-bundle-price'> Source <a/>
