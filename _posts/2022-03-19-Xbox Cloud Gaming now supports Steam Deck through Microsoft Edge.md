@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/_U9MV0W9J8DBr_fTZqQ0uQBo3Ts=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70642398/vpavic_220210_5030_0017.0.jpg' width='700px' /><br/>
+Microsoft says it has worked closely with Valve to get Xbox Cloud Gaming working on the Steam Deck. While Steam Deck users have been able to access the Xbox game streaming service, it wasn't possible to use the handheld controls to play games. Microsoft has now released a beta version of Microsoft Edge for the Steam Deck that includes full support.
+<a href='https://www.theverge.com/22985166/xbox-cloud-gaming-steam-deck-microsoft-edge-beta'> Source <a/>

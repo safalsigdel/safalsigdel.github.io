@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Pagm68lcHjCMpGlk8lizmb4VATw=/0x0:1594x647/1200x0/filters:focal(0x0:1594x647):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23326492/oUdX90O.png' width='700px' /><br/>
-More than half of the images on the web are missing alt text, according to Microsoft. Image labels (alternative text) are key for many who are blind or low vision, as they provide screen readers with text to read aloud. Microsoft is now attempting to fill the gap with auto-generated alt text for images on the web.
-<a href='https://www.theverge.com/2022/3/18/22984474/microsoft-edge-automatic-image-labels-accessibility-feature'> Source <a/>

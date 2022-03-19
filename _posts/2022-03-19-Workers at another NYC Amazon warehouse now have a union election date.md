@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/yU8lrCHmxqKWVbhEOBBOcFlC_Fc=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70643480/acastro_180329_1777_amazon_0002.0.jpg' width='700px' /><br/>
+Workers at Amazon's LDJ5 facility in Staten Island in New York City will be voting on whether to unionize with the Amazon Labor Union starting April 25th, according to a report from CNBC. It's the second Staten Island Amazon warehouse to have a union election scheduled; workers at the company's JFK8 facility — also seeking to be represented by the ALU— will begin voting on March 25th.
+<a href='https://www.theverge.com/2022/3/18/22985518/amazon-warehouse-union-election-second-staten-island-ldj5'> Source <a/>

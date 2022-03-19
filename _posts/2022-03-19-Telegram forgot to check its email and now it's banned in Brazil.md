@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/05cV5ghZbK6sFWWXEBXOxZltAyU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70644072/acastro_180417_1777_telegram_0001.0.jpg' width='700px' /><br/>
+Telegram's founder and CEO Pavel Durov has just put out a statement about why Brazil's Supreme Court is now suspending the app, and the reason is incredible. In the statement, which you can read in full below or on Durov's Telegram channel, he says it was because his company was checking the wrong email address.
+<a href='https://www.theverge.com/2022/3/18/22985737/telegram-brazil-supreme-court-ban-email-address-statement-durov'> Source <a/>

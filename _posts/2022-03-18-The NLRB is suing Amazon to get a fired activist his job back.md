@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DvA2f0auvLwJpmcbzoCL8rSKe3E=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70638537/acastro_181114_1777_amazon_hq2_0001.0.jpg' width='700px' /><br/>
-Amazon is facing a lawsuit in federal court from the National Labor Relations Board. The watchdog has asked a judge to issue an injunction forcing Amazon to give labor activist Gerald Bryson his job back. Amazon fired Bryson in April 2020, in what the NLRB says is a clear case of Amazon retaliating against him for protesting unsafe working conditions at its JFK8 warehouse in Staten Island, NY.
-<a href='https://www.theverge.com/2022/3/17/22983692/nlrb-amazon-labor-activism-gerald-bryson-jfk8-warehouse-injunction'> Source <a/>

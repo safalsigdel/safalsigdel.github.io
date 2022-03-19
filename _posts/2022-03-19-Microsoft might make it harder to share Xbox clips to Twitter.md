@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/M0X_Ts-RNhrKh0ZP6Dsz49WFvNo=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70642452/vpavic_4275_20201030_0036.0.jpg' width='700px' /><br/>
+Microsoft may be making it more difficult to share your gameplay captures to Twitter, based on changes to Xbox Insider builds reported by Windows Central. Right now, on my Xbox Series X, I can post a screenshot or video directly to Twitter through the Xbox's interface, but according to Windows Central, Insider builds have removed that option and instead direct you to share from your phone.
+<a href='https://www.theverge.com/2022/3/18/22985073/microsoft-xbox-clips-twitter-harder-to-share-insider'> Source <a/>

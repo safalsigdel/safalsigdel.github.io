@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Y5xaK9QooD73-ghn07OYJSPj82o=/0x0:6056x4038/1200x800/filters:focal(2597x1231:3565x2199)/cdn.vox-cdn.com/uploads/chorus_image/image/70640630/verge_vjeran_pavic_meta_3_20211028.0.jpg' width='700px' /><br/>
-Last month, Allison P. Davis wrote a widely read article in New York titled “A Vibe Shift Is Coming.” In it, she posited that the third year of our pandemic would reveal an obvious, and perhaps wrenching, evolution of the culture. A vibe shift, she wrote, is “a relatively simple idea: In the culture, sometimes things change, and a once-dominant social wavelength starts to feel dated.”
-<a href='https://www.theverge.com/22984200/silicon-valley-tech-power-journalism-biden-trump'> Source <a/>

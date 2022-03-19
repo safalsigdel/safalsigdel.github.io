@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/Fu7rhf1iEG5BOgSY9IkliRslVKY=/0x0:1651x906/1200x0/filters:focal(0x0:1651x906):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23327335/Screen_Shot_2022_03_18_at_12.43.33_PM.png' width='700px' /><br/>
+Universal Control is one of the coolest software tricks that Apple has come up with in years, and it's a perfect example of what's possible when a company has full control both over hardware and the software that runs on those devices. There are similar concepts, like Logitech Flow, but nothing quite so polished or deeply integrated at the operating system level as Universal Control.
+<a href='https://www.theverge.com/22984949/how-to-use-apple-universal-control-mac-ipad'> Source <a/>

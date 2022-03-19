@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iswOtjQ4EP8BMJWsw9Bg6Z27sac=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70640783/jporter_220314_5084_0001.0.jpg' width='700px' /><br/>
-I have a confession: I'm exhausted by keyboard RGB lighting. Ever since Cherry announced its debut MX RGB switches at the end of 2013, it feels like no mainstream mechanical keyboard has been complete without a set of lights capable of twinkling like a Christmas tree. But I switch them to plain white at the first opportunity. I want to be able to see my keys, not get distracted by them.
-<a href='https://www.theverge.com/22984595/logitech-g413-tkl-se-review-mechanical-gaming-keyboard'> Source <a/>

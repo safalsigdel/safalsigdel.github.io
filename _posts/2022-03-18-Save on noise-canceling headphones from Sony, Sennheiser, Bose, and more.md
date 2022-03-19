@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/DbBut25bW4C41JHn0DX77s058MU=/0x0:2040x1360/1200x800/filters:focal(457x462:783x788)/cdn.vox-cdn.com/uploads/chorus_image/image/70640936/IMG_0620-1.0.0.jpeg' width='700px' /><br/>
-We're all about headphones in today's deals post. Regardless of your brand of choice, we've found a variety of models and styles available at sizeable discounts. All of these headphones occupy a spot in our roundup of the best noise-canceling headphones, so they're definitely worthy of your consideration.
-<a href='https://www.theverge.com/good-deals/2022/3/18/22982875/noise-canceling-headphone-sony-sennheiser-bose-shure-iphone-se-deal-sale'> Source <a/>

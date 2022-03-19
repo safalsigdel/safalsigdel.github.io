@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Rq_nzivc9dTzolAPZfQzx8uYrFQ=/0x0:2846x1606/1200x800/filters:focal(1196x576:1650x1030)/cdn.vox-cdn.com/uploads/chorus_image/image/70637070/Screen_Shot_2022_03_17_at_2.50.51_PM.0.png' width='700px' /><br/>
-The ESPN app has been updated with support for Apple's SharePlay feature, which lets you watch videos over FaceTime together with family and friends. The feature is particularly well suited for live sports, which the ESPN app (by virtue of offering built-in access to Disney's ESPN Plus streaming service) offers a fairly considerable amount of.
-<a href='https://www.theverge.com/2022/3/17/22983444/espn-plus-apple-shareplay-feature-ios-ipad-tv-sharing-streaming-sports'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/iY-aNo-G04Bd3xHRGgX5_9KGIBE=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70643826/acastro_180427_1777_0003.0.jpg' width='700px' /><br/>
+Google is finally bringing the ability to delete the last 15 minutes of your search history to its Android app, the company confirmed to The Verge.
+<a href='https://www.theverge.com/2022/3/18/22985668/google-android-app-delete-last-15-minutes-search-history'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/R8pq0dDmegPn_SIXgfVNNg8a9Mw=/0x0:1600x900/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/70643444/OW2_Blizzcon_2019_Rio_IGC_Group_03.0.jpg' width='700px' /><br/>
+Last week, Blizzard revealed plans to start Overwatch 2 closed beta testing in April and attempted to open the door for user sign-ups, but its registration page crashed almost immediately under the strain. Now the developers are talking more about what to expect from the new game and have announced a date for the start of beta testing: April 26th.
+<a href='https://www.theverge.com/2022/3/18/22984763/overwatch-2-beta-release-date-faq-activision-blizzard'> Source <a/>

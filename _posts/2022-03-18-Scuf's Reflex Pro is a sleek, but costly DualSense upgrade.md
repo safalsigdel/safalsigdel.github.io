@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OfqlXcYnTNsab9w7GpH_aUTjUrQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70636756/cfaulkner_141231_5086_0003.0.jpg' width='700px' /><br/>
-The PS5's DualSense is one of the most feature-packed controllers ever made. And at $69.99 (or slightly more for bolder colors) it's expensive enough as is if you need to buy another one. Nevertheless, peripheral brand Scuf has packed even more into its Reflex lineup of controllers, in turn ballooning its cost.
-<a href='https://www.theverge.com/22981354/scuf-reflex-pro-ps5-pc-dualsense-controller-review-specs-remapping'> Source <a/>
