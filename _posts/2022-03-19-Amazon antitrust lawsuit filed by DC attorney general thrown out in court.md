@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/L8EFywvsZYsf3AncaREPr0oX2wc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70645882/acastro_181114_1777_amazon_hq2_0002.0.jpg' width='700px' /><br/>
+An antitrust lawsuit filed against Amazon by District of Columbia Attorney General Karl Racine was thrown out in court on Friday, according to a report by The New York Times.
+<a href='https://www.theverge.com/2022/3/19/22986307/dc-attorney-general-antitrust-lawsuit-amazon-tossed-out-court'> Source <a/>
