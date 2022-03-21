@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/7QVJ_ENeoGCVSYdXRyl0GNajrF8=/0x0:1200x607/1200x0/filters:focal(0x0:1200x607):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23331420/fortnite_chapter_3_season_2_agility_uprising_1200x607_d96186ccc35c.jpg' width='700px' /><br/>
+A new season of Fortnite is upon us, and this one is a little... strange. Developer Epic Games is rolling out Chapter 3: Season 2 of the long-running battle royale, and it's called Resistance; a story trailer (embedded above) features a number of opposing forces duking it out on the Fortnite island, along with a certain sorcerer from the Marvel universe.
+<a href='https://www.theverge.com/2022/3/20/22987308/fortnite-chapter-3-season-2-battle-pass-doctor-strange'> Source <a/>

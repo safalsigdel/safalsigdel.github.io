@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/qkDueS9EQ-hYSnH31L5OuCDihiM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70649817/acastro_180417_1777_telegram_0004.0.jpg' width='700px' /><br/>
+Brazil has lifted its ban on Telegram after the country's Supreme Court blocked the messaging app on Friday for failing to comply with court orders, according to a report from The New York Times.
+<a href='https://www.theverge.com/2022/3/20/22988183/telegrams-ban-brazil-lifted-president-bolsonaro'> Source <a/>

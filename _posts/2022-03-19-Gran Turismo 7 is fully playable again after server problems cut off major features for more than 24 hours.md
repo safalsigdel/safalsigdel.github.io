@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UeEHGW7B6pfr6nhph7dL4ppUH1o=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/70638430/i1yUwuUQyq9FluH.0.jpeg' width='700px' /><br/>
-Gran Turismo 7, one of the biggest PlayStation 4 and PlayStation 5 releases of the year so far, suffered through server maintenance for over a day because of an issue found with the game's latest update. “Due to an issue found with Update 1.07, we are extending the current server maintenance period,” reads a notice on the Gran Turismo website from Thursday morning. “We will confirm the completion time as soon as possible.”
-<a href='https://www.theverge.com/2022/3/17/22983882/ps5-gran-turismo-7-update-1-0-7-server-outage-hours'> Source <a/>

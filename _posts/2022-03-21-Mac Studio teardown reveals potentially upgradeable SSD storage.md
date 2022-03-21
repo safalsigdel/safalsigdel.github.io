@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/h_mYdP1uDA_nysUUACQkD28QF3A=/0x0:1596x694/1200x0/filters:focal(0x0:1596x694):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23330231/apple_mac_studio_storage.png' width='700px' /><br/>
+During Max Tech's teardown of the Mac Studio, the channel's host Max Yuryev discovers something very interesting about Apple's new hardware: two SSD ports. This may mean that the Mac Studio's storage is upgradeable after all.
+<a href='https://www.theverge.com/2022/3/19/22986705/mac-studio-teardown-potentially-upgradeable-ssd-storage-apple'> Source <a/>

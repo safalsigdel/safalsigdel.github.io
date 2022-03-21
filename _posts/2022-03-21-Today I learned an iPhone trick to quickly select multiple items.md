@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PgM1Uaq2COyWt-Mcmy82Vk7W3pU=/0x0:2002x1335/1200x800/filters:focal(841x508:1161x828)/cdn.vox-cdn.com/uploads/chorus_image/image/70650775/vpavic_210916_4760_0240.0.jpg' width='700px' /><br/>
+I almost feel silly writing this out butxe2x80xa6 did anyone else know there's a built-in gesture to bulk select messages, emails, notes, and more across Apple's stock apps? Rather than using a sub-menu to put the items in “Select” mode and then ticking the circles that appear in each row, you can just swipe two fingers down the list to select every item in the list that your fingers touch.
+<a href='https://www.theverge.com/2022/3/21/22988703/ios-tip-select-multiple-items-apple-apps-ipados'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/aNlZfFSc2Fzz-3qKKCYw4-l9xtQ=/0x0:1020x676/1200x800/filters:focal(318x147:480x309)/cdn.vox-cdn.com/uploads/chorus_image/image/70649600/20120530-DSC_4049-VERGE.0.jpg' width='700px' /><br/>
+The Nintendo Wii and DSi Shop channels have been offline for several days, according to a report from Eurogamer. Both shops may have been down for as long March 16th with no explanation from Nintendo.
+<a href='https://www.theverge.com/2022/3/20/22988097/nintendo-wii-dsi-shop-channels-down-for-days'> Source <a/>

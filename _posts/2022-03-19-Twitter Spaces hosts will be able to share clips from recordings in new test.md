@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZUIijl4RzuBgrCw6VllR0snWSHE=/0x0:1974x1142/1200x800/filters:focal(830x414:1144x728)/cdn.vox-cdn.com/uploads/chorus_image/image/70641722/FOFz8UlXIAQFQb6.0.jpeg' width='700px' /><br/>
-Twitter is testing a new feature for its Spaces audio rooms that allows a host to share a clip of recorded Spaces on their timeline. The feature is now available to “certain Hosts on iOS.” Everyone on iOS can see and listen to clips, while those on Android and the web will be able to “real soon,” according to Twitter. Clips will live on Twitter for 30 days, company spokesperson Joseph J. Nuxc3xb1ez said in a statement to The Verge.
-<a href='https://www.theverge.com/2022/3/18/22984866/twitter-spaces-clips-recordings-hosts-ios'> Source <a/>

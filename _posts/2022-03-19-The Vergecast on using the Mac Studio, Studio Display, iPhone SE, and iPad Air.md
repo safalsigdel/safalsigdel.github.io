@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/nqdp-0v5VKOCk8ySsxc-7fDui3Y=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/70641328/bfarsace_171210_5072_0015.0.jpg' width='700px' /><br/>
-Every Friday, The Verge publishes our flagship podcast, The Vergecast, where Verge editor-in-chief Nilay Patel discusses the week in tech news with the reporters and editors covering the biggest stories.
-<a href='https://www.theverge.com/2022/3/18/22984682/mac-studio-display-iphone-se-ipad-air-2022-review-vergecast-podcast-490'> Source <a/>
