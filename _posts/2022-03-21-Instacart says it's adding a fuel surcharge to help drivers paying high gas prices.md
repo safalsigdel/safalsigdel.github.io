@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/WiRJ6p14i1En9YCDiw9mD5Nfkdo=/0x0:5194x3465/1200x800/filters:focal(2182x1318:3012x2148)/cdn.vox-cdn.com/uploads/chorus_image/image/70643380/1147794851.0.jpg' width='700px' /><br/>
-Grocery delivery platform Instacart announced Friday that it was joining the list of companies adding a temporary fuel surcharge to customers' orders, intended to help offset higher-than-normal gas prices its driver-shoppers are paying.
-<a href='https://www.theverge.com/2022/3/18/22985380/instacart-fuel-surcharge-gas-prices-delivery-rideshare-lyft-uber'> Source <a/>
