@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/gIVQgA5W4muLbIHUDcaeWYBhXR0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70651202/bfarsace_211004_4777_0003.0.jpg' width='700px' /><br/>
-Microsoft is pushing ahead with plans to warn Windows 11 users that have installed the operating system on unsupported hardware. In a new update to Windows 11, a watermark has appeared on the desktop wallpaper for unsupported systems, alongside a similar warning in the landing page of the settings app.
-<a href='https://www.theverge.com/22988775/microsoft-windows-11-desktop-watermark-unsupported-hardware'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/YTdScyqslvHAFvQklFSzPl49hfw=/0x0:5601x3175/1200x800/filters:focal(2353x1140:3249x2036)/cdn.vox-cdn.com/uploads/chorus_image/image/70655827/1239408887.0.jpg' width='700px' /><br/>
+Tesla's fourth Gigafactory, and its first in Europe, is officially being opened today by the company's CEO Elon Musk, Reuters reports. The milestone was reached around two and a half years after Tesla initially announced its plans to build a factory on the site, which is located just outside the German capital of Berlin, and is officially called Giga Berlin-Brandenburg.
+<a href='https://www.theverge.com/2022/3/22/22808108/tesla-gigafactory-open-production-start-elon-musk'> Source <a/>
