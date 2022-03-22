@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/qcvphNjjuyR0oTR4rUIjkqERHoU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70652582/akrales_20210526_4595_0284.0.jpg' width='700px' /><br/>
-The official range estimates for the Ford F-150 Lightning pickup truck are in, and they're looking pretty good. The base model, which starts at $39,974, will get around 230 miles of range, while the extended range versions start in the mid-$50,000s and can go about 320 miles — or about 20 additional miles than originally expected.
-<a href='https://www.theverge.com/2022/3/21/22989234/ford-f150-lightning-epa-range-electric-truck'> Source <a/>
