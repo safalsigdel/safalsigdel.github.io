@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tMOlu_ozEHe3UGC6yGFtUaanRDQ=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70657078/akrales_220120_4970_0017.0.jpg' width='700px' /><br/>
+One downside to Peloton's treadmills is that they've lacked a pause button. Thankfully, the company announced yesterday that the latest software update brings the feature to both the Tread and Tread Plus.
+<a href='https://www.theverge.com/2022/3/22/22990772/peloton-tread-fitness-pause-button'> Source <a/>

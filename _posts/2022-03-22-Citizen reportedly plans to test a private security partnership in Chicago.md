@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/dgoy_QC46wEyN4FqO0B1hYpadQw=/0x0:1640x1260/1200x800/filters:focal(689x499:951x761)/cdn.vox-cdn.com/uploads/chorus_image/image/70652863/04.0.png' width='700px' /><br/>
-Crime reporting app Citizen has reportedly planned a partnership with private security outfit Securitas in Chicago. A report from Motherboard, citing multiple anonymous sources, suggests Citizen remains interested in offering security services despite ongoing concerns about its app.
-<a href='https://www.theverge.com/2022/3/21/22989246/citizen-securitas-chicago-private-security-test-plans'> Source <a/>
