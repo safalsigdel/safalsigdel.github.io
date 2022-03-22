@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/pvGIgQO22bR1v9wOLvfWHsAIT_0=/0x0:7360x4912/1200x800/filters:focal(1605x1184:2781x2360)/cdn.vox-cdn.com/uploads/chorus_image/image/70653581/Grubhub_For_Restaurants_Delivery_Status.0.png' width='700px' /><br/>
-District of Columbia Attorney General Karl Racine is suing Grubhub for deceptive business practices, saying its food delivery app covertly inflates prices for diners who order through it. The suit demands an end to a laundry list of allegedly illegal practices as well as financial restitution and civil penalties.
-<a href='https://www.theverge.com/2022/3/21/22989563/district-of-columbia-karl-racine-grubhub-lawsuit-misleading-fees'> Source <a/>

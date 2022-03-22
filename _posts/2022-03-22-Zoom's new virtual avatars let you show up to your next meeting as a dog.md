@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ppWzpvbqE0puBmYTHXvqKXr8Q6M=/0x0:1600x966/1200x800/filters:focal(672x355:928x611)/cdn.vox-cdn.com/uploads/chorus_image/image/70657232/avatars_in_meeting.0.png' width='700px' /><br/>
+Zoom will let you show up to your next meeting as a rabbit, fox, dog, or another type of animal, using its new Avatars feature that replaces you with a virtual character that copies your expressions, Memoji-style. The company says this feature, which is included in the Zoom 5.10 update, will only let you become an animal at launch, but that new avatar options will be added in the future.
+<a href='https://www.theverge.com/2022/3/22/22990983/zoom-virtual-avatars-animal-face-replacement'> Source <a/>

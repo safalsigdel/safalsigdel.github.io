@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/at4mWl-4zqRVf61FOFL237vs0x4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70653367/akrales_220309_4977_0258.0.jpg' width='700px' /><br/>
-As the Russian invasion of Ukraine draws on, consequences are being felt by many parts of the technology sector, including open-source software development.
-<a href='https://www.theverge.com/2022/3/21/22989339/protestware-attacks-russia-sberbank-open-source'> Source <a/>
