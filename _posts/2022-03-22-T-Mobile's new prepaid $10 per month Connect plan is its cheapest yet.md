@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Mhim2EN1C-qIElCnxeVa8S6x8bc=/0x0:1250x615/1200x800/filters:focal(525x208:725x408)/cdn.vox-cdn.com/uploads/chorus_image/image/70652185/Connect_nr_hero_3_18_22_1250x615.0.png' width='700px' /><br/>
-T-Mobile has refreshed its prepaid Connect plan offerings, including a new $10 per month plan that the company says is its “lowest price smartphone plan ever,” offering customers 1,000 minutes of talk, 1,000 texts, and 1GB of data each month.
-<a href='https://www.theverge.com/2022/3/21/22989022/t-mobile-connect-new-plans-prepaid-cost-monthly-data'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/FxFH4Ot5PxHUqhHZ7r-SHD3oBEY=/0x0:4000x2667/1200x800/filters:focal(1680x1014:2320x1654)/cdn.vox-cdn.com/uploads/chorus_image/image/70652322/539774786.0.jpg' width='700px' /><br/>
-Sony announced Monday that it has entered an agreement to acquire Montreal-based Haven Studios, which is founded and led by veteran game designer Jade Raymond. Haven and Sony originally announced a partnership just over a year ago, but now Sony is bringing Haven into the fold as one of its first-party PlayStation studios. The price of the deal wasn't disclosed.
-<a href='https://www.theverge.com/2022/3/21/22989187/sony-playstation-haven-studios-acquisition-jade-raymond-new-multiplayer-game'> Source <a/>

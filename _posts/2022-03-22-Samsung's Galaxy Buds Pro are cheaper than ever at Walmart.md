@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/uploads/chorus_asset/file/19632025/Verge_Deals_Site_Logo_2020_113px.0.png' width='700px' /><br/>
+If you want some of the best true wireless earbuds that Samsung has crafted yet, the Galaxy Buds Pro are selling for their lowest price yet at Walmart. You can pick them up in black, silver, or violet for $119.99, which is about $20 less than the previous low price. These offer the most amount of functionality on Samsung devices, including automatic device switching and 3D audio. But they're still great on other Android phones and tablets.
+<a href='https://www.theverge.com/good-deals/2022/3/22/22990708/samsung-galaxy-buds-pro-apple-pencil-ipad-bose-gaming-headset-tcl-mini-led-4k-tv-deal-sale'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/ZAdrfw5EC1kpy-YW8lHY_pdsCkQ=/0x0:3000x2000/1200x675/filters:focal(1273x886:1753x1366)/cdn.vox-cdn.com/uploads/chorus_image/image/70656367/vincentkilbride_theverge_earwolf_lead_illustration.0.jpg' width='700px' /><br/>
+Paul Scheer says the pitch was simple. It was 12 years ago, and the founders of Earwolf wanted him to make a podcast: “We're gonna make these shows,” he recalls them saying, “and you can do whatever you want.”
+<a href='https://www.theverge.com/22989201/siriusxm-podcasts-earwolf-stitcher-acquisition-hosts-employees-leaving'> Source <a/>

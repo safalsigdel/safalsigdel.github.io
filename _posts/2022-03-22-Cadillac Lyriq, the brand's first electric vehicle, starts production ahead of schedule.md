@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/HvKKfHiE8rbqDERqsJ1DvpMdHhY=/0x0:2400x1491/1200x800/filters:focal(1008x554:1392x938)/cdn.vox-cdn.com/uploads/chorus_image/image/70652261/MY23LYRIQ_HERO_FRONT_3_4_BLACK_ROOF_FINAL.0.jpg' width='700px' /><br/>
-The 2023 Cadillac Lyriq electric crossover is now in production at General Motors' Spring Hill, Tennessee factory, the automaker announced Monday. The EV is the luxury brand's first electric vehicle.
-<a href='https://www.theverge.com/2022/3/21/22988872/cadillac-lyriq-production-ev-spring-hill-delivery'> Source <a/>

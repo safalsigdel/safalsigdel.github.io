@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-087Iwtl-vCNDTol80fMilaWVSk=/0x0:6201x4134/1200x800/filters:focal(2605x1571:3597x2563)/cdn.vox-cdn.com/uploads/chorus_image/image/70656226/Maserati_Grecale_Folgore.0.jpg' width='700px' /><br/>
+Italian luxury automaker Maserati unveiled the Grecale, a brand-new compact SUV that will come in a range of powertrains, including an all-electric version in 2023. It will be the tip of the spear in Maserati's plan to become an EV-only brand by 2030.
+<a href='https://www.theverge.com/2022/3/22/22989478/maserati-grecale-electric-suv-specs-price'> Source <a/>

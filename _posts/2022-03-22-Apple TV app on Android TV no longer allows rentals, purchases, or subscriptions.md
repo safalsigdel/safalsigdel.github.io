@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/W8NkAeC3lLWqoWfPK6-zcnKY7EU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70651871/DSCF7479.0.jpg' width='700px' /><br/>
-Apple has abruptly removed the option to rent or purchase movies through its Apple TV app on Android TV devices. This also affects devices running Google TV, like the 2020 Chromecast and recent TVs from Sony, TCL, and others. As noted by FlatPanelsHD and 9to5Mac, the previous ability to directly rent or buy content has been removed. And The Verge has found that on-device Apple TV Plus subscriptions are also no longer permitted.
-<a href='https://www.theverge.com/2022/3/21/22988846/apple-tv-app-android-google-rentals-purchases'> Source <a/>
