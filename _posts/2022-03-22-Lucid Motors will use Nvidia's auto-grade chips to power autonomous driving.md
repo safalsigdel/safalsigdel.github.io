@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/OYs0k1e-Kw5QX2xINpI2oxcP8ow=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70657540/ahawkins_210623_4646_0005.0.jpg' width='700px' /><br/>
+Lucid Motors will use Nvidia's auto-grade computer chips in its vehicles to enable advanced driver assistance and autonomous driving features, the companies announced Tuesday. The automaker's current and future lineup will be built on Nvidia's end-to-end Drive Hyperion platform.
+<a href='https://www.theverge.com/2022/3/22/22991065/lucid-nvidia-drive-hyperion-chip-ev'> Source <a/>
