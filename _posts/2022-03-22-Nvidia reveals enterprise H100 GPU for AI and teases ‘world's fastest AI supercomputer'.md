@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/xPswYbzwOGZKeZT3tNLXgeM9D3c=/348x28:1242x724/1200x800/filters:focal(672x322:928x578)/cdn.vox-cdn.com/uploads/chorus_image/image/70657119/Hopper_Arch___H100_Die___Image.0.png' width='700px' /><br/>
+Nvidia has announced a slew of AI-focused enterprise products at its annual GTC conference. They include details of its new silicon architecture, Hopper; the first datacenter GPU built using that architecture, the H100; and vague plans to build what the company claims will be the world's fastest AI supercomputer, named Eos.
+<a href='https://www.theverge.com/2022/3/22/22989182/nvidia-ai-hopper-architecture-h100-gpu-eos-supercomputer'> Source <a/>
