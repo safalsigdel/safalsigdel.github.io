@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PQrVEBIFG5kdCgwPjisF9l90Lz4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70655648/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
+Okta, an authentication company used by thousands of organizations around the world, says it's investigating news of a potential breach, Reuters reports. The disclosure comes as hacking group Lapsus$ has posted screenshots to its Telegram channel claiming to be of Okta's internal systems, including one that appears to show Okta's Slack channels, and another with a Cloudflare interface.
+<a href='https://www.theverge.com/2022/3/22/22990637/okta-breach-single-sign-on-lapsus-hacker-group'> Source <a/>
