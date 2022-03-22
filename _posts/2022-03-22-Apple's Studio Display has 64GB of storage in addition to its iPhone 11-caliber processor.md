@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/0PwFNYU7oGZ0v0dNfgLlE9F0cWo=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/70656895/bfarsace_171212_5072_0065.0.jpg' width='700px' /><br/>
+Apple's new Studio Display is a fascinating piece of technology, largely due to the A13 Bionic chipset that powers it — making it as powerful as an entire iPhone 11. But it turns out the internal hardware of the Studio Display is even odder: not only does the Studio Display have an A13 chipset, but it also comes with a whopping 64GB of internal memory, as spotted by Twitter user Khaos Tian.
+<a href='https://www.theverge.com/2022/3/22/22990875/apple-studio-display-64gb-storage-a13-processor-iphone-hardware'> Source <a/>
