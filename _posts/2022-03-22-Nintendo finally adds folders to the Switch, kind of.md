@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/sRMTkv19lJ7by_2_ShDObZca9-w=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/70655471/switchgroups.0.jpg' width='700px' /><br/>
+Nintendo has added a new folder-style feature to the Switch's UI, more than five years after the console was first released. It's included as part of system firmware version 14.0, which is available to download now.
+<a href='https://www.theverge.com/2022/3/22/22990564/nintendo-switch-folders-bluetooth-audio-firmware-14-0'> Source <a/>
