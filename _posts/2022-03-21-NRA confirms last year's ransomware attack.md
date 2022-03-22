@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/ZBDNg-bGjOw0_1dQH7lbHfaxS5g=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70646164/acastro_170629_1777_0008.0.jpg' width='700px' /><br/>
-The National Rifle Association (NRA) has confirmed it was the subject of a ransomware attack that took place last October, according to a report from Gizmodo.
-<a href='https://www.theverge.com/2022/3/19/22986501/nra-confirms-ransomware-attack-hack'> Source <a/>

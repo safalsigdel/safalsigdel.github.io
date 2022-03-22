@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/TTCiPy-gt-h7u4iRIQS4nMr6rkE=/0x0:900x506/1200x800/filters:focal(378x181:522x325)/cdn.vox-cdn.com/uploads/chorus_image/image/70652560/460cfa54bfe7d580178dc3350ba5aeeb3b33c7c3.0.png' width='700px' /><br/>
+CD Projekt Red has announced that it's working on a brand-new Witcher game, which will “kick off a new saga for the franchise,” and the first new mainstream title in the series since The Witcher 3: Wild Hunt was released all the way back in 2015.
+<a href='https://www.theverge.com/2022/3/21/22989313/cd-projekt-red-new-witcher-game-unreal-engine-5-announcement'> Source <a/>

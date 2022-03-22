@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/fP2PgseKRj33teo64zv7JfFDd7w=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70652719/acastro_180604_1777_apple_wwdc_0001.0.jpg' width='700px' /><br/>
+Many Apple services were experiencing outages for a good chunk of early Monday afternoon.
+<a href='https://www.theverge.com/2022/3/21/22989393/apple-is-down-outage-music-imessage-maps-icloud-app-store'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/SwTCDGk1Z4409k5rcdUWfHzJln0=/0x107:2880x1707/1200x800/filters:focal(1478x487:1938x947)/cdn.vox-cdn.com/uploads/chorus_image/image/70648419/russian_cosmosnauts_ukraine_colors.0.png' width='700px' /><br/>
-Russian space agency Roscosmos has denied claims that its three cosmonauts wore what appeared to be the colors of the Ukrainian flag as a potential statement against the ongoing war, according to a report from the BBC. The three cosmonauts, Denis Mateev, Oleg Artemyev, and Sergey Korsakov donned bright yellow and blue suits as they boarded the International Space Station on Friday.
-<a href='https://www.theverge.com/2022/3/20/22987541/russia-denies-reports-cosmonauts-wore-yellow-support-ukraine-invasion-roscosmos'> Source <a/>

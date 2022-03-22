@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/S4iviSVI6fXFaYb-TrHrpUpMXwc=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70644297/acastro_220315_STK017_0003.0.jpg' width='700px' /><br/>
-Vimeo has announced that it's making some major changes to its bandwidth policy, after several creators spoke out about how the company pulled the rug out from under them by demanding large sums of money if they wanted to keep hosting their videos on the platform. The new policies replace nebulous terms with definitive ones, and guarantee that creators will have time to prepare for changes.
-<a href='https://www.theverge.com/2022/3/18/22985820/vimeo-bandwidth-policy-changes-2tb-cap'> Source <a/>

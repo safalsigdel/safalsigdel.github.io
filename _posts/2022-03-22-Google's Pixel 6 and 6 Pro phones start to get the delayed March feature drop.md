@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/tRSlckX7WRH5W1z1kWUfaVY0mLM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70652935/bfarsace_211014_4802_0123.0.jpg' width='700px' /><br/>
+The Pixel 6 and 6 Pro are finally getting this month's sizeable feature drop, as Google spokesperson Matt Flegal confirmed to The Verge that the rollout will begin today. Google previously rolled out the update to the Pixel 3A and 5A on March 7th but decided to push back the update for Pixel 6 devices to address bug fixes, according to Android Police.
+<a href='https://www.theverge.com/2022/3/21/22989212/google-pixel-6-pro-march-software-update-delay'> Source <a/>

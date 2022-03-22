@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4A02np0DDoXN3PB4Yl5FAMJLLeQ=/0x0:1678x980/1200x0/filters:focal(0x0:1678x980):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/23330773/tekken_bloodline_netflix.jpg' width='700px' /><br/>
-Netflix just announced one more title for its swelling library of original anime series. It plans to release Tekken: Bloodline later this year and revealed the series with a one-and-a-half-minute “official teaser” trailer. There's no exact date or mention of episode count, but the summary reveals it will focus on Jin Kazama, who joined the series as a character in Tekken 3.
-<a href='https://www.theverge.com/2022/3/19/22986995/tekken-bloodlines-anime-netflix-teaser-trailer-streaming'> Source <a/>

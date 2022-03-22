@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/vmPL3t54Td54-iGUox0-g2IFlIo=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/70649373/hp_chromebook_x2_11_26.0.jpg' width='700px' /><br/>
-Google is testing support for variable refresh rates (VRR) in the Chrome OS 101 Dev Channel, as first spotted by Kevin Tofel at About Chromebooks. You have to enable a flag at chrome://flags#enable-variable-refresh-rate to access the feature, which Google says can be used with “capable displays.”
-<a href='https://www.theverge.com/2022/3/20/22987668/chrome-os-tests-variable-refresh-rate-vrr-support-dev-channel-101-update'> Source <a/>
