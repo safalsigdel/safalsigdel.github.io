@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PWF-KNCttV_9ukEdNFYNfiBTYDk=/0x0:2640x1749/1200x800/filters:focal(1109x664:1531x1086)/cdn.vox-cdn.com/uploads/chorus_image/image/70661584/tomwarren_corei9_12900K_1.0.jpg' width='700px' /><br/>
+Intel is finally on the right track again.
+<a href='https://www.theverge.com/2022/3/23/22992681/intel-ceo-pat-gelsinger-semiconductor-processor-strategy-idm-2-0-one-year'> Source <a/>

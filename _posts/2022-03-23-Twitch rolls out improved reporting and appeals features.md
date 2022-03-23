@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/UqimQWWNfzj2RC1K1USZmr8pry4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70657949/acastro_210115_1777_twitch_0003.0.jpg' width='700px' /><br/>
-Twitch is overhauling its safety tools, improving its reporting process, and adding a new appeals portal.
-<a href='https://www.theverge.com/2022/3/22/22989778/twitch-new-reporting-appeals-tools'> Source <a/>
