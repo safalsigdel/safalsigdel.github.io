@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/XTd2gFNaf0CADrj4V1HX6_nNByI=/0x0:2040x1361/1200x800/filters:focal(690x380:1016x706)/cdn.vox-cdn.com/uploads/chorus_image/image/70653667/bfarsace_171212_5072_0072.0.jpg' width='700px' /><br/>
-Workers at Apple Stores or Authorized Service Providers will be able to change which stand is attached to the Studio Display, according to a report from MacRumors, which cites internal Apple documents. This is despite a warning on Apple's “Buy Apple Studio Display” page, which says that you have to choose a stand at the time of purchase, as they're “built-in” and “not interchangeable.”
-<a href='https://www.theverge.com/2022/3/21/22989517/apple-store-studio-display-interchangeable-stand-replacement-repair-service'> Source <a/>

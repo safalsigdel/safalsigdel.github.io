@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/VqI5WYFtKUPFtMxSNg89YsE-Mk0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70658500/acastro_180827_1777_0001.0.jpg' width='700px' /><br/>
+Twitter may have just rolled back a really bad product decision, but on Tuesday, it added a very good one: you can make GIFs right from the in-app camera on iOS. The new feature could be a useful way to share short clips to your timeline without having to upload a full video.
+<a href='https://www.theverge.com/2022/3/22/22991551/twitter-gif-in-app-ios-camera'> Source <a/>

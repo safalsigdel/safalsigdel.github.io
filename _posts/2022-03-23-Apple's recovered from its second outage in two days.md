@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/mU43_iZRII9VBPbJGuM8UYeIIZA=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70658901/acastro_180604_1777_apple_wwdc_0004.0.jpg' width='700px' /><br/>
+A few of Apple's services experienced another outage on Tuesday, just one day after a good chunk of Apple's services and online infrastructure were knocked offline on Monday. Apple's system status page says that the issues with Apple Music, Podcasts, Books, and the App Store have been resolved, almost two hours after they began affecting some users.
+<a href='https://www.theverge.com/2022/3/22/22991792/apple-music-app-store-is-down-outage'> Source <a/>

@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/PQrVEBIFG5kdCgwPjisF9l90Lz4=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70655648/acastro_170629_1777_0008_v2.0.jpg' width='700px' /><br/>
+Okta, an authentication company used by thousands of organizations around the world, has now confirmed an attacker had access to one of its employees' laptops for five days in January 2022 and that around 2.5 percent of its customers may have been affected — but maintains its service “has not been breached and remains fully operational.”
+<a href='https://www.theverge.com/2022/3/22/22990637/okta-breach-single-sign-on-lapsus-hacker-group'> Source <a/>

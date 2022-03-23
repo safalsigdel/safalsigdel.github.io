@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dPVc-B83x2VJaQaH7yXvdFaQWto=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70659045/DSCF5692_3.0.jpg' width='700px' /><br/>
+Sonos is known for its whole-home audio systems and its soundbars, but now the company is hiring for a new home theater project that's sure to give you more control from the couch. The speculation comes from the mention of a new “Home Theater OS” project being revealed in new Sonos job postings, as reported by Protocol.
+<a href='https://www.theverge.com/2022/3/22/22991456/sonos-home-theater-os-tv-rumor-job-listings'> Source <a/>

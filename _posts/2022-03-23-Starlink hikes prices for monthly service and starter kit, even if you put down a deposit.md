@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/-GKA_clG5vsC9417gubNeAOvmas=/0x0:6387x4259/1200x800/filters:focal(2684x1620:3704x2640)/cdn.vox-cdn.com/uploads/chorus_image/image/70659273/1239230849.0.jpg' width='700px' /><br/>
+SpaceX's internet-from-space program Starlink is increasing prices for both the purchase of Starlink kits and for the monthly service, according to a new email sent out to customers this afternoon reviewed by The Verge. The company says the “sole purpose of these adjustments is to keep pace with rising inflation.”
+<a href='https://www.theverge.com/2022/3/22/22991841/spacex-starlink-price-hike-inflation-user-terminal'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/4KnXCAWxrXq4wJj6f9F4Z3M5krY=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70654245/acastro_180427_1777_0001.0.jpg' width='700px' /><br/>
-Google has settled with six engineers over claims the company squashed employees' efforts to organize, as first reported by Motherboard. The specifics of the settlement remain under a non-disclosure agreement, but four of the workers who were allegedly fired out of retaliation for their labor activism in 2019 will not be reinstated, while one still remains employed by the tech giant.
-<a href='https://www.theverge.com/2022/3/21/22989683/google-fired-engineers-union-settlement-lawsuit-project-vivian'> Source <a/>

@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/K56E5fjJob52Epogh4iSnefXt4A=/0x0:2094x1158/1200x800/filters:focal(880x412:1214x746)/cdn.vox-cdn.com/uploads/chorus_image/image/70656095/Screenshot_2022_03_22_at_10.32.40.0.png' width='700px' /><br/>
-Robinhood has announced a new debit card, branded as the Robinhood Cash Card. The card will be linked to a spending account separate to users' brokerage accounts, and work for in-person and online payments as well as ATM withdrawals. The new card will replace Robinhood's current Cash Management debit card, originally announced in 2019.
-<a href='https://www.theverge.com/2022/3/22/22990636/robinhood-cash-debit-card-new-round-upinvestment-rewards'> Source <a/>

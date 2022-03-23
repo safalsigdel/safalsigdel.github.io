@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/xC4Cr8l2TFQRsDDFsY7oZgpcsHQ=/0x0:2040x1361/1200x800/filters:focal(857x518:1183x844)/cdn.vox-cdn.com/uploads/chorus_image/image/70654219/bfarsace_171212_5072_0090.0.jpg' width='700px' /><br/>
-Apple's new Mac Studio was revealed to have an interesting secret over the weekend: it has removable SSD storage. But a subsequent video from YouTuber Luke Miani reveals that the Mac Studio still can't be upgraded: not because of hardware limitations, but because Apple appears to be blocking replacement SSDs on a software level, via AppleTrack.
-<a href='https://www.theverge.com/2022/3/21/22989226/apple-mac-studios-removable-ssd-blocked-software-replacement'> Source <a/>

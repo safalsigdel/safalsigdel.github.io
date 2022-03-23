@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/XaALOaEWsIKVew0h6Kfs2Yyc-B0=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70658123/acastro_180927_1777_uber_0002.0.jpg' width='700px' /><br/>
+Uber plans to temporarily remove the ability to split fares sometime next month, as reported by Mashable. The company is “in the process of reworking how riders split fares,” Uber said in a statement shared with Mashable and also given to The Verge. “We know this is a popular feature, so rest assured that we are planning to roll out a new, improved version in the coming months.”
+<a href='https://www.theverge.com/2022/3/22/22991307/uber-temporarily-removing-split-fares'> Source <a/>

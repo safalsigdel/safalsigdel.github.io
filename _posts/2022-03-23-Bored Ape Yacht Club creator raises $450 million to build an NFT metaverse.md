@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/dkWiAWZzE1sbop1P83o6jdLT9CM=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70658203/acastro_2203011_5082_0001.0.jpg' width='700px' /><br/>
+Yuga Labs, the owner of three of the biggest NFT brands on the market, has raised $450 million in funding at a $4 billion valuation, the company announced today. The team behind Bored Ape Yacht Club plans to use the money to build a media empire around NFTs, starting with games and its own metaverse project.
+<a href='https://www.theverge.com/2022/3/22/22991272/yuga-labs-seed-funding-a16z-bored-ape-yacht-club-bayc-metaverse-other-side'> Source <a/>

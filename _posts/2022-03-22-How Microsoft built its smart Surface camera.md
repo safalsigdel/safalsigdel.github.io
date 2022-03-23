@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/OnlN906vUXhuz1H0vXhUSzuO6TU=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70655947/SH_Smart_Camera___Live_2.0.jpg' width='700px' /><br/>
-“From day one of Surface Hub 2, we knew we were going to make our cameras smart,” explains Steven Bathiche, who oversees all hardware innovation for Microsoft devices, in an interview with The Verge. Microsoft's surprise $799.99 Surface Hub 2 Smart Camera debuted last week, offering automatic reframing without the warping and distortions you might typically see on other conference room cameras.
-<a href='https://www.theverge.com/2022/3/22/22990673/microsoft-surface-hub-2-smart-camera-interview-report'> Source <a/>

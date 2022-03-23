@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/NMDuf-IGnyOmwDMZw8hdl9Nueb8=/0x0:1372x915/1200x800/filters:focal(577x349:795x567)/cdn.vox-cdn.com/uploads/chorus_image/image/70655891/Screen_Shot_2022_03_22_at_11.27.46_AM.0.jpg' width='700px' /><br/>
-WhatsApp, the Meta-owned encrypted messaging service that boasts over two billion users worldwide, is adding emoji reactions in beta on Android. WABetaInfo, a reliable source of upcoming WhatsApp features, reports that emoji reactions have started appearing in beta version 2.22.8.3 of the service's Android app, giving users a quick and easy way to respond to incoming messages.
-<a href='https://www.theverge.com/2022/3/22/22990675/whatsapp-beta-reactions-android-emoji'> Source <a/>
