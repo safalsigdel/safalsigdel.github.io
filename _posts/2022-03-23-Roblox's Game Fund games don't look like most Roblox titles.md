@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/KgdyHe9Ky8yRCmgVSttZV6uydjA=/0x0:1900x861/1200x800/filters:focal(798x279:1102x583)/cdn.vox-cdn.com/uploads/chorus_image/image/70657614/Screen_Shot_2022_03_21_at_4.50.58_PM.0.png' width='700px' /><br/>
-Last July, Roblox announced the Game Fund, a program to give developers funding and support for Roblox experiences. Timed with the Game Developers Conference this week, the company is using those funded games to showcase the range of experiences possible with its tools.
-<a href='https://www.theverge.com/2022/3/22/22989995/roblox-game-fund-25-million-rolling-thunder-winds-of-fortune'> Source <a/>

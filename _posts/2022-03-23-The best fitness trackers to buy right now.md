@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/Pd-0gJcv9riDwOsOS5rTQa5K2vc=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70657032/acastro_220321_5092_0001.0.jpg' width='700px' /><br/>
-Fitness trackers have come a long way from the simple bands that tracked steps and little else. Modern trackers can monitor everything from your heart health to how well you've recovered from a hard bout of training. They've got sensors galore and, in some cases, can give smartwatches a run for their money. Whatever your fitness goals are, there's probably a fitness tracker that can help you achieve them.
-<a href='https://www.theverge.com/22985108/best-fitness-tracker'> Source <a/>

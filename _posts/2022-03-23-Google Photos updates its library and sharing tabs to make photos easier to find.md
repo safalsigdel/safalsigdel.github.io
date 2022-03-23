@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/GdGnqIyVwW5lychSS2BZmDU_vhU=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70657224/1BEB77B1_EB2C_4E1F_A9C1_1B863908E956.0.jpeg' width='700px' /><br/>
-Google Photos is getting a pretty significant layout change that should make it easier to find the photos and albums you're looking for in the library and sharing tabs.
-<a href='https://www.theverge.com/2022/3/22/22990987/google-photos-update-library-sharing-tabs'> Source <a/>
