@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/QTd5dQGQSlTzVSJkl_w4bqpu4a0=/0x0:3600x2700/1200x800/filters:focal(1512x1062:2088x1638)/cdn.vox-cdn.com/uploads/chorus_image/image/70656873/instagram_product_tag_1.0.jpg' width='700px' /><br/>
-Instagram is opening its product tagging feature to all users in the US, which means you no longer need a business or creator account to tag products in your posts. Starting today, the feature will start rolling out to everyone “over the next few months.” Instagram has transformed into an app where just about everything can be shoppable, and now you can purchase the same look that your friend is wearing in their posts.
-<a href='https://www.theverge.com/2022/3/22/22990744/instagram-product-tag-posts-shopping'> Source <a/>

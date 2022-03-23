@@ -1,0 +1,3 @@
+<img src='https://cdn.vox-cdn.com/thumbor/o0WR08WFowdElo8zrSOBqOBN_8s=/0x0:2040x1360/1200x675/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/70660440/acastro_220322_5097_0001.0.jpg' width='700px' /><br/>
+Last week, Ukraine accused DJI — the world's leading drone maker — of letting Russia target innocent civilians with missiles using DJI drone technology. “Are you sure you want to be a partner in these murders?” tweeted Ukraine Vice Prime Minister Mykhailo Fedorov last Wednesday. “Block your products that are helping Russia to kill the Ukrainians!”
+<a href='https://www.theverge.com/22985101/dji-aeroscope-ukraine-russia-drone-tracking'> Source <a/>
