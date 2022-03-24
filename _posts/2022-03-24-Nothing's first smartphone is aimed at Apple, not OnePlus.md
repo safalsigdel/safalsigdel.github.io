@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/JLYu9AZfIGCmGv6yijcjG0hsdUI=/0x0:1620x1080/1200x675/filters:focal(681x411:939x669)/cdn.vox-cdn.com/uploads/chorus_image/image/70661425/Home_Screen___First_Iteration__not_final_.5.jpg' width='700px' /><br/>
-Nothing will launch its debut smartphone this summer, its CEO and former OnePlus co-founder Carl Pei announced today during a live stream. It'll be called the Phone 1, run Android, and be powered by a Qualcomm Snapdragon processor. And yes, it was this phone that Carl Pei was photographed showing Qualcomm CEO Cristiano Amon — albeit wrapped in a privacy-protecting case.
-<a href='https://www.theverge.com/2022/3/23/22992424/nothing-phone-1-smartphone-carl-pei-apple-ecosystem'> Source <a/>
