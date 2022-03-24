@@ -1,3 +1,0 @@
-<img src='https://cdn.vox-cdn.com/thumbor/iOetcyTxJ7UVoadMnz5vCncjjNc=/0x0:750x375/1200x800/filters:focal(315x128:435x248)/cdn.vox-cdn.com/uploads/chorus_image/image/70661309/PRA203_09_001_00_check.0.jpg' width='700px' /><br/>
-Last year, Netflix debuted an anime spinoff set in the mech-vs.-kaiju world of Pacific Rim, and next month, the series will be coming to an end. The second and final season of Pacific Rim: The Black is coming to the streaming service on April 19th and is described as the “epic conclusion” for the story.
-<a href='https://www.theverge.com/2022/3/23/22992513/pacific-rim-the-black-netflix-anime-season-2-release-date'> Source <a/>
